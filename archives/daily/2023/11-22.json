@@ -1,6 +1,6 @@
 {
   "startTime": 1700583873668,
-  "endTime": 1700649518672,
+  "endTime": 1700651740592,
   "band_list": [
     {
       "raw_hot": 8204738,
@@ -83,6 +83,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1675983,
+      "num": 518111,
+      "word": "张一鸣或成为中国第一个世界首富",
+      "onboard_time": 1700648254,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1651629,
       "num": 165703,
       "word": "冲绳",
@@ -99,12 +107,12 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 1439701,
-      "num": 518111,
-      "word": "张一鸣或成为中国第一个世界首富",
-      "onboard_time": 1700648254,
-      "rank": 30,
-      "category": "社会新闻,财经"
+      "raw_hot": 1533806,
+      "num": 436651,
+      "word": "董岩磊 230斤",
+      "onboard_time": 1700649932,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1392131,
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 897466,
+      "num": 430489,
+      "word": "何猷君 太好了你没病病",
+      "onboard_time": 1700650774,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 893913,
       "num": 893913,
       "word": "17岁姑姑打6个月零工送小侄子金镯",
@@ -225,6 +241,14 @@
       "onboard_time": 1700643640,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 817614,
+      "num": 817614,
+      "word": "闲鱼大量封号",
+      "onboard_time": 1700650656,
+      "rank": 0,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 815016,
@@ -369,6 +393,14 @@
       "onboard_time": 1700639076,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 589154,
+      "num": 589154,
+      "word": "时尚集团声明",
+      "onboard_time": 1700649698,
+      "rank": 8,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 587606,
@@ -539,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 492703,
+      "num": 429582,
+      "word": "金莎爸爸辣评女儿恋情",
+      "onboard_time": 1700650958,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491004,
       "num": 491004,
       "word": "小雪",
@@ -609,6 +649,14 @@
       "onboard_time": 1700641175,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448022,
+      "num": 448022,
+      "word": "她怎么会不想上学呢",
+      "onboard_time": 1700647835,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445571,
@@ -705,6 +753,14 @@
       "onboard_time": 1700615316,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383393,
+      "num": 383393,
+      "word": "大马丁 阿根廷的英雄主义",
+      "onboard_time": 1700649156,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 382864,
@@ -835,6 +891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 348159,
+      "num": 348159,
+      "word": "2024考研438万人报名",
+      "onboard_time": 1700651076,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 342177,
       "num": 342177,
       "word": "开心消消乐 崩了",
@@ -857,14 +921,6 @@
       "onboard_time": 1700614833,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329064,
-      "num": 329064,
-      "word": "她怎么会不想上学呢",
-      "onboard_time": 1700647835,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328184,
@@ -913,6 +969,14 @@
       "onboard_time": 1700624853,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306815,
+      "num": 306815,
+      "word": "heerina嗑到了",
+      "onboard_time": 1700650774,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304019,
@@ -1155,6 +1219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239226,
+      "num": 239226,
+      "word": "infp天选职业",
+      "onboard_time": 1700649156,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238632,
       "num": 238632,
       "word": "ChatGPT崩了",
@@ -1251,12 +1323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217866,
-      "num": 217866,
-      "word": "大马丁 阿根廷的英雄主义",
-      "onboard_time": 1700649156,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 216284,
+      "num": 216284,
+      "word": "纸嫁衣鸳鸯债 拍摄过审",
+      "onboard_time": 1700651135,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 214707,
@@ -1451,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193925,
+      "num": 193925,
+      "word": "王者美少女战士联名",
+      "onboard_time": 1700650594,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192808,
       "num": 192808,
       "word": "热刺球迷",
@@ -1529,14 +1609,6 @@
       "onboard_time": 1700636555,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186607,
-      "num": 186607,
-      "word": "infp天选职业",
-      "onboard_time": 1700649156,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 186395,
@@ -1683,6 +1755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164660,
+      "num": 164660,
+      "word": "陪大熊猫走过生命最后一程",
+      "onboard_time": 1700649814,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164160,
       "num": 164160,
       "word": "郑秀妍新专辑",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1700641416,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153975,
+      "num": 646738,
+      "word": "更适合00后的锦旗已出现",
+      "onboard_time": 1700646996,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153895,
@@ -1867,20 +1955,20 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 134798,
-      "num": 646738,
-      "word": "更适合00后的锦旗已出现",
-      "onboard_time": 1700646996,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134028,
       "num": 134028,
       "word": "offer5最后的黑板是这么用的",
       "onboard_time": 1700641358,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133599,
+      "num": 133599,
+      "word": "两医生上班途中顺手救回晕倒老人",
+      "onboard_time": 1700650115,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132676,
@@ -1905,6 +1993,14 @@
       "onboard_time": 1700566655,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128361,
+      "num": 132321,
+      "word": "金莎 欢迎找我演妈妈",
+      "onboard_time": 1700651617,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 127408,
