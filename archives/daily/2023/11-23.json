@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700673400262,
+  "endTime": 1700674458667,
   "band_list": [
     {
       "raw_hot": 1117247,
@@ -163,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 187335,
+      "num": 187335,
+      "word": "开心消消乐崩了",
+      "onboard_time": 1700674040,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177910,
       "num": 177910,
       "word": "养老院不能睡懒觉",
@@ -273,6 +281,14 @@
       "onboard_time": 1700661579,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121209,
+      "num": 111090,
+      "word": "郑州市卫健委回应三孩补贴无法落实",
+      "onboard_time": 1700672123,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120658,
@@ -411,12 +427,12 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 68521,
-      "num": 68521,
-      "word": "郑州市卫健委回应三孩补贴无法落实",
-      "onboard_time": 1700672123,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 67911,
+      "num": 60002,
+      "word": "平肩薄背原来可以躺出来",
+      "onboard_time": 1700673140,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 66601,
@@ -435,12 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47626,
+      "raw_hot": 47644,
       "num": 55931,
       "word": "郑州市卫健委称三孩补贴目前无法申请",
       "onboard_time": 1700672302,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46461,
+      "num": 48302,
+      "word": "沈羽洁以爱为营剧组vlog",
+      "onboard_time": 1700658274,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 45674,
@@ -449,14 +473,6 @@
       "onboard_time": 1700662719,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43942,
-      "num": 55903,
-      "word": "平肩薄背原来可以躺出来",
-      "onboard_time": 1700673140,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 38249,
