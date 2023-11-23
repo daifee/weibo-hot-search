@@ -1,0 +1,410 @@
+{
+  "runTime": 1700735817251,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3205108,
+        "num": 3205108,
+        "word": "迪丽热巴 郭培高定",
+        "onboard_time": 1700733096,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 406424,
+        "num": 1504875,
+        "word": "女儿43年为妈妈私人定制150件衣服",
+        "onboard_time": 1700733033,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71339,
+        "num": 1428817,
+        "word": "山川同念英雄回家",
+        "onboard_time": 1700725712,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1359694,
+        "num": 1359694,
+        "word": "明星收3.3万元坑位费只卖出一包木耳",
+        "onboard_time": 1700727452,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254542,
+        "num": 1082593,
+        "word": "2小时回家路走了70多年",
+        "onboard_time": 1700733033,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1009367,
+        "num": 1009367,
+        "word": "死亡打光下的贾静雯",
+        "onboard_time": 1700728055,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217366,
+        "num": 837831,
+        "word": "入伍30年一级军士长告别军营",
+        "onboard_time": 1700723433,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 769308,
+        "num": 769308,
+        "word": "茶百道与霸王茶姬等合资成立新公司",
+        "onboard_time": 1700726192,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 579352,
+        "num": 579352,
+        "word": "倪妮露肩礼服",
+        "onboard_time": 1700733216,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 552642,
+        "num": 552642,
+        "word": "机洗羽绒服一洗一个不吱声",
+        "onboard_time": 1700730155,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 836583,
+        "num": 531849,
+        "word": "迪丽热巴 黄金战袍",
+        "onboard_time": 1700734115,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 481594,
+        "num": 481594,
+        "word": "娜然 森林精灵",
+        "onboard_time": 1700734895,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 460915,
+        "num": 460915,
+        "word": "eStar 人被刀就会死",
+        "onboard_time": 1700733216,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 432759,
+        "num": 432759,
+        "word": "VOGUE时尚之力盛会",
+        "onboard_time": 1700730994,
+        "rank": 13,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 393824,
+        "num": 393824,
+        "word": "唐嫣 南京",
+        "onboard_time": 1700729556,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377178,
+        "num": 377178,
+        "word": "檀健次腹肌",
+        "onboard_time": 1700733096,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365378,
+        "num": 365378,
+        "word": "秦岚会计没白学",
+        "onboard_time": 1700732673,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309047,
+        "num": 309047,
+        "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
+        "onboard_time": 1700734653,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308198,
+        "num": 308198,
+        "word": "代号鸢左慈抄袭遇见逆水寒无情",
+        "onboard_time": 1700732973,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298027,
+        "num": 298027,
+        "word": "小杨哥回应徒弟圣罗兰事件",
+        "onboard_time": 1700713541,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 290689,
+        "num": 290689,
+        "word": "库迪咖啡进军奶茶",
+        "onboard_time": 1700730512,
+        "rank": 20,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 288786,
+        "num": 288786,
+        "word": "这轮发烧为何来的这么狠",
+        "onboard_time": 1700732014,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267243,
+        "num": 267243,
+        "word": "麦当劳买回金拱门",
+        "onboard_time": 1700726192,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 259347,
+        "num": 259347,
+        "word": "劳斯莱斯都给你拍涨价了",
+        "onboard_time": 1700735073,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258279,
+        "num": 258279,
+        "word": "封神 朝歌",
+        "onboard_time": 1700718755,
+        "rank": 24,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 255415,
+        "num": 255415,
+        "word": "于适背头耳钉",
+        "onboard_time": 1700729673,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245798,
+        "num": 245798,
+        "word": "花海 世冠是我们的最后一场比赛了",
+        "onboard_time": 1700730754,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238834,
+        "num": 238834,
+        "word": "大熊猫小奇迹学吃窝窝头",
+        "onboard_time": 1700731894,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232957,
+        "num": 232957,
+        "word": "不是衣架买不起 椅背更有性价比",
+        "onboard_time": 1700733096,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150843,
+        "num": 225630,
+        "word": "谁说标准版不配好外观",
+        "onboard_time": 1700735254,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 223358,
+        "num": 223358,
+        "word": "赵丽颖 中式清冷眼妆",
+        "onboard_time": 1700724334,
+        "rank": 30,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 221856,
+        "num": 221856,
+        "word": "孙千孙美林 纯正姐狗",
+        "onboard_time": 1700734415,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218715,
+        "num": 218715,
+        "word": "你是咕噜党还是咪咪党",
+        "onboard_time": 1700733753,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201104,
+        "num": 201104,
+        "word": "爱奇艺尖叫之夜阵容",
+        "onboard_time": 1700722894,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200976,
+        "num": 200976,
+        "word": "华为Mate60 Pro帮他挡下了子弹",
+        "onboard_time": 1700724512,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179200,
+        "num": 179200,
+        "word": "刘诗诗片场叫刘宇宁远舟哥哥",
+        "onboard_time": 1700724512,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177828,
+        "num": 177828,
+        "word": "张小斐大女主犯罪片票房第一",
+        "onboard_time": 1700735433,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176924,
+        "num": 176924,
+        "word": "清融 属于易坦子融花的故事结束了",
+        "onboard_time": 1700731833,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165440,
+        "num": 165440,
+        "word": "肖战冷暖反差大片",
+        "onboard_time": 1700723433,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164555,
+        "num": 164555,
+        "word": "公司回应杜旭东带货3万坑位费卖货一单",
+        "onboard_time": 1700730395,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 162681,
+        "num": 162681,
+        "word": "解放军就美菲位南海联合巡航发表谈话",
+        "onboard_time": 1700730395,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154829,
+        "num": 154829,
+        "word": "曾黎景甜合照",
+        "onboard_time": 1700732073,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153157,
+        "num": 153157,
+        "word": "辛芷蕾犹豫一秒都是对咒语的不尊重",
+        "onboard_time": 1700734837,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152037,
+        "num": 152037,
+        "word": "研究表明4种血型患癌风险不一样",
+        "onboard_time": 1700726612,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148595,
+        "num": 148595,
+        "word": "特斯拉中国回应FSD在国内落地",
+        "onboard_time": 1700735494,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141535,
+        "num": 141535,
+        "word": "龚俊蜀绣熊猫白西装",
+        "onboard_time": 1700732313,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137532,
+        "num": 137532,
+        "word": "肺炎支原体和流感会叠加吗",
+        "onboard_time": 1700730874,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129776,
+        "num": 129776,
+        "word": "一个担心吃狗剩 一个担心狗抢饭",
+        "onboard_time": 1700732254,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116784,
+        "num": 116784,
+        "word": "真的会气出乳腺结节吗",
+        "onboard_time": 1700727396,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115222,
+        "num": 115222,
+        "word": "美团起诉四名摆拍网红损害骑手形象",
+        "onboard_time": 1700724391,
+        "rank": 49,
+        "category": "社会新闻,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同乌拉圭总统会谈#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 18:19:13
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 18:36:57
 </p>
 </blockquote>
 <p>
@@ -5481,6 +5481,12 @@ S13四强已有三支LPL战队（热度：837933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E9%BB%84%E9%87%91%E6%88%98%E8%A2%8D%23" target="weibo">
+迪丽热巴 黄金战袍（热度：836583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BD%95%E7%8C%B7%E5%90%9B%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
 在何猷君身上看到了生理性喜欢的样子（热度：835470）
 </a>
@@ -6005,12 +6011,6 @@ Lia将缺席ITZY回归与巡演（热度：805074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
 奔跑吧（热度：798327）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23" target="weibo">
-时宴终于来了（热度：797441）
 </a>
 </li>
 
