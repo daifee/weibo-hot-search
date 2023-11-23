@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700731072832,
+  "endTime": 1700732066842,
   "band_list": [
     {
       "raw_hot": 2944778,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2250762,
-      "num": 2250762,
+      "raw_hot": 2300312,
+      "num": 2300312,
       "word": "明星收3.3万元坑位费只卖出一包木耳",
       "onboard_time": 1700727452,
       "rank": 27,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1475158,
+      "num": 1475158,
+      "word": "死亡打光下的贾静雯",
+      "onboard_time": 1700728055,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1400409,
       "num": 1400409,
       "word": "脚踩葡萄干",
@@ -129,14 +137,6 @@
       "onboard_time": 1700710363,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1302552,
-      "num": 1302552,
-      "word": "死亡打光下的贾静雯",
-      "onboard_time": 1700728055,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1117247,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 948081,
-      "num": 380581,
+      "num": 405983,
       "word": "唐嫣 南京",
       "onboard_time": 1700729556,
       "rank": 10,
@@ -387,6 +387,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 588005,
+      "num": 393708,
+      "word": "花海 世冠是我们的最后一场比赛了",
+      "onboard_time": 1700730754,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 566502,
       "num": 566502,
       "word": "志愿军",
@@ -433,6 +441,14 @@
       "onboard_time": 1700699194,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 518932,
+      "num": 518932,
+      "word": "VOGUE时尚之力盛会",
+      "onboard_time": 1700730994,
+      "rank": 12,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 518579,
@@ -497,6 +513,14 @@
       "onboard_time": 1700713299,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 464414,
+      "num": 388193,
+      "word": "库迪咖啡进军奶茶",
+      "onboard_time": 1700730512,
+      "rank": 31,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 462023,
@@ -571,6 +595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418307,
+      "num": 376612,
+      "word": "机洗羽绒服一洗一个不吱声",
+      "onboard_time": 1700730155,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 417556,
+      "num": 417556,
+      "word": "真的会气出乳腺结节吗",
+      "onboard_time": 1700727396,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 417448,
       "num": 417448,
       "word": "杨紫妆造",
@@ -643,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383331,
-      "num": 383331,
-      "word": "真的会气出乳腺结节吗",
-      "onboard_time": 1700727396,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 370829,
       "num": 370829,
       "word": "这种小说的受众到底是谁",
@@ -683,28 +715,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 362462,
-      "num": 362462,
-      "word": "VOGUE时尚之力盛会",
-      "onboard_time": 1700730994,
-      "rank": 12,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 361229,
       "num": 361229,
       "word": "狄仁杰皮肤",
       "onboard_time": 1700700098,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 358296,
-      "num": 197540,
-      "word": "花海 世冠是我们的最后一场比赛了",
-      "onboard_time": 1700730754,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 354536,
@@ -747,14 +763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 336430,
-      "num": 196050,
-      "word": "库迪咖啡进军奶茶",
-      "onboard_time": 1700730512,
-      "rank": 31,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 331385,
       "num": 331385,
       "word": "邓紫棋演唱会",
@@ -769,6 +777,22 @@
       "onboard_time": 1700715580,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329765,
+      "num": 329765,
+      "word": "于适背头耳钉",
+      "onboard_time": 1700729673,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329270,
+      "num": 329270,
+      "word": "公司回应杜旭东带货3万坑位费卖货一单",
+      "onboard_time": 1700730395,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 328654,
@@ -793,14 +817,6 @@
       "onboard_time": 1700665779,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321144,
-      "num": 321144,
-      "word": "公司回应杜旭东带货3万坑位费卖货一单",
-      "onboard_time": 1700730395,
-      "rank": 16,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 319842,
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263804,
+      "num": 263804,
+      "word": "解放军就美菲位南海联合巡航发表谈话",
+      "onboard_time": 1700730395,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 263107,
       "num": 263107,
       "word": "肺炎支原体感染期这么吃恢复快",
@@ -963,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252380,
+      "num": 252380,
+      "word": "降温",
+      "onboard_time": 1700729974,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250641,
       "num": 250641,
       "word": "Blackpink 大英勋章",
@@ -985,14 +1017,6 @@
       "onboard_time": 1700715220,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245728,
-      "num": 245728,
-      "word": "于适背头耳钉",
-      "onboard_time": 1700729673,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 245513,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1700700214,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 240865,
-      "num": 195352,
-      "word": "机洗羽绒服一洗一个不吱声",
-      "onboard_time": 1700730155,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 237150,
@@ -1171,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216289,
-      "num": 216289,
-      "word": "降温",
-      "onboard_time": 1700729974,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215988,
       "num": 215988,
       "word": "花少5到克罗地亚了",
@@ -1243,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207158,
+      "num": 207158,
+      "word": "肺炎支原体和流感会叠加吗",
+      "onboard_time": 1700730874,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 207137,
       "num": 207137,
       "word": "港剧 恋爱脑过敏",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1700706273,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 206462,
-      "num": 206462,
-      "word": "解放军就美菲位南海联合巡航发表谈话",
-      "onboard_time": 1700730395,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 206319,
@@ -1387,14 +1395,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 192922,
-      "num": 192922,
-      "word": "肺炎支原体和流感会叠加吗",
-      "onboard_time": 1700730874,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 192835,
       "num": 192835,
       "word": "周深 一人分唱多角",
@@ -1425,6 +1425,14 @@
       "onboard_time": 1700723852,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189340,
+      "num": 178271,
+      "word": "清融 属于易坦子融花的故事结束了",
+      "onboard_time": 1700731833,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 189082,
@@ -1739,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150310,
+      "num": 150310,
+      "word": "张元英同款幼态修鼻法",
+      "onboard_time": 1700731597,
+      "rank": 36,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 149774,
       "num": 149774,
       "word": "美女戴发箍共性",
@@ -1979,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125564,
+      "num": 137297,
+      "word": "大熊猫小奇迹学吃窝窝头",
+      "onboard_time": 1700731894,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124462,
       "num": 124462,
       "word": "全红婵全锦赛亚军",
@@ -2052,7 +2076,7 @@
     },
     {
       "raw_hot": 110967,
-      "num": 321604,
+      "num": 364418,
       "word": "张大大帮粉丝上班",
       "onboard_time": 1700730035,
       "rank": 14,
@@ -2081,6 +2105,14 @@
       "onboard_time": 1700704958,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106268,
+      "num": 120296,
+      "word": "这轮发烧为何来的这么狠",
+      "onboard_time": 1700732014,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104996,
