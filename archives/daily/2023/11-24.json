@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700759751935,
+  "endTime": 1700760847281,
   "band_list": [
     {
       "raw_hot": 1959287,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 161705,
-      "num": 89935,
+      "num": 90001,
       "word": "叶晞月替薛姝手写道歉信",
       "onboard_time": 1700757804,
       "rank": 20,
@@ -347,7 +347,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92922,
+      "raw_hot": 93734,
       "num": 200427,
       "word": "宁波共享奶奶每天5人轮班风雨无阻",
       "onboard_time": 1700755470,
@@ -361,6 +361,14 @@
       "onboard_time": 1700734653,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72767,
+      "num": 72767,
+      "word": "重庆一元8串的麻辣烫",
+      "onboard_time": 1700758522,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 72740,
@@ -387,12 +395,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 67629,
-      "num": 72708,
-      "word": "重庆一元8串的麻辣烫",
-      "onboard_time": 1700758522,
-      "rank": 29,
-      "category": "美食"
+      "raw_hot": 62553,
+      "num": 53740,
+      "word": "港剧从来都不会年龄焦虑",
+      "onboard_time": 1700759840,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 60731,
