@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700721369138,
+  "endTime": 1700723781874,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1322457,
+      "num": 1322457,
+      "word": "封神 朝歌",
+      "onboard_time": 1700718755,
+      "rank": 3,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 1306354,
       "num": 1306354,
       "word": "朴敏英为演癌症患者减重到74斤",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1700386661,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1040754,
+      "num": 1040754,
+      "word": "脚踩葡萄干",
+      "onboard_time": 1700721451,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1036516,
@@ -1393,14 +1409,6 @@
       "onboard_time": 1700317832,
       "rank": 24,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 820165,
-      "num": 820165,
-      "word": "封神 朝歌",
-      "onboard_time": 1700718755,
-      "rank": 3,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 819574,
@@ -1945,6 +1953,14 @@
       "onboard_time": 1700482055,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 653015,
+      "num": 653015,
+      "word": "除夕你去上班让边牧做年夜饭",
+      "onboard_time": 1700718271,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 652869,
@@ -2931,14 +2947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 500873,
-      "num": 500873,
-      "word": "除夕你去上班让边牧做年夜饭",
-      "onboard_time": 1700718271,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 498960,
       "num": 498960,
       "word": "纸嫁衣鸳鸯债 拍摄过审",
@@ -3009,6 +3017,14 @@
       "onboard_time": 1700607982,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490444,
+      "num": 490444,
+      "word": "爱奇艺尖叫之夜阵容",
+      "onboard_time": 1700722894,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 489276,
@@ -3345,6 +3361,14 @@
       "onboard_time": 1700647835,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447501,
+      "num": 447501,
+      "word": "严浩翔哭了",
+      "onboard_time": 1700723612,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 446348,
@@ -3915,6 +3939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 383547,
+      "num": 383547,
+      "word": "乳腺癌12种外观改变",
+      "onboard_time": 1700721753,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 383393,
       "num": 383393,
       "word": "大马丁 阿根廷的英雄主义",
@@ -4435,6 +4467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345930,
+      "num": 345930,
+      "word": "宋轶男友视角随拍",
+      "onboard_time": 1700716960,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344815,
       "num": 236828,
       "word": "再忍几年就能点外卖了",
@@ -4515,6 +4555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339967,
+      "num": 339967,
+      "word": "摩羯座真的值得深交",
+      "onboard_time": 1700721993,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339917,
       "num": 272226,
       "word": "杨紫冷脸飒气妆",
@@ -4577,6 +4625,14 @@
       "onboard_time": 1700466935,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 336924,
+      "num": 336924,
+      "word": "国家卫健委回应儿童医院人满为患",
+      "onboard_time": 1700720193,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336694,
@@ -4705,6 +4761,14 @@
       "onboard_time": 1700486374,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327210,
+      "num": 327210,
+      "word": "辛芷蕾穿上了东北大花",
+      "onboard_time": 1700721573,
+      "rank": 16,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 326890,
@@ -4889,6 +4953,14 @@
       "onboard_time": 1700401360,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 314820,
+      "num": 314820,
+      "word": "陈都灵提灯战神2.0",
+      "onboard_time": 1700722353,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 314815,
@@ -6515,6 +6587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237150,
+      "num": 237150,
+      "word": "秦岚王安宇机场接迪丽热巴",
+      "onboard_time": 1700720014,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236662,
       "num": 236662,
       "word": "赵丽颖黑粉侵权未赔偿成老赖",
@@ -6777,14 +6857,6 @@
       "onboard_time": 1700697089,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 226632,
-      "num": 226632,
-      "word": "宋轶男友视角随拍",
-      "onboard_time": 1700716960,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 226388,
@@ -7233,14 +7305,6 @@
       "onboard_time": 1700560235,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213861,
-      "num": 213861,
-      "word": "秦岚王安宇机场接迪丽热巴",
-      "onboard_time": 1700720014,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 213804,
@@ -7723,6 +7787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203935,
+      "num": 174018,
+      "word": "那些老板说过的废话文学",
+      "onboard_time": 1700723253,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203848,
       "num": 203848,
       "word": "入冬的电子羽绒服",
@@ -8059,14 +8131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197661,
-      "num": 197661,
-      "word": "国家卫健委回应儿童医院人满为患",
-      "onboard_time": 1700720193,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197541,
       "num": 197541,
       "word": "湖人晋级淘汰赛",
@@ -8275,6 +8339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193871,
+      "num": 193871,
+      "word": "肖战冷暖反差大片",
+      "onboard_time": 1700723433,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193842,
       "num": 177014,
       "word": "威神V卷身材",
@@ -8337,6 +8409,14 @@
       "onboard_time": 1700616333,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192619,
+      "num": 192619,
+      "word": "Gumayusi 最好的选手们所在的地方就是T1",
+      "onboard_time": 1700722954,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 192603,
@@ -8545,6 +8625,14 @@
       "onboard_time": 1700551714,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 188203,
+      "num": 188203,
+      "word": "姐姐没驯服刘海但是驯服了我",
+      "onboard_time": 1700721993,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 188167,
@@ -10891,6 +10979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134253,
+      "num": 134253,
+      "word": "Reno11拍出朱一龙人生照片",
+      "onboard_time": 1700723554,
+      "rank": 33,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 134028,
       "num": 134028,
       "word": "offer5最后的黑板是这么用的",
@@ -11555,6 +11651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115907,
+      "num": 115907,
+      "word": "詹姆斯关键失误",
+      "onboard_time": 1700723674,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115898,
       "num": 115898,
       "word": "万物在东北皆可冰糖",
@@ -12039,6 +12143,14 @@
       "num": 97143,
       "word": "如何用一片树叶做猫咪面具",
       "onboard_time": 1700359649,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92619,
+      "num": 96238,
+      "word": "亮亮丽君夫妇母亲发声",
+      "onboard_time": 1700723374,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -12895,6 +13007,9 @@
     },
     {
       "word": "#山川同念英雄回家#"
+    },
+    {
+      "word": "#英雄回家#"
     }
   ]
 }
