@@ -1,7 +1,15 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700702151331,
+  "endTime": 1700703439245,
   "band_list": [
+    {
+      "raw_hot": 2784374,
+      "num": 1897022,
+      "word": "以爱为营剧组 鬼怪过时了",
+      "onboard_time": 1700699313,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2585924,
       "num": 527584,
@@ -19,16 +27,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 1897022,
-      "num": 1897022,
-      "word": "以爱为营剧组 鬼怪过时了",
-      "onboard_time": 1700699313,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1370468,
-      "num": 842001,
+      "num": 876349,
       "word": "郭虎 别碰现偶",
       "onboard_time": 1700695765,
       "rank": 28,
@@ -59,6 +59,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 995507,
+      "num": 995507,
+      "word": "女子拿鞭引导男子跪地爬行双双被拘",
+      "onboard_time": 1700700878,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885761,
+      "num": 1076098,
+      "word": "25名在韩志愿军烈士回家",
+      "onboard_time": 1700700578,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 881330,
       "num": 881330,
       "word": "奥特曼此前遭解雇或因AI威胁人类",
@@ -73,14 +89,6 @@
       "onboard_time": 1700667453,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 839694,
-      "num": 839694,
-      "word": "25名在韩志愿军烈士回家",
-      "onboard_time": 1700700578,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 825192,
@@ -139,8 +147,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 583507,
-      "num": 583507,
+      "raw_hot": 607008,
+      "num": 607008,
       "word": "这个吻戏镜头是为了秀豪车吗",
       "onboard_time": 1700699435,
       "rank": 7,
@@ -155,8 +163,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 514529,
-      "num": 514529,
+      "raw_hot": 534269,
+      "num": 534269,
       "word": "支原体感染",
       "onboard_time": 1700699194,
       "rank": 12,
@@ -169,6 +177,22 @@
       "onboard_time": 1700650958,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457449,
+      "num": 457449,
+      "word": "四川两县回应禁止私熏腊肉原因",
+      "onboard_time": 1700701596,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445554,
+      "num": 445554,
+      "word": "他罚她她奖励他",
+      "onboard_time": 1700701656,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 444546,
@@ -187,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423843,
-      "num": 531139,
-      "word": "女子拿鞭引导男子跪地爬行双双被拘",
-      "onboard_time": 1700700878,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 416863,
+      "num": 416863,
+      "word": "坚持睡前涂唇膏很有用",
+      "onboard_time": 1700702016,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 405927,
@@ -201,6 +225,14 @@
       "onboard_time": 1700636252,
       "rank": 13,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 398827,
+      "num": 398827,
+      "word": "高中生连吃4种感冒药住进EICU",
+      "onboard_time": 1700700878,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392056,
@@ -219,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366179,
+      "num": 265444,
+      "word": "小区捡破烂大妈月入过万",
+      "onboard_time": 1700702433,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361229,
       "num": 361229,
       "word": "狄仁杰皮肤",
       "onboard_time": 1700700098,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 354456,
-      "num": 230719,
-      "word": "坚持睡前涂唇膏很有用",
-      "onboard_time": 1700702016,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 322008,
@@ -251,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291144,
-      "num": 291144,
-      "word": "四川两县回应禁止私熏腊肉原因",
-      "onboard_time": 1700701596,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289027,
       "num": 289027,
       "word": "董岩磊 230斤",
@@ -273,14 +297,6 @@
       "onboard_time": 1700698535,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 275881,
-      "num": 275881,
-      "word": "高中生连吃4种感冒药住进EICU",
-      "onboard_time": 1700700878,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270821,
@@ -331,14 +347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 233357,
-      "num": 233357,
-      "word": "他罚她她奖励他",
-      "onboard_time": 1700701656,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227503,
       "num": 227503,
       "word": "原相机居然这么吃妆",
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219124,
+      "num": 219124,
+      "word": "黄晓明说张纯烨是个诗人",
+      "onboard_time": 1700701236,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216900,
       "num": 216900,
       "word": "感恩节",
@@ -379,12 +395,12 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 213267,
-      "num": 213267,
-      "word": "黄晓明说张纯烨是个诗人",
-      "onboard_time": 1700701236,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 209101,
+      "num": 209101,
+      "word": "第五人格",
+      "onboard_time": 1700702496,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 208069,
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188132,
+      "num": 188132,
+      "word": "宁安如梦薛姝断尾求生一夜封妃",
+      "onboard_time": 1700697753,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187722,
       "num": 184577,
       "word": "爷爷接错孙女到家10多分钟未发现",
@@ -449,14 +473,6 @@
       "onboard_time": 1700674040,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187328,
-      "num": 187328,
-      "word": "宁安如梦薛姝断尾求生一夜封妃",
-      "onboard_time": 1700697753,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 186481,
@@ -481,6 +497,14 @@
       "onboard_time": 1700684893,
       "rank": 47,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 184158,
+      "num": 184158,
+      "word": "感冒 紫苏叶",
+      "onboard_time": 1700702796,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 180531,
@@ -521,6 +545,14 @@
       "onboard_time": 1700698052,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166294,
+      "num": 166294,
+      "word": "这个家没了秦海璐得散",
+      "onboard_time": 1700702194,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 166191,
@@ -600,6 +632,14 @@
       "word": "小学生不想写作业持刀威胁妈妈",
       "onboard_time": 1700670867,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129251,
+      "num": 129251,
+      "word": "宠物犬被捕狗队抓走后送往市场宰杀",
+      "onboard_time": 1700703215,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -867,8 +907,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26840,
-      "num": 842363,
+      "raw_hot": 27342,
+      "num": 1015004,
       "word": "接英雄回家",
       "onboard_time": 1700638898,
       "rank": 2,

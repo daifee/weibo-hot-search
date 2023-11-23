@@ -1,0 +1,410 @@
+{
+  "runTime": 1700703439245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 885761,
+        "num": 1076098,
+        "word": "25名在韩志愿军烈士回家",
+        "onboard_time": 1700700578,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2784374,
+        "num": 1040257,
+        "word": "以爱为营剧组 鬼怪过时了",
+        "onboard_time": 1700699313,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27342,
+        "num": 1015004,
+        "word": "接英雄回家",
+        "onboard_time": 1700638898,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995507,
+        "num": 995507,
+        "word": "女子拿鞭引导男子跪地爬行双双被拘",
+        "onboard_time": 1700700878,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120793,
+        "num": 876349,
+        "word": "郭虎 别碰现偶",
+        "onboard_time": 1700695765,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 703051,
+        "num": 703051,
+        "word": "花少团总行李超重118公斤",
+        "onboard_time": 1700697510,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607008,
+        "num": 607008,
+        "word": "这个吻戏镜头是为了秀豪车吗",
+        "onboard_time": 1700699435,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 730233,
+        "num": 605398,
+        "word": "旭旭宝宝",
+        "onboard_time": 1700697753,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 579142,
+        "num": 579142,
+        "word": "奥特曼此前遭解雇或因AI威胁人类",
+        "onboard_time": 1700698712,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 534269,
+        "num": 534269,
+        "word": "支原体感染",
+        "onboard_time": 1700699194,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 707874,
+        "num": 529867,
+        "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
+        "onboard_time": 1700679854,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457449,
+        "num": 457449,
+        "word": "四川两县回应禁止私熏腊肉原因",
+        "onboard_time": 1700701596,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445554,
+        "num": 445554,
+        "word": "他罚她她奖励他",
+        "onboard_time": 1700701656,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416863,
+        "num": 416863,
+        "word": "坚持睡前涂唇膏很有用",
+        "onboard_time": 1700702016,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 398827,
+        "num": 398827,
+        "word": "高中生连吃4种感冒药住进EICU",
+        "onboard_time": 1700700878,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350576,
+        "num": 350576,
+        "word": "李佳琦现身直播间辟谣双11后停播传闻",
+        "onboard_time": 1700677157,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325867,
+        "num": 325867,
+        "word": "狄仁杰皮肤",
+        "onboard_time": 1700700098,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313850,
+        "num": 313850,
+        "word": "疾控专家提醒大家戴口罩",
+        "onboard_time": 1700696308,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306338,
+        "num": 306338,
+        "word": "以爱为营 婚礼",
+        "onboard_time": 1700661158,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286434,
+        "num": 286434,
+        "word": "兔子曾被当做过验孕棒",
+        "onboard_time": 1700661037,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 787229,
+        "num": 274220,
+        "word": "我老婆倒在暴雪中谁给盖的大衣",
+        "onboard_time": 1700698592,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 366179,
+        "num": 265444,
+        "word": "小区捡破烂大妈月入过万",
+        "onboard_time": 1700702433,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255511,
+        "num": 255511,
+        "word": "张雪峰成功预言考研人数下降",
+        "onboard_time": 1700658937,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244082,
+        "num": 244082,
+        "word": "困在考研里的年轻人在逃避什么",
+        "onboard_time": 1700698535,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221831,
+        "num": 221831,
+        "word": "杨幂说一直想尝试不完美性格角色",
+        "onboard_time": 1700697210,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219124,
+        "num": 219124,
+        "word": "黄晓明说张纯烨是个诗人",
+        "onboard_time": 1700701236,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216191,
+        "num": 216191,
+        "word": "金莎爸爸辣评女儿恋情",
+        "onboard_time": 1700650958,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209375,
+        "num": 209375,
+        "word": "邓家佳 带你走过松子跌宕起伏的一生",
+        "onboard_time": 1700700214,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209101,
+        "num": 209101,
+        "word": "第五人格",
+        "onboard_time": 1700702496,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205903,
+        "num": 205903,
+        "word": "原相机居然这么吃妆",
+        "onboard_time": 1700697089,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 202638,
+        "num": 202638,
+        "word": "感恩节",
+        "onboard_time": 1700694442,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188132,
+        "num": 188132,
+        "word": "宁安如梦薛姝断尾求生一夜封妃",
+        "onboard_time": 1700697753,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185871,
+        "num": 185871,
+        "word": "时代少年团又有新合照了",
+        "onboard_time": 1700700999,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184655,
+        "num": 184655,
+        "word": "95后小伙辞职回家被爷爷奶奶的爱治愈",
+        "onboard_time": 1700694140,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184158,
+        "num": 184158,
+        "word": "感冒 紫苏叶",
+        "onboard_time": 1700702796,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178739,
+        "num": 178739,
+        "word": "退休教师在家辅导外孙女数学走红",
+        "onboard_time": 1700667453,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 168368,
+        "num": 168368,
+        "word": "ChatGPT或使数百万人实现四天工作制",
+        "onboard_time": 1700699559,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166294,
+        "num": 166294,
+        "word": "这个家没了秦海璐得散",
+        "onboard_time": 1700702194,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164688,
+        "num": 164688,
+        "word": "过期口红 红色武器",
+        "onboard_time": 1700698052,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 158342,
+        "num": 158342,
+        "word": "这个身高配不上这张脸",
+        "onboard_time": 1700697569,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156819,
+        "num": 156819,
+        "word": "开心消消乐程序员回来加班",
+        "onboard_time": 1700666496,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147779,
+        "num": 147779,
+        "word": "起底成都陪酒坠楼女孩所在KTV",
+        "onboard_time": 1700697692,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146552,
+        "num": 146552,
+        "word": "T1 最好的选手所在的地方就是T1",
+        "onboard_time": 1700696125,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144044,
+        "num": 144044,
+        "word": "爷爷接错孙女到家10多分钟未发现",
+        "onboard_time": 1700661097,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139945,
+        "num": 139945,
+        "word": "有些蔬菜嘌呤比肉还高",
+        "onboard_time": 1700684893,
+        "rank": 44,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 1869710,
+        "num": 134722,
+        "word": "李思思从央视离职后40天主持3场商演",
+        "onboard_time": 1700698654,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129251,
+        "num": 129251,
+        "word": "宠物犬被捕狗队抓走后送往市场宰杀",
+        "onboard_time": 1700703215,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124691,
+        "num": 124691,
+        "word": "鸟鸟 北方的city过年很难walk",
+        "onboard_time": 1700666673,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120357,
+        "num": 120357,
+        "word": "爸爸带娃打点滴的松弛感真强",
+        "onboard_time": 1700701960,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119307,
+        "num": 119307,
+        "word": "T1老板透露Canyon加入GEN",
+        "onboard_time": 1700666496,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#山川同念英雄回家#"
+    }
+  }
+}
