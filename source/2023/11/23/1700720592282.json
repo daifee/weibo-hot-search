@@ -1,0 +1,410 @@
+{
+  "runTime": 1700720592282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2430602,
+        "num": 2430602,
+        "word": "霸王茶姬小程序",
+        "onboard_time": 1700717195,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1260586,
+        "num": 1260586,
+        "word": "小杨哥回应徒弟圣罗兰事件",
+        "onboard_time": 1700713541,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 74593,
+        "num": 954447,
+        "word": "91岁志愿军老战士第10次迎战友回家",
+        "onboard_time": 1700711735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697668,
+        "num": 697668,
+        "word": "封神 朝歌",
+        "onboard_time": 1700718755,
+        "rank": 3,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 568618,
+        "num": 568618,
+        "word": "霸王茶姬回应小程序拥堵",
+        "onboard_time": 1700719595,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 464541,
+        "num": 464541,
+        "word": "鬼怪没有过时 只是很难复制",
+        "onboard_time": 1700714199,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443401,
+        "num": 443401,
+        "word": "刷牙之前不建议将牙刷蘸湿",
+        "onboard_time": 1700707231,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 423390,
+        "num": 423390,
+        "word": "T1冠军阵容全员续约",
+        "onboard_time": 1700717854,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 408259,
+        "num": 408259,
+        "word": "张小斐古装造型",
+        "onboard_time": 1700716832,
+        "rank": 8,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 321234,
+        "num": 402622,
+        "word": "张雪峰问20年后还有必要上大学吗",
+        "onboard_time": 1700709995,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 399607,
+        "num": 399607,
+        "word": "朴敏英为演癌症患者减重到74斤",
+        "onboard_time": 1700710363,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352874,
+        "num": 352874,
+        "word": "除夕你去上班让边牧做年夜饭",
+        "onboard_time": 1700718271,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317669,
+        "num": 317669,
+        "word": "迪丽热巴跳新疆舞了",
+        "onboard_time": 1700718872,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302014,
+        "num": 302014,
+        "word": "庆余年二预约破800万",
+        "onboard_time": 1700716116,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291568,
+        "num": 291568,
+        "word": "和北大考研状元比赛是什么体验",
+        "onboard_time": 1700716360,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283061,
+        "num": 283061,
+        "word": "两架歼20超低空通场致敬先烈",
+        "onboard_time": 1700716775,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268882,
+        "num": 268882,
+        "word": "秦岚悬着的心终于吊死了",
+        "onboard_time": 1700707592,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252188,
+        "num": 252188,
+        "word": "Viva La Vida 人生万岁",
+        "onboard_time": 1700713299,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248409,
+        "num": 248409,
+        "word": "湖南一村明确出嫁女不参与分配",
+        "onboard_time": 1700706754,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235064,
+        "num": 235064,
+        "word": "湖人vs独行侠",
+        "onboard_time": 1700720433,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261092,
+        "num": 233823,
+        "word": "谭松韵给小可乐打码",
+        "onboard_time": 1700719294,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226632,
+        "num": 226632,
+        "word": "宋轶男友视角随拍",
+        "onboard_time": 1700716960,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221223,
+        "num": 221223,
+        "word": "代号鸢新玩法疑似内涵逆水寒",
+        "onboard_time": 1700718632,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215183,
+        "num": 215183,
+        "word": "逆水寒疑似抄袭代号鸢头像",
+        "onboard_time": 1700713964,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213804,
+        "num": 213804,
+        "word": "LPL全明星投票",
+        "onboard_time": 1700718271,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196863,
+        "num": 196863,
+        "word": "李莲花 今日小雪了",
+        "onboard_time": 1700718933,
+        "rank": 25,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 192998,
+        "num": 192998,
+        "word": "傅首尔的邻居到底说了什么",
+        "onboard_time": 1700707356,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192365,
+        "num": 192365,
+        "word": "保罗一生之敌",
+        "onboard_time": 1700715636,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190579,
+        "num": 190579,
+        "word": "辛芷蕾 给姐点面子",
+        "onboard_time": 1700715580,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186342,
+        "num": 186342,
+        "word": "坚持睡前涂唇膏很有用",
+        "onboard_time": 1700702016,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 186718,
+        "num": 184049,
+        "word": "迪丽热巴回归花少",
+        "onboard_time": 1700715220,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177773,
+        "num": 177773,
+        "word": "肺炎支原体感染期这么吃恢复快",
+        "onboard_time": 1700713659,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168298,
+        "num": 168298,
+        "word": "女子拿鞭引导男子跪地爬行双双被拘",
+        "onboard_time": 1700700878,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161132,
+        "num": 161132,
+        "word": "沈阳抗美援朝烈士陵园",
+        "onboard_time": 1700718392,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157636,
+        "num": 157636,
+        "word": "秦岚王安宇机场接迪丽热巴",
+        "onboard_time": 1700720014,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151772,
+        "num": 151772,
+        "word": "绘旅人叶瑄",
+        "onboard_time": 1700719595,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150629,
+        "num": 150629,
+        "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
+        "onboard_time": 1700707231,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144376,
+        "num": 144376,
+        "word": "独行侠vs湖人",
+        "onboard_time": 1700718156,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139729,
+        "num": 139729,
+        "word": "皮肤水合",
+        "onboard_time": 1700719892,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 136153,
+        "num": 136153,
+        "word": "seventeen有几个头上有调色盘啊",
+        "onboard_time": 1700713839,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133219,
+        "num": 133219,
+        "word": "过水门最高礼遇迎志愿军烈士回家",
+        "onboard_time": 1700718033,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120898,
+        "num": 120898,
+        "word": "感恩节火鸡",
+        "onboard_time": 1700718632,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119995,
+        "num": 119995,
+        "word": "波司登一件羽绒服穿了多少年",
+        "onboard_time": 1700714140,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 112324,
+        "num": 112324,
+        "word": "这种小说的受众到底是谁",
+        "onboard_time": 1700709032,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 110037,
+        "num": 110037,
+        "word": "英雄回家",
+        "onboard_time": 1700717793,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106642,
+        "num": 106642,
+        "word": "港剧 恋爱脑过敏",
+        "onboard_time": 1700713299,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104996,
+        "num": 104996,
+        "word": "T1与Zeus续约",
+        "onboard_time": 1700718271,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100725,
+        "num": 100725,
+        "word": "国家卫健委回应儿童医院人满为患",
+        "onboard_time": 1700720193,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100271,
+        "num": 100041,
+        "word": "王艺妍妤一种很新的断层第一",
+        "onboard_time": 1700708132,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97776,
+        "num": 98884,
+        "word": "天天敷面膜会导致皮肤过度水合吗",
+        "onboard_time": 1700716960,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同乌拉圭总统会谈#"
+    }
+  }
+}
