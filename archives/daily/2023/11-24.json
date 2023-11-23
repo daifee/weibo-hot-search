@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700778845790,
+  "endTime": 1700781500845,
   "band_list": [
     {
       "raw_hot": 1959287,
@@ -81,6 +81,14 @@
       "onboard_time": 1700746720,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386536,
+      "num": 386536,
+      "word": "港剧从来都不会年龄焦虑",
+      "onboard_time": 1700759840,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 345733,
@@ -171,6 +179,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195750,
+      "num": 195750,
+      "word": "孕妇感染支原体会影响胎儿吗",
+      "onboard_time": 1700774953,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190225,
+      "num": 153267,
+      "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
+      "onboard_time": 1700734653,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188879,
       "num": 188879,
       "word": "Doinb直播",
@@ -220,19 +244,27 @@
     },
     {
       "raw_hot": 161705,
-      "num": 90001,
+      "num": 101808,
       "word": "叶晞月替薛姝手写道歉信",
       "onboard_time": 1700757804,
       "rank": 20,
       "category": "剧集"
     },
     {
-      "raw_hot": 143522,
-      "num": 143522,
-      "word": "孕妇感染支原体会影响胎儿吗",
-      "onboard_time": 1700774953,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 146918,
+      "num": 146918,
+      "word": "明星收3.3万元坑位费只卖出一包木耳",
+      "onboard_time": 1700727452,
+      "rank": 44,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 143193,
+      "num": 143193,
+      "word": "七仔连睡觉jiojio都在打拍子",
+      "onboard_time": 1700757626,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140293,
@@ -249,6 +281,14 @@
       "onboard_time": 1700744802,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 135357,
+      "num": 135357,
+      "word": "妈妈退休后沉迷上了手工制陶",
+      "onboard_time": 1700747380,
+      "rank": 38,
+      "category": "休闲"
     },
     {
       "raw_hot": 134116,
@@ -299,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113415,
-      "num": 68002,
-      "word": "港剧从来都不会年龄焦虑",
-      "onboard_time": 1700759840,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113198,
       "num": 111472,
       "word": "柯南2024剧场版标题",
@@ -323,14 +355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111836,
-      "num": 111836,
-      "word": "妈妈退休后沉迷上了手工制陶",
-      "onboard_time": 1700747380,
-      "rank": 38,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 111462,
       "num": 111462,
       "word": "刘诗诗 红衣面纱舞",
@@ -345,14 +369,6 @@
       "onboard_time": 1700733033,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104763,
-      "num": 104763,
-      "word": "明星收3.3万元坑位费只卖出一包木耳",
-      "onboard_time": 1700727452,
-      "rank": 44,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 97275,
@@ -379,19 +395,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86596,
-      "num": 104323,
-      "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
-      "onboard_time": 1700734653,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 92182,
+      "num": 92182,
+      "word": "老师发朋友圈晒他当年的考研分数",
+      "onboard_time": 1700781443,
+      "rank": 22,
+      "category": "教育"
     },
     {
-      "raw_hot": 72740,
-      "num": 72740,
-      "word": "七仔连睡觉jiojio都在打拍子",
-      "onboard_time": 1700757626,
-      "rank": 28,
+      "raw_hot": 91064,
+      "num": 91064,
+      "word": "近2万斤甲鱼散落高速过路司机伸援手",
+      "onboard_time": 1700767813,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -427,6 +443,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 51456,
+      "num": 51456,
+      "word": "香港百岁老人看望弟弟离别依依不舍",
+      "onboard_time": 1700764935,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43735,
+      "num": 51420,
+      "word": "杨迪情绪稳定实际上已经疯了",
+      "onboard_time": 1700762781,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 41731,
       "num": 111478,
       "word": "龚翔宇追星宁艺卓",
@@ -435,12 +467,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 32602,
-      "num": 39661,
-      "word": "杨迪情绪稳定实际上已经疯了",
-      "onboard_time": 1700762781,
-      "rank": 32,
-      "category": "幽默,艺人"
+      "raw_hot": 39676,
+      "num": 51382,
+      "word": "周冬雨安娜温图尔合影",
+      "onboard_time": 1700739271,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 37839,
+      "num": 51357,
+      "word": "新闻女王",
+      "onboard_time": 1700739630,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 31636,
@@ -459,44 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30272,
-      "num": 30272,
-      "word": "近2万斤甲鱼散落高速过路司机伸援手",
-      "onboard_time": 1700767813,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30250,
       "num": 30250,
       "word": "易烊千玺龚俊内场同框",
       "onboard_time": 1700747862,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 28301,
-      "num": 39562,
-      "word": "新闻女王",
-      "onboard_time": 1700739630,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 26984,
-      "num": 39544,
-      "word": "周冬雨安娜温图尔合影",
-      "onboard_time": 1700739271,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 23422,
-      "num": 26386,
-      "word": "香港百岁老人看望弟弟离别依依不舍",
-      "onboard_time": 1700764935,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22302,
