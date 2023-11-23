@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700703439245,
+  "endTime": 1700706543489,
   "band_list": [
     {
       "raw_hot": 2784374,
@@ -25,6 +25,22 @@
       "onboard_time": 1700698592,
       "rank": 20,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 1677600,
+      "num": 1677600,
+      "word": "坚持睡前涂唇膏很有用",
+      "onboard_time": 1700702016,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 1395648,
+      "num": 446147,
+      "word": "鬼怪",
+      "onboard_time": 1700705071,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1370468,
@@ -64,6 +80,14 @@
       "word": "女子拿鞭引导男子跪地爬行双双被拘",
       "onboard_time": 1700700878,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944208,
+      "num": 944208,
+      "word": "成都611事故调查报告公布",
+      "onboard_time": 1700704831,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -107,12 +131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760804,
+      "num": 607008,
+      "word": "这个吻戏镜头是为了秀豪车吗",
+      "onboard_time": 1700699435,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 755805,
       "num": 755805,
       "word": "旭旭宝宝",
       "onboard_time": 1700697753,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 729662,
+      "num": 445554,
+      "word": "他罚她她奖励他",
+      "onboard_time": 1700701656,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 707125,
@@ -147,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 607008,
-      "num": 607008,
-      "word": "这个吻戏镜头是为了秀豪车吗",
-      "onboard_time": 1700699435,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 563138,
       "num": 563138,
       "word": "疾控专家提醒大家戴口罩",
@@ -171,6 +203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 529859,
+      "num": 529859,
+      "word": "中国礼兵手捧烈士棺椁登上运20专机",
+      "onboard_time": 1700705071,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484186,
       "num": 296720,
       "word": "金莎爸爸辣评女儿恋情",
@@ -179,20 +219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 457449,
-      "num": 457449,
+      "raw_hot": 462023,
+      "num": 462023,
       "word": "四川两县回应禁止私熏腊肉原因",
       "onboard_time": 1700701596,
       "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445554,
-      "num": 445554,
-      "word": "他罚她她奖励他",
-      "onboard_time": 1700701656,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 450472,
+      "num": 450472,
+      "word": "高中生连吃4种感冒药住进EICU",
+      "onboard_time": 1700700878,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444546,
@@ -203,6 +243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 427398,
+      "num": 427398,
+      "word": "宠物犬被捕狗队抓走后送往市场宰杀",
+      "onboard_time": 1700703215,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425944,
       "num": 425944,
       "word": "迪丽热巴 我舍不得让她干累的活",
@@ -211,28 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 416863,
-      "num": 416863,
-      "word": "坚持睡前涂唇膏很有用",
-      "onboard_time": 1700702016,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 405927,
       "num": 292889,
       "word": "发烧",
       "onboard_time": 1700636252,
       "rank": 13,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 398827,
-      "num": 398827,
-      "word": "高中生连吃4种感冒药住进EICU",
-      "onboard_time": 1700700878,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392056,
@@ -251,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382288,
+      "num": 382288,
+      "word": "杨紫妆造",
+      "onboard_time": 1700705012,
+      "rank": 12,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 366179,
       "num": 265444,
       "word": "小区捡破烂大妈月入过万",
@@ -267,12 +307,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358861,
+      "num": 358861,
+      "word": "主播涉赌上亿被斗鱼评为年度十佳",
+      "onboard_time": 1700705674,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322008,
       "num": 322008,
       "word": "0713 没听说",
       "onboard_time": 1700665779,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298426,
+      "num": 166237,
+      "word": "何猷君奚梦瑶第一次见家长",
+      "onboard_time": 1700706211,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 295070,
+      "num": 295070,
+      "word": "新闻女王诗晴没什么可输的",
+      "onboard_time": 1700704052,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 291346,
@@ -297,6 +361,14 @@
       "onboard_time": 1700698535,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 283583,
+      "num": 283583,
+      "word": "流感",
+      "onboard_time": 1700703694,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 270821,
@@ -419,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201685,
+      "num": 201685,
+      "word": "BABYMONSTER出道预告照",
+      "onboard_time": 1700704173,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 201591,
       "num": 201591,
       "word": "ChatGPT或使数百万人实现四天工作制",
@@ -433,6 +513,14 @@
       "onboard_time": 1700657854,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196077,
+      "num": 196077,
+      "word": "中国空军运20接25名烈士回家",
+      "onboard_time": 1700705911,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192555,
@@ -563,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165559,
+      "num": 165559,
+      "word": "K70E",
+      "onboard_time": 1700706273,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164089,
       "num": 164089,
       "word": "王睡睡终于攒够了失望",
@@ -611,6 +707,30 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 145052,
+      "num": 145052,
+      "word": "对于网络不良短视频应该怎么处理",
+      "onboard_time": 1700705973,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144597,
+      "num": 144597,
+      "word": "美女戴发箍共性",
+      "onboard_time": 1700705555,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 144521,
+      "num": 144521,
+      "word": "任他痛任他难",
+      "onboard_time": 1700705133,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137359,
       "num": 126224,
       "word": "易烊千玺机场",
@@ -627,19 +747,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134430,
+      "num": 134430,
+      "word": "李莲花让成毅学会解压",
+      "onboard_time": 1700703452,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129612,
       "num": 126868,
       "word": "小学生不想写作业持刀威胁妈妈",
       "onboard_time": 1700670867,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129251,
-      "num": 129251,
-      "word": "宠物犬被捕狗队抓走后送往市场宰杀",
-      "onboard_time": 1700703215,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -705,6 +825,14 @@
       "onboard_time": 1700660738,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108218,
+      "num": 108218,
+      "word": "许凯都哭emo了",
+      "onboard_time": 1700704958,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103925,
@@ -899,20 +1027,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31135,
+      "num": 1015004,
+      "word": "接英雄回家",
+      "onboard_time": 1700638898,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28013,
       "num": 28013,
       "word": "奚梦瑶曾因怀孕脊椎错位",
       "onboard_time": 1700657132,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27342,
-      "num": 1015004,
-      "word": "接英雄回家",
-      "onboard_time": 1700638898,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23508,

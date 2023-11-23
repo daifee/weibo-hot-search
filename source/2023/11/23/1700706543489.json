@@ -1,0 +1,410 @@
+{
+  "runTime": 1700706543489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677600,
+        "num": 1677600,
+        "word": "坚持睡前涂唇膏很有用",
+        "onboard_time": 1700702016,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 944208,
+        "num": 944208,
+        "word": "成都611事故调查报告公布",
+        "onboard_time": 1700704831,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31135,
+        "num": 844152,
+        "word": "接英雄回家",
+        "onboard_time": 1700638898,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786624,
+        "num": 786624,
+        "word": "女子拿鞭引导男子跪地爬行双双被拘",
+        "onboard_time": 1700700878,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529859,
+        "num": 529859,
+        "word": "中国礼兵手捧烈士棺椁登上运20专机",
+        "onboard_time": 1700705071,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1772864,
+        "num": 503042,
+        "word": "以爱为营剧组 鬼怪过时了",
+        "onboard_time": 1700699313,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462023,
+        "num": 462023,
+        "word": "四川两县回应禁止私熏腊肉原因",
+        "onboard_time": 1700701596,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450472,
+        "num": 450472,
+        "word": "高中生连吃4种感冒药住进EICU",
+        "onboard_time": 1700700878,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1395648,
+        "num": 446147,
+        "word": "鬼怪",
+        "onboard_time": 1700705071,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427398,
+        "num": 427398,
+        "word": "宠物犬被捕狗队抓走后送往市场宰杀",
+        "onboard_time": 1700703215,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468092,
+        "num": 421979,
+        "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
+        "onboard_time": 1700679854,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931759,
+        "num": 405513,
+        "word": "郭虎 别碰现偶",
+        "onboard_time": 1700695765,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382288,
+        "num": 382288,
+        "word": "杨紫妆造",
+        "onboard_time": 1700705012,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 358861,
+        "num": 358861,
+        "word": "主播涉赌上亿被斗鱼评为年度十佳",
+        "onboard_time": 1700705674,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760804,
+        "num": 351753,
+        "word": "这个吻戏镜头是为了秀豪车吗",
+        "onboard_time": 1700699435,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295070,
+        "num": 295070,
+        "word": "新闻女王诗晴没什么可输的",
+        "onboard_time": 1700704052,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283583,
+        "num": 283583,
+        "word": "流感",
+        "onboard_time": 1700703694,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 729662,
+        "num": 283434,
+        "word": "他罚她她奖励他",
+        "onboard_time": 1700701656,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282566,
+        "num": 282566,
+        "word": "狄仁杰皮肤",
+        "onboard_time": 1700700098,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258207,
+        "num": 258207,
+        "word": "李佳琦现身直播间辟谣双11后停播传闻",
+        "onboard_time": 1700677157,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 558560,
+        "num": 255419,
+        "word": "花少团总行李超重118公斤",
+        "onboard_time": 1700697510,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271203,
+        "num": 253506,
+        "word": "小区捡破烂大妈月入过万",
+        "onboard_time": 1700702433,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250906,
+        "num": 250906,
+        "word": "支原体感染",
+        "onboard_time": 1700699194,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 546836,
+        "num": 241136,
+        "word": "旭旭宝宝",
+        "onboard_time": 1700697753,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215905,
+        "num": 215905,
+        "word": "困在考研里的年轻人在逃避什么",
+        "onboard_time": 1700698535,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211019,
+        "num": 211019,
+        "word": "以爱为营 婚礼",
+        "onboard_time": 1700661158,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201685,
+        "num": 201685,
+        "word": "BABYMONSTER出道预告照",
+        "onboard_time": 1700704173,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 196077,
+        "num": 196077,
+        "word": "中国空军运20接25名烈士回家",
+        "onboard_time": 1700705911,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192747,
+        "num": 192747,
+        "word": "感恩节",
+        "onboard_time": 1700694442,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166667,
+        "num": 166667,
+        "word": "感冒 紫苏叶",
+        "onboard_time": 1700702796,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298426,
+        "num": 166237,
+        "word": "何猷君奚梦瑶第一次见家长",
+        "onboard_time": 1700706211,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165559,
+        "num": 165559,
+        "word": "K70E",
+        "onboard_time": 1700706273,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163288,
+        "num": 163288,
+        "word": "兔子曾被当做过验孕棒",
+        "onboard_time": 1700661037,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145215,
+        "num": 145215,
+        "word": "宁安如梦薛姝断尾求生一夜封妃",
+        "onboard_time": 1700697753,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145052,
+        "num": 145052,
+        "word": "对于网络不良短视频应该怎么处理",
+        "onboard_time": 1700705973,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144597,
+        "num": 144597,
+        "word": "美女戴发箍共性",
+        "onboard_time": 1700705555,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144521,
+        "num": 144521,
+        "word": "任他痛任他难",
+        "onboard_time": 1700705133,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139994,
+        "num": 139994,
+        "word": "这个家没了秦海璐得散",
+        "onboard_time": 1700702194,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139322,
+        "num": 139322,
+        "word": "邓家佳 带你走过松子跌宕起伏的一生",
+        "onboard_time": 1700700214,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138793,
+        "num": 138793,
+        "word": "张雪峰成功预言考研人数下降",
+        "onboard_time": 1700658937,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136219,
+        "num": 136219,
+        "word": "95后小伙辞职回家被爷爷奶奶的爱治愈",
+        "onboard_time": 1700694140,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134430,
+        "num": 134430,
+        "word": "李莲花让成毅学会解压",
+        "onboard_time": 1700703452,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133971,
+        "num": 133971,
+        "word": "时代少年团又有新合照了",
+        "onboard_time": 1700700999,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132623,
+        "num": 132623,
+        "word": "杨幂说一直想尝试不完美性格角色",
+        "onboard_time": 1700697210,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131908,
+        "num": 131908,
+        "word": "黄晓明说张纯烨是个诗人",
+        "onboard_time": 1700701236,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123004,
+        "num": 123004,
+        "word": "25名在韩志愿军烈士回家",
+        "onboard_time": 1700700578,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122806,
+        "num": 122806,
+        "word": "原相机居然这么吃妆",
+        "onboard_time": 1700697089,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 113138,
+        "num": 113138,
+        "word": "ChatGPT或使数百万人实现四天工作制",
+        "onboard_time": 1700699559,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111407,
+        "num": 111407,
+        "word": "T1 最好的选手所在的地方就是T1",
+        "onboard_time": 1700696125,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108218,
+        "num": 108218,
+        "word": "许凯都哭emo了",
+        "onboard_time": 1700704958,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#山川同念英雄回家#"
+    }
+  }
+}
