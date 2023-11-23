@@ -1,7 +1,15 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700732066842,
+  "endTime": 1700734753865,
   "band_list": [
+    {
+      "raw_hot": 3364374,
+      "num": 3364374,
+      "word": "迪丽热巴 郭培高定",
+      "onboard_time": 1700733096,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
     {
       "raw_hot": 2944778,
       "num": 2944778,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 948081,
-      "num": 405983,
+      "num": 524169,
       "word": "唐嫣 南京",
       "onboard_time": 1700729556,
       "rank": 10,
@@ -307,6 +315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 698585,
+      "num": 698585,
+      "word": "机洗羽绒服一洗一个不吱声",
+      "onboard_time": 1700730155,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 684298,
       "num": 684298,
       "word": "以爱为营 婚礼",
@@ -379,12 +395,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 603482,
+      "num": 603482,
+      "word": "倪妮露肩礼服",
+      "onboard_time": 1700733216,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 597779,
       "num": 597779,
       "word": "韩方中止朝韩军事协议部分条款效力",
       "onboard_time": 1700707231,
       "rank": 5,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 595250,
+      "num": 595250,
+      "word": "eStar 人被刀就会死",
+      "onboard_time": 1700733216,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 594336,
+      "num": 594336,
+      "word": "迪丽热巴 黄金战袍",
+      "onboard_time": 1700734115,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 588005,
@@ -595,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 418307,
-      "num": 376612,
-      "word": "机洗羽绒服一洗一个不吱声",
-      "onboard_time": 1700730155,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 417556,
       "num": 417556,
       "word": "真的会气出乳腺结节吗",
@@ -683,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381539,
+      "num": 381539,
+      "word": "檀健次腹肌",
+      "onboard_time": 1700733096,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370829,
       "num": 370829,
       "word": "这种小说的受众到底是谁",
@@ -728,6 +768,22 @@
       "word": "古剑的风还是吹到了2023",
       "onboard_time": 1700709215,
       "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 350922,
+      "num": 350922,
+      "word": "秦岚会计没白学",
+      "onboard_time": 1700732673,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 347078,
+      "num": 347078,
+      "word": "代号鸢左慈抄袭遇见逆水寒无情",
+      "onboard_time": 1700732973,
+      "rank": 17,
       "category": "游戏"
     },
     {
@@ -801,6 +857,14 @@
       "onboard_time": 1700723433,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325437,
+      "num": 2450200,
+      "word": "女儿43年为妈妈私人定制150件衣服",
+      "onboard_time": 1700733033,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322098,
@@ -899,12 +963,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284255,
+      "num": 284255,
+      "word": "这轮发烧为何来的这么狠",
+      "onboard_time": 1700732014,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 283583,
       "num": 283583,
       "word": "流感",
       "onboard_time": 1700703694,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282142,
+      "num": 282142,
+      "word": "大熊猫小奇迹学吃窝窝头",
+      "onboard_time": 1700731894,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281279,
@@ -929,6 +1009,22 @@
       "onboard_time": 1700700999,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269961,
+      "num": 269961,
+      "word": "不是衣架买不起 椅背更有性价比",
+      "onboard_time": 1700733096,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 263955,
+      "num": 263955,
+      "word": "你是咕噜党还是咪咪党",
+      "onboard_time": 1700733753,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 263804,
@@ -1121,6 +1217,14 @@
       "onboard_time": 1700697089,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 224186,
+      "num": 224186,
+      "word": "清融 属于易坦子融花的故事结束了",
+      "onboard_time": 1700731833,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 223643,
@@ -1339,6 +1443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197983,
+      "num": 1266963,
+      "word": "2小时回家路走了70多年",
+      "onboard_time": 1700733033,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 197295,
       "num": 197295,
       "word": "朱琳官宣结婚",
@@ -1427,14 +1539,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 189340,
-      "num": 178271,
-      "word": "清融 属于易坦子融花的故事结束了",
-      "onboard_time": 1700731833,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 189082,
       "num": 189082,
       "word": "北京大风",
@@ -1483,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186941,
+      "num": 1008344,
+      "word": "入伍30年一级军士长告别军营",
+      "onboard_time": 1700723433,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186481,
       "num": 186481,
       "word": "这个身高配不上这张脸",
@@ -1521,6 +1633,14 @@
       "onboard_time": 1700723554,
       "rank": 33,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 184795,
+      "num": 184795,
+      "word": "曾黎景甜合照",
+      "onboard_time": 1700732073,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 184658,
@@ -1603,6 +1723,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 168463,
+      "num": 168463,
+      "word": "孙千孙美林 纯正姐狗",
+      "onboard_time": 1700734415,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167975,
       "num": 167975,
       "word": "美术生颜料 美式男高混血妆",
@@ -1641,6 +1769,14 @@
       "onboard_time": 1700697692,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164414,
+      "num": 164414,
+      "word": "龚俊蜀绣熊猫白西装",
+      "onboard_time": 1700732313,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 164275,
@@ -1771,6 +1907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148255,
+      "num": 148255,
+      "word": "各国在家过冬对比",
+      "onboard_time": 1700733394,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147882,
       "num": 147882,
       "word": "你好种地少年",
@@ -1827,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144032,
+      "num": 144032,
+      "word": "一个担心吃狗剩 一个担心狗抢饭",
+      "onboard_time": 1700732254,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143365,
       "num": 186549,
       "word": "詹姆斯关键失误",
@@ -1841,14 +1993,6 @@
       "onboard_time": 1700724936,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 142503,
-      "num": 198685,
-      "word": "入伍30年一级军士长告别军营",
-      "onboard_time": 1700723433,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142146,
@@ -1955,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129113,
+      "num": 129113,
+      "word": "哪款游戏是你的梦中情游",
+      "onboard_time": 1700732313,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127306,
       "num": 127306,
       "word": "平肩薄背原来可以躺出来",
@@ -1993,14 +2145,6 @@
       "onboard_time": 1700665419,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125564,
-      "num": 137297,
-      "word": "大熊猫小奇迹学吃窝窝头",
-      "onboard_time": 1700731894,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124462,
@@ -2105,14 +2249,6 @@
       "onboard_time": 1700704958,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106268,
-      "num": 120296,
-      "word": "这轮发烧为何来的这么狠",
-      "onboard_time": 1700732014,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104996,
@@ -2236,7 +2372,7 @@
     },
     {
       "raw_hot": 73708,
-      "num": 1413117,
+      "num": 1795024,
       "word": "山川同念英雄回家",
       "onboard_time": 1700725712,
       "rank": 2,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 17:34:26
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 18:19:13
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@ LNG醒醒（热度：3508473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%20%E5%8C%BB%E7%96%97%E6%9A%82%E5%81%9C%23" target="weibo">
 王曼昱 医疗暂停（热度：3407261）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E9%83%AD%E5%9F%B9%E9%AB%98%E5%AE%9A%23" target="weibo">
+迪丽热巴 郭培高定（热度：3364374）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Lia将缺席ITZY回归与巡演（热度：805074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%AE%B4%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23" target="weibo">
 时宴终于来了（热度：797441）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%AE%A3%E5%B8%83%E4%B8%8E%E7%BD%91%E6%98%93%E5%81%9C%E6%AD%A2%E5%90%88%E4%BD%9C%E4%B8%80%E5%91%A8%E5%B9%B4%23" target="weibo">
-暴雪宣布与网易停止合作一周年（热度：797200）
 </a>
 </li>
 
