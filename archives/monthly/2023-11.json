@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700757524829,
+  "endTime": 1700759751935,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -23769,6 +23769,14 @@
       "onboard_time": 1700041413,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333883,
+      "num": 333883,
+      "word": "成都警方通报斗鱼CEO陈少杰案",
+      "onboard_time": 1700756786,
+      "rank": 29,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 333514,
@@ -48011,6 +48019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161705,
+      "num": 89935,
+      "word": "叶晞月替薛姝手写道歉信",
+      "onboard_time": 1700757804,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161671,
       "num": 161671,
       "word": "敖子逸帮孙晨竣越帮越忙",
@@ -60267,6 +60283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92922,
+      "num": 200427,
+      "word": "宁波共享奶奶每天5人轮班风雨无阻",
+      "onboard_time": 1700755470,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92803,
       "num": 331279,
       "word": "新能源车已实现边开边充",
@@ -60857,14 +60881,6 @@
       "onboard_time": 1699371453,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84868,
-      "num": 200427,
-      "word": "宁波共享奶奶每天5人轮班风雨无阻",
-      "onboard_time": 1700755470,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84652,
@@ -61555,14 +61571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76069,
-      "num": 117463,
-      "word": "成都警方通报斗鱼CEO陈少杰案",
-      "onboard_time": 1700756786,
-      "rank": 29,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 76011,
       "num": 76011,
       "word": "东北大爷脱衣跳冰河救人获奖1万",
@@ -61713,6 +61721,14 @@
       "onboard_time": 1699332338,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 72740,
+      "num": 72740,
+      "word": "七仔连睡觉jiojio都在打拍子",
+      "onboard_time": 1700757626,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72725,
@@ -61953,6 +61969,14 @@
       "onboard_time": 1699785396,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 67629,
+      "num": 72708,
+      "word": "重庆一元8串的麻辣烫",
+      "onboard_time": 1700758522,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 67582,
