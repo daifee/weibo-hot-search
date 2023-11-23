@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700750068599,
+  "endTime": 1700752728736,
   "band_list": [
     {
       "raw_hot": 9563656,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3434505,
-      "num": 305290,
+      "num": 471332,
       "word": "迪丽热巴腰臀比 震撼",
       "onboard_time": 1700739630,
       "rank": 10,
@@ -75,8 +75,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 2182428,
-      "num": 2182428,
+      "raw_hot": 2207122,
+      "num": 2207122,
       "word": "迪丽热巴第二套 温婉大气",
       "onboard_time": 1700749660,
       "rank": 0,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1030532,
+      "num": 1030532,
+      "word": "时代少年团直播",
+      "onboard_time": 1700751936,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1026601,
       "num": 1026601,
       "word": "开心消消乐程序员回来加班",
@@ -281,6 +289,14 @@
       "onboard_time": 1700704831,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 923338,
+      "num": 923338,
+      "word": "头发这样洗一周只用洗一次头",
+      "onboard_time": 1700749960,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 885761,
@@ -347,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 810948,
+      "num": 810948,
+      "word": "全红婵粉丝怒斥裁判压分",
+      "onboard_time": 1700746179,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 807352,
       "num": 483689,
       "word": "陈冠希女儿好可爱",
@@ -393,14 +417,6 @@
       "onboard_time": 1700742100,
       "rank": 15,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 768778,
-      "num": 768778,
-      "word": "全红婵粉丝怒斥裁判压分",
-      "onboard_time": 1700746179,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 760804,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 629586,
-      "num": 241778,
+      "num": 309289,
       "word": "易烊千玺龚俊内场同框",
       "onboard_time": 1700747862,
       "rank": 32,
@@ -616,6 +632,14 @@
       "word": "疾控专家提醒大家戴口罩",
       "onboard_time": 1700696308,
       "rank": 8,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 559735,
+      "num": 559735,
+      "word": "今年呼吸道疾病传染性更强了吗",
+      "onboard_time": 1700748638,
+      "rank": 18,
       "category": "健康医疗"
     },
     {
@@ -963,6 +987,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 373517,
+      "num": 226352,
+      "word": "秦岚 作为同胞应该让您多挣钱的",
+      "onboard_time": 1700751700,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373300,
+      "num": 373300,
+      "word": "DK新赛季阵容",
+      "onboard_time": 1700751338,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 371939,
       "num": 222211,
       "word": "周冬雨安娜温图尔合影",
@@ -1179,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319048,
-      "num": 319048,
-      "word": "今年呼吸道疾病传染性更强了吗",
-      "onboard_time": 1700748638,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 318083,
       "num": 303684,
       "word": "我真的是秦岚",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1700745282,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 316533,
+      "num": 316533,
+      "word": "拖米 欧气",
+      "onboard_time": 1700751338,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 311208,
@@ -1251,12 +1291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294657,
+      "num": 173935,
+      "word": "严敏 我在我可以47很想孙红雷",
+      "onboard_time": 1700751818,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294354,
       "num": 294354,
       "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
       "onboard_time": 1700707231,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 293925,
+      "num": 189875,
+      "word": "姜雪宁 所图所愿皆落空",
+      "onboard_time": 1700748221,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 291346,
@@ -1299,20 +1355,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 283876,
+      "num": 170498,
+      "word": "惠英红 老钱风",
+      "onboard_time": 1700751518,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 283583,
       "num": 283583,
       "word": "流感",
       "onboard_time": 1700703694,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 282815,
-      "num": 189875,
-      "word": "姜雪宁 所图所愿皆落空",
-      "onboard_time": 1700748221,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 282142,
@@ -1369,6 +1425,14 @@
       "onboard_time": 1700733096,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 266060,
+      "num": 266060,
+      "word": "柯南2024剧场版标题",
+      "onboard_time": 1700749362,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 263955,
@@ -2003,14 +2067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192045,
-      "num": 192045,
-      "word": "柯南2024剧场版标题",
-      "onboard_time": 1700749362,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 190440,
       "num": 190440,
       "word": "邢菲裸感千金妆",
@@ -2257,6 +2313,14 @@
       "onboard_time": 1700713778,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 167818,
+      "num": 167818,
+      "word": "何同学用记忆金属做了一盆花",
+      "onboard_time": 1700752234,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 167387,
@@ -2723,14 +2787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128258,
-      "num": 128258,
-      "word": "头发这样洗一周只用洗一次头",
-      "onboard_time": 1700749960,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 127306,
       "num": 127306,
       "word": "平肩薄背原来可以躺出来",
@@ -2899,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103576,
+      "num": 130598,
+      "word": "普通人淡颜的最优解",
+      "onboard_time": 1700752714,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 102798,
       "num": 93004,
       "word": "花少 辛芷蕾的穿搭",
@@ -2929,6 +2993,14 @@
       "onboard_time": 1700743002,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 99282,
+      "num": 178004,
+      "word": "决战考研",
+      "onboard_time": 1700749238,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 98981,
@@ -3097,14 +3169,6 @@
       "onboard_time": 1700696005,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55291,
-      "num": 121791,
-      "word": "决战考研",
-      "onboard_time": 1700749238,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 47644,
