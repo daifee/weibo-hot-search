@@ -1,0 +1,410 @@
+{
+  "runTime": 1700731072832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2250762,
+        "num": 2250762,
+        "word": "明星收3.3万元坑位费只卖出一包木耳",
+        "onboard_time": 1700727452,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618429,
+        "num": 1618429,
+        "word": "茶百道与霸王茶姬等合资成立新公司",
+        "onboard_time": 1700726192,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 73708,
+        "num": 1413117,
+        "word": "山川同念英雄回家",
+        "onboard_time": 1700725712,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1302552,
+        "num": 1302552,
+        "word": "死亡打光下的贾静雯",
+        "onboard_time": 1700728055,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 624139,
+        "num": 624139,
+        "word": "麦当劳买回金拱门",
+        "onboard_time": 1700726192,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 623339,
+        "num": 623339,
+        "word": "封神 朝歌",
+        "onboard_time": 1700718755,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 497779,
+        "num": 497779,
+        "word": "小杨哥回应徒弟圣罗兰事件",
+        "onboard_time": 1700713541,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 449894,
+        "num": 449894,
+        "word": "研究表明4种血型患癌风险不一样",
+        "onboard_time": 1700726612,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 400297,
+        "num": 400297,
+        "word": "刘诗诗片场叫刘宇宁远舟哥哥",
+        "onboard_time": 1700724512,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383331,
+        "num": 383331,
+        "word": "真的会气出乳腺结节吗",
+        "onboard_time": 1700727396,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 948081,
+        "num": 380581,
+        "word": "唐嫣 南京",
+        "onboard_time": 1700729556,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417805,
+        "num": 377136,
+        "word": "脚踩葡萄干",
+        "onboard_time": 1700721451,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362462,
+        "num": 362462,
+        "word": "VOGUE时尚之力盛会",
+        "onboard_time": 1700730994,
+        "rank": 12,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 341602,
+        "num": 341602,
+        "word": "美团起诉四名摆拍网红损害骑手形象",
+        "onboard_time": 1700724391,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110967,
+        "num": 321604,
+        "word": "张大大帮粉丝上班",
+        "onboard_time": 1700730035,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321482,
+        "num": 321482,
+        "word": "华为Mate60 Pro帮他挡下了子弹",
+        "onboard_time": 1700724512,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 321144,
+        "num": 321144,
+        "word": "公司回应杜旭东带货3万坑位费卖货一单",
+        "onboard_time": 1700730395,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 316917,
+        "num": 316917,
+        "word": "爱奇艺尖叫之夜阵容",
+        "onboard_time": 1700722894,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297056,
+        "num": 297056,
+        "word": "赵丽颖 中式清冷眼妆",
+        "onboard_time": 1700724334,
+        "rank": 18,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 295113,
+        "num": 295113,
+        "word": "殷郊二创",
+        "onboard_time": 1700728774,
+        "rank": 19,
+        "category": "作品衍生,动漫"
+      },
+      {
+        "raw_hot": 276841,
+        "num": 276841,
+        "word": "张佳宁回复屈楚萧",
+        "onboard_time": 1700725895,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245728,
+        "num": 245728,
+        "word": "于适背头耳钉",
+        "onboard_time": 1700729673,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220110,
+        "num": 220110,
+        "word": "WBG1比0UP",
+        "onboard_time": 1700725654,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216289,
+        "num": 216289,
+        "word": "降温",
+        "onboard_time": 1700729974,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213601,
+        "num": 213601,
+        "word": "郑希怡老公一根口红画全妆",
+        "onboard_time": 1700730215,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206462,
+        "num": 206462,
+        "word": "解放军就美菲位南海联合巡航发表谈话",
+        "onboard_time": 1700730395,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209497,
+        "num": 205972,
+        "word": "于适未来感赛博格造型",
+        "onboard_time": 1700730215,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204353,
+        "num": 204353,
+        "word": "杨紫泰国游玩plog",
+        "onboard_time": 1700724334,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199945,
+        "num": 199945,
+        "word": "景甜和化妆师的合照",
+        "onboard_time": 1700728415,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111294,
+        "num": 198685,
+        "word": "入伍30年一级军士长告别军营",
+        "onboard_time": 1700723433,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 358296,
+        "num": 197540,
+        "word": "花海 世冠是我们的最后一场比赛了",
+        "onboard_time": 1700730754,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 336430,
+        "num": 196050,
+        "word": "库迪咖啡进军奶茶",
+        "onboard_time": 1700730512,
+        "rank": 31,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 240865,
+        "num": 195352,
+        "word": "机洗羽绒服一洗一个不吱声",
+        "onboard_time": 1700730155,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194710,
+        "num": 194710,
+        "word": "肖战冷暖反差大片",
+        "onboard_time": 1700723433,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192922,
+        "num": 192922,
+        "word": "肺炎支原体和流感会叠加吗",
+        "onboard_time": 1700730874,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173923,
+        "num": 173923,
+        "word": "辛芷蕾遇到一只素质有点差的猫",
+        "onboard_time": 1700724936,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69952,
+        "num": 171392,
+        "word": "时尚女魔头上海路透",
+        "onboard_time": 1700727693,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 170703,
+        "num": 170703,
+        "word": "王珞丹黑白倒钩眼线",
+        "onboard_time": 1700729556,
+        "rank": 37,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 166685,
+        "num": 166685,
+        "word": "安娜温图尔气场",
+        "onboard_time": 1700730215,
+        "rank": 38,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 108872,
+        "num": 151978,
+        "word": "第10批在韩志愿军烈士遗骸归国",
+        "onboard_time": 1700728655,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142888,
+        "num": 142888,
+        "word": "亮亮丽君夫妇",
+        "onboard_time": 1700724936,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142532,
+        "num": 142532,
+        "word": "LPL全明星投票",
+        "onboard_time": 1700718271,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140874,
+        "num": 140874,
+        "word": "乳腺癌12种外观改变",
+        "onboard_time": 1700721753,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133534,
+        "num": 133534,
+        "word": "严浩翔哭了",
+        "onboard_time": 1700723612,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130260,
+        "num": 130260,
+        "word": "辛芷蕾穿上了东北大花",
+        "onboard_time": 1700721573,
+        "rank": 44,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 128201,
+        "num": 128201,
+        "word": "陈都灵提灯战神2.0",
+        "onboard_time": 1700722353,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126092,
+        "num": 126092,
+        "word": "摩羯座真的值得深交",
+        "onboard_time": 1700721993,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125957,
+        "num": 125957,
+        "word": "宋轶男友视角随拍",
+        "onboard_time": 1700716960,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107606,
+        "num": 121316,
+        "word": "国家卫健委回应儿童医院人满为患",
+        "onboard_time": 1700720193,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98615,
+        "num": 120268,
+        "word": "张雪峰问20年后还有必要上大学吗",
+        "onboard_time": 1700709995,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
