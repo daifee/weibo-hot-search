@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700745750236,
+  "endTime": 1700746596816,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -753,6 +753,14 @@
       "onboard_time": 1700728055,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1450842,
+      "num": 1450842,
+      "word": "杨紫 华伦天奴",
+      "onboard_time": 1700745522,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1435154,
@@ -2387,6 +2395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 614578,
+      "num": 483083,
+      "word": "娜然 森林精灵",
+      "onboard_time": 1700734895,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 611479,
       "num": 572508,
       "word": "新闻女王海王社死现场",
@@ -2513,14 +2529,6 @@
       "onboard_time": 1700387968,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 591714,
-      "num": 483083,
-      "word": "娜然 森林精灵",
-      "onboard_time": 1700734895,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 591313,
@@ -3113,6 +3121,14 @@
       "onboard_time": 1700490518,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 507766,
+      "num": 507766,
+      "word": "新闻女王的台词是谁在写啊",
+      "onboard_time": 1700744562,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 507308,
@@ -4227,14 +4243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 389645,
-      "num": 389645,
-      "word": "新闻女王的台词是谁在写啊",
-      "onboard_time": 1700744562,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 389002,
       "num": 1848851,
       "word": "渔民误捕300斤大海龟后果断放生",
@@ -5067,6 +5075,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 335168,
+      "num": 287055,
+      "word": "甘露寺裸色美甲",
+      "onboard_time": 1700744802,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 334195,
       "num": 218059,
       "word": "秦岚说这辈子最想演皇上",
@@ -5108,7 +5124,7 @@
     },
     {
       "raw_hot": 330683,
-      "num": 220318,
+      "num": 256328,
       "word": "他那么小却那么懂事",
       "onboard_time": 1700740534,
       "rank": 29,
@@ -5379,12 +5395,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 316661,
+      "num": 288231,
+      "word": "阿里钉钉与华为达成合作",
+      "onboard_time": 1700745282,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 316579,
       "num": 316579,
       "word": "班上唯一认真听课的同学被抓走了",
       "onboard_time": 1700345896,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316234,
+      "num": 316234,
+      "word": "全红婵粉丝怒斥裁判压分",
+      "onboard_time": 1700746179,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 315782,
@@ -5492,7 +5524,7 @@
     },
     {
       "raw_hot": 309784,
-      "num": 194963,
+      "num": 216011,
       "word": "杨洋 荣耀发布会",
       "onboard_time": 1700745282,
       "rank": 34,
@@ -5609,14 +5641,6 @@
       "onboard_time": 1700619391,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302767,
-      "num": 194289,
-      "word": "杨紫 华伦天奴",
-      "onboard_time": 1700745522,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 302255,
@@ -6105,14 +6129,6 @@
       "onboard_time": 1700489975,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275835,
-      "num": 193566,
-      "word": "甘露寺裸色美甲",
-      "onboard_time": 1700744802,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 275779,
@@ -8115,6 +8131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 209919,
+      "num": 209919,
+      "word": "感受到了中国文化的暴力输出",
+      "onboard_time": 1700744861,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209824,
       "num": 209824,
       "word": "NewJeans BBMAs舞台",
@@ -8923,14 +8947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195950,
-      "num": 195950,
-      "word": "阿里钉钉与华为达成合作",
-      "onboard_time": 1700745282,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 195807,
       "num": 195807,
       "word": "很想很想你OST阵容官宣",
@@ -9161,14 +9177,6 @@
       "onboard_time": 1700406757,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 192152,
-      "num": 192152,
-      "word": "感受到了中国文化的暴力输出",
-      "onboard_time": 1700744861,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 191973,
@@ -10035,6 +10043,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 175227,
+      "num": 192956,
+      "word": "因凡蒂诺谴责足球暴力行为",
+      "onboard_time": 1700745344,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174847,
       "num": 174847,
       "word": "钎城二连MVP",
@@ -10121,6 +10137,14 @@
       "onboard_time": 1700496749,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173087,
+      "num": 152000,
+      "word": "魏哲鸣 霸总麻将局",
+      "onboard_time": 1700746424,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 172833,
@@ -10801,14 +10825,6 @@
       "onboard_time": 1700474796,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156757,
-      "num": 192956,
-      "word": "因凡蒂诺谴责足球暴力行为",
-      "onboard_time": 1700745344,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 156427,
@@ -12995,6 +13011,14 @@
       "category": "综艺,美食"
     },
     {
+      "raw_hot": 103937,
+      "num": 1508586,
+      "word": "全世界只有两个国家拥有时速350公里的高铁",
+      "onboard_time": 1700725533,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103704,
       "num": 103704,
       "word": "电视家公告称不会跑路",
@@ -13761,14 +13785,6 @@
       "onboard_time": 1700637334,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 49802,
-      "num": 1053887,
-      "word": "全世界只有两个国家拥有时速350公里的高铁",
-      "onboard_time": 1700725533,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47644,

@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700745750236,
+  "endTime": 1700746596816,
   "band_list": [
     {
       "raw_hot": 9563656,
@@ -153,6 +153,14 @@
       "onboard_time": 1700728055,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1450842,
+      "num": 1450842,
+      "word": "杨紫 华伦天奴",
+      "onboard_time": 1700745522,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1400409,
@@ -507,6 +515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 614578,
+      "num": 483083,
+      "word": "娜然 森林精灵",
+      "onboard_time": 1700734895,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 603482,
       "num": 603482,
       "word": "倪妮露肩礼服",
@@ -529,14 +545,6 @@
       "onboard_time": 1700733216,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 591714,
-      "num": 483083,
-      "word": "娜然 森林精灵",
-      "onboard_time": 1700734895,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 588005,
@@ -633,6 +641,14 @@
       "onboard_time": 1700724334,
       "rank": 22,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 507766,
+      "num": 507766,
+      "word": "新闻女王的台词是谁在写啊",
+      "onboard_time": 1700744562,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 504514,
@@ -875,14 +891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 389645,
-      "num": 389645,
-      "word": "新闻女王的台词是谁在写啊",
-      "onboard_time": 1700744562,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 385931,
       "num": 385931,
       "word": "和北大考研状元比赛是什么体验",
@@ -1019,6 +1027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 335168,
+      "num": 287055,
+      "word": "甘露寺裸色美甲",
+      "onboard_time": 1700744802,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 331385,
       "num": 331385,
       "word": "邓紫棋演唱会",
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 330683,
-      "num": 220318,
+      "num": 256328,
       "word": "他那么小却那么懂事",
       "onboard_time": 1700740534,
       "rank": 29,
@@ -1107,6 +1123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316661,
+      "num": 288231,
+      "word": "阿里钉钉与华为达成合作",
+      "onboard_time": 1700745282,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 316234,
+      "num": 316234,
+      "word": "全红婵粉丝怒斥裁判压分",
+      "onboard_time": 1700746179,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311208,
       "num": 258073,
       "word": "莱欧斯利",
@@ -1116,7 +1148,7 @@
     },
     {
       "raw_hot": 309784,
-      "num": 194963,
+      "num": 216011,
       "word": "杨洋 荣耀发布会",
       "onboard_time": 1700745282,
       "rank": 34,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1700741257,
       "rank": 8,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 302767,
-      "num": 194289,
-      "word": "杨紫 华伦天奴",
-      "onboard_time": 1700745522,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 299512,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1700715636,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275835,
-      "num": 193566,
-      "word": "甘露寺裸色美甲",
-      "onboard_time": 1700744802,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 274937,
@@ -1659,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209919,
+      "num": 209919,
+      "word": "感受到了中国文化的暴力输出",
+      "onboard_time": 1700744861,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209497,
       "num": 205972,
       "word": "于适未来感赛博格造型",
@@ -1819,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195950,
-      "num": 195950,
-      "word": "阿里钉钉与华为达成合作",
-      "onboard_time": 1700745282,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 195588,
       "num": 195588,
       "word": "代号鸢",
@@ -1889,14 +1905,6 @@
       "onboard_time": 1700696125,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192152,
-      "num": 192152,
-      "word": "感受到了中国文化的暴力输出",
-      "onboard_time": 1700744861,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 190440,
@@ -2075,6 +2083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175227,
+      "num": 192956,
+      "word": "因凡蒂诺谴责足球暴力行为",
+      "onboard_time": 1700745344,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173724,
       "num": 173724,
       "word": "唐嫣青花瓷元素古装",
@@ -2089,6 +2105,14 @@
       "onboard_time": 1700667814,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173087,
+      "num": 152000,
+      "word": "魏哲鸣 霸总麻将局",
+      "onboard_time": 1700746424,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 172821,
@@ -2249,14 +2273,6 @@
       "onboard_time": 1700662479,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156757,
-      "num": 192956,
-      "word": "因凡蒂诺谴责足球暴力行为",
-      "onboard_time": 1700745344,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 156583,
@@ -2739,6 +2755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103937,
+      "num": 1508586,
+      "word": "全世界只有两个国家拥有时速350公里的高铁",
+      "onboard_time": 1700725533,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103925,
       "num": 103925,
       "word": "爱奇艺尖叫之夜cp合体",
@@ -2945,14 +2969,6 @@
       "onboard_time": 1700696005,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49802,
-      "num": 1053887,
-      "word": "全世界只有两个国家拥有时速350公里的高铁",
-      "onboard_time": 1700725533,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47644,

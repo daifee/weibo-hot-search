@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 21:22:30
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 21:36:36
 </p>
 </blockquote>
 <p>
@@ -2615,6 +2615,12 @@ SpaceX与星舰助推器失去联系（热度：1473564）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E6%96%B9%E7%A7%B0%E4%B8%80%E4%B8%AA%E4%B8%AD%E7%BC%85%E8%BE%B9%E5%A2%83%E6%88%98%E7%95%A5%E5%9F%8E%E9%95%87%E5%A4%B1%E5%8E%BB%E6%8E%A7%E5%88%B6%23" target="weibo">
 缅方称一个中缅边境战略城镇失去控制（热度：1455935）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4%23" target="weibo">
+杨紫 华伦天奴（热度：1450842）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Lia将缺席ITZY回归与巡演（热度：805074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%AE%9E%E7%89%88%E6%9D%8E%E5%B3%8B%23" target="weibo">
 现实版李峋（热度：803274）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4%23" target="weibo">
-韩国空乘患癌去世被认定宇宙辐射工伤（热度：802852）
 </a>
 </li>
 
