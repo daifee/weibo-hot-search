@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700720592282,
+  "endTime": 1700721369138,
   "band_list": [
     {
       "raw_hot": 2944778,
@@ -171,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 820165,
+      "num": 820165,
+      "word": "封神 朝歌",
+      "onboard_time": 1700718755,
+      "rank": 3,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 807352,
       "num": 483689,
       "word": "陈冠希女儿好可爱",
@@ -235,14 +243,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 697668,
-      "num": 697668,
-      "word": "封神 朝歌",
-      "onboard_time": 1700718755,
-      "rank": 3,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 684298,
       "num": 684298,
       "word": "以爱为营 婚礼",
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 621388,
+      "num": 621388,
+      "word": "霸王茶姬回应小程序拥堵",
+      "onboard_time": 1700719595,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 618592,
       "num": 618592,
       "word": "新闻女王 文慧心别骂了",
@@ -305,14 +313,6 @@
       "onboard_time": 1700707231,
       "rank": 5,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 568618,
-      "num": 568618,
-      "word": "霸王茶姬回应小程序拥堵",
-      "onboard_time": 1700719595,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 566502,
@@ -353,6 +353,14 @@
       "onboard_time": 1700699194,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 500873,
+      "num": 500873,
+      "word": "除夕你去上班让边牧做年夜饭",
+      "onboard_time": 1700718271,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 484842,
@@ -403,6 +411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 432755,
+      "num": 432755,
+      "word": "T1冠军阵容全员续约",
+      "onboard_time": 1700717854,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 431124,
       "num": 431124,
       "word": "宠物犬被捕狗队抓走后送往市场宰杀",
@@ -419,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423390,
-      "num": 423390,
-      "word": "T1冠军阵容全员续约",
-      "onboard_time": 1700717854,
-      "rank": 7,
-      "category": "电竞"
+      "raw_hot": 420916,
+      "num": 420916,
+      "word": "张小斐古装造型",
+      "onboard_time": 1700716832,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 417448,
@@ -435,20 +451,20 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 408259,
-      "num": 408259,
-      "word": "张小斐古装造型",
-      "onboard_time": 1700716832,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 405927,
       "num": 292889,
       "word": "发烧",
       "onboard_time": 1700636252,
       "rank": 13,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 405926,
+      "num": 405926,
+      "word": "迪丽热巴跳新疆舞了",
+      "onboard_time": 1700718872,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 405094,
@@ -523,12 +539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 352874,
-      "num": 352874,
-      "word": "除夕你去上班让边牧做年夜饭",
-      "onboard_time": 1700718271,
-      "rank": 11,
-      "category": "幽默"
+      "raw_hot": 338607,
+      "num": 338607,
+      "word": "两架歼20超低空通场致敬先烈",
+      "onboard_time": 1700716775,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 331385,
@@ -576,14 +592,6 @@
       "word": "我真的是秦岚",
       "onboard_time": 1700708253,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 317669,
-      "num": 317669,
-      "word": "迪丽热巴跳新疆舞了",
-      "onboard_time": 1700718872,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -649,14 +657,6 @@
       "onboard_time": 1700703694,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 283061,
-      "num": 283061,
-      "word": "两架歼20超低空通场致敬先烈",
-      "onboard_time": 1700716775,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 281279,
@@ -923,6 +923,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 213861,
+      "num": 213861,
+      "word": "秦岚王安宇机场接迪丽热巴",
+      "onboard_time": 1700720014,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213804,
       "num": 213804,
       "word": "LPL全明星投票",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1700699559,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 197661,
+      "num": 197661,
+      "word": "国家卫健委回应儿童医院人满为患",
+      "onboard_time": 1700720193,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197295,
@@ -1235,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164275,
+      "num": 164275,
+      "word": "独行侠战胜湖人",
+      "onboard_time": 1700720972,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164089,
       "num": 164089,
       "word": "王睡睡终于攒够了失望",
@@ -1251,12 +1275,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 157636,
-      "num": 157636,
-      "word": "秦岚王安宇机场接迪丽热巴",
-      "onboard_time": 1700720014,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 160562,
+      "num": 160562,
+      "word": "绘旅人叶瑄",
+      "onboard_time": 1700719595,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 159258,
+      "num": 159258,
+      "word": "无期迷途",
+      "onboard_time": 1700720852,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 158185,
+      "num": 158185,
+      "word": "欧文28分",
+      "onboard_time": 1700721213,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 156899,
@@ -1299,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151772,
-      "num": 151772,
-      "word": "绘旅人叶瑄",
-      "onboard_time": 1700719595,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149774,
       "num": 149774,
       "word": "美女戴发箍共性",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1700714019,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 147882,
+      "num": 147882,
+      "word": "你好种地少年",
+      "onboard_time": 1700720671,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 147355,
@@ -1548,7 +1588,7 @@
     },
     {
       "raw_hot": 110037,
-      "num": 110037,
+      "num": 119616,
       "word": "英雄回家",
       "onboard_time": 1700717793,
       "rank": 44,
@@ -1592,14 +1632,6 @@
       "word": "91岁志愿军老战士第10次迎战友回家",
       "onboard_time": 1700711735,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100725,
-      "num": 100725,
-      "word": "国家卫健委回应儿童医院人满为患",
-      "onboard_time": 1700720193,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
