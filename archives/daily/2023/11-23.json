@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700724872643,
+  "endTime": 1700727721730,
   "band_list": [
     {
       "raw_hot": 2944778,
@@ -171,12 +171,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 872004,
+      "num": 872004,
+      "word": "美团起诉四名摆拍网红损害骑手形象",
+      "onboard_time": 1700724391,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 863642,
       "num": 863642,
       "word": "退休教师在家辅导外孙女数学走红",
       "onboard_time": 1700667453,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 861192,
+      "num": 861192,
+      "word": "茶百道与霸王茶姬等合资成立新公司",
+      "onboard_time": 1700726192,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 840359,
@@ -249,6 +265,14 @@
       "onboard_time": 1700706211,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 712804,
+      "num": 712804,
+      "word": "麦当劳买回金拱门",
+      "onboard_time": 1700726192,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 707125,
@@ -387,6 +411,38 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 518579,
+      "num": 518579,
+      "word": "刘诗诗片场叫刘宇宁远舟哥哥",
+      "onboard_time": 1700724512,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 511948,
+      "num": 511948,
+      "word": "张佳宁回复屈楚萧",
+      "onboard_time": 1700725895,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 510812,
+      "num": 510812,
+      "word": "赵丽颖 中式清冷眼妆",
+      "onboard_time": 1700724334,
+      "rank": 22,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 503715,
+      "num": 503715,
+      "word": "辛芷蕾穿上了东北大花",
+      "onboard_time": 1700721573,
+      "rank": 16,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 484842,
       "num": 484842,
       "word": "体育 主科",
@@ -435,20 +491,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 444858,
-      "num": 444858,
-      "word": "辛芷蕾穿上了东北大花",
-      "onboard_time": 1700721573,
-      "rank": 16,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 444546,
       "num": 444546,
       "word": "中植集团致歉",
       "onboard_time": 1700666496,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 434082,
+      "num": 434082,
+      "word": "华为Mate60 Pro帮他挡下了子弹",
+      "onboard_time": 1700724512,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 432755,
@@ -555,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 381776,
-      "num": 381776,
-      "word": "美团起诉四名摆拍网红损害骑手形象",
-      "onboard_time": 1700724391,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 370829,
       "num": 370829,
       "word": "这种小说的受众到底是谁",
@@ -587,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363319,
+      "num": 196770,
+      "word": "WBG1比0UP",
+      "onboard_time": 1700725654,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 361229,
       "num": 361229,
       "word": "狄仁杰皮肤",
@@ -603,11 +659,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 351471,
+      "num": 351471,
+      "word": "研究表明4种血型患癌风险不一样",
+      "onboard_time": 1700726612,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 345930,
       "num": 345930,
       "word": "宋轶男友视角随拍",
       "onboard_time": 1700716960,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 342417,
+      "num": 342417,
+      "word": "杨紫泰国游玩plog",
+      "onboard_time": 1700724334,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -713,14 +785,6 @@
       "onboard_time": 1700707231,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 292670,
-      "num": 292670,
-      "word": "赵丽颖 中式清冷眼妆",
-      "onboard_time": 1700724334,
-      "rank": 22,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 291346,
@@ -947,6 +1011,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 224732,
+      "num": 224732,
+      "word": "辛芷蕾遇到一只素质有点差的猫",
+      "onboard_time": 1700724936,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223643,
       "num": 200322,
       "word": "HYBE不给hanni上韩语课",
@@ -993,6 +1065,14 @@
       "onboard_time": 1700711675,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216970,
+      "num": 216970,
+      "word": "春晚的感觉一下就上来了",
+      "onboard_time": 1700725113,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 216900,
@@ -1115,12 +1195,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 198144,
+      "num": 198144,
+      "word": "爱乐之城 重映",
+      "onboard_time": 1700726553,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197626,
+      "num": 197626,
+      "word": "明星收3.3万元坑位费只卖出一包木耳",
+      "onboard_time": 1700727452,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197295,
       "num": 197295,
       "word": "朱琳官宣结婚",
       "onboard_time": 1700657854,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197262,
+      "num": 197262,
+      "word": "真的会气出乳腺结节吗",
+      "onboard_time": 1700727396,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196863,
@@ -1196,7 +1300,7 @@
     },
     {
       "raw_hot": 190112,
-      "num": 190112,
+      "num": 196771,
       "word": "下雪了回家了",
       "onboard_time": 1700723852,
       "rank": 27,
@@ -1225,6 +1329,14 @@
       "onboard_time": 1700697753,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187835,
+      "num": 187835,
+      "word": "迪丽热巴导游定制行",
+      "onboard_time": 1700727213,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 187722,
@@ -1331,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170790,
+      "num": 170790,
+      "word": "都说是妖孽这分明是祥瑞",
+      "onboard_time": 1700725533,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170322,
       "num": 170322,
       "word": "斥资16元在家跟儿子围炉煮茶",
@@ -1345,14 +1465,6 @@
       "onboard_time": 1700698052,
       "rank": 42,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 168972,
-      "num": 168972,
-      "word": "华为Mate60 Pro帮他挡下了子弹",
-      "onboard_time": 1700724512,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 167975,
@@ -1435,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158073,
-      "num": 158073,
-      "word": "刘诗诗片场叫刘宇宁远舟哥哥",
-      "onboard_time": 1700724512,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156899,
       "num": 156899,
       "word": "英雄联盟服务器",
@@ -1488,6 +1592,14 @@
       "word": "以爱为营",
       "onboard_time": 1700659657,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151998,
+      "num": 151998,
+      "word": "魏哲鸣黄日莹新剧定档",
+      "onboard_time": 1700725774,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1579,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141857,
-      "num": 141857,
-      "word": "杨紫泰国游玩plog",
-      "onboard_time": 1700724334,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141293,
       "num": 141293,
       "word": "流水迢迢",
@@ -1611,12 +1715,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 139023,
+      "num": 139023,
+      "word": "国产影视剧知名男性角色原型",
+      "onboard_time": 1700727091,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138842,
       "num": 138842,
       "word": "亮亮丽君夫妇母亲发声",
       "onboard_time": 1700723374,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138599,
+      "num": 187886,
+      "word": "入伍30年一级军士长告别军营",
+      "onboard_time": 1700723433,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137359,
@@ -1761,14 +1881,6 @@
       "onboard_time": 1700717376,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 115401,
-      "num": 126660,
-      "word": "入伍30年一级军士长告别军营",
-      "onboard_time": 1700723433,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 112559,
@@ -1971,6 +2083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 65463,
+      "num": 929372,
+      "word": "山川同念英雄回家",
+      "onboard_time": 1700725712,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59572,
       "num": 59572,
       "word": "李嶷崔琳冷脸大婚",
@@ -2025,6 +2145,14 @@
       "onboard_time": 1700638898,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29186,
+      "num": 123178,
+      "word": "时尚女魔头上海路透",
+      "onboard_time": 1700727693,
+      "rank": 49,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 28013,
