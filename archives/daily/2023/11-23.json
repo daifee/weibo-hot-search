@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700714142342,
+  "endTime": 1700716631093,
   "band_list": [
     {
       "raw_hot": 2784374,
@@ -49,6 +49,14 @@
       "onboard_time": 1700702016,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1681237,
+      "num": 1681237,
+      "word": "小杨哥回应徒弟圣罗兰事件",
+      "onboard_time": 1700713541,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1478096,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544997,
+      "num": 544997,
+      "word": "鬼怪没有过时 只是很难复制",
+      "onboard_time": 1700714199,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544648,
       "num": 544648,
       "word": "秦岚悬着的心终于吊死了",
@@ -315,14 +331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 503070,
-      "num": 503070,
-      "word": "小杨哥回应徒弟圣罗兰事件",
-      "onboard_time": 1700713541,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484842,
       "num": 484842,
       "word": "体育 主科",
@@ -337,6 +345,14 @@
       "onboard_time": 1700650958,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482805,
+      "num": 482805,
+      "word": "Viva La Vida 人生万岁",
+      "onboard_time": 1700713299,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 462023,
@@ -395,6 +411,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 405094,
+      "num": 405094,
+      "word": "逆水寒疑似抄袭代号鸢头像",
+      "onboard_time": 1700713964,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 392056,
       "num": 392056,
       "word": "鸟鸟 北方的city过年很难walk",
@@ -443,11 +467,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 347138,
-      "num": 347138,
-      "word": "Viva La Vida 人生万岁",
-      "onboard_time": 1700713299,
-      "rank": 14,
+      "raw_hot": 334631,
+      "num": 260936,
+      "word": "庆余年二预约破800万",
+      "onboard_time": 1700716116,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -491,6 +515,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311208,
+      "num": 258073,
+      "word": "莱欧斯利",
+      "onboard_time": 1700714980,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 301086,
+      "num": 301086,
+      "word": "辛芷蕾 给姐点面子",
+      "onboard_time": 1700715580,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299512,
       "num": 273024,
       "word": "明星化妆师 男友换头术",
@@ -505,6 +545,14 @@
       "onboard_time": 1700704052,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294354,
+      "num": 294354,
+      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
+      "onboard_time": 1700707231,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 291346,
@@ -539,12 +587,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 283161,
-      "num": 283161,
-      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
-      "onboard_time": 1700707231,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 278144,
+      "num": 278144,
+      "word": "保罗一生之敌",
+      "onboard_time": 1700715636,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 274937,
@@ -561,6 +609,14 @@
       "onboard_time": 1700700999,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263107,
+      "num": 263107,
+      "word": "肺炎支原体感染期这么吃恢复快",
+      "onboard_time": 1700713659,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 259693,
@@ -635,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235159,
+      "num": 235159,
+      "word": "迪丽热巴回归花少",
+      "onboard_time": 1700715220,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234510,
       "num": 234510,
       "word": "电影年会不能停定档",
@@ -659,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232501,
+      "num": 232501,
+      "word": "seventeen有几个头上有调色盘啊",
+      "onboard_time": 1700713839,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230034,
       "num": 230034,
       "word": "网传异人之下2诸葛青换人",
@@ -673,14 +745,6 @@
       "onboard_time": 1700697089,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 224495,
-      "num": 224495,
-      "word": "肺炎支原体感染期这么吃恢复快",
-      "onboard_time": 1700713659,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 223643,
@@ -715,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217200,
-      "num": 217200,
-      "word": "逆水寒疑似抄袭代号鸢头像",
-      "onboard_time": 1700713964,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 217198,
       "num": 217198,
       "word": "得了甲流的具体症状",
@@ -739,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215988,
+      "num": 215988,
+      "word": "花少5到克罗地亚了",
+      "onboard_time": 1700714258,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214713,
       "num": 214713,
       "word": "孩子看一次可以管一个月",
@@ -753,6 +817,14 @@
       "onboard_time": 1700707832,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210269,
+      "num": 210269,
+      "word": "和北大考研状元比赛是什么体验",
+      "onboard_time": 1700716360,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 209101,
@@ -785,6 +857,14 @@
       "onboard_time": 1700706273,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 206319,
+      "num": 206319,
+      "word": "国家卫健委解答儿童呼吸道感染相关问题",
+      "onboard_time": 1700715397,
+      "rank": 30,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 205324,
@@ -891,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188754,
+      "num": 353634,
+      "word": "波司登一件羽绒服穿了多少年",
+      "onboard_time": 1700714140,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 188132,
       "num": 188132,
       "word": "宁安如梦薛姝断尾求生一夜封妃",
@@ -939,6 +1027,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 184658,
+      "num": 184658,
+      "word": "斗鱼",
+      "onboard_time": 1700715938,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 184158,
       "num": 184158,
       "word": "感冒 紫苏叶",
@@ -955,20 +1051,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 178575,
-      "num": 178575,
-      "word": "seventeen有几个头上有调色盘啊",
-      "onboard_time": 1700713839,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177910,
       "num": 177910,
       "word": "养老院不能睡懒觉",
       "onboard_time": 1700667033,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173724,
+      "num": 173724,
+      "word": "唐嫣青花瓷元素古装",
+      "onboard_time": 1700714800,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 173559,
@@ -1131,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141293,
+      "num": 141293,
+      "word": "流水迢迢",
+      "onboard_time": 1700715165,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140206,
       "num": 140206,
       "word": "拼多多 大模型",
@@ -1241,6 +1345,14 @@
       "onboard_time": 1700660738,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111743,
+      "num": 134587,
+      "word": "勇士vs太阳",
+      "onboard_time": 1700715278,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108218,
