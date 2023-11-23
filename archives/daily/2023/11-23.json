@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700752728736,
+  "endTime": 1700753674050,
   "band_list": [
     {
       "raw_hot": 9563656,
@@ -227,6 +227,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1122902,
+      "num": 1122902,
+      "word": "头发这样洗一周只用洗一次头",
+      "onboard_time": 1700749960,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1117247,
       "num": 299632,
       "word": "男子出轨被发现后开车顶撞妻女",
@@ -289,14 +297,6 @@
       "onboard_time": 1700704831,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 923338,
-      "num": 923338,
-      "word": "头发这样洗一周只用洗一次头",
-      "onboard_time": 1700749960,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 885761,
@@ -667,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542843,
+      "num": 263953,
+      "word": "秦岚 作为同胞应该让您多挣钱的",
+      "onboard_time": 1700751700,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 535661,
       "num": 231896,
       "word": "VOGUE盛典内场",
@@ -985,14 +993,6 @@
       "onboard_time": 1700733096,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 373517,
-      "num": 226352,
-      "word": "秦岚 作为同胞应该让您多挣钱的",
-      "onboard_time": 1700751700,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 373300,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1700703694,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282823,
+      "num": 160930,
+      "word": "VOGUE盛典 简陋",
+      "onboard_time": 1700752895,
+      "rank": 26,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 282142,
@@ -1827,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212811,
+      "num": 150944,
+      "word": "陈思诚是谢晋的学生",
+      "onboard_time": 1700753253,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209919,
       "num": 209919,
       "word": "感受到了中国文化的暴力输出",
@@ -1907,6 +1923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204800,
+      "num": 167818,
+      "word": "何同学用记忆金属做了一盆花",
+      "onboard_time": 1700752234,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203935,
       "num": 174018,
       "word": "那些老板说过的废话文学",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1700699559,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200454,
+      "num": 146908,
+      "word": "张凌赫回应谢危偷亲",
+      "onboard_time": 1700752895,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 200226,
@@ -2313,14 +2345,6 @@
       "onboard_time": 1700713778,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 167818,
-      "num": 167818,
-      "word": "何同学用记忆金属做了一盆花",
-      "onboard_time": 1700752234,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 167387,
@@ -2923,6 +2947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109173,
+      "num": 130598,
+      "word": "普通人淡颜的最优解",
+      "onboard_time": 1700752714,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 108872,
       "num": 151978,
       "word": "第10批在韩志愿军烈士遗骸归国",
@@ -2953,14 +2985,6 @@
       "onboard_time": 1700656237,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103576,
-      "num": 130598,
-      "word": "普通人淡颜的最优解",
-      "onboard_time": 1700752714,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 102798,

@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700752728736,
+  "endTime": 1700753674050,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -1091,6 +1091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1122902,
+      "num": 1122902,
+      "word": "头发这样洗一周只用洗一次头",
+      "onboard_time": 1700749960,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1119325,
       "num": 1119325,
       "word": "余华 人和人交往尽量少说话",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1700557353,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 923338,
-      "num": 923338,
-      "word": "头发这样洗一周只用洗一次头",
-      "onboard_time": 1700749960,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 921207,
@@ -2937,6 +2937,14 @@
       "onboard_time": 1700324672,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 542843,
+      "num": 263953,
+      "word": "秦岚 作为同胞应该让您多挣钱的",
+      "onboard_time": 1700751700,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 542530,
@@ -4529,14 +4537,6 @@
       "onboard_time": 1700400696,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373517,
-      "num": 226352,
-      "word": "秦岚 作为同胞应该让您多挣钱的",
-      "onboard_time": 1700751700,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 373300,
@@ -6153,6 +6153,14 @@
       "onboard_time": 1700553517,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 282823,
+      "num": 160930,
+      "word": "VOGUE盛典 简陋",
+      "onboard_time": 1700752895,
+      "rank": 26,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 282793,
@@ -8179,6 +8187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212811,
+      "num": 150944,
+      "word": "陈思诚是谢晋的学生",
+      "onboard_time": 1700753253,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212626,
       "num": 212626,
       "word": "东北冷到发紫",
@@ -8603,6 +8619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204800,
+      "num": 167818,
+      "word": "何同学用记忆金属做了一盆花",
+      "onboard_time": 1700752234,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 204771,
       "num": 204771,
       "word": "孙兴慜梅开二度",
@@ -8849,6 +8873,14 @@
       "onboard_time": 1700319337,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200454,
+      "num": 146908,
+      "word": "张凌赫回应谢危偷亲",
+      "onboard_time": 1700752895,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 200413,
@@ -10505,14 +10537,6 @@
       "onboard_time": 1700374769,
       "rank": 45,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 167818,
-      "num": 167818,
-      "word": "何同学用记忆金属做了一盆花",
-      "onboard_time": 1700752234,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 167757,
@@ -13075,6 +13099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109173,
+      "num": 130598,
+      "word": "普通人淡颜的最优解",
+      "onboard_time": 1700752714,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 109152,
       "num": 109152,
       "word": "小猫咪吃一堑又吃一堑",
@@ -13209,14 +13241,6 @@
       "onboard_time": 1700522064,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 103576,
-      "num": 130598,
-      "word": "普通人淡颜的最优解",
-      "onboard_time": 1700752714,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 102928,
