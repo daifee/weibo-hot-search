@@ -1,0 +1,410 @@
+{
+  "runTime": 1700749015465,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6399530,
+        "num": 6399530,
+        "word": "娜扎秒了",
+        "onboard_time": 1700739812,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2208223,
+        "num": 2208223,
+        "word": "杨紫 华伦天奴",
+        "onboard_time": 1700745522,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144829,
+        "num": 1358586,
+        "word": "全世界只有两个国家拥有时速350公里的高铁",
+        "onboard_time": 1700725533,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1199913,
+        "num": 1199913,
+        "word": "刘德华父亲逝世",
+        "onboard_time": 1700743902,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819470,
+        "num": 819470,
+        "word": "奚梦瑶湿发",
+        "onboard_time": 1700746720,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1273354,
+        "num": 806492,
+        "word": "迪丽热巴 郭培高定",
+        "onboard_time": 1700733096,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 768778,
+        "num": 768778,
+        "word": "全红婵粉丝怒斥裁判压分",
+        "onboard_time": 1700746179,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317022,
+        "num": 317022,
+        "word": "甘露寺裸色美甲",
+        "onboard_time": 1700744802,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 268367,
+        "num": 268367,
+        "word": "Doinb直播",
+        "onboard_time": 1700744743,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91007,
+        "num": 265633,
+        "word": "我国卫星互联网技术试验卫星发射成功",
+        "onboard_time": 1700743119,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2330475,
+        "num": 261619,
+        "word": "迪丽热巴腰臀比 震撼",
+        "onboard_time": 1700739630,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 893968,
+        "num": 258980,
+        "word": "漫画胸内衣",
+        "onboard_time": 1700747680,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1244520,
+        "num": 255084,
+        "word": "倪妮 花神降临",
+        "onboard_time": 1700736274,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 745339,
+        "num": 253006,
+        "word": "台湾",
+        "onboard_time": 1700741615,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 658758,
+        "num": 247218,
+        "word": "三毛 审美",
+        "onboard_time": 1700742100,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 578210,
+        "num": 241877,
+        "word": "童瑶 马面裙",
+        "onboard_time": 1700736573,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 550274,
+        "num": 237856,
+        "word": "张子枫 银灰小烟熏",
+        "onboard_time": 1700738314,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 386274,
+        "num": 237530,
+        "word": "妈妈退休后沉迷上了手工制陶",
+        "onboard_time": 1700747380,
+        "rank": 17,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 233903,
+        "num": 233903,
+        "word": "今年呼吸道疾病传染性更强了吗",
+        "onboard_time": 1700748638,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206290,
+        "num": 233251,
+        "word": "马云成立马家厨房公司",
+        "onboard_time": 1700740653,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 535661,
+        "num": 231896,
+        "word": "VOGUE盛典内场",
+        "onboard_time": 1700746963,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 463327,
+        "num": 230745,
+        "word": "娜然 森林精灵",
+        "onboard_time": 1700734895,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 441905,
+        "num": 230074,
+        "word": "新闻女王的台词是谁在写啊",
+        "onboard_time": 1700744562,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229601,
+        "num": 229601,
+        "word": "eStar五人组告别",
+        "onboard_time": 1700746963,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207776,
+        "num": 207776,
+        "word": "VOGUE时尚之力盛会",
+        "onboard_time": 1700730994,
+        "rank": 24,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 329897,
+        "num": 199875,
+        "word": "王一博 叶秘和金深水一样行于刀尖",
+        "onboard_time": 1700748824,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287560,
+        "num": 195914,
+        "word": "易烊千玺复古红皮衣",
+        "onboard_time": 1700736274,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190975,
+        "num": 190975,
+        "word": "阿里钉钉与华为达成合作",
+        "onboard_time": 1700745282,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172725,
+        "num": 172725,
+        "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
+        "onboard_time": 1700734653,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92911,
+        "num": 172165,
+        "word": "因凡蒂诺谴责足球暴力行为",
+        "onboard_time": 1700745344,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267382,
+        "num": 171303,
+        "word": "刘诗诗 红衣面纱舞",
+        "onboard_time": 1700736871,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264496,
+        "num": 170619,
+        "word": "姜雪宁 所图所愿皆落空",
+        "onboard_time": 1700748221,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535448,
+        "num": 169705,
+        "word": "易烊千玺龚俊内场同框",
+        "onboard_time": 1700747862,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168912,
+        "num": 168912,
+        "word": "感受到了中国文化的暴力输出",
+        "onboard_time": 1700744861,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164711,
+        "num": 164711,
+        "word": "考研时爱上了给人起外号",
+        "onboard_time": 1700740595,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262860,
+        "num": 164663,
+        "word": "大睿睿为什么重新拿起了二胡",
+        "onboard_time": 1700748522,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 226645,
+        "num": 164567,
+        "word": "娜扎珍珠羽毛透视裙",
+        "onboard_time": 1700740534,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226578,
+        "num": 164428,
+        "word": "杨洋 荣耀发布会",
+        "onboard_time": 1700745282,
+        "rank": 37,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 83111,
+        "num": 164206,
+        "word": "女儿43年为妈妈私人定制150件衣服",
+        "onboard_time": 1700733033,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82265,
+        "num": 164080,
+        "word": "大熊猫小奇迹学吃窝窝头",
+        "onboard_time": 1700731894,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204221,
+        "num": 163905,
+        "word": "他那么小却那么懂事",
+        "onboard_time": 1700740534,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163864,
+        "num": 163864,
+        "word": "贵价气垫真的更好用吗",
+        "onboard_time": 1700748463,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 198584,
+        "num": 162074,
+        "word": "魏哲鸣 霸总麻将局",
+        "onboard_time": 1700746424,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196426,
+        "num": 161750,
+        "word": "檀健次深V粉西装",
+        "onboard_time": 1700743002,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189197,
+        "num": 160800,
+        "word": "明星收3.3万元坑位费只卖出一包木耳",
+        "onboard_time": 1700727452,
+        "rank": 44,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 155915,
+        "num": 155915,
+        "word": "殷郊 天命玄鸟铩羽而归",
+        "onboard_time": 1700741257,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 149974,
+        "num": 149974,
+        "word": "急性子必备的瘦背训练",
+        "onboard_time": 1700748638,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 134334,
+        "num": 149940,
+        "word": "意识到文化输出在国外很有必要",
+        "onboard_time": 1700746903,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63496,
+        "num": 149847,
+        "word": "龚翔宇追星宁艺卓",
+        "onboard_time": 1700739393,
+        "rank": 48,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 59829,
+        "num": 149787,
+        "word": "再也不用8名战士分1个苹果了",
+        "onboard_time": 1700737775,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
