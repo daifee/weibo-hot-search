@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700763718188,
+  "endTime": 1700764480447,
   "band_list": [
     {
       "raw_hot": 1959287,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30250,
+      "num": 30250,
+      "word": "易烊千玺龚俊内场同框",
+      "onboard_time": 1700747862,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 28301,
       "num": 39562,
       "word": "新闻女王",
@@ -467,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 22302,
+      "num": 39601,
+      "word": "纽约时代广场随处可见中国元素",
+      "onboard_time": 1700762237,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22209,
       "num": 39512,
       "word": "eStar 人被刀就会死",
@@ -475,12 +491,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18832,
-      "num": 39601,
-      "word": "纽约时代广场随处可见中国元素",
-      "onboard_time": 1700762237,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 11022,
+      "num": 30168,
+      "word": "跟随国旗英雄回家",
+      "onboard_time": 1700764456,
+      "rank": 49,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
