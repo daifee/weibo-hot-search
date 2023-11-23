@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700727721730,
+  "endTime": 1700728521886,
   "band_list": [
     {
       "raw_hot": 2944778,
@@ -73,6 +73,14 @@
       "onboard_time": 1700718755,
       "rank": 3,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 1497794,
+      "num": 1497794,
+      "word": "茶百道与霸王茶姬等合资成立新公司",
+      "onboard_time": 1700726192,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 1478096,
@@ -187,14 +195,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 861192,
-      "num": 861192,
-      "word": "茶百道与霸王茶姬等合资成立新公司",
-      "onboard_time": 1700726192,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 840359,
       "num": 840359,
       "word": "爱奇艺尖叫之夜阵容",
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 755891,
+      "num": 755891,
+      "word": "麦当劳买回金拱门",
+      "onboard_time": 1700726192,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 755805,
       "num": 755805,
       "word": "旭旭宝宝",
@@ -265,14 +273,6 @@
       "onboard_time": 1700706211,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 712804,
-      "num": 712804,
-      "word": "麦当劳买回金拱门",
-      "onboard_time": 1700726192,
-      "rank": 6,
-      "category": "美食"
     },
     {
       "raw_hot": 707125,
@@ -321,6 +321,14 @@
       "onboard_time": 1700718271,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 631919,
+      "num": 462136,
+      "word": "明星收3.3万元坑位费只卖出一包木耳",
+      "onboard_time": 1700727452,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 630915,
@@ -435,12 +443,28 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 504514,
+      "num": 504514,
+      "word": "研究表明4种血型患癌风险不一样",
+      "onboard_time": 1700726612,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 503715,
       "num": 503715,
       "word": "辛芷蕾穿上了东北大花",
       "onboard_time": 1700721573,
       "rank": 16,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 495540,
+      "num": 159248,
+      "word": "死亡打光下的贾静雯",
+      "onboard_time": 1700728055,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 484842,
@@ -657,14 +681,6 @@
       "onboard_time": 1700709215,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 351471,
-      "num": 351471,
-      "word": "研究表明4种血型患癌风险不一样",
-      "onboard_time": 1700726612,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 345930,
@@ -891,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252105,
+      "num": 252105,
+      "word": "真的会气出乳腺结节吗",
+      "onboard_time": 1700727396,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 250641,
       "num": 250641,
       "word": "Blackpink 大英勋章",
@@ -929,6 +953,14 @@
       "onboard_time": 1700672123,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243590,
+      "num": 243590,
+      "word": "辛芷蕾遇到一只素质有点差的猫",
+      "onboard_time": 1700724936,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 240875,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1700697089,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 224732,
-      "num": 224732,
-      "word": "辛芷蕾遇到一只素质有点差的猫",
-      "onboard_time": 1700724936,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 223643,
@@ -1203,28 +1227,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197626,
-      "num": 197626,
-      "word": "明星收3.3万元坑位费只卖出一包木耳",
-      "onboard_time": 1700727452,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197295,
       "num": 197295,
       "word": "朱琳官宣结婚",
       "onboard_time": 1700657854,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197262,
-      "num": 197262,
-      "word": "真的会气出乳腺结节吗",
-      "onboard_time": 1700727396,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 196863,
@@ -1683,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142503,
+      "num": 187886,
+      "word": "入伍30年一级军士长告别军营",
+      "onboard_time": 1700723433,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142146,
       "num": 142146,
       "word": "易建联南美分联",
@@ -1731,20 +1747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138599,
-      "num": 187886,
-      "word": "入伍30年一级军士长告别军营",
-      "onboard_time": 1700723433,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 137359,
       "num": 126224,
       "word": "易烊千玺机场",
       "onboard_time": 1700653595,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135800,
+      "num": 135800,
+      "word": "小学生一天行程",
+      "onboard_time": 1700727933,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 135476,
@@ -1851,6 +1867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122115,
+      "num": 128916,
+      "word": "景甜和化妆师的合照",
+      "onboard_time": 1700728415,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120898,
       "num": 120898,
       "word": "感恩节火鸡",
@@ -1897,6 +1921,14 @@
       "onboard_time": 1700715278,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111516,
+      "num": 128873,
+      "word": "亮亮丽君夫妇",
+      "onboard_time": 1700724936,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 110037,
@@ -2075,20 +2107,20 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 67293,
+      "num": 929372,
+      "word": "山川同念英雄回家",
+      "onboard_time": 1700725712,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66601,
       "num": 91349,
       "word": "中植披露资不抵债逾2000亿元",
       "onboard_time": 1700666796,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 65463,
-      "num": 929372,
-      "word": "山川同念英雄回家",
-      "onboard_time": 1700725712,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59572,
@@ -2139,20 +2171,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39076,
+      "num": 128843,
+      "word": "时尚女魔头上海路透",
+      "onboard_time": 1700727693,
+      "rank": 49,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 31135,
       "num": 1149506,
       "word": "接英雄回家",
       "onboard_time": 1700638898,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29186,
-      "num": 123178,
-      "word": "时尚女魔头上海路透",
-      "onboard_time": 1700727693,
-      "rank": 49,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 28013,

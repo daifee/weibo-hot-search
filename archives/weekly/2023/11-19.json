@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700727721730,
+  "endTime": 1700728521886,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -665,6 +665,14 @@
       "onboard_time": 1700446654,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1497794,
+      "num": 1497794,
+      "word": "茶百道与霸王茶姬等合资成立新公司",
+      "onboard_time": 1700726192,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 1479307,
@@ -1355,14 +1363,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 861192,
-      "num": 861192,
-      "word": "茶百道与霸王茶姬等合资成立新公司",
-      "onboard_time": 1700726192,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 851527,
       "num": 851527,
       "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
@@ -1635,6 +1635,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 755891,
+      "num": 755891,
+      "word": "麦当劳买回金拱门",
+      "onboard_time": 1700726192,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 755805,
       "num": 755805,
       "word": "旭旭宝宝",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1700395237,
       "rank": 2,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 712804,
-      "num": 712804,
-      "word": "麦当劳买回金拱门",
-      "onboard_time": 1700726192,
-      "rank": 6,
-      "category": "美食"
     },
     {
       "raw_hot": 712174,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1700555195,
       "rank": 16,
       "category": "剧集,互联网"
+    },
+    {
+      "raw_hot": 631919,
+      "num": 462136,
+      "word": "明星收3.3万元坑位费只卖出一包木耳",
+      "onboard_time": 1700727452,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 630915,
@@ -2955,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504514,
+      "num": 504514,
+      "word": "研究表明4种血型患癌风险不一样",
+      "onboard_time": 1700726612,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 503987,
       "num": 503987,
       "word": "TVB台庆",
@@ -3032,6 +3048,14 @@
       "word": "赵昭仪冷脸爆改冰雨火",
       "onboard_time": 1700622155,
       "rank": 9,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 495540,
+      "num": 159248,
+      "word": "死亡打光下的贾静雯",
+      "onboard_time": 1700728055,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -4481,14 +4505,6 @@
       "onboard_time": 1700540503,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 351471,
-      "num": 351471,
-      "word": "研究表明4种血型患癌风险不一样",
-      "onboard_time": 1700726612,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 351227,
@@ -6259,6 +6275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252105,
+      "num": 252105,
+      "word": "真的会气出乳腺结节吗",
+      "onboard_time": 1700727396,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 251953,
       "num": 251953,
       "word": "林俊杰说什么不重要张远就是没有",
@@ -6481,6 +6505,14 @@
       "onboard_time": 1700524774,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 243590,
+      "num": 243590,
+      "word": "辛芷蕾遇到一只素质有点差的猫",
+      "onboard_time": 1700724936,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 243444,
@@ -7001,14 +7033,6 @@
       "onboard_time": 1700394045,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 224732,
-      "num": 224732,
-      "word": "辛芷蕾遇到一只素质有点差的猫",
-      "onboard_time": 1700724936,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 224727,
@@ -8243,14 +8267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197626,
-      "num": 197626,
-      "word": "明星收3.3万元坑位费只卖出一包木耳",
-      "onboard_time": 1700727452,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197541,
       "num": 197541,
       "word": "湖人晋级淘汰赛",
@@ -8273,14 +8289,6 @@
       "onboard_time": 1700621852,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197262,
-      "num": 197262,
-      "word": "真的会气出乳腺结节吗",
-      "onboard_time": 1700727396,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197216,
@@ -10747,6 +10755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142503,
+      "num": 187886,
+      "word": "入伍30年一级军士长告别军营",
+      "onboard_time": 1700723433,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142146,
       "num": 142146,
       "word": "易建联南美分联",
@@ -10971,14 +10987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138599,
-      "num": 187886,
-      "word": "入伍30年一级军士长告别军营",
-      "onboard_time": 1700723433,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 138482,
       "num": 208651,
       "word": "AG战胜DRG",
@@ -11105,6 +11113,14 @@
       "onboard_time": 1700447914,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135800,
+      "num": 135800,
+      "word": "小学生一天行程",
+      "onboard_time": 1700727933,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 135476,
@@ -11683,6 +11699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122115,
+      "num": 128916,
+      "word": "景甜和化妆师的合照",
+      "onboard_time": 1700728415,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "化妆的尽头其实是裸妆",
@@ -12009,6 +12033,14 @@
       "onboard_time": 1700667214,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111516,
+      "num": 128873,
+      "word": "亮亮丽君夫妇",
+      "onboard_time": 1700724936,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 110648,
@@ -12731,6 +12763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67293,
+      "num": 929372,
+      "word": "山川同念英雄回家",
+      "onboard_time": 1700725712,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66888,
       "num": 66888,
       "word": "网友为了省钱学给女朋友做美甲",
@@ -12745,14 +12785,6 @@
       "onboard_time": 1700609246,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 65463,
-      "num": 929372,
-      "word": "山川同念英雄回家",
-      "onboard_time": 1700725712,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 65122,
@@ -12955,6 +12987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39076,
+      "num": 128843,
+      "word": "时尚女魔头上海路透",
+      "onboard_time": 1700727693,
+      "rank": 49,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 38670,
       "num": 43138,
       "word": "快乐减肥操",
@@ -13017,14 +13057,6 @@
       "onboard_time": 1700338394,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 29186,
-      "num": 123178,
-      "word": "时尚女魔头上海路透",
-      "onboard_time": 1700727693,
-      "rank": 49,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 29026,

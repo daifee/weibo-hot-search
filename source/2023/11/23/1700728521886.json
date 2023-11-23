@@ -1,0 +1,410 @@
+{
+  "runTime": 1700728521886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1497794,
+        "num": 1497794,
+        "word": "茶百道与霸王茶姬等合资成立新公司",
+        "onboard_time": 1700726192,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1201004,
+        "num": 1201004,
+        "word": "封神 朝歌",
+        "onboard_time": 1700718755,
+        "rank": 1,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 67293,
+        "num": 835227,
+        "word": "山川同念英雄回家",
+        "onboard_time": 1700725712,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810821,
+        "num": 810821,
+        "word": "小杨哥回应徒弟圣罗兰事件",
+        "onboard_time": 1700713541,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 755891,
+        "num": 755891,
+        "word": "麦当劳买回金拱门",
+        "onboard_time": 1700726192,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 869830,
+        "num": 753847,
+        "word": "脚踩葡萄干",
+        "onboard_time": 1700721451,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750618,
+        "num": 750618,
+        "word": "美团起诉四名摆拍网红损害骑手形象",
+        "onboard_time": 1700724391,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 596387,
+        "num": 596387,
+        "word": "爱奇艺尖叫之夜阵容",
+        "onboard_time": 1700722894,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504514,
+        "num": 504514,
+        "word": "研究表明4种血型患癌风险不一样",
+        "onboard_time": 1700726612,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 472222,
+        "num": 472222,
+        "word": "张佳宁回复屈楚萧",
+        "onboard_time": 1700725895,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 631919,
+        "num": 462136,
+        "word": "明星收3.3万元坑位费只卖出一包木耳",
+        "onboard_time": 1700727452,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443359,
+        "num": 443359,
+        "word": "刘诗诗片场叫刘宇宁远舟哥哥",
+        "onboard_time": 1700724512,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431210,
+        "num": 431210,
+        "word": "华为Mate60 Pro帮他挡下了子弹",
+        "onboard_time": 1700724512,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 413563,
+        "num": 413563,
+        "word": "赵丽颖 中式清冷眼妆",
+        "onboard_time": 1700724334,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 369362,
+        "num": 369362,
+        "word": "辛芷蕾穿上了东北大花",
+        "onboard_time": 1700721573,
+        "rank": 14,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 309995,
+        "num": 309995,
+        "word": "杨紫泰国游玩plog",
+        "onboard_time": 1700724334,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266302,
+        "num": 266302,
+        "word": "乳腺癌12种外观改变",
+        "onboard_time": 1700721753,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252105,
+        "num": 252105,
+        "word": "真的会气出乳腺结节吗",
+        "onboard_time": 1700727396,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243590,
+        "num": 243590,
+        "word": "辛芷蕾遇到一只素质有点差的猫",
+        "onboard_time": 1700724936,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180847,
+        "num": 230167,
+        "word": "国家卫健委回应儿童医院人满为患",
+        "onboard_time": 1700720193,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245045,
+        "num": 229760,
+        "word": "肖战冷暖反差大片",
+        "onboard_time": 1700723433,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227210,
+        "num": 227210,
+        "word": "陈都灵提灯战神2.0",
+        "onboard_time": 1700722353,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218749,
+        "num": 218749,
+        "word": "严浩翔哭了",
+        "onboard_time": 1700723612,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209387,
+        "num": 209387,
+        "word": "刷牙之前不建议将牙刷蘸湿",
+        "onboard_time": 1700707231,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202365,
+        "num": 202365,
+        "word": "春晚的感觉一下就上来了",
+        "onboard_time": 1700725113,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190895,
+        "num": 190895,
+        "word": "摩羯座真的值得深交",
+        "onboard_time": 1700721993,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171164,
+        "num": 171164,
+        "word": "朴敏英为演癌症患者减重到74斤",
+        "onboard_time": 1700710363,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161294,
+        "num": 161294,
+        "word": "鬼怪没有过时 只是很难复制",
+        "onboard_time": 1700714199,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151599,
+        "num": 160897,
+        "word": "张雪峰问20年后还有必要上大学吗",
+        "onboard_time": 1700709995,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142503,
+        "num": 160347,
+        "word": "入伍30年一级军士长告别军营",
+        "onboard_time": 1700723433,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 495540,
+        "num": 159248,
+        "word": "死亡打光下的贾静雯",
+        "onboard_time": 1700728055,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312155,
+        "num": 158783,
+        "word": "WBG1比0UP",
+        "onboard_time": 1700725654,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158192,
+        "num": 158192,
+        "word": "宋轶男友视角随拍",
+        "onboard_time": 1700716960,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154989,
+        "num": 154989,
+        "word": "霸王茶姬回应小程序拥堵",
+        "onboard_time": 1700719595,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152693,
+        "num": 152693,
+        "word": "LPL全明星投票",
+        "onboard_time": 1700718271,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145031,
+        "num": 145031,
+        "word": "都说是妖孽这分明是祥瑞",
+        "onboard_time": 1700725533,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139336,
+        "num": 139336,
+        "word": "Gumayusi 最好的选手们所在的地方就是T1",
+        "onboard_time": 1700722954,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137761,
+        "num": 137761,
+        "word": "下雪了回家了",
+        "onboard_time": 1700723852,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136648,
+        "num": 136648,
+        "word": "魏哲鸣黄日莹新剧定档",
+        "onboard_time": 1700725774,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135800,
+        "num": 135800,
+        "word": "小学生一天行程",
+        "onboard_time": 1700727933,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130910,
+        "num": 130910,
+        "word": "迪丽热巴导游定制行",
+        "onboard_time": 1700727213,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129323,
+        "num": 129323,
+        "word": "胡先煦这日子你还过不过了",
+        "onboard_time": 1700724512,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122115,
+        "num": 128916,
+        "word": "景甜和化妆师的合照",
+        "onboard_time": 1700728415,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122079,
+        "num": 128875,
+        "word": "Viva La Vida 人生万岁",
+        "onboard_time": 1700713299,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111516,
+        "num": 128873,
+        "word": "亮亮丽君夫妇",
+        "onboard_time": 1700724936,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128872,
+        "num": 128872,
+        "word": "秦岚王安宇机场接迪丽热巴",
+        "onboard_time": 1700720014,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123004,
+        "num": 128870,
+        "word": "国产影视剧知名男性角色原型",
+        "onboard_time": 1700727091,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94425,
+        "num": 128858,
+        "word": "亮亮丽君夫妇母亲发声",
+        "onboard_time": 1700723374,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102750,
+        "num": 128855,
+        "word": "爱乐之城 重映",
+        "onboard_time": 1700726553,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39076,
+        "num": 128843,
+        "word": "时尚女魔头上海路透",
+        "onboard_time": 1700727693,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同乌拉圭总统会谈#"
+    }
+  }
+}
