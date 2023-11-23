@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700738123450,
+  "endTime": 1700739254645,
   "band_list": [
     {
       "raw_hot": 3364374,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1376163,
+      "num": 676117,
+      "word": "童瑶 马面裙",
+      "onboard_time": 1700736573,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1370468,
       "num": 876349,
       "word": "郭虎 别碰现偶",
@@ -139,20 +147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1357891,
+      "num": 1357891,
+      "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
+      "onboard_time": 1700734653,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1343913,
       "num": 1343913,
       "word": "Angelababy旗下基金注销",
       "onboard_time": 1700712335,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1313992,
-      "num": 1313992,
-      "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
-      "onboard_time": 1700734653,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1306354,
@@ -187,20 +195,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1008280,
-      "num": 461300,
-      "word": "童瑶 马面裙",
-      "onboard_time": 1700736573,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 995507,
       "num": 995507,
       "word": "女子拿鞭引导男子跪地爬行双双被拘",
       "onboard_time": 1700700878,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 961000,
+      "num": 961000,
+      "word": "VOGUE时尚之力盛会",
+      "onboard_time": 1700730994,
+      "rank": 12,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 948081,
@@ -307,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 773511,
-      "num": 518932,
-      "word": "VOGUE时尚之力盛会",
-      "onboard_time": 1700730994,
-      "rank": 12,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 772235,
       "num": 445554,
       "word": "他罚她她奖励他",
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657934,
+      "num": 657934,
+      "word": "李沁干枯玫瑰妆",
+      "onboard_time": 1700737354,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 653015,
       "num": 653015,
       "word": "除夕你去上班让边牧做年夜饭",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 588033,
-      "num": 481594,
+      "num": 483083,
       "word": "娜然 森林精灵",
       "onboard_time": 1700734895,
       "rank": 11,
@@ -489,6 +497,14 @@
       "onboard_time": 1700712575,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563737,
+      "num": 563737,
+      "word": "刘诗诗 红衣面纱舞",
+      "onboard_time": 1700736871,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 563138,
@@ -611,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461927,
-      "num": 461927,
-      "word": "刘诗诗 红衣面纱舞",
-      "onboard_time": 1700736871,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 450472,
       "num": 450472,
       "word": "高中生连吃4种感冒药住进EICU",
@@ -691,11 +699,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423569,
-      "num": 423569,
-      "word": "李沁干枯玫瑰妆",
-      "onboard_time": 1700737354,
-      "rank": 17,
+      "raw_hot": 425324,
+      "num": 425324,
+      "word": "张子枫 银灰小烟熏",
+      "onboard_time": 1700738314,
+      "rank": 16,
       "category": "作品衍生,时尚"
     },
     {
@@ -1139,20 +1147,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 256844,
+      "num": 1266963,
+      "word": "2小时回家路走了70多年",
+      "onboard_time": 1700733033,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256124,
       "num": 388841,
       "word": "波司登一件羽绒服穿了多少年",
       "onboard_time": 1700714140,
       "rank": 11,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 254542,
-      "num": 1266963,
-      "word": "2小时回家路走了70多年",
-      "onboard_time": 1700733033,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 252927,
@@ -1355,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217448,
+      "num": 192754,
+      "word": "李宇春拿抓头",
+      "onboard_time": 1700736932,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 217366,
       "num": 1008344,
       "word": "入伍30年一级军士长告别军营",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1700706273,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 206537,
-      "num": 192754,
-      "word": "李宇春拿抓头",
-      "onboard_time": 1700736932,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206319,
@@ -1761,6 +1769,14 @@
       "onboard_time": 1700702796,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 183195,
+      "num": 992074,
+      "word": "再也不用8名战士分1个苹果了",
+      "onboard_time": 1700737775,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180531,
@@ -2171,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136262,
+      "num": 126156,
+      "word": "黑白密码",
+      "onboard_time": 1700738074,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135800,
       "num": 135800,
       "word": "小学生一天行程",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1700672424,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134695,
+      "num": 123997,
+      "word": "谢危偷亲姜雪宁",
+      "onboard_time": 1700738732,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134430,
@@ -2209,14 +2241,6 @@
       "onboard_time": 1700724512,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130324,
-      "num": 130324,
-      "word": "再也不用8名战士分1个苹果了",
-      "onboard_time": 1700737775,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 129612,
@@ -2265,14 +2289,6 @@
       "onboard_time": 1700700458,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126156,
-      "num": 126156,
-      "word": "黑白密码",
-      "onboard_time": 1700738074,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 126012,
