@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 13:17:11
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 13:34:03
 </p>
 </blockquote>
 <p>
@@ -449,6 +449,12 @@ gala哭了（热度：3005329）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8B%23" target="weibo">
 管泽元预测（热度：2969153）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%8F%E7%A8%8B%E5%BA%8F%23" target="weibo">
+霸王茶姬小程序（热度：2944778）
 </a>
 </li>
 
@@ -1689,6 +1695,12 @@ T1拿到决赛赛点（热度：1835312）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23" target="weibo">
+小杨哥回应徒弟圣罗兰事件（热度：1753951）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%9B%AE%E7%9D%B926%E5%B2%81%E5%84%BF%E5%AD%90%E8%BF%9E%E6%95%913%E4%BA%BA%E7%89%BA%E7%89%B2%23" target="weibo">
 父亲目睹26岁儿子连救3人牺牲（热度：1753832）
 </a>
@@ -1919,12 +1931,6 @@ WBG发文告别S13（热度：1736182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%93%81%E5%86%9C%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23" target="weibo">
 周铁农同志逝世（热度：1682885）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E5%9C%A3%E7%BD%97%E5%85%B0%E4%BA%8B%E4%BB%B6%23" target="weibo">
-小杨哥回应徒弟圣罗兰事件（热度：1681237）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Lia将缺席ITZY回归与巡演（热度：805074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%8D%8F%E5%B0%B1%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A23%E4%BA%BA%E6%82%A3%E7%99%8C%E5%8F%91%E5%A3%B0%23" target="weibo">
 中国科协就中山二院3人患癌发声（热度：792018）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E6%81%8B%E4%BA%BA%E6%9C%89%E4%BA%B2%E5%AF%86%E6%81%90%E6%83%A7%E7%97%87%E5%90%97%23" target="weibo">
-你能接受恋人有亲密恐惧症吗（热度：791119）
 </a>
 </li>
 

@@ -1,7 +1,15 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700716631093,
+  "endTime": 1700717643455,
   "band_list": [
+    {
+      "raw_hot": 2944778,
+      "num": 2944778,
+      "word": "霸王茶姬小程序",
+      "onboard_time": 1700717195,
+      "rank": 0,
+      "category": "美食"
+    },
     {
       "raw_hot": 2784374,
       "num": 1897022,
@@ -51,8 +59,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 1681237,
-      "num": 1681237,
+      "raw_hot": 1753951,
+      "num": 1753951,
       "word": "小杨哥回应徒弟圣罗兰事件",
       "onboard_time": 1700713541,
       "rank": 7,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 630915,
+      "num": 630915,
+      "word": "鬼怪没有过时 只是很难复制",
+      "onboard_time": 1700714199,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 618592,
       "num": 618592,
       "word": "新闻女王 文慧心别骂了",
@@ -305,14 +321,6 @@
       "onboard_time": 1700705071,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 544997,
-      "num": 544997,
-      "word": "鬼怪没有过时 只是很难复制",
-      "onboard_time": 1700714199,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 544648,
@@ -435,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385931,
+      "num": 385931,
+      "word": "和北大考研状元比赛是什么体验",
+      "onboard_time": 1700716360,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370829,
       "num": 370829,
       "word": "这种小说的受众到底是谁",
       "onboard_time": 1700709032,
       "rank": 43,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 370391,
+      "num": 370391,
+      "word": "庆余年二预约破800万",
+      "onboard_time": 1700716116,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 366179,
@@ -459,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 355374,
+      "num": 355374,
+      "word": "张小斐古装造型",
+      "onboard_time": 1700716832,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354536,
       "num": 264084,
       "word": "古剑的风还是吹到了2023",
@@ -467,20 +499,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 334631,
-      "num": 260936,
-      "word": "庆余年二预约破800万",
-      "onboard_time": 1700716116,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331385,
       "num": 331385,
       "word": "邓紫棋演唱会",
       "onboard_time": 1700713238,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 331366,
+      "num": 331366,
+      "word": "辛芷蕾 给姐点面子",
+      "onboard_time": 1700715580,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 322098,
@@ -521,14 +553,6 @@
       "onboard_time": 1700714980,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301086,
-      "num": 301086,
-      "word": "辛芷蕾 给姐点面子",
-      "onboard_time": 1700715580,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 299512,
@@ -587,8 +611,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 278144,
-      "num": 278144,
+      "raw_hot": 281279,
+      "num": 281279,
       "word": "保罗一生之敌",
       "onboard_time": 1700715636,
       "rank": 18,
@@ -635,6 +659,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 256124,
+      "num": 388841,
+      "word": "波司登一件羽绒服穿了多少年",
+      "onboard_time": 1700714140,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 252927,
       "num": 252927,
       "word": "王艺妍妤一种很新的断层第一",
@@ -657,6 +689,14 @@
       "onboard_time": 1700697210,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246737,
+      "num": 246737,
+      "word": "迪丽热巴回归花少",
+      "onboard_time": 1700715220,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 245513,
@@ -689,14 +729,6 @@
       "onboard_time": 1700712279,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235159,
-      "num": 235159,
-      "word": "迪丽热巴回归花少",
-      "onboard_time": 1700715220,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 234510,
@@ -745,6 +777,14 @@
       "onboard_time": 1700697089,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 224920,
+      "num": 224920,
+      "word": "宋轶男友视角随拍",
+      "onboard_time": 1700716960,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 223643,
@@ -817,14 +857,6 @@
       "onboard_time": 1700707832,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210269,
-      "num": 210269,
-      "word": "和北大考研状元比赛是什么体验",
-      "onboard_time": 1700716360,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 209101,
@@ -907,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196265,
+      "num": 196265,
+      "word": "两架歼20超低空通场致敬先烈",
+      "onboard_time": 1700716775,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196077,
       "num": 196077,
       "word": "中国空军运20接25名烈士回家",
@@ -969,14 +1009,6 @@
       "onboard_time": 1700694804,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188754,
-      "num": 353634,
-      "word": "波司登一件羽绒服穿了多少年",
-      "onboard_time": 1700714140,
-      "rank": 11,
-      "category": "时尚"
     },
     {
       "raw_hot": 188132,
@@ -1219,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144378,
+      "num": 144378,
+      "word": "天天敷面膜会导致皮肤过度水合吗",
+      "onboard_time": 1700716960,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 142146,
       "num": 142146,
       "word": "易建联南美分联",
@@ -1323,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122345,
+      "num": 122345,
+      "word": "伍佰 抢票丝滑的举手",
+      "onboard_time": 1700717561,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120658,
       "num": 120658,
       "word": "花少 当导游前vs当导游后",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1700656774,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115898,
+      "num": 115898,
+      "word": "万物在东北皆可冰糖",
+      "onboard_time": 1700717376,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 112559,

@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700716631093,
+  "endTime": 1700717643455,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -97,6 +97,14 @@
       "onboard_time": 1700577877,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2944778,
+      "num": 2944778,
+      "word": "霸王茶姬小程序",
+      "onboard_time": 1700717195,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 2926091,
@@ -475,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1753951,
+      "num": 1753951,
+      "word": "小杨哥回应徒弟圣罗兰事件",
+      "onboard_time": 1700713541,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1752439,
       "num": 807258,
       "word": "中国式丁克",
@@ -529,14 +545,6 @@
       "onboard_time": 1700551356,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1681237,
-      "num": 1681237,
-      "word": "小杨哥回应徒弟圣罗兰事件",
-      "onboard_time": 1700713541,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1679721,
@@ -2059,6 +2067,14 @@
       "category": "剧集,互联网"
     },
     {
+      "raw_hot": 630915,
+      "num": 630915,
+      "word": "鬼怪没有过时 只是很难复制",
+      "onboard_time": 1700714199,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 630303,
       "num": 630303,
       "word": "罗云熙晒与宋茜合照",
@@ -2553,14 +2569,6 @@
       "onboard_time": 1700619152,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 544997,
-      "num": 544997,
-      "word": "鬼怪没有过时 只是很难复制",
-      "onboard_time": 1700714199,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 544929,
@@ -3811,6 +3819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385931,
+      "num": 385931,
+      "word": "和北大考研状元比赛是什么体验",
+      "onboard_time": 1700716360,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385060,
       "num": 277568,
       "word": "看花少 少走10年弯路",
@@ -4035,6 +4051,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 370391,
+      "num": 370391,
+      "word": "庆余年二预约破800万",
+      "onboard_time": 1700716116,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370010,
       "num": 370010,
       "word": "RW侠北伐",
@@ -4241,6 +4265,14 @@
       "onboard_time": 1700364328,
       "rank": 23,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 355374,
+      "num": 355374,
+      "word": "张小斐古装造型",
+      "onboard_time": 1700716832,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 354713,
@@ -4515,14 +4547,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 334631,
-      "num": 260936,
-      "word": "庆余年二预约破800万",
-      "onboard_time": 1700716116,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 334195,
       "num": 218059,
       "word": "秦岚说这辈子最想演皇上",
@@ -4553,6 +4577,14 @@
       "onboard_time": 1700713238,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 331366,
+      "num": 331366,
+      "word": "辛芷蕾 给姐点面子",
+      "onboard_time": 1700715580,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 330549,
@@ -5043,14 +5075,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 301086,
-      "num": 301086,
-      "word": "辛芷蕾 给姐点面子",
-      "onboard_time": 1700715580,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300408,
       "num": 300408,
       "word": "eStar世冠淘汰",
@@ -5403,6 +5427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281279,
+      "num": 281279,
+      "word": "保罗一生之敌",
+      "onboard_time": 1700715636,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280851,
       "num": 280851,
       "word": "Viper更换悠米头像",
@@ -5425,14 +5457,6 @@
       "onboard_time": 1700407474,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278144,
-      "num": 278144,
-      "word": "保罗一生之敌",
-      "onboard_time": 1700715636,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 277500,
@@ -5891,6 +5915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256124,
+      "num": 388841,
+      "word": "波司登一件羽绒服穿了多少年",
+      "onboard_time": 1700714140,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 255802,
       "num": 255802,
       "word": "杜兰特想恋爱了",
@@ -6137,6 +6169,14 @@
       "onboard_time": 1700633012,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246737,
+      "num": 246737,
+      "word": "迪丽热巴回归花少",
+      "onboard_time": 1700715220,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 246607,
@@ -6451,14 +6491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235159,
-      "num": 235159,
-      "word": "迪丽热巴回归花少",
-      "onboard_time": 1700715220,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234991,
       "num": 234991,
       "word": "王鸥新剧羊毛卷",
@@ -6737,6 +6769,14 @@
       "onboard_time": 1700394045,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224920,
+      "num": 224920,
+      "word": "宋轶男友视角随拍",
+      "onboard_time": 1700716960,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 224727,
@@ -7257,14 +7297,6 @@
       "onboard_time": 1700539298,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 210269,
-      "num": 210269,
-      "word": "和北大考研状元比赛是什么体验",
-      "onboard_time": 1700716360,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 210224,
@@ -8003,6 +8035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196265,
+      "num": 196265,
+      "word": "两架歼20超低空通场致敬先烈",
+      "onboard_time": 1700716775,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196129,
       "num": 196129,
       "word": "黄奕二次元AI眼妆",
@@ -8377,14 +8417,6 @@
       "onboard_time": 1700484272,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188754,
-      "num": 353634,
-      "word": "波司登一件羽绒服穿了多少年",
-      "onboard_time": 1700714140,
-      "rank": 11,
-      "category": "时尚"
     },
     {
       "raw_hot": 188539,
@@ -10203,6 +10235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144378,
+      "num": 144378,
+      "word": "天天敷面膜会导致皮肤过度水合吗",
+      "onboard_time": 1700716960,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 144193,
       "num": 144193,
       "word": "不肯下班真的不能理解",
@@ -11147,6 +11187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122345,
+      "num": 122345,
+      "word": "伍佰 抢票丝滑的举手",
+      "onboard_time": 1700717561,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122264,
       "num": 122264,
       "word": "BABYMONSTER计划尽快办演唱会",
@@ -11329,6 +11377,14 @@
       "onboard_time": 1700454097,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115898,
+      "num": 115898,
+      "word": "万物在东北皆可冰糖",
+      "onboard_time": 1700717376,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 115771,
