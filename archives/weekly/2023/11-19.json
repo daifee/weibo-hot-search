@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700760847281,
+  "endTime": 1700763718188,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -13403,6 +13403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97195,
+      "num": 97195,
+      "word": "重庆一元8串的麻辣烫",
+      "onboard_time": 1700758522,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 97150,
       "num": 610410,
       "word": "中大型SUV价格翻天了",
@@ -13811,14 +13819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 72767,
-      "num": 72767,
-      "word": "重庆一元8串的麻辣烫",
-      "onboard_time": 1700758522,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 72740,
       "num": 72740,
       "word": "七仔连睡觉jiojio都在打拍子",
@@ -14163,6 +14163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32602,
+      "num": 39661,
+      "word": "杨迪情绪稳定实际上已经疯了",
+      "onboard_time": 1700762781,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 29942,
       "num": 53767,
       "word": "千万不要在顶光下自拍",
@@ -14257,6 +14265,14 @@
       "onboard_time": 1700600712,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 18832,
+      "num": 39601,
+      "word": "纽约时代广场随处可见中国元素",
+      "onboard_time": 1700762237,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18447,

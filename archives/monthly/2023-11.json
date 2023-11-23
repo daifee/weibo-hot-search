@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700760847281,
+  "endTime": 1700763718188,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -59907,6 +59907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97195,
+      "num": 97195,
+      "word": "重庆一元8串的麻辣烫",
+      "onboard_time": 1700758522,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 97150,
       "num": 610410,
       "word": "中大型SUV价格翻天了",
@@ -61720,14 +61728,6 @@
       "word": "选鲜奶认准这个就对了",
       "onboard_time": 1699332338,
       "rank": 18,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 72767,
-      "num": 72767,
-      "word": "重庆一元8串的麻辣烫",
-      "onboard_time": 1700758522,
-      "rank": 29,
       "category": "美食"
     },
     {
@@ -63595,6 +63595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32602,
+      "num": 39661,
+      "word": "杨迪情绪稳定实际上已经疯了",
+      "onboard_time": 1700762781,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 32316,
       "num": 32316,
       "word": "阿森纳3比1伯恩利",
@@ -64065,6 +64073,14 @@
       "onboard_time": 1700600712,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 18832,
+      "num": 39601,
+      "word": "纽约时代广场随处可见中国元素",
+      "onboard_time": 1700762237,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18272,
