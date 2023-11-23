@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 20:50:08
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/23 21:22:30
 </p>
 </blockquote>
 <p>
@@ -1523,6 +1523,12 @@ T1拿到两个赛点（热度：1895187）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%A4%E5%90%8D%E6%88%90%E5%91%98%E4%B8%8EYG%E7%AD%BE%E8%AE%A2%E7%BB%84%E5%90%88%E7%BA%A6%23" target="weibo">
 BLACKPINK两名成员与YG签订组合约（热度：1863870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96%23" target="weibo">
+刘德华父亲逝世（热度：1861744）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Lia将缺席ITZY回归与巡演（热度：805074）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E4%B9%98%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%AE%87%E5%AE%99%E8%BE%90%E5%B0%84%E5%B7%A5%E4%BC%A4%23" target="weibo">
 韩国空乘患癌去世被认定宇宙辐射工伤（热度：802852）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E6%88%91%E4%BF%A9%E7%9C%9F%E6%B2%A1%E6%B3%95%E6%94%B6%E5%9C%BA%E4%BA%86%23" target="weibo">
-秦岚辛芷蕾 我俩真没法收场了（热度：801206）
 </a>
 </li>
 

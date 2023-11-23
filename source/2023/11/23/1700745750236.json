@@ -1,0 +1,410 @@
+{
+  "runTime": 1700745750236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8703207,
+        "num": 8703207,
+        "word": "娜扎秒了",
+        "onboard_time": 1700739812,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1861744,
+        "num": 1861744,
+        "word": "刘德华父亲逝世",
+        "onboard_time": 1700743902,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49802,
+        "num": 1053887,
+        "word": "全世界只有两个国家拥有时速350公里的高铁",
+        "onboard_time": 1700725533,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430831,
+        "num": 430831,
+        "word": "考研时爱上了给人起外号",
+        "onboard_time": 1700740595,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412862,
+        "num": 412862,
+        "word": "刘诗诗 红衣面纱舞",
+        "onboard_time": 1700736871,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1548410,
+        "num": 407838,
+        "word": "迪丽热巴 郭培高定",
+        "onboard_time": 1700733096,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 389645,
+        "num": 389645,
+        "word": "新闻女王的台词是谁在写啊",
+        "onboard_time": 1700744562,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322550,
+        "num": 322550,
+        "word": "明星收3.3万元坑位费只卖出一包木耳",
+        "onboard_time": 1700727452,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306413,
+        "num": 306413,
+        "word": "殷郊 天命玄鸟铩羽而归",
+        "onboard_time": 1700741257,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 153154,
+        "num": 305405,
+        "word": "我国卫星互联网技术试验卫星发射成功",
+        "onboard_time": 1700743119,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 3018288,
+        "num": 305290,
+        "word": "迪丽热巴腰臀比 震撼",
+        "onboard_time": 1700739630,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61997,
+        "num": 303842,
+        "word": "荣耀100写真相机",
+        "onboard_time": 1700743181,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1412366,
+        "num": 302616,
+        "word": "倪妮 花神降临",
+        "onboard_time": 1700736274,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 899377,
+        "num": 301552,
+        "word": "台湾",
+        "onboard_time": 1700741615,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 862472,
+        "num": 300638,
+        "word": "童瑶 马面裙",
+        "onboard_time": 1700736573,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 768828,
+        "num": 298828,
+        "word": "三毛 审美",
+        "onboard_time": 1700742100,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 726731,
+        "num": 297771,
+        "word": "张子枫 银灰小烟熏",
+        "onboard_time": 1700738314,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 380658,
+        "num": 297289,
+        "word": "VOGUE时尚之力盛会",
+        "onboard_time": 1700730994,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 342801,
+        "num": 295936,
+        "word": "Doinb直播",
+        "onboard_time": 1700744743,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295404,
+        "num": 295404,
+        "word": "马云成立马家厨房公司",
+        "onboard_time": 1700740653,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 655391,
+        "num": 273993,
+        "word": "李沁干枯玫瑰妆",
+        "onboard_time": 1700737354,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 360149,
+        "num": 262978,
+        "word": "D社曝警方传讯李善均和权志龙的原因",
+        "onboard_time": 1700739630,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591714,
+        "num": 256946,
+        "word": "娜然 森林精灵",
+        "onboard_time": 1700734895,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 250595,
+        "num": 250595,
+        "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
+        "onboard_time": 1700734653,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200564,
+        "num": 200564,
+        "word": "我们五个人再也不会输了",
+        "onboard_time": 1700740296,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 491734,
+        "num": 200539,
+        "word": "易烊千玺复古红皮衣",
+        "onboard_time": 1700736274,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 363216,
+        "num": 200438,
+        "word": "朱珠牛仔风",
+        "onboard_time": 1700742100,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130837,
+        "num": 200410,
+        "word": "龚翔宇追星宁艺卓",
+        "onboard_time": 1700739393,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 113579,
+        "num": 200354,
+        "word": "女儿43年为妈妈私人定制150件衣服",
+        "onboard_time": 1700733033,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112179,
+        "num": 200280,
+        "word": "再也不用8名战士分1个苹果了",
+        "onboard_time": 1700737775,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200226,
+        "num": 200226,
+        "word": "柯文哲",
+        "onboard_time": 1700741735,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195950,
+        "num": 195950,
+        "word": "阿里钉钉与华为达成合作",
+        "onboard_time": 1700745282,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 332799,
+        "num": 195627,
+        "word": "檀健次深V粉西装",
+        "onboard_time": 1700743002,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 326236,
+        "num": 195412,
+        "word": "他那么小却那么懂事",
+        "onboard_time": 1700740534,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309784,
+        "num": 194963,
+        "word": "杨洋 荣耀发布会",
+        "onboard_time": 1700745282,
+        "rank": 34,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 307857,
+        "num": 194638,
+        "word": "娜扎珍珠羽毛透视裙",
+        "onboard_time": 1700740534,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302767,
+        "num": 194289,
+        "word": "杨紫 华伦天奴",
+        "onboard_time": 1700745522,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 290492,
+        "num": 193982,
+        "word": "唐嫣 南京",
+        "onboard_time": 1700729556,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275835,
+        "num": 193566,
+        "word": "甘露寺裸色美甲",
+        "onboard_time": 1700744802,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156757,
+        "num": 192956,
+        "word": "因凡蒂诺谴责足球暴力行为",
+        "onboard_time": 1700745344,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263127,
+        "num": 192841,
+        "word": "于适 机器人男友",
+        "onboard_time": 1700740774,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245624,
+        "num": 192325,
+        "word": "周冬雨安娜温图尔合影",
+        "onboard_time": 1700739271,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192152,
+        "num": 192152,
+        "word": "感受到了中国文化的暴力输出",
+        "onboard_time": 1700744861,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208299,
+        "num": 191053,
+        "word": "杨幂和费翔合作过",
+        "onboard_time": 1700745640,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183788,
+        "num": 183788,
+        "word": "韩金金家暴流产老婆",
+        "onboard_time": 1700739572,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175858,
+        "num": 175858,
+        "word": "eStar 人被刀就会死",
+        "onboard_time": 1700733216,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172821,
+        "num": 172821,
+        "word": "马站起来有多高",
+        "onboard_time": 1700745403,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139039,
+        "num": 168927,
+        "word": "洗脸不应该做的四件事",
+        "onboard_time": 1700744384,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 89359,
+        "num": 166176,
+        "word": "大熊猫小奇迹学吃窝窝头",
+        "onboard_time": 1700731894,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79505,
+        "num": 165517,
+        "word": "2小时回家路走了70多年",
+        "onboard_time": 1700733033,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
