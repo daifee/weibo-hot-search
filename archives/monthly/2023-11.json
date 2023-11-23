@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700723781874,
+  "endTime": 1700724872643,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2771,6 +2771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1618221,
+      "num": 1618221,
+      "word": "封神 朝歌",
+      "onboard_time": 1700718755,
+      "rank": 3,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 1616473,
       "num": 1616473,
       "word": "孟羽童一年半广告收入或达400万",
@@ -3475,6 +3483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1400409,
+      "num": 1400409,
+      "word": "脚踩葡萄干",
+      "onboard_time": 1700721451,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1400184,
       "num": 1400184,
       "word": "斗鱼证实CEO陈少杰失联",
@@ -3849,14 +3865,6 @@
       "onboard_time": 1698829234,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1322457,
-      "num": 1322457,
-      "word": "封神 朝歌",
-      "onboard_time": 1700718755,
-      "rank": 3,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 1321980,
@@ -5440,14 +5448,6 @@
       "word": "网友称应聘蜜雪冰城被嫌26岁太大",
       "onboard_time": 1699777709,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1040754,
-      "num": 1040754,
-      "word": "脚踩葡萄干",
-      "onboard_time": 1700721451,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -7193,6 +7193,14 @@
       "onboard_time": 1700620472,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840359,
+      "num": 840359,
+      "word": "爱奇艺尖叫之夜阵容",
+      "onboard_time": 1700722894,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 839720,
@@ -13203,6 +13211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 553143,
+      "num": 553143,
+      "word": "国家卫健委回应儿童医院人满为患",
+      "onboard_time": 1700720193,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553110,
       "num": 553110,
       "word": "早期的内娱遍地都是喜剧人",
@@ -15171,14 +15187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490444,
-      "num": 490444,
-      "word": "爱奇艺尖叫之夜阵容",
-      "onboard_time": 1700722894,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 490184,
       "num": 490184,
       "word": "LNG",
@@ -16987,6 +16995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444858,
+      "num": 444858,
+      "word": "辛芷蕾穿上了东北大花",
+      "onboard_time": 1700721573,
+      "rank": 16,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 444642,
       "num": 361848,
       "word": "妻子确诊早期肺癌后丈夫查出肺癌晚期",
@@ -18747,6 +18763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409015,
+      "num": 409015,
+      "word": "乳腺癌12种外观改变",
+      "onboard_time": 1700721753,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 408871,
       "num": 408871,
       "word": "合肥成为特大城市",
@@ -18961,6 +18985,14 @@
       "onboard_time": 1699252531,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 404512,
+      "num": 404512,
+      "word": "陈都灵提灯战神2.0",
+      "onboard_time": 1700722353,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 404357,
@@ -20203,14 +20235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383547,
-      "num": 383547,
-      "word": "乳腺癌12种外观改变",
-      "onboard_time": 1700721753,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 383393,
       "num": 281138,
       "word": "刘诗雯 姐换了鞋健步如飞",
@@ -20289,6 +20313,14 @@
       "onboard_time": 1699513891,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381776,
+      "num": 381776,
+      "word": "美团起诉四名摆拍网红损害骑手形象",
+      "onboard_time": 1700724391,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 381724,
@@ -23043,14 +23075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336924,
-      "num": 336924,
-      "word": "国家卫健委回应儿童医院人满为患",
-      "onboard_time": 1700720193,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336694,
       "num": 336694,
       "word": "王一博变装",
@@ -23619,6 +23643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328654,
+      "num": 301208,
+      "word": "肖战冷暖反差大片",
+      "onboard_time": 1700723433,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328604,
       "num": 1396676,
       "word": "她的十八岁和我一样安静和痛苦吗",
@@ -23705,14 +23737,6 @@
       "onboard_time": 1699181738,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 327210,
-      "num": 327210,
-      "word": "辛芷蕾穿上了东北大花",
-      "onboard_time": 1700721573,
-      "rank": 16,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 326996,
@@ -24528,14 +24552,6 @@
       "word": "职业替身影视化",
       "onboard_time": 1698897876,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 314820,
-      "num": 314820,
-      "word": "陈都灵提灯战神2.0",
-      "onboard_time": 1700722353,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -26313,6 +26329,14 @@
       "onboard_time": 1700391213,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 292670,
+      "num": 292670,
+      "word": "赵丽颖 中式清冷眼妆",
+      "onboard_time": 1700724334,
+      "rank": 22,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 292389,
@@ -40179,14 +40203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193871,
-      "num": 193871,
-      "word": "肖战冷暖反差大片",
-      "onboard_time": 1700723433,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193847,
       "num": 193847,
       "word": "网购快递速度比你抢红包还快",
@@ -41041,6 +41057,14 @@
       "onboard_time": 1699330776,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 190112,
+      "num": 190112,
+      "word": "下雪了回家了",
+      "onboard_time": 1700723852,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190110,
@@ -42267,6 +42291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185639,
+      "num": 185639,
+      "word": "张真源周末安排",
+      "onboard_time": 1700723793,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185579,
       "num": 195973,
       "word": "狗子走丢17天见到主人高兴打鸣",
@@ -42377,6 +42409,14 @@
       "onboard_time": 1700627619,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185062,
+      "num": 308729,
+      "word": "Reno11拍出朱一龙人生照片",
+      "onboard_time": 1700723554,
+      "rank": 33,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 185013,
@@ -45427,6 +45467,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 168972,
+      "num": 168972,
+      "word": "华为Mate60 Pro帮他挡下了子弹",
+      "onboard_time": 1700724512,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 168952,
       "num": 168952,
       "word": "张雅钦 好会视频营业",
@@ -47683,6 +47731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158073,
+      "num": 158073,
+      "word": "刘诗诗片场叫刘宇宁远舟哥哥",
+      "onboard_time": 1700724512,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158055,
       "num": 158055,
       "word": "巨人 艾伦三笠共用围巾",
@@ -48393,6 +48449,14 @@
       "onboard_time": 1700012854,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154312,
+      "num": 154312,
+      "word": "柚子申请加入炒饭界",
+      "onboard_time": 1700724034,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 154306,
@@ -50667,6 +50731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143365,
+      "num": 186549,
+      "word": "詹姆斯关键失误",
+      "onboard_time": 1700723674,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143360,
       "num": 143360,
       "word": "Scout对战Faker",
@@ -51001,6 +51073,14 @@
       "onboard_time": 1700206414,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141857,
+      "num": 141857,
+      "word": "杨紫泰国游玩plog",
+      "onboard_time": 1700724334,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 141846,
@@ -51624,6 +51704,14 @@
       "word": "西藏阿里官兵献血救藏族阿妈",
       "onboard_time": 1699093652,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138842,
+      "num": 138842,
+      "word": "亮亮丽君夫妇母亲发声",
+      "onboard_time": 1700723374,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -52467,14 +52555,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 134253,
-      "num": 134253,
-      "word": "Reno11拍出朱一龙人生照片",
-      "onboard_time": 1700723554,
-      "rank": 33,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 134233,
       "num": 134233,
       "word": "黄皮精致裸妆",
@@ -52905,6 +52985,14 @@
       "onboard_time": 1700285072,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132920,
+      "num": 132920,
+      "word": "胡先煦这日子你还过不过了",
+      "onboard_time": 1700724512,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 132912,
@@ -54193,6 +54281,14 @@
       "onboard_time": 1699268013,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 126667,
+      "num": 126667,
+      "word": "Reno11普及万元机人像",
+      "onboard_time": 1700723914,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 126592,
@@ -56203,14 +56299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115907,
-      "num": 115907,
-      "word": "詹姆斯关键失误",
-      "onboard_time": 1700723674,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115898,
       "num": 115898,
       "word": "万物在东北皆可冰糖",
@@ -56345,6 +56433,14 @@
       "onboard_time": 1699097499,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115401,
+      "num": 126660,
+      "word": "入伍30年一级军士长告别军营",
+      "onboard_time": 1700723433,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115365,
@@ -58004,7 +58100,7 @@
     },
     {
       "raw_hot": 102618,
-      "num": 1319179,
+      "num": 1401933,
       "word": "91岁志愿军老战士第10次迎战友回家",
       "onboard_time": 1700711735,
       "rank": 2,
@@ -59017,14 +59113,6 @@
       "onboard_time": 1698842616,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 92619,
-      "num": 96238,
-      "word": "亮亮丽君夫妇母亲发声",
-      "onboard_time": 1700723374,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92380,
