@@ -1,0 +1,410 @@
+{
+  "runTime": 1700710460431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1478096,
+        "num": 1478096,
+        "word": "主播涉赌上亿被斗鱼评为年度十佳",
+        "onboard_time": 1700705674,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1353518,
+        "num": 1353518,
+        "word": "坚持睡前涂唇膏很有用",
+        "onboard_time": 1700702016,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 22278,
+        "num": 1149506,
+        "word": "接英雄回家",
+        "onboard_time": 1700638898,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076369,
+        "num": 1076369,
+        "word": "刷牙之前不建议将牙刷蘸湿",
+        "onboard_time": 1700707231,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 822821,
+        "num": 822821,
+        "word": "朴敏英为演癌症患者减重到74斤",
+        "onboard_time": 1700710363,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564792,
+        "num": 681329,
+        "word": "湖南一村明确出嫁女不参与分配",
+        "onboard_time": 1700706754,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672616,
+        "num": 672616,
+        "word": "傅首尔的邻居到底说了什么",
+        "onboard_time": 1700707356,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665283,
+        "num": 665283,
+        "word": "何猷君奚梦瑶第一次见家长",
+        "onboard_time": 1700706211,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544884,
+        "num": 544884,
+        "word": "韩方中止朝韩军事协议部分条款效力",
+        "onboard_time": 1700707231,
+        "rank": 8,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 476470,
+        "num": 476470,
+        "word": "秦岚悬着的心终于吊死了",
+        "onboard_time": 1700707592,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807352,
+        "num": 460199,
+        "word": "陈冠希女儿好可爱",
+        "onboard_time": 1700708492,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349177,
+        "num": 349177,
+        "word": "女子拿鞭引导男子跪地爬行双双被拘",
+        "onboard_time": 1700700878,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340707,
+        "num": 340707,
+        "word": "成都611事故调查报告公布",
+        "onboard_time": 1700704831,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306156,
+        "num": 306156,
+        "word": "宋亚轩苗疆少年终于来了",
+        "onboard_time": 1700707957,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318083,
+        "num": 303684,
+        "word": "我真的是秦岚",
+        "onboard_time": 1700708253,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298661,
+        "num": 298661,
+        "word": "杨紫妆造",
+        "onboard_time": 1700705012,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 397863,
+        "num": 287217,
+        "word": "这个吻戏镜头是为了秀豪车吗",
+        "onboard_time": 1700699435,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252927,
+        "num": 252927,
+        "word": "王艺妍妤一种很新的断层第一",
+        "onboard_time": 1700708132,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251005,
+        "num": 251005,
+        "word": "专家解读考研人数下降",
+        "onboard_time": 1700707832,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243904,
+        "num": 243904,
+        "word": "高中生连吃4种感冒药住进EICU",
+        "onboard_time": 1700700878,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375653,
+        "num": 238841,
+        "word": "郭虎 别碰现偶",
+        "onboard_time": 1700695765,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354536,
+        "num": 237701,
+        "word": "古剑的风还是吹到了2023",
+        "onboard_time": 1700709215,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232092,
+        "num": 232092,
+        "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
+        "onboard_time": 1700707231,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212941,
+        "num": 212941,
+        "word": "明星化妆师 男友换头术",
+        "onboard_time": 1700706813,
+        "rank": 23,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 202429,
+        "num": 202429,
+        "word": "这种小说的受众到底是谁",
+        "onboard_time": 1700709032,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 201127,
+        "num": 201127,
+        "word": "日本列车长车厢厕所装监控偷拍1年",
+        "onboard_time": 1700709453,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198738,
+        "num": 198738,
+        "word": "迪丽热巴花少手办",
+        "onboard_time": 1700707711,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195588,
+        "num": 195588,
+        "word": "代号鸢",
+        "onboard_time": 1700708073,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195529,
+        "num": 195529,
+        "word": "张雪峰问20年后还有必要上大学吗",
+        "onboard_time": 1700709995,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194524,
+        "num": 194524,
+        "word": "VOGUE时尚之力开幕夜",
+        "onboard_time": 1700710173,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 184820,
+        "num": 184820,
+        "word": "波波维奇",
+        "onboard_time": 1700706994,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183712,
+        "num": 183712,
+        "word": "史上最牛的新娘入场式",
+        "onboard_time": 1700707832,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167387,
+        "num": 167387,
+        "word": "颜宁发文谈中科院院士增选结果",
+        "onboard_time": 1700708673,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157229,
+        "num": 157229,
+        "word": "花少团总行李超重118公斤",
+        "onboard_time": 1700697510,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155455,
+        "num": 155455,
+        "word": "中国礼兵手捧烈士棺椁登上运20专机",
+        "onboard_time": 1700705071,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152350,
+        "num": 152350,
+        "word": "以爱为营 婚礼",
+        "onboard_time": 1700661158,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147338,
+        "num": 147338,
+        "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
+        "onboard_time": 1700679854,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136151,
+        "num": 136151,
+        "word": "电影年会不能停定档",
+        "onboard_time": 1700708793,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135832,
+        "num": 135832,
+        "word": "感恩节",
+        "onboard_time": 1700694442,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135177,
+        "num": 135177,
+        "word": "狄仁杰皮肤",
+        "onboard_time": 1700700098,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133061,
+        "num": 133061,
+        "word": "小区捡破烂大妈月入过万",
+        "onboard_time": 1700702433,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122372,
+        "num": 133056,
+        "word": "四川两县回应禁止私熏腊肉原因",
+        "onboard_time": 1700701596,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122012,
+        "num": 133050,
+        "word": "拼多多 大模型",
+        "onboard_time": 1700708253,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117010,
+        "num": 133045,
+        "word": "新闻女王诗晴没什么可输的",
+        "onboard_time": 1700704052,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109379,
+        "num": 133038,
+        "word": "困在考研里的年轻人在逃避什么",
+        "onboard_time": 1700698535,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103099,
+        "num": 133033,
+        "word": "BABYMONSTER出道预告照",
+        "onboard_time": 1700704173,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 97620,
+        "num": 133033,
+        "word": "支原体感染",
+        "onboard_time": 1700699194,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92276,
+        "num": 133022,
+        "word": "李佳琦现身直播间辟谣双11后停播传闻",
+        "onboard_time": 1700677157,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 90756,
+        "num": 133018,
+        "word": "黄凯你的精彩人生才刚刚开始",
+        "onboard_time": 1700710236,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84038,
+        "num": 133014,
+        "word": "时代少年团又有新合照了",
+        "onboard_time": 1700700999,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同乌拉圭总统会谈#"
+    }
+  }
+}

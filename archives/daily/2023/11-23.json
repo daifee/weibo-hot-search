@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700709500947,
+  "endTime": 1700710460431,
   "band_list": [
     {
       "raw_hot": 2784374,
@@ -43,6 +43,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1478096,
+      "num": 1478096,
+      "word": "主播涉赌上亿被斗鱼评为年度十佳",
+      "onboard_time": 1700705674,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1370468,
       "num": 876349,
       "word": "郭虎 别碰现偶",
@@ -51,20 +59,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1242702,
-      "num": 1242702,
-      "word": "主播涉赌上亿被斗鱼评为年度十佳",
-      "onboard_time": 1700705674,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1117247,
       "num": 299632,
       "word": "男子出轨被发现后开车顶撞妻女",
       "onboard_time": 1700661097,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1076369,
+      "num": 1076369,
+      "word": "刷牙之前不建议将牙刷蘸湿",
+      "onboard_time": 1700707231,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1064663,
@@ -131,6 +139,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 822821,
+      "num": 822821,
+      "word": "朴敏英为演癌症患者减重到74斤",
+      "onboard_time": 1700710363,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 807352,
+      "num": 460199,
+      "word": "陈冠希女儿好可爱",
+      "onboard_time": 1700708492,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787160,
       "num": 787160,
       "word": "花少团总行李超重118公斤",
@@ -195,8 +219,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 623310,
-      "num": 623310,
+      "raw_hot": 672616,
+      "num": 672616,
       "word": "傅首尔的邻居到底说了什么",
       "onboard_time": 1700707356,
       "rank": 4,
@@ -217,6 +241,14 @@
       "onboard_time": 1700707231,
       "rank": 5,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 564792,
+      "num": 681329,
+      "word": "湖南一村明确出嫁女不参与分配",
+      "onboard_time": 1700706754,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563138,
@@ -251,14 +283,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 523039,
-      "num": 313527,
-      "word": "陈冠希女儿好可爱",
-      "onboard_time": 1700708492,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 484186,
       "num": 296720,
       "word": "金莎爸爸辣评女儿恋情",
@@ -289,14 +313,6 @@
       "onboard_time": 1700666496,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 443692,
-      "num": 443692,
-      "word": "刷牙之前不建议将牙刷蘸湿",
-      "onboard_time": 1700707231,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 431124,
@@ -347,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380271,
-      "num": 380271,
-      "word": "湖南一村明确出嫁女不参与分配",
-      "onboard_time": 1700706754,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366179,
       "num": 265444,
       "word": "小区捡破烂大妈月入过万",
@@ -371,8 +379,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 354536,
+      "num": 260389,
+      "word": "古剑的风还是吹到了2023",
+      "onboard_time": 1700709215,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 322098,
-      "num": 294925,
+      "num": 306156,
       "word": "宋亚轩苗疆少年终于来了",
       "onboard_time": 1700707957,
       "rank": 20,
@@ -385,6 +401,14 @@
       "onboard_time": 1700665779,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318083,
+      "num": 303684,
+      "word": "我真的是秦岚",
+      "onboard_time": 1700708253,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 299512,
@@ -443,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260389,
-      "num": 260389,
-      "word": "古剑的风还是吹到了2023",
-      "onboard_time": 1700709215,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 259693,
       "num": 259693,
       "word": "专家解读考研人数下降",
@@ -467,16 +483,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 254080,
-      "num": 254080,
-      "word": "我真的是秦岚",
-      "onboard_time": 1700708253,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 250653,
-      "num": 250653,
+      "raw_hot": 252927,
+      "num": 252927,
       "word": "王艺妍妤一种很新的断层第一",
       "onboard_time": 1700708132,
       "rank": 26,
@@ -529,6 +537,14 @@
       "onboard_time": 1700706994,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232092,
+      "num": 232092,
+      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
+      "onboard_time": 1700707231,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 227503,
@@ -627,6 +643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202429,
+      "num": 202429,
+      "word": "这种小说的受众到底是谁",
+      "onboard_time": 1700709032,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 201685,
       "num": 201685,
       "word": "BABYMONSTER出道预告照",
@@ -641,6 +665,14 @@
       "onboard_time": 1700699559,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 201127,
+      "num": 201127,
+      "word": "日本列车长车厢厕所装监控偷拍1年",
+      "onboard_time": 1700709453,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198545,
@@ -667,12 +699,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194353,
-      "num": 194353,
-      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
-      "onboard_time": 1700707231,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 195588,
+      "num": 195588,
+      "word": "代号鸢",
+      "onboard_time": 1700708073,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195529,
+      "num": 195529,
+      "word": "张雪峰问20年后还有必要上大学吗",
+      "onboard_time": 1700709995,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 194524,
+      "num": 194524,
+      "word": "VOGUE时尚之力开幕夜",
+      "onboard_time": 1700710173,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 192555,
@@ -755,14 +803,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 178246,
-      "num": 178246,
-      "word": "代号鸢",
-      "onboard_time": 1700708073,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177910,
       "num": 177910,
       "word": "养老院不能睡懒觉",
@@ -793,6 +833,14 @@
       "onboard_time": 1700698052,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 167387,
+      "num": 167387,
+      "word": "颜宁发文谈中科院院士增选结果",
+      "onboard_time": 1700708673,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166294,
@@ -841,14 +889,6 @@
       "onboard_time": 1700696308,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 155277,
-      "num": 155277,
-      "word": "颜宁发文谈中科院院士增选结果",
-      "onboard_time": 1700708673,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153066,
@@ -923,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132731,
-      "num": 132731,
-      "word": "这种小说的受众到底是谁",
-      "onboard_time": 1700709032,
-      "rank": 43,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 129612,
       "num": 126868,
       "word": "小学生不想写作业持刀威胁妈妈",
@@ -977,6 +1009,14 @@
       "onboard_time": 1700701960,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122012,
+      "num": 133050,
+      "word": "拼多多 大模型",
+      "onboard_time": 1700708253,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 120658,
@@ -1027,22 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101887,
-      "num": 124506,
-      "word": "日本列车长车厢厕所装监控偷拍1年",
-      "onboard_time": 1700709453,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99634,
-      "num": 124501,
-      "word": "拼多多 大模型",
-      "onboard_time": 1700708253,
-      "rank": 49,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 98981,
       "num": 98981,
       "word": "父亲回应颜宁当选中国科学院院士",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1700658035,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90756,
+      "num": 133018,
+      "word": "黄凯你的精彩人生才刚刚开始",
+      "onboard_time": 1700710236,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 88096,
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 31135,
-      "num": 1015004,
+      "num": 1149506,
       "word": "接英雄回家",
       "onboard_time": 1700638898,
       "rank": 2,

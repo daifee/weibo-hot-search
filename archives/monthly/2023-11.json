@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700709500947,
+  "endTime": 1700710460431,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3283,6 +3283,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1478096,
+      "num": 1478096,
+      "word": "主播涉赌上亿被斗鱼评为年度十佳",
+      "onboard_time": 1700705674,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1476315,
       "num": 1476315,
       "word": "王楚钦2比4林昀儒",
@@ -4217,14 +4225,6 @@
       "onboard_time": 1699612112,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1242702,
-      "num": 1242702,
-      "word": "主播涉赌上亿被斗鱼评为年度十佳",
-      "onboard_time": 1700705674,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1241127,
@@ -5185,6 +5185,14 @@
       "onboard_time": 1699399407,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1076369,
+      "num": 1076369,
+      "word": "刷牙之前不建议将牙刷蘸湿",
+      "onboard_time": 1700707231,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1074505,
@@ -7355,6 +7363,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 822821,
+      "num": 822821,
+      "word": "朴敏英为演癌症患者减重到74斤",
+      "onboard_time": 1700710363,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 822653,
       "num": 335292,
       "word": "五条悟可以复活了吗",
@@ -7721,6 +7737,14 @@
       "onboard_time": 1699263513,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 807352,
+      "num": 460199,
+      "word": "陈冠希女儿好可爱",
+      "onboard_time": 1700708492,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 806716,
@@ -10099,6 +10123,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 672616,
+      "num": 672616,
+      "word": "傅首尔的邻居到底说了什么",
+      "onboard_time": 1700707356,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672574,
       "num": 672574,
       "word": "宁安如梦歹毒运镜加一",
@@ -11105,14 +11137,6 @@
       "onboard_time": 1698846816,
       "rank": 9,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 623310,
-      "num": 623310,
-      "word": "傅首尔的邻居到底说了什么",
-      "onboard_time": 1700707356,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 623027,
@@ -12739,6 +12763,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 564792,
+      "num": 681329,
+      "word": "湖南一村明确出嫁女不参与分配",
+      "onboard_time": 1700706754,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564458,
       "num": 356110,
       "word": "易烊千玺到达慕尼黑",
@@ -13969,14 +14001,6 @@
       "onboard_time": 1699696949,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 523039,
-      "num": 313527,
-      "word": "陈冠希女儿好可爱",
-      "onboard_time": 1700708492,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 522758,
@@ -16913,14 +16937,6 @@
       "onboard_time": 1700559092,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 443692,
-      "num": 443692,
-      "word": "刷牙之前不建议将牙刷蘸湿",
-      "onboard_time": 1700707231,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 443546,
@@ -20211,14 +20227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 380271,
-      "num": 380271,
-      "word": "湖南一村明确出嫁女不参与分配",
-      "onboard_time": 1700706754,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379995,
       "num": 379995,
       "word": "刘亦菲张靓颖贴贴",
@@ -21777,6 +21785,14 @@
       "onboard_time": 1699018536,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 354536,
+      "num": 260389,
+      "word": "古剑的风还是吹到了2023",
+      "onboard_time": 1700709215,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 354377,
@@ -23772,7 +23788,7 @@
     },
     {
       "raw_hot": 322098,
-      "num": 294925,
+      "num": 306156,
       "word": "宋亚轩苗疆少年终于来了",
       "onboard_time": 1700707957,
       "rank": 20,
@@ -24041,6 +24057,14 @@
       "onboard_time": 1700406218,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318083,
+      "num": 303684,
+      "word": "我真的是秦岚",
+      "onboard_time": 1700708253,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 317986,
@@ -29059,14 +29083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260389,
-      "num": 260389,
-      "word": "古剑的风还是吹到了2023",
-      "onboard_time": 1700709215,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 260365,
       "num": 260365,
       "word": "檀健次周也vlog比预告甜",
@@ -29731,14 +29747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254080,
-      "num": 254080,
-      "word": "我真的是秦岚",
-      "onboard_time": 1700708253,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254038,
       "num": 1396460,
       "word": "李健演唱会",
@@ -29857,6 +29865,14 @@
       "onboard_time": 1700272048,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252927,
+      "num": 252927,
+      "word": "王艺妍妤一种很新的断层第一",
+      "onboard_time": 1700708132,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 252847,
@@ -30169,14 +30185,6 @@
       "onboard_time": 1699234712,
       "rank": 28,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 250653,
-      "num": 250653,
-      "word": "王艺妍妤一种很新的断层第一",
-      "onboard_time": 1700708132,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 250640,
@@ -32465,6 +32473,14 @@
       "onboard_time": 1699181078,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232092,
+      "num": 232092,
+      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
+      "onboard_time": 1700707231,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 232045,
@@ -37579,6 +37595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202429,
+      "num": 202429,
+      "word": "这种小说的受众到底是谁",
+      "onboard_time": 1700709032,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 202426,
       "num": 202426,
       "word": "石家庄下雪",
@@ -37921,6 +37945,14 @@
       "onboard_time": 1699937860,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201127,
+      "num": 201127,
+      "word": "日本列车长车厢厕所装监控偷拍1年",
+      "onboard_time": 1700709453,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201052,
@@ -39315,6 +39347,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195588,
+      "num": 195588,
+      "word": "代号鸢",
+      "onboard_time": 1700708073,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 195529,
+      "num": 195529,
+      "word": "张雪峰问20年后还有必要上大学吗",
+      "onboard_time": 1700709995,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 195493,
       "num": 195493,
       "word": "秦海璐清花少旅行库存",
@@ -39547,6 +39595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194524,
+      "num": 194524,
+      "word": "VOGUE时尚之力开幕夜",
+      "onboard_time": 1700710173,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 194489,
       "num": 216833,
       "word": "张杰cue魏大勋孟宴臣名场面",
@@ -39569,14 +39625,6 @@
       "onboard_time": 1699840891,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 194353,
-      "num": 194353,
-      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
-      "onboard_time": 1700707231,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 194338,
@@ -43171,14 +43219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178246,
-      "num": 178246,
-      "word": "代号鸢",
-      "onboard_time": 1700708073,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178242,
       "num": 178242,
       "word": "宋雨琦挂脖紧身裙",
@@ -45321,6 +45361,14 @@
       "onboard_time": 1699062990,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167387,
+      "num": 167387,
+      "word": "颜宁发文谈中科院院士增选结果",
+      "onboard_time": 1700708673,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167345,
@@ -47641,14 +47689,6 @@
       "onboard_time": 1700448093,
       "rank": 37,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 155277,
-      "num": 155277,
-      "word": "颜宁发文谈中科院院士增选结果",
-      "onboard_time": 1700708673,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155260,
@@ -52339,14 +52379,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 132731,
-      "num": 132731,
-      "word": "这种小说的受众到底是谁",
-      "onboard_time": 1700709032,
-      "rank": 43,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 132695,
       "num": 132695,
       "word": "你知道什么血型占比最少吗",
@@ -54497,6 +54529,14 @@
       "onboard_time": 1699939233,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122012,
+      "num": 133050,
+      "word": "拼多多 大模型",
+      "onboard_time": 1700708253,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 122005,
@@ -57395,14 +57435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101887,
-      "num": 124506,
-      "word": "日本列车长车厢厕所装监控偷拍1年",
-      "onboard_time": 1700709453,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101815,
       "num": 116436,
       "word": "朴志效好有生命力的美",
@@ -57689,14 +57721,6 @@
       "onboard_time": 1698764497,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99634,
-      "num": 124501,
-      "word": "拼多多 大模型",
-      "onboard_time": 1700708253,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 99614,
@@ -58473,6 +58497,14 @@
       "onboard_time": 1699092810,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90756,
+      "num": 133018,
+      "word": "黄凯你的精彩人生才刚刚开始",
+      "onboard_time": 1700710236,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 90294,
