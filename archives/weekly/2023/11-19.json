@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700707183790,
+  "endTime": 1700709500947,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -112,6 +112,14 @@
       "word": "以爱为营剧组 鬼怪过时了",
       "onboard_time": 1700699313,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2764074,
+      "num": 537907,
+      "word": "鬼怪",
+      "onboard_time": 1700705071,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -361,14 +369,6 @@
       "onboard_time": 1700562755,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2003291,
-      "num": 537907,
-      "word": "鬼怪",
-      "onboard_time": 1700705071,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 1969877,
@@ -825,6 +825,14 @@
       "onboard_time": 1700569475,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1242702,
+      "num": 1242702,
+      "word": "主播涉赌上亿被斗鱼评为年度十佳",
+      "onboard_time": 1700705674,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1234631,
@@ -1635,6 +1643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 716568,
+      "num": 716568,
+      "word": "何猷君奚梦瑶第一次见家长",
+      "onboard_time": 1700706211,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 716386,
       "num": 398443,
       "word": "体检查出这些毛病根本不用治",
@@ -1705,14 +1721,6 @@
       "onboard_time": 1700397334,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 698994,
-      "num": 417431,
-      "word": "主播涉赌上亿被斗鱼评为年度十佳",
-      "onboard_time": 1700705674,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 694173,
@@ -2027,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 623310,
+      "num": 623310,
+      "word": "傅首尔的邻居到底说了什么",
+      "onboard_time": 1700707356,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 623027,
       "num": 623027,
       "word": "迪丽热巴当导游",
@@ -2137,6 +2153,14 @@
       "onboard_time": 1700474073,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 597779,
+      "num": 597779,
+      "word": "韩方中止朝韩军事协议部分条款效力",
+      "onboard_time": 1700707231,
+      "rank": 5,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 596618,
@@ -2411,14 +2435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 553943,
-      "num": 403538,
-      "word": "何猷君奚梦瑶第一次见家长",
-      "onboard_time": 1700706211,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 551071,
       "num": 551071,
       "word": "孙兴慜跑向中国球迷看台庆祝",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1700622212,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 544648,
+      "num": 544648,
+      "word": "秦岚悬着的心终于吊死了",
+      "onboard_time": 1700707592,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 544557,
@@ -2609,6 +2633,14 @@
       "onboard_time": 1700461892,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 523039,
+      "num": 313527,
+      "word": "陈冠希女儿好可爱",
+      "onboard_time": 1700708492,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 519099,
@@ -3251,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 443692,
+      "num": 443692,
+      "word": "刷牙之前不建议将牙刷蘸湿",
+      "onboard_time": 1700707231,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 442900,
       "num": 442900,
       "word": "巴西vs阿根廷",
@@ -3776,6 +3816,14 @@
       "word": "女童被安排收拾全班餐具20天遭开除",
       "onboard_time": 1700642974,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380271,
+      "num": 380271,
+      "word": "湖南一村明确出嫁女不参与分配",
+      "onboard_time": 1700706754,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4531,6 +4579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322098,
+      "num": 294925,
+      "word": "宋亚轩苗疆少年终于来了",
+      "onboard_time": 1700707957,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321407,
       "num": 250881,
       "word": "王安宇胡先煦不当导游更疯了",
@@ -4892,7 +4948,7 @@
     },
     {
       "raw_hot": 299512,
-      "num": 168797,
+      "num": 273024,
       "word": "明星化妆师 男友换头术",
       "onboard_time": 1700706813,
       "rank": 30,
@@ -5595,6 +5651,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260389,
+      "num": 260389,
+      "word": "古剑的风还是吹到了2023",
+      "onboard_time": 1700709215,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 259693,
+      "num": 259693,
+      "word": "专家解读考研人数下降",
+      "onboard_time": 1700707832,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 259586,
       "num": 259586,
       "word": "闫妮新片 谁偷我的狗要谁狗命",
@@ -5699,6 +5771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 254080,
+      "num": 254080,
+      "word": "我真的是秦岚",
+      "onboard_time": 1700708253,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253909,
       "num": 253909,
       "word": "面部折叠度是什么",
@@ -5777,6 +5857,14 @@
       "onboard_time": 1700655095,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250653,
+      "num": 250653,
+      "word": "王艺妍妤一种很新的断层第一",
+      "onboard_time": 1700708132,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 250640,
@@ -6195,6 +6283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234510,
+      "num": 234510,
+      "word": "电影年会不能停定档",
+      "onboard_time": 1700708793,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234462,
       "num": 234462,
       "word": "秦海璐拍到了岩石里开出的花",
@@ -6233,6 +6329,14 @@
       "onboard_time": 1700397516,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232743,
+      "num": 232743,
+      "word": "波波维奇",
+      "onboard_time": 1700706994,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 232045,
@@ -6553,6 +6657,14 @@
       "onboard_time": 1700620712,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220315,
+      "num": 220315,
+      "word": "迪丽热巴花少手办",
+      "onboard_time": 1700707711,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 220130,
@@ -7171,6 +7283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205324,
+      "num": 205324,
+      "word": "原来照明商店讲的是生命",
+      "onboard_time": 1700708313,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205005,
       "num": 205005,
       "word": "AG对战DYG",
@@ -7531,6 +7651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198545,
+      "num": 198545,
+      "word": "史上最牛的新娘入场式",
+      "onboard_time": 1700707832,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198263,
       "num": 198263,
       "word": "新闻女王 职场味",
@@ -7697,6 +7825,14 @@
       "onboard_time": 1700393868,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194353,
+      "num": 194353,
+      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
+      "onboard_time": 1700707231,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 194265,
@@ -8483,6 +8619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 178246,
+      "num": 178246,
+      "word": "代号鸢",
+      "onboard_time": 1700708073,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178151,
       "num": 1705556,
       "word": "北斗系统今后全球民航通用",
@@ -8931,14 +9075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165477,
-      "num": 165477,
-      "word": "波波维奇",
-      "onboard_time": 1700706994,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165463,
       "num": 165463,
       "word": "原来胃还是情绪器官",
@@ -9315,6 +9451,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 155277,
+      "num": 155277,
+      "word": "颜宁发文谈中科院院士增选结果",
+      "onboard_time": 1700708673,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155260,
       "num": 155260,
       "word": "张译哭的跟17年前一样惨",
@@ -9633,14 +9777,6 @@
       "onboard_time": 1700467235,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145988,
-      "num": 145988,
-      "word": "湖南一村明确出嫁女不参与分配",
-      "onboard_time": 1700706754,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145855,
@@ -10281,6 +10417,14 @@
       "onboard_time": 1700554234,
       "rank": 43,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 132731,
+      "num": 132731,
+      "word": "这种小说的受众到底是谁",
+      "onboard_time": 1700709032,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 132676,
@@ -11187,6 +11331,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 101887,
+      "num": 124506,
+      "word": "日本列车长车厢厕所装监控偷拍1年",
+      "onboard_time": 1700709453,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101592,
       "num": 101592,
       "word": "吴奇隆戴老花镜",
@@ -11225,6 +11377,14 @@
       "onboard_time": 1700469275,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99634,
+      "num": 124501,
+      "word": "拼多多 大模型",
+      "onboard_time": 1700708253,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 99272,
