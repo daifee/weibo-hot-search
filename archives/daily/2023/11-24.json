@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700774107733,
+  "endTime": 1700775260761,
   "band_list": [
     {
       "raw_hot": 1959287,
@@ -513,6 +513,14 @@
       "onboard_time": 1700766254,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11645,
+      "num": 14366,
+      "word": "孕妇感染支原体会影响胎儿吗",
+      "onboard_time": 1700774953,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11022,
