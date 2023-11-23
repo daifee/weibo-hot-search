@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700713289187,
+  "endTime": 1700714142342,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -7748,7 +7748,7 @@
     },
     {
       "raw_hot": 807352,
-      "num": 460199,
+      "num": 483689,
       "word": "陈冠希女儿好可爱",
       "onboard_time": 1700708492,
       "rank": 15,
@@ -12763,6 +12763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566502,
+      "num": 566502,
+      "word": "志愿军",
+      "onboard_time": 1700712575,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566129,
       "num": 566129,
       "word": "湖人终于赢快船了",
@@ -14627,6 +14635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 503070,
+      "num": 503070,
+      "word": "小杨哥回应徒弟圣罗兰事件",
+      "onboard_time": 1700713541,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502919,
       "num": 388614,
       "word": "佘诗曼机场被叫女王大人",
@@ -15305,6 +15321,14 @@
       "onboard_time": 1699186661,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 484842,
+      "num": 484842,
+      "word": "体育 主科",
+      "onboard_time": 1700712034,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 484525,
@@ -20843,6 +20867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370829,
+      "num": 370829,
+      "word": "这种小说的受众到底是谁",
+      "onboard_time": 1700709032,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 370798,
       "num": 334371,
       "word": "网传扬州一女子捂死女儿后跳楼",
@@ -21812,7 +21844,7 @@
     },
     {
       "raw_hot": 354536,
-      "num": 260389,
+      "num": 264084,
       "word": "古剑的风还是吹到了2023",
       "onboard_time": 1700709215,
       "rank": 23,
@@ -22289,6 +22321,14 @@
       "onboard_time": 1699191936,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 347138,
+      "num": 347138,
+      "word": "Viva La Vida 人生万岁",
+      "onboard_time": 1700713299,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 347044,
@@ -23195,6 +23235,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 331385,
+      "num": 331385,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1700713238,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 331096,
       "num": 331096,
       "word": "米勒 全面碾压恭喜T1",
@@ -23233,14 +23281,6 @@
       "onboard_time": 1700308230,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330701,
-      "num": 330701,
-      "word": "这种小说的受众到底是谁",
-      "onboard_time": 1700709032,
-      "rank": 43,
-      "category": "读书作家"
     },
     {
       "raw_hot": 330570,
@@ -24529,14 +24569,6 @@
       "onboard_time": 1699608333,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 312372,
-      "num": 312372,
-      "word": "体育 主科",
-      "onboard_time": 1700712034,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 312363,
@@ -26499,14 +26531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287147,
-      "num": 287147,
-      "word": "志愿军",
-      "onboard_time": 1700712575,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 286976,
       "num": 286976,
       "word": "斗破苍穹首部电影定档",
@@ -26873,6 +26897,14 @@
       "onboard_time": 1699705420,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283161,
+      "num": 283161,
+      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
+      "onboard_time": 1700707231,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 283156,
@@ -27561,14 +27593,6 @@
       "onboard_time": 1700636555,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276223,
-      "num": 251417,
-      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
-      "onboard_time": 1700707231,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 276015,
@@ -30259,6 +30283,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 250641,
+      "num": 250641,
+      "word": "Blackpink 大英勋章",
+      "onboard_time": 1700713059,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250640,
       "num": 250640,
       "word": "孙兴慜祝贺T1夺冠",
@@ -31995,6 +32027,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 236662,
+      "num": 236662,
+      "word": "赵丽颖黑粉侵权未赔偿成老赖",
+      "onboard_time": 1700712279,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236643,
       "num": 344772,
       "word": "ELLE登封造极",
@@ -32883,6 +32923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230034,
+      "num": 230034,
+      "word": "网传异人之下2诸葛青换人",
+      "onboard_time": 1700712396,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230023,
       "num": 197600,
       "word": "立麦 插兜 花瓣雨",
@@ -33747,6 +33795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224495,
+      "num": 224495,
+      "word": "肺炎支原体感染期这么吃恢复快",
+      "onboard_time": 1700713659,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 224494,
       "num": 224494,
       "word": "韩警方暂无再传唤权志龙计划",
@@ -33881,14 +33937,6 @@
       "onboard_time": 1698925418,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223750,
-      "num": 223750,
-      "word": "赵丽颖黑粉侵权未赔偿成老赖",
-      "onboard_time": 1700712279,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 223723,
@@ -34793,6 +34841,22 @@
       "onboard_time": 1699009773,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 217200,
+      "num": 217200,
+      "word": "逆水寒疑似抄袭代号鸢头像",
+      "onboard_time": 1700713964,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 217198,
+      "num": 217198,
+      "word": "得了甲流的具体症状",
+      "onboard_time": 1700711675,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 217182,
@@ -36649,6 +36713,14 @@
       "onboard_time": 1700189674,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207137,
+      "num": 207137,
+      "word": "港剧 恋爱脑过敏",
+      "onboard_time": 1700713299,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 207096,
@@ -39075,14 +39147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197088,
-      "num": 197088,
-      "word": "得了甲流的具体症状",
-      "onboard_time": 1700711675,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 197065,
       "num": 197065,
       "word": "9岁男孩捡2岁女孩民警猛夸",
@@ -39963,6 +40027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193185,
+      "num": 193185,
+      "word": "华为平板业界首发北斗卫星通信",
+      "onboard_time": 1700712817,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 193052,
       "num": 193052,
       "word": "原来名字的由来也大有讲究",
@@ -40049,6 +40121,14 @@
       "onboard_time": 1699254153,
       "rank": 29,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 192835,
+      "num": 192835,
+      "word": "周深 一人分唱多角",
+      "onboard_time": 1700712939,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 192823,
@@ -40305,14 +40385,6 @@
       "onboard_time": 1698812614,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191648,
-      "num": 191648,
-      "word": "周深 一人分唱多角",
-      "onboard_time": 1700712939,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 191614,
@@ -41048,14 +41120,6 @@
       "word": "白鹿王鹤棣吻戏镜头",
       "onboard_time": 1698981693,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 188779,
-      "num": 188779,
-      "word": "网传异人之下2诸葛青换人",
-      "onboard_time": 1700712396,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -43259,6 +43323,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 178575,
+      "num": 178575,
+      "word": "seventeen有几个头上有调色盘啊",
+      "onboard_time": 1700713839,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178513,
       "num": 178513,
       "word": "XJAPAN贝斯手HEATH去世",
@@ -45291,6 +45363,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 167975,
+      "num": 167975,
+      "word": "美术生颜料 美式男高混血妆",
+      "onboard_time": 1700713778,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 167966,
       "num": 1611077,
       "word": "残疾大哥请吃面小伙悄悄把钱塞相框里",
@@ -45817,14 +45897,6 @@
       "onboard_time": 1699933953,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165320,
-      "num": 165320,
-      "word": "华为平板业界首发北斗卫星通信",
-      "onboard_time": 1700712817,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 165280,
@@ -47003,14 +47075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159136,
-      "num": 159136,
-      "word": "Blackpink 大英勋章",
-      "onboard_time": 1700713059,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159130,
       "num": 159130,
       "word": "专家解读肺炎支原体感染和流感区别",
@@ -47833,6 +47897,14 @@
       "onboard_time": 1699001497,
       "rank": 34,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 155048,
+      "num": 155048,
+      "word": "全明星",
+      "onboard_time": 1700713964,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 154974,
@@ -48897,6 +48969,14 @@
       "onboard_time": 1698853476,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149538,
+      "num": 149538,
+      "word": "霸王茶姬",
+      "onboard_time": 1700714019,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 149532,
@@ -53251,14 +53331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128865,
-      "num": 128865,
-      "word": "邓紫棋演唱会",
-      "onboard_time": 1700713238,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 128814,
       "num": 128814,
       "word": "钟楚曦披肩长发",
@@ -53713,6 +53785,14 @@
       "onboard_time": 1699681410,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126744,
+      "num": 133543,
+      "word": "械字号面膜除消毒修复无其他功效",
+      "onboard_time": 1700713659,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 126668,
@@ -57483,6 +57563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102618,
+      "num": 1319179,
+      "word": "91岁志愿军老战士第10次迎战友回家",
+      "onboard_time": 1700711735,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102563,
       "num": 102563,
       "word": "不同年龄段离职原因",
@@ -58473,14 +58561,6 @@
       "onboard_time": 1699527633,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 92778,
-      "num": 1319179,
-      "word": "91岁志愿军老战士第10次迎战友回家",
-      "onboard_time": 1700711735,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92734,
