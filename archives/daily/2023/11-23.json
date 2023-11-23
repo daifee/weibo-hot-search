@@ -1,7 +1,39 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700696063858,
+  "endTime": 1700702151331,
   "band_list": [
+    {
+      "raw_hot": 2585924,
+      "num": 527584,
+      "word": "李思思从央视离职后40天主持3场商演",
+      "onboard_time": 1700698654,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2174997,
+      "num": 289506,
+      "word": "我老婆倒在暴雪中谁给盖的大衣",
+      "onboard_time": 1700698592,
+      "rank": 20,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 1897022,
+      "num": 1897022,
+      "word": "以爱为营剧组 鬼怪过时了",
+      "onboard_time": 1700699313,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1370468,
+      "num": 842001,
+      "word": "郭虎 别碰现偶",
+      "onboard_time": 1700695765,
+      "rank": 28,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1117247,
       "num": 299632,
@@ -27,12 +59,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 881330,
+      "num": 881330,
+      "word": "奥特曼此前遭解雇或因AI威胁人类",
+      "onboard_time": 1700698712,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 863642,
       "num": 863642,
       "word": "退休教师在家辅导外孙女数学走红",
       "onboard_time": 1700667453,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 839694,
+      "num": 839694,
+      "word": "25名在韩志愿军烈士回家",
+      "onboard_time": 1700700578,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 825192,
@@ -43,8 +91,24 @@
       "category": "网红"
     },
     {
+      "raw_hot": 787160,
+      "num": 787160,
+      "word": "花少团总行李超重118公斤",
+      "onboard_time": 1700697510,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 755805,
+      "num": 755805,
+      "word": "旭旭宝宝",
+      "onboard_time": 1700697753,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 707125,
-      "num": 297215,
+      "num": 367178,
       "word": "兔子曾被当做过验孕棒",
       "onboard_time": 1700661037,
       "rank": 11,
@@ -75,6 +139,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 583507,
+      "num": 583507,
+      "word": "这个吻戏镜头是为了秀豪车吗",
+      "onboard_time": 1700699435,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 563138,
+      "num": 563138,
+      "word": "疾控专家提醒大家戴口罩",
+      "onboard_time": 1700696308,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 514529,
+      "num": 514529,
+      "word": "支原体感染",
+      "onboard_time": 1700699194,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 484186,
       "num": 296720,
       "word": "金莎爸爸辣评女儿恋情",
@@ -99,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423843,
+      "num": 531139,
+      "word": "女子拿鞭引导男子跪地爬行双双被拘",
+      "onboard_time": 1700700878,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405927,
       "num": 292889,
       "word": "发烧",
@@ -113,6 +209,30 @@
       "onboard_time": 1700666673,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390740,
+      "num": 359873,
+      "word": "四川两县禁止私熏腊肉",
+      "onboard_time": 1700700762,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361229,
+      "num": 361229,
+      "word": "狄仁杰皮肤",
+      "onboard_time": 1700700098,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 354456,
+      "num": 230719,
+      "word": "坚持睡前涂唇膏很有用",
+      "onboard_time": 1700702016,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 322008,
@@ -131,11 +251,43 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291144,
+      "num": 291144,
+      "word": "四川两县回应禁止私熏腊肉原因",
+      "onboard_time": 1700701596,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289027,
       "num": 289027,
       "word": "董岩磊 230斤",
       "onboard_time": 1700649932,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284291,
+      "num": 284291,
+      "word": "困在考研里的年轻人在逃避什么",
+      "onboard_time": 1700698535,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 275881,
+      "num": 275881,
+      "word": "高中生连吃4种感冒药住进EICU",
+      "onboard_time": 1700700878,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270821,
+      "num": 270821,
+      "word": "时代少年团又有新合照了",
+      "onboard_time": 1700700999,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -145,6 +297,14 @@
       "onboard_time": 1700643217,
       "rank": 16,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 249160,
+      "num": 249160,
+      "word": "杨幂说一直想尝试不完美性格角色",
+      "onboard_time": 1700697210,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 245513,
@@ -163,6 +323,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240875,
+      "num": 240875,
+      "word": "邓家佳 带你走过松子跌宕起伏的一生",
+      "onboard_time": 1700700214,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 233357,
+      "num": 233357,
+      "word": "他罚她她奖励他",
+      "onboard_time": 1700701656,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 227503,
+      "num": 227503,
+      "word": "原相机居然这么吃妆",
+      "onboard_time": 1700697089,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 223643,
       "num": 200322,
       "word": "HYBE不给hanni上韩语课",
@@ -179,12 +363,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216900,
+      "num": 216900,
+      "word": "感恩节",
+      "onboard_time": 1700694442,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214713,
       "num": 214713,
       "word": "孩子看一次可以管一个月",
       "onboard_time": 1700666496,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 213267,
+      "num": 213267,
+      "word": "黄晓明说张纯烨是个诗人",
+      "onboard_time": 1700701236,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208069,
+      "num": 208069,
+      "word": "95后小伙辞职回家被爷爷奶奶的爱治愈",
+      "onboard_time": 1700694140,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202517,
@@ -195,12 +403,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 201971,
-      "num": 201971,
-      "word": "95后小伙辞职回家被爷爷奶奶的爱治愈",
-      "onboard_time": 1700694140,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 201591,
+      "num": 201591,
+      "word": "ChatGPT或使数百万人实现四天工作制",
+      "onboard_time": 1700699559,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 197295,
@@ -211,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190043,
-      "num": 190043,
-      "word": "感恩节",
-      "onboard_time": 1700694442,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 192555,
+      "num": 192555,
+      "word": "T1 最好的选手所在的地方就是T1",
+      "onboard_time": 1700696125,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 189082,
@@ -228,7 +436,7 @@
     },
     {
       "raw_hot": 187722,
-      "num": 141160,
+      "num": 184577,
       "word": "爷爷接错孙女到家10多分钟未发现",
       "onboard_time": 1700661097,
       "rank": 28,
@@ -241,6 +449,38 @@
       "onboard_time": 1700674040,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187328,
+      "num": 187328,
+      "word": "宁安如梦薛姝断尾求生一夜封妃",
+      "onboard_time": 1700697753,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186481,
+      "num": 186481,
+      "word": "这个身高配不上这张脸",
+      "onboard_time": 1700697569,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186050,
+      "num": 186050,
+      "word": "考研倒计时30天",
+      "onboard_time": 1700701416,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 186021,
+      "num": 186021,
+      "word": "有些蔬菜嘌呤比肉还高",
+      "onboard_time": 1700684893,
+      "rank": 47,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 180531,
@@ -275,6 +515,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169003,
+      "num": 169003,
+      "word": "过期口红 红色武器",
+      "onboard_time": 1700698052,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 166191,
+      "num": 166191,
+      "word": "起底成都陪酒坠楼女孩所在KTV",
+      "onboard_time": 1700697692,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164089,
       "num": 164089,
       "word": "王睡睡终于攒够了失望",
@@ -299,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154673,
-      "num": 133017,
-      "word": "有些蔬菜嘌呤比肉还高",
-      "onboard_time": 1700684893,
-      "rank": 47,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 156427,
+      "num": 156427,
+      "word": "医生称部分肺结节或自动消失",
+      "onboard_time": 1700696308,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153066,
@@ -355,6 +611,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 126365,
+      "num": 126365,
+      "word": "狗子半年内的变化",
+      "onboard_time": 1700700458,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126012,
       "num": 126012,
       "word": "i人错过",
@@ -369,6 +633,14 @@
       "onboard_time": 1700661579,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123451,
+      "num": 123451,
+      "word": "爸爸带娃打点滴的松弛感真强",
+      "onboard_time": 1700701960,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 120658,
@@ -393,14 +665,6 @@
       "onboard_time": 1700660738,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108694,
-      "num": 108694,
-      "word": "郭虎 别碰现偶",
-      "onboard_time": 1700695765,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 103925,
@@ -603,19 +867,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26840,
+      "num": 842363,
+      "word": "接英雄回家",
+      "onboard_time": 1700638898,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23508,
       "num": 23508,
       "word": "丽君终于又有笑容了",
       "onboard_time": 1700682194,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21428,
-      "num": 825256,
-      "word": "接英雄回家",
-      "onboard_time": 1700638898,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -639,6 +903,9 @@
     },
     {
       "word": "#全面深化改革和扩大开放#"
+    },
+    {
+      "word": "#山川同念英雄回家#"
     }
   ]
 }
