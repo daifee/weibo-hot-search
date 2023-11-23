@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700710460431,
+  "endTime": 1700713289187,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1713,6 +1713,14 @@
       "onboard_time": 1699018117,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1986880,
+      "num": 1986880,
+      "word": "刷牙之前不建议将牙刷蘸湿",
+      "onboard_time": 1700707231,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1986803,
@@ -3779,6 +3787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1343913,
+      "num": 1343913,
+      "word": "Angelababy旗下基金注销",
+      "onboard_time": 1700712335,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1340266,
       "num": 1340266,
       "word": "节奏大师回归",
@@ -3897,6 +3913,14 @@
       "onboard_time": 1699767151,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1306354,
+      "num": 1306354,
+      "word": "朴敏英为演癌症患者减重到74斤",
+      "onboard_time": 1700710363,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1306070,
@@ -5185,14 +5209,6 @@
       "onboard_time": 1699399407,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1076369,
-      "num": 1076369,
-      "word": "刷牙之前不建议将牙刷蘸湿",
-      "onboard_time": 1700707231,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1074505,
@@ -7363,14 +7379,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 822821,
-      "num": 822821,
-      "word": "朴敏英为演癌症患者减重到74斤",
-      "onboard_time": 1700710363,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 822653,
       "num": 335292,
       "word": "五条悟可以复活了吗",
@@ -7849,6 +7857,14 @@
       "onboard_time": 1700006854,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 799533,
+      "num": 799533,
+      "word": "张雪峰问20年后还有必要上大学吗",
+      "onboard_time": 1700709995,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 799100,
@@ -10163,6 +10179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 669646,
+      "num": 681329,
+      "word": "湖南一村明确出嫁女不参与分配",
+      "onboard_time": 1700706754,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 669600,
       "num": 751677,
       "word": "黑龙江一平房突发火灾7人遇难",
@@ -11273,6 +11297,14 @@
       "onboard_time": 1700056959,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 618134,
+      "num": 282822,
+      "word": "张雪峰说大学可能变成三年",
+      "onboard_time": 1700710596,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 617652,
@@ -12761,14 +12793,6 @@
       "onboard_time": 1698900938,
       "rank": 15,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 564792,
-      "num": 681329,
-      "word": "湖南一村明确出嫁女不参与分配",
-      "onboard_time": 1700706754,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564458,
@@ -23211,6 +23235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330701,
+      "num": 330701,
+      "word": "这种小说的受众到底是谁",
+      "onboard_time": 1700709032,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 330570,
       "num": 330570,
       "word": "樊胜美妈妈变本加厉",
@@ -23915,6 +23947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 319842,
+      "num": 319842,
+      "word": "两架歼20为运20护航画面",
+      "onboard_time": 1700711675,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319688,
       "num": 271841,
       "word": "男子上厕所时马桶突然着火",
@@ -24489,6 +24529,14 @@
       "onboard_time": 1699608333,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312372,
+      "num": 312372,
+      "word": "体育 主科",
+      "onboard_time": 1700712034,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 312363,
@@ -26451,6 +26499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287147,
+      "num": 287147,
+      "word": "志愿军",
+      "onboard_time": 1700712575,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286976,
       "num": 286976,
       "word": "斗破苍穹首部电影定档",
@@ -27507,6 +27563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276223,
+      "num": 251417,
+      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
+      "onboard_time": 1700707231,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 276015,
       "num": 211455,
       "word": "卢昱晓红衣女将军造型",
@@ -27609,6 +27673,14 @@
       "onboard_time": 1700197601,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 274937,
+      "num": 274937,
+      "word": "张元英Legend照",
+      "onboard_time": 1700710961,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 274823,
@@ -32291,6 +32363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233397,
+      "num": 233397,
+      "word": "日本列车长车厢厕所装监控偷拍1年",
+      "onboard_time": 1700709453,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233316,
       "num": 233316,
       "word": "魏大勋黄明昊宋亚轩贾玲你们听到了吗",
@@ -32473,14 +32553,6 @@
       "onboard_time": 1699181078,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232092,
-      "num": 232092,
-      "word": "为什么只有咸鸭蛋却没有咸鸡蛋",
-      "onboard_time": 1700707231,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 232045,
@@ -33809,6 +33881,14 @@
       "onboard_time": 1698925418,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223750,
+      "num": 223750,
+      "word": "赵丽颖黑粉侵权未赔偿成老赖",
+      "onboard_time": 1700712279,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 223723,
@@ -35361,6 +35441,14 @@
       "onboard_time": 1699860518,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213286,
+      "num": 213286,
+      "word": "史上最牛的新娘入场式",
+      "onboard_time": 1700707832,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 213285,
@@ -37595,14 +37683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202429,
-      "num": 202429,
-      "word": "这种小说的受众到底是谁",
-      "onboard_time": 1700709032,
-      "rank": 43,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 202426,
       "num": 202426,
       "word": "石家庄下雪",
@@ -37945,14 +38025,6 @@
       "onboard_time": 1699937860,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201127,
-      "num": 201127,
-      "word": "日本列车长车厢厕所装监控偷拍1年",
-      "onboard_time": 1700709453,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201052,
@@ -38563,14 +38635,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 198545,
-      "num": 198545,
-      "word": "史上最牛的新娘入场式",
-      "onboard_time": 1700707832,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198528,
       "num": 198528,
       "word": "我甚至愿意花五块买下它",
@@ -39011,6 +39075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197088,
+      "num": 197088,
+      "word": "得了甲流的具体症状",
+      "onboard_time": 1700711675,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197065,
       "num": 197065,
       "word": "9岁男孩捡2岁女孩民警猛夸",
@@ -39355,14 +39427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195529,
-      "num": 195529,
-      "word": "张雪峰问20年后还有必要上大学吗",
-      "onboard_time": 1700709995,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 195493,
       "num": 195493,
       "word": "秦海璐清花少旅行库存",
@@ -39409,6 +39473,14 @@
       "onboard_time": 1700455839,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195360,
+      "num": 195360,
+      "word": "微博优酷多品类预约开启",
+      "onboard_time": 1700712160,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 195343,
@@ -40235,6 +40307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191648,
+      "num": 191648,
+      "word": "周深 一人分唱多角",
+      "onboard_time": 1700712939,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191614,
       "num": 191614,
       "word": "小雪是冬季第2个节气",
@@ -40968,6 +41048,14 @@
       "word": "白鹿王鹤棣吻戏镜头",
       "onboard_time": 1698981693,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188779,
+      "num": 188779,
+      "word": "网传异人之下2诸葛青换人",
+      "onboard_time": 1700712396,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -45731,6 +45819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165320,
+      "num": 165320,
+      "word": "华为平板业界首发北斗卫星通信",
+      "onboard_time": 1700712817,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 165280,
       "num": 106595,
       "word": "工人日报评通缉电诈头目",
@@ -46905,6 +47001,14 @@
       "onboard_time": 1699778608,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159136,
+      "num": 159136,
+      "word": "Blackpink 大英勋章",
+      "onboard_time": 1700713059,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 159130,
@@ -49499,6 +49603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146441,
+      "num": 146441,
+      "word": "低饱和燕麦奶茶色口红",
+      "onboard_time": 1700712517,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 146427,
       "num": 146427,
       "word": "有没有人能来管管龚俊",
@@ -50769,6 +50881,14 @@
       "onboard_time": 1699423232,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140206,
+      "num": 140206,
+      "word": "拼多多 大模型",
+      "onboard_time": 1700708253,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 140195,
@@ -53131,6 +53251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128865,
+      "num": 128865,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1700713238,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128814,
       "num": 128814,
       "word": "钟楚曦披肩长发",
@@ -54529,14 +54657,6 @@
       "onboard_time": 1699939233,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122012,
-      "num": 133050,
-      "word": "拼多多 大模型",
-      "onboard_time": 1700708253,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 122005,
@@ -58353,6 +58473,14 @@
       "onboard_time": 1699527633,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 92778,
+      "num": 1319179,
+      "word": "91岁志愿军老战士第10次迎战友回家",
+      "onboard_time": 1700711735,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92734,
