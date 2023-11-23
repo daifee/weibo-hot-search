@@ -1,0 +1,410 @@
+{
+  "runTime": 1700743808206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8082071,
+        "num": 8082071,
+        "word": "娜扎秒了",
+        "onboard_time": 1700739812,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 510867,
+        "num": 510867,
+        "word": "考研时爱上了给人起外号",
+        "onboard_time": 1700740595,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54052,
+        "num": 466028,
+        "word": "山川同念英雄回家",
+        "onboard_time": 1700725712,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 573521,
+        "num": 465276,
+        "word": "D社曝警方传讯李善均和权志龙的原因",
+        "onboard_time": 1700739630,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463206,
+        "num": 463206,
+        "word": "刘诗诗 红衣面纱舞",
+        "onboard_time": 1700736871,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1315089,
+        "num": 458399,
+        "word": "迪丽热巴 郭培高定",
+        "onboard_time": 1700733096,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 390149,
+        "num": 390149,
+        "word": "朱珠牛仔风",
+        "onboard_time": 1700742100,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345804,
+        "num": 345804,
+        "word": "明星收3.3万元坑位费只卖出一包木耳",
+        "onboard_time": 1700727452,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301131,
+        "num": 301131,
+        "word": "殷郊 天命玄鸟铩羽而归",
+        "onboard_time": 1700741257,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 183902,
+        "num": 289968,
+        "word": "龚翔宇追星宁艺卓",
+        "onboard_time": 1700739393,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 3434505,
+        "num": 288067,
+        "word": "迪丽热巴腰臀比 震撼",
+        "onboard_time": 1700739630,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1686264,
+        "num": 287284,
+        "word": "台湾",
+        "onboard_time": 1700741615,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285826,
+        "num": 285826,
+        "word": "荣耀100",
+        "onboard_time": 1700743361,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1342151,
+        "num": 281353,
+        "word": "倪妮 花神降临",
+        "onboard_time": 1700736274,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 384149,
+        "num": 272769,
+        "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
+        "onboard_time": 1700734653,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381514,
+        "num": 259138,
+        "word": "马云成立马家厨房公司",
+        "onboard_time": 1700740653,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 879533,
+        "num": 251273,
+        "word": "童瑶 马面裙",
+        "onboard_time": 1700736573,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247107,
+        "num": 247107,
+        "word": "我们五个人再也不会输了",
+        "onboard_time": 1700740296,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222995,
+        "num": 222995,
+        "word": "eStar 人被刀就会死",
+        "onboard_time": 1700733216,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 726825,
+        "num": 217021,
+        "word": "张子枫 银灰小烟熏",
+        "onboard_time": 1700738314,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371939,
+        "num": 212039,
+        "word": "周冬雨安娜温图尔合影",
+        "onboard_time": 1700739271,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196413,
+        "num": 196413,
+        "word": "柯文哲",
+        "onboard_time": 1700741735,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 643016,
+        "num": 195971,
+        "word": "三毛 审美",
+        "onboard_time": 1700742100,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157037,
+        "num": 194733,
+        "word": "我国卫星互联网技术试验卫星发射成功",
+        "onboard_time": 1700743119,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143827,
+        "num": 193836,
+        "word": "女儿43年为妈妈私人定制150件衣服",
+        "onboard_time": 1700733033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584050,
+        "num": 192747,
+        "word": "李沁干枯玫瑰妆",
+        "onboard_time": 1700737354,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137386,
+        "num": 191834,
+        "word": "精神小妹减肥操",
+        "onboard_time": 1700739993,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 136152,
+        "num": 190390,
+        "word": "茶百道与霸王茶姬等合资成立新公司",
+        "onboard_time": 1700726192,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88342,
+        "num": 189429,
+        "word": "荣耀100写真相机",
+        "onboard_time": 1700743181,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 567203,
+        "num": 188789,
+        "word": "娜然 森林精灵",
+        "onboard_time": 1700734895,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 330683,
+        "num": 187845,
+        "word": "他那么小却那么懂事",
+        "onboard_time": 1700740534,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314185,
+        "num": 186908,
+        "word": "娜扎珍珠羽毛透视裙",
+        "onboard_time": 1700740534,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121985,
+        "num": 185402,
+        "word": "再也不用8名战士分1个苹果了",
+        "onboard_time": 1700737775,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 529311,
+        "num": 184662,
+        "word": "易烊千玺复古红皮衣",
+        "onboard_time": 1700736274,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119927,
+        "num": 183053,
+        "word": "机洗羽绒服一洗一个不吱声",
+        "onboard_time": 1700730155,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274636,
+        "num": 181882,
+        "word": "韩金金家暴流产老婆",
+        "onboard_time": 1700739572,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 502652,
+        "num": 180922,
+        "word": "VOGUE时尚之力盛会",
+        "onboard_time": 1700730994,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 254589,
+        "num": 180188,
+        "word": "唐嫣 南京",
+        "onboard_time": 1700729556,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112052,
+        "num": 179527,
+        "word": "葬送的芙什么莲",
+        "onboard_time": 1700740715,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110153,
+        "num": 178280,
+        "word": "2小时回家路走了70多年",
+        "onboard_time": 1700733033,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 358152,
+        "num": 176447,
+        "word": "于适 机器人男友",
+        "onboard_time": 1700740774,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230549,
+        "num": 175703,
+        "word": "杨幂GQ年度人物预热",
+        "onboard_time": 1700739812,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175396,
+        "num": 175396,
+        "word": "谢危偷亲姜雪宁",
+        "onboard_time": 1700738732,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342770,
+        "num": 174788,
+        "word": "檀健次深V粉西装",
+        "onboard_time": 1700743002,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172086,
+        "num": 172086,
+        "word": "新闻女王",
+        "onboard_time": 1700739630,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156587,
+        "num": 156587,
+        "word": "赵丽颖 中式清冷眼妆",
+        "onboard_time": 1700724334,
+        "rank": 45,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 144073,
+        "num": 156559,
+        "word": "死亡打光下的贾静雯",
+        "onboard_time": 1700728055,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101110,
+        "num": 156542,
+        "word": "美容仪避雷",
+        "onboard_time": 1700743002,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 98543,
+        "num": 156502,
+        "word": "大熊猫小奇迹学吃窝窝头",
+        "onboard_time": 1700731894,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81841,
+        "num": 156468,
+        "word": "华为Mate60 Pro帮他挡下了子弹",
+        "onboard_time": 1700724512,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}

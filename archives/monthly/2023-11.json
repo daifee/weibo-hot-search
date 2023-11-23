@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700742843365,
+  "endTime": 1700743808206,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -435,6 +435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 3434505,
+      "num": 288067,
+      "word": "迪丽热巴腰臀比 震撼",
+      "onboard_time": 1700739630,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 3407261,
       "num": 3407261,
       "word": "王曼昱 医疗暂停",
@@ -457,14 +465,6 @@
       "onboard_time": 1699238251,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3283613,
-      "num": 239634,
-      "word": "迪丽热巴腰臀比 震撼",
-      "onboard_time": 1700739630,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 3282577,
@@ -2593,6 +2593,14 @@
       "onboard_time": 1700551356,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1686264,
+      "num": 287284,
+      "word": "台湾",
+      "onboard_time": 1700741615,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1682885,
@@ -5033,14 +5041,6 @@
       "onboard_time": 1698910478,
       "rank": 16,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1125965,
-      "num": 238169,
-      "word": "台湾",
-      "onboard_time": 1700741615,
-      "rank": 11,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1125296,
@@ -9283,6 +9283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 726825,
+      "num": 425324,
+      "word": "张子枫 银灰小烟熏",
+      "onboard_time": 1700738314,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 726409,
       "num": 630840,
       "word": "刘亦菲配音迪士尼星愿",
@@ -9761,14 +9769,6 @@
       "onboard_time": 1699768471,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 703740,
-      "num": 425324,
-      "word": "张子枫 银灰小烟熏",
-      "onboard_time": 1700738314,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 703635,
@@ -10889,6 +10889,14 @@
       "onboard_time": 1699604913,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 643016,
+      "num": 231110,
+      "word": "三毛 审美",
+      "onboard_time": 1700742100,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 642400,
@@ -14731,6 +14739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 510867,
+      "num": 510867,
+      "word": "考研时爱上了给人起外号",
+      "onboard_time": 1700740595,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 510827,
       "num": 368782,
       "word": "西游记中的冒充领导类诈骗",
@@ -18004,7 +18020,7 @@
     },
     {
       "raw_hot": 427977,
-      "num": 232977,
+      "num": 259138,
       "word": "马云成立马家厨房公司",
       "onboard_time": 1700740653,
       "rank": 14,
@@ -19139,14 +19155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 407790,
-      "num": 407790,
-      "word": "考研时爱上了给人起外号",
-      "onboard_time": 1700740595,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 407550,
       "num": 1032788,
       "word": "小猫假装有主人老板假装有客人",
@@ -20113,6 +20121,14 @@
       "onboard_time": 1699940974,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390149,
+      "num": 390149,
+      "word": "朱珠牛仔风",
+      "onboard_time": 1700742100,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 390105,
@@ -21227,6 +21243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371939,
+      "num": 222211,
+      "word": "周冬雨安娜温图尔合影",
+      "onboard_time": 1700739271,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 371905,
       "num": 371905,
       "word": "一年级老师在班级群用拼音夸学生",
@@ -21417,14 +21441,6 @@
       "onboard_time": 1700295213,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 369274,
-      "num": 231110,
-      "word": "三毛 审美",
-      "onboard_time": 1700742100,
-      "rank": 15,
-      "category": "时尚"
     },
     {
       "raw_hot": 368811,
@@ -23091,6 +23107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342770,
+      "num": 174788,
+      "word": "檀健次深V粉西装",
+      "onboard_time": 1700743002,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 342417,
       "num": 342417,
       "word": "杨紫泰国游玩plog",
@@ -23483,14 +23507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 335677,
-      "num": 222211,
-      "word": "周冬雨安娜温图尔合影",
-      "onboard_time": 1700739271,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 335628,
       "num": 335628,
       "word": "8岁娃没上学睡树林里民警找了一上午",
@@ -23809,6 +23825,14 @@
       "onboard_time": 1700308230,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330683,
+      "num": 220318,
+      "word": "他那么小却那么懂事",
+      "onboard_time": 1700740534,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 330570,
@@ -25987,6 +26011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 301131,
+      "num": 301131,
+      "word": "殷郊 天命玄鸟铩羽而归",
+      "onboard_time": 1700741257,
+      "rank": 8,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 300735,
       "num": 268668,
       "word": "密子君 中韩泰融合烤肉自助",
@@ -26153,14 +26185,6 @@
       "onboard_time": 1700386418,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299109,
-      "num": 220318,
-      "word": "他那么小却那么懂事",
-      "onboard_time": 1700740534,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 299042,
@@ -27241,6 +27265,14 @@
       "onboard_time": 1699188456,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 285826,
+      "num": 285826,
+      "word": "荣耀100",
+      "onboard_time": 1700743361,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 285751,
@@ -28355,6 +28387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274636,
+      "num": 217142,
+      "word": "韩金金家暴流产老婆",
+      "onboard_time": 1700739572,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274475,
       "num": 179922,
       "word": "姜雪宁皇后造型",
@@ -28721,14 +28761,6 @@
       "onboard_time": 1698803852,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 271329,
-      "num": 217142,
-      "word": "韩金金家暴流产老婆",
-      "onboard_time": 1700739572,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 271322,
@@ -31403,6 +31435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247107,
+      "num": 247107,
+      "word": "我们五个人再也不会输了",
+      "onboard_time": 1700740296,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 247099,
       "num": 247099,
       "word": "故宫银杏壁纸",
@@ -32027,14 +32067,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 243077,
-      "num": 214965,
-      "word": "朱珠牛仔风",
-      "onboard_time": 1700742100,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 242970,
       "num": 242970,
       "word": "娜扎许魏洲新剧收视率",
@@ -32209,14 +32241,6 @@
       "onboard_time": 1699268254,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241571,
-      "num": 241571,
-      "word": "殷郊 天命玄鸟铩羽而归",
-      "onboard_time": 1700741257,
-      "rank": 8,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 241565,
@@ -33627,6 +33651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 230549,
+      "num": 206025,
+      "word": "杨幂GQ年度人物预热",
+      "onboard_time": 1700739812,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230533,
       "num": 230533,
       "word": "星辰大海无滤镜大合影",
@@ -33873,14 +33905,6 @@
       "onboard_time": 1700061397,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 228705,
-      "num": 228705,
-      "word": "我们五个人再也不会输了",
-      "onboard_time": 1700740296,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 228701,
@@ -35580,7 +35604,7 @@
     },
     {
       "raw_hot": 217460,
-      "num": 240387,
+      "num": 289968,
       "word": "龚翔宇追星宁艺卓",
       "onboard_time": 1700739393,
       "rank": 9,
@@ -37857,14 +37881,6 @@
       "onboard_time": 1699280021,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206025,
-      "num": 206025,
-      "word": "杨幂GQ年度人物预热",
-      "onboard_time": 1700739812,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205999,
@@ -40241,6 +40257,14 @@
       "onboard_time": 1699935874,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196413,
+      "num": 226494,
+      "word": "柯文哲",
+      "onboard_time": 1700741735,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 196358,
@@ -43089,14 +43113,6 @@
       "onboard_time": 1700732073,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184741,
-      "num": 226494,
-      "word": "柯文哲",
-      "onboard_time": 1700741735,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 184704,
@@ -48587,6 +48603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157037,
+      "num": 194733,
+      "word": "我国卫星互联网技术试验卫星发射成功",
+      "onboard_time": 1700743119,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 156999,
       "num": 156999,
       "word": "蜘蛛女首支预告",
@@ -54052,7 +54076,7 @@
     },
     {
       "raw_hot": 131718,
-      "num": 131718,
+      "num": 179527,
       "word": "葬送的芙什么莲",
       "onboard_time": 1700740715,
       "rank": 47,
@@ -59107,6 +59131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101110,
+      "num": 156542,
+      "word": "美容仪避雷",
+      "onboard_time": 1700743002,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 101042,
       "num": 120501,
       "word": "77岁奶奶独自地铁口卖蛋烘糕",
@@ -60249,6 +60281,14 @@
       "onboard_time": 1700499682,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 88342,
+      "num": 189429,
+      "word": "荣耀100写真相机",
+      "onboard_time": 1700743181,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 88221,
