@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/23 19:34:14
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/23 20:34:03
 </p>
 </blockquote>
 <p>
@@ -881,6 +881,12 @@ SpaceX星舰发射失败（热度：9840962）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B0%86%E4%BE%A6%E5%8A%9E%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%BA%8B%E4%BB%B6%23" target="weibo">
 警方将侦办炎亚纶事件（热度：9595653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%A7%92%E4%BA%86%23" target="weibo">
+娜扎秒了（热度：9563656）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ EDG官宣签约Uzi（热度：6842168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%88%90%E7%BB%A9%E8%A2%AB%E5%8F%96%E6%B6%88%23" target="weibo">
 吴艳妮成绩被取消（热度：6766838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E9%81%87%E9%9A%BE%E7%8E%B0%E5%9C%BA%E5%A6%BB%E5%AD%90%E5%8D%A1%E7%90%B3%E5%A8%9C%E6%8E%A9%E9%9D%A2%E8%80%8C%E6%B3%A3%23" target="weibo">
-仲尼遇难现场妻子卡琳娜掩面而泣（热度：6667104）
 </a>
 </li>
 

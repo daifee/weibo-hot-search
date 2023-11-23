@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700739254645,
+  "endTime": 1700742843365,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1687346135,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9563656,
+      "num": 9563656,
+      "word": "娜扎秒了",
+      "onboard_time": 1700739812,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 9556799,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1696168425,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6667104,
-      "num": 6667104,
-      "word": "仲尼遇难现场妻子卡琳娜掩面而泣",
-      "onboard_time": 1699486288,
-      "rank": 11,
-      "category": "社会新闻,网红"
     }
   ],
   "hotgov_list": [

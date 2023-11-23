@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700739254645,
+  "endTime": 1700742843365,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -81,6 +81,14 @@
       "onboard_time": 1700392563,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 9563656,
+      "num": 9563656,
+      "word": "娜扎秒了",
+      "onboard_time": 1700739812,
+      "rank": 0,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 9446326,
@@ -449,6 +457,14 @@
       "onboard_time": 1699238251,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3283613,
+      "num": 239634,
+      "word": "迪丽热巴腰臀比 震撼",
+      "onboard_time": 1700739630,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 3282577,
@@ -5019,6 +5035,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1125965,
+      "num": 238169,
+      "word": "台湾",
+      "onboard_time": 1700741615,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1125296,
       "num": 541477,
       "word": "迪丽热巴异瞳",
@@ -8779,6 +8803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 747616,
+      "num": 747616,
+      "word": "D社曝警方传讯李善均和权志龙的原因",
+      "onboard_time": 1700739630,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 747476,
       "num": 747476,
       "word": "官方再通报青岛啤酒三厂事件",
@@ -9729,6 +9761,14 @@
       "onboard_time": 1699768471,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703740,
+      "num": 425324,
+      "word": "张子枫 银灰小烟熏",
+      "onboard_time": 1700738314,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 703635,
@@ -15563,6 +15603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485973,
+      "num": 485973,
+      "word": "于适 机器人男友",
+      "onboard_time": 1700740774,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 485456,
       "num": 485456,
       "word": "大S说小S拿金钟最佳女主她就去死",
@@ -17955,6 +18003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 427977,
+      "num": 232977,
+      "word": "马云成立马家厨房公司",
+      "onboard_time": 1700740653,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 427191,
       "num": 499521,
       "word": "原来正骨盆更能瘦腿缩胯",
@@ -18057,14 +18113,6 @@
       "onboard_time": 1699930710,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 425324,
-      "num": 425324,
-      "word": "张子枫 银灰小烟熏",
-      "onboard_time": 1700738314,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 425192,
@@ -19089,6 +19137,14 @@
       "onboard_time": 1699851459,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 407790,
+      "num": 407790,
+      "word": "考研时爱上了给人起外号",
+      "onboard_time": 1700740595,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 407550,
@@ -21363,6 +21419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369274,
+      "num": 231110,
+      "word": "三毛 审美",
+      "onboard_time": 1700742100,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 368811,
       "num": 332628,
       "word": "没有任何不动产但有100双鞋",
@@ -23419,6 +23483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335677,
+      "num": 222211,
+      "word": "周冬雨安娜温图尔合影",
+      "onboard_time": 1700739271,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 335628,
       "num": 335628,
       "word": "8岁娃没上学睡树林里民警找了一上午",
@@ -24057,6 +24129,14 @@
       "onboard_time": 1700644718,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 326885,
+      "num": 221413,
+      "word": "娜扎珍珠羽毛透视裙",
+      "onboard_time": 1700740534,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 326850,
@@ -26073,6 +26153,14 @@
       "onboard_time": 1700386418,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299109,
+      "num": 220318,
+      "word": "他那么小却那么懂事",
+      "onboard_time": 1700740534,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 299042,
@@ -28499,6 +28587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272303,
+      "num": 216412,
+      "word": "安娜章凝 羊肉卷和素毛肚",
+      "onboard_time": 1700742278,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 272246,
       "num": 272246,
       "word": "梁靖崑1比3林钟勋",
@@ -28625,6 +28721,14 @@
       "onboard_time": 1698803852,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 271329,
+      "num": 217142,
+      "word": "韩金金家暴流产老婆",
+      "onboard_time": 1700739572,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 271322,
@@ -31923,6 +32027,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 243077,
+      "num": 214965,
+      "word": "朱珠牛仔风",
+      "onboard_time": 1700742100,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242970,
       "num": 242970,
       "word": "娜扎许魏洲新剧收视率",
@@ -32097,6 +32209,14 @@
       "onboard_time": 1699268254,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241571,
+      "num": 241571,
+      "word": "殷郊 天命玄鸟铩羽而归",
+      "onboard_time": 1700741257,
+      "rank": 8,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 241565,
@@ -33753,6 +33873,14 @@
       "onboard_time": 1700061397,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 228705,
+      "num": 228705,
+      "word": "我们五个人再也不会输了",
+      "onboard_time": 1700740296,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 228701,
@@ -35451,6 +35579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217460,
+      "num": 240387,
+      "word": "龚翔宇追星宁艺卓",
+      "onboard_time": 1700739393,
+      "rank": 9,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 217448,
       "num": 459669,
       "word": "用饿了么大券包买苹果15仅3千多",
@@ -35881,6 +36017,14 @@
       "onboard_time": 1700306792,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214606,
+      "num": 214606,
+      "word": "小满生活",
+      "onboard_time": 1700741802,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 214590,
@@ -37713,6 +37857,14 @@
       "onboard_time": 1699280021,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206025,
+      "num": 206025,
+      "word": "杨幂GQ年度人物预热",
+      "onboard_time": 1700739812,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205999,
@@ -40571,6 +40723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194070,
+      "num": 194070,
+      "word": "谢危偷亲姜雪宁",
+      "onboard_time": 1700738732,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194045,
       "num": 190750,
       "word": "十个勤天全员押韵鬼才",
@@ -42931,6 +43091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184741,
+      "num": 226494,
+      "word": "柯文哲",
+      "onboard_time": 1700741735,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 184704,
       "num": 158191,
       "word": "娜扎公主头纱造型",
@@ -43785,6 +43953,14 @@
       "onboard_time": 1699439433,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180174,
+      "num": 146606,
+      "word": "2万亿新宏图计划",
+      "onboard_time": 1700739393,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 180172,
@@ -48091,6 +48267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158628,
+      "num": 224450,
+      "word": "精神小妹减肥操",
+      "onboard_time": 1700739993,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 158613,
       "num": 197056,
       "word": "兰州拉面都得尊称一声前辈",
@@ -50939,6 +51123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144855,
+      "num": 144855,
+      "word": "华晨宇 广州抢票",
+      "onboard_time": 1700741016,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144760,
       "num": 144760,
       "word": "猫妈妈传授狩猎人类的技巧",
@@ -53011,14 +53203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134695,
-      "num": 123997,
-      "word": "谢危偷亲姜雪宁",
-      "onboard_time": 1700738732,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134625,
       "num": 134625,
       "word": "冬天打车 钻进司机被窝",
@@ -53865,6 +54049,14 @@
       "onboard_time": 1699750771,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 131718,
+      "num": 131718,
+      "word": "葬送的芙什么莲",
+      "onboard_time": 1700740715,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 131656,
@@ -58801,6 +58993,14 @@
       "onboard_time": 1700220811,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101739,
+      "num": 218836,
+      "word": "手机界有自己的显眼包",
+      "onboard_time": 1700740113,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 101724,

@@ -1,13 +1,29 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700739254645,
+  "endTime": 1700742843365,
   "band_list": [
+    {
+      "raw_hot": 9563656,
+      "num": 9563656,
+      "word": "娜扎秒了",
+      "onboard_time": 1700739812,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
     {
       "raw_hot": 3364374,
       "num": 3364374,
       "word": "迪丽热巴 郭培高定",
       "onboard_time": 1700733096,
       "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 3283613,
+      "num": 239634,
+      "word": "迪丽热巴腰臀比 震撼",
+      "onboard_time": 1700739630,
+      "rank": 10,
       "category": "作品衍生,时尚"
     },
     {
@@ -169,6 +185,14 @@
       "onboard_time": 1700710363,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1125965,
+      "num": 238169,
+      "word": "台湾",
+      "onboard_time": 1700741615,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1117247,
@@ -347,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 747616,
+      "num": 747616,
+      "word": "D社曝警方传讯李善均和权志龙的原因",
+      "onboard_time": 1700739630,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 716568,
       "num": 716568,
       "word": "何猷君奚梦瑶第一次见家长",
@@ -361,6 +393,14 @@
       "onboard_time": 1700661037,
       "rank": 11,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 703740,
+      "num": 425324,
+      "word": "张子枫 银灰小烟熏",
+      "onboard_time": 1700738314,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 698585,
@@ -587,6 +627,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 485973,
+      "num": 485973,
+      "word": "于适 机器人男友",
+      "onboard_time": 1700740774,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 484842,
       "num": 484842,
       "word": "体育 主科",
@@ -691,20 +739,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427977,
+      "num": 232977,
+      "word": "马云成立马家厨房公司",
+      "onboard_time": 1700740653,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 425944,
       "num": 425944,
       "word": "迪丽热巴 我舍不得让她干累的活",
       "onboard_time": 1700660255,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 425324,
-      "num": 425324,
-      "word": "张子枫 银灰小烟熏",
-      "onboard_time": 1700738314,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 420916,
@@ -737,6 +785,14 @@
       "onboard_time": 1700721753,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 407790,
+      "num": 407790,
+      "word": "考研时爱上了给人起外号",
+      "onboard_time": 1700740595,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 406424,
@@ -827,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369274,
+      "num": 231110,
+      "word": "三毛 审美",
+      "onboard_time": 1700742100,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 366179,
       "num": 265444,
       "word": "小区捡破烂大妈月入过万",
@@ -907,6 +971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 335677,
+      "num": 222211,
+      "word": "周冬雨安娜温图尔合影",
+      "onboard_time": 1700739271,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 331385,
       "num": 331385,
       "word": "邓紫棋演唱会",
@@ -945,6 +1017,14 @@
       "onboard_time": 1700723433,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326885,
+      "num": 221413,
+      "word": "娜扎珍珠羽毛透视裙",
+      "onboard_time": 1700740534,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 322098,
@@ -993,6 +1073,14 @@
       "onboard_time": 1700706813,
       "rank": 30,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 299109,
+      "num": 220318,
+      "word": "他那么小却那么懂事",
+      "onboard_time": 1700740534,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 295113,
@@ -1081,6 +1169,22 @@
       "onboard_time": 1700710961,
       "rank": 18,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 272303,
+      "num": 216412,
+      "word": "安娜章凝 羊肉卷和素毛肚",
+      "onboard_time": 1700742278,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 271329,
+      "num": 217142,
+      "word": "韩金金家暴流产老婆",
+      "onboard_time": 1700739572,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 270821,
@@ -1227,6 +1331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243077,
+      "num": 214965,
+      "word": "朱珠牛仔风",
+      "onboard_time": 1700742100,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241571,
+      "num": 241571,
+      "word": "殷郊 天命玄鸟铩羽而归",
+      "onboard_time": 1700741257,
+      "rank": 8,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 240875,
       "num": 240875,
       "word": "邓家佳 带你走过松子跌宕起伏的一生",
@@ -1299,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228705,
+      "num": 228705,
+      "word": "我们五个人再也不会输了",
+      "onboard_time": 1700740296,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227503,
       "num": 227503,
       "word": "原相机居然这么吃妆",
@@ -1363,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217460,
+      "num": 240387,
+      "word": "龚翔宇追星宁艺卓",
+      "onboard_time": 1700739393,
+      "rank": 9,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 217448,
       "num": 192754,
       "word": "李宇春拿抓头",
@@ -1417,6 +1553,14 @@
       "onboard_time": 1700666496,
       "rank": 30,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 214606,
+      "num": 214606,
+      "word": "小满生活",
+      "onboard_time": 1700741802,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 213804,
@@ -1497,6 +1641,14 @@
       "onboard_time": 1700715397,
       "rank": 30,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 206025,
+      "num": 206025,
+      "word": "杨幂GQ年度人物预热",
+      "onboard_time": 1700739812,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205324,
@@ -1609,6 +1761,14 @@
       "onboard_time": 1700710173,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 194070,
+      "num": 194070,
+      "word": "谢危偷亲姜雪宁",
+      "onboard_time": 1700738732,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 193185,
@@ -1755,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184741,
+      "num": 226494,
+      "word": "柯文哲",
+      "onboard_time": 1700741735,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 184658,
       "num": 184658,
       "word": "斗鱼",
@@ -1785,6 +1953,22 @@
       "onboard_time": 1700694925,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 180174,
+      "num": 146606,
+      "word": "2万亿新宏图计划",
+      "onboard_time": 1700739393,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 179383,
+      "num": 179383,
+      "word": "新闻女王",
+      "onboard_time": 1700739630,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 177910,
@@ -1939,6 +2123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158628,
+      "num": 224450,
+      "word": "精神小妹减肥操",
+      "onboard_time": 1700739993,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 158185,
       "num": 158185,
       "word": "欧文28分",
@@ -2083,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144855,
+      "num": 144855,
+      "word": "华晨宇 广州抢票",
+      "onboard_time": 1700741016,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144521,
       "num": 144521,
       "word": "任他痛任他难",
@@ -2211,14 +2411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134695,
-      "num": 123997,
-      "word": "谢危偷亲姜雪宁",
-      "onboard_time": 1700738732,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134430,
       "num": 134430,
       "word": "李莲花让成毅学会解压",
@@ -2241,6 +2433,14 @@
       "onboard_time": 1700724512,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131718,
+      "num": 131718,
+      "word": "葬送的芙什么莲",
+      "onboard_time": 1700740715,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 129612,
@@ -2441,6 +2641,14 @@
       "onboard_time": 1700711735,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101739,
+      "num": 218836,
+      "word": "手机界有自己的显眼包",
+      "onboard_time": 1700740113,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 98981,
