@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700735817251,
+  "endTime": 1700738123450,
   "band_list": [
     {
       "raw_hot": 3364374,
@@ -75,6 +75,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1759215,
+      "num": 1759215,
+      "word": "倪妮 花神降临",
+      "onboard_time": 1700736274,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1753951,
       "num": 1753951,
       "word": "小杨哥回应徒弟圣罗兰事件",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1313992,
+      "num": 1313992,
+      "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
+      "onboard_time": 1700734653,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1306354,
       "num": 1306354,
       "word": "朴敏英为演癌症患者减重到74斤",
@@ -169,6 +185,14 @@
       "onboard_time": 1700666496,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1008280,
+      "num": 461300,
+      "word": "童瑶 马面裙",
+      "onboard_time": 1700736573,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 995507,
@@ -267,12 +291,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 796258,
+      "num": 796258,
+      "word": "易烊千玺复古红皮衣",
+      "onboard_time": 1700736274,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 787160,
       "num": 787160,
       "word": "花少团总行李超重118公斤",
       "onboard_time": 1700697510,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 773511,
+      "num": 518932,
+      "word": "VOGUE时尚之力盛会",
+      "onboard_time": 1700730994,
+      "rank": 12,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 772235,
@@ -427,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 588033,
+      "num": 481594,
+      "word": "娜然 森林精灵",
+      "onboard_time": 1700734895,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 588005,
       "num": 393708,
       "word": "花海 世冠是我们的最后一场比赛了",
@@ -481,14 +529,6 @@
       "onboard_time": 1700699194,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 518932,
-      "num": 518932,
-      "word": "VOGUE时尚之力盛会",
-      "onboard_time": 1700730994,
-      "rank": 12,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 518579,
@@ -555,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 481594,
-      "num": 481594,
-      "word": "娜然 森林精灵",
-      "onboard_time": 1700734895,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 464414,
       "num": 388193,
       "word": "库迪咖啡进军奶茶",
@@ -577,6 +609,14 @@
       "onboard_time": 1700701596,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461927,
+      "num": 461927,
+      "word": "刘诗诗 红衣面纱舞",
+      "onboard_time": 1700736871,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 450472,
@@ -603,6 +643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 436074,
+      "num": 436074,
+      "word": "劳斯莱斯都给你拍涨价了",
+      "onboard_time": 1700735073,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 434082,
       "num": 434082,
       "word": "华为Mate60 Pro帮他挡下了子弹",
@@ -627,12 +675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428246,
+      "num": 428246,
+      "word": "王安宇不当导游回春了",
+      "onboard_time": 1700736216,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425944,
       "num": 425944,
       "word": "迪丽热巴 我舍不得让她干累的活",
       "onboard_time": 1700660255,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423569,
+      "num": 423569,
+      "word": "李沁干枯玫瑰妆",
+      "onboard_time": 1700737354,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 420916,
@@ -915,14 +979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 309047,
-      "num": 309047,
-      "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
-      "onboard_time": 1700734653,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299512,
       "num": 273024,
       "word": "明星化妆师 男友换头术",
@@ -1073,14 +1129,6 @@
       "onboard_time": 1700707832,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 259347,
-      "num": 259347,
-      "word": "劳斯莱斯都给你拍涨价了",
-      "onboard_time": 1700735073,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 258007,
@@ -1427,6 +1475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206537,
+      "num": 192754,
+      "word": "李宇春拿抓头",
+      "onboard_time": 1700736932,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 206319,
       "num": 206319,
       "word": "国家卫健委解答儿童呼吸道感染相关问题",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1700723253,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203260,
+      "num": 225630,
+      "word": "谁说标准版不配好外观",
+      "onboard_time": 1700735254,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 202517,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1700696125,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190440,
+      "num": 190440,
+      "word": "邢菲裸感千金妆",
+      "onboard_time": 1700737474,
+      "rank": 28,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 190112,
@@ -1923,14 +1995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150843,
-      "num": 225630,
-      "word": "谁说标准版不配好外观",
-      "onboard_time": 1700735254,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 150310,
       "num": 150310,
       "word": "张元英同款幼态修鼻法",
@@ -2147,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130324,
+      "num": 130324,
+      "word": "再也不用8名战士分1个苹果了",
+      "onboard_time": 1700737775,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129612,
       "num": 126868,
       "word": "小学生不想写作业持刀威胁妈妈",
@@ -2195,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126156,
+      "num": 126156,
+      "word": "黑白密码",
+      "onboard_time": 1700738074,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126012,
       "num": 126012,
       "word": "i人错过",
@@ -2217,6 +2297,14 @@
       "onboard_time": 1700701960,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122608,
+      "num": 122608,
+      "word": "U23亚洲杯中日韩同组",
+      "onboard_time": 1700736155,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122345,
