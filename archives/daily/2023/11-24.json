@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700781500845,
+  "endTime": 1700782472902,
   "band_list": [
     {
       "raw_hot": 1959287,
@@ -27,6 +27,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 897321,
+      "num": 897321,
+      "word": "秦岚 作为同胞应该让您多挣钱的",
+      "onboard_time": 1700751700,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 838707,
+      "num": 838707,
+      "word": "头发这样洗一周只用洗一次头",
+      "onboard_time": 1700749960,
+      "rank": 4,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 819407,
       "num": 819407,
       "word": "杨紫 华伦天奴",
@@ -35,28 +51,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 796195,
-      "num": 825152,
-      "word": "秦岚 作为同胞应该让您多挣钱的",
-      "onboard_time": 1700751700,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 744797,
-      "num": 744797,
-      "word": "头发这样洗一周只用洗一次头",
-      "onboard_time": 1700749960,
-      "rank": 4,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 538480,
       "num": 538480,
       "word": "刘德华父亲逝世",
       "onboard_time": 1700743902,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449106,
+      "num": 449106,
+      "word": "港剧从来都不会年龄焦虑",
+      "onboard_time": 1700759840,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 438572,
@@ -81,14 +89,6 @@
       "onboard_time": 1700746720,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 386536,
-      "num": 386536,
-      "word": "港剧从来都不会年龄焦虑",
-      "onboard_time": 1700759840,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 345733,
@@ -131,6 +131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 247903,
+      "num": 247903,
+      "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
+      "onboard_time": 1700734653,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223877,
       "num": 223877,
       "word": "DK新赛季阵容",
@@ -153,6 +161,14 @@
       "onboard_time": 1700753253,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206443,
+      "num": 440631,
+      "word": "七仔连睡觉jiojio都在打拍子",
+      "onboard_time": 1700757626,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206211,
@@ -180,19 +196,19 @@
     },
     {
       "raw_hot": 195750,
-      "num": 195750,
+      "num": 306589,
       "word": "孕妇感染支原体会影响胎儿吗",
       "onboard_time": 1700774953,
       "rank": 47,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 190225,
-      "num": 153267,
-      "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
-      "onboard_time": 1700734653,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 191439,
+      "num": 86010,
+      "word": "ShowMaker回应续约DK三年",
+      "onboard_time": 1700782224,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 188879,
@@ -208,6 +224,14 @@
       "word": "新闻女王的台词是谁在写啊",
       "onboard_time": 1700744562,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187072,
+      "num": 187072,
+      "word": "宁安如梦 公主和亲",
+      "onboard_time": 1700782045,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -227,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177994,
+      "num": 118089,
+      "word": "老师发朋友圈晒他当年的考研分数",
+      "onboard_time": 1700781443,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 175387,
       "num": 394152,
       "word": "今年呼吸道疾病传染性更强了吗",
@@ -243,28 +275,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 161705,
-      "num": 101808,
-      "word": "叶晞月替薛姝手写道歉信",
-      "onboard_time": 1700757804,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146918,
-      "num": 146918,
+      "raw_hot": 167163,
+      "num": 167163,
       "word": "明星收3.3万元坑位费只卖出一包木耳",
       "onboard_time": 1700727452,
       "rank": 44,
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 143193,
-      "num": 143193,
-      "word": "七仔连睡觉jiojio都在打拍子",
-      "onboard_time": 1700757626,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 161705,
+      "num": 116943,
+      "word": "叶晞月替薛姝手写道歉信",
+      "onboard_time": 1700757804,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156227,
+      "num": 179458,
+      "word": "妈妈退休后沉迷上了手工制陶",
+      "onboard_time": 1700747380,
+      "rank": 38,
+      "category": "休闲"
     },
     {
       "raw_hot": 140293,
@@ -283,14 +315,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 135357,
-      "num": 135357,
-      "word": "妈妈退休后沉迷上了手工制陶",
-      "onboard_time": 1700747380,
-      "rank": 38,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 134116,
       "num": 134116,
       "word": "考研时爱上了给人起外号",
@@ -305,6 +329,14 @@
       "onboard_time": 1700752714,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 131790,
+      "num": 131790,
+      "word": "近2万斤甲鱼散落高速过路司机伸援手",
+      "onboard_time": 1700767813,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119221,
@@ -395,28 +427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92182,
-      "num": 92182,
-      "word": "老师发朋友圈晒他当年的考研分数",
-      "onboard_time": 1700781443,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 91064,
-      "num": 91064,
-      "word": "近2万斤甲鱼散落高速过路司机伸援手",
-      "onboard_time": 1700767813,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72069,
       "num": 104132,
       "word": "殷郊 天命玄鸟铩羽而归",
       "onboard_time": 1700741257,
       "rank": 46,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 70887,
+      "num": 70887,
+      "word": "饮酒会加速人体衰老",
+      "onboard_time": 1700781625,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 69989,
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60255,
+      "num": 60255,
+      "word": "香港百岁老人看望弟弟离别依依不舍",
+      "onboard_time": 1700764935,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55402,
       "num": 133614,
       "word": "决战考研",
@@ -443,12 +475,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 51456,
-      "num": 51456,
-      "word": "香港百岁老人看望弟弟离别依依不舍",
-      "onboard_time": 1700764935,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 49728,
+      "num": 58705,
+      "word": "咒术回战 再见娜娜米",
+      "onboard_time": 1700781864,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 43735,
