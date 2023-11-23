@@ -1,6 +1,6 @@
 {
   "startTime": 1700670220223,
-  "endTime": 1700706543489,
+  "endTime": 1700707183790,
   "band_list": [
     {
       "raw_hot": 2784374,
@@ -27,20 +27,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 1677600,
-      "num": 1677600,
-      "word": "坚持睡前涂唇膏很有用",
-      "onboard_time": 1700702016,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 1395648,
-      "num": 446147,
+      "raw_hot": 2003291,
+      "num": 537907,
       "word": "鬼怪",
       "onboard_time": 1700705071,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1864875,
+      "num": 1864875,
+      "word": "坚持睡前涂唇膏很有用",
+      "onboard_time": 1700702016,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 1370468,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 772235,
+      "num": 445554,
+      "word": "他罚她她奖励他",
+      "onboard_time": 1700701656,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 760804,
       "num": 607008,
       "word": "这个吻戏镜头是为了秀豪车吗",
@@ -147,20 +155,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 729662,
-      "num": 445554,
-      "word": "他罚她她奖励他",
-      "onboard_time": 1700701656,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 707125,
       "num": 367178,
       "word": "兔子曾被当做过验孕棒",
       "onboard_time": 1700661037,
       "rank": 11,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 698994,
+      "num": 417431,
+      "word": "主播涉赌上亿被斗鱼评为年度十佳",
+      "onboard_time": 1700705674,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684298,
@@ -195,20 +203,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 553943,
+      "num": 403538,
+      "word": "何猷君奚梦瑶第一次见家长",
+      "onboard_time": 1700706211,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 546883,
+      "num": 546883,
+      "word": "中国礼兵手捧烈士棺椁登上运20专机",
+      "onboard_time": 1700705071,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534269,
       "num": 534269,
       "word": "支原体感染",
       "onboard_time": 1700699194,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 529859,
-      "num": 529859,
-      "word": "中国礼兵手捧烈士棺椁登上运20专机",
-      "onboard_time": 1700705071,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484186,
@@ -243,8 +259,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 427398,
-      "num": 427398,
+      "raw_hot": 431124,
+      "num": 431124,
       "word": "宠物犬被捕狗队抓走后送往市场宰杀",
       "onboard_time": 1700703215,
       "rank": 46,
@@ -257,6 +273,14 @@
       "onboard_time": 1700660255,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417448,
+      "num": 417448,
+      "word": "杨紫妆造",
+      "onboard_time": 1700705012,
+      "rank": 12,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 405927,
@@ -283,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382288,
-      "num": 382288,
-      "word": "杨紫妆造",
-      "onboard_time": 1700705012,
-      "rank": 12,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 366179,
       "num": 265444,
       "word": "小区捡破烂大妈月入过万",
@@ -307,14 +323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 358861,
-      "num": 358861,
-      "word": "主播涉赌上亿被斗鱼评为年度十佳",
-      "onboard_time": 1700705674,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322008,
       "num": 322008,
       "word": "0713 没听说",
@@ -323,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298426,
-      "num": 166237,
-      "word": "何猷君奚梦瑶第一次见家长",
-      "onboard_time": 1700706211,
+      "raw_hot": 299512,
+      "num": 168797,
+      "word": "明星化妆师 男友换头术",
+      "onboard_time": 1700706813,
       "rank": 30,
-      "category": "综艺"
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 295070,
@@ -481,6 +489,14 @@
       "onboard_time": 1700694140,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207046,
+      "num": 207046,
+      "word": "K70E",
+      "onboard_time": 1700706273,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 202517,
@@ -651,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165559,
-      "num": 165559,
-      "word": "K70E",
-      "onboard_time": 1700706273,
-      "rank": 31,
-      "category": "数码"
+      "raw_hot": 165477,
+      "num": 165477,
+      "word": "波波维奇",
+      "onboard_time": 1700706994,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 164089,
@@ -699,12 +715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149774,
+      "num": 149774,
+      "word": "美女戴发箍共性",
+      "onboard_time": 1700705555,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 147355,
       "num": 147355,
       "word": "闲鱼大量封号",
       "onboard_time": 1700650656,
       "rank": 27,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 145988,
+      "num": 145988,
+      "word": "湖南一村明确出嫁女不参与分配",
+      "onboard_time": 1700706754,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145052,
@@ -715,20 +747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144597,
-      "num": 144597,
-      "word": "美女戴发箍共性",
-      "onboard_time": 1700705555,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 144521,
       "num": 144521,
       "word": "任他痛任他难",
       "onboard_time": 1700705133,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142146,
+      "num": 142146,
+      "word": "易建联南美分联",
+      "onboard_time": 1700706691,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 137359,

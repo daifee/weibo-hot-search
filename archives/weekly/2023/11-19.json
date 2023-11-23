@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700706543489,
+  "endTime": 1700707183790,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -363,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2003291,
+      "num": 537907,
+      "word": "鬼怪",
+      "onboard_time": 1700705071,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1969877,
       "num": 1969877,
       "word": "红绿灯的黄",
@@ -393,6 +401,14 @@
       "onboard_time": 1700470415,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1864875,
+      "num": 1864875,
+      "word": "坚持睡前涂唇膏很有用",
+      "onboard_time": 1700702016,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 1863870,
@@ -513,14 +529,6 @@
       "onboard_time": 1700660255,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1677600,
-      "num": 1677600,
-      "word": "坚持睡前涂唇膏很有用",
-      "onboard_time": 1700702016,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 1675983,
@@ -649,14 +657,6 @@
       "onboard_time": 1700388573,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1395648,
-      "num": 446147,
-      "word": "鬼怪",
-      "onboard_time": 1700705071,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 1392131,
@@ -1491,6 +1491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 772235,
+      "num": 445554,
+      "word": "他罚她她奖励他",
+      "onboard_time": 1700701656,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 770830,
       "num": 770830,
       "word": "WBG 我们每个人都有不得不赢的理由",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1700491294,
       "rank": 3,
       "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 729662,
-      "num": 445554,
-      "word": "他罚她她奖励他",
-      "onboard_time": 1700701656,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 729621,
@@ -1705,6 +1705,14 @@
       "onboard_time": 1700397334,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 698994,
+      "num": 417431,
+      "word": "主播涉赌上亿被斗鱼评为年度十佳",
+      "onboard_time": 1700705674,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694173,
@@ -2403,6 +2411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 553943,
+      "num": 403538,
+      "word": "何猷君奚梦瑶第一次见家长",
+      "onboard_time": 1700706211,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551071,
       "num": 551071,
       "word": "孙兴慜跑向中国球迷看台庆祝",
@@ -2425,6 +2441,14 @@
       "onboard_time": 1700401660,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 546883,
+      "num": 546883,
+      "word": "中国礼兵手捧烈士棺椁登上运20专机",
+      "onboard_time": 1700705071,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546620,
@@ -2560,14 +2584,6 @@
       "word": "中国渔船在日本海域倾覆致5人失踪",
       "onboard_time": 1700367930,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529859,
-      "num": 529859,
-      "word": "中国礼兵手捧烈士棺椁登上运20专机",
-      "onboard_time": 1700705071,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3331,20 +3347,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 431124,
+      "num": 431124,
+      "word": "宠物犬被捕狗队抓走后送往市场宰杀",
+      "onboard_time": 1700703215,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430612,
       "num": 430612,
       "word": "张桂梅 精神内核",
       "onboard_time": 1700367990,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 427398,
-      "num": 427398,
-      "word": "宠物犬被捕狗队抓走后送往市场宰杀",
-      "onboard_time": 1700703215,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426716,
@@ -3425,6 +3441,14 @@
       "onboard_time": 1700553874,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417448,
+      "num": 417448,
+      "word": "杨紫妆造",
+      "onboard_time": 1700705012,
+      "rank": 12,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 416326,
@@ -3721,14 +3745,6 @@
       "onboard_time": 1700644059,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382288,
-      "num": 382288,
-      "word": "杨紫妆造",
-      "onboard_time": 1700705012,
-      "rank": 12,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 382287,
@@ -4049,14 +4065,6 @@
       "onboard_time": 1700383116,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 358861,
-      "num": 358861,
-      "word": "主播涉赌上亿被斗鱼评为年度十佳",
-      "onboard_time": 1700705674,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358072,
@@ -4883,6 +4891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299512,
+      "num": 168797,
+      "word": "明星化妆师 男友换头术",
+      "onboard_time": 1700706813,
+      "rank": 30,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 299460,
       "num": 1671655,
       "word": "00后送00后锦旗可以有多炸裂",
@@ -4897,14 +4913,6 @@
       "onboard_time": 1700524954,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298426,
-      "num": 166237,
-      "word": "何猷君奚梦瑶第一次见家长",
-      "onboard_time": 1700706211,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 297925,
@@ -7043,6 +7051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207046,
+      "num": 207046,
+      "word": "K70E",
+      "onboard_time": 1700706273,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 206981,
       "num": 270387,
       "word": "哥哥去世1年11岁妹妹也患同样病",
@@ -8915,12 +8931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165559,
-      "num": 165559,
-      "word": "K70E",
-      "onboard_time": 1700706273,
-      "rank": 31,
-      "category": "数码"
+      "raw_hot": 165477,
+      "num": 165477,
+      "word": "波波维奇",
+      "onboard_time": 1700706994,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 165463,
@@ -9475,6 +9491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149774,
+      "num": 149774,
+      "word": "美女戴发箍共性",
+      "onboard_time": 1700705555,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 149173,
       "num": 149173,
       "word": "谢危看到遮宁撑伞 无法原谅BGM",
@@ -9611,6 +9635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145988,
+      "num": 145988,
+      "word": "湖南一村明确出嫁女不参与分配",
+      "onboard_time": 1700706754,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145855,
       "num": 213152,
       "word": "身体弯曲180度20年折刀人被治愈",
@@ -9696,14 +9728,6 @@
       "word": "丸子头的四种扎法",
       "onboard_time": 1700655274,
       "rank": 41,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 144597,
-      "num": 144597,
-      "word": "美女戴发箍共性",
-      "onboard_time": 1700705555,
-      "rank": 35,
       "category": "美妆"
     },
     {
@@ -9793,6 +9817,14 @@
       "onboard_time": 1700548115,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142146,
+      "num": 142146,
+      "word": "易建联南美分联",
+      "onboard_time": 1700706691,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 142072,
