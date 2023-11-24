@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700829180797,
+  "endTime": 1700830124870,
   "band_list": [
     {
       "raw_hot": 9618160,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1335952,
+      "num": 1335952,
+      "word": "清华北大 鹅腿阿姨之争",
+      "onboard_time": 1700826215,
+      "rank": 1,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 1310371,
       "num": 1310371,
       "word": "吴莫愁退圈三年直言听歌想吐",
@@ -241,14 +249,6 @@
       "onboard_time": 1700788654,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 934116,
-      "num": 934116,
-      "word": "清华北大 鹅腿阿姨之争",
-      "onboard_time": 1700826215,
-      "rank": 1,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 921681,
@@ -435,12 +435,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 581174,
+      "num": 581174,
+      "word": "郑秀晶红裙红毯造型",
+      "onboard_time": 1700828553,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 575598,
       "num": 575598,
       "word": "小杨哥直播间被质疑虚假比价",
       "onboard_time": 1700800185,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 569505,
+      "num": 569505,
+      "word": "林俊杰演唱会嘉宾 李健",
+      "onboard_time": 1700828676,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 565767,
@@ -683,6 +699,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 399648,
+      "num": 399648,
+      "word": "他为什么依然单身开机",
+      "onboard_time": 1700826752,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395200,
       "num": 295126,
       "word": "在景德镇花15元买了一箱瓷碗",
@@ -723,20 +747,20 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 368649,
+      "num": 368649,
+      "word": "张遮 祝哥哥新婚快乐",
+      "onboard_time": 1700824056,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362050,
       "num": 362050,
       "word": "考研人数九年来首降",
       "onboard_time": 1700785772,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 362033,
-      "num": 362033,
-      "word": "张遮 祝哥哥新婚快乐",
-      "onboard_time": 1700824056,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 357797,
@@ -819,14 +843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 340130,
-      "num": 340130,
-      "word": "他为什么依然单身开机",
-      "onboard_time": 1700826752,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 338653,
       "num": 338653,
       "word": "新闻女王梁景仁婚内出轨",
@@ -881,14 +897,6 @@
       "onboard_time": 1700804499,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 313094,
-      "num": 313094,
-      "word": "郑秀晶红裙红毯造型",
-      "onboard_time": 1700828553,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 311044,
@@ -1001,14 +1009,6 @@
       "onboard_time": 1700793873,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290511,
-      "num": 256386,
-      "word": "林俊杰演唱会嘉宾 李健",
-      "onboard_time": 1700828676,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 286504,
@@ -1243,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239709,
+      "num": 196331,
+      "word": "沈芷衣被逼洞房",
+      "onboard_time": 1700829575,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239608,
       "num": 239608,
       "word": "国考最火的岗位在哪里",
@@ -1307,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224094,
+      "num": 224094,
+      "word": "4岁小男孩忍着眼泪说妈妈不陪我玩",
+      "onboard_time": 1700828193,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223978,
       "num": 223978,
       "word": "田嘉瑞 红不红都要保持初心",
@@ -1337,14 +1353,6 @@
       "onboard_time": 1700742100,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 220327,
-      "num": 215482,
-      "word": "4岁小男孩忍着眼泪说妈妈不陪我玩",
-      "onboard_time": 1700828193,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 217757,
@@ -1603,6 +1611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196330,
+      "num": 196330,
+      "word": "蔡依林新歌MV",
+      "onboard_time": 1700829031,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196248,
       "num": 196248,
       "word": "VOGUE后台视角",
@@ -1819,6 +1835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 184051,
+      "num": 184051,
+      "word": "花80元吃一碗米其林面值得吗",
+      "onboard_time": 1700829153,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181680,
       "num": 181680,
       "word": "崔琳生子",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1700781443,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175874,
+      "num": 124712,
+      "word": "甄嬛传 让人眼前一黑的剪辑",
+      "onboard_time": 1700829814,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 175387,
@@ -1913,6 +1945,14 @@
       "onboard_time": 1700813797,
       "rank": 47,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 170638,
+      "num": 124207,
+      "word": "谢危拒绝内耗",
+      "onboard_time": 1700829275,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 170223,
@@ -2027,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158692,
+      "num": 196332,
+      "word": "国考上岸有多难",
+      "onboard_time": 1700829153,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158662,
       "num": 158662,
       "word": "41岁孩子王和小区75个娃打成一片",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1700784571,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147555,
-      "num": 134126,
-      "word": "蔡依林新歌MV",
-      "onboard_time": 1700829031,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 144507,
@@ -2251,14 +2291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118006,
-      "num": 118006,
-      "word": "国考上岸有多难",
-      "onboard_time": 1700829153,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 117416,
       "num": 117416,
       "word": "好闻值得买的女士香水",
@@ -2371,14 +2403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110368,
-      "num": 110368,
-      "word": "花80元吃一碗米其林面值得吗",
-      "onboard_time": 1700829153,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 110241,
       "num": 110241,
       "word": "流水迢迢官宣杀青",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1700758522,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95134,
+      "num": 99804,
+      "word": "毛小星爱马仕翻包",
+      "onboard_time": 1700829933,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 93734,
