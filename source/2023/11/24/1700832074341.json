@@ -1,0 +1,410 @@
+{
+  "runTime": 1700832074341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563115,
+        "num": 1563115,
+        "word": "清华北大 鹅腿阿姨之争",
+        "onboard_time": 1700826215,
+        "rank": 0,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 803942,
+        "num": 803942,
+        "word": "淘宝取消双12",
+        "onboard_time": 1700810977,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 41540,
+        "num": 760620,
+        "word": "9招预防冬季呼吸道疾病",
+        "onboard_time": 1700814035,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978420,
+        "num": 758330,
+        "word": "谢危亲了一晚上嘴皮子都破了吧",
+        "onboard_time": 1700830955,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 749345,
+        "num": 749345,
+        "word": "吴莫愁退圈三年直言听歌想吐",
+        "onboard_time": 1700822254,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2076204,
+        "num": 724275,
+        "word": "吴亦凡要先在中国坐完牢再被驱逐出境",
+        "onboard_time": 1700822375,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 635898,
+        "num": 635898,
+        "word": "郑秀晶红裙红毯造型",
+        "onboard_time": 1700828553,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 590764,
+        "num": 590764,
+        "word": "林俊杰演唱会嘉宾 李健",
+        "onboard_time": 1700828676,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 420849,
+        "num": 420849,
+        "word": "他为什么依然单身开机",
+        "onboard_time": 1700826752,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418641,
+        "num": 418641,
+        "word": "不想读研想去景德镇捏泥巴",
+        "onboard_time": 1700831076,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 893445,
+        "num": 394619,
+        "word": "吴亦凡聚众淫乱系首要分子",
+        "onboard_time": 1700796640,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 355104,
+        "num": 355104,
+        "word": "何猷君 我最臭了",
+        "onboard_time": 1700817215,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347618,
+        "num": 347618,
+        "word": "车辆不能从烈士遗骸上方驶过",
+        "onboard_time": 1700813497,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 673812,
+        "num": 339096,
+        "word": "吴亦凡亲属旁听二审宣判",
+        "onboard_time": 1700798445,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 328289,
+        "num": 328289,
+        "word": "甄嬛传 让人眼前一黑的剪辑",
+        "onboard_time": 1700829814,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327309,
+        "num": 327309,
+        "word": "免签",
+        "onboard_time": 1700812478,
+        "rank": 15,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 293942,
+        "num": 293942,
+        "word": "老街中方人员尽快撤离",
+        "onboard_time": 1700830353,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288261,
+        "num": 288261,
+        "word": "范丞丞关晓彤去王安宇外婆家吃饭",
+        "onboard_time": 1700823994,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273969,
+        "num": 273969,
+        "word": "郎朗 孩子怎么跟钢琴吵起来了",
+        "onboard_time": 1700821295,
+        "rank": 18,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 272044,
+        "num": 272044,
+        "word": "马云入局预制菜",
+        "onboard_time": 1700822735,
+        "rank": 19,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 421756,
+        "num": 270995,
+        "word": "沈芷衣被逼洞房",
+        "onboard_time": 1700829575,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266232,
+        "num": 266232,
+        "word": "韩男子猥亵女儿10多年被妻子刺伤双眼",
+        "onboard_time": 1700819735,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264153,
+        "num": 264153,
+        "word": "张嘉佳 没有张靓颖照顾我早好了",
+        "onboard_time": 1700820814,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237311,
+        "num": 237311,
+        "word": "感觉周五晚上要比周末更快乐",
+        "onboard_time": 1700830594,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210844,
+        "num": 210844,
+        "word": "吃火锅晒照误露点餐码被人点43万菜",
+        "onboard_time": 1700814996,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203792,
+        "num": 203792,
+        "word": "新闻女王梁景仁婚内出轨",
+        "onboard_time": 1700823574,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201944,
+        "num": 201944,
+        "word": "张遮 祝哥哥新婚快乐",
+        "onboard_time": 1700824056,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199713,
+        "num": 199713,
+        "word": "花80元吃一碗米其林面值得吗",
+        "onboard_time": 1700829153,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192711,
+        "num": 192711,
+        "word": "时宴吃播",
+        "onboard_time": 1700828312,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190555,
+        "num": 190555,
+        "word": "王牌对王牌",
+        "onboard_time": 1700826877,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187264,
+        "num": 187264,
+        "word": "4岁小男孩忍着眼泪说妈妈不陪我玩",
+        "onboard_time": 1700828193,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182258,
+        "num": 182258,
+        "word": "乌尔善说演员要对自己的行为负责",
+        "onboard_time": 1700809957,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166466,
+        "num": 166466,
+        "word": "种地吧",
+        "onboard_time": 1700830474,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156085,
+        "num": 156085,
+        "word": "国考上岸有多难",
+        "onboard_time": 1700829153,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148214,
+        "num": 148214,
+        "word": "涵艺爆料JDG续约Kanavi",
+        "onboard_time": 1700826094,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157780,
+        "num": 146817,
+        "word": "张小斐亮片千金妆",
+        "onboard_time": 1700827655,
+        "rank": 35,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 156230,
+        "num": 144016,
+        "word": "辛芷蕾原生家庭",
+        "onboard_time": 1700820456,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337740,
+        "num": 141761,
+        "word": "吴亦凡经纪公司已被列为老赖",
+        "onboard_time": 1700830833,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 137317,
+        "num": 137317,
+        "word": "大妈也逃不过追男团",
+        "onboard_time": 1700830353,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130252,
+        "num": 130252,
+        "word": "八十万禁军林教头",
+        "onboard_time": 1700822432,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141542,
+        "num": 129950,
+        "word": "蔡依林新歌MV",
+        "onboard_time": 1700829031,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122202,
+        "num": 122202,
+        "word": "Tydot 抢票",
+        "onboard_time": 1700831255,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122067,
+        "num": 122067,
+        "word": "崔琳生子",
+        "onboard_time": 1700825795,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121953,
+        "num": 121953,
+        "word": "魏哲鸣是考上了霸总的编制吗",
+        "onboard_time": 1700824235,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118733,
+        "num": 118733,
+        "word": "新闻女王白月光设定",
+        "onboard_time": 1700830893,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113834,
+        "num": 113834,
+        "word": "如何逼出身体里的寒气",
+        "onboard_time": 1700821357,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111999,
+        "num": 111999,
+        "word": "中国手机均价已达3480元",
+        "onboard_time": 1700811277,
+        "rank": 46,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 106553,
+        "num": 106553,
+        "word": "郭台铭宣布退出台湾地区领导人选举",
+        "onboard_time": 1700810977,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102327,
+        "num": 102327,
+        "word": "马来西亚 免签",
+        "onboard_time": 1700814878,
+        "rank": 48,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 98666,
+        "num": 102018,
+        "word": "国考",
+        "onboard_time": 1700817997,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}

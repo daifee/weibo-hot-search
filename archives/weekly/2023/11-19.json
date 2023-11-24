@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700830124870,
+  "endTime": 1700832074341,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -795,6 +795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1563115,
+      "num": 1563115,
+      "word": "清华北大 鹅腿阿姨之争",
+      "onboard_time": 1700826215,
+      "rank": 1,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 1560395,
       "num": 1560395,
       "word": "Faker S13数据",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1700796101,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1335952,
-      "num": 1335952,
-      "word": "清华北大 鹅腿阿姨之争",
-      "onboard_time": 1700826215,
-      "rank": 1,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 1335805,
@@ -1465,6 +1465,14 @@
       "onboard_time": 1700374410,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 978420,
+      "num": 758330,
+      "word": "谢危亲了一晚上嘴皮子都破了吧",
+      "onboard_time": 1700830955,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 978303,
@@ -2659,6 +2667,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 635898,
+      "num": 635898,
+      "word": "郑秀晶红裙红毯造型",
+      "onboard_time": 1700828553,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 632755,
       "num": 350573,
       "word": "李秀满 癫公",
@@ -2979,6 +2995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 590764,
+      "num": 590764,
+      "word": "林俊杰演唱会嘉宾 李健",
+      "onboard_time": 1700828676,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 589154,
       "num": 589154,
       "word": "时尚集团声明",
@@ -3099,14 +3123,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 581174,
-      "num": 581174,
-      "word": "郑秀晶红裙红毯造型",
-      "onboard_time": 1700828553,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 578796,
       "num": 578796,
       "word": "村集体收租1.6亿安排老人出国游",
@@ -3169,14 +3185,6 @@
       "onboard_time": 1700451815,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 569505,
-      "num": 569505,
-      "word": "林俊杰演唱会嘉宾 李健",
-      "onboard_time": 1700828676,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 569262,
@@ -4595,6 +4603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 421756,
+      "num": 270995,
+      "word": "沈芷衣被逼洞房",
+      "onboard_time": 1700829575,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421349,
       "num": 421349,
       "word": "飞夺泸定桥被搬到竞综了",
@@ -4608,6 +4624,14 @@
       "word": "张小斐古装造型",
       "onboard_time": 1700716832,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 420849,
+      "num": 420849,
+      "word": "他为什么依然单身开机",
+      "onboard_time": 1700826752,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -4641,6 +4665,14 @@
       "onboard_time": 1700450495,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 418641,
+      "num": 418641,
+      "word": "不想读研想去景德镇捏泥巴",
+      "onboard_time": 1700831076,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 418424,
@@ -4841,14 +4873,6 @@
       "onboard_time": 1700613938,
       "rank": 13,
       "category": "演出,互联网"
-    },
-    {
-      "raw_hot": 399648,
-      "num": 399648,
-      "word": "他为什么依然单身开机",
-      "onboard_time": 1700826752,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 398282,
@@ -5923,6 +5947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 337740,
+      "num": 141761,
+      "word": "吴亦凡经纪公司已被列为老赖",
+      "onboard_time": 1700830833,
+      "rank": 37,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 337535,
       "num": 337535,
       "word": "民警帮付25元女子惦记400多天欲还钱",
@@ -6113,6 +6145,14 @@
       "onboard_time": 1700521341,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328289,
+      "num": 328289,
+      "word": "甄嬛传 让人眼前一黑的剪辑",
+      "onboard_time": 1700829814,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 328184,
@@ -6833,6 +6873,14 @@
       "onboard_time": 1700374410,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293942,
+      "num": 293942,
+      "word": "老街中方人员尽快撤离",
+      "onboard_time": 1700830353,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 293925,
@@ -8379,14 +8427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239709,
-      "num": 196331,
-      "word": "沈芷衣被逼洞房",
-      "onboard_time": 1700829575,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 239608,
       "num": 239608,
       "word": "国考最火的岗位在哪里",
@@ -8481,6 +8521,14 @@
       "onboard_time": 1700400160,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237311,
+      "num": 237311,
+      "word": "感觉周五晚上要比周末更快乐",
+      "onboard_time": 1700830594,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 237150,
@@ -10331,6 +10379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199713,
+      "num": 199713,
+      "word": "花80元吃一碗米其林面值得吗",
+      "onboard_time": 1700829153,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 199675,
       "num": 199675,
       "word": "人贩子余华英受审现场",
@@ -11491,14 +11547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 184051,
-      "num": 184051,
-      "word": "花80元吃一碗米其林面值得吗",
-      "onboard_time": 1700829153,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 183570,
       "num": 183570,
       "word": "谢危怼定国公",
@@ -11865,14 +11913,6 @@
       "onboard_time": 1700529154,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175874,
-      "num": 124712,
-      "word": "甄嬛传 让人眼前一黑的剪辑",
-      "onboard_time": 1700829814,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 175866,
@@ -13915,6 +13955,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 137317,
+      "num": 137317,
+      "word": "大妈也逃不过追男团",
+      "onboard_time": 1700830353,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137259,
       "num": 137259,
       "word": "李现穿中山装唱歌",
@@ -14707,6 +14755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122202,
+      "num": 122202,
+      "word": "Tydot 抢票",
+      "onboard_time": 1700831255,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "化妆的尽头其实是裸妆",
@@ -14841,6 +14897,14 @@
       "onboard_time": 1700384189,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 118733,
+      "num": 118733,
+      "word": "新闻女王白月光设定",
+      "onboard_time": 1700830893,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 118624,

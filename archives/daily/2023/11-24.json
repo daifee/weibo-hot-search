@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700830124870,
+  "endTime": 1700832074341,
   "band_list": [
     {
       "raw_hot": 9618160,
@@ -91,6 +91,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1563115,
+      "num": 1563115,
+      "word": "清华北大 鹅腿阿姨之争",
+      "onboard_time": 1700826215,
+      "rank": 1,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 1553810,
       "num": 1553810,
       "word": "吃火锅晒照误露点餐码被人点43万菜",
@@ -121,14 +129,6 @@
       "onboard_time": 1700796101,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1335952,
-      "num": 1335952,
-      "word": "清华北大 鹅腿阿姨之争",
-      "onboard_time": 1700826215,
-      "rank": 1,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 1310371,
@@ -233,6 +233,14 @@
       "onboard_time": 1700782526,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 978420,
+      "num": 758330,
+      "word": "谢危亲了一晚上嘴皮子都破了吧",
+      "onboard_time": 1700830955,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 961762,
@@ -387,6 +395,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 635898,
+      "num": 635898,
+      "word": "郑秀晶红裙红毯造型",
+      "onboard_time": 1700828553,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 624094,
       "num": 437088,
       "word": "原来这个姿势小腿会弯",
@@ -427,6 +443,14 @@
       "category": "国内时政,旅游"
     },
     {
+      "raw_hot": 590764,
+      "num": 590764,
+      "word": "林俊杰演唱会嘉宾 李健",
+      "onboard_time": 1700828676,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 588128,
       "num": 259617,
       "word": "杨紫玫瑰抹胸红裙",
@@ -435,28 +459,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 581174,
-      "num": 581174,
-      "word": "郑秀晶红裙红毯造型",
-      "onboard_time": 1700828553,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 575598,
       "num": 575598,
       "word": "小杨哥直播间被质疑虚假比价",
       "onboard_time": 1700800185,
       "rank": 8,
       "category": "网红"
-    },
-    {
-      "raw_hot": 569505,
-      "num": 569505,
-      "word": "林俊杰演唱会嘉宾 李健",
-      "onboard_time": 1700828676,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 565767,
@@ -659,12 +667,36 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 421756,
+      "num": 270995,
+      "word": "沈芷衣被逼洞房",
+      "onboard_time": 1700829575,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 420849,
+      "num": 420849,
+      "word": "他为什么依然单身开机",
+      "onboard_time": 1700826752,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420520,
       "num": 338989,
       "word": "VOGUE盛典 简陋",
       "onboard_time": 1700752895,
       "rank": 14,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 418641,
+      "num": 418641,
+      "word": "不想读研想去景德镇捏泥巴",
+      "onboard_time": 1700831076,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 414998,
@@ -697,14 +729,6 @@
       "onboard_time": 1700810556,
       "rank": 13,
       "category": "综艺,美妆"
-    },
-    {
-      "raw_hot": 399648,
-      "num": 399648,
-      "word": "他为什么依然单身开机",
-      "onboard_time": 1700826752,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 395200,
@@ -867,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337740,
+      "num": 141761,
+      "word": "吴亦凡经纪公司已被列为老赖",
+      "onboard_time": 1700830833,
+      "rank": 37,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 333883,
       "num": 333883,
       "word": "成都警方通报斗鱼CEO陈少杰案",
@@ -881,6 +913,14 @@
       "onboard_time": 1700808934,
       "rank": 16,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 328289,
+      "num": 328289,
+      "word": "甄嬛传 让人眼前一黑的剪辑",
+      "onboard_time": 1700829814,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 322216,
@@ -977,6 +1017,14 @@
       "onboard_time": 1700800305,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 293942,
+      "num": 293942,
+      "word": "老街中方人员尽快撤离",
+      "onboard_time": 1700830353,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 292065,
@@ -1243,14 +1291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239709,
-      "num": 196331,
-      "word": "沈芷衣被逼洞房",
-      "onboard_time": 1700829575,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 239608,
       "num": 239608,
       "word": "国考最火的岗位在哪里",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1700787932,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 237311,
+      "num": 237311,
+      "word": "感觉周五晚上要比周末更快乐",
+      "onboard_time": 1700830594,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 232295,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1700744861,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199713,
+      "num": 199713,
+      "word": "花80元吃一碗米其林面值得吗",
+      "onboard_time": 1700829153,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 199675,
@@ -1835,14 +1891,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 184051,
-      "num": 184051,
-      "word": "花80元吃一碗米其林面值得吗",
-      "onboard_time": 1700829153,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 181680,
       "num": 181680,
       "word": "崔琳生子",
@@ -1881,14 +1929,6 @@
       "onboard_time": 1700781443,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 175874,
-      "num": 124712,
-      "word": "甄嬛传 让人眼前一黑的剪辑",
-      "onboard_time": 1700829814,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 175387,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1700817997,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166466,
+      "num": 166466,
+      "word": "种地吧",
+      "onboard_time": 1700830474,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 163490,
@@ -2187,6 +2235,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 137317,
+      "num": 137317,
+      "word": "大妈也逃不过追男团",
+      "onboard_time": 1700830353,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134116,
       "num": 134116,
       "word": "考研时爱上了给人起外号",
@@ -2275,12 +2331,28 @@
       "category": "美妆,科学科普"
     },
     {
+      "raw_hot": 122202,
+      "num": 122202,
+      "word": "Tydot 抢票",
+      "onboard_time": 1700831255,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119221,
       "num": 111958,
       "word": "娜扎珍珠羽毛透视裙",
       "onboard_time": 1700740534,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 118733,
+      "num": 118733,
+      "word": "新闻女王白月光设定",
+      "onboard_time": 1700830893,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 118624,
