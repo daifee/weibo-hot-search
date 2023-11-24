@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700867811599,
+  "endTime": 1700868862828,
   "band_list": [
     {
       "raw_hot": 1148764,
@@ -19,12 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 704634,
-      "num": 704634,
+      "raw_hot": 832073,
+      "num": 832073,
       "word": "官方通报消防员被妻子举报出轨",
       "onboard_time": 1700854993,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790397,
+      "num": 271429,
+      "word": "吴亦凡被驱逐出境后十年内不准入境",
+      "onboard_time": 1700832334,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 686426,
@@ -33,14 +41,6 @@
       "onboard_time": 1700835997,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 677631,
-      "num": 263488,
-      "word": "吴亦凡被驱逐出境后十年内不准入境",
-      "onboard_time": 1700832334,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 519633,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303971,
+      "num": 303971,
+      "word": "律师解读吴亦凡案还有机会改判吗",
+      "onboard_time": 1700867239,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 280918,
       "num": 251374,
       "word": "文慧心郑书意 新闻人穿搭",
@@ -139,12 +147,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 255978,
+      "num": 255978,
+      "word": "忌辛辣就是不吃辣的吗",
+      "onboard_time": 1700866938,
+      "rank": 19,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 246090,
       "num": 246090,
       "word": "乌尔善剧透封神二三剧情",
       "onboard_time": 1700835935,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245055,
+      "num": 72105,
+      "word": "369疑似离队",
+      "onboard_time": 1700867961,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 221305,
@@ -211,14 +235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 180905,
-      "num": 180905,
-      "word": "律师解读吴亦凡案还有机会改判吗",
-      "onboard_time": 1700867239,
-      "rank": 7,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 180590,
       "num": 180590,
       "word": "清华北大 鹅腿阿姨之争",
@@ -241,6 +257,14 @@
       "onboard_time": 1700842948,
       "rank": 41,
       "category": "演出,幽默"
+    },
+    {
+      "raw_hot": 167784,
+      "num": 167784,
+      "word": "更适合脆皮年轻人的八段锦教程",
+      "onboard_time": 1700837552,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 154555,
@@ -281,14 +305,6 @@
       "onboard_time": 1700836536,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132873,
-      "num": 132873,
-      "word": "更适合脆皮年轻人的八段锦教程",
-      "onboard_time": 1700837552,
-      "rank": 34,
-      "category": "运动健身"
     },
     {
       "raw_hot": 132539,
@@ -339,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129270,
+      "num": 129270,
+      "word": "赵寅成 姨母笑",
+      "onboard_time": 1700846060,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122472,
       "num": 114920,
       "word": "林俊杰演唱会嘉宾 李健",
@@ -371,6 +395,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 103537,
+      "num": 103537,
+      "word": "C罗梅开二度",
+      "onboard_time": 1700868021,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98440,
       "num": 98440,
       "word": "小时代的风吹进了黑白密码",
@@ -385,14 +417,6 @@
       "onboard_time": 1700839593,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94543,
-      "num": 94543,
-      "word": "赵寅成 姨母笑",
-      "onboard_time": 1700846060,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 92633,
@@ -427,20 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74435,
-      "num": 69969,
+      "raw_hot": 80068,
+      "num": 80068,
       "word": "刘诗诗尖叫之夜机场路透",
       "onboard_time": 1700864236,
       "rank": 34,
       "category": "综艺"
     },
     {
-      "raw_hot": 72390,
-      "num": 72390,
-      "word": "忌辛辣就是不吃辣的吗",
-      "onboard_time": 1700866938,
-      "rank": 19,
-      "category": "健康医疗,美食"
+      "raw_hot": 78249,
+      "num": 78249,
+      "word": "消除针对妇女暴力日",
+      "onboard_time": 1700867901,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70098,
@@ -475,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63089,
+      "num": 63089,
+      "word": "语言暴力精神暴力都是家暴",
+      "onboard_time": 1700868442,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54343,
       "num": 86458,
       "word": "原来萝卜花是甩出来的",
@@ -483,8 +515,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 53740,
-      "num": 53740,
+      "raw_hot": 54219,
+      "num": 54219,
       "word": "第一眼就喜欢的人会喜欢很久",
       "onboard_time": 1700847199,
       "rank": 49,
@@ -499,12 +531,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41196,
-      "num": 41196,
+      "raw_hot": 52123,
+      "num": 52123,
       "word": "1个动作让小腿越来越直",
       "onboard_time": 1700864716,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 48101,
+      "num": 48101,
+      "word": "范丞丞关晓彤去王安宇外婆家吃饭",
+      "onboard_time": 1700823994,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 44821,
+      "num": 44821,
+      "word": "急诊医生得知奶奶去世抹掉眼泪接诊",
+      "onboard_time": 1700868684,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40287,
@@ -529,14 +577,6 @@
       "onboard_time": 1700858414,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34549,
-      "num": 37464,
-      "word": "范丞丞关晓彤去王安宇外婆家吃饭",
-      "onboard_time": 1700823994,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 34210,
