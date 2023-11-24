@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700788443870,
+  "endTime": 1700789691928,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -1011,6 +1011,14 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 1230951,
+      "num": 1230951,
+      "word": "河南一救护车多次载人跨市买毒品",
+      "onboard_time": 1700786193,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1227684,
       "num": 1227684,
       "word": "电视家 跑路",
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 961762,
-      "num": 454137,
+      "num": 456181,
       "word": "女性的生育痛苦需要被重视",
       "onboard_time": 1700785054,
       "rank": 11,
@@ -1531,6 +1539,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 853211,
+      "num": 853211,
+      "word": "港剧从来都不会年龄焦虑",
+      "onboard_time": 1700759840,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 851527,
       "num": 851527,
       "word": "妻子生日女儿吃薯片吃出金手链给妈妈",
@@ -1545,14 +1561,6 @@
       "onboard_time": 1700654374,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 844126,
-      "num": 844126,
-      "word": "港剧从来都不会年龄焦虑",
-      "onboard_time": 1700759840,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 841104,
@@ -1657,14 +1665,6 @@
       "onboard_time": 1700624976,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 813056,
-      "num": 813056,
-      "word": "河南一救护车多次载人跨市买毒品",
-      "onboard_time": 1700786193,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 811752,
@@ -2195,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663104,
+      "num": 663104,
+      "word": "北京儿童医院门诊现状",
+      "onboard_time": 1700785652,
+      "rank": 7,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 662281,
       "num": 466474,
       "word": "白敬亭告黑效率",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1700562514,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 651593,
+      "num": 444567,
+      "word": "退出直播间的明星转向新风口",
+      "onboard_time": 1700789372,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 651314,
@@ -2673,14 +2689,6 @@
       "onboard_time": 1700361150,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 588298,
-      "num": 588298,
-      "word": "北京儿童医院门诊现状",
-      "onboard_time": 1700785652,
-      "rank": 7,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 588005,
@@ -3396,7 +3404,7 @@
     },
     {
       "raw_hot": 495763,
-      "num": 296362,
+      "num": 314847,
       "word": "别老用洗衣机快洗了",
       "onboard_time": 1700782526,
       "rank": 20,
@@ -3449,6 +3457,14 @@
       "onboard_time": 1700492316,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 491723,
+      "num": 491723,
+      "word": "VOGUE 赞助商",
+      "onboard_time": 1700787994,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 491004,
@@ -4299,6 +4315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400376,
+      "num": 400376,
+      "word": "内地院线12月上映影片",
+      "onboard_time": 1700787753,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 400223,
       "num": 400223,
       "word": "TFBOYS十周年演唱会登阿里财报",
@@ -4835,6 +4859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362050,
+      "num": 362050,
+      "word": "考研人数九年来首降",
+      "onboard_time": 1700785772,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 361743,
       "num": 361743,
       "word": "金子涵 断层第一退团",
@@ -5275,14 +5307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335482,
-      "num": 335482,
-      "word": "考研人数九年来首降",
-      "onboard_time": 1700785772,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 335202,
       "num": 471408,
       "word": "累计超2.3万吨核污水流入大海",
@@ -5497,14 +5521,6 @@
       "onboard_time": 1700483372,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 324666,
-      "num": 324666,
-      "word": "VOGUE 赞助商",
-      "onboard_time": 1700787994,
-      "rank": 18,
-      "category": "时尚"
     },
     {
       "raw_hot": 324296,
@@ -5803,6 +5819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307260,
+      "num": 307260,
+      "word": "韩网友评价鬼怪过时",
+      "onboard_time": 1700788654,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306815,
       "num": 306815,
       "word": "heerina嗑到了",
@@ -6043,6 +6067,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 295538,
+      "num": 295538,
+      "word": "不存钱和存钱过的是两种人生",
+      "onboard_time": 1700787814,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295113,
       "num": 295113,
       "word": "殷郊二创",
@@ -6169,14 +6201,6 @@
       "onboard_time": 1700609365,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288835,
-      "num": 288835,
-      "word": "不存钱和存钱过的是两种人生",
-      "onboard_time": 1700787814,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 288786,
@@ -6931,6 +6955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 254495,
+      "num": 254495,
+      "word": "都柏林",
+      "onboard_time": 1700788233,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254240,
       "num": 254240,
       "word": "吗喽穿搭",
@@ -7041,14 +7073,6 @@
       "onboard_time": 1700396318,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251338,
-      "num": 297250,
-      "word": "内地院线12月上映影片",
-      "onboard_time": 1700787753,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 251177,
@@ -7475,6 +7499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237529,
+      "num": 237529,
+      "word": "被女老师从父亲拳下救走的女孩也当了老师",
+      "onboard_time": 1700787932,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 237398,
       "num": 237398,
       "word": "范丞丞被白鹿拉着飞奔",
@@ -7609,6 +7641,14 @@
       "onboard_time": 1700713839,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232295,
+      "num": 232295,
+      "word": "20地物价下降",
+      "onboard_time": 1700788533,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 232045,
@@ -8083,6 +8123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217757,
+      "num": 217757,
+      "word": "宁安如梦 文臣酒桌修罗场",
+      "onboard_time": 1700785652,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217568,
       "num": 196496,
       "word": "张艺兴刘畊宏蹦养生迪",
@@ -8547,14 +8595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208277,
-      "num": 208277,
-      "word": "宁安如梦 文臣酒桌修罗场",
-      "onboard_time": 1700785652,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208253,
       "num": 1043305,
       "word": "婴儿高烧抽搐消防车秒变救护车",
@@ -8809,6 +8849,14 @@
       "onboard_time": 1700572118,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204566,
+      "num": 204566,
+      "word": "平账大圣",
+      "onboard_time": 1700787332,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204459,
@@ -9692,7 +9740,7 @@
     },
     {
       "raw_hot": 189309,
-      "num": 155137,
+      "num": 155949,
       "word": "3个坐姿动作瘦肚子",
       "onboard_time": 1700785652,
       "rank": 30,
@@ -9713,6 +9761,14 @@
       "onboard_time": 1700451872,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189026,
+      "num": 189026,
+      "word": "易烊千玺VOGUE盛典迷路",
+      "onboard_time": 1700788952,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189013,
@@ -9825,14 +9881,6 @@
       "onboard_time": 1700553457,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187710,
-      "num": 155039,
-      "word": "平账大圣",
-      "onboard_time": 1700787332,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 187627,
@@ -11499,14 +11547,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 151454,
-      "num": 151454,
-      "word": "都柏林",
-      "onboard_time": 1700788233,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151332,
       "num": 151332,
       "word": "上海迪士尼100周年限定款烟花秀",
@@ -11923,14 +11963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143886,
-      "num": 143886,
-      "word": "被女老师从父亲拳下救走的女孩也当了老师",
-      "onboard_time": 1700787932,
-      "rank": 41,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 143804,
       "num": 143804,
       "word": "易峥 点塔",
@@ -11993,6 +12025,14 @@
       "onboard_time": 1700724936,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 142852,
+      "num": 142852,
+      "word": "吉迪",
+      "onboard_time": 1700788533,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 142748,
