@@ -1,0 +1,410 @@
+{
+  "runTime": 1700807769603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 984538,
+        "num": 1195765,
+        "word": "熹贵妃安",
+        "onboard_time": 1700805218,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 757612,
+        "num": 757612,
+        "word": "朱令父亲坦言已经放下朱令案",
+        "onboard_time": 1700804738,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35279,
+        "num": 712876,
+        "word": "冬季儿童呼吸道疾病热点科普",
+        "onboard_time": 1700784932,
+        "rank": 2,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2775467,
+        "num": 709869,
+        "word": "吴亦凡亲属旁听二审宣判",
+        "onboard_time": 1700798445,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 706155,
+        "num": 706155,
+        "word": "银川地震",
+        "onboard_time": 1700804619,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650370,
+        "num": 650370,
+        "word": "晴儿归来已是皇后",
+        "onboard_time": 1700796101,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2701181,
+        "num": 642973,
+        "word": "吴亦凡聚众淫乱系首要分子",
+        "onboard_time": 1700796640,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 587878,
+        "num": 587878,
+        "word": "苏有朋被金融诈骗",
+        "onboard_time": 1700795742,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392702,
+        "num": 392702,
+        "word": "章凝 张宇",
+        "onboard_time": 1700793631,
+        "rank": 8,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 373527,
+        "num": 373527,
+        "word": "杨幂背头烟熏妆",
+        "onboard_time": 1700802044,
+        "rank": 9,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 1202093,
+        "num": 372781,
+        "word": "吴亦凡案二审维持原判",
+        "onboard_time": 1700795438,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 453103,
+        "num": 368066,
+        "word": "福建医科大学",
+        "onboard_time": 1700801147,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336920,
+        "num": 336920,
+        "word": "丫丫也交到小鸟朋友了",
+        "onboard_time": 1700797789,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695243,
+        "num": 331940,
+        "word": "吴亦凡上诉被驳回",
+        "onboard_time": 1700795676,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 300591,
+        "num": 300591,
+        "word": "哈工大同宿舍3人全部当选院士",
+        "onboard_time": 1700798745,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 291777,
+        "num": 291777,
+        "word": "尖叫之夜倒计时1天官宣阵容",
+        "onboard_time": 1700806299,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289623,
+        "num": 289623,
+        "word": "IVE官宣中国线下签售",
+        "onboard_time": 1700804499,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271644,
+        "num": 271644,
+        "word": "以爱为营番外 3块10分钟",
+        "onboard_time": 1700798208,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263352,
+        "num": 263352,
+        "word": "为什么热水倒进杯子会看见影子",
+        "onboard_time": 1700801327,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 251577,
+        "num": 251577,
+        "word": "名侦探学院致命头条案",
+        "onboard_time": 1700803480,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725172,
+        "num": 250819,
+        "word": "女子退货被拒4个月狂退277支口红",
+        "onboard_time": 1700803422,
+        "rank": 20,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 464468,
+        "num": 246866,
+        "word": "月薪2万的年轻人只逛打折区",
+        "onboard_time": 1700802825,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 325064,
+        "num": 240295,
+        "word": "杨紫玫瑰抹胸红裙",
+        "onboard_time": 1700798208,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286428,
+        "num": 237792,
+        "word": "在故宫走丢真的有面子",
+        "onboard_time": 1700805581,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 235023,
+        "num": 235023,
+        "word": "SHE本人听了都得愣一下",
+        "onboard_time": 1700803121,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230808,
+        "num": 230808,
+        "word": "白鹿王鹤棣看剧reaction",
+        "onboard_time": 1700803540,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200762,
+        "num": 200762,
+        "word": "宁安如梦",
+        "onboard_time": 1700806117,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196846,
+        "num": 196846,
+        "word": "星愿今日上映",
+        "onboard_time": 1700806836,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187014,
+        "num": 187014,
+        "word": "任如意上一世 龙葵",
+        "onboard_time": 1700801267,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166242,
+        "num": 166242,
+        "word": "陈奕迅不要说话live现场",
+        "onboard_time": 1700806417,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161850,
+        "num": 161850,
+        "word": "男子用土给老婆做戒指网友求量产",
+        "onboard_time": 1700802223,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153920,
+        "num": 153920,
+        "word": "加沙地带停火协议正式生效",
+        "onboard_time": 1700803241,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153594,
+        "num": 153594,
+        "word": "农大授牌十个勤天",
+        "onboard_time": 1700807136,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149085,
+        "num": 149085,
+        "word": "太子悦神 入画",
+        "onboard_time": 1700800305,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148007,
+        "num": 148007,
+        "word": "小杨哥直播间被质疑虚假比价",
+        "onboard_time": 1700800185,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144569,
+        "num": 144569,
+        "word": "孙维",
+        "onboard_time": 1700807314,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138203,
+        "num": 138203,
+        "word": "Gumayusi 还是多赚点钱给女儿买奶粉吧",
+        "onboard_time": 1700797665,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132865,
+        "num": 132865,
+        "word": "排肝毒 抬腿平躺15分钟",
+        "onboard_time": 1700795920,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131242,
+        "num": 131242,
+        "word": "如何快速识别无门店外卖",
+        "onboard_time": 1700805698,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128336,
+        "num": 128336,
+        "word": "王一博出发爱奇艺尖叫之夜",
+        "onboard_time": 1700800424,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125097,
+        "num": 125097,
+        "word": "张杰传授李现健嗓秘诀",
+        "onboard_time": 1700802404,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122877,
+        "num": 122877,
+        "word": "宁安如梦姐姐姐夫也开虐了",
+        "onboard_time": 1700798806,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120632,
+        "num": 120632,
+        "word": "大多数中国在泰乞讨者系正规渠道入境",
+        "onboard_time": 1700807558,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110943,
+        "num": 110943,
+        "word": "一念关山定档",
+        "onboard_time": 1700791650,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109728,
+        "num": 109728,
+        "word": "林心如说霍建华负责送女儿上学",
+        "onboard_time": 1700790752,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109334,
+        "num": 109334,
+        "word": "多种病原体混合感染怎么办",
+        "onboard_time": 1700806059,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108502,
+        "num": 108502,
+        "word": "李菲儿创业思路被王勉打开了",
+        "onboard_time": 1700802703,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108169,
+        "num": 108169,
+        "word": "过期口红 唇炎",
+        "onboard_time": 1700783367,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 107480,
+        "num": 107480,
+        "word": "中考用绳每根成本8元至20元",
+        "onboard_time": 1700794832,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100014,
+        "num": 100014,
+        "word": "刘诗诗舞剑变装",
+        "onboard_time": 1700804802,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}

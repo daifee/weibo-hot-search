@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700806988389,
+  "endTime": 1700807769603,
   "band_list": [
     {
       "raw_hot": 9618160,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1012116,
-      "num": 1012116,
+      "num": 1195765,
       "word": "熹贵妃安",
       "onboard_time": 1700805218,
       "rank": 1,
@@ -219,7 +219,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 713979,
+      "raw_hot": 725172,
       "num": 260115,
       "word": "女子退货被拒4个月狂退277支口红",
       "onboard_time": 1700803422,
@@ -571,6 +571,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 291777,
+      "num": 291777,
+      "word": "尖叫之夜倒计时1天官宣阵容",
+      "onboard_time": 1700806299,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290691,
       "num": 290691,
       "word": "A股",
@@ -827,14 +835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207685,
-      "num": 207685,
-      "word": "尖叫之夜倒计时1天官宣阵容",
-      "onboard_time": 1700806299,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206443,
       "num": 440631,
       "word": "七仔连睡觉jiojio都在打拍子",
@@ -891,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200762,
+      "num": 200762,
+      "word": "宁安如梦",
+      "onboard_time": 1700806117,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200581,
       "num": 200581,
       "word": "任如意宁远舟 势均力敌的爱情",
@@ -937,6 +945,14 @@
       "onboard_time": 1700788952,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196846,
+      "num": 196846,
+      "word": "星愿今日上映",
+      "onboard_time": 1700806836,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 196248,
@@ -1171,14 +1187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 160569,
-      "num": 160569,
-      "word": "星愿今日上映",
-      "onboard_time": 1700806836,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 160325,
       "num": 268984,
       "word": "华为无人代客泊车视频曝光",
@@ -1219,12 +1227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153594,
+      "num": 153594,
+      "word": "农大授牌十个勤天",
+      "onboard_time": 1700807136,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149651,
       "num": 149651,
       "word": "后陡门爱神",
       "onboard_time": 1700784571,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144569,
+      "num": 144569,
+      "word": "孙维",
+      "onboard_time": 1700807314,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142916,
@@ -1291,14 +1315,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 128947,
-      "num": 128947,
-      "word": "宁安如梦",
-      "onboard_time": 1700806117,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124384,
       "num": 124384,
       "word": "刘诗诗舞剑变装",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1700796403,
       "rank": 48,
       "category": "美妆,科学科普"
+    },
+    {
+      "raw_hot": 120632,
+      "num": 120632,
+      "word": "大多数中国在泰乞讨者系正规渠道入境",
+      "onboard_time": 1700807558,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119221,
