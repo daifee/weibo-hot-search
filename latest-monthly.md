@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/24 21:34:20
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/24 22:16:01
 </p>
 </blockquote>
 <p>
@@ -891,6 +891,12 @@ GEN对战BLG（热度：2392638）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%E5%90%8E%E5%8D%81%E5%B9%B4%E5%86%85%E4%B8%8D%E5%87%86%E5%85%A5%E5%A2%83%23" target="weibo">
+吴亦凡被驱逐出境后十年内不准入境（热度：2347313）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BC%A0%E7%9D%80%E7%81%AB%23" target="weibo">
 中传着火（热度：2325083）
 </a>
@@ -1589,12 +1595,6 @@ BLACKPINK两名成员与YG签订组合约（热度：1863870）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96%23" target="weibo">
 刘德华父亲逝世（热度：1861744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%E5%90%8E%E5%8D%81%E5%B9%B4%E5%86%85%E4%B8%8D%E5%87%86%E5%85%A5%E5%A2%83%23" target="weibo">
-吴亦凡被驱逐出境后十年内不准入境（热度：1855297）
 </a>
 </li>
 
@@ -4203,6 +4203,12 @@ ELLE风尚大典（热度：1088644）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%20%E5%86%85%E5%A8%B1%E7%9C%9F%E7%93%9C%E4%B8%BB%E5%8F%A6%E6%9C%89%E5%85%B6%E4%BA%BA%23" target="weibo">
+杨迪 内娱真瓜主另有其人（热度：1072707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TheShy%20%E4%B8%80%E8%A1%80%E7%8E%87%23" target="weibo">
 TheShy 一血率（热度：1071656）
 </a>
@@ -6005,12 +6011,6 @@ B太 破解大连海鲜餐厅加工店鬼秤（热度：821889）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%B8%E4%BD%8D%E9%AB%98%E6%98%BE%E8%83%96%23" target="weibo">
 胸位高显胖（热度：818132）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%85%BC%E8%81%8C%E6%8E%A5%E5%B9%BF%E5%91%8A%E4%B8%8D%E5%90%88%E8%A7%84%23" target="weibo">
-董明珠称孟羽童兼职接广告不合规（热度：817082）
 </a>
 </li>
 

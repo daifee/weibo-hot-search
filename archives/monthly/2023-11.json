@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700832860749,
+  "endTime": 1700835361199,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2347313,
+      "num": 2347313,
+      "word": "吴亦凡被驱逐出境后十年内不准入境",
+      "onboard_time": 1700832334,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2325083,
       "num": 339810,
       "word": "中传着火",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1700743902,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1855297,
-      "num": 352453,
-      "word": "吴亦凡被驱逐出境后十年内不准入境",
-      "onboard_time": 1700832334,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1846043,
@@ -5585,6 +5585,14 @@
       "onboard_time": 1698827430,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1072707,
+      "num": 732379,
+      "word": "杨迪 内娱真瓜主另有其人",
+      "onboard_time": 1700832758,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1071656,
@@ -9569,6 +9577,14 @@
       "onboard_time": 1699191334,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 730952,
+      "num": 730952,
+      "word": "kpop正遭受中输减少带来的打击",
+      "onboard_time": 1700834315,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 730370,
@@ -19315,6 +19331,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 417719,
+      "num": 417719,
+      "word": "文慧心郑书意 新闻人穿搭",
+      "onboard_time": 1700833538,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417627,
       "num": 417627,
       "word": "涉事高校称不存在助学金名额挤占",
@@ -19361,6 +19385,14 @@
       "onboard_time": 1700223753,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417232,
+      "num": 417232,
+      "word": "孕激素的威力",
+      "onboard_time": 1700832758,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 416717,
@@ -21963,6 +21995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373412,
+      "num": 373412,
+      "word": "我本是高山",
+      "onboard_time": 1700228557,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 373404,
       "num": 373404,
       "word": "林志颖给Kimi打电话的声音",
@@ -22513,6 +22553,14 @@
       "onboard_time": 1700400938,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364589,
+      "num": 364589,
+      "word": "HLE官宣Peanut加入",
+      "onboard_time": 1700833655,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 364509,
@@ -24499,6 +24547,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 334797,
+      "num": 306602,
+      "word": "郑秀晶都暻秀同框",
+      "onboard_time": 1700833715,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 334723,
       "num": 334723,
       "word": "叶璇分析血色恋情暴力事件",
@@ -24841,6 +24897,14 @@
       "onboard_time": 1699440698,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330269,
+      "num": 330269,
+      "word": "黄渤拍完涉海不敢面对戏里的女儿",
+      "onboard_time": 1700833595,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 330259,
@@ -26987,14 +27051,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 302223,
-      "num": 302223,
-      "word": "我本是高山",
-      "onboard_time": 1700228557,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 302130,
       "num": 302130,
       "word": "王自如 罗永浩",
@@ -27753,14 +27809,6 @@
       "onboard_time": 1699070013,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293778,
-      "num": 293778,
-      "word": "杨迪 内娱真瓜主另有其人",
-      "onboard_time": 1700832758,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 293727,
@@ -34883,6 +34931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231593,
+      "num": 231593,
+      "word": "董洁43岁的活动状态",
+      "onboard_time": 1700832092,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231401,
       "num": 222415,
       "word": "街是陪朋友逛的 钱是我花的",
@@ -35105,14 +35161,6 @@
       "onboard_time": 1700231977,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230306,
-      "num": 230306,
-      "word": "董洁43岁的活动状态",
-      "onboard_time": 1700832092,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 230231,
@@ -43595,6 +43643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190078,
+      "num": 160506,
+      "word": "世界计划三丽鸥联动",
+      "onboard_time": 1700835034,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190052,
       "num": 190052,
       "word": "郝蕾犀利点评沈梦辰表演",
@@ -47393,6 +47449,14 @@
       "onboard_time": 1700059114,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173035,
+      "num": 155716,
+      "word": "第44届青龙电影奖",
+      "onboard_time": 1700834017,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 172952,
@@ -51787,6 +51851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152226,
+      "num": 152226,
+      "word": "和双子座相处千万不要越界",
+      "onboard_time": 1700832573,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152220,
       "num": 152220,
       "word": "娱乐圈老小区改造",
@@ -52129,6 +52201,14 @@
       "onboard_time": 1698909518,
       "rank": 40,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 150706,
+      "num": 150706,
+      "word": "露营车扎堆济南儿科急诊室",
+      "onboard_time": 1700834798,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150639,
@@ -52859,6 +52939,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147655,
+      "num": 733765,
+      "word": "故宫银杏和红墙黄瓦完美适配",
+      "onboard_time": 1700832934,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147612,
       "num": 147612,
       "word": "独臂教师教出两千余名大学生",
@@ -53377,6 +53465,14 @@
       "onboard_time": 1699601310,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144927,
+      "num": 144927,
+      "word": "恋爱脑其实是来惩罚朋友的",
+      "onboard_time": 1700835034,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 144923,
@@ -54921,6 +55017,14 @@
       "onboard_time": 1699273595,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138329,
+      "num": 138329,
+      "word": "迪丽热巴没选秦海璐的原因",
+      "onboard_time": 1700835277,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138237,
@@ -59459,14 +59563,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 116464,
-      "num": 116464,
-      "word": "孕激素的威力",
-      "onboard_time": 1700832758,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116339,
       "num": 116339,
       "word": "刘宪华Perfect小提琴Cover",
@@ -59923,6 +60019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 113515,
+      "num": 113515,
+      "word": "牛街人气涮羊肉",
+      "onboard_time": 1700835154,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113469,
       "num": 113469,
       "word": "成年人哪有不发疯的",
@@ -60185,6 +60289,14 @@
       "onboard_time": 1700286030,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 112025,
+      "num": 112025,
+      "word": "身体的保湿方法",
+      "onboard_time": 1700833834,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 111974,
@@ -60569,14 +60681,6 @@
       "onboard_time": 1699226606,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109624,
-      "num": 109624,
-      "word": "和双子座相处千万不要越界",
-      "onboard_time": 1700832573,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 109612,
