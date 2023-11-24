@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700835361199,
+  "endTime": 1700836463665,
   "band_list": [
     {
       "raw_hot": 9618160,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1090290,
+      "num": 791188,
+      "word": "杨迪 内娱真瓜主另有其人",
+      "onboard_time": 1700832758,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1080189,
       "num": 1080189,
       "word": "林心如说霍建华负责送女儿上学",
@@ -217,14 +225,6 @@
       "onboard_time": 1700809957,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1072707,
-      "num": 732379,
-      "word": "杨迪 内娱真瓜主另有其人",
-      "onboard_time": 1700832758,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 1067985,
@@ -363,8 +363,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 730952,
-      "num": 730952,
+      "raw_hot": 778121,
+      "num": 778121,
       "word": "kpop正遭受中输减少带来的打击",
       "onboard_time": 1700834315,
       "rank": 5,
@@ -497,6 +497,14 @@
       "onboard_time": 1700800185,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 567199,
+      "num": 567199,
+      "word": "文慧心郑书意 新闻人穿搭",
+      "onboard_time": 1700833538,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 565767,
@@ -683,6 +691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 432554,
+      "num": 432554,
+      "word": "孕激素的威力",
+      "onboard_time": 1700832758,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431075,
       "num": 336619,
       "word": "女子自曝被丈夫当孩子面多次家暴",
@@ -721,22 +737,6 @@
       "onboard_time": 1700752895,
       "rank": 14,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 417719,
-      "num": 417719,
-      "word": "文慧心郑书意 新闻人穿搭",
-      "onboard_time": 1700833538,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 417232,
-      "num": 417232,
-      "word": "孕激素的威力",
-      "onboard_time": 1700832758,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 414998,
@@ -787,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388707,
+      "num": 388707,
+      "word": "黄渤拍完涉海不敢面对戏里的女儿",
+      "onboard_time": 1700833595,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 385938,
       "num": 385938,
       "word": "淘宝回应取消双12",
@@ -825,6 +833,14 @@
       "onboard_time": 1700824056,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367316,
+      "num": 367316,
+      "word": "迪丽热巴没选秦海璐的原因",
+      "onboard_time": 1700835277,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 364589,
@@ -979,14 +995,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 330269,
-      "num": 330269,
-      "word": "黄渤拍完涉海不敢面对戏里的女儿",
-      "onboard_time": 1700833595,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 330115,
       "num": 330115,
       "word": "恋与制作人CoCo 联名",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1700788352,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320850,
+      "num": 185595,
+      "word": "郎朗证明孩子是在和钢琴友好交流",
+      "onboard_time": 1700835997,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 318331,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1700819795,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 301250,
+      "num": 301250,
+      "word": "乌尔善剧透封神二三剧情",
+      "onboard_time": 1700835935,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 301233,
@@ -1403,6 +1427,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 235930,
+      "num": 185469,
+      "word": "JYP出现时台下表情",
+      "onboard_time": 1700836118,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232295,
       "num": 232295,
       "word": "20地物价下降",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1700829153,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 203779,
+      "num": 178044,
+      "word": "林允儿造型",
+      "onboard_time": 1700835816,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203013,
@@ -1883,6 +1923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190305,
+      "num": 190305,
+      "word": "和双子座相处千万不要越界",
+      "onboard_time": 1700832573,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190078,
       "num": 160506,
       "word": "世界计划三丽鸥联动",
@@ -1979,6 +2027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185003,
+      "num": 185003,
+      "word": "恋爱脑其实是来惩罚朋友的",
+      "onboard_time": 1700835034,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184846,
       "num": 340105,
       "word": "何同学用记忆金属做了一盆花",
@@ -2073,6 +2129,14 @@
       "onboard_time": 1700817755,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173694,
+      "num": 797255,
+      "word": "故宫银杏和红墙黄瓦完美适配",
+      "onboard_time": 1700832934,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173035,
@@ -2283,14 +2347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152226,
-      "num": 152226,
-      "word": "和双子座相处千万不要越界",
-      "onboard_time": 1700832573,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152013,
       "num": 152013,
       "word": "成都混团 抢票",
@@ -2313,22 +2369,6 @@
       "onboard_time": 1700784571,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147655,
-      "num": 733765,
-      "word": "故宫银杏和红墙黄瓦完美适配",
-      "onboard_time": 1700832934,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144927,
-      "num": 144927,
-      "word": "恋爱脑其实是来惩罚朋友的",
-      "onboard_time": 1700835034,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 144507,
@@ -2385,14 +2425,6 @@
       "onboard_time": 1700832514,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138329,
-      "num": 138329,
-      "word": "迪丽热巴没选秦海璐的原因",
-      "onboard_time": 1700835277,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 137317,
@@ -2689,6 +2721,14 @@
       "onboard_time": 1700828733,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 104886,
+      "num": 104886,
+      "word": "农村盼团聚的妈妈给女儿买好棉服",
+      "onboard_time": 1700836177,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101138,
