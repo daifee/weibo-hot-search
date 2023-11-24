@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700836463665,
+  "endTime": 1700839098314,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4699,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1209166,
+      "num": 269003,
+      "word": "霸王茶姬咖啡因含量超2罐红牛",
+      "onboard_time": 1700837795,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1207419,
       "num": 1207419,
       "word": "李相夷红绸舞剑",
@@ -4753,6 +4761,14 @@
       "onboard_time": 1699775130,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1194509,
+      "num": 1194509,
+      "word": "郎朗证明孩子是在和钢琴友好交流",
+      "onboard_time": 1700835997,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 1191246,
@@ -16883,6 +16899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 472329,
+      "num": 367316,
+      "word": "迪丽热巴没选秦海璐的原因",
+      "onboard_time": 1700835277,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472310,
       "num": 425274,
       "word": "肖战vlog 罗马假日",
@@ -17435,6 +17459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 459135,
+      "num": 301250,
+      "word": "乌尔善剧透封神二三剧情",
+      "onboard_time": 1700835935,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 458983,
       "num": 1024060,
       "word": "18岁西班牙公主成为王位继承人",
@@ -17737,6 +17769,14 @@
       "onboard_time": 1700631754,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449502,
+      "num": 238853,
+      "word": "李彩领因状态不佳暂停活动",
+      "onboard_time": 1700836536,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 449077,
@@ -18633,6 +18673,14 @@
       "onboard_time": 1699169252,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 431320,
+      "num": 217535,
+      "word": "张小斐 全世界淋雨我在吃香蕉",
+      "onboard_time": 1700837315,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 431124,
@@ -21035,6 +21083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388865,
+      "num": 208681,
+      "word": "JYP出现时台下表情",
+      "onboard_time": 1700836118,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 388749,
       "num": 388749,
       "word": "秦海璐 不要我觉得",
@@ -22376,14 +22432,6 @@
       "word": "戚薇曝李承铉成团往事",
       "onboard_time": 1699601372,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 367316,
-      "num": 367316,
-      "word": "迪丽热巴没选秦海璐的原因",
-      "onboard_time": 1700835277,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -24675,6 +24723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 333271,
+      "num": 204123,
+      "word": "郑裕美青龙影后",
+      "onboard_time": 1700838877,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 333130,
       "num": 670800,
       "word": "梁靖崑男单冠军",
@@ -25307,6 +25363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 325906,
+      "num": 182656,
+      "word": "林允儿造型",
+      "onboard_time": 1700835816,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 325746,
       "num": 325746,
       "word": "宁安如梦周生如故梦幻联动",
@@ -25585,14 +25649,6 @@
       "onboard_time": 1700123614,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320850,
-      "num": 185595,
-      "word": "郎朗证明孩子是在和钢琴友好交流",
-      "onboard_time": 1700835997,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 320832,
@@ -27145,14 +27201,6 @@
       "onboard_time": 1700223153,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301250,
-      "num": 301250,
-      "word": "乌尔善剧透封神二三剧情",
-      "onboard_time": 1700835935,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 301233,
@@ -30827,6 +30875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263415,
+      "num": 180242,
+      "word": "宋亚轩时隔六年唱神奇",
+      "onboard_time": 1700838637,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263252,
       "num": 263252,
       "word": "莫文蔚公开绝版写真",
@@ -31216,6 +31272,14 @@
       "word": "关晓彤觉得张真源适合当王牌游戏组导演",
       "onboard_time": 1700234025,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 260277,
+      "num": 178568,
+      "word": "赵昭仪发5秒 秦岚回25秒",
+      "onboard_time": 1700838696,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -34347,14 +34411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235930,
-      "num": 185469,
-      "word": "JYP出现时台下表情",
-      "onboard_time": 1700836118,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 235835,
       "num": 235835,
       "word": "赵小童英文演讲",
@@ -34705,6 +34761,14 @@
       "onboard_time": 1699422095,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 233212,
+      "num": 175864,
+      "word": "小鹿拍戏亲过白宇十多次",
+      "onboard_time": 1700838514,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 233173,
@@ -40067,14 +40131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203779,
-      "num": 178044,
-      "word": "林允儿造型",
-      "onboard_time": 1700835816,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 203759,
       "num": 203759,
       "word": "胡彦斌 以后要写简单一点的歌",
@@ -40337,6 +40393,14 @@
       "onboard_time": 1699511191,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202660,
+      "num": 174427,
+      "word": "刘涛再演霓凰郡主",
+      "onboard_time": 1700838397,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 202599,
@@ -43761,6 +43825,14 @@
       "onboard_time": 1700280508,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189832,
+      "num": 148738,
+      "word": "流水迢迢",
+      "onboard_time": 1700715165,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 189828,
@@ -47451,6 +47523,14 @@
       "category": "剧集,音乐"
     },
     {
+      "raw_hot": 173522,
+      "num": 173522,
+      "word": "Crisp说自己应该会留队",
+      "onboard_time": 1700837196,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173361,
       "num": 173361,
       "word": "宝爸抱1岁娃举高高栽倒误伤1家3口",
@@ -48595,6 +48675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 168253,
+      "num": 168253,
+      "word": "正确的煮面方法",
+      "onboard_time": 1700838336,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168105,
       "num": 168105,
       "word": "氛围感高颅顶卷发",
@@ -49465,6 +49553,14 @@
       "onboard_time": 1699865132,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 164233,
+      "num": 128324,
+      "word": "汤唯比心手忙脚乱",
+      "onboard_time": 1700835576,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 164186,
@@ -54003,6 +54099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143080,
+      "num": 177582,
+      "word": "原来萝卜花是甩出来的",
+      "onboard_time": 1700837974,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 143076,
       "num": 143076,
       "word": "十秒丸子头",
@@ -54417,14 +54521,6 @@
       "onboard_time": 1699360056,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141293,
-      "num": 141293,
-      "word": "流水迢迢",
-      "onboard_time": 1700715165,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 141257,
@@ -55473,6 +55569,14 @@
       "onboard_time": 1700447914,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135861,
+      "num": 135861,
+      "word": "更适合脆皮年轻人的八段锦教程",
+      "onboard_time": 1700837552,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 135800,
@@ -59563,6 +59667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116699,
+      "num": 116699,
+      "word": "行测常识口诀",
+      "onboard_time": 1700836715,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116560,
       "num": 116560,
       "word": "相柳版万古催沙",
@@ -61737,6 +61849,14 @@
       "onboard_time": 1700482112,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101478,
+      "num": 115257,
+      "word": "保姆级唇部护理",
+      "onboard_time": 1700837615,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 101429,

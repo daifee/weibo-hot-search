@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700836463665,
+  "endTime": 1700839098314,
   "band_list": [
     {
       "raw_hot": 9618160,
@@ -161,6 +161,22 @@
       "onboard_time": 1700786193,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1209166,
+      "num": 269003,
+      "word": "霸王茶姬咖啡因含量超2罐红牛",
+      "onboard_time": 1700837795,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1194509,
+      "num": 1194509,
+      "word": "郎朗证明孩子是在和钢琴友好交流",
+      "onboard_time": 1700835997,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 1169596,
@@ -635,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472329,
+      "num": 367316,
+      "word": "迪丽热巴没选秦海璐的原因",
+      "onboard_time": 1700835277,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469567,
       "num": 284174,
       "word": "月薪2万的年轻人只逛打折区",
@@ -643,12 +667,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 459135,
+      "num": 301250,
+      "word": "乌尔善剧透封神二三剧情",
+      "onboard_time": 1700835935,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 454973,
       "num": 454973,
       "word": "内地院线12月上映影片",
       "onboard_time": 1700787753,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 449502,
+      "num": 238853,
+      "word": "李彩领因状态不佳暂停活动",
+      "onboard_time": 1700836536,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 446103,
@@ -697,6 +737,14 @@
       "onboard_time": 1700832758,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 431320,
+      "num": 217535,
+      "word": "张小斐 全世界淋雨我在吃香蕉",
+      "onboard_time": 1700837315,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 431075,
@@ -787,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388865,
+      "num": 208681,
+      "word": "JYP出现时台下表情",
+      "onboard_time": 1700836118,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 388707,
       "num": 388707,
       "word": "黄渤拍完涉海不敢面对戏里的女儿",
@@ -833,14 +889,6 @@
       "onboard_time": 1700824056,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367316,
-      "num": 367316,
-      "word": "迪丽热巴没选秦海璐的原因",
-      "onboard_time": 1700835277,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 364589,
@@ -995,6 +1043,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 333271,
+      "num": 204123,
+      "word": "郑裕美青龙影后",
+      "onboard_time": 1700838877,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 330115,
       "num": 330115,
       "word": "恋与制作人CoCo 联名",
@@ -1011,20 +1067,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325906,
+      "num": 182656,
+      "word": "林允儿造型",
+      "onboard_time": 1700835816,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322216,
       "num": 322216,
       "word": "一念关山",
       "onboard_time": 1700788352,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 320850,
-      "num": 185595,
-      "word": "郎朗证明孩子是在和钢琴友好交流",
-      "onboard_time": 1700835997,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 318331,
@@ -1073,14 +1129,6 @@
       "onboard_time": 1700819795,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 301250,
-      "num": 301250,
-      "word": "乌尔善剧透封神二三剧情",
-      "onboard_time": 1700835935,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 301233,
@@ -1251,11 +1299,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263415,
+      "num": 180242,
+      "word": "宋亚轩时隔六年唱神奇",
+      "onboard_time": 1700838637,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261554,
       "num": 240443,
       "word": "王一博出发爱奇艺尖叫之夜",
       "onboard_time": 1700800424,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 260277,
+      "num": 178568,
+      "word": "赵昭仪发5秒 秦岚回25秒",
+      "onboard_time": 1700838696,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1427,12 +1491,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 235930,
-      "num": 185469,
-      "word": "JYP出现时台下表情",
-      "onboard_time": 1700836118,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 233212,
+      "num": 175864,
+      "word": "小鹿拍戏亲过白宇十多次",
+      "onboard_time": 1700838514,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 232295,
@@ -1675,20 +1739,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 203779,
-      "num": 178044,
-      "word": "林允儿造型",
-      "onboard_time": 1700835816,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 203013,
       "num": 203013,
       "word": "爱乐之城重映定档",
       "onboard_time": 1700791471,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202660,
+      "num": 174427,
+      "word": "刘涛再演霓凰郡主",
+      "onboard_time": 1700838397,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 201993,
@@ -1939,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189832,
+      "num": 148738,
+      "word": "流水迢迢",
+      "onboard_time": 1700837974,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189309,
       "num": 155949,
       "word": "3个坐姿动作瘦肚子",
@@ -2139,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173522,
+      "num": 173522,
+      "word": "Crisp说自己应该会留队",
+      "onboard_time": 1700837196,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173035,
       "num": 155716,
       "word": "第44届青龙电影奖",
@@ -2187,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168253,
+      "num": 168253,
+      "word": "正确的煮面方法",
+      "onboard_time": 1700838336,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167909,
       "num": 167909,
       "word": "算力租赁价格暴涨200%",
@@ -2233,6 +2321,14 @@
       "onboard_time": 1700829153,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164233,
+      "num": 128324,
+      "word": "汤唯比心手忙脚乱",
+      "onboard_time": 1700835576,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 163490,
@@ -2379,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143080,
+      "num": 177582,
+      "word": "原来萝卜花是甩出来的",
+      "onboard_time": 1700837974,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142916,
       "num": 142916,
       "word": "警号017847重启",
@@ -2433,6 +2537,14 @@
       "onboard_time": 1700830353,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135861,
+      "num": 135861,
+      "word": "更适合脆皮年轻人的八段锦教程",
+      "onboard_time": 1700837552,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 134116,
@@ -2577,6 +2689,14 @@
       "onboard_time": 1700793391,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 116699,
+      "num": 116699,
+      "word": "行测常识口诀",
+      "onboard_time": 1700836715,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 116339,
@@ -2729,6 +2849,14 @@
       "onboard_time": 1700836177,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101478,
+      "num": 115257,
+      "word": "保姆级唇部护理",
+      "onboard_time": 1700837615,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 101138,
