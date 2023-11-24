@@ -1,0 +1,410 @@
+{
+  "runTime": 1700793505002,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1869846,
+        "num": 1869846,
+        "word": "退出直播间的明星转向新风口",
+        "onboard_time": 1700789372,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1080189,
+        "num": 1080189,
+        "word": "林心如说霍建华负责送女儿上学",
+        "onboard_time": 1700790752,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31577,
+        "num": 920499,
+        "word": "全世界只有两个国家拥有时速350公里的高铁",
+        "onboard_time": 1700725533,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913677,
+        "num": 913677,
+        "word": "一念关山定档",
+        "onboard_time": 1700791650,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 857317,
+        "num": 857317,
+        "word": "韩网友评价鬼怪过时",
+        "onboard_time": 1700788654,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 859415,
+        "num": 852884,
+        "word": "娜扎秒了",
+        "onboard_time": 1700739812,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 769027,
+        "num": 769027,
+        "word": "杨紫 华伦天奴",
+        "onboard_time": 1700745522,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 655556,
+        "num": 655556,
+        "word": "过期口红 唇炎",
+        "onboard_time": 1700783367,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 611256,
+        "num": 611256,
+        "word": "志愿军烈士遗骸安葬仪式",
+        "onboard_time": 1700790752,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384354,
+        "num": 384354,
+        "word": "发烧咳嗽老不好警惕支原体肺炎",
+        "onboard_time": 1700790931,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 573509,
+        "num": 370988,
+        "word": "港剧从来都不会年龄焦虑",
+        "onboard_time": 1700759840,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526037,
+        "num": 356550,
+        "word": "黑暗荣耀将翻拍",
+        "onboard_time": 1700791113,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395385,
+        "num": 344573,
+        "word": "吴秀波及其公司被强执4.66亿",
+        "onboard_time": 1700792733,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324672,
+        "num": 324672,
+        "word": "杭州中考指定跳绳一根78元",
+        "onboard_time": 1700789852,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 314463,
+        "num": 314463,
+        "word": "原来这个姿势小腿会弯",
+        "onboard_time": 1700784932,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 378257,
+        "num": 311248,
+        "word": "内地院线12月上映影片",
+        "onboard_time": 1700787753,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377001,
+        "num": 310217,
+        "word": "小S晒许雅钧准备的大餐",
+        "onboard_time": 1700782526,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306421,
+        "num": 306421,
+        "word": "头发这样洗一周只用洗一次头",
+        "onboard_time": 1700749960,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 302471,
+        "num": 302471,
+        "word": "迪丽热巴腰臀比 震撼",
+        "onboard_time": 1700739630,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 290018,
+        "num": 290018,
+        "word": "女性的生育痛苦需要被重视",
+        "onboard_time": 1700785054,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 804734,
+        "num": 289747,
+        "word": "河南一救护车多次载人跨市买毒品",
+        "onboard_time": 1700786193,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281900,
+        "num": 281900,
+        "word": "秦岚 作为同胞应该让您多挣钱的",
+        "onboard_time": 1700751700,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264939,
+        "num": 264939,
+        "word": "支原体肺炎会引发白肺吗",
+        "onboard_time": 1700792851,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245489,
+        "num": 245489,
+        "word": "别老用洗衣机快洗了",
+        "onboard_time": 1700782526,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 239617,
+        "num": 239617,
+        "word": "不存钱和存钱过的是两种人生",
+        "onboard_time": 1700787814,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249726,
+        "num": 239601,
+        "word": "迪丽热巴第二套 温婉大气",
+        "onboard_time": 1700749660,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239508,
+        "num": 239508,
+        "word": "谢危强制吻",
+        "onboard_time": 1700791714,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197471,
+        "num": 197471,
+        "word": "周震南父亲再被限消",
+        "onboard_time": 1700793149,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191376,
+        "num": 191376,
+        "word": "被女老师从父亲拳下救走的女孩也当了老师",
+        "onboard_time": 1700787932,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190251,
+        "num": 190251,
+        "word": "北京儿童医院门诊现状",
+        "onboard_time": 1700785652,
+        "rank": 29,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 192543,
+        "num": 189510,
+        "word": "爱乐之城重映定档",
+        "onboard_time": 1700791471,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191950,
+        "num": 188021,
+        "word": "小满生活 抠门丈夫",
+        "onboard_time": 1700792611,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186497,
+        "num": 186497,
+        "word": "一念关山",
+        "onboard_time": 1700788352,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183209,
+        "num": 183209,
+        "word": "VOGUE 赞助商",
+        "onboard_time": 1700787994,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 183295,
+        "num": 181680,
+        "word": "任如意宁远舟 势均力敌的爱情",
+        "onboard_time": 1700792192,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179618,
+        "num": 179618,
+        "word": "易烊千玺VOGUE盛典迷路",
+        "onboard_time": 1700788952,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177099,
+        "num": 177099,
+        "word": "在景德镇花15元买了一箱瓷碗",
+        "onboard_time": 1700787332,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170223,
+        "num": 170223,
+        "word": "荣耀新机对标苹果",
+        "onboard_time": 1700791952,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160220,
+        "num": 160220,
+        "word": "洗发水不要直接倒头皮上",
+        "onboard_time": 1700791353,
+        "rank": 38,
+        "category": "美妆,科学科普"
+      },
+      {
+        "raw_hot": 147261,
+        "num": 154816,
+        "word": "41岁孩子王和小区75个娃打成一片",
+        "onboard_time": 1700791234,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173086,
+        "num": 154354,
+        "word": "BABYMONSTER出道MV预告",
+        "onboard_time": 1700791113,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150508,
+        "num": 150508,
+        "word": "ShowMaker回应续约DK三年",
+        "onboard_time": 1700782224,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148258,
+        "num": 148258,
+        "word": "小儿推拿 咳嗽",
+        "onboard_time": 1700790871,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144474,
+        "num": 144474,
+        "word": "考研人数九年来首降",
+        "onboard_time": 1700785772,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140855,
+        "num": 140855,
+        "word": "以爱为营",
+        "onboard_time": 1700793211,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138366,
+        "num": 138366,
+        "word": "宁安如梦 文臣酒桌修罗场",
+        "onboard_time": 1700785652,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130258,
+        "num": 130258,
+        "word": "感冒期间这几种食物不要碰",
+        "onboard_time": 1700792012,
+        "rank": 46,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 125936,
+        "num": 125936,
+        "word": "20地物价下降",
+        "onboard_time": 1700788533,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117544,
+        "num": 125930,
+        "word": "丁程鑫 我们的第五年开始了",
+        "onboard_time": 1700785894,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116735,
+        "num": 125910,
+        "word": "过期护肤品使用指南",
+        "onboard_time": 1700793391,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
