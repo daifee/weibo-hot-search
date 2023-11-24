@@ -1,0 +1,410 @@
+{
+  "runTime": 1700829180797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058196,
+        "num": 1058196,
+        "word": "淘宝取消双12",
+        "onboard_time": 1700810977,
+        "rank": 0,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 934116,
+        "num": 934116,
+        "word": "清华北大 鹅腿阿姨之争",
+        "onboard_time": 1700826215,
+        "rank": 1,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 38162,
+        "num": 566593,
+        "word": "9招预防冬季呼吸道疾病",
+        "onboard_time": 1700814035,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989355,
+        "num": 562463,
+        "word": "吴莫愁退圈三年直言听歌想吐",
+        "onboard_time": 1700822254,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557078,
+        "num": 557078,
+        "word": "马云入局预制菜",
+        "onboard_time": 1700822735,
+        "rank": 4,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 1959014,
+        "num": 554592,
+        "word": "吴亦凡要先在中国坐完牢再被驱逐出境",
+        "onboard_time": 1700822375,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 543205,
+        "num": 543205,
+        "word": "免签",
+        "onboard_time": 1700812478,
+        "rank": 6,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 538894,
+        "num": 538894,
+        "word": "范丞丞关晓彤去王安宇外婆家吃饭",
+        "onboard_time": 1700823994,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437312,
+        "num": 437312,
+        "word": "车辆不能从烈士遗骸上方驶过",
+        "onboard_time": 1700813497,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340130,
+        "num": 340130,
+        "word": "他为什么依然单身开机",
+        "onboard_time": 1700826752,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 921681,
+        "num": 339940,
+        "word": "三毛 迪丽热巴造型",
+        "onboard_time": 1700823936,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 887197,
+        "num": 339581,
+        "word": "吴亦凡聚众淫乱系首要分子",
+        "onboard_time": 1700796640,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 336771,
+        "num": 336771,
+        "word": "张遮 祝哥哥新婚快乐",
+        "onboard_time": 1700824056,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319796,
+        "num": 319796,
+        "word": "何猷君 我最臭了",
+        "onboard_time": 1700817215,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681354,
+        "num": 316985,
+        "word": "吴亦凡亲属旁听二审宣判",
+        "onboard_time": 1700798445,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 313094,
+        "num": 313094,
+        "word": "郑秀晶红裙红毯造型",
+        "onboard_time": 1700828553,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306666,
+        "num": 306666,
+        "word": "郎朗 孩子怎么跟钢琴吵起来了",
+        "onboard_time": 1700821295,
+        "rank": 16,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 300039,
+        "num": 300039,
+        "word": "张嘉佳 没有张靓颖照顾我早好了",
+        "onboard_time": 1700820814,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292065,
+        "num": 292065,
+        "word": "王牌对王牌",
+        "onboard_time": 1700826877,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257280,
+        "num": 257280,
+        "word": "吃火锅晒照误露点餐码被人点43万菜",
+        "onboard_time": 1700814996,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290511,
+        "num": 256386,
+        "word": "林俊杰演唱会嘉宾 李健",
+        "onboard_time": 1700828676,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261686,
+        "num": 253679,
+        "word": "韩男子猥亵女儿10多年被妻子刺伤双眼",
+        "onboard_time": 1700819735,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248130,
+        "num": 248130,
+        "word": "张小斐亮片千金妆",
+        "onboard_time": 1700827655,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 218629,
+        "num": 218629,
+        "word": "八十万禁军林教头",
+        "onboard_time": 1700822432,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 211403,
+        "num": 215652,
+        "word": "涵艺爆料JDG续约Kanavi",
+        "onboard_time": 1700826094,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220327,
+        "num": 215482,
+        "word": "4岁小男孩忍着眼泪说妈妈不陪我玩",
+        "onboard_time": 1700828193,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215261,
+        "num": 215261,
+        "word": "时宴吃播",
+        "onboard_time": 1700828312,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215134,
+        "num": 215134,
+        "word": "新闻女王梁景仁婚内出轨",
+        "onboard_time": 1700823574,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211562,
+        "num": 211562,
+        "word": "乌尔善说演员要对自己的行为负责",
+        "onboard_time": 1700809957,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181977,
+        "num": 181977,
+        "word": "吴亦凡案二审维持原判",
+        "onboard_time": 1700795438,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 187109,
+        "num": 181841,
+        "word": "辛芷蕾原生家庭",
+        "onboard_time": 1700820456,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181680,
+        "num": 181680,
+        "word": "崔琳生子",
+        "onboard_time": 1700825795,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154495,
+        "num": 154495,
+        "word": "莱荣高铁施工建设有关问题调查情况",
+        "onboard_time": 1700828612,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144600,
+        "num": 144600,
+        "word": "3岁娃走丢4岁女童沿街吆喝帮找家",
+        "onboard_time": 1700816616,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139921,
+        "num": 139921,
+        "word": "如何逼出身体里的寒气",
+        "onboard_time": 1700821357,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153189,
+        "num": 136864,
+        "word": "魏哲鸣是考上了霸总的编制吗",
+        "onboard_time": 1700824235,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147555,
+        "num": 134126,
+        "word": "蔡依林新歌MV",
+        "onboard_time": 1700829031,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130366,
+        "num": 130366,
+        "word": "马来西亚 免签",
+        "onboard_time": 1700814878,
+        "rank": 37,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 130319,
+        "num": 130319,
+        "word": "郭台铭宣布退出台湾地区领导人选举",
+        "onboard_time": 1700810977,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124319,
+        "num": 124319,
+        "word": "中国手机均价已达3480元",
+        "onboard_time": 1700811277,
+        "rank": 39,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 136091,
+        "num": 124158,
+        "word": "刘宇宁客串小医仙慕仙鹤",
+        "onboard_time": 1700823097,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130763,
+        "num": 121555,
+        "word": "李马克新发型",
+        "onboard_time": 1700826153,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128321,
+        "num": 119994,
+        "word": "田嘉瑞 红不红都要保持初心",
+        "onboard_time": 1700823393,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126201,
+        "num": 119184,
+        "word": "熹贵妃安",
+        "onboard_time": 1700805218,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118006,
+        "num": 118006,
+        "word": "国考上岸有多难",
+        "onboard_time": 1700829153,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116973,
+        "num": 116973,
+        "word": "国考",
+        "onboard_time": 1700817997,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115874,
+        "num": 115874,
+        "word": "考研也会留下痕迹",
+        "onboard_time": 1700813917,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110368,
+        "num": 110368,
+        "word": "花80元吃一碗米其林面值得吗",
+        "onboard_time": 1700829153,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107448,
+        "num": 107448,
+        "word": "青龙电影节",
+        "onboard_time": 1700826695,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106603,
+        "num": 106603,
+        "word": "礼盒开箱",
+        "onboard_time": 1700828733,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
