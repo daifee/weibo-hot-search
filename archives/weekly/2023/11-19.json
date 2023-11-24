@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700804049101,
+  "endTime": 1700806988389,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 6439353,
-      "num": 787951,
+      "num": 2843680,
       "word": "吴亦凡亲属旁听二审宣判",
       "onboard_time": 1700798445,
       "rank": 10,
@@ -1315,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1012116,
+      "num": 1012116,
+      "word": "熹贵妃安",
+      "onboard_time": 1700805218,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 997001,
       "num": 471170,
       "word": "小S晒许雅钧准备的大餐",
@@ -1603,6 +1611,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 873469,
+      "num": 873469,
+      "word": "银川地震",
+      "onboard_time": 1700804619,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872004,
       "num": 872004,
       "word": "美团起诉四名摆拍网红损害骑手形象",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1700746720,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 818285,
+      "num": 818285,
+      "word": "朱令父亲坦言已经放下朱令案",
+      "onboard_time": 1700804738,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 818132,
@@ -2129,6 +2153,14 @@
       "onboard_time": 1700395237,
       "rank": 2,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 713979,
+      "num": 260115,
+      "word": "女子退货被拒4个月狂退277支口红",
+      "onboard_time": 1700803422,
+      "rank": 20,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 712174,
@@ -3467,14 +3499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 506821,
-      "num": 217486,
-      "word": "女子退货被拒4个月狂退277支口红",
-      "onboard_time": 1700803422,
-      "rank": 20,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 506575,
       "num": 506575,
       "word": "时宴被偷家",
@@ -3825,6 +3849,14 @@
       "onboard_time": 1700526756,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 469567,
+      "num": 257986,
+      "word": "月薪2万的年轻人只逛打折区",
+      "onboard_time": 1700802825,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 465671,
@@ -4697,14 +4729,6 @@
       "onboard_time": 1700554897,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 384191,
-      "num": 215835,
-      "word": "月薪2万的年轻人只逛打折区",
-      "onboard_time": 1700802825,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 383954,
@@ -5851,6 +5875,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 318331,
+      "num": 318331,
+      "word": "IVE官宣中国线下签售",
+      "onboard_time": 1700804499,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 318155,
       "num": 318155,
       "word": "宁安如梦 跨国跨物种发疯",
@@ -6009,6 +6041,14 @@
       "onboard_time": 1700714980,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 311044,
+      "num": 250823,
+      "word": "在故宫走丢真的有面子",
+      "onboard_time": 1700805581,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 310193,
@@ -6233,6 +6273,14 @@
       "onboard_time": 1700661579,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299849,
+      "num": 299849,
+      "word": "为什么热水倒进杯子会看见影子",
+      "onboard_time": 1700801327,
+      "rank": 16,
+      "category": "科学科普"
     },
     {
       "raw_hot": 299791,
@@ -6683,14 +6731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277516,
-      "num": 277516,
-      "word": "为什么热水倒进杯子会看见影子",
-      "onboard_time": 1700801327,
-      "rank": 16,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 277500,
       "num": 277500,
       "word": "RW战胜AG",
@@ -6825,6 +6865,14 @@
       "onboard_time": 1700562991,
       "rank": 25,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 271698,
+      "num": 264802,
+      "word": "白鹿王鹤棣看剧reaction",
+      "onboard_time": 1700803540,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 271322,
@@ -6977,6 +7025,14 @@
       "onboard_time": 1700400278,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265560,
+      "num": 265560,
+      "word": "名侦探学院致命头条案",
+      "onboard_time": 1700803480,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 265542,
@@ -7496,6 +7552,14 @@
       "word": "辛芷蕾不想和秦海璐住一间房",
       "onboard_time": 1700638837,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248898,
+      "num": 248898,
+      "word": "SHE本人听了都得愣一下",
+      "onboard_time": 1700803121,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -8099,14 +8163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 229418,
-      "num": 229418,
-      "word": "白鹿王鹤棣看剧reaction",
-      "onboard_time": 1700803540,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229390,
       "num": 229390,
       "word": "用开水烫餐具有没有必要",
@@ -8425,14 +8481,6 @@
       "onboard_time": 1700487937,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 219876,
-      "num": 213545,
-      "word": "SHE本人听了都得愣一下",
-      "onboard_time": 1700803121,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 219448,
@@ -8851,14 +8899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211775,
-      "num": 211775,
-      "word": "名侦探学院致命头条案",
-      "onboard_time": 1700803480,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211619,
       "num": 1395795,
       "word": "小鸟好像飞进了国画里的柿子树",
@@ -9049,6 +9089,14 @@
       "onboard_time": 1700375190,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207685,
+      "num": 207685,
+      "word": "尖叫之夜倒计时1天官宣阵容",
+      "onboard_time": 1700806299,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 207590,
@@ -10137,6 +10185,14 @@
       "onboard_time": 1700616094,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191581,
+      "num": 191581,
+      "word": "陈奕迅不要说话live现场",
+      "onboard_time": 1700806417,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 191498,
@@ -11715,6 +11771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161674,
+      "num": 161674,
+      "word": "如何快速识别无门店外卖",
+      "onboard_time": 1700805698,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161132,
       "num": 161132,
       "word": "沈阳抗美援朝烈士陵园",
@@ -11737,6 +11801,14 @@
       "onboard_time": 1700316692,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160569,
+      "num": 160569,
+      "word": "星愿今日上映",
+      "onboard_time": 1700806836,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 160562,
@@ -13531,6 +13603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124384,
+      "num": 124384,
+      "word": "刘诗诗舞剑变装",
+      "onboard_time": 1700804802,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124373,
       "num": 124373,
       "word": "陈奕迅上海演唱会",
@@ -13841,6 +13921,14 @@
       "onboard_time": 1700640276,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117100,
+      "num": 117100,
+      "word": "多种病原体混合感染怎么办",
+      "onboard_time": 1700806059,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116735,
