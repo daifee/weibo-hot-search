@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/25 00:22:42 ~ 2023/11/25 01:15:28
+本榜单时间：2023/11/25 00:22:42 ~ 2023/11/25 01:34:03
 </p>
 </blockquote>
 <p>
@@ -183,6 +183,12 @@ kpop正遭受中输减少带来的打击（热度：177893）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E7%A7%8D%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%90%93%E4%BA%BA%E4%BD%86%E6%97%A0%E9%9C%80%E6%B2%BB%E7%96%97%E7%9A%84%E7%97%85%23" target="weibo">
+10种听起来吓人但无需治疗的病（热度：154117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B2%A1%E9%80%89%E7%A7%A6%E6%B5%B7%E7%92%90%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 迪丽热巴没选秦海璐的原因（热度：145281）
 </a>
@@ -255,12 +261,6 @@ Crisp说自己应该会留队（热度：114293）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2310%E7%A7%8D%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%90%93%E4%BA%BA%E4%BD%86%E6%97%A0%E9%9C%80%E6%B2%BB%E7%96%97%E7%9A%84%E7%97%85%23" target="weibo">
-10种听起来吓人但无需治疗的病（热度：110340）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E5%87%8F%E8%82%A5%E6%93%8D%23" target="weibo">
 快乐减肥操（热度：108900）
 </a>
@@ -303,14 +303,14 @@ HLE官宣Peanut加入（热度：92633）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E8%84%91%E5%85%B6%E5%AE%9E%E6%98%AF%E6%9D%A5%E6%83%A9%E7%BD%9A%E6%9C%8B%E5%8F%8B%E7%9A%84%23" target="weibo">
-恋爱脑其实是来惩罚朋友的（热度：83536）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AF%85%E6%88%90%20%E5%A7%A8%E6%AF%8D%E7%AC%91%23" target="weibo">
+赵寅成 姨母笑（热度：85513）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AF%85%E6%88%90%20%E5%A7%A8%E6%AF%8D%E7%AC%91%23" target="weibo">
-赵寅成 姨母笑（热度：74206）
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E8%84%91%E5%85%B6%E5%AE%9E%E6%98%AF%E6%9D%A5%E6%83%A9%E7%BD%9A%E6%9C%8B%E5%8F%8B%E7%9A%84%23" target="weibo">
+恋爱脑其实是来惩罚朋友的（热度：83536）
 </a>
 </li>
 
@@ -353,6 +353,12 @@ HLE官宣Peanut加入（热度：92633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E6%89%B9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%AE%89%E8%91%AC%E7%A5%AD%E6%96%87%23" target="weibo">
 第十批志愿军烈士安葬祭文（热度：29914）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E7%9C%BC%E5%B0%B1%E5%96%9C%E6%AC%A2%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%96%9C%E6%AC%A2%E5%BE%88%E4%B9%85%23" target="weibo">
+第一眼就喜欢的人会喜欢很久（热度：22939）
 </a>
 </li>
 
