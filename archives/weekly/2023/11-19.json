@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700854450239,
+  "endTime": 1700857090888,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -16441,6 +16441,14 @@
       "onboard_time": 1700725712,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 73058,
+      "num": 34847,
+      "word": "官方通报消防员被妻子举报出轨",
+      "onboard_time": 1700854993,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71325,
