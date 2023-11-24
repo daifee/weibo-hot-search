@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700858072916,
+  "endTime": 1700860501188,
   "band_list": [
     {
       "raw_hot": 1148764,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124486,
+      "num": 34847,
+      "word": "官方通报消防员被妻子举报出轨",
+      "onboard_time": 1700854993,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122472,
       "num": 114920,
       "word": "林俊杰演唱会嘉宾 李健",
@@ -337,14 +345,6 @@
       "onboard_time": 1700841510,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 108094,
-      "num": 34847,
-      "word": "官方通报消防员被妻子举报出轨",
-      "onboard_time": 1700854993,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102928,
@@ -467,6 +467,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 38330,
+      "num": 38330,
+      "word": "支原体肺炎愈后老咳嗽可以喝这个汤",
+      "onboard_time": 1700857214,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34549,
       "num": 33076,
       "word": "范丞丞关晓彤去王安宇外婆家吃饭",
@@ -507,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20654,
+      "num": 20654,
+      "word": "蓝白合",
+      "onboard_time": 1700858414,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17718,
       "num": 17718,
       "word": "势不可挡",
@@ -515,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15700,
-      "num": 15700,
-      "word": "支原体肺炎愈后老咳嗽可以喝这个汤",
-      "onboard_time": 1700857214,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 16901,
+      "num": 16901,
+      "word": "知识以一种卑鄙的方式进入我的脑子",
+      "onboard_time": 1700859193,
+      "rank": 30,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
