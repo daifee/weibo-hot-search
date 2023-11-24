@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700850109691,
+  "endTime": 1700850885502,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -66379,6 +66379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28437,
+      "num": 32988,
+      "word": "i人生活再遭曝光",
+      "onboard_time": 1700848398,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28426,
       "num": 33018,
       "word": "宋雨琦新加坡演唱会大屏",
@@ -66489,14 +66497,6 @@
       "onboard_time": 1700074755,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 24298,
-      "num": 32988,
-      "word": "i人生活再遭曝光",
-      "onboard_time": 1700848398,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 24258,
