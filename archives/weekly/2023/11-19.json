@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700832074341,
+  "endTime": 1700832860749,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -553,6 +553,14 @@
       "onboard_time": 1700743902,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1855297,
+      "num": 352453,
+      "word": "吴亦凡被驱逐出境后十年内不准入境",
+      "onboard_time": 1700832334,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1845647,
@@ -1347,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1067985,
+      "num": 758330,
+      "word": "谢危亲了一晚上嘴皮子都破了吧",
+      "onboard_time": 1700830955,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1064663,
       "num": 1064663,
       "word": "因烂尾楼要账被打的亮亮丽君夫妇发声",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1700374410,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 978420,
-      "num": 758330,
-      "word": "谢危亲了一晚上嘴皮子都破了吧",
-      "onboard_time": 1700830955,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 978303,
@@ -2433,6 +2441,14 @@
       "onboard_time": 1700656237,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 674198,
+      "num": 674198,
+      "word": "不想读研想去景德镇捏泥巴",
+      "onboard_time": 1700831076,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 673079,
@@ -4604,7 +4620,7 @@
     },
     {
       "raw_hot": 421756,
-      "num": 270995,
+      "num": 274557,
       "word": "沈芷衣被逼洞房",
       "onboard_time": 1700829575,
       "rank": 30,
@@ -4665,14 +4681,6 @@
       "onboard_time": 1700450495,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 418641,
-      "num": 418641,
-      "word": "不想读研想去景德镇捏泥巴",
-      "onboard_time": 1700831076,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 418424,
@@ -5681,6 +5689,14 @@
       "onboard_time": 1700666496,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 348858,
+      "num": 348858,
+      "word": "老街中方人员尽快撤离",
+      "onboard_time": 1700830353,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 348200,
@@ -6875,20 +6891,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293942,
-      "num": 293942,
-      "word": "老街中方人员尽快撤离",
-      "onboard_time": 1700830353,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 293925,
       "num": 189875,
       "word": "姜雪宁 所图所愿皆落空",
       "onboard_time": 1700748221,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293778,
+      "num": 293778,
+      "word": "杨迪 内娱真瓜主另有其人",
+      "onboard_time": 1700832758,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 293703,
@@ -7209,6 +7225,14 @@
       "onboard_time": 1700562157,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277442,
+      "num": 274556,
+      "word": "感觉周五晚上要比周末更快乐",
+      "onboard_time": 1700830594,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 276729,
@@ -8523,14 +8547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237311,
-      "num": 237311,
-      "word": "感觉周五晚上要比周末更快乐",
-      "onboard_time": 1700830594,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237150,
       "num": 237150,
       "word": "秦岚王安宇机场接迪丽热巴",
@@ -8729,6 +8745,14 @@
       "onboard_time": 1700389546,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 230306,
+      "num": 230306,
+      "word": "董洁43岁的活动状态",
+      "onboard_time": 1700832092,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 230034,
@@ -10019,6 +10043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204474,
+      "num": 204474,
+      "word": "花80元吃一碗米其林面值得吗",
+      "onboard_time": 1700829153,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 204459,
       "num": 204459,
       "word": "运20将接运烈士遗骸归国",
@@ -10377,14 +10409,6 @@
       "onboard_time": 1700728415,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199713,
-      "num": 199713,
-      "word": "花80元吃一碗米其林面值得吗",
-      "onboard_time": 1700829153,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 199675,
@@ -12388,7 +12412,7 @@
     },
     {
       "raw_hot": 166699,
-      "num": 166699,
+      "num": 788220,
       "word": "第十批志愿军烈士安葬祭文",
       "onboard_time": 1700817997,
       "rank": 40,
@@ -12441,6 +12465,14 @@
       "onboard_time": 1700442873,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165520,
+      "num": 196332,
+      "word": "国考上岸有多难",
+      "onboard_time": 1700829153,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 165463,
@@ -12683,6 +12715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161232,
+      "num": 161232,
+      "word": "照明商店",
+      "onboard_time": 1700832454,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161132,
       "num": 161132,
       "word": "沈阳抗美援朝烈士陵园",
@@ -12801,14 +12841,6 @@
       "onboard_time": 1700627739,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158692,
-      "num": 196332,
-      "word": "国考上岸有多难",
-      "onboard_time": 1700829153,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 158662,
@@ -13915,6 +13947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138650,
+      "num": 138650,
+      "word": "王鸥新剧搜证梦回明侦",
+      "onboard_time": 1700832514,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138482,
       "num": 208651,
       "word": "AG战胜DRG",
@@ -14971,6 +15011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116464,
+      "num": 116464,
+      "word": "孕激素的威力",
+      "onboard_time": 1700832758,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116339,
       "num": 116339,
       "word": "刘宪华Perfect小提琴Cover",
@@ -15209,6 +15257,14 @@
       "onboard_time": 1700643158,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109624,
+      "num": 109624,
+      "word": "和双子座相处千万不要越界",
+      "onboard_time": 1700832573,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 109416,

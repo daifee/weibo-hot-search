@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/24 21:21:14
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/24 21:34:20
 </p>
 </blockquote>
 <p>
@@ -1589,6 +1589,12 @@ BLACKPINK两名成员与YG签订组合约（热度：1863870）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E9%80%9D%E4%B8%96%23" target="weibo">
 刘德华父亲逝世（热度：1861744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%E5%90%8E%E5%8D%81%E5%B9%B4%E5%86%85%E4%B8%8D%E5%87%86%E5%85%A5%E5%A2%83%23" target="weibo">
+吴亦凡被驱逐出境后十年内不准入境（热度：1855297）
 </a>
 </li>
 
@@ -4209,6 +4215,12 @@ TheShy 一血率（热度：1071656）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23" target="weibo">
+谢危亲了一晚上嘴皮子都破了吧（热度：1067985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%B8%8D%E7%88%B1%E6%88%91%23" target="weibo">
 他不爱我（热度：1067560）
 </a>
@@ -4745,12 +4757,6 @@ aespa回归（热度：1039919）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E7%94%A820%E5%B9%B4%E8%AF%81%E6%98%8E%E8%BE%A3%E6%9D%A1%E4%B8%8D%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%23" target="weibo">
 我爸用20年证明辣条不是垃圾食品（热度：978741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23" target="weibo">
-谢危亲了一晚上嘴皮子都破了吧（热度：978420）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ B太 破解大连海鲜餐厅加工店鬼秤（热度：821889）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E5%AD%9F%E7%BE%BD%E7%AB%A5%E5%85%BC%E8%81%8C%E6%8E%A5%E5%B9%BF%E5%91%8A%E4%B8%8D%E5%90%88%E8%A7%84%23" target="weibo">
 董明珠称孟羽童兼职接广告不合规（热度：817082）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E5%9B%BD%E5%9B%9B%E5%AD%90%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%B7%E5%8F%AC%E5%8A%9B%23" target="weibo">
-归国四子演唱会号召力（热度：817060）
 </a>
 </li>
 
