@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700847243493,
+  "endTime": 1700850109691,
   "band_list": [
     {
       "raw_hot": 1148764,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189792,
+      "num": 189792,
+      "word": "10种听起来吓人但无需治疗的病",
+      "onboard_time": 1700844265,
+      "rank": 18,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 180590,
       "num": 180590,
       "word": "清华北大 鹅腿阿姨之争",
@@ -225,14 +233,6 @@
       "onboard_time": 1700838877,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 154117,
-      "num": 120263,
-      "word": "10种听起来吓人但无需治疗的病",
-      "onboard_time": 1700844265,
-      "rank": 18,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 145281,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 85513,
-      "num": 59807,
+      "num": 79689,
       "word": "赵寅成 姨母笑",
       "onboard_time": 1700846060,
       "rank": 41,
@@ -443,12 +443,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 53740,
+      "num": 53740,
+      "word": "第一眼就喜欢的人会喜欢很久",
+      "onboard_time": 1700847199,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40287,
       "num": 59758,
       "word": "系蝴蝶结教程",
       "onboard_time": 1700845523,
       "rank": 48,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 34549,
+      "num": 33076,
+      "word": "范丞丞关晓彤去王安宇外婆家吃饭",
+      "onboard_time": 1700823994,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34210,
+      "num": 33058,
+      "word": "彪子常在河边走 啥时候是个头",
+      "onboard_time": 1700849717,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 29914,
@@ -459,10 +483,10 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22939,
-      "num": 42641,
-      "word": "第一眼就喜欢的人会喜欢很久",
-      "onboard_time": 1700847199,
+      "raw_hot": 24298,
+      "num": 32988,
+      "word": "i人生活再遭曝光",
+      "onboard_time": 1700848398,
       "rank": 49,
       "category": "情感"
     }
