@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700789691928,
+  "endTime": 1700792855150,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -449,6 +449,14 @@
       "onboard_time": 1700456616,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1936465,
+      "num": 1936465,
+      "word": "退出直播间的明星转向新风口",
+      "onboard_time": 1700789372,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1936301,
@@ -1283,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 989910,
+      "num": 989910,
+      "word": "林心如说霍建华负责送女儿上学",
+      "onboard_time": 1700790752,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 978303,
       "num": 978303,
       "word": "专家称人民币12月可能进入正式升值通道",
@@ -1755,6 +1771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 798411,
+      "num": 798411,
+      "word": "韩网友评价鬼怪过时",
+      "onboard_time": 1700788654,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 798360,
       "num": 738069,
       "word": "金莎男友 对我来说现在就在上班",
@@ -2147,6 +2171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 682704,
+      "num": 682704,
+      "word": "一念关山定档",
+      "onboard_time": 1700791650,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 682156,
       "num": 501474,
       "word": "易烊千玺机场",
@@ -2273,14 +2305,6 @@
       "onboard_time": 1700562514,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 651593,
-      "num": 444567,
-      "word": "退出直播间的明星转向新风口",
-      "onboard_time": 1700789372,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 651314,
@@ -2553,6 +2577,14 @@
       "onboard_time": 1700488236,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 608626,
+      "num": 608626,
+      "word": "志愿军烈士遗骸安葬仪式",
+      "onboard_time": 1700790752,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 604860,
@@ -3139,6 +3171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 522363,
+      "num": 470433,
+      "word": "黑暗荣耀将翻拍",
+      "onboard_time": 1700791113,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519099,
       "num": 519099,
       "word": "DYG 对得起谁",
@@ -3571,6 +3611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 481310,
+      "num": 481310,
+      "word": "发烧咳嗽老不好警惕支原体肺炎",
+      "onboard_time": 1700790931,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 480985,
       "num": 480985,
       "word": "安徽省高考状元参加脑力综艺",
@@ -3761,6 +3809,14 @@
       "onboard_time": 1700441616,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454973,
+      "num": 454973,
+      "word": "内地院线12月上映影片",
+      "onboard_time": 1700787753,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 453956,
@@ -4313,14 +4369,6 @@
       "onboard_time": 1700488536,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 400376,
-      "num": 400376,
-      "word": "内地院线12月上映影片",
-      "onboard_time": 1700787753,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 400223,
@@ -5819,14 +5867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307260,
-      "num": 307260,
-      "word": "韩网友评价鬼怪过时",
-      "onboard_time": 1700788654,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306815,
       "num": 306815,
       "word": "heerina嗑到了",
@@ -6137,6 +6177,14 @@
       "onboard_time": 1700631934,
       "rank": 22,
       "category": "时尚,财经"
+    },
+    {
+      "raw_hot": 293093,
+      "num": 293093,
+      "word": "杭州中考指定跳绳一根78元",
+      "onboard_time": 1700789852,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 292892,
@@ -8475,6 +8523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210681,
+      "num": 210681,
+      "word": "谢危强制吻",
+      "onboard_time": 1700791714,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210608,
       "num": 210608,
       "word": "杨幂晒雪景",
@@ -8955,6 +9011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 203013,
+      "num": 203013,
+      "word": "爱乐之城重映定档",
+      "onboard_time": 1700791471,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202866,
       "num": 202866,
       "word": "梅西为阿根廷球迷发声",
@@ -9097,6 +9161,14 @@
       "onboard_time": 1700319337,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200581,
+      "num": 200581,
+      "word": "任如意宁远舟 势均力敌的爱情",
+      "onboard_time": 1700792192,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 200454,
@@ -9273,6 +9345,14 @@
       "onboard_time": 1700399495,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197664,
+      "num": 197664,
+      "word": "易烊千玺VOGUE盛典迷路",
+      "onboard_time": 1700788952,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197541,
@@ -9627,6 +9707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191433,
+      "num": 191433,
+      "word": "小儿推拿 咳嗽",
+      "onboard_time": 1700790871,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191314,
       "num": 206359,
       "word": "湖人战胜火箭",
@@ -9761,14 +9849,6 @@
       "onboard_time": 1700451872,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 189026,
-      "num": 189026,
-      "word": "易烊千玺VOGUE盛典迷路",
-      "onboard_time": 1700788952,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189013,
@@ -9923,6 +10003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187062,
+      "num": 187062,
+      "word": "BABYMONSTER出道MV预告",
+      "onboard_time": 1700791113,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186973,
       "num": 186973,
       "word": "果敢同盟军即将进攻老街",
@@ -10009,6 +10097,14 @@
       "onboard_time": 1700384072,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186096,
+      "num": 186096,
+      "word": "洗发水不要直接倒头皮上",
+      "onboard_time": 1700791353,
+      "rank": 35,
+      "category": "美妆,科学科普"
     },
     {
       "raw_hot": 186050,
@@ -10963,6 +11059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164525,
+      "num": 164525,
+      "word": "小满生活 抠门丈夫",
+      "onboard_time": 1700792611,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164414,
       "num": 164414,
       "word": "龚俊蜀绣熊猫白西装",
@@ -11041,6 +11145,14 @@
       "onboard_time": 1700454519,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 163121,
+      "num": 163121,
+      "word": "感冒期间这几种食物不要碰",
+      "onboard_time": 1700792012,
+      "rank": 38,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 163069,
@@ -11187,6 +11299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159727,
+      "num": 159727,
+      "word": "荣耀新机对标苹果",
+      "onboard_time": 1700791952,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159451,
       "num": 161468,
       "word": "迪丽热巴花少5动图",
@@ -11225,6 +11345,14 @@
       "onboard_time": 1700627739,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158662,
+      "num": 158662,
+      "word": "41岁孩子王和小区75个娃打成一片",
+      "onboard_time": 1700791234,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158628,
@@ -11521,6 +11649,14 @@
       "onboard_time": 1700725774,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151948,
+      "num": 151948,
+      "word": "吴秀波及其公司被强执4.66亿",
+      "onboard_time": 1700792733,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 151688,
@@ -13401,6 +13537,14 @@
       "onboard_time": 1700667214,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111632,
+      "num": 111632,
+      "word": "苏绣非遗传承人绣出绝美星空",
+      "onboard_time": 1700791410,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110967,

@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700789691928,
+  "endTime": 1700792855150,
   "band_list": [
     {
       "raw_hot": 1959287,
@@ -9,6 +9,14 @@
       "onboard_time": 1700739812,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1936465,
+      "num": 1936465,
+      "word": "退出直播间的明星转向新风口",
+      "onboard_time": 1700789372,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1750115,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 989910,
+      "num": 989910,
+      "word": "林心如说霍建华负责送女儿上学",
+      "onboard_time": 1700790752,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 961762,
       "num": 456181,
       "word": "女性的生育痛苦需要被重视",
@@ -91,20 +107,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 798411,
+      "num": 798411,
+      "word": "韩网友评价鬼怪过时",
+      "onboard_time": 1700788654,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 682704,
+      "num": 682704,
+      "word": "一念关山定档",
+      "onboard_time": 1700791650,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 663104,
       "num": 663104,
       "word": "北京儿童医院门诊现状",
       "onboard_time": 1700785652,
       "rank": 7,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 651593,
-      "num": 444567,
-      "word": "退出直播间的明星转向新风口",
-      "onboard_time": 1700789372,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 624094,
@@ -115,12 +139,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 608626,
+      "num": 608626,
+      "word": "志愿军烈士遗骸安葬仪式",
+      "onboard_time": 1700790752,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 538480,
       "num": 538480,
       "word": "刘德华父亲逝世",
       "onboard_time": 1700743902,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 522363,
+      "num": 470433,
+      "word": "黑暗荣耀将翻拍",
+      "onboard_time": 1700791113,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 495763,
@@ -145,6 +185,22 @@
       "onboard_time": 1700783909,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 481310,
+      "num": 481310,
+      "word": "发烧咳嗽老不好警惕支原体肺炎",
+      "onboard_time": 1700790931,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 454973,
+      "num": 454973,
+      "word": "内地院线12月上映影片",
+      "onboard_time": 1700787753,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 438572,
@@ -177,14 +233,6 @@
       "onboard_time": 1700746720,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 400376,
-      "num": 400376,
-      "word": "内地院线12月上映影片",
-      "onboard_time": 1700787753,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 395200,
@@ -243,20 +291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307260,
-      "num": 307260,
-      "word": "韩网友评价鬼怪过时",
-      "onboard_time": 1700788654,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 295538,
       "num": 295538,
       "word": "不存钱和存钱过的是两种人生",
       "onboard_time": 1700787814,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 293093,
+      "num": 293093,
+      "word": "杭州中考指定跳绳一根78元",
+      "onboard_time": 1700789852,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 283792,
@@ -355,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210681,
+      "num": 210681,
+      "word": "谢危强制吻",
+      "onboard_time": 1700791714,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208269,
       "num": 134056,
       "word": "陈思诚是谢晋的学生",
@@ -387,6 +443,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203013,
+      "num": 203013,
+      "word": "爱乐之城重映定档",
+      "onboard_time": 1700791471,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 200581,
+      "num": 200581,
+      "word": "任如意宁远舟 势均力敌的爱情",
+      "onboard_time": 1700792192,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199820,
       "num": 202266,
       "word": "感受到了中国文化的暴力输出",
@@ -403,11 +475,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197664,
+      "num": 197664,
+      "word": "易烊千玺VOGUE盛典迷路",
+      "onboard_time": 1700788952,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 195750,
       "num": 306589,
       "word": "孕妇感染支原体会影响胎儿吗",
       "onboard_time": 1700774953,
       "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191433,
+      "num": 191433,
+      "word": "小儿推拿 咳嗽",
+      "onboard_time": 1700790871,
+      "rank": 33,
       "category": "健康医疗"
     },
     {
@@ -417,14 +505,6 @@
       "onboard_time": 1700785652,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 189026,
-      "num": 189026,
-      "word": "易烊千玺VOGUE盛典迷路",
-      "onboard_time": 1700788952,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188879,
@@ -449,6 +529,22 @@
       "onboard_time": 1700782045,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187062,
+      "num": 187062,
+      "word": "BABYMONSTER出道MV预告",
+      "onboard_time": 1700791113,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 186096,
+      "num": 186096,
+      "word": "洗发水不要直接倒头皮上",
+      "onboard_time": 1700791353,
+      "rank": 35,
+      "category": "美妆,科学科普"
     },
     {
       "raw_hot": 184846,
@@ -507,12 +603,44 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 164525,
+      "num": 164525,
+      "word": "小满生活 抠门丈夫",
+      "onboard_time": 1700792611,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163121,
+      "num": 163121,
+      "word": "感冒期间这几种食物不要碰",
+      "onboard_time": 1700792012,
+      "rank": 38,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 161705,
       "num": 148214,
       "word": "叶晞月替薛姝手写道歉信",
       "onboard_time": 1700757804,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159727,
+      "num": 159727,
+      "word": "荣耀新机对标苹果",
+      "onboard_time": 1700791952,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 158662,
+      "num": 158662,
+      "word": "41岁孩子王和小区75个娃打成一片",
+      "onboard_time": 1700791234,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156227,
@@ -537,6 +665,14 @@
       "onboard_time": 1700785351,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151948,
+      "num": 151948,
+      "word": "吴秀波及其公司被强执4.66亿",
+      "onboard_time": 1700792733,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 149651,
@@ -665,6 +801,14 @@
       "onboard_time": 1700746963,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111632,
+      "num": 111632,
+      "word": "苏绣非遗传承人绣出绝美星空",
+      "onboard_time": 1700791410,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111462,
