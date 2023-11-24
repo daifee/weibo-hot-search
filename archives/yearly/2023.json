@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700795905701,
+  "endTime": 1700796889269,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1467,6 +1467,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 8819755,
+      "num": 8819755,
+      "word": "吴亦凡案二审维持原判",
+      "onboard_time": 1700795438,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8806920,
       "num": 8806920,
       "word": "周杰伦演唱会受伤",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1700542720,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6766838,
-      "num": 6766838,
-      "word": "吴艳妮成绩被取消",
-      "onboard_time": 1696168425,
-      "rank": 1,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

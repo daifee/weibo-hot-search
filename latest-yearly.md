@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/24 11:18:25
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/24 11:34:49
 </p>
 </blockquote>
 <p>
@@ -1113,6 +1113,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23" target="weibo">
+吴亦凡案二审维持原判（热度：8819755）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%97%E4%BC%A4%23" target="weibo">
 周杰伦演唱会受伤（热度：8806920）
 </a>
@@ -1805,12 +1811,6 @@ EDG官宣签约Uzi（热度：6842168）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%23" target="weibo">
 白敬亭工作室辟谣（热度：6800962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%88%90%E7%BB%A9%E8%A2%AB%E5%8F%96%E6%B6%88%23" target="weibo">
-吴艳妮成绩被取消（热度：6766838）
 </a>
 </li>
 

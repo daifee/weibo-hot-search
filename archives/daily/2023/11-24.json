@@ -1,13 +1,29 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700795905701,
+  "endTime": 1700796889269,
   "band_list": [
     {
-      "raw_hot": 4400230,
-      "num": 4400230,
+      "raw_hot": 8819755,
+      "num": 8819755,
       "word": "吴亦凡案二审维持原判",
       "onboard_time": 1700795438,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3822399,
+      "num": 1301172,
+      "word": "吴亦凡上诉被驳回",
+      "onboard_time": 1700795676,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3561660,
+      "num": 362115,
+      "word": "吴亦凡聚众淫乱系首要分子",
+      "onboard_time": 1700796640,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -43,6 +59,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1336066,
+      "num": 1336066,
+      "word": "晴儿归来已是皇后",
+      "onboard_time": 1700796101,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1300238,
+      "num": 1300238,
+      "word": "苏有朋被金融诈骗",
+      "onboard_time": 1700795742,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1251945,
       "num": 1251945,
       "word": "章凝 张宇",
@@ -57,14 +89,6 @@
       "onboard_time": 1700786193,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1230243,
-      "num": 352326,
-      "word": "吴亦凡上诉被驳回",
-      "onboard_time": 1700795676,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1080189,
@@ -145,6 +169,14 @@
       "onboard_time": 1700745522,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 718344,
+      "num": 718344,
+      "word": "清华铊中毒案受害者朱令现状",
+      "onboard_time": 1700794832,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663104,
@@ -235,14 +267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 453122,
-      "num": 342851,
-      "word": "清华铊中毒案受害者朱令现状",
-      "onboard_time": 1700794832,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438572,
       "num": 342771,
       "word": "倪妮 花神降临",
@@ -281,6 +305,14 @@
       "onboard_time": 1700787332,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 374076,
+      "num": 254332,
+      "word": "春楠给唐嫣化的繁花妆",
+      "onboard_time": 1700795377,
+      "rank": 31,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 362050,
@@ -347,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303749,
+      "num": 303749,
+      "word": "赵少康",
+      "onboard_time": 1700796222,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 303337,
       "num": 267696,
       "word": "刘诗诗最有cp感的男主",
@@ -369,6 +409,14 @@
       "onboard_time": 1700787814,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290691,
+      "num": 290691,
+      "word": "A股",
+      "onboard_time": 1700795498,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 290521,
@@ -427,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254332,
-      "num": 254332,
-      "word": "春楠给唐嫣化的繁花妆",
-      "onboard_time": 1700795377,
-      "rank": 31,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 247903,
       "num": 247903,
       "word": "男子发嫁女短信被屏蔽致多位亲友未能出席",
@@ -473,6 +513,14 @@
       "onboard_time": 1700787932,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 235796,
+      "num": 235796,
+      "word": "排肝毒 抬腿平躺15分钟",
+      "onboard_time": 1700795920,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 232295,
@@ -563,14 +611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203830,
-      "num": 203830,
-      "word": "苏有朋被金融诈骗",
-      "onboard_time": 1700795742,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203013,
       "num": 203013,
       "word": "爱乐之城重映定档",
@@ -595,14 +635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198940,
-      "num": 198940,
-      "word": "A股",
-      "onboard_time": 1700795498,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 197893,
       "num": 133840,
       "word": "张凌赫回应谢危偷亲",
@@ -625,6 +657,14 @@
       "onboard_time": 1700774953,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191954,
+      "num": 158848,
+      "word": "似火流年张鹏吸毒",
+      "onboard_time": 1700795920,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 191950,
@@ -739,7 +779,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 173678,
+      "raw_hot": 174061,
       "num": 173678,
       "word": "李健的爱情观真的好正",
       "onboard_time": 1700795192,
@@ -787,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160325,
+      "num": 268984,
+      "word": "华为无人代客泊车视频曝光",
+      "onboard_time": 1700794354,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158662,
       "num": 158662,
       "word": "41岁孩子王和小区75个娃打成一片",
@@ -825,14 +873,6 @@
       "onboard_time": 1700784571,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145984,
-      "num": 268984,
-      "word": "华为无人代客泊车视频曝光",
-      "onboard_time": 1700794354,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 142916,
@@ -897,6 +937,14 @@
       "onboard_time": 1700785230,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 122997,
+      "num": 135944,
+      "word": "拯救油头的洗发方法",
+      "onboard_time": 1700796403,
+      "rank": 48,
+      "category": "美妆,科学科普"
     },
     {
       "raw_hot": 119221,
@@ -1044,7 +1092,7 @@
     },
     {
       "raw_hot": 60731,
-      "num": 1266419,
+      "num": 1301887,
       "word": "全世界只有两个国家拥有时速350公里的高铁",
       "onboard_time": 1700725533,
       "rank": 2,

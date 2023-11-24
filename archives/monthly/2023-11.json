@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700795905701,
+  "endTime": 1700796889269,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -105,6 +105,14 @@
       "onboard_time": 1699179827,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8819755,
+      "num": 8819755,
+      "word": "吴亦凡案二审维持原判",
+      "onboard_time": 1700795438,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 8622929,
@@ -291,14 +299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 4400230,
-      "num": 4400230,
-      "word": "吴亦凡案二审维持原判",
-      "onboard_time": 1700795438,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 4359187,
       "num": 524419,
       "word": "仲尼死亡原因",
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3822399,
+      "num": 1301172,
+      "word": "吴亦凡上诉被驳回",
+      "onboard_time": 1700795676,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3794345,
       "num": 3794345,
       "word": "中山二院辟谣乳腺外科团队学生患癌",
@@ -393,6 +401,14 @@
       "onboard_time": 1699784970,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3561660,
+      "num": 362115,
+      "word": "吴亦凡聚众淫乱系首要分子",
+      "onboard_time": 1700796640,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3533666,
@@ -3971,6 +3987,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1336066,
+      "num": 1336066,
+      "word": "晴儿归来已是皇后",
+      "onboard_time": 1700796101,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1335805,
       "num": 1335805,
       "word": "儿子写字慢妈妈申请换教材学校同意了",
@@ -4129,6 +4153,14 @@
       "onboard_time": 1700057138,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1300238,
+      "num": 1300238,
+      "word": "苏有朋被金融诈骗",
+      "onboard_time": 1700795742,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 1295396,
@@ -4513,14 +4545,6 @@
       "onboard_time": 1699174532,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1230243,
-      "num": 352326,
-      "word": "吴亦凡上诉被驳回",
-      "onboard_time": 1700795676,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1229735,
@@ -9632,6 +9656,14 @@
       "word": "体育馆遇难者家属称遭人施压签协议",
       "onboard_time": 1699515153,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718344,
+      "num": 718344,
+      "word": "清华铊中毒案受害者朱令现状",
+      "onboard_time": 1700794832,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -17251,14 +17283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 453122,
-      "num": 342851,
-      "word": "清华铊中毒案受害者朱令现状",
-      "onboard_time": 1700794832,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 452799,
       "num": 342537,
       "word": "魏大勋刘昊然李现坐一桌",
@@ -21433,6 +21457,14 @@
       "onboard_time": 1700108801,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 374076,
+      "num": 254332,
+      "word": "春楠给唐嫣化的繁花妆",
+      "onboard_time": 1700795377,
+      "rank": 31,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 373974,
@@ -26219,6 +26251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303749,
+      "num": 303749,
+      "word": "赵少康",
+      "onboard_time": 1700796222,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 303689,
       "num": 207900,
       "word": "刘诗诗hi6逆应援",
@@ -27361,6 +27401,14 @@
       "onboard_time": 1700609365,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290691,
+      "num": 290691,
+      "word": "A股",
+      "onboard_time": 1698844656,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 290557,
@@ -29089,14 +29137,6 @@
       "onboard_time": 1699435834,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272362,
-      "num": 272362,
-      "word": "A股",
-      "onboard_time": 1698844656,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 272353,
@@ -31025,14 +31065,6 @@
       "onboard_time": 1700037156,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254332,
-      "num": 254332,
-      "word": "春楠给唐嫣化的繁花妆",
-      "onboard_time": 1700795377,
-      "rank": 31,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 254248,
@@ -33441,6 +33473,14 @@
       "onboard_time": 1699146571,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 235796,
+      "num": 235796,
+      "word": "排肝毒 抬腿平躺15分钟",
+      "onboard_time": 1700795920,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 235792,
@@ -38995,14 +39035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203830,
-      "num": 203830,
-      "word": "苏有朋被金融诈骗",
-      "onboard_time": 1700795742,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203759,
       "num": 203759,
       "word": "胡彦斌 以后要写简单一点的歌",
@@ -41985,6 +42017,14 @@
       "onboard_time": 1699326931,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191954,
+      "num": 158848,
+      "word": "似火流年张鹏吸毒",
+      "onboard_time": 1700795920,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 191950,
@@ -45995,6 +46035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174061,
+      "num": 173678,
+      "word": "李健的爱情观真的好正",
+      "onboard_time": 1700795192,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173876,
       "num": 173876,
       "word": "徐冬冬尹子维首个合体综艺",
@@ -46033,14 +46081,6 @@
       "onboard_time": 1700714800,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173678,
-      "num": 173678,
-      "word": "李健的爱情观真的好正",
-      "onboard_time": 1700795192,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 173662,
@@ -48833,6 +48873,14 @@
       "onboard_time": 1700651617,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160325,
+      "num": 268984,
+      "word": "华为无人代客泊车视频曝光",
+      "onboard_time": 1700794354,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 160233,
@@ -51793,14 +51841,6 @@
       "onboard_time": 1700467235,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145984,
-      "num": 268984,
-      "word": "华为无人代客泊车视频曝光",
-      "onboard_time": 1700794354,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 145981,
@@ -56745,6 +56785,14 @@
       "onboard_time": 1700212231,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122997,
+      "num": 135944,
+      "word": "拯救油头的洗发方法",
+      "onboard_time": 1700796403,
+      "rank": 48,
+      "category": "美妆,科学科普"
     },
     {
       "raw_hot": 122947,
