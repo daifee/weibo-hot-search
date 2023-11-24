@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700840064732,
+  "endTime": 1700842962248,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -5729,6 +5729,14 @@
       "onboard_time": 1700386661,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1053559,
+      "num": 495747,
+      "word": "崔雪莉曾说做韩流偶像最惨",
+      "onboard_time": 1700839714,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1051466,
@@ -16051,6 +16059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492069,
+      "num": 492069,
+      "word": "赵昭仪发5秒 秦岚回25秒",
+      "onboard_time": 1700838696,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 492068,
       "num": 492068,
       "word": "披荆斩棘排名",
@@ -16289,14 +16305,6 @@
       "onboard_time": 1700740774,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 485910,
-      "num": 257325,
-      "word": "赵昭仪发5秒 秦岚回25秒",
-      "onboard_time": 1700838696,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 485456,
@@ -23811,6 +23819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 347445,
+      "num": 347445,
+      "word": "4AM被淘汰",
+      "onboard_time": 1700840671,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 347078,
       "num": 347078,
       "word": "代号鸢左慈抄袭遇见逆水寒无情",
@@ -24155,14 +24171,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 342675,
-      "num": 213375,
-      "word": "崔雪莉曾说做韩流偶像最惨",
-      "onboard_time": 1700839714,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 342417,
       "num": 342417,
       "word": "杨紫泰国游玩plog",
@@ -24320,6 +24328,14 @@
       "word": "张远问想看林俊杰撩开刘海吗",
       "onboard_time": 1699759170,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 340148,
+      "num": 260464,
+      "word": "小鹿拍戏亲过白宇十多次",
+      "onboard_time": 1700838514,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -26065,14 +26081,6 @@
       "onboard_time": 1700751338,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 315959,
-      "num": 175864,
-      "word": "小鹿拍戏亲过白宇十多次",
-      "onboard_time": 1700838514,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 315947,
@@ -30633,6 +30641,14 @@
       "onboard_time": 1700400278,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265606,
+      "num": 265606,
+      "word": "正确的煮面方法",
+      "onboard_time": 1700838336,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 265566,
@@ -36923,14 +36939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 219658,
-      "num": 219658,
-      "word": "正确的煮面方法",
-      "onboard_time": 1700838336,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 219648,
       "num": 219648,
       "word": "为什么奶茶圈都在推三品管",
@@ -38747,6 +38755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209863,
+      "num": 139319,
+      "word": "小说里的总裁vs现实里的总裁",
+      "onboard_time": 1700840613,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209824,
       "num": 209824,
       "word": "NewJeans BBMAs舞台",
@@ -39217,6 +39233,14 @@
       "onboard_time": 1700102435,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207711,
+      "num": 136245,
+      "word": "钟楚曦到底在跟谁聊天",
+      "onboard_time": 1700840073,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 207698,
@@ -54299,6 +54323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142404,
+      "num": 142404,
+      "word": "同宿舍3人全部当选院士",
+      "onboard_time": 1700840192,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142220,
       "num": 142220,
       "word": "冰岛近期或有较大规模地震和火山喷发",
@@ -56683,6 +56715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131851,
+      "num": 87147,
+      "word": "时代少年团演唱会后台跳舞",
+      "onboard_time": 1700842948,
+      "rank": 41,
+      "category": "演出,幽默"
+    },
+    {
       "raw_hot": 131842,
       "num": 131213,
       "word": "高校开放共享厨房学生免费使用",
@@ -56769,6 +56809,14 @@
       "onboard_time": 1699100141,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131331,
+      "num": 87099,
+      "word": "新闻女王 神之预判",
+      "onboard_time": 1700842590,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 131324,
@@ -56921,6 +56969,14 @@
       "onboard_time": 1700436206,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130664,
+      "num": 130664,
+      "word": "儿童肺炎支原体感染4个阶段",
+      "onboard_time": 1700841031,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130615,
@@ -62931,6 +62987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90779,
+      "num": 90779,
+      "word": "快乐减肥操",
+      "onboard_time": 1700520560,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 90756,
       "num": 133018,
       "word": "黄凯你的精彩人生才刚刚开始",
@@ -65865,14 +65929,6 @@
       "onboard_time": 1699968332,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38670,
-      "num": 43138,
-      "word": "快乐减肥操",
-      "onboard_time": 1700520560,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 38495,

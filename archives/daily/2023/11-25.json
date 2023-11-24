@@ -1,0 +1,411 @@
+{
+  "startTime": 1700842962248,
+  "endTime": 1700842962248,
+  "band_list": [
+    {
+      "raw_hot": 1148764,
+      "num": 461503,
+      "word": "吴亦凡要先在中国坐完牢再被驱逐出境",
+      "onboard_time": 1700822375,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1053559,
+      "num": 495747,
+      "word": "崔雪莉曾说做韩流偶像最惨",
+      "onboard_time": 1700839714,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 686426,
+      "num": 686426,
+      "word": "郎朗证明孩子是在和钢琴友好交流",
+      "onboard_time": 1700835997,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 519633,
+      "num": 519633,
+      "word": "淘宝取消双12",
+      "onboard_time": 1700810977,
+      "rank": 1,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 492069,
+      "num": 492069,
+      "word": "赵昭仪发5秒 秦岚回25秒",
+      "onboard_time": 1700838696,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 479075,
+      "num": 263488,
+      "word": "吴亦凡被驱逐出境后十年内不准入境",
+      "onboard_time": 1700832334,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 396906,
+      "num": 254966,
+      "word": "吴亦凡亲属旁听二审宣判",
+      "onboard_time": 1700798445,
+      "rank": 13,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 389530,
+      "num": 389530,
+      "word": "谢危亲了一晚上嘴皮子都破了吧",
+      "onboard_time": 1700830955,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 347445,
+      "num": 347445,
+      "word": "4AM被淘汰",
+      "onboard_time": 1700840671,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 342259,
+      "num": 342259,
+      "word": "杨迪 内娱真瓜主另有其人",
+      "onboard_time": 1700832758,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 340148,
+      "num": 260464,
+      "word": "小鹿拍戏亲过白宇十多次",
+      "onboard_time": 1700838514,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 316005,
+      "num": 258928,
+      "word": "张小斐 全世界淋雨我在吃香蕉",
+      "onboard_time": 1700837315,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 280918,
+      "num": 251374,
+      "word": "文慧心郑书意 新闻人穿搭",
+      "onboard_time": 1700833538,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275796,
+      "num": 247619,
+      "word": "吴莫愁退圈三年直言听歌想吐",
+      "onboard_time": 1700822254,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265606,
+      "num": 265606,
+      "word": "正确的煮面方法",
+      "onboard_time": 1700838336,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 246090,
+      "num": 246090,
+      "word": "乌尔善剧透封神二三剧情",
+      "onboard_time": 1700835935,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 215247,
+      "num": 215247,
+      "word": "吴亦凡聚众淫乱系首要分子",
+      "onboard_time": 1700796640,
+      "rank": 17,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 209863,
+      "num": 139319,
+      "word": "小说里的总裁vs现实里的总裁",
+      "onboard_time": 1700840613,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207711,
+      "num": 136245,
+      "word": "钟楚曦到底在跟谁聊天",
+      "onboard_time": 1700840073,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201436,
+      "num": 136037,
+      "word": "彭昱畅曾被人冷暴力气哭",
+      "onboard_time": 1700839297,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196213,
+      "num": 130886,
+      "word": "JYP出现时台下表情",
+      "onboard_time": 1700836118,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 196030,
+      "num": 130788,
+      "word": "刘涛再演霓凰郡主",
+      "onboard_time": 1700838397,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180590,
+      "num": 180590,
+      "word": "清华北大 鹅腿阿姨之争",
+      "onboard_time": 1700826215,
+      "rank": 18,
+      "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 177893,
+      "num": 113078,
+      "word": "kpop正遭受中输减少带来的打击",
+      "onboard_time": 1700834315,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 154555,
+      "num": 111032,
+      "word": "王安宇拍照技术",
+      "onboard_time": 1700839714,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154431,
+      "num": 107161,
+      "word": "郑裕美青龙影后",
+      "onboard_time": 1700838877,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145281,
+      "num": 104524,
+      "word": "迪丽热巴没选秦海璐的原因",
+      "onboard_time": 1700835277,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142404,
+      "num": 142404,
+      "word": "同宿舍3人全部当选院士",
+      "onboard_time": 1700840192,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141974,
+      "num": 101155,
+      "word": "林允儿造型",
+      "onboard_time": 1700835816,
+      "rank": 35,
+      "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 135935,
+      "num": 87268,
+      "word": "李彩领因状态不佳暂停活动",
+      "onboard_time": 1700836536,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132539,
+      "num": 132539,
+      "word": "韩男子猥亵女儿10多年被妻子刺伤双眼",
+      "onboard_time": 1700819735,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131851,
+      "num": 87147,
+      "word": "时代少年团演唱会后台跳舞",
+      "onboard_time": 1700842948,
+      "rank": 41,
+      "category": "演出,幽默"
+    },
+    {
+      "raw_hot": 131331,
+      "num": 87099,
+      "word": "新闻女王 神之预判",
+      "onboard_time": 1700842590,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131008,
+      "num": 131008,
+      "word": "孕激素的威力",
+      "onboard_time": 1700832758,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 130664,
+      "num": 130664,
+      "word": "儿童肺炎支原体感染4个阶段",
+      "onboard_time": 1700841031,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129525,
+      "num": 86953,
+      "word": "沈芷衣被逼洞房",
+      "onboard_time": 1700829575,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122472,
+      "num": 86880,
+      "word": "林俊杰演唱会嘉宾 李健",
+      "onboard_time": 1700828676,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 114853,
+      "num": 114853,
+      "word": "和双子座相处千万不要越界",
+      "onboard_time": 1700832573,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 114293,
+      "num": 114293,
+      "word": "Crisp说自己应该会留队",
+      "onboard_time": 1700837196,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 102928,
+      "num": 102928,
+      "word": "更适合脆皮年轻人的八段锦教程",
+      "onboard_time": 1700837552,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 97033,
+      "num": 97033,
+      "word": "哪个正经小猫这样坐",
+      "onboard_time": 1700839593,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92633,
+      "num": 92633,
+      "word": "HLE官宣Peanut加入",
+      "onboard_time": 1700833655,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 90779,
+      "num": 90779,
+      "word": "快乐减肥操",
+      "onboard_time": 1700841510,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 87298,
+      "num": 87298,
+      "word": "马云入局预制菜",
+      "onboard_time": 1700822735,
+      "rank": 39,
+      "category": "财经,美食"
+    },
+    {
+      "raw_hot": 83536,
+      "num": 86843,
+      "word": "恋爱脑其实是来惩罚朋友的",
+      "onboard_time": 1700835034,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70098,
+      "num": 86757,
+      "word": "感觉周五晚上要比周末更快乐",
+      "onboard_time": 1700830594,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 69071,
+      "num": 86678,
+      "word": "不想读研想去景德镇捏泥巴",
+      "onboard_time": 1700831076,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 65878,
+      "num": 86553,
+      "word": "故宫银杏和红墙黄瓦完美适配",
+      "onboard_time": 1700832934,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54343,
+      "num": 86458,
+      "word": "原来萝卜花是甩出来的",
+      "onboard_time": 1700837974,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 28454,
+      "num": 495785,
+      "word": "第十批志愿军烈士安葬祭文",
+      "onboard_time": 1700817997,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#英雄回家#"
+    }
+  ]
+}
