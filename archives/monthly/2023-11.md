@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/24 18:36:39
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/24 19:15:17
 </p>
 </blockquote>
 <p>
@@ -461,6 +461,12 @@ Tarzan 皇子（热度：3282577）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%90%B8%E8%A1%80%E9%AC%BC%E7%97%85%E6%AF%92%23" target="weibo">
 美国首次发现吸血鬼病毒（热度：3053487）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A6%81%E5%85%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9D%90%E5%AE%8C%E7%89%A2%E5%86%8D%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%23" target="weibo">
+吴亦凡要先在中国坐完牢再被驱逐出境（热度：3020587）
 </a>
 </li>
 
@@ -3861,6 +3867,12 @@ iG官宣新阵容（热度：1158154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23" target="weibo">
+吴莫愁退圈三年直言听歌想吐（热度：1134489）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E6%88%91%E8%80%81%E5%A9%86%E6%80%BB%E6%98%AF%E6%83%B3%E6%9D%80%E6%88%91%E8%BF%99%E4%BB%B6%E5%B0%8F%E4%BA%8B%23" target="weibo">
 关于我老婆总是想杀我这件小事（热度：1134123）
 </a>
@@ -5999,18 +6011,6 @@ B太 破解大连海鲜餐厅加工店鬼秤（热度：821889）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%97%B8%E8%9F%B9%E8%B7%8C%E7%A0%B410%E5%85%83%23" target="weibo">
 大闸蟹跌破10元（热度：816736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%80%E6%AC%BE%23" target="weibo">
-退款（热度：816499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Tabe%E5%93%AD%E4%BA%86%23" target="weibo">
-Tabe哭了（热度：816314）
 </a>
 </li>
 
