@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700821184365,
+  "endTime": 1700822199884,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -1203,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1138562,
+      "num": 1138562,
+      "word": "辛芷蕾原生家庭",
+      "onboard_time": 1700820456,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1127525,
       "num": 279068,
       "word": "漫画胸内衣",
@@ -1969,6 +1977,14 @@
       "onboard_time": 1700736274,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 793636,
+      "num": 793636,
+      "word": "刷牙后不建议立即漱口",
+      "onboard_time": 1700819553,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 787270,
@@ -2851,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 598902,
+      "num": 598902,
+      "word": "张嘉佳 没有张靓颖照顾我早好了",
+      "onboard_time": 1700820814,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 597779,
       "num": 597779,
       "word": "韩方中止朝韩军事协议部分条款效力",
@@ -3163,6 +3187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 560090,
+      "num": 334758,
+      "word": "韩男子猥亵女儿10多年被妻子刺伤双眼",
+      "onboard_time": 1700819735,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559735,
       "num": 559735,
       "word": "今年呼吸道疾病传染性更强了吗",
@@ -3265,14 +3297,6 @@
       "onboard_time": 1700622212,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 544901,
-      "num": 544901,
-      "word": "刷牙后不建议立即漱口",
-      "onboard_time": 1700819553,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 544648,
@@ -3411,14 +3435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 533712,
-      "num": 533712,
-      "word": "辛芷蕾原生家庭",
-      "onboard_time": 1700820456,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 530050,
       "num": 530050,
       "word": "中国渔船在日本海域倾覆致5人失踪",
@@ -3505,14 +3521,6 @@
       "onboard_time": 1700395660,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 515240,
-      "num": 334758,
-      "word": "韩男子猥亵女儿10多年被妻子刺伤双眼",
-      "onboard_time": 1700819735,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 515196,
@@ -4225,6 +4233,14 @@
       "onboard_time": 1700470654,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446103,
+      "num": 446103,
+      "word": "朗朗 孩子怎么跟钢琴吵起来了",
+      "onboard_time": 1700821295,
+      "rank": 14,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 445571,
@@ -5619,6 +5635,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 344163,
+      "num": 344163,
+      "word": "92岁超模卡门称自己为死亡之吻",
+      "onboard_time": 1700812000,
+      "rank": 24,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 344026,
       "num": 344026,
       "word": "阿根廷版特朗普赢得大选",
@@ -5689,14 +5713,6 @@
       "onboard_time": 1700636496,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 341743,
-      "num": 341743,
-      "word": "92岁超模卡门称自己为死亡之吻",
-      "onboard_time": 1700812000,
-      "rank": 24,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 341459,
@@ -6483,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301942,
+      "num": 292869,
+      "word": "Wkorea乳腺癌慈善活动",
+      "onboard_time": 1700819795,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 301796,
       "num": 301796,
       "word": "吴迪飞退圈的原因",
@@ -6735,14 +6759,6 @@
       "num": 261565,
       "word": "每年体检38岁男子被查出胰腺癌晚期",
       "onboard_time": 1700316995,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 292869,
-      "num": 292869,
-      "word": "Wkorea乳腺癌慈善活动",
-      "onboard_time": 1700819795,
       "rank": 21,
       "category": "健康医疗"
     },
@@ -7931,14 +7947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247122,
-      "num": 247122,
-      "word": "张嘉佳 没有张靓颖照顾我早好了",
-      "onboard_time": 1700820814,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247107,
       "num": 247107,
       "word": "我们五个人再也不会输了",
@@ -8723,20 +8731,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224538,
+      "num": 1264173,
+      "word": "3岁娃走丢4岁女童沿街吆喝帮找家",
+      "onboard_time": 1700816616,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224186,
       "num": 224186,
       "word": "清融 属于易坦子融花的故事结束了",
       "onboard_time": 1700731833,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222635,
-      "num": 1254018,
-      "word": "3岁娃走丢4岁女童沿街吆喝帮找家",
-      "onboard_time": 1700816616,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222613,
@@ -9097,6 +9105,14 @@
       "onboard_time": 1700714258,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215141,
+      "num": 215141,
+      "word": "谢危 一怒之下哞了一声",
+      "onboard_time": 1700821653,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 214726,
@@ -9947,6 +9963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201782,
+      "num": 201782,
+      "word": "如何逼出身体里的寒气",
+      "onboard_time": 1700821357,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201685,
       "num": 201685,
       "word": "BABYMONSTER出道预告照",
@@ -10233,6 +10257,14 @@
       "onboard_time": 1700399495,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197686,
+      "num": 197686,
+      "word": "杨迪看机翻奥本海默",
+      "onboard_time": 1700821476,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 197664,
@@ -11947,6 +11979,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 169099,
+      "num": 169099,
+      "word": "BLG纪录片",
+      "onboard_time": 1700821653,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169003,
       "num": 169003,
       "word": "过期口红 红色武器",
@@ -12425,6 +12465,14 @@
       "onboard_time": 1700794354,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 160036,
+      "num": 160036,
+      "word": "新闻女王晓薇被吓吐了",
+      "onboard_time": 1700821237,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 159819,
@@ -14892,7 +14940,7 @@
     },
     {
       "raw_hot": 107622,
-      "num": 1141380,
+      "num": 1184347,
       "word": "车辆落水休假战士破窗救出晕厥司机",
       "onboard_time": 1700819433,
       "rank": 6,

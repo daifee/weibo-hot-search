@@ -1,0 +1,410 @@
+{
+  "runTime": 1700822199884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1925788,
+        "num": 1925788,
+        "word": "淘宝取消双12",
+        "onboard_time": 1700810977,
+        "rank": 0,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 899216,
+        "num": 1391768,
+        "word": "车辆不能从烈士遗骸上方驶过",
+        "onboard_time": 1700813497,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49347,
+        "num": 1384010,
+        "word": "9招预防冬季呼吸道疾病",
+        "onboard_time": 1700814035,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1378876,
+        "num": 1378876,
+        "word": "吃火锅晒照误露点餐码被人点43万菜",
+        "onboard_time": 1700814996,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224538,
+        "num": 1264173,
+        "word": "3岁娃走丢4岁女童沿街吆喝帮找家",
+        "onboard_time": 1700816616,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1240822,
+        "num": 1240822,
+        "word": "吴亦凡聚众淫乱系首要分子",
+        "onboard_time": 1700796640,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 105888,
+        "num": 1184347,
+        "word": "车辆落水休假战士破窗救出晕厥司机",
+        "onboard_time": 1700819433,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138562,
+        "num": 1138562,
+        "word": "辛芷蕾原生家庭",
+        "onboard_time": 1700820456,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 980049,
+        "num": 980049,
+        "word": "何猷君 我最臭了",
+        "onboard_time": 1700817215,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 896874,
+        "num": 896874,
+        "word": "吴亦凡亲属旁听二审宣判",
+        "onboard_time": 1700798445,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 808032,
+        "num": 808032,
+        "word": "免签",
+        "onboard_time": 1700812478,
+        "rank": 10,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 793636,
+        "num": 793636,
+        "word": "刷牙后不建议立即漱口",
+        "onboard_time": 1700819553,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 598902,
+        "num": 598902,
+        "word": "张嘉佳 没有张靓颖照顾我早好了",
+        "onboard_time": 1700820814,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456346,
+        "num": 456346,
+        "word": "乌尔善说演员要对自己的行为负责",
+        "onboard_time": 1700809957,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446103,
+        "num": 446103,
+        "word": "朗朗 孩子怎么跟钢琴吵起来了",
+        "onboard_time": 1700821295,
+        "rank": 14,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 346012,
+        "num": 346012,
+        "word": "吴亦凡案二审维持原判",
+        "onboard_time": 1700795438,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 344163,
+        "num": 344163,
+        "word": "92岁超模卡门称自己为死亡之吻",
+        "onboard_time": 1700812000,
+        "rank": 16,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 328623,
+        "num": 328623,
+        "word": "熹贵妃安",
+        "onboard_time": 1700805218,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328542,
+        "num": 328542,
+        "word": "邓紫棋 三开",
+        "onboard_time": 1700818596,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 281179,
+        "num": 281179,
+        "word": "犬夜叉 戈薇",
+        "onboard_time": 1700816015,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 560090,
+        "num": 280245,
+        "word": "韩男子猥亵女儿10多年被妻子刺伤双眼",
+        "onboard_time": 1700819735,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301942,
+        "num": 280132,
+        "word": "Wkorea乳腺癌慈善活动",
+        "onboard_time": 1700819795,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277064,
+        "num": 277064,
+        "word": "郭晓婷白蛇造型",
+        "onboard_time": 1700816856,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 265226,
+        "num": 265226,
+        "word": "律师称吴亦凡需服刑完再被驱逐出境",
+        "onboard_time": 1700797006,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 244961,
+        "num": 244961,
+        "word": "马来西亚 免签",
+        "onboard_time": 1700814878,
+        "rank": 24,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 236635,
+        "num": 236635,
+        "word": "宁安如梦加更礼",
+        "onboard_time": 1700818414,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228499,
+        "num": 228499,
+        "word": "郭台铭宣布退出台湾地区领导人选举",
+        "onboard_time": 1700810977,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225528,
+        "num": 225528,
+        "word": "女子退货被拒4个月狂退277支口红",
+        "onboard_time": 1700803422,
+        "rank": 27,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 222229,
+        "num": 222229,
+        "word": "迪丽热巴窗边侧影",
+        "onboard_time": 1700819914,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215141,
+        "num": 215141,
+        "word": "谢危 一怒之下哞了一声",
+        "onboard_time": 1700821653,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213772,
+        "num": 213772,
+        "word": "国考",
+        "onboard_time": 1700817997,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201782,
+        "num": 201782,
+        "word": "如何逼出身体里的寒气",
+        "onboard_time": 1700821357,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197686,
+        "num": 197686,
+        "word": "杨迪看机翻奥本海默",
+        "onboard_time": 1700821476,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192075,
+        "num": 192075,
+        "word": "HLE官宣Doran加入",
+        "onboard_time": 1700818414,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188780,
+        "num": 188780,
+        "word": "河南周口推大学生预缴公积金政策",
+        "onboard_time": 1700812178,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 187241,
+        "num": 187241,
+        "word": "SM惊人的练习生竞争",
+        "onboard_time": 1700810856,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186321,
+        "num": 186321,
+        "word": "陈楚生 太原",
+        "onboard_time": 1700817396,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184469,
+        "num": 184469,
+        "word": "天选古装女星",
+        "onboard_time": 1700819255,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176293,
+        "num": 176293,
+        "word": "苏有朋被金融诈骗",
+        "onboard_time": 1700795742,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175523,
+        "num": 175523,
+        "word": "蒋欣终于不演受气的角色了",
+        "onboard_time": 1700820034,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169099,
+        "num": 169099,
+        "word": "BLG纪录片",
+        "onboard_time": 1700821653,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164756,
+        "num": 164756,
+        "word": "中国手机均价已达3480元",
+        "onboard_time": 1700811277,
+        "rank": 41,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 160036,
+        "num": 160036,
+        "word": "新闻女王晓薇被吓吐了",
+        "onboard_time": 1700821237,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151617,
+        "num": 151617,
+        "word": "福建医科大学回应研究生坠亡",
+        "onboard_time": 1700814336,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148855,
+        "num": 148855,
+        "word": "考研也会留下痕迹",
+        "onboard_time": 1700813917,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146520,
+        "num": 146520,
+        "word": "干活的人离职为何领导不挽留",
+        "onboard_time": 1700815894,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138893,
+        "num": 138893,
+        "word": "月薪2万的年轻人只逛打折区",
+        "onboard_time": 1700802825,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 137763,
+        "num": 137763,
+        "word": "晴儿归来已是皇后",
+        "onboard_time": 1700796101,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124050,
+        "num": 124050,
+        "word": "禾伙人",
+        "onboard_time": 1700816676,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122488,
+        "num": 122488,
+        "word": "女子自曝被丈夫当孩子面多次家暴",
+        "onboard_time": 1700809295,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
