@@ -1,7 +1,15 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700793505002,
+  "endTime": 1700795905701,
   "band_list": [
+    {
+      "raw_hot": 4400230,
+      "num": 4400230,
+      "word": "吴亦凡案二审维持原判",
+      "onboard_time": 1700795438,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1959287,
       "num": 852884,
@@ -35,12 +43,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1251945,
+      "num": 1251945,
+      "word": "章凝 张宇",
+      "onboard_time": 1700793631,
+      "rank": 3,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 1230951,
       "num": 1230951,
       "word": "河南一救护车多次载人跨市买毒品",
       "onboard_time": 1700786193,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1230243,
+      "num": 352326,
+      "word": "吴亦凡上诉被驳回",
+      "onboard_time": 1700795676,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1080189,
@@ -75,6 +99,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 941621,
+      "num": 941621,
+      "word": "韩网友评价鬼怪过时",
+      "onboard_time": 1700788654,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 913677,
       "num": 913677,
       "word": "一念关山定档",
@@ -89,14 +121,6 @@
       "onboard_time": 1700751700,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 857317,
-      "num": 857317,
-      "word": "韩网友评价鬼怪过时",
-      "onboard_time": 1700788654,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 853211,
@@ -129,6 +153,14 @@
       "onboard_time": 1700785652,
       "rank": 7,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 651682,
+      "num": 350709,
+      "word": "吴秀波及其公司被强执4.66亿",
+      "onboard_time": 1700792733,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 624094,
@@ -203,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 453122,
+      "num": 342851,
+      "word": "清华铊中毒案受害者朱令现状",
+      "onboard_time": 1700794832,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438572,
       "num": 342771,
       "word": "倪妮 花神降临",
@@ -235,14 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 395385,
-      "num": 344573,
-      "word": "吴秀波及其公司被强执4.66亿",
-      "onboard_time": 1700792733,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 395200,
       "num": 295126,
       "word": "在景德镇花15元买了一箱瓷碗",
@@ -256,6 +288,14 @@
       "word": "考研人数九年来首降",
       "onboard_time": 1700785772,
       "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 354440,
+      "num": 354440,
+      "word": "杭州中考指定跳绳一根78元",
+      "onboard_time": 1700789852,
+      "rank": 19,
       "category": "教育"
     },
     {
@@ -275,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340998,
+      "num": 340998,
+      "word": "支原体肺炎会引发白肺吗",
+      "onboard_time": 1700792851,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 338266,
       "num": 424487,
       "word": "全红婵粉丝怒斥裁判压分",
@@ -291,20 +339,28 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 324672,
-      "num": 324672,
-      "word": "杭州中考指定跳绳一根78元",
-      "onboard_time": 1700789852,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 322216,
       "num": 322216,
       "word": "一念关山",
       "onboard_time": 1700788352,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303337,
+      "num": 267696,
+      "word": "刘诗诗最有cp感的男主",
+      "onboard_time": 1700794533,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 301233,
+      "num": 301233,
+      "word": "周震南父亲再被限消",
+      "onboard_time": 1700793149,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 295538,
@@ -315,12 +371,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290521,
+      "num": 266598,
+      "word": "再见爱人 当女性主动离开婚姻",
+      "onboard_time": 1700793873,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283792,
       "num": 209806,
       "word": "时代少年团直播",
       "onboard_time": 1700751936,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279371,
+      "num": 266348,
+      "word": "姜昆戚薇 审美年代差",
+      "onboard_time": 1700794173,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 275992,
@@ -331,6 +403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 273517,
+      "num": 266138,
+      "word": "景甜现场卸妆",
+      "onboard_time": 1700794229,
+      "rank": 27,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 265413,
       "num": 265413,
       "word": "丁程鑫 我们的第五年开始了",
@@ -339,20 +419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264939,
-      "num": 264939,
-      "word": "支原体肺炎会引发白肺吗",
-      "onboard_time": 1700792851,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 254495,
       "num": 254495,
       "word": "都柏林",
       "onboard_time": 1700788233,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254332,
+      "num": 254332,
+      "word": "春楠给唐嫣化的繁花妆",
+      "onboard_time": 1700795377,
+      "rank": 31,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 247903,
@@ -369,6 +449,14 @@
       "onboard_time": 1700785054,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 240285,
+      "num": 240285,
+      "word": "花少没有胡先煦笑料得少一半",
+      "onboard_time": 1700794714,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 239508,
@@ -393,6 +481,14 @@
       "onboard_time": 1700788533,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 225896,
+      "num": 267295,
+      "word": "中考用绳每根成本8元至20元",
+      "onboard_time": 1700794832,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 223877,
@@ -451,12 +547,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 206021,
+      "num": 266009,
+      "word": "国考必过",
+      "onboard_time": 1700794772,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 204566,
       "num": 204566,
       "word": "平账大圣",
       "onboard_time": 1700787332,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203830,
+      "num": 203830,
+      "word": "苏有朋被金融诈骗",
+      "onboard_time": 1700795742,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 203013,
@@ -483,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198940,
+      "num": 198940,
+      "word": "A股",
+      "onboard_time": 1700795498,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197893,
       "num": 133840,
       "word": "张凌赫回应谢危偷亲",
@@ -497,14 +617,6 @@
       "onboard_time": 1700788952,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 197471,
-      "num": 197471,
-      "word": "周震南父亲再被限消",
-      "onboard_time": 1700793149,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 195750,
@@ -529,6 +641,14 @@
       "onboard_time": 1700790871,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190604,
+      "num": 265702,
+      "word": "12响鸣枪致敬志愿军烈士",
+      "onboard_time": 1700794893,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189309,
@@ -619,6 +739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173678,
+      "num": 173678,
+      "word": "李健的爱情观真的好正",
+      "onboard_time": 1700795192,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170223,
       "num": 170223,
       "word": "荣耀新机对标苹果",
@@ -699,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145984,
+      "num": 268984,
+      "word": "华为无人代客泊车视频曝光",
+      "onboard_time": 1700794354,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142916,
       "num": 142916,
       "word": "警号017847重启",
@@ -715,8 +851,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140855,
-      "num": 140855,
+      "raw_hot": 141776,
+      "num": 141776,
       "word": "以爱为营",
       "onboard_time": 1700793211,
       "rank": 44,
@@ -908,7 +1044,7 @@
     },
     {
       "raw_hot": 60731,
-      "num": 985443,
+      "num": 1266419,
       "word": "全世界只有两个国家拥有时速350公里的高铁",
       "onboard_time": 1700725533,
       "rank": 2,

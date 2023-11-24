@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700793505002,
+  "endTime": 1700795905701,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -65,6 +65,14 @@
       "onboard_time": 1700392980,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 4400230,
+      "num": 4400230,
+      "word": "吴亦凡案二审维持原判",
+      "onboard_time": 1700795438,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3928342,
@@ -1003,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1251945,
+      "num": 1251945,
+      "word": "章凝 张宇",
+      "onboard_time": 1700793631,
+      "rank": 3,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 1244416,
       "num": 1244416,
       "word": "孙兴慜首次攻破国足大门",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1700786193,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1230243,
+      "num": 352326,
+      "word": "吴亦凡上诉被驳回",
+      "onboard_time": 1700795676,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1227684,
@@ -1403,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 941621,
+      "num": 941621,
+      "word": "韩网友评价鬼怪过时",
+      "onboard_time": 1700788654,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 937640,
       "num": 937640,
       "word": "缅甸高官称因中国提醒才意识到电诈危害",
@@ -1561,14 +1593,6 @@
       "onboard_time": 1700667453,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 857317,
-      "num": 857317,
-      "word": "韩网友评价鬼怪过时",
-      "onboard_time": 1700788654,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 853211,
@@ -2305,6 +2329,14 @@
       "onboard_time": 1700562514,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 651682,
+      "num": 350709,
+      "word": "吴秀波及其公司被强执4.66亿",
+      "onboard_time": 1700792733,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 651314,
@@ -3835,6 +3867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 453122,
+      "num": 342851,
+      "word": "清华铊中毒案受害者朱令现状",
+      "onboard_time": 1700794832,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451344,
       "num": 328275,
       "word": "HYBE不给hanni上韩语课",
@@ -4417,14 +4457,6 @@
       "onboard_time": 1700464173,
       "rank": 38,
       "category": "社会新闻,汽车"
-    },
-    {
-      "raw_hot": 395385,
-      "num": 344573,
-      "word": "吴秀波及其公司被强执4.66亿",
-      "onboard_time": 1700792733,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 395200,
@@ -5043,6 +5075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 354440,
+      "num": 354440,
+      "word": "杭州中考指定跳绳一根78元",
+      "onboard_time": 1700789852,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 353363,
       "num": 353363,
       "word": "颜骏凌好累",
@@ -5273,6 +5313,14 @@
       "onboard_time": 1700373391,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340998,
+      "num": 340998,
+      "word": "支原体肺炎会引发白肺吗",
+      "onboard_time": 1700792851,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 340659,
@@ -5577,14 +5625,6 @@
       "onboard_time": 1700483372,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 324672,
-      "num": 324672,
-      "word": "杭州中考指定跳绳一根78元",
-      "onboard_time": 1700789852,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 324296,
@@ -5955,6 +5995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303337,
+      "num": 267696,
+      "word": "刘诗诗最有cp感的男主",
+      "onboard_time": 1700794533,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302946,
       "num": 302946,
       "word": "RIIZE删除洪胜汉物料",
@@ -5992,6 +6040,14 @@
       "word": "吴迪飞退圈的原因",
       "onboard_time": 1700441075,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301233,
+      "num": 301233,
+      "word": "周震南父亲再被限消",
+      "onboard_time": 1700793149,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -6259,6 +6315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290521,
+      "num": 266598,
+      "word": "再见爱人 当女性主动离开婚姻",
+      "onboard_time": 1700793873,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288786,
       "num": 288786,
       "word": "这轮发烧为何来的这么狠",
@@ -6435,6 +6499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 279371,
+      "num": 266348,
+      "word": "姜昆戚薇 审美年代差",
+      "onboard_time": 1700794173,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278300,
       "num": 278300,
       "word": "好高级的骂人方式",
@@ -6513,6 +6585,14 @@
       "onboard_time": 1700625573,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 273517,
+      "num": 266138,
+      "word": "景甜现场卸妆",
+      "onboard_time": 1700794229,
+      "rank": 27,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 273470,
@@ -6753,14 +6833,6 @@
       "onboard_time": 1700557413,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 264939,
-      "num": 264939,
-      "word": "支原体肺炎会引发白肺吗",
-      "onboard_time": 1700792851,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 263955,
@@ -7025,6 +7097,14 @@
       "onboard_time": 1700788233,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254332,
+      "num": 254332,
+      "word": "春楠给唐嫣化的繁花妆",
+      "onboard_time": 1700795377,
+      "rank": 31,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 254240,
@@ -7491,6 +7571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 240285,
+      "num": 240285,
+      "word": "花少没有胡先煦笑料得少一半",
+      "onboard_time": 1700794714,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239777,
       "num": 239777,
       "word": "被家长会上爸爸高情商发言圈粉了",
@@ -7913,6 +8001,14 @@
       "onboard_time": 1700403699,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 225896,
+      "num": 267295,
+      "word": "中考用绳每根成本8元至20元",
+      "onboard_time": 1700794832,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 225486,
@@ -8843,6 +8939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206021,
+      "num": 266009,
+      "word": "国考必过",
+      "onboard_time": 1700794772,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 205984,
       "num": 205984,
       "word": "RW晋级世冠小组赛",
@@ -8969,6 +9073,14 @@
       "onboard_time": 1700573196,
       "rank": 44,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 203830,
+      "num": 203830,
+      "word": "苏有朋被金融诈骗",
+      "onboard_time": 1700795742,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 203759,
@@ -9377,14 +9489,6 @@
       "onboard_time": 1700632954,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197471,
-      "num": 197471,
-      "word": "周震南父亲再被限消",
-      "onboard_time": 1700793149,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 197429,
@@ -9809,6 +9913,14 @@
       "onboard_time": 1700435485,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190604,
+      "num": 265702,
+      "word": "12响鸣枪致敬志愿军烈士",
+      "onboard_time": 1700794893,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190594,
@@ -10689,6 +10801,14 @@
       "onboard_time": 1700714800,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173678,
+      "num": 173678,
+      "word": "李健的爱情观真的好正",
+      "onboard_time": 1700795192,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 173618,
@@ -11953,6 +12073,14 @@
       "onboard_time": 1700467235,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145984,
+      "num": 268984,
+      "word": "华为无人代客泊车视频曝光",
+      "onboard_time": 1700794354,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 145855,
