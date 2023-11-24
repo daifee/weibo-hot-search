@@ -1,6 +1,6 @@
 {
   "startTime": 1700756575257,
-  "endTime": 1700814108328,
+  "endTime": 1700814904633,
   "band_list": [
     {
       "raw_hot": 9618160,
@@ -51,6 +51,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1955336,
+      "num": 1955336,
+      "word": "免签",
+      "onboard_time": 1700812478,
+      "rank": 3,
+      "category": "国内时政,旅游"
+    },
+    {
       "raw_hot": 1936465,
       "num": 1936465,
       "word": "退出直播间的明星转向新风口",
@@ -67,20 +75,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 1625364,
-      "num": 1625364,
+      "raw_hot": 1641284,
+      "num": 1641284,
       "word": "霸王茶姬回应倒掉退单奶茶",
       "onboard_time": 1700810617,
       "rank": 17,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1595367,
-      "num": 1595367,
-      "word": "免签",
-      "onboard_time": 1700812478,
-      "rank": 3,
-      "category": "国内时政,旅游"
     },
     {
       "raw_hot": 1539009,
@@ -123,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1130665,
-      "num": 1130665,
+      "raw_hot": 1162103,
+      "num": 1162103,
       "word": "中方将对法德意荷西马六国试行免签政策",
       "onboard_time": 1700812478,
       "rank": 4,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643730,
+      "num": 643730,
+      "word": "中国手机均价已达3480元",
+      "onboard_time": 1700811277,
+      "rank": 7,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 624094,
       "num": 437088,
       "word": "原来这个姿势小腿会弯",
@@ -329,14 +337,6 @@
       "onboard_time": 1700790752,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 601470,
-      "num": 601470,
-      "word": "中国手机均价已达3480元",
-      "onboard_time": 1700811277,
-      "rank": 7,
-      "category": "数码,财经"
     },
     {
       "raw_hot": 588128,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 506748,
+      "num": 506748,
+      "word": "SM惊人的练习生竞争",
+      "onboard_time": 1700810856,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501447,
       "num": 501447,
       "word": "郭台铭宣布退出台湾地区领导人选举",
@@ -417,14 +425,6 @@
       "onboard_time": 1700787994,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 489264,
-      "num": 489264,
-      "word": "SM惊人的练习生竞争",
-      "onboard_time": 1700810856,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 483964,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 431075,
-      "num": 331995,
+      "num": 336619,
       "word": "女子自曝被丈夫当孩子面多次家暴",
       "onboard_time": 1700809295,
       "rank": 23,
@@ -521,6 +521,14 @@
       "onboard_time": 1700810796,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406820,
+      "num": 406820,
+      "word": "车辆不能从烈士遗骸上方驶过",
+      "onboard_time": 1700813497,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 406505,
@@ -577,6 +585,22 @@
       "onboard_time": 1700796222,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 350423,
+      "num": 350423,
+      "word": "周也 剧组散财童子",
+      "onboard_time": 1700813317,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 348566,
+      "num": 348566,
+      "word": "考研也会留下痕迹",
+      "onboard_time": 1700813917,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 346790,
@@ -705,14 +729,6 @@
       "onboard_time": 1700801327,
       "rank": 16,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 298089,
-      "num": 298089,
-      "word": "周也 剧组散财童子",
-      "onboard_time": 1700813317,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 295538,
@@ -859,20 +875,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258927,
+      "num": 258927,
+      "word": "福建医科大学回应研究生坠亡",
+      "onboard_time": 1700814336,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254495,
       "num": 254495,
       "word": "都柏林",
       "onboard_time": 1700788233,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253594,
-      "num": 253594,
-      "word": "车辆不能从烈士遗骸上方驶过",
-      "onboard_time": 1700813497,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 252829,
@@ -1155,20 +1171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200153,
-      "num": 200153,
-      "word": "考研也会留下痕迹",
-      "onboard_time": 1700813917,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 199820,
       "num": 202266,
       "word": "感受到了中国文化的暴力输出",
       "onboard_time": 1700744861,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199675,
+      "num": 199675,
+      "word": "人贩子余华英受审现场",
+      "onboard_time": 1700813797,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199250,
@@ -1219,12 +1235,28 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 196008,
+      "num": 196008,
+      "word": "淘宝双12已举办11年",
+      "onboard_time": 1700814638,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195750,
       "num": 306589,
       "word": "孕妇感染支原体会影响胎儿吗",
       "onboard_time": 1700774953,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195170,
+      "num": 195170,
+      "word": "张杰 一种情怀",
+      "onboard_time": 1700814516,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 195084,
@@ -1443,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171600,
+      "num": 171600,
+      "word": "戚薇布偶猫妆容解析",
+      "onboard_time": 1700813797,
+      "rank": 47,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 170223,
       "num": 170223,
       "word": "荣耀新机对标苹果",
@@ -1515,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156910,
-      "num": 156910,
-      "word": "人贩子余华英受审现场",
-      "onboard_time": 1700813797,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156227,
       "num": 179458,
       "word": "妈妈退休后沉迷上了手工制陶",
@@ -1553,14 +1585,6 @@
       "onboard_time": 1700807136,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151376,
-      "num": 151376,
-      "word": "戚薇布偶猫妆容解析",
-      "onboard_time": 1700813797,
-      "rank": 47,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 149651,
@@ -1641,6 +1665,14 @@
       "onboard_time": 1700785230,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124490,
+      "num": 124490,
+      "word": "马来西亚 免签",
+      "onboard_time": 1700814878,
+      "rank": 48,
+      "category": "国内时政,旅游"
     },
     {
       "raw_hot": 124384,
@@ -1747,6 +1779,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 112874,
+      "num": 403405,
+      "word": "K70美学质感全面进化",
+      "onboard_time": 1700812836,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111988,
       "num": 111988,
       "word": "eStar五人组告别",
@@ -1788,7 +1828,7 @@
     },
     {
       "raw_hot": 101138,
-      "num": 244133,
+      "num": 255616,
       "word": "比亚迪第600万辆新能源汽车正式下线",
       "onboard_time": 1700812836,
       "rank": 27,
@@ -1819,14 +1859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88680,
-      "num": 403405,
-      "word": "K70美学质感全面进化",
-      "onboard_time": 1700812836,
-      "rank": 14,
-      "category": "数码"
-    },
-    {
       "raw_hot": 72069,
       "num": 104132,
       "word": "殷郊 天命玄鸟铩羽而归",
@@ -1855,6 +1887,14 @@
       "num": 4462276,
       "word": "全世界只有两个国家拥有时速350公里的高铁",
       "onboard_time": 1700725533,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60526,
+      "num": 1771553,
+      "word": "9招预防冬季呼吸道疾病",
+      "onboard_time": 1700814035,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1985,14 +2025,6 @@
       "onboard_time": 1700764456,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5889,
-      "num": 1608692,
-      "word": "9招预防冬季呼吸道疾病",
-      "onboard_time": 1700814035,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

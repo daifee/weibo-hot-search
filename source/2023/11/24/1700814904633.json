@@ -1,0 +1,410 @@
+{
+  "runTime": 1700814904633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3464855,
+        "num": 3464855,
+        "word": "淘宝取消双12",
+        "onboard_time": 1700810977,
+        "rank": 0,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 1955336,
+        "num": 1955336,
+        "word": "免签",
+        "onboard_time": 1700812478,
+        "rank": 1,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 60526,
+        "num": 1771553,
+        "word": "9招预防冬季呼吸道疾病",
+        "onboard_time": 1700814035,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1641284,
+        "num": 1641284,
+        "word": "霸王茶姬回应倒掉退单奶茶",
+        "onboard_time": 1700810617,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1162103,
+        "num": 1162103,
+        "word": "中方将对法德意荷西马六国试行免签政策",
+        "onboard_time": 1700812478,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1593885,
+        "num": 1111088,
+        "word": "吴亦凡聚众淫乱系首要分子",
+        "onboard_time": 1700796640,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 961718,
+        "num": 961718,
+        "word": "乌尔善说演员要对自己的行为负责",
+        "onboard_time": 1700809957,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 643730,
+        "num": 643730,
+        "word": "中国手机均价已达3480元",
+        "onboard_time": 1700811277,
+        "rank": 7,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 1029062,
+        "num": 642546,
+        "word": "吴亦凡亲属旁听二审宣判",
+        "onboard_time": 1700798445,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 506748,
+        "num": 506748,
+        "word": "SM惊人的练习生竞争",
+        "onboard_time": 1700810856,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479848,
+        "num": 479848,
+        "word": "郭台铭宣布退出台湾地区领导人选举",
+        "onboard_time": 1700810977,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 634660,
+        "num": 476393,
+        "word": "吴亦凡案二审维持原判",
+        "onboard_time": 1700795438,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 454299,
+        "num": 454299,
+        "word": "苏有朋被金融诈骗",
+        "onboard_time": 1700795742,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406820,
+        "num": 406820,
+        "word": "车辆不能从烈士遗骸上方驶过",
+        "onboard_time": 1700813497,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112874,
+        "num": 353167,
+        "word": "K70美学质感全面进化",
+        "onboard_time": 1700812836,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 549628,
+        "num": 352571,
+        "word": "律师称吴亦凡需服刑完再被驱逐出境",
+        "onboard_time": 1700797006,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 350423,
+        "num": 350423,
+        "word": "周也 剧组散财童子",
+        "onboard_time": 1700813317,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348566,
+        "num": 348566,
+        "word": "考研也会留下痕迹",
+        "onboard_time": 1700813917,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 344678,
+        "num": 344678,
+        "word": "淘宝回应取消双12",
+        "onboard_time": 1700813080,
+        "rank": 18,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 336834,
+        "num": 336834,
+        "word": "肺炎支原体未来一段时间仍将持续高发",
+        "onboard_time": 1700812719,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 378997,
+        "num": 336619,
+        "word": "女子自曝被丈夫当孩子面多次家暴",
+        "onboard_time": 1700809295,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333945,
+        "num": 333945,
+        "word": "晴儿归来已是皇后",
+        "onboard_time": 1700796101,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310431,
+        "num": 310431,
+        "word": "女子退货被拒4个月狂退277支口红",
+        "onboard_time": 1700803422,
+        "rank": 22,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 291241,
+        "num": 291241,
+        "word": "熹贵妃安",
+        "onboard_time": 1700805218,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258927,
+        "num": 258927,
+        "word": "福建医科大学回应研究生坠亡",
+        "onboard_time": 1700814336,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86427,
+        "num": 255616,
+        "word": "比亚迪第600万辆新能源汽车正式下线",
+        "onboard_time": 1700812836,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 255376,
+        "num": 255376,
+        "word": "92岁超模卡门称自己为死亡之吻",
+        "onboard_time": 1700812000,
+        "rank": 26,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 234107,
+        "num": 234107,
+        "word": "一念关山 喉结杀",
+        "onboard_time": 1700812719,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230513,
+        "num": 230513,
+        "word": "0713复刻家有儿女",
+        "onboard_time": 1700810796,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221789,
+        "num": 221789,
+        "word": "河南周口推大学生预缴公积金政策",
+        "onboard_time": 1700812178,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 212995,
+        "num": 212995,
+        "word": "尚雯婕回应我是歌手淘汰",
+        "onboard_time": 1700807854,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202590,
+        "num": 202590,
+        "word": "月薪2万的年轻人只逛打折区",
+        "onboard_time": 1700802825,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 199675,
+        "num": 199675,
+        "word": "人贩子余华英受审现场",
+        "onboard_time": 1700813797,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196008,
+        "num": 196008,
+        "word": "淘宝双12已举办11年",
+        "onboard_time": 1700814638,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195170,
+        "num": 195170,
+        "word": "张杰 一种情怀",
+        "onboard_time": 1700814516,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188285,
+        "num": 188285,
+        "word": "王栎鑫演唱会嘉宾",
+        "onboard_time": 1700811459,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186046,
+        "num": 186046,
+        "word": "檀健次中式贵公子",
+        "onboard_time": 1700811822,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180601,
+        "num": 180601,
+        "word": "杨紫玫瑰抹胸红裙",
+        "onboard_time": 1700798208,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175962,
+        "num": 175962,
+        "word": "柯南 白马点破怪盗基德",
+        "onboard_time": 1700812719,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 171600,
+        "num": 171600,
+        "word": "戚薇布偶猫妆容解析",
+        "onboard_time": 1700813797,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 176285,
+        "num": 171405,
+        "word": "杨紫时尚COSMO封面",
+        "onboard_time": 1700809116,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171149,
+        "num": 171149,
+        "word": "丫丫也交到小鸟朋友了",
+        "onboard_time": 1700797789,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167689,
+        "num": 167689,
+        "word": "福建医科大学",
+        "onboard_time": 1700801147,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158784,
+        "num": 158784,
+        "word": "关晓彤西域少女妆",
+        "onboard_time": 1700810556,
+        "rank": 43,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 144001,
+        "num": 144001,
+        "word": "杨幂背头烟熏妆",
+        "onboard_time": 1700802044,
+        "rank": 44,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 137771,
+        "num": 137771,
+        "word": "金融诈骗",
+        "onboard_time": 1700813261,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136995,
+        "num": 136995,
+        "word": "章凝 张宇",
+        "onboard_time": 1700793631,
+        "rank": 46,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 132190,
+        "num": 132190,
+        "word": "以爱为营番外 3块10分钟",
+        "onboard_time": 1700798208,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124490,
+        "num": 124490,
+        "word": "马来西亚 免签",
+        "onboard_time": 1700814878,
+        "rank": 48,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 124267,
+        "num": 124267,
+        "word": "恋与制作人CoCo 联名",
+        "onboard_time": 1700808934,
+        "rank": 49,
+        "category": "游戏,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
