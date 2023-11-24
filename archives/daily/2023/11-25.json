@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700865230823,
+  "endTime": 1700867811599,
   "band_list": [
     {
       "raw_hot": 1148764,
@@ -19,12 +19,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 704634,
+      "num": 704634,
+      "word": "官方通报消防员被妻子举报出轨",
+      "onboard_time": 1700854993,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686426,
       "num": 686426,
       "word": "郎朗证明孩子是在和钢琴友好交流",
       "onboard_time": 1700835997,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 677631,
+      "num": 263488,
+      "word": "吴亦凡被驱逐出境后十年内不准入境",
+      "onboard_time": 1700832334,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 519633,
@@ -41,14 +57,6 @@
       "onboard_time": 1700838696,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 479075,
-      "num": 263488,
-      "word": "吴亦凡被驱逐出境后十年内不准入境",
-      "onboard_time": 1700832334,
-      "rank": 10,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 396906,
@@ -105,14 +113,6 @@
       "onboard_time": 1700837315,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286453,
-      "num": 286453,
-      "word": "官方通报消防员被妻子举报出轨",
-      "onboard_time": 1700854993,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280918,
@@ -203,6 +203,22 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 181722,
+      "num": 181722,
+      "word": "支原体肺炎愈后老咳嗽可以喝这个汤",
+      "onboard_time": 1700857214,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180905,
+      "num": 180905,
+      "word": "律师解读吴亦凡案还有机会改判吗",
+      "onboard_time": 1700867239,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 180590,
       "num": 180590,
       "word": "清华北大 鹅腿阿姨之争",
@@ -265,6 +281,14 @@
       "onboard_time": 1700836536,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132873,
+      "num": 132873,
+      "word": "更适合脆皮年轻人的八段锦教程",
+      "onboard_time": 1700837552,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 132539,
@@ -347,22 +371,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 102928,
-      "num": 118784,
-      "word": "更适合脆皮年轻人的八段锦教程",
-      "onboard_time": 1700837552,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 100021,
-      "num": 100021,
-      "word": "支原体肺炎愈后老咳嗽可以喝这个汤",
-      "onboard_time": 1700857214,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 98440,
       "num": 98440,
       "word": "小时代的风吹进了黑白密码",
@@ -377,6 +385,14 @@
       "onboard_time": 1700839593,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94543,
+      "num": 94543,
+      "word": "赵寅成 姨母笑",
+      "onboard_time": 1700846060,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 92633,
@@ -403,20 +419,28 @@
       "category": "财经,美食"
     },
     {
-      "raw_hot": 85513,
-      "num": 79689,
-      "word": "赵寅成 姨母笑",
-      "onboard_time": 1700846060,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 83536,
       "num": 98158,
       "word": "恋爱脑其实是来惩罚朋友的",
       "onboard_time": 1700835034,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74435,
+      "num": 69969,
+      "word": "刘诗诗尖叫之夜机场路透",
+      "onboard_time": 1700864236,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 72390,
+      "num": 72390,
+      "word": "忌辛辣就是不吃辣的吗",
+      "onboard_time": 1700866938,
+      "rank": 19,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 70098,
@@ -467,12 +491,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52953,
+      "num": 52953,
+      "word": "新闻女王梁景仁婚内出轨",
+      "onboard_time": 1700823574,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41196,
+      "num": 41196,
+      "word": "1个动作让小腿越来越直",
+      "onboard_time": 1700864716,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 40287,
       "num": 59758,
       "word": "系蝴蝶结教程",
       "onboard_time": 1700845523,
       "rank": 48,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 38934,
+      "num": 38934,
+      "word": "知识以一种卑鄙的方式进入我的脑子",
+      "onboard_time": 1700859193,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 36274,
@@ -484,7 +532,7 @@
     },
     {
       "raw_hot": 34549,
-      "num": 33076,
+      "num": 37464,
       "word": "范丞丞关晓彤去王安宇外婆家吃饭",
       "onboard_time": 1700823994,
       "rank": 42,
@@ -523,36 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26410,
-      "num": 26410,
-      "word": "刘诗诗尖叫之夜机场路透",
-      "onboard_time": 1700864236,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22395,
-      "num": 22395,
-      "word": "知识以一种卑鄙的方式进入我的脑子",
-      "onboard_time": 1700859193,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17718,
       "num": 17718,
       "word": "势不可挡",
       "onboard_time": 1700853614,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14087,
-      "num": 22022,
-      "word": "1个动作让小腿越来越直",
-      "onboard_time": 1700864716,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 13604,
