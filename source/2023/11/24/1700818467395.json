@@ -1,0 +1,410 @@
+{
+  "runTime": 1700818467395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2505567,
+        "num": 2505567,
+        "word": "淘宝取消双12",
+        "onboard_time": 1700810977,
+        "rank": 0,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 2128947,
+        "num": 2128947,
+        "word": "免签",
+        "onboard_time": 1700812478,
+        "rank": 1,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 76617,
+        "num": 1657829,
+        "word": "9招预防冬季呼吸道疾病",
+        "onboard_time": 1700814035,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512224,
+        "num": 1512224,
+        "word": "吃火锅晒照误露点餐码被人点43万菜",
+        "onboard_time": 1700814996,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075316,
+        "num": 1075316,
+        "word": "车辆不能从烈士遗骸上方驶过",
+        "onboard_time": 1700813497,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1298745,
+        "num": 1045771,
+        "word": "吴亦凡聚众淫乱系首要分子",
+        "onboard_time": 1700796640,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 941462,
+        "num": 941462,
+        "word": "何猷君 我最臭了",
+        "onboard_time": 1700817215,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620832,
+        "num": 620832,
+        "word": "乌尔善说演员要对自己的行为负责",
+        "onboard_time": 1700809957,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 823462,
+        "num": 609079,
+        "word": "吴亦凡亲属旁听二审宣判",
+        "onboard_time": 1700798445,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 510514,
+        "num": 510514,
+        "word": "马来西亚 免签",
+        "onboard_time": 1700814878,
+        "rank": 9,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 500975,
+        "num": 500975,
+        "word": "熹贵妃安",
+        "onboard_time": 1700805218,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467649,
+        "num": 467649,
+        "word": "吴亦凡案二审维持原判",
+        "onboard_time": 1700795438,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 437610,
+        "num": 437610,
+        "word": "犬夜叉 戈薇",
+        "onboard_time": 1700816015,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 433143,
+        "num": 433143,
+        "word": "郭晓婷白蛇造型",
+        "onboard_time": 1700816856,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35995,
+        "num": 358811,
+        "word": "如何有效过滤错误的美妆资讯",
+        "onboard_time": 1700816435,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 357006,
+        "num": 357006,
+        "word": "中国手机均价已达3480元",
+        "onboard_time": 1700811277,
+        "rank": 15,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 353799,
+        "num": 353799,
+        "word": "郭台铭宣布退出台湾地区领导人选举",
+        "onboard_time": 1700810977,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328906,
+        "num": 328906,
+        "word": "福建医科大学回应研究生坠亡",
+        "onboard_time": 1700814336,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326067,
+        "num": 326067,
+        "word": "考研也会留下痕迹",
+        "onboard_time": 1700813917,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318692,
+        "num": 318692,
+        "word": "SM惊人的练习生竞争",
+        "onboard_time": 1700810856,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290115,
+        "num": 290115,
+        "word": "中方将对法德意荷西马六国试行免签政策",
+        "onboard_time": 1700812478,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280919,
+        "num": 280919,
+        "word": "女子退货被拒4个月狂退277支口红",
+        "onboard_time": 1700803422,
+        "rank": 21,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 278367,
+        "num": 278367,
+        "word": "吴亦凡上诉被驳回",
+        "onboard_time": 1700795676,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 258972,
+        "num": 258972,
+        "word": "92岁超模卡门称自己为死亡之吻",
+        "onboard_time": 1700812000,
+        "rank": 23,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 247584,
+        "num": 247584,
+        "word": "国考",
+        "onboard_time": 1700817997,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246216,
+        "num": 246216,
+        "word": "陈楚生 太原",
+        "onboard_time": 1700817396,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 245731,
+        "num": 245731,
+        "word": "苏有朋被金融诈骗",
+        "onboard_time": 1700795742,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240073,
+        "num": 240073,
+        "word": "禾伙人",
+        "onboard_time": 1700816676,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239608,
+        "num": 239608,
+        "word": "国考最火的岗位在哪里",
+        "onboard_time": 1700816015,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233812,
+        "num": 233812,
+        "word": "秦海璐辛芷蕾八卦胡先煦感情状态",
+        "onboard_time": 1700816856,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231067,
+        "num": 231067,
+        "word": "干活的人离职为何领导不挽留",
+        "onboard_time": 1700815894,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224484,
+        "num": 224484,
+        "word": "晴儿归来已是皇后",
+        "onboard_time": 1700796101,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212428,
+        "num": 212428,
+        "word": "女子自曝被丈夫当孩子面多次家暴",
+        "onboard_time": 1700809295,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204554,
+        "num": 204554,
+        "word": "3岁娃走丢4岁女童沿街吆喝帮找家",
+        "onboard_time": 1700816616,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202064,
+        "num": 202064,
+        "word": "周也 剧组散财童子",
+        "onboard_time": 1700813317,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194837,
+        "num": 194837,
+        "word": "苏醒也好奇当年怎么挺过来的",
+        "onboard_time": 1700817215,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188791,
+        "num": 188791,
+        "word": "YS对战WBG",
+        "onboard_time": 1700817878,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173851,
+        "num": 173851,
+        "word": "李栋旭比心",
+        "onboard_time": 1700817755,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170942,
+        "num": 170942,
+        "word": "李宇春蓝色迷你短裙",
+        "onboard_time": 1700814996,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169263,
+        "num": 169263,
+        "word": "月薪2万的年轻人只逛打折区",
+        "onboard_time": 1700802825,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 166699,
+        "num": 166699,
+        "word": "第十批志愿军烈士安葬祭文",
+        "onboard_time": 1700817997,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158125,
+        "num": 158125,
+        "word": "淘宝回应取消双12",
+        "onboard_time": 1700813080,
+        "rank": 41,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 154703,
+        "num": 154703,
+        "word": "肺炎支原体未来一段时间仍将持续高发",
+        "onboard_time": 1700812719,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143003,
+        "num": 143003,
+        "word": "以爱为营番外 3块10分钟",
+        "onboard_time": 1700798208,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141018,
+        "num": 141018,
+        "word": "HLE官宣Doran加入",
+        "onboard_time": 1700818414,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140645,
+        "num": 140645,
+        "word": "杨紫玫瑰抹胸红裙",
+        "onboard_time": 1700798208,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135785,
+        "num": 135785,
+        "word": "0713复刻家有儿女",
+        "onboard_time": 1700810796,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122730,
+        "num": 122730,
+        "word": "蒲熠星 从玩家视角聊聊剧本杀",
+        "onboard_time": 1700816560,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122031,
+        "num": 122031,
+        "word": "宁安如梦加更礼",
+        "onboard_time": 1700818414,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119553,
+        "num": 119553,
+        "word": "柯南 白马点破怪盗基德",
+        "onboard_time": 1700812719,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
