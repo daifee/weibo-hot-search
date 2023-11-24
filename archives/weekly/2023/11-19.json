@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700810181738,
+  "endTime": 1700811245449,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -1243,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1073131,
+      "num": 1073131,
+      "word": "乌尔善说演员要对自己的行为负责",
+      "onboard_time": 1700809957,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1071656,
       "num": 1071656,
       "word": "TheShy 一血率",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1700585662,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1032551,
+      "num": 439522,
+      "word": "律师称吴亦凡需服刑完再被驱逐出境",
+      "onboard_time": 1700797006,
+      "rank": 14,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1030532,
@@ -2108,7 +2124,7 @@
     },
     {
       "raw_hot": 725172,
-      "num": 260115,
+      "num": 290486,
       "word": "女子退货被拒4个月狂退277支口红",
       "onboard_time": 1700803422,
       "rank": 20,
@@ -2281,14 +2297,6 @@
       "onboard_time": 1700351964,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 683840,
-      "num": 328135,
-      "word": "律师称吴亦凡需服刑完再被驱逐出境",
-      "onboard_time": 1700797006,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 682156,
@@ -3731,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486801,
+      "num": 486801,
+      "word": "淘宝取消双12",
+      "onboard_time": 1700810977,
+      "rank": 4,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 485973,
       "num": 485973,
       "word": "于适 机器人男友",
@@ -3876,7 +3892,7 @@
     },
     {
       "raw_hot": 469567,
-      "num": 257986,
+      "num": 284174,
       "word": "月薪2万的年轻人只逛打折区",
       "onboard_time": 1700802825,
       "rank": 47,
@@ -4451,6 +4467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414736,
+      "num": 414736,
+      "word": "0713复刻家有儿女",
+      "onboard_time": 1700810796,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412861,
       "num": 397364,
       "word": "以爱为营大结局点映礼",
@@ -4497,6 +4521,14 @@
       "onboard_time": 1700404895,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406505,
+      "num": 406505,
+      "word": "关晓彤西域少女妆",
+      "onboard_time": 1700810556,
+      "rank": 13,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 406424,
@@ -4585,6 +4617,14 @@
       "onboard_time": 1700613938,
       "rank": 13,
       "category": "演出,互联网"
+    },
+    {
+      "raw_hot": 399522,
+      "num": 288655,
+      "word": "女子自曝被丈夫当孩子面多次家暴",
+      "onboard_time": 1700809295,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398282,
@@ -5235,6 +5275,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 354963,
+      "num": 354963,
+      "word": "郭台铭宣布退出台湾地区领导人选举",
+      "onboard_time": 1700810977,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 354713,
       "num": 354713,
       "word": "瘦瘦笔减肥 副作用",
@@ -5361,6 +5409,14 @@
       "onboard_time": 1700732973,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 346790,
+      "num": 460690,
+      "word": "孙维",
+      "onboard_time": 1700807314,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346312,
@@ -5691,6 +5747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330115,
+      "num": 330115,
+      "word": "恋与制作人CoCo 联名",
+      "onboard_time": 1700808934,
+      "rank": 16,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 329908,
       "num": 316157,
       "word": "张颂文 竹影",
@@ -5729,14 +5793,6 @@
       "onboard_time": 1700730395,
       "rank": 16,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 329043,
-      "num": 329043,
-      "word": "孙维",
-      "onboard_time": 1700807314,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328875,
@@ -5987,6 +6043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 316190,
+      "num": 316190,
+      "word": "霸王茶姬回应倒掉退单奶茶",
+      "onboard_time": 1700810617,
+      "rank": 17,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 315782,
       "num": 315782,
       "word": "特斯拉1个月涨价4次",
@@ -6169,14 +6233,6 @@
       "onboard_time": 1700545295,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 305760,
-      "num": 305760,
-      "word": "恋与制作人CoCo 联名",
-      "onboard_time": 1700808934,
-      "rank": 16,
-      "category": "游戏,美食"
     },
     {
       "raw_hot": 305251,
@@ -7571,14 +7627,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 250425,
-      "num": 238341,
-      "word": "女子自曝被丈夫当孩子面多次家暴",
-      "onboard_time": 1700809295,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249811,
       "num": 200032,
       "word": "DINO首次solo",
@@ -8067,6 +8115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235082,
+      "num": 211695,
+      "word": "SM惊人的练习生竞争",
+      "onboard_time": 1700810856,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235064,
       "num": 235064,
       "word": "湖人vs独行侠",
@@ -8432,6 +8488,14 @@
       "word": "UNINE小分队重回大厂",
       "onboard_time": 1700556755,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222371,
+      "num": 222371,
+      "word": "工作室回应苏有朋被诈骗",
+      "onboard_time": 1700810317,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -9579,6 +9643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201993,
+      "num": 201993,
+      "word": "王嘉尔北京 抢票",
+      "onboard_time": 1700810435,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201921,
       "num": 201921,
       "word": "本土文化",
@@ -9625,6 +9697,14 @@
       "onboard_time": 1700458356,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201161,
+      "num": 201161,
+      "word": "一念关山角色号",
+      "onboard_time": 1700810137,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 200862,
@@ -11075,6 +11155,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 178369,
+      "num": 178369,
+      "word": "胡先煦给一群东北人科普老铁",
+      "onboard_time": 1700809475,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178151,
       "num": 1705556,
       "word": "北斗系统今后全球民航通用",
@@ -11243,12 +11331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174114,
-      "num": 174114,
-      "word": "乌尔善说演员要对自己的行为负责",
-      "onboard_time": 1700809957,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 174156,
+      "num": 174156,
+      "word": "咪咪 咕噜",
+      "onboard_time": 1700808575,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 174061,
@@ -11425,14 +11513,6 @@
       "onboard_time": 1700729556,
       "rank": 37,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 170353,
-      "num": 170353,
-      "word": "咪咪 咕噜",
-      "onboard_time": 1700808575,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 170278,
@@ -11777,6 +11857,14 @@
       "onboard_time": 1700454519,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 163490,
+      "num": 163490,
+      "word": "张远新浪扫楼",
+      "onboard_time": 1700811036,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 163121,
@@ -12689,6 +12777,14 @@
       "onboard_time": 1700705133,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144507,
+      "num": 144507,
+      "word": "邻居共用鞋柜默契分时打扫卫生",
+      "onboard_time": 1700809899,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144378,
@@ -13731,14 +13827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124272,
-      "num": 124272,
-      "word": "一念关山角色号",
-      "onboard_time": 1700810137,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124017,
       "num": 143144,
       "word": "宁宁NATTY Drama挑战",
@@ -14041,14 +14129,6 @@
       "onboard_time": 1700806059,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 116799,
-      "num": 116799,
-      "word": "胡先煦给一群东北人科普老铁",
-      "onboard_time": 1700809475,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 116735,
