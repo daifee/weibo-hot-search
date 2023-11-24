@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700814904633,
+  "endTime": 1700817463933,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -259,6 +259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2502462,
+      "num": 2502462,
+      "word": "免签",
+      "onboard_time": 1700812478,
+      "rank": 3,
+      "category": "国内时政,旅游"
+    },
+    {
       "raw_hot": 2468887,
       "num": 462549,
       "word": "奚梦瑶 生孩子不痛",
@@ -481,14 +489,6 @@
       "onboard_time": 1700634632,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1955336,
-      "num": 1955336,
-      "word": "免签",
-      "onboard_time": 1700812478,
-      "rank": 3,
-      "category": "国内时政,旅游"
     },
     {
       "raw_hot": 1949035,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1169596,
+      "num": 1169596,
+      "word": "车辆不能从烈士遗骸上方驶过",
+      "onboard_time": 1700813497,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1162103,
       "num": 1162103,
       "word": "中方将对法德意荷西马六国试行免签政策",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1700573496,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 970733,
+      "num": 970733,
+      "word": "吃火锅晒照误露点餐码被人点43万菜",
+      "onboard_time": 1700814996,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 965883,
@@ -2875,6 +2891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 594074,
+      "num": 594074,
+      "word": "马来西亚 免签",
+      "onboard_time": 1700814878,
+      "rank": 48,
+      "category": "国内时政,旅游"
+    },
+    {
       "raw_hot": 593695,
       "num": 593695,
       "word": "宙斯 战神",
@@ -4243,6 +4267,22 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 440263,
+      "num": 440263,
+      "word": "犬夜叉 戈薇",
+      "onboard_time": 1700816015,
+      "rank": 13,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 438904,
+      "num": 438904,
+      "word": "郭晓婷白蛇造型",
+      "onboard_time": 1700816856,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 438225,
       "num": 432491,
       "word": "T1官宣Kkoma回归",
@@ -4483,6 +4523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 417778,
+      "num": 203182,
+      "word": "何猷君 我最臭了",
+      "onboard_time": 1700817215,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417556,
       "num": 417556,
       "word": "真的会气出乳腺结节吗",
@@ -4577,14 +4625,6 @@
       "onboard_time": 1700404895,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 406820,
-      "num": 406820,
-      "word": "车辆不能从烈士遗骸上方驶过",
-      "onboard_time": 1700813497,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 406505,
@@ -4784,6 +4824,14 @@
       "word": "四川两县禁止私熏腊肉",
       "onboard_time": 1700700762,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390467,
+      "num": 390467,
+      "word": "福建医科大学回应研究生坠亡",
+      "onboard_time": 1700814336,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -5307,6 +5355,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 357797,
+      "num": 357797,
+      "word": "考研也会留下痕迹",
+      "onboard_time": 1700813917,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 357743,
       "num": 357743,
       "word": "油价",
@@ -5457,14 +5513,6 @@
       "onboard_time": 1700666496,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 348566,
-      "num": 348566,
-      "word": "考研也会留下痕迹",
-      "onboard_time": 1700813917,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 348200,
@@ -6337,6 +6385,14 @@
       "onboard_time": 1700642015,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303936,
+      "num": 303936,
+      "word": "秦海璐辛芷蕾八卦胡先煦感情状态",
+      "onboard_time": 1700816856,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 303689,
@@ -7464,14 +7520,6 @@
       "word": "男子10亩香菜长太高免费送村民",
       "onboard_time": 1700527056,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258927,
-      "num": 258927,
-      "word": "福建医科大学回应研究生坠亡",
-      "onboard_time": 1700814336,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -9131,6 +9179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212019,
+      "num": 212019,
+      "word": "禾伙人",
+      "onboard_time": 1700816676,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211827,
       "num": 211827,
       "word": "新闻女王 套娃剧宣",
@@ -9529,6 +9585,14 @@
       "onboard_time": 1700633916,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205451,
+      "num": 211063,
+      "word": "国考最火的岗位在哪里",
+      "onboard_time": 1700816015,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 205324,
@@ -10987,6 +11051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185370,
+      "num": 185370,
+      "word": "李宇春蓝色迷你短裙",
+      "onboard_time": 1700814996,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185065,
       "num": 185065,
       "word": "狗主人带狗妈狗崽摆摊三天找狗",
@@ -11859,6 +11931,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 166649,
+      "num": 166649,
+      "word": "干活的人离职为何领导不挽留",
+      "onboard_time": 1700815894,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166501,
       "num": 135725,
       "word": "韩维辰跳Guilty",
@@ -12203,6 +12283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159592,
+      "num": 159592,
+      "word": "苏醒也好奇当年怎么挺过来的",
+      "onboard_time": 1700817215,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159451,
       "num": 161468,
       "word": "迪丽热巴花少5动图",
@@ -12545,6 +12633,14 @@
       "onboard_time": 1700488415,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152013,
+      "num": 152013,
+      "word": "成都混团 抢票",
+      "onboard_time": 1700814815,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 151998,
@@ -13099,6 +13195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142132,
+      "num": 142132,
+      "word": "陈楚生 太原",
+      "onboard_time": 1700817396,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142072,
       "num": 142072,
       "word": "aespa宁艺卓直拍",
@@ -13515,6 +13619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134745,
+      "num": 134745,
+      "word": "3岁娃走丢4岁女童沿街吆喝帮找家",
+      "onboard_time": 1700816616,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134430,
       "num": 134430,
       "word": "李莲花让成毅学会解压",
@@ -13641,6 +13753,14 @@
       "onboard_time": 1700665835,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 133037,
+      "num": 133037,
+      "word": "蒲熠星 从玩家视角聊聊剧本杀",
+      "onboard_time": 1700816560,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 132942,
@@ -13851,6 +13971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128267,
+      "num": 128267,
+      "word": "刘宇宁原声台词 一腔衷情",
+      "onboard_time": 1700815718,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127408,
       "num": 127408,
       "word": "钟楚曦江湖厂妹版妆教",
@@ -13969,14 +14097,6 @@
       "onboard_time": 1700474014,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124490,
-      "num": 124490,
-      "word": "马来西亚 免签",
-      "onboard_time": 1700814878,
-      "rank": 48,
-      "category": "国内时政,旅游"
     },
     {
       "raw_hot": 124384,
@@ -15211,6 +15331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78395,
+      "num": 1771553,
+      "word": "9招预防冬季呼吸道疾病",
+      "onboard_time": 1700814035,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78082,
       "num": 78082,
       "word": "疏肝解郁操",
@@ -15409,14 +15537,6 @@
       "onboard_time": 1700322394,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60526,
-      "num": 1771553,
-      "word": "9招预防冬季呼吸道疾病",
-      "onboard_time": 1700814035,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60375,
@@ -15777,6 +15897,14 @@
       "onboard_time": 1700766254,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14850,
+      "num": 439148,
+      "word": "如何有效过滤错误的美妆资讯",
+      "onboard_time": 1700816435,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 14163,
