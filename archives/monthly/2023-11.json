@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700839098314,
+  "endTime": 1700840064732,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2643,6 +2643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1697447,
+      "num": 1697447,
+      "word": "霸王茶姬咖啡因含量超2罐红牛",
+      "onboard_time": 1700837795,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1696895,
       "num": 615116,
       "word": "秦岚 我们不缺住好酒店的经历",
@@ -4697,14 +4705,6 @@
       "onboard_time": 1700524107,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1209166,
-      "num": 269003,
-      "word": "霸王茶姬咖啡因含量超2罐红牛",
-      "onboard_time": 1700837795,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 1207419,
@@ -16291,6 +16291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 485910,
+      "num": 257325,
+      "word": "赵昭仪发5秒 秦岚回25秒",
+      "onboard_time": 1700838696,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485456,
       "num": 485456,
       "word": "大S说小S拿金钟最佳女主她就去死",
@@ -17515,6 +17523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 457354,
+      "num": 457354,
+      "word": "张小斐 全世界淋雨我在吃香蕉",
+      "onboard_time": 1700837315,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457268,
       "num": 457268,
       "word": "丞磊叫卢昱晓晓晓",
@@ -18673,14 +18689,6 @@
       "onboard_time": 1699169252,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 431320,
-      "num": 217535,
-      "word": "张小斐 全世界淋雨我在吃香蕉",
-      "onboard_time": 1700837315,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 431124,
@@ -21084,7 +21092,7 @@
     },
     {
       "raw_hot": 388865,
-      "num": 208681,
+      "num": 212346,
       "word": "JYP出现时台下表情",
       "onboard_time": 1700836118,
       "rank": 31,
@@ -24147,6 +24155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 342675,
+      "num": 213375,
+      "word": "崔雪莉曾说做韩流偶像最惨",
+      "onboard_time": 1700839714,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342417,
       "num": 342417,
       "word": "杨紫泰国游玩plog",
@@ -26049,6 +26065,14 @@
       "onboard_time": 1700751338,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 315959,
+      "num": 175864,
+      "word": "小鹿拍戏亲过白宇十多次",
+      "onboard_time": 1700838514,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 315947,
@@ -31275,14 +31299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260277,
-      "num": 178568,
-      "word": "赵昭仪发5秒 秦岚回25秒",
-      "onboard_time": 1700838696,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260256,
       "num": 260256,
       "word": "你的男孩TizzyT来了",
@@ -31313,6 +31329,14 @@
       "onboard_time": 1700799825,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259940,
+      "num": 150052,
+      "word": "彭昱畅曾被人冷暴力气哭",
+      "onboard_time": 1700839297,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 259871,
@@ -34763,14 +34787,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 233212,
-      "num": 175864,
-      "word": "小鹿拍戏亲过白宇十多次",
-      "onboard_time": 1700838514,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233173,
       "num": 233173,
       "word": "这些护肤的钱别花都是智商税",
@@ -35553,6 +35569,14 @@
       "onboard_time": 1699874432,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228370,
+      "num": 174427,
+      "word": "刘涛再演霓凰郡主",
+      "onboard_time": 1700838397,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 228331,
@@ -36897,6 +36921,14 @@
       "onboard_time": 1699961369,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219658,
+      "num": 219658,
+      "word": "正确的煮面方法",
+      "onboard_time": 1700838336,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 219648,
@@ -40393,14 +40425,6 @@
       "onboard_time": 1699511191,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202660,
-      "num": 174427,
-      "word": "刘涛再演霓凰郡主",
-      "onboard_time": 1700838397,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 202599,
@@ -45227,6 +45251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184920,
+      "num": 138598,
+      "word": "谢危 朱砂玉笔定人生死",
+      "onboard_time": 1700839417,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184875,
       "num": 178331,
       "word": "刘畊宏带假肢女孩跳本草纲目",
@@ -46995,6 +47027,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 176338,
+      "num": 130178,
+      "word": "王安宇拍照技术",
+      "onboard_time": 1700839714,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176323,
       "num": 176323,
       "word": "张婧仪又发朋友圈了",
@@ -47460,7 +47500,7 @@
     },
     {
       "raw_hot": 173694,
-      "num": 797255,
+      "num": 813951,
       "word": "故宫银杏和红墙黄瓦完美适配",
       "onboard_time": 1700832934,
       "rank": 2,
@@ -48673,14 +48713,6 @@
       "onboard_time": 1699678052,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 168253,
-      "num": 168253,
-      "word": "正确的煮面方法",
-      "onboard_time": 1700838336,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 168105,
@@ -55393,6 +55425,14 @@
       "onboard_time": 1698895530,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136561,
+      "num": 136561,
+      "word": "哪个正经小猫这样坐",
+      "onboard_time": 1700839593,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 136555,
@@ -62265,6 +62305,14 @@
       "onboard_time": 1699771470,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 97778,
+      "num": 111401,
+      "word": "虾滑可乐鸡翅",
+      "onboard_time": 1700839417,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 97594,

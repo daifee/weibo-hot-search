@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/24 23:18:18
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/24 23:34:24
 </p>
 </blockquote>
 <p>
@@ -1995,6 +1995,12 @@ WBG发文告别S13（热度：1736182）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E5%90%AB%E9%87%8F%E8%B6%852%E7%BD%90%E7%BA%A2%E7%89%9B%23" target="weibo">
+霸王茶姬咖啡因含量超2罐红牛（热度：1697447）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%20%E6%88%91%E4%BB%AC%E4%B8%8D%E7%BC%BA%E4%BD%8F%E5%A5%BD%E9%85%92%E5%BA%97%E7%9A%84%E7%BB%8F%E5%8E%86%23" target="weibo">
 秦岚 我们不缺住好酒店的经历（热度：1696895）
 </a>
@@ -3533,12 +3539,6 @@ GEN难道只研究了T1（热度：1221313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%86%8D%E6%AC%A1%E5%BC%BA%E8%B0%83%E4%B8%8D%E8%A6%81%E6%8B%BF%E6%8B%8D%E8%92%9C%E7%9A%84%E5%88%80%E5%88%87%E8%8B%B9%E6%9E%9C%23" target="weibo">
 大熊猫再次强调不要拿拍蒜的刀切苹果（热度：1217014）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E5%90%AB%E9%87%8F%E8%B6%852%E7%BD%90%E7%BA%A2%E7%89%9B%23" target="weibo">
-霸王茶姬咖啡因含量超2罐红牛（热度：1209166）
 </a>
 </li>
 

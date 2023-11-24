@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700839098314,
+  "endTime": 1700840064732,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -675,6 +675,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 1697447,
+      "num": 1697447,
+      "word": "霸王茶姬咖啡因含量超2罐红牛",
+      "onboard_time": 1700837795,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1694236,
       "num": 1694236,
       "word": "关晓彤檀健次方否认有偿录祝福",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1700524107,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1209166,
-      "num": 269003,
-      "word": "霸王茶姬咖啡因含量超2罐红牛",
-      "onboard_time": 1700837795,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 1204796,
@@ -4003,6 +4003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 485910,
+      "num": 257325,
+      "word": "赵昭仪发5秒 秦岚回25秒",
+      "onboard_time": 1700838696,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484842,
       "num": 484842,
       "word": "体育 主科",
@@ -4265,6 +4273,14 @@
       "onboard_time": 1700835935,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 457354,
+      "num": 457354,
+      "word": "张小斐 全世界淋雨我在吃香蕉",
+      "onboard_time": 1700837315,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 456559,
@@ -4601,14 +4617,6 @@
       "onboard_time": 1700655334,
       "rank": 15,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 431320,
-      "num": 217535,
-      "word": "张小斐 全世界淋雨我在吃香蕉",
-      "onboard_time": 1700837315,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 431124,
@@ -5092,7 +5100,7 @@
     },
     {
       "raw_hot": 388865,
-      "num": 208681,
+      "num": 212346,
       "word": "JYP出现时台下表情",
       "onboard_time": 1700836118,
       "rank": 31,
@@ -5939,6 +5947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 342675,
+      "num": 213375,
+      "word": "崔雪莉曾说做韩流偶像最惨",
+      "onboard_time": 1700839714,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342417,
       "num": 342417,
       "word": "杨紫泰国游玩plog",
@@ -6521,6 +6537,14 @@
       "onboard_time": 1700751338,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 315959,
+      "num": 175864,
+      "word": "小鹿拍戏亲过白宇十多次",
+      "onboard_time": 1700838514,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 315782,
@@ -7875,20 +7899,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 260277,
-      "num": 178568,
-      "word": "赵昭仪发5秒 秦岚回25秒",
-      "onboard_time": 1700838696,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260002,
       "num": 260002,
       "word": "绝区零二测开启",
       "onboard_time": 1700799825,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259940,
+      "num": 150052,
+      "word": "彭昱畅曾被人冷暴力气哭",
+      "onboard_time": 1700839297,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 259693,
@@ -8795,14 +8819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233212,
-      "num": 175864,
-      "word": "小鹿拍戏亲过白宇十多次",
-      "onboard_time": 1700838514,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232743,
       "num": 232743,
       "word": "波波维奇",
@@ -8977,6 +8993,14 @@
       "onboard_time": 1700626957,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228370,
+      "num": 174427,
+      "word": "刘涛再演霓凰郡主",
+      "onboard_time": 1700838397,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 227872,
@@ -9273,6 +9297,14 @@
       "onboard_time": 1700487937,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 219658,
+      "num": 219658,
+      "word": "正确的煮面方法",
+      "onboard_time": 1700838336,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 219448,
@@ -10321,14 +10353,6 @@
       "onboard_time": 1700399076,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202660,
-      "num": 174427,
-      "word": "刘涛再演霓凰郡主",
-      "onboard_time": 1700838397,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 202367,
@@ -11699,6 +11723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184920,
+      "num": 138598,
+      "word": "谢危 朱砂玉笔定人生死",
+      "onboard_time": 1700839417,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184795,
       "num": 184795,
       "word": "曾黎景甜合照",
@@ -12123,6 +12155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176338,
+      "num": 130178,
+      "word": "王安宇拍照技术",
+      "onboard_time": 1700839714,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175866,
       "num": 175866,
       "word": "我只想莫名其妙享清福",
@@ -12244,7 +12284,7 @@
     },
     {
       "raw_hot": 173694,
-      "num": 797255,
+      "num": 813951,
       "word": "故宫银杏和红墙黄瓦完美适配",
       "onboard_time": 1700832934,
       "rank": 2,
@@ -12529,14 +12569,6 @@
       "onboard_time": 1700660976,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168253,
-      "num": 168253,
-      "word": "正确的煮面方法",
-      "onboard_time": 1700838336,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 167975,
@@ -14259,6 +14291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136561,
+      "num": 136561,
+      "word": "哪个正经小猫这样坐",
+      "onboard_time": 1700839593,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136555,
       "num": 136555,
       "word": "5岁萌娃给蹲着喂饭的老师搬凳子",
@@ -15849,6 +15889,14 @@
       "onboard_time": 1700608343,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 97778,
+      "num": 111401,
+      "word": "虾滑可乐鸡翅",
+      "onboard_time": 1700839417,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 97320,

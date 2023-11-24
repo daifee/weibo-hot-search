@@ -1,0 +1,410 @@
+{
+  "runTime": 1700840064732,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1697447,
+        "num": 1697447,
+        "word": "霸王茶姬咖啡因含量超2罐红牛",
+        "onboard_time": 1700837795,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1064524,
+        "num": 1064524,
+        "word": "郎朗证明孩子是在和钢琴友好交流",
+        "onboard_time": 1700835997,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143783,
+        "num": 813951,
+        "word": "故宫银杏和红墙黄瓦完美适配",
+        "onboard_time": 1700832934,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731807,
+        "num": 731807,
+        "word": "淘宝取消双12",
+        "onboard_time": 1700810977,
+        "rank": 3,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 694419,
+        "num": 694419,
+        "word": "杨迪 内娱真瓜主另有其人",
+        "onboard_time": 1700832758,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1429118,
+        "num": 667306,
+        "word": "吴亦凡要先在中国坐完牢再被驱逐出境",
+        "onboard_time": 1700822375,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 544003,
+        "num": 544003,
+        "word": "谢危亲了一晚上嘴皮子都破了吧",
+        "onboard_time": 1700830955,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457354,
+        "num": 457354,
+        "word": "张小斐 全世界淋雨我在吃香蕉",
+        "onboard_time": 1700837315,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457308,
+        "num": 457308,
+        "word": "文慧心郑书意 新闻人穿搭",
+        "onboard_time": 1700833538,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260924,
+        "num": 260924,
+        "word": "孕激素的威力",
+        "onboard_time": 1700832758,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 875579,
+        "num": 260919,
+        "word": "吴亦凡被驱逐出境后十年内不准入境",
+        "onboard_time": 1700832334,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 485910,
+        "num": 257325,
+        "word": "赵昭仪发5秒 秦岚回25秒",
+        "onboard_time": 1700838696,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438061,
+        "num": 255620,
+        "word": "kpop正遭受中输减少带来的打击",
+        "onboard_time": 1700834315,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 513082,
+        "num": 253016,
+        "word": "吴亦凡亲属旁听二审宣判",
+        "onboard_time": 1700798445,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 381630,
+        "num": 248018,
+        "word": "乌尔善剧透封神二三剧情",
+        "onboard_time": 1700835935,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375430,
+        "num": 246550,
+        "word": "吴莫愁退圈三年直言听歌想吐",
+        "onboard_time": 1700822254,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 462964,
+        "num": 243172,
+        "word": "吴亦凡聚众淫乱系首要分子",
+        "onboard_time": 1700796640,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 366987,
+        "num": 240540,
+        "word": "迪丽热巴没选秦海璐的原因",
+        "onboard_time": 1700835277,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240187,
+        "num": 240187,
+        "word": "清华北大 鹅腿阿姨之争",
+        "onboard_time": 1700826215,
+        "rank": 18,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 219658,
+        "num": 219658,
+        "word": "正确的煮面方法",
+        "onboard_time": 1700838336,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 342675,
+        "num": 213375,
+        "word": "崔雪莉曾说做韩流偶像最惨",
+        "onboard_time": 1700839714,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336527,
+        "num": 212346,
+        "word": "JYP出现时台下表情",
+        "onboard_time": 1700836118,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183946,
+        "num": 183946,
+        "word": "韩男子猥亵女儿10多年被妻子刺伤双眼",
+        "onboard_time": 1700819735,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159536,
+        "num": 159536,
+        "word": "不想读研想去景德镇捏泥巴",
+        "onboard_time": 1700831076,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151552,
+        "num": 151552,
+        "word": "和双子座相处千万不要越界",
+        "onboard_time": 1700832573,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334922,
+        "num": 151215,
+        "word": "李彩领因状态不佳暂停活动",
+        "onboard_time": 1700836536,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315959,
+        "num": 150839,
+        "word": "小鹿拍戏亲过白宇十多次",
+        "onboard_time": 1700838514,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307096,
+        "num": 150693,
+        "word": "郑裕美青龙影后",
+        "onboard_time": 1700838877,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150268,
+        "num": 150268,
+        "word": "恋爱脑其实是来惩罚朋友的",
+        "onboard_time": 1700835034,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125796,
+        "num": 150194,
+        "word": "马云入局预制菜",
+        "onboard_time": 1700822735,
+        "rank": 29,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 286627,
+        "num": 150182,
+        "word": "林允儿造型",
+        "onboard_time": 1700835816,
+        "rank": 30,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 259940,
+        "num": 150052,
+        "word": "彭昱畅曾被人冷暴力气哭",
+        "onboard_time": 1700839297,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228370,
+        "num": 150019,
+        "word": "刘涛再演霓凰郡主",
+        "onboard_time": 1700838397,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149963,
+        "num": 149963,
+        "word": "Crisp说自己应该会留队",
+        "onboard_time": 1700837196,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144390,
+        "num": 144390,
+        "word": "HLE官宣Peanut加入",
+        "onboard_time": 1700833655,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211928,
+        "num": 141738,
+        "word": "黄渤拍完涉海不敢面对戏里的女儿",
+        "onboard_time": 1700833595,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190348,
+        "num": 140024,
+        "word": "宋亚轩时隔六年唱神奇",
+        "onboard_time": 1700838637,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184920,
+        "num": 138598,
+        "word": "谢危 朱砂玉笔定人生死",
+        "onboard_time": 1700839417,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136561,
+        "num": 136561,
+        "word": "哪个正经小猫这样坐",
+        "onboard_time": 1700839593,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132228,
+        "num": 132228,
+        "word": "更适合脆皮年轻人的八段锦教程",
+        "onboard_time": 1700837552,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 176338,
+        "num": 130178,
+        "word": "王安宇拍照技术",
+        "onboard_time": 1700839714,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171984,
+        "num": 130172,
+        "word": "林俊杰演唱会嘉宾 李健",
+        "onboard_time": 1700828676,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159033,
+        "num": 124756,
+        "word": "沈芷衣被逼洞房",
+        "onboard_time": 1700829575,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118261,
+        "num": 118261,
+        "word": "原来萝卜花是甩出来的",
+        "onboard_time": 1700837974,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158617,
+        "num": 118260,
+        "word": "郑秀晶红裙红毯造型",
+        "onboard_time": 1700828553,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111485,
+        "num": 111485,
+        "word": "车辆不能从烈士遗骸上方驶过",
+        "onboard_time": 1700813497,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97778,
+        "num": 111401,
+        "word": "虾滑可乐鸡翅",
+        "onboard_time": 1700839417,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94985,
+        "num": 110782,
+        "word": "感觉周五晚上要比周末更快乐",
+        "onboard_time": 1700830594,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87930,
+        "num": 109792,
+        "word": "保姆级唇部护理",
+        "onboard_time": 1700837615,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 83604,
+        "num": 109529,
+        "word": "行测常识口诀",
+        "onboard_time": 1700836715,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
