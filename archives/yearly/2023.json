@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700796889269,
+  "endTime": 1700799648477,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1163,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9591857,
+      "num": 9591857,
+      "word": "吴亦凡聚众淫乱系首要分子",
+      "onboard_time": 1700796640,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9563656,
       "num": 9563656,
       "word": "娜扎秒了",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1699617449,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9443352,
+      "num": 9443352,
+      "word": "吴亦凡案二审维持原判",
+      "onboard_time": 1700795438,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 9440198,
@@ -1465,14 +1481,6 @@
       "onboard_time": 1688354013,
       "rank": 0,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 8819755,
-      "num": 8819755,
-      "word": "吴亦凡案二审维持原判",
-      "onboard_time": 1700795438,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 8806920,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1689033630,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6800962,
-      "num": 6800962,
-      "word": "白敬亭工作室辟谣",
-      "onboard_time": 1700542720,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
