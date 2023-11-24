@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/25 00:22:42 ~ 2023/11/25 05:15:01
+本榜单时间：2023/11/25 00:22:42 ~ 2023/11/25 05:34:23
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ HLE官宣Peanut加入（热度：92633）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%84%88%E5%90%8E%E8%80%81%E5%92%B3%E5%97%BD%E5%8F%AF%E4%BB%A5%E5%96%9D%E8%BF%99%E4%B8%AA%E6%B1%A4%23" target="weibo">
+支原体肺炎愈后老咳嗽可以喝这个汤（热度：57097）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%90%9D%E5%8D%9C%E8%8A%B1%E6%98%AF%E7%94%A9%E5%87%BA%E6%9D%A5%E7%9A%84%23" target="weibo">
 原来萝卜花是甩出来的（热度：54343）
 </a>
@@ -359,12 +365,6 @@ HLE官宣Peanut加入（热度：92633）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B3%BB%E8%9D%B4%E8%9D%B6%E7%BB%93%E6%95%99%E7%A8%8B%23" target="weibo">
 系蝴蝶结教程（热度：40287）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%84%88%E5%90%8E%E8%80%81%E5%92%B3%E5%97%BD%E5%8F%AF%E4%BB%A5%E5%96%9D%E8%BF%99%E4%B8%AA%E6%B1%A4%23" target="weibo">
-支原体肺炎愈后老咳嗽可以喝这个汤（热度：38330）
 </a>
 </li>
 
@@ -412,7 +412,7 @@ i人生活再遭曝光（热度：28437）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E8%AF%86%E4%BB%A5%E4%B8%80%E7%A7%8D%E5%8D%91%E9%84%99%E7%9A%84%E6%96%B9%E5%BC%8F%E8%BF%9B%E5%85%A5%E6%88%91%E7%9A%84%E8%84%91%E5%AD%90%23" target="weibo">
-知识以一种卑鄙的方式进入我的脑子（热度：16901）
+知识以一种卑鄙的方式进入我的脑子（热度：17687）
 </a>
 </li>
 
