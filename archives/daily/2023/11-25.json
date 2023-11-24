@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700861663924,
+  "endTime": 1700864170157,
   "band_list": [
     {
       "raw_hot": 1148764,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191608,
+      "num": 191608,
+      "word": "官方通报消防员被妻子举报出轨",
+      "onboard_time": 1700854993,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189792,
       "num": 189792,
       "word": "10种听起来吓人但无需治疗的病",
@@ -307,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124486,
-      "num": 34847,
-      "word": "官方通报消防员被妻子举报出轨",
-      "onboard_time": 1700854993,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122472,
       "num": 114920,
       "word": "林俊杰演唱会嘉宾 李健",
@@ -369,6 +369,14 @@
       "onboard_time": 1700839593,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94190,
+      "num": 94190,
+      "word": "支原体肺炎愈后老咳嗽可以喝这个汤",
+      "onboard_time": 1700857214,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92633,
@@ -443,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57097,
-      "num": 57097,
-      "word": "支原体肺炎愈后老咳嗽可以喝这个汤",
-      "onboard_time": 1700857214,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 54343,
       "num": 86458,
       "word": "原来萝卜花是甩出来的",
@@ -473,6 +473,14 @@
       "onboard_time": 1700845523,
       "rank": 48,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 36274,
+      "num": 36274,
+      "word": "蓝白合",
+      "onboard_time": 1700858414,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34549,
@@ -515,12 +523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20654,
-      "num": 20654,
-      "word": "蓝白合",
-      "onboard_time": 1700858414,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 20611,
+      "num": 20611,
+      "word": "知识以一种卑鄙的方式进入我的脑子",
+      "onboard_time": 1700859193,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 17718,
@@ -531,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17687,
-      "num": 17687,
-      "word": "知识以一种卑鄙的方式进入我的脑子",
-      "onboard_time": 1700859193,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 13604,
+      "num": 17493,
+      "word": "于适周深合唱冰雪奇缘主题曲",
+      "onboard_time": 1700862913,
+      "rank": 47,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
