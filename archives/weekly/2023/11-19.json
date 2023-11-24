@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700782472902,
+  "endTime": 1700788443870,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -561,6 +561,14 @@
       "onboard_time": 1700465193,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1750115,
+      "num": 1750115,
+      "word": "过期口红 唇炎",
+      "onboard_time": 1700783367,
+      "rank": 0,
+      "category": "美妆"
     },
     {
       "raw_hot": 1736182,
@@ -1227,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 997001,
+      "num": 471170,
+      "word": "小S晒许雅钧准备的大餐",
+      "onboard_time": 1700782526,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 995507,
       "num": 995507,
       "word": "女子拿鞭引导男子跪地爬行双双被拘",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1700378314,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 961762,
+      "num": 454137,
+      "word": "女性的生育痛苦需要被重视",
+      "onboard_time": 1700785054,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 961000,
@@ -1523,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 844126,
+      "num": 844126,
+      "word": "港剧从来都不会年龄焦虑",
+      "onboard_time": 1700759840,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 841104,
       "num": 841104,
       "word": "围炉烤橘放倒母子3人",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1700624976,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 813056,
+      "num": 813056,
+      "word": "河南一救护车多次载人跨市买毒品",
+      "onboard_time": 1700786193,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 811752,
@@ -2379,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 624094,
+      "num": 437088,
+      "word": "原来这个姿势小腿会弯",
+      "onboard_time": 1700784932,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 623904,
       "num": 623904,
       "word": "果敢电诈二代正接管家族黑色产业",
@@ -2625,6 +2673,14 @@
       "onboard_time": 1700361150,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 588298,
+      "num": 588298,
+      "word": "北京儿童医院门诊现状",
+      "onboard_time": 1700785652,
+      "rank": 7,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 588005,
@@ -3339,6 +3395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495763,
+      "num": 296362,
+      "word": "别老用洗衣机快洗了",
+      "onboard_time": 1700782526,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 494911,
       "num": 494911,
       "word": "为什么有人一紧张就会拉肚子",
@@ -3449,6 +3513,14 @@
       "onboard_time": 1700536112,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 483964,
+      "num": 483964,
+      "word": "熬夜是一种不得已的喘息",
+      "onboard_time": 1700783909,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 483689,
@@ -3721,14 +3793,6 @@
       "onboard_time": 1700631754,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 449106,
-      "num": 449106,
-      "word": "港剧从来都不会年龄焦虑",
-      "onboard_time": 1700759840,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 449077,
@@ -4099,6 +4163,14 @@
       "category": "剧集,时尚"
     },
     {
+      "raw_hot": 414998,
+      "num": 414998,
+      "word": "来自China的老头能蒙眼投篮",
+      "onboard_time": 1700783367,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412861,
       "num": 397364,
       "word": "以爱为营大结局点映礼",
@@ -4273,6 +4345,14 @@
       "onboard_time": 1700464173,
       "rank": 38,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 395200,
+      "num": 295126,
+      "word": "在景德镇花15元买了一箱瓷碗",
+      "onboard_time": 1700787332,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 393672,
@@ -4987,6 +5067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 346023,
+      "num": 346023,
+      "word": "ShowMaker回应续约DK三年",
+      "onboard_time": 1700782224,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345930,
       "num": 345930,
       "word": "宋轶男友视角随拍",
@@ -5185,6 +5273,14 @@
       "onboard_time": 1700389603,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335482,
+      "num": 335482,
+      "word": "考研人数九年来首降",
+      "onboard_time": 1700785772,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 335202,
@@ -5401,6 +5497,14 @@
       "onboard_time": 1700483372,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324666,
+      "num": 324666,
+      "word": "VOGUE 赞助商",
+      "onboard_time": 1700787994,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 324296,
@@ -6067,6 +6171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288835,
+      "num": 288835,
+      "word": "不存钱和存钱过的是两种人生",
+      "onboard_time": 1700787814,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288786,
       "num": 288786,
       "word": "这轮发烧为何来的这么狠",
@@ -6531,6 +6643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 265413,
+      "num": 265413,
+      "word": "丁程鑫 我们的第五年开始了",
+      "onboard_time": 1700785894,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265191,
       "num": 265191,
       "word": "宋雨琦玫瑰红吊带裙",
@@ -6923,6 +7043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251338,
+      "num": 297250,
+      "word": "内地院线12月上映影片",
+      "onboard_time": 1700787753,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251177,
       "num": 251177,
       "word": "新闻女王唯一的缺点 更太慢",
@@ -7105,6 +7233,14 @@
       "onboard_time": 1700461413,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245089,
+      "num": 245089,
+      "word": "商家 我真该死",
+      "onboard_time": 1700785054,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 244775,
@@ -8251,6 +8387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211827,
+      "num": 211827,
+      "word": "新闻女王 套娃剧宣",
+      "onboard_time": 1700787575,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211619,
       "num": 1395795,
       "word": "小鸟好像飞进了国画里的柿子树",
@@ -8401,6 +8545,14 @@
       "onboard_time": 1700745640,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208277,
+      "num": 208277,
+      "word": "宁安如梦 文臣酒桌修罗场",
+      "onboard_time": 1700785652,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 208253,
@@ -9427,14 +9579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191439,
-      "num": 86010,
-      "word": "ShowMaker回应续约DK三年",
-      "onboard_time": 1700782224,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 191314,
       "num": 206359,
       "word": "湖人战胜火箭",
@@ -9545,6 +9689,14 @@
       "onboard_time": 1700621132,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189309,
+      "num": 155137,
+      "word": "3个坐姿动作瘦肚子",
+      "onboard_time": 1700785652,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 189082,
@@ -9673,6 +9825,14 @@
       "onboard_time": 1700553457,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187710,
+      "num": 155039,
+      "word": "平账大圣",
+      "onboard_time": 1700787332,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187627,
@@ -10188,7 +10348,7 @@
     },
     {
       "raw_hot": 177994,
-      "num": 118089,
+      "num": 141033,
       "word": "老师发朋友圈晒他当年的考研分数",
       "onboard_time": 1700781443,
       "rank": 22,
@@ -10595,6 +10755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167909,
+      "num": 167909,
+      "word": "算力租赁价格暴涨200%",
+      "onboard_time": 1700787032,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167873,
       "num": 167873,
       "word": "杨迪吃过最好吃的面",
@@ -10908,7 +11076,7 @@
     },
     {
       "raw_hot": 161705,
-      "num": 116943,
+      "num": 148214,
       "word": "叶晞月替薛姝手写道歉信",
       "onboard_time": 1700757804,
       "rank": 20,
@@ -11163,6 +11331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155257,
+      "num": 155257,
+      "word": "近2万斤甲鱼散落高速过路司机伸援手",
+      "onboard_time": 1700767813,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155130,
       "num": 155130,
       "word": "萌兰小跑返场调皮又可爱",
@@ -11193,6 +11369,14 @@
       "onboard_time": 1700641416,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154492,
+      "num": 154492,
+      "word": "秦海璐 花少主心骨",
+      "onboard_time": 1700785351,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 154338,
@@ -11315,6 +11499,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 151454,
+      "num": 151454,
+      "word": "都柏林",
+      "onboard_time": 1700788233,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151332,
       "num": 151332,
       "word": "上海迪士尼100周年限定款烟花秀",
@@ -11385,6 +11577,14 @@
       "onboard_time": 1700705555,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 149651,
+      "num": 149651,
+      "word": "后陡门爱神",
+      "onboard_time": 1700784571,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149538,
@@ -11723,6 +11923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143886,
+      "num": 143886,
+      "word": "被女老师从父亲拳下救走的女孩也当了老师",
+      "onboard_time": 1700787932,
+      "rank": 41,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 143804,
       "num": 143804,
       "word": "易峥 点塔",
@@ -11769,6 +11977,14 @@
       "onboard_time": 1700446952,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 142916,
+      "num": 142916,
+      "word": "警号017847重启",
+      "onboard_time": 1700787932,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142888,
@@ -12323,6 +12539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133225,
+      "num": 133225,
+      "word": "赵明回应华为中低端5G手机回归",
+      "onboard_time": 1700785230,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133219,
       "num": 133219,
       "word": "过水门最高礼遇迎志愿军烈士回家",
@@ -12401,14 +12625,6 @@
       "onboard_time": 1700550694,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131790,
-      "num": 131790,
-      "word": "近2万斤甲鱼散落高速过路司机伸援手",
-      "onboard_time": 1700767813,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131718,
@@ -12939,6 +13155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118624,
+      "num": 118624,
+      "word": "泰勒巡演电影将在中国内地上映",
+      "onboard_time": 1700784210,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117691,
       "num": 117691,
       "word": "没有内马尔的巴西",
@@ -13065,6 +13289,14 @@
       "onboard_time": 1700560235,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113138,
+      "num": 113138,
+      "word": "武警女兵一家四代从军",
+      "onboard_time": 1700788352,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 112839,
