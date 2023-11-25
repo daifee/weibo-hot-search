@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 17:34:11
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 18:17:12
 </p>
 </blockquote>
 <p>
@@ -573,6 +573,12 @@ WBG晋级S13总决赛（热度：2847580）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23" target="weibo">
+尖叫之夜红毯（热度：2804238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%9D%8D%E5%A1%8C%E4%BD%93%E8%82%B2%E9%A6%863%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 佳木斯坍塌体育馆3人遇难（热度：2798298）
 </a>
@@ -893,12 +899,6 @@ GEN对战BLG（热度：2392638）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%E5%90%8E%E5%8D%81%E5%B9%B4%E5%86%85%E4%B8%8D%E5%87%86%E5%85%A5%E5%A2%83%23" target="weibo">
 吴亦凡被驱逐出境后十年内不准入境（热度：2347313）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23" target="weibo">
-尖叫之夜红毯（热度：2328065）
 </a>
 </li>
 
@@ -1733,6 +1733,12 @@ T1拿到决赛赛点（热度：1835312）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E7%9B%B4%E6%92%AD%E7%A0%B4%E9%98%B2%23" target="weibo">
 陈赫直播破防（热度：1800726）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AFBGM%20%E5%A5%BD%E5%90%B5%23" target="weibo">
+尖叫之夜红毯BGM 好吵（热度：1784996）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ S13四强已有三支LPL战队（热度：837933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%8F%91%E9%94%99%E7%BE%A4%E6%B6%88%E6%81%AF%23" target="weibo">
 邓紫棋发错群消息（热度：825384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%8E%B0%E8%BA%AB%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%9F%E8%B0%A3%E5%8F%8C11%E5%90%8E%E5%81%9C%E6%92%AD%E4%BC%A0%E9%97%BB%23" target="weibo">
-李佳琦现身直播间辟谣双11后停播传闻（热度：825192）
 </a>
 </li>
 
