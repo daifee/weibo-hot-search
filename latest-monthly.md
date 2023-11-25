@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 15:15:12
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 15:33:53
 </p>
 </blockquote>
 <p>
@@ -1469,6 +1469,12 @@ WBG对战BLG（热度：2001531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%BA%E5%A8%81%E8%82%98%E5%87%BB%E9%A2%96%E5%84%BF%23" target="weibo">
 刘恺威肘击颖儿（热度：1955073）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BD%A9%E6%85%88%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%81%B6%E5%8A%BF%E5%8A%9B%E5%9B%A2%E4%BC%99%E9%A6%96%E8%84%91%23" target="weibo">
+吴佩慈未婚夫定性为恶势力团伙首脑（热度：1953508）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ S13四强已有三支LPL战队（热度：837933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E8%A2%AB%E8%80%81%E5%88%98%E5%82%85%E9%A6%96%E5%B0%94%E8%99%90%E5%88%B0%E5%93%AD%23" target="weibo">
 孙怡被老刘傅首尔虐到哭（热度：823123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2%E5%A5%BD%E8%B4%B5%23" target="weibo">
-美甲好贵（热度：822971）
 </a>
 </li>
 
