@@ -1,7 +1,15 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700868862828,
+  "endTime": 1700874787535,
   "band_list": [
+    {
+      "raw_hot": 1641081,
+      "num": 393061,
+      "word": "吴亦凡被驱逐出境后十年内不准入境",
+      "onboard_time": 1700832334,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 1148764,
       "num": 461503,
@@ -19,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 945483,
+      "num": 945483,
+      "word": "蒲罗旺斯",
+      "onboard_time": 1700870547,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 832073,
       "num": 832073,
       "word": "官方通报消防员被妻子举报出轨",
@@ -27,20 +43,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 790397,
-      "num": 271429,
-      "word": "吴亦凡被驱逐出境后十年内不准入境",
-      "onboard_time": 1700832334,
-      "rank": 10,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 686426,
       "num": 686426,
       "word": "郎朗证明孩子是在和钢琴友好交流",
       "onboard_time": 1700835997,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 657314,
+      "num": 223919,
+      "word": "女子为怀男胎听医生建议后生下2女婴",
+      "onboard_time": 1700870728,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531654,
+      "num": 289487,
+      "word": "Doinb Ning",
+      "onboard_time": 1700870787,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 528682,
+      "num": 389530,
+      "word": "谢危亲了一晚上嘴皮子都破了吧",
+      "onboard_time": 1700830955,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 519633,
@@ -59,6 +91,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484166,
+      "num": 392991,
+      "word": "律师解读吴亦凡案还有机会改判吗",
+      "onboard_time": 1700867239,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 432324,
+      "num": 432324,
+      "word": "急诊医生得知奶奶去世抹掉眼泪接诊",
+      "onboard_time": 1700868684,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396906,
       "num": 254966,
       "word": "吴亦凡亲属旁听二审宣判",
@@ -67,12 +115,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 389530,
-      "num": 389530,
-      "word": "谢危亲了一晚上嘴皮子都破了吧",
-      "onboard_time": 1700830955,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 393391,
+      "num": 393391,
+      "word": "Jennie崔秀彬坐一起",
+      "onboard_time": 1700870007,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 392509,
+      "num": 392509,
+      "word": "369疑似离队",
+      "onboard_time": 1700867961,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 347445,
@@ -115,12 +171,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303971,
-      "num": 303971,
-      "word": "律师解读吴亦凡案还有机会改判吗",
-      "onboard_time": 1700867239,
-      "rank": 7,
-      "category": "社会新闻,艺人"
+      "raw_hot": 305217,
+      "num": 223287,
+      "word": "高校男生将女厕捐卵广告全部烧黑",
+      "onboard_time": 1700872770,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298377,
+      "num": 298377,
+      "word": "忌辛辣就是不吃辣的吗",
+      "onboard_time": 1700866938,
+      "rank": 19,
+      "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 293654,
+      "num": 293654,
+      "word": "理解王嘉尔 成为王嘉尔",
+      "onboard_time": 1700873969,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282827,
+      "num": 282827,
+      "word": "姐弟机场复刻1988名场面",
+      "onboard_time": 1700870907,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280918,
@@ -131,12 +211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277637,
+      "num": 277637,
+      "word": "国外翼装飞行者撞机头颅脱落当场死亡",
+      "onboard_time": 1700872349,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275796,
       "num": 254560,
       "word": "吴莫愁退圈三年直言听歌想吐",
       "onboard_time": 1700822254,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271085,
+      "num": 222629,
+      "word": "女子随错份子钱1200拿不回来了",
+      "onboard_time": 1700872349,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265606,
@@ -147,14 +243,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 255978,
-      "num": 255978,
-      "word": "忌辛辣就是不吃辣的吗",
-      "onboard_time": 1700866938,
-      "rank": 19,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 246090,
       "num": 246090,
       "word": "乌尔善剧透封神二三剧情",
@@ -163,12 +251,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245055,
-      "num": 72105,
-      "word": "369疑似离队",
-      "onboard_time": 1700867961,
+      "raw_hot": 235976,
+      "num": 160246,
+      "word": "威尔史密斯女儿Willow新歌",
+      "onboard_time": 1700873310,
       "rank": 30,
-      "category": "电竞"
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 229555,
+      "num": 229555,
+      "word": "BLACKPINK出席白金汉宫宴会合照",
+      "onboard_time": 1700870246,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225838,
+      "num": 225838,
+      "word": "外交部回应韩英领导人涉华言论",
+      "onboard_time": 1700869225,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221305,
@@ -176,6 +280,14 @@
       "word": "小说里的总裁vs现实里的总裁",
       "onboard_time": 1700840613,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216441,
+      "num": 216441,
+      "word": "许幻山你儿子被抢走了",
+      "onboard_time": 1700870787,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -217,6 +329,14 @@
       "onboard_time": 1700838397,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192734,
+      "num": 192734,
+      "word": "咖啡店用青椒装咖啡",
+      "onboard_time": 1700871628,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 189792,
@@ -267,6 +387,38 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 166583,
+      "num": 166583,
+      "word": "但幸好 我们有朋友",
+      "onboard_time": 1700870728,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163503,
+      "num": 163503,
+      "word": "369 TES",
+      "onboard_time": 1700874629,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 162359,
+      "num": 162359,
+      "word": "VOGUE直击",
+      "onboard_time": 1700873911,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 157873,
+      "num": 157873,
+      "word": "感染腺病毒发烧可持续一两周",
+      "onboard_time": 1700873849,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154555,
       "num": 118827,
       "word": "王安宇拍照技术",
@@ -283,8 +435,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146720,
+      "num": 146720,
+      "word": "玲娜贝儿穿新裙子",
+      "onboard_time": 1700870547,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 145281,
-      "num": 118555,
+      "num": 123112,
       "word": "迪丽热巴没选秦海璐的原因",
       "onboard_time": 1700835277,
       "rank": 33,
@@ -371,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115634,
+      "num": 115634,
+      "word": "退休教师在家辅导外孙女数学走红",
+      "onboard_time": 1700874570,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 114853,
       "num": 118941,
       "word": "和双子座相处千万不要越界",
@@ -385,6 +553,22 @@
       "onboard_time": 1700837196,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110331,
+      "num": 110331,
+      "word": "Jennie裸色抹胸长裙",
+      "onboard_time": 1700869344,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 108927,
+      "num": 108927,
+      "word": "建议爱豆都拍给我看",
+      "onboard_time": 1700871752,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108900,
@@ -411,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98236,
+      "num": 98236,
+      "word": "不同呼吸道疾病有哪些症状",
+      "onboard_time": 1700872289,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97033,
       "num": 118610,
       "word": "哪个正经小猫这样坐",
@@ -425,6 +617,14 @@
       "onboard_time": 1700833655,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92000,
+      "num": 92000,
+      "word": "宋亚轩萱草花大风吹串烧舞台",
+      "onboard_time": 1700874089,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 89520,
@@ -545,14 +745,6 @@
       "onboard_time": 1700823994,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44821,
-      "num": 44821,
-      "word": "急诊医生得知奶奶去世抹掉眼泪接诊",
-      "onboard_time": 1700868684,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40287,
