@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700932458641,
+  "endTime": 1700933638834,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -51323,6 +51323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165938,
+      "num": 165938,
+      "word": "与恶魔有约",
+      "onboard_time": 1700932945,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165905,
       "num": 178879,
       "word": "全国开展过山车事故隐患排查治理",
@@ -68745,6 +68753,14 @@
       "onboard_time": 1700177608,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36591,
+      "num": 145226,
+      "word": "日常上班超级简单的发型",
+      "onboard_time": 1700933363,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 36556,

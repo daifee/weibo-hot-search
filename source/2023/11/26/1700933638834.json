@@ -1,0 +1,410 @@
+{
+  "runTime": 1700933638834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1475799,
+        "num": 1475799,
+        "word": "杨幂 于和伟亲马东了",
+        "onboard_time": 1700924084,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 750662,
+        "num": 750662,
+        "word": "白鹿 尖叫女演员",
+        "onboard_time": 1700923549,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25982,
+        "num": 721565,
+        "word": "中国基建狂魔即将打通天山",
+        "onboard_time": 1700897137,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 714872,
+        "num": 714872,
+        "word": "金马影后林品彤 12岁",
+        "onboard_time": 1700926187,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 615922,
+        "num": 615922,
+        "word": "白敬亭宋轶你俩不认识吗",
+        "onboard_time": 1700909920,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 630044,
+        "num": 612236,
+        "word": "吴慷仁 金马影帝",
+        "onboard_time": 1700926666,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156006,
+        "num": 605891,
+        "word": "北京朝阳警方立案侦查中植系所属财富公司",
+        "onboard_time": 1700923305,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148148,
+        "num": 601849,
+        "word": "余光中妻子去世",
+        "onboard_time": 1700921749,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128671,
+        "num": 593498,
+        "word": "不能二次加热的食物",
+        "onboard_time": 1700910771,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115901,
+        "num": 591803,
+        "word": "切尔西北伐",
+        "onboard_time": 1700926544,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586583,
+        "num": 586583,
+        "word": "娜扎 是你们要看的吗",
+        "onboard_time": 1700920127,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540589,
+        "num": 540589,
+        "word": "在谈vs分了",
+        "onboard_time": 1700911968,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452461,
+        "num": 452461,
+        "word": "陈晓瘦脱相了",
+        "onboard_time": 1700918750,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114844,
+        "num": 447686,
+        "word": "当前流行病毒大多侵犯上呼吸道且有自限性",
+        "onboard_time": 1700924628,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99991,
+        "num": 446381,
+        "word": "369回应加入TES",
+        "onboard_time": 1700912866,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 445599,
+        "num": 445599,
+        "word": "棣欣引力",
+        "onboard_time": 1700912925,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361056,
+        "num": 361056,
+        "word": "张凌赫为什么像做贼",
+        "onboard_time": 1700923367,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99279,
+        "num": 319899,
+        "word": "小腿瘦得毫不费力",
+        "onboard_time": 1700919947,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 90185,
+        "num": 300701,
+        "word": "李知恩cos海诺",
+        "onboard_time": 1700918508,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79344,
+        "num": 297081,
+        "word": "朱鹮洋洋去世",
+        "onboard_time": 1700924264,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294617,
+        "num": 294617,
+        "word": "虞书欣成毅梦回一年级",
+        "onboard_time": 1700917371,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256303,
+        "num": 290185,
+        "word": "王鹤棣 尖叫男演员",
+        "onboard_time": 1700923428,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159468,
+        "num": 251017,
+        "word": "韩国一女子杀人分尸称痴迷犯罪想尝试谋杀",
+        "onboard_time": 1700913043,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72876,
+        "num": 244711,
+        "word": "陈震 韩路",
+        "onboard_time": 1700919108,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 69480,
+        "num": 242767,
+        "word": "美国人工智能判定美国登月任务照片是假的",
+        "onboard_time": 1700906258,
+        "rank": 24,
+        "category": "国外时政,科学科普"
+      },
+      {
+        "raw_hot": 240893,
+        "num": 240893,
+        "word": "杨幂压轴",
+        "onboard_time": 1700910585,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233561,
+        "num": 233561,
+        "word": "张译 缺席",
+        "onboard_time": 1700913884,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233380,
+        "num": 233380,
+        "word": "连电视剧都有双休了",
+        "onboard_time": 1700927440,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62402,
+        "num": 221678,
+        "word": "何冲评全红婵粉丝斥裁判压分",
+        "onboard_time": 1700911908,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62387,
+        "num": 213084,
+        "word": "Cat知道错了",
+        "onboard_time": 1700914245,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212919,
+        "num": 212919,
+        "word": "林青霞 金马终身成就奖",
+        "onboard_time": 1700917970,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200137,
+        "num": 200137,
+        "word": "对接称刘诗诗不上台",
+        "onboard_time": 1700907759,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189983,
+        "num": 189983,
+        "word": "关我秦岚什么事",
+        "onboard_time": 1700915685,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61192,
+        "num": 184891,
+        "word": "方圆脸的半遮耳发型",
+        "onboard_time": 1700914608,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 52474,
+        "num": 181470,
+        "word": "花海直播",
+        "onboard_time": 1700908781,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180833,
+        "num": 180833,
+        "word": "田曦薇 青春飞跃女演员",
+        "onboard_time": 1700915626,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172250,
+        "num": 172250,
+        "word": "宋轶白敬亭魏大勋 切镜头",
+        "onboard_time": 1700914908,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52130,
+        "num": 171926,
+        "word": "斯特林又快乐了",
+        "onboard_time": 1700926544,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48604,
+        "num": 171893,
+        "word": "百兽给花海发的弹幕",
+        "onboard_time": 1700919227,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48447,
+        "num": 171886,
+        "word": "杭州也有东北自助盒饭了",
+        "onboard_time": 1700925409,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171884,
+        "num": 171884,
+        "word": "王一博 不能",
+        "onboard_time": 1700909742,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171047,
+        "num": 171047,
+        "word": "成毅在打车吗",
+        "onboard_time": 1700917129,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166385,
+        "num": 166385,
+        "word": "林志玲北野武 颁奖",
+        "onboard_time": 1700908781,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165938,
+        "num": 165938,
+        "word": "与恶魔有约",
+        "onboard_time": 1700932945,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145556,
+        "num": 145556,
+        "word": "张颂文 年度实力男演员",
+        "onboard_time": 1700926426,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47568,
+        "num": 145502,
+        "word": "纽卡斯尔联vs切尔西",
+        "onboard_time": 1700926366,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47296,
+        "num": 145446,
+        "word": "当代中年夫妻现状",
+        "onboard_time": 1700923428,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43149,
+        "num": 145323,
+        "word": "花海 好美的精神状态",
+        "onboard_time": 1700907633,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40470,
+        "num": 145241,
+        "word": "湖州首位双料女棋王诞生",
+        "onboard_time": 1700928875,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36591,
+        "num": 145226,
+        "word": "日常上班超级简单的发型",
+        "onboard_time": 1700933363,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国学解锁中国密码#"
+    }
+  }
+}
