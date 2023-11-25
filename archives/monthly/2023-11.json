@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700936417766,
+  "endTime": 1700937256785,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -67347,6 +67347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65718,
+      "num": 280558,
+      "word": "美嘉仿妆",
+      "onboard_time": 1700934861,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 65634,
       "num": 65634,
       "word": "小学生捡手机后报警找失主被当众表扬",
@@ -68193,14 +68201,6 @@
       "onboard_time": 1699134973,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50780,
-      "num": 161214,
-      "word": "美嘉仿妆",
-      "onboard_time": 1700934861,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 50770,
@@ -69417,6 +69417,14 @@
       "onboard_time": 1699959632,
       "rank": 14,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 20464,
+      "num": 76039,
+      "word": "斗鱼陈少杰被捕后多位大主播已停播",
+      "onboard_time": 1700937137,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20117,
