@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/25 20:30:23
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/25 20:45:57
 </p>
 </blockquote>
 <p>
@@ -443,6 +443,12 @@ WBG对战T1（热度：12632234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%20%E5%8E%9F%E5%9C%B0%E6%B6%88%E5%A4%B1%E6%9C%AF%23" target="weibo">
 奔跑吧 原地消失术（热度：11613152）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8F%88%E5%90%AC%E5%88%B0%E4%BB%80%E4%B9%88%E4%BA%86%23" target="weibo">
+杨幂又听到什么了（热度：11578002）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ T1晋级S13总决赛（热度：7233927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%23" target="weibo">
 江西一化工厂爆炸（热度：6846023）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3%E7%AD%BE%E7%BA%A6Uzi%23" target="weibo">
-EDG官宣签约Uzi（热度：6842168）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700915423202,
+  "endTime": 1700916357228,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -576,6 +576,14 @@
       "word": "奔跑吧 原地消失术",
       "onboard_time": 1689338621,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11578002,
+      "num": 11578002,
+      "word": "杨幂又听到什么了",
+      "onboard_time": 1700914428,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1688188412,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6842168,
-      "num": 6842168,
-      "word": "EDG官宣签约Uzi",
-      "onboard_time": 1686380789,
-      "rank": 0,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [

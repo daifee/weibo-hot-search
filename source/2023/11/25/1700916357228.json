@@ -1,0 +1,410 @@
+{
+  "runTime": 1700916357228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11578002,
+        "num": 11578002,
+        "word": "杨幂又听到什么了",
+        "onboard_time": 1700914428,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3159907,
+        "num": 3159907,
+        "word": "在谈vs分了",
+        "onboard_time": 1700911968,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27042,
+        "num": 2757867,
+        "word": "新时代中国乡野调查",
+        "onboard_time": 1700899776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2712449,
+        "num": 2712449,
+        "word": "棣欣引力",
+        "onboard_time": 1700912925,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1714820,
+        "num": 1714820,
+        "word": "内场座位 CP乱打",
+        "onboard_time": 1700915328,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1483178,
+        "num": 1483178,
+        "word": "宋轶白敬亭魏大勋 切镜头",
+        "onboard_time": 1700914908,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435226,
+        "num": 1478546,
+        "word": "不能二次加热的食物",
+        "onboard_time": 1700910771,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 356235,
+        "num": 1422238,
+        "word": "美国人工智能判定美国登月任务照片是假的",
+        "onboard_time": 1700906258,
+        "rank": 7,
+        "category": "国外时政,科学科普"
+      },
+      {
+        "raw_hot": 305367,
+        "num": 1392333,
+        "word": "369回应加入TES",
+        "onboard_time": 1700912866,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272630,
+        "num": 1355753,
+        "word": "何冲评全红婵粉丝斥裁判压分",
+        "onboard_time": 1700911908,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6103614,
+        "num": 1318936,
+        "word": "白敬亭宋轶一起走红毯",
+        "onboard_time": 1700908118,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2048931,
+        "num": 1306231,
+        "word": "杨幂压轴",
+        "onboard_time": 1700910585,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1279814,
+        "num": 1279814,
+        "word": "王一博 不能",
+        "onboard_time": 1700909742,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257243,
+        "num": 1165465,
+        "word": "Cat知道错了",
+        "onboard_time": 1700914245,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248223,
+        "num": 1137380,
+        "word": "方圆脸的半遮耳发型",
+        "onboard_time": 1700914608,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1136476,
+        "num": 1136476,
+        "word": "诗幂",
+        "onboard_time": 1700913826,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 958099,
+        "num": 958099,
+        "word": "虞书欣一个人走红毯",
+        "onboard_time": 1700909742,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241689,
+        "num": 955594,
+        "word": "山西被埋工地已确认7人遇难",
+        "onboard_time": 1700915507,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173470,
+        "num": 955562,
+        "word": "南部战区就美舰侵闯西沙领海发表谈话",
+        "onboard_time": 1700909680,
+        "rank": 18,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 160495,
+        "num": 955541,
+        "word": "花花吃饭被弟弟折腾懵了",
+        "onboard_time": 1700900857,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955538,
+        "num": 955538,
+        "word": "白鹿唱歌切张凌赫",
+        "onboard_time": 1700914965,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 928070,
+        "num": 928070,
+        "word": "关我秦岚什么事",
+        "onboard_time": 1700915685,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 852203,
+        "num": 852203,
+        "word": "王鹤棣 道明寺",
+        "onboard_time": 1700911488,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1551234,
+        "num": 852019,
+        "word": "狂飙 第二部",
+        "onboard_time": 1700909502,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535519,
+        "num": 848618,
+        "word": "韩国一女子杀人分尸称痴迷犯罪想尝试谋杀",
+        "onboard_time": 1700913043,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442561,
+        "num": 845186,
+        "word": "李荣浩嘉宾真是陈奕迅",
+        "onboard_time": 1700916285,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212277,
+        "num": 844086,
+        "word": "花海 好美的精神状态",
+        "onboard_time": 1700907633,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169877,
+        "num": 840126,
+        "word": "怀孕5月女子到派出所帮亡夫销户落泪",
+        "onboard_time": 1700901160,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157429,
+        "num": 837115,
+        "word": "海底捞回应跳科目三服务员月薪过万",
+        "onboard_time": 1700902718,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150426,
+        "num": 834948,
+        "word": "花海直播",
+        "onboard_time": 1700908781,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2225678,
+        "num": 832351,
+        "word": "张凌赫给白鹿提裙子",
+        "onboard_time": 1700912566,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412339,
+        "num": 831115,
+        "word": "导播紧急撤回一个镜头",
+        "onboard_time": 1700916109,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397778,
+        "num": 826800,
+        "word": "金马奖",
+        "onboard_time": 1700908963,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370117,
+        "num": 824352,
+        "word": "张颂文王鹤棣聊啥呢",
+        "onboard_time": 1700916169,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342926,
+        "num": 823291,
+        "word": "林志玲北野武 颁奖",
+        "onboard_time": 1700908781,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 820969,
+        "num": 820969,
+        "word": "张译 缺席",
+        "onboard_time": 1700913884,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149268,
+        "num": 820547,
+        "word": "杭州一医院门口提供爱心午餐",
+        "onboard_time": 1700914847,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143865,
+        "num": 818429,
+        "word": "这么吃可以控糖控体重",
+        "onboard_time": 1700910466,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135443,
+        "num": 815598,
+        "word": "考古人员一手接一手捧出3.8万余枚简牍",
+        "onboard_time": 1700910771,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586781,
+        "num": 814099,
+        "word": "田曦薇 青春飞跃女演员",
+        "onboard_time": 1700915626,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311159,
+        "num": 813202,
+        "word": "谢依霖回应老公重症肌无力",
+        "onboard_time": 1700902958,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294859,
+        "num": 811673,
+        "word": "北野武 金马奖",
+        "onboard_time": 1700910164,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287015,
+        "num": 809075,
+        "word": "李荣浩连发十条我求你们了",
+        "onboard_time": 1700886757,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120110,
+        "num": 807019,
+        "word": "日本一棕熊尸体中发现人体残骸",
+        "onboard_time": 1700881472,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114461,
+        "num": 805127,
+        "word": "2024国考参考人数或破200万",
+        "onboard_time": 1700897738,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109696,
+        "num": 803807,
+        "word": "曼城vs利物浦",
+        "onboard_time": 1700912326,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98870,
+        "num": 801011,
+        "word": "大炸蛋帝王蟹加辣螺蛳粉",
+        "onboard_time": 1700913043,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94020,
+        "num": 799546,
+        "word": "涵艺爆料明凯回归EDG",
+        "onboard_time": 1700910771,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87930,
+        "num": 798855,
+        "word": "交警多问一句话救下一条命",
+        "onboard_time": 1700906137,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86796,
+        "num": 797249,
+        "word": "369 滔搏",
+        "onboard_time": 1700909323,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量发展全面推进中国式现代化#"
+    }
+  }
+}
