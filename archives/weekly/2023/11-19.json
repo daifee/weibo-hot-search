@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700893291009,
+  "endTime": 1700894069213,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -2219,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773565,
+      "num": 773565,
+      "word": "压垮男方的不止彩礼还有房贷和车贷",
+      "onboard_time": 1700888557,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772851,
       "num": 772851,
       "word": "我有能力考研但没能力读研",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1700697753,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 748495,
-      "num": 748495,
-      "word": "压垮男方的不止彩礼还有房贷和车贷",
-      "onboard_time": 1700888557,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 747616,
@@ -2617,6 +2617,14 @@
       "onboard_time": 1700475872,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681064,
+      "num": 681064,
+      "word": "李一桐美杜莎妆",
+      "onboard_time": 1700892453,
+      "rank": 13,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 679485,
@@ -3067,6 +3075,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 612187,
+      "num": 612187,
+      "word": "鼠头鸭脖涉事高校党政领导去职",
+      "onboard_time": 1700890536,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611479,
       "num": 572508,
       "word": "新闻女王海王社死现场",
@@ -3099,20 +3115,20 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 610403,
-      "num": 610403,
-      "word": "鼠头鸭脖涉事高校党政领导去职",
-      "onboard_time": 1700890536,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610367,
       "num": 610367,
       "word": "李相夷绝笔",
       "onboard_time": 1700488236,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 605227,
+      "num": 571886,
+      "word": "尖叫之夜直播",
+      "onboard_time": 1700891553,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 604860,
@@ -3441,14 +3457,6 @@
       "onboard_time": 1700385751,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 571886,
-      "num": 571886,
-      "word": "尖叫之夜直播",
-      "onboard_time": 1700891553,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 570999,
@@ -3969,14 +3977,6 @@
       "onboard_time": 1700490518,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 509471,
-      "num": 184350,
-      "word": "李一桐美杜莎妆",
-      "onboard_time": 1700892453,
-      "rank": 13,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 507766,
@@ -5067,6 +5067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419326,
+      "num": 209423,
+      "word": "2023尖叫之夜节目单",
+      "onboard_time": 1700891793,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419046,
       "num": 372584,
       "word": "电影中三位原型人物评我本是高山",
@@ -5097,14 +5105,6 @@
       "onboard_time": 1700705012,
       "rank": 12,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 416637,
-      "num": 173036,
-      "word": "2023尖叫之夜节目单",
-      "onboard_time": 1700891793,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 416513,
@@ -6585,6 +6585,14 @@
       "onboard_time": 1700577100,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333892,
+      "num": 218444,
+      "word": "成都一楼盘降价40%",
+      "onboard_time": 1700893114,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 333883,
@@ -8803,6 +8811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248435,
+      "num": 165791,
+      "word": "蒋欣片场狂炫锅包肉",
+      "onboard_time": 1700892214,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248130,
       "num": 248130,
       "word": "张小斐亮片千金妆",
@@ -9297,14 +9313,6 @@
       "onboard_time": 1700400160,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 237296,
-      "num": 165791,
-      "word": "蒋欣片场狂炫锅包肉",
-      "onboard_time": 1700892214,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 237150,
@@ -10811,6 +10819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205931,
+      "num": 138291,
+      "word": "郑润泽杭州",
+      "onboard_time": 1700893413,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205905,
       "num": 205905,
       "word": "李健 永远在沸腾的感情其实很危险",
@@ -11265,6 +11281,14 @@
       "onboard_time": 1700383475,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200079,
+      "num": 200079,
+      "word": "一诺撞色糖果系大片",
+      "onboard_time": 1700893593,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 200063,
@@ -11944,6 +11968,14 @@
       "word": "大熊猫有新的计数单位了",
       "onboard_time": 1700564974,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191056,
+      "num": 164846,
+      "word": "最新版中国医院排行",
+      "onboard_time": 1700892873,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -12667,6 +12699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181093,
+      "num": 146049,
+      "word": "一诺 又和兄弟们见面啦",
+      "onboard_time": 1700893593,
+      "rank": 23,
+      "category": "游戏,时尚"
+    },
+    {
       "raw_hot": 181085,
       "num": 139508,
       "word": "雷霆18分逆转勇士",
@@ -12905,6 +12945,14 @@
       "onboard_time": 1700754511,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177359,
+      "num": 143288,
+      "word": "杨和苏 说唱圈的双开门冰箱",
+      "onboard_time": 1700893232,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 177307,
@@ -13539,6 +13587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166291,
+      "num": 133202,
+      "word": "时光音乐会收官",
+      "onboard_time": 1700893713,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166191,
       "num": 166191,
       "word": "起底成都陪酒坠楼女孩所在KTV",
@@ -13609,14 +13665,6 @@
       "onboard_time": 1700539417,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 164846,
-      "num": 164846,
-      "word": "最新版中国医院排行",
-      "onboard_time": 1700892873,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164796,
@@ -13867,6 +13915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161411,
+      "num": 160171,
+      "word": "你的纹身是你每天戴上的吗",
+      "onboard_time": 1700890835,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161232,
       "num": 161232,
       "word": "照明商店",
@@ -13929,14 +13985,6 @@
       "onboard_time": 1700794354,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 160171,
-      "num": 160171,
-      "word": "你的纹身是你每天戴上的吗",
-      "onboard_time": 1700890835,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 160036,
@@ -14843,14 +14891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143288,
-      "num": 143288,
-      "word": "杨和苏 说唱圈的双开门冰箱",
-      "onboard_time": 1700893232,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 143144,
       "num": 143144,
       "word": "姜珮瑶冬日暖阳妆",
@@ -15259,6 +15299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136811,
+      "num": 132468,
+      "word": "谢危 谢娟",
+      "onboard_time": 1700894012,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136673,
       "num": 136673,
       "word": "肖俊是上了镁粉课吗",
@@ -15507,6 +15555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133257,
+      "num": 133257,
+      "word": "ON的改变",
+      "onboard_time": 1700893537,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133252,
       "num": 133252,
       "word": "没有边界感的小狗",
@@ -15689,14 +15745,6 @@
       "onboard_time": 1700372610,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130802,
-      "num": 159285,
-      "word": "成都一楼盘降价40%",
-      "onboard_time": 1700893114,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 130763,
@@ -16313,6 +16361,14 @@
       "onboard_time": 1700640276,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117223,
+      "num": 132257,
+      "word": "快船不敌鹈鹕",
+      "onboard_time": 1700893891,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 117100,
