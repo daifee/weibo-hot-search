@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700922855442,
+  "endTime": 1700925384094,
   "band_list": [
     {
       "raw_hot": 11768713,
@@ -19,6 +19,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 10672660,
+      "num": 10672660,
+      "word": "杨幂 于和伟亲马东了",
+      "onboard_time": 1700924084,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4571836,
+      "num": 4571836,
+      "word": "白鹿 尖叫女演员",
+      "onboard_time": 1700923549,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3605343,
       "num": 3605343,
       "word": "在谈vs分了",
@@ -32,6 +48,14 @@
       "word": "杨幂压轴",
       "onboard_time": 1700910585,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3132604,
+      "num": 3132604,
+      "word": "王鹤棣 尖叫男演员",
+      "onboard_time": 1700923428,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -105,6 +129,14 @@
       "onboard_time": 1700895754,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1914626,
+      "num": 1914626,
+      "word": "张凌赫为什么像做贼",
+      "onboard_time": 1700923367,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1824496,
@@ -331,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 956738,
+      "num": 1693147,
+      "word": "余光中妻子去世",
+      "onboard_time": 1700921749,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 955620,
       "num": 955620,
       "word": "知情人曾透露吴秀波不再从事演员职业",
@@ -385,14 +425,6 @@
       "onboard_time": 1700917011,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 879292,
-      "num": 1142770,
-      "word": "余光中妻子去世",
-      "onboard_time": 1700921749,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 877685,
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 809582,
-      "num": 575766,
+      "num": 612093,
       "word": "白敬亭宋轶你俩不认识吗",
       "onboard_time": 1700909920,
       "rank": 28,
@@ -489,6 +521,14 @@
       "onboard_time": 1700888557,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 749746,
+      "num": 749746,
+      "word": "金马致敬李玟",
+      "onboard_time": 1700924208,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 748640,
@@ -531,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 712455,
+      "num": 826800,
+      "word": "金马奖",
+      "onboard_time": 1700908963,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 693527,
       "num": 824352,
       "word": "张颂文王鹤棣聊啥呢",
@@ -571,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 663897,
+      "num": 823291,
+      "word": "林志玲北野武 颁奖",
+      "onboard_time": 1700908781,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 657314,
       "num": 292925,
       "word": "女子为怀男胎听医生建议后生下2女婴",
@@ -593,6 +649,14 @@
       "onboard_time": 1700875110,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 638569,
+      "num": 1657033,
+      "word": "北京朝阳警方立案侦查中植系所属财富公司",
+      "onboard_time": 1700923305,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625662,
@@ -633,14 +697,6 @@
       "onboard_time": 1700873969,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 606575,
-      "num": 826800,
-      "word": "金马奖",
-      "onboard_time": 1700908963,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 605889,
@@ -691,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573311,
+      "num": 573311,
+      "word": "虞书欣的领奖发言",
+      "onboard_time": 1700924932,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570321,
       "num": 570321,
       "word": "吴秀波及其公司涉及委托合同纠纷案件",
       "onboard_time": 1700875290,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 563775,
+      "num": 811673,
+      "word": "北野武 金马奖",
+      "onboard_time": 1700910164,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 562130,
@@ -707,12 +779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 559059,
-      "num": 823291,
-      "word": "林志玲北野武 颁奖",
-      "onboard_time": 1700908781,
-      "rank": 32,
-      "category": "电影"
+      "raw_hot": 549305,
+      "num": 528155,
+      "word": "张杰 泡沫",
+      "onboard_time": 1700924746,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 539571,
@@ -739,12 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 521248,
-      "num": 811673,
-      "word": "北野武 金马奖",
-      "onboard_time": 1700910164,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 527543,
+      "num": 527543,
+      "word": "成毅曾舜晞肖顺尧再唱天下",
+      "onboard_time": 1700923968,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 519633,
@@ -1012,7 +1084,7 @@
     },
     {
       "raw_hot": 379358,
-      "num": 1338474,
+      "num": 1610506,
       "word": "小腿瘦得毫不费力",
       "onboard_time": 1700919947,
       "rank": 7,
@@ -1275,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312790,
+      "num": 1199469,
+      "word": "朱鹮洋洋去世",
+      "onboard_time": 1700924264,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310459,
       "num": 310459,
       "word": "林黛玉风雪山神庙",
@@ -1361,6 +1441,14 @@
       "onboard_time": 1700889873,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290243,
+      "num": 1174969,
+      "word": "中植系解某某等人被采取刑事强制措施",
+      "onboard_time": 1700923549,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289915,
@@ -1715,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220152,
+      "num": 802129,
+      "word": "曼城1比1利物浦",
+      "onboard_time": 1700924628,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216722,
       "num": 167093,
       "word": "赵露思绿野仙踪裙",
@@ -1811,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207370,
+      "num": 713357,
+      "word": "千万别用吃很多药预防呼吸道疾病",
+      "onboard_time": 1700923244,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 205931,
       "num": 138291,
       "word": "郑润泽杭州",
@@ -1889,6 +1993,14 @@
       "onboard_time": 1700893593,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199152,
+      "num": 712684,
+      "word": "努涅斯瓜迪奥拉争执",
+      "onboard_time": 1700923788,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 199012,
@@ -2065,6 +2177,14 @@
       "onboard_time": 1700895212,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173969,
+      "num": 663930,
+      "word": "英超",
+      "onboard_time": 1700924868,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 173313,
@@ -2315,6 +2435,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 145937,
+      "num": 542804,
+      "word": "当前流行病毒大多侵犯上呼吸道且有自限性",
+      "onboard_time": 1700924628,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145894,
       "num": 1306564,
       "word": "儿子继承了牺牲父亲的警号",
@@ -2345,6 +2473,14 @@
       "onboard_time": 1700835277,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144943,
+      "num": 540039,
+      "word": "当代中年夫妻现状",
+      "onboard_time": 1700923428,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 144715,
@@ -2804,7 +2940,7 @@
     },
     {
       "raw_hot": 83317,
-      "num": 1866265,
+      "num": 3179491,
       "word": "第一次看见冰山有多震撼",
       "onboard_time": 1700892274,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700922855442,
+  "endTime": 1700925384094,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -793,6 +793,14 @@
       "onboard_time": 1675256253,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 10672660,
+      "num": 10672660,
+      "word": "杨幂 于和伟亲马东了",
+      "onboard_time": 1700924084,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 10661875,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1689300688,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 6846023,
-      "num": 7805091,
-      "word": "江西一化工厂爆炸",
-      "onboard_time": 1688188412,
-      "rank": 5,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
