@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700937256785,
+  "endTime": 1700939603549,
   "band_list": [
     {
       "raw_hot": 7011410,
@@ -299,6 +299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 176272,
+      "num": 76039,
+      "word": "斗鱼陈少杰被捕后多位大主播已停播",
+      "onboard_time": 1700937137,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174772,
       "num": 668260,
       "word": "千万别用吃很多药预防呼吸道疾病",
@@ -353,6 +361,14 @@
       "onboard_time": 1700906258,
       "rank": 28,
       "category": "国外时政,科学科普"
+    },
+    {
+      "raw_hot": 123664,
+      "num": 62801,
+      "word": "海涛跟沈梦辰说他在家里带孩子",
+      "onboard_time": 1700938037,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 107489,
@@ -491,6 +507,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 51618,
+      "num": 51618,
+      "word": "白鹿唱歌切张凌赫",
+      "onboard_time": 1700914965,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48203,
       "num": 187406,
       "word": "花海 好美的精神状态",
@@ -513,14 +537,6 @@
       "onboard_time": 1700897137,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20464,
-      "num": 76039,
-      "word": "斗鱼陈少杰被捕后多位大主播已停播",
-      "onboard_time": 1700937137,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
