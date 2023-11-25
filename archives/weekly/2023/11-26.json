@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700951637755,
+  "endTime": 1700954221645,
   "band_list": [
     {
       "raw_hot": 7011410,
@@ -219,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318084,
+      "num": 318084,
+      "word": "海涛跟沈梦辰说他在家里带孩子",
+      "onboard_time": 1700938037,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285883,
       "num": 285883,
       "word": "张杰 泡沫",
       "onboard_time": 1700924746,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284370,
+      "num": 284370,
+      "word": "国考",
+      "onboard_time": 1700953820,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 273517,
@@ -240,6 +256,14 @@
       "word": "朱鹮洋洋去世",
       "onboard_time": 1700924264,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247592,
+      "num": 247592,
+      "word": "斗鱼陈少杰被捕后多位大主播已停播",
+      "onboard_time": 1700937137,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -299,28 +323,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 181147,
-      "num": 138290,
-      "word": "斗鱼陈少杰被捕后多位大主播已停播",
-      "onboard_time": 1700937137,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174772,
       "num": 668260,
       "word": "千万别用吃很多药预防呼吸道疾病",
       "onboard_time": 1700923244,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 171938,
-      "num": 171938,
-      "word": "海涛跟沈梦辰说他在家里带孩子",
-      "onboard_time": 1700938037,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 171884,
@@ -363,6 +371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 128096,
+      "num": 128096,
+      "word": "国考行测和申论哪个难",
+      "onboard_time": 1700953520,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125231,
       "num": 444111,
       "word": "美国人工智能判定美国登月任务照片是假的",
@@ -393,6 +409,22 @@
       "onboard_time": 1700926544,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99226,
+      "num": 54095,
+      "word": "陆虎 陆佰",
+      "onboard_time": 1700952137,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 95361,
+      "num": 66750,
+      "word": "相亲相到老师",
+      "onboard_time": 1700954060,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 92448,
@@ -483,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66042,
+      "num": 48009,
+      "word": "伍佰合肥演唱会被曝观众大喊退票",
+      "onboard_time": 1700954060,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65718,
       "num": 280558,
       "word": "美嘉仿妆",
@@ -499,12 +539,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62595,
+      "num": 47910,
+      "word": "李一桐碎闪开叉裙",
+      "onboard_time": 1700952617,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 62463,
       "num": 207625,
       "word": "方圆脸的半遮耳发型",
       "onboard_time": 1700914608,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 57998,
+      "num": 47822,
+      "word": "袁弘一张照片拿到热搜角色",
+      "onboard_time": 1700945955,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 57324,
+      "num": 57324,
+      "word": "孩子呼吸道感染后咳咳咳怎么办",
+      "onboard_time": 1700952378,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56047,
+      "num": 56047,
+      "word": "老中医教的7个疏肝解郁法",
+      "onboard_time": 1700939355,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51618,
@@ -521,14 +593,6 @@
       "onboard_time": 1700907633,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 38638,
-      "num": 35240,
-      "word": "袁弘一张照片拿到热搜角色",
-      "onboard_time": 1700945955,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 37566,
@@ -555,12 +619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30115,
-      "num": 39733,
-      "word": "老中医教的7个疏肝解郁法",
-      "onboard_time": 1700939355,
-      "rank": 33,
-      "category": "健康医疗"
+      "raw_hot": 33928,
+      "num": 47922,
+      "word": "布伦特福德0比1阿森纳",
+      "onboard_time": 1700954182,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 28343,
@@ -577,6 +641,22 @@
       "onboard_time": 1700944335,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26765,
+      "num": 47650,
+      "word": "冻鱼复活术的真相来了",
+      "onboard_time": 1700947215,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 24312,
+      "num": 47580,
+      "word": "2023斯诺克英锦赛",
+      "onboard_time": 1700954002,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
