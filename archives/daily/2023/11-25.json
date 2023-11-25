@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700886863687,
+  "endTime": 1700889379773,
   "band_list": [
     {
       "raw_hot": 1800726,
@@ -17,6 +17,22 @@
       "onboard_time": 1700832334,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1634850,
+      "num": 1634850,
+      "word": "尖叫之夜 座位",
+      "onboard_time": 1700886339,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1535791,
+      "num": 1535791,
+      "word": "李荣浩连发十条我求你们了",
+      "onboard_time": 1700886757,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 1376208,
@@ -57,6 +73,14 @@
       "onboard_time": 1700839714,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1046554,
+      "num": 1046554,
+      "word": "宁安如梦大结局",
+      "onboard_time": 1700887541,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 955620,
@@ -115,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 728278,
+      "num": 728278,
+      "word": "吴秀波回应被强执行4.66亿",
+      "onboard_time": 1700887895,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 686426,
       "num": 686426,
       "word": "郎朗证明孩子是在和钢琴友好交流",
@@ -147,20 +179,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 617035,
+      "num": 617035,
+      "word": "北京明确学生患病作业一律不硬性要求",
+      "onboard_time": 1700885555,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 611188,
       "num": 611188,
       "word": "理解王嘉尔 成为王嘉尔",
       "onboard_time": 1700873969,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 602489,
-      "num": 602489,
-      "word": "尖叫之夜 座位",
-      "onboard_time": 1700886339,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 599435,
@@ -171,20 +203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 585959,
+      "num": 585959,
+      "word": "上海交大食堂饭菜吃出1.5厘米针头",
+      "onboard_time": 1700885795,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570321,
       "num": 570321,
       "word": "吴秀波及其公司涉及委托合同纠纷案件",
       "onboard_time": 1700875290,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 538834,
-      "num": 538834,
-      "word": "北京明确学生患病作业一律不硬性要求",
-      "onboard_time": 1700885555,
-      "rank": 16,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 528682,
@@ -201,6 +233,14 @@
       "onboard_time": 1700810977,
       "rank": 1,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 510889,
+      "num": 272272,
+      "word": "缅甸",
+      "onboard_time": 1700888137,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505156,
@@ -251,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429234,
+      "num": 266427,
+      "word": "若曦公主抱玉檀",
+      "onboard_time": 1700887713,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428517,
       "num": 428517,
       "word": "两男恐惧",
@@ -273,6 +321,14 @@
       "onboard_time": 1700798445,
       "rank": 13,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 395379,
+      "num": 261168,
+      "word": "尤芳吟下线",
+      "onboard_time": 1700888074,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 393391,
@@ -403,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316526,
+      "num": 256345,
+      "word": "KT官宣Deft加入",
+      "onboard_time": 1700887058,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 316005,
       "num": 258928,
       "word": "张小斐 全世界淋雨我在吃香蕉",
@@ -411,20 +475,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304032,
-      "num": 304032,
-      "word": "上海交大食堂饭菜吃出1.5厘米针头",
-      "onboard_time": 1700885795,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298377,
       "num": 298377,
       "word": "忌辛辣就是不吃辣的吗",
       "onboard_time": 1700866938,
       "rank": 19,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 295076,
+      "num": 253691,
+      "word": "恋与制作人风华绝代PV公开",
+      "onboard_time": 1700887656,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 294128,
+      "num": 238014,
+      "word": "宁安如梦",
+      "onboard_time": 1700888617,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 293385,
@@ -499,6 +571,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 255714,
+      "num": 202554,
+      "word": "借电脑写论文的研究生爱豆",
+      "onboard_time": 1700886097,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247016,
+      "num": 222506,
+      "word": "易烊千玺 秘密计划",
+      "onboard_time": 1700886216,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 246821,
+      "num": 246821,
+      "word": "小伙轿车3个月遭8次开门杀",
+      "onboard_time": 1700884354,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246090,
       "num": 246090,
       "word": "乌尔善剧透封神二三剧情",
@@ -547,14 +643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 232790,
-      "num": 232790,
-      "word": "小伙轿车3个月遭8次开门杀",
-      "onboard_time": 1700884354,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230299,
       "num": 230299,
       "word": "秦岚尖叫之夜机场路透",
@@ -579,28 +667,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 224897,
-      "num": 190580,
-      "word": "借电脑写论文的研究生爱豆",
-      "onboard_time": 1700886097,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222757,
       "num": 222757,
       "word": "鞠婧祎雪地玫瑰妆",
       "onboard_time": 1700885739,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222506,
-      "num": 222506,
-      "word": "易烊千玺 秘密计划",
-      "onboard_time": 1700886216,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 221305,
@@ -731,6 +803,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 182643,
+      "num": 182643,
+      "word": "何嘉如圆了年世兰的梦",
+      "onboard_time": 1700888255,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181722,
       "num": 181722,
       "word": "支原体肺炎愈后老咳嗽可以喝这个汤",
@@ -763,12 +843,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176809,
-      "num": 176809,
-      "word": "李荣浩连发十条我求你们了",
-      "onboard_time": 1700886757,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 173313,
+      "num": 160963,
+      "word": "何炅张杰合唱栀子花开",
+      "onboard_time": 1700886873,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 170390,
@@ -819,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163135,
+      "num": 163135,
+      "word": "孙颖莎林高远与学生乒乓互动",
+      "onboard_time": 1700888856,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162359,
       "num": 162359,
       "word": "VOGUE直击",
@@ -843,6 +931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155894,
+      "num": 155894,
+      "word": "第五人格 三丽鸥",
+      "onboard_time": 1700889275,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154555,
       "num": 118827,
       "word": "王安宇拍照技术",
@@ -859,12 +955,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153758,
+      "num": 153758,
+      "word": "压垮男方的不止彩礼还有房贷和车贷",
+      "onboard_time": 1700888557,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149986,
       "num": 149986,
       "word": "秀智cue朴振英表演",
       "onboard_time": 1700875470,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148511,
+      "num": 148511,
+      "word": "韦世豪停赛三场",
+      "onboard_time": 1700887058,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 146864,
@@ -884,7 +996,7 @@
     },
     {
       "raw_hot": 145894,
-      "num": 944768,
+      "num": 1111915,
       "word": "儿子继承了牺牲父亲的警号",
       "onboard_time": 1700882793,
       "rank": 2,
@@ -905,6 +1017,14 @@
       "onboard_time": 1700874570,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 142163,
+      "num": 142163,
+      "word": "名侦探学院7开播",
+      "onboard_time": 1700887895,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 141974,
@@ -1035,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115424,
+      "num": 115424,
+      "word": "孙颖莎被小朋友整害羞了",
+      "onboard_time": 1700889337,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115294,
       "num": 115294,
       "word": "宋亚轩在王牌肯定是饿不着的",
@@ -1057,6 +1185,14 @@
       "onboard_time": 1700876009,
       "rank": 47,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 114490,
+      "num": 114490,
+      "word": "这些肺癌高危者最好每年做一次CT",
+      "onboard_time": 1700888676,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114293,

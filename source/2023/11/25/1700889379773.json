@@ -1,0 +1,410 @@
+{
+  "runTime": 1700889379773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1634850,
+        "num": 1634850,
+        "word": "尖叫之夜 座位",
+        "onboard_time": 1700886339,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1535791,
+        "num": 1535791,
+        "word": "李荣浩连发十条我求你们了",
+        "onboard_time": 1700886757,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114269,
+        "num": 1111915,
+        "word": "儿子继承了牺牲父亲的警号",
+        "onboard_time": 1700882793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070008,
+        "num": 1070008,
+        "word": "陈赫直播破防",
+        "onboard_time": 1700884291,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046554,
+        "num": 1046554,
+        "word": "宁安如梦大结局",
+        "onboard_time": 1700887541,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 728278,
+        "num": 728278,
+        "word": "吴秀波回应被强执行4.66亿",
+        "onboard_time": 1700887895,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617035,
+        "num": 617035,
+        "word": "北京明确学生患病作业一律不硬性要求",
+        "onboard_time": 1700885555,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 585959,
+        "num": 585959,
+        "word": "上海交大食堂饭菜吃出1.5厘米针头",
+        "onboard_time": 1700885795,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446349,
+        "num": 446349,
+        "word": "网传坠楼研究生课题被导师拿走毕业困难",
+        "onboard_time": 1700878290,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 274062,
+        "num": 274062,
+        "word": "凡人修仙传开播",
+        "onboard_time": 1700882014,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 510889,
+        "num": 272272,
+        "word": "缅甸",
+        "onboard_time": 1700888137,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491141,
+        "num": 271603,
+        "word": "宋轶素颜吃早餐",
+        "onboard_time": 1700883513,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465376,
+        "num": 269023,
+        "word": "虞书欣ins点赞杨紫相关",
+        "onboard_time": 1700883993,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429234,
+        "num": 266427,
+        "word": "若曦公主抱玉檀",
+        "onboard_time": 1700887713,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409114,
+        "num": 264127,
+        "word": "吴亦凡被驱逐出境后十年内不准入境",
+        "onboard_time": 1700832334,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 395379,
+        "num": 261168,
+        "word": "尤芳吟下线",
+        "onboard_time": 1700888074,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394744,
+        "num": 258460,
+        "word": "向佐喜提女儿脸部马杀鸡",
+        "onboard_time": 1700878229,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316526,
+        "num": 256345,
+        "word": "KT官宣Deft加入",
+        "onboard_time": 1700887058,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295076,
+        "num": 253691,
+        "word": "恋与制作人风华绝代PV公开",
+        "onboard_time": 1700887656,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281923,
+        "num": 252713,
+        "word": "知情人曾透露吴秀波不再从事演员职业",
+        "onboard_time": 1700880151,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 807355,
+        "num": 250753,
+        "word": "日本一棕熊尸体中发现人体残骸",
+        "onboard_time": 1700881472,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301136,
+        "num": 247432,
+        "word": "公主和亲 十里红妆不过另一种自刎",
+        "onboard_time": 1700876009,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246821,
+        "num": 246821,
+        "word": "小伙轿车3个月遭8次开门杀",
+        "onboard_time": 1700884354,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294128,
+        "num": 238014,
+        "word": "宁安如梦",
+        "onboard_time": 1700888617,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211140,
+        "num": 211140,
+        "word": "Doinb Ning",
+        "onboard_time": 1700870787,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 255714,
+        "num": 202554,
+        "word": "借电脑写论文的研究生爱豆",
+        "onboard_time": 1700886097,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254024,
+        "num": 198486,
+        "word": "如果能重来白鹿选整牙",
+        "onboard_time": 1700881893,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247016,
+        "num": 196275,
+        "word": "易烊千玺 秘密计划",
+        "onboard_time": 1700886216,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192275,
+        "num": 192275,
+        "word": "肺炎支原体感染下降流感上升",
+        "onboard_time": 1700884954,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189092,
+        "num": 189092,
+        "word": "女子为怀男胎听医生建议后生下2女婴",
+        "onboard_time": 1700870728,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244384,
+        "num": 186675,
+        "word": "JYP和NewJeans出现时台下表情对比",
+        "onboard_time": 1700882372,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182643,
+        "num": 182643,
+        "word": "何嘉如圆了年世兰的梦",
+        "onboard_time": 1700888255,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181627,
+        "num": 181627,
+        "word": "国色芳华男二 魏哲鸣",
+        "onboard_time": 1700877990,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168082,
+        "num": 168082,
+        "word": "369 TES",
+        "onboard_time": 1700874629,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163135,
+        "num": 163135,
+        "word": "孙颖莎林高远与学生乒乓互动",
+        "onboard_time": 1700888856,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174749,
+        "num": 161866,
+        "word": "倪妮杜鹃 宿命感",
+        "onboard_time": 1700883753,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173313,
+        "num": 160963,
+        "word": "何炅张杰合唱栀子花开",
+        "onboard_time": 1700886873,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159982,
+        "num": 159982,
+        "word": "鞠婧祎雪地玫瑰妆",
+        "onboard_time": 1700885739,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155894,
+        "num": 155894,
+        "word": "第五人格 三丽鸥",
+        "onboard_time": 1700889275,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153758,
+        "num": 153758,
+        "word": "压垮男方的不止彩礼还有房贷和车贷",
+        "onboard_time": 1700888557,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150775,
+        "num": 150775,
+        "word": "不建议健康人群吃奥司他韦预防流感",
+        "onboard_time": 1700880571,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148511,
+        "num": 148511,
+        "word": "韦世豪停赛三场",
+        "onboard_time": 1700887058,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146700,
+        "num": 146700,
+        "word": "涉过愤怒的海",
+        "onboard_time": 1700884111,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146698,
+        "num": 146698,
+        "word": "张柏芝背头烟熏妆",
+        "onboard_time": 1700885195,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142163,
+        "num": 142163,
+        "word": "名侦探学院7开播",
+        "onboard_time": 1700887895,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129217,
+        "num": 129217,
+        "word": "爱奇艺尖叫之夜为谁尖叫",
+        "onboard_time": 1700882194,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126591,
+        "num": 126591,
+        "word": "国考周日开考",
+        "onboard_time": 1700876730,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117162,
+        "num": 117162,
+        "word": "北京下雪",
+        "onboard_time": 1700875409,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115424,
+        "num": 115424,
+        "word": "孙颖莎被小朋友整害羞了",
+        "onboard_time": 1700889337,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114490,
+        "num": 114490,
+        "word": "这些肺癌高危者最好每年做一次CT",
+        "onboard_time": 1700888676,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国学解锁中国密码#"
+    }
+  }
+}
