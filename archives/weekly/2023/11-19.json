@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700879087195,
+  "endTime": 1700879749621,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -1499,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 994811,
+      "num": 994811,
+      "word": "向佐喜提女儿脸部马杀鸡",
+      "onboard_time": 1700878229,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 991711,
       "num": 991711,
       "word": "闲鱼大量封号",
@@ -1875,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 838237,
+      "num": 838237,
+      "word": "公主和亲 十里红妆不过另一种自刎",
+      "onboard_time": 1700876009,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 836583,
       "num": 594336,
       "word": "迪丽热巴 黄金战袍",
@@ -2169,14 +2185,6 @@
       "onboard_time": 1700387019,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 760884,
-      "num": 760884,
-      "word": "公主和亲 十里红妆不过另一种自刎",
-      "onboard_time": 1700876009,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 760804,
@@ -3251,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577328,
+      "num": 577328,
+      "word": "国色芳华男二 魏哲鸣",
+      "onboard_time": 1700877990,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 575736,
       "num": 371799,
       "word": "去年我国初婚人数低于1100万",
@@ -3723,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515820,
+      "num": 515820,
+      "word": "网传坠楼研究生课题被导师拿走毕业困难",
+      "onboard_time": 1700878290,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 515400,
       "num": 515400,
       "word": "张凌赫宁安如梦破万手势舞",
@@ -4051,28 +4075,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 491511,
-      "num": 433214,
-      "word": "向佐喜提女儿脸部马杀鸡",
-      "onboard_time": 1700878229,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 491004,
       "num": 491004,
       "word": "小雪",
       "onboard_time": 1700607982,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489597,
-      "num": 489597,
-      "word": "国色芳华男二 魏哲鸣",
-      "onboard_time": 1700877990,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 489276,
@@ -6339,6 +6347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334084,
+      "num": 334084,
+      "word": "两男恐惧",
+      "onboard_time": 1700878350,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333883,
       "num": 333883,
       "word": "成都警方通报斗鱼CEO陈少杰案",
@@ -6603,6 +6619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322008,
+      "num": 322008,
+      "word": "谢危表白后变了一个人",
+      "onboard_time": 1700877270,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321407,
       "num": 250881,
       "word": "王安宇胡先煦不当导游更疯了",
@@ -6625,14 +6649,6 @@
       "onboard_time": 1700711675,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319764,
-      "num": 319764,
-      "word": "谢危表白后变了一个人",
-      "onboard_time": 1700877270,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 318950,
@@ -7331,14 +7347,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 291236,
-      "num": 291236,
-      "word": "网传坠楼研究生课题被导师拿走毕业困难",
-      "onboard_time": 1700878290,
-      "rank": 21,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 290935,
       "num": 290935,
       "word": "京剧纪念币",
@@ -7809,14 +7817,6 @@
       "onboard_time": 1700665419,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 269795,
-      "num": 269795,
-      "word": "两男恐惧",
-      "onboard_time": 1700878350,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269489,
@@ -8603,6 +8603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246054,
+      "num": 246054,
+      "word": "enhypen澳门",
+      "onboard_time": 1700879010,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 246034,
       "num": 246034,
       "word": "丁程鑫说我只想赶紧跳舞",
@@ -8697,6 +8705,14 @@
       "onboard_time": 1700465972,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 243102,
+      "num": 243102,
+      "word": "秦邪肖瓶",
+      "onboard_time": 1700878832,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 243094,
@@ -13028,7 +13044,7 @@
     },
     {
       "raw_hot": 166699,
-      "num": 788220,
+      "num": 844377,
       "word": "第十批志愿军烈士安葬祭文",
       "onboard_time": 1700817997,
       "rank": 40,
@@ -13291,6 +13307,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 162143,
+      "num": 162143,
+      "word": "黄子弘凡 音乐节",
+      "onboard_time": 1700878832,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162102,
       "num": 162102,
       "word": "赖冠霖导演短片上线",
@@ -13513,14 +13537,6 @@
       "onboard_time": 1700643459,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158431,
-      "num": 158431,
-      "word": "秦邪肖瓶",
-      "onboard_time": 1700878832,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 158218,
@@ -14827,14 +14843,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 135115,
-      "num": 135115,
-      "word": "黄子弘凡 音乐节",
-      "onboard_time": 1700878832,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134819,
       "num": 145048,
       "word": "DRG对战Hero",
@@ -15009,14 +15017,6 @@
       "onboard_time": 1700554234,
       "rank": 43,
       "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 132855,
-      "num": 132855,
-      "word": "enhypen澳门",
-      "onboard_time": 1700879010,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 132676,
@@ -16003,6 +16003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111102,
+      "num": 111102,
+      "word": "seventeen谁教你们这么cha的",
+      "onboard_time": 1700879371,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110967,
       "num": 364418,
       "word": "张大大帮粉丝上班",
@@ -16145,6 +16153,14 @@
       "onboard_time": 1700819433,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107538,
+      "num": 107538,
+      "word": "孟佳敖子逸空耳大师",
+      "onboard_time": 1700879552,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 107448,

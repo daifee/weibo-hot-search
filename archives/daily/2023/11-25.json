@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700879087195,
+  "endTime": 1700879749621,
   "band_list": [
     {
       "raw_hot": 1739428,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 994811,
+      "num": 994811,
+      "word": "向佐喜提女儿脸部马杀鸡",
+      "onboard_time": 1700878229,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 945483,
       "num": 945483,
       "word": "蒲罗旺斯",
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 838237,
+      "num": 838237,
+      "word": "公主和亲 十里红妆不过另一种自刎",
+      "onboard_time": 1700876009,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 832073,
       "num": 832073,
       "word": "官方通报消防员被妻子举报出轨",
       "onboard_time": 1700854993,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 760884,
-      "num": 760884,
-      "word": "公主和亲 十里红妆不过另一种自刎",
-      "onboard_time": 1700876009,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 686426,
@@ -99,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 577328,
+      "num": 577328,
+      "word": "国色芳华男二 魏哲鸣",
+      "onboard_time": 1700877990,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570321,
       "num": 570321,
       "word": "吴秀波及其公司涉及委托合同纠纷案件",
@@ -123,6 +139,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 515820,
+      "num": 515820,
+      "word": "网传坠楼研究生课题被导师拿走毕业困难",
+      "onboard_time": 1700878290,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 505156,
       "num": 505156,
       "word": "369 TES",
@@ -145,22 +169,6 @@
       "onboard_time": 1700838696,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 491511,
-      "num": 433214,
-      "word": "向佐喜提女儿脸部马杀鸡",
-      "onboard_time": 1700878229,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 489597,
-      "num": 489597,
-      "word": "国色芳华男二 魏哲鸣",
-      "onboard_time": 1700877990,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 432324,
@@ -259,8 +267,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319764,
-      "num": 319764,
+      "raw_hot": 334084,
+      "num": 334084,
+      "word": "两男恐惧",
+      "onboard_time": 1700878350,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322008,
+      "num": 322008,
       "word": "谢危表白后变了一个人",
       "onboard_time": 1700877270,
       "rank": 18,
@@ -289,14 +305,6 @@
       "onboard_time": 1700878170,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291236,
-      "num": 291236,
-      "word": "网传坠楼研究生课题被导师拿走毕业困难",
-      "onboard_time": 1700878290,
-      "rank": 21,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 290593,
@@ -331,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269795,
-      "num": 269795,
-      "word": "两男恐惧",
-      "onboard_time": 1700878350,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265606,
       "num": 265606,
       "word": "正确的煮面方法",
@@ -353,6 +353,22 @@
       "onboard_time": 1700835935,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246054,
+      "num": 246054,
+      "word": "enhypen澳门",
+      "onboard_time": 1700879010,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 243102,
+      "num": 243102,
+      "word": "秦邪肖瓶",
+      "onboard_time": 1700878832,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 240468,
@@ -555,12 +571,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 158431,
-      "num": 158431,
-      "word": "秦邪肖瓶",
+      "raw_hot": 162143,
+      "num": 162143,
+      "word": "黄子弘凡 音乐节",
       "onboard_time": 1700878832,
-      "rank": 36,
-      "category": "综艺"
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 154555,
@@ -633,22 +649,6 @@
       "onboard_time": 1700836536,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135115,
-      "num": 135115,
-      "word": "黄子弘凡 音乐节",
-      "onboard_time": 1700878832,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 132855,
-      "num": 132855,
-      "word": "enhypen澳门",
-      "onboard_time": 1700879010,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 132539,
@@ -763,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111102,
+      "num": 111102,
+      "word": "seventeen谁教你们这么cha的",
+      "onboard_time": 1700879371,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110331,
       "num": 110331,
       "word": "Jennie裸色抹胸长裙",
@@ -785,6 +793,14 @@
       "onboard_time": 1700841510,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 107538,
+      "num": 107538,
+      "word": "孟佳敖子逸空耳大师",
+      "onboard_time": 1700879552,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 103537,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 29914,
-      "num": 680941,
+      "num": 844377,
       "word": "第十批志愿军烈士安葬祭文",
       "onboard_time": 1700817997,
       "rank": 2,
