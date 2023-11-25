@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700903740580,
+  "endTime": 1700904851157,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -641,6 +641,14 @@
       "onboard_time": 1700736274,
       "rank": 0,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1758920,
+      "num": 1758920,
+      "word": "谢依霖回应老公重症肌无力",
+      "onboard_time": 1700902958,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1753951,
@@ -1579,14 +1587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1021263,
-      "num": 1021263,
-      "word": "谢依霖回应老公重症肌无力",
-      "onboard_time": 1700902958,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 997001,
       "num": 471170,
       "word": "小S晒许雅钧准备的大餐",
@@ -2027,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 831766,
+      "num": 294514,
+      "word": "颖儿礼服20斤重",
+      "onboard_time": 1700902480,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 825192,
       "num": 825192,
       "word": "李佳琦现身直播间辟谣双11后停播传闻",
@@ -2240,6 +2248,14 @@
       "word": "花少团总行李超重118公斤",
       "onboard_time": 1700697510,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 782059,
+      "num": 287607,
+      "word": "杨幂造型预告",
+      "onboard_time": 1700903314,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -2620,7 +2636,7 @@
     },
     {
       "raw_hot": 691288,
-      "num": 275362,
+      "num": 280844,
       "word": "胡先煦 考试什么的都去死吧",
       "onboard_time": 1700901696,
       "rank": 10,
@@ -3011,6 +3027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 627678,
+      "num": 627678,
+      "word": "海底捞回应跳科目三服务员月薪过万",
+      "onboard_time": 1700902718,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 627403,
       "num": 627403,
       "word": "新闻女王 文慧心别骂了",
@@ -3137,14 +3161,6 @@
       "onboard_time": 1700456798,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 615229,
-      "num": 233494,
-      "word": "颖儿礼服20斤重",
-      "onboard_time": 1700902480,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 614578,
@@ -4627,6 +4643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460898,
+      "num": 273795,
+      "word": "前助理否认马云做预制菜",
+      "onboard_time": 1700903377,
+      "rank": 18,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 460374,
       "num": 1092786,
       "word": "4位高中同学连续四年资助去世同学家庭",
@@ -4700,7 +4724,7 @@
     },
     {
       "raw_hot": 453059,
-      "num": 192377,
+      "num": 204444,
       "word": "杨紫黑白制服套装",
       "onboard_time": 1700901160,
       "rank": 42,
@@ -4785,14 +4809,6 @@
       "onboard_time": 1700723612,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 446951,
-      "num": 188031,
-      "word": "杨幂造型预告",
-      "onboard_time": 1700903314,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 446348,
@@ -6004,7 +6020,7 @@
     },
     {
       "raw_hot": 365944,
-      "num": 187835,
+      "num": 203461,
       "word": "王亚飞给白鹿化的妆",
       "onboard_time": 1700903434,
       "rank": 29,
@@ -6401,6 +6417,14 @@
       "onboard_time": 1700732973,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 346955,
+      "num": 212384,
+      "word": "怀孕5月女子到派出所帮亡夫销户落泪",
+      "onboard_time": 1700901160,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346790,
@@ -7043,14 +7067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 320220,
-      "num": 189763,
-      "word": "怀孕5月女子到派出所帮亡夫销户落泪",
-      "onboard_time": 1700901160,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320054,
       "num": 320054,
       "word": "陈硕辞退兰兰",
@@ -7145,14 +7161,6 @@
       "onboard_time": 1700321375,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 317064,
-      "num": 258762,
-      "word": "海底捞回应跳科目三服务员月薪过万",
-      "onboard_time": 1700902718,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316661,
@@ -7403,6 +7411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304521,
+      "num": 304521,
+      "word": "花花吃饭被弟弟折腾懵了",
+      "onboard_time": 1700900857,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304302,
       "num": 304302,
       "word": "胡连馨补拍狐妖",
@@ -7465,6 +7481,14 @@
       "onboard_time": 1700547336,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 302071,
+      "num": 202231,
+      "word": "赵露思把你的震动关一下",
+      "onboard_time": 1700903857,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 301962,
@@ -7851,6 +7875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290794,
+      "num": 183527,
+      "word": "刘诗诗打戏仪态",
+      "onboard_time": 1700902540,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290691,
       "num": 290691,
       "word": "A股",
@@ -8081,14 +8113,6 @@
       "onboard_time": 1700645317,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 280163,
-      "num": 280163,
-      "word": "花花吃饭被弟弟折腾懵了",
-      "onboard_time": 1700900857,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279837,
@@ -8425,14 +8449,6 @@
       "onboard_time": 1700476411,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 266383,
-      "num": 183527,
-      "word": "刘诗诗打戏仪态",
-      "onboard_time": 1700902540,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 266060,
@@ -10515,6 +10531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215652,
+      "num": 215652,
+      "word": "足协杯决赛",
+      "onboard_time": 1700903737,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215261,
       "num": 215261,
       "word": "时宴吃播",
@@ -10753,6 +10777,14 @@
       "onboard_time": 1700826094,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211327,
+      "num": 150699,
+      "word": "再见李可乐",
+      "onboard_time": 1700904637,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 211084,
@@ -11427,6 +11459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202219,
+      "num": 147611,
+      "word": "谢危怎么连儿子都欺负",
+      "onboard_time": 1700904820,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202162,
       "num": 202162,
       "word": "张桂梅老师纪录片",
@@ -11441,6 +11481,14 @@
       "onboard_time": 1700388994,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202003,
+      "num": 202003,
+      "word": "EDG纪录片",
+      "onboard_time": 1700903495,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 201993,
@@ -11921,14 +11969,6 @@
       "onboard_time": 1700705911,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196018,
-      "num": 196018,
-      "word": "前助理否认马云做预制菜",
-      "onboard_time": 1700903377,
-      "rank": 18,
-      "category": "财经,美食"
     },
     {
       "raw_hot": 196008,
@@ -12883,6 +12923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184788,
+      "num": 184788,
+      "word": "申花进球",
+      "onboard_time": 1700904515,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184658,
       "num": 184658,
       "word": "斗鱼",
@@ -13657,14 +13705,6 @@
       "onboard_time": 1700619570,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171068,
-      "num": 184035,
-      "word": "EDG纪录片",
-      "onboard_time": 1700903495,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 171054,
@@ -14553,6 +14593,14 @@
       "onboard_time": 1700743119,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 157017,
+      "num": 181047,
+      "word": "猫和狗在失重状态下的对比",
+      "onboard_time": 1700903558,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 156870,
@@ -17051,14 +17099,6 @@
       "category": "艺人,运动健身"
     },
     {
-      "raw_hot": 112394,
-      "num": 181047,
-      "word": "猫和狗在失重状态下的对比",
-      "onboard_time": 1700903558,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112128,
       "num": 112128,
       "word": "勇士结束六连败",
@@ -18499,6 +18539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33948,
+      "num": 1600936,
+      "word": "新时代中国乡野调查",
+      "onboard_time": 1700899776,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33332,
       "num": 159462,
       "word": "枫桥警务模式以民意为导向",
@@ -18513,14 +18561,6 @@
       "onboard_time": 1700415738,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32474,
-      "num": 1252844,
-      "word": "新时代中国乡野调查",
-      "onboard_time": 1700899776,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31017,

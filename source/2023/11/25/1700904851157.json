@@ -1,0 +1,410 @@
+{
+  "runTime": 1700904851157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2254387,
+        "num": 2254387,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1700900857,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1758920,
+        "num": 1758920,
+        "word": "谢依霖回应老公重症肌无力",
+        "onboard_time": 1700902958,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33948,
+        "num": 1600936,
+        "word": "新时代中国乡野调查",
+        "onboard_time": 1700899776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1456834,
+        "num": 1456834,
+        "word": "田曦薇 看得出她是公主",
+        "onboard_time": 1700897914,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 857215,
+        "num": 857215,
+        "word": "吴佩慈未婚夫定性为恶势力团伙首脑",
+        "onboard_time": 1700895754,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843828,
+        "num": 843828,
+        "word": "尖叫之夜 座位",
+        "onboard_time": 1700886339,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627678,
+        "num": 627678,
+        "word": "海底捞回应跳科目三服务员月薪过万",
+        "onboard_time": 1700902718,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304521,
+        "num": 304521,
+        "word": "花花吃饭被弟弟折腾懵了",
+        "onboard_time": 1700900857,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296205,
+        "num": 296205,
+        "word": "2024国考参考人数或破200万",
+        "onboard_time": 1700897738,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 295828,
+        "num": 295828,
+        "word": "林黛玉风雪山神庙",
+        "onboard_time": 1700901216,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 831766,
+        "num": 294514,
+        "word": "颖儿礼服20斤重",
+        "onboard_time": 1700902480,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 782059,
+        "num": 287607,
+        "word": "杨幂造型预告",
+        "onboard_time": 1700903314,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670818,
+        "num": 280844,
+        "word": "胡先煦 考试什么的都去死吧",
+        "onboard_time": 1700901696,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460898,
+        "num": 273795,
+        "word": "前助理否认马云做预制菜",
+        "onboard_time": 1700903377,
+        "rank": 13,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 341621,
+        "num": 266070,
+        "word": "缅甸",
+        "onboard_time": 1700888137,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611996,
+        "num": 257451,
+        "word": "邓超 怒请100位转发的朋友看",
+        "onboard_time": 1700894552,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 585666,
+        "num": 248336,
+        "word": "尖叫之夜直播",
+        "onboard_time": 1700891553,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526309,
+        "num": 242476,
+        "word": "金晨高颅顶公主头",
+        "onboard_time": 1700899478,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239802,
+        "num": 239802,
+        "word": "成都一楼盘降价40%",
+        "onboard_time": 1700893114,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215652,
+        "num": 215652,
+        "word": "足协杯决赛",
+        "onboard_time": 1700903737,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470768,
+        "num": 214867,
+        "word": "杨幂 你就大大方方卷给他看",
+        "onboard_time": 1700889453,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346955,
+        "num": 212384,
+        "word": "怀孕5月女子到派出所帮亡夫销户落泪",
+        "onboard_time": 1700901160,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249281,
+        "num": 210216,
+        "word": "日本一棕熊尸体中发现人体残骸",
+        "onboard_time": 1700881472,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228904,
+        "num": 207493,
+        "word": "男子租50万宝马5万卖掉",
+        "onboard_time": 1700898695,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204858,
+        "num": 204858,
+        "word": "柯南 灰原哀老画风",
+        "onboard_time": 1700897976,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 411732,
+        "num": 204561,
+        "word": "李荣浩连发十条我求你们了",
+        "onboard_time": 1700886757,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 379746,
+        "num": 204444,
+        "word": "杨紫黑白制服套装",
+        "onboard_time": 1700901160,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370209,
+        "num": 203967,
+        "word": "宋轶花房公主",
+        "onboard_time": 1700896833,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361113,
+        "num": 203461,
+        "word": "王亚飞给白鹿化的妆",
+        "onboard_time": 1700903434,
+        "rank": 28,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 208809,
+        "num": 202997,
+        "word": "女子将第三者不雅视频发送多人被起诉",
+        "onboard_time": 1700899478,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342912,
+        "num": 202536,
+        "word": "这居然是王阳尖叫之夜造型",
+        "onboard_time": 1700895572,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302071,
+        "num": 202231,
+        "word": "赵露思把你的震动关一下",
+        "onboard_time": 1700903857,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202003,
+        "num": 202003,
+        "word": "EDG纪录片",
+        "onboard_time": 1700903495,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184788,
+        "num": 184788,
+        "word": "申花进球",
+        "onboard_time": 1700904515,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161063,
+        "num": 161063,
+        "word": "哪种长相的痣不能留",
+        "onboard_time": 1700902415,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 290794,
+        "num": 160847,
+        "word": "刘诗诗打戏仪态",
+        "onboard_time": 1700902540,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270209,
+        "num": 160692,
+        "word": "宁安如梦大结局",
+        "onboard_time": 1700887541,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255995,
+        "num": 160498,
+        "word": "白鹿复古鎏金裙",
+        "onboard_time": 1700895693,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160179,
+        "num": 160179,
+        "word": "90后父母取名去言情化了",
+        "onboard_time": 1700897313,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157017,
+        "num": 157017,
+        "word": "猫和狗在失重状态下的对比",
+        "onboard_time": 1700903558,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238111,
+        "num": 156119,
+        "word": "林允复古花朵礼裙",
+        "onboard_time": 1700903015,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223264,
+        "num": 153662,
+        "word": "李一桐美杜莎妆",
+        "onboard_time": 1700892453,
+        "rank": 41,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 211327,
+        "num": 150699,
+        "word": "再见李可乐",
+        "onboard_time": 1700904637,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202219,
+        "num": 147611,
+        "word": "谢危怎么连儿子都欺负",
+        "onboard_time": 1700904820,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145618,
+        "num": 145618,
+        "word": "Bin武神状态",
+        "onboard_time": 1700902058,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135737,
+        "num": 135737,
+        "word": "压垮男方的不止彩礼还有房贷和车贷",
+        "onboard_time": 1700888557,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127016,
+        "num": 127016,
+        "word": "鉴定所疑伪造亲子鉴定3地警方介入",
+        "onboard_time": 1700897494,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126789,
+        "num": 126789,
+        "word": "这裤子没有运费险也要退",
+        "onboard_time": 1700895872,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122058,
+        "num": 122058,
+        "word": "盗月社 东北妈妈包的饺子",
+        "onboard_time": 1700901876,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111513,
+        "num": 122011,
+        "word": "喜欢吃的店突然不开了",
+        "onboard_time": 1700901398,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
