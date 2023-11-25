@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700907432959,
+  "endTime": 1700908451255,
   "band_list": [
     {
       "raw_hot": 2804238,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1627794,
+      "num": 1627794,
+      "word": "成毅被曾舜晞推到C位",
+      "onboard_time": 1700907337,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1560913,
       "num": 1300614,
       "word": "杨幂 你就大大方方卷给他看",
@@ -123,6 +131,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1127598,
+      "num": 710920,
+      "word": "尖叫之夜",
+      "onboard_time": 1700907820,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1120287,
+      "num": 710146,
+      "word": "张颂文高叶牵手走红毯",
+      "onboard_time": 1700907697,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1055821,
       "num": 1055821,
       "word": "宁安如梦大结局",
@@ -147,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957873,
+      "num": 405423,
+      "word": "对接称刘诗诗不上台",
+      "onboard_time": 1700907759,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955620,
       "num": 955620,
       "word": "知情人曾透露吴秀波不再从事演员职业",
@@ -168,6 +200,14 @@
       "word": "蒲罗旺斯",
       "onboard_time": 1700870547,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 935687,
+      "num": 402558,
+      "word": "白敬亭宋轶一起走红毯",
+      "onboard_time": 1700908118,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -395,14 +435,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 530420,
-      "num": 333411,
-      "word": "成毅被曾舜晞推到C位",
-      "onboard_time": 1700907337,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 528682,
       "num": 389530,
       "word": "谢危亲了一晚上嘴皮子都破了吧",
@@ -417,6 +449,14 @@
       "onboard_time": 1700810977,
       "rank": 1,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 513133,
+      "num": 513133,
+      "word": "花海 好美的精神状态",
+      "onboard_time": 1700907633,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 505156,
@@ -483,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449675,
+      "num": 2050781,
+      "word": "花花吃饭被弟弟折腾懵了",
+      "onboard_time": 1700900857,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432324,
       "num": 432324,
       "word": "急诊医生得知奶奶去世抹掉眼泪接诊",
@@ -497,14 +545,6 @@
       "onboard_time": 1700881893,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429608,
-      "num": 2050781,
-      "word": "花花吃饭被弟弟折腾懵了",
-      "onboard_time": 1700900857,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429234,
@@ -569,6 +609,14 @@
       "onboard_time": 1700888074,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394291,
+      "num": 394291,
+      "word": "美国人工智能判定美国登月任务照片是假的",
+      "onboard_time": 1700906258,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 393391,
@@ -684,7 +732,7 @@
     },
     {
       "raw_hot": 346955,
-      "num": 214595,
+      "num": 250811,
       "word": "怀孕5月女子到派出所帮亡夫销户落泪",
       "onboard_time": 1700901160,
       "rank": 49,
@@ -739,12 +787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331946,
-      "num": 331946,
-      "word": "美国人工智能判定美国登月任务照片是假的",
-      "onboard_time": 1700906258,
-      "rank": 17,
-      "category": "互联网"
+      "raw_hot": 326924,
+      "num": 201670,
+      "word": "刘诗诗打戏仪态",
+      "onboard_time": 1700902540,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 324937,
@@ -753,14 +801,6 @@
       "onboard_time": 1700897494,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324244,
-      "num": 198189,
-      "word": "刘诗诗打戏仪态",
-      "onboard_time": 1700902540,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 323713,
@@ -995,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253581,
+      "num": 200792,
+      "word": "林俊杰武汉演唱会",
+      "onboard_time": 1700908237,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 251794,
       "num": 224516,
       "word": "宁安如梦 改编",
@@ -1091,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238583,
+      "num": 1711126,
+      "word": "交警多问一句话救下一条命",
+      "onboard_time": 1700906137,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235976,
       "num": 190384,
       "word": "威尔史密斯女儿Willow新歌",
@@ -1128,14 +1184,6 @@
       "word": "90后父母取名去言情化了",
       "onboard_time": 1700897313,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227096,
-      "num": 1711126,
-      "word": "交警多问一句话救下一条命",
-      "onboard_time": 1700906137,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2091,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103142,
+      "num": 199239,
+      "word": "世界真需要这样卷吗",
+      "onboard_time": 1700907939,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99616,
       "num": 142619,
       "word": "猫猫帽",
@@ -2169,6 +2225,14 @@
       "onboard_time": 1700822735,
       "rank": 39,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 85569,
+      "num": 1492013,
+      "word": "民警和被救男子用矿泉水碰杯",
+      "onboard_time": 1700905838,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83536,
@@ -2281,14 +2345,6 @@
       "onboard_time": 1700823994,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44075,
-      "num": 201302,
-      "word": "民警和被救男子用矿泉水碰杯",
-      "onboard_time": 1700905838,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40287,
