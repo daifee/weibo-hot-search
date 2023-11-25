@@ -1,0 +1,410 @@
+{
+  "runTime": 1700955241424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 936448,
+        "num": 936448,
+        "word": "杨幂 于和伟亲马东了",
+        "onboard_time": 1700924084,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591347,
+        "num": 591347,
+        "word": "白敬亭宋轶你俩不认识吗",
+        "onboard_time": 1700909920,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28521,
+        "num": 452537,
+        "word": "中国基建狂魔即将打通天山",
+        "onboard_time": 1700897137,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 451659,
+        "num": 451659,
+        "word": "金马影后林品彤 12岁",
+        "onboard_time": 1700926187,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406600,
+        "num": 406600,
+        "word": "海涛跟沈梦辰说他在家里带孩子",
+        "onboard_time": 1700938037,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375759,
+        "num": 375759,
+        "word": "陈晓瘦脱相了",
+        "onboard_time": 1700918750,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364999,
+        "num": 364999,
+        "word": "国考",
+        "onboard_time": 1700953820,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 296223,
+        "num": 296223,
+        "word": "斗鱼陈少杰被捕后多位大主播已停播",
+        "onboard_time": 1700937137,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213178,
+        "num": 213178,
+        "word": "国考行测和申论哪个难",
+        "onboard_time": 1700953520,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160598,
+        "num": 160598,
+        "word": "当前流行病毒大多侵犯上呼吸道且有自限性",
+        "onboard_time": 1700924628,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370914,
+        "num": 158121,
+        "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
+        "onboard_time": 1700954241,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318142,
+        "num": 148847,
+        "word": "白鹿 尖叫女演员",
+        "onboard_time": 1700923549,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306740,
+        "num": 140757,
+        "word": "吴慷仁 金马影帝",
+        "onboard_time": 1700926666,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300335,
+        "num": 136723,
+        "word": "伍佰合肥演唱会被曝观众大喊退票",
+        "onboard_time": 1700954060,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133586,
+        "num": 133586,
+        "word": "北京朝阳警方立案侦查中植系所属财富公司",
+        "onboard_time": 1700923305,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258719,
+        "num": 130864,
+        "word": "张凌赫为什么像做贼",
+        "onboard_time": 1700923367,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191842,
+        "num": 127564,
+        "word": "王鹤棣 尖叫男演员",
+        "onboard_time": 1700923428,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118888,
+        "num": 118888,
+        "word": "余光中妻子去世",
+        "onboard_time": 1700921749,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99908,
+        "num": 99908,
+        "word": "朱鹮洋洋去世",
+        "onboard_time": 1700924264,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97422,
+        "num": 97422,
+        "word": "不能二次加热的食物",
+        "onboard_time": 1700910771,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217031,
+        "num": 96547,
+        "word": "娜扎 是你们要看的吗",
+        "onboard_time": 1700920127,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206040,
+        "num": 92971,
+        "word": "在谈vs分了",
+        "onboard_time": 1700911968,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197771,
+        "num": 90414,
+        "word": "相亲相到老师",
+        "onboard_time": 1700954060,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134201,
+        "num": 89048,
+        "word": "韩国一女子杀人分尸称痴迷犯罪想尝试谋杀",
+        "onboard_time": 1700913043,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87947,
+        "num": 87947,
+        "word": "发现这4种毒文具赶紧扔掉",
+        "onboard_time": 1700954904,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 185041,
+        "num": 86186,
+        "word": "棣欣引力",
+        "onboard_time": 1700912925,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151927,
+        "num": 82163,
+        "word": "对接称刘诗诗不上台",
+        "onboard_time": 1700907759,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124124,
+        "num": 81342,
+        "word": "陆虎 陆佰",
+        "onboard_time": 1700952137,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75507,
+        "num": 75507,
+        "word": "孩子呼吸道感染后咳咳咳怎么办",
+        "onboard_time": 1700952378,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70932,
+        "num": 70932,
+        "word": "美国人工智能判定美国登月任务照片是假的",
+        "onboard_time": 1700906258,
+        "rank": 29,
+        "category": "国外时政,科学科普"
+      },
+      {
+        "raw_hot": 122856,
+        "num": 70529,
+        "word": "杨幂压轴",
+        "onboard_time": 1700910585,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117782,
+        "num": 70104,
+        "word": "虞书欣成毅梦回一年级",
+        "onboard_time": 1700917371,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114609,
+        "num": 69723,
+        "word": "林青霞 金马终身成就奖",
+        "onboard_time": 1700917970,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95325,
+        "num": 69621,
+        "word": "宋轶白敬亭魏大勋 切镜头",
+        "onboard_time": 1700914908,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69184,
+        "num": 69184,
+        "word": "哈弗茨绝杀",
+        "onboard_time": 1700954480,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93250,
+        "num": 68277,
+        "word": "林志玲北野武 颁奖",
+        "onboard_time": 1700908781,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63832,
+        "num": 63832,
+        "word": "小腿瘦得毫不费力",
+        "onboard_time": 1700919947,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 61809,
+        "num": 61809,
+        "word": "当代中年夫妻现状",
+        "onboard_time": 1700923428,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52321,
+        "num": 61793,
+        "word": "布伦特福德0比1阿森纳",
+        "onboard_time": 1700954182,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50835,
+        "num": 61725,
+        "word": "何冲评全红婵粉丝斥裁判压分",
+        "onboard_time": 1700911908,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91809,
+        "num": 61684,
+        "word": "成毅在打车吗",
+        "onboard_time": 1700917129,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91296,
+        "num": 61607,
+        "word": "王一博 不能",
+        "onboard_time": 1700909742,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75885,
+        "num": 61557,
+        "word": "杨幂王鹤棣台下扔水瓶",
+        "onboard_time": 1700955143,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74739,
+        "num": 61523,
+        "word": "诗幂红白玫瑰",
+        "onboard_time": 1700955024,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66527,
+        "num": 61450,
+        "word": "李一桐碎闪开叉裙",
+        "onboard_time": 1700952617,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66090,
+        "num": 61393,
+        "word": "田曦薇 青春飞跃女演员",
+        "onboard_time": 1700915626,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49758,
+        "num": 61375,
+        "word": "这真的不是复制粘贴吗",
+        "onboard_time": 1700954241,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48266,
+        "num": 61288,
+        "word": "老中医教的7个疏肝解郁法",
+        "onboard_time": 1700939355,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46136,
+        "num": 61282,
+        "word": "直播救厂三个老头的网红路",
+        "onboard_time": 1700954784,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36528,
+        "num": 61185,
+        "word": "369回应加入TES",
+        "onboard_time": 1700912866,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国学解锁中国密码#"
+    }
+  }
+}

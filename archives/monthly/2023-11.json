@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700954221645,
+  "endTime": 1700955241424,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -21035,6 +21035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406600,
+      "num": 406600,
+      "word": "海涛跟沈梦辰说他在家里带孩子",
+      "onboard_time": 1700938037,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406543,
       "num": 393808,
       "word": "白鹿张凌赫交杯吃饭团",
@@ -23355,6 +23363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370914,
+      "num": 158121,
+      "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
+      "onboard_time": 1700954241,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370829,
       "num": 370829,
       "word": "这种小说的受众到底是谁",
@@ -23721,6 +23737,14 @@
       "onboard_time": 1699857153,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364999,
+      "num": 364999,
+      "word": "国考",
+      "onboard_time": 1698794426,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 364841,
@@ -27147,14 +27171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318084,
-      "num": 318084,
-      "word": "海涛跟沈梦辰说他在家里带孩子",
-      "onboard_time": 1700938037,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318083,
       "num": 303684,
       "word": "我真的是秦岚",
@@ -28627,6 +28643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300335,
+      "num": 136723,
+      "word": "伍佰合肥演唱会被曝观众大喊退票",
+      "onboard_time": 1700954060,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300207,
       "num": 300207,
       "word": "花少 当导游前vs当导游后",
@@ -28993,6 +29017,14 @@
       "onboard_time": 1700408075,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296223,
+      "num": 296223,
+      "word": "斗鱼陈少杰被捕后多位大主播已停播",
+      "onboard_time": 1700937137,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296077,
@@ -30113,14 +30145,6 @@
       "onboard_time": 1699367198,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284370,
-      "num": 284370,
-      "word": "国考",
-      "onboard_time": 1698794426,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 284342,
@@ -34401,14 +34425,6 @@
       "onboard_time": 1700373814,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247592,
-      "num": 247592,
-      "word": "斗鱼陈少杰被捕后多位大主播已停播",
-      "onboard_time": 1700937137,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247510,
@@ -39859,6 +39875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 213178,
+      "num": 213178,
+      "word": "国考行测和申论哪个难",
+      "onboard_time": 1700953520,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 213174,
       "num": 213174,
       "word": "乙肝临床治愈门诊",
@@ -43657,6 +43681,14 @@
       "onboard_time": 1700399495,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197771,
+      "num": 90414,
+      "word": "相亲相到老师",
+      "onboard_time": 1700954060,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 197765,
@@ -59907,14 +59939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128096,
-      "num": 128096,
-      "word": "国考行测和申论哪个难",
-      "onboard_time": 1700953520,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 128019,
       "num": 128019,
       "word": "主播1年看50本书称可对抗焦虑",
@@ -60705,6 +60729,14 @@
       "onboard_time": 1699517372,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 124124,
+      "num": 81342,
+      "word": "陆虎 陆佰",
+      "onboard_time": 1700952137,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 124083,
@@ -64883,14 +64915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 99226,
-      "num": 54095,
-      "word": "陆虎 陆佰",
-      "onboard_time": 1700952137,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 99049,
       "num": 99049,
       "word": "初中生下课后围着抗美援朝老兵要签名",
@@ -65353,14 +65377,6 @@
       "onboard_time": 1699539034,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95361,
-      "num": 66750,
-      "word": "相亲相到老师",
-      "onboard_time": 1700954060,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 95296,
@@ -65937,6 +65953,14 @@
       "onboard_time": 1698829474,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 87947,
+      "num": 87947,
+      "word": "发现这4种毒文具赶紧扔掉",
+      "onboard_time": 1700954904,
+      "rank": 24,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 87684,
@@ -66883,12 +66907,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75885,
+      "num": 61557,
+      "word": "杨幂王鹤棣台下扔水瓶",
+      "onboard_time": 1700955143,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75804,
       "num": 75804,
       "word": "王安宇的镜头好有故事感",
       "onboard_time": 1700241263,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75507,
+      "num": 75507,
+      "word": "孩子呼吸道感染后咳咳咳怎么办",
+      "onboard_time": 1700952378,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75443,
@@ -66913,6 +66953,14 @@
       "onboard_time": 1699103436,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74739,
+      "num": 61523,
+      "word": "诗幂红白玫瑰",
+      "onboard_time": 1700955024,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 74636,
@@ -67187,6 +67235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69184,
+      "num": 69184,
+      "word": "哈弗茨绝杀",
+      "onboard_time": 1700954480,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69133,
       "num": 1698647,
       "word": "中欧班列行驶总里程超7亿公里",
@@ -67347,6 +67403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66527,
+      "num": 61450,
+      "word": "李一桐碎闪开叉裙",
+      "onboard_time": 1700952617,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 66396,
       "num": 966651,
       "word": "2023加油壁纸",
@@ -67369,14 +67433,6 @@
       "onboard_time": 1699114830,
       "rank": 49,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 66042,
-      "num": 48009,
-      "word": "伍佰合肥演唱会被曝观众大喊退票",
-      "onboard_time": 1700954060,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 65953,
@@ -67593,14 +67649,6 @@
       "onboard_time": 1699689929,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62595,
-      "num": 47910,
-      "word": "李一桐碎闪开叉裙",
-      "onboard_time": 1700952617,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62261,
@@ -67971,14 +68019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57324,
-      "num": 57324,
-      "word": "孩子呼吸道感染后咳咳咳怎么办",
-      "onboard_time": 1700952378,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 57271,
       "num": 99653,
       "word": "喝完喜酒他们都拎个消防应急包走了",
@@ -68020,7 +68060,7 @@
     },
     {
       "raw_hot": 56047,
-      "num": 56047,
+      "num": 61288,
       "word": "老中医教的7个疏肝解郁法",
       "onboard_time": 1700939355,
       "rank": 33,
@@ -68227,6 +68267,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 52321,
+      "num": 61793,
+      "word": "布伦特福德0比1阿森纳",
+      "onboard_time": 1700954182,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52123,
       "num": 52123,
       "word": "1个动作让小腿越来越直",
@@ -68369,6 +68417,14 @@
       "onboard_time": 1699261293,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 49758,
+      "num": 61375,
+      "word": "这真的不是复制粘贴吗",
+      "onboard_time": 1700954241,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 49728,
@@ -68520,6 +68576,14 @@
       "word": "云南边境居民讲述缅甸军事冲突",
       "onboard_time": 1698772222,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46136,
+      "num": 61282,
+      "word": "直播救厂三个老头的网红路",
+      "onboard_time": 1700954784,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -69009,14 +69073,6 @@
       "onboard_time": 1700899776,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33928,
-      "num": 47922,
-      "word": "布伦特福德0比1阿森纳",
-      "onboard_time": 1700954182,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 33615,
