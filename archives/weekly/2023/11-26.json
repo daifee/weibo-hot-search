@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700948052126,
+  "endTime": 1700950542853,
   "band_list": [
     {
       "raw_hot": 7011410,
@@ -547,23 +547,23 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28108,
-      "num": 22442,
-      "word": "周冬雨说热搜台词是最难背的",
-      "onboard_time": 1700944335,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 22265,
-      "num": 22265,
+      "raw_hot": 33727,
+      "num": 28689,
       "word": "袁弘一张照片拿到热搜角色",
       "onboard_time": 1700945955,
       "rank": 45,
       "category": "电影"
     },
     {
-      "raw_hot": 22136,
+      "raw_hot": 28108,
+      "num": 28580,
+      "word": "周冬雨说热搜台词是最难背的",
+      "onboard_time": 1700944335,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 25026,
       "num": 39733,
       "word": "老中医教的7个疏肝解郁法",
       "onboard_time": 1700939355,
