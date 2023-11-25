@@ -1,0 +1,410 @@
+{
+  "runTime": 1700896512360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1384290,
+        "num": 1384290,
+        "word": "李荣浩连发十条我求你们了",
+        "onboard_time": 1700886757,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1358571,
+        "num": 1358571,
+        "word": "尖叫之夜 座位",
+        "onboard_time": 1700886339,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85114,
+        "num": 1306564,
+        "word": "儿子继承了牺牲父亲的警号",
+        "onboard_time": 1700882793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300614,
+        "num": 1300614,
+        "word": "杨幂 你就大大方方卷给他看",
+        "onboard_time": 1700889453,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1151523,
+        "num": 1151523,
+        "word": "邓超 怒请100位转发的朋友看",
+        "onboard_time": 1700894552,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 647548,
+        "num": 647548,
+        "word": "尖叫之夜直播",
+        "onboard_time": 1700891553,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550136,
+        "num": 550136,
+        "word": "压垮男方的不止彩礼还有房贷和车贷",
+        "onboard_time": 1700888557,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536612,
+        "num": 536612,
+        "word": "成都一楼盘降价40%",
+        "onboard_time": 1700893114,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 396298,
+        "num": 396298,
+        "word": "鼠头鸭脖涉事高校党政领导去职",
+        "onboard_time": 1700890536,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323713,
+        "num": 323713,
+        "word": "最新版中国医院排行",
+        "onboard_time": 1700892873,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760123,
+        "num": 317206,
+        "word": "吴佩慈未婚夫定性为恶势力团伙首脑",
+        "onboard_time": 1700895754,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538662,
+        "num": 308491,
+        "word": "宁安如梦大结局",
+        "onboard_time": 1700887541,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532483,
+        "num": 294150,
+        "word": "白鹿复古鎏金裙",
+        "onboard_time": 1700895693,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371674,
+        "num": 285581,
+        "word": "缅甸",
+        "onboard_time": 1700888137,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283911,
+        "num": 283911,
+        "word": "代号鸢 张闿入我卡池",
+        "onboard_time": 1700894671,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 500147,
+        "num": 273575,
+        "word": "李一桐美杜莎妆",
+        "onboard_time": 1700892453,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 260515,
+        "num": 260515,
+        "word": "上海交大食堂饭菜吃出1.5厘米针头",
+        "onboard_time": 1700885795,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379484,
+        "num": 257818,
+        "word": "这居然是王阳尖叫之夜造型",
+        "onboard_time": 1700895572,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251293,
+        "num": 251293,
+        "word": "克莱更衣室破防",
+        "onboard_time": 1700895335,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233770,
+        "num": 233770,
+        "word": "北京明确学生患病作业一律不硬性要求",
+        "onboard_time": 1700885555,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 531882,
+        "num": 232940,
+        "word": "日本一棕熊尸体中发现人体残骸",
+        "onboard_time": 1700881472,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376869,
+        "num": 231368,
+        "word": "姜雪宁谢危睡完就吵",
+        "onboard_time": 1700891254,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358916,
+        "num": 229919,
+        "word": "2023尖叫之夜节目单",
+        "onboard_time": 1700891793,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348412,
+        "num": 228039,
+        "word": "吴秀波回应被强执行4.66亿",
+        "onboard_time": 1700887895,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237951,
+        "num": 224678,
+        "word": "这裤子没有运费险也要退",
+        "onboard_time": 1700895872,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251794,
+        "num": 224516,
+        "word": "宁安如梦 改编",
+        "onboard_time": 1700894254,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222736,
+        "num": 222736,
+        "word": "许光汉听到吴慷仁女儿的表情",
+        "onboard_time": 1700894193,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177305,
+        "num": 177305,
+        "word": "张大仙白发造型",
+        "onboard_time": 1700896235,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159155,
+        "num": 159155,
+        "word": "KPL亚运小队限定封面大片",
+        "onboard_time": 1700895091,
+        "rank": 28,
+        "category": "电竞,时尚"
+      },
+      {
+        "raw_hot": 156136,
+        "num": 156136,
+        "word": "你的纹身是你每天戴上的吗",
+        "onboard_time": 1700890835,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221627,
+        "num": 155688,
+        "word": "屈楚萧张佳宁换万星cp情头",
+        "onboard_time": 1700894973,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210894,
+        "num": 153899,
+        "word": "十个勤天 十个猴子",
+        "onboard_time": 1700896293,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209287,
+        "num": 151984,
+        "word": "谢危 谢娟",
+        "onboard_time": 1700894012,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185682,
+        "num": 149611,
+        "word": "赵露思绿野仙踪裙",
+        "onboard_time": 1700890835,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149193,
+        "num": 149193,
+        "word": "小伙轿车3个月遭8次开门杀",
+        "onboard_time": 1700884354,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179994,
+        "num": 145939,
+        "word": "陈赫直播破防",
+        "onboard_time": 1700884291,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133969,
+        "num": 133969,
+        "word": "一诺 又和兄弟们见面啦",
+        "onboard_time": 1700893593,
+        "rank": 36,
+        "category": "游戏,时尚"
+      },
+      {
+        "raw_hot": 130007,
+        "num": 130007,
+        "word": "湖南省服 棉睡衣",
+        "onboard_time": 1700896412,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123354,
+        "num": 123354,
+        "word": "ON的改变",
+        "onboard_time": 1700893537,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111807,
+        "num": 111807,
+        "word": "呼吸道合胞病毒感染高危人群",
+        "onboard_time": 1700894854,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175924,
+        "num": 111534,
+        "word": "黄渤在街舞6现场晾毛巾",
+        "onboard_time": 1700895212,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171558,
+        "num": 110601,
+        "word": "Jennie章昊同框",
+        "onboard_time": 1700891494,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170850,
+        "num": 110207,
+        "word": "蒋欣片场狂炫锅包肉",
+        "onboard_time": 1700892214,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165007,
+        "num": 109354,
+        "word": "周杰伦陈奕迅简单爱现场",
+        "onboard_time": 1700896173,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161817,
+        "num": 108970,
+        "word": "知情人曾透露吴秀波不再从事演员职业",
+        "onboard_time": 1700880151,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160510,
+        "num": 108531,
+        "word": "大黑牛不愧是大黑牛",
+        "onboard_time": 1700894854,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107959,
+        "num": 107959,
+        "word": "凡人修仙传开播",
+        "onboard_time": 1700882014,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 95644,
+        "num": 107808,
+        "word": "Doinb Ning",
+        "onboard_time": 1700870787,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89885,
+        "num": 107372,
+        "word": "KT官宣Deft加入",
+        "onboard_time": 1700887058,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88864,
+        "num": 107273,
+        "word": "快船不敌鹈鹕",
+        "onboard_time": 1700893891,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国学解锁中国密码#"
+    }
+  }
+}

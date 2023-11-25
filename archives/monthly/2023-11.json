@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700894069213,
+  "endTime": 1700896512360,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3196,7 +3196,7 @@
     },
     {
       "raw_hot": 1560913,
-      "num": 874382,
+      "num": 1300614,
       "word": "杨幂 你就大大方方卷给他看",
       "onboard_time": 1700889453,
       "rank": 5,
@@ -5153,6 +5153,14 @@
       "onboard_time": 1699158995,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1151523,
+      "num": 1151523,
+      "word": "邓超 怒请100位转发的朋友看",
+      "onboard_time": 1700894552,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 1151301,
@@ -9139,6 +9147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760123,
+      "num": 317206,
+      "word": "吴佩慈未婚夫定性为恶势力团伙首脑",
+      "onboard_time": 1700895754,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 759493,
       "num": 437180,
       "word": "蛇皮腿是怎么一回事",
@@ -11435,6 +11451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 647548,
+      "num": 647548,
+      "word": "尖叫之夜直播",
+      "onboard_time": 1700891553,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 646345,
       "num": 646345,
       "word": "顾客吐槽火锅店6元一份娃娃菜仅4片",
@@ -12641,14 +12665,6 @@
       "onboard_time": 1700219610,
       "rank": 13,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 605227,
-      "num": 571886,
-      "word": "尖叫之夜直播",
-      "onboard_time": 1700891553,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 604877,
@@ -14731,6 +14747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536612,
+      "num": 536612,
+      "word": "成都一楼盘降价40%",
+      "onboard_time": 1700893114,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 536605,
       "num": 536605,
       "word": "吴世勋 杂志",
@@ -14897,6 +14921,14 @@
       "onboard_time": 1699070431,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 532483,
+      "num": 294150,
+      "word": "白鹿复古鎏金裙",
+      "onboard_time": 1700895693,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 532482,
@@ -19604,7 +19636,7 @@
     },
     {
       "raw_hot": 419326,
-      "num": 209423,
+      "num": 229919,
       "word": "2023尖叫之夜节目单",
       "onboard_time": 1700891793,
       "rank": 15,
@@ -22049,6 +22081,14 @@
       "onboard_time": 1700436806,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 379484,
+      "num": 257818,
+      "word": "这居然是王阳尖叫之夜造型",
+      "onboard_time": 1700895572,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 379249,
@@ -25139,14 +25179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333892,
-      "num": 218444,
-      "word": "成都一楼盘降价40%",
-      "onboard_time": 1700893114,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 333883,
       "num": 333883,
       "word": "成都警方通报斗鱼CEO陈少杰案",
@@ -25913,6 +25945,14 @@
       "onboard_time": 1698917911,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 323713,
+      "num": 323713,
+      "word": "最新版中国医院排行",
+      "onboard_time": 1700892873,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323664,
@@ -29249,6 +29289,14 @@
       "onboard_time": 1699177833,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283911,
+      "num": 283911,
+      "word": "代号鸢 张闿入我卡池",
+      "onboard_time": 1700894671,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 283876,
@@ -32867,6 +32915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251794,
+      "num": 224516,
+      "word": "宁安如梦 改编",
+      "onboard_time": 1700894254,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251656,
       "num": 1387503,
       "word": "新疆农户给苹果做B超测冰糖心",
@@ -32897,6 +32953,14 @@
       "onboard_time": 1698900159,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251293,
+      "num": 251293,
+      "word": "克莱更衣室破防",
+      "onboard_time": 1700895335,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 251177,
@@ -34785,6 +34849,14 @@
       "onboard_time": 1700135797,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237951,
+      "num": 224678,
+      "word": "这裤子没有运费险也要退",
+      "onboard_time": 1700895872,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 237807,
@@ -37115,6 +37187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222736,
+      "num": 222736,
+      "word": "许光汉听到吴慷仁女儿的表情",
+      "onboard_time": 1700894193,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 222646,
       "num": 222646,
       "word": "瞒天过海 12人格海报",
@@ -37305,6 +37385,14 @@
       "onboard_time": 1700542662,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221627,
+      "num": 155688,
+      "word": "屈楚萧张佳宁换万星cp情头",
+      "onboard_time": 1700894973,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 221477,
@@ -39163,6 +39251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210894,
+      "num": 153899,
+      "word": "十个勤天 十个猴子",
+      "onboard_time": 1700896293,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210857,
       "num": 210857,
       "word": "剧组在高校拍摄用激光笔驱赶学生",
@@ -39569,6 +39665,14 @@
       "onboard_time": 1699502615,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209287,
+      "num": 151984,
+      "word": "谢危 谢娟",
+      "onboard_time": 1700894012,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 209284,
@@ -44195,14 +44299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191056,
-      "num": 164846,
-      "word": "最新版中国医院排行",
-      "onboard_time": 1700892873,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191051,
       "num": 108657,
       "word": "热刺单场两红",
@@ -47603,6 +47699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177305,
+      "num": 177305,
+      "word": "张大仙白发造型",
+      "onboard_time": 1700896235,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177251,
       "num": 177251,
       "word": "原神娜维娅",
@@ -47897,6 +48001,14 @@
       "onboard_time": 1698920852,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 175924,
+      "num": 111534,
+      "word": "黄渤在街舞6现场晾毛巾",
+      "onboard_time": 1700895212,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 175866,
@@ -50283,6 +50395,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 165007,
+      "num": 109354,
+      "word": "周杰伦陈奕迅简单爱现场",
+      "onboard_time": 1700896173,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164983,
       "num": 265476,
       "word": "DRG对战KSG",
@@ -51331,6 +51451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160510,
+      "num": 108531,
+      "word": "大黑牛不愧是大黑牛",
+      "onboard_time": 1700894854,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160435,
       "num": 407561,
       "word": "浙江企业把员工名字嵌在了卫星上",
@@ -51537,6 +51665,14 @@
       "onboard_time": 1700720852,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159155,
+      "num": 159155,
+      "word": "KPL亚运小队限定封面大片",
+      "onboard_time": 1700895091,
+      "rank": 28,
+      "category": "电竞,时尚"
     },
     {
       "raw_hot": 159130,
@@ -54404,7 +54540,7 @@
     },
     {
       "raw_hot": 145894,
-      "num": 1293925,
+      "num": 1306564,
       "word": "儿子继承了牺牲父亲的警号",
       "onboard_time": 1700882793,
       "rank": 2,
@@ -56387,14 +56523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136811,
-      "num": 132468,
-      "word": "谢危 谢娟",
-      "onboard_time": 1700894012,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136762,
       "num": 136762,
       "word": "油泼辣子汉堡测评",
@@ -58065,6 +58193,14 @@
       "onboard_time": 1699331437,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130007,
+      "num": 130007,
+      "word": "湖南省服 棉睡衣",
+      "onboard_time": 1700896412,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 129984,
@@ -61633,6 +61769,14 @@
       "onboard_time": 1698834874,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111807,
+      "num": 111807,
+      "word": "呼吸道合胞病毒感染高危人群",
+      "onboard_time": 1700894854,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 111776,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 14:34:29
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 15:15:12
 </p>
 </blockquote>
 <p>
@@ -3879,6 +3879,12 @@ iG官宣新阵容（热度：1158154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%20%E6%80%92%E8%AF%B7100%E4%BD%8D%E8%BD%AC%E5%8F%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E7%9C%8B%23" target="weibo">
+邓超 怒请100位转发的朋友看（热度：1151523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E7%A7%B0%E6%B2%A1%E6%9C%89%E8%B0%81%E7%9A%84%E6%89%8B%E6%98%AF%E5%B9%B2%E5%87%80%E7%9A%84%23" target="weibo">
 奥巴马称没有谁的手是干净的（热度：1151301）
 </a>
@@ -6005,12 +6011,6 @@ S13四强已有三支LPL战队（热度：837933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2%E5%A5%BD%E8%B4%B5%23" target="weibo">
 美甲好贵（热度：822971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9D%A1%E6%82%9F%E5%8F%AF%E4%BB%A5%E5%A4%8D%E6%B4%BB%E4%BA%86%E5%90%97%23" target="weibo">
-五条悟可以复活了吗（热度：822653）
 </a>
 </li>
 
