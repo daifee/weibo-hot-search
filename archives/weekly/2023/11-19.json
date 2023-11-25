@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700882309154,
+  "endTime": 1700883264999,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -1011,6 +1011,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1359634,
+      "num": 1359634,
+      "word": "网传坠楼研究生课题被导师拿走毕业困难",
+      "onboard_time": 1700878290,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1358522,
       "num": 1358522,
       "word": "甄嬛传官微 我怎么不知道",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1700569475,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1244111,
-      "num": 1244111,
-      "word": "网传坠楼研究生课题被导师拿走毕业困难",
-      "onboard_time": 1700878290,
-      "rank": 21,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1234631,
@@ -1832,6 +1832,14 @@
       "word": "网红夫妇回应售楼处维权被抢手机",
       "onboard_time": 1700367689,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870301,
+      "num": 197492,
+      "word": "日本一棕熊尸体中发现人体残骸",
+      "onboard_time": 1700881472,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2547,14 +2555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 673800,
-      "num": 197492,
-      "word": "日本一棕熊尸体中发现人体残骸",
-      "onboard_time": 1700881472,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 673079,
       "num": 673079,
       "word": "以爱为营番外 3块10分钟",
@@ -2628,7 +2628,7 @@
     },
     {
       "raw_hot": 657314,
-      "num": 292441,
+      "num": 292925,
       "word": "女子为怀男胎听医生建议后生下2女婴",
       "onboard_time": 1700870728,
       "rank": 20,
@@ -4787,6 +4787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 428517,
+      "num": 428517,
+      "word": "两男恐惧",
+      "onboard_time": 1700878350,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428246,
       "num": 428246,
       "word": "王安宇不当导游回春了",
@@ -4939,6 +4947,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 416513,
+      "num": 300431,
+      "word": "爱奇艺尖叫之夜为谁尖叫",
+      "onboard_time": 1700882194,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416326,
       "num": 416326,
       "word": "原来甘蔗也有平替",
@@ -5017,6 +5033,14 @@
       "onboard_time": 1700404895,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406719,
+      "num": 406719,
+      "word": "如果能重来白鹿选整牙",
+      "onboard_time": 1700881893,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 406505,
@@ -5419,6 +5443,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 380832,
+      "num": 380832,
+      "word": "赵露思你好星期六比心剧照",
+      "onboard_time": 1700882853,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380617,
       "num": 380617,
       "word": "女童被安排收拾全班餐具20天遭开除",
@@ -5785,6 +5817,14 @@
       "onboard_time": 1700295753,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361489,
+      "num": 361489,
+      "word": "不建议健康人群吃奥司他韦预防流感",
+      "onboard_time": 1700880571,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 361229,
@@ -6379,14 +6419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334084,
-      "num": 334084,
-      "word": "两男恐惧",
-      "onboard_time": 1700878350,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333883,
       "num": 333883,
       "word": "成都警方通报斗鱼CEO陈少杰案",
@@ -6931,6 +6963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307884,
+      "num": 307884,
+      "word": "JYP和NewJeans出现时台下表情对比",
+      "onboard_time": 1700882372,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 306815,
       "num": 306815,
       "word": "heerina嗑到了",
@@ -6977,14 +7017,6 @@
       "onboard_time": 1700397876,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304513,
-      "num": 235819,
-      "word": "爱奇艺尖叫之夜为谁尖叫",
-      "onboard_time": 1700882194,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 304302,
@@ -7041,6 +7073,14 @@
       "onboard_time": 1700619391,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302566,
+      "num": 302566,
+      "word": "凡人修仙传开播",
+      "onboard_time": 1700882014,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 302255,
@@ -7875,6 +7915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 268797,
+      "num": 268797,
+      "word": "一念关山OST阵容",
+      "onboard_time": 1700882254,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268179,
       "num": 268179,
       "word": "薛之谦竟然有儿子了",
@@ -8675,14 +8723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245108,
-      "num": 245108,
-      "word": "不建议健康人群吃奥司他韦预防流感",
-      "onboard_time": 1700880571,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 245089,
       "num": 245089,
       "word": "商家 我真该死",
@@ -9169,14 +9209,6 @@
       "onboard_time": 1700788533,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 232078,
-      "num": 232078,
-      "word": "一念关山OST阵容",
-      "onboard_time": 1700882254,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 232045,
@@ -10291,6 +10323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208128,
+      "num": 208128,
+      "word": "蜡笔小新剧场版今日上映",
+      "onboard_time": 1700882612,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 208082,
       "num": 208082,
       "word": "秦岚这样的姐姐是谁在谈",
@@ -11345,14 +11385,6 @@
       "onboard_time": 1700873849,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 194924,
-      "num": 194924,
-      "word": "如果能重来白鹿选整牙",
-      "onboard_time": 1700881893,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 194837,
@@ -13043,6 +13075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168328,
+      "num": 168328,
+      "word": "逆水寒手游",
+      "onboard_time": 1700881711,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167975,
       "num": 167975,
       "word": "美术生颜料 美式男高混血妆",
@@ -13257,14 +13297,6 @@
       "onboard_time": 1700522966,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164734,
-      "num": 164734,
-      "word": "逆水寒手游",
-      "onboard_time": 1700881711,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 164414,
@@ -13859,14 +13891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154079,
-      "num": 154079,
-      "word": "凡人修仙传开播",
-      "onboard_time": 1700882014,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153975,
       "num": 1126983,
       "word": "更适合00后的锦旗已出现",
@@ -14217,6 +14241,14 @@
       "onboard_time": 1700544760,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146864,
+      "num": 146864,
+      "word": "免疫落差",
+      "onboard_time": 1700881954,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146863,
@@ -15147,6 +15179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132647,
+      "num": 132647,
+      "word": "国考倒计时仅剩1天",
+      "onboard_time": 1700883031,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132607,
       "num": 132607,
       "word": "心之钢 抽象",
@@ -15673,14 +15713,6 @@
       "onboard_time": 1700831255,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 121629,
-      "num": 137512,
-      "word": "免疫落差",
-      "onboard_time": 1700881954,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121500,
@@ -17443,6 +17475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37453,
+      "num": 944768,
+      "word": "儿子继承了牺牲父亲的警号",
+      "onboard_time": 1700882793,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36274,
       "num": 36274,
       "word": "蓝白合",
@@ -17625,6 +17665,14 @@
       "onboard_time": 1700311714,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17843,
+      "num": 135834,
+      "word": "这些宝藏乡村美得很中国",
+      "onboard_time": 1700882674,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17718,

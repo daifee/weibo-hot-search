@@ -1,0 +1,410 @@
+{
+  "runTime": 1700883264999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1359634,
+        "num": 1359634,
+        "word": "网传坠楼研究生课题被导师拿走毕业困难",
+        "onboard_time": 1700878290,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1183597,
+        "num": 1183597,
+        "word": "向佐喜提女儿脸部马杀鸡",
+        "onboard_time": 1700878229,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37453,
+        "num": 944768,
+        "word": "儿子继承了牺牲父亲的警号",
+        "onboard_time": 1700882793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790416,
+        "num": 790416,
+        "word": "知情人曾透露吴秀波不再从事演员职业",
+        "onboard_time": 1700880151,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 622064,
+        "num": 622064,
+        "word": "公主和亲 十里红妆不过另一种自刎",
+        "onboard_time": 1700876009,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520998,
+        "num": 520998,
+        "word": "国色芳华男二 魏哲鸣",
+        "onboard_time": 1700877990,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497414,
+        "num": 497414,
+        "word": "北京下雪",
+        "onboard_time": 1700875409,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428517,
+        "num": 428517,
+        "word": "两男恐惧",
+        "onboard_time": 1700878350,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406719,
+        "num": 406719,
+        "word": "如果能重来白鹿选整牙",
+        "onboard_time": 1700881893,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380832,
+        "num": 380832,
+        "word": "赵露思你好星期六比心剧照",
+        "onboard_time": 1700882853,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662925,
+        "num": 380258,
+        "word": "吴亦凡被驱逐出境后十年内不准入境",
+        "onboard_time": 1700832334,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 379432,
+        "num": 379432,
+        "word": "Doinb Ning",
+        "onboard_time": 1700870787,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 361489,
+        "num": 361489,
+        "word": "不建议健康人群吃奥司他韦预防流感",
+        "onboard_time": 1700880571,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 342947,
+        "num": 342947,
+        "word": "范丞丞 山西",
+        "onboard_time": 1700880090,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332728,
+        "num": 332728,
+        "word": "山西施工事故7人被混凝土掩埋已致3人遇难",
+        "onboard_time": 1700880151,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330946,
+        "num": 330946,
+        "word": "吴亦凡要先在中国坐完牢再被驱逐出境",
+        "onboard_time": 1700822375,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 324702,
+        "num": 324702,
+        "word": "369 TES",
+        "onboard_time": 1700874629,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307884,
+        "num": 307884,
+        "word": "JYP和NewJeans出现时台下表情对比",
+        "onboard_time": 1700882372,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302566,
+        "num": 302566,
+        "word": "凡人修仙传开播",
+        "onboard_time": 1700882014,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 301907,
+        "num": 301907,
+        "word": "谢娜林心如没错过任何一个瓜",
+        "onboard_time": 1700875110,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416513,
+        "num": 300431,
+        "word": "爱奇艺尖叫之夜为谁尖叫",
+        "onboard_time": 1700882194,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308578,
+        "num": 292925,
+        "word": "女子为怀男胎听医生建议后生下2女婴",
+        "onboard_time": 1700870728,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276431,
+        "num": 276431,
+        "word": "理解王嘉尔 成为王嘉尔",
+        "onboard_time": 1700873969,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268797,
+        "num": 268797,
+        "word": "一念关山OST阵容",
+        "onboard_time": 1700882254,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232463,
+        "num": 232463,
+        "word": "律师解读吴亦凡案还有机会改判吗",
+        "onboard_time": 1700867239,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 218689,
+        "num": 218689,
+        "word": "谢危表白后变了一个人",
+        "onboard_time": 1700877270,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208128,
+        "num": 208128,
+        "word": "蜡笔小新剧场版今日上映",
+        "onboard_time": 1700882612,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 198345,
+        "num": 198345,
+        "word": "秦邪肖瓶",
+        "onboard_time": 1700878832,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194799,
+        "num": 194799,
+        "word": "中基协要求从业人员不得炫富",
+        "onboard_time": 1700875830,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184617,
+        "num": 184617,
+        "word": "秦岚尖叫之夜机场路透",
+        "onboard_time": 1700881113,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870301,
+        "num": 180720,
+        "word": "日本一棕熊尸体中发现人体残骸",
+        "onboard_time": 1700881472,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172353,
+        "num": 172353,
+        "word": "朴敏英请和我的老公结婚预告公开",
+        "onboard_time": 1700878170,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168328,
+        "num": 168328,
+        "word": "逆水寒手游",
+        "onboard_time": 1700881711,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164493,
+        "num": 164493,
+        "word": "蒲罗旺斯",
+        "onboard_time": 1700870547,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158901,
+        "num": 158901,
+        "word": "咳嗽小零食",
+        "onboard_time": 1700880691,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157978,
+        "num": 157978,
+        "word": "Jennie崔秀彬坐一起",
+        "onboard_time": 1700870007,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157605,
+        "num": 157605,
+        "word": "吴秀波及其公司涉及委托合同纠纷案件",
+        "onboard_time": 1700875290,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 157547,
+        "num": 157547,
+        "word": "高校男生将女厕捐卵广告全部烧黑",
+        "onboard_time": 1700872770,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155728,
+        "num": 155728,
+        "word": "辛芷蕾一睡醒就找秦岚",
+        "onboard_time": 1700875171,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148574,
+        "num": 148574,
+        "word": "国考周日开考",
+        "onboard_time": 1700876730,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146864,
+        "num": 146864,
+        "word": "免疫落差",
+        "onboard_time": 1700881954,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142421,
+        "num": 142421,
+        "word": "对你不止是喜欢今日开播",
+        "onboard_time": 1700881352,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141368,
+        "num": 141368,
+        "word": "女子随错份子钱1200拿不回来了",
+        "onboard_time": 1700872349,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139379,
+        "num": 139379,
+        "word": "369疑似离队",
+        "onboard_time": 1700867961,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17843,
+        "num": 135834,
+        "word": "这些宝藏乡村美得很中国",
+        "onboard_time": 1700882674,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132647,
+        "num": 132647,
+        "word": "国考倒计时仅剩1天",
+        "onboard_time": 1700883031,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130242,
+        "num": 130242,
+        "word": "成毅尖叫之夜彩排",
+        "onboard_time": 1700880936,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126163,
+        "num": 126163,
+        "word": "姐弟机场复刻1988名场面",
+        "onboard_time": 1700870907,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124032,
+        "num": 124032,
+        "word": "花泽香菜2024上海演唱会",
+        "onboard_time": 1700881533,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121899,
+        "num": 121899,
+        "word": "enhypen澳门",
+        "onboard_time": 1700879010,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
