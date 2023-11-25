@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700929253024,
+  "endTime": 1700930179449,
   "band_list": [
     {
       "raw_hot": 7011410,
@@ -19,19 +19,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1799458,
+      "num": 1090862,
+      "word": "吴慷仁 金马影帝",
+      "onboard_time": 1700926666,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1641757,
       "num": 1641757,
       "word": "金马影后林品彤 12岁",
       "onboard_time": 1700926187,
       "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1589484,
-      "num": 1032563,
-      "word": "吴慷仁 金马影帝",
-      "onboard_time": 1700926666,
-      "rank": 5,
       "category": "电影"
     },
     {
@@ -219,7 +219,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265535,
+      "raw_hot": 285883,
+      "num": 285883,
+      "word": "张杰 泡沫",
+      "onboard_time": 1700924746,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 273517,
       "num": 1030127,
       "word": "当前流行病毒大多侵犯上呼吸道且有自限性",
       "onboard_time": 1700924628,
@@ -241,6 +249,14 @@
       "onboard_time": 1700913043,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192614,
+      "num": 756230,
+      "word": "切尔西北伐",
+      "onboard_time": 1700926544,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 191986,
@@ -267,16 +283,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 164627,
-      "num": 588827,
-      "word": "切尔西北伐",
-      "onboard_time": 1700926544,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134188,
-      "num": 536042,
+      "num": 706491,
       "word": "李知恩cos海诺",
       "onboard_time": 1700918508,
       "rank": 22,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 131971,
-      "num": 491861,
+      "num": 704728,
       "word": "陈震 韩路",
       "onboard_time": 1700919108,
       "rank": 24,
@@ -315,7 +323,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 100129,
+      "raw_hot": 101567,
       "num": 385905,
       "word": "斯特林又快乐了",
       "onboard_time": 1700926544,
@@ -329,6 +337,14 @@
       "onboard_time": 1700923428,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90573,
+      "num": 345161,
+      "word": "纽卡斯尔联vs切尔西",
+      "onboard_time": 1700926366,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 87472,
@@ -355,15 +371,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75358,
-      "num": 332832,
-      "word": "纽卡斯尔联vs切尔西",
-      "onboard_time": 1700926366,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 73762,
+      "raw_hot": 77891,
       "num": 332748,
       "word": "花海直播",
       "onboard_time": 1700908781,
@@ -395,7 +403,23 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28487,
+      "raw_hot": 65749,
+      "num": 278485,
+      "word": "Cat知道错了",
+      "onboard_time": 1700914245,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 60813,
+      "num": 270850,
+      "word": "何冲评全红婵粉丝斥裁判压分",
+      "onboard_time": 1700911908,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36079,
       "num": 1727926,
       "word": "中国基建狂魔即将打通天山",
       "onboard_time": 1700897137,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#以高质量发展全面推进中国式现代化#"
+    },
+    {
+      "word": "#读懂中国学解锁中国密码#"
     }
   ]
 }
