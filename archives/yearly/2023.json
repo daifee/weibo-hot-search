@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700908451255,
+  "endTime": 1700910824976,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -553,6 +553,14 @@
       "onboard_time": 1685700868,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11768713,
+      "num": 11768713,
+      "word": "白敬亭宋轶一起走红毯",
+      "onboard_time": 1700908118,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 11734703,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1686380789,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 6825757,
-      "num": 6825757,
-      "word": "爱宝诞下双胞胎",
-      "onboard_time": 1689033630,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

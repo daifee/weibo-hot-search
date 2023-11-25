@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700908451255,
+  "endTime": 1700910824976,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -17,6 +17,14 @@
       "onboard_time": 1700379393,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11768713,
+      "num": 11768713,
+      "word": "白敬亭宋轶一起走红毯",
+      "onboard_time": 1700908118,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 9886868,
@@ -155,6 +163,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 3070418,
+      "num": 3070418,
+      "word": "王一博 不能",
+      "onboard_time": 1700909742,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3020587,
       "num": 3020587,
       "word": "吴亦凡要先在中国坐完牢再被驱逐出境",
@@ -185,6 +201,14 @@
       "onboard_time": 1700575182,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2874246,
+      "num": 2874246,
+      "word": "虞书欣一个人走红毯",
+      "onboard_time": 1700909742,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2804238,
@@ -288,6 +312,14 @@
       "word": "奚梦瑶 生孩子不痛",
       "onboard_time": 1700610933,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2459309,
+      "num": 2459309,
+      "word": "狂飙 第二部",
+      "onboard_time": 1700909502,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -603,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1824496,
+      "num": 1824496,
+      "word": "对接称刘诗诗不上台",
+      "onboard_time": 1700907759,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1811980,
       "num": 1811980,
       "word": "梅西 不踢了",
@@ -873,6 +913,14 @@
       "onboard_time": 1700392367,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1566505,
+      "num": 710146,
+      "word": "张颂文高叶牵手走红毯",
+      "onboard_time": 1700907697,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1563115,
@@ -1403,14 +1451,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 1120287,
-      "num": 710146,
-      "word": "张颂文高叶牵手走红毯",
-      "onboard_time": 1700907697,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1119325,
       "num": 1119325,
       "word": "余华 人和人交往尽量少说话",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1700839714,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1041552,
+      "num": 306939,
+      "word": "杨幂压轴",
+      "onboard_time": 1700910585,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1036516,
@@ -1731,14 +1779,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 957873,
-      "num": 405423,
-      "word": "对接称刘诗诗不上台",
-      "onboard_time": 1700907759,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 955620,
       "num": 955620,
       "word": "知情人曾透露吴秀波不再从事演员职业",
@@ -1809,14 +1849,6 @@
       "onboard_time": 1700633192,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 935687,
-      "num": 402558,
-      "word": "白敬亭宋轶一起走红毯",
-      "onboard_time": 1700908118,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 934528,
@@ -2177,6 +2209,14 @@
       "onboard_time": 1700624976,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 812955,
+      "num": 199156,
+      "word": "陈哲远瘦了好多",
+      "onboard_time": 1700909623,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 811752,
@@ -2569,6 +2609,14 @@
       "onboard_time": 1700632774,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 724671,
+      "num": 194377,
+      "word": "白敬亭宋轶你俩不认识吗",
+      "onboard_time": 1700909920,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 716568,
@@ -3267,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606575,
+      "num": 192149,
+      "word": "金马奖",
+      "onboard_time": 1700908963,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 605889,
       "num": 308362,
       "word": "金晨高颅顶公主头",
@@ -3723,6 +3779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559059,
+      "num": 191991,
+      "word": "林志玲北野武 颁奖",
+      "onboard_time": 1700908781,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 557078,
       "num": 557078,
       "word": "马云入局预制菜",
@@ -4009,6 +4073,14 @@
       "onboard_time": 1700461892,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 521248,
+      "num": 191615,
+      "word": "北野武 金马奖",
+      "onboard_time": 1700910164,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 519099,
@@ -4836,7 +4908,7 @@
     },
     {
       "raw_hot": 449675,
-      "num": 2050781,
+      "num": 2506478,
       "word": "花花吃饭被弟弟折腾懵了",
       "onboard_time": 1700900857,
       "rank": 39,
@@ -4857,6 +4929,14 @@
       "onboard_time": 1700641175,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448226,
+      "num": 448226,
+      "word": "南部战区就美舰侵闯西沙领海发表谈话",
+      "onboard_time": 1700909680,
+      "rank": 8,
+      "category": "军事"
     },
     {
       "raw_hot": 448161,
@@ -5209,6 +5289,22 @@
       "onboard_time": 1700802044,
       "rank": 14,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 424931,
+      "num": 424931,
+      "word": "369 滔博",
+      "onboard_time": 1700909323,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 424288,
+      "num": 191771,
+      "word": "刘诗诗孔雀蓝露肩礼服",
+      "onboard_time": 1700910466,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 424201,
@@ -6427,6 +6523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 350845,
+      "num": 191354,
+      "word": "田曦薇森林精灵",
+      "onboard_time": 1700910225,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350484,
       "num": 350484,
       "word": "房东的猫演唱会妆造",
@@ -7105,6 +7209,14 @@
       "onboard_time": 1700897494,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324576,
+      "num": 324576,
+      "word": "花海直播",
+      "onboard_time": 1700908781,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 324296,
@@ -9676,7 +9788,7 @@
     },
     {
       "raw_hot": 238583,
-      "num": 1711126,
+      "num": 2093408,
       "word": "交警多问一句话救下一条命",
       "onboard_time": 1700906137,
       "rank": 4,
@@ -11171,6 +11283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207115,
+      "num": 192075,
+      "word": "不能二次加热的食物",
+      "onboard_time": 1700910771,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 207096,
       "num": 207096,
       "word": "王子奇你是李二牛的劫",
@@ -12417,6 +12537,14 @@
       "onboard_time": 1700658097,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192224,
+      "num": 192224,
+      "word": "考古人员一手接一手捧出3.8万余枚简牍",
+      "onboard_time": 1700910771,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192205,
@@ -15339,6 +15467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145495,
+      "num": 1492013,
+      "word": "民警和被救男子用矿泉水碰杯",
+      "onboard_time": 1700905838,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145479,
       "num": 145479,
       "word": "赵露思跳舞主打一个手忙脚乱",
@@ -16867,6 +17003,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120885,
+      "num": 190813,
+      "word": "涵艺爆料明凯回归EDG",
+      "onboard_time": 1700910771,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120873,
       "num": 120873,
       "word": "邱华选择了张全全",
@@ -17425,6 +17569,14 @@
       "onboard_time": 1700381794,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108007,
+      "num": 190701,
+      "word": "这么吃可以控糖控体重",
+      "onboard_time": 1700910466,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107677,
@@ -18075,14 +18227,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 85569,
-      "num": 1492013,
-      "word": "民警和被救男子用矿泉水碰杯",
-      "onboard_time": 1700905838,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84652,
       "num": 81700,
       "word": "王阳晒无所畏惧2剧本",
@@ -18700,7 +18844,7 @@
     },
     {
       "raw_hot": 33948,
-      "num": 1853043,
+      "num": 2903406,
       "word": "新时代中国乡野调查",
       "onboard_time": 1700899776,
       "rank": 2,

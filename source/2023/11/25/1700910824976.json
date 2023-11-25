@@ -1,0 +1,410 @@
+{
+  "runTime": 1700910824976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11768713,
+        "num": 11768713,
+        "word": "白敬亭宋轶一起走红毯",
+        "onboard_time": 1700908118,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3070418,
+        "num": 3070418,
+        "word": "王一博 不能",
+        "onboard_time": 1700909742,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30535,
+        "num": 2903406,
+        "word": "新时代中国乡野调查",
+        "onboard_time": 1700899776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2874246,
+        "num": 2874246,
+        "word": "虞书欣一个人走红毯",
+        "onboard_time": 1700909742,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438014,
+        "num": 2506478,
+        "word": "花花吃饭被弟弟折腾懵了",
+        "onboard_time": 1700900857,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2459309,
+        "num": 2459309,
+        "word": "狂飙 第二部",
+        "onboard_time": 1700909502,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232100,
+        "num": 2093408,
+        "word": "交警多问一句话救下一条命",
+        "onboard_time": 1700906137,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1824496,
+        "num": 1824496,
+        "word": "对接称刘诗诗不上台",
+        "onboard_time": 1700907759,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448226,
+        "num": 448226,
+        "word": "南部战区就美舰侵闯西沙领海发表谈话",
+        "onboard_time": 1700909680,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 145495,
+        "num": 446784,
+        "word": "民警和被救男子用矿泉水碰杯",
+        "onboard_time": 1700905838,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1674230,
+        "num": 438299,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1700900857,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1566505,
+        "num": 436151,
+        "word": "张颂文高叶牵手走红毯",
+        "onboard_time": 1700907697,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1387637,
+        "num": 429458,
+        "word": "成毅被曾舜晞推到C位",
+        "onboard_time": 1700907337,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424931,
+        "num": 424931,
+        "word": "369 滔博",
+        "onboard_time": 1700909323,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 409851,
+        "num": 409851,
+        "word": "海底捞回应跳科目三服务员月薪过万",
+        "onboard_time": 1700902718,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140820,
+        "num": 404421,
+        "word": "田曦薇 看得出她是公主",
+        "onboard_time": 1700897914,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1090230,
+        "num": 395516,
+        "word": "尖叫之夜 座位",
+        "onboard_time": 1700886339,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375298,
+        "num": 375298,
+        "word": "花海 好美的精神状态",
+        "onboard_time": 1700907633,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 373203,
+        "num": 373203,
+        "word": "美国人工智能判定美国登月任务照片是假的",
+        "onboard_time": 1700906258,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324576,
+        "num": 324576,
+        "word": "花海直播",
+        "onboard_time": 1700908781,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1041552,
+        "num": 306939,
+        "word": "杨幂压轴",
+        "onboard_time": 1700910585,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 976873,
+        "num": 275878,
+        "word": "尖叫之夜",
+        "onboard_time": 1700907820,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242389,
+        "num": 242389,
+        "word": "怀孕5月女子到派出所帮亡夫销户落泪",
+        "onboard_time": 1700901160,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224937,
+        "num": 224937,
+        "word": "日本一棕熊尸体中发现人体残骸",
+        "onboard_time": 1700881472,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207102,
+        "num": 207102,
+        "word": "Cat也在直播间",
+        "onboard_time": 1700906019,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 956598,
+        "num": 205716,
+        "word": "尖叫之夜红毯BGM 好吵",
+        "onboard_time": 1700905777,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 919439,
+        "num": 201758,
+        "word": "谢依霖回应老公重症肌无力",
+        "onboard_time": 1700902958,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812955,
+        "num": 199156,
+        "word": "陈哲远瘦了好多",
+        "onboard_time": 1700909623,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724671,
+        "num": 194377,
+        "word": "白敬亭宋轶你俩不认识吗",
+        "onboard_time": 1700909920,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192224,
+        "num": 192224,
+        "word": "考古人员一手接一手捧出3.8万余枚简牍",
+        "onboard_time": 1700910771,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606575,
+        "num": 192149,
+        "word": "金马奖",
+        "onboard_time": 1700908963,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207115,
+        "num": 192075,
+        "word": "不能二次加热的食物",
+        "onboard_time": 1700910771,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 559059,
+        "num": 191991,
+        "word": "林志玲北野武 颁奖",
+        "onboard_time": 1700908781,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171661,
+        "num": 191933,
+        "word": "男子租50万宝马5万卖掉",
+        "onboard_time": 1700898695,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165062,
+        "num": 191892,
+        "word": "前助理否认马云做预制菜",
+        "onboard_time": 1700903377,
+        "rank": 34,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 424288,
+        "num": 191771,
+        "word": "刘诗诗孔雀蓝露肩礼服",
+        "onboard_time": 1700910466,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151144,
+        "num": 191673,
+        "word": "2024国考参考人数或破200万",
+        "onboard_time": 1700897738,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 521248,
+        "num": 191615,
+        "word": "北野武 金马奖",
+        "onboard_time": 1700910164,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146962,
+        "num": 191536,
+        "word": "90后父母取名去言情化了",
+        "onboard_time": 1700897313,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129078,
+        "num": 191436,
+        "word": "成都一楼盘降价40%",
+        "onboard_time": 1700893114,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 350845,
+        "num": 191354,
+        "word": "田曦薇森林精灵",
+        "onboard_time": 1700910225,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327960,
+        "num": 191276,
+        "word": "吴佩慈未婚夫定性为恶势力团伙首脑",
+        "onboard_time": 1700895754,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296689,
+        "num": 191221,
+        "word": "李荣浩连发十条我求你们了",
+        "onboard_time": 1700886757,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286167,
+        "num": 191114,
+        "word": "胡先煦 考试什么的都去死吧",
+        "onboard_time": 1700901696,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123277,
+        "num": 191011,
+        "word": "上海申花夺得足协杯冠军",
+        "onboard_time": 1700906434,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107646,
+        "num": 190987,
+        "word": "女子将第三者不雅视频发送多人被起诉",
+        "onboard_time": 1700899478,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577521,
+        "num": 190871,
+        "word": "杨幂造型预告",
+        "onboard_time": 1700903314,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120885,
+        "num": 190813,
+        "word": "涵艺爆料明凯回归EDG",
+        "onboard_time": 1700910771,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108007,
+        "num": 190701,
+        "word": "这么吃可以控糖控体重",
+        "onboard_time": 1700910466,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96984,
+        "num": 190621,
+        "word": "林黛玉风雪山神庙",
+        "onboard_time": 1700901216,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
