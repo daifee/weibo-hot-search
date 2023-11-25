@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700918323279,
+  "endTime": 1700919238705,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -979,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2602290,
+      "num": 2602290,
+      "word": "虞书欣成毅梦回一年级",
+      "onboard_time": 1700917371,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2599452,
       "num": 1116986,
       "word": "轨是昨天出的 人是今天没的",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1699413153,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2520923,
-      "num": 2520923,
-      "word": "虞书欣成毅梦回一年级",
-      "onboard_time": 1700917371,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2516145,
@@ -3115,6 +3115,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 1617078,
+      "num": 1617078,
+      "word": "陈晓瘦脱相了",
+      "onboard_time": 1700918750,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1616473,
       "num": 1616473,
       "word": "孟羽童一年半广告收入或达400万",
@@ -3209,6 +3217,14 @@
       "onboard_time": 1699789350,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1596092,
+      "num": 1596092,
+      "word": "宋轶白敬亭魏大勋 切镜头",
+      "onboard_time": 1700914908,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1594962,
@@ -3505,14 +3521,6 @@
       "onboard_time": 1700037815,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1521312,
-      "num": 1483178,
-      "word": "宋轶白敬亭魏大勋 切镜头",
-      "onboard_time": 1700914908,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1519824,
@@ -4643,6 +4651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1264003,
+      "num": 1168771,
+      "word": "成毅在打车吗",
+      "onboard_time": 1700917129,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1261706,
       "num": 686182,
       "word": "贵州一公职人员驾车撞死一对中年夫妇",
@@ -5201,14 +5217,6 @@
       "onboard_time": 1699073613,
       "rank": 7,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1168771,
-      "num": 1168771,
-      "word": "成毅在打车吗",
-      "onboard_time": 1700917129,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 1166319,
@@ -7443,6 +7451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 890862,
+      "num": 890862,
+      "word": "周冬雨撕掉丑人多作怪标签",
+      "onboard_time": 1700917011,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 890121,
       "num": 890121,
       "word": "何炅不许任何一个夹子出现在他面前",
@@ -7577,6 +7593,14 @@
       "onboard_time": 1700724391,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 871726,
+      "num": 871726,
+      "word": "闫妮获奖感言 尖叫",
+      "onboard_time": 1700918809,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 871489,
@@ -7793,6 +7817,14 @@
       "onboard_time": 1699595672,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 856288,
+      "num": 856288,
+      "word": "林青霞 金马终身成就奖",
+      "onboard_time": 1700917970,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 855975,
@@ -8953,14 +8985,6 @@
       "onboard_time": 1700198137,
       "rank": 39,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 789208,
-      "num": 789208,
-      "word": "周冬雨撕掉丑人多作怪标签",
-      "onboard_time": 1700917011,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 788831,
@@ -14972,7 +14996,7 @@
     },
     {
       "raw_hot": 539571,
-      "num": 900560,
+      "num": 1011051,
       "word": "韩国一女子杀人分尸称痴迷犯罪想尝试谋杀",
       "onboard_time": 1700913043,
       "rank": 22,
@@ -16017,14 +16041,6 @@
       "onboard_time": 1700724334,
       "rank": 22,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 510492,
-      "num": 510492,
-      "word": "林青霞 金马终身成就奖",
-      "onboard_time": 1700917970,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 510150,
@@ -24796,7 +24812,7 @@
     },
     {
       "raw_hot": 346955,
-      "num": 880372,
+      "num": 908428,
       "word": "怀孕5月女子到派出所帮亡夫销户落泪",
       "onboard_time": 1700901160,
       "rank": 49,
@@ -30841,6 +30857,14 @@
       "onboard_time": 1700198794,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 275805,
+      "num": 1324654,
+      "word": "李知恩cos海诺",
+      "onboard_time": 1700918508,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 275779,
@@ -55539,6 +55563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145384,
+      "num": 685462,
+      "word": "百兽给花海发的弹幕",
+      "onboard_time": 1700919227,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145290,
       "num": 206856,
       "word": "南方艳阳北方大雪",
@@ -55849,6 +55881,14 @@
       "onboard_time": 1700545359,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144125,
+      "num": 684560,
+      "word": "陈震 韩路",
+      "onboard_time": 1700919108,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 144066,
@@ -58819,6 +58859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131487,
+      "num": 1125274,
+      "word": "曼城vs利物浦",
+      "onboard_time": 1700912326,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131469,
       "num": 217120,
       "word": "张靓颖半透明蓝色纱裙",
@@ -60176,14 +60224,6 @@
       "word": "梅西加冕八金后首次专访",
       "onboard_time": 1699089091,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124846,
-      "num": 1125274,
-      "word": "曼城vs利物浦",
-      "onboard_time": 1700912326,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -68785,6 +68825,14 @@
       "onboard_time": 1699970432,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24617,
+      "num": 1866265,
+      "word": "第一次看见冰山有多震撼",
+      "onboard_time": 1700892274,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24586,
