@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 09:33:11
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 10:24:47
 </p>
 </blockquote>
 <p>
@@ -3039,6 +3039,12 @@ T1先下一城（热度：1348604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%23" target="weibo">
+北京下雪（热度：1346552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%95%A3%E6%AD%A5%E4%BA%A4%E8%B0%88%23" target="weibo">
 中美元首散步交谈（热度：1345115）
 </a>
@@ -6005,12 +6011,6 @@ B太 破解大连海鲜餐厅加工店鬼秤（热度：821889）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%B9%BF%E5%8F%91%23" target="weibo">
 奚梦瑶湿发（热度：819470）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%87%BA%E7%8E%B0%E5%8D%964988%E5%85%83%E4%B8%80%E6%9D%AF%E7%9A%84%E5%92%96%E5%95%A1%23" target="weibo">
-杭州出现卖4988元一杯的咖啡（热度：818922）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1700879087195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1346552,
+        "num": 1346552,
+        "word": "北京下雪",
+        "onboard_time": 1700875409,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760884,
+        "num": 760884,
+        "word": "公主和亲 十里红妆不过另一种自刎",
+        "onboard_time": 1700876009,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26032,
+        "num": 680941,
+        "word": "第十批志愿军烈士安葬祭文",
+        "onboard_time": 1700817997,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 645816,
+        "num": 645816,
+        "word": "谢娜林心如没错过任何一个瓜",
+        "onboard_time": 1700875110,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570321,
+        "num": 570321,
+        "word": "吴秀波及其公司涉及委托合同纠纷案件",
+        "onboard_time": 1700875290,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 534222,
+        "num": 534222,
+        "word": "理解王嘉尔 成为王嘉尔",
+        "onboard_time": 1700873969,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 489597,
+        "num": 489597,
+        "word": "国色芳华男二 魏哲鸣",
+        "onboard_time": 1700877990,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446329,
+        "num": 446329,
+        "word": "蒲罗旺斯",
+        "onboard_time": 1700870547,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442233,
+        "num": 442233,
+        "word": "Doinb Ning",
+        "onboard_time": 1700870787,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 434207,
+        "num": 434207,
+        "word": "369 TES",
+        "onboard_time": 1700874629,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1164747,
+        "num": 433358,
+        "word": "吴亦凡被驱逐出境后十年内不准入境",
+        "onboard_time": 1700832334,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 491511,
+        "num": 433214,
+        "word": "向佐喜提女儿脸部马杀鸡",
+        "onboard_time": 1700878229,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432354,
+        "num": 432354,
+        "word": "律师解读吴亦凡案还有机会改判吗",
+        "onboard_time": 1700867239,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 416659,
+        "num": 416659,
+        "word": "吴亦凡要先在中国坐完牢再被驱逐出境",
+        "onboard_time": 1700822375,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 383201,
+        "num": 383201,
+        "word": "中基协要求从业人员不得炫富",
+        "onboard_time": 1700875830,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 367251,
+        "num": 367251,
+        "word": "辛芷蕾一睡醒就找秦岚",
+        "onboard_time": 1700875171,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333655,
+        "num": 333655,
+        "word": "官方通报消防员被妻子举报出轨",
+        "onboard_time": 1700854993,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320841,
+        "num": 320841,
+        "word": "姐弟机场复刻1988名场面",
+        "onboard_time": 1700870907,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319764,
+        "num": 319764,
+        "word": "谢危表白后变了一个人",
+        "onboard_time": 1700877270,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293385,
+        "num": 293385,
+        "word": "朴敏英请和我的老公结婚预告公开",
+        "onboard_time": 1700878170,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414136,
+        "num": 292441,
+        "word": "女子为怀男胎听医生建议后生下2女婴",
+        "onboard_time": 1700870728,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291236,
+        "num": 291236,
+        "word": "网传坠楼研究生课题被导师拿走毕业困难",
+        "onboard_time": 1700878290,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 276299,
+        "num": 276299,
+        "word": "谢危亲了一晚上嘴皮子都破了吧",
+        "onboard_time": 1700830955,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269795,
+        "num": 269795,
+        "word": "两男恐惧",
+        "onboard_time": 1700878350,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260168,
+        "num": 260168,
+        "word": "高校男生将女厕捐卵广告全部烧黑",
+        "onboard_time": 1700872770,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246366,
+        "num": 246366,
+        "word": "Jennie崔秀彬坐一起",
+        "onboard_time": 1700870007,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240468,
+        "num": 240468,
+        "word": "王鸥李解浴室戏极限推拉",
+        "onboard_time": 1700877751,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225458,
+        "num": 225458,
+        "word": "崔雪莉曾说做韩流偶像最惨",
+        "onboard_time": 1700839714,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211624,
+        "num": 211624,
+        "word": "国外翼装飞行者撞机头颅脱落当场死亡",
+        "onboard_time": 1700872349,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205464,
+        "num": 205464,
+        "word": "国考周日开考",
+        "onboard_time": 1700876730,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195231,
+        "num": 195231,
+        "word": "女生冬天上厕所的至暗时刻",
+        "onboard_time": 1700875951,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194926,
+        "num": 194926,
+        "word": "感染腺病毒发烧可持续一两周",
+        "onboard_time": 1700873849,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190167,
+        "num": 190167,
+        "word": "淘宝取消双12",
+        "onboard_time": 1700810977,
+        "rank": 32,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 182588,
+        "num": 182588,
+        "word": "女子随错份子钱1200拿不回来了",
+        "onboard_time": 1700872349,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179174,
+        "num": 179174,
+        "word": "我的身体真的在很努力地爱我",
+        "onboard_time": 1700874992,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159320,
+        "num": 159320,
+        "word": "赵露思珠帘玉幕跳舞路透",
+        "onboard_time": 1700874871,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158431,
+        "num": 158431,
+        "word": "秦邪肖瓶",
+        "onboard_time": 1700878832,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156241,
+        "num": 156241,
+        "word": "369疑似离队",
+        "onboard_time": 1700867961,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139921,
+        "num": 139921,
+        "word": "秀智cue朴振英表演",
+        "onboard_time": 1700875470,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139011,
+        "num": 139011,
+        "word": "NBA调查吉迪",
+        "onboard_time": 1700878170,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135115,
+        "num": 135115,
+        "word": "黄子弘凡 音乐节",
+        "onboard_time": 1700878832,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132855,
+        "num": 132855,
+        "word": "enhypen澳门",
+        "onboard_time": 1700879010,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129934,
+        "num": 129934,
+        "word": "韩东君蔡文静现身合肥",
+        "onboard_time": 1700877630,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129786,
+        "num": 129786,
+        "word": "南海周边联合演习不可忽视的三大细节",
+        "onboard_time": 1700878893,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 122448,
+        "num": 122448,
+        "word": "许幻山你儿子被抢走了",
+        "onboard_time": 1700870787,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120500,
+        "num": 120500,
+        "word": "忌辛辣就是不吃辣的吗",
+        "onboard_time": 1700866938,
+        "rank": 45,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 115294,
+        "num": 115294,
+        "word": "宋亚轩在王牌肯定是饿不着的",
+        "onboard_time": 1700877570,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114668,
+        "num": 114668,
+        "word": "用过的暖宝宝别扔",
+        "onboard_time": 1700876009,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 104465,
+        "num": 104465,
+        "word": "威尔史密斯女儿Willow新歌",
+        "onboard_time": 1700873310,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103453,
+        "num": 103453,
+        "word": "姜雪宁求而不得的前世",
+        "onboard_time": 1700876431,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
