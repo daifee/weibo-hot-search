@@ -1,9 +1,9 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700874787535,
+  "endTime": 1700875991639,
   "band_list": [
     {
-      "raw_hot": 1641081,
+      "raw_hot": 1739428,
       "num": 393061,
       "word": "吴亦凡被驱逐出境后十年内不准入境",
       "onboard_time": 1700832334,
@@ -52,19 +52,27 @@
     },
     {
       "raw_hot": 657314,
-      "num": 223919,
+      "num": 253951,
       "word": "女子为怀男胎听医生建议后生下2女婴",
       "onboard_time": 1700870728,
       "rank": 20,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 531654,
-      "num": 289487,
+      "raw_hot": 625662,
+      "num": 625662,
       "word": "Doinb Ning",
       "onboard_time": 1700870787,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 611188,
+      "num": 611188,
+      "word": "理解王嘉尔 成为王嘉尔",
+      "onboard_time": 1700873969,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 528682,
@@ -83,20 +91,36 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 506232,
+      "num": 506232,
+      "word": "吴秀波及其公司涉及委托合同纠纷案件",
+      "onboard_time": 1700875290,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 505156,
+      "num": 505156,
+      "word": "369 TES",
+      "onboard_time": 1700874629,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 503482,
+      "num": 392991,
+      "word": "律师解读吴亦凡案还有机会改判吗",
+      "onboard_time": 1700867239,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 492069,
       "num": 492069,
       "word": "赵昭仪发5秒 秦岚回25秒",
       "onboard_time": 1700838696,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 484166,
-      "num": 392991,
-      "word": "律师解读吴亦凡案还有机会改判吗",
-      "onboard_time": 1700867239,
-      "rank": 7,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 432324,
@@ -129,6 +153,22 @@
       "onboard_time": 1700867961,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 372044,
+      "num": 372044,
+      "word": "姐弟机场复刻1988名场面",
+      "onboard_time": 1700870907,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352722,
+      "num": 253895,
+      "word": "高校男生将女厕捐卵广告全部烧黑",
+      "onboard_time": 1700872770,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347445,
@@ -171,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305217,
-      "num": 223287,
-      "word": "高校男生将女厕捐卵广告全部烧黑",
-      "onboard_time": 1700872770,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298377,
       "num": 298377,
       "word": "忌辛辣就是不吃辣的吗",
@@ -187,19 +219,11 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 293654,
-      "num": 293654,
-      "word": "理解王嘉尔 成为王嘉尔",
-      "onboard_time": 1700873969,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 282827,
-      "num": 282827,
-      "word": "姐弟机场复刻1988名场面",
-      "onboard_time": 1700870907,
-      "rank": 14,
+      "raw_hot": 290593,
+      "num": 290593,
+      "word": "国外翼装飞行者撞机头颅脱落当场死亡",
+      "onboard_time": 1700872349,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -211,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277637,
-      "num": 277637,
-      "word": "国外翼装飞行者撞机头颅脱落当场死亡",
-      "onboard_time": 1700872349,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275796,
       "num": 254560,
       "word": "吴莫愁退圈三年直言听歌想吐",
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 271085,
-      "num": 222629,
+      "num": 250356,
       "word": "女子随错份子钱1200拿不回来了",
       "onboard_time": 1700872349,
       "rank": 22,
@@ -243,6 +259,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 261962,
+      "num": 261962,
+      "word": "北京下雪",
+      "onboard_time": 1700875409,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254209,
+      "num": 254209,
+      "word": "谢娜林心如没错过任何一个瓜",
+      "onboard_time": 1700875110,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246090,
       "num": 246090,
       "word": "乌尔善剧透封神二三剧情",
@@ -251,8 +283,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239769,
+      "num": 239769,
+      "word": "我的身体真的在很努力地爱我",
+      "onboard_time": 1700874992,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235976,
-      "num": 160246,
+      "num": 190384,
       "word": "威尔史密斯女儿Willow新歌",
       "onboard_time": 1700873310,
       "rank": 30,
@@ -315,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197183,
+      "num": 197183,
+      "word": "赵露思珠帘玉幕跳舞路透",
+      "onboard_time": 1700874871,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196213,
       "num": 130886,
       "word": "JYP出现时台下表情",
@@ -329,6 +377,14 @@
       "onboard_time": 1700838397,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193256,
+      "num": 193256,
+      "word": "感染腺病毒发烧可持续一两周",
+      "onboard_time": 1700873849,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192734,
@@ -395,12 +451,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163503,
-      "num": 163503,
-      "word": "369 TES",
-      "onboard_time": 1700874629,
-      "rank": 28,
-      "category": "电竞"
+      "raw_hot": 166328,
+      "num": 166328,
+      "word": "辛芷蕾一睡醒就找秦岚",
+      "onboard_time": 1700875171,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163607,
+      "num": 163607,
+      "word": "中基协要求从业人员不得炫富",
+      "onboard_time": 1700875830,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 162359,
@@ -409,14 +473,6 @@
       "onboard_time": 1700873911,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 157873,
-      "num": 157873,
-      "word": "感染腺病毒发烧可持续一两周",
-      "onboard_time": 1700873849,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 154555,
@@ -435,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149986,
+      "num": 149986,
+      "word": "秀智cue朴振英表演",
+      "onboard_time": 1700875470,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146720,
       "num": 146720,
       "word": "玲娜贝儿穿新裙子",
@@ -449,6 +513,14 @@
       "onboard_time": 1700835277,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144434,
+      "num": 144434,
+      "word": "退休教师在家辅导外孙女数学走红",
+      "onboard_time": 1700874570,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 141974,
@@ -531,14 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115634,
-      "num": 115634,
-      "word": "退休教师在家辅导外孙女数学走红",
-      "onboard_time": 1700874570,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 114853,
       "num": 118941,
       "word": "和双子座相处千万不要越界",
@@ -579,12 +643,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 106307,
+      "num": 106307,
+      "word": "女生冬天上厕所的至暗时刻",
+      "onboard_time": 1700875951,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103537,
       "num": 103537,
       "word": "C罗梅开二度",
       "onboard_time": 1700868021,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98445,
+      "num": 98445,
+      "word": "HLE新赛季阵容出炉",
+      "onboard_time": 1700875770,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 98440,
@@ -788,7 +868,7 @@
     },
     {
       "raw_hot": 29914,
-      "num": 495785,
+      "num": 617063,
       "word": "第十批志愿军烈士安葬祭文",
       "onboard_time": 1700817997,
       "rank": 2,

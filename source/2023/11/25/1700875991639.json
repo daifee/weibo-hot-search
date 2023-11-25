@@ -1,0 +1,410 @@
+{
+  "runTime": 1700875991639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845705,
+        "num": 845705,
+        "word": "蒲罗旺斯",
+        "onboard_time": 1700870547,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625662,
+        "num": 625662,
+        "word": "Doinb Ning",
+        "onboard_time": 1700870787,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25711,
+        "num": 617063,
+        "word": "第十批志愿军烈士安葬祭文",
+        "onboard_time": 1700817997,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 611188,
+        "num": 611188,
+        "word": "理解王嘉尔 成为王嘉尔",
+        "onboard_time": 1700873969,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 506232,
+        "num": 506232,
+        "word": "吴秀波及其公司涉及委托合同纠纷案件",
+        "onboard_time": 1700875290,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 505156,
+        "num": 505156,
+        "word": "369 TES",
+        "onboard_time": 1700874629,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 458149,
+        "num": 458149,
+        "word": "吴亦凡要先在中国坐完牢再被驱逐出境",
+        "onboard_time": 1700822375,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 382546,
+        "num": 382546,
+        "word": "崔雪莉曾说做韩流偶像最惨",
+        "onboard_time": 1700839714,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372044,
+        "num": 372044,
+        "word": "姐弟机场复刻1988名场面",
+        "onboard_time": 1700870907,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349589,
+        "num": 349589,
+        "word": "Jennie崔秀彬坐一起",
+        "onboard_time": 1700870007,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1739428,
+        "num": 347561,
+        "word": "吴亦凡被驱逐出境后十年内不准入境",
+        "onboard_time": 1700832334,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 680946,
+        "num": 343278,
+        "word": "官方通报消防员被妻子举报出轨",
+        "onboard_time": 1700854993,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503482,
+        "num": 341728,
+        "word": "律师解读吴亦凡案还有机会改判吗",
+        "onboard_time": 1700867239,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 423566,
+        "num": 337781,
+        "word": "谢危亲了一晚上嘴皮子都破了吧",
+        "onboard_time": 1700830955,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333876,
+        "num": 333876,
+        "word": "369疑似离队",
+        "onboard_time": 1700867961,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 292838,
+        "num": 292838,
+        "word": "急诊医生得知奶奶去世抹掉眼泪接诊",
+        "onboard_time": 1700868684,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290593,
+        "num": 290593,
+        "word": "国外翼装飞行者撞机头颅脱落当场死亡",
+        "onboard_time": 1700872349,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261962,
+        "num": 261962,
+        "word": "北京下雪",
+        "onboard_time": 1700875409,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254518,
+        "num": 254518,
+        "word": "淘宝取消双12",
+        "onboard_time": 1700810977,
+        "rank": 18,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 254209,
+        "num": 254209,
+        "word": "谢娜林心如没错过任何一个瓜",
+        "onboard_time": 1700875110,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 644443,
+        "num": 253951,
+        "word": "女子为怀男胎听医生建议后生下2女婴",
+        "onboard_time": 1700870728,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352722,
+        "num": 253895,
+        "word": "高校男生将女厕捐卵广告全部烧黑",
+        "onboard_time": 1700872770,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250356,
+        "num": 250356,
+        "word": "女子随错份子钱1200拿不回来了",
+        "onboard_time": 1700872349,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239769,
+        "num": 239769,
+        "word": "我的身体真的在很努力地爱我",
+        "onboard_time": 1700874992,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237958,
+        "num": 237958,
+        "word": "忌辛辣就是不吃辣的吗",
+        "onboard_time": 1700866938,
+        "rank": 24,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 216739,
+        "num": 216739,
+        "word": "小鹿拍戏亲过白宇十多次",
+        "onboard_time": 1700838514,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197183,
+        "num": 197183,
+        "word": "赵露思珠帘玉幕跳舞路透",
+        "onboard_time": 1700874871,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194887,
+        "num": 194887,
+        "word": "赵昭仪发5秒 秦岚回25秒",
+        "onboard_time": 1700838696,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193256,
+        "num": 193256,
+        "word": "感染腺病毒发烧可持续一两周",
+        "onboard_time": 1700873849,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190384,
+        "num": 190384,
+        "word": "威尔史密斯女儿Willow新歌",
+        "onboard_time": 1700873310,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187506,
+        "num": 187506,
+        "word": "郎朗证明孩子是在和钢琴友好交流",
+        "onboard_time": 1700835997,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184902,
+        "num": 184902,
+        "word": "BLACKPINK出席白金汉宫宴会合照",
+        "onboard_time": 1700870246,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166328,
+        "num": 166328,
+        "word": "辛芷蕾一睡醒就找秦岚",
+        "onboard_time": 1700875171,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163607,
+        "num": 163607,
+        "word": "中基协要求从业人员不得炫富",
+        "onboard_time": 1700875830,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162706,
+        "num": 162706,
+        "word": "咖啡店用青椒装咖啡",
+        "onboard_time": 1700871628,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149986,
+        "num": 149986,
+        "word": "秀智cue朴振英表演",
+        "onboard_time": 1700875470,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149158,
+        "num": 149158,
+        "word": "外交部回应韩英领导人涉华言论",
+        "onboard_time": 1700869225,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144434,
+        "num": 144434,
+        "word": "退休教师在家辅导外孙女数学走红",
+        "onboard_time": 1700874570,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 136005,
+        "num": 136005,
+        "word": "许幻山你儿子被抢走了",
+        "onboard_time": 1700870787,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131658,
+        "num": 131658,
+        "word": "但幸好 我们有朋友",
+        "onboard_time": 1700870728,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119285,
+        "num": 119285,
+        "word": "玲娜贝儿穿新裙子",
+        "onboard_time": 1700870547,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114178,
+        "num": 114178,
+        "word": "吴亦凡亲属旁听二审宣判",
+        "onboard_time": 1700798445,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 113178,
+        "num": 113178,
+        "word": "张小斐 全世界淋雨我在吃香蕉",
+        "onboard_time": 1700837315,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111537,
+        "num": 111537,
+        "word": "JYP出现时台下表情",
+        "onboard_time": 1700836118,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106307,
+        "num": 106307,
+        "word": "女生冬天上厕所的至暗时刻",
+        "onboard_time": 1700875951,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102095,
+        "num": 102095,
+        "word": "Jennie裸色抹胸长裙",
+        "onboard_time": 1700869344,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100067,
+        "num": 100067,
+        "word": "迪丽热巴没选秦海璐的原因",
+        "onboard_time": 1700835277,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100039,
+        "num": 100039,
+        "word": "建议爱豆都拍给我看",
+        "onboard_time": 1700871752,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99736,
+        "num": 99736,
+        "word": "小说里的总裁vs现实里的总裁",
+        "onboard_time": 1700840613,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98445,
+        "num": 98445,
+        "word": "HLE新赛季阵容出炉",
+        "onboard_time": 1700875770,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#英雄回家#"
+    }
+  }
+}
