@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 23:16:24
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/25 23:34:02
 </p>
 </blockquote>
 <p>
@@ -5307,6 +5307,12 @@ LNG对战T1 比分预测（热度：958227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%B9%B4%E5%BA%A6%E7%94%B7%E4%B8%BB%E8%A7%92%23" target="weibo">
+王一博尖叫之夜年度男主角（热度：940826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%98%89%E5%AE%BE%E7%9C%9F%E6%98%AF%E9%99%88%E5%A5%95%E8%BF%85%23" target="weibo">
 李荣浩嘉宾真是陈奕迅（热度：939545）
 </a>
@@ -6005,12 +6011,6 @@ bin看家英雄找回手感（热度：853360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E7%9C%8B%E9%9F%A9%E7%BD%91%E7%83%AD%E8%AF%84%23" target="weibo">
 想看韩网热评（热度：847590）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E7%94%B7%E5%AD%90%E7%97%9B%E5%A4%B121%E5%90%8D%E4%BA%B2%E4%BA%BA%E9%81%AD%E8%8B%B1%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%97%A0%E8%84%91%E8%BF%BD%E9%97%AE%23" target="weibo">
-加沙男子痛失21名亲人遭英主持人无脑追问（热度：846882）
 </a>
 </li>
 

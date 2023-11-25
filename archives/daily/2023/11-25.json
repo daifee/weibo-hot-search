@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700925384094,
+  "endTime": 1700926442601,
   "band_list": [
     {
       "raw_hot": 11768713,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 940826,
+      "num": 940826,
+      "word": "王一博尖叫之夜年度男主角",
+      "onboard_time": 1700925882,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 939545,
       "num": 939545,
       "word": "李荣浩嘉宾真是陈奕迅",
@@ -500,11 +508,19 @@
     },
     {
       "raw_hot": 809582,
-      "num": 612093,
+      "num": 743088,
       "word": "白敬亭宋轶你俩不认识吗",
       "onboard_time": 1700909920,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 797035,
+      "num": 797035,
+      "word": "金马影后林品彤 12岁",
+      "onboard_time": 1700926187,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 782059,
@@ -539,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 746950,
+      "num": 826800,
+      "word": "金马奖",
+      "onboard_time": 1700908963,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 743759,
       "num": 743759,
       "word": "虞书欣ins点赞杨紫相关",
@@ -569,14 +593,6 @@
       "onboard_time": 1700887895,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 712455,
-      "num": 826800,
-      "word": "金马奖",
-      "onboard_time": 1700908963,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 693527,
@@ -619,7 +635,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 663897,
+      "raw_hot": 680112,
       "num": 823291,
       "word": "林志玲北野武 颁奖",
       "onboard_time": 1700908781,
@@ -747,8 +763,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 573311,
-      "num": 573311,
+      "raw_hot": 583347,
+      "num": 700799,
       "word": "虞书欣的领奖发言",
       "onboard_time": 1700924932,
       "rank": 33,
@@ -995,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422070,
+      "num": 422070,
+      "word": "张颂文 年度实力男演员",
+      "onboard_time": 1700926426,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421241,
       "num": 230576,
       "word": "十个勤天 十个猴子",
@@ -1203,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341486,
+      "num": 1361702,
+      "word": "朱鹮洋洋去世",
+      "onboard_time": 1700924264,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341448,
       "num": 341448,
       "word": "柯南 灰原哀老画风",
@@ -1345,14 +1377,6 @@
       "onboard_time": 1700914306,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312790,
-      "num": 1199469,
-      "word": "朱鹮洋洋去世",
-      "onboard_time": 1700924264,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310459,
@@ -1747,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227311,
+      "num": 1022551,
+      "word": "千万别用吃很多药预防呼吸道疾病",
+      "onboard_time": 1700923244,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 225838,
       "num": 225838,
       "word": "外交部回应韩英领导人涉华言论",
@@ -1907,14 +1939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207370,
-      "num": 713357,
-      "word": "千万别用吃很多药预防呼吸道疾病",
-      "onboard_time": 1700923244,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 205931,
       "num": 138291,
       "word": "郑润泽杭州",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1700885195,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197655,
+      "num": 801573,
+      "word": "阿诺德 闭嘴动作",
+      "onboard_time": 1700925409,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 197183,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1700898574,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181181,
+      "num": 747384,
+      "word": "当前流行病毒大多侵犯上呼吸道且有自限性",
+      "onboard_time": 1700924628,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181093,
@@ -2403,12 +2443,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149431,
+      "num": 687043,
+      "word": "杭州也有东北自助盒饭了",
+      "onboard_time": 1700925409,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 149268,
       "num": 820547,
       "word": "杭州一医院门口提供爱心午餐",
       "onboard_time": 1700914847,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 148833,
+      "num": 733505,
+      "word": "巴列卡诺1比1巴萨",
+      "onboard_time": 1700926067,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 148511,
@@ -2433,14 +2489,6 @@
       "onboard_time": 1700870547,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 145937,
-      "num": 542804,
-      "word": "当前流行病毒大多侵犯上呼吸道且有自限性",
-      "onboard_time": 1700924628,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145894,
@@ -2579,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134065,
+      "num": 485079,
+      "word": "纽卡斯尔联vs切尔西",
+      "onboard_time": 1700926366,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133257,
       "num": 145380,
       "word": "ON的改变",
@@ -2673,6 +2729,14 @@
       "onboard_time": 1700846060,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128332,
+      "num": 484973,
+      "word": "山西施工事故相关责任人已被控制",
+      "onboard_time": 1700925644,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122472,
