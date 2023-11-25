@@ -1,7 +1,15 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700901259123,
+  "endTime": 1700903740580,
   "band_list": [
+    {
+      "raw_hot": 2328065,
+      "num": 2328065,
+      "word": "尖叫之夜红毯",
+      "onboard_time": 1700900857,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2090671,
       "num": 2090671,
@@ -49,6 +57,14 @@
       "onboard_time": 1700889453,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1531109,
+      "num": 1531109,
+      "word": "田曦薇 看得出她是公主",
+      "onboard_time": 1700897914,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1376208,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1021263,
+      "num": 1021263,
+      "word": "谢依霖回应老公重症肌无力",
+      "onboard_time": 1700902958,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955620,
       "num": 955620,
       "word": "知情人曾透露吴秀波不再从事演员职业",
@@ -139,27 +163,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 920800,
-      "num": 920800,
-      "word": "田曦薇 看得出她是公主",
-      "onboard_time": 1700897914,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 877685,
       "num": 877685,
       "word": "这居然是王阳尖叫之夜造型",
       "onboard_time": 1700895572,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 848592,
-      "num": 309792,
-      "word": "尖叫之夜红毯",
-      "onboard_time": 1700900857,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 691288,
+      "num": 275362,
+      "word": "胡先煦 考试什么的都去死吧",
+      "onboard_time": 1700901696,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686426,
       "num": 686426,
       "word": "郎朗证明孩子是在和钢琴友好交流",
@@ -243,7 +259,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 647548,
+      "raw_hot": 648461,
       "num": 647548,
       "word": "尖叫之夜直播",
       "onboard_time": 1700891553,
@@ -275,6 +291,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 615229,
+      "num": 233494,
+      "word": "颖儿礼服20斤重",
+      "onboard_time": 1700902480,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 612187,
       "num": 612187,
       "word": "鼠头鸭脖涉事高校党政领导去职",
@@ -289,6 +313,14 @@
       "onboard_time": 1700873969,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 605889,
+      "num": 308362,
+      "word": "金晨高颅顶公主头",
+      "onboard_time": 1700899478,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 599435,
@@ -329,14 +361,6 @@
       "onboard_time": 1700891254,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 545205,
-      "num": 308362,
-      "word": "金晨高颅顶公主头",
-      "onboard_time": 1700899478,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 536612,
@@ -395,12 +419,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 453059,
+      "num": 192377,
+      "word": "杨紫黑白制服套装",
+      "onboard_time": 1700901160,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 452609,
       "num": 452609,
       "word": "凡人修仙传开播",
       "onboard_time": 1700882014,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446951,
+      "num": 188031,
+      "word": "杨幂造型预告",
+      "onboard_time": 1700903314,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 432324,
@@ -547,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365944,
+      "num": 187835,
+      "word": "王亚飞给白鹿化的妆",
+      "onboard_time": 1700903434,
+      "rank": 29,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 363959,
       "num": 349549,
       "word": "JYP和NewJeans出现时台下表情对比",
@@ -643,6 +691,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320220,
+      "num": 189763,
+      "word": "怀孕5月女子到派出所帮亡夫销户落泪",
+      "onboard_time": 1700901160,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318813,
+      "num": 187475,
+      "word": "林允复古花朵礼裙",
+      "onboard_time": 1700903015,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317064,
+      "num": 258762,
+      "word": "海底捞回应跳科目三服务员月薪过万",
+      "onboard_time": 1700902718,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316526,
       "num": 256345,
       "word": "KT官宣Deft加入",
@@ -665,6 +737,14 @@
       "onboard_time": 1700837315,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310459,
+      "num": 310459,
+      "word": "林黛玉风雪山神庙",
+      "onboard_time": 1700901216,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 299331,
@@ -771,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280163,
+      "num": 280163,
+      "word": "花花吃饭被弟弟折腾懵了",
+      "onboard_time": 1700900857,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275796,
       "num": 254560,
       "word": "吴莫愁退圈三年直言听歌想吐",
@@ -792,6 +880,14 @@
       "word": "一念关山OST阵容",
       "onboard_time": 1700882254,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266383,
+      "num": 183527,
+      "word": "刘诗诗打戏仪态",
+      "onboard_time": 1700902540,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1051,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208522,
+      "num": 182199,
+      "word": "李沁黑白知性风",
+      "onboard_time": 1700902116,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208128,
       "num": 208128,
       "word": "蜡笔小新剧场版今日上映",
@@ -1139,12 +1243,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196127,
+      "num": 187268,
+      "word": "哪种长相的痣不能留",
+      "onboard_time": 1700902415,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 196030,
       "num": 130788,
       "word": "刘涛再演霓凰郡主",
       "onboard_time": 1700838397,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196018,
+      "num": 196018,
+      "word": "前助理否认马云做预制菜",
+      "onboard_time": 1700903377,
+      "rank": 18,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 195231,
@@ -1171,20 +1291,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 192377,
-      "num": 192377,
-      "word": "杨紫黑白制服套装",
-      "onboard_time": 1700901160,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 189792,
       "num": 189792,
       "word": "10种听起来吓人但无需治疗的病",
       "onboard_time": 1700844265,
       "rank": 18,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 187124,
+      "num": 187124,
+      "word": "Bin武神状态",
+      "onboard_time": 1700902058,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 182643,
@@ -1289,6 +1409,14 @@
       "onboard_time": 1700890115,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171068,
+      "num": 184035,
+      "word": "EDG纪录片",
+      "onboard_time": 1700903495,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 170390,
@@ -1425,6 +1553,14 @@
       "onboard_time": 1700895091,
       "rank": 28,
       "category": "电竞,时尚"
+    },
+    {
+      "raw_hot": 155128,
+      "num": 183725,
+      "word": "盗月社 东北妈妈包的饺子",
+      "onboard_time": 1700901876,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 154555,
@@ -1619,6 +1755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 130025,
+      "num": 181688,
+      "word": "喜欢吃的店突然不开了",
+      "onboard_time": 1700901398,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129934,
       "num": 129934,
       "word": "韩东君蔡文静现身合肥",
@@ -1731,6 +1875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112394,
+      "num": 181047,
+      "word": "猫和狗在失重状态下的对比",
+      "onboard_time": 1700903558,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111807,
       "num": 145174,
       "word": "呼吸道合胞病毒感染高危人群",
@@ -1745,14 +1897,6 @@
       "onboard_time": 1700879371,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110795,
-      "num": 208853,
-      "word": "花花吃饭被弟弟折腾懵了",
-      "onboard_time": 1700900857,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110331,
@@ -1817,14 +1961,6 @@
       "onboard_time": 1700876431,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101960,
-      "num": 184503,
-      "word": "林黛玉风雪山神庙",
-      "onboard_time": 1700901216,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 99616,
@@ -1905,14 +2041,6 @@
       "onboard_time": 1700822735,
       "rank": 39,
       "category": "财经,美食"
-    },
-    {
-      "raw_hot": 86411,
-      "num": 169802,
-      "word": "怀孕5月女子到派出所帮亡夫销户落泪",
-      "onboard_time": 1700901160,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83536,
@@ -2051,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32474,
+      "num": 1252844,
+      "word": "新时代中国乡野调查",
+      "onboard_time": 1700899776,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30965,
       "num": 28667,
       "word": "新闻女王",
@@ -2073,14 +2209,6 @@
       "onboard_time": 1700848398,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 26147,
-      "num": 1050715,
-      "word": "新时代中国乡野调查",
-      "onboard_time": 1700899776,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17843,
@@ -2113,6 +2241,9 @@
     },
     {
       "word": "#读懂中国学解锁中国密码#"
+    },
+    {
+      "word": "#以高质量发展全面推进中国式现代化#"
     }
   ]
 }

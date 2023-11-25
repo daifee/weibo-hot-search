@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700901259123,
+  "endTime": 1700903740580,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -305,6 +305,14 @@
       "onboard_time": 1700832334,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2328065,
+      "num": 2328065,
+      "word": "尖叫之夜红毯",
+      "onboard_time": 1700900857,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2300312,
@@ -897,6 +905,14 @@
       "onboard_time": 1700649932,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1531109,
+      "num": 1531109,
+      "word": "田曦薇 看得出她是公主",
+      "onboard_time": 1700897914,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1504017,
@@ -1563,6 +1579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1021263,
+      "num": 1021263,
+      "word": "谢依霖回应老公重症肌无力",
+      "onboard_time": 1700902958,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 997001,
       "num": 471170,
       "word": "小S晒许雅钧准备的大餐",
@@ -1779,14 +1803,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 920800,
-      "num": 920800,
-      "word": "田曦薇 看得出她是公主",
-      "onboard_time": 1700897914,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 916678,
       "num": 236821,
       "word": "吴亦凡名下仅1家企业存续",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1700654374,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 848592,
-      "num": 309792,
-      "word": "尖叫之夜红毯",
-      "onboard_time": 1700900857,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 841104,
@@ -2611,6 +2619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 691288,
+      "num": 275362,
+      "word": "胡先煦 考试什么的都去死吧",
+      "onboard_time": 1700901696,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 690492,
       "num": 690492,
       "word": "韩媒说中国队防不住孙兴慜",
@@ -2859,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648461,
+      "num": 647548,
+      "word": "尖叫之夜直播",
+      "onboard_time": 1700891553,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 648361,
       "num": 648361,
       "word": "小时候流行的屁股针为什么消失了",
@@ -2873,14 +2897,6 @@
       "onboard_time": 1700568935,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 647548,
-      "num": 647548,
-      "word": "尖叫之夜直播",
-      "onboard_time": 1700891553,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 645816,
@@ -3123,6 +3139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 615229,
+      "num": 233494,
+      "word": "颖儿礼服20斤重",
+      "onboard_time": 1700902480,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 614578,
       "num": 483083,
       "word": "娜然 森林精灵",
@@ -3177,6 +3201,14 @@
       "onboard_time": 1700488236,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 605889,
+      "num": 308362,
+      "word": "金晨高颅顶公主头",
+      "onboard_time": 1700899478,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 604860,
@@ -3713,14 +3745,6 @@
       "onboard_time": 1700619152,
       "rank": 8,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 545205,
-      "num": 308362,
-      "word": "金晨高颅顶公主头",
-      "onboard_time": 1700899478,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 544929,
@@ -4675,6 +4699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 453059,
+      "num": 192377,
+      "word": "杨紫黑白制服套装",
+      "onboard_time": 1700901160,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 452609,
       "num": 452609,
       "word": "凡人修仙传开播",
@@ -4753,6 +4785,14 @@
       "onboard_time": 1700723612,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 446951,
+      "num": 188031,
+      "word": "杨幂造型预告",
+      "onboard_time": 1700903314,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 446348,
@@ -5963,6 +6003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365944,
+      "num": 187835,
+      "word": "王亚飞给白鹿化的妆",
+      "onboard_time": 1700903434,
+      "rank": 29,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 365907,
       "num": 365907,
       "word": "上海迪士尼疯狂动物城园区获证",
@@ -6995,6 +7043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320220,
+      "num": 189763,
+      "word": "怀孕5月女子到派出所帮亡夫销户落泪",
+      "onboard_time": 1700901160,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320054,
       "num": 320054,
       "word": "陈硕辞退兰兰",
@@ -7017,6 +7073,14 @@
       "onboard_time": 1700389663,
       "rank": 35,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 318813,
+      "num": 187475,
+      "word": "林允复古花朵礼裙",
+      "onboard_time": 1700903015,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318755,
@@ -7081,6 +7145,14 @@
       "onboard_time": 1700321375,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 317064,
+      "num": 258762,
+      "word": "海底捞回应跳科目三服务员月薪过万",
+      "onboard_time": 1700902718,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316661,
@@ -7225,6 +7297,14 @@
       "onboard_time": 1700805581,
       "rank": 23,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 310459,
+      "num": 310459,
+      "word": "林黛玉风雪山神庙",
+      "onboard_time": 1700901216,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 310193,
@@ -8003,6 +8083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280163,
+      "num": 280163,
+      "word": "花花吃饭被弟弟折腾懵了",
+      "onboard_time": 1700900857,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279837,
       "num": 279837,
       "word": "梦回S3",
@@ -8337,6 +8425,14 @@
       "onboard_time": 1700476411,
       "rank": 38,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 266383,
+      "num": 183527,
+      "word": "刘诗诗打戏仪态",
+      "onboard_time": 1700902540,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 266060,
@@ -10811,6 +10907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208522,
+      "num": 182199,
+      "word": "李沁黑白知性风",
+      "onboard_time": 1700902116,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208491,
       "num": 208491,
       "word": "DRX官宣BeryL离队",
@@ -11803,12 +11907,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 196127,
+      "num": 187268,
+      "word": "哪种长相的痣不能留",
+      "onboard_time": 1700902415,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 196077,
       "num": 196077,
       "word": "中国空军运20接25名烈士回家",
       "onboard_time": 1700705911,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196018,
+      "num": 196018,
+      "word": "前助理否认马云做预制菜",
+      "onboard_time": 1700903377,
+      "rank": 18,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 196008,
@@ -12121,14 +12241,6 @@
       "onboard_time": 1700658097,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192377,
-      "num": 192377,
-      "word": "杨紫黑白制服套装",
-      "onboard_time": 1700901160,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 192205,
@@ -12537,6 +12649,14 @@
       "onboard_time": 1700674040,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187124,
+      "num": 187124,
+      "word": "Bin武神状态",
+      "onboard_time": 1700902058,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 187072,
@@ -13539,6 +13659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171068,
+      "num": 184035,
+      "word": "EDG纪录片",
+      "onboard_time": 1700903495,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171054,
       "num": 171054,
       "word": "张晚意向郑云龙科普8023",
@@ -14521,6 +14649,14 @@
       "onboard_time": 1700437409,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155128,
+      "num": 183725,
+      "word": "盗月社 东北妈妈包的饺子",
+      "onboard_time": 1700901876,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 155116,
@@ -16107,6 +16243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130025,
+      "num": 181688,
+      "word": "喜欢吃的店突然不开了",
+      "onboard_time": 1700901398,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129934,
       "num": 129934,
       "word": "韩东君蔡文静现身合肥",
@@ -16907,6 +17051,14 @@
       "category": "艺人,运动健身"
     },
     {
+      "raw_hot": 112394,
+      "num": 181047,
+      "word": "猫和狗在失重状态下的对比",
+      "onboard_time": 1700903558,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112128,
       "num": 112128,
       "word": "勇士结束六连败",
@@ -16977,14 +17129,6 @@
       "onboard_time": 1700730035,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110795,
-      "num": 208853,
-      "word": "花花吃饭被弟弟折腾懵了",
-      "onboard_time": 1700900857,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110648,
@@ -17329,14 +17473,6 @@
       "onboard_time": 1700534492,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 101960,
-      "num": 184503,
-      "word": "林黛玉风雪山神庙",
-      "onboard_time": 1700901216,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 101739,
@@ -17720,14 +17856,6 @@
       "word": "运20再赴韩国接运烈士遗骸归国",
       "onboard_time": 1700467474,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86411,
-      "num": 169802,
-      "word": "怀孕5月女子到派出所帮亡夫销户落泪",
-      "onboard_time": 1700901160,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -18387,6 +18515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32474,
+      "num": 1252844,
+      "word": "新时代中国乡野调查",
+      "onboard_time": 1700899776,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31017,
       "num": 494315,
       "word": "魂兮归来英雄安息",
@@ -18417,14 +18553,6 @@
       "onboard_time": 1700848398,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 26147,
-      "num": 1050715,
-      "word": "新时代中国乡野调查",
-      "onboard_time": 1700899776,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24258,
@@ -18669,6 +18797,9 @@
     },
     {
       "word": "#读懂中国学解锁中国密码#"
+    },
+    {
+      "word": "#以高质量发展全面推进中国式现代化#"
     }
   ]
 }
