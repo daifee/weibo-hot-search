@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700943434769,
+  "endTime": 1700944461333,
   "band_list": [
     {
       "raw_hot": 7011410,
@@ -523,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 37566,
+      "num": 37566,
+      "word": "秦岚嗓子还没好",
+      "onboard_time": 1700942235,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36591,
       "num": 145226,
       "word": "日常上班超级简单的发型",
@@ -539,15 +547,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34450,
-      "num": 34450,
-      "word": "秦岚嗓子还没好",
-      "onboard_time": 1700942235,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 21817,
+      "raw_hot": 22136,
       "num": 39733,
       "word": "老中医教的7个疏肝解郁法",
       "onboard_time": 1700939355,
