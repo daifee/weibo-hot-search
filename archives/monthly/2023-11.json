@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700933638834,
+  "endTime": 1700936417766,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -63867,6 +63867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106698,
+      "num": 106698,
+      "word": "没签过这么好笑的签售",
+      "onboard_time": 1700934022,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106603,
       "num": 106603,
       "word": "礼盒开箱",
@@ -68185,6 +68193,14 @@
       "onboard_time": 1699134973,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50780,
+      "num": 161214,
+      "word": "美嘉仿妆",
+      "onboard_time": 1700934861,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 50770,
