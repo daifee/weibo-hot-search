@@ -1,6 +1,6 @@
 {
   "startTime": 1700842962248,
-  "endTime": 1700912045955,
+  "endTime": 1700915423202,
   "band_list": [
     {
       "raw_hot": 11768713,
@@ -8,6 +8,22 @@
       "word": "白敬亭宋轶一起走红毯",
       "onboard_time": 1700908118,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5459089,
+      "num": 5459089,
+      "word": "杨幂又听到什么了",
+      "onboard_time": 1700914428,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3605343,
+      "num": 3605343,
+      "word": "在谈vs分了",
+      "onboard_time": 1700911968,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -43,11 +59,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2738429,
+      "num": 2738429,
+      "word": "棣欣引力",
+      "onboard_time": 1700912925,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2624488,
       "num": 2624488,
       "word": "狂飙 第二部",
       "onboard_time": 1700909502,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2614686,
+      "num": 2614686,
+      "word": "张凌赫给白鹿提裙子",
+      "onboard_time": 1700912566,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -147,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1465527,
+      "num": 1465527,
+      "word": "诗幂",
+      "onboard_time": 1700913826,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1376208,
       "num": 1376208,
       "word": "向佐喜提女儿脸部马杀鸡",
@@ -195,11 +235,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1080290,
-      "num": 634849,
-      "word": "在谈vs分了",
-      "onboard_time": 1700911968,
-      "rank": 30,
+      "raw_hot": 1080772,
+      "num": 1080772,
+      "word": "王鹤棣 道明寺",
+      "onboard_time": 1700911488,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -259,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 841477,
+      "num": 841477,
+      "word": "张译 缺席",
+      "onboard_time": 1700913884,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838237,
       "num": 838237,
       "word": "公主和亲 十里红妆不过另一种自刎",
@@ -291,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 821686,
+      "num": 821686,
+      "word": "陈晓为什么不走红毯",
+      "onboard_time": 1700911892,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 819104,
       "num": 819104,
       "word": "陈哲远瘦了好多",
@@ -307,11 +363,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 788772,
-      "num": 788772,
-      "word": "王鹤棣 道明寺",
-      "onboard_time": 1700911488,
-      "rank": 28,
+      "raw_hot": 807856,
+      "num": 807856,
+      "word": "宋轶白敬亭魏大勋 切镜头",
+      "onboard_time": 1700914908,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -411,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 635180,
+      "num": 635180,
+      "word": "白鹿唱歌切张凌赫",
+      "onboard_time": 1700914965,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 625662,
       "num": 625662,
       "word": "Doinb Ning",
@@ -500,11 +564,19 @@
     },
     {
       "raw_hot": 559059,
-      "num": 286102,
+      "num": 327999,
       "word": "林志玲北野武 颁奖",
       "onboard_time": 1700908781,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 539571,
+      "num": 854373,
+      "word": "韩国一女子杀人分尸称痴迷犯罪想尝试谋杀",
+      "onboard_time": 1700913043,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536612,
@@ -587,6 +659,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 470038,
+      "num": 328015,
+      "word": "莲花楼值得",
+      "onboard_time": 1700914727,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463185,
       "num": 548058,
       "word": "2024国考参考人数或破200万",
@@ -619,12 +699,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 450421,
+      "num": 450421,
+      "word": "内场座位 CP乱打",
+      "onboard_time": 1700915328,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449675,
       "num": 2786824,
       "word": "花花吃饭被弟弟折腾懵了",
       "onboard_time": 1700900857,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437656,
+      "num": 2472318,
+      "word": "不能二次加热的食物",
+      "onboard_time": 1700910771,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 432324,
@@ -745,14 +841,6 @@
       "onboard_time": 1700867961,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 386555,
-      "num": 2472318,
-      "word": "不能二次加热的食物",
-      "onboard_time": 1700910771,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 383201,
@@ -915,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338960,
+      "num": 1748251,
+      "word": "369回应加入TES",
+      "onboard_time": 1700912866,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 334826,
       "num": 334826,
       "word": "上海申花夺得足协杯冠军",
@@ -963,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321831,
-      "num": 321831,
-      "word": "陈晓为什么不走红毯",
-      "onboard_time": 1700911892,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318813,
       "num": 187475,
       "word": "林允复古花朵礼裙",
@@ -1008,6 +1096,14 @@
       "word": "张小斐 全世界淋雨我在吃香蕉",
       "onboard_time": 1700837315,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 313276,
+      "num": 808227,
+      "word": "王鹤棣红毯好有活力",
+      "onboard_time": 1700914306,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1099,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289915,
+      "num": 1657277,
+      "word": "何冲评全红婵粉丝斥裁判压分",
+      "onboard_time": 1700911908,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288175,
       "num": 247420,
       "word": "85后女演员一番票房排行",
@@ -1137,6 +1241,30 @@
       "onboard_time": 1700903737,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278699,
+      "num": 363205,
+      "word": "方圆脸的半遮耳发型",
+      "onboard_time": 1700914608,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 277167,
+      "num": 277167,
+      "word": "金马60红毯",
+      "onboard_time": 1700914727,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 276227,
+      "num": 1395234,
+      "word": "Cat知道错了",
+      "onboard_time": 1700914245,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 275796,
@@ -1380,7 +1508,7 @@
     },
     {
       "raw_hot": 221816,
-      "num": 534540,
+      "num": 812624,
       "word": "考古人员一手接一手捧出3.8万余枚简牍",
       "onboard_time": 1700910771,
       "rank": 29,
@@ -2035,6 +2163,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 141432,
+      "num": 810136,
+      "word": "这么吃可以控糖控体重",
+      "onboard_time": 1700910466,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141105,
       "num": 142173,
       "word": "樊振东王艺迪与学生们一起打球",
@@ -2065,14 +2201,6 @@
       "onboard_time": 1700883453,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 137318,
-      "num": 401149,
-      "word": "这么吃可以控糖控体重",
-      "onboard_time": 1700910466,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 135935,
@@ -2179,6 +2307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124846,
+      "num": 354254,
+      "word": "曼城vs利物浦",
+      "onboard_time": 1700912326,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122472,
       "num": 114920,
       "word": "林俊杰演唱会嘉宾 李健",
@@ -2193,6 +2329,14 @@
       "onboard_time": 1700884232,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118106,
+      "num": 350813,
+      "word": "杭州一医院门口提供爱心午餐",
+      "onboard_time": 1700914847,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 117223,
@@ -2251,14 +2395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113322,
-      "num": 283435,
-      "word": "何冲评全红婵粉丝斥裁判压分",
-      "onboard_time": 1700911908,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111807,
       "num": 145174,
       "word": "呼吸道合胞病毒感染高危人群",
@@ -2281,6 +2417,14 @@
       "onboard_time": 1700869344,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 109627,
+      "num": 301200,
+      "word": "大炸蛋帝王蟹加辣螺蛳粉",
+      "onboard_time": 1700913043,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 108927,
