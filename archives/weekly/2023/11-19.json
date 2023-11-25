@@ -1,6 +1,6 @@
 {
   "startTime": 1700324475985,
-  "endTime": 1700883264999,
+  "endTime": 1700886051572,
   "band_list": [
     {
       "raw_hot": 14827099,
@@ -601,6 +601,14 @@
       "onboard_time": 1700622575,
       "rank": 10,
       "category": "时尚,财经"
+    },
+    {
+      "raw_hot": 1800726,
+      "num": 1800726,
+      "word": "陈赫直播破防",
+      "onboard_time": 1700884291,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1759757,
@@ -1619,6 +1627,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 948636,
+      "num": 239275,
+      "word": "日本一棕熊尸体中发现人体残骸",
+      "onboard_time": 1700881472,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 948081,
       "num": 524169,
       "word": "唐嫣 南京",
@@ -1832,14 +1848,6 @@
       "word": "网红夫妇回应售楼处维权被抢手机",
       "onboard_time": 1700367689,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 870301,
-      "num": 197492,
-      "word": "日本一棕熊尸体中发现人体残骸",
-      "onboard_time": 1700881472,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2251,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 743759,
+      "num": 743759,
+      "word": "虞书欣ins点赞杨紫相关",
+      "onboard_time": 1700883993,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 738158,
       "num": 463275,
       "word": "杨紫泡面卷",
@@ -2281,6 +2297,14 @@
       "onboard_time": 1700657194,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 736329,
+      "num": 736329,
+      "word": "宋轶素颜吃早餐",
+      "onboard_time": 1700883513,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 734671,
@@ -4659,6 +4683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 436575,
+      "num": 436575,
+      "word": "凡人修仙传开播",
+      "onboard_time": 1700882014,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 436074,
       "num": 436074,
       "word": "劳斯莱斯都给你拍涨价了",
@@ -4761,6 +4793,14 @@
       "onboard_time": 1700655334,
       "rank": 15,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 431482,
+      "num": 406719,
+      "word": "如果能重来白鹿选整牙",
+      "onboard_time": 1700881893,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 431124,
@@ -5033,14 +5073,6 @@
       "onboard_time": 1700404895,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 406719,
-      "num": 406719,
-      "word": "如果能重来白鹿选整牙",
-      "onboard_time": 1700881893,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 406505,
@@ -5769,6 +5801,14 @@
       "onboard_time": 1700309372,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363959,
+      "num": 349549,
+      "word": "JYP和NewJeans出现时台下表情对比",
+      "onboard_time": 1700882372,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 363767,
@@ -6963,14 +7003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307884,
-      "num": 307884,
-      "word": "JYP和NewJeans出现时台下表情对比",
-      "onboard_time": 1700882372,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 306815,
       "num": 306815,
       "word": "heerina嗑到了",
@@ -7073,14 +7105,6 @@
       "onboard_time": 1700619391,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302566,
-      "num": 302566,
-      "word": "凡人修仙传开播",
-      "onboard_time": 1700882014,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 302255,
@@ -7667,6 +7691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277684,
+      "num": 277684,
+      "word": "倪妮杜鹃 宿命感",
+      "onboard_time": 1700883753,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277500,
       "num": 277500,
       "word": "RW战胜AG",
@@ -7921,6 +7953,14 @@
       "onboard_time": 1700882254,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268189,
+      "num": 268189,
+      "word": "北京明确学生患病作业一律不硬性要求",
+      "onboard_time": 1700885555,
+      "rank": 16,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 268179,
@@ -8217,6 +8257,14 @@
       "onboard_time": 1700465611,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 260722,
+      "num": 186186,
+      "word": "肺炎支原体感染下降流感上升",
+      "onboard_time": 1700884954,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 260392,
@@ -9249,6 +9297,14 @@
       "onboard_time": 1700815894,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230981,
+      "num": 230981,
+      "word": "小伙轿车3个月遭8次开门杀",
+      "onboard_time": 1700884354,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230834,
@@ -11067,6 +11123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199012,
+      "num": 199012,
+      "word": "张柏芝背头烟熏妆",
+      "onboard_time": 1700885195,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198891,
       "num": 198891,
       "word": "张杰传授李现健嗓秘诀",
@@ -12611,6 +12675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177460,
+      "num": 177460,
+      "word": "涉过愤怒的海",
+      "onboard_time": 1700754511,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177307,
       "num": 177307,
       "word": "凡人修仙传修仙地图解锁完毕",
@@ -13675,6 +13747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158597,
+      "num": 158597,
+      "word": "鞠婧祎雪地玫瑰妆",
+      "onboard_time": 1700885739,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158475,
       "num": 158475,
       "word": "黄子弘凡 捕梦网接住哈",
@@ -14595,6 +14675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141508,
+      "num": 944768,
+      "word": "儿子继承了牺牲父亲的警号",
+      "onboard_time": 1700882793,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141492,
       "num": 141492,
       "word": "母亲接记者电话才知儿子救3人",
@@ -14649,14 +14737,6 @@
       "onboard_time": 1700664038,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140293,
-      "num": 124471,
-      "word": "涉过愤怒的海",
-      "onboard_time": 1700754511,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 140206,
@@ -14835,12 +14915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138148,
+      "num": 138148,
+      "word": "上海交大食堂饭菜吃出1.5厘米针头",
+      "onboard_time": 1700885795,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137947,
       "num": 137947,
       "word": "GQ年度盛典上的黑珍珠",
       "onboard_time": 1700632533,
       "rank": 40,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 137558,
+      "num": 137558,
+      "word": "萤火虫漫展",
+      "onboard_time": 1700883453,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 137317,
@@ -15713,6 +15809,14 @@
       "onboard_time": 1700831255,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121755,
+      "num": 121755,
+      "word": "火箭双杀掘金",
+      "onboard_time": 1700884232,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 121500,
@@ -16715,6 +16819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92494,
+      "num": 240402,
+      "word": "王者荣耀有多宠元梦之星",
+      "onboard_time": 1700883873,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92000,
       "num": 92000,
       "word": "宋亚轩萱草花大风吹串烧舞台",
@@ -17471,14 +17583,6 @@
       "num": 902365,
       "word": "战争没有赢家和平值得努力",
       "onboard_time": 1700543080,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37453,
-      "num": 944768,
-      "word": "儿子继承了牺牲父亲的警号",
-      "onboard_time": 1700882793,
       "rank": 2,
       "category": "社会新闻"
     },
