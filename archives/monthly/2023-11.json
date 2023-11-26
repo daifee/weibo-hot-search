@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701011773319,
+  "endTime": 1701012836020,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4811,6 +4811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1281521,
+      "num": 1281521,
+      "word": "每个人嘎的时候都要骂甄嬛一句",
+      "onboard_time": 1701008077,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1279349,
       "num": 529882,
       "word": "小杨哥演唱会成本超3000万",
@@ -5649,14 +5657,6 @@
       "onboard_time": 1699860215,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1143212,
-      "num": 1143212,
-      "word": "每个人嘎的时候都要骂甄嬛一句",
-      "onboard_time": 1701008077,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 1142437,
@@ -7787,6 +7787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 890304,
+      "num": 860343,
+      "word": "为什么肚子总是咕噜咕噜响",
+      "onboard_time": 1701009760,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 890121,
       "num": 890121,
       "word": "何炅不许任何一个夹子出现在他面前",
@@ -8137,14 +8145,6 @@
       "onboard_time": 1699004495,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 860343,
-      "num": 860343,
-      "word": "为什么肚子总是咕噜咕噜响",
-      "onboard_time": 1701009760,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 859909,
@@ -11801,6 +11801,14 @@
       "onboard_time": 1699524935,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667310,
+      "num": 667310,
+      "word": "小杨哥演唱会 Twins",
+      "onboard_time": 1701011365,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 666744,
@@ -19003,6 +19011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 459387,
+      "num": 391504,
+      "word": "曾舜晞 怎么你们有饭吃",
+      "onboard_time": 1701010775,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 459365,
       "num": 459365,
       "word": "陆家嘴集团发布苏州毒地情况说明",
@@ -22745,14 +22761,6 @@
       "onboard_time": 1699630655,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391504,
-      "num": 391504,
-      "word": "曾舜晞 怎么你们有饭吃",
-      "onboard_time": 1701010775,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 391421,
@@ -26947,6 +26955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 332788,
+      "num": 317922,
+      "word": "帕梅拉不敢吃鸡爪",
+      "onboard_time": 1701009035,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 332664,
       "num": 332664,
       "word": "Keria 轻音乐之神",
@@ -28161,14 +28177,6 @@
       "onboard_time": 1698969753,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 317922,
-      "num": 317922,
-      "word": "帕梅拉不敢吃鸡爪",
-      "onboard_time": 1701009035,
-      "rank": 37,
-      "category": "运动健身"
     },
     {
       "raw_hot": 317807,
@@ -29825,14 +29833,6 @@
       "onboard_time": 1700386418,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299405,
-      "num": 299405,
-      "word": "小杨哥演唱会 Twins",
-      "onboard_time": 1701011365,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 299331,
@@ -33153,6 +33153,14 @@
       "onboard_time": 1699776509,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268945,
+      "num": 266607,
+      "word": "汪苏泷舞台",
+      "onboard_time": 1701011734,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 268797,
@@ -44107,6 +44115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202369,
+      "num": 202369,
+      "word": "何泓姗太爱鲁班7号了",
+      "onboard_time": 1701011017,
+      "rank": 34,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 202367,
       "num": 198568,
       "word": "维金斯回来了",
@@ -46777,14 +46793,6 @@
       "onboard_time": 1700712817,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 193080,
-      "num": 193080,
-      "word": "何泓姗太爱鲁班7号了",
-      "onboard_time": 1701011017,
-      "rank": 34,
-      "category": "电竞,艺人"
     },
     {
       "raw_hot": 193052,
@@ -53227,6 +53235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166832,
+      "num": 166832,
+      "word": "国考人的精神状态",
+      "onboard_time": 1701011797,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 166829,
       "num": 166829,
       "word": "周渝民 人群恐惧症",
@@ -55089,14 +55105,6 @@
       "onboard_time": 1699057051,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158954,
-      "num": 158954,
-      "word": "汪苏泷舞台",
-      "onboard_time": 1701011734,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 158871,
@@ -57331,6 +57339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 148870,
+      "num": 148870,
+      "word": "姜雪宁 难得宁静的人生",
+      "onboard_time": 1701012694,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148856,
       "num": 148856,
       "word": "顾云峥男狐狸",
@@ -58249,6 +58265,14 @@
       "onboard_time": 1700376272,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145089,
+      "num": 145089,
+      "word": "闻不到味道的人 鼻炎患者",
+      "onboard_time": 1701012275,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 145073,
@@ -63089,6 +63113,14 @@
       "onboard_time": 1700062113,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124316,
+      "num": 124316,
+      "word": "妈妈每天早上是如何叫醒我的",
+      "onboard_time": 1701012157,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 124302,
