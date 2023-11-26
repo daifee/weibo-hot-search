@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700997218685,
+  "endTime": 1700998441869,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -179,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1087149,
+      "num": 1087149,
+      "word": "冬季洗澡尽量控制在5到10分钟",
+      "onboard_time": 1700996133,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1032619,
       "num": 1032619,
       "word": "陈晓瘦脱相了",
@@ -323,6 +331,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 697037,
+      "num": 697037,
+      "word": "俄3名特工在乌克兰吃外卖中毒身亡",
+      "onboard_time": 1700997153,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 683660,
       "num": 683660,
       "word": "田曦薇穿棉袜穿高跟鞋",
@@ -345,6 +361,14 @@
       "onboard_time": 1700957794,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 626757,
+      "num": 626757,
+      "word": "李泰容 不去澳门",
+      "onboard_time": 1700996915,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 610588,
@@ -595,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449270,
+      "num": 309516,
+      "word": "王鹤棣听到王鹤润名字的时候笑了",
+      "onboard_time": 1700997575,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448936,
       "num": 448936,
       "word": "Knight 哪里高就",
@@ -625,14 +657,6 @@
       "onboard_time": 1700910585,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 441203,
-      "num": 441203,
-      "word": "冬季洗澡尽量控制在5到10分钟",
-      "onboard_time": 1700996133,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 425849,
@@ -771,20 +795,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370054,
+      "num": 370054,
+      "word": "范丞丞撤回一只摸李晨的手",
+      "onboard_time": 1700996794,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366436,
       "num": 366436,
       "word": "Doinb",
       "onboard_time": 1700978133,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 365549,
-      "num": 365549,
-      "word": "李泰容 不去澳门",
-      "onboard_time": 1700996915,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 365543,
@@ -1155,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273612,
+      "num": 273612,
+      "word": "同事是个假装自卑的美女",
+      "onboard_time": 1700996614,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273517,
       "num": 1030127,
       "word": "当前流行病毒大多侵犯上呼吸道且有自限性",
@@ -1291,12 +1323,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 244908,
-      "num": 223186,
-      "word": "同事是个假装自卑的美女",
-      "onboard_time": 1700996614,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 244764,
+      "num": 244764,
+      "word": "跑男全员对糊过敏",
+      "onboard_time": 1700998057,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 244530,
@@ -1491,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213817,
-      "num": 213817,
-      "word": "范丞丞撤回一只摸李晨的手",
-      "onboard_time": 1700996794,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212800,
       "num": 212800,
       "word": "行测结束网友自嘲轻舟已撞大冰山",
@@ -1593,6 +1617,14 @@
       "onboard_time": 1700996430,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198880,
+      "num": 198880,
+      "word": "看完宁安如梦的戒断反应",
+      "onboard_time": 1700997334,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 197590,
@@ -1705,6 +1737,14 @@
       "onboard_time": 1700989956,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189892,
+      "num": 199598,
+      "word": "如何识别心衰早期信号",
+      "onboard_time": 1700997873,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189708,
@@ -1827,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175071,
+      "num": 175071,
+      "word": "卫衣不卡脖子的方法",
+      "onboard_time": 1700998356,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 174772,
       "num": 668260,
       "word": "千万别用吃很多药预防呼吸道疾病",
@@ -1945,14 +1993,6 @@
       "onboard_time": 1700960850,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160345,
-      "num": 160345,
-      "word": "俄3名特工在乌克兰吃外卖中毒身亡",
-      "onboard_time": 1700997153,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 160341,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1700979931,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134925,
+      "num": 134925,
+      "word": "王一博格纹外套造型超酷",
+      "onboard_time": 1700998233,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134206,

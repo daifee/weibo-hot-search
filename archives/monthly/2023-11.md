@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/26 19:13:38
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/26 19:34:01
 </p>
 </blockquote>
 <p>
@@ -4533,6 +4533,12 @@ ELLE风尚大典（热度：1088644）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%AD%A3%E6%B4%97%E6%BE%A1%E5%B0%BD%E9%87%8F%E6%8E%A7%E5%88%B6%E5%9C%A85%E5%88%B010%E5%88%86%E9%92%9F%23" target="weibo">
+冬季洗澡尽量控制在5到10分钟（热度：1087149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%8E%A5%E5%90%BB%E6%88%B4%E5%A2%A8%E9%95%9C%E5%95%8A%23" target="weibo">
 谁家接吻戴墨镜啊（热度：1083594）
 </a>
@@ -6005,12 +6011,6 @@ ChatGPT可能已经有了意识（热度：873431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%A8%E5%B9%82%23" target="weibo">
 酱园弄 杨幂（热度：862442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E8%AF%81%E5%AE%9E%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E6%88%90%E5%91%98%E5%8A%9D%E9%99%8D%E8%A7%86%E9%A2%91%E5%B1%9E%E5%AE%9E%23" target="weibo">
-知情人证实缅北电诈成员劝降视频属实（热度：862363）
 </a>
 </li>
 
