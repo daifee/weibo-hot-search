@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701012836020,
+  "endTime": 1701015637663,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -16547,6 +16547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515415,
+      "num": 515415,
+      "word": "林俊杰希望不要惊动到孙燕姿",
+      "onboard_time": 1701013173,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 515400,
       "num": 515400,
       "word": "张凌赫宁安如梦破万手势舞",
@@ -17033,6 +17041,14 @@
       "onboard_time": 1700101896,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 502772,
+      "num": 284564,
+      "word": "辛芷蕾P了Q版迪丽热巴",
+      "onboard_time": 1701013656,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 502521,
@@ -17745,6 +17761,14 @@
       "onboard_time": 1699766971,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486027,
+      "num": 486027,
+      "word": "洗筷子不要来回搓",
+      "onboard_time": 1701013293,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485973,
@@ -21883,6 +21907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405739,
+      "num": 405739,
+      "word": "白桃星座",
+      "onboard_time": 1699228771,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 405594,
       "num": 405594,
       "word": "谁允许你们在签售会演台偶的",
@@ -22665,14 +22697,6 @@
       "onboard_time": 1700183435,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392647,
-      "num": 392647,
-      "word": "白桃星座",
-      "onboard_time": 1699228771,
-      "rank": 32,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 392509,
@@ -25953,6 +25977,14 @@
       "onboard_time": 1700400878,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 346186,
+      "num": 284090,
+      "word": "易烊千玺景德镇",
+      "onboard_time": 1701014613,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 346080,
@@ -31435,6 +31467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 283514,
+      "num": 283514,
+      "word": "国考笔试报名261.3万人实到225.2万人",
+      "onboard_time": 1701009696,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 283476,
       "num": 283476,
       "word": "张小斐 走一点弯路没有关系",
@@ -33081,14 +33121,6 @@
       "onboard_time": 1699281282,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269755,
-      "num": 269755,
-      "word": "国考笔试报名261.3万人实到225.2万人",
-      "onboard_time": 1701009696,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 269710,
@@ -47579,6 +47611,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 190413,
+      "num": 190413,
+      "word": "东方不败煮饺子",
+      "onboard_time": 1701013352,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190360,
       "num": 190360,
       "word": "尹正你要演变态我可不困了",
@@ -56019,6 +56059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154816,
+      "num": 155768,
+      "word": "心衰的早期信号有哪些",
+      "onboard_time": 1701013713,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154815,
       "num": 145361,
       "word": "专家分析佳木斯体育馆坍塌事故",
@@ -57465,6 +57513,14 @@
       "onboard_time": 1699007556,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148535,
+      "num": 148535,
+      "word": "无价之宝在东北有多火",
+      "onboard_time": 1701014312,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 148518,
@@ -61473,6 +61529,14 @@
       "onboard_time": 1700286630,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132103,
+      "num": 132103,
+      "word": "杨丽萍回应近期争议",
+      "onboard_time": 1701014492,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 132058,
@@ -66227,6 +66291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 107823,
+      "num": 107823,
+      "word": "热刺vs阿斯顿维拉",
+      "onboard_time": 1701015328,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107810,
       "num": 107810,
       "word": "军犬伙食真的好好啊",
@@ -67083,6 +67155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101564,
+      "num": 101564,
+      "word": "自然蓬松颅顶的方法",
+      "onboard_time": 1701012992,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 101560,
       "num": 101560,
       "word": "佛山电翰已出现人传人",
@@ -67200,6 +67280,14 @@
       "word": "F1",
       "onboard_time": 1700300131,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100735,
+      "num": 100735,
+      "word": "威姆斯百分大战",
+      "onboard_time": 1701014970,
+      "rank": 47,
       "category": "体育"
     },
     {
