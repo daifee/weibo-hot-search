@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/26 13:15:40
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/26 13:34:00
 </p>
 </blockquote>
 <p>
@@ -4173,6 +4173,12 @@ iG官宣新阵容（热度：1158154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%80%BB%E6%8B%89%E8%82%9A%E5%AD%90%E6%9F%A5%E5%87%BA5%E5%A4%84%E7%99%8C%23" target="weibo">
+男子总拉肚子查出5处癌（热度：1144857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E8%AF%B4%E7%94%B7%E5%8F%8B%E6%89%AE%E7%8C%AA%E5%90%83%E8%80%81%E8%99%8E%23" target="weibo">
 金莎说男友扮猪吃老虎（热度：1142437）
 </a>
@@ -5163,6 +5169,12 @@ Xiaohu尽力了（热度：976623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%B1%E4%B8%8D%E8%83%BD%E6%94%BE%E7%82%B9%E6%9E%9C%E7%9B%98%E7%93%9C%E5%AD%90%E5%90%97%23" target="weibo">
+爱奇艺就不能放点果盘瓜子吗（热度：971595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B%E7%A1%95%E5%A3%AB%E5%BA%94%E8%81%98%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%90%88%E5%90%8C%E5%B7%A5%23" target="weibo">
 哈佛硕士应聘事业单位合同工（热度：971340）
 </a>
@@ -5829,12 +5841,6 @@ GEN 五放皇子（热度：882209）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%B1%E4%B8%8D%E8%83%BD%E6%94%BE%E7%82%B9%E6%9E%9C%E7%9B%98%E7%93%9C%E5%AD%90%E5%90%97%23" target="weibo">
-爱奇艺就不能放点果盘瓜子吗（热度：874487）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E5%90%8C%E5%8F%B0%E4%B8%BB%E6%8C%81%23" target="weibo">
 何炅谢娜同台主持（热度：874204）
 </a>
@@ -6005,12 +6011,6 @@ B太大连鬼秤破解实锤（热度：862350）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E7%89%9B%E5%95%8A%23" target="weibo">
 BLG牛啊（热度：858064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E7%99%BE%E4%BA%BF%E6%AF%92%E5%9C%B0%E5%87%A0%E4%B9%8E%E6%88%90%E7%A9%BA%E5%9F%8E%23" target="weibo">
-苏州百亿毒地几乎成空城（热度：857423）
 </a>
 </li>
 

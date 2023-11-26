@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700975740400,
+  "endTime": 1700976840604,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1144857,
+      "num": 1144857,
+      "word": "男子总拉肚子查出5处癌",
+      "onboard_time": 1700971473,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1032619,
       "num": 1032619,
       "word": "陈晓瘦脱相了",
@@ -147,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 971595,
+      "num": 971595,
+      "word": "爱奇艺就不能放点果盘瓜子吗",
+      "onboard_time": 1700967393,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 930091,
       "num": 980626,
       "word": "王鹤棣 尖叫男演员",
@@ -168,14 +184,6 @@
       "word": "张凌赫为什么像做贼",
       "onboard_time": 1700923367,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 874487,
-      "num": 874487,
-      "word": "爱奇艺就不能放点果盘瓜子吗",
-      "onboard_time": 1700967393,
-      "rank": 9,
       "category": "综艺"
     },
     {
@@ -225,14 +233,6 @@
       "onboard_time": 1700967272,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 675863,
-      "num": 675863,
-      "word": "男子总拉肚子查出5处癌",
-      "onboard_time": 1700971473,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 663334,
@@ -323,12 +323,28 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 513057,
+      "num": 236373,
+      "word": "男性 HPV",
+      "onboard_time": 1700975494,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496901,
       "num": 496901,
       "word": "图推好难",
       "onboard_time": 1700970633,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 486959,
+      "num": 376773,
+      "word": "杨幂复古丝绒绿裙",
+      "onboard_time": 1700972913,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 483917,
@@ -403,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436220,
+      "num": 436220,
+      "word": "申论",
+      "onboard_time": 1700970153,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 425849,
       "num": 425849,
       "word": "连电视剧都有双休了",
@@ -425,14 +449,6 @@
       "onboard_time": 1700955263,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 418815,
-      "num": 418815,
-      "word": "申论",
-      "onboard_time": 1700970153,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 408873,
@@ -489,14 +505,6 @@
       "onboard_time": 1700908781,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 376773,
-      "num": 376773,
-      "word": "杨幂复古丝绒绿裙",
-      "onboard_time": 1700972913,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 353400,
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318061,
+      "num": 318061,
+      "word": "一部拍了60年的电影",
+      "onboard_time": 1700975014,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316946,
       "num": 316946,
       "word": "虞书欣晒尖叫之夜奖杯",
@@ -665,6 +681,14 @@
       "onboard_time": 1700962530,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294570,
+      "num": 294570,
+      "word": "绍兴马拉松现睡神",
+      "onboard_time": 1700976030,
+      "rank": 17,
+      "category": "运动健身"
     },
     {
       "raw_hot": 288969,
@@ -795,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243918,
-      "num": 212666,
-      "word": "一部拍了60年的电影",
-      "onboard_time": 1700975014,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 241425,
       "num": 182418,
       "word": "莲花楼天下完整版",
@@ -819,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236333,
+      "num": 236333,
+      "word": "专家建议秋冬季每周洗1到2次澡",
+      "onboard_time": 1700973572,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 235124,
       "num": 161245,
       "word": "毛小星 有些小明星的素质真的太差了",
@@ -833,6 +857,14 @@
       "onboard_time": 1700967994,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 226874,
+      "num": 226874,
+      "word": "王者荣耀",
+      "onboard_time": 1700976274,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 225757,
@@ -865,6 +897,14 @@
       "onboard_time": 1700917129,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220314,
+      "num": 220314,
+      "word": "导演为什么要这么拍张凌赫",
+      "onboard_time": 1700975912,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 219832,
@@ -905,14 +945,6 @@
       "onboard_time": 1700958449,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210450,
-      "num": 210450,
-      "word": "专家建议秋冬季每周洗1到2次澡",
-      "onboard_time": 1700973572,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 208840,
@@ -1163,12 +1195,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 159214,
+      "num": 159214,
+      "word": "扁头高马尾发型",
+      "onboard_time": 1700976390,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 152516,
       "num": 152516,
       "word": "化妆最大的价值",
       "onboard_time": 1700959890,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 150976,
+      "num": 150976,
+      "word": "马丽撤回了一个微笑",
+      "onboard_time": 1700976571,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 150468,

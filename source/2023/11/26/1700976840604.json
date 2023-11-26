@@ -1,0 +1,410 @@
+{
+  "runTime": 1700976840604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2205064,
+        "num": 2205064,
+        "word": "国考行测",
+        "onboard_time": 1700969435,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1425564,
+        "num": 1425564,
+        "word": "秦岚领奖魏大勋怕被切镜头提前离场",
+        "onboard_time": 1700967510,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135374,
+        "num": 1150974,
+        "word": "航天员在太空也追剧下饭",
+        "onboard_time": 1700967031,
+        "rank": 2,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1144857,
+        "num": 1144857,
+        "word": "男子总拉肚子查出5处癌",
+        "onboard_time": 1700971473,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971595,
+        "num": 971595,
+        "word": "爱奇艺就不能放点果盘瓜子吗",
+        "onboard_time": 1700967393,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 951503,
+        "num": 951503,
+        "word": "旭旭宝宝",
+        "onboard_time": 1700968896,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 779198,
+        "num": 779198,
+        "word": "马英九称台湾是台湾省不是国名",
+        "onboard_time": 1700965770,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 682015,
+        "num": 682015,
+        "word": "白鹿 轻舟已过万重山",
+        "onboard_time": 1700961395,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571504,
+        "num": 571504,
+        "word": "杨幂发文说2024作品相见",
+        "onboard_time": 1700974713,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436220,
+        "num": 436220,
+        "word": "申论",
+        "onboard_time": 1700970153,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 562316,
+        "num": 401225,
+        "word": "白敬亭扶宋轶",
+        "onboard_time": 1700960430,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337398,
+        "num": 337398,
+        "word": "王俊凯滑雪服",
+        "onboard_time": 1700975374,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 358025,
+        "num": 328256,
+        "word": "田曦薇穿棉袜穿高跟鞋",
+        "onboard_time": 1700967272,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486959,
+        "num": 325431,
+        "word": "杨幂复古丝绒绿裙",
+        "onboard_time": 1700972913,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299572,
+        "num": 320080,
+        "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
+        "onboard_time": 1700954241,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318061,
+        "num": 318061,
+        "word": "一部拍了60年的电影",
+        "onboard_time": 1700975014,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312234,
+        "num": 312234,
+        "word": "张凌赫曾舜晞王星越干啥呢",
+        "onboard_time": 1700974472,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294570,
+        "num": 294570,
+        "word": "绍兴马拉松现睡神",
+        "onboard_time": 1700976030,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 248256,
+        "num": 248256,
+        "word": "图推好难",
+        "onboard_time": 1700970633,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236396,
+        "num": 236396,
+        "word": "国考答案",
+        "onboard_time": 1700969972,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 513925,
+        "num": 236389,
+        "word": "张大仙直播",
+        "onboard_time": 1700974292,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 513057,
+        "num": 236373,
+        "word": "男性 HPV",
+        "onboard_time": 1700975494,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302540,
+        "num": 236353,
+        "word": "田曦薇看得到的野心",
+        "onboard_time": 1700969194,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248051,
+        "num": 236343,
+        "word": "虞书欣王鹤棣候场打招呼",
+        "onboard_time": 1700967934,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236333,
+        "num": 236333,
+        "word": "专家建议秋冬季每周洗1到2次澡",
+        "onboard_time": 1700973572,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 226874,
+        "num": 226874,
+        "word": "王者荣耀",
+        "onboard_time": 1700976274,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220314,
+        "num": 220314,
+        "word": "导演为什么要这么拍张凌赫",
+        "onboard_time": 1700975912,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211131,
+        "num": 211131,
+        "word": "杨幂 于和伟亲马东了",
+        "onboard_time": 1700924084,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205367,
+        "num": 205367,
+        "word": "国考数量 全蒙",
+        "onboard_time": 1700970451,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188629,
+        "num": 188629,
+        "word": "龚俊高颅顶大背头",
+        "onboard_time": 1700975430,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185906,
+        "num": 185906,
+        "word": "赵露思秒懂马丽演的偷偷藏不住",
+        "onboard_time": 1700972854,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171570,
+        "num": 171570,
+        "word": "帮爷爷查话费时看到的短信记录",
+        "onboard_time": 1700964269,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169416,
+        "num": 169416,
+        "word": "伍佰合肥演唱会被曝观众大喊退票",
+        "onboard_time": 1700954060,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163937,
+        "num": 163937,
+        "word": "国考",
+        "onboard_time": 1700953820,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163647,
+        "num": 163647,
+        "word": "网红直播村村民一年收租300万",
+        "onboard_time": 1700962530,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 163472,
+        "num": 163472,
+        "word": "解放军中缅边境实战化演训最新消息",
+        "onboard_time": 1700966673,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160330,
+        "num": 160330,
+        "word": "国考常识",
+        "onboard_time": 1700975014,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159214,
+        "num": 159214,
+        "word": "扁头高马尾发型",
+        "onboard_time": 1700976390,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159136,
+        "num": 159136,
+        "word": "爱奇艺尖叫之夜男女明星微指",
+        "onboard_time": 1700966313,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151688,
+        "num": 151688,
+        "word": "孟子义 更适合周深体质的开门大吉",
+        "onboard_time": 1700971175,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150976,
+        "num": 150976,
+        "word": "马丽撤回了一个微笑",
+        "onboard_time": 1700976571,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149917,
+        "num": 149917,
+        "word": "刘诗诗刘宇宁新剧打戏同步率",
+        "onboard_time": 1700972317,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148530,
+        "num": 148530,
+        "word": "易烊千玺4%vol的河",
+        "onboard_time": 1700965770,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148111,
+        "num": 148111,
+        "word": "资料分析",
+        "onboard_time": 1700971775,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146940,
+        "num": 146940,
+        "word": "陆虎不愧是综艺之神",
+        "onboard_time": 1700972074,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145667,
+        "num": 145667,
+        "word": "言语理解",
+        "onboard_time": 1700972317,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "TES Ming",
+        "onboard_time": 1700955323,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135571,
+        "num": 135571,
+        "word": "陈晓瘦脱相了",
+        "onboard_time": 1700918750,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129997,
+        "num": 129997,
+        "word": "一批头部游戏主播被曝参与赌博洗钱",
+        "onboard_time": 1700965831,
+        "rank": 48,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 129171,
+        "num": 129171,
+        "word": "半个电竞圈都在武汉",
+        "onboard_time": 1700973633,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量发展全面推进中国式现代化#"
+    }
+  }
+}
