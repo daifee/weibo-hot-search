@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701002828485,
+  "endTime": 1701004747277,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -57,6 +57,14 @@
       "onboard_time": 1700996133,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1942600,
+      "num": 1942600,
+      "word": "热狗新歌疑似diss周杰伦",
+      "onboard_time": 1701002615,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 1935823,
@@ -195,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1062295,
+      "num": 1062295,
+      "word": "宋轶社交 白敬亭不知道在忙什么",
+      "onboard_time": 1701003697,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1032619,
       "num": 1032619,
       "word": "陈晓瘦脱相了",
@@ -219,6 +235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1025412,
+      "num": 1025412,
+      "word": "小杨哥演唱会",
+      "onboard_time": 1701000813,
+      "rank": 12,
+      "category": "演出,网红"
+    },
+    {
       "raw_hot": 1004514,
       "num": 1004514,
       "word": "娜扎 是你们要看的吗",
@@ -241,14 +265,6 @@
       "onboard_time": 1700989412,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 961834,
-      "num": 961834,
-      "word": "小杨哥演唱会",
-      "onboard_time": 1701000813,
-      "rank": 12,
-      "category": "演出,网红"
     },
     {
       "raw_hot": 942210,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734732,
+      "num": 734732,
+      "word": "马来西亚将对中国游客免签",
+      "onboard_time": 1701001776,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 728536,
       "num": 728536,
       "word": "杨幂新剧抽烟镜头",
@@ -387,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 673851,
-      "num": 673851,
-      "word": "马来西亚将对中国游客免签",
-      "onboard_time": 1701001776,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 663334,
       "num": 663334,
       "word": "杨幂发文说2024作品相见",
@@ -417,6 +433,14 @@
       "onboard_time": 1701000455,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 647172,
+      "num": 647172,
+      "word": "杨幂新片将定档",
+      "onboard_time": 1701003158,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 626757,
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 532989,
-      "num": 309516,
+      "num": 367638,
       "word": "王鹤棣听到王鹤润名字的时候笑了",
       "onboard_time": 1700997575,
       "rank": 20,
@@ -547,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530262,
+      "num": 530262,
+      "word": "上午涂彩票 下午抄资料",
+      "onboard_time": 1701001176,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 528853,
       "num": 528853,
       "word": "杜华欢迎RAIN入股乐华男团",
@@ -561,14 +593,6 @@
       "onboard_time": 1700965831,
       "rank": 19,
       "category": "社会新闻,游戏"
-    },
-    {
-      "raw_hot": 522872,
-      "num": 522872,
-      "word": "热狗新歌疑似diss周杰伦",
-      "onboard_time": 1701002615,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 517663,
@@ -683,6 +707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 457787,
+      "num": 457787,
+      "word": "液体束胸衣",
+      "onboard_time": 1701001833,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 454495,
       "num": 454495,
       "word": "林青霞 金马终身成就奖",
@@ -716,7 +748,7 @@
     },
     {
       "raw_hot": 447353,
-      "num": 217116,
+      "num": 242616,
       "word": "考研时政7页纸",
       "onboard_time": 1701000336,
       "rank": 30,
@@ -811,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397897,
+      "num": 397897,
+      "word": "家长副驾抱娃幼童被甩出车外身亡",
+      "onboard_time": 1701003158,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395383,
       "num": 395383,
       "word": "乔欣朋友圈合照模版",
@@ -875,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370896,
+      "num": 367267,
+      "word": "田甜老公离婚前先转移财产",
+      "onboard_time": 1701002615,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370054,
       "num": 370054,
       "word": "范丞丞撤回一只摸李晨的手",
@@ -883,12 +931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 367838,
-      "num": 210436,
-      "word": "液体束胸衣",
-      "onboard_time": 1701001833,
-      "rank": 30,
-      "category": "时尚"
+      "raw_hot": 367784,
+      "num": 367784,
+      "word": "国考参考人数与录用计划数约57:1",
+      "onboard_time": 1701002495,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 366436,
@@ -904,14 +952,6 @@
       "word": "飞扬 押到了",
       "onboard_time": 1700992715,
       "rank": 22,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 362830,
-      "num": 362830,
-      "word": "上午涂彩票 下午抄资料",
-      "onboard_time": 1701001176,
-      "rank": 24,
       "category": "教育"
     },
     {
@@ -1355,6 +1395,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258998,
+      "num": 258998,
+      "word": "全红婵陈芋汐全锦赛夺冠",
+      "onboard_time": 1701004359,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258978,
+      "num": 258978,
+      "word": "佘诗曼戴了粉丝送的皇冠",
+      "onboard_time": 1701003878,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257406,
       "num": 257406,
       "word": "EDG 请补强",
@@ -1491,6 +1547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 235811,
+      "num": 235811,
+      "word": "射手座是不会有归属感的",
+      "onboard_time": 1701003518,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235124,
       "num": 161245,
       "word": "毛小星 有些小明星的素质真的太差了",
@@ -1513,6 +1577,14 @@
       "onboard_time": 1700967994,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 230128,
+      "num": 230128,
+      "word": "小杨哥演唱会 朴树",
+      "onboard_time": 1701002737,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 229833,
@@ -1547,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225819,
+      "num": 225819,
+      "word": "EDG击败RA夺冠",
+      "onboard_time": 1701002855,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225757,
       "num": 165336,
       "word": "徐艺洋是懂综艺节目套路的",
@@ -1569,14 +1649,6 @@
       "onboard_time": 1700993374,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221637,
-      "num": 207338,
-      "word": "国考参考人数与录用计划数约57:1",
-      "onboard_time": 1701002495,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 221135,
@@ -1657,6 +1729,22 @@
       "onboard_time": 1700966132,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213429,
+      "num": 213429,
+      "word": "今年国考约57人录取1人",
+      "onboard_time": 1701004173,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 213133,
+      "num": 213133,
+      "word": "金珉奎的签售是连续剧",
+      "onboard_time": 1701003936,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 212800,
@@ -1763,11 +1851,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201417,
+      "num": 201417,
+      "word": "原来仓鼠不能吃炒板栗",
+      "onboard_time": 1701004235,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200867,
       "num": 200867,
       "word": "TTG 上上签",
       "onboard_time": 1701002675,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 199661,
+      "num": 199661,
+      "word": "WB全员西装",
+      "onboard_time": 1701003518,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -1857,6 +1961,22 @@
       "onboard_time": 1700926544,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192406,
+      "num": 192406,
+      "word": "林俊杰 武汉",
+      "onboard_time": 1701004663,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 192271,
+      "num": 192271,
+      "word": "NCT127九个人的安可",
+      "onboard_time": 1701004536,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 191986,
@@ -1979,14 +2099,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 185403,
-      "num": 185403,
-      "word": "田甜老公离婚前先转移财产",
-      "onboard_time": 1701002615,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184094,
       "num": 184094,
       "word": "曾黎跳了SweetVenom",
@@ -2000,6 +2112,22 @@
       "word": "周深说每次唱歌都很紧张",
       "onboard_time": 1700968472,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183532,
+      "num": 183532,
+      "word": "你洗完澡涂身体乳吗",
+      "onboard_time": 1701003035,
+      "rank": 46,
+      "category": "社会议题,美妆"
+    },
+    {
+      "raw_hot": 182551,
+      "num": 182551,
+      "word": "孟子义为了这声甜妹拼了",
+      "onboard_time": 1701004718,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -2019,11 +2147,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180771,
+      "num": 180771,
+      "word": "亮剑四大主演再聚首",
+      "onboard_time": 1701004297,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180367,
       "num": 180367,
       "word": "EDG 最好的队长Meiko",
       "onboard_time": 1700990375,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 180350,
+      "num": 180350,
+      "word": "世冠小组赛抽签结果",
+      "onboard_time": 1701003759,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -2233,14 +2377,6 @@
       "onboard_time": 1700959890,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 151226,
-      "num": 151226,
-      "word": "小杨哥演唱会 朴树",
-      "onboard_time": 1701002737,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 151070,
@@ -2539,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94717,
+      "num": 1145944,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1701002016,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92448,
       "num": 377463,
       "word": "当代中年夫妻现状",
@@ -2745,14 +2889,6 @@
       "onboard_time": 1700907633,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 38480,
-      "num": 1140371,
-      "word": "近期呼吸道疾病防治注意事项",
-      "onboard_time": 1701002016,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37566,

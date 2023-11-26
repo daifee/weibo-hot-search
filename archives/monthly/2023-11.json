@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701002828485,
+  "endTime": 1701004747277,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2169,6 +2169,14 @@
       "onboard_time": 1699856492,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1942600,
+      "num": 1942600,
+      "word": "热狗新歌疑似diss周杰伦",
+      "onboard_time": 1701002615,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 1936465,
@@ -6163,6 +6171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1062295,
+      "num": 1062295,
+      "word": "宋轶社交 白敬亭不知道在忙什么",
+      "onboard_time": 1701003697,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1061192,
       "num": 345420,
       "word": "秦岚 我不太有综艺感",
@@ -6489,6 +6505,14 @@
       "onboard_time": 1700316394,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1025412,
+      "num": 1025412,
+      "word": "小杨哥演唱会",
+      "onboard_time": 1701000813,
+      "rank": 12,
+      "category": "演出,网红"
     },
     {
       "raw_hot": 1025111,
@@ -7025,14 +7049,6 @@
       "onboard_time": 1698832956,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 961834,
-      "num": 961834,
-      "word": "小杨哥演唱会",
-      "onboard_time": 1701000813,
-      "rank": 12,
-      "category": "演出,网红"
     },
     {
       "raw_hot": 961762,
@@ -10315,6 +10331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734732,
+      "num": 734732,
+      "word": "马来西亚将对中国游客免签",
+      "onboard_time": 1701001776,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 734706,
       "num": 734706,
       "word": "压力给到WBG",
@@ -11635,14 +11659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 673851,
-      "num": 673851,
-      "word": "马来西亚将对中国游客免签",
-      "onboard_time": 1701001776,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 673586,
       "num": 673586,
       "word": "白鹿台词 燕临你疯了",
@@ -12225,6 +12241,14 @@
       "onboard_time": 1700568935,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 647172,
+      "num": 647172,
+      "word": "杨幂新片将定档",
+      "onboard_time": 1701003158,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 646345,
@@ -15852,7 +15876,7 @@
     },
     {
       "raw_hot": 532989,
-      "num": 309516,
+      "num": 367638,
       "word": "王鹤棣听到王鹤润名字的时候笑了",
       "onboard_time": 1700997575,
       "rank": 20,
@@ -15953,6 +15977,14 @@
       "onboard_time": 1699498532,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 530262,
+      "num": 530262,
+      "word": "上午涂彩票 下午抄资料",
+      "onboard_time": 1701001176,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 530050,
@@ -16185,14 +16217,6 @@
       "onboard_time": 1699696949,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 522872,
-      "num": 522872,
-      "word": "热狗新歌疑似diss周杰伦",
-      "onboard_time": 1701002615,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 522758,
@@ -18939,6 +18963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457787,
+      "num": 457787,
+      "word": "液体束胸衣",
+      "onboard_time": 1701001833,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 457759,
       "num": 1554195,
       "word": "山西被埋工地已确认7人遇难",
@@ -19372,7 +19404,7 @@
     },
     {
       "raw_hot": 447353,
-      "num": 217116,
+      "num": 242616,
       "word": "考研时政7页纸",
       "onboard_time": 1701000336,
       "rank": 30,
@@ -22179,6 +22211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 397897,
+      "num": 397897,
+      "word": "家长副驾抱娃幼童被甩出车外身亡",
+      "onboard_time": 1701003158,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397853,
       "num": 360620,
       "word": "华晨宇飞行模式歌词",
@@ -24051,6 +24091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370896,
+      "num": 367267,
+      "word": "田甜老公离婚前先转移财产",
+      "onboard_time": 1701002615,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370829,
       "num": 370829,
       "word": "这种小说的受众到底是谁",
@@ -24203,20 +24251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367838,
-      "num": 210436,
-      "word": "液体束胸衣",
-      "onboard_time": 1701001833,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 367831,
       "num": 367831,
       "word": "罗海琼回应变老",
       "onboard_time": 1700046573,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367784,
+      "num": 367784,
+      "word": "国考参考人数与录用计划数约57:1",
+      "onboard_time": 1701002495,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 367754,
@@ -24593,14 +24641,6 @@
       "onboard_time": 1700298273,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 362830,
-      "num": 362830,
-      "word": "上午涂彩票 下午抄资料",
-      "onboard_time": 1701001176,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 362786,
@@ -34043,6 +34083,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258998,
+      "num": 258998,
+      "word": "全红婵陈芋汐全锦赛夺冠",
+      "onboard_time": 1701004359,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258978,
+      "num": 258978,
+      "word": "佘诗曼戴了粉丝送的皇冠",
+      "onboard_time": 1701003878,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258976,
       "num": 258976,
       "word": "男子10亩香菜长太高免费送村民",
@@ -37307,6 +37363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 235811,
+      "num": 235811,
+      "word": "射手座是不会有归属感的",
+      "onboard_time": 1701003518,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235792,
       "num": 235792,
       "word": "1700元的林清轩香水下架",
@@ -38179,6 +38243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230128,
+      "num": 230128,
+      "word": "小杨哥演唱会 朴树",
+      "onboard_time": 1701002737,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230034,
       "num": 230034,
       "word": "网传异人之下2诸葛青换人",
@@ -38955,6 +39027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225819,
+      "num": 225819,
+      "word": "EDG击败RA夺冠",
+      "onboard_time": 1701002855,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225817,
       "num": 225817,
       "word": "我为什么放弃所谓的贵妇护肤品",
@@ -39657,14 +39737,6 @@
       "onboard_time": 1700542662,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221637,
-      "num": 207338,
-      "word": "国考参考人数与录用计划数约57:1",
-      "onboard_time": 1701002495,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 221627,
@@ -41163,6 +41235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213429,
+      "num": 213429,
+      "word": "今年国考约57人录取1人",
+      "onboard_time": 1701004173,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 213402,
       "num": 213402,
       "word": "王安宇 讨好型人格",
@@ -41225,6 +41305,14 @@
       "onboard_time": 1700564434,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213133,
+      "num": 213133,
+      "word": "金珉奎的签售是连续剧",
+      "onboard_time": 1701003936,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 213115,
@@ -44099,6 +44187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201417,
+      "num": 201417,
+      "word": "原来仓鼠不能吃炒板栗",
+      "onboard_time": 1701004235,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201380,
       "num": 249958,
       "word": "黄曦彦 我的家人也在猪圈长大",
@@ -44569,6 +44665,14 @@
       "onboard_time": 1700813797,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199661,
+      "num": 199661,
+      "word": "WB全员西装",
+      "onboard_time": 1701003518,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 199658,
@@ -46699,6 +46803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192406,
+      "num": 192406,
+      "word": "林俊杰 武汉",
+      "onboard_time": 1701004663,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192361,
       "num": 192361,
       "word": "官方通报网传国企领导别停客车",
@@ -46721,6 +46833,14 @@
       "onboard_time": 1699529675,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192271,
+      "num": 192271,
+      "word": "NCT127九个人的安可",
+      "onboard_time": 1701004536,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 192263,
@@ -48779,14 +48899,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 185403,
-      "num": 185403,
-      "word": "田甜老公离婚前先转移财产",
-      "onboard_time": 1701002615,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185382,
       "num": 185382,
       "word": "明日方舟 感谢庆典",
@@ -49251,6 +49363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183532,
+      "num": 183532,
+      "word": "你洗完澡涂身体乳吗",
+      "onboard_time": 1701003035,
+      "rank": 46,
+      "category": "社会议题,美妆"
+    },
+    {
       "raw_hot": 183497,
       "num": 183497,
       "word": "秦岚 治愈",
@@ -49417,6 +49537,14 @@
       "onboard_time": 1699831707,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182551,
+      "num": 182551,
+      "word": "孟子义为了这声甜妹拼了",
+      "onboard_time": 1701004718,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 182512,
@@ -49731,6 +49859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180771,
+      "num": 180771,
+      "word": "亮剑四大主演再聚首",
+      "onboard_time": 1701004297,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180669,
       "num": 180669,
       "word": "在上海遇到她能多买几支花吗",
@@ -49824,6 +49960,14 @@
       "word": "EDG 最好的队长Meiko",
       "onboard_time": 1700990375,
       "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 180350,
+      "num": 180350,
+      "word": "世冠小组赛抽签结果",
+      "onboard_time": 1701003759,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -56393,14 +56537,6 @@
       "onboard_time": 1699252771,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151226,
-      "num": 151226,
-      "word": "小杨哥演唱会 朴树",
-      "onboard_time": 1701002737,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 151197,
@@ -67467,6 +67603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94717,
+      "num": 1145944,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1701002016,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94685,
       "num": 94685,
       "word": "好喜欢花少5的家庭氛围感",
@@ -70889,14 +71033,6 @@
       "onboard_time": 1699155451,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 38480,
-      "num": 1140371,
-      "word": "近期呼吸道疾病防治注意事项",
-      "onboard_time": 1701002016,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38469,
