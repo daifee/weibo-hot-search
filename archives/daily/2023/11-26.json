@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700993866085,
+  "endTime": 1700994859880,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1553682,
+      "num": 1553682,
+      "word": "韩网评尖叫之夜男明星造型",
+      "onboard_time": 1700992715,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1446148,
       "num": 1446148,
       "word": "男子总拉肚子查出5处癌",
@@ -123,8 +131,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1313583,
-      "num": 1313583,
+      "raw_hot": 1360689,
+      "num": 1360689,
       "word": "演唱会下沉到县城之后",
       "onboard_time": 1700991335,
       "rank": 3,
@@ -152,14 +160,6 @@
       "word": "杨幂王鹤棣台下扔水瓶",
       "onboard_time": 1700955143,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1288047,
-      "num": 1288047,
-      "word": "韩网评尖叫之夜男明星造型",
-      "onboard_time": 1700992715,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -267,19 +267,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 836362,
+      "num": 836362,
+      "word": "申论大作文 材料写完了我写啥",
+      "onboard_time": 1700991696,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 801916,
       "num": 801916,
       "word": "国考结束",
       "onboard_time": 1700990072,
       "rank": 32,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 797627,
-      "num": 797627,
-      "word": "申论大作文 材料写完了我写啥",
-      "onboard_time": 1700991696,
-      "rank": 9,
       "category": "教育"
     },
     {
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 608671,
-      "num": 1319798,
+      "num": 1876164,
       "word": "福宝公主明天见",
       "onboard_time": 1700988871,
       "rank": 16,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 517998,
-      "num": 386412,
+      "num": 430431,
       "word": "初一女生每天只睡6个半小时妈妈很焦虑",
       "onboard_time": 1700984612,
       "rank": 20,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 514619,
-      "num": 272870,
+      "num": 313418,
       "word": "李一桐尖叫之夜五套造型",
       "onboard_time": 1700987492,
       "rank": 33,
@@ -651,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 414394,
+      "num": 1388712,
+      "word": "全城寻找的粉衣小姐姐找到了",
+      "onboard_time": 1700992236,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412893,
       "num": 412893,
       "word": "国考申论难吗",
@@ -688,6 +696,22 @@
       "word": "宋轶白敬亭魏大勋 切镜头",
       "onboard_time": 1700914908,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395383,
+      "num": 395383,
+      "word": "乔欣朋友圈合照模版",
+      "onboard_time": 1700994393,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 393552,
+      "num": 393552,
+      "word": "aespa票选队内素颜王者",
+      "onboard_time": 1700993195,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 378764,
-      "num": 242493,
+      "num": 342887,
       "word": "国产剧婚姻终于不吵架不出轨了",
       "onboard_time": 1700985031,
       "rank": 21,
@@ -745,6 +769,14 @@
       "onboard_time": 1700978133,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 365543,
+      "num": 365543,
+      "word": "飞扬 押到了",
+      "onboard_time": 1700992715,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 361974,
@@ -761,14 +793,6 @@
       "onboard_time": 1700991393,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 359049,
-      "num": 359049,
-      "word": "飞扬 押到了",
-      "onboard_time": 1700992715,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 358465,
@@ -881,14 +905,6 @@
       "onboard_time": 1700989650,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 324002,
-      "num": 1288769,
-      "word": "全城寻找的粉衣小姐姐找到了",
-      "onboard_time": 1700992236,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321850,
@@ -1019,6 +1035,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 292426,
+      "num": 292426,
+      "word": "无畏深V",
+      "onboard_time": 1700994273,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288969,
       "num": 275036,
       "word": "你俩把眼睛闭上别吓到李荣浩",
@@ -1051,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283953,
+      "num": 277629,
+      "word": "奶奶你知道我找睫毛夹有多辛苦吗",
+      "onboard_time": 1700994033,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283828,
       "num": 283828,
       "word": "王者荣耀",
@@ -1072,6 +1104,14 @@
       "word": "Uzi回应为何决定复出",
       "onboard_time": 1700979213,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 282486,
+      "num": 277579,
+      "word": "Knight关注BLG下路双人组",
+      "onboard_time": 1700993677,
+      "rank": 34,
       "category": "电竞"
     },
     {
@@ -1128,14 +1168,6 @@
       "word": "爱奇艺尖叫之夜男女明星微指",
       "onboard_time": 1700966313,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 261037,
-      "num": 261037,
-      "word": "aespa票选队内素颜王者",
-      "onboard_time": 1700993195,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1307,6 +1339,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 229561,
+      "num": 229561,
+      "word": "何嘉如怀着二胎假离婚",
+      "onboard_time": 1700993315,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225757,
       "num": 165336,
       "word": "徐艺洋是懂综艺节目套路的",
@@ -1371,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216571,
+      "num": 216571,
+      "word": "白鹿 行走的麦霸",
+      "onboard_time": 1700993374,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216172,
       "num": 216172,
       "word": "丁程鑫吓到面无血色",
@@ -1419,22 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210649,
-      "num": 210649,
-      "word": "Knight关注BLG下路双人组",
-      "onboard_time": 1700993677,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 208868,
-      "num": 208868,
-      "word": "何嘉如怀着二胎假离婚",
-      "onboard_time": 1700993315,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208840,
       "num": 208840,
       "word": "国考时间",
@@ -1472,6 +1504,14 @@
       "word": "一念关山美女团建",
       "onboard_time": 1700972735,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204976,
+      "num": 204976,
+      "word": "燕临 鲜衣怒马少年郎",
+      "onboard_time": 1700994455,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1513,6 +1553,14 @@
       "onboard_time": 1700956646,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196565,
+      "num": 196565,
+      "word": "三代新策划选队长 苏新皓逆袭",
+      "onboard_time": 1700993915,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 194725,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1700968594,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189403,
+      "num": 189403,
+      "word": "一诺西装造型",
+      "onboard_time": 1700994335,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 189162,
@@ -1736,14 +1792,6 @@
       "word": "宋江新剧",
       "onboard_time": 1700979990,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 167791,
-      "num": 165654,
-      "word": "白鹿 行走的麦霸",
-      "onboard_time": 1700993374,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1908,7 +1956,7 @@
     },
     {
       "raw_hot": 147585,
-      "num": 1316190,
+      "num": 1628763,
       "word": "不同病原体感染后症状有何不同",
       "onboard_time": 1700985031,
       "rank": 2,
@@ -2283,6 +2331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57926,
+      "num": 441804,
+      "word": "谁的青春DNA动了",
+      "onboard_time": 1700992836,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56047,
       "num": 61288,
       "word": "老中医教的7个疏肝解郁法",
@@ -2321,14 +2377,6 @@
       "onboard_time": 1700907633,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 48101,
-      "num": 441804,
-      "word": "谁的青春DNA动了",
-      "onboard_time": 1700992836,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 37566,
