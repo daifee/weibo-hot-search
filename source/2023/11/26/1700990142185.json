@@ -1,0 +1,410 @@
+{
+  "runTime": 1700990142185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1050753,
+        "num": 1050753,
+        "word": "虞书欣也在嗑白敬亭宋轶",
+        "onboard_time": 1700981192,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 892512,
+        "num": 892512,
+        "word": "男子总拉肚子查出5处癌",
+        "onboard_time": 1700971473,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92926,
+        "num": 866721,
+        "word": "不同病原体感染后症状有何不同",
+        "onboard_time": 1700985031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860761,
+        "num": 860761,
+        "word": "王鹤棣躺在王传君怀里聊天",
+        "onboard_time": 1700985932,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763379,
+        "num": 763379,
+        "word": "国考行测",
+        "onboard_time": 1700969435,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 541303,
+        "num": 541303,
+        "word": "林俊杰嘉宾 孙燕姿",
+        "onboard_time": 1700988513,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 506895,
+        "num": 506895,
+        "word": "国考和考研哪个难",
+        "onboard_time": 1700981132,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 464017,
+        "num": 464017,
+        "word": "旭旭宝宝",
+        "onboard_time": 1700968896,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 448936,
+        "num": 448936,
+        "word": "Knight 哪里高就",
+        "onboard_time": 1700988633,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 390604,
+        "num": 390604,
+        "word": "诺言说花海真帅",
+        "onboard_time": 1700988513,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1302522,
+        "num": 380235,
+        "word": "王诗龄粉色抹胸纱裙",
+        "onboard_time": 1700985270,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 877674,
+        "num": 371225,
+        "word": "于和伟亲马东全过程",
+        "onboard_time": 1700977951,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358465,
+        "num": 358465,
+        "word": "刘宇宁演技",
+        "onboard_time": 1700986472,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303665,
+        "num": 303665,
+        "word": "一个18寸的披萨比两个12寸的披萨大",
+        "onboard_time": 1700980229,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 280035,
+        "num": 280035,
+        "word": "曾舜晞饿了一天结果就一瓶水",
+        "onboard_time": 1700980773,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274676,
+        "num": 274676,
+        "word": "张凌赫说喜欢看白鹿做手工",
+        "onboard_time": 1700981012,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263149,
+        "num": 263149,
+        "word": "福宝公主明天见",
+        "onboard_time": 1700988871,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260645,
+        "num": 260645,
+        "word": "秦岚领奖魏大勋怕被切镜头提前离场",
+        "onboard_time": 1700967510,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249233,
+        "num": 249233,
+        "word": "2024国考平均约77人竞争一岗位",
+        "onboard_time": 1700984674,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237677,
+        "num": 237677,
+        "word": "国考前四川现七彩祥云",
+        "onboard_time": 1700988153,
+        "rank": 19,
+        "category": "自然,教育"
+      },
+      {
+        "raw_hot": 800634,
+        "num": 237445,
+        "word": "金钟大女儿这么大了",
+        "onboard_time": 1700989412,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514619,
+        "num": 237174,
+        "word": "李一桐尖叫之夜五套造型",
+        "onboard_time": 1700987492,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 500233,
+        "num": 236980,
+        "word": "初一女生每天只睡6个半小时妈妈很焦虑",
+        "onboard_time": 1700984612,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 350249,
+        "num": 236808,
+        "word": "国产剧婚姻终于不吵架不出轨了",
+        "onboard_time": 1700985031,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236583,
+        "num": 236583,
+        "word": "长安汽车与华为签署投资合作备忘录",
+        "onboard_time": 1700989291,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 226952,
+        "num": 226952,
+        "word": "行测全靠蒙申论练书法",
+        "onboard_time": 1700989650,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225479,
+        "num": 225479,
+        "word": "马嘉祺 迪士尼",
+        "onboard_time": 1700983174,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223505,
+        "num": 223505,
+        "word": "刘诗诗紫色宫装造型",
+        "onboard_time": 1700987312,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219894,
+        "num": 219894,
+        "word": "BLG 中单",
+        "onboard_time": 1700978191,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176752,
+        "num": 209392,
+        "word": "近期我国急性呼吸道疾病持续上升",
+        "onboard_time": 1700984732,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207645,
+        "num": 207645,
+        "word": "警方通报特斯拉连撞11车事故",
+        "onboard_time": 1700977771,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202407,
+        "num": 202407,
+        "word": "XG官宣世巡",
+        "onboard_time": 1700989412,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193852,
+        "num": 193852,
+        "word": "国考结束",
+        "onboard_time": 1700990072,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191731,
+        "num": 191731,
+        "word": "一部拍了60年的电影",
+        "onboard_time": 1700975014,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179648,
+        "num": 179648,
+        "word": "爱奇艺就不能放点果盘瓜子吗",
+        "onboard_time": 1700967393,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178152,
+        "num": 178152,
+        "word": "刘宇宁一念关山定妆花絮",
+        "onboard_time": 1700988391,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177510,
+        "num": 177510,
+        "word": "白敬亭倪妮坐一起",
+        "onboard_time": 1700982815,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172890,
+        "num": 172890,
+        "word": "崔胜澈机场图",
+        "onboard_time": 1700986233,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169134,
+        "num": 169134,
+        "word": "封神 狐传人现象",
+        "onboard_time": 1700983114,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 164846,
+        "num": 164846,
+        "word": "张大仙直播",
+        "onboard_time": 1700974292,
+        "rank": 39,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 162804,
+        "num": 162804,
+        "word": "叶逸凡老婆奴",
+        "onboard_time": 1700989956,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159324,
+        "num": 159324,
+        "word": "男性 HPV",
+        "onboard_time": 1700975494,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159247,
+        "num": 159247,
+        "word": "王鹤棣发文说多谢",
+        "onboard_time": 1700983891,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155888,
+        "num": 155888,
+        "word": "Doinb",
+        "onboard_time": 1700978133,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148181,
+        "num": 148181,
+        "word": "2024国考报考河南人数全国第三",
+        "onboard_time": 1700989771,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139054,
+        "num": 139054,
+        "word": "外媒爆料Rookie加入NIP",
+        "onboard_time": 1700981433,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138286,
+        "num": 138286,
+        "word": "马英九称台湾是台湾省不是国名",
+        "onboard_time": 1700965770,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135588,
+        "num": 135588,
+        "word": "秦海璐胡先煦共享衣橱",
+        "onboard_time": 1700986112,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132698,
+        "num": 132698,
+        "word": "不要让工作耽误了滑雪",
+        "onboard_time": 1700986532,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130664,
+        "num": 130664,
+        "word": "EDG 请补强",
+        "onboard_time": 1700983652,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#在数字经济互联网等领域持续扩大开放#"
+    }
+  }
+}
