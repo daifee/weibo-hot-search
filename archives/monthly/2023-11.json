@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700979700219,
+  "endTime": 1700980453258,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -227,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 6973735,
+      "num": 6973735,
+      "word": "于和伟亲马东全过程",
+      "onboard_time": 1700977951,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6800962,
       "num": 6800962,
       "word": "白敬亭工作室辟谣",
@@ -289,14 +297,6 @@
       "onboard_time": 1699787671,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 5027368,
-      "num": 5027368,
-      "word": "于和伟亲马东全过程",
-      "onboard_time": 1700977951,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 4890272,
@@ -17611,6 +17611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480399,
+      "num": 480399,
+      "word": "BLG 中单",
+      "onboard_time": 1700978191,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 479959,
       "num": 479959,
       "word": "中国首只纯国产克隆小橘猫在青岛诞生",
@@ -17795,14 +17803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 476691,
-      "num": 476691,
-      "word": "BLG 中单",
-      "onboard_time": 1700978191,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 476465,
       "num": 310683,
       "word": "同宿舍6女生拒绝内卷全员保研",
@@ -17841,6 +17841,14 @@
       "onboard_time": 1699438234,
       "rank": 6,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 475299,
+      "num": 469353,
+      "word": "一部拍了60年的电影",
+      "onboard_time": 1700975014,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 475168,
@@ -17889,14 +17897,6 @@
       "onboard_time": 1699671150,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 474373,
-      "num": 469353,
-      "word": "一部拍了60年的电影",
-      "onboard_time": 1700975014,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 474337,
@@ -30731,6 +30731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 283587,
+      "num": 190099,
+      "word": "Uzi回应为何决定复出",
+      "onboard_time": 1700979213,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 283583,
       "num": 283583,
       "word": "流感",
@@ -31489,14 +31497,6 @@
       "onboard_time": 1698973770,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 276800,
-      "num": 190099,
-      "word": "Uzi回应为何决定复出",
-      "onboard_time": 1700979213,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 276764,
@@ -40635,6 +40635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212800,
+      "num": 212800,
+      "word": "行测结束网友自嘲轻舟已撞大冰山",
+      "onboard_time": 1700979450,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 212773,
       "num": 212773,
       "word": "哥本哈根4比3曼联",
@@ -40849,6 +40857,14 @@
       "onboard_time": 1699279902,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211748,
+      "num": 176286,
+      "word": "一个18寸的披萨比两个12寸的披萨大",
+      "onboard_time": 1700980229,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 211632,
@@ -50139,6 +50155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175339,
+      "num": 175339,
+      "word": "原来王一栩昨晚也在尖叫之夜",
+      "onboard_time": 1700980109,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175316,
       "num": 175316,
       "word": "画包包 爆率",
@@ -51521,6 +51545,14 @@
       "onboard_time": 1699870955,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168896,
+      "num": 168896,
+      "word": "宋江新剧",
+      "onboard_time": 1700979990,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 168894,
@@ -53011,6 +53043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162927,
+      "num": 162927,
+      "word": "刘些宁花仙子",
+      "onboard_time": 1700978552,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162870,
       "num": 162870,
       "word": "莫兰德找李宁要装备",
@@ -53041,14 +53081,6 @@
       "onboard_time": 1699155393,
       "rank": 33,
       "category": "健康医疗,知识科普"
-    },
-    {
-      "raw_hot": 162663,
-      "num": 162663,
-      "word": "刘些宁花仙子",
-      "onboard_time": 1700978552,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 162610,
@@ -54643,6 +54675,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 155215,
+      "num": 155215,
+      "word": "杨迪摔到怀疑人生",
+      "onboard_time": 1700980229,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155130,
       "num": 155130,
       "word": "萌兰小跑返场调皮又可爱",
@@ -55659,6 +55699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150353,
+      "num": 150353,
+      "word": "早期女明星妆",
+      "onboard_time": 1700979990,
+      "rank": 39,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 150319,
       "num": 169250,
       "word": "叠纸新游视频被打码",
@@ -56065,14 +56113,6 @@
       "onboard_time": 1698976652,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148713,
-      "num": 148713,
-      "word": "行测结束网友自嘲轻舟已撞大冰山",
-      "onboard_time": 1700979450,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 148702,
@@ -58195,6 +58235,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 139939,
+      "num": 139939,
+      "word": "4毛一片的国货卫生巾",
+      "onboard_time": 1700977891,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139908,
       "num": 139908,
       "word": "保湿面霜并非越贵越好",
@@ -58745,14 +58793,6 @@
       "onboard_time": 1699092749,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137072,
-      "num": 137072,
-      "word": "4毛一片的国货卫生巾",
-      "onboard_time": 1700977891,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136955,
@@ -59361,6 +59401,14 @@
       "onboard_time": 1699261411,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134206,
+      "num": 134206,
+      "word": "学会看健康体检报告",
+      "onboard_time": 1700980229,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134182,
@@ -62153,6 +62201,14 @@
       "onboard_time": 1699061733,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 122291,
+      "num": 122291,
+      "word": "论突然公开提到前任能有多尴尬",
+      "onboard_time": 1700979931,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 122264,

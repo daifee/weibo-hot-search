@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700979700219,
+  "endTime": 1700980453258,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 5027368,
-      "num": 5027368,
+      "raw_hot": 6973735,
+      "num": 6973735,
       "word": "于和伟亲马东全过程",
       "onboard_time": 1700977951,
       "rank": 0,
@@ -371,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480399,
+      "num": 480399,
+      "word": "BLG 中单",
+      "onboard_time": 1700978191,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 478491,
       "num": 478491,
       "word": "思梦给杨幂化的妆",
@@ -379,15 +387,7 @@
       "category": "综艺,美妆"
     },
     {
-      "raw_hot": 476691,
-      "num": 476691,
-      "word": "BLG 中单",
-      "onboard_time": 1700978191,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 474373,
+      "raw_hot": 475299,
       "num": 469353,
       "word": "一部拍了60年的电影",
       "onboard_time": 1700975014,
@@ -779,20 +779,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 283587,
+      "num": 190099,
+      "word": "Uzi回应为何决定复出",
+      "onboard_time": 1700979213,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 277671,
       "num": 277671,
       "word": "以闪亮之名",
       "onboard_time": 1700972253,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 276800,
-      "num": 190099,
-      "word": "Uzi回应为何决定复出",
-      "onboard_time": 1700979213,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 274567,
@@ -1011,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212800,
+      "num": 212800,
+      "word": "行测结束网友自嘲轻舟已撞大冰山",
+      "onboard_time": 1700979450,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 212759,
       "num": 147465,
       "word": "杨幂脸上藏不住一点事",
       "onboard_time": 1700958449,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211748,
+      "num": 176286,
+      "word": "一个18寸的披萨比两个12寸的披萨大",
+      "onboard_time": 1700980229,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 208840,
@@ -1195,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175339,
+      "num": 175339,
+      "word": "原来王一栩昨晚也在尖叫之夜",
+      "onboard_time": 1700980109,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174772,
       "num": 668260,
       "word": "千万别用吃很多药预防呼吸道疾病",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1700962352,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168896,
+      "num": 168896,
+      "word": "宋江新剧",
+      "onboard_time": 1700979990,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 166638,
@@ -1259,20 +1291,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162927,
+      "num": 162927,
+      "word": "刘些宁花仙子",
+      "onboard_time": 1700978552,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162901,
       "num": 162901,
       "word": "国考周日开考",
       "onboard_time": 1700876730,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 162663,
-      "num": 162663,
-      "word": "刘些宁花仙子",
-      "onboard_time": 1700978552,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161546,
@@ -1307,6 +1339,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 155215,
+      "num": 155215,
+      "word": "杨迪摔到怀疑人生",
+      "onboard_time": 1700980229,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152516,
       "num": 152516,
       "word": "化妆最大的价值",
@@ -1323,12 +1363,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 148713,
-      "num": 148713,
-      "word": "行测结束网友自嘲轻舟已撞大冰山",
-      "onboard_time": 1700979450,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 150353,
+      "num": 150353,
+      "word": "早期女明星妆",
+      "onboard_time": 1700979990,
+      "rank": 39,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 148459,
@@ -1363,12 +1403,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 137072,
-      "num": 137072,
+      "raw_hot": 139939,
+      "num": 139939,
       "word": "4毛一片的国货卫生巾",
       "onboard_time": 1700977891,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134206,
+      "num": 134206,
+      "word": "学会看健康体检报告",
+      "onboard_time": 1700980229,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134188,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1700952137,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122291,
+      "num": 122291,
+      "word": "论突然公开提到前任能有多尴尬",
+      "onboard_time": 1700979931,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 118451,
