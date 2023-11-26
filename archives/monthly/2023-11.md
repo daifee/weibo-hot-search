@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/26 22:33:58
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/26 23:16:13
 </p>
 </blockquote>
 <p>
@@ -4251,6 +4251,12 @@ iG官宣新阵容（热度：1158154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E4%BA%BA%E5%98%8E%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E8%A6%81%E9%AA%82%E7%94%84%E5%AC%9B%E4%B8%80%E5%8F%A5%23" target="weibo">
+每个人嘎的时候都要骂甄嬛一句（热度：1143212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E8%AF%B4%E7%94%B7%E5%8F%8B%E6%89%AE%E7%8C%AA%E5%90%83%E8%80%81%E8%99%8E%23" target="weibo">
 金莎说男友扮猪吃老虎（热度：1142437）
 </a>
@@ -6005,12 +6011,6 @@ ChatGPT可能已经有了意识（热度：873431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E8%BF%99%E4%B8%8D%E6%8C%BA%E4%BC%9A%E5%94%B1%E7%9A%84%23" target="weibo">
 丞磊这不挺会唱的（热度：868752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E8%83%9C%E6%B1%89%20%E5%B4%94%E7%A7%80%E5%BD%AC%23" target="weibo">
-洪胜汉 崔秀彬（热度：868397）
 </a>
 </li>
 

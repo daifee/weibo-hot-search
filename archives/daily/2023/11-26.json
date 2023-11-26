@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701009238092,
+  "endTime": 1701011773319,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -219,6 +219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1143212,
+      "num": 1143212,
+      "word": "每个人嘎的时候都要骂甄嬛一句",
+      "onboard_time": 1701008077,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1066447,
       "num": 526796,
       "word": "家长副驾抱娃幼童被甩出车外身亡",
@@ -329,6 +337,14 @@
       "onboard_time": 1700985932,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 860343,
+      "num": 860343,
+      "word": "为什么肚子总是咕噜咕噜响",
+      "onboard_time": 1701009760,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 838402,
@@ -475,6 +491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 624042,
+      "num": 396361,
+      "word": "张婧仪 越素越美",
+      "onboard_time": 1701009099,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 610588,
       "num": 610588,
       "word": "正式被确诊为试管",
@@ -569,6 +593,14 @@
       "onboard_time": 1700970757,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 551601,
+      "num": 551601,
+      "word": "花少 迪丽热巴双商",
+      "onboard_time": 1701010237,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 545621,
@@ -697,14 +729,6 @@
       "onboard_time": 1700972913,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 486082,
-      "num": 346795,
-      "word": "每个人嘎的时候都要骂甄嬛一句",
-      "onboard_time": 1701008077,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 483917,
@@ -937,6 +961,14 @@
       "onboard_time": 1700953520,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 391504,
+      "num": 391504,
+      "word": "曾舜晞 怎么你们有饭吃",
+      "onboard_time": 1701010775,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 391421,
@@ -1195,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317922,
+      "num": 317922,
+      "word": "帕梅拉不敢吃鸡爪",
+      "onboard_time": 1701009035,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 316946,
       "num": 316946,
       "word": "虞书欣晒尖叫之夜奖杯",
@@ -1259,12 +1299,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 303369,
+      "num": 303369,
+      "word": "李苗苗 下鱼了",
+      "onboard_time": 1701008919,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300296,
       "num": 300296,
       "word": "儿科医生说口服药能解决的不建议输液",
       "onboard_time": 1700958809,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 299405,
+      "num": 299405,
+      "word": "小杨哥演唱会 Twins",
+      "onboard_time": 1701011365,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 298947,
@@ -1347,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286629,
+      "num": 269836,
+      "word": "成毅张凌赫一个憨一个盲",
+      "onboard_time": 1701008677,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285883,
       "num": 285883,
       "word": "张杰 泡沫",
@@ -1385,6 +1449,14 @@
       "onboard_time": 1700986532,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 283615,
+      "num": 283615,
+      "word": "这种碳水不仅能减肚子还能改善脂肪肝",
+      "onboard_time": 1701007958,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 283587,
@@ -1459,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269755,
+      "num": 269755,
+      "word": "国考笔试报名261.3万人实到225.2万人",
+      "onboard_time": 1701009696,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 264825,
       "num": 247713,
       "word": "王鹤棣发文说多谢",
@@ -1521,22 +1601,6 @@
       "onboard_time": 1700984674,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 253079,
-      "num": 253079,
-      "word": "张婧仪 越素越美",
-      "onboard_time": 1701009099,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 252923,
-      "num": 252923,
-      "word": "李苗苗 下鱼了",
-      "onboard_time": 1701008919,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 252622,
@@ -1625,14 +1689,6 @@
       "onboard_time": 1700913043,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244354,
-      "num": 244354,
-      "word": "成毅张凌赫一个憨一个盲",
-      "onboard_time": 1701008677,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 241425,
@@ -2011,14 +2067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199775,
-      "num": 199775,
-      "word": "这种碳水不仅能减肚子还能改善脂肪肝",
-      "onboard_time": 1701007958,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 199661,
       "num": 199661,
       "word": "WB全员西装",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1700969793,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193080,
+      "num": 193080,
+      "word": "何泓姗太爱鲁班7号了",
+      "onboard_time": 1701011017,
+      "rank": 34,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 192614,
@@ -2331,14 +2387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178508,
-      "num": 178508,
-      "word": "帕梅拉不敢吃鸡爪",
-      "onboard_time": 1701009035,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 178152,
       "num": 178152,
       "word": "刘宇宁一念关山定妆花絮",
@@ -2507,6 +2555,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 158954,
+      "num": 158954,
+      "word": "汪苏泷舞台",
+      "onboard_time": 1701011734,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156374,
+      "num": 156374,
+      "word": "刘诗诗和如意淮竹同在",
+      "onboard_time": 1701011500,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155912,
       "num": 155912,
       "word": "NewJeans和JYP歌舞表演观众反应对比",
@@ -2521,6 +2585,14 @@
       "onboard_time": 1701000154,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155505,
+      "num": 155505,
+      "word": "热刺主场悼念维纳布尔斯",
+      "onboard_time": 1701010058,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 153631,
@@ -2675,6 +2747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138659,
+      "num": 138659,
+      "word": "HITANDRUN夺冠",
+      "onboard_time": 1701010716,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138024,
       "num": 138024,
       "word": "佘诗曼说文慧心不懂生活",
@@ -2745,6 +2825,14 @@
       "onboard_time": 1700906258,
       "rank": 28,
       "category": "国外时政,科学科普"
+    },
+    {
+      "raw_hot": 124747,
+      "num": 135716,
+      "word": "重庆狼队新中式造型",
+      "onboard_time": 1701010477,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 124457,
