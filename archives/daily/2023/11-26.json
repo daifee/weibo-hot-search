@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700982937562,
+  "endTime": 1700984045417,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1241880,
+      "num": 1241880,
+      "word": "虞书欣也在嗑白敬亭宋轶",
+      "onboard_time": 1700981192,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1185764,
       "num": 1185764,
       "word": "行政执法卷 歹毒",
@@ -129,14 +137,6 @@
       "onboard_time": 1700959050,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1052347,
-      "num": 1052347,
-      "word": "虞书欣也在嗑白敬亭宋轶",
-      "onboard_time": 1700981192,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1032619,
@@ -355,6 +355,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 516574,
+      "num": 516574,
+      "word": "张凌赫说喜欢看白鹿做手工",
+      "onboard_time": 1700981012,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513057,
       "num": 283512,
       "word": "男性 HPV",
@@ -363,20 +371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502925,
+      "num": 356762,
+      "word": "白敬亭倪妮坐一起",
+      "onboard_time": 1700982815,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496901,
       "num": 496901,
       "word": "图推好难",
       "onboard_time": 1700970633,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 493571,
-      "num": 493571,
-      "word": "张凌赫说喜欢看白鹿做手工",
-      "onboard_time": 1700981012,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 486959,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 449402,
-      "num": 357187,
+      "num": 420943,
       "word": "曾舜晞饿了一天结果就一瓶水",
       "onboard_time": 1700980773,
       "rank": 10,
@@ -489,14 +497,6 @@
       "onboard_time": 1700970153,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 434883,
-      "num": 356762,
-      "word": "白敬亭倪妮坐一起",
-      "onboard_time": 1700982815,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 425849,
@@ -587,8 +587,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 357850,
-      "num": 357850,
+      "raw_hot": 362653,
+      "num": 362653,
       "word": "国考和考研哪个难",
       "onboard_time": 1700981132,
       "rank": 9,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342205,
+      "num": 342205,
+      "word": "马嘉祺 迪士尼",
+      "onboard_time": 1700983174,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340805,
       "num": 340805,
       "word": "涵艺爆料Yagao加入JDG",
@@ -675,8 +683,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324942,
-      "num": 324942,
+      "raw_hot": 328591,
+      "num": 328591,
       "word": "一个18寸的披萨比两个12寸的披萨大",
       "onboard_time": 1700980229,
       "rank": 31,
@@ -787,6 +795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 298009,
+      "num": 298009,
+      "word": "外媒爆料Rookie加入NIP",
+      "onboard_time": 1700981433,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 295978,
       "num": 243622,
       "word": "胡先煦 沙特人是真的很喜欢中国人",
@@ -811,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288238,
-      "num": 288238,
-      "word": "外媒爆料Rookie加入NIP",
-      "onboard_time": 1700981433,
-      "rank": 18,
-      "category": "电竞"
+      "raw_hot": 287404,
+      "num": 287404,
+      "word": "成毅回座位还得开导航",
+      "onboard_time": 1700981494,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 285883,
@@ -939,19 +955,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 247713,
+      "num": 247713,
+      "word": "王鹤棣发文说多谢",
+      "onboard_time": 1700983891,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247237,
       "num": 182044,
       "word": "王鹤棣 e人社交",
       "onboard_time": 1700959230,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 245935,
-      "num": 245935,
-      "word": "成毅回座位还得开导航",
-      "onboard_time": 1700981494,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1001,6 +1017,14 @@
       "onboard_time": 1700967994,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 229833,
+      "num": 229833,
+      "word": "小杨哥演唱会直播不带货",
+      "onboard_time": 1700980954,
+      "rank": 26,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 225757,
@@ -1059,20 +1083,20 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 219669,
-      "num": 219669,
-      "word": "小杨哥演唱会直播不带货",
-      "onboard_time": 1700980954,
-      "rank": 26,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 217851,
       "num": 217851,
       "word": "二进制小品",
       "onboard_time": 1700959831,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216172,
+      "num": 216172,
+      "word": "丁程鑫吓到面无血色",
+      "onboard_time": 1700981734,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 215365,
@@ -1123,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207651,
-      "num": 207651,
-      "word": "丁程鑫吓到面无血色",
-      "onboard_time": 1700981734,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207087,
       "num": 207087,
       "word": "田曦薇 青春飞跃女演员",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1700931568,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199834,
+      "num": 199834,
+      "word": "EDG 请补强",
+      "onboard_time": 1700983652,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 197590,
@@ -1219,6 +1243,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 190557,
+      "num": 190557,
+      "word": "封神 狐传人现象",
+      "onboard_time": 1700983114,
+      "rank": 32,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 190548,
       "num": 190548,
       "word": "中国大师赛雅思组合夺冠",
@@ -1240,6 +1272,14 @@
       "word": "湖人战胜骑士",
       "onboard_time": 1700968594,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189162,
+      "num": 189162,
+      "word": "中国赛陈雨菲女单夺冠",
+      "onboard_time": 1700982935,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1427,6 +1467,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 152973,
+      "num": 152973,
+      "word": "2024年1月可查国考笔试成绩",
+      "onboard_time": 1700983413,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152516,
       "num": 152516,
       "word": "化妆最大的价值",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1700974232,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141942,
+      "num": 141942,
+      "word": "宁安如梦剧组在台上拍大合影",
+      "onboard_time": 1700983652,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 141302,
@@ -1601,6 +1657,14 @@
       "onboard_time": 1700961630,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108769,
+      "num": 108769,
+      "word": "富勒烯",
+      "onboard_time": 1700984013,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 108115,
@@ -1899,6 +1963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27035,
+      "num": 1065345,
+      "word": "舌尖上的雪龙号",
+      "onboard_time": 1700966731,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26765,
       "num": 47650,
       "word": "冻鱼复活术的真相来了",
@@ -1913,14 +1985,6 @@
       "onboard_time": 1700954002,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21701,
-      "num": 1065345,
-      "word": "舌尖上的雪龙号",
-      "onboard_time": 1700966731,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
