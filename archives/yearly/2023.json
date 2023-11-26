@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1700969654536,
+  "endTime": 1700972420059,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2339,6 +2339,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 7039874,
+      "num": 7039874,
+      "word": "国考行测",
+      "onboard_time": 1673149169,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 6997376,
       "num": 6997376,
       "word": "石家庄临时空中管制已解除",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1696083343,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6846624,
-      "num": 6846624,
-      "word": "奔跑吧今晚播出",
-      "onboard_time": 1689300688,
-      "rank": 4,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
