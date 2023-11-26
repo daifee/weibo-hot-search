@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701023630191,
+  "endTime": 1701026014708,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -68723,6 +68723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85290,
+      "num": 85290,
+      "word": "直系亲属犯罪是否会影响国考政审",
+      "onboard_time": 1701022875,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 85262,
       "num": 85262,
       "word": "包子套娃",
@@ -71961,14 +71969,6 @@
       "onboard_time": 1698779353,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26261,
-      "num": 26261,
-      "word": "直系亲属犯罪是否会影响国考政审",
-      "onboard_time": 1701022875,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 26090,

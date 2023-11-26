@@ -1,0 +1,410 @@
+{
+  "runTime": 1701026014708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 164200,
+        "num": 164200,
+        "word": "洗筷子不要来回搓",
+        "onboard_time": 1701013293,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132729,
+        "num": 132729,
+        "word": "浙大男生为救窒息小孩旷课被点名",
+        "onboard_time": 1700998596,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6125,
+        "num": 103712,
+        "word": "微观链博会",
+        "onboard_time": 1701001536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85290,
+        "num": 85290,
+        "word": "直系亲属犯罪是否会影响国考政审",
+        "onboard_time": 1701022875,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80124,
+        "num": 80124,
+        "word": "小杨哥演唱会 Twins",
+        "onboard_time": 1701011365,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57889,
+        "num": 57889,
+        "word": "俄3名特工在乌克兰吃外卖中毒身亡",
+        "onboard_time": 1700997153,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54697,
+        "num": 54697,
+        "word": "每个人嘎的时候都要骂甄嬛一句",
+        "onboard_time": 1701008077,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48189,
+        "num": 48189,
+        "word": "马来西亚将对中国游客免签",
+        "onboard_time": 1701001776,
+        "rank": 7,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 45210,
+        "num": 45210,
+        "word": "小杨哥演唱会",
+        "onboard_time": 1701000813,
+        "rank": 8,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 43136,
+        "num": 43136,
+        "word": "林俊杰希望不要惊动到孙燕姿",
+        "onboard_time": 1701013173,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99798,
+        "num": 43080,
+        "word": "宋轶社交 白敬亭不知道在忙什么",
+        "onboard_time": 1701003697,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45284,
+        "num": 42915,
+        "word": "辛芷蕾P了Q版迪丽热巴",
+        "onboard_time": 1701013656,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43796,
+        "num": 42840,
+        "word": "家长副驾抱娃幼童被甩出车外身亡",
+        "onboard_time": 1701003158,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42139,
+        "num": 42139,
+        "word": "汽车博主马哥离世",
+        "onboard_time": 1700991092,
+        "rank": 13,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 40161,
+        "num": 40161,
+        "word": "狂飙剧组时尚芭莎大片",
+        "onboard_time": 1701020118,
+        "rank": 14,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 39369,
+        "num": 39369,
+        "word": "为什么肚子总是咕噜咕噜响",
+        "onboard_time": 1701009760,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37632,
+        "num": 37632,
+        "word": "刘亦菲F1阿布扎比大奖赛观赛",
+        "onboard_time": 1701005796,
+        "rank": 16,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 35792,
+        "num": 35792,
+        "word": "姜雪宁一家三代都喜欢张遮",
+        "onboard_time": 1701017664,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32254,
+        "num": 32254,
+        "word": "冬季洗澡尽量控制在5到10分钟",
+        "onboard_time": 1700996133,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31149,
+        "num": 31149,
+        "word": "易烊千玺景德镇",
+        "onboard_time": 1701014613,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57140,
+        "num": 30194,
+        "word": "为什么3元饮料逐渐消失",
+        "onboard_time": 1701020418,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33669,
+        "num": 30136,
+        "word": "这种碳水不仅能减肚子还能改善脂肪肝",
+        "onboard_time": 1701007958,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33523,
+        "num": 30099,
+        "word": "心衰的早期信号有哪些",
+        "onboard_time": 1701013713,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29235,
+        "num": 29235,
+        "word": "射手座是不会有归属感的",
+        "onboard_time": 1701003518,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28610,
+        "num": 28610,
+        "word": "无价之宝在东北有多火",
+        "onboard_time": 1701014312,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27192,
+        "num": 27192,
+        "word": "王鹤棣张颂文 狂飙父子",
+        "onboard_time": 1700999316,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25672,
+        "num": 25672,
+        "word": "白桃星座",
+        "onboard_time": 1701012632,
+        "rank": 26,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 25342,
+        "num": 25342,
+        "word": "韩网评尖叫之夜男明星造型",
+        "onboard_time": 1700992715,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24303,
+        "num": 24303,
+        "word": "多方回应网传贵州抢亲事件不实",
+        "onboard_time": 1701002074,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23298,
+        "num": 23298,
+        "word": "张大仙 复活吧我的爱人",
+        "onboard_time": 1701005559,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31961,
+        "num": 23240,
+        "word": "5个动作24天彻底改变你的体态",
+        "onboard_time": 1701021077,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 26237,
+        "num": 23194,
+        "word": "王鹤棣听到王鹤润名字的时候笑了",
+        "onboard_time": 1700997575,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22570,
+        "num": 22570,
+        "word": "张婧仪 越素越美",
+        "onboard_time": 1701009099,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22272,
+        "num": 22272,
+        "word": "汪苏泷舞台",
+        "onboard_time": 1701011734,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21731,
+        "num": 21731,
+        "word": "原来海上的雪天是这样的",
+        "onboard_time": 1701017963,
+        "rank": 34,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 21115,
+        "num": 21115,
+        "word": "时尚芭莎 尖叫之夜",
+        "onboard_time": 1700998714,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 20790,
+        "num": 20790,
+        "word": "伪装者明家姐弟在麦乐村再聚首",
+        "onboard_time": 1701000514,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20621,
+        "num": 20621,
+        "word": "曾舜晞 怎么你们有饭吃",
+        "onboard_time": 1701010775,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20460,
+        "num": 20460,
+        "word": "韩国男星的红毯造型",
+        "onboard_time": 1701007416,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20408,
+        "num": 20408,
+        "word": "花少 迪丽热巴双商",
+        "onboard_time": 1701010237,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19944,
+        "num": 19944,
+        "word": "筷子兄弟合体了",
+        "onboard_time": 1701007660,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19892,
+        "num": 19892,
+        "word": "跑男全员对糊过敏",
+        "onboard_time": 1700998057,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19633,
+        "num": 19633,
+        "word": "今年国考约57人录取1人",
+        "onboard_time": 1701004173,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18534,
+        "num": 19629,
+        "word": "蔡文静每句话都扎在了丁程鑫心里",
+        "onboard_time": 1701019820,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18491,
+        "num": 19629,
+        "word": "一念关山",
+        "onboard_time": 1701012275,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18484,
+        "num": 19621,
+        "word": "自然蓬松颅顶的方法",
+        "onboard_time": 1701012992,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 18144,
+        "num": 19619,
+        "word": "李泰容 不去澳门",
+        "onboard_time": 1700996915,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17111,
+        "num": 19615,
+        "word": "申论",
+        "onboard_time": 1700990312,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16517,
+        "num": 19613,
+        "word": "帕梅拉不敢吃鸡爪",
+        "onboard_time": 1701009035,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 15745,
+        "num": 19609,
+        "word": "国考笔试报名261.3万人实到225.2万人",
+        "onboard_time": 1701009696,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的黄河情怀#"
+    }
+  }
+}

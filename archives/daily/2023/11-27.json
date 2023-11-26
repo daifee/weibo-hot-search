@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701023630191,
+  "endTime": 1701026014708,
   "band_list": [
     {
       "raw_hot": 993234,
@@ -419,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85290,
+      "num": 85290,
+      "word": "直系亲属犯罪是否会影响国考政审",
+      "onboard_time": 1701022875,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 82700,
       "num": 51299,
       "word": "为什么3元饮料逐渐消失",
@@ -473,14 +481,6 @@
       "onboard_time": 1701019820,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26261,
-      "num": 26261,
-      "word": "直系亲属犯罪是否会影响国考政审",
-      "onboard_time": 1701022875,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 11547,
