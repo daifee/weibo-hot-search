@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701001843186,
+  "endTime": 1701002828485,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1387762,
+      "num": 1387762,
+      "word": "浙大男生为救窒息小孩旷课被点名",
+      "onboard_time": 1700998596,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1304615,
       "num": 1056318,
       "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
@@ -169,14 +177,6 @@
       "onboard_time": 1700955143,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1225434,
-      "num": 1225434,
-      "word": "浙大男生为救窒息小孩旷课被点名",
-      "onboard_time": 1700998596,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1185764,
@@ -241,6 +241,14 @@
       "onboard_time": 1700989412,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 961834,
+      "num": 961834,
+      "word": "小杨哥演唱会",
+      "onboard_time": 1701000813,
+      "rank": 12,
+      "category": "演出,网红"
     },
     {
       "raw_hot": 942210,
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 673851,
+      "num": 673851,
+      "word": "马来西亚将对中国游客免签",
+      "onboard_time": 1701001776,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 663334,
       "num": 663334,
       "word": "杨幂发文说2024作品相见",
@@ -393,6 +409,14 @@
       "onboard_time": 1700957794,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 657190,
+      "num": 657190,
+      "word": "甜食吃多了真的会近视",
+      "onboard_time": 1701000455,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 626757,
@@ -539,12 +563,12 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 522576,
-      "num": 522576,
-      "word": "小杨哥演唱会",
-      "onboard_time": 1701000813,
-      "rank": 12,
-      "category": "演出,网红"
+      "raw_hot": 522872,
+      "num": 522872,
+      "word": "热狗新歌疑似diss周杰伦",
+      "onboard_time": 1701002615,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 517663,
@@ -593,14 +617,6 @@
       "onboard_time": 1700970633,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 490981,
-      "num": 490981,
-      "word": "甜食吃多了真的会近视",
-      "onboard_time": 1701000455,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 486959,
@@ -867,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367838,
+      "num": 210436,
+      "word": "液体束胸衣",
+      "onboard_time": 1701001833,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 366436,
       "num": 366436,
       "word": "Doinb",
@@ -880,6 +904,14 @@
       "word": "飞扬 押到了",
       "onboard_time": 1700992715,
       "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 362830,
+      "num": 362830,
+      "word": "上午涂彩票 下午抄资料",
+      "onboard_time": 1701001176,
+      "rank": 24,
       "category": "教育"
     },
     {
@@ -1081,6 +1113,14 @@
       "onboard_time": 1700964512,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 310544,
+      "num": 310544,
+      "word": "Alan 当年是谁让你跳大的",
+      "onboard_time": 1701001416,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 309336,
@@ -1395,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247225,
-      "num": 247225,
-      "word": "上午涂彩票 下午抄资料",
-      "onboard_time": 1701001176,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 246746,
       "num": 246746,
       "word": "鞠婧祎露肩毛衣",
@@ -1507,6 +1539,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 226719,
+      "num": 208299,
+      "word": "白鹿范丞丞 显眼包二人组",
+      "onboard_time": 1701001416,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225757,
       "num": 165336,
       "word": "徐艺洋是懂综艺节目套路的",
@@ -1529,6 +1569,14 @@
       "onboard_time": 1700993374,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221637,
+      "num": 207338,
+      "word": "国考参考人数与录用计划数约57:1",
+      "onboard_time": 1701002495,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 221135,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1700959831,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217102,
-      "num": 217102,
-      "word": "马来西亚将对中国游客免签",
-      "onboard_time": 1701001776,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 216172,
@@ -1651,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207144,
+      "num": 207144,
+      "word": "多方回应网传贵州抢亲事件不实",
+      "onboard_time": 1701002074,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207087,
       "num": 207087,
       "word": "田曦薇 青春飞跃女演员",
@@ -1715,11 +1763,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200206,
-      "num": 200206,
-      "word": "Alan 当年是谁让你跳大的",
-      "onboard_time": 1701001416,
-      "rank": 35,
+      "raw_hot": 200867,
+      "num": 200867,
+      "word": "TTG 上上签",
+      "onboard_time": 1701002675,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -1745,6 +1793,14 @@
       "onboard_time": 1700978313,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196805,
+      "num": 196805,
+      "word": "AG全员西装look",
+      "onboard_time": 1701002495,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 196687,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1700919947,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 191374,
+      "num": 191374,
+      "word": "张遮释怀了但没放下那份爱",
+      "onboard_time": 1701002556,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 191147,
@@ -1915,19 +1979,27 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 185403,
+      "num": 185403,
+      "word": "田甜老公离婚前先转移财产",
+      "onboard_time": 1701002615,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184094,
+      "num": 184094,
+      "word": "曾黎跳了SweetVenom",
+      "onboard_time": 1701002016,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183617,
       "num": 183617,
       "word": "周深说每次唱歌都很紧张",
       "onboard_time": 1700968472,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 183015,
-      "num": 165077,
-      "word": "白鹿范丞丞 显眼包二人组",
-      "onboard_time": 1701001416,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -2059,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165478,
+      "num": 165478,
+      "word": "刘诗诗和叶青又重逢了",
+      "onboard_time": 1701001416,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165262,
       "num": 165262,
       "word": "国考最热岗位3572人只招1人",
@@ -2115,14 +2195,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 159949,
-      "num": 159949,
-      "word": "刘诗诗和叶青又重逢了",
-      "onboard_time": 1701001416,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159214,
       "num": 159214,
       "word": "扁头高马尾发型",
@@ -2161,6 +2233,14 @@
       "onboard_time": 1700959890,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 151226,
+      "num": 151226,
+      "word": "小杨哥演唱会 朴树",
+      "onboard_time": 1701002737,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 151070,
@@ -2667,6 +2747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38480,
+      "num": 1140371,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1701002016,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37566,
       "num": 37566,
       "word": "秦岚嗓子还没好",
@@ -2748,6 +2836,9 @@
     },
     {
       "word": "#在数字经济互联网等领域持续扩大开放#"
+    },
+    {
+      "word": "#习近平的黄河情怀#"
     }
   ]
 }
