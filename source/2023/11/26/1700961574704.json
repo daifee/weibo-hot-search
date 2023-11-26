@@ -1,0 +1,410 @@
+{
+  "runTime": 1700961574704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1297217,
+        "num": 1297217,
+        "word": "杨幂王鹤棣台下扔水瓶",
+        "onboard_time": 1700955143,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1171321,
+        "num": 1171321,
+        "word": "白敬亭扶宋轶",
+        "onboard_time": 1700960430,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35810,
+        "num": 1058845,
+        "word": "中国基建狂魔即将打通天山",
+        "onboard_time": 1700897137,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1304615,
+        "num": 1056318,
+        "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
+        "onboard_time": 1700954241,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046132,
+        "num": 1046132,
+        "word": "杨幂 于和伟亲马东了",
+        "onboard_time": 1700924084,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736179,
+        "num": 736179,
+        "word": "伍佰合肥演唱会被曝观众大喊退票",
+        "onboard_time": 1700954060,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 657790,
+        "num": 657790,
+        "word": "何赛飞 现场发疯版尖叫之夜",
+        "onboard_time": 1700957794,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542108,
+        "num": 542108,
+        "word": "国考笔试今日开考",
+        "onboard_time": 1700959050,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 388280,
+        "num": 388280,
+        "word": "停止焦虑的办法是停止刷手机",
+        "onboard_time": 1700955263,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320894,
+        "num": 320894,
+        "word": "斗鱼陈少杰被捕后多位大主播已停播",
+        "onboard_time": 1700937137,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548096,
+        "num": 315372,
+        "word": "金马影后林品彤 12岁",
+        "onboard_time": 1700926187,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 513018,
+        "num": 312179,
+        "word": "白敬亭宋轶你俩不认识吗",
+        "onboard_time": 1700909920,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 482630,
+        "num": 306651,
+        "word": "张凌赫一下子贡献了不少搞笑的梗",
+        "onboard_time": 1700959712,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300296,
+        "num": 300296,
+        "word": "儿科医生说口服药能解决的不建议输液",
+        "onboard_time": 1700958809,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297689,
+        "num": 297689,
+        "word": "TES Ming",
+        "onboard_time": 1700955323,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 418654,
+        "num": 295214,
+        "word": "陈晓瘦脱相了",
+        "onboard_time": 1700918750,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367497,
+        "num": 290947,
+        "word": "白鹿 尖叫女演员",
+        "onboard_time": 1700923549,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285587,
+        "num": 285587,
+        "word": "直播救厂三个老头的网红路",
+        "onboard_time": 1700954784,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247835,
+        "num": 247835,
+        "word": "国考报名人数首破300万",
+        "onboard_time": 1700956466,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228996,
+        "num": 228996,
+        "word": "多次被要求提供不同材料女子发火",
+        "onboard_time": 1700960430,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347640,
+        "num": 226492,
+        "word": "王阳说秦岚电音朵拉很酷",
+        "onboard_time": 1700960250,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345575,
+        "num": 225250,
+        "word": "吴慷仁 金马影帝",
+        "onboard_time": 1700926666,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260920,
+        "num": 223998,
+        "word": "相亲相到老师",
+        "onboard_time": 1700954060,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221057,
+        "num": 221057,
+        "word": "最适合圆脸方脸女生的发型",
+        "onboard_time": 1700959171,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219832,
+        "num": 219832,
+        "word": "发现这4种毒文具赶紧扔掉",
+        "onboard_time": 1700954904,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 320638,
+        "num": 218918,
+        "word": "白鹿 轻舟已过万重山",
+        "onboard_time": 1700961395,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298413,
+        "num": 218767,
+        "word": "成毅 绿海",
+        "onboard_time": 1700956345,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290974,
+        "num": 218750,
+        "word": "在谈vs分了",
+        "onboard_time": 1700911968,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217851,
+        "num": 217851,
+        "word": "二进制小品",
+        "onboard_time": 1700959831,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196687,
+        "num": 196687,
+        "word": "女硕士种3200亩地称像打游戏一样简单",
+        "onboard_time": 1700956646,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274567,
+        "num": 183306,
+        "word": "王一博爱奇艺尖叫之夜出图",
+        "onboard_time": 1700956527,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247237,
+        "num": 182044,
+        "word": "王鹤棣 e人社交",
+        "onboard_time": 1700959230,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238638,
+        "num": 177309,
+        "word": "郑晓龙成毅热聊",
+        "onboard_time": 1700959771,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165395,
+        "num": 165395,
+        "word": "补气血最快的小tips",
+        "onboard_time": 1700959531,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152516,
+        "num": 152516,
+        "word": "化妆最大的价值",
+        "onboard_time": 1700959890,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 225757,
+        "num": 151823,
+        "word": "徐艺洋是懂综艺节目套路的",
+        "onboard_time": 1700959771,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219667,
+        "num": 150002,
+        "word": "棣欣引力",
+        "onboard_time": 1700912925,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212759,
+        "num": 147465,
+        "word": "杨幂脸上藏不住一点事",
+        "onboard_time": 1700958449,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144907,
+        "num": 144907,
+        "word": "这孩子是来报恩的",
+        "onboard_time": 1700960850,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141046,
+        "num": 141046,
+        "word": "王者荣耀拖米",
+        "onboard_time": 1700960671,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200093,
+        "num": 138605,
+        "word": "海涛跟沈梦辰说他在家里带孩子",
+        "onboard_time": 1700938037,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193910,
+        "num": 136228,
+        "word": "张凌赫为什么像做贼",
+        "onboard_time": 1700923367,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190564,
+        "num": 132836,
+        "word": "娜扎 是你们要看的吗",
+        "onboard_time": 1700920127,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190263,
+        "num": 128957,
+        "word": "莲花楼天下完整版",
+        "onboard_time": 1700961271,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128302,
+        "num": 128302,
+        "word": "韩国一女子杀人分尸称痴迷犯罪想尝试谋杀",
+        "onboard_time": 1700913043,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121642,
+        "num": 121642,
+        "word": "国考最热岗位3572人只招1人",
+        "onboard_time": 1700961511,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116640,
+        "num": 116640,
+        "word": "国考",
+        "onboard_time": 1700953820,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105720,
+        "num": 105720,
+        "word": "2024国考锦鲤海报",
+        "onboard_time": 1700955865,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103107,
+        "num": 103107,
+        "word": "纸性恋",
+        "onboard_time": 1700961211,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96858,
+        "num": 96858,
+        "word": "光腿神器卖出几个亿",
+        "onboard_time": 1700957908,
+        "rank": 49,
+        "category": "财经,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国学解锁中国密码#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700955241424,
+  "endTime": 1700961574704,
   "band_list": [
     {
       "raw_hot": 7011410,
@@ -33,6 +33,30 @@
       "onboard_time": 1700926187,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1304615,
+      "num": 1056318,
+      "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
+      "onboard_time": 1700954241,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1297217,
+      "num": 1297217,
+      "word": "杨幂王鹤棣台下扔水瓶",
+      "onboard_time": 1700955143,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1171321,
+      "num": 1171321,
+      "word": "白敬亭扶宋轶",
+      "onboard_time": 1700960430,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1032619,
@@ -91,6 +115,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 736179,
+      "num": 736179,
+      "word": "伍佰合肥演唱会被曝观众大喊退票",
+      "onboard_time": 1700954060,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 657790,
+      "num": 657790,
+      "word": "何赛飞 现场发疯版尖叫之夜",
+      "onboard_time": 1700957794,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586866,
       "num": 586866,
       "word": "虞书欣成毅梦回一年级",
@@ -99,11 +139,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542108,
+      "num": 542108,
+      "word": "国考笔试今日开考",
+      "onboard_time": 1700959050,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 483917,
       "num": 483917,
       "word": "王一博尖叫之夜年度男主角",
       "onboard_time": 1700925882,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 482630,
+      "num": 306651,
+      "word": "张凌赫一下子贡献了不少搞笑的梗",
+      "onboard_time": 1700959712,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -171,20 +227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388280,
+      "num": 388280,
+      "word": "停止焦虑的办法是停止刷手机",
+      "onboard_time": 1700955263,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379980,
       "num": 379980,
       "word": "林志玲北野武 颁奖",
       "onboard_time": 1700908781,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 370914,
-      "num": 158121,
-      "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
-      "onboard_time": 1700954241,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364999,
@@ -200,6 +256,14 @@
       "word": "虞书欣的领奖发言",
       "onboard_time": 1700924932,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 347640,
+      "num": 226492,
+      "word": "王阳说秦岚电音朵拉很酷",
+      "onboard_time": 1700960250,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -243,20 +307,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300335,
-      "num": 136723,
-      "word": "伍佰合肥演唱会被曝观众大喊退票",
-      "onboard_time": 1700954060,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 296223,
-      "num": 296223,
+      "raw_hot": 320894,
+      "num": 320894,
       "word": "斗鱼陈少杰被捕后多位大主播已停播",
       "onboard_time": 1700937137,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320638,
+      "num": 218918,
+      "word": "白鹿 轻舟已过万重山",
+      "onboard_time": 1700961395,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 300296,
+      "num": 300296,
+      "word": "儿科医生说口服药能解决的不建议输液",
+      "onboard_time": 1700958809,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 298413,
+      "num": 218767,
+      "word": "成毅 绿海",
+      "onboard_time": 1700956345,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297689,
+      "num": 297689,
+      "word": "TES Ming",
+      "onboard_time": 1700955323,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 285883,
@@ -264,6 +352,22 @@
       "word": "张杰 泡沫",
       "onboard_time": 1700924746,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 285587,
+      "num": 285587,
+      "word": "直播救厂三个老头的网红路",
+      "onboard_time": 1700954784,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274567,
+      "num": 183306,
+      "word": "王一博爱奇艺尖叫之夜出图",
+      "onboard_time": 1700956527,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -275,12 +379,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260920,
+      "num": 223998,
+      "word": "相亲相到老师",
+      "onboard_time": 1700954060,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252622,
       "num": 1029533,
       "word": "朱鹮洋洋去世",
       "onboard_time": 1700924264,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247835,
+      "num": 247835,
+      "word": "国考报名人数首破300万",
+      "onboard_time": 1700956466,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 247237,
+      "num": 182044,
+      "word": "王鹤棣 e人社交",
+      "onboard_time": 1700959230,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 244530,
@@ -291,6 +419,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238638,
+      "num": 177309,
+      "word": "郑晓龙成毅热聊",
+      "onboard_time": 1700959771,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228996,
+      "num": 228996,
+      "word": "多次被要求提供不同材料女子发火",
+      "onboard_time": 1700960430,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225757,
+      "num": 151823,
+      "word": "徐艺洋是懂综艺节目套路的",
+      "onboard_time": 1700959771,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221057,
+      "num": 221057,
+      "word": "最适合圆脸方脸女生的发型",
+      "onboard_time": 1700959171,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 220659,
       "num": 220659,
       "word": "成毅在打车吗",
@@ -299,12 +459,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219832,
+      "num": 219832,
+      "word": "发现这4种毒文具赶紧扔掉",
+      "onboard_time": 1700954904,
+      "rank": 24,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 217851,
+      "num": 217851,
+      "word": "二进制小品",
+      "onboard_time": 1700959831,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213178,
       "num": 213178,
       "word": "国考行测和申论哪个难",
       "onboard_time": 1700953520,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 212759,
+      "num": 147465,
+      "word": "杨幂脸上藏不住一点事",
+      "onboard_time": 1700958449,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 207087,
@@ -323,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197771,
-      "num": 90414,
-      "word": "相亲相到老师",
-      "onboard_time": 1700954060,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 196687,
+      "num": 196687,
+      "word": "女硕士种3200亩地称像打游戏一样简单",
+      "onboard_time": 1700956646,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192614,
@@ -345,6 +529,14 @@
       "onboard_time": 1700919947,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 190263,
+      "num": 128957,
+      "word": "莲花楼天下完整版",
+      "onboard_time": 1700961271,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 181594,
@@ -377,6 +569,38 @@
       "onboard_time": 1700932945,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165395,
+      "num": 165395,
+      "word": "补气血最快的小tips",
+      "onboard_time": 1700959531,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152516,
+      "num": 152516,
+      "word": "化妆最大的价值",
+      "onboard_time": 1700959890,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 144907,
+      "num": 144907,
+      "word": "这孩子是来报恩的",
+      "onboard_time": 1700960850,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141046,
+      "num": 141046,
+      "word": "王者荣耀拖米",
+      "onboard_time": 1700960671,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 134188,
@@ -419,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121642,
+      "num": 121642,
+      "word": "国考最热岗位3572人只招1人",
+      "onboard_time": 1700961511,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107489,
       "num": 442037,
       "word": "杭州也有东北自助盒饭了",
@@ -435,12 +667,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105720,
+      "num": 105720,
+      "word": "2024国考锦鲤海报",
+      "onboard_time": 1700955865,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 103107,
+      "num": 103107,
+      "word": "纸性恋",
+      "onboard_time": 1700961211,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101567,
       "num": 385905,
       "word": "斯特林又快乐了",
       "onboard_time": 1700926544,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96858,
+      "num": 96858,
+      "word": "光腿神器卖出几个亿",
+      "onboard_time": 1700957908,
+      "rank": 49,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 92448,
@@ -465,14 +721,6 @@
       "onboard_time": 1700910164,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87947,
-      "num": 87947,
-      "word": "发现这4种毒文具赶紧扔掉",
-      "onboard_time": 1700954904,
-      "rank": 24,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 87472,
@@ -505,14 +753,6 @@
       "onboard_time": 1700908781,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 75885,
-      "num": 61557,
-      "word": "杨幂王鹤棣台下扔水瓶",
-      "onboard_time": 1700955143,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 75507,
@@ -649,14 +889,6 @@
       "onboard_time": 1700907633,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 46136,
-      "num": 61282,
-      "word": "直播救厂三个老头的网红路",
-      "onboard_time": 1700954784,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37566,
