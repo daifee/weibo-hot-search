@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/26 00:20:53 ~ 2023/11/27 03:33:53
+本榜单时间：2023/11/26 00:20:53 ~ 2023/11/27 04:17:37
 </p>
 </blockquote>
 <p>
@@ -2361,6 +2361,12 @@ HITANDRUN夺冠（热度：138659）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
+连撞11车特斯拉车主发声（热度：88434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%96%BD%E5%B7%A5%E4%BA%8B%E6%95%85%E7%9B%B8%E5%85%B3%E8%B4%A3%E4%BB%BB%E4%BA%BA%E5%B7%B2%E8%A2%AB%E6%8E%A7%E5%88%B6%23" target="weibo">
 山西施工事故相关责任人已被控制（热度：87472）
 </a>
@@ -2589,8 +2595,8 @@ Cat知道错了（热度：70556）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
-连撞11车特斯拉车主发声（热度：14813）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%BB%91%E4%BA%94%E7%BD%91%E8%B4%AD%E9%94%80%E5%94%AE%E9%A2%9D%E5%88%9B%E7%BA%AA%E5%BD%95%23" target="weibo">
+美国黑五网购销售额创纪录（热度：13497）
 </a>
 </li>
 

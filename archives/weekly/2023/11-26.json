@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701027233608,
+  "endTime": 1701029857553,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -3131,6 +3131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88434,
+      "num": 88434,
+      "word": "连撞11车特斯拉车主发声",
+      "onboard_time": 1701026895,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87472,
       "num": 368358,
       "word": "山西施工事故相关责任人已被控制",
@@ -3428,19 +3436,19 @@
     },
     {
       "raw_hot": 17620,
-      "num": 17620,
+      "num": 19914,
       "word": "杀我别用若曦玉檀刀",
       "onboard_time": 1701026953,
       "rank": 41,
       "category": "剧集"
     },
     {
-      "raw_hot": 14813,
-      "num": 17040,
-      "word": "连撞11车特斯拉车主发声",
-      "onboard_time": 1701026895,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 13497,
+      "num": 19893,
+      "word": "美国黑五网购销售额创纪录",
+      "onboard_time": 1701029232,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 11547,
