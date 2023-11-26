@@ -1,0 +1,410 @@
+{
+  "runTime": 1701009238092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276093,
+        "num": 1276093,
+        "word": "小杨哥演唱会",
+        "onboard_time": 1701000813,
+        "rank": 0,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 889209,
+        "num": 889209,
+        "word": "冬季洗澡尽量控制在5到10分钟",
+        "onboard_time": 1700996133,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104272,
+        "num": 694742,
+        "word": "近期呼吸道疾病防治注意事项",
+        "onboard_time": 1701002016,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687609,
+        "num": 687609,
+        "word": "筷子兄弟合体了",
+        "onboard_time": 1701007660,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 589969,
+        "num": 589969,
+        "word": "浙大男生为救窒息小孩旷课被点名",
+        "onboard_time": 1700998596,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500974,
+        "num": 500974,
+        "word": "刘亦菲F1阿布扎比大奖赛观赛",
+        "onboard_time": 1701005796,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 545621,
+        "num": 491228,
+        "word": "韩国男星的红毯造型",
+        "onboard_time": 1701007416,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 474574,
+        "num": 474574,
+        "word": "多方回应网传贵州抢亲事件不实",
+        "onboard_time": 1701002074,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444536,
+        "num": 444536,
+        "word": "俄3名特工在乌克兰吃外卖中毒身亡",
+        "onboard_time": 1700997153,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 436508,
+        "num": 436508,
+        "word": "射手座是不会有归属感的",
+        "onboard_time": 1701003518,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1610142,
+        "num": 432593,
+        "word": "宋轶社交 白敬亭不知道在忙什么",
+        "onboard_time": 1701003697,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1265893,
+        "num": 412297,
+        "word": "热狗新歌疑似diss周杰伦",
+        "onboard_time": 1701002615,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 999985,
+        "num": 400035,
+        "word": "家长副驾抱娃幼童被甩出车外身亡",
+        "onboard_time": 1701003158,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653237,
+        "num": 385023,
+        "word": "佘诗曼戴了粉丝送的皇冠",
+        "onboard_time": 1701003878,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 573192,
+        "num": 368349,
+        "word": "汽车博主马哥离世",
+        "onboard_time": 1700991092,
+        "rank": 14,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 486082,
+        "num": 346795,
+        "word": "每个人嘎的时候都要骂甄嬛一句",
+        "onboard_time": 1701008077,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346101,
+        "num": 346101,
+        "word": "杨幂新片将定档",
+        "onboard_time": 1701003158,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345700,
+        "num": 345700,
+        "word": "马来西亚将对中国游客免签",
+        "onboard_time": 1701001776,
+        "rank": 17,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 343473,
+        "num": 343473,
+        "word": "国考行测",
+        "onboard_time": 1700969435,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335876,
+        "num": 335876,
+        "word": "全红婵陈芋汐全锦赛夺冠",
+        "onboard_time": 1701004359,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317632,
+        "num": 317632,
+        "word": "上午涂彩票 下午抄资料",
+        "onboard_time": 1701001176,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303932,
+        "num": 303932,
+        "word": "时尚芭莎 尖叫之夜",
+        "onboard_time": 1700998714,
+        "rank": 21,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 293148,
+        "num": 293148,
+        "word": "今年国考约57人录取1人",
+        "onboard_time": 1701004173,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287929,
+        "num": 287929,
+        "word": "王鹤棣听到王鹤润名字的时候笑了",
+        "onboard_time": 1700997575,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281731,
+        "num": 281731,
+        "word": "韩网评尖叫之夜男明星造型",
+        "onboard_time": 1700992715,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271858,
+        "num": 271858,
+        "word": "孔维夸肖战声音好听",
+        "onboard_time": 1701005497,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260094,
+        "num": 260094,
+        "word": "新闻女王港剧血脉觉醒",
+        "onboard_time": 1701008796,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257749,
+        "num": 257749,
+        "word": "张大仙 复活吧我的爱人",
+        "onboard_time": 1701005559,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253079,
+        "num": 253079,
+        "word": "张婧仪 越素越美",
+        "onboard_time": 1701009099,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252923,
+        "num": 252923,
+        "word": "李苗苗 下鱼了",
+        "onboard_time": 1701008919,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250222,
+        "num": 250222,
+        "word": "陆虎和王栎鑫拜把子全过程",
+        "onboard_time": 1701007900,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244354,
+        "num": 244354,
+        "word": "成毅张凌赫一个憨一个盲",
+        "onboard_time": 1701008677,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233986,
+        "num": 233986,
+        "word": "王诗龄粉色抹胸纱裙",
+        "onboard_time": 1700985270,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227429,
+        "num": 227429,
+        "word": "王鹤棣张颂文 狂飙父子",
+        "onboard_time": 1700999316,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226532,
+        "num": 226532,
+        "word": "申论",
+        "onboard_time": 1700990312,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214454,
+        "num": 214454,
+        "word": "演唱会下沉到县城之后",
+        "onboard_time": 1700991335,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199775,
+        "num": 199775,
+        "word": "这种碳水不仅能减肚子还能改善脂肪肝",
+        "onboard_time": 1701007958,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178508,
+        "num": 178508,
+        "word": "帕梅拉不敢吃鸡爪",
+        "onboard_time": 1701009035,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 173456,
+        "num": 173456,
+        "word": "全国225.2万人参加国考公共科目笔试",
+        "onboard_time": 1701006336,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171505,
+        "num": 171505,
+        "word": "KPL宝宝巴士男团",
+        "onboard_time": 1701007718,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203242,
+        "num": 170604,
+        "word": "跑男全员对糊过敏",
+        "onboard_time": 1700998057,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197208,
+        "num": 168770,
+        "word": "虞书欣也在嗑白敬亭宋轶",
+        "onboard_time": 1700981192,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195969,
+        "num": 167551,
+        "word": "姜雪宁当众亲了谢危",
+        "onboard_time": 1701005916,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194857,
+        "num": 167256,
+        "word": "林俊杰 武汉",
+        "onboard_time": 1701004663,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193554,
+        "num": 165058,
+        "word": "田甜老公离婚前先转移财产",
+        "onboard_time": 1701002615,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164484,
+        "num": 164484,
+        "word": "9块9富婆的平价好物",
+        "onboard_time": 1701006816,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 150683,
+        "num": 150683,
+        "word": "考研时政7页纸",
+        "onboard_time": 1701000336,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145067,
+        "num": 145067,
+        "word": "原来仓鼠不能吃炒板栗",
+        "onboard_time": 1701004235,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132515,
+        "num": 132515,
+        "word": "没想到鸡蛋都有八块腹肌了",
+        "onboard_time": 1701007718,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122429,
+        "num": 122429,
+        "word": "国考结束",
+        "onboard_time": 1700990072,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在数字经济互联网等领域持续扩大开放#"
+    }
+  }
+}

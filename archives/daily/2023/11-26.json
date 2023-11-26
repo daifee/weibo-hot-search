@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701008075538,
+  "endTime": 1701009238092,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -411,6 +411,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 687609,
+      "num": 687609,
+      "word": "筷子兄弟合体了",
+      "onboard_time": 1701007660,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 683660,
       "num": 683660,
       "word": "田曦薇穿棉袜穿高跟鞋",
@@ -441,6 +449,14 @@
       "onboard_time": 1701000455,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 653237,
+      "num": 432124,
+      "word": "佘诗曼戴了粉丝送的皇冠",
+      "onboard_time": 1701003878,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 647172,
@@ -555,11 +571,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 562029,
-      "num": 432124,
-      "word": "佘诗曼戴了粉丝送的皇冠",
-      "onboard_time": 1701003878,
-      "rank": 28,
+      "raw_hot": 545621,
+      "num": 491228,
+      "word": "韩国男星的红毯造型",
+      "onboard_time": 1701007416,
+      "rank": 18,
       "category": "作品衍生"
     },
     {
@@ -681,6 +697,14 @@
       "onboard_time": 1700972913,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 486082,
+      "num": 346795,
+      "word": "每个人嘎的时候都要骂甄嬛一句",
+      "onboard_time": 1701008077,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 483917,
@@ -811,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436508,
+      "num": 436508,
+      "word": "射手座是不会有归属感的",
+      "onboard_time": 1701003518,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 425849,
       "num": 425849,
       "word": "连电视剧都有双休了",
@@ -883,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396718,
-      "num": 396718,
-      "word": "射手座是不会有归属感的",
-      "onboard_time": 1701003518,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 395383,
       "num": 395383,
       "word": "乔欣朋友圈合照模版",
@@ -953,14 +977,6 @@
       "onboard_time": 1700985031,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 372454,
-      "num": 372454,
-      "word": "韩国男星的红毯造型",
-      "onboard_time": 1701007416,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 370896,
@@ -1193,14 +1209,6 @@
       "onboard_time": 1700963610,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 315871,
-      "num": 315871,
-      "word": "筷子兄弟合体了",
-      "onboard_time": 1701007660,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 314648,
@@ -1475,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260094,
+      "num": 260094,
+      "word": "新闻女王港剧血脉觉醒",
+      "onboard_time": 1701008796,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259682,
       "num": 223920,
       "word": "王栎鑫有自己的8集定律",
@@ -1505,6 +1521,22 @@
       "onboard_time": 1700984674,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 253079,
+      "num": 253079,
+      "word": "张婧仪 越素越美",
+      "onboard_time": 1701009099,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252923,
+      "num": 252923,
+      "word": "李苗苗 下鱼了",
+      "onboard_time": 1701008919,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 252622,
@@ -1547,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250222,
+      "num": 250222,
+      "word": "陆虎和王栎鑫拜把子全过程",
+      "onboard_time": 1701007900,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249320,
       "num": 249320,
       "word": "国考考研报名人数一升一降",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1700913043,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244354,
+      "num": 244354,
+      "word": "成毅张凌赫一个憨一个盲",
+      "onboard_time": 1701008677,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 241425,
@@ -1963,6 +2011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199775,
+      "num": 199775,
+      "word": "这种碳水不仅能减肚子还能改善脂肪肝",
+      "onboard_time": 1701007958,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199661,
       "num": 199661,
       "word": "WB全员西装",
@@ -2057,14 +2113,6 @@
       "onboard_time": 1700926544,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192450,
-      "num": 192450,
-      "word": "陆虎和王栎鑫拜把子全过程",
-      "onboard_time": 1701007900,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 192271,
@@ -2281,6 +2329,14 @@
       "onboard_time": 1700976571,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178508,
+      "num": 178508,
+      "word": "帕梅拉不敢吃鸡爪",
+      "onboard_time": 1701009035,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 178152,
@@ -2521,14 +2577,6 @@
       "onboard_time": 1700985451,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 148773,
-      "num": 148773,
-      "word": "这种碳水不仅能减肚子还能改善脂肪肝",
-      "onboard_time": 1701007958,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 148459,
@@ -2779,6 +2827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 104272,
+      "num": 1145944,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1701002016,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103055,
       "num": 103055,
       "word": "相爱可以抵万难吗",
@@ -2808,14 +2864,6 @@
       "word": "台湾花莲海域4.2级地震",
       "onboard_time": 1700979689,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94717,
-      "num": 1145944,
-      "word": "近期呼吸道疾病防治注意事项",
-      "onboard_time": 1701002016,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
