@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701035376415,
+  "endTime": 1701036947006,
   "band_list": [
     {
       "raw_hot": 993234,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265932,
+      "num": 265932,
+      "word": "连撞11车特斯拉车主发声",
+      "onboard_time": 1701026895,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242573,
       "num": 242573,
       "word": "汽车博主马哥离世",
@@ -241,14 +249,6 @@
       "onboard_time": 1701003518,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154116,
-      "num": 154116,
-      "word": "连撞11车特斯拉车主发声",
-      "onboard_time": 1701026895,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148368,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75764,
+      "num": 75764,
+      "word": "美国黑五网购销售额创纪录",
+      "onboard_time": 1701029232,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 68133,
       "num": 66543,
       "word": "狂飙剧组时尚芭莎大片",
@@ -465,14 +473,6 @@
       "onboard_time": 1701018680,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62078,
-      "num": 31185,
-      "word": "美国黑五网购销售额创纪录",
-      "onboard_time": 1701029232,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 61045,
@@ -499,12 +499,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19118,
-      "num": 19118,
+      "raw_hot": 29707,
+      "num": 29707,
       "word": "特斯拉连撞11车当天刚上牌",
       "onboard_time": 1701032474,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24713,
+      "num": 24713,
+      "word": "尖叫之夜男明星怼脸生图",
+      "onboard_time": 1701034093,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19820,
+      "num": 21680,
+      "word": "金钟大抱女儿过马路",
+      "onboard_time": 1701035293,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 17620,
@@ -515,28 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15580,
-      "num": 16747,
-      "word": "尖叫之夜男明星怼脸生图",
-      "onboard_time": 1701034093,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14981,
-      "num": 17559,
+      "raw_hot": 16663,
+      "num": 21653,
       "word": "当抚慰犬看到主人狂吃披萨时",
       "onboard_time": 1701030313,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11973,
-      "num": 16632,
-      "word": "金钟大抱女儿过马路",
-      "onboard_time": 1701035293,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 11547,
