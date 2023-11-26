@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701015637663,
+  "endTime": 1701016580211,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -337,6 +337,14 @@
       "onboard_time": 1700999316,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 868429,
+      "num": 868429,
+      "word": "洗筷子不要来回搓",
+      "onboard_time": 1701013293,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 860761,
@@ -755,14 +763,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 486027,
-      "num": 486027,
-      "word": "洗筷子不要来回搓",
-      "onboard_time": 1701013293,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 483917,
       "num": 483917,
       "word": "王一博尖叫之夜年度男主角",
@@ -897,6 +897,14 @@
       "onboard_time": 1700910585,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438186,
+      "num": 284090,
+      "word": "易烊千玺景德镇",
+      "onboard_time": 1701014613,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 436508,
@@ -1169,14 +1177,6 @@
       "onboard_time": 1700907759,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346186,
-      "num": 284090,
-      "word": "易烊千玺景德镇",
-      "onboard_time": 1701014613,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 340805,
@@ -2459,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177404,
+      "num": 177404,
+      "word": "无价之宝在东北有多火",
+      "onboard_time": 1701014312,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176124,
       "num": 176124,
       "word": "卫衣不卡脖子的方法",
@@ -2619,6 +2627,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 160263,
+      "num": 160263,
+      "word": "心衰的早期信号有哪些",
+      "onboard_time": 1701013713,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 159214,
       "num": 159214,
       "word": "扁头高马尾发型",
@@ -2657,14 +2673,6 @@
       "onboard_time": 1701010058,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154816,
-      "num": 155768,
-      "word": "心衰的早期信号有哪些",
-      "onboard_time": 1701013713,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 153631,
@@ -2729,14 +2737,6 @@
       "onboard_time": 1701012694,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148535,
-      "num": 148535,
-      "word": "无价之宝在东北有多火",
-      "onboard_time": 1701014312,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 148459,
@@ -2979,6 +2979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117925,
+      "num": 117925,
+      "word": "热刺vs阿斯顿维拉",
+      "onboard_time": 1701015328,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115441,
       "num": 115441,
       "word": "鸳鸯锅 做早餐",
@@ -3001,14 +3009,6 @@
       "onboard_time": 1700978431,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 107823,
-      "num": 107823,
-      "word": "热刺vs阿斯顿维拉",
-      "onboard_time": 1701015328,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 107489,
@@ -3060,7 +3060,7 @@
     },
     {
       "raw_hot": 101564,
-      "num": 101564,
+      "num": 103572,
       "word": "自然蓬松颅顶的方法",
       "onboard_time": 1701012992,
       "rank": 46,
