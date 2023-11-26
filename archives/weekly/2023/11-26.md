@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/26 00:20:53 ~ 2023/11/27 05:15:31
+本榜单时间：2023/11/26 00:20:53 ~ 2023/11/27 05:49:36
 </p>
 </blockquote>
 <p>
@@ -2019,6 +2019,12 @@ NewJeans和JYP歌舞表演观众反应对比（热度：155912）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
+连撞11车特斯拉车主发声（热度：154116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%23" target="weibo">
 无畏契约（热度：153631）
 </a>
@@ -2207,12 +2213,6 @@ HITANDRUN夺冠（热度：138659）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%A4%E5%AE%9A%E7%BE%8E%E5%9B%BD%E7%99%BB%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%85%A7%E7%89%87%E6%98%AF%E5%81%87%E7%9A%84%23" target="weibo">
 美国人工智能判定美国登月任务照片是假的（热度：125231）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
-连撞11车特斯拉车主发声（热度：124833）
 </a>
 </li>
 
@@ -2481,6 +2481,12 @@ Cat知道错了（热度：70556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%BB%91%E4%BA%94%E7%BD%91%E8%B4%AD%E9%94%80%E5%94%AE%E9%A2%9D%E5%88%9B%E7%BA%AA%E5%BD%95%23" target="weibo">
+美国黑五网购销售额创纪录（热度：62078）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B5%B7%E4%B8%8A%E7%9A%84%E9%9B%AA%E5%A4%A9%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
 原来海上的雪天是这样的（热度：61045）
 </a>
@@ -2541,12 +2547,6 @@ Cat知道错了（热度：70556）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%BB%91%E4%BA%94%E7%BD%91%E8%B4%AD%E9%94%80%E5%94%AE%E9%A2%9D%E5%88%9B%E7%BA%AA%E5%BD%95%23" target="weibo">
-美国黑五网购销售额创纪录（热度：46927）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%97%93%E5%AD%90%E8%BF%98%E6%B2%A1%E5%A5%BD%23" target="weibo">
 秦岚嗓子还没好（热度：37566）
 </a>
@@ -2595,20 +2595,32 @@ Cat知道错了（热度：70556）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%9E%E6%92%9E11%E8%BD%A6%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C%23" target="weibo">
+特斯拉连撞11车当天刚上牌（热度：19118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E6%88%91%E5%88%AB%E7%94%A8%E8%8B%A5%E6%9B%A6%E7%8E%89%E6%AA%80%E5%88%80%23" target="weibo">
 杀我别用若曦玉檀刀（热度：17620）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%8A%9A%E6%85%B0%E7%8A%AC%E7%9C%8B%E5%88%B0%E4%B8%BB%E4%BA%BA%E7%8B%82%E5%90%83%E6%8A%AB%E8%90%A8%E6%97%B6%23" target="weibo">
-当抚慰犬看到主人狂吃披萨时（热度：12963）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%94%B7%E6%98%8E%E6%98%9F%E6%80%BC%E8%84%B8%E7%94%9F%E5%9B%BE%23" target="weibo">
+尖叫之夜男明星怼脸生图（热度：15580）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%9E%E6%92%9E11%E8%BD%A6%E5%BD%93%E5%A4%A9%E5%88%9A%E4%B8%8A%E7%89%8C%23" target="weibo">
-特斯拉连撞11车当天刚上牌（热度：11947）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%8A%9A%E6%85%B0%E7%8A%AC%E7%9C%8B%E5%88%B0%E4%B8%BB%E4%BA%BA%E7%8B%82%E5%90%83%E6%8A%AB%E8%90%A8%E6%97%B6%23" target="weibo">
+当抚慰犬看到主人狂吃披萨时（热度：14981）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%92%9F%E5%A4%A7%E6%8A%B1%E5%A5%B3%E5%84%BF%E8%BF%87%E9%A9%AC%E8%B7%AF%23" target="weibo">
+金钟大抱女儿过马路（热度：11973）
 </a>
 </li>
 
