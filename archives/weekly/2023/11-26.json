@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701026014708,
+  "endTime": 1701027233608,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -2995,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115725,
+      "num": 115725,
+      "word": "直系亲属犯罪是否会影响国考政审",
+      "onboard_time": 1701022875,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 115441,
       "num": 115441,
       "word": "鸳鸯锅 做早餐",
@@ -3129,14 +3137,6 @@
       "onboard_time": 1700925644,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85290,
-      "num": 85290,
-      "word": "直系亲属犯罪是否会影响国考政审",
-      "onboard_time": 1701022875,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 83899,
@@ -3425,6 +3425,22 @@
       "onboard_time": 1700954002,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17620,
+      "num": 17620,
+      "word": "杀我别用若曦玉檀刀",
+      "onboard_time": 1701026953,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14813,
+      "num": 17040,
+      "word": "连撞11车特斯拉车主发声",
+      "onboard_time": 1701026895,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11547,
