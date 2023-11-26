@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701029857553,
+  "endTime": 1701030859671,
   "band_list": [
     {
       "raw_hot": 993234,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112764,
+      "num": 112764,
+      "word": "连撞11车特斯拉车主发声",
+      "onboard_time": 1701026895,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111954,
       "num": 111954,
       "word": "何泓姗太爱鲁班7号了",
@@ -427,14 +435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 88434,
-      "num": 88434,
-      "word": "连撞11车特斯拉车主发声",
-      "onboard_time": 1701026895,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82700,
       "num": 51299,
       "word": "为什么3元饮料逐渐消失",
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19165,
+      "num": 19893,
+      "word": "美国黑五网购销售额创纪录",
+      "onboard_time": 1701029232,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 17620,
       "num": 19914,
       "word": "杀我别用若曦玉檀刀",
@@ -499,20 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13497,
-      "num": 19893,
-      "word": "美国黑五网购销售额创纪录",
-      "onboard_time": 1701029232,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 11547,
       "num": 569213,
       "word": "微观链博会",
       "onboard_time": 1701001536,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11105,
+      "num": 17559,
+      "word": "当抚慰犬看到主人狂吃披萨时",
+      "onboard_time": 1701030313,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

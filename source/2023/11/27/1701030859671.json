@@ -1,0 +1,410 @@
+{
+  "runTime": 1701030859671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 112764,
+        "num": 112764,
+        "word": "连撞11车特斯拉车主发声",
+        "onboard_time": 1701026895,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91302,
+        "num": 91302,
+        "word": "洗筷子不要来回搓",
+        "onboard_time": 1701013293,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5949,
+        "num": 79601,
+        "word": "微观链博会",
+        "onboard_time": 1701001536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73939,
+        "num": 73939,
+        "word": "直系亲属犯罪是否会影响国考政审",
+        "onboard_time": 1701022875,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47593,
+        "num": 47593,
+        "word": "小杨哥演唱会 Twins",
+        "onboard_time": 1701011365,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35951,
+        "num": 35951,
+        "word": "浙大男生为救窒息小孩旷课被点名",
+        "onboard_time": 1700998596,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33586,
+        "num": 33586,
+        "word": "俄3名特工在乌克兰吃外卖中毒身亡",
+        "onboard_time": 1700997153,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30113,
+        "num": 30113,
+        "word": "每个人嘎的时候都要骂甄嬛一句",
+        "onboard_time": 1701008077,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26085,
+        "num": 26085,
+        "word": "刘亦菲F1阿布扎比大奖赛观赛",
+        "onboard_time": 1701005796,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 25096,
+        "num": 25096,
+        "word": "姜雪宁一家三代都喜欢张遮",
+        "onboard_time": 1701017664,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61902,
+        "num": 25081,
+        "word": "宋轶社交 白敬亭不知道在忙什么",
+        "onboard_time": 1701003697,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29665,
+        "num": 25076,
+        "word": "家长副驾抱娃幼童被甩出车外身亡",
+        "onboard_time": 1701003158,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27196,
+        "num": 25070,
+        "word": "辛芷蕾P了Q版迪丽热巴",
+        "onboard_time": 1701013656,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25060,
+        "num": 25060,
+        "word": "冬季洗澡尽量控制在5到10分钟",
+        "onboard_time": 1700996133,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24519,
+        "num": 24519,
+        "word": "为什么肚子总是咕噜咕噜响",
+        "onboard_time": 1701009760,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24424,
+        "num": 24424,
+        "word": "林俊杰希望不要惊动到孙燕姿",
+        "onboard_time": 1701013173,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24116,
+        "num": 24116,
+        "word": "小杨哥演唱会",
+        "onboard_time": 1701000813,
+        "rank": 16,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 22277,
+        "num": 22277,
+        "word": "马来西亚将对中国游客免签",
+        "onboard_time": 1701001776,
+        "rank": 17,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 21997,
+        "num": 21997,
+        "word": "汽车博主马哥离世",
+        "onboard_time": 1700991092,
+        "rank": 18,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 19632,
+        "num": 19632,
+        "word": "多方回应网传贵州抢亲事件不实",
+        "onboard_time": 1701002074,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30662,
+        "num": 19625,
+        "word": "这种碳水不仅能减肚子还能改善脂肪肝",
+        "onboard_time": 1701007958,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27120,
+        "num": 19552,
+        "word": "为什么3元饮料逐渐消失",
+        "onboard_time": 1701020418,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23319,
+        "num": 19472,
+        "word": "心衰的早期信号有哪些",
+        "onboard_time": 1701013713,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22869,
+        "num": 19402,
+        "word": "5个动作24天彻底改变你的体态",
+        "onboard_time": 1701021077,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 19395,
+        "num": 19395,
+        "word": "无价之宝在东北有多火",
+        "onboard_time": 1701014312,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19165,
+        "num": 19165,
+        "word": "美国黑五网购销售额创纪录",
+        "onboard_time": 1701029232,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18480,
+        "num": 18480,
+        "word": "王鹤棣听到王鹤润名字的时候笑了",
+        "onboard_time": 1700997575,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17806,
+        "num": 17806,
+        "word": "易烊千玺景德镇",
+        "onboard_time": 1701014613,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17697,
+        "num": 17697,
+        "word": "白桃星座",
+        "onboard_time": 1701012632,
+        "rank": 28,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 17626,
+        "num": 17626,
+        "word": "射手座是不会有归属感的",
+        "onboard_time": 1701003518,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16366,
+        "num": 17626,
+        "word": "原来海上的雪天是这样的",
+        "onboard_time": 1701017963,
+        "rank": 30,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 18127,
+        "num": 17619,
+        "word": "王鹤棣张颂文 狂飙父子",
+        "onboard_time": 1700999316,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15733,
+        "num": 17618,
+        "word": "张婧仪 越素越美",
+        "onboard_time": 1701009099,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15444,
+        "num": 17614,
+        "word": "花少 迪丽热巴双商",
+        "onboard_time": 1701010237,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15206,
+        "num": 17612,
+        "word": "东方不败煮饺子",
+        "onboard_time": 1701013352,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15165,
+        "num": 17606,
+        "word": "筷子兄弟合体了",
+        "onboard_time": 1701007660,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15130,
+        "num": 17604,
+        "word": "韩网评尖叫之夜男明星造型",
+        "onboard_time": 1700992715,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14925,
+        "num": 17600,
+        "word": "一念关山",
+        "onboard_time": 1701012275,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14863,
+        "num": 17595,
+        "word": "伪装者明家姐弟在麦乐村再聚首",
+        "onboard_time": 1701000514,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14534,
+        "num": 17593,
+        "word": "曾舜晞 怎么你们有饭吃",
+        "onboard_time": 1701010775,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14419,
+        "num": 17590,
+        "word": "自然蓬松颅顶的方法",
+        "onboard_time": 1701012992,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14158,
+        "num": 17587,
+        "word": "跑男全员对糊过敏",
+        "onboard_time": 1700998057,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13369,
+        "num": 17585,
+        "word": "成毅张凌赫一个憨一个盲",
+        "onboard_time": 1701008677,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13238,
+        "num": 17580,
+        "word": "汪苏泷舞台",
+        "onboard_time": 1701011734,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12957,
+        "num": 17579,
+        "word": "帕梅拉不敢吃鸡爪",
+        "onboard_time": 1701009035,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 12814,
+        "num": 17574,
+        "word": "杀我别用若曦玉檀刀",
+        "onboard_time": 1701026953,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12587,
+        "num": 17571,
+        "word": "张大仙 复活吧我的爱人",
+        "onboard_time": 1701005559,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12515,
+        "num": 17565,
+        "word": "韩国男星的红毯造型",
+        "onboard_time": 1701007416,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12056,
+        "num": 17564,
+        "word": "杨幂新片将定档",
+        "onboard_time": 1701003158,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11105,
+        "num": 17559,
+        "word": "当抚慰犬看到主人狂吃披萨时",
+        "onboard_time": 1701030313,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#在数字经济互联网等领域持续扩大开放#"
+    }
+  }
+}
