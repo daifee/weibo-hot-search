@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701036947006,
+  "endTime": 1701038032483,
   "band_list": [
     {
       "raw_hot": 993234,
@@ -57,6 +57,14 @@
       "onboard_time": 1701014613,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418349,
+      "num": 418349,
+      "word": "连撞11车特斯拉车主发声",
+      "onboard_time": 1701026895,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409304,
@@ -137,14 +145,6 @@
       "onboard_time": 1701009696,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 265932,
-      "num": 265932,
-      "word": "连撞11车特斯拉车主发声",
-      "onboard_time": 1701026895,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242573,
@@ -427,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 91221,
+      "num": 91221,
+      "word": "美国黑五网购销售额创纪录",
+      "onboard_time": 1701029232,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 90406,
       "num": 90406,
       "word": "李泰容 不去澳门",
@@ -449,14 +457,6 @@
       "onboard_time": 1701002016,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75764,
-      "num": 75764,
-      "word": "美国黑五网购销售额创纪录",
-      "onboard_time": 1701029232,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 68133,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 48990,
-      "num": 40062,
+      "num": 40628,
       "word": "5个动作24天彻底改变你的体态",
       "onboard_time": 1701021077,
       "rank": 30,
@@ -499,28 +499,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29707,
-      "num": 29707,
-      "word": "特斯拉连撞11车当天刚上牌",
-      "onboard_time": 1701032474,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24713,
-      "num": 24713,
+      "raw_hot": 38907,
+      "num": 38907,
       "word": "尖叫之夜男明星怼脸生图",
       "onboard_time": 1701034093,
       "rank": 38,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19820,
-      "num": 21680,
+      "raw_hot": 38436,
+      "num": 38436,
+      "word": "特斯拉连撞11车当天刚上牌",
+      "onboard_time": 1701032474,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25499,
+      "num": 25499,
       "word": "金钟大抱女儿过马路",
       "onboard_time": 1701035293,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20998,
+      "num": 24371,
+      "word": "当抚慰犬看到主人狂吃披萨时",
+      "onboard_time": 1701030313,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 17620,
@@ -529,14 +537,6 @@
       "onboard_time": 1701026953,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16663,
-      "num": 21653,
-      "word": "当抚慰犬看到主人狂吃披萨时",
-      "onboard_time": 1701030313,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 11547,
