@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700972420059,
+  "endTime": 1700973241892,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 797331,
+      "num": 797331,
+      "word": "爱奇艺就不能放点果盘瓜子吗",
+      "onboard_time": 1700967393,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 792970,
       "num": 792970,
       "word": "多次被要求提供不同材料女子发火",
@@ -179,16 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 786972,
-      "num": 786972,
-      "word": "爱奇艺就不能放点果盘瓜子吗",
-      "onboard_time": 1700967393,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 746937,
-      "num": 746937,
+      "raw_hot": 774714,
+      "num": 774714,
       "word": "旭旭宝宝",
       "onboard_time": 1700968896,
       "rank": 13,
@@ -203,20 +203,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 728536,
+      "num": 728536,
+      "word": "杨幂新剧抽烟镜头",
+      "onboard_time": 1700970757,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 725619,
       "num": 587644,
       "word": "纸性恋",
       "onboard_time": 1700961211,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 685733,
-      "num": 685733,
-      "word": "杨幂新剧抽烟镜头",
-      "onboard_time": 1700970757,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 683660,
@@ -249,6 +249,14 @@
       "onboard_time": 1700962530,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 591402,
+      "num": 349291,
+      "word": "男子总拉肚子查出5处癌",
+      "onboard_time": 1700971473,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586979,
@@ -403,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407298,
-      "num": 349291,
-      "word": "男子总拉肚子查出5处癌",
-      "onboard_time": 1700971473,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406600,
       "num": 406600,
       "word": "海涛跟沈梦辰说他在家里带孩子",
@@ -449,6 +449,14 @@
       "onboard_time": 1700908781,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 376773,
+      "num": 376773,
+      "word": "杨幂复古丝绒绿裙",
+      "onboard_time": 1700972913,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 353400,
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298069,
+      "num": 298069,
+      "word": "言语理解",
+      "onboard_time": 1700972317,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 295978,
       "num": 243622,
       "word": "胡先煦 沙特人是真的很喜欢中国人",
@@ -635,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277671,
+      "num": 277671,
+      "word": "以闪亮之名",
+      "onboard_time": 1700972253,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274567,
       "num": 183306,
       "word": "王一博爱奇艺尖叫之夜出图",
@@ -649,6 +673,14 @@
       "onboard_time": 1700924628,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272055,
+      "num": 272055,
+      "word": "刘诗诗刘宇宁新剧打戏同步率",
+      "onboard_time": 1700972317,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 263322,
@@ -755,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225580,
+      "num": 225580,
+      "word": "何运晨打拳",
+      "onboard_time": 1700969734,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221057,
       "num": 221057,
       "word": "最适合圆脸方脸女生的发型",
@@ -795,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213582,
-      "num": 213582,
-      "word": "何运晨打拳",
-      "onboard_time": 1700969734,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212759,
       "num": 147465,
       "word": "杨幂脸上藏不住一点事",
@@ -819,6 +851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207731,
+      "num": 207731,
+      "word": "孟子义 更适合周深体质的开门大吉",
+      "onboard_time": 1700971175,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207087,
       "num": 207087,
       "word": "田曦薇 青春飞跃女演员",
@@ -827,20 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205620,
-      "num": 205620,
-      "word": "言语理解",
-      "onboard_time": 1700972317,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 202495,
-      "num": 202495,
-      "word": "孟子义 更适合周深体质的开门大吉",
-      "onboard_time": 1700971175,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 205434,
+      "num": 205434,
+      "word": "一念关山美女团建",
+      "onboard_time": 1700972735,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 202165,
@@ -931,12 +963,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 185977,
-      "num": 182785,
-      "word": "刘诗诗刘宇宁新剧打戏同步率",
-      "onboard_time": 1700972317,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 185544,
+      "num": 185544,
+      "word": "赵露思秒懂马丽演的偷偷藏不住",
+      "onboard_time": 1700972854,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 183617,
@@ -953,14 +985,6 @@
       "onboard_time": 1700910771,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 175576,
-      "num": 175576,
-      "word": "以闪亮之名",
-      "onboard_time": 1700972253,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 174772,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1700932945,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165776,
+      "num": 165776,
+      "word": "梅西一家在迪士尼",
+      "onboard_time": 1700972735,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 165262,
