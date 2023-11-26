@@ -1,0 +1,410 @@
+{
+  "runTime": 1700991246770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2232577,
+        "num": 2232577,
+        "word": "申论",
+        "onboard_time": 1700990312,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1429507,
+        "num": 1429507,
+        "word": "国考行测",
+        "onboard_time": 1700969435,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123668,
+        "num": 1020171,
+        "word": "不同病原体感染后症状有何不同",
+        "onboard_time": 1700985031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910246,
+        "num": 910246,
+        "word": "虞书欣也在嗑白敬亭宋轶",
+        "onboard_time": 1700981192,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801916,
+        "num": 801916,
+        "word": "国考结束",
+        "onboard_time": 1700990072,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 788817,
+        "num": 788817,
+        "word": "男子总拉肚子查出5处癌",
+        "onboard_time": 1700971473,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647135,
+        "num": 647135,
+        "word": "王鹤棣躺在王传君怀里聊天",
+        "onboard_time": 1700985932,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574399,
+        "num": 574399,
+        "word": "国考和考研哪个难",
+        "onboard_time": 1700981132,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 484964,
+        "num": 484964,
+        "word": "林俊杰嘉宾 孙燕姿",
+        "onboard_time": 1700988513,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 423529,
+        "num": 423529,
+        "word": "旭旭宝宝",
+        "onboard_time": 1700968896,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1215610,
+        "num": 417518,
+        "word": "王诗龄粉色抹胸纱裙",
+        "onboard_time": 1700985270,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 861191,
+        "num": 411203,
+        "word": "于和伟亲马东全过程",
+        "onboard_time": 1700977951,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404138,
+        "num": 404138,
+        "word": "Knight 哪里高就",
+        "onboard_time": 1700988633,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 397231,
+        "num": 397231,
+        "word": "福宝公主明天见",
+        "onboard_time": 1700988871,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335347,
+        "num": 335347,
+        "word": "刘宇宁演技",
+        "onboard_time": 1700986472,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334857,
+        "num": 334857,
+        "word": "长安汽车与华为签署投资合作备忘录",
+        "onboard_time": 1700989291,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 328564,
+        "num": 328564,
+        "word": "行测全靠蒙申论练书法",
+        "onboard_time": 1700989650,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 280351,
+        "num": 280351,
+        "word": "诺言说花海真帅",
+        "onboard_time": 1700988513,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 280141,
+        "num": 280141,
+        "word": "一个18寸的披萨比两个12寸的披萨大",
+        "onboard_time": 1700980229,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253200,
+        "num": 253200,
+        "word": "2024国考平均约77人竞争一岗位",
+        "onboard_time": 1700984674,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 966007,
+        "num": 252876,
+        "word": "金钟大女儿这么大了",
+        "onboard_time": 1700989412,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407109,
+        "num": 248358,
+        "word": "初一女生每天只睡6个半小时妈妈很焦虑",
+        "onboard_time": 1700984612,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 398075,
+        "num": 243567,
+        "word": "李一桐尖叫之夜五套造型",
+        "onboard_time": 1700987492,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322706,
+        "num": 242493,
+        "word": "国产剧婚姻终于不吵架不出轨了",
+        "onboard_time": 1700985031,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239836,
+        "num": 239836,
+        "word": "秦岚领奖魏大勋怕被切镜头提前离场",
+        "onboard_time": 1700967510,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231528,
+        "num": 231528,
+        "word": "刘诗诗紫色宫装造型",
+        "onboard_time": 1700987312,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228380,
+        "num": 228380,
+        "word": "张凌赫说喜欢看白鹿做手工",
+        "onboard_time": 1700981012,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214648,
+        "num": 214648,
+        "word": "曾舜晞饿了一天结果就一瓶水",
+        "onboard_time": 1700980773,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212881,
+        "num": 212881,
+        "word": "国考前四川现七彩祥云",
+        "onboard_time": 1700988153,
+        "rank": 28,
+        "category": "自然,教育"
+      },
+      {
+        "raw_hot": 125616,
+        "num": 193753,
+        "word": "近期我国急性呼吸道疾病持续上升",
+        "onboard_time": 1700984732,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215635,
+        "num": 193674,
+        "word": "马哥离世",
+        "onboard_time": 1700991092,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193141,
+        "num": 193141,
+        "word": "马嘉祺 迪士尼",
+        "onboard_time": 1700983174,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190032,
+        "num": 190032,
+        "word": "叶逸凡老婆奴",
+        "onboard_time": 1700989956,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185250,
+        "num": 185250,
+        "word": "BLG 中单",
+        "onboard_time": 1700978191,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180367,
+        "num": 180367,
+        "word": "EDG 最好的队长Meiko",
+        "onboard_time": 1700990375,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171654,
+        "num": 171654,
+        "word": "警方通报特斯拉连撞11车事故",
+        "onboard_time": 1700977771,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169128,
+        "num": 169128,
+        "word": "张大仙直播",
+        "onboard_time": 1700974292,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 153457,
+        "num": 153457,
+        "word": "2024年1月可查国考笔试成绩",
+        "onboard_time": 1700983413,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153242,
+        "num": 153242,
+        "word": "Doinb",
+        "onboard_time": 1700978133,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151070,
+        "num": 151070,
+        "word": "南方人又失去一种快乐",
+        "onboard_time": 1700990312,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149450,
+        "num": 149450,
+        "word": "崔胜澈机场图",
+        "onboard_time": 1700986233,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146079,
+        "num": 146079,
+        "word": "王鹤棣发文说多谢",
+        "onboard_time": 1700983891,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144640,
+        "num": 144640,
+        "word": "爱奇艺就不能放点果盘瓜子吗",
+        "onboard_time": 1700967393,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140341,
+        "num": 140341,
+        "word": "一部拍了60年的电影",
+        "onboard_time": 1700975014,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138176,
+        "num": 138176,
+        "word": "刘宇宁一念关山定妆花絮",
+        "onboard_time": 1700988391,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135746,
+        "num": 135746,
+        "word": "申论才是分水岭",
+        "onboard_time": 1700991214,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133684,
+        "num": 133684,
+        "word": "任贤齐9年前就给刘诗诗唱过OST",
+        "onboard_time": 1700978313,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133422,
+        "num": 133422,
+        "word": "小杨哥演唱会直播不带货",
+        "onboard_time": 1700980954,
+        "rank": 47,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 133018,
+        "num": 133018,
+        "word": "白敬亭倪妮坐一起",
+        "onboard_time": 1700982815,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129496,
+        "num": 129496,
+        "word": "XG官宣世巡",
+        "onboard_time": 1700989412,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#在数字经济互联网等领域持续扩大开放#"
+    }
+  }
+}

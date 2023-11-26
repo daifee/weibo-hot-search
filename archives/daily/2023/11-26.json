@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700990142185,
+  "endTime": 1700991246770,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -32,6 +32,14 @@
       "word": "国考",
       "onboard_time": 1700953820,
       "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2232577,
+      "num": 2232577,
+      "word": "申论",
+      "onboard_time": 1700970153,
+      "rank": 21,
       "category": "教育"
     },
     {
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1302522,
-      "num": 380235,
+      "num": 417518,
       "word": "王诗龄粉色抹胸纱裙",
       "onboard_time": 1700985270,
       "rank": 11,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966007,
+      "num": 252876,
+      "word": "金钟大女儿这么大了",
+      "onboard_time": 1700989412,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 930091,
       "num": 980626,
       "word": "王鹤棣 尖叫男演员",
@@ -227,12 +243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 800634,
-      "num": 237445,
-      "word": "金钟大女儿这么大了",
-      "onboard_time": 1700989412,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 801916,
+      "num": 801916,
+      "word": "国考结束",
+      "onboard_time": 1700990072,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 792970,
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574399,
+      "num": 574399,
+      "word": "国考和考研哪个难",
+      "onboard_time": 1700981132,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 566971,
       "num": 566971,
       "word": "国考答案",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 514619,
-      "num": 237174,
+      "num": 243567,
       "word": "李一桐尖叫之夜五套造型",
       "onboard_time": 1700987492,
       "rank": 33,
@@ -425,14 +449,6 @@
       "onboard_time": 1700975494,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 506895,
-      "num": 506895,
-      "word": "国考和考研哪个难",
-      "onboard_time": 1700981132,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 502925,
@@ -563,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436220,
-      "num": 436220,
-      "word": "申论",
-      "onboard_time": 1700970153,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
       "raw_hot": 425849,
       "num": 425849,
       "word": "连电视剧都有双休了",
@@ -627,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397231,
+      "num": 397231,
+      "word": "福宝公主明天见",
+      "onboard_time": 1700988871,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392124,
       "num": 392124,
       "word": "国考行测和申论哪个难",
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 378764,
-      "num": 236808,
+      "num": 242493,
       "word": "国产剧婚姻终于不吵架不出轨了",
       "onboard_time": 1700985031,
       "rank": 21,
@@ -771,12 +787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334857,
+      "num": 334857,
+      "word": "长安汽车与华为签署投资合作备忘录",
+      "onboard_time": 1700989291,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 332891,
       "num": 332891,
       "word": "关我秦岚什么事",
       "onboard_time": 1700915685,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328564,
+      "num": 328564,
+      "word": "行测全靠蒙申论练书法",
+      "onboard_time": 1700989650,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 321850,
@@ -996,7 +1028,7 @@
     },
     {
       "raw_hot": 270037,
-      "num": 223505,
+      "num": 231528,
       "word": "刘诗诗紫色宫装造型",
       "onboard_time": 1700987312,
       "rank": 25,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1700966313,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263149,
-      "num": 263149,
-      "word": "福宝公主明天见",
-      "onboard_time": 1700988871,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260920,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1700983652,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 253200,
+      "num": 253200,
+      "word": "2024国考平均约77人竞争一岗位",
+      "onboard_time": 1700984674,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 252622,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1700975430,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249233,
-      "num": 249233,
-      "word": "2024国考平均约77人竞争一岗位",
-      "onboard_time": 1700984674,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 247835,
@@ -1147,14 +1171,6 @@
       "category": "自然,教育"
     },
     {
-      "raw_hot": 236583,
-      "num": 236583,
-      "word": "长安汽车与华为签署投资合作备忘录",
-      "onboard_time": 1700989291,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 236333,
       "num": 236333,
       "word": "专家建议秋冬季每周洗1到2次澡",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1700980954,
       "rank": 26,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 226952,
-      "num": 226952,
-      "word": "行测全靠蒙申论练书法",
-      "onboard_time": 1700989650,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 225757,
@@ -1265,6 +1273,14 @@
       "onboard_time": 1700981734,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215635,
+      "num": 193674,
+      "word": "马哥离世",
+      "onboard_time": 1700991092,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 215365,
@@ -1403,14 +1419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 193852,
-      "num": 193852,
-      "word": "国考结束",
-      "onboard_time": 1700990072,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 192614,
       "num": 756230,
       "word": "切尔西北伐",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1700971117,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190032,
+      "num": 190032,
+      "word": "叶逸凡老婆奴",
+      "onboard_time": 1700989956,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 189708,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1700910771,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180367,
+      "num": 180367,
+      "word": "EDG 最好的队长Meiko",
+      "onboard_time": 1700990375,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 180181,
@@ -1643,14 +1667,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 162804,
-      "num": 162804,
-      "word": "叶逸凡老婆奴",
-      "onboard_time": 1700989956,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161546,
       "num": 158106,
       "word": "小满生活断食婚姻",
@@ -1691,8 +1707,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152973,
-      "num": 152973,
+      "raw_hot": 153457,
+      "num": 153457,
       "word": "2024年1月可查国考笔试成绩",
       "onboard_time": 1700983413,
       "rank": 37,
@@ -1705,6 +1721,14 @@
       "onboard_time": 1700959890,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 151070,
+      "num": 151070,
+      "word": "南方人又失去一种快乐",
+      "onboard_time": 1700990312,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 150468,
@@ -1803,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135746,
+      "num": 135746,
+      "word": "申论才是分水岭",
+      "onboard_time": 1700991214,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134206,
       "num": 134206,
       "word": "学会看健康体检报告",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1700952137,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123668,
+      "num": 1020171,
+      "word": "不同病原体感染后症状有何不同",
+      "onboard_time": 1700985031,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120242,
@@ -1960,14 +2000,6 @@
       "word": "台湾花莲海域4.2级地震",
       "onboard_time": 1700979689,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92926,
-      "num": 866721,
-      "word": "不同病原体感染后症状有何不同",
-      "onboard_time": 1700985031,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
