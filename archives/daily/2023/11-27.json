@@ -1,10 +1,10 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701040612787,
+  "endTime": 1701041653386,
   "band_list": [
     {
-      "raw_hot": 1188571,
-      "num": 1188571,
+      "raw_hot": 1493013,
+      "num": 1493013,
       "word": "连撞11车特斯拉车主发声",
       "onboard_time": 1701026895,
       "rank": 48,
@@ -35,12 +35,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 627039,
-      "num": 627039,
+      "raw_hot": 731679,
+      "num": 731679,
       "word": "小杨哥演唱会 Twins",
       "onboard_time": 1701011365,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 672625,
+      "num": 672625,
+      "word": "B太 我被漠河人留住了",
+      "onboard_time": 1701040162,
+      "rank": 11,
+      "category": "旅游,网红"
     },
     {
       "raw_hot": 515415,
@@ -91,6 +99,14 @@
       "category": "演出,网红"
     },
     {
+      "raw_hot": 369917,
+      "num": 369917,
+      "word": "浙大男生为救窒息小孩旷课被点名",
+      "onboard_time": 1700998596,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361221,
       "num": 284385,
       "word": "为什么肚子总是咕噜咕噜响",
@@ -99,12 +115,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 335042,
-      "num": 335042,
-      "word": "浙大男生为救窒息小孩旷课被点名",
-      "onboard_time": 1700998596,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 348417,
+      "num": 348417,
+      "word": "秦岚的嗓子一点没耽误唠嗑",
+      "onboard_time": 1701040162,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 311298,
@@ -147,16 +163,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 282355,
-      "num": 126987,
-      "word": "B太 我被漠河人留住了",
-      "onboard_time": 1701040162,
-      "rank": 11,
-      "category": "旅游,网红"
-    },
-    {
-      "raw_hot": 280332,
-      "num": 280332,
+      "raw_hot": 283147,
+      "num": 283147,
       "word": "姜雪宁一家三代都喜欢张遮",
       "onboard_time": 1701017664,
       "rank": 23,
@@ -169,6 +177,30 @@
       "onboard_time": 1700991092,
       "rank": 18,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 240577,
+      "num": 194888,
+      "word": "这种碳水不仅能减肚子还能改善脂肪肝",
+      "onboard_time": 1701007958,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234378,
+      "num": 212893,
+      "word": "张颂文为张译新电影包场",
+      "onboard_time": 1701040643,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 233687,
+      "num": 233687,
+      "word": "直系亲属犯罪是否会影响国考政审",
+      "onboard_time": 1701022875,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 228947,
@@ -195,14 +227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 209885,
-      "num": 194888,
-      "word": "这种碳水不仅能减肚子还能改善脂肪肝",
-      "onboard_time": 1701007958,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 203835,
       "num": 203835,
       "word": "刘亦菲F1阿布扎比大奖赛观赛",
@@ -211,12 +235,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 196871,
-      "num": 196871,
-      "word": "直系亲属犯罪是否会影响国考政审",
-      "onboard_time": 1701022875,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 194490,
+      "num": 114036,
+      "word": "脾胃不好气血不足就吃蒸苹果",
+      "onboard_time": 1701041365,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 190413,
@@ -249,6 +273,14 @@
       "onboard_time": 1701014312,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165021,
+      "num": 165021,
+      "word": "埃弗顿0比3曼联",
+      "onboard_time": 1701040463,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 160263,
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116241,
+      "num": 116241,
+      "word": "加纳乔倒钩",
+      "onboard_time": 1701040643,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114146,
       "num": 114146,
       "word": "跑男全员对糊过敏",
@@ -387,20 +427,20 @@
       "category": "电竞,艺人"
     },
     {
-      "raw_hot": 110996,
-      "num": 110996,
-      "word": "秦岚的嗓子一点没耽误唠嗑",
-      "onboard_time": 1701040162,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110570,
       "num": 108051,
       "word": "韩国男星的红毯造型",
       "onboard_time": 1701007416,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110445,
+      "num": 90622,
+      "word": "谷歌AI认定美国登月照片或造假",
+      "onboard_time": 1701041365,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 109211,
@@ -419,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104446,
-      "num": 104446,
-      "word": "埃弗顿0比3曼联",
-      "onboard_time": 1701040463,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 102058,
+      "num": 90074,
+      "word": "小杨哥演唱会线上观众超10万人",
+      "onboard_time": 1701041365,
+      "rank": 31,
+      "category": "演出,网红"
     },
     {
       "raw_hot": 101564,
@@ -459,6 +499,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 95858,
+      "num": 95858,
+      "word": "尖叫之夜男明星怼脸生图",
+      "onboard_time": 1701034093,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90904,
+      "num": 90904,
+      "word": "5个动作24天彻底改变你的体态",
+      "onboard_time": 1701021077,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 90406,
       "num": 90406,
       "word": "李泰容 不去澳门",
@@ -467,24 +523,24 @@
       "category": "演出"
     },
     {
-      "raw_hot": 89220,
-      "num": 89220,
-      "word": "尖叫之夜男明星怼脸生图",
-      "onboard_time": 1701034093,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 84040,
+      "num": 84040,
+      "word": "王星越立水瓶好臭屁",
+      "onboard_time": 1701041246,
+      "rank": 35,
+      "category": "综艺"
     },
     {
-      "raw_hot": 88165,
-      "num": 88165,
-      "word": "5个动作24天彻底改变你的体态",
-      "onboard_time": 1701021077,
-      "rank": 30,
-      "category": "运动健身"
+      "raw_hot": 83287,
+      "num": 83287,
+      "word": "田甜老公离婚前先转移财产",
+      "onboard_time": 1701002615,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 82700,
-      "num": 58480,
+      "num": 65971,
       "word": "为什么3元饮料逐渐消失",
       "onboard_time": 1701020418,
       "rank": 20,
@@ -499,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68985,
-      "num": 68985,
-      "word": "田甜老公离婚前先转移财产",
-      "onboard_time": 1701002615,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 71119,
+      "num": 71119,
+      "word": "小象出牙期非常痛苦",
+      "onboard_time": 1701041003,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 68133,
@@ -513,6 +569,22 @@
       "onboard_time": 1701020118,
       "rank": 16,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 65814,
+      "num": 65814,
+      "word": "虞书欣少女感双马尾",
+      "onboard_time": 1701041547,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64521,
+      "num": 64521,
+      "word": "国产剧婚姻终于不吵架不出轨了",
+      "onboard_time": 1700985031,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 62194,
@@ -563,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45344,
-      "num": 45344,
-      "word": "国产剧婚姻终于不吵架不出轨了",
-      "onboard_time": 1700985031,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20998,
       "num": 24371,
       "word": "当抚慰犬看到主人狂吃披萨时",
@@ -588,7 +652,7 @@
     },
     {
       "raw_hot": 14284,
-      "num": 569213,
+      "num": 701342,
       "word": "微观链博会",
       "onboard_time": 1701001536,
       "rank": 2,

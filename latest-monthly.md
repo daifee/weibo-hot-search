@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 07:16:52
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 07:34:13
 </p>
 </blockquote>
 <p>
@@ -2865,6 +2865,12 @@ WBG 选边（热度：1521385）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
+连撞11车特斯拉车主发声（热度：1493013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%98%AF%E5%AE%98%E5%AE%A3%E7%9A%84%E6%84%8F%E6%80%9D%E5%90%97%23" target="weibo">
 秦岚辛芷蕾是官宣的意思吗（热度：1491917）
 </a>
@@ -3971,12 +3977,6 @@ GEN难道只研究了T1（热度：1221313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%B8%BB%E6%92%AD%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E4%BD%8F%E6%8C%81%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
 与主播发生关系住持被停职（热度：1188960）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
-连撞11车特斯拉车主发声（热度：1188571）
 </a>
 </li>
 

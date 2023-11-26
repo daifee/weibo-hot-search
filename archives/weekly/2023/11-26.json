@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701040612787,
+  "endTime": 1701041653386,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -147,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1493013,
+      "num": 1493013,
+      "word": "连撞11车特斯拉车主发声",
+      "onboard_time": 1701026895,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1446148,
       "num": 1446148,
       "word": "男子总拉肚子查出5处癌",
@@ -209,14 +217,6 @@
       "onboard_time": 1701008077,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1188571,
-      "num": 1188571,
-      "word": "连撞11车特斯拉车主发声",
-      "onboard_time": 1701026895,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1185764,
@@ -419,6 +419,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 731679,
+      "num": 731679,
+      "word": "小杨哥演唱会 Twins",
+      "onboard_time": 1701011365,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 728536,
       "num": 728536,
       "word": "杨幂新剧抽烟镜头",
@@ -459,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 667310,
-      "num": 667310,
-      "word": "小杨哥演唱会 Twins",
-      "onboard_time": 1701011365,
-      "rank": 22,
-      "category": "演出"
+      "raw_hot": 672625,
+      "num": 672625,
+      "word": "B太 我被漠河人留住了",
+      "onboard_time": 1701040162,
+      "rank": 11,
+      "category": "旅游,网红"
     },
     {
       "raw_hot": 663334,
@@ -1155,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348417,
+      "num": 348417,
+      "word": "秦岚的嗓子一点没耽误唠嗑",
+      "onboard_time": 1701040162,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347640,
       "num": 250439,
       "word": "王阳说秦岚电音朵拉很酷",
@@ -1523,28 +1539,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 283147,
+      "num": 283147,
+      "word": "姜雪宁一家三代都喜欢张遮",
+      "onboard_time": 1701017664,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282486,
       "num": 277579,
       "word": "Knight关注BLG下路双人组",
       "onboard_time": 1700993677,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 282355,
-      "num": 126987,
-      "word": "B太 我被漠河人留住了",
-      "onboard_time": 1701040162,
-      "rank": 11,
-      "category": "旅游,网红"
-    },
-    {
-      "raw_hot": 280332,
-      "num": 280332,
-      "word": "姜雪宁一家三代都喜欢张遮",
-      "onboard_time": 1701017664,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 277671,
@@ -1817,6 +1825,22 @@
       "onboard_time": 1701007234,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234378,
+      "num": 212893,
+      "word": "张颂文为张译新电影包场",
+      "onboard_time": 1701040643,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 233687,
+      "num": 233687,
+      "word": "直系亲属犯罪是否会影响国考政审",
+      "onboard_time": 1701022875,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 233624,
@@ -2179,14 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196871,
-      "num": 196871,
-      "word": "直系亲属犯罪是否会影响国考政审",
-      "onboard_time": 1701022875,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 196805,
       "num": 196805,
       "word": "AG全员西装look",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1700972074,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194490,
+      "num": 114036,
+      "word": "脾胃不好气血不足就吃蒸苹果",
+      "onboard_time": 1701041365,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194202,
@@ -2609,6 +2633,14 @@
       "onboard_time": 1700961511,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165021,
+      "num": 165021,
+      "word": "埃弗顿0比3曼联",
+      "onboard_time": 1701040463,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 164125,
@@ -3027,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116241,
+      "num": 116241,
+      "word": "加纳乔倒钩",
+      "onboard_time": 1701040643,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115441,
       "num": 115441,
       "word": "鸳鸯锅 做早餐",
@@ -3043,12 +3083,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110996,
-      "num": 110996,
-      "word": "秦岚的嗓子一点没耽误唠嗑",
-      "onboard_time": 1701040162,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 110445,
+      "num": 90622,
+      "word": "谷歌AI认定美国登月照片或造假",
+      "onboard_time": 1701041365,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 108115,
@@ -3083,14 +3123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 104446,
-      "num": 104446,
-      "word": "埃弗顿0比3曼联",
-      "onboard_time": 1701040463,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104272,
       "num": 1145944,
       "word": "近期呼吸道疾病防治注意事项",
@@ -3105,6 +3137,14 @@
       "onboard_time": 1700979629,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102058,
+      "num": 90074,
+      "word": "小杨哥演唱会线上观众超10万人",
+      "onboard_time": 1701041365,
+      "rank": 31,
+      "category": "演出,网红"
     },
     {
       "raw_hot": 101567,
@@ -3139,6 +3179,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 95858,
+      "num": 95858,
+      "word": "尖叫之夜男明星怼脸生图",
+      "onboard_time": 1701034093,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 95361,
       "num": 95361,
       "word": "台湾花莲海域4.2级地震",
@@ -3153,6 +3201,14 @@
       "onboard_time": 1700923428,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90904,
+      "num": 90904,
+      "word": "5个动作24天彻底改变你的体态",
+      "onboard_time": 1701021077,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 90573,
@@ -3171,28 +3227,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 89220,
-      "num": 89220,
-      "word": "尖叫之夜男明星怼脸生图",
-      "onboard_time": 1701034093,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 88165,
-      "num": 88165,
-      "word": "5个动作24天彻底改变你的体态",
-      "onboard_time": 1701021077,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 87472,
       "num": 368358,
       "word": "山西施工事故相关责任人已被控制",
       "onboard_time": 1700925644,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84040,
+      "num": 84040,
+      "word": "王星越立水瓶好臭屁",
+      "onboard_time": 1701041246,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 83899,
@@ -3204,7 +3252,7 @@
     },
     {
       "raw_hot": 82700,
-      "num": 58480,
+      "num": 65971,
       "word": "为什么3元饮料逐渐消失",
       "onboard_time": 1701020418,
       "rank": 20,
@@ -3259,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71119,
+      "num": 71119,
+      "word": "小象出牙期非常痛苦",
+      "onboard_time": 1701041003,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 70556,
       "num": 278485,
       "word": "Cat知道错了",
@@ -3305,6 +3361,14 @@
       "onboard_time": 1700952617,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65814,
+      "num": 65814,
+      "word": "虞书欣少女感双马尾",
+      "onboard_time": 1701041547,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 65718,
