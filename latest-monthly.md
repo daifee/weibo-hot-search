@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 00:36:20
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 01:14:40
 </p>
 </blockquote>
 <p>
@@ -5091,6 +5091,12 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%AD%B7%E5%AD%90%E4%B8%8D%E8%A6%81%E6%9D%A5%E5%9B%9E%E6%90%93%23" target="weibo">
+洗筷子不要来回搓（热度：993234）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%9B%E5%95%86%E5%9C%BA%E5%8F%AA%E5%8E%BBB1B2%23" target="weibo">
 年轻人逛商场只去B1B2（热度：992265）
 </a>
@@ -6005,12 +6011,6 @@ ChatGPT可能已经有了意识（热度：873431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E8%B0%88%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%9C%88%23" target="weibo">
 雪莉谈韩国娱乐圈（热度：869665）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%AF%84%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%8E%B0%E7%8A%B6%23" target="weibo">
-韩国人评东北大学生现状（热度：869336）
 </a>
 </li>
 
