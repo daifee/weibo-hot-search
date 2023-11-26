@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700984045417,
+  "endTime": 1700986806744,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1401353,
+      "num": 1401353,
+      "word": "虞书欣也在嗑白敬亭宋轶",
+      "onboard_time": 1700981192,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1304615,
       "num": 1056318,
       "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
@@ -112,14 +120,6 @@
       "word": "杨幂王鹤棣台下扔水瓶",
       "onboard_time": 1700955143,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1241880,
-      "num": 1241880,
-      "word": "虞书欣也在嗑白敬亭宋轶",
-      "onboard_time": 1700981192,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638631,
+      "num": 315831,
+      "word": "王诗龄粉色抹胸纱裙",
+      "onboard_time": 1700985270,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 610588,
       "num": 610588,
       "word": "正式被确诊为试管",
@@ -355,6 +363,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 517663,
+      "num": 517663,
+      "word": "曾舜晞饿了一天结果就一瓶水",
+      "onboard_time": 1700980773,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516574,
       "num": 516574,
       "word": "张凌赫说喜欢看白鹿做手工",
@@ -385,6 +401,14 @@
       "onboard_time": 1700970633,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 490464,
+      "num": 257092,
+      "word": "初一女生每天只睡6个半小时妈妈很焦虑",
+      "onboard_time": 1700984612,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 486959,
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466581,
+      "num": 466581,
+      "word": "一个18寸的披萨比两个12寸的披萨大",
+      "onboard_time": 1700980229,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 460080,
       "num": 460080,
       "word": "2024国考锦鲤海报",
@@ -456,14 +488,6 @@
       "word": "虞书欣王鹤棣候场打招呼",
       "onboard_time": 1700967934,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 449402,
-      "num": 420943,
-      "word": "曾舜晞饿了一天结果就一瓶水",
-      "onboard_time": 1700980773,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -523,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 410317,
+      "num": 410317,
+      "word": "国考和考研哪个难",
+      "onboard_time": 1700981132,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 408873,
       "num": 1031413,
       "word": "北京朝阳警方立案侦查中植系所属财富公司",
@@ -563,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 391421,
+      "num": 305831,
+      "word": "外媒爆料Rookie加入NIP",
+      "onboard_time": 1700981433,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390783,
       "num": 390783,
       "word": "王俊凯滑雪服",
@@ -587,12 +627,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 362653,
-      "num": 362653,
-      "word": "国考和考研哪个难",
-      "onboard_time": 1700981132,
-      "rank": 9,
-      "category": "社会新闻,教育"
+      "raw_hot": 361974,
+      "num": 342205,
+      "word": "马嘉祺 迪士尼",
+      "onboard_time": 1700983174,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 354379,
+      "num": 232008,
+      "word": "国产剧婚姻终于不吵架不出轨了",
+      "onboard_time": 1700985031,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 353400,
@@ -619,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348665,
+      "num": 299516,
+      "word": "王鹤棣躺在王传君怀里聊天",
+      "onboard_time": 1700985932,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347640,
       "num": 250439,
       "word": "王阳说秦岚电音朵拉很酷",
@@ -641,14 +697,6 @@
       "onboard_time": 1700907759,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342205,
-      "num": 342205,
-      "word": "马嘉祺 迪士尼",
-      "onboard_time": 1700983174,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 340805,
@@ -683,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328591,
-      "num": 328591,
-      "word": "一个18寸的披萨比两个12寸的披萨大",
-      "onboard_time": 1700980229,
-      "rank": 31,
-      "category": "美食"
+      "raw_hot": 321850,
+      "num": 321850,
+      "word": "封神 狐传人现象",
+      "onboard_time": 1700983114,
+      "rank": 32,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 320894,
@@ -795,14 +843,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 298009,
-      "num": 298009,
-      "word": "外媒爆料Rookie加入NIP",
-      "onboard_time": 1700981433,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 295978,
       "num": 243622,
       "word": "胡先煦 沙特人是真的很喜欢中国人",
@@ -875,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275653,
+      "num": 215866,
+      "word": "不要让工作耽误了滑雪",
+      "onboard_time": 1700986532,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 274567,
       "num": 183306,
       "word": "王一博爱奇艺尖叫之夜出图",
@@ -897,6 +945,14 @@
       "onboard_time": 1700972317,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264825,
+      "num": 247713,
+      "word": "王鹤棣发文说多谢",
+      "onboard_time": 1700983891,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 263322,
@@ -923,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257406,
+      "num": 257406,
+      "word": "EDG 请补强",
+      "onboard_time": 1700983652,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252622,
       "num": 1029533,
       "word": "朱鹮洋洋去世",
@@ -947,20 +1011,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248996,
+      "num": 199314,
+      "word": "崔胜澈机场图",
+      "onboard_time": 1700986233,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247835,
       "num": 247835,
       "word": "国考报名人数首破300万",
       "onboard_time": 1700956466,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 247713,
-      "num": 247713,
-      "word": "王鹤棣发文说多谢",
-      "onboard_time": 1700983891,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 247237,
@@ -1171,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199834,
-      "num": 199834,
-      "word": "EDG 请补强",
-      "onboard_time": 1700983652,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 197590,
       "num": 197590,
       "word": "赵露思秒懂马丽演的偷偷藏不住",
@@ -1243,12 +1299,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 190557,
-      "num": 190557,
-      "word": "封神 狐传人现象",
-      "onboard_time": 1700983114,
-      "rank": 32,
-      "category": "动漫,电影"
+      "raw_hot": 191147,
+      "num": 191147,
+      "word": "富勒烯",
+      "onboard_time": 1700984013,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 190548,
@@ -1323,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181633,
+      "num": 181633,
+      "word": "2024国考平均约77人竞争一岗位",
+      "onboard_time": 1700984674,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 181594,
       "num": 912711,
       "word": "不能二次加热的食物",
@@ -1331,12 +1395,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180675,
+      "num": 195874,
+      "word": "近期我国急性呼吸道疾病持续上升",
+      "onboard_time": 1700984732,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180181,
       "num": 180181,
       "word": "马丽撤回了一个微笑",
       "onboard_time": 1700976571,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177366,
+      "num": 177366,
+      "word": "刘宇宁演技",
+      "onboard_time": 1700986472,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 175339,
@@ -1419,6 +1499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164125,
+      "num": 164125,
+      "word": "秦海璐胡先煦共享衣橱",
+      "onboard_time": 1700986112,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162927,
       "num": 162927,
       "word": "刘些宁花仙子",
@@ -1467,6 +1555,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 155912,
+      "num": 155912,
+      "word": "NewJeans和JYP歌舞表演观众反应对比",
+      "onboard_time": 1700981433,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152973,
       "num": 152973,
       "word": "2024年1月可查国考笔试成绩",
@@ -1483,14 +1579,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 152099,
-      "num": 152099,
-      "word": "NewJeans和JYP歌舞表演观众反应对比",
-      "onboard_time": 1700981433,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 150468,
       "num": 150468,
       "word": "涵艺爆料RNG接触LWX",
@@ -1505,6 +1593,14 @@
       "onboard_time": 1700979990,
       "rank": 39,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 149250,
+      "num": 149250,
+      "word": "原来猫咪平时都是踮着脚的",
+      "onboard_time": 1700985451,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 148459,
@@ -1635,6 +1731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120242,
+      "num": 120242,
+      "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
+      "onboard_time": 1700984732,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118451,
       "num": 118451,
       "word": "贡嘎群峰日照金山好震撼",
@@ -1657,14 +1761,6 @@
       "onboard_time": 1700961630,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 108769,
-      "num": 108769,
-      "word": "富勒烯",
-      "onboard_time": 1700984013,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 108115,
@@ -1785,6 +1881,14 @@
       "onboard_time": 1700908781,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77341,
+      "num": 573530,
+      "word": "不同病原体感染后症状有何不同",
+      "onboard_time": 1700985031,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75507,
@@ -1993,6 +2097,9 @@
     },
     {
       "word": "#读懂中国学解锁中国密码#"
+    },
+    {
+      "word": "#在数字经济互联网等领域持续扩大开放#"
     }
   ]
 }
