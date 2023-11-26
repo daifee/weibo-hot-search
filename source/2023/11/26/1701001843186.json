@@ -1,0 +1,410 @@
+{
+  "runTime": 1701001843186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2099661,
+        "num": 2099661,
+        "word": "冬季洗澡尽量控制在5到10分钟",
+        "onboard_time": 1700996133,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1225434,
+        "num": 1225434,
+        "word": "浙大男生为救窒息小孩旷课被点名",
+        "onboard_time": 1700998596,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9643,
+        "num": 946358,
+        "word": "微观链博会",
+        "onboard_time": 1701001536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942210,
+        "num": 942210,
+        "word": "时尚芭莎 尖叫之夜",
+        "onboard_time": 1700998714,
+        "rank": 3,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 881562,
+        "num": 881562,
+        "word": "俄3名特工在乌克兰吃外卖中毒身亡",
+        "onboard_time": 1700997153,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 934541,
+        "num": 878562,
+        "word": "汽车博主马哥离世",
+        "onboard_time": 1700991092,
+        "rank": 5,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 875125,
+        "num": 875125,
+        "word": "王鹤棣张颂文 狂飙父子",
+        "onboard_time": 1700999316,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737851,
+        "num": 737851,
+        "word": "跑男全员对糊过敏",
+        "onboard_time": 1700998057,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689692,
+        "num": 689692,
+        "word": "国考行测",
+        "onboard_time": 1700969435,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 597290,
+        "num": 597290,
+        "word": "演唱会下沉到县城之后",
+        "onboard_time": 1700991335,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 831550,
+        "num": 594477,
+        "word": "韩网评尖叫之夜男明星造型",
+        "onboard_time": 1700992715,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530387,
+        "num": 530387,
+        "word": "伪装者明家姐弟在麦乐村再聚首",
+        "onboard_time": 1701000514,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522576,
+        "num": 522576,
+        "word": "小杨哥演唱会",
+        "onboard_time": 1701000813,
+        "rank": 12,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 490981,
+        "num": 490981,
+        "word": "甜食吃多了真的会近视",
+        "onboard_time": 1701000455,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 355164,
+        "num": 355164,
+        "word": "虞书欣也在嗑白敬亭宋轶",
+        "onboard_time": 1700981192,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346729,
+        "num": 346729,
+        "word": "成毅发了与粉丝的合照",
+        "onboard_time": 1700999135,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338953,
+        "num": 338953,
+        "word": "李泰容 不去澳门",
+        "onboard_time": 1700996915,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331191,
+        "num": 331191,
+        "word": "初一女生每天只睡6个半小时妈妈很焦虑",
+        "onboard_time": 1700984612,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 309464,
+        "num": 309464,
+        "word": "申论大作文 材料写完了我写啥",
+        "onboard_time": 1700991696,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 290844,
+        "num": 290844,
+        "word": "申论",
+        "onboard_time": 1700990312,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 532989,
+        "num": 290435,
+        "word": "王鹤棣听到王鹤润名字的时候笑了",
+        "onboard_time": 1700997575,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323991,
+        "num": 279889,
+        "word": "王诗龄粉色抹胸纱裙",
+        "onboard_time": 1700985270,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315718,
+        "num": 273775,
+        "word": "于和伟亲马东全过程",
+        "onboard_time": 1700977951,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249320,
+        "num": 249320,
+        "word": "国考考研报名人数一升一降",
+        "onboard_time": 1701000095,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247225,
+        "num": 247225,
+        "word": "上午涂彩票 下午抄资料",
+        "onboard_time": 1701001176,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 304774,
+        "num": 245969,
+        "word": "金钟大女儿这么大了",
+        "onboard_time": 1700989412,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228333,
+        "num": 228333,
+        "word": "1小时看完地球45亿年发展史",
+        "onboard_time": 1700998474,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 218446,
+        "num": 218446,
+        "word": "林俊杰嘉宾 孙燕姿",
+        "onboard_time": 1700988513,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69666,
+        "num": 217559,
+        "word": "中国空间站的菜园欣欣向荣",
+        "onboard_time": 1700984913,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127173,
+        "num": 217128,
+        "word": "这跑道真的会让人爱上跑步",
+        "onboard_time": 1701001536,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 447353,
+        "num": 217116,
+        "word": "考研时政7页纸",
+        "onboard_time": 1701000336,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217102,
+        "num": 217102,
+        "word": "马来西亚将对中国游客免签",
+        "onboard_time": 1701001776,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 216507,
+        "num": 216507,
+        "word": "同事是个假装自卑的美女",
+        "onboard_time": 1700996614,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215295,
+        "num": 215295,
+        "word": "周迅演技 冬天被掀被子的凉意",
+        "onboard_time": 1700991393,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203055,
+        "num": 203055,
+        "word": "全城寻找的粉衣小姐姐找到了",
+        "onboard_time": 1700992236,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200206,
+        "num": 200206,
+        "word": "Alan 当年是谁让你跳大的",
+        "onboard_time": 1701001416,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194679,
+        "num": 194679,
+        "word": "范丞丞撤回一只摸李晨的手",
+        "onboard_time": 1700996794,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191002,
+        "num": 191002,
+        "word": "福宝公主明天见",
+        "onboard_time": 1700988871,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176124,
+        "num": 176124,
+        "word": "卫衣不卡脖子的方法",
+        "onboard_time": 1700998356,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 169843,
+        "num": 169843,
+        "word": "国考和考研哪个难",
+        "onboard_time": 1700981132,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165824,
+        "num": 165824,
+        "word": "国产剧婚姻终于不吵架不出轨了",
+        "onboard_time": 1700985031,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183015,
+        "num": 165077,
+        "word": "白鹿范丞丞 显眼包二人组",
+        "onboard_time": 1701001416,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161861,
+        "num": 161861,
+        "word": "看完宁安如梦的戒断反应",
+        "onboard_time": 1700997334,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159949,
+        "num": 159949,
+        "word": "刘诗诗和叶青又重逢了",
+        "onboard_time": 1701001416,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159786,
+        "num": 159786,
+        "word": "国考结束",
+        "onboard_time": 1700990072,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155552,
+        "num": 155552,
+        "word": "中国二字的最早出处",
+        "onboard_time": 1701000154,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153378,
+        "num": 153378,
+        "word": "男子总拉肚子查出5处癌",
+        "onboard_time": 1700971473,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142261,
+        "num": 142261,
+        "word": "侯明昊听咪咪咕噜",
+        "onboard_time": 1701001475,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140994,
+        "num": 140994,
+        "word": "王一博格纹外套造型超酷",
+        "onboard_time": 1700998233,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132995,
+        "num": 132995,
+        "word": "燕临 鲜衣怒马少年郎",
+        "onboard_time": 1700994455,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#在数字经济互联网等领域持续扩大开放#"
+    }
+  }
+}

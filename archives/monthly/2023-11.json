@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700998441869,
+  "endTime": 1701001843186,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1745,6 +1745,14 @@
       "onboard_time": 1698828391,
       "rank": 3,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2099661,
+      "num": 2099661,
+      "word": "冬季洗澡尽量控制在5到10分钟",
+      "onboard_time": 1700996133,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2099534,
@@ -5091,6 +5099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1225434,
+      "num": 1225434,
+      "word": "浙大男生为救窒息小孩旷课被点名",
+      "onboard_time": 1700998596,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1224717,
       "num": 1224717,
       "word": "爸爸通过监控显摆生日吃12个菜",
@@ -6025,14 +6041,6 @@
       "onboard_time": 1699013856,
       "rank": 3,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1087149,
-      "num": 1087149,
-      "word": "冬季洗澡尽量控制在5到10分钟",
-      "onboard_time": 1700996133,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1083594,
@@ -7235,6 +7243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 942210,
+      "num": 942210,
+      "word": "时尚芭莎 尖叫之夜",
+      "onboard_time": 1700998714,
+      "rank": 3,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 941621,
       "num": 941621,
       "word": "韩网友评价鬼怪过时",
@@ -7779,6 +7795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 881562,
+      "num": 881562,
+      "word": "俄3名特工在乌克兰吃外卖中毒身亡",
+      "onboard_time": 1700997153,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 881330,
       "num": 881330,
       "word": "奥特曼此前遭解雇或因AI威胁人类",
@@ -7840,6 +7864,14 @@
       "word": "披荆斩棘3总决赛",
       "onboard_time": 1699587211,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 875125,
+      "num": 875125,
+      "word": "王鹤棣张颂文 狂飙父子",
+      "onboard_time": 1700999316,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -10195,6 +10227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 737851,
+      "num": 737851,
+      "word": "跑男全员对糊过敏",
+      "onboard_time": 1700998057,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 737749,
       "num": 737749,
       "word": "十个勤天明天回去收水稻",
@@ -11105,14 +11145,6 @@
       "onboard_time": 1699696470,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 697037,
-      "num": 697037,
-      "word": "俄3名特工在乌克兰吃外卖中毒身亡",
-      "onboard_time": 1700997153,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 696977,
@@ -15795,6 +15827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 532989,
+      "num": 309516,
+      "word": "王鹤棣听到王鹤润名字的时候笑了",
+      "onboard_time": 1700997575,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532624,
       "num": 333278,
       "word": "赵昭仪情绪崩溃躲起来哭",
@@ -15865,6 +15905,14 @@
       "onboard_time": 1699001076,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530387,
+      "num": 530387,
+      "word": "伪装者明家姐弟在麦乐村再聚首",
+      "onboard_time": 1701000514,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 530367,
@@ -16121,6 +16169,14 @@
       "onboard_time": 1698843154,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 522576,
+      "num": 522576,
+      "word": "小杨哥演唱会",
+      "onboard_time": 1701000813,
+      "rank": 12,
+      "category": "演出,网红"
     },
     {
       "raw_hot": 521842,
@@ -17361,6 +17417,14 @@
       "onboard_time": 1700607982,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490981,
+      "num": 490981,
+      "word": "甜食吃多了真的会近视",
+      "onboard_time": 1701000455,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 490184,
@@ -19187,14 +19251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449270,
-      "num": 309516,
-      "word": "王鹤棣听到王鹤润名字的时候笑了",
-      "onboard_time": 1700997575,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 449077,
       "num": 449077,
       "word": "秦岚迪丽热巴拥抱",
@@ -19297,6 +19353,14 @@
       "onboard_time": 1699172130,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 447353,
+      "num": 217116,
+      "word": "考研时政7页纸",
+      "onboard_time": 1701000336,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 447054,
@@ -25689,6 +25753,14 @@
       "onboard_time": 1700093014,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 346729,
+      "num": 346729,
+      "word": "成毅发了与粉丝的合照",
+      "onboard_time": 1700999135,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 346587,
@@ -35203,6 +35275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249320,
+      "num": 249320,
+      "word": "国考考研报名人数一升一降",
+      "onboard_time": 1701000095,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 249313,
       "num": 249313,
       "word": "迪丽热巴窗边侧影",
@@ -35497,6 +35577,14 @@
       "onboard_time": 1700959230,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247225,
+      "num": 247225,
+      "word": "上午涂彩票 下午抄资料",
+      "onboard_time": 1701001176,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 247135,
@@ -35945,14 +36033,6 @@
       "onboard_time": 1699773869,
       "rank": 22,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 244764,
-      "num": 244764,
-      "word": "跑男全员对糊过敏",
-      "onboard_time": 1700998057,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 244724,
@@ -38379,6 +38459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228333,
+      "num": 228333,
+      "word": "1小时看完地球45亿年发展史",
+      "onboard_time": 1700998474,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 228331,
       "num": 228331,
       "word": "offer5全员爆料走心局",
@@ -40281,6 +40369,14 @@
       "onboard_time": 1700447251,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217102,
+      "num": 217102,
+      "word": "马来西亚将对中国游客免签",
+      "onboard_time": 1701001776,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 217098,
@@ -44273,6 +44369,14 @@
       "onboard_time": 1700741735,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200206,
+      "num": 200206,
+      "word": "Alan 当年是谁让你跳大的",
+      "onboard_time": 1701001416,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 200180,
@@ -49139,6 +49243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183015,
+      "num": 165077,
+      "word": "白鹿范丞丞 显眼包二人组",
+      "onboard_time": 1701001416,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182918,
       "num": 182918,
       "word": "在杭州吃饭被气笑了",
@@ -50627,6 +50739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176124,
+      "num": 176124,
+      "word": "卫衣不卡脖子的方法",
+      "onboard_time": 1700998356,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 175945,
       "num": 175945,
       "word": "关晓彤红衣琵琶女",
@@ -50865,14 +50985,6 @@
       "onboard_time": 1700287650,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175071,
-      "num": 175071,
-      "word": "卫衣不卡脖子的方法",
-      "onboard_time": 1700998356,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 175039,
@@ -54371,6 +54483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159949,
+      "num": 159949,
+      "word": "刘诗诗和叶青又重逢了",
+      "onboard_time": 1701001416,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159922,
       "num": 159922,
       "word": "高校回应剧组在校内拍摄用激光笔驱赶学生",
@@ -55281,6 +55401,14 @@
       "onboard_time": 1699979008,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155552,
+      "num": 155552,
+      "word": "中国二字的最早出处",
+      "onboard_time": 1701000154,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155492,
@@ -58395,6 +58523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142261,
+      "num": 142261,
+      "word": "侯明昊听咪咪咕噜",
+      "onboard_time": 1701001475,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142220,
       "num": 142220,
       "word": "冰岛近期或有较大规模地震和火山喷发",
@@ -58745,6 +58881,14 @@
       "onboard_time": 1700644959,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 140994,
+      "num": 140994,
+      "word": "王一博格纹外套造型超酷",
+      "onboard_time": 1700998233,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140981,
@@ -59953,14 +60097,6 @@
       "onboard_time": 1699333537,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134925,
-      "num": 134925,
-      "word": "王一博格纹外套造型超酷",
-      "onboard_time": 1700998233,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 134843,
@@ -61873,6 +62009,14 @@
       "onboard_time": 1699426780,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127173,
+      "num": 217128,
+      "word": "这跑道真的会让人爱上跑步",
+      "onboard_time": 1701001536,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 127155,
@@ -69035,6 +69179,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 69666,
+      "num": 217559,
+      "word": "中国空间站的菜园欣欣向荣",
+      "onboard_time": 1700984913,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69337,
       "num": 445402,
       "word": "精神分裂患者的世界太痛苦了",
@@ -71793,6 +71945,14 @@
       "onboard_time": 1700080333,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 9643,
+      "num": 946358,
+      "word": "微观链博会",
+      "onboard_time": 1701001536,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9382,

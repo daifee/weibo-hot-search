@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700998441869,
+  "endTime": 1701001843186,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -49,6 +49,14 @@
       "onboard_time": 1700970153,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2099661,
+      "num": 2099661,
+      "word": "冬季洗澡尽量控制在5到10分钟",
+      "onboard_time": 1700996133,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1935823,
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1225434,
+      "num": 1225434,
+      "word": "浙大男生为救窒息小孩旷课被点名",
+      "onboard_time": 1700998596,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1185764,
       "num": 1185764,
       "word": "行政执法卷 歹毒",
@@ -177,14 +193,6 @@
       "onboard_time": 1700959050,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1087149,
-      "num": 1087149,
-      "word": "冬季洗澡尽量控制在5到10分钟",
-      "onboard_time": 1700996133,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1032619,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 942210,
+      "num": 942210,
+      "word": "时尚芭莎 尖叫之夜",
+      "onboard_time": 1700998714,
+      "rank": 3,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 930091,
       "num": 980626,
       "word": "王鹤棣 尖叫男演员",
@@ -256,6 +272,22 @@
       "word": "张凌赫为什么像做贼",
       "onboard_time": 1700923367,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 881562,
+      "num": 881562,
+      "word": "俄3名特工在乌克兰吃外卖中毒身亡",
+      "onboard_time": 1700997153,
+      "rank": 48,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 875125,
+      "num": 875125,
+      "word": "王鹤棣张颂文 狂飙父子",
+      "onboard_time": 1700999316,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -307,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 737851,
+      "num": 737851,
+      "word": "跑男全员对糊过敏",
+      "onboard_time": 1700998057,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728536,
       "num": 728536,
       "word": "杨幂新剧抽烟镜头",
@@ -329,14 +369,6 @@
       "onboard_time": 1700984612,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 697037,
-      "num": 697037,
-      "word": "俄3名特工在乌克兰吃外卖中毒身亡",
-      "onboard_time": 1700997153,
-      "rank": 48,
-      "category": "国外时政"
     },
     {
       "raw_hot": 683660,
@@ -467,12 +499,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 532989,
+      "num": 309516,
+      "word": "王鹤棣听到王鹤润名字的时候笑了",
+      "onboard_time": 1700997575,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532411,
       "num": 532411,
       "word": "张凌赫一下子贡献了不少搞笑的梗",
       "onboard_time": 1700959712,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 530387,
+      "num": 530387,
+      "word": "伪装者明家姐弟在麦乐村再聚首",
+      "onboard_time": 1701000514,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 528853,
@@ -489,6 +537,14 @@
       "onboard_time": 1700965831,
       "rank": 19,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 522576,
+      "num": 522576,
+      "word": "小杨哥演唱会",
+      "onboard_time": 1701000813,
+      "rank": 12,
+      "category": "演出,网红"
     },
     {
       "raw_hot": 517663,
@@ -537,6 +593,14 @@
       "onboard_time": 1700970633,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 490981,
+      "num": 490981,
+      "word": "甜食吃多了真的会近视",
+      "onboard_time": 1701000455,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 486959,
@@ -619,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 449270,
-      "num": 309516,
-      "word": "王鹤棣听到王鹤润名字的时候笑了",
-      "onboard_time": 1700997575,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 448936,
       "num": 448936,
       "word": "Knight 哪里高就",
@@ -641,6 +697,14 @@
       "onboard_time": 1700926426,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447353,
+      "num": 217116,
+      "word": "考研时政7页纸",
+      "onboard_time": 1701000336,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 443549,
@@ -880,6 +944,14 @@
       "word": "成毅曾舜晞肖顺尧再唱天下",
       "onboard_time": 1700923968,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 346729,
+      "num": 346729,
+      "word": "成毅发了与粉丝的合照",
+      "onboard_time": 1700999135,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1299,6 +1371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249320,
+      "num": 249320,
+      "word": "国考考研报名人数一升一降",
+      "onboard_time": 1701000095,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 247835,
       "num": 247835,
       "word": "国考报名人数首破300万",
@@ -1315,20 +1395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247225,
+      "num": 247225,
+      "word": "上午涂彩票 下午抄资料",
+      "onboard_time": 1701001176,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246746,
       "num": 246746,
       "word": "鞠婧祎露肩毛衣",
       "onboard_time": 1700991757,
       "rank": 31,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 244764,
-      "num": 244764,
-      "word": "跑男全员对糊过敏",
-      "onboard_time": 1700998057,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 244530,
@@ -1419,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228333,
+      "num": 228333,
+      "word": "1小时看完地球45亿年发展史",
+      "onboard_time": 1700998474,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 225757,
       "num": 165336,
       "word": "徐艺洋是懂综艺节目套路的",
@@ -1489,6 +1577,14 @@
       "onboard_time": 1700959831,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217102,
+      "num": 217102,
+      "word": "马来西亚将对中国游客免签",
+      "onboard_time": 1701001776,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 216172,
@@ -1616,6 +1712,14 @@
       "word": "Wolves对战MRC",
       "onboard_time": 1700996430,
       "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 200206,
+      "num": 200206,
+      "word": "Alan 当年是谁让你跳大的",
+      "onboard_time": 1701001416,
+      "rank": 35,
       "category": "电竞"
     },
     {
@@ -1819,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183015,
+      "num": 165077,
+      "word": "白鹿范丞丞 显眼包二人组",
+      "onboard_time": 1701001416,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182388,
       "num": 209392,
       "word": "近期我国急性呼吸道疾病持续上升",
@@ -1859,20 +1971,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176124,
+      "num": 176124,
+      "word": "卫衣不卡脖子的方法",
+      "onboard_time": 1700998356,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 175339,
       "num": 175339,
       "word": "原来王一栩昨晚也在尖叫之夜",
       "onboard_time": 1700980109,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175071,
-      "num": 175071,
-      "word": "卫衣不卡脖子的方法",
-      "onboard_time": 1700998356,
-      "rank": 40,
-      "category": "时尚"
     },
     {
       "raw_hot": 174772,
@@ -2003,6 +2115,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 159949,
+      "num": 159949,
+      "word": "刘诗诗和叶青又重逢了",
+      "onboard_time": 1701001416,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159214,
       "num": 159214,
       "word": "扁头高马尾发型",
@@ -2017,6 +2137,14 @@
       "onboard_time": 1700981433,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155552,
+      "num": 155552,
+      "word": "中国二字的最早出处",
+      "onboard_time": 1701000154,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153457,
@@ -2091,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142261,
+      "num": 142261,
+      "word": "侯明昊听咪咪咕噜",
+      "onboard_time": 1701001475,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141942,
       "num": 141942,
       "word": "宁安如梦剧组在台上拍大合影",
@@ -2123,6 +2259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140994,
+      "num": 140994,
+      "word": "王一博格纹外套造型超酷",
+      "onboard_time": 1700998233,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139939,
       "num": 139939,
       "word": "4毛一片的国货卫生巾",
@@ -2145,14 +2289,6 @@
       "onboard_time": 1700979931,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134925,
-      "num": 134925,
-      "word": "王一博格纹外套造型超酷",
-      "onboard_time": 1700998233,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 134206,
@@ -2193,6 +2329,14 @@
       "onboard_time": 1700967574,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127173,
+      "num": 217128,
+      "word": "这跑道真的会让人爱上跑步",
+      "onboard_time": 1701001536,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 125231,
@@ -2411,6 +2555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69666,
+      "num": 217559,
+      "word": "中国空间站的菜园欣欣向荣",
+      "onboard_time": 1700984913,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69184,
       "num": 69184,
       "word": "哈弗茨绝杀",
@@ -2577,6 +2729,14 @@
       "onboard_time": 1700954002,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9643,
+      "num": 946358,
+      "word": "微观链博会",
+      "onboard_time": 1701001536,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
