@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700966438689,
+  "endTime": 1700968688177,
   "band_list": [
     {
       "raw_hot": 7011410,
@@ -35,6 +35,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1725862,
+      "num": 1725862,
+      "word": "马英九称台湾是台湾省不是国名",
+      "onboard_time": 1700965770,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1681573,
       "num": 1681573,
       "word": "白敬亭扶宋轶",
@@ -67,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1159980,
+      "num": 1159980,
+      "word": "国考笔试今日开考",
+      "onboard_time": 1700959050,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1032619,
       "num": 1032619,
       "word": "陈晓瘦脱相了",
@@ -89,6 +105,14 @@
       "onboard_time": 1700920127,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 987606,
+      "num": 987606,
+      "word": "国考",
+      "onboard_time": 1700953820,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 930091,
@@ -115,20 +139,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 848988,
+      "num": 848988,
+      "word": "秦岚领奖魏大勋怕被切镜头提前离场",
+      "onboard_time": 1700967510,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838402,
       "num": 838402,
       "word": "棣欣引力",
       "onboard_time": 1700912925,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 821623,
-      "num": 821623,
-      "word": "马英九称台湾是台湾省不是国名",
-      "onboard_time": 1700965770,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 792970,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 725619,
-      "num": 376462,
+      "num": 587644,
       "word": "纸性恋",
       "onboard_time": 1700961211,
       "rank": 48,
@@ -160,6 +184,14 @@
       "word": "何赛飞 现场发疯版尖叫之夜",
       "onboard_time": 1700957794,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 608805,
+      "num": 608805,
+      "word": "爱奇艺就不能放点果盘瓜子吗",
+      "onboard_time": 1700967393,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -187,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 554688,
-      "num": 554688,
-      "word": "国考笔试今日开考",
-      "onboard_time": 1700959050,
-      "rank": 7,
-      "category": "教育"
+      "raw_hot": 577392,
+      "num": 518022,
+      "word": "田曦薇穿棉袜穿高跟鞋",
+      "onboard_time": 1700967272,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 532411,
@@ -203,12 +235,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527519,
+      "num": 527519,
+      "word": "一批头部游戏主播被曝参与赌博洗钱",
+      "onboard_time": 1700965831,
+      "rank": 19,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 483917,
       "num": 483917,
       "word": "王一博尖叫之夜年度男主角",
       "onboard_time": 1700925882,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466905,
+      "num": 458353,
+      "word": "尖叫之夜结束后的我belike",
+      "onboard_time": 1700966552,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 458726,
+      "num": 458726,
+      "word": "2024国考锦鲤海报",
+      "onboard_time": 1700955865,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 454495,
@@ -275,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406463,
+      "num": 406463,
+      "word": "解放军中缅边境实战化演训最新消息",
+      "onboard_time": 1700966673,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 401772,
       "num": 401772,
       "word": "宋轶白敬亭魏大勋 切镜头",
@@ -291,12 +355,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 364999,
-      "num": 364999,
-      "word": "国考",
-      "onboard_time": 1700953820,
-      "rank": 6,
-      "category": "教育"
+      "raw_hot": 372213,
+      "num": 372213,
+      "word": "虞书欣王鹤棣候场打招呼",
+      "onboard_time": 1700967934,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 353400,
+      "num": 280232,
+      "word": "易烊千玺4%vol的河",
+      "onboard_time": 1700965770,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 353208,
@@ -372,15 +444,15 @@
     },
     {
       "raw_hot": 311001,
-      "num": 147228,
+      "num": 212577,
       "word": "7个儿童病毁灭药",
       "onboard_time": 1700964512,
       "rank": 31,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 308040,
-      "num": 146056,
+      "raw_hot": 309336,
+      "num": 309336,
       "word": "帮爷爷查话费时看到的短信记录",
       "onboard_time": 1700964269,
       "rank": 30,
@@ -393,6 +465,14 @@
       "onboard_time": 1700955323,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 304216,
+      "num": 276175,
+      "word": "虞书欣晒尖叫之夜奖杯",
+      "onboard_time": 1700967871,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 300296,
@@ -419,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288969,
+      "num": 275036,
+      "word": "你俩把眼睛闭上别吓到李荣浩",
+      "onboard_time": 1700965592,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285883,
       "num": 285883,
       "word": "张杰 泡沫",
@@ -435,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275036,
-      "num": 275036,
-      "word": "你俩把眼睛闭上别吓到李荣浩",
-      "onboard_time": 1700965592,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 274719,
+      "num": 274719,
+      "word": "霸王茶姬建议睡前适度饮茶",
+      "onboard_time": 1700968472,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 274567,
@@ -459,6 +547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263322,
+      "num": 263322,
+      "word": "爱奇艺尖叫之夜男女明星微指",
+      "onboard_time": 1700966313,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260920,
       "num": 223998,
       "word": "相亲相到老师",
@@ -475,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251587,
-      "num": 251587,
-      "word": "一批头部游戏主播被曝参与赌博洗钱",
-      "onboard_time": 1700965831,
-      "rank": 19,
-      "category": "社会新闻,游戏"
+      "raw_hot": 250758,
+      "num": 214980,
+      "word": "逼疯范丞丞只需要一个孟子义",
+      "onboard_time": 1700966370,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 247835,
@@ -524,19 +620,11 @@
     },
     {
       "raw_hot": 235124,
-      "num": 145559,
+      "num": 161245,
       "word": "毛小星 有些小明星的素质真的太差了",
       "onboard_time": 1700965530,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 229094,
-      "num": 144934,
-      "word": "易烊千玺4%vol的河",
-      "onboard_time": 1700965770,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 225757,
@@ -571,6 +659,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 218477,
+      "num": 218477,
+      "word": "国考行测和申论哪个难",
+      "onboard_time": 1700953520,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217851,
       "num": 217851,
       "word": "二进制小品",
@@ -579,12 +675,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213178,
-      "num": 213178,
-      "word": "国考行测和申论哪个难",
-      "onboard_time": 1700953520,
-      "rank": 13,
-      "category": "教育"
+      "raw_hot": 215225,
+      "num": 215225,
+      "word": "重庆男子狂奔9小时逃出缅北",
+      "onboard_time": 1700966132,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212759,
@@ -593,6 +689,14 @@
       "onboard_time": 1700958449,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210565,
+      "num": 210565,
+      "word": "思梦给杨幂化的妆",
+      "onboard_time": 1700968654,
+      "rank": 40,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 207087,
@@ -659,19 +763,11 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 183955,
-      "num": 143319,
-      "word": "逼疯范丞丞只需要一个孟子义",
-      "onboard_time": 1700966370,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 181696,
-      "num": 128189,
-      "word": "爱奇艺尖叫之夜男女明星微指",
-      "onboard_time": 1700966313,
-      "rank": 40,
+      "raw_hot": 183617,
+      "num": 183617,
+      "word": "周深说每次唱歌都很紧张",
+      "onboard_time": 1700968472,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -707,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168187,
+      "num": 211131,
+      "word": "05年女生化妆技术",
+      "onboard_time": 1700967994,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 166638,
       "num": 166638,
       "word": "补气血最快的小tips",
@@ -740,7 +844,7 @@
     },
     {
       "raw_hot": 160341,
-      "num": 142324,
+      "num": 158687,
       "word": "有用但有害的瘦背运动",
       "onboard_time": 1700966252,
       "rank": 37,
@@ -771,20 +875,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139987,
+      "num": 1256812,
+      "word": "航天员在太空也追剧下饭",
+      "onboard_time": 1700967031,
+      "rank": 2,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 134188,
       "num": 706491,
       "word": "李知恩cos海诺",
       "onboard_time": 1700918508,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134040,
-      "num": 134040,
-      "word": "2024国考锦鲤海报",
-      "onboard_time": 1700955865,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 132066,
@@ -801,6 +905,22 @@
       "onboard_time": 1700919108,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 131620,
+      "num": 131620,
+      "word": "湖人战胜骑士",
+      "onboard_time": 1700968594,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130810,
+      "num": 130810,
+      "word": "湖人vs骑士",
+      "onboard_time": 1700967574,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125231,
@@ -825,14 +945,6 @@
       "onboard_time": 1700964631,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 117048,
-      "num": 117048,
-      "word": "重庆男子狂奔9小时逃出缅北",
-      "onboard_time": 1700966132,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115441,
