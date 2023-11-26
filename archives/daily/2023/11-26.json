@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700980453258,
+  "endTime": 1700982937562,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -129,6 +129,14 @@
       "onboard_time": 1700959050,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1052347,
+      "num": 1052347,
+      "word": "虞书欣也在嗑白敬亭宋轶",
+      "onboard_time": 1700981192,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1032619,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528853,
+      "num": 528853,
+      "word": "杜华欢迎RAIN入股乐华男团",
+      "onboard_time": 1700982274,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527519,
       "num": 527519,
       "word": "一批头部游戏主播被曝参与赌博洗钱",
@@ -353,6 +369,14 @@
       "onboard_time": 1700970633,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 493571,
+      "num": 493571,
+      "word": "张凌赫说喜欢看白鹿做手工",
+      "onboard_time": 1700981012,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 486959,
@@ -427,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449402,
+      "num": 357187,
+      "word": "曾舜晞饿了一天结果就一瓶水",
+      "onboard_time": 1700980773,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 447864,
       "num": 447864,
       "word": "张颂文 年度实力男演员",
@@ -457,6 +489,14 @@
       "onboard_time": 1700970153,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 434883,
+      "num": 356762,
+      "word": "白敬亭倪妮坐一起",
+      "onboard_time": 1700982815,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 425849,
@@ -547,6 +587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 357850,
+      "num": 357850,
+      "word": "国考和考研哪个难",
+      "onboard_time": 1700981132,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 353400,
       "num": 329619,
       "word": "易烊千玺4%vol的河",
@@ -625,6 +673,14 @@
       "onboard_time": 1700915685,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324942,
+      "num": 324942,
+      "word": "一个18寸的披萨比两个12寸的披萨大",
+      "onboard_time": 1700980229,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 320894,
@@ -755,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288238,
+      "num": 288238,
+      "word": "外媒爆料Rookie加入NIP",
+      "onboard_time": 1700981433,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 285883,
       "num": 285883,
       "word": "张杰 泡沫",
@@ -883,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245935,
+      "num": 245935,
+      "word": "成毅回座位还得开导航",
+      "onboard_time": 1700981494,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244530,
       "num": 572819,
       "word": "韩国一女子杀人分尸称痴迷犯罪想尝试谋杀",
@@ -987,6 +1059,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 219669,
+      "num": 219669,
+      "word": "小杨哥演唱会直播不带货",
+      "onboard_time": 1700980954,
+      "rank": 26,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 217851,
       "num": 217851,
       "word": "二进制小品",
@@ -1027,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211748,
-      "num": 176286,
-      "word": "一个18寸的披萨比两个12寸的披萨大",
-      "onboard_time": 1700980229,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 208840,
       "num": 208840,
       "word": "国考时间",
@@ -1048,6 +1120,14 @@
       "word": "孟子义 更适合周深体质的开门大吉",
       "onboard_time": 1700971175,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207651,
+      "num": 207651,
+      "word": "丁程鑫吓到面无血色",
+      "onboard_time": 1700981734,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1161,6 +1241,14 @@
       "onboard_time": 1700968594,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188292,
+      "num": 188292,
+      "word": "杨迪摔到怀疑人生",
+      "onboard_time": 1700980229,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 187265,
@@ -1339,20 +1427,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 155215,
-      "num": 155215,
-      "word": "杨迪摔到怀疑人生",
-      "onboard_time": 1700980229,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152516,
       "num": 152516,
       "word": "化妆最大的价值",
       "onboard_time": 1700959890,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 152099,
+      "num": 152099,
+      "word": "NewJeans和JYP歌舞表演观众反应对比",
+      "onboard_time": 1700981433,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150468,
@@ -1411,6 +1499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138024,
+      "num": 138024,
+      "word": "佘诗曼说文慧心不懂生活",
+      "onboard_time": 1700981975,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136469,
+      "num": 136469,
+      "word": "论突然公开提到前任能有多尴尬",
+      "onboard_time": 1700979931,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134206,
       "num": 134206,
       "word": "学会看健康体检报告",
@@ -1459,20 +1563,20 @@
       "category": "国外时政,科学科普"
     },
     {
+      "raw_hot": 124457,
+      "num": 124457,
+      "word": "快船19分大胜独行侠",
+      "onboard_time": 1700980593,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124124,
       "num": 81342,
       "word": "陆虎 陆佰",
       "onboard_time": 1700952137,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122291,
-      "num": 122291,
-      "word": "论突然公开提到前任能有多尴尬",
-      "onboard_time": 1700979931,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 118451,
@@ -1809,6 +1913,14 @@
       "onboard_time": 1700954002,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21701,
+      "num": 1065345,
+      "word": "舌尖上的雪龙号",
+      "onboard_time": 1700966731,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1700982937562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6755014,
+        "num": 6755014,
+        "word": "于和伟亲马东全过程",
+        "onboard_time": 1700977951,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1135036,
+        "num": 1135036,
+        "word": "男子总拉肚子查出5处癌",
+        "onboard_time": 1700971473,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21701,
+        "num": 1065345,
+        "word": "舌尖上的雪龙号",
+        "onboard_time": 1700966731,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052347,
+        "num": 1052347,
+        "word": "虞书欣也在嗑白敬亭宋轶",
+        "onboard_time": 1700981192,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545983,
+        "num": 545983,
+        "word": "旭旭宝宝",
+        "onboard_time": 1700968896,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 534707,
+        "num": 534707,
+        "word": "秦岚领奖魏大勋怕被切镜头提前离场",
+        "onboard_time": 1700967510,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528853,
+        "num": 528853,
+        "word": "杜华欢迎RAIN入股乐华男团",
+        "onboard_time": 1700982274,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523308,
+        "num": 523308,
+        "word": "正式被确诊为试管",
+        "onboard_time": 1700978251,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 493571,
+        "num": 493571,
+        "word": "张凌赫说喜欢看白鹿做手工",
+        "onboard_time": 1700981012,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357850,
+        "num": 357850,
+        "word": "国考和考研哪个难",
+        "onboard_time": 1700981132,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 449402,
+        "num": 357187,
+        "word": "曾舜晞饿了一天结果就一瓶水",
+        "onboard_time": 1700980773,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440828,
+        "num": 356848,
+        "word": "一部拍了60年的电影",
+        "onboard_time": 1700975014,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434883,
+        "num": 356762,
+        "word": "白敬亭倪妮坐一起",
+        "onboard_time": 1700982815,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356385,
+        "num": 356385,
+        "word": "BLG 中单",
+        "onboard_time": 1700978191,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 324942,
+        "num": 324942,
+        "word": "一个18寸的披萨比两个12寸的披萨大",
+        "onboard_time": 1700980229,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 374186,
+        "num": 324274,
+        "word": "爱奇艺就不能放点果盘瓜子吗",
+        "onboard_time": 1700967393,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322539,
+        "num": 322539,
+        "word": "国考行测",
+        "onboard_time": 1700969435,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 304936,
+        "num": 304936,
+        "word": "白鹿 轻舟已过万重山",
+        "onboard_time": 1700961395,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288238,
+        "num": 288238,
+        "word": "外媒爆料Rookie加入NIP",
+        "onboard_time": 1700981433,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 285290,
+        "num": 285290,
+        "word": "警方通报特斯拉连撞11车事故",
+        "onboard_time": 1700977771,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280950,
+        "num": 280950,
+        "word": "男性 HPV",
+        "onboard_time": 1700975494,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274387,
+        "num": 274387,
+        "word": "张大仙直播",
+        "onboard_time": 1700974292,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 262377,
+        "num": 262377,
+        "word": "田曦薇穿棉袜穿高跟鞋",
+        "onboard_time": 1700967272,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251416,
+        "num": 251416,
+        "word": "Doinb",
+        "onboard_time": 1700978133,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245935,
+        "num": 245935,
+        "word": "成毅回座位还得开导航",
+        "onboard_time": 1700981494,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239485,
+        "num": 239485,
+        "word": "马英九称台湾是台湾省不是国名",
+        "onboard_time": 1700965770,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219669,
+        "num": 219669,
+        "word": "小杨哥演唱会直播不带货",
+        "onboard_time": 1700980954,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 207651,
+        "num": 207651,
+        "word": "丁程鑫吓到面无血色",
+        "onboard_time": 1700981734,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193590,
+        "num": 193590,
+        "word": "杨幂 于和伟亲马东了",
+        "onboard_time": 1700924084,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153500,
+        "num": 189332,
+        "word": "专家建议秋冬季每周洗1到2次澡",
+        "onboard_time": 1700973572,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 189183,
+        "num": 189183,
+        "word": "王者荣耀",
+        "onboard_time": 1700976274,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188292,
+        "num": 188292,
+        "word": "杨迪摔到怀疑人生",
+        "onboard_time": 1700980229,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179710,
+        "num": 179710,
+        "word": "Uzi回应为何决定复出",
+        "onboard_time": 1700979213,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161051,
+        "num": 161051,
+        "word": "Cat直播回应花海",
+        "onboard_time": 1700978732,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152099,
+        "num": 152099,
+        "word": "NewJeans和JYP歌舞表演观众反应对比",
+        "onboard_time": 1700981433,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148054,
+        "num": 148054,
+        "word": "宋江新剧",
+        "onboard_time": 1700979990,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142804,
+        "num": 142804,
+        "word": "杨幂复古丝绒绿裙",
+        "onboard_time": 1700972913,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139834,
+        "num": 139834,
+        "word": "原来王一栩昨晚也在尖叫之夜",
+        "onboard_time": 1700980109,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138024,
+        "num": 138024,
+        "word": "佘诗曼说文慧心不懂生活",
+        "onboard_time": 1700981975,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135402,
+        "num": 136712,
+        "word": "行测结束网友自嘲轻舟已撞大冰山",
+        "onboard_time": 1700979450,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136469,
+        "num": 136469,
+        "word": "论突然公开提到前任能有多尴尬",
+        "onboard_time": 1700979931,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135438,
+        "num": 135438,
+        "word": "任贤齐9年前就给刘诗诗唱过OST",
+        "onboard_time": 1700978313,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134459,
+        "num": 134459,
+        "word": "虞书欣王鹤棣候场打招呼",
+        "onboard_time": 1700967934,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129965,
+        "num": 129965,
+        "word": "早期女明星妆",
+        "onboard_time": 1700979990,
+        "rank": 43,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 124827,
+        "num": 124827,
+        "word": "涵艺爆料Yagao加入JDG",
+        "onboard_time": 1700977472,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124457,
+        "num": 124457,
+        "word": "快船19分大胜独行侠",
+        "onboard_time": 1700980593,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117010,
+        "num": 117010,
+        "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
+        "onboard_time": 1700954241,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111394,
+        "num": 111394,
+        "word": "田曦薇看得到的野心",
+        "onboard_time": 1700969194,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109027,
+        "num": 109027,
+        "word": "学会看健康体检报告",
+        "onboard_time": 1700980229,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108248,
+        "num": 108248,
+        "word": "导演为什么要这么拍张凌赫",
+        "onboard_time": 1700975912,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#以高质量发展全面推进中国式现代化#"
+    }
+  }
+}
