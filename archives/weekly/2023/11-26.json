@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701018880470,
+  "endTime": 1701020038716,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -2963,6 +2963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122263,
+      "num": 106131,
+      "word": "姜雪宁一家三代都喜欢张遮",
+      "onboard_time": 1701017664,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120242,
       "num": 120242,
       "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
@@ -3049,14 +3057,6 @@
       "onboard_time": 1700979629,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102231,
-      "num": 102231,
-      "word": "姜雪宁一家三代都喜欢张遮",
-      "onboard_time": 1701017664,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 101567,
@@ -3259,6 +3259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61045,
+      "num": 61045,
+      "word": "原来海上的雪天是这样的",
+      "onboard_time": 1701017963,
+      "rank": 45,
+      "category": "自然"
+    },
+    {
       "raw_hot": 57998,
       "num": 47822,
       "word": "袁弘一张照片拿到热搜角色",
@@ -3281,14 +3289,6 @@
       "onboard_time": 1700939355,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 55488,
-      "num": 55488,
-      "word": "原来海上的雪天是这样的",
-      "onboard_time": 1701017963,
-      "rank": 45,
-      "category": "自然"
     },
     {
       "raw_hot": 52321,
@@ -3321,6 +3321,14 @@
       "onboard_time": 1700907633,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47500,
+      "num": 49078,
+      "word": "蔡文静每句话都扎在了丁程鑫心里",
+      "onboard_time": 1701019820,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 37566,
