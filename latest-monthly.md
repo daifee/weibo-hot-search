@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/26 10:30:03
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/26 10:40:38
 </p>
 </blockquote>
 <p>
@@ -1617,6 +1617,12 @@ WBG对战BLG（热度：2001531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1%23" target="weibo">
+白鹿 轻舟已过万重山（热度：1935823）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E5%A7%90%23" target="weibo">
 老公姐（热度：1927412）
 </a>
@@ -1817,12 +1823,6 @@ T1拿到决赛赛点（热度：1835312）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%AE%9D%E6%A0%BC%E4%B8%BD%23" target="weibo">
 刘亦菲 宝格丽（热度：1808611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1%23" target="weibo">
-白鹿 轻舟已过万重山（热度：1807646）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1700966438689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1935823,
+        "num": 1935823,
+        "word": "白鹿 轻舟已过万重山",
+        "onboard_time": 1700961395,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821623,
+        "num": 821623,
+        "word": "马英九称台湾是台湾省不是国名",
+        "onboard_time": 1700965770,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33341,
+        "num": 742164,
+        "word": "中国基建狂魔即将打通天山",
+        "onboard_time": 1700897137,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 836248,
+        "num": 739105,
+        "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
+        "onboard_time": 1700954241,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734776,
+        "num": 734776,
+        "word": "多次被要求提供不同材料女子发火",
+        "onboard_time": 1700960430,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277291,
+        "num": 733644,
+        "word": "白敬亭扶宋轶",
+        "onboard_time": 1700960430,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727069,
+        "num": 727069,
+        "word": "伍佰合肥演唱会被曝观众大喊退票",
+        "onboard_time": 1700954060,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 603956,
+        "num": 603956,
+        "word": "网红直播村村民一年收租300万",
+        "onboard_time": 1700962530,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 515750,
+        "num": 515750,
+        "word": "张凌赫一下子贡献了不少搞笑的梗",
+        "onboard_time": 1700959712,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337797,
+        "num": 337797,
+        "word": "停止焦虑的办法是停止刷手机",
+        "onboard_time": 1700955263,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 784846,
+        "num": 335971,
+        "word": "杨幂 于和伟亲马东了",
+        "onboard_time": 1700924084,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725619,
+        "num": 325667,
+        "word": "纸性恋",
+        "onboard_time": 1700961211,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 654800,
+        "num": 321590,
+        "word": "杨幂王鹤棣台下扔水瓶",
+        "onboard_time": 1700955143,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443823,
+        "num": 311378,
+        "word": "白敬亭你小子嘴角不要太明显了",
+        "onboard_time": 1700962593,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429848,
+        "num": 302937,
+        "word": "金马影后林品彤 12岁",
+        "onboard_time": 1700926187,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297582,
+        "num": 297582,
+        "word": "TES Ming",
+        "onboard_time": 1700955323,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295612,
+        "num": 295612,
+        "word": "陈晓瘦脱相了",
+        "onboard_time": 1700918750,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289328,
+        "num": 289328,
+        "word": "第二批获释人员已进入以境内",
+        "onboard_time": 1700963610,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 275036,
+        "num": 275036,
+        "word": "你俩把眼睛闭上别吓到李荣浩",
+        "onboard_time": 1700965592,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251587,
+        "num": 251587,
+        "word": "一批头部游戏主播被曝参与赌博洗钱",
+        "onboard_time": 1700965831,
+        "rank": 19,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 260580,
+        "num": 250439,
+        "word": "王阳说秦岚电音朵拉很酷",
+        "onboard_time": 1700960250,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243622,
+        "num": 243622,
+        "word": "胡先煦 沙特人是真的很喜欢中国人",
+        "onboard_time": 1700962530,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238334,
+        "num": 238334,
+        "word": "白鹿 尖叫女演员",
+        "onboard_time": 1700923549,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237811,
+        "num": 237811,
+        "word": "斗鱼陈少杰被捕后多位大主播已停播",
+        "onboard_time": 1700937137,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208093,
+        "num": 208093,
+        "word": "最适合圆脸方脸女生的发型",
+        "onboard_time": 1700959171,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 236876,
+        "num": 206360,
+        "word": "吴慷仁 金马影帝",
+        "onboard_time": 1700926666,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230874,
+        "num": 198829,
+        "word": "何赛飞 现场发疯版尖叫之夜",
+        "onboard_time": 1700957794,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186133,
+        "num": 186133,
+        "word": "这4种喝水方式很伤身",
+        "onboard_time": 1700963011,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 183216,
+        "num": 183216,
+        "word": "国考笔试今日开考",
+        "onboard_time": 1700959050,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147677,
+        "num": 147677,
+        "word": "女硕士种3200亩地称像打游戏一样简单",
+        "onboard_time": 1700956646,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311001,
+        "num": 147228,
+        "word": "7个儿童病毁灭药",
+        "onboard_time": 1700964512,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228512,
+        "num": 146884,
+        "word": "在谈vs分了",
+        "onboard_time": 1700911968,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283021,
+        "num": 146056,
+        "word": "帮爷爷查话费时看到的短信记录",
+        "onboard_time": 1700964269,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235124,
+        "num": 145559,
+        "word": "毛小星 有些小明星的素质真的太差了",
+        "onboard_time": 1700965530,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229094,
+        "num": 144287,
+        "word": "易烊千玺4%vol的河",
+        "onboard_time": 1700965770,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185964,
+        "num": 144043,
+        "word": "蓝色系的邓为",
+        "onboard_time": 1700963072,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183955,
+        "num": 143319,
+        "word": "逼疯范丞丞只需要一个孟子义",
+        "onboard_time": 1700966370,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160341,
+        "num": 142324,
+        "word": "有用但有害的瘦背运动",
+        "onboard_time": 1700966252,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142113,
+        "num": 142113,
+        "word": "国考最热岗位3572人只招1人",
+        "onboard_time": 1700961511,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128748,
+        "num": 128748,
+        "word": "补气血最快的小tips",
+        "onboard_time": 1700959531,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181696,
+        "num": 128189,
+        "word": "爱奇艺尖叫之夜男女明星微指",
+        "onboard_time": 1700966313,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178150,
+        "num": 127879,
+        "word": "种地吧",
+        "onboard_time": 1700964753,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175272,
+        "num": 127105,
+        "word": "莲花楼天下完整版",
+        "onboard_time": 1700961271,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165829,
+        "num": 126609,
+        "word": "王鹤棣 e人社交",
+        "onboard_time": 1700959230,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163295,
+        "num": 125987,
+        "word": "王一博爱奇艺尖叫之夜出图",
+        "onboard_time": 1700956527,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125496,
+        "num": 125496,
+        "word": "2024国考锦鲤海报",
+        "onboard_time": 1700955865,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122684,
+        "num": 122684,
+        "word": "相亲相到老师",
+        "onboard_time": 1700954060,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117425,
+        "num": 117425,
+        "word": "王者荣耀拖米",
+        "onboard_time": 1700960671,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117048,
+        "num": 117048,
+        "word": "重庆男子狂奔9小时逃出缅北",
+        "onboard_time": 1700966132,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100391,
+        "num": 116979,
+        "word": "国考",
+        "onboard_time": 1700953820,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国学解锁中国密码#"
+    }
+  }
+}
