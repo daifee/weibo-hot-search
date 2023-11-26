@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700962809891,
+  "endTime": 1700965803145,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2409,6 +2409,14 @@
       "onboard_time": 1700134172,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1807646,
+      "num": 1807646,
+      "word": "白鹿 轻舟已过万重山",
+      "onboard_time": 1700961395,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1803257,
@@ -6851,14 +6859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 965475,
-      "num": 965475,
-      "word": "白鹿 轻舟已过万重山",
-      "onboard_time": 1700961395,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 964205,
       "num": 964205,
       "word": "咬伤10岁男童阿拉斯加犬已被打死",
@@ -9059,6 +9059,14 @@
       "category": "国内要闻,教育"
     },
     {
+      "raw_hot": 792970,
+      "num": 792970,
+      "word": "多次被要求提供不同材料女子发火",
+      "onboard_time": 1700960430,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792412,
       "num": 792412,
       "word": "五块九粉底液成分 作弊痕迹",
@@ -10681,6 +10689,14 @@
       "onboard_time": 1700043155,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 709238,
+      "num": 376462,
+      "word": "纸性恋",
+      "onboard_time": 1700961211,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 709221,
@@ -13435,6 +13451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 596734,
+      "num": 596734,
+      "word": "网红直播村村民一年收租300万",
+      "onboard_time": 1700962530,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 596618,
       "num": 596618,
       "word": "S13总决赛",
@@ -15523,6 +15547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532411,
+      "num": 532411,
+      "word": "张凌赫一下子贡献了不少搞笑的梗",
+      "onboard_time": 1700959712,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531862,
       "num": 531862,
       "word": "大冰笑话",
@@ -15777,14 +15809,6 @@
       "onboard_time": 1699693170,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 523693,
-      "num": 389635,
-      "word": "张凌赫一下子贡献了不少搞笑的梗",
-      "onboard_time": 1700959712,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 523615,
@@ -20603,14 +20627,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 415587,
-      "num": 415587,
-      "word": "多次被要求提供不同材料女子发火",
-      "onboard_time": 1700960430,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415538,
       "num": 415538,
       "word": "宁安如梦白鹿吻戏吻到缺氧",
@@ -23009,14 +23025,6 @@
       "onboard_time": 1700203593,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 376462,
-      "num": 376462,
-      "word": "纸性恋",
-      "onboard_time": 1700961211,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 376250,
@@ -27507,6 +27515,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 315900,
+      "num": 315900,
+      "word": "第二批获释人员已进入以境内",
+      "onboard_time": 1700963610,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 315782,
       "num": 315782,
       "word": "特斯拉1个月涨价4次",
@@ -28099,6 +28115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308040,
+      "num": 145366,
+      "word": "帮爷爷查话费时看到的短信记录",
+      "onboard_time": 1700964269,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307945,
       "num": 307945,
       "word": "周深唱了胡歌刘涛陈龙新节目主题曲",
@@ -28297,6 +28321,14 @@
       "onboard_time": 1699326868,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305409,
+      "num": 305409,
+      "word": "TES Ming",
+      "onboard_time": 1700955323,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 305267,
@@ -28689,14 +28721,6 @@
       "onboard_time": 1700795920,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 300919,
-      "num": 300919,
-      "word": "TES Ming",
-      "onboard_time": 1700955323,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 300735,
@@ -29161,6 +29185,14 @@
       "onboard_time": 1699097261,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 295978,
+      "num": 220247,
+      "word": "胡先煦 沙特人是真的很喜欢中国人",
+      "onboard_time": 1700962530,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 295944,
@@ -29961,6 +29993,14 @@
       "onboard_time": 1698895351,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287896,
+      "num": 145197,
+      "word": "7个儿童病毁灭药",
+      "onboard_time": 1700964512,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 287877,
@@ -41019,6 +41059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208790,
+      "num": 208790,
+      "word": "马英九称台湾是台湾省不是国名",
+      "onboard_time": 1700965770,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 208658,
       "num": 208658,
       "word": "一念关山60首配乐",
@@ -41257,6 +41305,14 @@
       "onboard_time": 1700291255,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207809,
+      "num": 144934,
+      "word": "易烊千玺4%vol的河",
+      "onboard_time": 1700965770,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 207803,
@@ -44955,6 +45011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194116,
+      "num": 144706,
+      "word": "蓝色系的邓为",
+      "onboard_time": 1700963072,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194087,
       "num": 194087,
       "word": "花儿与少年5",
@@ -46584,14 +46648,6 @@
       "word": "古籍的医生",
       "onboard_time": 1700658937,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188150,
-      "num": 148690,
-      "word": "胡先煦 沙特人是真的很喜欢中国人",
-      "onboard_time": 1700962530,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -48473,6 +48529,14 @@
       "onboard_time": 1700031453,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179931,
+      "num": 179931,
+      "word": "这4种喝水方式很伤身",
+      "onboard_time": 1700963011,
+      "rank": 27,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 179927,
@@ -51411,6 +51475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 166794,
+      "num": 135368,
+      "word": "你俩把眼睛闭上别吓到李荣浩",
+      "onboard_time": 1700965592,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166753,
       "num": 166753,
       "word": "82岁那年他9天3潜南海",
@@ -51993,6 +52065,14 @@
       "onboard_time": 1699494993,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164456,
+      "num": 134808,
+      "word": "毛小星 有些小明星的素质真的太差了",
+      "onboard_time": 1700965530,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 164414,
@@ -54881,14 +54961,6 @@
       "onboard_time": 1699958614,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150979,
-      "num": 150979,
-      "word": "网红直播村村民一年收租300万",
-      "onboard_time": 1700962530,
-      "rank": 38,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 150921,
@@ -58739,6 +58811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134040,
+      "num": 134040,
+      "word": "2024国考锦鲤海报",
+      "onboard_time": 1700955865,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134034,
       "num": 134034,
       "word": "焦虑的老纪 被指责的王诗晴",
@@ -62315,6 +62395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118451,
+      "num": 118451,
+      "word": "贡嘎群峰日照金山好震撼",
+      "onboard_time": 1700964631,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 118397,
       "num": 118397,
       "word": "陈丽君师傅茅威涛",
@@ -62833,6 +62921,14 @@
       "onboard_time": 1699778071,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115441,
+      "num": 115441,
+      "word": "鸳鸯锅 做早餐",
+      "onboard_time": 1700963492,
+      "rank": 49,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 115418,
@@ -64329,14 +64425,6 @@
       "onboard_time": 1699373369,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105720,
-      "num": 105720,
-      "word": "2024国考锦鲤海报",
-      "onboard_time": 1700955865,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 105659,

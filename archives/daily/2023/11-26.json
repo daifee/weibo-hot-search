@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700962809891,
+  "endTime": 1700965803145,
   "band_list": [
     {
       "raw_hot": 7011410,
@@ -16,6 +16,14 @@
       "word": "白鹿 尖叫女演员",
       "onboard_time": 1700923549,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1807646,
+      "num": 1807646,
+      "word": "白鹿 轻舟已过万重山",
+      "onboard_time": 1700961395,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -83,14 +91,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 965475,
-      "num": 965475,
-      "word": "白鹿 轻舟已过万重山",
-      "onboard_time": 1700961395,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 930091,
       "num": 980626,
       "word": "王鹤棣 尖叫男演员",
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 792970,
+      "num": 792970,
+      "word": "多次被要求提供不同材料女子发火",
+      "onboard_time": 1700960430,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736179,
       "num": 736179,
       "word": "伍佰合肥演唱会被曝观众大喊退票",
@@ -131,12 +139,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 709238,
+      "num": 376462,
+      "word": "纸性恋",
+      "onboard_time": 1700961211,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 657790,
       "num": 657790,
       "word": "何赛飞 现场发疯版尖叫之夜",
       "onboard_time": 1700957794,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 596734,
+      "num": 596734,
+      "word": "网红直播村村民一年收租300万",
+      "onboard_time": 1700962530,
+      "rank": 38,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 586979,
@@ -163,8 +187,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 523693,
-      "num": 389635,
+      "raw_hot": 532411,
+      "num": 532411,
       "word": "张凌赫一下子贡献了不少搞笑的梗",
       "onboard_time": 1700959712,
       "rank": 12,
@@ -227,14 +251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 415587,
-      "num": 415587,
-      "word": "多次被要求提供不同材料女子发火",
-      "onboard_time": 1700960430,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 408873,
       "num": 1031413,
       "word": "北京朝阳警方立案侦查中植系所属财富公司",
@@ -265,14 +281,6 @@
       "onboard_time": 1700908781,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 376462,
-      "num": 376462,
-      "word": "纸性恋",
-      "onboard_time": 1700961211,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 364999,
@@ -347,8 +355,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300919,
-      "num": 300919,
+      "raw_hot": 315900,
+      "num": 315900,
+      "word": "第二批获释人员已进入以境内",
+      "onboard_time": 1700963610,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 308040,
+      "num": 145366,
+      "word": "帮爷爷查话费时看到的短信记录",
+      "onboard_time": 1700964269,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 305409,
+      "num": 305409,
       "word": "TES Ming",
       "onboard_time": 1700955323,
       "rank": 14,
@@ -369,6 +393,22 @@
       "onboard_time": 1700956345,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295978,
+      "num": 220247,
+      "word": "胡先煦 沙特人是真的很喜欢中国人",
+      "onboard_time": 1700962530,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287896,
+      "num": 145197,
+      "word": "7个儿童病毁灭药",
+      "onboard_time": 1700964512,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 285883,
@@ -515,6 +555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208790,
+      "num": 208790,
+      "word": "马英九称台湾是台湾省不是国名",
+      "onboard_time": 1700965770,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 207809,
+      "num": 144934,
+      "word": "易烊千玺4%vol的河",
+      "onboard_time": 1700965770,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207087,
       "num": 207087,
       "word": "田曦薇 青春飞跃女演员",
@@ -539,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194116,
+      "num": 144706,
+      "word": "蓝色系的邓为",
+      "onboard_time": 1700963072,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192614,
       "num": 756230,
       "word": "切尔西北伐",
@@ -555,11 +619,11 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 188150,
-      "num": 148690,
-      "word": "胡先煦 沙特人是真的很喜欢中国人",
-      "onboard_time": 1700962530,
-      "rank": 41,
+      "raw_hot": 187265,
+      "num": 144355,
+      "word": "种地吧",
+      "onboard_time": 1700964753,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -569,6 +633,14 @@
       "onboard_time": 1700910771,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179931,
+      "num": 179931,
+      "word": "这4种喝水方式很伤身",
+      "onboard_time": 1700963011,
+      "rank": 27,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 174772,
@@ -592,6 +664,14 @@
       "word": "花少五值得反复咀嚼的情商课",
       "onboard_time": 1700962352,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166794,
+      "num": 135368,
+      "word": "你俩把眼睛闭上别吓到李荣浩",
+      "onboard_time": 1700965592,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -619,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164456,
+      "num": 134808,
+      "word": "毛小星 有些小明星的素质真的太差了",
+      "onboard_time": 1700965530,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 161013,
       "num": 161013,
       "word": "这孩子是来报恩的",
@@ -633,14 +721,6 @@
       "onboard_time": 1700959890,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 150979,
-      "num": 150979,
-      "word": "网红直播村村民一年收租300万",
-      "onboard_time": 1700962530,
-      "rank": 38,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 150468,
@@ -665,6 +745,14 @@
       "onboard_time": 1700918508,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134040,
+      "num": 134040,
+      "word": "2024国考锦鲤海报",
+      "onboard_time": 1700955865,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 132066,
@@ -699,6 +787,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118451,
+      "num": 118451,
+      "word": "贡嘎群峰日照金山好震撼",
+      "onboard_time": 1700964631,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 115441,
+      "num": 115441,
+      "word": "鸳鸯锅 做早餐",
+      "onboard_time": 1700963492,
+      "rank": 49,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 111967,
       "num": 111967,
       "word": "小学数学 cpu都快干烧了",
@@ -728,14 +832,6 @@
       "word": "时政",
       "onboard_time": 1700962170,
       "rank": 49,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 105720,
-      "num": 105720,
-      "word": "2024国考锦鲤海报",
-      "onboard_time": 1700955865,
-      "rank": 47,
       "category": "教育"
     },
     {
