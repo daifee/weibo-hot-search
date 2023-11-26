@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701038032483,
+  "endTime": 1701040612787,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -209,6 +209,14 @@
       "onboard_time": 1701008077,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1188571,
+      "num": 1188571,
+      "word": "连撞11车特斯拉车主发声",
+      "onboard_time": 1701026895,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1185764,
@@ -947,14 +955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 418349,
-      "num": 418349,
-      "word": "连撞11车特斯拉车主发声",
-      "onboard_time": 1701026895,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412893,
       "num": 412893,
       "word": "国考申论难吗",
@@ -1529,6 +1529,22 @@
       "onboard_time": 1700993677,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 282355,
+      "num": 126987,
+      "word": "B太 我被漠河人留住了",
+      "onboard_time": 1701040162,
+      "rank": 11,
+      "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 280332,
+      "num": 280332,
+      "word": "姜雪宁一家三代都喜欢张遮",
+      "onboard_time": 1701017664,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 277671,
@@ -2161,6 +2177,14 @@
       "onboard_time": 1700978313,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196871,
+      "num": 196871,
+      "word": "直系亲属犯罪是否会影响国考政审",
+      "onboard_time": 1701022875,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 196805,
@@ -2923,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128508,
+      "num": 128508,
+      "word": "美国黑五网购销售额创纪录",
+      "onboard_time": 1701029232,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127173,
       "num": 217128,
       "word": "这跑道真的会让人爱上跑步",
@@ -2971,14 +3003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122263,
-      "num": 106131,
-      "word": "姜雪宁一家三代都喜欢张遮",
-      "onboard_time": 1701017664,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120242,
       "num": 120242,
       "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
@@ -3003,14 +3027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115725,
-      "num": 115725,
-      "word": "直系亲属犯罪是否会影响国考政审",
-      "onboard_time": 1701022875,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 115441,
       "num": 115441,
       "word": "鸳鸯锅 做早餐",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1700961630,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110996,
+      "num": 110996,
+      "word": "秦岚的嗓子一点没耽误唠嗑",
+      "onboard_time": 1701040162,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 108115,
@@ -3057,6 +3081,14 @@
       "onboard_time": 1700962170,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104446,
+      "num": 104446,
+      "word": "埃弗顿0比3曼联",
+      "onboard_time": 1701040463,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 104272,
@@ -3123,14 +3155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91221,
-      "num": 91221,
-      "word": "美国黑五网购销售额创纪录",
-      "onboard_time": 1701029232,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 90573,
       "num": 345161,
       "word": "纽卡斯尔联vs切尔西",
@@ -3145,6 +3169,22 @@
       "onboard_time": 1700910164,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89220,
+      "num": 89220,
+      "word": "尖叫之夜男明星怼脸生图",
+      "onboard_time": 1701034093,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88165,
+      "num": 88165,
+      "word": "5个动作24天彻底改变你的体态",
+      "onboard_time": 1701021077,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 87472,
@@ -3164,7 +3204,7 @@
     },
     {
       "raw_hot": 82700,
-      "num": 51299,
+      "num": 58480,
       "word": "为什么3元饮料逐渐消失",
       "onboard_time": 1701020418,
       "rank": 20,
@@ -3299,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61223,
+      "num": 61223,
+      "word": "金钟大抱女儿过马路",
+      "onboard_time": 1701035293,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61045,
       "num": 61045,
       "word": "原来海上的雪天是这样的",
@@ -3331,6 +3379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 53374,
+      "num": 53374,
+      "word": "特斯拉连撞11车当天刚上牌",
+      "onboard_time": 1701032474,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52321,
       "num": 61793,
       "word": "布伦特福德0比1阿森纳",
@@ -3355,14 +3411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48990,
-      "num": 40628,
-      "word": "5个动作24天彻底改变你的体态",
-      "onboard_time": 1701021077,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 48203,
       "num": 187406,
       "word": "花海 好美的精神状态",
@@ -3377,22 +3425,6 @@
       "onboard_time": 1701019820,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38907,
-      "num": 38907,
-      "word": "尖叫之夜男明星怼脸生图",
-      "onboard_time": 1701034093,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38436,
-      "num": 38436,
-      "word": "特斯拉连撞11车当天刚上牌",
-      "onboard_time": 1701032474,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37566,
@@ -3451,14 +3483,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 25499,
-      "num": 25499,
-      "word": "金钟大抱女儿过马路",
-      "onboard_time": 1701035293,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24312,
       "num": 47580,
       "word": "2023斯诺克英锦赛",
@@ -3483,7 +3507,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11547,
+      "raw_hot": 14284,
       "num": 946358,
       "word": "微观链博会",
       "onboard_time": 1701001536,

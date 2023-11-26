@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 06:33:52
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 07:16:52
 </p>
 </blockquote>
 <p>
@@ -3975,6 +3975,12 @@ GEN难道只研究了T1（热度：1221313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E6%92%9E11%E8%BD%A6%E7%89%B9%E6%96%AF%E6%8B%89%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
+连撞11车特斯拉车主发声（热度：1188571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%99%BB%E8%BE%89%E4%B9%8B%E5%A5%B3%E4%B8%8D%E6%BB%A1%E7%88%B6%E4%BA%B2%E8%A2%AB%E5%BD%92%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
 李登辉之女不满父亲被归为中国人（热度：1187378）
 </a>
@@ -6005,12 +6011,6 @@ ChatGPT可能已经有了意识（热度：873431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23" target="weibo">
 黑龙江一女童疑注射阿奇霉素后死亡（热度：870242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E8%B0%88%E9%9F%A9%E5%9B%BD%E5%A8%B1%E4%B9%90%E5%9C%88%23" target="weibo">
-雪莉谈韩国娱乐圈（热度：869665）
 </a>
 </li>
 
