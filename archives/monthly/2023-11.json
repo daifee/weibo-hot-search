@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700994859880,
+  "endTime": 1700997218685,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2563,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1760217,
+      "num": 1553682,
+      "word": "韩网评尖叫之夜男明星造型",
+      "onboard_time": 1700992715,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1759757,
       "num": 973009,
       "word": "时代少年团 女团舞",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1700421135,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1658457,
+      "num": 1658457,
+      "word": "演唱会下沉到县城之后",
+      "onboard_time": 1700991335,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 1654247,
@@ -3529,14 +3545,6 @@
       "onboard_time": 1700814996,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1553682,
-      "num": 1553682,
-      "word": "韩网评尖叫之夜男明星造型",
-      "onboard_time": 1700992715,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1553287,
@@ -4321,14 +4329,6 @@
       "onboard_time": 1699524756,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1360689,
-      "num": 1360689,
-      "word": "演唱会下沉到县城之后",
-      "onboard_time": 1700991335,
-      "rank": 3,
-      "category": "演出"
     },
     {
       "raw_hot": 1359793,
@@ -10963,6 +10963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 704869,
+      "num": 704869,
+      "word": "初一女生每天只睡6个半小时妈妈很焦虑",
+      "onboard_time": 1700984612,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 704152,
       "num": 704152,
       "word": "十年前30万买的海景房现在8万卖不掉",
@@ -14371,6 +14379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 573746,
+      "num": 1550854,
+      "word": "全城寻找的粉衣小姐姐找到了",
+      "onboard_time": 1700992236,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573449,
       "num": 573449,
       "word": "专家称不论开放几胎人口都会萎缩",
@@ -16217,14 +16233,6 @@
       "onboard_time": 1699596812,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 517998,
-      "num": 430431,
-      "word": "初一女生每天只睡6个半小时妈妈很焦虑",
-      "onboard_time": 1700984612,
-      "rank": 20,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 517725,
@@ -19563,6 +19571,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 441203,
+      "num": 441203,
+      "word": "冬季洗澡尽量控制在5到10分钟",
+      "onboard_time": 1700996133,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 441055,
       "num": 441055,
       "word": "刘诗诗竹枝妆",
@@ -21073,14 +21089,6 @@
       "onboard_time": 1699109858,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 414394,
-      "num": 1388712,
-      "word": "全城寻找的粉衣小姐姐找到了",
-      "onboard_time": 1700992236,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414345,
@@ -24265,6 +24273,14 @@
       "onboard_time": 1700492795,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 365549,
+      "num": 365549,
+      "word": "李泰容 不去澳门",
+      "onboard_time": 1700996915,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 365543,
@@ -32019,6 +32035,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 274838,
+      "num": 274838,
+      "word": "燕临 鲜衣怒马少年郎",
+      "onboard_time": 1700994455,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274823,
       "num": 274823,
       "word": "吴慷仁演技",
@@ -35867,6 +35891,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 244908,
+      "num": 223186,
+      "word": "同事是个假装自卑的美女",
+      "onboard_time": 1700996614,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244868,
       "num": 244868,
       "word": "小猫半夜强忍睡意陪伴主人看书",
@@ -37403,6 +37435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 233624,
+      "num": 233624,
+      "word": "中国大师赛梁伟铿王昶夺冠",
+      "onboard_time": 1700996732,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233616,
       "num": 233616,
       "word": "男子买了张顶呱刮刮出100万",
@@ -38891,6 +38931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224780,
+      "num": 224780,
+      "word": "白鹿 行走的麦霸",
+      "onboard_time": 1700993374,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224727,
       "num": 224727,
       "word": "TheShy 赛后采访",
@@ -40299,14 +40347,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 216571,
-      "num": 216571,
-      "word": "白鹿 行走的麦霸",
-      "onboard_time": 1700993374,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216516,
       "num": 216516,
       "word": "冬天到了都听医生的",
@@ -40825,6 +40865,14 @@
       "onboard_time": 1699774231,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213817,
+      "num": 213817,
+      "word": "范丞丞撤回一只摸李晨的手",
+      "onboard_time": 1700996794,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 213806,
@@ -42563,6 +42611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206554,
+      "num": 206554,
+      "word": "KPL",
+      "onboard_time": 1699171652,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206522,
       "num": 206522,
       "word": "跳远是件很私密的事",
@@ -42641,6 +42697,14 @@
       "onboard_time": 1700637698,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206239,
+      "num": 206239,
+      "word": "久酷 社交悍匪",
+      "onboard_time": 1700996255,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 206231,
@@ -42937,14 +43001,6 @@
       "onboard_time": 1698971735,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204976,
-      "num": 204976,
-      "word": "燕临 鲜衣怒马少年郎",
-      "onboard_time": 1700994455,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 204975,
@@ -43721,6 +43777,14 @@
       "onboard_time": 1700810435,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201988,
+      "num": 203620,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1700996430,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 201981,
@@ -47913,6 +47977,14 @@
       "onboard_time": 1699007556,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 187438,
+      "num": 187438,
+      "word": "再见李可乐 这狗比我都懂事",
+      "onboard_time": 1700995294,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 187335,
@@ -52347,6 +52419,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 167839,
+      "num": 167839,
+      "word": "专访WBG战队",
+      "onboard_time": 1700996972,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167838,
       "num": 167838,
       "word": "年轻人为什么开始反内卷购物了",
@@ -54153,6 +54233,14 @@
       "onboard_time": 1700651617,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160345,
+      "num": 160345,
+      "word": "俄3名特工在乌克兰吃外卖中毒身亡",
+      "onboard_time": 1700997153,
+      "rank": 48,
+      "category": "国外时政"
     },
     {
       "raw_hot": 160341,
@@ -56809,14 +56897,6 @@
       "onboard_time": 1700181217,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148279,
-      "num": 199234,
-      "word": "KPL",
-      "onboard_time": 1699171652,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 148275,
