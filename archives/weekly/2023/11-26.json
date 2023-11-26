@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701004747277,
+  "endTime": 1701005649595,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -80,6 +80,14 @@
       "word": "白鹿 尖叫女演员",
       "onboard_time": 1700923549,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1808288,
+      "num": 1062295,
+      "word": "宋轶社交 白敬亭不知道在忙什么",
+      "onboard_time": 1701003697,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -201,14 +209,6 @@
       "onboard_time": 1700959050,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1062295,
-      "num": 1062295,
-      "word": "宋轶社交 白敬亭不知道在忙什么",
-      "onboard_time": 1701003697,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1032619,
@@ -595,6 +595,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 526796,
+      "num": 526796,
+      "word": "家长副驾抱娃幼童被甩出车外身亡",
+      "onboard_time": 1701003158,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517663,
       "num": 517663,
       "word": "曾舜晞饿了一天结果就一瓶水",
@@ -643,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 495214,
+      "num": 457787,
+      "word": "液体束胸衣",
+      "onboard_time": 1701001833,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 486959,
       "num": 376773,
       "word": "杨幂复古丝绒绿裙",
@@ -675,6 +691,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 478064,
+      "num": 478064,
+      "word": "全红婵陈芋汐全锦赛夺冠",
+      "onboard_time": 1701004359,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475299,
       "num": 469353,
       "word": "一部拍了60年的电影",
@@ -705,14 +729,6 @@
       "onboard_time": 1700955865,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 457787,
-      "num": 457787,
-      "word": "液体束胸衣",
-      "onboard_time": 1701001833,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 454495,
@@ -819,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408328,
+      "num": 408328,
+      "word": "佘诗曼戴了粉丝送的皇冠",
+      "onboard_time": 1701003878,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 406600,
       "num": 406600,
       "word": "海涛跟沈梦辰说他在家里带孩子",
@@ -841,14 +865,6 @@
       "onboard_time": 1700914908,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 397897,
-      "num": 397897,
-      "word": "家长副驾抱娃幼童被甩出车外身亡",
-      "onboard_time": 1701003158,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395383,
@@ -1123,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318656,
+      "num": 318656,
+      "word": "射手座是不会有归属感的",
+      "onboard_time": 1701003518,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 316946,
       "num": 316946,
       "word": "虞书欣晒尖叫之夜奖杯",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1700994273,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 291025,
+      "num": 291025,
+      "word": "林俊杰 武汉",
+      "onboard_time": 1701004663,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 288969,
@@ -1363,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266906,
+      "num": 266906,
+      "word": "今年国考约57人录取1人",
+      "onboard_time": 1701004173,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 264825,
       "num": 247713,
       "word": "王鹤棣发文说多谢",
@@ -1393,22 +1433,6 @@
       "onboard_time": 1700969194,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258998,
-      "num": 258998,
-      "word": "全红婵陈芋汐全锦赛夺冠",
-      "onboard_time": 1701004359,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 258978,
-      "num": 258978,
-      "word": "佘诗曼戴了粉丝送的皇冠",
-      "onboard_time": 1701003878,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 257406,
@@ -1547,14 +1571,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 235811,
-      "num": 235811,
-      "word": "射手座是不会有归属感的",
-      "onboard_time": 1701003518,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235124,
       "num": 161245,
       "word": "毛小星 有些小明星的素质真的太差了",
@@ -1651,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223360,
+      "num": 223360,
+      "word": "原来仓鼠不能吃炒板栗",
+      "onboard_time": 1701004235,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221135,
       "num": 221135,
       "word": "白鹿白玫瑰拖尾裙",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1700954904,
       "rank": 24,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 219418,
+      "num": 219418,
+      "word": "孟子义为了这声甜妹拼了",
+      "onboard_time": 1701004718,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 217851,
@@ -1731,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213429,
-      "num": 213429,
-      "word": "今年国考约57人录取1人",
-      "onboard_time": 1701004173,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 213133,
       "num": 213133,
       "word": "金珉奎的签售是连续剧",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1700958449,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209404,
+      "num": 187514,
+      "word": "孔维夸肖战声音好听",
+      "onboard_time": 1701005497,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 208840,
@@ -1849,14 +1881,6 @@
       "onboard_time": 1700996430,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201417,
-      "num": 201417,
-      "word": "原来仓鼠不能吃炒板栗",
-      "onboard_time": 1701004235,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 200867,
@@ -1961,14 +1985,6 @@
       "onboard_time": 1700926544,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192406,
-      "num": 192406,
-      "word": "林俊杰 武汉",
-      "onboard_time": 1701004663,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 192271,
@@ -2121,14 +2137,6 @@
       "onboard_time": 1701003035,
       "rank": 46,
       "category": "社会议题,美妆"
-    },
-    {
-      "raw_hot": 182551,
-      "num": 182551,
-      "word": "孟子义为了这声甜妹拼了",
-      "onboard_time": 1701004718,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 182388,
@@ -2315,6 +2323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162335,
+      "num": 162335,
+      "word": "张大仙 复活吧我的爱人",
+      "onboard_time": 1701005559,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161546,
       "num": 158106,
       "word": "小满生活断食婚姻",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1701000154,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153631,
+      "num": 153631,
+      "word": "无畏契约",
+      "onboard_time": 1701004898,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 153457,
