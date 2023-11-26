@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1700976840604,
+  "endTime": 1700979700219,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -15,6 +15,14 @@
       "num": 7011410,
       "word": "杨幂 于和伟亲马东了",
       "onboard_time": 1700924084,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5027368,
+      "num": 5027368,
+      "word": "于和伟亲马东全过程",
+      "onboard_time": 1700977951,
       "rank": 0,
       "category": "综艺"
     },
@@ -83,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1446148,
+      "num": 1446148,
+      "word": "男子总拉肚子查出5处癌",
+      "onboard_time": 1700971473,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1304615,
       "num": 1056318,
       "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
@@ -113,14 +129,6 @@
       "onboard_time": 1700959050,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1144857,
-      "num": 1144857,
-      "word": "男子总拉肚子查出5处癌",
-      "onboard_time": 1700971473,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1032619,
@@ -251,8 +259,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610588,
+      "num": 610588,
+      "word": "正式被确诊为试管",
+      "onboard_time": 1700978251,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 610454,
-      "num": 312046,
+      "num": 339217,
       "word": "张大仙直播",
       "onboard_time": 1700974292,
       "rank": 20,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 513057,
-      "num": 236373,
+      "num": 283512,
       "word": "男性 HPV",
       "onboard_time": 1700975494,
       "rank": 21,
@@ -361,6 +377,22 @@
       "onboard_time": 1700968654,
       "rank": 40,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 476691,
+      "num": 476691,
+      "word": "BLG 中单",
+      "onboard_time": 1700978191,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 474373,
+      "num": 469353,
+      "word": "一部拍了60年的电影",
+      "onboard_time": 1700975014,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 466905,
@@ -507,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366436,
+      "num": 366436,
+      "word": "Doinb",
+      "onboard_time": 1700978133,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 353400,
       "num": 329619,
       "word": "易烊千玺4%vol的河",
@@ -555,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340805,
+      "num": 340805,
+      "word": "涵艺爆料Yagao加入JDG",
+      "onboard_time": 1700977472,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 338293,
       "num": 338293,
       "word": "张译 缺席",
@@ -587,20 +635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320298,
+      "num": 320298,
+      "word": "警方通报特斯拉连撞11车事故",
+      "onboard_time": 1700977771,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319214,
       "num": 319214,
       "word": "张凌赫曾舜晞王星越干啥呢",
       "onboard_time": 1700974472,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318061,
-      "num": 318061,
-      "word": "一部拍了60年的电影",
-      "onboard_time": 1700975014,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 316946,
@@ -648,6 +696,14 @@
       "word": "TES Ming",
       "onboard_time": 1700955323,
       "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 304606,
+      "num": 304606,
+      "word": "Cat直播回应花海",
+      "onboard_time": 1700978732,
+      "rank": 17,
       "category": "电竞"
     },
     {
@@ -715,12 +771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283828,
+      "num": 283828,
+      "word": "王者荣耀",
+      "onboard_time": 1700976274,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 277671,
       "num": 277671,
       "word": "以闪亮之名",
       "onboard_time": 1700972253,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276800,
+      "num": 190099,
+      "word": "Uzi回应为何决定复出",
+      "onboard_time": 1700979213,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 274567,
@@ -859,14 +931,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 226874,
-      "num": 226874,
-      "word": "王者荣耀",
-      "onboard_time": 1700976274,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 225757,
       "num": 165336,
       "word": "徐艺洋是懂综艺节目套路的",
@@ -881,6 +945,14 @@
       "onboard_time": 1700969734,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221135,
+      "num": 221135,
+      "word": "白鹿白玫瑰拖尾裙",
+      "onboard_time": 1700977830,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221057,
@@ -995,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197567,
+      "num": 197567,
+      "word": "任贤齐9年前就给刘诗诗唱过OST",
+      "onboard_time": 1700978313,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196687,
       "num": 196687,
       "word": "女硕士种3200亩地称像打游戏一样简单",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1700919947,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 190548,
+      "num": 190548,
+      "word": "中国大师赛雅思组合夺冠",
+      "onboard_time": 1700979093,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 190516,
@@ -1097,6 +1185,14 @@
       "onboard_time": 1700910771,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180181,
+      "num": 180181,
+      "word": "马丽撤回了一个微笑",
+      "onboard_time": 1700976571,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 174772,
@@ -1171,6 +1267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162663,
+      "num": 162663,
+      "word": "刘些宁花仙子",
+      "onboard_time": 1700978552,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161546,
       "num": 158106,
       "word": "小满生活断食婚姻",
@@ -1211,14 +1315,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 150976,
-      "num": 150976,
-      "word": "马丽撤回了一个微笑",
-      "onboard_time": 1700976571,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150468,
       "num": 150468,
       "word": "涵艺爆料RNG接触LWX",
@@ -1227,12 +1323,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148713,
+      "num": 148713,
+      "word": "行测结束网友自嘲轻舟已撞大冰山",
+      "onboard_time": 1700979450,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148459,
       "num": 148459,
       "word": "李荣浩演唱会",
       "onboard_time": 1700974232,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141302,
+      "num": 136738,
+      "word": "丁程鑫朴宰范贴贴",
+      "onboard_time": 1700978493,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 141052,
@@ -1249,6 +1361,14 @@
       "onboard_time": 1700960671,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137072,
+      "num": 137072,
+      "word": "4毛一片的国货卫生巾",
+      "onboard_time": 1700977891,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134188,
@@ -1323,6 +1443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 108115,
+      "num": 108115,
+      "word": "一周不重样发型",
+      "onboard_time": 1700978431,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 107489,
       "num": 442037,
       "word": "杭州也有东北自助盒饭了",
@@ -1347,6 +1475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 103055,
+      "num": 103055,
+      "word": "相爱可以抵万难吗",
+      "onboard_time": 1700979629,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101567,
       "num": 385905,
       "word": "斯特林又快乐了",
@@ -1361,6 +1497,14 @@
       "onboard_time": 1700957908,
       "rank": 49,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 95361,
+      "num": 95361,
+      "word": "台湾花莲海域4.2级地震",
+      "onboard_time": 1700979689,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92448,

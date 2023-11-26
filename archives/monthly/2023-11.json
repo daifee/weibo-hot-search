@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1700976840604,
+  "endTime": 1700979700219,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -289,6 +289,14 @@
       "onboard_time": 1699787671,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 5027368,
+      "num": 5027368,
+      "word": "于和伟亲马东全过程",
+      "onboard_time": 1700977951,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 4890272,
@@ -3947,6 +3955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1446148,
+      "num": 1446148,
+      "word": "男子总拉肚子查出5处癌",
+      "onboard_time": 1700971473,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1438126,
       "num": 723765,
       "word": "傅首尔 老刘",
@@ -5545,14 +5561,6 @@
       "onboard_time": 1699860215,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1144857,
-      "num": 1144857,
-      "word": "男子总拉肚子查出5处癌",
-      "onboard_time": 1700971473,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1142437,
@@ -13091,8 +13099,16 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 610588,
+      "num": 610588,
+      "word": "正式被确诊为试管",
+      "onboard_time": 1700978251,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 610454,
-      "num": 312046,
+      "num": 339217,
       "word": "张大仙直播",
       "onboard_time": 1700974292,
       "rank": 20,
@@ -16300,7 +16316,7 @@
     },
     {
       "raw_hot": 513057,
-      "num": 236373,
+      "num": 283512,
       "word": "男性 HPV",
       "onboard_time": 1700975494,
       "rank": 21,
@@ -17779,6 +17795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 476691,
+      "num": 476691,
+      "word": "BLG 中单",
+      "onboard_time": 1700978191,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 476465,
       "num": 310683,
       "word": "同宿舍6女生拒绝内卷全员保研",
@@ -17865,6 +17889,14 @@
       "onboard_time": 1699671150,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 474373,
+      "num": 469353,
+      "word": "一部拍了60年的电影",
+      "onboard_time": 1700975014,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 474337,
@@ -23923,6 +23955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366436,
+      "num": 366436,
+      "word": "Doinb",
+      "onboard_time": 1700978133,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 366348,
       "num": 366348,
       "word": "千纸鹤颠婆",
@@ -25803,6 +25843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 340805,
+      "num": 340805,
+      "word": "涵艺爆料Yagao加入JDG",
+      "onboard_time": 1700977472,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 340770,
       "num": 231613,
       "word": "于适红发",
@@ -27315,6 +27363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 320298,
+      "num": 320298,
+      "word": "警方通报特斯拉连撞11车事故",
+      "onboard_time": 1700977771,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320054,
       "num": 320054,
       "word": "陈硕辞退兰兰",
@@ -27521,14 +27577,6 @@
       "onboard_time": 1700708253,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318061,
-      "num": 318061,
-      "word": "一部拍了60年的电影",
-      "onboard_time": 1700975014,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 317986,
@@ -28665,6 +28713,14 @@
       "onboard_time": 1699530332,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 304606,
+      "num": 304606,
+      "word": "Cat直播回应花海",
+      "onboard_time": 1700978732,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 304302,
@@ -31433,6 +31489,14 @@
       "onboard_time": 1698973770,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276800,
+      "num": 190099,
+      "word": "Uzi回应为何决定复出",
+      "onboard_time": 1700979213,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 276764,
@@ -39035,6 +39099,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 221135,
+      "num": 221135,
+      "word": "白鹿白玫瑰拖尾裙",
+      "onboard_time": 1700977830,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221057,
       "num": 221057,
       "word": "最适合圆脸方脸女生的发型",
@@ -44419,6 +44491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197567,
+      "num": 197567,
+      "word": "任贤齐9年前就给刘诗诗唱过OST",
+      "onboard_time": 1700978313,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197552,
       "num": 197552,
       "word": "江苏省考筛选什么人才",
@@ -46337,6 +46417,14 @@
       "onboard_time": 1699262314,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190548,
+      "num": 190548,
+      "word": "中国大师赛雅思组合夺冠",
+      "onboard_time": 1700979093,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 190516,
@@ -48936,6 +49024,14 @@
       "word": "张颜齐陈卓璇李川手和腿各舞各的",
       "onboard_time": 1699439433,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180181,
+      "num": 180181,
+      "word": "马丽撤回了一个微笑",
+      "onboard_time": 1700976571,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -52947,6 +53043,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 162663,
+      "num": 162663,
+      "word": "刘些宁花仙子",
+      "onboard_time": 1700978552,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162610,
       "num": 162610,
       "word": "中美关系的五根支柱都有哪些",
@@ -55427,14 +55531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150976,
-      "num": 150976,
-      "word": "马丽撤回了一个微笑",
-      "onboard_time": 1700976571,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150921,
       "num": 216246,
       "word": "我安慰人也是温太医这样的",
@@ -55969,6 +56065,14 @@
       "onboard_time": 1698976652,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148713,
+      "num": 148713,
+      "word": "行测结束网友自嘲轻舟已撞大冰山",
+      "onboard_time": 1700979450,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 148702,
@@ -57811,6 +57915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141302,
+      "num": 136738,
+      "word": "丁程鑫朴宰范贴贴",
+      "onboard_time": 1700978493,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141257,
       "num": 141257,
       "word": "关晓彤晒王牌家族合影",
@@ -58633,6 +58745,14 @@
       "onboard_time": 1699092749,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137072,
+      "num": 137072,
+      "word": "4毛一片的国货卫生巾",
+      "onboard_time": 1700977891,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136955,
@@ -64627,6 +64747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108115,
+      "num": 108115,
+      "word": "一周不重样发型",
+      "onboard_time": 1700978431,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 107925,
       "num": 365739,
       "word": "一块好屏幕有多重要",
@@ -65241,6 +65369,14 @@
       "onboard_time": 1699077152,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 103055,
+      "num": 103055,
+      "word": "相爱可以抵万难吗",
+      "onboard_time": 1700979629,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 102928,
@@ -66257,6 +66393,14 @@
       "onboard_time": 1699539034,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95361,
+      "num": 95361,
+      "word": "台湾花莲海域4.2级地震",
+      "onboard_time": 1700979689,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 95296,
