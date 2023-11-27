@@ -1,0 +1,410 @@
+{
+  "runTime": 1701088484657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1300004,
+        "num": 1300004,
+        "word": "南海归墟",
+        "onboard_time": 1701081032,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 696400,
+        "num": 696400,
+        "word": "福宝",
+        "onboard_time": 1701085357,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22992,
+        "num": 660288,
+        "word": "25条举措助力民营经济发展壮大",
+        "onboard_time": 1701072454,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1069043,
+        "num": 652627,
+        "word": "南海归墟陈牧驰 群演",
+        "onboard_time": 1701086674,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 644599,
+        "num": 644599,
+        "word": "顾客吐槽带娃去海底捞看到科目三很不适",
+        "onboard_time": 1701085772,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218270,
+        "num": 612406,
+        "word": "刻俩萝卜章骗了300亿",
+        "onboard_time": 1701077853,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553391,
+        "num": 553391,
+        "word": "胡歌为刘诗诗新剧打call",
+        "onboard_time": 1701085173,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467313,
+        "num": 467313,
+        "word": "深圳一公司给员工放假10个月",
+        "onboard_time": 1701082294,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434527,
+        "num": 434527,
+        "word": "新闻女王梁景仁遭心腹背叛",
+        "onboard_time": 1701083615,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374155,
+        "num": 374155,
+        "word": "支原体肺炎是新冠的变异吗",
+        "onboard_time": 1701076954,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707897,
+        "num": 370383,
+        "word": "杨洋系个腰带吧",
+        "onboard_time": 1701081933,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 688227,
+        "num": 358645,
+        "word": "吴京口误 我是闫妮老公",
+        "onboard_time": 1701077195,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 605369,
+        "num": 349397,
+        "word": "肖战机场路透",
+        "onboard_time": 1701085232,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502621,
+        "num": 340537,
+        "word": "22岁中国留学生在韩身亡",
+        "onboard_time": 1701078816,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340483,
+        "num": 340483,
+        "word": "北大食堂称与鹅腿阿姨没有关系",
+        "onboard_time": 1701083132,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339556,
+        "num": 339556,
+        "word": "袁弘叫胡歌往旁边挪半个屁股",
+        "onboard_time": 1701088054,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314242,
+        "num": 314242,
+        "word": "与恶魔有约",
+        "onboard_time": 1701086735,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311876,
+        "num": 311876,
+        "word": "涵艺爆料JDG启用青训上单",
+        "onboard_time": 1701086616,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 306301,
+        "num": 306301,
+        "word": "四川发生触电安全事件造成4人死亡",
+        "onboard_time": 1701087393,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297091,
+        "num": 297091,
+        "word": "石原里美时隔3年回归拍剧",
+        "onboard_time": 1701084153,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 634732,
+        "num": 294508,
+        "word": "贴身衣物最好不要买黑色",
+        "onboard_time": 1701077319,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 287180,
+        "num": 287180,
+        "word": "郑秀妍直播",
+        "onboard_time": 1701086192,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270106,
+        "num": 270106,
+        "word": "华妮生产过程录像公布",
+        "onboard_time": 1701083791,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266753,
+        "num": 266753,
+        "word": "渤哥在跳楼 吴京在小狗摇头",
+        "onboard_time": 1701086792,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171771,
+        "num": 266269,
+        "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+        "onboard_time": 1701065673,
+        "rank": 24,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 266212,
+        "num": 266212,
+        "word": "在东北猪的地位远超女团",
+        "onboard_time": 1701086735,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244738,
+        "num": 244738,
+        "word": "王鹤棣镜头下的白鹿",
+        "onboard_time": 1701081575,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234479,
+        "num": 234479,
+        "word": "南海归墟追剧日历",
+        "onboard_time": 1701084516,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221890,
+        "num": 221890,
+        "word": "李苗苗 病娇",
+        "onboard_time": 1701085895,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207469,
+        "num": 220074,
+        "word": "丈夫第一次刷鞋将妻子千元靴变皮干",
+        "onboard_time": 1701087571,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219712,
+        "num": 219712,
+        "word": "关智斌披荆斩棘未公开花絮",
+        "onboard_time": 1701087755,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213531,
+        "num": 213531,
+        "word": "何猷君华容道",
+        "onboard_time": 1701083192,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181712,
+        "num": 181712,
+        "word": "北京现有艾滋病感染者及患者27285人",
+        "onboard_time": 1701088115,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166692,
+        "num": 166692,
+        "word": "南部战区位中缅边境我方一侧演训画面",
+        "onboard_time": 1701087933,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144752,
+        "num": 164658,
+        "word": "只有韩国服务器才审查手势的游戏",
+        "onboard_time": 1701081155,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197097,
+        "num": 164538,
+        "word": "暗恋对象成为大明星",
+        "onboard_time": 1701083974,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170776,
+        "num": 164424,
+        "word": "金莎男友喜欢吹她的鼻孔",
+        "onboard_time": 1701072454,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164123,
+        "num": 164123,
+        "word": "肩膀真的不内扣了",
+        "onboard_time": 1701088415,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150452,
+        "num": 150452,
+        "word": "沈羽洁秦时月妆教",
+        "onboard_time": 1701087393,
+        "rank": 38,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 108908,
+        "num": 147101,
+        "word": "医生跪姿托举19分钟抢救产妇和胎儿",
+        "onboard_time": 1701082294,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144636,
+        "num": 144636,
+        "word": "金丽娜 爱没有",
+        "onboard_time": 1701088292,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137216,
+        "num": 137216,
+        "word": "月亮",
+        "onboard_time": 1701078755,
+        "rank": 41,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 132101,
+        "num": 132101,
+        "word": "喻言 南京",
+        "onboard_time": 1701080136,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129947,
+        "num": 129947,
+        "word": "谁教考公人在酒吧刷题的",
+        "onboard_time": 1701077135,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128244,
+        "num": 128244,
+        "word": "华晨宇扫楼送咖啡",
+        "onboard_time": 1701088415,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126293,
+        "num": 126293,
+        "word": "白鹿尖叫之夜vlog",
+        "onboard_time": 1701083555,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126170,
+        "num": 126170,
+        "word": "爱豆减肥舞",
+        "onboard_time": 1701085716,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113394,
+        "num": 113394,
+        "word": "经常喝含植脂末的奶茶会怎样",
+        "onboard_time": 1701077433,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111575,
+        "num": 111575,
+        "word": "吃火锅遇到了折耳根刺客",
+        "onboard_time": 1701083555,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109058,
+        "num": 109058,
+        "word": "最易挂错号的病症",
+        "onboard_time": 1701088292,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进跨境服务贸易和投资高水平开放#"
+    }
+  }
+}

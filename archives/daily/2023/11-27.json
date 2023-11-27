@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701084850738,
+  "endTime": 1701088484657,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1218270,
+      "num": 1080990,
+      "word": "刻俩萝卜章骗了300亿",
+      "onboard_time": 1701077853,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1167909,
       "num": 1167909,
       "word": "马航MH370乘客家属索赔案今天开庭",
@@ -163,12 +171,12 @@
       "category": "旅游,网红"
     },
     {
-      "raw_hot": 1080990,
-      "num": 1080990,
-      "word": "刻俩萝卜章骗了300亿",
-      "onboard_time": 1701077853,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 1069043,
+      "num": 652627,
+      "word": "南海归墟陈牧驰 群演",
+      "onboard_time": 1701086674,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 993234,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707897,
+      "num": 580307,
+      "word": "杨洋系个腰带吧",
+      "onboard_time": 1701081933,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 706656,
       "num": 706656,
       "word": "支原体肺炎是新冠的变异吗",
@@ -307,20 +323,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 696400,
+      "num": 696400,
+      "word": "福宝",
+      "onboard_time": 1701085357,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688413,
       "num": 688413,
       "word": "澳门物价",
       "onboard_time": 1701051691,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 686497,
-      "num": 580307,
-      "word": "杨洋系个腰带吧",
-      "onboard_time": 1701081933,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 683108,
@@ -345,6 +361,14 @@
       "onboard_time": 1701074130,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 644599,
+      "num": 644599,
+      "word": "顾客吐槽带娃去海底捞看到科目三很不适",
+      "onboard_time": 1701085772,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 639589,
@@ -387,6 +411,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 605369,
+      "num": 349397,
+      "word": "肖战机场路透",
+      "onboard_time": 1701085232,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591302,
       "num": 591302,
       "word": "官方通报女子多次被要求提供不同材料",
@@ -417,6 +449,14 @@
       "onboard_time": 1701052715,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 553391,
+      "num": 553391,
+      "word": "胡歌为刘诗诗新剧打call",
+      "onboard_time": 1701085173,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 549471,
@@ -587,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467313,
+      "num": 467313,
+      "word": "深圳一公司给员工放假10个月",
+      "onboard_time": 1701082294,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458694,
       "num": 458694,
       "word": "白鹿丝巾编发",
@@ -617,6 +665,14 @@
       "onboard_time": 1701014613,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434527,
+      "num": 434527,
+      "word": "新闻女王梁景仁遭心腹背叛",
+      "onboard_time": 1701083615,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 428086,
@@ -681,14 +737,6 @@
       "onboard_time": 1701042568,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 407845,
-      "num": 407845,
-      "word": "深圳一公司给员工放假10个月",
-      "onboard_time": 1701082294,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405739,
@@ -819,11 +867,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339596,
-      "num": 339596,
-      "word": "新闻女王梁景仁遭心腹背叛",
-      "onboard_time": 1701083615,
-      "rank": 33,
+      "raw_hot": 340483,
+      "num": 340483,
+      "word": "北大食堂称与鹅腿阿姨没有关系",
+      "onboard_time": 1701083132,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339556,
+      "num": 339556,
+      "word": "袁弘叫胡歌往旁边挪半个屁股",
+      "onboard_time": 1701088054,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -907,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314242,
+      "num": 314242,
+      "word": "与恶魔有约",
+      "onboard_time": 1701086735,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313950,
       "num": 241023,
       "word": "因长得丑遭无视的雄狮",
@@ -929,6 +993,14 @@
       "onboard_time": 1701051391,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311876,
+      "num": 311876,
+      "word": "涵艺爆料JDG启用青训上单",
+      "onboard_time": 1701086616,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 311298,
@@ -977,6 +1049,14 @@
       "onboard_time": 1701066572,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306301,
+      "num": 306301,
+      "word": "四川发生触电安全事件造成4人死亡",
+      "onboard_time": 1701087393,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304332,
@@ -1041,6 +1121,14 @@
       "onboard_time": 1701072333,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287180,
+      "num": 287180,
+      "word": "郑秀妍直播",
+      "onboard_time": 1701086192,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 285084,
@@ -1139,12 +1227,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270106,
+      "num": 663547,
+      "word": "华妮生产过程录像公布",
+      "onboard_time": 1701083791,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267205,
       "num": 253455,
       "word": "张颂文为张译新电影包场",
       "onboard_time": 1701040643,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266753,
+      "num": 266753,
+      "word": "渤哥在跳楼 吴京在小狗摇头",
+      "onboard_time": 1701086792,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 266212,
+      "num": 266212,
+      "word": "在东北猪的地位远超女团",
+      "onboard_time": 1701086735,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 265831,
@@ -1291,20 +1403,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 236394,
-      "num": 236394,
-      "word": "北大食堂称与鹅腿阿姨没有关系",
-      "onboard_time": 1701083132,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234513,
       "num": 234513,
       "word": "小杨哥演唱会线上观众超10万人",
       "onboard_time": 1701041365,
       "rank": 31,
       "category": "演出,网红"
+    },
+    {
+      "raw_hot": 234479,
+      "num": 234479,
+      "word": "南海归墟追剧日历",
+      "onboard_time": 1701084516,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 233768,
@@ -1411,6 +1523,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221890,
+      "num": 221890,
+      "word": "李苗苗 病娇",
+      "onboard_time": 1701085895,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 219712,
+      "num": 219712,
+      "word": "关智斌披荆斩棘未公开花絮",
+      "onboard_time": 1701087755,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219330,
       "num": 179061,
       "word": "电音朵拉vs叔圈天菜",
@@ -1475,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207469,
+      "num": 220074,
+      "word": "丈夫第一次刷鞋将妻子千元靴变皮干",
+      "onboard_time": 1701087571,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207428,
       "num": 207428,
       "word": "班主任自费给学生定制挡风被",
@@ -1531,14 +1667,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 201883,
-      "num": 201883,
-      "word": "南海归墟追剧日历",
-      "onboard_time": 1701084516,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201461,
       "num": 201461,
       "word": "记者讲述马航MH370十年往事",
@@ -1553,14 +1681,6 @@
       "onboard_time": 1701082173,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200436,
-      "num": 663547,
-      "word": "华妮生产过程录像公布",
-      "onboard_time": 1701083791,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199785,
@@ -1763,6 +1883,14 @@
       "category": "数码,科学科普"
     },
     {
+      "raw_hot": 181712,
+      "num": 181712,
+      "word": "北京现有艾滋病感染者及患者27285人",
+      "onboard_time": 1701088115,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181388,
       "num": 181388,
       "word": "筷子兄弟合体了",
@@ -1891,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166692,
+      "num": 166692,
+      "word": "南部战区位中缅边境我方一侧演训画面",
+      "onboard_time": 1701087933,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166432,
       "num": 166432,
       "word": "SEVENTEEN机场大衣秀",
@@ -1921,6 +2057,14 @@
       "onboard_time": 1701040463,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164123,
+      "num": 164123,
+      "word": "肩膀真的不内扣了",
+      "onboard_time": 1701088415,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 162973,
@@ -2043,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "沈羽洁秦时月妆教",
+      "onboard_time": 1701087393,
+      "rank": 38,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 150031,
       "num": 150031,
       "word": "显发量的双麻花辫",
@@ -2096,6 +2248,14 @@
       "word": "张译看受害者父亲的眼神戏",
       "onboard_time": 1701078696,
       "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 144636,
+      "num": 144636,
+      "word": "金丽娜 爱没有",
+      "onboard_time": 1701088292,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -2259,6 +2419,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128244,
+      "num": 128244,
+      "word": "华晨宇扫楼送咖啡",
+      "onboard_time": 1701088415,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 126170,
+      "num": 126170,
+      "word": "爱豆减肥舞",
+      "onboard_time": 1701085716,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 125489,
       "num": 125489,
       "word": "手工制作拐杖糖",
@@ -2393,6 +2569,14 @@
       "onboard_time": 1700990312,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 109058,
+      "num": 109058,
+      "word": "最易挂错号的病症",
+      "onboard_time": 1701088292,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105748,
@@ -2633,6 +2817,14 @@
       "onboard_time": 1701082294,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22992,
+      "num": 660288,
+      "word": "25条举措助力民营经济发展壮大",
+      "onboard_time": 1701072454,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20998,
