@@ -1,0 +1,410 @@
+{
+  "runTime": 1701062237685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1877001,
+        "num": 1877001,
+        "word": "16岁女孩未考上985遭父亲家暴",
+        "onboard_time": 1701059379,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1595355,
+        "num": 1595355,
+        "word": "谢晋的大女儿去世",
+        "onboard_time": 1701059565,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21370,
+        "num": 1247799,
+        "word": "最美北京我的家",
+        "onboard_time": 1701061897,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1832481,
+        "num": 1156268,
+        "word": "张艺谋儿子 巴黎名媛舞会",
+        "onboard_time": 1701060764,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 999139,
+        "num": 999139,
+        "word": "郑州大学取消公众入校限制",
+        "onboard_time": 1701058117,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1058209,
+        "num": 965961,
+        "word": "高以翔父亲去世",
+        "onboard_time": 1701047496,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921646,
+        "num": 921646,
+        "word": "杨幂朵拉头",
+        "onboard_time": 1701053552,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 760276,
+        "num": 760276,
+        "word": "暮光之城 重启",
+        "onboard_time": 1701060342,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 703968,
+        "num": 703968,
+        "word": "马航MH370乘客家属索赔案今天开庭",
+        "onboard_time": 1701054455,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215417,
+        "num": 646646,
+        "word": "烈士的遗物是遗留在体内的子弹",
+        "onboard_time": 1701056317,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 595718,
+        "num": 595718,
+        "word": "YG官网删除权志龙",
+        "onboard_time": 1701051213,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549471,
+        "num": 549471,
+        "word": "张遮终生未娶",
+        "onboard_time": 1701060399,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547998,
+        "num": 547998,
+        "word": "字节跳动将关闭游戏朝夕光年",
+        "onboard_time": 1701057937,
+        "rank": 12,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 480280,
+        "num": 480280,
+        "word": "羽绒服涨价把市场让给了军大衣",
+        "onboard_time": 1701044614,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452799,
+        "num": 452799,
+        "word": "B站华为达成合作",
+        "onboard_time": 1701059921,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 417598,
+        "num": 417598,
+        "word": "朵拉统治姐圈",
+        "onboard_time": 1701049232,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397252,
+        "num": 397252,
+        "word": "1500和1500是不一样的",
+        "onboard_time": 1701042209,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312840,
+        "num": 312840,
+        "word": "种地吧 开工大吉",
+        "onboard_time": 1701055113,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309044,
+        "num": 309044,
+        "word": "女子肉摊买回骨折边牧让它重获新生",
+        "onboard_time": 1701048392,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290268,
+        "num": 290268,
+        "word": "周杰伦演唱会长沙站获批",
+        "onboard_time": 1701056557,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 527916,
+        "num": 289773,
+        "word": "刘亦菲失去表情管理",
+        "onboard_time": 1701059379,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373126,
+        "num": 289691,
+        "word": "冬天赖床其实是身体在保护你",
+        "onboard_time": 1701057759,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 313913,
+        "num": 289631,
+        "word": "室友回来半小时了还没放下行囊",
+        "onboard_time": 1701059921,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289152,
+        "num": 289152,
+        "word": "白鹿丝巾编发",
+        "onboard_time": 1701058357,
+        "rank": 23,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 280806,
+        "num": 280806,
+        "word": "做不到和考研和解",
+        "onboard_time": 1701060940,
+        "rank": 24,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 266784,
+        "num": 266784,
+        "word": "周一的我被确诊为安陵容",
+        "onboard_time": 1701049717,
+        "rank": 25,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 261257,
+        "num": 261257,
+        "word": "快乐老友记 张远笑翻了",
+        "onboard_time": 1701061479,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252204,
+        "num": 252204,
+        "word": "周传雄 冬天的秘密",
+        "onboard_time": 1701059860,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237817,
+        "num": 237817,
+        "word": "曾黎20年前后穿婚纱对比",
+        "onboard_time": 1701046957,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169218,
+        "num": 234620,
+        "word": "重庆市原副市长熊雪被决定逮捕",
+        "onboard_time": 1701053853,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234243,
+        "num": 234243,
+        "word": "女生无意将沃柑放柜子1周变霉球",
+        "onboard_time": 1701052715,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223597,
+        "num": 223597,
+        "word": "繁花下证",
+        "onboard_time": 1701061598,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219256,
+        "num": 219256,
+        "word": "供应商曝羽绒服高价真相",
+        "onboard_time": 1701052715,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 217491,
+        "num": 217491,
+        "word": "酱园弄女二 倪妮",
+        "onboard_time": 1701051993,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162208,
+        "num": 216393,
+        "word": "鬼斧神工的大自然又出新作",
+        "onboard_time": 1701057337,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216247,
+        "num": 216247,
+        "word": "马东锡自拍 安全感十足的头像",
+        "onboard_time": 1701047073,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215270,
+        "num": 215270,
+        "word": "看起来放松其实很耗气血的5个行为",
+        "onboard_time": 1701061659,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207236,
+        "num": 207236,
+        "word": "字节游戏裁员",
+        "onboard_time": 1701052653,
+        "rank": 37,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 198368,
+        "num": 198368,
+        "word": "李安 宁愿犯错不要boring",
+        "onboard_time": 1701056075,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194194,
+        "num": 194194,
+        "word": "难听",
+        "onboard_time": 1701042990,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185430,
+        "num": 185430,
+        "word": "谢危就留给南方的姐妹",
+        "onboard_time": 1701061301,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184423,
+        "num": 184423,
+        "word": "种地吧直播",
+        "onboard_time": 1701057273,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183837,
+        "num": 183837,
+        "word": "过年实用物品",
+        "onboard_time": 1701061539,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179651,
+        "num": 179651,
+        "word": "小区名字的内在含义",
+        "onboard_time": 1701061421,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172130,
+        "num": 172130,
+        "word": "林俊杰 宿命感直接拉满",
+        "onboard_time": 1701056254,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170653,
+        "num": 170653,
+        "word": "澳门物价",
+        "onboard_time": 1701051691,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166267,
+        "num": 166267,
+        "word": "面色发黄其实是身体发出的求救信号",
+        "onboard_time": 1701047796,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162973,
+        "num": 162973,
+        "word": "李龙馥白发饭绘",
+        "onboard_time": 1701061479,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 161039,
+        "num": 161039,
+        "word": "白月梵星 竹林对手戏",
+        "onboard_time": 1701056135,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148924,
+        "num": 148924,
+        "word": "六款平价又小巧的唇膏",
+        "onboard_time": 1701060279,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的黄河情怀#"
+    }
+  }
+}

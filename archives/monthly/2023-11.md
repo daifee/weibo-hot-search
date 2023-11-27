@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 12:35:42
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 13:17:17
 </p>
 </blockquote>
 <p>
@@ -1755,6 +1755,12 @@ T1拿到两个赛点（热度：1895187）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%9C%AA%E8%80%83%E4%B8%8A985%E9%81%AD%E7%88%B6%E4%BA%B2%E5%AE%B6%E6%9A%B4%23" target="weibo">
+16岁女孩未考上985遭父亲家暴（热度：1877001）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E7%9D%A1%E5%89%8D%E6%B6%82%E5%94%87%E8%86%8F%E5%BE%88%E6%9C%89%E7%94%A8%23" target="weibo">
 坚持睡前涂唇膏很有用（热度：1864875）
 </a>
@@ -1817,6 +1823,12 @@ BLACKPINK两名成员与YG签订组合约（热度：1863870）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E6%8B%BF%E5%88%B0%E5%86%B3%E8%B5%9B%E8%B5%9B%E7%82%B9%23" target="weibo">
 T1拿到决赛赛点（热度：1835312）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90%20%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A%23" target="weibo">
+张艺谋儿子 巴黎名媛舞会（热度：1832481）
 </a>
 </li>
 
@@ -2585,6 +2597,12 @@ EDG剧本（热度：1601101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%99%BD%E6%95%AC%E4%BA%AD%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E5%88%87%E9%95%9C%E5%A4%B4%23" target="weibo">
 宋轶白敬亭魏大勋 切镜头（热度：1596092）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%99%8B%E7%9A%84%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%8E%BB%E4%B8%96%23" target="weibo">
+谢晋的大女儿去世（热度：1595355）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ GEN 五放皇子（热度：882209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E5%A6%86%23" target="weibo">
 痞幼妆（热度：879589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%80%E7%AB%99%E5%B9%B8%E7%A6%8F%E5%AF%BC%E6%BC%94%E9%99%88%E6%85%A7%E7%BF%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
-下一站幸福导演陈慧翎去世（热度：878305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%AD%A6%E6%A0%A1%E5%B7%B2%E5%91%8A%E7%9F%A5%E5%8A%A9%E5%AD%A6%E9%87%91%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23" target="weibo">
-当事人称学校已告知助学金事件调查结果（热度：878181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E9%98%B3%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%80%A0%E5%9E%8B%23" target="weibo">
-这居然是王阳尖叫之夜造型（热度：877685）
 </a>
 </li>
 

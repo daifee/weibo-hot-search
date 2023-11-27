@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701059742281,
+  "endTime": 1701062237685,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -35,12 +35,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1877001,
+      "num": 1877001,
+      "word": "16岁女孩未考上985遭父亲家暴",
+      "onboard_time": 1701059379,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1832481,
+      "num": 1156268,
+      "word": "张艺谋儿子 巴黎名媛舞会",
+      "onboard_time": 1701060764,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1707349,
       "num": 1707349,
       "word": "羽绒服涨价把市场让给了军大衣",
       "onboard_time": 1701044614,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1595355,
+      "num": 1595355,
+      "word": "谢晋的大女儿去世",
+      "onboard_time": 1701059565,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1493013,
@@ -172,11 +196,19 @@
     },
     {
       "raw_hot": 769732,
-      "num": 497073,
+      "num": 547998,
       "word": "字节跳动将关闭游戏朝夕光年",
       "onboard_time": 1701057937,
       "rank": 13,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 760276,
+      "num": 760276,
+      "word": "暮光之城 重启",
+      "onboard_time": 1701060342,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 688413,
@@ -227,6 +259,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 549471,
+      "num": 549471,
+      "word": "张遮终生未娶",
+      "onboard_time": 1701060399,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543307,
       "num": 494829,
       "word": "下班回家搞副业到底行不行",
@@ -241,6 +281,14 @@
       "onboard_time": 1701047553,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 527916,
+      "num": 289773,
+      "word": "刘亦菲失去表情管理",
+      "onboard_time": 1701059379,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 515415,
@@ -305,6 +353,14 @@
       "onboard_time": 1701058357,
       "rank": 21,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 452799,
+      "num": 452799,
+      "word": "B站华为达成合作",
+      "onboard_time": 1701059921,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 438186,
@@ -377,6 +433,14 @@
       "onboard_time": 1701000813,
       "rank": 6,
       "category": "演出,网红"
+    },
+    {
+      "raw_hot": 373126,
+      "num": 291186,
+      "word": "冬天赖床其实是身体在保护你",
+      "onboard_time": 1701057759,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 369917,
@@ -459,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313913,
+      "num": 289631,
+      "word": "室友回来半小时了还没放下行囊",
+      "onboard_time": 1701059921,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312084,
       "num": 312084,
       "word": "封神第一部 远在天边",
@@ -515,22 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298794,
-      "num": 298794,
-      "word": "谢晋的大女儿去世",
-      "onboard_time": 1701059565,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 291186,
-      "num": 291186,
-      "word": "冬天赖床其实是身体在保护你",
-      "onboard_time": 1701057759,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 285084,
       "num": 285084,
       "word": "冬季洗澡尽量控制在5到10分钟",
@@ -571,8 +627,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280806,
+      "num": 280806,
+      "word": "做不到和考研和解",
+      "onboard_time": 1701060940,
+      "rank": 24,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 280211,
-      "num": 280211,
+      "num": 646646,
       "word": "烈士的遗物是遗留在体内的子弹",
       "onboard_time": 1701056317,
       "rank": 24,
@@ -627,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261257,
+      "num": 261257,
+      "word": "快乐老友记 张远笑翻了",
+      "onboard_time": 1701061479,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261167,
       "num": 261167,
       "word": "林俊杰 宿命感直接拉满",
@@ -641,6 +713,14 @@
       "onboard_time": 1701041726,
       "rank": 24,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 252204,
+      "num": 252204,
+      "word": "周传雄 冬天的秘密",
+      "onboard_time": 1701059860,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 243878,
@@ -691,14 +771,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 232587,
-      "num": 232587,
-      "word": "16岁女孩未考上985遭父亲家暴",
-      "onboard_time": 1701059379,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 228947,
       "num": 228947,
       "word": "俄3名特工在乌克兰吃外卖中毒身亡",
@@ -723,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223597,
+      "num": 223597,
+      "word": "繁花下证",
+      "onboard_time": 1701061598,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222443,
       "num": 222443,
       "word": "这个钱活该你挣",
@@ -737,6 +817,14 @@
       "onboard_time": 1701009035,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 215270,
+      "num": 215270,
+      "word": "看起来放松其实很耗气血的5个行为",
+      "onboard_time": 1701061659,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213949,
@@ -803,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200868,
-      "num": 200868,
-      "word": "刘亦菲失去表情管理",
-      "onboard_time": 1701059379,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198690,
       "num": 198690,
       "word": "闻不到味道的人叫什么",
@@ -875,12 +955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185430,
+      "num": 185430,
+      "word": "谢危就留给南方的姐妹",
+      "onboard_time": 1701061301,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185370,
       "num": 185370,
       "word": "赵露思卡通纹身贴",
       "onboard_time": 1701049594,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183837,
+      "num": 183837,
+      "word": "过年实用物品",
+      "onboard_time": 1701061539,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 182952,
@@ -905,6 +1001,14 @@
       "onboard_time": 1701007660,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179651,
+      "num": 179651,
+      "word": "小区名字的内在含义",
+      "onboard_time": 1701061421,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 177404,
@@ -945,6 +1049,14 @@
       "onboard_time": 1701040463,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162973,
+      "num": 162973,
+      "word": "李龙馥白发饭绘",
+      "onboard_time": 1701061479,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 160263,
@@ -1017,6 +1129,14 @@
       "onboard_time": 1701056015,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148924,
+      "num": 148924,
+      "word": "六款平价又小巧的唇膏",
+      "onboard_time": 1701060279,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 148423,
@@ -1401,6 +1521,14 @@
       "onboard_time": 1701019820,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21370,
+      "num": 1247799,
+      "word": "最美北京我的家",
+      "onboard_time": 1701061897,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20998,
