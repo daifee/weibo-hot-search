@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 15:16:51
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 15:34:08
 </p>
 </blockquote>
 <p>
@@ -1533,6 +1533,12 @@ WBG对战BLG（热度：2001531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%A6%81%E6%B1%82%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94%E5%81%BF500%E4%B8%87%23" target="weibo">
+特斯拉要求刹车失灵事件女车主赔偿500万（热度：1996238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E7%9B%B8%E4%BA%92%E9%81%93%E5%88%AB%23" target="weibo">
 中美元首相互道别（热度：1991533）
 </a>
@@ -2099,12 +2105,6 @@ WBG发文告别S13（热度：1736182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 以爱为营大结局（热度：1729223）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%A6%81%E6%B1%82%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94%E5%81%BF500%E4%B8%87%23" target="weibo">
-特斯拉要求刹车失灵事件女车主赔偿500万（热度：1729010）
 </a>
 </li>
 

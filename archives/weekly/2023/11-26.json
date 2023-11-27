@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701069411839,
+  "endTime": 1701070448464,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -91,6 +91,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1996238,
+      "num": 1996238,
+      "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+      "onboard_time": 1701065673,
+      "rank": 17,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 1942600,
       "num": 1942600,
       "word": "热狗新歌疑似diss周杰伦",
@@ -161,14 +169,6 @@
       "onboard_time": 1700967510,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1729010,
-      "num": 1729010,
-      "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
-      "onboard_time": 1701065673,
-      "rank": 17,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 1725862,
@@ -619,6 +619,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 731818,
+      "num": 731818,
+      "word": "江苏报告33144例流感",
+      "onboard_time": 1701068074,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728536,
       "num": 728536,
       "word": "杨幂新剧抽烟镜头",
@@ -793,6 +801,14 @@
       "onboard_time": 1700962530,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 590868,
+      "num": 433995,
+      "word": "陈牧驰拍戏路透",
+      "onboard_time": 1701070115,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 586979,
@@ -1019,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 504020,
+      "num": 504020,
+      "word": "给p人一点j人的震撼",
+      "onboard_time": 1701066752,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 502925,
       "num": 356762,
       "word": "白敬亭倪妮坐一起",
@@ -1049,6 +1073,22 @@
       "onboard_time": 1701001833,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 493177,
+      "num": 493177,
+      "word": "星光大赏 嘉宾",
+      "onboard_time": 1701066813,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 489676,
+      "num": 489676,
+      "word": "倪妮方 此项目与我们无关",
+      "onboard_time": 1701067653,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 486959,
@@ -1131,20 +1171,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 467835,
+      "num": 258994,
+      "word": "小满生活 怀孕被上司故意劝酒",
+      "onboard_time": 1701066992,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467453,
       "num": 467453,
       "word": "重庆市原副市长熊雪被决定逮捕",
       "onboard_time": 1701053853,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466925,
-      "num": 258994,
-      "word": "小满生活 怀孕被上司故意劝酒",
-      "onboard_time": 1701066992,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 466905,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1701000336,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 444545,
-      "num": 294872,
-      "word": "倪妮方 此项目与我们无关",
-      "onboard_time": 1701067653,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 443549,
@@ -1369,14 +1401,6 @@
       "onboard_time": 1701012632,
       "rank": 36,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 404769,
-      "num": 404769,
-      "word": "星光大赏 嘉宾",
-      "onboard_time": 1701066813,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 402218,
@@ -1683,6 +1707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 333789,
+      "num": 333789,
+      "word": "杨紫白玫瑰小黑裙",
+      "onboard_time": 1701068672,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332891,
       "num": 332891,
       "word": "关我秦岚什么事",
@@ -1755,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321548,
-      "num": 321548,
-      "word": "给p人一点j人的震撼",
-      "onboard_time": 1701066752,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 320894,
       "num": 320894,
       "word": "斗鱼陈少杰被捕后多位大主播已停播",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1700974472,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318298,
-      "num": 282534,
-      "word": "江苏报告33144例流感",
-      "onboard_time": 1701068074,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316946,
@@ -1881,6 +1897,22 @@
       "onboard_time": 1700964269,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308660,
+      "num": 308660,
+      "word": "男生半永久纹唇是什么体验",
+      "onboard_time": 1701068915,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 307055,
+      "num": 257387,
+      "word": "宋江回春",
+      "onboard_time": 1701066572,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305409,
@@ -2283,14 +2315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262121,
-      "num": 262121,
-      "word": "杨紫白玫瑰小黑裙",
-      "onboard_time": 1701068672,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 261691,
       "num": 261691,
       "word": "宁安如梦 表情乱飞",
@@ -2353,14 +2377,6 @@
       "onboard_time": 1700983652,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 257387,
-      "num": 257387,
-      "word": "宋江回春",
-      "onboard_time": 1701066572,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 256661,
@@ -2803,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219330,
+      "num": 179061,
+      "word": "电音朵拉vs叔圈天菜",
+      "onboard_time": 1701069452,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219233,
       "num": 219233,
       "word": "辛芷蕾喊话后期 人设都整没了",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1700969793,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192767,
+      "num": 192767,
+      "word": "小狗 真开心我要被爱了",
+      "onboard_time": 1701068734,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 192614,
@@ -3547,6 +3579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174745,
+      "num": 174745,
+      "word": "合胞病毒传染性约是流感2.5倍",
+      "onboard_time": 1701066932,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 172577,
       "num": 161594,
       "word": "抽屉居士",
@@ -3681,14 +3721,6 @@
       "onboard_time": 1701040463,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164212,
-      "num": 152134,
-      "word": "小狗 真开心我要被爱了",
-      "onboard_time": 1701068734,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 164125,
@@ -3873,14 +3905,6 @@
       "onboard_time": 1701056015,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151725,
-      "num": 151725,
-      "word": "男生半永久纹唇是什么体验",
-      "onboard_time": 1701068915,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 151095,
@@ -4115,6 +4139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137603,
+      "num": 124208,
+      "word": "内娱男明星影响力排名",
+      "onboard_time": 1701070412,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137398,
       "num": 137398,
       "word": "T1官宣Roach续约",
@@ -4153,14 +4185,6 @@
       "onboard_time": 1700918508,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133562,
-      "num": 133562,
-      "word": "合胞病毒传染性约是流感2.5倍",
-      "onboard_time": 1701066932,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 132103,
@@ -4321,6 +4345,14 @@
       "onboard_time": 1700961630,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110611,
+      "num": 110611,
+      "word": "橘园男主人离世市民帮买1万多斤橘子",
+      "onboard_time": 1701069335,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108115,
