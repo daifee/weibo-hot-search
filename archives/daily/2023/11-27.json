@@ -1,7 +1,15 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701047769016,
+  "endTime": 1701049034165,
   "band_list": [
+    {
+      "raw_hot": 2781937,
+      "num": 2781937,
+      "word": "高以翔父亲去世",
+      "onboard_time": 1701047496,
+      "rank": 9,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2127466,
       "num": 2127466,
@@ -51,8 +59,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 956880,
+      "num": 956880,
+      "word": "易烊千玺代言瑞幸咖啡",
+      "onboard_time": 1701048274,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 849224,
-      "num": 479510,
+      "num": 497299,
       "word": "宋轶社交 白敬亭不知道在忙什么",
       "onboard_time": 1701003697,
       "rank": 10,
@@ -83,6 +99,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 543307,
+      "num": 494829,
+      "word": "下班回家搞副业到底行不行",
+      "onboard_time": 1701046054,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540355,
+      "num": 540355,
+      "word": "张凌赫 苦战一天谢某来了",
+      "onboard_time": 1701047553,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 515415,
       "num": 515415,
       "word": "林俊杰希望不要惊动到孙燕姿",
@@ -99,20 +131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 494829,
-      "num": 494829,
-      "word": "下班回家搞副业到底行不行",
-      "onboard_time": 1701046054,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485138,
-      "num": 485138,
-      "word": "高以翔父亲去世",
-      "onboard_time": 1701047496,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 476545,
+      "num": 281969,
+      "word": "曾黎20年前后穿婚纱对比",
+      "onboard_time": 1701046957,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 471927,
@@ -131,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409760,
+      "num": 409760,
+      "word": "退役军人从8层楼高的大桥跳海救人",
+      "onboard_time": 1701045814,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409304,
       "num": 284774,
       "word": "家长副驾抱娃幼童被甩出车外身亡",
@@ -139,20 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408939,
-      "num": 408939,
-      "word": "张凌赫 苦战一天谢某来了",
-      "onboard_time": 1701047553,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 405739,
       "num": 405739,
       "word": "白桃星座",
       "onboard_time": 1701012632,
       "rank": 5,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 394893,
+      "num": 394893,
+      "word": "马东锡自拍 安全感十足的头像",
+      "onboard_time": 1701047073,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 393110,
@@ -187,22 +219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 360970,
-      "num": 360970,
-      "word": "退役军人从8层楼高的大桥跳海救人",
-      "onboard_time": 1701045814,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353104,
-      "num": 281969,
-      "word": "曾黎20年前后穿婚纱对比",
-      "onboard_time": 1701046957,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 348417,
       "num": 348417,
       "word": "秦岚的嗓子一点没耽误唠嗑",
@@ -211,12 +227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336185,
+      "num": 236930,
+      "word": "面色发黄其实是身体发出的求救信号",
+      "onboard_time": 1701047796,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 335252,
       "num": 335252,
       "word": "王嘉尔 冷静点广州",
       "onboard_time": 1701044254,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 327210,
+      "num": 327210,
+      "word": "高以翔去世四周年",
+      "onboard_time": 1701047618,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 318063,
@@ -267,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 300550,
+      "num": 300550,
+      "word": "流感",
+      "onboard_time": 1701047073,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285084,
       "num": 285084,
       "word": "冬季洗澡尽量控制在5到10分钟",
@@ -297,6 +337,14 @@
       "onboard_time": 1701017664,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278382,
+      "num": 234558,
+      "word": "热搜vs孤注一掷",
+      "onboard_time": 1701048454,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 267205,
@@ -339,14 +387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 237280,
-      "num": 224705,
-      "word": "马东锡自拍 安全感十足的头像",
-      "onboard_time": 1701047073,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234513,
       "num": 234513,
       "word": "小杨哥演唱会线上观众超10万人",
@@ -363,6 +403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 230964,
+      "num": 230964,
+      "word": "女子肉摊买回骨折边牧让它重获新生",
+      "onboard_time": 1701048392,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228947,
       "num": 228947,
       "word": "俄3名特工在乌克兰吃外卖中毒身亡",
@@ -371,8 +419,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 226454,
-      "num": 226454,
+      "raw_hot": 228414,
+      "num": 228414,
       "word": "大熊猫打架看镜头示意游客拍照",
       "onboard_time": 1701042750,
       "rank": 29,
@@ -411,20 +459,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 198690,
+      "num": 198690,
+      "word": "闻不到味道的人叫什么",
+      "onboard_time": 1701047618,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196968,
       "num": 196968,
       "word": "巨显发量的双麻花辫",
       "onboard_time": 1701045873,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 191123,
-      "num": 191123,
-      "word": "流感",
-      "onboard_time": 1701047073,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190413,
@@ -441,14 +489,6 @@
       "onboard_time": 1700997575,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189793,
-      "num": 189793,
-      "word": "高以翔去世四周年",
-      "onboard_time": 1701047618,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 181388,
@@ -593,14 +633,6 @@
       "onboard_time": 1701011797,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 128761,
-      "num": 128761,
-      "word": "闻不到味道的人叫什么",
-      "onboard_time": 1701047618,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 128508,
@@ -884,7 +916,7 @@
     },
     {
       "raw_hot": 17508,
-      "num": 1199791,
+      "num": 1658403,
       "word": "微观链博会",
       "onboard_time": 1701001536,
       "rank": 2,

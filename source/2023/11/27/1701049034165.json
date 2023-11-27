@@ -1,0 +1,410 @@
+{
+  "runTime": 1701049034165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2781937,
+        "num": 2781937,
+        "word": "高以翔父亲去世",
+        "onboard_time": 1701047496,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1693776,
+        "num": 1693776,
+        "word": "1500和1500是不一样的",
+        "onboard_time": 1701042209,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14402,
+        "num": 1658403,
+        "word": "微观链博会",
+        "onboard_time": 1701001536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1658144,
+        "num": 1658144,
+        "word": "羽绒服涨价把市场让给了军大衣",
+        "onboard_time": 1701044614,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956880,
+        "num": 956880,
+        "word": "易烊千玺代言瑞幸咖啡",
+        "onboard_time": 1701048274,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 820261,
+        "num": 820261,
+        "word": "B太 我被漠河人留住了",
+        "onboard_time": 1701040162,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 802755,
+        "num": 802755,
+        "word": "难听",
+        "onboard_time": 1701042990,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 673612,
+        "num": 673612,
+        "word": "小杨哥演唱会 Twins",
+        "onboard_time": 1701011365,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 638956,
+        "num": 638956,
+        "word": "多伦多市附近交通事故4名中国留学生身亡",
+        "onboard_time": 1701043889,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585832,
+        "num": 585832,
+        "word": "连撞11车特斯拉车主发声",
+        "onboard_time": 1701026895,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540355,
+        "num": 540355,
+        "word": "张凌赫 苦战一天谢某来了",
+        "onboard_time": 1701047553,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497299,
+        "num": 497299,
+        "word": "宋轶社交 白敬亭不知道在忙什么",
+        "onboard_time": 1701003697,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409760,
+        "num": 409760,
+        "word": "退役军人从8层楼高的大桥跳海救人",
+        "onboard_time": 1701045814,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394893,
+        "num": 394893,
+        "word": "马东锡自拍 安全感十足的头像",
+        "onboard_time": 1701047073,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358175,
+        "num": 358175,
+        "word": "谷歌AI认定美国登月照片或造假",
+        "onboard_time": 1701041365,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 327210,
+        "num": 327210,
+        "word": "高以翔去世四周年",
+        "onboard_time": 1701047618,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305551,
+        "num": 305551,
+        "word": "海清说张桂梅会影响她很久很久",
+        "onboard_time": 1701042568,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300550,
+        "num": 300550,
+        "word": "流感",
+        "onboard_time": 1701047073,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294613,
+        "num": 294613,
+        "word": "王嘉尔 冷静点广州",
+        "onboard_time": 1701044254,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239001,
+        "num": 239001,
+        "word": "刘亦菲淡颜减龄初恋妆",
+        "onboard_time": 1701041726,
+        "rank": 19,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 543307,
+        "num": 238186,
+        "word": "下班回家搞副业到底行不行",
+        "onboard_time": 1701046054,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476545,
+        "num": 238041,
+        "word": "曾黎20年前后穿婚纱对比",
+        "onboard_time": 1701046957,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336185,
+        "num": 236930,
+        "word": "面色发黄其实是身体发出的求救信号",
+        "onboard_time": 1701047796,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290822,
+        "num": 236288,
+        "word": "宁安如梦大结局 洞房",
+        "onboard_time": 1701042150,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278382,
+        "num": 234558,
+        "word": "热搜vs孤注一掷",
+        "onboard_time": 1701048454,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274772,
+        "num": 234371,
+        "word": "脾胃不好气血不足就吃蒸苹果",
+        "onboard_time": 1701041365,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256667,
+        "num": 232939,
+        "word": "洗筷子不要来回搓",
+        "onboard_time": 1701013293,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240201,
+        "num": 232670,
+        "word": "YG味",
+        "onboard_time": 1701045693,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240089,
+        "num": 231739,
+        "word": "易烊千玺景德镇",
+        "onboard_time": 1701014613,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230964,
+        "num": 230964,
+        "word": "女子肉摊买回骨折边牧让它重获新生",
+        "onboard_time": 1701048392,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229208,
+        "num": 229208,
+        "word": "每个人嘎的时候都要骂甄嬛一句",
+        "onboard_time": 1701008077,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228414,
+        "num": 228414,
+        "word": "大熊猫打架看镜头示意游客拍照",
+        "onboard_time": 1701042750,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226125,
+        "num": 226125,
+        "word": "国考笔试结束",
+        "onboard_time": 1701044792,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221181,
+        "num": 221181,
+        "word": "秦岚的嗓子一点没耽误唠嗑",
+        "onboard_time": 1701040162,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220366,
+        "num": 220366,
+        "word": "这个钱活该你挣",
+        "onboard_time": 1701046714,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198690,
+        "num": 198690,
+        "word": "闻不到味道的人叫什么",
+        "onboard_time": 1701047618,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193521,
+        "num": 193521,
+        "word": "张颂文为张译新电影包场",
+        "onboard_time": 1701040643,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186402,
+        "num": 186402,
+        "word": "小杨哥演唱会线上观众超10万人",
+        "onboard_time": 1701041365,
+        "rank": 37,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 184248,
+        "num": 184248,
+        "word": "孟慧圆军大衣",
+        "onboard_time": 1701045636,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171353,
+        "num": 171353,
+        "word": "这种碳水不仅能减肚子还能改善脂肪肝",
+        "onboard_time": 1701007958,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163236,
+        "num": 163236,
+        "word": "辛芷蕾P了Q版迪丽热巴",
+        "onboard_time": 1701013656,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148883,
+        "num": 148883,
+        "word": "姜雪宁一家三代都喜欢张遮",
+        "onboard_time": 1701017664,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146420,
+        "num": 146420,
+        "word": "巨显发量的双麻花辫",
+        "onboard_time": 1701045873,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142662,
+        "num": 142662,
+        "word": "杨贤硕 品味",
+        "onboard_time": 1701047314,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137274,
+        "num": 137274,
+        "word": "赛力斯回应华为成立智能汽车新公司",
+        "onboard_time": 1701042509,
+        "rank": 44,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 135366,
+        "num": 135366,
+        "word": "直系亲属犯罪是否会影响国考政审",
+        "onboard_time": 1701022875,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134871,
+        "num": 134871,
+        "word": "林俊杰希望不要惊动到孙燕姿",
+        "onboard_time": 1701013173,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133669,
+        "num": 133669,
+        "word": "小杨哥演唱会",
+        "onboard_time": 1701000813,
+        "rank": 47,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 132383,
+        "num": 132383,
+        "word": "家长副驾抱娃幼童被甩出车外身亡",
+        "onboard_time": 1701003158,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131018,
+        "num": 131018,
+        "word": "羊肉串来东北都得挂个冰糖",
+        "onboard_time": 1701044371,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#在数字经济互联网等领域持续扩大开放#"
+    }
+  }
+}

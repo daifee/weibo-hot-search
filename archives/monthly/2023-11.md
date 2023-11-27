@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 09:16:09
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 09:37:14
 </p>
 </blockquote>
 <p>
@@ -665,6 +665,12 @@ WBG晋级S13总决赛（热度：2847580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E7%BB%84%20%E9%AC%BC%E6%80%AA%E8%BF%87%E6%97%B6%E4%BA%86%23" target="weibo">
 以爱为营剧组 鬼怪过时了（热度：2784374）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
+高以翔父亲去世（热度：2781937）
 </a>
 </li>
 
@@ -5379,6 +5385,12 @@ LNG对战T1 比分预测（热度：958227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BB%A3%E8%A8%80%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%23" target="weibo">
+易烊千玺代言瑞幸咖啡（热度：956880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%85%89%E4%B8%AD%E5%A6%BB%E5%AD%90%E5%8E%BB%E4%B8%96%23" target="weibo">
 余光中妻子去世（热度：956738）
 </a>
@@ -5999,18 +6011,6 @@ ChatGPT可能已经有了意识（热度：873431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E8%B5%B7%E8%AF%89%E5%9B%9B%E5%90%8D%E6%91%86%E6%8B%8D%E7%BD%91%E7%BA%A2%E6%8D%9F%E5%AE%B3%E9%AA%91%E6%89%8B%E5%BD%A2%E8%B1%A1%23" target="weibo">
 美团起诉四名摆拍网红损害骑手形象（热度：872004）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8F%B2%E8%8F%B2%E5%85%AC%E5%BC%80%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
-孙菲菲公开暴力事件最新进展（热度：871489）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%9B%9E%E5%BA%94%E5%94%AE%E6%A5%BC%E5%A4%84%E7%BB%B4%E6%9D%83%E8%A2%AB%E6%8A%A2%E6%89%8B%E6%9C%BA%23" target="weibo">
-网红夫妇回应售楼处维权被抢手机（热度：871404）
 </a>
 </li>
 
