@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701095726523,
+  "endTime": 1701098344987,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -43,6 +43,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2024484,
+      "num": 2024484,
+      "word": "昆明震感",
+      "onboard_time": 1701097055,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2024281,
       "num": 2024281,
       "word": "江苏报告33144例流感",
@@ -81,6 +89,14 @@
       "onboard_time": 1701077195,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1726599,
+      "num": 289359,
+      "word": "滴滴崩了",
+      "onboard_time": 1701095978,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 1707349,
@@ -259,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 851308,
+      "num": 851308,
+      "word": "宋江好帅",
+      "onboard_time": 1701088957,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 849224,
       "num": 497299,
       "word": "宋轶社交 白敬亭不知道在忙什么",
       "onboard_time": 1701003697,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 847130,
-      "num": 847130,
-      "word": "宋江好帅",
-      "onboard_time": 1701088957,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 844205,
@@ -315,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781452,
+      "num": 781452,
+      "word": "赵丽颖工作室发了三张许半夏",
+      "onboard_time": 1701097717,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 769732,
       "num": 547998,
       "word": "字节跳动将关闭游戏朝夕光年",
@@ -337,6 +361,14 @@
       "onboard_time": 1701078816,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724174,
+      "num": 724174,
+      "word": "外卖酸菜鱼的生存环境",
+      "onboard_time": 1701092017,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 707897,
@@ -459,14 +491,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 607983,
-      "num": 607983,
-      "word": "外卖酸菜鱼的生存环境",
-      "onboard_time": 1701092017,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 605369,
       "num": 398324,
       "word": "肖战机场路透",
@@ -497,6 +521,14 @@
       "onboard_time": 1701084153,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 570776,
+      "num": 570776,
+      "word": "云南玉溪发生3.0级地震",
+      "onboard_time": 1701097834,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560559,
@@ -747,6 +779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 448279,
+      "num": 287638,
+      "word": "青春剧为什么不拍研究生",
+      "onboard_time": 1701095015,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 448107,
       "num": 448107,
       "word": "电影热烈最终票房9.12亿",
@@ -795,6 +835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 420208,
+      "num": 420208,
+      "word": "张杰 老友们下次聚",
+      "onboard_time": 1701095015,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417515,
       "num": 417515,
       "word": "怒海 承认父母没那么爱自己",
@@ -841,14 +889,6 @@
       "onboard_time": 1701042568,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 406084,
-      "num": 406084,
-      "word": "张杰 老友们下次聚",
-      "onboard_time": 1701095015,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 405739,
@@ -923,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386783,
+      "num": 386783,
+      "word": "LNG 接SSM",
+      "onboard_time": 1701095560,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 386245,
       "num": 386245,
       "word": "支原体肺炎",
@@ -963,12 +1011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366390,
-      "num": 266655,
-      "word": "青春剧为什么不拍研究生",
-      "onboard_time": 1701095015,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 364542,
+      "num": 364542,
+      "word": "一念关山",
+      "onboard_time": 1701012275,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 361221,
@@ -985,6 +1033,14 @@
       "onboard_time": 1701061479,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351243,
+      "num": 351243,
+      "word": "Knight",
+      "onboard_time": 1701097416,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 348417,
@@ -1009,6 +1065,14 @@
       "onboard_time": 1701064231,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343506,
+      "num": 343506,
+      "word": "何猷君奚梦瑶 爱的具象化",
+      "onboard_time": 1701094835,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 340483,
@@ -1491,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254724,
+      "num": 254724,
+      "word": "总做美甲的人现在都怎么样了",
+      "onboard_time": 1701098074,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 254406,
       "num": 236248,
       "word": "何猷君华容道",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1701065734,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247085,
+      "num": 247085,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1701096637,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 243878,
@@ -1691,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226420,
+      "num": 226420,
+      "word": "美嘉仿妆",
+      "onboard_time": 1701096995,
+      "rank": 32,
+      "category": "美妆,作品衍生"
+    },
+    {
       "raw_hot": 224341,
       "num": 224341,
       "word": "因为网恋我读了个大学",
@@ -1761,6 +1849,14 @@
       "onboard_time": 1701064052,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218484,
+      "num": 218484,
+      "word": "原来孕晚期脚会发臭",
+      "onboard_time": 1701098139,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 217898,
@@ -1843,12 +1939,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 206954,
-      "num": 206954,
-      "word": "何猷君奚梦瑶 爱的具象化",
-      "onboard_time": 1701094835,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 206257,
+      "num": 206257,
+      "word": "BLG 左手",
+      "onboard_time": 1701098139,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 205684,
@@ -1937,6 +2033,14 @@
       "onboard_time": 1701047618,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198532,
+      "num": 198532,
+      "word": "陆虎张远的友情",
+      "onboard_time": 1701096637,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 197316,
@@ -2147,6 +2251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183463,
+      "num": 249142,
+      "word": "医生建议咳嗽打喷嚏养成1个习惯",
+      "onboard_time": 1701097834,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183191,
       "num": 183191,
       "word": "赵丽娜说公益是她足球生涯的下半场",
@@ -2177,14 +2289,6 @@
       "onboard_time": 1701007660,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 180411,
-      "num": 180411,
-      "word": "LNG 接SSM",
-      "onboard_time": 1701095560,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 179651,
@@ -2409,14 +2513,6 @@
       "onboard_time": 1701051213,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156746,
-      "num": 156746,
-      "word": "一念关山",
-      "onboard_time": 1701012275,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 155602,
@@ -2644,7 +2740,7 @@
     },
     {
       "raw_hot": 138939,
-      "num": 952344,
+      "num": 986103,
       "word": "如何预防呼吸道疾病感染",
       "onboard_time": 1701089735,
       "rank": 2,
@@ -2665,6 +2761,14 @@
       "onboard_time": 1701042686,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137811,
+      "num": 137811,
+      "word": "张雪峰为员工多发300元工资请吃火锅",
+      "onboard_time": 1701098139,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137398,
@@ -2705,6 +2809,14 @@
       "onboard_time": 1701001776,
       "rank": 29,
       "category": "国内时政,旅游"
+    },
+    {
+      "raw_hot": 134692,
+      "num": 134692,
+      "word": "火锅底料为什么越来越贵",
+      "onboard_time": 1701098314,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 133277,

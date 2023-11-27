@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701095726523,
+  "endTime": 1701098344987,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1987,6 +1987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2024484,
+      "num": 2024484,
+      "word": "昆明震感",
+      "onboard_time": 1701097055,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2024281,
       "num": 2024281,
       "word": "江苏报告33144例流感",
@@ -2825,6 +2833,14 @@
       "onboard_time": 1700631455,
       "rank": 0,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1726599,
+      "num": 289359,
+      "word": "滴滴崩了",
+      "onboard_time": 1701095978,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 1726434,
@@ -8499,6 +8515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 851308,
+      "num": 851308,
+      "word": "宋江好帅",
+      "onboard_time": 1701088957,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 849709,
       "num": 849709,
       "word": "闲鱼回应多地大学生在平台挂学校",
@@ -8537,14 +8561,6 @@
       "onboard_time": 1699020877,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 847130,
-      "num": 847130,
-      "word": "宋江好帅",
-      "onboard_time": 1701088957,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 846882,
@@ -9787,6 +9803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 781452,
+      "num": 781452,
+      "word": "赵丽颖工作室发了三张许半夏",
+      "onboard_time": 1701097717,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 780982,
       "num": 201983,
       "word": "关晓彤 es高定",
@@ -10953,6 +10977,14 @@
       "onboard_time": 1700632774,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 724174,
+      "num": 724174,
+      "word": "外卖酸菜鱼的生存环境",
+      "onboard_time": 1701092017,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 723841,
@@ -13899,14 +13931,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 607983,
-      "num": 607983,
-      "word": "外卖酸菜鱼的生存环境",
-      "onboard_time": 1701092017,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 607609,
       "num": 607609,
       "word": "官方回应佳木斯一体育馆发生坍塌",
@@ -15129,6 +15153,14 @@
       "onboard_time": 1700451815,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 570776,
+      "num": 570776,
+      "word": "云南玉溪发生3.0级地震",
+      "onboard_time": 1701097834,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570638,
@@ -20179,6 +20211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448279,
+      "num": 287638,
+      "word": "青春剧为什么不拍研究生",
+      "onboard_time": 1701095015,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 448187,
       "num": 448187,
       "word": "把从大山里考出来的孩子送回深山",
@@ -21755,6 +21795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420208,
+      "num": 420208,
+      "word": "张杰 老友们下次聚",
+      "onboard_time": 1701095015,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419915,
       "num": 419915,
       "word": "青山刚昌东野圭吾将对谈",
@@ -22657,14 +22705,6 @@
       "onboard_time": 1700385811,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 406084,
-      "num": 406084,
-      "word": "张杰 老友们下次聚",
-      "onboard_time": 1701095015,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 405929,
@@ -23977,6 +24017,14 @@
       "onboard_time": 1699693111,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386783,
+      "num": 386783,
+      "word": "LNG 接SSM",
+      "onboard_time": 1701095560,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 386764,
@@ -25363,14 +25411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 366390,
-      "num": 266655,
-      "word": "青春剧为什么不拍研究生",
-      "onboard_time": 1701095015,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 366348,
       "num": 366348,
       "word": "千纸鹤颠婆",
@@ -25521,6 +25561,14 @@
       "onboard_time": 1700833655,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 364542,
+      "num": 364542,
+      "word": "一念关山",
+      "onboard_time": 1700476120,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 364509,
@@ -26419,6 +26467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351243,
+      "num": 351243,
+      "word": "Knight",
+      "onboard_time": 1701097416,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 351227,
       "num": 347986,
       "word": "艺人对发量的执念有多深",
@@ -27099,6 +27155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343506,
+      "num": 343506,
+      "word": "何猷君奚梦瑶 爱的具象化",
+      "onboard_time": 1701094835,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343370,
       "num": 343370,
       "word": "T1和WBG与NewJeans交换队服",
@@ -27337,14 +27401,6 @@
       "onboard_time": 1699976854,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 340659,
-      "num": 340659,
-      "word": "一念关山",
-      "onboard_time": 1700476120,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 340483,
@@ -36115,6 +36171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254724,
+      "num": 254724,
+      "word": "总做美甲的人现在都怎么样了",
+      "onboard_time": 1701098074,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 254716,
       "num": 254716,
       "word": "丁程鑫给宋亚轩递伞",
@@ -40627,6 +40691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226420,
+      "num": 280558,
+      "word": "美嘉仿妆",
+      "onboard_time": 1700934861,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 226388,
       "num": 226388,
       "word": "李雪琴叫王鹤棣白鹿时总时太太",
@@ -42065,6 +42137,14 @@
       "onboard_time": 1700191536,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218484,
+      "num": 218484,
+      "word": "原来孕晚期脚会发臭",
+      "onboard_time": 1701098139,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 218438,
@@ -44611,14 +44691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206954,
-      "num": 206954,
-      "word": "何猷君奚梦瑶 爱的具象化",
-      "onboard_time": 1701094835,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206950,
       "num": 206950,
       "word": "吃饺子过教资",
@@ -44809,6 +44881,14 @@
       "onboard_time": 1700800124,
       "rank": 43,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 206257,
+      "num": 206257,
+      "word": "BLG 左手",
+      "onboard_time": 1701098139,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 206253,
@@ -46969,6 +47049,14 @@
       "onboard_time": 1700129254,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 198532,
+      "num": 198532,
+      "word": "陆虎张远的友情",
+      "onboard_time": 1701096637,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 198528,
@@ -51531,6 +51619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183463,
+      "num": 249142,
+      "word": "医生建议咳嗽打喷嚏养成1个习惯",
+      "onboard_time": 1701097834,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 183300,
       "num": 185127,
       "word": "赛博围棋最抽象的一局",
@@ -52105,14 +52201,6 @@
       "onboard_time": 1699603475,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180411,
-      "num": 180411,
-      "word": "LNG 接SSM",
-      "onboard_time": 1701095560,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 180406,
@@ -62156,7 +62244,7 @@
     },
     {
       "raw_hot": 138939,
-      "num": 952344,
+      "num": 986103,
       "word": "如何预防呼吸道疾病感染",
       "onboard_time": 1701089735,
       "rank": 2,
@@ -62472,6 +62560,14 @@
       "word": "神十七乘组拍的蔚蓝地球",
       "onboard_time": 1700207314,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137811,
+      "num": 137811,
+      "word": "张雪峰为员工多发300元工资请吃火锅",
+      "onboard_time": 1701098139,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -63057,6 +63153,14 @@
       "onboard_time": 1699755692,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134692,
+      "num": 134692,
+      "word": "火锅底料为什么越来越贵",
+      "onboard_time": 1701098314,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 134625,
@@ -72609,14 +72713,6 @@
       "onboard_time": 1699095633,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65718,
-      "num": 280558,
-      "word": "美嘉仿妆",
-      "onboard_time": 1700934861,
-      "rank": 24,
-      "category": "美妆"
     },
     {
       "raw_hot": 65634,
