@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701058919890,
+  "endTime": 1701059742281,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -73,6 +73,14 @@
       "onboard_time": 1701054455,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1132878,
+      "num": 1132878,
+      "word": "郑州大学取消公众入校限制",
+      "onboard_time": 1701058117,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 1096109,
@@ -163,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 769732,
+      "num": 497073,
+      "word": "字节跳动将关闭游戏朝夕光年",
+      "onboard_time": 1701057937,
+      "rank": 13,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 688413,
       "num": 688413,
       "word": "澳门物价",
@@ -211,14 +227,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 553695,
-      "num": 553695,
-      "word": "郑州大学取消公众入校限制",
-      "onboard_time": 1701058117,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 543307,
       "num": 494829,
       "word": "下班回家搞副业到底行不行",
@@ -259,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 487810,
-      "num": 487810,
-      "word": "字节跳动将关闭游戏朝夕光年",
-      "onboard_time": 1701057937,
-      "rank": 13,
-      "category": "互联网,游戏"
-    },
-    {
       "raw_hot": 483287,
       "num": 483287,
       "word": "孙悟空 男主人设天花板",
@@ -297,6 +297,14 @@
       "onboard_time": 1701053853,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458694,
+      "num": 458694,
+      "word": "白鹿丝巾编发",
+      "onboard_time": 1701058357,
+      "rank": 21,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 438186,
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325333,
-      "num": 325333,
-      "word": "白鹿丝巾编发",
-      "onboard_time": 1701058357,
-      "rank": 21,
-      "category": "剧集,美妆"
-    },
-    {
       "raw_hot": 324957,
       "num": 324957,
       "word": "MMA最终出演阵容",
@@ -513,6 +513,22 @@
       "onboard_time": 1701047073,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298794,
+      "num": 298794,
+      "word": "谢晋的大女儿去世",
+      "onboard_time": 1701059565,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291186,
+      "num": 291186,
+      "word": "冬天赖床其实是身体在保护你",
+      "onboard_time": 1701057759,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 285084,
@@ -675,6 +691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 232587,
+      "num": 232587,
+      "word": "16岁女孩未考上985遭父亲家暴",
+      "onboard_time": 1701059379,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 228947,
       "num": 228947,
       "word": "俄3名特工在乌克兰吃外卖中毒身亡",
@@ -689,6 +713,14 @@
       "onboard_time": 1701042750,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223765,
+      "num": 223765,
+      "word": "周迅景岚 困在母职里的主动陪葬",
+      "onboard_time": 1701058596,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 222443,
@@ -707,6 +739,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 213949,
+      "num": 1322295,
+      "word": "鬼斧神工的大自然又出新作",
+      "onboard_time": 1701057337,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211844,
       "num": 211844,
       "word": "汪苏泷舞台",
@@ -723,14 +763,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 210221,
-      "num": 210221,
-      "word": "冬天赖床其实是身体在保护你",
-      "onboard_time": 1701057759,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 207428,
       "num": 207428,
       "word": "班主任自费给学生定制挡风被",
@@ -739,12 +771,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 207404,
-      "num": 207404,
-      "word": "周迅景岚 困在母职里的主动陪葬",
-      "onboard_time": 1701058596,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 207405,
+      "num": 207405,
+      "word": "凡人修仙传加更",
+      "onboard_time": 1701059198,
+      "rank": 36,
+      "category": "读书作家"
     },
     {
       "raw_hot": 204192,
@@ -771,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200868,
+      "num": 200868,
+      "word": "刘亦菲失去表情管理",
+      "onboard_time": 1701059379,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198690,
       "num": 198690,
       "word": "闻不到味道的人叫什么",
@@ -793,14 +833,6 @@
       "onboard_time": 1701052232,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192381,
-      "num": 1322295,
-      "word": "鬼斧神工的大自然又出新作",
-      "onboard_time": 1701057337,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191791,
@@ -836,7 +868,7 @@
     },
     {
       "raw_hot": 187718,
-      "num": 179743,
+      "num": 180859,
       "word": "微博视界大会",
       "onboard_time": 1701058476,
       "rank": 40,
@@ -849,6 +881,14 @@
       "onboard_time": 1701049594,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182952,
+      "num": 182952,
+      "word": "谢危女儿奴",
+      "onboard_time": 1701057337,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 182370,
@@ -881,14 +921,6 @@
       "onboard_time": 1701054156,
       "rank": 40,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 175689,
-      "num": 175689,
-      "word": "谢危女儿奴",
-      "onboard_time": 1701057337,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 171164,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1701029232,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125489,
+      "num": 125489,
+      "word": "手工制作拐杖糖",
+      "onboard_time": 1701059018,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 125193,

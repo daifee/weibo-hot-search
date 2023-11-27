@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701058919890,
+  "endTime": 1701059742281,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -299,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1132878,
+      "num": 1132878,
+      "word": "郑州大学取消公众入校限制",
+      "onboard_time": 1701058117,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1096109,
       "num": 1096109,
       "word": "B太 我被漠河人留住了",
@@ -521,6 +529,14 @@
       "onboard_time": 1700960430,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769732,
+      "num": 497073,
+      "word": "字节跳动将关闭游戏朝夕光年",
+      "onboard_time": 1701057937,
+      "rank": 13,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 744685,
@@ -787,14 +803,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 553695,
-      "num": 553695,
-      "word": "郑州大学取消公众入校限制",
-      "onboard_time": 1701058117,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 551601,
       "num": 551601,
       "word": "花少 迪丽热巴双商",
@@ -963,14 +971,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 487810,
-      "num": 487810,
-      "word": "字节跳动将关闭游戏朝夕光年",
-      "onboard_time": 1701057937,
-      "rank": 13,
-      "category": "互联网,游戏"
-    },
-    {
       "raw_hot": 486959,
       "num": 376773,
       "word": "杨幂复古丝绒绿裙",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1701010775,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458694,
+      "num": 458694,
+      "word": "白鹿丝巾编发",
+      "onboard_time": 1701058357,
+      "rank": 21,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 454495,
@@ -1563,14 +1571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325333,
-      "num": 325333,
-      "word": "白鹿丝巾编发",
-      "onboard_time": 1701058357,
-      "rank": 21,
-      "category": "剧集,美妆"
-    },
-    {
       "raw_hot": 324957,
       "num": 324957,
       "word": "MMA最终出演阵容",
@@ -1763,6 +1763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 298794,
+      "num": 298794,
+      "word": "谢晋的大女儿去世",
+      "onboard_time": 1701059565,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298413,
       "num": 218767,
       "word": "成毅 绿海",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1700994273,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 291186,
+      "num": 291186,
+      "word": "冬天赖床其实是身体在保护你",
+      "onboard_time": 1701057759,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 291025,
@@ -2331,6 +2347,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 232587,
+      "num": 232587,
+      "word": "16岁女孩未考上985遭父亲家暴",
+      "onboard_time": 1701059379,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 231762,
       "num": 231762,
       "word": "姜雪宁当众亲了谢危",
@@ -2417,6 +2441,14 @@
       "onboard_time": 1700993374,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223765,
+      "num": 223765,
+      "word": "周迅景岚 困在母职里的主动陪葬",
+      "onboard_time": 1701058596,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 223360,
@@ -2523,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213949,
+      "num": 1322295,
+      "word": "鬼斧神工的大自然又出新作",
+      "onboard_time": 1701057337,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213133,
       "num": 213133,
       "word": "金珉奎的签售是连续剧",
@@ -2555,14 +2595,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 210221,
-      "num": 210221,
-      "word": "冬天赖床其实是身体在保护你",
-      "onboard_time": 1701057759,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 208840,
       "num": 208840,
       "word": "国考时间",
@@ -2587,12 +2619,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 207404,
-      "num": 207404,
-      "word": "周迅景岚 困在母职里的主动陪葬",
-      "onboard_time": 1701058596,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 207405,
+      "num": 207405,
+      "word": "凡人修仙传加更",
+      "onboard_time": 1701059198,
+      "rank": 36,
+      "category": "读书作家"
     },
     {
       "raw_hot": 207087,
@@ -2681,6 +2713,14 @@
       "onboard_time": 1701055417,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200868,
+      "num": 200868,
+      "word": "刘亦菲失去表情管理",
+      "onboard_time": 1701059379,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 200867,
@@ -2835,14 +2875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192381,
-      "num": 1322295,
-      "word": "鬼斧神工的大自然又出新作",
-      "onboard_time": 1701057337,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192271,
       "num": 192271,
       "word": "NCT127九个人的安可",
@@ -2972,7 +3004,7 @@
     },
     {
       "raw_hot": 187718,
-      "num": 179743,
+      "num": 180859,
       "word": "微博视界大会",
       "onboard_time": 1701058476,
       "rank": 40,
@@ -3049,6 +3081,14 @@
       "onboard_time": 1701003035,
       "rank": 46,
       "category": "社会议题,美妆"
+    },
+    {
+      "raw_hot": 182952,
+      "num": 182952,
+      "word": "谢危女儿奴",
+      "onboard_time": 1701057337,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 182388,
@@ -3137,14 +3177,6 @@
       "onboard_time": 1700998356,
       "rank": 40,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 175689,
-      "num": 175689,
-      "word": "谢危女儿奴",
-      "onboard_time": 1701057337,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 175339,
@@ -3729,6 +3761,14 @@
       "onboard_time": 1701001536,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 125489,
+      "num": 125489,
+      "word": "手工制作拐杖糖",
+      "onboard_time": 1701059018,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 125231,

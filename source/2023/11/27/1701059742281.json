@@ -1,0 +1,410 @@
+{
+  "runTime": 1701059742281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1683591,
+        "num": 1683591,
+        "word": "高以翔父亲去世",
+        "onboard_time": 1701047496,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1480855,
+        "num": 1480855,
+        "word": "杨幂朵拉头",
+        "onboard_time": 1701053552,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213949,
+        "num": 1254949,
+        "word": "鬼斧神工的大自然又出新作",
+        "onboard_time": 1701057337,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132878,
+        "num": 1132878,
+        "word": "郑州大学取消公众入校限制",
+        "onboard_time": 1701058117,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1101112,
+        "num": 1101112,
+        "word": "马航MH370乘客家属索赔案今天开庭",
+        "onboard_time": 1701054455,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815471,
+        "num": 815471,
+        "word": "YG官网删除权志龙",
+        "onboard_time": 1701051213,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765702,
+        "num": 765702,
+        "word": "羽绒服涨价把市场让给了军大衣",
+        "onboard_time": 1701044614,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616842,
+        "num": 616842,
+        "word": "朵拉统治姐圈",
+        "onboard_time": 1701049232,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 550815,
+        "num": 550815,
+        "word": "种地吧 开工大吉",
+        "onboard_time": 1701055113,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506880,
+        "num": 506880,
+        "word": "1500和1500是不一样的",
+        "onboard_time": 1701042209,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 769732,
+        "num": 497073,
+        "word": "字节跳动将关闭游戏朝夕光年",
+        "onboard_time": 1701057937,
+        "rank": 10,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 469734,
+        "num": 469734,
+        "word": "供应商曝羽绒服高价真相",
+        "onboard_time": 1701052715,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 458694,
+        "num": 458694,
+        "word": "白鹿丝巾编发",
+        "onboard_time": 1701058357,
+        "rank": 12,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 433798,
+        "num": 433798,
+        "word": "女子肉摊买回骨折边牧让它重获新生",
+        "onboard_time": 1701048392,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424617,
+        "num": 424617,
+        "word": "字节游戏裁员",
+        "onboard_time": 1701052653,
+        "rank": 14,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 407913,
+        "num": 407913,
+        "word": "周杰伦演唱会长沙站获批",
+        "onboard_time": 1701056557,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394442,
+        "num": 394442,
+        "word": "周一的我被确诊为安陵容",
+        "onboard_time": 1701049717,
+        "rank": 16,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 355666,
+        "num": 355666,
+        "word": "酱园弄女二 倪妮",
+        "onboard_time": 1701051993,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346233,
+        "num": 346233,
+        "word": "重庆市原副市长熊雪被决定逮捕",
+        "onboard_time": 1701053853,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303427,
+        "num": 303427,
+        "word": "李安 宁愿犯错不要boring",
+        "onboard_time": 1701056075,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310136,
+        "num": 301640,
+        "word": "女生无意将沃柑放柜子1周变霉球",
+        "onboard_time": 1701052715,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298794,
+        "num": 298794,
+        "word": "谢晋的大女儿去世",
+        "onboard_time": 1701059565,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297686,
+        "num": 297686,
+        "word": "澳门物价",
+        "onboard_time": 1701051691,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 291186,
+        "num": 291186,
+        "word": "冬天赖床其实是身体在保护你",
+        "onboard_time": 1701057759,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289032,
+        "num": 289032,
+        "word": "种地吧直播",
+        "onboard_time": 1701057273,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260527,
+        "num": 260527,
+        "word": "烈士的遗物是遗留在体内的子弹",
+        "onboard_time": 1701056317,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258409,
+        "num": 258409,
+        "word": "难听",
+        "onboard_time": 1701042990,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252635,
+        "num": 252635,
+        "word": "白月梵星 竹林对手戏",
+        "onboard_time": 1701056135,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239391,
+        "num": 239391,
+        "word": "一直娱",
+        "onboard_time": 1701054814,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238455,
+        "num": 238455,
+        "word": "林俊杰 宿命感直接拉满",
+        "onboard_time": 1701056254,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232587,
+        "num": 232587,
+        "word": "16岁女孩未考上985遭父亲家暴",
+        "onboard_time": 1701059379,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 230187,
+        "num": 230187,
+        "word": "宁远舟性张力",
+        "onboard_time": 1701057519,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225332,
+        "num": 225332,
+        "word": "国考山东赶考人数再创新高",
+        "onboard_time": 1701054274,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223765,
+        "num": 223765,
+        "word": "周迅景岚 困在母职里的主动陪葬",
+        "onboard_time": 1701058596,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215531,
+        "num": 215531,
+        "word": "马东锡自拍 安全感十足的头像",
+        "onboard_time": 1701047073,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211261,
+        "num": 211261,
+        "word": "孙悟空 男主人设天花板",
+        "onboard_time": 1701049892,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207405,
+        "num": 207405,
+        "word": "凡人修仙传加更",
+        "onboard_time": 1701059198,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 202520,
+        "num": 202520,
+        "word": "曾黎20年前后穿婚纱对比",
+        "onboard_time": 1701046957,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201019,
+        "num": 201019,
+        "word": "班主任自费给学生定制挡风被",
+        "onboard_time": 1701051515,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182213,
+        "num": 200903,
+        "word": "面色发黄其实是身体发出的求救信号",
+        "onboard_time": 1701047796,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200868,
+        "num": 200868,
+        "word": "刘亦菲失去表情管理",
+        "onboard_time": 1701059379,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190481,
+        "num": 190481,
+        "word": "易烊千玺景德镇",
+        "onboard_time": 1701014613,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187789,
+        "num": 187789,
+        "word": "纪焕博陈少熙 爱情中的缺爱者",
+        "onboard_time": 1701056433,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182952,
+        "num": 182952,
+        "word": "谢危女儿奴",
+        "onboard_time": 1701057337,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180859,
+        "num": 180859,
+        "word": "微博视界大会",
+        "onboard_time": 1701058476,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169979,
+        "num": 169979,
+        "word": "封神第一部 远在天边",
+        "onboard_time": 1701051391,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141894,
+        "num": 141894,
+        "word": "别再用喷雾保湿了",
+        "onboard_time": 1701051932,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133761,
+        "num": 133761,
+        "word": "得了一种想谈不能真谈的怪病",
+        "onboard_time": 1701052833,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130417,
+        "num": 130417,
+        "word": "呼吸道合胞病毒容易在婴幼儿中流行",
+        "onboard_time": 1701053733,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125489,
+        "num": 125489,
+        "word": "手工制作拐杖糖",
+        "onboard_time": 1701059018,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的黄河情怀#"
+    }
+  }
+}
