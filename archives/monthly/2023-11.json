@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701073437246,
+  "endTime": 1701074222868,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3635,6 +3635,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1559300,
+      "num": 1559300,
+      "word": "金莎男友喜欢吹她的鼻孔",
+      "onboard_time": 1701072454,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1556320,
       "num": 673173,
       "word": "文春曝羽生结弦离婚原因",
@@ -6673,14 +6681,6 @@
       "onboard_time": 1699319613,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1024235,
-      "num": 1024235,
-      "word": "金莎男友喜欢吹她的鼻孔",
-      "onboard_time": 1701072454,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1023367,
@@ -12675,6 +12675,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 639589,
+      "num": 639589,
+      "word": "WBG 呼吸来不来",
+      "onboard_time": 1701072517,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 639428,
       "num": 639428,
       "word": "时代少年团 直播",
@@ -14315,6 +14323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 591302,
+      "num": 591302,
+      "word": "官方通报女子多次被要求提供不同材料",
+      "onboard_time": 1701070593,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591228,
       "num": 313171,
       "word": "JDG对战T1 比分预测",
@@ -14993,14 +15009,6 @@
       "onboard_time": 1700059294,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 569410,
-      "num": 569410,
-      "word": "WBG 呼吸来不来",
-      "onboard_time": 1701072517,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 569262,
@@ -15929,14 +15937,6 @@
       "onboard_time": 1699620215,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 540763,
-      "num": 540763,
-      "word": "官方通报女子多次被要求提供不同材料",
-      "onboard_time": 1701070593,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 540743,
@@ -31859,6 +31859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285657,
+      "num": 231701,
+      "word": "白鹿 时宴是完美男友",
+      "onboard_time": 1701072333,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285606,
       "num": 253330,
       "word": "crisp 最后一局完成了救赎",
@@ -31904,14 +31912,6 @@
       "word": "邓为仙台有树白发",
       "onboard_time": 1699952554,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 285423,
-      "num": 185375,
-      "word": "白鹿 时宴是完美男友",
-      "onboard_time": 1701072333,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -36508,7 +36508,7 @@
     },
     {
       "raw_hot": 248682,
-      "num": 157634,
+      "num": 166779,
       "word": "YG 敷衍",
       "onboard_time": 1701071317,
       "rank": 33,
@@ -37065,6 +37065,14 @@
       "onboard_time": 1698994712,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245400,
+      "num": 221388,
+      "word": "辛芷蕾没当上导游很失落",
+      "onboard_time": 1701073593,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 245362,
@@ -38625,6 +38633,14 @@
       "onboard_time": 1700621190,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234456,
+      "num": 234456,
+      "word": "中共中央政治局召开会议",
+      "onboard_time": 1701074130,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 234432,
@@ -43025,6 +43041,14 @@
       "onboard_time": 1700095061,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 210553,
+      "num": 164843,
+      "word": "李苗苗 爱你到嫉妒你的鞋子",
+      "onboard_time": 1701073832,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 210550,
@@ -51891,6 +51915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178086,
+      "num": 143628,
+      "word": "黄渤谈短视频对电影的折损",
+      "onboard_time": 1701074072,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178073,
       "num": 178073,
       "word": "师傅检修电路比破案还精彩",
@@ -53841,6 +53873,14 @@
       "onboard_time": 1699954475,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169465,
+      "num": 169465,
+      "word": "问界新M7大定突破十万辆",
+      "onboard_time": 1701072631,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 169453,
@@ -55859,14 +55899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161341,
-      "num": 161341,
-      "word": "问界新M7大定突破十万辆",
-      "onboard_time": 1701072631,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 161329,
       "num": 161329,
       "word": "张杰指导魏大勋唱歌",
@@ -57699,6 +57731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153107,
+      "num": 153107,
+      "word": "谁把三星堆放出来跑马拉松了",
+      "onboard_time": 1701072815,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153099,
       "num": 153099,
       "word": "丁程鑫端水式邀请兄弟来街舞",
@@ -58361,6 +58401,14 @@
       "onboard_time": 1700219134,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150031,
+      "num": 150031,
+      "word": "显发量的双麻花辫",
+      "onboard_time": 1701073292,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 150001,
@@ -63283,6 +63331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130257,
+      "num": 130257,
+      "word": "Knights周年贺图",
+      "onboard_time": 1701073832,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 130199,
       "num": 137257,
       "word": "你想要的从来都不是我",
@@ -64571,6 +64627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124265,
+      "num": 124265,
+      "word": "北京中小学部分高校寒假放假时间公布",
+      "onboard_time": 1701073533,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 124194,
       "num": 124194,
       "word": "因一句承诺夫妻照顾邻居30年",
@@ -64601,14 +64665,6 @@
       "onboard_time": 1699230877,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124036,
-      "num": 124036,
-      "word": "谁把三星堆放出来跑马拉松了",
-      "onboard_time": 1701072815,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124017,
@@ -65177,14 +65233,6 @@
       "onboard_time": 1699377382,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121763,
-      "num": 121763,
-      "word": "显发量的双麻花辫",
-      "onboard_time": 1701073292,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 121755,
@@ -73307,6 +73355,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 29839,
+      "num": 1233931,
+      "word": "以国之名接英雄回家微纪录",
+      "onboard_time": 1701056795,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29803,
       "num": 39614,
       "word": "7架运20排排站大场面来了",
@@ -73641,14 +73697,6 @@
       "onboard_time": 1698783313,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22092,
-      "num": 1055540,
-      "word": "以国之名接英雄回家微纪录",
-      "onboard_time": 1701056795,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22072,

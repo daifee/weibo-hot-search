@@ -1,0 +1,410 @@
+{
+  "runTime": 1701074222868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1865649,
+        "num": 1865649,
+        "word": "江苏报告33144例流感",
+        "onboard_time": 1701068074,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1559300,
+        "num": 1559300,
+        "word": "金莎男友喜欢吹她的鼻孔",
+        "onboard_time": 1701072454,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29839,
+        "num": 1233931,
+        "word": "以国之名接英雄回家微纪录",
+        "onboard_time": 1701056795,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1106844,
+        "num": 1106844,
+        "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+        "onboard_time": 1701065673,
+        "rank": 3,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 731502,
+        "num": 731502,
+        "word": "韩网评我可以47",
+        "onboard_time": 1701071854,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639589,
+        "num": 639589,
+        "word": "WBG 呼吸来不来",
+        "onboard_time": 1701072517,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 591302,
+        "num": 591302,
+        "word": "官方通报女子多次被要求提供不同材料",
+        "onboard_time": 1701070593,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546304,
+        "num": 546304,
+        "word": "张艺谋儿子 巴黎名媛舞会",
+        "onboard_time": 1701060764,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419661,
+        "num": 419661,
+        "word": "谢晋的大女儿去世",
+        "onboard_time": 1701059565,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409727,
+        "num": 409727,
+        "word": "易烊千玺分享试听音频",
+        "onboard_time": 1701072454,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 420184,
+        "num": 403834,
+        "word": "16岁女孩未考上985遭父亲家暴",
+        "onboard_time": 1701059379,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 397373,
+        "num": 397373,
+        "word": "杨紫白玫瑰小黑裙",
+        "onboard_time": 1701068672,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371297,
+        "num": 371297,
+        "word": "陈牧驰拍戏路透",
+        "onboard_time": 1701070115,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356274,
+        "num": 356274,
+        "word": "人民大学食堂自研烤鹅腿定价15元",
+        "onboard_time": 1701064830,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322465,
+        "num": 322465,
+        "word": "杨幂朵拉头",
+        "onboard_time": 1701053552,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320634,
+        "num": 320634,
+        "word": "倪妮方 此项目与我们无关",
+        "onboard_time": 1701067653,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309420,
+        "num": 309420,
+        "word": "高以翔父亲去世",
+        "onboard_time": 1701047496,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293935,
+        "num": 293935,
+        "word": "字节跳动将关闭游戏朝夕光年",
+        "onboard_time": 1701057937,
+        "rank": 17,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 254871,
+        "num": 254871,
+        "word": "郑州大学取消公众入校限制",
+        "onboard_time": 1701058117,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234456,
+        "num": 234456,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1701074130,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337874,
+        "num": 233286,
+        "word": "小满生活 怀孕被上司故意劝酒",
+        "onboard_time": 1701066992,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293807,
+        "num": 232853,
+        "word": "内娱男明星影响力排名",
+        "onboard_time": 1701070412,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285657,
+        "num": 231701,
+        "word": "白鹿 时宴是完美男友",
+        "onboard_time": 1701072333,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272146,
+        "num": 230060,
+        "word": "肚子和背部瘦不下来的原因",
+        "onboard_time": 1701071074,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 229050,
+        "num": 229050,
+        "word": "给p人一点j人的震撼",
+        "onboard_time": 1701066752,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247209,
+        "num": 226560,
+        "word": "星光大赏 嘉宾",
+        "onboard_time": 1701066813,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245400,
+        "num": 221388,
+        "word": "辛芷蕾没当上导游很失落",
+        "onboard_time": 1701073593,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193588,
+        "num": 193588,
+        "word": "女子婚后通讯录几乎被丈夫删光",
+        "onboard_time": 1701064114,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175242,
+        "num": 175242,
+        "word": "小狗 真开心我要被爱了",
+        "onboard_time": 1701068734,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169465,
+        "num": 169465,
+        "word": "问界新M7大定突破十万辆",
+        "onboard_time": 1701072631,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 242649,
+        "num": 169254,
+        "word": "YG官网删除权志龙",
+        "onboard_time": 1701051213,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240423,
+        "num": 167329,
+        "word": "杨紫鸡毛头造型自拍",
+        "onboard_time": 1701071552,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216566,
+        "num": 166779,
+        "word": "YG 敷衍",
+        "onboard_time": 1701071317,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210553,
+        "num": 164843,
+        "word": "李苗苗 爱你到嫉妒你的鞋子",
+        "onboard_time": 1701073832,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193414,
+        "num": 164514,
+        "word": "年会不能停吃了多少打工人",
+        "onboard_time": 1701065734,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163369,
+        "num": 163369,
+        "word": "男生半永久纹唇是什么体验",
+        "onboard_time": 1701068915,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160455,
+        "num": 160455,
+        "word": "清华北大学生排队抢鹅腿",
+        "onboard_time": 1701062375,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 153107,
+        "num": 153107,
+        "word": "谁把三星堆放出来跑马拉松了",
+        "onboard_time": 1701072815,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150031,
+        "num": 150031,
+        "word": "显发量的双麻花辫",
+        "onboard_time": 1701073292,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144109,
+        "num": 144109,
+        "word": "谈恋爱到什么程度才能结婚",
+        "onboard_time": 1701063633,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178086,
+        "num": 143628,
+        "word": "黄渤谈短视频对电影的折损",
+        "onboard_time": 1701074072,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171334,
+        "num": 140169,
+        "word": "暮光之城 重启",
+        "onboard_time": 1701060342,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168895,
+        "num": 137310,
+        "word": "秦岚当导游后每天只睡两个小时",
+        "onboard_time": 1701071492,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165527,
+        "num": 134391,
+        "word": "刘亦菲失去表情管理",
+        "onboard_time": 1701059379,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153863,
+        "num": 131663,
+        "word": "种地吧 开工大吉",
+        "onboard_time": 1701055113,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130257,
+        "num": 130257,
+        "word": "Knights周年贺图",
+        "onboard_time": 1701073832,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124265,
+        "num": 124265,
+        "word": "北京中小学部分高校寒假放假时间公布",
+        "onboard_time": 1701073533,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 112122,
+        "num": 112122,
+        "word": "合胞病毒传染性约是流感2.5倍",
+        "onboard_time": 1701066932,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111508,
+        "num": 111508,
+        "word": "橘园男主人离世市民帮买1万多斤橘子",
+        "onboard_time": 1701069335,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109700,
+        "num": 109700,
+        "word": "马航MH370乘客家属索赔案今天开庭",
+        "onboard_time": 1701054455,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的黄河情怀#"
+    }
+  }
+}
