@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701081439385,
+  "endTime": 1701083704044,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1495354,
+      "num": 1495354,
+      "word": "南海归墟",
+      "onboard_time": 1701081032,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1493013,
       "num": 1493013,
       "word": "连撞11车特斯拉车主发声",
@@ -155,6 +163,14 @@
       "category": "旅游,网红"
     },
     {
+      "raw_hot": 1080990,
+      "num": 1080990,
+      "word": "刻俩萝卜章骗了300亿",
+      "onboard_time": 1701077853,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993234,
       "num": 993234,
       "word": "洗筷子不要来回搓",
@@ -177,14 +193,6 @@
       "onboard_time": 1701049717,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 925413,
-      "num": 925413,
-      "word": "刻俩萝卜章骗了300亿",
-      "onboard_time": 1701077853,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 895477,
@@ -331,14 +339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 650164,
-      "num": 650164,
-      "word": "南海归墟",
-      "onboard_time": 1701081032,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 639589,
       "num": 639589,
       "word": "WBG 呼吸来不来",
@@ -393,6 +393,14 @@
       "onboard_time": 1701070115,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 580307,
+      "num": 580307,
+      "word": "杨洋系个腰带吧",
+      "onboard_time": 1701081933,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 560559,
@@ -739,6 +747,14 @@
       "category": "演出,网红"
     },
     {
+      "raw_hot": 373335,
+      "num": 373335,
+      "word": "王鹤棣镜头下的白鹿",
+      "onboard_time": 1701081575,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373126,
       "num": 293432,
       "word": "冬天赖床其实是身体在保护你",
@@ -868,7 +884,7 @@
     },
     {
       "raw_hot": 313950,
-      "num": 191834,
+      "num": 241023,
       "word": "因长得丑遭无视的雄狮",
       "onboard_time": 1701080073,
       "rank": 30,
@@ -971,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300780,
+      "num": 300780,
+      "word": "深圳一公司给员工放假10个月",
+      "onboard_time": 1701082294,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300550,
       "num": 300550,
       "word": "流感",
@@ -985,6 +1009,14 @@
       "onboard_time": 1701066212,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288310,
+      "num": 288310,
+      "word": "只有韩国服务器才审查手势的游戏",
+      "onboard_time": 1701081155,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 287602,
@@ -1155,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253203,
+      "num": 253203,
+      "word": "孙丞潇给金莎做了十斤的火鸡",
+      "onboard_time": 1701082716,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252204,
       "num": 252204,
       "word": "周传雄 冬天的秘密",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1701065972,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236525,
+      "num": 236525,
+      "word": "谭松韵 离别的人我想再见",
+      "onboard_time": 1701082594,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 234513,
@@ -1443,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201304,
+      "num": 201304,
+      "word": "你好种地少年",
+      "onboard_time": 1701082173,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199785,
       "num": 810178,
       "word": "谁把三星堆放出来跑马拉松了",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1701068734,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192196,
+      "num": 192196,
+      "word": "新闻女王梁景仁遭心腹背叛",
+      "onboard_time": 1701083615,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 191791,
@@ -1723,20 +1787,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171244,
-      "num": 171244,
-      "word": "只有韩国服务器才审查手势的游戏",
-      "onboard_time": 1701081155,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 171164,
       "num": 171164,
       "word": "布克绝杀尼克斯",
       "onboard_time": 1701050852,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170228,
+      "num": 170228,
+      "word": "王嘉尔上海演唱会官宣两场",
+      "onboard_time": 1701082533,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 169465,
@@ -1787,6 +1851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 162559,
+      "num": 162559,
+      "word": "北大食堂称与鹅腿阿姨没有关系",
+      "onboard_time": 1701083132,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160354,
       "num": 160354,
       "word": "金莎姐弟恋的受众是谁",
@@ -1795,12 +1867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160325,
+      "num": 1161316,
+      "word": "医生跪姿托举19分钟抢救产妇和胎儿",
+      "onboard_time": 1701082294,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160263,
       "num": 160263,
       "word": "心衰的早期信号有哪些",
       "onboard_time": 1701013713,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159025,
+      "num": 159025,
+      "word": "何猷君华容道",
+      "onboard_time": 1701083192,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 158634,
@@ -1971,6 +2059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142571,
+      "num": 142571,
+      "word": "吃一个就饱的曲奇饼",
+      "onboard_time": 1701083318,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139179,
       "num": 139179,
       "word": "加纳乔 siu",
@@ -1985,6 +2081,14 @@
       "onboard_time": 1701080435,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139054,
+      "num": 139054,
+      "word": "白鹿尖叫之夜vlog",
+      "onboard_time": 1701083555,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 138782,
@@ -2041,6 +2145,14 @@
       "onboard_time": 1701001776,
       "rank": 29,
       "category": "国内时政,旅游"
+    },
+    {
+      "raw_hot": 134248,
+      "num": 134248,
+      "word": "吃火锅遇到了折耳根刺客",
+      "onboard_time": 1701083555,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 133277,
@@ -2331,6 +2443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80441,
+      "num": 1059142,
+      "word": "帅小伙地铁嘴对嘴心肺复苏救活大爷",
+      "onboard_time": 1701082357,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77171,
       "num": 538301,
       "word": "近期呼吸道疾病防治注意事项",
@@ -2435,12 +2555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43808,
+      "num": 479007,
+      "word": "谭松韵首映生图状态",
+      "onboard_time": 1701082294,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35932,
       "num": 1473184,
       "word": "以国之名接英雄回家微纪录",
       "onboard_time": 1701056795,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35736,
+      "num": 722125,
+      "word": "短短十几秒跟奶奶学到三种技能",
+      "onboard_time": 1701082294,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20998,
