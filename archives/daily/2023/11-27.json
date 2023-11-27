@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701055119093,
+  "endTime": 1701056094830,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2273280,
-      "num": 2273280,
+      "raw_hot": 2314137,
+      "num": 2314137,
       "word": "杨幂朵拉头",
       "onboard_time": 1701053552,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "旅游,网红"
     },
     {
+      "raw_hot": 1081636,
+      "num": 1081636,
+      "word": "马航MH370乘客家属索赔案今天开庭",
+      "onboard_time": 1701054455,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 993234,
       "num": 993234,
       "word": "洗筷子不要来回搓",
@@ -99,12 +107,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 873163,
+      "num": 873163,
+      "word": "种地吧 开工大吉",
+      "onboard_time": 1701055113,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 849224,
       "num": 497299,
       "word": "宋轶社交 白敬亭不知道在忙什么",
       "onboard_time": 1701003697,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 844205,
+      "num": 692290,
+      "word": "女生无意将沃柑放柜子1周变霉球",
+      "onboard_time": 1701052715,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 831382,
@@ -131,12 +155,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 692290,
-      "num": 692290,
-      "word": "女生无意将沃柑放柜子1周变霉球",
-      "onboard_time": 1701052715,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 712843,
+      "num": 712843,
+      "word": "中式恐怖",
+      "onboard_time": 1701053913,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 688413,
@@ -211,14 +235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 508650,
-      "num": 508650,
-      "word": "中式恐怖",
-      "onboard_time": 1701053913,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 502772,
       "num": 284564,
       "word": "辛芷蕾P了Q版迪丽热巴",
@@ -251,20 +267,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 467453,
+      "num": 467453,
+      "word": "重庆市原副市长熊雪被决定逮捕",
+      "onboard_time": 1701053853,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438186,
       "num": 284090,
       "word": "易烊千玺景德镇",
       "onboard_time": 1701014613,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430775,
-      "num": 430775,
-      "word": "马航MH370乘客家属索赔案今天开庭",
-      "onboard_time": 1701054455,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409760,
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366373,
-      "num": 366373,
-      "word": "重庆市原副市长熊雪被决定逮捕",
-      "onboard_time": 1701053853,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361221,
       "num": 284385,
       "word": "为什么肚子总是咕噜咕噜响",
@@ -385,6 +393,14 @@
       "onboard_time": 1701054633,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322193,
+      "num": 322193,
+      "word": "国考山东赶考人数再创新高",
+      "onboard_time": 1701054274,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 316623,
@@ -433,6 +449,14 @@
       "onboard_time": 1701044792,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 302484,
+      "num": 302484,
+      "word": "一直娱",
+      "onboard_time": 1701054814,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 300550,
@@ -523,14 +547,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 249315,
-      "num": 249315,
-      "word": "国考山东赶考人数再创新高",
-      "onboard_time": 1701054274,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 243878,
       "num": 239322,
       "word": "别再用喷雾保湿了",
@@ -619,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210919,
+      "num": 210919,
+      "word": "全红婵的18岁心愿",
+      "onboard_time": 1701055535,
+      "rank": 28,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 207428,
       "num": 207428,
       "word": "班主任自费给学生定制挡风被",
@@ -635,20 +659,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 201461,
+      "num": 201461,
+      "word": "记者讲述马航MH370十年往事",
+      "onboard_time": 1701055417,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198690,
       "num": 198690,
       "word": "闻不到味道的人叫什么",
       "onboard_time": 1701047618,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198658,
-      "num": 198658,
-      "word": "一直娱",
-      "onboard_time": 1701054814,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 196968,
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151891,
+      "num": 151891,
+      "word": "孤舟已下证",
+      "onboard_time": 1701056015,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148423,
       "num": 148423,
       "word": "朴宰范也喜欢茅台",
@@ -849,6 +881,14 @@
       "onboard_time": 1701008677,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143011,
+      "num": 143011,
+      "word": "李安 宁愿犯错不要boring",
+      "onboard_time": 1701056075,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 142829,

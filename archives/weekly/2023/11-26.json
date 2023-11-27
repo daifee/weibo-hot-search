@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701055119093,
+  "endTime": 1701056094830,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -51,8 +51,8 @@
       "category": "汽车,网红"
     },
     {
-      "raw_hot": 2273280,
-      "num": 2273280,
+      "raw_hot": 2314137,
+      "num": 2314137,
       "word": "杨幂朵拉头",
       "onboard_time": 1701053552,
       "rank": 0,
@@ -299,6 +299,14 @@
       "category": "旅游,网红"
     },
     {
+      "raw_hot": 1081636,
+      "num": 1081636,
+      "word": "马航MH370乘客家属索赔案今天开庭",
+      "onboard_time": 1701054455,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1066447,
       "num": 526796,
       "word": "家长副驾抱娃幼童被甩出车外身亡",
@@ -435,12 +443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 873163,
+      "num": 873163,
+      "word": "种地吧 开工大吉",
+      "onboard_time": 1701055113,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 860761,
       "num": 860761,
       "word": "王鹤棣躺在王传君怀里聊天",
       "onboard_time": 1700985932,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 844205,
+      "num": 692290,
+      "word": "女生无意将沃柑放柜子1周变霉球",
+      "onboard_time": 1701052715,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838402,
@@ -531,20 +555,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 712843,
+      "num": 712843,
+      "word": "中式恐怖",
+      "onboard_time": 1701053913,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 704869,
       "num": 704869,
       "word": "初一女生每天只睡6个半小时妈妈很焦虑",
       "onboard_time": 1700984612,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 692290,
-      "num": 692290,
-      "word": "女生无意将沃柑放柜子1周变霉球",
-      "onboard_time": 1701052715,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 688413,
@@ -891,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508650,
-      "num": 508650,
-      "word": "中式恐怖",
-      "onboard_time": 1701053913,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 502925,
       "num": 356762,
       "word": "白敬亭倪妮坐一起",
@@ -1011,6 +1027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 467453,
+      "num": 467453,
+      "word": "重庆市原副市长熊雪被决定逮捕",
+      "onboard_time": 1701053853,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466905,
       "num": 458353,
       "word": "尖叫之夜结束后的我belike",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1701003518,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 430775,
-      "num": 430775,
-      "word": "马航MH370乘客家属索赔案今天开庭",
-      "onboard_time": 1701054455,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 425849,
@@ -1339,14 +1355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 366373,
-      "num": 366373,
-      "word": "重庆市原副市长熊雪被决定逮捕",
-      "onboard_time": 1701053853,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365543,
       "num": 365543,
       "word": "飞扬 押到了",
@@ -1531,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322193,
+      "num": 322193,
+      "word": "国考山东赶考人数再创新高",
+      "onboard_time": 1701054274,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 321850,
       "num": 321850,
       "word": "封神 狐传人现象",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1701008919,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 302484,
+      "num": 302484,
+      "word": "一直娱",
+      "onboard_time": 1701054814,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 300550,
@@ -2091,14 +2115,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 249315,
-      "num": 249315,
-      "word": "国考山东赶考人数再创新高",
-      "onboard_time": 1701054274,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 247835,
       "num": 247835,
       "word": "国考报名人数首破300万",
@@ -2451,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210919,
+      "num": 210919,
+      "word": "全红婵的18岁心愿",
+      "onboard_time": 1701055535,
+      "rank": 28,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 208840,
       "num": 208840,
       "word": "国考时间",
@@ -2547,6 +2571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201461,
+      "num": 201461,
+      "word": "记者讲述马航MH370十年往事",
+      "onboard_time": 1701055417,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200867,
       "num": 200867,
       "word": "TTG 上上签",
@@ -2593,14 +2625,6 @@
       "onboard_time": 1701047618,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198658,
-      "num": 198658,
-      "word": "一直娱",
-      "onboard_time": 1701054814,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 197590,
@@ -3283,6 +3307,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 151891,
+      "num": 151891,
+      "word": "孤舟已下证",
+      "onboard_time": 1701056015,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151070,
       "num": 151070,
       "word": "南方人又失去一种快乐",
@@ -3361,6 +3393,14 @@
       "onboard_time": 1701012275,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143011,
+      "num": 143011,
+      "word": "李安 宁愿犯错不要boring",
+      "onboard_time": 1701056075,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 142829,
