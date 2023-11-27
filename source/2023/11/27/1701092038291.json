@@ -1,0 +1,410 @@
+{
+  "runTime": 1701092038291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1325982,
+        "num": 1325982,
+        "word": "顾客吐槽带娃去海底捞看到科目三很不适",
+        "onboard_time": 1701085772,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847130,
+        "num": 847130,
+        "word": "宋江好帅",
+        "onboard_time": 1701088957,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138939,
+        "num": 677995,
+        "word": "如何预防呼吸道疾病感染",
+        "onboard_time": 1701089735,
+        "rank": 2,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 671814,
+        "num": 671814,
+        "word": "在韩国化妆浪费了11w",
+        "onboard_time": 1701089375,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 647999,
+        "num": 647999,
+        "word": "GQ嘉宾关键词",
+        "onboard_time": 1701090336,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 633245,
+        "num": 633245,
+        "word": "何猷君 最强大脑变最强恋爱脑",
+        "onboard_time": 1701090033,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502133,
+        "num": 502133,
+        "word": "科目三",
+        "onboard_time": 1701088715,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455061,
+        "num": 455061,
+        "word": "丈夫第一次刷鞋将妻子千元靴变皮干",
+        "onboard_time": 1701087571,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414086,
+        "num": 414086,
+        "word": "电影热烈最终票房9.12亿",
+        "onboard_time": 1701090397,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265121,
+        "num": 412356,
+        "word": "福宝",
+        "onboard_time": 1701085357,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2202978,
+        "num": 409787,
+        "word": "北京现有艾滋病感染者及患者27285人",
+        "onboard_time": 1701088115,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609681,
+        "num": 408935,
+        "word": "吴京口误 我是闫妮老公",
+        "onboard_time": 1701077195,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 723502,
+        "num": 405453,
+        "word": "南海归墟陈牧驰 群演",
+        "onboard_time": 1701086674,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579446,
+        "num": 403458,
+        "word": "刻俩萝卜章骗了300亿",
+        "onboard_time": 1701077853,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549141,
+        "num": 401987,
+        "word": "南海归墟",
+        "onboard_time": 1701081032,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448667,
+        "num": 398324,
+        "word": "肖战机场路透",
+        "onboard_time": 1701085232,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442412,
+        "num": 396083,
+        "word": "杨洋系个腰带吧",
+        "onboard_time": 1701081933,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395571,
+        "num": 395571,
+        "word": "涵艺爆料Breathe续约RNG",
+        "onboard_time": 1701090215,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 360717,
+        "num": 360717,
+        "word": "袁弘叫胡歌往旁边挪半个屁股",
+        "onboard_time": 1701088054,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259395,
+        "num": 355717,
+        "word": "四川发生触电安全事件造成4人死亡",
+        "onboard_time": 1701087393,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513905,
+        "num": 355294,
+        "word": "肩膀真的不内扣了",
+        "onboard_time": 1701088415,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 353652,
+        "num": 353652,
+        "word": "张雨绮加入朵拉宇宙",
+        "onboard_time": 1701089316,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307424,
+        "num": 307424,
+        "word": "宁安如梦豆瓣6.9分",
+        "onboard_time": 1701088895,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284439,
+        "num": 284439,
+        "word": "广东湛江18一位的海鲜粥",
+        "onboard_time": 1701088833,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251624,
+        "num": 251624,
+        "word": "22岁中国留学生在韩身亡",
+        "onboard_time": 1701078816,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297122,
+        "num": 251409,
+        "word": "谁懂孙千这句笨蛋的杀伤力",
+        "onboard_time": 1701088957,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273218,
+        "num": 251049,
+        "word": "杨幂表情包",
+        "onboard_time": 1701090158,
+        "rank": 26,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 249184,
+        "num": 249184,
+        "word": "南部战区位中缅边境我方一侧演训画面",
+        "onboard_time": 1701087933,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219844,
+        "num": 241554,
+        "word": "支原体肺炎是新冠的变异吗",
+        "onboard_time": 1701076954,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205789,
+        "num": 241515,
+        "word": "特斯拉回应成都连撞11车事故",
+        "onboard_time": 1701089436,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260150,
+        "num": 241510,
+        "word": "任素汐 祝各位都能拥抱和解与幸福",
+        "onboard_time": 1701090516,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241502,
+        "num": 241502,
+        "word": "任如意宁远舟骑马吻",
+        "onboard_time": 1701090996,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241295,
+        "num": 241295,
+        "word": "渤哥在跳楼 吴京在小狗摇头",
+        "onboard_time": 1701086792,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216354,
+        "num": 216354,
+        "word": "新闻女王梁景仁遭心腹背叛",
+        "onboard_time": 1701083615,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188581,
+        "num": 188581,
+        "word": "十个蛋的煎饼果子",
+        "onboard_time": 1701091235,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209061,
+        "num": 187421,
+        "word": "胡歌为刘诗诗新剧打call",
+        "onboard_time": 1701085173,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185387,
+        "num": 185387,
+        "word": "翻到了奶奶初恋写给她的信件",
+        "onboard_time": 1701090817,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184722,
+        "num": 184722,
+        "word": "外卖酸菜鱼的生存环境",
+        "onboard_time": 1701092017,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 369927,
+        "num": 183918,
+        "word": "贴身衣物最好不要买黑色",
+        "onboard_time": 1701077319,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180747,
+        "num": 183151,
+        "word": "深圳一公司给员工放假10个月",
+        "onboard_time": 1701082294,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183058,
+        "num": 183058,
+        "word": "王鹤棣片场嘴没停过",
+        "onboard_time": 1701091235,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181618,
+        "num": 181618,
+        "word": "南海归墟追剧日历",
+        "onboard_time": 1701084516,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174962,
+        "num": 174962,
+        "word": "渐冻人网红卓君去世",
+        "onboard_time": 1701091717,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173715,
+        "num": 173715,
+        "word": "舍不得星星杀青",
+        "onboard_time": 1701090755,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158498,
+        "num": 158498,
+        "word": "奶茶奶盖到底有多不健康",
+        "onboard_time": 1701091177,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156617,
+        "num": 156617,
+        "word": "与恶魔有约",
+        "onboard_time": 1701086735,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155938,
+        "num": 155938,
+        "word": "石原里美时隔3年回归拍剧",
+        "onboard_time": 1701084153,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153640,
+        "num": 153640,
+        "word": "王心凌成为王sir的两天",
+        "onboard_time": 1701089616,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147140,
+        "num": 150287,
+        "word": "哈尔滨旅游攻略",
+        "onboard_time": 1701090577,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131822,
+        "num": 149474,
+        "word": "赵丽娜说公益是她足球生涯的下半场",
+        "onboard_time": 1701088774,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进跨境服务贸易和投资高水平开放#"
+    }
+  }
+}
