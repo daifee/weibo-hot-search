@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701066994076,
+  "endTime": 1701069411839,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -161,6 +161,14 @@
       "onboard_time": 1700967510,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1729010,
+      "num": 1729010,
+      "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+      "onboard_time": 1701065673,
+      "rank": 17,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 1725862,
@@ -585,14 +593,6 @@
       "onboard_time": 1701060342,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 759450,
-      "num": 759450,
-      "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
-      "onboard_time": 1701065673,
-      "rank": 17,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 744685,
@@ -1139,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466925,
+      "num": 258994,
+      "word": "小满生活 怀孕被上司故意劝酒",
+      "onboard_time": 1701066992,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466905,
       "num": 458353,
       "word": "尖叫之夜结束后的我belike",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1701000336,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 444545,
+      "num": 294872,
+      "word": "倪妮方 此项目与我们无关",
+      "onboard_time": 1701067653,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 443549,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1701012632,
       "rank": 36,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 404769,
+      "num": 404769,
+      "word": "星光大赏 嘉宾",
+      "onboard_time": 1701066813,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 402218,
@@ -1731,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321548,
+      "num": 321548,
+      "word": "给p人一点j人的震撼",
+      "onboard_time": 1701066752,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320894,
       "num": 320894,
       "word": "斗鱼陈少杰被捕后多位大主播已停播",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1700974472,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318298,
+      "num": 282534,
+      "word": "江苏报告33144例流感",
+      "onboard_time": 1701068074,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316946,
@@ -2211,6 +2251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 265831,
+      "num": 254700,
+      "word": "何猷君奚梦瑶去看F1了",
+      "onboard_time": 1701068013,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 264825,
       "num": 247713,
       "word": "王鹤棣发文说多谢",
@@ -2233,6 +2281,14 @@
       "onboard_time": 1700966313,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262121,
+      "num": 262121,
+      "word": "杨紫白玫瑰小黑裙",
+      "onboard_time": 1701068672,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261691,
@@ -2404,7 +2460,7 @@
     },
     {
       "raw_hot": 247834,
-      "num": 212121,
+      "num": 231088,
       "word": "年会不能停吃了多少打工人",
       "onboard_time": 1701065734,
       "rank": 46,
@@ -2883,14 +2939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206881,
-      "num": 183088,
-      "word": "星光大赏 嘉宾",
-      "onboard_time": 1701066813,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206554,
       "num": 206554,
       "word": "KPL",
@@ -3033,6 +3081,14 @@
       "onboard_time": 1700978313,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197316,
+      "num": 155921,
+      "word": "鹿晗愿望季",
+      "onboard_time": 1701068430,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196968,
@@ -3435,6 +3491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179034,
+      "num": 151111,
+      "word": "华晨宇新浪扫楼",
+      "onboard_time": 1701067593,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178152,
       "num": 178152,
       "word": "刘宇宁一念关山定妆花絮",
@@ -3619,6 +3683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164212,
+      "num": 152134,
+      "word": "小狗 真开心我要被爱了",
+      "onboard_time": 1701068734,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164125,
       "num": 164125,
       "word": "秦海璐胡先煦共享衣橱",
@@ -3787,14 +3859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 153360,
-      "num": 153360,
-      "word": "给p人一点j人的震撼",
-      "onboard_time": 1701066752,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 152516,
       "num": 152516,
       "word": "化妆最大的价值",
@@ -3809,6 +3873,22 @@
       "onboard_time": 1701056015,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151725,
+      "num": 151725,
+      "word": "男生半永久纹唇是什么体验",
+      "onboard_time": 1701068915,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 151095,
+      "num": 151095,
+      "word": "当对斤没概念的人去买菜时",
+      "onboard_time": 1701068251,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 151070,
@@ -4075,6 +4155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133562,
+      "num": 133562,
+      "word": "合胞病毒传染性约是流感2.5倍",
+      "onboard_time": 1701066932,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132103,
       "num": 132103,
       "word": "杨丽萍回应近期争议",
@@ -4227,14 +4315,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 114499,
-      "num": 124943,
-      "word": "合胞病毒传染性约是流感2.5倍",
-      "onboard_time": 1701066932,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111967,
       "num": 111967,
       "word": "小学数学 cpu都快干烧了",
@@ -4289,6 +4369,14 @@
       "onboard_time": 1700979629,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101609,
+      "num": 101609,
+      "word": "美拉德氛围感眼影盘",
+      "onboard_time": 1701069335,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 101567,
@@ -4425,6 +4513,14 @@
       "onboard_time": 1700908781,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75855,
+      "num": 97799,
+      "word": "大熊猫主打一个有仇必报",
+      "onboard_time": 1701068553,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75507,

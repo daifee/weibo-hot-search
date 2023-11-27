@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 14:36:34
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 15:16:51
 </p>
 </blockquote>
 <p>
@@ -2099,6 +2099,12 @@ WBG发文告别S13（热度：1736182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 以爱为营大结局（热度：1729223）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%A6%81%E6%B1%82%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E4%BA%8B%E4%BB%B6%E5%A5%B3%E8%BD%A6%E4%B8%BB%E8%B5%94%E5%81%BF500%E4%B8%87%23" target="weibo">
+特斯拉要求刹车失灵事件女车主赔偿500万（热度：1729010）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GEN 五放皇子（热度：882209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%AD%A4%E5%89%8D%E9%81%AD%E8%A7%A3%E9%9B%87%E6%88%96%E5%9B%A0AI%E5%A8%81%E8%83%81%E4%BA%BA%E7%B1%BB%23" target="weibo">
 奥特曼此前遭解雇或因AI威胁人类（热度：881330）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%83%9E%E8%83%8E%E5%A6%88%E5%A6%88%E5%AD%90%E5%AE%AB%E5%A3%81%E4%BB%851.2%E6%AF%AB%E7%B1%B3%23" target="weibo">
-三胞胎妈妈子宫壁仅1.2毫米（热度：879893）
 </a>
 </li>
 
