@@ -1,0 +1,410 @@
+{
+  "runTime": 1701091318749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2162216,
+        "num": 2162216,
+        "word": "北京现有艾滋病感染者及患者27285人",
+        "onboard_time": 1701088115,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211503,
+        "num": 1211503,
+        "word": "顾客吐槽带娃去海底捞看到科目三很不适",
+        "onboard_time": 1701085772,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105953,
+        "num": 952344,
+        "word": "如何预防呼吸道疾病感染",
+        "onboard_time": 1701089735,
+        "rank": 2,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 862825,
+        "num": 862825,
+        "word": "南海归墟陈牧驰 群演",
+        "onboard_time": 1701086674,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 731428,
+        "num": 731428,
+        "word": "宋江好帅",
+        "onboard_time": 1701088957,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585069,
+        "num": 585069,
+        "word": "在韩国化妆浪费了11w",
+        "onboard_time": 1701089375,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 523034,
+        "num": 523034,
+        "word": "科目三",
+        "onboard_time": 1701088715,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 448107,
+        "num": 448107,
+        "word": "电影热烈最终票房9.12亿",
+        "onboard_time": 1701090397,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 394235,
+        "num": 394235,
+        "word": "袁弘叫胡歌往旁边挪半个屁股",
+        "onboard_time": 1701088054,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383234,
+        "num": 383234,
+        "word": "丈夫第一次刷鞋将妻子千元靴变皮干",
+        "onboard_time": 1701087571,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725579,
+        "num": 383204,
+        "word": "南海归墟",
+        "onboard_time": 1701081032,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 680145,
+        "num": 383070,
+        "word": "刻俩萝卜章骗了300亿",
+        "onboard_time": 1701077853,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617195,
+        "num": 382934,
+        "word": "吴京口误 我是闫妮老公",
+        "onboard_time": 1701077195,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468015,
+        "num": 382687,
+        "word": "杨洋系个腰带吧",
+        "onboard_time": 1701081933,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467959,
+        "num": 382619,
+        "word": "何猷君 最强大脑变最强恋爱脑",
+        "onboard_time": 1701090033,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455646,
+        "num": 382480,
+        "word": "GQ嘉宾关键词",
+        "onboard_time": 1701090336,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 451615,
+        "num": 382386,
+        "word": "肖战机场路透",
+        "onboard_time": 1701085232,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382276,
+        "num": 382276,
+        "word": "宁安如梦豆瓣6.9分",
+        "onboard_time": 1701088895,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356548,
+        "num": 356548,
+        "word": "福宝",
+        "onboard_time": 1701085357,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349918,
+        "num": 349918,
+        "word": "涵艺爆料Breathe续约RNG",
+        "onboard_time": 1701090215,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410463,
+        "num": 344762,
+        "word": "肩膀真的不内扣了",
+        "onboard_time": 1701088415,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 339434,
+        "num": 339434,
+        "word": "张雨绮加入朵拉宇宙",
+        "onboard_time": 1701089316,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295398,
+        "num": 295398,
+        "word": "22岁中国留学生在韩身亡",
+        "onboard_time": 1701078816,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276412,
+        "num": 276412,
+        "word": "四川发生触电安全事件造成4人死亡",
+        "onboard_time": 1701087393,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429738,
+        "num": 276293,
+        "word": "贴身衣物最好不要买黑色",
+        "onboard_time": 1701077319,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 311758,
+        "num": 275378,
+        "word": "谁懂孙千这句笨蛋的杀伤力",
+        "onboard_time": 1701088957,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280876,
+        "num": 274445,
+        "word": "胡歌为刘诗诗新剧打call",
+        "onboard_time": 1701085173,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273332,
+        "num": 273332,
+        "word": "新闻女王梁景仁遭心腹背叛",
+        "onboard_time": 1701083615,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254869,
+        "num": 254869,
+        "word": "南部战区位中缅边境我方一侧演训画面",
+        "onboard_time": 1701087933,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223160,
+        "num": 253020,
+        "word": "支原体肺炎是新冠的变异吗",
+        "onboard_time": 1701076954,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262277,
+        "num": 252734,
+        "word": "广东湛江18一位的海鲜粥",
+        "onboard_time": 1701088833,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251754,
+        "num": 251754,
+        "word": "任素汐 祝各位都能拥抱和解与幸福",
+        "onboard_time": 1701090516,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247328,
+        "num": 247328,
+        "word": "杨幂表情包",
+        "onboard_time": 1701090158,
+        "rank": 32,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 243970,
+        "num": 243970,
+        "word": "渤哥在跳楼 吴京在小狗摇头",
+        "onboard_time": 1701086792,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214370,
+        "num": 214370,
+        "word": "深圳一公司给员工放假10个月",
+        "onboard_time": 1701082294,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199444,
+        "num": 199444,
+        "word": "任如意宁远舟骑马吻",
+        "onboard_time": 1701090996,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198746,
+        "num": 198746,
+        "word": "哈尔滨旅游攻略",
+        "onboard_time": 1701090577,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193921,
+        "num": 193921,
+        "word": "翻到了奶奶初恋写给她的信件",
+        "onboard_time": 1701090817,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189639,
+        "num": 189639,
+        "word": "特斯拉回应成都连撞11车事故",
+        "onboard_time": 1701089436,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189561,
+        "num": 189561,
+        "word": "舍不得星星杀青",
+        "onboard_time": 1701090755,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189481,
+        "num": 189481,
+        "word": "南海归墟追剧日历",
+        "onboard_time": 1701084516,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185529,
+        "num": 185529,
+        "word": "石原里美时隔3年回归拍剧",
+        "onboard_time": 1701084153,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182017,
+        "num": 182017,
+        "word": "郑秀妍直播",
+        "onboard_time": 1701086192,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180145,
+        "num": 180145,
+        "word": "与恶魔有约",
+        "onboard_time": 1701086735,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159357,
+        "num": 159357,
+        "word": "涵艺爆料JDG启用青训上单",
+        "onboard_time": 1701086616,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155905,
+        "num": 155905,
+        "word": "十个蛋的煎饼果子",
+        "onboard_time": 1701091235,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155280,
+        "num": 155280,
+        "word": "王心凌成为王sir的两天",
+        "onboard_time": 1701089616,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134743,
+        "num": 134743,
+        "word": "奶茶奶盖到底有多不健康",
+        "onboard_time": 1701091177,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131851,
+        "num": 131851,
+        "word": "赵丽娜说公益是她足球生涯的下半场",
+        "onboard_time": 1701088774,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126643,
+        "num": 126643,
+        "word": "初二女生创新纪录拿下全科第一",
+        "onboard_time": 1701089794,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
