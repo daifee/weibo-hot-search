@@ -1,0 +1,410 @@
+{
+  "runTime": 1701063230752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2109601,
+        "num": 2109601,
+        "word": "16岁女孩未考上985遭父亲家暴",
+        "onboard_time": 1701059379,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1463486,
+        "num": 1463486,
+        "word": "谢晋的大女儿去世",
+        "onboard_time": 1701059565,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67764,
+        "num": 925312,
+        "word": "最美北京我的家",
+        "onboard_time": 1701061897,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1830186,
+        "num": 866193,
+        "word": "张艺谋儿子 巴黎名媛舞会",
+        "onboard_time": 1701060764,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767732,
+        "num": 767732,
+        "word": "暮光之城 重启",
+        "onboard_time": 1701060342,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 859264,
+        "num": 750959,
+        "word": "高以翔父亲去世",
+        "onboard_time": 1701047496,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 784465,
+        "num": 745463,
+        "word": "杨幂朵拉头",
+        "onboard_time": 1701053552,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 727662,
+        "num": 727662,
+        "word": "郑州大学取消公众入校限制",
+        "onboard_time": 1701058117,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 556174,
+        "num": 556174,
+        "word": "马航MH370乘客家属索赔案今天开庭",
+        "onboard_time": 1701054455,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215438,
+        "num": 545749,
+        "word": "烈士的遗物是遗留在体内的子弹",
+        "onboard_time": 1701056317,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 541348,
+        "num": 541348,
+        "word": "YG官网删除权志龙",
+        "onboard_time": 1701051213,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517681,
+        "num": 517681,
+        "word": "张遮终生未娶",
+        "onboard_time": 1701060399,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512187,
+        "num": 512187,
+        "word": "字节跳动将关闭游戏朝夕光年",
+        "onboard_time": 1701057937,
+        "rank": 12,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 398472,
+        "num": 398472,
+        "word": "B站华为达成合作",
+        "onboard_time": 1701059921,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 379881,
+        "num": 379881,
+        "word": "羽绒服涨价把市场让给了军大衣",
+        "onboard_time": 1701044614,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361137,
+        "num": 361137,
+        "word": "快乐老友记 张远笑翻了",
+        "onboard_time": 1701061479,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331597,
+        "num": 331597,
+        "word": "1500和1500是不一样的",
+        "onboard_time": 1701042209,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313415,
+        "num": 313415,
+        "word": "朵拉统治姐圈",
+        "onboard_time": 1701049232,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304454,
+        "num": 304454,
+        "word": "马航家属称没有赔偿一分钱",
+        "onboard_time": 1701062612,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304123,
+        "num": 304123,
+        "word": "清华北大学生排队抢鹅腿",
+        "onboard_time": 1701062375,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 457094,
+        "num": 298690,
+        "word": "刘亦菲失去表情管理",
+        "onboard_time": 1701059379,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321920,
+        "num": 293432,
+        "word": "冬天赖床其实是身体在保护你",
+        "onboard_time": 1701057759,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281150,
+        "num": 281150,
+        "word": "女子肉摊买回骨折边牧让它重获新生",
+        "onboard_time": 1701048392,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261253,
+        "num": 261253,
+        "word": "种地吧 开工大吉",
+        "onboard_time": 1701055113,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256661,
+        "num": 256661,
+        "word": "看起来放松其实很耗气血的5个行为",
+        "onboard_time": 1701061659,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243660,
+        "num": 243660,
+        "word": "室友回来半小时了还没放下行囊",
+        "onboard_time": 1701059921,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239504,
+        "num": 239504,
+        "word": "做不到和考研和解",
+        "onboard_time": 1701060940,
+        "rank": 26,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 239398,
+        "num": 239398,
+        "word": "白鹿丝巾编发",
+        "onboard_time": 1701058357,
+        "rank": 27,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 231465,
+        "num": 231465,
+        "word": "潘玮柏演唱会 伍佰化",
+        "onboard_time": 1701062677,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130028,
+        "num": 229324,
+        "word": "重庆市原副市长熊雪被决定逮捕",
+        "onboard_time": 1701053853,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229125,
+        "num": 229125,
+        "word": "怒海 承认父母没那么爱自己",
+        "onboard_time": 1701062496,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218278,
+        "num": 218278,
+        "word": "周杰伦演唱会长沙站获批",
+        "onboard_time": 1701056557,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204052,
+        "num": 204052,
+        "word": "周一的我被确诊为安陵容",
+        "onboard_time": 1701049717,
+        "rank": 32,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 190857,
+        "num": 190857,
+        "word": "新闻女王",
+        "onboard_time": 1701062975,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190743,
+        "num": 190743,
+        "word": "周传雄 冬天的秘密",
+        "onboard_time": 1701059860,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187404,
+        "num": 187404,
+        "word": "女生无意将沃柑放柜子1周变霉球",
+        "onboard_time": 1701052715,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183110,
+        "num": 183110,
+        "word": "谢危就留给南方的姐妹",
+        "onboard_time": 1701061301,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179854,
+        "num": 179854,
+        "word": "马东锡自拍 安全感十足的头像",
+        "onboard_time": 1701047073,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177638,
+        "num": 177638,
+        "word": "字节游戏裁员",
+        "onboard_time": 1701052653,
+        "rank": 38,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 172469,
+        "num": 172469,
+        "word": "酱园弄女二 倪妮",
+        "onboard_time": 1701051993,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165773,
+        "num": 165773,
+        "word": "黄渤演技大赏",
+        "onboard_time": 1701062795,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165569,
+        "num": 165569,
+        "word": "供应商曝羽绒服高价真相",
+        "onboard_time": 1701052715,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 161040,
+        "num": 161040,
+        "word": "繁花下证",
+        "onboard_time": 1701061598,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159407,
+        "num": 159407,
+        "word": "曾黎20年前后穿婚纱对比",
+        "onboard_time": 1701046957,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157037,
+        "num": 157037,
+        "word": "难听",
+        "onboard_time": 1701042990,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154929,
+        "num": 154929,
+        "word": "微博视界大会热爱版语音预告",
+        "onboard_time": 1701063214,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139595,
+        "num": 139595,
+        "word": "面色发黄其实是身体发出的求救信号",
+        "onboard_time": 1701047796,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129980,
+        "num": 129980,
+        "word": "澳门物价",
+        "onboard_time": 1701051691,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 123268,
+        "num": 123268,
+        "word": "六款平价又小巧的唇膏",
+        "onboard_time": 1701060279,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 119409,
+        "num": 122972,
+        "word": "字节回应收缩游戏业务",
+        "onboard_time": 1701063034,
+        "rank": 49,
+        "category": "互联网,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进跨境服务贸易和投资高水平开放#"
+    }
+  }
+}
