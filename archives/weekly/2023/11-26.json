@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701092038291,
+  "endTime": 1701094659437,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -299,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1374508,
+      "num": 1374508,
+      "word": "顾客吐槽带娃去海底捞看到科目三很不适",
+      "onboard_time": 1701085772,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1327811,
       "num": 1327811,
       "word": "小杨哥演唱会",
       "onboard_time": 1701000813,
       "rank": 12,
       "category": "演出,网红"
-    },
-    {
-      "raw_hot": 1325982,
-      "num": 1325982,
-      "word": "顾客吐槽带娃去海底捞看到科目三很不适",
-      "onboard_time": 1701085772,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1304615,
@@ -393,6 +393,14 @@
       "onboard_time": 1700959050,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1149321,
+      "num": 1149321,
+      "word": "渐冻人网红卓君去世",
+      "onboard_time": 1701091717,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1132878,
@@ -1419,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 473231,
+      "num": 473231,
+      "word": "张雨绮加入朵拉宇宙",
+      "onboard_time": 1701089316,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471927,
       "num": 471927,
       "word": "谷歌AI认定美国登月照片或造假",
@@ -1891,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377952,
+      "num": 377952,
+      "word": "外卖酸菜鱼的生存环境",
+      "onboard_time": 1701092017,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 373126,
       "num": 293432,
       "word": "冬天赖床其实是身体在保护你",
@@ -1968,14 +1992,6 @@
       "word": "刘宇宁演技",
       "onboard_time": 1700986472,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 353652,
-      "num": 353652,
-      "word": "张雨绮加入朵拉宇宙",
-      "onboard_time": 1701089316,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2195,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321578,
+      "num": 321578,
+      "word": "广东湛江18一位的海鲜粥",
+      "onboard_time": 1701088833,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 320894,
       "num": 320894,
       "word": "斗鱼陈少杰被捕后多位大主播已停播",
@@ -2316,7 +2340,7 @@
     },
     {
       "raw_hot": 311758,
-      "num": 275378,
+      "num": 281306,
       "word": "谁懂孙千这句笨蛋的杀伤力",
       "onboard_time": 1701088957,
       "rank": 37,
@@ -2585,14 +2609,6 @@
       "onboard_time": 1701057519,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284439,
-      "num": 284439,
-      "word": "广东湛江18一位的海鲜粥",
-      "onboard_time": 1701088833,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 284055,
@@ -3491,6 +3507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217299,
+      "num": 241515,
+      "word": "特斯拉回应成都连撞11车事故",
+      "onboard_time": 1701089436,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216236,
       "num": 216236,
       "word": "有线电视终端默认应为开机进入全屏直播",
@@ -3641,14 +3665,6 @@
       "onboard_time": 1700996255,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205789,
-      "num": 241515,
-      "word": "特斯拉回应成都连撞11车事故",
-      "onboard_time": 1701089436,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205684,
@@ -3865,6 +3881,14 @@
       "onboard_time": 1700993915,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195799,
+      "num": 195799,
+      "word": "王鹤棣片场嘴没停过",
+      "onboard_time": 1701091235,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 195786,
@@ -4099,6 +4123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189852,
+      "num": 189852,
+      "word": "奶茶奶盖到底有多不健康",
+      "onboard_time": 1701091177,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 189708,
       "num": 189708,
       "word": "湖人战胜骑士",
@@ -4219,14 +4251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184722,
-      "num": 184722,
-      "word": "外卖酸菜鱼的生存环境",
-      "onboard_time": 1701092017,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 184094,
       "num": 184094,
       "word": "曾黎跳了SweetVenom",
@@ -4265,14 +4289,6 @@
       "onboard_time": 1701088774,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183058,
-      "num": 183058,
-      "word": "王鹤棣片场嘴没停过",
-      "onboard_time": 1701091235,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 182952,
@@ -4427,14 +4443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174962,
-      "num": 174962,
-      "word": "渐冻人网红卓君去世",
-      "onboard_time": 1701091717,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174772,
       "num": 668260,
       "word": "千万别用吃很多药预防呼吸道疾病",
@@ -4489,6 +4497,14 @@
       "onboard_time": 1701050852,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170657,
+      "num": 170657,
+      "word": "陈都灵扮演野心皇后",
+      "onboard_time": 1701093998,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 170506,
@@ -4643,6 +4659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162225,
+      "num": 162225,
+      "word": "考研英语小作文预测",
+      "onboard_time": 1701092675,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161546,
       "num": 158106,
       "word": "小满生活断食婚姻",
@@ -4715,14 +4739,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 158498,
-      "num": 158498,
-      "word": "奶茶奶盖到底有多不健康",
-      "onboard_time": 1701091177,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 156965,
       "num": 156965,
       "word": "热刺 从不败到全败",
@@ -4761,6 +4777,14 @@
       "onboard_time": 1701000154,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155516,
+      "num": 155516,
+      "word": "魏哲鸣 我的月租男友",
+      "onboard_time": 1701092498,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155505,
@@ -4969,6 +4993,14 @@
       "onboard_time": 1700985031,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146744,
+      "num": 146744,
+      "word": "部分人的粉底色号都偏白了",
+      "onboard_time": 1701092498,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 146388,
@@ -5187,6 +5219,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 135875,
+      "num": 135875,
+      "word": "您知道现充是什么吗",
+      "onboard_time": 1701094416,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135764,
       "num": 135764,
       "word": "没有一顿火锅解决不了的事定档",
@@ -5355,6 +5395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123330,
+      "num": 123330,
+      "word": "故宫圆月壁纸",
+      "onboard_time": 1701094537,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 120242,
       "num": 120242,
       "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
@@ -5377,6 +5425,14 @@
       "onboard_time": 1700964631,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 118060,
+      "num": 118060,
+      "word": "米卡问日落金山是哪个山",
+      "onboard_time": 1701092317,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 117925,
