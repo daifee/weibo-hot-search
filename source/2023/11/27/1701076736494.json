@@ -1,0 +1,410 @@
+{
+  "runTime": 1701076736494,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1497074,
+        "num": 1497074,
+        "word": "金莎男友喜欢吹她的鼻孔",
+        "onboard_time": 1701072454,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1027223,
+        "num": 1027223,
+        "word": "江苏报告33144例流感",
+        "onboard_time": 1701068074,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35932,
+        "num": 803103,
+        "word": "以国之名接英雄回家微纪录",
+        "onboard_time": 1701056795,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 792370,
+        "num": 792370,
+        "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+        "onboard_time": 1701065673,
+        "rank": 3,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 654399,
+        "num": 654399,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1701074130,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520560,
+        "num": 520560,
+        "word": "韩网评我可以47",
+        "onboard_time": 1701071854,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516605,
+        "num": 516605,
+        "word": "李苗苗 爱你到嫉妒你的鞋子",
+        "onboard_time": 1701073832,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 458738,
+        "num": 458738,
+        "word": "WBG 呼吸来不来",
+        "onboard_time": 1701072517,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 444875,
+        "num": 444875,
+        "word": "官方通报女子多次被要求提供不同材料",
+        "onboard_time": 1701070593,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412688,
+        "num": 412688,
+        "word": "辛芷蕾没当上导游很失落",
+        "onboard_time": 1701073593,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454927,
+        "num": 407890,
+        "word": "阿姨一开口以为电视机打开了",
+        "onboard_time": 1701074733,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 387351,
+        "num": 387351,
+        "word": "16岁女孩未考上985遭父亲家暴",
+        "onboard_time": 1701059379,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 358048,
+        "num": 358048,
+        "word": "张艺谋儿子 巴黎名媛舞会",
+        "onboard_time": 1701060764,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296679,
+        "num": 296679,
+        "word": "易烊千玺分享试听音频",
+        "onboard_time": 1701072454,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293169,
+        "num": 293169,
+        "word": "人民大学食堂自研烤鹅腿定价15元",
+        "onboard_time": 1701064830,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287602,
+        "num": 287602,
+        "word": "白鹿 时宴是完美男友",
+        "onboard_time": 1701072333,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285130,
+        "num": 285130,
+        "word": "谢晋的大女儿去世",
+        "onboard_time": 1701059565,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278446,
+        "num": 278446,
+        "word": "郑州大学取消公众入校限制",
+        "onboard_time": 1701058117,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 265269,
+        "num": 265269,
+        "word": "LPL转会期",
+        "onboard_time": 1701076054,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258922,
+        "num": 258922,
+        "word": "杨紫白玫瑰小黑裙",
+        "onboard_time": 1701068672,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255959,
+        "num": 255959,
+        "word": "杨幂朵拉头",
+        "onboard_time": 1701053552,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250833,
+        "num": 250833,
+        "word": "肚子和背部瘦不下来的原因",
+        "onboard_time": 1701071074,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 250238,
+        "num": 250238,
+        "word": "高以翔父亲去世",
+        "onboard_time": 1701047496,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248171,
+        "num": 248171,
+        "word": "陈牧驰拍戏路透",
+        "onboard_time": 1701070115,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232031,
+        "num": 232031,
+        "word": "学会了 男朋友有福了",
+        "onboard_time": 1701073593,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 229630,
+        "num": 229630,
+        "word": "内娱男明星影响力排名",
+        "onboard_time": 1701070412,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205742,
+        "num": 205742,
+        "word": "小满生活 怀孕被上司故意劝酒",
+        "onboard_time": 1701066992,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203712,
+        "num": 203712,
+        "word": "杨紫鸡毛头造型自拍",
+        "onboard_time": 1701071552,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200275,
+        "num": 200275,
+        "word": "字节跳动将关闭游戏朝夕光年",
+        "onboard_time": 1701057937,
+        "rank": 28,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 177098,
+        "num": 197883,
+        "word": "女子婚后通讯录几乎被丈夫删光",
+        "onboard_time": 1701064114,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304332,
+        "num": 197324,
+        "word": "阴阳师 鬼吞配色",
+        "onboard_time": 1701075632,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195786,
+        "num": 195786,
+        "word": "参加男友家庭聚会遇见前男友",
+        "onboard_time": 1701075755,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187889,
+        "num": 187889,
+        "word": "YG 敷衍",
+        "onboard_time": 1701071317,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185365,
+        "num": 185365,
+        "word": "YG官网删除权志龙",
+        "onboard_time": 1701051213,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181436,
+        "num": 181436,
+        "word": "倪妮方 此项目与我们无关",
+        "onboard_time": 1701067653,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172988,
+        "num": 172988,
+        "word": "星光大赏 嘉宾",
+        "onboard_time": 1701066813,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160963,
+        "num": 160963,
+        "word": "给p人一点j人的震撼",
+        "onboard_time": 1701066752,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155245,
+        "num": 155245,
+        "word": "谁把三星堆放出来跑马拉松了",
+        "onboard_time": 1701072815,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150999,
+        "num": 150999,
+        "word": "刘亦菲失去表情管理",
+        "onboard_time": 1701059379,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142465,
+        "num": 142465,
+        "word": "清华北大学生排队抢鹅腿",
+        "onboard_time": 1701062375,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148639,
+        "num": 141149,
+        "word": "黄渤谈短视频对电影的折损",
+        "onboard_time": 1701074072,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136951,
+        "num": 136951,
+        "word": "止咳苹果雪梨陈皮汤",
+        "onboard_time": 1701076172,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136284,
+        "num": 136284,
+        "word": "北京中小学部分高校寒假放假时间公布",
+        "onboard_time": 1701073533,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 128882,
+        "num": 128882,
+        "word": "暮光之城 重启",
+        "onboard_time": 1701060342,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123308,
+        "num": 123308,
+        "word": "张遮终生未娶",
+        "onboard_time": 1701060399,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116293,
+        "num": 116293,
+        "word": "小狗 真开心我要被爱了",
+        "onboard_time": 1701068734,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115296,
+        "num": 115296,
+        "word": "种地吧 开工大吉",
+        "onboard_time": 1701055113,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113059,
+        "num": 113059,
+        "word": "和黄渤拍戏有多费脖子",
+        "onboard_time": 1701073233,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111222,
+        "num": 111222,
+        "word": "缓解年龄焦虑的帖子",
+        "onboard_time": 1701075695,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109853,
+        "num": 109853,
+        "word": "你支持大学对公众开放吗",
+        "onboard_time": 1701076533,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进跨境服务贸易和投资高水平开放#"
+    }
+  }
+}
