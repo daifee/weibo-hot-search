@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 07:34:13
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 09:16:09
 </p>
 </blockquote>
 <p>
@@ -1275,6 +1275,12 @@ SpaceX星舰第二次试飞（热度：2149339）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231500%E5%92%8C1500%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%23" target="weibo">
+1500和1500是不一样的（热度：2127466）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%B1%95%E7%A4%BA%E4%BA%86%E4%B8%80%E5%BC%A038%E5%B9%B4%E5%89%8D%E7%9A%84%E7%85%A7%E7%89%87%23" target="weibo">
 拜登展示了一张38年前的照片（热度：2124697）
 </a>
@@ -2159,6 +2165,12 @@ WBG发文告别S13（热度：1736182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BA%BA%E4%BA%A1%E5%A5%B3%E5%8C%BB%E7%94%9F%E9%81%97%E4%B9%A6%E7%A7%B0%E8%A2%AB%E4%B8%88%E5%A4%AB%E9%95%BF%E6%9C%9F%E6%B3%A8%E5%B0%84%E9%BA%BB%E9%86%89%E5%89%82%23" target="weibo">
 溺亡女医生遗书称被丈夫长期注射麻醉剂（热度：1707510）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B6%A8%E4%BB%B7%E6%8A%8A%E5%B8%82%E5%9C%BA%E8%AE%A9%E7%BB%99%E4%BA%86%E5%86%9B%E5%A4%A7%E8%A1%A3%23" target="weibo">
+羽绒服涨价把市场让给了军大衣（热度：1707349）
 </a>
 </li>
 
@@ -4527,6 +4539,12 @@ S13半决赛（热度：1114606）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%20%E6%88%91%E8%A2%AB%E6%BC%A0%E6%B2%B3%E4%BA%BA%E7%95%99%E4%BD%8F%E4%BA%86%23" target="weibo">
+B太 我被漠河人留住了（热度：1096109）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E8%BF%9E%E6%9B%B412%E5%A4%A9%23" target="weibo">
 花儿与少年连更12天（热度：1095923）
 </a>
@@ -5205,6 +5223,12 @@ aespa回归（热度：1039919）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
+难听（热度：978800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E7%94%A820%E5%B9%B4%E8%AF%81%E6%98%8E%E8%BE%A3%E6%9D%A1%E4%B8%8D%E6%98%AF%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81%23" target="weibo">
 我爸用20年证明辣条不是垃圾食品（热度：978741）
 </a>
@@ -5285,12 +5309,6 @@ Xiaohu尽力了（热度：976623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BC%93%E6%A5%BC%E5%8C%BB%E9%99%A2%23" target="weibo">
 鼓楼医院（热度：970406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
-难听（热度：968757）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ ChatGPT可能已经有了意识（热度：873431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A4%AB%E5%A6%87%E5%9B%9E%E5%BA%94%E5%94%AE%E6%A5%BC%E5%A4%84%E7%BB%B4%E6%9D%83%E8%A2%AB%E6%8A%A2%E6%89%8B%E6%9C%BA%23" target="weibo">
 网红夫妇回应售楼处维权被抢手机（热度：871404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E7%9C%9F%E6%BC%82%E4%BA%AE%23" target="weibo">
-姐姐真漂亮（热度：871308）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E8%AD%A6%E6%96%B9%E6%AD%A3%E7%A1%AE%E8%AE%A46%E5%85%B7%E9%81%97%E4%BD%93%E6%98%AF%E5%90%A6%E4%B8%BA%E8%A2%AB%E7%BB%91%E6%9E%B6%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
-菲警方正确认6具遗体是否为被绑架中国人（热度：871259）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23" target="weibo">
-黑龙江一女童疑注射阿奇霉素后死亡（热度：870242）
 </a>
 </li>
 
