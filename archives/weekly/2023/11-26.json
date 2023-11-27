@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701127073864,
+  "endTime": 1701128072135,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -331,6 +331,14 @@
       "category": "演出,网红"
     },
     {
+      "raw_hot": 1321813,
+      "num": 1321813,
+      "word": "嗓子疼",
+      "onboard_time": 1701115395,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1304615,
       "num": 1056318,
       "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
@@ -529,14 +537,6 @@
       "onboard_time": 1701049717,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 951739,
-      "num": 951739,
-      "word": "嗓子疼",
-      "onboard_time": 1701115395,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 942210,
@@ -739,6 +739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 742224,
+      "num": 742224,
+      "word": "总做美甲的人现在都怎么样了",
+      "onboard_time": 1701098074,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 737851,
       "num": 737851,
       "word": "跑男全员对糊过敏",
@@ -851,6 +859,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 669688,
+      "num": 669688,
+      "word": "海底捞回应奖励3000元给跳科目三员工",
+      "onboard_time": 1701102507,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663334,
       "num": 663334,
       "word": "杨幂发文说2024作品相见",
@@ -921,14 +937,6 @@
       "onboard_time": 1701072517,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 638136,
-      "num": 638136,
-      "word": "总做美甲的人现在都怎么样了",
-      "onboard_time": 1701098074,
-      "rank": 25,
-      "category": "美妆"
     },
     {
       "raw_hot": 633245,
@@ -1129,14 +1137,6 @@
       "onboard_time": 1700970757,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 561369,
-      "num": 561369,
-      "word": "海底捞回应奖励3000元给跳科目三员工",
-      "onboard_time": 1701102507,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560559,
@@ -2531,6 +2531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 306713,
+      "num": 306713,
+      "word": "医生建议咳嗽打喷嚏养成1个习惯",
+      "onboard_time": 1701097834,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 305409,
       "num": 305409,
       "word": "TES Ming",
@@ -2923,14 +2931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271206,
-      "num": 271206,
-      "word": "医生建议咳嗽打喷嚏养成1个习惯",
-      "onboard_time": 1701097834,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 270331,
       "num": 203712,
       "word": "杨紫鸡毛头造型自拍",
@@ -3273,6 +3273,14 @@
       "onboard_time": 1701051932,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 243186,
+      "num": 243186,
+      "word": "易烊千玺23岁生日单曲上线",
+      "onboard_time": 1701127225,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 241502,
@@ -3937,6 +3945,14 @@
       "onboard_time": 1701080794,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 202079,
+      "num": 79822,
+      "word": "WBG 原阵容",
+      "onboard_time": 1701127465,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 201988,
@@ -4939,6 +4955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159865,
+      "num": 159865,
+      "word": "30年前真的是对暗号取钱的",
+      "onboard_time": 1701121873,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159214,
       "num": 159214,
       "word": "扁头高马尾发型",
@@ -5099,14 +5123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151519,
-      "num": 151519,
-      "word": "30年前真的是对暗号取钱的",
-      "onboard_time": 1701121873,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151095,
       "num": 151095,
       "word": "当对斤没概念的人去买菜时",
@@ -5209,6 +5225,14 @@
       "onboard_time": 1701043110,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148280,
+      "num": 148280,
+      "word": "特斯拉称门把手被冻住挥拳用力打即可",
+      "onboard_time": 1701126382,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 148181,
@@ -5787,8 +5811,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 105361,
-      "num": 105361,
+      "raw_hot": 105616,
+      "num": 105616,
       "word": "00后小伙跳科目三致胫骨挫伤",
       "onboard_time": 1701121634,
       "rank": 37,
@@ -5881,6 +5905,14 @@
       "onboard_time": 1700957908,
       "rank": 49,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 96256,
+      "num": 96256,
+      "word": "斗鱼成立临时管委会",
+      "onboard_time": 1701127827,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 95858,
@@ -6051,6 +6083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70752,
+      "num": 70752,
+      "word": "汪苏泷包场六城搞演唱会售后",
+      "onboard_time": 1701127645,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 70556,
       "num": 278485,
       "word": "Cat知道错了",
@@ -6065,6 +6105,14 @@
       "onboard_time": 1700984913,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69606,
+      "num": 69606,
+      "word": "睡前护肤 姐皮肤好是应得的",
+      "onboard_time": 1701115153,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 69184,
@@ -6115,6 +6163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64806,
+      "num": 64806,
+      "word": "任如意满级大佬回村装菜鸟",
+      "onboard_time": 1701124759,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63937,
       "num": 270850,
       "word": "何冲评全红婵粉丝斥裁判压分",
@@ -6155,12 +6211,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 60826,
-      "num": 60826,
-      "word": "特斯拉称门把手被冻住挥拳用力打即可",
-      "onboard_time": 1701126382,
-      "rank": 31,
-      "category": "汽车"
+      "raw_hot": 59251,
+      "num": 59251,
+      "word": "10公分高跟鞋只能增高5公分左右",
+      "onboard_time": 1701127767,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 57998,
@@ -6203,22 +6259,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 55667,
-      "num": 55667,
-      "word": "任如意满级大佬回村装菜鸟",
-      "onboard_time": 1701124759,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 55582,
-      "num": 54641,
-      "word": "睡前护肤 姐皮肤好是应得的",
-      "onboard_time": 1701115153,
-      "rank": 42,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 53374,
       "num": 53374,
       "word": "特斯拉连撞11车当天刚上牌",
@@ -6249,6 +6289,14 @@
       "onboard_time": 1700914965,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50027,
+      "num": 53108,
+      "word": "马思纯多巴胺围巾",
+      "onboard_time": 1701110236,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 49758,
@@ -6329,14 +6377,6 @@
       "onboard_time": 1701082294,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32417,
-      "num": 52512,
-      "word": "马思纯多巴胺围巾",
-      "onboard_time": 1701110236,
-      "rank": 26,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 31212,
@@ -6443,7 +6483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13844,
+      "raw_hot": 16625,
       "num": 1024174,
       "word": "链博会为国际经贸发展贡献链博智慧",
       "onboard_time": 1701089258,

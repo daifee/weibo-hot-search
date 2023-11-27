@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 07:17:53
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 07:34:32
 </p>
 </blockquote>
 <p>
@@ -3543,6 +3543,12 @@ Angelababy旗下基金注销（热度：1343913）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E7%96%BC%23" target="weibo">
+嗓子疼（热度：1321813）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%20%E4%B8%BB%E6%8C%81%23" target="weibo">
 关晓彤 主持（热度：1321808）
 </a>
@@ -5567,12 +5573,6 @@ LNG对战T1 比分预测（热度：958227）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E7%99%BE%E4%BD%99%E5%A4%A9%E5%86%85%E8%BF%9E%E5%8F%91%E4%B8%A4%E8%B5%B7%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%23" target="weibo">
 黑龙江百余天内连发两起体育馆坍塌事故（热度：952059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E7%96%BC%23" target="weibo">
-嗓子疼（热度：951739）
 </a>
 </li>
 
