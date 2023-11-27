@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701063230752,
+  "endTime": 1701066213833,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -195,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 807076,
+      "num": 807076,
+      "word": "马航家属称没有赔偿一分钱",
+      "onboard_time": 1701062612,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 769732,
       "num": 547998,
       "word": "字节跳动将关闭游戏朝夕光年",
@@ -209,6 +217,14 @@
       "onboard_time": 1701060342,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 720981,
+      "num": 720981,
+      "word": "人民大学食堂自研烤鹅腿定价15元",
+      "onboard_time": 1701064830,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 688413,
@@ -281,6 +297,14 @@
       "onboard_time": 1701047553,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539023,
+      "num": 539023,
+      "word": "清华北大学生排队抢鹅腿",
+      "onboard_time": 1701062375,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 527916,
@@ -369,6 +393,14 @@
       "onboard_time": 1701014613,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417515,
+      "num": 417515,
+      "word": "怒海 承认父母没那么爱自己",
+      "onboard_time": 1701062496,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 409760,
@@ -475,6 +507,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346185,
+      "num": 299829,
+      "word": "YG的G没了",
+      "onboard_time": 1701064231,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 339586,
+      "num": 339586,
+      "word": "Eric章昊cha了",
+      "onboard_time": 1701065194,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 335252,
       "num": 335252,
       "word": "王嘉尔 冷静点广州",
@@ -531,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314632,
+      "num": 314632,
+      "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+      "onboard_time": 1701065673,
+      "rank": 17,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 313913,
       "num": 289631,
       "word": "室友回来半小时了还没放下行囊",
@@ -571,22 +627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304454,
-      "num": 304454,
-      "word": "马航家属称没有赔偿一分钱",
-      "onboard_time": 1701062612,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304123,
-      "num": 304123,
-      "word": "清华北大学生排队抢鹅腿",
-      "onboard_time": 1701062375,
-      "rank": 19,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 303577,
       "num": 303577,
       "word": "国考笔试结束",
@@ -595,12 +635,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 303153,
+      "num": 259505,
+      "word": "秦昊 中国式父母",
+      "onboard_time": 1701064354,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302484,
       "num": 302484,
       "word": "一直娱",
       "onboard_time": 1701054814,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301108,
+      "num": 294326,
+      "word": "女子婚后通讯录几乎被丈夫删光",
+      "onboard_time": 1701064114,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300550,
@@ -739,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 256436,
+      "num": 256436,
+      "word": "权志龙解除出国禁令",
+      "onboard_time": 1701064231,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252204,
       "num": 252204,
       "word": "周传雄 冬天的秘密",
@@ -803,11 +867,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 229125,
-      "num": 229125,
-      "word": "怒海 承认父母没那么爱自己",
-      "onboard_time": 1701062496,
-      "rank": 30,
+      "raw_hot": 230181,
+      "num": 230181,
+      "word": "梁朝伟新片爽文男主",
+      "onboard_time": 1701063692,
+      "rank": 27,
       "category": "电影"
     },
     {
@@ -827,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224618,
+      "num": 224618,
+      "word": "60岁阿姨硬拉100公斤",
+      "onboard_time": 1701065134,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 223765,
       "num": 223765,
       "word": "周迅景岚 困在母职里的主动陪葬",
@@ -843,12 +915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222713,
+      "num": 222713,
+      "word": "谈恋爱到什么程度才能结婚",
+      "onboard_time": 1701063633,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222443,
       "num": 222443,
       "word": "这个钱活该你挣",
       "onboard_time": 1701046714,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219233,
+      "num": 219233,
+      "word": "辛芷蕾喊话后期 人设都整没了",
+      "onboard_time": 1701064052,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 217898,
@@ -963,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190537,
+      "num": 190537,
+      "word": "什么卷饼要20",
+      "onboard_time": 1701064830,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 190413,
       "num": 190413,
       "word": "东方不败煮饺子",
@@ -1043,6 +1139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181249,
+      "num": 181249,
+      "word": "记住这8个规律 字想丑都难",
+      "onboard_time": 1701064893,
+      "rank": 36,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 179651,
       "num": 179651,
       "word": "小区名字的内在含义",
@@ -1065,6 +1169,22 @@
       "onboard_time": 1701054156,
       "rank": 40,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 176532,
+      "num": 176532,
+      "word": "刘诗诗一念关山定妆花絮",
+      "onboard_time": 1701065972,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171567,
+      "num": 171567,
+      "word": "水哥一说拍照汗流浃背了",
+      "onboard_time": 1701065014,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 171164,
@@ -1105,6 +1225,14 @@
       "onboard_time": 1701061479,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 161594,
+      "num": 161594,
+      "word": "抽屉居士",
+      "onboard_time": 1701065673,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 160263,
@@ -1235,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140602,
+      "num": 140602,
+      "word": "年会不能停吃了多少打工人",
+      "onboard_time": 1701065734,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139179,
       "num": 139179,
       "word": "加纳乔 siu",
@@ -1275,6 +1411,14 @@
       "category": "国内时政,旅游"
     },
     {
+      "raw_hot": 135103,
+      "num": 135103,
+      "word": "T1官宣Roach续约",
+      "onboard_time": 1701065916,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133277,
       "num": 133277,
       "word": "张大仙 复活吧我的爱人",
@@ -1305,6 +1449,14 @@
       "onboard_time": 1701029232,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126997,
+      "num": 135096,
+      "word": "咳嗽后出现这些症状要及时就医",
+      "onboard_time": 1701066031,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125489,
@@ -1475,6 +1627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87734,
+      "num": 1247799,
+      "word": "最美北京我的家",
+      "onboard_time": 1701061897,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84040,
       "num": 84040,
       "word": "王星越立水瓶好臭屁",
@@ -1521,14 +1681,6 @@
       "onboard_time": 1701020118,
       "rank": 16,
       "category": "剧集,时尚"
-    },
-    {
-      "raw_hot": 67764,
-      "num": 1247799,
-      "word": "最美北京我的家",
-      "onboard_time": 1701061897,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65814,
