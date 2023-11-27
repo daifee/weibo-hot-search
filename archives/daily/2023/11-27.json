@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701083704044,
+  "endTime": 1701084850738,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -315,6 +315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 686497,
+      "num": 580307,
+      "word": "杨洋系个腰带吧",
+      "onboard_time": 1701081933,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 683108,
       "num": 683108,
       "word": "女子肉摊买回骨折边牧让它重获新生",
@@ -395,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 580307,
-      "num": 580307,
-      "word": "杨洋系个腰带吧",
-      "onboard_time": 1701081933,
-      "rank": 8,
-      "category": "作品衍生"
+      "raw_hot": 580076,
+      "num": 580076,
+      "word": "石原里美时隔3年回归拍剧",
+      "onboard_time": 1701084153,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 560559,
@@ -675,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407845,
+      "num": 407845,
+      "word": "深圳一公司给员工放假10个月",
+      "onboard_time": 1701082294,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405739,
       "num": 405739,
       "word": "白桃星座",
@@ -731,6 +747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 388425,
+      "num": 388425,
+      "word": "王鹤棣镜头下的白鹿",
+      "onboard_time": 1701081575,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386245,
       "num": 386245,
       "word": "支原体肺炎",
@@ -745,14 +769,6 @@
       "onboard_time": 1701000813,
       "rank": 6,
       "category": "演出,网红"
-    },
-    {
-      "raw_hot": 373335,
-      "num": 373335,
-      "word": "王鹤棣镜头下的白鹿",
-      "onboard_time": 1701081575,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 373126,
@@ -801,6 +817,14 @@
       "onboard_time": 1701064231,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339596,
+      "num": 339596,
+      "word": "新闻女王梁景仁遭心腹背叛",
+      "onboard_time": 1701083615,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 336886,
@@ -985,14 +1009,6 @@
       "onboard_time": 1701054814,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300780,
-      "num": 300780,
-      "word": "深圳一公司给员工放假10个月",
-      "onboard_time": 1701082294,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300550,
@@ -1187,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254406,
+      "num": 236248,
+      "word": "何猷君华容道",
+      "onboard_time": 1701083192,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253203,
       "num": 253203,
       "word": "孙丞潇给金莎做了十斤的火鸡",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1701082594,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236394,
+      "num": 236394,
+      "word": "北大食堂称与鹅腿阿姨没有关系",
+      "onboard_time": 1701083132,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234513,
@@ -1363,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223511,
+      "num": 1161316,
+      "word": "医生跪姿托举19分钟抢救产妇和胎儿",
+      "onboard_time": 1701082294,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222443,
       "num": 222443,
       "word": "这个钱活该你挣",
@@ -1427,6 +1467,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 209672,
+      "num": 209672,
+      "word": "暗恋对象成为大明星",
+      "onboard_time": 1701083974,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207428,
       "num": 207428,
       "word": "班主任自费给学生定制挡风被",
@@ -1483,6 +1531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 201883,
+      "num": 201883,
+      "word": "南海归墟追剧日历",
+      "onboard_time": 1701084516,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201461,
       "num": 201461,
       "word": "记者讲述马航MH370十年往事",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1701082173,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200436,
+      "num": 663547,
+      "word": "华妮生产过程录像公布",
+      "onboard_time": 1701083791,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199785,
@@ -1539,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194483,
+      "num": 194483,
+      "word": "张艺兴演唱会名场面",
+      "onboard_time": 1701083853,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194079,
       "num": 194079,
       "word": "布克28分",
@@ -1579,11 +1651,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192196,
-      "num": 192196,
-      "word": "新闻女王梁景仁遭心腹背叛",
-      "onboard_time": 1701083615,
-      "rank": 33,
+      "raw_hot": 192324,
+      "num": 192324,
+      "word": "张雨绮为新剧剪短发",
+      "onboard_time": 1701084333,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1811,6 +1883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168851,
+      "num": 168851,
+      "word": "白鹿尖叫之夜vlog",
+      "onboard_time": 1701083555,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166432,
       "num": 166432,
       "word": "SEVENTEEN机场大衣秀",
@@ -1851,14 +1931,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 162559,
-      "num": 162559,
-      "word": "北大食堂称与鹅腿阿姨没有关系",
-      "onboard_time": 1701083132,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160354,
       "num": 160354,
       "word": "金莎姐弟恋的受众是谁",
@@ -1867,28 +1939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160325,
-      "num": 1161316,
-      "word": "医生跪姿托举19分钟抢救产妇和胎儿",
-      "onboard_time": 1701082294,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160263,
       "num": 160263,
       "word": "心衰的早期信号有哪些",
       "onboard_time": 1701013713,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 159025,
-      "num": 159025,
-      "word": "何猷君华容道",
-      "onboard_time": 1701083192,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 158634,
@@ -1913,6 +1969,14 @@
       "onboard_time": 1701012275,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155602,
+      "num": 1059142,
+      "word": "帅小伙地铁嘴对嘴心肺复苏救活大爷",
+      "onboard_time": 1701082357,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154993,
@@ -2067,6 +2131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140151,
+      "num": 140151,
+      "word": "吃火锅遇到了折耳根刺客",
+      "onboard_time": 1701083555,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139179,
       "num": 139179,
       "word": "加纳乔 siu",
@@ -2081,14 +2153,6 @@
       "onboard_time": 1701080435,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139054,
-      "num": 139054,
-      "word": "白鹿尖叫之夜vlog",
-      "onboard_time": 1701083555,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 138782,
@@ -2145,14 +2209,6 @@
       "onboard_time": 1701001776,
       "rank": 29,
       "category": "国内时政,旅游"
-    },
-    {
-      "raw_hot": 134248,
-      "num": 134248,
-      "word": "吃火锅遇到了折耳根刺客",
-      "onboard_time": 1701083555,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 133277,
@@ -2379,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98837,
+      "num": 112300,
+      "word": "起猛了看见响尾猫了",
+      "onboard_time": 1701083132,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98046,
       "num": 98046,
       "word": "今年国考约57人录取1人",
@@ -2443,14 +2507,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 80441,
-      "num": 1059142,
-      "word": "帅小伙地铁嘴对嘴心肺复苏救活大爷",
-      "onboard_time": 1701082357,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77171,
       "num": 538301,
       "word": "近期呼吸道疾病防治注意事项",
@@ -2473,6 +2529,14 @@
       "onboard_time": 1701041003,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 70939,
+      "num": 479007,
+      "word": "谭松韵首映生图状态",
+      "onboard_time": 1701082294,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 68133,
@@ -2553,14 +2617,6 @@
       "onboard_time": 1701077973,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43808,
-      "num": 479007,
-      "word": "谭松韵首映生图状态",
-      "onboard_time": 1701082294,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 35932,

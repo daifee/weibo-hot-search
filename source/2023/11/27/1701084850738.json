@@ -1,0 +1,410 @@
+{
+  "runTime": 1701084850738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1419412,
+        "num": 1419412,
+        "word": "南海归墟",
+        "onboard_time": 1701081032,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223511,
+        "num": 1059838,
+        "word": "医生跪姿托举19分钟抢救产妇和胎儿",
+        "onboard_time": 1701082294,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21258,
+        "num": 1026616,
+        "word": "以国之名接英雄回家微纪录",
+        "onboard_time": 1701056795,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 999760,
+        "num": 999760,
+        "word": "吴京口误 我是闫妮老公",
+        "onboard_time": 1701077195,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200436,
+        "num": 663547,
+        "word": "华妮生产过程录像公布",
+        "onboard_time": 1701083791,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018237,
+        "num": 625964,
+        "word": "刻俩萝卜章骗了300亿",
+        "onboard_time": 1701077853,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155602,
+        "num": 584577,
+        "word": "帅小伙地铁嘴对嘴心肺复苏救活大爷",
+        "onboard_time": 1701082357,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580076,
+        "num": 580076,
+        "word": "石原里美时隔3年回归拍剧",
+        "onboard_time": 1701084153,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 686497,
+        "num": 575822,
+        "word": "杨洋系个腰带吧",
+        "onboard_time": 1701081933,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 640148,
+        "num": 573613,
+        "word": "22岁中国留学生在韩身亡",
+        "onboard_time": 1701078816,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474727,
+        "num": 474727,
+        "word": "月亮",
+        "onboard_time": 1701078755,
+        "rank": 10,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 407845,
+        "num": 407845,
+        "word": "深圳一公司给员工放假10个月",
+        "onboard_time": 1701082294,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70939,
+        "num": 389162,
+        "word": "谭松韵首映生图状态",
+        "onboard_time": 1701082294,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388425,
+        "num": 388425,
+        "word": "王鹤棣镜头下的白鹿",
+        "onboard_time": 1701081575,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369242,
+        "num": 369242,
+        "word": "支原体肺炎是新冠的变异吗",
+        "onboard_time": 1701076954,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339596,
+        "num": 339596,
+        "word": "新闻女王梁景仁遭心腹背叛",
+        "onboard_time": 1701083615,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313953,
+        "num": 313953,
+        "word": "喻言 南京",
+        "onboard_time": 1701080136,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297621,
+        "num": 297621,
+        "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+        "onboard_time": 1701065673,
+        "rank": 17,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 291462,
+        "num": 291462,
+        "word": "谁教考公人在酒吧刷题的",
+        "onboard_time": 1701077135,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282107,
+        "num": 282107,
+        "word": "金莎男友喜欢吹她的鼻孔",
+        "onboard_time": 1701072454,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1230152,
+        "num": 281914,
+        "word": "贴身衣物最好不要买黑色",
+        "onboard_time": 1701077319,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 280990,
+        "num": 280990,
+        "word": "何猷君奚梦瑶 严父慈母",
+        "onboard_time": 1701077794,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254372,
+        "num": 254372,
+        "word": "只有韩国服务器才审查手势的游戏",
+        "onboard_time": 1701081155,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251288,
+        "num": 251288,
+        "word": "支原体肺炎",
+        "onboard_time": 1701080435,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240308,
+        "num": 240308,
+        "word": "经常喝含植脂末的奶茶会怎样",
+        "onboard_time": 1701077433,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236394,
+        "num": 236394,
+        "word": "北大食堂称与鹅腿阿姨没有关系",
+        "onboard_time": 1701083132,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254406,
+        "num": 236248,
+        "word": "何猷君华容道",
+        "onboard_time": 1701083192,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235532,
+        "num": 235532,
+        "word": "孙丞潇给金莎做了十斤的火鸡",
+        "onboard_time": 1701082716,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215826,
+        "num": 215826,
+        "word": "谭松韵 离别的人我想再见",
+        "onboard_time": 1701082594,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209672,
+        "num": 209672,
+        "word": "暗恋对象成为大明星",
+        "onboard_time": 1701083974,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201883,
+        "num": 201883,
+        "word": "南海归墟追剧日历",
+        "onboard_time": 1701084516,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201316,
+        "num": 201316,
+        "word": "因长得丑遭无视的雄狮",
+        "onboard_time": 1701080073,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198485,
+        "num": 198485,
+        "word": "清华北大学生排队抢鹅腿",
+        "onboard_time": 1701062375,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194483,
+        "num": 194483,
+        "word": "张艺兴演唱会名场面",
+        "onboard_time": 1701083853,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192324,
+        "num": 192324,
+        "word": "张雨绮为新剧剪短发",
+        "onboard_time": 1701084333,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182043,
+        "num": 182043,
+        "word": "金泰妍回归",
+        "onboard_time": 1701077075,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181582,
+        "num": 181582,
+        "word": "你好种地少年",
+        "onboard_time": 1701082173,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169929,
+        "num": 169929,
+        "word": "谢晋的大女儿去世",
+        "onboard_time": 1701059565,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168851,
+        "num": 168851,
+        "word": "白鹿尖叫之夜vlog",
+        "onboard_time": 1701083555,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163325,
+        "num": 163325,
+        "word": "16岁女孩未考上985遭父亲家暴",
+        "onboard_time": 1701059379,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 160575,
+        "num": 160575,
+        "word": "秦岚全包眼线",
+        "onboard_time": 1701080495,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 149878,
+        "num": 149878,
+        "word": "吸血鬼骑士 燃冬鼻祖",
+        "onboard_time": 1701080794,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144039,
+        "num": 144039,
+        "word": "WBG 呼吸来不来",
+        "onboard_time": 1701072517,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140151,
+        "num": 140151,
+        "word": "吃火锅遇到了折耳根刺客",
+        "onboard_time": 1701083555,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138751,
+        "num": 138751,
+        "word": "王嘉尔上海演唱会官宣两场",
+        "onboard_time": 1701082533,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132752,
+        "num": 132752,
+        "word": "杨紫白玫瑰小黑裙",
+        "onboard_time": 1701068672,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132185,
+        "num": 132185,
+        "word": "奥运冠军丁宁毕业论文是研究自己",
+        "onboard_time": 1701077195,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122428,
+        "num": 122428,
+        "word": "上课没收了一个学生开的小卖部",
+        "onboard_time": 1701078393,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113054,
+        "num": 113054,
+        "word": "江苏报告33144例流感",
+        "onboard_time": 1701068074,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98837,
+        "num": 112300,
+        "word": "起猛了看见响尾猫了",
+        "onboard_time": 1701083132,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的黄河情怀#"
+    }
+  }
+}
