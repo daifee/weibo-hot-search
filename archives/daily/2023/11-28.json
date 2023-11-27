@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701105394970,
+  "endTime": 1701106444300,
   "band_list": [
     {
       "raw_hot": 973471,
@@ -59,20 +59,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 509373,
+      "num": 509373,
+      "word": "海底捞回应奖励3000元给跳科目三员工",
+      "onboard_time": 1701102507,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475365,
       "num": 475365,
       "word": "原来孕晚期脚会发臭",
       "onboard_time": 1701098139,
       "rank": 5,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 471713,
-      "num": 471713,
-      "word": "海底捞回应奖励3000元给跳科目三员工",
-      "onboard_time": 1701102507,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 460739,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57555,
+      "num": 57555,
+      "word": "陆毅鲍蕾分享育儿经验",
+      "onboard_time": 1701105439,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56766,
       "num": 56766,
       "word": "宁安如梦豆瓣6.9分",
@@ -441,6 +449,14 @@
       "onboard_time": 1701089735,
       "rank": 2,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53404,
+      "num": 53404,
+      "word": "涉过愤怒的海 TT",
+      "onboard_time": 1701105918,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 48566,
@@ -459,7 +475,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 6794,
+      "raw_hot": 8470,
       "num": 465447,
       "word": "链博会为国际经贸发展贡献链博智慧",
       "onboard_time": 1701089258,
