@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701116309606,
+  "endTime": 1701117281252,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -6019,6 +6019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 71049,
+      "num": 71049,
+      "word": "嗓子疼",
+      "onboard_time": 1701115395,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70939,
       "num": 479007,
       "word": "谭松韵首映生图状态",
@@ -6267,14 +6275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31236,
-      "num": 31236,
-      "word": "嗓子疼",
-      "onboard_time": 1701115395,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28343,
       "num": 33333,
       "word": "李荣浩嘉宾真是陈奕迅",
@@ -6363,20 +6363,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14512,
-      "num": 14512,
+      "raw_hot": 14936,
+      "num": 17924,
       "word": "海底捞科目三小哥回应走红",
       "onboard_time": 1701115692,
       "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12796,
-      "num": 12796,
+      "raw_hot": 14033,
+      "num": 17923,
       "word": "睡前护肤 姐皮肤好是应得的",
       "onboard_time": 1701115153,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 13486,
+      "num": 17919,
+      "word": "袁姗姗在线求固定猫窝的方法",
+      "onboard_time": 1701116892,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 8470,
