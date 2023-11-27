@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701076736494,
+  "endTime": 1701077674768,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 863653,
+      "num": 863653,
+      "word": "吴京口误 我是闫妮老公",
+      "onboard_time": 1701077195,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 862946,
       "num": 712843,
       "word": "中式恐怖",
@@ -769,6 +777,14 @@
       "onboard_time": 1701052653,
       "rank": 18,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 627576,
+      "num": 627576,
+      "word": "李苗苗 爱你到嫉妒你的鞋子",
+      "onboard_time": 1701073832,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 626757,
@@ -1035,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 516605,
-      "num": 516605,
-      "word": "李苗苗 爱你到嫉妒你的鞋子",
-      "onboard_time": 1701073832,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 516574,
       "num": 516574,
       "word": "张凌赫说喜欢看白鹿做手工",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1701066813,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 489758,
+      "num": 489758,
+      "word": "蛇之战好大一条蛇",
+      "onboard_time": 1701077014,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 489676,
@@ -1276,7 +1292,7 @@
     },
     {
       "raw_hot": 454927,
-      "num": 407890,
+      "num": 423566,
       "word": "阿姨一开口以为电视机打开了",
       "onboard_time": 1701074733,
       "rank": 10,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1700955263,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 420474,
+      "num": 420474,
+      "word": "张文宏称支原体肺炎和新冠是两码事",
+      "onboard_time": 1701077075,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 417515,
@@ -1609,6 +1633,14 @@
       "onboard_time": 1700996794,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368966,
+      "num": 368966,
+      "word": "金泰妍回归",
+      "onboard_time": 1701077075,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 367784,
@@ -1875,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319235,
+      "num": 319235,
+      "word": "LPL转会期",
+      "onboard_time": 1701076054,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 319214,
       "num": 319214,
       "word": "张凌赫曾舜晞王星越干啥呢",
@@ -2012,7 +2052,7 @@
     },
     {
       "raw_hot": 304332,
-      "num": 197324,
+      "num": 288877,
       "word": "阴阳师 鬼吞配色",
       "onboard_time": 1701075632,
       "rank": 30,
@@ -2307,6 +2347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277552,
+      "num": 277552,
+      "word": "支原体肺炎是新冠的变异吗",
+      "onboard_time": 1701076954,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 274838,
       "num": 274838,
       "word": "燕临 鲜衣怒马少年郎",
@@ -2403,14 +2451,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 265269,
-      "num": 265269,
-      "word": "LPL转会期",
-      "onboard_time": 1701076054,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 264825,
       "num": 247713,
       "word": "王鹤棣发文说多谢",
@@ -2424,6 +2464,14 @@
       "word": "孙兴慜越位帽子戏法",
       "onboard_time": 1701051273,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 264302,
+      "num": 264302,
+      "word": "奥运冠军丁宁毕业论文是研究自己",
+      "onboard_time": 1701077195,
+      "rank": 20,
       "category": "体育"
     },
     {
@@ -2723,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233768,
+      "num": 233768,
+      "word": "金泰妍迷你五辑to.X",
+      "onboard_time": 1701076835,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233687,
       "num": 233687,
       "word": "直系亲属犯罪是否会影响国考政审",
@@ -2979,6 +3035,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216262,
+      "num": 216262,
+      "word": "贴身衣物最好不要买黑色",
+      "onboard_time": 1701077319,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 216236,
+      "num": 216236,
+      "word": "有线电视终端默认应为开机进入全屏直播",
+      "onboard_time": 1701077319,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216172,
       "num": 216172,
       "word": "丁程鑫吓到面无血色",
@@ -3097,6 +3169,14 @@
       "onboard_time": 1700987072,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206574,
+      "num": 206574,
+      "word": "谁教考公人在酒吧刷题的",
+      "onboard_time": 1701077135,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 206554,
@@ -3611,6 +3691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182399,
+      "num": 182399,
+      "word": "经常喝含植脂末的奶茶会怎样",
+      "onboard_time": 1701077433,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 182388,
       "num": 209392,
       "word": "近期我国急性呼吸道疾病持续上升",
@@ -3675,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179052,
+      "num": 179052,
+      "word": "韩火火为一念关山打call",
+      "onboard_time": 1701077373,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179034,
       "num": 151111,
       "word": "华晨宇新浪扫楼",
@@ -3713,6 +3809,14 @@
       "onboard_time": 1701054156,
       "rank": 40,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 176959,
+      "num": 176959,
+      "word": "帕梅拉买东西从来不看热量",
+      "onboard_time": 1701077319,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 176124,
@@ -3937,6 +4041,14 @@
       "onboard_time": 1700960850,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160354,
+      "num": 160354,
+      "word": "金莎姐弟恋的受众是谁",
+      "onboard_time": 1701077494,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 160341,

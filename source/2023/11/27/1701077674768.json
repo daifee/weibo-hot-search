@@ -1,0 +1,410 @@
+{
+  "runTime": 1701077674768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1317750,
+        "num": 1317750,
+        "word": "金莎男友喜欢吹她的鼻孔",
+        "onboard_time": 1701072454,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 863653,
+        "num": 863653,
+        "word": "吴京口误 我是闫妮老公",
+        "onboard_time": 1701077195,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35592,
+        "num": 828333,
+        "word": "以国之名接英雄回家微纪录",
+        "onboard_time": 1701056795,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 809292,
+        "num": 809292,
+        "word": "江苏报告33144例流感",
+        "onboard_time": 1701068074,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695896,
+        "num": 695896,
+        "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+        "onboard_time": 1701065673,
+        "rank": 4,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 627576,
+        "num": 627576,
+        "word": "李苗苗 爱你到嫉妒你的鞋子",
+        "onboard_time": 1701073832,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530517,
+        "num": 530517,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1701074130,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 489758,
+        "num": 489758,
+        "word": "蛇之战好大一条蛇",
+        "onboard_time": 1701077014,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 444781,
+        "num": 444781,
+        "word": "韩网评我可以47",
+        "onboard_time": 1701071854,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423566,
+        "num": 423566,
+        "word": "阿姨一开口以为电视机打开了",
+        "onboard_time": 1701074733,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420474,
+        "num": 420474,
+        "word": "张文宏称支原体肺炎和新冠是两码事",
+        "onboard_time": 1701077075,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 392833,
+        "num": 392833,
+        "word": "WBG 呼吸来不来",
+        "onboard_time": 1701072517,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 368966,
+        "num": 368966,
+        "word": "金泰妍回归",
+        "onboard_time": 1701077075,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 360166,
+        "num": 360166,
+        "word": "辛芷蕾没当上导游很失落",
+        "onboard_time": 1701073593,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349974,
+        "num": 349974,
+        "word": "官方通报女子多次被要求提供不同材料",
+        "onboard_time": 1701070593,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346304,
+        "num": 346304,
+        "word": "16岁女孩未考上985遭父亲家暴",
+        "onboard_time": 1701059379,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 319235,
+        "num": 319235,
+        "word": "LPL转会期",
+        "onboard_time": 1701076054,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 292602,
+        "num": 292602,
+        "word": "张艺谋儿子 巴黎名媛舞会",
+        "onboard_time": 1701060764,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288877,
+        "num": 288877,
+        "word": "阴阳师 鬼吞配色",
+        "onboard_time": 1701075632,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277552,
+        "num": 277552,
+        "word": "支原体肺炎是新冠的变异吗",
+        "onboard_time": 1701076954,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264302,
+        "num": 264302,
+        "word": "奥运冠军丁宁毕业论文是研究自己",
+        "onboard_time": 1701077195,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257112,
+        "num": 257112,
+        "word": "人民大学食堂自研烤鹅腿定价15元",
+        "onboard_time": 1701064830,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252703,
+        "num": 252703,
+        "word": "易烊千玺分享试听音频",
+        "onboard_time": 1701072454,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251912,
+        "num": 251912,
+        "word": "郑州大学取消公众入校限制",
+        "onboard_time": 1701058117,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 243762,
+        "num": 243762,
+        "word": "谢晋的大女儿去世",
+        "onboard_time": 1701059565,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241406,
+        "num": 241406,
+        "word": "白鹿 时宴是完美男友",
+        "onboard_time": 1701072333,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234972,
+        "num": 234972,
+        "word": "杨幂朵拉头",
+        "onboard_time": 1701053552,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233768,
+        "num": 233768,
+        "word": "金泰妍迷你五辑to.X",
+        "onboard_time": 1701076835,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217572,
+        "num": 217572,
+        "word": "杨紫白玫瑰小黑裙",
+        "onboard_time": 1701068672,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216698,
+        "num": 216698,
+        "word": "高以翔父亲去世",
+        "onboard_time": 1701047496,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216262,
+        "num": 216262,
+        "word": "贴身衣物最好不要买黑色",
+        "onboard_time": 1701077319,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 216236,
+        "num": 216236,
+        "word": "有线电视终端默认应为开机进入全屏直播",
+        "onboard_time": 1701077319,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206574,
+        "num": 206574,
+        "word": "谁教考公人在酒吧刷题的",
+        "onboard_time": 1701077135,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205799,
+        "num": 205799,
+        "word": "肚子和背部瘦不下来的原因",
+        "onboard_time": 1701071074,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 198433,
+        "num": 198433,
+        "word": "陈牧驰拍戏路透",
+        "onboard_time": 1701070115,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193524,
+        "num": 193524,
+        "word": "内娱男明星影响力排名",
+        "onboard_time": 1701070412,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182399,
+        "num": 182399,
+        "word": "经常喝含植脂末的奶茶会怎样",
+        "onboard_time": 1701077433,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 179052,
+        "num": 179052,
+        "word": "韩火火为一念关山打call",
+        "onboard_time": 1701077373,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176959,
+        "num": 176959,
+        "word": "帕梅拉买东西从来不看热量",
+        "onboard_time": 1701077319,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 170977,
+        "num": 170977,
+        "word": "参加男友家庭聚会遇见前男友",
+        "onboard_time": 1701075755,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163526,
+        "num": 163526,
+        "word": "小满生活 怀孕被上司故意劝酒",
+        "onboard_time": 1701066992,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163373,
+        "num": 163373,
+        "word": "字节跳动将关闭游戏朝夕光年",
+        "onboard_time": 1701057937,
+        "rank": 41,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 163324,
+        "num": 163324,
+        "word": "杨紫鸡毛头造型自拍",
+        "onboard_time": 1701071552,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160354,
+        "num": 160354,
+        "word": "金莎姐弟恋的受众是谁",
+        "onboard_time": 1701077494,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154130,
+        "num": 154130,
+        "word": "星光大赏 嘉宾",
+        "onboard_time": 1701066813,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153529,
+        "num": 153529,
+        "word": "YG官网删除权志龙",
+        "onboard_time": 1701051213,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148422,
+        "num": 148422,
+        "word": "倪妮方 此项目与我们无关",
+        "onboard_time": 1701067653,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143568,
+        "num": 143568,
+        "word": "女子婚后通讯录几乎被丈夫删光",
+        "onboard_time": 1701064114,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140710,
+        "num": 140710,
+        "word": "刘亦菲失去表情管理",
+        "onboard_time": 1701059379,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137161,
+        "num": 137161,
+        "word": "学会了 男朋友有福了",
+        "onboard_time": 1701073593,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进跨境服务贸易和投资高水平开放#"
+    }
+  }
+}
