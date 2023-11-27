@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701077674768,
+  "endTime": 1701080385716,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1783341,
+      "num": 1783341,
+      "word": "吴京口误 我是闫妮老公",
+      "onboard_time": 1701077195,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1707349,
       "num": 1707349,
       "word": "羽绒服涨价把市场让给了军大衣",
@@ -113,6 +121,14 @@
       "onboard_time": 1701051213,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1206901,
+      "num": 1206901,
+      "word": "贴身衣物最好不要买黑色",
+      "onboard_time": 1701077319,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1167909,
@@ -187,20 +203,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 863653,
-      "num": 863653,
-      "word": "吴京口误 我是闫妮老公",
-      "onboard_time": 1701077195,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 862946,
       "num": 712843,
       "word": "中式恐怖",
       "onboard_time": 1701053913,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 852960,
+      "num": 852960,
+      "word": "刻俩萝卜章骗了300亿",
+      "onboard_time": 1701077853,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 849224,
@@ -265,6 +281,22 @@
       "onboard_time": 1701060342,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 706656,
+      "num": 706656,
+      "word": "支原体肺炎是新冠的变异吗",
+      "onboard_time": 1701076954,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 700642,
+      "num": 521040,
+      "word": "22岁中国留学生在韩身亡",
+      "onboard_time": 1701078816,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688413,
@@ -380,11 +412,27 @@
     },
     {
       "raw_hot": 539023,
-      "num": 539023,
+      "num": 887353,
       "word": "清华北大学生排队抢鹅腿",
       "onboard_time": 1701062375,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 535043,
+      "num": 535043,
+      "word": "经常喝含植脂末的奶茶会怎样",
+      "onboard_time": 1701077433,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 529149,
+      "num": 529149,
+      "word": "何猷君奚梦瑶 严父慈母",
+      "onboard_time": 1701077794,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 527916,
@@ -425,6 +473,14 @@
       "onboard_time": 1701013656,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498961,
+      "num": 498961,
+      "word": "月亮",
+      "onboard_time": 1701078755,
+      "rank": 13,
+      "category": "自然"
     },
     {
       "raw_hot": 493177,
@@ -603,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 397056,
+      "num": 397056,
+      "word": "金泰妍回归",
+      "onboard_time": 1701077075,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 394893,
       "num": 394893,
       "word": "马东锡自拍 安全感十足的头像",
@@ -651,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368966,
-      "num": 368966,
-      "word": "金泰妍回归",
-      "onboard_time": 1701077075,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 361221,
       "num": 284385,
       "word": "为什么肚子总是咕噜咕噜响",
@@ -689,6 +745,22 @@
       "onboard_time": 1701064231,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338492,
+      "num": 338492,
+      "word": "谁教考公人在酒吧刷题的",
+      "onboard_time": 1701077135,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 336886,
+      "num": 1443899,
+      "word": "奥运冠军丁宁毕业论文是研究自己",
+      "onboard_time": 1701077195,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 335252,
@@ -955,14 +1027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 277552,
-      "num": 277552,
-      "word": "支原体肺炎是新冠的变异吗",
-      "onboard_time": 1701076954,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 274279,
       "num": 274279,
       "word": "方圆脸换头",
@@ -1008,14 +1072,6 @@
       "word": "孙兴慜越位帽子戏法",
       "onboard_time": 1701051273,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 264302,
-      "num": 264302,
-      "word": "奥运冠军丁宁毕业论文是研究自己",
-      "onboard_time": 1701077195,
-      "rank": 20,
       "category": "体育"
     },
     {
@@ -1251,14 +1307,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 216262,
-      "num": 216262,
-      "word": "贴身衣物最好不要买黑色",
-      "onboard_time": 1701077319,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 216236,
       "num": 216236,
       "word": "有线电视终端默认应为开机进入全屏直播",
@@ -1280,6 +1328,14 @@
       "word": "汪苏泷舞台",
       "onboard_time": 1701011734,
       "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 211563,
+      "num": 211563,
+      "word": "喻言 南京",
+      "onboard_time": 1701080136,
+      "rank": 26,
       "category": "演出"
     },
     {
@@ -1305,14 +1361,6 @@
       "onboard_time": 1701059198,
       "rank": 36,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 206574,
-      "num": 206574,
-      "word": "谁教考公人在酒吧刷题的",
-      "onboard_time": 1701077135,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 205684,
@@ -1387,6 +1435,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193973,
+      "num": 193973,
+      "word": "上课没收了一个学生开的小卖部",
+      "onboard_time": 1701078393,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193597,
+      "num": 193597,
+      "word": "华晨宇渐变紫长发",
+      "onboard_time": 1701077672,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192910,
       "num": 137803,
       "word": "秦岚当导游后每天只睡两个小时",
@@ -1400,6 +1464,14 @@
       "word": "小狗 真开心我要被爱了",
       "onboard_time": 1701068734,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 191834,
+      "num": 191834,
+      "word": "因长得丑遭无视的雄狮",
+      "onboard_time": 1701080073,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -1451,12 +1523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188763,
+      "num": 188763,
+      "word": "穿戴甲购物分享",
+      "onboard_time": 1701080012,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 187718,
       "num": 180859,
       "word": "微博视界大会",
       "onboard_time": 1701058476,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187406,
+      "num": 187406,
+      "word": "帕梅拉买东西从来不看热量",
+      "onboard_time": 1701077319,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 185430,
@@ -1489,14 +1577,6 @@
       "onboard_time": 1701057337,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182399,
-      "num": 182399,
-      "word": "经常喝含植脂末的奶茶会怎样",
-      "onboard_time": 1701077433,
-      "rank": 36,
-      "category": "科学科普"
     },
     {
       "raw_hot": 182370,
@@ -1563,12 +1643,20 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 176959,
-      "num": 176959,
-      "word": "帕梅拉买东西从来不看热量",
-      "onboard_time": 1701077319,
-      "rank": 38,
-      "category": "运动健身"
+      "raw_hot": 175724,
+      "num": 164518,
+      "word": "杨幂新片全员恶人",
+      "onboard_time": 1701079359,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 175610,
+      "num": 175610,
+      "word": "DINO新歌MV",
+      "onboard_time": 1701079056,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 174745,
@@ -1585,6 +1673,14 @@
       "onboard_time": 1701065673,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171810,
+      "num": 740839,
+      "word": "谁把三星堆放出来跑马拉松了",
+      "onboard_time": 1701072815,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171567,
@@ -1609,6 +1705,14 @@
       "onboard_time": 1701072631,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 166432,
+      "num": 166432,
+      "word": "SEVENTEEN机场大衣秀",
+      "onboard_time": 1701079234,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 165773,
@@ -1683,14 +1787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155245,
-      "num": 155245,
-      "word": "谁把三星堆放出来跑马拉松了",
-      "onboard_time": 1701072815,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154993,
       "num": 154993,
       "word": "羊肉串来东北都得挂个冰糖",
@@ -1713,6 +1809,14 @@
       "onboard_time": 1701063214,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154772,
+      "num": 154772,
+      "word": "鬼王酒吞童子新皮肤",
+      "onboard_time": 1701077734,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 153785,
@@ -1785,6 +1889,14 @@
       "onboard_time": 1700992715,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148034,
+      "num": 148034,
+      "word": "如何判断你需不需要刘海",
+      "onboard_time": 1701079120,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 143063,
@@ -2259,8 +2371,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46119,
+      "num": 212252,
+      "word": "上海街头惊现温暖时装秀",
+      "onboard_time": 1701077973,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35932,
-      "num": 1233931,
+      "num": 1275328,
       "word": "以国之名接英雄回家微纪录",
       "onboard_time": 1701056795,
       "rank": 2,

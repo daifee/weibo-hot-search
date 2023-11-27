@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/27 00:20:37 ~ 2023/11/27 17:34:34
+本榜单时间：2023/11/27 00:20:37 ~ 2023/11/27 18:19:45
 </p>
 </blockquote>
 <p>
@@ -63,6 +63,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%8F%A3%E8%AF%AF%20%E6%88%91%E6%98%AF%E9%97%AB%E5%A6%AE%E8%80%81%E5%85%AC%23" target="weibo">
+吴京口误 我是闫妮老公（热度：1783341）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%B6%A8%E4%BB%B7%E6%8A%8A%E5%B8%82%E5%9C%BA%E8%AE%A9%E7%BB%99%E4%BA%86%E5%86%9B%E5%A4%A7%E8%A1%A3%23" target="weibo">
 羽绒服涨价把市场让给了军大衣（热度：1707349）
 </a>
@@ -95,6 +101,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23YG%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4%E6%9D%83%E5%BF%97%E9%BE%99%23" target="weibo">
 YG官网删除权志龙（热度：1271961）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E4%B9%B0%E9%BB%91%E8%89%B2%23" target="weibo">
+贴身衣物最好不要买黑色（热度：1206901）
 </a>
 </li>
 
@@ -153,14 +165,14 @@ B太 我被漠河人留住了（热度：1096109）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%8F%A3%E8%AF%AF%20%E6%88%91%E6%98%AF%E9%97%AB%E5%A6%AE%E8%80%81%E5%85%AC%23" target="weibo">
-吴京口误 我是闫妮老公（热度：863653）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E6%81%90%E6%80%96%23" target="weibo">
+中式恐怖（热度：862946）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E6%81%90%E6%80%96%23" target="weibo">
-中式恐怖（热度：862946）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97%E4%BA%86300%E4%BA%BF%23" target="weibo">
+刻俩萝卜章骗了300亿（热度：852960）
 </a>
 </li>
 
@@ -209,6 +221,18 @@ B太 我被漠河人留住了（热度：1096109）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%20%E9%87%8D%E5%90%AF%23" target="weibo">
 暮光之城 重启（热度：767732）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E7%9A%84%E5%8F%98%E5%BC%82%E5%90%97%23" target="weibo">
+支原体肺炎是新冠的变异吗（热度：706656）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2322%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9C%A8%E9%9F%A9%E8%BA%AB%E4%BA%A1%23" target="weibo">
+22岁中国留学生在韩身亡（热度：700642）
 </a>
 </li>
 
@@ -303,6 +327,18 @@ A股（热度：626094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%96%9D%E5%90%AB%E6%A4%8D%E8%84%82%E6%9C%AB%E7%9A%84%E5%A5%B6%E8%8C%B6%E4%BC%9A%E6%80%8E%E6%A0%B7%23" target="weibo">
+经常喝含植脂末的奶茶会怎样（热度：535043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%20%E4%B8%A5%E7%88%B6%E6%85%88%E6%AF%8D%23" target="weibo">
+何猷君奚梦瑶 严父慈母（热度：529149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%A4%B1%E5%8E%BB%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86%23" target="weibo">
 刘亦菲失去表情管理（热度：527916）
 </a>
@@ -329,6 +365,12 @@ A股（热度：626094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BEP%E4%BA%86Q%E7%89%88%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 辛芷蕾P了Q版迪丽热巴（热度：502772）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%23" target="weibo">
+月亮（热度：498961）
 </a>
 </li>
 
@@ -465,6 +507,12 @@ Eric章昊cha了（热度：402218）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E5%A6%8D%E5%9B%9E%E5%BD%92%23" target="weibo">
+金泰妍回归（热度：397056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%9C%E9%94%A1%E8%87%AA%E6%8B%8D%20%E5%AE%89%E5%85%A8%E6%84%9F%E5%8D%81%E8%B6%B3%E7%9A%84%E5%A4%B4%E5%83%8F%23" target="weibo">
 马东锡自拍 安全感十足的头像（热度：394893）
 </a>
@@ -501,12 +549,6 @@ Eric章昊cha了（热度：402218）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E5%A6%8D%E5%9B%9E%E5%BD%92%23" target="weibo">
-金泰妍回归（热度：368966）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%82%9A%E5%AD%90%E6%80%BB%E6%98%AF%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C%E5%93%8D%23" target="weibo">
 为什么肚子总是咕噜咕噜响（热度：361221）
 </a>
@@ -527,6 +569,18 @@ Eric章昊cha了（热度：402218）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23YG%E7%9A%84G%E6%B2%A1%E4%BA%86%23" target="weibo">
 YG的G没了（热度：346185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%95%99%E8%80%83%E5%85%AC%E4%BA%BA%E5%9C%A8%E9%85%92%E5%90%A7%E5%88%B7%E9%A2%98%E7%9A%84%23" target="weibo">
+谁教考公人在酒吧刷题的（热度：338492）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%B8%81%E5%AE%81%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%98%AF%E7%A0%94%E7%A9%B6%E8%87%AA%E5%B7%B1%23" target="weibo">
+奥运冠军丁宁毕业论文是研究自己（热度：336886）
 </a>
 </li>
 
@@ -729,12 +783,6 @@ YG味（热度：284055）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E7%9A%84%E5%8F%98%E5%BC%82%E5%90%97%23" target="weibo">
-支原体肺炎是新冠的变异吗（热度：277552）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%9C%86%E8%84%B8%E6%8D%A2%E5%A4%B4%23" target="weibo">
 方圆脸换头（热度：274279）
 </a>
@@ -767,12 +815,6 @@ YG味（热度：284055）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E8%B6%8A%E4%BD%8D%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23" target="weibo">
 孙兴慜越位帽子戏法（热度：264606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%B8%81%E5%AE%81%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E6%98%AF%E7%A0%94%E7%A9%B6%E8%87%AA%E5%B7%B1%23" target="weibo">
-奥运冠军丁宁毕业论文是研究自己（热度：264302）
 </a>
 </li>
 
@@ -951,12 +993,6 @@ YG 敷衍（热度：248682）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B4%E8%BA%AB%E8%A1%A3%E7%89%A9%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E4%B9%B0%E9%BB%91%E8%89%B2%23" target="weibo">
-贴身衣物最好不要买黑色（热度：216262）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86%E7%BB%88%E7%AB%AF%E9%BB%98%E8%AE%A4%E5%BA%94%E4%B8%BA%E5%BC%80%E6%9C%BA%E8%BF%9B%E5%85%A5%E5%85%A8%E5%B1%8F%E7%9B%B4%E6%92%AD%23" target="weibo">
 有线电视终端默认应为开机进入全屏直播（热度：216236）
 </a>
@@ -975,6 +1011,12 @@ YG 敷衍（热度：248682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E8%A8%80%20%E5%8D%97%E4%BA%AC%23" target="weibo">
+喻言 南京（热度：211563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%8418%E5%B2%81%E5%BF%83%E6%84%BF%23" target="weibo">
 全红婵的18岁心愿（热度：210919）
 </a>
@@ -989,12 +1031,6 @@ YG 敷衍（热度：248682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0%E5%8A%A0%E6%9B%B4%23" target="weibo">
 凡人修仙传加更（热度：207405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%95%99%E8%80%83%E5%85%AC%E4%BA%BA%E5%9C%A8%E9%85%92%E5%90%A7%E5%88%B7%E9%A2%98%E7%9A%84%23" target="weibo">
-谁教考公人在酒吧刷题的（热度：206574）
 </a>
 </li>
 
@@ -1053,6 +1089,18 @@ YG 敷衍（热度：248682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E8%AF%BE%E6%B2%A1%E6%94%B6%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AD%A6%E7%94%9F%E5%BC%80%E7%9A%84%E5%B0%8F%E5%8D%96%E9%83%A8%23" target="weibo">
+上课没收了一个学生开的小卖部（热度：193973）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%B8%90%E5%8F%98%E7%B4%AB%E9%95%BF%E5%8F%91%23" target="weibo">
+华晨宇渐变紫长发（热度：193597）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%BD%93%E5%AF%BC%E6%B8%B8%E5%90%8E%E6%AF%8F%E5%A4%A9%E5%8F%AA%E7%9D%A1%E4%B8%A4%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
 秦岚当导游后每天只睡两个小时（热度：192910）
 </a>
@@ -1061,6 +1109,12 @@ YG 敷衍（热度：248682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%20%E7%9C%9F%E5%BC%80%E5%BF%83%E6%88%91%E8%A6%81%E8%A2%AB%E7%88%B1%E4%BA%86%23" target="weibo">
 小狗 真开心我要被爱了（热度：192767）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E9%95%BF%E5%BE%97%E4%B8%91%E9%81%AD%E6%97%A0%E8%A7%86%E7%9A%84%E9%9B%84%E7%8B%AE%23" target="weibo">
+因长得丑遭无视的雄狮（热度：191834）
 </a>
 </li>
 
@@ -1101,8 +1155,20 @@ YG 敷衍（热度：248682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E6%88%B4%E7%94%B2%E8%B4%AD%E7%89%A9%E5%88%86%E4%BA%AB%23" target="weibo">
+穿戴甲购物分享（热度：188763）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%23" target="weibo">
 微博视界大会（热度：187718）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E4%B9%B0%E4%B8%9C%E8%A5%BF%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%9C%8B%E7%83%AD%E9%87%8F%23" target="weibo">
+帕梅拉买东西从来不看热量（热度：187406）
 </a>
 </li>
 
@@ -1127,12 +1193,6 @@ YG 敷衍（热度：248682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E5%A5%B3%E5%84%BF%E5%A5%B4%23" target="weibo">
 谢危女儿奴（热度：182952）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%96%9D%E5%90%AB%E6%A4%8D%E8%84%82%E6%9C%AB%E7%9A%84%E5%A5%B6%E8%8C%B6%E4%BC%9A%E6%80%8E%E6%A0%B7%23" target="weibo">
-经常喝含植脂末的奶茶会怎样（热度：182399）
 </a>
 </li>
 
@@ -1185,8 +1245,14 @@ YG 敷衍（热度：248682）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%E4%B9%B0%E4%B8%9C%E8%A5%BF%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%9C%8B%E7%83%AD%E9%87%8F%23" target="weibo">
-帕梅拉买东西从来不看热量（热度：176959）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%96%B0%E7%89%87%E5%85%A8%E5%91%98%E6%81%B6%E4%BA%BA%23" target="weibo">
+杨幂新片全员恶人（热度：175724）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DINO%E6%96%B0%E6%AD%8CMV%23" target="weibo">
+DINO新歌MV（热度：175610）
 </a>
 </li>
 
@@ -1199,6 +1265,12 @@ YG 敷衍（热度：248682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%BD%E5%B1%89%E5%B1%85%E5%A3%AB%23" target="weibo">
 抽屉居士（热度：172577）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8A%E4%B8%89%E6%98%9F%E5%A0%86%E6%94%BE%E5%87%BA%E6%9D%A5%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BA%86%23" target="weibo">
+谁把三星堆放出来跑马拉松了（热度：171810）
 </a>
 </li>
 
@@ -1217,6 +1289,12 @@ YG 敷衍（热度：248682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8C%E6%96%B0M7%E5%A4%A7%E5%AE%9A%E7%AA%81%E7%A0%B4%E5%8D%81%E4%B8%87%E8%BE%86%23" target="weibo">
 问界新M7大定突破十万辆（热度：169465）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%9C%BA%E5%9C%BA%E5%A4%A7%E8%A1%A3%E7%A7%80%23" target="weibo">
+SEVENTEEN机场大衣秀（热度：166432）
 </a>
 </li>
 
@@ -1275,12 +1353,6 @@ YG 敷衍（热度：248682）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%8A%8A%E4%B8%89%E6%98%9F%E5%A0%86%E6%94%BE%E5%87%BA%E6%9D%A5%E8%B7%91%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BA%86%23" target="weibo">
-谁把三星堆放出来跑马拉松了（热度：155245）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E8%82%89%E4%B8%B2%E6%9D%A5%E4%B8%9C%E5%8C%97%E9%83%BD%E5%BE%97%E6%8C%82%E4%B8%AA%E5%86%B0%E7%B3%96%23" target="weibo">
 羊肉串来东北都得挂个冰糖（热度：154993）
 </a>
@@ -1295,6 +1367,12 @@ YG 敷衍（热度：248682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E7%83%AD%E7%88%B1%E7%89%88%E8%AF%AD%E9%9F%B3%E9%A2%84%E5%91%8A%23" target="weibo">
 微博视界大会热爱版语音预告（热度：154929）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%8E%8B%E9%85%92%E5%90%9E%E7%AB%A5%E5%AD%90%E6%96%B0%E7%9A%AE%E8%82%A4%23" target="weibo">
+鬼王酒吞童子新皮肤（热度：154772）
 </a>
 </li>
 
@@ -1349,6 +1427,12 @@ YG 敷衍（热度：248682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BD%91%E8%AF%84%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E7%94%B7%E6%98%8E%E6%98%9F%E9%80%A0%E5%9E%8B%23" target="weibo">
 韩网评尖叫之夜男明星造型（热度：148368）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E4%BD%A0%E9%9C%80%E4%B8%8D%E9%9C%80%E8%A6%81%E5%88%98%E6%B5%B7%23" target="weibo">
+如何判断你需不需要刘海（热度：148034）
 </a>
 </li>
 
@@ -1703,6 +1787,12 @@ Knights周年贺图（热度：130257）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E6%AF%8F%E5%8F%A5%E8%AF%9D%E9%83%BD%E6%89%8E%E5%9C%A8%E4%BA%86%E4%B8%81%E7%A8%8B%E9%91%AB%E5%BF%83%E9%87%8C%23" target="weibo">
 蔡文静每句话都扎在了丁程鑫心里（热度：47500）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%A1%97%E5%A4%B4%E6%83%8A%E7%8E%B0%E6%B8%A9%E6%9A%96%E6%97%B6%E8%A3%85%E7%A7%80%23" target="weibo">
+上海街头惊现温暖时装秀（热度：46119）
 </a>
 </li>
 

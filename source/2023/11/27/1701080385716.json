@@ -1,0 +1,410 @@
+{
+  "runTime": 1701080385716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1783341,
+        "num": 1783341,
+        "word": "吴京口误 我是闫妮老公",
+        "onboard_time": 1701077195,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336886,
+        "num": 1443899,
+        "word": "奥运冠军丁宁毕业论文是研究自己",
+        "onboard_time": 1701077195,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33322,
+        "num": 1275328,
+        "word": "以国之名接英雄回家微纪录",
+        "onboard_time": 1701056795,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1206901,
+        "num": 1206901,
+        "word": "贴身衣物最好不要买黑色",
+        "onboard_time": 1701077319,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 236052,
+        "num": 887353,
+        "word": "清华北大学生排队抢鹅腿",
+        "onboard_time": 1701062375,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852960,
+        "num": 852960,
+        "word": "刻俩萝卜章骗了300亿",
+        "onboard_time": 1701077853,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171810,
+        "num": 740839,
+        "word": "谁把三星堆放出来跑马拉松了",
+        "onboard_time": 1701072815,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706656,
+        "num": 706656,
+        "word": "支原体肺炎是新冠的变异吗",
+        "onboard_time": 1701076954,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 535043,
+        "num": 535043,
+        "word": "经常喝含植脂末的奶茶会怎样",
+        "onboard_time": 1701077433,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 529149,
+        "num": 529149,
+        "word": "何猷君奚梦瑶 严父慈母",
+        "onboard_time": 1701077794,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700642,
+        "num": 521040,
+        "word": "22岁中国留学生在韩身亡",
+        "onboard_time": 1701078816,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729698,
+        "num": 512605,
+        "word": "金莎男友喜欢吹她的鼻孔",
+        "onboard_time": 1701072454,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498967,
+        "num": 498967,
+        "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+        "onboard_time": 1701065673,
+        "rank": 12,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 498961,
+        "num": 498961,
+        "word": "月亮",
+        "onboard_time": 1701078755,
+        "rank": 13,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 397056,
+        "num": 397056,
+        "word": "金泰妍回归",
+        "onboard_time": 1701077075,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338492,
+        "num": 338492,
+        "word": "谁教考公人在酒吧刷题的",
+        "onboard_time": 1701077135,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 337102,
+        "num": 337102,
+        "word": "张文宏称支原体肺炎和新冠是两码事",
+        "onboard_time": 1701077075,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 314893,
+        "num": 314893,
+        "word": "李苗苗 爱你到嫉妒你的鞋子",
+        "onboard_time": 1701073832,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306302,
+        "num": 306302,
+        "word": "江苏报告33144例流感",
+        "onboard_time": 1701068074,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295911,
+        "num": 295911,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1701074130,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270796,
+        "num": 270796,
+        "word": "16岁女孩未考上985遭父亲家暴",
+        "onboard_time": 1701059379,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 265670,
+        "num": 265670,
+        "word": "阿姨一开口以为电视机打开了",
+        "onboard_time": 1701074733,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246131,
+        "num": 246131,
+        "word": "WBG 呼吸来不来",
+        "onboard_time": 1701072517,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217476,
+        "num": 217476,
+        "word": "蛇之战好大一条蛇",
+        "onboard_time": 1701077014,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213246,
+        "num": 213246,
+        "word": "有线电视终端默认应为开机进入全屏直播",
+        "onboard_time": 1701077319,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46119,
+        "num": 212252,
+        "word": "上海街头惊现温暖时装秀",
+        "onboard_time": 1701077973,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211563,
+        "num": 211563,
+        "word": "喻言 南京",
+        "onboard_time": 1701080136,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201077,
+        "num": 201077,
+        "word": "LPL转会期",
+        "onboard_time": 1701076054,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193973,
+        "num": 193973,
+        "word": "上课没收了一个学生开的小卖部",
+        "onboard_time": 1701078393,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193597,
+        "num": 193597,
+        "word": "华晨宇渐变紫长发",
+        "onboard_time": 1701077672,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191834,
+        "num": 191834,
+        "word": "因长得丑遭无视的雄狮",
+        "onboard_time": 1701080073,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189644,
+        "num": 189644,
+        "word": "韩网评我可以47",
+        "onboard_time": 1701071854,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188763,
+        "num": 188763,
+        "word": "穿戴甲购物分享",
+        "onboard_time": 1701080012,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 187406,
+        "num": 187406,
+        "word": "帕梅拉买东西从来不看热量",
+        "onboard_time": 1701077319,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 177980,
+        "num": 177980,
+        "word": "杨幂朵拉头",
+        "onboard_time": 1701053552,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175610,
+        "num": 175610,
+        "word": "DINO新歌MV",
+        "onboard_time": 1701079056,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169402,
+        "num": 169402,
+        "word": "杨紫白玫瑰小黑裙",
+        "onboard_time": 1701068672,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166432,
+        "num": 166432,
+        "word": "SEVENTEEN机场大衣秀",
+        "onboard_time": 1701079234,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165118,
+        "num": 165118,
+        "word": "韩火火为一念关山打call",
+        "onboard_time": 1701077373,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175724,
+        "num": 164518,
+        "word": "杨幂新片全员恶人",
+        "onboard_time": 1701079359,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163510,
+        "num": 163510,
+        "word": "张艺谋儿子 巴黎名媛舞会",
+        "onboard_time": 1701060764,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158904,
+        "num": 158904,
+        "word": "易烊千玺分享试听音频",
+        "onboard_time": 1701072454,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158469,
+        "num": 158469,
+        "word": "谢晋的大女儿去世",
+        "onboard_time": 1701059565,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157654,
+        "num": 157654,
+        "word": "内娱男明星影响力排名",
+        "onboard_time": 1701070412,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154772,
+        "num": 154772,
+        "word": "鬼王酒吞童子新皮肤",
+        "onboard_time": 1701077734,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149914,
+        "num": 149914,
+        "word": "人民大学食堂自研烤鹅腿定价15元",
+        "onboard_time": 1701064830,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148604,
+        "num": 148604,
+        "word": "高以翔父亲去世",
+        "onboard_time": 1701047496,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148499,
+        "num": 148499,
+        "word": "金莎姐弟恋的受众是谁",
+        "onboard_time": 1701077494,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148034,
+        "num": 148034,
+        "word": "如何判断你需不需要刘海",
+        "onboard_time": 1701079120,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144838,
+        "num": 144838,
+        "word": "辛芷蕾没当上导游很失落",
+        "onboard_time": 1701073593,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进跨境服务贸易和投资高水平开放#"
+    }
+  }
+}

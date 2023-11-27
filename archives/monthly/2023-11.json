@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701077674768,
+  "endTime": 1701080385716,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2585,6 +2585,14 @@
       "onboard_time": 1700035175,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1783341,
+      "num": 1783341,
+      "word": "吴京口误 我是闫妮老公",
+      "onboard_time": 1701077195,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 1780353,
@@ -5313,6 +5321,14 @@
       "onboard_time": 1699631072,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1206901,
+      "num": 1206901,
+      "word": "贴身衣物最好不要买黑色",
+      "onboard_time": 1701077319,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1206359,
@@ -8243,14 +8259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 863653,
-      "num": 863653,
-      "word": "吴京口误 我是闫妮老公",
-      "onboard_time": 1701077195,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 863642,
       "num": 863642,
       "word": "退休教师在家辅导外孙女数学走红",
@@ -8425,6 +8433,14 @@
       "onboard_time": 1700759840,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 852960,
+      "num": 852960,
+      "word": "刻俩萝卜章骗了300亿",
+      "onboard_time": 1701077853,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 851633,
@@ -11291,6 +11307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706656,
+      "num": 706656,
+      "word": "支原体肺炎是新冠的变异吗",
+      "onboard_time": 1701076954,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 706644,
       "num": 557991,
       "word": "没想到嗑起了朱丹和周一围",
@@ -11377,6 +11401,14 @@
       "onboard_time": 1699707453,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 700642,
+      "num": 521040,
+      "word": "22岁中国留学生在韩身亡",
+      "onboard_time": 1701078816,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700546,
@@ -16044,7 +16076,7 @@
     },
     {
       "raw_hot": 539023,
-      "num": 539023,
+      "num": 887353,
       "word": "清华北大学生排队抢鹅腿",
       "onboard_time": 1701062375,
       "rank": 19,
@@ -16225,6 +16257,14 @@
       "onboard_time": 1699281765,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535043,
+      "num": 535043,
+      "word": "经常喝含植脂末的奶茶会怎样",
+      "onboard_time": 1701077433,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 534721,
@@ -16425,6 +16465,14 @@
       "onboard_time": 1700367930,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529149,
+      "num": 529149,
+      "word": "何猷君奚梦瑶 严父慈母",
+      "onboard_time": 1701077794,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 528914,
@@ -17601,6 +17649,14 @@
       "onboard_time": 1699842990,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 498961,
+      "num": 498961,
+      "word": "月亮",
+      "onboard_time": 1701078755,
+      "rank": 13,
+      "category": "自然"
     },
     {
       "raw_hot": 498960,
@@ -22947,6 +23003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 397056,
+      "num": 397056,
+      "word": "金泰妍回归",
+      "onboard_time": 1701077075,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 396777,
       "num": 396777,
       "word": "王楚钦孙颖莎3比0梁靖崑钱天一",
@@ -24897,14 +24961,6 @@
       "onboard_time": 1700295213,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 368966,
-      "num": 368966,
-      "word": "金泰妍回归",
-      "onboard_time": 1701077075,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 368811,
@@ -27195,6 +27251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 338492,
+      "num": 338492,
+      "word": "谁教考公人在酒吧刷题的",
+      "onboard_time": 1701077135,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338412,
       "num": 329122,
       "word": "蔡国庆彻底打入0713",
@@ -27297,6 +27361,14 @@
       "onboard_time": 1698811234,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336886,
+      "num": 1443899,
+      "word": "奥运冠军丁宁毕业论文是研究自己",
+      "onboard_time": 1701077195,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 336694,
@@ -32891,14 +32963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 277552,
-      "num": 277552,
-      "word": "支原体肺炎是新冠的变异吗",
-      "onboard_time": 1701076954,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 277500,
       "num": 277500,
       "word": "RW战胜AG",
@@ -34465,14 +34529,6 @@
       "onboard_time": 1699082430,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 264302,
-      "num": 264302,
-      "word": "奥运冠军丁宁毕业论文是研究自己",
-      "onboard_time": 1701077195,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 264162,
@@ -41931,14 +41987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216262,
-      "num": 216262,
-      "word": "贴身衣物最好不要买黑色",
-      "onboard_time": 1701077319,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 216236,
       "num": 216236,
       "word": "有线电视终端默认应为开机进入全屏直播",
@@ -42937,6 +42985,14 @@
       "onboard_time": 1700190816,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211563,
+      "num": 211563,
+      "word": "喻言 南京",
+      "onboard_time": 1701080136,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 211561,
@@ -44177,14 +44233,6 @@
       "onboard_time": 1699148854,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206574,
-      "num": 206574,
-      "word": "谁教考公人在酒吧刷题的",
-      "onboard_time": 1701077135,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 206573,
@@ -47835,6 +47883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193973,
+      "num": 193973,
+      "word": "上课没收了一个学生开的小卖部",
+      "onboard_time": 1701078393,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193970,
       "num": 193970,
       "word": "李斌回应负面舆论",
@@ -47913,6 +47969,14 @@
       "onboard_time": 1700098296,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 193597,
+      "num": 193597,
+      "word": "华晨宇渐变紫长发",
+      "onboard_time": 1701077672,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 193584,
@@ -48385,6 +48449,14 @@
       "onboard_time": 1699759590,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191834,
+      "num": 191834,
+      "word": "因长得丑遭无视的雄狮",
+      "onboard_time": 1701080073,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 191791,
@@ -49363,6 +49435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188763,
+      "num": 188763,
+      "word": "穿戴甲购物分享",
+      "onboard_time": 1701080012,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 188734,
       "num": 188734,
       "word": "张真源背吉他打碟",
@@ -49785,6 +49865,14 @@
       "onboard_time": 1700995294,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187406,
+      "num": 187406,
+      "word": "帕梅拉买东西从来不看热量",
+      "onboard_time": 1701077319,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 187335,
@@ -51091,14 +51179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182399,
-      "num": 182399,
-      "word": "经常喝含植脂末的奶茶会怎样",
-      "onboard_time": 1701077433,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 182388,
       "num": 209392,
       "word": "近期我国急性呼吸道疾病持续上升",
@@ -52331,14 +52411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176959,
-      "num": 176959,
-      "word": "帕梅拉买东西从来不看热量",
-      "onboard_time": 1701077319,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 176958,
       "num": 174456,
       "word": "极致伪素颜妆",
@@ -52595,6 +52667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175724,
+      "num": 164518,
+      "word": "杨幂新片全员恶人",
+      "onboard_time": 1701079359,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175723,
       "num": 175723,
       "word": "MiHoYoFriday",
@@ -52649,6 +52729,14 @@
       "onboard_time": 1699257694,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175610,
+      "num": 175610,
+      "word": "DINO新歌MV",
+      "onboard_time": 1701079056,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 175574,
@@ -53441,6 +53529,14 @@
       "onboard_time": 1699438115,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171810,
+      "num": 740839,
+      "word": "谁把三星堆放出来跑马拉松了",
+      "onboard_time": 1701072815,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171798,
@@ -54761,6 +54857,14 @@
       "onboard_time": 1699871494,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166432,
+      "num": 166432,
+      "word": "SEVENTEEN机场大衣秀",
+      "onboard_time": 1701079234,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 166303,
@@ -57395,14 +57499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155245,
-      "num": 155245,
-      "word": "谁把三星堆放出来跑马拉松了",
-      "onboard_time": 1701072815,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155215,
       "num": 155215,
       "word": "洗脸后要抓住补水保湿黄金3分钟",
@@ -57529,6 +57625,14 @@
       "onboard_time": 1700641416,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154772,
+      "num": 154772,
+      "word": "鬼王酒吞童子新皮肤",
+      "onboard_time": 1701077734,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 154644,
@@ -59129,6 +59233,14 @@
       "onboard_time": 1700358569,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148034,
+      "num": 148034,
+      "word": "如何判断你需不需要刘海",
+      "onboard_time": 1701079120,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 148022,
@@ -72931,6 +73043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46119,
+      "num": 212252,
+      "word": "上海街头惊现温暖时装秀",
+      "onboard_time": 1701077973,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46071,
       "num": 285725,
       "word": "黄河文化有多璀璨",
@@ -73348,7 +73468,7 @@
     },
     {
       "raw_hot": 35932,
-      "num": 1233931,
+      "num": 1275328,
       "word": "以国之名接英雄回家微纪录",
       "onboard_time": 1701056795,
       "rank": 2,
