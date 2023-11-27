@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701094659437,
+  "endTime": 1701095726523,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -5531,6 +5531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1178869,
+      "num": 1178869,
+      "word": "渐冻人网红卓君去世",
+      "onboard_time": 1701091717,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1178240,
       "num": 1178240,
       "word": "韩国总统祝贺T1夺冠",
@@ -5801,14 +5809,6 @@
       "onboard_time": 1699971573,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1149321,
-      "num": 1149321,
-      "word": "渐冻人网红卓君去世",
-      "onboard_time": 1701091717,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1149137,
@@ -13897,6 +13897,14 @@
       "onboard_time": 1700225556,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 607983,
+      "num": 607983,
+      "word": "外卖酸菜鱼的生存环境",
+      "onboard_time": 1701092017,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 607609,
@@ -22651,6 +22659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 406084,
+      "num": 406084,
+      "word": "张杰 老友们下次聚",
+      "onboard_time": 1701095015,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405929,
       "num": 405929,
       "word": "樊振东1比3李尚洙",
@@ -24555,14 +24571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 377952,
-      "num": 377952,
-      "word": "外卖酸菜鱼的生存环境",
-      "onboard_time": 1701092017,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 377859,
       "num": 377859,
       "word": "Meiko回应Viper",
@@ -25353,6 +25361,14 @@
       "onboard_time": 1700978133,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 366390,
+      "num": 266655,
+      "word": "青春剧为什么不拍研究生",
+      "onboard_time": 1701095015,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 366348,
@@ -34643,6 +34659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 266054,
+      "num": 266054,
+      "word": "人大食堂烤鹅腿限量500只3种口味",
+      "onboard_time": 1701094776,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 265873,
       "num": 265873,
       "word": "Rookie解说",
@@ -38659,6 +38683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237948,
+      "num": 267872,
+      "word": "特斯拉回应成都连撞11车事故",
+      "onboard_time": 1701089436,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237807,
       "num": 215042,
       "word": "结婚是否会降低生活质量",
@@ -39737,6 +39769,14 @@
       "onboard_time": 1700200834,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230901,
+      "num": 230901,
+      "word": "张元英粉色小香风造型",
+      "onboard_time": 1701095435,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230884,
@@ -40969,6 +41009,14 @@
       "onboard_time": 1699712254,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224341,
+      "num": 224341,
+      "word": "因为网恋我读了个大学",
+      "onboard_time": 1701095435,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 224268,
@@ -42227,14 +42275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 217299,
-      "num": 241515,
-      "word": "特斯拉回应成都连撞11车事故",
-      "onboard_time": 1701089436,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217211,
       "num": 882942,
       "word": "我可以47",
@@ -42753,6 +42793,14 @@
       "onboard_time": 1699233573,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 214553,
+      "num": 214553,
+      "word": "陈都灵扮演野心皇后",
+      "onboard_time": 1701093998,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 214478,
@@ -44561,6 +44609,14 @@
       "onboard_time": 1699424198,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206954,
+      "num": 206954,
+      "word": "何猷君奚梦瑶 爱的具象化",
+      "onboard_time": 1701094835,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 206950,
@@ -52051,6 +52107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180411,
+      "num": 180411,
+      "word": "LNG 接SSM",
+      "onboard_time": 1701095560,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180406,
       "num": 180406,
       "word": "宋茜新中式穿搭",
@@ -54377,14 +54441,6 @@
       "onboard_time": 1699887396,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170657,
-      "num": 170657,
-      "word": "陈都灵扮演野心皇后",
-      "onboard_time": 1701093998,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 170638,
@@ -57139,6 +57195,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 159174,
+      "num": 159174,
+      "word": "您知道现充是什么吗",
+      "onboard_time": 1701094416,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159155,
       "num": 159155,
       "word": "KPL亚运小队限定封面大片",
@@ -59203,6 +59267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150127,
+      "num": 150127,
+      "word": "部分人的粉底色号都偏白了",
+      "onboard_time": 1701092498,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 150103,
       "num": 150103,
       "word": "湖人vs太阳",
@@ -60185,14 +60257,6 @@
       "onboard_time": 1699366117,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 146744,
-      "num": 146744,
-      "word": "部分人的粉底色号都偏白了",
-      "onboard_time": 1701092498,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 146720,
@@ -62793,14 +62857,6 @@
       "onboard_time": 1700447914,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135875,
-      "num": 135875,
-      "word": "您知道现充是什么吗",
-      "onboard_time": 1701094416,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 135800,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 22:17:39
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 22:35:26
 </p>
 </blockquote>
 <p>
@@ -4161,6 +4161,12 @@ TheShy回应是否退役（热度：1185814）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
+渐冻人网红卓君去世（热度：1178869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%A5%9D%E8%B4%BAT1%E5%A4%BA%E5%86%A0%23" target="weibo">
 韩国总统祝贺T1夺冠（热度：1178240）
 </a>
@@ -4361,12 +4367,6 @@ iG官宣新阵容（热度：1158154）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%B3%BB%E7%BA%AC%20%E4%BC%9A%E6%BC%94%23" target="weibo">
 周峻纬 会演（热度：1150093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E4%BA%BA%E7%BD%91%E7%BA%A2%E5%8D%93%E5%90%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
-渐冻人网红卓君去世（热度：1149321）
 </a>
 </li>
 
