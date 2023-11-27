@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701056094830,
+  "endTime": 1701058919890,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -283,6 +283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1167909,
+      "num": 1167909,
+      "word": "马航MH370乘客家属索赔案今天开庭",
+      "onboard_time": 1701054455,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1159980,
       "num": 1159980,
       "word": "国考笔试今日开考",
@@ -297,14 +305,6 @@
       "onboard_time": 1701040162,
       "rank": 11,
       "category": "旅游,网红"
-    },
-    {
-      "raw_hot": 1081636,
-      "num": 1081636,
-      "word": "马航MH370乘客家属索赔案今天开庭",
-      "onboard_time": 1701054455,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1066447,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 862946,
+      "num": 712843,
+      "word": "中式恐怖",
+      "onboard_time": 1701053913,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 860761,
       "num": 860761,
       "word": "王鹤棣躺在王传君怀里聊天",
@@ -552,14 +560,6 @@
       "word": "纸性恋",
       "onboard_time": 1700961211,
       "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 712843,
-      "num": 712843,
-      "word": "中式恐怖",
-      "onboard_time": 1701053913,
-      "rank": 12,
       "category": "情感"
     },
     {
@@ -787,6 +787,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 553695,
+      "num": 553695,
+      "word": "郑州大学取消公众入校限制",
+      "onboard_time": 1701058117,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 551601,
       "num": 551601,
       "word": "花少 迪丽热巴双商",
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505371,
+      "num": 505371,
+      "word": "周杰伦演唱会长沙站获批",
+      "onboard_time": 1701056557,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 502925,
       "num": 356762,
       "word": "白敬亭倪妮坐一起",
@@ -945,6 +961,14 @@
       "onboard_time": 1701001833,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 487810,
+      "num": 487810,
+      "word": "字节跳动将关闭游戏朝夕光年",
+      "onboard_time": 1701057937,
+      "rank": 13,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 486959,
@@ -1515,6 +1539,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 331055,
+      "num": 331055,
+      "word": "李安 宁愿犯错不要boring",
+      "onboard_time": 1701056075,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328564,
       "num": 328564,
       "word": "行测全靠蒙申论练书法",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1701047618,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325333,
+      "num": 325333,
+      "word": "白鹿丝巾编发",
+      "onboard_time": 1701058357,
+      "rank": 21,
+      "category": "剧集,美妆"
     },
     {
       "raw_hot": 324957,
@@ -1609,6 +1649,14 @@
       "onboard_time": 1700963610,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 315571,
+      "num": 315571,
+      "word": "种地吧直播",
+      "onboard_time": 1701057273,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 314648,
@@ -1811,6 +1859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284461,
+      "num": 284461,
+      "word": "宁远舟性张力",
+      "onboard_time": 1701057519,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284055,
       "num": 284055,
       "word": "YG味",
@@ -1883,6 +1939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 280211,
+      "num": 280211,
+      "word": "烈士的遗物是遗留在体内的子弹",
+      "onboard_time": 1701056317,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 278382,
       "num": 234558,
       "word": "热搜vs孤注一掷",
@@ -1947,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271221,
+      "num": 263359,
+      "word": "白月梵星 竹林对手戏",
+      "onboard_time": 1701056135,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270037,
       "num": 231528,
       "word": "刘诗诗紫色宫装造型",
@@ -2001,6 +2073,14 @@
       "onboard_time": 1701051572,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261167,
+      "num": 261167,
+      "word": "林俊杰 宿命感直接拉满",
+      "onboard_time": 1701056254,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 260920,
@@ -2475,6 +2555,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 210221,
+      "num": 210221,
+      "word": "冬天赖床其实是身体在保护你",
+      "onboard_time": 1701057759,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 208840,
       "num": 208840,
       "word": "国考时间",
@@ -2497,6 +2585,14 @@
       "onboard_time": 1701051515,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 207404,
+      "num": 207404,
+      "word": "周迅景岚 困在母职里的主动陪葬",
+      "onboard_time": 1701058596,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 207087,
@@ -2537,6 +2633,14 @@
       "onboard_time": 1700972735,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204192,
+      "num": 204192,
+      "word": "纪焕博陈少熙 爱情中的缺爱者",
+      "onboard_time": 1701056433,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 202407,
@@ -2731,6 +2835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192381,
+      "num": 1322295,
+      "word": "鬼斧神工的大自然又出新作",
+      "onboard_time": 1701057337,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192271,
       "num": 192271,
       "word": "NCT127九个人的安可",
@@ -2857,6 +2969,14 @@
       "onboard_time": 1700980229,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187718,
+      "num": 179743,
+      "word": "微博视界大会",
+      "onboard_time": 1701058476,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 187438,
@@ -3017,6 +3137,14 @@
       "onboard_time": 1700998356,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 175689,
+      "num": 175689,
+      "word": "谢危女儿奴",
+      "onboard_time": 1701057337,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 175339,
@@ -3395,14 +3523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143011,
-      "num": 143011,
-      "word": "李安 宁愿犯错不要boring",
-      "onboard_time": 1701056075,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 142829,
       "num": 142829,
       "word": "年轻人择业观念的变迁幅度",
@@ -3617,6 +3737,14 @@
       "onboard_time": 1700906258,
       "rank": 28,
       "category": "国外时政,科学科普"
+    },
+    {
+      "raw_hot": 125193,
+      "num": 125193,
+      "word": "海贼王角色风格穿搭",
+      "onboard_time": 1701057997,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 124747,
