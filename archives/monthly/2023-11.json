@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701052191091,
+  "endTime": 1701052829135,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -4883,6 +4883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1274380,
+      "num": 1274380,
+      "word": "朵拉统治姐圈",
+      "onboard_time": 1701049232,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1274245,
       "num": 430093,
       "word": "杨紫 还没出图",
@@ -4897,6 +4905,14 @@
       "onboard_time": 1699197516,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1271961,
+      "num": 1271961,
+      "word": "YG官网删除权志龙",
+      "onboard_time": 1701051213,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1270446,
@@ -4953,14 +4969,6 @@
       "onboard_time": 1699114111,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1259609,
-      "num": 1259609,
-      "word": "朵拉统治姐圈",
-      "onboard_time": 1701049232,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1258946,
@@ -6201,14 +6209,6 @@
       "onboard_time": 1700392239,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1071252,
-      "num": 1071252,
-      "word": "YG官网删除权志龙",
-      "onboard_time": 1701051213,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1068182,
@@ -9443,6 +9443,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 789676,
+      "num": 789676,
+      "word": "周一的我被确诊为安陵容",
+      "onboard_time": 1701049717,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 788831,
       "num": 576433,
       "word": "杨幂鎏金羽翼裙",
@@ -11331,14 +11339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 695248,
-      "num": 695248,
-      "word": "周一的我被确诊为安陵容",
-      "onboard_time": 1701049717,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 694173,
       "num": 694173,
       "word": "韩媒说国足从未出现过巨星",
@@ -12916,7 +12916,7 @@
     },
     {
       "raw_hot": 626094,
-      "num": 514465,
+      "num": 534317,
       "word": "A股",
       "onboard_time": 1698844656,
       "rank": 46,
@@ -17747,6 +17747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 489170,
+      "num": 489170,
+      "word": "酱园弄女二 倪妮",
+      "onboard_time": 1701051993,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 489005,
       "num": 489005,
       "word": "T1英雄池 ban不完",
@@ -18025,6 +18033,14 @@
       "onboard_time": 1699363536,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 483287,
+      "num": 483287,
+      "word": "孙悟空 男主人设天花板",
+      "onboard_time": 1701049892,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 483104,
@@ -18324,7 +18340,7 @@
     },
     {
       "raw_hot": 476545,
-      "num": 281969,
+      "num": 285868,
       "word": "曾黎20年前后穿婚纱对比",
       "onboard_time": 1701046957,
       "rank": 21,
@@ -19323,14 +19339,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 455844,
-      "num": 455844,
-      "word": "孙悟空 男主人设天花板",
-      "onboard_time": 1701049892,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 455750,
       "num": 379867,
       "word": "金南俊朴智旻金泰亨田柾国准备入伍",
@@ -19617,6 +19625,14 @@
       "onboard_time": 1699873952,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448442,
+      "num": 448442,
+      "word": "澳门物价",
+      "onboard_time": 1701051691,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 448329,
@@ -22924,7 +22940,7 @@
     },
     {
       "raw_hot": 392017,
-      "num": 280232,
+      "num": 297026,
       "word": "面色发黄其实是身体发出的求救信号",
       "onboard_time": 1701047796,
       "rank": 22,
@@ -29139,6 +29155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309935,
+      "num": 309935,
+      "word": "封神第一部 远在天边",
+      "onboard_time": 1701051391,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309784,
       "num": 309784,
       "word": "你这样碧婷知道吗",
@@ -31947,6 +31971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281474,
+      "num": 297563,
+      "word": "字节游戏裁员",
+      "onboard_time": 1701052653,
+      "rank": 18,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 281434,
       "num": 254366,
       "word": "研究表明频繁使用手机或降低精液质量",
@@ -32737,6 +32769,14 @@
       "onboard_time": 1700625573,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 274279,
+      "num": 274279,
+      "word": "方圆脸换头",
+      "onboard_time": 1701051932,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 274173,
@@ -33819,6 +33859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264606,
+      "num": 264606,
+      "word": "孙兴慜越位帽子戏法",
+      "onboard_time": 1701051273,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264583,
       "num": 264583,
       "word": "孤舟过审",
@@ -33857,14 +33905,6 @@
       "onboard_time": 1699082430,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 264324,
-      "num": 236657,
-      "word": "封神第一部 远在天边",
-      "onboard_time": 1701051391,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 264162,
@@ -34185,6 +34225,14 @@
       "onboard_time": 1700138318,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 261691,
+      "num": 261691,
+      "word": "宁安如梦 表情乱飞",
+      "onboard_time": 1701051572,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 261644,
@@ -36091,14 +36139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247567,
-      "num": 247567,
-      "word": "孙兴慜越位帽子戏法",
-      "onboard_time": 1701051273,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247510,
       "num": 217062,
       "word": "小虎 燃烧吧",
@@ -36747,6 +36787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243878,
+      "num": 239322,
+      "word": "别再用喷雾保湿了",
+      "onboard_time": 1701051932,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 243877,
       "num": 243877,
       "word": "张远说不后悔没选陈楚生部落",
@@ -36993,14 +37041,6 @@
       "onboard_time": 1699004133,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241961,
-      "num": 241961,
-      "word": "澳门物价",
-      "onboard_time": 1701051691,
-      "rank": 24,
-      "category": "旅游"
     },
     {
       "raw_hot": 241820,
@@ -37489,14 +37529,6 @@
       "onboard_time": 1700906137,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238514,
-      "num": 205697,
-      "word": "方圆脸换头",
-      "onboard_time": 1701051932,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 238469,
@@ -39363,14 +39395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226815,
-      "num": 226815,
-      "word": "酱园弄女二 倪妮",
-      "onboard_time": 1701051993,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 226808,
       "num": 226808,
       "word": "一岁半萌娃发量惊人像戴了假发",
@@ -40809,14 +40833,6 @@
       "onboard_time": 1699686269,
       "rank": 25,
       "category": "艺人,运动健身"
-    },
-    {
-      "raw_hot": 218514,
-      "num": 203786,
-      "word": "宁安如梦 表情乱飞",
-      "onboard_time": 1701051572,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 218497,
@@ -42259,14 +42275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211196,
-      "num": 202152,
-      "word": "别再用喷雾保湿了",
-      "onboard_time": 1701051932,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 211150,
       "num": 211150,
       "word": "洗漱后护肤黄金3分钟别错过",
@@ -43177,6 +43185,14 @@
       "onboard_time": 1700220333,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 207428,
+      "num": 207428,
+      "word": "班主任自费给学生定制挡风被",
+      "onboard_time": 1701051515,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 207406,
@@ -46963,6 +46979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194079,
+      "num": 194079,
+      "word": "布克28分",
+      "onboard_time": 1701052232,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194070,
       "num": 194070,
       "word": "谢危偷亲姜雪宁",
@@ -49539,6 +49563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185370,
+      "num": 185370,
+      "word": "赵露思卡通纹身贴",
+      "onboard_time": 1701049594,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185357,
       "num": 185357,
       "word": "胡歌为周深新歌打call",
@@ -50225,14 +50257,6 @@
       "onboard_time": 1699346015,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182133,
-      "num": 182133,
-      "word": "赵露思卡通纹身贴",
-      "onboard_time": 1701049594,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 182131,
@@ -52073,14 +52097,6 @@
       "onboard_time": 1700832934,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173676,
-      "num": 173676,
-      "word": "班主任自费给学生定制挡风被",
-      "onboard_time": 1701051515,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 173662,
@@ -59059,6 +59075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 143974,
+      "num": 143974,
+      "word": "供应商曝羽绒服高价真相",
+      "onboard_time": 1701052715,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 143973,
       "num": 143973,
       "word": "谢娜猫眼泪痣妆",
@@ -60785,6 +60809,14 @@
       "onboard_time": 1700461773,
       "rank": 29,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 136537,
+      "num": 136537,
+      "word": "女生无意将沃柑放柜子1周变霉球",
+      "onboard_time": 1701052715,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136512,
@@ -70089,6 +70121,14 @@
       "onboard_time": 1700223576,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73766,
+      "num": 128207,
+      "word": "长时间用手机如何避免伤眼",
+      "onboard_time": 1701052773,
+      "rank": 49,
+      "category": "数码,科学科普"
     },
     {
       "raw_hot": 73738,

@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701052191091,
+  "endTime": 1701052829135,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -251,12 +251,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1259609,
-      "num": 1259609,
+      "raw_hot": 1274380,
+      "num": 1274380,
       "word": "朵拉统治姐圈",
       "onboard_time": 1701049232,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1271961,
+      "num": 1271961,
+      "word": "YG官网删除权志龙",
+      "onboard_time": 1701051213,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1185764,
@@ -281,14 +289,6 @@
       "onboard_time": 1701040162,
       "rank": 11,
       "category": "旅游,网红"
-    },
-    {
-      "raw_hot": 1071252,
-      "num": 1071252,
-      "word": "YG官网删除权志龙",
-      "onboard_time": 1701051213,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1066447,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789676,
+      "num": 789676,
+      "word": "周一的我被确诊为安陵容",
+      "onboard_time": 1701049717,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 744685,
       "num": 744685,
       "word": "伍佰合肥演唱会被曝观众大喊退票",
@@ -521,14 +529,6 @@
       "onboard_time": 1700984612,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 695248,
-      "num": 695248,
-      "word": "周一的我被确诊为安陵容",
-      "onboard_time": 1701049717,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 687609,
@@ -604,7 +604,7 @@
     },
     {
       "raw_hot": 626094,
-      "num": 514465,
+      "num": 534317,
       "word": "A股",
       "onboard_time": 1701051093,
       "rank": 10,
@@ -875,6 +875,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 489170,
+      "num": 489170,
+      "word": "酱园弄女二 倪妮",
+      "onboard_time": 1701051993,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 486959,
       "num": 376773,
       "word": "杨幂复古丝绒绿裙",
@@ -889,6 +897,14 @@
       "onboard_time": 1700925882,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 483287,
+      "num": 483287,
+      "word": "孙悟空 男主人设天花板",
+      "onboard_time": 1701049892,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 480399,
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 476545,
-      "num": 281969,
+      "num": 285868,
       "word": "曾黎20年前后穿婚纱对比",
       "onboard_time": 1701046957,
       "rank": 21,
@@ -979,14 +995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 455844,
-      "num": 455844,
-      "word": "孙悟空 男主人设天花板",
-      "onboard_time": 1701049892,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 454495,
       "num": 454495,
       "word": "林青霞 金马终身成就奖",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1700988633,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 448442,
+      "num": 448442,
+      "word": "澳门物价",
+      "onboard_time": 1701051691,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 447864,
@@ -1188,7 +1204,7 @@
     },
     {
       "raw_hot": 392017,
-      "num": 280232,
+      "num": 297026,
       "word": "面色发黄其实是身体发出的求救信号",
       "onboard_time": 1701047796,
       "rank": 22,
@@ -1539,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 309935,
+      "num": 309935,
+      "word": "封神第一部 远在天边",
+      "onboard_time": 1701051391,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309336,
       "num": 309336,
       "word": "帮爷爷查话费时看到的短信记录",
@@ -1771,6 +1795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281474,
+      "num": 297563,
+      "word": "字节游戏裁员",
+      "onboard_time": 1701052653,
+      "rank": 18,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 278382,
       "num": 234558,
       "word": "热搜vs孤注一掷",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1700956527,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274279,
+      "num": 274279,
+      "word": "方圆脸换头",
+      "onboard_time": 1701051932,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 273612,
@@ -1859,12 +1899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264324,
-      "num": 236657,
-      "word": "封神第一部 远在天边",
-      "onboard_time": 1701051391,
-      "rank": 25,
-      "category": "电影"
+      "raw_hot": 264606,
+      "num": 264606,
+      "word": "孙兴慜越位帽子戏法",
+      "onboard_time": 1701051273,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 263322,
@@ -1873,6 +1913,14 @@
       "onboard_time": 1700966313,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261691,
+      "num": 261691,
+      "word": "宁安如梦 表情乱飞",
+      "onboard_time": 1701051572,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 260920,
@@ -1995,14 +2043,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 247567,
-      "num": 247567,
-      "word": "孙兴慜越位帽子戏法",
-      "onboard_time": 1701051273,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247237,
       "num": 182044,
       "word": "王鹤棣 e人社交",
@@ -2027,12 +2067,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241961,
-      "num": 241961,
-      "word": "澳门物价",
-      "onboard_time": 1701051691,
-      "rank": 24,
-      "category": "旅游"
+      "raw_hot": 243878,
+      "num": 239322,
+      "word": "别再用喷雾保湿了",
+      "onboard_time": 1701051932,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 241425,
@@ -2065,14 +2105,6 @@
       "onboard_time": 1700959771,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238514,
-      "num": 205697,
-      "word": "方圆脸换头",
-      "onboard_time": 1701051932,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 237677,
@@ -2187,14 +2219,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 226815,
-      "num": 226815,
-      "word": "酱园弄女二 倪妮",
-      "onboard_time": 1701051993,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 226719,
       "num": 208299,
       "word": "白鹿范丞丞 显眼包二人组",
@@ -2299,14 +2323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218514,
-      "num": 203786,
-      "word": "宁安如梦 表情乱飞",
-      "onboard_time": 1701051572,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217851,
       "num": 217851,
       "word": "二进制小品",
@@ -2371,14 +2387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211196,
-      "num": 202152,
-      "word": "别再用喷雾保湿了",
-      "onboard_time": 1701051932,
-      "rank": 32,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 208840,
       "num": 208840,
       "word": "国考时间",
@@ -2393,6 +2401,14 @@
       "onboard_time": 1700971175,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207428,
+      "num": 207428,
+      "word": "班主任自费给学生定制挡风被",
+      "onboard_time": 1701051515,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 207087,
@@ -2595,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194079,
+      "num": 194079,
+      "word": "布克28分",
+      "onboard_time": 1701052232,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194069,
       "num": 183404,
       "word": "张泽禹成为队长",
@@ -2763,6 +2787,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 185370,
+      "num": 185370,
+      "word": "赵露思卡通纹身贴",
+      "onboard_time": 1701049594,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184094,
       "num": 184094,
       "word": "曾黎跳了SweetVenom",
@@ -2793,14 +2825,6 @@
       "onboard_time": 1700984732,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182133,
-      "num": 182133,
-      "word": "赵露思卡通纹身贴",
-      "onboard_time": 1701049594,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 181594,
@@ -2881,14 +2905,6 @@
       "onboard_time": 1700923244,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 173676,
-      "num": 173676,
-      "word": "班主任自费给学生定制挡风被",
-      "onboard_time": 1701051515,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 171884,
@@ -3235,6 +3251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143974,
+      "num": 143974,
+      "word": "供应商曝羽绒服高价真相",
+      "onboard_time": 1701052715,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 142629,
       "num": 142629,
       "word": "庄稼不会半夜给下属打电话",
@@ -3345,6 +3369,14 @@
       "onboard_time": 1701042686,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136537,
+      "num": 136537,
+      "word": "女生无意将沃柑放柜子1周变霉球",
+      "onboard_time": 1701052715,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136469,
@@ -3697,6 +3729,14 @@
       "onboard_time": 1700955024,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73766,
+      "num": 128207,
+      "word": "长时间用手机如何避免伤眼",
+      "onboard_time": 1701052773,
+      "rank": 49,
+      "category": "数码,科学科普"
     },
     {
       "raw_hot": 72845,
