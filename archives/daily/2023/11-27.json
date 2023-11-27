@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701052829135,
+  "endTime": 1701055119093,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -9,6 +9,14 @@
       "onboard_time": 1701047496,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2273280,
+      "num": 2273280,
+      "word": "杨幂朵拉头",
+      "onboard_time": 1701053552,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2127466,
@@ -83,6 +91,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 960114,
+      "num": 960114,
+      "word": "周一的我被确诊为安陵容",
+      "onboard_time": 1701049717,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 849224,
       "num": 497299,
       "word": "宋轶社交 白敬亭不知道在忙什么",
@@ -115,12 +131,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 789676,
-      "num": 789676,
-      "word": "周一的我被确诊为安陵容",
-      "onboard_time": 1701049717,
-      "rank": 7,
-      "category": "幽默"
+      "raw_hot": 692290,
+      "num": 692290,
+      "word": "女生无意将沃柑放柜子1周变霉球",
+      "onboard_time": 1701052715,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688413,
+      "num": 688413,
+      "word": "澳门物价",
+      "onboard_time": 1701051691,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 683108,
@@ -131,12 +155,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656986,
+      "num": 656986,
+      "word": "酱园弄女二 倪妮",
+      "onboard_time": 1701051993,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 633113,
+      "num": 633113,
+      "word": "字节游戏裁员",
+      "onboard_time": 1701052653,
+      "rank": 18,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 626094,
       "num": 534317,
       "word": "A股",
       "onboard_time": 1701051093,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 560559,
+      "num": 560559,
+      "word": "供应商曝羽绒服高价真相",
+      "onboard_time": 1701052715,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 543307,
@@ -163,20 +211,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 508650,
+      "num": 508650,
+      "word": "中式恐怖",
+      "onboard_time": 1701053913,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 502772,
       "num": 284564,
       "word": "辛芷蕾P了Q版迪丽热巴",
       "onboard_time": 1701013656,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 489170,
-      "num": 489170,
-      "word": "酱园弄女二 倪妮",
-      "onboard_time": 1701051993,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 483287,
@@ -203,20 +251,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 448442,
-      "num": 448442,
-      "word": "澳门物价",
-      "onboard_time": 1701051691,
-      "rank": 24,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 438186,
       "num": 284090,
       "word": "易烊千玺景德镇",
       "onboard_time": 1701014613,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430775,
+      "num": 430775,
+      "word": "马航MH370乘客家属索赔案今天开庭",
+      "onboard_time": 1701054455,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409760,
@@ -233,6 +281,14 @@
       "onboard_time": 1701003158,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408875,
+      "num": 408875,
+      "word": "海清说张桂梅会影响她很久很久",
+      "onboard_time": 1701042568,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 405739,
@@ -283,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366373,
+      "num": 366373,
+      "word": "重庆市原副市长熊雪被决定逮捕",
+      "onboard_time": 1701053853,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361221,
       "num": 284385,
       "word": "为什么肚子总是咕噜咕噜响",
@@ -315,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318063,
-      "num": 318063,
-      "word": "海清说张桂梅会影响她很久很久",
-      "onboard_time": 1701042568,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 324957,
+      "num": 324957,
+      "word": "MMA最终出演阵容",
+      "onboard_time": 1701054633,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 316623,
@@ -331,20 +395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312084,
+      "num": 312084,
+      "word": "封神第一部 远在天边",
+      "onboard_time": 1701051391,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311298,
       "num": 283744,
       "word": "张婧仪 越素越美",
       "onboard_time": 1701009099,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 309935,
-      "num": 309935,
-      "word": "封神第一部 远在天边",
-      "onboard_time": 1701051391,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 309294,
@@ -411,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281474,
-      "num": 297563,
-      "word": "字节游戏裁员",
-      "onboard_time": 1701052653,
-      "rank": 18,
-      "category": "互联网,游戏"
-    },
-    {
       "raw_hot": 278382,
       "num": 234558,
       "word": "热搜vs孤注一掷",
@@ -465,6 +521,14 @@
       "onboard_time": 1701041726,
       "rank": 24,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 249315,
+      "num": 249315,
+      "word": "国考山东赶考人数再创新高",
+      "onboard_time": 1701054274,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 243878,
@@ -579,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198658,
+      "num": 198658,
+      "word": "一直娱",
+      "onboard_time": 1701054814,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196968,
       "num": 196968,
       "word": "巨显发量的双麻花辫",
@@ -595,12 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191791,
+      "num": 191791,
+      "word": "得了一种想谈不能真谈的怪病",
+      "onboard_time": 1701052833,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190413,
       "num": 190413,
       "word": "东方不败煮饺子",
       "onboard_time": 1701013352,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190380,
+      "num": 190380,
+      "word": "呼吸道合胞病毒容易在婴幼儿中流行",
+      "onboard_time": 1701053733,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 190228,
@@ -619,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182370,
+      "num": 369788,
+      "word": "长时间用手机如何避免伤眼",
+      "onboard_time": 1701052773,
+      "rank": 49,
+      "category": "数码,科学科普"
+    },
+    {
       "raw_hot": 181388,
       "num": 181388,
       "word": "筷子兄弟合体了",
@@ -633,6 +729,14 @@
       "onboard_time": 1701014312,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177057,
+      "num": 177057,
+      "word": "支持民营经济25条具体举措",
+      "onboard_time": 1701054156,
+      "rank": 40,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 171164,
@@ -715,6 +819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 153514,
+      "num": 153514,
+      "word": "用鬼怪的方式打开王鹤棣",
+      "onboard_time": 1701052891,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148423,
       "num": 148423,
       "word": "朴宰范也喜欢茅台",
@@ -731,20 +843,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143974,
-      "num": 143974,
-      "word": "供应商曝羽绒服高价真相",
-      "onboard_time": 1701052715,
-      "rank": 43,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 143063,
       "num": 143063,
       "word": "成毅张凌赫一个憨一个盲",
       "onboard_time": 1701008677,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142829,
+      "num": 142829,
+      "word": "年轻人择业观念的变迁幅度",
+      "onboard_time": 1701054571,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 142629,
@@ -763,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138782,
+      "num": 138782,
+      "word": "一路前行 胡歌逗牧民小孩",
+      "onboard_time": 1701053133,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137895,
       "num": 137895,
       "word": "涉过愤怒的海",
@@ -771,12 +891,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 136537,
-      "num": 136537,
-      "word": "女生无意将沃柑放柜子1周变霉球",
-      "onboard_time": 1701052715,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 135764,
+      "num": 135764,
+      "word": "没有一顿火锅解决不了的事定档",
+      "onboard_time": 1701053309,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 135478,
@@ -993,14 +1113,6 @@
       "onboard_time": 1701002016,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73766,
-      "num": 128207,
-      "word": "长时间用手机如何避免伤眼",
-      "onboard_time": 1701052773,
-      "rank": 49,
-      "category": "数码,科学科普"
     },
     {
       "raw_hot": 71119,
