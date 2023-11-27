@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701124447744,
+  "endTime": 1701127073864,
   "band_list": [
     {
       "raw_hot": 973471,
@@ -8,6 +8,14 @@
       "word": "北京现有艾滋病感染者及患者27285人",
       "onboard_time": 1701088115,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 951739,
+      "num": 951739,
+      "word": "嗓子疼",
+      "onboard_time": 1701115395,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -51,20 +59,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 561369,
+      "num": 561369,
+      "word": "海底捞回应奖励3000元给跳科目三员工",
+      "onboard_time": 1701102507,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543136,
       "num": 327965,
       "word": "滴滴崩了",
       "onboard_time": 1701095978,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 509373,
-      "num": 509373,
-      "word": "海底捞回应奖励3000元给跳科目三员工",
-      "onboard_time": 1701102507,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475365,
@@ -89,14 +97,6 @@
       "onboard_time": 1701072454,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 400343,
-      "num": 400343,
-      "word": "嗓子疼",
-      "onboard_time": 1701115395,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385897,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265414,
+      "num": 265414,
+      "word": "医生建议咳嗽打喷嚏养成1个习惯",
+      "onboard_time": 1701097834,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 257565,
       "num": 175931,
       "word": "青春剧为什么不拍研究生",
@@ -145,6 +153,14 @@
       "onboard_time": 1701088415,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 229316,
+      "num": 229316,
+      "word": "丈夫第一次刷鞋将妻子千元靴变皮干",
+      "onboard_time": 1701087571,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216552,
@@ -187,14 +203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 182892,
-      "num": 174467,
-      "word": "医生建议咳嗽打喷嚏养成1个习惯",
-      "onboard_time": 1701097834,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 178199,
       "num": 178199,
       "word": "吴京口误 我是闫妮老公",
@@ -217,14 +225,6 @@
       "onboard_time": 1701096637,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166952,
-      "num": 177542,
-      "word": "丈夫第一次刷鞋将妻子千元靴变皮干",
-      "onboard_time": 1701087571,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157744,
@@ -251,20 +251,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151519,
+      "num": 151519,
+      "word": "30年前真的是对暗号取钱的",
+      "onboard_time": 1701121873,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148838,
+      "num": 148838,
+      "word": "张雨绮加入朵拉宇宙",
+      "onboard_time": 1701089316,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145884,
       "num": 145884,
       "word": "谁懂孙千这句笨蛋的杀伤力",
       "onboard_time": 1701088957,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145155,
-      "num": 145155,
-      "word": "张雨绮加入朵拉宇宙",
-      "onboard_time": 1701089316,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 145128,
@@ -323,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110436,
+      "num": 110436,
+      "word": "特斯拉回应成都连撞11车事故",
+      "onboard_time": 1701089436,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110012,
       "num": 110012,
       "word": "刻俩萝卜章骗了300亿",
@@ -339,20 +355,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 105361,
+      "num": 105361,
+      "word": "00后小伙跳科目三致胫骨挫伤",
+      "onboard_time": 1701121634,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104960,
       "num": 104960,
       "word": "美嘉仿妆",
       "onboard_time": 1701096995,
       "rank": 41,
       "category": "美妆,作品衍生"
-    },
-    {
-      "raw_hot": 104110,
-      "num": 104110,
-      "word": "特斯拉回应成都连撞11车事故",
-      "onboard_time": 1701089436,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103579,
@@ -443,12 +459,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60826,
+      "num": 60826,
+      "word": "特斯拉称门把手被冻住挥拳用力打即可",
+      "onboard_time": 1701126382,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57555,
       "num": 57555,
       "word": "陆毅鲍蕾分享育儿经验",
       "onboard_time": 1701105439,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 57253,
+      "num": 57253,
+      "word": "袁弘叫胡歌往旁边挪半个屁股",
+      "onboard_time": 1701088054,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 56766,
@@ -459,12 +491,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55176,
-      "num": 55176,
+      "raw_hot": 56731,
+      "num": 56731,
       "word": "袁姗姗在线求固定猫窝的方法",
       "onboard_time": 1701116892,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55667,
+      "num": 55667,
+      "word": "任如意满级大佬回村装菜鸟",
+      "onboard_time": 1701124759,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55582,
+      "num": 54641,
+      "word": "睡前护肤 姐皮肤好是应得的",
+      "onboard_time": 1701115153,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 54888,
@@ -475,52 +523,44 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 48566,
-      "num": 48566,
-      "word": "何猷君 最强大脑变最强恋爱脑",
-      "onboard_time": 1701090033,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 43791,
-      "num": 48523,
-      "word": "袁弘叫胡歌往旁边挪半个屁股",
-      "onboard_time": 1701088054,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 32700,
-      "num": 32700,
+      "raw_hot": 52553,
+      "num": 52553,
       "word": "何猷君记得每张照片下的回忆",
       "onboard_time": 1701119654,
       "rank": 48,
       "category": "综艺"
     },
     {
-      "raw_hot": 29990,
-      "num": 29990,
-      "word": "30年前真的是对暗号取钱的",
-      "onboard_time": 1701121873,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 48566,
+      "num": 52519,
+      "word": "何猷君 最强大脑变最强恋爱脑",
+      "onboard_time": 1701090033,
+      "rank": 45,
+      "category": "综艺"
     },
     {
-      "raw_hot": 28119,
-      "num": 28119,
+      "raw_hot": 32417,
+      "num": 52512,
+      "word": "马思纯多巴胺围巾",
+      "onboard_time": 1701110236,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 31310,
+      "num": 52506,
+      "word": "陈都灵扮演野心皇后",
+      "onboard_time": 1701093998,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31212,
+      "num": 52493,
       "word": "谭松韵新片黄金嫁妆是吴京提的",
       "onboard_time": 1701118273,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 27383,
-      "num": 27383,
-      "word": "00后小伙跳科目三致胫骨挫伤",
-      "onboard_time": 1701121634,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27010,
@@ -531,36 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26343,
-      "num": 27004,
-      "word": "陈都灵扮演野心皇后",
-      "onboard_time": 1701093998,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 24693,
       "num": 26992,
       "word": "Knight关注XUN",
       "onboard_time": 1701107239,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 22605,
-      "num": 22605,
-      "word": "马思纯多巴胺围巾",
-      "onboard_time": 1701110236,
-      "rank": 26,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 21508,
-      "num": 25169,
-      "word": "睡前护肤 姐皮肤好是应得的",
-      "onboard_time": 1701115153,
-      "rank": 42,
-      "category": "美妆"
     },
     {
       "raw_hot": 20215,
@@ -579,8 +595,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8470,
-      "num": 465447,
+      "raw_hot": 13844,
+      "num": 576262,
       "word": "链博会为国际经贸发展贡献链博智慧",
       "onboard_time": 1701089258,
       "rank": 2,

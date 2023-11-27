@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/28 00:24:00 ~ 2023/11/28 06:34:07
+本榜单时间：2023/11/28 00:24:00 ~ 2023/11/28 07:17:53
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8E%B0%E6%9C%89%E8%89%BE%E6%BB%8B%E7%97%85%E6%84%9F%E6%9F%93%E8%80%85%E5%8F%8A%E6%82%A3%E8%80%8527285%E4%BA%BA%23" target="weibo">
 北京现有艾滋病感染者及患者27285人（热度：973471）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E7%96%BC%23" target="weibo">
+嗓子疼（热度：951739）
 </a>
 </li>
 
@@ -51,14 +57,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%23" target="weibo">
-滴滴崩了（热度：543136）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E5%A5%96%E5%8A%B13000%E5%85%83%E7%BB%99%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E5%91%98%E5%B7%A5%23" target="weibo">
+海底捞回应奖励3000元给跳科目三员工（热度：561369）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E5%A5%96%E5%8A%B13000%E5%85%83%E7%BB%99%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E5%91%98%E5%B7%A5%23" target="weibo">
-海底捞回应奖励3000元给跳科目三员工（热度：509373）
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%23" target="weibo">
+滴滴崩了（热度：543136）
 </a>
 </li>
 
@@ -77,12 +83,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%88%86%E4%BA%AB%E8%AF%95%E5%90%AC%E9%9F%B3%E9%A2%91%23" target="weibo">
 易烊千玺分享试听音频（热度：455443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E7%96%BC%23" target="weibo">
-嗓子疼（热度：400343）
 </a>
 </li>
 
@@ -111,6 +111,12 @@ BLG 左手（热度：357108）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%92%B3%E5%97%BD%E6%89%93%E5%96%B7%E5%9A%8F%E5%85%BB%E6%88%901%E4%B8%AA%E4%B9%A0%E6%83%AF%23" target="weibo">
+医生建议咳嗽打喷嚏养成1个习惯（热度：265414）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%89%A7%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8B%8D%E7%A0%94%E7%A9%B6%E7%94%9F%23" target="weibo">
 青春剧为什么不拍研究生（热度：257565）
 </a>
@@ -119,6 +125,12 @@ BLG 左手（热度：357108）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%A9%E8%86%80%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86%23" target="weibo">
 肩膀真的不内扣了（热度：256417）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%A6%BB%E5%AD%90%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2%23" target="weibo">
+丈夫第一次刷鞋将妻子千元靴变皮干（热度：229316）
 </a>
 </li>
 
@@ -153,12 +165,6 @@ BLG 左手（热度：357108）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%92%B3%E5%97%BD%E6%89%93%E5%96%B7%E5%9A%8F%E5%85%BB%E6%88%901%E4%B8%AA%E4%B9%A0%E6%83%AF%23" target="weibo">
-医生建议咳嗽打喷嚏养成1个习惯（热度：182892）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%8F%A3%E8%AF%AF%20%E6%88%91%E6%98%AF%E9%97%AB%E5%A6%AE%E8%80%81%E5%85%AC%23" target="weibo">
 吴京口误 我是闫妮老公（热度：178199）
 </a>
@@ -173,12 +179,6 @@ LNG 接SSM（热度：173875）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 本周狗屎运最旺的星座（热度：170734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%88%B7%E9%9E%8B%E5%B0%86%E5%A6%BB%E5%AD%90%E5%8D%83%E5%85%83%E9%9D%B4%E5%8F%98%E7%9A%AE%E5%B9%B2%23" target="weibo">
-丈夫第一次刷鞋将妻子千元靴变皮干（热度：166952）
 </a>
 </li>
 
@@ -201,14 +201,20 @@ Knight（热度：151862）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%87%82%E5%AD%99%E5%8D%83%E8%BF%99%E5%8F%A5%E7%AC%A8%E8%9B%8B%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B%23" target="weibo">
-谁懂孙千这句笨蛋的杀伤力（热度：145884）
+<a href="https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%89%8D%E7%9C%9F%E7%9A%84%E6%98%AF%E5%AF%B9%E6%9A%97%E5%8F%B7%E5%8F%96%E9%92%B1%E7%9A%84%23" target="weibo">
+30年前真的是对暗号取钱的（热度：151519）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%8A%A0%E5%85%A5%E6%9C%B5%E6%8B%89%E5%AE%87%E5%AE%99%23" target="weibo">
-张雨绮加入朵拉宇宙（热度：145155）
+张雨绮加入朵拉宇宙（热度：148838）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%87%82%E5%AD%99%E5%8D%83%E8%BF%99%E5%8F%A5%E7%AC%A8%E8%9B%8B%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B%23" target="weibo">
+谁懂孙千这句笨蛋的杀伤力（热度：145884）
 </a>
 </li>
 
@@ -255,6 +261,12 @@ Knight（热度：151862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E8%BF%9E%E6%92%9E11%E8%BD%A6%E4%BA%8B%E6%95%85%23" target="weibo">
+特斯拉回应成都连撞11车事故（热度：110436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97%E4%BA%86300%E4%BA%BF%23" target="weibo">
 刻俩萝卜章骗了300亿（热度：110012）
 </a>
@@ -267,14 +279,14 @@ Knight（热度：151862）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%98%89%E4%BB%BF%E5%A6%86%23" target="weibo">
-美嘉仿妆（热度：104960）
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E8%87%B4%E8%83%AB%E9%AA%A8%E6%8C%AB%E4%BC%A4%23" target="weibo">
+00后小伙跳科目三致胫骨挫伤（热度：105361）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E8%BF%9E%E6%92%9E11%E8%BD%A6%E4%BA%8B%E6%95%85%23" target="weibo">
-特斯拉回应成都连撞11车事故（热度：104110）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%98%89%E4%BB%BF%E5%A6%86%23" target="weibo">
+美嘉仿妆（热度：104960）
 </a>
 </li>
 
@@ -345,8 +357,20 @@ GQ嘉宾关键词（热度：92434）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E7%A7%B0%E9%97%A8%E6%8A%8A%E6%89%8B%E8%A2%AB%E5%86%BB%E4%BD%8F%E6%8C%A5%E6%8B%B3%E7%94%A8%E5%8A%9B%E6%89%93%E5%8D%B3%E5%8F%AF%23" target="weibo">
+特斯拉称门把手被冻住挥拳用力打即可（热度：60826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE%E5%88%86%E4%BA%AB%E8%82%B2%E5%84%BF%E7%BB%8F%E9%AA%8C%23" target="weibo">
 陆毅鲍蕾分享育儿经验（热度：57555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%BC%98%E5%8F%AB%E8%83%A1%E6%AD%8C%E5%BE%80%E6%97%81%E8%BE%B9%E6%8C%AA%E5%8D%8A%E4%B8%AA%E5%B1%81%E8%82%A1%23" target="weibo">
+袁弘叫胡歌往旁边挪半个屁股（热度：57253）
 </a>
 </li>
 
@@ -358,7 +382,19 @@ GQ嘉宾关键词（热度：92434）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A7%97%E5%A7%97%E5%9C%A8%E7%BA%BF%E6%B1%82%E5%9B%BA%E5%AE%9A%E7%8C%AB%E7%AA%9D%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
-袁姗姗在线求固定猫窝的方法（热度：55176）
+袁姗姗在线求固定猫窝的方法（热度：56731）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%A6%82%E6%84%8F%E6%BB%A1%E7%BA%A7%E5%A4%A7%E4%BD%AC%E5%9B%9E%E6%9D%91%E8%A3%85%E8%8F%9C%E9%B8%9F%23" target="weibo">
+任如意满级大佬回村装菜鸟（热度：55667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E6%8A%A4%E8%82%A4%20%E5%A7%90%E7%9A%AE%E8%82%A4%E5%A5%BD%E6%98%AF%E5%BA%94%E5%BE%97%E7%9A%84%23" target="weibo">
+睡前护肤 姐皮肤好是应得的（热度：55582）
 </a>
 </li>
 
@@ -369,38 +405,32 @@ GQ嘉宾关键词（热度：92434）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E8%AE%B0%E5%BE%97%E6%AF%8F%E5%BC%A0%E7%85%A7%E7%89%87%E4%B8%8B%E7%9A%84%E5%9B%9E%E5%BF%86%23" target="weibo">
+何猷君记得每张照片下的回忆（热度：52553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%20%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91%E5%8F%98%E6%9C%80%E5%BC%BA%E6%81%8B%E7%88%B1%E8%84%91%23" target="weibo">
 何猷君 最强大脑变最强恋爱脑（热度：48566）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%BC%98%E5%8F%AB%E8%83%A1%E6%AD%8C%E5%BE%80%E6%97%81%E8%BE%B9%E6%8C%AA%E5%8D%8A%E4%B8%AA%E5%B1%81%E8%82%A1%23" target="weibo">
-袁弘叫胡歌往旁边挪半个屁股（热度：43791）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%A4%9A%E5%B7%B4%E8%83%BA%E5%9B%B4%E5%B7%BE%23" target="weibo">
+马思纯多巴胺围巾（热度：32417）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E8%AE%B0%E5%BE%97%E6%AF%8F%E5%BC%A0%E7%85%A7%E7%89%87%E4%B8%8B%E7%9A%84%E5%9B%9E%E5%BF%86%23" target="weibo">
-何猷君记得每张照片下的回忆（热度：32700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%89%8D%E7%9C%9F%E7%9A%84%E6%98%AF%E5%AF%B9%E6%9A%97%E5%8F%B7%E5%8F%96%E9%92%B1%E7%9A%84%23" target="weibo">
-30年前真的是对暗号取钱的（热度：29990）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%89%AE%E6%BC%94%E9%87%8E%E5%BF%83%E7%9A%87%E5%90%8E%23" target="weibo">
+陈都灵扮演野心皇后（热度：31310）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%96%B0%E7%89%87%E9%BB%84%E9%87%91%E5%AB%81%E5%A6%86%E6%98%AF%E5%90%B4%E4%BA%AC%E6%8F%90%E7%9A%84%23" target="weibo">
-谭松韵新片黄金嫁妆是吴京提的（热度：28119）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E8%87%B4%E8%83%AB%E9%AA%A8%E6%8C%AB%E4%BC%A4%23" target="weibo">
-00后小伙跳科目三致胫骨挫伤（热度：27383）
+谭松韵新片黄金嫁妆是吴京提的（热度：31212）
 </a>
 </li>
 
@@ -411,26 +441,8 @@ GQ嘉宾关键词（热度：92434）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%89%AE%E6%BC%94%E9%87%8E%E5%BF%83%E7%9A%87%E5%90%8E%23" target="weibo">
-陈都灵扮演野心皇后（热度：26343）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Knight%E5%85%B3%E6%B3%A8XUN%23" target="weibo">
 Knight关注XUN（热度：24693）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%A4%9A%E5%B7%B4%E8%83%BA%E5%9B%B4%E5%B7%BE%23" target="weibo">
-马思纯多巴胺围巾（热度：22605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E6%8A%A4%E8%82%A4%20%E5%A7%90%E7%9A%AE%E8%82%A4%E5%A5%BD%E6%98%AF%E5%BA%94%E5%BE%97%E7%9A%84%23" target="weibo">
-睡前护肤 姐皮肤好是应得的（热度：21508）
 </a>
 </li>
 
@@ -448,7 +460,7 @@ Knight关注XUN（热度：24693）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E4%B8%BA%E5%9B%BD%E9%99%85%E7%BB%8F%E8%B4%B8%E5%8F%91%E5%B1%95%E8%B4%A1%E7%8C%AE%E9%93%BE%E5%8D%9A%E6%99%BA%E6%85%A7%23" target="weibo">
-链博会为国际经贸发展贡献链博智慧（热度：8470）
+链博会为国际经贸发展贡献链博智慧（热度：13844）
 </a>
 </li>
 
