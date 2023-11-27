@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 14:23:33
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/27 14:36:34
 </p>
 </blockquote>
 <p>
@@ -5883,6 +5883,12 @@ Zeus获FMVP（热度：912155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E8%87%AA%E7%A0%94%E7%83%A4%E9%B9%85%E8%85%BF%E5%AE%9A%E4%BB%B715%E5%85%83%23" target="weibo">
+人民大学食堂自研烤鹅腿定价15元（热度：895477）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E5%B0%86%E5%AD%A9%E5%AD%90%E5%B0%8F%E5%86%B0%E6%89%8B%E6%94%BE%E8%BF%9B%E8%87%AA%E5%B7%B1%E8%A1%A3%E6%9C%8D%E9%87%8C%23" target="weibo">
 幼师将孩子小冰手放进自己衣服里（热度：895341）
 </a>
@@ -6005,12 +6011,6 @@ GEN 五放皇子（热度：882209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%83%9E%E8%83%8E%E5%A6%88%E5%A6%88%E5%AD%90%E5%AE%AB%E5%A3%81%E4%BB%851.2%E6%AF%AB%E7%B1%B3%23" target="weibo">
 三胞胎妈妈子宫壁仅1.2毫米（热度：879893）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E5%A6%86%23" target="weibo">
-痞幼妆（热度：879589）
 </a>
 </li>
 
