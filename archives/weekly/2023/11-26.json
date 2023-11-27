@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701049034165,
+  "endTime": 1701052191091,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -89,6 +89,14 @@
       "onboard_time": 1700961395,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1932291,
+      "num": 1932291,
+      "word": "易烊千玺代言瑞幸咖啡",
+      "onboard_time": 1701048274,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1838560,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1259609,
+      "num": 1259609,
+      "word": "朵拉统治姐圈",
+      "onboard_time": 1701049232,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1185764,
       "num": 1185764,
       "word": "行政执法卷 歹毒",
@@ -265,6 +281,14 @@
       "onboard_time": 1701040162,
       "rank": 11,
       "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 1071252,
+      "num": 1071252,
+      "word": "YG官网删除权志龙",
+      "onboard_time": 1701051213,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1066447,
@@ -336,14 +360,6 @@
       "word": "金钟大女儿这么大了",
       "onboard_time": 1700989412,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 956880,
-      "num": 956880,
-      "word": "易烊千玺代言瑞幸咖啡",
-      "onboard_time": 1701048274,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -507,6 +523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 695248,
+      "num": 695248,
+      "word": "周一的我被确诊为安陵容",
+      "onboard_time": 1701049717,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 687609,
       "num": 687609,
       "word": "筷子兄弟合体了",
@@ -521,6 +545,14 @@
       "onboard_time": 1700967272,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 683108,
+      "num": 683108,
+      "word": "女子肉摊买回骨折边牧让它重获新生",
+      "onboard_time": 1701048392,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663334,
@@ -569,6 +601,14 @@
       "onboard_time": 1700996915,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 626094,
+      "num": 514465,
+      "word": "A股",
+      "onboard_time": 1701051093,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 624042,
@@ -939,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 455844,
+      "num": 455844,
+      "word": "孙悟空 男主人设天花板",
+      "onboard_time": 1701049892,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454495,
       "num": 454495,
       "word": "林青霞 金马终身成就奖",
@@ -1139,6 +1187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 392017,
+      "num": 280232,
+      "word": "面色发黄其实是身体发出的求救信号",
+      "onboard_time": 1701047796,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 391421,
       "num": 328696,
       "word": "外媒爆料Rookie加入NIP",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1700913884,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336185,
-      "num": 236930,
-      "word": "面色发黄其实是身体发出的求救信号",
-      "onboard_time": 1701047796,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 335465,
@@ -1811,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264324,
+      "num": 236657,
+      "word": "封神第一部 远在天边",
+      "onboard_time": 1701051391,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 263322,
       "num": 263322,
       "word": "爱奇艺尖叫之夜男女明星微指",
@@ -1939,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 247567,
+      "num": 247567,
+      "word": "孙兴慜越位帽子戏法",
+      "onboard_time": 1701051273,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247237,
       "num": 182044,
       "word": "王鹤棣 e人社交",
@@ -1961,6 +2025,14 @@
       "onboard_time": 1700913043,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241961,
+      "num": 241961,
+      "word": "澳门物价",
+      "onboard_time": 1701051691,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 241425,
@@ -1993,6 +2065,14 @@
       "onboard_time": 1700959771,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238514,
+      "num": 205697,
+      "word": "方圆脸换头",
+      "onboard_time": 1701051932,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 237677,
@@ -2067,14 +2147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230964,
-      "num": 230964,
-      "word": "女子肉摊买回骨折边牧让它重获新生",
-      "onboard_time": 1701048392,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230128,
       "num": 230128,
       "word": "小杨哥演唱会 朴树",
@@ -2113,6 +2185,14 @@
       "onboard_time": 1700998474,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 226815,
+      "num": 226815,
+      "word": "酱园弄女二 倪妮",
+      "onboard_time": 1701051993,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 226719,
@@ -2219,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218514,
+      "num": 203786,
+      "word": "宁安如梦 表情乱飞",
+      "onboard_time": 1701051572,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217851,
       "num": 217851,
       "word": "二进制小品",
@@ -2281,6 +2369,14 @@
       "onboard_time": 1700958449,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211196,
+      "num": 202152,
+      "word": "别再用喷雾保湿了",
+      "onboard_time": 1701051932,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 208840,
@@ -2699,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182133,
+      "num": 182133,
+      "word": "赵露思卡通纹身贴",
+      "onboard_time": 1701049594,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181594,
       "num": 912711,
       "word": "不能二次加热的食物",
@@ -2779,6 +2883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173676,
+      "num": 173676,
+      "word": "班主任自费给学生定制挡风被",
+      "onboard_time": 1701051515,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171884,
       "num": 171884,
       "word": "王一博 不能",
@@ -2793,6 +2905,14 @@
       "onboard_time": 1700967031,
       "rank": 2,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 171164,
+      "num": 171164,
+      "word": "布克绝杀尼克斯",
+      "onboard_time": 1701050852,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 170506,
@@ -2955,6 +3075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156965,
+      "num": 156965,
+      "word": "热刺 从不败到全败",
+      "onboard_time": 1701051213,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156374,
       "num": 156374,
       "word": "刘诗诗和如意淮竹同在",
@@ -3107,6 +3235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142629,
+      "num": 142629,
+      "word": "庄稼不会半夜给下属打电话",
+      "onboard_time": 1701050431,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142261,
       "num": 142261,
       "word": "侯明昊听咪咪咕噜",
@@ -3177,6 +3313,14 @@
       "onboard_time": 1701007718,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139179,
+      "num": 139179,
+      "word": "加纳乔 siu",
+      "onboard_time": 1701050614,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 138659,
