@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701106444300,
+  "endTime": 1701109357761,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -70251,6 +70251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 98651,
+      "num": 98651,
+      "word": "涉过愤怒的海 TT",
+      "onboard_time": 1701105918,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98564,
       "num": 271488,
       "word": "原神水神劈观",
@@ -73603,14 +73611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53404,
-      "num": 53404,
-      "word": "涉过愤怒的海 TT",
-      "onboard_time": 1701105918,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 53374,
       "num": 53374,
       "word": "特斯拉连撞11车当天刚上牌",
@@ -74747,6 +74747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27010,
+      "num": 27010,
+      "word": "12月开机的电视剧",
+      "onboard_time": 1701107536,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26765,
       "num": 47650,
       "word": "冻鱼复活术的真相来了",
@@ -74817,6 +74825,14 @@
       "onboard_time": 1699970432,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24693,
+      "num": 26992,
+      "word": "Knight关注XUN",
+      "onboard_time": 1701107239,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 24586,

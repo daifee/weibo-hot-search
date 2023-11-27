@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701106444300,
+  "endTime": 1701109357761,
   "band_list": [
     {
       "raw_hot": 973471,
@@ -371,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98651,
+      "num": 98651,
+      "word": "涉过愤怒的海 TT",
+      "onboard_time": 1701105918,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96474,
       "num": 96474,
       "word": "因为网恋我读了个大学",
@@ -451,14 +459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 53404,
-      "num": 53404,
-      "word": "涉过愤怒的海 TT",
-      "onboard_time": 1701105918,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 48566,
       "num": 48566,
       "word": "何猷君 最强大脑变最强恋爱脑",
@@ -473,6 +473,30 @@
       "onboard_time": 1701088054,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27010,
+      "num": 27010,
+      "word": "12月开机的电视剧",
+      "onboard_time": 1701107536,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26343,
+      "num": 27004,
+      "word": "陈都灵扮演野心皇后",
+      "onboard_time": 1701093998,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24693,
+      "num": 26992,
+      "word": "Knight关注XUN",
+      "onboard_time": 1701107239,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 8470,
