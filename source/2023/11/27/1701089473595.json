@@ -1,0 +1,410 @@
+{
+  "runTime": 1701089473595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1375144,
+        "num": 1375144,
+        "word": "南海归墟",
+        "onboard_time": 1701081032,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1333645,
+        "num": 1333645,
+        "word": "北京现有艾滋病感染者及患者27285人",
+        "onboard_time": 1701088115,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8186,
+        "num": 1024174,
+        "word": "链博会为国际经贸发展贡献链博智慧",
+        "onboard_time": 1701089258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955984,
+        "num": 955984,
+        "word": "南海归墟陈牧驰 群演",
+        "onboard_time": 1701086674,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 796834,
+        "num": 796834,
+        "word": "顾客吐槽带娃去海底捞看到科目三很不适",
+        "onboard_time": 1701085772,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659621,
+        "num": 659621,
+        "word": "福宝",
+        "onboard_time": 1701085357,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451256,
+        "num": 451256,
+        "word": "胡歌为刘诗诗新剧打call",
+        "onboard_time": 1701085173,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414309,
+        "num": 414309,
+        "word": "新闻女王梁景仁遭心腹背叛",
+        "onboard_time": 1701083615,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379501,
+        "num": 379501,
+        "word": "宁安如梦豆瓣6.9分",
+        "onboard_time": 1701088895,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363816,
+        "num": 363816,
+        "word": "深圳一公司给员工放假10个月",
+        "onboard_time": 1701082294,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055336,
+        "num": 362407,
+        "word": "刻俩萝卜章骗了300亿",
+        "onboard_time": 1701077853,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732372,
+        "num": 359289,
+        "word": "吴京口误 我是闫妮老公",
+        "onboard_time": 1701077195,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 625032,
+        "num": 356227,
+        "word": "杨洋系个腰带吧",
+        "onboard_time": 1701081933,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557230,
+        "num": 355043,
+        "word": "肖战机场路透",
+        "onboard_time": 1701085232,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429637,
+        "num": 350396,
+        "word": "22岁中国留学生在韩身亡",
+        "onboard_time": 1701078816,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431220,
+        "num": 347269,
+        "word": "袁弘叫胡歌往旁边挪半个屁股",
+        "onboard_time": 1701088054,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346911,
+        "num": 346911,
+        "word": "四川发生触电安全事件造成4人死亡",
+        "onboard_time": 1701087393,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335490,
+        "num": 335490,
+        "word": "宋江好帅",
+        "onboard_time": 1701088957,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335109,
+        "num": 335109,
+        "word": "科目三",
+        "onboard_time": 1701088715,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316075,
+        "num": 316075,
+        "word": "支原体肺炎是新冠的变异吗",
+        "onboard_time": 1701076954,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505464,
+        "num": 312473,
+        "word": "贴身衣物最好不要买黑色",
+        "onboard_time": 1701077319,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 36730,
+        "num": 301477,
+        "word": "25条举措助力民营经济发展壮大",
+        "onboard_time": 1701072454,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299611,
+        "num": 299611,
+        "word": "丈夫第一次刷鞋将妻子千元靴变皮干",
+        "onboard_time": 1701087571,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298785,
+        "num": 298785,
+        "word": "与恶魔有约",
+        "onboard_time": 1701086735,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287283,
+        "num": 287283,
+        "word": "北大食堂称与鹅腿阿姨没有关系",
+        "onboard_time": 1701083132,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268284,
+        "num": 268284,
+        "word": "南部战区位中缅边境我方一侧演训画面",
+        "onboard_time": 1701087933,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259454,
+        "num": 259454,
+        "word": "石原里美时隔3年回归拍剧",
+        "onboard_time": 1701084153,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248713,
+        "num": 248713,
+        "word": "渤哥在跳楼 吴京在小狗摇头",
+        "onboard_time": 1701086792,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235437,
+        "num": 235437,
+        "word": "涵艺爆料JDG启用青训上单",
+        "onboard_time": 1701086616,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220705,
+        "num": 220705,
+        "word": "关智斌披荆斩棘未公开花絮",
+        "onboard_time": 1701087755,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285351,
+        "num": 220652,
+        "word": "肩膀真的不内扣了",
+        "onboard_time": 1701088415,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 243753,
+        "num": 220538,
+        "word": "广东湛江18一位的海鲜粥",
+        "onboard_time": 1701088833,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213888,
+        "num": 213888,
+        "word": "在东北猪的地位远超女团",
+        "onboard_time": 1701086735,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212975,
+        "num": 212975,
+        "word": "郑秀妍直播",
+        "onboard_time": 1701086192,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207109,
+        "num": 207109,
+        "word": "王鹤棣镜头下的白鹿",
+        "onboard_time": 1701081575,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204172,
+        "num": 204172,
+        "word": "华晨宇扫楼送咖啡",
+        "onboard_time": 1701088415,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203952,
+        "num": 203952,
+        "word": "南海归墟追剧日历",
+        "onboard_time": 1701084516,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202301,
+        "num": 202301,
+        "word": "谁懂孙千这句笨蛋的杀伤力",
+        "onboard_time": 1701088957,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194466,
+        "num": 194466,
+        "word": "华妮生产过程录像公布",
+        "onboard_time": 1701083791,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183191,
+        "num": 183191,
+        "word": "赵丽娜说公益是她足球生涯的下半场",
+        "onboard_time": 1701088774,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171266,
+        "num": 171266,
+        "word": "暗恋对象成为大明星",
+        "onboard_time": 1701083974,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164202,
+        "num": 164202,
+        "word": "何猷君华容道",
+        "onboard_time": 1701083192,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161543,
+        "num": 161543,
+        "word": "沈羽洁秦时月妆教",
+        "onboard_time": 1701087393,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 160817,
+        "num": 160817,
+        "word": "李苗苗 病娇",
+        "onboard_time": 1701085895,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160035,
+        "num": 160035,
+        "word": "种地吧少年",
+        "onboard_time": 1701088533,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148651,
+        "num": 148651,
+        "word": "萝卜章案当事人罗静已成老赖",
+        "onboard_time": 1701088654,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146872,
+        "num": 146872,
+        "word": "特斯拉要求刹车失灵事件女车主赔偿500万",
+        "onboard_time": 1701065673,
+        "rank": 46,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 120587,
+        "num": 120587,
+        "word": "在韩国化妆浪费了11w",
+        "onboard_time": 1701089375,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 110568,
+        "num": 110568,
+        "word": "经常喝含植脂末的奶茶会怎样",
+        "onboard_time": 1701077433,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110565,
+        "num": 110565,
+        "word": "特斯拉回应成都连撞11车事故",
+        "onboard_time": 1701089436,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
