@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701098344987,
+  "endTime": 1701099249619,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1726599,
-      "num": 289359,
+      "num": 397739,
       "word": "滴滴崩了",
       "onboard_time": 1701095978,
       "rank": 20,
@@ -235,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 977341,
+      "num": 977341,
+      "word": "赵丽颖工作室发了三张许半夏",
+      "onboard_time": 1701097717,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 960114,
       "num": 960114,
       "word": "周一的我被确诊为安陵容",
@@ -329,14 +337,6 @@
       "onboard_time": 1701062612,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 781452,
-      "num": 781452,
-      "word": "赵丽颖工作室发了三张许半夏",
-      "onboard_time": 1701097717,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 769732,
@@ -771,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 454567,
+      "num": 454567,
+      "word": "BLG 左手",
+      "onboard_time": 1701098139,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 452799,
       "num": 452799,
       "word": "B站华为达成合作",
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 448279,
-      "num": 287638,
+      "num": 298464,
       "word": "青春剧为什么不拍研究生",
       "onboard_time": 1701095015,
       "rank": 21,
@@ -793,6 +801,14 @@
       "onboard_time": 1701090397,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 444232,
+      "num": 298545,
+      "word": "总做美甲的人现在都怎么样了",
+      "onboard_time": 1701098074,
+      "rank": 25,
+      "category": "美妆"
     },
     {
       "raw_hot": 438186,
@@ -865,6 +881,14 @@
       "onboard_time": 1701072454,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 412028,
+      "num": 412028,
+      "word": "Knight",
+      "onboard_time": 1701097416,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 409760,
@@ -987,6 +1011,14 @@
       "category": "演出,网红"
     },
     {
+      "raw_hot": 382464,
+      "num": 382464,
+      "word": "南海归墟片名是潘粤明写的",
+      "onboard_time": 1701099211,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382276,
       "num": 382276,
       "word": "宁安如梦豆瓣6.9分",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1701061479,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351243,
-      "num": 351243,
-      "word": "Knight",
-      "onboard_time": 1701097416,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 348417,
@@ -1315,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294629,
+      "num": 294629,
+      "word": "原来孕晚期脚会发臭",
+      "onboard_time": 1701098139,
+      "rank": 33,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 288310,
       "num": 288310,
       "word": "只有韩国服务器才审查手势的游戏",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1701056135,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271206,
+      "num": 271206,
+      "word": "医生建议咳嗽打喷嚏养成1个习惯",
+      "onboard_time": 1701097834,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 270331,
@@ -1555,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254724,
-      "num": 254724,
-      "word": "总做美甲的人现在都怎么样了",
-      "onboard_time": 1701098074,
-      "rank": 25,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 254406,
       "num": 236248,
       "word": "何猷君华容道",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1701059860,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 250861,
+      "num": 250861,
+      "word": "张雪峰为员工多发300元工资请吃火锅",
+      "onboard_time": 1701098139,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248682,
@@ -1851,14 +1891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218484,
-      "num": 218484,
-      "word": "原来孕晚期脚会发臭",
-      "onboard_time": 1701098139,
-      "rank": 33,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 217898,
       "num": 217898,
       "word": "帕梅拉不敢吃鸡爪",
@@ -1937,14 +1969,6 @@
       "onboard_time": 1701059198,
       "rank": 36,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 206257,
-      "num": 206257,
-      "word": "BLG 左手",
-      "onboard_time": 1701098139,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 205684,
@@ -2251,14 +2275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183463,
-      "num": 249142,
-      "word": "医生建议咳嗽打喷嚏养成1个习惯",
-      "onboard_time": 1701097834,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183191,
       "num": 183191,
       "word": "赵丽娜说公益是她足球生涯的下半场",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1701061421,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179080,
+      "num": 179080,
+      "word": "火锅底料为什么越来越贵",
+      "onboard_time": 1701098314,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 179052,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1701072631,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 169025,
+      "num": 169025,
+      "word": "实用发型小贴士",
+      "onboard_time": 1701098735,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 168851,
@@ -2740,7 +2772,7 @@
     },
     {
       "raw_hot": 138939,
-      "num": 986103,
+      "num": 987119,
       "word": "如何预防呼吸道疾病感染",
       "onboard_time": 1701089735,
       "rank": 2,
@@ -2755,20 +2787,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138399,
+      "num": 159261,
+      "word": "卫健委回应医院和鉴定所被举报参与代孕",
+      "onboard_time": 1701098856,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137895,
       "num": 137895,
       "word": "涉过愤怒的海",
       "onboard_time": 1701042686,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137811,
-      "num": 137811,
-      "word": "张雪峰为员工多发300元工资请吃火锅",
-      "onboard_time": 1701098139,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137398,
@@ -2809,14 +2841,6 @@
       "onboard_time": 1701001776,
       "rank": 29,
       "category": "国内时政,旅游"
-    },
-    {
-      "raw_hot": 134692,
-      "num": 134692,
-      "word": "火锅底料为什么越来越贵",
-      "onboard_time": 1701098314,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 133277,
