@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701080385716,
+  "endTime": 1701081439385,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1467157,
+      "num": 1467157,
+      "word": "贴身衣物最好不要买黑色",
+      "onboard_time": 1701077319,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1274380,
       "num": 1274380,
       "word": "朵拉统治姐圈",
@@ -121,14 +129,6 @@
       "onboard_time": 1701051213,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1206901,
-      "num": 1206901,
-      "word": "贴身衣物最好不要买黑色",
-      "onboard_time": 1701077319,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1167909,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 925413,
+      "num": 925413,
+      "word": "刻俩萝卜章骗了300亿",
+      "onboard_time": 1701077853,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 895477,
       "num": 895477,
       "word": "人民大学食堂自研烤鹅腿定价15元",
@@ -209,14 +217,6 @@
       "onboard_time": 1701053913,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 852960,
-      "num": 852960,
-      "word": "刻俩萝卜章骗了300亿",
-      "onboard_time": 1701077853,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 849224,
@@ -283,20 +283,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 750918,
+      "num": 750918,
+      "word": "22岁中国留学生在韩身亡",
+      "onboard_time": 1701078816,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706656,
       "num": 706656,
       "word": "支原体肺炎是新冠的变异吗",
       "onboard_time": 1701076954,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 700642,
-      "num": 521040,
-      "word": "22岁中国留学生在韩身亡",
-      "onboard_time": 1701078816,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 688413,
@@ -331,6 +331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 650164,
+      "num": 650164,
+      "word": "南海归墟",
+      "onboard_time": 1701081032,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 639589,
       "num": 639589,
       "word": "WBG 呼吸来不来",
@@ -361,6 +369,14 @@
       "onboard_time": 1701051093,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 619880,
+      "num": 619880,
+      "word": "月亮",
+      "onboard_time": 1701078755,
+      "rank": 13,
+      "category": "自然"
     },
     {
       "raw_hot": 591302,
@@ -412,11 +428,19 @@
     },
     {
       "raw_hot": 539023,
-      "num": 887353,
+      "num": 939844,
       "word": "清华北大学生排队抢鹅腿",
       "onboard_time": 1701062375,
       "rank": 19,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 536131,
+      "num": 536131,
+      "word": "喻言 南京",
+      "onboard_time": 1701080136,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 535043,
@@ -467,20 +491,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 502862,
+      "num": 502862,
+      "word": "秦岚全包眼线",
+      "onboard_time": 1701080495,
+      "rank": 13,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 502772,
       "num": 284564,
       "word": "辛芷蕾P了Q版迪丽热巴",
       "onboard_time": 1701013656,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 498961,
-      "num": 498961,
-      "word": "月亮",
-      "onboard_time": 1701078755,
-      "rank": 13,
-      "category": "自然"
     },
     {
       "raw_hot": 493177,
@@ -577,6 +601,14 @@
       "onboard_time": 1701014613,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428086,
+      "num": 428086,
+      "word": "谁教考公人在酒吧刷题的",
+      "onboard_time": 1701077135,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 420474,
@@ -691,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 386245,
+      "num": 386245,
+      "word": "支原体肺炎",
+      "onboard_time": 1701080435,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 383830,
       "num": 383830,
       "word": "小杨哥演唱会",
@@ -747,16 +787,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338492,
-      "num": 338492,
-      "word": "谁教考公人在酒吧刷题的",
-      "onboard_time": 1701077135,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 336886,
-      "num": 1443899,
+      "num": 1481562,
       "word": "奥运冠军丁宁毕业论文是研究自己",
       "onboard_time": 1701077195,
       "rank": 20,
@@ -833,6 +865,14 @@
       "onboard_time": 1701070412,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313950,
+      "num": 191834,
+      "word": "因长得丑遭无视的雄狮",
+      "onboard_time": 1701080073,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 313913,
@@ -1331,14 +1371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211563,
-      "num": 211563,
-      "word": "喻言 南京",
-      "onboard_time": 1701080136,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 210919,
       "num": 210919,
       "word": "全红婵的18岁心愿",
@@ -1387,11 +1419,35 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 202481,
+      "num": 202481,
+      "word": "帕梅拉买东西从来不看热量",
+      "onboard_time": 1701077319,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 202108,
+      "num": 202108,
+      "word": "吸血鬼骑士 燃冬鼻祖",
+      "onboard_time": 1701080794,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201461,
       "num": 201461,
       "word": "记者讲述马航MH370十年往事",
       "onboard_time": 1701055417,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199785,
+      "num": 810178,
+      "word": "谁把三星堆放出来跑马拉松了",
+      "onboard_time": 1701072815,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1467,14 +1523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 191834,
-      "num": 191834,
-      "word": "因长得丑遭无视的雄狮",
-      "onboard_time": 1701080073,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191791,
       "num": 191791,
       "word": "得了一种想谈不能真谈的怪病",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1701058476,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187406,
-      "num": 187406,
-      "word": "帕梅拉买东西从来不看热量",
-      "onboard_time": 1701077319,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 185430,
@@ -1675,20 +1715,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171810,
-      "num": 740839,
-      "word": "谁把三星堆放出来跑马拉松了",
-      "onboard_time": 1701072815,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171567,
       "num": 171567,
       "word": "水哥一说拍照汗流浃背了",
       "onboard_time": 1701065014,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171244,
+      "num": 171244,
+      "word": "只有韩国服务器才审查手势的游戏",
+      "onboard_time": 1701081155,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 171164,
@@ -1899,6 +1939,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 146388,
+      "num": 146388,
+      "word": "张译看受害者父亲的眼神戏",
+      "onboard_time": 1701078696,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143063,
       "num": 143063,
       "word": "成毅张凌赫一个憨一个盲",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1701050614,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139092,
+      "num": 139092,
+      "word": "吴磊读评论",
+      "onboard_time": 1701080435,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138782,
@@ -2380,7 +2436,7 @@
     },
     {
       "raw_hot": 35932,
-      "num": 1275328,
+      "num": 1473184,
       "word": "以国之名接英雄回家微纪录",
       "onboard_time": 1701056795,
       "rank": 2,
