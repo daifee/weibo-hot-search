@@ -1,6 +1,6 @@
 {
   "startTime": 1701015637663,
-  "endTime": 1701070448464,
+  "endTime": 1701073437246,
   "band_list": [
     {
       "raw_hot": 2781937,
@@ -33,6 +33,14 @@
       "onboard_time": 1701059379,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2024281,
+      "num": 2024281,
+      "word": "江苏报告33144例流感",
+      "onboard_time": 1701068074,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1996238,
@@ -123,6 +131,14 @@
       "category": "旅游,网红"
     },
     {
+      "raw_hot": 1024235,
+      "num": 1024235,
+      "word": "金莎男友喜欢吹她的鼻孔",
+      "onboard_time": 1701072454,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 993234,
       "num": 993234,
       "word": "洗筷子不要来回搓",
@@ -153,6 +169,14 @@
       "onboard_time": 1701064830,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 880783,
+      "num": 880783,
+      "word": "韩网评我可以47",
+      "onboard_time": 1701071854,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 873163,
@@ -235,14 +259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 731818,
-      "num": 731818,
-      "word": "江苏报告33144例流感",
-      "onboard_time": 1701068074,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 688413,
       "num": 688413,
       "word": "澳门物价",
@@ -291,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 569410,
+      "num": 569410,
+      "word": "WBG 呼吸来不来",
+      "onboard_time": 1701072517,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 560559,
       "num": 560559,
       "word": "供应商曝羽绒服高价真相",
@@ -312,6 +336,14 @@
       "word": "下班回家搞副业到底行不行",
       "onboard_time": 1701046054,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540763,
+      "num": 540763,
+      "word": "官方通报女子多次被要求提供不同材料",
+      "onboard_time": 1701070593,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 467835,
-      "num": 258994,
+      "num": 288186,
       "word": "小满生活 怀孕被上司故意劝酒",
       "onboard_time": 1701066992,
       "rank": 20,
@@ -459,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 412485,
+      "num": 412485,
+      "word": "易烊千玺分享试听音频",
+      "onboard_time": 1701072454,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 409760,
       "num": 409760,
       "word": "退役军人从8层楼高的大桥跳海救人",
@@ -489,6 +529,14 @@
       "onboard_time": 1701012632,
       "rank": 5,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 404197,
+      "num": 404197,
+      "word": "杨紫白玫瑰小黑裙",
+      "onboard_time": 1701068672,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 402218,
@@ -587,14 +635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 333789,
-      "num": 333789,
-      "word": "杨紫白玫瑰小黑裙",
-      "onboard_time": 1701068672,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 331055,
       "num": 331055,
       "word": "李安 宁愿犯错不要boring",
@@ -641,6 +681,14 @@
       "onboard_time": 1701057273,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315499,
+      "num": 287049,
+      "word": "内娱男明星影响力排名",
+      "onboard_time": 1701070412,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 313913,
@@ -747,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285423,
+      "num": 185375,
+      "word": "白鹿 时宴是完美男友",
+      "onboard_time": 1701072333,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285084,
       "num": 285084,
       "word": "冬季洗澡尽量控制在5到10分钟",
@@ -795,6 +851,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 280574,
+      "num": 280574,
+      "word": "肚子和背部瘦不下来的原因",
+      "onboard_time": 1701071074,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 280211,
       "num": 646646,
       "word": "烈士的遗物是遗留在体内的子弹",
@@ -825,6 +889,14 @@
       "onboard_time": 1701056135,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270331,
+      "num": 185337,
+      "word": "杨紫鸡毛头造型自拍",
+      "onboard_time": 1701071552,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 267205,
@@ -897,6 +969,14 @@
       "onboard_time": 1701059860,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248682,
+      "num": 157634,
+      "word": "YG 敷衍",
+      "onboard_time": 1701071317,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 247834,
@@ -1163,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192910,
+      "num": 137803,
+      "word": "秦岚当导游后每天只睡两个小时",
+      "onboard_time": 1701071492,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192767,
       "num": 192767,
       "word": "小狗 真开心我要被爱了",
@@ -1371,6 +1459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161341,
+      "num": 161341,
+      "word": "问界新M7大定突破十万辆",
+      "onboard_time": 1701072631,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 160263,
       "num": 160263,
       "word": "心衰的早期信号有哪些",
@@ -1539,14 +1635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137603,
-      "num": 124208,
-      "word": "内娱男明星影响力排名",
-      "onboard_time": 1701070412,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137398,
       "num": 137398,
       "word": "T1官宣Roach续约",
@@ -1603,6 +1691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128313,
+      "num": 128313,
+      "word": "换卡的风还是吹到了KPL",
+      "onboard_time": 1701071974,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125489,
       "num": 125489,
       "word": "手工制作拐杖糖",
@@ -1617,6 +1713,30 @@
       "onboard_time": 1701057997,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 124036,
+      "num": 124036,
+      "word": "谁把三星堆放出来跑马拉松了",
+      "onboard_time": 1701072815,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123680,
+      "num": 123680,
+      "word": "橘园男主人离世市民帮买1万多斤橘子",
+      "onboard_time": 1701069335,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121763,
+      "num": 121763,
+      "word": "显发量的双麻花辫",
+      "onboard_time": 1701073292,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 119409,
@@ -1689,14 +1809,6 @@
       "onboard_time": 1701011017,
       "rank": 38,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 110611,
-      "num": 110611,
-      "word": "橘园男主人离世市民帮买1万多斤橘子",
-      "onboard_time": 1701069335,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110570,
@@ -1913,6 +2025,14 @@
       "onboard_time": 1701019820,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22092,
+      "num": 1055540,
+      "word": "以国之名接英雄回家微纪录",
+      "onboard_time": 1701056795,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20998,
