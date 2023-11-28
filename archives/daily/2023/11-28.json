@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701163079053,
+  "endTime": 1701164083208,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1434882,
-      "num": 523301,
+      "num": 553843,
       "word": "部分滴滴司机开始提现",
       "onboard_time": 1701156751,
       "rank": 23,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 820061,
-      "num": 494906,
+      "num": 668348,
       "word": "王睡睡 不要再回头了",
       "onboard_time": 1701161314,
       "rank": 11,
@@ -268,11 +268,19 @@
     },
     {
       "raw_hot": 768101,
-      "num": 477916,
+      "num": 549084,
       "word": "傅首尔说分手是很好的解放",
       "onboard_time": 1701158855,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 760581,
+      "num": 760581,
+      "word": "沈小婷MAMA新闻图",
+      "onboard_time": 1701162996,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 752229,
@@ -281,6 +289,14 @@
       "onboard_time": 1701150992,
       "rank": 10,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 744636,
+      "num": 744636,
+      "word": "失业父亲因20元生日蛋糕泪崩",
+      "onboard_time": 1701161673,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 742224,
@@ -379,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 641962,
+      "num": 641962,
+      "word": "女将星开机",
+      "onboard_time": 1701161851,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637152,
       "num": 637152,
       "word": "羽绒服上没有这几个字再便宜也别买",
@@ -459,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 553930,
-      "num": 553930,
-      "word": "女将星开机",
-      "onboard_time": 1701161851,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 528824,
       "num": 528824,
       "word": "00后男孩开货车5年收入超百万",
@@ -515,6 +531,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 470804,
+      "num": 470804,
+      "word": "金莎曾被朋友要求支付陪聊酬劳",
+      "onboard_time": 1701162033,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463703,
       "num": 463703,
       "word": "陈都灵一念关山一行泪",
@@ -547,12 +571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 437973,
+      "num": 437973,
+      "word": "避孕焦虑症",
+      "onboard_time": 1701163054,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 433970,
       "num": 433970,
       "word": "烤红薯和蒸红薯哪个更健康",
       "onboard_time": 1701149434,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 433037,
+      "num": 433037,
+      "word": "华为希望一汽集团加入",
+      "onboard_time": 1701161673,
+      "rank": 14,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 429008,
@@ -563,20 +603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 425958,
-      "num": 425958,
-      "word": "华为希望一汽集团加入",
-      "onboard_time": 1701161673,
-      "rank": 14,
-      "category": "社会新闻,汽车"
-    },
-    {
       "raw_hot": 418913,
       "num": 418913,
       "word": "王鹤棣田曦薇手势舞",
       "onboard_time": 1701147694,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 418812,
+      "num": 325274,
+      "word": "treasure在MAMA红毯上滑步",
+      "onboard_time": 1701162873,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 401958,
@@ -643,28 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 380038,
-      "num": 380038,
-      "word": "失业父亲因20元生日蛋糕泪崩",
-      "onboard_time": 1701161673,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378258,
       "num": 378258,
       "word": "南海归墟首播反响",
       "onboard_time": 1701137793,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371055,
-      "num": 371055,
-      "word": "金莎曾被朋友要求支付陪聊酬劳",
-      "onboard_time": 1701162033,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 359450,
@@ -779,6 +803,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 305264,
+      "num": 305264,
+      "word": "公司福利暗中都标好了价格",
+      "onboard_time": 1701162996,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 304035,
       "num": 304035,
       "word": "王者新英雄海诺",
@@ -819,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292210,
+      "num": 292210,
+      "word": "冬季跑步心率",
+      "onboard_time": 1701162454,
+      "rank": 30,
+      "category": "运动健身,健康医疗"
+    },
+    {
       "raw_hot": 291570,
       "num": 291570,
       "word": "暗爽型人格",
@@ -857,6 +897,14 @@
       "onboard_time": 1701132035,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284880,
+      "num": 252494,
+      "word": "奚梦瑶最大的遗憾",
+      "onboard_time": 1701163771,
+      "rank": 27,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 283361,
@@ -913,14 +961,6 @@
       "onboard_time": 1701095015,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 270215,
-      "num": 226888,
-      "word": "冬季跑步心率",
-      "onboard_time": 1701162454,
-      "rank": 30,
-      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 269189,
@@ -1227,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213538,
+      "num": 213538,
+      "word": "华为新公司已向四界发出邀请",
+      "onboard_time": 1701162393,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 213245,
       "num": 213245,
       "word": "EDG 青春风暴",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1701147762,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213119,
+      "num": 213119,
+      "word": "痘痘的严重程度与季节变化",
+      "onboard_time": 1701163412,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 211459,
@@ -1363,22 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197544,
-      "num": 197544,
-      "word": "华为新公司已向四界发出邀请",
-      "onboard_time": 1701162393,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 197276,
-      "num": 197276,
-      "word": "treasure在MAMA红毯上滑步",
-      "onboard_time": 1701162873,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 196267,
       "num": 185321,
       "word": "潜行 卧底警察身份暴露后",
@@ -1459,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187720,
+      "num": 187720,
+      "word": "柯南黑铁的鱼影位列历代第一",
+      "onboard_time": 1701163955,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 184229,
       "num": 184229,
       "word": "王星越 我很期待孔雪儿打我",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1701144037,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176694,
-      "num": 176694,
-      "word": "沈小婷MAMA新闻图",
-      "onboard_time": 1701162996,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176358,
@@ -1643,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169776,
+      "num": 169776,
+      "word": "中国空间站全貌高清图像首次公布",
+      "onboard_time": 1701162694,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169030,
       "num": 169030,
       "word": "斗鱼成立临时管委会",
@@ -1723,6 +1771,14 @@
       "category": "财经,时尚"
     },
     {
+      "raw_hot": 156107,
+      "num": 156107,
+      "word": "云曦天命石美术设计",
+      "onboard_time": 1701163771,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155805,
       "num": 155805,
       "word": "何猷君奚梦瑶 爱的具象化",
@@ -1752,6 +1808,14 @@
       "word": "随便押韵真的会产生Problem",
       "onboard_time": 1701149492,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154330,
+      "num": 154330,
+      "word": "给东京来的摇滚小子一点沪币震撼",
+      "onboard_time": 1701163894,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1795,14 +1859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149744,
-      "num": 149744,
-      "word": "公司福利暗中都标好了价格",
-      "onboard_time": 1701162996,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 148280,
       "num": 148280,
       "word": "特斯拉称门把手被冻住挥拳用力打即可",
@@ -1833,14 +1889,6 @@
       "onboard_time": 1701088957,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145188,
-      "num": 145188,
-      "word": "中国空间站全貌高清图像首次公布",
-      "onboard_time": 1701162694,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145128,
@@ -1905,14 +1953,6 @@
       "onboard_time": 1701138815,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141295,
-      "num": 141295,
-      "word": "避孕焦虑症",
-      "onboard_time": 1701163054,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140456,
