@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701138651940,
+  "endTime": 1701139279445,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2598549,
-      "num": 2598549,
+      "raw_hot": 2772536,
+      "num": 2772536,
       "word": "网红痞幼就盗用他人视频道歉",
       "onboard_time": 1701137191,
       "rank": 1,
@@ -491,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1111326,
+      "num": 1111326,
+      "word": "全勤没了",
+      "onboard_time": 1701136413,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1096109,
       "num": 1096109,
       "word": "B太 我被漠河人留住了",
@@ -499,20 +507,20 @@
       "category": "旅游,网红"
     },
     {
-      "raw_hot": 1085507,
-      "num": 1085507,
-      "word": "全勤没了",
-      "onboard_time": 1701136413,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1069043,
       "num": 955984,
       "word": "南海归墟陈牧驰 群演",
       "onboard_time": 1701086674,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1067948,
+      "num": 1067948,
+      "word": "金莎 盛况",
+      "onboard_time": 1701137433,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1066447,
@@ -609,14 +617,6 @@
       "onboard_time": 1700998714,
       "rank": 3,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 936939,
-      "num": 936939,
-      "word": "金莎 盛况",
-      "onboard_time": 1701137433,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 930091,
@@ -2019,20 +2019,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 401904,
+      "num": 401904,
+      "word": "00后男孩开货车5年收入超百万",
+      "onboard_time": 1701136711,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401772,
       "num": 401772,
       "word": "宋轶白敬亭魏大勋 切镜头",
       "onboard_time": 1700914908,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399609,
-      "num": 399609,
-      "word": "00后男孩开货车5年收入超百万",
-      "onboard_time": 1701136711,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 397056,
@@ -2067,12 +2067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393943,
+      "num": 393943,
+      "word": "古巨基宋亚轩 养成系最好的相见",
+      "onboard_time": 1701135577,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 393552,
       "num": 393552,
       "word": "aespa票选队内素颜王者",
       "onboard_time": 1700993195,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393457,
+      "num": 393457,
+      "word": "大奉打更人新剧照",
+      "onboard_time": 1701138874,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 393110,
@@ -2179,14 +2195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 378080,
-      "num": 378080,
-      "word": "古巨基宋亚轩 养成系最好的相见",
-      "onboard_time": 1701135577,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373126,
       "num": 293432,
       "word": "冬天赖床其实是身体在保护你",
@@ -2275,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354627,
+      "num": 354627,
+      "word": "48岁教授说年轻人不加班是社会的进步",
+      "onboard_time": 1701135992,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 353400,
       "num": 329619,
       "word": "易烊千玺4%vol的河",
@@ -2361,14 +2377,6 @@
       "onboard_time": 1701094835,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343062,
-      "num": 343062,
-      "word": "48岁教授说年轻人不加班是社会的进步",
-      "onboard_time": 1701135992,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 340805,
@@ -2571,6 +2579,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 315839,
+      "num": 315839,
+      "word": "南海归墟首播反响",
+      "onboard_time": 1701137793,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315571,
       "num": 315571,
       "word": "种地吧直播",
@@ -2611,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 313914,
+      "num": 313914,
+      "word": "17种癌是胖出来的",
+      "onboard_time": 1701136711,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 313913,
       "num": 289631,
       "word": "室友回来半小时了还没放下行囊",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1701088957,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311429,
+      "num": 270914,
+      "word": "原神4.2",
+      "onboard_time": 1701139233,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 311001,
@@ -2681,14 +2713,6 @@
       "onboard_time": 1701068915,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 307123,
-      "num": 307123,
-      "word": "17种癌是胖出来的",
-      "onboard_time": 1701136711,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 307055,
@@ -3227,14 +3251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264685,
-      "num": 264685,
-      "word": "南海归墟首播反响",
-      "onboard_time": 1701137793,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264606,
       "num": 264606,
       "word": "孙兴慜越位帽子戏法",
@@ -3387,6 +3403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 252941,
+      "num": 252941,
+      "word": "美甲灯照射或能损坏DNA",
+      "onboard_time": 1701136532,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 252622,
       "num": 1029533,
       "word": "朱鹮洋洋去世",
@@ -3531,14 +3555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 243087,
-      "num": 243087,
-      "word": "美甲灯照射或能损坏DNA",
-      "onboard_time": 1701136532,
-      "rank": 24,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 241502,
       "num": 241502,
       "word": "任如意宁远舟骑马吻",
@@ -3569,6 +3585,14 @@
       "onboard_time": 1701065972,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240198,
+      "num": 240198,
+      "word": "甲流",
+      "onboard_time": 1701138577,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239529,
@@ -3787,8 +3811,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 229284,
-      "num": 229284,
+      "raw_hot": 229425,
+      "num": 229425,
       "word": "卸妆前不练妆可太亏了",
       "onboard_time": 1701135631,
       "rank": 27,
@@ -4843,6 +4867,14 @@
       "category": "社会议题,美妆"
     },
     {
+      "raw_hot": 183465,
+      "num": 183465,
+      "word": "铁三角和海底捞就差一个科目三",
+      "onboard_time": 1701136774,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183191,
       "num": 183191,
       "word": "赵丽娜说公益是她足球生涯的下半场",
@@ -4881,6 +4913,14 @@
       "onboard_time": 1700910771,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180797,
+      "num": 180797,
+      "word": "他荣立一等功2次却没有一张露脸照",
+      "onboard_time": 1701136711,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180771,
@@ -5115,14 +5155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169833,
-      "num": 169833,
-      "word": "铁三角和海底捞就差一个科目三",
-      "onboard_time": 1701136774,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 169465,
       "num": 169465,
       "word": "问界新M7大定突破十万辆",
@@ -5145,14 +5177,6 @@
       "onboard_time": 1701098735,
       "rank": 37,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 168978,
-      "num": 168978,
-      "word": "他荣立一等功2次却没有一张露脸照",
-      "onboard_time": 1701136711,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168896,
@@ -5771,6 +5795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141484,
+      "num": 141484,
+      "word": "最能熬夜的城市",
+      "onboard_time": 1701138815,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141302,
       "num": 136738,
       "word": "丁程鑫朴宰范贴贴",
@@ -6193,14 +6225,6 @@
       "onboard_time": 1700963492,
       "rank": 49,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 114831,
-      "num": 114831,
-      "word": "甲流",
-      "onboard_time": 1701138577,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113059,
@@ -6892,7 +6916,7 @@
     },
     {
       "raw_hot": 25243,
-      "num": 1294820,
+      "num": 1895479,
       "word": "链博会为国际经贸发展贡献链博智慧",
       "onboard_time": 1701089258,
       "rank": 2,

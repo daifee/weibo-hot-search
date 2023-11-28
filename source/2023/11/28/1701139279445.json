@@ -1,0 +1,410 @@
+{
+  "runTime": 1701139279445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3208754,
+        "num": 3208754,
+        "word": "滴滴打车 打不到",
+        "onboard_time": 1701132095,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2772536,
+        "num": 2772536,
+        "word": "网红痞幼就盗用他人视频道歉",
+        "onboard_time": 1701137191,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 16560,
+        "num": 1895479,
+        "word": "链博会为国际经贸发展贡献链博智慧",
+        "onboard_time": 1701089258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111326,
+        "num": 1111326,
+        "word": "全勤没了",
+        "onboard_time": 1701136413,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1067948,
+        "num": 1067948,
+        "word": "金莎 盛况",
+        "onboard_time": 1701137433,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 792064,
+        "num": 792064,
+        "word": "潘粤明减重30斤演胡八一",
+        "onboard_time": 1701132761,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701406,
+        "num": 701406,
+        "word": "不是房产证加了名才叫共同财产",
+        "onboard_time": 1701134672,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570116,
+        "num": 570116,
+        "word": "高中妹妹厌学哥哥带其到大学上课",
+        "onboard_time": 1701133297,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 523240,
+        "num": 523240,
+        "word": "月薪3000保洁阿姨3年捡50多万财物",
+        "onboard_time": 1701130898,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478341,
+        "num": 478341,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701128187,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 811962,
+        "num": 476795,
+        "word": "泰国血色婚礼致5死1重伤",
+        "onboard_time": 1701129391,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409948,
+        "num": 409948,
+        "word": "陈采尼爱奇艺尖叫之夜红毯点评",
+        "onboard_time": 1701135933,
+        "rank": 11,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 401904,
+        "num": 401904,
+        "word": "00后男孩开货车5年收入超百万",
+        "onboard_time": 1701136711,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393943,
+        "num": 393943,
+        "word": "古巨基宋亚轩 养成系最好的相见",
+        "onboard_time": 1701135577,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393457,
+        "num": 393457,
+        "word": "大奉打更人新剧照",
+        "onboard_time": 1701138874,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384307,
+        "num": 384307,
+        "word": "北京现有艾滋病感染者及患者27285人",
+        "onboard_time": 1701088115,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354627,
+        "num": 354627,
+        "word": "48岁教授说年轻人不加班是社会的进步",
+        "onboard_time": 1701135992,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 315839,
+        "num": 315839,
+        "word": "南海归墟首播反响",
+        "onboard_time": 1701137793,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313914,
+        "num": 313914,
+        "word": "17种癌是胖出来的",
+        "onboard_time": 1701136711,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274975,
+        "num": 274975,
+        "word": "滴滴网约车等服务已恢复",
+        "onboard_time": 1701128728,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 311429,
+        "num": 270914,
+        "word": "原神4.2",
+        "onboard_time": 1701139233,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252941,
+        "num": 252941,
+        "word": "美甲灯照射或能损坏DNA",
+        "onboard_time": 1701136532,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 250167,
+        "num": 250167,
+        "word": "女儿给患癌母亲拍遗照骗她是拍证件照",
+        "onboard_time": 1701136893,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240198,
+        "num": 240198,
+        "word": "甲流",
+        "onboard_time": 1701138577,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229425,
+        "num": 229425,
+        "word": "卸妆前不练妆可太亏了",
+        "onboard_time": 1701135631,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228819,
+        "num": 228819,
+        "word": "5个体检项目千万别躲着不做",
+        "onboard_time": 1701130295,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226859,
+        "num": 226859,
+        "word": "谢楠回应吴京口误",
+        "onboard_time": 1701132517,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221807,
+        "num": 221807,
+        "word": "涵艺爆料Tangyuan加入BLG",
+        "onboard_time": 1701137732,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214793,
+        "num": 214793,
+        "word": "星巴克下沉到县城",
+        "onboard_time": 1701131136,
+        "rank": 28,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 210257,
+        "num": 210257,
+        "word": "青桔 害我迟到",
+        "onboard_time": 1701130534,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205399,
+        "num": 205399,
+        "word": "总做美甲的人现在都怎么样了",
+        "onboard_time": 1701098074,
+        "rank": 30,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 198352,
+        "num": 198352,
+        "word": "早上醒来就收到了婆婆的小作文",
+        "onboard_time": 1701137793,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194155,
+        "num": 194155,
+        "word": "宁安如梦薛烨流放",
+        "onboard_time": 1701134974,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192709,
+        "num": 192709,
+        "word": "HYBE与MBC和好 中小型爱豆公司不满",
+        "onboard_time": 1701136353,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183465,
+        "num": 183465,
+        "word": "铁三角和海底捞就差一个科目三",
+        "onboard_time": 1701136774,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180797,
+        "num": 180797,
+        "word": "他荣立一等功2次却没有一张露脸照",
+        "onboard_time": 1701136711,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180182,
+        "num": 180182,
+        "word": "WBG 原阵容",
+        "onboard_time": 1701127465,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171707,
+        "num": 171707,
+        "word": "毛不易演得像他真的嫁过女儿",
+        "onboard_time": 1701129872,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168289,
+        "num": 168289,
+        "word": "东北的雪到了令人惊叹的地步",
+        "onboard_time": 1701132035,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165276,
+        "num": 165276,
+        "word": "青春剧为什么不拍研究生",
+        "onboard_time": 1701095015,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155261,
+        "num": 155261,
+        "word": "韩国编剧地位高的原因",
+        "onboard_time": 1701130956,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146590,
+        "num": 146590,
+        "word": "任如意被直球追爱",
+        "onboard_time": 1701138034,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146269,
+        "num": 146269,
+        "word": "帆帆女朋友",
+        "onboard_time": 1701130175,
+        "rank": 42,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 141484,
+        "num": 141484,
+        "word": "最能熬夜的城市",
+        "onboard_time": 1701138815,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140502,
+        "num": 140502,
+        "word": "海底捞回应奖励3000元给跳科目三员工",
+        "onboard_time": 1701102507,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138294,
+        "num": 138294,
+        "word": "赵丽颖工作室发了三张许半夏",
+        "onboard_time": 1701097717,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134826,
+        "num": 134826,
+        "word": "滴滴崩了",
+        "onboard_time": 1701095978,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133624,
+        "num": 133624,
+        "word": "医生建议咳嗽打喷嚏养成1个习惯",
+        "onboard_time": 1701097834,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133090,
+        "num": 133090,
+        "word": "12月1日起生鲜灯禁用",
+        "onboard_time": 1701137492,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129554,
+        "num": 129554,
+        "word": "赵昭仪模仿胡先煦耍帅",
+        "onboard_time": 1701136651,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进跨境服务贸易和投资高水平开放#"
+    }
+  }
+}
