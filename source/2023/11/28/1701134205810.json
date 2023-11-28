@@ -1,0 +1,410 @@
+{
+  "runTime": 1701134205810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2288341,
+        "num": 2288341,
+        "word": "泰国血色婚礼致5死1重伤",
+        "onboard_time": 1701129391,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318400,
+        "num": 1318400,
+        "word": "滴滴网约车等服务已恢复",
+        "onboard_time": 1701128728,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21652,
+        "num": 1294820,
+        "word": "链博会为国际经贸发展贡献链博智慧",
+        "onboard_time": 1701089258,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1282904,
+        "num": 1282904,
+        "word": "潘粤明减重30斤演胡八一",
+        "onboard_time": 1701132761,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1282722,
+        "num": 1282722,
+        "word": "青桔 害我迟到",
+        "onboard_time": 1701130534,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1174458,
+        "num": 1174458,
+        "word": "滴滴打车 打不到",
+        "onboard_time": 1701132095,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1170318,
+        "num": 1170318,
+        "word": "月薪3000保洁阿姨3年捡50多万财物",
+        "onboard_time": 1701130898,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879872,
+        "num": 879872,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701128187,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 679250,
+        "num": 679250,
+        "word": "总做美甲的人现在都怎么样了",
+        "onboard_time": 1701098074,
+        "rank": 8,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 669457,
+        "num": 669457,
+        "word": "嗓子疼",
+        "onboard_time": 1701115395,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1787413,
+        "num": 668127,
+        "word": "滴滴崩了",
+        "onboard_time": 1701095978,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 661321,
+        "num": 661321,
+        "word": "5个体检项目千万别躲着不做",
+        "onboard_time": 1701130295,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 659325,
+        "num": 659325,
+        "word": "北京现有艾滋病感染者及患者27285人",
+        "onboard_time": 1701088115,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646278,
+        "num": 646278,
+        "word": "谢楠回应吴京口误",
+        "onboard_time": 1701132517,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 480307,
+        "num": 480307,
+        "word": "星巴克下沉到县城",
+        "onboard_time": 1701131136,
+        "rank": 14,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 429008,
+        "num": 429008,
+        "word": "毛不易演得像他真的嫁过女儿",
+        "onboard_time": 1701129872,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389673,
+        "num": 389673,
+        "word": "韩国编剧地位高的原因",
+        "onboard_time": 1701130956,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368572,
+        "num": 368572,
+        "word": "海底捞回应奖励3000元给跳科目三员工",
+        "onboard_time": 1701102507,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359847,
+        "num": 359847,
+        "word": "高中妹妹厌学哥哥带其到大学上课",
+        "onboard_time": 1701133297,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 298615,
+        "num": 298615,
+        "word": "张雪峰为员工多发300元工资请吃火锅",
+        "onboard_time": 1701098139,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283361,
+        "num": 283361,
+        "word": "滴滴再次就服务异常致歉",
+        "onboard_time": 1701132160,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 281115,
+        "num": 281115,
+        "word": "东北的雪到了令人惊叹的地步",
+        "onboard_time": 1701132035,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279721,
+        "num": 279721,
+        "word": "帆帆女朋友",
+        "onboard_time": 1701130175,
+        "rank": 22,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 272587,
+        "num": 272587,
+        "word": "青春剧为什么不拍研究生",
+        "onboard_time": 1701095015,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258266,
+        "num": 258266,
+        "word": "C罗主动示意不是点球",
+        "onboard_time": 1701130534,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256755,
+        "num": 256755,
+        "word": "WBG 原阵容",
+        "onboard_time": 1701127465,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253944,
+        "num": 253944,
+        "word": "五月天怪兽 今天很想念妈妈",
+        "onboard_time": 1701128848,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250426,
+        "num": 250426,
+        "word": "韩剧舒适区",
+        "onboard_time": 1701131982,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235959,
+        "num": 235959,
+        "word": "阿里达摩院裁撤量子实验室",
+        "onboard_time": 1701133118,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232418,
+        "num": 232418,
+        "word": "不是全员恶人 是全员饿人",
+        "onboard_time": 1701132818,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232051,
+        "num": 232051,
+        "word": "张雨绮加入朵拉宇宙",
+        "onboard_time": 1701089316,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218185,
+        "num": 218185,
+        "word": "刘诗诗一念关山雪中舞",
+        "onboard_time": 1701131618,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228172,
+        "num": 218097,
+        "word": "南海归墟片名是潘粤明写的",
+        "onboard_time": 1701099211,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212190,
+        "num": 212190,
+        "word": "赵丽颖工作室发了三张许半夏",
+        "onboard_time": 1701097717,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211410,
+        "num": 211410,
+        "word": "医生建议咳嗽打喷嚏养成1个习惯",
+        "onboard_time": 1701097834,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204347,
+        "num": 204347,
+        "word": "顾客吐槽带娃去海底捞看到科目三很不适",
+        "onboard_time": 1701085772,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199552,
+        "num": 199552,
+        "word": "易烊千玺23岁生日单曲上线",
+        "onboard_time": 1701127225,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189760,
+        "num": 189760,
+        "word": "斗鱼回应在部分应用商店无法下载",
+        "onboard_time": 1701131016,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184325,
+        "num": 184325,
+        "word": "滴滴费用异常会统一结算补偿",
+        "onboard_time": 1701133779,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184229,
+        "num": 184229,
+        "word": "王星越 我很期待孔雪儿打我",
+        "onboard_time": 1701129935,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180043,
+        "num": 180043,
+        "word": "肩膀真的不内扣了",
+        "onboard_time": 1701088415,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175771,
+        "num": 175771,
+        "word": "AI病人",
+        "onboard_time": 1701132938,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169030,
+        "num": 169030,
+        "word": "斗鱼成立临时管委会",
+        "onboard_time": 1701127827,
+        "rank": 42,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 167501,
+        "num": 167501,
+        "word": "再吃两顿饭就能看一念关山了",
+        "onboard_time": 1701132636,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163619,
+        "num": 163619,
+        "word": "杨利伟人民日报撰文",
+        "onboard_time": 1701131256,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152838,
+        "num": 152838,
+        "word": "丈夫第一次刷鞋将妻子千元靴变皮干",
+        "onboard_time": 1701087571,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148922,
+        "num": 148922,
+        "word": "南海归墟陈牧驰 群演",
+        "onboard_time": 1701086674,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146001,
+        "num": 146001,
+        "word": "渐冻人网红卓君去世",
+        "onboard_time": 1701091717,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144039,
+        "num": 144039,
+        "word": "特斯拉称门把手被冻住挥拳用力打即可",
+        "onboard_time": 1701126382,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141498,
+        "num": 141498,
+        "word": "呼吸道疾病高发期实用防治手册",
+        "onboard_time": 1701132580,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进跨境服务贸易和投资高水平开放#"
+    }
+  }
+}
