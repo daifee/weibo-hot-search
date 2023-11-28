@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 14:23:42
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 14:36:18
 </p>
 </blockquote>
 <p>
@@ -1149,6 +1149,12 @@ Letme回归RNG（热度：2284492）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%20%E6%88%91%E4%BD%9B%E6%8C%81%E6%9D%AF%23" target="weibo">
+喜茶 我佛持杯（热度：2265391）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B7%B1%E5%A4%9C%E9%80%81%E7%8E%8B%E5%BD%A6%E9%9C%96%E5%A4%AB%E5%A6%BB%E5%8E%BB%E5%8C%BB%E9%99%A2%23" target="weibo">
 王鹤棣深夜送王彦霖夫妻去医院（热度：2253995）
 </a>
@@ -1467,12 +1473,6 @@ B站通报人肉开盒案例（热度：2072300）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%20%E6%88%91%E4%BD%9B%E6%8C%81%E6%9D%AF%23" target="weibo">
-喜茶 我佛持杯（热度：2063091）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E7%BC%85%E5%8C%97%23" target="weibo">
 中国公民暂勿前往缅北（热度：2062931）
 </a>
@@ -1779,6 +1779,12 @@ WBG对战BLG（热度：2001531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E9%83%BD%E6%B2%A1%E4%B8%8B%E8%BD%A6%23" target="weibo">
+傅首尔老刘都没下车（热度：1910855）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%E5%8C%BB%E7%94%9F%20%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E4%BA%8B%E4%BB%B6%E5%A4%A7%E6%A6%82%E7%8E%87%E4%B8%8D%E4%BA%86%E4%BA%86%E4%B9%8B%23" target="weibo">
 协和医生 中山二院事件大概率不了了之（热度：1909383）
 </a>
@@ -2027,12 +2033,6 @@ T1拿到决赛赛点（热度：1835312）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B32%E6%AF%941%E6%88%98%E8%83%9C%E6%B3%B0%E5%9B%BD%E9%98%9F%23" target="weibo">
 中国男足2比1战胜泰国队（热度：1770571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E9%83%BD%E6%B2%A1%E4%B8%8B%E8%BD%A6%23" target="weibo">
-傅首尔老刘都没下车（热度：1769605）
 </a>
 </li>
 

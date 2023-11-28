@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701152622718,
+  "endTime": 1701153378324,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2265391,
+      "num": 2265391,
+      "word": "喜茶 我佛持杯",
+      "onboard_time": 1701148893,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2232577,
       "num": 2232577,
       "word": "申论",
@@ -129,14 +137,6 @@
       "onboard_time": 1700996133,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2063091,
-      "num": 2063091,
-      "word": "喜茶 我佛持杯",
-      "onboard_time": 1701148893,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 2024484,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1910855,
+      "num": 1910855,
+      "word": "傅首尔老刘都没下车",
+      "onboard_time": 1701150453,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1838560,
       "num": 1838560,
       "word": "白鹿 尖叫女演员",
@@ -241,14 +249,6 @@
       "onboard_time": 1701077195,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1769605,
-      "num": 1769605,
-      "word": "傅首尔老刘都没下车",
-      "onboard_time": 1701150453,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1760217,
@@ -891,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 752229,
+      "num": 752229,
+      "word": "滴滴系统崩溃预计损失超4亿",
+      "onboard_time": 1701150992,
+      "rank": 10,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 750918,
       "num": 750918,
       "word": "22岁中国留学生在韩身亡",
@@ -963,6 +971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 723822,
+      "num": 723822,
+      "word": "MAMA红毯",
+      "onboard_time": 1701150754,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 720128,
       "num": 720128,
       "word": "他俩上次吃饭还在武林外传",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1700984612,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 697648,
-      "num": 697648,
-      "word": "MAMA红毯",
-      "onboard_time": 1701150754,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 696400,
@@ -1161,14 +1169,6 @@
       "onboard_time": 1701003158,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 646352,
-      "num": 498235,
-      "word": "滴滴系统崩溃预计损失超4亿",
-      "onboard_time": 1701150992,
-      "rank": 10,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 646278,
@@ -1451,6 +1451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 544521,
+      "num": 544521,
+      "word": "羽绒服上没有这几个字再便宜也别买",
+      "onboard_time": 1701150333,
+      "rank": 9,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 543307,
       "num": 494829,
       "word": "下班回家搞副业到底行不行",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1701056557,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 504575,
-      "num": 504575,
-      "word": "羽绒服上没有这几个字再便宜也别买",
-      "onboard_time": 1701150333,
-      "rank": 9,
-      "category": "财经,时尚"
     },
     {
       "raw_hot": 504020,
@@ -2027,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438899,
+      "num": 438899,
+      "word": "刘亦菲张靓颖 姐妹爆料",
+      "onboard_time": 1701151834,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 438186,
       "num": 284090,
       "word": "易烊千玺景德镇",
@@ -2355,6 +2363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388789,
+      "num": 388789,
+      "word": "烤红薯和蒸红薯哪个更健康",
+      "onboard_time": 1701149434,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 388425,
       "num": 388425,
       "word": "王鹤棣镜头下的白鹿",
@@ -2393,6 +2409,14 @@
       "onboard_time": 1701088895,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381924,
+      "num": 381924,
+      "word": "王诗晴纪焕博",
+      "onboard_time": 1701152191,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 379980,
@@ -2545,6 +2569,14 @@
       "onboard_time": 1700969194,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351170,
+      "num": 351170,
+      "word": "中共中央政治局第十次集体学习",
+      "onboard_time": 1701152253,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 348736,
@@ -2739,14 +2771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326366,
-      "num": 326366,
-      "word": "刘亦菲张靓颖 姐妹爆料",
-      "onboard_time": 1701151834,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 324957,
       "num": 324957,
       "word": "MMA最终出演阵容",
@@ -2939,14 +2963,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 310647,
-      "num": 310647,
-      "word": "烤红薯和蒸红薯哪个更健康",
-      "onboard_time": 1701149434,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 310544,
       "num": 310544,
       "word": "Alan 当年是谁让你跳大的",
@@ -3107,14 +3123,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 298171,
-      "num": 298171,
-      "word": "王诗晴纪焕博",
-      "onboard_time": 1701152191,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 298069,
       "num": 298069,
       "word": "言语理解",
@@ -3201,6 +3209,14 @@
       "onboard_time": 1700965592,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288540,
+      "num": 288540,
+      "word": "这一世若曦也没能救出玉檀",
+      "onboard_time": 1701151533,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 288310,
@@ -3595,20 +3611,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264524,
+      "num": 200155,
+      "word": "盲人女性如何度过经期",
+      "onboard_time": 1701152610,
+      "rank": 30,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 263322,
       "num": 263322,
       "word": "爱奇艺尖叫之夜男女明星微指",
       "onboard_time": 1700966313,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262687,
-      "num": 229942,
-      "word": "这一世若曦也没能救出玉檀",
-      "onboard_time": 1701151533,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 261740,
@@ -4667,8 +4683,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203496,
-      "num": 203496,
+      "raw_hot": 203786,
+      "num": 203786,
       "word": "柯南黑铁的鱼影定档",
       "onboard_time": 1701152374,
       "rank": 27,
@@ -4689,14 +4705,6 @@
       "onboard_time": 1701133779,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 202737,
-      "num": 200155,
-      "word": "盲人女性如何度过经期",
-      "onboard_time": 1701152610,
-      "rank": 30,
-      "category": "社会议题"
     },
     {
       "raw_hot": 202481,
@@ -5571,6 +5579,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 176358,
+      "num": 176358,
+      "word": "掘金vs快船",
+      "onboard_time": 1701152311,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176124,
       "num": 176124,
       "word": "卫衣不卡脖子的方法",
@@ -5777,14 +5793,6 @@
       "onboard_time": 1701132636,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167103,
-      "num": 167103,
-      "word": "中共中央政治局第十次集体学习",
-      "onboard_time": 1701152253,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 166832,
@@ -6003,6 +6011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158713,
+      "num": 158713,
+      "word": "小满生活陈立精神出轨",
+      "onboard_time": 1701152434,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158634,
       "num": 158634,
       "word": "杨贤硕 品味",
@@ -6163,22 +6179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152770,
-      "num": 152770,
-      "word": "掘金vs快船",
-      "onboard_time": 1701152311,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 152585,
-      "num": 152585,
-      "word": "小满生活陈立精神出轨",
-      "onboard_time": 1701152434,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152516,
       "num": 152516,
       "word": "化妆最大的价值",
@@ -6209,6 +6209,14 @@
       "onboard_time": 1700990312,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150571,
+      "num": 157278,
+      "word": "樊振东孙颖莎继续顶峰相见",
+      "onboard_time": 1701152672,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 150468,
@@ -6569,6 +6577,14 @@
       "onboard_time": 1701010716,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138624,
+      "num": 138624,
+      "word": "滴滴崩了后有司机后台收入690亿",
+      "onboard_time": 1701153273,
+      "rank": 47,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 138399,
