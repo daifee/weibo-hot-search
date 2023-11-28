@@ -1,0 +1,410 @@
+{
+  "runTime": 1701171264344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1687554,
+        "num": 1687554,
+        "word": "德德玛去世",
+        "onboard_time": 1701164974,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 800192,
+        "num": 1569497,
+        "word": "失业父亲因20元生日蛋糕泪崩",
+        "onboard_time": 1701161673,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26727,
+        "num": 1568595,
+        "word": "第一届中国国际供应链促进博览会",
+        "onboard_time": 1701157472,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1568330,
+        "num": 1568330,
+        "word": "痞幼3个月广告收入约为1620万",
+        "onboard_time": 1701159455,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 150341,
+        "num": 1014269,
+        "word": "这家快餐店可以免费吃饭",
+        "onboard_time": 1701165034,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984056,
+        "num": 984056,
+        "word": "李想 很抱歉我们失言了",
+        "onboard_time": 1701165632,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 614536,
+        "num": 614536,
+        "word": "MAMA导播是懂怼脸的",
+        "onboard_time": 1701167373,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451817,
+        "num": 451817,
+        "word": "佘诗曼美甲",
+        "onboard_time": 1701165455,
+        "rank": 7,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 455803,
+        "num": 451746,
+        "word": "沈小婷 猫女",
+        "onboard_time": 1701169236,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440833,
+        "num": 440833,
+        "word": "JackeyLove再唱天后",
+        "onboard_time": 1701168275,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 707625,
+        "num": 439500,
+        "word": "部分滴滴司机开始提现",
+        "onboard_time": 1701156751,
+        "rank": 10,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 508067,
+        "num": 438974,
+        "word": "易烊千玺网站 猫猫",
+        "onboard_time": 1701170435,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437707,
+        "num": 437707,
+        "word": "吴艳妮说我不是为了当网红",
+        "onboard_time": 1701166658,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110822,
+        "num": 436328,
+        "word": "内啡肽的快乐谁懂啊",
+        "onboard_time": 1701169357,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46357,
+        "num": 435261,
+        "word": "原神 赛诺神里绫人复刻",
+        "onboard_time": 1701169236,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 435074,
+        "num": 435074,
+        "word": "女子单位输液同事贡献金镯子当挂钩",
+        "onboard_time": 1701167313,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394391,
+        "num": 394391,
+        "word": "傅首尔老刘都没下车",
+        "onboard_time": 1701150453,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358807,
+        "num": 358807,
+        "word": "男子多次高空抛物致28岁女子身亡",
+        "onboard_time": 1701169718,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387912,
+        "num": 358602,
+        "word": "王睡睡 不要再回头了",
+        "onboard_time": 1701161314,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354367,
+        "num": 354367,
+        "word": "以爱为营 时宴婚礼现场直拍",
+        "onboard_time": 1701169296,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485991,
+        "num": 353855,
+        "word": "陈牧驰 南海归墟",
+        "onboard_time": 1701166235,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393295,
+        "num": 351367,
+        "word": "痞幼方回应3个月广告收入约1620万",
+        "onboard_time": 1701169893,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 347728,
+        "num": 347728,
+        "word": "Somi MAMA主持人",
+        "onboard_time": 1701169055,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344785,
+        "num": 344785,
+        "word": "80后最新首富马上来了",
+        "onboard_time": 1701170075,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 338790,
+        "num": 338790,
+        "word": "王睡睡 纯爱战神之首",
+        "onboard_time": 1701165156,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323136,
+        "num": 323136,
+        "word": "一念关山",
+        "onboard_time": 1701159933,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322586,
+        "num": 322586,
+        "word": "避孕焦虑症",
+        "onboard_time": 1701163054,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311814,
+        "num": 311814,
+        "word": "新闻女王 当众下跪给我一点小震撼",
+        "onboard_time": 1701158913,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272204,
+        "num": 272204,
+        "word": "异地考编的年轻人会后悔吗",
+        "onboard_time": 1701166174,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 270374,
+        "num": 270374,
+        "word": "大腿赘肉这下插翅逃难了",
+        "onboard_time": 1701169296,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 434224,
+        "num": 269885,
+        "word": "Xinyi爆料Doinb即将回归",
+        "onboard_time": 1701170134,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268758,
+        "num": 268758,
+        "word": "沈小婷MAMA新闻图",
+        "onboard_time": 1701162996,
+        "rank": 31,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 262774,
+        "num": 262774,
+        "word": "王睡睡张硕oe",
+        "onboard_time": 1701148117,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261364,
+        "num": 261364,
+        "word": "刘诗诗 这封信请小狮子们亲启",
+        "onboard_time": 1701165514,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258078,
+        "num": 258078,
+        "word": "MAMA阵容",
+        "onboard_time": 1701166474,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245084,
+        "num": 245084,
+        "word": "傅首尔说分手是很好的解放",
+        "onboard_time": 1701158855,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224499,
+        "num": 224499,
+        "word": "妈妈说爸爸的彩礼到期了",
+        "onboard_time": 1701167017,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221222,
+        "num": 221222,
+        "word": "张凌赫情绪怪稳定的",
+        "onboard_time": 1701168575,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214222,
+        "num": 214222,
+        "word": "朱丹曾被朋友骗光所有积蓄",
+        "onboard_time": 1701156992,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213780,
+        "num": 213780,
+        "word": "田曦薇看到代拍的反应",
+        "onboard_time": 1701167737,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209467,
+        "num": 209467,
+        "word": "周迅 叫我妈咪会被黄渤拖走",
+        "onboard_time": 1701170916,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192989,
+        "num": 192989,
+        "word": "傅首尔老刘 助你高飞",
+        "onboard_time": 1701164313,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186791,
+        "num": 186791,
+        "word": "滴滴系统崩溃预计损失超4亿",
+        "onboard_time": 1701150992,
+        "rank": 42,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 186194,
+        "num": 186194,
+        "word": "快乐老友记",
+        "onboard_time": 1701169775,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179942,
+        "num": 179942,
+        "word": "胡先煦再次社死",
+        "onboard_time": 1701166713,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175334,
+        "num": 175334,
+        "word": "热狗 我是骂所有人不只是杰伦",
+        "onboard_time": 1701145477,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154678,
+        "num": 154678,
+        "word": "羽绒服上没有这几个字再便宜也别买",
+        "onboard_time": 1701150333,
+        "rank": 46,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 153305,
+        "num": 153305,
+        "word": "滴滴回应司机提现",
+        "onboard_time": 1701167313,
+        "rank": 47,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 139199,
+        "num": 139199,
+        "word": "华为希望一汽集团加入",
+        "onboard_time": 1701161673,
+        "rank": 48,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 129948,
+        "num": 129948,
+        "word": "皮肤饥渴症",
+        "onboard_time": 1701171215,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#长江经济带发展日趋向好也要久久为功#"
+    }
+  }
+}

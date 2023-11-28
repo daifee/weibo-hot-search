@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701170107964,
+  "endTime": 1701171264344,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -1819,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 508067,
+      "num": 438974,
+      "word": "易烊千玺网站 猫猫",
+      "onboard_time": 1701170435,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 505371,
       "num": 505371,
       "word": "周杰伦演唱会长沙站获批",
@@ -2123,6 +2131,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 455803,
+      "num": 451746,
+      "word": "沈小婷 猫女",
+      "onboard_time": 1701169236,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455443,
       "num": 455443,
       "word": "易烊千玺分享试听音频",
@@ -2259,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437707,
+      "num": 437707,
+      "word": "吴艳妮说我不是为了当网红",
+      "onboard_time": 1701166658,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436508,
       "num": 436508,
       "word": "射手座是不会有归属感的",
@@ -2275,12 +2299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 434154,
-      "num": 434154,
-      "word": "吴艳妮说我不是为了当网红",
-      "onboard_time": 1701166658,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 434224,
+      "num": 269885,
+      "word": "Xinyi爆料Doinb即将回归",
+      "onboard_time": 1701170134,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 433970,
@@ -2563,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393295,
+      "num": 351367,
+      "word": "痞幼方回应3个月广告收入约1620万",
+      "onboard_time": 1701169893,
+      "rank": 38,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 393110,
       "num": 284020,
       "word": "脾胃不好气血不足就吃蒸苹果",
@@ -2787,6 +2819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 358807,
+      "num": 358807,
+      "word": "男子多次高空抛物致28岁女子身亡",
+      "onboard_time": 1701169718,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358465,
       "num": 358465,
       "word": "刘宇宁演技",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1701135992,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 354367,
+      "num": 354367,
+      "word": "以爱为营 时宴婚礼现场直拍",
+      "onboard_time": 1701169296,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 353400,
@@ -2867,6 +2915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 347728,
+      "num": 347728,
+      "word": "Somi MAMA主持人",
+      "onboard_time": 1701169055,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 347640,
       "num": 250439,
       "word": "王阳说秦岚电音朵拉很酷",
@@ -2913,6 +2969,14 @@
       "onboard_time": 1701064231,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344785,
+      "num": 344785,
+      "word": "80后最新首富马上来了",
+      "onboard_time": 1701170075,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 344536,
@@ -3475,14 +3539,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 294078,
-      "num": 294078,
-      "word": "沈小婷 猫女",
-      "onboard_time": 1701169236,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 293130,
       "num": 293130,
       "word": "宁安如梦薛烨流放",
@@ -3771,14 +3827,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 278893,
-      "num": 278893,
-      "word": "Somi MAMA主持人",
-      "onboard_time": 1701169055,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 278636,
       "num": 278636,
       "word": "无痛打耳洞方法",
@@ -3889,6 +3937,14 @@
       "onboard_time": 1701056135,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270374,
+      "num": 270374,
+      "word": "大腿赘肉这下插翅逃难了",
+      "onboard_time": 1701169296,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 270331,
@@ -4171,14 +4227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255182,
-      "num": 251042,
-      "word": "以爱为营 时宴婚礼现场直拍",
-      "onboard_time": 1701169296,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255068,
       "num": 255068,
       "word": "迪丽热巴冬日飘雪花絮",
@@ -4396,7 +4444,7 @@
     },
     {
       "raw_hot": 244105,
-      "num": 215423,
+      "num": 221222,
       "word": "张凌赫情绪怪稳定的",
       "onboard_time": 1701168575,
       "rank": 35,
@@ -5043,14 +5091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213726,
-      "num": 213726,
-      "word": "大腿赘肉这下插翅逃难了",
-      "onboard_time": 1701169296,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 213538,
       "num": 213538,
       "word": "华为新公司已向四界发出邀请",
@@ -5145,6 +5185,14 @@
       "onboard_time": 1701083974,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209467,
+      "num": 209467,
+      "word": "周迅 叫我妈咪会被黄渤拖走",
+      "onboard_time": 1701170916,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 208840,
@@ -5465,14 +5513,6 @@
       "onboard_time": 1701096637,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197742,
-      "num": 197742,
-      "word": "痞幼方回应3个月广告收入约1620万",
-      "onboard_time": 1701169893,
-      "rank": 38,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 197590,
@@ -5947,6 +5987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186194,
+      "num": 186194,
+      "word": "快乐老友记",
+      "onboard_time": 1701169775,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186133,
       "num": 186133,
       "word": "这4种喝水方式很伤身",
@@ -6065,14 +6113,6 @@
       "onboard_time": 1701151111,
       "rank": 38,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 181921,
-      "num": 181921,
-      "word": "快乐老友记",
-      "onboard_time": 1701169775,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 181594,
@@ -6385,14 +6425,6 @@
       "onboard_time": 1700962352,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170444,
-      "num": 170444,
-      "word": "男子多次高空抛物致28岁女子身亡",
-      "onboard_time": 1701169718,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170228,
@@ -7315,14 +7347,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 138820,
-      "num": 138820,
-      "word": "80后最新首富马上来了",
-      "onboard_time": 1701170075,
-      "rank": 49,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 138782,
       "num": 138782,
       "word": "一路前行 胡歌逗牧民小孩",
@@ -7473,6 +7497,14 @@
       "onboard_time": 1701073832,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 129948,
+      "num": 129948,
+      "word": "皮肤饥渴症",
+      "onboard_time": 1701171215,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128508,
@@ -7691,6 +7723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110822,
+      "num": 436328,
+      "word": "内啡肽的快乐谁懂啊",
+      "onboard_time": 1701169357,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109853,
       "num": 109853,
       "word": "你支持大学对公众开放吗",
@@ -7752,14 +7792,6 @@
       "word": "00后小伙跳科目三致胫骨挫伤",
       "onboard_time": 1701121634,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105110,
-      "num": 285776,
-      "word": "内啡肽的快乐谁懂啊",
-      "onboard_time": 1701169357,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -8291,6 +8323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46357,
+      "num": 435261,
+      "word": "原神 赛诺神里绫人复刻",
+      "onboard_time": 1701169236,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46119,
       "num": 212252,
       "word": "上海街头惊现温暖时装秀",
@@ -8425,14 +8465,6 @@
       "onboard_time": 1701089258,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25203,
-      "num": 434449,
-      "word": "原神 赛诺神里绫人复刻",
-      "onboard_time": 1701169236,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 24693,
