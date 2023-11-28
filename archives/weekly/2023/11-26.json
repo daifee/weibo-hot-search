@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701174818230,
+  "endTime": 1701175755062,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 927154,
+      "num": 927154,
+      "word": "已婚男陈立隐形出轨",
+      "onboard_time": 1701171815,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 915385,
       "num": 915385,
       "word": "王睡睡张硕oe",
@@ -955,20 +963,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 799897,
-      "num": 799897,
-      "word": "已婚男陈立隐形出轨",
-      "onboard_time": 1701171815,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 792970,
       "num": 792970,
       "word": "多次被要求提供不同材料女子发火",
       "onboard_time": 1700960430,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771680,
+      "num": 771680,
+      "word": "胃病发展成胃癌的五个征兆",
+      "onboard_time": 1701173797,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 769732,
@@ -1187,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 679170,
+      "num": 679170,
+      "word": "MAMA获奖名单",
+      "onboard_time": 1701174036,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 674501,
       "num": 674501,
       "word": "MAMA导播是懂怼脸的",
@@ -1331,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641906,
+      "num": 491533,
+      "word": "一念关山 六道堂男团",
+      "onboard_time": 1701174876,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 639589,
       "num": 639589,
       "word": "WBG 呼吸来不来",
@@ -1393,14 +1417,6 @@
       "onboard_time": 1701009099,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 622279,
-      "num": 305275,
-      "word": "MAMA获奖名单",
-      "onboard_time": 1701174036,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 619880,
@@ -1915,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502383,
+      "num": 302867,
+      "word": "一念关山节奏",
+      "onboard_time": 1701175116,
+      "rank": 20,
+      "category": "剧集,游戏"
+    },
+    {
       "raw_hot": 497668,
       "num": 497668,
       "word": "MAMA开场表演",
@@ -2091,14 +2115,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 471920,
-      "num": 471920,
-      "word": "胃病发展成胃癌的五个征兆",
-      "onboard_time": 1701173797,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 470804,
       "num": 470804,
       "word": "金莎曾被朋友要求支付陪聊酬劳",
@@ -2160,6 +2176,14 @@
       "word": "南海归墟片名是潘粤明写的",
       "onboard_time": 1701099211,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 460184,
+      "num": 460184,
+      "word": "一念关山 镜头美感",
+      "onboard_time": 1701175417,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -3337,6 +3361,14 @@
       "onboard_time": 1701051391,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311948,
+      "num": 311948,
+      "word": "孙丞潇不让金莎看手机",
+      "onboard_time": 1701173976,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 311876,
@@ -5683,6 +5715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195357,
+      "num": 186092,
+      "word": "东方神起红毯",
+      "onboard_time": 1701174215,
+      "rank": 34,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 194725,
       "num": 194725,
       "word": "陆虎不愧是综艺之神",
@@ -6081,14 +6121,6 @@
       "onboard_time": 1700963011,
       "rank": 27,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 186092,
-      "num": 186092,
-      "word": "东方神起红毯",
-      "onboard_time": 1701174215,
-      "rank": 34,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 185430,
@@ -6635,6 +6667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166381,
+      "num": 166381,
+      "word": "网传太原理工一导师辱骂压榨学生",
+      "onboard_time": 1701175057,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 165776,
       "num": 165776,
       "word": "梅西一家在迪士尼",
@@ -6649,14 +6689,6 @@
       "onboard_time": 1701062795,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165700,
-      "num": 165700,
-      "word": "孙丞潇不让金莎看手机",
-      "onboard_time": 1701173976,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 165698,
@@ -7273,6 +7305,14 @@
       "onboard_time": 1701088292,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144217,
+      "num": 144217,
+      "word": "Maybe官宣离队",
+      "onboard_time": 1701175417,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 143702,
@@ -8001,6 +8041,14 @@
       "onboard_time": 1700957908,
       "rank": 49,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 96773,
+      "num": 144164,
+      "word": "代号鸢刘辩 破碎感",
+      "onboard_time": 1701175596,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 95858,

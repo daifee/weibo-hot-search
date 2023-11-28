@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701174818230,
+  "endTime": 1701175755062,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 927154,
+      "num": 927154,
+      "word": "已婚男陈立隐形出轨",
+      "onboard_time": 1701171815,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 915385,
       "num": 915385,
       "word": "王睡睡张硕oe",
@@ -299,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 799897,
-      "num": 799897,
-      "word": "已婚男陈立隐形出轨",
-      "onboard_time": 1701171815,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 771680,
+      "num": 771680,
+      "word": "胃病发展成胃癌的五个征兆",
+      "onboard_time": 1701173797,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 768101,
@@ -387,6 +395,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 679170,
+      "num": 679170,
+      "word": "MAMA获奖名单",
+      "onboard_time": 1701174036,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 674501,
       "num": 674501,
       "word": "MAMA导播是懂怼脸的",
@@ -459,20 +475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641906,
+      "num": 491533,
+      "word": "一念关山 六道堂男团",
+      "onboard_time": 1701174876,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637152,
       "num": 637152,
       "word": "羽绒服上没有这几个字再便宜也别买",
       "onboard_time": 1701150333,
       "rank": 9,
       "category": "财经,时尚"
-    },
-    {
-      "raw_hot": 622279,
-      "num": 305275,
-      "word": "MAMA获奖名单",
-      "onboard_time": 1701174036,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 616244,
@@ -611,6 +627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 502383,
+      "num": 302867,
+      "word": "一念关山节奏",
+      "onboard_time": 1701175116,
+      "rank": 20,
+      "category": "剧集,游戏"
+    },
+    {
       "raw_hot": 497668,
       "num": 497668,
       "word": "MAMA开场表演",
@@ -659,14 +683,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 471920,
-      "num": 471920,
-      "word": "胃病发展成胃癌的五个征兆",
-      "onboard_time": 1701173797,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 470804,
       "num": 470804,
       "word": "金莎曾被朋友要求支付陪聊酬劳",
@@ -688,6 +704,14 @@
       "word": "南海归墟片名是潘粤明写的",
       "onboard_time": 1701099211,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 460184,
+      "num": 460184,
+      "word": "一念关山 镜头美感",
+      "onboard_time": 1701175417,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -1001,6 +1025,14 @@
       "onboard_time": 1701136711,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 311948,
+      "num": 311948,
+      "word": "孙丞潇不让金莎看手机",
+      "onboard_time": 1701173976,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 311429,
@@ -1779,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195357,
+      "num": 186092,
+      "word": "东方神起红毯",
+      "onboard_time": 1701174215,
+      "rank": 34,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 194967,
       "num": 194967,
       "word": "杨洋系个腰带吧",
@@ -1857,14 +1897,6 @@
       "onboard_time": 1701169775,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186092,
-      "num": 186092,
-      "word": "东方神起红毯",
-      "onboard_time": 1701174215,
-      "rank": 34,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 184229,
@@ -2083,12 +2115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165700,
-      "num": 165700,
-      "word": "孙丞潇不让金莎看手机",
-      "onboard_time": 1701173976,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 166381,
+      "num": 166381,
+      "word": "网传太原理工一导师辱骂压榨学生",
+      "onboard_time": 1701175057,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 164729,
@@ -2315,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144217,
+      "num": 144217,
+      "word": "Maybe官宣离队",
+      "onboard_time": 1701175417,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143702,
       "num": 143702,
       "word": "要不要戒掉情绪价值",
@@ -2529,6 +2569,14 @@
       "onboard_time": 1701099813,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 96773,
+      "num": 144164,
+      "word": "代号鸢刘辩 破碎感",
+      "onboard_time": 1701175596,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 96474,
