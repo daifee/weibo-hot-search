@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701149658094,
+  "endTime": 1701152622718,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -131,6 +131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2063091,
+      "num": 2063091,
+      "word": "喜茶 我佛持杯",
+      "onboard_time": 1701148893,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2024484,
       "num": 2024484,
       "word": "昆明震感",
@@ -235,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1769605,
+      "num": 1769605,
+      "word": "傅首尔老刘都没下车",
+      "onboard_time": 1701150453,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1760217,
       "num": 1553682,
       "word": "韩网评尖叫之夜男明星造型",
@@ -264,6 +280,14 @@
       "word": "羽绒服涨价把市场让给了军大衣",
       "onboard_time": 1701044614,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1684358,
+      "num": 1684358,
+      "word": "主播小涛在非洲在埃塞俄比亚遇害",
+      "onboard_time": 1701147219,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -505,14 +529,6 @@
       "onboard_time": 1701058117,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1110646,
-      "num": 1110646,
-      "word": "主播小涛在非洲在埃塞俄比亚遇害",
-      "onboard_time": 1701147219,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1104894,
@@ -995,6 +1011,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 697648,
+      "num": 697648,
+      "word": "MAMA红毯",
+      "onboard_time": 1701150754,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 696400,
       "num": 696400,
       "word": "福宝",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1701003158,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 646352,
+      "num": 498235,
+      "word": "滴滴系统崩溃预计损失超4亿",
+      "onboard_time": 1701150992,
+      "rank": 10,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 646278,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1700917371,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 583410,
-      "num": 583410,
-      "word": "喜茶 我佛持杯",
-      "onboard_time": 1701148893,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 581758,
@@ -1609,6 +1633,14 @@
       "onboard_time": 1701056557,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 504575,
+      "num": 504575,
+      "word": "羽绒服上没有这几个字再便宜也别买",
+      "onboard_time": 1701150333,
+      "rank": 9,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 504020,
@@ -2467,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359450,
+      "num": 359450,
+      "word": "王嘉尔上海 我抢到了",
+      "onboard_time": 1701150214,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 358465,
       "num": 358465,
       "word": "刘宇宁演技",
@@ -2699,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326366,
+      "num": 326366,
+      "word": "刘亦菲张靓颖 姐妹爆料",
+      "onboard_time": 1701151834,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 324957,
       "num": 324957,
       "word": "MMA最终出演阵容",
@@ -2891,6 +2939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 310647,
+      "num": 310647,
+      "word": "烤红薯和蒸红薯哪个更健康",
+      "onboard_time": 1701149434,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 310544,
       "num": 310544,
       "word": "Alan 当年是谁让你跳大的",
@@ -3049,6 +3105,14 @@
       "onboard_time": 1701147938,
       "rank": 27,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 298171,
+      "num": 298171,
+      "word": "王诗晴纪焕博",
+      "onboard_time": 1701152191,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 298069,
@@ -3537,6 +3601,14 @@
       "onboard_time": 1700966313,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262687,
+      "num": 229942,
+      "word": "这一世若曦也没能救出玉檀",
+      "onboard_time": 1701151533,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 261740,
@@ -4091,6 +4163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230499,
+      "num": 230499,
+      "word": "体态不美的人有福了",
+      "onboard_time": 1701149076,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 230181,
       "num": 230181,
       "word": "梁朝伟新片爽文男主",
@@ -4137,6 +4217,14 @@
       "onboard_time": 1701135631,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 229318,
+      "num": 229318,
+      "word": "许光汉猩红脚趾美甲",
+      "onboard_time": 1701149434,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 228414,
@@ -4579,6 +4667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203496,
+      "num": 203496,
+      "word": "柯南黑铁的鱼影定档",
+      "onboard_time": 1701152374,
+      "rank": 27,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 203150,
       "num": 203150,
       "word": "铁三角和海底捞就差一个科目三",
@@ -4593,6 +4689,14 @@
       "onboard_time": 1701133779,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 202737,
+      "num": 200155,
+      "word": "盲人女性如何度过经期",
+      "onboard_time": 1701152610,
+      "rank": 30,
+      "category": "社会议题"
     },
     {
       "raw_hot": 202481,
@@ -4689,6 +4793,14 @@
       "onboard_time": 1701006336,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200472,
+      "num": 200472,
+      "word": "荣耀接棒华为海外市场高速增长",
+      "onboard_time": 1701151955,
+      "rank": 29,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 199972,
@@ -5083,14 +5195,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 190349,
-      "num": 190349,
-      "word": "许光汉猩红脚趾美甲",
-      "onboard_time": 1701149434,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 190032,
       "num": 190032,
       "word": "叶逸凡老婆奴",
@@ -5176,14 +5280,6 @@
       "word": "十个蛋的煎饼果子",
       "onboard_time": 1701091235,
       "rank": 45,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 188298,
-      "num": 188298,
-      "word": "烤红薯和蒸红薯哪个更健康",
-      "onboard_time": 1701149434,
-      "rank": 39,
       "category": "美食"
     },
     {
@@ -5329,6 +5425,14 @@
       "onboard_time": 1701052773,
       "rank": 49,
       "category": "数码,科学科普"
+    },
+    {
+      "raw_hot": 182073,
+      "num": 182073,
+      "word": "周鸿祎谈滴滴崩了会发生什么",
+      "onboard_time": 1701151111,
+      "rank": 38,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 181594,
@@ -5515,6 +5619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175141,
+      "num": 175141,
+      "word": "华为邀请4家合作车企共投合资公司",
+      "onboard_time": 1701150812,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 174772,
       "num": 668260,
       "word": "千万别用吃很多药预防呼吸道疾病",
@@ -5595,14 +5707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170313,
-      "num": 170313,
-      "word": "体态不美的人有福了",
-      "onboard_time": 1701149076,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 170228,
       "num": 170228,
       "word": "王嘉尔上海演唱会官宣两场",
@@ -5673,6 +5777,14 @@
       "onboard_time": 1701132636,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167103,
+      "num": 167103,
+      "word": "中共中央政治局第十次集体学习",
+      "onboard_time": 1701152253,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166832,
@@ -5827,6 +5939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160935,
+      "num": 160935,
+      "word": "丁程鑫为看battle又蹲又爬",
+      "onboard_time": 1701151411,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160354,
       "num": 160354,
       "word": "金莎姐弟恋的受众是谁",
@@ -5913,6 +6033,14 @@
       "onboard_time": 1700981433,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155654,
+      "num": 155654,
+      "word": "业内人士称滴滴底层系统疑遭攻击",
+      "onboard_time": 1701149552,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 155602,
@@ -6032,6 +6160,22 @@
       "word": "白鹿眼中的热爱",
       "onboard_time": 1701149374,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152770,
+      "num": 152770,
+      "word": "掘金vs快船",
+      "onboard_time": 1701152311,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152585,
+      "num": 152585,
+      "word": "小满生活陈立精神出轨",
+      "onboard_time": 1701152434,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -6187,14 +6331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147291,
-      "num": 147291,
-      "word": "业内人士称滴滴底层系统疑遭攻击",
-      "onboard_time": 1701149552,
-      "rank": 46,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 147074,
       "num": 147074,
       "word": "任如意被直球追爱",
@@ -6300,7 +6436,7 @@
     },
     {
       "raw_hot": 141498,
-      "num": 1249494,
+      "num": 1701996,
       "word": "呼吸道疾病高发期实用防治手册",
       "onboard_time": 1701132580,
       "rank": 49,
@@ -7281,6 +7417,14 @@
       "onboard_time": 1701116892,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56583,
+      "num": 201042,
+      "word": "智界S7续航超800公里",
+      "onboard_time": 1701150453,
+      "rank": 28,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 56047,
