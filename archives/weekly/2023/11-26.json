@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701178427659,
+  "endTime": 1701181037317,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -425,6 +425,14 @@
       "onboard_time": 1701085772,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1341007,
+      "num": 416853,
+      "word": "珠海机场 广播寻找杨幂",
+      "onboard_time": 1701178597,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1327811,
@@ -1699,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551417,
+      "num": 551417,
+      "word": "一念关山节奏",
+      "onboard_time": 1701175116,
+      "rank": 20,
+      "category": "剧集,游戏"
+    },
+    {
       "raw_hot": 549471,
       "num": 549471,
       "word": "张遮终生未娶",
@@ -1833,14 +1849,6 @@
       "onboard_time": 1701059379,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 527889,
-      "num": 302867,
-      "word": "一念关山节奏",
-      "onboard_time": 1701175116,
-      "rank": 20,
-      "category": "剧集,游戏"
     },
     {
       "raw_hot": 527519,
@@ -2192,6 +2200,14 @@
       "word": "深圳一公司给员工放假10个月",
       "onboard_time": 1701082294,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467088,
+      "num": 467088,
+      "word": "北京要求一切以孩子身体为重",
+      "onboard_time": 1701179618,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -2635,6 +2651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 402736,
+      "num": 259688,
+      "word": "我和papi酱的愿望是一样的",
+      "onboard_time": 1701177819,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 402218,
       "num": 402218,
       "word": "Eric章昊cha了",
@@ -2899,6 +2923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369825,
+      "num": 369825,
+      "word": "一念关山在线观看人数",
+      "onboard_time": 1701177097,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367784,
       "num": 367784,
       "word": "国考参考人数与录用计划数约57:1",
@@ -3001,14 +3033,6 @@
       "onboard_time": 1700969194,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352587,
-      "num": 352587,
-      "word": "一念关山在线观看人数",
-      "onboard_time": 1701177097,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 350248,
@@ -3201,6 +3225,14 @@
       "onboard_time": 1701009035,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 331584,
+      "num": 259312,
+      "word": "诛仙1实时收视登顶",
+      "onboard_time": 1701180216,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 331055,
@@ -3529,6 +3561,14 @@
       "onboard_time": 1700978732,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 304492,
+      "num": 233903,
+      "word": "新闻女王 包治百病",
+      "onboard_time": 1701179795,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 304332,
@@ -4331,6 +4371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 257055,
+      "num": 257055,
+      "word": "张雪峰催生新婚员工承诺1个娃奖2万",
+      "onboard_time": 1701176736,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 256755,
       "num": 256755,
       "word": "WBG 原阵容",
@@ -4473,6 +4521,14 @@
       "onboard_time": 1701167737,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249451,
+      "num": 249451,
+      "word": "山东泰山 双帽",
+      "onboard_time": 1701180156,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 249320,
@@ -4755,14 +4811,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 234631,
-      "num": 190870,
-      "word": "我和papi酱的愿望是一样的",
-      "onboard_time": 1701177819,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234513,
       "num": 234513,
       "word": "小杨哥演唱会线上观众超10万人",
@@ -4931,6 +4979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228866,
+      "num": 228866,
+      "word": "亚冠",
+      "onboard_time": 1701180457,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228414,
       "num": 228414,
       "word": "大熊猫打架看镜头示意游客拍照",
@@ -5057,6 +5113,14 @@
       "onboard_time": 1701085895,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221239,
+      "num": 221239,
+      "word": "崔然竣镜头只有3秒",
+      "onboard_time": 1701180457,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 221135,
@@ -5225,6 +5289,14 @@
       "onboard_time": 1700966132,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215010,
+      "num": 184599,
+      "word": "ENHYPEN Dance Break",
+      "onboard_time": 1701180216,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 214553,
@@ -5537,6 +5609,14 @@
       "onboard_time": 1700996430,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201505,
+      "num": 201505,
+      "word": "山东泰山6比1卡雅",
+      "onboard_time": 1701180578,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 201461,
@@ -5939,14 +6019,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 191958,
-      "num": 198808,
-      "word": "张雪峰催生新婚员工承诺1个娃奖2万",
-      "onboard_time": 1701176736,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 191791,
       "num": 191791,
       "word": "得了一种想谈不能真谈的怪病",
@@ -6267,6 +6339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183768,
+      "num": 222748,
+      "word": "王嘉尔首场潮流大秀",
+      "onboard_time": 1701179317,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 183715,
       "num": 183715,
       "word": "影视飓风 卫星",
@@ -6297,6 +6377,14 @@
       "onboard_time": 1701158734,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183322,
+      "num": 171390,
+      "word": "keshi上海演唱会",
+      "onboard_time": 1701179495,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 183191,
@@ -6689,6 +6777,14 @@
       "onboard_time": 1701072631,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 169284,
+      "num": 169284,
+      "word": "电子晕船",
+      "onboard_time": 1701180337,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 169030,
@@ -7443,6 +7539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142756,
+      "num": 142756,
+      "word": "莫伊塞斯告别战进球",
+      "onboard_time": 1701179317,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142629,
       "num": 142629,
       "word": "庄稼不会半夜给下属打电话",
@@ -7561,6 +7665,14 @@
       "onboard_time": 1701005258,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 139294,
+      "num": 139294,
+      "word": "当戴耳机变成了一种习惯",
+      "onboard_time": 1701180878,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 139218,
@@ -8379,6 +8491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68159,
+      "num": 185594,
+      "word": "FUSION大秀真会整活",
+      "onboard_time": 1701180518,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 68133,
       "num": 66543,
       "word": "狂飙剧组时尚芭莎大片",
@@ -8691,6 +8811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29579,
+      "num": 1070380,
+      "word": "首届链博会让中外企业共享新机遇",
+      "onboard_time": 1701176317,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28343,
       "num": 33333,
       "word": "李荣浩嘉宾真是陈奕迅",
@@ -8745,14 +8873,6 @@
       "onboard_time": 1701107239,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 24647,
-      "num": 1070380,
-      "word": "首届链博会让中外企业共享新机遇",
-      "onboard_time": 1701176317,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24312,
