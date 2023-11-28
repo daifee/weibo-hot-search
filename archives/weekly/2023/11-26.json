@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701181037317,
+  "endTime": 1701182112759,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1492602,
+      "num": 416853,
+      "word": "珠海机场 广播寻找杨幂",
+      "onboard_time": 1701178597,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1467157,
       "num": 1467157,
       "word": "贴身衣物最好不要买黑色",
@@ -425,14 +433,6 @@
       "onboard_time": 1701085772,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1341007,
-      "num": 416853,
-      "word": "珠海机场 广播寻找杨幂",
-      "onboard_time": 1701178597,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1327811,
@@ -937,6 +937,14 @@
       "onboard_time": 1700991696,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 827741,
+      "num": 827741,
+      "word": "北京要求一切以孩子身体为重",
+      "onboard_time": 1701179618,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 820061,
@@ -2203,14 +2211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467088,
-      "num": 467088,
-      "word": "北京要求一切以孩子身体为重",
-      "onboard_time": 1701179618,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 466905,
       "num": 458353,
       "word": "尖叫之夜结束后的我belike",
@@ -2329,6 +2329,14 @@
       "onboard_time": 1701059921,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 449534,
+      "num": 304318,
+      "word": "我和papi酱的愿望是一样的",
+      "onboard_time": 1701177819,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 448936,
@@ -2563,6 +2571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 415557,
+      "num": 327289,
+      "word": "徐明浩直播",
+      "onboard_time": 1701181717,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412893,
       "num": 412893,
       "word": "国考申论难吗",
@@ -2649,14 +2665,6 @@
       "onboard_time": 1701068672,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 402736,
-      "num": 259688,
-      "word": "我和papi酱的愿望是一样的",
-      "onboard_time": 1701177819,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 402218,
@@ -2867,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380316,
+      "num": 369825,
+      "word": "一念关山在线观看人数",
+      "onboard_time": 1701177097,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379980,
       "num": 379980,
       "word": "林志玲北野武 颁奖",
@@ -2921,14 +2937,6 @@
       "onboard_time": 1700996794,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369825,
-      "num": 369825,
-      "word": "一念关山在线观看人数",
-      "onboard_time": 1701177097,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 367784,
@@ -3033,6 +3041,14 @@
       "onboard_time": 1700969194,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351867,
+      "num": 295125,
+      "word": "邓超定7个闹钟听鹿晗新歌",
+      "onboard_time": 1701181297,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 350248,
@@ -3329,6 +3345,14 @@
       "onboard_time": 1700937137,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320590,
+      "num": 320590,
+      "word": "亚冠",
+      "onboard_time": 1701180457,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 320298,
@@ -4699,6 +4723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 240638,
+      "num": 198489,
+      "word": "新闻女王片头引言",
+      "onboard_time": 1701181657,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240329,
       "num": 211767,
       "word": "刘诗诗一念关山定妆花絮",
@@ -4977,14 +5009,6 @@
       "onboard_time": 1701149434,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 228866,
-      "num": 228866,
-      "word": "亚冠",
-      "onboard_time": 1701180457,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 228414,
@@ -5555,6 +5579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202897,
+      "num": 194238,
+      "word": "Somi 舞台现场换装",
+      "onboard_time": 1701181297,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202760,
       "num": 202760,
       "word": "滴滴费用异常会统一结算补偿",
@@ -5979,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192447,
+      "num": 192447,
+      "word": "海南警方的普法视频转场",
+      "onboard_time": 1701181539,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192324,
       "num": 192324,
       "word": "张雨绮为新剧剪短发",
@@ -6065,6 +6105,14 @@
       "onboard_time": 1701062975,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190799,
+      "num": 190799,
+      "word": "当戴耳机变成了一种习惯",
+      "onboard_time": 1701180878,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 190548,
@@ -7667,14 +7715,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 139294,
-      "num": 139294,
-      "word": "当戴耳机变成了一种习惯",
-      "onboard_time": 1701180878,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139218,
       "num": 139218,
       "word": "没想到鸡蛋都有八块腹肌了",
@@ -7865,6 +7905,14 @@
       "onboard_time": 1701073832,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 129655,
+      "num": 146342,
+      "word": "投降式睡姿的康复角度解析",
+      "onboard_time": 1701182017,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128508,
@@ -8371,6 +8419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79410,
+      "num": 323432,
+      "word": "FUSION大秀真会整活",
+      "onboard_time": 1701180518,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 77891,
       "num": 332748,
       "word": "花海直播",
@@ -8489,14 +8545,6 @@
       "onboard_time": 1700954480,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68159,
-      "num": 185594,
-      "word": "FUSION大秀真会整活",
-      "onboard_time": 1701180518,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 68133,
@@ -8955,6 +9003,9 @@
     },
     {
       "word": "#中共中央政治局第十次集体学习#"
+    },
+    {
+      "word": "#促进优质网络文化产品生产传播#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701181037317,
+  "endTime": 1701182112759,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -107,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1492602,
+      "num": 416853,
+      "word": "珠海机场 广播寻找杨幂",
+      "onboard_time": 1701178597,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1434882,
       "num": 553843,
       "word": "部分滴滴司机开始提现",
       "onboard_time": 1701156751,
       "rank": 23,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 1341007,
-      "num": 416853,
-      "word": "珠海机场 广播寻找杨幂",
-      "onboard_time": 1701178597,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1321813,
@@ -313,6 +313,14 @@
       "onboard_time": 1701154711,
       "rank": 9,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 827741,
+      "num": 827741,
+      "word": "北京要求一切以孩子身体为重",
+      "onboard_time": 1701179618,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 820061,
@@ -747,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 467088,
-      "num": 467088,
-      "word": "北京要求一切以孩子身体为重",
-      "onboard_time": 1701179618,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463703,
       "num": 463703,
       "word": "陈都灵一念关山一行泪",
@@ -785,6 +785,14 @@
       "onboard_time": 1701072454,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 449534,
+      "num": 304318,
+      "word": "我和papi酱的愿望是一样的",
+      "onboard_time": 1701177819,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 440110,
@@ -867,20 +875,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 415557,
+      "num": 327289,
+      "word": "徐明浩直播",
+      "onboard_time": 1701181717,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408695,
       "num": 408695,
       "word": "刘诗诗 这封信请小狮子们亲启",
       "onboard_time": 1701165514,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402736,
-      "num": 259688,
-      "word": "我和papi酱的愿望是一样的",
-      "onboard_time": 1701177819,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 401958,
@@ -963,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380316,
+      "num": 369825,
+      "word": "一念关山在线观看人数",
+      "onboard_time": 1701177097,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379684,
       "num": 379684,
       "word": "80后最新首富马上来了",
@@ -976,14 +992,6 @@
       "word": "南海归墟首播反响",
       "onboard_time": 1701137793,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 369825,
-      "num": 369825,
-      "word": "一念关山在线观看人数",
-      "onboard_time": 1701177097,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1017,6 +1025,14 @@
       "onboard_time": 1701169296,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 351867,
+      "num": 295125,
+      "word": "邓超定7个闹钟听鹿晗新歌",
+      "onboard_time": 1701181297,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 350248,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1701158013,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320590,
+      "num": 320590,
+      "word": "亚冠",
+      "onboard_time": 1701180457,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 313914,
@@ -1579,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240638,
+      "num": 198489,
+      "word": "新闻女王片头引言",
+      "onboard_time": 1701181657,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239896,
       "num": 239896,
       "word": "开香槟",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1701149434,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 228866,
-      "num": 228866,
-      "word": "亚冠",
-      "onboard_time": 1701180457,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 228349,
@@ -1859,6 +1883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202897,
+      "num": 194238,
+      "word": "Somi 舞台现场换装",
+      "onboard_time": 1701181297,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202760,
       "num": 202760,
       "word": "滴滴费用异常会统一结算补偿",
@@ -1987,6 +2019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192447,
+      "num": 192447,
+      "word": "海南警方的普法视频转场",
+      "onboard_time": 1701181539,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192233,
       "num": 192233,
       "word": "长相思香港上星播出",
@@ -2009,6 +2049,14 @@
       "onboard_time": 1701148656,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 190799,
+      "num": 190799,
+      "word": "当戴耳机变成了一种习惯",
+      "onboard_time": 1701180878,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 189760,
@@ -2611,14 +2659,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 139294,
-      "num": 139294,
-      "word": "当戴耳机变成了一种习惯",
-      "onboard_time": 1701180878,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134967,
       "num": 134967,
       "word": "赵昭仪模仿胡先煦耍帅",
@@ -2657,6 +2697,14 @@
       "onboard_time": 1701098856,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129655,
+      "num": 146342,
+      "word": "投降式睡姿的康复角度解析",
+      "onboard_time": 1701182017,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128289,
@@ -2827,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79410,
+      "num": 323432,
+      "word": "FUSION大秀真会整活",
+      "onboard_time": 1701180518,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 74249,
       "num": 74249,
       "word": "尖叫之夜微博战报",
@@ -2865,14 +2921,6 @@
       "onboard_time": 1701115153,
       "rank": 42,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 68159,
-      "num": 185594,
-      "word": "FUSION大秀真会整活",
-      "onboard_time": 1701180518,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 67052,
@@ -3103,6 +3151,9 @@
     },
     {
       "word": "#中共中央政治局第十次集体学习#"
+    },
+    {
+      "word": "#促进优质网络文化产品生产传播#"
     }
   ]
 }
