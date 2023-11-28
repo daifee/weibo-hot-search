@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701166776063,
+  "endTime": 1701167844467,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1516336,
-      "num": 1516336,
-      "word": "失业父亲因20元生日蛋糕泪崩",
-      "onboard_time": 1701161673,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1500159,
-      "num": 1500159,
+      "raw_hot": 1646075,
+      "num": 1646075,
       "word": "德德玛去世",
       "onboard_time": 1701164974,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1516336,
+      "num": 1714506,
+      "word": "失业父亲因20元生日蛋糕泪崩",
+      "onboard_time": 1701161673,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1434882,
@@ -177,6 +177,14 @@
       "onboard_time": 1701153273,
       "rank": 47,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 1042116,
+      "num": 523743,
+      "word": "李想 很抱歉我们失言了",
+      "onboard_time": 1701165632,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 977706,
@@ -281,14 +289,6 @@
       "onboard_time": 1701146257,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 772193,
-      "num": 523556,
-      "word": "李想 很抱歉我们失言了",
-      "onboard_time": 1701165632,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 768101,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547398,
+      "num": 547398,
+      "word": "佘诗曼美甲",
+      "onboard_time": 1701165455,
+      "rank": 14,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 528824,
       "num": 528824,
       "word": "00后男孩开货车5年收入超百万",
@@ -603,14 +611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 439774,
-      "num": 439774,
-      "word": "佘诗曼美甲",
-      "onboard_time": 1701165455,
-      "rank": 14,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 438899,
       "num": 438899,
       "word": "刘亦菲张靓颖 姐妹爆料",
@@ -675,6 +675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 394743,
+      "num": 394743,
+      "word": "陈牧驰 南海归墟",
+      "onboard_time": 1701166235,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393943,
       "num": 393943,
       "word": "古巨基宋亚轩 养成系最好的相见",
@@ -731,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380776,
+      "num": 262117,
+      "word": "MAMA导播是懂怼脸的",
+      "onboard_time": 1701167373,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378258,
       "num": 378258,
       "word": "南海归墟首播反响",
@@ -761,6 +777,14 @@
       "onboard_time": 1701098139,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 350248,
+      "num": 864740,
+      "word": "嗓子痛可以喝冰水缓解",
+      "onboard_time": 1701162815,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349341,
@@ -939,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289210,
+      "num": 258984,
+      "word": "妈妈说爸爸的彩礼到期了",
+      "onboard_time": 1701167017,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288540,
       "num": 288540,
       "word": "这一世若曦也没能救出玉檀",
@@ -963,6 +995,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 286266,
+      "num": 286266,
+      "word": "异地考编的年轻人会后悔吗",
+      "onboard_time": 1701166174,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 283361,
       "num": 283361,
       "word": "滴滴再次就服务异常致歉",
@@ -977,6 +1017,14 @@
       "onboard_time": 1701155972,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281383,
+      "num": 281383,
+      "word": "吴艳妮说我不是为了当网红",
+      "onboard_time": 1701166658,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 281103,
@@ -1011,20 +1059,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274606,
+      "num": 274606,
+      "word": "MAMA阵容",
+      "onboard_time": 1701166474,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272587,
       "num": 272587,
       "word": "青春剧为什么不拍研究生",
       "onboard_time": 1701095015,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 272436,
-      "num": 241224,
-      "word": "陈牧驰 南海归墟",
-      "onboard_time": 1701166235,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 269189,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1701136893,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266568,
+      "num": 266568,
+      "word": "胡先煦再次社死",
+      "onboard_time": 1701166713,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 264692,
@@ -1121,14 +1177,6 @@
       "onboard_time": 1701088415,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 255473,
-      "num": 864740,
-      "word": "嗓子痛可以喝冰水缓解",
-      "onboard_time": 1701162815,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255068,
@@ -1307,14 +1355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 221815,
-      "num": 179072,
-      "word": "MAMA阵容",
-      "onboard_time": 1701166474,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221108,
       "num": 221108,
       "word": "陈飞宇抱着咸鱼进组献鱼",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1701137793,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219216,
+      "num": 219216,
+      "word": "滴滴回应司机提现",
+      "onboard_time": 1701167313,
+      "rank": 38,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 218185,
@@ -1491,14 +1539,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 200014,
-      "num": 200014,
-      "word": "异地考编的年轻人会后悔吗",
-      "onboard_time": 1701166174,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 199972,
       "num": 199972,
       "word": "VOGUE蓝毯大片",
@@ -1609,14 +1649,6 @@
       "onboard_time": 1701163955,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 184796,
-      "num": 184796,
-      "word": "吴艳妮说我不是为了当网红",
-      "onboard_time": 1701166658,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 184229,
@@ -1769,6 +1801,14 @@
       "onboard_time": 1701157831,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171781,
+      "num": 705157,
+      "word": "这家快餐店可以免费吃饭",
+      "onboard_time": 1701165034,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170734,
@@ -1947,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152771,
+      "num": 642035,
+      "word": "女子单位输液同事贡献金镯子当挂钩",
+      "onboard_time": 1701167313,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151862,
       "num": 151862,
       "word": "Knight",
@@ -1969,14 +2017,6 @@
       "onboard_time": 1701152672,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150391,
-      "num": 150391,
-      "word": "胡先煦再次社死",
-      "onboard_time": 1701166713,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 148380,
@@ -2099,12 +2139,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 137645,
-      "num": 705157,
-      "word": "这家快餐店可以免费吃饭",
-      "onboard_time": 1701165034,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 136919,
+      "num": 136919,
+      "word": "田曦薇看到代拍的反应",
+      "onboard_time": 1701167737,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 134967,
@@ -2436,7 +2476,7 @@
     },
     {
       "raw_hot": 42147,
-      "num": 1506036,
+      "num": 1657428,
       "word": "第一届中国国际供应链促进博览会",
       "onboard_time": 1701157472,
       "rank": 2,

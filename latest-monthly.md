@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 18:19:36
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 18:37:24
 </p>
 </blockquote>
 <p>
@@ -2481,6 +2481,12 @@ RNG能不能把gala卡回来（热度：1650872）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
+德德玛去世（热度：1646075）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2332%E5%B2%81%E5%A5%B3%E5%AD%909%E5%B9%B4%E8%8A%B1%E8%B4%B9%E8%BF%9127%E4%B8%87%E5%90%83%E6%B5%B7%E5%BA%95%E6%8D%9E%23" target="weibo">
 32岁女子9年花费近27万吃海底捞（热度：1644196）
 </a>
@@ -2981,12 +2987,6 @@ WBG 选边（热度：1521385）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E5%9B%9E%E6%94%B6%23" target="weibo">
 沪上阿姨 回收（热度：1502510）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
-德德玛去世（热度：1500159）
 </a>
 </li>
 
@@ -5067,6 +5067,12 @@ WBG晋级S13四强（热度：1045519）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%20%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86%23" target="weibo">
+李想 很抱歉我们失言了（热度：1042116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%20%E5%A5%B3%E5%8D%95%23" target="weibo">
 陈梦 女单（热度：1040217）
 </a>
@@ -6005,12 +6011,6 @@ TheShy生日礼物（热度：917952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Zeus%E8%8E%B7FMVP%23" target="weibo">
 Zeus获FMVP（热度：912155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BD%A0%E4%BF%A9%E4%B8%8D%E8%AE%A4%E8%AF%86%E5%90%97%23" target="weibo">
-白敬亭宋轶你俩不认识吗（热度：910503）
 </a>
 </li>
 

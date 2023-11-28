@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/28 00:24:00 ~ 2023/11/28 18:19:36
+本榜单时间：2023/11/28 00:24:00 ~ 2023/11/28 18:37:24
 </p>
 </blockquote>
 <p>
@@ -75,14 +75,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%88%B6%E4%BA%B2%E5%9B%A020%E5%85%83%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E6%B3%AA%E5%B4%A9%23" target="weibo">
-失业父亲因20元生日蛋糕泪崩（热度：1516336）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
+德德玛去世（热度：1646075）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
-德德玛去世（热度：1500159）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%88%B6%E4%BA%B2%E5%9B%A020%E5%85%83%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E6%B3%AA%E5%B4%A9%23" target="weibo">
+失业父亲因20元生日蛋糕泪崩（热度：1516336）
 </a>
 </li>
 
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E5%90%8E%E6%9C%89%E5%8F%B8%E6%9C%BA%E5%90%8E%E5%8F%B0%E6%94%B6%E5%85%A5690%E4%BA%BF%23" target="weibo">
 滴滴崩了后有司机后台收入690亿（热度：1052340）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%20%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86%23" target="weibo">
+李想 很抱歉我们失言了（热度：1042116）
 </a>
 </li>
 
@@ -221,12 +227,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9D%A0%E5%89%AF%E4%B8%9A%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E4%BB%8D%E5%81%9A%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%23" target="weibo">
 男子靠副业月入过万仍做公交司机（热度：802410）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%20%E5%BE%88%E6%8A%B1%E6%AD%89%E6%88%91%E4%BB%AC%E5%A4%B1%E8%A8%80%E4%BA%86%23" target="weibo">
-李想 很抱歉我们失言了（热度：772193）
 </a>
 </li>
 
@@ -399,6 +399,12 @@ MAMA红毯（热度：723822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E7%BE%8E%E7%94%B2%23" target="weibo">
+佘诗曼美甲（热度：547398）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%94%B7%E5%AD%A9%E5%BC%80%E8%B4%A7%E8%BD%A65%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%85%E7%99%BE%E4%B8%87%23" target="weibo">
 00后男孩开货车5年收入超百万（热度：528824）
 </a>
@@ -465,12 +471,6 @@ MAMA开场表演（热度：497668）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E7%BE%8E%E7%94%B2%23" target="weibo">
-佘诗曼美甲（热度：439774）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BC%A0%E9%9D%93%E9%A2%96%20%E5%A7%90%E5%A6%B9%E7%88%86%E6%96%99%23" target="weibo">
 刘亦菲张靓颖 姐妹爆料（热度：438899）
 </a>
@@ -519,6 +519,12 @@ treasure在MAMA红毯上滑步（热度：418812）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%20%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%23" target="weibo">
+陈牧驰 南海归墟（热度：394743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%B7%A8%E5%9F%BA%E5%AE%8B%E4%BA%9A%E8%BD%A9%20%E5%85%BB%E6%88%90%E7%B3%BB%E6%9C%80%E5%A5%BD%E7%9A%84%E7%9B%B8%E8%A7%81%23" target="weibo">
 古巨基宋亚轩 养成系最好的相见（热度：393943）
 </a>
@@ -561,6 +567,12 @@ treasure在MAMA红毯上滑步（热度：418812）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23MAMA%E5%AF%BC%E6%92%AD%E6%98%AF%E6%87%82%E6%80%BC%E8%84%B8%E7%9A%84%23" target="weibo">
+MAMA导播是懂怼脸的（热度：380776）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23" target="weibo">
 南海归墟首播反响（热度：378258）
 </a>
@@ -581,6 +593,12 @@ treasure在MAMA红毯上滑步（热度：418812）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%20%E5%B7%A6%E6%89%8B%23" target="weibo">
 BLG 左手（热度：357108）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E7%97%9B%E5%8F%AF%E4%BB%A5%E5%96%9D%E5%86%B0%E6%B0%B4%E7%BC%93%E8%A7%A3%23" target="weibo">
+嗓子痛可以喝冰水缓解（热度：350248）
 </a>
 </li>
 
@@ -717,6 +735,12 @@ BLG 左手（热度：357108）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%AF%B4%E7%88%B8%E7%88%B8%E7%9A%84%E5%BD%A9%E7%A4%BC%E5%88%B0%E6%9C%9F%E4%BA%86%23" target="weibo">
+妈妈说爸爸的彩礼到期了（热度：289210）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E4%B8%96%E8%8B%A5%E6%9B%A6%E4%B9%9F%E6%B2%A1%E8%83%BD%E6%95%91%E5%87%BA%E7%8E%89%E6%AA%80%23" target="weibo">
 这一世若曦也没能救出玉檀（热度：288540）
 </a>
@@ -735,6 +759,12 @@ BLG 左手（热度：357108）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%82%E5%9C%B0%E8%80%83%E7%BC%96%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BC%9A%E5%90%8E%E6%82%94%E5%90%97%23" target="weibo">
+异地考编的年轻人会后悔吗（热度：286266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%86%8D%E6%AC%A1%E5%B0%B1%E6%9C%8D%E5%8A%A1%E5%BC%82%E5%B8%B8%E8%87%B4%E6%AD%89%23" target="weibo">
 滴滴再次就服务异常致歉（热度：283361）
 </a>
@@ -743,6 +773,12 @@ BLG 左手（热度：357108）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E5%A5%B3%E5%B7%AB%20%E6%99%AE%E9%80%9A%E8%AF%9D%23" target="weibo">
 南海归墟女巫 普通话（热度：281597）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E6%88%91%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%BD%93%E7%BD%91%E7%BA%A2%23" target="weibo">
+吴艳妮说我不是为了当网红（热度：281383）
 </a>
 </li>
 
@@ -771,14 +807,14 @@ BLG 左手（热度：357108）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%89%A7%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8B%8D%E7%A0%94%E7%A9%B6%E7%94%9F%23" target="weibo">
-青春剧为什么不拍研究生（热度：272587）
+<a href="https://s.weibo.com/weibo?q=%23MAMA%E9%98%B5%E5%AE%B9%23" target="weibo">
+MAMA阵容（热度：274606）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%20%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%23" target="weibo">
-陈牧驰 南海归墟（热度：272436）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%89%A7%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8B%8D%E7%A0%94%E7%A9%B6%E7%94%9F%23" target="weibo">
+青春剧为什么不拍研究生（热度：272587）
 </a>
 </li>
 
@@ -791,6 +827,12 @@ BLG 左手（热度：357108）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%BB%99%E6%82%A3%E7%99%8C%E6%AF%8D%E4%BA%B2%E6%8B%8D%E9%81%97%E7%85%A7%E9%AA%97%E5%A5%B9%E6%98%AF%E6%8B%8D%E8%AF%81%E4%BB%B6%E7%85%A7%23" target="weibo">
 女儿给患癌母亲拍遗照骗她是拍证件照（热度：267088）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%86%8D%E6%AC%A1%E7%A4%BE%E6%AD%BB%23" target="weibo">
+胡先煦再次社死（热度：266568）
 </a>
 </li>
 
@@ -851,12 +893,6 @@ WBG 原阵容（热度：256755）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%A9%E8%86%80%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%86%85%E6%89%A3%E4%BA%86%23" target="weibo">
 肩膀真的不内扣了（热度：256417）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%97%93%E5%AD%90%E7%97%9B%E5%8F%AF%E4%BB%A5%E5%96%9D%E5%86%B0%E6%B0%B4%E7%BC%93%E8%A7%A3%23" target="weibo">
-嗓子痛可以喝冰水缓解（热度：255473）
 </a>
 </li>
 
@@ -993,12 +1029,6 @@ MAMA直播（热度：228349）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23MAMA%E9%98%B5%E5%AE%B9%23" target="weibo">
-MAMA阵容（热度：221815）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E6%8A%B1%E7%9D%80%E5%92%B8%E9%B1%BC%E8%BF%9B%E7%BB%84%E7%8C%AE%E9%B1%BC%23" target="weibo">
 陈飞宇抱着咸鱼进组献鱼（热度：221108）
 </a>
@@ -1013,6 +1043,12 @@ MAMA阵容（热度：221815）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E9%86%92%E6%9D%A5%E5%B0%B1%E6%94%B6%E5%88%B0%E4%BA%86%E5%A9%86%E5%A9%86%E7%9A%84%E5%B0%8F%E4%BD%9C%E6%96%87%23" target="weibo">
 早上醒来就收到了婆婆的小作文（热度：219567）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%9B%9E%E5%BA%94%E5%8F%B8%E6%9C%BA%E6%8F%90%E7%8E%B0%23" target="weibo">
+滴滴回应司机提现（热度：219216）
 </a>
 </li>
 
@@ -1131,12 +1167,6 @@ HYBE与MBC和好 中小型爱豆公司不满（热度：205620）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%82%E5%9C%B0%E8%80%83%E7%BC%96%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BC%9A%E5%90%8E%E6%82%94%E5%90%97%23" target="weibo">
-异地考编的年轻人会后悔吗（热度：200014）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E8%93%9D%E6%AF%AF%E5%A4%A7%E7%89%87%23" target="weibo">
 VOGUE蓝毯大片（热度：199972）
 </a>
@@ -1217,12 +1247,6 @@ VOGUE蓝毯大片（热度：199972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%8D%97%E9%BB%91%E9%93%81%E7%9A%84%E9%B1%BC%E5%BD%B1%E4%BD%8D%E5%88%97%E5%8E%86%E4%BB%A3%E7%AC%AC%E4%B8%80%23" target="weibo">
 柯南黑铁的鱼影位列历代第一（热度：187720）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E6%88%91%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%BD%93%E7%BD%91%E7%BA%A2%23" target="weibo">
-吴艳妮说我不是为了当网红（热度：184796）
 </a>
 </li>
 
@@ -1337,6 +1361,12 @@ LNG 接SSM（热度：173875）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B8%89%E5%AF%B8%E5%A4%A9%E5%A0%82%E6%89%93%E5%BC%80%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%23" target="weibo">
 用三寸天堂打开一念关山（热度：172136）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AE%B6%E5%BF%AB%E9%A4%90%E5%BA%97%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%90%83%E9%A5%AD%23" target="weibo">
+这家快餐店可以免费吃饭（热度：171781）
 </a>
 </li>
 
@@ -1473,6 +1503,12 @@ NMIXX回归预告（热度：170147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8D%95%E4%BD%8D%E8%BE%93%E6%B6%B2%E5%90%8C%E4%BA%8B%E8%B4%A1%E7%8C%AE%E9%87%91%E9%95%AF%E5%AD%90%E5%BD%93%E6%8C%82%E9%92%A9%23" target="weibo">
+女子单位输液同事贡献金镯子当挂钩（热度：152771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Knight%23" target="weibo">
 Knight（热度：151862）
 </a>
@@ -1487,12 +1523,6 @@ Knight（热度：151862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AD%99%E9%A2%96%E8%8E%8E%E7%BB%A7%E7%BB%AD%E9%A1%B6%E5%B3%B0%E7%9B%B8%E8%A7%81%23" target="weibo">
 樊振东孙颖莎继续顶峰相见（热度：150571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%86%8D%E6%AC%A1%E7%A4%BE%E6%AD%BB%23" target="weibo">
-胡先煦再次社死（热度：150391）
 </a>
 </li>
 
@@ -1587,8 +1617,8 @@ Knight（热度：151862）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AE%B6%E5%BF%AB%E9%A4%90%E5%BA%97%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E5%90%83%E9%A5%AD%23" target="weibo">
-这家快餐店可以免费吃饭（热度：137645）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E7%9C%8B%E5%88%B0%E4%BB%A3%E6%8B%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+田曦薇看到代拍的反应（热度：136919）
 </a>
 </li>
 
