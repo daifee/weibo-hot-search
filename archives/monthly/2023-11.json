@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701148632800,
+  "endTime": 1701149658094,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -987,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2685772,
+      "num": 953119,
+      "word": "热狗 我是骂所有人不只是杰伦",
+      "onboard_time": 1701145477,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2681754,
       "num": 2681754,
       "word": "27岁研究生离世前一天发文感恩感谢",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1699937438,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2652798,
-      "num": 953119,
-      "word": "热狗 我是骂所有人不只是杰伦",
-      "onboard_time": 1701145477,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 2647766,
@@ -6195,6 +6195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110646,
+      "num": 1110646,
+      "word": "主播小涛在非洲在埃塞俄比亚遇害",
+      "onboard_time": 1701147219,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1110382,
       "num": 402157,
       "word": "五月天 属于江浙沪的厮杀",
@@ -7848,6 +7856,14 @@
       "word": "金莎回应恋情争议",
       "onboard_time": 1699745963,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 915385,
+      "num": 915385,
+      "word": "王睡睡张硕oe",
+      "onboard_time": 1701148117,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -11891,14 +11907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 691139,
-      "num": 506991,
-      "word": "主播小涛在非洲在埃塞俄比亚遇害",
-      "onboard_time": 1701147219,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 690828,
       "num": 435331,
       "word": "王鹤棣闪现王彦霖婚礼",
@@ -15099,6 +15107,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 583410,
+      "num": 583410,
+      "word": "喜茶 我佛持杯",
+      "onboard_time": 1701148893,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 583347,
       "num": 700799,
       "word": "虞书欣的领奖发言",
@@ -18001,14 +18017,6 @@
       "onboard_time": 1700387791,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 501639,
-      "num": 501639,
-      "word": "王睡睡张硕oe",
-      "onboard_time": 1701148117,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 501447,
@@ -22243,6 +22251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 418913,
+      "num": 418913,
+      "word": "王鹤棣田曦薇手势舞",
+      "onboard_time": 1701147694,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418773,
       "num": 418773,
       "word": "王安宇胡先煦意见分歧",
@@ -24707,6 +24723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 382450,
+      "num": 382450,
+      "word": "再见爱人3最终抉择",
+      "onboard_time": 1701149257,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382287,
       "num": 382287,
       "word": "亮亮丽君决定离开郑州回老家",
@@ -27147,6 +27171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348736,
+      "num": 348736,
+      "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
+      "onboard_time": 1701148416,
+      "rank": 38,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 348721,
       "num": 1215454,
       "word": "尼泊尔6.4级地震",
@@ -28665,14 +28697,6 @@
       "onboard_time": 1699268554,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329970,
-      "num": 309824,
-      "word": "王鹤棣田曦薇手势舞",
-      "onboard_time": 1701147694,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 329908,
@@ -30625,6 +30649,14 @@
       "onboard_time": 1700212892,
       "rank": 16,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 307910,
+      "num": 307910,
+      "word": "光遇复刻",
+      "onboard_time": 1701148178,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 307908,
@@ -41091,14 +41123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227837,
-      "num": 227837,
-      "word": "光遇复刻",
-      "onboard_time": 1701148178,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 227787,
       "num": 186208,
       "word": "姜雪宁的母亲疯了吗",
@@ -43905,6 +43929,14 @@
       "onboard_time": 1700564434,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213165,
+      "num": 213165,
+      "word": "中国奥委会发文抵制饭圈乱象",
+      "onboard_time": 1701147762,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 213133,
@@ -49963,6 +49995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191322,
+      "num": 191322,
+      "word": "我的肖八站起来了",
+      "onboard_time": 1701148656,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191314,
       "num": 206359,
       "word": "湖人战胜火箭",
@@ -50313,6 +50353,14 @@
       "onboard_time": 1699510713,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190349,
+      "num": 190349,
+      "word": "许光汉猩红脚趾美甲",
+      "onboard_time": 1701149434,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190305,
@@ -51017,6 +51065,14 @@
       "onboard_time": 1700551714,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 188298,
+      "num": 188298,
+      "word": "烤红薯和蒸红薯哪个更健康",
+      "onboard_time": 1701149434,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 188293,
@@ -51969,14 +52025,6 @@
       "onboard_time": 1698793765,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185114,
-      "num": 185114,
-      "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
-      "onboard_time": 1701148416,
-      "rank": 38,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 185092,
@@ -53385,14 +53433,6 @@
       "onboard_time": 1698749614,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179086,
-      "num": 179086,
-      "word": "中国奥委会发文抵制饭圈乱象",
-      "onboard_time": 1701147762,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 179080,
@@ -55473,6 +55513,14 @@
       "onboard_time": 1698919594,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170313,
+      "num": 170313,
+      "word": "体态不美的人有福了",
+      "onboard_time": 1701149076,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 170278,
@@ -59179,6 +59227,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 155056,
+      "num": 155056,
+      "word": "随便押韵真的会产生Problem",
+      "onboard_time": 1701149492,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155048,
       "num": 155048,
       "word": "全明星",
@@ -59617,6 +59673,14 @@
       "onboard_time": 1698821132,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 153269,
+      "num": 153269,
+      "word": "白鹿眼中的热爱",
+      "onboard_time": 1701149374,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 153230,
@@ -61169,6 +61233,14 @@
       "onboard_time": 1698935199,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147291,
+      "num": 147291,
+      "word": "业内人士称滴滴底层系统疑遭攻击",
+      "onboard_time": 1701149552,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 147259,
@@ -62897,6 +62969,14 @@
       "onboard_time": 1700213612,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 140344,
+      "num": 140344,
+      "word": "面包和馒头谁更营养",
+      "onboard_time": 1701149613,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 140274,
@@ -73395,6 +73475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72113,
+      "num": 508790,
+      "word": "vivo拍的张小斐在演我",
+      "onboard_time": 1701146318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71620,
       "num": 87675,
       "word": "小马驹被卖母马追出几里地",
@@ -73657,14 +73745,6 @@
       "onboard_time": 1699698088,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 68240,
-      "num": 508790,
-      "word": "vivo拍的张小斐在演我",
-      "onboard_time": 1701146318,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 68133,

@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701148632800,
+  "endTime": 1701149658094,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -59,7 +59,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2652798,
+      "raw_hot": 2685772,
       "num": 953119,
       "word": "热狗 我是骂所有人不只是杰伦",
       "onboard_time": 1701145477,
@@ -507,6 +507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1110646,
+      "num": 1110646,
+      "word": "主播小涛在非洲在埃塞俄比亚遇害",
+      "onboard_time": 1701147219,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104894,
       "num": 1104894,
       "word": "女将星 妆造",
@@ -648,6 +656,14 @@
       "word": "王鹤棣 尖叫男演员",
       "onboard_time": 1700923428,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 915385,
+      "num": 915385,
+      "word": "王睡睡张硕oe",
+      "onboard_time": 1701148117,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -987,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 691139,
-      "num": 506991,
-      "word": "主播小涛在非洲在埃塞俄比亚遇害",
-      "onboard_time": 1701147219,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 688413,
       "num": 688413,
       "word": "澳门物价",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1700917371,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 583410,
+      "num": 583410,
+      "word": "喜茶 我佛持杯",
+      "onboard_time": 1701148893,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 581758,
@@ -1624,14 +1640,6 @@
       "word": "辛芷蕾P了Q版迪丽热巴",
       "onboard_time": 1701013656,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 501639,
-      "num": 501639,
-      "word": "王睡睡张硕oe",
-      "onboard_time": 1701148117,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -2083,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418913,
+      "num": 418913,
+      "word": "王鹤棣田曦薇手势舞",
+      "onboard_time": 1701147694,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417515,
       "num": 417515,
       "word": "怒海 承认父母没那么爱自己",
@@ -2331,6 +2347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 382450,
+      "num": 382450,
+      "word": "再见爱人3最终抉择",
+      "onboard_time": 1701149257,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382276,
       "num": 382276,
       "word": "宁安如梦豆瓣6.9分",
@@ -2481,6 +2505,14 @@
       "onboard_time": 1700969194,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348736,
+      "num": 348736,
+      "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
+      "onboard_time": 1701148416,
+      "rank": 38,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 348417,
@@ -2649,14 +2681,6 @@
       "onboard_time": 1701147938,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 329970,
-      "num": 309824,
-      "word": "王鹤棣田曦薇手势舞",
-      "onboard_time": 1701147694,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 328564,
@@ -2897,6 +2921,14 @@
       "onboard_time": 1701068915,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 307910,
+      "num": 307910,
+      "word": "光遇复刻",
+      "onboard_time": 1701148178,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 307055,
@@ -4123,14 +4155,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 227837,
-      "num": 227837,
-      "word": "光遇复刻",
-      "onboard_time": 1701148178,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 226719,
       "num": 208299,
       "word": "白鹿范丞丞 显眼包二人组",
@@ -4393,6 +4417,14 @@
       "onboard_time": 1701139359,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213165,
+      "num": 213165,
+      "word": "中国奥委会发文抵制饭圈乱象",
+      "onboard_time": 1701147762,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 213133,
@@ -4987,6 +5019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191322,
+      "num": 191322,
+      "word": "我的肖八站起来了",
+      "onboard_time": 1701148656,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191147,
       "num": 191147,
       "word": "富勒烯",
@@ -5041,6 +5081,14 @@
       "onboard_time": 1701053733,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190349,
+      "num": 190349,
+      "word": "许光汉猩红脚趾美甲",
+      "onboard_time": 1701149434,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190032,
@@ -5131,6 +5179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 188298,
+      "num": 188298,
+      "word": "烤红薯和蒸红薯哪个更健康",
+      "onboard_time": 1701149434,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 188292,
       "num": 188292,
       "word": "杨迪摔到怀疑人生",
@@ -5201,14 +5257,6 @@
       "onboard_time": 1701049594,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185114,
-      "num": 185114,
-      "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
-      "onboard_time": 1701148416,
-      "rank": 38,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 184229,
@@ -5345,14 +5393,6 @@
       "onboard_time": 1701140253,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179086,
-      "num": 179086,
-      "word": "中国奥委会发文抵制饭圈乱象",
-      "onboard_time": 1701147762,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 179080,
@@ -5553,6 +5593,14 @@
       "onboard_time": 1700962352,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170313,
+      "num": 170313,
+      "word": "体态不美的人有福了",
+      "onboard_time": 1701149076,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 170228,
@@ -5907,6 +5955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155056,
+      "num": 155056,
+      "word": "随便押韵真的会产生Problem",
+      "onboard_time": 1701149492,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154993,
       "num": 154993,
       "word": "羊肉串来东北都得挂个冰糖",
@@ -5969,6 +6025,14 @@
       "onboard_time": 1700983413,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 153269,
+      "num": 153269,
+      "word": "白鹿眼中的热爱",
+      "onboard_time": 1701149374,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 152516,
@@ -6121,6 +6185,14 @@
       "onboard_time": 1700985031,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147291,
+      "num": 147291,
+      "word": "业内人士称滴滴底层系统疑遭攻击",
+      "onboard_time": 1701149552,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 147074,
@@ -6279,6 +6351,14 @@
       "num": 140456,
       "word": "萝卜花居然是甩出来的",
       "onboard_time": 1701139359,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 140344,
+      "num": 140344,
+      "word": "面包和馒头谁更营养",
+      "onboard_time": 1701149613,
       "rank": 49,
       "category": "美食"
     },
@@ -7003,6 +7083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72113,
+      "num": 508790,
+      "word": "vivo拍的张小斐在演我",
+      "onboard_time": 1701146318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71288,
       "num": 332516,
       "word": "努涅斯瓜迪奥拉争执",
@@ -7065,14 +7153,6 @@
       "onboard_time": 1700954480,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68240,
-      "num": 508790,
-      "word": "vivo拍的张小斐在演我",
-      "onboard_time": 1701146318,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 68133,
