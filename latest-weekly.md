@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/26 00:20:53 ~ 2023/11/29 02:22:38
+本榜单时间：2023/11/26 00:20:53 ~ 2023/11/29 02:36:06
 </p>
 </blockquote>
 <p>
@@ -5211,6 +5211,12 @@ i人朋友不多的原因（热度：174755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
+海底捞服务员跳擦玻璃舞被指低俗（热度：171157）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E4%BA%94%E5%80%BC%E5%BE%97%E5%8F%8D%E5%A4%8D%E5%92%80%E5%9A%BC%E7%9A%84%E6%83%85%E5%95%86%E8%AF%BE%23" target="weibo">
 花少五值得反复咀嚼的情商课（热度：170506）
 </a>
@@ -6395,12 +6401,6 @@ vivo拍出了最重要的小事（热度：103932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E7%8E%B0%E7%8A%B6%23" target="weibo">
 当代中年夫妻现状（热度：92448）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
-海底捞服务员跳擦玻璃舞被指低俗（热度：92280）
 </a>
 </li>
 

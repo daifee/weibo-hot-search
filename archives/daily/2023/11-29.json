@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701195758245,
+  "endTime": 1701196566095,
   "band_list": [
     {
       "raw_hot": 1405957,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171157,
+      "num": 171157,
+      "word": "海底捞服务员跳擦玻璃舞被指低俗",
+      "onboard_time": 1701194417,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167207,
       "num": 153353,
       "word": "易烊千玺网站 猫猫",
@@ -369,14 +377,6 @@
       "onboard_time": 1701182796,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 92280,
-      "num": 92280,
-      "word": "海底捞服务员跳擦玻璃舞被指低俗",
-      "onboard_time": 1701194417,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91875,
