@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701142473591,
+  "endTime": 1701145289606,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1794530,
-      "num": 1794530,
+      "raw_hot": 1998690,
+      "num": 1998690,
       "word": "全勤没了",
       "onboard_time": 1701136413,
       "rank": 3,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 977706,
+      "num": 977706,
+      "word": "大奉打更人",
+      "onboard_time": 1701139293,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 973471,
       "num": 659325,
       "word": "北京现有艾滋病感染者及患者27285人",
@@ -123,12 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 817319,
-      "num": 817319,
-      "word": "大奉打更人",
-      "onboard_time": 1701139293,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 858211,
+      "num": 858211,
+      "word": "有滴滴司机称8公里订单收费1540元",
+      "onboard_time": 1701140196,
+      "rank": 16,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 807414,
+      "num": 807414,
+      "word": "斗鱼多位大主播已停播超10天",
+      "onboard_time": 1701143194,
+      "rank": 5,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 742224,
@@ -137,6 +153,22 @@
       "onboard_time": 1701098074,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 727263,
+      "num": 727263,
+      "word": "张进为迪丽热巴化的妆",
+      "onboard_time": 1701143796,
+      "rank": 6,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 720128,
+      "num": 720128,
+      "word": "他俩上次吃饭还在武林外传",
+      "onboard_time": 1701140978,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 716215,
@@ -155,12 +187,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 670316,
+      "num": 546931,
+      "word": "旭旭宝宝近期退出多家公司",
+      "onboard_time": 1701143982,
+      "rank": 13,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 669688,
       "num": 669688,
       "word": "海底捞回应奖励3000元给跳科目三员工",
       "onboard_time": 1701102507,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664924,
+      "num": 664924,
+      "word": "女将星 妆造",
+      "onboard_time": 1701144396,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 661321,
@@ -179,16 +227,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 631056,
-      "num": 631056,
-      "word": "有滴滴司机称8公里订单收费1540元",
-      "onboard_time": 1701140196,
-      "rank": 16,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 616244,
-      "num": 232931,
+      "num": 445847,
       "word": "胡静林任国家税务总局党委书记",
       "onboard_time": 1701141216,
       "rank": 30,
@@ -283,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 422510,
-      "num": 422510,
-      "word": "他俩上次吃饭还在武林外传",
-      "onboard_time": 1701140978,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 401958,
+      "num": 401958,
+      "word": "檀健次周也芭莎大片",
+      "onboard_time": 1701144637,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 393943,
@@ -347,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 342325,
+      "num": 342325,
+      "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
+      "onboard_time": 1701144157,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313914,
       "num": 313914,
       "word": "17种癌是胖出来的",
@@ -385,6 +433,14 @@
       "onboard_time": 1701134974,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291570,
+      "num": 291570,
+      "word": "暗爽型人格",
+      "onboard_time": 1701140253,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 291562,
@@ -435,19 +491,19 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 274226,
+      "num": 274226,
+      "word": "秦海璐 三十岁没结婚没什么关系",
+      "onboard_time": 1701144877,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272587,
       "num": 272587,
       "word": "青春剧为什么不拍研究生",
       "onboard_time": 1701095015,
       "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 272398,
-      "num": 272398,
-      "word": "暗爽型人格",
-      "onboard_time": 1701140253,
-      "rank": 28,
       "category": "情感"
     },
     {
@@ -481,6 +537,14 @@
       "onboard_time": 1701139475,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260152,
+      "num": 260152,
+      "word": "刘德华刘雅瑟新片演夫妻",
+      "onboard_time": 1701144637,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 259590,
@@ -523,6 +587,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 254625,
+      "num": 254625,
+      "word": "大鹏学虞书欣手势打招呼",
+      "onboard_time": 1701142895,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253944,
       "num": 253944,
       "word": "五月天怪兽 今天很想念妈妈",
@@ -539,12 +611,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243797,
+      "num": 243797,
+      "word": "收养一只猫竟发现本州未出现病毒",
+      "onboard_time": 1701142054,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243186,
       "num": 243186,
       "word": "易烊千玺23岁生日单曲上线",
       "onboard_time": 1701127225,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 241246,
+      "num": 241246,
+      "word": "暂停武汉普仁医院出生医学证明签发资格",
+      "onboard_time": 1701143015,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238693,
@@ -587,12 +675,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 219698,
-      "num": 219698,
-      "word": "收养一只猫竟发现本州未出现病毒",
-      "onboard_time": 1701142054,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 219967,
+      "num": 216876,
+      "word": "南海归墟四大巨型哈基米",
+      "onboard_time": 1701145239,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 219567,
@@ -667,6 +755,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 199972,
+      "num": 199972,
+      "word": "VOGUE蓝毯大片",
+      "onboard_time": 1701144637,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199873,
       "num": 199873,
       "word": "刘诗诗光剑变人",
@@ -683,12 +779,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194254,
+      "num": 194254,
+      "word": "周也锦月如歌全身路透",
+      "onboard_time": 1701144818,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193524,
       "num": 193524,
       "word": "时代巡回演唱会加长版预告",
       "onboard_time": 1701099452,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192233,
+      "num": 192233,
+      "word": "长相思香港上星播出",
+      "onboard_time": 1701144637,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 191503,
@@ -744,6 +856,14 @@
       "word": "吴京口误 我是闫妮老公",
       "onboard_time": 1701077195,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 177252,
+      "num": 177252,
+      "word": "演妈妈不是周迅的困境",
+      "onboard_time": 1701144037,
+      "rank": 43,
       "category": "电影"
     },
     {
@@ -859,6 +979,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153478,
+      "num": 153478,
+      "word": "丁亦然回应被痞幼盗用视频",
+      "onboard_time": 1701144579,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 152012,
+      "num": 152012,
+      "word": "余华英案二审择期宣判",
+      "onboard_time": 1701145181,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151862,
       "num": 151862,
       "word": "Knight",
@@ -940,7 +1076,7 @@
     },
     {
       "raw_hot": 141498,
-      "num": 141498,
+      "num": 1203422,
       "word": "呼吸道疾病高发期实用防治手册",
       "onboard_time": 1701132580,
       "rank": 49,
@@ -1105,6 +1241,14 @@
       "onboard_time": 1701090336,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 89096,
+      "num": 614204,
+      "word": "vivo拍出了最重要的小事",
+      "onboard_time": 1701142412,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 82825,
@@ -1297,14 +1441,6 @@
       "onboard_time": 1701115692,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11368,
-      "num": 130915,
-      "word": "vivo拍出了最重要的小事",
-      "onboard_time": 1701142412,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 5330,

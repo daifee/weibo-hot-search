@@ -1,0 +1,410 @@
+{
+  "runTime": 1701145289606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2217422,
+        "num": 2217422,
+        "word": "网红痞幼就盗用他人视频道歉",
+        "onboard_time": 1701137191,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1998690,
+        "num": 1998690,
+        "word": "全勤没了",
+        "onboard_time": 1701136413,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 80285,
+        "num": 1203422,
+        "word": "呼吸道疾病高发期实用防治手册",
+        "onboard_time": 1701132580,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977706,
+        "num": 977706,
+        "word": "大奉打更人",
+        "onboard_time": 1701139293,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 858211,
+        "num": 858211,
+        "word": "有滴滴司机称8公里订单收费1540元",
+        "onboard_time": 1701140196,
+        "rank": 4,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 807414,
+        "num": 807414,
+        "word": "斗鱼多位大主播已停播超10天",
+        "onboard_time": 1701143194,
+        "rank": 5,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 727263,
+        "num": 727263,
+        "word": "张进为迪丽热巴化的妆",
+        "onboard_time": 1701143796,
+        "rank": 6,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 720128,
+        "num": 720128,
+        "word": "他俩上次吃饭还在武林外传",
+        "onboard_time": 1701140978,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670086,
+        "num": 670086,
+        "word": "月薪3000保洁阿姨3年捡50多万财物",
+        "onboard_time": 1701130898,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664924,
+        "num": 664924,
+        "word": "女将星 妆造",
+        "onboard_time": 1701144396,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 811144,
+        "num": 635752,
+        "word": "金莎 盛况",
+        "onboard_time": 1701137433,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89096,
+        "num": 614204,
+        "word": "vivo拍出了最重要的小事",
+        "onboard_time": 1701142412,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 770314,
+        "num": 596262,
+        "word": "潘粤明减重30斤演胡八一",
+        "onboard_time": 1701132761,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670316,
+        "num": 546931,
+        "word": "旭旭宝宝近期退出多家公司",
+        "onboard_time": 1701143982,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 527691,
+        "num": 527691,
+        "word": "泰国血色婚礼致5死1重伤",
+        "onboard_time": 1701129391,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514899,
+        "num": 514899,
+        "word": "滴滴打车 打不到",
+        "onboard_time": 1701132095,
+        "rank": 15,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 449882,
+        "num": 449882,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701128187,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 445847,
+        "num": 445847,
+        "word": "胡静林任国家税务总局党委书记",
+        "onboard_time": 1701141216,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 440315,
+        "num": 440315,
+        "word": "甲流",
+        "onboard_time": 1701138577,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421419,
+        "num": 421419,
+        "word": "不是房产证加了名才叫共同财产",
+        "onboard_time": 1701134672,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401958,
+        "num": 401958,
+        "word": "檀健次周也芭莎大片",
+        "onboard_time": 1701144637,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 342325,
+        "num": 342325,
+        "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
+        "onboard_time": 1701144157,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291570,
+        "num": 291570,
+        "word": "暗爽型人格",
+        "onboard_time": 1701140253,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274226,
+        "num": 274226,
+        "word": "秦海璐 三十岁没结婚没什么关系",
+        "onboard_time": 1701144877,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271529,
+        "num": 271529,
+        "word": "丞磊锦月如歌出妆",
+        "onboard_time": 1701139653,
+        "rank": 24,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 260152,
+        "num": 260152,
+        "word": "刘德华刘雅瑟新片演夫妻",
+        "onboard_time": 1701144637,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258401,
+        "num": 258401,
+        "word": "00后男孩开货车5年收入超百万",
+        "onboard_time": 1701136711,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258040,
+        "num": 258040,
+        "word": "高中妹妹厌学哥哥带其到大学上课",
+        "onboard_time": 1701133297,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 254625,
+        "num": 254625,
+        "word": "大鹏学虞书欣手势打招呼",
+        "onboard_time": 1701142895,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249513,
+        "num": 249513,
+        "word": "北京现有艾滋病感染者及患者27285人",
+        "onboard_time": 1701088115,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243797,
+        "num": 243797,
+        "word": "收养一只猫竟发现本州未出现病毒",
+        "onboard_time": 1701142054,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241246,
+        "num": 241246,
+        "word": "暂停武汉普仁医院出生医学证明签发资格",
+        "onboard_time": 1701143015,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233810,
+        "num": 233810,
+        "word": "滴滴网约车等服务已恢复",
+        "onboard_time": 1701128728,
+        "rank": 32,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 227058,
+        "num": 227058,
+        "word": "陈采尼爱奇艺尖叫之夜红毯点评",
+        "onboard_time": 1701135933,
+        "rank": 33,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 224852,
+        "num": 224852,
+        "word": "南海归墟首播反响",
+        "onboard_time": 1701137793,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218906,
+        "num": 218906,
+        "word": "王者新英雄海诺",
+        "onboard_time": 1701140795,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219967,
+        "num": 216876,
+        "word": "南海归墟四大巨型哈基米",
+        "onboard_time": 1701145239,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202768,
+        "num": 202768,
+        "word": "新一代国产CPU正式发布",
+        "onboard_time": 1701140433,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199972,
+        "num": 199972,
+        "word": "VOGUE蓝毯大片",
+        "onboard_time": 1701144637,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198605,
+        "num": 198605,
+        "word": "南海归墟5A级景区特辑",
+        "onboard_time": 1701139475,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194254,
+        "num": 194254,
+        "word": "周也锦月如歌全身路透",
+        "onboard_time": 1701144818,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192233,
+        "num": 192233,
+        "word": "长相思香港上星播出",
+        "onboard_time": 1701144637,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183505,
+        "num": 183505,
+        "word": "17种癌是胖出来的",
+        "onboard_time": 1701136711,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177252,
+        "num": 177252,
+        "word": "演妈妈不是周迅的困境",
+        "onboard_time": 1701144037,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162965,
+        "num": 162965,
+        "word": "刘诗诗光剑变人",
+        "onboard_time": 1701139834,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156562,
+        "num": 156562,
+        "word": "美甲灯照射或能损坏DNA",
+        "onboard_time": 1701136532,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156284,
+        "num": 156284,
+        "word": "锦月如歌开机路透",
+        "onboard_time": 1701139779,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153478,
+        "num": 153478,
+        "word": "丁亦然回应被痞幼盗用视频",
+        "onboard_time": 1701144579,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152012,
+        "num": 152012,
+        "word": "余华英案二审择期宣判",
+        "onboard_time": 1701145181,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150182,
+        "num": 150182,
+        "word": "48岁教授说年轻人不加班是社会的进步",
+        "onboard_time": 1701135992,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#长江经济带发展日趋向好也要久久为功#"
+    }
+  }
+}
