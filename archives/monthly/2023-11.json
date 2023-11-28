@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701135482002,
+  "endTime": 1701138651940,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1700209353,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2598549,
+      "num": 2598549,
+      "word": "网红痞幼就盗用他人视频道歉",
+      "onboard_time": 1701137191,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2588889,
@@ -6339,6 +6347,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1085507,
+      "num": 1085507,
+      "word": "全勤没了",
+      "onboard_time": 1701136413,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1083594,
       "num": 1083594,
       "word": "谁家接吻戴墨镜啊",
@@ -7625,6 +7641,14 @@
       "onboard_time": 1700633192,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 936939,
+      "num": 936939,
+      "word": "金莎 盛况",
+      "onboard_time": 1701137433,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 935953,
@@ -11227,6 +11251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 716215,
+      "num": 716215,
+      "word": "不是房产证加了名才叫共同财产",
+      "onboard_time": 1701134672,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 715982,
       "num": 339486,
       "word": "赵寅成喂韩孝周吃饭",
@@ -13089,14 +13121,6 @@
       "onboard_time": 1700034755,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 635357,
-      "num": 635357,
-      "word": "不是房产证加了名才叫共同财产",
-      "onboard_time": 1701134672,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 634965,
@@ -20419,6 +20443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 447507,
+      "num": 447507,
+      "word": "陈采尼爱奇艺尖叫之夜红毯点评",
+      "onboard_time": 1701135933,
+      "rank": 11,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 447353,
       "num": 242616,
       "word": "考研时政7页纸",
@@ -23251,6 +23283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 399609,
+      "num": 399609,
+      "word": "00后男孩开货车5年收入超百万",
+      "onboard_time": 1701136711,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399211,
       "num": 297620,
       "word": "奥恰洛夫晋级冠军赛8强",
@@ -24776,6 +24816,14 @@
       "word": "这还是陈楚生吗",
       "onboard_time": 1700295275,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378080,
+      "num": 378080,
+      "word": "古巨基宋亚轩 养成系最好的相见",
+      "onboard_time": 1701135577,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -27369,6 +27417,14 @@
       "onboard_time": 1699508554,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 343062,
+      "num": 343062,
+      "word": "48岁教授说年轻人不加班是社会的进步",
+      "onboard_time": 1701135992,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 342882,
@@ -30385,6 +30441,14 @@
       "onboard_time": 1699877733,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 307123,
+      "num": 307123,
+      "word": "17种癌是胖出来的",
+      "onboard_time": 1701136711,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 307055,
@@ -34819,6 +34883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 267088,
+      "num": 262417,
+      "word": "女儿给患癌母亲拍遗照骗她是拍证件照",
+      "onboard_time": 1701136893,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266952,
       "num": 250589,
       "word": "莲花楼爱奇艺站内分涨至9.3",
@@ -35105,6 +35177,14 @@
       "onboard_time": 1700983891,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264685,
+      "num": 264685,
+      "word": "南海归墟首播反响",
+      "onboard_time": 1701137793,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 264606,
@@ -38283,6 +38363,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 243087,
+      "num": 243087,
+      "word": "美甲灯照射或能损坏DNA",
+      "onboard_time": 1701136532,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 242970,
       "num": 242970,
       "word": "娜扎许魏洲新剧收视率",
@@ -38881,6 +38969,14 @@
       "onboard_time": 1699871554,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 238693,
+      "num": 238693,
+      "word": "涵艺爆料Tangyuan加入BLG",
+      "onboard_time": 1701137732,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 238638,
@@ -40449,6 +40545,14 @@
       "onboard_time": 1699259192,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229284,
+      "num": 229284,
+      "word": "卸妆前不练妆可太亏了",
+      "onboard_time": 1701135631,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 229192,
@@ -42201,6 +42305,14 @@
       "onboard_time": 1699492298,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219567,
+      "num": 219567,
+      "word": "早上醒来就收到了婆婆的小作文",
+      "onboard_time": 1701137793,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 219448,
@@ -45329,6 +45441,14 @@
       "onboard_time": 1701064893,
       "rank": 36,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 205620,
+      "num": 205620,
+      "word": "HYBE与MBC和好 中小型爱豆公司不满",
+      "onboard_time": 1701136353,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 205521,
@@ -49425,6 +49545,14 @@
       "onboard_time": 1700103758,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191503,
+      "num": 191503,
+      "word": "12月1日起生鲜灯禁用",
+      "onboard_time": 1701137492,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191498,
@@ -55035,6 +55163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169833,
+      "num": 169833,
+      "word": "铁三角和海底捞就差一个科目三",
+      "onboard_time": 1701136774,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169807,
       "num": 169807,
       "word": "孙颖莎 微博年度受欢迎运动员",
@@ -55193,6 +55329,14 @@
       "onboard_time": 1700823097,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168978,
+      "num": 168978,
+      "word": "他荣立一等功2次却没有一张露脸照",
+      "onboard_time": 1701136711,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168952,
@@ -60619,6 +60763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147074,
+      "num": 147074,
+      "word": "任如意被直球追爱",
+      "onboard_time": 1701138034,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146982,
       "num": 146982,
       "word": "aespa Karina 直拍",
@@ -61137,6 +61289,14 @@
       "onboard_time": 1700372669,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144669,
+      "num": 144669,
+      "word": "一念关山今日开播",
+      "onboard_time": 1701136711,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 144636,
@@ -63491,6 +63651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134967,
+      "num": 134967,
+      "word": "赵昭仪模仿胡先煦耍帅",
+      "onboard_time": 1701136651,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134843,
       "num": 134843,
       "word": "小熊弄丢了气球妈妈安慰小熊",
@@ -64449,6 +64617,14 @@
       "onboard_time": 1699750771,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 131748,
+      "num": 131748,
+      "word": "呼吸道合胞病毒如何预防",
+      "onboard_time": 1701136593,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131718,
@@ -68104,6 +68280,14 @@
       "word": "社牛女生让保安大爷说公主请回学校",
       "onboard_time": 1700276970,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114831,
+      "num": 114831,
+      "word": "甲流",
+      "onboard_time": 1701138577,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
