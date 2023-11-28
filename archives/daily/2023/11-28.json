@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701171264344,
+  "endTime": 1701174818230,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -113,6 +113,14 @@
       "onboard_time": 1701115395,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1320108,
+      "num": 1320108,
+      "word": "MAMA",
+      "onboard_time": 1701172355,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 1318400,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799897,
+      "num": 799897,
+      "word": "已婚男陈立隐形出轨",
+      "onboard_time": 1701171815,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 768101,
       "num": 549084,
       "word": "傅首尔说分手是很好的解放",
@@ -403,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 659824,
+      "num": 659824,
+      "word": "皮肤饥渴症",
+      "onboard_time": 1701171215,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 657414,
       "num": 385801,
       "word": "11万对于普通家庭是什么概念",
@@ -441,6 +465,14 @@
       "onboard_time": 1701150333,
       "rank": 9,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 622279,
+      "num": 305275,
+      "word": "MAMA获奖名单",
+      "onboard_time": 1701174036,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 616244,
@@ -497,6 +529,14 @@
       "onboard_time": 1701158913,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 571996,
+      "num": 571996,
+      "word": "黑龙江一煤矿事故11人遇难",
+      "onboard_time": 1701171398,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567531,
@@ -556,7 +596,7 @@
     },
     {
       "raw_hot": 508067,
-      "num": 438974,
+      "num": 466785,
       "word": "易烊千玺网站 猫猫",
       "onboard_time": 1701170435,
       "rank": 11,
@@ -577,6 +617,14 @@
       "onboard_time": 1701164974,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 496928,
+      "num": 496928,
+      "word": "李雪琴上竞综只办一件事",
+      "onboard_time": 1701172355,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 490993,
@@ -609,6 +657,14 @@
       "onboard_time": 1701098139,
       "rank": 5,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 471920,
+      "num": 471920,
+      "word": "胃病发展成胃癌的五个征兆",
+      "onboard_time": 1701173797,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 470804,
@@ -651,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 440110,
+      "num": 440110,
+      "word": "一念关山",
+      "onboard_time": 1701096936,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 439424,
       "num": 642035,
       "word": "女子单位输液同事贡献金镯子当挂钩",
@@ -676,7 +740,7 @@
     },
     {
       "raw_hot": 434224,
-      "num": 269885,
+      "num": 320616,
       "word": "Xinyi爆料Doinb即将回归",
       "onboard_time": 1701170134,
       "rank": 30,
@@ -737,6 +801,14 @@
       "onboard_time": 1701144637,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 397345,
+      "num": 397345,
+      "word": "男子多次高空抛物致28岁女子身亡",
+      "onboard_time": 1701169718,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393943,
@@ -803,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379684,
+      "num": 379684,
+      "word": "80后最新首富马上来了",
+      "onboard_time": 1701170075,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 378258,
       "num": 378258,
       "word": "南海归墟首播反响",
@@ -817,14 +897,6 @@
       "onboard_time": 1701150214,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 358807,
-      "num": 358807,
-      "word": "男子多次高空抛物致28岁女子身亡",
-      "onboard_time": 1701169718,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357756,
@@ -891,14 +963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 344785,
-      "num": 344785,
-      "word": "80后最新首富马上来了",
-      "onboard_time": 1701170075,
-      "rank": 49,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 344536,
       "num": 344536,
       "word": "邓紫棋广州再加场抢票",
@@ -921,14 +985,6 @@
       "onboard_time": 1701164313,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 323136,
-      "num": 323136,
-      "word": "一念关山",
-      "onboard_time": 1701096936,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 322321,
@@ -1395,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239896,
+      "num": 239896,
+      "word": "开香槟",
+      "onboard_time": 1701172474,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239436,
       "num": 239436,
       "word": "南优贤曾患癌症",
@@ -1683,6 +1747,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199431,
+      "num": 199431,
+      "word": "哪有什么鼻炎",
+      "onboard_time": 1701171274,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198186,
+      "num": 198186,
+      "word": "十个勤天 猛男种地",
+      "onboard_time": 1701172113,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196267,
       "num": 185321,
       "word": "潜行 卧底警察身份暴露后",
@@ -1779,12 +1859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186092,
+      "num": 186092,
+      "word": "东方神起红毯",
+      "onboard_time": 1701174215,
+      "rank": 34,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 184229,
       "num": 184229,
       "word": "王星越 我很期待孔雪儿打我",
       "onboard_time": 1701129935,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184086,
+      "num": 184086,
+      "word": "周雨升级当爸",
+      "onboard_time": 1701171274,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 183975,
@@ -1987,6 +2083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165700,
+      "num": 165700,
+      "word": "孙丞潇不让金莎看手机",
+      "onboard_time": 1701173976,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164729,
       "num": 164729,
       "word": "我现在买衣服的标准",
@@ -2009,6 +2113,14 @@
       "onboard_time": 1701131256,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163092,
+      "num": 163092,
+      "word": "若曦洗衣 如意劈柴",
+      "onboard_time": 1701173617,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 160935,
@@ -2283,20 +2395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130747,
+      "num": 130747,
+      "word": "为什么玩滑板一定要戴护具",
+      "onboard_time": 1701172716,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 130053,
       "num": 152305,
       "word": "卫健委回应医院和鉴定所被举报参与代孕",
       "onboard_time": 1701098856,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129948,
-      "num": 129948,
-      "word": "皮肤饥渴症",
-      "onboard_time": 1701171215,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128289,

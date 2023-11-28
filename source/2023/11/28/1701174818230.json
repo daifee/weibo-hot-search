@@ -1,0 +1,410 @@
+{
+  "runTime": 1701174818230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1320108,
+        "num": 1320108,
+        "word": "MAMA",
+        "onboard_time": 1701172355,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 949106,
+        "num": 949106,
+        "word": "德德玛去世",
+        "onboard_time": 1701164974,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 23721,
+        "num": 917250,
+        "word": "第一届中国国际供应链促进博览会",
+        "onboard_time": 1701157472,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892741,
+        "num": 892741,
+        "word": "痞幼3个月广告收入约为1620万",
+        "onboard_time": 1701159455,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 799897,
+        "num": 799897,
+        "word": "已婚男陈立隐形出轨",
+        "onboard_time": 1701171815,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 747691,
+        "num": 747691,
+        "word": "李想 很抱歉我们失言了",
+        "onboard_time": 1701165632,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 659824,
+        "num": 659824,
+        "word": "皮肤饥渴症",
+        "onboard_time": 1701171215,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 571996,
+        "num": 571996,
+        "word": "黑龙江一煤矿事故11人遇难",
+        "onboard_time": 1701171398,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496928,
+        "num": 496928,
+        "word": "李雪琴上竞综只办一件事",
+        "onboard_time": 1701172355,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471920,
+        "num": 471920,
+        "word": "胃病发展成胃癌的五个征兆",
+        "onboard_time": 1701173797,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 508829,
+        "num": 468635,
+        "word": "部分滴滴司机开始提现",
+        "onboard_time": 1701156751,
+        "rank": 10,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 475157,
+        "num": 466785,
+        "word": "易烊千玺网站 猫猫",
+        "onboard_time": 1701170435,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464340,
+        "num": 464340,
+        "word": "失业父亲因20元生日蛋糕泪崩",
+        "onboard_time": 1701161673,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449348,
+        "num": 449348,
+        "word": "沈小婷 猫女",
+        "onboard_time": 1701169236,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 440110,
+        "num": 440110,
+        "word": "一念关山",
+        "onboard_time": 1701159933,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397345,
+        "num": 397345,
+        "word": "男子多次高空抛物致28岁女子身亡",
+        "onboard_time": 1701169718,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379684,
+        "num": 379684,
+        "word": "80后最新首富马上来了",
+        "onboard_time": 1701170075,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 320616,
+        "num": 320616,
+        "word": "Xinyi爆料Doinb即将回归",
+        "onboard_time": 1701170134,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 314104,
+        "num": 314104,
+        "word": "佘诗曼美甲",
+        "onboard_time": 1701165455,
+        "rank": 18,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 305773,
+        "num": 305773,
+        "word": "傅首尔老刘都没下车",
+        "onboard_time": 1701150453,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622279,
+        "num": 305275,
+        "word": "MAMA获奖名单",
+        "onboard_time": 1701174036,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304722,
+        "num": 304722,
+        "word": "以爱为营 时宴婚礼现场直拍",
+        "onboard_time": 1701169296,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276460,
+        "num": 276460,
+        "word": "痞幼方回应3个月广告收入约1620万",
+        "onboard_time": 1701169893,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 269118,
+        "num": 269118,
+        "word": "王睡睡 不要再回头了",
+        "onboard_time": 1701161314,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239896,
+        "num": 239896,
+        "word": "开香槟",
+        "onboard_time": 1701172474,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235969,
+        "num": 235969,
+        "word": "MAMA导播是懂怼脸的",
+        "onboard_time": 1701167373,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248824,
+        "num": 234968,
+        "word": "王睡睡 纯爱战神之首",
+        "onboard_time": 1701165156,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222099,
+        "num": 222099,
+        "word": "大腿赘肉这下插翅逃难了",
+        "onboard_time": 1701169296,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 212857,
+        "num": 212857,
+        "word": "傅首尔说分手是很好的解放",
+        "onboard_time": 1701158855,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206354,
+        "num": 206354,
+        "word": "JackeyLove再唱天后",
+        "onboard_time": 1701168275,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205872,
+        "num": 205872,
+        "word": "陈牧驰 南海归墟",
+        "onboard_time": 1701166235,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199431,
+        "num": 199431,
+        "word": "哪有什么鼻炎",
+        "onboard_time": 1701171274,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198186,
+        "num": 198186,
+        "word": "十个勤天 猛男种地",
+        "onboard_time": 1701172113,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189665,
+        "num": 189665,
+        "word": "吴艳妮说我不是为了当网红",
+        "onboard_time": 1701166658,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186092,
+        "num": 186092,
+        "word": "东方神起红毯",
+        "onboard_time": 1701174215,
+        "rank": 34,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 184086,
+        "num": 184086,
+        "word": "周雨升级当爸",
+        "onboard_time": 1701171274,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165700,
+        "num": 165700,
+        "word": "孙丞潇不让金莎看手机",
+        "onboard_time": 1701173976,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163092,
+        "num": 163092,
+        "word": "若曦洗衣 如意劈柴",
+        "onboard_time": 1701173617,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162158,
+        "num": 162158,
+        "word": "傅首尔老刘 助你高飞",
+        "onboard_time": 1701164313,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156416,
+        "num": 156416,
+        "word": "避孕焦虑症",
+        "onboard_time": 1701163054,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159804,
+        "num": 155504,
+        "word": "新闻女王 当众下跪给我一点小震撼",
+        "onboard_time": 1701158913,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152841,
+        "num": 152841,
+        "word": "王睡睡张硕oe",
+        "onboard_time": 1701148117,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148554,
+        "num": 148554,
+        "word": "异地考编的年轻人会后悔吗",
+        "onboard_time": 1701166174,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 143007,
+        "num": 143007,
+        "word": "周迅 叫我妈咪会被黄渤拖走",
+        "onboard_time": 1701170916,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141961,
+        "num": 141961,
+        "word": "田曦薇看到代拍的反应",
+        "onboard_time": 1701167737,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141400,
+        "num": 141400,
+        "word": "妈妈说爸爸的彩礼到期了",
+        "onboard_time": 1701167017,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131985,
+        "num": 131985,
+        "word": "女子单位输液同事贡献金镯子当挂钩",
+        "onboard_time": 1701167313,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130747,
+        "num": 130747,
+        "word": "为什么玩滑板一定要戴护具",
+        "onboard_time": 1701172716,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 156844,
+        "num": 127413,
+        "word": "Somi MAMA主持人",
+        "onboard_time": 1701169055,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123881,
+        "num": 123881,
+        "word": "张凌赫情绪怪稳定的",
+        "onboard_time": 1701168575,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
