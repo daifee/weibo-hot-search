@@ -1,7 +1,15 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701213444584,
+  "endTime": 1701214454459,
   "band_list": [
+    {
+      "raw_hot": 1791774,
+      "num": 1791774,
+      "word": "芒格去世",
+      "onboard_time": 1701212963,
+      "rank": 3,
+      "category": "财经"
+    },
     {
       "raw_hot": 1405957,
       "num": 1405957,
@@ -11,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1209274,
+      "num": 1209274,
+      "word": "海底捞服务员跳擦玻璃舞被指低俗",
+      "onboard_time": 1701194417,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 971651,
       "num": 971651,
       "word": "刘宇宁 台词",
       "onboard_time": 1701182256,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 947330,
-      "num": 947330,
-      "word": "海底捞服务员跳擦玻璃舞被指低俗",
-      "onboard_time": 1701194417,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 656833,
@@ -51,14 +59,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 466788,
-      "num": 466788,
-      "word": "芒格去世",
-      "onboard_time": 1701212963,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
       "raw_hot": 441691,
       "num": 441691,
       "word": "何猷君奚梦瑶孩子正脸",
@@ -73,6 +73,14 @@
       "onboard_time": 1701181297,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 380512,
+      "num": 380512,
+      "word": "大学生独游华山坠崖失联10天",
+      "onboard_time": 1701203533,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 348842,
@@ -91,20 +99,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 317098,
-      "num": 317098,
+      "raw_hot": 339625,
+      "num": 159722,
+      "word": "博主B太曝光的鬼秤商家被罚款20万",
+      "onboard_time": 1701212541,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325894,
+      "num": 325894,
       "word": "北京要求一切以孩子身体为重",
       "onboard_time": 1701179618,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316723,
-      "num": 316723,
-      "word": "大学生独游华山坠崖失联10天",
-      "onboard_time": 1701203533,
-      "rank": 49,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 313431,
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269610,
+      "num": 269610,
+      "word": "山东明确要求师生不带病上班上课",
+      "onboard_time": 1701191423,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 269530,
       "num": 269530,
       "word": "MAMA获奖名单",
@@ -195,12 +211,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 247874,
-      "num": 247874,
-      "word": "山东明确要求师生不带病上班上课",
-      "onboard_time": 1701191423,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 239038,
+      "num": 239038,
+      "word": "鹿晗新歌",
+      "onboard_time": 1701213205,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 226111,
@@ -219,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199131,
-      "num": 199131,
+      "raw_hot": 201228,
+      "num": 201228,
       "word": "浙江14岁短跑天才少女非体育生",
       "onboard_time": 1701183516,
       "rank": 32,
@@ -228,11 +244,19 @@
     },
     {
       "raw_hot": 187083,
-      "num": 79105,
+      "num": 183413,
       "word": "巴菲特悼念芒格",
       "onboard_time": 1701213144,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186032,
+      "num": 186032,
+      "word": "新闻女王",
+      "onboard_time": 1701213688,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 178689,
@@ -243,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177768,
-      "num": 177768,
-      "word": "鹿晗新歌",
-      "onboard_time": 1701213205,
-      "rank": 13,
-      "category": "音乐"
+      "raw_hot": 174997,
+      "num": 99585,
+      "word": "涵艺爆料xiaohao加入WBG",
+      "onboard_time": 1701214106,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 167207,
@@ -257,14 +281,6 @@
       "onboard_time": 1701170435,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160517,
-      "num": 120617,
-      "word": "博主B太曝光的鬼秤商家被罚款20万",
-      "onboard_time": 1701212541,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157984,
@@ -299,6 +315,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 148643,
+      "num": 148643,
+      "word": "欧冠",
+      "onboard_time": 1701213625,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146552,
+      "num": 146552,
+      "word": "熊猫长牙了莫斯科动物园第一时间展示",
+      "onboard_time": 1701206653,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145845,
       "num": 145845,
       "word": "孙丞潇不让金莎看手机",
@@ -329,14 +361,6 @@
       "onboard_time": 1701176018,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 122418,
-      "num": 122418,
-      "word": "熊猫长牙了莫斯科动物园第一时间展示",
-      "onboard_time": 1701206653,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119290,
@@ -395,12 +419,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103924,
+      "num": 103924,
+      "word": "海底捞回应服务员跳擦玻璃被指低俗",
+      "onboard_time": 1701213926,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102200,
       "num": 102200,
       "word": "胡锡进称中华有为世界荣耀",
       "onboard_time": 1701175834,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100395,
+      "num": 99578,
+      "word": "米兰vs多特",
+      "onboard_time": 1701213205,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 100176,
@@ -427,20 +467,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 94660,
+      "num": 94660,
+      "word": "科学提高免疫力的3个关键",
+      "onboard_time": 1701211759,
+      "rank": 39,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 93585,
+      "num": 96702,
+      "word": "曼城3比2莱比锡",
+      "onboard_time": 1701213866,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93384,
+      "num": 93384,
+      "word": "涵艺爆料weiwei加入LNG",
+      "onboard_time": 1701214230,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91875,
       "num": 70666,
       "word": "一念关山",
       "onboard_time": 1701159933,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91066,
-      "num": 78431,
-      "word": "米兰vs多特",
-      "onboard_time": 1701213205,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 89775,
@@ -491,6 +547,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68589,
+      "num": 68589,
+      "word": "刘德华父亲丧礼将以私人形式举行",
+      "onboard_time": 1701201434,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65651,
+      "num": 65651,
+      "word": "白宇打入叔适圈",
+      "onboard_time": 1701201434,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65559,
       "num": 85009,
       "word": "莫伊塞斯哭了",
@@ -513,30 +585,6 @@
       "onboard_time": 1701191241,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 61573,
-      "num": 61573,
-      "word": "科学提高免疫力的3个关键",
-      "onboard_time": 1701211759,
-      "rank": 39,
-      "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 61021,
-      "num": 61021,
-      "word": "白宇打入叔适圈",
-      "onboard_time": 1701201434,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 52198,
-      "num": 52198,
-      "word": "刘德华父亲丧礼将以私人形式举行",
-      "onboard_time": 1701201434,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 50710,
@@ -571,20 +619,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18842,
+      "num": 967214,
+      "word": "首届链博会让中外企业共享新机遇",
+      "onboard_time": 1701176317,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18238,
       "num": 18238,
       "word": "梁景仁张家妍还会复合吗",
       "onboard_time": 1701197235,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14586,
-      "num": 790391,
-      "word": "首届链博会让中外企业共享新机遇",
-      "onboard_time": 1701176317,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12553,

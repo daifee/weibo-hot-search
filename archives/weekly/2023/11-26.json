@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701213444584,
+  "endTime": 1701214454459,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -257,6 +257,14 @@
       "onboard_time": 1700926666,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1791774,
+      "num": 1791774,
+      "word": "芒格去世",
+      "onboard_time": 1701212963,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1787413,
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1209274,
+      "num": 1209274,
+      "word": "海底捞服务员跳擦玻璃舞被指低俗",
+      "onboard_time": 1701194417,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1185764,
       "num": 1185764,
       "word": "行政执法卷 歹毒",
@@ -785,14 +801,6 @@
       "onboard_time": 1701049717,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 947330,
-      "num": 947330,
-      "word": "海底捞服务员跳擦玻璃舞被指低俗",
-      "onboard_time": 1701194417,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 942210,
@@ -2275,14 +2283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 466788,
-      "num": 466788,
-      "word": "芒格去世",
-      "onboard_time": 1701212963,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
       "raw_hot": 466581,
       "num": 466581,
       "word": "一个18寸的披萨比两个12寸的披萨大",
@@ -2947,6 +2947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380512,
+      "num": 380512,
+      "word": "大学生独游华山坠崖失联10天",
+      "onboard_time": 1701203533,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 380316,
       "num": 369825,
       "word": "一念关山在线观看人数",
@@ -3259,6 +3267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 339625,
+      "num": 159722,
+      "word": "博主B太曝光的鬼秤商家被罚款20万",
+      "onboard_time": 1701212541,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338293,
       "num": 338293,
       "word": "张译 缺席",
@@ -3465,14 +3481,6 @@
       "onboard_time": 1700967871,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 316723,
-      "num": 316723,
-      "word": "大学生独游华山坠崖失联10天",
-      "onboard_time": 1701203533,
-      "rank": 49,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 316623,
@@ -4299,6 +4307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269610,
+      "num": 269610,
+      "word": "山东明确要求师生不带病上班上课",
+      "onboard_time": 1701191423,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 269189,
       "num": 269189,
       "word": "新一代国产CPU正式发布",
@@ -4715,14 +4731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247874,
-      "num": 247874,
-      "word": "山东明确要求师生不带病上班上课",
-      "onboard_time": 1701191423,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 247835,
       "num": 247835,
       "word": "国考报名人数首破300万",
@@ -4905,6 +4913,14 @@
       "onboard_time": 1701156570,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239038,
+      "num": 239038,
+      "word": "鹿晗新歌",
+      "onboard_time": 1701213205,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 238693,
@@ -5827,6 +5843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201228,
+      "num": 201228,
+      "word": "浙江14岁短跑天才少女非体育生",
+      "onboard_time": 1701183516,
+      "rank": 28,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 200867,
       "num": 200867,
       "word": "TTG 上上签",
@@ -5929,14 +5953,6 @@
       "onboard_time": 1701171274,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 199131,
-      "num": 199131,
-      "word": "浙江14岁短跑天才少女非体育生",
-      "onboard_time": 1701183516,
-      "rank": 28,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 198880,
@@ -6476,7 +6492,7 @@
     },
     {
       "raw_hot": 187083,
-      "num": 79105,
+      "num": 183413,
       "word": "巴菲特悼念芒格",
       "onboard_time": 1701213144,
       "rank": 30,
@@ -6787,14 +6803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 177768,
-      "num": 177768,
-      "word": "鹿晗新歌",
-      "onboard_time": 1701213205,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 177404,
       "num": 177404,
       "word": "无价之宝在东北有多火",
@@ -6881,6 +6889,14 @@
       "onboard_time": 1701150812,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 174997,
+      "num": 99585,
+      "word": "涵艺爆料xiaohao加入WBG",
+      "onboard_time": 1701214106,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 174772,
@@ -7257,14 +7273,6 @@
       "onboard_time": 1701151411,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160517,
-      "num": 120617,
-      "word": "博主B太曝光的鬼秤商家被罚款20万",
-      "onboard_time": 1701212541,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160354,
@@ -7659,6 +7667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148643,
+      "num": 148643,
+      "word": "欧冠",
+      "onboard_time": 1701213625,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148459,
       "num": 148459,
       "word": "李荣浩演唱会",
@@ -7729,6 +7745,14 @@
       "onboard_time": 1701182616,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146552,
+      "num": 146552,
+      "word": "熊猫长牙了莫斯科动物园第一时间展示",
+      "onboard_time": 1701206653,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146429,
@@ -8259,14 +8283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122418,
-      "num": 122418,
-      "word": "熊猫长牙了莫斯科动物园第一时间展示",
-      "onboard_time": 1701206653,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120242,
       "num": 120242,
       "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
@@ -8451,6 +8467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103924,
+      "num": 103924,
+      "word": "海底捞回应服务员跳擦玻璃被指低俗",
+      "onboard_time": 1701213926,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103055,
       "num": 103055,
       "word": "相爱可以抵万难吗",
@@ -8504,6 +8528,14 @@
       "word": "威姆斯百分大战",
       "onboard_time": 1701014970,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100395,
+      "num": 99578,
+      "word": "米兰vs多特",
+      "onboard_time": 1701213205,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -8563,20 +8595,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94660,
+      "num": 94660,
+      "word": "科学提高免疫力的3个关键",
+      "onboard_time": 1701211759,
+      "rank": 39,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 93585,
+      "num": 96702,
+      "word": "曼城3比2莱比锡",
+      "onboard_time": 1701213866,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93384,
+      "num": 93384,
+      "word": "涵艺爆料weiwei加入LNG",
+      "onboard_time": 1701214230,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92448,
       "num": 377463,
       "word": "当代中年夫妻现状",
       "onboard_time": 1700923428,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91066,
-      "num": 78431,
-      "word": "米兰vs多特",
-      "onboard_time": 1701213205,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 90904,
@@ -8795,6 +8843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68589,
+      "num": 68589,
+      "word": "刘德华父亲丧礼将以私人形式举行",
+      "onboard_time": 1701201434,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68133,
       "num": 66543,
       "word": "狂飙剧组时尚芭莎大片",
@@ -8833,6 +8889,14 @@
       "onboard_time": 1701104301,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65651,
+      "num": 65651,
+      "word": "白宇打入叔适圈",
+      "onboard_time": 1701201434,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 64806,
@@ -8875,14 +8939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61573,
-      "num": 61573,
-      "word": "科学提高免疫力的3个关键",
-      "onboard_time": 1701211759,
-      "rank": 39,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 61223,
       "num": 61223,
       "word": "金钟大抱女儿过马路",
@@ -8897,14 +8953,6 @@
       "onboard_time": 1701017963,
       "rank": 45,
       "category": "自然"
-    },
-    {
-      "raw_hot": 61021,
-      "num": 61021,
-      "word": "白宇打入叔适圈",
-      "onboard_time": 1701201434,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 59251,
@@ -8985,14 +9033,6 @@
       "onboard_time": 1700954182,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52198,
-      "num": 52198,
-      "word": "刘德华父亲丧礼将以私人形式举行",
-      "onboard_time": 1701201434,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 51618,

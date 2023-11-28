@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/29 07:17:24
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/29 07:34:14
 </p>
 </blockquote>
 <p>
@@ -2009,6 +2009,12 @@ T1拿到决赛赛点（热度：1835312）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%85%B7%E4%BB%81%20%E9%87%91%E9%A9%AC%E5%BD%B1%E5%B8%9D%23" target="weibo">
 吴慷仁 金马影帝（热度：1799458）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%A0%BC%E5%8E%BB%E4%B8%96%23" target="weibo">
+芒格去世（热度：1791774）
 </a>
 </li>
 
@@ -4179,6 +4185,12 @@ GEN难道只研究了T1（热度：1221313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
+海底捞服务员跳擦玻璃舞被指低俗（热度：1209274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%9B%B8%E5%A4%B7%E7%BA%A2%E7%BB%B8%E8%88%9E%E5%89%91%23" target="weibo">
 李相夷红绸舞剑（热度：1207419）
 </a>
@@ -5799,12 +5811,6 @@ LNG对战T1 比分预测（热度：958227）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
-海底捞服务员跳擦玻璃舞被指低俗（热度：947330）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%B9%B4%E4%BD%93%E6%A3%8038%E5%B2%81%E7%94%B7%E5%AD%90%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%83%B0%E8%85%BA%E7%99%8C%E6%99%9A%E6%9C%9F%23" target="weibo">
 每年体检38岁男子被查出胰腺癌晚期（热度：945865）
 </a>
@@ -6005,12 +6011,6 @@ iPhone15双11最后两小时降价（热度：928672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AA%B3%E5%9B%A0%E5%85%AC%E5%85%AC%E8%85%B9%E6%B3%BB%E5%8F%91%E7%8E%B0%E5%85%AC%E5%A9%86%E5%90%8C%E6%82%A3%E5%A4%AB%E5%A6%BB%E7%99%8C%23" target="weibo">
 儿媳因公公腹泻发现公婆同患夫妻癌（热度：918559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TheShy%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9%23" target="weibo">
-TheShy生日礼物（热度：917952）
 </a>
 </li>
 
