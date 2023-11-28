@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 17:34:43
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 18:19:36
 </p>
 </blockquote>
 <p>
@@ -2943,6 +2943,12 @@ WBG 选边（热度：1521385）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%88%B6%E4%BA%B2%E5%9B%A020%E5%85%83%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E6%B3%AA%E5%B4%A9%23" target="weibo">
+失业父亲因20元生日蛋糕泪崩（热度：1516336）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E6%98%AF%E5%9C%A8%E5%91%8A%E5%88%AB%E5%90%97%23" target="weibo">
 傅首尔是在告别吗（热度：1514754）
 </a>
@@ -2975,6 +2981,12 @@ WBG 选边（热度：1521385）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%20%E5%9B%9E%E6%94%B6%23" target="weibo">
 沪上阿姨 回收（热度：1502510）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
+德德玛去世（热度：1500159）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Zeus获FMVP（热度：912155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E4%BD%A0%E4%BF%A9%E4%B8%8D%E8%AE%A4%E8%AF%86%E5%90%97%23" target="weibo">
 白敬亭宋轶你俩不认识吗（热度：910503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%20%E9%99%8D%E6%99%BA%23" target="weibo">
-以爱为营 降智（热度：909523）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%20%E5%93%87%E5%A3%B0%E4%B8%80%E7%89%87%23" target="weibo">
-奔跑吧 哇声一片（热度：908918）
 </a>
 </li>
 

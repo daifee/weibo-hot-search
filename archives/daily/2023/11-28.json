@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701164083208,
+  "endTime": 1701166776063,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -81,6 +81,22 @@
       "onboard_time": 1701147219,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1516336,
+      "num": 1516336,
+      "word": "失业父亲因20元生日蛋糕泪崩",
+      "onboard_time": 1701161673,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1500159,
+      "num": 1500159,
+      "word": "德德玛去世",
+      "onboard_time": 1701164974,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1434882,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772193,
+      "num": 523556,
+      "word": "李想 很抱歉我们失言了",
+      "onboard_time": 1701165632,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 768101,
       "num": 549084,
       "word": "傅首尔说分手是很好的解放",
@@ -291,14 +315,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 744636,
-      "num": 744636,
-      "word": "失业父亲因20元生日蛋糕泪崩",
-      "onboard_time": 1701161673,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 742224,
       "num": 742224,
       "word": "总做美甲的人现在都怎么样了",
@@ -321,6 +337,14 @@
       "onboard_time": 1701150754,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 722445,
+      "num": 722445,
+      "word": "避孕焦虑症",
+      "onboard_time": 1701163054,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 720128,
@@ -419,6 +443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 595407,
+      "num": 513418,
+      "word": "王睡睡 纯爱战神之首",
+      "onboard_time": 1701165156,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592383,
       "num": 592383,
       "word": "赵丽颖工作室发了三张许半夏",
@@ -499,6 +531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 497668,
+      "num": 497668,
+      "word": "MAMA开场表演",
+      "onboard_time": 1701164974,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 490993,
       "num": 490993,
       "word": "丞磊锦月如歌出妆",
@@ -563,20 +603,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 439774,
+      "num": 439774,
+      "word": "佘诗曼美甲",
+      "onboard_time": 1701165455,
+      "rank": 14,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 438899,
       "num": 438899,
       "word": "刘亦菲张靓颖 姐妹爆料",
       "onboard_time": 1701151834,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 437973,
-      "num": 437973,
-      "word": "避孕焦虑症",
-      "onboard_time": 1701163054,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 433970,
@@ -617,6 +657,14 @@
       "onboard_time": 1701162873,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 408695,
+      "num": 408695,
+      "word": "刘诗诗 这封信请小狮子们亲启",
+      "onboard_time": 1701165514,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 401958,
@@ -755,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325576,
+      "num": 283302,
+      "word": "傅首尔老刘 助你高飞",
+      "onboard_time": 1701164313,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322321,
       "num": 322321,
       "word": "一念关山 五生五世be",
@@ -779,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308479,
+      "num": 305264,
+      "word": "公司福利暗中都标好了价格",
+      "onboard_time": 1701162996,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 307910,
       "num": 307910,
       "word": "光遇复刻",
@@ -801,14 +865,6 @@
       "onboard_time": 1701159213,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 305264,
-      "num": 305264,
-      "word": "公司福利暗中都标好了价格",
-      "onboard_time": 1701162996,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 304035,
@@ -899,7 +955,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284880,
+      "raw_hot": 286805,
       "num": 252494,
       "word": "奚梦瑶最大的遗憾",
       "onboard_time": 1701163771,
@@ -963,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272436,
+      "num": 241224,
+      "word": "陈牧驰 南海归墟",
+      "onboard_time": 1701166235,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269189,
       "num": 269189,
       "word": "新一代国产CPU正式发布",
@@ -985,6 +1049,14 @@
       "onboard_time": 1701087571,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262959,
+      "num": 262959,
+      "word": "Canyon发文告别DK",
+      "onboard_time": 1701166115,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 262064,
@@ -1049,6 +1121,14 @@
       "onboard_time": 1701088415,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 255473,
+      "num": 864740,
+      "word": "嗓子痛可以喝冰水缓解",
+      "onboard_time": 1701162815,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255068,
@@ -1163,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 237821,
+      "num": 234084,
+      "word": "章昊MAMA小提琴独奏",
+      "onboard_time": 1701164192,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235959,
       "num": 235959,
       "word": "阿里达摩院裁撤量子实验室",
@@ -1217,6 +1305,14 @@
       "onboard_time": 1701158077,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 221815,
+      "num": 179072,
+      "word": "MAMA阵容",
+      "onboard_time": 1701166474,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 221108,
@@ -1395,6 +1491,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 200014,
+      "num": 200014,
+      "word": "异地考编的年轻人会后悔吗",
+      "onboard_time": 1701166174,
+      "rank": 36,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 199972,
       "num": 199972,
       "word": "VOGUE蓝毯大片",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1701163955,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 184796,
+      "num": 184796,
+      "word": "吴艳妮说我不是为了当网红",
+      "onboard_time": 1701166658,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 184229,
@@ -1763,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157643,
+      "num": 157643,
+      "word": "给东京来的摇滚小子一点沪币震撼",
+      "onboard_time": 1701163894,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156704,
       "num": 156704,
       "word": "你今年买羽绒服了吗",
@@ -1811,14 +1931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154330,
-      "num": 154330,
-      "word": "给东京来的摇滚小子一点沪币震撼",
-      "onboard_time": 1701163894,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153478,
       "num": 153478,
       "word": "丁亦然回应被痞幼盗用视频",
@@ -1857,6 +1969,22 @@
       "onboard_time": 1701152672,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150391,
+      "num": 150391,
+      "word": "胡先煦再次社死",
+      "onboard_time": 1701166713,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148380,
+      "num": 408714,
+      "word": "智界S7首发8大华为黑科技",
+      "onboard_time": 1701165334,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 148280,
@@ -1969,6 +2097,14 @@
       "onboard_time": 1701149613,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137645,
+      "num": 705157,
+      "word": "这家快餐店可以免费吃饭",
+      "onboard_time": 1701165034,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134967,
@@ -2300,7 +2436,7 @@
     },
     {
       "raw_hot": 42147,
-      "num": 1168150,
+      "num": 1506036,
       "word": "第一届中国国际供应链促进博览会",
       "onboard_time": 1701157472,
       "rank": 2,
