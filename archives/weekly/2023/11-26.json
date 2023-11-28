@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701159757233,
+  "endTime": 1701160551197,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1434882,
+      "num": 476131,
+      "word": "部分滴滴司机开始提现",
+      "onboard_time": 1701156751,
+      "rank": 23,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 1401353,
       "num": 1401353,
       "word": "虞书欣也在嗑白敬亭宋轶",
@@ -393,14 +401,6 @@
       "onboard_time": 1701000813,
       "rank": 12,
       "category": "演出,网红"
-    },
-    {
-      "raw_hot": 1326462,
-      "num": 431802,
-      "word": "部分滴滴司机开始提现",
-      "onboard_time": 1701156751,
-      "rank": 23,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 1321813,
@@ -435,12 +435,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1300191,
+      "num": 1300191,
+      "word": "朱丹曾被朋友骗光所有积蓄",
+      "onboard_time": 1701156992,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1297217,
       "num": 1297217,
       "word": "杨幂王鹤棣台下扔水瓶",
       "onboard_time": 1700955143,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1294260,
+      "num": 1294260,
+      "word": "痞幼3个月广告收入约为1620万",
+      "onboard_time": 1701159455,
+      "rank": 18,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1282904,
@@ -481,14 +497,6 @@
       "onboard_time": 1701051213,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1242801,
-      "num": 1242801,
-      "word": "朱丹曾被朋友骗光所有积蓄",
-      "onboard_time": 1701156992,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1218270,
@@ -923,6 +931,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 768101,
+      "num": 473365,
+      "word": "傅首尔说分手是很好的解放",
+      "onboard_time": 1701158855,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 767732,
       "num": 767732,
       "word": "暮光之城 重启",
@@ -1195,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 648531,
+      "num": 648531,
+      "word": "蜂花 脱发变少了",
+      "onboard_time": 1701157472,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 647999,
       "num": 647999,
       "word": "GQ嘉宾关键词",
@@ -1313,14 +1337,6 @@
       "onboard_time": 1700974292,
       "rank": 20,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 610053,
-      "num": 610053,
-      "word": "蜂花 脱发变少了",
-      "onboard_time": 1701157472,
-      "rank": 6,
-      "category": "美妆"
     },
     {
       "raw_hot": 608671,
@@ -1504,6 +1520,14 @@
       "word": "张遮终生未娶",
       "onboard_time": 1701060399,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 547483,
+      "num": 547483,
+      "word": "新闻女王 当众下跪给我一点小震撼",
+      "onboard_time": 1701158913,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -1817,14 +1841,6 @@
       "onboard_time": 1701049892,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 482395,
-      "num": 431016,
-      "word": "傅首尔说分手是很好的解放",
-      "onboard_time": 1701158855,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 480399,
@@ -2467,14 +2483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 386502,
-      "num": 386502,
-      "word": "新闻女王 当众下跪给我一点小震撼",
-      "onboard_time": 1701158913,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 386245,
       "num": 386245,
       "word": "支原体肺炎",
@@ -2675,6 +2683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347968,
+      "num": 347968,
+      "word": "王栎鑫广州站嘉宾 俞灏明",
+      "onboard_time": 1701159754,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 347640,
       "num": 250439,
       "word": "王阳说秦岚电音朵拉很酷",
@@ -2737,14 +2753,6 @@
       "onboard_time": 1701094835,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342402,
-      "num": 342402,
-      "word": "痞幼3个月广告收入约为1620万",
-      "onboard_time": 1701159455,
-      "rank": 18,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 340805,
@@ -3121,6 +3129,14 @@
       "onboard_time": 1701097834,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 306062,
+      "num": 210640,
+      "word": "帕梅拉害怕鸡爪",
+      "onboard_time": 1701159213,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 305409,
@@ -3609,14 +3625,6 @@
       "onboard_time": 1701056135,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271143,
-      "num": 185716,
-      "word": "帕梅拉害怕鸡爪",
-      "onboard_time": 1701159213,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 270331,
@@ -4403,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228349,
+      "num": 228349,
+      "word": "MAMA直播",
+      "onboard_time": 1701158077,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228333,
       "num": 228333,
       "word": "1小时看完地球45亿年发展史",
@@ -4619,6 +4635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218057,
+      "num": 210638,
+      "word": "调脾胃苹果水",
+      "onboard_time": 1701159455,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 217851,
       "num": 217851,
       "word": "二进制小品",
@@ -4707,14 +4731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213126,
-      "num": 213126,
-      "word": "MAMA直播",
-      "onboard_time": 1701158077,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 212800,
       "num": 212800,
       "word": "行测结束网友自嘲轻舟已撞大冰山",
@@ -4729,6 +4745,14 @@
       "onboard_time": 1700958449,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211459,
+      "num": 211459,
+      "word": "智界S7",
+      "onboard_time": 1701160173,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 211306,
@@ -4769,6 +4793,14 @@
       "onboard_time": 1700968896,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 208244,
+      "num": 208244,
+      "word": "大雨 辛芷蕾仿妆",
+      "onboard_time": 1701159754,
+      "rank": 33,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 207731,
@@ -5979,14 +6011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169645,
-      "num": 169645,
-      "word": "调脾胃苹果水",
-      "onboard_time": 1701159455,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 169465,
       "num": 169465,
       "word": "问界新M7大定突破十万辆",
@@ -6113,6 +6137,14 @@
       "onboard_time": 1701040463,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164729,
+      "num": 164729,
+      "word": "我现在买衣服的标准",
+      "onboard_time": 1701159993,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 164363,
@@ -6945,6 +6977,14 @@
       "onboard_time": 1700918508,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 132330,
+      "num": 132330,
+      "word": "i人朋友不多的原因",
+      "onboard_time": 1701160472,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 132103,
@@ -7812,7 +7852,7 @@
     },
     {
       "raw_hot": 42147,
-      "num": 1080404,
+      "num": 1168150,
       "word": "第一届中国国际供应链促进博览会",
       "onboard_time": 1701157472,
       "rank": 2,
@@ -7867,20 +7907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34155,
+      "num": 131491,
+      "word": "华为发布首款轿车有多安全",
+      "onboard_time": 1701159633,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 31212,
       "num": 52493,
       "word": "谭松韵新片黄金嫁妆是吴京提的",
       "onboard_time": 1701118273,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 29947,
-      "num": 131491,
-      "word": "华为发布首款轿车有多安全",
-      "onboard_time": 1701159633,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 28343,
@@ -8016,6 +8056,9 @@
     },
     {
       "word": "#长江经济带发展日趋向好也要久久为功#"
+    },
+    {
+      "word": "#中共中央政治局第十次集体学习#"
     }
   ]
 }
