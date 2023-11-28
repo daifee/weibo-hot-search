@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701202739868,
+  "endTime": 1701203664054,
   "band_list": [
     {
       "raw_hot": 1405957,
@@ -467,8 +467,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35795,
-      "num": 28764,
+      "raw_hot": 41369,
+      "num": 41369,
       "word": "刘德华父亲丧礼将以私人形式举行",
       "onboard_time": 1701201434,
       "rank": 14,
@@ -491,8 +491,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 18522,
-      "num": 18522,
+      "raw_hot": 19843,
+      "num": 19843,
       "word": "白宇打入叔适圈",
       "onboard_time": 1701201434,
       "rank": 27,
@@ -521,6 +521,14 @@
       "onboard_time": 1701198134,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 9502,
+      "num": 13576,
+      "word": "大学生独游华山坠崖失联10天",
+      "onboard_time": 1701203533,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     }
   ],
   "hotgov_list": [
