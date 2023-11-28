@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701160551197,
+  "endTime": 1701163079053,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -49,6 +49,14 @@
       "onboard_time": 1700953820,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2807487,
+      "num": 2807487,
+      "word": "痞幼3个月广告收入约为1620万",
+      "onboard_time": 1701159455,
+      "rank": 18,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2781937,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 1434882,
-      "num": 476131,
+      "num": 523301,
       "word": "部分滴滴司机开始提现",
       "onboard_time": 1701156751,
       "rank": 23,
@@ -449,14 +457,6 @@
       "onboard_time": 1700955143,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1294260,
-      "num": 1294260,
-      "word": "痞幼3个月广告收入约为1620万",
-      "onboard_time": 1701159455,
-      "rank": 18,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1282904,
@@ -867,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 820061,
+      "num": 494906,
+      "word": "王睡睡 不要再回头了",
+      "onboard_time": 1701161314,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 819623,
       "num": 819623,
       "word": "多伦多市附近交通事故4名中国留学生身亡",
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 768101,
-      "num": 473365,
+      "num": 477916,
       "word": "傅首尔说分手是很好的解放",
       "onboard_time": 1701158855,
       "rank": 12,
@@ -1459,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572585,
+      "num": 572585,
+      "word": "新闻女王 当众下跪给我一点小震撼",
+      "onboard_time": 1701158913,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570776,
       "num": 570776,
       "word": "云南玉溪发生3.0级地震",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1700969972,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 566715,
+      "num": 566715,
+      "word": "美方多次破坏中国企业和其他国家合作",
+      "onboard_time": 1701161017,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 565660,
@@ -1499,6 +1523,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 553930,
+      "num": 553930,
+      "word": "女将星开机",
+      "onboard_time": 1701161851,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 553391,
       "num": 553391,
       "word": "胡歌为刘诗诗新剧打call",
@@ -1520,14 +1552,6 @@
       "word": "张遮终生未娶",
       "onboard_time": 1701060399,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 547483,
-      "num": 547483,
-      "word": "新闻女王 当众下跪给我一点小震撼",
-      "onboard_time": 1701158913,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -2179,6 +2203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 425958,
+      "num": 425958,
+      "word": "华为希望一汽集团加入",
+      "onboard_time": 1701161673,
+      "rank": 14,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 425849,
       "num": 425849,
       "word": "连电视剧都有双休了",
@@ -2515,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380038,
+      "num": 380038,
+      "word": "失业父亲因20元生日蛋糕泪崩",
+      "onboard_time": 1701161673,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379980,
       "num": 379980,
       "word": "林志玲北野武 颁奖",
@@ -2545,6 +2585,14 @@
       "onboard_time": 1701057759,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 371055,
+      "num": 371055,
+      "word": "金莎曾被朋友要求支付陪聊酬劳",
+      "onboard_time": 1701162033,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 370896,
@@ -2667,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349341,
+      "num": 337331,
+      "word": "吴千语哭着说对不起妈妈",
+      "onboard_time": 1701158135,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348736,
       "num": 348736,
       "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
@@ -2784,14 +2840,6 @@
       "word": "张译 缺席",
       "onboard_time": 1700913884,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 337331,
-      "num": 337331,
-      "word": "吴千语哭着说对不起妈妈",
-      "onboard_time": 1701158135,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -3195,6 +3243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302644,
+      "num": 302644,
+      "word": "逆水寒 永劫无间",
+      "onboard_time": 1701161553,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 302484,
       "num": 302484,
       "word": "一直娱",
@@ -3539,6 +3595,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 278636,
+      "num": 278636,
+      "word": "无痛打耳洞方法",
+      "onboard_time": 1701162213,
+      "rank": 24,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 278382,
       "num": 234558,
       "word": "热搜vs孤注一掷",
@@ -3633,6 +3697,14 @@
       "onboard_time": 1701071552,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270215,
+      "num": 226888,
+      "word": "冬季跑步心率",
+      "onboard_time": 1701162454,
+      "rank": 30,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 270106,
@@ -3891,6 +3963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255068,
+      "num": 255068,
+      "word": "迪丽热巴冬日飘雪花絮",
+      "onboard_time": 1701160893,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 254625,
       "num": 254625,
       "word": "大鹏学虞书欣手势打招呼",
@@ -4088,6 +4168,14 @@
       "word": "韩国一女子杀人分尸称痴迷犯罪想尝试谋杀",
       "onboard_time": 1700913043,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243946,
+      "num": 243946,
+      "word": "黑龙江双阳煤矿发生事故",
+      "onboard_time": 1701161615,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -5123,12 +5211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197544,
+      "num": 197544,
+      "word": "华为新公司已向四界发出邀请",
+      "onboard_time": 1701162393,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 197316,
       "num": 155921,
       "word": "鹿晗愿望季",
       "onboard_time": 1701068430,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197276,
+      "num": 197276,
+      "word": "treasure在MAMA红毯上滑步",
+      "onboard_time": 1701162873,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196968,
@@ -5835,6 +5939,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 176694,
+      "num": 176694,
+      "word": "沈小婷MAMA新闻图",
+      "onboard_time": 1701162996,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 176358,
       "num": 176358,
       "word": "掘金vs快船",
@@ -5905,6 +6017,14 @@
       "onboard_time": 1700923244,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174755,
+      "num": 174755,
+      "word": "i人朋友不多的原因",
+      "onboard_time": 1701160472,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 174745,
@@ -6555,6 +6675,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 149744,
+      "num": 149744,
+      "word": "公司福利暗中都标好了价格",
+      "onboard_time": 1701162996,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149250,
       "num": 149250,
       "word": "原来猫咪平时都是踮着脚的",
@@ -6667,6 +6795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145188,
+      "num": 145188,
+      "word": "中国空间站全貌高清图像首次公布",
+      "onboard_time": 1701162694,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145089,
       "num": 145089,
       "word": "闻不到味道的人 鼻炎患者",
@@ -6777,6 +6913,14 @@
       "onboard_time": 1700978493,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141295,
+      "num": 141295,
+      "word": "避孕焦虑症",
+      "onboard_time": 1701163054,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141052,
@@ -6977,14 +7121,6 @@
       "onboard_time": 1700918508,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132330,
-      "num": 132330,
-      "word": "i人朋友不多的原因",
-      "onboard_time": 1701160472,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 132103,
@@ -7473,6 +7609,14 @@
       "onboard_time": 1700925644,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84932,
+      "num": 232319,
+      "word": "华为凭什么重新定义汽车底盘",
+      "onboard_time": 1701161195,
+      "rank": 28,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 84040,

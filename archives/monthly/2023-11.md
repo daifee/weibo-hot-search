@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 16:35:51
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 17:17:59
 </p>
 </blockquote>
 <p>
@@ -659,6 +659,12 @@ WBG晋级S13总决赛（热度：2847580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%AF%B4%E6%88%91%E7%9C%9F%E6%8A%A2%E8%B7%91%E4%BA%86%E5%8F%88%E6%80%8E%E4%B9%88%E4%BA%86%23" target="weibo">
 吴艳妮说我真抢跑了又怎么了（热度：2810104）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC3%E4%B8%AA%E6%9C%88%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5%E7%BA%A6%E4%B8%BA1620%E4%B8%87%23" target="weibo">
+痞幼3个月广告收入约为1620万（热度：2807487）
 </a>
 </li>
 
@@ -3737,12 +3743,6 @@ Faker无需向众神祈祷（热度：1321697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%BA%86%E7%A5%9D%E5%85%A5%E4%BD%8F%E5%A4%A7%E5%BA%8A%E6%88%BF%23" target="weibo">
 迪丽热巴换手机壳庆祝入住大床房（热度：1295396）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC3%E4%B8%AA%E6%9C%88%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5%E7%BA%A6%E4%B8%BA1620%E4%B8%87%23" target="weibo">
-痞幼3个月广告收入约为1620万（热度：1294260）
 </a>
 </li>
 
