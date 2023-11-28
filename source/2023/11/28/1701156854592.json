@@ -1,0 +1,410 @@
+{
+  "runTime": 1701156854592,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1711390,
+        "num": 1711390,
+        "word": "傅首尔老刘都没下车",
+        "onboard_time": 1701150453,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1611771,
+        "num": 1611771,
+        "word": "喜茶 我佛持杯",
+        "onboard_time": 1701148893,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40791,
+        "num": 1259056,
+        "word": "呼吸道合胞病毒如何预防",
+        "onboard_time": 1701136593,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914526,
+        "num": 914526,
+        "word": "盲人女性如何度过经期",
+        "onboard_time": 1701152610,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 851855,
+        "num": 851855,
+        "word": "旭旭宝宝工作室秒挂电话",
+        "onboard_time": 1701154711,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 741491,
+        "num": 741491,
+        "word": "王睡睡张硕oe",
+        "onboard_time": 1701148117,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680986,
+        "num": 680986,
+        "word": "主播小涛在非洲在埃塞俄比亚遇害",
+        "onboard_time": 1701147219,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617096,
+        "num": 617096,
+        "word": "羽绒服上没有这几个字再便宜也别买",
+        "onboard_time": 1701150333,
+        "rank": 7,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 590670,
+        "num": 590670,
+        "word": "100到300的羽绒服卖得最好",
+        "onboard_time": 1701154353,
+        "rank": 8,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 524031,
+        "num": 524031,
+        "word": "MAMA红毯",
+        "onboard_time": 1701150754,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 955068,
+        "num": 522497,
+        "word": "热狗 我是骂所有人不只是杰伦",
+        "onboard_time": 1701145477,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 511594,
+        "num": 511594,
+        "word": "网红痞幼就盗用他人视频道歉",
+        "onboard_time": 1701137191,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 462911,
+        "num": 462911,
+        "word": "滴滴系统崩溃预计损失超4亿",
+        "onboard_time": 1701150992,
+        "rank": 12,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 449541,
+        "num": 449541,
+        "word": "华为发布会",
+        "onboard_time": 1701153574,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 399023,
+        "num": 399023,
+        "word": "烤红薯和蒸红薯哪个更健康",
+        "onboard_time": 1701149434,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 384556,
+        "num": 384556,
+        "word": "刘亦菲张靓颖 姐妹爆料",
+        "onboard_time": 1701151834,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360169,
+        "num": 360169,
+        "word": "中共中央政治局第十次集体学习",
+        "onboard_time": 1701152253,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333746,
+        "num": 333746,
+        "word": "秦海璐 三十岁没结婚没什么关系",
+        "onboard_time": 1701144877,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307830,
+        "num": 307830,
+        "word": "王诗晴纪焕博",
+        "onboard_time": 1701152191,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283307,
+        "num": 283307,
+        "word": "潘粤明减重30斤演胡八一",
+        "onboard_time": 1701132761,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278640,
+        "num": 278640,
+        "word": "女将星 妆造",
+        "onboard_time": 1701144396,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259270,
+        "num": 259270,
+        "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
+        "onboard_time": 1701144157,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249040,
+        "num": 249040,
+        "word": "何炅黄多多演话剧",
+        "onboard_time": 1701156273,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243534,
+        "num": 243534,
+        "word": "部分滴滴司机开始提现",
+        "onboard_time": 1701156751,
+        "rank": 23,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 231149,
+        "num": 231149,
+        "word": "韩国妆造 扬长避短",
+        "onboard_time": 1701154652,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 215710,
+        "num": 215710,
+        "word": "奶奶带5岁孙子坚持晨跑552天",
+        "onboard_time": 1701156155,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 45128,
+        "num": 214847,
+        "word": "你相信车能自己停到车库吗",
+        "onboard_time": 1701155312,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214605,
+        "num": 214605,
+        "word": "关晓彤新中式穿搭",
+        "onboard_time": 1701154832,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211306,
+        "num": 211306,
+        "word": "哈登不攻",
+        "onboard_time": 1701154652,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194968,
+        "num": 194968,
+        "word": "11万对于普通家庭是什么概念",
+        "onboard_time": 1701145421,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281597,
+        "num": 193590,
+        "word": "南海归墟女巫 普通话",
+        "onboard_time": 1701155972,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191626,
+        "num": 191626,
+        "word": "陈飞宇抱着咸鱼进组献鱼",
+        "onboard_time": 1701156392,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185243,
+        "num": 185243,
+        "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
+        "onboard_time": 1701148416,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 177630,
+        "num": 177630,
+        "word": "南优贤曾患癌症",
+        "onboard_time": 1701156570,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176823,
+        "num": 176823,
+        "word": "王鹤棣田曦薇手势舞",
+        "onboard_time": 1701147694,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175706,
+        "num": 175706,
+        "word": "男子靠副业月入过万仍做公交司机",
+        "onboard_time": 1701146257,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164847,
+        "num": 164847,
+        "word": "谢娜贴脸开大所有人",
+        "onboard_time": 1701154890,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160317,
+        "num": 160317,
+        "word": "这一世若曦也没能救出玉檀",
+        "onboard_time": 1701151533,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153444,
+        "num": 153444,
+        "word": "赵昭仪回应被叫妹宝",
+        "onboard_time": 1701154292,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151691,
+        "num": 151691,
+        "word": "同样是素人男友看起来完全不同",
+        "onboard_time": 1701154953,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147529,
+        "num": 147529,
+        "word": "柯南黑铁的鱼影定档",
+        "onboard_time": 1701152374,
+        "rank": 40,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 146429,
+        "num": 146429,
+        "word": "张艺谋对名媛舞会很好奇",
+        "onboard_time": 1701156694,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144510,
+        "num": 144510,
+        "word": "滴滴打车 打不到",
+        "onboard_time": 1701132095,
+        "rank": 42,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 138602,
+        "num": 138602,
+        "word": "许光汉猩红脚趾美甲",
+        "onboard_time": 1701149434,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138089,
+        "num": 138089,
+        "word": "快船这都赢不了",
+        "onboard_time": 1701153511,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137939,
+        "num": 137939,
+        "word": "斗鱼多位大主播已停播超10天",
+        "onboard_time": 1701143194,
+        "rank": 45,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 137560,
+        "num": 137560,
+        "word": "金莎 盛况",
+        "onboard_time": 1701137433,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136766,
+        "num": 136766,
+        "word": "殴打法考书把邻居吓到了",
+        "onboard_time": 1701154171,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133095,
+        "num": 133095,
+        "word": "全勤没了",
+        "onboard_time": 1701136413,
+        "rank": 48,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 132444,
+        "num": 132444,
+        "word": "王嘉尔上海 我抢到了",
+        "onboard_time": 1701150214,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#长江经济带发展日趋向好也要久久为功#"
+    }
+  }
+}

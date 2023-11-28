@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701155807838,
+  "endTime": 1701156854592,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 914526,
+      "num": 914526,
+      "word": "盲人女性如何度过经期",
+      "onboard_time": 1701152610,
+      "rank": 30,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 910503,
       "num": 910503,
       "word": "白敬亭宋轶你俩不认识吗",
@@ -793,6 +801,14 @@
       "onboard_time": 1701140196,
       "rank": 16,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 851855,
+      "num": 851855,
+      "word": "旭旭宝宝工作室秒挂电话",
+      "onboard_time": 1701154711,
+      "rank": 9,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 851308,
@@ -985,14 +1001,6 @@
       "onboard_time": 1701150754,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 723781,
-      "num": 723781,
-      "word": "盲人女性如何度过经期",
-      "onboard_time": 1701152610,
-      "rank": 30,
-      "category": "社会议题"
     },
     {
       "raw_hot": 720128,
@@ -1347,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590670,
+      "num": 590670,
+      "word": "100到300的羽绒服卖得最好",
+      "onboard_time": 1701154353,
+      "rank": 14,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 587547,
       "num": 587547,
       "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1701052715,
       "rank": 43,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 557228,
-      "num": 557228,
-      "word": "旭旭宝宝工作室秒挂电话",
-      "onboard_time": 1701154711,
-      "rank": 9,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 553391,
@@ -2233,14 +2241,6 @@
       "onboard_time": 1700923305,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407887,
-      "num": 407887,
-      "word": "100到300的羽绒服卖得最好",
-      "onboard_time": 1701154353,
-      "rank": 14,
-      "category": "财经,时尚"
     },
     {
       "raw_hot": 406600,
@@ -3419,6 +3419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281597,
+      "num": 193590,
+      "word": "南海归墟女巫 普通话",
+      "onboard_time": 1701155972,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280806,
       "num": 280806,
       "word": "做不到和考研和解",
@@ -3907,6 +3915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249040,
+      "num": 249040,
+      "word": "何炅黄多多演话剧",
+      "onboard_time": 1701156273,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 248682,
       "num": 187889,
       "word": "YG 敷衍",
@@ -3985,6 +4001,14 @@
       "onboard_time": 1701051932,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 243534,
+      "num": 243534,
+      "word": "部分滴滴司机开始提现",
+      "onboard_time": 1701156751,
+      "rank": 23,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 243186,
@@ -4523,6 +4547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215710,
+      "num": 215710,
+      "word": "奶奶带5岁孙子坚持晨跑552天",
+      "onboard_time": 1701156155,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 215635,
       "num": 193674,
       "word": "马哥离世",
@@ -4601,6 +4633,14 @@
       "onboard_time": 1700958449,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211306,
+      "num": 211306,
+      "word": "哈登不攻",
+      "onboard_time": 1701154652,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 210919,
@@ -5179,6 +5219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191626,
+      "num": 191626,
+      "word": "陈飞宇抱着咸鱼进组献鱼",
+      "onboard_time": 1701156392,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191503,
       "num": 191503,
       "word": "12月1日起生鲜灯禁用",
@@ -5296,14 +5344,6 @@
       "word": "湖人战胜骑士",
       "onboard_time": 1700968594,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 189617,
-      "num": 189617,
-      "word": "哈登不攻",
-      "onboard_time": 1701154652,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -5633,6 +5673,14 @@
       "onboard_time": 1701074072,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177630,
+      "num": 177630,
+      "word": "南优贤曾患癌症",
+      "onboard_time": 1701156570,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 177404,
@@ -6459,6 +6507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146429,
+      "num": 146429,
+      "word": "张艺谋对名媛舞会很好奇",
+      "onboard_time": 1701156694,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146388,
       "num": 146388,
       "word": "张译看受害者父亲的眼神戏",
@@ -6804,7 +6860,7 @@
     },
     {
       "raw_hot": 131748,
-      "num": 131748,
+      "num": 1259056,
       "word": "呼吸道合胞病毒如何预防",
       "onboard_time": 1701136593,
       "rank": 48,
@@ -7635,6 +7691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45128,
+      "num": 214847,
+      "word": "你相信车能自己停到车库吗",
+      "onboard_time": 1701155312,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37566,
       "num": 37566,
       "word": "秦岚嗓子还没好",
@@ -7681,14 +7745,6 @@
       "onboard_time": 1701082294,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31462,
-      "num": 156322,
-      "word": "你相信车能自己停到车库吗",
-      "onboard_time": 1701155312,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 31212,
