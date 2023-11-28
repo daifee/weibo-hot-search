@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701209800195,
+  "endTime": 1701211142943,
   "band_list": [
     {
       "raw_hot": 1405957,
@@ -57,6 +57,14 @@
       "onboard_time": 1701181297,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 377506,
+      "num": 377506,
+      "word": "海底捞服务员跳擦玻璃舞被指低俗",
+      "onboard_time": 1701194417,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348842,
@@ -171,14 +179,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 250524,
-      "num": 250524,
-      "word": "海底捞服务员跳擦玻璃舞被指低俗",
-      "onboard_time": 1701194417,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226111,
       "num": 226111,
       "word": "何猷君的数学能力",
@@ -209,6 +209,14 @@
       "onboard_time": 1701170435,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164683,
+      "num": 164683,
+      "word": "大学生独游华山坠崖失联10天",
+      "onboard_time": 1701203533,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 157984,
@@ -281,14 +289,6 @@
       "onboard_time": 1701176018,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126731,
-      "num": 56405,
-      "word": "大学生独游华山坠崖失联10天",
-      "onboard_time": 1701203533,
-      "rank": 49,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 121218,
@@ -467,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53234,
+      "num": 44974,
+      "word": "熊猫长牙了莫斯科动物园第一时间展示",
+      "onboard_time": 1701206653,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50710,
       "num": 84991,
       "word": "JackeyLove再唱天后",
@@ -484,27 +492,27 @@
     },
     {
       "raw_hot": 31503,
-      "num": 31503,
+      "num": 32292,
       "word": "流感",
       "onboard_time": 1701204553,
       "rank": 35,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30551,
-      "num": 30551,
-      "word": "熊猫长牙了莫斯科动物园第一时间展示",
-      "onboard_time": 1701206653,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27890,
-      "num": 27890,
+      "num": 32279,
       "word": "傅首尔说分手是很好的解放",
       "onboard_time": 1701158855,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27114,
+      "num": 32287,
+      "word": "白宇打入叔适圈",
+      "onboard_time": 1701201434,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 20661,
@@ -513,14 +521,6 @@
       "onboard_time": 1701199393,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19843,
-      "num": 21655,
-      "word": "白宇打入叔适圈",
-      "onboard_time": 1701201434,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 18238,
