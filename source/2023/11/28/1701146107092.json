@@ -1,0 +1,410 @@
+{
+  "runTime": 1701146107092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2159234,
+        "num": 2159234,
+        "word": "网红痞幼就盗用他人视频道歉",
+        "onboard_time": 1701137191,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1941776,
+        "num": 1941776,
+        "word": "全勤没了",
+        "onboard_time": 1701136413,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 81969,
+        "num": 1249494,
+        "word": "呼吸道疾病高发期实用防治手册",
+        "onboard_time": 1701132580,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104894,
+        "num": 1104894,
+        "word": "女将星 妆造",
+        "onboard_time": 1701144396,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 795742,
+        "num": 795742,
+        "word": "大奉打更人",
+        "onboard_time": 1701139293,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 794025,
+        "num": 794025,
+        "word": "热狗 我是骂所有人不只是杰伦",
+        "onboard_time": 1701145477,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 745621,
+        "num": 745621,
+        "word": "斗鱼多位大主播已停播超10天",
+        "onboard_time": 1701143194,
+        "rank": 6,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 733419,
+        "num": 733419,
+        "word": "有滴滴司机称8公里订单收费1540元",
+        "onboard_time": 1701140196,
+        "rank": 7,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 705335,
+        "num": 705335,
+        "word": "他俩上次吃饭还在武林外传",
+        "onboard_time": 1701140978,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 662858,
+        "num": 662858,
+        "word": "月薪3000保洁阿姨3年捡50多万财物",
+        "onboard_time": 1701130898,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787799,
+        "num": 659166,
+        "word": "潘粤明减重30斤演胡八一",
+        "onboard_time": 1701132761,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646909,
+        "num": 646909,
+        "word": "旭旭宝宝近期退出多家公司",
+        "onboard_time": 1701143982,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 638957,
+        "num": 638957,
+        "word": "金莎 盛况",
+        "onboard_time": 1701137433,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103932,
+        "num": 618193,
+        "word": "vivo拍出了最重要的小事",
+        "onboard_time": 1701142412,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 612555,
+        "num": 612555,
+        "word": "秦海璐 三十岁没结婚没什么关系",
+        "onboard_time": 1701144877,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 590002,
+        "num": 590002,
+        "word": "张进为迪丽热巴化的妆",
+        "onboard_time": 1701143796,
+        "rank": 15,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 562040,
+        "num": 562040,
+        "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
+        "onboard_time": 1701144157,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477844,
+        "num": 477844,
+        "word": "泰国血色婚礼致5死1重伤",
+        "onboard_time": 1701129391,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451075,
+        "num": 451075,
+        "word": "滴滴打车 打不到",
+        "onboard_time": 1701132095,
+        "rank": 18,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 386915,
+        "num": 386915,
+        "word": "胡静林任国家税务总局党委书记",
+        "onboard_time": 1701141216,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657414,
+        "num": 385801,
+        "word": "11万对于普通家庭是什么概念",
+        "onboard_time": 1701145421,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366454,
+        "num": 366454,
+        "word": "不是房产证加了名才叫共同财产",
+        "onboard_time": 1701134672,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344536,
+        "num": 344536,
+        "word": "邓紫棋广州再加场抢票",
+        "onboard_time": 1701145477,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344233,
+        "num": 344233,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701128187,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 310590,
+        "num": 310590,
+        "word": "檀健次周也芭莎大片",
+        "onboard_time": 1701144637,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 306166,
+        "num": 306166,
+        "word": "甲流",
+        "onboard_time": 1701138577,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294272,
+        "num": 294272,
+        "word": "滴滴系统崩溃其他平台爆单",
+        "onboard_time": 1701145538,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275586,
+        "num": 275586,
+        "word": "南海归墟四大巨型哈基米",
+        "onboard_time": 1701145239,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247006,
+        "num": 247006,
+        "word": "收养一只猫竟发现本州未出现病毒",
+        "onboard_time": 1701142054,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228737,
+        "num": 245903,
+        "word": "高中妹妹厌学哥哥带其到大学上课",
+        "onboard_time": 1701133297,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 261550,
+        "num": 245724,
+        "word": "高圆圆和闺蜜28年友谊",
+        "onboard_time": 1701145895,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245438,
+        "num": 245438,
+        "word": "暗爽型人格",
+        "onboard_time": 1701140253,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242609,
+        "num": 242609,
+        "word": "丞磊锦月如歌出妆",
+        "onboard_time": 1701139653,
+        "rank": 32,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 218614,
+        "num": 218614,
+        "word": "滴滴网约车等服务已恢复",
+        "onboard_time": 1701128728,
+        "rank": 33,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 212226,
+        "num": 212226,
+        "word": "00后男孩开货车5年收入超百万",
+        "onboard_time": 1701136711,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212120,
+        "num": 212120,
+        "word": "暂停武汉普仁医院出生医学证明签发资格",
+        "onboard_time": 1701143015,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211791,
+        "num": 211791,
+        "word": "北京现有艾滋病感染者及患者27285人",
+        "onboard_time": 1701088115,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211626,
+        "num": 211626,
+        "word": "陈都灵一念关山一行泪",
+        "onboard_time": 1701145895,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209271,
+        "num": 209271,
+        "word": "大鹏学虞书欣手势打招呼",
+        "onboard_time": 1701142895,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200651,
+        "num": 200651,
+        "word": "余华英案二审择期宣判",
+        "onboard_time": 1701145181,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196490,
+        "num": 196490,
+        "word": "易烊千玺时光琥珀大片",
+        "onboard_time": 1701145838,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195368,
+        "num": 195368,
+        "word": "一念关山追剧日历",
+        "onboard_time": 1701145719,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194982,
+        "num": 194982,
+        "word": "南海归墟首播反响",
+        "onboard_time": 1701137793,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191812,
+        "num": 191812,
+        "word": "刘德华刘雅瑟新片演夫妻",
+        "onboard_time": 1701144637,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183989,
+        "num": 183989,
+        "word": "陈采尼爱奇艺尖叫之夜红毯点评",
+        "onboard_time": 1701135933,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 182643,
+        "num": 182643,
+        "word": "王者新英雄海诺",
+        "onboard_time": 1701140795,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174843,
+        "num": 174843,
+        "word": "南海归墟5A级景区特辑",
+        "onboard_time": 1701139475,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171096,
+        "num": 171096,
+        "word": "周也锦月如歌全身路透",
+        "onboard_time": 1701144818,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168448,
+        "num": 168448,
+        "word": "长相思香港上星播出",
+        "onboard_time": 1701144637,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164756,
+        "num": 164756,
+        "word": "新一代国产CPU正式发布",
+        "onboard_time": 1701140433,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#长江经济带发展日趋向好也要久久为功#"
+    }
+  }
+}

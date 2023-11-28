@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701145289606,
+  "endTime": 1701146107092,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -499,6 +499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1104894,
+      "num": 1104894,
+      "word": "女将星 妆造",
+      "onboard_time": 1701144396,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1096109,
       "num": 1096109,
       "word": "B太 我被漠河人留住了",
@@ -803,6 +811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 794025,
+      "num": 794025,
+      "word": "热狗 我是骂所有人不只是杰伦",
+      "onboard_time": 1701145477,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 792970,
       "num": 792970,
       "word": "多次被要求提供不同材料女子发火",
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 670316,
-      "num": 546931,
+      "num": 646909,
       "word": "旭旭宝宝近期退出多家公司",
       "onboard_time": 1701143982,
       "rank": 13,
@@ -1009,14 +1025,6 @@
       "onboard_time": 1701102507,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 664924,
-      "num": 664924,
-      "word": "女将星 妆造",
-      "onboard_time": 1701144396,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 663334,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1700957794,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 657414,
+      "num": 385801,
+      "word": "11万对于普通家庭是什么概念",
+      "onboard_time": 1701145421,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 657190,
@@ -1169,6 +1185,14 @@
       "onboard_time": 1701141216,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 612555,
+      "num": 612555,
+      "word": "秦海璐 三十岁没结婚没什么关系",
+      "onboard_time": 1701144877,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 610588,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1700970757,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 562040,
+      "num": 562040,
+      "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
+      "onboard_time": 1701144157,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560559,
@@ -2467,20 +2499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344536,
+      "num": 344536,
+      "word": "邓紫棋广州再加场抢票",
+      "onboard_time": 1701145477,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 343506,
       "num": 343506,
       "word": "何猷君奚梦瑶 爱的具象化",
       "onboard_time": 1701094835,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342325,
-      "num": 342325,
-      "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
-      "onboard_time": 1701144157,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340805,
@@ -2955,6 +2987,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 294272,
+      "num": 294272,
+      "word": "滴滴系统崩溃其他平台爆单",
+      "onboard_time": 1701145538,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 293130,
       "num": 293130,
       "word": "宁安如梦薛烨流放",
@@ -3211,6 +3251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275586,
+      "num": 275586,
+      "word": "南海归墟四大巨型哈基米",
+      "onboard_time": 1701145239,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274838,
       "num": 274838,
       "word": "燕临 鲜衣怒马少年郎",
@@ -3233,14 +3281,6 @@
       "onboard_time": 1701051932,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 274226,
-      "num": 274226,
-      "word": "秦海璐 三十岁没结婚没什么关系",
-      "onboard_time": 1701144877,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 273612,
@@ -3417,6 +3457,14 @@
       "onboard_time": 1701051572,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261550,
+      "num": 245724,
+      "word": "高圆圆和闺蜜28年友谊",
+      "onboard_time": 1701145895,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 261167,
@@ -3691,6 +3739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247006,
+      "num": 247006,
+      "word": "收养一只猫竟发现本州未出现病毒",
+      "onboard_time": 1701142054,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246746,
       "num": 246746,
       "word": "鞠婧祎露肩毛衣",
@@ -3713,14 +3769,6 @@
       "onboard_time": 1701051932,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 243797,
-      "num": 243797,
-      "word": "收养一只猫竟发现本州未出现病毒",
-      "onboard_time": 1701142054,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 243186,
@@ -4155,14 +4203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219967,
-      "num": 216876,
-      "word": "南海归墟四大巨型哈基米",
-      "onboard_time": 1701145239,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219832,
       "num": 219832,
       "word": "发现这4种毒文具赶紧扔掉",
@@ -4305,6 +4345,14 @@
       "onboard_time": 1700958449,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211626,
+      "num": 211626,
+      "word": "陈都灵一念关山一行泪",
+      "onboard_time": 1701145895,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 210919,
@@ -4523,6 +4571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200651,
+      "num": 200651,
+      "word": "余华英案二审择期宣判",
+      "onboard_time": 1701145181,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200498,
       "num": 200498,
       "word": "全国225.2万人参加国考公共科目笔试",
@@ -4659,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196490,
+      "num": 196490,
+      "word": "易烊千玺时光琥珀大片",
+      "onboard_time": 1701145838,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 195799,
       "num": 195799,
       "word": "王鹤棣片场嘴没停过",
@@ -4673,6 +4737,14 @@
       "onboard_time": 1701075755,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195368,
+      "num": 195368,
+      "word": "一念关山追剧日历",
+      "onboard_time": 1701145719,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 194725,
@@ -5819,14 +5891,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 152012,
-      "num": 152012,
-      "word": "余华英案二审择期宣判",
-      "onboard_time": 1701145181,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151891,
       "num": 151891,
       "word": "孤舟已下证",
@@ -6076,7 +6140,7 @@
     },
     {
       "raw_hot": 141498,
-      "num": 1203422,
+      "num": 1249494,
       "word": "呼吸道疾病高发期实用防治手册",
       "onboard_time": 1701132580,
       "rank": 49,
@@ -6619,6 +6683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103932,
+      "num": 618193,
+      "word": "vivo拍出了最重要的小事",
+      "onboard_time": 1701142412,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 103055,
       "num": 103055,
       "word": "相爱可以抵万难吗",
@@ -6745,14 +6817,6 @@
       "onboard_time": 1700910164,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89096,
-      "num": 614204,
-      "word": "vivo拍出了最重要的小事",
-      "onboard_time": 1701142412,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 87734,
