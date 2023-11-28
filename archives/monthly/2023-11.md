@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 09:16:45
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 09:38:02
 </p>
 </blockquote>
 <p>
@@ -305,6 +305,12 @@ Faker四冠登神（热度：4408132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CGEN%23" target="weibo">
 BLG战胜GEN（热度：4273103）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E6%89%93%E8%BD%A6%20%E6%89%93%E4%B8%8D%E5%88%B0%23" target="weibo">
+滴滴打车 打不到（热度：4103461）
 </a>
 </li>
 
@@ -4241,12 +4247,6 @@ TheShy回应是否退役（热度：1185814）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E4%B8%BA%E8%BF%94%E6%AC%BE%E8%BE%B9%E6%B5%81%E8%A1%80%E8%BE%B9%E8%B8%A9%E6%A4%AD%E5%9C%86%E6%9C%BA%23" target="weibo">
 姑娘为返款边流血边踩椭圆机（热度：1174605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E6%89%93%E8%BD%A6%20%E6%89%93%E4%B8%8D%E5%88%B0%23" target="weibo">
-滴滴打车 打不到（热度：1174458）
 </a>
 </li>
 
