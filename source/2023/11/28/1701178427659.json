@@ -1,0 +1,410 @@
+{
+  "runTime": 1701178427659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1661845,
+        "num": 1661845,
+        "word": "何猷君奚梦瑶孩子正脸",
+        "onboard_time": 1701176257,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1035113,
+        "num": 1035113,
+        "word": "一念关山 镜头美感",
+        "onboard_time": 1701175417,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24647,
+        "num": 1030163,
+        "word": "首届链博会让中外企业共享新机遇",
+        "onboard_time": 1701176317,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026380,
+        "num": 1026380,
+        "word": "胃病发展成胃癌的五个征兆",
+        "onboard_time": 1701173797,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 741379,
+        "num": 741379,
+        "word": "MAMA获奖名单",
+        "onboard_time": 1701174036,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 629876,
+        "num": 629876,
+        "word": "孙丞潇不让金莎看手机",
+        "onboard_time": 1701173976,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551401,
+        "num": 551401,
+        "word": "seventeen你们不是明天吗",
+        "onboard_time": 1701176018,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 547529,
+        "num": 547529,
+        "word": "胡锡进称中华有为世界荣耀",
+        "onboard_time": 1701175834,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484353,
+        "num": 484353,
+        "word": "网传太原理工一导师辱骂压榨学生",
+        "onboard_time": 1701175057,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 381169,
+        "num": 381169,
+        "word": "皮肤饥渴症",
+        "onboard_time": 1701171215,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 639398,
+        "num": 381003,
+        "word": "痞幼3个月广告收入约为1620万",
+        "onboard_time": 1701159455,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 519637,
+        "num": 378765,
+        "word": "一念关山 六道堂男团",
+        "onboard_time": 1701174876,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444789,
+        "num": 378270,
+        "word": "德德玛去世",
+        "onboard_time": 1701164974,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428139,
+        "num": 376070,
+        "word": "部分滴滴司机开始提现",
+        "onboard_time": 1701156751,
+        "rank": 13,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 375780,
+        "num": 375780,
+        "word": "失业父亲因20元生日蛋糕泪崩",
+        "onboard_time": 1701161673,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353891,
+        "num": 353891,
+        "word": "李雪琴上竞综只办一件事",
+        "onboard_time": 1701172355,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352587,
+        "num": 352587,
+        "word": "一念关山在线观看人数",
+        "onboard_time": 1701177097,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337390,
+        "num": 337390,
+        "word": "易烊千玺网站 猫猫",
+        "onboard_time": 1701170435,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247644,
+        "num": 247644,
+        "word": "李想 很抱歉我们失言了",
+        "onboard_time": 1701165632,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 242816,
+        "num": 242816,
+        "word": "男子多次高空抛物致28岁女子身亡",
+        "onboard_time": 1701169718,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482578,
+        "num": 230432,
+        "word": "一念关山节奏",
+        "onboard_time": 1701175116,
+        "rank": 20,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 385013,
+        "num": 226492,
+        "word": "已婚男陈立隐形出轨",
+        "onboard_time": 1701171815,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215583,
+        "num": 215583,
+        "word": "开香槟",
+        "onboard_time": 1701172474,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214719,
+        "num": 214719,
+        "word": "Xinyi爆料Doinb即将回归",
+        "onboard_time": 1701170134,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214100,
+        "num": 214100,
+        "word": "痞幼方回应3个月广告收入约1620万",
+        "onboard_time": 1701169893,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 329651,
+        "num": 211154,
+        "word": "一念关山",
+        "onboard_time": 1701159933,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325194,
+        "num": 206532,
+        "word": "MAMA",
+        "onboard_time": 1701172355,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252888,
+        "num": 197780,
+        "word": "王睡睡 不要再回头了",
+        "onboard_time": 1701161314,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251124,
+        "num": 196508,
+        "word": "佘诗曼美甲",
+        "onboard_time": 1701165455,
+        "rank": 28,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 191958,
+        "num": 191958,
+        "word": "张雪峰催生新婚员工承诺1个娃奖2万",
+        "onboard_time": 1701176736,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 38139,
+        "num": 191548,
+        "word": "欧阳娜娜看秀版ootd",
+        "onboard_time": 1701176736,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 243958,
+        "num": 191245,
+        "word": "王睡睡 纯爱战神之首",
+        "onboard_time": 1701165156,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234631,
+        "num": 190870,
+        "word": "我和papi酱的愿望是一样的",
+        "onboard_time": 1701177819,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202751,
+        "num": 190352,
+        "word": "当代研究生参加会议",
+        "onboard_time": 1701176198,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187618,
+        "num": 189967,
+        "word": "兰州2元辣子烤肉",
+        "onboard_time": 1701177395,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217612,
+        "num": 189831,
+        "word": "十个勤天 阳光中的耕田少年",
+        "onboard_time": 1701176736,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189479,
+        "num": 189479,
+        "word": "wpop音乐节",
+        "onboard_time": 1701178057,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188613,
+        "num": 188613,
+        "word": "傅首尔老刘都没下车",
+        "onboard_time": 1701150453,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183715,
+        "num": 183715,
+        "word": "影视飓风 卫星",
+        "onboard_time": 1701177157,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176648,
+        "num": 176648,
+        "word": "哪有什么鼻炎",
+        "onboard_time": 1701171274,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163431,
+        "num": 163431,
+        "word": "傅首尔老刘 助你高飞",
+        "onboard_time": 1701164313,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155542,
+        "num": 155542,
+        "word": "沈小婷 猫女",
+        "onboard_time": 1701169236,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183717,
+        "num": 152626,
+        "word": "傅首尔说分手是很好的解放",
+        "onboard_time": 1701158855,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149337,
+        "num": 149337,
+        "word": "异地考编的年轻人会后悔吗",
+        "onboard_time": 1701166174,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 149158,
+        "num": 149158,
+        "word": "吴艳妮说我不是为了当网红",
+        "onboard_time": 1701166658,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147988,
+        "num": 147988,
+        "word": "黑龙江一煤矿事故11人遇难",
+        "onboard_time": 1701171398,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138649,
+        "num": 138649,
+        "word": "避孕焦虑症",
+        "onboard_time": 1701163054,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137985,
+        "num": 137985,
+        "word": "这个杀手有点儿萌",
+        "onboard_time": 1701177036,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128490,
+        "num": 128490,
+        "word": "JackeyLove再唱天后",
+        "onboard_time": 1701168275,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102530,
+        "num": 126146,
+        "word": "滑雪治愈了我冬季抑郁症",
+        "onboard_time": 1701178417,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十次集体学习#"
+    }
+  }
+}

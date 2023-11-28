@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 21:21:26
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 21:33:47
 </p>
 </blockquote>
 <p>
@@ -2451,6 +2451,12 @@ WBG发文告别S13（热度：1736182）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%AD%A9%E5%AD%90%E6%AD%A3%E8%84%B8%23" target="weibo">
+何猷君奚梦瑶孩子正脸（热度：1661845）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%846%E5%88%8632%E7%A7%92%E8%B0%88%E8%AF%9D%23" target="weibo">
 内娱史上最炸裂的6分32秒谈话（热度：1658878）
 </a>
@@ -2477,12 +2483,6 @@ WBG发文告别S13（热度：1736182）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23RNG%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8Agala%E5%8D%A1%E5%9B%9E%E6%9D%A5%23" target="weibo">
 RNG能不能把gala卡回来（热度：1650872）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%AD%A9%E5%AD%90%E6%AD%A3%E8%84%B8%23" target="weibo">
-何猷君奚梦瑶孩子正脸（热度：1648918）
 </a>
 </li>
 
