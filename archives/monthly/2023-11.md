@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 18:37:24
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 19:15:07
 </p>
 </blockquote>
 <p>
@@ -1815,6 +1815,12 @@ WBG对战BLG（热度：2001531）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
+德德玛去世（热度：1901743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB%E5%8E%BB%E4%B8%96%20%E5%AD%A9%E5%AD%90%E8%A6%81%E4%B8%8D%E8%A6%81%E7%94%9F%23" target="weibo">
 出轨丈夫去世 孩子要不要生（热度：1900509）
 </a>
@@ -2477,12 +2483,6 @@ RNG能不能把gala卡回来（热度：1650872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%9C%BA%E5%B1%80%23" target="weibo">
 人机局（热度：1647111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%BE%B7%E7%8E%9B%E5%8E%BB%E4%B8%96%23" target="weibo">
-德德玛去世（热度：1646075）
 </a>
 </li>
 

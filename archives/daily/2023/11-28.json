@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701167844467,
+  "endTime": 1701170107964,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1901743,
+      "num": 1901743,
+      "word": "德德玛去世",
+      "onboard_time": 1701164974,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1787413,
       "num": 668127,
       "word": "滴滴崩了",
@@ -83,16 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1646075,
-      "num": 1646075,
-      "word": "德德玛去世",
-      "onboard_time": 1701164974,
-      "rank": 3,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1516336,
-      "num": 1714506,
+      "num": 1845881,
       "word": "失业父亲因20元生日蛋糕泪崩",
       "onboard_time": 1701161673,
       "rank": 16,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1042116,
-      "num": 523743,
+      "num": 1035286,
       "word": "李想 很抱歉我们失言了",
       "onboard_time": 1701165632,
       "rank": 11,
@@ -371,6 +371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 674501,
+      "num": 674501,
+      "word": "MAMA导播是懂怼脸的",
+      "onboard_time": 1701167373,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670316,
       "num": 646909,
       "word": "旭旭宝宝近期退出多家公司",
@@ -531,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 518597,
+      "num": 518597,
+      "word": "陈牧驰 南海归墟",
+      "onboard_time": 1701166235,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514849,
       "num": 514849,
       "word": "华为发布会",
       "onboard_time": 1701153574,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 503202,
+      "num": 503202,
+      "word": "JackeyLove再唱天后",
+      "onboard_time": 1701168275,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 497668,
@@ -611,12 +635,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 439424,
+      "num": 642035,
+      "word": "女子单位输液同事贡献金镯子当挂钩",
+      "onboard_time": 1701167313,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438899,
       "num": 438899,
       "word": "刘亦菲张靓颖 姐妹爆料",
       "onboard_time": 1701151834,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 434154,
+      "num": 434154,
+      "word": "吴艳妮说我不是为了当网红",
+      "onboard_time": 1701166658,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 433970,
@@ -675,14 +715,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 394743,
-      "num": 394743,
-      "word": "陈牧驰 南海归墟",
-      "onboard_time": 1701166235,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 393943,
       "num": 393943,
       "word": "古巨基宋亚轩 养成系最好的相见",
@@ -736,14 +768,6 @@
       "word": "王诗晴纪焕博",
       "onboard_time": 1701152191,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 380776,
-      "num": 262117,
-      "word": "MAMA导播是懂怼脸的",
-      "onboard_time": 1701167373,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -923,6 +947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 294078,
+      "num": 294078,
+      "word": "沈小婷 猫女",
+      "onboard_time": 1701169236,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293130,
       "num": 293130,
       "word": "宁安如梦薛烨流放",
@@ -1019,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281383,
-      "num": 281383,
-      "word": "吴艳妮说我不是为了当网红",
-      "onboard_time": 1701166658,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 281103,
       "num": 281103,
       "word": "肖战机场路透",
@@ -1043,12 +1067,28 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 278893,
+      "num": 278893,
+      "word": "Somi MAMA主持人",
+      "onboard_time": 1701169055,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 278636,
       "num": 278636,
       "word": "无痛打耳洞方法",
       "onboard_time": 1701162213,
       "rank": 24,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 278492,
+      "num": 264684,
+      "word": "一念关山",
+      "onboard_time": 1701096936,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 275586,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1701166474,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272908,
+      "num": 272908,
+      "word": "原神 复刻",
+      "onboard_time": 1701167855,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 272587,
@@ -1179,6 +1227,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 255182,
+      "num": 251042,
+      "word": "以爱为营 时宴婚礼现场直拍",
+      "onboard_time": 1701169296,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255068,
       "num": 255068,
       "word": "迪丽热巴冬日飘雪花絮",
@@ -1211,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250039,
+      "num": 250039,
+      "word": "田曦薇看到代拍的反应",
+      "onboard_time": 1701167737,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249040,
       "num": 249040,
       "word": "何炅黄多多演话剧",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1701154652,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 244105,
+      "num": 215423,
+      "word": "张凌赫情绪怪稳定的",
+      "onboard_time": 1701168575,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 243946,
@@ -1403,12 +1475,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 216552,
-      "num": 216552,
-      "word": "一念关山",
-      "onboard_time": 1701096936,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 213726,
+      "num": 213726,
+      "word": "大腿赘肉这下插翅逃难了",
+      "onboard_time": 1701169296,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 213538,
@@ -1563,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197742,
+      "num": 197742,
+      "word": "痞幼方回应3个月广告收入约1620万",
+      "onboard_time": 1701169893,
+      "rank": 38,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 196267,
       "num": 185321,
       "word": "潜行 卧底警察身份暴露后",
@@ -1681,6 +1761,14 @@
       "onboard_time": 1701151111,
       "rank": 38,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 181921,
+      "num": 181921,
+      "word": "快乐老友记",
+      "onboard_time": 1701169775,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 180960,
@@ -1804,7 +1892,7 @@
     },
     {
       "raw_hot": 171781,
-      "num": 705157,
+      "num": 1383887,
       "word": "这家快餐店可以免费吃饭",
       "onboard_time": 1701165034,
       "rank": 6,
@@ -1817,6 +1905,14 @@
       "onboard_time": 1701096637,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170444,
+      "num": 170444,
+      "word": "男子多次高空抛物致28岁女子身亡",
+      "onboard_time": 1701169718,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170147,
@@ -1987,14 +2083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152771,
-      "num": 642035,
-      "word": "女子单位输液同事贡献金镯子当挂钩",
-      "onboard_time": 1701167313,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151862,
       "num": 151862,
       "word": "Knight",
@@ -2139,12 +2227,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 136919,
-      "num": 136919,
-      "word": "田曦薇看到代拍的反应",
-      "onboard_time": 1701167737,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 138820,
+      "num": 138820,
+      "word": "80后最新首富马上来了",
+      "onboard_time": 1701170075,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 134967,
@@ -2240,6 +2328,14 @@
       "word": "00后小伙跳科目三致胫骨挫伤",
       "onboard_time": 1701121634,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105110,
+      "num": 285776,
+      "word": "内啡肽的快乐谁懂啊",
+      "onboard_time": 1701169357,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -2476,7 +2572,7 @@
     },
     {
       "raw_hot": 42147,
-      "num": 1657428,
+      "num": 1810296,
       "word": "第一届中国国际供应链促进博览会",
       "onboard_time": 1701157472,
       "rank": 2,
@@ -2521,6 +2617,14 @@
       "onboard_time": 1701089258,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25203,
+      "num": 434449,
+      "word": "原神 赛诺神里绫人复刻",
+      "onboard_time": 1701169236,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 24693,
