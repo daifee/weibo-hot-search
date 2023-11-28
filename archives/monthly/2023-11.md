@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 14:36:18
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 15:16:47
 </p>
 </blockquote>
 <p>
@@ -4977,6 +4977,12 @@ TheShy 一血率（热度：1071656）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%B4%E6%BB%B4%E5%B4%A9%E4%BA%86%E5%90%8E%E6%9C%89%E5%8F%B8%E6%9C%BA%E5%90%8E%E5%8F%B0%E6%94%B6%E5%85%A5690%E4%BA%BF%23" target="weibo">
+滴滴崩了后有司机后台收入690亿（热度：1052340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Rain%E9%87%91%E6%B3%B0%E7%86%99%20%E8%A1%8C%E8%BD%A6%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%8B%8D%E5%87%BA%E9%9F%A9%E5%89%A7%23" target="weibo">
 Rain金泰熙 行车记录仪拍出韩剧（热度：1051466）
 </a>
@@ -6005,12 +6011,6 @@ Zeus获FMVP（热度：912155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BD%AC%E5%94%AE%E7%88%B6%E6%AF%8D%E7%94%9F%E5%89%8D%E5%A4%84%E6%96%B9%E8%8D%AF%E8%A2%AB%E5%88%A4%E8%B4%A9%E6%AF%92%E7%BD%AA%23" target="weibo">
 女子转售父母生前处方药被判贩毒罪（热度：903242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E8%BF%9E%E5%8F%914%E4%B8%AA%E9%A2%84%E8%AD%A6%23" target="weibo">
-中央气象台连发4个预警（热度：903092）
 </a>
 </li>
 

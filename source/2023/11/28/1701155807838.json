@@ -1,0 +1,410 @@
+{
+  "runTime": 1701155807838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1928769,
+        "num": 1928769,
+        "word": "喜茶 我佛持杯",
+        "onboard_time": 1701148893,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1821364,
+        "num": 1821364,
+        "word": "傅首尔老刘都没下车",
+        "onboard_time": 1701150453,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38312,
+        "num": 911701,
+        "word": "呼吸道疾病高发期实用防治手册",
+        "onboard_time": 1701132580,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815674,
+        "num": 815674,
+        "word": "主播小涛在非洲在埃塞俄比亚遇害",
+        "onboard_time": 1701147219,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747470,
+        "num": 747470,
+        "word": "王睡睡张硕oe",
+        "onboard_time": 1701148117,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 723781,
+        "num": 723781,
+        "word": "盲人女性如何度过经期",
+        "onboard_time": 1701152610,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 650465,
+        "num": 650465,
+        "word": "MAMA红毯",
+        "onboard_time": 1701150754,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 637152,
+        "num": 637152,
+        "word": "羽绒服上没有这几个字再便宜也别买",
+        "onboard_time": 1701150333,
+        "rank": 7,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 560262,
+        "num": 560262,
+        "word": "滴滴系统崩溃预计损失超4亿",
+        "onboard_time": 1701150992,
+        "rank": 8,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 557228,
+        "num": 557228,
+        "word": "旭旭宝宝工作室秒挂电话",
+        "onboard_time": 1701154711,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 877545,
+        "num": 556882,
+        "word": "热狗 我是骂所有人不只是杰伦",
+        "onboard_time": 1701145477,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 555887,
+        "num": 555887,
+        "word": "网红痞幼就盗用他人视频道歉",
+        "onboard_time": 1701137191,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 514849,
+        "num": 514849,
+        "word": "华为发布会",
+        "onboard_time": 1701153574,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 433970,
+        "num": 433970,
+        "word": "烤红薯和蒸红薯哪个更健康",
+        "onboard_time": 1701149434,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 407887,
+        "num": 407887,
+        "word": "100到300的羽绒服卖得最好",
+        "onboard_time": 1701154353,
+        "rank": 14,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 392031,
+        "num": 392031,
+        "word": "刘亦菲张靓颖 姐妹爆料",
+        "onboard_time": 1701151834,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390377,
+        "num": 390377,
+        "word": "中共中央政治局第十次集体学习",
+        "onboard_time": 1701152253,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342062,
+        "num": 342062,
+        "word": "潘粤明减重30斤演胡八一",
+        "onboard_time": 1701132761,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333507,
+        "num": 333507,
+        "word": "王诗晴纪焕博",
+        "onboard_time": 1701152191,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331593,
+        "num": 331593,
+        "word": "秦海璐 三十岁没结婚没什么关系",
+        "onboard_time": 1701144877,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321196,
+        "num": 321196,
+        "word": "女将星 妆造",
+        "onboard_time": 1701144396,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302853,
+        "num": 302853,
+        "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
+        "onboard_time": 1701144157,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244838,
+        "num": 244838,
+        "word": "韩国妆造 扬长避短",
+        "onboard_time": 1701154652,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 220611,
+        "num": 220611,
+        "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
+        "onboard_time": 1701148416,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 219580,
+        "num": 219580,
+        "word": "关晓彤新中式穿搭",
+        "onboard_time": 1701154832,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209623,
+        "num": 209623,
+        "word": "男子靠副业月入过万仍做公交司机",
+        "onboard_time": 1701146257,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203288,
+        "num": 203288,
+        "word": "11万对于普通家庭是什么概念",
+        "onboard_time": 1701145421,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199680,
+        "num": 199680,
+        "word": "快船这都赢不了",
+        "onboard_time": 1701153511,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195186,
+        "num": 195186,
+        "word": "王鹤棣田曦薇手势舞",
+        "onboard_time": 1701147694,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190496,
+        "num": 190496,
+        "word": "这一世若曦也没能救出玉檀",
+        "onboard_time": 1701151533,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189617,
+        "num": 189617,
+        "word": "哈登不攻",
+        "onboard_time": 1701154652,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188147,
+        "num": 188147,
+        "word": "王嘉尔上海 我抢到了",
+        "onboard_time": 1701150214,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183975,
+        "num": 183975,
+        "word": "同样是素人男友看起来完全不同",
+        "onboard_time": 1701154953,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180960,
+        "num": 180960,
+        "word": "赵昭仪回应被叫妹宝",
+        "onboard_time": 1701154292,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173159,
+        "num": 173159,
+        "word": "滴滴打车 打不到",
+        "onboard_time": 1701132095,
+        "rank": 34,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 170145,
+        "num": 170145,
+        "word": "谢娜贴脸开大所有人",
+        "onboard_time": 1701154890,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156704,
+        "num": 156704,
+        "word": "你今年买羽绒服了吗",
+        "onboard_time": 1701155132,
+        "rank": 36,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 31462,
+        "num": 156322,
+        "word": "你相信车能自己停到车库吗",
+        "onboard_time": 1701155312,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156183,
+        "num": 156183,
+        "word": "柯南黑铁的鱼影定档",
+        "onboard_time": 1701152374,
+        "rank": 38,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 1052340,
+        "num": 155870,
+        "word": "滴滴崩了后有司机后台收入690亿",
+        "onboard_time": 1701153273,
+        "rank": 39,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 155406,
+        "num": 155406,
+        "word": "殴打法考书把邻居吓到了",
+        "onboard_time": 1701154171,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154124,
+        "num": 154124,
+        "word": "许光汉猩红脚趾美甲",
+        "onboard_time": 1701149434,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152234,
+        "num": 152234,
+        "word": "全勤没了",
+        "onboard_time": 1701136413,
+        "rank": 42,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 151157,
+        "num": 151157,
+        "word": "妈妈眼里躺在床上吃东西的你",
+        "onboard_time": 1701153992,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149114,
+        "num": 149114,
+        "word": "樊振东孙颖莎继续顶峰相见",
+        "onboard_time": 1701152672,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137644,
+        "num": 137644,
+        "word": "体态不美的人有福了",
+        "onboard_time": 1701149076,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133884,
+        "num": 133884,
+        "word": "周鸿祎谈滴滴崩了会发生什么",
+        "onboard_time": 1701151111,
+        "rank": 46,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 133386,
+        "num": 133386,
+        "word": "斗鱼多位大主播已停播超10天",
+        "onboard_time": 1701143194,
+        "rank": 47,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 130916,
+        "num": 130916,
+        "word": "金莎 盛况",
+        "onboard_time": 1701137433,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128289,
+        "num": 128289,
+        "word": "下铺最怕发生的事情",
+        "onboard_time": 1701155253,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#长江经济带发展日趋向好也要久久为功#"
+    }
+  }
+}
