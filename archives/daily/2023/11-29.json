@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701196566095,
+  "endTime": 1701198886935,
   "band_list": [
     {
       "raw_hot": 1405957,
@@ -171,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 250524,
+      "num": 250524,
+      "word": "海底捞服务员跳擦玻璃舞被指低俗",
+      "onboard_time": 1701194417,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226111,
       "num": 226111,
       "word": "何猷君的数学能力",
@@ -193,14 +201,6 @@
       "onboard_time": 1701183160,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171157,
-      "num": 171157,
-      "word": "海底捞服务员跳擦玻璃舞被指低俗",
-      "onboard_time": 1701194417,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167207,
@@ -473,6 +473,14 @@
       "onboard_time": 1701158855,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18238,
+      "num": 18238,
+      "word": "梁景仁张家妍还会复合吗",
+      "onboard_time": 1701197235,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 14586,
