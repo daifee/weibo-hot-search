@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701203664054,
+  "endTime": 1701206157420,
   "band_list": [
     {
       "raw_hot": 1405957,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52697,
+      "num": 32126,
+      "word": "大学生独游华山坠崖失联10天",
+      "onboard_time": 1701203533,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 50710,
       "num": 84991,
       "word": "JackeyLove再唱天后",
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15937,
+      "num": 15937,
+      "word": "流感",
+      "onboard_time": 1701204553,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14586,
       "num": 790391,
       "word": "首届链博会让中外企业共享新机遇",
@@ -521,14 +537,6 @@
       "onboard_time": 1701198134,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 9502,
-      "num": 13576,
-      "word": "大学生独游华山坠崖失联10天",
-      "onboard_time": 1701203533,
-      "rank": 49,
-      "category": "社会新闻,旅游"
     }
   ],
   "hotgov_list": [
