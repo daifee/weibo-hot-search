@@ -1,0 +1,410 @@
+{
+  "runTime": 1701148632800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1538410,
+        "num": 1538410,
+        "word": "网红痞幼就盗用他人视频道歉",
+        "onboard_time": 1701137191,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1163736,
+        "num": 1163736,
+        "word": "全勤没了",
+        "onboard_time": 1701136413,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 67038,
+        "num": 992247,
+        "word": "呼吸道疾病高发期实用防治手册",
+        "onboard_time": 1701132580,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2652798,
+        "num": 953119,
+        "word": "热狗 我是骂所有人不只是杰伦",
+        "onboard_time": 1701145477,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 898477,
+        "num": 898477,
+        "word": "秦海璐 三十岁没结婚没什么关系",
+        "onboard_time": 1701144877,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 888213,
+        "num": 888213,
+        "word": "女将星 妆造",
+        "onboard_time": 1701144396,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 802410,
+        "num": 802410,
+        "word": "男子靠副业月入过万仍做公交司机",
+        "onboard_time": 1701146257,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587547,
+        "num": 587547,
+        "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
+        "onboard_time": 1701144157,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565660,
+        "num": 565660,
+        "word": "高圆圆和闺蜜28年友谊",
+        "onboard_time": 1701145895,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526708,
+        "num": 526708,
+        "word": "斗鱼多位大主播已停播超10天",
+        "onboard_time": 1701143194,
+        "rank": 9,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 68240,
+        "num": 508790,
+        "word": "vivo拍的张小斐在演我",
+        "onboard_time": 1701146318,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691139,
+        "num": 506991,
+        "word": "主播小涛在非洲在埃塞俄比亚遇害",
+        "onboard_time": 1701147219,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587839,
+        "num": 505654,
+        "word": "潘粤明减重30斤演胡八一",
+        "onboard_time": 1701132761,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501639,
+        "num": 501639,
+        "word": "王睡睡张硕oe",
+        "onboard_time": 1701148117,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463703,
+        "num": 463703,
+        "word": "陈都灵一念关山一行泪",
+        "onboard_time": 1701145895,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460946,
+        "num": 460946,
+        "word": "金莎 盛况",
+        "onboard_time": 1701137433,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400190,
+        "num": 400190,
+        "word": "月薪3000保洁阿姨3年捡50多万财物",
+        "onboard_time": 1701130898,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398648,
+        "num": 398648,
+        "word": "大奉打更人",
+        "onboard_time": 1701139293,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369973,
+        "num": 369973,
+        "word": "张进为迪丽热巴化的妆",
+        "onboard_time": 1701143796,
+        "rank": 18,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 325985,
+        "num": 325985,
+        "word": "旭旭宝宝近期退出多家公司",
+        "onboard_time": 1701143982,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 505993,
+        "num": 325045,
+        "word": "11万对于普通家庭是什么概念",
+        "onboard_time": 1701145421,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353660,
+        "num": 322103,
+        "word": "他俩上次吃饭还在武林外传",
+        "onboard_time": 1701140978,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330401,
+        "num": 320989,
+        "word": "再见爱人",
+        "onboard_time": 1701147938,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318925,
+        "num": 318925,
+        "word": "有滴滴司机称8公里订单收费1540元",
+        "onboard_time": 1701140196,
+        "rank": 23,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 315344,
+        "num": 315344,
+        "word": "滴滴打车 打不到",
+        "onboard_time": 1701132095,
+        "rank": 24,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 329970,
+        "num": 309824,
+        "word": "王鹤棣田曦薇手势舞",
+        "onboard_time": 1701147694,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304282,
+        "num": 304282,
+        "word": "泰国血色婚礼致5死1重伤",
+        "onboard_time": 1701129391,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298298,
+        "num": 298298,
+        "word": "张馨予恶女妆",
+        "onboard_time": 1701147938,
+        "rank": 27,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 242476,
+        "num": 242476,
+        "word": "易烊千玺时光琥珀大片",
+        "onboard_time": 1701145838,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188117,
+        "num": 234095,
+        "word": "高中妹妹厌学哥哥带其到大学上课",
+        "onboard_time": 1701133297,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 233552,
+        "num": 233552,
+        "word": "不是房产证加了名才叫共同财产",
+        "onboard_time": 1701134672,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227837,
+        "num": 227837,
+        "word": "光遇复刻",
+        "onboard_time": 1701148178,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207743,
+        "num": 207743,
+        "word": "滴滴系统崩溃其他平台爆单",
+        "onboard_time": 1701145538,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205883,
+        "num": 205883,
+        "word": "胡静林任国家税务总局党委书记",
+        "onboard_time": 1701141216,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200798,
+        "num": 200798,
+        "word": "微博视界大会首波阵容官宣",
+        "onboard_time": 1701148357,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194062,
+        "num": 194062,
+        "word": "暂停武汉普仁医院出生医学证明签发资格",
+        "onboard_time": 1701143015,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190733,
+        "num": 190733,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701128187,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 189116,
+        "num": 189116,
+        "word": "侵犯杨紫名誉权公司被执行",
+        "onboard_time": 1701146562,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185114,
+        "num": 185114,
+        "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
+        "onboard_time": 1701148416,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 182873,
+        "num": 182873,
+        "word": "北京现有艾滋病感染者及患者27285人",
+        "onboard_time": 1701088115,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182131,
+        "num": 182131,
+        "word": "檀健次周也芭莎大片",
+        "onboard_time": 1701144637,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179086,
+        "num": 179086,
+        "word": "中国奥委会发文抵制饭圈乱象",
+        "onboard_time": 1701147762,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168895,
+        "num": 168895,
+        "word": "收养一只猫竟发现本州未出现病毒",
+        "onboard_time": 1701142054,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158365,
+        "num": 158365,
+        "word": "邓紫棋广州再加场抢票",
+        "onboard_time": 1701145477,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153990,
+        "num": 153990,
+        "word": "南海归墟四大巨型哈基米",
+        "onboard_time": 1701145239,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152593,
+        "num": 152593,
+        "word": "17种癌是胖出来的",
+        "onboard_time": 1701136711,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150937,
+        "num": 150937,
+        "word": "丞磊锦月如歌出妆",
+        "onboard_time": 1701139653,
+        "rank": 46,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 149788,
+        "num": 149788,
+        "word": "滴滴网约车等服务已恢复",
+        "onboard_time": 1701128728,
+        "rank": 47,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 136738,
+        "num": 136738,
+        "word": "一念关山追剧日历",
+        "onboard_time": 1701145719,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127384,
+        "num": 127384,
+        "word": "甲流",
+        "onboard_time": 1701138577,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#长江经济带发展日趋向好也要久久为功#"
+    }
+  }
+}

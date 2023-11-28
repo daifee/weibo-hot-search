@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701146107092,
+  "endTime": 1701148632800,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -57,6 +57,14 @@
       "onboard_time": 1701047496,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2652798,
+      "num": 953119,
+      "word": "热狗 我是骂所有人不只是杰伦",
+      "onboard_time": 1701145477,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 2366870,
@@ -659,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 898477,
+      "num": 898477,
+      "word": "秦海璐 三十岁没结婚没什么关系",
+      "onboard_time": 1701144877,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 895477,
       "num": 895477,
       "word": "人民大学食堂自研烤鹅腿定价15元",
@@ -803,20 +819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802410,
+      "num": 802410,
+      "word": "男子靠副业月入过万仍做公交司机",
+      "onboard_time": 1701146257,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801916,
       "num": 801916,
       "word": "国考结束",
       "onboard_time": 1700990072,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 794025,
-      "num": 794025,
-      "word": "热狗 我是骂所有人不只是杰伦",
-      "onboard_time": 1701145477,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 792970,
@@ -968,6 +984,14 @@
       "word": "福宝",
       "onboard_time": 1701085357,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691139,
+      "num": 506991,
+      "word": "主播小涛在非洲在埃塞俄比亚遇害",
+      "onboard_time": 1701147219,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1187,14 +1211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 612555,
-      "num": 612555,
-      "word": "秦海璐 三十岁没结婚没什么关系",
-      "onboard_time": 1701144877,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 610588,
       "num": 610588,
       "word": "正式被确诊为试管",
@@ -1267,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587547,
+      "num": 587547,
+      "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
+      "onboard_time": 1701144157,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586979,
       "num": 393041,
       "word": "白敬亭你小子嘴角不要太明显了",
@@ -1331,20 +1355,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 565660,
+      "num": 565660,
+      "word": "高圆圆和闺蜜28年友谊",
+      "onboard_time": 1701145895,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 562249,
       "num": 379982,
       "word": "杨幂新剧镜头",
       "onboard_time": 1700970757,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 562040,
-      "num": 562040,
-      "word": "爷爷找不到孙女报警结果发现娃在家睡觉",
-      "onboard_time": 1701144157,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 560559,
@@ -1603,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 501639,
+      "num": 501639,
+      "word": "王睡睡张硕oe",
+      "onboard_time": 1701148117,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496901,
       "num": 496901,
       "word": "图推好难",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1700980229,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 463703,
+      "num": 463703,
+      "word": "陈都灵一念关山一行泪",
+      "onboard_time": 1701145895,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 460739,
@@ -2603,6 +2643,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330401,
+      "num": 320989,
+      "word": "再见爱人",
+      "onboard_time": 1701147938,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 329970,
+      "num": 309824,
+      "word": "王鹤棣田曦薇手势舞",
+      "onboard_time": 1701147694,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328564,
       "num": 328564,
       "word": "行测全靠蒙申论练书法",
@@ -2953,6 +3009,14 @@
       "onboard_time": 1700956345,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298298,
+      "num": 298298,
+      "word": "张馨予恶女妆",
+      "onboard_time": 1701147938,
+      "rank": 27,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 298069,
@@ -3459,14 +3523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261550,
-      "num": 245724,
-      "word": "高圆圆和闺蜜28年友谊",
-      "onboard_time": 1701145895,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261167,
       "num": 261167,
       "word": "林俊杰 宿命感直接拉满",
@@ -3779,6 +3835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242476,
+      "num": 242476,
+      "word": "易烊千玺时光琥珀大片",
+      "onboard_time": 1701145838,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 241502,
       "num": 241502,
       "word": "任如意宁远舟骑马吻",
@@ -4057,6 +4121,14 @@
       "onboard_time": 1700998474,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 227837,
+      "num": 227837,
+      "word": "光遇复刻",
+      "onboard_time": 1701148178,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 226719,
@@ -4347,14 +4419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211626,
-      "num": 211626,
-      "word": "陈都灵一念关山一行泪",
-      "onboard_time": 1701145895,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210919,
       "num": 210919,
       "word": "全红婵的18岁心愿",
@@ -4571,6 +4635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200798,
+      "num": 200798,
+      "word": "微博视界大会首波阵容官宣",
+      "onboard_time": 1701148357,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200651,
       "num": 200651,
       "word": "余华英案二审择期宣判",
@@ -4713,14 +4785,6 @@
       "onboard_time": 1700993915,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196490,
-      "num": 196490,
-      "word": "易烊千玺时光琥珀大片",
-      "onboard_time": 1701145838,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195799,
@@ -5043,6 +5107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189116,
+      "num": 189116,
+      "word": "侵犯杨紫名誉权公司被执行",
+      "onboard_time": 1701146562,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188763,
       "num": 188763,
       "word": "穿戴甲购物分享",
@@ -5129,6 +5201,14 @@
       "onboard_time": 1701049594,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185114,
+      "num": 185114,
+      "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
+      "onboard_time": 1701148416,
+      "rank": 38,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 184229,
@@ -5265,6 +5345,14 @@
       "onboard_time": 1701140253,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179086,
+      "num": 179086,
+      "word": "中国奥委会发文抵制饭圈乱象",
+      "onboard_time": 1701147762,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 179080,
@@ -6977,6 +7065,14 @@
       "onboard_time": 1700954480,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68240,
+      "num": 508790,
+      "word": "vivo拍的张小斐在演我",
+      "onboard_time": 1701146318,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 68133,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 12:35:07
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 13:17:12
 </p>
 </blockquote>
 <p>
@@ -779,6 +779,12 @@ WBG晋级S13总决赛（热度：2847580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E5%B0%8F%E8%B5%B5%20%E5%8E%BB%E4%B8%96%23" target="weibo">
 快乐小赵 去世（热度：2657617）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E7%8B%97%20%E6%88%91%E6%98%AF%E9%AA%82%E6%89%80%E6%9C%89%E4%BA%BA%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%9D%B0%E4%BC%A6%23" target="weibo">
+热狗 我是骂所有人不只是杰伦（热度：2652798）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Zeus获FMVP（热度：912155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E4%B8%98%E5%A6%87%E5%B9%BC%E4%BF%9D%E5%81%A5%E9%99%A2%E4%BF%9D%E5%81%A5%E7%A7%91%E5%8E%9F%E7%A7%91%E9%95%BF%E8%A2%AB%E5%88%A48%E5%B9%B4%23" target="weibo">
 商丘妇幼保健院保健科原科长被判8年（热度：899636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E4%B8%89%E8%A7%92%E5%B7%BE%E6%8A%B9%E8%83%B8%23" target="weibo">
-程潇三角巾抹胸（热度：898024）
 </a>
 </li>
 
