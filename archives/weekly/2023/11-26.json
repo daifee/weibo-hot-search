@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701200061495,
+  "endTime": 1701202739868,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -9035,6 +9035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35795,
+      "num": 28764,
+      "word": "刘德华父亲丧礼将以私人形式举行",
+      "onboard_time": 1701201434,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35736,
       "num": 722125,
       "word": "短短十几秒跟奶奶学到三种技能",
@@ -9153,6 +9161,14 @@
       "onboard_time": 1701118633,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 18522,
+      "num": 18522,
+      "word": "白宇打入叔适圈",
+      "onboard_time": 1701201434,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 18238,
