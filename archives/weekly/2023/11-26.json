@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701182112759,
+  "endTime": 1701184774104,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -179,6 +179,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 1954638,
+      "num": 1954638,
+      "word": "刘宇宁 台词",
+      "onboard_time": 1701182256,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1942600,
       "num": 1942600,
       "word": "热狗新歌疑似diss周杰伦",
@@ -337,6 +345,14 @@
       "onboard_time": 1700926187,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1631448,
+      "num": 1019908,
+      "word": "很笨但能考上公务员的暗黑偏方",
+      "onboard_time": 1701182497,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1595355,
@@ -619,6 +635,14 @@
       "category": "旅游,网红"
     },
     {
+      "raw_hot": 1082565,
+      "num": 1082565,
+      "word": "北京要求一切以孩子身体为重",
+      "onboard_time": 1701179618,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1069043,
       "num": 955984,
       "word": "南海归墟陈牧驰 群演",
@@ -705,6 +729,14 @@
       "onboard_time": 1701013293,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992323,
+      "num": 992323,
+      "word": "质疑朱丹 理解朱丹",
+      "onboard_time": 1701183640,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 978800,
@@ -937,14 +969,6 @@
       "onboard_time": 1700991696,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 827741,
-      "num": 827741,
-      "word": "北京要求一切以孩子身体为重",
-      "onboard_time": 1701179618,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 820061,
@@ -1707,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 552959,
+      "num": 467474,
+      "word": "审判一念关山",
+      "onboard_time": 1701182977,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 551601,
       "num": 551601,
       "word": "花少 迪丽热巴双商",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1701060399,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 549407,
+      "num": 364688,
+      "word": "邓超定7个闹钟听鹿晗新歌",
+      "onboard_time": 1701181297,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 547398,
@@ -2875,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380968,
+      "num": 355067,
+      "word": "郑培峰",
+      "onboard_time": 1701183996,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380316,
       "num": 369825,
       "word": "一念关山在线观看人数",
@@ -2915,6 +2963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377917,
+      "num": 313793,
+      "word": "何猷君的数学能力",
+      "onboard_time": 1701182977,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373126,
       "num": 293432,
       "word": "冬天赖床其实是身体在保护你",
@@ -2937,6 +2993,14 @@
       "onboard_time": 1700996794,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368485,
+      "num": 368485,
+      "word": "大连通报鬼秤事件处罚结果",
+      "onboard_time": 1701182616,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367784,
@@ -3041,14 +3105,6 @@
       "onboard_time": 1700969194,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351867,
-      "num": 295125,
-      "word": "邓超定7个闹钟听鹿晗新歌",
-      "onboard_time": 1701181297,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 350248,
@@ -3339,6 +3395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 321347,
+      "num": 192576,
+      "word": "吴千语不公开恋情的原因",
+      "onboard_time": 1701183160,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320894,
       "num": 320894,
       "word": "斗鱼陈少杰被捕后多位大主播已停播",
@@ -3393,6 +3457,14 @@
       "onboard_time": 1701042150,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316379,
+      "num": 316379,
+      "word": "化妆公式",
+      "onboard_time": 1701182796,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 315900,
@@ -3729,6 +3801,14 @@
       "onboard_time": 1701145538,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 294138,
+      "num": 191528,
+      "word": "洪知秀文俊辉裴珠泫姜涩琪互cha",
+      "onboard_time": 1701183640,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 293130,
@@ -6315,6 +6395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186196,
+      "num": 186196,
+      "word": "浙江14岁短跑天才少女非体育生",
+      "onboard_time": 1701183516,
+      "rank": 28,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 186194,
       "num": 186194,
       "word": "快乐老友记",
@@ -6779,6 +6867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170626,
+      "num": 170626,
+      "word": "莫伊塞斯哭了",
+      "onboard_time": 1701184597,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170506,
       "num": 145737,
       "word": "花少五值得反复咀嚼的情商课",
@@ -6969,6 +7065,14 @@
       "onboard_time": 1701140015,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164150,
+      "num": 164150,
+      "word": "海南警方 勿以恶小而为之",
+      "onboard_time": 1701183937,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164125,
@@ -7267,6 +7371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154477,
+      "num": 154477,
+      "word": "比外面更好吃的辣豆腐汤",
+      "onboard_time": 1701182857,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153952,
       "num": 153952,
       "word": "这个杀手有点儿萌",
@@ -7329,6 +7441,14 @@
       "onboard_time": 1700959890,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 151967,
+      "num": 151967,
+      "word": "投降式睡姿的康复角度解析",
+      "onboard_time": 1701182017,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151891,
@@ -7504,6 +7624,14 @@
       "word": "任如意被直球追爱",
       "onboard_time": 1701138034,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146974,
+      "num": 146974,
+      "word": "拳拳到肉的打戏",
+      "onboard_time": 1701182616,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -7905,14 +8033,6 @@
       "onboard_time": 1701073832,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 129655,
-      "num": 146342,
-      "word": "投降式睡姿的康复角度解析",
-      "onboard_time": 1701182017,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128508,
