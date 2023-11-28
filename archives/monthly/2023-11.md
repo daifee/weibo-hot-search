@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/29 06:39:02
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/29 07:17:24
 </p>
 </blockquote>
 <p>
@@ -5799,6 +5799,12 @@ LNG对战T1 比分预测（热度：958227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23" target="weibo">
+海底捞服务员跳擦玻璃舞被指低俗（热度：947330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%B9%B4%E4%BD%93%E6%A3%8038%E5%B2%81%E7%94%B7%E5%AD%90%E8%A2%AB%E6%9F%A5%E5%87%BA%E8%83%B0%E8%85%BA%E7%99%8C%E6%99%9A%E6%9C%9F%23" target="weibo">
 每年体检38岁男子被查出胰腺癌晚期（热度：945865）
 </a>
@@ -6005,12 +6011,6 @@ iPhone15双11最后两小时降价（热度：928672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TheShy%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9%23" target="weibo">
 TheShy生日礼物（热度：917952）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E5%90%8D%E4%B8%8B%E4%BB%851%E5%AE%B6%E4%BC%81%E4%B8%9A%E5%AD%98%E7%BB%AD%23" target="weibo">
-吴亦凡名下仅1家企业存续（热度：916678）
 </a>
 </li>
 

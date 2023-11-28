@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701211142943,
+  "endTime": 1701213444584,
   "band_list": [
     {
       "raw_hot": 1405957,
@@ -17,6 +17,14 @@
       "onboard_time": 1701182256,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 947330,
+      "num": 947330,
+      "word": "海底捞服务员跳擦玻璃舞被指低俗",
+      "onboard_time": 1701194417,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 656833,
@@ -43,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466788,
+      "num": 466788,
+      "word": "芒格去世",
+      "onboard_time": 1701212963,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 441691,
       "num": 441691,
       "word": "何猷君奚梦瑶孩子正脸",
@@ -57,14 +73,6 @@
       "onboard_time": 1701181297,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 377506,
-      "num": 377506,
-      "word": "海底捞服务员跳擦玻璃舞被指低俗",
-      "onboard_time": 1701194417,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348842,
@@ -89,6 +97,14 @@
       "onboard_time": 1701179618,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316723,
+      "num": 316723,
+      "word": "大学生独游华山坠崖失联10天",
+      "onboard_time": 1701203533,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 313431,
@@ -179,6 +195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 247874,
+      "num": 247874,
+      "word": "山东明确要求师生不带病上班上课",
+      "onboard_time": 1701191423,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 226111,
       "num": 226111,
       "word": "何猷君的数学能力",
@@ -195,12 +219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199131,
+      "num": 199131,
+      "word": "浙江14岁短跑天才少女非体育生",
+      "onboard_time": 1701183516,
+      "rank": 32,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 187083,
+      "num": 79105,
+      "word": "巴菲特悼念芒格",
+      "onboard_time": 1701213144,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178689,
       "num": 153385,
       "word": "吴千语不公开恋情的原因",
       "onboard_time": 1701183160,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177768,
+      "num": 177768,
+      "word": "鹿晗新歌",
+      "onboard_time": 1701213205,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 167207,
@@ -211,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164683,
-      "num": 164683,
-      "word": "大学生独游华山坠崖失联10天",
-      "onboard_time": 1701203533,
-      "rank": 49,
-      "category": "社会新闻,旅游"
+      "raw_hot": 160517,
+      "num": 120617,
+      "word": "博主B太曝光的鬼秤商家被罚款20万",
+      "onboard_time": 1701212541,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157984,
@@ -275,14 +323,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 135066,
-      "num": 135066,
-      "word": "浙江14岁短跑天才少女非体育生",
-      "onboard_time": 1701183516,
-      "rank": 32,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 130481,
       "num": 130481,
       "word": "seventeen你们不是明天吗",
@@ -291,12 +331,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 121218,
-      "num": 121218,
-      "word": "山东明确要求师生不带病上班上课",
-      "onboard_time": 1701191423,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 122418,
+      "num": 122418,
+      "word": "熊猫长牙了莫斯科动物园第一时间展示",
+      "onboard_time": 1701206653,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119290,
@@ -395,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91066,
+      "num": 78431,
+      "word": "米兰vs多特",
+      "onboard_time": 1701213205,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89775,
       "num": 89775,
       "word": "张小斐 专注自己够得着的东西",
@@ -467,12 +515,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53234,
-      "num": 44974,
-      "word": "熊猫长牙了莫斯科动物园第一时间展示",
-      "onboard_time": 1701206653,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 61573,
+      "num": 61573,
+      "word": "科学提高免疫力的3个关键",
+      "onboard_time": 1701211759,
+      "rank": 39,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 61021,
+      "num": 61021,
+      "word": "白宇打入叔适圈",
+      "onboard_time": 1701201434,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52198,
+      "num": 52198,
+      "word": "刘德华父亲丧礼将以私人形式举行",
+      "onboard_time": 1701201434,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 50710,
@@ -481,14 +545,6 @@
       "onboard_time": 1701168275,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 41369,
-      "num": 41369,
-      "word": "刘德华父亲丧礼将以私人形式举行",
-      "onboard_time": 1701201434,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 31503,
@@ -505,14 +561,6 @@
       "onboard_time": 1701158855,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27114,
-      "num": 32287,
-      "word": "白宇打入叔适圈",
-      "onboard_time": 1701201434,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 20661,
