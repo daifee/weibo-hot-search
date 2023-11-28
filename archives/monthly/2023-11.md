@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 10:41:19
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/28 11:18:27
 </p>
 </blockquote>
 <p>
@@ -579,6 +579,12 @@ gala哭了（热度：3005329）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89%23" target="weibo">
+网红痞幼就盗用他人视频道歉（热度：2958727）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%8F%E7%A8%8B%E5%BA%8F%23" target="weibo">
 霸王茶姬小程序（热度：2944778）
 </a>
@@ -689,12 +695,6 @@ WBG晋级S13总决赛（热度：2847580）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%90%9C%E6%95%91%E4%BA%BA%E5%A3%AB%E7%A7%B0%E4%BB%B2%E5%B0%BC%E6%88%96%E5%9B%A0%E8%84%9A%E6%8A%BD%E7%AD%8B%E5%90%8E%E6%BA%BA%E4%BA%A1%23" target="weibo">
 搜救人士称仲尼或因脚抽筋后溺亡（热度：2773201）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%97%9E%E5%B9%BC%E5%B0%B1%E7%9B%97%E7%94%A8%E4%BB%96%E4%BA%BA%E8%A7%86%E9%A2%91%E9%81%93%E6%AD%89%23" target="weibo">
-网红痞幼就盗用他人视频道歉（热度：2772536）
 </a>
 </li>
 
@@ -3117,6 +3117,12 @@ SpaceX与星舰助推器失去联系（热度：1473564）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8B%A4%E6%B2%A1%E4%BA%86%23" target="weibo">
+全勤没了（热度：1461962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%AF%B4%E5%8E%BB%E5%9B%BD%E5%A4%96%E8%A7%81%E4%BA%86%E5%90%B4%E4%B8%96%E5%8B%8B%23" target="weibo">
 张艺兴说去国外见了吴世勋（热度：1460769）
 </a>
@@ -4637,12 +4643,6 @@ S13半决赛（热度：1114606）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86%23" target="weibo">
 肯德基崩了（热度：1113475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8B%A4%E6%B2%A1%E4%BA%86%23" target="weibo">
-全勤没了（热度：1111326）
 </a>
 </li>
 

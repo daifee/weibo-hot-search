@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701139279445,
+  "endTime": 1701141507324,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -11,8 +11,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2772536,
-      "num": 2772536,
+      "raw_hot": 2958727,
+      "num": 2958727,
       "word": "网红痞幼就盗用他人视频道歉",
       "onboard_time": 1701137191,
       "rank": 1,
@@ -32,6 +32,14 @@
       "word": "滴滴崩了",
       "onboard_time": 1701095978,
       "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1461962,
+      "num": 1461962,
+      "word": "全勤没了",
+      "onboard_time": 1701136413,
+      "rank": 3,
       "category": "互联网"
     },
     {
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1111326,
-      "num": 1111326,
-      "word": "全勤没了",
-      "onboard_time": 1701136413,
-      "rank": 3,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1067948,
       "num": 1067948,
       "word": "金莎 盛况",
@@ -113,6 +113,14 @@
       "onboard_time": 1701128187,
       "rank": 7,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 786868,
+      "num": 786868,
+      "word": "甲流",
+      "onboard_time": 1701138577,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 742224,
@@ -187,6 +195,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 528824,
+      "num": 528824,
+      "word": "00后男孩开货车5年收入超百万",
+      "onboard_time": 1701136711,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502212,
+      "num": 502212,
+      "word": "大奉打更人",
+      "onboard_time": 1701139293,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 490993,
+      "num": 490993,
+      "word": "丞磊锦月如歌出妆",
+      "onboard_time": 1701139653,
+      "rank": 9,
+      "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 489582,
+      "num": 489582,
+      "word": "陈采尼爱奇艺尖叫之夜红毯点评",
+      "onboard_time": 1701135933,
+      "rank": 11,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 480307,
       "num": 480307,
       "word": "星巴克下沉到县城",
@@ -219,14 +259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 447507,
-      "num": 447507,
-      "word": "陈采尼爱奇艺尖叫之夜红毯点评",
-      "onboard_time": 1701135933,
-      "rank": 11,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 429008,
       "num": 429008,
       "word": "毛不易演得像他真的嫁过女儿",
@@ -235,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401904,
-      "num": 401904,
-      "word": "00后男孩开货车5年收入超百万",
-      "onboard_time": 1701136711,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 403424,
+      "num": 403424,
+      "word": "有滴滴司机称8公里订单收费1540元",
+      "onboard_time": 1701140196,
+      "rank": 16,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 393943,
@@ -275,28 +307,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 357108,
-      "num": 357108,
-      "word": "BLG 左手",
-      "onboard_time": 1701098139,
-      "rank": 9,
-      "category": "电竞"
+      "raw_hot": 378258,
+      "num": 378258,
+      "word": "南海归墟首播反响",
+      "onboard_time": 1701137793,
+      "rank": 19,
+      "category": "剧集"
     },
     {
-      "raw_hot": 354627,
-      "num": 354627,
+      "raw_hot": 357756,
+      "num": 357756,
       "word": "48岁教授说年轻人不加班是社会的进步",
       "onboard_time": 1701135992,
       "rank": 15,
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 315839,
-      "num": 315839,
-      "word": "南海归墟首播反响",
-      "onboard_time": 1701137793,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 357108,
+      "num": 357108,
+      "word": "BLG 左手",
+      "onboard_time": 1701098139,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 313914,
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 311429,
-      "num": 270914,
+      "num": 294506,
       "word": "原神4.2",
       "onboard_time": 1701139233,
       "rank": 20,
@@ -337,6 +369,14 @@
       "onboard_time": 1701091717,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289851,
+      "num": 289851,
+      "word": "湖人断电了",
+      "onboard_time": 1701139711,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 288246,
@@ -379,6 +419,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270801,
+      "num": 232931,
+      "word": "胡静林任国家税务总局党委书记",
+      "onboard_time": 1701141216,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 269189,
+      "num": 269189,
+      "word": "新一代国产CPU正式发布",
+      "onboard_time": 1701140433,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 267088,
       "num": 262417,
       "word": "女儿给患癌母亲拍遗照骗她是拍证件照",
@@ -393,6 +449,30 @@
       "onboard_time": 1701087571,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261185,
+      "num": 232857,
+      "word": "南海归墟5A级景区特辑",
+      "onboard_time": 1701139475,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 259590,
+      "num": 259590,
+      "word": "美甲灯照射或能损坏DNA",
+      "onboard_time": 1701136532,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 259578,
+      "num": 259578,
+      "word": "锦月如歌开机路透",
+      "onboard_time": 1701139779,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 258266,
@@ -427,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252941,
-      "num": 252941,
-      "word": "美甲灯照射或能损坏DNA",
-      "onboard_time": 1701136532,
-      "rank": 24,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 250426,
       "num": 250426,
       "word": "韩剧舒适区",
@@ -451,12 +523,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 240198,
-      "num": 240198,
-      "word": "甲流",
-      "onboard_time": 1701138577,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 239249,
+      "num": 239249,
+      "word": "暗爽型人格",
+      "onboard_time": 1701140253,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 238693,
@@ -483,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232392,
+      "num": 232392,
+      "word": "他俩上次吃饭还在武林外传",
+      "onboard_time": 1701140978,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232051,
       "num": 232051,
       "word": "张雨绮加入朵拉宇宙",
@@ -497,6 +577,14 @@
       "onboard_time": 1701135631,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 222542,
+      "num": 222542,
+      "word": "王者新英雄海诺",
+      "onboard_time": 1701140795,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 219567,
@@ -521,6 +609,14 @@
       "onboard_time": 1701096936,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213245,
+      "num": 213245,
+      "word": "EDG 青春风暴",
+      "onboard_time": 1701139359,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 210140,
@@ -553,6 +649,14 @@
       "onboard_time": 1701133779,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 199873,
+      "num": 199873,
+      "word": "刘诗诗光剑变人",
+      "onboard_time": 1701139834,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 194967,
@@ -611,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179196,
+      "num": 179196,
+      "word": "刘宇宁一天出两首歌",
+      "onboard_time": 1701140253,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178199,
       "num": 178199,
       "word": "吴京口误 我是闫妮老公",
@@ -641,6 +753,14 @@
       "onboard_time": 1701095560,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173245,
+      "num": 173245,
+      "word": "76人44分大胜湖人",
+      "onboard_time": 1701140375,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 172604,
@@ -681,6 +801,14 @@
       "onboard_time": 1701132636,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164363,
+      "num": 164363,
+      "word": "搓完手感觉都怀疑人生了",
+      "onboard_time": 1701140015,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 163619,
@@ -801,6 +929,14 @@
       "onboard_time": 1701138815,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140456,
+      "num": 140456,
+      "word": "萝卜花居然是甩出来的",
+      "onboard_time": 1701139359,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 134967,
