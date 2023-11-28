@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701141507324,
+  "endTime": 1701142473591,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -203,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1794530,
+      "num": 1794530,
+      "word": "全勤没了",
+      "onboard_time": 1701136413,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1787413,
       "num": 668127,
       "word": "滴滴崩了",
@@ -313,14 +321,6 @@
       "onboard_time": 1701077319,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1461962,
-      "num": 1461962,
-      "word": "全勤没了",
-      "onboard_time": 1701136413,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 1446148,
@@ -683,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 874607,
+      "num": 874607,
+      "word": "甲流",
+      "onboard_time": 1701138577,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 873163,
       "num": 873163,
       "word": "种地吧 开工大吉",
@@ -747,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 817319,
+      "num": 817319,
+      "word": "大奉打更人",
+      "onboard_time": 1701139293,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 809566,
       "num": 809566,
       "word": "小杨哥演唱会 Twins",
@@ -776,14 +792,6 @@
       "word": "多次被要求提供不同材料女子发火",
       "onboard_time": 1700960430,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786868,
-      "num": 786868,
-      "word": "甲流",
-      "onboard_time": 1701138577,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1067,6 +1075,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 631056,
+      "num": 631056,
+      "word": "有滴滴司机称8公里订单收费1540元",
+      "onboard_time": 1701140196,
+      "rank": 16,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 627576,
       "num": 627576,
       "word": "李苗苗 爱你到嫉妒你的鞋子",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1701078755,
       "rank": 13,
       "category": "自然"
+    },
+    {
+      "raw_hot": 616244,
+      "num": 232931,
+      "word": "胡静林任国家税务总局党委书记",
+      "onboard_time": 1701141216,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 610588,
@@ -1505,14 +1529,6 @@
       "onboard_time": 1701013656,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 502212,
-      "num": 502212,
-      "word": "大奉打更人",
-      "onboard_time": 1701139293,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 496901,
@@ -1931,6 +1947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 422510,
+      "num": 422510,
+      "word": "他俩上次吃饭还在武林外传",
+      "onboard_time": 1701140978,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422001,
       "num": 422001,
       "word": "停止焦虑的办法是停止刷手机",
@@ -2041,14 +2065,6 @@
       "onboard_time": 1701068672,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 403424,
-      "num": 403424,
-      "word": "有滴滴司机称8公里订单收费1540元",
-      "onboard_time": 1701140196,
-      "rank": 16,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 402218,
@@ -2787,6 +2803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304035,
+      "num": 304035,
+      "word": "王者新英雄海诺",
+      "onboard_time": 1701140795,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303577,
       "num": 303577,
       "word": "国考笔试结束",
@@ -3179,6 +3203,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 272398,
+      "num": 272398,
+      "word": "暗爽型人格",
+      "onboard_time": 1701140253,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272055,
       "num": 272055,
       "word": "刘诗诗刘宇宁新剧打戏同步率",
@@ -3193,14 +3225,6 @@
       "onboard_time": 1701056135,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270801,
-      "num": 232931,
-      "word": "胡静林任国家税务总局党委书记",
-      "onboard_time": 1701141216,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 270331,
@@ -3323,18 +3347,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261691,
-      "num": 261691,
-      "word": "宁安如梦 表情乱飞",
-      "onboard_time": 1701051572,
+      "raw_hot": 261740,
+      "num": 261740,
+      "word": "南海归墟5A级景区特辑",
+      "onboard_time": 1701139475,
       "rank": 31,
       "category": "剧集"
     },
     {
-      "raw_hot": 261185,
-      "num": 232857,
-      "word": "南海归墟5A级景区特辑",
-      "onboard_time": 1701139475,
+      "raw_hot": 261691,
+      "num": 261691,
+      "word": "宁安如梦 表情乱飞",
+      "onboard_time": 1701051572,
       "rank": 31,
       "category": "剧集"
     },
@@ -3667,14 +3691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 239249,
-      "num": 239249,
-      "word": "暗爽型人格",
-      "onboard_time": 1701140253,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 238693,
       "num": 238693,
       "word": "涵艺爆料Tangyuan加入BLG",
@@ -3801,14 +3817,6 @@
       "onboard_time": 1701132818,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 232392,
-      "num": 232392,
-      "word": "他俩上次吃饭还在武林外传",
-      "onboard_time": 1701140978,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 232031,
@@ -4003,14 +4011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222542,
-      "num": 222542,
-      "word": "王者新英雄海诺",
-      "onboard_time": 1701140795,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 222443,
       "num": 222443,
       "word": "这个钱活该你挣",
@@ -4073,6 +4073,14 @@
       "onboard_time": 1700954904,
       "rank": 24,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 219698,
+      "num": 219698,
+      "word": "收养一只猫竟发现本州未出现病毒",
+      "onboard_time": 1701142054,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 219567,
@@ -4337,6 +4345,14 @@
       "onboard_time": 1701088415,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203150,
+      "num": 203150,
+      "word": "铁三角和海底捞就差一个科目三",
+      "onboard_time": 1701136774,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202760,
@@ -4971,14 +4987,6 @@
       "category": "社会议题,美妆"
     },
     {
-      "raw_hot": 183465,
-      "num": 183465,
-      "word": "铁三角和海底捞就差一个科目三",
-      "onboard_time": 1701136774,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183191,
       "num": 183191,
       "word": "赵丽娜说公益是她足球生涯的下半场",
@@ -5097,6 +5105,14 @@
       "onboard_time": 1701067593,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178370,
+      "num": 178370,
+      "word": "年会不能停 打工人一周图鉴",
+      "onboard_time": 1701142114,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 178152,
@@ -5857,6 +5873,14 @@
       "onboard_time": 1701088292,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143702,
+      "num": 143702,
+      "word": "要不要戒掉情绪价值",
+      "onboard_time": 1701142296,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 143108,
@@ -7113,6 +7137,22 @@
       "onboard_time": 1701115692,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11368,
+      "num": 130915,
+      "word": "vivo拍出了最重要的小事",
+      "onboard_time": 1701142412,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 5330,
+      "num": 1085143,
+      "word": "在数贸会现场遇见未来生活",
+      "onboard_time": 1701142412,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -7133,6 +7173,9 @@
     },
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#长江经济带发展日趋向好也要久久为功#"
     }
   ]
 }
