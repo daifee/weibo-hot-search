@@ -1,6 +1,6 @@
 {
   "startTime": 1701102240030,
-  "endTime": 1701175755062,
+  "endTime": 1701177686346,
   "band_list": [
     {
       "raw_hot": 4103461,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1648918,
+      "num": 1648918,
+      "word": "何猷君奚梦瑶孩子正脸",
+      "onboard_time": 1701176257,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1516336,
       "num": 1845881,
       "word": "失业父亲因20元生日蛋糕泪崩",
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1118405,
+      "num": 1118405,
+      "word": "一念关山 镜头美感",
+      "onboard_time": 1701175417,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1104894,
       "num": 1104894,
       "word": "女将星 妆造",
@@ -193,6 +209,14 @@
       "onboard_time": 1701165632,
       "rank": 11,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1033976,
+      "num": 1033976,
+      "word": "胃病发展成胃癌的五个征兆",
+      "onboard_time": 1701173797,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 977706,
@@ -307,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 771680,
-      "num": 771680,
-      "word": "胃病发展成胃癌的五个征兆",
-      "onboard_time": 1701173797,
-      "rank": 9,
-      "category": "健康医疗"
+      "raw_hot": 785350,
+      "num": 785350,
+      "word": "MAMA获奖名单",
+      "onboard_time": 1701174036,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 768101,
@@ -393,14 +417,6 @@
       "onboard_time": 1701133297,
       "rank": 18,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 679170,
-      "num": 679170,
-      "word": "MAMA获奖名单",
-      "onboard_time": 1701174036,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 674501,
@@ -499,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 604095,
+      "num": 604095,
+      "word": "胡锡进称中华有为世界荣耀",
+      "onboard_time": 1701175834,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595407,
       "num": 513418,
       "word": "王睡睡 纯爱战神之首",
@@ -537,6 +561,14 @@
       "onboard_time": 1701144157,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584106,
+      "num": 584106,
+      "word": "seventeen你们不是明天吗",
+      "onboard_time": 1701176018,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 572585,
@@ -579,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557920,
+      "num": 557920,
+      "word": "孙丞潇不让金莎看手机",
+      "onboard_time": 1701173976,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547398,
       "num": 547398,
       "word": "佘诗曼美甲",
@@ -593,6 +633,14 @@
       "onboard_time": 1701136711,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 527889,
+      "num": 302867,
+      "word": "一念关山节奏",
+      "onboard_time": 1701175116,
+      "rank": 20,
+      "category": "剧集,游戏"
     },
     {
       "raw_hot": 518597,
@@ -625,14 +673,6 @@
       "onboard_time": 1701168275,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 502383,
-      "num": 302867,
-      "word": "一念关山节奏",
-      "onboard_time": 1701175116,
-      "rank": 20,
-      "category": "剧集,游戏"
     },
     {
       "raw_hot": 497668,
@@ -691,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470594,
+      "num": 470594,
+      "word": "网传太原理工一导师辱骂压榨学生",
+      "onboard_time": 1701175057,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 463703,
       "num": 463703,
       "word": "陈都灵一念关山一行泪",
@@ -704,14 +752,6 @@
       "word": "南海归墟片名是潘粤明写的",
       "onboard_time": 1701099211,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 460184,
-      "num": 460184,
-      "word": "一念关山 镜头美感",
-      "onboard_time": 1701175417,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -1025,14 +1065,6 @@
       "onboard_time": 1701136711,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 311948,
-      "num": 311948,
-      "word": "孙丞潇不让金莎看手机",
-      "onboard_time": 1701173976,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 311429,
@@ -1515,6 +1547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 236651,
+      "num": 197713,
+      "word": "十个勤天 阳光中的耕田少年",
+      "onboard_time": 1701176736,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235959,
       "num": 235959,
       "word": "阿里达摩院裁撤量子实验室",
@@ -1699,12 +1739,28 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 207541,
+      "num": 196024,
+      "word": "一念关山在线观看人数",
+      "onboard_time": 1701177097,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205620,
       "num": 205620,
       "word": "HYBE与MBC和好 中小型爱豆公司不满",
       "onboard_time": 1701136353,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204482,
+      "num": 195685,
+      "word": "当代研究生参加会议",
+      "onboard_time": 1701176198,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 203786,
@@ -2115,12 +2171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166381,
-      "num": 166381,
-      "word": "网传太原理工一导师辱骂压榨学生",
-      "onboard_time": 1701175057,
-      "rank": 34,
-      "category": "社会新闻,教育"
+      "raw_hot": 165886,
+      "num": 165886,
+      "word": "影视飓风 卫星",
+      "onboard_time": 1701177157,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 164729,
@@ -2241,6 +2297,22 @@
       "onboard_time": 1701149492,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153952,
+      "num": 153952,
+      "word": "这个杀手有点儿萌",
+      "onboard_time": 1701177036,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 153916,
+      "num": 153916,
+      "word": "兰州2元辣子烤肉",
+      "onboard_time": 1701177395,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 153478,
@@ -2481,6 +2553,14 @@
       "onboard_time": 1701096637,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117299,
+      "num": 198808,
+      "word": "张雪峰催生新婚员工承诺1个娃奖2万",
+      "onboard_time": 1701176736,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 116418,
@@ -2787,6 +2867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32086,
+      "num": 198003,
+      "word": "欧阳娜娜看秀版ootd",
+      "onboard_time": 1701176736,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 31310,
       "num": 52506,
       "word": "陈都灵扮演野心皇后",
@@ -2825,6 +2913,14 @@
       "onboard_time": 1701107239,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21287,
+      "num": 1070380,
+      "word": "首届链博会让中外企业共享新机遇",
+      "onboard_time": 1701176317,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20215,
