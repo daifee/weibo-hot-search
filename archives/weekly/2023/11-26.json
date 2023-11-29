@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701285281443,
+  "endTime": 1701286464412,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -12009,6 +12009,14 @@
       "onboard_time": 1701118633,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 18764,
+      "num": 18764,
+      "word": "何广智杭州演出取消赔外地观众差旅费",
+      "onboard_time": 1701285854,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 18502,
