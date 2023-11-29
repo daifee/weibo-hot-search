@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/29 14:36:42
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/29 15:16:52
 </p>
 </blockquote>
 <p>
@@ -4065,6 +4065,12 @@ JDG晋级S13四强（热度：1251728）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%AF%E5%90%8E%E8%A1%A3%E9%A2%86%E6%8F%90%E8%B5%B7%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1%23" target="weibo">
+4岁男童被父亲扯后衣领提起窒息身亡（热度：1249182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E5%87%BA%E9%99%A2%23" target="weibo">
 成都被狗咬伤女童已出院（热度：1247606）
 </a>
@@ -4505,12 +4511,6 @@ JDG半决赛扳回一城（热度：1165428）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E5%AF%B9%E6%B3%95%E5%BE%B7%E6%84%8F%E8%8D%B7%E8%A5%BF%E9%A9%AC%E5%85%AD%E5%9B%BD%E8%AF%95%E8%A1%8C%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%23" target="weibo">
 中方将对法德意荷西马六国试行免签政策（热度：1162103）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%88%B6%E4%BA%B2%E6%89%AF%E5%90%8E%E8%A1%A3%E9%A2%86%E6%8F%90%E8%B5%B7%E7%AA%92%E6%81%AF%E8%BA%AB%E4%BA%A1%23" target="weibo">
-4岁男童被父亲扯后衣领提起窒息身亡（热度：1160683）
 </a>
 </li>
 
