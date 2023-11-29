@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701246168662,
+  "endTime": 1701246983783,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -11,19 +11,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2718553,
+      "num": 2718553,
+      "word": "网传西藏阿里全体公务员为一女子献血",
+      "onboard_time": 1701242074,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2701567,
       "num": 2701567,
       "word": "女儿高烧40度两天妈妈取号取到1600号",
       "onboard_time": 1701230975,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2566325,
-      "num": 2566325,
-      "word": "网传西藏阿里全体公务员为一女子献血",
-      "onboard_time": 1701242074,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -83,6 +83,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 1303893,
+      "num": 1167004,
+      "word": "水哥43岁状态",
+      "onboard_time": 1701243454,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1249182,
       "num": 968649,
       "word": "4岁男童被父亲扯后衣领提起窒息身亡",
@@ -99,28 +107,20 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 1192627,
+      "num": 1192627,
+      "word": "佘诗曼回应美甲15年来没变过",
+      "onboard_time": 1701241653,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1171956,
       "num": 1171956,
       "word": "王睡睡张硕 没领证",
       "onboard_time": 1701230556,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1167004,
-      "num": 1167004,
-      "word": "水哥43岁状态",
-      "onboard_time": 1701243454,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1145794,
-      "num": 1145794,
-      "word": "佘诗曼回应美甲15年来没变过",
-      "onboard_time": 1701241653,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 1088434,
@@ -195,6 +195,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 853611,
+      "num": 853611,
+      "word": "李晨说周淑怡是他心里的一姐",
+      "onboard_time": 1701246635,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 843639,
       "num": 843639,
       "word": "雷军向武大捐赠13亿元",
@@ -208,6 +216,14 @@
       "word": "海南航空HU7175紧急备降广州",
       "onboard_time": 1701239914,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820680,
+      "num": 820680,
+      "word": "女儿发烧最高至40度妈妈取号1600号",
+      "onboard_time": 1701246034,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -313,14 +329,6 @@
       "onboard_time": 1701244174,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 628309,
-      "num": 628309,
-      "word": "女儿发烧最高至40度妈妈取号1600号",
-      "onboard_time": 1701246034,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 626755,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 511619,
-      "num": 448443,
+      "num": 506124,
       "word": "女生经期 不能按摩",
       "onboard_time": 1701244473,
       "rank": 12,
@@ -651,6 +659,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331474,
+      "num": 331474,
+      "word": "SEVENTEEN在红毯拿了奖",
+      "onboard_time": 1701244954,
+      "rank": 18,
+      "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 328300,
+      "num": 328300,
+      "word": "4万元金条收货后被直接扔了",
+      "onboard_time": 1701242013,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325894,
       "num": 325894,
       "word": "北京要求一切以孩子身体为重",
@@ -665,14 +689,6 @@
       "onboard_time": 1701239314,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318733,
-      "num": 318733,
-      "word": "SEVENTEEN在红毯拿了奖",
-      "onboard_time": 1701244954,
-      "rank": 18,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 313431,
@@ -705,14 +721,6 @@
       "onboard_time": 1701216639,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302743,
-      "num": 302743,
-      "word": "4万元金条收货后被直接扔了",
-      "onboard_time": 1701242013,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301055,
@@ -801,6 +809,14 @@
       "onboard_time": 1701219096,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282866,
+      "num": 282866,
+      "word": "外交部回应日本驻华大使探望被拘留日本公民",
+      "onboard_time": 1701245855,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 282461,
@@ -1011,6 +1027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 230675,
+      "num": 219102,
+      "word": "何蓝逗一念关山哭戏",
+      "onboard_time": 1701245793,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228531,
       "num": 228531,
       "word": "胡先煦一句话让辛芷蕾多云转晴",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1701228093,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206871,
+      "num": 206871,
+      "word": "法考",
+      "onboard_time": 1701246393,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 206594,
@@ -1259,6 +1291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186993,
+      "num": 186993,
+      "word": "觉得作者文化水平不高的瞬间",
+      "onboard_time": 1701245434,
+      "rank": 34,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "新闻女王 没有赢家的一集",
@@ -1305,6 +1345,22 @@
       "onboard_time": 1701183160,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178568,
+      "num": 178568,
+      "word": "龚俊对狐妖里的肌肉线条很满意",
+      "onboard_time": 1701246694,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176222,
+      "num": 176222,
+      "word": "王菲早年波光粼粼妆",
+      "onboard_time": 1701245253,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 176206,
@@ -1387,28 +1443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166201,
-      "num": 166201,
-      "word": "何蓝逗一念关山哭戏",
-      "onboard_time": 1701245793,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164042,
       "num": 164042,
       "word": "周一围 细节里的爱意",
       "onboard_time": 1701228155,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163701,
-      "num": 163701,
-      "word": "觉得作者文化水平不高的瞬间",
-      "onboard_time": 1701245434,
-      "rank": 34,
-      "category": "读书作家"
     },
     {
       "raw_hot": 162989,
@@ -1451,12 +1491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160060,
-      "num": 160060,
-      "word": "王菲早年波光粼粼妆",
-      "onboard_time": 1701245253,
-      "rank": 35,
-      "category": "演出"
+      "raw_hot": 158771,
+      "num": 158771,
+      "word": "现在的人上班都上癫了",
+      "onboard_time": 1701246156,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 157984,
@@ -1523,6 +1563,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 150172,
+      "num": 150172,
+      "word": "当T人和F人看到负面新闻",
+      "onboard_time": 1701244537,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150072,
       "num": 150072,
       "word": "涵艺爆料weiwei加入LNG",
@@ -1579,6 +1627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 144274,
+      "num": 144274,
+      "word": "男子一路尾随女子趁等电梯多次猥亵",
+      "onboard_time": 1701245734,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141340,
       "num": 141340,
       "word": "光与夜之恋 男主宝宝们",
@@ -1619,14 +1675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133247,
-      "num": 133247,
-      "word": "当T人和F人看到负面新闻",
-      "onboard_time": 1701244537,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 130481,
       "num": 130481,
       "word": "seventeen你们不是明天吗",
@@ -1643,27 +1691,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130318,
-      "num": 130318,
-      "word": "外交部回应日本驻华大使探望被拘留日本公民",
-      "onboard_time": 1701245855,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 130122,
       "num": 130122,
       "word": "懂事的领导会在周五下午请假",
       "onboard_time": 1701244414,
       "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 124508,
-      "num": 124508,
-      "word": "现在的人上班都上癫了",
-      "onboard_time": 1701246156,
-      "rank": 45,
       "category": "幽默"
     },
     {
