@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701289121485,
+  "endTime": 1701290085047,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -11699,6 +11699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 55156,
+      "num": 30582,
+      "word": "跳火科目三第一人发声",
+      "onboard_time": 1701287774,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54689,
       "num": 372982,
       "word": "小黑盒FUSION上新真香",
@@ -11907,14 +11915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30582,
-      "num": 30582,
-      "word": "跳火科目三第一人发声",
-      "onboard_time": 1701287774,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29579,
       "num": 1693117,
       "word": "首届链博会让中外企业共享新机遇",
@@ -12065,6 +12065,14 @@
       "onboard_time": 1701115692,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12937,
+      "num": 14696,
+      "word": "乐游原最好的帝后爱情",
+      "onboard_time": 1701289693,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 12553,
