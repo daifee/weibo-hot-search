@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701264105700,
+  "endTime": 1701264830983,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2315362,
-      "num": 424823,
+      "raw_hot": 2356204,
+      "num": 472069,
       "word": "潘玮柏结婚照",
       "onboard_time": 1701261103,
       "rank": 21,
@@ -91,7 +91,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1472337,
+      "raw_hot": 1478840,
       "num": 501579,
       "word": "阿里公务员",
       "onboard_time": 1701259655,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632417,
+      "num": 632417,
+      "word": "LV大秀 王鹤棣",
+      "onboard_time": 1701264035,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 629548,
       "num": 629548,
       "word": "迪丽热巴填补了秦海璐的遗憾",
@@ -651,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 507678,
+      "num": 507678,
+      "word": "工作室回应张杰偷跑物料",
+      "onboard_time": 1701263618,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 505649,
       "num": 505649,
       "word": "汪苏泷染头哭了",
@@ -771,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422995,
+      "num": 422995,
+      "word": "MAMA获奖总名单",
+      "onboard_time": 1701263018,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 418827,
       "num": 418827,
       "word": "早恋其实一眼就能看出来",
@@ -819,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397220,
+      "num": 397220,
+      "word": "毕业后成了导师的甲方",
+      "onboard_time": 1701259233,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 394999,
       "num": 394999,
       "word": "TWICE合照 休假突然被拉来打工",
@@ -835,12 +867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 390186,
-      "num": 369199,
-      "word": "MAMA获奖总名单",
-      "onboard_time": 1701263018,
-      "rank": 14,
-      "category": "电影"
+      "raw_hot": 387599,
+      "num": 254180,
+      "word": "钱可以慢慢攒但命没有第二次",
+      "onboard_time": 1701263677,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 385666,
@@ -865,14 +897,6 @@
       "onboard_time": 1701203533,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 378349,
-      "num": 378349,
-      "word": "毕业后成了导师的甲方",
-      "onboard_time": 1701259233,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 370371,
@@ -905,6 +929,14 @@
       "onboard_time": 1701232421,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 359731,
+      "num": 359731,
+      "word": "傅首尔老刘",
+      "onboard_time": 1701262658,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 348842,
@@ -953,14 +985,6 @@
       "onboard_time": 1701159455,
       "rank": 12,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 338212,
-      "num": 338212,
-      "word": "傅首尔老刘",
-      "onboard_time": 1701262658,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 336180,
@@ -1035,20 +1059,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318408,
+      "num": 318408,
+      "word": "夫胜宽获奖感言向文彬致谢",
+      "onboard_time": 1701263859,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313431,
       "num": 313431,
       "word": "不经意的卫生坏习惯",
       "onboard_time": 1701187051,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 312095,
-      "num": 252885,
-      "word": "工作室回应张杰偷跑物料",
-      "onboard_time": 1701263618,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 311254,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1701231938,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 305390,
-      "num": 212043,
-      "word": "钱可以慢慢攒但命没有第二次",
-      "onboard_time": 1701263677,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 304984,
@@ -1124,7 +1140,7 @@
     },
     {
       "raw_hot": 299832,
-      "num": 215469,
+      "num": 253441,
       "word": "韩火火 刘诗诗脸",
       "onboard_time": 1701262901,
       "rank": 25,
@@ -1171,14 +1187,6 @@
       "category": "剧集,音乐"
     },
     {
-      "raw_hot": 289663,
-      "num": 214663,
-      "word": "夫胜宽获奖感言向文彬致谢",
-      "onboard_time": 1701263859,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 289400,
       "num": 276863,
       "word": "南海归墟巨型海兽出没",
@@ -1193,6 +1201,14 @@
       "onboard_time": 1701175116,
       "rank": 16,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 288560,
+      "num": 288560,
+      "word": "K70系列首发评测",
+      "onboard_time": 1701264104,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 284386,
@@ -1219,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282581,
+      "num": 253656,
+      "word": "GQ 大热CP坐一艘船",
+      "onboard_time": 1701262961,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282461,
       "num": 282461,
       "word": "AppleMusic年榜",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1701237696,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 280486,
-      "num": 211698,
-      "word": "GQ 大热CP坐一艘船",
-      "onboard_time": 1701262961,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 278214,
@@ -1361,6 +1377,14 @@
       "onboard_time": 1701238953,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256375,
+      "num": 256375,
+      "word": "拆完快递 洗手",
+      "onboard_time": 1701261701,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 253474,
@@ -1492,7 +1516,7 @@
     },
     {
       "raw_hot": 241947,
-      "num": 174413,
+      "num": 199731,
       "word": "以爱为营",
       "onboard_time": 1701262119,
       "rank": 42,
@@ -1579,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226900,
+      "num": 200920,
+      "word": "一念关山王者峡谷",
+      "onboard_time": 1701263376,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226111,
       "num": 226111,
       "word": "何猷君的数学能力",
@@ -1603,20 +1635,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219620,
+      "num": 219620,
+      "word": "白羊座的友谊是一对一的",
+      "onboard_time": 1701262777,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219261,
       "num": 292599,
       "word": "微软 丑毛衣",
       "onboard_time": 1701253361,
       "rank": 33,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 216691,
-      "num": 216691,
-      "word": "拆完快递 洗手",
-      "onboard_time": 1701261701,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 212662,
@@ -1649,14 +1681,6 @@
       "onboard_time": 1701248435,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 210919,
-      "num": 210919,
-      "word": "白羊座的友谊是一对一的",
-      "onboard_time": 1701262777,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 209955,
@@ -1851,6 +1875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196596,
+      "num": 196596,
+      "word": "一念关山破万全员跳女团舞",
+      "onboard_time": 1701264635,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196519,
       "num": 185016,
       "word": "傅首尔最后一天的日记",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1701250114,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194826,
+      "num": 194826,
+      "word": "SEVENTEEN从受人指点到大赏",
+      "onboard_time": 1701264704,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 194247,
@@ -1905,14 +1945,6 @@
       "onboard_time": 1701245717,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 191560,
-      "num": 150169,
-      "word": "一念关山王者峡谷",
-      "onboard_time": 1701263376,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 190337,
@@ -2041,14 +2073,6 @@
       "onboard_time": 1701242853,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181082,
-      "num": 149035,
-      "word": "LV大秀 王鹤棣",
-      "onboard_time": 1701264035,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 178689,
@@ -2235,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159252,
+      "num": 254832,
+      "word": "当地回应西藏阿里全体公务员为女子献血",
+      "onboard_time": 1701262418,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158851,
       "num": 158851,
       "word": "野良神 婚礼",
@@ -2371,12 +2403,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 141908,
-      "num": 213050,
-      "word": "当地回应西藏阿里全体公务员为女子献血",
-      "onboard_time": 1701262418,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 143879,
+      "num": 210469,
+      "word": "国货护肤品",
+      "onboard_time": 1701264635,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 141340,
@@ -2443,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134655,
+      "num": 360811,
+      "word": "红米兰博基尼",
+      "onboard_time": 1701262836,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130481,
       "num": 130481,
       "word": "seventeen你们不是明天吗",
@@ -2473,14 +2513,6 @@
       "onboard_time": 1701255339,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128353,
-      "num": 248390,
-      "word": "红米兰博基尼",
-      "onboard_time": 1701262836,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 123935,
@@ -2644,7 +2676,7 @@
     },
     {
       "raw_hot": 101317,
-      "num": 146659,
+      "num": 254407,
       "word": "男生把毕业后第一份工资交给奶奶",
       "onboard_time": 1701258874,
       "rank": 48,
@@ -2745,6 +2777,14 @@
       "onboard_time": 1701252039,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81279,
+      "num": 168850,
+      "word": "大爷把可乐当水喝医生要求的",
+      "onboard_time": 1701264704,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80704,
