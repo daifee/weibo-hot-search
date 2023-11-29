@@ -1,0 +1,410 @@
+{
+  "runTime": 1701231688550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1375028,
+        "num": 1375028,
+        "word": "网友举报转转二手手机出具阴阳检测报告",
+        "onboard_time": 1701222032,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105121,
+        "num": 1105121,
+        "word": "男子中2.6亿后次日凌晨准时上班",
+        "onboard_time": 1701218559,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5937,
+        "num": 987178,
+        "word": "首届链博会让中外企业共享新机遇",
+        "onboard_time": 1701176317,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957784,
+        "num": 957784,
+        "word": "王睡睡百科 前夫哥张硕",
+        "onboard_time": 1701229654,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770893,
+        "num": 770893,
+        "word": "一艘疑似中国籍货轮在韩国西南部海上沉没",
+        "onboard_time": 1701229294,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648779,
+        "num": 648779,
+        "word": "网曝陕西高校男生持刀捅伤一男一女",
+        "onboard_time": 1701228694,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639495,
+        "num": 639495,
+        "word": "谭杰希自曝曾患抑郁症",
+        "onboard_time": 1701228395,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600634,
+        "num": 600634,
+        "word": "芒格去世",
+        "onboard_time": 1701212963,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577176,
+        "num": 577176,
+        "word": "专业仅有的4位女生年级前四保研",
+        "onboard_time": 1701224913,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 514226,
+        "num": 514226,
+        "word": "胡八一雪莉杨 海底蜜月",
+        "onboard_time": 1701227673,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1416612,
+        "num": 510886,
+        "word": "女友宣布与内马尔分手",
+        "onboard_time": 1701223714,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745665,
+        "num": 509336,
+        "word": "王睡睡张硕 没领证",
+        "onboard_time": 1701230556,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541663,
+        "num": 509193,
+        "word": "女儿高烧40度两天妈妈取号取到1600号",
+        "onboard_time": 1701230975,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504529,
+        "num": 504529,
+        "word": "人生是旷野 是旷工是旷课",
+        "onboard_time": 1701226534,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 489538,
+        "num": 489538,
+        "word": "雷军向武大捐赠13亿元",
+        "onboard_time": 1701221314,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 451566,
+        "num": 451566,
+        "word": "质疑朱丹 理解朱丹",
+        "onboard_time": 1701183640,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438652,
+        "num": 438652,
+        "word": "地球收到1600万公里外传来激光数据",
+        "onboard_time": 1701218137,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438496,
+        "num": 438496,
+        "word": "沉香如屑 打戏",
+        "onboard_time": 1701230136,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382367,
+        "num": 382367,
+        "word": "何猷君 爱是常觉亏欠",
+        "onboard_time": 1701227496,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376957,
+        "num": 376957,
+        "word": "电影一闪一闪亮星星全阵容曝光",
+        "onboard_time": 1701228030,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357424,
+        "num": 357424,
+        "word": "烈士不满16岁遗骸骨骺线都没愈合",
+        "onboard_time": 1701229833,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335468,
+        "num": 335468,
+        "word": "刘璐给迪丽热巴做过的造型",
+        "onboard_time": 1701224136,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333329,
+        "num": 333329,
+        "word": "张凌赫看向白鹿的眼神",
+        "onboard_time": 1701215430,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323326,
+        "num": 323326,
+        "word": "马云内网回应拼多多市值逼近阿里",
+        "onboard_time": 1701230796,
+        "rank": 23,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 275743,
+        "num": 275743,
+        "word": "JDG新上单酷似白举纲",
+        "onboard_time": 1701229236,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272148,
+        "num": 272148,
+        "word": "杨紫唱要久久爱单曲",
+        "onboard_time": 1701230434,
+        "rank": 25,
+        "category": "剧集,音乐"
+      },
+      {
+        "raw_hot": 267184,
+        "num": 267184,
+        "word": "男童手臂伸进笼子被藏獒咬断",
+        "onboard_time": 1701223654,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254369,
+        "num": 254369,
+        "word": "刘宇宁 台词",
+        "onboard_time": 1701182256,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247045,
+        "num": 247045,
+        "word": "恒大物业把中国恒大告了",
+        "onboard_time": 1701231274,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 244575,
+        "num": 244575,
+        "word": "张佳宁沙溢演过情侣",
+        "onboard_time": 1701230376,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274611,
+        "num": 243236,
+        "word": "明日方舟 谜图",
+        "onboard_time": 1701230016,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241859,
+        "num": 241859,
+        "word": "一念关山导演作品",
+        "onboard_time": 1701228333,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221143,
+        "num": 221143,
+        "word": "美颜把魏大勋酒窝都磨没了",
+        "onboard_time": 1701223835,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230400,
+        "num": 220737,
+        "word": "一念关山口碑",
+        "onboard_time": 1701219696,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220156,
+        "num": 220156,
+        "word": "第一次感觉生理期被具象化",
+        "onboard_time": 1701218017,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197310,
+        "num": 197310,
+        "word": "A股",
+        "onboard_time": 1701230016,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196609,
+        "num": 196609,
+        "word": "鹿晗绚烂光影胶片写真",
+        "onboard_time": 1701231217,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195110,
+        "num": 195110,
+        "word": "一念关山戈壁大片",
+        "onboard_time": 1701224675,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192160,
+        "num": 192160,
+        "word": "很笨但能考上公务员的暗黑偏方",
+        "onboard_time": 1701182497,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190133,
+        "num": 190133,
+        "word": "雷军创全国高校单笔个人现金捐赠纪录",
+        "onboard_time": 1701228813,
+        "rank": 39,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 185793,
+        "num": 185793,
+        "word": "迪丽热巴造型 MixWei",
+        "onboard_time": 1701219216,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176206,
+        "num": 176206,
+        "word": "汤镇业一出场自动切换TVB",
+        "onboard_time": 1701229654,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149489,
+        "num": 149489,
+        "word": "胃癌发现时大多是中晚期",
+        "onboard_time": 1701217177,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148537,
+        "num": 148537,
+        "word": "心目中TOP1美剧",
+        "onboard_time": 1701220596,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147919,
+        "num": 147919,
+        "word": "怒海 不配当爹但喜欢当爹",
+        "onboard_time": 1701226836,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133935,
+        "num": 133935,
+        "word": "出道6天在MAMA上首演的Enhypen",
+        "onboard_time": 1701220957,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132668,
+        "num": 132668,
+        "word": "井胧白鹿张凌赫同框",
+        "onboard_time": 1701226534,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131757,
+        "num": 131757,
+        "word": "滴滴称事故非网传遭受攻击",
+        "onboard_time": 1701228030,
+        "rank": 47,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 129843,
+        "num": 129843,
+        "word": "新闻女王 职场男性阴暗面",
+        "onboard_time": 1701231635,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101455,
+        "num": 128819,
+        "word": "显嫩妆容分享",
+        "onboard_time": 1701231397,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十次集体学习#"
+    }
+  }
+}
