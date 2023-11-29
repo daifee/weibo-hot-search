@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701293671720,
+  "endTime": 1701296213873,
   "band_list": [
     {
       "raw_hot": 1192253,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309239,
+      "num": 309239,
+      "word": "太原地震",
+      "onboard_time": 1701291252,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301907,
       "num": 219743,
       "word": "内娱审美 畸形",
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215758,
-      "num": 215758,
-      "word": "太原地震",
-      "onboard_time": 1701291252,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215566,
       "num": 215566,
       "word": "女子排队礼让孕妇后被其他人礼让",
@@ -225,6 +225,14 @@
       "onboard_time": 1701268236,
       "rank": 26,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 149371,
+      "num": 149371,
+      "word": "跳火科目三第一人发声",
+      "onboard_time": 1701287774,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136362,
@@ -419,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87843,
-      "num": 39820,
-      "word": "跳火科目三第一人发声",
-      "onboard_time": 1701287774,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83716,
       "num": 86842,
       "word": "十大高危职业之滑板教练",
@@ -483,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53861,
+      "num": 53861,
+      "word": "何广智杭州演出取消赔外地观众差旅费",
+      "onboard_time": 1701285854,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 49654,
       "num": 54274,
       "word": "海底捞 科目三",
@@ -507,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25824,
-      "num": 25824,
-      "word": "何广智杭州演出取消赔外地观众差旅费",
-      "onboard_time": 1701285854,
-      "rank": 35,
-      "category": "演出"
+      "raw_hot": 29120,
+      "num": 29120,
+      "word": "南海归墟第五集3分钟吓人",
+      "onboard_time": 1701292333,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 25500,
@@ -523,20 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22074,
-      "num": 22074,
-      "word": "南海归墟第五集3分钟吓人",
-      "onboard_time": 1701292333,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 14804,
-      "num": 14804,
+      "raw_hot": 19241,
+      "num": 19955,
       "word": "龚俊直播冲水声好响",
       "onboard_time": 1701291913,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16426,
+      "num": 19860,
+      "word": "国际排联祝朱婷生日快乐",
+      "onboard_time": 1701294072,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 12937,
@@ -555,8 +563,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 7175,
-      "num": 73135,
+      "raw_hot": 9165,
+      "num": 168141,
       "word": "链博会展商开始预约下一届展位了",
       "onboard_time": 1701270576,
       "rank": 2,
