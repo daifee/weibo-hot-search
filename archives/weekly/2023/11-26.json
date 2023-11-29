@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701227903598,
+  "endTime": 1701228873269,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1366928,
+      "num": 1366928,
+      "word": "网友举报转转二手手机出具阴阳检测报告",
+      "onboard_time": 1701222032,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1327811,
       "num": 1327811,
       "word": "小杨哥演唱会",
@@ -593,14 +601,6 @@
       "onboard_time": 1701051213,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1255696,
-      "num": 1255696,
-      "word": "网友举报转转二手手机出具阴阳检测报告",
-      "onboard_time": 1701222032,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1218270,
@@ -859,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 927543,
+      "num": 927543,
+      "word": "专业仅有的4位女生年级前四保研",
+      "onboard_time": 1701224913,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 927154,
       "num": 927154,
       "word": "已婚男陈立隐形出轨",
@@ -937,14 +945,6 @@
       "onboard_time": 1701071854,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 875145,
-      "num": 875145,
-      "word": "专业仅有的4位女生年级前四保研",
-      "onboard_time": 1701224913,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 875125,
@@ -1555,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 626755,
+      "num": 626755,
+      "word": "电影一闪一闪亮星星全阵容曝光",
+      "onboard_time": 1701228030,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 626094,
       "num": 534317,
       "word": "A股",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1700974292,
       "rank": 20,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 610076,
+      "num": 610076,
+      "word": "胡八一雪莉杨 海底蜜月",
+      "onboard_time": 1701227673,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 608671,
@@ -2387,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 467601,
+      "num": 467601,
+      "word": "美颜把魏大勋酒窝都磨没了",
+      "onboard_time": 1701223835,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467453,
       "num": 467453,
       "word": "重庆市原副市长熊雪被决定逮捕",
@@ -2587,6 +2611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 442362,
+      "num": 442362,
+      "word": "人生是旷野 是旷工是旷课",
+      "onboard_time": 1701226534,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 441963,
       "num": 441963,
       "word": "杨幂压轴",
@@ -2601,14 +2633,6 @@
       "onboard_time": 1701215369,
       "rank": 14,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 440489,
-      "num": 440489,
-      "word": "美颜把魏大勋酒窝都磨没了",
-      "onboard_time": 1701223835,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 440110,
@@ -2865,6 +2889,14 @@
       "onboard_time": 1701165514,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408554,
+      "num": 408554,
+      "word": "何猷君 爱是常觉亏欠",
+      "onboard_time": 1701227496,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 406600,
@@ -3299,14 +3331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351345,
-      "num": 351345,
-      "word": "人生是旷野 是旷工是旷课",
-      "onboard_time": 1701226534,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 350248,
       "num": 864740,
       "word": "嗓子痛可以喝冰水缓解",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1701087393,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346767,
+      "num": 346767,
+      "word": "一念关山导演作品",
+      "onboard_time": 1701228333,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 346729,
@@ -4201,6 +4233,14 @@
       "onboard_time": 1701163771,
       "rank": 27,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 286786,
+      "num": 286786,
+      "word": "谭杰希自曝曾患抑郁症",
+      "onboard_time": 1701228395,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 286629,
@@ -5107,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241445,
+      "num": 241445,
+      "word": "宁远舟一秒变疯批",
+      "onboard_time": 1701227852,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241425,
       "num": 182418,
       "word": "莲花楼天下完整版",
@@ -5555,14 +5603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 222628,
-      "num": 222628,
-      "word": "胡八一雪莉杨 海底蜜月",
-      "onboard_time": 1701227673,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222443,
       "num": 222443,
       "word": "这个钱活该你挣",
@@ -5851,12 +5891,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211605,
-      "num": 182508,
-      "word": "何猷君 爱是常觉亏欠",
-      "onboard_time": 1701227496,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 212662,
+      "num": 212662,
+      "word": "滴滴称事故非网传遭受攻击",
+      "onboard_time": 1701228030,
+      "rank": 25,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 211459,
@@ -5915,6 +5955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208278,
+      "num": 208278,
+      "word": "老狼也在听鹿晗新歌",
+      "onboard_time": 1701228093,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208244,
       "num": 208244,
       "word": "大雨 辛芷蕾仿妆",
@@ -5961,6 +6009,14 @@
       "onboard_time": 1700987072,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206594,
+      "num": 171982,
+      "word": "小满生活 脑疯期男人",
+      "onboard_time": 1701228212,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 206554,
@@ -6731,6 +6787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189256,
+      "num": 178654,
+      "word": "井胧白鹿张凌赫同框",
+      "onboard_time": 1701226534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189162,
       "num": 189162,
       "word": "中国赛陈雨菲女单夺冠",
@@ -7123,14 +7187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178654,
-      "num": 178654,
-      "word": "井胧白鹿张凌赫同框",
-      "onboard_time": 1701226534,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178370,
       "num": 178370,
       "word": "年会不能停 打工人一周图鉴",
@@ -7451,6 +7507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168328,
+      "num": 168328,
+      "word": "网曝陕西高校男生持刀捅伤一男一女",
+      "onboard_time": 1701228694,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167839,
       "num": 167839,
       "word": "专访WBG战队",
@@ -7560,6 +7624,14 @@
       "word": "秦海璐胡先煦共享衣橱",
       "onboard_time": 1700986112,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164042,
+      "num": 164042,
+      "word": "周一围 细节里的爱意",
+      "onboard_time": 1701228155,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -8691,6 +8763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123888,
+      "num": 123888,
+      "word": "贝弗利因被挑衅记恨里夫斯",
+      "onboard_time": 1701228453,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123755,
       "num": 149305,
       "word": "橘猫面对三花美女的尴尬时刻",
@@ -8769,6 +8849,14 @@
       "onboard_time": 1701100112,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116250,
+      "num": 116250,
+      "word": "雷军创全国高校单笔个人现金捐赠纪录",
+      "onboard_time": 1701228813,
+      "rank": 47,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 116241,
@@ -8889,14 +8977,6 @@
       "onboard_time": 1701121634,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104651,
-      "num": 149276,
-      "word": "宁远舟一秒变疯批",
-      "onboard_time": 1701227852,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 104272,

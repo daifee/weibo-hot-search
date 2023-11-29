@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701227903598,
+  "endTime": 1701228873269,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1255696,
-      "num": 1255696,
+      "raw_hot": 1366928,
+      "num": 1366928,
       "word": "网友举报转转二手手机出具阴阳检测报告",
       "onboard_time": 1701222032,
       "rank": 8,
@@ -75,8 +75,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 875145,
-      "num": 875145,
+      "raw_hot": 927543,
+      "num": 927543,
       "word": "专业仅有的4位女生年级前四保研",
       "onboard_time": 1701224913,
       "rank": 49,
@@ -107,6 +107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 626755,
+      "num": 626755,
+      "word": "电影一闪一闪亮星星全阵容曝光",
+      "onboard_time": 1701228030,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 615585,
       "num": 357090,
       "word": "第一次感觉生理期被具象化",
@@ -120,6 +128,14 @@
       "word": "一念关山口碑",
       "onboard_time": 1701219696,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 610076,
+      "num": 610076,
+      "word": "胡八一雪莉杨 海底蜜月",
+      "onboard_time": 1701227673,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -187,12 +203,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 467601,
+      "num": 467601,
+      "word": "美颜把魏大勋酒窝都磨没了",
+      "onboard_time": 1701223835,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445583,
       "num": 445583,
       "word": "为啥有人一穿高领衣服就难受",
       "onboard_time": 1701214649,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442362,
+      "num": 442362,
+      "word": "人生是旷野 是旷工是旷课",
+      "onboard_time": 1701226534,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 441691,
@@ -209,14 +241,6 @@
       "onboard_time": 1701215369,
       "rank": 14,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 440489,
-      "num": 440489,
-      "word": "美颜把魏大勋酒窝都磨没了",
-      "onboard_time": 1701223835,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 415340,
@@ -243,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408554,
+      "num": 408554,
+      "word": "何猷君 爱是常觉亏欠",
+      "onboard_time": 1701227496,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380512,
       "num": 380512,
       "word": "大学生独游华山坠崖失联10天",
@@ -251,19 +283,19 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 351345,
-      "num": 351345,
-      "word": "人生是旷野 是旷工是旷课",
-      "onboard_time": 1701226534,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 348842,
       "num": 285408,
       "word": "一念关山 镜头美感",
       "onboard_time": 1701175417,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 346767,
+      "num": 346767,
+      "word": "一念关山导演作品",
+      "onboard_time": 1701228333,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -379,6 +411,14 @@
       "category": "剧集,游戏"
     },
     {
+      "raw_hot": 286786,
+      "num": 286786,
+      "word": "谭杰希自曝曾患抑郁症",
+      "onboard_time": 1701228395,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284165,
       "num": 284165,
       "word": "佘诗曼现场审简历",
@@ -467,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241445,
+      "num": 241445,
+      "word": "宁远舟一秒变疯批",
+      "onboard_time": 1701227852,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239038,
       "num": 239038,
       "word": "鹿晗新歌",
@@ -499,20 +547,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222628,
-      "num": 222628,
-      "word": "胡八一雪莉杨 海底蜜月",
-      "onboard_time": 1701227673,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 212662,
+      "num": 212662,
+      "word": "滴滴称事故非网传遭受攻击",
+      "onboard_time": 1701228030,
+      "rank": 25,
+      "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 211605,
-      "num": 182508,
-      "word": "何猷君 爱是常觉亏欠",
-      "onboard_time": 1701227496,
+      "raw_hot": 208278,
+      "num": 208278,
+      "word": "老狼也在听鹿晗新歌",
+      "onboard_time": 1701228093,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 206594,
+      "num": 171982,
+      "word": "小满生活 脑疯期男人",
+      "onboard_time": 1701228212,
       "rank": 30,
-      "category": "综艺"
+      "category": "剧集"
     },
     {
       "raw_hot": 205477,
@@ -563,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189256,
+      "num": 178654,
+      "word": "井胧白鹿张凌赫同框",
+      "onboard_time": 1701226534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188838,
       "num": 188838,
       "word": "随手一扎的毽子头",
@@ -611,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178654,
-      "num": 178654,
-      "word": "井胧白鹿张凌赫同框",
-      "onboard_time": 1701226534,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173968,
       "num": 182983,
       "word": "我的电脑好像被公司监视了",
@@ -643,12 +699,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 168328,
+      "num": 168328,
+      "word": "网曝陕西高校男生持刀捅伤一男一女",
+      "onboard_time": 1701228694,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167207,
       "num": 153353,
       "word": "易烊千玺网站 猫猫",
       "onboard_time": 1701170435,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164042,
+      "num": 164042,
+      "word": "周一围 细节里的爱意",
+      "onboard_time": 1701228155,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 160426,
@@ -795,6 +867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123888,
+      "num": 123888,
+      "word": "贝弗利因被挑衅记恨里夫斯",
+      "onboard_time": 1701228453,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123755,
       "num": 149305,
       "word": "橘猫面对三花美女的尴尬时刻",
@@ -817,6 +897,14 @@
       "onboard_time": 1701164974,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116250,
+      "num": 116250,
+      "word": "雷军创全国高校单笔个人现金捐赠纪录",
+      "onboard_time": 1701228813,
+      "rank": 47,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 112651,
@@ -857,14 +945,6 @@
       "onboard_time": 1701170134,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104651,
-      "num": 149276,
-      "word": "宁远舟一秒变疯批",
-      "onboard_time": 1701227852,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 103924,

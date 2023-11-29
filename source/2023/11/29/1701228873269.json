@@ -1,0 +1,410 @@
+{
+  "runTime": 1701228873269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1466602,
+        "num": 1466602,
+        "word": "男子中2.6亿后次日凌晨准时上班",
+        "onboard_time": 1701218559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1366928,
+        "num": 1366928,
+        "word": "网友举报转转二手手机出具阴阳检测报告",
+        "onboard_time": 1701222032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7343,
+        "num": 1052036,
+        "word": "首届链博会让中外企业共享新机遇",
+        "onboard_time": 1701176317,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1666203,
+        "num": 1004258,
+        "word": "女友宣布与内马尔分手",
+        "onboard_time": 1701223714,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 927543,
+        "num": 927543,
+        "word": "专业仅有的4位女生年级前四保研",
+        "onboard_time": 1701224913,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 665681,
+        "num": 665681,
+        "word": "刘璐给迪丽热巴做过的造型",
+        "onboard_time": 1701224136,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 657997,
+        "num": 657997,
+        "word": "芒格去世",
+        "onboard_time": 1701212963,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626755,
+        "num": 626755,
+        "word": "电影一闪一闪亮星星全阵容曝光",
+        "onboard_time": 1701228030,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610076,
+        "num": 610076,
+        "word": "胡八一雪莉杨 海底蜜月",
+        "onboard_time": 1701227673,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568123,
+        "num": 568123,
+        "word": "地球收到1600万公里外传来激光数据",
+        "onboard_time": 1701218137,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554876,
+        "num": 554876,
+        "word": "张凌赫看向白鹿的眼神",
+        "onboard_time": 1701215430,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485539,
+        "num": 485539,
+        "word": "雷军向武大捐赠13亿元",
+        "onboard_time": 1701221314,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 467601,
+        "num": 467601,
+        "word": "美颜把魏大勋酒窝都磨没了",
+        "onboard_time": 1701223835,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449078,
+        "num": 449078,
+        "word": "质疑朱丹 理解朱丹",
+        "onboard_time": 1701183640,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442362,
+        "num": 442362,
+        "word": "人生是旷野 是旷工是旷课",
+        "onboard_time": 1701226534,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408554,
+        "num": 408554,
+        "word": "何猷君 爱是常觉亏欠",
+        "onboard_time": 1701227496,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346767,
+        "num": 346767,
+        "word": "一念关山导演作品",
+        "onboard_time": 1701228333,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286786,
+        "num": 286786,
+        "word": "谭杰希自曝曾患抑郁症",
+        "onboard_time": 1701228395,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269793,
+        "num": 269793,
+        "word": "很笨但能考上公务员的暗黑偏方",
+        "onboard_time": 1701182497,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262522,
+        "num": 262522,
+        "word": "一念关山口碑",
+        "onboard_time": 1701219696,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355386,
+        "num": 262308,
+        "word": "男童手臂伸进笼子被藏獒咬断",
+        "onboard_time": 1701223654,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261197,
+        "num": 261197,
+        "word": "刘宇宁 台词",
+        "onboard_time": 1701182256,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248550,
+        "num": 248550,
+        "word": "第一次感觉生理期被具象化",
+        "onboard_time": 1701218017,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241445,
+        "num": 241445,
+        "word": "宁远舟一秒变疯批",
+        "onboard_time": 1701227852,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240408,
+        "num": 240408,
+        "word": "怒海 不配当爹但喜欢当爹",
+        "onboard_time": 1701226836,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212662,
+        "num": 212662,
+        "word": "滴滴称事故非网传遭受攻击",
+        "onboard_time": 1701228030,
+        "rank": 25,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 210180,
+        "num": 210180,
+        "word": "胃癌发现时大多是中晚期",
+        "onboard_time": 1701217177,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208278,
+        "num": 208278,
+        "word": "老狼也在听鹿晗新歌",
+        "onboard_time": 1701228093,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207343,
+        "num": 207343,
+        "word": "一念关山戈壁大片",
+        "onboard_time": 1701224675,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172668,
+        "num": 172668,
+        "word": "海底捞服务员跳擦玻璃舞被指低俗",
+        "onboard_time": 1701194417,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206594,
+        "num": 171982,
+        "word": "小满生活 脑疯期男人",
+        "onboard_time": 1701228212,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202836,
+        "num": 171249,
+        "word": "心目中TOP1美剧",
+        "onboard_time": 1701220596,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194083,
+        "num": 170165,
+        "word": "迪丽热巴造型 MixWei",
+        "onboard_time": 1701219216,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189256,
+        "num": 169239,
+        "word": "井胧白鹿张凌赫同框",
+        "onboard_time": 1701226534,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168328,
+        "num": 168328,
+        "word": "网曝陕西高校男生持刀捅伤一男一女",
+        "onboard_time": 1701228694,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164042,
+        "num": 164042,
+        "word": "周一围 细节里的爱意",
+        "onboard_time": 1701228155,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149774,
+        "num": 149774,
+        "word": "我的电脑好像被公司监视了",
+        "onboard_time": 1701224675,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133328,
+        "num": 133328,
+        "word": "滴滴员工称系统崩溃时内网也崩了",
+        "onboard_time": 1701219996,
+        "rank": 37,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 130999,
+        "num": 130999,
+        "word": "博主B太曝光的鬼秤商家被罚款20万",
+        "onboard_time": 1701212541,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125197,
+        "num": 125197,
+        "word": "随手一扎的毽子头",
+        "onboard_time": 1701220596,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 160038,
+        "num": 125086,
+        "word": "AppleMusic年榜",
+        "onboard_time": 1701223354,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159271,
+        "num": 124778,
+        "word": "她兄控他妹控我兄妹控",
+        "onboard_time": 1701217657,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153223,
+        "num": 124717,
+        "word": "出道6天在MAMA上首演的Enhypen",
+        "onboard_time": 1701220957,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152433,
+        "num": 124339,
+        "word": "邓超听完鹿晗新歌失眠了",
+        "onboard_time": 1701221614,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152073,
+        "num": 124116,
+        "word": "傅首尔老刘 允许离开的发生",
+        "onboard_time": 1701218075,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151602,
+        "num": 123943,
+        "word": "徐明浩玩梗舞到正主面前",
+        "onboard_time": 1701226235,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123888,
+        "num": 123888,
+        "word": "贝弗利因被挑衅记恨里夫斯",
+        "onboard_time": 1701228453,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116250,
+        "num": 116250,
+        "word": "雷军创全国高校单笔个人现金捐赠纪录",
+        "onboard_time": 1701228813,
+        "rank": 47,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 115181,
+        "num": 115181,
+        "word": "左雾关注weiwei",
+        "onboard_time": 1701225693,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109599,
+        "num": 109599,
+        "word": "你去海底捞会点小哥跳舞吗",
+        "onboard_time": 1701224074,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十次集体学习#"
+    }
+  }
+}
