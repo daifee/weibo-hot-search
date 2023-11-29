@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701235018689,
+  "endTime": 1701236046899,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 985389,
+      "num": 985389,
+      "word": "迪丽热巴船翻了第一时间想救的是钱袋",
+      "onboard_time": 1701234997,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 971651,
       "num": 971651,
       "word": "刘宇宁 台词",
@@ -113,6 +121,14 @@
       "onboard_time": 1701224913,
       "rank": 49,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 866526,
+      "num": 866526,
+      "word": "吴昕花瓶腰",
+      "onboard_time": 1701234518,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 843639,
@@ -140,11 +156,19 @@
     },
     {
       "raw_hot": 729222,
-      "num": 393972,
+      "num": 674786,
       "word": "娜娜离世后老金才真正认识她",
       "onboard_time": 1701233559,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 720979,
+      "num": 720979,
+      "word": "全班23人请病假仅3萌娃坚强上课",
+      "onboard_time": 1701234578,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 682032,
@@ -161,6 +185,14 @@
       "onboard_time": 1701231274,
       "rank": 28,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 672721,
+      "num": 672721,
+      "word": "男子葬礼上给客人喝假酒致4人死亡",
+      "onboard_time": 1701233857,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660488,
@@ -259,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525346,
+      "num": 420689,
+      "word": "秦岚说和迪丽热巴像两个要饭的",
+      "onboard_time": 1701235837,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520377,
       "num": 520377,
       "word": "审判一念关山",
@@ -339,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417009,
-      "num": 393284,
-      "word": "男子葬礼上给客人喝假酒致4人死亡",
-      "onboard_time": 1701233857,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415340,
       "num": 415340,
       "word": "邓超定7个闹钟听鹿晗新歌",
@@ -385,14 +417,6 @@
       "onboard_time": 1701233618,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 393171,
-      "num": 393171,
-      "word": "吴昕花瓶腰",
-      "onboard_time": 1701234518,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 380512,
@@ -456,6 +480,14 @@
       "word": "北京要求一切以孩子身体为重",
       "onboard_time": 1701179618,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323148,
+      "num": 323148,
+      "word": "北京一房东将两居室改成七居室出租",
+      "onboard_time": 1701235475,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -651,22 +683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 263059,
-      "num": 263059,
-      "word": "全班23人请病假仅3萌娃坚强上课",
-      "onboard_time": 1701234578,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 257592,
-      "num": 257592,
-      "word": "迪丽热巴船翻了第一时间想救的是钱袋",
-      "onboard_time": 1701234997,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253474,
       "num": 253474,
       "word": "怒海 不配当爹但喜欢当爹",
@@ -779,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208826,
+      "num": 208826,
+      "word": "JDG官宣Homme离队",
+      "onboard_time": 1701234934,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208278,
       "num": 208278,
       "word": "老狼也在听鹿晗新歌",
@@ -889,6 +913,14 @@
       "onboard_time": 1701228813,
       "rank": 47,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 190013,
+      "num": 190013,
+      "word": "花儿与少年",
+      "onboard_time": 1701235115,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 189256,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1701173976,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139440,
-      "num": 139440,
-      "word": "JDG官宣Homme离队",
-      "onboard_time": 1701234934,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 135823,
@@ -1419,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30286,
+      "num": 1002962,
+      "word": "链博会里有什么",
+      "onboard_time": 1701234518,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28432,
       "num": 1693117,
       "word": "首届链博会让中外企业共享新机遇",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1701199393,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18664,
-      "num": 749127,
-      "word": "链博会里有什么",
-      "onboard_time": 1701234518,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18238,
