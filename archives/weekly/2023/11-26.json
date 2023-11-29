@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701256510432,
+  "endTime": 1701257666180,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -627,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1292005,
+      "num": 290221,
+      "word": "利智",
+      "onboard_time": 1701256057,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1282904,
       "num": 1282904,
       "word": "潘粤明减重30斤演胡八一",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1700991696,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 834170,
+      "num": 276274,
+      "word": "papi酱 新型骗局",
+      "onboard_time": 1701256175,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 821819,
@@ -1811,6 +1827,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 630391,
+      "num": 630391,
+      "word": "海底捞部分门店不让跳科目三了",
+      "onboard_time": 1701255815,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629876,
       "num": 629876,
       "word": "孙丞潇不让金莎看手机",
@@ -2067,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 579326,
+      "num": 508329,
+      "word": "金智秀获MAMA最佳表演女歌手",
+      "onboard_time": 1701255935,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 574399,
       "num": 574399,
       "word": "国考和考研哪个难",
@@ -2249,6 +2281,14 @@
       "onboard_time": 1701244473,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 543592,
+      "num": 543592,
+      "word": "华为校招 高颜值HR",
+      "onboard_time": 1701255935,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543307,
@@ -2473,14 +2513,6 @@
       "onboard_time": 1700975494,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 508329,
-      "num": 508329,
-      "word": "金智秀获MAMA最佳表演女歌手",
-      "onboard_time": 1701255935,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 508093,
@@ -3067,6 +3099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 436357,
+      "num": 283342,
+      "word": "刘诗诗 谁是你表妹",
+      "onboard_time": 1701255576,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434527,
       "num": 434527,
       "word": "新闻女王梁景仁遭心腹背叛",
@@ -3081,6 +3121,14 @@
       "onboard_time": 1701170134,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 434066,
+      "num": 292919,
+      "word": "沈小婷 蛇小婷",
+      "onboard_time": 1701255935,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 433970,
@@ -3105,6 +3153,14 @@
       "onboard_time": 1701088054,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430438,
+      "num": 237501,
+      "word": "何猷君 我是上海女婿",
+      "onboard_time": 1701256057,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 429008,
@@ -3297,14 +3353,6 @@
       "onboard_time": 1701227496,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 408164,
-      "num": 292919,
-      "word": "沈小婷 蛇小婷",
-      "onboard_time": 1701255935,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 406600,
@@ -3537,14 +3585,6 @@
       "onboard_time": 1701081575,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387610,
-      "num": 290221,
-      "word": "利智",
-      "onboard_time": 1701256057,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 386783,
@@ -3809,14 +3849,6 @@
       "onboard_time": 1700969194,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352951,
-      "num": 283342,
-      "word": "刘诗诗 谁是你表妹",
-      "onboard_time": 1701255576,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 350248,
@@ -4619,14 +4651,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 297622,
-      "num": 297622,
-      "word": "海底捞部分门店不让跳科目三了",
-      "onboard_time": 1701255815,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295978,
       "num": 243622,
       "word": "胡先煦 沙特人是真的很喜欢中国人",
@@ -5075,12 +5099,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 276274,
-      "num": 276274,
-      "word": "papi酱 新型骗局",
-      "onboard_time": 1701256175,
-      "rank": 30,
-      "category": "网红"
+      "raw_hot": 276562,
+      "num": 281887,
+      "word": "韩国烫头 中国托尼",
+      "onboard_time": 1701254258,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 275743,
@@ -5097,6 +5121,14 @@
       "onboard_time": 1701145239,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275472,
+      "num": 180167,
+      "word": "SEVENTEEN获MAMA最佳舞蹈表演男团",
+      "onboard_time": 1701254975,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 274838,
@@ -5563,6 +5595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253389,
+      "num": 297492,
+      "word": "狗子为了合群假装不认识主人",
+      "onboard_time": 1701251376,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253203,
       "num": 253203,
       "word": "孙丞潇给金莎做了十斤的火鸡",
@@ -5803,6 +5843,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244505,
+      "num": 179453,
+      "word": "新闻女王徐晓薇的学历造假",
+      "onboard_time": 1701256301,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244147,
+      "num": 178493,
+      "word": "迪丽热巴一铲子定住了王安宇的船",
+      "onboard_time": 1701257196,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244105,
       "num": 221222,
       "word": "张凌赫情绪怪稳定的",
@@ -5995,14 +6051,6 @@
       "category": "自然,教育"
     },
     {
-      "raw_hot": 237501,
-      "num": 237501,
-      "word": "何猷君 我是上海女婿",
-      "onboard_time": 1701256057,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236651,
       "num": 197713,
       "word": "十个勤天 阳光中的耕田少年",
@@ -6075,14 +6123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234141,
-      "num": 297492,
-      "word": "狗子为了合群假装不认识主人",
-      "onboard_time": 1701251376,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233768,
       "num": 233768,
       "word": "金泰妍迷你五辑to.X",
@@ -6105,14 +6145,6 @@
       "onboard_time": 1700996732,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232889,
-      "num": 281887,
-      "word": "韩国烫头 中国托尼",
-      "onboard_time": 1701254258,
-      "rank": 23,
-      "category": "美妆"
     },
     {
       "raw_hot": 232810,
@@ -7179,6 +7211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199766,
+      "num": 176718,
+      "word": "花少5龙龙真的太可怜了",
+      "onboard_time": 1701256301,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199711,
       "num": 199711,
       "word": "陈奕迅是esfp",
@@ -7265,6 +7305,14 @@
       "onboard_time": 1701252039,
       "rank": 33,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 197893,
+      "num": 193933,
+      "word": "王星越回应张遮面包哥",
+      "onboard_time": 1701256475,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 197590,
@@ -7459,14 +7507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193933,
-      "num": 193933,
-      "word": "王星越回应张遮面包哥",
-      "onboard_time": 1701256475,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193921,
       "num": 193921,
       "word": "翻到了奶奶初恋写给她的信件",
@@ -7625,6 +7665,14 @@
       "onboard_time": 1700984013,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 191116,
+      "num": 191116,
+      "word": "红米k70",
+      "onboard_time": 1701256898,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 190857,
@@ -8123,6 +8171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181499,
+      "num": 181499,
+      "word": "冬季狠人减肥法",
+      "onboard_time": 1701256655,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 180960,
       "num": 180960,
       "word": "赵昭仪回应被叫妹宝",
@@ -8265,6 +8321,14 @@
       "onboard_time": 1701054156,
       "rank": 40,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 176431,
+      "num": 176431,
+      "word": "鹅腿阿姨哽咽称压力太大",
+      "onboard_time": 1701257376,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176358,
@@ -8643,14 +8707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 166510,
-      "num": 166510,
-      "word": "新闻女王徐晓薇的学历造假",
-      "onboard_time": 1701256301,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166432,
       "num": 166432,
       "word": "SEVENTEEN机场大衣秀",
@@ -8689,14 +8745,6 @@
       "onboard_time": 1701001416,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165384,
-      "num": 276340,
-      "word": "华为校招 高颜值HR",
-      "onboard_time": 1701255935,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165262,
@@ -8752,14 +8800,6 @@
       "word": "周一围 细节里的爱意",
       "onboard_time": 1701228155,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 163830,
-      "num": 163830,
-      "word": "花少5龙龙真的太可怜了",
-      "onboard_time": 1701256301,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -9129,6 +9169,14 @@
       "onboard_time": 1701182857,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 154379,
+      "num": 154379,
+      "word": "白鹿给张凌赫王星越拉架好忙碌",
+      "onboard_time": 1701257557,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 153952,
@@ -10108,7 +10156,7 @@
     },
     {
       "raw_hot": 117905,
-      "num": 136842,
+      "num": 154377,
       "word": "萌兰和越狱神器只隔了5cm",
       "onboard_time": 1701253179,
       "rank": 49,
@@ -10156,7 +10204,7 @@
     },
     {
       "raw_hot": 113892,
-      "num": 117535,
+      "num": 154348,
       "word": "女子与网友互换特产收到金戒指",
       "onboard_time": 1701256175,
       "rank": 48,
@@ -10499,6 +10547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86109,
+      "num": 302249,
+      "word": "杭州一老年食堂请名厨教做菜",
+      "onboard_time": 1701257254,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84932,
       "num": 232319,
       "word": "华为凭什么重新定义汽车底盘",
@@ -10561,6 +10617,14 @@
       "onboard_time": 1700908781,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75995,
+      "num": 358234,
+      "word": "俯瞰在红色记忆深处的北京建筑",
+      "onboard_time": 1701257137,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75855,
@@ -10955,6 +11019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40237,
+      "num": 1101672,
+      "word": "最深的鞠躬表达最衷心的感谢",
+      "onboard_time": 1701256416,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38139,
       "num": 198003,
       "word": "欧阳娜娜看秀版ootd",
@@ -11167,14 +11239,6 @@
       "num": 1085143,
       "word": "在数贸会现场遇见未来生活",
       "onboard_time": 1701142412,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5316,
-      "num": 1101672,
-      "word": "最深的鞠躬表达最衷心的感谢",
-      "onboard_time": 1701256416,
       "rank": 2,
       "category": "社会新闻"
     }

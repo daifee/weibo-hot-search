@@ -1,0 +1,410 @@
+{
+  "runTime": 1701257666180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 630391,
+        "num": 630391,
+        "word": "海底捞部分门店不让跳科目三了",
+        "onboard_time": 1701255815,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197779,
+        "num": 570723,
+        "word": "民警15秒出警35秒救人",
+        "onboard_time": 1701251436,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40237,
+        "num": 552139,
+        "word": "最深的鞠躬表达最衷心的感谢",
+        "onboard_time": 1701256416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1292393,
+        "num": 548977,
+        "word": "李维嘉 生命最后三天也要做家务",
+        "onboard_time": 1701251915,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543592,
+        "num": 543592,
+        "word": "华为校招 高颜值HR",
+        "onboard_time": 1701255935,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75995,
+        "num": 358234,
+        "word": "俯瞰在红色记忆深处的北京建筑",
+        "onboard_time": 1701257137,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86109,
+        "num": 302249,
+        "word": "杭州一老年食堂请名厨教做菜",
+        "onboard_time": 1701257254,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1055918,
+        "num": 297281,
+        "word": "李连杰采访 死后不立碑不办丧事",
+        "onboard_time": 1701254015,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287073,
+        "num": 287073,
+        "word": "滴滴致歉补偿券领不了",
+        "onboard_time": 1701242914,
+        "rank": 8,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 253389,
+        "num": 253389,
+        "word": "狗子为了合群假装不认识主人",
+        "onboard_time": 1701251376,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1292005,
+        "num": 251276,
+        "word": "利智",
+        "onboard_time": 1701256057,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834170,
+        "num": 245378,
+        "word": "papi酱 新型骗局",
+        "onboard_time": 1701256175,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 608468,
+        "num": 241894,
+        "word": "gidle 黑天鹅",
+        "onboard_time": 1701254618,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 436357,
+        "num": 233026,
+        "word": "刘诗诗 谁是你表妹",
+        "onboard_time": 1701255576,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323013,
+        "num": 230175,
+        "word": "4岁男童被父亲扯后衣领提起窒息身亡",
+        "onboard_time": 1701237035,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579326,
+        "num": 227529,
+        "word": "金智秀获MAMA最佳表演女歌手",
+        "onboard_time": 1701255935,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 430438,
+        "num": 218753,
+        "word": "何猷君 我是上海女婿",
+        "onboard_time": 1701256057,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434066,
+        "num": 214379,
+        "word": "沈小婷 蛇小婷",
+        "onboard_time": 1701255935,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 455247,
+        "num": 207616,
+        "word": "佘诗曼回应美甲15年来没变过",
+        "onboard_time": 1701241653,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276562,
+        "num": 205743,
+        "word": "韩国烫头 中国托尼",
+        "onboard_time": 1701254258,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 202482,
+        "num": 202482,
+        "word": "微软 丑毛衣",
+        "onboard_time": 1701253361,
+        "rank": 20,
+        "category": "互联网,时尚"
+      },
+      {
+        "raw_hot": 397955,
+        "num": 202288,
+        "word": "迪丽热巴 恶女戏",
+        "onboard_time": 1701248735,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191116,
+        "num": 191116,
+        "word": "红米k70",
+        "onboard_time": 1701256898,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185468,
+        "num": 185468,
+        "word": "女生经期 不能按摩",
+        "onboard_time": 1701244473,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352141,
+        "num": 184666,
+        "word": "刘亦菲换轮胎",
+        "onboard_time": 1701249756,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 323070,
+        "num": 183538,
+        "word": "MAMA",
+        "onboard_time": 1701250297,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317602,
+        "num": 182491,
+        "word": "早恋其实一眼就能看出来",
+        "onboard_time": 1701252155,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337981,
+        "num": 182301,
+        "word": "王一博现身小米园区",
+        "onboard_time": 1701251977,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181499,
+        "num": 181499,
+        "word": "冬季狠人减肥法",
+        "onboard_time": 1701256655,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 114110,
+        "num": 181169,
+        "word": "外交部回应日本驻华大使探望被拘留日本公民",
+        "onboard_time": 1701245855,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323268,
+        "num": 180300,
+        "word": "肖战卡其色穿搭上班路透",
+        "onboard_time": 1701253718,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275472,
+        "num": 180167,
+        "word": "SEVENTEEN获MAMA最佳舞蹈表演男团",
+        "onboard_time": 1701254975,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244505,
+        "num": 179453,
+        "word": "新闻女王徐晓薇的学历造假",
+        "onboard_time": 1701256301,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244147,
+        "num": 178493,
+        "word": "迪丽热巴一铲子定住了王安宇的船",
+        "onboard_time": 1701257196,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242544,
+        "num": 178315,
+        "word": "神兵小将第三季",
+        "onboard_time": 1701248853,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 222666,
+        "num": 177340,
+        "word": "汪苏泷染头哭了",
+        "onboard_time": 1701252039,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199766,
+        "num": 176718,
+        "word": "花少5龙龙真的太可怜了",
+        "onboard_time": 1701256301,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176431,
+        "num": 176431,
+        "word": "鹅腿阿姨哽咽称压力太大",
+        "onboard_time": 1701257376,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167461,
+        "num": 167461,
+        "word": "4万元金条收货后被直接扔了",
+        "onboard_time": 1701242013,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157400,
+        "num": 157400,
+        "word": "会韩语的朋友请留步",
+        "onboard_time": 1701251376,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197893,
+        "num": 157316,
+        "word": "王星越回应张遮面包哥",
+        "onboard_time": 1701256475,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178796,
+        "num": 156442,
+        "word": "张杰偷跑物料",
+        "onboard_time": 1701252214,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171425,
+        "num": 155692,
+        "word": "李晨说周淑怡是他心里的一姐",
+        "onboard_time": 1701246635,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132532,
+        "num": 155368,
+        "word": "水哥43岁状态",
+        "onboard_time": 1701243454,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118683,
+        "num": 154882,
+        "word": "海南航空HU7175紧急备降广州",
+        "onboard_time": 1701239914,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154379,
+        "num": 154379,
+        "word": "白鹿给张凌赫王星越拉架好忙碌",
+        "onboard_time": 1701257557,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117108,
+        "num": 154377,
+        "word": "萌兰和越狱神器只隔了5cm",
+        "onboard_time": 1701253179,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105814,
+        "num": 154370,
+        "word": "法国女高 群像",
+        "onboard_time": 1701255339,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104593,
+        "num": 154357,
+        "word": "e人和i狗",
+        "onboard_time": 1701247594,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103108,
+        "num": 154348,
+        "word": "女子与网友互换特产收到金戒指",
+        "onboard_time": 1701256175,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进优质网络文化产品生产传播#"
+    }
+  }
+}

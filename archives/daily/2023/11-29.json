@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701256510432,
+  "endTime": 1701257666180,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -112,6 +112,14 @@
       "word": "水哥43岁状态",
       "onboard_time": 1701243454,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1292005,
+      "num": 290221,
+      "word": "利智",
+      "onboard_time": 1701256057,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -267,6 +275,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 834170,
+      "num": 276274,
+      "word": "papi酱 新型骗局",
+      "onboard_time": 1701256175,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 821819,
       "num": 821819,
       "word": "海南航空HU7175紧急备降广州",
@@ -387,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630391,
+      "num": 630391,
+      "word": "海底捞部分门店不让跳科目三了",
+      "onboard_time": 1701255815,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629548,
       "num": 629548,
       "word": "迪丽热巴填补了秦海璐的遗憾",
@@ -443,6 +467,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 579326,
+      "num": 508329,
+      "word": "金智秀获MAMA最佳表演女歌手",
+      "onboard_time": 1701255935,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 576645,
       "num": 289426,
       "word": "珠海机场 广播寻找杨幂",
@@ -491,6 +523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 543592,
+      "num": 543592,
+      "word": "华为校招 高颜值HR",
+      "onboard_time": 1701255935,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530043,
       "num": 293612,
       "word": "胃癌发现时大多是中晚期",
@@ -529,14 +569,6 @@
       "onboard_time": 1701217657,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 508329,
-      "num": 508329,
-      "word": "金智秀获MAMA最佳表演女歌手",
-      "onboard_time": 1701255935,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 508093,
@@ -635,6 +667,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436357,
+      "num": 283342,
+      "word": "刘诗诗 谁是你表妹",
+      "onboard_time": 1701255576,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 434066,
+      "num": 292919,
+      "word": "沈小婷 蛇小婷",
+      "onboard_time": 1701255935,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 430438,
+      "num": 237501,
+      "word": "何猷君 我是上海女婿",
+      "onboard_time": 1701256057,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427635,
       "num": 427635,
       "word": "张凌赫 理工男的嘴不会放过任何人",
@@ -683,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408164,
-      "num": 292919,
-      "word": "沈小婷 蛇小婷",
-      "onboard_time": 1701255935,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 401754,
       "num": 401754,
       "word": "勇士赢国王12分将晋级",
@@ -713,14 +761,6 @@
       "onboard_time": 1701251615,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387610,
-      "num": 290221,
-      "word": "利智",
-      "onboard_time": 1701256057,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 385666,
@@ -769,14 +809,6 @@
       "onboard_time": 1701232421,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 352951,
-      "num": 283342,
-      "word": "刘诗诗 谁是你表妹",
-      "onboard_time": 1701255576,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 348842,
@@ -963,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297622,
-      "num": 297622,
-      "word": "海底捞部分门店不让跳科目三了",
-      "onboard_time": 1701255815,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295561,
       "num": 295561,
       "word": "哈佛大学将推出霉霉课程",
@@ -1083,12 +1107,12 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 276274,
-      "num": 276274,
-      "word": "papi酱 新型骗局",
-      "onboard_time": 1701256175,
-      "rank": 30,
-      "category": "网红"
+      "raw_hot": 276562,
+      "num": 281887,
+      "word": "韩国烫头 中国托尼",
+      "onboard_time": 1701254258,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 275743,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1701229236,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 275472,
+      "num": 180167,
+      "word": "SEVENTEEN获MAMA最佳舞蹈表演男团",
+      "onboard_time": 1701254975,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 274611,
@@ -1171,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253389,
+      "num": 297492,
+      "word": "狗子为了合群假装不认识主人",
+      "onboard_time": 1701251376,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253379,
       "num": 253379,
       "word": "胃病发展成胃癌的五个征兆",
@@ -1227,6 +1267,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244505,
+      "num": 179453,
+      "word": "新闻女王徐晓薇的学历造假",
+      "onboard_time": 1701256301,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244147,
+      "num": 178493,
+      "word": "迪丽热巴一铲子定住了王安宇的船",
+      "onboard_time": 1701257196,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243187,
       "num": 243187,
       "word": "南海归墟 古猜",
@@ -1267,36 +1323,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 237501,
-      "num": 237501,
-      "word": "何猷君 我是上海女婿",
-      "onboard_time": 1701256057,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235319,
       "num": 235319,
       "word": "白鹿郑书意婚礼花絮",
       "onboard_time": 1701239436,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234141,
-      "num": 297492,
-      "word": "狗子为了合群假装不认识主人",
-      "onboard_time": 1701251376,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 232889,
-      "num": 281887,
-      "word": "韩国烫头 中国托尼",
-      "onboard_time": 1701254258,
-      "rank": 23,
-      "category": "美妆"
     },
     {
       "raw_hot": 232494,
@@ -1507,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199766,
+      "num": 176718,
+      "word": "花少5龙龙真的太可怜了",
+      "onboard_time": 1701256301,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199711,
       "num": 199711,
       "word": "陈奕迅是esfp",
@@ -1529,6 +1569,14 @@
       "onboard_time": 1701252039,
       "rank": 33,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 197893,
+      "num": 193933,
+      "word": "王星越回应张遮面包哥",
+      "onboard_time": 1701256475,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 197310,
@@ -1571,14 +1619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193933,
-      "num": 193933,
-      "word": "王星越回应张遮面包哥",
-      "onboard_time": 1701256475,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192769,
       "num": 192769,
       "word": "熊猫长牙了莫斯科动物园第一时间展示",
@@ -1601,6 +1641,14 @@
       "onboard_time": 1701245717,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191116,
+      "num": 191116,
+      "word": "红米k70",
+      "onboard_time": 1701256898,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 190337,
@@ -1715,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181499,
+      "num": 181499,
+      "word": "冬季狠人减肥法",
+      "onboard_time": 1701256655,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 178689,
       "num": 153385,
       "word": "吴千语不公开恋情的原因",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1701246694,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176431,
+      "num": 176431,
+      "word": "鹅腿阿姨哽咽称压力太大",
+      "onboard_time": 1701257376,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176222,
@@ -1835,22 +1899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166510,
-      "num": 166510,
-      "word": "新闻女王徐晓薇的学历造假",
-      "onboard_time": 1701256301,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165384,
-      "num": 276340,
-      "word": "华为校招 高颜值HR",
-      "onboard_time": 1701255935,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164676,
       "num": 164676,
       "word": "男子一路尾随女子趁等电梯多次猥亵",
@@ -1864,14 +1912,6 @@
       "word": "周一围 细节里的爱意",
       "onboard_time": 1701228155,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 163830,
-      "num": 163830,
-      "word": "花少5龙龙真的太可怜了",
-      "onboard_time": 1701256301,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1953,6 +1993,14 @@
       "onboard_time": 1701220056,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154379,
+      "num": 154379,
+      "word": "白鹿给张凌赫王星越拉架好忙碌",
+      "onboard_time": 1701257557,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 153816,
@@ -2180,7 +2228,7 @@
     },
     {
       "raw_hot": 117905,
-      "num": 136842,
+      "num": 154377,
       "word": "萌兰和越狱神器只隔了5cm",
       "onboard_time": 1701253179,
       "rank": 49,
@@ -2212,7 +2260,7 @@
     },
     {
       "raw_hot": 113892,
-      "num": 117535,
+      "num": 154348,
       "word": "女子与网友互换特产收到金戒指",
       "onboard_time": 1701256175,
       "rank": 48,
@@ -2363,6 +2411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86109,
+      "num": 302249,
+      "word": "杭州一老年食堂请名厨教做菜",
+      "onboard_time": 1701257254,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84521,
       "num": 447994,
       "word": "诛仙世界定价权交给玩家",
@@ -2385,6 +2441,14 @@
       "onboard_time": 1701182857,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 75995,
+      "num": 358234,
+      "word": "俯瞰在红色记忆深处的北京建筑",
+      "onboard_time": 1701257137,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73205,
@@ -2459,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40237,
+      "num": 1101672,
+      "word": "最深的鞠躬表达最衷心的感谢",
+      "onboard_time": 1701256416,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31503,
       "num": 32292,
       "word": "流感",
@@ -2505,14 +2577,6 @@
       "onboard_time": 1701198134,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 5316,
-      "num": 1101672,
-      "word": "最深的鞠躬表达最衷心的感谢",
-      "onboard_time": 1701256416,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
