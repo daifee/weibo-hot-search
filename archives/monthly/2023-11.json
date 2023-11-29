@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701264830983,
+  "endTime": 1701267344110,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -3083,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1711914,
+      "num": 1711914,
+      "word": "LV大秀 王鹤棣",
+      "onboard_time": 1701264035,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1711628,
       "num": 1711628,
       "word": "奶茶店主故意加违禁药致女子中毒",
@@ -5435,6 +5443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1256242,
+      "num": 1256242,
+      "word": "公务员献血事件女子父亲回应包机转院",
+      "onboard_time": 1701264939,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1253094,
       "num": 1253094,
       "word": "日本网民称福原爱被宠坏了",
@@ -6105,6 +6121,14 @@
       "onboard_time": 1699687171,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1163060,
+      "num": 1163060,
+      "word": "工作室回应张杰偷跑物料",
+      "onboard_time": 1701263618,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1162103,
@@ -10017,6 +10041,14 @@
       "onboard_time": 1700368231,
       "rank": 33,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 806543,
+      "num": 806543,
+      "word": "一念关山破万全员跳女团舞",
+      "onboard_time": 1701264635,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 806221,
@@ -14067,14 +14099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 632417,
-      "num": 632417,
-      "word": "LV大秀 王鹤棣",
-      "onboard_time": 1701264035,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 632360,
       "num": 632360,
       "word": "李佳琦公司回应员工收百万好处费",
@@ -16131,6 +16155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574109,
+      "num": 574109,
+      "word": "钱可以慢慢攒但命没有第二次",
+      "onboard_time": 1701263677,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 574046,
       "num": 430906,
       "word": "仲尼生日当天遇难",
@@ -16345,6 +16377,14 @@
       "onboard_time": 1700059294,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569288,
+      "num": 454191,
+      "word": "文俊辉直播",
+      "onboard_time": 1699174056,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 569262,
@@ -17859,6 +17899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529341,
+      "num": 529341,
+      "word": "女子排队礼让孕妇后被其他人礼让",
+      "onboard_time": 1701265235,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529149,
       "num": 529149,
       "word": "何猷君奚梦瑶 严父慈母",
@@ -18753,14 +18801,6 @@
       "onboard_time": 1700744562,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 507678,
-      "num": 507678,
-      "word": "工作室回应张杰偷跑物料",
-      "onboard_time": 1701263618,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 507308,
@@ -21113,6 +21153,14 @@
       "onboard_time": 1699109380,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460475,
+      "num": 386892,
+      "word": "于适 一加",
+      "onboard_time": 1701264821,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 460374,
@@ -23843,6 +23891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413193,
+      "num": 413193,
+      "word": "一念关山热度",
+      "onboard_time": 1701265597,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413013,
       "num": 413013,
       "word": "天官赐福花怜名场面",
@@ -25171,6 +25227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394743,
+      "num": 394743,
+      "word": "拆完快递 洗手",
+      "onboard_time": 1701261701,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 394291,
       "num": 1451614,
       "word": "美国人工智能判定美国登月任务照片是假的",
@@ -25705,14 +25769,6 @@
       "onboard_time": 1699006955,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387599,
-      "num": 254180,
-      "word": "钱可以慢慢攒但命没有第二次",
-      "onboard_time": 1701263677,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 387553,
@@ -34171,6 +34227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 290924,
+      "num": 245151,
+      "word": "刘诗诗打戏感觉真的会武功",
+      "onboard_time": 1701266859,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290847,
       "num": 290847,
       "word": "北京流感发病人数呈快速上升趋势",
@@ -38651,14 +38715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256375,
-      "num": 256375,
-      "word": "拆完快递 洗手",
-      "onboard_time": 1701261701,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 256316,
       "num": 256316,
       "word": "赵丽颖雪祭司妆容解析",
@@ -39099,6 +39155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 253176,
+      "num": 236244,
+      "word": "SEVENTEEN从受人指点到大赏",
+      "onboard_time": 1701264704,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253164,
       "num": 231128,
       "word": "秦岚迪丽热巴赵昭仪吃的好香",
@@ -39193,6 +39257,14 @@
       "onboard_time": 1698829174,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252622,
+      "num": 236084,
+      "word": "spotify年度",
+      "onboard_time": 1701266799,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 252577,
@@ -39489,6 +39561,14 @@
       "onboard_time": 1699846470,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 250830,
+      "num": 235452,
+      "word": "一念关山直播",
+      "onboard_time": 1701266199,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 250758,
@@ -41931,6 +42011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236482,
+      "num": 236482,
+      "word": "白羊座的友谊是一对一的",
+      "onboard_time": 1701262777,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236333,
       "num": 236333,
       "word": "专家建议秋冬季每周洗1到2次澡",
@@ -42097,6 +42185,14 @@
       "onboard_time": 1699181796,
       "rank": 36,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 235449,
+      "num": 235449,
+      "word": "徐明浩MAMA中文获奖感言",
+      "onboard_time": 1701263018,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 235319,
@@ -45059,14 +45155,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 219620,
-      "num": 219620,
-      "word": "白羊座的友谊是一对一的",
-      "onboard_time": 1701262777,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219580,
       "num": 219580,
       "word": "关晓彤新中式穿搭",
@@ -46331,14 +46419,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 213514,
-      "num": 161411,
-      "word": "文俊辉直播",
-      "onboard_time": 1699174056,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213499,
       "num": 213499,
       "word": "一路前行定档",
@@ -46859,6 +46939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 211236,
+      "num": 211236,
+      "word": "那是妈妈 指甲长反也不会害我",
+      "onboard_time": 1701267217,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211219,
       "num": 211219,
       "word": "友情最可怕的不是绝交",
@@ -47129,6 +47217,14 @@
       "onboard_time": 1699426780,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210201,
+      "num": 236408,
+      "word": "PUBG",
+      "onboard_time": 1701266438,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 210154,
@@ -51251,6 +51347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196799,
+      "num": 143127,
+      "word": "陈伟霆林超贤 从籍籍无名到顶峰相见",
+      "onboard_time": 1701265901,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196750,
       "num": 196750,
       "word": "杜兰特关键失误",
@@ -51321,14 +51425,6 @@
       "onboard_time": 1699709374,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196596,
-      "num": 196596,
-      "word": "一念关山破万全员跳女团舞",
-      "onboard_time": 1701264635,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 196586,
@@ -51857,14 +51953,6 @@
       "onboard_time": 1699965691,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194826,
-      "num": 194826,
-      "word": "SEVENTEEN从受人指点到大赏",
-      "onboard_time": 1701264704,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 194801,
@@ -52689,6 +52777,14 @@
       "onboard_time": 1699758452,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192245,
+      "num": 137329,
+      "word": "刘宇宁 打戏招招丝滑",
+      "onboard_time": 1701266380,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 192233,
@@ -58273,6 +58369,14 @@
       "onboard_time": 1701157831,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172094,
+      "num": 172094,
+      "word": "AG战胜TLN",
+      "onboard_time": 1701266859,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 172035,
@@ -66307,6 +66411,14 @@
       "category": "美妆,知识科普"
     },
     {
+      "raw_hot": 141384,
+      "num": 134642,
+      "word": "你最怀念的校门口小吃是啥",
+      "onboard_time": 1701267159,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141379,
       "num": 141379,
       "word": "es卡池预告",
@@ -66369,6 +66481,14 @@
       "onboard_time": 1699109802,
       "rank": 33,
       "category": "其它"
+    },
+    {
+      "raw_hot": 141198,
+      "num": 141198,
+      "word": "据说这是萌兰最想删除的视频",
+      "onboard_time": 1701265780,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141119,
@@ -68441,6 +68561,14 @@
       "onboard_time": 1698903455,
       "rank": 40,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 132961,
+      "num": 132961,
+      "word": "美团市值两天蒸发超千亿港元",
+      "onboard_time": 1701267159,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 132942,
@@ -80918,6 +81046,9 @@
     },
     {
       "word": "#习近平在上海考察调研#"
+    },
+    {
+      "word": "#习近平在上海市考察调研#"
     }
   ]
 }

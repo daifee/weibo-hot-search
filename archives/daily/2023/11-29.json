@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701264830983,
+  "endTime": 1701267344110,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -65,6 +65,14 @@
       "onboard_time": 1701256175,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1711914,
+      "num": 1711914,
+      "word": "LV大秀 王鹤棣",
+      "onboard_time": 1701264035,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1618435,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1256242,
+      "num": 1256242,
+      "word": "公务员献血事件女子父亲回应包机转院",
+      "onboard_time": 1701264939,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1249182,
       "num": 968649,
       "word": "4岁男童被父亲扯后衣领提起窒息身亡",
@@ -201,6 +217,14 @@
       "onboard_time": 1701230556,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1163060,
+      "num": 1163060,
+      "word": "工作室回应张杰偷跑物料",
+      "onboard_time": 1701263618,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1088434,
@@ -321,6 +345,14 @@
       "onboard_time": 1701239914,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806543,
+      "num": 806543,
+      "word": "一念关山破万全员跳女团舞",
+      "onboard_time": 1701264635,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 804090,
@@ -467,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632417,
-      "num": 632417,
-      "word": "LV大秀 王鹤棣",
-      "onboard_time": 1701264035,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 629548,
       "num": 629548,
       "word": "迪丽热巴填补了秦海璐的遗憾",
@@ -555,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574109,
+      "num": 574109,
+      "word": "钱可以慢慢攒但命没有第二次",
+      "onboard_time": 1701263677,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 572981,
       "num": 572981,
       "word": "傅首尔老刘 允许离开的发生",
       "onboard_time": 1701218075,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569288,
+      "num": 454191,
+      "word": "文俊辉直播",
+      "onboard_time": 1701265177,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 562477,
@@ -611,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529341,
+      "num": 529341,
+      "word": "女子排队礼让孕妇后被其他人礼让",
+      "onboard_time": 1701265235,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520377,
       "num": 520377,
       "word": "审判一念关山",
@@ -656,14 +704,6 @@
       "word": "肖战卡其色穿搭上班路透",
       "onboard_time": 1701253718,
       "rank": 8,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 507678,
-      "num": 507678,
-      "word": "工作室回应张杰偷跑物料",
-      "onboard_time": 1701263618,
-      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -728,6 +768,14 @@
       "word": "美颜把魏大勋酒窝都磨没了",
       "onboard_time": 1701223835,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 460475,
+      "num": 386892,
+      "word": "于适 一加",
+      "onboard_time": 1701264821,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -811,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 413193,
+      "num": 413193,
+      "word": "一念关山热度",
+      "onboard_time": 1701265597,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411420,
       "num": 302556,
       "word": "男童手臂伸进笼子被藏獒咬断",
@@ -859,20 +915,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 394743,
+      "num": 394743,
+      "word": "拆完快递 洗手",
+      "onboard_time": 1701261701,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 394289,
       "num": 394289,
       "word": "教练拎起迪丽热巴就跟小鸡仔一样",
       "onboard_time": 1701251615,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387599,
-      "num": 254180,
-      "word": "钱可以慢慢攒但命没有第二次",
-      "onboard_time": 1701263677,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 385666,
@@ -1163,6 +1219,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 290924,
+      "num": 245151,
+      "word": "刘诗诗打戏感觉真的会武功",
+      "onboard_time": 1701266859,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290842,
       "num": 290842,
       "word": "大连通报鬼秤事件处罚结果",
@@ -1379,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256375,
-      "num": 256375,
-      "word": "拆完快递 洗手",
-      "onboard_time": 1701261701,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 253474,
       "num": 253474,
       "word": "怒海 不配当爹但喜欢当爹",
@@ -1411,6 +1467,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 253176,
+      "num": 236244,
+      "word": "SEVENTEEN从受人指点到大赏",
+      "onboard_time": 1701264704,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 252622,
+      "num": 236084,
+      "word": "spotify年度",
+      "onboard_time": 1701266799,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251959,
       "num": 251959,
       "word": "伊朗海军向美航母打击群发出警告",
@@ -1425,6 +1497,14 @@
       "onboard_time": 1701260798,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250830,
+      "num": 235452,
+      "word": "一念关山直播",
+      "onboard_time": 1701266199,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 249222,
@@ -1539,6 +1619,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 236482,
+      "num": 236482,
+      "word": "白羊座的友谊是一对一的",
+      "onboard_time": 1701262777,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 235449,
+      "num": 235449,
+      "word": "徐明浩MAMA中文获奖感言",
+      "onboard_time": 1701263018,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235319,
       "num": 235319,
       "word": "白鹿郑书意婚礼花絮",
@@ -1635,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219620,
-      "num": 219620,
-      "word": "白羊座的友谊是一对一的",
-      "onboard_time": 1701262777,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219261,
       "num": 292599,
       "word": "微软 丑毛衣",
@@ -1681,6 +1769,22 @@
       "onboard_time": 1701248435,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 211236,
+      "num": 211236,
+      "word": "那是妈妈 指甲长反也不会害我",
+      "onboard_time": 1701267217,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 210201,
+      "num": 236408,
+      "word": "PUBG",
+      "onboard_time": 1701266438,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 209955,
@@ -1867,20 +1971,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196799,
+      "num": 143127,
+      "word": "陈伟霆林超贤 从籍籍无名到顶峰相见",
+      "onboard_time": 1701265901,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196609,
       "num": 196609,
       "word": "鹿晗绚烂光影胶片写真",
       "onboard_time": 1701231217,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 196596,
-      "num": 196596,
-      "word": "一念关山破万全员跳女团舞",
-      "onboard_time": 1701264635,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 196519,
@@ -1897,14 +2001,6 @@
       "onboard_time": 1701250114,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194826,
-      "num": 194826,
-      "word": "SEVENTEEN从受人指点到大赏",
-      "onboard_time": 1701264704,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 194247,
@@ -1936,6 +2032,14 @@
       "word": "宁远舟身世",
       "onboard_time": 1701217117,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192245,
+      "num": 137329,
+      "word": "刘宇宁 打戏招招丝滑",
+      "onboard_time": 1701266380,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -2144,6 +2248,14 @@
       "word": "LNG Bsyy",
       "onboard_time": 1701232779,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 172094,
+      "num": 172094,
+      "word": "AG战胜TLN",
+      "onboard_time": 1701266859,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -2411,12 +2523,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 141384,
+      "num": 134642,
+      "word": "你最怀念的校门口小吃是啥",
+      "onboard_time": 1701267159,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141340,
       "num": 141340,
       "word": "光与夜之恋 男主宝宝们",
       "onboard_time": 1701238774,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141198,
+      "num": 141198,
+      "word": "据说这是萌兰最想删除的视频",
+      "onboard_time": 1701265780,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138837,
@@ -2481,6 +2609,14 @@
       "onboard_time": 1701262836,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132961,
+      "num": 132961,
+      "word": "美团市值两天蒸发超千亿港元",
+      "onboard_time": 1701267159,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 130481,
@@ -2946,6 +3082,9 @@
     },
     {
       "word": "#习近平在上海考察调研#"
+    },
+    {
+      "word": "#习近平在上海市考察调研#"
     }
   ]
 }

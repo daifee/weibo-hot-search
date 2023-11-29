@@ -1,0 +1,410 @@
+{
+  "runTime": 1701267344110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1711914,
+        "num": 1711914,
+        "word": "LV大秀 王鹤棣",
+        "onboard_time": 1701264035,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1256242,
+        "num": 1256242,
+        "word": "公务员献血事件女子父亲回应包机转院",
+        "onboard_time": 1701264939,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80543,
+        "num": 1179980,
+        "word": "最深的鞠躬表达最衷心的感谢",
+        "onboard_time": 1701256416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163060,
+        "num": 1163060,
+        "word": "工作室回应张杰偷跑物料",
+        "onboard_time": 1701263618,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 904411,
+        "num": 904411,
+        "word": "papi酱 新型骗局",
+        "onboard_time": 1701256175,
+        "rank": 4,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 806543,
+        "num": 806543,
+        "word": "一念关山破万全员跳女团舞",
+        "onboard_time": 1701264635,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 667147,
+        "num": 667147,
+        "word": "利智",
+        "onboard_time": 1701256057,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574109,
+        "num": 574109,
+        "word": "钱可以慢慢攒但命没有第二次",
+        "onboard_time": 1701263677,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529341,
+        "num": 529341,
+        "word": "女子排队礼让孕妇后被其他人礼让",
+        "onboard_time": 1701265235,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474190,
+        "num": 474190,
+        "word": "k70价格",
+        "onboard_time": 1701262418,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1932303,
+        "num": 461125,
+        "word": "潘玮柏结婚照",
+        "onboard_time": 1701261103,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569288,
+        "num": 454191,
+        "word": "文俊辉直播",
+        "onboard_time": 1701265177,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 993078,
+        "num": 437641,
+        "word": "阿里公务员",
+        "onboard_time": 1701259655,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561054,
+        "num": 417022,
+        "word": "举报权志龙吸毒的人推翻口供",
+        "onboard_time": 1701259538,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413193,
+        "num": 413193,
+        "word": "一念关山热度",
+        "onboard_time": 1701265597,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394743,
+        "num": 394743,
+        "word": "拆完快递 洗手",
+        "onboard_time": 1701261701,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460475,
+        "num": 386892,
+        "word": "于适 一加",
+        "onboard_time": 1701264821,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347377,
+        "num": 347377,
+        "word": "刘诗诗 谁是你表妹",
+        "onboard_time": 1701255576,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297143,
+        "num": 297143,
+        "word": "海底捞部分门店不让跳科目三了",
+        "onboard_time": 1701255815,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274132,
+        "num": 274132,
+        "word": "4岁男童被父亲扯后衣领提起窒息身亡",
+        "onboard_time": 1701237035,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789038,
+        "num": 268905,
+        "word": "内娱审美 畸形",
+        "onboard_time": 1701260798,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250913,
+        "num": 250913,
+        "word": "住在瓜田里的肛肠科医生",
+        "onboard_time": 1701258815,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290924,
+        "num": 245151,
+        "word": "刘诗诗打戏感觉真的会武功",
+        "onboard_time": 1701266859,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236482,
+        "num": 236482,
+        "word": "白羊座的友谊是一对一的",
+        "onboard_time": 1701262777,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210201,
+        "num": 236408,
+        "word": "PUBG",
+        "onboard_time": 1701266438,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285575,
+        "num": 236341,
+        "word": "MAMA获奖总名单",
+        "onboard_time": 1701263018,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253176,
+        "num": 236244,
+        "word": "SEVENTEEN从受人指点到大赏",
+        "onboard_time": 1701264704,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252622,
+        "num": 236084,
+        "word": "spotify年度",
+        "onboard_time": 1701266799,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164838,
+        "num": 235916,
+        "word": "刘亦菲换轮胎",
+        "onboard_time": 1701249756,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 87153,
+        "num": 235848,
+        "word": "男生把毕业后第一份工资交给奶奶",
+        "onboard_time": 1701258874,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202338,
+        "num": 235696,
+        "word": "华为校招 高颜值HR",
+        "onboard_time": 1701255935,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250477,
+        "num": 235634,
+        "word": "傅首尔老刘",
+        "onboard_time": 1701262658,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250830,
+        "num": 235452,
+        "word": "一念关山直播",
+        "onboard_time": 1701266199,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235449,
+        "num": 235449,
+        "word": "徐明浩MAMA中文获奖感言",
+        "onboard_time": 1701263018,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212090,
+        "num": 212090,
+        "word": "佘诗曼回应美甲15年来没变过",
+        "onboard_time": 1701241653,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211236,
+        "num": 211236,
+        "word": "那是妈妈 指甲长反也不会害我",
+        "onboard_time": 1701267217,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195813,
+        "num": 195813,
+        "word": "官方称号召西藏阿里公务员献血无不正当因素",
+        "onboard_time": 1701258700,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176898,
+        "num": 176898,
+        "word": "毕业后成了导师的甲方",
+        "onboard_time": 1701259233,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172094,
+        "num": 172094,
+        "word": "AG战胜TLN",
+        "onboard_time": 1701266859,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146362,
+        "num": 146362,
+        "word": "鹅腿阿姨哽咽称压力太大",
+        "onboard_time": 1701257376,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202803,
+        "num": 144774,
+        "word": "李维嘉 生命最后三天也要做家务",
+        "onboard_time": 1701251915,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202634,
+        "num": 144165,
+        "word": "gidle 黑天鹅",
+        "onboard_time": 1701254618,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196799,
+        "num": 143127,
+        "word": "陈伟霆林超贤 从籍籍无名到顶峰相见",
+        "onboard_time": 1701265901,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141198,
+        "num": 141198,
+        "word": "据说这是萌兰最想删除的视频",
+        "onboard_time": 1701265780,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192814,
+        "num": 140397,
+        "word": "崔胜澈现身MAMA",
+        "onboard_time": 1701260258,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192245,
+        "num": 137329,
+        "word": "刘宇宁 打戏招招丝滑",
+        "onboard_time": 1701266380,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181467,
+        "num": 136737,
+        "word": "王一博现身小米园区",
+        "onboard_time": 1701251977,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141384,
+        "num": 134642,
+        "word": "你最怀念的校门口小吃是啥",
+        "onboard_time": 1701267159,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132961,
+        "num": 132961,
+        "word": "美团市值两天蒸发超千亿港元",
+        "onboard_time": 1701267159,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115219,
+        "num": 129972,
+        "word": "当地回应西藏阿里全体公务员为女子献血",
+        "onboard_time": 1701262418,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海市考察调研#"
+    }
+  }
+}
