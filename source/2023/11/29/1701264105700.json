@@ -1,0 +1,410 @@
+{
+  "runTime": 1701264105700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1491830,
+        "num": 1491830,
+        "word": "papi酱 新型骗局",
+        "onboard_time": 1701256175,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1036522,
+        "num": 1036522,
+        "word": "举报权志龙吸毒的人推翻口供",
+        "onboard_time": 1701259538,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68740,
+        "num": 816481,
+        "word": "最深的鞠躬表达最衷心的感谢",
+        "onboard_time": 1701256416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808446,
+        "num": 808446,
+        "word": "利智",
+        "onboard_time": 1701256057,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762587,
+        "num": 762587,
+        "word": "k70价格",
+        "onboard_time": 1701262418,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 529904,
+        "num": 529904,
+        "word": "刘诗诗 谁是你表妹",
+        "onboard_time": 1701255576,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516343,
+        "num": 516343,
+        "word": "李维嘉 生命最后三天也要做家务",
+        "onboard_time": 1701251915,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471122,
+        "num": 471122,
+        "word": "住在瓜田里的肛肠科医生",
+        "onboard_time": 1701258815,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 363026,
+        "num": 466478,
+        "word": "官方称号召西藏阿里公务员献血无不正当因素",
+        "onboard_time": 1701258700,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340993,
+        "num": 439503,
+        "word": "海底捞部分门店不让跳科目三了",
+        "onboard_time": 1701255815,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2315362,
+        "num": 424823,
+        "word": "潘玮柏结婚照",
+        "onboard_time": 1701261103,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1380137,
+        "num": 402918,
+        "word": "阿里公务员",
+        "onboard_time": 1701259655,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390983,
+        "num": 390983,
+        "word": "崔胜澈现身MAMA",
+        "onboard_time": 1701260258,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 378349,
+        "num": 378349,
+        "word": "毕业后成了导师的甲方",
+        "onboard_time": 1701259233,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390186,
+        "num": 369199,
+        "word": "MAMA获奖总名单",
+        "onboard_time": 1701263018,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340668,
+        "num": 340668,
+        "word": "王一博现身小米园区",
+        "onboard_time": 1701251977,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338212,
+        "num": 338212,
+        "word": "傅首尔老刘",
+        "onboard_time": 1701262658,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262685,
+        "num": 262685,
+        "word": "华为校招 高颜值HR",
+        "onboard_time": 1701255935,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258213,
+        "num": 258213,
+        "word": "4岁男童被父亲扯后衣领提起窒息身亡",
+        "onboard_time": 1701237035,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253620,
+        "num": 253620,
+        "word": "鹅腿阿姨哽咽称压力太大",
+        "onboard_time": 1701257376,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1280515,
+        "num": 253510,
+        "word": "内娱审美 畸形",
+        "onboard_time": 1701260798,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312095,
+        "num": 252885,
+        "word": "工作室回应张杰偷跑物料",
+        "onboard_time": 1701263618,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128353,
+        "num": 248390,
+        "word": "红米兰博基尼",
+        "onboard_time": 1701262836,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246325,
+        "num": 246325,
+        "word": "卢伟冰 红米",
+        "onboard_time": 1701263435,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216691,
+        "num": 216691,
+        "word": "拆完快递 洗手",
+        "onboard_time": 1701261701,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299832,
+        "num": 215469,
+        "word": "韩火火 刘诗诗脸",
+        "onboard_time": 1701262901,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289663,
+        "num": 214663,
+        "word": "夫胜宽获奖感言向文彬致谢",
+        "onboard_time": 1701263859,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213280,
+        "num": 213280,
+        "word": "刘亦菲换轮胎",
+        "onboard_time": 1701249756,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 141908,
+        "num": 213050,
+        "word": "当地回应西藏阿里全体公务员为女子献血",
+        "onboard_time": 1701262418,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83292,
+        "num": 212561,
+        "word": "短道速滑世界杯中国队名单",
+        "onboard_time": 1701257796,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305390,
+        "num": 212043,
+        "word": "钱可以慢慢攒但命没有第二次",
+        "onboard_time": 1701263677,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280486,
+        "num": 211698,
+        "word": "GQ 大热CP坐一艘船",
+        "onboard_time": 1701262961,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275317,
+        "num": 211287,
+        "word": "金智秀获MAMA最佳表演女歌手",
+        "onboard_time": 1701255935,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210919,
+        "num": 210919,
+        "word": "白羊座的友谊是一对一的",
+        "onboard_time": 1701262777,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268426,
+        "num": 199335,
+        "word": "gidle 黑天鹅",
+        "onboard_time": 1701254618,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256847,
+        "num": 196922,
+        "word": "迪丽热巴 恶女戏",
+        "onboard_time": 1701248735,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248553,
+        "num": 193227,
+        "word": "佘诗曼回应美甲15年来没变过",
+        "onboard_time": 1701241653,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180893,
+        "num": 180893,
+        "word": "红米k70",
+        "onboard_time": 1701256898,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179910,
+        "num": 179910,
+        "word": "GEN2024阵容官宣",
+        "onboard_time": 1701260798,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151392,
+        "num": 151392,
+        "word": "企鹅 抑郁情绪",
+        "onboard_time": 1701259958,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 241947,
+        "num": 151132,
+        "word": "以爱为营",
+        "onboard_time": 1701262119,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205700,
+        "num": 150889,
+        "word": "迪丽热巴一铲子定住了王安宇的船",
+        "onboard_time": 1701257196,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191560,
+        "num": 150169,
+        "word": "一念关山王者峡谷",
+        "onboard_time": 1701263376,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187294,
+        "num": 149805,
+        "word": "李连杰采访 死后不立碑不办丧事",
+        "onboard_time": 1701254015,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183146,
+        "num": 149590,
+        "word": "何猷君 我是上海女婿",
+        "onboard_time": 1701256057,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181082,
+        "num": 149035,
+        "word": "LV大秀 王鹤棣",
+        "onboard_time": 1701264035,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148779,
+        "num": 148779,
+        "word": "妈妈在我的破风衣上补了朵花",
+        "onboard_time": 1701258576,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147844,
+        "num": 147844,
+        "word": "B站首次日活用户破1亿",
+        "onboard_time": 1701259598,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105568,
+        "num": 147775,
+        "word": "滴滴致歉补偿券领不了",
+        "onboard_time": 1701242914,
+        "rank": 48,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 72939,
+        "num": 146659,
+        "word": "男生把毕业后第一份工资交给奶奶",
+        "onboard_time": 1701258874,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海考察调研#"
+    }
+  }
+}

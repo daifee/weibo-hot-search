@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701262226374,
+  "endTime": 1701264105700,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -25,6 +25,14 @@
       "onboard_time": 1701230975,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2315362,
+      "num": 424823,
+      "word": "潘玮柏结婚照",
+      "onboard_time": 1701261103,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 2186740,
@@ -113,14 +121,6 @@
       "onboard_time": 1701252101,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1380318,
-      "num": 414149,
-      "word": "潘玮柏结婚照",
-      "onboard_time": 1701261103,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1375028,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762587,
+      "num": 762587,
+      "word": "k70价格",
+      "onboard_time": 1701262418,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 760219,
       "num": 760219,
       "word": "北京一房东将两居室改成七居室出租",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 674601,
-      "num": 499138,
+      "num": 529904,
       "word": "刘诗诗 谁是你表妹",
       "onboard_time": 1701255576,
       "rank": 22,
@@ -691,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 471122,
+      "num": 471122,
+      "word": "住在瓜田里的肛肠科医生",
+      "onboard_time": 1701258815,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 467601,
       "num": 467601,
       "word": "美颜把魏大勋酒窝都磨没了",
@@ -753,14 +769,6 @@
       "onboard_time": 1701240215,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422204,
-      "num": 422204,
-      "word": "住在瓜田里的肛肠科医生",
-      "onboard_time": 1701258815,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 418827,
@@ -827,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390186,
+      "num": 369199,
+      "word": "MAMA获奖总名单",
+      "onboard_time": 1701263018,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 385666,
       "num": 385666,
       "word": "外交部回应日本驻华大使探望被拘留日本公民",
@@ -849,6 +865,14 @@
       "onboard_time": 1701203533,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 378349,
+      "num": 378349,
+      "word": "毕业后成了导师的甲方",
+      "onboard_time": 1701259233,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 370371,
@@ -931,6 +955,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 338212,
+      "num": 338212,
+      "word": "傅首尔老刘",
+      "onboard_time": 1701262658,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336180,
       "num": 336180,
       "word": "一念关山刷新首日剧播纪录",
@@ -1011,6 +1043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 312095,
+      "num": 252885,
+      "word": "工作室回应张杰偷跑物料",
+      "onboard_time": 1701263618,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 311254,
       "num": 276482,
       "word": "部分滴滴司机开始提现",
@@ -1035,20 +1075,20 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 307653,
-      "num": 307653,
-      "word": "毕业后成了导师的甲方",
-      "onboard_time": 1701259233,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 305819,
       "num": 305819,
       "word": "接LNGMing",
       "onboard_time": 1701231938,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 305390,
+      "num": 212043,
+      "word": "钱可以慢慢攒但命没有第二次",
+      "onboard_time": 1701263677,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 304984,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1701182017,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 299832,
+      "num": 215469,
+      "word": "韩火火 刘诗诗脸",
+      "onboard_time": 1701262901,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 298884,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1701230434,
       "rank": 25,
       "category": "剧集,音乐"
+    },
+    {
+      "raw_hot": 289663,
+      "num": 214663,
+      "word": "夫胜宽获奖感言向文彬致谢",
+      "onboard_time": 1701263859,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 289400,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1701237696,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 280486,
+      "num": 211698,
+      "word": "GQ 大热CP坐一艘船",
+      "onboard_time": 1701262961,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278214,
@@ -1363,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246325,
+      "num": 246325,
+      "word": "卢伟冰 红米",
+      "onboard_time": 1701263435,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 245481,
       "num": 245481,
       "word": "李晋晔想和赞多组队",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1701231759,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 241947,
+      "num": 174413,
+      "word": "以爱为营",
+      "onboard_time": 1701262119,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 241445,
@@ -1531,6 +1611,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 216691,
+      "num": 216691,
+      "word": "拆完快递 洗手",
+      "onboard_time": 1701261701,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212662,
       "num": 212662,
       "word": "滴滴称事故非网传遭受攻击",
@@ -1561,6 +1649,14 @@
       "onboard_time": 1701248435,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 210919,
+      "num": 210919,
+      "word": "白羊座的友谊是一对一的",
+      "onboard_time": 1701262777,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 209955,
@@ -1811,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191560,
+      "num": 150169,
+      "word": "一念关山王者峡谷",
+      "onboard_time": 1701263376,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190337,
       "num": 175873,
       "word": "咒术回战 下周休刊",
@@ -1939,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181082,
+      "num": 149035,
+      "word": "LV大秀 王鹤棣",
+      "onboard_time": 1701264035,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 178689,
       "num": 153385,
       "word": "吴千语不公开恋情的原因",
@@ -1993,14 +2105,6 @@
       "onboard_time": 1701241592,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174413,
-      "num": 174413,
-      "word": "以爱为营",
-      "onboard_time": 1701262119,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 173968,
@@ -2147,14 +2251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157087,
-      "num": 183018,
-      "word": "拆完快递 洗手",
-      "onboard_time": 1701261701,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156176,
       "num": 156176,
       "word": "刘诗诗任如意 冷脸女刺客",
@@ -2275,6 +2371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141908,
+      "num": 213050,
+      "word": "当地回应西藏阿里全体公务员为女子献血",
+      "onboard_time": 1701262418,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141340,
       "num": 141340,
       "word": "光与夜之恋 男主宝宝们",
@@ -2371,6 +2475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128353,
+      "num": 248390,
+      "word": "红米兰博基尼",
+      "onboard_time": 1701262836,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123935,
       "num": 149361,
       "word": "左雾关注weiwei",
@@ -2396,7 +2508,7 @@
     },
     {
       "raw_hot": 122039,
-      "num": 201748,
+      "num": 212561,
       "word": "短道速滑世界杯中国队名单",
       "onboard_time": 1701257796,
       "rank": 29,
@@ -2532,7 +2644,7 @@
     },
     {
       "raw_hot": 101317,
-      "num": 135950,
+      "num": 146659,
       "word": "男生把毕业后第一份工资交给奶奶",
       "onboard_time": 1701258874,
       "rank": 48,
@@ -2791,6 +2903,9 @@
     },
     {
       "word": "#为各类所有制企业创造公平竞争竞相发展的环境#"
+    },
+    {
+      "word": "#习近平在上海考察调研#"
     }
   ]
 }
