@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701268466133,
+  "endTime": 1701271149152,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2356204,
-      "num": 472069,
+      "num": 488821,
       "word": "潘玮柏结婚照",
       "onboard_time": 1701261103,
       "rank": 21,
@@ -339,6 +339,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 871602,
+      "num": 871602,
+      "word": "那是妈妈 指甲长反也不会害我",
+      "onboard_time": 1701267217,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 843639,
       "num": 843639,
       "word": "雷军向武大捐赠13亿元",
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662878,
+      "num": 662878,
+      "word": "人真的不能一直过省钱的生活",
+      "onboard_time": 1701267516,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 660488,
       "num": 330310,
       "word": "因为在群里回复一个好离职了",
@@ -491,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638310,
+      "num": 638310,
+      "word": "傅首尔用的假睫毛狠狠避雷了",
+      "onboard_time": 1701269560,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 636742,
       "num": 636742,
       "word": "海底捞部分门店不让跳科目三了",
       "onboard_time": 1701255815,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 631605,
-      "num": 409352,
-      "word": "那是妈妈 指甲长反也不会害我",
-      "onboard_time": 1701267217,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 629548,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 545519,
+      "num": 545519,
+      "word": "读研后变得更好了么",
+      "onboard_time": 1701268058,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 543890,
       "num": 506124,
       "word": "女生经期 不能按摩",
@@ -755,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 484264,
+      "num": 484264,
+      "word": "林志玲一家合照",
+      "onboard_time": 1701268659,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478016,
       "num": 478016,
       "word": "迪丽热巴造型 MixWei",
@@ -777,6 +809,14 @@
       "onboard_time": 1701223835,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467251,
+      "num": 467251,
+      "word": "霍思燕嗯哼飞鸭式拍照",
+      "onboard_time": 1701269918,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 460475,
@@ -1123,12 +1163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321112,
+      "num": 259713,
+      "word": "反复烧水会增加致癌物质吗",
+      "onboard_time": 1701268236,
+      "rank": 46,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 318408,
       "num": 318408,
       "word": "夫胜宽获奖感言向文彬致谢",
       "onboard_time": 1701263859,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313698,
+      "num": 313698,
+      "word": "浙江队武里南联 打起来了",
+      "onboard_time": 1701269856,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 313431,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1701247053,
       "rank": 17,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 308214,
+      "num": 226018,
+      "word": "老娘当年旗袍开到肩膀",
+      "onboard_time": 1701270516,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 305819,
@@ -1427,6 +1491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 264513,
+      "num": 264513,
+      "word": "坚持上班的动力就是领导不在",
+      "onboard_time": 1701270816,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261747,
       "num": 202073,
       "word": "Ditto年度歌曲",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1701173797,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252715,
+      "num": 252715,
+      "word": "拼多多美股市值超阿里",
+      "onboard_time": 1701270816,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 252622,
@@ -1555,14 +1635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245480,
-      "num": 245480,
-      "word": "人真的不能一直过省钱的生活",
-      "onboard_time": 1701267516,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244786,
       "num": 244786,
       "word": "白羊座的友谊是一对一的",
@@ -1624,6 +1696,14 @@
       "word": "以爱为营",
       "onboard_time": 1701262119,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241595,
+      "num": 235135,
+      "word": "一念关山和女医明妃传同样的编剧",
+      "onboard_time": 1701270516,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1891,6 +1971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202991,
+      "num": 202991,
+      "word": "胡彦斌真的是一个非常清醒的人",
+      "onboard_time": 1701268835,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201794,
       "num": 201794,
       "word": "年前和年后哪个离职时间好",
@@ -2003,6 +2091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196580,
+      "num": 196580,
+      "word": "鸡毛丸子头慢动作教程",
+      "onboard_time": 1701270876,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 196519,
       "num": 185016,
       "word": "傅首尔最后一天的日记",
@@ -2017,6 +2113,14 @@
       "onboard_time": 1701250114,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195586,
+      "num": 195586,
+      "word": "AG梦幻开门红",
+      "onboard_time": 1701270336,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 194247,
@@ -2243,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175401,
+      "num": 175401,
+      "word": "南海归墟前5集黑黑黑黑亮",
+      "onboard_time": 1701269198,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174465,
       "num": 174465,
       "word": "周迅 幺儿好乖",
@@ -2273,6 +2385,14 @@
       "onboard_time": 1701266859,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171280,
+      "num": 171280,
+      "word": "王一博蓝调大片",
+      "onboard_time": 1701269137,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170313,
@@ -2539,14 +2659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147641,
-      "num": 167690,
-      "word": "反复烧水会增加致癌物质吗",
-      "onboard_time": 1701268236,
-      "rank": 46,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 145845,
       "num": 145845,
       "word": "孙丞潇不让金莎看手机",
@@ -2588,7 +2700,7 @@
     },
     {
       "raw_hot": 141198,
-      "num": 200896,
+      "num": 205817,
       "word": "据说这是萌兰最想删除的视频",
       "onboard_time": 1701265780,
       "rank": 43,
@@ -2609,14 +2721,6 @@
       "onboard_time": 1701254197,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 137637,
-      "num": 192631,
-      "word": "读研后变得更好了么",
-      "onboard_time": 1701268058,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 137636,
@@ -2665,6 +2769,14 @@
       "onboard_time": 1701262836,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134204,
+      "num": 147864,
+      "word": "十大高危职业之滑板教练",
+      "onboard_time": 1701271056,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 130481,
@@ -2771,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116965,
+      "num": 179448,
+      "word": "不愧是你小孩哥",
+      "onboard_time": 1701268597,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114325,
       "num": 114325,
       "word": "年会不能停 不想被裁先自裁",
@@ -2841,6 +2961,14 @@
       "onboard_time": 1701213926,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103048,
+      "num": 147427,
+      "word": "浙江队3比2武里南联",
+      "onboard_time": 1701269560,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102200,
@@ -3097,6 +3225,14 @@
       "onboard_time": 1701199393,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18502,
+      "num": 748147,
+      "word": "链博会展商开始预约下一届展位了",
+      "onboard_time": 1701270576,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18238,
