@@ -1,0 +1,410 @@
+{
+  "runTime": 1701227903598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1418028,
+        "num": 1418028,
+        "word": "男子中2.6亿后次日凌晨准时上班",
+        "onboard_time": 1701218559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1255696,
+        "num": 1255696,
+        "word": "网友举报转转二手手机出具阴阳检测报告",
+        "onboard_time": 1701222032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12896,
+        "num": 918626,
+        "word": "首届链博会让中外企业共享新机遇",
+        "onboard_time": 1701176317,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1919839,
+        "num": 904014,
+        "word": "女友宣布与内马尔分手",
+        "onboard_time": 1701223714,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 875145,
+        "num": 875145,
+        "word": "专业仅有的4位女生年级前四保研",
+        "onboard_time": 1701224913,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 682032,
+        "num": 682032,
+        "word": "刘璐给迪丽热巴做过的造型",
+        "onboard_time": 1701224136,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 653786,
+        "num": 653786,
+        "word": "芒格去世",
+        "onboard_time": 1701212963,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621513,
+        "num": 621513,
+        "word": "地球收到1600万公里外传来激光数据",
+        "onboard_time": 1701218137,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597788,
+        "num": 597788,
+        "word": "张凌赫看向白鹿的眼神",
+        "onboard_time": 1701215430,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531374,
+        "num": 531374,
+        "word": "雷军向武大捐赠13亿元",
+        "onboard_time": 1701221314,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 530874,
+        "num": 530874,
+        "word": "质疑朱丹 理解朱丹",
+        "onboard_time": 1701183640,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440489,
+        "num": 440489,
+        "word": "美颜把魏大勋酒窝都磨没了",
+        "onboard_time": 1701223835,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371539,
+        "num": 371539,
+        "word": "很笨但能考上公务员的暗黑偏方",
+        "onboard_time": 1701182497,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 351345,
+        "num": 351345,
+        "word": "人生是旷野 是旷工是旷课",
+        "onboard_time": 1701226534,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323537,
+        "num": 323537,
+        "word": "一念关山口碑",
+        "onboard_time": 1701219696,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282806,
+        "num": 282806,
+        "word": "心目中TOP1美剧",
+        "onboard_time": 1701220596,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281692,
+        "num": 281692,
+        "word": "刘宇宁 台词",
+        "onboard_time": 1701182256,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253474,
+        "num": 253474,
+        "word": "怒海 不配当爹但喜欢当爹",
+        "onboard_time": 1701226836,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232476,
+        "num": 232476,
+        "word": "海底捞服务员跳擦玻璃舞被指低俗",
+        "onboard_time": 1701194417,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222628,
+        "num": 222628,
+        "word": "胡八一雪莉杨 海底蜜月",
+        "onboard_time": 1701227673,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411420,
+        "num": 222581,
+        "word": "男童手臂伸进笼子被藏獒咬断",
+        "onboard_time": 1701223654,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341789,
+        "num": 222553,
+        "word": "第一次感觉生理期被具象化",
+        "onboard_time": 1701218017,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243678,
+        "num": 222522,
+        "word": "胃癌发现时大多是中晚期",
+        "onboard_time": 1701217177,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221155,
+        "num": 221155,
+        "word": "一念关山戈壁大片",
+        "onboard_time": 1701224675,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207247,
+        "num": 207247,
+        "word": "迪丽热巴造型 MixWei",
+        "onboard_time": 1701219216,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200977,
+        "num": 200977,
+        "word": "她兄控他妹控我兄妹控",
+        "onboard_time": 1701217657,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186240,
+        "num": 186240,
+        "word": "傅首尔老刘 允许离开的发生",
+        "onboard_time": 1701218075,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186036,
+        "num": 186036,
+        "word": "邓超听完鹿晗新歌失眠了",
+        "onboard_time": 1701221614,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185194,
+        "num": 185194,
+        "word": "徐明浩玩梗舞到正主面前",
+        "onboard_time": 1701226235,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173968,
+        "num": 182983,
+        "word": "我的电脑好像被公司监视了",
+        "onboard_time": 1701224675,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211605,
+        "num": 182508,
+        "word": "何猷君 爱是常觉亏欠",
+        "onboard_time": 1701227496,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181266,
+        "num": 181266,
+        "word": "AppleMusic年榜",
+        "onboard_time": 1701223354,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178654,
+        "num": 178654,
+        "word": "井胧白鹿张凌赫同框",
+        "onboard_time": 1701226534,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161858,
+        "num": 161858,
+        "word": "随手一扎的毽子头",
+        "onboard_time": 1701220596,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 158129,
+        "num": 158129,
+        "word": "滴滴员工称系统崩溃时内网也崩了",
+        "onboard_time": 1701219996,
+        "rank": 34,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 153915,
+        "num": 153915,
+        "word": "出道6天在MAMA上首演的Enhypen",
+        "onboard_time": 1701220957,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149374,
+        "num": 149374,
+        "word": "博主B太曝光的鬼秤商家被罚款20万",
+        "onboard_time": 1701212541,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141170,
+        "num": 149370,
+        "word": "南海归墟巨型海兽出没",
+        "onboard_time": 1701221375,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123935,
+        "num": 149361,
+        "word": "左雾关注weiwei",
+        "onboard_time": 1701225693,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115874,
+        "num": 149345,
+        "word": "你去海底捞会点小哥跳舞吗",
+        "onboard_time": 1701224074,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111554,
+        "num": 149338,
+        "word": "涉过愤怒的海 细节解读",
+        "onboard_time": 1701225334,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111339,
+        "num": 149325,
+        "word": "名侦探柯南30周年贺图",
+        "onboard_time": 1701219636,
+        "rank": 41,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 110640,
+        "num": 149305,
+        "word": "橘猫面对三花美女的尴尬时刻",
+        "onboard_time": 1701225454,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109361,
+        "num": 149302,
+        "word": "傅首尔最后一天的日记",
+        "onboard_time": 1701222094,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105845,
+        "num": 149285,
+        "word": "珠海机场 广播寻找杨幂",
+        "onboard_time": 1701178597,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104651,
+        "num": 149276,
+        "word": "宁远舟一秒变疯批",
+        "onboard_time": 1701227852,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94412,
+        "num": 149258,
+        "word": "伊朗海军向美航母打击群发出警告",
+        "onboard_time": 1701217476,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 98091,
+        "num": 149257,
+        "word": "一念关山 六道堂男团",
+        "onboard_time": 1701174876,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94177,
+        "num": 149238,
+        "word": "涵艺爆料xiaohao加入WBG",
+        "onboard_time": 1701214106,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92857,
+        "num": 149225,
+        "word": "勇士内部人员不满维金斯",
+        "onboard_time": 1701222695,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进优质网络文化产品生产传播#"
+    }
+  }
+}

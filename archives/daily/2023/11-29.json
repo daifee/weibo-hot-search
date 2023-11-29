@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701225618050,
+  "endTime": 1701227903598,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1255696,
+      "num": 1255696,
+      "word": "网友举报转转二手手机出具阴阳检测报告",
+      "onboard_time": 1701222032,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1088434,
       "num": 1088434,
       "word": "地球收到1600万公里外传来激光数据",
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 875145,
+      "num": 875145,
+      "word": "专业仅有的4位女生年级前四保研",
+      "onboard_time": 1701224913,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 843639,
       "num": 843639,
       "word": "雷军向武大捐赠13亿元",
@@ -75,20 +91,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 804387,
-      "num": 804387,
-      "word": "网友举报转转二手手机出具阴阳检测报告",
-      "onboard_time": 1701222032,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 804090,
       "num": 804090,
       "word": "很笨但能考上公务员的暗黑偏方",
       "onboard_time": 1701182497,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 682032,
+      "num": 682032,
+      "word": "刘璐给迪丽热巴做过的造型",
+      "onboard_time": 1701224136,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 615585,
@@ -129,14 +145,6 @@
       "onboard_time": 1701218075,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 549259,
-      "num": 549259,
-      "word": "刘璐给迪丽热巴做过的造型",
-      "onboard_time": 1701224136,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 530043,
@@ -203,12 +211,28 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 440489,
+      "num": 440489,
+      "word": "美颜把魏大勋酒窝都磨没了",
+      "onboard_time": 1701223835,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415340,
       "num": 415340,
       "word": "邓超定7个闹钟听鹿晗新歌",
       "onboard_time": 1701181297,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 411420,
+      "num": 302556,
+      "word": "男童手臂伸进笼子被藏獒咬断",
+      "onboard_time": 1701223654,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410498,
@@ -219,20 +243,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 400144,
-      "num": 302556,
-      "word": "男童手臂伸进笼子被藏獒咬断",
-      "onboard_time": 1701223654,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380512,
       "num": 380512,
       "word": "大学生独游华山坠崖失联10天",
       "onboard_time": 1701203533,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 351345,
+      "num": 351345,
+      "word": "人生是旷野 是旷工是旷课",
+      "onboard_time": 1701226534,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 348842,
@@ -289,14 +313,6 @@
       "onboard_time": 1701216639,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304110,
-      "num": 304110,
-      "word": "美颜把魏大勋酒窝都磨没了",
-      "onboard_time": 1701223835,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 301055,
@@ -379,14 +395,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 280786,
-      "num": 280786,
-      "word": "专业仅有的4位女生年级前四保研",
-      "onboard_time": 1701224913,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 274262,
       "num": 274262,
       "word": "出道6天在MAMA上首演的Enhypen",
@@ -425,6 +433,14 @@
       "onboard_time": 1701174036,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253474,
+      "num": 253474,
+      "word": "怒海 不配当爹但喜欢当爹",
+      "onboard_time": 1701226836,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 253379,
@@ -480,6 +496,22 @@
       "word": "何猷君的数学能力",
       "onboard_time": 1701182977,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222628,
+      "num": 222628,
+      "word": "胡八一雪莉杨 海底蜜月",
+      "onboard_time": 1701227673,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211605,
+      "num": 182508,
+      "word": "何猷君 爱是常觉亏欠",
+      "onboard_time": 1701227496,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -555,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185194,
+      "num": 185194,
+      "word": "徐明浩玩梗舞到正主面前",
+      "onboard_time": 1701226235,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181938,
       "num": 181938,
       "word": "涵艺爆料xiaohao加入WBG",
@@ -571,8 +611,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172845,
-      "num": 172845,
+      "raw_hot": 178654,
+      "num": 178654,
+      "word": "井胧白鹿张凌赫同框",
+      "onboard_time": 1701226534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173968,
+      "num": 182983,
       "word": "我的电脑好像被公司监视了",
       "onboard_time": 1701224675,
       "rank": 35,
@@ -684,7 +732,7 @@
     },
     {
       "raw_hot": 147974,
-      "num": 147974,
+      "num": 149338,
       "word": "涉过愤怒的海 细节解读",
       "onboard_time": 1701225334,
       "rank": 34,
@@ -692,7 +740,7 @@
     },
     {
       "raw_hot": 147754,
-      "num": 147754,
+      "num": 149345,
       "word": "你去海底捞会点小哥跳舞吗",
       "onboard_time": 1701224074,
       "rank": 41,
@@ -739,8 +787,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123935,
+      "num": 149361,
+      "word": "左雾关注weiwei",
+      "onboard_time": 1701225693,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123755,
-      "num": 123755,
+      "num": 149305,
       "word": "橘猫面对三花美女的尴尬时刻",
       "onboard_time": 1701225454,
       "rank": 40,
@@ -801,6 +857,14 @@
       "onboard_time": 1701170134,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104651,
+      "num": 149276,
+      "word": "宁远舟一秒变疯批",
+      "onboard_time": 1701227852,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 103924,
