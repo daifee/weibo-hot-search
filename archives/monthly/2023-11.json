@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701292537877,
+  "endTime": 1701293671720,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -46027,6 +46027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215758,
+      "num": 215758,
+      "word": "太原地震",
+      "onboard_time": 1701291252,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215696,
       "num": 215696,
       "word": "女大三分钟耳后双C发型",
@@ -52521,14 +52529,6 @@
       "onboard_time": 1699453194,
       "rank": 33,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 193545,
-      "num": 193545,
-      "word": "太原地震",
-      "onboard_time": 1701291252,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193524,
@@ -76547,6 +76547,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 87843,
+      "num": 39820,
+      "word": "跳火科目三第一人发声",
+      "onboard_time": 1701287774,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87734,
       "num": 1247799,
       "word": "最美北京我的家",
@@ -76625,14 +76633,6 @@
       "onboard_time": 1699719512,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86645,
-      "num": 35205,
-      "word": "跳火科目三第一人发声",
-      "onboard_time": 1701287774,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86600,
@@ -80579,6 +80579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22074,
+      "num": 22074,
+      "word": "南海归墟第五集3分钟吓人",
+      "onboard_time": 1701292333,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22072,
       "num": 48837,
       "word": "这下PPT台风稳了",
@@ -80721,14 +80729,6 @@
       "onboard_time": 1700600712,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 18615,
-      "num": 18615,
-      "word": "南海归墟第五集3分钟吓人",
-      "onboard_time": 1701292333,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 18502,
@@ -80987,6 +80987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14804,
+      "num": 14804,
+      "word": "龚俊直播冲水声好响",
+      "onboard_time": 1701291913,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14759,
       "num": 252208,
       "word": "快手电商晚6点的好生活",
@@ -81049,14 +81057,6 @@
       "onboard_time": 1699903153,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 13285,
-      "num": 13534,
-      "word": "龚俊直播冲水声好响",
-      "onboard_time": 1701291913,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 13148,
