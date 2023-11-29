@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701297298322,
+  "endTime": 1701299890824,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -1104,6 +1104,14 @@
       "word": "女儿发烧最高至40度妈妈取号1600号",
       "onboard_time": 1701246034,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934314,
+      "num": 934314,
+      "word": "太原地震",
+      "onboard_time": 1701291252,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -2835,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493341,
+      "num": 493341,
+      "word": "跳火科目三第一人发声",
+      "onboard_time": 1701287774,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493177,
       "num": 493177,
       "word": "星光大赏 嘉宾",
@@ -3369,14 +3385,6 @@
       "onboard_time": 1701256057,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 429882,
-      "num": 429882,
-      "word": "太原地震",
-      "onboard_time": 1701291252,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429008,
@@ -3947,6 +3955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378434,
+      "num": 378434,
+      "word": "医生建议学校改网课",
+      "onboard_time": 1701297077,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 378258,
       "num": 378258,
       "word": "南海归墟首播反响",
@@ -3964,7 +3980,7 @@
     },
     {
       "raw_hot": 373265,
-      "num": 141810,
+      "num": 211376,
       "word": "精神科医生 没有车想杀死你是你的幻觉",
       "onboard_time": 1701274290,
       "rank": 30,
@@ -7115,14 +7131,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 215548,
-      "num": 215548,
-      "word": "跳火科目三第一人发声",
-      "onboard_time": 1701287774,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215365,
       "num": 215365,
       "word": "国考常识",
@@ -8851,6 +8859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178666,
+      "num": 178666,
+      "word": "何广智杭州演出取消赔外地观众差旅费",
+      "onboard_time": 1701285854,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178568,
       "num": 178568,
       "word": "龚俊对狐妖里的肌肉线条很满意",
@@ -9145,6 +9161,14 @@
       "onboard_time": 1701050852,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170828,
+      "num": 76221,
+      "word": "太原3.7级地震",
+      "onboard_time": 1701299543,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170506,
@@ -10571,6 +10595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132187,
+      "num": 132187,
+      "word": "湖南4个公租房小区排查出766户公职人员",
+      "onboard_time": 1701299725,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132103,
       "num": 132103,
       "word": "杨丽萍回应近期争议",
@@ -11211,6 +11243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96058,
+      "num": 96058,
+      "word": "韩国红毯妆造",
+      "onboard_time": 1701296237,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 95858,
       "num": 95858,
       "word": "尖叫之夜男明星怼脸生图",
@@ -11273,6 +11313,14 @@
       "onboard_time": 1700926366,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90076,
+      "num": 90076,
+      "word": "生动诠释了什么叫绩效工资",
+      "onboard_time": 1701298821,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 89775,
@@ -11353,14 +11401,6 @@
       "onboard_time": 1700919227,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 83164,
-      "num": 83164,
-      "word": "何广智杭州演出取消赔外地观众差旅费",
-      "onboard_time": 1701285854,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 82700,
@@ -11619,6 +11659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63518,
+      "num": 63518,
+      "word": "南海归墟第五集3分钟吓人",
+      "onboard_time": 1701292333,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62463,
       "num": 207625,
       "word": "方圆脸的半遮耳发型",
@@ -11659,6 +11707,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 60603,
+      "num": 60603,
+      "word": "皇马4比2那不勒斯",
+      "onboard_time": 1701299484,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60214,
       "num": 60214,
       "word": "花少5 文化输出",
@@ -11689,6 +11745,14 @@
       "onboard_time": 1700992836,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57635,
+      "num": 57635,
+      "word": "一念关山站内热度破9000",
+      "onboard_time": 1701281539,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 57555,
@@ -11835,12 +11899,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 43595,
-      "num": 43595,
-      "word": "一念关山站内热度破9000",
-      "onboard_time": 1701281539,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 43216,
+      "num": 52764,
+      "word": "龚俊直播冲水声好响",
+      "onboard_time": 1701291913,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 42147,
@@ -11849,14 +11913,6 @@
       "onboard_time": 1701157472,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41010,
-      "num": 41010,
-      "word": "韩国红毯妆造",
-      "onboard_time": 1701296237,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 38139,
@@ -11939,14 +11995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30862,
-      "num": 30862,
-      "word": "南海归墟第五集3分钟吓人",
-      "onboard_time": 1701292333,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29579,
       "num": 1693117,
       "word": "首届链博会让中外企业共享新机遇",
@@ -11969,14 +12017,6 @@
       "onboard_time": 1700944335,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 27715,
-      "num": 27715,
-      "word": "龚俊直播冲水声好响",
-      "onboard_time": 1701291913,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 27035,
@@ -12033,14 +12073,6 @@
       "onboard_time": 1700954002,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23649,
-      "num": 25805,
-      "word": "医生建议学校改网课",
-      "onboard_time": 1701297077,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 20998,
