@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701243232707,
+  "endTime": 1701246168662,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -16,6 +16,14 @@
       "word": "女儿高烧40度两天妈妈取号取到1600号",
       "onboard_time": 1701230975,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2566325,
+      "num": 2566325,
+      "word": "网传西藏阿里全体公务员为一女子献血",
+      "onboard_time": 1701242074,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -83,12 +91,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201208,
+      "num": 1201208,
+      "word": "滴滴致歉补偿券领不了",
+      "onboard_time": 1701242914,
+      "rank": 11,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 1171956,
       "num": 1171956,
       "word": "王睡睡张硕 没领证",
       "onboard_time": 1701230556,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1167004,
+      "num": 1167004,
+      "word": "水哥43岁状态",
+      "onboard_time": 1701243454,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1145794,
+      "num": 1145794,
+      "word": "佘诗曼回应美甲15年来没变过",
+      "onboard_time": 1701241653,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1088434,
@@ -131,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 961207,
+      "num": 961207,
+      "word": "官方回应阿里西藏全区公务员为一人献血",
+      "onboard_time": 1701243634,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 957784,
       "num": 957784,
       "word": "王睡睡百科 前夫哥张硕",
@@ -155,28 +195,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 863345,
-      "num": 443167,
-      "word": "滴滴致歉补偿券领不了",
-      "onboard_time": 1701242914,
-      "rank": 11,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 843639,
       "num": 843639,
       "word": "雷军向武大捐赠13亿元",
       "onboard_time": 1701221314,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 834891,
-      "num": 433763,
-      "word": "佘诗曼回应美甲15年来没变过",
-      "onboard_time": 1701241653,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 821819,
@@ -219,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 744081,
-      "num": 744081,
-      "word": "网传西藏阿里全体公务员为一女子献血",
-      "onboard_time": 1701242074,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 729222,
       "num": 674786,
       "word": "娜娜离世后老金才真正认识她",
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665417,
+      "num": 665417,
+      "word": "汤唯接女儿放学",
+      "onboard_time": 1701242494,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660488,
       "num": 330310,
       "word": "因为在群里回复一个好离职了",
@@ -281,6 +305,22 @@
       "onboard_time": 1701228395,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 629548,
+      "num": 629548,
+      "word": "迪丽热巴填补了秦海璐的遗憾",
+      "onboard_time": 1701244174,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 628309,
+      "num": 628309,
+      "word": "女儿发烧最高至40度妈妈取号1600号",
+      "onboard_time": 1701246034,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 626755,
@@ -395,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511619,
+      "num": 448443,
+      "word": "女生经期 不能按摩",
+      "onboard_time": 1701244473,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 504529,
       "num": 504529,
       "word": "人生是旷野 是旷工是旷课",
@@ -499,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 409403,
-      "num": 409403,
-      "word": "汤唯接女儿放学",
-      "onboard_time": 1701242494,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 408554,
       "num": 408554,
       "word": "何猷君 爱是常觉亏欠",
@@ -561,6 +601,14 @@
       "onboard_time": 1701175417,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348781,
+      "num": 348781,
+      "word": "当事人丈夫否认阿里全体公务员为其妻献血",
+      "onboard_time": 1701243393,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346767,
@@ -619,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318733,
+      "num": 318733,
+      "word": "SEVENTEEN在红毯拿了奖",
+      "onboard_time": 1701244954,
+      "rank": 18,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 313431,
       "num": 313431,
       "word": "不经意的卫生坏习惯",
@@ -649,6 +705,14 @@
       "onboard_time": 1701216639,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302743,
+      "num": 302743,
+      "word": "4万元金条收货后被直接扔了",
+      "onboard_time": 1701242013,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301055,
@@ -763,6 +827,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 276672,
+      "num": 276672,
+      "word": "汤唯Burberry品牌代言人",
+      "onboard_time": 1701244116,
+      "rank": 22,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 275743,
       "num": 275743,
       "word": "JDG新上单酷似白举纲",
@@ -867,12 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245731,
-      "num": 245731,
-      "word": "4万元金条收货后被直接扔了",
-      "onboard_time": 1701242013,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 247717,
+      "num": 247717,
+      "word": "防弹少年团成员将入伍",
+      "onboard_time": 1701243873,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 244575,
@@ -995,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209771,
+      "num": 209771,
+      "word": "小时候上微机课为什么要穿鞋套",
+      "onboard_time": 1701244714,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 208278,
       "num": 208278,
       "word": "老狼也在听鹿晗新歌",
@@ -1025,6 +1105,14 @@
       "onboard_time": 1701220957,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203645,
+      "num": 203645,
+      "word": "法考主观题",
+      "onboard_time": 1701245193,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 201794,
@@ -1105,6 +1193,14 @@
       "onboard_time": 1701217117,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191877,
+      "num": 191877,
+      "word": "原来树也有一母多胞",
+      "onboard_time": 1701245717,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190337,
@@ -1291,12 +1387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166201,
+      "num": 166201,
+      "word": "何蓝逗一念关山哭戏",
+      "onboard_time": 1701245793,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164042,
       "num": 164042,
       "word": "周一围 细节里的爱意",
       "onboard_time": 1701228155,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163701,
+      "num": 163701,
+      "word": "觉得作者文化水平不高的瞬间",
+      "onboard_time": 1701245434,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 162989,
@@ -1337,6 +1449,14 @@
       "onboard_time": 1701224495,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160060,
+      "num": 160060,
+      "word": "王菲早年波光粼粼妆",
+      "onboard_time": 1701245253,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 157984,
@@ -1451,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144757,
+      "num": 144757,
+      "word": "法考 坐等主观108",
+      "onboard_time": 1701243694,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141340,
       "num": 141340,
       "word": "光与夜之恋 男主宝宝们",
@@ -1491,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133247,
+      "num": 133247,
+      "word": "当T人和F人看到负面新闻",
+      "onboard_time": 1701244537,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130481,
       "num": 130481,
       "word": "seventeen你们不是明天吗",
@@ -1505,6 +1641,30 @@
       "onboard_time": 1701217716,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130318,
+      "num": 130318,
+      "word": "外交部回应日本驻华大使探望被拘留日本公民",
+      "onboard_time": 1701245855,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 130122,
+      "num": 130122,
+      "word": "懂事的领导会在周五下午请假",
+      "onboard_time": 1701244414,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 124508,
+      "num": 124508,
+      "word": "现在的人上班都上癫了",
+      "onboard_time": 1701246156,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 123935,
@@ -1796,7 +1956,7 @@
     },
     {
       "raw_hot": 47935,
-      "num": 1134047,
+      "num": 1170966,
       "word": "链博会里有什么",
       "onboard_time": 1701234518,
       "rank": 2,

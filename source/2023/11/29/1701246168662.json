@@ -1,0 +1,410 @@
+{
+  "runTime": 1701246168662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2566325,
+        "num": 2566325,
+        "word": "网传西藏阿里全体公务员为一女子献血",
+        "onboard_time": 1701242074,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201208,
+        "num": 1201208,
+        "word": "滴滴致歉补偿券领不了",
+        "onboard_time": 1701242914,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 32544,
+        "num": 1170966,
+        "word": "链博会里有什么",
+        "onboard_time": 1701234518,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167004,
+        "num": 1167004,
+        "word": "水哥43岁状态",
+        "onboard_time": 1701243454,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1145794,
+        "num": 1145794,
+        "word": "佘诗曼回应美甲15年来没变过",
+        "onboard_time": 1701241653,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 961207,
+        "num": 961207,
+        "word": "官方回应阿里西藏全区公务员为一人献血",
+        "onboard_time": 1701243634,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665417,
+        "num": 665417,
+        "word": "汤唯接女儿放学",
+        "onboard_time": 1701242494,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629548,
+        "num": 629548,
+        "word": "迪丽热巴填补了秦海璐的遗憾",
+        "onboard_time": 1701244174,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628309,
+        "num": 628309,
+        "word": "女儿发烧最高至40度妈妈取号1600号",
+        "onboard_time": 1701246034,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474665,
+        "num": 474665,
+        "word": "吴昕花瓶腰",
+        "onboard_time": 1701234518,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 771104,
+        "num": 473756,
+        "word": "4岁男童被父亲扯后衣领提起窒息身亡",
+        "onboard_time": 1701237035,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670243,
+        "num": 453102,
+        "word": "全班23人请病假仅3萌娃坚强上课",
+        "onboard_time": 1701234578,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 511619,
+        "num": 448443,
+        "word": "女生经期 不能按摩",
+        "onboard_time": 1701244473,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 428806,
+        "num": 428806,
+        "word": "娜娜离世后老金才真正认识她",
+        "onboard_time": 1701233559,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407136,
+        "num": 407136,
+        "word": "海南航空HU7175紧急备降广州",
+        "onboard_time": 1701239914,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363311,
+        "num": 363311,
+        "word": "张踩铃 我家外国人真的不懂忌讳",
+        "onboard_time": 1701239075,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 348781,
+        "num": 348781,
+        "word": "当事人丈夫否认阿里全体公务员为其妻献血",
+        "onboard_time": 1701243393,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326805,
+        "num": 326805,
+        "word": "EXO校园风台历",
+        "onboard_time": 1701241174,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318733,
+        "num": 318733,
+        "word": "SEVENTEEN在红毯拿了奖",
+        "onboard_time": 1701244954,
+        "rank": 18,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 302743,
+        "num": 302743,
+        "word": "4万元金条收货后被直接扔了",
+        "onboard_time": 1701242013,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290501,
+        "num": 290501,
+        "word": "刘诗诗回复叶青",
+        "onboard_time": 1701240873,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287195,
+        "num": 287195,
+        "word": "迪丽热巴高颅顶发箍",
+        "onboard_time": 1701242973,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276672,
+        "num": 276672,
+        "word": "汤唯Burberry品牌代言人",
+        "onboard_time": 1701244116,
+        "rank": 22,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 258664,
+        "num": 258664,
+        "word": "王睡睡张硕 没领证",
+        "onboard_time": 1701230556,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258429,
+        "num": 258429,
+        "word": "张凌赫 理工男的嘴不会放过任何人",
+        "onboard_time": 1701240215,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248550,
+        "num": 248550,
+        "word": "因为在群里回复一个好离职了",
+        "onboard_time": 1701232720,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247717,
+        "num": 247717,
+        "word": "防弹少年团成员将入伍",
+        "onboard_time": 1701243873,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213766,
+        "num": 213766,
+        "word": "滴滴派发补偿券",
+        "onboard_time": 1701241712,
+        "rank": 27,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 209771,
+        "num": 209771,
+        "word": "小时候上微机课为什么要穿鞋套",
+        "onboard_time": 1701244714,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 160765,
+        "num": 205544,
+        "word": "男子葬礼上给客人喝假酒致4人死亡",
+        "onboard_time": 1701233857,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203645,
+        "num": 203645,
+        "word": "法考主观题",
+        "onboard_time": 1701245193,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191877,
+        "num": 191877,
+        "word": "原来树也有一母多胞",
+        "onboard_time": 1701245717,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175991,
+        "num": 175991,
+        "word": "北京一房东将两居室改成七居室出租",
+        "onboard_time": 1701235475,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166201,
+        "num": 166201,
+        "word": "何蓝逗一念关山哭戏",
+        "onboard_time": 1701245793,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163701,
+        "num": 163701,
+        "word": "觉得作者文化水平不高的瞬间",
+        "onboard_time": 1701245434,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 160060,
+        "num": 160060,
+        "word": "王菲早年波光粼粼妆",
+        "onboard_time": 1701245253,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156862,
+        "num": 156862,
+        "word": "女友宣布与内马尔分手",
+        "onboard_time": 1701223714,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154297,
+        "num": 154297,
+        "word": "刘宇宁换头像",
+        "onboard_time": 1701239314,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144757,
+        "num": 144757,
+        "word": "法考 坐等主观108",
+        "onboard_time": 1701243694,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153585,
+        "num": 140463,
+        "word": "一念关山",
+        "onboard_time": 1701234273,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163471,
+        "num": 138647,
+        "word": "秦海璐10年前后穿同一套衣服对比照",
+        "onboard_time": 1701242853,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133911,
+        "num": 133911,
+        "word": "马云内网回应拼多多市值逼近阿里",
+        "onboard_time": 1701230796,
+        "rank": 41,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 133247,
+        "num": 133247,
+        "word": "当T人和F人看到负面新闻",
+        "onboard_time": 1701244537,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130318,
+        "num": 130318,
+        "word": "外交部回应日本驻华大使探望被拘留日本公民",
+        "onboard_time": 1701245855,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130122,
+        "num": 130122,
+        "word": "懂事的领导会在周五下午请假",
+        "onboard_time": 1701244414,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124508,
+        "num": 124508,
+        "word": "现在的人上班都上癫了",
+        "onboard_time": 1701246156,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118535,
+        "num": 118535,
+        "word": "接LNGMing",
+        "onboard_time": 1701231938,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116187,
+        "num": 116187,
+        "word": "陈赫宣传鹿晗新歌",
+        "onboard_time": 1701242554,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115645,
+        "num": 115645,
+        "word": "第一名奖励边睡觉边上课",
+        "onboard_time": 1701236555,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108695,
+        "num": 108695,
+        "word": "很多胃癌都是吃出来的",
+        "onboard_time": 1701232421,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#为各类所有制企业创造公平竞争竞相发展的环境#"
+    }
+  }
+}

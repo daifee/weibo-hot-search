@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701243232707,
+  "endTime": 1701246168662,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -89,6 +89,14 @@
       "onboard_time": 1701145477,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2566325,
+      "num": 2566325,
+      "word": "网传西藏阿里全体公务员为一女子献血",
+      "onboard_time": 1701242074,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2366870,
@@ -643,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201208,
+      "num": 1201208,
+      "word": "滴滴致歉补偿券领不了",
+      "onboard_time": 1701242914,
+      "rank": 11,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 1185764,
       "num": 1185764,
       "word": "行政执法卷 歹毒",
@@ -683,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167004,
+      "num": 1167004,
+      "word": "水哥43岁状态",
+      "onboard_time": 1701243454,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1159980,
       "num": 1159980,
       "word": "国考笔试今日开考",
       "onboard_time": 1700959050,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1145794,
+      "num": 1145794,
+      "word": "佘诗曼回应美甲15年来没变过",
+      "onboard_time": 1701241653,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1132878,
@@ -891,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 961207,
+      "num": 961207,
+      "word": "官方回应阿里西藏全区公务员为一人献血",
+      "onboard_time": 1701243634,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 960114,
       "num": 960114,
       "word": "周一的我被确诊为安陵容",
@@ -1043,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 863345,
-      "num": 443167,
-      "word": "滴滴致歉补偿券领不了",
-      "onboard_time": 1701242914,
-      "rank": 11,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 862946,
       "num": 712843,
       "word": "中式恐怖",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1700991696,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 834891,
-      "num": 433763,
-      "word": "佘诗曼回应美甲15年来没变过",
-      "onboard_time": 1701241653,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 821819,
@@ -1289,14 +1313,6 @@
       "onboard_time": 1700954060,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 744081,
-      "num": 744081,
-      "word": "网传西藏阿里全体公务员为一女子献血",
-      "onboard_time": 1701242074,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 742224,
@@ -1531,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665417,
+      "num": 665417,
+      "word": "汤唯接女儿放学",
+      "onboard_time": 1701242494,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663334,
       "num": 663334,
       "word": "杨幂发文说2024作品相见",
@@ -1713,6 +1737,22 @@
       "onboard_time": 1701173976,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 629548,
+      "num": 629548,
+      "word": "迪丽热巴填补了秦海璐的遗憾",
+      "onboard_time": 1701244174,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 628309,
+      "num": 628309,
+      "word": "女儿发烧最高至40度妈妈取号1600号",
+      "onboard_time": 1701246034,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 627576,
@@ -2337,6 +2377,14 @@
       "onboard_time": 1700975494,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511619,
+      "num": 448443,
+      "word": "女生经期 不能按摩",
+      "onboard_time": 1701244473,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 508067,
@@ -3099,14 +3147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409403,
-      "num": 409403,
-      "word": "汤唯接女儿放学",
-      "onboard_time": 1701242494,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 408875,
       "num": 408875,
       "word": "海清说张桂梅会影响她很久很久",
@@ -3619,6 +3659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348781,
+      "num": 348781,
+      "word": "当事人丈夫否认阿里全体公务员为其妻献血",
+      "onboard_time": 1701243393,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348736,
       "num": 348736,
       "word": "旭旭宝宝曾随陈少杰赴纳斯达克敲钟",
@@ -3971,6 +4019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318733,
+      "num": 318733,
+      "word": "SEVENTEEN在红毯拿了奖",
+      "onboard_time": 1701244954,
+      "rank": 18,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 316946,
       "num": 316946,
       "word": "虞书欣晒尖叫之夜奖杯",
@@ -4257,6 +4313,14 @@
       "onboard_time": 1701064354,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302743,
+      "num": 302743,
+      "word": "4万元金条收货后被直接扔了",
+      "onboard_time": 1701242013,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302644,
@@ -4761,6 +4825,14 @@
       "onboard_time": 1700972253,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276672,
+      "num": 276672,
+      "word": "汤唯Burberry品牌代言人",
+      "onboard_time": 1701244116,
+      "rank": 22,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 275743,
@@ -5395,6 +5467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247717,
+      "num": 247717,
+      "word": "防弹少年团成员将入伍",
+      "onboard_time": 1701243873,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247237,
       "num": 182044,
       "word": "王鹤棣 e人社交",
@@ -5425,14 +5505,6 @@
       "onboard_time": 1700991757,
       "rank": 31,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 245731,
-      "num": 245731,
-      "word": "4万元金条收货后被直接扔了",
-      "onboard_time": 1701242013,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245634,
@@ -6363,6 +6435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209771,
+      "num": 209771,
+      "word": "小时候上微机课为什么要穿鞋套",
+      "onboard_time": 1701244714,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 209672,
       "num": 209672,
       "word": "暗恋对象成为大明星",
@@ -6537,6 +6617,14 @@
       "onboard_time": 1701152374,
       "rank": 27,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 203645,
+      "num": 203645,
+      "word": "法考主观题",
+      "onboard_time": 1701245193,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 203150,
@@ -7097,6 +7185,14 @@
       "onboard_time": 1700919947,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 191877,
+      "num": 191877,
+      "word": "原来树也有一母多胞",
+      "onboard_time": 1701245717,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191791,
@@ -8115,6 +8211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166201,
+      "num": 166201,
+      "word": "何蓝逗一念关山哭戏",
+      "onboard_time": 1701245793,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165776,
       "num": 165776,
       "word": "梅西一家在迪士尼",
@@ -8193,6 +8297,14 @@
       "onboard_time": 1701228155,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163701,
+      "num": 163701,
+      "word": "觉得作者文化水平不高的瞬间",
+      "onboard_time": 1701245434,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 163619,
@@ -8337,6 +8449,14 @@
       "onboard_time": 1701013713,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160060,
+      "num": 160060,
+      "word": "王菲早年波光粼粼妆",
+      "onboard_time": 1701245253,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 160035,
@@ -8875,6 +8995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144757,
+      "num": 144757,
+      "word": "法考 坐等主观108",
+      "onboard_time": 1701243694,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 144669,
       "num": 144669,
       "word": "一念关山今日开播",
@@ -9219,6 +9347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133247,
+      "num": 133247,
+      "word": "当T人和F人看到负面新闻",
+      "onboard_time": 1701244537,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132103,
       "num": 132103,
       "word": "杨丽萍回应近期争议",
@@ -9275,12 +9411,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130318,
+      "num": 130318,
+      "word": "外交部回应日本驻华大使探望被拘留日本公民",
+      "onboard_time": 1701245855,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130257,
       "num": 130257,
       "word": "Knights周年贺图",
       "onboard_time": 1701073832,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 130122,
+      "num": 130122,
+      "word": "懂事的领导会在周五下午请假",
+      "onboard_time": 1701244414,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 128508,
@@ -9361,6 +9513,14 @@
       "onboard_time": 1701010477,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124508,
+      "num": 124508,
+      "word": "现在的人上班都上癫了",
+      "onboard_time": 1701246156,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 124457,
@@ -10260,7 +10420,7 @@
     },
     {
       "raw_hot": 47935,
-      "num": 1134047,
+      "num": 1170966,
       "word": "链博会里有什么",
       "onboard_time": 1701234518,
       "rank": 2,
