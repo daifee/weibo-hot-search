@@ -1,0 +1,410 @@
+{
+  "runTime": 1701262226374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1718362,
+        "num": 1718362,
+        "word": "papi酱 新型骗局",
+        "onboard_time": 1701256175,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1207798,
+        "num": 1207798,
+        "word": "举报权志龙吸毒的人推翻口供",
+        "onboard_time": 1701259538,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87254,
+        "num": 1200998,
+        "word": "最深的鞠躬表达最衷心的感谢",
+        "onboard_time": 1701256416,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195809,
+        "num": 1195809,
+        "word": "利智",
+        "onboard_time": 1701256057,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763928,
+        "num": 763928,
+        "word": "李维嘉 生命最后三天也要做家务",
+        "onboard_time": 1701251915,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652201,
+        "num": 652201,
+        "word": "崔胜澈现身MAMA",
+        "onboard_time": 1701260258,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 511670,
+        "num": 511670,
+        "word": "官方称号召西藏阿里公务员献血无不正当因素",
+        "onboard_time": 1701258700,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498566,
+        "num": 498566,
+        "word": "海底捞部分门店不让跳科目三了",
+        "onboard_time": 1701255815,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458796,
+        "num": 458796,
+        "word": "鹅腿阿姨哽咽称压力太大",
+        "onboard_time": 1701257376,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415611,
+        "num": 415611,
+        "word": "华为校招 高颜值HR",
+        "onboard_time": 1701255935,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1472337,
+        "num": 415301,
+        "word": "阿里公务员",
+        "onboard_time": 1701259655,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1380318,
+        "num": 414149,
+        "word": "潘玮柏结婚照",
+        "onboard_time": 1701261103,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604579,
+        "num": 413881,
+        "word": "刘诗诗 谁是你表妹",
+        "onboard_time": 1701255576,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412975,
+        "num": 412975,
+        "word": "金智秀获MAMA最佳表演女歌手",
+        "onboard_time": 1701255935,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 395572,
+        "num": 395572,
+        "word": "住在瓜田里的肛肠科医生",
+        "onboard_time": 1701258815,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367317,
+        "num": 367317,
+        "word": "gidle 黑天鹅",
+        "onboard_time": 1701254618,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345630,
+        "num": 345630,
+        "word": "红米k70",
+        "onboard_time": 1701256898,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 305493,
+        "num": 305493,
+        "word": "何猷君 我是上海女婿",
+        "onboard_time": 1701256057,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294647,
+        "num": 294647,
+        "word": "毕业后成了导师的甲方",
+        "onboard_time": 1701259233,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266449,
+        "num": 266449,
+        "word": "4岁男童被父亲扯后衣领提起窒息身亡",
+        "onboard_time": 1701237035,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1405539,
+        "num": 266248,
+        "word": "内娱审美 畸形",
+        "onboard_time": 1701260798,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286808,
+        "num": 265180,
+        "word": "SEVENTEEN最佳男团",
+        "onboard_time": 1701258635,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260764,
+        "num": 260764,
+        "word": "企鹅 抑郁情绪",
+        "onboard_time": 1701259958,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 251655,
+        "num": 251655,
+        "word": "GEN2024阵容官宣",
+        "onboard_time": 1701260798,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202213,
+        "num": 202213,
+        "word": "冬季狠人减肥法",
+        "onboard_time": 1701256655,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 272466,
+        "num": 202181,
+        "word": "迪丽热巴 恶女戏",
+        "onboard_time": 1701248735,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261747,
+        "num": 202073,
+        "word": "Ditto年度歌曲",
+        "onboard_time": 1701261579,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187064,
+        "num": 201910,
+        "word": "刘亦菲换轮胎",
+        "onboard_time": 1701249756,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 138911,
+        "num": 201903,
+        "word": "滴滴致歉补偿券领不了",
+        "onboard_time": 1701242914,
+        "rank": 28,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 116815,
+        "num": 201748,
+        "word": "短道速滑世界杯中国队名单",
+        "onboard_time": 1701257796,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246331,
+        "num": 201677,
+        "word": "佘诗曼回应美甲15年来没变过",
+        "onboard_time": 1701241653,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241292,
+        "num": 201543,
+        "word": "王一博现身小米园区",
+        "onboard_time": 1701251977,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216252,
+        "num": 201461,
+        "word": "迪丽热巴一铲子定住了王安宇的船",
+        "onboard_time": 1701257196,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201402,
+        "num": 201402,
+        "word": "叶青谈和刘诗诗五次合作",
+        "onboard_time": 1701260376,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171004,
+        "num": 196382,
+        "word": "B站首次日活用户破1亿",
+        "onboard_time": 1701259598,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194432,
+        "num": 194432,
+        "word": "肖战卡其色穿搭上班路透",
+        "onboard_time": 1701253718,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191810,
+        "num": 191810,
+        "word": "李连杰采访 死后不立碑不办丧事",
+        "onboard_time": 1701254015,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170551,
+        "num": 183550,
+        "word": "妈妈在我的破风衣上补了朵花",
+        "onboard_time": 1701258576,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157087,
+        "num": 183018,
+        "word": "拆完快递 洗手",
+        "onboard_time": 1701261701,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156546,
+        "num": 182949,
+        "word": "周星驰 星星闪烁的瞬间",
+        "onboard_time": 1701260433,
+        "rank": 39,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 182928,
+        "num": 182928,
+        "word": "轮到谢娜在台下看父母表演了",
+        "onboard_time": 1701258277,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178726,
+        "num": 178726,
+        "word": "白鹿给张凌赫王星越拉架好忙碌",
+        "onboard_time": 1701257557,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174413,
+        "num": 174413,
+        "word": "以爱为营",
+        "onboard_time": 1701262119,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156863,
+        "num": 156863,
+        "word": "花少5龙龙真的太可怜了",
+        "onboard_time": 1701256301,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142509,
+        "num": 142509,
+        "word": "新闻女王徐晓薇的学历造假",
+        "onboard_time": 1701256301,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138837,
+        "num": 138837,
+        "word": "SHEIN上市估值远超拼多多",
+        "onboard_time": 1701261877,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137908,
+        "num": 137908,
+        "word": "神兵小将第三季",
+        "onboard_time": 1701248853,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136235,
+        "num": 136235,
+        "word": "假睫毛的重要性",
+        "onboard_time": 1701258937,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87318,
+        "num": 129551,
+        "word": "男生把毕业后第一份工资交给奶奶",
+        "onboard_time": 1701258874,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86866,
+        "num": 125963,
+        "word": "民警15秒出警35秒救人",
+        "onboard_time": 1701251436,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#促进优质网络文化产品生产传播#"
+    }
+  }
+}

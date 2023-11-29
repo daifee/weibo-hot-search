@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701261242373,
+  "endTime": 1701262226374,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -51,8 +51,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1634212,
-      "num": 1634212,
+      "raw_hot": 1718362,
+      "num": 1718362,
       "word": "papi酱 新型骗局",
       "onboard_time": 1701256175,
       "rank": 30,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1524826,
-      "num": 993773,
+      "num": 1195809,
       "word": "利智",
       "onboard_time": 1701256057,
       "rank": 17,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1472337,
+      "num": 501579,
+      "word": "阿里公务员",
+      "onboard_time": 1701259655,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1405957,
       "num": 1405957,
       "word": "质疑朱丹 理解朱丹",
@@ -91,12 +99,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1405539,
+      "num": 491720,
+      "word": "内娱审美 畸形",
+      "onboard_time": 1701260798,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1398919,
       "num": 916260,
       "word": "疑似西藏遇车祸女子转运画面曝光",
       "onboard_time": 1701252101,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1380318,
+      "num": 414149,
+      "word": "潘玮柏结婚照",
+      "onboard_time": 1701261103,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1375028,
@@ -281,14 +305,6 @@
       "onboard_time": 1701224913,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 869256,
-      "num": 501579,
-      "word": "阿里公务员",
-      "onboard_time": 1701259655,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 843639,
@@ -611,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511670,
+      "num": 511670,
+      "word": "官方称号召西藏阿里公务员献血无不正当因素",
+      "onboard_time": 1701258700,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508093,
       "num": 508093,
       "word": "肖战卡其色穿搭上班路透",
@@ -625,14 +649,6 @@
       "onboard_time": 1701252039,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 505133,
-      "num": 505133,
-      "word": "官方称号召西藏阿里公务员献血无不正当因素",
-      "onboard_time": 1701258700,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 504529,
@@ -657,14 +673,6 @@
       "onboard_time": 1701212541,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491720,
-      "num": 491720,
-      "word": "内娱审美 畸形",
-      "onboard_time": 1701260798,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 486148,
@@ -907,20 +915,20 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 345630,
+      "num": 345630,
+      "word": "红米k70",
+      "onboard_time": 1701256898,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 341388,
       "num": 281675,
       "word": "痞幼3个月广告收入约为1620万",
       "onboard_time": 1701159455,
       "rank": 12,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 340873,
-      "num": 340873,
-      "word": "红米k70",
-      "onboard_time": 1701256898,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 336180,
@@ -1081,14 +1089,6 @@
       "onboard_time": 1701186751,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296553,
-      "num": 263510,
-      "word": "潘玮柏结婚照",
-      "onboard_time": 1701261103,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 295561,
@@ -1275,6 +1275,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261747,
+      "num": 202073,
+      "word": "Ditto年度歌曲",
+      "onboard_time": 1701261579,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 260764,
+      "num": 260764,
+      "word": "企鹅 抑郁情绪",
+      "onboard_time": 1701259958,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 258178,
       "num": 258178,
       "word": "蒙克绝杀勇士",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1701217476,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 251655,
+      "num": 251655,
+      "word": "GEN2024阵容官宣",
+      "onboard_time": 1701260798,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 249222,
@@ -1363,16 +1387,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244153,
-      "num": 193528,
-      "word": "企鹅 抑郁情绪",
-      "onboard_time": 1701259958,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 244147,
-      "num": 191110,
+      "num": 201461,
       "word": "迪丽热巴一铲子定住了王安宇的船",
       "onboard_time": 1701257196,
       "rank": 33,
@@ -1460,7 +1476,7 @@
     },
     {
       "raw_hot": 229058,
-      "num": 191937,
+      "num": 201402,
       "word": "叶青谈和刘诗诗五次合作",
       "onboard_time": 1701260376,
       "rank": 34,
@@ -1603,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206023,
-      "num": 206023,
-      "word": "GEN2024阵容官宣",
-      "onboard_time": 1701260798,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 205924,
       "num": 205924,
       "word": "刘诗诗王艳对手戏",
@@ -1732,7 +1740,7 @@
     },
     {
       "raw_hot": 196831,
-      "num": 172567,
+      "num": 182928,
       "word": "轮到谢娜在台下看父母表演了",
       "onboard_time": 1701258277,
       "rank": 42,
@@ -1964,7 +1972,7 @@
     },
     {
       "raw_hot": 176195,
-      "num": 176195,
+      "num": 183550,
       "word": "妈妈在我的破风衣上补了朵花",
       "onboard_time": 1701258576,
       "rank": 39,
@@ -1985,6 +1993,14 @@
       "onboard_time": 1701241592,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174413,
+      "num": 174413,
+      "word": "以爱为营",
+      "onboard_time": 1701262119,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 173968,
@@ -2131,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157087,
+      "num": 183018,
+      "word": "拆完快递 洗手",
+      "onboard_time": 1701261701,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156176,
       "num": 156176,
       "word": "刘诗诗任如意 冷脸女刺客",
@@ -2259,6 +2283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138837,
+      "num": 138837,
+      "word": "SHEIN上市估值远超拼多多",
+      "onboard_time": 1701261877,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137987,
       "num": 137987,
       "word": "神兵小将 3D画风",
@@ -2364,7 +2396,7 @@
     },
     {
       "raw_hot": 122039,
-      "num": 198135,
+      "num": 201748,
       "word": "短道速滑世界杯中国队名单",
       "onboard_time": 1701257796,
       "rank": 29,
@@ -2564,7 +2596,7 @@
     },
     {
       "raw_hot": 89630,
-      "num": 1101672,
+      "num": 1200998,
       "word": "最深的鞠躬表达最衷心的感谢",
       "onboard_time": 1701256416,
       "rank": 2,
