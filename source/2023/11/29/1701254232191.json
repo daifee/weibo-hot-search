@@ -1,0 +1,410 @@
+{
+  "runTime": 1701254232191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1457638,
+        "num": 1457638,
+        "word": "李维嘉 生命最后三天也要做家务",
+        "onboard_time": 1701251915,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298798,
+        "num": 1208981,
+        "word": "民警15秒出警35秒救人",
+        "onboard_time": 1701251436,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29714,
+        "num": 1091513,
+        "word": "链博会里有什么",
+        "onboard_time": 1701234518,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1075575,
+        "num": 1075575,
+        "word": "武汉大学",
+        "onboard_time": 1701249756,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141162,
+        "num": 916260,
+        "word": "疑似西藏遇车祸女子转运画面曝光",
+        "onboard_time": 1701252101,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736182,
+        "num": 736182,
+        "word": "迪丽热巴 恶女戏",
+        "onboard_time": 1701248735,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 652033,
+        "num": 652033,
+        "word": "刘亦菲换轮胎",
+        "onboard_time": 1701249756,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 618066,
+        "num": 618066,
+        "word": "佘诗曼回应美甲15年来没变过",
+        "onboard_time": 1701241653,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508093,
+        "num": 508093,
+        "word": "肖战卡其色穿搭上班路透",
+        "onboard_time": 1701253718,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 532024,
+        "num": 507858,
+        "word": "李晨说周淑怡是他心里的一姐",
+        "onboard_time": 1701246635,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 992346,
+        "num": 507787,
+        "word": "网传西藏阿里全体公务员为一女子献血",
+        "onboard_time": 1701242074,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506927,
+        "num": 506927,
+        "word": "王一博现身小米园区",
+        "onboard_time": 1701251977,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476525,
+        "num": 476525,
+        "word": "神兵小将第三季",
+        "onboard_time": 1701248853,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 448504,
+        "num": 448504,
+        "word": "汪苏泷染头哭了",
+        "onboard_time": 1701252039,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84521,
+        "num": 447994,
+        "word": "诛仙世界定价权交给玩家",
+        "onboard_time": 1701252039,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 447910,
+        "num": 447910,
+        "word": "MAMA",
+        "onboard_time": 1701250297,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 418827,
+        "num": 418827,
+        "word": "早恋其实一眼就能看出来",
+        "onboard_time": 1701252155,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 404436,
+        "num": 404436,
+        "word": "李连杰采访 死后不立碑不办丧事",
+        "onboard_time": 1701254015,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377467,
+        "num": 377467,
+        "word": "4岁男童被父亲扯后衣领提起窒息身亡",
+        "onboard_time": 1701237035,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306286,
+        "num": 306286,
+        "word": "滴滴致歉补偿券领不了",
+        "onboard_time": 1701242914,
+        "rank": 19,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 493907,
+        "num": 305571,
+        "word": "女儿发烧最高至40度妈妈取号1600号",
+        "onboard_time": 1701246034,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350308,
+        "num": 304873,
+        "word": "教练拎起迪丽热巴就跟小鸡仔一样",
+        "onboard_time": 1701251615,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303973,
+        "num": 303973,
+        "word": "宫胁咲良花神造型",
+        "onboard_time": 1701250297,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277282,
+        "num": 277282,
+        "word": "会韩语的朋友请留步",
+        "onboard_time": 1701251376,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299848,
+        "num": 275385,
+        "word": "ZB1获MAMA最佳男新人奖",
+        "onboard_time": 1701250898,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289481,
+        "num": 274590,
+        "word": "水哥43岁状态",
+        "onboard_time": 1701243454,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270863,
+        "num": 270863,
+        "word": "张杰偷跑物料",
+        "onboard_time": 1701252214,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172558,
+        "num": 227776,
+        "word": "4万元金条收货后被直接扔了",
+        "onboard_time": 1701242013,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153807,
+        "num": 222619,
+        "word": "海南航空HU7175紧急备降广州",
+        "onboard_time": 1701239914,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131072,
+        "num": 222282,
+        "word": "外交部回应日本驻华大使探望被拘留日本公民",
+        "onboard_time": 1701245855,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221981,
+        "num": 221981,
+        "word": "e人和i狗",
+        "onboard_time": 1701247594,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221162,
+        "num": 221162,
+        "word": "狗子为了合群假装不认识主人",
+        "onboard_time": 1701251376,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220361,
+        "num": 220361,
+        "word": "韩国买入一念关山播出版权",
+        "onboard_time": 1701247653,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219261,
+        "num": 219261,
+        "word": "微软 丑毛衣",
+        "onboard_time": 1701253361,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 207141,
+        "num": 207141,
+        "word": "吴昕花瓶腰",
+        "onboard_time": 1701234518,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196087,
+        "num": 196087,
+        "word": "若曦倒拔垂杨柳",
+        "onboard_time": 1701250114,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186483,
+        "num": 186483,
+        "word": "女生经期 不能按摩",
+        "onboard_time": 1701244473,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178810,
+        "num": 178810,
+        "word": "EXO校园风台历",
+        "onboard_time": 1701241174,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167444,
+        "num": 167444,
+        "word": "轻断食的第一天",
+        "onboard_time": 1701248555,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167125,
+        "num": 167125,
+        "word": "宋亚轩用英文说哪吒台词",
+        "onboard_time": 1701253000,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166257,
+        "num": 166257,
+        "word": "我成熟的要死 只是选择幼稚",
+        "onboard_time": 1701247114,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163686,
+        "num": 163686,
+        "word": "汤唯接女儿放学",
+        "onboard_time": 1701242494,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158071,
+        "num": 158071,
+        "word": "现在的人上班都上癫了",
+        "onboard_time": 1701246156,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155089,
+        "num": 155089,
+        "word": "倪萍就是新闻女王照进现实吧",
+        "onboard_time": 1701248494,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153149,
+        "num": 153149,
+        "word": "不要同时染发和烫发",
+        "onboard_time": 1701248435,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 149543,
+        "num": 149543,
+        "word": "王睡睡张硕 没领证",
+        "onboard_time": 1701230556,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147213,
+        "num": 147213,
+        "word": "一念关山",
+        "onboard_time": 1701234273,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146187,
+        "num": 146187,
+        "word": "EDG教练明凯回归",
+        "onboard_time": 1701250475,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137987,
+        "num": 137987,
+        "word": "神兵小将 3D画风",
+        "onboard_time": 1701254197,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102602,
+        "num": 136842,
+        "word": "萌兰和越狱神器只隔了5cm",
+        "onboard_time": 1701253179,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为各类所有制企业创造公平竞争竞相发展的环境#"
+    }
+  }
+}

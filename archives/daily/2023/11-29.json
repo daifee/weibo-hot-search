@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701253183461,
+  "endTime": 1701254232191,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -57,6 +57,14 @@
       "onboard_time": 1701194417,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1457638,
+      "num": 1457638,
+      "word": "李维嘉 生命最后三天也要做家务",
+      "onboard_time": 1701251915,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1405957,
@@ -137,6 +145,14 @@
       "onboard_time": 1701230556,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1141162,
+      "num": 916260,
+      "word": "疑似西藏遇车祸女子转运画面曝光",
+      "onboard_time": 1701252101,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1088434,
@@ -235,14 +251,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 857426,
-      "num": 857426,
-      "word": "疑似西藏遇车祸女子转运画面曝光",
-      "onboard_time": 1701252101,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 843639,
       "num": 843639,
       "word": "雷军向武大捐赠13亿元",
@@ -297,14 +305,6 @@
       "onboard_time": 1701233559,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 707178,
-      "num": 707178,
-      "word": "李维嘉 生命最后三天也要做家务",
-      "onboard_time": 1701251915,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 682032,
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 508093,
+      "num": 508093,
+      "word": "肖战卡其色穿搭上班路透",
+      "onboard_time": 1701253718,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 505649,
       "num": 505649,
       "word": "汪苏泷染头哭了",
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418827,
+      "num": 418827,
+      "word": "早恋其实一眼就能看出来",
+      "onboard_time": 1701252155,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415340,
       "num": 415340,
       "word": "邓超定7个闹钟听鹿晗新歌",
@@ -641,6 +657,14 @@
       "onboard_time": 1701227496,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404436,
+      "num": 404436,
+      "word": "李连杰采访 死后不立碑不办丧事",
+      "onboard_time": 1701254015,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 401754,
@@ -689,14 +713,6 @@
       "onboard_time": 1701203533,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 374008,
-      "num": 374008,
-      "word": "早恋其实一眼就能看出来",
-      "onboard_time": 1701252155,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 370371,
@@ -852,7 +868,7 @@
     },
     {
       "raw_hot": 310185,
-      "num": 857945,
+      "num": 1208981,
       "word": "民警15秒出警35秒救人",
       "onboard_time": 1701251436,
       "rank": 1,
@@ -1051,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 270863,
+      "num": 270863,
+      "word": "张杰偷跑物料",
+      "onboard_time": 1701252214,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269649,
       "num": 269649,
       "word": "郑培峰",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1701232898,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248255,
-      "num": 248255,
-      "word": "张杰偷跑物料",
-      "onboard_time": 1701252214,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 247894,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1701236316,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219261,
+      "num": 219261,
+      "word": "微软 丑毛衣",
+      "onboard_time": 1701253361,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 212662,
@@ -1459,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196087,
+      "num": 196087,
+      "word": "若曦倒拔垂杨柳",
+      "onboard_time": 1701250114,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194247,
       "num": 194247,
       "word": "EDG教练明凯回归",
@@ -1568,14 +1600,6 @@
       "word": "新闻女王",
       "onboard_time": 1701213688,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 185333,
-      "num": 185333,
-      "word": "若曦倒拔垂杨柳",
-      "onboard_time": 1701250114,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1723,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167125,
+      "num": 167125,
+      "word": "宋亚轩用英文说哪吒台词",
+      "onboard_time": 1701253000,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164676,
       "num": 164676,
       "word": "男子一路尾随女子趁等电梯多次猥亵",
@@ -1851,14 +1883,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 152112,
-      "num": 152112,
-      "word": "宋亚轩用英文说哪吒台词",
-      "onboard_time": 1701253000,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150172,
       "num": 150172,
       "word": "当T人和F人看到负面新闻",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1701238774,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137987,
+      "num": 137987,
+      "word": "神兵小将 3D画风",
+      "onboard_time": 1701254197,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 137636,
@@ -2115,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102602,
+      "num": 136842,
+      "word": "萌兰和越狱神器只隔了5cm",
+      "onboard_time": 1701253179,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102200,
       "num": 102200,
       "word": "胡锡进称中华有为世界荣耀",
@@ -2203,6 +2243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84521,
+      "num": 447994,
+      "word": "诛仙世界定价权交给玩家",
+      "onboard_time": 1701252039,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80704,
       "num": 85439,
       "word": "当代研究生参加会议",
@@ -2233,14 +2281,6 @@
       "onboard_time": 1701201434,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66506,
-      "num": 437191,
-      "word": "诛仙世界定价权交给玩家",
-      "onboard_time": 1701252039,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 65651,
