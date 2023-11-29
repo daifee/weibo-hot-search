@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701214454459,
+  "endTime": 1701220621510,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -33,6 +33,14 @@
       "onboard_time": 1701132095,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3257596,
+      "num": 3257596,
+      "word": "芒格去世",
+      "onboard_time": 1701212963,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 2958727,
@@ -227,6 +235,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1850100,
+      "num": 1850100,
+      "word": "男子中2.6亿后次日凌晨准时上班",
+      "onboard_time": 1701218559,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1838560,
       "num": 1838560,
       "word": "白鹿 尖叫女演员",
@@ -257,14 +273,6 @@
       "onboard_time": 1700926666,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1791774,
-      "num": 1791774,
-      "word": "芒格去世",
-      "onboard_time": 1701212963,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 1787413,
@@ -369,6 +377,14 @@
       "onboard_time": 1701182497,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1618435,
+      "num": 1618435,
+      "word": "海底捞服务员跳擦玻璃舞被指低俗",
+      "onboard_time": 1701194417,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1595355,
@@ -579,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1209274,
-      "num": 1209274,
-      "word": "海底捞服务员跳擦玻璃舞被指低俗",
-      "onboard_time": 1701194417,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1185764,
       "num": 1185764,
       "word": "行政执法卷 歹毒",
@@ -657,6 +665,14 @@
       "onboard_time": 1701040162,
       "rank": 11,
       "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 1087269,
+      "num": 1087269,
+      "word": "张凌赫看向白鹿的眼神",
+      "onboard_time": 1701215430,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1082565,
@@ -737,6 +753,14 @@
       "onboard_time": 1700968896,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1007419,
+      "num": 1007419,
+      "word": "地球收到1600万公里外传来激光数据",
+      "onboard_time": 1701218137,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1004514,
@@ -1683,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572981,
+      "num": 572981,
+      "word": "傅首尔老刘 允许离开的发生",
+      "onboard_time": 1701218075,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572585,
       "num": 572585,
       "word": "新闻女王 当众下跪给我一点小震撼",
@@ -1705,6 +1737,14 @@
       "onboard_time": 1701097834,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570699,
+      "num": 294392,
+      "word": "第一次感觉生理期被具象化",
+      "onboard_time": 1701218017,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 566971,
@@ -1891,6 +1931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 530043,
+      "num": 290314,
+      "word": "胃癌发现时大多是中晚期",
+      "onboard_time": 1701217177,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529149,
       "num": 529149,
       "word": "何猷君奚梦瑶 严父慈母",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1700987492,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 514236,
+      "num": 514236,
+      "word": "她兄控他妹控我兄妹控",
+      "onboard_time": 1701217657,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 513905,
@@ -2091,6 +2147,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 494253,
+      "num": 494253,
+      "word": "博主B太曝光的鬼秤商家被罚款20万",
+      "onboard_time": 1701212541,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493177,
       "num": 493177,
       "word": "星光大赏 嘉宾",
@@ -2195,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 478016,
+      "num": 478016,
+      "word": "迪丽热巴造型 MixWei",
+      "onboard_time": 1701219216,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 476545,
       "num": 285868,
       "word": "曾黎20年前后穿婚纱对比",
@@ -2232,6 +2304,14 @@
       "word": "张雨绮加入朵拉宇宙",
       "onboard_time": 1701089316,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 473176,
+      "num": 473176,
+      "word": "一念关山口碑",
+      "onboard_time": 1701219696,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -2443,6 +2523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 445583,
+      "num": 445583,
+      "word": "为啥有人一穿高领衣服就难受",
+      "onboard_time": 1701214649,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443549,
       "num": 443549,
       "word": "国考数量 全蒙",
@@ -2457,6 +2545,14 @@
       "onboard_time": 1700910585,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441654,
+      "num": 441654,
+      "word": "拼多多市值逼近阿里",
+      "onboard_time": 1701215369,
+      "rank": 14,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 440110,
@@ -3267,14 +3363,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 339625,
-      "num": 159722,
-      "word": "博主B太曝光的鬼秤商家被罚款20万",
-      "onboard_time": 1701212541,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338293,
       "num": 338293,
       "word": "张译 缺席",
@@ -3289,6 +3377,14 @@
       "onboard_time": 1701077195,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 336180,
+      "num": 336180,
+      "word": "一念关山刷新首日剧播纪录",
+      "onboard_time": 1701219096,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 335465,
@@ -3691,6 +3787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 304984,
+      "num": 304984,
+      "word": "张杰拍的于文文戴佩妮黄龄邓紫棋",
+      "onboard_time": 1701216639,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304606,
       "num": 304606,
       "word": "Cat直播回应花海",
@@ -4039,6 +4143,14 @@
       "num": 284461,
       "word": "宁远舟性张力",
       "onboard_time": 1701057519,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 284165,
+      "num": 284165,
+      "word": "佘诗曼现场审简历",
+      "onboard_time": 1701219096,
       "rank": 23,
       "category": "剧集"
     },
@@ -4651,12 +4763,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251959,
+      "num": 251959,
+      "word": "伊朗海军向美航母打击群发出警告",
+      "onboard_time": 1701217476,
+      "rank": 24,
+      "category": "军事"
+    },
+    {
       "raw_hot": 251502,
       "num": 251502,
       "word": "重庆一对母子周末坚持晨跑快4年",
       "onboard_time": 1700991393,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 250898,
+      "num": 250898,
+      "word": "滴滴员工称系统崩溃时内网也崩了",
+      "onboard_time": 1701219996,
+      "rank": 25,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 250758,
@@ -4833,6 +4961,14 @@
       "onboard_time": 1701127225,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 242478,
+      "num": 242478,
+      "word": "不怕疯批就怕反派情绪稳定",
+      "onboard_time": 1701220118,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 242476,
@@ -5059,6 +5195,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 232494,
+      "num": 232494,
+      "word": "你的网购首选平台还是淘宝吗",
+      "onboard_time": 1701218559,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 232418,
       "num": 232418,
       "word": "不是全员恶人 是全员饿人",
@@ -5169,6 +5313,14 @@
       "onboard_time": 1701149434,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 228531,
+      "num": 228531,
+      "word": "胡先煦一句话让辛芷蕾多云转晴",
+      "onboard_time": 1701218857,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 228414,
@@ -6187,6 +6339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192769,
+      "num": 192769,
+      "word": "熊猫长牙了莫斯科动物园第一时间展示",
+      "onboard_time": 1701206653,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192767,
       "num": 192767,
       "word": "小狗 真开心我要被爱了",
@@ -6209,6 +6369,14 @@
       "onboard_time": 1701181539,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192405,
+      "num": 192405,
+      "word": "宁远舟身世",
+      "onboard_time": 1701217117,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 192324,
@@ -6683,6 +6851,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 181938,
+      "num": 181938,
+      "word": "涵艺爆料xiaohao加入WBG",
+      "onboard_time": 1701214106,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181594,
       "num": 912711,
       "word": "不能二次加热的食物",
@@ -6891,14 +7067,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 174997,
-      "num": 99585,
-      "word": "涵艺爆料xiaohao加入WBG",
-      "onboard_time": 1701214106,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 174772,
       "num": 668260,
       "word": "千万别用吃很多药预防呼吸道疾病",
@@ -7003,6 +7171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170313,
+      "num": 170313,
+      "word": "赵露思珠帘玉幕女奴路透",
+      "onboard_time": 1701215915,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170228,
       "num": 170228,
       "word": "王嘉尔上海演唱会官宣两场",
@@ -7025,6 +7201,14 @@
       "onboard_time": 1701154890,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170084,
+      "num": 170084,
+      "word": "名侦探柯南30周年贺图",
+      "onboard_time": 1701219636,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 169776,
@@ -7443,6 +7627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 155369,
+      "num": 155369,
+      "word": "武汉大学130周年校庆",
+      "onboard_time": 1701220056,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155280,
       "num": 155280,
       "word": "王心凌成为王sir的两天",
@@ -7619,12 +7811,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 150072,
+      "num": 150072,
+      "word": "涵艺爆料weiwei加入LNG",
+      "onboard_time": 1701214230,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150031,
       "num": 150031,
       "word": "显发量的双麻花辫",
       "onboard_time": 1701073292,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 149980,
+      "num": 149980,
+      "word": "王嘉尔 我现在开始了",
+      "onboard_time": 1701214951,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 149250,
@@ -7745,14 +7953,6 @@
       "onboard_time": 1701182616,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146552,
-      "num": 146552,
-      "word": "熊猫长牙了莫斯科动物园第一时间展示",
-      "onboard_time": 1701206653,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146429,
@@ -8147,6 +8347,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 130351,
+      "num": 130351,
+      "word": "李灿直播",
+      "onboard_time": 1701217716,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130257,
       "num": 130257,
       "word": "Knights周年贺图",
@@ -8185,6 +8393,14 @@
       "onboard_time": 1701001536,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 127117,
+      "num": 127117,
+      "word": "心目中TOP1美剧",
+      "onboard_time": 1701220596,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126643,
@@ -8281,6 +8497,14 @@
       "onboard_time": 1701099989,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122294,
+      "num": 122294,
+      "word": "随手一扎的毽子头",
+      "onboard_time": 1701220596,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 120242,
@@ -8609,14 +8833,6 @@
       "onboard_time": 1701213866,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93384,
-      "num": 93384,
-      "word": "涵艺爆料weiwei加入LNG",
-      "onboard_time": 1701214230,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 92448,
@@ -9180,7 +9396,7 @@
     },
     {
       "raw_hot": 29579,
-      "num": 1405761,
+      "num": 1693117,
       "word": "首届链博会让中外企业共享新机遇",
       "onboard_time": 1701176317,
       "rank": 2,
