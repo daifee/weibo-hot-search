@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701296213873,
+  "endTime": 1701297298322,
   "band_list": [
     {
       "raw_hot": 1192253,
@@ -49,6 +49,14 @@
       "onboard_time": 1701269560,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429882,
+      "num": 429882,
+      "word": "太原地震",
+      "onboard_time": 1701291252,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416699,
@@ -123,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 309239,
-      "num": 309239,
-      "word": "太原地震",
-      "onboard_time": 1701291252,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301907,
       "num": 219743,
       "word": "内娱审美 畸形",
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215548,
+      "num": 215548,
+      "word": "跳火科目三第一人发声",
+      "onboard_time": 1701287774,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191317,
       "num": 191317,
       "word": "一念关山和女医明妃传同样的编剧",
@@ -225,14 +233,6 @@
       "onboard_time": 1701268236,
       "rank": 26,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 149371,
-      "num": 149371,
-      "word": "跳火科目三第一人发声",
-      "onboard_time": 1701287774,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136362,
@@ -435,6 +435,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 83164,
+      "num": 83164,
+      "word": "何广智杭州演出取消赔外地观众差旅费",
+      "onboard_time": 1701285854,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 78669,
       "num": 78669,
       "word": "傅首尔老刘",
@@ -483,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 53861,
-      "num": 53861,
-      "word": "何广智杭州演出取消赔外地观众差旅费",
-      "onboard_time": 1701285854,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 49654,
       "num": 54274,
       "word": "海底捞 科目三",
@@ -507,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41010,
+      "num": 41010,
+      "word": "韩国红毯妆造",
+      "onboard_time": 1701296237,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 32726,
       "num": 32726,
       "word": "萧妍只想做太后",
@@ -515,12 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29120,
-      "num": 29120,
+      "raw_hot": 30862,
+      "num": 30862,
       "word": "南海归墟第五集3分钟吓人",
       "onboard_time": 1701292333,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27715,
+      "num": 27715,
+      "word": "龚俊直播冲水声好响",
+      "onboard_time": 1701291913,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 25500,
@@ -531,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19241,
-      "num": 19955,
-      "word": "龚俊直播冲水声好响",
-      "onboard_time": 1701291913,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 23649,
+      "num": 25805,
+      "word": "医生建议学校改网课",
+      "onboard_time": 1701297077,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 16426,
@@ -563,8 +579,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 9165,
-      "num": 168141,
+      "raw_hot": 10074,
+      "num": 248947,
       "word": "链博会展商开始预约下一届展位了",
       "onboard_time": 1701270576,
       "rank": 2,

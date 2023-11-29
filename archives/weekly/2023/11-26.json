@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701296213873,
+  "endTime": 1701297298322,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -3371,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429882,
+      "num": 429882,
+      "word": "太原地震",
+      "onboard_time": 1701291252,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429008,
       "num": 429008,
       "word": "毛不易演得像他真的嫁过女儿",
@@ -4761,14 +4769,6 @@
       "onboard_time": 1700964269,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 309239,
-      "num": 309239,
-      "word": "太原地震",
-      "onboard_time": 1701291252,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308912,
@@ -7113,6 +7113,14 @@
       "onboard_time": 1700991092,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 215548,
+      "num": 215548,
+      "word": "跳火科目三第一人发声",
+      "onboard_time": 1701287774,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215365,
@@ -9971,14 +9979,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149371,
-      "num": 149371,
-      "word": "跳火科目三第一人发声",
-      "onboard_time": 1701287774,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149250,
       "num": 149250,
       "word": "原来猫咪平时都是踮着脚的",
@@ -11355,6 +11355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83164,
+      "num": 83164,
+      "word": "何广智杭州演出取消赔外地观众差旅费",
+      "onboard_time": 1701285854,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 82700,
       "num": 65971,
       "word": "为什么3元饮料逐渐消失",
@@ -11723,14 +11731,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 53861,
-      "num": 53861,
-      "word": "何广智杭州演出取消赔外地观众差旅费",
-      "onboard_time": 1701285854,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 53374,
       "num": 53374,
       "word": "特斯拉连撞11车当天刚上牌",
@@ -11851,6 +11851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41010,
+      "num": 41010,
+      "word": "韩国红毯妆造",
+      "onboard_time": 1701296237,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 38139,
       "num": 198003,
       "word": "欧阳娜娜看秀版ootd",
@@ -11931,20 +11939,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30862,
+      "num": 30862,
+      "word": "南海归墟第五集3分钟吓人",
+      "onboard_time": 1701292333,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29579,
       "num": 1693117,
       "word": "首届链博会让中外企业共享新机遇",
       "onboard_time": 1701176317,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29120,
-      "num": 29120,
-      "word": "南海归墟第五集3分钟吓人",
-      "onboard_time": 1701292333,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 28343,
@@ -11961,6 +11969,14 @@
       "onboard_time": 1700944335,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27715,
+      "num": 27715,
+      "word": "龚俊直播冲水声好响",
+      "onboard_time": 1701291913,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 27035,
@@ -12019,6 +12035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23649,
+      "num": 25805,
+      "word": "医生建议学校改网课",
+      "onboard_time": 1701297077,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 20998,
       "num": 24371,
       "word": "当抚慰犬看到主人狂吃披萨时",
@@ -12041,14 +12065,6 @@
       "onboard_time": 1701118633,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 19241,
-      "num": 19955,
-      "word": "龚俊直播冲水声好响",
-      "onboard_time": 1701291913,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 18502,

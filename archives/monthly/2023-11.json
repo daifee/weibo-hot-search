@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701296213873,
+  "endTime": 1701297298322,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -22915,6 +22915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429882,
+      "num": 429882,
+      "word": "太原地震",
+      "onboard_time": 1701291252,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429234,
       "num": 306875,
       "word": "若曦公主抱玉檀",
@@ -32385,14 +32393,6 @@
       "onboard_time": 1699959932,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309239,
-      "num": 309239,
-      "word": "太原地震",
-      "onboard_time": 1701291252,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309175,
@@ -46065,6 +46065,14 @@
       "onboard_time": 1699608155,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215548,
+      "num": 215548,
+      "word": "跳火科目三第一人发声",
+      "onboard_time": 1701287774,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215521,
@@ -64371,14 +64379,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 149371,
-      "num": 149371,
-      "word": "跳火科目三第一人发声",
-      "onboard_time": 1701287774,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149354,
       "num": 149354,
       "word": "快乐老友记再现爆梗路人",
@@ -76915,6 +76915,14 @@
       "category": "动漫,时尚"
     },
     {
+      "raw_hot": 83164,
+      "num": 83164,
+      "word": "何广智杭州演出取消赔外地观众差旅费",
+      "onboard_time": 1701285854,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 83018,
       "num": 97141,
       "word": "谁没有看到李宇春的啵一个",
@@ -79075,14 +79083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53861,
-      "num": 53861,
-      "word": "何广智杭州演出取消赔外地观众差旅费",
-      "onboard_time": 1701285854,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 53555,
       "num": 53555,
       "word": "秦岚一句话治好辛芷蕾的容貌焦虑",
@@ -79723,6 +79723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 41010,
+      "num": 41010,
+      "word": "韩国红毯妆造",
+      "onboard_time": 1701296237,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 40857,
       "num": 40857,
       "word": "艾伦 谢谢你替我围上围巾",
@@ -80179,6 +80187,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 30862,
+      "num": 30862,
+      "word": "南海归墟第五集3分钟吓人",
+      "onboard_time": 1701292333,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30687,
       "num": 230576,
       "word": "元梦之星正版发糖",
@@ -80241,14 +80257,6 @@
       "onboard_time": 1698866594,
       "rank": 35,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 29120,
-      "num": 29120,
-      "word": "南海归墟第五集3分钟吓人",
-      "onboard_time": 1701292333,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 28908,
@@ -80321,6 +80329,14 @@
       "onboard_time": 1699292359,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27715,
+      "num": 27715,
+      "word": "龚俊直播冲水声好响",
+      "onboard_time": 1701291913,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 27035,
@@ -80505,6 +80521,14 @@
       "onboard_time": 1700503877,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23649,
+      "num": 25805,
+      "word": "医生建议学校改网课",
+      "onboard_time": 1701297077,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 23648,
@@ -80729,14 +80753,6 @@
       "onboard_time": 1700600712,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 19241,
-      "num": 19955,
-      "word": "龚俊直播冲水声好响",
-      "onboard_time": 1701291913,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 18502,
