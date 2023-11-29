@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701290085047,
+  "endTime": 1701292537877,
   "band_list": [
     {
       "raw_hot": 1192253,
@@ -176,6 +176,14 @@
       "word": "女子排队礼让孕妇后被其他人礼让",
       "onboard_time": 1701265235,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193545,
+      "num": 193545,
+      "word": "太原地震",
+      "onboard_time": 1701291252,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86645,
+      "num": 35205,
+      "word": "跳火科目三第一人发声",
+      "onboard_time": 1701287774,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83716,
       "num": 86842,
       "word": "十大高危职业之滑板教练",
@@ -467,14 +483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55156,
-      "num": 30582,
-      "word": "跳火科目三第一人发声",
-      "onboard_time": 1701287774,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 49654,
       "num": 54274,
       "word": "海底捞 科目三",
@@ -513,6 +521,22 @@
       "onboard_time": 1701280517,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18615,
+      "num": 18615,
+      "word": "南海归墟第五集3分钟吓人",
+      "onboard_time": 1701292333,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13285,
+      "num": 13534,
+      "word": "龚俊直播冲水声好响",
+      "onboard_time": 1701291913,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 12937,
