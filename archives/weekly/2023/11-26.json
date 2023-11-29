@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701278188790,
+  "endTime": 1701279257110,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -3955,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373265,
+      "num": 141810,
+      "word": "精神科医生 没有车想杀死你是你的幻觉",
+      "onboard_time": 1701274290,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 373126,
       "num": 293432,
       "word": "冬天赖床其实是身体在保护你",
@@ -5713,14 +5721,6 @@
       "onboard_time": 1701086735,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266166,
-      "num": 141810,
-      "word": "精神科医生 没有车想杀死你是你的幻觉",
-      "onboard_time": 1701274290,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 266054,
@@ -11523,6 +11523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66480,
+      "num": 64466,
+      "word": "石凯新专辑",
+      "onboard_time": 1701278841,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 65814,
       "num": 65814,
       "word": "虞书欣少女感双马尾",
@@ -11617,6 +11625,14 @@
       "onboard_time": 1701017963,
       "rank": 45,
       "category": "自然"
+    },
+    {
+      "raw_hot": 60214,
+      "num": 60214,
+      "word": "花少5 文化输出",
+      "onboard_time": 1701279019,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 59251,
@@ -11793,6 +11809,14 @@
       "onboard_time": 1701157472,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39371,
+      "num": 45665,
+      "word": "1500元踩雷网红温泉酒店",
+      "onboard_time": 1701278898,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 38139,
