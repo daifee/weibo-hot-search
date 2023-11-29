@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701242212821,
+  "endTime": 1701243232707,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -155,6 +155,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 863345,
+      "num": 443167,
+      "word": "滴滴致歉补偿券领不了",
+      "onboard_time": 1701242914,
+      "rank": 11,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 843639,
       "num": 843639,
       "word": "雷军向武大捐赠13亿元",
@@ -163,20 +171,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 834891,
+      "num": 433763,
+      "word": "佘诗曼回应美甲15年来没变过",
+      "onboard_time": 1701241653,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 821819,
+      "num": 821819,
+      "word": "海南航空HU7175紧急备降广州",
+      "onboard_time": 1701239914,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 804090,
       "num": 804090,
       "word": "很笨但能考上公务员的暗黑偏方",
       "onboard_time": 1701182497,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 790065,
-      "num": 790065,
-      "word": "海南航空HU7175紧急备降广州",
-      "onboard_time": 1701239914,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 785846,
@@ -200,6 +216,14 @@
       "word": "北京一房东将两居室改成七居室出租",
       "onboard_time": 1701235475,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744081,
+      "num": 744081,
+      "word": "网传西藏阿里全体公务员为一女子献血",
+      "onboard_time": 1701242074,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -355,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 520184,
+      "num": 417305,
+      "word": "滴滴派发补偿券",
+      "onboard_time": 1701241712,
+      "rank": 31,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 514236,
       "num": 514236,
       "word": "她兄控他妹控我兄妹控",
@@ -467,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409403,
+      "num": 409403,
+      "word": "汤唯接女儿放学",
+      "onboard_time": 1701242494,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408554,
       "num": 408554,
       "word": "何猷君 爱是常觉亏欠",
@@ -499,28 +539,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 370371,
+      "num": 321032,
+      "word": "迪丽热巴高颅顶发箍",
+      "onboard_time": 1701242973,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361648,
       "num": 329102,
       "word": "很多胃癌都是吃出来的",
       "onboard_time": 1701232421,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 354636,
-      "num": 155563,
-      "word": "佘诗曼回应美甲15年来没变过",
-      "onboard_time": 1701241653,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 351714,
-      "num": 152922,
-      "word": "滴滴派发补偿券",
-      "onboard_time": 1701241712,
-      "rank": 31,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 348842,
@@ -835,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245731,
+      "num": 245731,
+      "word": "4万元金条收货后被直接扔了",
+      "onboard_time": 1701242013,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244575,
       "num": 244575,
       "word": "张佳宁沙溢演过情侣",
@@ -1075,6 +1115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190259,
+      "num": 190259,
+      "word": "陈赫宣传鹿晗新歌",
+      "onboard_time": 1701242554,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190133,
       "num": 190133,
       "word": "雷军创全国高校单笔个人现金捐赠纪录",
@@ -1147,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181872,
+      "num": 181872,
+      "word": "秦海璐10年前后穿同一套衣服对比照",
+      "onboard_time": 1701242853,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178689,
       "num": 153385,
       "word": "吴千语不公开恋情的原因",
@@ -1161,6 +1217,22 @@
       "onboard_time": 1701229654,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175884,
+      "num": 175884,
+      "word": "花少团因为流浪猫哭了",
+      "onboard_time": 1701242133,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174465,
+      "num": 174465,
+      "word": "周迅 幺儿好乖",
+      "onboard_time": 1701241592,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 173968,
@@ -1249,6 +1321,14 @@
       "onboard_time": 1701237575,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 161477,
+      "num": 161477,
+      "word": "星穹铁道联动奖牌",
+      "onboard_time": 1701243034,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 160426,
@@ -1379,14 +1459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140757,
-      "num": 140757,
-      "word": "网传西藏阿里全体公务员为一女子献血",
-      "onboard_time": 1701242074,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137636,
       "num": 137636,
       "word": "张馨予和妈妈逛周庄",
@@ -1433,22 +1505,6 @@
       "onboard_time": 1701217716,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128033,
-      "num": 128033,
-      "word": "花少团因为流浪猫哭了",
-      "onboard_time": 1701242133,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 124007,
-      "num": 124007,
-      "word": "4万元金条收货后被直接扔了",
-      "onboard_time": 1701242013,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123935,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1701243232707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1225185,
+        "num": 1225185,
+        "word": "全班23人请病假仅3萌娃坚强上课",
+        "onboard_time": 1701234578,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 821819,
+        "num": 821819,
+        "word": "海南航空HU7175紧急备降广州",
+        "onboard_time": 1701239914,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39032,
+        "num": 761540,
+        "word": "链博会里有什么",
+        "onboard_time": 1701234518,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744081,
+        "num": 744081,
+        "word": "网传西藏阿里全体公务员为一女子献血",
+        "onboard_time": 1701242074,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704624,
+        "num": 704624,
+        "word": "张踩铃 我家外国人真的不懂忌讳",
+        "onboard_time": 1701239075,
+        "rank": 4,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 658723,
+        "num": 658723,
+        "word": "娜娜离世后老金才真正认识她",
+        "onboard_time": 1701233559,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 606820,
+        "num": 606820,
+        "word": "吴昕花瓶腰",
+        "onboard_time": 1701234518,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 580415,
+        "num": 580415,
+        "word": "秦岚说和迪丽热巴像两个要饭的",
+        "onboard_time": 1701235837,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526099,
+        "num": 526099,
+        "word": "EXO校园风台历",
+        "onboard_time": 1701241174,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464074,
+        "num": 464074,
+        "word": "刘诗诗回复叶青",
+        "onboard_time": 1701240873,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1083762,
+        "num": 457210,
+        "word": "4岁男童被父亲扯后衣领提起窒息身亡",
+        "onboard_time": 1701237035,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863345,
+        "num": 443167,
+        "word": "滴滴致歉补偿券领不了",
+        "onboard_time": 1701242914,
+        "rank": 11,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 834891,
+        "num": 433763,
+        "word": "佘诗曼回应美甲15年来没变过",
+        "onboard_time": 1701241653,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772568,
+        "num": 430392,
+        "word": "女儿高烧40度两天妈妈取号取到1600号",
+        "onboard_time": 1701230975,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520184,
+        "num": 417305,
+        "word": "滴滴派发补偿券",
+        "onboard_time": 1701241712,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 410232,
+        "num": 410232,
+        "word": "张凌赫 理工男的嘴不会放过任何人",
+        "onboard_time": 1701240215,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409403,
+        "num": 409403,
+        "word": "汤唯接女儿放学",
+        "onboard_time": 1701242494,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387012,
+        "num": 387012,
+        "word": "王睡睡张硕 没领证",
+        "onboard_time": 1701230556,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377568,
+        "num": 377568,
+        "word": "第一名奖励边睡觉边上课",
+        "onboard_time": 1701236555,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323903,
+        "num": 323903,
+        "word": "北京一房东将两居室改成七居室出租",
+        "onboard_time": 1701235475,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370371,
+        "num": 321032,
+        "word": "迪丽热巴高颅顶发箍",
+        "onboard_time": 1701242973,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285610,
+        "num": 285610,
+        "word": "女友宣布与内马尔分手",
+        "onboard_time": 1701223714,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262348,
+        "num": 262348,
+        "word": "因为在群里回复一个好离职了",
+        "onboard_time": 1701232720,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261886,
+        "num": 261886,
+        "word": "刘宇宁换头像",
+        "onboard_time": 1701239314,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251349,
+        "num": 251349,
+        "word": "马云内网回应拼多多市值逼近阿里",
+        "onboard_time": 1701230796,
+        "rank": 24,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 250415,
+        "num": 250415,
+        "word": "男子葬礼上给客人喝假酒致4人死亡",
+        "onboard_time": 1701233857,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245731,
+        "num": 245731,
+        "word": "4万元金条收货后被直接扔了",
+        "onboard_time": 1701242013,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190259,
+        "num": 190259,
+        "word": "陈赫宣传鹿晗新歌",
+        "onboard_time": 1701242554,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185528,
+        "num": 185528,
+        "word": "相亲相到公司领导",
+        "onboard_time": 1701237696,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181872,
+        "num": 181872,
+        "word": "秦海璐10年前后穿同一套衣服对比照",
+        "onboard_time": 1701242853,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175884,
+        "num": 175884,
+        "word": "花少团因为流浪猫哭了",
+        "onboard_time": 1701242133,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174465,
+        "num": 174465,
+        "word": "周迅 幺儿好乖",
+        "onboard_time": 1701241592,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169375,
+        "num": 169375,
+        "word": "一念关山",
+        "onboard_time": 1701234273,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165098,
+        "num": 165098,
+        "word": "男子中2.6亿后次日凌晨准时上班",
+        "onboard_time": 1701218559,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162390,
+        "num": 162390,
+        "word": "蒙克绝杀勇士",
+        "onboard_time": 1701238953,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161477,
+        "num": 161477,
+        "word": "星穹铁道联动奖牌",
+        "onboard_time": 1701243034,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149403,
+        "num": 149403,
+        "word": "接LNGMing",
+        "onboard_time": 1701231938,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148328,
+        "num": 148328,
+        "word": "新闻女王 没有赢家的一集",
+        "onboard_time": 1701239914,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148174,
+        "num": 148174,
+        "word": "感冒发烧输液好得快是误区",
+        "onboard_time": 1701236077,
+        "rank": 38,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 129943,
+        "num": 129943,
+        "word": "南海归墟 古猜",
+        "onboard_time": 1701237875,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126977,
+        "num": 126977,
+        "word": "很多胃癌都是吃出来的",
+        "onboard_time": 1701232421,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121000,
+        "num": 121000,
+        "word": "唐嫣念无双杀青路透",
+        "onboard_time": 1701236136,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120403,
+        "num": 120403,
+        "word": "A股",
+        "onboard_time": 1701230016,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118339,
+        "num": 118339,
+        "word": "刘诗诗任如意 冷脸女刺客",
+        "onboard_time": 1701241353,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113353,
+        "num": 113353,
+        "word": "小孩吃蜂蜜可有效止咳",
+        "onboard_time": 1701237392,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110429,
+        "num": 110429,
+        "word": "白鹿姜雪宁仿妆",
+        "onboard_time": 1701237875,
+        "rank": 45,
+        "category": "美妆,剧集"
+      },
+      {
+        "raw_hot": 106431,
+        "num": 106431,
+        "word": "张馨予和妈妈逛周庄",
+        "onboard_time": 1701241712,
+        "rank": 46,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 105151,
+        "num": 105151,
+        "word": "王源美国plog",
+        "onboard_time": 1701236316,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104610,
+        "num": 104610,
+        "word": "勇士赢国王12分将晋级",
+        "onboard_time": 1701236793,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104448,
+        "num": 104448,
+        "word": "TWICE合照 休假突然被拉来打工",
+        "onboard_time": 1701233618,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十次集体学习#"
+    }
+  }
+}
