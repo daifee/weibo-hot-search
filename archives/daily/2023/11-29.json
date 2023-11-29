@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701224979286,
+  "endTime": 1701225618050,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2076910,
-      "num": 2076910,
+      "raw_hot": 2108789,
+      "num": 2108789,
       "word": "女友宣布与内马尔分手",
       "onboard_time": 1701223714,
       "rank": 1,
@@ -75,20 +75,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 804387,
+      "num": 804387,
+      "word": "网友举报转转二手手机出具阴阳检测报告",
+      "onboard_time": 1701222032,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 804090,
       "num": 804090,
       "word": "很笨但能考上公务员的暗黑偏方",
       "onboard_time": 1701182497,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 755721,
-      "num": 755721,
-      "word": "网友举报转转二手手机出具阴阳检测报告",
-      "onboard_time": 1701222032,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615585,
@@ -129,6 +129,14 @@
       "onboard_time": 1701218075,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 549259,
+      "num": 549259,
+      "word": "刘璐给迪丽热巴做过的造型",
+      "onboard_time": 1701224136,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 530043,
@@ -203,20 +211,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 412239,
-      "num": 412239,
-      "word": "刘璐给迪丽热巴做过的造型",
-      "onboard_time": 1701224136,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 410498,
       "num": 410498,
       "word": "心目中TOP1美剧",
       "onboard_time": 1701220596,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 400144,
+      "num": 302556,
+      "word": "男童手臂伸进笼子被藏獒咬断",
+      "onboard_time": 1701223654,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380512,
@@ -241,14 +249,6 @@
       "onboard_time": 1701159455,
       "rank": 12,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 338440,
-      "num": 302556,
-      "word": "男童手臂伸进笼子被藏獒咬断",
-      "onboard_time": 1701223654,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336180,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304110,
+      "num": 304110,
+      "word": "美颜把魏大勋酒窝都磨没了",
+      "onboard_time": 1701223835,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301055,
       "num": 272703,
       "word": "一念关山 六道堂男团",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290799,
+      "num": 280097,
+      "word": "一念关山戈壁大片",
+      "onboard_time": 1701224675,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289400,
       "num": 276863,
       "word": "南海归墟巨型海兽出没",
@@ -361,6 +377,14 @@
       "onboard_time": 1701223354,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280786,
+      "num": 280786,
+      "word": "专业仅有的4位女生年级前四保研",
+      "onboard_time": 1701224913,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 274262,
@@ -401,22 +425,6 @@
       "onboard_time": 1701174036,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 259515,
-      "num": 259515,
-      "word": "美颜把魏大勋酒窝都磨没了",
-      "onboard_time": 1701223835,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 256429,
-      "num": 256429,
-      "word": "一念关山戈壁大片",
-      "onboard_time": 1701224675,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 253379,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172845,
+      "num": 172845,
+      "word": "我的电脑好像被公司监视了",
+      "onboard_time": 1701224675,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170313,
       "num": 170313,
       "word": "赵露思珠帘玉幕女奴路透",
@@ -585,6 +601,14 @@
       "onboard_time": 1701170435,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160426,
+      "num": 160426,
+      "word": "73年前的今天杨根思牺牲",
+      "onboard_time": 1701224495,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157984,
@@ -659,28 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147974,
+      "num": 147974,
+      "word": "涉过愤怒的海 细节解读",
+      "onboard_time": 1701225334,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 147754,
+      "num": 147754,
+      "word": "你去海底捞会点小哥跳舞吗",
+      "onboard_time": 1701224074,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145845,
       "num": 145845,
       "word": "孙丞潇不让金莎看手机",
       "onboard_time": 1701173976,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143250,
-      "num": 143250,
-      "word": "我的电脑好像被公司监视了",
-      "onboard_time": 1701224675,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 138262,
-      "num": 138262,
-      "word": "73年前的今天杨根思牺牲",
-      "onboard_time": 1701224495,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135823,
@@ -715,12 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125126,
-      "num": 125126,
-      "word": "你去海底捞会点小哥跳舞吗",
-      "onboard_time": 1701224074,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 123755,
+      "num": 123755,
+      "word": "橘猫面对三花美女的尴尬时刻",
+      "onboard_time": 1701225454,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 119290,
@@ -737,14 +761,6 @@
       "onboard_time": 1701164974,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113903,
-      "num": 113903,
-      "word": "专业仅有的4位女生年级前四保研",
-      "onboard_time": 1701224913,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 112651,
