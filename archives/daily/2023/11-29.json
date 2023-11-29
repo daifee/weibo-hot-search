@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701267344110,
+  "endTime": 1701268466133,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1495066,
+      "num": 1256242,
+      "word": "公务员献血事件女子父亲回应包机转院",
+      "onboard_time": 1701264939,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1478840,
       "num": 501579,
       "word": "阿里公务员",
@@ -163,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1256242,
-      "num": 1256242,
-      "word": "公务员献血事件女子父亲回应包机转院",
-      "onboard_time": 1701264939,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1249182,
       "num": 968649,
       "word": "4岁男童被父亲扯后衣领提起窒息身亡",
@@ -195,6 +195,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 1193946,
+      "num": 1163060,
+      "word": "工作室回应张杰偷跑物料",
+      "onboard_time": 1701263618,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1192627,
       "num": 1192627,
       "word": "佘诗曼回应美甲15年来没变过",
@@ -217,14 +225,6 @@
       "onboard_time": 1701230556,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1163060,
-      "num": 1163060,
-      "word": "工作室回应张杰偷跑物料",
-      "onboard_time": 1701263618,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1088434,
@@ -307,6 +307,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 942147,
+      "num": 942147,
+      "word": "一念关山破万全员跳女团舞",
+      "onboard_time": 1701264635,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 939561,
       "num": 820680,
       "word": "女儿发烧最高至40度妈妈取号1600号",
@@ -345,14 +353,6 @@
       "onboard_time": 1701239914,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 806543,
-      "num": 806543,
-      "word": "一念关山破万全员跳女团舞",
-      "onboard_time": 1701264635,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 804090,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631605,
+      "num": 409352,
+      "word": "那是妈妈 指甲长反也不会害我",
+      "onboard_time": 1701267217,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 629548,
       "num": 629548,
       "word": "迪丽热巴填补了秦海璐的遗憾",
@@ -521,6 +529,14 @@
       "onboard_time": 1701257376,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620993,
+      "num": 620993,
+      "word": "钱可以慢慢攒但命没有第二次",
+      "onboard_time": 1701263677,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 615585,
@@ -563,6 +579,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 585873,
+      "num": 585873,
+      "word": "女子排队礼让孕妇后被其他人礼让",
+      "onboard_time": 1701265235,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579326,
       "num": 508329,
       "word": "金智秀获MAMA最佳表演女歌手",
@@ -577,14 +601,6 @@
       "onboard_time": 1701178597,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 574109,
-      "num": 574109,
-      "word": "钱可以慢慢攒但命没有第二次",
-      "onboard_time": 1701263677,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 572981,
@@ -648,14 +664,6 @@
       "word": "胃癌发现时大多是中晚期",
       "onboard_time": 1701217177,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529341,
-      "num": 529341,
-      "word": "女子排队礼让孕妇后被其他人礼让",
-      "onboard_time": 1701265235,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1443,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256830,
+      "num": 236244,
+      "word": "SEVENTEEN从受人指点到大赏",
+      "onboard_time": 1701264704,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253474,
       "num": 253474,
       "word": "怒海 不配当爹但喜欢当爹",
@@ -1467,14 +1483,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253176,
-      "num": 236244,
-      "word": "SEVENTEEN从受人指点到大赏",
-      "onboard_time": 1701264704,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 252622,
       "num": 236084,
       "word": "spotify年度",
@@ -1491,20 +1499,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 251770,
+      "num": 235452,
+      "word": "一念关山直播",
+      "onboard_time": 1701266199,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251655,
       "num": 251655,
       "word": "GEN2024阵容官宣",
       "onboard_time": 1701260798,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 250830,
-      "num": 235452,
-      "word": "一念关山直播",
-      "onboard_time": 1701266199,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 249222,
@@ -1545,6 +1553,22 @@
       "onboard_time": 1701248555,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245480,
+      "num": 245480,
+      "word": "人真的不能一直过省钱的生活",
+      "onboard_time": 1701267516,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 244786,
+      "num": 244786,
+      "word": "白羊座的友谊是一对一的",
+      "onboard_time": 1701262777,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 244575,
@@ -1617,14 +1641,6 @@
       "onboard_time": 1701213205,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 236482,
-      "num": 236482,
-      "word": "白羊座的友谊是一对一的",
-      "onboard_time": 1701262777,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 235449,
@@ -1771,14 +1787,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 211236,
-      "num": 211236,
-      "word": "那是妈妈 指甲长反也不会害我",
-      "onboard_time": 1701267217,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210201,
       "num": 236408,
       "word": "PUBG",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1701234934,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209871,
+      "num": 191797,
+      "word": "王鹤棣黑色连帽外套",
+      "onboard_time": 1701267998,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209771,
@@ -1972,7 +1988,7 @@
     },
     {
       "raw_hot": 196799,
-      "num": 143127,
+      "num": 175236,
       "word": "陈伟霆林超贤 从籍籍无名到顶峰相见",
       "onboard_time": 1701265901,
       "rank": 42,
@@ -2275,12 +2291,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 169296,
+      "num": 188981,
+      "word": "双鱼座反差的一面",
+      "onboard_time": 1701264998,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168951,
       "num": 168951,
       "word": "全境封锁2国服上线",
       "onboard_time": 1701231817,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168879,
+      "num": 187022,
+      "word": "美团市值两天蒸发超千亿港元",
+      "onboard_time": 1701267159,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 167897,
@@ -2483,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148205,
+      "num": 183995,
+      "word": "还以为是什么走秀现场",
+      "onboard_time": 1701267878,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147974,
       "num": 149338,
       "word": "涉过愤怒的海 细节解读",
@@ -2497,6 +2537,14 @@
       "onboard_time": 1701224074,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147641,
+      "num": 167690,
+      "word": "反复烧水会增加致癌物质吗",
+      "onboard_time": 1701268236,
+      "rank": 46,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 145845,
@@ -2524,7 +2572,7 @@
     },
     {
       "raw_hot": 141384,
-      "num": 134642,
+      "num": 167550,
       "word": "你最怀念的校门口小吃是啥",
       "onboard_time": 1701267159,
       "rank": 47,
@@ -2540,7 +2588,7 @@
     },
     {
       "raw_hot": 141198,
-      "num": 141198,
+      "num": 200896,
       "word": "据说这是萌兰最想删除的视频",
       "onboard_time": 1701265780,
       "rank": 43,
@@ -2561,6 +2609,14 @@
       "onboard_time": 1701254197,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137637,
+      "num": 192631,
+      "word": "读研后变得更好了么",
+      "onboard_time": 1701268058,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 137636,
@@ -2609,14 +2665,6 @@
       "onboard_time": 1701262836,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 132961,
-      "num": 132961,
-      "word": "美团市值两天蒸发超千亿港元",
-      "onboard_time": 1701267159,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 130481,
