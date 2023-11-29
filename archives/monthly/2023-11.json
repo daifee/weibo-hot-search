@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701220621510,
+  "endTime": 1701221855810,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1667,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2186740,
+      "num": 2186740,
+      "word": "男子中2.6亿后次日凌晨准时上班",
+      "onboard_time": 1701218559,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2186614,
       "num": 569448,
       "word": "李佳琦直播间疑为冲销量未付先送",
@@ -2473,14 +2481,6 @@
       "onboard_time": 1700743902,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1850100,
-      "num": 1850100,
-      "word": "男子中2.6亿后次日凌晨准时上班",
-      "onboard_time": 1701218559,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1846043,
@@ -6515,6 +6515,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1088434,
+      "num": 1088434,
+      "word": "地球收到1600万公里外传来激光数据",
+      "onboard_time": 1701218137,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1087269,
       "num": 1087269,
       "word": "张凌赫看向白鹿的眼神",
@@ -7185,14 +7193,6 @@
       "onboard_time": 1699627655,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1007419,
-      "num": 1007419,
-      "word": "地球收到1600万公里外传来激光数据",
-      "onboard_time": 1701218137,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1004331,
@@ -14179,6 +14179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 615585,
+      "num": 294392,
+      "word": "第一次感觉生理期被具象化",
+      "onboard_time": 1701218017,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 615435,
       "num": 276815,
       "word": "贾乃亮谅解患病造谣者",
@@ -14257,6 +14265,14 @@
       "onboard_time": 1700922405,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 613683,
+      "num": 613683,
+      "word": "一念关山口碑",
+      "onboard_time": 1701219696,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 613542,
@@ -14849,6 +14865,14 @@
       "onboard_time": 1699849176,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 598033,
+      "num": 499716,
+      "word": "滴滴员工称系统崩溃时内网也崩了",
+      "onboard_time": 1701219996,
+      "rank": 25,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 597779,
@@ -15809,14 +15833,6 @@
       "onboard_time": 1701097834,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570699,
-      "num": 294392,
-      "word": "第一次感觉生理期被具象化",
-      "onboard_time": 1701218017,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 570638,
@@ -19856,14 +19872,6 @@
       "word": "张雨绮加入朵拉宇宙",
       "onboard_time": 1701089316,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 473176,
-      "num": 473176,
-      "word": "一念关山口碑",
-      "onboard_time": 1701219696,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -27459,6 +27467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354193,
+      "num": 354193,
+      "word": "雷军向武大捐赠13亿元",
+      "onboard_time": 1701221314,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 353925,
       "num": 353925,
       "word": "樊振东与波尔现场观战多特",
@@ -27569,6 +27585,14 @@
       "onboard_time": 1699368759,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 352036,
+      "num": 352036,
+      "word": "心目中TOP1美剧",
+      "onboard_time": 1701220596,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 351884,
@@ -33435,6 +33459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289400,
+      "num": 276863,
+      "word": "南海归墟巨型海兽出没",
+      "onboard_time": 1701221375,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289360,
       "num": 289360,
       "word": "国色芳华",
@@ -35457,6 +35489,14 @@
       "onboard_time": 1700317653,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272436,
+      "num": 272436,
+      "word": "出道6天在MAMA上首演的Enhypen",
+      "onboard_time": 1701220957,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 272375,
@@ -38409,14 +38449,6 @@
       "onboard_time": 1699846470,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 250898,
-      "num": 250898,
-      "word": "滴滴员工称系统崩溃时内网也崩了",
-      "onboard_time": 1701219996,
-      "rank": 25,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 250758,
@@ -47113,6 +47145,14 @@
       "onboard_time": 1700633916,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205477,
+      "num": 205477,
+      "word": "库班出售独行侠大部分股份",
+      "onboard_time": 1701220957,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 205464,
@@ -59739,6 +59779,14 @@
       "category": "社会新闻,剧集"
     },
     {
+      "raw_hot": 159893,
+      "num": 159893,
+      "word": "邓超听完鹿晗新歌失眠了",
+      "onboard_time": 1701221614,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159865,
       "num": 159865,
       "word": "30年前真的是对暗号取钱的",
@@ -62977,6 +63025,14 @@
       "onboard_time": 1701138034,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147040,
+      "num": 147040,
+      "word": "随手一扎的毽子头",
+      "onboard_time": 1701220596,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 146982,
@@ -67939,14 +67995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127117,
-      "num": 127117,
-      "word": "心目中TOP1美剧",
-      "onboard_time": 1701220596,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127110,
       "num": 919565,
       "word": "外公干农活两外孙女一左一右帮倒忙",
@@ -69065,14 +69113,6 @@
       "onboard_time": 1699061733,
       "rank": 19,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 122294,
-      "num": 122294,
-      "word": "随手一扎的毽子头",
-      "onboard_time": 1701220596,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 122264,

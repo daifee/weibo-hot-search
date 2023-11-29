@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701220621510,
+  "endTime": 1701221855810,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -11,8 +11,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1850100,
-      "num": 1850100,
+      "raw_hot": 2186740,
+      "num": 2186740,
       "word": "男子中2.6亿后次日凌晨准时上班",
       "onboard_time": 1701218559,
       "rank": 1,
@@ -35,20 +35,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1088434,
+      "num": 1088434,
+      "word": "地球收到1600万公里外传来激光数据",
+      "onboard_time": 1701218137,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1087269,
       "num": 1087269,
       "word": "张凌赫看向白鹿的眼神",
       "onboard_time": 1701215430,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1007419,
-      "num": 1007419,
-      "word": "地球收到1600万公里外传来激光数据",
-      "onboard_time": 1701218137,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 971651,
@@ -59,12 +59,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 782494,
-      "num": 782494,
+      "raw_hot": 804090,
+      "num": 804090,
       "word": "很笨但能考上公务员的暗黑偏方",
       "onboard_time": 1701182497,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 615585,
+      "num": 294392,
+      "word": "第一次感觉生理期被具象化",
+      "onboard_time": 1701218017,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 613683,
+      "num": 613683,
+      "word": "一念关山口碑",
+      "onboard_time": 1701219696,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 598033,
+      "num": 499716,
+      "word": "滴滴员工称系统崩溃时内网也崩了",
+      "onboard_time": 1701219996,
+      "rank": 25,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 576645,
@@ -81,14 +105,6 @@
       "onboard_time": 1701218075,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 570699,
-      "num": 294392,
-      "word": "第一次感觉生理期被具象化",
-      "onboard_time": 1701218017,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 530043,
@@ -131,14 +147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 473176,
-      "num": 473176,
-      "word": "一念关山口碑",
-      "onboard_time": 1701219696,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 445583,
       "num": 445583,
       "word": "为啥有人一穿高领衣服就难受",
@@ -177,6 +185,22 @@
       "onboard_time": 1701203533,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 354193,
+      "num": 354193,
+      "word": "雷军向武大捐赠13亿元",
+      "onboard_time": 1701221314,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 352036,
+      "num": 352036,
+      "word": "心目中TOP1美剧",
+      "onboard_time": 1701220596,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 348842,
@@ -275,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289400,
+      "num": 276863,
+      "word": "南海归墟巨型海兽出没",
+      "onboard_time": 1701221375,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288702,
       "num": 269624,
       "word": "一念关山节奏",
@@ -289,6 +321,14 @@
       "onboard_time": 1701219096,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272436,
+      "num": 272436,
+      "word": "出道6天在MAMA上首演的Enhypen",
+      "onboard_time": 1701220957,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 269649,
@@ -331,14 +371,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 250898,
-      "num": 250898,
-      "word": "滴滴员工称系统崩溃时内网也崩了",
-      "onboard_time": 1701219996,
-      "rank": 25,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 242478,
       "num": 242478,
       "word": "不怕疯批就怕反派情绪稳定",
@@ -377,6 +409,14 @@
       "onboard_time": 1701182977,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205477,
+      "num": 205477,
+      "word": "库班出售独行侠大部分股份",
+      "onboard_time": 1701220957,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 201639,
@@ -467,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159893,
+      "num": 159893,
+      "word": "邓超听完鹿晗新歌失眠了",
+      "onboard_time": 1701221614,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157984,
       "num": 152971,
       "word": "我和papi酱的愿望是一样的",
@@ -531,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147040,
+      "num": 147040,
+      "word": "随手一扎的毽子头",
+      "onboard_time": 1701220596,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 145845,
       "num": 145845,
       "word": "孙丞潇不让金莎看手机",
@@ -569,22 +625,6 @@
       "onboard_time": 1701217716,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127117,
-      "num": 127117,
-      "word": "心目中TOP1美剧",
-      "onboard_time": 1701220596,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 122294,
-      "num": 122294,
-      "word": "随手一扎的毽子头",
-      "onboard_time": 1701220596,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 119290,

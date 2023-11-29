@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701220621510,
+  "endTime": 1701221855810,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2186740,
+      "num": 2186740,
+      "word": "男子中2.6亿后次日凌晨准时上班",
+      "onboard_time": 1701218559,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2127466,
       "num": 2127466,
       "word": "1500和1500是不一样的",
@@ -233,14 +241,6 @@
       "onboard_time": 1701164974,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1850100,
-      "num": 1850100,
-      "word": "男子中2.6亿后次日凌晨准时上班",
-      "onboard_time": 1701218559,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1838560,
@@ -667,6 +667,14 @@
       "category": "旅游,网红"
     },
     {
+      "raw_hot": 1088434,
+      "num": 1088434,
+      "word": "地球收到1600万公里外传来激光数据",
+      "onboard_time": 1701218137,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1087269,
       "num": 1087269,
       "word": "张凌赫看向白鹿的眼神",
@@ -753,14 +761,6 @@
       "onboard_time": 1700968896,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1007419,
-      "num": 1007419,
-      "word": "地球收到1600万公里外传来激光数据",
-      "onboard_time": 1701218137,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1004514,
@@ -1547,6 +1547,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 615585,
+      "num": 294392,
+      "word": "第一次感觉生理期被具象化",
+      "onboard_time": 1701218017,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 613683,
+      "num": 613683,
+      "word": "一念关山口碑",
+      "onboard_time": 1701219696,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610588,
       "num": 610588,
       "word": "正式被确诊为试管",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1700962530,
       "rank": 38,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 598033,
+      "num": 499716,
+      "word": "滴滴员工称系统崩溃时内网也崩了",
+      "onboard_time": 1701219996,
+      "rank": 25,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 595407,
@@ -1737,14 +1761,6 @@
       "onboard_time": 1701097834,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 570699,
-      "num": 294392,
-      "word": "第一次感觉生理期被具象化",
-      "onboard_time": 1701218017,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 566971,
@@ -2304,14 +2320,6 @@
       "word": "张雨绮加入朵拉宇宙",
       "onboard_time": 1701089316,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 473176,
-      "num": 473176,
-      "word": "一念关山口碑",
-      "onboard_time": 1701219696,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -3203,6 +3211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354193,
+      "num": 354193,
+      "word": "雷军向武大捐赠13亿元",
+      "onboard_time": 1701221314,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 353400,
       "num": 329619,
       "word": "易烊千玺4%vol的河",
@@ -3225,6 +3241,14 @@
       "onboard_time": 1700969194,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352036,
+      "num": 352036,
+      "word": "心目中TOP1美剧",
+      "onboard_time": 1701220596,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 350248,
@@ -4027,6 +4051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289400,
+      "num": 276863,
+      "word": "南海归墟巨型海兽出没",
+      "onboard_time": 1701221375,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289210,
       "num": 258984,
       "word": "妈妈说爸爸的彩礼到期了",
@@ -4369,6 +4401,14 @@
       "onboard_time": 1701167855,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272436,
+      "num": 272436,
+      "word": "出道6天在MAMA上首演的Enhypen",
+      "onboard_time": 1701220957,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 272055,
@@ -4777,14 +4817,6 @@
       "onboard_time": 1700991393,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 250898,
-      "num": 250898,
-      "word": "滴滴员工称系统崩溃时内网也崩了",
-      "onboard_time": 1701219996,
-      "rank": 25,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 250758,
@@ -5857,6 +5889,14 @@
       "onboard_time": 1701136353,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205477,
+      "num": 205477,
+      "word": "库班出售独行侠大部分股份",
+      "onboard_time": 1701220957,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 205434,
@@ -7491,6 +7531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159893,
+      "num": 159893,
+      "word": "邓超听完鹿晗新歌失眠了",
+      "onboard_time": 1701221614,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159865,
       "num": 159865,
       "word": "30年前真的是对暗号取钱的",
@@ -7947,6 +7995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147040,
+      "num": 147040,
+      "word": "随手一扎的毽子头",
+      "onboard_time": 1701220596,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 146974,
       "num": 146974,
       "word": "拳拳到肉的打戏",
@@ -8395,14 +8451,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 127117,
-      "num": 127117,
-      "word": "心目中TOP1美剧",
-      "onboard_time": 1701220596,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126643,
       "num": 126643,
       "word": "初二女生创新纪录拿下全科第一",
@@ -8497,14 +8545,6 @@
       "onboard_time": 1701099989,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122294,
-      "num": 122294,
-      "word": "随手一扎的毽子头",
-      "onboard_time": 1701220596,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 120242,
