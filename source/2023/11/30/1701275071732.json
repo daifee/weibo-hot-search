@@ -1,0 +1,410 @@
+{
+  "runTime": 1701275071732,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1192253,
+        "num": 1192253,
+        "word": "老娘当年旗袍开到肩膀",
+        "onboard_time": 1701270516,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 548041,
+        "num": 548041,
+        "word": "那是妈妈 指甲长反也不会害我",
+        "onboard_time": 1701267217,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98571,
+        "num": 541859,
+        "word": "4个方法远离流感",
+        "onboard_time": 1701271356,
+        "rank": 2,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 537471,
+        "num": 537471,
+        "word": "法考",
+        "onboard_time": 1701274828,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 478948,
+        "num": 478948,
+        "word": "傅首尔用的假睫毛狠狠避雷了",
+        "onboard_time": 1701269560,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396210,
+        "num": 396210,
+        "word": "法考成绩",
+        "onboard_time": 1701274170,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 393724,
+        "num": 393724,
+        "word": "国货羽绒服卖88元",
+        "onboard_time": 1701272373,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362754,
+        "num": 362754,
+        "word": "工作室回应张杰偷跑物料",
+        "onboard_time": 1701263618,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345680,
+        "num": 345680,
+        "word": "人真的不能一直过省钱的生活",
+        "onboard_time": 1701267516,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344067,
+        "num": 344067,
+        "word": "LV大秀 王鹤棣",
+        "onboard_time": 1701264035,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 765786,
+        "num": 338846,
+        "word": "潘玮柏结婚照",
+        "onboard_time": 1701261103,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554045,
+        "num": 336519,
+        "word": "西藏阿里已对献血事件进行复查",
+        "onboard_time": 1701271417,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416699,
+        "num": 335215,
+        "word": "公务员献血事件女子父亲回应包机转院",
+        "onboard_time": 1701264939,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332670,
+        "num": 332670,
+        "word": "Kim说不会因为没拿到offer就质疑自己",
+        "onboard_time": 1701273994,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331319,
+        "num": 331319,
+        "word": "一念关山破万全员跳女团舞",
+        "onboard_time": 1701264635,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292730,
+        "num": 292730,
+        "word": "霍思燕嗯哼飞鸭式拍照",
+        "onboard_time": 1701269918,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261228,
+        "num": 261228,
+        "word": "papi酱 新型骗局",
+        "onboard_time": 1701256175,
+        "rank": 16,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 248285,
+        "num": 248285,
+        "word": "读研后变得更好了么",
+        "onboard_time": 1701268058,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 238836,
+        "num": 238836,
+        "word": "阿里公务员",
+        "onboard_time": 1701259655,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222460,
+        "num": 222460,
+        "word": "利智",
+        "onboard_time": 1701256057,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301907,
+        "num": 219743,
+        "word": "内娱审美 畸形",
+        "onboard_time": 1701260798,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215566,
+        "num": 215566,
+        "word": "女子排队礼让孕妇后被其他人礼让",
+        "onboard_time": 1701265235,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191317,
+        "num": 191317,
+        "word": "一念关山和女医明妃传同样的编剧",
+        "onboard_time": 1701270516,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191011,
+        "num": 191011,
+        "word": "林志玲一家合照",
+        "onboard_time": 1701268659,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189901,
+        "num": 189901,
+        "word": "拼多多美股市值超阿里",
+        "onboard_time": 1701270816,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151004,
+        "num": 151004,
+        "word": "举报权志龙吸毒的人推翻口供",
+        "onboard_time": 1701259538,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150927,
+        "num": 150927,
+        "word": "反复烧水会增加致癌物质吗",
+        "onboard_time": 1701268236,
+        "rank": 26,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 136362,
+        "num": 136362,
+        "word": "刘诗诗 谁是你表妹",
+        "onboard_time": 1701255576,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134935,
+        "num": 134935,
+        "word": "浙江队武里南联 打起来了",
+        "onboard_time": 1701269856,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132989,
+        "num": 132989,
+        "word": "MAMA获奖总名单",
+        "onboard_time": 1701263018,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143134,
+        "num": 132632,
+        "word": "精神科医生 没有车想杀死你是你的幻觉",
+        "onboard_time": 1701274290,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131952,
+        "num": 131952,
+        "word": "一念关山直播",
+        "onboard_time": 1701266199,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127200,
+        "num": 127200,
+        "word": "海底捞部分门店不让跳科目三了",
+        "onboard_time": 1701255815,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125849,
+        "num": 125849,
+        "word": "k70价格",
+        "onboard_time": 1701262418,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119992,
+        "num": 119992,
+        "word": "白鹿发回顾视频告别郑书意",
+        "onboard_time": 1701273931,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114913,
+        "num": 114913,
+        "word": "newjeans获MAMA年度歌曲奖",
+        "onboard_time": 1701261103,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112785,
+        "num": 112785,
+        "word": "华为校招 高颜值HR",
+        "onboard_time": 1701255935,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110674,
+        "num": 110674,
+        "word": "gidle 黑天鹅",
+        "onboard_time": 1701254618,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110418,
+        "num": 110418,
+        "word": "钱可以慢慢攒但命没有第二次",
+        "onboard_time": 1701263677,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108090,
+        "num": 108090,
+        "word": "陕西鼓励科研人员离岗创业",
+        "onboard_time": 1701271831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109023,
+        "num": 108067,
+        "word": "李维嘉 生命最后三天也要做家务",
+        "onboard_time": 1701251915,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108022,
+        "num": 108022,
+        "word": "白羊座的友谊是一对一的",
+        "onboard_time": 1701262777,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108020,
+        "num": 108020,
+        "word": "4岁男童被父亲扯后衣领提起窒息身亡",
+        "onboard_time": 1701237035,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105900,
+        "num": 105900,
+        "word": "苏醒三个节目vlog",
+        "onboard_time": 1701271954,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104110,
+        "num": 104110,
+        "word": "南海归墟前5集黑黑黑黑亮",
+        "onboard_time": 1701269198,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103554,
+        "num": 103554,
+        "word": "SEVENTEEN从受人指点到大赏",
+        "onboard_time": 1701264704,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96801,
+        "num": 96801,
+        "word": "坚持上班的动力就是领导不在",
+        "onboard_time": 1701270816,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96301,
+        "num": 96301,
+        "word": "不愧是你小孩哥",
+        "onboard_time": 1701268597,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93477,
+        "num": 93477,
+        "word": "胡彦斌真的是一个非常清醒的人",
+        "onboard_time": 1701268835,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83716,
+        "num": 86842,
+        "word": "十大高危职业之滑板教练",
+        "onboard_time": 1701271056,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#为各类所有制企业创造公平竞争竞相发展的环境#"
+    }
+  }
+}

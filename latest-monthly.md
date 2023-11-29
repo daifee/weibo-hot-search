@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/29 23:34:24
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 00:24:31
 </p>
 </blockquote>
 <p>
@@ -4377,6 +4377,12 @@ GEN难道只研究了T1（热度：1221313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A8%98%E5%BD%93%E5%B9%B4%E6%97%97%E8%A2%8D%E5%BC%80%E5%88%B0%E8%82%A9%E8%86%80%23" target="weibo">
+老娘当年旗袍开到肩膀（热度：1192253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E6%82%94%E5%A9%9A%E5%B0%91%E9%80%8015%E4%B8%87%E5%BD%A9%E7%A4%BC%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%A1%8C%E5%87%B6%23" target="weibo">
 女友悔婚少退15万彩礼男子持刀行凶（热度：1191246）
 </a>
@@ -6005,12 +6011,6 @@ LNG对战T1 比分预测（热度：958227）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%20%E5%8D%97%E4%BA%AC%23" target="weibo">
 唐嫣 南京（热度：948081）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90100%E5%A4%9A%E4%B8%87%E4%B9%B0%E6%9E%97%E8%82%AF%E7%A7%B0%E8%A2%AB%E5%AE%A2%E6%9C%8D%E5%98%B2%E8%AE%BD%23" target="weibo">
-男子100多万买林肯称被客服嘲讽（热度：947497）
 </a>
 </li>
 
