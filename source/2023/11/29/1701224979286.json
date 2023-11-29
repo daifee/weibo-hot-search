@@ -1,0 +1,410 @@
+{
+  "runTime": 1701224979286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2176572,
+        "num": 2176572,
+        "word": "男子中2.6亿后次日凌晨准时上班",
+        "onboard_time": 1701218559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2076910,
+        "num": 2076910,
+        "word": "女友宣布与内马尔分手",
+        "onboard_time": 1701223714,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20116,
+        "num": 1630261,
+        "word": "首届链博会让中外企业共享新机遇",
+        "onboard_time": 1701176317,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1448941,
+        "num": 1448941,
+        "word": "芒格去世",
+        "onboard_time": 1701212963,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005898,
+        "num": 1005898,
+        "word": "地球收到1600万公里外传来激光数据",
+        "onboard_time": 1701218137,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843639,
+        "num": 843639,
+        "word": "雷军向武大捐赠13亿元",
+        "onboard_time": 1701221314,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 793931,
+        "num": 793931,
+        "word": "质疑朱丹 理解朱丹",
+        "onboard_time": 1701183640,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 789316,
+        "num": 789316,
+        "word": "张凌赫看向白鹿的眼神",
+        "onboard_time": 1701215430,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755721,
+        "num": 755721,
+        "word": "网友举报转转二手手机出具阴阳检测报告",
+        "onboard_time": 1701222032,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681539,
+        "num": 681539,
+        "word": "很笨但能考上公务员的暗黑偏方",
+        "onboard_time": 1701182497,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 512750,
+        "num": 512750,
+        "word": "一念关山口碑",
+        "onboard_time": 1701219696,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412239,
+        "num": 412239,
+        "word": "刘璐给迪丽热巴做过的造型",
+        "onboard_time": 1701224136,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 410498,
+        "num": 410498,
+        "word": "心目中TOP1美剧",
+        "onboard_time": 1701220596,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361080,
+        "num": 361080,
+        "word": "海底捞服务员跳擦玻璃舞被指低俗",
+        "onboard_time": 1701194417,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602667,
+        "num": 357090,
+        "word": "第一次感觉生理期被具象化",
+        "onboard_time": 1701218017,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349815,
+        "num": 349815,
+        "word": "滴滴员工称系统崩溃时内网也崩了",
+        "onboard_time": 1701219996,
+        "rank": 15,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 347761,
+        "num": 347761,
+        "word": "她兄控他妹控我兄妹控",
+        "onboard_time": 1701217657,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336260,
+        "num": 336260,
+        "word": "傅首尔老刘 允许离开的发生",
+        "onboard_time": 1701218075,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309627,
+        "num": 309627,
+        "word": "迪丽热巴造型 MixWei",
+        "onboard_time": 1701219216,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309108,
+        "num": 309108,
+        "word": "刘宇宁 台词",
+        "onboard_time": 1701182256,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338440,
+        "num": 302556,
+        "word": "男童手臂伸进笼子被藏獒咬断",
+        "onboard_time": 1701223654,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293612,
+        "num": 293612,
+        "word": "胃癌发现时大多是中晚期",
+        "onboard_time": 1701217177,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282461,
+        "num": 282461,
+        "word": "AppleMusic年榜",
+        "onboard_time": 1701223354,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274262,
+        "num": 274262,
+        "word": "出道6天在MAMA上首演的Enhypen",
+        "onboard_time": 1701220957,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273765,
+        "num": 273765,
+        "word": "邓超听完鹿晗新歌失眠了",
+        "onboard_time": 1701221614,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259515,
+        "num": 259515,
+        "word": "美颜把魏大勋酒窝都磨没了",
+        "onboard_time": 1701223835,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256429,
+        "num": 256429,
+        "word": "一念关山戈壁大片",
+        "onboard_time": 1701224675,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209851,
+        "num": 209851,
+        "word": "南海归墟巨型海兽出没",
+        "onboard_time": 1701221375,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197764,
+        "num": 197764,
+        "word": "博主B太曝光的鬼秤商家被罚款20万",
+        "onboard_time": 1701212541,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188838,
+        "num": 188838,
+        "word": "随手一扎的毽子头",
+        "onboard_time": 1701220596,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 196519,
+        "num": 185016,
+        "word": "傅首尔最后一天的日记",
+        "onboard_time": 1701222094,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159861,
+        "num": 159861,
+        "word": "珠海机场 广播寻找杨幂",
+        "onboard_time": 1701178597,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158702,
+        "num": 158702,
+        "word": "大学生独游华山坠崖失联10天",
+        "onboard_time": 1701203533,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 153470,
+        "num": 153470,
+        "word": "勇士内部人员不满维金斯",
+        "onboard_time": 1701222695,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151446,
+        "num": 151446,
+        "word": "胡先煦一句话让辛芷蕾多云转晴",
+        "onboard_time": 1701218857,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143250,
+        "num": 143250,
+        "word": "我的电脑好像被公司监视了",
+        "onboard_time": 1701224675,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138262,
+        "num": 138262,
+        "word": "73年前的今天杨根思牺牲",
+        "onboard_time": 1701224495,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135265,
+        "num": 135265,
+        "word": "名侦探柯南30周年贺图",
+        "onboard_time": 1701219636,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135229,
+        "num": 135229,
+        "word": "佘诗曼现场审简历",
+        "onboard_time": 1701219096,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134669,
+        "num": 134669,
+        "word": "拼多多市值逼近阿里",
+        "onboard_time": 1701215369,
+        "rank": 39,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 125622,
+        "num": 125622,
+        "word": "一念关山刷新首日剧播纪录",
+        "onboard_time": 1701219096,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125126,
+        "num": 125126,
+        "word": "你去海底捞会点小哥跳舞吗",
+        "onboard_time": 1701224074,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124133,
+        "num": 124133,
+        "word": "为啥有人一穿高领衣服就难受",
+        "onboard_time": 1701214649,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123826,
+        "num": 123826,
+        "word": "一念关山 六道堂男团",
+        "onboard_time": 1701174876,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122737,
+        "num": 122737,
+        "word": "涵艺爆料xiaohao加入WBG",
+        "onboard_time": 1701214106,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122631,
+        "num": 122631,
+        "word": "你的网购首选平台还是淘宝吗",
+        "onboard_time": 1701218559,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121100,
+        "num": 121100,
+        "word": "张杰拍的于文文戴佩妮黄龄邓紫棋",
+        "onboard_time": 1701216639,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117790,
+        "num": 117790,
+        "word": "熊猫长牙了莫斯科动物园第一时间展示",
+        "onboard_time": 1701206653,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117104,
+        "num": 117104,
+        "word": "伊朗海军向美航母打击群发出警告",
+        "onboard_time": 1701217476,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 113903,
+        "num": 113903,
+        "word": "专业仅有的4位女生年级前四保研",
+        "onboard_time": 1701224913,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十次集体学习#"
+    }
+  }
+}

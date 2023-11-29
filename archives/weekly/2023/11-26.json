@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701221855810,
+  "endTime": 1701224979286,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -161,6 +161,14 @@
       "onboard_time": 1700996133,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2076910,
+      "num": 2076910,
+      "word": "女友宣布与内马尔分手",
+      "onboard_time": 1701223714,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2024484,
@@ -995,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 843639,
+      "num": 843639,
+      "word": "雷军向武大捐赠13亿元",
+      "onboard_time": 1701221314,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 838402,
       "num": 838402,
       "word": "棣欣引力",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1701162996,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 755721,
+      "num": 755721,
+      "word": "网友举报转转二手手机出具阴阳检测报告",
+      "onboard_time": 1701222032,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 752229,
@@ -1548,7 +1572,7 @@
     },
     {
       "raw_hot": 615585,
-      "num": 294392,
+      "num": 357090,
       "word": "第一次感觉生理期被具象化",
       "onboard_time": 1701218017,
       "rank": 20,
@@ -1948,7 +1972,7 @@
     },
     {
       "raw_hot": 530043,
-      "num": 290314,
+      "num": 293612,
       "word": "胃癌发现时大多是中晚期",
       "onboard_time": 1701217177,
       "rank": 21,
@@ -2763,12 +2787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412239,
+      "num": 412239,
+      "word": "刘璐给迪丽热巴做过的造型",
+      "onboard_time": 1701224136,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 412028,
       "num": 412028,
       "word": "Knight",
       "onboard_time": 1701097416,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 410498,
+      "num": 410498,
+      "word": "心目中TOP1美剧",
+      "onboard_time": 1701220596,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 409760,
@@ -3211,14 +3251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 354193,
-      "num": 354193,
-      "word": "雷军向武大捐赠13亿元",
-      "onboard_time": 1701221314,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 353400,
       "num": 329619,
       "word": "易烊千玺4%vol的河",
@@ -3241,14 +3273,6 @@
       "onboard_time": 1700969194,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352036,
-      "num": 352036,
-      "word": "心目中TOP1美剧",
-      "onboard_time": 1701220596,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 350248,
@@ -3385,6 +3409,14 @@
       "onboard_time": 1700991996,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 338440,
+      "num": 302556,
+      "word": "男童手臂伸进笼子被藏獒咬断",
+      "onboard_time": 1701223654,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338293,
@@ -4267,6 +4299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 282461,
+      "num": 282461,
+      "word": "AppleMusic年榜",
+      "onboard_time": 1701223354,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 281597,
       "num": 193590,
       "word": "南海归墟女巫 普通话",
@@ -4371,6 +4411,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 274262,
+      "num": 274262,
+      "word": "出道6天在MAMA上首演的Enhypen",
+      "onboard_time": 1701220957,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 273765,
+      "num": 273765,
+      "word": "邓超听完鹿晗新歌失眠了",
+      "onboard_time": 1701221614,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 273612,
       "num": 273612,
       "word": "同事是个假装自卑的美女",
@@ -4401,14 +4457,6 @@
       "onboard_time": 1701167855,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 272436,
-      "num": 272436,
-      "word": "出道6天在MAMA上首演的Enhypen",
-      "onboard_time": 1701220957,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 272055,
@@ -4675,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259515,
+      "num": 259515,
+      "word": "美颜把魏大勋酒窝都磨没了",
+      "onboard_time": 1701223835,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258740,
       "num": 258740,
       "word": "刘亦菲淡颜减龄初恋妆",
@@ -4729,6 +4785,14 @@
       "onboard_time": 1701064231,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256429,
+      "num": 256429,
+      "word": "一念关山戈壁大片",
+      "onboard_time": 1701224675,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 255068,
@@ -6243,6 +6307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196519,
+      "num": 185016,
+      "word": "傅首尔最后一天的日记",
+      "onboard_time": 1701222094,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196267,
       "num": 185321,
       "word": "潜行 卧底警察身份暴露后",
@@ -6633,6 +6705,14 @@
       "onboard_time": 1701146562,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188838,
+      "num": 188838,
+      "word": "随手一扎的毽子头",
+      "onboard_time": 1701220596,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 188763,
@@ -7531,14 +7611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159893,
-      "num": 159893,
-      "word": "邓超听完鹿晗新歌失眠了",
-      "onboard_time": 1701221614,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 159865,
       "num": 159865,
       "word": "30年前真的是对暗号取钱的",
@@ -7771,6 +7843,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 153470,
+      "num": 153470,
+      "word": "勇士内部人员不满维金斯",
+      "onboard_time": 1701222695,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153457,
       "num": 153457,
       "word": "2024年1月可查国考笔试成绩",
@@ -7995,14 +8075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147040,
-      "num": 147040,
-      "word": "随手一扎的毽子头",
-      "onboard_time": 1701220596,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 146974,
       "num": 146974,
       "word": "拳拳到肉的打戏",
@@ -8065,6 +8137,14 @@
       "onboard_time": 1701142296,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143250,
+      "num": 143250,
+      "word": "我的电脑好像被公司监视了",
+      "onboard_time": 1701224675,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 143108,
@@ -8272,6 +8352,14 @@
       "word": "卫健委回应医院和鉴定所被举报参与代孕",
       "onboard_time": 1701098856,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138262,
+      "num": 138262,
+      "word": "73年前的今天杨根思牺牲",
+      "onboard_time": 1701224495,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -8491,6 +8579,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125126,
+      "num": 125126,
+      "word": "你去海底捞会点小哥跳舞吗",
+      "onboard_time": 1701224074,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124747,
       "num": 135716,
       "word": "重庆狼队新中式造型",
@@ -8609,6 +8705,14 @@
       "onboard_time": 1700963492,
       "rank": 49,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 113903,
+      "num": 113903,
+      "word": "专业仅有的4位女生年级前四保研",
+      "onboard_time": 1701224913,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 113059,
