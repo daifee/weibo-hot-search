@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701276041505,
+  "endTime": 1701278188790,
   "band_list": [
     {
       "raw_hot": 1192253,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 266166,
+      "num": 141810,
+      "word": "精神科医生 没有车想杀死你是你的幻觉",
+      "onboard_time": 1701274290,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261228,
       "num": 261228,
       "word": "papi酱 新型骗局",
@@ -169,14 +177,6 @@
       "onboard_time": 1701265235,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207897,
-      "num": 132632,
-      "word": "精神科医生 没有车想杀死你是你的幻觉",
-      "onboard_time": 1701274290,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 191317,
@@ -417,6 +417,38 @@
       "onboard_time": 1701262658,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63952,
+      "num": 63952,
+      "word": "王安宇擦防晒像洗脸",
+      "onboard_time": 1701277821,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 61386,
+      "num": 61386,
+      "word": "王鹤棣收官告别时宴",
+      "onboard_time": 1701277162,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 56867,
+      "num": 56867,
+      "word": "双鱼座反差的一面",
+      "onboard_time": 1701264998,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 49654,
+      "num": 54274,
+      "word": "海底捞 科目三",
+      "onboard_time": 1701277760,
+      "rank": 48,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
