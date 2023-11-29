@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701232530030,
+  "endTime": 1701235018689,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -9,6 +9,14 @@
       "onboard_time": 1701212963,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2701567,
+      "num": 2701567,
+      "word": "女儿高烧40度两天妈妈取号取到1600号",
+      "onboard_time": 1701230975,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2186740,
@@ -25,14 +33,6 @@
       "onboard_time": 1701223714,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1664112,
-      "num": 1664112,
-      "word": "女儿高烧40度两天妈妈取号取到1600号",
-      "onboard_time": 1701230975,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1618435,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1372661,
+      "num": 524095,
+      "word": "马云内网回应拼多多市值逼近阿里",
+      "onboard_time": 1701230796,
+      "rank": 23,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 1171956,
       "num": 1171956,
       "word": "王睡睡张硕 没领证",
@@ -81,14 +89,6 @@
       "onboard_time": 1701215430,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1002627,
-      "num": 524095,
-      "word": "马云内网回应拼多多市值逼近阿里",
-      "onboard_time": 1701230796,
-      "rank": 23,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 971651,
@@ -139,12 +139,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729222,
+      "num": 393972,
+      "word": "娜娜离世后老金才真正认识她",
+      "onboard_time": 1701233559,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 682032,
       "num": 682032,
       "word": "刘璐给迪丽热巴做过的造型",
       "onboard_time": 1701224136,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 678878,
+      "num": 392108,
+      "word": "恒大物业把中国恒大告了",
+      "onboard_time": 1701231274,
+      "rank": 28,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 660488,
+      "num": 330310,
+      "word": "因为在群里回复一个好离职了",
+      "onboard_time": 1701232720,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 648779,
@@ -217,6 +241,14 @@
       "onboard_time": 1701218075,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551536,
+      "num": 551536,
+      "word": "烈士不满16岁遗骸骨骺线都没愈合",
+      "onboard_time": 1701229833,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530043,
@@ -307,20 +339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417009,
+      "num": 393284,
+      "word": "男子葬礼上给客人喝假酒致4人死亡",
+      "onboard_time": 1701233857,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415340,
       "num": 415340,
       "word": "邓超定7个闹钟听鹿晗新歌",
       "onboard_time": 1701181297,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 414512,
-      "num": 414512,
-      "word": "烈士不满16岁遗骸骨骺线都没愈合",
-      "onboard_time": 1701229833,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 411420,
@@ -347,12 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 392108,
-      "num": 392108,
-      "word": "恒大物业把中国恒大告了",
-      "onboard_time": 1701231274,
-      "rank": 28,
-      "category": "社会新闻,财经"
+      "raw_hot": 394999,
+      "num": 394999,
+      "word": "TWICE合照 休假突然被拉来打工",
+      "onboard_time": 1701233618,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 393171,
+      "num": 393171,
+      "word": "吴昕花瓶腰",
+      "onboard_time": 1701234518,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 380512,
@@ -361,6 +401,14 @@
       "onboard_time": 1701203533,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 361648,
+      "num": 329102,
+      "word": "很多胃癌都是吃出来的",
+      "onboard_time": 1701232421,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 348842,
@@ -395,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331702,
+      "num": 331702,
+      "word": "一念关山",
+      "onboard_time": 1701159933,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325894,
       "num": 325894,
       "word": "北京要求一切以孩子身体为重",
@@ -417,6 +473,14 @@
       "onboard_time": 1701156751,
       "rank": 13,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 305819,
+      "num": 305819,
+      "word": "接LNGMing",
+      "onboard_time": 1701231938,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 304984,
@@ -449,14 +513,6 @@
       "onboard_time": 1701186751,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297991,
-      "num": 297991,
-      "word": "接LNGMing",
-      "onboard_time": 1701231938,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 295561,
@@ -507,6 +563,14 @@
       "category": "剧集,游戏"
     },
     {
+      "raw_hot": 284386,
+      "num": 284386,
+      "word": "迪丽热巴新疆舞传递民族文化",
+      "onboard_time": 1701234337,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284165,
       "num": 284165,
       "word": "佘诗曼现场审简历",
@@ -521,6 +585,14 @@
       "onboard_time": 1701223354,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 278214,
+      "num": 278214,
+      "word": "周冬雨孔雀青绿眼妆",
+      "onboard_time": 1701232600,
+      "rank": 25,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 275743,
@@ -579,6 +651,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 263059,
+      "num": 263059,
+      "word": "全班23人请病假仅3萌娃坚强上课",
+      "onboard_time": 1701234578,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 257592,
+      "num": 257592,
+      "word": "迪丽热巴船翻了第一时间想救的是钱袋",
+      "onboard_time": 1701234997,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253474,
       "num": 253474,
       "word": "怒海 不配当爹但喜欢当爹",
@@ -601,6 +689,14 @@
       "onboard_time": 1701217476,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 249222,
+      "num": 249222,
+      "word": "胡先煦质疑辛芷蕾带假发片",
+      "onboard_time": 1701232898,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 244575,
@@ -699,12 +795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205924,
+      "num": 205924,
+      "word": "刘诗诗王艳对手戏",
+      "onboard_time": 1701233980,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205477,
       "num": 205477,
       "word": "库班出售独行侠大部分股份",
       "onboard_time": 1701220957,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201794,
+      "num": 201794,
+      "word": "年前和年后哪个离职时间好",
+      "onboard_time": 1701234217,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 201639,
@@ -721,6 +833,14 @@
       "onboard_time": 1701183516,
       "rank": 32,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 199140,
+      "num": 199140,
+      "word": "玲娜贝儿 我真的好喜欢我自己",
+      "onboard_time": 1701231817,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 197310,
@@ -763,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191841,
-      "num": 191841,
-      "word": "玲娜贝儿 我真的好喜欢我自己",
-      "onboard_time": 1701231817,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190133,
       "num": 190133,
       "word": "雷军创全国高校单笔个人现金捐赠纪录",
@@ -785,14 +897,6 @@
       "onboard_time": 1701226534,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188957,
-      "num": 188957,
-      "word": "很多胃癌都是吃出来的",
-      "onboard_time": 1701232421,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 188838,
@@ -857,6 +961,14 @@
       "onboard_time": 1701224675,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172633,
+      "num": 172633,
+      "word": "LNG Bsyy",
+      "onboard_time": 1701232779,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 170313,
@@ -1001,6 +1113,14 @@
       "onboard_time": 1701173976,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139440,
+      "num": 139440,
+      "word": "JDG官宣Homme离队",
+      "onboard_time": 1701234934,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 135823,
@@ -1187,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91875,
-      "num": 70666,
-      "word": "一念关山",
-      "onboard_time": 1701159933,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89775,
       "num": 89775,
       "word": "张小斐 专注自己够得着的东西",
@@ -1283,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54689,
+      "num": 372982,
+      "word": "小黑盒FUSION上新真香",
+      "onboard_time": 1701233200,
+      "rank": 16,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 50710,
       "num": 84991,
       "word": "JackeyLove再唱天后",
@@ -1321,6 +1441,14 @@
       "onboard_time": 1701199393,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18664,
+      "num": 749127,
+      "word": "链博会里有什么",
+      "onboard_time": 1701234518,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18238,

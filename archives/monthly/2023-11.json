@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701232530030,
+  "endTime": 1701235018689,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -985,6 +985,14 @@
       "onboard_time": 1700569236,
       "rank": 1,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 2701567,
+      "num": 2701567,
+      "word": "女儿高烧40度两天妈妈取号取到1600号",
+      "onboard_time": 1701230975,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2698711,
@@ -3267,14 +3275,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1664112,
-      "num": 1664112,
-      "word": "女儿高烧40度两天妈妈取号取到1600号",
-      "onboard_time": 1701230975,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1662845,
       "num": 1662845,
       "word": "李荣浩连发十条我求你们了",
@@ -4633,6 +4633,14 @@
       "onboard_time": 1699784068,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1372661,
+      "num": 524095,
+      "word": "马云内网回应拼多多市值逼近阿里",
+      "onboard_time": 1701230796,
+      "rank": 23,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 1371021,
@@ -7241,14 +7249,6 @@
       "onboard_time": 1699963050,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1002627,
-      "num": 524095,
-      "word": "马云内网回应拼多多市值逼近阿里",
-      "onboard_time": 1701230796,
-      "rank": 23,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 1000065,
@@ -11355,6 +11355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 729222,
+      "num": 393972,
+      "word": "娜娜离世后老金才真正认识她",
+      "onboard_time": 1701233559,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 728969,
       "num": 728969,
       "word": "美团宣布除夕放假",
@@ -12523,6 +12531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 678878,
+      "num": 392108,
+      "word": "恒大物业把中国恒大告了",
+      "onboard_time": 1701231274,
+      "rank": 28,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 678840,
       "num": 678840,
       "word": "李雪琴吻戏",
@@ -12953,6 +12969,14 @@
       "onboard_time": 1699249114,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660488,
+      "num": 330310,
+      "word": "因为在群里回复一个好离职了",
+      "onboard_time": 1701232720,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 660099,
@@ -16617,6 +16641,14 @@
       "onboard_time": 1701010237,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551536,
+      "num": 551536,
+      "word": "烈士不满16岁遗骸骨骺线都没愈合",
+      "onboard_time": 1701229833,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551417,
@@ -23155,6 +23187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417009,
+      "num": 393284,
+      "word": "男子葬礼上给客人喝假酒致4人死亡",
+      "onboard_time": 1701233857,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416717,
       "num": 364051,
       "word": "几乎集齐所有不孕病因女子成功生下龙凤胎",
@@ -23297,14 +23337,6 @@
       "onboard_time": 1699109858,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 414512,
-      "num": 414512,
-      "word": "烈士不满16岁遗骸骨骺线都没愈合",
-      "onboard_time": 1701229833,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414345,
@@ -24643,6 +24675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394999,
+      "num": 394999,
+      "word": "TWICE合照 休假突然被拉来打工",
+      "onboard_time": 1701233618,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 394893,
       "num": 394893,
       "word": "马东锡自拍 安全感十足的头像",
@@ -24771,6 +24811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393171,
+      "num": 393171,
+      "word": "吴昕花瓶腰",
+      "onboard_time": 1701234518,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 393110,
       "num": 284020,
       "word": "脾胃不好气血不足就吃蒸苹果",
@@ -24849,14 +24897,6 @@
       "onboard_time": 1698800855,
       "rank": 24,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 392108,
-      "num": 392108,
-      "word": "恒大物业把中国恒大告了",
-      "onboard_time": 1701231274,
-      "rank": 28,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 392056,
@@ -27065,6 +27105,14 @@
       "onboard_time": 1699857573,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361648,
+      "num": 329102,
+      "word": "很多胃癌都是吃出来的",
+      "onboard_time": 1701232421,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 361619,
@@ -31843,6 +31891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305819,
+      "num": 305819,
+      "word": "接LNGMing",
+      "onboard_time": 1701231938,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305671,
       "num": 305671,
       "word": "TheShy与Bin互放狠话",
@@ -32681,14 +32737,6 @@
       "onboard_time": 1699499554,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297991,
-      "num": 297991,
-      "word": "接LNGMing",
-      "onboard_time": 1701231938,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 297925,
@@ -34195,6 +34243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284386,
+      "num": 284386,
+      "word": "迪丽热巴新疆舞传递民族文化",
+      "onboard_time": 1701234337,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284342,
       "num": 232809,
       "word": "佳木斯坍塌体育馆所属俱乐部负责人已被控制",
@@ -34977,6 +35033,14 @@
       "onboard_time": 1700407474,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278214,
+      "num": 278214,
+      "word": "周冬雨孔雀青绿眼妆",
+      "onboard_time": 1701232600,
+      "rank": 25,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 278198,
@@ -36923,6 +36987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263059,
+      "num": 263059,
+      "word": "全班23人请病假仅3萌娃坚强上课",
+      "onboard_time": 1701234578,
+      "rank": 28,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 262977,
       "num": 262977,
       "word": "中国版花束般的恋爱正式启动",
@@ -37697,6 +37769,14 @@
       "onboard_time": 1698989734,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257592,
+      "num": 257592,
+      "word": "迪丽热巴船翻了第一时间想救的是钱袋",
+      "onboard_time": 1701234997,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 257475,
@@ -38969,6 +39049,14 @@
       "onboard_time": 1699185579,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249222,
+      "num": 249222,
+      "word": "胡先煦质疑辛芷蕾带假发片",
+      "onboard_time": 1701232898,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 249187,
@@ -47315,6 +47403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205924,
+      "num": 205924,
+      "word": "刘诗诗王艳对手戏",
+      "onboard_time": 1701233980,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205905,
       "num": 205905,
       "word": "李健 永远在沸腾的感情其实很危险",
@@ -48483,6 +48579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201794,
+      "num": 201794,
+      "word": "年前和年后哪个离职时间好",
+      "onboard_time": 1701234217,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201728,
       "num": 201728,
       "word": "湖人双杀太阳",
@@ -49289,6 +49393,14 @@
       "onboard_time": 1700923788,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199140,
+      "num": 199140,
+      "word": "玲娜贝儿 我真的好喜欢我自己",
+      "onboard_time": 1701231817,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 199132,
@@ -51635,14 +51747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191841,
-      "num": 191841,
-      "word": "玲娜贝儿 我真的好喜欢我自己",
-      "onboard_time": 1701231817,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191791,
       "num": 191791,
       "word": "小米智能生态超4成用户来自苹果",
@@ -52633,14 +52737,6 @@
       "onboard_time": 1699142485,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188957,
-      "num": 188957,
-      "word": "很多胃癌都是吃出来的",
-      "onboard_time": 1701232421,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 188864,
@@ -56865,6 +56961,14 @@
       "onboard_time": 1699155092,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172633,
+      "num": 172633,
+      "word": "LNG Bsyy",
+      "onboard_time": 1701232779,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 172616,
@@ -65385,6 +65489,14 @@
       "onboard_time": 1699862433,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139440,
+      "num": 139440,
+      "word": "JDG官宣Homme离队",
+      "onboard_time": 1701234934,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 139373,
@@ -77027,6 +77139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54689,
+      "num": 372982,
+      "word": "小黑盒FUSION上新真香",
+      "onboard_time": 1701233200,
+      "rank": 16,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 54497,
       "num": 54497,
       "word": "医生显微镜下手术为男子接回断腕",
@@ -78681,6 +78801,14 @@
       "onboard_time": 1700600712,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 18664,
+      "num": 749127,
+      "word": "链博会里有什么",
+      "onboard_time": 1701234518,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18272,
