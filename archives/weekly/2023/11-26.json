@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701249493444,
+  "endTime": 1701250492980,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -563,6 +563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1316232,
+      "num": 1316232,
+      "word": "迪丽热巴 恶女戏",
+      "onboard_time": 1701248735,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1304615,
       "num": 1056318,
       "word": "爸爸睡觉误碰倒枕头捂住15天大婴儿",
@@ -649,14 +657,6 @@
       "onboard_time": 1701237035,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1234494,
-      "num": 1234494,
-      "word": "迪丽热巴 恶女戏",
-      "onboard_time": 1701248735,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1218270,
@@ -835,6 +835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1034150,
+      "num": 1034150,
+      "word": "李晨说周淑怡是他心里的一姐",
+      "onboard_time": 1701246635,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1033976,
       "num": 1033976,
       "word": "胃病发展成胃癌的五个征兆",
@@ -865,14 +873,6 @@
       "onboard_time": 1700968896,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1012044,
-      "num": 1012044,
-      "word": "李晨说周淑怡是他心里的一姐",
-      "onboard_time": 1701246635,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1004514,
@@ -961,6 +961,14 @@
       "onboard_time": 1701229654,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 951749,
+      "num": 951748,
+      "word": "刘亦菲换轮胎",
+      "onboard_time": 1701249756,
+      "rank": 4,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 942210,
@@ -1657,6 +1665,14 @@
       "onboard_time": 1701003878,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 652953,
+      "num": 652953,
+      "word": "神兵小将第三季",
+      "onboard_time": 1701248853,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 648779,
@@ -3419,6 +3435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389153,
+      "num": 389153,
+      "word": "武汉大学",
+      "onboard_time": 1701249756,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388425,
       "num": 388425,
       "word": "王鹤棣镜头下的白鹿",
@@ -3449,6 +3473,14 @@
       "onboard_time": 1701245855,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 384218,
+      "num": 384218,
+      "word": "韩国买入一念关山播出版权",
+      "onboard_time": 1701247653,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 382450,
@@ -3488,14 +3520,6 @@
       "word": "一念关山在线观看人数",
       "onboard_time": 1701177097,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 380057,
-      "num": 380057,
-      "word": "韩国买入一念关山播出版权",
-      "onboard_time": 1701247653,
-      "rank": 9,
       "category": "剧集"
     },
     {
@@ -3689,14 +3713,6 @@
       "onboard_time": 1701162815,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349995,
-      "num": 261264,
-      "word": "神兵小将第三季",
-      "onboard_time": 1701248853,
-      "rank": 20,
-      "category": "动漫"
     },
     {
       "raw_hot": 349341,
@@ -4787,12 +4803,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 283165,
+      "num": 211616,
+      "word": "宫胁咲良花神造型",
+      "onboard_time": 1701250297,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 283147,
       "num": 283147,
       "word": "姜雪宁一家三代都喜欢张遮",
       "onboard_time": 1701017664,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282666,
+      "num": 282666,
+      "word": "孙膑小动物乐团新皮肤",
+      "onboard_time": 1701248555,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 282486,
@@ -4881,6 +4913,14 @@
       "onboard_time": 1701232600,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 278175,
+      "num": 278175,
+      "word": "无人区玫瑰香评 医院里吃鲜花饼",
+      "onboard_time": 1701247535,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 277671,
@@ -5265,14 +5305,6 @@
       "onboard_time": 1701139779,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259413,
-      "num": 259413,
-      "word": "无人区玫瑰香评 医院里吃鲜花饼",
-      "onboard_time": 1701247535,
-      "rank": 21,
-      "category": "美妆"
     },
     {
       "raw_hot": 258740,
@@ -5683,14 +5715,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 241615,
-      "num": 241615,
-      "word": "孙膑小动物乐团新皮肤",
-      "onboard_time": 1701248555,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 241502,
       "num": 241502,
       "word": "任如意宁远舟骑马吻",
@@ -6089,6 +6113,14 @@
       "onboard_time": 1700998474,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 227716,
+      "num": 227716,
+      "word": "轻断食的第一天",
+      "onboard_time": 1701248555,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 226719,
@@ -6499,6 +6531,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211647,
+      "num": 211647,
+      "word": "现在的人上班都上癫了",
+      "onboard_time": 1701246156,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211540,
+      "num": 211540,
+      "word": "不要同时染发和烫发",
+      "onboard_time": 1701248435,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 211459,
       "num": 211459,
       "word": "智界S7",
@@ -6593,14 +6641,6 @@
       "onboard_time": 1700971175,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207478,
-      "num": 207478,
-      "word": "不要同时染发和烫发",
-      "onboard_time": 1701248435,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 207428,
@@ -7171,6 +7211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194247,
+      "num": 194247,
+      "word": "EDG教练明凯回归",
+      "onboard_time": 1701250475,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194202,
       "num": 194202,
       "word": "申论才是分水岭",
@@ -7547,14 +7595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188884,
-      "num": 188884,
-      "word": "轻断食的第一天",
-      "onboard_time": 1701248555,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188838,
       "num": 188838,
       "word": "随手一扎的毽子头",
@@ -7699,6 +7739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185333,
+      "num": 185333,
+      "word": "若曦倒拔垂杨柳",
+      "onboard_time": 1701250114,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185194,
       "num": 185194,
       "word": "徐明浩玩梗舞到正主面前",
@@ -7811,6 +7859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182556,
+      "num": 182556,
+      "word": "徐海乔叫刘诗诗姐姐",
+      "onboard_time": 1701249453,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182388,
       "num": 209392,
       "word": "近期我国急性呼吸道疾病持续上升",
@@ -7913,14 +7969,6 @@
       "onboard_time": 1700976571,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179894,
-      "num": 179894,
-      "word": "现在的人上班都上癫了",
-      "onboard_time": 1701246156,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 179651,
@@ -8451,6 +8499,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 164676,
+      "num": 164676,
+      "word": "男子一路尾随女子趁等电梯多次猥亵",
+      "onboard_time": 1701245734,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164363,
       "num": 164363,
       "word": "搓完手感觉都怀疑人生了",
@@ -8632,14 +8688,6 @@
       "word": "30年前真的是对暗号取钱的",
       "onboard_time": 1701121873,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159461,
-      "num": 159461,
-      "word": "男子一路尾随女子趁等电梯多次猥亵",
-      "onboard_time": 1701245734,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -9483,12 +9531,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 136185,
-      "num": 136185,
-      "word": "徐海乔叫刘诗诗姐姐",
-      "onboard_time": 1701249453,
+      "raw_hot": 135857,
+      "num": 135857,
+      "word": "秦岚心软的神",
+      "onboard_time": 1701250055,
       "rank": 49,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 135764,

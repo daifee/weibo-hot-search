@@ -1,6 +1,6 @@
 {
   "startTime": 1701188649241,
-  "endTime": 1701249493444,
+  "endTime": 1701250492980,
   "band_list": [
     {
       "raw_hot": 3257596,
@@ -83,6 +83,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 1316232,
+      "num": 1316232,
+      "word": "迪丽热巴 恶女戏",
+      "onboard_time": 1701248735,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1303893,
       "num": 1167004,
       "word": "水哥43岁状态",
@@ -97,14 +105,6 @@
       "onboard_time": 1701237035,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1234494,
-      "num": 1234494,
-      "word": "迪丽热巴 恶女戏",
-      "onboard_time": 1701248735,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1201208,
@@ -155,8 +155,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1012044,
-      "num": 1012044,
+      "raw_hot": 1034150,
+      "num": 1034150,
       "word": "李晨说周淑怡是他心里的一姐",
       "onboard_time": 1701246635,
       "rank": 6,
@@ -193,6 +193,14 @@
       "onboard_time": 1701229654,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 951749,
+      "num": 951748,
+      "word": "刘亦菲换轮胎",
+      "onboard_time": 1701249756,
+      "rank": 4,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 939561,
@@ -313,6 +321,14 @@
       "onboard_time": 1701232720,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 652953,
+      "num": 652953,
+      "word": "神兵小将第三季",
+      "onboard_time": 1701248853,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 648779,
@@ -595,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 389153,
+      "num": 389153,
+      "word": "武汉大学",
+      "onboard_time": 1701249756,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385666,
       "num": 385666,
       "word": "外交部回应日本驻华大使探望被拘留日本公民",
@@ -603,20 +627,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 384218,
+      "num": 384218,
+      "word": "韩国买入一念关山播出版权",
+      "onboard_time": 1701247653,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380512,
       "num": 380512,
       "word": "大学生独游华山坠崖失联10天",
       "onboard_time": 1701203533,
       "rank": 49,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 380057,
-      "num": 380057,
-      "word": "韩国买入一念关山播出版权",
-      "onboard_time": 1701247653,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 370371,
@@ -633,14 +657,6 @@
       "onboard_time": 1701232421,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 349995,
-      "num": 261264,
-      "word": "神兵小将第三季",
-      "onboard_time": 1701248853,
-      "rank": 20,
-      "category": "动漫"
     },
     {
       "raw_hot": 348842,
@@ -745,6 +761,14 @@
       "onboard_time": 1701187051,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 312212,
+      "num": 312212,
+      "word": "MAMA",
+      "onboard_time": 1701250297,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 311254,
@@ -867,6 +891,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283165,
+      "num": 211616,
+      "word": "宫胁咲良花神造型",
+      "onboard_time": 1701250297,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 282666,
+      "num": 282666,
+      "word": "孙膑小动物乐团新皮肤",
+      "onboard_time": 1701248555,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282461,
       "num": 282461,
       "word": "AppleMusic年榜",
@@ -889,6 +929,14 @@
       "onboard_time": 1701232600,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 278175,
+      "num": 278175,
+      "word": "无人区玫瑰香评 医院里吃鲜花饼",
+      "onboard_time": 1701247535,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 276672,
@@ -953,14 +1001,6 @@
       "onboard_time": 1701174036,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 259413,
-      "num": 259413,
-      "word": "无人区玫瑰香评 医院里吃鲜花饼",
-      "onboard_time": 1701247535,
-      "rank": 21,
-      "category": "美妆"
     },
     {
       "raw_hot": 258178,
@@ -1059,14 +1099,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 241615,
-      "num": 241615,
-      "word": "孙膑小动物乐团新皮肤",
-      "onboard_time": 1701248555,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 241445,
       "num": 241445,
       "word": "宁远舟一秒变疯批",
@@ -1123,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227716,
+      "num": 227716,
+      "word": "轻断食的第一天",
+      "onboard_time": 1701248555,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226111,
       "num": 226111,
       "word": "何猷君的数学能力",
@@ -1163,6 +1203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211647,
+      "num": 211647,
+      "word": "现在的人上班都上癫了",
+      "onboard_time": 1701246156,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211540,
+      "num": 211540,
+      "word": "不要同时染发和烫发",
+      "onboard_time": 1701248435,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 209955,
       "num": 209955,
       "word": "JDG官宣Homme离队",
@@ -1185,14 +1241,6 @@
       "onboard_time": 1701228093,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207478,
-      "num": 207478,
-      "word": "不要同时染发和烫发",
-      "onboard_time": 1701248435,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 206871,
@@ -1315,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194247,
+      "num": 194247,
+      "word": "EDG教练明凯回归",
+      "onboard_time": 1701250475,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192769,
       "num": 192769,
       "word": "熊猫长牙了莫斯科动物园第一时间展示",
@@ -1379,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188884,
-      "num": 188884,
-      "word": "轻断食的第一天",
-      "onboard_time": 1701248555,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188838,
       "num": 188838,
       "word": "随手一扎的毽子头",
@@ -1427,12 +1475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185333,
+      "num": 185333,
+      "word": "若曦倒拔垂杨柳",
+      "onboard_time": 1701250114,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185194,
       "num": 185194,
       "word": "徐明浩玩梗舞到正主面前",
       "onboard_time": 1701226235,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182556,
+      "num": 182556,
+      "word": "徐海乔叫刘诗诗姐姐",
+      "onboard_time": 1701249453,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 181938,
@@ -1449,14 +1513,6 @@
       "onboard_time": 1701242853,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179894,
-      "num": 179894,
-      "word": "现在的人上班都上癫了",
-      "onboard_time": 1701246156,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 178689,
@@ -1571,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164676,
+      "num": 164676,
+      "word": "男子一路尾随女子趁等电梯多次猥亵",
+      "onboard_time": 1701245734,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164042,
       "num": 164042,
       "word": "周一围 细节里的爱意",
@@ -1616,14 +1680,6 @@
       "word": "73年前的今天杨根思牺牲",
       "onboard_time": 1701224495,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159461,
-      "num": 159461,
-      "word": "男子一路尾随女子趁等电梯多次猥亵",
-      "onboard_time": 1701245734,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1771,12 +1827,12 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 136185,
-      "num": 136185,
-      "word": "徐海乔叫刘诗诗姐姐",
-      "onboard_time": 1701249453,
+      "raw_hot": 135857,
+      "num": 135857,
+      "word": "秦岚心软的神",
+      "onboard_time": 1701250055,
       "rank": 49,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 135823,
