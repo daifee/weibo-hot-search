@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701275071732,
+  "endTime": 1701276041505,
   "band_list": [
     {
       "raw_hot": 1192253,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413096,
+      "num": 413096,
+      "word": "国货羽绒服卖88元",
+      "onboard_time": 1701272373,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396210,
       "num": 396210,
       "word": "法考成绩",
       "onboard_time": 1701274170,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 393724,
-      "num": 393724,
-      "word": "国货羽绒服卖88元",
-      "onboard_time": 1701272373,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362754,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207897,
+      "num": 132632,
+      "word": "精神科医生 没有车想杀死你是你的幻觉",
+      "onboard_time": 1701274290,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191317,
       "num": 191317,
       "word": "一念关山和女医明妃传同样的编剧",
@@ -209,14 +217,6 @@
       "onboard_time": 1701268236,
       "rank": 26,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 143134,
-      "num": 132632,
-      "word": "精神科医生 没有车想杀死你是你的幻觉",
-      "onboard_time": 1701274290,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 136362,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95357,
+      "num": 95357,
+      "word": "红衣任如意绝杀40秒打戏",
+      "onboard_time": 1701275724,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93477,
       "num": 93477,
       "word": "胡彦斌真的是一个非常清醒的人",
@@ -401,6 +409,14 @@
       "onboard_time": 1701271056,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 78669,
+      "num": 78669,
+      "word": "傅首尔老刘",
+      "onboard_time": 1701262658,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
