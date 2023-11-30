@@ -1,0 +1,410 @@
+{
+  "runTime": 1701315291215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6128619,
+        "num": 6128619,
+        "word": "基辛格逝世",
+        "onboard_time": 1701309274,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1089627,
+        "num": 1089627,
+        "word": "空腹16小时启动自噬功能",
+        "onboard_time": 1701314137,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21062,
+        "num": 848686,
+        "word": "举办链博会展现了担当彰显了能力",
+        "onboard_time": 1701313234,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652252,
+        "num": 652252,
+        "word": "明年的古偶男主",
+        "onboard_time": 1701306994,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581602,
+        "num": 581602,
+        "word": "小区房价骤降有业主一夜损失超50万",
+        "onboard_time": 1701311615,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502453,
+        "num": 502453,
+        "word": "基辛格今年刚来过中国",
+        "onboard_time": 1701309816,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 485475,
+        "num": 485475,
+        "word": "很想很想你",
+        "onboard_time": 1701313538,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473739,
+        "num": 473739,
+        "word": "马斯克爆粗口怒喷广告商",
+        "onboard_time": 1701311975,
+        "rank": 7,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 424863,
+        "num": 424863,
+        "word": "iPhone16显示屏及尺寸曝光",
+        "onboard_time": 1701305856,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 419674,
+        "num": 419674,
+        "word": "杨鸣",
+        "onboard_time": 1701301049,
+        "rank": 9,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1702557,
+        "num": 419454,
+        "word": "曝羽生结弦妻子遭婆婆无视",
+        "onboard_time": 1701309638,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1210468,
+        "num": 408921,
+        "word": "25岁女子被丈夫割喉父亲发声",
+        "onboard_time": 1701309758,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044639,
+        "num": 400157,
+        "word": "长期吃猪油不利于健康",
+        "onboard_time": 1701312574,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 720177,
+        "num": 391850,
+        "word": "基辛格访问中国一百多次",
+        "onboard_time": 1701310835,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 552494,
+        "num": 385724,
+        "word": "两家公司董事长失联",
+        "onboard_time": 1701307834,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507548,
+        "num": 375366,
+        "word": "奔驰司机在车内离世后被发现",
+        "onboard_time": 1701313655,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497019,
+        "num": 372195,
+        "word": "基辛格官网悼文提到11次中国",
+        "onboard_time": 1701311377,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365370,
+        "num": 365370,
+        "word": "刘诗诗 这让人怎么镇定",
+        "onboard_time": 1701309454,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349928,
+        "num": 349928,
+        "word": "辛芷蕾起床姿势好真实",
+        "onboard_time": 1701314855,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372053,
+        "num": 319984,
+        "word": "基辛格葬礼将以家庭仪式形式举行",
+        "onboard_time": 1701314255,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1330142,
+        "num": 316551,
+        "word": "老头强暴自己孙女致其怀孕系谣言",
+        "onboard_time": 1701311615,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289666,
+        "num": 289666,
+        "word": "宿舍有四个时区",
+        "onboard_time": 1701311377,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287993,
+        "num": 287993,
+        "word": "湖南4个公租房小区排查出766户公职人员",
+        "onboard_time": 1701299725,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278377,
+        "num": 278377,
+        "word": "唐佳良 杨鸣",
+        "onboard_time": 1701315214,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264752,
+        "num": 264752,
+        "word": "拼多多人均创收1222万",
+        "onboard_time": 1701302310,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 261888,
+        "num": 261888,
+        "word": "杨幂一个vlog去了3个地方",
+        "onboard_time": 1701305675,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248976,
+        "num": 248976,
+        "word": "王鹤棣出发香港路透",
+        "onboard_time": 1701313057,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246715,
+        "num": 246715,
+        "word": "男子闯岳父家当4岁孩子面将妻子杀害",
+        "onboard_time": 1701313234,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243122,
+        "num": 243122,
+        "word": "基辛格曾说中国是他生命的一部分",
+        "onboard_time": 1701311259,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238517,
+        "num": 238517,
+        "word": "假如任如意遇到了李莲花",
+        "onboard_time": 1701313360,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233034,
+        "num": 233034,
+        "word": "真正伤胃的五件事",
+        "onboard_time": 1701303815,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219473,
+        "num": 219473,
+        "word": "秦昊杨超越命运分组",
+        "onboard_time": 1701314797,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204609,
+        "num": 204609,
+        "word": "那是妈妈 指甲长反也不会害我",
+        "onboard_time": 1701267217,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199171,
+        "num": 199171,
+        "word": "很想很想你首更4集连更5天",
+        "onboard_time": 1701314797,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189329,
+        "num": 189329,
+        "word": "梳头 防掉发",
+        "onboard_time": 1701305973,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 190245,
+        "num": 189010,
+        "word": "很想很想你今日开播",
+        "onboard_time": 1701315096,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175206,
+        "num": 175206,
+        "word": "丁禹兮路透",
+        "onboard_time": 1701312034,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172870,
+        "num": 172870,
+        "word": "潘玮柏结婚照",
+        "onboard_time": 1701261103,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171825,
+        "num": 171825,
+        "word": "一念关山男女主影响力登顶",
+        "onboard_time": 1701309996,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159643,
+        "num": 159643,
+        "word": "英国诺丁汉市破产",
+        "onboard_time": 1701305433,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148883,
+        "num": 148883,
+        "word": "NANA小松奈奈生日",
+        "onboard_time": 1701313115,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143006,
+        "num": 143006,
+        "word": "阿里市值重回电商一哥",
+        "onboard_time": 1701310239,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142201,
+        "num": 142201,
+        "word": "清华北大的老师有多厉害",
+        "onboard_time": 1701314376,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139921,
+        "num": 139921,
+        "word": "老娘当年旗袍开到肩膀",
+        "onboard_time": 1701270516,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137591,
+        "num": 137591,
+        "word": "湖人大胜活塞",
+        "onboard_time": 1701313777,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134049,
+        "num": 134049,
+        "word": "JDG 转会",
+        "onboard_time": 1701305016,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131212,
+        "num": 131212,
+        "word": "马伊俐女儿",
+        "onboard_time": 1701306097,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130612,
+        "num": 130612,
+        "word": "傅首尔用的假睫毛狠狠避雷了",
+        "onboard_time": 1701269560,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130524,
+        "num": 130524,
+        "word": "爷爷戴一身军功章参加新人婚礼",
+        "onboard_time": 1701315033,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113767,
+        "num": 113767,
+        "word": "酱园弄女二 杨幂",
+        "onboard_time": 1701315276,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记到上海考察释放重要信号#"
+    }
+  }
+}

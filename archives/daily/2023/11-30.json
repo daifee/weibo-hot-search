@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701314296623,
+  "endTime": 1701315291215,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1654756,
-      "num": 294444,
+      "num": 316551,
       "word": "老头强暴自己孙女致其怀孕系谣言",
       "onboard_time": 1701311615,
       "rank": 21,
@@ -59,12 +59,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1210468,
+      "num": 408921,
+      "word": "25岁女子被丈夫割喉父亲发声",
+      "onboard_time": 1701309758,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1192253,
       "num": 1192253,
       "word": "老娘当年旗袍开到肩膀",
       "onboard_time": 1701270516,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1089627,
+      "num": 1089627,
+      "word": "空腹16小时启动自噬功能",
+      "onboard_time": 1701314137,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1082152,
@@ -83,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 977711,
-      "num": 327965,
-      "word": "25岁女子被丈夫割喉父亲发声",
-      "onboard_time": 1701309758,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 1044639,
+      "num": 667186,
+      "word": "长期吃猪油不利于健康",
+      "onboard_time": 1701312574,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 934314,
@@ -139,14 +155,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 667186,
-      "num": 667186,
-      "word": "长期吃猪油不利于健康",
-      "onboard_time": 1701312574,
-      "rank": 3,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 655435,
       "num": 655435,
       "word": "马来西亚女星拍戏时猝死",
@@ -163,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 592737,
-      "num": 592737,
-      "word": "空腹16小时启动自噬功能",
-      "onboard_time": 1701314137,
-      "rank": 4,
-      "category": "健康医疗"
+      "raw_hot": 581602,
+      "num": 581602,
+      "word": "小区房价骤降有业主一夜损失超50万",
+      "onboard_time": 1701311615,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577974,
@@ -227,12 +235,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 503789,
-      "num": 503789,
-      "word": "小区房价骤降有业主一夜损失超50万",
-      "onboard_time": 1701311615,
-      "rank": 28,
+      "raw_hot": 507548,
+      "num": 375366,
+      "word": "奔驰司机在车内离世后被发现",
+      "onboard_time": 1701313655,
+      "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485475,
+      "num": 485475,
+      "word": "很想很想你",
+      "onboard_time": 1701313538,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 484743,
@@ -241,6 +257,14 @@
       "onboard_time": 1701297077,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 473739,
+      "num": 473739,
+      "word": "马斯克爆粗口怒喷广告商",
+      "onboard_time": 1701311975,
+      "rank": 15,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 467351,
@@ -299,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399640,
-      "num": 324558,
-      "word": "马斯克爆粗口怒喷广告商",
-      "onboard_time": 1701311975,
-      "rank": 15,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 396210,
       "num": 396210,
       "word": "法考成绩",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 375319,
-      "num": 323774,
+      "num": 365370,
       "word": "刘诗诗 这让人怎么镇定",
       "onboard_time": 1701309454,
       "rank": 18,
@@ -329,6 +345,14 @@
       "onboard_time": 1701274290,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 372053,
+      "num": 319984,
+      "word": "基辛格葬礼将以家庭仪式形式举行",
+      "onboard_time": 1701314255,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 370178,
@@ -345,6 +369,14 @@
       "onboard_time": 1701263618,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 349928,
+      "num": 349928,
+      "word": "辛芷蕾起床姿势好真实",
+      "onboard_time": 1701314855,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 347798,
@@ -435,12 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 284079,
-      "num": 284079,
-      "word": "很想很想你",
-      "onboard_time": 1701313538,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 278377,
+      "num": 278377,
+      "word": "唐佳良 杨鸣",
+      "onboard_time": 1701315214,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 277266,
@@ -483,6 +515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 246715,
+      "num": 246715,
+      "word": "男子闯岳父家当4岁孩子面将妻子杀害",
+      "onboard_time": 1701313234,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244297,
       "num": 244297,
       "word": "朱一龙 LV大秀",
@@ -515,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238517,
+      "num": 238517,
+      "word": "假如任如意遇到了李莲花",
+      "onboard_time": 1701313360,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222460,
       "num": 222460,
       "word": "利智",
@@ -523,20 +571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218412,
-      "num": 218412,
-      "word": "男子闯岳父家当4岁孩子面将妻子杀害",
-      "onboard_time": 1701313234,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207966,
-      "num": 207966,
-      "word": "奔驰司机在车内离世后被发现",
-      "onboard_time": 1701313655,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 219473,
+      "num": 219473,
+      "word": "秦昊杨超越命运分组",
+      "onboard_time": 1701314797,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 207907,
@@ -544,14 +584,6 @@
       "word": "一念关山男女主影响力登顶",
       "onboard_time": 1701309996,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205102,
-      "num": 205102,
-      "word": "假如任如意遇到了李莲花",
-      "onboard_time": 1701313360,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -579,12 +611,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 194307,
-      "num": 187401,
-      "word": "基辛格葬礼将以家庭仪式形式举行",
-      "onboard_time": 1701314255,
-      "rank": 36,
-      "category": "国外时政"
+      "raw_hot": 199171,
+      "num": 199171,
+      "word": "很想很想你首更4集连更5天",
+      "onboard_time": 1701314797,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 194196,
@@ -625,6 +657,14 @@
       "onboard_time": 1701305197,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190245,
+      "num": 189010,
+      "word": "很想很想你今日开播",
+      "onboard_time": 1701315096,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 189901,
@@ -763,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142201,
+      "num": 142201,
+      "word": "清华北大的老师有多厉害",
+      "onboard_time": 1701314376,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139807,
       "num": 139807,
       "word": "养了一只不着家的狗",
@@ -843,6 +891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130524,
+      "num": 130524,
+      "word": "爷爷戴一身军功章参加新人婚礼",
+      "onboard_time": 1701315033,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128501,
       "num": 128501,
       "word": "丁程鑫玩游戏被疯狂爆锤",
@@ -905,6 +961,14 @@
       "onboard_time": 1701261103,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113767,
+      "num": 113767,
+      "word": "酱园弄女二 杨幂",
+      "onboard_time": 1701315276,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 112785,
@@ -1155,8 +1219,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16878,
-      "num": 699447,
+      "raw_hot": 21062,
+      "num": 848686,
       "word": "举办链博会展现了担当彰显了能力",
       "onboard_time": 1701313234,
       "rank": 2,
@@ -1196,6 +1260,9 @@
     },
     {
       "word": "#习近平在上海市考察调研#"
+    },
+    {
+      "word": "#习近平总书记到上海考察释放重要信号#"
     }
   ]
 }
