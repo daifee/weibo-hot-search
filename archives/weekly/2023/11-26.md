@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/26 00:20:53 ~ 2023/12/01 01:34:02
+本榜单时间：2023/11/26 00:20:53 ~ 2023/12/01 02:22:23
 </p>
 </blockquote>
 <p>
@@ -10919,6 +10919,12 @@ Knight关注XUN（热度：24693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232023%E6%96%AF%E8%AF%BA%E5%85%8B%E8%8B%B1%E9%94%A6%E8%B5%9B%23" target="weibo">
 2023斯诺克英锦赛（热度：24312）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E6%AC%A7%E5%86%A0%E5%87%BA%E7%BA%BF%E5%B1%80%E5%8A%BF%23" target="weibo">
+曼联欧冠出线局势（热度：23281）
 </a>
 </li>
 
