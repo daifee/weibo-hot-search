@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701378968874,
+  "endTime": 1701380069032,
   "band_list": [
     {
       "raw_hot": 1758768,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44417,
+      "num": 27490,
+      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
+      "onboard_time": 1701378733,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36535,
       "num": 23284,
       "word": "伊能静 最高级的悲喜在喜剧",
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19507,
+      "num": 19507,
+      "word": "当年的TVB回来了吗",
+      "onboard_time": 1701378914,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18326,
       "num": 770524,
       "word": "国之重器背后的中国链",
@@ -491,23 +507,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13142,
-      "num": 14387,
-      "word": "当年的TVB回来了吗",
-      "onboard_time": 1701378914,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 16207,
+      "num": 16207,
+      "word": "南京马拉松违规选手被处罚",
+      "onboard_time": 1701379214,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
-      "raw_hot": 12998,
-      "num": 14379,
-      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
-      "onboard_time": 1701378733,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12598,
+      "raw_hot": 12935,
       "num": 15667,
       "word": "水皮总结芒格留下的三种财富",
       "onboard_time": 1701366738,
