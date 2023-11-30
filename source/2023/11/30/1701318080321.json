@@ -1,0 +1,410 @@
+{
+  "runTime": 1701318080321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3032962,
+        "num": 3032962,
+        "word": "基辛格逝世",
+        "onboard_time": 1701309274,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2467128,
+        "num": 2467128,
+        "word": "空腹16小时启动自噬功能",
+        "onboard_time": 1701314137,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27262,
+        "num": 1623818,
+        "word": "举办链博会展现了担当彰显了能力",
+        "onboard_time": 1701313234,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1611950,
+        "num": 1611950,
+        "word": "15岁女生被同学奸杀案二审维持原判",
+        "onboard_time": 1701315515,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214347,
+        "num": 1214347,
+        "word": "酱园弄女二 杨幂",
+        "onboard_time": 1701315276,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 994974,
+        "num": 994974,
+        "word": "唐佳良 杨鸣",
+        "onboard_time": 1701315214,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 793080,
+        "num": 793080,
+        "word": "奔驰司机在车内离世后被发现",
+        "onboard_time": 1701313655,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745796,
+        "num": 745796,
+        "word": "辛芷蕾起床姿势好真实",
+        "onboard_time": 1701314855,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668556,
+        "num": 668556,
+        "word": "杨鸣",
+        "onboard_time": 1701301049,
+        "rank": 8,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 524820,
+        "num": 524820,
+        "word": "小区房价骤降有业主一夜损失超50万",
+        "onboard_time": 1701311615,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1482196,
+        "num": 515403,
+        "word": "曝羽生结弦妻子遭婆婆无视",
+        "onboard_time": 1701309638,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1143005,
+        "num": 513409,
+        "word": "25岁女子被丈夫割喉父亲发声",
+        "onboard_time": 1701309758,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597567,
+        "num": 508710,
+        "word": "长期吃猪油不利于健康",
+        "onboard_time": 1701312574,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 501849,
+        "num": 501849,
+        "word": "一念关山 正常",
+        "onboard_time": 1701315815,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492181,
+        "num": 492181,
+        "word": "行程图",
+        "onboard_time": 1701315997,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477486,
+        "num": 477486,
+        "word": "明年的古偶男主",
+        "onboard_time": 1701306994,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395781,
+        "num": 395781,
+        "word": "很想很想你",
+        "onboard_time": 1701313538,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378688,
+        "num": 378688,
+        "word": "两家公司董事长失联",
+        "onboard_time": 1701307834,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373354,
+        "num": 373354,
+        "word": "基辛格官网悼文提到11次中国",
+        "onboard_time": 1701311377,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 363290,
+        "num": 363290,
+        "word": "马斯克爆粗口怒喷广告商",
+        "onboard_time": 1701311975,
+        "rank": 19,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 844326,
+        "num": 362783,
+        "word": "老头强暴自己孙女致其怀孕系谣言",
+        "onboard_time": 1701311615,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360543,
+        "num": 360543,
+        "word": "吴艳妮 变美秘诀是化妆和减肥",
+        "onboard_time": 1701316475,
+        "rank": 21,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 305357,
+        "num": 305357,
+        "word": "iPhone16显示屏及尺寸曝光",
+        "onboard_time": 1701305856,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 301615,
+        "num": 301615,
+        "word": "周迅 14秒绝美出场",
+        "onboard_time": 1701316835,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295977,
+        "num": 295977,
+        "word": "赫鲁晓夫减肥法",
+        "onboard_time": 1701316656,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 274151,
+        "num": 274151,
+        "word": "男子闯岳父家当4岁孩子面将妻子杀害",
+        "onboard_time": 1701313234,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251714,
+        "num": 251714,
+        "word": "基辛格今年刚来过中国",
+        "onboard_time": 1701309816,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 250257,
+        "num": 250257,
+        "word": "刘诗诗 这让人怎么镇定",
+        "onboard_time": 1701309454,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249326,
+        "num": 249326,
+        "word": "读研后完全改变了人生目标",
+        "onboard_time": 1701315695,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243142,
+        "num": 243142,
+        "word": "湖南4个公租房小区排查出766户公职人员",
+        "onboard_time": 1701299725,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221418,
+        "num": 221418,
+        "word": "杨幂一个vlog去了3个地方",
+        "onboard_time": 1701305675,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216602,
+        "num": 216602,
+        "word": "跳新疆舞的迪丽热巴美到发光",
+        "onboard_time": 1701316360,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215936,
+        "num": 215936,
+        "word": "基辛格葬礼将以家庭仪式形式举行",
+        "onboard_time": 1701314255,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215679,
+        "num": 215679,
+        "word": "明星10秒祝福视频网上叫卖20万元",
+        "onboard_time": 1701317562,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 215246,
+        "num": 215246,
+        "word": "科目三",
+        "onboard_time": 1701317676,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215129,
+        "num": 215129,
+        "word": "南海归墟船难事故",
+        "onboard_time": 1701316360,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195090,
+        "num": 195090,
+        "word": "基辛格访问中国一百多次",
+        "onboard_time": 1701310835,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192445,
+        "num": 192445,
+        "word": "那是妈妈 指甲长反也不会害我",
+        "onboard_time": 1701267217,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189747,
+        "num": 189747,
+        "word": "seventeen台历",
+        "onboard_time": 1701316415,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185209,
+        "num": 185209,
+        "word": "拼多多人均创收1222万",
+        "onboard_time": 1701302310,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174803,
+        "num": 174803,
+        "word": "宿舍有四个时区",
+        "onboard_time": 1701311377,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169008,
+        "num": 169008,
+        "word": "假如任如意遇到了李莲花",
+        "onboard_time": 1701313360,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164735,
+        "num": 164735,
+        "word": "清华北大的老师有多厉害",
+        "onboard_time": 1701314376,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159501,
+        "num": 159501,
+        "word": "王鹤棣出发香港路透",
+        "onboard_time": 1701313057,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158229,
+        "num": 158229,
+        "word": "宋亚轩表演愤怒来了段怒音",
+        "onboard_time": 1701315876,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157136,
+        "num": 157136,
+        "word": "女裁判",
+        "onboard_time": 1701317378,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154812,
+        "num": 154812,
+        "word": "很想很想你今日开播",
+        "onboard_time": 1701315096,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151687,
+        "num": 151687,
+        "word": "如果霍建华饰演一念关山",
+        "onboard_time": 1701318034,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151011,
+        "num": 151011,
+        "word": "基辛格曾说中国是他生命的一部分",
+        "onboard_time": 1701311259,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140483,
+        "num": 140483,
+        "word": "哈登侵略性来了",
+        "onboard_time": 1701318034,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海市考察调研#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701315291215,
+  "endTime": 1701318080321,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -9,6 +9,14 @@
       "onboard_time": 1701309274,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2467128,
+      "num": 2467128,
+      "word": "空腹16小时启动自噬功能",
+      "onboard_time": 1701314137,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2416064,
@@ -36,10 +44,18 @@
     },
     {
       "raw_hot": 1654756,
-      "num": 316551,
+      "num": 362783,
       "word": "老头强暴自己孙女致其怀孕系谣言",
       "onboard_time": 1701311615,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1611950,
+      "num": 1611950,
+      "word": "15岁女生被同学奸杀案二审维持原判",
+      "onboard_time": 1701315515,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -59,8 +75,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1214347,
+      "num": 1214347,
+      "word": "酱园弄女二 杨幂",
+      "onboard_time": 1701315276,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1210468,
-      "num": 408921,
+      "num": 513409,
       "word": "25岁女子被丈夫割喉父亲发声",
       "onboard_time": 1701309758,
       "rank": 20,
@@ -73,14 +97,6 @@
       "onboard_time": 1701270516,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1089627,
-      "num": 1089627,
-      "word": "空腹16小时启动自噬功能",
-      "onboard_time": 1701314137,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1082152,
@@ -107,6 +123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 994974,
+      "num": 994974,
+      "word": "唐佳良 杨鸣",
+      "onboard_time": 1701315214,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 934314,
       "num": 934314,
       "word": "太原地震",
@@ -131,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 793080,
+      "num": 793080,
+      "word": "奔驰司机在车内离世后被发现",
+      "onboard_time": 1701313655,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784527,
       "num": 784527,
       "word": "基辛格曾说中国是他生命的一部分",
@@ -145,6 +177,14 @@
       "onboard_time": 1701261103,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 745796,
+      "num": 745796,
+      "word": "辛芷蕾起床姿势好真实",
+      "onboard_time": 1701314855,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 687827,
@@ -235,12 +275,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 507548,
-      "num": 375366,
-      "word": "奔驰司机在车内离世后被发现",
-      "onboard_time": 1701313655,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 501849,
+      "num": 501849,
+      "word": "一念关山 正常",
+      "onboard_time": 1701315815,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 492181,
+      "num": 492181,
+      "word": "行程图",
+      "onboard_time": 1701315997,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 485475,
@@ -371,12 +419,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 349928,
-      "num": 349928,
-      "word": "辛芷蕾起床姿势好真实",
-      "onboard_time": 1701314855,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 360543,
+      "num": 360543,
+      "word": "吴艳妮 变美秘诀是化妆和减肥",
+      "onboard_time": 1701316475,
+      "rank": 21,
+      "category": "体育,美妆"
     },
     {
       "raw_hot": 347798,
@@ -459,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301615,
+      "num": 301615,
+      "word": "周迅 14秒绝美出场",
+      "onboard_time": 1701316835,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 295977,
+      "num": 295977,
+      "word": "赫鲁晓夫减肥法",
+      "onboard_time": 1701316656,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 292730,
       "num": 292730,
       "word": "霍思燕嗯哼飞鸭式拍照",
@@ -467,20 +531,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 278377,
-      "num": 278377,
-      "word": "唐佳良 杨鸣",
-      "onboard_time": 1701315214,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277266,
       "num": 277266,
       "word": "阿里市值重回电商一哥",
       "onboard_time": 1701310239,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 274151,
+      "num": 274151,
+      "word": "男子闯岳父家当4岁孩子面将妻子杀害",
+      "onboard_time": 1701313234,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264475,
@@ -507,20 +571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249326,
+      "num": 249326,
+      "word": "读研后完全改变了人生目标",
+      "onboard_time": 1701315695,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248285,
       "num": 248285,
       "word": "读研后变得更好了么",
       "onboard_time": 1701268058,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 246715,
-      "num": 246715,
-      "word": "男子闯岳父家当4岁孩子面将妻子杀害",
-      "onboard_time": 1701313234,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244297,
@@ -577,6 +641,38 @@
       "onboard_time": 1701314797,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216602,
+      "num": 216602,
+      "word": "跳新疆舞的迪丽热巴美到发光",
+      "onboard_time": 1701316360,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215679,
+      "num": 215679,
+      "word": "明星10秒祝福视频网上叫卖20万元",
+      "onboard_time": 1701317562,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 215246,
+      "num": 215246,
+      "word": "科目三",
+      "onboard_time": 1701317676,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215129,
+      "num": 215129,
+      "word": "南海归墟船难事故",
+      "onboard_time": 1701316360,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 207907,
@@ -675,6 +771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189747,
+      "num": 189747,
+      "word": "seventeen台历",
+      "onboard_time": 1701316415,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189204,
       "num": 189204,
       "word": "很想很想你乐来悦爱预告",
@@ -763,12 +867,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164735,
+      "num": 164735,
+      "word": "清华北大的老师有多厉害",
+      "onboard_time": 1701314376,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161520,
       "num": 161520,
       "word": "彩虹色头发",
       "onboard_time": 1701303216,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 158229,
+      "num": 158229,
+      "word": "宋亚轩表演愤怒来了段怒音",
+      "onboard_time": 1701315876,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157136,
+      "num": 157136,
+      "word": "女裁判",
+      "onboard_time": 1701317378,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 155017,
@@ -787,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151687,
+      "num": 151687,
+      "word": "如果霍建华饰演一念关山",
+      "onboard_time": 1701318034,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151023,
       "num": 151023,
       "word": "周冬雨新电影 人性量心尺",
@@ -803,12 +939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142201,
-      "num": 142201,
-      "word": "清华北大的老师有多厉害",
-      "onboard_time": 1701314376,
-      "rank": 42,
-      "category": "教育"
+      "raw_hot": 140483,
+      "num": 140483,
+      "word": "哈登侵略性来了",
+      "onboard_time": 1701318034,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 139807,
@@ -961,14 +1097,6 @@
       "onboard_time": 1701261103,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113767,
-      "num": 113767,
-      "word": "酱园弄女二 杨幂",
-      "onboard_time": 1701315276,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 112785,
@@ -1211,20 +1339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27262,
+      "num": 1623818,
+      "word": "举办链博会展现了担当彰显了能力",
+      "onboard_time": 1701313234,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25500,
       "num": 25500,
       "word": "宁安如梦吻戏花絮",
       "onboard_time": 1701280517,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21062,
-      "num": 848686,
-      "word": "举办链博会展现了担当彰显了能力",
-      "onboard_time": 1701313234,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16426,
