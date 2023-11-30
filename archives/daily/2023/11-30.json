@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701353819808,
+  "endTime": 1701354927544,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -19,8 +19,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 2960513,
-      "num": 2960513,
+      "raw_hot": 3277414,
+      "num": 3277414,
       "word": "上海独生女继承2亿遗产后被离婚",
       "onboard_time": 1701351038,
       "rank": 17,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1080334,
+      "num": 1080334,
+      "word": "LV不管饭吗",
+      "onboard_time": 1701352121,
+      "rank": 7,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1068989,
       "num": 1068989,
       "word": "湖南4个公租房小区排查出766户公职人员",
@@ -297,14 +305,6 @@
       "onboard_time": 1701329494,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 962907,
-      "num": 962907,
-      "word": "LV不管饭吗",
-      "onboard_time": 1701352121,
-      "rank": 7,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 935647,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 806682,
+      "num": 806682,
+      "word": "声生不息官宣定档",
+      "onboard_time": 1701352121,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 805124,
       "num": 772233,
       "word": "一念关山 AI换脸",
@@ -385,14 +393,6 @@
       "onboard_time": 1701313655,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 786185,
-      "num": 786185,
-      "word": "声生不息官宣定档",
-      "onboard_time": 1701352121,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 784527,
@@ -459,7 +459,7 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 690316,
+      "raw_hot": 691123,
       "num": 690316,
       "word": "重庆地铁偶遇张艺兴",
       "onboard_time": 1701351100,
@@ -537,6 +537,14 @@
       "onboard_time": 1701327572,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 591153,
+      "num": 642029,
+      "word": "西藏车祸女子父亲发声",
+      "onboard_time": 1701351337,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589815,
@@ -651,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 521669,
-      "num": 642029,
-      "word": "西藏车祸女子父亲发声",
-      "onboard_time": 1701351337,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519941,
       "num": 457750,
       "word": "基辛格官网悼文提到11次中国",
@@ -771,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458941,
+      "num": 238119,
+      "word": "王俊凯巴黎游客照",
+      "onboard_time": 1701354398,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 457071,
       "num": 457071,
       "word": "杨幂一个vlog去了3个地方",
@@ -811,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 436982,
+      "num": 351463,
+      "word": "檀健次 台词",
+      "onboard_time": 1701352837,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434325,
       "num": 434325,
       "word": "梳头 防掉发",
@@ -825,14 +841,6 @@
       "onboard_time": 1701304776,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 424476,
-      "num": 351463,
-      "word": "檀健次 台词",
-      "onboard_time": 1701352837,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 417982,
@@ -961,6 +969,14 @@
       "onboard_time": 1701342693,
       "rank": 30,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 367227,
+      "num": 209554,
+      "word": "沈月 头像大户",
+      "onboard_time": 1701354340,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 362754,
@@ -1128,6 +1144,22 @@
       "word": "一念关山破万全员跳女团舞",
       "onboard_time": 1701264635,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 327933,
+      "num": 175820,
+      "word": "杨迪首谈分手风波",
+      "onboard_time": 1701354398,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322202,
+      "num": 175529,
+      "word": "白鹿哭戏导演喊停仍未出戏",
+      "onboard_time": 1701354636,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1419,12 +1451,28 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 261174,
+      "num": 174701,
+      "word": "信雅达董事长二女儿是Pika创始人",
+      "onboard_time": 1701353566,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 261147,
       "num": 261147,
       "word": "羽绒服这样洗真的很干净",
       "onboard_time": 1701322656,
       "rank": 25,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 258154,
+      "num": 227747,
+      "word": "把考公真题误发给领导",
+      "onboard_time": 1701352837,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 253878,
@@ -1529,14 +1577,6 @@
       "onboard_time": 1701318579,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226693,
-      "num": 184915,
-      "word": "把考公真题误发给领导",
-      "onboard_time": 1701352837,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 225872,
@@ -1755,6 +1795,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 204338,
+      "num": 173808,
+      "word": "德国总统干等半小时",
+      "onboard_time": 1701354220,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 204155,
       "num": 204155,
       "word": "珍珠项链戴法",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1701313538,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 200402,
+      "num": 173295,
+      "word": "孕妇牙龈出血或有生命危险",
+      "onboard_time": 1701353861,
+      "rank": 37,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 200004,
@@ -2107,6 +2163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177297,
+      "num": 177297,
+      "word": "微信好友上限",
+      "onboard_time": 1701354636,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 175941,
       "num": 155633,
       "word": "我真服了周天后",
@@ -2321,14 +2385,6 @@
       "onboard_time": 1701306456,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154088,
-      "num": 154088,
-      "word": "信雅达董事长二女儿是Pika创始人",
-      "onboard_time": 1701353566,
-      "rank": 45,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 153546,
@@ -2827,19 +2883,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49975,
+      "num": 1525475,
+      "word": "保护地球从身边小事做起",
+      "onboard_time": 1701350560,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49654,
       "num": 54274,
       "word": "海底捞 科目三",
       "onboard_time": 1701277760,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47096,
-      "num": 1525475,
-      "word": "保护地球从身边小事做起",
-      "onboard_time": 1701350560,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
