@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 13:17:05
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 13:34:10
 </p>
 </blockquote>
 <p>
@@ -3519,6 +3519,12 @@ BLACKPINK出席白金汉宫宴会（热度：1392131）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%89%B2%E5%96%89%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+25岁女子被丈夫割喉父亲发声（热度：1385394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%20%E6%84%8F%E9%9A%BE%E5%B9%B3%23" target="weibo">
 李佳航 意难平（热度：1385083）
 </a>
@@ -3641,12 +3647,6 @@ T1 压力（热度：1376437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%8C%B7%E5%90%9B%20%E8%82%AF%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%A9%9A%E7%A4%BC%23" target="weibo">
 何猷君 肯定要办婚礼（热度：1363730）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%89%B2%E5%96%89%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-25岁女子被丈夫割喉父亲发声（热度：1363363）
 </a>
 </li>
 

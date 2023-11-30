@@ -1,0 +1,410 @@
+{
+  "runTime": 1701322450840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1688896,
+        "num": 1688896,
+        "word": "空腹16小时启动自噬功能",
+        "onboard_time": 1701314137,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1184962,
+        "num": 1184962,
+        "word": "如果霍建华饰演一念关山",
+        "onboard_time": 1701318034,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25867,
+        "num": 932248,
+        "word": "举办链博会展现了担当彰显了能力",
+        "onboard_time": 1701313234,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889072,
+        "num": 889072,
+        "word": "酱园弄女二 杨幂",
+        "onboard_time": 1701315276,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 855341,
+        "num": 855341,
+        "word": "基辛格逝世",
+        "onboard_time": 1701309274,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 728560,
+        "num": 728560,
+        "word": "唐佳良 杨鸣",
+        "onboard_time": 1701315214,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2143148,
+        "num": 703453,
+        "word": "15岁女生被同学奸杀案二审维持原判",
+        "onboard_time": 1701315515,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667255,
+        "num": 667255,
+        "word": "杨紫 小甜嗓",
+        "onboard_time": 1701320197,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 650333,
+        "num": 650333,
+        "word": "奔驰司机在车内离世后被发现",
+        "onboard_time": 1701313655,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600201,
+        "num": 600201,
+        "word": "辛芷蕾起床姿势好真实",
+        "onboard_time": 1701314855,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1385394,
+        "num": 595192,
+        "word": "25岁女子被丈夫割喉父亲发声",
+        "onboard_time": 1701309758,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690810,
+        "num": 580190,
+        "word": "曝羽生结弦妻子遭婆婆无视",
+        "onboard_time": 1701309638,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 562120,
+        "num": 562120,
+        "word": "杨鸣",
+        "onboard_time": 1701301049,
+        "rank": 12,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 404168,
+        "num": 404168,
+        "word": "KT官宣Beryl加入",
+        "onboard_time": 1701320977,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 400714,
+        "num": 400714,
+        "word": "行程图",
+        "onboard_time": 1701315997,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353127,
+        "num": 353127,
+        "word": "小区房价骤降有业主一夜损失超50万",
+        "onboard_time": 1701311615,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338628,
+        "num": 338628,
+        "word": "杨鸣工作室曾发律师声明辟谣出轨",
+        "onboard_time": 1701321572,
+        "rank": 16,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 335127,
+        "num": 335127,
+        "word": "虾淘",
+        "onboard_time": 1701319657,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 334657,
+        "num": 334657,
+        "word": "马精武去世",
+        "onboard_time": 1701321759,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 296112,
+        "num": 296112,
+        "word": "一念关山 正常",
+        "onboard_time": 1701315815,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64310,
+        "num": 296012,
+        "word": "杨紫琼每天要看三四部电影",
+        "onboard_time": 1701321096,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672206,
+        "num": 296007,
+        "word": "老头强暴自己孙女致其怀孕系谣言",
+        "onboard_time": 1701311615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295997,
+        "num": 295997,
+        "word": "港版社内相亲",
+        "onboard_time": 1701318939,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286755,
+        "num": 286755,
+        "word": "怪盗基德vs服部平次",
+        "onboard_time": 1701320618,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 276983,
+        "num": 276983,
+        "word": "赫鲁晓夫减肥法",
+        "onboard_time": 1701316656,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 273619,
+        "num": 273619,
+        "word": "白鹿虞书欣赵露思都有跨年晚会",
+        "onboard_time": 1701321275,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272105,
+        "num": 272105,
+        "word": "明年的古偶男主",
+        "onboard_time": 1701306994,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263177,
+        "num": 263177,
+        "word": "周迅 14秒绝美出场",
+        "onboard_time": 1701316835,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245152,
+        "num": 245152,
+        "word": "两家公司董事长失联",
+        "onboard_time": 1701307834,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229362,
+        "num": 242122,
+        "word": "基辛格官网悼文提到11次中国",
+        "onboard_time": 1701311377,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274686,
+        "num": 242086,
+        "word": "记账后明白为什么有人做假账",
+        "onboard_time": 1701321996,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239576,
+        "num": 239576,
+        "word": "iPhone16显示屏及尺寸曝光",
+        "onboard_time": 1701305856,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237962,
+        "num": 237962,
+        "word": "读研后完全改变了人生目标",
+        "onboard_time": 1701315695,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230421,
+        "num": 230421,
+        "word": "吴艳妮 变美秘诀是化妆和减肥",
+        "onboard_time": 1701316475,
+        "rank": 33,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 228263,
+        "num": 228263,
+        "word": "湖南4个公租房小区排查出766户公职人员",
+        "onboard_time": 1701299725,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224924,
+        "num": 224924,
+        "word": "男子闯岳父家当4岁孩子面将妻子杀害",
+        "onboard_time": 1701313234,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193967,
+        "num": 193967,
+        "word": "无意点开了高中手机里的计时器",
+        "onboard_time": 1701320618,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185386,
+        "num": 185386,
+        "word": "长期吃猪油不利于健康",
+        "onboard_time": 1701312574,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169688,
+        "num": 169688,
+        "word": "刘诗诗是会演的",
+        "onboard_time": 1701319060,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167106,
+        "num": 167106,
+        "word": "杨幂一个vlog去了3个地方",
+        "onboard_time": 1701305675,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166818,
+        "num": 166818,
+        "word": "跳新疆舞的迪丽热巴美到发光",
+        "onboard_time": 1701316360,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165994,
+        "num": 165994,
+        "word": "南海归墟船难事故",
+        "onboard_time": 1701316360,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165193,
+        "num": 165193,
+        "word": "马斯克爆粗口怒喷广告商",
+        "onboard_time": 1701311975,
+        "rank": 42,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 165150,
+        "num": 165150,
+        "word": "科目三",
+        "onboard_time": 1701317676,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154232,
+        "num": 154232,
+        "word": "傅首尔用的假睫毛狠狠避雷了",
+        "onboard_time": 1701269560,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145789,
+        "num": 145789,
+        "word": "孙颖莎反复练习英语好可爱",
+        "onboard_time": 1701322296,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138170,
+        "num": 138170,
+        "word": "JDG 转会",
+        "onboard_time": 1701305016,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136697,
+        "num": 136697,
+        "word": "清华北大的老师有多厉害",
+        "onboard_time": 1701314376,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135257,
+        "num": 135257,
+        "word": "郑板桥 不要打美男的屁股",
+        "onboard_time": 1701322175,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 134262,
+        "num": 134262,
+        "word": "MAMA典型大开麦live片段",
+        "onboard_time": 1701322413,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海考察调研#"
+    }
+  }
+}

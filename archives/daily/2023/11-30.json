@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701321425185,
+  "endTime": 1701322450840,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -67,7 +67,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1363363,
+      "raw_hot": 1385394,
       "num": 657389,
       "word": "25岁女子被丈夫割喉父亲发声",
       "onboard_time": 1701309758,
@@ -203,6 +203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 667255,
+      "num": 667255,
+      "word": "杨紫 小甜嗓",
+      "onboard_time": 1701320197,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655435,
       "num": 655435,
       "word": "马来西亚女星拍戏时猝死",
@@ -217,14 +225,6 @@
       "onboard_time": 1701269560,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 629951,
-      "num": 629951,
-      "word": "杨紫 小甜嗓",
-      "onboard_time": 1701320197,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 581602,
@@ -395,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404168,
+      "num": 404168,
+      "word": "KT官宣Beryl加入",
+      "onboard_time": 1701320977,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 396210,
       "num": 396210,
       "word": "法考成绩",
       "onboard_time": 1701274170,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 378384,
-      "num": 378384,
-      "word": "KT官宣Beryl加入",
-      "onboard_time": 1701320977,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 375319,
@@ -489,6 +489,22 @@
       "onboard_time": 1701264035,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 338628,
+      "num": 338628,
+      "word": "杨鸣工作室曾发律师声明辟谣出轨",
+      "onboard_time": 1701321572,
+      "rank": 16,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 334657,
+      "num": 334657,
+      "word": "马精武去世",
+      "onboard_time": 1701321759,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 332670,
@@ -579,12 +595,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286755,
+      "num": 286755,
+      "word": "怪盗基德vs服部平次",
+      "onboard_time": 1701320618,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 277266,
       "num": 277266,
       "word": "阿里市值重回电商一哥",
       "onboard_time": 1701310239,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 274686,
+      "num": 242086,
+      "word": "记账后明白为什么有人做假账",
+      "onboard_time": 1701321996,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 274151,
@@ -595,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273166,
-      "num": 273166,
-      "word": "怪盗基德vs服部平次",
-      "onboard_time": 1701320618,
-      "rank": 25,
-      "category": "动漫"
+      "raw_hot": 273619,
+      "num": 273619,
+      "word": "白鹿虞书欣赵露思都有跨年晚会",
+      "onboard_time": 1701321275,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 264475,
@@ -963,14 +995,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 165404,
-      "num": 165404,
-      "word": "白鹿虞书欣赵露思都有跨年晚会",
-      "onboard_time": 1701321275,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161520,
       "num": 161520,
       "word": "彩虹色头发",
@@ -1019,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145789,
+      "num": 145789,
+      "word": "孙颖莎反复练习英语好可爱",
+      "onboard_time": 1701322296,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139807,
       "num": 139807,
       "word": "养了一只不着家的狗",
@@ -1051,12 +1083,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135257,
+      "num": 135257,
+      "word": "郑板桥 不要打美男的屁股",
+      "onboard_time": 1701322175,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 134935,
       "num": 134935,
       "word": "浙江队武里南联 打起来了",
       "onboard_time": 1701269856,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134262,
+      "num": 134262,
+      "word": "MAMA典型大开麦live片段",
+      "onboard_time": 1701322413,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 132989,
@@ -1300,7 +1348,7 @@
     },
     {
       "raw_hot": 84548,
-      "num": 151119,
+      "num": 296012,
       "word": "杨紫琼每天要看三四部电影",
       "onboard_time": 1701321096,
       "rank": 44,
