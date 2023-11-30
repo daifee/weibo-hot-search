@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701350590041,
+  "endTime": 1701351362355,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -83,6 +83,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2193537,
+      "num": 1517248,
+      "word": "宋仲基 白袜半身裙",
+      "onboard_time": 1701349055,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2133794,
+      "num": 2133794,
+      "word": "江苏新增艾滋病例3584例",
+      "onboard_time": 1701348698,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2113583,
       "num": 2113583,
       "word": "一念关山 替身马赛克",
@@ -99,20 +115,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2049549,
-      "num": 1517248,
-      "word": "宋仲基 白袜半身裙",
-      "onboard_time": 1701349055,
-      "rank": 3,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 2002391,
       "num": 2002391,
       "word": "基辛格今年刚来过中国",
       "onboard_time": 1701309816,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1925598,
+      "num": 834442,
+      "word": "白敬亭 低胸内搭",
+      "onboard_time": 1701349959,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1805494,
@@ -136,14 +152,6 @@
       "word": "老头强暴自己孙女致其怀孕系谣言",
       "onboard_time": 1701311615,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1637923,
-      "num": 1637923,
-      "word": "江苏新增艾滋病例3584例",
-      "onboard_time": 1701348698,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -267,14 +275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 983576,
-      "num": 834442,
-      "word": "白敬亭 低胸内搭",
-      "onboard_time": 1701349959,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 980818,
       "num": 980818,
       "word": "韩国公务员想升职得先生娃",
@@ -315,8 +315,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 867612,
-      "num": 788909,
+      "raw_hot": 913742,
+      "num": 823314,
       "word": "李龙馥 洋妞",
       "onboard_time": 1701349055,
       "rank": 12,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 805124,
+      "num": 772233,
+      "word": "一念关山 AI换脸",
+      "onboard_time": 1701345215,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 793080,
       "num": 793080,
       "word": "奔驰司机在车内离世后被发现",
@@ -369,14 +377,6 @@
       "onboard_time": 1701311259,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 772233,
-      "num": 772233,
-      "word": "一念关山 AI换脸",
-      "onboard_time": 1701345215,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 765786,
@@ -931,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355185,
+      "num": 298043,
+      "word": "排队5天孩子呼吸道感染熬成肺炎",
+      "onboard_time": 1701347131,
+      "rank": 34,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 353212,
       "num": 353212,
       "word": "公务员献血事件中是否有特权存在",
@@ -987,6 +995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 344037,
+      "num": 344037,
+      "word": "上海独生女继承2亿遗产后被离婚",
+      "onboard_time": 1701351038,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340951,
       "num": 301312,
       "word": "赵丽颖晒新相机",
@@ -1019,12 +1035,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 338149,
+      "num": 289024,
+      "word": "南海归墟海底捞出一袋豪车",
+      "onboard_time": 1701349898,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337583,
       "num": 337583,
       "word": "aespa 公司年会",
       "onboard_time": 1701332134,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 336067,
+      "num": 336067,
+      "word": "奶奶去世爷爷紧紧蜷缩在旁边",
+      "onboard_time": 1701350258,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333627,
@@ -1099,14 +1131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 307629,
-      "num": 283237,
-      "word": "排队5天孩子呼吸道感染熬成肺炎",
-      "onboard_time": 1701347131,
-      "rank": 34,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 304899,
       "num": 304899,
       "word": "王鹤棣被动下线",
@@ -1179,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299680,
+      "num": 238013,
+      "word": "很想很想你直播",
+      "onboard_time": 1701346714,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296660,
       "num": 296660,
       "word": "白鹿发视频告别姜雪宁",
@@ -1235,6 +1267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 284745,
+      "num": 215146,
+      "word": "重庆地铁偶遇张艺兴",
+      "onboard_time": 1701351100,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283392,
       "num": 283392,
       "word": "宝马奔驰将在中国设立合资公司",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1701344373,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277497,
-      "num": 195744,
-      "word": "南海归墟海底捞出一袋豪车",
-      "onboard_time": 1701349898,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 277266,
@@ -1291,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273580,
-      "num": 238013,
-      "word": "很想很想你直播",
-      "onboard_time": 1701346714,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272894,
       "num": 272894,
       "word": "魅族发布会",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1701343954,
       "rank": 27,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 269084,
+      "num": 212443,
+      "word": "李莲花 江湖再见",
+      "onboard_time": 1701349658,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 268442,
@@ -1337,14 +1369,6 @@
       "onboard_time": 1701325654,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261269,
-      "num": 194686,
-      "word": "李莲花 江湖再见",
-      "onboard_time": 1701349658,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 261228,
@@ -1563,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210487,
+      "num": 210487,
+      "word": "原来莫言对编制也有执念",
+      "onboard_time": 1701349594,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 208617,
       "num": 208617,
       "word": "李相夷画像cos",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1701334296,
       "rank": 36,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 197021,
+      "num": 174103,
+      "word": "朱一龙宋仲基李龙馥同框",
+      "onboard_time": 1701351222,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195728,
@@ -1979,14 +2019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179880,
-      "num": 179880,
-      "word": "原来莫言对编制也有执念",
-      "onboard_time": 1701349594,
-      "rank": 36,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 179048,
       "num": 179048,
       "word": "清华北大的老师有多厉害",
@@ -2147,14 +2179,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 162974,
-      "num": 162974,
-      "word": "奶奶去世爷爷紧紧蜷缩在旁边",
-      "onboard_time": 1701350258,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161520,
       "num": 161520,
       "word": "彩虹色头发",
@@ -2257,6 +2281,14 @@
       "onboard_time": 1701259538,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150365,
+      "num": 150365,
+      "word": "足协通报浙江队武里南联冲突",
+      "onboard_time": 1701350500,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 150156,
@@ -2491,6 +2523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110597,
+      "num": 134867,
+      "word": "西藏车祸女子父亲发声",
+      "onboard_time": 1701351337,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110418,
       "num": 110418,
       "word": "钱可以慢慢攒但命没有第二次",
@@ -2675,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63583,
+      "num": 459578,
+      "word": "棋盘格",
+      "onboard_time": 1701349233,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 62665,
       "num": 62665,
       "word": "双鱼座反差的一面",
@@ -2697,14 +2745,6 @@
       "onboard_time": 1701279019,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53391,
-      "num": 459578,
-      "word": "棋盘格",
-      "onboard_time": 1701349233,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 49654,
@@ -2763,6 +2803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23386,
+      "num": 1525475,
+      "word": "保护地球从身边小事做起",
+      "onboard_time": 1701350560,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16426,
       "num": 19860,
       "word": "国际排联祝朱婷生日快乐",
@@ -2785,14 +2833,6 @@
       "onboard_time": 1701289093,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 5264,
-      "num": 1525475,
-      "word": "保护地球从身边小事做起",
-      "onboard_time": 1701350560,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
