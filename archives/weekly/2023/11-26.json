@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701364610207,
+  "endTime": 1701365642235,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -3619,6 +3619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482959,
+      "num": 482959,
+      "word": "女生为避无效社交朋友圈发文不随礼",
+      "onboard_time": 1701362485,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480399,
       "num": 480399,
       "word": "BLG 中单",
@@ -4465,14 +4473,6 @@
       "onboard_time": 1701227496,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 406781,
-      "num": 406781,
-      "word": "女生为避无效社交朋友圈发文不随礼",
-      "onboard_time": 1701362485,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406600,
