@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701339588198,
+  "endTime": 1701340592997,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -747,6 +747,14 @@
       "category": "演出,网红"
     },
     {
+      "raw_hot": 1323805,
+      "num": 1323805,
+      "word": "五月天 对口型",
+      "onboard_time": 1701338014,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1321813,
       "num": 1321813,
       "word": "嗓子疼",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1701307834,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1079951,
-      "num": 1079951,
-      "word": "五月天 对口型",
-      "onboard_time": 1701338014,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 1075662,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1701078816,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745831,
+      "num": 745831,
+      "word": "张译 南极拒绝合影事件",
+      "onboard_time": 1701339093,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 744685,
@@ -3443,6 +3451,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 479271,
+      "num": 479271,
+      "word": "家妍原型 曾志伟",
+      "onboard_time": 1701334834,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 478491,
       "num": 478491,
       "word": "思梦给杨幂化的妆",
@@ -3945,6 +3961,14 @@
       "onboard_time": 1701256057,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429648,
+      "num": 1756556,
+      "word": "大四男生给学校捐了20万",
+      "onboard_time": 1701332796,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429008,
@@ -4467,20 +4491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 383972,
-      "num": 383972,
-      "word": "家妍原型 曾志伟",
-      "onboard_time": 1701334834,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 383515,
-      "num": 383515,
-      "word": "张译 南极拒绝合影事件",
-      "onboard_time": 1701339093,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 383180,
+      "num": 383180,
+      "word": "TES 辅助",
+      "onboard_time": 1701338736,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 382450,
@@ -4611,14 +4627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370777,
-      "num": 1680334,
-      "word": "大四男生给学校捐了20万",
-      "onboard_time": 1701332796,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370371,
       "num": 321032,
       "word": "迪丽热巴高颅顶发箍",
@@ -4681,14 +4689,6 @@
       "onboard_time": 1700992715,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 364473,
-      "num": 364473,
-      "word": "TES 辅助",
-      "onboard_time": 1701338736,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 363339,
@@ -4776,6 +4776,14 @@
       "word": "男子住88元酒店后打包带走150元被子",
       "onboard_time": 1701324757,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355333,
+      "num": 1172714,
+      "word": "男子在抢救室抚摸父亲额头崩溃大哭",
+      "onboard_time": 1701337355,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -4953,6 +4961,14 @@
       "onboard_time": 1701256898,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 345329,
+      "num": 345329,
+      "word": "崔琳怀孕",
+      "onboard_time": 1701339815,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 344536,
@@ -5699,6 +5715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 303007,
+      "num": 303007,
+      "word": "良品铺子将实施17年来最大规模降价",
+      "onboard_time": 1701338795,
+      "rank": 27,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 302871,
       "num": 202671,
       "word": "SEVENTEEN获MAMA最佳舞蹈表演男团",
@@ -6072,14 +6096,6 @@
       "word": "直播救厂三个老头的网红路",
       "onboard_time": 1700954784,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284990,
-      "num": 1125669,
-      "word": "男子在抢救室抚摸父亲额头崩溃大哭",
-      "onboard_time": 1701337355,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -6571,6 +6587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268069,
+      "num": 268069,
+      "word": "公务员献血事件中是否有特权存在",
+      "onboard_time": 1701339513,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267654,
       "num": 267654,
       "word": "一念关山和女医明妃传同样的编剧",
@@ -6660,7 +6684,7 @@
     },
     {
       "raw_hot": 264055,
-      "num": 988627,
+      "num": 1003811,
       "word": "渐冻症女警长29年改造1900多名罪犯",
       "onboard_time": 1701325654,
       "rank": 29,
@@ -7665,14 +7689,6 @@
       "onboard_time": 1701248494,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230249,
-      "num": 230249,
-      "word": "良品铺子将实施17年来最大规模降价",
-      "onboard_time": 1701338795,
-      "rank": 27,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 230181,
@@ -10915,6 +10931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163296,
+      "num": 163296,
+      "word": "gidle又出来炸场子了",
+      "onboard_time": 1701339875,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163092,
       "num": 163092,
       "word": "若曦洗衣 如意劈柴",
@@ -12355,14 +12379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 126429,
-      "num": 126429,
-      "word": "公务员献血事件中是否有特权存在",
-      "onboard_time": 1701339513,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126170,
       "num": 126170,
       "word": "爱豆减肥舞",
@@ -13060,7 +13076,7 @@
     },
     {
       "raw_hot": 82745,
-      "num": 1417223,
+      "num": 1478005,
       "word": "航拍绝美落羽杉林氛围感拉满",
       "onboard_time": 1701333934,
       "rank": 2,

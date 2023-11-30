@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701339588198,
+  "endTime": 1701340592997,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1323805,
+      "num": 1323805,
+      "word": "五月天 对口型",
+      "onboard_time": 1701338014,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1260419,
       "num": 1260419,
       "word": "杨鸣",
@@ -169,14 +177,6 @@
       "onboard_time": 1701307834,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1079951,
-      "num": 1079951,
-      "word": "五月天 对口型",
-      "onboard_time": 1701338014,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 1068989,
@@ -297,6 +297,14 @@
       "onboard_time": 1701314855,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 745831,
+      "num": 745831,
+      "word": "张译 南极拒绝合影事件",
+      "onboard_time": 1701339093,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 736249,
@@ -563,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 479271,
+      "num": 479271,
+      "word": "家妍原型 曾志伟",
+      "onboard_time": 1701334834,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 475811,
       "num": 475811,
       "word": "南极偶遇张译",
@@ -627,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 429648,
+      "num": 1756556,
+      "word": "大四男生给学校捐了20万",
+      "onboard_time": 1701332796,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417833,
       "num": 417833,
       "word": "BGM一响肖战演的郭靖有那味儿了",
@@ -667,20 +691,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 383972,
-      "num": 383972,
-      "word": "家妍原型 曾志伟",
-      "onboard_time": 1701334834,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 383515,
-      "num": 383515,
-      "word": "张译 南极拒绝合影事件",
-      "onboard_time": 1701339093,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 383180,
+      "num": 383180,
+      "word": "TES 辅助",
+      "onboard_time": 1701338736,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 378753,
@@ -715,27 +731,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 370777,
-      "num": 1680334,
-      "word": "大四男生给学校捐了20万",
-      "onboard_time": 1701332796,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370178,
       "num": 370178,
       "word": "JDG 转会",
       "onboard_time": 1701305016,
       "rank": 16,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 364473,
-      "num": 364473,
-      "word": "TES 辅助",
-      "onboard_time": 1701338736,
-      "rank": 17,
       "category": "电竞"
     },
     {
@@ -760,6 +760,14 @@
       "word": "男子住88元酒店后打包带走150元被子",
       "onboard_time": 1701324757,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355333,
+      "num": 1172714,
+      "word": "男子在抢救室抚摸父亲额头崩溃大哭",
+      "onboard_time": 1701337355,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -793,6 +801,14 @@
       "onboard_time": 1701267516,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 345329,
+      "num": 345329,
+      "word": "崔琳怀孕",
+      "onboard_time": 1701339815,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 344067,
@@ -939,6 +955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 303007,
+      "num": 303007,
+      "word": "良品铺子将实施17年来最大规模降价",
+      "onboard_time": 1701338795,
+      "rank": 27,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 301907,
       "num": 268000,
       "word": "内娱审美 畸形",
@@ -985,14 +1009,6 @@
       "onboard_time": 1701332796,
       "rank": 32,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 284990,
-      "num": 1125669,
-      "word": "男子在抢救室抚摸父亲额头崩溃大哭",
-      "onboard_time": 1701337355,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283392,
@@ -1051,6 +1067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 268069,
+      "num": 268069,
+      "word": "公务员献血事件中是否有特权存在",
+      "onboard_time": 1701339513,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264475,
       "num": 264475,
       "word": "王鹤棣出发香港路透",
@@ -1060,7 +1084,7 @@
     },
     {
       "raw_hot": 264055,
-      "num": 988627,
+      "num": 1003811,
       "word": "渐冻症女警长29年改造1900多名罪犯",
       "onboard_time": 1701325654,
       "rank": 29,
@@ -1145,14 +1169,6 @@
       "onboard_time": 1701313360,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230249,
-      "num": 230249,
-      "word": "良品铺子将实施17年来最大规模降价",
-      "onboard_time": 1701338795,
-      "rank": 27,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 227530,
@@ -1723,6 +1739,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 163296,
+      "num": 163296,
+      "word": "gidle又出来炸场子了",
+      "onboard_time": 1701339875,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161520,
       "num": 161520,
       "word": "彩虹色头发",
@@ -1955,14 +1979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126429,
-      "num": 126429,
-      "word": "公务员献血事件中是否有特权存在",
-      "onboard_time": 1701339513,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125849,
       "num": 125849,
       "word": "k70价格",
@@ -2156,7 +2172,7 @@
     },
     {
       "raw_hot": 82745,
-      "num": 1417223,
+      "num": 1478005,
       "word": "航拍绝美落羽杉林氛围感拉满",
       "onboard_time": 1701333934,
       "rank": 2,
