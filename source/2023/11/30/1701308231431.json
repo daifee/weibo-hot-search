@@ -1,0 +1,410 @@
+{
+  "runTime": 1701308231431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1523351,
+        "num": 1523351,
+        "word": "拼多多人均创收1222万",
+        "onboard_time": 1701302310,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1046673,
+        "num": 1046673,
+        "word": "杨鸣",
+        "onboard_time": 1701301049,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30589,
+        "num": 904405,
+        "word": "链博会展商开始预约下一届展位了",
+        "onboard_time": 1701270576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851249,
+        "num": 851249,
+        "word": "英国诺丁汉市破产",
+        "onboard_time": 1701305433,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 625785,
+        "num": 625785,
+        "word": "明年的古偶男主",
+        "onboard_time": 1701306994,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597067,
+        "num": 597067,
+        "word": "老娘当年旗袍开到肩膀",
+        "onboard_time": 1701270516,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505025,
+        "num": 505025,
+        "word": "傅首尔用的假睫毛狠狠避雷了",
+        "onboard_time": 1701269560,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498878,
+        "num": 498878,
+        "word": "马来西亚女星拍戏时猝死",
+        "onboard_time": 1701303335,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457071,
+        "num": 457071,
+        "word": "杨幂一个vlog去了3个地方",
+        "onboard_time": 1701305675,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433430,
+        "num": 433430,
+        "word": "那是妈妈 指甲长反也不会害我",
+        "onboard_time": 1701267217,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 808017,
+        "num": 433334,
+        "word": "湖南4个公租房小区排查出766户公职人员",
+        "onboard_time": 1701299725,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572389,
+        "num": 432714,
+        "word": "马伊俐女儿",
+        "onboard_time": 1701306097,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430058,
+        "num": 430058,
+        "word": "反复烧水会增加致癌物质吗",
+        "onboard_time": 1701268236,
+        "rank": 12,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 405187,
+        "num": 405187,
+        "word": "梳头 防掉发",
+        "onboard_time": 1701305973,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 357552,
+        "num": 357552,
+        "word": "潘玮柏结婚照",
+        "onboard_time": 1701261103,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354652,
+        "num": 354652,
+        "word": "公务员献血事件女子父亲回应包机转院",
+        "onboard_time": 1701264939,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352736,
+        "num": 352736,
+        "word": "中国关于解决巴以冲突的立场文件",
+        "onboard_time": 1701304776,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326789,
+        "num": 326789,
+        "word": "女子排队礼让孕妇后被其他人礼让",
+        "onboard_time": 1701265235,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319929,
+        "num": 319929,
+        "word": "BGM一响肖战演的郭靖有那味儿了",
+        "onboard_time": 1701303874,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310196,
+        "num": 310196,
+        "word": "导演好懂刘诗诗的美",
+        "onboard_time": 1701305197,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581997,
+        "num": 310037,
+        "word": "iPhone16显示屏及尺寸曝光",
+        "onboard_time": 1701305856,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 421871,
+        "num": 309533,
+        "word": "妻子用离婚威胁丈夫婚前房产加名",
+        "onboard_time": 1701301288,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307816,
+        "num": 307816,
+        "word": "JDG 转会",
+        "onboard_time": 1701305016,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 291948,
+        "num": 291948,
+        "word": "真正伤胃的五件事",
+        "onboard_time": 1701303815,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288626,
+        "num": 288626,
+        "word": "迷死老外的中国马拉松奖牌",
+        "onboard_time": 1701303756,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 252393,
+        "num": 252393,
+        "word": "LV大秀 王鹤棣",
+        "onboard_time": 1701264035,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243824,
+        "num": 243824,
+        "word": "奶奶接过孙子第一份工资满脸骄傲",
+        "onboard_time": 1701304418,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238399,
+        "num": 238399,
+        "word": "太原地震",
+        "onboard_time": 1701291252,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238250,
+        "num": 238250,
+        "word": "西藏阿里已对献血事件进行复查",
+        "onboard_time": 1701271417,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222332,
+        "num": 222332,
+        "word": "内娱审美 畸形",
+        "onboard_time": 1701260798,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214854,
+        "num": 214854,
+        "word": "国货羽绒服卖88元",
+        "onboard_time": 1701272373,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212269,
+        "num": 212269,
+        "word": "消失的钢化膜",
+        "onboard_time": 1701303276,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196996,
+        "num": 196996,
+        "word": "跳火科目三第一人发声",
+        "onboard_time": 1701287774,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186907,
+        "num": 186907,
+        "word": "宫脇咲良接帽子神级镜头",
+        "onboard_time": 1701305616,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180507,
+        "num": 180507,
+        "word": "两家公司董事长失联",
+        "onboard_time": 1701307834,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176373,
+        "num": 176373,
+        "word": "朱一龙 LV大秀",
+        "onboard_time": 1701304536,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174447,
+        "num": 174447,
+        "word": "拉伸练完晚上能睡得老香了",
+        "onboard_time": 1701306994,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169069,
+        "num": 169069,
+        "word": "柯南2024年剧场版预告",
+        "onboard_time": 1701307176,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164742,
+        "num": 164742,
+        "word": "一念关山破万全员跳女团舞",
+        "onboard_time": 1701264635,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159217,
+        "num": 159217,
+        "word": "阿里公务员",
+        "onboard_time": 1701259655,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151256,
+        "num": 151256,
+        "word": "解决毛孔粗大的方法",
+        "onboard_time": 1701306456,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150117,
+        "num": 150117,
+        "word": "男子拉开帐篷瞬间被满山雾凇震撼",
+        "onboard_time": 1701306275,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144694,
+        "num": 144694,
+        "word": "周冬雨新电影 人性量心尺",
+        "onboard_time": 1701307893,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139675,
+        "num": 139675,
+        "word": "生动诠释了什么叫绩效工资",
+        "onboard_time": 1701298821,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138287,
+        "num": 138287,
+        "word": "文俊辉 高山流水知音可遇不可求",
+        "onboard_time": 1701305197,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137762,
+        "num": 137762,
+        "word": "养了一只不着家的狗",
+        "onboard_time": 1701306935,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131953,
+        "num": 131953,
+        "word": "湖人vs活塞",
+        "onboard_time": 1701307473,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125462,
+        "num": 125462,
+        "word": "人真的不能一直过省钱的生活",
+        "onboard_time": 1701267516,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117924,
+        "num": 117924,
+        "word": "霍思燕嗯哼飞鸭式拍照",
+        "onboard_time": 1701269918,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109825,
+        "num": 109825,
+        "word": "医生建议学校改网课",
+        "onboard_time": 1701297077,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海考察调研#"
+    }
+  }
+}

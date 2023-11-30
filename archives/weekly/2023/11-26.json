@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701306944034,
+  "endTime": 1701308231431,
   "band_list": [
     {
       "raw_hot": 7039874,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1523351,
+      "num": 1523351,
+      "word": "拼多多人均创收1222万",
+      "onboard_time": 1701302310,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1516336,
       "num": 1845881,
       "word": "失业父亲因20元生日蛋糕泪崩",
@@ -529,14 +537,6 @@
       "onboard_time": 1701077319,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1459576,
-      "num": 1459576,
-      "word": "拼多多人均创收1222万",
-      "onboard_time": 1701302310,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1446148,
@@ -1315,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 851249,
+      "num": 851249,
+      "word": "英国诺丁汉市破产",
+      "onboard_time": 1701305433,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 844205,
       "num": 692290,
       "word": "女生无意将沃柑放柜子1周变霉球",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1701239075,
       "rank": 30,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 785421,
-      "num": 430469,
-      "word": "英国诺丁汉市破产",
-      "onboard_time": 1701305433,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 785350,
@@ -2051,6 +2051,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 625785,
+      "num": 625785,
+      "word": "明年的古偶男主",
+      "onboard_time": 1701306994,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 624042,
       "num": 396361,
       "word": "张婧仪 越素越美",
@@ -2267,6 +2275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 581997,
+      "num": 334793,
+      "word": "iPhone16显示屏及尺寸曝光",
+      "onboard_time": 1701305856,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 581758,
       "num": 581758,
       "word": "刘亦菲F1阿布扎比大奖赛观赛",
@@ -2329,6 +2345,14 @@
       "onboard_time": 1701158913,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 572389,
+      "num": 432714,
+      "word": "马伊俐女儿",
+      "onboard_time": 1701306097,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 571996,
@@ -2409,14 +2433,6 @@
       "onboard_time": 1701183996,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 557078,
-      "num": 334793,
-      "word": "iPhone16显示屏及尺寸曝光",
-      "onboard_time": 1701305856,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 554045,
@@ -3203,6 +3219,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 457071,
+      "num": 457071,
+      "word": "杨幂一个vlog去了3个地方",
+      "onboard_time": 1701305675,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455803,
       "num": 451746,
       "word": "沈小婷 猫女",
@@ -3257,14 +3281,6 @@
       "onboard_time": 1700967934,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 452965,
-      "num": 452965,
-      "word": "杨幂一个vlog去了3个地方",
-      "onboard_time": 1701305675,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 452799,
@@ -3723,6 +3739,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 405187,
+      "num": 405187,
+      "word": "梳头 防掉发",
+      "onboard_time": 1701305973,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 404197,
       "num": 404197,
       "word": "杨紫白玫瑰小黑裙",
@@ -4065,14 +4089,6 @@
       "onboard_time": 1701182977,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 375346,
-      "num": 375346,
-      "word": "马伊俐女儿",
-      "onboard_time": 1701306097,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 373265,
@@ -4433,14 +4449,6 @@
       "onboard_time": 1700991996,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 339070,
-      "num": 339070,
-      "word": "梳头 防掉发",
-      "onboard_time": 1701305973,
-      "rank": 18,
-      "category": "美妆"
     },
     {
       "raw_hot": 338293,
@@ -4873,6 +4881,14 @@
       "onboard_time": 1701001416,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 310196,
+      "num": 310196,
+      "word": "导演好懂刘诗诗的美",
+      "onboard_time": 1701305197,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 310185,
@@ -5385,14 +5401,6 @@
       "onboard_time": 1700954784,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284479,
-      "num": 284479,
-      "word": "导演好懂刘诗诗的美",
-      "onboard_time": 1701305197,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 284461,
@@ -8699,6 +8707,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 186907,
+      "num": 186907,
+      "word": "宫脇咲良接帽子神级镜头",
+      "onboard_time": 1701305616,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "新闻女王 没有赢家的一集",
@@ -8971,6 +8987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180507,
+      "num": 180507,
+      "word": "两家公司董事长失联",
+      "onboard_time": 1701307834,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180367,
       "num": 180367,
       "word": "EDG 最好的队长Meiko",
@@ -9089,14 +9113,6 @@
       "onboard_time": 1701144037,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177138,
-      "num": 177138,
-      "word": "宫脇咲良接帽子神级镜头",
-      "onboard_time": 1701305616,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 177057,
@@ -9241,6 +9257,14 @@
       "onboard_time": 1701241592,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174447,
+      "num": 174447,
+      "word": "拉伸练完晚上能睡得老香了",
+      "onboard_time": 1701306994,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 173968,
@@ -9433,6 +9457,14 @@
       "onboard_time": 1701180337,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169069,
+      "num": 169069,
+      "word": "柯南2024年剧场版预告",
+      "onboard_time": 1701307176,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 169030,
@@ -10395,6 +10427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 144694,
+      "num": 144694,
+      "word": "周冬雨新电影 人性量心尺",
+      "onboard_time": 1701307893,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144669,
       "num": 144669,
       "word": "一念关山今日开播",
@@ -10707,6 +10747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137762,
+      "num": 137762,
+      "word": "养了一只不着家的狗",
+      "onboard_time": 1701306935,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137636,
       "num": 137636,
       "word": "张馨予和妈妈逛周庄",
@@ -10841,6 +10889,14 @@
       "onboard_time": 1700919108,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 131953,
+      "num": 131953,
+      "word": "湖人vs活塞",
+      "onboard_time": 1701307473,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 131878,
@@ -11137,14 +11193,6 @@
       "onboard_time": 1701253179,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117526,
-      "num": 117526,
-      "word": "养了一只不着家的狗",
-      "onboard_time": 1701306935,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 117362,
