@@ -1,0 +1,410 @@
+{
+  "runTime": 1701369345353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 249194,
+        "num": 249194,
+        "word": "女生为避无效社交朋友圈发文不随礼",
+        "onboard_time": 1701362485,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159057,
+        "num": 159057,
+        "word": "一念关山 替身马赛克",
+        "onboard_time": 1701342454,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10153,
+        "num": 133588,
+        "word": "国之重器背后的中国链",
+        "onboard_time": 1701350074,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125525,
+        "num": 125525,
+        "word": "一念关山 AI换脸",
+        "onboard_time": 1701345215,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102594,
+        "num": 102594,
+        "word": "LV大秀",
+        "onboard_time": 1701344013,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 99288,
+        "num": 99288,
+        "word": "王鹤棣 踹开说唱大门",
+        "onboard_time": 1701343656,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98912,
+        "num": 98912,
+        "word": "杨鸣被曝离婚",
+        "onboard_time": 1701332375,
+        "rank": 6,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 72105,
+        "num": 72105,
+        "word": "杨迪首谈分手风波",
+        "onboard_time": 1701354398,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66356,
+        "num": 66356,
+        "word": "微信好友上限",
+        "onboard_time": 1701354636,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64963,
+        "num": 64963,
+        "word": "杨鸣唐佳良离婚案12月开庭",
+        "onboard_time": 1701345034,
+        "rank": 9,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 255575,
+        "num": 64868,
+        "word": "上海独生女继承2亿遗产后被离婚",
+        "onboard_time": 1701351038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146808,
+        "num": 64563,
+        "word": "因郑州暴雨被降级的市长重回正厅级",
+        "onboard_time": 1701357161,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118629,
+        "num": 63827,
+        "word": "宋仲基 白袜半身裙",
+        "onboard_time": 1701349055,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 84521,
+        "num": 63603,
+        "word": "LV不管饭吗",
+        "onboard_time": 1701352121,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70162,
+        "num": 63213,
+        "word": "白敬亭 低胸内搭",
+        "onboard_time": 1701349959,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 68083,
+        "num": 62873,
+        "word": "肖战机场路透",
+        "onboard_time": 1701357936,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62645,
+        "num": 62645,
+        "word": "朱丹被骗案 判决书",
+        "onboard_time": 1701335796,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60066,
+        "num": 60066,
+        "word": "朱一龙 穿裙子",
+        "onboard_time": 1701346594,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51483,
+        "num": 51483,
+        "word": "冬季洗澡三个习惯加速皮肤老化",
+        "onboard_time": 1701361467,
+        "rank": 18,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 51209,
+        "num": 51209,
+        "word": "奶奶去世爷爷紧紧蜷缩在旁边",
+        "onboard_time": 1701350258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284025,
+        "num": 50792,
+        "word": "长期睡前玩手机会付出啥代价",
+        "onboard_time": 1701356500,
+        "rank": 20,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 140384,
+        "num": 50242,
+        "word": "江苏新增艾滋病例3584例",
+        "onboard_time": 1701348698,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54367,
+        "num": 48916,
+        "word": "李龙馥 洋妞",
+        "onboard_time": 1701349055,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53843,
+        "num": 48725,
+        "word": "重庆地铁偶遇张艺兴",
+        "onboard_time": 1701351100,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43705,
+        "num": 47309,
+        "word": "德国总统干等半小时",
+        "onboard_time": 1701354220,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52155,
+        "num": 46465,
+        "word": "一念关山",
+        "onboard_time": 1701347855,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46274,
+        "num": 46274,
+        "word": "很想很想你直播",
+        "onboard_time": 1701346714,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45399,
+        "num": 45399,
+        "word": "时代少年团 葫芦娃",
+        "onboard_time": 1701349175,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40115,
+        "num": 42074,
+        "word": "西藏车祸女子父亲发声",
+        "onboard_time": 1701351337,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39954,
+        "num": 42054,
+        "word": "真的到此为止了吗 菩萨",
+        "onboard_time": 1701347012,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42050,
+        "num": 42050,
+        "word": "白鹿哭戏导演喊停仍未出戏",
+        "onboard_time": 1701354636,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41627,
+        "num": 41627,
+        "word": "寸铁 解散",
+        "onboard_time": 1701356979,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40979,
+        "num": 40979,
+        "word": "星光大赏 门票",
+        "onboard_time": 1701346893,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32485,
+        "num": 32485,
+        "word": "排队5天孩子呼吸道感染熬成肺炎",
+        "onboard_time": 1701347131,
+        "rank": 33,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 30197,
+        "num": 30197,
+        "word": "中学女生发型 鲶鱼须遮半张脸",
+        "onboard_time": 1701342873,
+        "rank": 34,
+        "category": "教育,美妆"
+      },
+      {
+        "raw_hot": 40291,
+        "num": 30192,
+        "word": "刘耀文镜头感",
+        "onboard_time": 1701352719,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39685,
+        "num": 29431,
+        "word": "沈月 头像大户",
+        "onboard_time": 1701354340,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27735,
+        "num": 27735,
+        "word": "信雅达董事长二女儿是Pika创始人",
+        "onboard_time": 1701353566,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 27109,
+        "num": 27109,
+        "word": "唇膏界爱马仕",
+        "onboard_time": 1701358833,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 24572,
+        "num": 24572,
+        "word": "把考公真题误发给领导",
+        "onboard_time": 1701352837,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39661,
+        "num": 24552,
+        "word": "声生不息官宣定档",
+        "onboard_time": 1701352121,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35549,
+        "num": 24506,
+        "word": "张译 南极拒绝合影事件",
+        "onboard_time": 1701339093,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30395,
+        "num": 24458,
+        "word": "王俊凯巴黎游客照",
+        "onboard_time": 1701354398,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 28489,
+        "num": 24424,
+        "word": "檀健次说抱周也上麦",
+        "onboard_time": 1701362306,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25869,
+        "num": 24389,
+        "word": "迪丽热巴确定出席星光大赏",
+        "onboard_time": 1701355541,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24374,
+        "num": 24374,
+        "word": "双鱼座其实是高级的猎手",
+        "onboard_time": 1701346714,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23758,
+        "num": 23758,
+        "word": "27岁年纪大什么大",
+        "onboard_time": 1701342693,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23433,
+        "num": 23756,
+        "word": "疑似南京横渡长江野猪呛水死亡",
+        "onboard_time": 1701342873,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21883,
+        "num": 23745,
+        "word": "曼联欧冠出线局势",
+        "onboard_time": 1701366619,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19961,
+        "num": 23720,
+        "word": "一条plog告别十一月",
+        "onboard_time": 1701359671,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动长三角一体化发展取得新的重大突破#"
+    }
+  }
+}
