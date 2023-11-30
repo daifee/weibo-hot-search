@@ -1,22 +1,30 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701311421117,
+  "endTime": 1701312059016,
   "band_list": [
     {
-      "raw_hot": 10078116,
-      "num": 10078116,
+      "raw_hot": 10267444,
+      "num": 10267444,
       "word": "基辛格逝世",
       "onboard_time": 1701309274,
       "rank": 0,
       "category": "国外时政"
     },
     {
-      "raw_hot": 2367177,
-      "num": 2367177,
+      "raw_hot": 2416064,
+      "num": 2416064,
       "word": "曝羽生结弦妻子遭婆婆无视",
       "onboard_time": 1701309638,
       "rank": 1,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 2066186,
+      "num": 2066186,
+      "word": "基辛格访问中国一百多次",
+      "onboard_time": 1701310835,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2002391,
@@ -25,14 +33,6 @@
       "onboard_time": 1701309816,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1878281,
-      "num": 1878281,
-      "word": "基辛格访问中国一百多次",
-      "onboard_time": 1701310835,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1523351,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 784527,
+      "num": 784527,
+      "word": "基辛格曾说中国是他生命的一部分",
+      "onboard_time": 1701311259,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 765786,
       "num": 424968,
       "word": "潘玮柏结婚照",
@@ -131,20 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 612078,
-      "num": 271440,
+      "raw_hot": 625757,
+      "num": 283620,
       "word": "25岁女子被丈夫割喉父亲发声",
       "onboard_time": 1701309758,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 604679,
-      "num": 604679,
-      "word": "基辛格曾说中国是他生命的一部分",
-      "onboard_time": 1701311259,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 577974,
@@ -209,6 +209,14 @@
       "onboard_time": 1701268236,
       "rank": 26,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 457750,
+      "num": 457750,
+      "word": "基辛格官网悼文提到11次中国",
+      "onboard_time": 1701311377,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 457071,
@@ -339,19 +347,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 312515,
+      "num": 312515,
+      "word": "刘诗诗 这让人怎么镇定",
+      "onboard_time": 1701309454,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310196,
       "num": 310196,
       "word": "导演好懂刘诗诗的美",
       "onboard_time": 1701305197,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 303085,
-      "num": 303085,
-      "word": "刘诗诗 这让人怎么镇定",
-      "onboard_time": 1701309454,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -377,6 +385,14 @@
       "onboard_time": 1701269918,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 288615,
+      "num": 272098,
+      "word": "老头强暴自己孙女致其怀孕系谣言",
+      "onboard_time": 1701311615,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277266,
@@ -451,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213500,
+      "num": 188592,
+      "word": "宿舍有四个时区",
+      "onboard_time": 1701311377,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207907,
       "num": 207907,
       "word": "一念关山男女主影响力登顶",
       "onboard_time": 1701309996,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206709,
-      "num": 190525,
-      "word": "基辛格官网悼文提到11次中国",
-      "onboard_time": 1701311377,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 191317,
@@ -505,6 +521,22 @@
       "onboard_time": 1701270816,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189801,
+      "num": 189801,
+      "word": "小区房价骤降有业主一夜损失超50万",
+      "onboard_time": 1701311615,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189204,
+      "num": 189204,
+      "word": "很想很想你乐来悦爱预告",
+      "onboard_time": 1701311676,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 187371,
@@ -571,6 +603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 166347,
+      "num": 166347,
+      "word": "警方回应执勤交警持棍击倒骑车男子",
+      "onboard_time": 1701310963,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161520,
       "num": 161520,
       "word": "彩虹色头发",
@@ -611,8 +651,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137762,
-      "num": 137762,
+      "raw_hot": 139807,
+      "num": 139807,
       "word": "养了一只不着家的狗",
       "onboard_time": 1701306935,
       "rank": 49,
@@ -657,14 +697,6 @@
       "onboard_time": 1701292333,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131983,
-      "num": 131983,
-      "word": "警方回应执勤交警持棍击倒骑车男子",
-      "onboard_time": 1701310963,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131953,
@@ -723,20 +755,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 124438,
-      "num": 124438,
-      "word": "宿舍有四个时区",
-      "onboard_time": 1701311377,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123482,
       "num": 123482,
       "word": "坚持上班的动力就是领导不在",
       "onboard_time": 1701270816,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121935,
+      "num": 121935,
+      "word": "丁禹兮路透",
+      "onboard_time": 1701312034,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 119992,
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 35971,
-      "num": 2055852,
+      "num": 2152907,
       "word": "链博会展商开始预约下一届展位了",
       "onboard_time": 1701270576,
       "rank": 2,

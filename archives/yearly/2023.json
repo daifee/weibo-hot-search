@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1701311421117,
+  "endTime": 1701312059016,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -899,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10267444,
+      "num": 10267444,
+      "word": "基辛格逝世",
+      "onboard_time": 1701309274,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 10263172,
       "num": 10187270,
       "word": "除夕不放假",
@@ -969,14 +977,6 @@
       "onboard_time": 1688568357,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10078116,
-      "num": 10078116,
-      "word": "基辛格逝世",
-      "onboard_time": 1701309274,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 10059576,

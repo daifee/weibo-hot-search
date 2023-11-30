@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/30 10:30:21
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/30 10:40:59
 </p>
 </blockquote>
 <p>
@@ -687,6 +687,12 @@ TFBOYS（热度：10450851）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23" target="weibo">
+基辛格逝世（热度：10267444）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%A4%95%E4%B8%8D%E6%94%BE%E5%81%87%23" target="weibo">
 除夕不放假（热度：10263172）
 </a>
@@ -737,12 +743,6 @@ TFBOYS（热度：10450851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23" target="weibo">
 众星悼念李玟（热度：10085912）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23" target="weibo">
-基辛格逝世（热度：10078116）
 </a>
 </li>
 

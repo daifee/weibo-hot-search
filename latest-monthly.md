@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 10:30:21
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 10:40:59
 </p>
 </blockquote>
 <p>
@@ -88,7 +88,7 @@ WBG对战T1（热度：12632234）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23" target="weibo">
-基辛格逝世（热度：10078116）
+基辛格逝世（热度：10267444）
 </a>
 </li>
 
@@ -1011,6 +1011,12 @@ CPA出分了（热度：2508192）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%A6%BB%E5%AD%90%E9%81%AD%E5%A9%86%E5%A9%86%E6%97%A0%E8%A7%86%23" target="weibo">
+曝羽生结弦妻子遭婆婆无视（热度：2416064）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%91%BC%E5%8F%AB%23" target="weibo">
 微信呼叫（热度：2405653）
 </a>
@@ -1037,12 +1043,6 @@ GEN对战BLG（热度：2392638）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94%23" target="weibo">
 我本是高山编剧回应（热度：2372278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%A6%BB%E5%AD%90%E9%81%AD%E5%A9%86%E5%A9%86%E6%97%A0%E8%A7%86%23" target="weibo">
-曝羽生结弦妻子遭婆婆无视（热度：2367177）
 </a>
 </li>
 
@@ -1527,6 +1527,12 @@ B站通报人肉开盒案例（热度：2072300）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%99%BE%E5%A4%9A%E6%AC%A1%23" target="weibo">
+基辛格访问中国一百多次（热度：2066186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E7%BC%85%E5%8C%97%23" target="weibo">
 中国公民暂勿前往缅北（热度：2062931）
 </a>
@@ -1895,12 +1901,6 @@ T1拿到两个赛点（热度：1895187）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8B%23" target="weibo">
 夸克（热度：1883286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%99%BE%E5%A4%9A%E6%AC%A1%23" target="weibo">
-基辛格访问中国一百多次（热度：1878281）
 </a>
 </li>
 
