@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/11/30 09:37:11
+本榜单时间：2023/01/01 00:23:37 ~ 2023/11/30 10:30:21
 </p>
 </blockquote>
 <p>
@@ -737,6 +737,12 @@ TFBOYS（热度：10450851）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23" target="weibo">
 众星悼念李玟（热度：10085912）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23" target="weibo">
+基辛格逝世（热度：10078116）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ T1晋级S13总决赛（热度：7233927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E8%88%92%E5%85%B03%E5%90%8D%E5%A4%B1%E8%81%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%A1%AE%E8%AE%A4%E7%89%BA%E7%89%B2%23" target="weibo">
 吉林舒兰3名失联公职人员确认牺牲（热度：6929384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%9C%87%E6%84%9F%23" target="weibo">
-广州震感（热度：6923201）
 </a>
 </li>
 

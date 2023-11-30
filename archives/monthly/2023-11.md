@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 09:37:11
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 10:30:21
 </p>
 </blockquote>
 <p>
@@ -83,6 +83,12 @@ WBG对战T1（热度：12632234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%23" target="weibo">
 拜登重申不支持台湾独立（热度：10371803）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E9%80%9D%E4%B8%96%23" target="weibo">
+基辛格逝世（热度：10078116）
 </a>
 </li>
 
@@ -1035,6 +1041,12 @@ GEN对战BLG（热度：2392638）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%A6%BB%E5%AD%90%E9%81%AD%E5%A9%86%E5%A9%86%E6%97%A0%E8%A7%86%23" target="weibo">
+曝羽生结弦妻子遭婆婆无视（热度：2367177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%BD%E8%BD%A6%E5%8D%9A%E4%B8%BB%E9%A9%AC%E5%93%A5%E7%A6%BB%E4%B8%96%23" target="weibo">
 汽车博主马哥离世（热度：2366870）
 </a>
@@ -1617,6 +1629,12 @@ abandon不是第一名了（热度：2024718）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E4%BB%8A%E5%B9%B4%E5%88%9A%E6%9D%A5%E8%BF%87%E4%B8%AD%E5%9B%BD%23" target="weibo">
+基辛格今年刚来过中国（热度：2002391）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98BLG%23" target="weibo">
 WBG对战BLG（热度：2001531）
 </a>
@@ -1877,6 +1895,12 @@ T1拿到两个赛点（热度：1895187）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8B%23" target="weibo">
 夸克（热度：1883286）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%9B%E6%A0%BC%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%99%BE%E5%A4%9A%E6%AC%A1%23" target="weibo">
+基辛格访问中国一百多次（热度：1878281）
 </a>
 </li>
 
@@ -5085,6 +5109,12 @@ ELLE风尚大典（热度：1088644）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E5%A4%B1%E8%81%94%23" target="weibo">
+两家公司董事长失联（热度：1082152）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%20%E6%AD%B9%E6%AF%92%E8%BF%90%E9%95%9C%23" target="weibo">
 宁安如梦 歹毒运镜（热度：1082068）
 </a>
@@ -5981,36 +6011,6 @@ LNG对战T1 比分预测（热度：958227）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B2%B8%E7%94%B0%E5%B8%8C%E6%9C%9B%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%B6%88%E5%81%9C%E6%AD%A2%E4%BB%8E%E6%97%A5%E8%BF%9B%E5%8F%A3%E9%A3%9F%E5%93%81%E6%8E%AA%E6%96%BD%23" target="weibo">
 外交部回应岸田希望中国取消停止从日进口食品措施（热度：953415）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%E6%9D%80%E9%9D%92%23" target="weibo">
-少爷和我杀青（热度：953025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E7%99%BE%E4%BD%99%E5%A4%A9%E5%86%85%E8%BF%9E%E5%8F%91%E4%B8%A4%E8%B5%B7%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%23" target="weibo">
-黑龙江百余天内连发两起体育馆坍塌事故（热度：952059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8D%A2%E8%BD%AE%E8%83%8E%23" target="weibo">
-刘亦菲换轮胎（热度：951749）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E5%88%9D%E6%AD%A5%E7%A1%AE%E8%AE%A43%E4%BA%BA%E8%A2%AB%E5%9B%B0%23" target="weibo">
-佳木斯一体育馆坍塌初步确认3人被困（热度：951534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%80%92%E6%96%A5%E7%BC%85%E5%8C%97%E6%B2%A1%E6%8A%93%E5%88%B0%E4%BD%A0%E6%98%AF%E5%90%A7%23" target="weibo">
-民警怒斥缅北没抓到你是吧（热度：951432）
 </a>
 </li>
 

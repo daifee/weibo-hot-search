@@ -1,0 +1,410 @@
+{
+  "runTime": 1701311421117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10078116,
+        "num": 10078116,
+        "word": "基辛格逝世",
+        "onboard_time": 1701309274,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2367177,
+        "num": 2367177,
+        "word": "曝羽生结弦妻子遭婆婆无视",
+        "onboard_time": 1701309638,
+        "rank": 1,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 28736,
+        "num": 2055852,
+        "word": "链博会展商开始预约下一届展位了",
+        "onboard_time": 1701270576,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2002391,
+        "num": 2002391,
+        "word": "基辛格今年刚来过中国",
+        "onboard_time": 1701309816,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1878281,
+        "num": 1878281,
+        "word": "基辛格访问中国一百多次",
+        "onboard_time": 1701310835,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1082152,
+        "num": 1082152,
+        "word": "两家公司董事长失联",
+        "onboard_time": 1701307834,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839017,
+        "num": 839017,
+        "word": "明年的古偶男主",
+        "onboard_time": 1701306994,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 821930,
+        "num": 821930,
+        "word": "拼多多人均创收1222万",
+        "onboard_time": 1701302310,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 687827,
+        "num": 687827,
+        "word": "iPhone16显示屏及尺寸曝光",
+        "onboard_time": 1701305856,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 604679,
+        "num": 604679,
+        "word": "基辛格曾说中国是他生命的一部分",
+        "onboard_time": 1701311259,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 538074,
+        "num": 538074,
+        "word": "湖南4个公租房小区排查出766户公职人员",
+        "onboard_time": 1701299725,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512713,
+        "num": 512713,
+        "word": "杨鸣",
+        "onboard_time": 1701301049,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 488440,
+        "num": 488440,
+        "word": "英国诺丁汉市破产",
+        "onboard_time": 1701305433,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 434325,
+        "num": 434325,
+        "word": "梳头 防掉发",
+        "onboard_time": 1701305973,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 417911,
+        "num": 417911,
+        "word": "杨幂一个vlog去了3个地方",
+        "onboard_time": 1701305675,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360813,
+        "num": 360813,
+        "word": "马伊俐女儿",
+        "onboard_time": 1701306097,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331302,
+        "num": 331302,
+        "word": "老娘当年旗袍开到肩膀",
+        "onboard_time": 1701270516,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314990,
+        "num": 314990,
+        "word": "那是妈妈 指甲长反也不会害我",
+        "onboard_time": 1701267217,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303085,
+        "num": 303085,
+        "word": "刘诗诗 这让人怎么镇定",
+        "onboard_time": 1701309454,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277266,
+        "num": 277266,
+        "word": "阿里市值重回电商一哥",
+        "onboard_time": 1701310239,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 612078,
+        "num": 271440,
+        "word": "25岁女子被丈夫割喉父亲发声",
+        "onboard_time": 1701309758,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261411,
+        "num": 261411,
+        "word": "潘玮柏结婚照",
+        "onboard_time": 1701261103,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241230,
+        "num": 241230,
+        "word": "美吉姆",
+        "onboard_time": 1701308673,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238599,
+        "num": 238599,
+        "word": "傅首尔用的假睫毛狠狠避雷了",
+        "onboard_time": 1701269560,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227600,
+        "num": 227600,
+        "word": "马来西亚女星拍戏时猝死",
+        "onboard_time": 1701303335,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221829,
+        "num": 221829,
+        "word": "真正伤胃的五件事",
+        "onboard_time": 1701303815,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212143,
+        "num": 212143,
+        "word": "妻子用离婚威胁丈夫婚前房产加名",
+        "onboard_time": 1701301288,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207907,
+        "num": 207907,
+        "word": "一念关山男女主影响力登顶",
+        "onboard_time": 1701309996,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191870,
+        "num": 191870,
+        "word": "公务员献血事件女子父亲回应包机转院",
+        "onboard_time": 1701264939,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191027,
+        "num": 191027,
+        "word": "张雨绮吵架戏脸胀通红",
+        "onboard_time": 1701308794,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206709,
+        "num": 190525,
+        "word": "基辛格官网悼文提到11次中国",
+        "onboard_time": 1701311377,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189696,
+        "num": 189696,
+        "word": "反复烧水会增加致癌物质吗",
+        "onboard_time": 1701268236,
+        "rank": 31,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 187278,
+        "num": 187278,
+        "word": "BGM一响肖战演的郭靖有那味儿了",
+        "onboard_time": 1701303874,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184536,
+        "num": 184536,
+        "word": "脸黄比脸黑更可怕吗",
+        "onboard_time": 1701308433,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182022,
+        "num": 182022,
+        "word": "LV大秀 王鹤棣",
+        "onboard_time": 1701264035,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181641,
+        "num": 181641,
+        "word": "JDG 转会",
+        "onboard_time": 1701305016,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169251,
+        "num": 169251,
+        "word": "女子排队礼让孕妇后被其他人礼让",
+        "onboard_time": 1701265235,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163190,
+        "num": 163190,
+        "word": "导演好懂刘诗诗的美",
+        "onboard_time": 1701305197,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158665,
+        "num": 158665,
+        "word": "内娱审美 畸形",
+        "onboard_time": 1701260798,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152819,
+        "num": 152819,
+        "word": "奶奶接过孙子第一份工资满脸骄傲",
+        "onboard_time": 1701304418,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151023,
+        "num": 151023,
+        "word": "周冬雨新电影 人性量心尺",
+        "onboard_time": 1701307893,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150448,
+        "num": 150448,
+        "word": "迷死老外的中国马拉松奖牌",
+        "onboard_time": 1701303756,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144635,
+        "num": 144635,
+        "word": "中国关于解决巴以冲突的立场文件",
+        "onboard_time": 1701304776,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141799,
+        "num": 141799,
+        "word": "西藏阿里已对献血事件进行复查",
+        "onboard_time": 1701271417,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135480,
+        "num": 135480,
+        "word": "国货羽绒服卖88元",
+        "onboard_time": 1701272373,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134879,
+        "num": 134879,
+        "word": "养了一只不着家的狗",
+        "onboard_time": 1701306935,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131983,
+        "num": 131983,
+        "word": "警方回应执勤交警持棍击倒骑车男子",
+        "onboard_time": 1701310963,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128501,
+        "num": 128501,
+        "word": "丁程鑫玩游戏被疯狂爆锤",
+        "onboard_time": 1701310897,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124438,
+        "num": 124438,
+        "word": "宿舍有四个时区",
+        "onboard_time": 1701311377,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124000,
+        "num": 124000,
+        "word": "太原地震",
+        "onboard_time": 1701291252,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海市考察调研#"
+    }
+  }
+}

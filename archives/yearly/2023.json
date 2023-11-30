@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1701308231431,
+  "endTime": 1701311421117,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -969,6 +969,14 @@
       "onboard_time": 1688568357,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10078116,
+      "num": 10078116,
+      "word": "基辛格逝世",
+      "onboard_time": 1701309274,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 10059576,
@@ -2392,14 +2400,6 @@
       "word": "吉林舒兰3名失联公职人员确认牺牲",
       "onboard_time": 1691331008,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6923201,
-      "num": 6923201,
-      "word": "广州震感",
-      "onboard_time": 1675568914,
-      "rank": 1,
       "category": "社会新闻"
     }
   ],

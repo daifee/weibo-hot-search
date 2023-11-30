@@ -1,7 +1,15 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701308231431,
+  "endTime": 1701311421117,
   "band_list": [
+    {
+      "raw_hot": 10078116,
+      "num": 10078116,
+      "word": "基辛格逝世",
+      "onboard_time": 1701309274,
+      "rank": 0,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 7039874,
       "num": 7039874,
@@ -97,6 +105,14 @@
       "onboard_time": 1701145477,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2367177,
+      "num": 2367177,
+      "word": "曝羽生结弦妻子遭婆婆无视",
+      "onboard_time": 1701309638,
+      "rank": 1,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 2366870,
@@ -211,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2002391,
+      "num": 2002391,
+      "word": "基辛格今年刚来过中国",
+      "onboard_time": 1701309816,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1998690,
       "num": 1998690,
       "word": "全勤没了",
@@ -273,6 +297,14 @@
       "onboard_time": 1701164974,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1878281,
+      "num": 1878281,
+      "word": "基辛格访问中国一百多次",
+      "onboard_time": 1701310835,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1838560,
@@ -907,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1082152,
+      "num": 1082152,
+      "word": "两家公司董事长失联",
+      "onboard_time": 1701307834,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1075662,
       "num": 1075662,
       "word": "李连杰采访 死后不立碑不办丧事",
@@ -1339,6 +1379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 839017,
+      "num": 839017,
+      "word": "明年的古偶男主",
+      "onboard_time": 1701306994,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 838402,
       "num": 838402,
       "word": "棣欣引力",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1701051691,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 687827,
+      "num": 687827,
+      "word": "iPhone16显示屏及尺寸曝光",
+      "onboard_time": 1701305856,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 687609,
@@ -2051,14 +2107,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 625785,
-      "num": 625785,
-      "word": "明年的古偶男主",
-      "onboard_time": 1701306994,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 624042,
       "num": 396361,
       "word": "张婧仪 越素越美",
@@ -2115,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 612078,
+      "num": 271440,
+      "word": "25岁女子被丈夫割喉父亲发声",
+      "onboard_time": 1701309758,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610588,
       "num": 610588,
       "word": "正式被确诊为试管",
@@ -2169,6 +2225,14 @@
       "onboard_time": 1701085232,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 604679,
+      "num": 604679,
+      "word": "基辛格曾说中国是他生命的一部分",
+      "onboard_time": 1701311259,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 604095,
@@ -2273,14 +2337,6 @@
       "onboard_time": 1701176018,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 581997,
-      "num": 334793,
-      "word": "iPhone16显示屏及尺寸曝光",
-      "onboard_time": 1701305856,
-      "rank": 20,
-      "category": "数码"
     },
     {
       "raw_hot": 581758,
@@ -3435,6 +3491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 434325,
+      "num": 434325,
+      "word": "梳头 防掉发",
+      "onboard_time": 1701305973,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 434224,
       "num": 320616,
       "word": "Xinyi爆料Doinb即将回归",
@@ -3737,14 +3801,6 @@
       "onboard_time": 1701012632,
       "rank": 36,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 405187,
-      "num": 405187,
-      "word": "梳头 防掉发",
-      "onboard_time": 1701305973,
-      "rank": 18,
-      "category": "美妆"
     },
     {
       "raw_hot": 404197,
@@ -5051,6 +5107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303085,
+      "num": 303085,
+      "word": "刘诗诗 这让人怎么镇定",
+      "onboard_time": 1701309454,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303052,
       "num": 303052,
       "word": "迷死老外的中国马拉松奖牌",
@@ -5617,6 +5681,14 @@
       "onboard_time": 1700972253,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277266,
+      "num": 277266,
+      "word": "阿里市值重回电商一哥",
+      "onboard_time": 1701310239,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 276672,
@@ -6587,6 +6659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241230,
+      "num": 241230,
+      "word": "美吉姆",
+      "onboard_time": 1701308673,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241187,
       "num": 241187,
       "word": "孟慧圆军大衣",
@@ -7539,6 +7619,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 207907,
+      "num": 207907,
+      "word": "一念关山男女主影响力登顶",
+      "onboard_time": 1701309996,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207731,
       "num": 207731,
       "word": "孟子义 更适合周深体质的开门大吉",
@@ -7585,6 +7673,14 @@
       "onboard_time": 1701261103,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206709,
+      "num": 190525,
+      "word": "基辛格官网悼文提到11次中国",
+      "onboard_time": 1701311377,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 206594,
@@ -8419,6 +8515,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 191027,
+      "num": 191027,
+      "word": "张雨绮吵架戏脸胀通红",
+      "onboard_time": 1701308794,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190857,
       "num": 190857,
       "word": "新闻女王",
@@ -8779,6 +8883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184536,
+      "num": 184536,
+      "word": "脸黄比脸黑更可怕吗",
+      "onboard_time": 1701308433,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184436,
       "num": 184436,
       "word": "生动诠释了什么叫绩效工资",
@@ -8985,14 +9097,6 @@
       "onboard_time": 1701004297,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180507,
-      "num": 180507,
-      "word": "两家公司董事长失联",
-      "onboard_time": 1701307834,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180367,
@@ -10179,6 +10283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151023,
+      "num": 151023,
+      "word": "周冬雨新电影 人性量心尺",
+      "onboard_time": 1701307893,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150571,
       "num": 157278,
       "word": "樊振东孙颖莎继续顶峰相见",
@@ -10425,14 +10537,6 @@
       "onboard_time": 1701243694,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 144694,
-      "num": 144694,
-      "word": "周冬雨新电影 人性量心尺",
-      "onboard_time": 1701307893,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 144669,
@@ -10883,6 +10987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131983,
+      "num": 131983,
+      "word": "警方回应执勤交警持棍击倒骑车男子",
+      "onboard_time": 1701310963,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131971,
       "num": 704728,
       "word": "陈震 韩路",
@@ -10961,6 +11073,14 @@
       "onboard_time": 1701029232,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128501,
+      "num": 128501,
+      "word": "丁程鑫玩游戏被疯狂爆锤",
+      "onboard_time": 1701310897,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 128482,
@@ -11057,6 +11177,14 @@
       "onboard_time": 1700980593,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124438,
+      "num": 124438,
+      "word": "宿舍有四个时区",
+      "onboard_time": 1701311377,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 124316,
@@ -12236,7 +12364,7 @@
     },
     {
       "raw_hot": 35971,
-      "num": 1106978,
+      "num": 2055852,
       "word": "链博会展商开始预约下一届展位了",
       "onboard_time": 1701270576,
       "rank": 2,
