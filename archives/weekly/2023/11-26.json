@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701336852586,
+  "endTime": 1701339588198,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -137,6 +137,14 @@
       "onboard_time": 1701309638,
       "rank": 1,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 2395672,
+      "num": 2395672,
+      "word": "朱丹被骗案 判决书",
+      "onboard_time": 1701335796,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2376145,
@@ -739,14 +747,6 @@
       "category": "演出,网红"
     },
     {
-      "raw_hot": 1323068,
-      "num": 1323068,
-      "word": "朱丹被骗案 判决书",
-      "onboard_time": 1701335796,
-      "rank": 43,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1321813,
       "num": 1321813,
       "word": "嗓子疼",
@@ -1049,6 +1049,14 @@
       "onboard_time": 1701307834,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1079951,
+      "num": 1079951,
+      "word": "五月天 对口型",
+      "onboard_time": 1701338014,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1075662,
@@ -3051,6 +3059,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 524031,
+      "num": 524031,
+      "word": "赵丽颖 四月间事",
+      "onboard_time": 1701337175,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523034,
       "num": 523034,
       "word": "科目三",
@@ -4451,6 +4467,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383972,
+      "num": 383972,
+      "word": "家妍原型 曾志伟",
+      "onboard_time": 1701334834,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 383515,
+      "num": 383515,
+      "word": "张译 南极拒绝合影事件",
+      "onboard_time": 1701339093,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382450,
       "num": 382450,
       "word": "再见爱人3最终抉择",
@@ -4579,6 +4611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370777,
+      "num": 1680334,
+      "word": "大四男生给学校捐了20万",
+      "onboard_time": 1701332796,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370371,
       "num": 321032,
       "word": "迪丽热巴高颅顶发箍",
@@ -4641,6 +4681,14 @@
       "onboard_time": 1700992715,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 364473,
+      "num": 364473,
+      "word": "TES 辅助",
+      "onboard_time": 1701338736,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 363339,
@@ -4953,14 +5001,6 @@
       "onboard_time": 1700991996,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 339713,
-      "num": 339713,
-      "word": "大四男生给学校捐了20万",
-      "onboard_time": 1701332796,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339710,
@@ -6035,6 +6075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284990,
+      "num": 1125669,
+      "word": "男子在抢救室抚摸父亲额头崩溃大哭",
+      "onboard_time": 1701337355,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284461,
       "num": 284461,
       "word": "宁远舟性张力",
@@ -6612,7 +6660,7 @@
     },
     {
       "raw_hot": 264055,
-      "num": 264055,
+      "num": 988627,
       "word": "渐冻症女警长29年改造1900多名罪犯",
       "onboard_time": 1701325654,
       "rank": 29,
@@ -7619,6 +7667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230249,
+      "num": 230249,
+      "word": "良品铺子将实施17年来最大规模降价",
+      "onboard_time": 1701338795,
+      "rank": 27,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 230181,
       "num": 230181,
       "word": "梁朝伟新片爽文男主",
@@ -8211,11 +8267,11 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 211890,
-      "num": 211890,
-      "word": "家妍原型 曾志伟",
-      "onboard_time": 1701334834,
-      "rank": 45,
+      "raw_hot": 212199,
+      "num": 212199,
+      "word": "何蓝逗 刘诗诗香香的",
+      "onboard_time": 1701336517,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -9635,14 +9691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189294,
-      "num": 189294,
-      "word": "何蓝逗 刘诗诗香香的",
-      "onboard_time": 1701336517,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189256,
       "num": 178654,
       "word": "井胧白鹿张凌赫同框",
@@ -10112,6 +10160,14 @@
       "word": "马丽撤回了一个微笑",
       "onboard_time": 1700976571,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179972,
+      "num": 179972,
+      "word": "辛芷蕾叫秦岚秦美岚",
+      "onboard_time": 1701337055,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -10675,6 +10731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167531,
+      "num": 167531,
+      "word": "Cardi B与Lizzo出席活动",
+      "onboard_time": 1701337715,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167501,
       "num": 167501,
       "word": "再吃两顿饭就能看一念关山了",
@@ -10777,6 +10841,14 @@
       "onboard_time": 1700961511,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165079,
+      "num": 165079,
+      "word": "杭州街头偶遇向佐买肉夹馍",
+      "onboard_time": 1701337534,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 165064,
@@ -10977,6 +11049,14 @@
       "onboard_time": 1701077494,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160346,
+      "num": 160346,
+      "word": "李嶷抬棺闯宫",
+      "onboard_time": 1701338914,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 160341,
@@ -11643,6 +11723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146093,
+      "num": 146093,
+      "word": "WTT盛赞孙颖莎自成一档",
+      "onboard_time": 1701338496,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145089,
       "num": 145089,
       "word": "闻不到味道的人 鼻炎患者",
@@ -12265,6 +12353,14 @@
       "onboard_time": 1701089794,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 126429,
+      "num": 126429,
+      "word": "公务员献血事件中是否有特权存在",
+      "onboard_time": 1701339513,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126170,

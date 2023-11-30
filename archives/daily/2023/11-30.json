@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701336852586,
+  "endTime": 1701339588198,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -41,6 +41,14 @@
       "onboard_time": 1701309638,
       "rank": 1,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 2395672,
+      "num": 2395672,
+      "word": "朱丹被骗案 判决书",
+      "onboard_time": 1701335796,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2376145,
@@ -131,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1323068,
-      "num": 1323068,
-      "word": "朱丹被骗案 判决书",
-      "onboard_time": 1701335796,
-      "rank": 43,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1260419,
       "num": 1260419,
       "word": "杨鸣",
@@ -169,6 +169,14 @@
       "onboard_time": 1701307834,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1079951,
+      "num": 1079951,
+      "word": "五月天 对口型",
+      "onboard_time": 1701338014,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1068989,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524031,
+      "num": 524031,
+      "word": "赵丽颖 四月间事",
+      "onboard_time": 1701337175,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519941,
       "num": 457750,
       "word": "基辛格官网悼文提到11次中国",
@@ -651,6 +667,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 383972,
+      "num": 383972,
+      "word": "家妍原型 曾志伟",
+      "onboard_time": 1701334834,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 383515,
+      "num": 383515,
+      "word": "张译 南极拒绝合影事件",
+      "onboard_time": 1701339093,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378753,
       "num": 378753,
       "word": "JDG官宣369离队",
@@ -683,11 +715,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 370777,
+      "num": 1680334,
+      "word": "大四男生给学校捐了20万",
+      "onboard_time": 1701332796,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370178,
       "num": 370178,
       "word": "JDG 转会",
       "onboard_time": 1701305016,
       "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 364473,
+      "num": 364473,
+      "word": "TES 辅助",
+      "onboard_time": 1701338736,
+      "rank": 17,
       "category": "电竞"
     },
     {
@@ -761,14 +809,6 @@
       "onboard_time": 1701336634,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339713,
-      "num": 339713,
-      "word": "大四男生给学校捐了20万",
-      "onboard_time": 1701332796,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339710,
@@ -947,6 +987,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 284990,
+      "num": 1125669,
+      "word": "男子在抢救室抚摸父亲额头崩溃大哭",
+      "onboard_time": 1701337355,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283392,
       "num": 283392,
       "word": "宝马奔驰将在中国设立合资公司",
@@ -1012,7 +1060,7 @@
     },
     {
       "raw_hot": 264055,
-      "num": 264055,
+      "num": 988627,
       "word": "渐冻症女警长29年改造1900多名罪犯",
       "onboard_time": 1701325654,
       "rank": 29,
@@ -1097,6 +1145,14 @@
       "onboard_time": 1701313360,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230249,
+      "num": 230249,
+      "word": "良品铺子将实施17年来最大规模降价",
+      "onboard_time": 1701338795,
+      "rank": 27,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 227530,
@@ -1187,11 +1243,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211890,
-      "num": 211890,
-      "word": "家妍原型 曾志伟",
-      "onboard_time": 1701334834,
-      "rank": 45,
+      "raw_hot": 212199,
+      "num": 212199,
+      "word": "何蓝逗 刘诗诗香香的",
+      "onboard_time": 1701336517,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1459,20 +1515,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 189294,
-      "num": 189294,
-      "word": "何蓝逗 刘诗诗香香的",
-      "onboard_time": 1701336517,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189204,
       "num": 189204,
       "word": "很想很想你乐来悦爱预告",
       "onboard_time": 1701311676,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188278,
+      "num": 188278,
+      "word": "王者荣耀",
+      "onboard_time": 1701338431,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 188008,
@@ -1537,6 +1593,14 @@
       "onboard_time": 1701330993,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179972,
+      "num": 179972,
+      "word": "辛芷蕾叫秦岚秦美岚",
+      "onboard_time": 1701337055,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 179048,
@@ -1611,6 +1675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167531,
+      "num": 167531,
+      "word": "Cardi B与Lizzo出席活动",
+      "onboard_time": 1701337715,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167479,
       "num": 167479,
       "word": "广东佛山有口拳头大的迷你水井",
@@ -1635,6 +1707,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165079,
+      "num": 165079,
+      "word": "杭州街头偶遇向佐买肉夹馍",
+      "onboard_time": 1701337534,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165064,
       "num": 165064,
       "word": "宋雨琦姐系裸妆",
@@ -1657,6 +1737,14 @@
       "onboard_time": 1701322413,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160346,
+      "num": 160346,
+      "word": "李嶷抬棺闯宫",
+      "onboard_time": 1701338914,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 158229,
@@ -1737,6 +1825,14 @@
       "onboard_time": 1701322958,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 146093,
+      "num": 146093,
+      "word": "WTT盛赞孙颖莎自成一档",
+      "onboard_time": 1701338496,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 141181,
@@ -1856,6 +1952,14 @@
       "word": "海底捞部分门店不让跳科目三了",
       "onboard_time": 1701255815,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126429,
+      "num": 126429,
+      "word": "公务员献血事件中是否有特权存在",
+      "onboard_time": 1701339513,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

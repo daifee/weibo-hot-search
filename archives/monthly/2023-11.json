@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701336852586,
+  "endTime": 1701339588198,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1377,6 +1377,14 @@
       "onboard_time": 1698765513,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2395672,
+      "num": 2395672,
+      "word": "朱丹被骗案 判决书",
+      "onboard_time": 1701335796,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2392638,
@@ -5107,14 +5115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1323068,
-      "num": 1323068,
-      "word": "朱丹被骗案 判决书",
-      "onboard_time": 1701335796,
-      "rank": 43,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1321980,
       "num": 1009812,
       "word": "网友提醒刘强东老家水龙头忘关了",
@@ -6929,6 +6929,14 @@
       "onboard_time": 1700790752,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1079951,
+      "num": 1079951,
+      "word": "五月天 对口型",
+      "onboard_time": 1701338014,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 1075662,
@@ -18643,6 +18651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 524031,
+      "num": 524031,
+      "word": "赵丽颖 四月间事",
+      "onboard_time": 1701337175,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523884,
       "num": 523884,
       "word": "WBG 陌生",
@@ -26675,6 +26691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 383972,
+      "num": 383972,
+      "word": "家妍原型 曾志伟",
+      "onboard_time": 1701334834,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383968,
       "num": 383968,
       "word": "五月天舞台 提词器",
@@ -26753,6 +26777,14 @@
       "onboard_time": 1699620094,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383515,
+      "num": 383515,
+      "word": "张译 南极拒绝合影事件",
+      "onboard_time": 1701339093,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 383393,
@@ -27755,6 +27787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370777,
+      "num": 1680334,
+      "word": "大四男生给学校捐了20万",
+      "onboard_time": 1701332796,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370391,
       "num": 370391,
       "word": "庆余年二预约破800万",
@@ -28192,6 +28232,14 @@
       "word": "TheShy 请神请到自己",
       "onboard_time": 1699699534,
       "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 364473,
+      "num": 364473,
+      "word": "TES 辅助",
+      "onboard_time": 1701338736,
+      "rank": 17,
       "category": "电竞"
     },
     {
@@ -30289,14 +30337,6 @@
       "onboard_time": 1700991996,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 339713,
-      "num": 339713,
-      "word": "大四男生给学校捐了20万",
-      "onboard_time": 1701332796,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339710,
@@ -35803,6 +35843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284990,
+      "num": 1125669,
+      "word": "男子在抢救室抚摸父亲额头崩溃大哭",
+      "onboard_time": 1701337355,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284874,
       "num": 284874,
       "word": "阿维塔",
@@ -38596,7 +38644,7 @@
     },
     {
       "raw_hot": 264055,
-      "num": 264055,
+      "num": 988627,
       "word": "渐冻症女警长29年改造1900多名罪犯",
       "onboard_time": 1701325654,
       "rank": 29,
@@ -44187,6 +44235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230249,
+      "num": 230249,
+      "word": "良品铺子将实施17年来最大规模降价",
+      "onboard_time": 1701338795,
+      "rank": 27,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 230231,
       "num": 230231,
       "word": "薛之谦 温州抢票",
@@ -47867,6 +47923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 212199,
+      "num": 212199,
+      "word": "何蓝逗 刘诗诗香香的",
+      "onboard_time": 1701336517,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212191,
       "num": 212191,
       "word": "追星女的cos",
@@ -47928,14 +47992,6 @@
       "word": "似火流年开播",
       "onboard_time": 1700271931,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211890,
-      "num": 211890,
-      "word": "家妍原型 曾志伟",
-      "onboard_time": 1701334834,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -55203,14 +55259,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 189294,
-      "num": 189294,
-      "word": "何蓝逗 刘诗诗香香的",
-      "onboard_time": 1701336517,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189283,
       "num": 882922,
       "word": "中超大结局",
@@ -57841,6 +57889,14 @@
       "onboard_time": 1698798815,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179972,
+      "num": 179972,
+      "word": "辛芷蕾叫秦岚秦美岚",
+      "onboard_time": 1701337055,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 179932,
@@ -61147,6 +61203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167531,
+      "num": 167531,
+      "word": "Cardi B与Lizzo出席活动",
+      "onboard_time": 1701337715,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167529,
       "num": 167529,
       "word": "胎儿脐带绕颈能顺产吗",
@@ -61833,6 +61897,14 @@
       "onboard_time": 1700089643,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 165079,
+      "num": 165079,
+      "word": "杭州街头偶遇向佐买肉夹馍",
+      "onboard_time": 1701337534,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 165064,
@@ -63121,6 +63193,14 @@
       "onboard_time": 1701077494,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160346,
+      "num": 160346,
+      "word": "李嶷抬棺闯宫",
+      "onboard_time": 1701338914,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 160341,
@@ -66817,6 +66897,14 @@
       "onboard_time": 1700455660,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 146093,
+      "num": 146093,
+      "word": "WTT盛赞孙颖莎自成一档",
+      "onboard_time": 1701338496,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 146077,
@@ -71937,6 +72025,14 @@
       "onboard_time": 1699082552,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126429,
+      "num": 126429,
+      "word": "公务员献血事件中是否有特权存在",
+      "onboard_time": 1701339513,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126428,
