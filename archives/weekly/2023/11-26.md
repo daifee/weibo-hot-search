@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/26 00:20:53 ~ 2023/12/01 02:35:45
+本榜单时间：2023/11/26 00:20:53 ~ 2023/12/01 03:13:57
 </p>
 </blockquote>
 <p>
@@ -10841,6 +10841,12 @@ Cat知道错了（热度：70556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E5%A6%8D%E5%8F%AA%E6%83%B3%E5%81%9A%E5%A4%AA%E5%90%8E%23" target="weibo">
 萧妍只想做太后（热度：32726）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E5%87%BA%E5%B8%AD%E5%98%89%E5%AE%BE%23" target="weibo">
+星光大赏出席嘉宾（热度：31555）
 </a>
 </li>
 
