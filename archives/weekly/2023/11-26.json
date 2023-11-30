@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701312059016,
+  "endTime": 1701314296623,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -441,6 +441,14 @@
       "onboard_time": 1700991335,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1654756,
+      "num": 294444,
+      "word": "老头强暴自己孙女致其怀孕系谣言",
+      "onboard_time": 1701311615,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1641757,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1701042990,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 977711,
+      "num": 327965,
+      "word": "25岁女子被丈夫割喉父亲发声",
+      "onboard_time": 1701309758,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977706,
@@ -1851,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667186,
+      "num": 667186,
+      "word": "长期吃猪油不利于健康",
+      "onboard_time": 1701312574,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 665417,
       "num": 665417,
       "word": "汤唯接女儿放学",
@@ -2115,14 +2139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 625757,
-      "num": 283620,
-      "word": "25岁女子被丈夫割喉父亲发声",
-      "onboard_time": 1701309758,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 624042,
       "num": 396361,
       "word": "张婧仪 越素越美",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1701165156,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592737,
+      "num": 592737,
+      "word": "空腹16小时启动自噬功能",
+      "onboard_time": 1701314137,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 591302,
@@ -2755,6 +2779,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 519941,
+      "num": 457750,
+      "word": "基辛格官网悼文提到11次中国",
+      "onboard_time": 1701311377,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 518597,
       "num": 518597,
       "word": "陈牧驰 南海归墟",
@@ -2889,6 +2921,14 @@
       "onboard_time": 1701066752,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 503789,
+      "num": 503789,
+      "word": "小区房价骤降有业主一夜损失超50万",
+      "onboard_time": 1701311615,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503202,
@@ -3273,14 +3313,6 @@
       "onboard_time": 1701058357,
       "rank": 21,
       "category": "剧集,美妆"
-    },
-    {
-      "raw_hot": 457750,
-      "num": 457750,
-      "word": "基辛格官网悼文提到11次中国",
-      "onboard_time": 1701311377,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 457071,
@@ -3859,6 +3891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399640,
+      "num": 324558,
+      "word": "马斯克爆粗口怒喷广告商",
+      "onboard_time": 1701311975,
+      "rank": 15,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 397345,
       "num": 397345,
       "word": "男子多次高空抛物致28岁女子身亡",
@@ -4153,6 +4193,14 @@
       "onboard_time": 1701182977,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375319,
+      "num": 323774,
+      "word": "刘诗诗 这让人怎么镇定",
+      "onboard_time": 1701309454,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 373265,
@@ -4899,14 +4947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 312515,
-      "num": 312515,
-      "word": "刘诗诗 这让人怎么镇定",
-      "onboard_time": 1701309454,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 312084,
       "num": 312084,
       "word": "封神第一部 远在天边",
@@ -5089,6 +5129,14 @@
       "onboard_time": 1701075632,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304324,
+      "num": 304324,
+      "word": "宿舍有四个时区",
+      "onboard_time": 1701311377,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 304035,
@@ -5371,14 +5419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288615,
-      "num": 272098,
-      "word": "老头强暴自己孙女致其怀孕系谣言",
-      "onboard_time": 1701311615,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288560,
       "num": 288560,
       "word": "K70系列首发评测",
@@ -5504,6 +5544,14 @@
       "word": "佘诗曼现场审简历",
       "onboard_time": 1701219096,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 284079,
+      "num": 284079,
+      "word": "很想很想你",
+      "onboard_time": 1701313538,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -6001,6 +6049,14 @@
       "onboard_time": 1701051273,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264475,
+      "num": 264475,
+      "word": "王鹤棣出发香港路透",
+      "onboard_time": 1701313057,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 263322,
@@ -7331,6 +7387,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 218412,
+      "num": 218412,
+      "word": "男子闯岳父家当4岁孩子面将妻子杀害",
+      "onboard_time": 1701313234,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218185,
       "num": 218185,
       "word": "刘诗诗一念关山雪中舞",
@@ -7441,14 +7505,6 @@
       "onboard_time": 1701162393,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 213500,
-      "num": 188592,
-      "word": "宿舍有四个时区",
-      "onboard_time": 1701311377,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 213245,
@@ -7643,6 +7699,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 207966,
+      "num": 207966,
+      "word": "奔驰司机在车内离世后被发现",
+      "onboard_time": 1701313655,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207907,
       "num": 207907,
       "word": "一念关山男女主影响力登顶",
@@ -7763,6 +7827,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205102,
+      "num": 205102,
+      "word": "假如任如意遇到了李莲花",
+      "onboard_time": 1701313360,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204772,
+      "num": 204772,
+      "word": "揭秘基辛格第一次秘密访问中国",
+      "onboard_time": 1701313057,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 204482,
       "num": 195685,
       "word": "当代研究生参加会议",
@@ -7803,6 +7883,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 203654,
+      "num": 203654,
+      "word": "丁禹兮路透",
+      "onboard_time": 1701312034,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203645,
       "num": 203645,
       "word": "法考主观题",
@@ -7825,6 +7913,14 @@
       "onboard_time": 1701268835,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202899,
+      "num": 194135,
+      "word": "基辛格是中国人民的老朋友",
+      "onboard_time": 1701313538,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 202897,
@@ -8299,6 +8395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194307,
+      "num": 187401,
+      "word": "基辛格葬礼将以家庭仪式形式举行",
+      "onboard_time": 1701314255,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 194254,
       "num": 194254,
       "word": "周也锦月如歌全身路透",
@@ -8321,6 +8425,14 @@
       "onboard_time": 1700991214,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194196,
+      "num": 194196,
+      "word": "湖人大胜活塞",
+      "onboard_time": 1701313777,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 194116,
@@ -8657,14 +8769,6 @@
       "onboard_time": 1701091177,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 189801,
-      "num": 189801,
-      "word": "小区房价骤降有业主一夜损失超50万",
-      "onboard_time": 1701311615,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189760,
@@ -9737,6 +9841,14 @@
       "onboard_time": 1701062795,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165748,
+      "num": 165748,
+      "word": "NANA小松奈奈生日",
+      "onboard_time": 1701313115,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 165698,
@@ -10843,6 +10955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138879,
+      "num": 138879,
+      "word": "拉塞尔35分",
+      "onboard_time": 1701312875,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138837,
       "num": 138837,
       "word": "SHEIN上市估值远超拼多多",
@@ -11283,12 +11403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121935,
-      "num": 121935,
-      "word": "丁禹兮路透",
-      "onboard_time": 1701312034,
-      "rank": 48,
-      "category": "作品衍生"
+      "raw_hot": 120869,
+      "num": 120869,
+      "word": "12月这些新规施行",
+      "onboard_time": 1701312936,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120242,
@@ -12576,6 +12696,14 @@
       "word": "海底捞科目三小哥回应走红",
       "onboard_time": 1701115692,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16878,
+      "num": 699447,
+      "word": "举办链博会展现了担当彰显了能力",
+      "onboard_time": 1701313234,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
