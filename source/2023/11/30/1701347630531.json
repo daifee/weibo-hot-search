@@ -1,0 +1,410 @@
+{
+  "runTime": 1701347630531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4435851,
+        "num": 4435851,
+        "word": "LV大秀",
+        "onboard_time": 1701344013,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1799753,
+        "num": 1799753,
+        "word": "一念关山 替身马赛克",
+        "onboard_time": 1701342454,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43463,
+        "num": 1385067,
+        "word": "航拍绝美落羽杉林氛围感拉满",
+        "onboard_time": 1701333934,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2218910,
+        "num": 1311520,
+        "word": "朱一龙 穿裙子",
+        "onboard_time": 1701346594,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1228843,
+        "num": 1228843,
+        "word": "王鹤棣 踹开说唱大门",
+        "onboard_time": 1701343656,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1005156,
+        "num": 1005156,
+        "word": "朱丹被骗案 判决书",
+        "onboard_time": 1701335796,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891083,
+        "num": 891083,
+        "word": "中学女生发型 鲶鱼须遮半张脸",
+        "onboard_time": 1701342873,
+        "rank": 6,
+        "category": "教育,美妆"
+      },
+      {
+        "raw_hot": 867722,
+        "num": 867722,
+        "word": "杨鸣被曝离婚",
+        "onboard_time": 1701332375,
+        "rank": 7,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 865164,
+        "num": 865164,
+        "word": "杨鸣唐佳良离婚案12月开庭",
+        "onboard_time": 1701345034,
+        "rank": 8,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 714970,
+        "num": 714970,
+        "word": "五月天 对口型",
+        "onboard_time": 1701338014,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 569994,
+        "num": 569994,
+        "word": "张译 南极拒绝合影事件",
+        "onboard_time": 1701339093,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462965,
+        "num": 462965,
+        "word": "疑似南京横渡长江野猪呛水死亡",
+        "onboard_time": 1701342873,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422227,
+        "num": 422227,
+        "word": "一念关山 AI换脸",
+        "onboard_time": 1701345215,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404131,
+        "num": 404131,
+        "word": "星光大赏 门票",
+        "onboard_time": 1701346893,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352887,
+        "num": 352887,
+        "word": "爷爷过世请不出丧假小伙遭亲戚埋怨",
+        "onboard_time": 1701331773,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321642,
+        "num": 321642,
+        "word": "一念关山 嫂子文学",
+        "onboard_time": 1701327872,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314726,
+        "num": 314726,
+        "word": "LV香港大秀明星阵容",
+        "onboard_time": 1701326733,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283756,
+        "num": 283756,
+        "word": "27岁年纪大什么大",
+        "onboard_time": 1701342693,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278418,
+        "num": 278418,
+        "word": "阿拉善地震",
+        "onboard_time": 1701344373,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255293,
+        "num": 255293,
+        "word": "专家建议不要同时使用止咳药和祛痰药",
+        "onboard_time": 1701342573,
+        "rank": 19,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 312231,
+        "num": 243074,
+        "word": "家妍原型 曾志伟",
+        "onboard_time": 1701334834,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273580,
+        "num": 238013,
+        "word": "很想很想你直播",
+        "onboard_time": 1701346714,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218593,
+        "num": 218593,
+        "word": "杨鸣曾因离婚纠纷起诉妻子",
+        "onboard_time": 1701342693,
+        "rank": 22,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 215272,
+        "num": 215272,
+        "word": "腾讯回应是否代理暴雪国服",
+        "onboard_time": 1701345571,
+        "rank": 23,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 210087,
+        "num": 210087,
+        "word": "一县城临聘人员工资已超全县总税收",
+        "onboard_time": 1701334116,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253775,
+        "num": 209585,
+        "word": "张远 奶奶围裙",
+        "onboard_time": 1701346113,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221245,
+        "num": 208642,
+        "word": "朴综星向MOA道歉",
+        "onboard_time": 1701345154,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213375,
+        "num": 207899,
+        "word": "赵丽颖 四月间事",
+        "onboard_time": 1701337175,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205460,
+        "num": 205460,
+        "word": "大四男生给学校捐了20万",
+        "onboard_time": 1701332796,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208775,
+        "num": 203942,
+        "word": "双鱼座其实是高级的猎手",
+        "onboard_time": 1701346714,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 416446,
+        "num": 203598,
+        "word": "张踩铃 是什么让一个女人只想搞钱",
+        "onboard_time": 1701346893,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212544,
+        "num": 202101,
+        "word": "王安宇带妈妈新疆自驾游",
+        "onboard_time": 1701340772,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200004,
+        "num": 200004,
+        "word": "周鸿祎称美国正开动下一场工业革命",
+        "onboard_time": 1701344194,
+        "rank": 32,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 197372,
+        "num": 197372,
+        "word": "顾客住酒店发现有艾滋病治疗药物",
+        "onboard_time": 1701333757,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191988,
+        "num": 191988,
+        "word": "排队5天孩子呼吸道感染熬成肺炎",
+        "onboard_time": 1701347131,
+        "rank": 34,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 190722,
+        "num": 190722,
+        "word": "鹿晗新歌中文名漂向宇宙尽头",
+        "onboard_time": 1701346412,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189871,
+        "num": 189871,
+        "word": "老师 我们家子涵",
+        "onboard_time": 1701333996,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189135,
+        "num": 189135,
+        "word": "高圆圆亲赵又廷尴尬的是姚晨",
+        "onboard_time": 1701333455,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184777,
+        "num": 184777,
+        "word": "真的到此为止了吗 菩萨",
+        "onboard_time": 1701347012,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170711,
+        "num": 170711,
+        "word": "很想很想你",
+        "onboard_time": 1701347496,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167929,
+        "num": 167929,
+        "word": "极越01全系直降3万元",
+        "onboard_time": 1701347312,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162422,
+        "num": 162422,
+        "word": "刘亦菲冬日栗子妆",
+        "onboard_time": 1701343954,
+        "rank": 41,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 150046,
+        "num": 150046,
+        "word": "老头强暴自己孙女致其怀孕系谣言",
+        "onboard_time": 1701311615,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145849,
+        "num": 145849,
+        "word": "伊能静 秦昊发嗲肯定是抽风",
+        "onboard_time": 1701334957,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143444,
+        "num": 143444,
+        "word": "新闻女王",
+        "onboard_time": 1701346772,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142157,
+        "num": 142157,
+        "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+        "onboard_time": 1701323194,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140572,
+        "num": 140572,
+        "word": "TES 辅助",
+        "onboard_time": 1701338736,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138600,
+        "num": 138600,
+        "word": "白鹿发视频告别姜雪宁",
+        "onboard_time": 1701343113,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124888,
+        "num": 124888,
+        "word": "Melo墨龙结婚",
+        "onboard_time": 1701347615,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124749,
+        "num": 124749,
+        "word": "佘诗曼最难忘的一场戏",
+        "onboard_time": 1701347615,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将继续主持公道正义积极劝和促谈#"
+    }
+  }
+}

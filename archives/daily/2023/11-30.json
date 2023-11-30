@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701344047389,
+  "endTime": 1701347630531,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -9,6 +9,14 @@
       "onboard_time": 1701309274,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 4435851,
+      "num": 4435851,
+      "word": "LV大秀",
+      "onboard_time": 1701344013,
+      "rank": 33,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 2495090,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2218910,
+      "num": 1311520,
+      "word": "朱一龙 穿裙子",
+      "onboard_time": 1701346594,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2066186,
       "num": 2066186,
       "word": "基辛格访问中国一百多次",
@@ -99,8 +115,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1799278,
-      "num": 1799278,
+      "raw_hot": 1799753,
+      "num": 1799753,
       "word": "一念关山 替身马赛克",
       "onboard_time": 1701342454,
       "rank": 9,
@@ -169,6 +185,14 @@
       "onboard_time": 1701301049,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1228843,
+      "num": 1228843,
+      "word": "王鹤棣 踹开说唱大门",
+      "onboard_time": 1701343656,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1214347,
@@ -257,6 +281,22 @@
       "onboard_time": 1701333455,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 891083,
+      "num": 891083,
+      "word": "中学女生发型 鲶鱼须遮半张脸",
+      "onboard_time": 1701342873,
+      "rank": 48,
+      "category": "教育,美妆"
+    },
+    {
+      "raw_hot": 865164,
+      "num": 865164,
+      "word": "杨鸣唐佳良离婚案12月开庭",
+      "onboard_time": 1701345034,
+      "rank": 8,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 851249,
@@ -417,14 +457,6 @@
       "onboard_time": 1701327872,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 623251,
-      "num": 623251,
-      "word": "王鹤棣 踹开说唱大门",
-      "onboard_time": 1701343656,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 609585,
@@ -627,6 +659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 462965,
+      "num": 462965,
+      "word": "疑似南京横渡长江野猪呛水死亡",
+      "onboard_time": 1701342873,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457071,
       "num": 457071,
       "word": "杨幂一个vlog去了3个地方",
@@ -667,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 422227,
+      "num": 422227,
+      "word": "一念关山 AI换脸",
+      "onboard_time": 1701345215,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417833,
       "num": 417833,
       "word": "BGM一响肖战演的郭靖有那味儿了",
@@ -681,6 +729,14 @@
       "onboard_time": 1701264939,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416446,
+      "num": 203598,
+      "word": "张踩铃 是什么让一个女人只想搞钱",
+      "onboard_time": 1701346893,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 413096,
@@ -707,20 +763,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 404131,
+      "num": 404131,
+      "word": "星光大赏 门票",
+      "onboard_time": 1701346893,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396210,
       "num": 396210,
       "word": "法考成绩",
       "onboard_time": 1701274170,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 387338,
-      "num": 387338,
-      "word": "中学女生发型 鲶鱼须遮半张脸",
-      "onboard_time": 1701342873,
-      "rank": 48,
-      "category": "教育,美妆"
     },
     {
       "raw_hot": 383180,
@@ -897,14 +953,6 @@
       "onboard_time": 1701321572,
       "rank": 16,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 337908,
-      "num": 337908,
-      "word": "疑似南京横渡长江野猪呛水死亡",
-      "onboard_time": 1701342873,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337583,
@@ -1115,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278418,
+      "num": 278418,
+      "word": "阿拉善地震",
+      "onboard_time": 1701344373,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277266,
       "num": 277266,
       "word": "阿里市值重回电商一哥",
@@ -1137,6 +1193,14 @@
       "onboard_time": 1701313234,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273580,
+      "num": 238013,
+      "word": "很想很想你直播",
+      "onboard_time": 1701346714,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 272894,
@@ -1201,6 +1265,14 @@
       "onboard_time": 1701304418,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253775,
+      "num": 209585,
+      "word": "张远 奶奶围裙",
+      "onboard_time": 1701346113,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248285,
@@ -1291,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221245,
+      "num": 208642,
+      "word": "朴综星向MOA道歉",
+      "onboard_time": 1701345154,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219473,
       "num": 219473,
       "word": "秦昊杨超越命运分组",
@@ -1331,6 +1411,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 215272,
+      "num": 215272,
+      "word": "腾讯回应是否代理暴雪国服",
+      "onboard_time": 1701345571,
+      "rank": 23,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 215246,
       "num": 215246,
       "word": "科目三",
@@ -1363,12 +1451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208711,
-      "num": 208711,
-      "word": "LV大秀",
-      "onboard_time": 1701344013,
-      "rank": 33,
-      "category": "时尚,作品衍生"
+      "raw_hot": 208775,
+      "num": 203942,
+      "word": "双鱼座其实是高级的猎手",
+      "onboard_time": 1701346714,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 208617,
@@ -1483,6 +1571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 200004,
+      "num": 200004,
+      "word": "周鸿祎称美国正开动下一场工业革命",
+      "onboard_time": 1701344194,
+      "rank": 32,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 199171,
       "num": 199171,
       "word": "很想很想你首更4集连更5天",
@@ -1587,6 +1683,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191988,
+      "num": 191988,
+      "word": "排队5天孩子呼吸道感染熬成肺炎",
+      "onboard_time": 1701347131,
+      "rank": 34,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 191317,
       "num": 191317,
       "word": "一念关山和女医明妃传同样的编剧",
@@ -1609,6 +1713,14 @@
       "onboard_time": 1701268659,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190722,
+      "num": 190722,
+      "word": "鹿晗新歌中文名漂向宇宙尽头",
+      "onboard_time": 1701346412,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 190637,
@@ -1713,6 +1825,14 @@
       "onboard_time": 1701343292,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184777,
+      "num": 184777,
+      "word": "真的到此为止了吗 菩萨",
+      "onboard_time": 1701347012,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 184536,
@@ -1841,6 +1961,14 @@
       "onboard_time": 1701343892,
       "rank": 41,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 167929,
+      "num": 167929,
+      "word": "极越01全系直降3万元",
+      "onboard_time": 1701347312,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 167531,
@@ -2027,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143444,
+      "num": 143444,
+      "word": "新闻女王",
+      "onboard_time": 1701346772,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141181,
       "num": 141181,
       "word": "怒海 剔骨还父的哪吒",
@@ -2153,6 +2289,22 @@
       "onboard_time": 1701262418,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 124888,
+      "num": 124888,
+      "word": "Melo墨龙结婚",
+      "onboard_time": 1701347615,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124749,
+      "num": 124749,
+      "word": "佘诗曼最难忘的一场戏",
+      "onboard_time": 1701347615,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 124514,
