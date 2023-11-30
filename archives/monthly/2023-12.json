@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701375506231,
+  "endTime": 1701376462674,
   "band_list": [
     {
       "raw_hot": 1758768,
@@ -443,7 +443,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32602,
+      "raw_hot": 36535,
       "num": 23284,
       "word": "伊能静 最高级的悲喜在喜剧",
       "onboard_time": 1701372434,
@@ -483,8 +483,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14430,
-      "num": 15678,
+      "raw_hot": 17472,
+      "num": 17472,
       "word": "王者新英雄海诺",
       "onboard_time": 1701374833,
       "rank": 44,
