@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701322450840,
+  "endTime": 1701325374215,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -2441,6 +2441,14 @@
       "onboard_time": 1699270654,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1926776,
+      "num": 1926776,
+      "word": "菲律宾警方确认被绑6名中国人4人被撕票",
+      "onboard_time": 1701322536,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1920018,
@@ -11195,6 +11203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 753946,
+      "num": 753946,
+      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+      "onboard_time": 1701323194,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753679,
       "num": 753679,
       "word": "JDG拿到赛点",
@@ -12473,6 +12489,14 @@
       "onboard_time": 1698835593,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703090,
+      "num": 703090,
+      "word": "易中天称雷军捐13亿让他深感惭愧",
+      "onboard_time": 1701323672,
+      "rank": 5,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 702149,
@@ -14145,6 +14169,14 @@
       "onboard_time": 1699969053,
       "rank": 15,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 637175,
+      "num": 499207,
+      "word": "阿里献血",
+      "onboard_time": 1701323013,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637152,
@@ -17539,6 +17571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 544534,
+      "num": 544534,
+      "word": "马精武去世",
+      "onboard_time": 1701321759,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 544532,
       "num": 232417,
       "word": "40万从缅甸赎回男子埋怨为何把我搞回来",
@@ -19585,6 +19625,14 @@
       "onboard_time": 1700183618,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497738,
+      "num": 497738,
+      "word": "无法代入新闻女王的理由",
+      "onboard_time": 1701322958,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 497668,
@@ -30019,6 +30067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 339710,
+      "num": 339710,
+      "word": "白鹿虞书欣赵露思都有跨年晚会",
+      "onboard_time": 1701321275,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339566,
       "num": 339566,
       "word": "宋慧乔将出演电影黑色修女们",
@@ -30353,14 +30409,6 @@
       "onboard_time": 1698807990,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334657,
-      "num": 334657,
-      "word": "马精武去世",
-      "onboard_time": 1701321759,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 334402,
@@ -36836,7 +36884,7 @@
     },
     {
       "raw_hot": 274686,
-      "num": 242086,
+      "num": 257924,
       "word": "记账后明白为什么有人做假账",
       "onboard_time": 1701321996,
       "rank": 30,
@@ -36977,14 +37025,6 @@
       "onboard_time": 1700194476,
       "rank": 29,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 273619,
-      "num": 273619,
-      "word": "白鹿虞书欣赵露思都有跨年晚会",
-      "onboard_time": 1701321275,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 273612,
@@ -37611,6 +37651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269723,
+      "num": 269723,
+      "word": "男子住88元酒店后打包带走150元被子",
+      "onboard_time": 1701324757,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269710,
       "num": 269710,
       "word": "马立奥新发型撞脸正峰欧巴",
@@ -37945,6 +37993,14 @@
       "onboard_time": 1701086735,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266191,
+      "num": 204557,
+      "word": "领工资时被要求说谢谢",
+      "onboard_time": 1701324634,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 266109,
@@ -42347,6 +42403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238716,
+      "num": 238716,
+      "word": "羽绒服这样洗真的很干净",
+      "onboard_time": 1701322656,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 238693,
       "num": 238693,
       "word": "涵艺爆料Tangyuan加入BLG",
@@ -45345,6 +45409,14 @@
       "onboard_time": 1700534192,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222306,
+      "num": 222306,
+      "word": "JDG官宣369离队",
+      "onboard_time": 1701325054,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 222291,
@@ -49659,6 +49731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204155,
+      "num": 204155,
+      "word": "珍珠项链戴法",
+      "onboard_time": 1701323254,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 204128,
       "num": 204128,
       "word": "哈兰德比心",
@@ -52843,6 +52923,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 194517,
+      "num": 194517,
+      "word": "孙颖莎反复练习英语好可爱",
+      "onboard_time": 1701322296,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194489,
       "num": 216833,
       "word": "张杰cue魏大勋孟宴臣名场面",
@@ -53219,6 +53307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193424,
+      "num": 193424,
+      "word": "朱广权包饺子 露了一手但漏了一锅",
+      "onboard_time": 1701322476,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193423,
       "num": 143149,
       "word": "时代少年团戴领带不告诉宋亚轩张真源",
@@ -53401,6 +53497,14 @@
       "onboard_time": 1700871628,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 192702,
+      "num": 192702,
+      "word": "属于seventeen的一年",
+      "onboard_time": 1701323135,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 192694,
@@ -54129,6 +54233,14 @@
       "onboard_time": 1700971117,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190496,
+      "num": 190496,
+      "word": "宁远舟的剑 秒杀",
+      "onboard_time": 1701324335,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 190488,
@@ -58779,6 +58891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 174123,
+      "num": 174123,
+      "word": "奥纳纳黄油手",
+      "onboard_time": 1701324757,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174061,
       "num": 173678,
       "word": "李健的爱情观真的好正",
@@ -59475,6 +59595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171282,
+      "num": 171282,
+      "word": "魅族发布会",
+      "onboard_time": 1701325299,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 171280,
       "num": 171280,
       "word": "王一博蓝调大片",
@@ -59985,6 +60113,14 @@
       "onboard_time": 1700880936,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169422,
+      "num": 169422,
+      "word": "拼多多市值",
+      "onboard_time": 1701324217,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 169383,
@@ -62307,6 +62443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160946,
+      "num": 160946,
+      "word": "MAMA典型大开麦live片段",
+      "onboard_time": 1701322413,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160935,
       "num": 160935,
       "word": "丁程鑫为看battle又蹲又爬",
@@ -63315,6 +63459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156620,
+      "num": 156620,
+      "word": "快船战胜国王",
+      "onboard_time": 1701324576,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156577,
       "num": 156577,
       "word": "小女孩滑梯口奶声奶气唱七子之歌",
@@ -63761,6 +63913,14 @@
       "onboard_time": 1699001497,
       "rank": 34,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 155059,
+      "num": 155059,
+      "word": "如果嫌马尾太单调",
+      "onboard_time": 1701325231,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 155056,
@@ -66083,6 +66243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146427,
+      "num": 146427,
+      "word": "李龙馥LV大秀",
+      "onboard_time": 1701322958,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146404,
       "num": 146404,
       "word": "山东章丘2.586米大葱破世界纪录",
@@ -66193,14 +66361,6 @@
       "onboard_time": 1699495895,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145789,
-      "num": 145789,
-      "word": "孙颖莎反复练习英语好可爱",
-      "onboard_time": 1701322296,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 145776,
@@ -66561,6 +66721,14 @@
       "onboard_time": 1699327109,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144406,
+      "num": 144406,
+      "word": "陈都灵白月光仿妆",
+      "onboard_time": 1701325358,
+      "rank": 47,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 144399,
@@ -69153,14 +69321,6 @@
       "onboard_time": 1700362532,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134262,
-      "num": 134262,
-      "word": "MAMA典型大开麦live片段",
-      "onboard_time": 1701322413,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 134260,

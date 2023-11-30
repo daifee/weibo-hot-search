@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 13:34:10
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 14:22:54
 </p>
 </blockquote>
 <p>
@@ -1841,6 +1841,12 @@ WBG对战BLG（热度：2001531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E5%A7%90%23" target="weibo">
 老公姐（热度：1927412）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%BB%916%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA4%E4%BA%BA%E8%A2%AB%E6%92%95%E7%A5%A8%23" target="weibo">
+菲律宾警方确认被绑6名中国人4人被撕票（热度：1926776）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ VOGUE时尚之力盛会（热度：961000）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E7%9A%84%E6%88%91%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%AE%89%E9%99%B5%E5%AE%B9%23" target="weibo">
 周一的我被确诊为安陵容（热度：960114）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E8%85%BF%E7%A5%9E%E5%99%A8%E7%9A%84%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
-光腿神器的危害有多大（热度：959669）
 </a>
 </li>
 

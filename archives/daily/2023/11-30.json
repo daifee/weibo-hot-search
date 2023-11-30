@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701322450840,
+  "endTime": 1701325374215,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -49,6 +49,14 @@
       "onboard_time": 1701309816,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1926776,
+      "num": 1926776,
+      "word": "菲律宾警方确认被绑6名中国人4人被撕票",
+      "onboard_time": 1701322536,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1654756,
@@ -187,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753946,
+      "num": 753946,
+      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+      "onboard_time": 1701323194,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751398,
       "num": 751398,
       "word": "辛芷蕾起床姿势好真实",
       "onboard_time": 1701314855,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 703090,
+      "num": 703090,
+      "word": "易中天称雷军捐13亿让他深感惭愧",
+      "onboard_time": 1701323672,
+      "rank": 5,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 687827,
@@ -225,6 +249,14 @@
       "onboard_time": 1701269560,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 637175,
+      "num": 499207,
+      "word": "阿里献血",
+      "onboard_time": 1701323013,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581602,
@@ -275,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 544534,
+      "num": 544534,
+      "word": "马精武去世",
+      "onboard_time": 1701321759,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 543427,
       "num": 327942,
       "word": "妻子用离婚威胁丈夫婚前房产加名",
@@ -303,6 +343,14 @@
       "num": 513568,
       "word": "一念关山 正常",
       "onboard_time": 1701315815,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 497738,
+      "num": 497738,
+      "word": "无法代入新闻女王的理由",
+      "onboard_time": 1701322958,
       "rank": 13,
       "category": "剧集"
     },
@@ -491,20 +539,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 339710,
+      "num": 339710,
+      "word": "白鹿虞书欣赵露思都有跨年晚会",
+      "onboard_time": 1701321275,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338628,
       "num": 338628,
       "word": "杨鸣工作室曾发律师声明辟谣出轨",
       "onboard_time": 1701321572,
       "rank": 16,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 334657,
-      "num": 334657,
-      "word": "马精武去世",
-      "onboard_time": 1701321759,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 332670,
@@ -612,7 +660,7 @@
     },
     {
       "raw_hot": 274686,
-      "num": 242086,
+      "num": 257924,
       "word": "记账后明白为什么有人做假账",
       "onboard_time": 1701321996,
       "rank": 30,
@@ -627,12 +675,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273619,
-      "num": 273619,
-      "word": "白鹿虞书欣赵露思都有跨年晚会",
-      "onboard_time": 1701321275,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 269723,
+      "num": 269723,
+      "word": "男子住88元酒店后打包带走150元被子",
+      "onboard_time": 1701324757,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266191,
+      "num": 204557,
+      "word": "领工资时被要求说谢谢",
+      "onboard_time": 1701324634,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 264475,
@@ -707,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238716,
+      "num": 238716,
+      "word": "羽绒服这样洗真的很干净",
+      "onboard_time": 1701322656,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 238517,
       "num": 238517,
       "word": "假如任如意遇到了李莲花",
@@ -737,6 +801,14 @@
       "onboard_time": 1701256057,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222306,
+      "num": 222306,
+      "word": "JDG官宣369离队",
+      "onboard_time": 1701325054,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 219473,
@@ -803,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204155,
+      "num": 204155,
+      "word": "珍珠项链戴法",
+      "onboard_time": 1701323254,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 203654,
       "num": 203654,
       "word": "丁禹兮路透",
@@ -843,12 +923,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194517,
+      "num": 194517,
+      "word": "孙颖莎反复练习英语好可爱",
+      "onboard_time": 1701322296,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194196,
       "num": 194196,
       "word": "湖人大胜活塞",
       "onboard_time": 1701313777,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193424,
+      "num": 193424,
+      "word": "朱广权包饺子 露了一手但漏了一锅",
+      "onboard_time": 1701322476,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192702,
+      "num": 192702,
+      "word": "属于seventeen的一年",
+      "onboard_time": 1701323135,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 191317,
@@ -881,6 +985,14 @@
       "onboard_time": 1701305197,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190496,
+      "num": 190496,
+      "word": "宁远舟的剑 秒杀",
+      "onboard_time": 1701324335,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 190245,
@@ -963,12 +1075,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 174123,
+      "num": 174123,
+      "word": "奥纳纳黄油手",
+      "onboard_time": 1701324757,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171282,
+      "num": 171282,
+      "word": "魅族发布会",
+      "onboard_time": 1701325299,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 170828,
       "num": 153021,
       "word": "太原3.7级地震",
       "onboard_time": 1701299543,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169422,
+      "num": 169422,
+      "word": "拼多多市值",
+      "onboard_time": 1701324217,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 169069,
@@ -1003,12 +1139,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 160946,
+      "num": 160946,
+      "word": "MAMA典型大开麦live片段",
+      "onboard_time": 1701322413,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158229,
       "num": 158229,
       "word": "宋亚轩表演愤怒来了段怒音",
       "onboard_time": 1701315876,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156620,
+      "num": 156620,
+      "word": "快船战胜国王",
+      "onboard_time": 1701324576,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155059,
+      "num": 155059,
+      "word": "如果嫌马尾太单调",
+      "onboard_time": 1701325231,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 155017,
@@ -1043,12 +1203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145789,
-      "num": 145789,
-      "word": "孙颖莎反复练习英语好可爱",
-      "onboard_time": 1701322296,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 146427,
+      "num": 146427,
+      "word": "李龙馥LV大秀",
+      "onboard_time": 1701322958,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144406,
+      "num": 144406,
+      "word": "陈都灵白月光仿妆",
+      "onboard_time": 1701325358,
+      "rank": 47,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 139807,
@@ -1097,14 +1265,6 @@
       "onboard_time": 1701269856,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134262,
-      "num": 134262,
-      "word": "MAMA典型大开麦live片段",
-      "onboard_time": 1701322413,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 132989,
