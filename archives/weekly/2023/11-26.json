@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701340592997,
+  "endTime": 1701342926689,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -747,8 +747,8 @@
       "category": "演出,网红"
     },
     {
-      "raw_hot": 1323805,
-      "num": 1323805,
+      "raw_hot": 1324381,
+      "num": 1324381,
       "word": "五月天 对口型",
       "onboard_time": 1701338014,
       "rank": 5,
@@ -888,6 +888,14 @@
       "word": "举报权志龙吸毒的人推翻口供",
       "onboard_time": 1701259538,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1223816,
+      "num": 1223816,
+      "word": "张译 南极拒绝合影事件",
+      "onboard_time": 1701339093,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1761,14 +1769,6 @@
       "onboard_time": 1701078816,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 745831,
-      "num": 745831,
-      "word": "张译 南极拒绝合影事件",
-      "onboard_time": 1701339093,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 744685,
@@ -2843,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 550066,
+      "num": 550066,
+      "word": "一念关山 替身马赛克",
+      "onboard_time": 1701342454,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 549471,
       "num": 549471,
       "word": "张遮终生未娶",
@@ -3851,6 +3859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439215,
+      "num": 1756556,
+      "word": "大四男生给学校捐了20万",
+      "onboard_time": 1701332796,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438899,
       "num": 438899,
       "word": "刘亦菲张靓颖 姐妹爆料",
@@ -3961,14 +3977,6 @@
       "onboard_time": 1701256057,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 429648,
-      "num": 1756556,
-      "word": "大四男生给学校捐了20万",
-      "onboard_time": 1701332796,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429008,
@@ -4129,6 +4137,14 @@
       "onboard_time": 1701073593,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412571,
+      "num": 412571,
+      "word": "王安宇带妈妈新疆自驾游",
+      "onboard_time": 1701340772,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 412028,
@@ -4803,6 +4819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 353212,
+      "num": 353212,
+      "word": "公务员献血事件中是否有特权存在",
+      "onboard_time": 1701339513,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353208,
       "num": 353208,
       "word": "虞书欣的领奖发言",
@@ -4955,20 +4979,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345822,
+      "num": 345822,
+      "word": "崔琳怀孕",
+      "onboard_time": 1701339815,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345630,
       "num": 345630,
       "word": "红米k70",
       "onboard_time": 1701256898,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 345329,
-      "num": 345329,
-      "word": "崔琳怀孕",
-      "onboard_time": 1701339815,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 344536,
@@ -5745,6 +5769,14 @@
       "onboard_time": 1701054814,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301510,
+      "num": 301510,
+      "word": "香菜拿铁",
+      "onboard_time": 1701341373,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 300603,
@@ -6587,14 +6619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268069,
-      "num": 268069,
-      "word": "公务员献血事件中是否有特权存在",
-      "onboard_time": 1701339513,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267654,
       "num": 267654,
       "word": "一念关山和女医明妃传同样的编剧",
@@ -6684,7 +6708,7 @@
     },
     {
       "raw_hot": 264055,
-      "num": 1003811,
+      "num": 1252565,
       "word": "渐冻症女警长29年改造1900多名罪犯",
       "onboard_time": 1701325654,
       "rank": 29,
@@ -8403,6 +8427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209409,
+      "num": 209409,
+      "word": "杨鸣曾因离婚纠纷起诉妻子",
+      "onboard_time": 1701342693,
+      "rank": 30,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 208840,
       "num": 208840,
       "word": "国考时间",
@@ -8617,6 +8649,14 @@
       "onboard_time": 1701176198,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 204451,
+      "num": 204451,
+      "word": "这才是中国邮政的正确用法",
+      "onboard_time": 1701342573,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 204192,
@@ -8995,6 +9035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198666,
+      "num": 198666,
+      "word": "沈泉锐黑发",
+      "onboard_time": 1701341972,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198532,
       "num": 198532,
       "word": "陆虎张远的友情",
@@ -9291,6 +9339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194107,
+      "num": 194107,
+      "word": "专家建议不要同时使用止咳药和祛痰药",
+      "onboard_time": 1701342573,
+      "rank": 34,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 194079,
       "num": 194079,
       "word": "布克28分",
@@ -9539,6 +9595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190637,
+      "num": 190637,
+      "word": "gidle又出来炸场子了",
+      "onboard_time": 1701339875,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "文俊辉 高山流水知音可遇不可求",
@@ -9715,6 +9779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189244,
+      "num": 189244,
+      "word": "任如意掉马甲",
+      "onboard_time": 1701342153,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189204,
       "num": 189204,
       "word": "很想很想你乐来悦爱预告",
@@ -9729,6 +9801,14 @@
       "onboard_time": 1700982935,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189151,
+      "num": 189151,
+      "word": "27岁年纪大什么大",
+      "onboard_time": 1701342693,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 189116,
@@ -10787,6 +10867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 166653,
+      "num": 166653,
+      "word": "我再也没有小狗了",
+      "onboard_time": 1701342332,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166638,
       "num": 166638,
       "word": "补气血最快的小tips",
@@ -10929,14 +11017,6 @@
       "onboard_time": 1701131256,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 163296,
-      "num": 163296,
-      "word": "gidle又出来炸场子了",
-      "onboard_time": 1701339875,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 163092,
@@ -11243,6 +11323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155786,
+      "num": 155786,
+      "word": "张碧晨和神犬小七重逢",
+      "onboard_time": 1701341674,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155654,
       "num": 155654,
       "word": "业内人士称滴滴底层系统疑遭攻击",
@@ -11361,6 +11449,14 @@
       "onboard_time": 1701077734,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154589,
+      "num": 154589,
+      "word": "疑似南京横渡长江野猪呛水死亡",
+      "onboard_time": 1701342873,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154477,
@@ -11867,12 +11963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142213,
+      "num": 142213,
+      "word": "中学女生发型 鲶鱼须遮半张脸",
+      "onboard_time": 1701342873,
+      "rank": 48,
+      "category": "教育,美妆"
+    },
+    {
       "raw_hot": 141942,
       "num": 141942,
       "word": "宁安如梦剧组在台上拍大合影",
       "onboard_time": 1700983652,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141621,
+      "num": 976533,
+      "word": "孕妇急性心衰5大科室主任压阵救援",
+      "onboard_time": 1701340652,
+      "rank": 6,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 141498,

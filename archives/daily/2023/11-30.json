@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701340592997,
+  "endTime": 1701342926689,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -139,8 +139,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1323805,
-      "num": 1323805,
+      "raw_hot": 1324381,
+      "num": 1324381,
       "word": "五月天 对口型",
       "onboard_time": 1701338014,
       "rank": 5,
@@ -153,6 +153,14 @@
       "onboard_time": 1701301049,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1223816,
+      "num": 1223816,
+      "word": "张译 南极拒绝合影事件",
+      "onboard_time": 1701339093,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1214347,
@@ -297,14 +305,6 @@
       "onboard_time": 1701314855,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 745831,
-      "num": 745831,
-      "word": "张译 南极拒绝合影事件",
-      "onboard_time": 1701339093,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 736249,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550066,
+      "num": 550066,
+      "word": "一念关山 替身马赛克",
+      "onboard_time": 1701342454,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 548041,
       "num": 548041,
       "word": "那是妈妈 指甲长反也不会害我",
@@ -627,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439215,
+      "num": 1756556,
+      "word": "大四男生给学校捐了20万",
+      "onboard_time": 1701332796,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434325,
       "num": 434325,
       "word": "梳头 防掉发",
@@ -641,14 +657,6 @@
       "onboard_time": 1701304776,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 429648,
-      "num": 1756556,
-      "word": "大四男生给学校捐了20万",
-      "onboard_time": 1701332796,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417833,
@@ -673,6 +681,14 @@
       "onboard_time": 1701272373,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412571,
+      "num": 412571,
+      "word": "王安宇带妈妈新疆自驾游",
+      "onboard_time": 1701340772,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 404168,
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353212,
+      "num": 353212,
+      "word": "公务员献血事件中是否有特权存在",
+      "onboard_time": 1701339513,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350858,
       "num": 304218,
       "word": "妈妈只是上厕所去了",
@@ -795,20 +819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345822,
+      "num": 345822,
+      "word": "崔琳怀孕",
+      "onboard_time": 1701339815,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345680,
       "num": 345680,
       "word": "人真的不能一直过省钱的生活",
       "onboard_time": 1701267516,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 345329,
-      "num": 345329,
-      "word": "崔琳怀孕",
-      "onboard_time": 1701339815,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 344067,
@@ -971,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301510,
+      "num": 301510,
+      "word": "香菜拿铁",
+      "onboard_time": 1701341373,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 292848,
       "num": 292848,
       "word": "内娱甘露寺比甄嬛传更刺激",
@@ -1067,14 +1099,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 268069,
-      "num": 268069,
-      "word": "公务员献血事件中是否有特权存在",
-      "onboard_time": 1701339513,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264475,
       "num": 264475,
       "word": "王鹤棣出发香港路透",
@@ -1084,7 +1108,7 @@
     },
     {
       "raw_hot": 264055,
-      "num": 1003811,
+      "num": 1252565,
       "word": "渐冻症女警长29年改造1900多名罪犯",
       "onboard_time": 1701325654,
       "rank": 29,
@@ -1275,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209409,
+      "num": 209409,
+      "word": "杨鸣曾因离婚纠纷起诉妻子",
+      "onboard_time": 1701342693,
+      "rank": 30,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 208617,
       "num": 208617,
       "word": "李相夷画像cos",
@@ -1339,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204451,
+      "num": 204451,
+      "word": "这才是中国邮政的正确用法",
+      "onboard_time": 1701342573,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 204155,
       "num": 204155,
       "word": "珍珠项链戴法",
@@ -1385,6 +1425,14 @@
       "onboard_time": 1701314797,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198666,
+      "num": 198666,
+      "word": "沈泉锐黑发",
+      "onboard_time": 1701341972,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 198264,
@@ -1451,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194107,
+      "num": 194107,
+      "word": "专家建议不要同时使用止咳药和祛痰药",
+      "onboard_time": 1701342573,
+      "rank": 34,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 193424,
       "num": 193424,
       "word": "朱广权包饺子 露了一手但漏了一锅",
@@ -1499,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190637,
+      "num": 190637,
+      "word": "gidle又出来炸场子了",
+      "onboard_time": 1701339875,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190563,
       "num": 190563,
       "word": "文俊辉 高山流水知音可遇不可求",
@@ -1531,12 +1595,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189244,
+      "num": 189244,
+      "word": "任如意掉马甲",
+      "onboard_time": 1701342153,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189204,
       "num": 189204,
       "word": "很想很想你乐来悦爱预告",
       "onboard_time": 1701311676,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189151,
+      "num": 189151,
+      "word": "27岁年纪大什么大",
+      "onboard_time": 1701342693,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 188278,
@@ -1707,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166653,
+      "num": 166653,
+      "word": "我再也没有小狗了",
+      "onboard_time": 1701342332,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166347,
       "num": 166347,
       "word": "警方回应执勤交警持棍击倒骑车男子",
@@ -1737,14 +1825,6 @@
       "onboard_time": 1701332915,
       "rank": 40,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 163296,
-      "num": 163296,
-      "word": "gidle又出来炸场子了",
-      "onboard_time": 1701339875,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 161520,
@@ -1787,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155786,
+      "num": 155786,
+      "word": "张碧晨和神犬小七重逢",
+      "onboard_time": 1701341674,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155059,
       "num": 155059,
       "word": "如果嫌马尾太单调",
@@ -1801,6 +1889,14 @@
       "onboard_time": 1701306456,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 154589,
+      "num": 154589,
+      "word": "疑似南京横渡长江野猪呛水死亡",
+      "onboard_time": 1701342873,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153546,
@@ -1857,6 +1953,22 @@
       "onboard_time": 1701338496,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142213,
+      "num": 142213,
+      "word": "中学女生发型 鲶鱼须遮半张脸",
+      "onboard_time": 1701342873,
+      "rank": 48,
+      "category": "教育,美妆"
+    },
+    {
+      "raw_hot": 141621,
+      "num": 976533,
+      "word": "孕妇急性心衰5大科室主任压阵救援",
+      "onboard_time": 1701340652,
+      "rank": 6,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 141181,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1701342926689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1826423,
+        "num": 1826423,
+        "word": "朱丹被骗案 判决书",
+        "onboard_time": 1701335796,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439215,
+        "num": 1548638,
+        "word": "大四男生给学校捐了20万",
+        "onboard_time": 1701332796,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49243,
+        "num": 1386387,
+        "word": "航拍绝美落羽杉林氛围感拉满",
+        "onboard_time": 1701333934,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324381,
+        "num": 1324381,
+        "word": "五月天 对口型",
+        "onboard_time": 1701338014,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147013,
+        "num": 1252565,
+        "word": "渐冻症女警长29年改造1900多名罪犯",
+        "onboard_time": 1701325654,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223816,
+        "num": 1223816,
+        "word": "张译 南极拒绝合影事件",
+        "onboard_time": 1701339093,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141621,
+        "num": 976533,
+        "word": "孕妇急性心衰5大科室主任压阵救援",
+        "onboard_time": 1701340652,
+        "rank": 6,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 822321,
+        "num": 822321,
+        "word": "爷爷过世请不出丧假小伙遭亲戚埋怨",
+        "onboard_time": 1701331773,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799717,
+        "num": 799717,
+        "word": "杨鸣被曝离婚",
+        "onboard_time": 1701332375,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550066,
+        "num": 550066,
+        "word": "一念关山 替身马赛克",
+        "onboard_time": 1701342454,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542612,
+        "num": 542612,
+        "word": "老师 我们家子涵",
+        "onboard_time": 1701333996,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 527760,
+        "num": 527760,
+        "word": "LV香港大秀明星阵容",
+        "onboard_time": 1701326733,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 412571,
+        "num": 412571,
+        "word": "王安宇带妈妈新疆自驾游",
+        "onboard_time": 1701340772,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406317,
+        "num": 406317,
+        "word": "顾客住酒店发现有艾滋病治疗药物",
+        "onboard_time": 1701333757,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381748,
+        "num": 381748,
+        "word": "家妍原型 曾志伟",
+        "onboard_time": 1701334834,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367563,
+        "num": 367563,
+        "word": "赵丽颖 四月间事",
+        "onboard_time": 1701337175,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353212,
+        "num": 353212,
+        "word": "公务员献血事件中是否有特权存在",
+        "onboard_time": 1701339513,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345822,
+        "num": 345822,
+        "word": "崔琳怀孕",
+        "onboard_time": 1701339815,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322147,
+        "num": 322147,
+        "word": "一念关山 嫂子文学",
+        "onboard_time": 1701327872,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301510,
+        "num": 301510,
+        "word": "香菜拿铁",
+        "onboard_time": 1701341373,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 313094,
+        "num": 299403,
+        "word": "伊能静 秦昊发嗲肯定是抽风",
+        "onboard_time": 1701334957,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293767,
+        "num": 293767,
+        "word": "一县城临聘人员工资已超全县总税收",
+        "onboard_time": 1701334116,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273770,
+        "num": 273770,
+        "word": "李菲儿说这辈子不喝咖啡了",
+        "onboard_time": 1701329071,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260635,
+        "num": 260635,
+        "word": "良品铺子将实施17年来最大规模降价",
+        "onboard_time": 1701338795,
+        "rank": 23,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 257861,
+        "num": 257861,
+        "word": "TES 辅助",
+        "onboard_time": 1701338736,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249405,
+        "num": 249405,
+        "word": "高圆圆亲赵又廷尴尬的是姚晨",
+        "onboard_time": 1701333455,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249256,
+        "num": 249256,
+        "word": "男子在抢救室抚摸父亲额头崩溃大哭",
+        "onboard_time": 1701337355,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229457,
+        "num": 229457,
+        "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+        "onboard_time": 1701323194,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225881,
+        "num": 225881,
+        "word": "皮肤黄 糖化",
+        "onboard_time": 1701329494,
+        "rank": 28,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 213282,
+        "num": 213282,
+        "word": "老头强暴自己孙女致其怀孕系谣言",
+        "onboard_time": 1701311615,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209409,
+        "num": 209409,
+        "word": "杨鸣曾因离婚纠纷起诉妻子",
+        "onboard_time": 1701342693,
+        "rank": 30,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 206169,
+        "num": 206169,
+        "word": "应公布阿里公务员献血事件小姑姑身份",
+        "onboard_time": 1701330813,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204451,
+        "num": 204451,
+        "word": "这才是中国邮政的正确用法",
+        "onboard_time": 1701342573,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 198666,
+        "num": 198666,
+        "word": "沈泉锐黑发",
+        "onboard_time": 1701341972,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194107,
+        "num": 194107,
+        "word": "专家建议不要同时使用止咳药和祛痰药",
+        "onboard_time": 1701342573,
+        "rank": 34,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 191507,
+        "num": 193586,
+        "word": "妈妈只是上厕所去了",
+        "onboard_time": 1701335133,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189819,
+        "num": 193502,
+        "word": "一念关山 智商被尊重的感觉",
+        "onboard_time": 1701329614,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193486,
+        "num": 193486,
+        "word": "韩国公务员想升职得先生娃",
+        "onboard_time": 1701329432,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190637,
+        "num": 190637,
+        "word": "gidle又出来炸场子了",
+        "onboard_time": 1701339875,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189244,
+        "num": 189244,
+        "word": "任如意掉马甲",
+        "onboard_time": 1701342153,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189151,
+        "num": 189151,
+        "word": "27岁年纪大什么大",
+        "onboard_time": 1701342693,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175201,
+        "num": 175201,
+        "word": "狐厂 张凌赫归来仍是待爆",
+        "onboard_time": 1701329071,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174718,
+        "num": 174718,
+        "word": "TheShy获2023年度最受欢迎选手",
+        "onboard_time": 1701332073,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166653,
+        "num": 166653,
+        "word": "我再也没有小狗了",
+        "onboard_time": 1701342332,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161880,
+        "num": 161880,
+        "word": "aespa 公司年会",
+        "onboard_time": 1701332134,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155786,
+        "num": 155786,
+        "word": "张碧晨和神犬小七重逢",
+        "onboard_time": 1701341674,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154589,
+        "num": 154589,
+        "word": "疑似南京横渡长江野猪呛水死亡",
+        "onboard_time": 1701342873,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145164,
+        "num": 145164,
+        "word": "王者荣耀",
+        "onboard_time": 1701338431,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142213,
+        "num": 142213,
+        "word": "中学女生发型 鲶鱼须遮半张脸",
+        "onboard_time": 1701342873,
+        "rank": 48,
+        "category": "教育,美妆"
+      },
+      {
+        "raw_hot": 133627,
+        "num": 133627,
+        "word": "唐佳良 杨鸣",
+        "onboard_time": 1701315214,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记到上海考察释放重要信号#"
+    }
+  }
+}

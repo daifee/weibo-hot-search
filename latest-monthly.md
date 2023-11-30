@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 18:36:32
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 19:15:26
 </p>
 </blockquote>
 <p>
@@ -3850,7 +3850,7 @@ Angelababy旗下基金注销（热度：1343913）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%20%E5%AF%B9%E5%8F%A3%E5%9E%8B%23" target="weibo">
-五月天 对口型（热度：1323805）
+五月天 对口型（热度：1324381）
 </a>
 </li>
 
@@ -4379,6 +4379,12 @@ JDG晋级S13四强（热度：1251728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E9%80%9A%E8%BF%87%E7%9B%91%E6%8E%A7%E6%98%BE%E6%91%86%E7%94%9F%E6%97%A5%E5%90%8312%E4%B8%AA%E8%8F%9C%23" target="weibo">
 爸爸通过监控显摆生日吃12个菜（热度：1224717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%20%E5%8D%97%E6%9E%81%E6%8B%92%E7%BB%9D%E5%90%88%E5%BD%B1%E4%BA%8B%E4%BB%B6%23" target="weibo">
+张译 南极拒绝合影事件（热度：1223816）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Xiaohu尽力了（热度：976623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BC%93%E6%A5%BC%E5%8C%BB%E9%99%A2%23" target="weibo">
 鼓楼医院（热度：970406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E9%BB%84%20%E7%B3%96%E5%8C%96%23" target="weibo">
-皮肤黄 糖化（热度：969881）
 </a>
 </li>
 
