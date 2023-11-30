@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/26 00:20:53 ~ 2023/12/01 03:13:57
+本榜单时间：2023/11/26 00:20:53 ~ 2023/12/01 03:33:48
 </p>
 </blockquote>
 <p>
@@ -10925,6 +10925,12 @@ Knight关注XUN（热度：24693）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232023%E6%96%AF%E8%AF%BA%E5%85%8B%E8%8B%B1%E9%94%A6%E8%B5%9B%23" target="weibo">
 2023斯诺克英锦赛（热度：24312）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%20%E6%9C%80%E9%AB%98%E7%BA%A7%E7%9A%84%E6%82%B2%E5%96%9C%E5%9C%A8%E5%96%9C%E5%89%A7%23" target="weibo">
+伊能静 最高级的悲喜在喜剧（热度：23284）
 </a>
 </li>
 
