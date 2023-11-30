@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701335850398,
+  "endTime": 1701336852586,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -739,6 +739,14 @@
       "category": "演出,网红"
     },
     {
+      "raw_hot": 1323068,
+      "num": 1323068,
+      "word": "朱丹被骗案 判决书",
+      "onboard_time": 1701335796,
+      "rank": 43,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1321813,
       "num": 1321813,
       "word": "嗓子疼",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1700920127,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 996937,
+      "num": 996937,
+      "word": "老师 我们家子涵",
+      "onboard_time": 1701333996,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 993234,
@@ -1811,14 +1827,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 725861,
-      "num": 725861,
-      "word": "老师 我们家子涵",
-      "onboard_time": 1701333996,
-      "rank": 3,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 725619,
       "num": 587644,
       "word": "纸性恋",
@@ -1888,6 +1896,14 @@
       "word": "审判一念关山",
       "onboard_time": 1701182977,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 713593,
+      "num": 713593,
+      "word": "一念关山 智商被尊重的感觉",
+      "onboard_time": 1701329614,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -1985,14 +2001,6 @@
       "onboard_time": 1701224136,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 679137,
-      "num": 679137,
-      "word": "一念关山 智商被尊重的感觉",
-      "onboard_time": 1701329614,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 678878,
@@ -2169,6 +2177,14 @@
       "onboard_time": 1701248853,
       "rank": 20,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 650176,
+      "num": 650176,
+      "word": "顾客住酒店发现有艾滋病治疗药物",
+      "onboard_time": 1701333757,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 648779,
@@ -2353,14 +2369,6 @@
       "onboard_time": 1701051093,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 624929,
-      "num": 624929,
-      "word": "顾客住酒店发现有艾滋病治疗药物",
-      "onboard_time": 1701333757,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 624042,
@@ -2945,6 +2953,14 @@
       "onboard_time": 1701080136,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 535504,
+      "num": 535504,
+      "word": "一县城临聘人员工资已超全县总税收",
+      "onboard_time": 1701334116,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535043,
@@ -3763,6 +3779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 442417,
+      "num": 442417,
+      "word": "伊能静 秦昊发嗲肯定是抽风",
+      "onboard_time": 1701334957,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441963,
       "num": 441963,
       "word": "杨幂压轴",
@@ -4025,14 +4049,6 @@
       "onboard_time": 1701062496,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 416863,
-      "num": 416863,
-      "word": "一县城临聘人员工资已超全县总税收",
-      "onboard_time": 1701334116,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415557,
@@ -4747,6 +4763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350858,
+      "num": 304218,
+      "word": "妈妈只是上厕所去了",
+      "onboard_time": 1701335133,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350248,
       "num": 864740,
       "word": "嗓子痛可以喝冰水缓解",
@@ -4899,6 +4923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340951,
+      "num": 301312,
+      "word": "赵丽颖晒新相机",
+      "onboard_time": 1701336634,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340805,
       "num": 340805,
       "word": "涵艺爆料Yagao加入JDG",
@@ -5009,6 +5041,14 @@
       "onboard_time": 1700989291,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 333627,
+      "num": 333627,
+      "word": "自从不买贵的之后",
+      "onboard_time": 1701335796,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 332891,
@@ -5395,14 +5435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 311176,
-      "num": 311176,
-      "word": "伊能静 秦昊发嗲肯定是抽风",
-      "onboard_time": 1701334957,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 311001,
       "num": 212577,
       "word": "7个儿童病毁灭药",
@@ -5617,6 +5649,14 @@
       "onboard_time": 1701303756,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 303039,
+      "num": 261079,
+      "word": "长沙辣条宴席",
+      "onboard_time": 1701335315,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 302871,
@@ -6643,14 +6683,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 261079,
-      "num": 261079,
-      "word": "长沙辣条宴席",
-      "onboard_time": 1701335315,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 260920,
       "num": 223998,
       "word": "相亲相到老师",
@@ -6817,14 +6849,6 @@
       "onboard_time": 1701083192,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254365,
-      "num": 254365,
-      "word": "妈妈只是上厕所去了",
-      "onboard_time": 1701335133,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 253944,
@@ -7755,6 +7779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225647,
+      "num": 225647,
+      "word": "原来真的会有人喜欢上班",
+      "onboard_time": 1701335496,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 225580,
       "num": 225580,
       "word": "何运晨打拳",
@@ -8035,6 +8067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215820,
+      "num": 215820,
+      "word": "自助糖水铺大批量倒闭",
+      "onboard_time": 1701335614,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215679,
       "num": 215679,
       "word": "明星10秒祝福视频网上叫卖20万元",
@@ -8171,6 +8211,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 211890,
+      "num": 211890,
+      "word": "家妍原型 曾志伟",
+      "onboard_time": 1701334834,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211816,
       "num": 211816,
       "word": "新闻女王 职场男性阴暗面",
@@ -8225,14 +8273,6 @@
       "onboard_time": 1701055535,
       "rank": 28,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 210428,
-      "num": 210428,
-      "word": "自从不买贵的之后",
-      "onboard_time": 1701335796,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 210301,
@@ -8345,6 +8385,14 @@
       "onboard_time": 1700971175,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207559,
+      "num": 207559,
+      "word": "不知道的还以为是宁远舟踹飞的",
+      "onboard_time": 1701336216,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 207428,
@@ -8571,6 +8619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203054,
+      "num": 203054,
+      "word": "6个习惯让你皮肤快速变老",
+      "onboard_time": 1701335855,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 202991,
       "num": 202991,
       "word": "胡彦斌真的是一个非常清醒的人",
@@ -8697,14 +8753,6 @@
       "onboard_time": 1701183516,
       "rank": 28,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 200951,
-      "num": 200951,
-      "word": "原来真的会有人喜欢上班",
-      "onboard_time": 1701335496,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 200867,
@@ -9587,6 +9635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189294,
+      "num": 189294,
+      "word": "何蓝逗 刘诗诗香香的",
+      "onboard_time": 1701336517,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189256,
       "num": 178654,
       "word": "井胧白鹿张凌赫同框",
@@ -10081,14 +10137,6 @@
       "onboard_time": 1701098314,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 179064,
-      "num": 179064,
-      "word": "自助糖水铺大批量倒闭",
-      "onboard_time": 1701335614,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179052,
@@ -11803,14 +11851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 140422,
-      "num": 140422,
-      "word": "朱丹被骗案 判决书",
-      "onboard_time": 1701335796,
-      "rank": 43,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 140344,
       "num": 140344,
       "word": "面包和馒头谁更营养",
@@ -12329,14 +12369,6 @@
       "onboard_time": 1701069335,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123462,
-      "num": 123462,
-      "word": "家妍原型 曾志伟",
-      "onboard_time": 1701334834,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 123330,
@@ -12931,6 +12963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82745,
+      "num": 1417223,
+      "word": "航拍绝美落羽杉林氛围感拉满",
+      "onboard_time": 1701333934,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82700,
       "num": 65971,
       "word": "为什么3元饮料逐渐消失",
@@ -13209,14 +13249,6 @@
       "onboard_time": 1700911908,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62683,
-      "num": 967189,
-      "word": "航拍绝美落羽杉林氛围感拉满",
-      "onboard_time": 1701333934,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62463,
@@ -13762,6 +13794,9 @@
     },
     {
       "word": "#习近平总书记到上海考察释放重要信号#"
+    },
+    {
+      "word": "#中国将继续主持公道正义积极劝和促谈#"
     }
   ]
 }

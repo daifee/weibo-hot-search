@@ -1,0 +1,410 @@
+{
+  "runTime": 1701336852586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2329218,
+        "num": 2329218,
+        "word": "爷爷过世请不出丧假小伙遭亲戚埋怨",
+        "onboard_time": 1701331773,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1597717,
+        "num": 1597717,
+        "word": "杨鸣被曝离婚",
+        "onboard_time": 1701332375,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82745,
+        "num": 1417223,
+        "word": "航拍绝美落羽杉林氛围感拉满",
+        "onboard_time": 1701333934,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323068,
+        "num": 1323068,
+        "word": "朱丹被骗案 判决书",
+        "onboard_time": 1701335796,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 996937,
+        "num": 996937,
+        "word": "老师 我们家子涵",
+        "onboard_time": 1701333996,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 713593,
+        "num": 713593,
+        "word": "一念关山 智商被尊重的感觉",
+        "onboard_time": 1701329614,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 650176,
+        "num": 650176,
+        "word": "顾客住酒店发现有艾滋病治疗药物",
+        "onboard_time": 1701333757,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535504,
+        "num": 535504,
+        "word": "一县城临聘人员工资已超全县总税收",
+        "onboard_time": 1701334116,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516702,
+        "num": 516702,
+        "word": "李菲儿说这辈子不喝咖啡了",
+        "onboard_time": 1701329071,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466317,
+        "num": 466317,
+        "word": "韩国公务员想升职得先生娃",
+        "onboard_time": 1701329432,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773639,
+        "num": 465692,
+        "word": "高圆圆亲赵又廷尴尬的是姚晨",
+        "onboard_time": 1701333455,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442417,
+        "num": 442417,
+        "word": "伊能静 秦昊发嗲肯定是抽风",
+        "onboard_time": 1701334957,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421136,
+        "num": 421136,
+        "word": "魅族21价格",
+        "onboard_time": 1701334415,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 379082,
+        "num": 379082,
+        "word": "TheShy获2023年度最受欢迎选手",
+        "onboard_time": 1701332073,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 351753,
+        "num": 351753,
+        "word": "王蓉外网仿妆",
+        "onboard_time": 1701329614,
+        "rank": 14,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 340314,
+        "num": 340314,
+        "word": "皮肤黄 糖化",
+        "onboard_time": 1701329494,
+        "rank": 15,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 333627,
+        "num": 333627,
+        "word": "自从不买贵的之后",
+        "onboard_time": 1701335796,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 532123,
+        "num": 330951,
+        "word": "应公布阿里公务员献血事件小姑姑身份",
+        "onboard_time": 1701330813,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314165,
+        "num": 314165,
+        "word": "唐佳良 杨鸣",
+        "onboard_time": 1701315214,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306150,
+        "num": 306150,
+        "word": "南极偶遇张译",
+        "onboard_time": 1701330877,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350858,
+        "num": 304218,
+        "word": "妈妈只是上厕所去了",
+        "onboard_time": 1701335133,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340951,
+        "num": 301312,
+        "word": "赵丽颖晒新相机",
+        "onboard_time": 1701336634,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296885,
+        "num": 296885,
+        "word": "狐厂 张凌赫归来仍是待爆",
+        "onboard_time": 1701329071,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287591,
+        "num": 287591,
+        "word": "大四男生给学校捐了20万",
+        "onboard_time": 1701332796,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272502,
+        "num": 272502,
+        "word": "热巴 不值得一提的事",
+        "onboard_time": 1701329614,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267653,
+        "num": 267653,
+        "word": "一念关山 嫂子文学",
+        "onboard_time": 1701327872,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260336,
+        "num": 260336,
+        "word": "原来孕晚期也可以健身",
+        "onboard_time": 1701332796,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 250869,
+        "num": 250869,
+        "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+        "onboard_time": 1701323194,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243305,
+        "num": 243305,
+        "word": "aespa 公司年会",
+        "onboard_time": 1701332134,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129209,
+        "num": 236651,
+        "word": "渐冻症女警长29年改造1900多名罪犯",
+        "onboard_time": 1701325654,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233332,
+        "num": 233332,
+        "word": "内娱甘露寺比甄嬛传更刺激",
+        "onboard_time": 1701333275,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225647,
+        "num": 225647,
+        "word": "原来真的会有人喜欢上班",
+        "onboard_time": 1701335496,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218842,
+        "num": 218842,
+        "word": "宝马奔驰将在中国设立合资公司",
+        "onboard_time": 1701332193,
+        "rank": 32,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 215820,
+        "num": 215820,
+        "word": "自助糖水铺大批量倒闭",
+        "onboard_time": 1701335614,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212230,
+        "num": 212230,
+        "word": "老头强暴自己孙女致其怀孕系谣言",
+        "onboard_time": 1701311615,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211890,
+        "num": 211890,
+        "word": "家妍原型 曾志伟",
+        "onboard_time": 1701334834,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207559,
+        "num": 207559,
+        "word": "不知道的还以为是宁远舟踹飞的",
+        "onboard_time": 1701336216,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203054,
+        "num": 203054,
+        "word": "6个习惯让你皮肤快速变老",
+        "onboard_time": 1701335855,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 194316,
+        "num": 194316,
+        "word": "杨鸣",
+        "onboard_time": 1701301049,
+        "rank": 38,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 303039,
+        "num": 192010,
+        "word": "长沙辣条宴席",
+        "onboard_time": 1701335315,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189294,
+        "num": 189294,
+        "word": "何蓝逗 刘诗诗香香的",
+        "onboard_time": 1701336517,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156139,
+        "num": 156139,
+        "word": "杨幂上挑眼线",
+        "onboard_time": 1701334296,
+        "rank": 41,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 186632,
+        "num": 152593,
+        "word": "如果霍建华饰演一念关山",
+        "onboard_time": 1701318034,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147613,
+        "num": 147613,
+        "word": "LV香港大秀明星阵容",
+        "onboard_time": 1701326733,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139685,
+        "num": 139685,
+        "word": "支原体肺炎有多难受",
+        "onboard_time": 1701330993,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179434,
+        "num": 138146,
+        "word": "何蓝逗累了换我上去演会儿",
+        "onboard_time": 1701327572,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134435,
+        "num": 134435,
+        "word": "MAMA歧视女团惹争议",
+        "onboard_time": 1701328294,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118701,
+        "num": 118701,
+        "word": "酱园弄女二 杨幂",
+        "onboard_time": 1701315276,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109954,
+        "num": 109954,
+        "word": "基辛格逝世",
+        "onboard_time": 1701309274,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 105144,
+        "num": 105144,
+        "word": "曝羽生结弦妻子遭婆婆无视",
+        "onboard_time": 1701309638,
+        "rank": 49,
+        "category": "体育,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将继续主持公道正义积极劝和促谈#"
+    }
+  }
+}
