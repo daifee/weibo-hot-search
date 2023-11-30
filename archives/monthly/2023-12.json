@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701380069032,
+  "endTime": 1701382616157,
   "band_list": [
     {
       "raw_hot": 1758768,
@@ -235,6 +235,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 175874,
+      "num": 51977,
+      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
+      "onboard_time": 1701378733,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174060,
       "num": 133059,
       "word": "时代少年团 葫芦娃",
@@ -435,6 +443,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 62420,
+      "num": 49620,
+      "word": "伊能静 最高级的悲喜在喜剧",
+      "onboard_time": 1701372434,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46642,
       "num": 46642,
       "word": "恋与制作人六周年",
@@ -443,20 +459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 44417,
-      "num": 27490,
-      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
-      "onboard_time": 1701378733,
-      "rank": 48,
+      "raw_hot": 33629,
+      "num": 33629,
+      "word": "你觉得应该公布献血事件小姑姑身份吗",
+      "onboard_time": 1701380775,
+      "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36535,
-      "num": 23284,
-      "word": "伊能静 最高级的悲喜在喜剧",
-      "onboard_time": 1701372434,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 31555,
@@ -465,6 +473,22 @@
       "onboard_time": 1701370274,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31045,
+      "num": 31045,
+      "word": "南京马拉松违规选手被处罚",
+      "onboard_time": 1701379214,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 26350,
+      "num": 26350,
+      "word": "当年的TVB回来了吗",
+      "onboard_time": 1701378914,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 23281,
@@ -476,19 +500,11 @@
     },
     {
       "raw_hot": 19961,
-      "num": 23720,
+      "num": 26272,
       "word": "一条plog告别十一月",
       "onboard_time": 1701359671,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19507,
-      "num": 19507,
-      "word": "当年的TVB回来了吗",
-      "onboard_time": 1701378914,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 18326,
@@ -500,19 +516,11 @@
     },
     {
       "raw_hot": 17472,
-      "num": 17472,
+      "num": 26212,
       "word": "王者新英雄海诺",
       "onboard_time": 1701374833,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 16207,
-      "num": 16207,
-      "word": "南京马拉松违规选手被处罚",
-      "onboard_time": 1701379214,
-      "rank": 43,
-      "category": "运动健身"
     },
     {
       "raw_hot": 12935,

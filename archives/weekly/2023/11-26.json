@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701380069032,
+  "endTime": 1701382616157,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -10971,6 +10971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175874,
+      "num": 51977,
+      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
+      "onboard_time": 1701378733,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175771,
       "num": 175771,
       "word": "AI病人",
@@ -14123,6 +14131,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 62420,
+      "num": 49620,
+      "word": "伊能静 最高级的悲喜在喜剧",
+      "onboard_time": 1701372434,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62194,
       "num": 56126,
       "word": "对你不止是喜欢",
@@ -14347,14 +14363,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 44417,
-      "num": 27490,
-      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
-      "onboard_time": 1701378733,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43216,
       "num": 52764,
       "word": "龚俊直播冲水声好响",
@@ -14403,14 +14411,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 36535,
-      "num": 23284,
-      "word": "伊能静 最高级的悲喜在喜剧",
-      "onboard_time": 1701372434,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 36079,
       "num": 1727926,
       "word": "中国基建狂魔即将打通天山",
@@ -14451,6 +14451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 33629,
+      "num": 33629,
+      "word": "你觉得应该公布献血事件小姑姑身份吗",
+      "onboard_time": 1701380775,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32726,
       "num": 32726,
       "word": "萧妍只想做太后",
@@ -14473,6 +14481,14 @@
       "onboard_time": 1701118273,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31045,
+      "num": 31045,
+      "word": "南京马拉松违规选手被处罚",
+      "onboard_time": 1701379214,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 29579,
@@ -14529,6 +14545,14 @@
       "onboard_time": 1700947215,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 26350,
+      "num": 26350,
+      "word": "当年的TVB回来了吗",
+      "onboard_time": 1701378914,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 25500,
@@ -14604,19 +14628,11 @@
     },
     {
       "raw_hot": 19961,
-      "num": 23720,
+      "num": 26272,
       "word": "一条plog告别十一月",
       "onboard_time": 1701359671,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19507,
-      "num": 19507,
-      "word": "当年的TVB回来了吗",
-      "onboard_time": 1701378914,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 18238,
@@ -14657,14 +14673,6 @@
       "onboard_time": 1701294072,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16207,
-      "num": 16207,
-      "word": "南京马拉松违规选手被处罚",
-      "onboard_time": 1701379214,
-      "rank": 43,
-      "category": "运动健身"
     },
     {
       "raw_hot": 12937,
