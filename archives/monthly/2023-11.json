@@ -1,6 +1,6 @@
 {
   "startTime": 1698769380301,
-  "endTime": 1701328594339,
+  "endTime": 1701329642269,
   "band_list": [
     {
       "raw_hot": 21682297,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1699687411,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2473252,
+      "num": 2473252,
+      "word": "拼多多 工作制",
+      "onboard_time": 1701327755,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 2468887,
@@ -2747,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1805494,
+      "num": 1805494,
+      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+      "onboard_time": 1701323194,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1803257,
       "num": 1232400,
       "word": "肖战 宝诗龙",
@@ -2905,14 +2921,6 @@
       "onboard_time": 1700902958,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1755306,
-      "num": 1755306,
-      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
-      "onboard_time": 1701323194,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1754968,
@@ -11651,14 +11659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 734953,
-      "num": 734953,
-      "word": "拼多多 工作制",
-      "onboard_time": 1701327755,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 734732,
       "num": 734732,
       "word": "马来西亚将对中国游客免签",
@@ -14115,6 +14115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639263,
+      "num": 464435,
+      "word": "一念关山 嫂子文学",
+      "onboard_time": 1701327872,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 638974,
       "num": 638974,
       "word": "纣王 姬发想要我的逆子",
@@ -15225,6 +15233,14 @@
       "onboard_time": 1700182837,
       "rank": 21,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 609585,
+      "num": 609585,
+      "word": "何蓝逗累了换我上去演会儿",
+      "onboard_time": 1701327572,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 609120,
@@ -17339,6 +17355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 552368,
+      "num": 421730,
+      "word": "李菲儿说这辈子不喝咖啡了",
+      "onboard_time": 1701329071,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551601,
       "num": 551601,
       "word": "花少 迪丽热巴双商",
@@ -19347,14 +19371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 503896,
-      "num": 464435,
-      "word": "一念关山 嫂子文学",
-      "onboard_time": 1701327872,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 503715,
       "num": 503715,
       "word": "辛芷蕾穿上了东北大花",
@@ -20665,14 +20681,6 @@
       "onboard_time": 1699665569,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 477244,
-      "num": 456006,
-      "word": "何蓝逗累了换我上去演会儿",
-      "onboard_time": 1701327572,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 477184,
@@ -29699,6 +29707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344221,
+      "num": 344221,
+      "word": "狐厂 张凌赫归来仍是待爆",
+      "onboard_time": 1701329071,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344195,
       "num": 277042,
       "word": "黄景瑜终于不是素颜了",
@@ -33337,6 +33353,14 @@
       "onboard_time": 1699631853,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 304899,
+      "num": 304899,
+      "word": "王鹤棣被动下线",
+      "onboard_time": 1701329251,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 304719,
@@ -48907,6 +48931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207110,
+      "num": 207110,
+      "word": "景甜皇后造型",
+      "onboard_time": 1701329015,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207096,
       "num": 207096,
       "word": "王子奇你是李二牛的劫",
@@ -51715,6 +51747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198264,
+      "num": 198264,
+      "word": "美甲易掉的原因",
+      "onboard_time": 1701328533,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 198263,
       "num": 198263,
       "word": "新闻女王 职场味",
@@ -53001,6 +53041,14 @@
       "onboard_time": 1699427502,
       "rank": 37,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 194634,
+      "num": 194634,
+      "word": "王鸥新剧连发七份离婚协议书",
+      "onboard_time": 1701328593,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 194628,
@@ -55075,6 +55123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188709,
+      "num": 188709,
+      "word": "皮肤黄 糖化",
+      "onboard_time": 1701329494,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 188686,
       "num": 309771,
       "word": "暴雪后东北人在雪地里洗貂皮大衣",
@@ -55329,6 +55385,14 @@
       "onboard_time": 1699769970,
       "rank": 43,
       "category": "美妆,幽默"
+    },
+    {
+      "raw_hot": 188008,
+      "num": 188008,
+      "word": "陈奕迅广州 抢票",
+      "onboard_time": 1701329373,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 187985,
@@ -56905,6 +56969,14 @@
       "onboard_time": 1700214812,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 182595,
+      "num": 182595,
+      "word": "孙千 鲜活美",
+      "onboard_time": 1701328414,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 182579,
@@ -61113,14 +61185,6 @@
       "onboard_time": 1700893713,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166250,
-      "num": 166250,
-      "word": "美甲易掉的原因",
-      "onboard_time": 1701328533,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 166191,
@@ -66107,6 +66171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147469,
+      "num": 147469,
+      "word": "一念关山 智商被尊重的感觉",
+      "onboard_time": 1701329614,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147433,
       "num": 178797,
       "word": "ELLE红毯造型点评",
@@ -66225,6 +66297,14 @@
       "onboard_time": 1701138034,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146995,
+      "num": 146995,
+      "word": "热巴 不值得一提的事",
+      "onboard_time": 1701329614,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 146982,
@@ -66603,14 +66683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145242,
-      "num": 145242,
-      "word": "孙千 鲜活美",
-      "onboard_time": 1701328414,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145215,
       "num": 125474,
       "word": "友宝女看不了一点的剧",
@@ -66953,6 +67025,14 @@
       "onboard_time": 1700545359,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144177,
+      "num": 144177,
+      "word": "王蓉外网仿妆",
+      "onboard_time": 1701329614,
+      "rank": 49,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 144066,
@@ -72868,7 +72948,7 @@
     },
     {
       "raw_hot": 120869,
-      "num": 719631,
+      "num": 1056770,
       "word": "12月这些新规施行",
       "onboard_time": 1701312936,
       "rank": 49,
