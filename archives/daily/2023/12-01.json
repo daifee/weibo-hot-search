@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701386283646,
+  "endTime": 1701387253777,
   "band_list": [
     {
       "raw_hot": 1758768,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895431,
+      "num": 895431,
+      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
+      "onboard_time": 1701378733,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 746697,
       "num": 746697,
       "word": "微信好友上限",
@@ -43,11 +51,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 671135,
-      "num": 671135,
-      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
-      "onboard_time": 1701378733,
-      "rank": 48,
+      "raw_hot": 679565,
+      "num": 679565,
+      "word": "女生为避无效社交朋友圈发文不随礼",
+      "onboard_time": 1701362485,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -81,14 +89,6 @@
       "onboard_time": 1701352121,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 482959,
-      "num": 482959,
-      "word": "女生为避无效社交朋友圈发文不随礼",
-      "onboard_time": 1701362485,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476984,
@@ -131,6 +131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314906,
+      "num": 314906,
+      "word": "伊能静 最高级的悲喜在喜剧",
+      "onboard_time": 1701372434,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 295575,
+      "num": 295575,
+      "word": "杨鸣唐佳良离婚案12月开庭",
+      "onboard_time": 1701345034,
+      "rank": 23,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 294590,
       "num": 294590,
       "word": "杨鸣被曝离婚",
@@ -145,6 +161,14 @@
       "onboard_time": 1701335796,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280760,
+      "num": 280760,
+      "word": "排队5天孩子呼吸道感染熬成肺炎",
+      "onboard_time": 1701347131,
+      "rank": 29,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 276639,
@@ -171,28 +195,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 244859,
-      "num": 244859,
-      "word": "伊能静 最高级的悲喜在喜剧",
-      "onboard_time": 1701372434,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 253348,
+      "num": 253348,
+      "word": "重庆地铁偶遇张艺兴",
+      "onboard_time": 1701351100,
+      "rank": 26,
+      "category": "艺人"
     },
     {
-      "raw_hot": 237591,
-      "num": 237591,
-      "word": "排队5天孩子呼吸道感染熬成肺炎",
-      "onboard_time": 1701347131,
-      "rank": 29,
-      "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 234616,
-      "num": 234616,
-      "word": "杨鸣唐佳良离婚案12月开庭",
-      "onboard_time": 1701345034,
-      "rank": 23,
-      "category": "体育,网红"
+      "raw_hot": 234079,
+      "num": 234079,
+      "word": "奶奶去世爷爷紧紧蜷缩在旁边",
+      "onboard_time": 1701350258,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233878,
@@ -203,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230465,
-      "num": 221544,
-      "word": "重庆地铁偶遇张艺兴",
-      "onboard_time": 1701351100,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "中学女生发型 鲶鱼须遮半张脸",
@@ -219,11 +227,11 @@
       "category": "教育,美妆"
     },
     {
-      "raw_hot": 213264,
-      "num": 213264,
-      "word": "奶奶去世爷爷紧紧蜷缩在旁边",
-      "onboard_time": 1701350258,
-      "rank": 18,
+      "raw_hot": 207123,
+      "num": 207123,
+      "word": "十二月你好",
+      "onboard_time": 1701386723,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -233,6 +241,14 @@
       "onboard_time": 1701356979,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196209,
+      "num": 196209,
+      "word": "冬季洗澡三个习惯加速皮肤老化",
+      "onboard_time": 1701361467,
+      "rank": 33,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 195789,
@@ -291,16 +307,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163800,
-      "num": 163800,
-      "word": "冬季洗澡三个习惯加速皮肤老化",
-      "onboard_time": 1701361467,
-      "rank": 33,
-      "category": "健康医疗,美妆"
-    },
-    {
       "raw_hot": 163472,
-      "num": 105577,
+      "num": 127893,
       "word": "陈妍希杨丞琳潘玮柏合照",
       "onboard_time": 1701357100,
       "rank": 40,
@@ -321,6 +329,14 @@
       "onboard_time": 1701339093,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151757,
+      "num": 113430,
+      "word": "LV大秀港媒生图",
+      "onboard_time": 1701386606,
+      "rank": 30,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 150157,
@@ -363,20 +379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134751,
+      "num": 134751,
+      "word": "你觉得应该公布献血事件小姑姑身份吗",
+      "onboard_time": 1701380775,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131584,
       "num": 131584,
       "word": "真的到此为止了吗 菩萨",
       "onboard_time": 1701347012,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130943,
-      "num": 130943,
-      "word": "你觉得应该公布献血事件小姑姑身份吗",
-      "onboard_time": 1701380775,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125710,
@@ -395,6 +411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117215,
+      "num": 117215,
+      "word": "音银12月停播",
+      "onboard_time": 1701386723,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112046,
+      "num": 112046,
+      "word": "信雅达董事长二女儿是Pika创始人",
+      "onboard_time": 1701353566,
+      "rank": 37,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 111333,
       "num": 111333,
       "word": "把考公真题误发给领导",
@@ -403,16 +435,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 107025,
-      "num": 107025,
-      "word": "信雅达董事长二女儿是Pika创始人",
-      "onboard_time": 1701353566,
-      "rank": 37,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 96605,
-      "num": 96605,
+      "raw_hot": 102046,
+      "num": 102046,
       "word": "疑似南京横渡长江野猪呛水死亡",
       "onboard_time": 1701342873,
       "rank": 38,
@@ -427,12 +451,44 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78327,
-      "num": 78327,
+      "raw_hot": 91797,
+      "num": 91797,
       "word": "星光大赏出席嘉宾",
       "onboard_time": 1701370274,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 91259,
+      "num": 91259,
+      "word": "刘耀文LV酒会跳舞",
+      "onboard_time": 1701387085,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 89760,
+      "num": 89760,
+      "word": "刘诗诗新剧一滴泪演技",
+      "onboard_time": 1701384801,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86636,
+      "num": 86636,
+      "word": "杨幂北京出发穿搭",
+      "onboard_time": 1701384077,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 83572,
+      "num": 83572,
+      "word": "张家妍男朋友",
+      "onboard_time": 1701387208,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 76446,
@@ -467,24 +523,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 68685,
-      "num": 68685,
-      "word": "刘诗诗新剧一滴泪演技",
-      "onboard_time": 1701384801,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 67742,
-      "num": 67742,
-      "word": "杨幂北京出发穿搭",
-      "onboard_time": 1701384077,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 64014,
-      "num": 64014,
+      "raw_hot": 67439,
+      "num": 67439,
       "word": "南京马拉松违规选手被处罚",
       "onboard_time": 1701379214,
       "rank": 43,
@@ -523,7 +563,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23965,
+      "raw_hot": 34561,
       "num": 770524,
       "word": "国之重器背后的中国链",
       "onboard_time": 1701350074,
