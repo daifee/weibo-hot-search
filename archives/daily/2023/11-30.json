@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701332536347,
+  "endTime": 1701333342712,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -139,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1130782,
+      "num": 1130782,
+      "word": "杨鸣被曝离婚",
+      "onboard_time": 1701332375,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1082152,
       "num": 1082152,
       "word": "两家公司董事长失联",
@@ -171,6 +179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 980818,
+      "num": 980818,
+      "word": "韩国公务员想升职得先生娃",
+      "onboard_time": 1701329432,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 969881,
       "num": 969881,
       "word": "皮肤黄 糖化",
@@ -179,11 +195,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 966105,
-      "num": 966105,
-      "word": "韩国公务员想升职得先生娃",
-      "onboard_time": 1701329432,
-      "rank": 4,
+      "raw_hot": 960308,
+      "num": 585447,
+      "word": "爷爷过世请不出丧假小伙遭亲戚埋怨",
+      "onboard_time": 1701331773,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -201,6 +217,14 @@
       "onboard_time": 1701305433,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 842900,
+      "num": 571279,
+      "word": "应公布阿里公务员献血事件小姑姑身份",
+      "onboard_time": 1701330813,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 839017,
@@ -235,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 751709,
-      "num": 482419,
-      "word": "应公布阿里公务员献血事件小姑姑身份",
-      "onboard_time": 1701330813,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 751398,
       "num": 751398,
       "word": "辛芷蕾起床姿势好真实",
@@ -259,8 +275,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 723474,
-      "num": 723474,
+      "raw_hot": 724687,
+      "num": 724687,
       "word": "王蓉外网仿妆",
       "onboard_time": 1701329614,
       "rank": 49,
@@ -451,8 +467,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 485835,
-      "num": 485835,
+      "raw_hot": 509354,
+      "num": 509354,
       "word": "热巴 不值得一提的事",
       "onboard_time": 1701329614,
       "rank": 47,
@@ -475,8 +491,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 474102,
-      "num": 474102,
+      "raw_hot": 475811,
+      "num": 475811,
       "word": "南极偶遇张译",
       "onboard_time": 1701330877,
       "rank": 11,
@@ -513,6 +529,14 @@
       "onboard_time": 1701305675,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447152,
+      "num": 447152,
+      "word": "一念关山 智商被尊重的感觉",
+      "onboard_time": 1701329614,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 434325,
@@ -553,14 +577,6 @@
       "onboard_time": 1701272373,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404534,
-      "num": 353089,
-      "word": "一念关山 智商被尊重的感觉",
-      "onboard_time": 1701329614,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 404168,
@@ -699,12 +715,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 335927,
-      "num": 335927,
-      "word": "爷爷过世请不出丧假小伙遭亲戚埋怨",
-      "onboard_time": 1701331773,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 337583,
+      "num": 337583,
+      "word": "aespa 公司年会",
+      "onboard_time": 1701332134,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 332670,
@@ -819,6 +835,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 283392,
+      "num": 283392,
+      "word": "宝马奔驰将在中国设立合资公司",
+      "onboard_time": 1701332193,
+      "rank": 38,
+      "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 280125,
+      "num": 280125,
+      "word": "刘诗诗宣传袁弘新电影",
+      "onboard_time": 1701332974,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 277266,
       "num": 277266,
       "word": "阿里市值重回电商一哥",
@@ -849,14 +881,6 @@
       "onboard_time": 1701325299,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 268611,
-      "num": 268611,
-      "word": "aespa 公司年会",
-      "onboard_time": 1701332134,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 268442,
@@ -979,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223753,
+      "num": 223753,
+      "word": "大四男生给学校捐了20万",
+      "onboard_time": 1701332796,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222460,
       "num": 222460,
       "word": "利智",
@@ -1035,14 +1067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211840,
-      "num": 211840,
-      "word": "杨鸣被曝离婚",
-      "onboard_time": 1701332375,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211110,
       "num": 211110,
       "word": "刘诗诗是会演的",
@@ -1051,12 +1075,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208617,
+      "num": 208617,
+      "word": "李相夷画像cos",
+      "onboard_time": 1701332314,
+      "rank": 45,
+      "category": "动漫,剧集"
+    },
+    {
       "raw_hot": 207907,
       "num": 207907,
       "word": "一念关山男女主影响力登顶",
       "onboard_time": 1701309996,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207329,
+      "num": 207329,
+      "word": "原来孕晚期也可以健身",
+      "onboard_time": 1701332796,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 207110,
@@ -1339,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181198,
+      "num": 181198,
+      "word": "支原体肺炎有多难受",
+      "onboard_time": 1701330993,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179048,
       "num": 179048,
       "word": "清华北大的老师有多厉害",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1701285854,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177786,
-      "num": 177786,
-      "word": "支原体肺炎有多难受",
-      "onboard_time": 1701330993,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174447,
@@ -1403,6 +1443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 169149,
+      "num": 169149,
+      "word": "外交部回应基辛格去世",
+      "onboard_time": 1701332015,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 169069,
       "num": 169069,
       "word": "柯南2024年剧场版预告",
@@ -1435,12 +1483,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 162430,
-      "num": 162430,
-      "word": "宝马奔驰将在中国设立合资公司",
-      "onboard_time": 1701332193,
-      "rank": 38,
-      "category": "汽车,财经"
+      "raw_hot": 165064,
+      "num": 165064,
+      "word": "宋雨琦姐系裸妆",
+      "onboard_time": 1701332915,
+      "rank": 40,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 161520,
@@ -1465,14 +1513,6 @@
       "onboard_time": 1701315876,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156795,
-      "num": 156795,
-      "word": "外交部回应基辛格去世",
-      "onboard_time": 1701332015,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 156620,
@@ -1545,14 +1585,6 @@
       "onboard_time": 1701322958,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 142925,
-      "num": 142925,
-      "word": "李相夷画像cos",
-      "onboard_time": 1701332314,
-      "rank": 45,
-      "category": "动漫,剧集"
     },
     {
       "raw_hot": 139807,
@@ -1659,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127934,
+      "num": 127934,
+      "word": "内娱甘露寺比甄嬛传更刺激",
+      "onboard_time": 1701333275,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127200,
       "num": 127200,
       "word": "海底捞部分门店不让跳科目三了",
@@ -1692,7 +1732,7 @@
     },
     {
       "raw_hot": 120869,
-      "num": 1133846,
+      "num": 1145549,
       "word": "12月这些新规施行",
       "onboard_time": 1701312936,
       "rank": 49,
