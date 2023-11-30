@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701354927544,
+  "endTime": 1701357461594,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -179,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1470404,
+      "num": 1470404,
+      "word": "LV不管饭吗",
+      "onboard_time": 1701352121,
+      "rank": 7,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1385394,
       "num": 657389,
       "word": "25岁女子被丈夫割喉父亲发声",
@@ -243,20 +251,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1141522,
+      "num": 1141522,
+      "word": "微信好友上限",
+      "onboard_time": 1701354636,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1082152,
       "num": 1082152,
       "word": "两家公司董事长失联",
       "onboard_time": 1701307834,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1080334,
-      "num": 1080334,
-      "word": "LV不管饭吗",
-      "onboard_time": 1701352121,
-      "rank": 7,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1068989,
@@ -403,6 +411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 772977,
+      "num": 294096,
+      "word": "长期睡前玩手机会付出啥代价",
+      "onboard_time": 1701356500,
+      "rank": 21,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 765786,
       "num": 424968,
       "word": "潘玮柏结婚照",
@@ -531,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 629164,
+      "num": 629164,
+      "word": "杨迪首谈分手风波",
+      "onboard_time": 1701354398,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 609585,
       "num": 609585,
       "word": "何蓝逗累了换我上去演会儿",
       "onboard_time": 1701327572,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 601157,
+      "num": 601157,
+      "word": "沈月 头像大户",
+      "onboard_time": 1701354340,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 591153,
@@ -683,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507237,
+      "num": 507237,
+      "word": "迪丽热巴确定出席星光大赏",
+      "onboard_time": 1701355541,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 488988,
       "num": 488988,
       "word": "星光大赏 门票",
@@ -803,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441737,
+      "num": 291868,
+      "word": "寸铁 解散",
+      "onboard_time": 1701356979,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 439215,
       "num": 1756556,
       "word": "大四男生给学校捐了20万",
@@ -841,6 +889,14 @@
       "onboard_time": 1701304776,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 429420,
+      "num": 286341,
+      "word": "白鹿哭戏导演喊停仍未出戏",
+      "onboard_time": 1701354636,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 417982,
@@ -897,6 +953,14 @@
       "onboard_time": 1701320977,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 398106,
+      "num": 398106,
+      "word": "德国总统干等半小时",
+      "onboard_time": 1701354220,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 396210,
@@ -969,14 +1033,6 @@
       "onboard_time": 1701342693,
       "rank": 30,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 367227,
-      "num": 209554,
-      "word": "沈月 头像大户",
-      "onboard_time": 1701354340,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 362754,
@@ -1144,22 +1200,6 @@
       "word": "一念关山破万全员跳女团舞",
       "onboard_time": 1701264635,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 327933,
-      "num": 175820,
-      "word": "杨迪首谈分手风波",
-      "onboard_time": 1701354398,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 322202,
-      "num": 175529,
-      "word": "白鹿哭戏导演喊停仍未出戏",
-      "onboard_time": 1701354636,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1427,6 +1467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 267118,
+      "num": 169791,
+      "word": "陈妍希杨丞琳潘玮柏合照",
+      "onboard_time": 1701357100,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264475,
       "num": 264475,
       "word": "王鹤棣出发香港路透",
@@ -1452,7 +1500,7 @@
     },
     {
       "raw_hot": 261174,
-      "num": 174701,
+      "num": 215705,
       "word": "信雅达董事长二女儿是Pika创始人",
       "onboard_time": 1701353566,
       "rank": 45,
@@ -1468,7 +1516,7 @@
     },
     {
       "raw_hot": 258154,
-      "num": 227747,
+      "num": 236159,
       "word": "把考公真题误发给领导",
       "onboard_time": 1701352837,
       "rank": 33,
@@ -1600,6 +1648,22 @@
       "word": "黄明昊 清爽男大",
       "onboard_time": 1701351399,
       "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223503,
+      "num": 137682,
+      "word": "张凌赫片场带娃",
+      "onboard_time": 1701356618,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 223343,
+      "num": 134428,
+      "word": "时代少年团秀后自拍",
+      "onboard_time": 1701356197,
+      "rank": 44,
       "category": "作品衍生,时尚"
     },
     {
@@ -1793,14 +1857,6 @@
       "onboard_time": 1701342573,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 204338,
-      "num": 173808,
-      "word": "德国总统干等半小时",
-      "onboard_time": 1701354220,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 204155,
@@ -2163,14 +2219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177297,
-      "num": 177297,
-      "word": "微信好友上限",
-      "onboard_time": 1701354636,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 175941,
       "num": 155633,
       "word": "我真服了周天后",
@@ -2193,6 +2241,14 @@
       "onboard_time": 1701306994,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 174219,
+      "num": 174219,
+      "word": "陈梦晒合照",
+      "onboard_time": 1701354700,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 174123,
@@ -2337,6 +2393,14 @@
       "onboard_time": 1701338914,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160262,
+      "num": 160262,
+      "word": "因郑州暴雨被降级的市长重回正厅级",
+      "onboard_time": 1701357161,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158229,
@@ -2989,6 +3053,9 @@
     },
     {
       "word": "#推动长三角一体化发展取得新的重大突破#"
+    },
+    {
+      "word": "#深入推进长三角一体化发展座谈会#"
     }
   ]
 }
