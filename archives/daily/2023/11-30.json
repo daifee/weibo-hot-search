@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701342926689,
+  "endTime": 1701344047389,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1799278,
+      "num": 1799278,
+      "word": "一念关山 替身马赛克",
+      "onboard_time": 1701342454,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1654756,
       "num": 362783,
       "word": "老头强暴自己孙女致其怀孕系谣言",
@@ -147,20 +155,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1283037,
+      "num": 1283037,
+      "word": "张译 南极拒绝合影事件",
+      "onboard_time": 1701339093,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1260419,
       "num": 1260419,
       "word": "杨鸣",
       "onboard_time": 1701301049,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1223816,
-      "num": 1223816,
-      "word": "张译 南极拒绝合影事件",
-      "onboard_time": 1701339093,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1214347,
@@ -355,6 +363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 686600,
+      "num": 686600,
+      "word": "LV香港大秀明星阵容",
+      "onboard_time": 1701326733,
+      "rank": 5,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 667255,
       "num": 667255,
       "word": "杨紫 小甜嗓",
@@ -403,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 632331,
-      "num": 632331,
-      "word": "LV香港大秀明星阵容",
-      "onboard_time": 1701326733,
-      "rank": 5,
-      "category": "时尚,艺人"
+      "raw_hot": 623251,
+      "num": 623251,
+      "word": "王鹤棣 踹开说唱大门",
+      "onboard_time": 1701343656,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 609585,
@@ -473,14 +489,6 @@
       "onboard_time": 1701271417,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550066,
-      "num": 550066,
-      "word": "一念关山 替身马赛克",
-      "onboard_time": 1701342454,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 548041,
@@ -707,6 +715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 387338,
+      "num": 387338,
+      "word": "中学女生发型 鲶鱼须遮半张脸",
+      "onboard_time": 1701342873,
+      "rank": 48,
+      "category": "教育,美妆"
+    },
+    {
       "raw_hot": 383180,
       "num": 383180,
       "word": "TES 辅助",
@@ -753,6 +769,14 @@
       "onboard_time": 1701305016,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 368962,
+      "num": 368962,
+      "word": "杨鸣曾因离婚纠纷起诉妻子",
+      "onboard_time": 1701342693,
+      "rank": 30,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 362754,
@@ -875,6 +899,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 337908,
+      "num": 337908,
+      "word": "疑似南京横渡长江野猪呛水死亡",
+      "onboard_time": 1701342873,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337583,
       "num": 337583,
       "word": "aespa 公司年会",
@@ -913,6 +945,14 @@
       "onboard_time": 1701316656,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 320521,
+      "num": 320521,
+      "word": "专家建议不要同时使用止咳药和祛痰药",
+      "onboard_time": 1701342573,
+      "rank": 34,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 317308,
@@ -1003,6 +1043,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 300696,
+      "num": 300696,
+      "word": "27岁年纪大什么大",
+      "onboard_time": 1701342693,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 296660,
+      "num": 296660,
+      "word": "白鹿发视频告别姜雪宁",
+      "onboard_time": 1701343113,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292848,
       "num": 292848,
       "word": "内娱甘露寺比甄嬛传更刺激",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1701325299,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 270439,
+      "num": 270439,
+      "word": "刘亦菲冬日栗子妆",
+      "onboard_time": 1701343954,
+      "rank": 27,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 268442,
@@ -1299,12 +1363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209409,
-      "num": 209409,
-      "word": "杨鸣曾因离婚纠纷起诉妻子",
-      "onboard_time": 1701342693,
-      "rank": 30,
-      "category": "体育,网红"
+      "raw_hot": 208711,
+      "num": 208711,
+      "word": "LV大秀",
+      "onboard_time": 1701344013,
+      "rank": 33,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 208617,
@@ -1499,14 +1563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194107,
-      "num": 194107,
-      "word": "专家建议不要同时使用止咳药和祛痰药",
-      "onboard_time": 1701342573,
-      "rank": 34,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 193424,
       "num": 193424,
       "word": "朱广权包饺子 露了一手但漏了一锅",
@@ -1611,14 +1667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189151,
-      "num": 189151,
-      "word": "27岁年纪大什么大",
-      "onboard_time": 1701342693,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188278,
       "num": 188278,
       "word": "王者荣耀",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1701325358,
       "rank": 47,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 186514,
+      "num": 186514,
+      "word": "恋恋红茶 RNG没有Ming",
+      "onboard_time": 1701343292,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 184536,
@@ -1755,6 +1811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 169230,
+      "num": 1309704,
+      "word": "孕妇急性心衰5大科室主任压阵救援",
+      "onboard_time": 1701340652,
+      "rank": 6,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 169149,
       "num": 169149,
       "word": "外交部回应基辛格去世",
@@ -1769,6 +1833,14 @@
       "onboard_time": 1701307176,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 168137,
+      "num": 168137,
+      "word": "希林娜依高冬日甜美妆",
+      "onboard_time": 1701343892,
+      "rank": 41,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 167531,
@@ -1875,6 +1947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155341,
+      "num": 155341,
+      "word": "李嶷儿子叫稻草女儿叫枕头",
+      "onboard_time": 1701343772,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155059,
       "num": 155059,
       "word": "如果嫌马尾太单调",
@@ -1889,14 +1969,6 @@
       "onboard_time": 1701306456,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154589,
-      "num": 154589,
-      "word": "疑似南京横渡长江野猪呛水死亡",
-      "onboard_time": 1701342873,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 153546,
@@ -1953,22 +2025,6 @@
       "onboard_time": 1701338496,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142213,
-      "num": 142213,
-      "word": "中学女生发型 鲶鱼须遮半张脸",
-      "onboard_time": 1701342873,
-      "rank": 48,
-      "category": "教育,美妆"
-    },
-    {
-      "raw_hot": 141621,
-      "num": 976533,
-      "word": "孕妇急性心衰5大科室主任压阵救援",
-      "onboard_time": 1701340652,
-      "rank": 6,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 141181,
@@ -2284,7 +2340,7 @@
     },
     {
       "raw_hot": 82745,
-      "num": 1478005,
+      "num": 1643959,
       "word": "航拍绝美落羽杉林氛围感拉满",
       "onboard_time": 1701333934,
       "rank": 2,
