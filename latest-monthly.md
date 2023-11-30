@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 14:22:54
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 14:36:15
 </p>
 </blockquote>
 <p>
@@ -1245,6 +1245,12 @@ Letme回归RNG（热度：2284492）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%BB%916%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA4%E4%BA%BA%E8%A2%AB%E6%92%95%E7%A5%A8%23" target="weibo">
+菲律宾警方确认被绑6名中国人4人被撕票（热度：2220092）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%A2%E5%A4%B130%E4%B8%87%E6%89%8B%E6%9C%BA%E5%A5%B3%E5%AD%90%E6%8D%A1%E5%88%B0%E4%BB%A5%E4%B8%BA%E8%80%81%E5%B9%B4%E6%9C%BA%23" target="weibo">
 男子丢失30万手机女子捡到以为老年机（热度：2208446）
 </a>
@@ -1841,12 +1847,6 @@ WBG对战BLG（热度：2001531）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E5%A7%90%23" target="weibo">
 老公姐（热度：1927412）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%AD%A6%E6%96%B9%E7%A1%AE%E8%AE%A4%E8%A2%AB%E7%BB%916%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA4%E4%BA%BA%E8%A2%AB%E6%92%95%E7%A5%A8%23" target="weibo">
-菲律宾警方确认被绑6名中国人4人被撕票（热度：1926776）
 </a>
 </li>
 

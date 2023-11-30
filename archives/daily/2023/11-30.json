@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701325374215,
+  "endTime": 1701326175326,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -35,6 +35,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 2220092,
+      "num": 2220092,
+      "word": "菲律宾警方确认被绑6名中国人4人被撕票",
+      "onboard_time": 1701322536,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2066186,
       "num": 2066186,
       "word": "基辛格访问中国一百多次",
@@ -49,14 +57,6 @@
       "onboard_time": 1701309816,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1926776,
-      "num": 1926776,
-      "word": "菲律宾警方确认被绑6名中国人4人被撕票",
-      "onboard_time": 1701322536,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1654756,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 836137,
+      "num": 836137,
+      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+      "onboard_time": 1701323194,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 793080,
       "num": 793080,
       "word": "奔驰司机在车内离世后被发现",
@@ -193,14 +201,6 @@
       "onboard_time": 1701261103,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 753946,
-      "num": 753946,
-      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
-      "onboard_time": 1701323194,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 751398,
@@ -251,7 +251,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 637175,
+      "raw_hot": 642156,
       "num": 499207,
       "word": "阿里献血",
       "onboard_time": 1701323013,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537726,
+      "num": 537726,
+      "word": "无法代入新闻女王的理由",
+      "onboard_time": 1701322958,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 537471,
       "num": 537471,
       "word": "法考",
@@ -343,14 +351,6 @@
       "num": 513568,
       "word": "一念关山 正常",
       "onboard_time": 1701315815,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 497738,
-      "num": 497738,
-      "word": "无法代入新闻女王的理由",
-      "onboard_time": 1701322958,
       "rank": 13,
       "category": "剧集"
     },
@@ -459,6 +459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 378753,
+      "num": 378753,
+      "word": "JDG官宣369离队",
+      "onboard_time": 1701325054,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 375319,
       "num": 365370,
       "word": "刘诗诗 这让人怎么镇定",
@@ -507,6 +515,14 @@
       "category": "体育,美妆"
     },
     {
+      "raw_hot": 356999,
+      "num": 330568,
+      "word": "男子住88元酒店后打包带走150元被子",
+      "onboard_time": 1701324757,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348947,
       "num": 348947,
       "word": "港版社内相亲",
@@ -544,6 +560,14 @@
       "word": "白鹿虞书欣赵露思都有跨年晚会",
       "onboard_time": 1701321275,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339405,
+      "num": 339405,
+      "word": "王一珩妈妈是资深禾伙人",
+      "onboard_time": 1701325833,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -601,6 +625,14 @@
       "onboard_time": 1701305197,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308924,
+      "num": 308924,
+      "word": "领工资时被要求说谢谢",
+      "onboard_time": 1701324634,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 304324,
@@ -675,20 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269723,
-      "num": 269723,
-      "word": "男子住88元酒店后打包带走150元被子",
-      "onboard_time": 1701324757,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266191,
-      "num": 204557,
-      "word": "领工资时被要求说谢谢",
-      "onboard_time": 1701324634,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 272894,
+      "num": 272894,
+      "word": "魅族发布会",
+      "onboard_time": 1701325299,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 264475,
@@ -705,6 +729,14 @@
       "onboard_time": 1701256175,
       "rank": 16,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 261147,
+      "num": 261147,
+      "word": "羽绒服这样洗真的很干净",
+      "onboard_time": 1701322656,
+      "rank": 25,
+      "category": "时尚"
     },
     {
       "raw_hot": 253878,
@@ -763,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238716,
-      "num": 238716,
-      "word": "羽绒服这样洗真的很干净",
-      "onboard_time": 1701322656,
-      "rank": 25,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 238517,
       "num": 238517,
       "word": "假如任如意遇到了李莲花",
@@ -801,14 +825,6 @@
       "onboard_time": 1701256057,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222306,
-      "num": 222306,
-      "word": "JDG官宣369离队",
-      "onboard_time": 1701325054,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 219473,
@@ -939,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193654,
+      "num": 211515,
+      "word": "渐冻症女警长29年改造1900多名罪犯",
+      "onboard_time": 1701325654,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193424,
       "num": 193424,
       "word": "朱广权包饺子 露了一手但漏了一锅",
@@ -1035,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186742,
+      "num": 186742,
+      "word": "陈都灵白月光仿妆",
+      "onboard_time": 1701325358,
+      "rank": 47,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 184536,
       "num": 184536,
       "word": "脸黄比脸黑更可怕吗",
@@ -1083,14 +1115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171282,
-      "num": 171282,
-      "word": "魅族发布会",
-      "onboard_time": 1701325299,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 170828,
       "num": 153021,
       "word": "太原3.7级地震",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1701307176,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 167479,
+      "num": 167479,
+      "word": "广东佛山有口拳头大的迷你水井",
+      "onboard_time": 1701325416,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166347,
@@ -1209,14 +1241,6 @@
       "onboard_time": 1701322958,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 144406,
-      "num": 144406,
-      "word": "陈都灵白月光仿妆",
-      "onboard_time": 1701325358,
-      "rank": 47,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 139807,
