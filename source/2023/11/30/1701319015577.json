@@ -1,0 +1,410 @@
+{
+  "runTime": 1701319015577,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2357709,
+        "num": 2357709,
+        "word": "基辛格逝世",
+        "onboard_time": 1701309274,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2338385,
+        "num": 2338385,
+        "word": "空腹16小时启动自噬功能",
+        "onboard_time": 1701314137,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27358,
+        "num": 2209427,
+        "word": "举办链博会展现了担当彰显了能力",
+        "onboard_time": 1701313234,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2158326,
+        "num": 2158326,
+        "word": "15岁女生被同学奸杀案二审维持原判",
+        "onboard_time": 1701315515,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140948,
+        "num": 1140948,
+        "word": "酱园弄女二 杨幂",
+        "onboard_time": 1701315276,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1045730,
+        "num": 1045730,
+        "word": "唐佳良 杨鸣",
+        "onboard_time": 1701315214,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 866793,
+        "num": 866793,
+        "word": "如果霍建华饰演一念关山",
+        "onboard_time": 1701318034,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 791489,
+        "num": 791489,
+        "word": "奔驰司机在车内离世后被发现",
+        "onboard_time": 1701313655,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760809,
+        "num": 760809,
+        "word": "杨鸣",
+        "onboard_time": 1701301049,
+        "rank": 8,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 751398,
+        "num": 751398,
+        "word": "辛芷蕾起床姿势好真实",
+        "onboard_time": 1701314855,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1338815,
+        "num": 746103,
+        "word": "曝羽生结弦妻子遭婆婆无视",
+        "onboard_time": 1701309638,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1102613,
+        "num": 657389,
+        "word": "25岁女子被丈夫割喉父亲发声",
+        "onboard_time": 1701309758,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513568,
+        "num": 513568,
+        "word": "一念关山 正常",
+        "onboard_time": 1701315815,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495293,
+        "num": 495293,
+        "word": "行程图",
+        "onboard_time": 1701315997,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477474,
+        "num": 477474,
+        "word": "小区房价骤降有业主一夜损失超50万",
+        "onboard_time": 1701311615,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435080,
+        "num": 435080,
+        "word": "长期吃猪油不利于健康",
+        "onboard_time": 1701312574,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 415305,
+        "num": 415305,
+        "word": "明年的古偶男主",
+        "onboard_time": 1701306994,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383854,
+        "num": 383854,
+        "word": "很想很想你",
+        "onboard_time": 1701313538,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369931,
+        "num": 369931,
+        "word": "两家公司董事长失联",
+        "onboard_time": 1701307834,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367914,
+        "num": 367914,
+        "word": "基辛格官网悼文提到11次中国",
+        "onboard_time": 1701311377,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 875401,
+        "num": 359901,
+        "word": "老头强暴自己孙女致其怀孕系谣言",
+        "onboard_time": 1701311615,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321765,
+        "num": 321765,
+        "word": "吴艳妮 变美秘诀是化妆和减肥",
+        "onboard_time": 1701316475,
+        "rank": 21,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 312108,
+        "num": 312108,
+        "word": "周迅 14秒绝美出场",
+        "onboard_time": 1701316835,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309296,
+        "num": 309296,
+        "word": "赫鲁晓夫减肥法",
+        "onboard_time": 1701316656,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 300255,
+        "num": 300255,
+        "word": "iPhone16显示屏及尺寸曝光",
+        "onboard_time": 1701305856,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 281325,
+        "num": 281325,
+        "word": "读研后完全改变了人生目标",
+        "onboard_time": 1701315695,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268386,
+        "num": 268386,
+        "word": "马斯克爆粗口怒喷广告商",
+        "onboard_time": 1701311975,
+        "rank": 26,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 268345,
+        "num": 268345,
+        "word": "男子闯岳父家当4岁孩子面将妻子杀害",
+        "onboard_time": 1701313234,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246461,
+        "num": 246461,
+        "word": "湖南4个公租房小区排查出766户公职人员",
+        "onboard_time": 1701299725,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243550,
+        "num": 243550,
+        "word": "跳新疆舞的迪丽热巴美到发光",
+        "onboard_time": 1701316360,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227530,
+        "num": 227530,
+        "word": "以爱为营 just督it",
+        "onboard_time": 1701318579,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225872,
+        "num": 225872,
+        "word": "哈登侵略性来了",
+        "onboard_time": 1701318034,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223692,
+        "num": 223692,
+        "word": "刘诗诗 这让人怎么镇定",
+        "onboard_time": 1701309454,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220441,
+        "num": 220441,
+        "word": "杨幂一个vlog去了3个地方",
+        "onboard_time": 1701305675,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207195,
+        "num": 207195,
+        "word": "基辛格葬礼将以家庭仪式形式举行",
+        "onboard_time": 1701314255,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203346,
+        "num": 203346,
+        "word": "女裁判",
+        "onboard_time": 1701317378,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197918,
+        "num": 197918,
+        "word": "seventeen台历",
+        "onboard_time": 1701316415,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202471,
+        "num": 197265,
+        "word": "基辛格今年刚来过中国",
+        "onboard_time": 1701309816,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 195981,
+        "num": 195981,
+        "word": "明星10秒祝福视频网上叫卖20万元",
+        "onboard_time": 1701317562,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 192002,
+        "num": 192002,
+        "word": "南海归墟船难事故",
+        "onboard_time": 1701316360,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179048,
+        "num": 179048,
+        "word": "清华北大的老师有多厉害",
+        "onboard_time": 1701314376,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177983,
+        "num": 177983,
+        "word": "科目三",
+        "onboard_time": 1701317676,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165611,
+        "num": 165611,
+        "word": "假如任如意遇到了李莲花",
+        "onboard_time": 1701313360,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163775,
+        "num": 163775,
+        "word": "拼多多人均创收1222万",
+        "onboard_time": 1701302310,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162664,
+        "num": 162664,
+        "word": "港版社内相亲",
+        "onboard_time": 1701318939,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160297,
+        "num": 160297,
+        "word": "基辛格访问中国一百多次",
+        "onboard_time": 1701310835,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146614,
+        "num": 146614,
+        "word": "王鹤棣出发香港路透",
+        "onboard_time": 1701313057,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145673,
+        "num": 145673,
+        "word": "那是妈妈 指甲长反也不会害我",
+        "onboard_time": 1701267217,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145507,
+        "num": 145507,
+        "word": "宿舍有四个时区",
+        "onboard_time": 1701311377,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144011,
+        "num": 144011,
+        "word": "很想很想你今日开播",
+        "onboard_time": 1701315096,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海考察调研#"
+    }
+  }
+}

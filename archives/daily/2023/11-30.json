@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701318080321,
+  "endTime": 1701319015577,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -27,6 +27,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 2158326,
+      "num": 2158326,
+      "word": "15岁女生被同学奸杀案二审维持原判",
+      "onboard_time": 1701315515,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2066186,
       "num": 2066186,
       "word": "基辛格访问中国一百多次",
@@ -48,14 +56,6 @@
       "word": "老头强暴自己孙女致其怀孕系谣言",
       "onboard_time": 1701311615,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1611950,
-      "num": 1611950,
-      "word": "15岁女生被同学奸杀案二审维持原判",
-      "onboard_time": 1701315515,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1210468,
-      "num": 513409,
+      "num": 657389,
       "word": "25岁女子被丈夫割喉父亲发声",
       "onboard_time": 1701309758,
       "rank": 20,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1045730,
+      "num": 1045730,
+      "word": "唐佳良 杨鸣",
+      "onboard_time": 1701315214,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1044639,
       "num": 667186,
       "word": "长期吃猪油不利于健康",
@@ -123,20 +131,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 994974,
-      "num": 994974,
-      "word": "唐佳良 杨鸣",
-      "onboard_time": 1701315214,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 934314,
       "num": 934314,
       "word": "太原地震",
       "onboard_time": 1701291252,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 866793,
+      "num": 866793,
+      "word": "如果霍建华饰演一念关山",
+      "onboard_time": 1701318034,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 851249,
@@ -179,8 +187,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 745796,
-      "num": 745796,
+      "raw_hot": 751398,
+      "num": 751398,
       "word": "辛芷蕾起床姿势好真实",
       "onboard_time": 1701314855,
       "rank": 18,
@@ -275,16 +283,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 501849,
-      "num": 501849,
+      "raw_hot": 513568,
+      "num": 513568,
       "word": "一念关山 正常",
       "onboard_time": 1701315815,
       "rank": 13,
       "category": "剧集"
     },
     {
-      "raw_hot": 492181,
-      "num": 492181,
+      "raw_hot": 495293,
+      "num": 495293,
       "word": "行程图",
       "onboard_time": 1701315997,
       "rank": 14,
@@ -475,12 +483,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 312108,
+      "num": 312108,
+      "word": "周迅 14秒绝美出场",
+      "onboard_time": 1701316835,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 310196,
       "num": 310196,
       "word": "导演好懂刘诗诗的美",
       "onboard_time": 1701305197,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309296,
+      "num": 309296,
+      "word": "赫鲁晓夫减肥法",
+      "onboard_time": 1701316656,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 304324,
@@ -507,28 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301615,
-      "num": 301615,
-      "word": "周迅 14秒绝美出场",
-      "onboard_time": 1701316835,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 295977,
-      "num": 295977,
-      "word": "赫鲁晓夫减肥法",
-      "onboard_time": 1701316656,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 292730,
       "num": 292730,
       "word": "霍思燕嗯哼飞鸭式拍照",
       "onboard_time": 1701269918,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 281325,
+      "num": 281325,
+      "word": "读研后完全改变了人生目标",
+      "onboard_time": 1701315695,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 277266,
@@ -571,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249326,
-      "num": 249326,
-      "word": "读研后完全改变了人生目标",
-      "onboard_time": 1701315695,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 248285,
       "num": 248285,
       "word": "读研后变得更好了么",
@@ -601,6 +609,14 @@
       "onboard_time": 1701303276,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 243550,
+      "num": 243550,
+      "word": "跳新疆舞的迪丽热巴美到发光",
+      "onboard_time": 1701316360,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 241230,
@@ -627,6 +643,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227530,
+      "num": 227530,
+      "word": "以爱为营 just督it",
+      "onboard_time": 1701318579,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225872,
+      "num": 225872,
+      "word": "哈登侵略性来了",
+      "onboard_time": 1701318034,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222460,
       "num": 222460,
       "word": "利智",
@@ -639,14 +671,6 @@
       "num": 219473,
       "word": "秦昊杨超越命运分组",
       "onboard_time": 1701314797,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 216602,
-      "num": 216602,
-      "word": "跳新疆舞的迪丽热巴美到发光",
-      "onboard_time": 1701316360,
       "rank": 31,
       "category": "综艺"
     },
@@ -699,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203346,
+      "num": 203346,
+      "word": "女裁判",
+      "onboard_time": 1701317378,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202899,
       "num": 194135,
       "word": "基辛格是中国人民的老朋友",
@@ -713,6 +745,14 @@
       "onboard_time": 1701314797,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197918,
+      "num": 197918,
+      "word": "seventeen台历",
+      "onboard_time": 1701316415,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 194196,
@@ -771,14 +811,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 189747,
-      "num": 189747,
-      "word": "seventeen台历",
-      "onboard_time": 1701316415,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189204,
       "num": 189204,
       "word": "很想很想你乐来悦爱预告",
@@ -817,6 +849,14 @@
       "onboard_time": 1701298821,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 179048,
+      "num": 179048,
+      "word": "清华北大的老师有多厉害",
+      "onboard_time": 1701314376,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 178666,
@@ -867,12 +907,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 164735,
-      "num": 164735,
-      "word": "清华北大的老师有多厉害",
-      "onboard_time": 1701314376,
-      "rank": 42,
-      "category": "教育"
+      "raw_hot": 162664,
+      "num": 162664,
+      "word": "港版社内相亲",
+      "onboard_time": 1701318939,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 161520,
@@ -891,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157136,
-      "num": 157136,
-      "word": "女裁判",
-      "onboard_time": 1701317378,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155017,
       "num": 155017,
       "word": "解决毛孔粗大的方法",
@@ -915,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151687,
-      "num": 151687,
-      "word": "如果霍建华饰演一念关山",
-      "onboard_time": 1701318034,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151023,
       "num": 151023,
       "word": "周冬雨新电影 人性量心尺",
@@ -937,14 +961,6 @@
       "onboard_time": 1701259538,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140483,
-      "num": 140483,
-      "word": "哈登侵略性来了",
-      "onboard_time": 1701318034,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 139807,
@@ -1339,8 +1355,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27262,
-      "num": 1623818,
+      "raw_hot": 27358,
+      "num": 2209427,
       "word": "举办链博会展现了担当彰显了能力",
       "onboard_time": 1701313234,
       "rank": 2,
