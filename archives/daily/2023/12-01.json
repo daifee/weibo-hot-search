@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701383636456,
+  "endTime": 1701386283646,
   "band_list": [
     {
       "raw_hot": 1758768,
@@ -41,6 +41,14 @@
       "onboard_time": 1701349055,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 671135,
+      "num": 671135,
+      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
+      "onboard_time": 1701378733,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617219,
@@ -163,12 +171,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 247006,
-      "num": 247006,
-      "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
-      "onboard_time": 1701378733,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 244859,
+      "num": 244859,
+      "word": "伊能静 最高级的悲喜在喜剧",
+      "onboard_time": 1701372434,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237591,
+      "num": 237591,
+      "word": "排队5天孩子呼吸道感染熬成肺炎",
+      "onboard_time": 1701347131,
+      "rank": 29,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 234616,
+      "num": 234616,
+      "word": "杨鸣唐佳良离婚案12月开庭",
+      "onboard_time": 1701345034,
+      "rank": 23,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 233878,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 230465,
-      "num": 160799,
+      "num": 221544,
       "word": "重庆地铁偶遇张艺兴",
       "onboard_time": 1701351100,
       "rank": 26,
@@ -235,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178752,
-      "num": 178752,
-      "word": "杨鸣唐佳良离婚案12月开庭",
-      "onboard_time": 1701345034,
-      "rank": 23,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 174060,
       "num": 133059,
       "word": "时代少年团 葫芦娃",
@@ -275,8 +291,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163800,
+      "num": 163800,
+      "word": "冬季洗澡三个习惯加速皮肤老化",
+      "onboard_time": 1701361467,
+      "rank": 33,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 163472,
-      "num": 91808,
+      "num": 105577,
       "word": "陈妍希杨丞琳潘玮柏合照",
       "onboard_time": 1701357100,
       "rank": 40,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142692,
+      "num": 142692,
+      "word": "12月第一天",
+      "onboard_time": 1701385583,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142105,
       "num": 91353,
       "word": "苏醒聪明的都不像他了",
@@ -331,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136147,
-      "num": 136147,
-      "word": "排队5天孩子呼吸道感染熬成肺炎",
-      "onboard_time": 1701347131,
-      "rank": 29,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 131584,
       "num": 131584,
       "word": "真的到此为止了吗 菩萨",
       "onboard_time": 1701347012,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130943,
+      "num": 130943,
+      "word": "你觉得应该公布献血事件小姑姑身份吗",
+      "onboard_time": 1701380775,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125710,
@@ -361,14 +393,6 @@
       "onboard_time": 1701362306,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118778,
-      "num": 118778,
-      "word": "冬季洗澡三个习惯加速皮肤老化",
-      "onboard_time": 1701361467,
-      "rank": 33,
-      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 111333,
@@ -395,20 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95481,
-      "num": 73263,
-      "word": "伊能静 最高级的悲喜在喜剧",
-      "onboard_time": 1701372434,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91816,
       "num": 91816,
       "word": "双鱼座其实是高级的猎手",
       "onboard_time": 1701346714,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 78327,
+      "num": 78327,
+      "word": "星光大赏出席嘉宾",
+      "onboard_time": 1701370274,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 76446,
@@ -443,6 +467,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68685,
+      "num": 68685,
+      "word": "刘诗诗新剧一滴泪演技",
+      "onboard_time": 1701384801,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67742,
+      "num": 67742,
+      "word": "杨幂北京出发穿搭",
+      "onboard_time": 1701384077,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 64014,
+      "num": 64014,
+      "word": "南京马拉松违规选手被处罚",
+      "onboard_time": 1701379214,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 62853,
       "num": 90915,
       "word": "孕妇牙龈出血或有生命危险",
@@ -451,12 +499,20 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 50899,
-      "num": 50899,
-      "word": "你觉得应该公布献血事件小姑姑身份吗",
-      "onboard_time": 1701380775,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 57927,
+      "num": 57927,
+      "word": "当年的TVB回来了吗",
+      "onboard_time": 1701378914,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 57377,
+      "num": 57377,
+      "word": "王一博星光大赏确认出席",
+      "onboard_time": 1701350074,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 46642,
@@ -467,28 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 41680,
-      "num": 41680,
-      "word": "南京马拉松违规选手被处罚",
-      "onboard_time": 1701379214,
-      "rank": 43,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 31555,
-      "num": 31555,
-      "word": "星光大赏出席嘉宾",
-      "onboard_time": 1701370274,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 28334,
-      "num": 28334,
-      "word": "当年的TVB回来了吗",
-      "onboard_time": 1701378914,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 23965,
+      "num": 770524,
+      "word": "国之重器背后的中国链",
+      "onboard_time": 1701350074,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23281,
@@ -505,14 +545,6 @@
       "onboard_time": 1701359671,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18326,
-      "num": 770524,
-      "word": "国之重器背后的中国链",
-      "onboard_time": 1701350074,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17472,
