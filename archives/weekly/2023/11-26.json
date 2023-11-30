@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701347630531,
+  "endTime": 1701348567182,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2625163,
+      "num": 1756789,
+      "word": "朱一龙 穿裙子",
+      "onboard_time": 1701346594,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2495090,
       "num": 2158326,
       "word": "15岁女生被同学奸杀案二审维持原判",
@@ -219,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2218910,
-      "num": 1311520,
-      "word": "朱一龙 穿裙子",
-      "onboard_time": 1701346594,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 2202978,
       "num": 2162216,
       "word": "北京现有艾滋病感染者及患者27285人",
@@ -249,6 +249,14 @@
       "onboard_time": 1701042209,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2113583,
+      "num": 2113583,
+      "word": "一念关山 替身马赛克",
+      "onboard_time": 1701342454,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 2109601,
@@ -411,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1799753,
-      "num": 1799753,
-      "word": "一念关山 替身马赛克",
-      "onboard_time": 1701342454,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1799458,
       "num": 1090862,
       "word": "吴慷仁 金马影帝",
@@ -569,6 +569,14 @@
       "onboard_time": 1701194417,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1598581,
+      "num": 1598581,
+      "word": "王鹤棣 踹开说唱大门",
+      "onboard_time": 1701343656,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1595355,
@@ -921,14 +929,6 @@
       "onboard_time": 1701259538,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1228843,
-      "num": 1228843,
-      "word": "王鹤棣 踹开说唱大门",
-      "onboard_time": 1701343656,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1218270,
@@ -1363,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935647,
+      "num": 935647,
+      "word": "中学女生发型 鲶鱼须遮半张脸",
+      "onboard_time": 1701342873,
+      "rank": 48,
+      "category": "教育,美妆"
+    },
+    {
       "raw_hot": 934314,
       "num": 934314,
       "word": "太原地震",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1701064830,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 891083,
-      "num": 891083,
-      "word": "中学女生发型 鲶鱼须遮半张脸",
-      "onboard_time": 1701342873,
-      "rank": 48,
-      "category": "教育,美妆"
     },
     {
       "raw_hot": 890304,
@@ -3115,6 +3115,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 527275,
+      "num": 527275,
+      "word": "一念关山 AI换脸",
+      "onboard_time": 1701345215,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 524031,
       "num": 524031,
       "word": "赵丽颖 四月间事",
@@ -3427,6 +3435,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 488988,
+      "num": 488988,
+      "word": "星光大赏 门票",
+      "onboard_time": 1701346893,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486959,
       "num": 376773,
       "word": "杨幂复古丝绒绿裙",
@@ -3569,6 +3585,14 @@
       "onboard_time": 1700975014,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 474206,
+      "num": 474206,
+      "word": "张踩铃 是什么让一个女人只想搞钱",
+      "onboard_time": 1701346893,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 473739,
@@ -3721,6 +3745,14 @@
       "onboard_time": 1701010775,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 459189,
+      "num": 332250,
+      "word": "观鹤笔记官宣影视化",
+      "onboard_time": 1701347735,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 458694,
@@ -4083,14 +4115,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 422227,
-      "num": 422227,
-      "word": "一念关山 AI换脸",
-      "onboard_time": 1701345215,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 422001,
       "num": 422001,
       "word": "停止焦虑的办法是停止刷手机",
@@ -4153,14 +4177,6 @@
       "onboard_time": 1701062496,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 416446,
-      "num": 203598,
-      "word": "张踩铃 是什么让一个女人只想搞钱",
-      "onboard_time": 1701346893,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 415557,
@@ -4313,14 +4329,6 @@
       "onboard_time": 1701320977,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 404131,
-      "num": 404131,
-      "word": "星光大赏 门票",
-      "onboard_time": 1701346893,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 402830,
@@ -6571,6 +6579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 274164,
+      "num": 234680,
+      "word": "排队5天孩子呼吸道感染熬成肺炎",
+      "onboard_time": 1701347131,
+      "rank": 34,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 274151,
       "num": 274151,
       "word": "男子闯岳父家当4岁孩子面将妻子杀害",
@@ -7092,7 +7108,7 @@
     },
     {
       "raw_hot": 253775,
-      "num": 209585,
+      "num": 211769,
       "word": "张远 奶奶围裙",
       "onboard_time": 1701346113,
       "rank": 25,
@@ -7651,6 +7667,14 @@
       "category": "自然,教育"
     },
     {
+      "raw_hot": 236755,
+      "num": 234238,
+      "word": "真的到此为止了吗 菩萨",
+      "onboard_time": 1701347012,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236651,
       "num": 197713,
       "word": "十个勤天 阳光中的耕田少年",
@@ -7729,6 +7753,14 @@
       "onboard_time": 1701084516,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234198,
+      "num": 234198,
+      "word": "双鱼座其实是高级的猎手",
+      "onboard_time": 1701346714,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 233768,
@@ -8379,6 +8411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214346,
+      "num": 214346,
+      "word": "龚俊 皮靴短裤",
+      "onboard_time": 1701348213,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213949,
       "num": 1322295,
       "word": "鬼斧神工的大自然又出新作",
@@ -8587,14 +8627,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 208775,
-      "num": 203942,
-      "word": "双鱼座其实是高级的猎手",
-      "onboard_time": 1701346714,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208768,
       "num": 189991,
       "word": "白鹿给张凌赫王星越拉架好忙碌",
@@ -8769,6 +8801,14 @@
       "onboard_time": 1701326852,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204947,
+      "num": 204947,
+      "word": "Melo墨龙结婚",
+      "onboard_time": 1701347615,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 204904,
@@ -9209,6 +9249,14 @@
       "onboard_time": 1701096637,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198415,
+      "num": 234348,
+      "word": "极越01全系直降3万元",
+      "onboard_time": 1701347312,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 198264,
@@ -9665,14 +9713,6 @@
       "onboard_time": 1701005976,
       "rank": 43,
       "category": "剧集,时尚"
-    },
-    {
-      "raw_hot": 191988,
-      "num": 191988,
-      "word": "排队5天孩子呼吸道感染熬成肺炎",
-      "onboard_time": 1701347131,
-      "rank": 34,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 191986,
@@ -10169,14 +10209,6 @@
       "onboard_time": 1701226235,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184777,
-      "num": 184777,
-      "word": "真的到此为止了吗 菩萨",
-      "onboard_time": 1701347012,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 184536,
@@ -10993,14 +11025,6 @@
       "onboard_time": 1701343892,
       "rank": 41,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 167929,
-      "num": 167929,
-      "word": "极越01全系直降3万元",
-      "onboard_time": 1701347312,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 167897,
@@ -12707,14 +12731,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 124888,
-      "num": 124888,
-      "word": "Melo墨龙结婚",
-      "onboard_time": 1701347615,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124749,
       "num": 124749,
       "word": "佘诗曼最难忘的一场戏",
@@ -12793,6 +12809,14 @@
       "onboard_time": 1701069335,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123354,
+      "num": 235238,
+      "word": "极越 听劝",
+      "onboard_time": 1701347735,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 123330,
@@ -13388,7 +13412,7 @@
     },
     {
       "raw_hot": 82745,
-      "num": 1643959,
+      "num": 1827309,
       "word": "航拍绝美落羽杉林氛围感拉满",
       "onboard_time": 1701333934,
       "rank": 2,
