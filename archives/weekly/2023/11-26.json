@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701348567182,
+  "endTime": 1701350590041,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -291,6 +291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2049549,
+      "num": 1517248,
+      "word": "宋仲基 白袜半身裙",
+      "onboard_time": 1701349055,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2024484,
       "num": 2024484,
       "word": "昆明震感",
@@ -553,6 +561,14 @@
       "onboard_time": 1701183640,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1637923,
+      "num": 1637923,
+      "word": "江苏新增艾滋病例3584例",
+      "onboard_time": 1701348698,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1631448,
@@ -1251,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 983576,
+      "num": 834442,
+      "word": "白敬亭 低胸内搭",
+      "onboard_time": 1701349959,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 980818,
       "num": 980818,
       "word": "韩国公务员想升职得先生娃",
@@ -1523,6 +1547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 867612,
+      "num": 788909,
+      "word": "李龙馥 洋妞",
+      "onboard_time": 1701349055,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 865164,
       "num": 865164,
       "word": "杨鸣唐佳良离婚案12月开庭",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1701260258,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 772233,
+      "num": 772233,
+      "word": "一念关山 AI换脸",
+      "onboard_time": 1701345215,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 770893,
@@ -3115,14 +3155,6 @@
       "category": "社会新闻,游戏"
     },
     {
-      "raw_hot": 527275,
-      "num": 527275,
-      "word": "一念关山 AI换脸",
-      "onboard_time": 1701345215,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 524031,
       "num": 524031,
       "word": "赵丽颖 四月间事",
@@ -3771,6 +3803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455861,
+      "num": 455861,
+      "word": "时代少年团 葫芦娃",
+      "onboard_time": 1701349175,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 455803,
       "num": 451746,
       "word": "沈小婷 猫女",
@@ -3977,6 +4017,14 @@
       "onboard_time": 1701166658,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437544,
+      "num": 437544,
+      "word": "王一博星光大赏确认出席",
+      "onboard_time": 1701350074,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 436508,
@@ -5699,6 +5747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307629,
+      "num": 283237,
+      "word": "排队5天孩子呼吸道感染熬成肺炎",
+      "onboard_time": 1701347131,
+      "rank": 34,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 307055,
       "num": 257387,
       "word": "宋江回春",
@@ -5865,6 +5921,14 @@
       "onboard_time": 1701054814,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301849,
+      "num": 214346,
+      "word": "龚俊 皮靴短裤",
+      "onboard_time": 1701348213,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 301510,
@@ -6145,6 +6209,14 @@
       "onboard_time": 1701132035,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288168,
+      "num": 288168,
+      "word": "双鱼座其实是高级的猎手",
+      "onboard_time": 1701346714,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 287939,
@@ -6483,6 +6555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277497,
+      "num": 195744,
+      "word": "南海归墟海底捞出一袋豪车",
+      "onboard_time": 1701349898,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277266,
       "num": 277266,
       "word": "阿里市值重回电商一哥",
@@ -6577,14 +6657,6 @@
       "onboard_time": 1701220957,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 274164,
-      "num": 234680,
-      "word": "排队5天孩子呼吸道感染熬成肺炎",
-      "onboard_time": 1701347131,
-      "rank": 34,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 274151,
@@ -6903,6 +6975,14 @@
       "num": 261691,
       "word": "宁安如梦 表情乱飞",
       "onboard_time": 1701051572,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261269,
+      "num": 194686,
+      "word": "李莲花 江湖再见",
+      "onboard_time": 1701349658,
       "rank": 31,
       "category": "剧集"
     },
@@ -7755,14 +7835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234198,
-      "num": 234198,
-      "word": "双鱼座其实是高级的猎手",
-      "onboard_time": 1701346714,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 233768,
       "num": 233768,
       "word": "金泰妍迷你五辑to.X",
@@ -8409,14 +8481,6 @@
       "onboard_time": 1701093998,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214346,
-      "num": 214346,
-      "word": "龚俊 皮靴短裤",
-      "onboard_time": 1701348213,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213949,
@@ -10475,6 +10539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179880,
+      "num": 179880,
+      "word": "原来莫言对编制也有执念",
+      "onboard_time": 1701349594,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 179651,
       "num": 179651,
       "word": "小区名字的内在含义",
@@ -10635,6 +10707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175941,
+      "num": 155633,
+      "word": "我真服了周天后",
+      "onboard_time": 1701348575,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175884,
       "num": 175884,
       "word": "花少团因为流浪猫哭了",
@@ -10665,6 +10745,14 @@
       "onboard_time": 1701079056,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175473,
+      "num": 153853,
+      "word": "平野紫耀 港风帅哥",
+      "onboard_time": 1701350560,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 175401,
@@ -11257,6 +11345,14 @@
       "onboard_time": 1701237633,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162974,
+      "num": 162974,
+      "word": "奶奶去世爷爷紧紧蜷缩在旁边",
+      "onboard_time": 1701350258,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162973,
@@ -12812,7 +12908,7 @@
     },
     {
       "raw_hot": 123354,
-      "num": 235238,
+      "num": 456734,
       "word": "极越 听劝",
       "onboard_time": 1701347735,
       "rank": 20,
@@ -13811,6 +13907,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 53391,
+      "num": 459578,
+      "word": "棋盘格",
+      "onboard_time": 1701349233,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 53374,
       "num": 53374,
       "word": "特斯拉连撞11车当天刚上牌",
@@ -14091,6 +14195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25187,
+      "num": 162468,
+      "word": "国之重器背后的中国链",
+      "onboard_time": 1701350074,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24693,
       "num": 26992,
       "word": "Knight关注XUN",
@@ -14199,6 +14311,14 @@
       "num": 1085143,
       "word": "在数贸会现场遇见未来生活",
       "onboard_time": 1701142412,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5264,
+      "num": 1525475,
+      "word": "保护地球从身边小事做起",
+      "onboard_time": 1701350560,
       "rank": 2,
       "category": "社会新闻"
     }
