@@ -1,6 +1,6 @@
 {
   "startTime": 1701275071732,
-  "endTime": 1701326175326,
+  "endTime": 1701328594339,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -57,6 +57,14 @@
       "onboard_time": 1701309816,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1755306,
+      "num": 1755306,
+      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+      "onboard_time": 1701323194,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1654756,
@@ -171,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 836137,
-      "num": 836137,
-      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
-      "onboard_time": 1701323194,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 793080,
       "num": 793080,
       "word": "奔驰司机在车内离世后被发现",
@@ -211,8 +211,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 703090,
-      "num": 703090,
+      "raw_hot": 734953,
+      "num": 734953,
+      "word": "拼多多 工作制",
+      "onboard_time": 1701327755,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 709631,
+      "num": 709631,
       "word": "易中天称雷军捐13亿让他深感惭愧",
       "onboard_time": 1701323672,
       "rank": 5,
@@ -257,6 +265,22 @@
       "onboard_time": 1701323013,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632331,
+      "num": 632331,
+      "word": "LV香港大秀明星阵容",
+      "onboard_time": 1701326733,
+      "rank": 5,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 589815,
+      "num": 589815,
+      "word": "MAMA歧视女团惹争议",
+      "onboard_time": 1701328294,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 581602,
@@ -355,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 503896,
+      "num": 464435,
+      "word": "一念关山 嫂子文学",
+      "onboard_time": 1701327872,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485475,
       "num": 485475,
       "word": "很想很想你",
@@ -369,6 +401,14 @@
       "onboard_time": 1701297077,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 477244,
+      "num": 456006,
+      "word": "何蓝逗累了换我上去演会儿",
+      "onboard_time": 1701327572,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 473739,
@@ -715,12 +755,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 268442,
+      "num": 268442,
+      "word": "葱香拿铁",
+      "onboard_time": 1701326313,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 264475,
       "num": 264475,
       "word": "王鹤棣出发香港路透",
       "onboard_time": 1701313057,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264055,
+      "num": 264055,
+      "word": "渐冻症女警长29年改造1900多名罪犯",
+      "onboard_time": 1701325654,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261228,
@@ -835,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217407,
+      "num": 217407,
+      "word": "圣诞美甲",
+      "onboard_time": 1701326493,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 215679,
       "num": 215679,
       "word": "明星10秒祝福视频网上叫卖20万元",
@@ -875,12 +939,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205045,
+      "num": 205045,
+      "word": "鹿晗新歌是i人主打歌",
+      "onboard_time": 1701326852,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204904,
       "num": 204904,
       "word": "无意点开了高中手机里的计时器",
       "onboard_time": 1701320618,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204891,
+      "num": 204891,
+      "word": "迪丽热巴运镜",
+      "onboard_time": 1701326558,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 204772,
@@ -939,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195728,
+      "num": 195728,
+      "word": "AI扩图",
+      "onboard_time": 1701327933,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 194517,
       "num": 194517,
       "word": "孙颖莎反复练习英语好可爱",
@@ -947,20 +1035,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194332,
+      "num": 194332,
+      "word": "刘宇宁 每个人心里都有自己的宁远舟",
+      "onboard_time": 1701328232,
+      "rank": 35,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 194196,
       "num": 194196,
       "word": "湖人大胜活塞",
       "onboard_time": 1701313777,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193654,
-      "num": 211515,
-      "word": "渐冻症女警长29年改造1900多名罪犯",
-      "onboard_time": 1701325654,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193424,
@@ -977,6 +1065,14 @@
       "onboard_time": 1701323135,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192164,
+      "num": 192164,
+      "word": "魔卡少女樱 桃矢到底有多强",
+      "onboard_time": 1701327812,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 191317,
@@ -1155,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166250,
+      "num": 166250,
+      "word": "美甲易掉的原因",
+      "onboard_time": 1701328533,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 165748,
       "num": 165748,
       "word": "NANA小松奈奈生日",
@@ -1235,12 +1339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150156,
+      "num": 150156,
+      "word": "边牧是边牧 狗是狗",
+      "onboard_time": 1701328113,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146427,
       "num": 146427,
       "word": "李龙馥LV大秀",
       "onboard_time": 1701322958,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 145242,
+      "num": 145242,
+      "word": "孙千 鲜活美",
+      "onboard_time": 1701328414,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 139807,
@@ -1380,7 +1500,7 @@
     },
     {
       "raw_hot": 120869,
-      "num": 120869,
+      "num": 719631,
       "word": "12月这些新规施行",
       "onboard_time": 1701312936,
       "rank": 49,

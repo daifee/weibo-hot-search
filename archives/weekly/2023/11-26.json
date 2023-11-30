@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701326175326,
+  "endTime": 1701328594339,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -393,6 +393,14 @@
       "onboard_time": 1700992715,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1755306,
+      "num": 1755306,
+      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+      "onboard_time": 1701323194,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1749978,
@@ -1475,14 +1483,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 836137,
-      "num": 836137,
-      "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
-      "onboard_time": 1701323194,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 821819,
       "num": 821819,
       "word": "海南航空HU7175紧急备降广州",
@@ -1699,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734953,
+      "num": 734953,
+      "word": "拼多多 工作制",
+      "onboard_time": 1701327755,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 734732,
       "num": 734732,
       "word": "马来西亚将对中国游客免签",
@@ -1803,6 +1811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 709631,
+      "num": 709631,
+      "word": "易中天称雷军捐13亿让他深感惭愧",
+      "onboard_time": 1701323672,
+      "rank": 5,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 707897,
       "num": 580307,
       "word": "杨洋系个腰带吧",
@@ -1825,14 +1841,6 @@
       "onboard_time": 1700984612,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 703090,
-      "num": 703090,
-      "word": "易中天称雷军捐13亿让他深感惭愧",
-      "onboard_time": 1701323672,
-      "rank": 5,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 696400,
@@ -2187,6 +2195,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 632331,
+      "num": 632331,
+      "word": "LV香港大秀明星阵容",
+      "onboard_time": 1701326733,
+      "rank": 5,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 629876,
       "num": 629876,
       "word": "孙丞潇不让金莎看手机",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1701154353,
       "rank": 14,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 589815,
+      "num": 589815,
+      "word": "MAMA歧视女团惹争议",
+      "onboard_time": 1701328294,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 587547,
@@ -3051,6 +3075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 503896,
+      "num": 464435,
+      "word": "一念关山 嫂子文学",
+      "onboard_time": 1701327872,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503202,
       "num": 503202,
       "word": "JackeyLove再唱天后",
@@ -3273,6 +3305,14 @@
       "onboard_time": 1701219216,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 477244,
+      "num": 456006,
+      "word": "何蓝逗累了换我上去演会儿",
+      "onboard_time": 1701327572,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 476545,
@@ -6227,6 +6267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268442,
+      "num": 268442,
+      "word": "葱香拿铁",
+      "onboard_time": 1701326313,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 268284,
       "num": 268284,
       "word": "南部战区位中缅边境我方一侧演训画面",
@@ -6321,6 +6369,14 @@
       "onboard_time": 1701313057,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264055,
+      "num": 264055,
+      "word": "渐冻症女警长29年改造1900多名罪犯",
+      "onboard_time": 1701325654,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263322,
@@ -7731,6 +7787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217407,
+      "num": 217407,
+      "word": "圣诞美甲",
+      "onboard_time": 1701326493,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 216236,
       "num": 216236,
       "word": "有线电视终端默认应为开机进入全屏直播",
@@ -8147,12 +8211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205045,
+      "num": 205045,
+      "word": "鹿晗新歌是i人主打歌",
+      "onboard_time": 1701326852,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204904,
       "num": 204904,
       "word": "无意点开了高中手机里的计时器",
       "onboard_time": 1701320618,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204891,
+      "num": 204891,
+      "word": "迪丽热巴运镜",
+      "onboard_time": 1701326558,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 204772,
@@ -8707,6 +8787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195728,
+      "num": 195728,
+      "word": "AI扩图",
+      "onboard_time": 1701327933,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195586,
       "num": 195586,
       "word": "AG梦幻开门红",
@@ -8753,6 +8841,14 @@
       "onboard_time": 1701083853,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194332,
+      "num": 194332,
+      "word": "刘宇宁 每个人心里都有自己的宁远舟",
+      "onboard_time": 1701328232,
+      "rank": 35,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 194254,
@@ -8825,14 +8921,6 @@
       "onboard_time": 1701090817,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193654,
-      "num": 211515,
-      "word": "渐冻症女警长29年改造1900多名罪犯",
-      "onboard_time": 1701325654,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193597,
@@ -8953,6 +9041,14 @@
       "onboard_time": 1701144637,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192164,
+      "num": 192164,
+      "word": "魔卡少女樱 桃矢到底有多强",
+      "onboard_time": 1701327812,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 192095,
@@ -10259,6 +10355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166250,
+      "num": 166250,
+      "word": "美甲易掉的原因",
+      "onboard_time": 1701328533,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 165776,
       "num": 165776,
       "word": "梅西一家在迪士尼",
@@ -10939,6 +11043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150156,
+      "num": 150156,
+      "word": "边牧是边牧 狗是狗",
+      "onboard_time": 1701328113,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150127,
       "num": 150127,
       "word": "部分人的粉底色号都偏白了",
@@ -11145,6 +11257,14 @@
       "onboard_time": 1701078696,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145242,
+      "num": 145242,
+      "word": "孙千 鲜活美",
+      "onboard_time": 1701328414,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 145089,
@@ -11892,7 +12012,7 @@
     },
     {
       "raw_hot": 120869,
-      "num": 120869,
+      "num": 719631,
       "word": "12月这些新规施行",
       "onboard_time": 1701312936,
       "rank": 49,

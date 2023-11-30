@@ -1,0 +1,410 @@
+{
+  "runTime": 1701328594339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1755306,
+        "num": 1755306,
+        "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+        "onboard_time": 1701323194,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734953,
+        "num": 734953,
+        "word": "拼多多 工作制",
+        "onboard_time": 1701327755,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49089,
+        "num": 719631,
+        "word": "12月这些新规施行",
+        "onboard_time": 1701312936,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1483725,
+        "num": 715931,
+        "word": "菲律宾警方确认被绑6名中国人4人被撕票",
+        "onboard_time": 1701322536,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709631,
+        "num": 709631,
+        "word": "易中天称雷军捐13亿让他深感惭愧",
+        "onboard_time": 1701323672,
+        "rank": 4,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 632331,
+        "num": 632331,
+        "word": "LV香港大秀明星阵容",
+        "onboard_time": 1701326733,
+        "rank": 5,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 605935,
+        "num": 605935,
+        "word": "如果霍建华饰演一念关山",
+        "onboard_time": 1701318034,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589815,
+        "num": 589815,
+        "word": "MAMA歧视女团惹争议",
+        "onboard_time": 1701328294,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 509368,
+        "num": 509368,
+        "word": "无法代入新闻女王的理由",
+        "onboard_time": 1701322958,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496528,
+        "num": 496528,
+        "word": "空腹16小时启动自噬功能",
+        "onboard_time": 1701314137,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1127189,
+        "num": 489541,
+        "word": "15岁女生被同学奸杀案二审维持原判",
+        "onboard_time": 1701315515,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586407,
+        "num": 479004,
+        "word": "阿里献血",
+        "onboard_time": 1701323013,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543348,
+        "num": 470183,
+        "word": "25岁女子被丈夫割喉父亲发声",
+        "onboard_time": 1701309758,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503896,
+        "num": 464435,
+        "word": "一念关山 嫂子文学",
+        "onboard_time": 1701327872,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456289,
+        "num": 456289,
+        "word": "酱园弄女二 杨幂",
+        "onboard_time": 1701315276,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 477244,
+        "num": 456006,
+        "word": "何蓝逗累了换我上去演会儿",
+        "onboard_time": 1701327572,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413176,
+        "num": 413176,
+        "word": "唐佳良 杨鸣",
+        "onboard_time": 1701315214,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354164,
+        "num": 354164,
+        "word": "JDG官宣369离队",
+        "onboard_time": 1701325054,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 318220,
+        "num": 318220,
+        "word": "曝羽生结弦妻子遭婆婆无视",
+        "onboard_time": 1701309638,
+        "rank": 18,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 314023,
+        "num": 314023,
+        "word": "基辛格逝世",
+        "onboard_time": 1701309274,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320237,
+        "num": 312865,
+        "word": "男子住88元酒店后打包带走150元被子",
+        "onboard_time": 1701324757,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320161,
+        "num": 309682,
+        "word": "老头强暴自己孙女致其怀孕系谣言",
+        "onboard_time": 1701311615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304049,
+        "num": 304049,
+        "word": "辛芷蕾起床姿势好真实",
+        "onboard_time": 1701314855,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289703,
+        "num": 289703,
+        "word": "马精武去世",
+        "onboard_time": 1701321759,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 289266,
+        "num": 289266,
+        "word": "领工资时被要求说谢谢",
+        "onboard_time": 1701324634,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275324,
+        "num": 275324,
+        "word": "杨鸣",
+        "onboard_time": 1701301049,
+        "rank": 25,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 268442,
+        "num": 268442,
+        "word": "葱香拿铁",
+        "onboard_time": 1701326313,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264055,
+        "num": 264055,
+        "word": "渐冻症女警长29年改造1900多名罪犯",
+        "onboard_time": 1701325654,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250449,
+        "num": 250449,
+        "word": "杨紫 小甜嗓",
+        "onboard_time": 1701320197,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219661,
+        "num": 219661,
+        "word": "魅族发布会",
+        "onboard_time": 1701325299,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217407,
+        "num": 217407,
+        "word": "圣诞美甲",
+        "onboard_time": 1701326493,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205045,
+        "num": 205045,
+        "word": "鹿晗新歌是i人主打歌",
+        "onboard_time": 1701326852,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204891,
+        "num": 204891,
+        "word": "迪丽热巴运镜",
+        "onboard_time": 1701326558,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199947,
+        "num": 199947,
+        "word": "羽绒服这样洗真的很干净",
+        "onboard_time": 1701322656,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 195728,
+        "num": 195728,
+        "word": "AI扩图",
+        "onboard_time": 1701327933,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194332,
+        "num": 194332,
+        "word": "刘宇宁 每个人心里都有自己的宁远舟",
+        "onboard_time": 1701328232,
+        "rank": 35,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 192164,
+        "num": 192164,
+        "word": "魔卡少女樱 桃矢到底有多强",
+        "onboard_time": 1701327812,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177811,
+        "num": 177811,
+        "word": "白鹿虞书欣赵露思都有跨年晚会",
+        "onboard_time": 1701321275,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175095,
+        "num": 175095,
+        "word": "奔驰司机在车内离世后被发现",
+        "onboard_time": 1701313655,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166250,
+        "num": 166250,
+        "word": "美甲易掉的原因",
+        "onboard_time": 1701328533,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162057,
+        "num": 162057,
+        "word": "王一珩妈妈是资深禾伙人",
+        "onboard_time": 1701325833,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156435,
+        "num": 156435,
+        "word": "记账后明白为什么有人做假账",
+        "onboard_time": 1701321996,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153639,
+        "num": 153639,
+        "word": "吴艳妮 变美秘诀是化妆和减肥",
+        "onboard_time": 1701316475,
+        "rank": 42,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 150156,
+        "num": 150156,
+        "word": "边牧是边牧 狗是狗",
+        "onboard_time": 1701328113,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145242,
+        "num": 145242,
+        "word": "孙千 鲜活美",
+        "onboard_time": 1701328414,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144631,
+        "num": 144631,
+        "word": "KT官宣Beryl加入",
+        "onboard_time": 1701320977,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144183,
+        "num": 144183,
+        "word": "一念关山 正常",
+        "onboard_time": 1701315815,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141025,
+        "num": 141025,
+        "word": "iPhone16显示屏及尺寸曝光",
+        "onboard_time": 1701305856,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135589,
+        "num": 135589,
+        "word": "广东佛山有口拳头大的迷你水井",
+        "onboard_time": 1701325416,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134271,
+        "num": 134271,
+        "word": "读研后完全改变了人生目标",
+        "onboard_time": 1701315695,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在上海市考察调研#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 14:36:15
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 15:16:34
 </p>
 </blockquote>
 <p>
@@ -2189,6 +2189,12 @@ T1拿到决赛赛点（热度：1835312）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E4%BE%9D%E9%9C%96%E5%9B%9E%E5%BA%94%E8%80%81%E5%85%AC%E9%87%8D%E7%97%87%E8%82%8C%E6%97%A0%E5%8A%9B%23" target="weibo">
 谢依霖回应老公重症肌无力（热度：1758920）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6%23" target="weibo">
+海底捞跳科目三有顾客嫌吵起冲突报警（热度：1755306）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Xiaohu尽力了（热度：976623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A%23" target="weibo">
 VOGUE时尚之力盛会（热度：961000）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E7%9A%84%E6%88%91%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%AE%89%E9%99%B5%E5%AE%B9%23" target="weibo">
-周一的我被确诊为安陵容（热度：960114）
 </a>
 </li>
 
