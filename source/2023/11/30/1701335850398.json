@@ -1,0 +1,410 @@
+{
+  "runTime": 1701335850398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2376145,
+        "num": 2376145,
+        "word": "爷爷过世请不出丧假小伙遭亲戚埋怨",
+        "onboard_time": 1701331773,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1805327,
+        "num": 1805327,
+        "word": "杨鸣被曝离婚",
+        "onboard_time": 1701332375,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62683,
+        "num": 967189,
+        "word": "航拍绝美落羽杉林氛围感拉满",
+        "onboard_time": 1701333934,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725861,
+        "num": 725861,
+        "word": "老师 我们家子涵",
+        "onboard_time": 1701333996,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 679137,
+        "num": 679137,
+        "word": "一念关山 智商被尊重的感觉",
+        "onboard_time": 1701329614,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 675993,
+        "num": 675993,
+        "word": "李菲儿说这辈子不喝咖啡了",
+        "onboard_time": 1701329071,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624929,
+        "num": 624929,
+        "word": "顾客住酒店发现有艾滋病治疗药物",
+        "onboard_time": 1701333757,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572966,
+        "num": 572966,
+        "word": "韩国公务员想升职得先生娃",
+        "onboard_time": 1701329432,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563109,
+        "num": 563109,
+        "word": "魅族21价格",
+        "onboard_time": 1701334415,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 514236,
+        "num": 514236,
+        "word": "王蓉外网仿妆",
+        "onboard_time": 1701329614,
+        "rank": 9,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 927690,
+        "num": 475842,
+        "word": "高圆圆亲赵又廷尴尬的是姚晨",
+        "onboard_time": 1701333455,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 684532,
+        "num": 456870,
+        "word": "应公布阿里公务员献血事件小姑姑身份",
+        "onboard_time": 1701330813,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429916,
+        "num": 429916,
+        "word": "TheShy获2023年度最受欢迎选手",
+        "onboard_time": 1701332073,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 418605,
+        "num": 418605,
+        "word": "皮肤黄 糖化",
+        "onboard_time": 1701329494,
+        "rank": 13,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 416863,
+        "num": 416863,
+        "word": "一县城临聘人员工资已超全县总税收",
+        "onboard_time": 1701334116,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397307,
+        "num": 397307,
+        "word": "南极偶遇张译",
+        "onboard_time": 1701330877,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376411,
+        "num": 376411,
+        "word": "热巴 不值得一提的事",
+        "onboard_time": 1701329614,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372002,
+        "num": 372002,
+        "word": "狐厂 张凌赫归来仍是待爆",
+        "onboard_time": 1701329071,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371750,
+        "num": 371750,
+        "word": "唐佳良 杨鸣",
+        "onboard_time": 1701315214,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339713,
+        "num": 339713,
+        "word": "大四男生给学校捐了20万",
+        "onboard_time": 1701332796,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311176,
+        "num": 311176,
+        "word": "伊能静 秦昊发嗲肯定是抽风",
+        "onboard_time": 1701334957,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303867,
+        "num": 303867,
+        "word": "海底捞跳科目三有顾客嫌吵起冲突报警",
+        "onboard_time": 1701323194,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292871,
+        "num": 292871,
+        "word": "一念关山 嫂子文学",
+        "onboard_time": 1701327872,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292848,
+        "num": 292848,
+        "word": "内娱甘露寺比甄嬛传更刺激",
+        "onboard_time": 1701333275,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286492,
+        "num": 286492,
+        "word": "原来孕晚期也可以健身",
+        "onboard_time": 1701332796,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 269067,
+        "num": 269067,
+        "word": "aespa 公司年会",
+        "onboard_time": 1701332134,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261079,
+        "num": 261079,
+        "word": "长沙辣条宴席",
+        "onboard_time": 1701335315,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254365,
+        "num": 254365,
+        "word": "妈妈只是上厕所去了",
+        "onboard_time": 1701335133,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247005,
+        "num": 247005,
+        "word": "老头强暴自己孙女致其怀孕系谣言",
+        "onboard_time": 1701311615,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125741,
+        "num": 242143,
+        "word": "渐冻症女警长29年改造1900多名罪犯",
+        "onboard_time": 1701325654,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238273,
+        "num": 238273,
+        "word": "宝马奔驰将在中国设立合资公司",
+        "onboard_time": 1701332193,
+        "rank": 30,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 224456,
+        "num": 224456,
+        "word": "如果霍建华饰演一念关山",
+        "onboard_time": 1701318034,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223779,
+        "num": 223779,
+        "word": "杨鸣",
+        "onboard_time": 1701301049,
+        "rank": 32,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 216819,
+        "num": 216819,
+        "word": "何蓝逗累了换我上去演会儿",
+        "onboard_time": 1701327572,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210428,
+        "num": 210428,
+        "word": "自从不买贵的之后",
+        "onboard_time": 1701335796,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 200951,
+        "num": 200951,
+        "word": "原来真的会有人喜欢上班",
+        "onboard_time": 1701335496,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197884,
+        "num": 197884,
+        "word": "杨幂上挑眼线",
+        "onboard_time": 1701334296,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 179064,
+        "num": 179064,
+        "word": "自助糖水铺大批量倒闭",
+        "onboard_time": 1701335614,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172127,
+        "num": 172127,
+        "word": "支原体肺炎有多难受",
+        "onboard_time": 1701330993,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159906,
+        "num": 159906,
+        "word": "MAMA歧视女团惹争议",
+        "onboard_time": 1701328294,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151718,
+        "num": 151718,
+        "word": "LV香港大秀明星阵容",
+        "onboard_time": 1701326733,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141181,
+        "num": 141181,
+        "word": "怒海 剔骨还父的哪吒",
+        "onboard_time": 1701333757,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297212,
+        "num": 140817,
+        "word": "15岁女生被同学奸杀案二审维持原判",
+        "onboard_time": 1701315515,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140422,
+        "num": 140422,
+        "word": "朱丹被骗案 判决书",
+        "onboard_time": 1701335796,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 140185,
+        "num": 140185,
+        "word": "酱园弄女二 杨幂",
+        "onboard_time": 1701315276,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123462,
+        "num": 123462,
+        "word": "家妍原型 曾志伟",
+        "onboard_time": 1701334834,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122410,
+        "num": 122410,
+        "word": "空腹16小时启动自噬功能",
+        "onboard_time": 1701314137,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120924,
+        "num": 120924,
+        "word": "基辛格逝世",
+        "onboard_time": 1701309274,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119321,
+        "num": 119321,
+        "word": "宋雨琦姐系裸妆",
+        "onboard_time": 1701332915,
+        "rank": 48,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 118469,
+        "num": 118469,
+        "word": "王鹤棣被动下线",
+        "onboard_time": 1701329251,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记到上海考察释放重要信号#"
+    }
+  }
+}

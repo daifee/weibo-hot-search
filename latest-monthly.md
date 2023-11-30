@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 16:35:42
+本榜单时间：2023/11/01 00:23:00 ~ 2023/11/30 17:17:30
 </p>
 </blockquote>
 <p>
@@ -1059,6 +1059,12 @@ GEN对战BLG（热度：2392638）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E8%BF%87%E4%B8%96%E8%AF%B7%E4%B8%8D%E5%87%BA%E4%B8%A7%E5%81%87%E5%B0%8F%E4%BC%99%E9%81%AD%E4%BA%B2%E6%88%9A%E5%9F%8B%E6%80%A8%23" target="weibo">
+爷爷过世请不出丧假小伙遭亲戚埋怨（热度：2376145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E7%BC%96%E5%89%A7%E5%9B%9E%E5%BA%94%23" target="weibo">
 我本是高山编剧回应（热度：2372278）
 </a>
@@ -2081,6 +2087,12 @@ T1拿到决赛赛点（热度：1835312）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%E6%9C%89%E9%A1%BE%E5%AE%A2%E5%AB%8C%E5%90%B5%E8%B5%B7%E5%86%B2%E7%AA%81%E6%8A%A5%E8%AD%A6%23" target="weibo">
 海底捞跳科目三有顾客嫌吵起冲突报警（热度：1805494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23" target="weibo">
+杨鸣被曝离婚（热度：1805327）
 </a>
 </li>
 
@@ -4851,12 +4863,6 @@ iG官宣新阵容（热度：1158154）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A2%AB%E6%9B%9D%E7%A6%BB%E5%A9%9A%23" target="weibo">
-杨鸣被曝离婚（热度：1130782）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%9C%A8%E6%B2%B3%E5%8D%97%E5%86%BB%E6%88%90%E4%BA%86%E7%8E%8B%E5%BF%83%E6%B7%A9%23" target="weibo">
 王心凌在河南冻成了王心淩（热度：1130227）
 </a>
@@ -6005,12 +6011,6 @@ Xiaohu尽力了（热度：976623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E7%94%9F%E6%B0%94%E4%BC%9A%E5%92%8C%E6%9C%8B%E5%8F%8B%E6%89%93%E5%8D%81%E5%87%A0%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%23" target="weibo">
 宋轶生气会和朋友打十几小时电话（热度：965883）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%92%AC%E4%BC%A410%E5%B2%81%E7%94%B7%E7%AB%A5%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E7%8A%AC%E5%B7%B2%E8%A2%AB%E6%89%93%E6%AD%BB%23" target="weibo">
-咬伤10岁男童阿拉斯加犬已被打死（热度：964205）
 </a>
 </li>
 
