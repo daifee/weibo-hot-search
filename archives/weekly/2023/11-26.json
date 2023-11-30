@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701351362355,
+  "endTime": 1701353819808,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -57,6 +57,14 @@
       "onboard_time": 1701212963,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2960513,
+      "num": 2960513,
+      "word": "上海独生女继承2亿遗产后被离婚",
+      "onboard_time": 1701351038,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2958727,
@@ -211,6 +219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2252651,
+      "num": 1517248,
+      "word": "宋仲基 白袜半身裙",
+      "onboard_time": 1701349055,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2232577,
       "num": 2232577,
       "word": "申论",
@@ -233,14 +249,6 @@
       "onboard_time": 1701088115,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2193537,
-      "num": 1517248,
-      "word": "宋仲基 白袜半身裙",
-      "onboard_time": 1701349055,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2186740,
@@ -1331,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 962907,
+      "num": 962907,
+      "word": "LV不管饭吗",
+      "onboard_time": 1701352121,
+      "rank": 7,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 961207,
       "num": 961207,
       "word": "官方回应阿里西藏全区公务员为一人献血",
@@ -1747,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786185,
+      "num": 786185,
+      "word": "声生不息官宣定档",
+      "onboard_time": 1701352121,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 785846,
       "num": 785846,
       "word": "张踩铃 我家外国人真的不懂忌讳",
@@ -2057,6 +2081,14 @@
       "onboard_time": 1701085357,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690316,
+      "num": 690316,
+      "word": "重庆地铁偶遇张艺兴",
+      "onboard_time": 1701351100,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 688413,
@@ -3171,6 +3203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 521669,
+      "num": 642029,
+      "word": "西藏车祸女子父亲发声",
+      "onboard_time": 1701351337,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520184,
       "num": 417305,
       "word": "滴滴派发补偿券",
@@ -4155,6 +4195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 424476,
+      "num": 351463,
+      "word": "檀健次 台词",
+      "onboard_time": 1701352837,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422995,
       "num": 422995,
       "word": "MAMA获奖总名单",
@@ -4208,6 +4256,14 @@
       "word": "treasure在MAMA红毯上滑步",
       "onboard_time": 1701162873,
       "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 417982,
+      "num": 334792,
+      "word": "朱一龙宋仲基李龙馥同框",
+      "onboard_time": 1701351222,
+      "rank": 41,
       "category": "作品衍生,时尚"
     },
     {
@@ -4771,6 +4827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370421,
+      "num": 370421,
+      "word": "奶奶去世爷爷紧紧蜷缩在旁边",
+      "onboard_time": 1701350258,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370371,
       "num": 321032,
       "word": "迪丽热巴高颅顶发箍",
@@ -5147,14 +5211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 344037,
-      "num": 344037,
-      "word": "上海独生女继承2亿遗产后被离婚",
-      "onboard_time": 1701351038,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343506,
       "num": 343506,
       "word": "何猷君奚梦瑶 爱的具象化",
@@ -5257,14 +5313,6 @@
       "onboard_time": 1701219096,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336067,
-      "num": 336067,
-      "word": "奶奶去世爷爷紧紧蜷缩在旁边",
-      "onboard_time": 1701350258,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335465,
@@ -6345,14 +6393,6 @@
       "onboard_time": 1700954784,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284745,
-      "num": 215146,
-      "word": "重庆地铁偶遇张艺兴",
-      "onboard_time": 1701351100,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 284461,
@@ -7723,6 +7763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239026,
+      "num": 182406,
+      "word": "seventeen队长在和不在的区别",
+      "onboard_time": 1701352121,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 238693,
       "num": 238693,
       "word": "涵艺爆料Tangyuan加入BLG",
@@ -7825,6 +7873,14 @@
       "onboard_time": 1701239436,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235192,
+      "num": 181737,
+      "word": "刘耀文镜头感",
+      "onboard_time": 1701352719,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 235124,
@@ -8107,6 +8163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226693,
+      "num": 184915,
+      "word": "把考公真题误发给领导",
+      "onboard_time": 1701352837,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 226420,
       "num": 280558,
       "word": "美嘉仿妆",
@@ -8187,6 +8251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223561,
+      "num": 162443,
+      "word": "黄明昊 清爽男大",
+      "onboard_time": 1701351399,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223511,
       "num": 1161316,
       "word": "医生跪姿托举19分钟抢救产妇和胎儿",
@@ -8265,6 +8337,14 @@
       "onboard_time": 1700959171,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 220931,
+      "num": 160369,
+      "word": "张凌赫告别谢危",
+      "onboard_time": 1701352237,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 220889,
@@ -9425,14 +9505,6 @@
       "onboard_time": 1701068430,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197021,
-      "num": 174103,
-      "word": "朱一龙宋仲基李龙馥同框",
-      "onboard_time": 1701351222,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196968,
@@ -11811,6 +11883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154088,
+      "num": 154088,
+      "word": "信雅达董事长二女儿是Pika创始人",
+      "onboard_time": 1701353566,
+      "rank": 45,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 153952,
       "num": 153952,
       "word": "这个杀手有点儿萌",
@@ -13131,14 +13211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110597,
-      "num": 134867,
-      "word": "西藏车祸女子父亲发声",
-      "onboard_time": 1701351337,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109853,
       "num": 109853,
       "word": "你支持大学对公众开放吗",
@@ -13441,6 +13513,14 @@
       "onboard_time": 1700923428,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91198,
+      "num": 98878,
+      "word": "WB战胜IMP",
+      "onboard_time": 1701353800,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 90904,
@@ -14035,6 +14115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47096,
+      "num": 1525475,
+      "word": "保护地球从身边小事做起",
+      "onboard_time": 1701350560,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46357,
       "num": 435261,
       "word": "原神 赛诺神里绫人复刻",
@@ -14259,14 +14347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23386,
-      "num": 1525475,
-      "word": "保护地球从身边小事做起",
-      "onboard_time": 1701350560,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20998,
       "num": 24371,
       "word": "当抚慰犬看到主人狂吃披萨时",
@@ -14405,6 +14485,9 @@
     },
     {
       "word": "#中国将继续主持公道正义积极劝和促谈#"
+    },
+    {
+      "word": "#推动长三角一体化发展取得新的重大突破#"
     }
   ]
 }
