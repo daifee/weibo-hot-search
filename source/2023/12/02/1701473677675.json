@@ -1,0 +1,410 @@
+{
+  "runTime": 1701473677675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1012873,
+        "num": 1012873,
+        "word": "中国气象局发布大地磁暴预警",
+        "onboard_time": 1701438157,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792743,
+        "num": 792743,
+        "word": "胖东来员工不想上班请假不允许不批假",
+        "onboard_time": 1701440737,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38958,
+        "num": 690815,
+        "word": "民警反诈劝阻真实现场",
+        "onboard_time": 1701436776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632992,
+        "num": 632992,
+        "word": "北京极光",
+        "onboard_time": 1701436115,
+        "rank": 3,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 535737,
+        "num": 535737,
+        "word": "小伙熬夜打游戏关节长千颗白色颗粒",
+        "onboard_time": 1701459974,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521510,
+        "num": 521510,
+        "word": "杨鸣曾数次起诉离婚",
+        "onboard_time": 1701472460,
+        "rank": 5,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 274307,
+        "num": 274307,
+        "word": "芒市地震",
+        "onboard_time": 1701472341,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259093,
+        "num": 259093,
+        "word": "村民称全村土地费存银行后不翼而飞",
+        "onboard_time": 1701472822,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246373,
+        "num": 246373,
+        "word": "张纪中曝光前妻隐私被判罚2万",
+        "onboard_time": 1701473244,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215224,
+        "num": 215224,
+        "word": "脱轨",
+        "onboard_time": 1701444215,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205320,
+        "num": 205320,
+        "word": "陈志朋自我定位 顶流",
+        "onboard_time": 1701470178,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 200222,
+        "num": 200222,
+        "word": "唐嫣cos狂飙大嫂",
+        "onboard_time": 1701430534,
+        "rank": 11,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 199454,
+        "num": 199454,
+        "word": "小猫吃公司20根虫草主人含泪赔2千",
+        "onboard_time": 1701436537,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186259,
+        "num": 186259,
+        "word": "肖战长发背头",
+        "onboard_time": 1701455417,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159027,
+        "num": 159027,
+        "word": "甘肃酒泉地震",
+        "onboard_time": 1701443258,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149238,
+        "num": 149238,
+        "word": "甘肃发现超亿吨级整装大油田",
+        "onboard_time": 1701440079,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136034,
+        "num": 136034,
+        "word": "怎么查自己名下有几张电话卡",
+        "onboard_time": 1701464354,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125048,
+        "num": 125048,
+        "word": "生鲜灯叫停后商家希望统一用灯",
+        "onboard_time": 1701467774,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107408,
+        "num": 107408,
+        "word": "熬夜时身体在经历炎症风暴",
+        "onboard_time": 1701449725,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100968,
+        "num": 100968,
+        "word": "女子提醒夫妻关远光灯被打致流产",
+        "onboard_time": 1701416557,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243822,
+        "num": 100444,
+        "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+        "onboard_time": 1701437256,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95747,
+        "num": 95747,
+        "word": "苏有朋工牌 我看我快要翘辫子了",
+        "onboard_time": 1701471019,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94017,
+        "num": 94017,
+        "word": "许嵩近期状态",
+        "onboard_time": 1701443979,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87340,
+        "num": 87340,
+        "word": "很想很想你男女主终于相认了",
+        "onboard_time": 1701455716,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82307,
+        "num": 82307,
+        "word": "秦昊 苏醒是已淘汰男团成员",
+        "onboard_time": 1701451163,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79801,
+        "num": 79801,
+        "word": "五年后才看到口红上的刻字",
+        "onboard_time": 1701426638,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76322,
+        "num": 76322,
+        "word": "东北多地惊现极光",
+        "onboard_time": 1701466994,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72581,
+        "num": 72581,
+        "word": "刘宇宁自己挨打还得自己唱歌",
+        "onboard_time": 1701471739,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72466,
+        "num": 72466,
+        "word": "黄河要告别地上河了吗",
+        "onboard_time": 1701444159,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 71230,
+        "num": 71230,
+        "word": "秦岚旗袍 辛芷蕾东北大花",
+        "onboard_time": 1701438940,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79970,
+        "num": 71215,
+        "word": "肯德基推出炸鸡味香水",
+        "onboard_time": 1701473002,
+        "rank": 30,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 70913,
+        "num": 70913,
+        "word": "女朋友越处越像小朋友了",
+        "onboard_time": 1701426638,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66560,
+        "num": 66560,
+        "word": "黄智雯宣布离巢TVB",
+        "onboard_time": 1701439657,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64935,
+        "num": 64935,
+        "word": "苹果型身材有福了",
+        "onboard_time": 1701457814,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 62701,
+        "num": 62701,
+        "word": "王鹤棣 纹身",
+        "onboard_time": 1701416075,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62057,
+        "num": 62057,
+        "word": "跳尊巴减肥",
+        "onboard_time": 1701451641,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 57520,
+        "num": 57520,
+        "word": "让你仿妆没让你把本人请过来",
+        "onboard_time": 1701450443,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 56860,
+        "num": 56860,
+        "word": "沈腾说唐嫣那么不方便也走了",
+        "onboard_time": 1701436832,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53330,
+        "num": 53330,
+        "word": "地磁暴",
+        "onboard_time": 1701437797,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52500,
+        "num": 52500,
+        "word": "中S和汪大菲",
+        "onboard_time": 1701421954,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51149,
+        "num": 51149,
+        "word": "声生不息家年华阵容",
+        "onboard_time": 1701443436,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50651,
+        "num": 50651,
+        "word": "梨泰院纪录片 中国街道",
+        "onboard_time": 1701425256,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50521,
+        "num": 50521,
+        "word": "BLG对战GEN",
+        "onboard_time": 1701441818,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50071,
+        "num": 50071,
+        "word": "陈楚生夺冠后最开心的是苏醒",
+        "onboard_time": 1701445476,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49773,
+        "num": 49773,
+        "word": "知识以一种侮辱的方式进入了大脑",
+        "onboard_time": 1701442299,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46326,
+        "num": 46326,
+        "word": "杨紫虞书欣看刘亦菲的眼神",
+        "onboard_time": 1701422616,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43706,
+        "num": 43706,
+        "word": "易烊千玺vlog i人常态",
+        "onboard_time": 1701426693,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43038,
+        "num": 43038,
+        "word": "王鹤棣看秀待遇",
+        "onboard_time": 1701452660,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41063,
+        "num": 41063,
+        "word": "宁远舟 另类疯批男主",
+        "onboard_time": 1701445712,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40550,
+        "num": 40550,
+        "word": "频繁涂抹润唇膏或引发唇炎",
+        "onboard_time": 1701444514,
+        "rank": 49,
+        "category": "健康医疗,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续促进贸易和投资自由化便利化#"
+    }
+  }
+}

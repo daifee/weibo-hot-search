@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701472678736,
+  "endTime": 1701473677675,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -11,19 +11,19 @@
       "category": "自然"
     },
     {
+      "raw_hot": 1012873,
+      "num": 1012873,
+      "word": "中国气象局发布大地磁暴预警",
+      "onboard_time": 1701438157,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962840,
       "num": 962840,
       "word": "胖东来员工不想上班请假不允许不批假",
       "onboard_time": 1701440737,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 931907,
-      "num": 931907,
-      "word": "中国气象局发布大地磁暴预警",
-      "onboard_time": 1701438157,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -51,20 +51,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 535737,
+      "num": 535737,
+      "word": "小伙熬夜打游戏关节长千颗白色颗粒",
+      "onboard_time": 1701459974,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521510,
+      "num": 521510,
+      "word": "杨鸣曾数次起诉离婚",
+      "onboard_time": 1701472460,
+      "rank": 30,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 494760,
       "num": 494760,
       "word": "许嵩近期状态",
       "onboard_time": 1701443979,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428730,
-      "num": 428730,
-      "word": "小伙熬夜打游戏关节长千颗白色颗粒",
-      "onboard_time": 1701459974,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419722,
@@ -123,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274307,
+      "num": 274307,
+      "word": "芒市地震",
+      "onboard_time": 1701472341,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259093,
+      "num": 259093,
+      "word": "村民称全村土地费存银行后不翼而飞",
+      "onboard_time": 1701472822,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251955,
       "num": 251955,
       "word": "陈楚生夺冠后最开心的是苏醒",
@@ -147,6 +171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246373,
+      "num": 246373,
+      "word": "张纪中曝光前妻隐私被判罚2万",
+      "onboard_time": 1701473244,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243822,
+      "num": 184663,
+      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+      "onboard_time": 1701437256,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215701,
       "num": 215701,
       "word": "与恶魔有约",
@@ -155,20 +195,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212785,
-      "num": 184663,
-      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
-      "onboard_time": 1701437256,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207511,
       "num": 207511,
       "word": "女子提醒夫妻关远光灯被打致流产",
       "onboard_time": 1701416557,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205320,
+      "num": 205320,
+      "word": "陈志朋自我定位 顶流",
+      "onboard_time": 1701470178,
+      "rank": 5,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 200791,
@@ -195,12 +235,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 191529,
-      "num": 191529,
-      "word": "陈志朋自我定位 顶流",
-      "onboard_time": 1701470178,
-      "rank": 5,
-      "category": "艺人,社会新闻"
+      "raw_hot": 186259,
+      "num": 186259,
+      "word": "肖战长发背头",
+      "onboard_time": 1701455417,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186112,
@@ -241,14 +281,6 @@
       "onboard_time": 1701464354,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155585,
-      "num": 142225,
-      "word": "肖战长发背头",
-      "onboard_time": 1701455417,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 155502,
@@ -387,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95747,
+      "num": 95747,
+      "word": "苏有朋工牌 我看我快要翘辫子了",
+      "onboard_time": 1701471019,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95440,
       "num": 95440,
       "word": "CBA",
@@ -435,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87340,
+      "num": 87340,
+      "word": "很想很想你男女主终于相认了",
+      "onboard_time": 1701455716,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86768,
       "num": 86768,
       "word": "假睫毛贴在真睫毛上方",
@@ -451,20 +499,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 83690,
-      "num": 83690,
-      "word": "芒市地震",
-      "onboard_time": 1701472341,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 82307,
+      "num": 82307,
+      "word": "秦昊 苏醒是已淘汰男团成员",
+      "onboard_time": 1701451163,
+      "rank": 26,
+      "category": "综艺"
     },
     {
-      "raw_hot": 79711,
-      "num": 58945,
-      "word": "杨鸣曾数次起诉离婚",
-      "onboard_time": 1701472460,
+      "raw_hot": 79970,
+      "num": 71215,
+      "word": "肯德基推出炸鸡味香水",
+      "onboard_time": 1701473002,
       "rank": 30,
-      "category": "体育,社会新闻"
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 77822,
@@ -475,14 +523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 77630,
-      "num": 77630,
-      "word": "苏有朋工牌 我看我快要翘辫子了",
-      "onboard_time": 1701471019,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 73539,
       "num": 83626,
       "word": "梨泰院踩踏事故 纪录片",
@@ -491,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69644,
-      "num": 69644,
-      "word": "秦昊 苏醒是已淘汰男团成员",
-      "onboard_time": 1701451163,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 72581,
+      "num": 72581,
+      "word": "刘宇宁自己挨打还得自己唱歌",
+      "onboard_time": 1701471739,
+      "rank": 31,
+      "category": "剧集"
     },
     {
-      "raw_hot": 69553,
-      "num": 69553,
-      "word": "很想很想你男女主终于相认了",
-      "onboard_time": 1701455716,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 64935,
+      "num": 64935,
+      "word": "苹果型身材有福了",
+      "onboard_time": 1701457814,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 63128,
@@ -523,28 +563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 52032,
-      "num": 52032,
+      "raw_hot": 56860,
+      "num": 56860,
       "word": "沈腾说唐嫣那么不方便也走了",
       "onboard_time": 1701436832,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51984,
-      "num": 51984,
-      "word": "刘宇宁自己挨打还得自己唱歌",
-      "onboard_time": 1701471739,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 51814,
-      "num": 51814,
-      "word": "苹果型身材有福了",
-      "onboard_time": 1701457814,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 44410,
@@ -553,6 +577,14 @@
       "onboard_time": 1701452660,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 38958,
+      "num": 841535,
+      "word": "民警反诈劝阻真实现场",
+      "onboard_time": 1701436776,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37340,
@@ -577,14 +609,6 @@
       "onboard_time": 1701457515,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30944,
-      "num": 841535,
-      "word": "民警反诈劝阻真实现场",
-      "onboard_time": 1701436776,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29539,
