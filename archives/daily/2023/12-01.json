@@ -1,7 +1,15 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701398683776,
+  "endTime": 1701400741159,
   "band_list": [
+    {
+      "raw_hot": 2665701,
+      "num": 2665701,
+      "word": "陈志朋 偷税漏税",
+      "onboard_time": 1701399092,
+      "rank": 0,
+      "category": "艺人,社会新闻"
+    },
     {
       "raw_hot": 2140737,
       "num": 2140737,
@@ -41,6 +49,14 @@
       "onboard_time": 1701351038,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1180343,
+      "num": 1180343,
+      "word": "谢娜报名家长会表演落选了",
+      "onboard_time": 1701397891,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1060323,
@@ -99,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 732400,
-      "num": 466672,
-      "word": "谢娜报名家长会表演落选了",
-      "onboard_time": 1701397891,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 708467,
       "num": 708467,
       "word": "宋仲基 白袜半身裙",
@@ -123,8 +131,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 663923,
-      "num": 663923,
+      "raw_hot": 672174,
+      "num": 672174,
       "word": "iPhone16全系告别静音拨片",
       "onboard_time": 1701396871,
       "rank": 6,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581863,
+      "num": 581863,
+      "word": "因走红暂停生意鹅腿阿姨很着急",
+      "onboard_time": 1701396271,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568497,
       "num": 568497,
       "word": "一念关山 替身马赛克",
@@ -155,20 +171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 561268,
-      "num": 561268,
-      "word": "因走红暂停生意鹅腿阿姨很着急",
-      "onboard_time": 1701396271,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 532614,
       "num": 532614,
       "word": "LV不管饭吗",
       "onboard_time": 1701352121,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 523873,
+      "num": 523873,
+      "word": "韩国申博失败",
+      "onboard_time": 1701399631,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485069,
@@ -227,6 +243,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 352095,
+      "num": 352095,
+      "word": "冯小刚电影重返贺岁档",
+      "onboard_time": 1701399872,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 351805,
       "num": 351805,
       "word": "上海医保",
@@ -251,8 +275,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 327988,
-      "num": 327988,
+      "raw_hot": 331601,
+      "num": 331601,
       "word": "感染HIV病毒就是得了艾滋病吗",
       "onboard_time": 1701396153,
       "rank": 17,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269916,
+      "num": 269916,
+      "word": "西藏墨脱发现一新物种",
+      "onboard_time": 1701397471,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265236,
       "num": 184123,
       "word": "迪丽热巴确定出席星光大赏",
@@ -435,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233715,
-      "num": 233715,
-      "word": "西藏墨脱发现一新物种",
-      "onboard_time": 1701397471,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232205,
       "num": 232205,
       "word": "法国前总统萨科齐被判处一年有期徒刑缓期执行",
@@ -451,12 +475,36 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 230003,
+      "num": 230003,
+      "word": "平均每分钟就有1人因艾滋病死亡",
+      "onboard_time": 1701398010,
+      "rank": 46,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 228273,
       "num": 228273,
       "word": "熊猫丫丫野餐还有小竹篮",
       "onboard_time": 1701393814,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224767,
+      "num": 224767,
+      "word": "济南一退休老师被前女婿举报吃空饷",
+      "onboard_time": 1701398371,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 218081,
+      "num": 218081,
+      "word": "德云社",
+      "onboard_time": 1701399153,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 216280,
@@ -497,6 +545,22 @@
       "onboard_time": 1701356979,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201094,
+      "num": 201094,
+      "word": "出狱10年后她见到恩人现状惊到下跪",
+      "onboard_time": 1701397891,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198238,
+      "num": 198238,
+      "word": "小巷人家首发海报",
+      "onboard_time": 1701399756,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 197110,
@@ -547,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192193,
+      "num": 192193,
+      "word": "红薯不宜和甜食一起吃",
+      "onboard_time": 1701398912,
+      "rank": 30,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 191419,
       "num": 133887,
       "word": "周也 周天后是周一",
@@ -579,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179608,
-      "num": 179608,
-      "word": "出狱10年后她见到恩人现状惊到下跪",
-      "onboard_time": 1701397891,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179266,
       "num": 179266,
       "word": "很想很想你 配音演员",
@@ -595,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174994,
-      "num": 174994,
-      "word": "平均每分钟就有1人因艾滋病死亡",
-      "onboard_time": 1701398010,
-      "rank": 46,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 176327,
+      "num": 176327,
+      "word": "瞒天过海 杀到疯瞒到底",
+      "onboard_time": 1701400533,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 174437,
@@ -659,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166955,
+      "num": 166955,
+      "word": "宜宾人把江里的鱼喂成了观赏鱼",
+      "onboard_time": 1701399030,
+      "rank": 33,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 164921,
       "num": 124206,
       "word": "一念关山",
@@ -673,6 +745,14 @@
       "onboard_time": 1701357100,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162071,
+      "num": 162071,
+      "word": "被十年前的笔记本电脑震惊到了",
+      "onboard_time": 1701399693,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 155883,
@@ -779,14 +859,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 124711,
-      "num": 124711,
-      "word": "济南一退休老师被前女婿举报吃空饷",
-      "onboard_time": 1701398371,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 123656,
       "num": 103561,
       "word": "檀健次说抱周也上麦",
@@ -795,12 +867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118679,
+      "num": 118679,
+      "word": "关于艾滋的6个常见误区",
+      "onboard_time": 1701398610,
+      "rank": 47,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 117215,
       "num": 117215,
       "word": "音银12月停播",
       "onboard_time": 1701386723,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113872,
+      "num": 113872,
+      "word": "不慎得了艾滋病究竟能活多久",
+      "onboard_time": 1701400533,
+      "rank": 45,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 112435,
@@ -827,12 +915,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 103721,
-      "num": 103721,
-      "word": "关于艾滋的6个常见误区",
-      "onboard_time": 1701398610,
+      "raw_hot": 108933,
+      "num": 108933,
+      "word": "换乘恋爱3预告",
+      "onboard_time": 1701399272,
       "rank": 47,
-      "category": "健康医疗,社会新闻"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108833,
+      "num": 108833,
+      "word": "A股",
+      "onboard_time": 1701400656,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 102046,
@@ -913,6 +1009,14 @@
       "onboard_time": 1701379214,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 67293,
+      "num": 108855,
+      "word": "一次眨眼的时间世界发生了什么",
+      "onboard_time": 1701400595,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62853,

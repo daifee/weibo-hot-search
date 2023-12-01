@@ -1,0 +1,410 @@
+{
+  "runTime": 1701400741159,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2665701,
+        "num": 2665701,
+        "word": "陈志朋 偷税漏税",
+        "onboard_time": 1701399092,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1305439,
+        "num": 1305439,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701392253,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 29311,
+        "num": 1270320,
+        "word": "国之重器背后的中国链",
+        "onboard_time": 1701350074,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1263588,
+        "num": 1263588,
+        "word": "一对艾滋夫妇的第19年",
+        "onboard_time": 1701391774,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180343,
+        "num": 1180343,
+        "word": "谢娜报名家长会表演落选了",
+        "onboard_time": 1701397891,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822408,
+        "num": 822408,
+        "word": "警方通报网红校长郑强被传包养情妇",
+        "onboard_time": 1701393215,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672174,
+        "num": 672174,
+        "word": "iPhone16全系告别静音拨片",
+        "onboard_time": 1701396871,
+        "rank": 6,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 581863,
+        "num": 581863,
+        "word": "因走红暂停生意鹅腿阿姨很着急",
+        "onboard_time": 1701396271,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523873,
+        "num": 523873,
+        "word": "韩国申博失败",
+        "onboard_time": 1701399631,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417521,
+        "num": 417521,
+        "word": "比酒精还厉害的肝脏刺客",
+        "onboard_time": 1701395071,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 564715,
+        "num": 412784,
+        "word": "上海独生女继承2亿遗产后被离婚",
+        "onboard_time": 1701351038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554840,
+        "num": 408210,
+        "word": "谢娜 产后抑郁",
+        "onboard_time": 1701389854,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394241,
+        "num": 394241,
+        "word": "同样是下暴雨 港剧vs内娱",
+        "onboard_time": 1701392913,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352095,
+        "num": 352095,
+        "word": "冯小刚电影重返贺岁档",
+        "onboard_time": 1701399872,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332082,
+        "num": 332082,
+        "word": "张家妍男朋友",
+        "onboard_time": 1701387208,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331601,
+        "num": 331601,
+        "word": "感染HIV病毒就是得了艾滋病吗",
+        "onboard_time": 1701396153,
+        "rank": 15,
+        "category": "健康医疗,社会议题"
+      },
+      {
+        "raw_hot": 304775,
+        "num": 304775,
+        "word": "李荣浩杨丞琳情头",
+        "onboard_time": 1701393632,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303055,
+        "num": 303055,
+        "word": "十二月狗屎运最旺的星座",
+        "onboard_time": 1701389973,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269916,
+        "num": 269916,
+        "word": "西藏墨脱发现一新物种",
+        "onboard_time": 1701397471,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251750,
+        "num": 251750,
+        "word": "上海医保",
+        "onboard_time": 1701396509,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263657,
+        "num": 249461,
+        "word": "长期睡前玩手机会付出啥代价",
+        "onboard_time": 1701356500,
+        "rank": 20,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 231248,
+        "num": 231248,
+        "word": "新闻女王 许诗晴人设",
+        "onboard_time": 1701397050,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230003,
+        "num": 230003,
+        "word": "平均每分钟就有1人因艾滋病死亡",
+        "onboard_time": 1701398010,
+        "rank": 22,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 224767,
+        "num": 224767,
+        "word": "济南一退休老师被前女婿举报吃空饷",
+        "onboard_time": 1701398371,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 224560,
+        "num": 224560,
+        "word": "一念关山 配音",
+        "onboard_time": 1701396030,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218081,
+        "num": 218081,
+        "word": "德云社",
+        "onboard_time": 1701399153,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217167,
+        "num": 217167,
+        "word": "十个勤天 监工直播",
+        "onboard_time": 1701396812,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214946,
+        "num": 214946,
+        "word": "女生为避无效社交朋友圈发文不随礼",
+        "onboard_time": 1701362485,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201094,
+        "num": 201094,
+        "word": "出狱10年后她见到恩人现状惊到下跪",
+        "onboard_time": 1701397891,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198238,
+        "num": 198238,
+        "word": "小巷人家首发海报",
+        "onboard_time": 1701399756,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192193,
+        "num": 192193,
+        "word": "红薯不宜和甜食一起吃",
+        "onboard_time": 1701398912,
+        "rank": 30,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 186384,
+        "num": 186384,
+        "word": "2023年是有记录以来人类历史上最热一年",
+        "onboard_time": 1701395250,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176327,
+        "num": 176327,
+        "word": "瞒天过海 杀到疯瞒到底",
+        "onboard_time": 1701400533,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166955,
+        "num": 166955,
+        "word": "宜宾人把江里的鱼喂成了观赏鱼",
+        "onboard_time": 1701399030,
+        "rank": 33,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 162071,
+        "num": 162071,
+        "word": "被十年前的笔记本电脑震惊到了",
+        "onboard_time": 1701399693,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159932,
+        "num": 159932,
+        "word": "女子跳楼瞬间被众人紧紧抓住救下",
+        "onboard_time": 1701391595,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157814,
+        "num": 157814,
+        "word": "男子玩游戏被盖猪肉印章求助清除高招",
+        "onboard_time": 1701394472,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154187,
+        "num": 154187,
+        "word": "微信好友上限",
+        "onboard_time": 1701354636,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 150847,
+        "num": 150847,
+        "word": "杨鸣被曝离婚",
+        "onboard_time": 1701332375,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 142892,
+        "num": 142892,
+        "word": "终于有人对碍事的头发下手了",
+        "onboard_time": 1701387810,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135508,
+        "num": 135508,
+        "word": "车守住了没守住王俊凯",
+        "onboard_time": 1701390935,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132650,
+        "num": 132650,
+        "word": "熊猫丫丫野餐还有小竹篮",
+        "onboard_time": 1701393814,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129533,
+        "num": 129533,
+        "word": "宋仲基 白袜半身裙",
+        "onboard_time": 1701349055,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118679,
+        "num": 118679,
+        "word": "关于艾滋的6个常见误区",
+        "onboard_time": 1701398610,
+        "rank": 43,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 118834,
+        "num": 116813,
+        "word": "刘耀文LV酒会跳舞",
+        "onboard_time": 1701387085,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113872,
+        "num": 113872,
+        "word": "不慎得了艾滋病究竟能活多久",
+        "onboard_time": 1701400533,
+        "rank": 45,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 109127,
+        "num": 109127,
+        "word": "龚俊拖白敬亭一起扭",
+        "onboard_time": 1701391595,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108933,
+        "num": 108933,
+        "word": "换乘恋爱3预告",
+        "onboard_time": 1701399272,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67293,
+        "num": 108855,
+        "word": "一次眨眼的时间世界发生了什么",
+        "onboard_time": 1701400595,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108833,
+        "num": 108833,
+        "word": "A股",
+        "onboard_time": 1701400656,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动长三角一体化发展取得新的重大突破#"
+    }
+  }
+}
