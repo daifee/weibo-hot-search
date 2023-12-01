@@ -1,0 +1,410 @@
+{
+  "runTime": 1701398124490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1851968,
+        "num": 1851968,
+        "word": "一对艾滋夫妇的第19年",
+        "onboard_time": 1701391774,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455315,
+        "num": 1455315,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701392253,
+        "rank": 1,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 33972,
+        "num": 1208025,
+        "word": "国之重器背后的中国链",
+        "onboard_time": 1701350074,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 995513,
+        "num": 995513,
+        "word": "谢娜 产后抑郁",
+        "onboard_time": 1701389854,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 986960,
+        "num": 986960,
+        "word": "警方通报网红校长郑强被传包养情妇",
+        "onboard_time": 1701393215,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663929,
+        "num": 663929,
+        "word": "同样是下暴雨 港剧vs内娱",
+        "onboard_time": 1701392913,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658829,
+        "num": 658829,
+        "word": "iPhone16全系告别静音拨片",
+        "onboard_time": 1701396871,
+        "rank": 6,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 561268,
+        "num": 561268,
+        "word": "因走红暂停生意鹅腿阿姨很着急",
+        "onboard_time": 1701396271,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493094,
+        "num": 493094,
+        "word": "张家妍男朋友",
+        "onboard_time": 1701387208,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476240,
+        "num": 476240,
+        "word": "比酒精还厉害的肝脏刺客",
+        "onboard_time": 1701395071,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 651485,
+        "num": 467322,
+        "word": "上海独生女继承2亿遗产后被离婚",
+        "onboard_time": 1701351038,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490478,
+        "num": 466672,
+        "word": "谢娜报名家长会表演落选了",
+        "onboard_time": 1701397891,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445690,
+        "num": 445690,
+        "word": "李荣浩杨丞琳情头",
+        "onboard_time": 1701393632,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416964,
+        "num": 416964,
+        "word": "女生为避无效社交朋友圈发文不随礼",
+        "onboard_time": 1701362485,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375531,
+        "num": 375531,
+        "word": "十二月狗屎运最旺的星座",
+        "onboard_time": 1701389973,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351805,
+        "num": 351805,
+        "word": "上海医保",
+        "onboard_time": 1701396509,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333005,
+        "num": 333005,
+        "word": "十个勤天 监工直播",
+        "onboard_time": 1701396812,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312454,
+        "num": 312454,
+        "word": "感染HIV病毒就是得了艾滋病吗",
+        "onboard_time": 1701396153,
+        "rank": 17,
+        "category": "健康医疗,社会议题"
+      },
+      {
+        "raw_hot": 282625,
+        "num": 282625,
+        "word": "一念关山 配音",
+        "onboard_time": 1701396030,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271004,
+        "num": 271004,
+        "word": "2023年是有记录以来人类历史上最热一年",
+        "onboard_time": 1701395250,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336999,
+        "num": 267278,
+        "word": "长期睡前玩手机会付出啥代价",
+        "onboard_time": 1701356500,
+        "rank": 20,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 263471,
+        "num": 263471,
+        "word": "男子玩游戏被盖猪肉印章求助清除高招",
+        "onboard_time": 1701394472,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228273,
+        "num": 228273,
+        "word": "熊猫丫丫野餐还有小竹篮",
+        "onboard_time": 1701393814,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227151,
+        "num": 227151,
+        "word": "刘耀文LV酒会跳舞",
+        "onboard_time": 1701387085,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219498,
+        "num": 219498,
+        "word": "女子跳楼瞬间被众人紧紧抓住救下",
+        "onboard_time": 1701391595,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215897,
+        "num": 215897,
+        "word": "新闻女王 许诗晴人设",
+        "onboard_time": 1701397050,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207997,
+        "num": 207997,
+        "word": "微信好友上限",
+        "onboard_time": 1701354636,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 199530,
+        "num": 199530,
+        "word": "宋仲基 白袜半身裙",
+        "onboard_time": 1701349055,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188213,
+        "num": 188213,
+        "word": "种地吧",
+        "onboard_time": 1701397108,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175189,
+        "num": 175189,
+        "word": "车守住了没守住王俊凯",
+        "onboard_time": 1701390935,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166728,
+        "num": 166728,
+        "word": "龚俊拖白敬亭一起扭",
+        "onboard_time": 1701391595,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162145,
+        "num": 162145,
+        "word": "终于有人对碍事的头发下手了",
+        "onboard_time": 1701387810,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159235,
+        "num": 159235,
+        "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
+        "onboard_time": 1701378733,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152010,
+        "num": 152010,
+        "word": "西藏墨脱发现一新物种",
+        "onboard_time": 1701397471,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149917,
+        "num": 149917,
+        "word": "杨鸣被曝离婚",
+        "onboard_time": 1701332375,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 149357,
+        "num": 149357,
+        "word": "唐嫣用糖化解所有愤怒",
+        "onboard_time": 1701395850,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143977,
+        "num": 143977,
+        "word": "2人向大熊猫扔木棍石头被通报",
+        "onboard_time": 1701392672,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137819,
+        "num": 137819,
+        "word": "田甜发现相亲男喜欢闺蜜秒删",
+        "onboard_time": 1701397290,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137817,
+        "num": 137817,
+        "word": "确实没见过这么超前的求婚现场",
+        "onboard_time": 1701387868,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130871,
+        "num": 130871,
+        "word": "时代少年团G社生图",
+        "onboard_time": 1701393215,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127342,
+        "num": 127342,
+        "word": "白敬亭 低胸内搭",
+        "onboard_time": 1701349959,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124810,
+        "num": 124810,
+        "word": "非诚勿扰3定档",
+        "onboard_time": 1701398010,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122167,
+        "num": 122167,
+        "word": "LV不管饭吗",
+        "onboard_time": 1701352121,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115977,
+        "num": 115977,
+        "word": "肖战机场路透",
+        "onboard_time": 1701357936,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115726,
+        "num": 115726,
+        "word": "出狱10年后她见到恩人现状惊到下跪",
+        "onboard_time": 1701397891,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115562,
+        "num": 115562,
+        "word": "江苏新增艾滋病例3584例",
+        "onboard_time": 1701348698,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112448,
+        "num": 112448,
+        "word": "平均每分钟就有1人因艾滋病死亡",
+        "onboard_time": 1701398010,
+        "rank": 46,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 112435,
+        "num": 112435,
+        "word": "南海归墟逐渐鲛化",
+        "onboard_time": 1701395132,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110290,
+        "num": 110290,
+        "word": "菊地创去世",
+        "onboard_time": 1701392735,
+        "rank": 48,
+        "category": "动漫,音乐"
+      },
+      {
+        "raw_hot": 106773,
+        "num": 106773,
+        "word": "声生不息",
+        "onboard_time": 1701393155,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动长三角一体化发展取得新的重大突破#"
+    }
+  }
+}
