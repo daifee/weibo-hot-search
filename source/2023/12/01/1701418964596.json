@@ -1,0 +1,410 @@
+{
+  "runTime": 1701418964596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1553284,
+        "num": 1553284,
+        "word": "第一学历歧视就像是留了案底",
+        "onboard_time": 1701414333,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1115710,
+        "num": 1115710,
+        "word": "梨泰院踩踏事故 纪录片",
+        "onboard_time": 1701416914,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28639,
+        "num": 943875,
+        "word": "60秒看祖国各地冬日美景",
+        "onboard_time": 1701404742,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1472057,
+        "num": 876925,
+        "word": "王鹤棣 纹身",
+        "onboard_time": 1701416075,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 789048,
+        "num": 789048,
+        "word": "疑似杨鸣老婆发文",
+        "onboard_time": 1701417031,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 755735,
+        "num": 755735,
+        "word": "周一围女儿 喀秋莎",
+        "onboard_time": 1701413252,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713443,
+        "num": 713443,
+        "word": "29岁中国男子刺死日本女友",
+        "onboard_time": 1701414513,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644956,
+        "num": 644956,
+        "word": "女子提醒夫妻关远光灯被打致流产",
+        "onboard_time": 1701416557,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454645,
+        "num": 454645,
+        "word": "女子输血感染艾滋10年后才发现",
+        "onboard_time": 1701402273,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440709,
+        "num": 440709,
+        "word": "小凯 不用铲了不用铲了",
+        "onboard_time": 1701418232,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 582126,
+        "num": 440443,
+        "word": "微信更新后的朋友圈排版",
+        "onboard_time": 1701412955,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 443324,
+        "num": 438790,
+        "word": "金莎男友 开塞露",
+        "onboard_time": 1701404079,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436473,
+        "num": 436473,
+        "word": "杨鸣 唐佳良",
+        "onboard_time": 1701414394,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 432130,
+        "num": 432130,
+        "word": "陈志朋已退出被曝光公司",
+        "onboard_time": 1701409234,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 348558,
+        "num": 348558,
+        "word": "姚政求婚成功",
+        "onboard_time": 1701410195,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342819,
+        "num": 342819,
+        "word": "人民网评海底捞跳舞争议",
+        "onboard_time": 1701416557,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342403,
+        "num": 342403,
+        "word": "湖南卫视跨年晚会嘉宾",
+        "onboard_time": 1701417453,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299921,
+        "num": 299921,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701392253,
+        "rank": 17,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 291961,
+        "num": 291961,
+        "word": "陈志朋 偷税漏税",
+        "onboard_time": 1701399092,
+        "rank": 18,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 267727,
+        "num": 267727,
+        "word": "2030年终结艾滋病",
+        "onboard_time": 1701410435,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259836,
+        "num": 259836,
+        "word": "全红婵选拔赛亚军",
+        "onboard_time": 1701416313,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250997,
+        "num": 250997,
+        "word": "RNG Ming",
+        "onboard_time": 1701404742,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248816,
+        "num": 248816,
+        "word": "刘宇宁体态",
+        "onboard_time": 1701403835,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227577,
+        "num": 227577,
+        "word": "外卖员在星巴克休息被女子要求赶走",
+        "onboard_time": 1701410015,
+        "rank": 23,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 223476,
+        "num": 223476,
+        "word": "正新鸡排正在被年轻人抛弃",
+        "onboard_time": 1701400775,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211751,
+        "num": 211751,
+        "word": "张小斐官宣微博视界大会",
+        "onboard_time": 1701418713,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211615,
+        "num": 211615,
+        "word": "女子扎铁还债170万出圈后又添14万",
+        "onboard_time": 1701418232,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206007,
+        "num": 206007,
+        "word": "李晨被选手激起的水花误伤",
+        "onboard_time": 1701414993,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200872,
+        "num": 200872,
+        "word": "唇膏界 欢宜香",
+        "onboard_time": 1701413732,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170876,
+        "num": 191833,
+        "word": "继承父母遗产属于夫妻共同财产吗",
+        "onboard_time": 1701405638,
+        "rank": 29,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 190501,
+        "num": 190501,
+        "word": "陈芋汐选拔赛夺冠",
+        "onboard_time": 1701417756,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179963,
+        "num": 179963,
+        "word": "JDG官宣Mafa加入",
+        "onboard_time": 1701416253,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176011,
+        "num": 176011,
+        "word": "陈楚生发长文谈家人",
+        "onboard_time": 1701413074,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169938,
+        "num": 169938,
+        "word": "上海独生女继承2亿遗产后被离婚",
+        "onboard_time": 1701351038,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166540,
+        "num": 166540,
+        "word": "学历含金量最高的人设出现了",
+        "onboard_time": 1701406238,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 165113,
+        "word": "沙溢说张真源撕名牌不赢不走",
+        "onboard_time": 1701417576,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159064,
+        "num": 159064,
+        "word": "韩国申博失败",
+        "onboard_time": 1701399631,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155836,
+        "num": 155836,
+        "word": "德国人敏感动作",
+        "onboard_time": 1701417992,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153059,
+        "num": 153059,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701403117,
+        "rank": 38,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 149525,
+        "num": 149525,
+        "word": "4个少年意外走入镜头画面氛围感拉满",
+        "onboard_time": 1701415892,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139422,
+        "num": 139422,
+        "word": "杨丞琳 唐门找到属于他的小花了",
+        "onboard_time": 1701412414,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137623,
+        "num": 137623,
+        "word": "谢娜报名家长会表演落选了",
+        "onboard_time": 1701397891,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131718,
+        "num": 131718,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1701406419,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130633,
+        "num": 130633,
+        "word": "王嘉尔北京演唱会取消",
+        "onboard_time": 1701405881,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127845,
+        "num": 127845,
+        "word": "一诺Fly双人复古大片",
+        "onboard_time": 1701418831,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125244,
+        "num": 125244,
+        "word": "莫言 人还是得有个班上",
+        "onboard_time": 1701412774,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 117514,
+        "num": 117514,
+        "word": "虞书欣再跳money手势舞",
+        "onboard_time": 1701415595,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113112,
+        "num": 113112,
+        "word": "一年级男孩上课摞铅笔被老师温柔夸赞",
+        "onboard_time": 1701418831,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110786,
+        "num": 110786,
+        "word": "谢娜 产后抑郁",
+        "onboard_time": 1701389854,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107233,
+        "num": 107233,
+        "word": "黄晓明呼吁不要歧视艾滋病病毒感染者",
+        "onboard_time": 1701402937,
+        "rank": 49,
+        "category": "艺人,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续促进贸易和投资自由化便利化#"
+    }
+  }
+}
