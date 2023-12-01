@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701408840702,
+  "endTime": 1701411829905,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1130557,
+      "num": 1130557,
+      "word": "陈志朋已退出被曝光公司",
+      "onboard_time": 1701409234,
+      "rank": 1,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1077931,
       "num": 1077931,
       "word": "女子输血感染艾滋10年后才发现",
@@ -97,6 +105,14 @@
       "onboard_time": 1701393215,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1042495,
+      "num": 364503,
+      "word": "姚政求婚成功",
+      "onboard_time": 1701410195,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 972312,
@@ -203,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 633256,
+      "num": 633256,
+      "word": "外卖员在星巴克休息被女子要求赶走",
+      "onboard_time": 1701410015,
+      "rank": 4,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 619353,
       "num": 316431,
       "word": "正新鸡排正在被年轻人抛弃",
@@ -257,6 +281,14 @@
       "onboard_time": 1701352121,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 487707,
+      "num": 487707,
+      "word": "2030年终结艾滋病",
+      "onboard_time": 1701410435,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485069,
@@ -483,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293642,
+      "num": 293642,
+      "word": "原神同人综艺",
+      "onboard_time": 1701410617,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 293043,
       "num": 293043,
       "word": "女子跳楼瞬间被众人紧紧抓住救下",
@@ -579,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270055,
+      "num": 270055,
+      "word": "32个城市地铁仅有5城盈利",
+      "onboard_time": 1701406660,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269916,
       "num": 269916,
       "word": "西藏墨脱发现一新物种",
@@ -601,14 +649,6 @@
       "onboard_time": 1701394472,
       "rank": 30,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 260367,
-      "num": 260367,
-      "word": "32个城市地铁仅有5城盈利",
-      "onboard_time": 1701406660,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253348,
@@ -715,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221696,
+      "num": 221696,
+      "word": "宋亚轩王牌重现脆爷名场面",
+      "onboard_time": 1701410974,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "中学女生发型 鲶鱼须遮半张脸",
@@ -737,6 +785,14 @@
       "onboard_time": 1701406301,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215142,
+      "num": 215142,
+      "word": "薛之谦 我的盆骨微缩",
+      "onboard_time": 1701410915,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 212658,
@@ -875,12 +931,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188382,
+      "num": 188382,
+      "word": "萌兰都快把院子里的树杈盘包浆了",
+      "onboard_time": 1701407318,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188213,
       "num": 188213,
       "word": "种地吧",
       "onboard_time": 1701397108,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185650,
+      "num": 185650,
+      "word": "Breathe疑似续约RNG",
+      "onboard_time": 1701410315,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 185547,
@@ -907,11 +979,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180429,
+      "num": 180429,
+      "word": "一诺 回城",
+      "onboard_time": 1701411095,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179266,
       "num": 179266,
       "word": "很想很想你 配音演员",
       "onboard_time": 1701393454,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175572,
+      "num": 175572,
+      "word": "很想很想你 适合追星女看",
+      "onboard_time": 1701410374,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -961,14 +1049,6 @@
       "onboard_time": 1701400656,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 170104,
-      "num": 170104,
-      "word": "萌兰都快把院子里的树杈盘包浆了",
-      "onboard_time": 1701407318,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170054,
@@ -1049,6 +1129,14 @@
       "onboard_time": 1701399693,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 159469,
+      "num": 159469,
+      "word": "拼多多成中概股市值第一",
+      "onboard_time": 1701409178,
+      "rank": 36,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 159292,
@@ -1169,6 +1257,14 @@
       "onboard_time": 1701400595,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125945,
+      "num": 125945,
+      "word": "林俊杰南宁",
+      "onboard_time": 1701409897,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 125710,
