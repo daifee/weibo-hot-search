@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701411829905,
+  "endTime": 1701412621856,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1042495,
-      "num": 364503,
+      "num": 943131,
       "word": "姚政求婚成功",
       "onboard_time": 1701410195,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 731103,
+      "num": 731103,
+      "word": "外卖员在星巴克休息被女子要求赶走",
+      "onboard_time": 1701410015,
+      "rank": 4,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 708467,
       "num": 708467,
       "word": "宋仲基 白袜半身裙",
@@ -219,14 +227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 633256,
-      "num": 633256,
-      "word": "外卖员在星巴克休息被女子要求赶走",
-      "onboard_time": 1701410015,
-      "rank": 4,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 619353,
       "num": 316431,
       "word": "正新鸡排正在被年轻人抛弃",
@@ -241,6 +241,14 @@
       "onboard_time": 1701349959,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 603077,
+      "num": 603077,
+      "word": "2030年终结艾滋病",
+      "onboard_time": 1701410435,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596398,
@@ -281,14 +289,6 @@
       "onboard_time": 1701352121,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 487707,
-      "num": 487707,
-      "word": "2030年终结艾滋病",
-      "onboard_time": 1701410435,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485069,
@@ -915,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192544,
+      "num": 192544,
+      "word": "杨丞琳 唐门找到属于他的小花了",
+      "onboard_time": 1701412414,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192193,
       "num": 192193,
       "word": "红薯不宜和甜食一起吃",
@@ -944,6 +952,22 @@
       "word": "种地吧",
       "onboard_time": 1701397108,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187104,
+      "num": 187104,
+      "word": "一诺 回城",
+      "onboard_time": 1701411095,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 185964,
+      "num": 185964,
+      "word": "星光大赏ie双红毯",
+      "onboard_time": 1701411932,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -977,14 +1001,6 @@
       "onboard_time": 1701401615,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180429,
-      "num": 180429,
-      "word": "一诺 回城",
-      "onboard_time": 1701411095,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 179266,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1701358833,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 173388,
+      "num": 173388,
+      "word": "勇士战胜快船",
+      "onboard_time": 1701412232,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 172994,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1701362306,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123508,
+      "num": 123508,
+      "word": "全国十佳公诉人 六名是女性",
+      "onboard_time": 1701412354,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 118679,
