@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701387253777,
+  "endTime": 1701393745646,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2140737,
+      "num": 2140737,
+      "word": "谢娜 产后抑郁",
+      "onboard_time": 1701389854,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2133794,
       "num": 2133794,
       "word": "江苏新增艾滋病例3584例",
@@ -409,6 +417,14 @@
       "onboard_time": 1701164974,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1882880,
+      "num": 1882880,
+      "word": "一对艾滋夫妇的第19年",
+      "onboard_time": 1701391774,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1838560,
@@ -633,6 +649,14 @@
       "onboard_time": 1701072454,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1545970,
+      "num": 1545970,
+      "word": "杨鸣 思思",
+      "onboard_time": 1701392253,
+      "rank": 3,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1524826,
@@ -1192,6 +1216,14 @@
       "word": "家长副驾抱娃幼童被甩出车外身亡",
       "onboard_time": 1701003158,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1060323,
+      "num": 1060323,
+      "word": "女生为避无效社交朋友圈发文不随礼",
+      "onboard_time": 1701362485,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1923,6 +1955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 744253,
+      "num": 744253,
+      "word": "张家妍男朋友",
+      "onboard_time": 1701387208,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 742224,
       "num": 742224,
       "word": "总做美甲的人现在都怎么样了",
@@ -2179,12 +2219,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 679565,
-      "num": 679565,
-      "word": "女生为避无效社交朋友圈发文不随礼",
-      "onboard_time": 1701362485,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 680614,
+      "num": 680614,
+      "word": "十二月狗屎运最旺的星座",
+      "onboard_time": 1701389973,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 678878,
@@ -4323,6 +4363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419885,
+      "num": 419885,
+      "word": "刘耀文LV酒会跳舞",
+      "onboard_time": 1701387085,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 418913,
       "num": 418913,
       "word": "王鹤棣田曦薇手势舞",
@@ -5075,6 +5123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358188,
+      "num": 358188,
+      "word": "警方通报网红校长郑强被传包养情妇",
+      "onboard_time": 1701393215,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357756,
       "num": 357756,
       "word": "48岁教授说年轻人不加班是社会的进步",
@@ -5299,6 +5355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 344798,
+      "num": 344798,
+      "word": "同样是下暴雨 港剧vs内娱",
+      "onboard_time": 1701392913,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344536,
       "num": 344536,
       "word": "邓紫棋广州再加场抢票",
@@ -5329,6 +5393,14 @@
       "onboard_time": 1700977472,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 340668,
+      "num": 244747,
+      "word": "终于有人对碍事的头发下手了",
+      "onboard_time": 1701387810,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 340483,
@@ -5811,6 +5883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 313262,
+      "num": 313262,
+      "word": "LV大秀港媒生图",
+      "onboard_time": 1701386606,
+      "rank": 30,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 312108,
       "num": 312108,
       "word": "周迅 14秒绝美出场",
@@ -5865,6 +5945,14 @@
       "onboard_time": 1701001416,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 310498,
+      "num": 248214,
+      "word": "龚俊拖白敬亭一起扭",
+      "onboard_time": 1701391595,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 310196,
@@ -5937,6 +6025,14 @@
       "onboard_time": 1701148178,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 307444,
+      "num": 307444,
+      "word": "车守住了没守住王俊凯",
+      "onboard_time": 1701390935,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 307055,
@@ -6755,6 +6851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 276862,
+      "num": 237816,
+      "word": "确实没见过这么超前的求婚现场",
+      "onboard_time": 1701387868,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276672,
       "num": 276672,
       "word": "汤唯Burberry品牌代言人",
@@ -7539,6 +7643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249402,
+      "num": 249402,
+      "word": "女子跳楼瞬间被众人紧紧抓住救下",
+      "onboard_time": 1701391595,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249320,
       "num": 249320,
       "word": "国考考研报名人数一升一降",
@@ -7729,6 +7841,14 @@
       "onboard_time": 1701168575,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244081,
+      "num": 244081,
+      "word": "特斯拉交付首批电动皮卡",
+      "onboard_time": 1701387446,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 243946,
@@ -8105,6 +8225,14 @@
       "onboard_time": 1701132818,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232205,
+      "num": 232205,
+      "word": "法国前总统萨科齐被判处一年有期徒刑缓期执行",
+      "onboard_time": 1701387566,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 232031,
@@ -8657,6 +8785,14 @@
       "onboard_time": 1700981734,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216076,
+      "num": 216076,
+      "word": "一念关山几个镜头 孤狼任如意",
+      "onboard_time": 1701392434,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 215820,
@@ -9819,6 +9955,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 195021,
+      "num": 195021,
+      "word": "声生不息",
+      "onboard_time": 1701393155,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194725,
       "num": 194725,
       "word": "陆虎不愧是综艺之神",
@@ -10065,6 +10209,14 @@
       "onboard_time": 1701005976,
       "rank": 43,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 191990,
+      "num": 191990,
+      "word": "时代少年团G社生图",
+      "onboard_time": 1701393215,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191986,
@@ -10643,6 +10795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 183710,
+      "num": 183710,
+      "word": "2人向大熊猫扔木棍石头被通报",
+      "onboard_time": 1701392672,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183617,
       "num": 183617,
       "word": "周深说每次唱歌都很紧张",
@@ -10689,6 +10849,14 @@
       "onboard_time": 1701057337,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182906,
+      "num": 182906,
+      "word": "关晓彤眼里王牌家族是什么搭子",
+      "onboard_time": 1701392134,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 182595,
@@ -11099,6 +11267,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 174437,
+      "num": 174437,
+      "word": "菊地创去世",
+      "onboard_time": 1701392735,
+      "rank": 38,
+      "category": "动漫,音乐"
+    },
+    {
+      "raw_hot": 174225,
+      "num": 174225,
+      "word": "宜宾地震",
+      "onboard_time": 1701389191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174219,
       "num": 174219,
       "word": "陈梦晒合照",
@@ -11289,6 +11473,22 @@
       "onboard_time": 1701219636,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 170054,
+      "num": 170054,
+      "word": "魔卡少女樱更新最终话",
+      "onboard_time": 1701388348,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 169846,
+      "num": 169846,
+      "word": "很想很想你 配音演员",
+      "onboard_time": 1701393454,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 169776,
@@ -11593,6 +11793,14 @@
       "onboard_time": 1701245734,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164392,
+      "num": 164392,
+      "word": "李荣浩杨丞琳情头",
+      "onboard_time": 1701393632,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 164363,
@@ -12171,14 +12379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151757,
-      "num": 113430,
-      "word": "LV大秀港媒生图",
-      "onboard_time": 1701386606,
-      "rank": 30,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 151387,
       "num": 151387,
       "word": "姜云升在路上看到的爱情",
@@ -12217,6 +12417,14 @@
       "onboard_time": 1701307893,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150656,
+      "num": 150656,
+      "word": "视觉中国生图 站姐出图",
+      "onboard_time": 1701389131,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150571,
@@ -13763,14 +13971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 91259,
-      "num": 91259,
-      "word": "刘耀文LV酒会跳舞",
-      "onboard_time": 1701387085,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 91198,
       "num": 98878,
       "word": "WB战胜IMP",
@@ -13897,14 +14097,6 @@
       "onboard_time": 1700919227,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 83572,
-      "num": 83572,
-      "word": "张家妍男朋友",
-      "onboard_time": 1701387208,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 82745,
@@ -14259,6 +14451,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 60346,
+      "num": 1650040,
+      "word": "国之重器背后的中国链",
+      "onboard_time": 1701350074,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60214,
       "num": 60214,
       "word": "花少5 文化输出",
@@ -14537,14 +14737,6 @@
       "onboard_time": 1701082294,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34561,
-      "num": 770524,
-      "word": "国之重器背后的中国链",
-      "onboard_time": 1701350074,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34155,
