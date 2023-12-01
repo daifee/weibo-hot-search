@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701425987629,
+  "endTime": 1701427010982,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -483,6 +483,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434543,
+      "num": 418870,
+      "word": "梨泰院纪录片 中国街道",
+      "onboard_time": 1701425256,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432094,
+      "num": 432094,
+      "word": "小米回应冰冷的40亿",
+      "onboard_time": 1701425434,
+      "rank": 25,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 429342,
       "num": 429342,
       "word": "一念关山 AI换脸",
@@ -552,6 +568,14 @@
       "word": "湖南卫视跨年晚会嘉宾",
       "onboard_time": 1701417453,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363192,
+      "num": 259340,
+      "word": "戚薇怀二胎时找不到工作",
+      "onboard_time": 1701425315,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -635,8 +659,8 @@
       "category": "健康医疗,社会议题"
     },
     {
-      "raw_hot": 322650,
-      "num": 322650,
+      "raw_hot": 323685,
+      "num": 323685,
       "word": "陈志朋觉得直播带货很low",
       "onboard_time": 1701425613,
       "rank": 16,
@@ -689,6 +713,14 @@
       "onboard_time": 1701418232,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297542,
+      "num": 220700,
+      "word": "五年后才看到口红上的刻字",
+      "onboard_time": 1701426638,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 295575,
@@ -753,6 +785,14 @@
       "onboard_time": 1701335796,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285699,
+      "num": 833360,
+      "word": "骗子AI换脸成领导民警9分钟追156万",
+      "onboard_time": 1701424233,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284060,
@@ -891,28 +931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252783,
-      "num": 252783,
-      "word": "戚薇怀二胎时找不到工作",
-      "onboard_time": 1701425315,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250303,
       "num": 250303,
       "word": "十二月的奇迹",
       "onboard_time": 1701403356,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 247951,
-      "num": 247951,
-      "word": "小米回应冰冷的40亿",
-      "onboard_time": 1701425434,
-      "rank": 25,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 244081,
@@ -961,6 +985,14 @@
       "onboard_time": 1701354636,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233607,
+      "num": 233607,
+      "word": "女朋友越处越像小朋友了",
+      "onboard_time": 1701426638,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 233464,
@@ -1019,28 +1051,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228001,
-      "num": 211631,
-      "word": "梨泰院纪录片 中国街道",
-      "onboard_time": 1701425256,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221696,
       "num": 221696,
       "word": "宋亚轩王牌重现脆爷名场面",
       "onboard_time": 1701410974,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220997,
-      "num": 833360,
-      "word": "骗子AI换脸成领导民警9分钟追156万",
-      "onboard_time": 1701424233,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219184,
@@ -1081,6 +1097,14 @@
       "onboard_time": 1701410915,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214296,
+      "num": 214296,
+      "word": "焦恩俊版宁远舟",
+      "onboard_time": 1701426096,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 212658,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1701397891,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200846,
+      "num": 200846,
+      "word": "易烊千玺vlog i人常态",
+      "onboard_time": 1701426693,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 198238,
@@ -1331,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184851,
+      "num": 639200,
+      "word": "4个少年意外走入镜头画面氛围感拉满",
+      "onboard_time": 1701415892,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184813,
       "num": 184813,
       "word": "苏翊鸣首轮排名第1",
@@ -1443,6 +1483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171866,
+      "num": 171866,
+      "word": "赵奕欢说我没有这样肉碰肉地交流过",
+      "onboard_time": 1701426638,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170054,
       "num": 170054,
       "word": "魔卡少女樱更新最终话",
@@ -1499,14 +1547,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 165494,
-      "num": 639200,
-      "word": "4个少年意外走入镜头画面氛围感拉满",
-      "onboard_time": 1701415892,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165153,
       "num": 149894,
       "word": "甜蜜家园2",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1701409178,
       "rank": 36,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 159428,
+      "num": 159428,
+      "word": "湘雅三医院科主任遭联合举报后恢复门诊",
+      "onboard_time": 1701426638,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159292,
@@ -1867,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92759,
+      "num": 568401,
+      "word": "新老民警接力办案找回25年前失踪儿童",
+      "onboard_time": 1701423333,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91816,
       "num": 91816,
       "word": "双鱼座其实是高级的猎手",
@@ -1897,14 +1953,6 @@
       "onboard_time": 1701384077,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 82627,
-      "num": 568401,
-      "word": "新老民警接力办案找回25年前失踪儿童",
-      "onboard_time": 1701423333,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76446,
@@ -1987,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56695,
+      "num": 688269,
+      "word": "中国广电送您一张电视明白卡",
+      "onboard_time": 1701426336,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50674,
       "num": 1451499,
       "word": "60秒看祖国各地冬日美景",
@@ -2011,8 +2067,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28640,
-      "num": 350663,
+      "raw_hot": 37064,
+      "num": 412816,
       "word": "蛋仔派对寻光冰雪季",
       "onboard_time": 1701424832,
       "rank": 14,
