@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701440209749,
+  "endTime": 1701441270672,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -227,8 +227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 835813,
-      "num": 835813,
+      "raw_hot": 864118,
+      "num": 864118,
       "word": "中国气象局发布大地磁暴预警",
       "onboard_time": 1701438157,
       "rank": 4,
@@ -451,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 547674,
-      "num": 547674,
+      "raw_hot": 554354,
+      "num": 554354,
       "word": "小猫吃公司20根虫草主人含泪赔2千",
       "onboard_time": 1701436537,
       "rank": 29,
@@ -491,20 +491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522835,
+      "num": 242657,
+      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+      "onboard_time": 1701437256,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511352,
       "num": 511352,
       "word": "小凯 不用铲了不用铲了",
       "onboard_time": 1701418232,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 496849,
-      "num": 237871,
-      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
-      "onboard_time": 1701437256,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486865,
@@ -731,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 361692,
+      "num": 361692,
+      "word": "秦岚旗袍 辛芷蕾东北大花",
+      "onboard_time": 1701438940,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356632,
       "num": 356632,
       "word": "海底捞员工称门店内卷让人疲惫",
@@ -768,6 +776,14 @@
       "word": "上海医保",
       "onboard_time": 1701396509,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346032,
+      "num": 346032,
+      "word": "甘肃发现超亿吨级整装大油田",
+      "onboard_time": 1701440079,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -809,14 +825,6 @@
       "onboard_time": 1701396153,
       "rank": 17,
       "category": "健康医疗,社会议题"
-    },
-    {
-      "raw_hot": 331516,
-      "num": 331516,
-      "word": "秦岚旗袍 辛芷蕾东北大花",
-      "onboard_time": 1701438940,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 323685,
@@ -873,6 +881,14 @@
       "onboard_time": 1701391595,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309907,
+      "num": 309907,
+      "word": "拿破仑",
+      "onboard_time": 1701440255,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 307444,
@@ -1011,6 +1027,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 277406,
+      "num": 277406,
+      "word": "黄智雯宣布离巢TVB",
+      "onboard_time": 1701439657,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276862,
       "num": 237816,
       "word": "确实没见过这么超前的求婚现场",
@@ -1147,6 +1171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 247258,
+      "num": 247258,
+      "word": "桑酒乱入南海归墟",
+      "onboard_time": 1701439717,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "特斯拉交付首批电动皮卡",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1701432153,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238486,
+      "num": 238486,
+      "word": "魂穿金靖",
+      "onboard_time": 1701440558,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 238437,
@@ -1259,14 +1299,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 229326,
-      "num": 229326,
-      "word": "黄智雯宣布离巢TVB",
-      "onboard_time": 1701439657,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228532,
       "num": 228532,
       "word": "这个浏览量 我是什么很丑的人吗",
@@ -1289,6 +1321,22 @@
       "onboard_time": 1701429033,
       "rank": 31,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 223090,
+      "num": 223090,
+      "word": "宁远舟答应给任如意生孩子了",
+      "onboard_time": 1701439717,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222862,
+      "num": 222862,
+      "word": "宋亚轩断眉绿瞳",
+      "onboard_time": 1701440318,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222297,
@@ -1411,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208377,
-      "num": 208377,
-      "word": "桑酒乱入南海归墟",
-      "onboard_time": 1701439717,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207796,
       "num": 207796,
       "word": "辽宁男篮十连胜",
@@ -1448,6 +1488,14 @@
       "word": "一诺Fly双人复古大片",
       "onboard_time": 1701418831,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 205472,
+      "num": 205472,
+      "word": "Bin对线chovy",
+      "onboard_time": 1701441036,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -1563,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192812,
+      "num": 192812,
+      "word": "周杰伦福州 开票",
+      "onboard_time": 1701440796,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192193,
       "num": 192193,
       "word": "红薯不宜和甜食一起吃",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1701432933,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188649,
+      "num": 188649,
+      "word": "胖东来员工不想上班请假不允许不批假",
+      "onboard_time": 1701440737,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188382,
@@ -1744,14 +1808,6 @@
       "word": "很想很想你 配音演员",
       "onboard_time": 1701393454,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 179100,
-      "num": 179100,
-      "word": "宁远舟答应给任如意生孩子了",
-      "onboard_time": 1701439717,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2243,19 +2299,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131298,
+      "num": 131298,
+      "word": "你们TWICE怎么发出马叫",
+      "onboard_time": 1701441216,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130601,
       "num": 130601,
       "word": "蛇偷吃鸡舍仨鸡蛋大爷摇来消防员",
       "onboard_time": 1701439420,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129587,
-      "num": 129587,
-      "word": "甘肃发现超亿吨级整装大油田",
-      "onboard_time": 1701440079,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2435,7 +2491,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 80390,
+      "raw_hot": 80983,
       "num": 977622,
       "word": "雪龙号抵达中山站",
       "onboard_time": 1701436956,
