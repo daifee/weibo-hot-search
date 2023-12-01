@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701441270672,
+  "endTime": 1701443903010,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -137,6 +137,14 @@
       "onboard_time": 1701346594,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2504596,
+      "num": 149942,
+      "word": "健康码",
+      "onboard_time": 1701441699,
+      "rank": 38,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 2495090,
@@ -425,6 +433,14 @@
       "onboard_time": 1701150453,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1904287,
+      "num": 959287,
+      "word": "四川广东重现绿码",
+      "onboard_time": 1701438518,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1901743,
@@ -1203,6 +1219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1138962,
+      "num": 1138962,
+      "word": "甘肃酒泉地震",
+      "onboard_time": 1701443258,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1132878,
       "num": 1132878,
       "word": "郑州大学取消公众入校限制",
@@ -1344,6 +1368,14 @@
       "word": "女生为避无效社交朋友圈发文不随礼",
       "onboard_time": 1701362485,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1058611,
+      "num": 1058611,
+      "word": "中国气象局发布大地磁暴预警",
+      "onboard_time": 1701438157,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1561,14 +1593,6 @@
       "onboard_time": 1701049717,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 959287,
-      "num": 959287,
-      "word": "四川广东重现绿码",
-      "onboard_time": 1701438518,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 957784,
@@ -1801,14 +1825,6 @@
       "onboard_time": 1701345034,
       "rank": 8,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 864118,
-      "num": 864118,
-      "word": "中国气象局发布大地磁暴预警",
-      "onboard_time": 1701438157,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 862946,
@@ -2473,6 +2489,14 @@
       "onboard_time": 1701251977,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 674878,
+      "num": 674878,
+      "word": "胖东来员工不想上班请假不允许不批假",
+      "onboard_time": 1701440737,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 674601,
@@ -3337,6 +3361,14 @@
       "onboard_time": 1701183996,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 554805,
+      "num": 554805,
+      "word": "甘肃发现超亿吨级整装大油田",
+      "onboard_time": 1701440079,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554354,
@@ -5931,14 +5963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346032,
-      "num": 346032,
-      "word": "甘肃发现超亿吨级整装大油田",
-      "onboard_time": 1701440079,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345822,
       "num": 345822,
       "word": "崔琳怀孕",
@@ -7771,6 +7795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272202,
+      "num": 272202,
+      "word": "GTA新作预告的预告",
+      "onboard_time": 1701443436,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272055,
       "num": 272055,
       "word": "刘诗诗刘宇宁新剧打戏同步率",
@@ -8291,6 +8323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256419,
+      "num": 256419,
+      "word": "一念关山 我只是宁远舟",
+      "onboard_time": 1701442960,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255153,
       "num": 255153,
       "word": "杨迪被林俊杰回关很开心",
@@ -8779,6 +8819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241601,
+      "num": 241601,
+      "word": "BLG对战GEN",
+      "onboard_time": 1701441818,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241502,
       "num": 241502,
       "word": "任如意宁远舟骑马吻",
@@ -9120,6 +9168,14 @@
       "word": "05年女生化妆技术",
       "onboard_time": 1700967994,
       "rank": 39,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 232664,
+      "num": 232664,
+      "word": "假睫毛贴在真睫毛上方",
+      "onboard_time": 1701442359,
+      "rank": 18,
       "category": "美妆"
     },
     {
@@ -10083,6 +10139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210924,
+      "num": 210924,
+      "word": "CBA",
+      "onboard_time": 1701442716,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210919,
       "num": 210919,
       "word": "全红婵的18岁心愿",
@@ -10347,6 +10411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205800,
+      "num": 205800,
+      "word": "Bin对线chovy",
+      "onboard_time": 1701441036,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205684,
       "num": 205684,
       "word": "记住这8个规律 字想丑都难",
@@ -10369,14 +10441,6 @@
       "onboard_time": 1701220957,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205472,
-      "num": 205472,
-      "word": "Bin对线chovy",
-      "onboard_time": 1701441036,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 205434,
@@ -10947,6 +11011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 197617,
+      "num": 197617,
+      "word": "赵文卓 不努力的演员直接淘汰",
+      "onboard_time": 1701443079,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197590,
       "num": 197590,
       "word": "赵露思秒懂马丽演的偷偷藏不住",
@@ -11337,6 +11409,14 @@
       "onboard_time": 1700926544,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192583,
+      "num": 192583,
+      "word": "声生不息家年华阵容",
+      "onboard_time": 1701443436,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 192497,
@@ -11753,14 +11833,6 @@
       "onboard_time": 1701080012,
       "rank": 32,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 188649,
-      "num": 188649,
-      "word": "胖东来员工不想上班请假不允许不批假",
-      "onboard_time": 1701440737,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188581,
@@ -12699,6 +12771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174114,
+      "num": 174114,
+      "word": "田嘉瑞希望和沈腾黄渤合作",
+      "onboard_time": 1701443377,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173968,
       "num": 182983,
       "word": "我的电脑好像被公司监视了",
@@ -12905,6 +12985,14 @@
       "onboard_time": 1701162694,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169703,
+      "num": 169703,
+      "word": "你们TWICE怎么发出马叫",
+      "onboard_time": 1701441216,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 169465,
@@ -13393,6 +13481,14 @@
       "onboard_time": 1701243034,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161364,
+      "num": 161364,
+      "word": "知识以一种侮辱的方式进入了大脑",
+      "onboard_time": 1701442299,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 161013,
@@ -13987,6 +14083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150502,
+      "num": 150502,
+      "word": "蔡国庆 我的一生要为国家歌唱",
+      "onboard_time": 1701442658,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150468,
       "num": 150468,
       "word": "涵艺爆料RNG接触LWX",
@@ -14347,6 +14451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143547,
+      "num": 143547,
+      "word": "弗格49分",
+      "onboard_time": 1701441757,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143108,
       "num": 143108,
       "word": "小满生活田甜的午夜打开方式",
@@ -14531,6 +14643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140579,
+      "num": 140579,
+      "word": "黄子弘凡 广州音乐会vlog",
+      "onboard_time": 1701442537,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140456,
       "num": 140456,
       "word": "萝卜花居然是甩出来的",
@@ -14673,6 +14793,14 @@
       "onboard_time": 1701010716,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138400,
+      "num": 138400,
+      "word": "在暴雪时分",
+      "onboard_time": 1701443799,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 138399,
@@ -14905,14 +15033,6 @@
       "onboard_time": 1701136593,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 131298,
-      "num": 131298,
-      "word": "你们TWICE怎么发出马叫",
-      "onboard_time": 1701441216,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 130810,
@@ -15916,7 +16036,7 @@
     },
     {
       "raw_hot": 80983,
-      "num": 977622,
+      "num": 979478,
       "word": "雪龙号抵达中山站",
       "onboard_time": 1701436956,
       "rank": 2,

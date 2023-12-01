@@ -1,0 +1,410 @@
+{
+  "runTime": 1701443903010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138962,
+        "num": 1138962,
+        "word": "甘肃酒泉地震",
+        "onboard_time": 1701443258,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1058611,
+        "num": 1058611,
+        "word": "中国气象局发布大地磁暴预警",
+        "onboard_time": 1701438157,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56590,
+        "num": 979478,
+        "word": "雪龙号抵达中山站",
+        "onboard_time": 1701436956,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927426,
+        "num": 927426,
+        "word": "北京极光",
+        "onboard_time": 1701436115,
+        "rank": 3,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 847278,
+        "num": 847278,
+        "word": "唐嫣cos狂飙大嫂",
+        "onboard_time": 1701430534,
+        "rank": 4,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 674878,
+        "num": 674878,
+        "word": "胖东来员工不想上班请假不允许不批假",
+        "onboard_time": 1701440737,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621303,
+        "num": 621303,
+        "word": "肖战 拉夫劳伦香氛",
+        "onboard_time": 1701434015,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 554805,
+        "num": 554805,
+        "word": "甘肃发现超亿吨级整装大油田",
+        "onboard_time": 1701440079,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368766,
+        "num": 368766,
+        "word": "小猫吃公司20根虫草主人含泪赔2千",
+        "onboard_time": 1701436537,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366023,
+        "num": 366023,
+        "word": "地磁暴",
+        "onboard_time": 1701437797,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405048,
+        "num": 365935,
+        "word": "王鹤棣 纹身",
+        "onboard_time": 1701416075,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356505,
+        "num": 356505,
+        "word": "女子提醒夫妻关远光灯被打致流产",
+        "onboard_time": 1701416557,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293523,
+        "num": 293523,
+        "word": "中S和汪大菲",
+        "onboard_time": 1701421954,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292188,
+        "num": 292188,
+        "word": "秦岚旗袍 辛芷蕾东北大花",
+        "onboard_time": 1701438940,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272202,
+        "num": 272202,
+        "word": "GTA新作预告的预告",
+        "onboard_time": 1701443436,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256419,
+        "num": 256419,
+        "word": "一念关山 我只是宁远舟",
+        "onboard_time": 1701442960,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245717,
+        "num": 245717,
+        "word": "任豪甚至写了一篇论文",
+        "onboard_time": 1701437616,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241601,
+        "num": 241601,
+        "word": "BLG对战GEN",
+        "onboard_time": 1701441818,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232664,
+        "num": 232664,
+        "word": "假睫毛贴在真睫毛上方",
+        "onboard_time": 1701442359,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 232181,
+        "num": 232181,
+        "word": "漠河 红绿极光",
+        "onboard_time": 1701438216,
+        "rank": 19,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 330129,
+        "num": 229224,
+        "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+        "onboard_time": 1701437256,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233155,
+        "num": 225368,
+        "word": "女朋友越处越像小朋友了",
+        "onboard_time": 1701426638,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217062,
+        "num": 217062,
+        "word": "易烊千玺vlog i人常态",
+        "onboard_time": 1701426693,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216920,
+        "num": 216920,
+        "word": "黄智雯宣布离巢TVB",
+        "onboard_time": 1701439657,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215991,
+        "num": 215991,
+        "word": "拿破仑",
+        "onboard_time": 1701440255,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210924,
+        "num": 210924,
+        "word": "CBA",
+        "onboard_time": 1701442716,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205800,
+        "num": 205800,
+        "word": "Bin对线chovy",
+        "onboard_time": 1701441036,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202062,
+        "num": 202062,
+        "word": "桑酒乱入南海归墟",
+        "onboard_time": 1701439717,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197617,
+        "num": 197617,
+        "word": "赵文卓 不努力的演员直接淘汰",
+        "onboard_time": 1701443079,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192583,
+        "num": 192583,
+        "word": "声生不息家年华阵容",
+        "onboard_time": 1701443436,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176035,
+        "num": 176035,
+        "word": "魂穿金靖",
+        "onboard_time": 1701440558,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174114,
+        "num": 174114,
+        "word": "田嘉瑞希望和沈腾黄渤合作",
+        "onboard_time": 1701443377,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169703,
+        "num": 169703,
+        "word": "你们TWICE怎么发出马叫",
+        "onboard_time": 1701441216,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163946,
+        "num": 163946,
+        "word": "五年后才看到口红上的刻字",
+        "onboard_time": 1701426638,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1904287,
+        "num": 163942,
+        "word": "四川广东重现绿码",
+        "onboard_time": 1701441576,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161364,
+        "num": 161364,
+        "word": "知识以一种侮辱的方式进入了大脑",
+        "onboard_time": 1701442299,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153110,
+        "num": 153110,
+        "word": "微信更新后的朋友圈排版",
+        "onboard_time": 1701412955,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150502,
+        "num": 150502,
+        "word": "蔡国庆 我的一生要为国家歌唱",
+        "onboard_time": 1701442658,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2504596,
+        "num": 149942,
+        "word": "健康码",
+        "onboard_time": 1701441699,
+        "rank": 38,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 147889,
+        "num": 147889,
+        "word": "梨泰院纪录片 中国街道",
+        "onboard_time": 1701425256,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143547,
+        "num": 143547,
+        "word": "弗格49分",
+        "onboard_time": 1701441757,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141561,
+        "num": 141561,
+        "word": "刘诗诗边跳舞边走",
+        "onboard_time": 1701437557,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140579,
+        "num": 140579,
+        "word": "黄子弘凡 广州音乐会vlog",
+        "onboard_time": 1701442537,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138400,
+        "num": 138400,
+        "word": "在暴雪时分",
+        "onboard_time": 1701443799,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137516,
+        "num": 137516,
+        "word": "沈腾说唐嫣那么不方便也走了",
+        "onboard_time": 1701436832,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136372,
+        "num": 136372,
+        "word": "宁远舟答应给任如意生孩子了",
+        "onboard_time": 1701439717,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132701,
+        "num": 132701,
+        "word": "杨幂赵丽颖 酱园弄",
+        "onboard_time": 1701421354,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132312,
+        "num": 132312,
+        "word": "周杰伦福州 开票",
+        "onboard_time": 1701440796,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131802,
+        "num": 131802,
+        "word": "梨泰院踩踏事故 纪录片",
+        "onboard_time": 1701416914,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127581,
+        "num": 127581,
+        "word": "肿瘤医院的外卖骑手从不和顾客说再见",
+        "onboard_time": 1701433292,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何让长三角一体化发展取得更大突破#"
+    }
+  }
+}

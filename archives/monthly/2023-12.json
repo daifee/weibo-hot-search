@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701441270672,
+  "endTime": 1701443903010,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -9,6 +9,14 @@
       "onboard_time": 1701399092,
       "rank": 0,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2504596,
+      "num": 149942,
+      "word": "健康码",
+      "onboard_time": 1701441699,
+      "rank": 38,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 2140737,
@@ -25,6 +33,14 @@
       "onboard_time": 1701430534,
       "rank": 0,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 1904287,
+      "num": 959287,
+      "word": "四川广东重现绿码",
+      "onboard_time": 1701438518,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1882880,
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1138962,
+      "num": 1138962,
+      "word": "甘肃酒泉地震",
+      "onboard_time": 1701443258,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1130557,
       "num": 1130557,
       "word": "陈志朋已退出被曝光公司",
@@ -171,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1058611,
+      "num": 1058611,
+      "word": "中国气象局发布大地磁暴预警",
+      "onboard_time": 1701438157,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1058430,
       "num": 1058430,
       "word": "警方通报网红校长郑强被传包养情妇",
@@ -203,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 959287,
-      "num": 959287,
-      "word": "四川广东重现绿码",
-      "onboard_time": 1701438518,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 904631,
       "num": 904631,
       "word": "女子提醒夫妻关远光灯被打致流产",
@@ -224,14 +248,6 @@
       "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
       "onboard_time": 1701378733,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 864118,
-      "num": 864118,
-      "word": "中国气象局发布大地磁暴预警",
-      "onboard_time": 1701438157,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -337,6 +353,14 @@
       "onboard_time": 1701389973,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 674878,
+      "num": 674878,
+      "word": "胖东来员工不想上班请假不允许不批假",
+      "onboard_time": 1701440737,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672174,
@@ -448,6 +472,14 @@
       "word": "地磁暴",
       "onboard_time": 1701437797,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 554805,
+      "num": 554805,
+      "word": "甘肃发现超亿吨级整装大油田",
+      "onboard_time": 1701440079,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -779,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 346032,
-      "num": 346032,
-      "word": "甘肃发现超亿吨级整装大油田",
-      "onboard_time": 1701440079,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342819,
       "num": 342819,
       "word": "人民网评海底捞跳舞争议",
@@ -1059,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272202,
+      "num": 272202,
+      "word": "GTA新作预告的预告",
+      "onboard_time": 1701443436,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271749,
       "num": 230422,
       "word": "沈月 头像大户",
@@ -1147,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256419,
+      "num": 256419,
+      "word": "一念关山 我只是宁远舟",
+      "onboard_time": 1701442960,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255153,
       "num": 255153,
       "word": "杨迪被林俊杰回关很开心",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1701387446,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 241601,
+      "num": 241601,
+      "word": "BLG对战GEN",
+      "onboard_time": 1701441818,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 241158,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1701403899,
       "rank": 32,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 232664,
+      "num": 232664,
+      "word": "假睫毛贴在真睫毛上方",
+      "onboard_time": 1701442359,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 232205,
@@ -1443,6 +1499,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 210924,
+      "num": 210924,
+      "word": "CBA",
+      "onboard_time": 1701442716,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210269,
       "num": 210269,
       "word": "瞒天过海 杀到疯瞒到底",
@@ -1491,8 +1555,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 205472,
-      "num": 205472,
+      "raw_hot": 205800,
+      "num": 205800,
       "word": "Bin对线chovy",
       "onboard_time": 1701441036,
       "rank": 30,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1701422375,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 197617,
+      "num": 197617,
+      "word": "赵文卓 不努力的演员直接淘汰",
+      "onboard_time": 1701443079,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 197110,
@@ -1619,6 +1691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192583,
+      "num": 192583,
+      "word": "声生不息家年华阵容",
+      "onboard_time": 1701443436,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192193,
       "num": 192193,
       "word": "红薯不宜和甜食一起吃",
@@ -1649,14 +1729,6 @@
       "onboard_time": 1701432933,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188649,
-      "num": 188649,
-      "word": "胖东来员工不想上班请假不允许不批假",
-      "onboard_time": 1701440737,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188382,
@@ -1875,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174114,
+      "num": 174114,
+      "word": "田嘉瑞希望和沈腾黄渤合作",
+      "onboard_time": 1701443377,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174060,
       "num": 133059,
       "word": "时代少年团 葫芦娃",
@@ -1921,6 +2001,14 @@
       "onboard_time": 1701388348,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 169703,
+      "num": 169703,
+      "word": "你们TWICE怎么发出马叫",
+      "onboard_time": 1701441216,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 169377,
@@ -2009,6 +2097,14 @@
       "onboard_time": 1701399693,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 161364,
+      "num": 161364,
+      "word": "知识以一种侮辱的方式进入了大脑",
+      "onboard_time": 1701442299,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 159638,
@@ -2123,6 +2219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150502,
+      "num": 150502,
+      "word": "蔡国庆 我的一生要为国家歌唱",
+      "onboard_time": 1701442658,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150157,
       "num": 91465,
       "word": "王俊凯巴黎游客照",
@@ -2195,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143547,
+      "num": 143547,
+      "word": "弗格49分",
+      "onboard_time": 1701441757,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143011,
       "num": 143011,
       "word": "SBS歌谣大战阵容",
@@ -2235,6 +2347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 140579,
+      "num": 140579,
+      "word": "黄子弘凡 广州音乐会vlog",
+      "onboard_time": 1701442537,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140444,
       "num": 140444,
       "word": "虞书欣再跳money手势舞",
@@ -2257,6 +2377,14 @@
       "onboard_time": 1701430113,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138400,
+      "num": 138400,
+      "word": "在暴雪时分",
+      "onboard_time": 1701443799,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 138327,
@@ -2297,14 +2425,6 @@
       "onboard_time": 1701347012,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131298,
-      "num": 131298,
-      "word": "你们TWICE怎么发出马叫",
-      "onboard_time": 1701441216,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 130601,
@@ -2492,7 +2612,7 @@
     },
     {
       "raw_hot": 80983,
-      "num": 977622,
+      "num": 979478,
       "word": "雪龙号抵达中山站",
       "onboard_time": 1701436956,
       "rank": 2,
