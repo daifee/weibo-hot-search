@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701400741159,
+  "endTime": 1701401683611,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -939,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1292092,
+      "num": 1292092,
+      "word": "谢娜报名家长会表演落选了",
+      "onboard_time": 1701397891,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1283037,
       "num": 1283037,
       "word": "张译 南极拒绝合影事件",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1700970516,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1180343,
-      "num": 1180343,
-      "word": "谢娜报名家长会表演落选了",
-      "onboard_time": 1701397891,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1178869,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1701234997,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 981050,
+      "num": 981050,
+      "word": "韩国申博失败",
+      "onboard_time": 1701399631,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 980818,
@@ -3347,14 +3355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 523873,
-      "num": 523873,
-      "word": "韩国申博失败",
-      "onboard_time": 1701399631,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523034,
       "num": 523034,
       "word": "科目三",
@@ -4377,6 +4377,14 @@
       "onboard_time": 1701240215,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426147,
+      "num": 233372,
+      "word": "正新鸡排正在被年轻人抛弃",
+      "onboard_time": 1701400775,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 425849,
@@ -8299,6 +8307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234472,
+      "num": 234472,
+      "word": "德云社",
+      "onboard_time": 1701399153,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 233768,
       "num": 233768,
       "word": "金泰妍迷你五辑to.X",
@@ -8393,6 +8409,14 @@
       "onboard_time": 1701095435,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 230817,
+      "num": 230817,
+      "word": "济南一退休老师被前女婿举报吃空饷",
+      "onboard_time": 1701398371,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 230675,
@@ -8625,14 +8649,6 @@
       "onboard_time": 1700993374,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224767,
-      "num": 224767,
-      "word": "济南一退休老师被前女婿举报吃空饷",
-      "onboard_time": 1701398371,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 224341,
@@ -8889,14 +8905,6 @@
       "onboard_time": 1701131618,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218081,
-      "num": 218081,
-      "word": "德云社",
-      "onboard_time": 1701399153,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 218057,
@@ -9203,6 +9211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210269,
+      "num": 210269,
+      "word": "瞒天过海 杀到疯瞒到底",
+      "onboard_time": 1701400533,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210201,
       "num": 236408,
       "word": "PUBG",
@@ -9273,6 +9289,14 @@
       "onboard_time": 1701332314,
       "rank": 45,
       "category": "动漫,剧集"
+    },
+    {
+      "raw_hot": 208542,
+      "num": 208542,
+      "word": "不慎得了艾滋病究竟能活多久",
+      "onboard_time": 1701400533,
+      "rank": 45,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 208278,
@@ -10193,6 +10217,14 @@
       "onboard_time": 1701083853,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194424,
+      "num": 194424,
+      "word": "王鹤棣丁程鑫在聊什么",
+      "onboard_time": 1701401195,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194332,
@@ -11147,6 +11179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180805,
+      "num": 180805,
+      "word": "昭节皇后是如意的逆鳞",
+      "onboard_time": 1701401615,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180797,
       "num": 180797,
       "word": "他荣立一等功2次却没有一张露脸照",
@@ -11321,14 +11361,6 @@
       "onboard_time": 1701152311,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176327,
-      "num": 176327,
-      "word": "瞒天过海 杀到疯瞒到底",
-      "onboard_time": 1701400533,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 176222,
@@ -11811,6 +11843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168578,
+      "num": 168578,
+      "word": "杜华为乐华年会策划cos局",
+      "onboard_time": 1701401074,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168137,
       "num": 168137,
       "word": "希林娜依高冬日甜美妆",
@@ -11833,6 +11873,14 @@
       "onboard_time": 1700996972,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167763,
+      "num": 167763,
+      "word": "电影照明商店提档",
+      "onboard_time": 1701401074,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 167734,
@@ -13139,6 +13187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140887,
+      "num": 140887,
+      "word": "SBS歌谣大战阵容",
+      "onboard_time": 1701401672,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140456,
       "num": 140456,
       "word": "萝卜花居然是甩出来的",
@@ -13867,14 +13923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113872,
-      "num": 113872,
-      "word": "不慎得了艾滋病究竟能活多久",
-      "onboard_time": 1701400533,
-      "rank": 45,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 113349,
       "num": 113349,
       "word": "TWICE 粉丝选择奖",
@@ -14225,6 +14273,14 @@
       "onboard_time": 1701213866,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92838,
+      "num": 179875,
+      "word": "一次眨眼的时间世界发生了什么",
+      "onboard_time": 1701400595,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92448,
@@ -14585,14 +14641,6 @@
       "onboard_time": 1700925409,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67293,
-      "num": 108855,
-      "word": "一次眨眼的时间世界发生了什么",
-      "onboard_time": 1701400595,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66527,
