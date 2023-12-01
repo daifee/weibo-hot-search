@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701434027065,
+  "endTime": 1701434997088,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2005976,
-      "num": 2005976,
+      "raw_hot": 2030512,
+      "num": 2030512,
       "word": "唐嫣cos狂飙大嫂",
       "onboard_time": 1701430534,
       "rank": 0,
@@ -171,8 +171,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1020870,
-      "num": 1020870,
+      "raw_hot": 1041511,
+      "num": 1041511,
       "word": "胖东来创始人称管理层已实现190天休假",
       "onboard_time": 1701430233,
       "rank": 43,
@@ -185,6 +185,14 @@
       "onboard_time": 1701357161,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931993,
+      "num": 931993,
+      "word": "肖战 拉夫劳伦香氛",
+      "onboard_time": 1701434015,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 904631,
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485807,
+      "num": 485807,
+      "word": "肿瘤医院的外卖骑手从不和顾客说再见",
+      "onboard_time": 1701433292,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485069,
       "num": 485069,
       "word": "比酒精还厉害的肝脏刺客",
@@ -571,6 +587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 412775,
+      "num": 412775,
+      "word": "小猫耳朵会被冻掉",
+      "onboard_time": 1701433113,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 409668,
       "num": 409668,
       "word": "易烊千玺vlog i人常态",
@@ -595,20 +619,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 383549,
+      "num": 383549,
+      "word": "女团为了不养猪宁愿睡桥洞",
+      "onboard_time": 1701431253,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381630,
       "num": 381630,
       "word": "纪梵希 洪知秀",
       "onboard_time": 1701405040,
       "rank": 25,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 378712,
-      "num": 378712,
-      "word": "女团为了不养猪宁愿睡桥洞",
-      "onboard_time": 1701431253,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 369445,
@@ -643,20 +667,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 356906,
-      "num": 356906,
-      "word": "肿瘤医院的外卖骑手从不和顾客说再见",
-      "onboard_time": 1701433292,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356632,
       "num": 356632,
       "word": "海底捞员工称门店内卷让人疲惫",
       "onboard_time": 1701404315,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355550,
+      "num": 355550,
+      "word": "唐毅 章子怡古早妆",
+      "onboard_time": 1701434074,
+      "rank": 7,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 352966,
@@ -859,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285509,
+      "num": 285509,
+      "word": "邓为直播",
+      "onboard_time": 1701433172,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284060,
       "num": 284060,
       "word": "一念关山 配音",
@@ -881,14 +913,6 @@
       "onboard_time": 1701400533,
       "rank": 45,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 277020,
-      "num": 165956,
-      "word": "小猫耳朵会被冻掉",
-      "onboard_time": 1701433113,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 276862,
@@ -969,14 +993,6 @@
       "onboard_time": 1701394472,
       "rank": 30,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 262971,
-      "num": 262971,
-      "word": "邓为直播",
-      "onboard_time": 1701433172,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 262861,
@@ -1219,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213073,
+      "num": 213073,
+      "word": "花少团与迪丽热巴分享见闻",
+      "onboard_time": 1701433833,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212658,
       "num": 212658,
       "word": "时代少年团G社生图",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1701400533,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208472,
+      "num": 162061,
+      "word": "国乒备战混合团体世界杯",
+      "onboard_time": 1701434614,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 207123,
@@ -1313,6 +1345,14 @@
       "onboard_time": 1701392672,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197009,
+      "num": 197009,
+      "word": "极光",
+      "onboard_time": 1701434494,
+      "rank": 23,
+      "category": "自然"
     },
     {
       "raw_hot": 196209,
@@ -1619,14 +1659,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 173547,
-      "num": 173547,
-      "word": "花少团与迪丽热巴分享见闻",
-      "onboard_time": 1701433833,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173388,
       "num": 173388,
       "word": "勇士战胜快船",
@@ -1792,6 +1824,14 @@
       "word": "薛之谦 我爸多亏有我这样的儿子",
       "onboard_time": 1701430413,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156422,
+      "num": 156422,
+      "word": "王牌对王牌",
+      "onboard_time": 1701434675,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1979,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132805,
+      "num": 132805,
+      "word": "北控男篮vs辽宁男篮",
+      "onboard_time": 1701434254,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131584,
       "num": 131584,
       "word": "真的到此为止了吗 菩萨",
@@ -2113,6 +2161,14 @@
       "onboard_time": 1701403235,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97473,
+      "num": 97473,
+      "word": "你为什么不爱吃炸鸡了",
+      "onboard_time": 1701434974,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 96818,
@@ -2275,6 +2331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 29554,
+      "num": 974122,
+      "word": "这就是长三角",
+      "onboard_time": 1701422737,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23281,
       "num": 26892,
       "word": "曼联欧冠出线局势",
@@ -2313,14 +2377,6 @@
       "onboard_time": 1701366738,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 8638,
-      "num": 466111,
-      "word": "这就是长三角",
-      "onboard_time": 1701422737,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
