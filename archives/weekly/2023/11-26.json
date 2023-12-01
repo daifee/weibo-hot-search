@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701419747870,
+  "endTime": 1701422274167,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -483,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1803596,
+      "num": 1803596,
+      "word": "梨泰院踩踏事故 纪录片",
+      "onboard_time": 1701416914,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1799458,
       "num": 1090862,
       "word": "吴慷仁 金马影帝",
@@ -689,14 +697,6 @@
       "onboard_time": 1701414333,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1528015,
-      "num": 1528015,
-      "word": "梨泰院踩踏事故 纪录片",
-      "onboard_time": 1701416914,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1524826,
@@ -1579,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 932970,
+      "num": 932970,
+      "word": "冰冷的40亿",
+      "onboard_time": 1701421114,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 930091,
       "num": 980626,
       "word": "王鹤棣 尖叫男演员",
@@ -1641,6 +1649,14 @@
       "onboard_time": 1700909920,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 904631,
+      "num": 904631,
+      "word": "女子提醒夫妻关远光灯被打致流产",
+      "onboard_time": 1701416557,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 901338,
@@ -2299,14 +2315,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 701465,
-      "num": 701465,
-      "word": "女子提醒夫妻关远光灯被打致流产",
-      "onboard_time": 1701416557,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 696400,
       "num": 696400,
       "word": "福宝",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1701174876,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 641845,
+      "num": 641845,
+      "word": "00后姑娘3份工作上班2年全款买房",
+      "onboard_time": 1701419796,
+      "rank": 6,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 639589,
@@ -3049,6 +3065,14 @@
       "onboard_time": 1701176018,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 583576,
+      "num": 583576,
+      "word": "杨幂赵丽颖 酱园弄",
+      "onboard_time": 1701421354,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 581863,
@@ -3859,6 +3883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 486865,
+      "num": 434319,
+      "word": "疑阿里被献血女子丈夫求助帖曝光",
+      "onboard_time": 1701420333,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485475,
       "num": 485475,
       "word": "很想很想你",
@@ -4161,6 +4193,14 @@
       "onboard_time": 1700955865,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 460042,
+      "num": 431316,
+      "word": "小虎队 陈志朋团队禁词",
+      "onboard_time": 1701421715,
+      "rank": 11,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 459387,
@@ -7851,6 +7891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259299,
+      "num": 167692,
+      "word": "中S和汪大菲",
+      "onboard_time": 1701421954,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258740,
       "num": 258740,
       "word": "刘亦菲淡颜减龄初恋妆",
@@ -8897,6 +8945,14 @@
       "onboard_time": 1701260376,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228532,
+      "num": 228532,
+      "word": "这个浏览量 我是什么很丑的人吗",
+      "onboard_time": 1701420273,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 228531,
@@ -11355,6 +11411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186655,
+      "num": 186655,
+      "word": "山东灌香肠",
+      "onboard_time": 1701420514,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186514,
       "num": 186514,
       "word": "恋恋红茶 RNG没有Ming",
@@ -11953,6 +12017,14 @@
       "onboard_time": 1701269198,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175349,
+      "num": 175349,
+      "word": "楼炅择仿妆宁艺卓",
+      "onboard_time": 1701419917,
+      "rank": 28,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 175339,
@@ -13707,6 +13779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142006,
+      "num": 142006,
+      "word": "网友通过QQ群互换淫秽视频被批捕",
+      "onboard_time": 1701421653,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141942,
       "num": 141942,
       "word": "宁安如梦剧组在台上拍大合影",
@@ -14227,6 +14307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127318,
+      "num": 127318,
+      "word": "刘诗诗问六道堂F5为什么不秀腹肌",
+      "onboard_time": 1701420094,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127173,
       "num": 217128,
       "word": "这跑道真的会让人爱上跑步",
@@ -14545,6 +14633,14 @@
       "onboard_time": 1701240273,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114111,
+      "num": 114111,
+      "word": "十个勤天 军大衣",
+      "onboard_time": 1701422196,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 113892,
@@ -15475,6 +15571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57338,
+      "num": 1450818,
+      "word": "大美中国",
+      "onboard_time": 1701404436,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56731,
       "num": 56731,
       "word": "袁姗姗在线求固定猫窝的方法",
@@ -15904,14 +16008,6 @@
       "word": "海底捞科目三小哥回应走红",
       "onboard_time": 1701115692,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17229,
-      "num": 1450818,
-      "word": "大美中国",
-      "onboard_time": 1701404436,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

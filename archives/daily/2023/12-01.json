@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701419747870,
+  "endTime": 1701422274167,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1803596,
+      "num": 1803596,
+      "word": "梨泰院踩踏事故 纪录片",
+      "onboard_time": 1701416914,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1767780,
       "num": 1767780,
       "word": "韩国申博失败",
@@ -65,14 +73,6 @@
       "onboard_time": 1701414333,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1528015,
-      "num": 1528015,
-      "word": "梨泰院踩踏事故 纪录片",
-      "onboard_time": 1701416914,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1472057,
@@ -152,6 +152,22 @@
       "word": "因郑州暴雨被降级的市长重回正厅级",
       "onboard_time": 1701357161,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 932970,
+      "num": 932970,
+      "word": "冰冷的40亿",
+      "onboard_time": 1701421114,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 904631,
+      "num": 904631,
+      "word": "女子提醒夫妻关远光灯被打致流产",
+      "onboard_time": 1701416557,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -251,14 +267,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 701465,
-      "num": 701465,
-      "word": "女子提醒夫妻关远光灯被打致流产",
-      "onboard_time": 1701416557,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 680614,
       "num": 680614,
       "word": "十二月狗屎运最旺的星座",
@@ -281,6 +289,14 @@
       "onboard_time": 1701405881,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 641845,
+      "num": 641845,
+      "word": "00后姑娘3份工作上班2年全款买房",
+      "onboard_time": 1701419796,
+      "rank": 6,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 638962,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 583576,
+      "num": 583576,
+      "word": "杨幂赵丽颖 酱园弄",
+      "onboard_time": 1701421354,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 581863,
       "num": 581863,
       "word": "因走红暂停生意鹅腿阿姨很着急",
@@ -371,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 486865,
+      "num": 434319,
+      "word": "疑阿里被献血女子丈夫求助帖曝光",
+      "onboard_time": 1701420333,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485069,
       "num": 485069,
       "word": "比酒精还厉害的肝脏刺客",
@@ -393,6 +425,14 @@
       "onboard_time": 1701406419,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460042,
+      "num": 431316,
+      "word": "小虎队 陈志朋团队禁词",
+      "onboard_time": 1701421715,
+      "rank": 11,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 459687,
@@ -787,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259299,
+      "num": 167692,
+      "word": "中S和汪大菲",
+      "onboard_time": 1701421954,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257643,
       "num": 257643,
       "word": "李晨被选手激起的水花误伤",
@@ -889,6 +937,14 @@
       "onboard_time": 1701398010,
       "rank": 46,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 228532,
+      "num": 228532,
+      "word": "这个浏览量 我是什么很丑的人吗",
+      "onboard_time": 1701420273,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 228273,
@@ -1139,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186655,
+      "num": 186655,
+      "word": "山东灌香肠",
+      "onboard_time": 1701420514,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185964,
       "num": 185964,
       "word": "星光大赏ie双红毯",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1701410374,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175349,
+      "num": 175349,
+      "word": "楼炅择仿妆宁艺卓",
+      "onboard_time": 1701419917,
+      "rank": 28,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 174437,
@@ -1499,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142006,
+      "num": 142006,
+      "word": "网友通过QQ群互换淫秽视频被批捕",
+      "onboard_time": 1701421653,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140444,
       "num": 140444,
       "word": "虞书欣再跳money手势舞",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1701347012,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127318,
+      "num": 127318,
+      "word": "刘诗诗问六道堂F5为什么不秀腹肌",
+      "onboard_time": 1701420094,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 126355,
@@ -1584,6 +1672,14 @@
       "word": "音银12月停播",
       "onboard_time": 1701386723,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114111,
+      "num": 114111,
+      "word": "十个勤天 军大衣",
+      "onboard_time": 1701422196,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1747,6 +1843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 57338,
+      "num": 1450818,
+      "word": "大美中国",
+      "onboard_time": 1701404436,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50674,
       "num": 1451499,
       "word": "60秒看祖国各地冬日美景",
@@ -1793,14 +1897,6 @@
       "onboard_time": 1701374833,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17229,
-      "num": 1450818,
-      "word": "大美中国",
-      "onboard_time": 1701404436,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12935,
