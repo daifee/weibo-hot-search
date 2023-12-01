@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701393745646,
+  "endTime": 1701395041274,
   "band_list": [
     {
       "raw_hot": 2140737,
@@ -27,8 +27,8 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 1545970,
-      "num": 1545970,
+      "raw_hot": 1564593,
+      "num": 1564593,
       "word": "杨鸣 思思",
       "onboard_time": 1701392253,
       "rank": 3,
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 899689,
+      "num": 899689,
+      "word": "警方通报网红校长郑强被传包养情妇",
+      "onboard_time": 1701393215,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 895431,
       "num": 895431,
       "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
       "onboard_time": 1701378733,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775174,
+      "num": 775174,
+      "word": "同样是下暴雨 港剧vs内娱",
+      "onboard_time": 1701392913,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 746697,
@@ -171,20 +187,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 358188,
-      "num": 358188,
-      "word": "警方通报网红校长郑强被传包养情妇",
-      "onboard_time": 1701393215,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344798,
-      "num": 344798,
-      "word": "同样是下暴雨 港剧vs内娱",
-      "onboard_time": 1701392913,
-      "rank": 13,
-      "category": "作品衍生"
+      "raw_hot": 343350,
+      "num": 230468,
+      "word": "李荣浩杨丞琳情头",
+      "onboard_time": 1701393632,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 340668,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 310498,
-      "num": 248214,
+      "num": 296402,
       "word": "龚俊拖白敬亭一起扭",
       "onboard_time": 1701391595,
       "rank": 19,
@@ -249,6 +257,14 @@
       "onboard_time": 1701332375,
       "rank": 14,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 293043,
+      "num": 293043,
+      "word": "女子跳楼瞬间被众人紧紧抓住救下",
+      "onboard_time": 1701391595,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287776,
@@ -307,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249402,
-      "num": 249402,
-      "word": "女子跳楼瞬间被众人紧紧抓住救下",
-      "onboard_time": 1701391595,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "特斯拉交付首批电动皮卡",
@@ -347,6 +355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 217838,
+      "num": 217838,
+      "word": "熊猫丫丫野餐还有小竹篮",
+      "onboard_time": 1701393814,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "中学女生发型 鲶鱼须遮半张脸",
@@ -363,6 +379,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212658,
+      "num": 212658,
+      "word": "时代少年团G社生图",
+      "onboard_time": 1701393215,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 210791,
+      "num": 195365,
+      "word": "男子玩游戏被盖猪肉印章求助清除高招",
+      "onboard_time": 1701394472,
+      "rank": 30,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 207123,
       "num": 207123,
       "word": "十二月你好",
@@ -377,6 +409,14 @@
       "onboard_time": 1701356979,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197110,
+      "num": 197110,
+      "word": "2人向大熊猫扔木棍石头被通报",
+      "onboard_time": 1701392672,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196209,
@@ -411,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191990,
-      "num": 191990,
-      "word": "时代少年团G社生图",
-      "onboard_time": 1701393215,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 191419,
       "num": 133887,
       "word": "周也 周天后是周一",
@@ -427,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183710,
-      "num": 183710,
-      "word": "2人向大熊猫扔木棍石头被通报",
-      "onboard_time": 1701392672,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 185547,
+      "num": 185547,
+      "word": "陈楚生 接梗刺客",
+      "onboard_time": 1701394650,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 182906,
@@ -441,6 +473,14 @@
       "onboard_time": 1701392134,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179266,
+      "num": 179266,
+      "word": "很想很想你 配音演员",
+      "onboard_time": 1701393454,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 174437,
@@ -483,20 +523,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 169846,
-      "num": 169846,
-      "word": "很想很想你 配音演员",
-      "onboard_time": 1701393454,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169377,
       "num": 132687,
       "word": "李龙馥 洋妞",
       "onboard_time": 1701349055,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167123,
+      "num": 167123,
+      "word": "小满生活收视率连续8天破2",
+      "onboard_time": 1701394352,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 164921,
@@ -507,16 +547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164392,
-      "num": 164392,
-      "word": "李荣浩杨丞琳情头",
-      "onboard_time": 1701393632,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163472,
-      "num": 127893,
+      "num": 150972,
       "word": "陈妍希杨丞琳潘玮柏合照",
       "onboard_time": 1701357100,
       "rank": 40,
