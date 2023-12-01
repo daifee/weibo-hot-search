@@ -1,0 +1,410 @@
+{
+  "runTime": 1701407830982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1887585,
+        "num": 1887585,
+        "word": "陈志朋 偷税漏税",
+        "onboard_time": 1701399092,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1865832,
+        "num": 1865832,
+        "word": "金莎男友 开塞露",
+        "onboard_time": 1701404079,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50674,
+        "num": 1325066,
+        "word": "60秒看祖国各地冬日美景",
+        "onboard_time": 1701404742,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041843,
+        "num": 1041843,
+        "word": "女子输血感染艾滋10年后才发现",
+        "onboard_time": 1701402273,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818687,
+        "num": 818687,
+        "word": "刘宇宁体态",
+        "onboard_time": 1701403835,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 705045,
+        "num": 705045,
+        "word": "韩国申博失败",
+        "onboard_time": 1701399631,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655147,
+        "num": 655147,
+        "word": "王嘉尔北京演唱会取消",
+        "onboard_time": 1701405881,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 624740,
+        "num": 624740,
+        "word": "RNG Ming",
+        "onboard_time": 1701404742,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 615560,
+        "num": 615560,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701392253,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 523321,
+        "num": 523321,
+        "word": "谢娜报名家长会表演落选了",
+        "onboard_time": 1701397891,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516826,
+        "num": 516826,
+        "word": "继承父母遗产属于夫妻共同财产吗",
+        "onboard_time": 1701405638,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471293,
+        "num": 471293,
+        "word": "星光大赏阵容官宣",
+        "onboard_time": 1701406419,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409822,
+        "num": 409822,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701403117,
+        "rank": 12,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 397759,
+        "num": 397759,
+        "word": "上海独生女继承2亿遗产后被离婚",
+        "onboard_time": 1701351038,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381630,
+        "num": 381630,
+        "word": "纪梵希 洪知秀",
+        "onboard_time": 1701405040,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 364023,
+        "num": 364023,
+        "word": "炎亚纶奶茶店永久停业",
+        "onboard_time": 1701407499,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356632,
+        "num": 356632,
+        "word": "海底捞员工称门店内卷让人疲惫",
+        "onboard_time": 1701404315,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354784,
+        "num": 354784,
+        "word": "警方通报网红校长郑强被传包养情妇",
+        "onboard_time": 1701393215,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352966,
+        "num": 352966,
+        "word": "接TES Meiko",
+        "onboard_time": 1701406000,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325136,
+        "num": 325136,
+        "word": "谢娜 产后抑郁",
+        "onboard_time": 1701389854,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626414,
+        "num": 319638,
+        "word": "学历含金量最高的人设出现了",
+        "onboard_time": 1701406238,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 441189,
+        "num": 316431,
+        "word": "正新鸡排正在被年轻人抛弃",
+        "onboard_time": 1701400775,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 293971,
+        "num": 293971,
+        "word": "迪丽热巴 跨年晚会",
+        "onboard_time": 1701405223,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281742,
+        "num": 281742,
+        "word": "黄晓明呼吁不要歧视艾滋病病毒感染者",
+        "onboard_time": 1701402937,
+        "rank": 23,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 272177,
+        "num": 272177,
+        "word": "iPhone16全系告别静音拨片",
+        "onboard_time": 1701396871,
+        "rank": 24,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 262077,
+        "num": 262077,
+        "word": "周杰伦预告新歌上线时间",
+        "onboard_time": 1701406179,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240497,
+        "num": 240497,
+        "word": "泥鳅结婚",
+        "onboard_time": 1701405765,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240286,
+        "num": 240286,
+        "word": "虞书欣演AI",
+        "onboard_time": 1701404436,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238437,
+        "num": 238437,
+        "word": "她看我皮囊还不错",
+        "onboard_time": 1701406480,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233464,
+        "num": 233464,
+        "word": "孩子咳嗽出现怪声一定要注意",
+        "onboard_time": 1701403899,
+        "rank": 29,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 237478,
+        "num": 232788,
+        "word": "李荣浩杨丞琳情头",
+        "onboard_time": 1701393632,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215703,
+        "num": 215703,
+        "word": "刘浩存林一脱轨预告",
+        "onboard_time": 1701406301,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215122,
+        "num": 215122,
+        "word": "32个城市地铁仅有5城盈利",
+        "onboard_time": 1701406660,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210870,
+        "num": 210870,
+        "word": "同样是下暴雨 港剧vs内娱",
+        "onboard_time": 1701392913,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202077,
+        "num": 202077,
+        "word": "陈志朋被曝辱骂工作人员拖欠赔偿金",
+        "onboard_time": 1701402815,
+        "rank": 34,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 198677,
+        "num": 198677,
+        "word": "十二月狗屎运最旺的星座",
+        "onboard_time": 1701389973,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190284,
+        "num": 190284,
+        "word": "不慎得了艾滋病究竟能活多久",
+        "onboard_time": 1701400533,
+        "rank": 36,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 184327,
+        "num": 184327,
+        "word": "檀健次新剧头像是相柳的月亮",
+        "onboard_time": 1701406899,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163012,
+        "num": 163012,
+        "word": "因走红暂停生意鹅腿阿姨很着急",
+        "onboard_time": 1701396271,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150162,
+        "num": 150162,
+        "word": "一对艾滋夫妇的第19年",
+        "onboard_time": 1701391774,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183386,
+        "num": 150154,
+        "word": "QQ音乐年度报告",
+        "onboard_time": 1701402156,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171075,
+        "num": 149973,
+        "word": "相柳九个头不如莫青成一张嘴",
+        "onboard_time": 1701404980,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165153,
+        "num": 149894,
+        "word": "甜蜜家园2",
+        "onboard_time": 1701406480,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163799,
+        "num": 149859,
+        "word": "新闻女王 许诗晴人设",
+        "onboard_time": 1701397050,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159292,
+        "num": 149733,
+        "word": "刘德华 这次的角色真的坏透了",
+        "onboard_time": 1701405164,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149685,
+        "num": 149685,
+        "word": "十二月的奇迹",
+        "onboard_time": 1701403356,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145447,
+        "num": 145447,
+        "word": "比酒精还厉害的肝脏刺客",
+        "onboard_time": 1701395071,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130557,
+        "num": 130557,
+        "word": "出狱10年后她见到恩人现状惊到下跪",
+        "onboard_time": 1701397891,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117653,
+        "num": 117653,
+        "word": "萌兰都快把院子里的树杈盘包浆了",
+        "onboard_time": 1701407318,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114472,
+        "num": 114472,
+        "word": "长期睡前玩手机会付出啥代价",
+        "onboard_time": 1701356500,
+        "rank": 49,
+        "category": "健康医疗,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动长三角一体化发展取得新的重大突破#"
+    }
+  }
+}

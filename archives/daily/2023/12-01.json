@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701405352962,
+  "endTime": 1701407830982,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1865832,
+      "num": 1865832,
+      "word": "金莎男友 开塞露",
+      "onboard_time": 1701404079,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1767780,
       "num": 1767780,
       "word": "韩国申博失败",
@@ -41,14 +49,6 @@
       "onboard_time": 1701356500,
       "rank": 20,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 1717357,
-      "num": 1717357,
-      "word": "金莎男友 开塞露",
-      "onboard_time": 1701404079,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1564593,
@@ -91,19 +91,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1041843,
+      "num": 1041843,
+      "word": "女子输血感染艾滋10年后才发现",
+      "onboard_time": 1701402273,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 972312,
       "num": 972312,
       "word": "因郑州暴雨被降级的市长重回正厅级",
       "onboard_time": 1701357161,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915446,
-      "num": 915446,
-      "word": "女子输血感染艾滋10年后才发现",
-      "onboard_time": 1701402273,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -113,6 +113,14 @@
       "onboard_time": 1701378733,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 818687,
+      "num": 818687,
+      "word": "刘宇宁体态",
+      "onboard_time": 1701403835,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 775174,
@@ -171,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 673711,
-      "num": 673711,
-      "word": "刘宇宁体态",
-      "onboard_time": 1701403835,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 672174,
       "num": 672174,
       "word": "iPhone16全系告别静音拨片",
@@ -187,8 +187,24 @@
       "category": "数码,社会新闻"
     },
     {
+      "raw_hot": 655147,
+      "num": 655147,
+      "word": "王嘉尔北京演唱会取消",
+      "onboard_time": 1701405881,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 626414,
+      "num": 319638,
+      "word": "学历含金量最高的人设出现了",
+      "onboard_time": 1701406238,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 619353,
-      "num": 307068,
+      "num": 316431,
       "word": "正新鸡排正在被年轻人抛弃",
       "onboard_time": 1701400775,
       "rank": 20,
@@ -235,6 +251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 516826,
+      "num": 516826,
+      "word": "继承父母遗产属于夫妻共同财产吗",
+      "onboard_time": 1701405638,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485069,
       "num": 485069,
       "word": "比酒精还厉害的肝脏刺客",
@@ -249,6 +273,14 @@
       "onboard_time": 1701346594,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 471293,
+      "num": 471293,
+      "word": "星光大赏阵容官宣",
+      "onboard_time": 1701406419,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 459687,
@@ -299,12 +331,44 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 381630,
+      "num": 381630,
+      "word": "纪梵希 洪知秀",
+      "onboard_time": 1701405040,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 364023,
+      "num": 364023,
+      "word": "炎亚纶奶茶店永久停业",
+      "onboard_time": 1701407499,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362030,
       "num": 362030,
       "word": "QQ音乐年度报告",
       "onboard_time": 1701402156,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356632,
+      "num": 356632,
+      "word": "海底捞员工称门店内卷让人疲惫",
+      "onboard_time": 1701404315,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352966,
+      "num": 352966,
+      "word": "接TES Meiko",
+      "onboard_time": 1701406000,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 352095,
@@ -411,6 +475,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 293971,
+      "num": 293971,
+      "word": "迪丽热巴 跨年晚会",
+      "onboard_time": 1701405223,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293043,
       "num": 293043,
       "word": "女子跳楼瞬间被众人紧紧抓住救下",
@@ -441,14 +513,6 @@
       "onboard_time": 1701396030,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282360,
-      "num": 282360,
-      "word": "海底捞员工称门店内卷让人疲惫",
-      "onboard_time": 1701404315,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280760,
@@ -531,6 +595,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 262077,
+      "num": 262077,
+      "word": "周杰伦预告新歌上线时间",
+      "onboard_time": 1701406179,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253348,
       "num": 253348,
       "word": "重庆地铁偶遇张艺兴",
@@ -547,20 +619,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 248906,
-      "num": 248906,
-      "word": "纪梵希 洪知秀",
-      "onboard_time": 1701405040,
-      "rank": 25,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "特斯拉交付首批电动皮卡",
       "onboard_time": 1701387446,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 240497,
+      "num": 240497,
+      "word": "泥鳅结婚",
+      "onboard_time": 1701405765,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238437,
+      "num": 238437,
+      "word": "她看我皮囊还不错",
+      "onboard_time": 1701406480,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 234472,
@@ -585,6 +665,14 @@
       "onboard_time": 1701354636,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233464,
+      "num": 233464,
+      "word": "孩子咳嗽出现怪声一定要注意",
+      "onboard_time": 1701403899,
+      "rank": 32,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 232205,
@@ -619,14 +707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217941,
-      "num": 217941,
-      "word": "孩子咳嗽出现怪声一定要注意",
-      "onboard_time": 1701403899,
-      "rank": 32,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "中学女生发型 鲶鱼须遮半张脸",
@@ -641,6 +721,22 @@
       "onboard_time": 1701392434,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215703,
+      "num": 215703,
+      "word": "刘浩存林一脱轨预告",
+      "onboard_time": 1701406301,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215122,
+      "num": 215122,
+      "word": "32个城市地铁仅有5城盈利",
+      "onboard_time": 1701406660,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212658,
@@ -787,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184327,
+      "num": 184327,
+      "word": "檀健次新剧头像是相柳的月亮",
+      "onboard_time": 1701406899,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182906,
       "num": 182906,
       "word": "关晓彤眼里王牌家族是什么搭子",
@@ -907,6 +1011,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 165153,
+      "num": 149894,
+      "word": "甜蜜家园2",
+      "onboard_time": 1701406480,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164921,
       "num": 124206,
       "word": "一念关山",
@@ -931,12 +1043,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 159344,
-      "num": 159344,
-      "word": "迪丽热巴 跨年晚会",
-      "onboard_time": 1701405223,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 159292,
+      "num": 149899,
+      "word": "刘德华 这次的角色真的坏透了",
+      "onboard_time": 1701405164,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 155883,
@@ -969,14 +1081,6 @@
       "onboard_time": 1701354398,
       "rank": 43,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 149899,
-      "num": 149899,
-      "word": "刘德华 这次的角色真的坏透了",
-      "onboard_time": 1701405164,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 149357,
@@ -1088,6 +1192,14 @@
       "word": "大叔把自家老宅打造成袖珍园林",
       "onboard_time": 1701405343,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117653,
+      "num": 117653,
+      "word": "萌兰都快把院子里的树杈盘包浆了",
+      "onboard_time": 1701407318,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1251,20 +1363,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 50674,
+      "num": 1451499,
+      "word": "60秒看祖国各地冬日美景",
+      "onboard_time": 1701404742,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46642,
       "num": 46642,
       "word": "恋与制作人六周年",
       "onboard_time": 1701363982,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 44490,
-      "num": 1451499,
-      "word": "60秒看祖国各地冬日美景",
-      "onboard_time": 1701404742,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23281,
