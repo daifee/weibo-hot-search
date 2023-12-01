@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701401683611,
+  "endTime": 1701404502241,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -505,6 +505,14 @@
       "onboard_time": 1701234578,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1767780,
+      "num": 1767780,
+      "word": "韩国申博失败",
+      "onboard_time": 1701399631,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1760217,
@@ -1363,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 981050,
-      "num": 981050,
-      "word": "韩国申博失败",
-      "onboard_time": 1701399631,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 980818,
       "num": 980818,
       "word": "韩国公务员想升职得先生娃",
@@ -1889,6 +1889,14 @@
       "onboard_time": 1701311259,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 781800,
+      "num": 781800,
+      "word": "女子输血感染艾滋10年后才发现",
+      "onboard_time": 1701402273,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 775174,
@@ -2673,6 +2681,14 @@
       "onboard_time": 1701078755,
       "rank": 13,
       "category": "自然"
+    },
+    {
+      "raw_hot": 619353,
+      "num": 307068,
+      "word": "正新鸡排正在被年轻人抛弃",
+      "onboard_time": 1701400775,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 616244,
@@ -3635,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 491750,
+      "num": 491750,
+      "word": "金莎男友 开塞露",
+      "onboard_time": 1701404079,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490993,
       "num": 490993,
       "word": "丞磊锦月如歌出妆",
@@ -4379,14 +4403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426147,
-      "num": 233372,
-      "word": "正新鸡排正在被年轻人抛弃",
-      "onboard_time": 1701400775,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 425849,
       "num": 425849,
       "word": "连电视剧都有双休了",
@@ -4417,6 +4433,14 @@
       "onboard_time": 1701263018,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 422569,
+      "num": 422569,
+      "word": "陈志朋被曝辱骂工作人员拖欠赔偿金",
+      "onboard_time": 1701402815,
+      "rank": 13,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 422001,
@@ -5139,6 +5163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 362030,
+      "num": 362030,
+      "word": "QQ音乐年度报告",
+      "onboard_time": 1701402156,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 361974,
       "num": 342205,
       "word": "马嘉祺 迪士尼",
@@ -5705,6 +5737,14 @@
       "onboard_time": 1701250297,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 326570,
+      "num": 326570,
+      "word": "刘宇宁体态",
+      "onboard_time": 1701403835,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 326387,
@@ -6403,6 +6443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 296878,
+      "num": 296878,
+      "word": "黄晓明呼吁不要歧视艾滋病病毒感染者",
+      "onboard_time": 1701402937,
+      "rank": 21,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 296660,
       "num": 296660,
       "word": "白鹿发视频告别姜雪宁",
@@ -6883,6 +6931,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 280257,
+      "num": 280257,
+      "word": "不慎得了艾滋病究竟能活多久",
+      "onboard_time": 1701400533,
+      "rank": 45,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 280211,
       "num": 646646,
       "word": "烈士的遗物是遗留在体内的子弹",
@@ -7113,6 +7169,14 @@
       "onboard_time": 1701325299,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 272319,
+      "num": 272319,
+      "word": "新闻女王 许诗晴人设",
+      "onboard_time": 1701397050,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 272055,
@@ -7683,14 +7747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252299,
-      "num": 252299,
-      "word": "新闻女王 许诗晴人设",
-      "onboard_time": 1701397050,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252204,
       "num": 252204,
       "word": "周传雄 冬天的秘密",
@@ -7865,6 +7921,14 @@
       "onboard_time": 1701096637,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247049,
+      "num": 247049,
+      "word": "十二月的奇迹",
+      "onboard_time": 1701403356,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 247006,
@@ -9291,14 +9355,6 @@
       "category": "动漫,剧集"
     },
     {
-      "raw_hot": 208542,
-      "num": 208542,
-      "word": "不慎得了艾滋病究竟能活多久",
-      "onboard_time": 1701400533,
-      "rank": 45,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 208278,
       "num": 208278,
       "word": "老狼也在听鹿晗新歌",
@@ -9457,6 +9513,14 @@
       "onboard_time": 1700972735,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 205243,
+      "word": "王鹤棣丁程鑫在聊什么",
+      "onboard_time": 1701401195,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205045,
@@ -9745,6 +9809,14 @@
       "onboard_time": 1701148357,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200744,
+      "num": 200744,
+      "word": "孩子咳嗽出现怪声一定要注意",
+      "onboard_time": 1701403899,
+      "rank": 32,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 200741,
@@ -10219,14 +10291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 194424,
-      "num": 194424,
-      "word": "王鹤棣丁程鑫在聊什么",
-      "onboard_time": 1701401195,
-      "rank": 29,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 194332,
       "num": 194332,
       "word": "刘宇宁 每个人心里都有自己的宁远舟",
@@ -10305,6 +10369,14 @@
       "onboard_time": 1701090817,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193915,
+      "num": 193915,
+      "word": "MMA阵容",
+      "onboard_time": 1701402695,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 193597,
@@ -13035,6 +13107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143011,
+      "num": 143011,
+      "word": "SBS歌谣大战阵容",
+      "onboard_time": 1701401672,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142860,
       "num": 142860,
       "word": "湖人vs76人",
@@ -13185,14 +13265,6 @@
       "onboard_time": 1700998233,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 140887,
-      "num": 140887,
-      "word": "SBS歌谣大战阵容",
-      "onboard_time": 1701401672,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 140456,
@@ -13635,6 +13707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126355,
+      "num": 319819,
+      "word": "一次眨眼的时间世界发生了什么",
+      "onboard_time": 1701400595,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126170,
       "num": 126170,
       "word": "爱豆减肥舞",
@@ -13809,6 +13889,14 @@
       "onboard_time": 1701273931,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119809,
+      "num": 119809,
+      "word": "虞书欣演AI",
+      "onboard_time": 1701404436,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 119409,
@@ -14275,14 +14363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92838,
-      "num": 179875,
-      "word": "一次眨眼的时间世界发生了什么",
-      "onboard_time": 1701400595,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92448,
       "num": 377463,
       "word": "当代中年夫妻现状",
@@ -14425,6 +14505,14 @@
       "onboard_time": 1700919227,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82926,
+      "num": 145726,
+      "word": "羊的这几个部位千万别吃",
+      "onboard_time": 1701403235,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82745,
@@ -15295,6 +15383,14 @@
       "num": 1085143,
       "word": "在数贸会现场遇见未来生活",
       "onboard_time": 1701142412,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5264,
+      "num": 1196748,
+      "word": "大美中国",
+      "onboard_time": 1701404436,
       "rank": 2,
       "category": "社会新闻"
     }

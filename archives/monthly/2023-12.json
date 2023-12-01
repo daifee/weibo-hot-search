@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701401683611,
+  "endTime": 1701404502241,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -24,6 +24,14 @@
       "word": "一对艾滋夫妇的第19年",
       "onboard_time": 1701391774,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1767780,
+      "num": 1767780,
+      "word": "韩国申博失败",
+      "onboard_time": 1701399631,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 981050,
-      "num": 981050,
-      "word": "韩国申博失败",
-      "onboard_time": 1701399631,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 972312,
       "num": 972312,
       "word": "因郑州暴雨被降级的市长重回正厅级",
@@ -99,12 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781800,
+      "num": 781800,
+      "word": "女子输血感染艾滋10年后才发现",
+      "onboard_time": 1701402273,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775174,
       "num": 775174,
       "word": "同样是下暴雨 港剧vs内娱",
       "onboard_time": 1701392913,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 762288,
+      "num": 762288,
+      "word": "旭旭宝宝",
+      "onboard_time": 1701403117,
+      "rank": 6,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 746697,
@@ -147,6 +163,14 @@
       "category": "数码,社会新闻"
     },
     {
+      "raw_hot": 619353,
+      "num": 307068,
+      "word": "正新鸡排正在被年轻人抛弃",
+      "onboard_time": 1701400775,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 617219,
       "num": 419597,
       "word": "白敬亭 低胸内搭",
@@ -185,6 +209,14 @@
       "onboard_time": 1701352121,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 491750,
+      "num": 491750,
+      "word": "金莎男友 开塞露",
+      "onboard_time": 1701404079,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 485069,
@@ -227,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 426147,
-      "num": 233372,
-      "word": "正新鸡排正在被年轻人抛弃",
-      "onboard_time": 1701400775,
-      "rank": 20,
-      "category": "财经"
+      "raw_hot": 422569,
+      "num": 422569,
+      "word": "陈志朋被曝辱骂工作人员拖欠赔偿金",
+      "onboard_time": 1701402815,
+      "rank": 13,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 419885,
@@ -249,6 +281,14 @@
       "onboard_time": 1701344013,
       "rank": 12,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 362030,
+      "num": 362030,
+      "word": "QQ音乐年度报告",
+      "onboard_time": 1701402156,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 352095,
@@ -291,6 +331,14 @@
       "category": "健康医疗,社会议题"
     },
     {
+      "raw_hot": 326570,
+      "num": 326570,
+      "word": "刘宇宁体态",
+      "onboard_time": 1701403835,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317025,
       "num": 317025,
       "word": "杨迪首谈分手风波",
@@ -329,6 +377,14 @@
       "onboard_time": 1701390935,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296878,
+      "num": 296878,
+      "word": "黄晓明呼吁不要歧视艾滋病病毒感染者",
+      "onboard_time": 1701402937,
+      "rank": 21,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 295575,
@@ -379,6 +435,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 280257,
+      "num": 280257,
+      "word": "不慎得了艾滋病究竟能活多久",
+      "onboard_time": 1701400533,
+      "rank": 45,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 276862,
       "num": 237816,
       "word": "确实没见过这么超前的求婚现场",
@@ -393,6 +457,14 @@
       "onboard_time": 1701343656,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 272319,
+      "num": 272319,
+      "word": "新闻女王 许诗晴人设",
+      "onboard_time": 1701397050,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 271749,
@@ -443,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252299,
-      "num": 252299,
-      "word": "新闻女王 许诗晴人设",
-      "onboard_time": 1701397050,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 247049,
+      "num": 247049,
+      "word": "十二月的奇迹",
+      "onboard_time": 1701403356,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 244081,
@@ -547,20 +619,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208542,
-      "num": 208542,
-      "word": "不慎得了艾滋病究竟能活多久",
-      "onboard_time": 1701400533,
-      "rank": 45,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 207123,
       "num": 207123,
       "word": "十二月你好",
       "onboard_time": 1701386723,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205243,
+      "num": 205243,
+      "word": "王鹤棣丁程鑫在聊什么",
+      "onboard_time": 1701401195,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 203477,
@@ -577,6 +649,14 @@
       "onboard_time": 1701397891,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200744,
+      "num": 200744,
+      "word": "孩子咳嗽出现怪声一定要注意",
+      "onboard_time": 1701403899,
+      "rank": 32,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 198238,
@@ -635,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194424,
-      "num": 194424,
-      "word": "王鹤棣丁程鑫在聊什么",
-      "onboard_time": 1701401195,
-      "rank": 29,
-      "category": "作品衍生,时尚"
+      "raw_hot": 193915,
+      "num": 193915,
+      "word": "MMA阵容",
+      "onboard_time": 1701402695,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 192193,
@@ -867,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143011,
+      "num": 143011,
+      "word": "SBS歌谣大战阵容",
+      "onboard_time": 1701401672,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142692,
       "num": 142692,
       "word": "12月第一天",
@@ -881,14 +969,6 @@
       "onboard_time": 1701360450,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140887,
-      "num": 140887,
-      "word": "SBS歌谣大战阵容",
-      "onboard_time": 1701401672,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 137819,
@@ -915,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126355,
+      "num": 319819,
+      "word": "一次眨眼的时间世界发生了什么",
+      "onboard_time": 1701400595,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125710,
       "num": 99258,
       "word": "刘耀文镜头感",
@@ -929,6 +1017,14 @@
       "onboard_time": 1701362306,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119809,
+      "num": 119809,
+      "word": "虞书欣演AI",
+      "onboard_time": 1701404436,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 118679,
@@ -987,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92838,
-      "num": 179875,
-      "word": "一次眨眼的时间世界发生了什么",
-      "onboard_time": 1701400595,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91816,
       "num": 91816,
       "word": "双鱼座其实是高级的猎手",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1701384077,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 82926,
+      "num": 145726,
+      "word": "羊的这几个部位千万别吃",
+      "onboard_time": 1701403235,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76446,
@@ -1137,6 +1233,14 @@
       "onboard_time": 1701366738,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 5264,
+      "num": 1196748,
+      "word": "大美中国",
+      "onboard_time": 1701404436,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

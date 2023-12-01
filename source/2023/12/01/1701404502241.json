@@ -1,0 +1,410 @@
+{
+  "runTime": 1701404502241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2377952,
+        "num": 2377952,
+        "word": "陈志朋 偷税漏税",
+        "onboard_time": 1701399092,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1767780,
+        "num": 1767780,
+        "word": "韩国申博失败",
+        "onboard_time": 1701399631,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5264,
+        "num": 1196748,
+        "word": "大美中国",
+        "onboard_time": 1701404436,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936854,
+        "num": 936854,
+        "word": "谢娜报名家长会表演落选了",
+        "onboard_time": 1701397891,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854082,
+        "num": 854082,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701392253,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 781800,
+        "num": 781800,
+        "word": "女子输血感染艾滋10年后才发现",
+        "onboard_time": 1701402273,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762288,
+        "num": 762288,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701403117,
+        "rank": 6,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 14487,
+        "num": 620433,
+        "word": "国之重器背后的中国链",
+        "onboard_time": 1701350074,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 597828,
+        "num": 597828,
+        "word": "一对艾滋夫妇的第19年",
+        "onboard_time": 1701391774,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555461,
+        "num": 555461,
+        "word": "警方通报网红校长郑强被传包养情妇",
+        "onboard_time": 1701393215,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491750,
+        "num": 491750,
+        "word": "金莎男友 开塞露",
+        "onboard_time": 1701404079,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486093,
+        "num": 486093,
+        "word": "上海独生女继承2亿遗产后被离婚",
+        "onboard_time": 1701351038,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427744,
+        "num": 427744,
+        "word": "iPhone16全系告别静音拨片",
+        "onboard_time": 1701396871,
+        "rank": 12,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 422569,
+        "num": 422569,
+        "word": "陈志朋被曝辱骂工作人员拖欠赔偿金",
+        "onboard_time": 1701402815,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 381175,
+        "num": 381175,
+        "word": "谢娜 产后抑郁",
+        "onboard_time": 1701389854,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380896,
+        "num": 380896,
+        "word": "因走红暂停生意鹅腿阿姨很着急",
+        "onboard_time": 1701396271,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362030,
+        "num": 362030,
+        "word": "QQ音乐年度报告",
+        "onboard_time": 1701402156,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326570,
+        "num": 326570,
+        "word": "刘宇宁体态",
+        "onboard_time": 1701403835,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126355,
+        "num": 319819,
+        "word": "一次眨眼的时间世界发生了什么",
+        "onboard_time": 1701400595,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314406,
+        "num": 314406,
+        "word": "李荣浩杨丞琳情头",
+        "onboard_time": 1701393632,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619353,
+        "num": 307068,
+        "word": "正新鸡排正在被年轻人抛弃",
+        "onboard_time": 1701400775,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296878,
+        "num": 296878,
+        "word": "黄晓明呼吁不要歧视艾滋病病毒感染者",
+        "onboard_time": 1701402937,
+        "rank": 21,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 281743,
+        "num": 281743,
+        "word": "同样是下暴雨 港剧vs内娱",
+        "onboard_time": 1701392913,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280257,
+        "num": 280257,
+        "word": "不慎得了艾滋病究竟能活多久",
+        "onboard_time": 1701400533,
+        "rank": 23,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 272319,
+        "num": 272319,
+        "word": "新闻女王 许诗晴人设",
+        "onboard_time": 1701397050,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266425,
+        "num": 266425,
+        "word": "十二月狗屎运最旺的星座",
+        "onboard_time": 1701389973,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247049,
+        "num": 247049,
+        "word": "十二月的奇迹",
+        "onboard_time": 1701403356,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241148,
+        "num": 241148,
+        "word": "比酒精还厉害的肝脏刺客",
+        "onboard_time": 1701395071,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208356,
+        "num": 208356,
+        "word": "长期睡前玩手机会付出啥代价",
+        "onboard_time": 1701356500,
+        "rank": 28,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 205243,
+        "num": 205243,
+        "word": "王鹤棣丁程鑫在聊什么",
+        "onboard_time": 1701401195,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203881,
+        "num": 203881,
+        "word": "冯小刚电影重返贺岁档",
+        "onboard_time": 1701399872,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201058,
+        "num": 201058,
+        "word": "张家妍男朋友",
+        "onboard_time": 1701387208,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200744,
+        "num": 200744,
+        "word": "孩子咳嗽出现怪声一定要注意",
+        "onboard_time": 1701403899,
+        "rank": 32,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 197243,
+        "num": 197243,
+        "word": "德云社",
+        "onboard_time": 1701399153,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193915,
+        "num": 193915,
+        "word": "MMA阵容",
+        "onboard_time": 1701402695,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176223,
+        "num": 176223,
+        "word": "西藏墨脱发现一新物种",
+        "onboard_time": 1701397471,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173882,
+        "num": 173882,
+        "word": "济南一退休老师被前女婿举报吃空饷",
+        "onboard_time": 1701398371,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165331,
+        "num": 165331,
+        "word": "红薯不宜和甜食一起吃",
+        "onboard_time": 1701398912,
+        "rank": 37,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 161946,
+        "num": 161946,
+        "word": "出狱10年后她见到恩人现状惊到下跪",
+        "onboard_time": 1701397891,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82926,
+        "num": 145726,
+        "word": "羊的这几个部位千万别吃",
+        "onboard_time": 1701403235,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145526,
+        "num": 145526,
+        "word": "宋仲基 白袜半身裙",
+        "onboard_time": 1701349055,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143011,
+        "num": 143011,
+        "word": "SBS歌谣大战阵容",
+        "onboard_time": 1701401672,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141771,
+        "num": 141771,
+        "word": "女子跳楼瞬间被众人紧紧抓住救下",
+        "onboard_time": 1701391595,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140635,
+        "num": 140635,
+        "word": "昭节皇后是如意的逆鳞",
+        "onboard_time": 1701401615,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138408,
+        "num": 138408,
+        "word": "感染HIV病毒就是得了艾滋病吗",
+        "onboard_time": 1701396153,
+        "rank": 44,
+        "category": "健康医疗,社会议题"
+      },
+      {
+        "raw_hot": 137244,
+        "num": 137244,
+        "word": "被十年前的笔记本电脑震惊到了",
+        "onboard_time": 1701399693,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134039,
+        "num": 134039,
+        "word": "平均每分钟就有1人因艾滋病死亡",
+        "onboard_time": 1701398010,
+        "rank": 46,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 130629,
+        "num": 130629,
+        "word": "上海医保",
+        "onboard_time": 1701396509,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130036,
+        "num": 130036,
+        "word": "一念关山 配音",
+        "onboard_time": 1701396030,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119809,
+        "num": 119809,
+        "word": "虞书欣演AI",
+        "onboard_time": 1701404436,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进长三角一体化发展座谈会#"
+    }
+  }
+}
