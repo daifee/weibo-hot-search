@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701469020766,
+  "endTime": 1701470047982,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -195,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183587,
+      "num": 183587,
+      "word": "小伙熬夜打游戏关节长千颗白色颗粒",
+      "onboard_time": 1701459974,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180485,
       "num": 180485,
       "word": "一念关山 我只是宁远舟",
@@ -241,14 +249,6 @@
       "onboard_time": 1701442299,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151294,
-      "num": 151294,
-      "word": "小伙熬夜打游戏关节长千颗白色颗粒",
-      "onboard_time": 1701459974,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145343,
@@ -299,20 +299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124580,
+      "num": 124580,
+      "word": "怎么查自己名下有几张电话卡",
+      "onboard_time": 1701464354,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120241,
       "num": 120241,
       "word": "五年后才看到口红上的刻字",
       "onboard_time": 1701426638,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 109155,
-      "num": 109155,
-      "word": "怎么查自己名下有几张电话卡",
-      "onboard_time": 1701464354,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108101,
@@ -467,12 +467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47410,
+      "num": 47410,
+      "word": "生鲜灯叫停后商家希望统一用灯",
+      "onboard_time": 1701467774,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44410,
       "num": 44410,
       "word": "王鹤棣看秀待遇",
       "onboard_time": 1701452660,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 44378,
+      "num": 44378,
+      "word": "东北多地惊现极光",
+      "onboard_time": 1701466994,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43654,
@@ -489,14 +505,6 @@
       "onboard_time": 1701453863,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30841,
-      "num": 30841,
-      "word": "东北多地惊现极光",
-      "onboard_time": 1701466994,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30416,
@@ -523,14 +531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29424,
-      "num": 23340,
-      "word": "生鲜灯叫停后商家希望统一用灯",
-      "onboard_time": 1701467774,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28232,
       "num": 28232,
       "word": "原神4.2版本",
@@ -539,12 +539,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23896,
-      "num": 23896,
+      "raw_hot": 27667,
+      "num": 27667,
+      "word": "南海归墟发现蛇身巨龙",
+      "onboard_time": 1701457515,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27031,
+      "num": 27031,
       "word": "谭维维高智感低马尾",
       "onboard_time": 1701463633,
       "rank": 27,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 24133,
+      "num": 24133,
+      "word": "苹果型身材有福了",
+      "onboard_time": 1701457814,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 23757,
@@ -563,28 +579,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22974,
-      "num": 22974,
-      "word": "南海归墟发现蛇身巨龙",
-      "onboard_time": 1701457515,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22689,
       "num": 22689,
       "word": "为什么有时闭眼可以看到光",
       "onboard_time": 1701458774,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 21993,
-      "num": 20654,
-      "word": "苹果型身材有福了",
-      "onboard_time": 1701457814,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 20345,
@@ -595,8 +595,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16022,
-      "num": 19436,
+      "raw_hot": 16821,
+      "num": 21331,
       "word": "全红婵陈芋汐 武汉",
       "onboard_time": 1701462374,
       "rank": 45,
