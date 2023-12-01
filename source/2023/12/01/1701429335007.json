@@ -1,0 +1,410 @@
+{
+  "runTime": 1701429335007,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 979303,
+        "num": 979303,
+        "word": "梨泰院踩踏事故 纪录片",
+        "onboard_time": 1701416914,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253691,
+        "num": 635375,
+        "word": "骗子AI换脸成领导民警9分钟追156万",
+        "onboard_time": 1701424233,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111028,
+        "num": 579081,
+        "word": "中国广电送您一张电视明白卡",
+        "onboard_time": 1701426336,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534637,
+        "num": 534637,
+        "word": "29岁中国男子刺死日本女友",
+        "onboard_time": 1701414513,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184158,
+        "num": 530986,
+        "word": "4个少年意外走入镜头画面氛围感拉满",
+        "onboard_time": 1701415892,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528865,
+        "num": 528865,
+        "word": "湘雅三医院科主任遭联合举报后恢复门诊",
+        "onboard_time": 1701426638,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91312,
+        "num": 503856,
+        "word": "新老民警接力办案找回25年前失踪儿童",
+        "onboard_time": 1701423333,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480856,
+        "num": 480856,
+        "word": "杨幂赵丽颖 酱园弄",
+        "onboard_time": 1701421354,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 463818,
+        "num": 463818,
+        "word": "宋雨琦被工作人员阻止接信",
+        "onboard_time": 1701427355,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443431,
+        "num": 443431,
+        "word": "亿万富豪找回丢失25年儿子",
+        "onboard_time": 1701423215,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152078,
+        "num": 428878,
+        "word": "冰冷的40亿",
+        "onboard_time": 1701421114,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1084940,
+        "num": 423732,
+        "word": "中S和汪大菲",
+        "onboard_time": 1701421954,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 676046,
+        "num": 422430,
+        "word": "王鹤棣 纹身",
+        "onboard_time": 1701416075,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 409668,
+        "num": 409668,
+        "word": "易烊千玺vlog i人常态",
+        "onboard_time": 1701426693,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337900,
+        "num": 337900,
+        "word": "梨泰院纪录片 中国街道",
+        "onboard_time": 1701425256,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333893,
+        "num": 333893,
+        "word": "杨紫虞书欣看刘亦菲的眼神",
+        "onboard_time": 1701422616,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331761,
+        "num": 331761,
+        "word": "声生不息 乌合麒麟海报解读",
+        "onboard_time": 1701423394,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319607,
+        "num": 319607,
+        "word": "女子提醒夫妻关远光灯被打致流产",
+        "onboard_time": 1701416557,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274368,
+        "num": 274368,
+        "word": "00后姑娘3份工作上班2年全款买房",
+        "onboard_time": 1701419796,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 259778,
+        "num": 259778,
+        "word": "小米回应冰冷的40亿",
+        "onboard_time": 1701425434,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 383399,
+        "num": 257466,
+        "word": "女朋友越处越像小朋友了",
+        "onboard_time": 1701426638,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255153,
+        "num": 255153,
+        "word": "杨迪被林俊杰回关很开心",
+        "onboard_time": 1701427296,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248875,
+        "num": 248875,
+        "word": "微信更新后的朋友圈排版",
+        "onboard_time": 1701412955,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247054,
+        "num": 247054,
+        "word": "五年后才看到口红上的刻字",
+        "onboard_time": 1701426638,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223813,
+        "num": 223813,
+        "word": "顾客发现漏洞故意买200盒饼干索赔",
+        "onboard_time": 1701424173,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221556,
+        "num": 221556,
+        "word": "完蛋我被职业选手包围了",
+        "onboard_time": 1701428615,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215831,
+        "num": 215831,
+        "word": "周一围女儿 喀秋莎",
+        "onboard_time": 1701413252,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214992,
+        "num": 214992,
+        "word": "疑似杨鸣老婆发文",
+        "onboard_time": 1701417031,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 208272,
+        "num": 208272,
+        "word": "陈志朋觉得直播带货很low",
+        "onboard_time": 1701425613,
+        "rank": 28,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 204687,
+        "num": 204687,
+        "word": "金莎男友 开塞露",
+        "onboard_time": 1701404079,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202534,
+        "num": 202534,
+        "word": "女子输血感染艾滋10年后才发现",
+        "onboard_time": 1701402273,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196531,
+        "num": 196531,
+        "word": "新加坡独角兽挑战拼多多",
+        "onboard_time": 1701429033,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 190843,
+        "num": 190843,
+        "word": "姚政求婚成功",
+        "onboard_time": 1701410195,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186409,
+        "num": 186409,
+        "word": "春楠为关晓彤化的妆",
+        "onboard_time": 1701428855,
+        "rank": 33,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 183986,
+        "num": 183986,
+        "word": "第一学历歧视就像是留了案底",
+        "onboard_time": 1701414333,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183609,
+        "num": 183609,
+        "word": "迪丽热巴螃蟹帽",
+        "onboard_time": 1701424654,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181089,
+        "num": 181089,
+        "word": "榴莲亿层",
+        "onboard_time": 1701428134,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177670,
+        "num": 177670,
+        "word": "雷军 人生从来不是爽文",
+        "onboard_time": 1701428254,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 169857,
+        "num": 169857,
+        "word": "杨鸣 唐佳良",
+        "onboard_time": 1701414394,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 18484,
+        "num": 163655,
+        "word": "全系通过无奶精鉴证的奶茶",
+        "onboard_time": 1701414635,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158889,
+        "num": 158889,
+        "word": "赵奕欢说我没有这样肉碰肉地交流过",
+        "onboard_time": 1701426638,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157953,
+        "num": 157953,
+        "word": "疑阿里被献血女子丈夫求助帖曝光",
+        "onboard_time": 1701420333,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146931,
+        "num": 146931,
+        "word": "焦恩俊版宁远舟",
+        "onboard_time": 1701426096,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146900,
+        "num": 146900,
+        "word": "苏翊鸣首轮排名第1",
+        "onboard_time": 1701425014,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138661,
+        "num": 138661,
+        "word": "小凯 不用铲了不用铲了",
+        "onboard_time": 1701418232,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135792,
+        "num": 135792,
+        "word": "韩国申博失败",
+        "onboard_time": 1701399631,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124287,
+        "num": 124287,
+        "word": "炎亚纶奶茶店永久停业",
+        "onboard_time": 1701407499,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118620,
+        "num": 118620,
+        "word": "东北大姐见南方妹子进澡堂不知所措",
+        "onboard_time": 1701429274,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117711,
+        "num": 117711,
+        "word": "湖南卫视跨年晚会嘉宾",
+        "onboard_time": 1701417453,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116274,
+        "num": 116274,
+        "word": "小虎队 陈志朋团队禁词",
+        "onboard_time": 1701421715,
+        "rank": 49,
+        "category": "艺人,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续促进贸易和投资自由化便利化#"
+    }
+  }
+}
