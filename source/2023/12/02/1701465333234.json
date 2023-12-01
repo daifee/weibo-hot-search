@@ -1,0 +1,410 @@
+{
+  "runTime": 1701465333234,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 156778,
+        "num": 156778,
+        "word": "中国气象局发布大地磁暴预警",
+        "onboard_time": 1701438157,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143771,
+        "num": 143771,
+        "word": "小伙熬夜打游戏关节长千颗白色颗粒",
+        "onboard_time": 1701459974,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9507,
+        "num": 96114,
+        "word": "民警反诈劝阻真实现场",
+        "onboard_time": 1701436776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83639,
+        "num": 83639,
+        "word": "北京极光",
+        "onboard_time": 1701436115,
+        "rank": 3,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 77837,
+        "num": 77837,
+        "word": "胖东来员工不想上班请假不允许不批假",
+        "onboard_time": 1701440737,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76266,
+        "num": 76266,
+        "word": "熬夜时身体在经历炎症风暴",
+        "onboard_time": 1701449725,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75882,
+        "num": 75882,
+        "word": "地震快讯",
+        "onboard_time": 1701446553,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47715,
+        "num": 47715,
+        "word": "小猫吃公司20根虫草主人含泪赔2千",
+        "onboard_time": 1701436537,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46775,
+        "num": 46775,
+        "word": "甘肃酒泉地震",
+        "onboard_time": 1701443258,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43011,
+        "num": 43011,
+        "word": "脱轨",
+        "onboard_time": 1701444215,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35471,
+        "num": 35471,
+        "word": "唐嫣cos狂飙大嫂",
+        "onboard_time": 1701430534,
+        "rank": 10,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 35295,
+        "num": 35295,
+        "word": "甘肃发现超亿吨级整装大油田",
+        "onboard_time": 1701440079,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33583,
+        "num": 33583,
+        "word": "肖战长发背头",
+        "onboard_time": 1701455417,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33089,
+        "num": 33089,
+        "word": "秦昊 苏醒是已淘汰男团成员",
+        "onboard_time": 1701451163,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27684,
+        "num": 27684,
+        "word": "王鹤棣 纹身",
+        "onboard_time": 1701416075,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27526,
+        "num": 27526,
+        "word": "女子提醒夫妻关远光灯被打致流产",
+        "onboard_time": 1701416557,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23702,
+        "num": 23702,
+        "word": "地磁暴",
+        "onboard_time": 1701437797,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22854,
+        "num": 22854,
+        "word": "许嵩近期状态",
+        "onboard_time": 1701443979,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22189,
+        "num": 22189,
+        "word": "怎么查自己名下有几张电话卡",
+        "onboard_time": 1701464354,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20260,
+        "num": 20260,
+        "word": "为什么有时闭眼可以看到光",
+        "onboard_time": 1701458774,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 42481,
+        "num": 20251,
+        "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+        "onboard_time": 1701437256,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23082,
+        "num": 20243,
+        "word": "跳尊巴减肥",
+        "onboard_time": 1701451641,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20096,
+        "num": 20096,
+        "word": "黄河要告别地上河了吗",
+        "onboard_time": 1701444159,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 19349,
+        "num": 19349,
+        "word": "BLG对战GEN",
+        "onboard_time": 1701441818,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19189,
+        "num": 19189,
+        "word": "五年后才看到口红上的刻字",
+        "onboard_time": 1701426638,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19132,
+        "num": 19132,
+        "word": "与恶魔有约",
+        "onboard_time": 1701445655,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19047,
+        "num": 19047,
+        "word": "让你仿妆没让你把本人请过来",
+        "onboard_time": 1701450443,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 18948,
+        "num": 18948,
+        "word": "谭维维高智感低马尾",
+        "onboard_time": 1701463633,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 18486,
+        "num": 18486,
+        "word": "中S和汪大菲",
+        "onboard_time": 1701421954,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17890,
+        "num": 17890,
+        "word": "女朋友越处越像小朋友了",
+        "onboard_time": 1701426638,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17297,
+        "num": 17297,
+        "word": "沈腾说唐嫣那么不方便也走了",
+        "onboard_time": 1701436832,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16951,
+        "num": 16951,
+        "word": "原神 赛博案底",
+        "onboard_time": 1701435936,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16738,
+        "num": 16738,
+        "word": "苹果型身材有福了",
+        "onboard_time": 1701457814,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16697,
+        "num": 16697,
+        "word": "黄智雯宣布离巢TVB",
+        "onboard_time": 1701439657,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16539,
+        "num": 16539,
+        "word": "南海归墟发现蛇身巨龙",
+        "onboard_time": 1701457515,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16368,
+        "num": 16368,
+        "word": "秦岚旗袍 辛芷蕾东北大花",
+        "onboard_time": 1701438940,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15624,
+        "num": 15624,
+        "word": "很想很想你男女主终于相认了",
+        "onboard_time": 1701455716,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14955,
+        "num": 14955,
+        "word": "声生不息家年华阵容",
+        "onboard_time": 1701443436,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14784,
+        "num": 14784,
+        "word": "知识以一种侮辱的方式进入了大脑",
+        "onboard_time": 1701442299,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14774,
+        "num": 14774,
+        "word": "全红婵陈芋汐 武汉",
+        "onboard_time": 1701462374,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14544,
+        "num": 14544,
+        "word": "原神4.2版本",
+        "onboard_time": 1701455357,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13719,
+        "num": 13719,
+        "word": "频繁涂抹润唇膏或引发唇炎",
+        "onboard_time": 1701444514,
+        "rank": 41,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 13509,
+        "num": 13509,
+        "word": "假睫毛贴在真睫毛上方",
+        "onboard_time": 1701442359,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13496,
+        "num": 13496,
+        "word": "梨泰院纪录片 中国街道",
+        "onboard_time": 1701425256,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13448,
+        "num": 13448,
+        "word": "陈楚生夺冠后最开心的是苏醒",
+        "onboard_time": 1701445476,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13378,
+        "num": 13378,
+        "word": "易烊千玺vlog i人常态",
+        "onboard_time": 1701426693,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12978,
+        "num": 12978,
+        "word": "宁远舟 另类疯批男主",
+        "onboard_time": 1701445712,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12470,
+        "num": 12470,
+        "word": "Bin对线chovy",
+        "onboard_time": 1701441036,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11943,
+        "num": 12465,
+        "word": "王者荣耀海诺",
+        "onboard_time": 1701455357,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11157,
+        "num": 12457,
+        "word": "COP28",
+        "onboard_time": 1701453738,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何让长三角一体化发展取得更大突破#"
+    }
+  }
+}
