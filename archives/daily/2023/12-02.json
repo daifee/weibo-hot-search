@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701466473263,
+  "endTime": 1701469020766,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -243,20 +243,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151294,
+      "num": 151294,
+      "word": "小伙熬夜打游戏关节长千颗白色颗粒",
+      "onboard_time": 1701459974,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145343,
       "num": 145343,
       "word": "声生不息家年华阵容",
       "onboard_time": 1701443436,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143771,
-      "num": 143771,
-      "word": "小伙熬夜打游戏关节长千颗白色颗粒",
-      "onboard_time": 1701459974,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138772,
@@ -305,6 +305,14 @@
       "onboard_time": 1701426638,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109155,
+      "num": 109155,
+      "word": "怎么查自己名下有几张电话卡",
+      "onboard_time": 1701464354,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108101,
@@ -475,20 +483,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 43194,
-      "num": 43194,
-      "word": "怎么查自己名下有几张电话卡",
-      "onboard_time": 1701464354,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35068,
       "num": 35026,
       "word": "刘宇宁唱OST 替自己发声",
       "onboard_time": 1701453863,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30841,
+      "num": 30841,
+      "word": "东北多地惊现极光",
+      "onboard_time": 1701466994,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30416,
@@ -515,12 +523,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29424,
+      "num": 23340,
+      "word": "生鲜灯叫停后商家希望统一用灯",
+      "onboard_time": 1701467774,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28232,
       "num": 28232,
       "word": "原神4.2版本",
       "onboard_time": 1701455357,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 23896,
+      "num": 23896,
+      "word": "谭维维高智感低马尾",
+      "onboard_time": 1701463633,
+      "rank": 27,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 23757,
@@ -563,14 +587,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 20494,
-      "num": 20494,
-      "word": "谭维维高智感低马尾",
-      "onboard_time": 1701463633,
-      "rank": 27,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 20345,
       "num": 20618,
       "word": "蛋仔派对",
@@ -579,8 +595,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14774,
-      "num": 14774,
+      "raw_hot": 16022,
+      "num": 19436,
       "word": "全红婵陈芋汐 武汉",
       "onboard_time": 1701462374,
       "rank": 45,
