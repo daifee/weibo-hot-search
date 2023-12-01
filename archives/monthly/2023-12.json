@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701452041073,
+  "endTime": 1701454959967,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -379,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 649387,
+      "num": 649387,
+      "word": "熬夜时身体在经历炎症风暴",
+      "onboard_time": 1701449725,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 641845,
       "num": 641845,
       "word": "00后姑娘3份工作上班2年全款买房",
@@ -659,14 +667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 424950,
-      "num": 424950,
-      "word": "熬夜时身体在经历炎症风暴",
-      "onboard_time": 1701449725,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 424710,
       "num": 424710,
       "word": "炎亚纶奶茶店永久停业",
@@ -761,6 +761,14 @@
       "onboard_time": 1701417453,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365369,
+      "num": 365369,
+      "word": "地震快讯",
+      "onboard_time": 1701446553,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363192,
@@ -2323,14 +2331,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 149637,
-      "num": 149637,
-      "word": "地震快讯",
-      "onboard_time": 1701446553,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149357,
       "num": 149357,
       "word": "唐嫣用糖化解所有愤怒",
@@ -2851,20 +2851,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 44410,
+      "num": 44410,
+      "word": "王鹤棣看秀待遇",
+      "onboard_time": 1701452660,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 43654,
+      "num": 43654,
+      "word": "跳尊巴减肥",
+      "onboard_time": 1701451641,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 41377,
       "num": 974122,
       "word": "这就是长三角",
       "onboard_time": 1701422737,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40409,
-      "num": 40409,
-      "word": "跳尊巴减肥",
-      "onboard_time": 1701451641,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 40234,
@@ -2883,12 +2891,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35068,
+      "num": 33618,
+      "word": "刘宇宁唱OST 替自己发声",
+      "onboard_time": 1701453863,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29844,
       "num": 841535,
       "word": "民警反诈劝阻真实现场",
       "onboard_time": 1701436776,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29539,
+      "num": 29539,
+      "word": "COP28",
+      "onboard_time": 1701453738,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23281,
