@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701418964596,
+  "endTime": 1701419747870,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -67,8 +67,16 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1528015,
+      "num": 1528015,
+      "word": "梨泰院踩踏事故 纪录片",
+      "onboard_time": 1701416914,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1472057,
-      "num": 876925,
+      "num": 1444188,
       "word": "王鹤棣 纹身",
       "onboard_time": 1701416075,
       "rank": 3,
@@ -105,14 +113,6 @@
       "onboard_time": 1701409234,
       "rank": 1,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1115710,
-      "num": 1115710,
-      "word": "梨泰院踩踏事故 纪录片",
-      "onboard_time": 1701416914,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1077931,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 750054,
-      "num": 440624,
+      "num": 442353,
       "word": "微信更新后的朋友圈排版",
       "onboard_time": 1701412955,
       "rank": 10,
@@ -251,6 +251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 701465,
+      "num": 701465,
+      "word": "女子提醒夫妻关远光灯被打致流产",
+      "onboard_time": 1701416557,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 680614,
       "num": 680614,
       "word": "十二月狗屎运最旺的星座",
@@ -273,14 +281,6 @@
       "onboard_time": 1701405881,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 644956,
-      "num": 644956,
-      "word": "女子提醒夫妻关远光灯被打致流产",
-      "onboard_time": 1701416557,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638962,
@@ -363,6 +363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 511352,
+      "num": 511352,
+      "word": "小凯 不用铲了不用铲了",
+      "onboard_time": 1701418232,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 485069,
       "num": 485069,
       "word": "比酒精还厉害的肝脏刺客",
@@ -401,14 +409,6 @@
       "onboard_time": 1701393632,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 440709,
-      "num": 440709,
-      "word": "小凯 不用铲了不用铲了",
-      "onboard_time": 1701418232,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 429342,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366103,
+      "num": 366103,
+      "word": "湖南卫视跨年晚会嘉宾",
+      "onboard_time": 1701417453,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362030,
       "num": 362030,
       "word": "QQ音乐年度报告",
@@ -521,14 +529,6 @@
       "onboard_time": 1701416557,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342403,
-      "num": 342403,
-      "word": "湖南卫视跨年晚会嘉宾",
-      "onboard_time": 1701417453,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 340668,
@@ -601,6 +601,14 @@
       "onboard_time": 1701390935,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302705,
+      "num": 302705,
+      "word": "女子扎铁还债170万出圈后又添14万",
+      "onboard_time": 1701418232,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295575,
@@ -899,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219184,
+      "num": 219184,
+      "word": "张小斐官宣微博视界大会",
+      "onboard_time": 1701418713,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "中学女生发型 鲶鱼须遮半张脸",
@@ -939,22 +955,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 211751,
-      "num": 211751,
-      "word": "张小斐官宣微博视界大会",
-      "onboard_time": 1701418713,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211615,
-      "num": 211615,
-      "word": "女子扎铁还债170万出圈后又添14万",
-      "onboard_time": 1701418232,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211218,
       "num": 211218,
       "word": "莫言 人还是得有个班上",
@@ -977,6 +977,14 @@
       "onboard_time": 1701386723,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206297,
+      "num": 206297,
+      "word": "一诺Fly双人复古大片",
+      "onboard_time": 1701418831,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 205243,
@@ -1299,6 +1307,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 165494,
+      "num": 171827,
+      "word": "4个少年意外走入镜头画面氛围感拉满",
+      "onboard_time": 1701415892,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165153,
       "num": 149894,
       "word": "甜蜜家园2",
@@ -1355,6 +1371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158737,
+      "num": 158737,
+      "word": "德国人敏感动作",
+      "onboard_time": 1701417992,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155883,
       "num": 91683,
       "word": "星光大赏 门票",
@@ -1371,20 +1395,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155836,
-      "num": 155836,
-      "word": "德国人敏感动作",
-      "onboard_time": 1701417992,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153073,
       "num": 91617,
       "word": "张译 南极拒绝合影事件",
       "onboard_time": 1701339093,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151450,
+      "num": 151450,
+      "word": "雪娥将solo出道",
+      "onboard_time": 1701419012,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150869,
+      "num": 150869,
+      "word": "一年级男孩上课摞铅笔被老师温柔夸赞",
+      "onboard_time": 1701418831,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 150656,
@@ -1401,14 +1433,6 @@
       "onboard_time": 1701354398,
       "rank": 43,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 149525,
-      "num": 149525,
-      "word": "4个少年意外走入镜头画面氛围感拉满",
-      "onboard_time": 1701415892,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149357,
@@ -1507,14 +1531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127845,
-      "num": 127845,
-      "word": "一诺Fly双人复古大片",
-      "onboard_time": 1701418831,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126355,
       "num": 319819,
       "word": "一次眨眼的时间世界发生了什么",
@@ -1569,14 +1585,6 @@
       "onboard_time": 1701386723,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113112,
-      "num": 113112,
-      "word": "一年级男孩上课摞铅笔被老师温柔夸赞",
-      "onboard_time": 1701418831,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 112435,
@@ -1787,20 +1795,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17229,
+      "num": 1450818,
+      "word": "大美中国",
+      "onboard_time": 1701404436,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12935,
       "num": 15667,
       "word": "水皮总结芒格留下的三种财富",
       "onboard_time": 1701366738,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 5264,
-      "num": 1196748,
-      "word": "大美中国",
-      "onboard_time": 1701404436,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

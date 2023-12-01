@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701418964596,
+  "endTime": 1701419747870,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -691,6 +691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1528015,
+      "num": 1528015,
+      "word": "梨泰院踩踏事故 纪录片",
+      "onboard_time": 1701416914,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1524826,
       "num": 1195809,
       "word": "利智",
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 1472057,
-      "num": 876925,
+      "num": 1444188,
       "word": "王鹤棣 纹身",
       "onboard_time": 1701416075,
       "rank": 3,
@@ -1193,14 +1201,6 @@
       "onboard_time": 1701175417,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1115710,
-      "num": 1115710,
-      "word": "梨泰院踩踏事故 纪录片",
-      "onboard_time": 1701416914,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1104894,
@@ -2076,7 +2076,7 @@
     },
     {
       "raw_hot": 750054,
-      "num": 440624,
+      "num": 442353,
       "word": "微信更新后的朋友圈排版",
       "onboard_time": 1701412955,
       "rank": 10,
@@ -2297,6 +2297,14 @@
       "onboard_time": 1700984612,
       "rank": 20,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 701465,
+      "num": 701465,
+      "word": "女子提醒夫妻关远光灯被打致流产",
+      "onboard_time": 1701416557,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696400,
@@ -2625,14 +2633,6 @@
       "onboard_time": 1701132517,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 644956,
-      "num": 644956,
-      "word": "女子提醒夫妻关远光灯被打致流产",
-      "onboard_time": 1701416557,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 642156,
@@ -3643,6 +3643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511352,
+      "num": 511352,
+      "word": "小凯 不用铲了不用铲了",
+      "onboard_time": 1701418232,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 509354,
       "num": 509354,
       "word": "热巴 不值得一提的事",
@@ -4369,14 +4377,6 @@
       "onboard_time": 1701215369,
       "rank": 14,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 440709,
-      "num": 440709,
-      "word": "小凯 不用铲了不用铲了",
-      "onboard_time": 1701418232,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 440110,
@@ -5331,6 +5331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 366103,
+      "num": 366103,
+      "word": "湖南卫视跨年晚会嘉宾",
+      "onboard_time": 1701417453,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365753,
       "num": 365753,
       "word": "拼多多美股市值超阿里",
@@ -5705,14 +5713,6 @@
       "onboard_time": 1701416557,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342403,
-      "num": 342403,
-      "word": "湖南卫视跨年晚会嘉宾",
-      "onboard_time": 1701417453,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 340951,
@@ -6545,6 +6545,14 @@
       "onboard_time": 1701254975,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 302705,
+      "num": 302705,
+      "word": "女子扎铁还债170万出圈后又添14万",
+      "onboard_time": 1701418232,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302644,
@@ -9267,6 +9275,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 219184,
+      "num": 219184,
+      "word": "张小斐官宣微博视界大会",
+      "onboard_time": 1701418713,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218455,
       "num": 218455,
       "word": "许凯 早知道多请匪我思存吃饭",
@@ -9539,28 +9555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211751,
-      "num": 211751,
-      "word": "张小斐官宣微博视界大会",
-      "onboard_time": 1701418713,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211647,
       "num": 211647,
       "word": "现在的人上班都上癫了",
       "onboard_time": 1701246156,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211615,
-      "num": 211615,
-      "word": "女子扎铁还债170万出圈后又添14万",
-      "onboard_time": 1701418232,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211540,
@@ -9816,6 +9816,14 @@
       "word": "KPL",
       "onboard_time": 1700995955,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 206297,
+      "num": 206297,
+      "word": "一诺Fly双人复古大片",
+      "onboard_time": 1701418831,
+      "rank": 44,
       "category": "电竞"
     },
     {
@@ -12515,6 +12523,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 165494,
+      "num": 171827,
+      "word": "4个少年意外走入镜头画面氛围感拉满",
+      "onboard_time": 1701415892,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165478,
       "num": 165478,
       "word": "刘诗诗和叶青又重逢了",
@@ -12859,6 +12875,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 158737,
+      "num": 158737,
+      "word": "德国人敏感动作",
+      "onboard_time": 1701417992,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158713,
       "num": 158713,
       "word": "小满生活陈立精神出轨",
@@ -12953,14 +12977,6 @@
       "onboard_time": 1701415054,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155836,
-      "num": 155836,
-      "word": "德国人敏感动作",
-      "onboard_time": 1701417992,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 155786,
@@ -13203,6 +13219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151450,
+      "num": 151450,
+      "word": "雪娥将solo出道",
+      "onboard_time": 1701419012,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151387,
       "num": 151387,
       "word": "姜云升在路上看到的爱情",
@@ -13241,6 +13265,14 @@
       "onboard_time": 1701307893,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150869,
+      "num": 150869,
+      "word": "一年级男孩上课摞铅笔被老师温柔夸赞",
+      "onboard_time": 1701418831,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 150656,
@@ -13329,14 +13361,6 @@
       "onboard_time": 1701214951,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149525,
-      "num": 149525,
-      "word": "4个少年意外走入镜头画面氛围感拉满",
-      "onboard_time": 1701415892,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149357,
@@ -14203,14 +14227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127845,
-      "num": 127845,
-      "word": "一诺Fly双人复古大片",
-      "onboard_time": 1701418831,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 127173,
       "num": 217128,
       "word": "这跑道真的会让人爱上跑步",
@@ -14545,14 +14561,6 @@
       "onboard_time": 1701237935,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113112,
-      "num": 113112,
-      "word": "一年级男孩上课摞铅笔被老师温柔夸赞",
-      "onboard_time": 1701418831,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 113059,
@@ -15899,6 +15907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17229,
+      "num": 1450818,
+      "word": "大美中国",
+      "onboard_time": 1701404436,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16426,
       "num": 19860,
       "word": "国际排联祝朱婷生日快乐",
@@ -15943,14 +15959,6 @@
       "num": 1085143,
       "word": "在数贸会现场遇见未来生活",
       "onboard_time": 1701142412,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5264,
-      "num": 1196748,
-      "word": "大美中国",
-      "onboard_time": 1701404436,
       "rank": 2,
       "category": "社会新闻"
     }
