@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701415003455,
+  "endTime": 1701416053934,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -995,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1281256,
+      "num": 1281256,
+      "word": "周一围女儿 喀秋莎",
+      "onboard_time": 1701413252,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1274380,
       "num": 1274380,
       "word": "朵拉统治姐圈",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1701237035,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1235600,
-      "num": 1235600,
-      "word": "周一围女儿 喀秋莎",
-      "onboard_time": 1701413252,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1234199,
@@ -2043,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750054,
+      "num": 440624,
+      "word": "微信更新后的朋友圈排版",
+      "onboard_time": 1701412955,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 744685,
       "num": 744685,
       "word": "伍佰合肥演唱会被曝观众大喊退票",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1701351100,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 689411,
+      "num": 416968,
+      "word": "第一学历歧视就像是留了案底",
+      "onboard_time": 1701414333,
+      "rank": 22,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 688413,
@@ -2851,6 +2867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 604150,
+      "num": 604150,
+      "word": "杨鸣 唐佳良",
+      "onboard_time": 1701414394,
+      "rank": 9,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 604095,
       "num": 604095,
       "word": "胡锡进称中华有为世界荣耀",
@@ -2985,6 +3009,14 @@
       "onboard_time": 1701176018,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 582991,
+      "num": 416182,
+      "word": "29岁中国男子刺死日本女友",
+      "onboard_time": 1701414513,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 581863,
@@ -3497,14 +3529,6 @@
       "onboard_time": 1700980773,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 517647,
-      "num": 440624,
-      "word": "微信更新后的朋友圈排版",
-      "onboard_time": 1701412955,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 517365,
@@ -4209,14 +4233,6 @@
       "onboard_time": 1701059921,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 452105,
-      "num": 452105,
-      "word": "杨鸣 唐佳良",
-      "onboard_time": 1701414394,
-      "rank": 9,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 449534,
@@ -7795,6 +7811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 257643,
+      "num": 257643,
+      "word": "李晨被选手激起的水花误伤",
+      "onboard_time": 1701414993,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257406,
       "num": 257406,
       "word": "EDG 请补强",
@@ -7841,14 +7865,6 @@
       "onboard_time": 1701064231,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255763,
-      "num": 255763,
-      "word": "第一学历歧视就像是留了案底",
-      "onboard_time": 1701414333,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 255068,
@@ -9233,14 +9249,6 @@
       "onboard_time": 1701326493,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 216605,
-      "num": 158940,
-      "word": "29岁中国男子刺死日本女友",
-      "onboard_time": 1701414513,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216236,
@@ -11171,6 +11179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187452,
+      "num": 187452,
+      "word": "周深 最美的夜",
+      "onboard_time": 1701414874,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187438,
       "num": 187438,
       "word": "再见李可乐 这狗比我都懂事",
@@ -12827,6 +12843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155839,
+      "num": 155839,
+      "word": "一念关山 哭包公主成长记",
+      "onboard_time": 1701415054,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155786,
       "num": 155786,
       "word": "张碧晨和神犬小七重逢",
@@ -13635,6 +13659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140444,
+      "num": 140444,
+      "word": "虞书欣再跳money手势舞",
+      "onboard_time": 1701415595,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140344,
       "num": 140344,
       "word": "面包和馒头谁更营养",
@@ -13905,14 +13937,6 @@
       "onboard_time": 1700918508,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133080,
-      "num": 133080,
-      "word": "周深 最美的夜",
-      "onboard_time": 1701414874,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 132516,
@@ -14355,14 +14379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116348,
-      "num": 116348,
-      "word": "李晨被选手激起的水花误伤",
-      "onboard_time": 1701414993,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116241,
       "num": 116241,
       "word": "加纳乔倒钩",
@@ -14497,6 +14513,14 @@
       "onboard_time": 1700925409,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 107184,
+      "num": 107184,
+      "word": "4个少年意外走入镜头画面氛围感拉满",
+      "onboard_time": 1701415892,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106698,
@@ -15491,6 +15515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40234,
+      "num": 134130,
+      "word": "全系通过无奶精鉴证的奶茶",
+      "onboard_time": 1701414635,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38139,
       "num": 198003,
       "word": "欧阳娜娜看秀版ootd",
@@ -15721,14 +15753,6 @@
       "onboard_time": 1701026953,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17596,
-      "num": 134130,
-      "word": "全系通过无奶精鉴证的奶茶",
-      "onboard_time": 1701414635,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17508,
