@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701434997088,
+  "endTime": 1701436911015,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -139,6 +139,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1095072,
+      "num": 1095072,
+      "word": "肖战 拉夫劳伦香氛",
+      "onboard_time": 1701434015,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1077931,
       "num": 1077931,
       "word": "女子输血感染艾滋10年后才发现",
@@ -185,14 +193,6 @@
       "onboard_time": 1701357161,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 931993,
-      "num": 931993,
-      "word": "肖战 拉夫劳伦香氛",
-      "onboard_time": 1701434015,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 904631,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527440,
+      "num": 527440,
+      "word": "肿瘤医院的外卖骑手从不和顾客说再见",
+      "onboard_time": 1701433292,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511352,
       "num": 511352,
       "word": "小凯 不用铲了不用铲了",
@@ -456,14 +464,6 @@
       "word": "疑阿里被献血女子丈夫求助帖曝光",
       "onboard_time": 1701420333,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 485807,
-      "num": 485807,
-      "word": "肿瘤医院的外卖骑手从不和顾客说再见",
-      "onboard_time": 1701433292,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -587,8 +587,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 412775,
-      "num": 412775,
+      "raw_hot": 416240,
+      "num": 416240,
       "word": "小猫耳朵会被冻掉",
       "onboard_time": 1701433113,
       "rank": 30,
@@ -673,6 +673,14 @@
       "onboard_time": 1701404315,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355676,
+      "num": 355676,
+      "word": "北京极光",
+      "onboard_time": 1701436115,
+      "rank": 5,
+      "category": "自然"
     },
     {
       "raw_hot": 355550,
@@ -795,12 +803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304076,
+      "num": 291431,
+      "word": "原神 赛博案底",
+      "onboard_time": 1701435936,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 302705,
       "num": 302705,
       "word": "女子扎铁还债170万出圈后又添14万",
       "onboard_time": 1701418232,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297586,
+      "num": 297586,
+      "word": "你为什么不爱吃炸鸡了",
+      "onboard_time": 1701434974,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 297542,
@@ -1059,6 +1083,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 241158,
+      "num": 241158,
+      "word": "极光",
+      "onboard_time": 1701434494,
+      "rank": 23,
+      "category": "自然"
+    },
+    {
       "raw_hot": 240497,
       "num": 240497,
       "word": "泥鳅结婚",
@@ -1171,6 +1203,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 222689,
+      "num": 178144,
+      "word": "焦点访谈曝光妈见打手办问题",
+      "onboard_time": 1701436177,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221696,
       "num": 221696,
       "word": "宋亚轩王牌重现脆爷名场面",
@@ -1219,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215439,
+      "num": 215439,
+      "word": "花少团与迪丽热巴分享见闻",
+      "onboard_time": 1701433833,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215142,
       "num": 215142,
       "word": "薛之谦 我的盆骨微缩",
@@ -1233,14 +1281,6 @@
       "onboard_time": 1701426096,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213073,
-      "num": 213073,
-      "word": "花少团与迪丽热巴分享见闻",
-      "onboard_time": 1701433833,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 212658,
@@ -1315,6 +1355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202700,
+      "num": 202700,
+      "word": "朋友家一年的开销",
+      "onboard_time": 1701436298,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201094,
       "num": 201094,
       "word": "出狱10年后她见到恩人现状惊到下跪",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1701392672,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197009,
-      "num": 197009,
-      "word": "极光",
-      "onboard_time": 1701434494,
-      "rank": 23,
-      "category": "自然"
     },
     {
       "raw_hot": 196209,
@@ -1593,6 +1633,14 @@
       "onboard_time": 1701428254,
       "rank": 37,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 177191,
+      "num": 177191,
+      "word": "李羲承 Sweet Venom直拍",
+      "onboard_time": 1701436057,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 175572,
@@ -1915,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147593,
+      "num": 147593,
+      "word": "国乒混团世界杯适应场地训练",
+      "onboard_time": 1701436177,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145132,
       "num": 145132,
       "word": "全国十佳公诉人 六名是女性",
@@ -1979,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141764,
+      "num": 141764,
+      "word": "王鹤棣g社生图",
+      "onboard_time": 1701435515,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140444,
       "num": 140444,
       "word": "虞书欣再跳money手势舞",
@@ -2033,6 +2097,14 @@
       "onboard_time": 1701347012,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128470,
+      "num": 178149,
+      "word": "小猫吃公司20根虫草主人含泪赔2千",
+      "onboard_time": 1701436537,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127318,
@@ -2099,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117616,
+      "num": 117616,
+      "word": "沈腾说唐嫣那么不方便也走了",
+      "onboard_time": 1701436832,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117215,
       "num": 117215,
       "word": "音银12月停播",
@@ -2139,6 +2219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 110686,
+      "num": 110686,
+      "word": "照明商店",
+      "onboard_time": 1701436897,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108933,
       "num": 108933,
       "word": "换乘恋爱3预告",
@@ -2161,14 +2249,6 @@
       "onboard_time": 1701403235,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97473,
-      "num": 97473,
-      "word": "你为什么不爱吃炸鸡了",
-      "onboard_time": 1701434974,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 96818,
@@ -2315,6 +2395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41377,
+      "num": 974122,
+      "word": "这就是长三角",
+      "onboard_time": 1701422737,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40234,
       "num": 163655,
       "word": "全系通过无奶精鉴证的奶茶",
@@ -2329,14 +2417,6 @@
       "onboard_time": 1701424832,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29554,
-      "num": 974122,
-      "word": "这就是长三角",
-      "onboard_time": 1701422737,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23281,
@@ -2360,6 +2440,14 @@
       "word": "一条plog告别十一月",
       "onboard_time": 1701359671,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18875,
+      "num": 300822,
+      "word": "民警反诈劝阻真实现场",
+      "onboard_time": 1701436776,
+      "rank": 8,
       "category": "社会新闻"
     },
     {

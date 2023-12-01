@@ -1,0 +1,410 @@
+{
+  "runTime": 1701436911015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1622132,
+        "num": 1622132,
+        "word": "唐嫣cos狂飙大嫂",
+        "onboard_time": 1701430534,
+        "rank": 0,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 1095072,
+        "num": 1095072,
+        "word": "肖战 拉夫劳伦香氛",
+        "onboard_time": 1701434015,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 828666,
+        "num": 828666,
+        "word": "胖东来创始人称管理层已实现190天休假",
+        "onboard_time": 1701430233,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527440,
+        "num": 527440,
+        "word": "肿瘤医院的外卖骑手从不和顾客说再见",
+        "onboard_time": 1701433292,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416240,
+        "num": 416240,
+        "word": "小猫耳朵会被冻掉",
+        "onboard_time": 1701433113,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355676,
+        "num": 355676,
+        "word": "北京极光",
+        "onboard_time": 1701436115,
+        "rank": 5,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 336248,
+        "num": 336248,
+        "word": "易烊千玺vlog i人常态",
+        "onboard_time": 1701426693,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334095,
+        "num": 334095,
+        "word": "女团为了不养猪宁愿睡桥洞",
+        "onboard_time": 1701431253,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18875,
+        "num": 300822,
+        "word": "民警反诈劝阻真实现场",
+        "onboard_time": 1701436776,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297586,
+        "num": 297586,
+        "word": "你为什么不爱吃炸鸡了",
+        "onboard_time": 1701434974,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 513612,
+        "num": 296037,
+        "word": "王鹤棣 纹身",
+        "onboard_time": 1701416075,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465719,
+        "num": 294794,
+        "word": "女子提醒夫妻关远光灯被打致流产",
+        "onboard_time": 1701416557,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400164,
+        "num": 293311,
+        "word": "中S和汪大菲",
+        "onboard_time": 1701421954,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304076,
+        "num": 291431,
+        "word": "原神 赛博案底",
+        "onboard_time": 1701435936,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273759,
+        "num": 289496,
+        "word": "亿万富豪找回丢失25年儿子",
+        "onboard_time": 1701423215,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289351,
+        "num": 289351,
+        "word": "杨幂赵丽颖 酱园弄",
+        "onboard_time": 1701421354,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252096,
+        "num": 252096,
+        "word": "邓为直播",
+        "onboard_time": 1701433172,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246867,
+        "num": 246867,
+        "word": "梨泰院纪录片 中国街道",
+        "onboard_time": 1701425256,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242876,
+        "num": 242876,
+        "word": "唐毅 章子怡古早妆",
+        "onboard_time": 1701434074,
+        "rank": 18,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 230821,
+        "num": 241490,
+        "word": "梨泰院踩踏事故 纪录片",
+        "onboard_time": 1701416914,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460611,
+        "num": 241454,
+        "word": "29岁中国男子刺死日本女友",
+        "onboard_time": 1701414513,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41377,
+        "num": 241286,
+        "word": "这就是长三角",
+        "onboard_time": 1701422737,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241158,
+        "num": 241158,
+        "word": "极光",
+        "onboard_time": 1701434494,
+        "rank": 22,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 228455,
+        "num": 228455,
+        "word": "女朋友越处越像小朋友了",
+        "onboard_time": 1701426638,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215439,
+        "num": 215439,
+        "word": "花少团与迪丽热巴分享见闻",
+        "onboard_time": 1701433833,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204061,
+        "num": 204061,
+        "word": "微信更新后的朋友圈排版",
+        "onboard_time": 1701412955,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202700,
+        "num": 202700,
+        "word": "朋友家一年的开销",
+        "onboard_time": 1701436298,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200823,
+        "num": 200823,
+        "word": "姚政求婚成功",
+        "onboard_time": 1701410195,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173419,
+        "num": 178496,
+        "word": "疑似杨鸣老婆发文",
+        "onboard_time": 1701417031,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 128470,
+        "num": 178149,
+        "word": "小猫吃公司20根虫草主人含泪赔2千",
+        "onboard_time": 1701436537,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222689,
+        "num": 178144,
+        "word": "焦点访谈曝光妈见打手办问题",
+        "onboard_time": 1701436177,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177839,
+        "num": 177839,
+        "word": "小米回应冰冷的40亿",
+        "onboard_time": 1701425434,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177191,
+        "num": 177191,
+        "word": "李羲承 Sweet Venom直拍",
+        "onboard_time": 1701436057,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170147,
+        "num": 170147,
+        "word": "五年后才看到口红上的刻字",
+        "onboard_time": 1701426638,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163392,
+        "num": 163392,
+        "word": "刘诗诗无实物表演 孤狼战狼",
+        "onboard_time": 1701432153,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159408,
+        "num": 159408,
+        "word": "杨紫虞书欣看刘亦菲的眼神",
+        "onboard_time": 1701422616,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156048,
+        "num": 156048,
+        "word": "周一围女儿 喀秋莎",
+        "onboard_time": 1701413252,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147593,
+        "num": 147593,
+        "word": "国乒混团世界杯适应场地训练",
+        "onboard_time": 1701436177,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141764,
+        "num": 141764,
+        "word": "王鹤棣g社生图",
+        "onboard_time": 1701435515,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140017,
+        "num": 140017,
+        "word": "00后姑娘3份工作上班2年全款买房",
+        "onboard_time": 1701419796,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 135175,
+        "num": 135175,
+        "word": "胖东来创始人称今年营收或超100亿",
+        "onboard_time": 1701433533,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128109,
+        "num": 128109,
+        "word": "女子输血感染艾滋10年后才发现",
+        "onboard_time": 1701402273,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126464,
+        "num": 126464,
+        "word": "湘雅三医院科主任遭联合举报后恢复门诊",
+        "onboard_time": 1701426638,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125613,
+        "num": 125613,
+        "word": "关晓彤 天使",
+        "onboard_time": 1701429333,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124962,
+        "num": 124962,
+        "word": "第一学历歧视就像是留了案底",
+        "onboard_time": 1701414333,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 120754,
+        "num": 120754,
+        "word": "小凯 不用铲了不用铲了",
+        "onboard_time": 1701418232,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117616,
+        "num": 117616,
+        "word": "沈腾说唐嫣那么不方便也走了",
+        "onboard_time": 1701436832,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111828,
+        "num": 111828,
+        "word": "杨鸣 唐佳良",
+        "onboard_time": 1701414394,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 111358,
+        "num": 111358,
+        "word": "顾客发现漏洞故意买200盒饼干索赔",
+        "onboard_time": 1701424173,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110686,
+        "num": 110686,
+        "word": "照明商店",
+        "onboard_time": 1701436897,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续促进贸易和投资自由化便利化#"
+    }
+  }
+}
