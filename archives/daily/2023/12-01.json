@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701437649423,
+  "endTime": 1701440209749,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -147,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1080237,
+      "num": 1080237,
+      "word": "北京极光",
+      "onboard_time": 1701436115,
+      "rank": 5,
+      "category": "自然"
+    },
+    {
       "raw_hot": 1077931,
       "num": 1077931,
       "word": "女子输血感染艾滋10年后才发现",
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959287,
+      "num": 959287,
+      "word": "四川广东重现绿码",
+      "onboard_time": 1701438518,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904631,
       "num": 904631,
       "word": "女子提醒夫妻关远光灯被打致流产",
@@ -208,6 +224,14 @@
       "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
       "onboard_time": 1701378733,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 835813,
+      "num": 835813,
+      "word": "中国气象局发布大地磁暴预警",
+      "onboard_time": 1701438157,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -289,14 +313,6 @@
       "onboard_time": 1701410015,
       "rank": 4,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 719531,
-      "num": 719531,
-      "word": "北京极光",
-      "onboard_time": 1701436115,
-      "rank": 5,
-      "category": "自然"
     },
     {
       "raw_hot": 713443,
@@ -427,6 +443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 564267,
+      "num": 564267,
+      "word": "地磁暴",
+      "onboard_time": 1701437797,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547674,
+      "num": 547674,
+      "word": "小猫吃公司20根虫草主人含泪赔2千",
+      "onboard_time": 1701436537,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532879,
       "num": 532879,
       "word": "亿万富豪找回丢失25年儿子",
@@ -465,6 +497,14 @@
       "onboard_time": 1701418232,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 496849,
+      "num": 237871,
+      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+      "onboard_time": 1701437256,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486865,
@@ -619,6 +659,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 390315,
+      "num": 390315,
+      "word": "任豪甚至写了一篇论文",
+      "onboard_time": 1701437616,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386369,
       "num": 257466,
       "word": "女朋友越处越像小朋友了",
@@ -641,6 +689,14 @@
       "onboard_time": 1701405040,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 375598,
+      "num": 375598,
+      "word": "漠河 红绿极光",
+      "onboard_time": 1701438216,
+      "rank": 9,
+      "category": "自然"
     },
     {
       "raw_hot": 369445,
@@ -755,6 +811,14 @@
       "category": "健康医疗,社会议题"
     },
     {
+      "raw_hot": 331516,
+      "num": 331516,
+      "word": "秦岚旗袍 辛芷蕾东北大花",
+      "onboard_time": 1701438940,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323685,
       "num": 323685,
       "word": "陈志朋觉得直播带货很low",
@@ -841,14 +905,6 @@
       "onboard_time": 1701426638,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 296158,
-      "num": 280194,
-      "word": "小猫吃公司20根虫草主人含泪赔2千",
-      "onboard_time": 1701436537,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295575,
@@ -1203,6 +1259,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 229326,
+      "num": 229326,
+      "word": "黄智雯宣布离巢TVB",
+      "onboard_time": 1701439657,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228532,
       "num": 228532,
       "word": "这个浏览量 我是什么很丑的人吗",
@@ -1227,6 +1291,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 222297,
+      "num": 222297,
+      "word": "沈腾说唐嫣那么不方便也走了",
+      "onboard_time": 1701436832,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221696,
       "num": 221696,
       "word": "宋亚轩王牌重现脆爷名场面",
@@ -1249,14 +1321,6 @@
       "onboard_time": 1701418713,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217068,
-      "num": 217068,
-      "word": "沈腾说唐嫣那么不方便也走了",
-      "onboard_time": 1701436832,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 216280,
@@ -1315,6 +1379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 212431,
+      "num": 212431,
+      "word": "刘诗诗边跳舞边走",
+      "onboard_time": 1701437557,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211218,
       "num": 211218,
       "word": "莫言 人还是得有个班上",
@@ -1337,6 +1409,30 @@
       "onboard_time": 1701434614,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208377,
+      "num": 208377,
+      "word": "桑酒乱入南海归墟",
+      "onboard_time": 1701439717,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207796,
+      "num": 207796,
+      "word": "辽宁男篮十连胜",
+      "onboard_time": 1701439776,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207133,
+      "num": 207133,
+      "word": "羊了个羊崩了",
+      "onboard_time": 1701437375,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 207123,
@@ -1515,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187974,
+      "num": 187974,
+      "word": "宁远舟 我就是疯了",
+      "onboard_time": 1701439537,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187549,
       "num": 187549,
       "word": "榴莲亿层",
@@ -1640,6 +1744,14 @@
       "word": "很想很想你 配音演员",
       "onboard_time": 1701393454,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179100,
+      "num": 179100,
+      "word": "宁远舟答应给任如意生孩子了",
+      "onboard_time": 1701439717,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1987,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145697,
-      "num": 145697,
-      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
-      "onboard_time": 1701437256,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145132,
       "num": 145132,
       "word": "全国十佳公诉人 六名是女性",
@@ -2099,6 +2203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138327,
+      "num": 138327,
+      "word": "戚薇 我没有抑郁过",
+      "onboard_time": 1701438456,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137819,
       "num": 137819,
       "word": "田甜发现相亲男喜欢闺蜜秒删",
@@ -2131,12 +2243,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128712,
-      "num": 128712,
-      "word": "羊了个羊崩了",
-      "onboard_time": 1701437375,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 130601,
+      "num": 130601,
+      "word": "蛇偷吃鸡舍仨鸡蛋大爷摇来消防员",
+      "onboard_time": 1701439420,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129587,
+      "num": 129587,
+      "word": "甘肃发现超亿吨级整装大油田",
+      "onboard_time": 1701440079,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127318,
@@ -2187,14 +2307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121420,
-      "num": 121420,
-      "word": "刘诗诗边跳舞边走",
-      "onboard_time": 1701437557,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118679,
       "num": 118679,
       "word": "关于艾滋的6个常见误区",
@@ -2225,14 +2337,6 @@
       "onboard_time": 1701426336,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113161,
-      "num": 113161,
-      "word": "任豪甚至写了一篇论文",
-      "onboard_time": 1701437616,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 112435,
@@ -2329,6 +2433,14 @@
       "onboard_time": 1701384077,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 80390,
+      "num": 977622,
+      "word": "雪龙号抵达中山站",
+      "onboard_time": 1701436956,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76446,
@@ -2457,14 +2569,6 @@
       "onboard_time": 1701366619,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23202,
-      "num": 766440,
-      "word": "雪龙号抵达中山站",
-      "onboard_time": 1701436956,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21895,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1701440209749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1221599,
+        "num": 1221599,
+        "word": "唐嫣cos狂飙大嫂",
+        "onboard_time": 1701430534,
+        "rank": 0,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 1080237,
+        "num": 1080237,
+        "word": "北京极光",
+        "onboard_time": 1701436115,
+        "rank": 1,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 80390,
+        "num": 977622,
+        "word": "雪龙号抵达中山站",
+        "onboard_time": 1701436956,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959287,
+        "num": 959287,
+        "word": "四川广东重现绿码",
+        "onboard_time": 1701438518,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835813,
+        "num": 835813,
+        "word": "中国气象局发布大地磁暴预警",
+        "onboard_time": 1701438157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771232,
+        "num": 771232,
+        "word": "肖战 拉夫劳伦香氛",
+        "onboard_time": 1701434015,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 564267,
+        "num": 564267,
+        "word": "地磁暴",
+        "onboard_time": 1701437797,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547674,
+        "num": 547674,
+        "word": "小猫吃公司20根虫草主人含泪赔2千",
+        "onboard_time": 1701436537,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390315,
+        "num": 390315,
+        "word": "任豪甚至写了一篇论文",
+        "onboard_time": 1701437616,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375598,
+        "num": 375598,
+        "word": "漠河 红绿极光",
+        "onboard_time": 1701438216,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 462757,
+        "num": 364483,
+        "word": "王鹤棣 纹身",
+        "onboard_time": 1701416075,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375772,
+        "num": 362105,
+        "word": "中S和汪大菲",
+        "onboard_time": 1701421954,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 348895,
+        "num": 348895,
+        "word": "女子提醒夫妻关远光灯被打致流产",
+        "onboard_time": 1701416557,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331516,
+        "num": 331516,
+        "word": "秦岚旗袍 辛芷蕾东北大花",
+        "onboard_time": 1701438940,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316984,
+        "num": 316984,
+        "word": "肿瘤医院的外卖骑手从不和顾客说再见",
+        "onboard_time": 1701433292,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301764,
+        "num": 301764,
+        "word": "你为什么不爱吃炸鸡了",
+        "onboard_time": 1701434974,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 287528,
+        "num": 287528,
+        "word": "胖东来创始人称管理层已实现190天休假",
+        "onboard_time": 1701430233,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269747,
+        "num": 269747,
+        "word": "焦点访谈曝光妈见打手办问题",
+        "onboard_time": 1701436177,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268965,
+        "num": 268965,
+        "word": "易烊千玺vlog i人常态",
+        "onboard_time": 1701426693,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241432,
+        "num": 241432,
+        "word": "小猫耳朵会被冻掉",
+        "onboard_time": 1701433113,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496849,
+        "num": 237871,
+        "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+        "onboard_time": 1701437256,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369011,
+        "num": 235917,
+        "word": "29岁中国男子刺死日本女友",
+        "onboard_time": 1701414513,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229326,
+        "num": 229326,
+        "word": "黄智雯宣布离巢TVB",
+        "onboard_time": 1701439657,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222297,
+        "num": 222297,
+        "word": "沈腾说唐嫣那么不方便也走了",
+        "onboard_time": 1701436832,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217474,
+        "num": 217474,
+        "word": "朋友家一年的开销",
+        "onboard_time": 1701436298,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213490,
+        "num": 213490,
+        "word": "微信更新后的朋友圈排版",
+        "onboard_time": 1701412955,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212431,
+        "num": 212431,
+        "word": "刘诗诗边跳舞边走",
+        "onboard_time": 1701437557,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208377,
+        "num": 208377,
+        "word": "桑酒乱入南海归墟",
+        "onboard_time": 1701439717,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207796,
+        "num": 207796,
+        "word": "辽宁男篮十连胜",
+        "onboard_time": 1701439776,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207133,
+        "num": 207133,
+        "word": "羊了个羊崩了",
+        "onboard_time": 1701437375,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190112,
+        "num": 190112,
+        "word": "杨幂赵丽颖 酱园弄",
+        "onboard_time": 1701421354,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190064,
+        "num": 190064,
+        "word": "姚政求婚成功",
+        "onboard_time": 1701410195,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187974,
+        "num": 187974,
+        "word": "宁远舟 我就是疯了",
+        "onboard_time": 1701439537,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186401,
+        "num": 186401,
+        "word": "梨泰院纪录片 中国街道",
+        "onboard_time": 1701425256,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179100,
+        "num": 179100,
+        "word": "宁远舟答应给任如意生孩子了",
+        "onboard_time": 1701439717,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177368,
+        "num": 177368,
+        "word": "原神 赛博案底",
+        "onboard_time": 1701435936,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172625,
+        "num": 172625,
+        "word": "五年后才看到口红上的刻字",
+        "onboard_time": 1701426638,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170264,
+        "num": 170264,
+        "word": "亿万富豪找回丢失25年儿子",
+        "onboard_time": 1701423215,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162330,
+        "num": 162330,
+        "word": "梨泰院踩踏事故 纪录片",
+        "onboard_time": 1701416914,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161373,
+        "num": 161373,
+        "word": "邓为直播",
+        "onboard_time": 1701433172,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160663,
+        "num": 160663,
+        "word": "疑似杨鸣老婆发文",
+        "onboard_time": 1701417031,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 158089,
+        "num": 158089,
+        "word": "女团为了不养猪宁愿睡桥洞",
+        "onboard_time": 1701431253,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151485,
+        "num": 151485,
+        "word": "女朋友越处越像小朋友了",
+        "onboard_time": 1701426638,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145171,
+        "num": 145171,
+        "word": "周一围女儿 喀秋莎",
+        "onboard_time": 1701413252,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143103,
+        "num": 143103,
+        "word": "杨紫虞书欣看刘亦菲的眼神",
+        "onboard_time": 1701422616,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138327,
+        "num": 138327,
+        "word": "戚薇 我没有抑郁过",
+        "onboard_time": 1701438456,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136606,
+        "num": 136606,
+        "word": "胖东来创始人称今年营收或超100亿",
+        "onboard_time": 1701433533,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134218,
+        "num": 134218,
+        "word": "极光",
+        "onboard_time": 1701434494,
+        "rank": 47,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 130601,
+        "num": 130601,
+        "word": "蛇偷吃鸡舍仨鸡蛋大爷摇来消防员",
+        "onboard_time": 1701439420,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129587,
+        "num": 129587,
+        "word": "甘肃发现超亿吨级整装大油田",
+        "onboard_time": 1701440079,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何让长三角一体化发展取得更大突破#"
+    }
+  }
+}

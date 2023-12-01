@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701437649423,
+  "endTime": 1701440209749,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -1283,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1080237,
+      "num": 1080237,
+      "word": "北京极光",
+      "onboard_time": 1701436115,
+      "rank": 5,
+      "category": "自然"
+    },
+    {
       "raw_hot": 1077931,
       "num": 1077931,
       "word": "女子输血感染艾滋10年后才发现",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1701049717,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 959287,
+      "num": 959287,
+      "word": "四川广东重现绿码",
+      "onboard_time": 1701438518,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 957784,
@@ -1881,6 +1897,14 @@
       "onboard_time": 1700991696,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 835813,
+      "num": 835813,
+      "word": "中国气象局发布大地磁暴预警",
+      "onboard_time": 1701438157,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821819,
@@ -2273,14 +2297,6 @@
       "onboard_time": 1701140978,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 719531,
-      "num": 719531,
-      "word": "北京极光",
-      "onboard_time": 1701436115,
-      "rank": 5,
-      "category": "自然"
     },
     {
       "raw_hot": 716215,
@@ -3275,6 +3291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564267,
+      "num": 564267,
+      "word": "地磁暴",
+      "onboard_time": 1701437797,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563109,
       "num": 563109,
       "word": "魅族21价格",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1701181297,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 547674,
+      "num": 547674,
+      "word": "小猫吃公司20根虫草主人含泪赔2千",
+      "onboard_time": 1701436537,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547398,
@@ -3881,6 +3913,14 @@
       "onboard_time": 1700970633,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 496849,
+      "num": 237871,
+      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+      "onboard_time": 1701437256,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495214,
@@ -5227,6 +5267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 390315,
+      "num": 390315,
+      "word": "任豪甚至写了一篇论文",
+      "onboard_time": 1701437616,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389673,
       "num": 389673,
       "word": "韩国编剧地位高的原因",
@@ -5393,6 +5441,14 @@
       "onboard_time": 1701182977,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375598,
+      "num": 375598,
+      "word": "漠河 红绿极光",
+      "onboard_time": 1701438216,
+      "rank": 9,
+      "category": "自然"
     },
     {
       "raw_hot": 375319,
@@ -6097,6 +6153,14 @@
       "onboard_time": 1701180216,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331516,
+      "num": 331516,
+      "word": "秦岚旗袍 辛芷蕾东北大花",
+      "onboard_time": 1701438940,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 331474,
@@ -6913,14 +6977,6 @@
       "onboard_time": 1701343113,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296158,
-      "num": 280194,
-      "word": "小猫吃公司20根虫草主人含泪赔2千",
-      "onboard_time": 1701436537,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295978,
@@ -9195,6 +9251,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 229326,
+      "num": 229326,
+      "word": "黄智雯宣布离巢TVB",
+      "onboard_time": 1701439657,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229318,
       "num": 229318,
       "word": "许光汉猩红脚趾美甲",
@@ -9435,6 +9499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222297,
+      "num": 222297,
+      "word": "沈腾说唐嫣那么不方便也走了",
+      "onboard_time": 1701436832,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221890,
       "num": 221890,
       "word": "李苗苗 病娇",
@@ -9667,14 +9739,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 217068,
-      "num": 217068,
-      "word": "沈腾说唐嫣那么不方便也走了",
-      "onboard_time": 1701436832,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216236,
       "num": 216236,
       "word": "有线电视终端默认应为开机进入全屏直播",
@@ -9899,6 +9963,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 212431,
+      "num": 212431,
+      "word": "刘诗诗边跳舞边走",
+      "onboard_time": 1701437557,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212199,
       "num": 212199,
       "word": "何蓝逗 刘诗诗香香的",
@@ -10075,6 +10147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208377,
+      "num": 208377,
+      "word": "桑酒乱入南海归墟",
+      "onboard_time": 1701439717,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208278,
       "num": 208278,
       "word": "老狼也在听鹿晗新歌",
@@ -10097,6 +10177,14 @@
       "onboard_time": 1701309996,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207796,
+      "num": 207796,
+      "word": "辽宁男篮十连胜",
+      "onboard_time": 1701439776,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 207731,
@@ -10129,6 +10217,14 @@
       "onboard_time": 1701059198,
       "rank": 36,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 207133,
+      "num": 207133,
+      "word": "羊了个羊崩了",
+      "onboard_time": 1701437375,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 207123,
@@ -11643,6 +11739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187974,
+      "num": 187974,
+      "word": "宁远舟 我就是疯了",
+      "onboard_time": 1701439537,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187720,
       "num": 187720,
       "word": "柯南黑铁的鱼影位列历代第一",
@@ -12192,6 +12296,14 @@
       "word": "刘宇宁一天出两首歌",
       "onboard_time": 1701140253,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179100,
+      "num": 179100,
+      "word": "宁远舟答应给任如意生孩子了",
+      "onboard_time": 1701439717,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -14091,14 +14203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145697,
-      "num": 145697,
-      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
-      "onboard_time": 1701437256,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145132,
       "num": 145132,
       "word": "全国十佳公诉人 六名是女性",
@@ -14523,6 +14627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138327,
+      "num": 138327,
+      "word": "戚薇 我没有抑郁过",
+      "onboard_time": 1701438456,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138024,
       "num": 138024,
       "word": "佘诗曼说文慧心不懂生活",
@@ -14755,6 +14867,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 130601,
+      "num": 130601,
+      "word": "蛇偷吃鸡舍仨鸡蛋大爷摇来消防员",
+      "onboard_time": 1701439420,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130524,
       "num": 130524,
       "word": "爷爷戴一身军功章参加新人婚礼",
@@ -14787,12 +14907,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 128712,
-      "num": 128712,
-      "word": "羊了个羊崩了",
-      "onboard_time": 1701437375,
-      "rank": 40,
-      "category": "游戏"
+      "raw_hot": 129587,
+      "num": 129587,
+      "word": "甘肃发现超亿吨级整装大油田",
+      "onboard_time": 1701440079,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128508,
@@ -15035,14 +15155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121420,
-      "num": 121420,
-      "word": "刘诗诗边跳舞边走",
-      "onboard_time": 1701437557,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120869,
       "num": 1145549,
       "word": "12月这些新规施行",
@@ -15201,14 +15313,6 @@
       "onboard_time": 1701237935,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113161,
-      "num": 113161,
-      "word": "任豪甚至写了一篇论文",
-      "onboard_time": 1701437616,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 113059,
@@ -15752,6 +15856,14 @@
       "word": "大爷把可乐当水喝医生要求的",
       "onboard_time": 1701264704,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80390,
+      "num": 977622,
+      "word": "雪龙号抵达中山站",
+      "onboard_time": 1701436956,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -16521,14 +16633,6 @@
       "onboard_time": 1701366619,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23202,
-      "num": 766440,
-      "word": "雪龙号抵达中山站",
-      "onboard_time": 1701436956,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21895,
