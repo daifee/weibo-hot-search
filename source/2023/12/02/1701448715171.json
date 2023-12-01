@@ -1,0 +1,410 @@
+{
+  "runTime": 1701448715171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1904978,
+        "num": 1904978,
+        "word": "北京极光",
+        "onboard_time": 1701436115,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 878187,
+        "num": 878187,
+        "word": "胖东来员工不想上班请假不允许不批假",
+        "onboard_time": 1701440737,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29844,
+        "num": 841535,
+        "word": "民警反诈劝阻真实现场",
+        "onboard_time": 1701436776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818041,
+        "num": 818041,
+        "word": "中国气象局发布大地磁暴预警",
+        "onboard_time": 1701438157,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512734,
+        "num": 512734,
+        "word": "唐嫣cos狂飙大嫂",
+        "onboard_time": 1701430534,
+        "rank": 4,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 451925,
+        "num": 451925,
+        "word": "许嵩近期状态",
+        "onboard_time": 1701443979,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420696,
+        "num": 420696,
+        "word": "甘肃酒泉地震",
+        "onboard_time": 1701443258,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352830,
+        "num": 352830,
+        "word": "脱轨",
+        "onboard_time": 1701444215,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292384,
+        "num": 292384,
+        "word": "肖战 拉夫劳伦香氛",
+        "onboard_time": 1701434015,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289670,
+        "num": 289670,
+        "word": "甘肃发现超亿吨级整装大油田",
+        "onboard_time": 1701440079,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390384,
+        "num": 287148,
+        "word": "王鹤棣 纹身",
+        "onboard_time": 1701416075,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283240,
+        "num": 283240,
+        "word": "频繁涂抹润唇膏或引发唇炎",
+        "onboard_time": 1701444514,
+        "rank": 11,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 247163,
+        "num": 247163,
+        "word": "陈卓璇不敢加戚薇赵露思微信",
+        "onboard_time": 1701446433,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246446,
+        "num": 246446,
+        "word": "小猫吃公司20根虫草主人含泪赔2千",
+        "onboard_time": 1701436537,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237887,
+        "num": 237887,
+        "word": "灵儿穿马面裙",
+        "onboard_time": 1701444694,
+        "rank": 14,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 219856,
+        "num": 219856,
+        "word": "陈楚生夺冠后最开心的是苏醒",
+        "onboard_time": 1701445476,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215701,
+        "num": 215701,
+        "word": "与恶魔有约",
+        "onboard_time": 1701445655,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179454,
+        "num": 179454,
+        "word": "中S和汪大菲",
+        "onboard_time": 1701421954,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176503,
+        "num": 176503,
+        "word": "周深官宣加盟声生不息",
+        "onboard_time": 1701444100,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175004,
+        "num": 175004,
+        "word": "女子提醒夫妻关远光灯被打致流产",
+        "onboard_time": 1701416557,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181945,
+        "num": 169869,
+        "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+        "onboard_time": 1701437256,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157984,
+        "num": 157984,
+        "word": "女朋友越处越像小朋友了",
+        "onboard_time": 1701426638,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154476,
+        "num": 154476,
+        "word": "在暴雪时分",
+        "onboard_time": 1701443799,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151848,
+        "num": 151848,
+        "word": "BLG对战GEN",
+        "onboard_time": 1701441818,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149637,
+        "num": 149637,
+        "word": "地震快讯",
+        "onboard_time": 1701446553,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149270,
+        "num": 149270,
+        "word": "地磁暴",
+        "onboard_time": 1701437797,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142499,
+        "num": 142499,
+        "word": "一念关山 我只是宁远舟",
+        "onboard_time": 1701442960,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136866,
+        "num": 136866,
+        "word": "知识以一种侮辱的方式进入了大脑",
+        "onboard_time": 1701442299,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132217,
+        "num": 132217,
+        "word": "秦岚旗袍 辛芷蕾东北大花",
+        "onboard_time": 1701438940,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128180,
+        "num": 128180,
+        "word": "易烊千玺vlog i人常态",
+        "onboard_time": 1701426693,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126660,
+        "num": 126660,
+        "word": "声生不息家年华阵容",
+        "onboard_time": 1701443436,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119948,
+        "num": 119948,
+        "word": "任豪甚至写了一篇论文",
+        "onboard_time": 1701437616,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117874,
+        "num": 117874,
+        "word": "黄智雯宣布离巢TVB",
+        "onboard_time": 1701439657,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116638,
+        "num": 116638,
+        "word": "五年后才看到口红上的刻字",
+        "onboard_time": 1701426638,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115810,
+        "num": 115810,
+        "word": "Bin对线chovy",
+        "onboard_time": 1701441036,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112533,
+        "num": 112533,
+        "word": "张力尹发型",
+        "onboard_time": 1701445173,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105538,
+        "num": 105538,
+        "word": "宁远舟 另类疯批男主",
+        "onboard_time": 1701445712,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97214,
+        "num": 97214,
+        "word": "梨泰院纪录片 中国街道",
+        "onboard_time": 1701425256,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93752,
+        "num": 93752,
+        "word": "黄河要告别地上河了吗",
+        "onboard_time": 1701444159,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 93617,
+        "num": 93617,
+        "word": "原神 赛博案底",
+        "onboard_time": 1701435936,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91911,
+        "num": 91911,
+        "word": "赵文卓 不努力的演员直接淘汰",
+        "onboard_time": 1701443079,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88561,
+        "num": 88561,
+        "word": "桑酒乱入南海归墟",
+        "onboard_time": 1701439717,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88542,
+        "num": 88542,
+        "word": "杨紫虞书欣看刘亦菲的眼神",
+        "onboard_time": 1701422616,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84844,
+        "num": 84844,
+        "word": "微信更新后的朋友圈排版",
+        "onboard_time": 1701412955,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78280,
+        "num": 78280,
+        "word": "CBA",
+        "onboard_time": 1701442716,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77822,
+        "num": 77822,
+        "word": "杨幂赵丽颖 酱园弄",
+        "onboard_time": 1701421354,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77147,
+        "num": 77147,
+        "word": "刘诗诗边跳舞边走",
+        "onboard_time": 1701437557,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73972,
+        "num": 73972,
+        "word": "假睫毛贴在真睫毛上方",
+        "onboard_time": 1701442359,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 73333,
+        "num": 73333,
+        "word": "女团为了不养猪宁愿睡桥洞",
+        "onboard_time": 1701431253,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62757,
+        "num": 72655,
+        "word": "梨泰院踩踏事故 纪录片",
+        "onboard_time": 1701416914,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察武警海警总队东海海区指挥部#"
+    }
+  }
+}
