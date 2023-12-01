@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701470047982,
+  "endTime": 1701472678736,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -57,6 +57,14 @@
       "onboard_time": 1701443979,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428730,
+      "num": 428730,
+      "word": "小伙熬夜打游戏关节长千颗白色颗粒",
+      "onboard_time": 1701459974,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419722,
@@ -147,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212785,
+      "num": 184663,
+      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
+      "onboard_time": 1701437256,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207511,
       "num": 207511,
       "word": "女子提醒夫妻关远光灯被打致流产",
@@ -179,12 +195,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 193938,
-      "num": 184663,
-      "word": "女子月子期不愿丈夫上班被婆婆怒斥",
-      "onboard_time": 1701437256,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 191529,
+      "num": 191529,
+      "word": "陈志朋自我定位 顶流",
+      "onboard_time": 1701470178,
+      "rank": 5,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 186112,
@@ -193,14 +209,6 @@
       "onboard_time": 1701441818,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183587,
-      "num": 183587,
-      "word": "小伙熬夜打游戏关节长千颗白色颗粒",
-      "onboard_time": 1701459974,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180485,
@@ -225,6 +233,22 @@
       "onboard_time": 1701437797,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164734,
+      "num": 164734,
+      "word": "怎么查自己名下有几张电话卡",
+      "onboard_time": 1701464354,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155585,
+      "num": 142225,
+      "word": "肖战长发背头",
+      "onboard_time": 1701455417,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155502,
@@ -299,11 +323,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124580,
-      "num": 124580,
-      "word": "怎么查自己名下有几张电话卡",
-      "onboard_time": 1701464354,
-      "rank": 18,
+      "raw_hot": 125507,
+      "num": 125507,
+      "word": "生鲜灯叫停后商家希望统一用灯",
+      "onboard_time": 1701467774,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -403,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88136,
+      "num": 88136,
+      "word": "东北多地惊现极光",
+      "onboard_time": 1701466994,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86768,
       "num": 86768,
       "word": "假睫毛贴在真睫毛上方",
@@ -419,12 +451,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 81333,
-      "num": 81333,
-      "word": "肖战长发背头",
-      "onboard_time": 1701455417,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 83690,
+      "num": 83690,
+      "word": "芒市地震",
+      "onboard_time": 1701472341,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79711,
+      "num": 58945,
+      "word": "杨鸣曾数次起诉离婚",
+      "onboard_time": 1701472460,
+      "rank": 30,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 77822,
@@ -435,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77630,
+      "num": 77630,
+      "word": "苏有朋工牌 我看我快要翘辫子了",
+      "onboard_time": 1701471019,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73539,
       "num": 83626,
       "word": "梨泰院踩踏事故 纪录片",
@@ -443,12 +491,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68638,
-      "num": 68638,
+      "raw_hot": 69644,
+      "num": 69644,
       "word": "秦昊 苏醒是已淘汰男团成员",
       "onboard_time": 1701451163,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69553,
+      "num": 69553,
+      "word": "很想很想你男女主终于相认了",
+      "onboard_time": 1701455716,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63128,
+      "num": 63128,
+      "word": "跳尊巴减肥",
+      "onboard_time": 1701451641,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 57352,
@@ -467,12 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47410,
-      "num": 47410,
-      "word": "生鲜灯叫停后商家希望统一用灯",
-      "onboard_time": 1701467774,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 51984,
+      "num": 51984,
+      "word": "刘宇宁自己挨打还得自己唱歌",
+      "onboard_time": 1701471739,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51814,
+      "num": 51814,
+      "word": "苹果型身材有福了",
+      "onboard_time": 1701457814,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 44410,
@@ -483,20 +555,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 44378,
-      "num": 44378,
-      "word": "东北多地惊现极光",
-      "onboard_time": 1701466994,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43654,
-      "num": 43654,
-      "word": "跳尊巴减肥",
-      "onboard_time": 1701451641,
-      "rank": 49,
-      "category": "运动健身"
+      "raw_hot": 37340,
+      "num": 37340,
+      "word": "谭维维高智感低马尾",
+      "onboard_time": 1701463633,
+      "rank": 27,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 35068,
@@ -507,15 +571,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30416,
-      "num": 30416,
-      "word": "很想很想你男女主终于相认了",
-      "onboard_time": 1701455716,
-      "rank": 47,
+      "raw_hot": 32865,
+      "num": 32865,
+      "word": "南海归墟发现蛇身巨龙",
+      "onboard_time": 1701457515,
+      "rank": 44,
       "category": "剧集"
     },
     {
-      "raw_hot": 29844,
+      "raw_hot": 30944,
       "num": 841535,
       "word": "民警反诈劝阻真实现场",
       "onboard_time": 1701436776,
@@ -537,30 +601,6 @@
       "onboard_time": 1701455357,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27667,
-      "num": 27667,
-      "word": "南海归墟发现蛇身巨龙",
-      "onboard_time": 1701457515,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27031,
-      "num": 27031,
-      "word": "谭维维高智感低马尾",
-      "onboard_time": 1701463633,
-      "rank": 27,
-      "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 24133,
-      "num": 24133,
-      "word": "苹果型身材有福了",
-      "onboard_time": 1701457814,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 23757,
