@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701480780851,
+  "endTime": 1701483925181,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -457,6 +457,14 @@
       "onboard_time": 1701164974,
       "rank": 3,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1886615,
+      "num": 1886615,
+      "word": "2024年总台春晚官宣",
+      "onboard_time": 1701479674,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1882880,
@@ -1275,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1099897,
-      "num": 1099897,
-      "word": "2024年总台春晚官宣",
-      "onboard_time": 1701479674,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1096109,
       "num": 1096109,
       "word": "B太 我被漠河人留住了",
@@ -1667,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 935945,
+      "num": 935945,
+      "word": "关智斌面部手部二级烧伤",
+      "onboard_time": 1701481293,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 935647,
       "num": 935647,
       "word": "中学女生发型 鲶鱼须遮半张脸",
@@ -1993,6 +2001,14 @@
       "onboard_time": 1701403835,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 811860,
+      "num": 811860,
+      "word": "排卵后1周是黄体破裂高危期",
+      "onboard_time": 1701479733,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 809566,
@@ -3411,14 +3427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 561116,
-      "num": 440580,
-      "word": "排卵后1周是黄体破裂高危期",
-      "onboard_time": 1701479733,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 560559,
       "num": 560559,
       "word": "供应商曝羽绒服高价真相",
@@ -4491,6 +4499,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 458336,
+      "num": 458336,
+      "word": "他只希望活过45岁啊",
+      "onboard_time": 1701480994,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457071,
       "num": 457071,
       "word": "杨幂一个vlog去了3个地方",
@@ -5531,6 +5547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381706,
+      "num": 381706,
+      "word": "女生考研崩溃晒百张草稿获网友鼓励",
+      "onboard_time": 1701481954,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381630,
       "num": 381630,
       "word": "纪梵希 洪知秀",
@@ -5545,6 +5569,14 @@
       "onboard_time": 1701203533,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 380446,
+      "num": 380446,
+      "word": "谢依霖 爆红其实很可怕",
+      "onboard_time": 1701481535,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 380316,
@@ -5641,6 +5673,14 @@
       "onboard_time": 1701314255,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 371283,
+      "num": 371283,
+      "word": "水龙吟开机",
+      "onboard_time": 1701480631,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 370896,
@@ -6521,6 +6561,14 @@
       "onboard_time": 1701316656,
       "rank": 24,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 321125,
+      "num": 321125,
+      "word": "警方通报女子提醒关远光灯被打致流产",
+      "onboard_time": 1701481056,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320894,
@@ -9507,6 +9555,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 230479,
+      "num": 230479,
+      "word": "50名外国人拿到首批五星卡",
+      "onboard_time": 1701482555,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230308,
       "num": 230308,
       "word": "倪萍就是新闻女王照进现实吧",
@@ -9577,6 +9633,14 @@
       "onboard_time": 1701149434,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229247,
+      "num": 229247,
+      "word": "零下20度穿单衣男孩",
+      "onboard_time": 1701482313,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 229058,
@@ -10403,6 +10467,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 210403,
+      "num": 210403,
+      "word": "你好星期六谁是卧底",
+      "onboard_time": 1701482853,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210301,
       "num": 219761,
       "word": "恋与制作人",
@@ -10467,12 +10539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209490,
+      "num": 209490,
+      "word": "韩国人骂人太搞笑了",
+      "onboard_time": 1701480754,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209467,
       "num": 209467,
       "word": "周迅 叫我妈咪会被黄渤拖走",
       "onboard_time": 1701170916,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209365,
+      "num": 209365,
+      "word": "罗云熙水龙吟出妆",
+      "onboard_time": 1701482614,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 208840,
@@ -10705,6 +10793,14 @@
       "onboard_time": 1700972735,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205327,
+      "num": 205327,
+      "word": "龘这个字怎么读",
+      "onboard_time": 1701483094,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205320,
@@ -10945,6 +11041,14 @@
       "onboard_time": 1700996430,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201811,
+      "num": 201811,
+      "word": "平均年龄60岁的韩国浪姐团",
+      "onboard_time": 1701482853,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 201794,
@@ -11513,6 +11617,14 @@
       "onboard_time": 1701328593,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194519,
+      "num": 194519,
+      "word": "周一围不善表达 朱丹不善传达",
+      "onboard_time": 1701482135,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 194517,
@@ -13915,6 +14027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159250,
+      "num": 159250,
+      "word": "南海归墟里的人鱼娃娃",
+      "onboard_time": 1701482255,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159214,
       "num": 159214,
       "word": "扁头高马尾发型",
@@ -14219,12 +14339,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 154335,
-      "num": 154335,
-      "word": "韩国人骂人太搞笑了",
-      "onboard_time": 1701480754,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 154318,
+      "num": 154318,
+      "word": "战地女记者被防弹衣磨出血",
+      "onboard_time": 1701482072,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153952,
@@ -14393,6 +14513,14 @@
       "onboard_time": 1701389131,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150579,
+      "num": 150579,
+      "word": "王鹤棣也知道汗流浃背",
+      "onboard_time": 1701483754,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 150571,
@@ -14640,14 +14768,6 @@
       "word": "拳拳到肉的打戏",
       "onboard_time": 1701182616,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146968,
-      "num": 146968,
-      "word": "水龙吟开机",
-      "onboard_time": 1701480631,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -14963,12 +15083,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 141021,
+      "num": 141021,
+      "word": "好娶风男人",
+      "onboard_time": 1701483214,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140994,
       "num": 140994,
       "word": "王一博格纹外套造型超酷",
       "onboard_time": 1700998233,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140972,
+      "num": 140972,
+      "word": "要多少次练习才能这么信任对方",
+      "onboard_time": 1701482853,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140579,
@@ -15651,6 +15787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124358,
+      "num": 124358,
+      "word": "一年级教师深夜对着空教室练习讲课",
+      "onboard_time": 1701483574,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124316,
       "num": 124316,
       "word": "妈妈每天早上是如何叫醒我的",
@@ -15721,6 +15865,14 @@
       "onboard_time": 1701094537,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 122869,
+      "num": 122869,
+      "word": "你不是我的亲妈妈但不妨碍我爱你",
+      "onboard_time": 1701483396,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122459,
