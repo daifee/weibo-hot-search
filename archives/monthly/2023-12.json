@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701494139618,
+  "endTime": 1701495230370,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2068444,
-      "num": 2068444,
+      "raw_hot": 2136838,
+      "num": 2136838,
       "word": "黄体破裂",
       "onboard_time": 1701489332,
       "rank": 5,
@@ -387,6 +387,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 751488,
+      "num": 751488,
+      "word": "刘诗诗 磨皮",
+      "onboard_time": 1701489933,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 750985,
       "num": 750985,
       "word": "RNG Ming",
@@ -443,14 +451,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 704472,
-      "num": 704472,
-      "word": "刘诗诗 磨皮",
-      "onboard_time": 1701489933,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 680614,
       "num": 680614,
       "word": "十二月狗屎运最旺的星座",
@@ -481,6 +481,14 @@
       "onboard_time": 1701405881,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 651338,
+      "num": 651338,
+      "word": "山河图 好燃",
+      "onboard_time": 1701493653,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 649387,
@@ -1075,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357960,
+      "num": 357960,
+      "word": "因关远光灯打人致流产夫妻已被拘",
+      "onboard_time": 1701494253,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356632,
       "num": 356632,
       "word": "海底捞员工称门店内卷让人疲惫",
@@ -1395,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287231,
-      "num": 279622,
-      "word": "山河图 好燃",
-      "onboard_time": 1701493653,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 285699,
       "num": 833360,
       "word": "骗子AI换脸成领导民警9分钟追156万",
@@ -1555,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264475,
+      "num": 264475,
+      "word": "痘肌 阿达帕林和克林霉素凝胶",
+      "onboard_time": 1701494013,
+      "rank": 38,
+      "category": "美妆,健康医疗"
+    },
+    {
       "raw_hot": 263471,
       "num": 263471,
       "word": "男子玩游戏被盖猪肉印章求助清除高招",
@@ -1665,6 +1681,14 @@
       "onboard_time": 1701482555,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246319,
+      "num": 246319,
+      "word": "苏翊鸣说这一年身高体重变化很大",
+      "onboard_time": 1701494734,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 245730,
@@ -1915,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216788,
+      "num": 216788,
+      "word": "患抑郁女生报告病情后被学校劝退",
+      "onboard_time": 1701491494,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216280,
       "num": 216280,
       "word": "中学女生发型 鲶鱼须遮半张脸",
@@ -1969,14 +2001,6 @@
       "onboard_time": 1701410915,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215125,
-      "num": 215125,
-      "word": "患抑郁女生报告病情后被学校劝退",
-      "onboard_time": 1701491494,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214480,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1701444100,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208010,
+      "num": 208010,
+      "word": "一定要区分HIV和HPV",
+      "onboard_time": 1701494552,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207796,
@@ -2683,12 +2715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170461,
+      "num": 170461,
+      "word": "星光大赏第二波嘉宾名单",
+      "onboard_time": 1701495152,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170054,
       "num": 170054,
       "word": "魔卡少女樱更新最终话",
       "onboard_time": 1701388348,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 169706,
+      "num": 169706,
+      "word": "漠河极光",
+      "onboard_time": 1701494552,
+      "rank": 32,
+      "category": "自然"
     },
     {
       "raw_hot": 169703,
@@ -2808,6 +2856,14 @@
       "word": "陈妍希杨丞琳潘玮柏合照",
       "onboard_time": 1701357100,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162621,
+      "num": 162621,
+      "word": "周一围 内疚粉",
+      "onboard_time": 1701495091,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -2963,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153450,
+      "num": 153450,
+      "word": "解清帅",
+      "onboard_time": 1701494672,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153073,
       "num": 91617,
       "word": "张译 南极拒绝合影事件",
@@ -3017,6 +3081,14 @@
       "onboard_time": 1701442658,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150336,
+      "num": 150336,
+      "word": "突然发现你男友是亿万富豪之子",
+      "onboard_time": 1701494914,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150157,
@@ -3243,6 +3315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138834,
+      "num": 138834,
+      "word": "尖叫之夜 张颂文偷吃猪肉脯",
+      "onboard_time": 1701495152,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138722,
       "num": 138722,
       "word": "再见李可乐 10分钟换我10斤泪",
@@ -3268,19 +3348,11 @@
     },
     {
       "raw_hot": 136150,
-      "num": 128455,
+      "num": 135703,
       "word": "谭松韵的真诚永远拿得出手",
       "onboard_time": 1701493772,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135699,
-      "num": 135699,
-      "word": "痘肌 阿达帕林和克林霉素凝胶",
-      "onboard_time": 1701494013,
-      "rank": 38,
-      "category": "美妆,健康医疗"
     },
     {
       "raw_hot": 134980,
@@ -3457,6 +3529,14 @@
       "onboard_time": 1701475407,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119905,
+      "num": 119905,
+      "word": "脱口秀大会 文字版",
+      "onboard_time": 1701494734,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 118679,
@@ -3913,6 +3993,14 @@
       "onboard_time": 1701455357,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24968,
+      "num": 1004277,
+      "word": "2023那些给我们力量的人",
+      "onboard_time": 1701476849,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23757,

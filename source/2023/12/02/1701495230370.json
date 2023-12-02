@@ -1,0 +1,410 @@
+{
+  "runTime": 1701495230370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2136838,
+        "num": 2136838,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1212046,
+        "num": 1212046,
+        "word": "周一围朱丹你们敢耍老子",
+        "onboard_time": 1701487775,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24968,
+        "num": 1004277,
+        "word": "2023那些给我们力量的人",
+        "onboard_time": 1701476849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851178,
+        "num": 851178,
+        "word": "情侣疑因在外旅游住宿感染HPV",
+        "onboard_time": 1701485071,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777016,
+        "num": 777016,
+        "word": "刘宇宁 脖子前倾",
+        "onboard_time": 1701489751,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 751488,
+        "num": 751488,
+        "word": "刘诗诗 磨皮",
+        "onboard_time": 1701489933,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651338,
+        "num": 651338,
+        "word": "山河图 好燃",
+        "onboard_time": 1701493653,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579093,
+        "num": 579093,
+        "word": "2024年总台春晚官宣",
+        "onboard_time": 1701479674,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357960,
+        "num": 357960,
+        "word": "因关远光灯打人致流产夫妻已被拘",
+        "onboard_time": 1701494253,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347126,
+        "num": 347126,
+        "word": "柳宗元竟是螺蛳粉的初代推广大使",
+        "onboard_time": 1701490894,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 413058,
+        "num": 332338,
+        "word": "王俊凯 迪奥",
+        "onboard_time": 1701490894,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399213,
+        "num": 311602,
+        "word": "张若昀拍的唐艺昕",
+        "onboard_time": 1701483994,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396105,
+        "num": 308887,
+        "word": "关智斌面部手部二级烧伤",
+        "onboard_time": 1701481293,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285494,
+        "num": 285494,
+        "word": "良品铺子 降价",
+        "onboard_time": 1701492393,
+        "rank": 13,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 277983,
+        "num": 277983,
+        "word": "1米83自卑女孩靠穿汉服找回自信",
+        "onboard_time": 1701473846,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387622,
+        "num": 275886,
+        "word": "王俊凯耳钉",
+        "onboard_time": 1701492515,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339634,
+        "num": 272576,
+        "word": "辛芷蕾 内娱第一岚吹",
+        "onboard_time": 1701488372,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268656,
+        "num": 268656,
+        "word": "WE FoFo",
+        "onboard_time": 1701492693,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265526,
+        "num": 265526,
+        "word": "女生考研崩溃晒百张草稿获网友鼓励",
+        "onboard_time": 1701481954,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264475,
+        "num": 264475,
+        "word": "痘肌 阿达帕林和克林霉素凝胶",
+        "onboard_time": 1701494013,
+        "rank": 19,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 274512,
+        "num": 258818,
+        "word": "华晨宇 假发",
+        "onboard_time": 1701490471,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252725,
+        "num": 252725,
+        "word": "电脑一定要关闭的设置",
+        "onboard_time": 1701486934,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246319,
+        "num": 246319,
+        "word": "苏翊鸣说这一年身高体重变化很大",
+        "onboard_time": 1701494734,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240426,
+        "num": 240426,
+        "word": "唐嫣闫妮 浇水",
+        "onboard_time": 1701492334,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223205,
+        "num": 223205,
+        "word": "女子产下双胞胎后称小儿子去向不明",
+        "onboard_time": 1701485492,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216788,
+        "num": 216788,
+        "word": "患抑郁女生报告病情后被学校劝退",
+        "onboard_time": 1701491494,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208010,
+        "num": 208010,
+        "word": "一定要区分HIV和HPV",
+        "onboard_time": 1701494552,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205151,
+        "num": 205151,
+        "word": "龘这个字怎么读",
+        "onboard_time": 1701483094,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203740,
+        "num": 203740,
+        "word": "他只希望活过45岁啊",
+        "onboard_time": 1701480994,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189648,
+        "num": 189648,
+        "word": "孙海洋祝福亿万富翁寻子成功",
+        "onboard_time": 1701489512,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188548,
+        "num": 188548,
+        "word": "水龙吟开机",
+        "onboard_time": 1701480631,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170461,
+        "num": 170461,
+        "word": "星光大赏第二波嘉宾名单",
+        "onboard_time": 1701495152,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169706,
+        "num": 169706,
+        "word": "漠河极光",
+        "onboard_time": 1701494552,
+        "rank": 32,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 168970,
+        "num": 168970,
+        "word": "JDG官宣Knight离队",
+        "onboard_time": 1701488912,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162621,
+        "num": 162621,
+        "word": "周一围 内疚粉",
+        "onboard_time": 1701495091,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155182,
+        "num": 155182,
+        "word": "税务部门直接给陈志朋打了电话",
+        "onboard_time": 1701477150,
+        "rank": 35,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 153450,
+        "num": 153450,
+        "word": "解清帅",
+        "onboard_time": 1701494672,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150336,
+        "num": 150336,
+        "word": "突然发现你男友是亿万富豪之子",
+        "onboard_time": 1701494914,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147589,
+        "num": 147589,
+        "word": "儿子和亿万富豪父亲相认称没反应过来",
+        "onboard_time": 1701475709,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143533,
+        "num": 143533,
+        "word": "TES和DYG约上饭了",
+        "onboard_time": 1701493594,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142825,
+        "num": 142825,
+        "word": "张元英生图",
+        "onboard_time": 1701477030,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138834,
+        "num": 138834,
+        "word": "尖叫之夜 张颂文偷吃猪肉脯",
+        "onboard_time": 1701495152,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136860,
+        "num": 136860,
+        "word": "张远小号秒删",
+        "onboard_time": 1701478411,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135703,
+        "num": 135703,
+        "word": "谭松韵的真诚永远拿得出手",
+        "onboard_time": 1701493772,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132410,
+        "num": 132410,
+        "word": "陈瑶水龙吟造型是一身桃花",
+        "onboard_time": 1701491430,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121660,
+        "num": 121660,
+        "word": "王源剧组练字手写歌词",
+        "onboard_time": 1701492936,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119905,
+        "num": 119905,
+        "word": "脱口秀大会 文字版",
+        "onboard_time": 1701494734,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116348,
+        "num": 116348,
+        "word": "斗罗大陆 结局",
+        "onboard_time": 1701485553,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107074,
+        "num": 107074,
+        "word": "杜兰特历史得分榜第十",
+        "onboard_time": 1701492634,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104149,
+        "num": 104149,
+        "word": "孩子久咳不好需要再次去医院吗",
+        "onboard_time": 1701489810,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续促进贸易和投资自由化便利化#"
+    }
+  }
+}
