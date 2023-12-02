@@ -1,0 +1,410 @@
+{
+  "runTime": 1701560059074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 727643,
+        "num": 727643,
+        "word": "亿万富豪被拐儿子将回归原生家庭",
+        "onboard_time": 1701538102,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622914,
+        "num": 622914,
+        "word": "五月天假唱鉴定",
+        "onboard_time": 1701530795,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50284,
+        "num": 523249,
+        "word": "国家卫健委表示未发现新发传染病",
+        "onboard_time": 1701522093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509279,
+        "num": 509279,
+        "word": "难哄 白敬亭",
+        "onboard_time": 1701523234,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383584,
+        "num": 383584,
+        "word": "被公职人员占用的公租房小区已腾退五六百户",
+        "onboard_time": 1701529834,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253616,
+        "num": 253616,
+        "word": "跪杀弗洛伊德的警察狱中被刺22刀",
+        "onboard_time": 1701530672,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168195,
+        "num": 168195,
+        "word": "大地磁暴预警",
+        "onboard_time": 1701521134,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166962,
+        "num": 166962,
+        "word": "刘诗诗刘宇宁吻戏",
+        "onboard_time": 1701528217,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160527,
+        "num": 160527,
+        "word": "谁来救救王心凌啊",
+        "onboard_time": 1701524016,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138336,
+        "num": 138336,
+        "word": "很想很想你 掉马",
+        "onboard_time": 1701517714,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563428,
+        "num": 136044,
+        "word": "宋轶删图",
+        "onboard_time": 1701525999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237204,
+        "num": 133357,
+        "word": "菲律宾发生7.6级地震",
+        "onboard_time": 1701558558,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188468,
+        "num": 130016,
+        "word": "赵露思 小红书广告",
+        "onboard_time": 1701513031,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141588,
+        "num": 127763,
+        "word": "丁俊晖6比4特鲁姆普",
+        "onboard_time": 1701558439,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124280,
+        "num": 124280,
+        "word": "男子买彩票中11万被告知忘出票",
+        "onboard_time": 1701524137,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96524,
+        "num": 96524,
+        "word": "加拿大超级猪入侵美国",
+        "onboard_time": 1701515554,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93027,
+        "num": 93027,
+        "word": "能减少黑头的小习惯",
+        "onboard_time": 1701531693,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 91627,
+        "num": 91627,
+        "word": "白鹿 我可太想演电影了",
+        "onboard_time": 1701518915,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83496,
+        "num": 83496,
+        "word": "龙行龘龘",
+        "onboard_time": 1701526896,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80812,
+        "num": 80812,
+        "word": "儿科门诊可增开午间夜间周末门诊",
+        "onboard_time": 1701542476,
+        "rank": 19,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 161475,
+        "num": 80713,
+        "word": "多睡一小时就能减肥",
+        "onboard_time": 1701558859,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 142801,
+        "num": 80567,
+        "word": "保时捷婚车四个轮子被上几十把锁",
+        "onboard_time": 1701526476,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128026,
+        "num": 80498,
+        "word": "教书是我的主业怎么变成了副业",
+        "onboard_time": 1701529116,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88666,
+        "num": 80315,
+        "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
+        "onboard_time": 1701515554,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80295,
+        "num": 80295,
+        "word": "摇粒绒 保暖",
+        "onboard_time": 1701510211,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78390,
+        "num": 78390,
+        "word": "出生在大城市已经是种幸运",
+        "onboard_time": 1701518734,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76977,
+        "num": 76977,
+        "word": "东北人都不用花钱买冰箱的吗",
+        "onboard_time": 1701533252,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74561,
+        "num": 74561,
+        "word": "原来冲锋衣是不能机洗的",
+        "onboard_time": 1701514653,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 73263,
+        "num": 73263,
+        "word": "周一围朱丹新人设",
+        "onboard_time": 1701515854,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72921,
+        "num": 72921,
+        "word": "现代汽车高管称永远比中国车更高端",
+        "onboard_time": 1701556455,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165076,
+        "num": 72868,
+        "word": "英锦赛丁俊晖晋级决赛",
+        "onboard_time": 1701558739,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72470,
+        "num": 72470,
+        "word": "尹正 自卑是男人最好的医美",
+        "onboard_time": 1701520534,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70175,
+        "num": 70175,
+        "word": "李权哲被批评 朱正廷先哭",
+        "onboard_time": 1701538581,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67133,
+        "num": 67133,
+        "word": "张韶涵 第一位大莲花女歌手",
+        "onboard_time": 1701520534,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64914,
+        "num": 64914,
+        "word": "纽卡斯尔联1比0曼联",
+        "onboard_time": 1701558439,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62792,
+        "num": 62792,
+        "word": "勇士vs快船",
+        "onboard_time": 1701559159,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61527,
+        "num": 61527,
+        "word": "谢娜何炅旅行搭子",
+        "onboard_time": 1701557656,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59173,
+        "num": 59173,
+        "word": "古装女主以后就这么演",
+        "onboard_time": 1701514172,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56090,
+        "num": 56090,
+        "word": "杨超越方否认接触难哄",
+        "onboard_time": 1701528336,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55362,
+        "num": 55362,
+        "word": "张艺兴GAI 现场",
+        "onboard_time": 1701542718,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54951,
+        "num": 54951,
+        "word": "杨紫 要久久爱要播了",
+        "onboard_time": 1701525396,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54254,
+        "num": 54254,
+        "word": "珍珠项链还能这么戴",
+        "onboard_time": 1701559820,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 54021,
+        "num": 54021,
+        "word": "首钢天津冲突",
+        "onboard_time": 1701528936,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53141,
+        "num": 53141,
+        "word": "苏翊鸣教练 小鸣真牛",
+        "onboard_time": 1701528814,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44770,
+        "num": 44770,
+        "word": "谭维维王心凌 带女朋友回家见父母",
+        "onboard_time": 1701523894,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43948,
+        "num": 43948,
+        "word": "魏晨 流星雨又来临",
+        "onboard_time": 1701523832,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43605,
+        "num": 43605,
+        "word": "周也 童装汉服",
+        "onboard_time": 1701513392,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43355,
+        "num": 43355,
+        "word": "Uzi要回来了吗",
+        "onboard_time": 1701522875,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42971,
+        "num": 42971,
+        "word": "媒体评公职人员违规占用公租房",
+        "onboard_time": 1701544274,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41252,
+        "num": 41252,
+        "word": "菲律宾发布海啸预警",
+        "onboard_time": 1701560000,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023年读懂中国国际会议致贺信#"
+    }
+  }
+}

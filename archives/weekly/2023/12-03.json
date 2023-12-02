@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701559024742,
+  "endTime": 1701560059074,
   "band_list": [
     {
       "raw_hot": 2635505,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727643,
+      "num": 727643,
+      "word": "亿万富豪被拐儿子将回归原生家庭",
+      "onboard_time": 1701538102,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 652525,
       "num": 652525,
       "word": "赵露思 小红书广告",
@@ -64,14 +72,6 @@
       "word": "跪杀弗洛伊德的警察狱中被刺22刀",
       "onboard_time": 1701530672,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545927,
-      "num": 545927,
-      "word": "亿万富豪被拐儿子将回归原生家庭",
-      "onboard_time": 1701538102,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237204,
+      "num": 133357,
+      "word": "菲律宾发生7.6级地震",
+      "onboard_time": 1701558558,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229065,
       "num": 229065,
       "word": "男子买彩票中11万被告知忘出票",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 200432,
-      "num": 57314,
+      "num": 127763,
       "word": "丁俊晖6比4特鲁姆普",
       "onboard_time": 1701558439,
       "rank": 30,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 193981,
-      "num": 56366,
+      "num": 72868,
       "word": "英锦赛丁俊晖晋级决赛",
       "onboard_time": 1701558739,
       "rank": 31,
@@ -275,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161475,
+      "num": 80713,
+      "word": "多睡一小时就能减肥",
+      "onboard_time": 1701558859,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 157821,
       "num": 157821,
       "word": "Uzi要回来了吗",
@@ -289,6 +305,14 @@
       "onboard_time": 1701537502,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142801,
+      "num": 130799,
+      "word": "保时捷婚车四个轮子被上几十把锁",
+      "onboard_time": 1701526476,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142446,
@@ -323,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130799,
-      "num": 130799,
-      "word": "保时捷婚车四个轮子被上几十把锁",
-      "onboard_time": 1701526476,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130366,
       "num": 114934,
       "word": "刘宇宁头套",
@@ -345,14 +361,6 @@
       "onboard_time": 1701540261,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126033,
-      "num": 55364,
-      "word": "菲律宾发生7.6级地震",
-      "onboard_time": 1701558558,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124672,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 90254,
-      "num": 54338,
+      "num": 64914,
       "word": "纽卡斯尔联1比0曼联",
       "onboard_time": 1701558439,
       "rank": 33,
@@ -483,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80812,
+      "num": 80812,
+      "word": "儿科门诊可增开午间夜间周末门诊",
+      "onboard_time": 1701542476,
+      "rank": 18,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 80210,
       "num": 113073,
       "word": "真的会被AI扩图笑崩溃",
@@ -499,52 +515,60 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65714,
-      "num": 65714,
-      "word": "儿科门诊可增开午间夜间周末门诊",
-      "onboard_time": 1701542476,
-      "rank": 18,
-      "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 58521,
-      "num": 58521,
+      "raw_hot": 72921,
+      "num": 72921,
       "word": "现代汽车高管称永远比中国车更高端",
       "onboard_time": 1701556455,
       "rank": 26,
       "category": "汽车"
     },
     {
-      "raw_hot": 57440,
-      "num": 57440,
-      "word": "多睡一小时就能减肥",
-      "onboard_time": 1701558859,
-      "rank": 29,
-      "category": "科学科普"
+      "raw_hot": 62792,
+      "num": 62792,
+      "word": "勇士vs快船",
+      "onboard_time": 1701559159,
+      "rank": 35,
+      "category": "体育"
     },
     {
-      "raw_hot": 49225,
-      "num": 49225,
-      "word": "张艺兴GAI 现场",
-      "onboard_time": 1701542718,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 45985,
-      "num": 45985,
+      "raw_hot": 61527,
+      "num": 61527,
       "word": "谢娜何炅旅行搭子",
       "onboard_time": 1701557656,
       "rank": 39,
       "category": "综艺"
     },
     {
-      "raw_hot": 39830,
-      "num": 39830,
+      "raw_hot": 55362,
+      "num": 55362,
+      "word": "张艺兴GAI 现场",
+      "onboard_time": 1701542718,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 54254,
+      "num": 54254,
+      "word": "珍珠项链还能这么戴",
+      "onboard_time": 1701559820,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 42971,
+      "num": 42971,
       "word": "媒体评公职人员违规占用公租房",
       "onboard_time": 1701544274,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41252,
+      "num": 41252,
+      "word": "菲律宾发布海啸预警",
+      "onboard_time": 1701560000,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 38042,
