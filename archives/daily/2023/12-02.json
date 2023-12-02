@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701495230370,
+  "endTime": 1701498093188,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -43,11 +43,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1520153,
+      "num": 1520153,
+      "word": "尼格买提中奖",
+      "onboard_time": 1701494793,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1425653,
       "num": 1425653,
       "word": "1米83自卑女孩靠穿汉服找回自信",
       "onboard_time": 1701473846,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1350797,
+      "num": 1350797,
+      "word": "突然发现你男友是亿万富豪之子",
+      "onboard_time": 1701494914,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -235,11 +251,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480971,
+      "num": 402900,
+      "word": "尖叫之夜 张颂文偷吃猪肉脯",
+      "onboard_time": 1701495152,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470803,
       "num": 470803,
       "word": "深夜直播间里卖惨的老年人",
       "onboard_time": 1701474867,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445112,
+      "num": 445112,
+      "word": "女子连吃1周笋干小肠被切25厘米",
+      "onboard_time": 1701495873,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -403,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330655,
+      "num": 330655,
+      "word": "阿娇 女团人多分钱有点难",
+      "onboard_time": 1701495755,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329450,
       "num": 329450,
       "word": "张元英生图",
@@ -459,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 277852,
+      "num": 214772,
+      "word": "星光大赏第二波嘉宾名单",
+      "onboard_time": 1701495152,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277466,
       "num": 277466,
       "word": "WE FoFo",
@@ -505,6 +553,14 @@
       "onboard_time": 1701472822,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257499,
+      "num": 257499,
+      "word": "EDG 上野辅",
+      "onboard_time": 1701496412,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 251955,
@@ -569,6 +625,22 @@
       "onboard_time": 1701437256,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238962,
+      "num": 238962,
+      "word": "四川孃孃51岁拿下电竞冠军",
+      "onboard_time": 1701495690,
+      "rank": 17,
+      "category": "社会新闻,电竞"
+    },
+    {
+      "raw_hot": 231377,
+      "num": 186039,
+      "word": "周一围 内疚粉",
+      "onboard_time": 1701495091,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 229247,
@@ -691,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207613,
+      "num": 207613,
+      "word": "解清帅",
+      "onboard_time": 1701494672,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207511,
       "num": 207511,
       "word": "女子提醒夫妻关远光灯被打致流产",
@@ -707,12 +787,28 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 204719,
+      "num": 185741,
+      "word": "横店短剧 演员工资",
+      "onboard_time": 1701495573,
+      "rank": 27,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 200791,
       "num": 185691,
       "word": "女朋友越处越像小朋友了",
       "onboard_time": 1701426638,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197653,
+      "num": 186008,
+      "word": "欧阳震华佘诗曼 什么都能聊",
+      "onboard_time": 1701496412,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 197053,
@@ -843,12 +939,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170461,
-      "num": 170461,
-      "word": "星光大赏第二波嘉宾名单",
-      "onboard_time": 1701495152,
+      "raw_hot": 171847,
+      "num": 171847,
+      "word": "声生不息家年华开播",
+      "onboard_time": 1701496174,
       "rank": 31,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 169706,
@@ -899,14 +995,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 162621,
-      "num": 162621,
-      "word": "周一围 内疚粉",
-      "onboard_time": 1701495091,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161937,
       "num": 161937,
       "word": "gidle这段编舞为何这样",
@@ -921,6 +1009,14 @@
       "onboard_time": 1701484832,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160809,
+      "num": 160809,
+      "word": "2023LPL全明星选手名单",
+      "onboard_time": 1701496593,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 160646,
@@ -945,6 +1041,14 @@
       "onboard_time": 1701491430,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156516,
+      "num": 156516,
+      "word": "修图 表情管理困难症",
+      "onboard_time": 1701497252,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 156341,
@@ -979,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153450,
-      "num": 153450,
-      "word": "解清帅",
-      "onboard_time": 1701494672,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152631,
       "num": 152631,
       "word": "狗可以吃火腿肠吗",
@@ -1009,14 +1105,6 @@
       "onboard_time": 1701442299,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150336,
-      "num": 150336,
-      "word": "突然发现你男友是亿万富豪之子",
-      "onboard_time": 1701494914,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147206,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1701485853,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142584,
+      "num": 142584,
+      "word": "金靖宋亚轩 他逃她追",
+      "onboard_time": 1701497494,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 141781,
@@ -1105,14 +1201,6 @@
       "onboard_time": 1701483574,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138834,
-      "num": 138834,
-      "word": "尖叫之夜 张颂文偷吃猪肉脯",
-      "onboard_time": 1701495152,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 138772,
@@ -1177,6 +1265,14 @@
       "onboard_time": 1701478773,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129287,
+      "num": 129287,
+      "word": "何运晨是懂团队合作的",
+      "onboard_time": 1701497371,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 128574,
@@ -1251,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118531,
+      "num": 118531,
+      "word": "MMA直播",
+      "onboard_time": 1701498032,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116963,
       "num": 116963,
       "word": "赛博朋克2077 地铁系统",
@@ -1321,6 +1425,14 @@
       "onboard_time": 1701412955,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105686,
+      "num": 105686,
+      "word": "炫富 心理需求",
+      "onboard_time": 1701497552,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103713,
@@ -1531,6 +1643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 37573,
+      "num": 1434243,
+      "word": "2023那些给我们力量的人",
+      "onboard_time": 1701476849,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37340,
       "num": 37340,
       "word": "谭维维高智感低马尾",
@@ -1569,14 +1689,6 @@
       "onboard_time": 1701455357,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 24968,
-      "num": 1004277,
-      "word": "2023那些给我们力量的人",
-      "onboard_time": 1701476849,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23757,
