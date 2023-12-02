@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701516842047,
+  "endTime": 1701520217312,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1535528,
+      "num": 1535528,
+      "word": "加拿大超级猪入侵美国",
+      "onboard_time": 1701515554,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1520153,
       "num": 1520153,
       "word": "尼格买提中奖",
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976172,
+      "num": 976172,
+      "word": "白鹿 我可太想演电影了",
+      "onboard_time": 1701518915,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 974298,
       "num": 974298,
       "word": "陈志朋回应偷税漏税",
@@ -129,6 +145,14 @@
       "onboard_time": 1701440737,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899964,
+      "num": 899964,
+      "word": "很想很想你 掉马",
+      "onboard_time": 1701517714,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 855195,
@@ -331,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529375,
+      "num": 529375,
+      "word": "苏翊鸣大跳台世界杯夺冠",
+      "onboard_time": 1701517414,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 524488,
       "num": 524488,
       "word": "辛芷蕾 内娱第一岚吹",
@@ -411,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458724,
+      "num": 306971,
+      "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
+      "onboard_time": 1701515554,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454876,
       "num": 454876,
       "word": "陈楚生你回头看看汪苏泷吧",
@@ -449,6 +489,14 @@
       "onboard_time": 1701475470,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 442873,
+      "num": 267934,
+      "word": "出生在大城市已经是种幸运",
+      "onboard_time": 1701518734,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 442143,
@@ -523,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 410129,
+      "num": 410129,
+      "word": "2023MMA获奖名单",
+      "onboard_time": 1701516993,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 405832,
       "num": 405832,
       "word": "地震快讯",
@@ -584,6 +640,14 @@
       "word": "张纪中曝光前妻隐私被判罚2万",
       "onboard_time": 1701473244,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 385209,
+      "num": 385209,
+      "word": "周一围朱丹新人设",
+      "onboard_time": 1701515854,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -659,6 +723,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 362473,
+      "num": 214189,
+      "word": "EDG获上海电竞大师赛冠军",
+      "onboard_time": 1701518734,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 361870,
       "num": 361870,
       "word": "肖战 拉夫劳伦香氛",
@@ -680,14 +752,6 @@
       "word": "因关远光灯打人致流产夫妻已被拘",
       "onboard_time": 1701494253,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355796,
-      "num": 355796,
-      "word": "加拿大超级猪入侵美国",
-      "onboard_time": 1701515554,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -819,12 +883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315280,
-      "num": 306971,
-      "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
-      "onboard_time": 1701515554,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 315424,
+      "num": 315424,
+      "word": "接触艾滋病毒2小时内是黄金阻断时间",
+      "onboard_time": 1701513272,
+      "rank": 21,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 313720,
@@ -835,14 +899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 313396,
-      "num": 313396,
-      "word": "接触艾滋病毒2小时内是黄金阻断时间",
-      "onboard_time": 1701513272,
-      "rank": 21,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 311755,
       "num": 311755,
       "word": "芒市地震",
@@ -851,20 +907,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310880,
-      "num": 310880,
-      "word": "周一围朱丹新人设",
-      "onboard_time": 1701515854,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304820,
       "num": 304820,
       "word": "频繁涂抹润唇膏或引发唇炎",
       "onboard_time": 1701444514,
       "rank": 11,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 298063,
+      "num": 298063,
+      "word": "摘耳机 当代脱帽礼",
+      "onboard_time": 1701519273,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 296297,
@@ -891,6 +947,22 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 281841,
+      "num": 281841,
+      "word": "奔跑吧",
+      "onboard_time": 1701519153,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 281435,
+      "num": 281435,
+      "word": "SHINee回来了",
+      "onboard_time": 1701517173,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280953,
       "num": 280953,
       "word": "元梦之星发布会",
@@ -905,6 +977,14 @@
       "onboard_time": 1701507936,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 279413,
+      "num": 267578,
+      "word": "newjeans五颜六色的红毯",
+      "onboard_time": 1701517173,
+      "rank": 23,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 277852,
@@ -1211,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214591,
+      "num": 214591,
+      "word": "刘亦菲异域风穿搭",
+      "onboard_time": 1701519872,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 214579,
       "num": 214579,
       "word": "解清帅",
@@ -1299,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208141,
+      "num": 208141,
+      "word": "檀健次一直卧底一直失败",
+      "onboard_time": 1701517893,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208010,
       "num": 208010,
       "word": "一定要区分HIV和HPV",
@@ -1355,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202288,
+      "num": 202288,
+      "word": "惠英红说看见许光汉也迷糊",
+      "onboard_time": 1701518852,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200791,
       "num": 185691,
       "word": "女朋友越处越像小朋友了",
@@ -1395,12 +1499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195645,
+      "num": 144311,
+      "word": "南海归墟 一看一个不吱声",
+      "onboard_time": 1701517772,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194915,
       "num": 194915,
       "word": "喻言 二巡",
       "onboard_time": 1701515971,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194526,
+      "num": 143514,
+      "word": "天杀的SNK老子要报警抓你",
+      "onboard_time": 1701519632,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194504,
@@ -1561,6 +1681,14 @@
       "onboard_time": 1701437797,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172896,
+      "num": 172896,
+      "word": "周琦回归",
+      "onboard_time": 1701519092,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 171847,
@@ -1803,6 +1931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148746,
+      "num": 140679,
+      "word": "巨蟹座网络vs现实",
+      "onboard_time": 1701520113,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147490,
       "num": 147490,
       "word": "Gr对战WBG",
@@ -1857,6 +1993,14 @@
       "onboard_time": 1701492634,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144596,
+      "num": 195216,
+      "word": "元梦之星14亿回馈玩家",
+      "onboard_time": 1701516574,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 143596,
@@ -2473,14 +2617,6 @@
       "onboard_time": 1701436776,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49360,
-      "num": 195216,
-      "word": "元梦之星14亿回馈玩家",
-      "onboard_time": 1701516574,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 44410,
