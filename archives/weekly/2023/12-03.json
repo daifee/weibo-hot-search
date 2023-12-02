@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701556430456,
+  "endTime": 1701559024742,
   "band_list": [
     {
       "raw_hot": 2635505,
@@ -64,6 +64,14 @@
       "word": "跪杀弗洛伊德的警察狱中被刺22刀",
       "onboard_time": 1701530672,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545927,
+      "num": 545927,
+      "word": "亿万富豪被拐儿子将回归原生家庭",
+      "onboard_time": 1701538102,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268995,
-      "num": 220111,
-      "word": "亿万富豪被拐儿子将回归原生家庭",
-      "onboard_time": 1701538102,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246220,
       "num": 190829,
       "word": "古装女主以后就这么演",
@@ -195,11 +195,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200432,
+      "num": 57314,
+      "word": "丁俊晖6比4特鲁姆普",
+      "onboard_time": 1701558439,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196599,
       "num": 196599,
       "word": "首钢天津冲突",
       "onboard_time": 1701528936,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193981,
+      "num": 56366,
+      "word": "英锦赛丁俊晖晋级决赛",
+      "onboard_time": 1701558739,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -331,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126033,
+      "num": 55364,
+      "word": "菲律宾发生7.6级地震",
+      "onboard_time": 1701558558,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124672,
       "num": 124672,
       "word": "出生在大城市已经是种幸运",
@@ -435,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90254,
+      "num": 54338,
+      "word": "纽卡斯尔联1比0曼联",
+      "onboard_time": 1701558439,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84748,
       "num": 113009,
       "word": "巨蟹座网络vs现实",
@@ -467,20 +499,76 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45845,
-      "num": 45845,
+      "raw_hot": 65714,
+      "num": 65714,
       "word": "儿科门诊可增开午间夜间周末门诊",
       "onboard_time": 1701542476,
       "rank": 18,
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 45690,
-      "num": 32831,
+      "raw_hot": 58521,
+      "num": 58521,
+      "word": "现代汽车高管称永远比中国车更高端",
+      "onboard_time": 1701556455,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 57440,
+      "num": 57440,
+      "word": "多睡一小时就能减肥",
+      "onboard_time": 1701558859,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 49225,
+      "num": 49225,
       "word": "张艺兴GAI 现场",
       "onboard_time": 1701542718,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 45985,
+      "num": 45985,
+      "word": "谢娜何炅旅行搭子",
+      "onboard_time": 1701557656,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39830,
+      "num": 39830,
+      "word": "媒体评公职人员违规占用公租房",
+      "onboard_time": 1701544274,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38042,
+      "num": 38042,
+      "word": "奥沙利文晋级英锦赛四强",
+      "onboard_time": 1701557656,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34297,
+      "num": 34297,
+      "word": "冬季皮肤干燥多吃这几种食物",
+      "onboard_time": 1701550394,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 33390,
+      "num": 33390,
+      "word": "周杰伦张艺兴周游记2连线",
+      "onboard_time": 1701546735,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 31743,
@@ -497,30 +585,6 @@
       "onboard_time": 1701540501,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 29490,
-      "num": 28096,
-      "word": "冬季皮肤干燥多吃这几种食物",
-      "onboard_time": 1701550394,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 28179,
-      "num": 28179,
-      "word": "媒体评公职人员违规占用公租房",
-      "onboard_time": 1701544274,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27018,
-      "num": 23988,
-      "word": "周杰伦张艺兴周游记2连线",
-      "onboard_time": 1701546735,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 18771,
