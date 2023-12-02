@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701515647775,
+  "endTime": 1701516842047,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -27,6 +27,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 2203534,
+      "num": 2203534,
+      "word": "赵露思 小红书广告",
+      "onboard_time": 1701513031,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2140737,
       "num": 2140737,
       "word": "谢娜 产后抑郁",
@@ -41,14 +49,6 @@
       "onboard_time": 1701489332,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2120657,
-      "num": 2120657,
-      "word": "赵露思 小红书广告",
-      "onboard_time": 1701513031,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 2030512,
@@ -427,12 +427,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 798757,
+      "num": 1410479,
+      "word": "男子打球猝死工作人员抢下黄金四分钟",
+      "onboard_time": 1701511831,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790762,
+      "num": 790762,
+      "word": "周也 童装汉服",
+      "onboard_time": 1701513392,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 789048,
       "num": 789048,
       "word": "疑似杨鸣老婆发文",
       "onboard_time": 1701417031,
       "rank": 4,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 780281,
+      "num": 780281,
+      "word": "古装女主以后就这么演",
+      "onboard_time": 1701514172,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 775174,
@@ -515,14 +539,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 702898,
-      "num": 702898,
-      "word": "古装女主以后就这么演",
-      "onboard_time": 1701514172,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 680614,
       "num": 680614,
       "word": "十二月狗屎运最旺的星座",
@@ -547,28 +563,12 @@
       "category": "数码,社会新闻"
     },
     {
-      "raw_hot": 655530,
-      "num": 655530,
-      "word": "周也 童装汉服",
-      "onboard_time": 1701513392,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 655147,
       "num": 655147,
       "word": "王嘉尔北京演唱会取消",
       "onboard_time": 1701405881,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 651560,
-      "num": 1410479,
-      "word": "男子打球猝死工作人员抢下黄金四分钟",
-      "onboard_time": 1701511831,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 651338,
@@ -865,6 +865,14 @@
       "onboard_time": 1701443979,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491603,
+      "num": 491603,
+      "word": "苏翊鸣完成1980",
+      "onboard_time": 1701516270,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 486865,
@@ -1251,6 +1259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 382344,
+      "num": 916696,
+      "word": "寻子25年的富翁爸爸说家里房子好多好多",
+      "onboard_time": 1701514052,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381706,
       "num": 381706,
       "word": "女生考研崩溃晒百张草稿获网友鼓励",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1701405040,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 380629,
+      "num": 380629,
+      "word": "声生不息 社交抓马现场",
+      "onboard_time": 1701514894,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 379736,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 370421,
-      "num": 306232,
+      "num": 310189,
       "word": "原来冲锋衣是不能机洗的",
       "onboard_time": 1701514653,
       "rank": 20,
@@ -1376,6 +1400,14 @@
       "word": "海底捞员工称门店内卷让人疲惫",
       "onboard_time": 1701404315,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355796,
+      "num": 355796,
+      "word": "加拿大超级猪入侵美国",
+      "onboard_time": 1701515554,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1483,6 +1515,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 335527,
+      "num": 238870,
+      "word": "很想很想你 早恋感",
+      "onboard_time": 1701516154,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334807,
       "num": 871521,
       "word": "四川孃孃51岁拿下电竞冠军",
@@ -1529,14 +1569,6 @@
       "onboard_time": 1701508951,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325444,
-      "num": 325444,
-      "word": "声生不息 社交抓马现场",
-      "onboard_time": 1701514894,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 323685,
@@ -1595,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315280,
+      "num": 306971,
+      "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
+      "onboard_time": 1701515554,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314906,
       "num": 314906,
       "word": "伊能静 最高级的悲喜在喜剧",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1701507151,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313396,
+      "num": 313396,
+      "word": "接触艾滋病毒2小时内是黄金阻断时间",
+      "onboard_time": 1701513272,
+      "rank": 21,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 313330,
@@ -1633,6 +1681,14 @@
       "onboard_time": 1701472341,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310880,
+      "num": 310880,
+      "word": "周一围朱丹新人设",
+      "onboard_time": 1701515854,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 310498,
@@ -1785,14 +1841,6 @@
       "onboard_time": 1701335796,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287612,
-      "num": 287612,
-      "word": "接触艾滋病毒2小时内是黄金阻断时间",
-      "onboard_time": 1701513272,
-      "rank": 21,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 285699,
@@ -2035,8 +2083,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 260289,
-      "num": 235996,
+      "raw_hot": 260599,
+      "num": 783570,
+      "word": "重庆一军嫂带2岁女儿接退伍丈夫回家",
+      "onboard_time": 1701514472,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260543,
+      "num": 260543,
       "word": "NCTDREAM 最佳男团",
       "onboard_time": 1701515013,
       "rank": 26,
@@ -2056,14 +2112,6 @@
       "word": "村民称全村土地费存银行后不翼而飞",
       "onboard_time": 1701472822,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258631,
-      "num": 916696,
-      "word": "寻子25年的富翁爸爸说家里房子好多好多",
-      "onboard_time": 1701514052,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2257,14 +2305,6 @@
       "onboard_time": 1701406480,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236069,
-      "num": 236069,
-      "word": "重庆一军嫂带2岁女儿接退伍丈夫回家",
-      "onboard_time": 1701514472,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235914,
@@ -2811,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203725,
+      "num": 203725,
+      "word": "TE 抽象传说",
+      "onboard_time": 1701516393,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203477,
       "num": 153667,
       "word": "寸铁 解散",
@@ -2923,6 +2971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194915,
+      "num": 194915,
+      "word": "喻言 二巡",
+      "onboard_time": 1701515971,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194516,
       "num": 135064,
       "word": "声生不息官宣定档",
@@ -2953,6 +3009,14 @@
       "onboard_time": 1701509134,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194070,
+      "num": 194070,
+      "word": "暖暖生日会",
+      "onboard_time": 1701516755,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 193915,
@@ -3233,6 +3297,14 @@
       "onboard_time": 1701393454,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178953,
+      "num": 178953,
+      "word": "NewJeans歌曲串烧",
+      "onboard_time": 1701516514,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 177670,
@@ -3547,6 +3619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163444,
+      "num": 163444,
+      "word": "ZB1 年度新人奖",
+      "onboard_time": 1701515612,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163022,
       "num": 163022,
       "word": "女子结婚全家族奔赴300多公里送嫁",
@@ -3657,14 +3737,6 @@
       "onboard_time": 1701422196,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157150,
-      "num": 157150,
-      "word": "ZB1 年度新人奖",
-      "onboard_time": 1701515612,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 156964,
@@ -4131,14 +4203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134282,
-      "num": 134282,
-      "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
-      "onboard_time": 1701515554,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132842,
       "num": 132842,
       "word": "宁远舟 另类疯批男主",
@@ -4305,14 +4369,6 @@
       "onboard_time": 1701479253,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124087,
-      "num": 134241,
-      "word": "加拿大超级猪入侵美国",
-      "onboard_time": 1701515554,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123656,
@@ -4809,6 +4865,14 @@
       "onboard_time": 1701436776,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49360,
+      "num": 195216,
+      "word": "元梦之星14亿回馈玩家",
+      "onboard_time": 1701516574,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 46642,
