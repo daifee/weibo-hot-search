@@ -1,10 +1,10 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701534060283,
+  "endTime": 1701534971664,
   "band_list": [
     {
-      "raw_hot": 2414184,
-      "num": 2414184,
+      "raw_hot": 2635505,
+      "num": 2635505,
       "word": "五月天假唱鉴定",
       "onboard_time": 1701530795,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2238841,
-      "num": 277853,
+      "num": 398066,
       "word": "宋轶删图",
       "onboard_time": 1701525999,
       "rank": 10,
@@ -43,11 +43,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574627,
+      "num": 574627,
+      "word": "能减少黑头的小习惯",
+      "onboard_time": 1701531693,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 560728,
       "num": 560728,
       "word": "被公职人员占用的公租房小区已腾退五六百户",
       "onboard_time": 1701529834,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558536,
+      "num": 558536,
+      "word": "跪杀弗洛伊德的警察狱中被刺22刀",
+      "onboard_time": 1701530672,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -59,14 +75,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 513995,
-      "num": 269970,
-      "word": "跪杀弗洛伊德的警察狱中被刺22刀",
-      "onboard_time": 1701530672,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 512264,
       "num": 512264,
       "word": "谁来救救王心凌啊",
@@ -75,16 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474891,
-      "num": 264189,
-      "word": "能减少黑头的小习惯",
-      "onboard_time": 1701531693,
-      "rank": 12,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 474305,
-      "num": 251637,
+      "num": 442132,
       "word": "白鹿 我可太想演电影了",
       "onboard_time": 1701518915,
       "rank": 13,
@@ -97,6 +97,14 @@
       "onboard_time": 1701526896,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335321,
+      "num": 335321,
+      "word": "很想很想你 掉马",
+      "onboard_time": 1701517714,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 323128,
@@ -129,14 +137,6 @@
       "onboard_time": 1701510211,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275987,
-      "num": 193404,
-      "word": "很想很想你 掉马",
-      "onboard_time": 1701517714,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 246220,
@@ -193,6 +193,14 @@
       "onboard_time": 1701528936,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193917,
+      "num": 143640,
+      "word": "孟美岐星云珠绣鱼尾裙",
+      "onboard_time": 1701534449,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192967,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132478,
+      "num": 132478,
+      "word": "东北人都不用花钱买冰箱的吗",
+      "onboard_time": 1701533252,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130799,
       "num": 130799,
       "word": "保时捷婚车四个轮子被上几十把锁",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 130366,
-      "num": 114468,
+      "num": 114934,
       "word": "刘宇宁头套",
       "onboard_time": 1701508472,
       "rank": 40,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 118275,
-      "num": 114342,
+      "num": 114932,
       "word": "周一围朱丹新人设",
       "onboard_time": 1701515854,
       "rank": 41,
@@ -339,20 +355,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114478,
-      "num": 114478,
-      "word": "东北人都不用花钱买冰箱的吗",
-      "onboard_time": 1701533252,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113724,
       "num": 113724,
       "word": "侯雯元面前的周也belike",
       "onboard_time": 1701533131,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106051,
+      "num": 106051,
+      "word": "谭维维王心凌 带女朋友回家见父母",
+      "onboard_time": 1701523894,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 102035,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84748,
+      "num": 113009,
+      "word": "巨蟹座网络vs现实",
+      "onboard_time": 1701520113,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84304,
       "num": 113730,
       "word": "苏翊鸣夺冠后向粉丝比心",
@@ -392,14 +416,6 @@
       "word": "真的会被AI扩图笑崩溃",
       "onboard_time": 1701530134,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 70612,
-      "num": 113009,
-      "word": "巨蟹座网络vs现实",
-      "onboard_time": 1701520113,
-      "rank": 49,
       "category": "幽默"
     }
   ],

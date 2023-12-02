@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701534060283,
+  "endTime": 1701534971664,
   "band_list": [
     {
       "raw_hot": 4547826,
@@ -27,20 +27,20 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2635505,
+      "num": 2635505,
+      "word": "五月天假唱鉴定",
+      "onboard_time": 1701530795,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2504596,
       "num": 149942,
       "word": "健康码",
       "onboard_time": 1701441699,
       "rank": 38,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 2414184,
-      "num": 2414184,
-      "word": "五月天假唱鉴定",
-      "onboard_time": 1701530795,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 2227578,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574627,
+      "num": 574627,
+      "word": "能减少黑头的小习惯",
+      "onboard_time": 1701531693,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 569851,
       "num": 569851,
       "word": "四无婚礼",
@@ -840,6 +848,14 @@
       "word": "被公职人员占用的公租房小区已腾退五六百户",
       "onboard_time": 1701529834,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558536,
+      "num": 558536,
+      "word": "跪杀弗洛伊德的警察狱中被刺22刀",
+      "onboard_time": 1701530672,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -963,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 513995,
-      "num": 269970,
-      "word": "跪杀弗洛伊德的警察狱中被刺22刀",
-      "onboard_time": 1701530672,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511352,
       "num": 511352,
       "word": "小凯 不用铲了不用铲了",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1701346594,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 474891,
-      "num": 264189,
-      "word": "能减少黑头的小习惯",
-      "onboard_time": 1701531693,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 474361,
@@ -3491,6 +3491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193917,
+      "num": 143640,
+      "word": "孟美岐星云珠绣鱼尾裙",
+      "onboard_time": 1701534449,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193915,
       "num": 193915,
       "word": "MMA阵容",
@@ -4843,6 +4851,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 132478,
+      "num": 132478,
+      "word": "东北人都不用花钱买冰箱的吗",
+      "onboard_time": 1701533252,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132350,
       "num": 132350,
       "word": "淋巴结肿大是什么原因",
@@ -5113,14 +5129,6 @@
       "onboard_time": 1701474867,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114478,
-      "num": 114478,
-      "word": "东北人都不用花钱买冰箱的吗",
-      "onboard_time": 1701533252,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113724,
