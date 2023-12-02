@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701488074997,
+  "endTime": 1701490829404,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -99,6 +99,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 1717073,
+      "num": 1717073,
+      "word": "情侣疑因在外旅游住宿感染HPV",
+      "onboard_time": 1701485071,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1712671,
       "num": 1433552,
       "word": "冰冷的40亿",
@@ -131,6 +139,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1475616,
+      "num": 1475616,
+      "word": "周一围朱丹你们敢耍老子",
+      "onboard_time": 1701487775,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1472057,
       "num": 1444188,
       "word": "王鹤棣 纹身",
@@ -160,14 +176,6 @@
       "word": "上海独生女继承2亿遗产后被离婚",
       "onboard_time": 1701351038,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1352274,
-      "num": 1352274,
-      "word": "情侣疑因在外旅游住宿感染HPV",
-      "onboard_time": 1701485071,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -515,6 +523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 616227,
+      "num": 616227,
+      "word": "黄体破裂",
+      "onboard_time": 1701489332,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 604150,
       "num": 604150,
       "word": "杨鸣 唐佳良",
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544787,
+      "num": 544787,
+      "word": "刘宇宁 脖子前倾",
+      "onboard_time": 1701489751,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 535737,
       "num": 535737,
       "word": "小伙熬夜打游戏关节长千颗白色颗粒",
@@ -633,6 +657,22 @@
       "onboard_time": 1701433292,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524982,
+      "num": 524982,
+      "word": "电脑一定要关闭的设置",
+      "onboard_time": 1701486934,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 524488,
+      "num": 524488,
+      "word": "辛芷蕾 内娱第一岚吹",
+      "onboard_time": 1701488372,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 522835,
@@ -787,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 427590,
+      "num": 427590,
+      "word": "刘诗诗 磨皮",
+      "onboard_time": 1701489933,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427270,
       "num": 427270,
       "word": "小猫耳朵会被冻掉",
@@ -851,8 +899,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405636,
+      "num": 405636,
+      "word": "JDG官宣Knight离队",
+      "onboard_time": 1701488912,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 400577,
-      "num": 400577,
+      "num": 524612,
       "word": "女子产下双胞胎后称小儿子去向不明",
       "onboard_time": 1701485492,
       "rank": 14,
@@ -953,14 +1009,6 @@
       "onboard_time": 1701417453,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365035,
-      "num": 168575,
-      "word": "电脑一定要关闭的设置",
-      "onboard_time": 1701486934,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 363192,
@@ -1299,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286091,
+      "num": 286091,
+      "word": "HPV感染原因",
+      "onboard_time": 1701489390,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 285699,
       "num": 833360,
       "word": "骗子AI换脸成领导民警9分钟追156万",
@@ -1489,14 +1545,6 @@
       "onboard_time": 1701427296,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253922,
-      "num": 253922,
-      "word": "周一围朱丹你们敢耍老子",
-      "onboard_time": 1701487775,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 253348,
@@ -1729,6 +1777,14 @@
       "onboard_time": 1701393814,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227167,
+      "num": 227167,
+      "word": "华晨宇 假发",
+      "onboard_time": 1701490471,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 227087,
@@ -2187,6 +2243,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 191469,
+      "num": 183143,
+      "word": "檀健次回hi6了",
+      "onboard_time": 1701489635,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191419,
       "num": 133887,
       "word": "周也 周天后是周一",
@@ -2337,6 +2401,14 @@
       "onboard_time": 1701425014,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183568,
+      "num": 183568,
+      "word": "孙海洋祝福亿万富翁寻子成功",
+      "onboard_time": 1701489512,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182906,
@@ -2619,6 +2691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164817,
+      "num": 164817,
+      "word": "王牌对王牌 打出愤怒的牌",
+      "onboard_time": 1701489332,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164734,
       "num": 164734,
       "word": "怎么查自己名下有几张电话卡",
@@ -2747,6 +2827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156341,
+      "num": 156341,
+      "word": "新闻女王 女性角色好有尊严",
+      "onboard_time": 1701488853,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155883,
       "num": 91683,
       "word": "星光大赏 门票",
@@ -2785,6 +2873,14 @@
       "onboard_time": 1701339093,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152631,
+      "num": 152631,
+      "word": "狗可以吃火腿肠吗",
+      "onboard_time": 1701489693,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 152571,
@@ -2857,6 +2953,14 @@
       "onboard_time": 1701436177,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147206,
+      "num": 147206,
+      "word": "孩子久咳不好需要再次去医院吗",
+      "onboard_time": 1701489810,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146810,
@@ -3345,6 +3449,14 @@
       "onboard_time": 1701342873,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101499,
+      "num": 101499,
+      "word": "吃橘子上火是怎么回事",
+      "onboard_time": 1701490410,
+      "rank": 48,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 100394,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1701490829404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1717073,
+        "num": 1717073,
+        "word": "情侣疑因在外旅游住宿感染HPV",
+        "onboard_time": 1701485071,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1475616,
+        "num": 1475616,
+        "word": "周一围朱丹你们敢耍老子",
+        "onboard_time": 1701487775,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9080,
+        "num": 825208,
+        "word": "民警反诈劝阻真实现场",
+        "onboard_time": 1701436776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620712,
+        "num": 620712,
+        "word": "2024年总台春晚官宣",
+        "onboard_time": 1701479674,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617071,
+        "num": 617071,
+        "word": "关智斌面部手部二级烧伤",
+        "onboard_time": 1701481293,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616227,
+        "num": 616227,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 565855,
+        "num": 565855,
+        "word": "张若昀拍的唐艺昕",
+        "onboard_time": 1701483994,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544787,
+        "num": 544787,
+        "word": "刘宇宁 脖子前倾",
+        "onboard_time": 1701489751,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 524982,
+        "num": 524982,
+        "word": "电脑一定要关闭的设置",
+        "onboard_time": 1701486934,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 386337,
+        "num": 524612,
+        "word": "女子产下双胞胎后称小儿子去向不明",
+        "onboard_time": 1701485492,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524488,
+        "num": 524488,
+        "word": "辛芷蕾 内娱第一岚吹",
+        "onboard_time": 1701488372,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464252,
+        "num": 464252,
+        "word": "排卵后1周是黄体破裂高危期",
+        "onboard_time": 1701479733,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 427590,
+        "num": 427590,
+        "word": "刘诗诗 磨皮",
+        "onboard_time": 1701489933,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405636,
+        "num": 405636,
+        "word": "JDG官宣Knight离队",
+        "onboard_time": 1701488912,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 368742,
+        "num": 368742,
+        "word": "1米83自卑女孩靠穿汉服找回自信",
+        "onboard_time": 1701473846,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332834,
+        "num": 332834,
+        "word": "他只希望活过45岁啊",
+        "onboard_time": 1701480994,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286091,
+        "num": 286091,
+        "word": "HPV感染原因",
+        "onboard_time": 1701489390,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255409,
+        "num": 255409,
+        "word": "女生考研崩溃晒百张草稿获网友鼓励",
+        "onboard_time": 1701481954,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235238,
+        "num": 235238,
+        "word": "斗罗大陆 结局",
+        "onboard_time": 1701485553,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 229392,
+        "num": 229392,
+        "word": "税务部门直接给陈志朋打了电话",
+        "onboard_time": 1701477150,
+        "rank": 19,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 227167,
+        "num": 227167,
+        "word": "华晨宇 假发",
+        "onboard_time": 1701490471,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225932,
+        "num": 225932,
+        "word": "龘这个字怎么读",
+        "onboard_time": 1701483094,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208214,
+        "num": 208214,
+        "word": "奔跑吧本期破次元同框",
+        "onboard_time": 1701485492,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184802,
+        "num": 184802,
+        "word": "胖东来",
+        "onboard_time": 1701485972,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183568,
+        "num": 183568,
+        "word": "孙海洋祝福亿万富翁寻子成功",
+        "onboard_time": 1701489512,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191469,
+        "num": 183143,
+        "word": "檀健次回hi6了",
+        "onboard_time": 1701489635,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182595,
+        "num": 182595,
+        "word": "胖东来员工不想上班请假不允许不批假",
+        "onboard_time": 1701440737,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182197,
+        "num": 182197,
+        "word": "张远小号秒删",
+        "onboard_time": 1701478411,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175864,
+        "num": 175864,
+        "word": "沈月林一 武汉",
+        "onboard_time": 1701487354,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166019,
+        "num": 166019,
+        "word": "儿子和亿万富豪父亲相认称没反应过来",
+        "onboard_time": 1701475709,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175703,
+        "num": 165645,
+        "word": "水龙吟开机",
+        "onboard_time": 1701480631,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164817,
+        "num": 164817,
+        "word": "王牌对王牌 打出愤怒的牌",
+        "onboard_time": 1701489332,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156341,
+        "num": 156341,
+        "word": "新闻女王 女性角色好有尊严",
+        "onboard_time": 1701488853,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152631,
+        "num": 152631,
+        "word": "狗可以吃火腿肠吗",
+        "onboard_time": 1701489693,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147986,
+        "num": 147986,
+        "word": "LV大秀G社生图",
+        "onboard_time": 1701486273,
+        "rank": 34,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 152919,
+        "num": 147949,
+        "word": "张元英生图",
+        "onboard_time": 1701477030,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147206,
+        "num": 147206,
+        "word": "孩子久咳不好需要再次去医院吗",
+        "onboard_time": 1701489810,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142255,
+        "num": 142255,
+        "word": "浙江一法拍房公告曾非正常死亡5人",
+        "onboard_time": 1701486392,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 140464,
+        "num": 140464,
+        "word": "田甜破产老公求复合只为带货",
+        "onboard_time": 1701487230,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137474,
+        "num": 137474,
+        "word": "发生高危性行为后如何补救",
+        "onboard_time": 1701478173,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134026,
+        "num": 134026,
+        "word": "杨鸣曾数次起诉离婚",
+        "onboard_time": 1701472460,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 128170,
+        "num": 128170,
+        "word": "周一围不善表达 朱丹不善传达",
+        "onboard_time": 1701482135,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127718,
+        "num": 127718,
+        "word": "警方通报女子提醒关远光灯被打致流产",
+        "onboard_time": 1701481056,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126649,
+        "num": 126649,
+        "word": "地磁暴致黑龙江出现震撼极光",
+        "onboard_time": 1701477814,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123947,
+        "num": 123947,
+        "word": "战地女记者被防弹衣磨出血",
+        "onboard_time": 1701482072,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118752,
+        "num": 118752,
+        "word": "久坐的人有福了",
+        "onboard_time": 1701484173,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115302,
+        "num": 115302,
+        "word": "gidle这段编舞为何这样",
+        "onboard_time": 1701485192,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110900,
+        "num": 110900,
+        "word": "谢依霖 爆红其实很可怕",
+        "onboard_time": 1701481535,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101499,
+        "num": 101499,
+        "word": "吃橘子上火是怎么回事",
+        "onboard_time": 1701490410,
+        "rank": 48,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 99933,
+        "num": 99933,
+        "word": "韩国人骂人太搞笑了",
+        "onboard_time": 1701480754,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察武警海警总队东海海区指挥部#"
+    }
+  }
+}
