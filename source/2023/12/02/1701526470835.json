@@ -1,0 +1,410 @@
+{
+  "runTime": 1701526470835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3822068,
+        "num": 3822068,
+        "word": "难哄 白敬亭",
+        "onboard_time": 1701523234,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1015991,
+        "num": 1015991,
+        "word": "白鹿 我可太想演电影了",
+        "onboard_time": 1701518915,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155443,
+        "num": 967221,
+        "word": "国家卫健委表示未发现新发传染病",
+        "onboard_time": 1701522093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964584,
+        "num": 964584,
+        "word": "谁来救救王心凌啊",
+        "onboard_time": 1701524016,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 873183,
+        "num": 873183,
+        "word": "赵露思 小红书广告",
+        "onboard_time": 1701513031,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803827,
+        "num": 803827,
+        "word": "大地磁暴预警",
+        "onboard_time": 1701521134,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612490,
+        "num": 612490,
+        "word": "加拿大超级猪入侵美国",
+        "onboard_time": 1701515554,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554501,
+        "num": 554501,
+        "word": "尹正 自卑是男人最好的医美",
+        "onboard_time": 1701520534,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447974,
+        "num": 447974,
+        "word": "摇粒绒 保暖",
+        "onboard_time": 1701510211,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358540,
+        "num": 358540,
+        "word": "Uzi要回来了吗",
+        "onboard_time": 1701522875,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 4547826,
+        "num": 353087,
+        "word": "宋轶删图",
+        "onboard_time": 1701525999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534234,
+        "num": 334601,
+        "word": "谭维维王心凌 带女朋友回家见父母",
+        "onboard_time": 1701523894,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509160,
+        "num": 293249,
+        "word": "蒋勤勤00年后的造型",
+        "onboard_time": 1701523956,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442270,
+        "num": 270129,
+        "word": "男子买彩票中11万被告知忘出票",
+        "onboard_time": 1701524137,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269996,
+        "num": 269996,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 507731,
+        "num": 262077,
+        "word": "很想很想你 掉马",
+        "onboard_time": 1701517714,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442527,
+        "num": 257533,
+        "word": "杨紫 要久久爱要播了",
+        "onboard_time": 1701525396,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248007,
+        "num": 248007,
+        "word": "羽绒服别乱洗",
+        "onboard_time": 1701521313,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 216467,
+        "num": 216467,
+        "word": "TES 辅助",
+        "onboard_time": 1701525757,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214053,
+        "num": 214053,
+        "word": "摘耳机 当代脱帽礼",
+        "onboard_time": 1701519273,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 441615,
+        "num": 212957,
+        "word": "古装女主以后就这么演",
+        "onboard_time": 1701514172,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415209,
+        "num": 210185,
+        "word": "张韶涵 第一位大莲花女歌手",
+        "onboard_time": 1701520534,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261699,
+        "num": 206804,
+        "word": "吃麻辣烫其实也能很健康",
+        "onboard_time": 1701524560,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231712,
+        "num": 201641,
+        "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
+        "onboard_time": 1701515554,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200927,
+        "num": 200927,
+        "word": "洛克王国手游明年开测",
+        "onboard_time": 1701524433,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 392326,
+        "num": 200755,
+        "word": "魏晨 流星雨又来临",
+        "onboard_time": 1701523832,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341971,
+        "num": 200654,
+        "word": "刘亦菲异域风穿搭",
+        "onboard_time": 1701519872,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 289725,
+        "num": 200401,
+        "word": "与凤行预约人数",
+        "onboard_time": 1701524433,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258926,
+        "num": 200223,
+        "word": "周也 童装汉服",
+        "onboard_time": 1701513392,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200092,
+        "num": 200092,
+        "word": "朱正廷现场为苏翊鸣决赛打call",
+        "onboard_time": 1701524378,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252536,
+        "num": 199937,
+        "word": "刘宇宁头套",
+        "onboard_time": 1701508472,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231867,
+        "num": 199801,
+        "word": "声生不息",
+        "onboard_time": 1701523956,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205541,
+        "num": 199774,
+        "word": "苏翊鸣夺冠后向粉丝比心",
+        "onboard_time": 1701526177,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198295,
+        "num": 198295,
+        "word": "原来冲锋衣是不能机洗的",
+        "onboard_time": 1701514653,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 190975,
+        "num": 190975,
+        "word": "男子打球猝死工作人员抢下黄金四分钟",
+        "onboard_time": 1701511831,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225847,
+        "num": 190385,
+        "word": "余景天 大屏",
+        "onboard_time": 1701522695,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224871,
+        "num": 189655,
+        "word": "王俊凯直播",
+        "onboard_time": 1701520713,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183379,
+        "num": 183379,
+        "word": "接触艾滋病毒2小时内是黄金阻断时间",
+        "onboard_time": 1701513272,
+        "rank": 37,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 179498,
+        "num": 179498,
+        "word": "出生在大城市已经是种幸运",
+        "onboard_time": 1701518734,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176212,
+        "num": 176212,
+        "word": "张大仙直播",
+        "onboard_time": 1701526416,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184780,
+        "num": 175503,
+        "word": "奥利 别人的17岁",
+        "onboard_time": 1701523536,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174623,
+        "num": 174623,
+        "word": "员工称胖东来惩罚制度很多",
+        "onboard_time": 1701511288,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 174528,
+        "num": 174528,
+        "word": "newjeans五颜六色的红毯",
+        "onboard_time": 1701517173,
+        "rank": 42,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 167273,
+        "num": 167273,
+        "word": "AG对战SZ",
+        "onboard_time": 1701526177,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167130,
+        "num": 167130,
+        "word": "看完李可乐 和妈妈讨论死亡",
+        "onboard_time": 1701524496,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163856,
+        "num": 163856,
+        "word": "周一围朱丹新人设",
+        "onboard_time": 1701515854,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160315,
+        "num": 160315,
+        "word": "周润发李龙馥自拍",
+        "onboard_time": 1701525034,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160268,
+        "num": 160268,
+        "word": "重庆一军嫂带2岁女儿接退伍丈夫回家",
+        "onboard_time": 1701514472,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155966,
+        "num": 155966,
+        "word": "周琦回归14分",
+        "onboard_time": 1701526296,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154657,
+        "num": 154657,
+        "word": "嗑到声音颤抖 嗑到原地起跳",
+        "onboard_time": 1701508951,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国关键要读懂中国式现代化#"
+    }
+  }
+}
