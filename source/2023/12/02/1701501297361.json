@@ -1,0 +1,410 @@
+{
+  "runTime": 1701501297361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1686610,
+        "num": 1686610,
+        "word": "突然发现你男友是亿万富豪之子",
+        "onboard_time": 1701494914,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238137,
+        "num": 1238137,
+        "word": "宋轶另一个冰淇淋是谁的",
+        "onboard_time": 1701498631,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24310,
+        "num": 1101429,
+        "word": "2023那些给我们力量的人",
+        "onboard_time": 1701476849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 998226,
+        "num": 998226,
+        "word": "尼格买提中奖",
+        "onboard_time": 1701494793,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751355,
+        "num": 751355,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 523119,
+        "num": 523119,
+        "word": "周一围朱丹你们敢耍老子",
+        "onboard_time": 1701487775,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460692,
+        "num": 460692,
+        "word": "刘诗诗 磨皮",
+        "onboard_time": 1701489933,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410386,
+        "num": 410386,
+        "word": "女子连吃1周笋干小肠被切25厘米",
+        "onboard_time": 1701495873,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405188,
+        "num": 405188,
+        "word": "迪丽热巴新疆舞获外交部矩阵外网推荐",
+        "onboard_time": 1701499472,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403644,
+        "num": 403644,
+        "word": "女子实名举报中石化高管婚内出轨",
+        "onboard_time": 1701498572,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603023,
+        "num": 402417,
+        "word": "TES官宣Rookie离队",
+        "onboard_time": 1701500192,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 399824,
+        "num": 399824,
+        "word": "陈楚生你回头看看汪苏泷吧",
+        "onboard_time": 1701500372,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381652,
+        "num": 381652,
+        "word": "刘宇宁 脖子前倾",
+        "onboard_time": 1701489751,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294381,
+        "num": 294381,
+        "word": "MMA直播",
+        "onboard_time": 1701498032,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261197,
+        "num": 261197,
+        "word": "EDG 上野辅",
+        "onboard_time": 1701496412,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 291101,
+        "num": 260825,
+        "word": "尖叫之夜 张颂文偷吃猪肉脯",
+        "onboard_time": 1701495152,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282703,
+        "num": 260456,
+        "word": "山河图 好燃",
+        "onboard_time": 1701493653,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84013,
+        "num": 259843,
+        "word": "1.7万小学生收到快递箱再造作业本",
+        "onboard_time": 1701500251,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 259239,
+        "num": 259239,
+        "word": "情侣疑因在外旅游住宿感染HPV",
+        "onboard_time": 1701485071,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254920,
+        "num": 254920,
+        "word": "女子上访遭信访局长辱骂获赔2万被判敲诈",
+        "onboard_time": 1701499828,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246095,
+        "num": 246095,
+        "word": "2024年总台春晚官宣",
+        "onboard_time": 1701479674,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232828,
+        "num": 232828,
+        "word": "树 我已经不在乎那条虫子了",
+        "onboard_time": 1701498393,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231742,
+        "num": 231742,
+        "word": "阿娇 女团人多分钱有点难",
+        "onboard_time": 1701495755,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225398,
+        "num": 225398,
+        "word": "爷爷晒暖暖安详离世奶奶转身抹泪",
+        "onboard_time": 1701500192,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207804,
+        "num": 207804,
+        "word": "四川孃孃51岁拿下电竞冠军",
+        "onboard_time": 1701495690,
+        "rank": 24,
+        "category": "社会新闻,电竞"
+      },
+      {
+        "raw_hot": 212980,
+        "num": 206303,
+        "word": "刘诗诗警告刘宇宁别让我笑",
+        "onboard_time": 1701501029,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200720,
+        "num": 200720,
+        "word": "关智斌面部手部二级烧伤",
+        "onboard_time": 1701481293,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193857,
+        "num": 193857,
+        "word": "张若昀拍的唐艺昕",
+        "onboard_time": 1701483994,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168326,
+        "num": 168326,
+        "word": "痘肌 阿达帕林和克林霉素凝胶",
+        "onboard_time": 1701494013,
+        "rank": 28,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 158443,
+        "num": 158443,
+        "word": "解清帅",
+        "onboard_time": 1701494672,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185018,
+        "num": 158218,
+        "word": "龘这个字怎么读",
+        "onboard_time": 1701483094,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179823,
+        "num": 158147,
+        "word": "王俊凯耳钉",
+        "onboard_time": 1701492515,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160851,
+        "num": 158105,
+        "word": "周一围 内疚粉",
+        "onboard_time": 1701495091,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156964,
+        "num": 156964,
+        "word": "Scout代表了另一种完美",
+        "onboard_time": 1701499891,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154191,
+        "num": 154191,
+        "word": "1米83自卑女孩靠穿汉服找回自信",
+        "onboard_time": 1701473846,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159666,
+        "num": 153868,
+        "word": "星光大赏第二波嘉宾名单",
+        "onboard_time": 1701495152,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150025,
+        "num": 150025,
+        "word": "孙海洋祝福亿万富翁寻子成功",
+        "onboard_time": 1701489512,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142535,
+        "num": 142535,
+        "word": "欧阳震华佘诗曼 什么都能聊",
+        "onboard_time": 1701496412,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139906,
+        "num": 139906,
+        "word": "炫富 心理需求",
+        "onboard_time": 1701497552,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "女生考研崩溃晒百张草稿获网友鼓励",
+        "onboard_time": 1701481954,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133413,
+        "num": 133413,
+        "word": "苏翊鸣说这一年身高体重变化很大",
+        "onboard_time": 1701494734,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132197,
+        "num": 132197,
+        "word": "女子产下双胞胎后称小儿子去向不明",
+        "onboard_time": 1701485492,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128607,
+        "num": 128607,
+        "word": "亿万富豪儿子说也会照顾好养家",
+        "onboard_time": 1701500794,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128509,
+        "num": 128509,
+        "word": "女子结婚全家族奔赴300多公里送嫁",
+        "onboard_time": 1701500671,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127406,
+        "num": 127406,
+        "word": "水龙吟开机",
+        "onboard_time": 1701480631,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123287,
+        "num": 123287,
+        "word": "陈奕迅和千万个最佳损友合唱",
+        "onboard_time": 1701499413,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122127,
+        "num": 122127,
+        "word": "朴宰范模仿秀",
+        "onboard_time": 1701501093,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121536,
+        "num": 121536,
+        "word": "华晨宇 假发",
+        "onboard_time": 1701490471,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111735,
+        "num": 111735,
+        "word": "WE FoFo",
+        "onboard_time": 1701492693,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106524,
+        "num": 106524,
+        "word": "声生不息家年华开播",
+        "onboard_time": 1701496174,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国关键要读懂中国式现代化#"
+    }
+  }
+}
