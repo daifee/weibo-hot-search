@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701491660174,
+  "endTime": 1701494139618,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -9,6 +9,14 @@
       "onboard_time": 1701436115,
       "rank": 0,
       "category": "自然"
+    },
+    {
+      "raw_hot": 2068444,
+      "num": 2068444,
+      "word": "黄体破裂",
+      "onboard_time": 1701489332,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1886615,
@@ -49,14 +57,6 @@
       "onboard_time": 1701481293,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1065092,
-      "num": 1065092,
-      "word": "黄体破裂",
-      "onboard_time": 1701489332,
-      "rank": 5,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1012873,
@@ -115,6 +115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 704472,
+      "num": 704472,
+      "word": "刘诗诗 磨皮",
+      "onboard_time": 1701489933,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 675573,
       "num": 675573,
       "word": "张远小号秒删",
@@ -153,14 +161,6 @@
       "onboard_time": 1701443258,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 612473,
-      "num": 612473,
-      "word": "刘诗诗 磨皮",
-      "onboard_time": 1701489933,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 591494,
@@ -211,6 +211,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 514965,
+      "num": 514965,
+      "word": "王俊凯 迪奥",
+      "onboard_time": 1701490894,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494760,
       "num": 494760,
       "word": "许嵩近期状态",
@@ -227,20 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465258,
-      "num": 465258,
-      "word": "王俊凯 迪奥",
-      "onboard_time": 1701490894,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 444164,
       "num": 444164,
       "word": "再见李可乐 你好李焕英",
       "onboard_time": 1701475470,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 431253,
+      "num": 370444,
+      "word": "王俊凯耳钉",
+      "onboard_time": 1701492515,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 425251,
@@ -281,6 +289,14 @@
       "onboard_time": 1701488912,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 404291,
+      "num": 404291,
+      "word": "柳宗元竟是螺蛳粉的初代推广大使",
+      "onboard_time": 1701490894,
+      "rank": 20,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 400577,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319665,
+      "num": 319665,
+      "word": "良品铺子 降价",
+      "onboard_time": 1701492393,
+      "rank": 17,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 311755,
       "num": 311755,
       "word": "芒市地震",
@@ -419,6 +443,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 287231,
+      "num": 279622,
+      "word": "山河图 好燃",
+      "onboard_time": 1701493653,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 277466,
+      "num": 277466,
+      "word": "WE FoFo",
+      "onboard_time": 1701492693,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276388,
       "num": 276388,
       "word": "飞猪要求退票用户开情侣关系证明",
@@ -433,6 +473,14 @@
       "onboard_time": 1701436537,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274839,
+      "num": 274839,
+      "word": "唐嫣闫妮 浇水",
+      "onboard_time": 1701492334,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 259093,
@@ -491,14 +539,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 244955,
-      "num": 244955,
-      "word": "柳宗元竟是螺蛳粉的初代推广大使",
-      "onboard_time": 1701490894,
-      "rank": 20,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 243822,
       "num": 227432,
       "word": "女子月子期不愿丈夫上班被婆婆怒斥",
@@ -537,6 +577,22 @@
       "onboard_time": 1701445655,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215125,
+      "num": 215125,
+      "word": "患抑郁女生报告病情后被学校劝退",
+      "onboard_time": 1701491494,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214480,
+      "num": 214480,
+      "word": "孙海洋祝福亿万富翁寻子成功",
+      "onboard_time": 1701489512,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212478,
@@ -579,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210018,
+      "num": 210018,
+      "word": "TES和DYG约上饭了",
+      "onboard_time": 1701493594,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209490,
       "num": 209490,
       "word": "韩国人骂人太搞笑了",
@@ -619,14 +683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 199560,
-      "num": 199560,
-      "word": "孙海洋祝福亿万富翁寻子成功",
-      "onboard_time": 1701489512,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197053,
       "num": 197053,
       "word": "周深官宣加盟声生不息",
@@ -665,6 +721,22 @@
       "onboard_time": 1701489635,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190321,
+      "num": 190321,
+      "word": "邓紫棋泉州演唱会",
+      "onboard_time": 1701493172,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 188935,
+      "num": 188935,
+      "word": "王源剧组练字手写歌词",
+      "onboard_time": 1701492936,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 188015,
@@ -811,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158137,
+      "num": 158137,
+      "word": "陈瑶水龙吟造型是一身桃花",
+      "onboard_time": 1701491430,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156341,
       "num": 156341,
       "word": "新闻女王 女性角色好有尊严",
@@ -841,14 +921,6 @@
       "onboard_time": 1701482072,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152855,
-      "num": 152855,
-      "word": "陈瑶水龙吟造型是一身桃花",
-      "onboard_time": 1701491430,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 152631,
@@ -897,6 +969,14 @@
       "onboard_time": 1701443436,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145097,
+      "num": 145097,
+      "word": "杜兰特历史得分榜第十",
+      "onboard_time": 1701492634,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 143596,
@@ -963,12 +1043,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136150,
+      "num": 128455,
+      "word": "谭松韵的真诚永远拿得出手",
+      "onboard_time": 1701493772,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135824,
       "num": 135824,
       "word": "黄智雯宣布离巢TVB",
       "onboard_time": 1701439657,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135699,
+      "num": 135699,
+      "word": "痘肌 阿达帕林和克林霉素凝胶",
+      "onboard_time": 1701494013,
+      "rank": 38,
+      "category": "美妆,健康医疗"
     },
     {
       "raw_hot": 134980,
@@ -1075,12 +1171,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115014,
-      "num": 115014,
-      "word": "患抑郁女生报告病情后被学校劝退",
-      "onboard_time": 1701491494,
+      "raw_hot": 116963,
+      "num": 116963,
+      "word": "赛博朋克2077 地铁系统",
+      "onboard_time": 1701492574,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 114707,
@@ -1441,6 +1537,14 @@
       "onboard_time": 1701462553,
       "rank": 46,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 5238,
+      "num": 1044314,
+      "word": "数字科技链让创新更有活力",
+      "onboard_time": 1701494013,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1452,6 +1556,9 @@
     },
     {
       "word": "#继续促进贸易和投资自由化便利化#"
+    },
+    {
+      "word": "#读懂中国关键要读懂中国式现代化#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701491660174,
+  "endTime": 1701494139618,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -336,6 +336,14 @@
       "word": "冬季洗澡尽量控制在5到10分钟",
       "onboard_time": 1700996133,
       "rank": 13,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2068444,
+      "num": 2068444,
+      "word": "黄体破裂",
+      "onboard_time": 1701489332,
+      "rank": 5,
       "category": "健康医疗"
     },
     {
@@ -1401,14 +1409,6 @@
       "onboard_time": 1701003158,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1065092,
-      "num": 1065092,
-      "word": "黄体破裂",
-      "onboard_time": 1701489332,
-      "rank": 5,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1060323,
@@ -2491,6 +2491,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 704472,
+      "num": 704472,
+      "word": "刘诗诗 磨皮",
+      "onboard_time": 1701489933,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 696400,
       "num": 696400,
       "word": "福宝",
@@ -3071,14 +3079,6 @@
       "num": 613683,
       "word": "一念关山口碑",
       "onboard_time": 1701219696,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 612473,
-      "num": 612473,
-      "word": "刘诗诗 磨皮",
-      "onboard_time": 1701489933,
       "rank": 12,
       "category": "剧集"
     },
@@ -3923,6 +3923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 514965,
+      "num": 514965,
+      "word": "王俊凯 迪奥",
+      "onboard_time": 1701490894,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514849,
       "num": 514849,
       "word": "华为发布会",
@@ -4483,14 +4491,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 465258,
-      "num": 465258,
-      "word": "王俊凯 迪奥",
-      "onboard_time": 1701490894,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 463818,
       "num": 463818,
       "word": "宋雨琦被工作人员阻止接信",
@@ -4923,6 +4923,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 431253,
+      "num": 370444,
+      "word": "王俊凯耳钉",
+      "onboard_time": 1701492515,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 431220,
       "num": 394235,
       "word": "袁弘叫胡歌往旁边挪半个屁股",
@@ -5297,6 +5305,14 @@
       "onboard_time": 1701488912,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 404291,
+      "num": 404291,
+      "word": "柳宗元竟是螺蛳粉的初代推广大使",
+      "onboard_time": 1701490894,
+      "rank": 20,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 404197,
@@ -6731,6 +6747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319665,
+      "num": 319665,
+      "word": "良品铺子 降价",
+      "onboard_time": 1701492393,
+      "rank": 17,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 319235,
       "num": 319235,
       "word": "LPL转会期",
@@ -7643,6 +7667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287231,
+      "num": 279622,
+      "word": "山河图 好燃",
+      "onboard_time": 1701493653,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287180,
       "num": 287180,
       "word": "郑秀妍直播",
@@ -7979,6 +8011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277466,
+      "num": 277466,
+      "word": "WE FoFo",
+      "onboard_time": 1701492693,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 277406,
       "num": 277406,
       "word": "黄智雯宣布离巢TVB",
@@ -8041,6 +8081,14 @@
       "onboard_time": 1701145239,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274839,
+      "num": 274839,
+      "word": "唐嫣闫妮 浇水",
+      "onboard_time": 1701492334,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 274838,
@@ -9081,14 +9129,6 @@
       "onboard_time": 1701479192,
       "rank": 32,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 244955,
-      "num": 244955,
-      "word": "柳宗元竟是螺蛳粉的初代推广大使",
-      "onboard_time": 1701490894,
-      "rank": 20,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 244838,
@@ -10403,6 +10443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215125,
+      "num": 215125,
+      "word": "患抑郁女生报告病情后被学校劝退",
+      "onboard_time": 1701491494,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215010,
       "num": 184599,
       "word": "ENHYPEN Dance Break",
@@ -10417,6 +10465,14 @@
       "onboard_time": 1701093998,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214480,
+      "num": 214480,
+      "word": "孙海洋祝福亿万富翁寻子成功",
+      "onboard_time": 1701489512,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214296,
@@ -10681,6 +10737,14 @@
       "onboard_time": 1701266438,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210018,
+      "num": 210018,
+      "word": "TES和DYG约上饭了",
+      "onboard_time": 1701493594,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 209955,
@@ -11401,14 +11465,6 @@
       "onboard_time": 1701003518,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199560,
-      "num": 199560,
-      "word": "孙海洋祝福亿万富翁寻子成功",
-      "onboard_time": 1701489512,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199431,
@@ -12227,6 +12283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190321,
+      "num": 190321,
+      "word": "邓紫棋泉州演唱会",
+      "onboard_time": 1701493172,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190259,
       "num": 190259,
       "word": "陈赫宣传鹿晗新歌",
@@ -12376,6 +12440,14 @@
       "word": "侵犯杨紫名誉权公司被执行",
       "onboard_time": 1701146562,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188935,
+      "num": 188935,
+      "word": "王源剧组练字手写歌词",
+      "onboard_time": 1701492936,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -14339,6 +14411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158137,
+      "num": 158137,
+      "word": "陈瑶水龙吟造型是一身桃花",
+      "onboard_time": 1701491430,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157643,
       "num": 157643,
       "word": "给东京来的摇滚小子一点沪币震撼",
@@ -14681,14 +14761,6 @@
       "onboard_time": 1701357696,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152855,
-      "num": 152855,
-      "word": "陈瑶水龙吟造型是一身桃花",
-      "onboard_time": 1701491430,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 152631,
@@ -15097,6 +15169,14 @@
       "onboard_time": 1701412354,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145097,
+      "num": 145097,
+      "word": "杜兰特历史得分榜第十",
+      "onboard_time": 1701492634,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 145089,
@@ -15675,6 +15755,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 136150,
+      "num": 128455,
+      "word": "谭松韵的真诚永远拿得出手",
+      "onboard_time": 1701493772,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135857,
       "num": 135857,
       "word": "秦岚心软的神",
@@ -15689,6 +15777,14 @@
       "onboard_time": 1701053309,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135699,
+      "num": 135699,
+      "word": "痘肌 阿达帕林和克林霉素凝胶",
+      "onboard_time": 1701494013,
+      "rank": 38,
+      "category": "美妆,健康医疗"
     },
     {
       "raw_hot": 135257,
@@ -16307,6 +16403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116963,
+      "num": 116963,
+      "word": "赛博朋克2077 地铁系统",
+      "onboard_time": 1701492574,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116593,
       "num": 688269,
       "word": "中国广电送您一张电视明白卡",
@@ -16337,14 +16441,6 @@
       "onboard_time": 1700963492,
       "rank": 49,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 115014,
-      "num": 115014,
-      "word": "患抑郁女生报告病情后被学校劝退",
-      "onboard_time": 1701491494,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114707,
@@ -18049,6 +18145,14 @@
       "onboard_time": 1701142412,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5238,
+      "num": 1044314,
+      "word": "数字科技链让创新更有活力",
+      "onboard_time": 1701494013,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -18108,6 +18212,9 @@
     },
     {
       "word": "#习近平视察武警海警总队东海海区指挥部#"
+    },
+    {
+      "word": "#读懂中国关键要读懂中国式现代化#"
     }
   ]
 }

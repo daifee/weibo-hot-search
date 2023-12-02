@@ -1,0 +1,410 @@
+{
+  "runTime": 1701494139618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2068444,
+        "num": 2068444,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1428503,
+        "num": 1428503,
+        "word": "周一围朱丹你们敢耍老子",
+        "onboard_time": 1701487775,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5238,
+        "num": 1044314,
+        "word": "数字科技链让创新更有活力",
+        "onboard_time": 1701494013,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035660,
+        "num": 1035660,
+        "word": "情侣疑因在外旅游住宿感染HPV",
+        "onboard_time": 1701485071,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825368,
+        "num": 825368,
+        "word": "刘宇宁 脖子前倾",
+        "onboard_time": 1701489751,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 704472,
+        "num": 704472,
+        "word": "刘诗诗 磨皮",
+        "onboard_time": 1701489933,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608811,
+        "num": 608811,
+        "word": "2024年总台春晚官宣",
+        "onboard_time": 1701479674,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514965,
+        "num": 514965,
+        "word": "王俊凯 迪奥",
+        "onboard_time": 1701490894,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404291,
+        "num": 404291,
+        "word": "柳宗元竟是螺蛳粉的初代推广大使",
+        "onboard_time": 1701490894,
+        "rank": 8,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 307593,
+        "num": 402724,
+        "word": "1米83自卑女孩靠穿汉服找回自信",
+        "onboard_time": 1701473846,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15248,
+        "num": 385240,
+        "word": "民警反诈劝阻真实现场",
+        "onboard_time": 1701436776,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435698,
+        "num": 377968,
+        "word": "关智斌面部手部二级烧伤",
+        "onboard_time": 1701481293,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431253,
+        "num": 370444,
+        "word": "王俊凯耳钉",
+        "onboard_time": 1701492515,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408521,
+        "num": 356401,
+        "word": "张若昀拍的唐艺昕",
+        "onboard_time": 1701483994,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356355,
+        "num": 356355,
+        "word": "电脑一定要关闭的设置",
+        "onboard_time": 1701486934,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 366595,
+        "num": 347721,
+        "word": "辛芷蕾 内娱第一岚吹",
+        "onboard_time": 1701488372,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330578,
+        "num": 330578,
+        "word": "华晨宇 假发",
+        "onboard_time": 1701490471,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319665,
+        "num": 319665,
+        "word": "良品铺子 降价",
+        "onboard_time": 1701492393,
+        "rank": 17,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 286423,
+        "num": 286423,
+        "word": "女生考研崩溃晒百张草稿获网友鼓励",
+        "onboard_time": 1701481954,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254037,
+        "num": 281043,
+        "word": "女子产下双胞胎后称小儿子去向不明",
+        "onboard_time": 1701485492,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287231,
+        "num": 279622,
+        "word": "山河图 好燃",
+        "onboard_time": 1701493653,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277466,
+        "num": 277466,
+        "word": "WE FoFo",
+        "onboard_time": 1701492693,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274839,
+        "num": 274839,
+        "word": "唐嫣闫妮 浇水",
+        "onboard_time": 1701492334,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243690,
+        "num": 243690,
+        "word": "JDG官宣Knight离队",
+        "onboard_time": 1701488912,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215125,
+        "num": 215125,
+        "word": "患抑郁女生报告病情后被学校劝退",
+        "onboard_time": 1701491494,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235681,
+        "num": 215033,
+        "word": "他只希望活过45岁啊",
+        "onboard_time": 1701480994,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220796,
+        "num": 214845,
+        "word": "龘这个字怎么读",
+        "onboard_time": 1701483094,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217232,
+        "num": 214708,
+        "word": "水龙吟开机",
+        "onboard_time": 1701480631,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214480,
+        "num": 214480,
+        "word": "孙海洋祝福亿万富翁寻子成功",
+        "onboard_time": 1701489512,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210018,
+        "num": 210018,
+        "word": "TES和DYG约上饭了",
+        "onboard_time": 1701493594,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190321,
+        "num": 190321,
+        "word": "邓紫棋泉州演唱会",
+        "onboard_time": 1701493172,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188935,
+        "num": 188935,
+        "word": "王源剧组练字手写歌词",
+        "onboard_time": 1701492936,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173928,
+        "num": 173928,
+        "word": "税务部门直接给陈志朋打了电话",
+        "onboard_time": 1701477150,
+        "rank": 32,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 171582,
+        "num": 171582,
+        "word": "儿子和亿万富豪父亲相认称没反应过来",
+        "onboard_time": 1701475709,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160433,
+        "num": 160433,
+        "word": "张元英生图",
+        "onboard_time": 1701477030,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158137,
+        "num": 158137,
+        "word": "陈瑶水龙吟造型是一身桃花",
+        "onboard_time": 1701491430,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145097,
+        "num": 145097,
+        "word": "杜兰特历史得分榜第十",
+        "onboard_time": 1701492634,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136316,
+        "num": 136316,
+        "word": "斗罗大陆 结局",
+        "onboard_time": 1701485553,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135699,
+        "num": 135699,
+        "word": "痘肌 阿达帕林和克林霉素凝胶",
+        "onboard_time": 1701494013,
+        "rank": 38,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 130235,
+        "num": 130235,
+        "word": "排卵后1周是黄体破裂高危期",
+        "onboard_time": 1701479733,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149365,
+        "num": 129948,
+        "word": "张远小号秒删",
+        "onboard_time": 1701478411,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136150,
+        "num": 128455,
+        "word": "谭松韵的真诚永远拿得出手",
+        "onboard_time": 1701493772,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126661,
+        "num": 126661,
+        "word": "HPV感染原因",
+        "onboard_time": 1701489390,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125405,
+        "num": 125405,
+        "word": "发生高危性行为后如何补救",
+        "onboard_time": 1701478173,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123548,
+        "num": 123548,
+        "word": "奔跑吧本期破次元同框",
+        "onboard_time": 1701485492,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117254,
+        "num": 117254,
+        "word": "孩子久咳不好需要再次去医院吗",
+        "onboard_time": 1701489810,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116963,
+        "num": 116963,
+        "word": "赛博朋克2077 地铁系统",
+        "onboard_time": 1701492574,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116792,
+        "num": 116792,
+        "word": "胖东来员工不想上班请假不允许不批假",
+        "onboard_time": 1701440737,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116597,
+        "num": 116597,
+        "word": "周一围不善表达 朱丹不善传达",
+        "onboard_time": 1701482135,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116022,
+        "num": 116022,
+        "word": "杨鸣曾数次起诉离婚",
+        "onboard_time": 1701472460,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国关键要读懂中国式现代化#"
+    }
+  }
+}
