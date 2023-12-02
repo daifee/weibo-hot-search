@@ -1,0 +1,410 @@
+{
+  "runTime": 1701506052723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 974298,
+        "num": 974298,
+        "word": "陈志朋回应偷税漏税",
+        "onboard_time": 1701502772,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 898318,
+        "num": 898318,
+        "word": "突然发现你男友是亿万富豪之子",
+        "onboard_time": 1701494914,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15443,
+        "num": 698886,
+        "word": "2023那些给我们力量的人",
+        "onboard_time": 1701476849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656669,
+        "num": 656669,
+        "word": "宋轶另一个冰淇淋是谁的",
+        "onboard_time": 1701498631,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531346,
+        "num": 531346,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 521514,
+        "num": 521514,
+        "word": "大冰握手 腱鞘炎",
+        "onboard_time": 1701502415,
+        "rank": 5,
+        "category": "读书作家,网红"
+      },
+      {
+        "raw_hot": 480138,
+        "num": 480138,
+        "word": "尼格买提中奖",
+        "onboard_time": 1701494793,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431157,
+        "num": 431157,
+        "word": "ive公主妆造",
+        "onboard_time": 1701503795,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 394747,
+        "num": 394747,
+        "word": "刘诗诗警告刘宇宁别让我笑",
+        "onboard_time": 1701501029,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311778,
+        "num": 371983,
+        "word": "女子上访遭信访局长辱骂获赔2万被判敲诈",
+        "onboard_time": 1701499828,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368705,
+        "num": 368705,
+        "word": "韩剧取名 随意",
+        "onboard_time": 1701501692,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352481,
+        "num": 352481,
+        "word": "aespa 哥特玫瑰",
+        "onboard_time": 1701505231,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347981,
+        "num": 347981,
+        "word": "沈阳洗浴",
+        "onboard_time": 1701502711,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 345965,
+        "num": 345965,
+        "word": "陈志朋员工 会为权益捍卫到底",
+        "onboard_time": 1701505112,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 250254,
+        "num": 250254,
+        "word": "TES官宣Rookie离队",
+        "onboard_time": 1701500192,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 341226,
+        "num": 244224,
+        "word": "MMA红毯",
+        "onboard_time": 1701502230,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320070,
+        "num": 244099,
+        "word": "迪丽热巴新疆舞获外交部矩阵外网推荐",
+        "onboard_time": 1701499472,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299683,
+        "num": 240410,
+        "word": "陈楚生你回头看看汪苏泷吧",
+        "onboard_time": 1701500372,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223337,
+        "num": 223337,
+        "word": "女子连吃1周笋干小肠被切25厘米",
+        "onboard_time": 1701495873,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205434,
+        "num": 205434,
+        "word": "国家卫健委新闻发布会",
+        "onboard_time": 1701502113,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286363,
+        "num": 205132,
+        "word": "周杰伦新歌 12月的小品",
+        "onboard_time": 1701501936,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204228,
+        "num": 204228,
+        "word": "深圳父亲寻子23年已有6套房4家公司",
+        "onboard_time": 1701502054,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192191,
+        "num": 192191,
+        "word": "亿万富豪儿子说也会照顾好养家",
+        "onboard_time": 1701500794,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190805,
+        "num": 190805,
+        "word": "女子实名举报中石化高管婚内出轨",
+        "onboard_time": 1701498572,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184675,
+        "num": 184675,
+        "word": "树 我已经不在乎那条虫子了",
+        "onboard_time": 1701498393,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211223,
+        "num": 182847,
+        "word": "MMA直播",
+        "onboard_time": 1701498032,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206037,
+        "num": 179808,
+        "word": "山河图 好燃",
+        "onboard_time": 1701493653,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199995,
+        "num": 177910,
+        "word": "刘诗诗 磨皮",
+        "onboard_time": 1701489933,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175663,
+        "num": 175663,
+        "word": "爷爷晒暖暖安详离世奶奶转身抹泪",
+        "onboard_time": 1701500192,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168506,
+        "num": 168506,
+        "word": "EDG 上野辅",
+        "onboard_time": 1701496412,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194513,
+        "num": 168491,
+        "word": "罗云熙水龙吟妆发",
+        "onboard_time": 1701504093,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187651,
+        "num": 168457,
+        "word": "白鹿跳了3D",
+        "onboard_time": 1701505590,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184925,
+        "num": 168439,
+        "word": "刘宇宁 脖子前倾",
+        "onboard_time": 1701489751,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168416,
+        "num": 168416,
+        "word": "四川孃孃51岁拿下电竞冠军",
+        "onboard_time": 1701495690,
+        "rank": 33,
+        "category": "社会新闻,电竞"
+      },
+      {
+        "raw_hot": 147490,
+        "num": 147490,
+        "word": "Gr对战WBG",
+        "onboard_time": 1701505590,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151507,
+        "num": 146049,
+        "word": "龘这个字怎么读",
+        "onboard_time": 1701483094,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144579,
+        "num": 144579,
+        "word": "情侣疑因在外旅游住宿感染HPV",
+        "onboard_time": 1701485071,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143607,
+        "num": 143607,
+        "word": "Doublelift宣布退役",
+        "onboard_time": 1701504450,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132986,
+        "num": 132986,
+        "word": "尖叫之夜 张颂文偷吃猪肉脯",
+        "onboard_time": 1701495152,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131520,
+        "num": 131520,
+        "word": "三大队 点映",
+        "onboard_time": 1701505891,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128057,
+        "num": 128057,
+        "word": "2024年总台春晚官宣",
+        "onboard_time": 1701479674,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127917,
+        "num": 127917,
+        "word": "电影热搜",
+        "onboard_time": 1701504571,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124762,
+        "num": 124762,
+        "word": "1米83自卑女孩靠穿汉服找回自信",
+        "onboard_time": 1701473846,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123085,
+        "num": 123085,
+        "word": "老师误会学生后拿着糖葫芦求和解",
+        "onboard_time": 1701503553,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122587,
+        "num": 122587,
+        "word": "张若昀拍的唐艺昕",
+        "onboard_time": 1701483994,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118940,
+        "num": 118940,
+        "word": "女子结婚全家族奔赴300多公里送嫁",
+        "onboard_time": 1701500671,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111796,
+        "num": 111796,
+        "word": "Scout代表了另一种完美",
+        "onboard_time": 1701499891,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110926,
+        "num": 110926,
+        "word": "关智斌面部手部二级烧伤",
+        "onboard_time": 1701481293,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109267,
+        "num": 109267,
+        "word": "星光大赏第二波嘉宾名单",
+        "onboard_time": 1701495152,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100641,
+        "num": 100641,
+        "word": "腮红选对妆面直接飞升",
+        "onboard_time": 1701505469,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国关键要读懂中国式现代化#"
+    }
+  }
+}
