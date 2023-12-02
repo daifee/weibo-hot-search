@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701508539381,
+  "endTime": 1701509656725,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631522,
+      "num": 631522,
+      "word": "M豆棺材",
+      "onboard_time": 1701506133,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 603023,
       "num": 402417,
       "word": "TES官宣Rookie离队",
@@ -232,6 +240,14 @@
       "word": "他只希望活过45岁啊",
       "onboard_time": 1701480994,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 538055,
+      "num": 538055,
+      "word": "田曦薇 年画娃娃",
+      "onboard_time": 1701508352,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -307,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 455156,
-      "num": 327117,
-      "word": "M豆棺材",
-      "onboard_time": 1701506133,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 454876,
       "num": 454876,
       "word": "陈楚生你回头看看汪苏泷吧",
@@ -339,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 446444,
+      "num": 358623,
+      "word": "富豪被拐儿子称身世还没告诉女友",
+      "onboard_time": 1701506852,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444164,
       "num": 444164,
       "word": "再见李可乐 你好李焕英",
@@ -361,14 +377,6 @@
       "onboard_time": 1701492515,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 427631,
-      "num": 325751,
-      "word": "富豪被拐儿子称身世还没告诉女友",
-      "onboard_time": 1701506852,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 425251,
@@ -409,6 +417,14 @@
       "onboard_time": 1701505231,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 407495,
+      "num": 407495,
+      "word": "四无婚礼",
+      "onboard_time": 1701507391,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 405832,
@@ -579,6 +595,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338484,
+      "num": 338484,
+      "word": "刘宇宁头套",
+      "onboard_time": 1701508472,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 332986,
+      "num": 170472,
+      "word": "iPhone隐藏功能",
+      "onboard_time": 1701508771,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 330655,
       "num": 330655,
       "word": "阿娇 女团人多分钱有点难",
@@ -593,6 +625,14 @@
       "onboard_time": 1701477030,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323633,
+      "num": 323633,
+      "word": "嗑到声音颤抖 嗑到原地起跳",
+      "onboard_time": 1701508951,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 322699,
@@ -729,14 +769,6 @@
       "onboard_time": 1701496412,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 265807,
-      "num": 265807,
-      "word": "四无婚礼",
-      "onboard_time": 1701507391,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 264475,
@@ -1043,6 +1075,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 204265,
+      "num": 165123,
+      "word": "张元英香槟礼裙",
+      "onboard_time": 1701509372,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204228,
       "num": 204228,
       "word": "深圳父亲寻子23年已有6套房4家公司",
@@ -1091,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195074,
-      "num": 168559,
-      "word": "刘宇宁头套",
-      "onboard_time": 1701508472,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194504,
       "num": 172351,
       "word": "电影热搜",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1701508112,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194194,
+      "num": 162886,
+      "word": "爱是常觉亏欠而非常觉亏本",
+      "onboard_time": 1701509134,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 192200,
@@ -1163,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186397,
+      "num": 157377,
+      "word": "任如意的孤狼三号上线",
+      "onboard_time": 1701509071,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186386,
       "num": 186386,
       "word": "久坐的人有福了",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1701442960,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178683,
-      "num": 167582,
-      "word": "田曦薇 年画娃娃",
-      "onboard_time": 1701508352,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 175929,
@@ -1241,6 +1281,22 @@
       "onboard_time": 1701496174,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171107,
+      "num": 171107,
+      "word": "185男大抱着滑",
+      "onboard_time": 1701509071,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170432,
+      "num": 156684,
+      "word": "华晨宇新歌",
+      "onboard_time": 1701508411,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 169706,
@@ -1345,14 +1401,6 @@
       "onboard_time": 1701483933,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 160493,
-      "num": 150991,
-      "word": "华晨宇新歌",
-      "onboard_time": 1701508411,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 159250,
@@ -1787,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111711,
+      "num": 125331,
+      "word": "烤栗子",
+      "onboard_time": 1701509372,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110846,
       "num": 110846,
       "word": "在东北拍到极光是什么体验",
@@ -1995,6 +2051,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81555,
+      "num": 640777,
+      "word": "我国纳米金属研究领域取得新突破",
+      "onboard_time": 1701507336,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78208,
+      "num": 171817,
+      "word": "元梦之星把上海做进了地图里",
+      "onboard_time": 1701508650,
+      "rank": 28,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 77822,
       "num": 77822,
       "word": "杨幂赵丽颖 酱园弄",
@@ -2055,14 +2127,6 @@
       "num": 1084643,
       "word": "民警反诈劝阻真实现场",
       "onboard_time": 1701436776,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49912,
-      "num": 540681,
-      "word": "我国纳米金属研究领域取得新突破",
-      "onboard_time": 1701507336,
       "rank": 2,
       "category": "社会新闻"
     },
