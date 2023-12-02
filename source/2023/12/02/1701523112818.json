@@ -1,0 +1,410 @@
+{
+  "runTime": 1701523112818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254779,
+        "num": 1254779,
+        "word": "白鹿 我可太想演电影了",
+        "onboard_time": 1701518915,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1190433,
+        "num": 1190433,
+        "word": "加拿大超级猪入侵美国",
+        "onboard_time": 1701515554,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105979,
+        "num": 1184799,
+        "word": "国家卫健委表示未发现新发传染病",
+        "onboard_time": 1701522093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180379,
+        "num": 1180379,
+        "word": "赵露思 小红书广告",
+        "onboard_time": 1701513031,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1126144,
+        "num": 1126144,
+        "word": "很想很想你 掉马",
+        "onboard_time": 1701517714,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 747340,
+        "num": 747340,
+        "word": "大地磁暴预警",
+        "onboard_time": 1701521134,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658682,
+        "num": 658682,
+        "word": "尹正 自卑是男人最好的医美",
+        "onboard_time": 1701520534,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 584384,
+        "num": 584384,
+        "word": "古装女主以后就这么演",
+        "onboard_time": 1701514172,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448032,
+        "num": 448032,
+        "word": "摇粒绒 保暖",
+        "onboard_time": 1701510211,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363222,
+        "num": 363222,
+        "word": "摘耳机 当代脱帽礼",
+        "onboard_time": 1701519273,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474361,
+        "num": 327096,
+        "word": "刘亦菲异域风穿搭",
+        "onboard_time": 1701519872,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 412415,
+        "num": 310617,
+        "word": "张韶涵 第一位大莲花女歌手",
+        "onboard_time": 1701520534,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 372948,
+        "num": 297085,
+        "word": "王俊凯直播",
+        "onboard_time": 1701520713,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281836,
+        "num": 281836,
+        "word": "男子打球猝死工作人员抢下黄金四分钟",
+        "onboard_time": 1701511831,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278815,
+        "num": 278815,
+        "word": "苏翊鸣大跳台世界杯夺冠",
+        "onboard_time": 1701517414,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352334,
+        "num": 277224,
+        "word": "周也 童装汉服",
+        "onboard_time": 1701513392,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274391,
+        "num": 274391,
+        "word": "周一围朱丹新人设",
+        "onboard_time": 1701515854,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230368,
+        "num": 230368,
+        "word": "员工称胖东来惩罚制度很多",
+        "onboard_time": 1701511288,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 226943,
+        "num": 226943,
+        "word": "巨蟹座网络vs现实",
+        "onboard_time": 1701520113,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225263,
+        "num": 225263,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302072,
+        "num": 224057,
+        "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
+        "onboard_time": 1701515554,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285646,
+        "num": 223051,
+        "word": "出生在大城市已经是种幸运",
+        "onboard_time": 1701518734,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228942,
+        "num": 222817,
+        "word": "余景天 大屏",
+        "onboard_time": 1701522695,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221930,
+        "num": 221930,
+        "word": "刘宇宁头套",
+        "onboard_time": 1701508472,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213984,
+        "num": 213984,
+        "word": "羽绒服别乱洗",
+        "onboard_time": 1701521313,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 217147,
+        "num": 213678,
+        "word": "2023MMA获奖名单",
+        "onboard_time": 1701516993,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207177,
+        "num": 207177,
+        "word": "EDG获上海电竞大师赛冠军",
+        "onboard_time": 1701518734,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203589,
+        "num": 203589,
+        "word": "檀健次一直卧底一直失败",
+        "onboard_time": 1701517893,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198374,
+        "num": 198374,
+        "word": "周深 跟着你到天边",
+        "onboard_time": 1701522160,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195972,
+        "num": 195972,
+        "word": "接触艾滋病毒2小时内是黄金阻断时间",
+        "onboard_time": 1701513272,
+        "rank": 29,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 204303,
+        "num": 195631,
+        "word": "U17世界杯决赛",
+        "onboard_time": 1701522576,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194487,
+        "num": 194487,
+        "word": "newjeans五颜六色的红毯",
+        "onboard_time": 1701517173,
+        "rank": 31,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 192203,
+        "num": 192203,
+        "word": "原来冲锋衣是不能机洗的",
+        "onboard_time": 1701514653,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 192427,
+        "num": 190558,
+        "word": "SHINee回来了",
+        "onboard_time": 1701517173,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187679,
+        "num": 187679,
+        "word": "ive 改编",
+        "onboard_time": 1701522093,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189816,
+        "num": 186506,
+        "word": "富豪被拐儿子称身世还没告诉女友",
+        "onboard_time": 1701506852,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185214,
+        "num": 185214,
+        "word": "NCTDREAM MMA大赏",
+        "onboard_time": 1701521019,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181330,
+        "num": 181330,
+        "word": "重庆一军嫂带2岁女儿接退伍丈夫回家",
+        "onboard_time": 1701514472,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180914,
+        "num": 180914,
+        "word": "惠英红说看见许光汉也迷糊",
+        "onboard_time": 1701518852,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176406,
+        "num": 176406,
+        "word": "田曦薇 年画娃娃",
+        "onboard_time": 1701508352,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168174,
+        "num": 168174,
+        "word": "嗑到声音颤抖 嗑到原地起跳",
+        "onboard_time": 1701508951,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151629,
+        "num": 151629,
+        "word": "MMA",
+        "onboard_time": 1701509670,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150784,
+        "num": 150784,
+        "word": "陈楚生你回头看看汪苏泷吧",
+        "onboard_time": 1701500372,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185148,
+        "num": 150005,
+        "word": "ive 年专大赏",
+        "onboard_time": 1701520776,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142098,
+        "num": 142098,
+        "word": "Uzi要回来了吗",
+        "onboard_time": 1701522875,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141826,
+        "num": 141826,
+        "word": "王者荣耀",
+        "onboard_time": 1701522758,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118706,
+        "num": 118706,
+        "word": "周琦回归",
+        "onboard_time": 1701519092,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63037,
+        "num": 111136,
+        "word": "元梦之星官宣定档",
+        "onboard_time": 1701520475,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107925,
+        "num": 107925,
+        "word": "苏翊鸣完成1980",
+        "onboard_time": 1701516270,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104231,
+        "num": 107887,
+        "word": "角色扮演存钱法",
+        "onboard_time": 1701523055,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国关键要读懂中国式现代化#"
+    }
+  }
+}
