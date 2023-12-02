@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701523112818,
+  "endTime": 1701524063589,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -33,6 +33,14 @@
       "onboard_time": 1701513031,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2157247,
+      "num": 2157247,
+      "word": "难哄 白敬亭",
+      "onboard_time": 1701523234,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2140737,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1309159,
+      "num": 1309159,
+      "word": "白鹿 我可太想演电影了",
+      "onboard_time": 1701518915,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1292092,
       "num": 1292092,
       "word": "谢娜报名家长会表演落选了",
@@ -241,14 +257,6 @@
       "onboard_time": 1701413252,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1254779,
-      "num": 1254779,
-      "word": "白鹿 我可太想演电影了",
-      "onboard_time": 1701518915,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1252604,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 816573,
+      "num": 816573,
+      "word": "尹正 自卑是男人最好的医美",
+      "onboard_time": 1701520534,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 811860,
       "num": 811860,
       "word": "排卵后1周是黄体破裂高危期",
@@ -449,6 +465,14 @@
       "onboard_time": 1701511288,
       "rank": 12,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 798956,
+      "num": 798956,
+      "word": "大地磁暴预警",
+      "onboard_time": 1701521134,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 798757,
@@ -523,14 +547,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 747340,
-      "num": 747340,
-      "word": "大地磁暴预警",
-      "onboard_time": 1701521134,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 746697,
       "num": 746697,
       "word": "微信好友上限",
@@ -593,14 +609,6 @@
       "onboard_time": 1701396871,
       "rank": 6,
       "category": "数码,社会新闻"
-    },
-    {
-      "raw_hot": 658682,
-      "num": 658682,
-      "word": "尹正 自卑是男人最好的医美",
-      "onboard_time": 1701520534,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 655147,
@@ -1203,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419311,
+      "num": 347512,
+      "word": "张韶涵 第一位大莲花女歌手",
+      "onboard_time": 1701520534,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 418921,
       "num": 418921,
       "word": "斗罗大陆 结局",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1701505231,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 412415,
-      "num": 327099,
-      "word": "张韶涵 第一位大莲花女歌手",
-      "onboard_time": 1701520534,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 410129,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1701508771,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 382661,
+      "num": 382661,
+      "word": "Uzi要回来了吗",
+      "onboard_time": 1701522875,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 382344,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1701483094,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343768,
+      "num": 247475,
+      "word": "余景天 大屏",
+      "onboard_time": 1701522695,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 342819,
@@ -2427,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236791,
+      "num": 193996,
+      "word": "蒋勤勤00年后的造型",
+      "onboard_time": 1701523956,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 235914,
       "num": 235914,
       "word": "常德交通 你们别太超前了",
@@ -2563,14 +2595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228942,
-      "num": 222817,
-      "word": "余景天 大屏",
-      "onboard_time": 1701522695,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 228532,
       "num": 228532,
       "word": "这个浏览量 我是什么很丑的人吗",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1701436832,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222087,
+      "num": 222087,
+      "word": "羽绒服别乱洗",
+      "onboard_time": 1701521313,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 221696,
@@ -2777,14 +2809,6 @@
       "onboard_time": 1701504093,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213984,
-      "num": 213984,
-      "word": "羽绒服别乱洗",
-      "onboard_time": 1701521313,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 212658,
@@ -3019,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203895,
+      "num": 203895,
+      "word": "王者荣耀",
+      "onboard_time": 1701522758,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203725,
       "num": 203725,
       "word": "TE 抽象传说",
@@ -3073,6 +3105,22 @@
       "onboard_time": 1701399756,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198185,
+      "num": 198185,
+      "word": "奥利 别人的17岁",
+      "onboard_time": 1701523536,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197925,
+      "num": 197925,
+      "word": "谭维维王心凌 带女朋友回家见父母",
+      "onboard_time": 1701523894,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 197717,
@@ -3475,6 +3523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182747,
+      "num": 182747,
+      "word": "魏晨 流星雨又来临",
+      "onboard_time": 1701523832,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182212,
       "num": 182212,
       "word": "肖战   拉夫劳伦香氛",
@@ -3672,6 +3728,14 @@
       "word": "声生不息家年华开播",
       "onboard_time": 1701496174,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171275,
+      "num": 160352,
+      "word": "谁来救救王心凌啊",
+      "onboard_time": 1701524016,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -4123,6 +4187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149190,
+      "num": 1184799,
+      "word": "国家卫健委表示未发现新发传染病",
+      "onboard_time": 1701522093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149036,
+      "num": 149036,
+      "word": "角色扮演存钱法",
+      "onboard_time": 1701523055,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 148232,
       "num": 93439,
       "word": "很想很想你直播",
@@ -4291,22 +4371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142098,
-      "num": 142098,
-      "word": "Uzi要回来了吗",
-      "onboard_time": 1701522875,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 141826,
-      "num": 141826,
-      "word": "王者荣耀",
-      "onboard_time": 1701522758,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 141781,
       "num": 141781,
       "word": "刘诗诗演技 层次感",
@@ -4457,6 +4521,14 @@
       "onboard_time": 1701380775,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133419,
+      "num": 133419,
+      "word": "4000元手机怎么选",
+      "onboard_time": 1701523715,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 132842,
@@ -4817,22 +4889,6 @@
       "onboard_time": 1701455716,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105979,
-      "num": 1184799,
-      "word": "国家卫健委表示未发现新发传染病",
-      "onboard_time": 1701522093,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104231,
-      "num": 107887,
-      "word": "角色扮演存钱法",
-      "onboard_time": 1701523055,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 103713,
@@ -5358,6 +5414,9 @@
     },
     {
       "word": "#习近平向2023年读懂中国国际会议致贺信#"
+    },
+    {
+      "word": "#紧扣一体化和高质量这两个关键词#"
     }
   ]
 }
