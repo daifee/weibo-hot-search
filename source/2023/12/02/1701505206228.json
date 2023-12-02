@@ -1,0 +1,410 @@
+{
+  "runTime": 1701505206228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950903,
+        "num": 950903,
+        "word": "突然发现你男友是亿万富豪之子",
+        "onboard_time": 1701494914,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916804,
+        "num": 916804,
+        "word": "陈志朋回应偷税漏税",
+        "onboard_time": 1701502772,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 16698,
+        "num": 723987,
+        "word": "2023那些给我们力量的人",
+        "onboard_time": 1701476849,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720040,
+        "num": 720040,
+        "word": "宋轶另一个冰淇淋是谁的",
+        "onboard_time": 1701498631,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547195,
+        "num": 547195,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 529711,
+        "num": 529711,
+        "word": "尼格买提中奖",
+        "onboard_time": 1701494793,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504581,
+        "num": 504581,
+        "word": "大冰握手 腱鞘炎",
+        "onboard_time": 1701502415,
+        "rank": 6,
+        "category": "读书作家,网红"
+      },
+      {
+        "raw_hot": 468573,
+        "num": 468573,
+        "word": "刘诗诗警告刘宇宁别让我笑",
+        "onboard_time": 1701501029,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451756,
+        "num": 451756,
+        "word": "ive公主妆造",
+        "onboard_time": 1701503795,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347426,
+        "num": 397780,
+        "word": "女子上访遭信访局长辱骂获赔2万被判敲诈",
+        "onboard_time": 1701499828,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395708,
+        "num": 395708,
+        "word": "韩剧取名 随意",
+        "onboard_time": 1701501692,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379736,
+        "num": 379736,
+        "word": "周杰伦新歌 12月的小品",
+        "onboard_time": 1701501936,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379289,
+        "num": 379289,
+        "word": "MMA红毯",
+        "onboard_time": 1701502230,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345881,
+        "num": 345881,
+        "word": "沈阳洗浴",
+        "onboard_time": 1701502711,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 302800,
+        "num": 302800,
+        "word": "TES官宣Rookie离队",
+        "onboard_time": 1701500192,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 365363,
+        "num": 293710,
+        "word": "迪丽热巴新疆舞获外交部矩阵外网推荐",
+        "onboard_time": 1701499472,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334712,
+        "num": 287246,
+        "word": "陈楚生你回头看看汪苏泷吧",
+        "onboard_time": 1701500372,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250361,
+        "num": 250361,
+        "word": "国家卫健委新闻发布会",
+        "onboard_time": 1701502113,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247197,
+        "num": 247197,
+        "word": "女子实名举报中石化高管婚内出轨",
+        "onboard_time": 1701498572,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217042,
+        "num": 241002,
+        "word": "女子连吃1周笋干小肠被切25厘米",
+        "onboard_time": 1701495873,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234830,
+        "num": 234830,
+        "word": "刘诗诗 磨皮",
+        "onboard_time": 1701489933,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222634,
+        "num": 222634,
+        "word": "MMA直播",
+        "onboard_time": 1701498032,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203497,
+        "num": 203497,
+        "word": "亿万富豪儿子说也会照顾好养家",
+        "onboard_time": 1701500794,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200879,
+        "num": 200879,
+        "word": "深圳父亲寻子23年已有6套房4家公司",
+        "onboard_time": 1701502054,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193018,
+        "num": 193018,
+        "word": "树 我已经不在乎那条虫子了",
+        "onboard_time": 1701498393,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214092,
+        "num": 191793,
+        "word": "罗云熙水龙吟妆发",
+        "onboard_time": 1701504093,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205962,
+        "num": 189079,
+        "word": "山河图 好燃",
+        "onboard_time": 1701493653,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198884,
+        "num": 187680,
+        "word": "刘宇宁 脖子前倾",
+        "onboard_time": 1701489751,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185768,
+        "num": 185768,
+        "word": "爷爷晒暖暖安详离世奶奶转身抹泪",
+        "onboard_time": 1701500192,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175015,
+        "num": 175015,
+        "word": "EDG 上野辅",
+        "onboard_time": 1701496412,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 319355,
+        "num": 172429,
+        "word": "陈志朋员工 会为权益捍卫到底",
+        "onboard_time": 1701505112,
+        "rank": 30,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 358727,
+        "num": 172404,
+        "word": "周一围朱丹你们敢耍老子",
+        "onboard_time": 1701487775,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194504,
+        "num": 172351,
+        "word": "电影热搜",
+        "onboard_time": 1701504571,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167954,
+        "num": 167954,
+        "word": "四川孃孃51岁拿下电竞冠军",
+        "onboard_time": 1701495690,
+        "rank": 33,
+        "category": "社会新闻,电竞"
+      },
+      {
+        "raw_hot": 166653,
+        "num": 166653,
+        "word": "Doublelift宣布退役",
+        "onboard_time": 1701504450,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165065,
+        "num": 165065,
+        "word": "情侣疑因在外旅游住宿感染HPV",
+        "onboard_time": 1701485071,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153441,
+        "num": 153441,
+        "word": "龘这个字怎么读",
+        "onboard_time": 1701483094,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146869,
+        "num": 146869,
+        "word": "2024年总台春晚官宣",
+        "onboard_time": 1701479674,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137865,
+        "num": 137865,
+        "word": "Scout代表了另一种完美",
+        "onboard_time": 1701499891,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133341,
+        "num": 133341,
+        "word": "张若昀拍的唐艺昕",
+        "onboard_time": 1701483994,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131527,
+        "num": 131527,
+        "word": "尖叫之夜 张颂文偷吃猪肉脯",
+        "onboard_time": 1701495152,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130739,
+        "num": 130739,
+        "word": "女子结婚全家族奔赴300多公里送嫁",
+        "onboard_time": 1701500671,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126048,
+        "num": 126048,
+        "word": "1米83自卑女孩靠穿汉服找回自信",
+        "onboard_time": 1701473846,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122545,
+        "num": 122545,
+        "word": "解清帅上学的地方离老家仅50公里",
+        "onboard_time": 1701503073,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122124,
+        "num": 122124,
+        "word": "何蓝逗杨盈公主适配度",
+        "onboard_time": 1701501811,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120018,
+        "num": 120018,
+        "word": "老师误会学生后拿着糖葫芦求和解",
+        "onboard_time": 1701503553,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116344,
+        "num": 116344,
+        "word": "关智斌面部手部二级烧伤",
+        "onboard_time": 1701481293,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111930,
+        "num": 111930,
+        "word": "王俊凯耳钉",
+        "onboard_time": 1701492515,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111103,
+        "num": 111103,
+        "word": "阿娇 女团人多分钱有点难",
+        "onboard_time": 1701495755,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103689,
+        "num": 103689,
+        "word": "东方神明",
+        "onboard_time": 1701502173,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察武警海警总队东海海区指挥部#"
+    }
+  }
+}

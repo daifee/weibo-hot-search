@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701502430899,
+  "endTime": 1701505206228,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -105,6 +105,14 @@
       "onboard_time": 1701440737,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916804,
+      "num": 916804,
+      "word": "陈志朋回应偷税漏税",
+      "onboard_time": 1701502772,
+      "rank": 1,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 855195,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504581,
+      "num": 504581,
+      "word": "大冰握手 腱鞘炎",
+      "onboard_time": 1701502415,
+      "rank": 49,
+      "category": "读书作家,幽默"
+    },
+    {
       "raw_hot": 494760,
       "num": 494760,
       "word": "许嵩近期状态",
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468573,
+      "num": 468573,
+      "word": "刘诗诗警告刘宇宁别让我笑",
+      "onboard_time": 1701501029,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454876,
       "num": 454876,
       "word": "陈楚生你回头看看汪苏泷吧",
@@ -297,6 +321,14 @@
       "onboard_time": 1701495873,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451756,
+      "num": 451756,
+      "word": "ive公主妆造",
+      "onboard_time": 1701503795,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 444164,
@@ -387,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395708,
+      "num": 395708,
+      "word": "韩剧取名 随意",
+      "onboard_time": 1701501692,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 389574,
       "num": 389574,
       "word": "谢依霖 爆红其实很可怕",
@@ -417,6 +457,22 @@
       "onboard_time": 1701481954,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379736,
+      "num": 379736,
+      "word": "周杰伦新歌 12月的小品",
+      "onboard_time": 1701501936,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 379289,
+      "num": 379289,
+      "word": "MMA红毯",
+      "onboard_time": 1701502230,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 371283,
@@ -467,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347426,
+      "num": 397780,
+      "word": "女子上访遭信访局长辱骂获赔2万被判敲诈",
+      "onboard_time": 1701499828,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345881,
+      "num": 345881,
+      "word": "沈阳洗浴",
+      "onboard_time": 1701502711,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 344787,
       "num": 344787,
       "word": "龘这个字怎么读",
@@ -489,14 +561,6 @@
       "onboard_time": 1701477030,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 327927,
-      "num": 231959,
-      "word": "刘诗诗警告刘宇宁别让我笑",
-      "onboard_time": 1701501029,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 322699,
@@ -523,19 +587,19 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 319355,
+      "num": 172429,
+      "word": "陈志朋员工 会为权益捍卫到底",
+      "onboard_time": 1701505112,
+      "rank": 30,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 311755,
       "num": 311755,
       "word": "芒市地震",
       "onboard_time": 1701472341,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310439,
-      "num": 310439,
-      "word": "女子上访遭信访局长辱骂获赔2万被判敲诈",
-      "onboard_time": 1701499828,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -553,14 +617,6 @@
       "onboard_time": 1701489390,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 295158,
-      "num": 248431,
-      "word": "韩剧取名 随意",
-      "onboard_time": 1701501692,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 294381,
@@ -619,14 +675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 267204,
-      "num": 242445,
-      "word": "MMA红毯",
-      "onboard_time": 1701502230,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 264475,
       "num": 264475,
       "word": "痘肌 阿达帕林和克林霉素凝胶",
@@ -657,6 +705,14 @@
       "onboard_time": 1701445476,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250361,
+      "num": 250361,
+      "word": "国家卫健委新闻发布会",
+      "onboard_time": 1701502113,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 249161,
@@ -713,14 +769,6 @@
       "onboard_time": 1701479192,
       "rank": 32,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 244909,
-      "num": 223684,
-      "word": "周杰伦新歌 12月的小品",
-      "onboard_time": 1701501936,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 244685,
@@ -809,6 +857,14 @@
       "onboard_time": 1701489512,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214092,
+      "num": 191793,
+      "word": "罗云熙水龙吟妆发",
+      "onboard_time": 1701504093,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 212478,
@@ -907,6 +963,22 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 203497,
+      "num": 203497,
+      "word": "亿万富豪儿子说也会照顾好养家",
+      "onboard_time": 1701500794,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200879,
+      "num": 200879,
+      "word": "深圳父亲寻子23年已有6套房4家公司",
+      "onboard_time": 1701502054,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200791,
       "num": 185691,
       "word": "女朋友越处越像小朋友了",
@@ -945,6 +1017,14 @@
       "onboard_time": 1701475470,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194504,
+      "num": 172351,
+      "word": "电影热搜",
+      "onboard_time": 1701504571,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 194478,
@@ -1019,14 +1099,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 181011,
-      "num": 181011,
-      "word": "亿万富豪儿子说也会照顾好养家",
-      "onboard_time": 1701500794,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180485,
       "num": 180485,
       "word": "一念关山 我只是宁远舟",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1701483754,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 166653,
+      "num": 166653,
+      "word": "Doublelift宣布退役",
+      "onboard_time": 1701504450,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 165628,
@@ -1249,22 +1329,6 @@
       "onboard_time": 1701442299,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149604,
-      "num": 149604,
-      "word": "国家卫健委新闻发布会",
-      "onboard_time": 1701502113,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 147416,
-      "num": 147416,
-      "word": "深圳父亲寻子23年已有6套房4家公司",
-      "onboard_time": 1701502054,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147206,
@@ -1523,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122545,
+      "num": 122545,
+      "word": "解清帅上学的地方离老家仅50公里",
+      "onboard_time": 1701503073,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121555,
       "num": 121555,
       "word": "文明办回应网格员多次入户纠正蹲地吃饭",
@@ -1539,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120018,
+      "num": 120018,
+      "word": "老师误会学生后拿着糖葫芦求和解",
+      "onboard_time": 1701503553,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119905,
       "num": 119905,
       "word": "脱口秀大会 文字版",
@@ -1553,14 +1633,6 @@
       "onboard_time": 1701492574,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 115982,
-      "num": 115982,
-      "word": "大冰握手 腱鞘炎",
-      "onboard_time": 1701502415,
-      "rank": 49,
-      "category": "读书作家,幽默"
     },
     {
       "raw_hot": 114707,
