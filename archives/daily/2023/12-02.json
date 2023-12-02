@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701487075469,
+  "endTime": 1701488074997,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -24,6 +24,14 @@
       "word": "1米83自卑女孩靠穿汉服找回自信",
       "onboard_time": 1701473846,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1352274,
+      "num": 1352274,
+      "word": "情侣疑因在外旅游住宿感染HPV",
+      "onboard_time": 1701485071,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -56,14 +64,6 @@
       "word": "胖东来员工不想上班请假不允许不批假",
       "onboard_time": 1701440737,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 888654,
-      "num": 888654,
-      "word": "情侣疑因在外旅游住宿感染HPV",
-      "onboard_time": 1701485071,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -203,8 +203,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 407471,
-      "num": 407471,
+      "raw_hot": 418921,
+      "num": 418921,
       "word": "斗罗大陆 结局",
       "onboard_time": 1701485553,
       "rank": 9,
@@ -216,6 +216,14 @@
       "word": "地震快讯",
       "onboard_time": 1701446553,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400577,
+      "num": 400577,
+      "word": "女子产下双胞胎后称小儿子去向不明",
+      "onboard_time": 1701485492,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -249,6 +257,14 @@
       "onboard_time": 1701480631,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365035,
+      "num": 168575,
+      "word": "电脑一定要关闭的设置",
+      "onboard_time": 1701486934,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 361870,
@@ -289,14 +305,6 @@
       "onboard_time": 1701483094,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334225,
-      "num": 334225,
-      "word": "女子产下双胞胎后称小儿子去向不明",
-      "onboard_time": 1701485492,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329450,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253922,
+      "num": 253922,
+      "word": "周一围朱丹你们敢耍老子",
+      "onboard_time": 1701487775,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251955,
       "num": 251955,
       "word": "陈楚生夺冠后最开心的是苏醒",
@@ -427,6 +443,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227045,
+      "num": 227045,
+      "word": "沈月林一 武汉",
+      "onboard_time": 1701487354,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217393,
+      "num": 217393,
+      "word": "周一围不善表达 朱丹不善传达",
+      "onboard_time": 1701482135,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215701,
       "num": 215701,
       "word": "与恶魔有约",
@@ -435,20 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214553,
-      "num": 214553,
-      "word": "周一围不善表达 朱丹不善传达",
-      "onboard_time": 1701482135,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212478,
       "num": 212478,
       "word": "平均年龄60岁的韩国浪姐团",
       "onboard_time": 1701482853,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211273,
+      "num": 211273,
+      "word": "田甜破产老公求复合只为带货",
+      "onboard_time": 1701487230,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 211059,
@@ -555,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186386,
+      "num": 186386,
+      "word": "久坐的人有福了",
+      "onboard_time": 1701484173,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 186112,
       "num": 186112,
       "word": "BLG对战GEN",
@@ -563,12 +603,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 182805,
-      "num": 182805,
-      "word": "久坐的人有福了",
-      "onboard_time": 1701484173,
-      "rank": 40,
-      "category": "运动健身"
+      "raw_hot": 182145,
+      "num": 182145,
+      "word": "浙江一法拍房公告曾非正常死亡5人",
+      "onboard_time": 1701486392,
+      "rank": 37,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 180485,
@@ -609,14 +649,6 @@
       "onboard_time": 1701437797,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172361,
-      "num": 164920,
-      "word": "电脑一定要关闭的设置",
-      "onboard_time": 1701486934,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 168332,
@@ -691,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154689,
-      "num": 154689,
-      "word": "浙江一法拍房公告曾非正常死亡5人",
-      "onboard_time": 1701486392,
-      "rank": 37,
-      "category": "社会新闻,财经"
+      "raw_hot": 155229,
+      "num": 155229,
+      "word": "很想很想你第三天表白",
+      "onboard_time": 1701487534,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 154318,
