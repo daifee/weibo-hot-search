@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701520217312,
+  "endTime": 1701521148918,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -155,6 +155,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1562201,
+      "num": 1562201,
+      "word": "加拿大超级猪入侵美国",
+      "onboard_time": 1701515554,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1557216,
       "num": 1557216,
       "word": "甘肃酒泉地震",
@@ -169,14 +177,6 @@
       "onboard_time": 1701414333,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1535528,
-      "num": 1535528,
-      "word": "加拿大超级猪入侵美国",
-      "onboard_time": 1701515554,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1520153,
@@ -248,6 +248,14 @@
       "word": "宋轶另一个冰淇淋是谁的",
       "onboard_time": 1701498631,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1244667,
+      "num": 1244667,
+      "word": "白鹿 我可太想演电影了",
+      "onboard_time": 1701518915,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -323,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 976172,
-      "num": 976172,
-      "word": "白鹿 我可太想演电影了",
-      "onboard_time": 1701518915,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 974298,
       "num": 974298,
       "word": "陈志朋回应偷税漏税",
@@ -363,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 962350,
+      "num": 962350,
+      "word": "很想很想你 掉马",
+      "onboard_time": 1701517714,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 904631,
       "num": 904631,
       "word": "女子提醒夫妻关远光灯被打致流产",
       "onboard_time": 1701416557,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 899964,
-      "num": 899964,
-      "word": "很想很想你 掉马",
-      "onboard_time": 1701517714,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 895431,
@@ -1163,6 +1163,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 422425,
+      "num": 417588,
+      "word": "刘亦菲异域风穿搭",
+      "onboard_time": 1701519872,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 419885,
       "num": 419885,
       "word": "刘耀文LV酒会跳舞",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1701446553,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405809,
+      "num": 405809,
+      "word": "摘耳机 当代脱帽礼",
+      "onboard_time": 1701519273,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 405636,
@@ -1428,7 +1444,7 @@
     },
     {
       "raw_hot": 362473,
-      "num": 214189,
+      "num": 340971,
       "word": "EDG获上海电竞大师赛冠军",
       "onboard_time": 1701518734,
       "rank": 30,
@@ -1465,6 +1481,14 @@
       "onboard_time": 1701494253,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356713,
+      "num": 356713,
+      "word": "尹正 自卑是男人最好的医美",
+      "onboard_time": 1701520534,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 356632,
@@ -1627,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327099,
+      "num": 327099,
+      "word": "张韶涵 第一位大莲花女歌手",
+      "onboard_time": 1701520534,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 325957,
       "num": 325957,
       "word": "嗑到声音颤抖 嗑到原地起跳",
@@ -1785,14 +1817,6 @@
       "onboard_time": 1701418232,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298063,
-      "num": 298063,
-      "word": "摘耳机 当代脱帽礼",
-      "onboard_time": 1701519273,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 297542,
@@ -2211,6 +2235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258383,
+      "num": 240208,
+      "word": "王俊凯直播",
+      "onboard_time": 1701520713,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257643,
       "num": 257643,
       "word": "李晨被选手激起的水花误伤",
@@ -2393,6 +2425,14 @@
       "onboard_time": 1701514110,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235163,
+      "num": 235163,
+      "word": "ive 年专大赏",
+      "onboard_time": 1701520776,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 234472,
@@ -2683,14 +2723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214591,
-      "num": 214591,
-      "word": "刘亦菲异域风穿搭",
-      "onboard_time": 1701519872,
-      "rank": 28,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 214579,
       "num": 214579,
       "word": "解清帅",
@@ -2891,6 +2923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205868,
+      "num": 205868,
+      "word": "巨蟹座网络vs现实",
+      "onboard_time": 1701520113,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205800,
       "num": 205800,
       "word": "Bin对线chovy",
@@ -2969,6 +3009,14 @@
       "onboard_time": 1701518852,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201301,
+      "num": 180006,
+      "word": "张艺兴巡演收官",
+      "onboard_time": 1701520354,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 201094,
@@ -3344,6 +3392,14 @@
       "word": "陈楚生 接梗刺客",
       "onboard_time": 1701394650,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185485,
+      "num": 170198,
+      "word": "NCTDREAM MMA大赏",
+      "onboard_time": 1701521019,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -4017,14 +4073,6 @@
       "onboard_time": 1701395850,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148746,
-      "num": 140679,
-      "word": "巨蟹座网络vs现实",
-      "onboard_time": 1701520113,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 148232,
@@ -4747,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100391,
+      "num": 162114,
+      "word": "大地磁暴预警",
+      "onboard_time": 1701521134,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99825,
       "num": 1303601,
       "word": "我国纳米金属研究领域取得新突破",
@@ -5129,6 +5185,14 @@
       "onboard_time": 1701458774,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 22314,
+      "num": 203793,
+      "word": "元梦之星官宣定档",
+      "onboard_time": 1701520475,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 21895,
