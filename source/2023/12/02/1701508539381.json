@@ -1,0 +1,410 @@
+{
+  "runTime": 1701508539381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 852114,
+        "num": 852114,
+        "word": "陈志朋回应偷税漏税",
+        "onboard_time": 1701502772,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 550325,
+        "num": 550325,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49912,
+        "num": 540681,
+        "word": "我国纳米金属研究领域取得新突破",
+        "onboard_time": 1701507336,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753221,
+        "num": 539651,
+        "word": "突然发现你男友是亿万富豪之子",
+        "onboard_time": 1701494914,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537300,
+        "num": 537300,
+        "word": "尼格买提中奖",
+        "onboard_time": 1701494793,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 752382,
+        "num": 524553,
+        "word": "宋轶另一个冰淇淋是谁的",
+        "onboard_time": 1701498631,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427843,
+        "num": 427843,
+        "word": "大冰握手 腱鞘炎",
+        "onboard_time": 1701502415,
+        "rank": 6,
+        "category": "读书作家,网红"
+      },
+      {
+        "raw_hot": 416481,
+        "num": 416481,
+        "word": "aespa 哥特玫瑰",
+        "onboard_time": 1701505231,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366064,
+        "num": 366064,
+        "word": "ive公主妆造",
+        "onboard_time": 1701503795,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278768,
+        "num": 331030,
+        "word": "女子上访遭信访局长辱骂获赔2万被判敲诈",
+        "onboard_time": 1701499828,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455156,
+        "num": 327117,
+        "word": "M豆棺材",
+        "onboard_time": 1701506133,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427631,
+        "num": 325751,
+        "word": "富豪被拐儿子称身世还没告诉女友",
+        "onboard_time": 1701506852,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316701,
+        "num": 316701,
+        "word": "韩剧取名 随意",
+        "onboard_time": 1701501692,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315488,
+        "num": 315488,
+        "word": "毛阿敏 周深你是一只小百灵鸟",
+        "onboard_time": 1701506670,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312951,
+        "num": 312951,
+        "word": "沈阳洗浴",
+        "onboard_time": 1701502711,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 294895,
+        "num": 294895,
+        "word": "MMA红毯",
+        "onboard_time": 1701502230,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294306,
+        "num": 294306,
+        "word": "刘诗诗警告刘宇宁别让我笑",
+        "onboard_time": 1701501029,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265807,
+        "num": 265807,
+        "word": "四无婚礼",
+        "onboard_time": 1701507391,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262682,
+        "num": 262682,
+        "word": "白鹿跳了3D",
+        "onboard_time": 1701505590,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253757,
+        "num": 253757,
+        "word": "亿万富豪儿子说也会照顾好养家",
+        "onboard_time": 1701500794,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313720,
+        "num": 253744,
+        "word": "aespa打歌服走红毯",
+        "onboard_time": 1701507151,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225017,
+        "num": 225017,
+        "word": "情侣疑因在外旅游住宿感染HPV",
+        "onboard_time": 1701485071,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204341,
+        "num": 204341,
+        "word": "女子连吃1周笋干小肠被切25厘米",
+        "onboard_time": 1701495873,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294253,
+        "num": 201941,
+        "word": "白鹿蒙古妆",
+        "onboard_time": 1701507151,
+        "rank": 23,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 194266,
+        "num": 194266,
+        "word": "元梦之星 上海",
+        "onboard_time": 1701508112,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280480,
+        "num": 194242,
+        "word": "安宥真MMA开幕词",
+        "onboard_time": 1701507936,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244472,
+        "num": 194214,
+        "word": "周杰伦新歌 12月的小品",
+        "onboard_time": 1701501936,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 241985,
+        "num": 194199,
+        "word": "迪丽热巴新疆舞获外交部矩阵外网推荐",
+        "onboard_time": 1701499472,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194177,
+        "num": 194177,
+        "word": "四川孃孃51岁拿下电竞冠军",
+        "onboard_time": 1701495690,
+        "rank": 28,
+        "category": "社会新闻,电竞"
+      },
+      {
+        "raw_hot": 147096,
+        "num": 194032,
+        "word": "怎样避免呼吸道病原体叠加感染",
+        "onboard_time": 1701506670,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239741,
+        "num": 193314,
+        "word": "陈楚生你回头看看汪苏泷吧",
+        "onboard_time": 1701500372,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222823,
+        "num": 193024,
+        "word": "MMA直播",
+        "onboard_time": 1701498032,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202169,
+        "num": 192507,
+        "word": "山河图 好燃",
+        "onboard_time": 1701493653,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192185,
+        "num": 192185,
+        "word": "爷爷晒暖暖安详离世奶奶转身抹泪",
+        "onboard_time": 1701500192,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170747,
+        "num": 170747,
+        "word": "EDG 上野辅",
+        "onboard_time": 1701496412,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195074,
+        "num": 168559,
+        "word": "刘宇宁头套",
+        "onboard_time": 1701508472,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178683,
+        "num": 167582,
+        "word": "田曦薇 年画娃娃",
+        "onboard_time": 1701508352,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166334,
+        "num": 166334,
+        "word": "TES官宣Rookie离队",
+        "onboard_time": 1701500192,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159167,
+        "num": 159167,
+        "word": "深圳父亲寻子23年已有6套房4家公司",
+        "onboard_time": 1701502054,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159065,
+        "num": 159065,
+        "word": "树 我已经不在乎那条虫子了",
+        "onboard_time": 1701498393,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170554,
+        "num": 157997,
+        "word": "尖叫之夜 张颂文偷吃猪肉脯",
+        "onboard_time": 1701495152,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169738,
+        "num": 156573,
+        "word": "陈志朋员工 会为权益捍卫到底",
+        "onboard_time": 1701505112,
+        "rank": 41,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 166349,
+        "num": 151973,
+        "word": "谭维维 为什么把歌定的那么高",
+        "onboard_time": 1701507691,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160493,
+        "num": 150991,
+        "word": "华晨宇新歌",
+        "onboard_time": 1701508411,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149178,
+        "num": 149178,
+        "word": "罗云熙水龙吟妆发",
+        "onboard_time": 1701504093,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145580,
+        "num": 145580,
+        "word": "刘诗诗 磨皮",
+        "onboard_time": 1701489933,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141078,
+        "num": 141078,
+        "word": "龘这个字怎么读",
+        "onboard_time": 1701483094,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138579,
+        "num": 138579,
+        "word": "AI视频",
+        "onboard_time": 1701507691,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129010,
+        "num": 129010,
+        "word": "国家卫健委新闻发布会",
+        "onboard_time": 1701502113,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128877,
+        "num": 128877,
+        "word": "1米83自卑女孩靠穿汉服找回自信",
+        "onboard_time": 1701473846,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023年读懂中国国际会议致贺信#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701506052723,
+  "endTime": 1701508539381,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455156,
+      "num": 327117,
+      "word": "M豆棺材",
+      "onboard_time": 1701506133,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 454876,
       "num": 454876,
       "word": "陈楚生你回头看看汪苏泷吧",
@@ -355,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 427631,
+      "num": 325751,
+      "word": "富豪被拐儿子称身世还没告诉女友",
+      "onboard_time": 1701506852,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425251,
       "num": 399033,
       "word": "奔跑吧本期破次元同框",
@@ -385,6 +401,14 @@
       "onboard_time": 1701485553,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 416481,
+      "num": 416481,
+      "word": "aespa 哥特玫瑰",
+      "onboard_time": 1701505231,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 405832,
@@ -515,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352481,
-      "num": 352481,
-      "word": "aespa 哥特玫瑰",
-      "onboard_time": 1701505231,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 352087,
       "num": 352087,
       "word": "甘肃发现超亿吨级整装大油田",
@@ -603,6 +619,22 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 315488,
+      "num": 315488,
+      "word": "毛阿敏 周深你是一只小百灵鸟",
+      "onboard_time": 1701506670,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 313720,
+      "num": 253744,
+      "word": "aespa打歌服走红毯",
+      "onboard_time": 1701507151,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 311755,
       "num": 311755,
       "word": "芒市地震",
@@ -632,6 +664,22 @@
       "word": "MMA直播",
       "onboard_time": 1701498032,
       "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 294253,
+      "num": 201941,
+      "word": "白鹿蒙古妆",
+      "onboard_time": 1701507151,
+      "rank": 23,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 280480,
+      "num": 194242,
+      "word": "安宥真MMA开幕词",
+      "onboard_time": 1701507936,
+      "rank": 25,
       "category": "音乐"
     },
     {
@@ -683,12 +731,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 265807,
+      "num": 265807,
+      "word": "四无婚礼",
+      "onboard_time": 1701507391,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264475,
       "num": 264475,
       "word": "痘肌 阿达帕林和克林霉素凝胶",
       "onboard_time": 1701494013,
       "rank": 38,
       "category": "美妆,健康医疗"
+    },
+    {
+      "raw_hot": 262682,
+      "num": 262682,
+      "word": "白鹿跳了3D",
+      "onboard_time": 1701505590,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 261613,
@@ -704,6 +768,14 @@
       "word": "村民称全村土地费存银行后不翼而飞",
       "onboard_time": 1701472822,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253757,
+      "num": 253757,
+      "word": "亿万富豪儿子说也会照顾好养家",
+      "onboard_time": 1701500794,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -979,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203497,
-      "num": 203497,
-      "word": "亿万富豪儿子说也会照顾好养家",
-      "onboard_time": 1701500794,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200791,
       "num": 185691,
       "word": "女朋友越处越像小朋友了",
@@ -1027,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195074,
+      "num": 168559,
+      "word": "刘宇宁头套",
+      "onboard_time": 1701508472,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194504,
       "num": 172351,
       "word": "电影热搜",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1701421954,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 194266,
+      "num": 194266,
+      "word": "元梦之星 上海",
+      "onboard_time": 1701508112,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 192200,
@@ -1083,14 +1163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187651,
-      "num": 168457,
-      "word": "白鹿跳了3D",
-      "onboard_time": 1701505590,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186386,
       "num": 186386,
       "word": "久坐的人有福了",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1701442960,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178683,
+      "num": 167582,
+      "word": "田曦薇 年画娃娃",
+      "onboard_time": 1701508352,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 175929,
@@ -1185,6 +1265,14 @@
       "onboard_time": 1701504450,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166349,
+      "num": 151973,
+      "word": "谭维维 为什么把歌定的那么高",
+      "onboard_time": 1701507691,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 165628,
@@ -1257,6 +1345,14 @@
       "onboard_time": 1701483933,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160493,
+      "num": 150991,
+      "word": "华晨宇新歌",
+      "onboard_time": 1701508411,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 159250,
@@ -1363,6 +1459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 147096,
+      "num": 194032,
+      "word": "怎样避免呼吸道病原体叠加感染",
+      "onboard_time": 1701506670,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 146810,
       "num": 146810,
       "word": "苏醒没去披哥但每个梗都知道",
@@ -1465,6 +1569,14 @@
       "onboard_time": 1701441036,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138579,
+      "num": 138579,
+      "word": "AI视频",
+      "onboard_time": 1701507691,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 137383,
@@ -1943,6 +2055,14 @@
       "num": 1084643,
       "word": "民警反诈劝阻真实现场",
       "onboard_time": 1701436776,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49912,
+      "num": 540681,
+      "word": "我国纳米金属研究领域取得新突破",
+      "onboard_time": 1701507336,
       "rank": 2,
       "category": "社会新闻"
     },
