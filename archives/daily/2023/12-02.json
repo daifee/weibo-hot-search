@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701498093188,
+  "endTime": 1701498850423,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1688663,
+      "num": 1688663,
+      "word": "突然发现你男友是亿万富豪之子",
+      "onboard_time": 1701494914,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1633608,
       "num": 1633608,
       "word": "周一围朱丹你们敢耍老子",
@@ -56,14 +64,6 @@
       "word": "1米83自卑女孩靠穿汉服找回自信",
       "onboard_time": 1701473846,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1350797,
-      "num": 1350797,
-      "word": "突然发现你男友是亿万富豪之子",
-      "onboard_time": 1701494914,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1701489933,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 736469,
+      "num": 736469,
+      "word": "宋轶另一个冰淇淋是谁的",
+      "onboard_time": 1701498631,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 675573,
@@ -267,8 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445112,
-      "num": 445112,
+      "raw_hot": 453341,
+      "num": 453341,
       "word": "女子连吃1周笋干小肠被切25厘米",
       "onboard_time": 1701495873,
       "rank": 9,
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270831,
+      "num": 270831,
+      "word": "EDG 上野辅",
+      "onboard_time": 1701496412,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 264475,
       "num": 264475,
       "word": "痘肌 阿达帕林和克林霉素凝胶",
@@ -553,14 +569,6 @@
       "onboard_time": 1701472822,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257499,
-      "num": 257499,
-      "word": "EDG 上野辅",
-      "onboard_time": 1701496412,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 251955,
@@ -619,20 +627,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 244685,
+      "num": 244685,
+      "word": "四川孃孃51岁拿下电竞冠军",
+      "onboard_time": 1701495690,
+      "rank": 17,
+      "category": "社会新闻,电竞"
+    },
+    {
       "raw_hot": 243822,
       "num": 227432,
       "word": "女子月子期不愿丈夫上班被婆婆怒斥",
       "onboard_time": 1701437256,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238962,
-      "num": 238962,
-      "word": "四川孃孃51岁拿下电竞冠军",
-      "onboard_time": 1701495690,
-      "rank": 17,
-      "category": "社会新闻,电竞"
     },
     {
       "raw_hot": 231377,
@@ -681,6 +689,14 @@
       "onboard_time": 1701445655,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214579,
+      "num": 214579,
+      "word": "解清帅",
+      "onboard_time": 1701494672,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214480,
@@ -739,6 +755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209750,
+      "num": 166609,
+      "word": "MMA直播",
+      "onboard_time": 1701498032,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209490,
       "num": 209490,
       "word": "韩国人骂人太搞笑了",
@@ -761,14 +785,6 @@
       "onboard_time": 1701494552,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 207613,
-      "num": 207613,
-      "word": "解清帅",
-      "onboard_time": 1701494672,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207511,
@@ -995,6 +1011,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 163521,
+      "num": 161769,
+      "word": "树 我已经不在乎那条虫子了",
+      "onboard_time": 1701498393,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161937,
       "num": 161937,
       "word": "gidle这段编舞为何这样",
@@ -1131,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145259,
+      "num": 145259,
+      "word": "炫富 心理需求",
+      "onboard_time": 1701497552,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145097,
       "num": 145097,
       "word": "杜兰特历史得分榜第十",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1701441036,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137383,
+      "num": 137383,
+      "word": "张拿铁 爱面子的东北男人的一生",
+      "onboard_time": 1701498393,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 136150,
@@ -1323,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122745,
+      "num": 113201,
+      "word": "万鹏 一把破剑舞出了大师感",
+      "onboard_time": 1701498514,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121555,
       "num": 121555,
       "word": "文明办回应网格员多次入户纠正蹲地吃饭",
@@ -1347,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118531,
-      "num": 118531,
-      "word": "MMA直播",
-      "onboard_time": 1701498032,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 116963,
       "num": 116963,
       "word": "赛博朋克2077 地铁系统",
@@ -1376,6 +1416,14 @@
       "word": "在东北拍到极光是什么体验",
       "onboard_time": 1701480574,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110752,
+      "num": 110752,
+      "word": "女子实名举报中石化高管婚内出轨",
+      "onboard_time": 1701498572,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1425,14 +1473,6 @@
       "onboard_time": 1701412955,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 105686,
-      "num": 105686,
-      "word": "炫富 心理需求",
-      "onboard_time": 1701497552,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 103713,

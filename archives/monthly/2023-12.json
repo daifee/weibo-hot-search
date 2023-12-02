@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701498093188,
+  "endTime": 1701498850423,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1688663,
+      "num": 1688663,
+      "word": "突然发现你男友是亿万富豪之子",
+      "onboard_time": 1701494914,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1633608,
       "num": 1633608,
       "word": "周一围朱丹你们敢耍老子",
@@ -192,14 +200,6 @@
       "word": "上海独生女继承2亿遗产后被离婚",
       "onboard_time": 1701351038,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1350797,
-      "num": 1350797,
-      "word": "突然发现你男友是亿万富豪之子",
-      "onboard_time": 1701494914,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -441,6 +441,14 @@
       "onboard_time": 1701387208,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 736469,
+      "num": 736469,
+      "word": "宋轶另一个冰淇淋是谁的",
+      "onboard_time": 1701498631,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 731103,
@@ -827,20 +835,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 453341,
+      "num": 453341,
+      "word": "女子连吃1周笋干小肠被切25厘米",
+      "onboard_time": 1701495873,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445690,
       "num": 445690,
       "word": "李荣浩杨丞琳情头",
       "onboard_time": 1701393632,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445112,
-      "num": 445112,
-      "word": "女子连吃1周笋干小肠被切25厘米",
-      "onboard_time": 1701495873,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444164,
@@ -1587,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270831,
+      "num": 270831,
+      "word": "EDG 上野辅",
+      "onboard_time": 1701496412,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 270055,
       "num": 270055,
       "word": "32个城市地铁仅有5城盈利",
@@ -1665,14 +1681,6 @@
       "onboard_time": 1701414993,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257499,
-      "num": 257499,
-      "word": "EDG 上野辅",
-      "onboard_time": 1701496412,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 255153,
@@ -1763,6 +1771,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 244685,
+      "num": 244685,
+      "word": "四川孃孃51岁拿下电竞冠军",
+      "onboard_time": 1701495690,
+      "rank": 17,
+      "category": "社会新闻,电竞"
+    },
+    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "特斯拉交付首批电动皮卡",
@@ -1801,14 +1817,6 @@
       "onboard_time": 1701432153,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238962,
-      "num": 238962,
-      "word": "四川孃孃51岁拿下电竞冠军",
-      "onboard_time": 1701495690,
-      "rank": 17,
-      "category": "社会新闻,电竞"
     },
     {
       "raw_hot": 238486,
@@ -2075,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214579,
+      "num": 214579,
+      "word": "解清帅",
+      "onboard_time": 1701494672,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214480,
       "num": 214480,
       "word": "孙海洋祝福亿万富翁寻子成功",
@@ -2179,6 +2195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209750,
+      "num": 166609,
+      "word": "MMA直播",
+      "onboard_time": 1701498032,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209490,
       "num": 209490,
       "word": "韩国人骂人太搞笑了",
@@ -2225,14 +2249,6 @@
       "onboard_time": 1701439776,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207613,
-      "num": 207613,
-      "word": "解清帅",
-      "onboard_time": 1701494672,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207133,
@@ -2947,6 +2963,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 163521,
+      "num": 161769,
+      "word": "树 我已经不在乎那条虫子了",
+      "onboard_time": 1701498393,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163472,
       "num": 150972,
       "word": "陈妍希杨丞琳潘玮柏合照",
@@ -3227,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145259,
+      "num": 145259,
+      "word": "炫富 心理需求",
+      "onboard_time": 1701497552,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145132,
       "num": 145132,
       "word": "全国十佳公诉人 六名是女性",
@@ -3435,6 +3467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137383,
+      "num": 137383,
+      "word": "张拿铁 爱面子的东北男人的一生",
+      "onboard_time": 1701498393,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 136150,
       "num": 135703,
       "word": "谭松韵的真诚永远拿得出手",
@@ -3619,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122745,
+      "num": 113201,
+      "word": "万鹏 一把破剑舞出了大师感",
+      "onboard_time": 1701498514,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121555,
       "num": 121555,
       "word": "文明办回应网格员多次入户纠正蹲地吃饭",
@@ -3641,14 +3689,6 @@
       "onboard_time": 1701398610,
       "rank": 47,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 118531,
-      "num": 118531,
-      "word": "MMA直播",
-      "onboard_time": 1701498032,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 118148,
@@ -3723,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110752,
+      "num": 110752,
+      "word": "女子实名举报中石化高管婚内出轨",
+      "onboard_time": 1701498572,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110698,
       "num": 110698,
       "word": "化妆公式学习",
@@ -3753,14 +3801,6 @@
       "onboard_time": 1701455716,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105686,
-      "num": 105686,
-      "word": "炫富 心理需求",
-      "onboard_time": 1701497552,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 103713,
