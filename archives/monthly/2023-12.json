@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701479562035,
+  "endTime": 1701480780851,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -179,6 +179,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1099897,
+      "num": 1099897,
+      "word": "2024年总台春晚官宣",
+      "onboard_time": 1701479674,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1095072,
       "num": 1095072,
       "word": "肖战 拉夫劳伦香氛",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 967788,
+      "num": 967788,
+      "word": "税务部门直接给陈志朋打了电话",
+      "onboard_time": 1701477150,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 962840,
       "num": 962840,
       "word": "胖东来员工不想上班请假不允许不批假",
@@ -265,6 +281,14 @@
       "onboard_time": 1701378733,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855195,
+      "num": 855195,
+      "word": "发生高危性行为后如何补救",
+      "onboard_time": 1701478173,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 818687,
@@ -363,20 +387,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 707985,
-      "num": 707985,
-      "word": "税务部门直接给陈志朋打了电话",
-      "onboard_time": 1701477150,
-      "rank": 4,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 680614,
       "num": 680614,
       "word": "十二月狗屎运最旺的星座",
       "onboard_time": 1701389973,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 675573,
+      "num": 675573,
+      "word": "张远小号秒删",
+      "onboard_time": 1701478411,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 672174,
@@ -441,14 +465,6 @@
       "onboard_time": 1701423394,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 623802,
-      "num": 623802,
-      "word": "发生高危性行为后如何补救",
-      "onboard_time": 1701478173,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 619353,
@@ -521,6 +537,14 @@
       "onboard_time": 1701437797,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561116,
+      "num": 440580,
+      "word": "排卵后1周是黄体破裂高危期",
+      "onboard_time": 1701479733,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 554805,
@@ -691,8 +715,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441323,
-      "num": 441323,
+      "raw_hot": 444164,
+      "num": 444164,
       "word": "再见李可乐 你好李焕英",
       "onboard_time": 1701475470,
       "rank": 11,
@@ -963,20 +987,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331619,
-      "num": 331619,
-      "word": "张远小号秒删",
-      "onboard_time": 1701478411,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331601,
       "num": 331601,
       "word": "感染HIV病毒就是得了艾滋病吗",
       "onboard_time": 1701396153,
       "rank": 17,
       "category": "健康医疗,社会议题"
+    },
+    {
+      "raw_hot": 329450,
+      "num": 329450,
+      "word": "张元英生图",
+      "onboard_time": 1701477030,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 323685,
@@ -987,8 +1011,8 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 322547,
-      "num": 322547,
+      "raw_hot": 322699,
+      "num": 322699,
       "word": "地磁暴致黑龙江出现震撼极光",
       "onboard_time": 1701477814,
       "rank": 15,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1701436177,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318569,
-      "num": 318569,
-      "word": "张元英生图",
-      "onboard_time": 1701477030,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 317025,
@@ -1419,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245049,
+      "num": 245049,
+      "word": "恒大地产未能清偿到期债务超3000亿",
+      "onboard_time": 1701479192,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "特斯拉交付首批电动皮卡",
@@ -1715,6 +1739,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 211059,
+      "num": 211059,
+      "word": "国产剧 中年骗婚八卦",
+      "onboard_time": 1701479432,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210924,
       "num": 210924,
       "word": "CBA",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1701400533,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210217,
+      "num": 210217,
+      "word": "2024总台春晚主题主标识发布",
+      "onboard_time": 1701480513,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 208472,
@@ -2459,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154335,
+      "num": 154335,
+      "word": "韩国人骂人太搞笑了",
+      "onboard_time": 1701480754,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153073,
       "num": 91617,
       "word": "张译 南极拒绝合影事件",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1701436177,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146968,
+      "num": 146968,
+      "word": "水龙吟开机",
+      "onboard_time": 1701480631,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 145132,
@@ -2659,14 +2715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139009,
-      "num": 139009,
-      "word": "恒大地产未能清偿到期债务超3000亿",
-      "onboard_time": 1701479192,
-      "rank": 32,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 138849,
       "num": 138849,
       "word": "三代鹿人 看再见李可乐哭成狗",
@@ -2787,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126750,
+      "num": 126750,
+      "word": "血栓最怕这5类食物",
+      "onboard_time": 1701480754,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126355,
       "num": 319819,
       "word": "一次眨眼的时间世界发生了什么",
@@ -2817,14 +2873,6 @@
       "onboard_time": 1701467774,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125496,
-      "num": 125496,
-      "word": "国产剧 中年骗婚八卦",
-      "onboard_time": 1701479432,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 125462,
@@ -2921,6 +2969,14 @@
       "onboard_time": 1701352837,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 110846,
+      "num": 110846,
+      "word": "在东北拍到极光是什么体验",
+      "onboard_time": 1701480574,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109482,
@@ -3196,7 +3252,7 @@
     },
     {
       "raw_hot": 50605,
-      "num": 841535,
+      "num": 1024562,
       "word": "民警反诈劝阻真实现场",
       "onboard_time": 1701436776,
       "rank": 8,

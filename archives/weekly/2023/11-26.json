@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701479562035,
+  "endTime": 1701480780851,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -1275,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1099897,
+      "num": 1099897,
+      "word": "2024年总台春晚官宣",
+      "onboard_time": 1701479674,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1096109,
       "num": 1096109,
       "word": "B太 我被漠河人留住了",
@@ -1579,6 +1587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 967788,
+      "num": 967788,
+      "word": "税务部门直接给陈志朋打了电话",
+      "onboard_time": 1701477150,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 966007,
       "num": 365993,
       "word": "金钟大女儿这么大了",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1701140196,
       "rank": 16,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 855195,
+      "num": 855195,
+      "word": "发生高危性行为后如何补救",
+      "onboard_time": 1701478173,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 851855,
@@ -2387,14 +2411,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 707985,
-      "num": 707985,
-      "word": "税务部门直接给陈志朋打了电话",
-      "onboard_time": 1701477150,
-      "rank": 4,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 707897,
       "num": 580307,
       "word": "杨洋系个腰带吧",
@@ -2513,6 +2529,14 @@
       "onboard_time": 1701251977,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 675573,
+      "num": 675573,
+      "word": "张远小号秒删",
+      "onboard_time": 1701478411,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 674601,
@@ -2937,14 +2961,6 @@
       "onboard_time": 1701009099,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 623802,
-      "num": 623802,
-      "word": "发生高危性行为后如何补救",
-      "onboard_time": 1701478173,
-      "rank": 6,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 621779,
@@ -3393,6 +3409,14 @@
       "onboard_time": 1700970757,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 561116,
+      "num": 440580,
+      "word": "排卵后1周是黄体破裂高危期",
+      "onboard_time": 1701479733,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 560559,
@@ -4619,6 +4643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444164,
+      "num": 444164,
+      "word": "再见李可乐 你好李焕英",
+      "onboard_time": 1701475470,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 443549,
       "num": 443549,
       "word": "国考数量 全蒙",
@@ -4657,14 +4689,6 @@
       "onboard_time": 1701215369,
       "rank": 14,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 441323,
-      "num": 441323,
-      "word": "再见李可乐 你好李焕英",
-      "onboard_time": 1701475470,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 440110,
@@ -6299,14 +6323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331619,
-      "num": 331619,
-      "word": "张远小号秒删",
-      "onboard_time": 1701478411,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331601,
       "num": 331601,
       "word": "感染HIV病毒就是得了艾滋病吗",
@@ -6353,6 +6369,14 @@
       "onboard_time": 1701269856,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329450,
+      "num": 329450,
+      "word": "张元英生图",
+      "onboard_time": 1701477030,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 328564,
@@ -6419,8 +6443,8 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 322547,
-      "num": 322547,
+      "raw_hot": 322699,
+      "num": 322699,
       "word": "地磁暴致黑龙江出现震撼极光",
       "onboard_time": 1701477814,
       "rank": 15,
@@ -6553,14 +6577,6 @@
       "onboard_time": 1700974472,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318569,
-      "num": 318569,
-      "word": "张元英生图",
-      "onboard_time": 1701477030,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 318408,
@@ -8867,6 +8883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245049,
+      "num": 245049,
+      "word": "恒大地产未能清偿到期债务超3000亿",
+      "onboard_time": 1701479192,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 244838,
       "num": 244838,
       "word": "韩国妆造 扬长避短",
@@ -10347,6 +10371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211059,
+      "num": 211059,
+      "word": "国产剧 中年骗婚八卦",
+      "onboard_time": 1701479432,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210924,
       "num": 210924,
       "word": "CBA",
@@ -10385,6 +10417,14 @@
       "onboard_time": 1701400533,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210217,
+      "num": 210217,
+      "word": "2024总台春晚主题主标识发布",
+      "onboard_time": 1701480513,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 210201,
@@ -14179,6 +14219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154335,
+      "num": 154335,
+      "word": "韩国人骂人太搞笑了",
+      "onboard_time": 1701480754,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153952,
       "num": 153952,
       "word": "这个杀手有点儿萌",
@@ -14592,6 +14640,14 @@
       "word": "拳拳到肉的打戏",
       "onboard_time": 1701182616,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146968,
+      "num": 146968,
+      "word": "水龙吟开机",
+      "onboard_time": 1701480631,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -15025,14 +15081,6 @@
       "onboard_time": 1701080435,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139009,
-      "num": 139009,
-      "word": "恒大地产未能清偿到期债务超3000亿",
-      "onboard_time": 1701479192,
-      "rank": 32,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 138939,
@@ -15483,6 +15531,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 126750,
+      "num": 126750,
+      "word": "血栓最怕这5类食物",
+      "onboard_time": 1701480754,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126643,
       "num": 126643,
       "word": "初二女生创新纪录拿下全科第一",
@@ -15521,14 +15577,6 @@
       "onboard_time": 1701467774,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125496,
-      "num": 125496,
-      "word": "国产剧 中年骗婚八卦",
-      "onboard_time": 1701479432,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 125489,
@@ -15897,6 +15945,14 @@
       "onboard_time": 1701075695,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110846,
+      "num": 110846,
+      "word": "在东北拍到极光是什么体验",
+      "onboard_time": 1701480574,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110822,
@@ -16980,7 +17036,7 @@
     },
     {
       "raw_hot": 50605,
-      "num": 841535,
+      "num": 1024562,
       "word": "民警反诈劝阻真实现场",
       "onboard_time": 1701436776,
       "rank": 8,

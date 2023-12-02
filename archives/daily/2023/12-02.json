@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701479562035,
+  "endTime": 1701480780851,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1099897,
+      "num": 1099897,
+      "word": "2024年总台春晚官宣",
+      "onboard_time": 1701479674,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1012873,
       "num": 1012873,
       "word": "中国气象局发布大地磁暴预警",
       "onboard_time": 1701438157,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 967788,
+      "num": 967788,
+      "word": "税务部门直接给陈志朋打了电话",
+      "onboard_time": 1701477150,
+      "rank": 4,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 962840,
@@ -35,12 +51,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707985,
-      "num": 707985,
-      "word": "税务部门直接给陈志朋打了电话",
-      "onboard_time": 1701477150,
-      "rank": 4,
-      "category": "艺人,社会新闻"
+      "raw_hot": 855195,
+      "num": 855195,
+      "word": "发生高危性行为后如何补救",
+      "onboard_time": 1701478173,
+      "rank": 6,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 675573,
+      "num": 675573,
+      "word": "张远小号秒删",
+      "onboard_time": 1701478411,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 649387,
@@ -75,20 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623802,
-      "num": 623802,
-      "word": "发生高危性行为后如何补救",
-      "onboard_time": 1701478173,
-      "rank": 6,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 591494,
       "num": 591494,
       "word": "唐嫣cos狂飙大嫂",
       "onboard_time": 1701430534,
       "rank": 5,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 561116,
+      "num": 440580,
+      "word": "排卵后1周是黄体破裂高危期",
+      "onboard_time": 1701479733,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 535737,
@@ -123,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441323,
-      "num": 441323,
+      "raw_hot": 444164,
+      "num": 444164,
       "word": "再见李可乐 你好李焕英",
       "onboard_time": 1701475470,
       "rank": 11,
@@ -187,28 +211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331619,
-      "num": 331619,
-      "word": "张远小号秒删",
-      "onboard_time": 1701478411,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 322547,
-      "num": 322547,
-      "word": "地磁暴致黑龙江出现震撼极光",
-      "onboard_time": 1701477814,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318569,
-      "num": 318569,
+      "raw_hot": 329450,
+      "num": 329450,
       "word": "张元英生图",
       "onboard_time": 1701477030,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322699,
+      "num": 322699,
+      "word": "地磁暴致黑龙江出现震撼极光",
+      "onboard_time": 1701477814,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311755,
@@ -275,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245049,
+      "num": 245049,
+      "word": "恒大地产未能清偿到期债务超3000亿",
+      "onboard_time": 1701479192,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 243822,
       "num": 227432,
       "word": "女子月子期不愿丈夫上班被婆婆怒斥",
@@ -289,6 +313,22 @@
       "onboard_time": 1701445655,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211059,
+      "num": 211059,
+      "word": "国产剧 中年骗婚八卦",
+      "onboard_time": 1701479432,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210217,
+      "num": 210217,
+      "word": "2024总台春晚主题主标识发布",
+      "onboard_time": 1701480513,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 207511,
@@ -419,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154335,
+      "num": 154335,
+      "word": "韩国人骂人太搞笑了",
+      "onboard_time": 1701480754,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152481,
       "num": 152481,
       "word": "易烊千玺vlog i人常态",
@@ -433,6 +481,14 @@
       "onboard_time": 1701442299,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146968,
+      "num": 146968,
+      "word": "水龙吟开机",
+      "onboard_time": 1701480631,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 145343,
@@ -457,14 +513,6 @@
       "onboard_time": 1701477814,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139009,
-      "num": 139009,
-      "word": "恒大地产未能清偿到期债务超3000亿",
-      "onboard_time": 1701479192,
-      "rank": 32,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 138772,
@@ -531,20 +579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126750,
+      "num": 126750,
+      "word": "血栓最怕这5类食物",
+      "onboard_time": 1701480754,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125507,
       "num": 125507,
       "word": "生鲜灯叫停后商家希望统一用灯",
       "onboard_time": 1701467774,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125496,
-      "num": 125496,
-      "word": "国产剧 中年骗婚八卦",
-      "onboard_time": 1701479432,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 125234,
@@ -577,6 +625,14 @@
       "onboard_time": 1701474867,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110846,
+      "num": 110846,
+      "word": "在东北拍到极光是什么体验",
+      "onboard_time": 1701480574,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109482,
@@ -804,7 +860,7 @@
     },
     {
       "raw_hot": 50605,
-      "num": 841535,
+      "num": 1024562,
       "word": "民警反诈劝阻真实现场",
       "onboard_time": 1701436776,
       "rank": 2,
