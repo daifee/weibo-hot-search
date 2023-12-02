@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701509656725,
+  "endTime": 1701512228515,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -235,6 +235,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1119431,
+      "num": 1119431,
+      "word": "摇粒绒 保暖",
+      "onboard_time": 1701510211,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1095072,
       "num": 1095072,
       "word": "肖战 拉夫劳伦香氛",
@@ -369,6 +377,14 @@
       "onboard_time": 1701489751,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 821076,
+      "num": 821076,
+      "word": "田曦薇 年画娃娃",
+      "onboard_time": 1701508352,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 818687,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569851,
+      "num": 569851,
+      "word": "四无婚礼",
+      "onboard_time": 1701507391,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 568497,
       "num": 568497,
       "word": "一念关山 替身马赛克",
@@ -691,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 538055,
-      "num": 538055,
-      "word": "田曦薇 年画娃娃",
-      "onboard_time": 1701508352,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 545513,
+      "num": 545513,
+      "word": "MMA",
+      "onboard_time": 1701509670,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 535737,
@@ -907,8 +931,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 447765,
+      "num": 447765,
+      "word": "员工称胖东来惩罚制度很多",
+      "onboard_time": 1701511288,
+      "rank": 12,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 446444,
-      "num": 358623,
+      "num": 395075,
       "word": "富豪被拐儿子称身世还没告诉女友",
       "onboard_time": 1701506852,
       "rank": 11,
@@ -961,6 +993,14 @@
       "onboard_time": 1701492515,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 430453,
+      "num": 182632,
+      "word": "因为太耐用导致自己快失传",
+      "onboard_time": 1701510511,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 429342,
@@ -1049,14 +1089,6 @@
       "onboard_time": 1701426693,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407495,
-      "num": 407495,
-      "word": "四无婚礼",
-      "onboard_time": 1701507391,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 405832,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1701431253,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383299,
+      "num": 383299,
+      "word": "iPhone隐藏功能",
+      "onboard_time": 1701508771,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 381706,
@@ -1379,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332986,
-      "num": 170472,
-      "word": "iPhone隐藏功能",
-      "onboard_time": 1701508771,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 331601,
       "num": 331601,
       "word": "感染HIV病毒就是得了艾滋病吗",
@@ -1411,20 +1443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325957,
+      "num": 325957,
+      "word": "嗑到声音颤抖 嗑到原地起跳",
+      "onboard_time": 1701508951,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323685,
       "num": 323685,
       "word": "陈志朋觉得直播带货很low",
       "onboard_time": 1701425613,
       "rank": 16,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 323633,
-      "num": 323633,
-      "word": "嗑到声音颤抖 嗑到原地起跳",
-      "onboard_time": 1701508951,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 322699,
@@ -1555,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303710,
+      "num": 871521,
+      "word": "四川孃孃51岁拿下电竞冠军",
+      "onboard_time": 1701495690,
+      "rank": 17,
+      "category": "社会新闻,电竞"
+    },
+    {
       "raw_hot": 302705,
       "num": 302705,
       "word": "女子扎铁还债170万出圈后又添14万",
@@ -1604,7 +1644,7 @@
     },
     {
       "raw_hot": 294253,
-      "num": 201941,
+      "num": 244301,
       "word": "白鹿蒙古妆",
       "onboard_time": 1701507151,
       "rank": 23,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1701474629,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275118,
+      "num": 275118,
+      "word": "RIIZE 好歹毒cody",
+      "onboard_time": 1701511353,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 274839,
@@ -2027,14 +2075,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 244685,
-      "num": 244685,
-      "word": "四川孃孃51岁拿下电竞冠军",
-      "onboard_time": 1701495690,
-      "rank": 17,
-      "category": "社会新闻,电竞"
-    },
-    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "特斯拉交付首批电动皮卡",
@@ -2139,6 +2179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 232183,
+      "num": 232183,
+      "word": "185男大抱着滑",
+      "onboard_time": 1701509071,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231631,
       "num": 231631,
       "word": "朋友家一年的开销",
@@ -2227,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224780,
+      "num": 721547,
+      "word": "东北小学连续40年浇冰场教学生滑冰",
+      "onboard_time": 1701510633,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223090,
       "num": 223090,
       "word": "宁远舟答应给任如意生孩子了",
@@ -2272,6 +2328,14 @@
       "word": "张小斐官宣微博视界大会",
       "onboard_time": 1701418713,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217622,
+      "num": 217622,
+      "word": "周也 甜妹统治区",
+      "onboard_time": 1701510572,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -2417,6 +2481,14 @@
       "onboard_time": 1701412774,
       "rank": 24,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 211119,
+      "num": 175619,
+      "word": "张元英香槟礼裙",
+      "onboard_time": 1701509372,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 211059,
@@ -2577,14 +2649,6 @@
       "onboard_time": 1701424475,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204265,
-      "num": 165123,
-      "word": "张元英香槟礼裙",
-      "onboard_time": 1701509372,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 204228,
@@ -2819,6 +2883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189024,
+      "num": 189024,
+      "word": "这个家不能没有Chovy",
+      "onboard_time": 1701511652,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188935,
       "num": 188935,
       "word": "王源剧组练字手写歌词",
@@ -3035,6 +3107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176159,
+      "num": 176159,
+      "word": "元梦之星发布会",
+      "onboard_time": 1701511891,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175929,
       "num": 175929,
       "word": "张凌赫嫩牛时期拍摄花絮",
@@ -3153,14 +3233,6 @@
       "onboard_time": 1701496174,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171107,
-      "num": 171107,
-      "word": "185男大抱着滑",
-      "onboard_time": 1701509071,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 170432,
@@ -3313,6 +3385,14 @@
       "onboard_time": 1701486273,
       "rank": 32,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 164077,
+      "num": 164077,
+      "word": "朴元彬 吉他Solo",
+      "onboard_time": 1701509972,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 163472,
@@ -3915,6 +3995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132166,
+      "num": 132166,
+      "word": "LPL纪录片JDG篇",
+      "onboard_time": 1701511172,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131584,
       "num": 131584,
       "word": "真的到此为止了吗 菩萨",
@@ -4043,12 +4131,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124321,
+      "num": 124321,
+      "word": "男子打球猝死工作人员抢下黄金四分钟",
+      "onboard_time": 1701511831,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123656,
       "num": 103561,
       "word": "檀健次说抱周也上麦",
       "onboard_time": 1701362306,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123497,
+      "num": 633584,
+      "word": "成都草丛中捕获一颗熊猫菜",
+      "onboard_time": 1701510633,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123287,
@@ -4267,6 +4371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99825,
+      "num": 844586,
+      "word": "我国纳米金属研究领域取得新突破",
+      "onboard_time": 1701507336,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97725,
       "num": 97725,
       "word": "全国多地现极光",
@@ -4369,14 +4481,6 @@
       "onboard_time": 1701451163,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81555,
-      "num": 640777,
-      "word": "我国纳米金属研究领域取得新突破",
-      "onboard_time": 1701507336,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80983,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1701512228515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1119431,
+        "num": 1119431,
+        "word": "摇粒绒 保暖",
+        "onboard_time": 1701510211,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303710,
+        "num": 871521,
+        "word": "四川孃孃51岁拿下电竞冠军",
+        "onboard_time": 1701495690,
+        "rank": 1,
+        "category": "社会新闻,电竞"
+      },
+      {
+        "raw_hot": 99825,
+        "num": 844586,
+        "word": "我国纳米金属研究领域取得新突破",
+        "onboard_time": 1701507336,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821076,
+        "num": 821076,
+        "word": "田曦薇 年画娃娃",
+        "onboard_time": 1701508352,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224780,
+        "num": 721547,
+        "word": "东北小学连续40年浇冰场教学生滑冰",
+        "onboard_time": 1701510633,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658055,
+        "num": 658055,
+        "word": "陈志朋回应偷税漏税",
+        "onboard_time": 1701502772,
+        "rank": 5,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 123497,
+        "num": 633584,
+        "word": "成都草丛中捕获一颗熊猫菜",
+        "onboard_time": 1701510633,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619710,
+        "num": 619710,
+        "word": "M豆棺材",
+        "onboard_time": 1701506133,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 569851,
+        "num": 569851,
+        "word": "四无婚礼",
+        "onboard_time": 1701507391,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 545513,
+        "num": 545513,
+        "word": "MMA",
+        "onboard_time": 1701509670,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 728712,
+        "num": 524373,
+        "word": "宋轶另一个冰淇淋是谁的",
+        "onboard_time": 1701498631,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486885,
+        "num": 486885,
+        "word": "尼格买提中奖",
+        "onboard_time": 1701494793,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447765,
+        "num": 447765,
+        "word": "员工称胖东来惩罚制度很多",
+        "onboard_time": 1701511288,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 395075,
+        "num": 395075,
+        "word": "富豪被拐儿子称身世还没告诉女友",
+        "onboard_time": 1701506852,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383299,
+        "num": 383299,
+        "word": "iPhone隐藏功能",
+        "onboard_time": 1701508771,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 369364,
+        "num": 369364,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 346823,
+        "num": 346823,
+        "word": "突然发现你男友是亿万富豪之子",
+        "onboard_time": 1701494914,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325957,
+        "num": 325957,
+        "word": "嗑到声音颤抖 嗑到原地起跳",
+        "onboard_time": 1701508951,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275972,
+        "num": 275972,
+        "word": "刘宇宁头套",
+        "onboard_time": 1701508472,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275118,
+        "num": 275118,
+        "word": "RIIZE 好歹毒cody",
+        "onboard_time": 1701511353,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258521,
+        "num": 258521,
+        "word": "ive公主妆造",
+        "onboard_time": 1701503795,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244683,
+        "num": 244683,
+        "word": "韩剧取名 随意",
+        "onboard_time": 1701501692,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244301,
+        "num": 244301,
+        "word": "白鹿蒙古妆",
+        "onboard_time": 1701507151,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 236296,
+        "num": 236296,
+        "word": "刘诗诗警告刘宇宁别让我笑",
+        "onboard_time": 1701501029,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232183,
+        "num": 232183,
+        "word": "185男大抱着滑",
+        "onboard_time": 1701509071,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228384,
+        "num": 228384,
+        "word": "aespa 哥特玫瑰",
+        "onboard_time": 1701505231,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217622,
+        "num": 217622,
+        "word": "周也 甜妹统治区",
+        "onboard_time": 1701510572,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208674,
+        "num": 208674,
+        "word": "女子上访遭信访局长辱骂获赔2万被判敲诈",
+        "onboard_time": 1701499828,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189024,
+        "num": 189024,
+        "word": "这个家不能没有Chovy",
+        "onboard_time": 1701511652,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182797,
+        "num": 182797,
+        "word": "情侣疑因在外旅游住宿感染HPV",
+        "onboard_time": 1701485071,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430453,
+        "num": 182632,
+        "word": "因为太耐用导致自己快失传",
+        "onboard_time": 1701510511,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 176159,
+        "num": 176159,
+        "word": "元梦之星发布会",
+        "onboard_time": 1701511891,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220874,
+        "num": 176096,
+        "word": "aespa打歌服走红毯",
+        "onboard_time": 1701507151,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211119,
+        "num": 175619,
+        "word": "张元英香槟礼裙",
+        "onboard_time": 1701509372,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207217,
+        "num": 175272,
+        "word": "迪丽热巴新疆舞获外交部矩阵外网推荐",
+        "onboard_time": 1701499472,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185509,
+        "num": 174761,
+        "word": "陈楚生你回头看看汪苏泷吧",
+        "onboard_time": 1701500372,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174740,
+        "num": 174740,
+        "word": "MMA直播",
+        "onboard_time": 1701498032,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172389,
+        "num": 172389,
+        "word": "大冰握手 腱鞘炎",
+        "onboard_time": 1701502415,
+        "rank": 37,
+        "category": "读书作家,网红"
+      },
+      {
+        "raw_hot": 164077,
+        "num": 164077,
+        "word": "朴元彬 吉他Solo",
+        "onboard_time": 1701509972,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146442,
+        "num": 159258,
+        "word": "女子连吃1周笋干小肠被切25厘米",
+        "onboard_time": 1701495873,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157561,
+        "num": 157561,
+        "word": "安宥真MMA开幕词",
+        "onboard_time": 1701507936,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156672,
+        "num": 156672,
+        "word": "毛阿敏 周深你是一只小百灵鸟",
+        "onboard_time": 1701506670,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149120,
+        "num": 149120,
+        "word": "刘诗诗 磨皮",
+        "onboard_time": 1701489933,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144292,
+        "num": 144292,
+        "word": "白鹿跳了3D",
+        "onboard_time": 1701505590,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140846,
+        "num": 140846,
+        "word": "尖叫之夜 张颂文偷吃猪肉脯",
+        "onboard_time": 1701495152,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132166,
+        "num": 132166,
+        "word": "LPL纪录片JDG篇",
+        "onboard_time": 1701511172,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131827,
+        "num": 131827,
+        "word": "TES官宣Rookie离队",
+        "onboard_time": 1701500192,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124321,
+        "num": 124321,
+        "word": "男子打球猝死工作人员抢下黄金四分钟",
+        "onboard_time": 1701511831,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122681,
+        "num": 122681,
+        "word": "EDG 上野辅",
+        "onboard_time": 1701496412,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107088,
+        "num": 107088,
+        "word": "爷爷晒暖暖安详离世奶奶转身抹泪",
+        "onboard_time": 1701500192,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察武警海警总队东海海区指挥部#"
+    }
+  }
+}
