@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701473677675,
+  "endTime": 1701479562035,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -9,6 +9,14 @@
       "onboard_time": 1701436115,
       "rank": 0,
       "category": "自然"
+    },
+    {
+      "raw_hot": 1425653,
+      "num": 1425653,
+      "word": "1米83自卑女孩靠穿汉服找回自信",
+      "onboard_time": 1701473846,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1012873,
@@ -27,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707985,
+      "num": 707985,
+      "word": "税务部门直接给陈志朋打了电话",
+      "onboard_time": 1701477150,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 649387,
       "num": 649387,
       "word": "熬夜时身体在经历炎症风暴",
@@ -35,12 +51,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 646735,
+      "num": 444295,
+      "word": "陈志朋办歌友会实际只来了一百人",
+      "onboard_time": 1701474629,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 643402,
+      "num": 643402,
+      "word": "儿子和亿万富豪父亲相认称没反应过来",
+      "onboard_time": 1701475709,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633048,
       "num": 633048,
       "word": "甘肃酒泉地震",
       "onboard_time": 1701443258,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623802,
+      "num": 623802,
+      "word": "发生高危性行为后如何补救",
+      "onboard_time": 1701478173,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 591494,
@@ -75,6 +115,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470803,
+      "num": 470803,
+      "word": "深夜直播间里卖惨的老年人",
+      "onboard_time": 1701474867,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441323,
+      "num": 441323,
+      "word": "再见李可乐 你好李焕英",
+      "onboard_time": 1701475470,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 419722,
       "num": 337123,
       "word": "王鹤棣 纹身",
@@ -89,6 +145,14 @@
       "onboard_time": 1701446553,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387576,
+      "num": 387576,
+      "word": "张纪中曝光前妻隐私被判罚2万",
+      "onboard_time": 1701473244,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 361870,
@@ -107,11 +171,51 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354722,
+      "num": 354722,
+      "word": "独生女被离婚案男方分到小部分财产后撤诉",
+      "onboard_time": 1701474685,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352087,
       "num": 352087,
       "word": "甘肃发现超亿吨级整装大油田",
       "onboard_time": 1701440079,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331619,
+      "num": 331619,
+      "word": "张远小号秒删",
+      "onboard_time": 1701478411,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322547,
+      "num": 322547,
+      "word": "地磁暴致黑龙江出现震撼极光",
+      "onboard_time": 1701477814,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318569,
+      "num": 318569,
+      "word": "张元英生图",
+      "onboard_time": 1701477030,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 311755,
+      "num": 311755,
+      "word": "芒市地震",
+      "onboard_time": 1701472341,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -123,19 +227,19 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 276388,
+      "num": 276388,
+      "word": "飞猪要求退票用户开情侣关系证明",
+      "onboard_time": 1701474629,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275960,
       "num": 275960,
       "word": "小猫吃公司20根虫草主人含泪赔2千",
       "onboard_time": 1701436537,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274307,
-      "num": 274307,
-      "word": "芒市地震",
-      "onboard_time": 1701472341,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -171,16 +275,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246373,
-      "num": 246373,
-      "word": "张纪中曝光前妻隐私被判罚2万",
-      "onboard_time": 1701473244,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243822,
-      "num": 184663,
+      "num": 227432,
       "word": "女子月子期不愿丈夫上班被婆婆怒斥",
       "onboard_time": 1701437256,
       "rank": 21,
@@ -227,6 +323,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196394,
+      "num": 196394,
+      "word": "梅西说不会参加美加墨世界杯",
+      "onboard_time": 1701476970,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196248,
+      "num": 196248,
+      "word": "韩版以家人之名合照",
+      "onboard_time": 1701475470,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194478,
       "num": 194478,
       "word": "中S和汪大菲",
@@ -235,8 +347,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 186259,
-      "num": 186259,
+      "raw_hot": 188015,
+      "num": 188015,
       "word": "肖战长发背头",
       "onboard_time": 1701455417,
       "rank": 11,
@@ -259,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175929,
+      "num": 175929,
+      "word": "张凌赫嫩牛时期拍摄花絮",
+      "onboard_time": 1701476190,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175723,
       "num": 175723,
       "word": "在暴雪时分",
@@ -273,6 +393,14 @@
       "onboard_time": 1701437797,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165628,
+      "num": 165628,
+      "word": "一念关山",
+      "onboard_time": 1701479015,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 164734,
@@ -315,6 +443,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140371,
+      "num": 140371,
+      "word": "陈奕迅成都演唱会首场安可曲",
+      "onboard_time": 1701477571,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139668,
+      "num": 139668,
+      "word": "我追一念关山belike",
+      "onboard_time": 1701477814,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139009,
+      "num": 139009,
+      "word": "恒大地产未能清偿到期债务超3000亿",
+      "onboard_time": 1701479192,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 138772,
       "num": 138772,
       "word": "Bin对线chovy",
@@ -329,6 +481,14 @@
       "onboard_time": 1701439657,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134980,
+      "num": 134980,
+      "word": "班主任收集家长工作的画面",
+      "onboard_time": 1701476970,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 133484,
@@ -347,6 +507,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132693,
+      "num": 132693,
+      "word": "肯德基推出炸鸡味香水",
+      "onboard_time": 1701473002,
+      "rank": 30,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 132350,
+      "num": 132350,
+      "word": "淋巴结肿大是什么原因",
+      "onboard_time": 1701478773,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 128408,
       "num": 128408,
       "word": "张力尹发型",
@@ -363,12 +539,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125496,
+      "num": 125496,
+      "word": "国产剧 中年骗婚八卦",
+      "onboard_time": 1701479432,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125234,
+      "num": 125234,
+      "word": "利雅得新月3比0利雅得胜利",
+      "onboard_time": 1701479253,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121555,
+      "num": 121555,
+      "word": "文明办回应网格员多次入户纠正蹲地吃饭",
+      "onboard_time": 1701475407,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120241,
       "num": 120241,
       "word": "五年后才看到口红上的刻字",
       "onboard_time": 1701426638,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114707,
+      "num": 114707,
+      "word": "被小孩哥的舞蹈震惊了",
+      "onboard_time": 1701474867,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109482,
+      "num": 109482,
+      "word": "JDG 圣枪哥",
+      "onboard_time": 1701474807,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108476,
+      "num": 108476,
+      "word": "很想很想你男女主终于相认了",
+      "onboard_time": 1701455716,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 108101,
@@ -395,6 +619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103713,
+      "num": 103713,
+      "word": "两眼一睁开始竞争的考研人称学不完",
+      "onboard_time": 1701478652,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103030,
       "num": 103030,
       "word": "赵文卓 不努力的演员直接淘汰",
@@ -411,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97725,
+      "num": 97725,
+      "word": "全国多地现极光",
+      "onboard_time": 1701476788,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96320,
       "num": 96320,
       "word": "杨紫虞书欣看刘亦菲的眼神",
       "onboard_time": 1701422616,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95847,
+      "num": 95847,
+      "word": "丁俊晖6比5威廉姆斯",
+      "onboard_time": 1701475528,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95747,
@@ -475,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87340,
-      "num": 87340,
-      "word": "很想很想你男女主终于相认了",
-      "onboard_time": 1701455716,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86768,
       "num": 86768,
       "word": "假睫毛贴在真睫毛上方",
@@ -505,14 +745,6 @@
       "onboard_time": 1701451163,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79970,
-      "num": 71215,
-      "word": "肯德基推出炸鸡味香水",
-      "onboard_time": 1701473002,
-      "rank": 30,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 77822,
@@ -571,20 +803,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50605,
+      "num": 841535,
+      "word": "民警反诈劝阻真实现场",
+      "onboard_time": 1701436776,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44410,
       "num": 44410,
       "word": "王鹤棣看秀待遇",
       "onboard_time": 1701452660,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 38958,
-      "num": 841535,
-      "word": "民警反诈劝阻真实现场",
-      "onboard_time": 1701436776,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37340,

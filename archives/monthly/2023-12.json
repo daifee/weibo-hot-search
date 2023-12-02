@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701473677675,
+  "endTime": 1701479562035,
   "band_list": [
     {
       "raw_hot": 2665701,
@@ -137,6 +137,14 @@
       "onboard_time": 1701421954,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1425653,
+      "num": 1425653,
+      "word": "1米83自卑女孩靠穿汉服找回自信",
+      "onboard_time": 1701473846,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1401830,
@@ -355,6 +363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 707985,
+      "num": 707985,
+      "word": "税务部门直接给陈志朋打了电话",
+      "onboard_time": 1701477150,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 680614,
       "num": 680614,
       "word": "十二月狗屎运最旺的星座",
@@ -387,6 +403,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 646735,
+      "num": 444295,
+      "word": "陈志朋办歌友会实际只来了一百人",
+      "onboard_time": 1701474629,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 643402,
+      "num": 643402,
+      "word": "儿子和亿万富豪父亲相认称没反应过来",
+      "onboard_time": 1701475709,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641845,
       "num": 641845,
       "word": "00后姑娘3份工作上班2年全款买房",
@@ -409,6 +441,14 @@
       "onboard_time": 1701423394,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 623802,
+      "num": 623802,
+      "word": "发生高危性行为后如何补救",
+      "onboard_time": 1701478173,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 619353,
@@ -603,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470803,
+      "num": 470803,
+      "word": "深夜直播间里卖惨的老年人",
+      "onboard_time": 1701474867,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463818,
       "num": 463818,
       "word": "宋雨琦被工作人员阻止接信",
@@ -641,6 +689,14 @@
       "onboard_time": 1701393632,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441323,
+      "num": 441323,
+      "word": "再见李可乐 你好李焕英",
+      "onboard_time": 1701475470,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 434543,
@@ -739,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387576,
+      "num": 387576,
+      "word": "张纪中曝光前妻隐私被判罚2万",
+      "onboard_time": 1701473244,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386369,
       "num": 257466,
       "word": "女朋友越处越像小朋友了",
@@ -835,6 +899,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 354722,
+      "num": 354722,
+      "word": "独生女被离婚案男方分到小部分财产后撤诉",
+      "onboard_time": 1701474685,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352966,
       "num": 352966,
       "word": "接TES Meiko",
@@ -891,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331619,
+      "num": 331619,
+      "word": "张远小号秒删",
+      "onboard_time": 1701478411,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331601,
       "num": 331601,
       "word": "感染HIV病毒就是得了艾滋病吗",
@@ -907,12 +987,28 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 322547,
+      "num": 322547,
+      "word": "地磁暴致黑龙江出现震撼极光",
+      "onboard_time": 1701477814,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320244,
       "num": 282189,
       "word": "焦点访谈曝光妈见打手办问题",
       "onboard_time": 1701436177,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318569,
+      "num": 318569,
+      "word": "张元英生图",
+      "onboard_time": 1701477030,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 317025,
@@ -945,6 +1041,14 @@
       "onboard_time": 1701386606,
       "rank": 30,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 311755,
+      "num": 311755,
+      "word": "芒市地震",
+      "onboard_time": 1701472341,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310498,
@@ -1139,11 +1243,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 274307,
-      "num": 274307,
-      "word": "芒市地震",
-      "onboard_time": 1701472341,
-      "rank": 17,
+      "raw_hot": 276388,
+      "num": 276388,
+      "word": "飞猪要求退票用户开情侣关系证明",
+      "onboard_time": 1701474629,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1313,14 +1417,6 @@
       "onboard_time": 1701446433,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246373,
-      "num": 246373,
-      "word": "张纪中曝光前妻隐私被判罚2万",
-      "onboard_time": 1701473244,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 244081,
@@ -1763,6 +1859,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196394,
+      "num": 196394,
+      "word": "梅西说不会参加美加墨世界杯",
+      "onboard_time": 1701476970,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196248,
+      "num": 196248,
+      "word": "韩版以家人之名合照",
+      "onboard_time": 1701475470,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196209,
       "num": 196209,
       "word": "冬季洗澡三个习惯加速皮肤老化",
@@ -1883,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188015,
+      "num": 188015,
+      "word": "肖战长发背头",
+      "onboard_time": 1701455417,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187974,
       "num": 187974,
       "word": "宁远舟 我就是疯了",
@@ -1936,14 +2056,6 @@
       "word": "王星越说只要白鹿邀戏就会同意",
       "onboard_time": 1701423998,
       "rank": 33,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 186259,
-      "num": 186259,
-      "word": "肖战长发背头",
-      "onboard_time": 1701455417,
-      "rank": 11,
       "category": "作品衍生"
     },
     {
@@ -2049,6 +2161,14 @@
       "onboard_time": 1701436057,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175929,
+      "num": 175929,
+      "word": "张凌赫嫩牛时期拍摄花絮",
+      "onboard_time": 1701476190,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 175572,
@@ -2211,6 +2331,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 165628,
+      "num": 165628,
+      "word": "一念关山",
+      "onboard_time": 1701347855,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165153,
       "num": 149894,
       "word": "甜蜜家园2",
@@ -2225,14 +2353,6 @@
       "onboard_time": 1701417576,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164921,
-      "num": 124206,
-      "word": "一念关山",
-      "onboard_time": 1701347855,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 164734,
@@ -2523,6 +2643,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140371,
+      "num": 140371,
+      "word": "陈奕迅成都演唱会首场安可曲",
+      "onboard_time": 1701477571,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139668,
+      "num": 139668,
+      "word": "我追一念关山belike",
+      "onboard_time": 1701477814,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139009,
+      "num": 139009,
+      "word": "恒大地产未能清偿到期债务超3000亿",
+      "onboard_time": 1701479192,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 138849,
       "num": 138849,
       "word": "三代鹿人 看再见李可乐哭成狗",
@@ -2555,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134980,
+      "num": 134980,
+      "word": "班主任收集家长工作的画面",
+      "onboard_time": 1701476970,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134751,
       "num": 134751,
       "word": "你觉得应该公布献血事件小姑姑身份吗",
@@ -2577,6 +2729,22 @@
       "onboard_time": 1701434254,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132693,
+      "num": 132693,
+      "word": "肯德基推出炸鸡味香水",
+      "onboard_time": 1701473002,
+      "rank": 30,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 132350,
+      "num": 132350,
+      "word": "淋巴结肿大是什么原因",
+      "onboard_time": 1701478773,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131584,
@@ -2651,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125496,
+      "num": 125496,
+      "word": "国产剧 中年骗婚八卦",
+      "onboard_time": 1701479432,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125462,
       "num": 125462,
       "word": "东北大姐见南方妹子进澡堂不知所措",
@@ -2659,12 +2835,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125234,
+      "num": 125234,
+      "word": "利雅得新月3比0利雅得胜利",
+      "onboard_time": 1701479253,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123656,
       "num": 103561,
       "word": "檀健次说抱周也上麦",
       "onboard_time": 1701362306,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121555,
+      "num": 121555,
+      "word": "文明办回应网格员多次入户纠正蹲地吃饭",
+      "onboard_time": 1701475407,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118679,
@@ -2699,6 +2891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114707,
+      "num": 114707,
+      "word": "被小孩哥的舞蹈震惊了",
+      "onboard_time": 1701474867,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112435,
       "num": 112435,
       "word": "南海归墟逐渐鲛化",
@@ -2723,12 +2923,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 109482,
+      "num": 109482,
+      "word": "JDG 圣枪哥",
+      "onboard_time": 1701474807,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108933,
       "num": 108933,
       "word": "换乘恋爱3预告",
       "onboard_time": 1701399272,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108476,
+      "num": 108476,
+      "word": "很想很想你男女主终于相认了",
+      "onboard_time": 1701455716,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103713,
+      "num": 103713,
+      "word": "两眼一睁开始竞争的考研人称学不完",
+      "onboard_time": 1701478652,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102046,
@@ -2747,10 +2971,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97725,
+      "num": 97725,
+      "word": "全国多地现极光",
+      "onboard_time": 1701476788,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96818,
       "num": 96818,
       "word": "湖人真没人了",
       "onboard_time": 1701408033,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95847,
+      "num": 95847,
+      "word": "丁俊晖6比5威廉姆斯",
+      "onboard_time": 1701475528,
       "rank": 49,
       "category": "体育"
     },
@@ -2803,14 +3043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87340,
-      "num": 87340,
-      "word": "很想很想你男女主终于相认了",
-      "onboard_time": 1701455716,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86636,
       "num": 86636,
       "word": "杨幂北京出发穿搭",
@@ -2841,14 +3073,6 @@
       "onboard_time": 1701436956,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79970,
-      "num": 71215,
-      "word": "肯德基推出炸鸡味香水",
-      "onboard_time": 1701473002,
-      "rank": 30,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 76446,
@@ -2971,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50605,
+      "num": 841535,
+      "word": "民警反诈劝阻真实现场",
+      "onboard_time": 1701436776,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46642,
       "num": 46642,
       "word": "恋与制作人六周年",
@@ -3000,14 +3232,6 @@
       "word": "全系通过无奶精鉴证的奶茶",
       "onboard_time": 1701414635,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38958,
-      "num": 841535,
-      "word": "民警反诈劝阻真实现场",
-      "onboard_time": 1701436776,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
