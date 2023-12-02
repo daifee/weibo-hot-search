@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701541218289,
+  "endTime": 1701542051507,
   "band_list": [
     {
       "raw_hot": 4547826,
@@ -2355,6 +2355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268995,
+      "num": 153739,
+      "word": "亿万富豪被拐儿子将回归原生家庭",
+      "onboard_time": 1701538102,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266369,
       "num": 236068,
       "word": "魏晨 演唱会",
@@ -2481,14 +2489,6 @@
       "onboard_time": 1701414993,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257311,
-      "num": 153739,
-      "word": "亿万富豪被拐儿子将回归原生家庭",
-      "onboard_time": 1701538102,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255153,
@@ -5635,6 +5635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30728,
+      "num": 37127,
+      "word": "军大衣",
+      "onboard_time": 1701540501,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 29539,
       "num": 29539,
       "word": "COP28",
@@ -5649,14 +5657,6 @@
       "onboard_time": 1701455357,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 25728,
-      "num": 37127,
-      "word": "军大衣",
-      "onboard_time": 1701540501,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 23757,
