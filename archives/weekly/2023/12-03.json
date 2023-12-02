@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701548240697,
+  "endTime": 1701549261265,
   "band_list": [
     {
       "raw_hot": 2635505,
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31743,
+      "num": 24051,
+      "word": "华晨宇蓝发",
+      "onboard_time": 1701547994,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30728,
       "num": 37127,
       "word": "军大衣",
@@ -507,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21755,
-      "num": 21755,
-      "word": "华晨宇蓝发",
-      "onboard_time": 1701547994,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 18771,
+      "num": 18771,
+      "word": "陈楚生 一封家书",
+      "onboard_time": 1701548653,
+      "rank": 36,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
