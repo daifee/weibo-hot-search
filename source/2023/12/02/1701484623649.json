@@ -1,0 +1,410 @@
+{
+  "runTime": 1701484623649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760872,
+        "num": 1760872,
+        "word": "2024年总台春晚官宣",
+        "onboard_time": 1701479674,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1094164,
+        "num": 1094164,
+        "word": "关智斌面部手部二级烧伤",
+        "onboard_time": 1701481293,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33956,
+        "num": 908237,
+        "word": "民警反诈劝阻真实现场",
+        "onboard_time": 1701436776,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828473,
+        "num": 828473,
+        "word": "税务部门直接给陈志朋打了电话",
+        "onboard_time": 1701477150,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 782044,
+        "num": 782044,
+        "word": "排卵后1周是黄体破裂高危期",
+        "onboard_time": 1701479733,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 630468,
+        "num": 630468,
+        "word": "1米83自卑女孩靠穿汉服找回自信",
+        "onboard_time": 1701473846,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560779,
+        "num": 560779,
+        "word": "他只希望活过45岁啊",
+        "onboard_time": 1701480994,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555867,
+        "num": 555867,
+        "word": "儿子和亿万富豪父亲相认称没反应过来",
+        "onboard_time": 1701475709,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452937,
+        "num": 452937,
+        "word": "发生高危性行为后如何补救",
+        "onboard_time": 1701478173,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 424192,
+        "num": 424192,
+        "word": "张若昀拍的唐艺昕",
+        "onboard_time": 1701483994,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449460,
+        "num": 418338,
+        "word": "张远小号秒删",
+        "onboard_time": 1701478411,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389574,
+        "num": 389574,
+        "word": "谢依霖 爆红其实很可怕",
+        "onboard_time": 1701481535,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388845,
+        "num": 388845,
+        "word": "胖东来员工不想上班请假不允许不批假",
+        "onboard_time": 1701440737,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380935,
+        "num": 380935,
+        "word": "女生考研崩溃晒百张草稿获网友鼓励",
+        "onboard_time": 1701481954,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344787,
+        "num": 344787,
+        "word": "龘这个字怎么读",
+        "onboard_time": 1701483094,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320330,
+        "num": 320330,
+        "word": "水龙吟开机",
+        "onboard_time": 1701480631,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315921,
+        "num": 315921,
+        "word": "警方通报女子提醒关远光灯被打致流产",
+        "onboard_time": 1701481056,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311738,
+        "num": 311738,
+        "word": "北京极光",
+        "onboard_time": 1701436115,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303665,
+        "num": 303665,
+        "word": "再见李可乐 你好李焕英",
+        "onboard_time": 1701475470,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256768,
+        "num": 256768,
+        "word": "杨鸣曾数次起诉离婚",
+        "onboard_time": 1701472460,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 246879,
+        "num": 246879,
+        "word": "50名外国人拿到首批五星卡",
+        "onboard_time": 1701482555,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233378,
+        "num": 233378,
+        "word": "张元英生图",
+        "onboard_time": 1701477030,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212478,
+        "num": 212478,
+        "word": "平均年龄60岁的韩国浪姐团",
+        "onboard_time": 1701482853,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196183,
+        "num": 196183,
+        "word": "地磁暴致黑龙江出现震撼极光",
+        "onboard_time": 1701477814,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192359,
+        "num": 192359,
+        "word": "韩国人骂人太搞笑了",
+        "onboard_time": 1701480754,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209467,
+        "num": 191410,
+        "word": "陈志朋办歌友会实际只来了一百人",
+        "onboard_time": 1701474629,
+        "rank": 25,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 200739,
+        "num": 190570,
+        "word": "罗云熙水龙吟出妆",
+        "onboard_time": 1701482614,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200458,
+        "num": 190210,
+        "word": "周一围不善表达 朱丹不善传达",
+        "onboard_time": 1701482135,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189458,
+        "num": 189458,
+        "word": "深夜直播间里卖惨的老年人",
+        "onboard_time": 1701474867,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187971,
+        "num": 187971,
+        "word": "零下20度穿单衣男孩",
+        "onboard_time": 1701482313,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191740,
+        "num": 182914,
+        "word": "你好星期六谁是卧底",
+        "onboard_time": 1701482853,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174892,
+        "num": 174892,
+        "word": "恒大地产未能清偿到期债务超3000亿",
+        "onboard_time": 1701479192,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 168332,
+        "num": 168332,
+        "word": "王鹤棣也知道汗流浃背",
+        "onboard_time": 1701483754,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 160646,
+        "num": 160646,
+        "word": "这4种情况建议戴好口罩防感染",
+        "onboard_time": 1701483933,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157458,
+        "num": 157458,
+        "word": "芒市地震",
+        "onboard_time": 1701472341,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153522,
+        "num": 153522,
+        "word": "南海归墟里的人鱼娃娃",
+        "onboard_time": 1701482255,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149520,
+        "num": 149520,
+        "word": "独生女被离婚案男方分到小部分财产后撤诉",
+        "onboard_time": 1701474685,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144706,
+        "num": 144706,
+        "word": "战地女记者被防弹衣磨出血",
+        "onboard_time": 1701482072,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139124,
+        "num": 139124,
+        "word": "一年级教师深夜对着空教室练习讲课",
+        "onboard_time": 1701483574,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133089,
+        "num": 133089,
+        "word": "张纪中曝光前妻隐私被判罚2万",
+        "onboard_time": 1701473244,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 131684,
+        "num": 131684,
+        "word": "久坐的人有福了",
+        "onboard_time": 1701484173,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130530,
+        "num": 130530,
+        "word": "好娶风男人",
+        "onboard_time": 1701483214,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129441,
+        "num": 129441,
+        "word": "飞猪要求退票用户开情侣关系证明",
+        "onboard_time": 1701474629,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128376,
+        "num": 128376,
+        "word": "甘肃酒泉地震",
+        "onboard_time": 1701443258,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122564,
+        "num": 122564,
+        "word": "国产剧 中年骗婚八卦",
+        "onboard_time": 1701479432,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115928,
+        "num": 115928,
+        "word": "2024总台春晚主题主标识发布",
+        "onboard_time": 1701480513,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111973,
+        "num": 111973,
+        "word": "小伙熬夜打游戏关节长千颗白色颗粒",
+        "onboard_time": 1701459974,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110698,
+        "num": 110698,
+        "word": "化妆公式学习",
+        "onboard_time": 1701482014,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 108041,
+        "num": 108041,
+        "word": "梅西说不会参加美加墨世界杯",
+        "onboard_time": 1701476970,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101764,
+        "num": 101764,
+        "word": "张凌赫嫩牛时期拍摄花絮",
+        "onboard_time": 1701476190,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续促进贸易和投资自由化便利化#"
+    }
+  }
+}
