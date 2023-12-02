@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701527636843,
+  "endTime": 1701530178953,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -385,6 +385,14 @@
       "onboard_time": 1701430534,
       "rank": 0,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 2028828,
+      "num": 2028828,
+      "word": "大地磁暴预警",
+      "onboard_time": 1701521134,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2024484,
@@ -1347,14 +1355,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1153672,
-      "num": 1153672,
-      "word": "大地磁暴预警",
-      "onboard_time": 1701521134,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1132878,
       "num": 1132878,
       "word": "郑州大学取消公众入校限制",
@@ -1969,6 +1969,14 @@
       "onboard_time": 1701138577,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873246,
+      "num": 873246,
+      "word": "刘诗诗刘宇宁吻戏",
+      "onboard_time": 1701528217,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 873163,
@@ -2649,6 +2657,14 @@
       "onboard_time": 1700984612,
       "rank": 20,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 702455,
+      "num": 702455,
+      "word": "龙行龘龘",
+      "onboard_time": 1701526896,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 696400,
@@ -4523,6 +4539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480528,
+      "num": 354404,
+      "word": "杨超越方否认接触难哄",
+      "onboard_time": 1701528336,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 480399,
       "num": 480399,
       "word": "BLG 中单",
@@ -4939,14 +4963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 453897,
-      "num": 302390,
-      "word": "龙行龘龘",
-      "onboard_time": 1701526896,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 453341,
       "num": 453341,
       "word": "女子连吃1周笋干小肠被切25厘米",
@@ -5276,7 +5292,7 @@
     },
     {
       "raw_hot": 432605,
-      "num": 199774,
+      "num": 324425,
       "word": "苏翊鸣夺冠后向粉丝比心",
       "onboard_time": 1701526177,
       "rank": 32,
@@ -5835,6 +5851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 396054,
+      "num": 158085,
+      "word": "苏翊鸣教练 小鸣真牛",
+      "onboard_time": 1701528814,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395708,
       "num": 395708,
       "word": "韩剧取名 随意",
@@ -6105,6 +6129,14 @@
       "onboard_time": 1701338736,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 382828,
+      "num": 347192,
+      "word": "任如意爆改人生导师",
+      "onboard_time": 1701529054,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 382661,
@@ -6713,6 +6745,14 @@
       "onboard_time": 1701148416,
       "rank": 38,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 348422,
+      "num": 348422,
+      "word": "首钢天津冲突",
+      "onboard_time": 1701528936,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 348417,
@@ -7457,6 +7497,14 @@
       "onboard_time": 1701513272,
       "rank": 21,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 315064,
+      "num": 183099,
+      "word": "aespa MMA4冠王",
+      "onboard_time": 1701528396,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 314906,
@@ -9163,6 +9211,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 264991,
+      "num": 206804,
+      "word": "吃麻辣烫其实也能很健康",
+      "onboard_time": 1701524560,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 264825,
       "num": 247713,
       "word": "王鹤棣发文说多谢",
@@ -9217,14 +9273,6 @@
       "onboard_time": 1700966313,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263204,
-      "num": 206804,
-      "word": "吃麻辣烫其实也能很健康",
-      "onboard_time": 1701524560,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 262959,
@@ -11232,6 +11280,14 @@
       "word": "患抑郁女生报告病情后被学校劝退",
       "onboard_time": 1701491494,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216514,
+      "num": 154438,
+      "word": "教书是我的主业怎么变成了副业",
+      "onboard_time": 1701529116,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -13603,6 +13659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187772,
+      "num": 146075,
+      "word": "你好星期六花少联动",
+      "onboard_time": 1701530015,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187720,
       "num": 187720,
       "word": "柯南黑铁的鱼影位列历代第一",
@@ -13923,6 +13987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183893,
+      "num": 144583,
+      "word": "张雨绮景甜 嗑到了",
+      "onboard_time": 1701527615,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183837,
       "num": 183837,
       "word": "过年实用物品",
@@ -14153,6 +14225,14 @@
       "onboard_time": 1701003759,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180187,
+      "num": 143244,
+      "word": "华晨宇 公主请蹦迪",
+      "onboard_time": 1701527977,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 180181,
@@ -14473,6 +14553,14 @@
       "onboard_time": 1701150812,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 174875,
+      "num": 141650,
+      "word": "新裤子长沙",
+      "onboard_time": 1701529414,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 174793,
@@ -15747,14 +15835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 156086,
-      "num": 140709,
-      "word": "张雨绮景甜 嗑到了",
-      "onboard_time": 1701527615,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155966,
       "num": 155966,
       "word": "周琦回归14分",
@@ -15836,7 +15916,7 @@
     },
     {
       "raw_hot": 155443,
-      "num": 1184799,
+      "num": 1341736,
       "word": "国家卫健委表示未发现新发传染病",
       "onboard_time": 1701522093,
       "rank": 2,
@@ -17211,6 +17291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132768,
+      "num": 151483,
+      "word": "张大仙首播元梦之星",
+      "onboard_time": 1701529596,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132693,
       "num": 132693,
       "word": "肯德基推出炸鸡味香水",
@@ -17363,6 +17451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128724,
+      "num": 128724,
+      "word": "被公职人员占用的公租房小区已腾退五六百户",
+      "onboard_time": 1701529834,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128574,
       "num": 125514,
       "word": "周迅台词 人无能的时候才生气",
@@ -17416,6 +17512,14 @@
       "word": "下铺最怕发生的事情",
       "onboard_time": 1701155253,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 127789,
+      "num": 127789,
+      "word": "真的会被AI扩图笑崩溃",
+      "onboard_time": 1701530134,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -17577,6 +17681,14 @@
       "onboard_time": 1701012157,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124128,
+      "num": 124128,
+      "word": "德国夺得U17世界杯冠军",
+      "onboard_time": 1701527856,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124124,

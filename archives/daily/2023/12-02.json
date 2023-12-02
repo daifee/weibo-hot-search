@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701527636843,
+  "endTime": 1701530178953,
   "band_list": [
     {
       "raw_hot": 4547826,
@@ -41,6 +41,14 @@
       "onboard_time": 1701489332,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2028828,
+      "num": 2028828,
+      "word": "大地磁暴预警",
+      "onboard_time": 1701521134,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1886615,
@@ -123,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1153672,
-      "num": 1153672,
-      "word": "大地磁暴预警",
-      "onboard_time": 1701521134,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1126144,
       "num": 1126144,
       "word": "很想很想你 掉马",
@@ -185,6 +185,14 @@
       "onboard_time": 1701440737,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873246,
+      "num": 873246,
+      "word": "刘诗诗刘宇宁吻戏",
+      "onboard_time": 1701528217,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 855195,
@@ -273,6 +281,14 @@
       "onboard_time": 1701489933,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 702455,
+      "num": 702455,
+      "word": "龙行龘龘",
+      "onboard_time": 1701526896,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 675573,
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 480528,
+      "num": 354404,
+      "word": "杨超越方否认接触难哄",
+      "onboard_time": 1701528336,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 474361,
       "num": 417588,
       "word": "刘亦菲异域风穿搭",
@@ -528,14 +552,6 @@
       "word": "陈楚生你回头看看汪苏泷吧",
       "onboard_time": 1701500372,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 453897,
-      "num": 302390,
-      "word": "龙行龘龘",
-      "onboard_time": 1701526896,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 432605,
-      "num": 199774,
+      "num": 324425,
       "word": "苏翊鸣夺冠后向粉丝比心",
       "onboard_time": 1701526177,
       "rank": 32,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396054,
+      "num": 158085,
+      "word": "苏翊鸣教练 小鸣真牛",
+      "onboard_time": 1701528814,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395708,
       "num": 395708,
       "word": "韩剧取名 随意",
@@ -785,6 +809,14 @@
       "onboard_time": 1701508771,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 382828,
+      "num": 347192,
+      "word": "任如意爆改人生导师",
+      "onboard_time": 1701529054,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 382661,
@@ -915,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348422,
+      "num": 348422,
+      "word": "首钢天津冲突",
+      "onboard_time": 1701528936,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347981,
       "num": 347981,
       "word": "沈阳洗浴",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1701513272,
       "rank": 21,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 315064,
+      "num": 183099,
+      "word": "aespa MMA4冠王",
+      "onboard_time": 1701528396,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 313720,
@@ -1211,20 +1259,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 264991,
+      "num": 206804,
+      "word": "吃麻辣烫其实也能很健康",
+      "onboard_time": 1701524560,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 264475,
       "num": 264475,
       "word": "痘肌 阿达帕林和克林霉素凝胶",
       "onboard_time": 1701494013,
       "rank": 38,
       "category": "美妆,健康医疗"
-    },
-    {
-      "raw_hot": 263204,
-      "num": 206804,
-      "word": "吃麻辣烫其实也能很健康",
-      "onboard_time": 1701524560,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 262682,
@@ -1488,6 +1536,14 @@
       "word": "患抑郁女生报告病情后被学校劝退",
       "onboard_time": 1701491494,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216514,
+      "num": 154438,
+      "word": "教书是我的主业怎么变成了副业",
+      "onboard_time": 1701529116,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1859,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187772,
+      "num": 146075,
+      "word": "你好星期六花少联动",
+      "onboard_time": 1701530015,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187679,
       "num": 187679,
       "word": "ive 改编",
@@ -1899,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183893,
+      "num": 144583,
+      "word": "张雨绮景甜 嗑到了",
+      "onboard_time": 1701527615,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182145,
       "num": 182145,
       "word": "浙江一法拍房公告曾非正常死亡5人",
@@ -1913,6 +1985,14 @@
       "onboard_time": 1701442960,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180187,
+      "num": 143244,
+      "word": "华晨宇 公主请蹦迪",
+      "onboard_time": 1701527977,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 178953,
@@ -1953,6 +2033,14 @@
       "onboard_time": 1701437797,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174875,
+      "num": 141650,
+      "word": "新裤子长沙",
+      "onboard_time": 1701529414,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 172896,
@@ -2171,14 +2259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156086,
-      "num": 140709,
-      "word": "张雨绮景甜 嗑到了",
-      "onboard_time": 1701527615,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155966,
       "num": 155966,
       "word": "周琦回归14分",
@@ -2196,7 +2276,7 @@
     },
     {
       "raw_hot": 155443,
-      "num": 1184799,
+      "num": 1341736,
       "word": "国家卫健委表示未发现新发传染病",
       "onboard_time": 1701522093,
       "rank": 2,
@@ -2467,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132768,
+      "num": 151483,
+      "word": "张大仙首播元梦之星",
+      "onboard_time": 1701529596,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132693,
       "num": 132693,
       "word": "肯德基推出炸鸡味香水",
@@ -2507,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128724,
+      "num": 128724,
+      "word": "被公职人员占用的公租房小区已腾退五六百户",
+      "onboard_time": 1701529834,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128574,
       "num": 125514,
       "word": "周迅台词 人无能的时候才生气",
@@ -2521,6 +2617,14 @@
       "onboard_time": 1701445173,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127789,
+      "num": 127789,
+      "word": "真的会被AI扩图笑崩溃",
+      "onboard_time": 1701530134,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 127726,
@@ -2552,6 +2656,14 @@
       "word": "利雅得新月3比0利雅得胜利",
       "onboard_time": 1701479253,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124128,
+      "num": 124128,
+      "word": "德国夺得U17世界杯冠军",
+      "onboard_time": 1701527856,
+      "rank": 49,
       "category": "体育"
     },
     {
