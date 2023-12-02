@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701544441380,
+  "endTime": 1701545624513,
   "band_list": [
     {
       "raw_hot": 4547826,
@@ -5579,6 +5579,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 45690,
+      "num": 32831,
+      "word": "张艺兴GAI 现场",
+      "onboard_time": 1701542718,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 44410,
       "num": 44410,
       "word": "王鹤棣看秀待遇",
@@ -5651,14 +5659,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 30686,
-      "num": 27384,
-      "word": "张艺兴GAI 现场",
-      "onboard_time": 1701542718,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 29539,
       "num": 29539,
       "word": "COP28",
@@ -5673,6 +5673,14 @@
       "onboard_time": 1701455357,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28179,
+      "num": 28179,
+      "word": "媒体评公职人员违规占用公租房",
+      "onboard_time": 1701544274,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23757,
@@ -5729,14 +5737,6 @@
       "onboard_time": 1701456855,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19263,
-      "num": 25054,
-      "word": "媒体评公职人员违规占用公租房",
-      "onboard_time": 1701544274,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17472,
