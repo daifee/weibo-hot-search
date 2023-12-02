@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701513240494,
+  "endTime": 1701515647775,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -17,6 +17,14 @@
       "onboard_time": 1701489332,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2120657,
+      "num": 2120657,
+      "word": "赵露思 小红书广告",
+      "onboard_time": 1701513031,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1886615,
@@ -179,12 +187,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 702898,
+      "num": 702898,
+      "word": "古装女主以后就这么演",
+      "onboard_time": 1701514172,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 675573,
       "num": 675573,
       "word": "张远小号秒删",
       "onboard_time": 1701478411,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 655530,
+      "num": 655530,
+      "word": "周也 童装汉服",
+      "onboard_time": 1701513392,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 651560,
+      "num": 1410479,
+      "word": "男子打球猝死工作人员抢下黄金四分钟",
+      "onboard_time": 1701511831,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 651338,
@@ -217,6 +249,14 @@
       "onboard_time": 1701475709,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640742,
+      "num": 640742,
+      "word": "苏翊鸣又做到了1800",
+      "onboard_time": 1701514770,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 633048,
@@ -355,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 454891,
-      "num": 1088435,
-      "word": "男子打球猝死工作人员抢下黄金四分钟",
-      "onboard_time": 1701511831,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 459282,
+      "num": 459282,
+      "word": "苏翊鸣决赛首轮排名第1",
+      "onboard_time": 1701514954,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 454876,
@@ -411,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441065,
+      "num": 441065,
+      "word": "VOGUE编辑回怼网友",
+      "onboard_time": 1701513753,
+      "rank": 13,
+      "category": "时尚,网红"
+    },
+    {
       "raw_hot": 431253,
       "num": 370444,
       "word": "王俊凯耳钉",
@@ -420,7 +468,7 @@
     },
     {
       "raw_hot": 430453,
-      "num": 403661,
+      "num": 411202,
       "word": "因为太耐用导致自己快失传",
       "onboard_time": 1701510511,
       "rank": 30,
@@ -563,12 +611,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 372607,
+      "num": 372607,
+      "word": "邓为 星光大赏",
+      "onboard_time": 1701513571,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371283,
       "num": 371283,
       "word": "水龙吟开机",
       "onboard_time": 1701480631,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370421,
+      "num": 306232,
+      "word": "原来冲锋衣是不能机洗的",
+      "onboard_time": 1701514653,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 361870,
@@ -683,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325444,
+      "num": 325444,
+      "word": "声生不息 社交抓马现场",
+      "onboard_time": 1701514894,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322699,
       "num": 322699,
       "word": "地磁暴致黑龙江出现震撼极光",
@@ -763,6 +835,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 287612,
+      "num": 287612,
+      "word": "接触艾滋病毒2小时内是黄金阻断时间",
+      "onboard_time": 1701513272,
+      "rank": 21,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 280953,
       "num": 280953,
       "word": "元梦之星发布会",
@@ -835,6 +915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 266369,
+      "num": 236068,
+      "word": "魏晨 演唱会",
+      "onboard_time": 1701512973,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 264475,
       "num": 264475,
       "word": "痘肌 阿达帕林和克林霉素凝胶",
@@ -859,11 +947,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260289,
+      "num": 235996,
+      "word": "NCTDREAM 最佳男团",
+      "onboard_time": 1701515013,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259093,
       "num": 259093,
       "word": "村民称全村土地费存银行后不翼而飞",
       "onboard_time": 1701472822,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258631,
+      "num": 916696,
+      "word": "寻子25年的富翁爸爸说家里房子好多好多",
+      "onboard_time": 1701514052,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -963,12 +1067,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236069,
+      "num": 236069,
+      "word": "重庆一军嫂带2岁女儿接退伍丈夫回家",
+      "onboard_time": 1701514472,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235914,
+      "num": 235914,
+      "word": "常德交通 你们别太超前了",
+      "onboard_time": 1701514110,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232699,
       "num": 721547,
       "word": "东北小学连续40年浇冰场教学生滑冰",
       "onboard_time": 1701510633,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232288,
+      "num": 232288,
+      "word": "Haerin开场表演",
+      "onboard_time": 1701515013,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 232183,
@@ -1075,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211775,
-      "num": 211775,
-      "word": "魏晨 演唱会",
-      "onboard_time": 1701512973,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 211273,
       "num": 211273,
       "word": "田甜破产老公求复合只为带货",
@@ -1097,14 +1217,6 @@
       "onboard_time": 1701479432,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210763,
-      "num": 210763,
-      "word": "赵露思 小红书广告",
-      "onboard_time": 1701513031,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 210403,
@@ -1419,6 +1531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166391,
+      "num": 166391,
+      "word": "手和脚有点暧昧了",
+      "onboard_time": 1701515013,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166349,
       "num": 151973,
       "word": "谭维维 为什么把歌定的那么高",
@@ -1521,6 +1641,14 @@
       "onboard_time": 1701491430,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157150,
+      "num": 157150,
+      "word": "ZB1 年度新人奖",
+      "onboard_time": 1701515612,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 156964,
@@ -1779,6 +1907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134282,
+      "num": 134282,
+      "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
+      "onboard_time": 1701515554,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133484,
       "num": 133484,
       "word": "任豪甚至写了一篇论文",
@@ -1881,6 +2017,14 @@
       "onboard_time": 1701479253,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124087,
+      "num": 134241,
+      "word": "加拿大超级猪入侵美国",
+      "onboard_time": 1701515554,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123497,
@@ -2076,7 +2220,7 @@
     },
     {
       "raw_hot": 99825,
-      "num": 844586,
+      "num": 1303601,
       "word": "我国纳米金属研究领域取得新突破",
       "onboard_time": 1701507336,
       "rank": 2,

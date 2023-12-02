@@ -1,6 +1,6 @@
 {
   "startTime": 1700929253024,
-  "endTime": 1701513240494,
+  "endTime": 1701515647775,
   "band_list": [
     {
       "raw_hot": 10267444,
@@ -313,6 +313,14 @@
       "onboard_time": 1701042209,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2120657,
+      "num": 2120657,
+      "word": "赵露思 小红书广告",
+      "onboard_time": 1701513031,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 2113583,
@@ -2555,6 +2563,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 702898,
+      "num": 702898,
+      "word": "古装女主以后就这么演",
+      "onboard_time": 1701514172,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 696400,
       "num": 696400,
       "word": "福宝",
@@ -2795,6 +2811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 655530,
+      "num": 655530,
+      "word": "周也 童装汉服",
+      "onboard_time": 1701513392,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655435,
       "num": 655435,
       "word": "马来西亚女星拍戏时猝死",
@@ -2833,6 +2857,14 @@
       "onboard_time": 1701248853,
       "rank": 20,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 651560,
+      "num": 1410479,
+      "word": "男子打球猝死工作人员抢下黄金四分钟",
+      "onboard_time": 1701511831,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 651338,
@@ -2953,6 +2985,14 @@
       "onboard_time": 1701419796,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 640742,
+      "num": 640742,
+      "word": "苏翊鸣又做到了1800",
+      "onboard_time": 1701514770,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 639589,
@@ -4675,6 +4715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 459282,
+      "num": 459282,
+      "word": "苏翊鸣决赛首轮排名第1",
+      "onboard_time": 1701514954,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 459189,
       "num": 332250,
       "word": "观鹤笔记官宣影视化",
@@ -4753,14 +4801,6 @@
       "onboard_time": 1701074733,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 454891,
-      "num": 1088435,
-      "word": "男子打球猝死工作人员抢下黄金四分钟",
-      "onboard_time": 1701511831,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454876,
@@ -4947,6 +4987,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 441065,
+      "num": 441065,
+      "word": "VOGUE编辑回怼网友",
+      "onboard_time": 1701513753,
+      "rank": 13,
+      "category": "时尚,网红"
+    },
+    {
       "raw_hot": 440110,
       "num": 440110,
       "word": "一念关山",
@@ -5116,7 +5164,7 @@
     },
     {
       "raw_hot": 430453,
-      "num": 403661,
+      "num": 411202,
       "word": "因为太耐用导致自己快失传",
       "onboard_time": 1701510511,
       "rank": 30,
@@ -6019,6 +6067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 372607,
+      "num": 372607,
+      "word": "邓为 星光大赏",
+      "onboard_time": 1701513571,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372053,
       "num": 319984,
       "word": "基辛格葬礼将以家庭仪式形式举行",
@@ -6049,6 +6105,14 @@
       "onboard_time": 1701350258,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370421,
+      "num": 306232,
+      "word": "原来冲锋衣是不能机洗的",
+      "onboard_time": 1701514653,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 370371,
@@ -6888,6 +6952,14 @@
       "word": "傅首尔老刘 助你高飞",
       "onboard_time": 1701164313,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 325444,
+      "num": 325444,
+      "word": "声生不息 社交抓马现场",
+      "onboard_time": 1701514894,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -7963,6 +8035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287612,
+      "num": 287612,
+      "word": "接触艾滋病毒2小时内是黄金阻断时间",
+      "onboard_time": 1701513272,
+      "rank": 21,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 287602,
       "num": 287602,
       "word": "白鹿 时宴是完美男友",
@@ -8771,6 +8851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266369,
+      "num": 236068,
+      "word": "魏晨 演唱会",
+      "onboard_time": 1701512973,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 266212,
       "num": 266212,
       "word": "在东北猪的地位远超女团",
@@ -8955,6 +9043,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 260289,
+      "num": 235996,
+      "word": "NCTDREAM 最佳男团",
+      "onboard_time": 1701515013,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 260152,
       "num": 260152,
       "word": "刘德华刘雅瑟新片演夫妻",
@@ -9033,6 +9129,14 @@
       "onboard_time": 1701041726,
       "rank": 24,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 258631,
+      "num": 916696,
+      "word": "寻子25年的富翁爸爸说家里房子好多好多",
+      "onboard_time": 1701514052,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258560,
@@ -9931,12 +10035,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 236069,
+      "num": 236069,
+      "word": "重庆一军嫂带2岁女儿接退伍丈夫回家",
+      "onboard_time": 1701514472,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235959,
       "num": 235959,
       "word": "阿里达摩院裁撤量子实验室",
       "onboard_time": 1701133118,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 235914,
+      "num": 235914,
+      "word": "常德交通 你们别太超前了",
+      "onboard_time": 1701514110,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235449,
@@ -10081,6 +10201,14 @@
       "onboard_time": 1701132818,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 232288,
+      "num": 232288,
+      "word": "Haerin开场表演",
+      "onboard_time": 1701515013,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 232205,
@@ -11083,14 +11211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211775,
-      "num": 211775,
-      "word": "魏晨 演唱会",
-      "onboard_time": 1701512973,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 211647,
       "num": 211647,
       "word": "现在的人上班都上癫了",
@@ -11169,14 +11289,6 @@
       "onboard_time": 1701055535,
       "rank": 28,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 210763,
-      "num": 210763,
-      "word": "赵露思 小红书广告",
-      "onboard_time": 1701513031,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 210487,
@@ -14523,6 +14635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166391,
+      "num": 166391,
+      "word": "手和脚有点暧昧了",
+      "onboard_time": 1701515013,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166349,
       "num": 151973,
       "word": "谭维维 为什么把歌定的那么高",
@@ -15065,6 +15185,14 @@
       "onboard_time": 1701422196,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157150,
+      "num": 157150,
+      "word": "ZB1 年度新人奖",
+      "onboard_time": 1701515612,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 156965,
@@ -16539,6 +16667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134282,
+      "num": 134282,
+      "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
+      "onboard_time": 1701515554,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134206,
       "num": 134206,
       "word": "学会看健康体检报告",
@@ -16945,6 +17081,14 @@
       "onboard_time": 1700952137,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124087,
+      "num": 134241,
+      "word": "加拿大超级猪入侵美国",
+      "onboard_time": 1701515554,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123935,
@@ -17588,7 +17732,7 @@
     },
     {
       "raw_hot": 99825,
-      "num": 844586,
+      "num": 1303601,
       "word": "我国纳米金属研究领域取得新突破",
       "onboard_time": 1701507336,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1701515647775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2120657,
+        "num": 2120657,
+        "word": "赵露思 小红书广告",
+        "onboard_time": 1701513031,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651560,
+        "num": 1410479,
+        "word": "男子打球猝死工作人员抢下黄金四分钟",
+        "onboard_time": 1701511831,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67977,
+        "num": 1303601,
+        "word": "我国纳米金属研究领域取得新突破",
+        "onboard_time": 1701507336,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1294709,
+        "num": 1294709,
+        "word": "摇粒绒 保暖",
+        "onboard_time": 1701510211,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258631,
+        "num": 916696,
+        "word": "寻子25年的富翁爸爸说家里房子好多好多",
+        "onboard_time": 1701514052,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702898,
+        "num": 702898,
+        "word": "古装女主以后就这么演",
+        "onboard_time": 1701514172,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245412,
+        "num": 669967,
+        "word": "四川孃孃51岁拿下电竞冠军",
+        "onboard_time": 1701495690,
+        "rank": 6,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 655530,
+        "num": 655530,
+        "word": "周也 童装汉服",
+        "onboard_time": 1701513392,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640742,
+        "num": 640742,
+        "word": "苏翊鸣又做到了1800",
+        "onboard_time": 1701514770,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616581,
+        "num": 616581,
+        "word": "员工称胖东来惩罚制度很多",
+        "onboard_time": 1701511288,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 504679,
+        "num": 504679,
+        "word": "宋轶另一个冰淇淋是谁的",
+        "onboard_time": 1701498631,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464485,
+        "num": 464485,
+        "word": "MMA",
+        "onboard_time": 1701509670,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 459282,
+        "num": 459282,
+        "word": "苏翊鸣决赛首轮排名第1",
+        "onboard_time": 1701514954,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441065,
+        "num": 441065,
+        "word": "VOGUE编辑回怼网友",
+        "onboard_time": 1701513753,
+        "rank": 13,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 411202,
+        "num": 411202,
+        "word": "因为太耐用导致自己快失传",
+        "onboard_time": 1701510511,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 372607,
+        "num": 372607,
+        "word": "邓为 星光大赏",
+        "onboard_time": 1701513571,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370528,
+        "num": 370528,
+        "word": "陈志朋回应偷税漏税",
+        "onboard_time": 1701502772,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 350465,
+        "num": 350465,
+        "word": "田曦薇 年画娃娃",
+        "onboard_time": 1701508352,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325444,
+        "num": 325444,
+        "word": "声生不息 社交抓马现场",
+        "onboard_time": 1701514894,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306296,
+        "num": 306296,
+        "word": "ive公主妆造",
+        "onboard_time": 1701503795,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 370421,
+        "num": 306232,
+        "word": "原来冲锋衣是不能机洗的",
+        "onboard_time": 1701514653,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 287612,
+        "num": 287612,
+        "word": "接触艾滋病毒2小时内是黄金阻断时间",
+        "onboard_time": 1701513272,
+        "rank": 21,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 282732,
+        "num": 282732,
+        "word": "尼格买提中奖",
+        "onboard_time": 1701494793,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275716,
+        "num": 275716,
+        "word": "陈楚生你回头看看汪苏泷吧",
+        "onboard_time": 1701500372,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236069,
+        "num": 236069,
+        "word": "重庆一军嫂带2岁女儿接退伍丈夫回家",
+        "onboard_time": 1701514472,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266369,
+        "num": 236068,
+        "word": "魏晨 演唱会",
+        "onboard_time": 1701512973,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 260289,
+        "num": 235996,
+        "word": "NCTDREAM 最佳男团",
+        "onboard_time": 1701515013,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244281,
+        "num": 235967,
+        "word": "刘宇宁头套",
+        "onboard_time": 1701508472,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238127,
+        "num": 235920,
+        "word": "aespa打歌服走红毯",
+        "onboard_time": 1701507151,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235914,
+        "num": 235914,
+        "word": "常德交通 你们别太超前了",
+        "onboard_time": 1701514110,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232288,
+        "num": 232288,
+        "word": "Haerin开场表演",
+        "onboard_time": 1701515013,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218504,
+        "num": 218504,
+        "word": "四无婚礼",
+        "onboard_time": 1701507391,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215694,
+        "num": 215694,
+        "word": "张元英香槟礼裙",
+        "onboard_time": 1701509372,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205773,
+        "num": 205773,
+        "word": "黄体破裂",
+        "onboard_time": 1701489332,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201464,
+        "num": 201464,
+        "word": "富豪被拐儿子称身世还没告诉女友",
+        "onboard_time": 1701506852,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195703,
+        "num": 195703,
+        "word": "刘诗诗警告刘宇宁别让我笑",
+        "onboard_time": 1701501029,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194696,
+        "num": 194696,
+        "word": "iPhone隐藏功能",
+        "onboard_time": 1701508771,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193224,
+        "num": 193224,
+        "word": "aespa 哥特玫瑰",
+        "onboard_time": 1701505231,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190894,
+        "num": 190894,
+        "word": "东北小学连续40年浇冰场教学生滑冰",
+        "onboard_time": 1701510633,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190823,
+        "num": 190823,
+        "word": "突然发现你男友是亿万富豪之子",
+        "onboard_time": 1701494914,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190400,
+        "num": 190400,
+        "word": "嗑到声音颤抖 嗑到原地起跳",
+        "onboard_time": 1701508951,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170617,
+        "num": 170617,
+        "word": "韩剧取名 随意",
+        "onboard_time": 1701501692,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167654,
+        "num": 167654,
+        "word": "白鹿蒙古妆",
+        "onboard_time": 1701507151,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 166391,
+        "num": 166391,
+        "word": "手和脚有点暧昧了",
+        "onboard_time": 1701515013,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160742,
+        "num": 160742,
+        "word": "MMA直播",
+        "onboard_time": 1701498032,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157150,
+        "num": 157150,
+        "word": "ZB1 年度新人奖",
+        "onboard_time": 1701515612,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143043,
+        "num": 143043,
+        "word": "M豆棺材",
+        "onboard_time": 1701506133,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134282,
+        "num": 134282,
+        "word": "夫妻吃自助顺20瓶饮料被店员追到车库",
+        "onboard_time": 1701515554,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124087,
+        "num": 134241,
+        "word": "加拿大超级猪入侵美国",
+        "onboard_time": 1701515554,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112591,
+        "num": 133965,
+        "word": "詹姆斯说斯图尔特有毛病",
+        "onboard_time": 1701512490,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023年读懂中国国际会议致贺信#"
+    }
+  }
+}
