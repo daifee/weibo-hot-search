@@ -1,6 +1,6 @@
 {
   "startTime": 1701447762682,
-  "endTime": 1701490829404,
+  "endTime": 1701491660174,
   "band_list": [
     {
       "raw_hot": 2227578,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1475616,
-      "num": 1475616,
+      "raw_hot": 1633608,
+      "num": 1633608,
       "word": "周一围朱丹你们敢耍老子",
       "onboard_time": 1701487775,
       "rank": 18,
@@ -49,6 +49,14 @@
       "onboard_time": 1701481293,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1065092,
+      "num": 1065092,
+      "word": "黄体破裂",
+      "onboard_time": 1701489332,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1012873,
@@ -89,6 +97,14 @@
       "onboard_time": 1701483994,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 839261,
+      "num": 839261,
+      "word": "刘宇宁 脖子前倾",
+      "onboard_time": 1701489751,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 811860,
@@ -139,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 616227,
-      "num": 616227,
-      "word": "黄体破裂",
-      "onboard_time": 1701489332,
-      "rank": 5,
-      "category": "健康医疗"
+      "raw_hot": 612473,
+      "num": 612473,
+      "word": "刘诗诗 磨皮",
+      "onboard_time": 1701489933,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 591494,
@@ -155,6 +171,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 565133,
+      "num": 565133,
+      "word": "电脑一定要关闭的设置",
+      "onboard_time": 1701486934,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 560779,
       "num": 560779,
       "word": "他只希望活过45岁啊",
@@ -163,28 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 544787,
-      "num": 544787,
-      "word": "刘宇宁 脖子前倾",
-      "onboard_time": 1701489751,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 535737,
       "num": 535737,
       "word": "小伙熬夜打游戏关节长千颗白色颗粒",
       "onboard_time": 1701459974,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524982,
-      "num": 524982,
-      "word": "电脑一定要关闭的设置",
-      "onboard_time": 1701486934,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 524488,
@@ -219,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465258,
+      "num": 465258,
+      "word": "王俊凯 迪奥",
+      "onboard_time": 1701490894,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444164,
       "num": 444164,
       "word": "再见李可乐 你好李焕英",
       "onboard_time": 1701475470,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 427590,
-      "num": 427590,
-      "word": "刘诗诗 磨皮",
-      "onboard_time": 1701489933,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 425251,
@@ -288,6 +296,14 @@
       "word": "谢依霖 爆红其实很可怕",
       "onboard_time": 1701481535,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388577,
+      "num": 339384,
+      "word": "华晨宇 假发",
+      "onboard_time": 1701490471,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -395,8 +411,8 @@
       "category": "健康医疗,美妆"
     },
     {
-      "raw_hot": 286091,
-      "num": 286091,
+      "raw_hot": 296297,
+      "num": 296297,
       "word": "HPV感染原因",
       "onboard_time": 1701489390,
       "rank": 16,
@@ -475,6 +491,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 244955,
+      "num": 244955,
+      "word": "柳宗元竟是螺蛳粉的初代推广大使",
+      "onboard_time": 1701490894,
+      "rank": 20,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 243822,
       "num": 227432,
       "word": "女子月子期不愿丈夫上班被婆婆怒斥",
@@ -489,14 +513,6 @@
       "onboard_time": 1701482313,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227167,
-      "num": 227167,
-      "word": "华晨宇 假发",
-      "onboard_time": 1701490471,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 227045,
@@ -603,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199560,
+      "num": 199560,
+      "word": "孙海洋祝福亿万富翁寻子成功",
+      "onboard_time": 1701489512,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197053,
       "num": 197053,
       "word": "周深官宣加盟声生不息",
@@ -665,14 +689,6 @@
       "onboard_time": 1701441818,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183568,
-      "num": 183568,
-      "word": "孙海洋祝福亿万富翁寻子成功",
-      "onboard_time": 1701489512,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182145,
@@ -825,6 +841,14 @@
       "onboard_time": 1701482072,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152855,
+      "num": 152855,
+      "word": "陈瑶水龙吟造型是一身桃花",
+      "onboard_time": 1701491430,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 152631,
@@ -987,6 +1011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128574,
+      "num": 125514,
+      "word": "周迅台词 人无能的时候才生气",
+      "onboard_time": 1701491311,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128408,
       "num": 128408,
       "word": "张力尹发型",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1701426638,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115014,
+      "num": 115014,
+      "word": "患抑郁女生报告病情后被学校劝退",
+      "onboard_time": 1701491494,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114707,
@@ -1300,7 +1340,7 @@
     },
     {
       "raw_hot": 50605,
-      "num": 1024562,
+      "num": 1084643,
       "word": "民警反诈劝阻真实现场",
       "onboard_time": 1701436776,
       "rank": 2,
