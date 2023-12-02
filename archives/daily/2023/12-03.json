@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701538444553,
+  "endTime": 1701541218289,
   "band_list": [
     {
       "raw_hot": 2635505,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257311,
+      "num": 153739,
+      "word": "亿万富豪被拐儿子将回归原生家庭",
+      "onboard_time": 1701538102,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246220,
       "num": 190829,
       "word": "古装女主以后就这么演",
@@ -209,6 +217,14 @@
       "onboard_time": 1701523832,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191178,
+      "num": 191178,
+      "word": "李权哲被批评 朱正廷先哭",
+      "onboard_time": 1701538581,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 188025,
@@ -305,6 +321,14 @@
       "onboard_time": 1701508472,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126166,
+      "num": 84727,
+      "word": "华晨宇 场外",
+      "onboard_time": 1701540261,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 124672,
@@ -443,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45776,
-      "num": 66330,
-      "word": "亿万富豪被拐儿子将回归原生家庭",
-      "onboard_time": 1701538102,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 25728,
+      "num": 37127,
+      "word": "军大衣",
+      "onboard_time": 1701540501,
+      "rank": 49,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [

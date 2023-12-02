@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701538444553,
+  "endTime": 1701541218289,
   "band_list": [
     {
       "raw_hot": 4547826,
@@ -2483,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257311,
+      "num": 153739,
+      "word": "亿万富豪被拐儿子将回归原生家庭",
+      "onboard_time": 1701538102,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255153,
       "num": 255153,
       "word": "杨迪被林俊杰回关很开心",
@@ -3553,6 +3561,14 @@
       "onboard_time": 1701357634,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191178,
+      "num": 191178,
+      "word": "李权哲被批评 朱正廷先哭",
+      "onboard_time": 1701538581,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 190501,
@@ -4971,6 +4987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126166,
+      "num": 84727,
+      "word": "华晨宇 场外",
+      "onboard_time": 1701540261,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125945,
       "num": 125945,
       "word": "林俊杰南宁",
@@ -5547,14 +5571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45776,
-      "num": 66330,
-      "word": "亿万富豪被拐儿子将回归原生家庭",
-      "onboard_time": 1701538102,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44410,
       "num": 44410,
       "word": "王鹤棣看秀待遇",
@@ -5633,6 +5649,14 @@
       "onboard_time": 1701455357,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25728,
+      "num": 37127,
+      "word": "军大衣",
+      "onboard_time": 1701540501,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 23757,
