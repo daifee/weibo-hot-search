@@ -1,0 +1,410 @@
+{
+  "runTime": 1701584467187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 905265,
+        "num": 905265,
+        "word": "孟美岐 年度最具突破女歌手",
+        "onboard_time": 1701581734,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1185719,
+        "num": 752276,
+        "word": "东航MU721航班故障机舱画面曝光",
+        "onboard_time": 1701575432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47258,
+        "num": 623880,
+        "word": "他们的拼搏值得被看见",
+        "onboard_time": 1701573996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570675,
+        "num": 570675,
+        "word": "王鹤棣 拍古装拍烦了",
+        "onboard_time": 1701579453,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544001,
+        "num": 544001,
+        "word": "初代网红奶茶店开始悄悄倒闭",
+        "onboard_time": 1701576511,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535945,
+        "num": 535945,
+        "word": "营业性演出假唱 违法",
+        "onboard_time": 1701582152,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348033,
+        "num": 348033,
+        "word": "宋雨琦现场观战湖人",
+        "onboard_time": 1701581431,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 345707,
+        "num": 345707,
+        "word": "零食 公摊面积",
+        "onboard_time": 1701577171,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 308328,
+        "num": 308328,
+        "word": "文字讨好症",
+        "onboard_time": 1701581911,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 292224,
+        "num": 292224,
+        "word": "适合做老婆为什么会是一种冒犯",
+        "onboard_time": 1701566851,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3521124,
+        "num": 292050,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1389258,
+        "num": 290523,
+        "word": "五月天 假唱派和真唱派",
+        "onboard_time": 1701580954,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 577422,
+        "num": 288353,
+        "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+        "onboard_time": 1701572731,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547107,
+        "num": 287929,
+        "word": "向太郭碧婷 越来越像",
+        "onboard_time": 1701576571,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 398697,
+        "num": 285837,
+        "word": "宋轶删图",
+        "onboard_time": 1701525999,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368732,
+        "num": 285600,
+        "word": "离婚 跟拍",
+        "onboard_time": 1701583653,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353580,
+        "num": 284229,
+        "word": "五月天假唱鉴定",
+        "onboard_time": 1701530795,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283155,
+        "num": 283155,
+        "word": "难哄 白敬亭",
+        "onboard_time": 1701523234,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280121,
+        "num": 280121,
+        "word": "夏克立称已经两年没有办法联络到女儿",
+        "onboard_time": 1701574052,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257753,
+        "num": 257753,
+        "word": "韩国申博 沙特宣传片",
+        "onboard_time": 1701579811,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260611,
+        "num": 256821,
+        "word": "星光大赏第三波嘉宾名单",
+        "onboard_time": 1701580116,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244667,
+        "num": 244667,
+        "word": "穿大衣当然要扎低丸子头",
+        "onboard_time": 1701564993,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 243786,
+        "num": 243786,
+        "word": "浙江农村大席",
+        "onboard_time": 1701582512,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 235741,
+        "num": 235741,
+        "word": "警犬找出7斤多鸦片被奖30斤狗粮",
+        "onboard_time": 1701572250,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220367,
+        "num": 220367,
+        "word": "刘诗诗 老公是一种态度",
+        "onboard_time": 1701562586,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210074,
+        "num": 210074,
+        "word": "爷爷发给我对象的第一条消息",
+        "onboard_time": 1701581311,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191867,
+        "num": 191867,
+        "word": "AI 可怕",
+        "onboard_time": 1701581073,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190954,
+        "num": 190954,
+        "word": "独行侠30比0 活久见",
+        "onboard_time": 1701579692,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175240,
+        "num": 175240,
+        "word": "日本多地接连观测到海啸",
+        "onboard_time": 1701578794,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162645,
+        "num": 162645,
+        "word": "减肥的底层逻辑",
+        "onboard_time": 1701582270,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 161620,
+        "num": 161620,
+        "word": "刘诗诗的配音",
+        "onboard_time": 1701582934,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155529,
+        "num": 155529,
+        "word": "东航客机故障亲历者发声",
+        "onboard_time": 1701580714,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152528,
+        "num": 152528,
+        "word": "詹姆斯360度上篮",
+        "onboard_time": 1701579751,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149178,
+        "num": 149178,
+        "word": "谢依霖遗传了妈妈的抑郁症",
+        "onboard_time": 1701569371,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147714,
+        "num": 147714,
+        "word": "上厕所玩手机有多危险",
+        "onboard_time": 1701566129,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146977,
+        "num": 146977,
+        "word": "杨绍辉打破中国马拉松纪录",
+        "onboard_time": 1701583954,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144651,
+        "num": 144651,
+        "word": "涵艺爆料Uzi不会复出",
+        "onboard_time": 1701581129,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143201,
+        "num": 143201,
+        "word": "如何委婉拒绝刘亦菲",
+        "onboard_time": 1701569428,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 134638,
+        "num": 134638,
+        "word": "C罗被索赔超70亿",
+        "onboard_time": 1701569794,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127458,
+        "num": 127458,
+        "word": "张雨绮第一次开蚌全记录",
+        "onboard_time": 1701574530,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123025,
+        "num": 123025,
+        "word": "亿万富翁全家为被拐儿子补过26岁生日",
+        "onboard_time": 1701575613,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121899,
+        "num": 121899,
+        "word": "减龄丸子头",
+        "onboard_time": 1701584072,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118937,
+        "num": 118937,
+        "word": "山体落石从胡歌头上飞过",
+        "onboard_time": 1701578911,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118037,
+        "num": 118037,
+        "word": "湖人战胜火箭",
+        "onboard_time": 1701584432,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116176,
+        "num": 116176,
+        "word": "抑郁症 遗传",
+        "onboard_time": 1701571654,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115059,
+        "num": 115059,
+        "word": "肖战登新加坡报纸",
+        "onboard_time": 1701573510,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113006,
+        "num": 113006,
+        "word": "水瓶座真的不擅长表达感情",
+        "onboard_time": 1701571473,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102973,
+        "num": 102973,
+        "word": "白鹿烟熏眼妆",
+        "onboard_time": 1701582450,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 102392,
+        "num": 102392,
+        "word": "TES官宣Tian续约",
+        "onboard_time": 1701578853,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101359,
+        "num": 101359,
+        "word": "檀健次周也嘴巴都亲红了",
+        "onboard_time": 1701567629,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧扣一体化和高质量这两个关键词#"
+    }
+  }
+}

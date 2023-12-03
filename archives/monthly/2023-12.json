@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701581660945,
+  "endTime": 1701584467187,
   "band_list": [
     {
       "raw_hot": 4916739,
@@ -473,6 +473,14 @@
       "onboard_time": 1701440737,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905265,
+      "num": 905265,
+      "word": "孟美岐 年度最具突破女歌手",
+      "onboard_time": 1701581734,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 904631,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1701509670,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 535945,
+      "num": 535945,
+      "word": "营业性演出假唱 违法",
+      "onboard_time": 1701582152,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 535737,
@@ -1851,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368732,
+      "num": 285600,
+      "word": "离婚 跟拍",
+      "onboard_time": 1701583653,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366103,
       "num": 366103,
       "word": "湖南卫视跨年晚会嘉宾",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1701396509,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348033,
+      "num": 348033,
+      "word": "宋雨琦现场观战湖人",
+      "onboard_time": 1701581431,
+      "rank": 28,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 347981,
@@ -2281,6 +2313,14 @@
       "onboard_time": 1701440255,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 308328,
+      "num": 308328,
+      "word": "文字讨好症",
+      "onboard_time": 1701581911,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 307444,
@@ -2956,7 +2996,7 @@
     },
     {
       "raw_hot": 249082,
-      "num": 177840,
+      "num": 210074,
       "word": "爷爷发给我对象的第一条消息",
       "onboard_time": 1701581311,
       "rank": 30,
@@ -3033,6 +3073,14 @@
       "onboard_time": 1701387446,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 243786,
+      "num": 243786,
+      "word": "浙江农村大席",
+      "onboard_time": 1701582512,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 243416,
@@ -4091,6 +4139,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 191867,
+      "num": 191867,
+      "word": "AI 可怕",
+      "onboard_time": 1701581073,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 191469,
       "num": 183143,
       "word": "檀健次回hi6了",
@@ -4419,14 +4475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 178942,
-      "num": 178942,
-      "word": "宋雨琦现场观战湖人",
-      "onboard_time": 1701581431,
-      "rank": 28,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 177810,
       "num": 128723,
       "word": "90秒感受檀健次台词功底",
@@ -4723,14 +4771,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 166860,
-      "num": 166860,
-      "word": "AI 可怕",
-      "onboard_time": 1701581073,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 166653,
       "num": 166653,
       "word": "Doublelift宣布退役",
@@ -4851,6 +4891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162645,
+      "num": 162645,
+      "word": "减肥的底层逻辑",
+      "onboard_time": 1701582270,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 162071,
       "num": 162071,
       "word": "被十年前的笔记本电脑震惊到了",
@@ -4865,6 +4913,14 @@
       "onboard_time": 1701485192,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161620,
+      "num": 161620,
+      "word": "刘诗诗的配音",
+      "onboard_time": 1701582934,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 161364,
@@ -5233,6 +5289,14 @@
       "onboard_time": 1701506670,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 146977,
+      "num": 146977,
+      "word": "杨绍辉打破中国马拉松纪录",
+      "onboard_time": 1701583954,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 146810,
@@ -5963,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121899,
+      "num": 121899,
+      "word": "减龄丸子头",
+      "onboard_time": 1701584072,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 121784,
       "num": 121784,
       "word": "熊猫幼崽爬行还是个蛄蛹者呢",
@@ -6025,6 +6097,14 @@
       "onboard_time": 1701405343,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118037,
+      "num": 118037,
+      "word": "湖人战胜火箭",
+      "onboard_time": 1701584432,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 117215,
@@ -6153,6 +6233,14 @@
       "onboard_time": 1701478652,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102973,
+      "num": 102973,
+      "word": "白鹿烟熏眼妆",
+      "onboard_time": 1701582450,
+      "rank": 47,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 102358,
