@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701612892749,
+  "endTime": 1701614034763,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -27,8 +27,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 5425346,
+      "num": 5425346,
+      "word": "五月天经纪方多次挂断媒体电话",
+      "onboard_time": 1701612639,
+      "rank": 10,
+      "category": "音乐,社会新闻"
+    },
+    {
       "raw_hot": 4916739,
-      "num": 577037,
+      "num": 579379,
       "word": "演唱会假唱 离谱",
       "onboard_time": 1701577531,
       "rank": 5,
@@ -113,14 +121,6 @@
       "onboard_time": 1701585092,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1491054,
-      "num": 585451,
-      "word": "五月天经纪方多次挂断媒体电话",
-      "onboard_time": 1701612639,
-      "rank": 10,
-      "category": "音乐,社会新闻"
     },
     {
       "raw_hot": 1475037,
@@ -307,6 +307,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 713893,
+      "num": 713893,
+      "word": "GQ官宣易烊千玺",
+      "onboard_time": 1701610365,
+      "rank": 42,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 698933,
+      "num": 698933,
+      "word": "一念关山破万",
+      "onboard_time": 1701610964,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 695650,
       "num": 695650,
       "word": "严敏 无限流综艺",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 668899,
-      "num": 573464,
+      "num": 615787,
       "word": "雪莉杨被绑架",
       "onboard_time": 1701611321,
       "rank": 12,
@@ -371,28 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 612177,
-      "num": 612177,
-      "word": "GQ官宣易烊千玺",
-      "onboard_time": 1701610365,
-      "rank": 42,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 609562,
       "num": 609562,
       "word": "博主向消协公开举报五月天假唱",
       "onboard_time": 1701594996,
       "rank": 4,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 604336,
-      "num": 604336,
-      "word": "一念关山破万",
-      "onboard_time": 1701610964,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 598967,
@@ -587,12 +587,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 466776,
+      "num": 466776,
+      "word": "大妈捡到手机用免密支付刷光余额",
+      "onboard_time": 1701612223,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450395,
       "num": 450395,
       "word": "小S  舒淇亚洲第二美",
       "onboard_time": 1701607478,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441024,
+      "num": 271098,
+      "word": "痞幼三倍大眼妆",
+      "onboard_time": 1701612824,
+      "rank": 43,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 436104,
@@ -691,6 +707,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 403926,
+      "num": 403926,
+      "word": "林俊杰 等我修炼完爱情再修理你",
+      "onboard_time": 1701613123,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 384983,
       "num": 384983,
       "word": "N1",
@@ -739,12 +763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365220,
+      "num": 365220,
+      "word": "把猫猫的头含进嘴里的萨摩耶",
+      "onboard_time": 1701612223,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 362234,
       "num": 362234,
       "word": "文物禁止拍照是量子问题",
       "onboard_time": 1701586230,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359579,
+      "num": 359579,
+      "word": "何蓝逗演技",
+      "onboard_time": 1701611863,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 359318,
@@ -801,14 +841,6 @@
       "onboard_time": 1701566129,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 335989,
-      "num": 240986,
-      "word": "何蓝逗演技",
-      "onboard_time": 1701611863,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 334308,
@@ -1003,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290619,
+      "num": 290619,
+      "word": "看了文科专业评分有点汗流浃背",
+      "onboard_time": 1701612523,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288805,
       "num": 288805,
       "word": "游客大兴机场带94斤大虾入境被查",
@@ -1067,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277110,
+      "num": 277110,
+      "word": "一念关山新浪扫楼预告",
+      "onboard_time": 1701613062,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276900,
       "num": 276900,
       "word": "亿万富翁全家为被拐儿子补过26岁生日",
@@ -1076,7 +1124,7 @@
     },
     {
       "raw_hot": 275164,
-      "num": 226032,
+      "num": 269755,
       "word": "张雨绮新剧身材",
       "onboard_time": 1701612280,
       "rank": 30,
@@ -1171,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246004,
-      "num": 246004,
-      "word": "大妈捡到手机用免密支付刷光余额",
-      "onboard_time": 1701612223,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243786,
       "num": 243786,
       "word": "浙江农村大席",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1701563427,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240627,
+      "num": 240627,
+      "word": "旭旭宝宝现身助理直播间",
+      "onboard_time": 1701613603,
+      "rank": 35,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 235081,
@@ -1281,14 +1329,6 @@
       "onboard_time": 1701562705,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222875,
-      "num": 222875,
-      "word": "把猫猫的头含进嘴里的萨摩耶",
-      "onboard_time": 1701612223,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 222764,
@@ -1443,12 +1483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203750,
+      "num": 203750,
+      "word": "WB对战Hero",
+      "onboard_time": 1701613123,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203258,
       "num": 203258,
       "word": "苏翊鸣教练 小鸣真牛",
       "onboard_time": 1701528814,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202302,
+      "num": 202302,
+      "word": "声生不息 文案",
+      "onboard_time": 1701613421,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 200963,
@@ -1803,12 +1859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170068,
-      "num": 170068,
-      "word": "看了文科专业评分有点汗流浃背",
-      "onboard_time": 1701612523,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 169439,
+      "num": 169439,
+      "word": "异木棉",
+      "onboard_time": 1701612403,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 169386,
@@ -1825,14 +1881,6 @@
       "onboard_time": 1701567268,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168832,
-      "num": 168832,
-      "word": "痞幼三倍大眼妆",
-      "onboard_time": 1701612824,
-      "rank": 43,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 168768,
@@ -1904,6 +1952,14 @@
       "word": "刘诗诗的配音",
       "onboard_time": 1701582934,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161566,
+      "num": 161566,
+      "word": "一念关山反派不够用了吧",
+      "onboard_time": 1701613963,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -2009,14 +2065,6 @@
       "onboard_time": 1701591215,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153047,
-      "num": 153047,
-      "word": "异木棉",
-      "onboard_time": 1701612403,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 151988,
