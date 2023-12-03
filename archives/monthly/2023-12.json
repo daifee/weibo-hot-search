@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701614034763,
+  "endTime": 1701616586516,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1238351,
+      "num": 1238351,
+      "word": "博主再更新五月天真假唱鉴定视频",
+      "onboard_time": 1701616061,
+      "rank": 4,
+      "category": "综艺,社会新闻"
+    },
+    {
       "raw_hot": 1211159,
       "num": 1211159,
       "word": "一周不洗脸为什么皮肤变好了",
@@ -787,6 +795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 767425,
+      "num": 767425,
+      "word": "痞幼三倍大眼妆",
+      "onboard_time": 1701612824,
+      "rank": 43,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 762288,
       "num": 762288,
       "word": "旭旭宝宝",
@@ -849,6 +865,14 @@
       "onboard_time": 1701387208,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 734742,
+      "num": 734742,
+      "word": "大妈捡到手机用免密支付刷光余额",
+      "onboard_time": 1701612223,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 731664,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1701474629,
       "rank": 10,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 646592,
+      "num": 646592,
+      "word": "林俊杰 等我修炼完爱情再修理你",
+      "onboard_time": 1701613123,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 643402,
@@ -1579,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 466776,
-      "num": 466776,
-      "word": "大妈捡到手机用免密支付刷光余额",
-      "onboard_time": 1701612223,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463818,
       "num": 463818,
       "word": "宋雨琦被工作人员阻止接信",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1701500372,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 454305,
+      "num": 454305,
+      "word": "GQ压轴官宣杨幂",
+      "onboard_time": 1701615637,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 453341,
@@ -1737,14 +1769,6 @@
       "onboard_time": 1701513753,
       "rank": 13,
       "category": "时尚,网红"
-    },
-    {
-      "raw_hot": 441024,
-      "num": 271098,
-      "word": "痞幼三倍大眼妆",
-      "onboard_time": 1701612824,
-      "rank": 43,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 436104,
@@ -2011,14 +2035,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 403926,
-      "num": 403926,
-      "word": "林俊杰 等我修炼完爱情再修理你",
-      "onboard_time": 1701613123,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 400577,
       "num": 524612,
       "word": "女子产下双胞胎后称小儿子去向不明",
@@ -2260,7 +2276,7 @@
     },
     {
       "raw_hot": 371029,
-      "num": 371029,
+      "num": 484443,
       "word": "男子520元拍下一套房遭悔拍",
       "onboard_time": 1701611021,
       "rank": 18,
@@ -2281,6 +2297,14 @@
       "onboard_time": 1701412414,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367427,
+      "num": 413477,
+      "word": "旭旭宝宝现身助理直播间",
+      "onboard_time": 1701613603,
+      "rank": 35,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 366103,
@@ -3179,6 +3203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279791,
+      "num": 211210,
+      "word": "因为是有名的爱豆所以惹不起",
+      "onboard_time": 1701615581,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 279413,
       "num": 267578,
       "word": "newjeans五颜六色的红毯",
@@ -3705,14 +3737,6 @@
       "onboard_time": 1701434494,
       "rank": 23,
       "category": "自然"
-    },
-    {
-      "raw_hot": 240627,
-      "num": 240627,
-      "word": "旭旭宝宝现身助理直播间",
-      "onboard_time": 1701613603,
-      "rank": 35,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 240497,
@@ -4467,6 +4491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206208,
+      "num": 148010,
+      "word": "吴京知道成片是这样的吗",
+      "onboard_time": 1701615519,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205872,
       "num": 205872,
       "word": "球场鹿晗 自由如风的少年",
@@ -4481,6 +4513,14 @@
       "onboard_time": 1701441036,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205616,
+      "num": 202302,
+      "word": "声生不息 文案",
+      "onboard_time": 1701613421,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 205409,
@@ -4569,14 +4609,6 @@
       "onboard_time": 1701356979,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 202302,
-      "num": 202302,
-      "word": "声生不息 文案",
-      "onboard_time": 1701613421,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 202288,
@@ -4931,6 +4963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193531,
+      "num": 161566,
+      "word": "一念关山反派不够用了吧",
+      "onboard_time": 1701613963,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193167,
       "num": 193167,
       "word": "魏哲鸣唐域 癫公总裁",
@@ -4993,6 +5033,14 @@
       "onboard_time": 1701398912,
       "rank": 30,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 192033,
+      "num": 146386,
+      "word": "魏晨 郑州",
+      "onboard_time": 1701616479,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 191928,
@@ -5899,14 +5947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161566,
-      "num": 161566,
-      "word": "一念关山反派不够用了吧",
-      "onboard_time": 1701613963,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161364,
       "num": 161364,
       "word": "知识以一种侮辱的方式进入了大脑",
@@ -6411,6 +6451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145874,
+      "num": 145874,
+      "word": "17战队",
+      "onboard_time": 1701616421,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145547,
       "num": 145547,
       "word": "全场围观古巨基吻戏",
@@ -6617,6 +6665,14 @@
       "onboard_time": 1701482853,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140790,
+      "num": 146708,
+      "word": "利物浦vs富勒姆",
+      "onboard_time": 1701615163,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 140579,
@@ -7171,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123023,
+      "num": 141688,
+      "word": "斯诺克",
+      "onboard_time": 1701614141,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122869,
       "num": 122869,
       "word": "你不是我的亲妈妈但不妨碍我爱你",
@@ -7289,6 +7353,14 @@
       "onboard_time": 1701405343,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117506,
+      "num": 139825,
+      "word": "恋与春晚",
+      "onboard_time": 1701615340,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 117215,
