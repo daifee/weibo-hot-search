@@ -1,10 +1,10 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701591630846,
+  "endTime": 1701592458192,
   "band_list": [
     {
-      "raw_hot": 8511546,
-      "num": 8511546,
+      "raw_hot": 9074037,
+      "num": 9074037,
       "word": "官方回应五月天被质疑假唱",
       "onboard_time": 1701589594,
       "rank": 0,
@@ -83,19 +83,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1452358,
+      "num": 1452358,
+      "word": "酒肉情侣 soulmate",
+      "onboard_time": 1701588993,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1422456,
       "num": 1422456,
       "word": "适合做老婆为什么会是一种冒犯",
       "onboard_time": 1701566851,
       "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1275124,
-      "num": 1275124,
-      "word": "酒肉情侣 soulmate",
-      "onboard_time": 1701588993,
-      "rank": 1,
       "category": "情感"
     },
     {
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554079,
+      "num": 290970,
+      "word": "越南一男子就诊发现颅内插了双筷子",
+      "onboard_time": 1701588031,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550689,
       "num": 550689,
       "word": "零食 公摊面积",
@@ -323,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 462440,
-      "num": 290970,
-      "word": "越南一男子就诊发现颅内插了双筷子",
-      "onboard_time": 1701588031,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 436104,
       "num": 436104,
       "word": "LV6.9万夹克酷似南宁校服",
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422229,
+      "num": 422229,
+      "word": "王鹤棣田曦薇现代戏路透",
+      "onboard_time": 1701589594,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 420190,
       "num": 420190,
       "word": "很想很想你 掉马",
@@ -393,14 +401,6 @@
       "onboard_time": 1701569428,
       "rank": 15,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 390990,
-      "num": 390990,
-      "word": "王鹤棣田曦薇现代戏路透",
-      "onboard_time": 1701589594,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 377908,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331357,
+      "num": 273704,
+      "word": "寻子成功富豪辟谣资产上亿",
+      "onboard_time": 1701590558,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326346,
       "num": 326346,
       "word": "我是怎样查出医院超收10万医疗费",
@@ -499,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314051,
-      "num": 273704,
-      "word": "寻子成功富豪辟谣资产上亿",
-      "onboard_time": 1701590558,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 316580,
+      "num": 216936,
+      "word": "关晓彤 清冷",
+      "onboard_time": 1701590976,
+      "rank": 22,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 311582,
@@ -747,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227862,
-      "num": 216936,
-      "word": "关晓彤 清冷",
-      "onboard_time": 1701590976,
-      "rank": 22,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 226016,
       "num": 226016,
       "word": "成毅 热爱是每次开机时的期待",
@@ -873,6 +873,14 @@
       "onboard_time": 1701578853,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206188,
+      "num": 146350,
+      "word": "女性生理期冷知识",
+      "onboard_time": 1701592231,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205872,
@@ -1139,6 +1147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168625,
+      "num": 168625,
+      "word": "全红婵陈芋汐轻松夺冠",
+      "onboard_time": 1701592114,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166570,
       "num": 166570,
       "word": "猫 你觉得合理不",
@@ -1235,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153813,
+      "num": 153813,
+      "word": "小事反复纠结 大事草率决定",
+      "onboard_time": 1701591215,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151988,
       "num": 151988,
       "word": "法越馨镜头下的肖战",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1701566970,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148700,
+      "num": 148700,
+      "word": "2023LOL冬季转会期",
+      "onboard_time": 1701591994,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 146977,
@@ -1539,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122798,
+      "num": 122798,
+      "word": "宋雨琦 湖人穿搭",
+      "onboard_time": 1701591276,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122624,
       "num": 122624,
       "word": "王心凌听陈楚生弹唱",
@@ -1553,14 +1593,6 @@
       "onboard_time": 1701584072,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 121863,
-      "num": 121863,
-      "word": "宋雨琦 湖人穿搭",
-      "onboard_time": 1701591276,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121784,
@@ -1651,14 +1683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113260,
-      "num": 113260,
-      "word": "小事反复纠结 大事草率决定",
-      "onboard_time": 1701591215,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112500,
       "num": 112500,
       "word": "还以为MMA的音响很烂",
@@ -1723,6 +1747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98713,
+      "num": 98713,
+      "word": "梁实秋写的麦当劳",
+      "onboard_time": 1701591576,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 98288,
       "num": 98288,
       "word": "樊振东孙颖莎出席混团抽签",
@@ -1747,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90920,
+      "num": 90920,
+      "word": "龘是什么意思",
+      "onboard_time": 1701592413,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90644,
       "num": 1358923,
       "word": "国家卫健委表示未发现新发传染病",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1701558439,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88398,
-      "num": 88398,
-      "word": "梁实秋写的麦当劳",
-      "onboard_time": 1701591576,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 86005,

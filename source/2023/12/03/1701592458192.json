@@ -1,0 +1,410 @@
+{
+  "runTime": 1701592458192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9074037,
+        "num": 9074037,
+        "word": "官方回应五月天被质疑假唱",
+        "onboard_time": 1701589594,
+        "rank": 0,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 1452358,
+        "num": 1452358,
+        "word": "酒肉情侣 soulmate",
+        "onboard_time": 1701588993,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40749,
+        "num": 734706,
+        "word": "中老铁路开通2周年",
+        "onboard_time": 1701572193,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 573744,
+        "num": 573744,
+        "word": "离婚 跟拍",
+        "onboard_time": 1701583653,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422229,
+        "num": 422229,
+        "word": "王鹤棣田曦薇现代戏路透",
+        "onboard_time": 1701589594,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405310,
+        "num": 405310,
+        "word": "手机拍照的图片不要直接打印",
+        "onboard_time": 1701585332,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 362545,
+        "num": 362545,
+        "word": "LWX林炜翔",
+        "onboard_time": 1701588153,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 332298,
+        "num": 332298,
+        "word": "初代网红奶茶店开始悄悄倒闭",
+        "onboard_time": 1701576511,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319969,
+        "num": 319969,
+        "word": "官方通报三甲医院超收22万医疗费",
+        "onboard_time": 1701585991,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278115,
+        "num": 278115,
+        "word": "孟美岐 年度最具突破女歌手",
+        "onboard_time": 1701581734,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 953596,
+        "num": 276310,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 554079,
+        "num": 271403,
+        "word": "越南一男子就诊发现颅内插了双筷子",
+        "onboard_time": 1701588031,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462052,
+        "num": 267695,
+        "word": "五月天 假唱派和真唱派",
+        "onboard_time": 1701580954,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 366267,
+        "num": 264914,
+        "word": "东航MU721航班故障机舱画面曝光",
+        "onboard_time": 1701575432,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334586,
+        "num": 262375,
+        "word": "向太郭碧婷 越来越像",
+        "onboard_time": 1701576571,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 331357,
+        "num": 257026,
+        "word": "寻子成功富豪辟谣资产上亿",
+        "onboard_time": 1701590558,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316892,
+        "num": 256696,
+        "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+        "onboard_time": 1701572731,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253403,
+        "num": 253403,
+        "word": "宋轶删图",
+        "onboard_time": 1701525999,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202970,
+        "num": 202970,
+        "word": "文物禁止拍照是量子问题",
+        "onboard_time": 1701586230,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192019,
+        "num": 192019,
+        "word": "王鹤棣 拍古装拍烦了",
+        "onboard_time": 1701579453,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336336,
+        "num": 190816,
+        "word": "为什么普通人一年存两三万都很难",
+        "onboard_time": 1701585332,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316580,
+        "num": 189594,
+        "word": "关晓彤 清冷",
+        "onboard_time": 1701590976,
+        "rank": 21,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 306981,
+        "num": 189296,
+        "word": "做陪玩的农村女人们",
+        "onboard_time": 1701590375,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185495,
+        "num": 185495,
+        "word": "TES官宣creme加入",
+        "onboard_time": 1701587970,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184683,
+        "num": 184683,
+        "word": "易烊千玺胶卷风citywalk",
+        "onboard_time": 1701589831,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182334,
+        "num": 182334,
+        "word": "陈奕迅 川贵妃",
+        "onboard_time": 1701588452,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168625,
+        "num": 168625,
+        "word": "全红婵陈芋汐轻松夺冠",
+        "onboard_time": 1701592114,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153813,
+        "num": 153813,
+        "word": "小事反复纠结 大事草率决定",
+        "onboard_time": 1701591215,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148903,
+        "num": 148903,
+        "word": "全小区的猫都来看三花了",
+        "onboard_time": 1701587010,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148700,
+        "num": 148700,
+        "word": "2023LOL冬季转会期",
+        "onboard_time": 1701591994,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206188,
+        "num": 146350,
+        "word": "女性生理期冷知识",
+        "onboard_time": 1701592231,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142100,
+        "num": 142100,
+        "word": "难哄 白敬亭",
+        "onboard_time": 1701523234,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141958,
+        "num": 141958,
+        "word": "汪苏泷周深 是兄弟就一起社死",
+        "onboard_time": 1701587672,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136016,
+        "num": 136016,
+        "word": "周冬雨陈妙 爽文女主",
+        "onboard_time": 1701588933,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134569,
+        "num": 134569,
+        "word": "MISSING帮助Ruler走出困境",
+        "onboard_time": 1701589473,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128549,
+        "num": 128549,
+        "word": "球场鹿晗 自由如风的少年",
+        "onboard_time": 1701588212,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122798,
+        "num": 122798,
+        "word": "宋雨琦 湖人穿搭",
+        "onboard_time": 1701591276,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150639,
+        "num": 122289,
+        "word": "珠海警方回应某小区疑发生3人被害凶案",
+        "onboard_time": 1701586771,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119533,
+        "num": 119533,
+        "word": "营业性演出假唱 违法",
+        "onboard_time": 1701582152,
+        "rank": 38,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 118726,
+        "num": 118726,
+        "word": "警犬找出7斤多鸦片被奖30斤狗粮",
+        "onboard_time": 1701572250,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115933,
+        "num": 115933,
+        "word": "成毅 热爱是每次开机时的期待",
+        "onboard_time": 1701587133,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108878,
+        "num": 108878,
+        "word": "张杰 珠海",
+        "onboard_time": 1701585872,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77108,
+        "num": 108647,
+        "word": "日本多地接连观测到海啸",
+        "onboard_time": 1701578794,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108579,
+        "num": 108579,
+        "word": "适合做老婆为什么会是一种冒犯",
+        "onboard_time": 1701566851,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106287,
+        "num": 106287,
+        "word": "不喜欢回老家 失权感",
+        "onboard_time": 1701584732,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98713,
+        "num": 98713,
+        "word": "梁实秋写的麦当劳",
+        "onboard_time": 1701591576,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 90948,
+        "num": 90948,
+        "word": "樊振东孙颖莎出席混团抽签",
+        "onboard_time": 1701589053,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90920,
+        "num": 90920,
+        "word": "龘是什么意思",
+        "onboard_time": 1701592413,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88652,
+        "num": 88652,
+        "word": "杨千嬅陈奕迅 胜负欲与战友情",
+        "onboard_time": 1701585691,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87541,
+        "num": 87541,
+        "word": "孙颖莎 快乐捡球工",
+        "onboard_time": 1701589292,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬社会主义法治精神#"
+    }
+  }
+}

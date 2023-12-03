@@ -1,10 +1,10 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701591630846,
+  "endTime": 1701592458192,
   "band_list": [
     {
-      "raw_hot": 8511546,
-      "num": 8511546,
+      "raw_hot": 9074037,
+      "num": 9074037,
       "word": "官方回应五月天被质疑假唱",
       "onboard_time": 1701589594,
       "rank": 0,
@@ -299,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1452358,
+      "num": 1452358,
+      "word": "酒肉情侣 soulmate",
+      "onboard_time": 1701588993,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1425653,
       "num": 1425653,
       "word": "1米83自卑女孩靠穿汉服找回自信",
@@ -345,14 +353,6 @@
       "onboard_time": 1701413252,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1275124,
-      "num": 1275124,
-      "word": "酒肉情侣 soulmate",
-      "onboard_time": 1701588993,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1252604,
@@ -1043,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554079,
+      "num": 290970,
+      "word": "越南一男子就诊发现颅内插了双筷子",
+      "onboard_time": 1701588031,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550689,
       "num": 550689,
       "word": "零食 公摊面积",
@@ -1331,14 +1339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 462440,
-      "num": 290970,
-      "word": "越南一男子就诊发现颅内插了双筷子",
-      "onboard_time": 1701588031,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460042,
       "num": 454183,
       "word": "小虎队 陈志朋团队禁词",
@@ -1595,6 +1595,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 422229,
+      "num": 422229,
+      "word": "王鹤棣田曦薇现代戏路透",
+      "onboard_time": 1701589594,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421216,
       "num": 347512,
       "word": "张韶涵 第一位大莲花女歌手",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1701523832,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 390990,
-      "num": 390990,
-      "word": "王鹤棣田曦薇现代戏路透",
-      "onboard_time": 1701589594,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 390315,
@@ -2211,6 +2211,14 @@
       "category": "健康医疗,社会议题"
     },
     {
+      "raw_hot": 331357,
+      "num": 273704,
+      "word": "寻子成功富豪辟谣资产上亿",
+      "onboard_time": 1701590558,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330655,
       "num": 330655,
       "word": "阿娇 女团人多分钱有点难",
@@ -2299,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316580,
+      "num": 216936,
+      "word": "关晓彤 清冷",
+      "onboard_time": 1701590976,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 315488,
       "num": 315488,
       "word": "毛阿敏 周深你是一只小百灵鸟",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1701372434,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314051,
-      "num": 273704,
-      "word": "寻子成功富豪辟谣资产上亿",
-      "onboard_time": 1701590558,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313720,
@@ -3419,14 +3427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227862,
-      "num": 216936,
-      "word": "关晓彤 清冷",
-      "onboard_time": 1701590976,
-      "rank": 22,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 227087,
       "num": 227087,
       "word": "新加坡独角兽挑战拼多多",
@@ -3889,6 +3889,14 @@
       "onboard_time": 1701418831,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206188,
+      "num": 146350,
+      "word": "女性生理期冷知识",
+      "onboard_time": 1701592231,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205872,
@@ -4939,6 +4947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168625,
+      "num": 168625,
+      "word": "全红婵陈芋汐轻松夺冠",
+      "onboard_time": 1701592114,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168578,
       "num": 168578,
       "word": "杜华为乐华年会策划cos局",
@@ -5371,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153813,
+      "num": 153813,
+      "word": "小事反复纠结 大事草率决定",
+      "onboard_time": 1701591215,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153073,
       "num": 91617,
       "word": "张译 南极拒绝合影事件",
@@ -5489,6 +5513,14 @@
       "onboard_time": 1701523055,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 148700,
+      "num": 148700,
+      "word": "2023LOL冬季转会期",
+      "onboard_time": 1701591994,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 148232,
@@ -6267,6 +6299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122798,
+      "num": 122798,
+      "word": "宋雨琦 湖人穿搭",
+      "onboard_time": 1701591276,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122745,
       "num": 113201,
       "word": "万鹏 一把破剑舞出了大师感",
@@ -6297,14 +6337,6 @@
       "onboard_time": 1701584072,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 121863,
-      "num": 121863,
-      "word": "宋雨琦 湖人穿搭",
-      "onboard_time": 1701591276,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121784,
@@ -6417,14 +6449,6 @@
       "onboard_time": 1701533131,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113260,
-      "num": 113260,
-      "word": "小事反复纠结 大事草率决定",
-      "onboard_time": 1701591215,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 112500,
@@ -6595,6 +6619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98713,
+      "num": 98713,
+      "word": "梁实秋写的麦当劳",
+      "onboard_time": 1701591576,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 98694,
       "num": 117881,
       "word": "超大芋泥锅",
@@ -6683,6 +6715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90920,
+      "num": 90920,
+      "word": "龘是什么意思",
+      "onboard_time": 1701592413,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90254,
       "num": 64914,
       "word": "纽卡斯尔联1比0曼联",
@@ -6697,14 +6737,6 @@
       "onboard_time": 1701384801,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88398,
-      "num": 88398,
-      "word": "梁实秋写的麦当劳",
-      "onboard_time": 1701591576,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 88136,

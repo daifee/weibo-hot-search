@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/12/03 16:20:30
+本榜单时间：2023/01/01 00:23:37 ~ 2023/12/03 16:34:18
 </p>
 </blockquote>
 <p>
@@ -1071,6 +1071,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23" target="weibo">
+官方回应五月天被质疑假唱（热度：9074037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E8%80%81%E5%85%AC%23" target="weibo">
 李玟老公（热度：9044864）
 </a>
@@ -1259,12 +1265,6 @@ TFBOYS演唱会官宣（热度：9361784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E7%8A%AF%E5%BC%BA%E5%A5%B8%E8%81%9A%E4%BC%97%E6%B7%AB%E4%B9%B1%E4%BA%8C%E5%AE%A1%E5%BC%80%E5%BA%AD%23" target="weibo">
 吴亦凡犯强奸聚众淫乱二审开庭（热度：8531257）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23" target="weibo">
-官方回应五月天被质疑假唱（热度：8511546）
 </a>
 </li>
 
