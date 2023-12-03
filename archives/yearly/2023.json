@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1701607595812,
+  "endTime": 1701609545046,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1515,6 +1515,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 8850310,
+      "num": 8850310,
+      "word": "腾讯视频崩了",
+      "onboard_time": 1701607420,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 8839416,
       "num": 9309117,
       "word": "人大毕业生马某某被刑拘",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1700977951,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 6956736,
-      "num": 6956736,
-      "word": "天津震感",
-      "onboard_time": 1691261079,
-      "rank": 4,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

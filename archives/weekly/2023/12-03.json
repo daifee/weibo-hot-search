@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701607595812,
+  "endTime": 1701609545046,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -11,6 +11,22 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 8850310,
+      "num": 8850310,
+      "word": "腾讯视频崩了",
+      "onboard_time": 1701607420,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 5954986,
+      "num": 5954986,
+      "word": "腾讯会员 没了",
+      "onboard_time": 1701607961,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 4916739,
       "num": 531132,
       "word": "演唱会假唱 离谱",
@@ -19,20 +35,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 3033557,
-      "num": 219590,
-      "word": "腾讯视频崩了",
-      "onboard_time": 1701607420,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 2635505,
       "num": 2635505,
       "word": "五月天假唱鉴定",
       "onboard_time": 1701530795,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2563041,
+      "num": 2563041,
+      "word": "文旅局回应五月天疑似假唱",
+      "onboard_time": 1701607961,
+      "rank": 3,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 2238841,
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1004507,
+      "num": 1004507,
+      "word": "上海12345回应五月天被质疑假唱",
+      "onboard_time": 1701607837,
+      "rank": 4,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 978656,
       "num": 978656,
       "word": "孟美岐 年度最具突破女歌手",
@@ -275,12 +299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688658,
+      "num": 688658,
+      "word": "一周不洗脸为什么皮肤变好了",
+      "onboard_time": 1701608082,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 686609,
       "num": 540168,
       "word": "网友吐槽结婚6年真心觉得婚姻不值得",
       "onboard_time": 1701592831,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 672011,
+      "num": 672011,
+      "word": "发现被舍友删后重加要回4年前礼金",
+      "onboard_time": 1701606397,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652525,
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 533985,
-      "num": 366489,
+      "num": 501855,
       "word": "gidle舞台疑似抄袭BLACKPINK",
       "onboard_time": 1701606158,
       "rank": 20,
@@ -451,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508167,
+      "num": 508167,
+      "word": "旭旭宝宝",
+      "onboard_time": 1701607780,
+      "rank": 12,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 497499,
       "num": 497499,
       "word": "贫穷却美貌 就像带着金子逃难",
@@ -499,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 450395,
+      "num": 450395,
+      "word": "小S  舒淇亚洲第二美",
+      "onboard_time": 1701607478,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 436104,
       "num": 436104,
       "word": "LV6.9万夹克酷似南宁校服",
@@ -537,14 +593,6 @@
       "onboard_time": 1701601115,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 424823,
-      "num": 353655,
-      "word": "发现被舍友删后重加要回4年前礼金",
-      "onboard_time": 1701606397,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 422834,
@@ -595,12 +643,28 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 385257,
+      "num": 385257,
+      "word": "一念关山热度",
+      "onboard_time": 1701608570,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384983,
       "num": 384983,
       "word": "N1",
       "onboard_time": 1701593252,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 381206,
+      "num": 381206,
+      "word": "一念关山",
+      "onboard_time": 1701608082,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 377908,
@@ -611,20 +675,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373467,
+      "num": 373467,
+      "word": "星光大赏 座位图",
+      "onboard_time": 1701606095,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372477,
       "num": 372477,
       "word": "市监局回应美少女手办涉黄",
       "onboard_time": 1701570692,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371594,
-      "num": 281768,
-      "word": "星光大赏 座位图",
-      "onboard_time": 1701606095,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 362234,
@@ -1427,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192650,
+      "num": 192650,
+      "word": "50元儿童羽绒裤内含烟头槟榔",
+      "onboard_time": 1701607183,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192502,
       "num": 255369,
       "word": "42年朱鹮从仅发现7只增至上万只",
@@ -1603,14 +1675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169538,
-      "num": 169538,
-      "word": "小S  舒淇亚洲第二美",
-      "onboard_time": 1701607478,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169386,
       "num": 163915,
       "word": "星光大赏吃百家饭",
@@ -1625,6 +1689,14 @@
       "onboard_time": 1701567268,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168768,
+      "num": 168768,
+      "word": "EDG",
+      "onboard_time": 1701607780,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 168698,
@@ -2027,14 +2099,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 133284,
-      "num": 185508,
-      "word": "50元儿童羽绒裤内含烟头槟榔",
-      "onboard_time": 1701607183,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132478,
       "num": 132478,
       "word": "东北人都不用花钱买冰箱的吗",
@@ -2168,6 +2232,14 @@
       "word": "出生在大城市已经是种幸运",
       "onboard_time": 1701518734,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 124170,
+      "num": 124170,
+      "word": "处女座的活泼开朗都是装的",
+      "onboard_time": 1701606756,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -2427,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89278,
+      "num": 3384127,
+      "word": "红嘴鸥与滇池蓝同框宛如大片",
+      "onboard_time": 1701607183,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86005,
       "num": 1151302,
       "word": "中老铁路开通2周年",
@@ -2595,20 +2675,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 29425,
+      "num": 498333,
+      "word": "中国跑鞋日本赛场创纪录",
+      "onboard_time": 1701608806,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28981,
       "num": 271905,
       "word": "元梦之星一整个大动作",
       "onboard_time": 1701587010,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23997,
-      "num": 712802,
-      "word": "红嘴鸥与滇池蓝同框宛如大片",
-      "onboard_time": 1701607183,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18771,
