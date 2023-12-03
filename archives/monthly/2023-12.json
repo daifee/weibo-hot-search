@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701571237578,
+  "endTime": 1701573474142,
   "band_list": [
     {
       "raw_hot": 4547826,
@@ -251,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1422456,
+      "num": 1422456,
+      "word": "适合做老婆为什么会是一种冒犯",
+      "onboard_time": 1701566851,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1401830,
       "num": 1401830,
       "word": "上海独生女继承2亿遗产后被离婚",
       "onboard_time": 1701351038,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1316610,
-      "num": 1316610,
-      "word": "适合做老婆为什么会是一种冒犯",
-      "onboard_time": 1701566851,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 1309159,
@@ -635,6 +635,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 720978,
+      "num": 720978,
+      "word": "谢依霖遗传了妈妈的抑郁症",
+      "onboard_time": 1701569371,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713443,
       "num": 713443,
       "word": "29岁中国男子刺死日本女友",
@@ -681,14 +689,6 @@
       "onboard_time": 1701396871,
       "rank": 6,
       "category": "数码,社会新闻"
-    },
-    {
-      "raw_hot": 671720,
-      "num": 671720,
-      "word": "谢依霖遗传了妈妈的抑郁症",
-      "onboard_time": 1701569371,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 655147,
@@ -811,6 +811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 598967,
+      "num": 598967,
+      "word": "C罗被索赔超70亿",
+      "onboard_time": 1701569794,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596398,
       "num": 596398,
       "word": "江苏新增艾滋病例3584例",
@@ -825,14 +833,6 @@
       "onboard_time": 1701396271,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580735,
-      "num": 580735,
-      "word": "C罗被索赔超70亿",
-      "onboard_time": 1701569794,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 580287,
@@ -929,6 +929,14 @@
       "onboard_time": 1701509670,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 543691,
+      "num": 543691,
+      "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+      "onboard_time": 1701572731,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535737,
@@ -1075,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485569,
+      "num": 485569,
+      "word": "檀健次周也嘴巴都亲红了",
+      "onboard_time": 1701567629,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485069,
       "num": 485069,
       "word": "比酒精还厉害的肝脏刺客",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1701519872,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 473610,
+      "num": 420505,
+      "word": "抑郁症 遗传",
+      "onboard_time": 1701571654,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 471293,
@@ -1339,14 +1363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 430790,
-      "num": 404988,
-      "word": "檀健次周也嘴巴都亲红了",
-      "onboard_time": 1701567629,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 430453,
       "num": 411202,
       "word": "因为太耐用导致自己快失传",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1701564751,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426280,
+      "num": 426280,
+      "word": "穿大衣当然要扎低丸子头",
+      "onboard_time": 1701564993,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 425251,
@@ -1587,14 +1611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387986,
-      "num": 253471,
-      "word": "穿大衣当然要扎低丸子头",
-      "onboard_time": 1701564993,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 387576,
       "num": 387576,
       "word": "张纪中曝光前妻隐私被判罚2万",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1701513571,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372477,
+      "num": 372477,
+      "word": "市监局回应美少女手办涉黄",
+      "onboard_time": 1701570692,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371283,
@@ -1948,7 +1972,7 @@
     },
     {
       "raw_hot": 337524,
-      "num": 252639,
+      "num": 291781,
       "word": "上厕所玩手机有多危险",
       "onboard_time": 1701566129,
       "rank": 37,
@@ -2057,6 +2081,14 @@
       "onboard_time": 1701492393,
       "rank": 17,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 318016,
+      "num": 318016,
+      "word": "我是怎样查出医院超收10万医疗费",
+      "onboard_time": 1701571829,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317025,
@@ -2203,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298452,
+      "num": 298452,
+      "word": "警犬找出7斤多鸦片被奖30斤狗粮",
+      "onboard_time": 1701572250,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297542,
       "num": 247054,
       "word": "五年后才看到口红上的刻字",
@@ -2233,6 +2273,14 @@
       "onboard_time": 1701345034,
       "rank": 23,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 294664,
+      "num": 294664,
+      "word": "水瓶座真的不擅长表达感情",
+      "onboard_time": 1701571473,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 294590,
@@ -2339,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286302,
+      "num": 286302,
+      "word": "为什么有人一喝咖啡就跑厕所",
+      "onboard_time": 1701567392,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 285699,
       "num": 833360,
       "word": "骗子AI换脸成领导民警9分钟追156万",
@@ -2361,14 +2417,6 @@
       "onboard_time": 1701396030,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282000,
-      "num": 282000,
-      "word": "为什么有人一喝咖啡就跑厕所",
-      "onboard_time": 1701567392,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 281841,
@@ -2417,6 +2465,14 @@
       "onboard_time": 1701400533,
       "rank": 45,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 280112,
+      "num": 280112,
+      "word": "张元英Smoke3秒cut",
+      "onboard_time": 1701568169,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 279413,
@@ -2835,14 +2891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243232,
-      "num": 243232,
-      "word": "张元英Smoke3秒cut",
-      "onboard_time": 1701568169,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 241601,
       "num": 241601,
       "word": "BLG对战GEN",
@@ -3145,14 +3193,6 @@
       "onboard_time": 1701428615,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 219942,
-      "num": 219942,
-      "word": "市监局回应美少女手办涉黄",
-      "onboard_time": 1701570692,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219184,
@@ -3883,6 +3923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190141,
+      "num": 190141,
+      "word": "陈奕迅演唱会提词器",
+      "onboard_time": 1701572490,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189727,
       "num": 189727,
       "word": "崩坏星穹铁道 银枝",
@@ -4443,6 +4491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166570,
+      "num": 166570,
+      "word": "猫 你觉得合理不",
+      "onboard_time": 1701572490,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166391,
       "num": 166391,
       "word": "手和脚有点暧昧了",
@@ -4955,6 +5011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145129,
+      "num": 145129,
+      "word": "叶秋退役一周年",
+      "onboard_time": 1701571289,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145097,
       "num": 145097,
       "word": "杜兰特历史得分榜第十",
@@ -5033,6 +5097,14 @@
       "onboard_time": 1701441757,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143457,
+      "num": 143457,
+      "word": "同桌之间的垃圾袋",
+      "onboard_time": 1701572971,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 143011,
@@ -5331,6 +5403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131653,
+      "num": 131653,
+      "word": "国乒四员虎将适应比赛场地",
+      "onboard_time": 1701571654,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131584,
       "num": 131584,
       "word": "真的到此为止了吗 菩萨",
@@ -5611,6 +5691,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 118149,
+      "num": 118149,
+      "word": "金瀚深圳首马热身",
+      "onboard_time": 1701571593,
+      "rank": 42,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 118148,
       "num": 118148,
       "word": "大叔把自家老宅打造成袖珍园林",
@@ -5640,6 +5728,14 @@
       "word": "中国广电送您一张电视明白卡",
       "onboard_time": 1701426336,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115171,
+      "num": 115171,
+      "word": "曾坚持为外卖小哥打折的餐馆要关了",
+      "onboard_time": 1701573270,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -5985,6 +6081,14 @@
       "onboard_time": 1701379214,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 66088,
+      "num": 758924,
+      "word": "中老铁路开通2周年",
+      "onboard_time": 1701572193,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64935,
