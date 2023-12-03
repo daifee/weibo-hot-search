@@ -1,9 +1,9 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701580543888,
+  "endTime": 1701581660945,
   "band_list": [
     {
-      "raw_hot": 4795663,
+      "raw_hot": 4916739,
       "num": 531132,
       "word": "演唱会假唱 离谱",
       "onboard_time": 1701577531,
@@ -49,6 +49,14 @@
       "onboard_time": 1701523234,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1475037,
+      "num": 1475037,
+      "word": "五月天 假唱派和真唱派",
+      "onboard_time": 1701580954,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 1422456,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622662,
+      "num": 622662,
+      "word": "王鹤棣 拍古装拍烦了",
+      "onboard_time": 1701579453,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 598967,
       "num": 598967,
       "word": "C罗被索赔超70亿",
@@ -169,6 +185,14 @@
       "onboard_time": 1701575131,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550689,
+      "num": 550689,
+      "word": "零食 公摊面积",
+      "onboard_time": 1701577171,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 514492,
@@ -219,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483685,
-      "num": 483685,
-      "word": "零食 公摊面积",
-      "onboard_time": 1701577171,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 474305,
       "num": 442132,
       "word": "白鹿 我可太想演电影了",
@@ -241,14 +257,6 @@
       "onboard_time": 1701571654,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 450768,
-      "num": 450768,
-      "word": "王鹤棣 拍古装拍烦了",
-      "onboard_time": 1701579453,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 436104,
@@ -321,6 +329,14 @@
       "onboard_time": 1701568711,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353012,
+      "num": 353012,
+      "word": "星光大赏第三波嘉宾名单",
+      "onboard_time": 1701580116,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 342409,
@@ -409,6 +425,14 @@
       "onboard_time": 1701571473,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 297268,
+      "num": 297268,
+      "word": "韩国申博 沙特宣传片",
+      "onboard_time": 1701579811,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297248,
@@ -507,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 269652,
+      "num": 269652,
+      "word": "独行侠30比0 活久见",
+      "onboard_time": 1701579692,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267198,
       "num": 267198,
       "word": "文科生才懂的梗",
@@ -515,12 +547,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250964,
-      "num": 250964,
-      "word": "独行侠30比0 活久见",
-      "onboard_time": 1701579692,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 249082,
+      "num": 177840,
+      "word": "爷爷发给我对象的第一条消息",
+      "onboard_time": 1701581311,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 246220,
@@ -667,12 +699,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198520,
-      "num": 198520,
-      "word": "星光大赏第三波嘉宾名单",
-      "onboard_time": 1701580116,
+      "raw_hot": 198304,
+      "num": 198304,
+      "word": "东航客机故障亲历者发声",
+      "onboard_time": 1701580714,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197309,
+      "num": 197309,
+      "word": "涵艺爆料Uzi不会复出",
+      "onboard_time": 1701581129,
       "rank": 23,
-      "category": "作品衍生"
+      "category": "电竞"
     },
     {
       "raw_hot": 196599,
@@ -683,12 +723,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196370,
-      "num": 196370,
-      "word": "韩国申博 沙特宣传片",
-      "onboard_time": 1701579811,
-      "rank": 24,
+      "raw_hot": 195603,
+      "num": 195603,
+      "word": "日本多地接连观测到海啸",
+      "onboard_time": 1701578794,
+      "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195377,
+      "num": 195377,
+      "word": "张艺兴新歌",
+      "onboard_time": 1701580892,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 193981,
@@ -713,14 +761,6 @@
       "onboard_time": 1701523832,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 192536,
-      "num": 192536,
-      "word": "日本多地接连观测到海啸",
-      "onboard_time": 1701578794,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191246,
@@ -779,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178942,
+      "num": 178942,
+      "word": "宋雨琦现场观战湖人",
+      "onboard_time": 1701581431,
+      "rank": 28,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 177810,
       "num": 128723,
       "word": "90秒感受檀健次台词功底",
@@ -817,6 +865,14 @@
       "onboard_time": 1701531693,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166860,
+      "num": 166860,
+      "word": "AI 可怕",
+      "onboard_time": 1701581073,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 166570,
