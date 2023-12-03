@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701574451685,
+  "endTime": 1701577237524,
   "band_list": [
     {
       "raw_hot": 2635505,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1911048,
+      "num": 1911048,
+      "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+      "onboard_time": 1701572731,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1572214,
       "num": 1572214,
       "word": "难哄 白敬亭",
@@ -35,11 +43,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1314052,
-      "num": 1314052,
-      "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
-      "onboard_time": 1701572731,
-      "rank": 7,
+      "raw_hot": 1232318,
+      "num": 1232318,
+      "word": "东航MU721航班故障机舱画面曝光",
+      "onboard_time": 1701575432,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1701521134,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1070135,
+      "num": 409507,
+      "word": "夏克立称已经两年没有办法联络到女儿",
+      "onboard_time": 1701574052,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1067921,
@@ -88,14 +104,6 @@
       "word": "赵露思 小红书广告",
       "onboard_time": 1701513031,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 603425,
-      "num": 409507,
-      "word": "夏克立称已经两年没有办法联络到女儿",
-      "onboard_time": 1701574052,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -131,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554521,
+      "num": 554521,
+      "word": "东航一航班飞行途中出现故障信息备降厦门",
+      "onboard_time": 1701575131,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514492,
       "num": 514492,
       "word": "刘诗诗刘宇宁吻戏",
       "onboard_time": 1701528217,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 513881,
+      "num": 513881,
+      "word": "穿大衣当然要扎低丸子头",
+      "onboard_time": 1701564993,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 512264,
@@ -187,14 +211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 473484,
-      "num": 473484,
-      "word": "穿大衣当然要扎低丸子头",
-      "onboard_time": 1701564993,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 436104,
       "num": 436104,
       "word": "LV6.9万夹克酷似南宁校服",
@@ -241,6 +257,14 @@
       "onboard_time": 1701569428,
       "rank": 15,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 382401,
+      "num": 356218,
+      "word": "向太郭碧婷 越来越像",
+      "onboard_time": 1701576571,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 377908,
@@ -291,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326346,
+      "num": 326346,
+      "word": "我是怎样查出医院超收10万医疗费",
+      "onboard_time": 1701571829,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323128,
       "num": 241689,
       "word": "李权哲朱正廷 杀我别用大厂刀",
       "onboard_time": 1701530374,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318016,
-      "num": 318016,
-      "word": "我是怎样查出医院超收10万医疗费",
-      "onboard_time": 1701571829,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311572,
@@ -339,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300964,
+      "num": 300964,
+      "word": "刘逸云 现任老公姐",
+      "onboard_time": 1701575912,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 299339,
       "num": 299339,
       "word": "水瓶座真的不擅长表达感情",
@@ -369,6 +401,14 @@
       "onboard_time": 1701567629,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291665,
+      "num": 274140,
+      "word": "张雨绮第一次开蚌全记录",
+      "onboard_time": 1701574530,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 288805,
@@ -411,12 +451,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274432,
+      "num": 274432,
+      "word": "京考",
+      "onboard_time": 1701574471,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 273489,
+      "num": 174447,
+      "word": "初代网红奶茶店开始悄悄倒闭",
+      "onboard_time": 1701576511,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267198,
       "num": 267198,
       "word": "文科生才懂的梗",
       "onboard_time": 1701564148,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262297,
+      "num": 262297,
+      "word": "亿万富翁全家为被拐儿子补过26岁生日",
+      "onboard_time": 1701575613,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246220,
@@ -488,6 +552,14 @@
       "word": "教书是我的主业怎么变成了副业",
       "onboard_time": 1701529116,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210164,
+      "num": 210164,
+      "word": "湖南里耶新发现13口2000多年前的古井",
+      "onboard_time": 1701575794,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -601,6 +673,14 @@
       "onboard_time": 1701568771,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179006,
+      "num": 179006,
+      "word": "和谭松韵碰头的是狗 哭的是我",
+      "onboard_time": 1701575554,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 177810,
@@ -803,12 +883,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140503,
+      "num": 140503,
+      "word": "李晨左手一个张真源右手一个沙溢",
+      "onboard_time": 1701576870,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139924,
       "num": 139924,
       "word": "陈奕迅 清唱",
       "onboard_time": 1701564751,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139665,
+      "num": 139665,
+      "word": "超2000部无障碍影视作品上线优酷",
+      "onboard_time": 1701576994,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138680,
+      "num": 138680,
+      "word": "东北小孩 玩手绢",
+      "onboard_time": 1701576690,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 136342,
@@ -849,6 +953,14 @@
       "onboard_time": 1701533252,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131801,
+      "num": 131801,
+      "word": "T1 S13决赛赛事语音",
+      "onboard_time": 1701575013,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 131653,
@@ -1011,12 +1123,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111018,
+      "num": 111018,
+      "word": "零食 公摊面积",
+      "onboard_time": 1701577171,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 106591,
+      "num": 106591,
+      "word": "火箭vs湖人",
+      "onboard_time": 1701576272,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106051,
       "num": 106051,
       "word": "谭维维王心凌 带女朋友回家见父母",
       "onboard_time": 1701523894,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102358,
+      "num": 102358,
+      "word": "粉笔模考",
+      "onboard_time": 1701574471,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 102035,
@@ -1115,6 +1251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 69336,
+      "num": 1307694,
+      "word": "他们的拼搏值得被看见",
+      "onboard_time": 1701573996,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62792,
       "num": 62792,
       "word": "勇士vs快船",
@@ -1211,14 +1355,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 29286,
-      "num": 1307694,
-      "word": "他们的拼搏值得被看见",
-      "onboard_time": 1701573996,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18771,
       "num": 19539,
       "word": "陈楚生 一封家书",
@@ -1244,6 +1380,9 @@
     },
     {
       "word": "#读懂中国关键要读懂中国式现代化#"
+    },
+    {
+      "word": "#弘扬社会主义法治精神#"
     }
   ]
 }
