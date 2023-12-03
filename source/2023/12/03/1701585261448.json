@@ -1,0 +1,410 @@
+{
+  "runTime": 1701585261448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 978656,
+        "num": 978656,
+        "word": "孟美岐 年度最具突破女歌手",
+        "onboard_time": 1701581734,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 574133,
+        "num": 574133,
+        "word": "初代网红奶茶店开始悄悄倒闭",
+        "onboard_time": 1701576511,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42056,
+        "num": 535161,
+        "word": "他们的拼搏值得被看见",
+        "onboard_time": 1701573996,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027539,
+        "num": 533842,
+        "word": "东航MU721航班故障机舱画面曝光",
+        "onboard_time": 1701575432,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528569,
+        "num": 528569,
+        "word": "营业性演出假唱 违法",
+        "onboard_time": 1701582152,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 502115,
+        "num": 502115,
+        "word": "王鹤棣 拍古装拍烦了",
+        "onboard_time": 1701579453,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335481,
+        "num": 335481,
+        "word": "宋雨琦现场观战湖人",
+        "onboard_time": 1701581431,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 321793,
+        "num": 321793,
+        "word": "零食 公摊面积",
+        "onboard_time": 1701577171,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 311582,
+        "num": 311582,
+        "word": "文字讨好症",
+        "onboard_time": 1701581911,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280350,
+        "num": 280350,
+        "word": "适合做老婆为什么会是一种冒犯",
+        "onboard_time": 1701566851,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3203256,
+        "num": 280283,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1185480,
+        "num": 280042,
+        "word": "五月天 假唱派和真唱派",
+        "onboard_time": 1701580954,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 864623,
+        "num": 279747,
+        "word": "离婚 跟拍",
+        "onboard_time": 1701583653,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561412,
+        "num": 279582,
+        "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+        "onboard_time": 1701572731,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507357,
+        "num": 279104,
+        "word": "向太郭碧婷 越来越像",
+        "onboard_time": 1701576571,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 372771,
+        "num": 278848,
+        "word": "宋轶删图",
+        "onboard_time": 1701525999,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370176,
+        "num": 278750,
+        "word": "大床房 大空房",
+        "onboard_time": 1701585092,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320107,
+        "num": 278392,
+        "word": "五月天假唱鉴定",
+        "onboard_time": 1701530795,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278341,
+        "num": 278341,
+        "word": "夏克立称已经两年没有办法联络到女儿",
+        "onboard_time": 1701574052,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274215,
+        "num": 274215,
+        "word": "难哄 白敬亭",
+        "onboard_time": 1701523234,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242984,
+        "num": 242984,
+        "word": "韩国申博 沙特宣传片",
+        "onboard_time": 1701579811,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236691,
+        "num": 236691,
+        "word": "警犬找出7斤多鸦片被奖30斤狗粮",
+        "onboard_time": 1701572250,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231114,
+        "num": 231114,
+        "word": "星光大赏第三波嘉宾名单",
+        "onboard_time": 1701580116,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224757,
+        "num": 224757,
+        "word": "浙江农村大席",
+        "onboard_time": 1701582512,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208119,
+        "num": 208119,
+        "word": "穿大衣当然要扎低丸子头",
+        "onboard_time": 1701564993,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205253,
+        "num": 205253,
+        "word": "爷爷发给我对象的第一条消息",
+        "onboard_time": 1701581311,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188698,
+        "num": 188698,
+        "word": "刘诗诗 老公是一种态度",
+        "onboard_time": 1701562586,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185554,
+        "num": 185554,
+        "word": "独行侠30比0 活久见",
+        "onboard_time": 1701579692,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181259,
+        "num": 181259,
+        "word": "湖人战胜火箭",
+        "onboard_time": 1701584432,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146440,
+        "num": 178366,
+        "word": "日本多地接连观测到海啸",
+        "onboard_time": 1701578794,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178036,
+        "num": 178036,
+        "word": "不喜欢回老家 失权感",
+        "onboard_time": 1701584732,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174693,
+        "num": 174693,
+        "word": "减肥的底层逻辑",
+        "onboard_time": 1701582270,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 166416,
+        "num": 166416,
+        "word": "AI 可怕",
+        "onboard_time": 1701581073,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155382,
+        "num": 155382,
+        "word": "刘诗诗的配音",
+        "onboard_time": 1701582934,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149869,
+        "num": 149869,
+        "word": "上厕所玩手机有多危险",
+        "onboard_time": 1701566129,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148139,
+        "num": 148139,
+        "word": "詹姆斯360度上篮",
+        "onboard_time": 1701579751,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144354,
+        "num": 144354,
+        "word": "涵艺爆料Uzi不会复出",
+        "onboard_time": 1701581129,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140936,
+        "num": 140936,
+        "word": "谢依霖遗传了妈妈的抑郁症",
+        "onboard_time": 1701569371,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138292,
+        "num": 138292,
+        "word": "东航客机故障亲历者发声",
+        "onboard_time": 1701580714,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134938,
+        "num": 134938,
+        "word": "张雨绮第一次开蚌全记录",
+        "onboard_time": 1701574530,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134559,
+        "num": 134559,
+        "word": "如何委婉拒绝刘亦菲",
+        "onboard_time": 1701569428,
+        "rank": 40,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 121126,
+        "num": 121126,
+        "word": "减龄丸子头",
+        "onboard_time": 1701584072,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 119921,
+        "num": 119921,
+        "word": "亿万富翁全家为被拐儿子补过26岁生日",
+        "onboard_time": 1701575613,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119130,
+        "num": 119130,
+        "word": "C罗被索赔超70亿",
+        "onboard_time": 1701569794,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112933,
+        "num": 112933,
+        "word": "杨绍辉打破中国马拉松纪录",
+        "onboard_time": 1701583954,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111134,
+        "num": 111134,
+        "word": "还以为MMA的音响很烂",
+        "onboard_time": 1701584973,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109477,
+        "num": 109477,
+        "word": "肖战登新加坡报纸",
+        "onboard_time": 1701573510,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106323,
+        "num": 106323,
+        "word": "抑郁症 遗传",
+        "onboard_time": 1701571654,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105510,
+        "num": 105510,
+        "word": "水瓶座真的不擅长表达感情",
+        "onboard_time": 1701571473,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100054,
+        "num": 100054,
+        "word": "TES官宣Tian续约",
+        "onboard_time": 1701578853,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧扣一体化和高质量这两个关键词#"
+    }
+  }
+}

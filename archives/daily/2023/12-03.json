@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701584467187,
+  "endTime": 1701585261448,
   "band_list": [
     {
       "raw_hot": 4916739,
@@ -99,12 +99,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 905265,
-      "num": 905265,
+      "raw_hot": 978656,
+      "num": 978656,
       "word": "孟美岐 年度最具突破女歌手",
       "onboard_time": 1701581734,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 864623,
+      "num": 285600,
+      "word": "离婚 跟拍",
+      "onboard_time": 1701583653,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781910,
@@ -339,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368732,
-      "num": 285600,
-      "word": "离婚 跟拍",
-      "onboard_time": 1701583653,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 370176,
+      "num": 278750,
+      "word": "大床房 大空房",
+      "onboard_time": 1701585092,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 359318,
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311582,
+      "num": 311582,
+      "word": "文字讨好症",
+      "onboard_time": 1701581911,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311572,
       "num": 311572,
       "word": "警犬找出7斤多鸦片被奖30斤狗粮",
@@ -433,14 +449,6 @@
       "onboard_time": 1701558558,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308328,
-      "num": 308328,
-      "word": "文字讨好症",
-      "onboard_time": 1701581911,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 305724,
@@ -867,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181259,
+      "num": 181259,
+      "word": "湖人战胜火箭",
+      "onboard_time": 1701584432,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179006,
       "num": 179006,
       "word": "和谭松韵碰头的是狗 哭的是我",
@@ -875,12 +891,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178036,
+      "num": 178036,
+      "word": "不喜欢回老家 失权感",
+      "onboard_time": 1701584732,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177810,
       "num": 128723,
       "word": "90秒感受檀健次台词功底",
       "onboard_time": 1701531335,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174693,
+      "num": 174693,
+      "word": "减肥的底层逻辑",
+      "onboard_time": 1701582270,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 171089,
@@ -937,14 +969,6 @@
       "onboard_time": 1701528396,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 162645,
-      "num": 162645,
-      "word": "减肥的底层逻辑",
-      "onboard_time": 1701582270,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 161620,
@@ -1331,14 +1355,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 118037,
-      "num": 118037,
-      "word": "湖人战胜火箭",
-      "onboard_time": 1701584432,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117303,
       "num": 114157,
       "word": "周也 童装汉服",
@@ -1377,6 +1393,14 @@
       "onboard_time": 1701533131,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111134,
+      "num": 111134,
+      "word": "还以为MMA的音响很烂",
+      "onboard_time": 1701584973,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 106591,
