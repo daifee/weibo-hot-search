@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701641744967,
+  "endTime": 1701642842497,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -8187,6 +8187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55611,
+      "num": 55611,
+      "word": "拒绝了让我帮带早餐的同事",
+      "onboard_time": 1701640153,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55362,
       "num": 55362,
       "word": "张艺兴GAI 现场",
@@ -8347,6 +8355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 35616,
+      "num": 35616,
+      "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
+      "onboard_time": 1701630975,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35068,
       "num": 35026,
       "word": "刘宇宁唱OST 替自己发声",
@@ -8385,14 +8401,6 @@
       "onboard_time": 1701457515,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32199,
-      "num": 32199,
-      "word": "拒绝了让我帮带早餐的同事",
-      "onboard_time": 1701640153,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 31743,
@@ -8441,14 +8449,6 @@
       "onboard_time": 1701455357,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27079,
-      "num": 27079,
-      "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
-      "onboard_time": 1701630975,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26811,

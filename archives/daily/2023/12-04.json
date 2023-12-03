@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701641744967,
+  "endTime": 1701642842497,
   "band_list": [
     {
       "raw_hot": 5380016,
@@ -507,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55611,
+      "num": 55611,
+      "word": "拒绝了让我帮带早餐的同事",
+      "onboard_time": 1701640153,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 50078,
       "num": 50078,
       "word": "秋冬潮流氛围感毽子头",
@@ -539,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35616,
+      "num": 35616,
+      "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
+      "onboard_time": 1701630975,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34863,
       "num": 34802,
       "word": "男人只会影响公主拔刀速度",
@@ -547,28 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32199,
-      "num": 32199,
-      "word": "拒绝了让我帮带早餐的同事",
-      "onboard_time": 1701640153,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 30444,
       "num": 30444,
       "word": "轻语",
       "onboard_time": 1701629116,
       "rank": 34,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 27079,
-      "num": 27079,
-      "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
-      "onboard_time": 1701630975,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26811,
