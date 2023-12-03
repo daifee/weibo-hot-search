@@ -1,0 +1,410 @@
+{
+  "runTime": 1701602015413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1913710,
+        "num": 1913710,
+        "word": "官方回应五月天被质疑假唱",
+        "onboard_time": 1701589594,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 329039,
+        "num": 1573796,
+        "word": "哈工大90岁院士捐款300万",
+        "onboard_time": 1701597031,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47126,
+        "num": 1422134,
+        "word": "冬季呼吸道疾病防治4问4答",
+        "onboard_time": 1701594754,
+        "rank": 2,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1396196,
+        "num": 1396196,
+        "word": "顶级乐队假唱 五星级酒店预制菜",
+        "onboard_time": 1701596433,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 199381,
+        "num": 1027102,
+        "word": "全红婵陈芋汐轻松夺冠",
+        "onboard_time": 1701592114,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1016638,
+        "num": 1016638,
+        "word": "李一桐 女孩子找男朋友一定要擦亮眼",
+        "onboard_time": 1701597452,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151104,
+        "num": 1016003,
+        "word": "89岁奶奶在医院演奏3个月钢琴",
+        "onboard_time": 1701597031,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015422,
+        "num": 1015422,
+        "word": "杨紫 零下二十度光腿直播",
+        "onboard_time": 1701596073,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745869,
+        "num": 745869,
+        "word": "王俊凯 古偶",
+        "onboard_time": 1701600273,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283725,
+        "num": 283725,
+        "word": "商演假唱将被罚款",
+        "onboard_time": 1701596433,
+        "rank": 9,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 1083118,
+        "num": 283413,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 583703,
+        "num": 280833,
+        "word": "华晨宇广州上座率",
+        "onboard_time": 1701598414,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 527449,
+        "num": 278756,
+        "word": "五月天 假唱派和真唱派",
+        "onboard_time": 1701580954,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 461186,
+        "num": 276684,
+        "word": "网友吐槽结婚6年真心觉得婚姻不值得",
+        "onboard_time": 1701592831,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365413,
+        "num": 274564,
+        "word": "女性生理期冷知识",
+        "onboard_time": 1701592231,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 403373,
+        "num": 272892,
+        "word": "GQ盛典 名单",
+        "onboard_time": 1701593855,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 340623,
+        "num": 270625,
+        "word": "解清帅妈妈晒儿子吃早餐",
+        "onboard_time": 1701593376,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316965,
+        "num": 267250,
+        "word": "博主向消协公开举报五月天假唱",
+        "onboard_time": 1701594996,
+        "rank": 17,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 299090,
+        "num": 266566,
+        "word": "鼻子通常只有一个鼻孔通气",
+        "onboard_time": 1701601115,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234509,
+        "num": 264787,
+        "word": "离婚 跟拍",
+        "onboard_time": 1701583653,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477236,
+        "num": 262096,
+        "word": "2614万元手机号买家未付尾款",
+        "onboard_time": 1701600335,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261016,
+        "num": 261016,
+        "word": "为什么普通人一年存两三万都很难",
+        "onboard_time": 1701585332,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260997,
+        "num": 260997,
+        "word": "GQ 坐船",
+        "onboard_time": 1701600033,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217457,
+        "num": 217457,
+        "word": "美国顾客用中文写名字",
+        "onboard_time": 1701595832,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248816,
+        "num": 209357,
+        "word": "刘诗诗 北京",
+        "onboard_time": 1701593672,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371368,
+        "num": 208426,
+        "word": "东航MU721航班故障机舱画面曝光",
+        "onboard_time": 1701575432,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196796,
+        "num": 196796,
+        "word": "圆明园7小天鹅太治愈了",
+        "onboard_time": 1701597336,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 187931,
+        "num": 187931,
+        "word": "楚雄震感",
+        "onboard_time": 1701599553,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184541,
+        "num": 184541,
+        "word": "提供情绪价值的根本方法",
+        "onboard_time": 1701601115,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181293,
+        "num": 181293,
+        "word": "越南一男子就诊发现颅内插了双筷子",
+        "onboard_time": 1701588031,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285813,
+        "num": 181110,
+        "word": "TES官宣Despa1r加入",
+        "onboard_time": 1701599973,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180054,
+        "num": 180054,
+        "word": "大学生送外卖赚1万多奖励自己环游半个中国",
+        "onboard_time": 1701592654,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178714,
+        "num": 178714,
+        "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+        "onboard_time": 1701572731,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175017,
+        "num": 175017,
+        "word": "陈伟霆 只要我不尴尬尴尬的就是张家辉",
+        "onboard_time": 1701601593,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168344,
+        "num": 168344,
+        "word": "LWX林炜翔",
+        "onboard_time": 1701588153,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168019,
+        "num": 168019,
+        "word": "抑郁症是受到打击才发病吗",
+        "onboard_time": 1701592533,
+        "rank": 35,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 159696,
+        "num": 159696,
+        "word": "孟美岐 年度最具突破女歌手",
+        "onboard_time": 1701581734,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155958,
+        "num": 155958,
+        "word": "车窗贴两张缴费单但车内司机已去世",
+        "onboard_time": 1701601773,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154711,
+        "num": 154711,
+        "word": "演唱会真唱很难么",
+        "onboard_time": 1701601416,
+        "rank": 38,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 151888,
+        "num": 151888,
+        "word": "初代网红奶茶店开始悄悄倒闭",
+        "onboard_time": 1701576511,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148795,
+        "num": 148795,
+        "word": "1930年的猫奴 熟睡中的猫咪",
+        "onboard_time": 1701601474,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144946,
+        "num": 144946,
+        "word": "王鹤棣田曦薇现代戏路透",
+        "onboard_time": 1701589594,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142706,
+        "num": 142706,
+        "word": "向太郭碧婷 越来越像",
+        "onboard_time": 1701576571,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137320,
+        "num": 137320,
+        "word": "我知道她在为什么哭",
+        "onboard_time": 1701592831,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130043,
+        "num": 130043,
+        "word": "樊振东谈混合团体世界杯赛",
+        "onboard_time": 1701600456,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127200,
+        "num": 127200,
+        "word": "博主给被质疑假唱的五月天几点建议",
+        "onboard_time": 1701596255,
+        "rank": 45,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 127148,
+        "num": 127148,
+        "word": "业内人士解读东航航班故障原因",
+        "onboard_time": 1701601054,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126544,
+        "num": 126544,
+        "word": "红楼梦 奇书",
+        "onboard_time": 1701595356,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 120132,
+        "num": 120132,
+        "word": "星光大赏吃百家饭",
+        "onboard_time": 1701601952,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118799,
+        "num": 118799,
+        "word": "龘是什么意思",
+        "onboard_time": 1701592413,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向首届良渚论坛致贺信#"
+    }
+  }
+}
