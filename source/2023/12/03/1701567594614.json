@@ -1,0 +1,410 @@
+{
+  "runTime": 1701567594614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1664670,
+        "num": 1664670,
+        "word": "五月天假唱鉴定",
+        "onboard_time": 1701530795,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1102306,
+        "num": 1102306,
+        "word": "亿万富豪被拐儿子将回归原生家庭",
+        "onboard_time": 1701538102,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64314,
+        "num": 1076341,
+        "word": "国家卫健委表示未发现新发传染病",
+        "onboard_time": 1701522093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067921,
+        "num": 1067921,
+        "word": "刘诗诗 老公是一种态度",
+        "onboard_time": 1701562586,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 893185,
+        "num": 893185,
+        "word": "难哄 白敬亭",
+        "onboard_time": 1701523234,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 678999,
+        "num": 678999,
+        "word": "17岁女孩吃下半斤生豆角中毒送医急救",
+        "onboard_time": 1701560301,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426882,
+        "num": 426882,
+        "word": "男子捡大学生手机索要千元不给就刷机",
+        "onboard_time": 1701564751,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398751,
+        "num": 398751,
+        "word": "北京首次全市大范围记录到极光",
+        "onboard_time": 1701561925,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392569,
+        "num": 392569,
+        "word": "男子体检突发心梗3分钟冲出10名医护",
+        "onboard_time": 1701563427,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342409,
+        "num": 342409,
+        "word": "南海归墟11分钟没声音",
+        "onboard_time": 1701565289,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1025663,
+        "num": 341243,
+        "word": "宋轶删图",
+        "onboard_time": 1701525999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336706,
+        "num": 336706,
+        "word": "贫穷却美貌 就像带着金子逃难",
+        "onboard_time": 1701566129,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301597,
+        "num": 301597,
+        "word": "小满生活 隐形出轨男",
+        "onboard_time": 1701561627,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298290,
+        "num": 298290,
+        "word": "菲律宾发生7.6级地震",
+        "onboard_time": 1701558558,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285471,
+        "num": 285471,
+        "word": "张远回复杨丞琳",
+        "onboard_time": 1701565171,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267198,
+        "num": 267198,
+        "word": "文科生才懂的梗",
+        "onboard_time": 1701564148,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262435,
+        "num": 262435,
+        "word": "已婚男陈立自愿被老婆摄像头监控",
+        "onboard_time": 1701567031,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259562,
+        "num": 259562,
+        "word": "LV6.9万夹克酷似南宁校服",
+        "onboard_time": 1701566729,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254865,
+        "num": 254865,
+        "word": "被公职人员占用的公租房小区已腾退五六百户",
+        "onboard_time": 1701529834,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236607,
+        "num": 236607,
+        "word": "赵露思 小红书广告",
+        "onboard_time": 1701513031,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387986,
+        "num": 233139,
+        "word": "穿大衣当然要扎低丸子头",
+        "onboard_time": 1701564993,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 337364,
+        "num": 233072,
+        "word": "上厕所玩手机有多危险",
+        "onboard_time": 1701566129,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229555,
+        "num": 229555,
+        "word": "个税专项附加扣除信息确认开始",
+        "onboard_time": 1701560483,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229087,
+        "num": 229087,
+        "word": "刘诗诗刘宇宁吻戏",
+        "onboard_time": 1701528217,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227046,
+        "num": 227046,
+        "word": "苏翊鸣夺冠动作比赛前一天才训练成功",
+        "onboard_time": 1701563427,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212568,
+        "num": 212568,
+        "word": "能减少黑头的小习惯",
+        "onboard_time": 1701531693,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 209131,
+        "num": 209131,
+        "word": "勇士领先了47分50秒",
+        "onboard_time": 1701563247,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208292,
+        "num": 208292,
+        "word": "跪杀弗洛伊德的警察狱中被刺22刀",
+        "onboard_time": 1701530672,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207362,
+        "num": 207362,
+        "word": "糖醋排骨",
+        "onboard_time": 1701562104,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204166,
+        "num": 204166,
+        "word": "8个生活习惯是衰老加速器",
+        "onboard_time": 1701562705,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204131,
+        "num": 204131,
+        "word": "游客大兴机场带94斤大虾入境被查",
+        "onboard_time": 1701567090,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198819,
+        "num": 198819,
+        "word": "华晨宇 蓝色玫瑰",
+        "onboard_time": 1701566851,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198680,
+        "num": 198680,
+        "word": "谁来救救王心凌啊",
+        "onboard_time": 1701524016,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194453,
+        "num": 194453,
+        "word": "龙行龘龘",
+        "onboard_time": 1701526896,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177094,
+        "num": 177094,
+        "word": "多睡一小时就能减肥",
+        "onboard_time": 1701558859,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168050,
+        "num": 168050,
+        "word": "小狗生气好明显",
+        "onboard_time": 1701561143,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165939,
+        "num": 165939,
+        "word": "适合做老婆为什么会是一种冒犯",
+        "onboard_time": 1701566851,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157970,
+        "num": 157970,
+        "word": "杨九郎和张含韵同岁",
+        "onboard_time": 1701565470,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154548,
+        "num": 154548,
+        "word": "教书是我的主业怎么变成了副业",
+        "onboard_time": 1701529116,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149953,
+        "num": 149953,
+        "word": "郑恺张真源 猫和老鼠",
+        "onboard_time": 1701564807,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149051,
+        "num": 149051,
+        "word": "老师也是第一次当老师",
+        "onboard_time": 1701566970,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145454,
+        "num": 145454,
+        "word": "消防员到场时看到个撅小屁股的娃",
+        "onboard_time": 1701567268,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144534,
+        "num": 144534,
+        "word": "白鹿 我可太想演电影了",
+        "onboard_time": 1701518915,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140754,
+        "num": 140754,
+        "word": "为什么有人一喝咖啡就跑厕所",
+        "onboard_time": 1701567392,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134784,
+        "num": 134784,
+        "word": "法越馨镜头下的肖战",
+        "onboard_time": 1701562406,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131210,
+        "num": 131210,
+        "word": "任如意 大女主",
+        "onboard_time": 1701566432,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130524,
+        "num": 130524,
+        "word": "年轻人消费观 该省省该花花",
+        "onboard_time": 1701561985,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125422,
+        "num": 125422,
+        "word": "深圳马拉松鸣枪开跑",
+        "onboard_time": 1701565171,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 123699,
+        "num": 123699,
+        "word": "男子买彩票中11万被告知忘出票",
+        "onboard_time": 1701524137,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123315,
+        "num": 123315,
+        "word": "保时捷婚车四个轮子被上几十把锁",
+        "onboard_time": 1701526476,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国关键要读懂中国式现代化#"
+    }
+  }
+}

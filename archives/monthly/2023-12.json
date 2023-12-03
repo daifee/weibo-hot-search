@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701566379603,
+  "endTime": 1701567594614,
   "band_list": [
     {
       "raw_hot": 4547826,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1067921,
+      "num": 1067921,
+      "word": "刘诗诗 老公是一种态度",
+      "onboard_time": 1701562586,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1060323,
       "num": 1060323,
       "word": "女生为避无效社交朋友圈发文不随礼",
@@ -377,14 +385,6 @@
       "onboard_time": 1701430233,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1017852,
-      "num": 1017852,
-      "word": "刘诗诗 老公是一种态度",
-      "onboard_time": 1701562586,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 974298,
@@ -1331,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 426882,
+      "num": 426882,
+      "word": "男子捡大学生手机索要千元不给就刷机",
+      "onboard_time": 1701564751,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425251,
       "num": 399033,
       "word": "奔跑吧本期破次元同框",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1701490471,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387986,
+      "num": 233139,
+      "word": "穿大衣当然要扎低丸子头",
+      "onboard_time": 1701564993,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 387576,
@@ -1771,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 352596,
-      "num": 323925,
-      "word": "男子捡大学生手机索要千元不给就刷机",
-      "onboard_time": 1701564751,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352095,
       "num": 352095,
       "word": "冯小刚电影重返贺岁档",
@@ -1843,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342409,
+      "num": 342409,
+      "word": "南海归墟11分钟没声音",
+      "onboard_time": 1701565289,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340668,
       "num": 244747,
       "word": "终于有人对碍事的头发下手了",
@@ -1857,6 +1873,22 @@
       "onboard_time": 1701508472,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337364,
+      "num": 233072,
+      "word": "上厕所玩手机有多危险",
+      "onboard_time": 1701566129,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336706,
+      "num": 336706,
+      "word": "贫穷却美貌 就像带着金子逃难",
+      "onboard_time": 1701566129,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 335857,
@@ -1921,14 +1953,6 @@
       "onboard_time": 1701508951,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325464,
-      "num": 173720,
-      "word": "穿大衣当然要扎低丸子头",
-      "onboard_time": 1701564993,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 323685,
@@ -2443,12 +2467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268700,
-      "num": 268700,
-      "word": "南海归墟11分钟没声音",
-      "onboard_time": 1701565289,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 267198,
+      "num": 267198,
+      "word": "文科生才懂的梗",
+      "onboard_time": 1701564148,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 266369,
@@ -2507,6 +2531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262435,
+      "num": 262435,
+      "word": "已婚男陈立自愿被老婆摄像头监控",
+      "onboard_time": 1701567031,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261613,
       "num": 261613,
       "word": "树 我已经不在乎那条虫子了",
@@ -2545,6 +2577,14 @@
       "onboard_time": 1701416313,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259562,
+      "num": 259562,
+      "word": "LV6.9万夹克酷似南宁校服",
+      "onboard_time": 1701566729,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259093,
@@ -2769,14 +2809,6 @@
       "onboard_time": 1701406480,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237737,
-      "num": 237737,
-      "word": "文科生才懂的梗",
-      "onboard_time": 1701564148,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 235914,
@@ -3403,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204131,
+      "num": 204131,
+      "word": "游客大兴机场带94斤大虾入境被查",
+      "onboard_time": 1701567090,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203895,
       "num": 203895,
       "word": "王者荣耀",
@@ -3473,6 +3513,14 @@
       "onboard_time": 1701524378,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198819,
+      "num": 198819,
+      "word": "华晨宇 蓝色玫瑰",
+      "onboard_time": 1701566851,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 198374,
@@ -4307,6 +4355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165939,
+      "num": 165939,
+      "word": "适合做老婆为什么会是一种冒犯",
+      "onboard_time": 1701566851,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165628,
       "num": 165628,
       "word": "一念关山",
@@ -4683,14 +4739,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 149734,
-      "num": 149734,
-      "word": "上厕所玩手机有多危险",
-      "onboard_time": 1701566129,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149677,
       "num": 149677,
       "word": "王心凌首唱对赌",
@@ -4705,6 +4753,14 @@
       "onboard_time": 1701395850,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149051,
+      "num": 149051,
+      "word": "老师也是第一次当老师",
+      "onboard_time": 1701566970,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149036,
@@ -4779,20 +4835,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145454,
+      "num": 145454,
+      "word": "消防员到场时看到个撅小屁股的娃",
+      "onboard_time": 1701567268,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145259,
       "num": 145259,
       "word": "炫富 心理需求",
       "onboard_time": 1701497552,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145175,
-      "num": 145175,
-      "word": "贫穷却美貌 就像带着金子逃难",
-      "onboard_time": 1701566129,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 145132,
@@ -4937,6 +4993,14 @@
       "onboard_time": 1701482853,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140754,
+      "num": 140754,
+      "word": "为什么有人一喝咖啡就跑厕所",
+      "onboard_time": 1701567392,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140579,
@@ -5153,6 +5217,14 @@
       "onboard_time": 1701505891,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131210,
+      "num": 131210,
+      "word": "任如意 大女主",
+      "onboard_time": 1701566432,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 130601,
