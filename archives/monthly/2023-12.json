@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701609545046,
+  "endTime": 1701610433578,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -19,8 +19,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 5954986,
-      "num": 5954986,
+      "raw_hot": 8128187,
+      "num": 8128187,
       "word": "腾讯会员 没了",
       "onboard_time": 1701607961,
       "rank": 1,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2672537,
+      "num": 2672537,
+      "word": "文旅局回应五月天疑似假唱",
+      "onboard_time": 1701607961,
+      "rank": 3,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 2665701,
       "num": 2665701,
       "word": "陈志朋 偷税漏税",
@@ -65,14 +73,6 @@
       "onboard_time": 1701530795,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2563041,
-      "num": 2563041,
-      "word": "文旅局回应五月天疑似假唱",
-      "onboard_time": 1701607961,
-      "rank": 3,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 2504596,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 845739,
+      "num": 845739,
+      "word": "一周不洗脸为什么皮肤变好了",
+      "onboard_time": 1701608082,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 839261,
       "num": 839261,
       "word": "刘宇宁 脖子前倾",
@@ -891,20 +899,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 688658,
-      "num": 688658,
-      "word": "一周不洗脸为什么皮肤变好了",
-      "onboard_time": 1701608082,
-      "rank": 6,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 686609,
       "num": 540168,
       "word": "网友吐槽结婚6年真心觉得婚姻不值得",
       "onboard_time": 1701592831,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 685166,
+      "num": 685166,
+      "word": "发现被舍友删后重加要回4年前礼金",
+      "onboard_time": 1701606397,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 680614,
@@ -929,14 +937,6 @@
       "onboard_time": 1701396871,
       "rank": 6,
       "category": "数码,社会新闻"
-    },
-    {
-      "raw_hot": 672011,
-      "num": 672011,
-      "word": "发现被舍友删后重加要回4年前礼金",
-      "onboard_time": 1701606397,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 655147,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1701566129,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 495280,
+      "num": 495280,
+      "word": "一念关山热度",
+      "onboard_time": 1701608570,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 494760,
@@ -2025,14 +2033,6 @@
       "onboard_time": 1701426638,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 385257,
-      "num": 385257,
-      "word": "一念关山热度",
-      "onboard_time": 1701608570,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 385209,
@@ -3899,6 +3899,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 222528,
+      "num": 186748,
+      "word": "很想很想你",
+      "onboard_time": 1701571050,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222297,
       "num": 222297,
       "word": "沈腾说唐嫣那么不方便也走了",
@@ -5011,6 +5019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186774,
+      "num": 186774,
+      "word": "i人不一定是社恐",
+      "onboard_time": 1701610121,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186655,
       "num": 186655,
       "word": "山东灌香肠",
@@ -5859,6 +5875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156418,
+      "num": 156418,
+      "word": "GQ官宣易烊千玺",
+      "onboard_time": 1701610365,
+      "rank": 42,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 156341,
       "num": 156341,
       "word": "新闻女王 女性角色好有尊严",
@@ -6299,14 +6323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143854,
-      "num": 143854,
-      "word": "很想很想你",
-      "onboard_time": 1701571050,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143596,
       "num": 143596,
       "word": "电梯里遇到一只圣诞小狗",
@@ -6699,6 +6715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131191,
+      "num": 131191,
+      "word": "处女座的活泼开朗都是装的",
+      "onboard_time": 1701606756,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130981,
       "num": 130981,
       "word": "喝咖啡提神还是犯困取决于喝的时机",
@@ -6899,14 +6923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124170,
-      "num": 124170,
-      "word": "处女座的活泼开朗都是装的",
-      "onboard_time": 1701606756,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124128,
       "num": 124128,
       "word": "德国夺得U17世界杯冠军",
@@ -6921,6 +6937,14 @@
       "onboard_time": 1701579334,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123764,
+      "num": 123764,
+      "word": "十分是评分的极限 不是财神的极限",
+      "onboard_time": 1701610365,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 123656,
@@ -7187,6 +7211,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110521,
+      "num": 3384127,
+      "word": "红嘴鸥与滇池蓝同框宛如大片",
+      "onboard_time": 1701607183,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109482,
       "num": 109482,
       "word": "JDG 圣枪哥",
@@ -7409,14 +7441,6 @@
       "onboard_time": 1701384801,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89278,
-      "num": 3384127,
-      "word": "红嘴鸥与滇池蓝同框宛如大片",
-      "onboard_time": 1701607183,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88136,
@@ -7675,6 +7699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45551,
+      "num": 498333,
+      "word": "中国跑鞋日本赛场创纪录",
+      "onboard_time": 1701608806,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44410,
       "num": 44410,
       "word": "王鹤棣看秀待遇",
@@ -7809,14 +7841,6 @@
       "onboard_time": 1701453738,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29425,
-      "num": 498333,
-      "word": "中国跑鞋日本赛场创纪录",
-      "onboard_time": 1701608806,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 28981,
