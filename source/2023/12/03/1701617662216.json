@@ -1,0 +1,410 @@
+{
+  "runTime": 1701617662216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3107684,
+        "num": 3107684,
+        "word": "五月天经纪方多次挂断媒体电话",
+        "onboard_time": 1701612639,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 2526928,
+        "num": 2526928,
+        "word": "博主再更新五月天真假唱鉴定视频",
+        "onboard_time": 1701616061,
+        "rank": 1,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 65731,
+        "num": 2133330,
+        "word": "红嘴鸥与滇池蓝同框宛如大片",
+        "onboard_time": 1701607183,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1948195,
+        "num": 1948195,
+        "word": "腾讯会员 没了",
+        "onboard_time": 1701607961,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1895934,
+        "num": 1895934,
+        "word": "文旅局回应五月天疑似假唱",
+        "onboard_time": 1701607961,
+        "rank": 4,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 815981,
+        "num": 815981,
+        "word": "痞幼三倍大眼妆",
+        "onboard_time": 1701612824,
+        "rank": 5,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 747057,
+        "num": 747057,
+        "word": "一周不洗脸为什么皮肤变好了",
+        "onboard_time": 1701608082,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 663254,
+        "num": 663254,
+        "word": "大妈捡到手机用免密支付刷光余额",
+        "onboard_time": 1701612223,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620544,
+        "num": 620544,
+        "word": "GQ压轴官宣杨幂",
+        "onboard_time": 1701615637,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 285225,
+        "num": 609242,
+        "word": "男子520元拍下一套房遭悔拍",
+        "onboard_time": 1701611021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794601,
+        "num": 608945,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 605735,
+        "num": 605735,
+        "word": "林俊杰 等我修炼完爱情再修理你",
+        "onboard_time": 1701613123,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406496,
+        "num": 406496,
+        "word": "上海12345回应五月天被质疑假唱",
+        "onboard_time": 1701607837,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 400252,
+        "num": 400252,
+        "word": "折腰",
+        "onboard_time": 1701602732,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355798,
+        "num": 355798,
+        "word": "旭旭宝宝现身助理直播间",
+        "onboard_time": 1701613603,
+        "rank": 14,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 333269,
+        "num": 333269,
+        "word": "一念关山破万",
+        "onboard_time": 1701610964,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318843,
+        "num": 318843,
+        "word": "李一桐 女孩子找男朋友一定要擦亮眼",
+        "onboard_time": 1701597452,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297478,
+        "num": 297478,
+        "word": "把猫猫的头含进嘴里的萨摩耶",
+        "onboard_time": 1701612223,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272988,
+        "num": 272988,
+        "word": "恩佐好帅",
+        "onboard_time": 1701617078,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224914,
+        "num": 252403,
+        "word": "发现被舍友删后重加要回4年前礼金",
+        "onboard_time": 1701606397,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313731,
+        "num": 251852,
+        "word": "因为是有名的爱豆所以惹不起",
+        "onboard_time": 1701615581,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293713,
+        "num": 251553,
+        "word": "gidle舞台疑似抄袭BLACKPINK",
+        "onboard_time": 1701606158,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251229,
+        "num": 251229,
+        "word": "看了文科专业评分有点汗流浃背",
+        "onboard_time": 1701612523,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229847,
+        "num": 229847,
+        "word": "PGC2023",
+        "onboard_time": 1701616662,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222331,
+        "num": 222331,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701607780,
+        "rank": 24,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 283483,
+        "num": 221894,
+        "word": "杨紫 零下二十度光腿直播",
+        "onboard_time": 1701596073,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274962,
+        "num": 216589,
+        "word": "GQ官宣易烊千玺",
+        "onboard_time": 1701610365,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240744,
+        "num": 213820,
+        "word": "五月天 假唱派和真唱派",
+        "onboard_time": 1701580954,
+        "rank": 27,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 208934,
+        "num": 208934,
+        "word": "车窗贴两张缴费单但车内司机已去世",
+        "onboard_time": 1701601773,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200707,
+        "num": 208311,
+        "word": "杨鸣多个社交平台账号已取消认证",
+        "onboard_time": 1701604655,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 225436,
+        "num": 206802,
+        "word": "雪莉杨被绑架",
+        "onboard_time": 1701611321,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212817,
+        "num": 204713,
+        "word": "吴京知道成片是这样的吗",
+        "onboard_time": 1701615519,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218815,
+        "num": 203562,
+        "word": "张雨绮新剧身材",
+        "onboard_time": 1701612280,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203162,
+        "num": 203162,
+        "word": "17战队",
+        "onboard_time": 1701616421,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199017,
+        "num": 199017,
+        "word": "WB战胜Hero",
+        "onboard_time": 1701616662,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206997,
+        "num": 196728,
+        "word": "魏晨 郑州",
+        "onboard_time": 1701616479,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202909,
+        "num": 190682,
+        "word": "严敏 无限流综艺",
+        "onboard_time": 1701605016,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167553,
+        "num": 167553,
+        "word": "迷风花",
+        "onboard_time": 1701616662,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166398,
+        "num": 166398,
+        "word": "2614万元手机号买家未付尾款",
+        "onboard_time": 1701600335,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156997,
+        "num": 156997,
+        "word": "清炖羊肉最正宗的做法",
+        "onboard_time": 1701617137,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195231,
+        "num": 156955,
+        "word": "何蓝逗演技",
+        "onboard_time": 1701611863,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183913,
+        "num": 148090,
+        "word": "声生不息 文案",
+        "onboard_time": 1701613421,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188380,
+        "num": 142495,
+        "word": "刘诗诗 任辛上线了",
+        "onboard_time": 1701617432,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136077,
+        "num": 136077,
+        "word": "50元儿童羽绒裤内含烟头槟榔",
+        "onboard_time": 1701607183,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161211,
+        "num": 132662,
+        "word": "一念关山新浪扫楼预告",
+        "onboard_time": 1701613062,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123460,
+        "num": 123460,
+        "word": "腾讯视频崩了",
+        "onboard_time": 1701607420,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160522,
+        "num": 123245,
+        "word": "一念关山",
+        "onboard_time": 1701608082,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122500,
+        "num": 122500,
+        "word": "LNG Mark",
+        "onboard_time": 1701611383,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113143,
+        "num": 122399,
+        "word": "教资面试",
+        "onboard_time": 1701610724,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112561,
+        "num": 121884,
+        "word": "辽宁男篮战胜山东男篮",
+        "onboard_time": 1701616236,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向首届良渚论坛致贺信#"
+    }
+  }
+}

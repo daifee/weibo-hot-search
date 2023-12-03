@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701616586516,
+  "endTime": 1701617662216,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 4916739,
-      "num": 579379,
+      "num": 608945,
       "word": "演唱会假唱 离谱",
       "onboard_time": 1701577531,
       "rank": 5,
@@ -57,6 +57,14 @@
       "onboard_time": 1701530795,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2526928,
+      "num": 2526928,
+      "word": "博主再更新五月天真假唱鉴定视频",
+      "onboard_time": 1701616061,
+      "rank": 4,
+      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 2238841,
@@ -163,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1238351,
-      "num": 1238351,
-      "word": "博主再更新五月天真假唱鉴定视频",
-      "onboard_time": 1701616061,
-      "rank": 4,
-      "category": "综艺,社会新闻"
-    },
-    {
       "raw_hot": 1211159,
       "num": 1211159,
       "word": "一周不洗脸为什么皮肤变好了",
@@ -267,6 +267,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 815981,
+      "num": 815981,
+      "word": "痞幼三倍大眼妆",
+      "onboard_time": 1701612824,
+      "rank": 43,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 781910,
       "num": 781910,
       "word": "初代网红奶茶店开始悄悄倒闭",
@@ -281,14 +289,6 @@
       "onboard_time": 1701560301,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 767425,
-      "num": 767425,
-      "word": "痞幼三倍大眼妆",
-      "onboard_time": 1701612824,
-      "rank": 43,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 753754,
@@ -417,6 +417,14 @@
       "onboard_time": 1701579453,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 620544,
+      "num": 620544,
+      "word": "GQ压轴官宣杨幂",
+      "onboard_time": 1701615637,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 609562,
@@ -619,14 +627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 454305,
-      "num": 454305,
-      "word": "GQ压轴官宣杨幂",
-      "onboard_time": 1701615637,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 450395,
       "num": 450395,
       "word": "小S  舒淇亚洲第二美",
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 371029,
-      "num": 484443,
+      "num": 609242,
       "word": "男子520元拍下一套房遭悔拍",
       "onboard_time": 1701611021,
       "rank": 18,
@@ -921,6 +921,14 @@
       "onboard_time": 1701590976,
       "rank": 22,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 313731,
+      "num": 251852,
+      "word": "因为是有名的爱豆所以惹不起",
+      "onboard_time": 1701615581,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 311582,
@@ -1123,14 +1131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 279791,
-      "num": 211210,
-      "word": "因为是有名的爱豆所以惹不起",
-      "onboard_time": 1701615581,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 278406,
       "num": 278406,
       "word": "摇粒绒 保暖",
@@ -1169,6 +1169,14 @@
       "onboard_time": 1701574471,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 272988,
+      "num": 272988,
+      "word": "恩佐好帅",
+      "onboard_time": 1701617078,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 269652,
@@ -1299,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229847,
+      "num": 229847,
+      "word": "PGC2023",
+      "onboard_time": 1701616662,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229745,
       "num": 229745,
       "word": "GQ直播",
@@ -1419,6 +1435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 212817,
+      "num": 204713,
+      "word": "吴京知道成片是这样的吗",
+      "onboard_time": 1701615519,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212487,
       "num": 212487,
       "word": "张杰 珠海",
@@ -1483,20 +1507,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206997,
+      "num": 196728,
+      "word": "魏晨 郑州",
+      "onboard_time": 1701616479,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206491,
       "num": 206491,
       "word": "TES官宣Tian续约",
       "onboard_time": 1701578853,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 206208,
-      "num": 148010,
-      "word": "吴京知道成片是这样的吗",
-      "onboard_time": 1701615519,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 205872,
@@ -1539,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203162,
+      "num": 203162,
+      "word": "17战队",
+      "onboard_time": 1701616421,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200963,
       "num": 200963,
       "word": "阿姨的毛肚还没上车",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1701605197,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199017,
+      "num": 199017,
+      "word": "WB战胜Hero",
+      "onboard_time": 1701616662,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 198819,
@@ -1723,14 +1763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192033,
-      "num": 146386,
-      "word": "魏晨 郑州",
-      "onboard_time": 1701616479,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 191928,
       "num": 191928,
       "word": "东航回应航班高空故障紧急备降厦门",
@@ -1793,6 +1825,14 @@
       "onboard_time": 1701586771,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188380,
+      "num": 142495,
+      "word": "刘诗诗 任辛上线了",
+      "onboard_time": 1701617432,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 188025,
@@ -1947,6 +1987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167553,
+      "num": 167553,
+      "word": "迷风花",
+      "onboard_time": 1701616662,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166570,
       "num": 166570,
       "word": "猫 你觉得合理不",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1701595356,
       "rank": 38,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 156997,
+      "num": 156997,
+      "word": "清炖羊肉最正宗的做法",
+      "onboard_time": 1701617137,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 155826,
@@ -2193,14 +2249,6 @@
       "onboard_time": 1701561985,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145874,
-      "num": 145874,
-      "word": "17战队",
-      "onboard_time": 1701616421,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 145547,
@@ -2665,6 +2713,14 @@
       "onboard_time": 1701533131,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112561,
+      "num": 121884,
+      "word": "辽宁男篮战胜山东男篮",
+      "onboard_time": 1701616236,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 112500,
