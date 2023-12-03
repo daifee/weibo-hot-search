@@ -1,0 +1,410 @@
+{
+  "runTime": 1701570604641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1610375,
+        "num": 1610375,
+        "word": "五月天假唱鉴定",
+        "onboard_time": 1701530795,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1237027,
+        "num": 1237027,
+        "word": "适合做老婆为什么会是一种冒犯",
+        "onboard_time": 1701566851,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53594,
+        "num": 937674,
+        "word": "国家卫健委表示未发现新发传染病",
+        "onboard_time": 1701522093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903900,
+        "num": 903900,
+        "word": "刘诗诗 老公是一种态度",
+        "onboard_time": 1701562586,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666371,
+        "num": 666371,
+        "word": "难哄 白敬亭",
+        "onboard_time": 1701523234,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497499,
+        "num": 497499,
+        "word": "贫穷却美貌 就像带着金子逃难",
+        "onboard_time": 1701566129,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 436104,
+        "num": 436104,
+        "word": "LV6.9万夹克酷似南宁校服",
+        "onboard_time": 1701566729,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423227,
+        "num": 423227,
+        "word": "C罗被索赔超70亿",
+        "onboard_time": 1701569794,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398646,
+        "num": 398646,
+        "word": "檀健次周也嘴巴都亲红了",
+        "onboard_time": 1701567629,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373933,
+        "num": 373933,
+        "word": "17岁女孩吃下半斤生豆角中毒送医急救",
+        "onboard_time": 1701560301,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980421,
+        "num": 370478,
+        "word": "宋轶删图",
+        "onboard_time": 1701525999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525290,
+        "num": 369688,
+        "word": "谢依霖遗传了妈妈的抑郁症",
+        "onboard_time": 1701569371,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483587,
+        "num": 365706,
+        "word": "亿万富豪被拐儿子将回归原生家庭",
+        "onboard_time": 1701538102,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390055,
+        "num": 360453,
+        "word": "已婚男陈立自愿被老婆摄像头监控",
+        "onboard_time": 1701567031,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359318,
+        "num": 359318,
+        "word": "民警翻20吨垃圾帮居民找回遗失的43000元",
+        "onboard_time": 1701568711,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354847,
+        "num": 354847,
+        "word": "如何委婉拒绝刘亦菲",
+        "onboard_time": 1701569428,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 292290,
+        "num": 292290,
+        "word": "男子捡大学生手机索要千元不给就刷机",
+        "onboard_time": 1701564751,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291790,
+        "num": 291790,
+        "word": "奔跑吧 古装撕名牌",
+        "onboard_time": 1701567629,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288805,
+        "num": 288805,
+        "word": "游客大兴机场带94斤大虾入境被查",
+        "onboard_time": 1701567090,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259526,
+        "num": 259526,
+        "word": "为什么有人一喝咖啡就跑厕所",
+        "onboard_time": 1701567392,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 386652,
+        "num": 253471,
+        "word": "穿大衣当然要扎低丸子头",
+        "onboard_time": 1701564993,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 337524,
+        "num": 252639,
+        "word": "上厕所玩手机有多危险",
+        "onboard_time": 1701566129,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244850,
+        "num": 244850,
+        "word": "男子体检突发心梗3分钟冲出10名医护",
+        "onboard_time": 1701563427,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244095,
+        "num": 244095,
+        "word": "南海归墟11分钟没声音",
+        "onboard_time": 1701565289,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231731,
+        "num": 231731,
+        "word": "菲律宾发生7.6级地震",
+        "onboard_time": 1701558558,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228321,
+        "num": 228321,
+        "word": "张元英Smoke3秒cut",
+        "onboard_time": 1701568169,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218122,
+        "num": 218122,
+        "word": "文科生才懂的梗",
+        "onboard_time": 1701564148,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195126,
+        "num": 195126,
+        "word": "张远回复杨丞琳",
+        "onboard_time": 1701565171,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191051,
+        "num": 191051,
+        "word": "北京首次全市大范围记录到极光",
+        "onboard_time": 1701561925,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190664,
+        "num": 190664,
+        "word": "刘诗诗刘宇宁吻戏",
+        "onboard_time": 1701528217,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187530,
+        "num": 187530,
+        "word": "寻子家长解克锋称资产没有上亿",
+        "onboard_time": 1701568771,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176656,
+        "num": 176656,
+        "word": "能减少黑头的小习惯",
+        "onboard_time": 1701531693,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 171089,
+        "num": 171089,
+        "word": "脱轨强制爱",
+        "onboard_time": 1701569971,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167192,
+        "num": 167192,
+        "word": "龙行龘龘",
+        "onboard_time": 1701526896,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166776,
+        "num": 166776,
+        "word": "消防员到场时看到个撅小屁股的娃",
+        "onboard_time": 1701567268,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156785,
+        "num": 156785,
+        "word": "个税专项附加扣除信息确认开始",
+        "onboard_time": 1701560483,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153024,
+        "num": 153024,
+        "word": "勇士领先了47分50秒",
+        "onboard_time": 1701563247,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145547,
+        "num": 145547,
+        "word": "全场围观古巨基吻戏",
+        "onboard_time": 1701569195,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144177,
+        "num": 144177,
+        "word": "猫猫每天都去要面条吃",
+        "onboard_time": 1701568830,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30753,
+        "num": 141952,
+        "word": "张朝阳的物理课西安交大开讲",
+        "onboard_time": 1701568830,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141481,
+        "num": 141481,
+        "word": "苏翊鸣夺冠动作比赛前一天才训练成功",
+        "onboard_time": 1701563427,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141004,
+        "num": 141004,
+        "word": "打压式教育",
+        "onboard_time": 1701568408,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130347,
+        "num": 130347,
+        "word": "张远在杨丞琳演唱会上唱乌梅子酱",
+        "onboard_time": 1701569195,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129164,
+        "num": 129164,
+        "word": "法越馨镜头下的肖战",
+        "onboard_time": 1701562406,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129027,
+        "num": 129027,
+        "word": "被公职人员占用的公租房小区已腾退五六百户",
+        "onboard_time": 1701529834,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129014,
+        "num": 129014,
+        "word": "多睡一小时就能减肥",
+        "onboard_time": 1701558859,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126476,
+        "num": 126476,
+        "word": "赵露思 小红书广告",
+        "onboard_time": 1701513031,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125159,
+        "num": 125159,
+        "word": "跪杀弗洛伊德的警察狱中被刺22刀",
+        "onboard_time": 1701530672,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122613,
+        "num": 122613,
+        "word": "小满生活 隐形出轨男",
+        "onboard_time": 1701561627,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118072,
+        "num": 118072,
+        "word": "陈奕迅 清唱",
+        "onboard_time": 1701564751,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国关键要读懂中国式现代化#"
+    }
+  }
+}
