@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701570604641,
+  "endTime": 1701571237578,
   "band_list": [
     {
       "raw_hot": 2635505,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2238841,
-      "num": 398066,
+      "num": 406651,
       "word": "宋轶删图",
       "onboard_time": 1701525999,
       "rank": 10,
@@ -27,8 +27,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1237027,
-      "num": 1237027,
+      "raw_hot": 1316610,
+      "num": 1316610,
       "word": "适合做老婆为什么会是一种冒犯",
       "onboard_time": 1701566851,
       "rank": 36,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671720,
+      "num": 671720,
+      "word": "谢依霖遗传了妈妈的抑郁症",
+      "onboard_time": 1701569371,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 652525,
       "num": 652525,
       "word": "赵露思 小红书广告",
       "onboard_time": 1701513031,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580735,
+      "num": 580735,
+      "word": "C罗被索赔超70亿",
+      "onboard_time": 1701569794,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 574627,
@@ -97,14 +113,6 @@
       "onboard_time": 1701530672,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 525290,
-      "num": 369688,
-      "word": "谢依霖遗传了妈妈的抑郁症",
-      "onboard_time": 1701569371,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 514492,
@@ -155,20 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430790,
+      "num": 404988,
+      "word": "檀健次周也嘴巴都亲红了",
+      "onboard_time": 1701567629,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 428644,
+      "num": 403299,
+      "word": "已婚男陈立自愿被老婆摄像头监控",
+      "onboard_time": 1701567031,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426882,
       "num": 426882,
       "word": "男子捡大学生手机索要千元不给就刷机",
       "onboard_time": 1701564751,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 423227,
-      "num": 423227,
-      "word": "C罗被索赔超70亿",
-      "onboard_time": 1701569794,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 422834,
@@ -187,20 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 398646,
-      "num": 398646,
-      "word": "檀健次周也嘴巴都亲红了",
-      "onboard_time": 1701567629,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 390055,
-      "num": 360453,
-      "word": "已婚男陈立自愿被老婆摄像头监控",
-      "onboard_time": 1701567031,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 406941,
+      "num": 406941,
+      "word": "如何委婉拒绝刘亦菲",
+      "onboard_time": 1701569428,
+      "rank": 15,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 387986,
@@ -225,14 +233,6 @@
       "onboard_time": 1701568711,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354847,
-      "num": 354847,
-      "word": "如何委婉拒绝刘亦菲",
-      "onboard_time": 1701569428,
-      "rank": 15,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 342409,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282000,
+      "num": 282000,
+      "word": "为什么有人一喝咖啡就跑厕所",
+      "onboard_time": 1701567392,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 278406,
       "num": 278406,
       "word": "摇粒绒 保暖",
@@ -337,14 +345,6 @@
       "onboard_time": 1701564148,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259526,
-      "num": 259526,
-      "word": "为什么有人一喝咖啡就跑厕所",
-      "onboard_time": 1701567392,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 246220,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243232,
+      "num": 243232,
+      "word": "张元英Smoke3秒cut",
+      "onboard_time": 1701568169,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231706,
       "num": 231706,
       "word": "勇士领先了47分50秒",
@@ -377,14 +385,6 @@
       "onboard_time": 1701524137,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228321,
-      "num": 228321,
-      "word": "张元英Smoke3秒cut",
-      "onboard_time": 1701568169,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 223190,
@@ -409,6 +409,14 @@
       "onboard_time": 1701520534,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 219942,
+      "num": 219942,
+      "word": "市监局回应美少女手办涉黄",
+      "onboard_time": 1701570692,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217016,
@@ -555,20 +563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169144,
+      "num": 169144,
+      "word": "消防员到场时看到个撅小屁股的娃",
+      "onboard_time": 1701567268,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168698,
       "num": 168698,
       "word": "猫 你家陷阱挺多的",
       "onboard_time": 1701531693,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166776,
-      "num": 166776,
-      "word": "消防员到场时看到个撅小屁股的娃",
-      "onboard_time": 1701567268,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163664,
@@ -651,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143854,
+      "num": 143854,
+      "word": "很想很想你",
+      "onboard_time": 1701571050,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142801,
       "num": 141010,
       "word": "保时捷婚车四个轮子被上几十把锁",
@@ -707,6 +723,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134917,
+      "num": 134917,
+      "word": "宁远舟 头狼素质",
+      "onboard_time": 1701570869,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134729,
+      "num": 134729,
+      "word": "看很想很想你 恋爱瘾犯了",
+      "onboard_time": 1701570809,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132478,
       "num": 132478,
       "word": "东北人都不用花钱买冰箱的吗",
@@ -721,6 +753,14 @@
       "onboard_time": 1701566432,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130981,
+      "num": 130981,
+      "word": "喝咖啡提神还是犯困取决于喝的时机",
+      "onboard_time": 1701570630,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 130366,
@@ -995,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36965,
+      "num": 141952,
+      "word": "张朝阳的物理课西安交大开讲",
+      "onboard_time": 1701568830,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 34297,
       "num": 34297,
       "word": "冬季皮肤干燥多吃这几种食物",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1701547994,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 30753,
-      "num": 141952,
-      "word": "张朝阳的物理课西安交大开讲",
-      "onboard_time": 1701568830,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 30728,
