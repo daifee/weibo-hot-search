@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701585261448,
+  "endTime": 1701587716255,
   "band_list": [
     {
       "raw_hot": 4916739,
@@ -203,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1603678,
+      "num": 1603678,
+      "word": "离婚 跟拍",
+      "onboard_time": 1701583653,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1564593,
       "num": 1564593,
       "word": "杨鸣 思思",
@@ -297,6 +305,14 @@
       "onboard_time": 1701351038,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1311731,
+      "num": 1311731,
+      "word": "大床房 大空房",
+      "onboard_time": 1701585092,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 1309159,
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1019091,
+      "num": 1019091,
+      "word": "官方通报三甲医院超收22万医疗费",
+      "onboard_time": 1701585991,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 978656,
       "num": 978656,
       "word": "孟美岐 年度最具突破女歌手",
@@ -505,14 +529,6 @@
       "onboard_time": 1701528217,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 864623,
-      "num": 285600,
-      "word": "离婚 跟拍",
-      "onboard_time": 1701583653,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 855195,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1701564993,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 513356,
+      "num": 220259,
+      "word": "为什么普通人一年存两三万都很难",
+      "onboard_time": 1701585332,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 511352,
@@ -1867,14 +1891,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 370176,
-      "num": 278750,
-      "word": "大床房 大空房",
-      "onboard_time": 1701585092,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 369445,
       "num": 369445,
       "word": "杨丞琳 唐门找到属于他的小花了",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1701518734,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 362234,
+      "num": 362234,
+      "word": "文物禁止拍照是量子问题",
+      "onboard_time": 1701586230,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362030,
@@ -2395,6 +2419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 297566,
+      "num": 263191,
+      "word": "手机拍照的图片不要直接打印",
+      "onboard_time": 1701585332,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 297542,
       "num": 247054,
       "word": "五年后才看到口红上的刻字",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1701391595,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293025,
+      "num": 293025,
+      "word": "不喜欢回老家 失权感",
+      "onboard_time": 1701584732,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 291903,
@@ -3339,6 +3379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226016,
+      "num": 226016,
+      "word": "成毅 热爱是每次开机时的期待",
+      "onboard_time": 1701587133,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225398,
       "num": 225398,
       "word": "爷爷晒暖暖安详离世奶奶转身抹泪",
@@ -3433,6 +3481,14 @@
       "onboard_time": 1701562104,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 216846,
+      "num": 216846,
+      "word": "杨千嬅陈奕迅 胜负欲与战友情",
+      "onboard_time": 1701585691,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 216788,
@@ -3545,6 +3601,14 @@
       "onboard_time": 1701393215,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 212487,
+      "num": 212487,
+      "word": "张杰 珠海",
+      "onboard_time": 1701585872,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 212478,
@@ -3843,6 +3907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201193,
+      "num": 201193,
+      "word": "珠海警方回应某小区疑发生3人被害凶案",
+      "onboard_time": 1701586771,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201094,
       "num": 201094,
       "word": "出狱10年后她见到恩人现状惊到下跪",
@@ -4043,6 +4115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194649,
+      "num": 194649,
+      "word": "成都混团世界杯抽签",
+      "onboard_time": 1701586892,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194526,
       "num": 143514,
       "word": "天杀的SNK老子要报警抓你",
@@ -4113,6 +4193,14 @@
       "onboard_time": 1701402695,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193167,
+      "num": 193167,
+      "word": "魏哲鸣唐域 癫公总裁",
+      "onboard_time": 1701587252,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 192812,
@@ -4225,6 +4313,14 @@
       "onboard_time": 1701432933,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189716,
+      "num": 193196,
+      "word": "成都混团世界杯抽签结果",
+      "onboard_time": 1701586771,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 188935,
@@ -4489,14 +4585,6 @@
       "onboard_time": 1701516514,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178036,
-      "num": 178036,
-      "word": "不喜欢回老家 失权感",
-      "onboard_time": 1701584732,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 177810,
@@ -5113,6 +5201,14 @@
       "onboard_time": 1701415054,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155826,
+      "num": 155826,
+      "word": "全小区的猫都来看三花了",
+      "onboard_time": 1701587010,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 155597,
@@ -5883,6 +5979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127407,
+      "num": 127407,
+      "word": "很想很想你 远镜头",
+      "onboard_time": 1701585513,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127318,
       "num": 127318,
       "word": "刘诗诗问六道堂F5为什么不秀腹肌",
@@ -6099,6 +6203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119813,
+      "num": 119813,
+      "word": "鲁迅 女性观",
+      "onboard_time": 1701584311,
+      "rank": 44,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 118679,
       "num": 118679,
       "word": "关于艾滋的6个常见误区",
@@ -6163,6 +6275,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112500,
+      "num": 112500,
+      "word": "还以为MMA的音响很烂",
+      "onboard_time": 1701584973,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 112481,
+      "num": 112481,
+      "word": "汪苏泷周深 是兄弟就一起社死",
+      "onboard_time": 1701587672,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112435,
       "num": 112435,
       "word": "南海归墟逐渐鲛化",
@@ -6193,14 +6321,6 @@
       "onboard_time": 1701352837,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 111134,
-      "num": 111134,
-      "word": "还以为MMA的音响很烂",
-      "onboard_time": 1701584973,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 110846,
@@ -6801,6 +6921,14 @@
       "onboard_time": 1701453738,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28981,
+      "num": 193173,
+      "word": "元梦之星一整个大动作",
+      "onboard_time": 1701587010,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 28232,
