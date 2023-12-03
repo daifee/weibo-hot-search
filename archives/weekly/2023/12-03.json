@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701598642922,
+  "endTime": 1701599657840,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -99,8 +99,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1216940,
-      "num": 511003,
+      "raw_hot": 1246008,
+      "num": 1246008,
       "word": "杨紫 零下二十度光腿直播",
       "onboard_time": 1701596073,
       "rank": 10,
@@ -121,6 +121,14 @@
       "onboard_time": 1701521134,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138127,
+      "num": 1138127,
+      "word": "顶级乐队假唱 五星级酒店预制菜",
+      "onboard_time": 1701596433,
+      "rank": 5,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1102050,
@@ -147,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1023520,
+      "num": 1023520,
+      "word": "李一桐 女孩子找男朋友一定要擦亮眼",
+      "onboard_time": 1701597452,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1019091,
       "num": 1019091,
       "word": "官方通报三甲医院超收22万医疗费",
@@ -161,14 +177,6 @@
       "onboard_time": 1701581734,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 909578,
-      "num": 909578,
-      "word": "顶级乐队假唱 五星级酒店预制菜",
-      "onboard_time": 1701596433,
-      "rank": 5,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 781910,
@@ -219,20 +227,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 682655,
-      "num": 682655,
-      "word": "李一桐 女孩子找男朋友一定要擦亮眼",
-      "onboard_time": 1701597452,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 652525,
       "num": 652525,
       "word": "赵露思 小红书广告",
       "onboard_time": 1701513031,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 637562,
+      "num": 570538,
+      "word": "华晨宇广州上座率",
+      "onboard_time": 1701598414,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 634294,
@@ -273,14 +281,6 @@
       "onboard_time": 1701531693,
       "rank": 12,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 570538,
-      "num": 570538,
-      "word": "华晨宇广州上座率",
-      "onboard_time": 1701598414,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 560728,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 353128,
-      "num": 326080,
+      "num": 329072,
       "word": "解清帅妈妈晒儿子吃早餐",
       "onboard_time": 1701593376,
       "rank": 16,
@@ -568,6 +568,14 @@
       "word": "上厕所玩手机有多危险",
       "onboard_time": 1701566129,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334308,
+      "num": 1616072,
+      "word": "哈工大90岁院士捐款300万",
+      "onboard_time": 1701597031,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -819,12 +827,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254241,
-      "num": 1165619,
-      "word": "哈工大90岁院士捐款300万",
-      "onboard_time": 1701597031,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 250174,
+      "num": 250174,
+      "word": "美国顾客用中文写名字",
+      "onboard_time": 1701595832,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 249082,
@@ -841,14 +849,6 @@
       "onboard_time": 1701514172,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246184,
-      "num": 246184,
-      "word": "美国顾客用中文写名字",
-      "onboard_time": 1701595832,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 243786,
@@ -1356,7 +1356,7 @@
     },
     {
       "raw_hot": 168625,
-      "num": 750744,
+      "num": 1029833,
       "word": "全红婵陈芋汐轻松夺冠",
       "onboard_time": 1701592114,
       "rank": 26,
@@ -1411,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160195,
+      "num": 1169276,
+      "word": "89岁奶奶在医院演奏3个月钢琴",
+      "onboard_time": 1701597031,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157821,
       "num": 157821,
       "word": "Uzi要回来了吗",
@@ -1419,8 +1427,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155936,
-      "num": 155936,
+      "raw_hot": 157385,
+      "num": 157385,
       "word": "红楼梦 奇书",
       "onboard_time": 1701595356,
       "rank": 38,
@@ -1483,14 +1491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152688,
-      "num": 923777,
-      "word": "89岁奶奶在医院演奏3个月钢琴",
-      "onboard_time": 1701597031,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151988,
       "num": 151988,
       "word": "法越馨镜头下的肖战",
@@ -1505,6 +1505,14 @@
       "onboard_time": 1701576870,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149971,
+      "num": 149971,
+      "word": "楚雄震感",
+      "onboard_time": 1701599553,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149677,
@@ -1667,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136999,
+      "num": 136999,
+      "word": "N2",
+      "onboard_time": 1701596193,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136427,
       "num": 136427,
       "word": "周冬雨陈妙 爽文女主",
@@ -1779,6 +1795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127591,
+      "num": 127591,
+      "word": "博主给被质疑假唱的五月天几点建议",
+      "onboard_time": 1701596255,
+      "rank": 46,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 127407,
       "num": 127407,
       "word": "很想很想你 远镜头",
@@ -1835,14 +1859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123154,
-      "num": 123154,
-      "word": "N2",
-      "onboard_time": 1701596193,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 122798,
       "num": 122798,
       "word": "宋雨琦 湖人穿搭",
@@ -1897,14 +1913,6 @@
       "onboard_time": 1701584311,
       "rank": 44,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 119128,
-      "num": 119128,
-      "word": "博主给被质疑假唱的五月天几点建议",
-      "onboard_time": 1701596255,
-      "rank": 46,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 118275,
@@ -2187,8 +2195,8 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 52537,
-      "num": 1037354,
+      "raw_hot": 52566,
+      "num": 1335761,
       "word": "冬季呼吸道疾病防治4问4答",
       "onboard_time": 1701594754,
       "rank": 2,

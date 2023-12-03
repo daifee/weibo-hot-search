@@ -1,0 +1,410 @@
+{
+  "runTime": 1701599657840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2117083,
+        "num": 2117083,
+        "word": "官方回应五月天被质疑假唱",
+        "onboard_time": 1701589594,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 334308,
+        "num": 1616072,
+        "word": "哈工大90岁院士捐款300万",
+        "onboard_time": 1701597031,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52566,
+        "num": 1335761,
+        "word": "冬季呼吸道疾病防治4问4答",
+        "onboard_time": 1701594754,
+        "rank": 2,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1246008,
+        "num": 1246008,
+        "word": "杨紫 零下二十度光腿直播",
+        "onboard_time": 1701596073,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160195,
+        "num": 1169276,
+        "word": "89岁奶奶在医院演奏3个月钢琴",
+        "onboard_time": 1701597031,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138127,
+        "num": 1138127,
+        "word": "顶级乐队假唱 五星级酒店预制菜",
+        "onboard_time": 1701596433,
+        "rank": 5,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 154475,
+        "num": 1029833,
+        "word": "全红婵陈芋汐轻松夺冠",
+        "onboard_time": 1701592114,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1023520,
+        "num": 1023520,
+        "word": "李一桐 女孩子找男朋友一定要擦亮眼",
+        "onboard_time": 1701597452,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 719322,
+        "num": 719322,
+        "word": "GQ盛典 名单",
+        "onboard_time": 1701593855,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 340942,
+        "num": 340942,
+        "word": "大学生送外卖赚1万多奖励自己环游半个中国",
+        "onboard_time": 1701592654,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971713,
+        "num": 340545,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 637562,
+        "num": 340162,
+        "word": "华晨宇广州上座率",
+        "onboard_time": 1701598414,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 620441,
+        "num": 339763,
+        "word": "女性生理期冷知识",
+        "onboard_time": 1701592231,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 614422,
+        "num": 339451,
+        "word": "网友吐槽结婚6年真心觉得婚姻不值得",
+        "onboard_time": 1701592831,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 535781,
+        "num": 338965,
+        "word": "五月天 假唱派和真唱派",
+        "onboard_time": 1701580954,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 420875,
+        "num": 338740,
+        "word": "博主向消协公开举报五月天假唱",
+        "onboard_time": 1701594996,
+        "rank": 15,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 365901,
+        "num": 338202,
+        "word": "刘诗诗 北京",
+        "onboard_time": 1701593672,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338043,
+        "num": 338043,
+        "word": "东航MU721航班故障机舱画面曝光",
+        "onboard_time": 1701575432,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329072,
+        "num": 329072,
+        "word": "解清帅妈妈晒儿子吃早餐",
+        "onboard_time": 1701593376,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284713,
+        "num": 284713,
+        "word": "离婚 跟拍",
+        "onboard_time": 1701583653,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290386,
+        "num": 282296,
+        "word": "为什么普通人一年存两三万都很难",
+        "onboard_time": 1701585332,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269664,
+        "num": 269664,
+        "word": "商演假唱将被罚款",
+        "onboard_time": 1701596433,
+        "rank": 21,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 250174,
+        "num": 250174,
+        "word": "美国顾客用中文写名字",
+        "onboard_time": 1701595832,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214603,
+        "num": 214603,
+        "word": "LWX林炜翔",
+        "onboard_time": 1701588153,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199803,
+        "num": 199803,
+        "word": "越南一男子就诊发现颅内插了双筷子",
+        "onboard_time": 1701588031,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190218,
+        "num": 190218,
+        "word": "抑郁症是受到打击才发病吗",
+        "onboard_time": 1701592533,
+        "rank": 25,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 189053,
+        "num": 189053,
+        "word": "孟美岐 年度最具突破女歌手",
+        "onboard_time": 1701581734,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187105,
+        "num": 187105,
+        "word": "王鹤棣田曦薇现代戏路透",
+        "onboard_time": 1701589594,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168782,
+        "num": 186809,
+        "word": "东航回应航班高空故障紧急备降厦门",
+        "onboard_time": 1701593915,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165074,
+        "num": 186784,
+        "word": "N1",
+        "onboard_time": 1701593252,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186784,
+        "num": 186783,
+        "word": "向太郭碧婷 越来越像",
+        "onboard_time": 1701576571,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186059,
+        "num": 186059,
+        "word": "汗流浃背了",
+        "onboard_time": 1701597394,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168244,
+        "num": 168244,
+        "word": "我知道她在为什么哭",
+        "onboard_time": 1701592831,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166481,
+        "num": 166481,
+        "word": "圆明园7小天鹅太治愈了",
+        "onboard_time": 1701597336,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 162170,
+        "num": 162170,
+        "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+        "onboard_time": 1701572731,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157385,
+        "num": 157385,
+        "word": "红楼梦 奇书",
+        "onboard_time": 1701595356,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 155050,
+        "num": 155050,
+        "word": "初代网红奶茶店开始悄悄倒闭",
+        "onboard_time": 1701576511,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150546,
+        "num": 150546,
+        "word": "星光大赏尖叫之夜明星阵容对比",
+        "onboard_time": 1701592894,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149971,
+        "num": 149971,
+        "word": "楚雄震感",
+        "onboard_time": 1701599553,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147433,
+        "num": 147433,
+        "word": "WBG官宣Karsa离队",
+        "onboard_time": 1701594396,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140311,
+        "num": 140311,
+        "word": "五月天假唱鉴定",
+        "onboard_time": 1701530795,
+        "rank": 40,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 138900,
+        "num": 138900,
+        "word": "龘是什么意思",
+        "onboard_time": 1701592413,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138661,
+        "num": 138661,
+        "word": "陈奕迅 川贵妃",
+        "onboard_time": 1701588452,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136999,
+        "num": 136999,
+        "word": "N2",
+        "onboard_time": 1701596193,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127591,
+        "num": 127591,
+        "word": "博主给被质疑假唱的五月天几点建议",
+        "onboard_time": 1701596255,
+        "rank": 44,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 127258,
+        "num": 127258,
+        "word": "做陪玩的农村女人们",
+        "onboard_time": 1701590375,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126517,
+        "num": 126517,
+        "word": "麦田农夫",
+        "onboard_time": 1701596315,
+        "rank": 46,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 126031,
+        "num": 126031,
+        "word": "寻子成功富豪辟谣资产上亿",
+        "onboard_time": 1701590558,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123607,
+        "num": 123607,
+        "word": "全世界只有嗯嗨盆在逗我笑",
+        "onboard_time": 1701594092,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119522,
+        "num": 119522,
+        "word": "关晓彤 清冷",
+        "onboard_time": 1701590976,
+        "rank": 49,
+        "category": "作品衍生,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向首届良渚论坛致贺信#"
+    }
+  }
+}
