@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701621389423,
+  "endTime": 1701623680600,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -291,6 +291,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 784735,
+      "num": 784735,
+      "word": "姥姥去世一周后妈妈发的短信",
+      "onboard_time": 1701621029,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 781910,
       "num": 781910,
       "word": "初代网红奶茶店开始悄悄倒闭",
@@ -312,6 +320,14 @@
       "word": "女性生理期冷知识",
       "onboard_time": 1701592231,
       "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 752088,
+      "num": 752088,
+      "word": "长期缺觉容易诱发这5种疾病",
+      "onboard_time": 1701619056,
+      "rank": 10,
       "category": "健康医疗"
     },
     {
@@ -393,14 +409,6 @@
       "onboard_time": 1701611321,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 663964,
-      "num": 663964,
-      "word": "长期缺觉容易诱发这5种疾病",
-      "onboard_time": 1701619056,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 652525,
@@ -827,14 +835,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 366026,
-      "num": 366026,
-      "word": "姥姥去世一周后妈妈发的短信",
-      "onboard_time": 1701621029,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 365220,
       "num": 365220,
       "word": "把猫猫的头含进嘴里的萨摩耶",
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340485,
+      "num": 340485,
+      "word": "李一桐 张凌赫要尝试现偶了",
+      "onboard_time": 1701620074,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 337524,
       "num": 291781,
       "word": "上厕所玩手机有多危险",
@@ -961,14 +969,6 @@
       "onboard_time": 1701590375,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317509,
-      "num": 317509,
-      "word": "李一桐 张凌赫要尝试现偶了",
-      "onboard_time": 1701620074,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 316580,
@@ -2147,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160544,
+      "num": 156321,
+      "word": "ITZY 回归",
+      "onboard_time": 1701621449,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160246,
       "num": 160246,
       "word": "对周一围的误解来自朱丹",
@@ -2867,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111352,
+      "num": 108159,
+      "word": "李一桐问杨紫长相思2播出时间",
+      "onboard_time": 1701621388,
+      "rank": 26,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 110769,
       "num": 110769,
       "word": "三大队",
@@ -2881,6 +2897,14 @@
       "onboard_time": 1701620551,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107659,
+      "num": 107659,
+      "word": "妻子把儿子包成花束去迎接退伍丈夫",
+      "onboard_time": 1701622348,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106591,
@@ -2913,6 +2937,14 @@
       "onboard_time": 1701574471,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 102041,
+      "num": 102041,
+      "word": "李健 十点半的地铁",
+      "onboard_time": 1701622824,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 102035,
@@ -3105,6 +3137,14 @@
       "onboard_time": 1701594754,
       "rank": 2,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 50078,
+      "num": 50078,
+      "word": "秋冬潮流氛围感毽子头",
+      "onboard_time": 1701622407,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 45551,

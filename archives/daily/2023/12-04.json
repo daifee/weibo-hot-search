@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701621389423,
+  "endTime": 1701623680600,
   "band_list": [
     {
       "raw_hot": 5380016,
@@ -51,8 +51,16 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 663964,
-      "num": 663964,
+      "raw_hot": 784735,
+      "num": 784735,
+      "word": "姥姥去世一周后妈妈发的短信",
+      "onboard_time": 1701621029,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 752088,
+      "num": 752088,
       "word": "长期缺觉容易诱发这5种疾病",
       "onboard_time": 1701619056,
       "rank": 10,
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366026,
-      "num": 366026,
-      "word": "姥姥去世一周后妈妈发的短信",
-      "onboard_time": 1701621029,
-      "rank": 13,
-      "category": "情感"
+      "raw_hot": 340485,
+      "num": 340485,
+      "word": "李一桐 张凌赫要尝试现偶了",
+      "onboard_time": 1701620074,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 339822,
@@ -128,14 +136,6 @@
       "word": "GQ压轴官宣杨幂",
       "onboard_time": 1701615637,
       "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 317509,
-      "num": 317509,
-      "word": "李一桐 张凌赫要尝试现偶了",
-      "onboard_time": 1701620074,
-      "rank": 21,
       "category": "作品衍生,时尚"
     },
     {
@@ -275,6 +275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 160544,
+      "num": 156321,
+      "word": "ITZY 回归",
+      "onboard_time": 1701621449,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155969,
       "num": 182012,
       "word": "发现被舍友删后重加要回4年前礼金",
@@ -403,12 +411,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 111352,
+      "num": 108159,
+      "word": "李一桐问杨紫长相思2播出时间",
+      "onboard_time": 1701621388,
+      "rank": 26,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 110544,
       "num": 110544,
       "word": "麦卡利斯特世界波",
       "onboard_time": 1701620551,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107659,
+      "num": 107659,
+      "word": "妻子把儿子包成花束去迎接退伍丈夫",
+      "onboard_time": 1701622348,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102041,
+      "num": 102041,
+      "word": "李健 十点半的地铁",
+      "onboard_time": 1701622824,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 95760,
@@ -441,6 +473,22 @@
       "onboard_time": 1701616662,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74545,
+      "num": 60949,
+      "word": "一念关山",
+      "onboard_time": 1701608082,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50078,
+      "num": 50078,
+      "word": "秋冬潮流氛围感毽子头",
+      "onboard_time": 1701622407,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 44613,
