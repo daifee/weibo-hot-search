@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701602015413,
+  "endTime": 1701603240219,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 629655,
+      "num": 403410,
+      "word": "车窗贴两张缴费单但车内司机已去世",
+      "onboard_time": 1701601773,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622662,
       "num": 622662,
       "word": "王鹤棣 拍古装拍烦了",
@@ -449,6 +457,14 @@
       "onboard_time": 1701564751,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425286,
+      "num": 425286,
+      "word": "鼻子通常只有一个鼻孔通气",
+      "onboard_time": 1701601115,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 422834,
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304035,
+      "num": 304035,
+      "word": "折腰",
+      "onboard_time": 1701602732,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301646,
       "num": 301646,
       "word": "阴阳师 男角色",
@@ -697,14 +721,6 @@
       "onboard_time": 1701571473,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 299090,
-      "num": 266566,
-      "word": "鼻子通常只有一个鼻孔通气",
-      "onboard_time": 1701601115,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 297268,
@@ -745,6 +761,14 @@
       "onboard_time": 1701584732,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 292816,
+      "num": 250229,
+      "word": "冯小刚 奇闻CP有爱但不肉麻",
+      "onboard_time": 1701602974,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 292330,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 285813,
-      "num": 181110,
+      "num": 228582,
       "word": "TES官宣Despa1r加入",
       "onboard_time": 1701599973,
       "rank": 30,
@@ -995,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218908,
+      "num": 218908,
+      "word": "陈伟霆 只要我不尴尬尴尬的就是张家辉",
+      "onboard_time": 1701601593,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217016,
       "num": 217016,
       "word": "糖醋排骨",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1701577832,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 212879,
+      "num": 189942,
+      "word": "没上过大学的人对大学的想象",
+      "onboard_time": 1701602791,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 212487,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1701594396,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208031,
+      "num": 208031,
+      "word": "提供情绪价值的根本方法",
+      "onboard_time": 1701601115,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 207721,
@@ -1339,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184541,
-      "num": 184541,
-      "word": "提供情绪价值的根本方法",
-      "onboard_time": 1701601115,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181259,
       "num": 181259,
       "word": "湖人战胜火箭",
@@ -1371,14 +1411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175017,
-      "num": 175017,
-      "word": "陈伟霆 只要我不尴尬尴尬的就是张家辉",
-      "onboard_time": 1701601593,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 174693,
       "num": 174693,
       "word": "减肥的底层逻辑",
@@ -1387,11 +1419,27 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 174661,
+      "num": 174661,
+      "word": "1930年的猫奴 熟睡中的猫咪",
+      "onboard_time": 1701601474,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171729,
       "num": 171729,
       "word": "汪苏泷周深 是兄弟就一起社死",
       "onboard_time": 1701587672,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171276,
+      "num": 171276,
+      "word": "星光大赏阵容",
+      "onboard_time": 1701603098,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1409,6 +1457,14 @@
       "onboard_time": 1701565470,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169386,
+      "num": 163915,
+      "word": "星光大赏吃百家饭",
+      "onboard_time": 1701601952,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169144,
@@ -1483,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159077,
+      "num": 159077,
+      "word": "演唱会真唱很难么",
+      "onboard_time": 1701601416,
+      "rank": 38,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 157821,
       "num": 157821,
       "word": "Uzi要回来了吗",
@@ -1497,14 +1561,6 @@
       "onboard_time": 1701595356,
       "rank": 38,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 155958,
-      "num": 155958,
-      "word": "车窗贴两张缴费单但车内司机已去世",
-      "onboard_time": 1701601773,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155826,
@@ -1537,14 +1593,6 @@
       "onboard_time": 1701589473,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154711,
-      "num": 154711,
-      "word": "演唱会真唱很难么",
-      "onboard_time": 1701601416,
-      "rank": 38,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 154342,
@@ -1587,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150872,
+      "num": 150872,
+      "word": "突然明白了唢呐的原理",
+      "onboard_time": 1701602914,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149677,
       "num": 149677,
       "word": "王心凌首唱对赌",
@@ -1601,14 +1657,6 @@
       "onboard_time": 1701566970,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148795,
-      "num": 148795,
-      "word": "1930年的猫奴 熟睡中的猫咪",
-      "onboard_time": 1701601474,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 148700,
@@ -1801,6 +1849,14 @@
       "onboard_time": 1701570809,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133637,
+      "num": 133637,
+      "word": "扁糖葫芦 压扁",
+      "onboard_time": 1701602552,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 132478,
@@ -2001,14 +2057,6 @@
       "onboard_time": 1701563968,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120132,
-      "num": 120132,
-      "word": "星光大赏吃百家饭",
-      "onboard_time": 1701601952,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 119813,
