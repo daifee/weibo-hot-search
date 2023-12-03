@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701592458192,
+  "endTime": 1701594950846,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -619,6 +619,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 802980,
+      "num": 802980,
+      "word": "GQ盛典 名单",
+      "onboard_time": 1701593855,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 798757,
       "num": 1410479,
       "word": "男子打球猝死工作人员抢下黄金四分钟",
@@ -859,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 634294,
+      "num": 634294,
+      "word": "刘诗诗 北京",
+      "onboard_time": 1701593672,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 631522,
       "num": 631522,
       "word": "M豆棺材",
@@ -929,6 +945,14 @@
       "onboard_time": 1701569794,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 597726,
+      "num": 311087,
+      "word": "女性生理期冷知识",
+      "onboard_time": 1701592231,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 596398,
@@ -1044,7 +1068,7 @@
     },
     {
       "raw_hot": 554079,
-      "num": 290970,
+      "num": 308974,
       "word": "越南一男子就诊发现颅内插了双筷子",
       "onboard_time": 1701588031,
       "rank": 24,
@@ -1803,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384983,
+      "num": 384983,
+      "word": "N1",
+      "onboard_time": 1701593252,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 383549,
       "num": 383549,
       "word": "女团为了不养猪宁愿睡桥洞",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1701561627,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376759,
+      "num": 376759,
+      "word": "网友吐槽结婚6年真心觉得婚姻不值得",
+      "onboard_time": 1701592831,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 375598,
@@ -2001,6 +2041,14 @@
       "onboard_time": 1701444215,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359322,
+      "num": 359322,
+      "word": "大学生送外卖赚1万多奖励自己环游半个中国",
+      "onboard_time": 1701592654,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359318,
@@ -2276,7 +2324,7 @@
     },
     {
       "raw_hot": 320392,
-      "num": 218572,
+      "num": 252560,
       "word": "做陪玩的农村女人们",
       "onboard_time": 1701590375,
       "rank": 21,
@@ -2467,12 +2515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302144,
+      "num": 302144,
+      "word": "解清帅妈妈晒儿子吃早餐",
+      "onboard_time": 1701593376,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301702,
       "num": 241620,
       "word": "保时捷婚车四个轮子被上几十把锁",
       "onboard_time": 1701526476,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301646,
+      "num": 301646,
+      "word": "阴阳师 男角色",
+      "onboard_time": 1701592956,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 300964,
@@ -3275,6 +3339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235081,
+      "num": 235081,
+      "word": "星光大赏尖叫之夜明星阵容对比",
+      "onboard_time": 1701592894,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234472,
       "num": 234472,
       "word": "德云社",
@@ -3459,6 +3531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225432,
+      "num": 225432,
+      "word": "抑郁症是受到打击才发病吗",
+      "onboard_time": 1701592533,
+      "rank": 25,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 225398,
       "num": 225398,
       "word": "爷爷晒暖暖安详离世奶奶转身抹泪",
@@ -3529,6 +3609,14 @@
       "onboard_time": 1701428615,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219255,
+      "num": 219255,
+      "word": "龘是什么意思",
+      "onboard_time": 1701592413,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219184,
@@ -3891,14 +3979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206188,
-      "num": 146350,
-      "word": "女性生理期冷知识",
-      "onboard_time": 1701592231,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 205872,
       "num": 205872,
       "word": "球场鹿晗 自由如风的少年",
@@ -4088,6 +4168,14 @@
       "word": "易烊千玺胶卷风citywalk",
       "onboard_time": 1701589831,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197720,
+      "num": 197720,
+      "word": "全世界只有嗯嗨盆在逗我笑",
+      "onboard_time": 1701594092,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -4339,6 +4427,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 191928,
+      "num": 191928,
+      "word": "东航回应航班高空故障紧急备降厦门",
+      "onboard_time": 1701593915,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191867,
       "num": 191867,
       "word": "AI 可怕",
@@ -4467,6 +4563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187728,
+      "num": 255369,
+      "word": "42年朱鹮从仅发现7只增至上万只",
+      "onboard_time": 1701593073,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187679,
       "num": 187679,
       "word": "ive 改编",
@@ -4577,6 +4681,14 @@
       "onboard_time": 1701521019,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185375,
+      "num": 185375,
+      "word": "WBG官宣Karsa离队",
+      "onboard_time": 1701594396,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 184851,
@@ -5025,6 +5137,14 @@
       "onboard_time": 1701572490,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166468,
+      "num": 166468,
+      "word": "辛芷蕾赵昭仪从不内耗自己",
+      "onboard_time": 1701593855,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 166391,
@@ -5587,6 +5707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146427,
+      "num": 146427,
+      "word": "因为一碗速食面被爸封我为小厨神",
+      "onboard_time": 1701593499,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146383,
       "num": 146383,
       "word": "曾坚持为外卖小哥打折的餐馆要关了",
@@ -5681,6 +5809,22 @@
       "onboard_time": 1701424894,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144509,
+      "num": 144509,
+      "word": "我的狗给我找的药",
+      "onboard_time": 1701594334,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 144283,
+      "num": 144283,
+      "word": "JLPT",
+      "onboard_time": 1701593733,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 144177,
@@ -5969,6 +6113,14 @@
       "onboard_time": 1701570809,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134640,
+      "num": 134640,
+      "word": "我知道她在为什么哭",
+      "onboard_time": 1701592831,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 133419,
@@ -6435,6 +6587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115976,
+      "num": 115976,
+      "word": "迪丽热巴独自碎碎念",
+      "onboard_time": 1701594695,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114707,
       "num": 114707,
       "word": "被小孩哥的舞蹈震惊了",
@@ -6497,6 +6657,14 @@
       "onboard_time": 1701480574,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110769,
+      "num": 110769,
+      "word": "三大队",
+      "onboard_time": 1701593196,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 110698,
@@ -6713,14 +6881,6 @@
       "onboard_time": 1701591276,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90920,
-      "num": 90920,
-      "word": "龘是什么意思",
-      "onboard_time": 1701592413,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90254,
@@ -7233,6 +7393,14 @@
       "onboard_time": 1701366738,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 12633,
+      "num": 636864,
+      "word": "冬季呼吸道疾病防治4问4答",
+      "onboard_time": 1701594754,
+      "rank": 2,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 12620,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1701594950846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7096566,
+        "num": 7096566,
+        "word": "官方回应五月天被质疑假唱",
+        "onboard_time": 1701589594,
+        "rank": 0,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 802980,
+        "num": 802980,
+        "word": "GQ盛典 名单",
+        "onboard_time": 1701593855,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12633,
+        "num": 636864,
+        "word": "冬季呼吸道疾病防治4问4答",
+        "onboard_time": 1701594754,
+        "rank": 2,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 634294,
+        "num": 634294,
+        "word": "刘诗诗 北京",
+        "onboard_time": 1701593672,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384983,
+        "num": 384983,
+        "word": "N1",
+        "onboard_time": 1701593252,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 376759,
+        "num": 376759,
+        "word": "网友吐槽结婚6年真心觉得婚姻不值得",
+        "onboard_time": 1701592831,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373829,
+        "num": 373829,
+        "word": "王鹤棣田曦薇现代戏路透",
+        "onboard_time": 1701589594,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1437101,
+        "num": 373567,
+        "word": "酒肉情侣 soulmate",
+        "onboard_time": 1701588993,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359322,
+        "num": 359322,
+        "word": "大学生送外卖赚1万多奖励自己环游半个中国",
+        "onboard_time": 1701592654,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313160,
+        "num": 313160,
+        "word": "手机拍照的图片不要直接打印",
+        "onboard_time": 1701585332,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 700658,
+        "num": 311403,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 597726,
+        "num": 311087,
+        "word": "女性生理期冷知识",
+        "onboard_time": 1701592231,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 532729,
+        "num": 308974,
+        "word": "越南一男子就诊发现颅内插了双筷子",
+        "onboard_time": 1701588031,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455460,
+        "num": 306902,
+        "word": "五月天 假唱派和真唱派",
+        "onboard_time": 1701580954,
+        "rank": 13,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 384444,
+        "num": 304615,
+        "word": "东航MU721航班故障机舱画面曝光",
+        "onboard_time": 1701575432,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345328,
+        "num": 303701,
+        "word": "离婚 跟拍",
+        "onboard_time": 1701583653,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302144,
+        "num": 302144,
+        "word": "解清帅妈妈晒儿子吃早餐",
+        "onboard_time": 1701593376,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301646,
+        "num": 301646,
+        "word": "阴阳师 男角色",
+        "onboard_time": 1701592956,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286257,
+        "num": 286257,
+        "word": "LWX林炜翔",
+        "onboard_time": 1701588153,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 292464,
+        "num": 276469,
+        "word": "向太郭碧婷 越来越像",
+        "onboard_time": 1701576571,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259294,
+        "num": 259294,
+        "word": "初代网红奶茶店开始悄悄倒闭",
+        "onboard_time": 1701576511,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258244,
+        "num": 258244,
+        "word": "为什么普通人一年存两三万都很难",
+        "onboard_time": 1701585332,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187728,
+        "num": 255369,
+        "word": "42年朱鹮从仅发现7只增至上万只",
+        "onboard_time": 1701593073,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252560,
+        "num": 252560,
+        "word": "做陪玩的农村女人们",
+        "onboard_time": 1701590375,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235081,
+        "num": 235081,
+        "word": "星光大赏尖叫之夜明星阵容对比",
+        "onboard_time": 1701592894,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225432,
+        "num": 225432,
+        "word": "抑郁症是受到打击才发病吗",
+        "onboard_time": 1701592533,
+        "rank": 25,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 220075,
+        "num": 220075,
+        "word": "孟美岐 年度最具突破女歌手",
+        "onboard_time": 1701581734,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219255,
+        "num": 219255,
+        "word": "龘是什么意思",
+        "onboard_time": 1701592413,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205810,
+        "num": 205810,
+        "word": "寻子成功富豪辟谣资产上亿",
+        "onboard_time": 1701590558,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197720,
+        "num": 197720,
+        "word": "全世界只有嗯嗨盆在逗我笑",
+        "onboard_time": 1701594092,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191928,
+        "num": 191928,
+        "word": "东航回应航班高空故障紧急备降厦门",
+        "onboard_time": 1701593915,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190478,
+        "num": 190478,
+        "word": "关晓彤 清冷",
+        "onboard_time": 1701590976,
+        "rank": 31,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 188979,
+        "num": 188979,
+        "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+        "onboard_time": 1701572731,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185375,
+        "num": 185375,
+        "word": "WBG官宣Karsa离队",
+        "onboard_time": 1701594396,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166468,
+        "num": 166468,
+        "word": "辛芷蕾赵昭仪从不内耗自己",
+        "onboard_time": 1701593855,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159605,
+        "num": 159605,
+        "word": "陈奕迅 川贵妃",
+        "onboard_time": 1701588452,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153965,
+        "num": 153965,
+        "word": "易烊千玺胶卷风citywalk",
+        "onboard_time": 1701589831,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148455,
+        "num": 148455,
+        "word": "官方通报三甲医院超收22万医疗费",
+        "onboard_time": 1701585991,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146427,
+        "num": 146427,
+        "word": "因为一碗速食面被爸封我为小厨神",
+        "onboard_time": 1701593499,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144509,
+        "num": 144509,
+        "word": "我的狗给我找的药",
+        "onboard_time": 1701594334,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144377,
+        "num": 144377,
+        "word": "王鹤棣 拍古装拍烦了",
+        "onboard_time": 1701579453,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144283,
+        "num": 144283,
+        "word": "JLPT",
+        "onboard_time": 1701593733,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134640,
+        "num": 134640,
+        "word": "我知道她在为什么哭",
+        "onboard_time": 1701592831,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129590,
+        "num": 129590,
+        "word": "全红婵陈芋汐轻松夺冠",
+        "onboard_time": 1701592114,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126175,
+        "num": 126175,
+        "word": "文物禁止拍照是量子问题",
+        "onboard_time": 1701586230,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116820,
+        "num": 116820,
+        "word": "小事反复纠结 大事草率决定",
+        "onboard_time": 1701591215,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116695,
+        "num": 116695,
+        "word": "汪苏泷周深 是兄弟就一起社死",
+        "onboard_time": 1701587672,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115976,
+        "num": 115976,
+        "word": "迪丽热巴独自碎碎念",
+        "onboard_time": 1701594695,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113311,
+        "num": 113311,
+        "word": "TES官宣creme加入",
+        "onboard_time": 1701587970,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110769,
+        "num": 110769,
+        "word": "三大队",
+        "onboard_time": 1701593196,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧扣一体化和高质量这两个关键词#"
+    }
+  }
+}
