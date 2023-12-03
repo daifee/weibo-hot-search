@@ -1,0 +1,410 @@
+{
+  "runTime": 1701641744967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 307770,
+        "num": 307770,
+        "word": "相信音乐 五月天邀你见证现场",
+        "onboard_time": 1701617915,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 247011,
+        "num": 247011,
+        "word": "姥姥去世一周后妈妈发的短信",
+        "onboard_time": 1701621029,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12947,
+        "num": 244818,
+        "word": "新千里江山图",
+        "onboard_time": 1701606939,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462803,
+        "num": 244459,
+        "word": "教师长期强奸5名女学生被执行死刑",
+        "onboard_time": 1701618334,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243402,
+        "num": 243402,
+        "word": "长期缺觉容易诱发这5种疾病",
+        "onboard_time": 1701619056,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187725,
+        "num": 187725,
+        "word": "腾讯会员 没了",
+        "onboard_time": 1701607961,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162752,
+        "num": 162752,
+        "word": "文旅局回应五月天疑似假唱",
+        "onboard_time": 1701607961,
+        "rank": 6,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 156818,
+        "num": 156818,
+        "word": "丁俊晖vs奥沙利文",
+        "onboard_time": 1701620970,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107346,
+        "num": 107346,
+        "word": "大妈捡到手机用免密支付刷光余额",
+        "onboard_time": 1701612223,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101070,
+        "num": 101070,
+        "word": "冯琳 主持人大赛",
+        "onboard_time": 1701618516,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94773,
+        "num": 94773,
+        "word": "五月天经纪方多次挂断媒体电话",
+        "onboard_time": 1701612639,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 94671,
+        "num": 94671,
+        "word": "博主再更新五月天真假唱鉴定视频",
+        "onboard_time": 1701616061,
+        "rank": 11,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 80734,
+        "num": 80734,
+        "word": "一周不洗脸为什么皮肤变好了",
+        "onboard_time": 1701608082,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 60741,
+        "num": 60741,
+        "word": "吴奇隆刻意减少工作陪孩子",
+        "onboard_time": 1701624082,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58751,
+        "num": 58751,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 56784,
+        "num": 56784,
+        "word": "痞幼三倍大眼妆",
+        "onboard_time": 1701612824,
+        "rank": 15,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 52386,
+        "num": 52386,
+        "word": "五月天如假唱最高或被罚10万",
+        "onboard_time": 1701624022,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 43025,
+        "num": 43025,
+        "word": "李一桐 张凌赫要尝试现偶了",
+        "onboard_time": 1701620074,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36354,
+        "num": 36354,
+        "word": "杨鸣多个社交平台账号已取消认证",
+        "onboard_time": 1701604655,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 35934,
+        "num": 35934,
+        "word": "发现被舍友删后重加要回4年前礼金",
+        "onboard_time": 1701606397,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41193,
+        "num": 35502,
+        "word": "妻子把儿子包成花束去迎接退伍丈夫",
+        "onboard_time": 1701622348,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33932,
+        "num": 33932,
+        "word": "上海12345回应五月天被质疑假唱",
+        "onboard_time": 1701607837,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 32466,
+        "num": 32466,
+        "word": "男子520元拍下一套房遭悔拍",
+        "onboard_time": 1701611021,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32199,
+        "num": 32199,
+        "word": "拒绝了让我帮带早餐的同事",
+        "onboard_time": 1701640153,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30293,
+        "num": 30293,
+        "word": "车窗贴两张缴费单但车内司机已去世",
+        "onboard_time": 1701601773,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30287,
+        "num": 30287,
+        "word": "旭旭宝宝现身助理直播间",
+        "onboard_time": 1701613603,
+        "rank": 25,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 28994,
+        "num": 28994,
+        "word": "下周做什么都顺的星座",
+        "onboard_time": 1701619717,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28022,
+        "num": 28022,
+        "word": "张晚意戏路比我二舅妈的棉裤都宽",
+        "onboard_time": 1701626663,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27794,
+        "num": 27794,
+        "word": "白桃星座",
+        "onboard_time": 1701618097,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27346,
+        "num": 27346,
+        "word": "2614万元手机号买家未付尾款",
+        "onboard_time": 1701600335,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27079,
+        "num": 27079,
+        "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
+        "onboard_time": 1701630975,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26724,
+        "num": 26724,
+        "word": "李一桐问杨紫长相思2播出时间",
+        "onboard_time": 1701621388,
+        "rank": 31,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 26332,
+        "num": 26332,
+        "word": "鹫儿李同光",
+        "onboard_time": 1701619174,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26024,
+        "num": 26024,
+        "word": "肚子上的肥肉如何拯救",
+        "onboard_time": 1701635892,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 24697,
+        "num": 24697,
+        "word": "把猫猫的头含进嘴里的萨摩耶",
+        "onboard_time": 1701612223,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22744,
+        "num": 22744,
+        "word": "GQ压轴官宣杨幂",
+        "onboard_time": 1701615637,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 21880,
+        "num": 21880,
+        "word": "林俊杰 等我修炼完爱情再修理你",
+        "onboard_time": 1701613123,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21083,
+        "num": 21083,
+        "word": "李健 十点半的地铁",
+        "onboard_time": 1701622824,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20909,
+        "num": 20909,
+        "word": "一念关山",
+        "onboard_time": 1701608082,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20365,
+        "num": 20365,
+        "word": "折腰",
+        "onboard_time": 1701602732,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20336,
+        "num": 20336,
+        "word": "旭旭宝宝",
+        "onboard_time": 1701607780,
+        "rank": 40,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 19398,
+        "num": 19398,
+        "word": "恩佐好帅",
+        "onboard_time": 1701617078,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19327,
+        "num": 19327,
+        "word": "ITZY 回归",
+        "onboard_time": 1701621449,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18926,
+        "num": 18926,
+        "word": "GQ官宣易烊千玺",
+        "onboard_time": 1701610365,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18840,
+        "num": 18840,
+        "word": "gidle舞台疑似抄袭BLACKPINK",
+        "onboard_time": 1701606158,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17971,
+        "num": 17971,
+        "word": "我和纸片男友的第六年",
+        "onboard_time": 1701618935,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10627,
+        "num": 17146,
+        "word": "PGC2023",
+        "onboard_time": 1701616662,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16734,
+        "num": 17137,
+        "word": "雪莉杨被绑架",
+        "onboard_time": 1701611321,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16410,
+        "num": 17135,
+        "word": "哈里斯称太多无辜巴勒斯坦人被杀",
+        "onboard_time": 1701627857,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15620,
+        "num": 17124,
+        "word": "因为是有名的爱豆所以惹不起",
+        "onboard_time": 1701615581,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向首届良渚论坛致贺信#"
+    }
+  }
+}
