@@ -1,7 +1,15 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701588848922,
+  "endTime": 1701591630846,
   "band_list": [
+    {
+      "raw_hot": 8511546,
+      "num": 8511546,
+      "word": "官方回应五月天被质疑假唱",
+      "onboard_time": 1701589594,
+      "rank": 0,
+      "category": "社会新闻,演出"
+    },
     {
       "raw_hot": 4916739,
       "num": 531132,
@@ -337,6 +345,14 @@
       "onboard_time": 1701413252,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1275124,
+      "num": 1275124,
+      "word": "酒肉情侣 soulmate",
+      "onboard_time": 1701588993,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1252604,
@@ -1315,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462440,
+      "num": 290970,
+      "word": "越南一男子就诊发现颅内插了双筷子",
+      "onboard_time": 1701588031,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460042,
       "num": 454183,
       "word": "小虎队 陈志朋团队禁词",
@@ -1611,6 +1635,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 414907,
+      "num": 414907,
+      "word": "LWX林炜翔",
+      "onboard_time": 1701588153,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 413999,
+      "num": 413999,
+      "word": "手机拍照的图片不要直接打印",
+      "onboard_time": 1701585332,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 410129,
       "num": 410129,
       "word": "2023MMA获奖名单",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1701523832,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 390990,
+      "num": 390990,
+      "word": "王鹤棣田曦薇现代戏路透",
+      "onboard_time": 1701589594,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 390315,
@@ -2187,14 +2235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326263,
-      "num": 289393,
-      "word": "手机拍照的图片不要直接打印",
-      "onboard_time": 1701585332,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
       "raw_hot": 325957,
       "num": 325957,
       "word": "嗑到声音颤抖 嗑到原地起跳",
@@ -2224,6 +2264,14 @@
       "word": "警方通报女子提醒关远光灯被打致流产",
       "onboard_time": 1701481056,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320392,
+      "num": 218572,
+      "word": "做陪玩的农村女人们",
+      "onboard_time": 1701590375,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2281,6 +2329,14 @@
       "onboard_time": 1701372434,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314051,
+      "num": 273704,
+      "word": "寻子成功富豪辟谣资产上亿",
+      "onboard_time": 1701590558,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313720,
@@ -2521,14 +2577,6 @@
       "onboard_time": 1701413732,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 293342,
-      "num": 293342,
-      "word": "LWX林炜翔",
-      "onboard_time": 1701588153,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 293043,
@@ -3371,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227862,
+      "num": 216936,
+      "word": "关晓彤 清冷",
+      "onboard_time": 1701590976,
+      "rank": 22,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 227087,
       "num": 227087,
       "word": "新加坡独角兽挑战拼多多",
@@ -3481,14 +3537,6 @@
       "onboard_time": 1701418713,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219096,
-      "num": 219096,
-      "word": "越南一男子就诊发现颅内插了双筷子",
-      "onboard_time": 1701588031,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217622,
@@ -3657,6 +3705,14 @@
       "onboard_time": 1701437557,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212348,
+      "num": 212348,
+      "word": "陈奕迅 川贵妃",
+      "onboard_time": 1701588452,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 211273,
@@ -4017,6 +4073,14 @@
       "onboard_time": 1701523536,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198003,
+      "num": 198003,
+      "word": "易烊千玺胶卷风citywalk",
+      "onboard_time": 1701589831,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 197717,
@@ -4505,14 +4569,6 @@
       "onboard_time": 1701521019,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185263,
-      "num": 185263,
-      "word": "陈奕迅 川贵妃",
-      "onboard_time": 1701588452,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 184851,
@@ -5291,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154754,
+      "num": 154754,
+      "word": "MISSING帮助Ruler走出困境",
+      "onboard_time": 1701589473,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154318,
       "num": 154318,
       "word": "战地女记者被防弹衣磨出血",
@@ -5811,6 +5875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 136427,
+      "num": 136427,
+      "word": "周冬雨陈妙 爽文女主",
+      "onboard_time": 1701588933,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136150,
       "num": 135703,
       "word": "谭松韵的真诚永远拿得出手",
@@ -5993,6 +6065,14 @@
       "onboard_time": 1701569195,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129519,
+      "num": 129519,
+      "word": "新式神玉取",
+      "onboard_time": 1701589233,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 129287,
@@ -6219,6 +6299,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 121863,
+      "num": 121863,
+      "word": "宋雨琦 湖人穿搭",
+      "onboard_time": 1701591276,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121784,
       "num": 121784,
       "word": "熊猫幼崽爬行还是个蛄蛹者呢",
@@ -6329,6 +6417,14 @@
       "onboard_time": 1701533131,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113260,
+      "num": 113260,
+      "word": "小事反复纠结 大事草率决定",
+      "onboard_time": 1701591215,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 112500,
@@ -6451,6 +6547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101827,
+      "num": 101827,
+      "word": "孙颖莎 快乐捡球工",
+      "onboard_time": 1701589292,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101499,
       "num": 101499,
       "word": "吃橘子上火是怎么回事",
@@ -6497,6 +6601,14 @@
       "onboard_time": 1701512554,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 98288,
+      "num": 98288,
+      "word": "樊振东孙颖莎出席混团抽签",
+      "onboard_time": 1701589053,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 97725,
@@ -6563,6 +6675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91132,
+      "num": 91132,
+      "word": "工程整改 一步到胃",
+      "onboard_time": 1701591276,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90254,
       "num": 64914,
       "word": "纽卡斯尔联1比0曼联",
@@ -6577,6 +6697,14 @@
       "onboard_time": 1701384801,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88398,
+      "num": 88398,
+      "word": "梁实秋写的麦当劳",
+      "onboard_time": 1701591576,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 88136,

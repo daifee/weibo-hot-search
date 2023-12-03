@@ -1,0 +1,410 @@
+{
+  "runTime": 1701591630846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8511546,
+        "num": 8511546,
+        "word": "官方回应五月天被质疑假唱",
+        "onboard_time": 1701589594,
+        "rank": 0,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 1275124,
+        "num": 1275124,
+        "word": "酒肉情侣 soulmate",
+        "onboard_time": 1701588993,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47067,
+        "num": 852396,
+        "word": "中老铁路开通2周年",
+        "onboard_time": 1701572193,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 700317,
+        "num": 700317,
+        "word": "离婚 跟拍",
+        "onboard_time": 1701583653,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471360,
+        "num": 471360,
+        "word": "官方通报三甲医院超收22万医疗费",
+        "onboard_time": 1701585991,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414907,
+        "num": 414907,
+        "word": "LWX林炜翔",
+        "onboard_time": 1701588153,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 413999,
+        "num": 413999,
+        "word": "手机拍照的图片不要直接打印",
+        "onboard_time": 1701585332,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 390990,
+        "num": 390990,
+        "word": "王鹤棣田曦薇现代戏路透",
+        "onboard_time": 1701589594,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352232,
+        "num": 352232,
+        "word": "初代网红奶茶店开始悄悄倒闭",
+        "onboard_time": 1701576511,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301759,
+        "num": 301759,
+        "word": "孟美岐 年度最具突破女歌手",
+        "onboard_time": 1701581734,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1110362,
+        "num": 301580,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 502720,
+        "num": 297508,
+        "word": "五月天 假唱派和真唱派",
+        "onboard_time": 1701580954,
+        "rank": 11,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 462440,
+        "num": 290970,
+        "word": "越南一男子就诊发现颅内插了双筷子",
+        "onboard_time": 1701588031,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372591,
+        "num": 288801,
+        "word": "东航MU721航班故障机舱画面曝光",
+        "onboard_time": 1701575432,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338736,
+        "num": 282614,
+        "word": "向太郭碧婷 越来越像",
+        "onboard_time": 1701576571,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322085,
+        "num": 277802,
+        "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+        "onboard_time": 1701572731,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314051,
+        "num": 273704,
+        "word": "寻子成功富豪辟谣资产上亿",
+        "onboard_time": 1701590558,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273321,
+        "num": 273321,
+        "word": "宋轶删图",
+        "onboard_time": 1701525999,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247477,
+        "num": 247477,
+        "word": "文物禁止拍照是量子问题",
+        "onboard_time": 1701586230,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227230,
+        "num": 227230,
+        "word": "王鹤棣 拍古装拍烦了",
+        "onboard_time": 1701579453,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341525,
+        "num": 224496,
+        "word": "为什么普通人一年存两三万都很难",
+        "onboard_time": 1701585332,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320392,
+        "num": 218572,
+        "word": "做陪玩的农村女人们",
+        "onboard_time": 1701590375,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227862,
+        "num": 216936,
+        "word": "关晓彤 清冷",
+        "onboard_time": 1701590976,
+        "rank": 22,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 212348,
+        "num": 212348,
+        "word": "陈奕迅 川贵妃",
+        "onboard_time": 1701588452,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205918,
+        "num": 205918,
+        "word": "TES官宣creme加入",
+        "onboard_time": 1701587970,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198003,
+        "num": 198003,
+        "word": "易烊千玺胶卷风citywalk",
+        "onboard_time": 1701589831,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197529,
+        "num": 197529,
+        "word": "难哄 白敬亭",
+        "onboard_time": 1701523234,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169259,
+        "num": 169259,
+        "word": "营业性演出假唱 违法",
+        "onboard_time": 1701582152,
+        "rank": 27,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 154754,
+        "num": 154754,
+        "word": "MISSING帮助Ruler走出困境",
+        "onboard_time": 1701589473,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80516,
+        "num": 146312,
+        "word": "日本多地接连观测到海啸",
+        "onboard_time": 1701578794,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162895,
+        "num": 145718,
+        "word": "珠海警方回应某小区疑发生3人被害凶案",
+        "onboard_time": 1701586771,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140292,
+        "num": 140292,
+        "word": "全小区的猫都来看三花了",
+        "onboard_time": 1701587010,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138484,
+        "num": 138484,
+        "word": "汪苏泷周深 是兄弟就一起社死",
+        "onboard_time": 1701587672,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137452,
+        "num": 137452,
+        "word": "警犬找出7斤多鸦片被奖30斤狗粮",
+        "onboard_time": 1701572250,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136427,
+        "num": 136427,
+        "word": "周冬雨陈妙 爽文女主",
+        "onboard_time": 1701588933,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134612,
+        "num": 134612,
+        "word": "不喜欢回老家 失权感",
+        "onboard_time": 1701584732,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133446,
+        "num": 133446,
+        "word": "适合做老婆为什么会是一种冒犯",
+        "onboard_time": 1701566851,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133099,
+        "num": 133099,
+        "word": "球场鹿晗 自由如风的少年",
+        "onboard_time": 1701588212,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132485,
+        "num": 132485,
+        "word": "张杰 珠海",
+        "onboard_time": 1701585872,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129519,
+        "num": 129519,
+        "word": "新式神玉取",
+        "onboard_time": 1701589233,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122463,
+        "num": 122463,
+        "word": "成毅 热爱是每次开机时的期待",
+        "onboard_time": 1701587133,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121863,
+        "num": 121863,
+        "word": "宋雨琦 湖人穿搭",
+        "onboard_time": 1701591276,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113260,
+        "num": 113260,
+        "word": "小事反复纠结 大事草率决定",
+        "onboard_time": 1701591215,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107928,
+        "num": 107928,
+        "word": "杨千嬅陈奕迅 胜负欲与战友情",
+        "onboard_time": 1701585691,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101827,
+        "num": 101827,
+        "word": "孙颖莎 快乐捡球工",
+        "onboard_time": 1701589292,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98288,
+        "num": 98288,
+        "word": "樊振东孙颖莎出席混团抽签",
+        "onboard_time": 1701589053,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97948,
+        "num": 97948,
+        "word": "刘诗诗 老公是一种态度",
+        "onboard_time": 1701562586,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94800,
+        "num": 94800,
+        "word": "夏克立称已经两年没有办法联络到女儿",
+        "onboard_time": 1701574052,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91132,
+        "num": 91132,
+        "word": "工程整改 一步到胃",
+        "onboard_time": 1701591276,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88398,
+        "num": 88398,
+        "word": "梁实秋写的麦当劳",
+        "onboard_time": 1701591576,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧扣一体化和高质量这两个关键词#"
+    }
+  }
+}
