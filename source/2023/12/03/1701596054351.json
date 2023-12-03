@@ -1,0 +1,410 @@
+{
+  "runTime": 1701596054351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4816827,
+        "num": 4816827,
+        "word": "官方回应五月天被质疑假唱",
+        "onboard_time": 1701589594,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1102050,
+        "num": 1102050,
+        "word": "GQ盛典 名单",
+        "onboard_time": 1701593855,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41188,
+        "num": 715044,
+        "word": "冬季呼吸道疾病防治4问4答",
+        "onboard_time": 1701594754,
+        "rank": 2,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 632466,
+        "num": 632466,
+        "word": "刘诗诗 北京",
+        "onboard_time": 1701593672,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 609562,
+        "num": 609562,
+        "word": "博主向消协公开举报五月天假唱",
+        "onboard_time": 1701594996,
+        "rank": 4,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 540168,
+        "num": 540168,
+        "word": "网友吐槽结婚6年真心觉得婚姻不值得",
+        "onboard_time": 1701592831,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496184,
+        "num": 496184,
+        "word": "大学生送外卖赚1万多奖励自己环游半个中国",
+        "onboard_time": 1701592654,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365828,
+        "num": 365828,
+        "word": "N1",
+        "onboard_time": 1701593252,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 346827,
+        "num": 346827,
+        "word": "王鹤棣田曦薇现代戏路透",
+        "onboard_time": 1701589594,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304421,
+        "num": 304421,
+        "word": "手机拍照的图片不要直接打印",
+        "onboard_time": 1701585332,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 777550,
+        "num": 302949,
+        "word": "演唱会假唱 离谱",
+        "onboard_time": 1701577531,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 753754,
+        "num": 299186,
+        "word": "女性生理期冷知识",
+        "onboard_time": 1701592231,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 507287,
+        "num": 295496,
+        "word": "五月天 假唱派和真唱派",
+        "onboard_time": 1701580954,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 454176,
+        "num": 293024,
+        "word": "越南一男子就诊发现颅内插了双筷子",
+        "onboard_time": 1701588031,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412106,
+        "num": 287864,
+        "word": "东航MU721航班故障机舱画面曝光",
+        "onboard_time": 1701575432,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353128,
+        "num": 283441,
+        "word": "解清帅妈妈晒儿子吃早餐",
+        "onboard_time": 1701593376,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319383,
+        "num": 281152,
+        "word": "离婚 跟拍",
+        "onboard_time": 1701583653,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279627,
+        "num": 279627,
+        "word": "向太郭碧婷 越来越像",
+        "onboard_time": 1701576571,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257279,
+        "num": 257279,
+        "word": "LWX林炜翔",
+        "onboard_time": 1701588153,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233620,
+        "num": 233620,
+        "word": "龘是什么意思",
+        "onboard_time": 1701592413,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264779,
+        "num": 233519,
+        "word": "为什么普通人一年存两三万都很难",
+        "onboard_time": 1701585332,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245738,
+        "num": 233459,
+        "word": "做陪玩的农村女人们",
+        "onboard_time": 1701590375,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233300,
+        "num": 233300,
+        "word": "初代网红奶茶店开始悄悄倒闭",
+        "onboard_time": 1701576511,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233231,
+        "num": 233231,
+        "word": "星光大赏尖叫之夜明星阵容对比",
+        "onboard_time": 1701592894,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226613,
+        "num": 226613,
+        "word": "抑郁症是受到打击才发病吗",
+        "onboard_time": 1701592533,
+        "rank": 24,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 218238,
+        "num": 218238,
+        "word": "孟美岐 年度最具突破女歌手",
+        "onboard_time": 1701581734,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216301,
+        "num": 216301,
+        "word": "寻子成功富豪辟谣资产上亿",
+        "onboard_time": 1701590558,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209388,
+        "num": 209388,
+        "word": "WBG官宣Karsa离队",
+        "onboard_time": 1701594396,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192910,
+        "num": 192910,
+        "word": "辛芷蕾赵昭仪从不内耗自己",
+        "onboard_time": 1701593855,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192502,
+        "num": 192502,
+        "word": "42年朱鹮从仅发现7只增至上万只",
+        "onboard_time": 1701593073,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187634,
+        "num": 187634,
+        "word": "全世界只有嗯嗨盆在逗我笑",
+        "onboard_time": 1701594092,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183381,
+        "num": 183381,
+        "word": "美国顾客用中文写名字",
+        "onboard_time": 1701595832,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177327,
+        "num": 177327,
+        "word": "关晓彤 清冷",
+        "onboard_time": 1701590976,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 172738,
+        "num": 172738,
+        "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+        "onboard_time": 1701572731,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164296,
+        "num": 164296,
+        "word": "我的狗给我找的药",
+        "onboard_time": 1701594334,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161308,
+        "num": 161308,
+        "word": "陈奕迅 川贵妃",
+        "onboard_time": 1701588452,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157760,
+        "num": 157760,
+        "word": "我知道她在为什么哭",
+        "onboard_time": 1701592831,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156928,
+        "num": 156928,
+        "word": "五月天假唱鉴定",
+        "onboard_time": 1701530795,
+        "rank": 37,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 155936,
+        "num": 155936,
+        "word": "红楼梦 奇书",
+        "onboard_time": 1701595356,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 146817,
+        "num": 146817,
+        "word": "东航回应航班高空故障紧急备降厦门",
+        "onboard_time": 1701593915,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147194,
+        "num": 146149,
+        "word": "王鹤棣 拍古装拍烦了",
+        "onboard_time": 1701579453,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145027,
+        "num": 145027,
+        "word": "阴阳师 男角色",
+        "onboard_time": 1701592956,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143114,
+        "num": 143114,
+        "word": "官方通报三甲医院超收22万医疗费",
+        "onboard_time": 1701585991,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130339,
+        "num": 130339,
+        "word": "赵昭仪和妈妈朋友式相处",
+        "onboard_time": 1701593615,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129134,
+        "num": 129134,
+        "word": "易烊千玺胶卷风citywalk",
+        "onboard_time": 1701589831,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125803,
+        "num": 125803,
+        "word": "全红婵陈芋汐轻松夺冠",
+        "onboard_time": 1701592114,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122523,
+        "num": 122523,
+        "word": "文物禁止拍照是量子问题",
+        "onboard_time": 1701586230,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115647,
+        "num": 115647,
+        "word": "迪丽热巴独自碎碎念",
+        "onboard_time": 1701594695,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106586,
+        "num": 106586,
+        "word": "TES官宣creme加入",
+        "onboard_time": 1701587970,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99109,
+        "num": 99109,
+        "word": "汪苏泷周深 是兄弟就一起社死",
+        "onboard_time": 1701587672,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向首届良渚论坛致贺信#"
+    }
+  }
+}

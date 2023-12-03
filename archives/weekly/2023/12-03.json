@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701594950846,
+  "endTime": 1701596054351,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1102050,
+      "num": 1102050,
+      "word": "GQ盛典 名单",
+      "onboard_time": 1701593855,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1070135,
       "num": 409507,
       "word": "夏克立称已经两年没有办法联络到女儿",
@@ -147,14 +155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 802980,
-      "num": 802980,
-      "word": "GQ盛典 名单",
-      "onboard_time": 1701593855,
-      "rank": 1,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 781910,
       "num": 781910,
       "word": "初代网红奶茶店开始悄悄倒闭",
@@ -169,6 +169,14 @@
       "onboard_time": 1701560301,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 753754,
+      "num": 311087,
+      "word": "女性生理期冷知识",
+      "onboard_time": 1701592231,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 731664,
@@ -211,20 +219,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609562,
+      "num": 609562,
+      "word": "博主向消协公开举报五月天假唱",
+      "onboard_time": 1701594996,
+      "rank": 4,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 598967,
       "num": 598967,
       "word": "C罗被索赔超70亿",
       "onboard_time": 1701569794,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 597726,
-      "num": 311087,
-      "word": "女性生理期冷知识",
-      "onboard_time": 1701592231,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 574627,
@@ -275,6 +283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 540168,
+      "num": 540168,
+      "word": "网友吐槽结婚6年真心觉得婚姻不值得",
+      "onboard_time": 1701592831,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 535945,
       "num": 535945,
       "word": "营业性演出假唱 违法",
@@ -321,6 +337,14 @@
       "onboard_time": 1701566129,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 496184,
+      "num": 496184,
+      "word": "大学生送外卖赚1万多奖励自己环游半个中国",
+      "onboard_time": 1701592654,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485569,
@@ -443,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 376759,
-      "num": 376759,
-      "word": "网友吐槽结婚6年真心觉得婚姻不值得",
-      "onboard_time": 1701592831,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 372477,
       "num": 372477,
       "word": "市监局回应美少女手办涉黄",
@@ -467,19 +483,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359322,
-      "num": 359322,
-      "word": "大学生送外卖赚1万多奖励自己环游半个中国",
-      "onboard_time": 1701592654,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359318,
       "num": 359318,
       "word": "民警翻20吨垃圾帮居民找回遗失的43000元",
       "onboard_time": 1701568711,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353128,
+      "num": 302144,
+      "word": "解清帅妈妈晒儿子吃早餐",
+      "onboard_time": 1701593376,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -601,14 +617,6 @@
       "onboard_time": 1701573510,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302144,
-      "num": 302144,
-      "word": "解清帅妈妈晒儿子吃早餐",
-      "onboard_time": 1701593376,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301646,
@@ -811,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233620,
+      "num": 233620,
+      "word": "龘是什么意思",
+      "onboard_time": 1701592413,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231706,
       "num": 231706,
       "word": "勇士领先了47分50秒",
@@ -827,20 +843,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226613,
+      "num": 226613,
+      "word": "抑郁症是受到打击才发病吗",
+      "onboard_time": 1701592533,
+      "rank": 25,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 226016,
       "num": 226016,
       "word": "成毅 热爱是每次开机时的期待",
       "onboard_time": 1701587133,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225432,
-      "num": 225432,
-      "word": "抑郁症是受到打击才发病吗",
-      "onboard_time": 1701592533,
-      "rank": 25,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 225173,
@@ -873,14 +889,6 @@
       "onboard_time": 1701520534,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 219255,
-      "num": 219255,
-      "word": "龘是什么意思",
-      "onboard_time": 1701592413,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217016,
@@ -945,6 +953,14 @@
       "onboard_time": 1701575794,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209388,
+      "num": 209388,
+      "word": "WBG官宣Karsa离队",
+      "onboard_time": 1701594396,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 207721,
@@ -1099,6 +1115,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192910,
+      "num": 192910,
+      "word": "辛芷蕾赵昭仪从不内耗自己",
+      "onboard_time": 1701593855,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192502,
+      "num": 255369,
+      "word": "42年朱鹮从仅发现7只增至上万只",
+      "onboard_time": 1701593073,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191928,
       "num": 191928,
       "word": "东航回应航班高空故障紧急备降厦门",
@@ -1163,14 +1195,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187728,
-      "num": 255369,
-      "word": "42年朱鹮从仅发现7只增至上万只",
-      "onboard_time": 1701593073,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187530,
       "num": 187530,
       "word": "寻子家长解克锋称资产没有上亿",
@@ -1179,12 +1203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185375,
-      "num": 185375,
-      "word": "WBG官宣Karsa离队",
-      "onboard_time": 1701594396,
-      "rank": 33,
-      "category": "电竞"
+      "raw_hot": 183381,
+      "num": 183381,
+      "word": "美国顾客用中文写名字",
+      "onboard_time": 1701595832,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 181259,
@@ -1275,12 +1299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166468,
-      "num": 166468,
-      "word": "辛芷蕾赵昭仪从不内耗自己",
-      "onboard_time": 1701593855,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 164296,
+      "num": 164296,
+      "word": "我的狗给我找的药",
+      "onboard_time": 1701594334,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 163664,
@@ -1321,6 +1345,22 @@
       "onboard_time": 1701522875,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157760,
+      "num": 157760,
+      "word": "我知道她在为什么哭",
+      "onboard_time": 1701592831,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 155936,
+      "num": 155936,
+      "word": "红楼梦 奇书",
+      "onboard_time": 1701595356,
+      "rank": 38,
+      "category": "读书作家"
     },
     {
       "raw_hot": 155826,
@@ -1467,14 +1507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 144509,
-      "num": 144509,
-      "word": "我的狗给我找的药",
-      "onboard_time": 1701594334,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144283,
       "num": 144283,
       "word": "JLPT",
@@ -1595,14 +1627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134640,
-      "num": 134640,
-      "word": "我知道她在为什么哭",
-      "onboard_time": 1701592831,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132478,
       "num": 132478,
       "word": "东北人都不用花钱买冰箱的吗",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1701569195,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130339,
+      "num": 130339,
+      "word": "赵昭仪和妈妈朋友式相处",
+      "onboard_time": 1701593615,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 129519,
@@ -2075,6 +2107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 41188,
+      "num": 715044,
+      "word": "冬季呼吸道疾病防治4问4答",
+      "onboard_time": 1701594754,
+      "rank": 2,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 38042,
       "num": 38042,
       "word": "奥沙利文晋级英锦赛四强",
@@ -2139,14 +2179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12633,
-      "num": 636864,
-      "word": "冬季呼吸道疾病防治4问4答",
-      "onboard_time": 1701594754,
-      "rank": 2,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 11632,
       "num": 14856,
       "word": "谁才是四川小吃的扛把子",
@@ -2167,6 +2199,9 @@
     },
     {
       "word": "#弘扬社会主义法治精神#"
+    },
+    {
+      "word": "#习近平向首届良渚论坛致贺信#"
     }
   ]
 }
