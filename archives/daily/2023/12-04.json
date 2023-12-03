@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701645427655,
+  "endTime": 1701646462415,
   "band_list": [
     {
       "raw_hot": 5380016,
@@ -43,8 +43,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 880615,
-      "num": 880615,
+      "raw_hot": 991443,
+      "num": 991443,
       "word": "长期缺觉容易诱发这5种疾病",
       "onboard_time": 1701619056,
       "rank": 10,
@@ -59,8 +59,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 784735,
-      "num": 784735,
+      "raw_hot": 799657,
+      "num": 799657,
       "word": "姥姥去世一周后妈妈发的短信",
       "onboard_time": 1701621029,
       "rank": 13,
@@ -91,6 +91,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 529313,
+      "num": 529313,
+      "word": "大妈捡到手机用免密支付刷光余额",
+      "onboard_time": 1701612223,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481934,
       "num": 481934,
       "word": "演唱会假唱 离谱",
@@ -115,12 +123,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 422414,
-      "num": 422414,
-      "word": "大妈捡到手机用免密支付刷光余额",
-      "onboard_time": 1701612223,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 374957,
+      "num": 374957,
+      "word": "拒绝了让我帮带早餐的同事",
+      "onboard_time": 1701640153,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 340485,
@@ -163,12 +171,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 257586,
-      "num": 257586,
-      "word": "拒绝了让我帮带早餐的同事",
-      "onboard_time": 1701640153,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 296923,
+      "num": 296923,
+      "word": "吴奇隆刻意减少工作陪孩子",
+      "onboard_time": 1701624082,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268044,
+      "num": 268044,
+      "word": "瑞幸状告泰国瑞幸败诉",
+      "onboard_time": 1701645686,
+      "rank": 14,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 252743,
@@ -177,6 +193,14 @@
       "onboard_time": 1701607837,
       "rank": 17,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 243476,
+      "num": 243476,
+      "word": "张晚意戏路比我二舅妈的棉裤都宽",
+      "onboard_time": 1701626663,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 238556,
@@ -195,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231540,
-      "num": 231540,
-      "word": "吴奇隆刻意减少工作陪孩子",
-      "onboard_time": 1701624082,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221963,
       "num": 221963,
       "word": "刘诗诗 任辛上线了",
@@ -217,6 +233,14 @@
       "onboard_time": 1701606158,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215586,
+      "num": 156394,
+      "word": "妻子把儿子包成花束去迎接退伍丈夫",
+      "onboard_time": 1701622348,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210827,
@@ -241,6 +265,14 @@
       "onboard_time": 1701613603,
       "rank": 23,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 194187,
+      "num": 194187,
+      "word": "奥沙利文英锦赛第八冠",
+      "onboard_time": 1701645323,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189737,
@@ -283,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167144,
-      "num": 114632,
-      "word": "妻子把儿子包成花束去迎接退伍丈夫",
-      "onboard_time": 1701622348,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166041,
       "num": 135205,
       "word": "雪莉杨被绑架",
@@ -331,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154681,
-      "num": 154681,
-      "word": "张晚意戏路比我二舅妈的棉裤都宽",
-      "onboard_time": 1701626663,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154093,
       "num": 135737,
       "word": "把猫猫的头含进嘴里的萨摩耶",
@@ -353,6 +369,14 @@
       "onboard_time": 1701620970,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145760,
+      "num": 145760,
+      "word": "还有4周就是2024年了",
+      "onboard_time": 1701645625,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136902,
@@ -427,6 +451,14 @@
       "category": "音乐,动漫"
     },
     {
+      "raw_hot": 123966,
+      "num": 123966,
+      "word": "曼城3比3热刺",
+      "onboard_time": 1701645386,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116352,
       "num": 116352,
       "word": "迷风花",
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 111352,
-      "num": 108159,
+      "num": 108787,
       "word": "李一桐问杨紫长相思2播出时间",
       "onboard_time": 1701621388,
       "rank": 26,
@@ -465,6 +497,14 @@
       "onboard_time": 1701620551,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106432,
+      "num": 106432,
+      "word": "喉咙中间的小舌头有什么用",
+      "onboard_time": 1701645986,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102041,
@@ -483,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91642,
+      "num": 91642,
+      "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
+      "onboard_time": 1701630975,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89852,
       "num": 89852,
       "word": "摩梭族人的成年礼",
@@ -491,12 +539,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 87985,
+      "num": 87985,
+      "word": "一个敢按一个敢认",
+      "onboard_time": 1701646166,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85048,
       "num": 85048,
       "word": "旭旭宝宝",
       "onboard_time": 1701607780,
       "rank": 49,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 79344,
+      "num": 79344,
+      "word": "美舰擅闯我南沙仁爱礁邻近海域",
+      "onboard_time": 1701646287,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77555,
@@ -515,19 +579,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74251,
-      "num": 74251,
-      "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
-      "onboard_time": 1701630975,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 72613,
+      "num": 70936,
+      "word": "杨盈角色彻底立住了",
+      "onboard_time": 1701645744,
+      "rank": 42,
+      "category": "剧集"
     },
     {
-      "raw_hot": 66796,
-      "num": 66796,
-      "word": "奥沙利文英锦赛第八冠",
-      "onboard_time": 1701645323,
-      "rank": 33,
+      "raw_hot": 71129,
+      "num": 71129,
+      "word": "张若昀最先给我可能性的是十一",
+      "onboard_time": 1701631036,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65330,
+      "num": 65330,
+      "word": "奥沙利文状态太好了",
+      "onboard_time": 1701645867,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -539,20 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 53770,
-      "num": 53770,
-      "word": "张若昀最先给我可能性的是十一",
-      "onboard_time": 1701631036,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 51359,
-      "num": 51359,
-      "word": "曼城3比3热刺",
-      "onboard_time": 1701645386,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 54530,
+      "num": 1185434,
+      "word": "新千里江山图",
+      "onboard_time": 1701606939,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50078,
@@ -561,14 +625,6 @@
       "onboard_time": 1701622407,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 44613,
-      "num": 1185434,
-      "word": "新千里江山图",
-      "onboard_time": 1701606939,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44405,
