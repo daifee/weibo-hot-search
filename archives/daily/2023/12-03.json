@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701573474142,
+  "endTime": 1701574451685,
   "band_list": [
     {
       "raw_hot": 2635505,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2238841,
-      "num": 423627,
+      "num": 438841,
       "word": "宋轶删图",
       "onboard_time": 1701525999,
       "rank": 10,
@@ -33,6 +33,14 @@
       "onboard_time": 1701566851,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1314052,
+      "num": 1314052,
+      "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
+      "onboard_time": 1701572731,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1173094,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603425,
+      "num": 409507,
+      "word": "夏克立称已经两年没有办法联络到女儿",
+      "onboard_time": 1701574052,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 598967,
       "num": 598967,
       "word": "C罗被索赔超70亿",
@@ -112,14 +128,6 @@
       "word": "跪杀弗洛伊德的警察狱中被刺22刀",
       "onboard_time": 1701530672,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 543691,
-      "num": 543691,
-      "word": "青岛夫妻俩患艾滋病19年孩子已上高中",
-      "onboard_time": 1701572731,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473484,
+      "num": 473484,
+      "word": "穿大衣当然要扎低丸子头",
+      "onboard_time": 1701564993,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 436104,
       "num": 436104,
       "word": "LV6.9万夹克酷似南宁校服",
@@ -201,14 +217,6 @@
       "onboard_time": 1701564751,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 426280,
-      "num": 426280,
-      "word": "穿大衣当然要扎低丸子头",
-      "onboard_time": 1701564993,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 422834,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311572,
+      "num": 311572,
+      "word": "警犬找出7斤多鸦片被奖30斤狗粮",
+      "onboard_time": 1701572250,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311244,
       "num": 311244,
       "word": "个税专项附加扣除信息确认开始",
@@ -315,12 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298452,
-      "num": 298452,
-      "word": "警犬找出7斤多鸦片被奖30斤狗粮",
-      "onboard_time": 1701572250,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 305724,
+      "num": 281895,
+      "word": "肖战登新加坡报纸",
+      "onboard_time": 1701573510,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299339,
+      "num": 299339,
+      "word": "水瓶座真的不擅长表达感情",
+      "onboard_time": 1701571473,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 297248,
@@ -329,14 +353,6 @@
       "onboard_time": 1701565171,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 294664,
-      "num": 294664,
-      "word": "水瓶座真的不擅长表达感情",
-      "onboard_time": 1701571473,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 292330,
@@ -547,6 +563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191246,
+      "num": 191246,
+      "word": "陈奕迅演唱会提词器",
+      "onboard_time": 1701572490,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191178,
       "num": 191178,
       "word": "李权哲被批评 朱正廷先哭",
@@ -561,14 +585,6 @@
       "onboard_time": 1701564807,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190141,
-      "num": 190141,
-      "word": "陈奕迅演唱会提词器",
-      "onboard_time": 1701572490,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 188025,
@@ -651,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160246,
+      "num": 160246,
+      "word": "对周一围的误解来自朱丹",
+      "onboard_time": 1701573813,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157821,
       "num": 157821,
       "word": "Uzi要回来了吗",
@@ -688,6 +712,14 @@
       "word": "老师也是第一次当老师",
       "onboard_time": 1701566970,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146383,
+      "num": 146383,
+      "word": "曾坚持为外卖小哥打折的餐馆要关了",
+      "onboard_time": 1701573270,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -899,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121784,
+      "num": 121784,
+      "word": "熊猫幼崽爬行还是个蛄蛹者呢",
+      "onboard_time": 1701573813,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121341,
       "num": 121341,
       "word": "西班牙克罗地亚意大利同组",
@@ -953,14 +993,6 @@
       "onboard_time": 1701514653,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 115171,
-      "num": 115171,
-      "word": "曾坚持为外卖小哥打折的餐馆要关了",
-      "onboard_time": 1701573270,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114518,
@@ -1027,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86005,
+      "num": 758924,
+      "word": "中老铁路开通2周年",
+      "onboard_time": 1701572193,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84748,
       "num": 113009,
       "word": "巨蟹座网络vs现实",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1701556455,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 66088,
-      "num": 758924,
-      "word": "中老铁路开通2周年",
-      "onboard_time": 1701572193,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62792,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1701540501,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 29286,
+      "num": 1307694,
+      "word": "他们的拼搏值得被看见",
+      "onboard_time": 1701573996,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18771,
