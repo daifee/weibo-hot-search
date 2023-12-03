@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701642842497,
+  "endTime": 1701645427655,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -275,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 880615,
+      "num": 880615,
+      "word": "长期缺觉容易诱发这5种疾病",
+      "onboard_time": 1701619056,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 819353,
       "num": 819353,
       "word": "杨鸣多个社交平台账号已取消认证",
@@ -320,14 +328,6 @@
       "word": "女性生理期冷知识",
       "onboard_time": 1701592231,
       "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 752088,
-      "num": 752088,
-      "word": "长期缺觉容易诱发这5种疾病",
-      "onboard_time": 1701619056,
-      "rank": 10,
       "category": "健康医疗"
     },
     {
@@ -1283,6 +1283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 257586,
+      "num": 257586,
+      "word": "拒绝了让我帮带早餐的同事",
+      "onboard_time": 1701640153,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256407,
       "num": 256407,
       "word": "东航",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1701619174,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231540,
+      "num": 231540,
+      "word": "吴奇隆刻意减少工作陪孩子",
+      "onboard_time": 1701624082,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 229847,
@@ -2099,6 +2115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167144,
+      "num": 114632,
+      "word": "妻子把儿子包成花束去迎接退伍丈夫",
+      "onboard_time": 1701622348,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166570,
       "num": 166570,
       "word": "猫 你觉得合理不",
@@ -2257,6 +2281,14 @@
       "onboard_time": 1701589473,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154681,
+      "num": 154681,
+      "word": "张晚意戏路比我二舅妈的棉裤都宽",
+      "onboard_time": 1701626663,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 154342,
@@ -2907,22 +2939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108805,
-      "num": 108805,
-      "word": "吴奇隆刻意减少工作陪孩子",
-      "onboard_time": 1701624082,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 107659,
-      "num": 107659,
-      "word": "妻子把儿子包成花束去迎接退伍丈夫",
-      "onboard_time": 1701622348,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106591,
       "num": 106591,
       "word": "火箭vs湖人",
@@ -3099,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74251,
+      "num": 74251,
+      "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
+      "onboard_time": 1701630975,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72921,
       "num": 72921,
       "word": "现代汽车高管称永远比中国车更高端",
@@ -3113,6 +3137,14 @@
       "onboard_time": 1701573996,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66796,
+      "num": 66796,
+      "word": "奥沙利文英锦赛第八冠",
+      "onboard_time": 1701645323,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 62792,
@@ -3139,14 +3171,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 55611,
-      "num": 55611,
-      "word": "拒绝了让我帮带早餐的同事",
-      "onboard_time": 1701640153,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 55362,
       "num": 55362,
       "word": "张艺兴GAI 现场",
@@ -3163,6 +3187,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 53770,
+      "num": 53770,
+      "word": "张若昀最先给我可能性的是十一",
+      "onboard_time": 1701631036,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52566,
       "num": 1422134,
       "word": "冬季呼吸道疾病防治4问4答",
@@ -3171,20 +3203,20 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 51359,
+      "num": 51359,
+      "word": "曼城3比3热刺",
+      "onboard_time": 1701645386,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50078,
       "num": 50078,
       "word": "秋冬潮流氛围感毽子头",
       "onboard_time": 1701622407,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 48668,
-      "num": 48474,
-      "word": "张晚意戏路比我二舅妈的棉裤都宽",
-      "onboard_time": 1701626663,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 45551,
@@ -3209,6 +3241,14 @@
       "onboard_time": 1701625521,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43248,
+      "num": 46357,
+      "word": "哈里斯称太多无辜巴勒斯坦人被杀",
+      "onboard_time": 1701627857,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 42971,
@@ -3241,14 +3281,6 @@
       "onboard_time": 1701568830,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 35616,
-      "num": 35616,
-      "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
-      "onboard_time": 1701630975,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34863,
@@ -3315,14 +3347,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 26133,
-      "num": 26133,
-      "word": "哈里斯称太多无辜巴勒斯坦人被杀",
-      "onboard_time": 1701627857,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 26024,
       "num": 26024,
       "word": "肚子上的肥肉如何拯救",
@@ -3337,14 +3361,6 @@
       "onboard_time": 1701630260,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20540,
-      "num": 20540,
-      "word": "张若昀最先给我可能性的是十一",
-      "onboard_time": 1701631036,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 18771,
