@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701627637276,
+  "endTime": 1701628453689,
   "band_list": [
     {
       "raw_hot": 5380016,
@@ -515,7 +515,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 48474,
+      "raw_hot": 48668,
       "num": 48474,
       "word": "张晚意戏路比我二舅妈的棉裤都宽",
       "onboard_time": 1701626663,
@@ -539,12 +539,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25945,
-      "num": 25945,
+      "raw_hot": 34863,
+      "num": 34802,
+      "word": "男人只会影响公主拔刀速度",
+      "onboard_time": 1701628157,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26811,
+      "num": 26811,
       "word": "2023汤不热最火cp",
       "onboard_time": 1701627319,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 26133,
+      "num": 26133,
+      "word": "哈里斯称太多无辜巴勒斯坦人被杀",
+      "onboard_time": 1701627857,
+      "rank": 49,
+      "category": "国外时政"
     }
   ],
   "hotgov_list": [
