@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701671051934,
+  "endTime": 1701671821958,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -75,8 +75,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 3044140,
-      "num": 3044140,
+      "raw_hot": 4220863,
+      "num": 4220863,
       "word": "五月天经纪公司称没有假唱",
       "onboard_time": 1701670358,
       "rank": 0,
@@ -113,6 +113,14 @@
       "onboard_time": 1701616061,
       "rank": 4,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 2488043,
+      "num": 2488043,
+      "word": "八段锦 慢性病",
+      "onboard_time": 1701669933,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2325769,
@@ -233,14 +241,6 @@
       "onboard_time": 1701588993,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1443355,
-      "num": 1443355,
-      "word": "八段锦 慢性病",
-      "onboard_time": 1701669933,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1422456,
@@ -667,6 +667,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 606364,
+      "num": 240603,
+      "word": "鼻屎大的两个小东西还凶上了",
+      "onboard_time": 1701671016,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 598967,
       "num": 598967,
       "word": "C罗被索赔超70亿",
@@ -1011,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430821,
-      "num": 210799,
-      "word": "鼻屎大的两个小东西还凶上了",
-      "onboard_time": 1701671016,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 428644,
       "num": 403299,
       "word": "已婚男陈立自愿被老婆摄像头监控",
@@ -1121,6 +1121,22 @@
       "onboard_time": 1701569428,
       "rank": 15,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 405704,
+      "num": 405704,
+      "word": "小马云走红8年后",
+      "onboard_time": 1701670717,
+      "rank": 41,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 405619,
+      "num": 298743,
+      "word": "刘诗诗委婉拒绝刘宇宁",
+      "onboard_time": 1701671136,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 404045,
@@ -2051,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231693,
+      "num": 231693,
+      "word": "JDG官宣Kanavi续约",
+      "onboard_time": 1701671016,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231574,
       "num": 231574,
       "word": "鹫儿李同光",
@@ -2180,7 +2204,7 @@
     },
     {
       "raw_hot": 219087,
-      "num": 210401,
+      "num": 213234,
       "word": "溺死在这样的身高差里",
       "onboard_time": 1701670233,
       "rank": 31,
@@ -2771,20 +2795,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180193,
+      "num": 180193,
+      "word": "宁艺卓仿妆",
+      "onboard_time": 1701671074,
+      "rank": 37,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 179006,
       "num": 179006,
       "word": "和谭松韵碰头的是狗 哭的是我",
       "onboard_time": 1701575554,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 178429,
-      "num": 178429,
-      "word": "小马云走红8年后",
-      "onboard_time": 1701670717,
-      "rank": 41,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 177810,
@@ -2899,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167587,
+      "num": 167587,
+      "word": "许光汉新浪扫楼",
+      "onboard_time": 1701670956,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167553,
       "num": 167553,
       "word": "迷风花",
@@ -3000,6 +3032,14 @@
       "word": "89岁奶奶在医院演奏3个月钢琴",
       "onboard_time": 1701597031,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159536,
+      "num": 159536,
+      "word": "学校通报女生上课时突发不适死亡",
+      "onboard_time": 1701671674,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -3179,14 +3219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149147,
-      "num": 149147,
-      "word": "许光汉新浪扫楼",
-      "onboard_time": 1701670956,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 149051,
       "num": 149051,
       "word": "老师也是第一次当老师",
@@ -3217,14 +3249,6 @@
       "onboard_time": 1701620970,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147704,
-      "num": 147704,
-      "word": "JDG官宣Kanavi续约",
-      "onboard_time": 1701671016,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 146977,

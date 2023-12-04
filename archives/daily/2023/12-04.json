@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701671051934,
+  "endTime": 1701671821958,
   "band_list": [
     {
       "raw_hot": 6137609,
@@ -35,8 +35,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 3044140,
-      "num": 3044140,
+      "raw_hot": 4220863,
+      "num": 4220863,
       "word": "五月天经纪公司称没有假唱",
       "onboard_time": 1701670358,
       "rank": 0,
@@ -49,6 +49,14 @@
       "onboard_time": 1701659014,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2488043,
+      "num": 2488043,
+      "word": "八段锦 慢性病",
+      "onboard_time": 1701669933,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2325769,
@@ -88,14 +96,6 @@
       "word": "长期缺觉容易诱发这5种疾病",
       "onboard_time": 1701619056,
       "rank": 10,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1443355,
-      "num": 1443355,
-      "word": "八段锦 慢性病",
-      "onboard_time": 1701669933,
-      "rank": 4,
       "category": "健康医疗"
     },
     {
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606364,
+      "num": 240603,
+      "word": "鼻屎大的两个小东西还凶上了",
+      "onboard_time": 1701671016,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 586050,
       "num": 586050,
       "word": "痞幼三倍大眼妆",
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430821,
-      "num": 210799,
-      "word": "鼻屎大的两个小东西还凶上了",
-      "onboard_time": 1701671016,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 420829,
       "num": 420829,
       "word": "GQ全阵容",
@@ -465,6 +465,22 @@
       "onboard_time": 1701656131,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 405704,
+      "num": 405704,
+      "word": "小马云走红8年后",
+      "onboard_time": 1701670717,
+      "rank": 41,
+      "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 405619,
+      "num": 298743,
+      "word": "刘诗诗委婉拒绝刘宇宁",
+      "onboard_time": 1701671136,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 404045,
@@ -851,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231693,
+      "num": 231693,
+      "word": "JDG官宣Kanavi续约",
+      "onboard_time": 1701671016,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231574,
       "num": 231574,
       "word": "鹫儿李同光",
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 219087,
-      "num": 210401,
+      "num": 213234,
       "word": "溺死在这样的身高差里",
       "onboard_time": 1701670233,
       "rank": 31,
@@ -1043,12 +1067,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 178429,
-      "num": 178429,
-      "word": "小马云走红8年后",
-      "onboard_time": 1701670717,
-      "rank": 41,
-      "category": "社会新闻,互联网"
+      "raw_hot": 180193,
+      "num": 180193,
+      "word": "宁艺卓仿妆",
+      "onboard_time": 1701671074,
+      "rank": 37,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 171405,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1701658596,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167587,
+      "num": 167587,
+      "word": "许光汉新浪扫楼",
+      "onboard_time": 1701670956,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 166041,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1701621449,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159536,
+      "num": 159536,
+      "word": "学校通报女生上课时突发不适死亡",
+      "onboard_time": 1701671674,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159293,
@@ -1179,14 +1219,6 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 149147,
-      "num": 149147,
-      "word": "许光汉新浪扫楼",
-      "onboard_time": 1701670956,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 148525,
       "num": 148525,
       "word": "当电话手表被班主任没收后",
@@ -1201,14 +1233,6 @@
       "onboard_time": 1701620970,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147704,
-      "num": 147704,
-      "word": "JDG官宣Kanavi续约",
-      "onboard_time": 1701671016,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 146624,
