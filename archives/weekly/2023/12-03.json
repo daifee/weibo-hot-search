@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701675235444,
+  "endTime": 1701678176703,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2315240,
+      "num": 2315240,
+      "word": "我小叔才50岁就已经被社会淘汰了",
+      "onboard_time": 1701673177,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2238841,
       "num": 438841,
       "word": "宋轶删图",
       "onboard_time": 1701525999,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1911564,
-      "num": 1911564,
-      "word": "我小叔才50岁就已经被社会淘汰了",
-      "onboard_time": 1701673177,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1911048,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1581016,
+      "num": 1581016,
+      "word": "丁程鑫 中考",
+      "onboard_time": 1701674257,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1572214,
       "num": 1572214,
       "word": "难哄 白敬亭",
@@ -219,20 +227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1571687,
-      "num": 1571687,
-      "word": "丁程鑫 中考",
-      "onboard_time": 1701674257,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1548980,
       "num": 1548980,
       "word": "大床房 大空房",
       "onboard_time": 1701585092,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1543276,
+      "num": 1543276,
+      "word": "陈绮贞 五月天",
+      "onboard_time": 1701676059,
+      "rank": 5,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1528919,
@@ -401,6 +409,14 @@
       "onboard_time": 1701659919,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 965844,
+      "num": 965844,
+      "word": "GQ内涵",
+      "onboard_time": 1701677496,
+      "rank": 6,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 941023,
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 606364,
-      "num": 300192,
+      "num": 326460,
       "word": "鼻屎大的两个小东西还凶上了",
       "onboard_time": 1701671016,
       "rank": 30,
@@ -707,8 +723,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 582835,
-      "num": 582835,
+      "raw_hot": 591133,
+      "num": 591133,
       "word": "珠海一男子持刀致3死后自杀",
       "onboard_time": 1701672515,
       "rank": 11,
@@ -721,6 +737,14 @@
       "onboard_time": 1701607780,
       "rank": 12,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 579533,
+      "num": 579533,
+      "word": "假唱 垫音",
+      "onboard_time": 1701676839,
+      "rank": 10,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 574627,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 562676,
-      "num": 231180,
+      "num": 510967,
       "word": "GQ两分半拍完穿普拉达的女王",
       "onboard_time": 1701674615,
       "rank": 30,
@@ -915,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493252,
+      "num": 493252,
+      "word": "刘宇宁跳科目三",
+      "onboard_time": 1701675816,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489726,
       "num": 489726,
       "word": "律师分析五月天被质疑假唱",
@@ -1016,6 +1048,14 @@
       "word": "义乌发布倡议书保持10天以上存粮",
       "onboard_time": 1701663165,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452742,
+      "num": 452742,
+      "word": "亿万富豪找到儿子的APP",
+      "onboard_time": 1701674615,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1427,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335945,
+      "num": 335945,
+      "word": "睡饱与睡眠不足面容对比图",
+      "onboard_time": 1701672212,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 334308,
       "num": 1616072,
       "word": "哈工大90岁院士捐款300万",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1701667956,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293388,
-      "num": 293388,
-      "word": "睡饱与睡眠不足面容对比图",
-      "onboard_time": 1701672212,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 293025,
@@ -2243,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223243,
+      "num": 223243,
+      "word": "恶搞 玩梗",
+      "onboard_time": 1701677739,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223190,
       "num": 223190,
       "word": "8个生活习惯是衰老加速器",
@@ -2275,20 +2323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222154,
+      "num": 222154,
+      "word": "Twice造型师和aespa造型师结婚",
+      "onboard_time": 1701677435,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221963,
       "num": 221963,
       "word": "刘诗诗 任辛上线了",
       "onboard_time": 1701617432,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220861,
-      "num": 220861,
-      "word": "亿万富豪找到儿子的APP",
-      "onboard_time": 1701674615,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220416,
@@ -2313,6 +2361,14 @@
       "onboard_time": 1701601593,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218156,
+      "num": 218156,
+      "word": "在上海定了个300多的民宿",
+      "onboard_time": 1701672212,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 218129,
@@ -2483,14 +2539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204040,
-      "num": 204040,
-      "word": "在上海定了个300多的民宿",
-      "onboard_time": 1701672212,
-      "rank": 35,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 203750,
       "num": 203750,
       "word": "WB对战Hero",
@@ -2513,6 +2561,14 @@
       "onboard_time": 1701616421,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202994,
+      "num": 202994,
+      "word": "毛不易演唱会提词器",
+      "onboard_time": 1701675935,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 200963,
@@ -2811,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190200,
+      "num": 190200,
+      "word": "佘诗曼李施嬅双人大片",
+      "onboard_time": 1701677919,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190070,
       "num": 190070,
       "word": "张婧仪 电影感",
@@ -3107,6 +3171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164207,
+      "num": 164207,
+      "word": "很喜欢韭菜的花语",
+      "onboard_time": 1701677558,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163664,
       "num": 163664,
       "word": "深圳马拉松鸣枪开跑",
@@ -3203,6 +3275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157840,
+      "num": 157840,
+      "word": "王嘉尔北京站补偿",
+      "onboard_time": 1701678157,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157821,
       "num": 157821,
       "word": "Uzi要回来了吗",
@@ -3225,6 +3305,14 @@
       "onboard_time": 1701595356,
       "rank": 38,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 157353,
+      "num": 157353,
+      "word": "麦田农夫半年指控20多位歌手假唱",
+      "onboard_time": 1701678097,
+      "rank": 45,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 156997,
@@ -3569,6 +3657,14 @@
       "onboard_time": 1701672757,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137901,
+      "num": 142154,
+      "word": "逆水寒手游玩家 抄袭",
+      "onboard_time": 1701677739,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 136999,
@@ -4179,6 +4275,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 87655,
+      "num": 2167238,
+      "word": "8招教你应对呼吸道疾病",
+      "onboard_time": 1701677138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86005,
       "num": 1151302,
       "word": "中老铁路开通2周年",
@@ -4533,6 +4637,9 @@
     },
     {
       "word": "#上海要聚焦建设五个中心重要使命#"
+    },
+    {
+      "word": "#习近平向2023从都国际论坛致贺信#"
     }
   ]
 }
