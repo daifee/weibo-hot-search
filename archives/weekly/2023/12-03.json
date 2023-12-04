@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701707055998,
+  "endTime": 1701707913736,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -3603,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193932,
+      "num": 106454,
+      "word": "成都有杜绝假唱固定流程",
+      "onboard_time": 1701707547,
+      "rank": 31,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 193917,
       "num": 143640,
       "word": "孟美岐星云珠绣鱼尾裙",
@@ -4123,6 +4131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162993,
+      "num": 102359,
+      "word": "华晨宇饭拍",
+      "onboard_time": 1701707306,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162699,
       "num": 162699,
       "word": "频繁被催婚后的心态",
@@ -4395,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148976,
+      "num": 103979,
+      "word": "甄嬛身心最剧痛的一刻",
+      "onboard_time": 1701706709,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148700,
       "num": 148700,
       "word": "2023LOL冬季转会期",
@@ -4656,14 +4680,6 @@
       "word": "杨紫 要久久爱要播了",
       "onboard_time": 1701525396,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 135247,
-      "num": 103979,
-      "word": "甄嬛身心最剧痛的一刻",
-      "onboard_time": 1701706709,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -5001,6 +5017,14 @@
       "onboard_time": 1701571593,
       "rank": 42,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 117911,
+      "num": 80569,
+      "word": "金善禹wiggle wiggle",
+      "onboard_time": 1701706948,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 117506,
@@ -5539,20 +5563,20 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 29683,
+      "num": 790777,
+      "word": "美好生活宪给你",
+      "onboard_time": 1701691656,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28981,
       "num": 271905,
       "word": "元梦之星一整个大动作",
       "onboard_time": 1701587010,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28054,
-      "num": 790777,
-      "word": "美好生活宪给你",
-      "onboard_time": 1701691656,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26811,
