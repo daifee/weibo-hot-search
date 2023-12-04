@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701671821958,
+  "endTime": 1701674234444,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -33,6 +33,14 @@
       "onboard_time": 1701659735,
       "rank": 0,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 5924475,
+      "num": 7174475,
+      "word": "五月天经纪公司称没有假唱",
+      "onboard_time": 1701670358,
+      "rank": 0,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 5425346,
@@ -75,12 +83,12 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 4220863,
-      "num": 4220863,
-      "word": "五月天经纪公司称没有假唱",
-      "onboard_time": 1701670358,
-      "rank": 0,
-      "category": "演出,社会新闻"
+      "raw_hot": 2885721,
+      "num": 2885721,
+      "word": "八段锦 慢性病",
+      "onboard_time": 1701669933,
+      "rank": 4,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2815288,
@@ -113,14 +121,6 @@
       "onboard_time": 1701616061,
       "rank": 4,
       "category": "综艺,社会新闻"
-    },
-    {
-      "raw_hot": 2488043,
-      "num": 2488043,
-      "word": "八段锦 慢性病",
-      "onboard_time": 1701669933,
-      "rank": 4,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 2325769,
@@ -265,6 +265,14 @@
       "onboard_time": 1701660456,
       "rank": 15,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 1291726,
+      "num": 1291726,
+      "word": "我小叔才50岁就已经被社会淘汰了",
+      "onboard_time": 1701673177,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1260675,
@@ -595,6 +603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 663803,
+      "num": 663803,
+      "word": "网易云会员",
+      "onboard_time": 1701672273,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 652525,
       "num": 652525,
       "word": "赵露思 小红书广告",
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 606364,
-      "num": 240603,
+      "num": 299744,
       "word": "鼻屎大的两个小东西还凶上了",
       "onboard_time": 1701671016,
       "rank": 30,
@@ -697,6 +713,14 @@
       "onboard_time": 1701531693,
       "rank": 12,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 569977,
+      "num": 475132,
+      "word": "刘诗诗委婉拒绝刘宇宁",
+      "onboard_time": 1701671136,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 560728,
@@ -779,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528696,
+      "num": 528696,
+      "word": "小马云走红8年后",
+      "onboard_time": 1701670717,
+      "rank": 41,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 525296,
       "num": 525296,
       "word": "东航疑似给出补偿方案",
@@ -808,6 +840,14 @@
       "word": "大学生送外卖赚1万多奖励自己环游半个中国",
       "onboard_time": 1701592654,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516670,
+      "num": 465979,
+      "word": "珠海一男子持刀致3死后自杀",
+      "onboard_time": 1701672515,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -880,6 +920,14 @@
       "word": "北京首次全市大范围记录到极光",
       "onboard_time": 1701561925,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481737,
+      "num": 481737,
+      "word": "学校通报女生上课时突发不适死亡",
+      "onboard_time": 1701671674,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1121,22 +1169,6 @@
       "onboard_time": 1701569428,
       "rank": 15,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 405704,
-      "num": 405704,
-      "word": "小马云走红8年后",
-      "onboard_time": 1701670717,
-      "rank": 41,
-      "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 405619,
-      "num": 298743,
-      "word": "刘诗诗委婉拒绝刘宇宁",
-      "onboard_time": 1701671136,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 404045,
@@ -1459,6 +1491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 318178,
+      "num": 318178,
+      "word": "惠英红替许光汉认老婆",
+      "onboard_time": 1701672873,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316580,
       "num": 216936,
       "word": "关晓彤 清冷",
@@ -1667,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293388,
+      "num": 293388,
+      "word": "睡饱与睡眠不足面容对比图",
+      "onboard_time": 1701672212,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 293025,
       "num": 293025,
       "word": "不喜欢回老家 失权感",
@@ -1785,6 +1833,14 @@
       "onboard_time": 1701599973,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 284291,
+      "num": 284291,
+      "word": "解清帅跟妈妈认亲戚收获满把红包",
+      "onboard_time": 1701673056,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280112,
@@ -1945,6 +2001,14 @@
       "onboard_time": 1701651457,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256069,
+      "num": 256069,
+      "word": "半开麦等不等于假唱",
+      "onboard_time": 1701673836,
+      "rank": 29,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 253865,
@@ -2171,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222810,
+      "num": 222810,
+      "word": "2023年十大流行语",
+      "onboard_time": 1701673718,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222764,
       "num": 222764,
       "word": "多睡一小时就能减肥",
@@ -2379,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204040,
+      "num": 204040,
+      "word": "在上海定了个300多的民宿",
+      "onboard_time": 1701672212,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 203750,
       "num": 203750,
       "word": "WB对战Hero",
@@ -2417,6 +2497,14 @@
       "onboard_time": 1701558439,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199840,
+      "num": 199840,
+      "word": "揭秘五月天经纪公司相信音乐",
+      "onboard_time": 1701671916,
+      "rank": 36,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 199381,
@@ -3035,14 +3123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159536,
-      "num": 159536,
-      "word": "学校通报女生上课时突发不适死亡",
-      "onboard_time": 1701671674,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159293,
       "num": 159293,
       "word": "鸣龙少年首发预告",
@@ -3435,6 +3515,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 138057,
+      "num": 138057,
+      "word": "BIBI看NewJeans的reaction",
+      "onboard_time": 1701672757,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136999,
       "num": 136999,
       "word": "N2",
@@ -3793,6 +3881,14 @@
       "onboard_time": 1701615340,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117308,
+      "num": 117308,
+      "word": "贵的护肤品一定好吗",
+      "onboard_time": 1701673056,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 117303,
