@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701711248787,
+  "endTime": 1701714172029,
   "band_list": [
     {
       "raw_hot": 1166623,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 238178,
-      "num": 128006,
+      "num": 128393,
       "word": "林俊杰 下次请不要来我的演唱会",
       "onboard_time": 1701659014,
       "rank": 31,
@@ -456,6 +456,38 @@
       "word": "00后也熬到需要攒钱过年的年龄了",
       "onboard_time": 1701692380,
       "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 36186,
+      "num": 35993,
+      "word": "中国记协的严谨程度",
+      "onboard_time": 1701711979,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35988,
+      "num": 35988,
+      "word": "重返庭审现场",
+      "onboard_time": 1701713538,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32223,
+      "num": 32223,
+      "word": "BLACKPINK当年差点失去口哨",
+      "onboard_time": 1701692438,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 29960,
+      "num": 29960,
+      "word": "阶段性朋友",
+      "onboard_time": 1701713776,
+      "rank": 46,
       "category": "情感"
     },
     {
