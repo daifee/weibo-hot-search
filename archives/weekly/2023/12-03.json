@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701714172029,
+  "endTime": 1701714976741,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -5595,6 +5595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31039,
+      "num": 31039,
+      "word": "阶段性朋友",
+      "onboard_time": 1701713776,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 30728,
       "num": 37127,
       "word": "军大衣",
@@ -5609,14 +5617,6 @@
       "onboard_time": 1701629116,
       "rank": 34,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 29960,
-      "num": 29960,
-      "word": "阶段性朋友",
-      "onboard_time": 1701713776,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 29683,

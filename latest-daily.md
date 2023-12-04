@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/05 00:24:15 ~ 2023/12/05 02:22:52
+本榜单时间：2023/12/05 00:24:15 ~ 2023/12/05 02:36:16
 </p>
 </blockquote>
 <p>
@@ -376,7 +376,7 @@ BLACKPINK当年差点失去口哨（热度：32223）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B6%E6%AE%B5%E6%80%A7%E6%9C%8B%E5%8F%8B%23" target="weibo">
-阶段性朋友（热度：29960）
+阶段性朋友（热度：31039）
 </a>
 </li>
 
@@ -401,6 +401,12 @@ BLACKPINK当年差点失去口哨（热度：32223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%912023%E4%BB%8E%E9%83%BD%E5%9B%BD%E9%99%85%E8%AE%BA%E5%9D%9B%E8%87%B4%E8%B4%BA%E4%BF%A1%23%23" target="weibo">
 #习近平向2023从都国际论坛致贺信#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%89%AF%E6%B3%95%E5%96%84%E6%B2%BB%23%23" target="weibo">
+#良法善治#
 </a>
 </li>
 
