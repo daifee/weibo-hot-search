@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701703163163,
+  "endTime": 1701704065480,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -579,6 +579,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 866064,
+      "num": 866064,
+      "word": "常华森秒删",
+      "onboard_time": 1701700658,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 841264,
       "num": 841264,
       "word": "科目三 韩国",
@@ -641,14 +649,6 @@
       "onboard_time": 1701592231,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 749086,
-      "num": 356326,
-      "word": "常华森秒删",
-      "onboard_time": 1701700658,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 745869,
@@ -827,8 +827,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 646153,
+      "num": 399000,
+      "word": "刘诗诗回应替身说",
+      "onboard_time": 1701702337,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644940,
-      "num": 333476,
+      "num": 382753,
       "word": "师徒线 好嗑",
       "onboard_time": 1701698924,
       "rank": 31,
@@ -1252,7 +1260,7 @@
     },
     {
       "raw_hot": 478622,
-      "num": 293019,
+      "num": 387250,
       "word": "刘冲 我座位还没开始排呢",
       "onboard_time": 1701702214,
       "rank": 17,
@@ -1395,6 +1403,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 434572,
+      "num": 434572,
+      "word": "断崖式衰老女子确诊卵巢早衰",
+      "onboard_time": 1701701796,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434253,
       "num": 434253,
       "word": "王嘉尔北京站补偿",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1701691718,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 422898,
-      "num": 286095,
-      "word": "刘诗诗回应替身说",
-      "onboard_time": 1701702337,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 422834,
@@ -1732,7 +1740,7 @@
     },
     {
       "raw_hot": 370410,
-      "num": 370410,
+      "num": 409618,
       "word": "考研人最后二十天的精神状态",
       "onboard_time": 1701699278,
       "rank": 46,
@@ -1763,20 +1771,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 365117,
+      "num": 227159,
+      "word": "预录",
+      "onboard_time": 1701702576,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364854,
       "num": 364854,
       "word": "五月天经纪公司称正配合调查",
       "onboard_time": 1701688118,
       "rank": 22,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 363483,
-      "num": 225816,
-      "word": "预录",
-      "onboard_time": 1701702576,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 362234,
@@ -1953,6 +1961,14 @@
       "onboard_time": 1701691055,
       "rank": 22,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 329713,
+      "num": 329713,
+      "word": "手机贴膜 智商税",
+      "onboard_time": 1701702576,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 329402,
@@ -2315,14 +2331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295680,
-      "num": 295680,
-      "word": "断崖式衰老女子确诊卵巢早衰",
-      "onboard_time": 1701701796,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294431,
       "num": 294431,
       "word": "商演假唱将被罚款",
@@ -2444,7 +2452,7 @@
     },
     {
       "raw_hot": 288570,
-      "num": 212380,
+      "num": 216463,
       "word": "好会做饭的常华森",
       "onboard_time": 1701700720,
       "rank": 36,
@@ -3979,6 +3987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168901,
+      "num": 168901,
+      "word": "郭志凯 连开8场演唱会极不合理",
+      "onboard_time": 1701703954,
+      "rank": 44,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 168768,
       "num": 168768,
       "word": "EDG",
@@ -4083,14 +4099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164235,
-      "num": 164235,
-      "word": "手机贴膜 智商税",
-      "onboard_time": 1701702576,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 163664,
       "num": 163664,
       "word": "深圳马拉松鸣枪开跑",
@@ -4137,6 +4145,14 @@
       "onboard_time": 1701647428,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160982,
+      "num": 220139,
+      "word": "乱港分子周庭弃保潜逃",
+      "onboard_time": 1701703532,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160635,
