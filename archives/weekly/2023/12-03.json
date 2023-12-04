@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701686285658,
+  "endTime": 1701688537147,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -41,6 +41,14 @@
       "onboard_time": 1701659735,
       "rank": 0,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 5851731,
+      "num": 7101731,
+      "word": "五月天否认假唱",
+      "onboard_time": 1701686434,
+      "rank": 0,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 5425346,
@@ -217,6 +225,14 @@
       "onboard_time": 1701583653,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1588215,
+      "num": 1588215,
+      "word": "胡夏删视频",
+      "onboard_time": 1701687398,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1581016,
@@ -480,6 +496,14 @@
       "word": "假唱 垫音",
       "onboard_time": 1701676839,
       "rank": 10,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 871825,
+      "num": 871825,
+      "word": "上海文旅局正鉴定五月天演唱会原始音视频",
+      "onboard_time": 1701685657,
+      "rank": 16,
       "category": "演出,社会新闻"
     },
     {
@@ -803,6 +827,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 573329,
+      "num": 573329,
+      "word": "宋轶长风渡吻戏reaction",
+      "onboard_time": 1701686496,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 569977,
       "num": 475132,
       "word": "刘诗诗委婉拒绝刘宇宁",
@@ -883,6 +915,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 547058,
+      "num": 547058,
+      "word": "官方回应1人买彩票中2亿无需缴税",
+      "onboard_time": 1701685476,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539985,
       "num": 539985,
       "word": "冯琳 主持人大赛",
@@ -921,6 +961,14 @@
       "onboard_time": 1701670717,
       "rank": 41,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 526663,
+      "num": 526663,
+      "word": "一人花近10万买彩票中2亿",
+      "onboard_time": 1701687697,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 525296,
@@ -1211,14 +1259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 433291,
-      "num": 300141,
-      "word": "官方回应1人买彩票中2亿无需缴税",
-      "onboard_time": 1701685476,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 431428,
       "num": 431428,
       "word": "这5个部位疼痛可能是心梗前兆",
@@ -1235,12 +1275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 431203,
-      "num": 431203,
-      "word": "上海文旅局正鉴定五月天演唱会原始音视频",
-      "onboard_time": 1701685657,
-      "rank": 16,
-      "category": "演出,社会新闻"
+      "raw_hot": 429983,
+      "num": 429983,
+      "word": "玲花还是这么飒 曾毅也做了医美",
+      "onboard_time": 1701684995,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 428644,
@@ -1339,12 +1379,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 412179,
+      "num": 412179,
+      "word": "孙颖莎 正手",
+      "onboard_time": 1701686434,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411839,
       "num": 411839,
       "word": "五月天上海演唱会票房超6亿",
       "onboard_time": 1701656131,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 408618,
+      "num": 841903,
+      "word": "父亲看望产后的女儿瞬间被一把抱住",
+      "onboard_time": 1701686615,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406941,
@@ -1483,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369112,
-      "num": 298883,
-      "word": "玲花还是这么飒 曾毅也做了医美",
-      "onboard_time": 1701684995,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 367427,
       "num": 413477,
       "word": "旭旭宝宝现身助理直播间",
@@ -1505,6 +1553,14 @@
       "onboard_time": 1701612223,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 364854,
+      "num": 364854,
+      "word": "五月天经纪公司称正配合调查",
+      "onboard_time": 1701688118,
+      "rank": 22,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 362234,
@@ -1532,7 +1588,7 @@
     },
     {
       "raw_hot": 355394,
-      "num": 259140,
+      "num": 301423,
       "word": "丞磊 海公牛",
       "onboard_time": 1701685235,
       "rank": 25,
@@ -1843,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306797,
+      "num": 301767,
+      "word": "窦靖童 打回原形",
+      "onboard_time": 1701687878,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 306568,
       "num": 306568,
       "word": "比亚迪悬赏500万打击恶意抹黑",
@@ -1889,6 +1953,14 @@
       "onboard_time": 1701685174,
       "rank": 48,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 303968,
+      "num": 303968,
+      "word": "王楚钦 还打吗",
+      "onboard_time": 1701688299,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 302130,
@@ -1945,6 +2017,14 @@
       "onboard_time": 1701571473,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299136,
+      "num": 299136,
+      "word": "莎头",
+      "onboard_time": 1701688177,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 297268,
@@ -2113,6 +2193,14 @@
       "onboard_time": 1701599973,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 285185,
+      "num": 285185,
+      "word": "杨紫仿妆",
+      "onboard_time": 1701686974,
+      "rank": 29,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 281503,
@@ -2363,6 +2451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247209,
+      "num": 247209,
+      "word": "国乒8比0瑞典",
+      "onboard_time": 1701688234,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246633,
       "num": 246633,
       "word": "地磁暴",
@@ -2377,6 +2473,14 @@
       "onboard_time": 1701514172,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245493,
+      "num": 245493,
+      "word": "玩梗 林俊杰舞蹈",
+      "onboard_time": 1701674377,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 243786,
@@ -2755,6 +2859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209996,
+      "num": 209996,
+      "word": "封神 补拍",
+      "onboard_time": 1701688359,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209388,
       "num": 209388,
       "word": "WBG官宣Karsa离队",
@@ -2800,14 +2912,6 @@
       "word": "魏晨 郑州",
       "onboard_time": 1701616479,
       "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 206493,
-      "num": 206493,
-      "word": "玩梗 林俊杰舞蹈",
-      "onboard_time": 1701674377,
-      "rank": 37,
       "category": "演出"
     },
     {
@@ -2897,6 +3001,14 @@
       "onboard_time": 1701611681,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200634,
+      "num": 200634,
+      "word": "成都混合团体世界杯",
+      "onboard_time": 1701687697,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 200432,
