@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701700596592,
+  "endTime": 1701703163163,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -643,6 +643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 749086,
+      "num": 356326,
+      "word": "常华森秒删",
+      "onboard_time": 1701700658,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745869,
       "num": 745869,
       "word": "王俊凯 古偶",
@@ -819,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 644940,
+      "num": 333476,
+      "word": "师徒线 好嗑",
+      "onboard_time": 1701698924,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637562,
       "num": 570538,
       "word": "华晨宇广州上座率",
@@ -833,14 +849,6 @@
       "onboard_time": 1701593672,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 632079,
-      "num": 329984,
-      "word": "师徒线 好嗑",
-      "onboard_time": 1701698924,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 625796,
@@ -1243,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478622,
+      "num": 293019,
+      "word": "刘冲 我座位还没开始排呢",
+      "onboard_time": 1701702214,
+      "rank": 17,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 474305,
       "num": 442132,
       "word": "白鹿 我可太想演电影了",
@@ -1451,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 422898,
+      "num": 286095,
+      "word": "刘诗诗回应替身说",
+      "onboard_time": 1701702337,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422834,
       "num": 422834,
       "word": "男子体检突发心梗3分钟冲出10名医护",
@@ -1539,6 +1563,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 406028,
+      "num": 406028,
+      "word": "医院暗号",
+      "onboard_time": 1701698498,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 404045,
       "num": 402224,
       "word": "42岁女子20天经历断崖式衰老",
@@ -1561,14 +1593,6 @@
       "onboard_time": 1701654874,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396513,
-      "num": 351170,
-      "word": "医院暗号",
-      "onboard_time": 1701698498,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 396348,
@@ -1707,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370410,
+      "num": 370410,
+      "word": "考研人最后二十天的精神状态",
+      "onboard_time": 1701699278,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 368862,
       "num": 368862,
       "word": "莎头",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1701688118,
       "rank": 22,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 363483,
+      "num": 225816,
+      "word": "预录",
+      "onboard_time": 1701702576,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 362234,
@@ -1817,14 +1857,6 @@
       "onboard_time": 1701624022,
       "rank": 14,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 345618,
-      "num": 345618,
-      "word": "考研人最后二十天的精神状态",
-      "onboard_time": 1701699278,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 343505,
@@ -2067,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311880,
+      "num": 282188,
+      "word": "isfj 阶段性朋友",
+      "onboard_time": 1701701435,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311582,
       "num": 311582,
       "word": "文字讨好症",
@@ -2275,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295680,
+      "num": 295680,
+      "word": "断崖式衰老女子确诊卵巢早衰",
+      "onboard_time": 1701701796,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294431,
       "num": 294431,
       "word": "商演假唱将被罚款",
@@ -2347,6 +2395,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 291130,
+      "num": 291130,
+      "word": "入冬四件套",
+      "onboard_time": 1701700597,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 291113,
       "num": 291113,
       "word": "一念关山 隆力奇",
@@ -2385,6 +2441,14 @@
       "onboard_time": 1701587970,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 288570,
+      "num": 212380,
+      "word": "好会做饭的常华森",
+      "onboard_time": 1701700720,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 287469,
@@ -2699,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245704,
+      "num": 201303,
+      "word": "檀健次翻牌",
+      "onboard_time": 1701701197,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243786,
       "num": 243786,
       "word": "浙江农村大席",
@@ -2716,7 +2788,7 @@
     },
     {
       "raw_hot": 238863,
-      "num": 211587,
+      "num": 230016,
       "word": "年轻人如何减轻熬夜脸",
       "onboard_time": 1701697000,
       "rank": 23,
@@ -3233,6 +3305,14 @@
       "onboard_time": 1701613421,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205326,
+      "num": 205326,
+      "word": "狼队 抢龙",
+      "onboard_time": 1701702693,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 204528,
@@ -4003,6 +4083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164235,
+      "num": 164235,
+      "word": "手机贴膜 智商税",
+      "onboard_time": 1701702576,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163664,
       "num": 163664,
       "word": "深圳马拉松鸣枪开跑",
@@ -4017,6 +4105,14 @@
       "onboard_time": 1701528396,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162699,
+      "num": 162699,
+      "word": "频繁被催婚后的心态",
+      "onboard_time": 1701702398,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 161620,

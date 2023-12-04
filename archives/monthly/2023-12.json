@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701700596592,
+  "endTime": 1701703163163,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -1187,6 +1187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 749086,
+      "num": 356326,
+      "word": "常华森秒删",
+      "onboard_time": 1701700658,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746697,
       "num": 746697,
       "word": "微信好友上限",
@@ -1459,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 644940,
+      "num": 333476,
+      "word": "师徒线 好嗑",
+      "onboard_time": 1701698924,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643402,
       "num": 643402,
       "word": "儿子和亿万富豪父亲相认称没反应过来",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1701593672,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 632079,
-      "num": 329984,
-      "word": "师徒线 好嗑",
-      "onboard_time": 1701698924,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 631522,
@@ -2203,6 +2211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478622,
+      "num": 293019,
+      "word": "刘冲 我座位还没开始排呢",
+      "onboard_time": 1701702214,
+      "rank": 17,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 476984,
       "num": 476984,
       "word": "朱一龙 穿裙子",
@@ -2667,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422898,
+      "num": 286095,
+      "word": "刘诗诗回应替身说",
+      "onboard_time": 1701702337,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422834,
       "num": 422834,
       "word": "男子体检突发心梗3分钟冲出10名医护",
@@ -2811,6 +2835,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 406028,
+      "num": 406028,
+      "word": "医院暗号",
+      "onboard_time": 1701698498,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 405832,
       "num": 405832,
       "word": "地震快讯",
@@ -2873,14 +2905,6 @@
       "onboard_time": 1701654874,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396513,
-      "num": 351170,
-      "word": "医院暗号",
-      "onboard_time": 1701698498,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 396348,
@@ -3219,6 +3243,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 370410,
+      "num": 370410,
+      "word": "考研人最后二十天的精神状态",
+      "onboard_time": 1701699278,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 369445,
       "num": 369445,
       "word": "杨丞琳 唐门找到属于他的小花了",
@@ -3265,6 +3297,14 @@
       "onboard_time": 1701688118,
       "rank": 22,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 363483,
+      "num": 225816,
+      "word": "预录",
+      "onboard_time": 1701702576,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 363192,
@@ -3473,14 +3513,6 @@
       "onboard_time": 1701505112,
       "rank": 30,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 345618,
-      "num": 345618,
-      "word": "考研人最后二十天的精神状态",
-      "onboard_time": 1701699278,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 344787,
@@ -3915,6 +3947,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 311880,
+      "num": 282188,
+      "word": "isfj 阶段性朋友",
+      "onboard_time": 1701701435,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311755,
       "num": 311755,
       "word": "芒市地震",
@@ -4203,6 +4243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295680,
+      "num": 295680,
+      "word": "断崖式衰老女子确诊卵巢早衰",
+      "onboard_time": 1701701796,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295575,
       "num": 295575,
       "word": "杨鸣唐佳良离婚案12月开庭",
@@ -4339,6 +4387,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 291130,
+      "num": 291130,
+      "word": "入冬四件套",
+      "onboard_time": 1701700597,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 291113,
       "num": 291113,
       "word": "一念关山 隆力奇",
@@ -4393,6 +4449,14 @@
       "onboard_time": 1701587970,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 288570,
+      "num": 212380,
+      "word": "好会做饭的常华森",
+      "onboard_time": 1701700720,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 287776,
@@ -5139,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245704,
+      "num": 201303,
+      "word": "檀健次翻牌",
+      "onboard_time": 1701701197,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245049,
       "num": 245049,
       "word": "恒大地产未能清偿到期债务超3000亿",
@@ -5204,7 +5276,7 @@
     },
     {
       "raw_hot": 238863,
-      "num": 211587,
+      "num": 230016,
       "word": "年轻人如何减轻熬夜脸",
       "onboard_time": 1701697000,
       "rank": 23,
@@ -6248,6 +6320,14 @@
       "word": "这个家不能没有Chovy",
       "onboard_time": 1701511652,
       "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 205326,
+      "num": 205326,
+      "word": "狼队 抢龙",
+      "onboard_time": 1701702693,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -7899,6 +7979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164235,
+      "num": 164235,
+      "word": "手机贴膜 智商税",
+      "onboard_time": 1701702576,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164160,
       "num": 164160,
       "word": "LV大秀G社生图",
@@ -7945,6 +8033,14 @@
       "onboard_time": 1701500671,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162699,
+      "num": 162699,
+      "word": "频繁被催婚后的心态",
+      "onboard_time": 1701702398,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 162071,
