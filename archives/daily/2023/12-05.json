@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701714976741,
+  "endTime": 1701717306097,
   "band_list": [
     {
       "raw_hot": 1166623,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35106,
+      "num": 35106,
+      "word": "阶段性朋友",
+      "onboard_time": 1701713776,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32223,
       "num": 32223,
       "word": "BLACKPINK当年差点失去口哨",
@@ -483,20 +491,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 31039,
-      "num": 31039,
-      "word": "阶段性朋友",
-      "onboard_time": 1701713776,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 29683,
       "num": 790777,
       "word": "美好生活宪给你",
       "onboard_time": 1701691656,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20711,
+      "num": 20711,
+      "word": "菲律宾又地震了",
+      "onboard_time": 1701715274,
+      "rank": 38,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
