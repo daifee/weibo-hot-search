@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701646462415,
+  "endTime": 1701652616569,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2325769,
-      "num": 1179373,
+      "num": 1550758,
       "word": "教师长期强奸5名女学生被执行死刑",
       "onboard_time": 1701618334,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1701513031,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2173950,
+      "num": 2173950,
+      "word": "举报者称五月天下场直播是混淆视听",
+      "onboard_time": 1701652115,
+      "rank": 0,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 2140737,
@@ -329,6 +337,14 @@
       "onboard_time": 1701585092,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1528919,
+      "num": 1528919,
+      "word": "长期缺觉容易诱发这5种疾病",
+      "onboard_time": 1701619056,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1520153,
@@ -603,14 +619,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 991443,
-      "num": 991443,
-      "word": "长期缺觉容易诱发这5种疾病",
-      "onboard_time": 1701619056,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 978656,
       "num": 978656,
       "word": "孟美岐 年度最具突破女歌手",
@@ -657,6 +665,14 @@
       "onboard_time": 1701440737,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 941023,
+      "num": 941023,
+      "word": "穿卫衣就这样扎丸子头",
+      "onboard_time": 1701647550,
+      "rank": 7,
+      "category": "美妆"
     },
     {
       "raw_hot": 904631,
@@ -715,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 820879,
+      "num": 820879,
+      "word": "姥姥去世一周后妈妈发的短信",
+      "onboard_time": 1701621029,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 819353,
       "num": 819353,
       "word": "杨鸣多个社交平台账号已取消认证",
@@ -769,14 +793,6 @@
       "onboard_time": 1701511288,
       "rank": 12,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 799657,
-      "num": 799657,
-      "word": "姥姥去世一周后妈妈发的短信",
-      "onboard_time": 1701621029,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 798757,
@@ -971,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 696550,
+      "num": 696550,
+      "word": "瑞幸状告泰国瑞幸败诉",
+      "onboard_time": 1701645686,
+      "rank": 14,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 695650,
       "num": 695650,
       "word": "严敏 无限流综艺",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1701449725,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 648697,
+      "num": 648697,
+      "word": "瑞幸 泰假",
+      "onboard_time": 1701651759,
+      "rank": 10,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 646735,
@@ -1499,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 513209,
+      "num": 513209,
+      "word": "白银价格飙涨",
+      "onboard_time": 1701651277,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 511352,
       "num": 511352,
       "word": "小凯 不用铲了不用铲了",
@@ -1529,6 +1569,14 @@
       "onboard_time": 1701608570,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494855,
+      "num": 494855,
+      "word": "中国男子拍摄乌军作战被判刑",
+      "onboard_time": 1701650315,
+      "rank": 15,
+      "category": "国外时政"
     },
     {
       "raw_hot": 494760,
@@ -1609,6 +1657,14 @@
       "onboard_time": 1701528336,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479163,
+      "num": 479163,
+      "word": "五月天演唱会举办方称不方便回答",
+      "onboard_time": 1701651034,
+      "rank": 17,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 476984,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1701515554,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457907,
+      "num": 457907,
+      "word": "GQ出发图主题 发疯",
+      "onboard_time": 1701648694,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 455314,
@@ -1817,6 +1881,14 @@
       "onboard_time": 1701513753,
       "rank": 13,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 437803,
+      "num": 437803,
+      "word": "TFBOYS十周年未公开彩排图",
+      "onboard_time": 1701649299,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 436104,
@@ -2147,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387664,
+      "num": 387664,
+      "word": "美商务部长呼吁阻止中国获得半导体关键技术",
+      "onboard_time": 1701649114,
+      "rank": 20,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 387576,
       "num": 387576,
       "word": "张纪中曝光前妻隐私被判罚2万",
@@ -2371,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365727,
+      "num": 365727,
+      "word": "吴露可逃 星光大赏",
+      "onboard_time": 1701651696,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 365220,
       "num": 365220,
       "word": "把猫猫的头含进嘴里的萨摩耶",
@@ -2545,6 +2633,14 @@
       "onboard_time": 1701499828,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347309,
+      "num": 347309,
+      "word": "五月天如假唱最高或被罚10万",
+      "onboard_time": 1701624022,
+      "rank": 14,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 345965,
@@ -2891,6 +2987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310542,
+      "num": 310542,
+      "word": "接吻会不会传染幽门螺杆菌",
+      "onboard_time": 1701651396,
+      "rank": 24,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 310498,
       "num": 296402,
       "word": "龚俊拖白敬亭一起扭",
@@ -2963,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302130,
+      "num": 302130,
+      "word": "吴奇隆刻意减少工作陪孩子",
+      "onboard_time": 1701624082,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301702,
       "num": 241620,
       "word": "保时捷婚车四个轮子被上几十把锁",
@@ -2977,6 +3089,14 @@
       "onboard_time": 1701592956,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301393,
+      "num": 301393,
+      "word": "分开都知道叠一起就不认识的字",
+      "onboard_time": 1701651159,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 300964,
@@ -3017,14 +3137,6 @@
       "onboard_time": 1701565171,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 296923,
-      "num": 296923,
-      "word": "吴奇隆刻意减少工作陪孩子",
-      "onboard_time": 1701624082,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 296297,
@@ -3323,6 +3435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277749,
+      "num": 277749,
+      "word": "张晚意戏路比我二舅妈的棉裤都宽",
+      "onboard_time": 1701626663,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277466,
       "num": 277466,
       "word": "WE FoFo",
@@ -3459,6 +3579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270741,
+      "num": 270741,
+      "word": "妻子把儿子包成花束去迎接退伍丈夫",
+      "onboard_time": 1701622348,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270055,
       "num": 270055,
       "word": "32个城市地铁仅有5城盈利",
@@ -3483,12 +3611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268044,
-      "num": 268044,
-      "word": "瑞幸状告泰国瑞幸败诉",
-      "onboard_time": 1701645686,
-      "rank": 14,
-      "category": "社会新闻,美食"
+      "raw_hot": 268302,
+      "num": 268302,
+      "word": "刘宇宁连发18个好",
+      "onboard_time": 1701647311,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 267198,
@@ -3505,6 +3633,14 @@
       "onboard_time": 1701512973,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 265717,
+      "num": 265717,
+      "word": "奥沙利文致谢丁俊晖",
+      "onboard_time": 1701647794,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 265236,
@@ -3699,6 +3835,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 250634,
+      "num": 250634,
+      "word": "苑琼丹谈佘诗曼人品",
+      "onboard_time": 1701651457,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 250361,
       "num": 250361,
       "word": "国家卫健委新闻发布会",
@@ -3819,14 +3963,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 243476,
-      "num": 243476,
-      "word": "张晚意戏路比我二舅妈的棉裤都宽",
-      "onboard_time": 1701626663,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 243416,
       "num": 243416,
       "word": "苏翊鸣夺冠动作比赛前一天才训练成功",
@@ -3849,6 +3985,14 @@
       "onboard_time": 1701434494,
       "rank": 23,
       "category": "自然"
+    },
+    {
+      "raw_hot": 240580,
+      "num": 240580,
+      "word": "喉咙中间的小舌头有什么用",
+      "onboard_time": 1701645986,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240497,
@@ -3881,6 +4025,14 @@
       "onboard_time": 1701406480,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238001,
+      "num": 238001,
+      "word": "薛之谦 喂鱼送戒指",
+      "onboard_time": 1701649174,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 235914,
@@ -4323,14 +4475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215586,
-      "num": 156394,
-      "word": "妻子把儿子包成花束去迎接退伍丈夫",
-      "onboard_time": 1701622348,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215573,
       "num": 215573,
       "word": "在暴雪时分",
@@ -4481,14 +4625,6 @@
       "onboard_time": 1701576994,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210523,
-      "num": 210523,
-      "word": "五月天如假唱最高或被罚10万",
-      "onboard_time": 1701624022,
-      "rank": 14,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 210403,
@@ -4953,6 +5089,14 @@
       "onboard_time": 1701581129,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 197227,
+      "num": 197227,
+      "word": "地磁暴对身体有影响吗",
+      "onboard_time": 1701650736,
+      "rank": 36,
+      "category": "科学科普,社会新闻"
     },
     {
       "raw_hot": 197110,
@@ -5563,6 +5707,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 181363,
+      "num": 181363,
+      "word": "考研试卷拆封流程",
+      "onboard_time": 1701651338,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 181259,
       "num": 181259,
       "word": "湖人战胜火箭",
@@ -5761,6 +5913,14 @@
       "onboard_time": 1701358833,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 173429,
+      "num": 173429,
+      "word": "比亚迪悬赏500万打击恶意抹黑",
+      "onboard_time": 1701652355,
+      "rank": 38,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 173388,
@@ -6155,6 +6315,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161302,
+      "num": 161302,
+      "word": "一个敢按一个敢认",
+      "onboard_time": 1701646166,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161264,
+      "num": 161264,
+      "word": "孙兴慜乌龙球",
+      "onboard_time": 1701647428,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160907,
       "num": 160907,
       "word": "林俊杰的话筒 好用",
@@ -6336,6 +6512,14 @@
       "word": "新闻女王 女性角色好有尊严",
       "onboard_time": 1701488853,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156165,
+      "num": 156165,
+      "word": "周政 纯爱战狼",
+      "onboard_time": 1701652355,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -6995,6 +7179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138083,
+      "num": 138083,
+      "word": "阿里网络退出多家A股公司",
+      "onboard_time": 1701646587,
+      "rank": 46,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 137819,
       "num": 137819,
       "word": "田甜发现相亲男喜欢闺蜜秒删",
@@ -7019,6 +7211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 136783,
+      "num": 136783,
+      "word": "开猿节流 降本增笑",
+      "onboard_time": 1701648755,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136427,
       "num": 136427,
       "word": "周冬雨陈妙 爽文女主",
@@ -7041,6 +7241,14 @@
       "onboard_time": 1701512490,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135016,
+      "num": 135016,
+      "word": "手头紧的年轻人正在蹭老消费",
+      "onboard_time": 1701652534,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 134999,
@@ -7153,6 +7361,14 @@
       "onboard_time": 1701511172,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132006,
+      "num": 132006,
+      "word": "春晚预测 押公式",
+      "onboard_time": 1701646769,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 131801,
@@ -7795,14 +8011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106432,
-      "num": 106432,
-      "word": "喉咙中间的小舌头有什么用",
-      "onboard_time": 1701645986,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 103713,
       "num": 103713,
       "word": "两眼一睁开始竞争的考研人称学不完",
@@ -8035,14 +8243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87985,
-      "num": 87985,
-      "word": "一个敢按一个敢认",
-      "onboard_time": 1701646166,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86636,
       "num": 86636,
       "word": "杨幂北京出发穿搭",
@@ -8105,6 +8305,14 @@
       "onboard_time": 1701508650,
       "rank": 28,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 77445,
+      "num": 1553457,
+      "word": "新千里江山图",
+      "onboard_time": 1701606939,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76446,
@@ -8297,14 +8505,6 @@
       "onboard_time": 1701542718,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 54530,
-      "num": 1185434,
-      "word": "新千里江山图",
-      "onboard_time": 1701606939,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54254,
