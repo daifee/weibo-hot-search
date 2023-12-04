@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701704065480,
+  "endTime": 1701707055998,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 846895,
+      "num": 846895,
+      "word": "手机贴膜 智商税",
+      "onboard_time": 1701702576,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 841264,
       "num": 841264,
       "word": "科目三 韩国",
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 651228,
+      "num": 651228,
+      "word": "刘诗诗回应替身说",
+      "onboard_time": 1701702337,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 646925,
       "num": 1581585,
       "word": "25岁宝妈两次高考上岸做到全班第一",
@@ -825,14 +841,6 @@
       "onboard_time": 1701613123,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 646153,
-      "num": 399000,
-      "word": "刘诗诗回应替身说",
-      "onboard_time": 1701702337,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 644940,
@@ -969,6 +977,14 @@
       "onboard_time": 1701671136,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 563241,
+      "num": 563241,
+      "word": "断崖式衰老女子确诊卵巢早衰",
+      "onboard_time": 1701701796,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562676,
@@ -1401,14 +1417,6 @@
       "onboard_time": 1701606397,
       "rank": 26,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 434572,
-      "num": 434572,
-      "word": "断崖式衰老女子确诊卵巢早衰",
-      "onboard_time": 1701701796,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434253,
@@ -1891,6 +1899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341984,
+      "num": 341984,
+      "word": "乱港分子周庭弃保潜逃",
+      "onboard_time": 1701703532,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 341233,
       "num": 245660,
       "word": "龙行龘龘",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1701691055,
       "rank": 22,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 329713,
-      "num": 329713,
-      "word": "手机贴膜 智商税",
-      "onboard_time": 1701702576,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 329402,
@@ -3883,6 +3891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175992,
+      "num": 168901,
+      "word": "郭志凯 连开8场演唱会极不合理",
+      "onboard_time": 1701703954,
+      "rank": 44,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 174693,
       "num": 174693,
       "word": "减肥的底层逻辑",
@@ -3985,14 +4001,6 @@
       "onboard_time": 1701567268,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168901,
-      "num": 168901,
-      "word": "郭志凯 连开8场演唱会极不合理",
-      "onboard_time": 1701703954,
-      "rank": 44,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 168768,
@@ -4145,14 +4153,6 @@
       "onboard_time": 1701647428,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160982,
-      "num": 220139,
-      "word": "乱港分子周庭弃保潜逃",
-      "onboard_time": 1701703532,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 160635,
@@ -4337,6 +4337,14 @@
       "onboard_time": 1701591215,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153058,
+      "num": 105965,
+      "word": "文俊辉黄仁俊刘扬扬去密室",
+      "onboard_time": 1701705450,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 151988,
@@ -4648,6 +4656,14 @@
       "word": "杨紫 要久久爱要播了",
       "onboard_time": 1701525396,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135247,
+      "num": 103979,
+      "word": "甄嬛身心最剧痛的一刻",
+      "onboard_time": 1701706709,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -5529,6 +5545,14 @@
       "onboard_time": 1701587010,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28054,
+      "num": 790777,
+      "word": "美好生活宪给你",
+      "onboard_time": 1701691656,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26811,
