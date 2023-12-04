@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/05 00:24:15 ~ 2023/12/05 01:16:51
+本榜单时间：2023/12/05 00:24:15 ~ 2023/12/05 01:34:08
 </p>
 </blockquote>
 <p>
@@ -285,6 +285,12 @@ TheShy上路对战Bin（热度：110020）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%86%AC%E7%9A%84%E5%A4%9C%E9%83%BD%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%E4%BA%86%23" target="weibo">
+你熬的夜都写在脸上了（热度：100179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2311%E6%9C%88%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E7%89%88%E5%8F%B7%23" target="weibo">
 11月国产游戏版号（热度：96663）
 </a>
@@ -323,12 +329,6 @@ NMIXX 空降（热度：95955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%20%E6%8A%A2%E9%BE%99%23" target="weibo">
 狼队 抢龙（热度：70469）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%86%AC%E7%9A%84%E5%A4%9C%E9%83%BD%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%E4%BA%86%23" target="weibo">
-你熬的夜都写在脸上了（热度：67765）
 </a>
 </li>
 

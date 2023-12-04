@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/03 00:21:00 ~ 2023/12/05 01:16:51
+本榜单时间：2023/12/03 00:21:00 ~ 2023/12/05 01:34:08
 </p>
 </blockquote>
 <p>
@@ -3915,6 +3915,12 @@ TES 辅助（热度：116175）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%86%AC%E7%9A%84%E5%A4%9C%E9%83%BD%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%E4%BA%86%23" target="weibo">
+你熬的夜都写在脸上了（热度：100179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%96%B0%E6%AD%8C%E5%8D%A1%E4%BD%8F%E4%BA%86%23" target="weibo">
 华晨宇新歌卡住了（热度：99426）
 </a>
@@ -4067,12 +4073,6 @@ NMIXX 空降（热度：95955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E7%9A%84%E6%8B%BC%E6%90%8F%E5%80%BC%E5%BE%97%E8%A2%AB%E7%9C%8B%E8%A7%81%23" target="weibo">
 他们的拼搏值得被看见（热度：69336）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%86%AC%E7%9A%84%E5%A4%9C%E9%83%BD%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%E4%BA%86%23" target="weibo">
-你熬的夜都写在脸上了（热度：67765）
 </a>
 </li>
 

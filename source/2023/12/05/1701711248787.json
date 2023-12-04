@@ -1,0 +1,410 @@
+{
+  "runTime": 1701711248787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 458596,
+        "num": 458596,
+        "word": "刘若英 我爱五月天",
+        "onboard_time": 1701695436,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 408319,
+        "num": 408319,
+        "word": "上海文旅局正鉴定五月天演唱会原始音视频",
+        "onboard_time": 1701685657,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 21563,
+        "num": 351656,
+        "word": "美好生活宪给你",
+        "onboard_time": 1701691656,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 346475,
+        "num": 346475,
+        "word": "麦田农夫 每个音都特别准就是假唱",
+        "onboard_time": 1701684454,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 308478,
+        "num": 308478,
+        "word": "手机贴膜 智商税",
+        "onboard_time": 1701702576,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251732,
+        "num": 251732,
+        "word": "刘诗诗回应替身说",
+        "onboard_time": 1701702337,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247765,
+        "num": 247765,
+        "word": "一人花近10万买彩票中2亿",
+        "onboard_time": 1701687697,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 206066,
+        "num": 206066,
+        "word": "快过年了 不要再买了",
+        "onboard_time": 1701696578,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200353,
+        "num": 200353,
+        "word": "断崖式衰老女子确诊卵巢早衰",
+        "onboard_time": 1701701796,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21540,
+        "num": 174872,
+        "word": "流感的病程是怎样变化的",
+        "onboard_time": 1701691833,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 350286,
+        "num": 173829,
+        "word": "五月天否认假唱",
+        "onboard_time": 1701686434,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 167266,
+        "num": 167266,
+        "word": "常华森秒删",
+        "onboard_time": 1701700658,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159149,
+        "num": 159149,
+        "word": "胡夏删视频",
+        "onboard_time": 1701687398,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102516,
+        "num": 102516,
+        "word": "QQ音乐回应涨价",
+        "onboard_time": 1701694297,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 97616,
+        "num": 97616,
+        "word": "乱港分子周庭弃保潜逃",
+        "onboard_time": 1701703532,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157929,
+        "num": 95695,
+        "word": "封神 补拍",
+        "onboard_time": 1701688359,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136485,
+        "num": 94387,
+        "word": "成都有杜绝假唱固定流程",
+        "onboard_time": 1701707547,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 91775,
+        "num": 91775,
+        "word": "11月国产游戏版号",
+        "onboard_time": 1701709042,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84334,
+        "num": 84334,
+        "word": "河南一家长在班级群发不雅视频",
+        "onboard_time": 1701692322,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 82054,
+        "num": 82054,
+        "word": "八段锦 慢性病",
+        "onboard_time": 1701669933,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133802,
+        "num": 78278,
+        "word": "林俊杰 下次请不要来我的演唱会",
+        "onboard_time": 1701659014,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128645,
+        "num": 74784,
+        "word": "五月天现场视频",
+        "onboard_time": 1701699101,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123050,
+        "num": 70962,
+        "word": "甄嬛身心最剧痛的一刻",
+        "onboard_time": 1701706709,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100179,
+        "num": 70545,
+        "word": "你熬的夜都写在脸上了",
+        "onboard_time": 1701709521,
+        "rank": 23,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 66902,
+        "num": 66902,
+        "word": "王楚钦 还打吗",
+        "onboard_time": 1701688299,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118749,
+        "num": 66273,
+        "word": "陈绮贞 五月天",
+        "onboard_time": 1701676059,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 111016,
+        "num": 64480,
+        "word": "李同光 人设",
+        "onboard_time": 1701694058,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58014,
+        "num": 58014,
+        "word": "父亲看望产后的女儿瞬间被一把抱住",
+        "onboard_time": 1701686615,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55722,
+        "num": 55722,
+        "word": "比12315还管用的维权方法",
+        "onboard_time": 1701693217,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47834,
+        "num": 55526,
+        "word": "105厘米长锦鲤入池",
+        "onboard_time": 1701709462,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65330,
+        "num": 55282,
+        "word": "妈妈去世动森成为我永远的痛",
+        "onboard_time": 1701696578,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110772,
+        "num": 55218,
+        "word": "林俊杰肖战合照",
+        "onboard_time": 1701691475,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107325,
+        "num": 54941,
+        "word": "毛雪汪公开处刑宋轶微博",
+        "onboard_time": 1701694776,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78404,
+        "num": 54591,
+        "word": "NMIXX 空降",
+        "onboard_time": 1701708743,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72046,
+        "num": 54388,
+        "word": "师徒线 好嗑",
+        "onboard_time": 1701698924,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54284,
+        "num": 54284,
+        "word": "TheShy上路对战Bin",
+        "onboard_time": 1701691718,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53367,
+        "num": 53367,
+        "word": "考研人最后二十天的精神状态",
+        "onboard_time": 1701699278,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 65760,
+        "num": 53056,
+        "word": "好会做饭的常华森",
+        "onboard_time": 1701700720,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49986,
+        "num": 49986,
+        "word": "官方回应1人买彩票中2亿无需缴税",
+        "onboard_time": 1701685476,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49020,
+        "num": 49020,
+        "word": "00后也熬到需要攒钱过年的年龄了",
+        "onboard_time": 1701692380,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61880,
+        "num": 48299,
+        "word": "郭志凯 连开8场演唱会极不合理",
+        "onboard_time": 1701703954,
+        "rank": 40,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 60267,
+        "num": 47534,
+        "word": "五月天经纪公司称没有假唱",
+        "onboard_time": 1701670358,
+        "rank": 41,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 55282,
+        "num": 46453,
+        "word": "杨紫红色马面裙",
+        "onboard_time": 1701696875,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 55250,
+        "num": 45718,
+        "word": "五月天经纪公司称正配合调查",
+        "onboard_time": 1701688118,
+        "rank": 43,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 51229,
+        "num": 44517,
+        "word": "文俊辉黄仁俊刘扬扬去密室",
+        "onboard_time": 1701705450,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43766,
+        "num": 43766,
+        "word": "isfj 阶段性朋友",
+        "onboard_time": 1701701435,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41836,
+        "num": 41836,
+        "word": "刘冲 我座位还没开始排呢",
+        "onboard_time": 1701702214,
+        "rank": 46,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 36608,
+        "num": 41813,
+        "word": "频繁被催婚后的心态",
+        "onboard_time": 1701702398,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35889,
+        "num": 41543,
+        "word": "哪些是乳腺癌高危人群",
+        "onboard_time": 1701696040,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27598,
+        "num": 41293,
+        "word": "年轻人如何减轻熬夜脸",
+        "onboard_time": 1701697000,
+        "rank": 49,
+        "category": "健康医疗,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023从都国际论坛致贺信#"
+    }
+  }
+}

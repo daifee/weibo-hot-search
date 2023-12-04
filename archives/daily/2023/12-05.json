@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701710211034,
+  "endTime": 1701711248787,
   "band_list": [
     {
       "raw_hot": 1166623,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100179,
+      "num": 70545,
+      "word": "你熬的夜都写在脸上了",
+      "onboard_time": 1701709521,
+      "rank": 33,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 96663,
       "num": 96663,
       "word": "11月国产游戏版号",
@@ -417,14 +425,6 @@
       "onboard_time": 1701702693,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67765,
-      "num": 67765,
-      "word": "你熬的夜都写在脸上了",
-      "onboard_time": 1701709521,
-      "rank": 33,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 66041,
