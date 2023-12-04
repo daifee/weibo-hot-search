@@ -1,0 +1,410 @@
+{
+  "runTime": 1701671051934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3044140,
+        "num": 3044140,
+        "word": "五月天经纪公司称没有假唱",
+        "onboard_time": 1701670358,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 2044381,
+        "num": 2044381,
+        "word": "五月天演唱会将全程直播",
+        "onboard_time": 1701662622,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 43993,
+        "num": 1844086,
+        "word": "穿越机视角瞰巍峨古长城",
+        "onboard_time": 1701659494,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1782448,
+        "num": 1782448,
+        "word": "林俊杰 下次请不要来我的演唱会",
+        "onboard_time": 1701659014,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1443355,
+        "num": 1443355,
+        "word": "八段锦 慢性病",
+        "onboard_time": 1701669933,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1260675,
+        "num": 1260675,
+        "word": "五月天演唱会音视频已提交稽查部门",
+        "onboard_time": 1701667538,
+        "rank": 5,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 819273,
+        "num": 819273,
+        "word": "汪文斌分享迪丽热巴新疆舞",
+        "onboard_time": 1701660456,
+        "rank": 6,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 755477,
+        "num": 755477,
+        "word": "肯德基外送 打包费",
+        "onboard_time": 1701667418,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 673760,
+        "num": 673760,
+        "word": "酱园弄 杨幂",
+        "onboard_time": 1701666938,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 580801,
+        "num": 580801,
+        "word": "中演协回应五月天被质疑假唱",
+        "onboard_time": 1701659735,
+        "rank": 9,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 559489,
+        "num": 559489,
+        "word": "五月天演唱会主办方被要求配合调查",
+        "onboard_time": 1701664842,
+        "rank": 10,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 520520,
+        "num": 520520,
+        "word": "黄金价格",
+        "onboard_time": 1701656252,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 471789,
+        "num": 471789,
+        "word": "举报者称五月天下场直播是混淆视听",
+        "onboard_time": 1701652115,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 468745,
+        "num": 468745,
+        "word": "瑞幸 泰假",
+        "onboard_time": 1701651759,
+        "rank": 13,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 424783,
+        "num": 424783,
+        "word": "教师长期强奸5名女学生被执行死刑",
+        "onboard_time": 1701618334,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406541,
+        "num": 406541,
+        "word": "一念关山豆瓣开分",
+        "onboard_time": 1701666938,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387322,
+        "num": 387322,
+        "word": "胡夏 林俊杰",
+        "onboard_time": 1701665147,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 375448,
+        "num": 375448,
+        "word": "刘诗诗 一姐今天不1了",
+        "onboard_time": 1701659919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347137,
+        "num": 347137,
+        "word": "腾讯会员 没了",
+        "onboard_time": 1701607961,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 333877,
+        "num": 333877,
+        "word": "举报者称五月天粉丝评论很可笑",
+        "onboard_time": 1701665265,
+        "rank": 19,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 433327,
+        "num": 332186,
+        "word": "140斤女生减肥1年反胖50斤",
+        "onboard_time": 1701663283,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 329402,
+        "num": 329402,
+        "word": "韩红叫宋亚轩轩哥",
+        "onboard_time": 1701670054,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319410,
+        "num": 319410,
+        "word": "Ruler续约JDG",
+        "onboard_time": 1701670233,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315506,
+        "num": 315506,
+        "word": "男子捆绑女友获刑7个月",
+        "onboard_time": 1701664426,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310824,
+        "num": 310824,
+        "word": "相信音乐 五月天邀你见证现场",
+        "onboard_time": 1701617915,
+        "rank": 24,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 308467,
+        "num": 308467,
+        "word": "五月天",
+        "onboard_time": 1701661063,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 291910,
+        "num": 291910,
+        "word": "熬夜可能导致白头发提前出现",
+        "onboard_time": 1701666638,
+        "rank": 26,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 272446,
+        "num": 272446,
+        "word": "我就说甄嬛传删减太多了",
+        "onboard_time": 1701658173,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248419,
+        "num": 248419,
+        "word": "一念关山 隆力奇",
+        "onboard_time": 1701667475,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211918,
+        "num": 211918,
+        "word": "科目三 韩国",
+        "onboard_time": 1701657995,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430821,
+        "num": 210799,
+        "word": "鼻屎大的两个小东西还凶上了",
+        "onboard_time": 1701671016,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219087,
+        "num": 210401,
+        "word": "溺死在这样的身高差里",
+        "onboard_time": 1701670233,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211934,
+        "num": 210376,
+        "word": "周一围说朱丹的描述有误导倾向",
+        "onboard_time": 1701655592,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209597,
+        "num": 209597,
+        "word": "一念关山结局 HE",
+        "onboard_time": 1701666638,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207533,
+        "num": 207533,
+        "word": "女爱豆完爆韩国男运动员",
+        "onboard_time": 1701664002,
+        "rank": 34,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 196637,
+        "num": 196637,
+        "word": "京东回应承兴案",
+        "onboard_time": 1701669933,
+        "rank": 35,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 194152,
+        "num": 194152,
+        "word": "五月天经纪方多次挂断媒体电话",
+        "onboard_time": 1701612639,
+        "rank": 36,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 193745,
+        "num": 193745,
+        "word": "大侦探9 首案阵容",
+        "onboard_time": 1701655174,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192500,
+        "num": 192500,
+        "word": "观众遇假唱可获3倍票价赔偿",
+        "onboard_time": 1701665083,
+        "rank": 38,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 183458,
+        "num": 183458,
+        "word": "42岁女子20天经历断崖式衰老",
+        "onboard_time": 1701657995,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192874,
+        "num": 182356,
+        "word": "博主再更新五月天真假唱鉴定视频",
+        "onboard_time": 1701616061,
+        "rank": 40,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 178429,
+        "num": 178429,
+        "word": "小马云走红8年后",
+        "onboard_time": 1701670717,
+        "rank": 41,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 166909,
+        "num": 166909,
+        "word": "张若昀首部校园剧男主",
+        "onboard_time": 1701662502,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164703,
+        "num": 164703,
+        "word": "义乌发布倡议书保持10天以上存粮",
+        "onboard_time": 1701663165,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159540,
+        "num": 159540,
+        "word": "消保委回应博主举报五月天演唱会假唱",
+        "onboard_time": 1701663943,
+        "rank": 44,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 157145,
+        "num": 157145,
+        "word": "天价母婴消费收割廉价爸妈",
+        "onboard_time": 1701667898,
+        "rank": 45,
+        "category": "母婴育儿,社会新闻"
+      },
+      {
+        "raw_hot": 153002,
+        "num": 153002,
+        "word": "小女孩等了11年终于有自己的房间",
+        "onboard_time": 1701654874,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149147,
+        "num": 149147,
+        "word": "许光汉新浪扫楼",
+        "onboard_time": 1701670956,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147972,
+        "num": 147972,
+        "word": "文旅局回应五月天疑似假唱",
+        "onboard_time": 1701607961,
+        "rank": 48,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 147704,
+        "num": 147704,
+        "word": "JDG官宣Kanavi续约",
+        "onboard_time": 1701671016,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向首届良渚论坛致贺信#"
+    }
+  }
+}
