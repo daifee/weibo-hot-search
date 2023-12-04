@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701717306097,
+  "endTime": 1701718447926,
   "band_list": [
     {
       "raw_hot": 1166623,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36367,
+      "num": 36367,
+      "word": "阶段性朋友",
+      "onboard_time": 1701713776,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36186,
       "num": 35993,
       "word": "中国记协的严谨程度",
@@ -473,14 +481,6 @@
       "onboard_time": 1701713538,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35106,
-      "num": 35106,
-      "word": "阶段性朋友",
-      "onboard_time": 1701713776,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 32223,
