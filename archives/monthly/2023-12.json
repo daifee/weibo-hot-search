@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701688537147,
+  "endTime": 1701689632097,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -35,20 +35,20 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 6406848,
+      "num": 7238694,
+      "word": "五月天否认假唱",
+      "onboard_time": 1701686434,
+      "rank": 0,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 6137609,
       "num": 6137609,
       "word": "中演协回应五月天被质疑假唱",
       "onboard_time": 1701659735,
       "rank": 0,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 5851731,
-      "num": 7101731,
-      "word": "五月天否认假唱",
-      "onboard_time": 1701686434,
-      "rank": 0,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 5425346,
@@ -129,6 +129,14 @@
       "onboard_time": 1701659014,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2808324,
+      "num": 2808324,
+      "word": "胡夏删视频",
+      "onboard_time": 1701687398,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2672537,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1588215,
-      "num": 1588215,
-      "word": "胡夏删视频",
-      "onboard_time": 1701687398,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1581016,
       "num": 1581016,
       "word": "丁程鑫 中考",
@@ -643,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1112207,
+      "num": 1112207,
+      "word": "封神 补拍",
+      "onboard_time": 1701688359,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1102050,
       "num": 1102050,
       "word": "GQ盛典 名单",
@@ -785,6 +793,14 @@
       "onboard_time": 1701581734,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 974864,
+      "num": 974864,
+      "word": "王楚钦 还打吗",
+      "onboard_time": 1701688299,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 974298,
@@ -939,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 821596,
+      "num": 821596,
+      "word": "一人花近10万买彩票中2亿",
+      "onboard_time": 1701687697,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 821076,
       "num": 821076,
       "word": "田曦薇 年画娃娃",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1701403117,
       "rank": 6,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 756077,
+      "num": 756077,
+      "word": "虞书欣 戴森",
+      "onboard_time": 1701689015,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 755477,
@@ -1825,14 +1857,6 @@
       "onboard_time": 1701670717,
       "rank": 41,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 526663,
-      "num": 526663,
-      "word": "一人花近10万买彩票中2亿",
-      "onboard_time": 1701687697,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 525296,
@@ -2619,6 +2643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 414276,
+      "num": 1009884,
+      "word": "父亲看望产后的女儿瞬间被一把抱住",
+      "onboard_time": 1701686615,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413999,
       "num": 413999,
       "word": "手机拍照的图片不要直接打印",
@@ -2665,14 +2697,6 @@
       "onboard_time": 1701426693,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408618,
-      "num": 841903,
-      "word": "父亲看望产后的女儿瞬间被一把抱住",
-      "onboard_time": 1701686615,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406941,
@@ -3057,6 +3081,14 @@
       "onboard_time": 1701412414,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368862,
+      "num": 368862,
+      "word": "莎头",
+      "onboard_time": 1701688177,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 367427,
@@ -3507,6 +3539,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 321419,
+      "num": 321419,
+      "word": "张元英同人 成为人类",
+      "onboard_time": 1701685174,
+      "rank": 48,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 321125,
       "num": 321125,
       "word": "警方通报女子提醒关远光灯被打致流产",
@@ -3529,6 +3569,14 @@
       "onboard_time": 1701602791,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320963,
+      "num": 295767,
+      "word": "玩梗 林俊杰舞蹈",
+      "onboard_time": 1701674377,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 320392,
@@ -3843,22 +3891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 304004,
-      "num": 304004,
-      "word": "张元英同人 成为人类",
-      "onboard_time": 1701685174,
-      "rank": 48,
-      "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 303968,
-      "num": 303968,
-      "word": "王楚钦 还打吗",
-      "onboard_time": 1701688299,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 302705,
       "num": 302705,
       "word": "女子扎铁还债170万出圈后又添14万",
@@ -3929,14 +3961,6 @@
       "onboard_time": 1701571473,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 299136,
-      "num": 299136,
-      "word": "莎头",
-      "onboard_time": 1701688177,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 297542,
@@ -4915,11 +4939,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245493,
-      "num": 245493,
-      "word": "玩梗 林俊杰舞蹈",
-      "onboard_time": 1701674377,
-      "rank": 37,
+      "raw_hot": 245262,
+      "num": 238537,
+      "word": "王嘉尔补偿力度",
+      "onboard_time": 1701689376,
+      "rank": 35,
       "category": "演出"
     },
     {
@@ -5065,6 +5089,14 @@
       "onboard_time": 1701350258,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234023,
+      "num": 234023,
+      "word": "阴阳师 zen",
+      "onboard_time": 1701689319,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 233878,
@@ -5443,6 +5475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221709,
+      "num": 221709,
+      "word": "神隐凤羽相印海报",
+      "onboard_time": 1701689256,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221696,
       "num": 221696,
       "word": "宋亚轩王牌重现脆爷名场面",
@@ -5777,14 +5817,6 @@
       "onboard_time": 1701493594,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209996,
-      "num": 209996,
-      "word": "封神 补拍",
-      "onboard_time": 1701688359,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 209490,
@@ -7403,6 +7435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167225,
+      "num": 167225,
+      "word": "p人 日程本",
+      "onboard_time": 1701689076,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167130,
       "num": 167130,
       "word": "看完李可乐 和妈妈讨论死亡",
@@ -8097,6 +8137,14 @@
       "onboard_time": 1701620970,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147773,
+      "num": 163325,
+      "word": "鬼灯的冷彻",
+      "onboard_time": 1701689618,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 147593,

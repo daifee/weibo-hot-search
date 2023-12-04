@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701688537147,
+  "endTime": 1701689632097,
   "band_list": [
     {
       "raw_hot": 6546722,
@@ -11,20 +11,20 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 6406848,
+      "num": 7238694,
+      "word": "五月天否认假唱",
+      "onboard_time": 1701686434,
+      "rank": 0,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 6137609,
       "num": 6137609,
       "word": "中演协回应五月天被质疑假唱",
       "onboard_time": 1701659735,
       "rank": 0,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 5851731,
-      "num": 7101731,
-      "word": "五月天否认假唱",
-      "onboard_time": 1701686434,
-      "rank": 0,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 5380016,
@@ -75,6 +75,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2808324,
+      "num": 2808324,
+      "word": "胡夏删视频",
+      "onboard_time": 1701687398,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2325769,
       "num": 1550758,
       "word": "教师长期强奸5名女学生被执行死刑",
@@ -113,14 +121,6 @@
       "onboard_time": 1701656252,
       "rank": 9,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1588215,
-      "num": 1588215,
-      "word": "胡夏删视频",
-      "onboard_time": 1701687398,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1581016,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1112207,
+      "num": 1112207,
+      "word": "封神 补拍",
+      "onboard_time": 1701688359,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1106510,
       "num": 1106510,
       "word": "文旅局回应五月天疑似假唱",
@@ -217,6 +225,14 @@
       "onboard_time": 1701681699,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 974864,
+      "num": 974864,
+      "word": "王楚钦 还打吗",
+      "onboard_time": 1701688299,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 968354,
@@ -291,12 +307,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 821596,
+      "num": 821596,
+      "word": "一人花近10万买彩票中2亿",
+      "onboard_time": 1701687697,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 820879,
       "num": 820879,
       "word": "姥姥去世一周后妈妈发的短信",
       "onboard_time": 1701621029,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 756077,
+      "num": 756077,
+      "word": "虞书欣 戴森",
+      "onboard_time": 1701689015,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 755477,
@@ -497,14 +529,6 @@
       "onboard_time": 1701670717,
       "rank": 41,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 526663,
-      "num": 526663,
-      "word": "一人花近10万买彩票中2亿",
-      "onboard_time": 1701687697,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 524833,
@@ -731,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 414276,
+      "num": 1009884,
+      "word": "父亲看望产后的女儿瞬间被一把抱住",
+      "onboard_time": 1701686615,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412179,
       "num": 412179,
       "word": "孙颖莎 正手",
@@ -745,14 +777,6 @@
       "onboard_time": 1701656131,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 408618,
-      "num": 841903,
-      "word": "父亲看望产后的女儿瞬间被一把抱住",
-      "onboard_time": 1701686615,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404045,
@@ -833,6 +857,14 @@
       "onboard_time": 1701679058,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368862,
+      "num": 368862,
+      "word": "莎头",
+      "onboard_time": 1701688177,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 364854,
@@ -931,11 +963,27 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 321419,
+      "num": 321419,
+      "word": "张元英同人 成为人类",
+      "onboard_time": 1701685174,
+      "rank": 48,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 321100,
       "num": 321100,
       "word": "陈奕迅 第一次遇到开场前倒数的观众",
       "onboard_time": 1701655293,
       "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 320963,
+      "num": 295767,
+      "word": "玩梗 林俊杰舞蹈",
+      "onboard_time": 1701674377,
+      "rank": 37,
       "category": "演出"
     },
     {
@@ -1059,22 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304004,
-      "num": 304004,
-      "word": "张元英同人 成为人类",
-      "onboard_time": 1701685174,
-      "rank": 48,
-      "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 303968,
-      "num": 303968,
-      "word": "王楚钦 还打吗",
-      "onboard_time": 1701688299,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 302130,
       "num": 302130,
       "word": "吴奇隆刻意减少工作陪孩子",
@@ -1105,14 +1137,6 @@
       "onboard_time": 1701684157,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 299136,
-      "num": 299136,
-      "word": "莎头",
-      "onboard_time": 1701688177,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 293904,
@@ -1315,11 +1339,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245493,
-      "num": 245493,
-      "word": "玩梗 林俊杰舞蹈",
-      "onboard_time": 1701674377,
-      "rank": 37,
+      "raw_hot": 245262,
+      "num": 238537,
+      "word": "王嘉尔补偿力度",
+      "onboard_time": 1701689376,
+      "rank": 35,
       "category": "演出"
     },
     {
@@ -1345,6 +1369,14 @@
       "onboard_time": 1701663943,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234023,
+      "num": 234023,
+      "word": "阴阳师 zen",
+      "onboard_time": 1701689319,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 232246,
@@ -1451,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221709,
+      "num": 221709,
+      "word": "神隐凤羽相印海报",
+      "onboard_time": 1701689256,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220688,
       "num": 207076,
       "word": "gidle舞台疑似抄袭BLACKPINK",
@@ -1491,6 +1531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 212130,
+      "num": 207145,
+      "word": "一念关山",
+      "onboard_time": 1701608082,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210827,
       "num": 188800,
       "word": "折腰",
@@ -1507,28 +1555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 209996,
-      "num": 209996,
-      "word": "封神 补拍",
-      "onboard_time": 1701688359,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 208541,
       "num": 208541,
       "word": "许光汉扫楼 听取老公声一片",
       "onboard_time": 1701686256,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207145,
-      "num": 207145,
-      "word": "一念关山",
-      "onboard_time": 1701608082,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 204528,
@@ -1763,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167225,
+      "num": 167225,
+      "word": "p人 日程本",
+      "onboard_time": 1701689076,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166041,
       "num": 135205,
       "word": "雪莉杨被绑架",
@@ -1881,6 +1921,14 @@
       "onboard_time": 1701620970,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147773,
+      "num": 163325,
+      "word": "鬼灯的冷彻",
+      "onboard_time": 1701689618,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 146624,
