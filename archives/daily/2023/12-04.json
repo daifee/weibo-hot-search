@@ -1,7 +1,15 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701674234444,
+  "endTime": 1701675235444,
   "band_list": [
+    {
+      "raw_hot": 6546722,
+      "num": 7503564,
+      "word": "五月天经纪公司称没有假唱",
+      "onboard_time": 1701670358,
+      "rank": 0,
+      "category": "演出,社会新闻"
+    },
     {
       "raw_hot": 6137609,
       "num": 6137609,
@@ -9,14 +17,6 @@
       "onboard_time": 1701659735,
       "rank": 0,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 5924475,
-      "num": 7174475,
-      "word": "五月天经纪公司称没有假唱",
-      "onboard_time": 1701670358,
-      "rank": 0,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 5380016,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1911564,
+      "num": 1911564,
+      "word": "我小叔才50岁就已经被社会淘汰了",
+      "onboard_time": 1701673177,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1908643,
       "num": 1908643,
       "word": "瑞幸 泰假",
@@ -91,6 +99,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1571687,
+      "num": 1571687,
+      "word": "丁程鑫 中考",
+      "onboard_time": 1701674257,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1528919,
       "num": 1528919,
       "word": "长期缺觉容易诱发这5种疾病",
@@ -113,14 +129,6 @@
       "onboard_time": 1701660456,
       "rank": 15,
       "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 1291726,
-      "num": 1291726,
-      "word": "我小叔才50岁就已经被社会淘汰了",
-      "onboard_time": 1701673177,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1260675,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 606364,
-      "num": 299744,
+      "num": 300192,
       "word": "鼻屎大的两个小东西还凶上了",
       "onboard_time": 1701671016,
       "rank": 30,
@@ -307,12 +315,28 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 582835,
+      "num": 582835,
+      "word": "珠海一男子持刀致3死后自杀",
+      "onboard_time": 1701672515,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569977,
       "num": 475132,
       "word": "刘诗诗委婉拒绝刘宇宁",
       "onboard_time": 1701671136,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 562676,
+      "num": 231180,
+      "word": "GQ两分半拍完穿普拉达的女王",
+      "onboard_time": 1701674615,
+      "rank": 30,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 549945,
@@ -361,14 +385,6 @@
       "onboard_time": 1701651277,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 516670,
-      "num": 465979,
-      "word": "珠海一男子持刀致3死后自杀",
-      "onboard_time": 1701672515,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481934,
@@ -683,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 315307,
+      "num": 315307,
+      "word": "半开麦等不等于假唱",
+      "onboard_time": 1701673836,
+      "rank": 29,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 311533,
       "num": 311533,
       "word": "丁俊晖vs奥沙利文",
@@ -875,14 +899,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256069,
-      "num": 256069,
-      "word": "半开麦等不等于假唱",
-      "onboard_time": 1701673836,
-      "rank": 29,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 253865,
       "num": 253865,
       "word": "国内足金首饰金价达到625元一克",
@@ -987,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220861,
+      "num": 220861,
+      "word": "亿万富豪找到儿子的APP",
+      "onboard_time": 1701674615,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220688,
       "num": 207076,
       "word": "gidle舞台疑似抄袭BLACKPINK",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1701602732,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206493,
+      "num": 206493,
+      "word": "玩梗 林俊杰舞蹈",
+      "onboard_time": 1701674377,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 204528,
@@ -1123,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188349,
+      "num": 188349,
+      "word": "关山小队打戏花絮",
+      "onboard_time": 1701674978,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183485,
       "num": 183485,
       "word": "东北i人和i人",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1701670956,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167561,
+      "num": 167561,
+      "word": "檀健次周也这个吻戏竟然还有后续",
+      "onboard_time": 1701674677,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 166041,
