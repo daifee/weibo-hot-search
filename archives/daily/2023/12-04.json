@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701685224929,
+  "endTime": 1701686285658,
   "band_list": [
     {
       "raw_hot": 6546722,
@@ -123,6 +123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1411160,
+      "num": 1411160,
+      "word": "QQ音乐会员涨价",
+      "onboard_time": 1701682776,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1403054,
       "num": 1403054,
       "word": "博主再更新五月天真假唱鉴定视频",
@@ -147,12 +155,12 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 1211927,
-      "num": 1211927,
-      "word": "QQ音乐会员涨价",
-      "onboard_time": 1701682776,
-      "rank": 7,
-      "category": "互联网"
+      "raw_hot": 1200724,
+      "num": 950354,
+      "word": "黄雅莉 以后要做三个人的饭了",
+      "onboard_time": 1701682415,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 1106510,
@@ -177,14 +185,6 @@
       "onboard_time": 1701607961,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1041538,
-      "num": 943755,
-      "word": "黄雅莉 以后要做三个人的饭了",
-      "onboard_time": 1701682415,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 1033250,
@@ -331,6 +331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 646925,
+      "num": 1581585,
+      "word": "25岁宝妈两次高考上岸做到全班第一",
+      "onboard_time": 1701683494,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635817,
       "num": 635817,
       "word": "大妈捡到手机用免密支付刷光余额",
@@ -395,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 567498,
-      "num": 1581585,
-      "word": "25岁宝妈两次高考上岸做到全班第一",
-      "onboard_time": 1701683494,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562676,
       "num": 510967,
       "word": "GQ两分半拍完穿普拉达的女王",
@@ -425,6 +425,14 @@
       "onboard_time": 1701663283,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 547507,
+      "num": 547507,
+      "word": "麦田农夫 每个音都特别准就是假唱",
+      "onboard_time": 1701684454,
+      "rank": 18,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 539985,
@@ -457,6 +465,14 @@
       "onboard_time": 1701650315,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 522359,
+      "num": 522359,
+      "word": "朴宰范躲过韩国酵母的原因",
+      "onboard_time": 1701685476,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 519135,
@@ -619,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 433291,
+      "num": 300141,
+      "word": "官方回应1人买彩票中2亿无需缴税",
+      "onboard_time": 1701685476,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431428,
       "num": 431428,
       "word": "这5个部位疼痛可能是心梗前兆",
@@ -633,6 +657,14 @@
       "onboard_time": 1701663040,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431203,
+      "num": 431203,
+      "word": "上海文旅局正鉴定五月天演唱会原始音视频",
+      "onboard_time": 1701685657,
+      "rank": 16,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 425325,
@@ -747,6 +779,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369112,
+      "num": 298883,
+      "word": "玲花还是这么飒 曾毅也做了医美",
+      "onboard_time": 1701684995,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 355394,
+      "num": 259140,
+      "word": "丞磊 海公牛",
+      "onboard_time": 1701685235,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353704,
       "num": 353704,
       "word": "周一周一 准时发疯",
@@ -777,14 +825,6 @@
       "onboard_time": 1701666638,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342349,
-      "num": 342349,
-      "word": "麦田农夫 每个音都特别准就是假唱",
-      "onboard_time": 1701684454,
-      "rank": 18,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 340485,
@@ -947,6 +987,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304850,
+      "num": 304850,
+      "word": "孙颖莎3比0伯格斯特隆",
+      "onboard_time": 1701685415,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 304004,
+      "num": 304004,
+      "word": "张元英同人 成为人类",
+      "onboard_time": 1701685174,
+      "rank": 48,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 302130,
       "num": 302130,
       "word": "吴奇隆刻意减少工作陪孩子",
@@ -969,6 +1025,14 @@
       "onboard_time": 1701680856,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 300579,
+      "num": 279491,
+      "word": "一闪一闪亮星星 预售",
+      "onboard_time": 1701684157,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 293904,
@@ -1003,8 +1067,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284291,
-      "num": 1257882,
+      "raw_hot": 288840,
+      "num": 1375410,
       "word": "解清帅跟妈妈认亲戚收获满把红包",
       "onboard_time": 1701673056,
       "rank": 25,
@@ -1025,14 +1089,6 @@
       "onboard_time": 1701681337,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279491,
-      "num": 279491,
-      "word": "一闪一闪亮星星 预售",
-      "onboard_time": 1701684157,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 277749,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1701647794,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260852,
+      "num": 1312594,
+      "word": "董宇辉说我跋涉了很久才到这里",
+      "onboard_time": 1701683436,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259696,
@@ -1153,14 +1217,6 @@
       "onboard_time": 1701682058,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242084,
-      "num": 1222140,
-      "word": "董宇辉说我跋涉了很久才到这里",
-      "onboard_time": 1701683436,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238556,
@@ -1347,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208541,
+      "num": 208541,
+      "word": "许光汉扫楼 听取老公声一片",
+      "onboard_time": 1701686256,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206493,
       "num": 206493,
       "word": "玩梗 林俊杰舞蹈",
@@ -1433,14 +1497,6 @@
       "onboard_time": 1701645323,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192422,
-      "num": 192422,
-      "word": "玲花还是这么飒 曾毅也做了医美",
-      "onboard_time": 1701684995,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 191712,
@@ -1737,14 +1793,6 @@
       "onboard_time": 1701660574,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138508,
-      "num": 175122,
-      "word": "张元英同人 成为人类",
-      "onboard_time": 1701685174,
-      "rank": 48,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 138083,
