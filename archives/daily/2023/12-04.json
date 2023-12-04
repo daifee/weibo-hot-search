@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701657702223,
+  "endTime": 1701659939233,
   "band_list": [
     {
       "raw_hot": 5380016,
@@ -19,6 +19,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 3081657,
+      "num": 3081657,
+      "word": "中演协回应五月天被质疑假唱",
+      "onboard_time": 1701659735,
+      "rank": 0,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 2325769,
       "num": 1550758,
       "word": "教师长期强奸5名女学生被执行死刑",
@@ -33,6 +41,22 @@
       "onboard_time": 1701651759,
       "rank": 10,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1719793,
+      "num": 1719793,
+      "word": "林俊杰 下次请不要来我的演唱会",
+      "onboard_time": 1701659014,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1664424,
+      "num": 1664424,
+      "word": "黄金价格",
+      "onboard_time": 1701656252,
+      "rank": 9,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1528919,
@@ -75,14 +99,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 1010747,
-      "num": 1010747,
-      "word": "黄金价格",
-      "onboard_time": 1701656252,
-      "rank": 9,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 941023,
       "num": 941023,
       "word": "穿卫衣就这样扎丸子头",
@@ -91,12 +107,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 937450,
-      "num": 937450,
+      "raw_hot": 939868,
+      "num": 939868,
       "word": "周一围说朱丹的描述有误导倾向",
       "onboard_time": 1701655592,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 900707,
+      "num": 900707,
+      "word": "刘诗诗刘宇宁 史密斯夫妇",
+      "onboard_time": 1701658233,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 868440,
@@ -105,6 +129,14 @@
       "onboard_time": 1701612639,
       "rank": 6,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 841264,
+      "num": 841264,
+      "word": "科目三 韩国",
+      "onboard_time": 1701657995,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 820879,
@@ -137,6 +169,14 @@
       "onboard_time": 1701612223,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621685,
+      "num": 621685,
+      "word": "我就说甄嬛传删减太多了",
+      "onboard_time": 1701658173,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 586050,
@@ -243,12 +283,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 420829,
+      "num": 420829,
+      "word": "GQ全阵容",
+      "onboard_time": 1701657932,
+      "rank": 15,
+      "category": "电竞,作品衍生"
+    },
+    {
+      "raw_hot": 419994,
+      "num": 419994,
+      "word": "一念关山新浪扫楼",
+      "onboard_time": 1701657694,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411839,
       "num": 411839,
       "word": "五月天上海演唱会票房超6亿",
       "onboard_time": 1701656131,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 404045,
+      "num": 384016,
+      "word": "42岁女子20天经历断崖式衰老",
+      "onboard_time": 1701657995,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400271,
+      "num": 400271,
+      "word": "这5个部位疼痛可能是心梗前兆",
+      "onboard_time": 1701657093,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 399819,
@@ -275,8 +347,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 348443,
-      "num": 328627,
+      "raw_hot": 351472,
+      "num": 351472,
       "word": "肖战鹅黄短袖皮衣",
       "onboard_time": 1701656732,
       "rank": 36,
@@ -337,6 +409,14 @@
       "onboard_time": 1701620970,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310648,
+      "num": 310648,
+      "word": "网易游戏为家长开通禁止充值功能",
+      "onboard_time": 1701659919,
+      "rank": 25,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 309614,
@@ -459,12 +539,12 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 249586,
-      "num": 249586,
-      "word": "这5个部位疼痛可能是心梗前兆",
-      "onboard_time": 1701657093,
-      "rank": 30,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 247646,
+      "num": 247646,
+      "word": "年轻人毕业后都去了哪些城市",
+      "onboard_time": 1701658654,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 238556,
@@ -536,14 +616,6 @@
       "word": "折腰",
       "onboard_time": 1701602732,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 200352,
-      "num": 200352,
-      "word": "一念关山新浪扫楼",
-      "onboard_time": 1701657694,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -627,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174464,
+      "num": 174464,
+      "word": "烤椰拿铁",
+      "onboard_time": 1701659796,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171405,
       "num": 135342,
       "word": "杨紫 零下二十度光腿直播",
@@ -641,6 +721,14 @@
       "onboard_time": 1701652772,
       "rank": 43,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 168495,
+      "num": 168495,
+      "word": "一念关山直播",
+      "onboard_time": 1701658596,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 166041,
@@ -689,6 +777,14 @@
       "onboard_time": 1701657212,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157582,
+      "num": 157582,
+      "word": "原来发疯真的不分年龄",
+      "onboard_time": 1701657815,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 156165,
@@ -777,6 +873,14 @@
       "onboard_time": 1701601773,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135690,
+      "num": 135690,
+      "word": "刘诗诗 一姐今天不1了",
+      "onboard_time": 1701659919,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 135313,
@@ -1059,6 +1163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 26498,
+      "num": 1741782,
+      "word": "穿越机视角瞰巍峨古长城",
+      "onboard_time": 1701659494,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26024,
       "num": 26024,
       "word": "肚子上的肥肉如何拯救",
@@ -1094,6 +1206,9 @@
   "hotgov_list": [
     {
       "word": "#习近平向首届良渚论坛致贺信#"
+    },
+    {
+      "word": "#上海要聚焦建设五个中心重要使命#"
     }
   ]
 }
