@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701682469080,
+  "endTime": 1701685224929,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1211927,
+      "num": 1211927,
+      "word": "QQ音乐会员涨价",
+      "onboard_time": 1701682776,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1211159,
       "num": 1211159,
       "word": "一周不洗脸为什么皮肤变好了",
@@ -371,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1041538,
+      "num": 943755,
+      "word": "黄雅莉 以后要做三个人的饭了",
+      "onboard_time": 1701682415,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1033250,
       "num": 1033250,
       "word": "奥司他韦医院定价仅需20元",
@@ -385,6 +401,14 @@
       "onboard_time": 1701597452,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1022797,
+      "num": 1022797,
+      "word": "孙俪邓超曾在孩子面前抱头痛哭",
+      "onboard_time": 1701681699,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1019091,
@@ -779,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 567498,
+      "num": 1581585,
+      "word": "25岁宝妈两次高考上岸做到全班第一",
+      "onboard_time": 1701683494,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562676,
       "num": 510967,
       "word": "GQ两分半拍完穿普拉达的女王",
@@ -857,14 +889,6 @@
       "onboard_time": 1701582152,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 534008,
-      "num": 254593,
-      "word": "孙俪邓超曾在孩子面前抱头痛哭",
-      "onboard_time": 1701681699,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 533985,
@@ -1531,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342349,
+      "num": 342349,
+      "word": "麦田农夫 每个音都特别准就是假唱",
+      "onboard_time": 1701684454,
+      "rank": 18,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 341233,
       "num": 245660,
       "word": "龙行龘龘",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1701672873,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 317709,
+      "num": 306281,
+      "word": "P一次胸肌加1000",
+      "onboard_time": 1701683017,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 316580,
@@ -2004,7 +2044,7 @@
     },
     {
       "raw_hot": 284291,
-      "num": 284291,
+      "num": 1257882,
       "word": "解清帅跟妈妈认亲戚收获满把红包",
       "onboard_time": 1701673056,
       "rank": 25,
@@ -2033,6 +2073,14 @@
       "onboard_time": 1701568169,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279491,
+      "num": 279491,
+      "word": "一闪一闪亮星星 预售",
+      "onboard_time": 1701684157,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 278406,
@@ -2081,6 +2129,14 @@
       "onboard_time": 1701680318,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 275223,
+      "num": 275223,
+      "word": "刘诗诗 公主抱",
+      "onboard_time": 1701682896,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 275164,
@@ -2275,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242084,
+      "num": 1222140,
+      "word": "董宇辉说我跋涉了很久才到这里",
+      "onboard_time": 1701683436,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238001,
       "num": 238001,
       "word": "薛之谦 喂鱼送戒指",
@@ -2395,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228986,
+      "num": 216192,
+      "word": "青春环游记5嘉宾",
+      "onboard_time": 1701683494,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228262,
       "num": 228262,
       "word": "汗流浃背了",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1701587133,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225548,
+      "num": 225548,
+      "word": "哈尔滨大雪人",
+      "onboard_time": 1701683797,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 225173,
@@ -2739,6 +2819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203086,
+      "num": 203086,
+      "word": "圆满组合开门红",
+      "onboard_time": 1701684396,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200963,
       "num": 200963,
       "word": "阿姨的毛肚还没上车",
@@ -2979,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192422,
+      "num": 192422,
+      "word": "玲花还是这么飒 曾毅也做了医美",
+      "onboard_time": 1701684995,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191928,
       "num": 191928,
       "word": "东航回应航班高空故障紧急备降厦门",
@@ -3033,14 +3129,6 @@
       "onboard_time": 1701564807,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190738,
-      "num": 190738,
-      "word": "黄雅莉 以后要做三个人的饭了",
-      "onboard_time": 1701682415,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 190666,
@@ -3121,6 +3209,14 @@
       "onboard_time": 1701610121,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183833,
+      "num": 183833,
+      "word": "在超市拍到了尼斯湖水怪",
+      "onboard_time": 1701683857,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 183485,
@@ -3801,6 +3897,14 @@
       "onboard_time": 1701576690,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138508,
+      "num": 175122,
+      "word": "张元英同人 成为人类",
+      "onboard_time": 1701685174,
+      "rank": 48,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 138083,
