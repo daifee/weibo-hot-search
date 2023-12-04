@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/04 00:20:47 ~ 2023/12/04 12:35:31
+本榜单时间：2023/12/04 00:20:47 ~ 2023/12/04 13:17:20
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B0%86%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
-五月天演唱会将全程直播（热度：3730882）
+五月天演唱会将全程直播（热度：4228783）
 </a>
 </li>
 
@@ -53,6 +53,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%20%E6%B3%B0%E5%81%87%23" target="weibo">
 瑞幸 泰假（热度：1908643）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E8%A6%81%E6%B1%82%E9%85%8D%E5%90%88%E8%B0%83%E6%9F%A5%23" target="weibo">
+五月天演唱会主办方被要求配合调查（热度：1802723）
 </a>
 </li>
 
@@ -159,8 +165,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%A4%8F%20%E6%9E%97%E4%BF%8A%E6%9D%B0%23" target="weibo">
+胡夏 林俊杰（热度：668565）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E6%8D%A1%E5%88%B0%E6%89%8B%E6%9C%BA%E7%94%A8%E5%85%8D%E5%AF%86%E6%94%AF%E4%BB%98%E5%88%B7%E5%85%89%E4%BD%99%E9%A2%9D%23" target="weibo">
 大妈捡到手机用免密支付刷光余额（热度：635817）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%88%B1%E8%B1%86%E5%AE%8C%E7%88%86%E9%9F%A9%E5%9B%BD%E7%94%B7%E8%BF%90%E5%8A%A8%E5%91%98%23" target="weibo">
+女爱豆完爆韩国男运动员（热度：625796）
 </a>
 </li>
 
@@ -173,6 +191,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E4%B8%89%E5%80%8D%E5%A4%A7%E7%9C%BC%E5%A6%86%23" target="weibo">
 痞幼三倍大眼妆（热度：586050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4%23" target="weibo">
+140斤女生减肥1年反胖50斤（热度：544208）
 </a>
 </li>
 
@@ -191,12 +215,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%8B%8D%E6%91%84%E4%B9%8C%E5%86%9B%E4%BD%9C%E6%88%98%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
 中国男子拍摄乌军作战被判刑（热度：524833）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%87%8F%E8%82%A51%E5%B9%B4%E5%8F%8D%E8%83%9650%E6%96%A4%23" target="weibo">
-140斤女生减肥1年反胖50斤（热度：520053）
 </a>
 </li>
 
@@ -255,12 +273,6 @@ GQ出发图主题 发疯（热度：457907）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%88%B1%E8%B1%86%E5%AE%8C%E7%88%86%E9%9F%A9%E5%9B%BD%E7%94%B7%E8%BF%90%E5%8A%A8%E5%91%98%23" target="weibo">
-女爱豆完爆韩国男运动员（热度：451862）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%E4%B8%BA%E5%AE%B6%E9%95%BF%E5%BC%80%E9%80%9A%E7%A6%81%E6%AD%A2%E5%85%85%E5%80%BC%E5%8A%9F%E8%83%BD%23" target="weibo">
 网易游戏为家长开通禁止充值功能（热度：438599）
 </a>
@@ -315,6 +327,12 @@ GQ全阵容（热度：420829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BE%E6%8A%A5%E8%80%85%E7%A7%B0%E4%BA%94%E6%9C%88%E5%A4%A9%E7%B2%89%E4%B8%9D%E8%AF%84%E8%AE%BA%E5%BE%88%E5%8F%AF%E7%AC%91%23" target="weibo">
+举报者称五月天粉丝评论很可笑（热度：402697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%AD%89%E4%BA%8611%E5%B9%B4%E7%BB%88%E4%BA%8E%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E6%88%BF%E9%97%B4%23" target="weibo">
 小女孩等了11年终于有自己的房间（热度：399819）
 </a>
@@ -329,6 +347,12 @@ GQ全阵容（热度：420829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E9%A6%96%E9%83%A8%E6%A0%A1%E5%9B%AD%E5%89%A7%E7%94%B7%E4%B8%BB%23" target="weibo">
 张若昀首部校园剧男主（热度：386211）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%86%E7%BB%91%E5%A5%B3%E5%8F%8B%E8%8E%B7%E5%88%917%E4%B8%AA%E6%9C%88%23" target="weibo">
+男子捆绑女友获刑7个月（热度：386147）
 </a>
 </li>
 
@@ -371,6 +395,12 @@ GQ全阵容（热度：420829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GQ%E5%8E%8B%E8%BD%B4%E5%AE%98%E5%AE%A3%E6%9D%A8%E5%B9%82%23" target="weibo">
 GQ压轴官宣杨幂（热度：339822）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E9%81%87%E5%81%87%E5%94%B1%E5%8F%AF%E8%8E%B73%E5%80%8D%E7%A5%A8%E4%BB%B7%E8%B5%94%E5%81%BF%23" target="weibo">
+观众遇假唱可获3倍票价赔偿（热度：322144）
 </a>
 </li>
 
@@ -537,6 +567,12 @@ GQ压轴官宣杨幂（热度：339822）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E7%BB%93%E5%B1%80%20HE%23" target="weibo">
+一念关山结局 HE（热度：233051）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%20%E7%94%B5%E8%AF%9D%23" target="weibo">
 恋与制作人 电话（热度：232246）
 </a>
@@ -545,6 +581,12 @@ GQ压轴官宣杨幂（热度：339822）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%AB%E5%84%BF%E6%9D%8E%E5%90%8C%E5%85%89%23" target="weibo">
 鹫儿李同光（热度：231574）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5%E5%B7%B2%E8%8E%B7%E7%8B%AC%E7%AB%8B%E9%80%A0%E8%BD%A6%E8%B5%84%E8%B4%A8%23" target="weibo">
+蔚来已获独立造车资质（热度：231312）
 </a>
 </li>
 
@@ -573,6 +615,12 @@ gidle舞台疑似抄袭BLACKPINK（热度：220688）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%A8%E5%B9%82%23" target="weibo">
+酱园弄 杨幂（热度：218765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%BA%94%E8%AF%A5%E9%BC%93%E5%8A%B1%E8%80%8C%E4%B8%8D%E6%98%AF%E5%8E%BB%E8%A1%A8%E6%89%AC%E5%AD%A9%E5%AD%90%23" target="weibo">
 你应该鼓励而不是去表扬孩子（热度：218129）
 </a>
@@ -591,6 +639,12 @@ gidle舞台疑似抄袭BLACKPINK（热度：220688）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%86%23" target="weibo">
+一念关山豆瓣开分（热度：203759）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E7%8E%B0%E8%BA%AB%E5%8A%A9%E7%90%86%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
 旭旭宝宝现身助理直播间（热度：200185）
 </a>
@@ -605,6 +659,12 @@ gidle舞台疑似抄袭BLACKPINK（热度：220688）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%AB%E5%A8%81%E4%B8%8D%E4%BC%9A%E5%A4%8D%E6%B4%BB%E9%92%A2%E9%93%81%E4%BE%A0%23" target="weibo">
 漫威不会复活钢铁侠（热度：195271）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E5%88%B0%E4%B8%8D%E6%99%AE%E9%80%9A%E7%9A%84%E4%BA%BA%E7%94%9F%23" target="weibo">
+普通到不普通的人生（热度：194934）
 </a>
 </li>
 
@@ -665,12 +725,6 @@ gidle舞台疑似抄袭BLACKPINK（热度：220688）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E9%9B%B6%E4%B8%8B%E4%BA%8C%E5%8D%81%E5%BA%A6%E5%85%89%E8%85%BF%E7%9B%B4%E6%92%AD%23" target="weibo">
 杨紫 零下二十度光腿直播（热度：171405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%86%E7%BB%91%E5%A5%B3%E5%8F%8B%E8%8E%B7%E5%88%917%E4%B8%AA%E6%9C%88%23" target="weibo">
-男子捆绑女友获刑7个月（热度：171398）
 </a>
 </li>
 
@@ -755,6 +809,18 @@ ITZY 回归（热度：160544）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84%E7%83%9F%E8%8A%B1%E7%83%AB%E5%90%97%23" target="weibo">
 这就是传说中的烟花烫吗（热度：151950）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E8%A2%AB%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%B2%A1%E6%94%B6%E5%90%8E%23" target="weibo">
+当电话手表被班主任没收后（热度：148525）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E7%99%BD%E5%A4%B4%E5%8F%91%E6%8F%90%E5%89%8D%E5%87%BA%E7%8E%B0%23" target="weibo">
+熬夜可能导致白头发提前出现（热度：148406）
 </a>
 </li>
 

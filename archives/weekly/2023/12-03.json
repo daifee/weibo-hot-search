@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701664531448,
+  "endTime": 1701667040730,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -67,8 +67,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 3730882,
-      "num": 3730882,
+      "raw_hot": 4228783,
+      "num": 4228783,
       "word": "五月天演唱会将全程直播",
       "onboard_time": 1701662622,
       "rank": 10,
@@ -153,6 +153,14 @@
       "onboard_time": 1701602732,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1802723,
+      "num": 1802723,
+      "word": "五月天演唱会主办方被要求配合调查",
+      "onboard_time": 1701664842,
+      "rank": 4,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1732098,
@@ -539,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668565,
+      "num": 622726,
+      "word": "胡夏 林俊杰",
+      "onboard_time": 1701665147,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 652525,
       "num": 652525,
       "word": "赵露思 小红书广告",
@@ -569,6 +585,14 @@
       "onboard_time": 1701593672,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 625796,
+      "num": 625796,
+      "word": "女爱豆完爆韩国男运动员",
+      "onboard_time": 1701664002,
+      "rank": 18,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 622662,
@@ -667,6 +691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 544208,
+      "num": 426866,
+      "word": "140斤女生减肥1年反胖50斤",
+      "onboard_time": 1701663283,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 539985,
       "num": 539985,
       "word": "冯琳 主持人大赛",
@@ -713,14 +745,6 @@
       "onboard_time": 1701650315,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 520053,
-      "num": 426866,
-      "word": "140斤女生减肥1年反胖50斤",
-      "onboard_time": 1701663283,
-      "rank": 20,
-      "category": "运动健身"
     },
     {
       "raw_hot": 519135,
@@ -881,14 +905,6 @@
       "onboard_time": 1701663165,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451862,
-      "num": 451862,
-      "word": "女爱豆完爆韩国男运动员",
-      "onboard_time": 1701664002,
-      "rank": 18,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 450395,
@@ -1059,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402697,
+      "num": 402697,
+      "word": "举报者称五月天粉丝评论很可笑",
+      "onboard_time": 1701665265,
+      "rank": 18,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 399819,
       "num": 409131,
       "word": "小女孩等了11年终于有自己的房间",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1701662502,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386147,
+      "num": 386147,
+      "word": "男子捆绑女友获刑7个月",
+      "onboard_time": 1701664426,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384983,
@@ -1297,6 +1329,14 @@
       "onboard_time": 1701530374,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322144,
+      "num": 322144,
+      "word": "观众遇假唱可获3倍票价赔偿",
+      "onboard_time": 1701665083,
+      "rank": 23,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 321100,
@@ -1891,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233051,
+      "num": 220081,
+      "word": "一念关山结局 HE",
+      "onboard_time": 1701666638,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232246,
       "num": 232246,
       "word": "恋与制作人 电话",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1701619174,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231312,
+      "num": 231312,
+      "word": "蔚来已获独立造车资质",
+      "onboard_time": 1701665083,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 229847,
@@ -2032,6 +2088,14 @@
       "word": "陈伟霆 只要我不尴尬尴尬的就是张家辉",
       "onboard_time": 1701601593,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 218765,
+      "num": 205596,
+      "word": "酱园弄 杨幂",
+      "onboard_time": 1701666938,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -2195,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203759,
+      "num": 203759,
+      "word": "一念关山豆瓣开分",
+      "onboard_time": 1701666938,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203750,
       "num": 203750,
       "word": "WB对战Hero",
@@ -2353,6 +2425,14 @@
       "onboard_time": 1701656131,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194934,
+      "num": 194934,
+      "word": "普通到不普通的人生",
+      "onboard_time": 1701665083,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 194649,
@@ -2641,14 +2721,6 @@
       "onboard_time": 1701587672,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171398,
-      "num": 171398,
-      "word": "男子捆绑女友获刑7个月",
-      "onboard_time": 1701664426,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171089,
@@ -3009,6 +3081,22 @@
       "onboard_time": 1701591994,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148525,
+      "num": 148525,
+      "word": "当电话手表被班主任没收后",
+      "onboard_time": 1701665440,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148406,
+      "num": 148406,
+      "word": "熬夜可能导致白头发提前出现",
+      "onboard_time": 1701666638,
+      "rank": 49,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 147971,
@@ -3852,7 +3940,7 @@
     },
     {
       "raw_hot": 78624,
-      "num": 2713272,
+      "num": 2747179,
       "word": "穿越机视角瞰巍峨古长城",
       "onboard_time": 1701659494,
       "rank": 2,

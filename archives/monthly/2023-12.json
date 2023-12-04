@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701664531448,
+  "endTime": 1701667040730,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4228783,
+      "num": 4228783,
+      "word": "五月天演唱会将全程直播",
+      "onboard_time": 1701662622,
+      "rank": 10,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 3822068,
       "num": 3822068,
       "word": "难哄 白敬亭",
       "onboard_time": 1701523234,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 3730882,
-      "num": 3730882,
-      "word": "五月天演唱会将全程直播",
-      "onboard_time": 1701662622,
-      "rank": 10,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 2815288,
@@ -265,6 +265,14 @@
       "onboard_time": 1701416914,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1802723,
+      "num": 1802723,
+      "word": "五月天演唱会主办方被要求配合调查",
+      "onboard_time": 1701664842,
+      "rank": 4,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1767780,
@@ -1155,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668565,
+      "num": 622726,
+      "word": "胡夏 林俊杰",
+      "onboard_time": 1701665147,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 655147,
       "num": 655147,
       "word": "王嘉尔北京演唱会取消",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1701423394,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 625796,
+      "num": 625796,
+      "word": "女爱豆完爆韩国男运动员",
+      "onboard_time": 1701664002,
+      "rank": 18,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 622662,
@@ -1475,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 544208,
+      "num": 426866,
+      "word": "140斤女生减肥1年反胖50斤",
+      "onboard_time": 1701663283,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 539985,
       "num": 539985,
       "word": "冯琳 主持人大赛",
@@ -1609,14 +1641,6 @@
       "onboard_time": 1701472460,
       "rank": 30,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 520053,
-      "num": 426866,
-      "word": "140斤女生减肥1年反胖50斤",
-      "onboard_time": 1701663283,
-      "rank": 20,
-      "category": "运动健身"
     },
     {
       "raw_hot": 519135,
@@ -1937,14 +1961,6 @@
       "onboard_time": 1701495873,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451862,
-      "num": 451862,
-      "word": "女爱豆完爆韩国男运动员",
-      "onboard_time": 1701664002,
-      "rank": 18,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 451756,
@@ -2363,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402697,
+      "num": 402697,
+      "word": "举报者称五月天粉丝评论很可笑",
+      "onboard_time": 1701665265,
+      "rank": 18,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 400577,
       "num": 524612,
       "word": "女子产下双胞胎后称小儿子去向不明",
@@ -2465,6 +2489,14 @@
       "onboard_time": 1701662502,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386147,
+      "num": 386147,
+      "word": "男子捆绑女友获刑7个月",
+      "onboard_time": 1701664426,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385209,
@@ -3057,6 +3089,14 @@
       "onboard_time": 1701477814,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322144,
+      "num": 322144,
+      "word": "观众遇假唱可获3倍票价赔偿",
+      "onboard_time": 1701665083,
+      "rank": 23,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 321125,
@@ -4443,6 +4483,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 233051,
+      "num": 220081,
+      "word": "一念关山结局 HE",
+      "onboard_time": 1701666638,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232699,
       "num": 721547,
       "word": "东北小学连续40年浇冰场教学生滑冰",
@@ -4529,6 +4577,14 @@
       "onboard_time": 1701495091,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231312,
+      "num": 231312,
+      "word": "蔚来已获独立造车资质",
+      "onboard_time": 1701665083,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 231190,
@@ -4760,6 +4816,14 @@
       "word": "陈伟霆 只要我不尴尬尴尬的就是张家辉",
       "onboard_time": 1701601593,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 218765,
+      "num": 205596,
+      "word": "酱园弄 杨幂",
+      "onboard_time": 1701666938,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -5259,6 +5323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203759,
+      "num": 203759,
+      "word": "一念关山豆瓣开分",
+      "onboard_time": 1701666938,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203750,
       "num": 203750,
       "word": "WB对战Hero",
@@ -5577,6 +5649,14 @@
       "onboard_time": 1701406899,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194934,
+      "num": 194934,
+      "word": "普通到不普通的人生",
+      "onboard_time": 1701665083,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 194915,
@@ -6377,14 +6457,6 @@
       "onboard_time": 1701587672,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171398,
-      "num": 171398,
-      "word": "男子捆绑女友获刑7个月",
-      "onboard_time": 1701664426,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171089,
@@ -7209,6 +7281,22 @@
       "onboard_time": 1701591994,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148525,
+      "num": 148525,
+      "word": "当电话手表被班主任没收后",
+      "onboard_time": 1701665440,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148406,
+      "num": 148406,
+      "word": "熬夜可能导致白头发提前出现",
+      "onboard_time": 1701666638,
+      "rank": 49,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 148232,
@@ -8772,7 +8860,7 @@
     },
     {
       "raw_hot": 78624,
-      "num": 2713272,
+      "num": 2747179,
       "word": "穿越机视角瞰巍峨古长城",
       "onboard_time": 1701659494,
       "rank": 2,
