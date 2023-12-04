@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701722084950,
+  "endTime": 1701724539392,
   "band_list": [
     {
       "raw_hot": 1166623,
@@ -505,6 +505,14 @@
       "onboard_time": 1701715274,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11389,
+      "num": 11389,
+      "word": "老师收集家长工作视频课堂播放引热议",
+      "onboard_time": 1701724093,
+      "rank": 48,
+      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [
