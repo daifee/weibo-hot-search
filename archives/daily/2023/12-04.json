@@ -1,12 +1,20 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701652616569,
+  "endTime": 1701653904426,
   "band_list": [
     {
       "raw_hot": 5380016,
       "num": 5380016,
       "word": "相信音乐 五月天邀你见证现场",
       "onboard_time": 1701617915,
+      "rank": 0,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 5039872,
+      "num": 5039872,
+      "word": "举报者称五月天下场直播是混淆视听",
+      "onboard_time": 1701652115,
       "rank": 0,
       "category": "演出,社会新闻"
     },
@@ -19,20 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2173950,
-      "num": 2173950,
-      "word": "举报者称五月天下场直播是混淆视听",
-      "onboard_time": 1701652115,
-      "rank": 0,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 1528919,
       "num": 1528919,
       "word": "长期缺觉容易诱发这5种疾病",
       "onboard_time": 1701619056,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1442205,
+      "num": 1442205,
+      "word": "瑞幸 泰假",
+      "onboard_time": 1701651759,
+      "rank": 10,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1403054,
@@ -91,14 +99,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 648697,
-      "num": 648697,
-      "word": "瑞幸 泰假",
-      "onboard_time": 1701651759,
-      "rank": 10,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 635817,
       "num": 635817,
       "word": "大妈捡到手机用免密支付刷光余额",
@@ -131,20 +131,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 513209,
-      "num": 513209,
-      "word": "白银价格飙涨",
-      "onboard_time": 1701651277,
-      "rank": 13,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 494855,
-      "num": 494855,
+      "raw_hot": 524833,
+      "num": 631893,
       "word": "中国男子拍摄乌军作战被判刑",
       "onboard_time": 1701650315,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 519135,
+      "num": 519135,
+      "word": "白银价格飙涨",
+      "onboard_time": 1701651277,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 481934,
@@ -161,6 +161,14 @@
       "onboard_time": 1701651034,
       "rank": 17,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 478813,
+      "num": 478813,
+      "word": "吴露可逃 星光大赏",
+      "onboard_time": 1701651696,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459015,
@@ -211,14 +219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 365727,
-      "num": 365727,
-      "word": "吴露可逃 星光大赏",
-      "onboard_time": 1701651696,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 347309,
       "num": 347309,
       "word": "五月天如假唱最高或被罚10万",
@@ -243,6 +243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 316480,
+      "num": 316480,
+      "word": "接吻会不会传染幽门螺杆菌",
+      "onboard_time": 1701651396,
+      "rank": 24,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 315481,
       "num": 315481,
       "word": "白桃星座",
@@ -259,20 +267,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310542,
-      "num": 310542,
-      "word": "接吻会不会传染幽门螺杆菌",
-      "onboard_time": 1701651396,
-      "rank": 24,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 309614,
       "num": 251963,
       "word": "我和纸片男友的第六年",
       "onboard_time": 1701618935,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306568,
+      "num": 306568,
+      "word": "比亚迪悬赏500万打击恶意抹黑",
+      "onboard_time": 1701652355,
+      "rank": 38,
+      "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 305687,
+      "num": 305687,
+      "word": "喉咙中间的小舌头有什么用",
+      "onboard_time": 1701645986,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 302130,
@@ -289,6 +305,14 @@
       "onboard_time": 1701651159,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 288522,
+      "num": 288522,
+      "word": "女子全网寻找停放4年的僵尸车主人",
+      "onboard_time": 1701653255,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277749,
@@ -323,28 +347,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252743,
-      "num": 252743,
-      "word": "上海12345回应五月天被质疑假唱",
-      "onboard_time": 1701607837,
-      "rank": 17,
-      "category": "演出,社会新闻"
+      "raw_hot": 257143,
+      "num": 257143,
+      "word": "手头紧的年轻人正在蹭老消费",
+      "onboard_time": 1701652534,
+      "rank": 48,
+      "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 250634,
-      "num": 250634,
+      "raw_hot": 256140,
+      "num": 256140,
       "word": "苑琼丹谈佘诗曼人品",
       "onboard_time": 1701651457,
       "rank": 32,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 240580,
-      "num": 240580,
-      "word": "喉咙中间的小舌头有什么用",
-      "onboard_time": 1701645986,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 252743,
+      "num": 252743,
+      "word": "上海12345回应五月天被质疑假唱",
+      "onboard_time": 1701607837,
+      "rank": 17,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 238556,
@@ -387,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218129,
+      "num": 218129,
+      "word": "你应该鼓励而不是去表扬孩子",
+      "onboard_time": 1701653013,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210827,
       "num": 188800,
       "word": "折腰",
@@ -401,6 +433,14 @@
       "onboard_time": 1701613603,
       "rank": 23,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 198917,
+      "num": 198917,
+      "word": "两性冷知识 荷尔蒙",
+      "onboard_time": 1701653492,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 197227,
@@ -443,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183485,
+      "num": 183485,
+      "word": "东北i人和i人",
+      "onboard_time": 1701653133,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182465,
       "num": 135944,
       "word": "严敏 无限流综艺",
@@ -459,20 +507,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 173429,
-      "num": 173429,
-      "word": "比亚迪悬赏500万打击恶意抹黑",
-      "onboard_time": 1701652355,
-      "rank": 38,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 171405,
       "num": 135342,
       "word": "杨紫 零下二十度光腿直播",
       "onboard_time": 1701596073,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168627,
+      "num": 168627,
+      "word": "金起范在眉毛里填上了SHINee",
+      "onboard_time": 1701652772,
+      "rank": 43,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 166041,
@@ -603,12 +651,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 135016,
-      "num": 135016,
-      "word": "手头紧的年轻人正在蹭老消费",
-      "onboard_time": 1701652534,
+      "raw_hot": 134998,
+      "num": 129182,
+      "word": "SHINee回来了",
+      "onboard_time": 1701652714,
       "rank": 48,
-      "category": "财经,社会新闻"
+      "category": "音乐"
     },
     {
       "raw_hot": 134674,
@@ -641,6 +689,14 @@
       "onboard_time": 1701616479,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127606,
+      "num": 127606,
+      "word": "赵琦君 Happy Wife Happy Life",
+      "onboard_time": 1701653853,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 127453,
