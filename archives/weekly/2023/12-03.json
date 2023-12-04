@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701689632097,
+  "endTime": 1701693217934,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1697657,
+      "num": 1697657,
+      "word": "一人花近10万买彩票中2亿",
+      "onboard_time": 1701687697,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1697481,
       "num": 1697481,
       "word": "陈绮贞 五月天",
@@ -267,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1521990,
+      "num": 1521990,
+      "word": "林俊杰肖战合照",
+      "onboard_time": 1701691475,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1475037,
       "num": 1475037,
       "word": "五月天 假唱派和真唱派",
@@ -297,6 +313,14 @@
       "onboard_time": 1701682776,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1404097,
+      "num": 1404097,
+      "word": "虞书欣 戴森",
+      "onboard_time": 1701689015,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1396196,
@@ -531,14 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 821596,
-      "num": 821596,
-      "word": "一人花近10万买彩票中2亿",
-      "onboard_time": 1701687697,
-      "rank": 17,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 820879,
       "num": 820879,
       "word": "姥姥去世一周后妈妈发的短信",
@@ -577,14 +593,6 @@
       "onboard_time": 1701560301,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756077,
-      "num": 756077,
-      "word": "虞书欣 戴森",
-      "onboard_time": 1701689015,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 755477,
@@ -1235,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444565,
+      "num": 1009884,
+      "word": "父亲看望产后的女儿瞬间被一把抱住",
+      "onboard_time": 1701686615,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442188,
       "num": 442188,
       "word": "一念关山豆瓣开分",
@@ -1339,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 425067,
+      "num": 425067,
+      "word": "TheShy上路对战Bin",
+      "onboard_time": 1701691718,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 422834,
       "num": 422834,
       "word": "男子体检突发心梗3分钟冲出10名医护",
@@ -1379,20 +1403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 416231,
+      "num": 416231,
+      "word": "河南一家长在班级群发不雅视频",
+      "onboard_time": 1701692322,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 414907,
       "num": 414907,
       "word": "LWX林炜翔",
       "onboard_time": 1701588153,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 414276,
-      "num": 1009884,
-      "word": "父亲看望产后的女儿瞬间被一把抱住",
-      "onboard_time": 1701686615,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413999,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1701608082,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380113,
+      "num": 330191,
+      "word": "一代香港玉女40岁了",
+      "onboard_time": 1701690277,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 378873,
@@ -1745,6 +1777,14 @@
       "onboard_time": 1701590558,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330106,
+      "num": 330106,
+      "word": "GQ主编 光之门美到我自己了",
+      "onboard_time": 1701691055,
+      "rank": 22,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 329402,
@@ -2067,6 +2107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 296931,
+      "num": 290211,
+      "word": "王嘉尔补偿力度",
+      "onboard_time": 1701689376,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 295731,
       "num": 295731,
       "word": "詹姆斯360度上篮",
@@ -2241,6 +2289,14 @@
       "onboard_time": 1701681337,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280711,
+      "num": 280711,
+      "word": "BLACKPINK当年差点失去口哨",
+      "onboard_time": 1701692438,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 280112,
@@ -2435,6 +2491,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 253861,
+      "num": 291069,
+      "word": "00后也熬到需要攒钱过年的年龄了",
+      "onboard_time": 1701692380,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252631,
       "num": 252631,
       "word": "佘诗曼李施嬅双人大片",
@@ -2497,14 +2561,6 @@
       "onboard_time": 1701514172,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245262,
-      "num": 238537,
-      "word": "王嘉尔补偿力度",
-      "onboard_time": 1701689376,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 243786,
@@ -2675,6 +2731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 227758,
+      "num": 227758,
+      "word": "王彦霖 朱丹你只是话筒",
+      "onboard_time": 1701692976,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227577,
       "num": 227577,
       "word": "客车司机心脏骤停万幸一车乘客都是医护",
@@ -2721,6 +2785,14 @@
       "onboard_time": 1701677435,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223388,
+      "num": 223388,
+      "word": "阴阳师 玉取预览",
+      "onboard_time": 1701691416,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 223190,
@@ -2843,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215927,
+      "num": 281521,
+      "word": "不建议小朋友骑马上学",
+      "onboard_time": 1701690577,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215033,
       "num": 215033,
       "word": "京考 染色体",
@@ -2873,6 +2953,14 @@
       "onboard_time": 1701588452,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212028,
+      "num": 212028,
+      "word": "女托尼当初就是这么退出市场的",
+      "onboard_time": 1701690757,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 210560,
@@ -3539,6 +3627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169502,
+      "num": 169502,
+      "word": "面霜可以当眼霜用吗",
+      "onboard_time": 1701692140,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 169439,
       "num": 169439,
       "word": "异木棉",
@@ -3649,6 +3745,14 @@
       "onboard_time": 1701603754,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165550,
+      "num": 165550,
+      "word": "鬼灯的冷彻",
+      "onboard_time": 1701689618,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 164296,
@@ -3931,14 +4035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147773,
-      "num": 163325,
-      "word": "鬼灯的冷彻",
-      "onboard_time": 1701689618,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 146977,
       "num": 146977,
       "word": "杨绍辉打破中国马拉松纪录",
@@ -4193,6 +4289,14 @@
       "onboard_time": 1701570869,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134916,
+      "num": 162360,
+      "word": "孙颖莎感谢球迷到场加油",
+      "onboard_time": 1701691296,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134729,
@@ -4779,6 +4883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83511,
+      "num": 1717977,
+      "word": "流感的病程是怎样变化的",
+      "onboard_time": 1701691833,
+      "rank": 2,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 80812,
       "num": 80812,
       "word": "儿科门诊可增开午间夜间周末门诊",
@@ -5120,6 +5232,9 @@
     },
     {
       "word": "#习近平向2023从都国际论坛致贺信#"
+    },
+    {
+      "word": "#良法善治#"
     }
   ]
 }
