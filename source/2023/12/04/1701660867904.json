@@ -1,0 +1,410 @@
+{
+  "runTime": 1701660867904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6059283,
+        "num": 6059283,
+        "word": "中演协回应五月天被质疑假唱",
+        "onboard_time": 1701659735,
+        "rank": 0,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 2651857,
+        "num": 2651857,
+        "word": "林俊杰 下次请不要来我的演唱会",
+        "onboard_time": 1701659014,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53842,
+        "num": 1956299,
+        "word": "穿越机视角瞰巍峨古长城",
+        "onboard_time": 1701659494,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1527209,
+        "num": 1527209,
+        "word": "黄金价格",
+        "onboard_time": 1701656252,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1279521,
+        "num": 1279521,
+        "word": "举报者称五月天下场直播是混淆视听",
+        "onboard_time": 1701652115,
+        "rank": 4,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 900730,
+        "num": 900730,
+        "word": "刘诗诗 一姐今天不1了",
+        "onboard_time": 1701659919,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 866523,
+        "num": 866523,
+        "word": "瑞幸 泰假",
+        "onboard_time": 1701651759,
+        "rank": 6,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 776516,
+        "num": 776516,
+        "word": "腾讯会员 没了",
+        "onboard_time": 1701607961,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 734746,
+        "num": 734746,
+        "word": "周一围说朱丹的描述有误导倾向",
+        "onboard_time": 1701655592,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 716280,
+        "num": 716280,
+        "word": "科目三 韩国",
+        "onboard_time": 1701657995,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 826721,
+        "num": 702998,
+        "word": "教师长期强奸5名女学生被执行死刑",
+        "onboard_time": 1701618334,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756332,
+        "num": 666146,
+        "word": "刘诗诗刘宇宁 史密斯夫妇",
+        "onboard_time": 1701658233,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568703,
+        "num": 568703,
+        "word": "奥司他韦医院定价仅需20元",
+        "onboard_time": 1701654995,
+        "rank": 12,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 552891,
+        "num": 552891,
+        "word": "我就说甄嬛传删减太多了",
+        "onboard_time": 1701658173,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539154,
+        "num": 539154,
+        "word": "相信音乐 五月天邀你见证现场",
+        "onboard_time": 1701617915,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 526672,
+        "num": 526672,
+        "word": "汪文斌分享迪丽热巴新疆舞",
+        "onboard_time": 1701660456,
+        "rank": 15,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 525528,
+        "num": 525528,
+        "word": "大侦探9 首案阵容",
+        "onboard_time": 1701655174,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438599,
+        "num": 438599,
+        "word": "网易游戏为家长开通禁止充值功能",
+        "onboard_time": 1701659919,
+        "rank": 17,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 431428,
+        "num": 431428,
+        "word": "这5个部位疼痛可能是心梗前兆",
+        "onboard_time": 1701657093,
+        "rank": 18,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 299243,
+        "num": 409131,
+        "word": "小女孩等了11年终于有自己的房间",
+        "onboard_time": 1701654874,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402224,
+        "num": 402224,
+        "word": "42岁女子20天经历断崖式衰老",
+        "onboard_time": 1701657995,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392554,
+        "num": 392554,
+        "word": "五月天经纪方多次挂断媒体电话",
+        "onboard_time": 1701612639,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 378873,
+        "num": 378873,
+        "word": "烤椰拿铁",
+        "onboard_time": 1701659796,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 339033,
+        "num": 339033,
+        "word": "博主再更新五月天真假唱鉴定视频",
+        "onboard_time": 1701616061,
+        "rank": 23,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 332400,
+        "num": 332400,
+        "word": "肖战鹅黄短袖皮衣",
+        "onboard_time": 1701656732,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 322606,
+        "num": 322606,
+        "word": "GQ全阵容",
+        "onboard_time": 1701657932,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 319314,
+        "num": 319314,
+        "word": "一念关山新浪扫楼",
+        "onboard_time": 1701657694,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315533,
+        "num": 315533,
+        "word": "文旅局回应五月天疑似假唱",
+        "onboard_time": 1701607961,
+        "rank": 27,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 299869,
+        "num": 299869,
+        "word": "TFBOYS十周年未公开彩排图",
+        "onboard_time": 1701649299,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222938,
+        "num": 269841,
+        "word": "中国男子拍摄乌军作战被判刑",
+        "onboard_time": 1701650315,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 259696,
+        "num": 259696,
+        "word": "年轻人毕业后都去了哪些城市",
+        "onboard_time": 1701658654,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217654,
+        "num": 217654,
+        "word": "女子全网寻找停放4年的僵尸车主人",
+        "onboard_time": 1701653255,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216686,
+        "num": 216686,
+        "word": "不是睡得晚才算熬夜",
+        "onboard_time": 1701655472,
+        "rank": 32,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 211888,
+        "num": 211888,
+        "word": "吴露可逃 星光大赏",
+        "onboard_time": 1701651696,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187301,
+        "num": 187301,
+        "word": "陈奕迅 第一次遇到开场前倒数的观众",
+        "onboard_time": 1701655293,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184694,
+        "num": 184694,
+        "word": "比亚迪悬赏500万打击恶意抹黑",
+        "onboard_time": 1701652355,
+        "rank": 35,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 181267,
+        "num": 181267,
+        "word": "补气血的顺序不能乱",
+        "onboard_time": 1701655413,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175591,
+        "num": 175591,
+        "word": "姥姥去世一周后妈妈发的短信",
+        "onboard_time": 1701621029,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167090,
+        "num": 167090,
+        "word": "GQ出发图主题 发疯",
+        "onboard_time": 1701648694,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165159,
+        "num": 165159,
+        "word": "穿卫衣就这样扎丸子头",
+        "onboard_time": 1701647550,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 158551,
+        "num": 158551,
+        "word": "大妈捡到手机用免密支付刷光余额",
+        "onboard_time": 1701612223,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153127,
+        "num": 153127,
+        "word": "两性冷知识 荷尔蒙",
+        "onboard_time": 1701653492,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151950,
+        "num": 151950,
+        "word": "这就是传说中的烟花烫吗",
+        "onboard_time": 1701660634,
+        "rank": 42,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 145127,
+        "num": 145127,
+        "word": "原来发疯真的不分年龄",
+        "onboard_time": 1701657815,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143569,
+        "num": 143569,
+        "word": "中国人不养闲神",
+        "onboard_time": 1701660574,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138757,
+        "num": 138757,
+        "word": "喉咙中间的小舌头有什么用",
+        "onboard_time": 1701645986,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133221,
+        "num": 133221,
+        "word": "漫威不会复活钢铁侠",
+        "onboard_time": 1701656131,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128962,
+        "num": 128962,
+        "word": "长期缺觉容易诱发这5种疾病",
+        "onboard_time": 1701619056,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128678,
+        "num": 128678,
+        "word": "五月天演唱会举办方称不方便回答",
+        "onboard_time": 1701651034,
+        "rank": 48,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 119690,
+        "num": 119690,
+        "word": "手头紧的年轻人正在蹭老消费",
+        "onboard_time": 1701652534,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向首届良渚论坛致贺信#"
+    }
+  }
+}
