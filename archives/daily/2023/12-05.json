@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701728242180,
+  "endTime": 1701729262577,
   "band_list": [
     {
       "raw_hot": 1166623,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135728,
+      "num": 135728,
+      "word": "周一围 朱丹不是讨好型人格",
+      "onboard_time": 1701728417,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135316,
       "num": 135316,
       "word": "父亲看望产后的女儿瞬间被一把抱住",
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78737,
+      "num": 78737,
+      "word": "老师收集家长工作视频课堂播放引热议",
+      "onboard_time": 1701724093,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 72745,
       "num": 133407,
       "word": "年轻人如何减轻熬夜脸",
@@ -459,14 +475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 42754,
-      "num": 42754,
-      "word": "老师收集家长工作视频课堂播放引热议",
-      "onboard_time": 1701724093,
-      "rank": 48,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 36367,
       "num": 36367,
       "word": "阶段性朋友",
@@ -507,36 +515,60 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21370,
-      "num": 21370,
-      "word": "促排穴位",
-      "onboard_time": 1701725714,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 29423,
+      "num": 25857,
+      "word": "张芷溪 卧底失败后",
+      "onboard_time": 1701727875,
+      "rank": 44,
+      "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 20711,
-      "num": 20711,
-      "word": "菲律宾又地震了",
-      "onboard_time": 1701715274,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18459,
-      "num": 19814,
+      "raw_hot": 29215,
+      "num": 29215,
       "word": "团队来40人团建",
       "onboard_time": 1701727515,
       "rank": 38,
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 16267,
-      "num": 19787,
-      "word": "张芷溪 卧底失败后",
-      "onboard_time": 1701727875,
-      "rank": 44,
-      "category": "艺人,读书作家"
+      "raw_hot": 28193,
+      "num": 24149,
+      "word": "张若昀 欠第二季",
+      "onboard_time": 1701729136,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24377,
+      "num": 24377,
+      "word": "促排穴位",
+      "onboard_time": 1701725714,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 20776,
+      "num": 23774,
+      "word": "请病假专用图",
+      "onboard_time": 1701728897,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 20711,
+      "num": 23765,
+      "word": "菲律宾又地震了",
+      "onboard_time": 1701715274,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19160,
+      "num": 23749,
+      "word": "腰痛拉伸方法",
+      "onboard_time": 1701726614,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 15622,
@@ -545,14 +577,6 @@
       "onboard_time": 1701726674,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 14596,
-      "num": 19767,
-      "word": "腰痛拉伸方法",
-      "onboard_time": 1701726614,
-      "rank": 48,
-      "category": "运动健身"
     }
   ],
   "hotgov_list": [
