@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701693217934,
+  "endTime": 1701694200697,
   "band_list": [
     {
       "raw_hot": 6546722,
@@ -107,8 +107,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 1697657,
-      "num": 1697657,
+      "raw_hot": 1762942,
+      "num": 1762942,
       "word": "一人花近10万买彩票中2亿",
       "onboard_time": 1701687697,
       "rank": 17,
@@ -345,6 +345,14 @@
       "onboard_time": 1701667418,
       "rank": 22,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 732394,
+      "num": 732394,
+      "word": "河南一家长在班级群发不雅视频",
+      "onboard_time": 1701692322,
+      "rank": 16,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 709235,
@@ -779,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 416231,
-      "num": 416231,
-      "word": "河南一家长在班级群发不雅视频",
-      "onboard_time": 1701692322,
-      "rank": 16,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 412179,
       "num": 412179,
       "word": "孙颖莎 正手",
@@ -835,6 +835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394844,
+      "num": 307982,
+      "word": "李同光 人设",
+      "onboard_time": 1701694058,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387664,
       "num": 387664,
       "word": "美商务部长呼吁阻止中国获得半导体关键技术",
@@ -857,6 +865,14 @@
       "onboard_time": 1701664426,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380939,
+      "num": 307802,
+      "word": "王彦霖 朱丹你只是话筒",
+      "onboard_time": 1701692976,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 380113,
@@ -945,6 +961,14 @@
       "onboard_time": 1701666638,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342366,
+      "num": 280711,
+      "word": "BLACKPINK当年差点失去口哨",
+      "onboard_time": 1701692438,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 340485,
@@ -1123,6 +1147,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 305843,
+      "num": 305843,
+      "word": "00后也熬到需要攒钱过年的年龄了",
+      "onboard_time": 1701692380,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305687,
       "num": 305687,
       "word": "喉咙中间的小舌头有什么用",
@@ -1251,14 +1283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280711,
-      "num": 280711,
-      "word": "BLACKPINK当年差点失去口哨",
-      "onboard_time": 1701692438,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 277749,
       "num": 277749,
       "word": "张晚意戏路比我二舅妈的棉裤都宽",
@@ -1355,20 +1379,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255373,
+      "num": 209487,
+      "word": "一念关山",
+      "onboard_time": 1701608082,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253865,
       "num": 253865,
       "word": "国内足金首饰金价达到625元一克",
       "onboard_time": 1701661361,
       "rank": 29,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 253861,
-      "num": 291069,
-      "word": "00后也熬到需要攒钱过年的年龄了",
-      "onboard_time": 1701692380,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 252743,
@@ -1491,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227758,
-      "num": 227758,
-      "word": "王彦霖 朱丹你只是话筒",
-      "onboard_time": 1701692976,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227577,
       "num": 227577,
       "word": "客车司机心脏骤停万幸一车乘客都是医护",
@@ -1521,6 +1537,14 @@
       "onboard_time": 1701683797,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 225088,
+      "num": 215932,
+      "word": "比12315还管用的维权方法",
+      "onboard_time": 1701693217,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223611,
@@ -1611,14 +1635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212130,
-      "num": 209487,
-      "word": "一念关山",
-      "onboard_time": 1701608082,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212028,
       "num": 212028,
       "word": "女托尼当初就是这么退出市场的",
@@ -1651,12 +1667,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206892,
+      "num": 206892,
+      "word": "设计师是从张译那里获得的灵感吗",
+      "onboard_time": 1701693756,
+      "rank": 37,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 204528,
       "num": 204528,
       "word": "科目三 文化输出",
       "onboard_time": 1701662924,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203777,
+      "num": 203777,
+      "word": "小满生活 婚姻的另一种可能",
+      "onboard_time": 1701693877,
+      "rank": 38,
+      "category": "情感,剧集"
     },
     {
       "raw_hot": 203209,
@@ -2107,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136310,
+      "num": 1781042,
+      "word": "流感的病程是怎样变化的",
+      "onboard_time": 1701691833,
+      "rank": 2,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135313,
       "num": 135313,
       "word": "杨鸣多个社交平台账号已取消认证",
@@ -2297,14 +2337,6 @@
       "onboard_time": 1701607780,
       "rank": 49,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 83511,
-      "num": 1717977,
-      "word": "流感的病程是怎样变化的",
-      "onboard_time": 1701691833,
-      "rank": 2,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 79344,
