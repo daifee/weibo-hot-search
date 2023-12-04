@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701696856920,
+  "endTime": 1701699452538,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -179,6 +179,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 2449111,
+      "num": 2449111,
+      "word": "刘若英 我爱五月天",
+      "onboard_time": 1701695436,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2325769,
       "num": 1550758,
       "word": "教师长期强奸5名女学生被执行死刑",
@@ -321,14 +329,6 @@
       "onboard_time": 1701664842,
       "rank": 4,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1773834,
-      "num": 1773834,
-      "word": "刘若英 我爱五月天",
-      "onboard_time": 1701695436,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 1767780,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1080011,
+      "num": 1080011,
+      "word": "快过年了 不要再买了",
+      "onboard_time": 1701696578,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1077931,
       "num": 1077931,
       "word": "女子输血感染艾滋10年后才发现",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1701417031,
       "rank": 4,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 782930,
+      "num": 782930,
+      "word": "五月天现场视频",
+      "onboard_time": 1701699101,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 781910,
@@ -1547,6 +1563,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 614797,
+      "num": 614797,
+      "word": "杨紫红色马面裙",
+      "onboard_time": 1701696875,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 609562,
       "num": 609562,
       "word": "博主向消协公开举报五月天假唱",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1701500192,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 601129,
+      "num": 457553,
+      "word": "GQ座位",
+      "onboard_time": 1701697000,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 598967,
@@ -2460,7 +2492,7 @@
     },
     {
       "raw_hot": 435377,
-      "num": 724281,
+      "num": 784132,
       "word": "比12315还管用的维权方法",
       "onboard_time": 1701693217,
       "rank": 32,
@@ -2811,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403464,
+      "num": 203589,
+      "word": "师徒线 好嗑",
+      "onboard_time": 1701698924,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402697,
       "num": 402697,
       "word": "举报者称五月天粉丝评论很可笑",
@@ -2857,6 +2897,14 @@
       "onboard_time": 1701501692,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393687,
+      "num": 393687,
+      "word": "妈妈去世动森成为我永远的痛",
+      "onboard_time": 1701696578,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 393540,
@@ -3547,6 +3595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333248,
+      "num": 216079,
+      "word": "哪些是乳腺癌高危人群",
+      "onboard_time": 1701696040,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 333005,
       "num": 333005,
       "word": "十个勤天 监工直播",
@@ -3641,6 +3697,14 @@
       "onboard_time": 1701665083,
       "rank": 23,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 321912,
+      "num": 200639,
+      "word": "曼昱你夸早了",
+      "onboard_time": 1701698323,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 321419,
@@ -4667,20 +4731,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268564,
+      "num": 200425,
+      "word": "医院暗号",
+      "onboard_time": 1701698498,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 268302,
       "num": 268302,
       "word": "刘宇宁连发18个好",
       "onboard_time": 1701647311,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267839,
-      "num": 175498,
-      "word": "快过年了 不要再买了",
-      "onboard_time": 1701696578,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 267198,
@@ -4849,14 +4913,6 @@
       "onboard_time": 1701509372,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 258024,
-      "num": 216079,
-      "word": "哪些是乳腺癌高危人群",
-      "onboard_time": 1701696040,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 257643,
@@ -5137,6 +5193,14 @@
       "onboard_time": 1701432153,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238863,
+      "num": 211587,
+      "word": "年轻人如何减轻熬夜脸",
+      "onboard_time": 1701697000,
+      "rank": 23,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 238486,
@@ -5923,6 +5987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210814,
+      "num": 194548,
+      "word": "赵昭仪的照片注解",
+      "onboard_time": 1701698739,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210560,
       "num": 210560,
       "word": "超2000部无障碍影视作品上线优酷",
@@ -6619,6 +6691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194578,
+      "num": 194578,
+      "word": "王楚钦谈混团比赛新赛制",
+      "onboard_time": 1701697419,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194526,
       "num": 143514,
       "word": "天杀的SNK老子要报警抓你",
@@ -6833,6 +6913,14 @@
       "onboard_time": 1701538581,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190801,
+      "num": 190801,
+      "word": "用动图整理小学数学知识点",
+      "onboard_time": 1701699161,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 190752,
@@ -7099,6 +7187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184210,
+      "num": 184210,
+      "word": "虞书欣轻泰妆",
+      "onboard_time": 1701696698,
+      "rank": 43,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 183893,
       "num": 144583,
       "word": "张雨绮景甜 嗑到了",
@@ -7217,14 +7313,6 @@
       "onboard_time": 1701416253,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179744,
-      "num": 179744,
-      "word": "妈妈去世动森成为我永远的痛",
-      "onboard_time": 1701696578,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 179266,
@@ -7483,14 +7571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 170407,
-      "num": 160458,
-      "word": "虞书欣轻泰妆",
-      "onboard_time": 1701696698,
-      "rank": 43,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 170054,
       "num": 170054,
       "word": "魔卡少女樱更新最终话",
@@ -7739,6 +7819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165174,
+      "num": 165174,
+      "word": "考研人最后二十天的精神状态",
+      "onboard_time": 1701699278,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165153,
       "num": 149894,
       "word": "甜蜜家园2",
@@ -7900,7 +7988,7 @@
     },
     {
       "raw_hot": 160635,
-      "num": 160635,
+      "num": 165088,
       "word": "波多黎各8比7中国香港",
       "onboard_time": 1701696459,
       "rank": 39,
@@ -8017,6 +8105,14 @@
       "onboard_time": 1701491430,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158052,
+      "num": 1781042,
+      "word": "流感的病程是怎样变化的",
+      "onboard_time": 1701691833,
+      "rank": 2,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157598,
@@ -8297,14 +8393,6 @@
       "onboard_time": 1701442658,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150487,
-      "num": 1781042,
-      "word": "流感的病程是怎样变化的",
-      "onboard_time": 1701691833,
-      "rank": 2,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150157,
@@ -9273,6 +9361,14 @@
       "onboard_time": 1701479253,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125172,
+      "num": 165029,
+      "word": "妈妈真的不容易",
+      "onboard_time": 1701699338,
+      "rank": 48,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 124128,
