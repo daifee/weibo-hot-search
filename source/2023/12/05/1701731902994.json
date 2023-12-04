@@ -1,0 +1,410 @@
+{
+  "runTime": 1701731902994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 634468,
+        "num": 634468,
+        "word": "断崖式衰老女子确诊卵巢早衰",
+        "onboard_time": 1701701796,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447088,
+        "num": 447088,
+        "word": "上海文旅局正鉴定五月天演唱会原始音视频",
+        "onboard_time": 1701685657,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 22796,
+        "num": 427608,
+        "word": "美好生活宪给你",
+        "onboard_time": 1701691656,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422009,
+        "num": 422009,
+        "word": "刘若英 我爱五月天",
+        "onboard_time": 1701695436,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 371922,
+        "num": 371922,
+        "word": "手机贴膜 智商税",
+        "onboard_time": 1701702576,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 370576,
+        "num": 370576,
+        "word": "周一围 朱丹不是讨好型人格",
+        "onboard_time": 1701728417,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351799,
+        "num": 351799,
+        "word": "刘诗诗回应替身说",
+        "onboard_time": 1701702337,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321148,
+        "num": 321148,
+        "word": "麦田农夫 每个音都特别准就是假唱",
+        "onboard_time": 1701684454,
+        "rank": 7,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 280466,
+        "num": 280466,
+        "word": "老师收集家长工作视频课堂播放引热议",
+        "onboard_time": 1701724093,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 38795,
+        "num": 203254,
+        "word": "流感的病程是怎样变化的",
+        "onboard_time": 1701691833,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 417149,
+        "num": 202519,
+        "word": "河南一家长在班级群发不雅视频",
+        "onboard_time": 1701692322,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 306445,
+        "num": 200649,
+        "word": "快过年了 不要再买了",
+        "onboard_time": 1701696578,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197887,
+        "num": 197887,
+        "word": "父亲看望产后的女儿瞬间被一把抱住",
+        "onboard_time": 1701686615,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177389,
+        "num": 177389,
+        "word": "一人花近10万买彩票中2亿",
+        "onboard_time": 1701687697,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 166250,
+        "num": 166250,
+        "word": "成都有杜绝假唱固定流程",
+        "onboard_time": 1701707547,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 166021,
+        "num": 166021,
+        "word": "乱港分子周庭弃保潜逃",
+        "onboard_time": 1701703532,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160220,
+        "num": 160220,
+        "word": "杨紫红色马面裙",
+        "onboard_time": 1701696875,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 143391,
+        "num": 143391,
+        "word": "五月天否认假唱",
+        "onboard_time": 1701686434,
+        "rank": 17,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 142681,
+        "num": 142681,
+        "word": "张若昀 欠第二季",
+        "onboard_time": 1701729136,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127027,
+        "num": 127027,
+        "word": "八段锦 慢性病",
+        "onboard_time": 1701669933,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140381,
+        "num": 127024,
+        "word": "封神 补拍",
+        "onboard_time": 1701688359,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132036,
+        "num": 126874,
+        "word": "请病假专用图",
+        "onboard_time": 1701728897,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126180,
+        "num": 126180,
+        "word": "郭志凯 连开8场演唱会极不合理",
+        "onboard_time": 1701703954,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 125915,
+        "num": 125915,
+        "word": "假睫毛对容貌真的很重要",
+        "onboard_time": 1701731481,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105853,
+        "num": 105853,
+        "word": "林俊杰肖战合照",
+        "onboard_time": 1701691475,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104835,
+        "num": 104835,
+        "word": "比12315还管用的维权方法",
+        "onboard_time": 1701693217,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94935,
+        "num": 94935,
+        "word": "毛雪汪公开处刑宋轶微博",
+        "onboard_time": 1701694776,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91753,
+        "num": 91753,
+        "word": "妈妈去世动森成为我永远的痛",
+        "onboard_time": 1701696578,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89911,
+        "num": 89911,
+        "word": "五月天现场视频",
+        "onboard_time": 1701699101,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85602,
+        "num": 85602,
+        "word": "105厘米长锦鲤入池",
+        "onboard_time": 1701709462,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86938,
+        "num": 85564,
+        "word": "胡夏删视频",
+        "onboard_time": 1701687398,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81350,
+        "num": 81350,
+        "word": "有这习惯的人脂肪肝会向肝癌加速转变",
+        "onboard_time": 1701730820,
+        "rank": 31,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 80218,
+        "num": 80218,
+        "word": "林俊杰 下次请不要来我的演唱会",
+        "onboard_time": 1701659014,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74172,
+        "num": 74172,
+        "word": "官方回应1人买彩票中2亿无需缴税",
+        "onboard_time": 1701685476,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72282,
+        "num": 72282,
+        "word": "陈绮贞 五月天",
+        "onboard_time": 1701676059,
+        "rank": 34,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 68511,
+        "num": 68511,
+        "word": "张芷溪 卧底失败后",
+        "onboard_time": 1701727875,
+        "rank": 35,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 66663,
+        "num": 66663,
+        "word": "王楚钦 还打吗",
+        "onboard_time": 1701688299,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64521,
+        "num": 64521,
+        "word": "QQ音乐回应涨价",
+        "onboard_time": 1701694297,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 58146,
+        "num": 58146,
+        "word": "大鹏 据说很灵的屏保",
+        "onboard_time": 1701731362,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50149,
+        "num": 55561,
+        "word": "促排穴位",
+        "onboard_time": 1701725714,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53977,
+        "num": 53977,
+        "word": "五月天经纪公司称正配合调查",
+        "onboard_time": 1701688118,
+        "rank": 40,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 53795,
+        "num": 53795,
+        "word": "常华森秒删",
+        "onboard_time": 1701700658,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50386,
+        "num": 50386,
+        "word": "甄嬛身心最剧痛的一刻",
+        "onboard_time": 1701706709,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50994,
+        "num": 50286,
+        "word": "师徒线 好嗑",
+        "onboard_time": 1701698924,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49258,
+        "num": 49258,
+        "word": "团队来40人团建",
+        "onboard_time": 1701727515,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 48804,
+        "num": 48804,
+        "word": "GQ座位",
+        "onboard_time": 1701697000,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48547,
+        "num": 48547,
+        "word": "00后也熬到需要攒钱过年的年龄了",
+        "onboard_time": 1701692380,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38922,
+        "num": 38922,
+        "word": "刘冲 我座位还没开始排呢",
+        "onboard_time": 1701702214,
+        "rank": 47,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 38654,
+        "num": 38654,
+        "word": "TheShy上路对战Bin",
+        "onboard_time": 1701691718,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35838,
+        "num": 38522,
+        "word": "你熬的夜都写在脸上了",
+        "onboard_time": 1701709521,
+        "rank": 49,
+        "category": "健康医疗,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
