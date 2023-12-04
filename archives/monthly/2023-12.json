@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701657079316,
+  "endTime": 1701657702223,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1010747,
+      "num": 1010747,
+      "word": "黄金价格",
+      "onboard_time": 1701656252,
+      "rank": 9,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1004507,
       "num": 1004507,
       "word": "上海12345回应五月天被质疑假唱",
@@ -689,6 +697,14 @@
       "onboard_time": 1701647550,
       "rank": 7,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 937450,
+      "num": 937450,
+      "word": "周一围说朱丹的描述有误导倾向",
+      "onboard_time": 1701655592,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 904631,
@@ -809,14 +825,6 @@
       "onboard_time": 1701511288,
       "rank": 12,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 800400,
-      "num": 800400,
-      "word": "周一围说朱丹的描述有误导倾向",
-      "onboard_time": 1701655592,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 798757,
@@ -1011,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 698698,
+      "num": 698698,
+      "word": "大侦探9 首案阵容",
+      "onboard_time": 1701655174,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696550,
       "num": 696550,
       "word": "瑞幸状告泰国瑞幸败诉",
@@ -1024,14 +1040,6 @@
       "word": "严敏 无限流综艺",
       "onboard_time": 1701605016,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 694330,
-      "num": 694330,
-      "word": "大侦探9 首案阵容",
-      "onboard_time": 1701655174,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -1169,14 +1177,6 @@
       "onboard_time": 1701593672,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 632545,
-      "num": 632545,
-      "word": "黄金价格",
-      "onboard_time": 1701656252,
-      "rank": 9,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 631522,
@@ -2147,8 +2147,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 410363,
-      "num": 410363,
+      "raw_hot": 411839,
+      "num": 411839,
       "word": "五月天上海演唱会票房超6亿",
       "onboard_time": 1701656131,
       "rank": 15,
@@ -2219,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399819,
+      "num": 399819,
+      "word": "小女孩等了11年终于有自己的房间",
+      "onboard_time": 1701654874,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396054,
       "num": 321200,
       "word": "苏翊鸣教练 小鸣真牛",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1701501692,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 395185,
-      "num": 395185,
-      "word": "小女孩等了11年终于有自己的房间",
-      "onboard_time": 1701654874,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393540,
@@ -2665,6 +2665,14 @@
       "onboard_time": 1701396509,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348443,
+      "num": 328627,
+      "word": "肖战鹅黄短袖皮衣",
+      "onboard_time": 1701656732,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 348033,
@@ -3979,6 +3987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249586,
+      "num": 249586,
+      "word": "这5个部位疼痛可能是心梗前兆",
+      "onboard_time": 1701657093,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 249161,
       "num": 173833,
       "word": "东方神明",
@@ -5091,6 +5107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200352,
+      "num": 200352,
+      "word": "一念关山新浪扫楼",
+      "onboard_time": 1701657694,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200092,
       "num": 200092,
       "word": "朱正廷现场为苏翊鸣决赛打call",
@@ -5161,14 +5185,6 @@
       "onboard_time": 1701523536,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198100,
-      "num": 198100,
-      "word": "肖战鹅黄短袖皮衣",
-      "onboard_time": 1701656732,
-      "rank": 36,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 198003,
@@ -6555,6 +6571,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 159293,
+      "num": 159293,
+      "word": "鸣龙少年首发预告",
+      "onboard_time": 1701657212,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159292,
       "num": 149899,
       "word": "刘德华 这次的角色真的坏透了",
@@ -7025,6 +7049,14 @@
       "onboard_time": 1701645625,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145618,
+      "num": 145618,
+      "word": "怎样让领导知道你的工作量很大",
+      "onboard_time": 1701657272,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 145547,
