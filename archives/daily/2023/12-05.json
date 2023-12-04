@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701724539392,
+  "endTime": 1701725655658,
   "band_list": [
     {
       "raw_hot": 1166623,
@@ -499,20 +499,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21097,
+      "num": 21097,
+      "word": "老师收集家长工作视频课堂播放引热议",
+      "onboard_time": 1701724093,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 20711,
       "num": 20711,
       "word": "菲律宾又地震了",
       "onboard_time": 1701715274,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11389,
-      "num": 11389,
-      "word": "老师收集家长工作视频课堂播放引热议",
-      "onboard_time": 1701724093,
-      "rank": 48,
-      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [
