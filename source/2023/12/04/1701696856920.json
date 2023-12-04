@@ -1,0 +1,410 @@
+{
+  "runTime": 1701696856920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2137208,
+        "num": 2137208,
+        "word": "五月天否认假唱",
+        "onboard_time": 1701686434,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1806214,
+        "num": 1806214,
+        "word": "一人花近10万买彩票中2亿",
+        "onboard_time": 1701687697,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 150446,
+        "num": 1776169,
+        "word": "流感的病程是怎样变化的",
+        "onboard_time": 1701691833,
+        "rank": 2,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1773834,
+        "num": 1773834,
+        "word": "刘若英 我爱五月天",
+        "onboard_time": 1701695436,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1417127,
+        "num": 1417127,
+        "word": "毛雪汪公开处刑宋轶微博",
+        "onboard_time": 1701694776,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1097337,
+        "num": 1097337,
+        "word": "胡夏删视频",
+        "onboard_time": 1701687398,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 999421,
+        "num": 999421,
+        "word": "林俊杰肖战合照",
+        "onboard_time": 1701691475,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894234,
+        "num": 894234,
+        "word": "八段锦 慢性病",
+        "onboard_time": 1701669933,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 671939,
+        "num": 765422,
+        "word": "河南一家长在班级群发不雅视频",
+        "onboard_time": 1701692322,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 435377,
+        "num": 724281,
+        "word": "比12315还管用的维权方法",
+        "onboard_time": 1701693217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968543,
+        "num": 724259,
+        "word": "虞书欣 戴森",
+        "onboard_time": 1701689015,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723928,
+        "num": 723928,
+        "word": "封神 补拍",
+        "onboard_time": 1701688359,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 674952,
+        "num": 674952,
+        "word": "李同光 人设",
+        "onboard_time": 1701694058,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501791,
+        "num": 501791,
+        "word": "QQ音乐回应涨价",
+        "onboard_time": 1701694297,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 359651,
+        "num": 359651,
+        "word": "王楚钦 还打吗",
+        "onboard_time": 1701688299,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644223,
+        "num": 348299,
+        "word": "林俊杰 下次请不要来我的演唱会",
+        "onboard_time": 1701659014,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 467878,
+        "num": 344867,
+        "word": "麦田农夫 每个音都特别准就是假唱",
+        "onboard_time": 1701684454,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 309929,
+        "num": 309929,
+        "word": "父亲看望产后的女儿瞬间被一把抱住",
+        "onboard_time": 1701686615,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256554,
+        "num": 256554,
+        "word": "TheShy上路对战Bin",
+        "onboard_time": 1701691718,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219373,
+        "num": 219373,
+        "word": "儿童医院保安身上挂满玩偶安抚患儿",
+        "onboard_time": 1701694358,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460324,
+        "num": 219303,
+        "word": "陈绮贞 五月天",
+        "onboard_time": 1701676059,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 368144,
+        "num": 217362,
+        "word": "上海文旅局正鉴定五月天演唱会原始音视频",
+        "onboard_time": 1701685657,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 272410,
+        "num": 216864,
+        "word": "00后也熬到需要攒钱过年的年龄了",
+        "onboard_time": 1701692380,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258024,
+        "num": 216079,
+        "word": "哪些是乳腺癌高危人群",
+        "onboard_time": 1701696040,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215195,
+        "num": 215195,
+        "word": "GQ主编 光之门美到我自己了",
+        "onboard_time": 1701691055,
+        "rank": 24,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 367749,
+        "num": 212869,
+        "word": "建议费翔胡兵两个daddy合体",
+        "onboard_time": 1701694597,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332516,
+        "num": 210288,
+        "word": "王彦霖 朱丹你只是话筒",
+        "onboard_time": 1701692976,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314837,
+        "num": 208783,
+        "word": "五月天经纪公司称没有假唱",
+        "onboard_time": 1701670358,
+        "rank": 27,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 302370,
+        "num": 205987,
+        "word": "BLACKPINK当年差点失去口哨",
+        "onboard_time": 1701692438,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205053,
+        "num": 205053,
+        "word": "官方回应1人买彩票中2亿无需缴税",
+        "onboard_time": 1701685476,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389879,
+        "num": 201551,
+        "word": "我小叔才50岁就已经被社会淘汰了",
+        "onboard_time": 1701673177,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294848,
+        "num": 201216,
+        "word": "黄雅莉 以后要做三个人的饭了",
+        "onboard_time": 1701682415,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279200,
+        "num": 199057,
+        "word": "一代香港玉女40岁了",
+        "onboard_time": 1701690277,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191272,
+        "num": 191272,
+        "word": "25岁宝妈两次高考上岸做到全班第一",
+        "onboard_time": 1701683494,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179744,
+        "num": 179744,
+        "word": "妈妈去世动森成为我永远的痛",
+        "onboard_time": 1701696578,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267839,
+        "num": 175498,
+        "word": "快过年了 不要再买了",
+        "onboard_time": 1701696578,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248961,
+        "num": 173968,
+        "word": "一念关山",
+        "onboard_time": 1701687216,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167422,
+        "num": 167422,
+        "word": "LPL全明星",
+        "onboard_time": 1701694776,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164848,
+        "num": 164848,
+        "word": "小满生活 婚姻的另一种可能",
+        "onboard_time": 1701693877,
+        "rank": 38,
+        "category": "情感,剧集"
+      },
+      {
+        "raw_hot": 160635,
+        "num": 160635,
+        "word": "波多黎各8比7中国香港",
+        "onboard_time": 1701696459,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227989,
+        "num": 160628,
+        "word": "恶搞 玩梗",
+        "onboard_time": 1701677739,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224986,
+        "num": 160562,
+        "word": "宋轶长风渡吻戏reaction",
+        "onboard_time": 1701686496,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172209,
+        "num": 160530,
+        "word": "GQ内涵",
+        "onboard_time": 1701677496,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170407,
+        "num": 160458,
+        "word": "虞书欣轻泰妆",
+        "onboard_time": 1701696698,
+        "rank": 43,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 160458,
+        "num": 160457,
+        "word": "五月天经纪公司称正配合调查",
+        "onboard_time": 1701688118,
+        "rank": 44,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 158587,
+        "num": 158587,
+        "word": "设计师是从张译那里获得的灵感吗",
+        "onboard_time": 1701693756,
+        "rank": 45,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 150950,
+        "num": 150950,
+        "word": "Hero战胜imp",
+        "onboard_time": 1701694537,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143093,
+        "num": 143093,
+        "word": "不建议小朋友骑马上学",
+        "onboard_time": 1701690577,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138953,
+        "num": 138953,
+        "word": "莎头",
+        "onboard_time": 1701688177,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125555,
+        "num": 125555,
+        "word": "如何用粉笔画霸气迎接龙年",
+        "onboard_time": 1701695556,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#上海要聚焦建设五个中心重要使命#"
+    }
+  }
+}

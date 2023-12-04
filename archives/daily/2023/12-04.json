@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701696154741,
+  "endTime": 1701696856920,
   "band_list": [
     {
       "raw_hot": 6546722,
@@ -115,6 +115,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1773834,
+      "num": 1773834,
+      "word": "刘若英 我爱五月天",
+      "onboard_time": 1701695436,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1697481,
       "num": 1697481,
       "word": "陈绮贞 五月天",
@@ -153,6 +161,14 @@
       "onboard_time": 1701691475,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1417127,
+      "num": 1417127,
+      "word": "毛雪汪公开处刑宋轶微博",
+      "onboard_time": 1701694776,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1411160,
@@ -259,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 973030,
-      "num": 807164,
-      "word": "毛雪汪公开处刑宋轶微博",
-      "onboard_time": 1701694776,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 968354,
       "num": 968354,
       "word": "刘诗诗 一姐今天不1了",
@@ -289,14 +297,6 @@
       "onboard_time": 1701655592,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 939848,
-      "num": 939848,
-      "word": "刘若英 我爱五月天",
-      "onboard_time": 1701695436,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 910544,
@@ -603,6 +603,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 501791,
+      "num": 501791,
+      "word": "QQ音乐回应涨价",
+      "onboard_time": 1701694297,
+      "rank": 13,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 493252,
       "num": 493252,
       "word": "刘宇宁跳科目三",
@@ -649,14 +657,6 @@
       "onboard_time": 1701651696,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 472541,
-      "num": 472541,
-      "word": "QQ音乐回应涨价",
-      "onboard_time": 1701694297,
-      "rank": 13,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 470668,
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435377,
+      "num": 724281,
+      "word": "比12315还管用的维权方法",
+      "onboard_time": 1701693217,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434253,
       "num": 434253,
       "word": "王嘉尔北京站补偿",
@@ -776,14 +784,6 @@
       "word": "高校食堂麻酱盆中发现老鼠",
       "onboard_time": 1701663040,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 430715,
-      "num": 464396,
-      "word": "比12315还管用的维权方法",
-      "onboard_time": 1701693217,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1371,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267839,
+      "num": 175498,
+      "word": "快过年了 不要再买了",
+      "onboard_time": 1701696578,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265717,
       "num": 265717,
       "word": "奥沙利文致谢丁俊晖",
@@ -1393,6 +1401,14 @@
       "onboard_time": 1701658654,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258024,
+      "num": 216079,
+      "word": "哪些是乳腺癌高危人群",
+      "onboard_time": 1701696040,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 257143,
@@ -1915,6 +1931,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 179744,
+      "num": 179744,
+      "word": "妈妈去世动森成为我永远的痛",
+      "onboard_time": 1701696578,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171592,
       "num": 171592,
       "word": "很喜欢韭菜的花语",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1701694537,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170407,
+      "num": 160458,
+      "word": "虞书欣轻泰妆",
+      "onboard_time": 1701696698,
+      "rank": 43,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 169502,
@@ -2003,14 +2035,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 163107,
-      "num": 163107,
-      "word": "哪些是乳腺癌高危人群",
-      "onboard_time": 1701696040,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 161302,
       "num": 161302,
       "word": "一个敢按一个敢认",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1701610365,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 160635,
+      "num": 160635,
+      "word": "波多黎各8比7中国香港",
+      "onboard_time": 1701696459,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 160544,
