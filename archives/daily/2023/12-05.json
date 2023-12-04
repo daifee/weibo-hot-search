@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701731902994,
+  "endTime": 1701732887795,
   "band_list": [
     {
       "raw_hot": 1166623,
@@ -27,12 +27,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 761303,
+      "num": 761303,
+      "word": "喜茶涉嫌违反宗教事务管理条例被约谈",
+      "onboard_time": 1701732083,
+      "rank": 0,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 750800,
       "num": 750800,
       "word": "快过年了 不要再买了",
       "onboard_time": 1701696578,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 715734,
+      "num": 715734,
+      "word": "断崖式衰老女子确诊卵巢早衰",
+      "onboard_time": 1701701796,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 657446,
@@ -51,12 +67,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 634468,
-      "num": 634468,
-      "word": "断崖式衰老女子确诊卵巢早衰",
-      "onboard_time": 1701701796,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 548013,
+      "num": 548013,
+      "word": "上海文旅局正鉴定五月天演唱会原始音视频",
+      "onboard_time": 1701685657,
+      "rank": 10,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 540516,
@@ -67,12 +83,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 506040,
-      "num": 506040,
-      "word": "上海文旅局正鉴定五月天演唱会原始音视频",
-      "onboard_time": 1701685657,
-      "rank": 10,
-      "category": "演出,社会新闻"
+      "raw_hot": 483962,
+      "num": 391426,
+      "word": "河南一家长在班级群发不雅视频",
+      "onboard_time": 1701692322,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 444021,
@@ -91,16 +107,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 417149,
-      "num": 202519,
-      "word": "河南一家长在班级群发不雅视频",
-      "onboard_time": 1701692322,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 370576,
-      "num": 370576,
+      "raw_hot": 432440,
+      "num": 432440,
       "word": "周一围 朱丹不是讨好型人格",
       "onboard_time": 1701728417,
       "rank": 5,
@@ -147,20 +155,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 310698,
+      "num": 310698,
+      "word": "老师收集家长工作视频课堂播放引热议",
+      "onboard_time": 1701724093,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 284900,
       "num": 166635,
       "word": "林俊杰肖战合照",
       "onboard_time": 1701691475,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280466,
-      "num": 280466,
-      "word": "老师收集家长工作视频课堂播放引热议",
-      "onboard_time": 1701724093,
-      "rank": 48,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 278220,
@@ -195,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 219109,
+      "num": 219109,
+      "word": "父亲看望产后的女儿瞬间被一把抱住",
+      "onboard_time": 1701686615,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211740,
       "num": 211740,
       "word": "刘冲 我座位还没开始排呢",
@@ -203,20 +219,28 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 197887,
-      "num": 197887,
-      "word": "父亲看望产后的女儿瞬间被一把抱住",
-      "onboard_time": 1701686615,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193932,
-      "num": 166250,
+      "raw_hot": 201573,
+      "num": 201573,
       "word": "成都有杜绝假唱固定流程",
       "onboard_time": 1701707547,
       "rank": 31,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 198250,
+      "num": 117737,
+      "word": "韩国夫妇操控一家庭19年装13部监控",
+      "onboard_time": 1701732144,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195320,
+      "num": 195320,
+      "word": "杨紫红色马面裙",
+      "onboard_time": 1701696875,
+      "rank": 34,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 183141,
@@ -235,16 +259,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180601,
-      "num": 160220,
-      "word": "杨紫红色马面裙",
-      "onboard_time": 1701696875,
-      "rank": 34,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 175992,
-      "num": 126180,
+      "num": 137212,
       "word": "郭志凯 连开8场演唱会极不合理",
       "onboard_time": 1701703954,
       "rank": 35,
@@ -259,6 +275,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 166546,
+      "num": 166546,
+      "word": "神隐双平台播出",
+      "onboard_time": 1701732144,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162993,
       "num": 102359,
       "word": "华晨宇饭拍",
@@ -267,12 +291,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162358,
+      "num": 162358,
+      "word": "假睫毛对容貌真的很重要",
+      "onboard_time": 1701731481,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 160731,
+      "num": 166876,
+      "word": "喜茶下架佛喜茶拿铁",
+      "onboard_time": 1701732446,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 159049,
       "num": 159049,
       "word": "考研人最后二十天的精神状态",
       "onboard_time": 1701699278,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 157476,
+      "num": 157476,
+      "word": "张若昀 欠第二季",
+      "onboard_time": 1701729136,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 157253,
@@ -315,12 +363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142681,
-      "num": 142681,
-      "word": "张若昀 欠第二季",
-      "onboard_time": 1701729136,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 141614,
+      "num": 141614,
+      "word": "有这习惯的人脂肪肝会向肝癌加速转变",
+      "onboard_time": 1701730820,
+      "rank": 31,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 140032,
+      "num": 140032,
+      "word": "请病假专用图",
+      "onboard_time": 1701728897,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 133192,
@@ -329,14 +385,6 @@
       "onboard_time": 1701670358,
       "rank": 42,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 132036,
-      "num": 126874,
-      "word": "请病假专用图",
-      "onboard_time": 1701728897,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 127670,
@@ -353,14 +401,6 @@
       "onboard_time": 1701688118,
       "rank": 44,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 125915,
-      "num": 125915,
-      "word": "假睫毛对容貌真的很重要",
-      "onboard_time": 1701731481,
-      "rank": 23,
-      "category": "美妆"
     },
     {
       "raw_hot": 117911,
@@ -403,12 +443,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105518,
+      "num": 105518,
+      "word": "笛飞声竟然猜不出莲花楼",
+      "onboard_time": 1701731905,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102273,
+      "num": 102273,
+      "word": "喜茶",
+      "onboard_time": 1701732687,
+      "rank": 34,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 100561,
+      "num": 100561,
+      "word": "Tabe自由人",
+      "onboard_time": 1701732505,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100179,
       "num": 70545,
       "word": "你熬的夜都写在脸上了",
       "onboard_time": 1701709521,
       "rank": 33,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 96738,
+      "num": 117750,
+      "word": "105厘米长锦鲤入池",
+      "onboard_time": 1701709462,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96663,
@@ -443,14 +515,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 85602,
-      "num": 85602,
-      "word": "105厘米长锦鲤入池",
-      "onboard_time": 1701709462,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83481,
       "num": 91408,
       "word": "官方回应1人买彩票中2亿无需缴税",
@@ -459,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81350,
-      "num": 81350,
-      "word": "有这习惯的人脂肪肝会向肝癌加速转变",
-      "onboard_time": 1701730820,
-      "rank": 31,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 78414,
+      "num": 78414,
+      "word": "张芷溪 卧底失败后",
+      "onboard_time": 1701727875,
+      "rank": 44,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 72745,
@@ -483,14 +547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 68511,
-      "num": 68511,
-      "word": "张芷溪 卧底失败后",
-      "onboard_time": 1701727875,
-      "rank": 44,
-      "category": "艺人,读书作家"
-    },
-    {
       "raw_hot": 66041,
       "num": 462713,
       "word": "流感的病程是怎样变化的",
@@ -505,6 +561,22 @@
       "onboard_time": 1701698323,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63131,
+      "num": 63131,
+      "word": "团队来40人团建",
+      "onboard_time": 1701727515,
+      "rank": 38,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 59406,
+      "num": 59406,
+      "word": "医院多收10万涉事护士长被停职检查",
+      "onboard_time": 1701732809,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58146,
@@ -529,14 +601,6 @@
       "onboard_time": 1701725714,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 49258,
-      "num": 49258,
-      "word": "团队来40人团建",
-      "onboard_time": 1701727515,
-      "rank": 38,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 36367,
