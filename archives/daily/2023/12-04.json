@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701678991414,
+  "endTime": 1701681538716,
   "band_list": [
     {
       "raw_hot": 6546722,
@@ -51,20 +51,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2863634,
+      "num": 2863634,
+      "word": "我小叔才50岁就已经被社会淘汰了",
+      "onboard_time": 1701673177,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2815288,
       "num": 2815288,
       "word": "林俊杰 下次请不要来我的演唱会",
       "onboard_time": 1701659014,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2422527,
-      "num": 2422527,
-      "word": "我小叔才50岁就已经被社会淘汰了",
-      "onboard_time": 1701673177,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 2325769,
@@ -91,6 +91,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1697481,
+      "num": 1697481,
+      "word": "陈绮贞 五月天",
+      "onboard_time": 1701676059,
+      "rank": 5,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1664424,
       "num": 1664424,
       "word": "黄金价格",
@@ -105,14 +113,6 @@
       "onboard_time": 1701674257,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1576921,
-      "num": 1576921,
-      "word": "陈绮贞 五月天",
-      "onboard_time": 1701676059,
-      "rank": 5,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1528919,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 874354,
-      "num": 579533,
+      "num": 614558,
       "word": "假唱 垫音",
       "onboard_time": 1701676839,
       "rank": 10,
@@ -281,6 +281,14 @@
       "onboard_time": 1701645686,
       "rank": 14,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 669705,
+      "num": 669705,
+      "word": "胖东来员工平均工资最低到手7000元",
+      "onboard_time": 1701678398,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 668565,
@@ -347,6 +355,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 584374,
+      "num": 471164,
+      "word": "迪丽热巴登费加罗闭年刊",
+      "onboard_time": 1701679537,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 569977,
       "num": 475132,
       "word": "刘诗诗委婉拒绝刘宇宁",
@@ -409,6 +425,14 @@
       "onboard_time": 1701651277,
       "rank": 13,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 503229,
+      "num": 503229,
+      "word": "麦田农夫半年指控20多位歌手假唱",
+      "onboard_time": 1701678097,
+      "rank": 45,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 493252,
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434253,
+      "num": 434253,
+      "word": "王嘉尔北京站补偿",
+      "onboard_time": 1701678157,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 433581,
       "num": 433581,
       "word": "林俊杰 等我修炼完爱情再修理你",
@@ -544,6 +576,14 @@
       "word": "高校食堂麻酱盆中发现老鼠",
       "onboard_time": 1701663040,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425325,
+      "num": 270550,
+      "word": "女孩因无座发飙被怼后叫嚣杀人",
+      "onboard_time": 1701678037,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -595,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396348,
+      "num": 396348,
+      "word": "恶搞 玩梗",
+      "onboard_time": 1701677739,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 387664,
       "num": 387664,
       "word": "美商务部长呼吁阻止中国获得半导体关键技术",
@@ -619,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383630,
-      "num": 383630,
-      "word": "胖东来员工平均工资最低到手7000元",
-      "onboard_time": 1701678398,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 378873,
       "num": 378873,
       "word": "烤椰拿铁",
@@ -643,12 +683,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 358339,
-      "num": 358339,
-      "word": "麦田农夫半年指控20多位歌手假唱",
-      "onboard_time": 1701678097,
-      "rank": 45,
-      "category": "社会新闻,演出"
+      "raw_hot": 371943,
+      "num": 371943,
+      "word": "杨迪还留有前任微信",
+      "onboard_time": 1701679058,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 351472,
@@ -697,14 +737,6 @@
       "onboard_time": 1701615637,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 339362,
-      "num": 339362,
-      "word": "王嘉尔北京站补偿",
-      "onboard_time": 1701678157,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 335945,
@@ -891,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281503,
+      "num": 254255,
+      "word": "声理学 翻译五月天的回应",
+      "onboard_time": 1701679417,
+      "rank": 26,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 277749,
       "num": 277749,
       "word": "张晚意戏路比我二舅妈的棉裤都宽",
@@ -899,12 +939,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276693,
+      "num": 276693,
+      "word": "周一周一 准时发疯",
+      "onboard_time": 1701679719,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276339,
       "num": 276339,
       "word": "不是睡得晚才算熬夜",
       "onboard_time": 1701655472,
       "rank": 28,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 275258,
+      "num": 233791,
+      "word": "Wayward WE试训",
+      "onboard_time": 1701680318,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 270741,
@@ -937,14 +993,6 @@
       "onboard_time": 1701658654,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 259451,
-      "num": 259451,
-      "word": "恶搞 玩梗",
-      "onboard_time": 1701677739,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 257143,
@@ -993,6 +1041,14 @@
       "onboard_time": 1701677919,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247035,
+      "num": 247035,
+      "word": "月子病",
+      "onboard_time": 1701680856,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 238556,
@@ -1107,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218574,
+      "num": 218574,
+      "word": "新闻女王教坏职场新人了吗",
+      "onboard_time": 1701680434,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218156,
       "num": 218156,
       "word": "在上海定了个300多的民宿",
@@ -1171,20 +1235,20 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 198811,
-      "num": 221022,
-      "word": "女孩因无座发飙被怼后叫嚣杀人",
-      "onboard_time": 1701678037,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197227,
       "num": 197227,
       "word": "地磁暴对身体有影响吗",
       "onboard_time": 1701650736,
       "rank": 36,
       "category": "科学科普,社会新闻"
+    },
+    {
+      "raw_hot": 197131,
+      "num": 197131,
+      "word": "古人的审美",
+      "onboard_time": 1701681456,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 196637,
@@ -1225,6 +1289,14 @@
       "onboard_time": 1701663824,
       "rank": 42,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 190666,
+      "num": 190666,
+      "word": "雍正也三点起床",
+      "onboard_time": 1701679359,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 189737,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1701671074,
       "rank": 37,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 174814,
+      "num": 174814,
+      "word": "国乒vs瑞典",
+      "onboard_time": 1701681337,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 171592,
@@ -1715,7 +1795,7 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 87655,
+      "raw_hot": 88642,
       "num": 2167238,
       "word": "8招教你应对呼吸道疾病",
       "onboard_time": 1701677138,
