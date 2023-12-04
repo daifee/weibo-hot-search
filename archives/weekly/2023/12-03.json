@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701678176703,
+  "endTime": 1701678991414,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -123,20 +123,20 @@
       "category": "综艺,社会新闻"
     },
     {
+      "raw_hot": 2422527,
+      "num": 2422527,
+      "word": "我小叔才50岁就已经被社会淘汰了",
+      "onboard_time": 1701673177,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2325769,
       "num": 1550758,
       "word": "教师长期强奸5名女学生被执行死刑",
       "onboard_time": 1701618334,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2315240,
-      "num": 2315240,
-      "word": "我小叔才50岁就已经被社会淘汰了",
-      "onboard_time": 1701673177,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 2238841,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1576921,
+      "num": 1576921,
+      "word": "陈绮贞 五月天",
+      "onboard_time": 1701676059,
+      "rank": 5,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1572214,
       "num": 1572214,
       "word": "难哄 白敬亭",
@@ -233,14 +241,6 @@
       "onboard_time": 1701585092,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1543276,
-      "num": 1543276,
-      "word": "陈绮贞 五月天",
-      "onboard_time": 1701676059,
-      "rank": 5,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1528919,
@@ -347,6 +347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1094599,
+      "num": 1094599,
+      "word": "GQ内涵",
+      "onboard_time": 1701677496,
+      "rank": 6,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 1070135,
       "num": 409507,
       "word": "夏克立称已经两年没有办法联络到女儿",
@@ -411,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 965844,
-      "num": 965844,
-      "word": "GQ内涵",
-      "onboard_time": 1701677496,
-      "rank": 6,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 941023,
       "num": 941023,
       "word": "穿卫衣就这样扎丸子头",
@@ -449,6 +449,14 @@
       "onboard_time": 1701658233,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 874354,
+      "num": 579533,
+      "word": "假唱 垫音",
+      "onboard_time": 1701676839,
+      "rank": 10,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 841264,
@@ -739,14 +747,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 579533,
-      "num": 579533,
-      "word": "假唱 垫音",
-      "onboard_time": 1701676839,
-      "rank": 10,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 574627,
       "num": 574627,
       "word": "能减少黑头的小习惯",
@@ -947,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491315,
+      "num": 491315,
+      "word": "亿万富豪找到儿子的APP",
+      "onboard_time": 1701674615,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489726,
       "num": 489726,
       "word": "律师分析五月天被质疑假唱",
@@ -1048,14 +1056,6 @@
       "word": "义乌发布倡议书保持10天以上存粮",
       "onboard_time": 1701663165,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452742,
-      "num": 452742,
-      "word": "亿万富豪找到儿子的APP",
-      "onboard_time": 1701674615,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1283,6 +1283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 383630,
+      "num": 383630,
+      "word": "胖东来员工平均工资最低到手7000元",
+      "onboard_time": 1701678398,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 381206,
       "num": 381206,
       "word": "一念关山",
@@ -1379,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358339,
+      "num": 358339,
+      "word": "麦田农夫半年指控20多位歌手假唱",
+      "onboard_time": 1701678097,
+      "rank": 45,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 353128,
       "num": 329072,
       "word": "解清帅妈妈晒儿子吃早餐",
@@ -1457,6 +1473,14 @@
       "onboard_time": 1701661182,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339362,
+      "num": 339362,
+      "word": "王嘉尔北京站补偿",
+      "onboard_time": 1701678157,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 337524,
@@ -2035,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259451,
+      "num": 259451,
+      "word": "恶搞 玩梗",
+      "onboard_time": 1701677739,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257143,
       "num": 257143,
       "word": "手头紧的年轻人正在蹭老消费",
@@ -2073,6 +2105,14 @@
       "onboard_time": 1701661361,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 252631,
+      "num": 252631,
+      "word": "佘诗曼李施嬅双人大片",
+      "onboard_time": 1701677919,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 251677,
@@ -2283,12 +2323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223243,
-      "num": 223243,
-      "word": "恶搞 玩梗",
-      "onboard_time": 1701677739,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 223611,
+      "num": 223611,
+      "word": "Twice造型师和aespa造型师结婚",
+      "onboard_time": 1701677435,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 223190,
@@ -2321,14 +2361,6 @@
       "onboard_time": 1701571050,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222154,
-      "num": 222154,
-      "word": "Twice造型师和aespa造型师结婚",
-      "onboard_time": 1701677435,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 221963,
@@ -2555,20 +2587,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203209,
+      "num": 203209,
+      "word": "毛不易演唱会提词器",
+      "onboard_time": 1701675935,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203162,
       "num": 203162,
       "word": "17战队",
       "onboard_time": 1701616421,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202994,
-      "num": 202994,
-      "word": "毛不易演唱会提词器",
-      "onboard_time": 1701675935,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 200963,
@@ -2625,6 +2657,14 @@
       "onboard_time": 1701566851,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198811,
+      "num": 221022,
+      "word": "女孩因无座发飙被怼后叫嚣杀人",
+      "onboard_time": 1701678037,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198304,
@@ -2867,14 +2907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190200,
-      "num": 190200,
-      "word": "佘诗曼李施嬅双人大片",
-      "onboard_time": 1701677919,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190070,
       "num": 190070,
       "word": "张婧仪 电影感",
@@ -3043,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171592,
+      "num": 171592,
+      "word": "很喜欢韭菜的花语",
+      "onboard_time": 1701677558,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171089,
       "num": 171089,
       "word": "脱轨强制爱",
@@ -3171,14 +3211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164207,
-      "num": 164207,
-      "word": "很喜欢韭菜的花语",
-      "onboard_time": 1701677558,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163664,
       "num": 163664,
       "word": "深圳马拉松鸣枪开跑",
@@ -3275,14 +3307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 157840,
-      "num": 157840,
-      "word": "王嘉尔北京站补偿",
-      "onboard_time": 1701678157,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 157821,
       "num": 157821,
       "word": "Uzi要回来了吗",
@@ -3305,14 +3329,6 @@
       "onboard_time": 1701595356,
       "rank": 38,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 157353,
-      "num": 157353,
-      "word": "麦田农夫半年指控20多位歌手假唱",
-      "onboard_time": 1701678097,
-      "rank": 45,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 156997,

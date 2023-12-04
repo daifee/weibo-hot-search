@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/04 00:20:47 ~ 2023/12/04 16:22:56
+本榜单时间：2023/12/04 00:20:47 ~ 2023/12/04 16:36:31
 </p>
 </blockquote>
 <p>
@@ -57,14 +57,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-教师长期强奸5名女学生被执行死刑（热度：2325769）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%B0%8F%E5%8F%94%E6%89%8D50%E5%B2%81%E5%B0%B1%E5%B7%B2%E7%BB%8F%E8%A2%AB%E7%A4%BE%E4%BC%9A%E6%B7%98%E6%B1%B0%E4%BA%86%23" target="weibo">
+我小叔才50岁就已经被社会淘汰了（热度：2422527）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%B0%8F%E5%8F%94%E6%89%8D50%E5%B2%81%E5%B0%B1%E5%B7%B2%E7%BB%8F%E8%A2%AB%E7%A4%BE%E4%BC%9A%E6%B7%98%E6%B1%B0%E4%BA%86%23" target="weibo">
-我小叔才50岁就已经被社会淘汰了（热度：2315240）
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E5%BC%BA%E5%A5%B85%E5%90%8D%E5%A5%B3%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+教师长期强奸5名女学生被执行死刑（热度：2325769）
 </a>
 </li>
 
@@ -94,7 +94,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%BB%AE%E8%B4%9E%20%E4%BA%94%E6%9C%88%E5%A4%A9%23" target="weibo">
-陈绮贞 五月天（热度：1543276）
+陈绮贞 五月天（热度：1576921）
 </a>
 </li>
 
@@ -129,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23GQ%E5%86%85%E6%B6%B5%23" target="weibo">
+GQ内涵（热度：1094599）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%BC%9A%E5%91%98%20%E6%B2%A1%E4%BA%86%23" target="weibo">
 腾讯会员 没了（热度：1062667）
 </a>
@@ -143,12 +149,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%20%E4%B8%80%E5%A7%90%E4%BB%8A%E5%A4%A9%E4%B8%8D1%E4%BA%86%23" target="weibo">
 刘诗诗 一姐今天不1了（热度：968354）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GQ%E5%86%85%E6%B6%B5%23" target="weibo">
-GQ内涵（热度：965844）
 </a>
 </li>
 
@@ -173,6 +173,12 @@ GQ内涵（热度：965844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%88%98%E5%AE%87%E5%AE%81%20%E5%8F%B2%E5%AF%86%E6%96%AF%E5%A4%AB%E5%A6%87%23" target="weibo">
 刘诗诗刘宇宁 史密斯夫妇（热度：900707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%94%B1%20%E5%9E%AB%E9%9F%B3%23" target="weibo">
+假唱 垫音（热度：874354）
 </a>
 </li>
 
@@ -267,12 +273,6 @@ GQ内涵（热度：965844）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%94%B1%20%E5%9E%AB%E9%9F%B3%23" target="weibo">
-假唱 垫音（热度：579533）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%A7%94%E5%A9%89%E6%8B%92%E7%BB%9D%E5%88%98%E5%AE%87%E5%AE%81%23" target="weibo">
 刘诗诗委婉拒绝刘宇宁（热度：569977）
 </a>
@@ -327,6 +327,12 @@ GQ两分半拍完穿普拉达的女王（热度：562676）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%89%BE%E5%88%B0%E5%84%BF%E5%AD%90%E7%9A%84APP%23" target="weibo">
+亿万富豪找到儿子的APP（热度：491315）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E5%94%B1%20%E7%A6%BB%E8%B0%B1%23" target="weibo">
 演唱会假唱 离谱（热度：481934）
 </a>
@@ -377,12 +383,6 @@ GQ出发图主题 发疯（热度：457907）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E5%8F%91%E5%B8%83%E5%80%A1%E8%AE%AE%E4%B9%A6%E4%BF%9D%E6%8C%8110%E5%A4%A9%E4%BB%A5%E4%B8%8A%E5%AD%98%E7%B2%AE%23" target="weibo">
 义乌发布倡议书保持10天以上存粮（热度：455181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E6%89%BE%E5%88%B0%E5%84%BF%E5%AD%90%E7%9A%84APP%23" target="weibo">
-亿万富豪找到儿子的APP（热度：452742）
 </a>
 </li>
 
@@ -477,6 +477,12 @@ GQ全阵容（热度：420829）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E6%9C%80%E4%BD%8E%E5%88%B0%E6%89%8B7000%E5%85%83%23" target="weibo">
+胖东来员工平均工资最低到手7000元（热度：383630）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%A4%E6%A4%B0%E6%8B%BF%E9%93%81%23" target="weibo">
 烤椰拿铁（热度：378873）
 </a>
@@ -485,6 +491,12 @@ GQ全阵容（热度：420829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E4%BA%86%E8%AE%A9%E6%88%91%E5%B8%AE%E5%B8%A6%E6%97%A9%E9%A4%90%E7%9A%84%E5%90%8C%E4%BA%8B%23" target="weibo">
 拒绝了让我帮带早餐的同事（热度：374957）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E7%94%B0%E5%86%9C%E5%A4%AB%E5%8D%8A%E5%B9%B4%E6%8C%87%E6%8E%A720%E5%A4%9A%E4%BD%8D%E6%AD%8C%E6%89%8B%E5%81%87%E5%94%B1%23" target="weibo">
+麦田农夫半年指控20多位歌手假唱（热度：358339）
 </a>
 </li>
 
@@ -521,6 +533,12 @@ GQ全阵容（热度：420829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GQ%E5%8E%8B%E8%BD%B4%E5%AE%98%E5%AE%A3%E6%9D%A8%E5%B9%82%23" target="weibo">
 GQ压轴官宣杨幂（热度：339822）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%8C%97%E4%BA%AC%E7%AB%99%E8%A1%A5%E5%81%BF%23" target="weibo">
+王嘉尔北京站补偿（热度：339362）
 </a>
 </li>
 
@@ -699,6 +717,12 @@ Ruler续约JDG（热度：319410）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%B6%E6%90%9E%20%E7%8E%A9%E6%A2%97%23" target="weibo">
+恶搞 玩梗（热度：259451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E5%A4%B4%E7%B4%A7%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AD%A3%E5%9C%A8%E8%B9%AD%E8%80%81%E6%B6%88%E8%B4%B9%23" target="weibo">
 手头紧的年轻人正在蹭老消费（热度：257143）
 </a>
@@ -725,6 +749,12 @@ Ruler续约JDG（热度：319410）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B712345%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23" target="weibo">
 上海12345回应五月天被质疑假唱（热度：252743）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E6%9D%8E%E6%96%BD%E5%AC%85%E5%8F%8C%E4%BA%BA%E5%A4%A7%E7%89%87%23" target="weibo">
+佘诗曼李施嬅双人大片（热度：252631）
 </a>
 </li>
 
@@ -783,20 +813,14 @@ JDG官宣Kanavi续约（热度：231693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%B6%E6%90%9E%20%E7%8E%A9%E6%A2%97%23" target="weibo">
-恶搞 玩梗（热度：223243）
+<a href="https://s.weibo.com/weibo?q=%23Twice%E9%80%A0%E5%9E%8B%E5%B8%88%E5%92%8Caespa%E9%80%A0%E5%9E%8B%E5%B8%88%E7%BB%93%E5%A9%9A%23" target="weibo">
+Twice造型师和aespa造型师结婚（热度：223611）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%8D%81%E5%A4%A7%E6%B5%81%E8%A1%8C%E8%AF%AD%23" target="weibo">
 2023年十大流行语（热度：222810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Twice%E9%80%A0%E5%9E%8B%E5%B8%88%E5%92%8Caespa%E9%80%A0%E5%9E%8B%E5%B8%88%E7%BB%93%E5%A9%9A%23" target="weibo">
-Twice造型师和aespa造型师结婚（热度：222154）
 </a>
 </li>
 
@@ -850,7 +874,7 @@ gidle舞台疑似抄袭BLACKPINK（热度：220688）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8F%90%E8%AF%8D%E5%99%A8%23" target="weibo">
-毛不易演唱会提词器（热度：202994）
+毛不易演唱会提词器（热度：203209）
 </a>
 </li>
 
@@ -863,6 +887,12 @@ gidle舞台疑似抄袭BLACKPINK（热度：220688）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E4%BA%94%E6%9C%88%E5%A4%A9%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E7%9B%B8%E4%BF%A1%E9%9F%B3%E4%B9%90%23" target="weibo">
 揭秘五月天经纪公司相信音乐（热度：199840）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E6%97%A0%E5%BA%A7%E5%8F%91%E9%A3%99%E8%A2%AB%E6%80%BC%E5%90%8E%E5%8F%AB%E5%9A%A3%E6%9D%80%E4%BA%BA%23" target="weibo">
+女孩因无座发飙被怼后叫嚣杀人（热度：198811）
 </a>
 </li>
 
@@ -899,12 +929,6 @@ gidle舞台疑似抄袭BLACKPINK（热度：220688）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%81%87%E6%B7%B7%E5%94%B1%23" target="weibo">
 真假混唱（热度：191712）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E6%9D%8E%E6%96%BD%E5%AC%85%E5%8F%8C%E4%BA%BA%E5%A4%A7%E7%89%87%23" target="weibo">
-佘诗曼李施嬅双人大片（热度：190200）
 </a>
 </li>
 
@@ -963,6 +987,12 @@ gidle舞台疑似抄袭BLACKPINK（热度：220688）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%96%9C%E6%AC%A2%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%8A%B1%E8%AF%AD%23" target="weibo">
+很喜欢韭菜的花语（热度：171592）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E9%9B%B6%E4%B8%8B%E4%BA%8C%E5%8D%81%E5%BA%A6%E5%85%89%E8%85%BF%E7%9B%B4%E6%92%AD%23" target="weibo">
 杨紫 零下二十度光腿直播（热度：171405）
 </a>
@@ -995,12 +1025,6 @@ gidle舞台疑似抄袭BLACKPINK（热度：220688）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E6%9D%A8%E8%A2%AB%E7%BB%91%E6%9E%B6%23" target="weibo">
 雪莉杨被绑架（热度：166041）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%96%9C%E6%AC%A2%E9%9F%AD%E8%8F%9C%E7%9A%84%E8%8A%B1%E8%AF%AD%23" target="weibo">
-很喜欢韭菜的花语（热度：164207）
 </a>
 </li>
 
@@ -1041,20 +1065,8 @@ ITZY 回归（热度：160544）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%8C%97%E4%BA%AC%E7%AB%99%E8%A1%A5%E5%81%BF%23" target="weibo">
-王嘉尔北京站补偿（热度：157840）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8F%91%E7%96%AF%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%88%86%E5%B9%B4%E9%BE%84%23" target="weibo">
 原来发疯真的不分年龄（热度：157582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E7%94%B0%E5%86%9C%E5%A4%AB%E5%8D%8A%E5%B9%B4%E6%8C%87%E6%8E%A720%E5%A4%9A%E4%BD%8D%E6%AD%8C%E6%89%8B%E5%81%87%E5%94%B1%23" target="weibo">
-麦田农夫半年指控20多位歌手假唱（热度：157353）
 </a>
 </li>
 

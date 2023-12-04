@@ -1,0 +1,410 @@
+{
+  "runTime": 1701678991414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2422527,
+        "num": 2422527,
+        "word": "我小叔才50岁就已经被社会淘汰了",
+        "onboard_time": 1701673177,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1971140,
+        "num": 1971140,
+        "word": "五月天经纪公司称没有假唱",
+        "onboard_time": 1701670358,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 84936,
+        "num": 1840822,
+        "word": "8招教你应对呼吸道疾病",
+        "onboard_time": 1701677138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1801623,
+        "num": 1801623,
+        "word": "八段锦 慢性病",
+        "onboard_time": 1701669933,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1576921,
+        "num": 1576921,
+        "word": "陈绮贞 五月天",
+        "onboard_time": 1701676059,
+        "rank": 4,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1457045,
+        "num": 1457045,
+        "word": "丁程鑫 中考",
+        "onboard_time": 1701674257,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1094599,
+        "num": 1094599,
+        "word": "GQ内涵",
+        "onboard_time": 1701677496,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 943921,
+        "num": 943921,
+        "word": "林俊杰 下次请不要来我的演唱会",
+        "onboard_time": 1701659014,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 544053,
+        "num": 544053,
+        "word": "珠海一男子持刀致3死后自杀",
+        "onboard_time": 1701672515,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491315,
+        "num": 491315,
+        "word": "亿万富豪找到儿子的APP",
+        "onboard_time": 1701674615,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874354,
+        "num": 485713,
+        "word": "假唱 垫音",
+        "onboard_time": 1701676839,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 467180,
+        "num": 467180,
+        "word": "GQ两分半拍完穿普拉达的女王",
+        "onboard_time": 1701674615,
+        "rank": 11,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 435308,
+        "num": 435308,
+        "word": "刘宇宁跳科目三",
+        "onboard_time": 1701675816,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406617,
+        "num": 406617,
+        "word": "五月天演唱会主办方被要求配合调查",
+        "onboard_time": 1701664842,
+        "rank": 13,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 383630,
+        "num": 383630,
+        "word": "胖东来员工平均工资最低到手7000元",
+        "onboard_time": 1701678398,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 358339,
+        "num": 358339,
+        "word": "麦田农夫半年指控20多位歌手假唱",
+        "onboard_time": 1701678097,
+        "rank": 15,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 339362,
+        "num": 339362,
+        "word": "王嘉尔北京站补偿",
+        "onboard_time": 1701678157,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339204,
+        "num": 339204,
+        "word": "网易云会员",
+        "onboard_time": 1701672273,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 337558,
+        "num": 337558,
+        "word": "学校通报女生上课时突发不适死亡",
+        "onboard_time": 1701671674,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335023,
+        "num": 335023,
+        "word": "中演协回应五月天被质疑假唱",
+        "onboard_time": 1701659735,
+        "rank": 19,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 319483,
+        "num": 319483,
+        "word": "鼻屎大的两个小东西还凶上了",
+        "onboard_time": 1701671016,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316314,
+        "num": 316314,
+        "word": "睡饱与睡眠不足面容对比图",
+        "onboard_time": 1701672212,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 310672,
+        "num": 310672,
+        "word": "汪文斌分享迪丽热巴新疆舞",
+        "onboard_time": 1701660456,
+        "rank": 22,
+        "category": "国内时政,综艺"
+      },
+      {
+        "raw_hot": 307874,
+        "num": 307874,
+        "word": "五月天演唱会将全程直播",
+        "onboard_time": 1701662622,
+        "rank": 23,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 294059,
+        "num": 294059,
+        "word": "刘诗诗委婉拒绝刘宇宁",
+        "onboard_time": 1701671136,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270572,
+        "num": 270572,
+        "word": "五月天演唱会音视频已提交稽查部门",
+        "onboard_time": 1701667538,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 265659,
+        "num": 265659,
+        "word": "解清帅跟妈妈认亲戚收获满把红包",
+        "onboard_time": 1701673056,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262075,
+        "num": 262075,
+        "word": "140斤女生减肥1年反胖50斤",
+        "onboard_time": 1701663283,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 259451,
+        "num": 259451,
+        "word": "恶搞 玩梗",
+        "onboard_time": 1701677739,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254159,
+        "num": 254159,
+        "word": "一念关山豆瓣开分",
+        "onboard_time": 1701666938,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252631,
+        "num": 252631,
+        "word": "佘诗曼李施嬅双人大片",
+        "onboard_time": 1701677919,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242284,
+        "num": 242284,
+        "word": "酱园弄 杨幂",
+        "onboard_time": 1701666938,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232885,
+        "num": 232885,
+        "word": "举报者称五月天下场直播是混淆视听",
+        "onboard_time": 1701652115,
+        "rank": 32,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 223611,
+        "num": 223611,
+        "word": "Twice造型师和aespa造型师结婚",
+        "onboard_time": 1701677435,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198811,
+        "num": 221022,
+        "word": "女孩因无座发飙被怼后叫嚣杀人",
+        "onboard_time": 1701678037,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219223,
+        "num": 219223,
+        "word": "五月天",
+        "onboard_time": 1701661063,
+        "rank": 35,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 203209,
+        "num": 203209,
+        "word": "毛不易演唱会提词器",
+        "onboard_time": 1701675935,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193752,
+        "num": 193752,
+        "word": "黄金价格",
+        "onboard_time": 1701656252,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 190631,
+        "num": 190631,
+        "word": "在上海定了个300多的民宿",
+        "onboard_time": 1701672212,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 190490,
+        "num": 190490,
+        "word": "教师长期强奸5名女学生被执行死刑",
+        "onboard_time": 1701618334,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197552,
+        "num": 188772,
+        "word": "半开麦等不等于假唱",
+        "onboard_time": 1701673836,
+        "rank": 40,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 179368,
+        "num": 179368,
+        "word": "刘诗诗 一姐今天不1了",
+        "onboard_time": 1701659919,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177081,
+        "num": 177081,
+        "word": "小马云走红8年后",
+        "onboard_time": 1701670717,
+        "rank": 42,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 176524,
+        "num": 176524,
+        "word": "科目三 韩国",
+        "onboard_time": 1701657995,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171988,
+        "num": 171988,
+        "word": "周一围说朱丹的描述有误导倾向",
+        "onboard_time": 1701655592,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171592,
+        "num": 171592,
+        "word": "很喜欢韭菜的花语",
+        "onboard_time": 1701677558,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170894,
+        "num": 170894,
+        "word": "GQ全阵容",
+        "onboard_time": 1701657932,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155972,
+        "num": 155972,
+        "word": "玩梗 林俊杰舞蹈",
+        "onboard_time": 1701674377,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154570,
+        "num": 154570,
+        "word": "肯德基外送 打包费",
+        "onboard_time": 1701667418,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 133489,
+        "num": 133489,
+        "word": "相信音乐 五月天邀你见证现场",
+        "onboard_time": 1701617915,
+        "rank": 49,
+        "category": "演出,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#上海要聚焦建设五个中心重要使命#"
+    }
+  }
+}
