@@ -1,6 +1,6 @@
 {
   "startTime": 1701620447557,
-  "endTime": 1701663703790,
+  "endTime": 1701664531448,
   "band_list": [
     {
       "raw_hot": 6137609,
@@ -27,8 +27,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 2987891,
-      "num": 609365,
+      "raw_hot": 3730882,
+      "num": 3730882,
       "word": "五月天演唱会将全程直播",
       "onboard_time": 1701662622,
       "rank": 10,
@@ -115,8 +115,8 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 960879,
-      "num": 960879,
+      "raw_hot": 968354,
+      "num": 968354,
       "word": "刘诗诗 一姐今天不1了",
       "onboard_time": 1701659919,
       "rank": 49,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 709235,
+      "num": 709235,
+      "word": "东航 补偿",
+      "onboard_time": 1701662384,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698698,
       "num": 698698,
       "word": "大侦探9 首案阵容",
@@ -201,14 +209,6 @@
       "onboard_time": 1701658173,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 608739,
-      "num": 608739,
-      "word": "东航 补偿",
-      "onboard_time": 1701662384,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 586050,
@@ -243,20 +243,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 520053,
+      "num": 426866,
+      "word": "140斤女生减肥1年反胖50斤",
+      "onboard_time": 1701663283,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 519135,
       "num": 519135,
       "word": "白银价格飙涨",
       "onboard_time": 1701651277,
       "rank": 13,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 502597,
-      "num": 294884,
-      "word": "140斤女生减肥1年反胖50斤",
-      "onboard_time": 1701663283,
-      "rank": 20,
-      "category": "运动健身"
     },
     {
       "raw_hot": 481934,
@@ -283,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 470668,
+      "num": 470668,
+      "word": "五月天",
+      "onboard_time": 1701661063,
+      "rank": 16,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 460271,
       "num": 460271,
       "word": "女子全网寻找停放4年的僵尸车主人",
@@ -305,6 +313,22 @@
       "onboard_time": 1701648694,
       "rank": 18,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 455181,
+      "num": 455181,
+      "word": "义乌发布倡议书保持10天以上存粮",
+      "onboard_time": 1701663165,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 451862,
+      "num": 451862,
+      "word": "女爱豆完爆韩国男运动员",
+      "onboard_time": 1701664002,
+      "rank": 18,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 438599,
@@ -337,6 +361,14 @@
       "onboard_time": 1701657093,
       "rank": 30,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 431352,
+      "num": 431352,
+      "word": "高校食堂麻酱盆中发现老鼠",
+      "onboard_time": 1701663040,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420829,
@@ -385,6 +417,14 @@
       "onboard_time": 1701649114,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 386211,
+      "num": 386211,
+      "word": "张若昀首部校园剧男主",
+      "onboard_time": 1701662502,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 378873,
@@ -451,14 +491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 317398,
-      "num": 281952,
-      "word": "张若昀首部校园剧男主",
-      "onboard_time": 1701662502,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 316480,
       "num": 316480,
       "word": "接吻会不会传染幽门螺杆菌",
@@ -497,6 +529,14 @@
       "onboard_time": 1701655413,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 307068,
+      "num": 307068,
+      "word": "张颂文周一围打电话 朱丹吃醋",
+      "onboard_time": 1701662565,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 306568,
@@ -539,12 +579,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 278237,
-      "num": 278237,
-      "word": "高校食堂麻酱盆中发现老鼠",
-      "onboard_time": 1701663040,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 291472,
+      "num": 257334,
+      "word": "消保委回应博主举报五月天演唱会假唱",
+      "onboard_time": 1701663943,
+      "rank": 30,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 277749,
@@ -585,22 +625,6 @@
       "onboard_time": 1701647794,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261538,
-      "num": 261538,
-      "word": "张颂文周一围打电话 朱丹吃醋",
-      "onboard_time": 1701662565,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 259878,
-      "num": 259878,
-      "word": "义乌发布倡议书保持10天以上存粮",
-      "onboard_time": 1701663165,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 259696,
@@ -667,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 234420,
+      "num": 234420,
+      "word": "徐峰立因侵权张艺兴被强执3.8万",
+      "onboard_time": 1701663943,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232246,
       "num": 232246,
       "word": "恋与制作人 电话",
@@ -681,6 +713,14 @@
       "onboard_time": 1701619174,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227577,
+      "num": 227577,
+      "word": "客车司机心脏骤停万幸一车乘客都是医护",
+      "onboard_time": 1701662804,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226396,
@@ -723,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210076,
-      "num": 210076,
-      "word": "客车司机心脏骤停万幸一车乘客都是医护",
-      "onboard_time": 1701662804,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204528,
       "num": 204528,
       "word": "科目三 文化输出",
@@ -769,6 +801,14 @@
       "onboard_time": 1701645323,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191712,
+      "num": 191712,
+      "word": "真假混唱",
+      "onboard_time": 1701663824,
+      "rank": 42,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 189737,
@@ -833,6 +873,14 @@
       "onboard_time": 1701596073,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171398,
+      "num": 171398,
+      "word": "男子捆绑女友获刑7个月",
+      "onboard_time": 1701664426,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168627,
@@ -1195,6 +1243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78624,
+      "num": 2713272,
+      "word": "穿越机视角瞰巍峨古长城",
+      "onboard_time": 1701659494,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77555,
       "num": 100214,
       "word": "PGC2023",
@@ -1207,14 +1263,6 @@
       "num": 1553457,
       "word": "新千里江山图",
       "onboard_time": 1701606939,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76588,
-      "num": 1956299,
-      "word": "穿越机视角瞰巍峨古长城",
-      "onboard_time": 1701659494,
       "rank": 2,
       "category": "社会新闻"
     },
