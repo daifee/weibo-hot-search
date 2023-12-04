@@ -1,0 +1,410 @@
+{
+  "runTime": 1701657079316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3884296,
+        "num": 3884296,
+        "word": "举报者称五月天下场直播是混淆视听",
+        "onboard_time": 1701652115,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1908643,
+        "num": 1908643,
+        "word": "瑞幸 泰假",
+        "onboard_time": 1701651759,
+        "rank": 1,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 62444,
+        "num": 1135712,
+        "word": "新千里江山图",
+        "onboard_time": 1701606939,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033250,
+        "num": 1033250,
+        "word": "奥司他韦医院定价仅需20元",
+        "onboard_time": 1701654995,
+        "rank": 3,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 963945,
+        "num": 963945,
+        "word": "腾讯会员 没了",
+        "onboard_time": 1701607961,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1102179,
+        "num": 929687,
+        "word": "教师长期强奸5名女学生被执行死刑",
+        "onboard_time": 1701618334,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800400,
+        "num": 800400,
+        "word": "周一围说朱丹的描述有误导倾向",
+        "onboard_time": 1701655592,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 705193,
+        "num": 705193,
+        "word": "相信音乐 五月天邀你见证现场",
+        "onboard_time": 1701617915,
+        "rank": 7,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 694330,
+        "num": 694330,
+        "word": "大侦探9 首案阵容",
+        "onboard_time": 1701655174,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632545,
+        "num": 632545,
+        "word": "黄金价格",
+        "onboard_time": 1701656252,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 563063,
+        "num": 563063,
+        "word": "长期缺觉容易诱发这5种疾病",
+        "onboard_time": 1701619056,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 523402,
+        "num": 523402,
+        "word": "文旅局回应五月天疑似假唱",
+        "onboard_time": 1701607961,
+        "rank": 11,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 460271,
+        "num": 460271,
+        "word": "女子全网寻找停放4年的僵尸车主人",
+        "onboard_time": 1701653255,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447949,
+        "num": 447949,
+        "word": "五月天经纪方多次挂断媒体电话",
+        "onboard_time": 1701612639,
+        "rank": 13,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 432849,
+        "num": 432849,
+        "word": "TFBOYS十周年未公开彩排图",
+        "onboard_time": 1701649299,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 410363,
+        "num": 410363,
+        "word": "五月天上海演唱会票房超6亿",
+        "onboard_time": 1701656131,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 395185,
+        "num": 395185,
+        "word": "小女孩等了11年终于有自己的房间",
+        "onboard_time": 1701654874,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385662,
+        "num": 385662,
+        "word": "博主再更新五月天真假唱鉴定视频",
+        "onboard_time": 1701616061,
+        "rank": 17,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 383129,
+        "num": 383129,
+        "word": "吴露可逃 星光大赏",
+        "onboard_time": 1701651696,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377426,
+        "num": 377426,
+        "word": "中国男子拍摄乌军作战被判刑",
+        "onboard_time": 1701650315,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 333942,
+        "num": 333942,
+        "word": "穿卫衣就这样扎丸子头",
+        "onboard_time": 1701647550,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 321100,
+        "num": 321100,
+        "word": "陈奕迅 第一次遇到开场前倒数的观众",
+        "onboard_time": 1701655293,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309129,
+        "num": 309129,
+        "word": "补气血的顺序不能乱",
+        "onboard_time": 1701655413,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305222,
+        "num": 305222,
+        "word": "赵琦君 Happy Wife Happy Life",
+        "onboard_time": 1701653853,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300093,
+        "num": 300093,
+        "word": "姥姥去世一周后妈妈发的短信",
+        "onboard_time": 1701621029,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290530,
+        "num": 290530,
+        "word": "白银价格飙涨",
+        "onboard_time": 1701651277,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 281820,
+        "num": 281820,
+        "word": "比亚迪悬赏500万打击恶意抹黑",
+        "onboard_time": 1701652355,
+        "rank": 26,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 279239,
+        "num": 279239,
+        "word": "GQ出发图主题 发疯",
+        "onboard_time": 1701648694,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 276339,
+        "num": 276339,
+        "word": "不是睡得晚才算熬夜",
+        "onboard_time": 1701655472,
+        "rank": 28,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 264915,
+        "num": 264915,
+        "word": "大妈捡到手机用免密支付刷光余额",
+        "onboard_time": 1701612223,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255796,
+        "num": 255796,
+        "word": "手头紧的年轻人正在蹭老消费",
+        "onboard_time": 1701652534,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 246615,
+        "num": 246615,
+        "word": "接吻会不会传染幽门螺杆菌",
+        "onboard_time": 1701651396,
+        "rank": 31,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 232246,
+        "num": 232246,
+        "word": "恋与制作人 电话",
+        "onboard_time": 1701656493,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226396,
+        "num": 226396,
+        "word": "两性冷知识 荷尔蒙",
+        "onboard_time": 1701653492,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 225338,
+        "num": 225338,
+        "word": "一周不洗脸为什么皮肤变好了",
+        "onboard_time": 1701608082,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 221704,
+        "num": 221704,
+        "word": "喉咙中间的小舌头有什么用",
+        "onboard_time": 1701645986,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198100,
+        "num": 198100,
+        "word": "肖战鹅黄短袖皮衣",
+        "onboard_time": 1701656732,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 195271,
+        "num": 195271,
+        "word": "漫威不会复活钢铁侠",
+        "onboard_time": 1701656131,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190020,
+        "num": 190020,
+        "word": "苑琼丹谈佘诗曼人品",
+        "onboard_time": 1701651457,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173228,
+        "num": 173228,
+        "word": "美商务部长呼吁阻止中国获得半导体关键技术",
+        "onboard_time": 1701649114,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172613,
+        "num": 172613,
+        "word": "五月天演唱会举办方称不方便回答",
+        "onboard_time": 1701651034,
+        "rank": 40,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 160489,
+        "num": 160489,
+        "word": "东北i人和i人",
+        "onboard_time": 1701653133,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158935,
+        "num": 158935,
+        "word": "分开都知道叠一起就不认识的字",
+        "onboard_time": 1701651159,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 150696,
+        "num": 150696,
+        "word": "妻子把儿子包成花束去迎接退伍丈夫",
+        "onboard_time": 1701622348,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144295,
+        "num": 144295,
+        "word": "吴奇隆刻意减少工作陪孩子",
+        "onboard_time": 1701624082,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140538,
+        "num": 140538,
+        "word": "五月天如假唱最高或被罚10万",
+        "onboard_time": 1701624022,
+        "rank": 45,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 140478,
+        "num": 140478,
+        "word": "林俊杰 等我修炼完爱情再修理你",
+        "onboard_time": 1701613123,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137162,
+        "num": 137162,
+        "word": "张晚意戏路比我二舅妈的棉裤都宽",
+        "onboard_time": 1701626663,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132655,
+        "num": 132655,
+        "word": "成都混团世界杯",
+        "onboard_time": 1701655534,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128056,
+        "num": 128056,
+        "word": "你应该鼓励而不是去表扬孩子",
+        "onboard_time": 1701653013,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向首届良渚论坛致贺信#"
+    }
+  }
+}
