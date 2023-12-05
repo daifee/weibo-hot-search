@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/06 06:34:34
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/06 07:18:10
 </p>
 </blockquote>
 <p>
@@ -4893,6 +4893,12 @@ EDG 上野辅（热度：270831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%8C%BB%E5%B8%88%E5%9B%A0%E9%A2%9C%E5%80%BC%E9%AB%98%E5%A4%9A%E4%BA%BA%E6%8C%82%E5%8F%B7%E6%89%93%E5%8D%A1%23" target="weibo">
+北京一医师因颜值高多人挂号打卡（热度：266773）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 微博视界大会节目单（热度：266410）
 </a>
@@ -6005,12 +6011,6 @@ Twice造型师和aespa造型师结婚（热度：223611）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E7%9F%A5%E9%81%93%E6%88%90%E7%89%87%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E5%90%97%23" target="weibo">
 吴京知道成片是这样的吗（热度：212817）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2G%E7%A4%BE%E7%94%9F%E5%9B%BE%23" target="weibo">
-时代少年团G社生图（热度：212658）
 </a>
 </li>
 
