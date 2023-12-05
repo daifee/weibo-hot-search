@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701757436313,
+  "endTime": 1701758198646,
   "band_list": [
     {
       "raw_hot": 5848907,
@@ -155,6 +155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 877306,
+      "num": 877306,
+      "word": "告五人 五月天",
+      "onboard_time": 1701756217,
+      "rank": 6,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 846895,
       "num": 846895,
       "word": "手机贴膜 智商税",
@@ -193,14 +201,6 @@
       "onboard_time": 1701696578,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 745861,
-      "num": 745861,
-      "word": "告五人 五月天",
-      "onboard_time": 1701756217,
-      "rank": 6,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 737109,
@@ -291,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 576673,
+      "num": 576673,
+      "word": "他想避世她想入世",
+      "onboard_time": 1701757057,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 554521,
       "num": 521933,
       "word": "A股",
@@ -321,6 +329,14 @@
       "onboard_time": 1701749920,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523602,
+      "num": 523602,
+      "word": "一闪一闪亮星星路演",
+      "onboard_time": 1701756999,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 502669,
@@ -475,16 +491,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 405059,
-      "num": 405059,
-      "word": "一闪一闪亮星星路演",
-      "onboard_time": 1701756999,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 395477,
-      "num": 395477,
+      "raw_hot": 396530,
+      "num": 396530,
       "word": "于适 JBL",
       "onboard_time": 1701755381,
       "rank": 14,
@@ -496,6 +504,14 @@
       "word": "男子掐死女友鹦鹉被判刑3个半月",
       "onboard_time": 1701746792,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389590,
+      "num": 389590,
+      "word": "教育部印发通知不带病上课上学",
+      "onboard_time": 1701755679,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -515,11 +531,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 370960,
-      "num": 370960,
-      "word": "教育部印发通知不带病上课上学",
-      "onboard_time": 1701755679,
-      "rank": 15,
+      "raw_hot": 376899,
+      "num": 376899,
+      "word": "解清帅一夜涨粉近百万",
+      "onboard_time": 1701752985,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -577,14 +593,6 @@
       "onboard_time": 1701737915,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 348252,
-      "num": 348252,
-      "word": "解清帅一夜涨粉近百万",
-      "onboard_time": 1701752985,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 341984,
@@ -763,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270220,
-      "num": 270220,
-      "word": "他想避世她想入世",
-      "onboard_time": 1701757057,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267818,
       "num": 267818,
       "word": "网友建议哈尔滨文旅取消狗拉雪橇",
@@ -793,6 +793,14 @@
       "onboard_time": 1701729136,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262198,
+      "num": 262198,
+      "word": "A股炒出麻将牌",
+      "onboard_time": 1701757779,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 259138,
@@ -835,6 +843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253161,
+      "num": 253161,
+      "word": "教育部要求对学生患病期间作业不做硬性要求",
+      "onboard_time": 1701756519,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250435,
       "num": 250435,
       "word": "拥抱奶牛一次约450元",
@@ -851,6 +867,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 249414,
+      "num": 249414,
+      "word": "高铁查学生证查到我的小抄",
+      "onboard_time": 1701756279,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245973,
       "num": 152090,
       "word": "李同光 人设",
@@ -859,28 +883,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245704,
+      "num": 245704,
+      "word": "一闪一闪亮星星预售票房",
+      "onboard_time": 1701747216,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242720,
       "num": 150506,
       "word": "陈绮贞 五月天",
       "onboard_time": 1701676059,
       "rank": 26,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 241229,
-      "num": 241229,
-      "word": "高铁查学生证查到我的小抄",
-      "onboard_time": 1701756279,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 240887,
-      "num": 240887,
-      "word": "一闪一闪亮星星预售票房",
-      "onboard_time": 1701747216,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 239481,
@@ -955,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223698,
+      "num": 223698,
+      "word": "恋与制作人六周年",
+      "onboard_time": 1701757357,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223540,
       "num": 223540,
       "word": "狐妖小红娘",
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222332,
+      "num": 222332,
+      "word": "一加12发布会",
+      "onboard_time": 1701757828,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 219109,
       "num": 219109,
       "word": "父亲看望产后的女儿瞬间被一把抱住",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1701746974,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217516,
-      "num": 217516,
-      "word": "教育部要求对学生患病期间作业不做硬性要求",
-      "onboard_time": 1701756519,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216840,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1701743614,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203685,
+      "num": 203685,
+      "word": "李一桐雪精灵妆",
+      "onboard_time": 1701757182,
+      "rank": 40,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 201910,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1701748839,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 190255,
-      "num": 190255,
-      "word": "李一桐雪精灵妆",
-      "onboard_time": 1701757182,
-      "rank": 40,
-      "category": "综艺,美妆"
     },
     {
       "raw_hot": 187750,
@@ -1579,20 +1603,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 61114,
+      "num": 1944289,
+      "word": "弘扬宪法精神",
+      "onboard_time": 1701753463,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58146,
       "num": 58146,
       "word": "大鹏 据说很灵的屏保",
       "onboard_time": 1701731362,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57113,
-      "num": 1944289,
-      "word": "弘扬宪法精神",
-      "onboard_time": 1701753463,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55946,

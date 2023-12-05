@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701757436313,
+  "endTime": 1701758198646,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -1083,6 +1083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 877306,
+      "num": 877306,
+      "word": "告五人 五月天",
+      "onboard_time": 1701756217,
+      "rank": 6,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 874354,
       "num": 614558,
       "word": "假唱 垫音",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1701600273,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 745861,
-      "num": 745861,
-      "word": "告五人 五月天",
-      "onboard_time": 1701756217,
-      "rank": 6,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 744253,
@@ -1923,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576673,
+      "num": 576673,
+      "word": "他想避世她想入世",
+      "onboard_time": 1701757057,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 574627,
       "num": 574627,
       "word": "能减少黑头的小习惯",
@@ -2225,6 +2233,14 @@
       "onboard_time": 1701488372,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523602,
+      "num": 523602,
+      "word": "一闪一闪亮星星路演",
+      "onboard_time": 1701756999,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 522835,
@@ -3243,14 +3259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 405059,
-      "num": 405059,
-      "word": "一闪一闪亮星星路演",
-      "onboard_time": 1701756999,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 404291,
       "num": 404291,
       "word": "柳宗元竟是螺蛳粉的初代推广大使",
@@ -3291,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396530,
+      "num": 396530,
+      "word": "于适 JBL",
+      "onboard_time": 1701755381,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396348,
       "num": 396348,
       "word": "恶搞 玩梗",
@@ -3313,14 +3329,6 @@
       "onboard_time": 1701501692,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 395477,
-      "num": 395477,
-      "word": "于适 JBL",
-      "onboard_time": 1701755381,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 393711,
@@ -3361,6 +3369,14 @@
       "onboard_time": 1701437616,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389590,
+      "num": 389590,
+      "word": "教育部印发通知不带病上课上学",
+      "onboard_time": 1701755679,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389574,
@@ -3579,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376899,
+      "num": 376899,
+      "word": "解清帅一夜涨粉近百万",
+      "onboard_time": 1701752985,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375598,
       "num": 375598,
       "word": "漠河 红绿极光",
@@ -3648,14 +3672,6 @@
       "word": "男子520元拍下一套房遭悔拍",
       "onboard_time": 1701611021,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370960,
-      "num": 370960,
-      "word": "教育部印发通知不带病上课上学",
-      "onboard_time": 1701755679,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3937,14 +3953,6 @@
       "onboard_time": 1701656732,
       "rank": 36,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 348252,
-      "num": 348252,
-      "word": "解清帅一夜涨粉近百万",
-      "onboard_time": 1701752985,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348033,
@@ -5395,14 +5403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270220,
-      "num": 270220,
-      "word": "他想避世她想入世",
-      "onboard_time": 1701757057,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270055,
       "num": 270055,
       "word": "32个城市地铁仅有5城盈利",
@@ -5529,6 +5529,14 @@
       "onboard_time": 1701505590,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262198,
+      "num": 262198,
+      "word": "A股炒出麻将牌",
+      "onboard_time": 1701757779,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 261613,
@@ -5739,6 +5747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253161,
+      "num": 253161,
+      "word": "教育部要求对学生患病期间作业不做硬性要求",
+      "onboard_time": 1701756519,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252631,
       "num": 252631,
       "word": "佘诗曼李施嬅双人大片",
@@ -5809,6 +5825,14 @@
       "onboard_time": 1701732446,
       "rank": 19,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 249414,
+      "num": 249414,
+      "word": "高铁查学生证查到我的小抄",
+      "onboard_time": 1701756279,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 249161,
@@ -5899,6 +5923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245704,
+      "num": 245704,
+      "word": "一闪一闪亮星星预售票房",
+      "onboard_time": 1701747216,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 245049,
       "num": 245049,
       "word": "恒大地产未能清偿到期债务超3000亿",
@@ -5939,28 +5971,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 241229,
-      "num": 241229,
-      "word": "高铁查学生证查到我的小抄",
-      "onboard_time": 1701756279,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241158,
       "num": 241158,
       "word": "极光",
       "onboard_time": 1701434494,
       "rank": 23,
       "category": "自然"
-    },
-    {
-      "raw_hot": 240887,
-      "num": 240887,
-      "word": "一闪一闪亮星星预售票房",
-      "onboard_time": 1701747216,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 240497,
@@ -6467,6 +6483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223698,
+      "num": 225444,
+      "word": "恋与制作人六周年",
+      "onboard_time": 1701363982,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223611,
       "num": 223611,
       "word": "Twice造型师和aespa造型师结婚",
@@ -6561,6 +6585,14 @@
       "onboard_time": 1701571050,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222332,
+      "num": 222332,
+      "word": "一加12发布会",
+      "onboard_time": 1701757828,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 222297,
@@ -6665,14 +6697,6 @@
       "onboard_time": 1701510572,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217516,
-      "num": 217516,
-      "word": "教育部要求对学生患病期间作业不做硬性要求",
-      "onboard_time": 1701756519,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217393,
@@ -7275,6 +7299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203685,
+      "num": 203685,
+      "word": "李一桐雪精灵妆",
+      "onboard_time": 1701757182,
+      "rank": 40,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 203477,
       "num": 153667,
       "word": "寸铁 解散",
@@ -7393,14 +7425,6 @@
       "onboard_time": 1701592114,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199319,
-      "num": 225444,
-      "word": "恋与制作人六周年",
-      "onboard_time": 1701363982,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 199017,
@@ -7961,14 +7985,6 @@
       "onboard_time": 1701493172,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 190255,
-      "num": 190255,
-      "word": "李一桐雪精灵妆",
-      "onboard_time": 1701757182,
-      "rank": 40,
-      "category": "综艺,美妆"
     },
     {
       "raw_hot": 190070,
@@ -11539,6 +11555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61114,
+      "num": 1944289,
+      "word": "弘扬宪法精神",
+      "onboard_time": 1701753463,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60346,
       "num": 1650040,
       "word": "国之重器背后的中国链",
@@ -11585,14 +11609,6 @@
       "onboard_time": 1701404436,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57113,
-      "num": 1944289,
-      "word": "弘扬宪法精神",
-      "onboard_time": 1701753463,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56761,
