@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701739024965,
+  "endTime": 1701740306336,
   "band_list": [
     {
       "raw_hot": 3004790,
@@ -19,8 +19,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1359128,
-      "num": 1359128,
+      "raw_hot": 1469746,
+      "num": 1469746,
       "word": "丁当为五月天发声",
       "onboard_time": 1701736116,
       "rank": 1,
@@ -51,12 +51,20 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 854698,
-      "num": 854698,
+      "raw_hot": 885114,
+      "num": 885114,
       "word": "看着很丰盛吃下去全是馒头",
       "onboard_time": 1701734916,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 866164,
+      "num": 866164,
+      "word": "为什么打呼噜的人不把自己吵醒",
+      "onboard_time": 1701736718,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 846895,
@@ -65,6 +73,14 @@
       "onboard_time": 1701702576,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 814919,
+      "num": 814919,
+      "word": "五月天演唱会荧光棒",
+      "onboard_time": 1701736358,
+      "rank": 8,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 750800,
@@ -97,22 +113,6 @@
       "onboard_time": 1701701796,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712916,
-      "num": 712916,
-      "word": "五月天演唱会荧光棒",
-      "onboard_time": 1701736358,
-      "rank": 8,
-      "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 668871,
-      "num": 668871,
-      "word": "为什么打呼噜的人不把自己吵醒",
-      "onboard_time": 1701736718,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 657446,
@@ -195,8 +195,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408270,
-      "num": 408270,
+      "raw_hot": 417526,
+      "num": 417526,
       "word": "一闪一闪亮星星 下雪场",
       "onboard_time": 1701737561,
       "rank": 16,
@@ -219,20 +219,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366745,
+      "num": 283268,
+      "word": "如何一次学会八段锦",
+      "onboard_time": 1701739594,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 359202,
+      "num": 220014,
+      "word": "卸妆油 清理肚脐眼",
+      "onboard_time": 1701739114,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 354200,
+      "num": 354200,
+      "word": "烟花美甲",
+      "onboard_time": 1701737915,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 341984,
       "num": 341984,
       "word": "乱港分子周庭弃保潜逃",
       "onboard_time": 1701703532,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 339113,
-      "num": 339113,
-      "word": "烟花美甲",
-      "onboard_time": 1701737915,
-      "rank": 18,
-      "category": "美妆"
     },
     {
       "raw_hot": 336879,
@@ -291,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267654,
+      "num": 267654,
+      "word": "张若昀 欠第二季",
+      "onboard_time": 1701729136,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259138,
       "num": 259138,
       "word": "狐妖月红篇杨幂单人视频",
@@ -323,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243691,
-      "num": 243691,
-      "word": "张若昀 欠第二季",
-      "onboard_time": 1701729136,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242720,
       "num": 150506,
       "word": "陈绮贞 五月天",
@@ -355,12 +371,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 236881,
+      "num": 236881,
+      "word": "一建成绩",
+      "onboard_time": 1701740013,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 229829,
       "num": 229829,
       "word": "成都有杜绝假唱固定流程",
       "onboard_time": 1701707547,
       "rank": 31,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 227470,
+      "num": 227470,
+      "word": "B站跨晚真神仙阵容",
+      "onboard_time": 1701737435,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 226638,
@@ -393,14 +425,6 @@
       "onboard_time": 1701686615,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216258,
-      "num": 216258,
-      "word": "B站跨晚真神仙阵容",
-      "onboard_time": 1701737435,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 214698,
@@ -456,6 +480,22 @@
       "word": "好会做饭的常华森",
       "onboard_time": 1701700720,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177157,
+      "num": 177157,
+      "word": "大熊猫一声声夸赞中笑得合不拢嘴",
+      "onboard_time": 1701739594,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176461,
+      "num": 176461,
+      "word": "辛光 打十巴掌给半个甜枣的cp",
+      "onboard_time": 1701739174,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -571,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147796,
+      "num": 147796,
+      "word": "南海归墟海难频发原因",
+      "onboard_time": 1701740253,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144653,
       "num": 144653,
       "word": "王楚钦 还打吗",
@@ -609,6 +657,14 @@
       "onboard_time": 1701697000,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 127118,
+      "num": 206979,
+      "word": "我国成功发射谷神星一号遥九运载火箭",
+      "onboard_time": 1701740134,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126462,
