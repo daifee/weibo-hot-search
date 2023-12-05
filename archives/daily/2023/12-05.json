@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701743500402,
+  "endTime": 1701744158526,
   "band_list": [
     {
       "raw_hot": 3004790,
@@ -43,6 +43,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1099278,
+      "num": 1099278,
+      "word": "普通大学和985大学的区别",
+      "onboard_time": 1701742712,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 952023,
       "num": 952023,
       "word": "为什么打呼噜的人不把自己吵醒",
@@ -83,6 +91,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 769354,
+      "num": 296500,
+      "word": "32岁二胎宝妈子宫脱垂掉到大腿上",
+      "onboard_time": 1701741995,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750800,
       "num": 750800,
       "word": "快过年了 不要再买了",
@@ -107,11 +123,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 716322,
+      "num": 716322,
+      "word": "生日回避型人格",
+      "onboard_time": 1701740851,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 715734,
       "num": 715734,
       "word": "断崖式衰老女子确诊卵巢早衰",
       "onboard_time": 1701701796,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664819,
+      "num": 664819,
+      "word": "大学生农村开咖啡厅1天挣半头牛",
+      "onboard_time": 1701743012,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -131,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 636370,
-      "num": 636370,
-      "word": "生日回避型人格",
-      "onboard_time": 1701740851,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 625852,
       "num": 625852,
       "word": "宁远舟备孕",
@@ -147,16 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 574754,
-      "num": 455425,
-      "word": "普通大学和985大学的区别",
-      "onboard_time": 1701742712,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 554521,
-      "num": 429918,
+      "num": 521933,
       "word": "A股",
       "onboard_time": 1701742232,
       "rank": 12,
@@ -177,14 +193,6 @@
       "onboard_time": 1701700658,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 532303,
-      "num": 259216,
-      "word": "32岁二胎宝妈子宫脱垂掉到大腿上",
-      "onboard_time": 1701741995,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502669,
@@ -243,6 +251,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 415498,
+      "num": 415498,
+      "word": "相信音乐 双休",
+      "onboard_time": 1701740672,
+      "rank": 17,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 407664,
+      "num": 407664,
+      "word": "半开麦",
+      "onboard_time": 1701742292,
+      "rank": 18,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 369610,
       "num": 369610,
       "word": "八段锦 慢性病",
@@ -265,14 +289,6 @@
       "onboard_time": 1701739594,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 363887,
-      "num": 363887,
-      "word": "相信音乐 双休",
-      "onboard_time": 1701740672,
-      "rank": 17,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 359202,
@@ -305,14 +321,6 @@
       "onboard_time": 1701733411,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 332685,
-      "num": 543389,
-      "word": "大学生农村开咖啡厅1天挣半头牛",
-      "onboard_time": 1701743012,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322584,
@@ -363,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268992,
-      "num": 268992,
-      "word": "半开麦",
-      "onboard_time": 1701742292,
-      "rank": 18,
-      "category": "演出,社会新闻"
+      "raw_hot": 271864,
+      "num": 271864,
+      "word": "常华森 厂花",
+      "onboard_time": 1701742774,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 267654,
@@ -443,14 +451,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 234525,
-      "num": 234525,
-      "word": "常华森 厂花",
-      "onboard_time": 1701742774,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229829,
       "num": 229829,
       "word": "成都有杜绝假唱固定流程",
@@ -475,6 +475,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 226467,
+      "num": 226467,
+      "word": "李宇春 对不起只是忽然很想你",
+      "onboard_time": 1701742051,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224792,
       "num": 224792,
       "word": "画画不挑睡裤",
@@ -488,6 +496,14 @@
       "word": "医院多收10万涉事护士长被停职检查",
       "onboard_time": 1701732809,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220249,
+      "num": 220249,
+      "word": "第一学历",
+      "onboard_time": 1701743793,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -523,12 +539,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 210219,
-      "num": 210219,
-      "word": "李宇春 对不起只是忽然很想你",
-      "onboard_time": 1701742051,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 206490,
+      "num": 206490,
+      "word": "微博视界大会概念片",
+      "onboard_time": 1701743614,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 195320,
@@ -539,20 +555,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 194574,
+      "num": 194574,
+      "word": "周一围 加钱居士",
+      "onboard_time": 1701740433,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194546,
       "num": 194546,
       "word": "万茜长发自拍",
       "onboard_time": 1701736418,
       "rank": 40,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 189871,
-      "num": 189871,
-      "word": "周一围 加钱居士",
-      "onboard_time": 1701740433,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183141,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 127118,
-      "num": 522860,
+      "num": 627382,
       "word": "我国成功发射谷神星一号遥九运载火箭",
       "onboard_time": 1701740134,
       "rank": 33,
