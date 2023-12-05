@@ -1,0 +1,410 @@
+{
+  "runTime": 1701774932460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1481826,
+        "num": 1481826,
+        "word": "微博视界大会",
+        "onboard_time": 1701770924,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427890,
+        "num": 1248316,
+        "word": "大学生用无人机救遭撕咬保护动物",
+        "onboard_time": 1701769841,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 31593,
+        "num": 1238011,
+        "word": "温暖了2023的志愿者力量",
+        "onboard_time": 1701767919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237331,
+        "num": 1237331,
+        "word": "成毅 礼仪小姐请下班",
+        "onboard_time": 1701771162,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186886,
+        "num": 1142866,
+        "word": "杭州晚霞太美了",
+        "onboard_time": 1701772002,
+        "rank": 4,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 2020426,
+        "num": 1140220,
+        "word": "娜扎 赢麻了",
+        "onboard_time": 1701765581,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1117848,
+        "num": 1117848,
+        "word": "白鹿裙摆好大",
+        "onboard_time": 1701768223,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 921426,
+        "num": 921426,
+        "word": "爱马仕继承人将巨额财产留给园丁",
+        "onboard_time": 1701764856,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 601422,
+        "num": 601422,
+        "word": "涵艺爆料Meiko加入TES",
+        "onboard_time": 1701773979,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1085376,
+        "num": 585959,
+        "word": "张小斐背沟",
+        "onboard_time": 1701767919,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1281696,
+        "num": 582726,
+        "word": "终于知道告五人是告哪五个人了",
+        "onboard_time": 1701762400,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1065950,
+        "num": 566326,
+        "word": "张若昀唐艺昕好甜",
+        "onboard_time": 1701773979,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156559,
+        "num": 551488,
+        "word": "陕西出生仅1个鸡蛋重的熊猫长大了",
+        "onboard_time": 1701774578,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856889,
+        "num": 525684,
+        "word": "刘诗诗 拯救裙子",
+        "onboard_time": 1701767984,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23081,
+        "num": 507973,
+        "word": "郭涛刘琳梅婷刘奕君合照梦回父母爱情",
+        "onboard_time": 1701774036,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743770,
+        "num": 489442,
+        "word": "庆余年2要来了",
+        "onboard_time": 1701772002,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487860,
+        "num": 487860,
+        "word": "王楚钦球品",
+        "onboard_time": 1701769779,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478436,
+        "num": 478436,
+        "word": "下意识撒谎",
+        "onboard_time": 1701768939,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456678,
+        "num": 456678,
+        "word": "杨鸣离婚",
+        "onboard_time": 1701750763,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 419458,
+        "num": 419458,
+        "word": "Meiko 转会",
+        "onboard_time": 1701774163,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 630721,
+        "num": 410880,
+        "word": "景甜 什么裙子要公主自己摆",
+        "onboard_time": 1701772300,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620872,
+        "num": 408168,
+        "word": "龙丹妮 军大衣",
+        "onboard_time": 1701769968,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381295,
+        "num": 381295,
+        "word": "阿姨瞒着爸妈上了8年班",
+        "onboard_time": 1701774036,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371129,
+        "num": 371129,
+        "word": "外卖员诗人后悔带孩子拾荒",
+        "onboard_time": 1701771459,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350324,
+        "num": 350324,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701755200,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 598503,
+        "num": 339323,
+        "word": "告五人 五月天",
+        "onboard_time": 1701756217,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 537000,
+        "num": 335465,
+        "word": "李一桐 好冷啊",
+        "onboard_time": 1701771459,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503540,
+        "num": 326304,
+        "word": "赵丽颖 朱迪警官",
+        "onboard_time": 1701761857,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304329,
+        "num": 304329,
+        "word": "湖南省一县委书记坠江身亡",
+        "onboard_time": 1701759398,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208575,
+        "num": 297777,
+        "word": "当一个成年男性决定坐下小便",
+        "onboard_time": 1701759217,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458135,
+        "num": 296951,
+        "word": "关晓彤开叉刺绣裙",
+        "onboard_time": 1701773559,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440089,
+        "num": 286026,
+        "word": "赵露思 快乐小狗",
+        "onboard_time": 1701764318,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434520,
+        "num": 280039,
+        "word": "元禄杨盈",
+        "onboard_time": 1701773138,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277873,
+        "num": 277873,
+        "word": "几块钱的70孔插排 智商税",
+        "onboard_time": 1701771940,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 274313,
+        "num": 274313,
+        "word": "爸妈已经意识到工作不好找了",
+        "onboard_time": 1701748956,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75047,
+        "num": 274309,
+        "word": "木结构民房起火辅警拿起水枪往里冲",
+        "onboard_time": 1701769841,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386124,
+        "num": 274255,
+        "word": "声理学谈半开麦",
+        "onboard_time": 1701774163,
+        "rank": 36,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 371005,
+        "num": 274221,
+        "word": "林青霞 小酷酷",
+        "onboard_time": 1701772122,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182500,
+        "num": 274209,
+        "word": "孟羽童 清华演讲",
+        "onboard_time": 1701764497,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153191,
+        "num": 274160,
+        "word": "王楚钦孙颖莎热身场全程",
+        "onboard_time": 1701773379,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321499,
+        "num": 274154,
+        "word": "成毅檀健次握手有点烫手",
+        "onboard_time": 1701772122,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307863,
+        "num": 274115,
+        "word": "稳如CD",
+        "onboard_time": 1701764016,
+        "rank": 41,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 274091,
+        "num": 274091,
+        "word": "杨洋韩立造型",
+        "onboard_time": 1701773617,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271368,
+        "num": 271368,
+        "word": "FoFo发文感谢EDG队友",
+        "onboard_time": 1701772539,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 262437,
+        "num": 262437,
+        "word": "卡琳娜 长沙漫展",
+        "onboard_time": 1701754185,
+        "rank": 44,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 237160,
+        "num": 237160,
+        "word": "刘浩存羊毛卷小白花",
+        "onboard_time": 1701774578,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225182,
+        "num": 225182,
+        "word": "他想避世她想入世",
+        "onboard_time": 1701757057,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195922,
+        "num": 195922,
+        "word": "有放射性的石头",
+        "onboard_time": 1701774397,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194709,
+        "num": 194709,
+        "word": "小孩的头发不油",
+        "onboard_time": 1701768223,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142928,
+        "num": 194488,
+        "word": "34岁抗癌网红李小妞去世",
+        "onboard_time": 1701751240,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#宪法守护你我的一生#"
+    }
+  }
+}
