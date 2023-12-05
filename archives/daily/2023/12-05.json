@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701758198646,
+  "endTime": 1701760604150,
   "band_list": [
     {
       "raw_hot": 5848907,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2629106,
-      "num": 1182918,
+      "num": 1243322,
       "word": "杨鸣 思思",
       "onboard_time": 1701755200,
       "rank": 3,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1195049,
+      "num": 1195049,
+      "word": "薛之谦官宣三场演唱会",
+      "onboard_time": 1701759762,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1182653,
       "num": 1182653,
       "word": "银行员工举报被领导施压发生性关系",
@@ -112,6 +120,14 @@
       "word": "刘若英 我爱五月天",
       "onboard_time": 1701695436,
       "rank": 0,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1126181,
+      "num": 1126181,
+      "word": "告五人 五月天",
+      "onboard_time": 1701756217,
+      "rank": 6,
       "category": "演出,社会新闻"
     },
     {
@@ -155,14 +171,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 877306,
-      "num": 877306,
-      "word": "告五人 五月天",
-      "onboard_time": 1701756217,
-      "rank": 6,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 846895,
       "num": 846895,
       "word": "手机贴膜 智商税",
@@ -179,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824252,
+      "num": 824252,
+      "word": "湖南省一县委书记坠江身亡",
+      "onboard_time": 1701759398,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 814919,
       "num": 814919,
       "word": "五月天演唱会荧光棒",
       "onboard_time": 1701736358,
       "rank": 8,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 785016,
+      "num": 785016,
+      "word": "他想避世她想入世",
+      "onboard_time": 1701757057,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 760584,
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689908,
+      "num": 689908,
+      "word": "金莎男友 最不自信的是穷",
+      "onboard_time": 1701758497,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 672510,
       "num": 672510,
       "word": "狐妖小红娘竹业篇官宣杀青",
@@ -291,12 +323,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 576673,
-      "num": 576673,
-      "word": "他想避世她想入世",
-      "onboard_time": 1701757057,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 562040,
+      "num": 562040,
+      "word": "当一个成年男性决定坐下小便",
+      "onboard_time": 1701759217,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554521,
@@ -403,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455310,
+      "num": 455310,
+      "word": "麦辣鸡翅 不裹粉",
+      "onboard_time": 1701758257,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 454754,
       "num": 454754,
       "word": "赵一博 竹业篇",
@@ -425,6 +465,14 @@
       "onboard_time": 1701684454,
       "rank": 12,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 436853,
+      "num": 436853,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1701758799,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 434393,
@@ -465,6 +513,14 @@
       "onboard_time": 1701749257,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419001,
+      "num": 419001,
+      "word": "沪指再失守3000点",
+      "onboard_time": 1701746432,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 417526,
@@ -593,6 +649,14 @@
       "onboard_time": 1701737915,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 353386,
+      "num": 353386,
+      "word": "A股炒出麻将牌",
+      "onboard_time": 1701757779,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 341984,
@@ -795,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262198,
-      "num": 262198,
-      "word": "A股炒出麻将牌",
-      "onboard_time": 1701757779,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 259138,
       "num": 259138,
       "word": "狐妖月红篇杨幂单人视频",
@@ -995,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223225,
-      "num": 223225,
-      "word": "沪指再失守3000点",
-      "onboard_time": 1701746432,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 222742,
       "num": 222742,
       "word": "医院多收10万涉事护士长被停职检查",
@@ -1147,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189990,
+      "num": 189990,
+      "word": "小金毛 我吸到狗了",
+      "onboard_time": 1701760237,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187750,
       "num": 187750,
       "word": "皮卡堂手游",
@@ -1171,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183238,
+      "num": 183238,
+      "word": "杨超越紫色闪钻眼妆",
+      "onboard_time": 1701760538,
+      "rank": 40,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 183141,
       "num": 124586,
       "word": "预录",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1701700720,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179158,
+      "num": 179158,
+      "word": "张杰秒删想唱苦情歌",
+      "onboard_time": 1701759340,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 177587,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1701733954,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159924,
+      "num": 159924,
+      "word": "陈梦3比0朱成竹",
+      "onboard_time": 1701759636,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 159556,
