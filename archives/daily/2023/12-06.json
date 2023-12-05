@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701814627239,
+  "endTime": 1701815674670,
   "band_list": [
     {
       "raw_hot": 3402371,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104694,
+      "num": 58685,
+      "word": "北京一医师因颜值高多人挂号打卡",
+      "onboard_time": 1701796822,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98807,
       "num": 142760,
       "word": "蔚来31.6亿收购江淮汽车设备和资产",
@@ -427,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72510,
-      "num": 58685,
-      "word": "北京一医师因颜值高多人挂号打卡",
-      "onboard_time": 1701796822,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66054,
       "num": 66054,
       "word": "音乐制作人解读什么是垫唱",
@@ -451,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65430,
+      "num": 53391,
+      "word": "张若昀忙得过来吗",
+      "onboard_time": 1701802274,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64666,
       "num": 141795,
       "word": "杨鸣 思思",
       "onboard_time": 1701755200,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 43490,
-      "num": 35058,
-      "word": "张若昀忙得过来吗",
-      "onboard_time": 1701802274,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 37832,
@@ -491,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33869,
+      "num": 34524,
+      "word": "3名小学女生捡2600元交老师报警",
+      "onboard_time": 1701810073,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32553,
       "num": 36102,
       "word": "开麦和半开麦",
@@ -499,20 +507,20 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 32140,
+      "num": 32140,
+      "word": "王安宇首次获得演员奖",
+      "onboard_time": 1701815478,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31787,
       "num": 24827,
       "word": "成毅 真诚",
       "onboard_time": 1701804615,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30988,
-      "num": 30988,
-      "word": "3名小学女生捡2600元交老师报警",
-      "onboard_time": 1701810073,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26346,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 24903,
-      "num": 20281,
+      "num": 24627,
       "word": "领掌的是一位张姓的先生",
       "onboard_time": 1701804915,
       "rank": 31,
