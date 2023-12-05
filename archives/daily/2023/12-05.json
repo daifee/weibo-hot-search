@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701750125503,
+  "endTime": 1701750970239,
   "band_list": [
     {
       "raw_hot": 3004790,
@@ -27,6 +27,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1740309,
+      "num": 473195,
+      "word": "小S说精神出轨比肉体出轨严重",
+      "onboard_time": 1701748656,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1690753,
+      "num": 1232436,
+      "word": "爸妈已经意识到工作不好找了",
+      "onboard_time": 1701748956,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1552586,
       "num": 1552586,
       "word": "第一学历",
@@ -43,14 +59,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 1443378,
-      "num": 418217,
-      "word": "小S说精神出轨比肉体出轨严重",
-      "onboard_time": 1701748656,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1250116,
       "num": 1250116,
       "word": "韩国夫妇操控一家庭19年装13部监控",
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1232436,
-      "num": 1232436,
-      "word": "爸妈已经意识到工作不好找了",
-      "onboard_time": 1701748956,
-      "rank": 3,
-      "category": "幽默"
+      "raw_hot": 1182653,
+      "num": 1182653,
+      "word": "银行员工举报被领导施压发生性关系",
+      "onboard_time": 1701748597,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1166623,
@@ -99,14 +107,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 902904,
-      "num": 902904,
-      "word": "银行员工举报被领导施压发生性关系",
-      "onboard_time": 1701748597,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 885114,
       "num": 885114,
       "word": "看着很丰盛吃下去全是馒头",
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 834550,
-      "num": 320136,
+      "num": 382557,
       "word": "32岁二胎宝妈子宫脱垂掉到大腿上",
       "onboard_time": 1701741995,
       "rank": 20,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635022,
+      "num": 635022,
+      "word": "杨鸣离婚",
+      "onboard_time": 1701750763,
+      "rank": 7,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 625852,
       "num": 625852,
       "word": "宁远舟备孕",
@@ -267,20 +275,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 473076,
+      "num": 473076,
+      "word": "你和男主只差一把烫发夹",
+      "onboard_time": 1701746253,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 470196,
+      "num": 382003,
+      "word": "每天吃1根烤肠对身体有什么影响",
+      "onboard_time": 1701748052,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 444021,
       "num": 444021,
       "word": "胡夏删视频",
       "onboard_time": 1701687398,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 443356,
-      "num": 314854,
-      "word": "每天吃1根烤肠对身体有什么影响",
-      "onboard_time": 1701748052,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 437744,
@@ -307,12 +323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 430109,
-      "num": 386869,
-      "word": "你和男主只差一把烫发夹",
-      "onboard_time": 1701746253,
-      "rank": 34,
-      "category": "美妆"
+      "raw_hot": 428776,
+      "num": 428776,
+      "word": "央视报道了MMA颁奖礼",
+      "onboard_time": 1701749620,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 426180,
+      "num": 426180,
+      "word": "2023年王健林身家仅为470亿元",
+      "onboard_time": 1701749257,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417526,
@@ -340,11 +364,19 @@
     },
     {
       "raw_hot": 393711,
-      "num": 314011,
+      "num": 376044,
       "word": "男子掐死女友鹦鹉被判刑3个半月",
       "onboard_time": 1701746792,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389284,
+      "num": 389284,
+      "word": "赵一博 竹业篇",
+      "onboard_time": 1701749983,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 385590,
@@ -353,6 +385,22 @@
       "onboard_time": 1701744512,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 384946,
+      "num": 384946,
+      "word": "请回答2023娱乐圈大事件",
+      "onboard_time": 1701749200,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 383098,
+      "num": 383098,
+      "word": "杭州一生煎店房租从40万涨到120万",
+      "onboard_time": 1701749920,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369610,
@@ -428,11 +476,19 @@
     },
     {
       "raw_hot": 333736,
-      "num": 312756,
+      "num": 333440,
       "word": "向佐 不是健身去不起抱娃更有性价比",
       "onboard_time": 1701748357,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322848,
+      "num": 322848,
+      "word": "cp感 玄学",
+      "onboard_time": 1701748413,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 322584,
@@ -459,30 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317302,
-      "num": 317302,
-      "word": "cp感 玄学",
-      "onboard_time": 1701748413,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 316983,
-      "num": 316983,
-      "word": "2023年王健林身家仅为470亿元",
-      "onboard_time": 1701749257,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316248,
-      "num": 309929,
-      "word": "请回答2023娱乐圈大事件",
-      "onboard_time": 1701749200,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 315857,
       "num": 258112,
       "word": "五月天现场视频",
@@ -499,20 +531,28 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 306660,
-      "num": 306660,
-      "word": "央视报道了MMA颁奖礼",
-      "onboard_time": 1701749620,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304973,
       "num": 304973,
       "word": "GTA6预告片",
       "onboard_time": 1701747994,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291549,
+      "num": 291549,
+      "word": "魏晨 养老保险",
+      "onboard_time": 1701750641,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 285860,
+      "num": 285860,
+      "word": "南海归墟阮老大去世",
+      "onboard_time": 1701749017,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 284900,
@@ -524,7 +564,7 @@
     },
     {
       "raw_hot": 281146,
-      "num": 429873,
+      "num": 473198,
       "word": "2023微博年度照片",
       "onboard_time": 1701745231,
       "rank": 14,
@@ -571,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255177,
+      "num": 255177,
+      "word": "五月天",
+      "onboard_time": 1701732930,
+      "rank": 31,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 253538,
       "num": 253538,
       "word": "李宇春 对不起只是忽然很想你",
@@ -593,14 +641,6 @@
       "onboard_time": 1701732446,
       "rank": 19,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 248947,
-      "num": 248947,
-      "word": "五月天",
-      "onboard_time": 1701732930,
-      "rank": 31,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 245973,
@@ -627,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239481,
+      "num": 239481,
+      "word": "明日方舟更新",
+      "onboard_time": 1701750281,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 239044,
       "num": 239044,
       "word": "BLG转会",
@@ -643,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237557,
+      "num": 237557,
+      "word": "泰国一旅游大巴发生车祸致14死35伤",
+      "onboard_time": 1701750462,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236881,
       "num": 236881,
       "word": "一建成绩",
@@ -651,11 +707,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 232753,
-      "num": 232753,
+      "raw_hot": 236808,
+      "num": 236808,
       "word": "印度男教师枪口下与绑匪女儿结婚",
       "onboard_time": 1701747454,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233631,
+      "num": 233631,
+      "word": "中福彩回应一人花10万买彩票中2亿",
+      "onboard_time": 1701750705,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -665,14 +729,6 @@
       "onboard_time": 1701707547,
       "rank": 31,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 227527,
-      "num": 227527,
-      "word": "南海归墟阮老大去世",
-      "onboard_time": 1701749017,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 227470,
@@ -689,14 +745,6 @@
       "onboard_time": 1701736237,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 224619,
-      "num": 224619,
-      "word": "赵一博 竹业篇",
-      "onboard_time": 1701749983,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 223540,
@@ -721,6 +769,14 @@
       "onboard_time": 1701732809,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221958,
+      "num": 221958,
+      "word": "刘诗诗沈月新剧演姐妹",
+      "onboard_time": 1701750823,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 219109,
@@ -787,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204169,
+      "num": 204169,
+      "word": "五月天唱功",
+      "onboard_time": 1701750884,
+      "rank": 49,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 201910,
       "num": 201910,
       "word": "步行者淘汰凯尔特人",
@@ -800,14 +864,6 @@
       "word": "被困在第一学历的年轻人",
       "onboard_time": 1701746792,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196531,
-      "num": 196531,
-      "word": "杭州一生煎店房租从40万涨到120万",
-      "onboard_time": 1701749920,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1233,6 +1289,14 @@
       "onboard_time": 1701727875,
       "rank": 44,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 76696,
+      "num": 295260,
+      "word": "9岁哥哥将1岁弟弟搂在怀里写作业",
+      "onboard_time": 1701750344,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72745,
