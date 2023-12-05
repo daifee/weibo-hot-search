@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701800523441,
+  "endTime": 1701801304369,
   "band_list": [
     {
       "raw_hot": 3402371,
@@ -459,11 +459,27 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 32553,
+      "num": 36102,
+      "word": "开麦和半开麦",
+      "onboard_time": 1701801196,
+      "rank": 45,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 26346,
-      "num": 33106,
+      "num": 36100,
       "word": "狗拉雪橇",
       "onboard_time": 1701799521,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18821,
+      "num": 36083,
+      "word": "小伙用电子表掐着成年时间去网吧",
+      "onboard_time": 1701801256,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
