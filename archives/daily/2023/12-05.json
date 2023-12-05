@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701780612080,
+  "endTime": 1701782522747,
   "band_list": [
     {
       "raw_hot": 5848907,
@@ -9,6 +9,14 @@
       "onboard_time": 1701750763,
       "rank": 7,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 4782023,
+      "num": 4782023,
+      "word": "关晓彤内场 秀腿是她的统治区",
+      "onboard_time": 1701779019,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 3140544,
@@ -41,14 +49,6 @@
       "onboard_time": 1701775655,
       "rank": 12,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 2730973,
-      "num": 1666534,
-      "word": "关晓彤内场 秀腿是她的统治区",
-      "onboard_time": 1701779019,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 2629106,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 743880,
-      "num": 323015,
+      "num": 329278,
       "word": "再就业男团 全开麦",
       "onboard_time": 1701777999,
       "rank": 20,
@@ -443,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 718987,
+      "num": 333559,
+      "word": "张天爱 他们怎么穿黑的不告诉我",
+      "onboard_time": 1701780940,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 716322,
       "num": 716322,
       "word": "生日回避型人格",
@@ -465,6 +473,14 @@
       "onboard_time": 1701766121,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 694757,
+      "num": 694757,
+      "word": "马龙 稳稳的幸福",
+      "onboard_time": 1701779861,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 689908,
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634608,
+      "num": 329008,
+      "word": "娜扎这几步好像芭蕾公主",
+      "onboard_time": 1701781060,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630721,
       "num": 410880,
       "word": "景甜 什么裙子要公主自己摆",
@@ -577,6 +601,14 @@
       "onboard_time": 1701742232,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 552189,
+      "num": 295147,
+      "word": "杨迪 只有微博视界大会给综艺人颁奖",
+      "onboard_time": 1701781661,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 548013,
@@ -644,11 +676,19 @@
     },
     {
       "raw_hot": 512534,
-      "num": 246382,
+      "num": 287327,
       "word": "赵一博 种地吧第二季",
       "onboard_time": 1701779676,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503121,
+      "num": 503121,
+      "word": "银行通报员工举报遭领导施压发生关系",
+      "onboard_time": 1701780879,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502669,
@@ -667,20 +707,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 498933,
-      "num": 498933,
-      "word": "马龙 稳稳的幸福",
-      "onboard_time": 1701779861,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 496192,
       "num": 496192,
       "word": "魏晨 养老保险",
       "onboard_time": 1701750641,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 490911,
+      "num": 294830,
+      "word": "白鹿 年度号召力演员",
+      "onboard_time": 1701781477,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 485131,
@@ -931,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399935,
+      "num": 227697,
+      "word": "檀健次 一念无明",
+      "onboard_time": 1701782023,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396530,
       "num": 396530,
       "word": "于适 JBL",
@@ -1107,6 +1155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 361910,
+      "num": 361910,
+      "word": "莎头 没打哭对手吧",
+      "onboard_time": 1701781599,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360062,
       "num": 360062,
       "word": "这样追星真的有点暧昧了",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1701757779,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 343093,
+      "num": 343093,
+      "word": "EDG 人情味",
+      "onboard_time": 1701780940,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 341984,
@@ -1259,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316897,
+      "num": 316897,
+      "word": "难怪有故人之姿 原来是故人之子",
+      "onboard_time": 1701778659,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 315857,
       "num": 258112,
       "word": "五月天现场视频",
@@ -1355,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296903,
+      "num": 296903,
+      "word": "戒烟多久肺部能恢复正常状态",
+      "onboard_time": 1701780520,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 296737,
       "num": 296737,
       "word": "赵露思吊带透视黑裙",
@@ -1371,12 +1451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 293563,
-      "num": 293563,
-      "word": "难怪有故人之姿 原来是故人之子",
-      "onboard_time": 1701778659,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 292920,
+      "num": 292920,
+      "word": "蔚来31.6亿收购江淮汽车设备和资产",
+      "onboard_time": 1701779198,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 290848,
@@ -1435,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283988,
+      "num": 283988,
+      "word": "阴阳师 超鬼王",
+      "onboard_time": 1701780639,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281502,
       "num": 281502,
       "word": "张天爱 红玫瑰",
@@ -1481,14 +1569,6 @@
       "onboard_time": 1701773617,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273201,
-      "num": 273201,
-      "word": "蔚来31.6亿收购江淮汽车设备和资产",
-      "onboard_time": 1701779198,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 272228,
@@ -1609,6 +1689,14 @@
       "onboard_time": 1701756519,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252982,
+      "num": 252982,
+      "word": "黑鲨卖饮料",
+      "onboard_time": 1701781838,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 250435,
@@ -2011,6 +2099,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 184752,
+      "num": 237367,
+      "word": "绝经真的是越老越好吗",
+      "onboard_time": 1701780338,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184010,
       "num": 184010,
       "word": "风晴雪涂山红红 灵蝶",
@@ -2331,14 +2427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137856,
-      "num": 238029,
-      "word": "戒烟多久肺部能恢复正常状态",
-      "onboard_time": 1701780520,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136530,
       "num": 237631,
       "word": "新型花语",
@@ -2353,14 +2441,6 @@
       "onboard_time": 1701670358,
       "rank": 42,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 131597,
-      "num": 237367,
-      "word": "绝经真的是越老越好吗",
-      "onboard_time": 1701780338,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 130924,
@@ -2424,6 +2504,14 @@
       "word": "比12315还管用的维权方法",
       "onboard_time": 1701693217,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110125,
+      "num": 200874,
+      "word": "相关部门称约谈喜茶因接到投诉",
+      "onboard_time": 1701782320,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
