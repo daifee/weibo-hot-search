@@ -1,0 +1,410 @@
+{
+  "runTime": 1701819292300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1521228,
+        "num": 1521228,
+        "word": "阿信忘了话筒在哪只手",
+        "onboard_time": 1701791256,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 927741,
+        "num": 927741,
+        "word": "人民日报评五月天疑似假唱",
+        "onboard_time": 1701775655,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 20135,
+        "num": 783969,
+        "word": "聚焦COP28",
+        "onboard_time": 1701783165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727337,
+        "num": 727337,
+        "word": "湖南卫视 那英",
+        "onboard_time": 1701786460,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645895,
+        "num": 645895,
+        "word": "上海19岁外卖小哥称第一次遇到商场这样做",
+        "onboard_time": 1701786280,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548167,
+        "num": 548167,
+        "word": "白鹿的上身身材",
+        "onboard_time": 1701787902,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391037,
+        "num": 391037,
+        "word": "难哄 白敬亭刘浩存",
+        "onboard_time": 1701785383,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373738,
+        "num": 373738,
+        "word": "多平台取消杨鸣总教练认证",
+        "onboard_time": 1701777634,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 352527,
+        "num": 352527,
+        "word": "轻语 已婚有娃",
+        "onboard_time": 1701785979,
+        "rank": 8,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 211552,
+        "num": 211552,
+        "word": "西安一村庄被倾倒核酸采样试管",
+        "onboard_time": 1701818905,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353832,
+        "num": 211417,
+        "word": "黄晓明 张小斐是我的粉丝",
+        "onboard_time": 1701787482,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261595,
+        "num": 210913,
+        "word": "宋妍霏钻石肚兜",
+        "onboard_time": 1701794546,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248585,
+        "num": 210199,
+        "word": "张天爱 他们怎么穿黑的不告诉我",
+        "onboard_time": 1701780940,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208799,
+        "num": 208799,
+        "word": "斗鱼主播",
+        "onboard_time": 1701783581,
+        "rank": 13,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 201849,
+        "num": 201849,
+        "word": "我国卫星互联网技术试验卫星发射成功",
+        "onboard_time": 1701818365,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206183,
+        "num": 199198,
+        "word": "张若昀忙得过来吗",
+        "onboard_time": 1701802274,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195578,
+        "num": 195578,
+        "word": "关晓彤内场 秀腿是她的统治区",
+        "onboard_time": 1701779019,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181174,
+        "num": 181174,
+        "word": "花近10万买彩票中2亿真实性有待确认",
+        "onboard_time": 1701818305,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 180873,
+        "num": 180873,
+        "word": "银行通报员工举报遭领导施压发生关系",
+        "onboard_time": 1701780879,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163041,
+        "num": 163041,
+        "word": "阿姨瞒着爸妈上了8年班",
+        "onboard_time": 1701774036,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 298229,
+        "num": 161464,
+        "word": "北京一医师因颜值高多人挂号打卡",
+        "onboard_time": 1701796822,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194737,
+        "num": 159232,
+        "word": "新疆多地突发闹海风",
+        "onboard_time": 1701817279,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156522,
+        "num": 156522,
+        "word": "终于知道告五人是告哪五个人了",
+        "onboard_time": 1701762400,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 155676,
+        "num": 155676,
+        "word": "黄觉 藏海传",
+        "onboard_time": 1701789819,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153868,
+        "num": 153868,
+        "word": "你一页纸翻过去就能翻过别人一辈子",
+        "onboard_time": 1701788980,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151322,
+        "num": 151322,
+        "word": "檀健次 红毯荷官",
+        "onboard_time": 1701786040,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140109,
+        "num": 140109,
+        "word": "成毅坐姿",
+        "onboard_time": 1701789160,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139154,
+        "num": 139154,
+        "word": "赖斯绝杀",
+        "onboard_time": 1701818305,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137070,
+        "num": 137070,
+        "word": "丁海寅 夜店常客",
+        "onboard_time": 1701782799,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129926,
+        "num": 129926,
+        "word": "3名小学女生捡2600元交老师报警",
+        "onboard_time": 1701810073,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141654,
+        "num": 129666,
+        "word": "深圳男篮队内冲突",
+        "onboard_time": 1701818545,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131836,
+        "num": 128484,
+        "word": "王安宇首次获得演员奖",
+        "onboard_time": 1701815478,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122104,
+        "num": 122104,
+        "word": "李沁体态",
+        "onboard_time": 1701817765,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113960,
+        "num": 113960,
+        "word": "中国6G核心方案公布",
+        "onboard_time": 1701818965,
+        "rank": 33,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 103285,
+        "num": 103285,
+        "word": "景甜赵露思成毅坐一起",
+        "onboard_time": 1701777336,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100984,
+        "num": 100984,
+        "word": "瘦腿封神组合",
+        "onboard_time": 1701789101,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 96692,
+        "num": 96692,
+        "word": "彩票",
+        "onboard_time": 1701790898,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94938,
+        "num": 94938,
+        "word": "爱马仕继承人将巨额财产留给园丁",
+        "onboard_time": 1701764856,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 93220,
+        "num": 93220,
+        "word": "赵一博 种地吧第二季",
+        "onboard_time": 1701779676,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89169,
+        "num": 89169,
+        "word": "张若昀唐艺昕好甜",
+        "onboard_time": 1701773979,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88847,
+        "num": 88847,
+        "word": "陕西出生仅1个鸡蛋重的熊猫长大了",
+        "onboard_time": 1701774578,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88594,
+        "num": 88594,
+        "word": "关晓彤 走秀回头再练",
+        "onboard_time": 1701785806,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86008,
+        "num": 86008,
+        "word": "赵露思 油画少女",
+        "onboard_time": 1701775655,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85782,
+        "num": 85782,
+        "word": "卖15的卷饼 提供150的情绪价值",
+        "onboard_time": 1701788566,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79774,
+        "num": 79774,
+        "word": "卢顿3比4阿森纳",
+        "onboard_time": 1701817826,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77746,
+        "num": 77746,
+        "word": "娜扎 赢麻了",
+        "onboard_time": 1701765581,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77582,
+        "num": 77582,
+        "word": "蔚来31.6亿收购江淮汽车设备和资产",
+        "onboard_time": 1701779198,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75469,
+        "num": 75469,
+        "word": "李一桐笑疯了",
+        "onboard_time": 1701786945,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69635,
+        "num": 69635,
+        "word": "何蓝逗男装扮相",
+        "onboard_time": 1701796761,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67883,
+        "num": 67883,
+        "word": "财政部回应穆迪下调我主权信用评级展望",
+        "onboard_time": 1701786460,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#宪法守护你我的一生#"
+    }
+  }
+}

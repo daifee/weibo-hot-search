@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701818290504,
+  "endTime": 1701819292300,
   "band_list": [
     {
       "raw_hot": 3402371,
@@ -59,8 +59,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 553564,
-      "num": 553564,
+      "raw_hot": 645895,
+      "num": 645895,
       "word": "上海19岁外卖小哥称第一次遇到商场这样做",
       "onboard_time": 1701786280,
       "rank": 7,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 356295,
-      "num": 149100,
+      "num": 156522,
       "word": "终于知道告五人是告哪五个人了",
       "onboard_time": 1701762400,
       "rank": 25,
@@ -156,11 +156,19 @@
     },
     {
       "raw_hot": 314656,
-      "num": 148148,
+      "num": 155676,
       "word": "黄觉 藏海传",
       "onboard_time": 1701789819,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298229,
+      "num": 161464,
+      "word": "北京一医师因颜值高多人挂号打卡",
+      "onboard_time": 1701796822,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279191,
@@ -179,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266773,
-      "num": 111863,
-      "word": "北京一医师因颜值高多人挂号打卡",
-      "onboard_time": 1701796822,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 261595,
+      "num": 243564,
+      "word": "宋妍霏钻石肚兜",
+      "onboard_time": 1701794546,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 256139,
@@ -203,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247239,
-      "num": 243564,
-      "word": "宋妍霏钻石肚兜",
-      "onboard_time": 1701794546,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222711,
       "num": 143075,
       "word": "孟子义珍珠项链",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 217828,
-      "num": 143141,
+      "num": 151322,
       "word": "檀健次 红毯荷官",
       "onboard_time": 1701786040,
       "rank": 35,
@@ -251,12 +251,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211552,
+      "num": 211552,
+      "word": "西安一村庄被倾倒核酸采样试管",
+      "onboard_time": 1701818905,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206183,
+      "num": 199198,
+      "word": "张若昀忙得过来吗",
+      "onboard_time": 1701802274,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202490,
       "num": 202490,
       "word": "爱马仕继承人将巨额财产留给园丁",
       "onboard_time": 1701764856,
       "rank": 19,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 201849,
+      "num": 201849,
+      "word": "我国卫星互联网技术试验卫星发射成功",
+      "onboard_time": 1701818365,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199131,
@@ -273,6 +297,14 @@
       "onboard_time": 1701788503,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194737,
+      "num": 159232,
+      "word": "新疆多地突发闹海风",
+      "onboard_time": 1701817279,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193389,
@@ -299,6 +331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181174,
+      "num": 181174,
+      "word": "花近10万买彩票中2亿真实性有待确认",
+      "onboard_time": 1701818305,
+      "rank": 17,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 180873,
+      "num": 180873,
+      "word": "银行通报员工举报遭领导施压发生关系",
+      "onboard_time": 1701780879,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171038,
       "num": 156957,
       "word": "卢顿3比4阿森纳",
@@ -307,35 +355,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161717,
-      "num": 106253,
-      "word": "白鹿摸王星越的头",
-      "onboard_time": 1701794188,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 156902,
-      "num": 156902,
-      "word": "银行通报员工举报遭领导施压发生关系",
-      "onboard_time": 1701780879,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153764,
-      "num": 153764,
+      "raw_hot": 163041,
+      "num": 163041,
       "word": "阿姨瞒着爸妈上了8年班",
       "onboard_time": 1701774036,
       "rank": 23,
       "category": "幽默"
     },
     {
-      "raw_hot": 151893,
-      "num": 151893,
-      "word": "张若昀忙得过来吗",
-      "onboard_time": 1701802274,
-      "rank": 33,
+      "raw_hot": 161717,
+      "num": 106253,
+      "word": "白鹿摸王星越的头",
+      "onboard_time": 1701794188,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -363,12 +395,52 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 141654,
+      "num": 129666,
+      "word": "深圳男篮队内冲突",
+      "onboard_time": 1701818545,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139154,
+      "num": 139154,
+      "word": "赖斯绝杀",
+      "onboard_time": 1701818305,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131836,
+      "num": 128484,
+      "word": "王安宇首次获得演员奖",
+      "onboard_time": 1701815478,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129926,
+      "num": 129926,
+      "word": "3名小学女生捡2600元交老师报警",
+      "onboard_time": 1701810073,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125631,
       "num": 142959,
       "word": "Meiko 转会",
       "onboard_time": 1701774163,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122104,
+      "num": 122104,
+      "word": "李沁体态",
+      "onboard_time": 1701817765,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 114951,
@@ -380,19 +452,19 @@
     },
     {
       "raw_hot": 114913,
-      "num": 63668,
+      "num": 69635,
       "word": "何蓝逗男装扮相",
       "onboard_time": 1701796761,
       "rank": 26,
       "category": "剧集"
     },
     {
-      "raw_hot": 112546,
-      "num": 112546,
-      "word": "3名小学女生捡2600元交老师报警",
-      "onboard_time": 1701810073,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 113960,
+      "num": 113960,
+      "word": "中国6G核心方案公布",
+      "onboard_time": 1701818965,
+      "rank": 33,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 112156,
@@ -401,14 +473,6 @@
       "onboard_time": 1701793409,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109389,
-      "num": 109389,
-      "word": "新疆多地突发闹海风",
-      "onboard_time": 1701817279,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107623,
@@ -427,14 +491,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 97330,
-      "num": 87536,
-      "word": "王安宇首次获得演员奖",
-      "onboard_time": 1701815478,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93326,
       "num": 142166,
       "word": "财政部回应穆迪下调我主权信用评级展望",
@@ -449,6 +505,14 @@
       "onboard_time": 1701774578,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88594,
+      "num": 88594,
+      "word": "关晓彤 走秀回头再练",
+      "onboard_time": 1701785806,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 86671,
@@ -472,14 +536,6 @@
       "word": "微博视界大会",
       "onboard_time": 1701770924,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 71272,
-      "num": 66602,
-      "word": "李沁体态",
-      "onboard_time": 1701817765,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -571,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20135,
+      "num": 1183146,
+      "word": "聚焦COP28",
+      "onboard_time": 1701783165,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19889,
       "num": 19889,
       "word": "檀健次 年度号召力演员",
@@ -584,14 +648,6 @@
       "word": "小伙用电子表掐着成年时间去网吧",
       "onboard_time": 1701801256,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18285,
-      "num": 1183146,
-      "word": "聚焦COP28",
-      "onboard_time": 1701783165,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
