@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701765351588,
+  "endTime": 1701767895999,
   "band_list": [
     {
       "raw_hot": 5848907,
@@ -43,12 +43,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2380115,
+      "num": 2380115,
+      "word": "娜扎 赢麻了",
+      "onboard_time": 1701765581,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2031913,
       "num": 2031913,
       "word": "34岁抗癌网红李小妞去世",
       "onboard_time": 1701751240,
       "rank": 1,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1977917,
+      "num": 1977917,
+      "word": "终于知道告五人是告哪五个人了",
+      "onboard_time": 1701762400,
+      "rank": 1,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1894834,
@@ -67,20 +83,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1721642,
-      "num": 1721642,
-      "word": "终于知道告五人是告哪五个人了",
-      "onboard_time": 1701762400,
-      "rank": 1,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 1690753,
       "num": 1232436,
       "word": "爸妈已经意识到工作不好找了",
       "onboard_time": 1701748956,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1666695,
+      "num": 1666695,
+      "word": "爱马仕继承人将巨额财产留给园丁",
+      "onboard_time": 1701764856,
+      "rank": 24,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1645206,
@@ -177,6 +193,14 @@
       "onboard_time": 1701754185,
       "rank": 22,
       "category": "网红,动漫"
+    },
+    {
+      "raw_hot": 957341,
+      "num": 957341,
+      "word": "赵露思 快乐小狗",
+      "onboard_time": 1701764318,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 952023,
@@ -307,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 682411,
-      "num": 383420,
-      "word": "赵露思 快乐小狗",
-      "onboard_time": 1701764318,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 672510,
       "num": 672510,
       "word": "狐妖小红娘竹业篇官宣杀青",
@@ -345,6 +361,14 @@
       "onboard_time": 1701741215,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 619550,
+      "num": 524491,
+      "word": "金晨薄薄一片腰",
+      "onboard_time": 1701766121,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 613558,
@@ -387,6 +411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 536878,
+      "num": 536878,
+      "word": "孟羽童 清华演讲",
+      "onboard_time": 1701764497,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532523,
+      "num": 532523,
+      "word": "财政部回应穆迪调降中国主权信用评级展望",
+      "onboard_time": 1701764616,
+      "rank": 17,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 530063,
       "num": 530063,
       "word": "杭州一生煎店房租从40万涨到120万",
@@ -401,6 +441,14 @@
       "onboard_time": 1701756999,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 515285,
+      "num": 515285,
+      "word": "成毅立体莲花西装",
+      "onboard_time": 1701766301,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 502669,
@@ -428,7 +476,7 @@
     },
     {
       "raw_hot": 485131,
-      "num": 381880,
+      "num": 483646,
       "word": "杨迪 主持",
       "onboard_time": 1701764675,
       "rank": 15,
@@ -539,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431357,
+      "num": 393631,
+      "word": "竹业篇妆造",
+      "onboard_time": 1701763958,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431164,
       "num": 431164,
       "word": "张雪峰曾谈普通大学和名校差距",
@@ -587,14 +643,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 410815,
-      "num": 380853,
-      "word": "财政部回应穆迪调降中国主权信用评级展望",
-      "onboard_time": 1701764616,
-      "rank": 17,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 407664,
       "num": 407664,
       "word": "半开麦",
@@ -627,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389644,
+      "num": 389644,
+      "word": "股市",
+      "onboard_time": 1701766482,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 389590,
       "num": 389590,
       "word": "教育部印发通知不带病上课上学",
@@ -649,6 +705,14 @@
       "onboard_time": 1701749200,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 381042,
+      "num": 381042,
+      "word": "李沁鎏金深V",
+      "onboard_time": 1701764558,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 380023,
@@ -699,6 +763,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 364381,
+      "num": 364381,
+      "word": "胡一天 风衣压不住大长腿",
+      "onboard_time": 1701766901,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 363028,
+      "num": 363028,
+      "word": "神隐快播了",
+      "onboard_time": 1701767622,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360062,
       "num": 360062,
       "word": "这样追星真的有点暧昧了",
@@ -721,14 +801,6 @@
       "onboard_time": 1701764016,
       "rank": 21,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 356539,
-      "num": 356539,
-      "word": "孟羽童 清华演讲",
-      "onboard_time": 1701764497,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354200,
@@ -771,14 +843,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 336525,
-      "num": 336525,
-      "word": "爱马仕继承人将巨额财产留给园丁",
-      "onboard_time": 1701764856,
-      "rank": 24,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 333736,
       "num": 333440,
       "word": "向佐 不是健身去不起抱娃更有性价比",
@@ -795,28 +859,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325686,
-      "num": 325686,
-      "word": "五月天10年前就在日本被质疑假唱",
-      "onboard_time": 1701761256,
-      "rank": 26,
-      "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 325353,
-      "num": 325353,
+      "raw_hot": 331882,
+      "num": 331882,
       "word": "许诗晴和王伟在一起了",
       "onboard_time": 1701765218,
       "rank": 25,
       "category": "剧集"
     },
     {
-      "raw_hot": 324256,
-      "num": 324256,
-      "word": "李沁鎏金深V",
-      "onboard_time": 1701764558,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 325686,
+      "num": 325686,
+      "word": "五月天10年前就在日本被质疑假唱",
+      "onboard_time": 1701761256,
+      "rank": 26,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 322848,
@@ -859,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 315353,
+      "num": 290336,
+      "word": "新闻女王 TVB翻身",
+      "onboard_time": 1701766121,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310698,
       "num": 310698,
       "word": "老师收集家长工作视频课堂播放引热议",
@@ -875,12 +939,28 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 307146,
+      "num": 206320,
+      "word": "李兰迪野猫妆",
+      "onboard_time": 1701765338,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304973,
       "num": 304973,
       "word": "GTA6预告片",
       "onboard_time": 1701747994,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304598,
+      "num": 206039,
+      "word": "娜扎 黑夜女王",
+      "onboard_time": 1701766058,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 299441,
@@ -905,6 +985,14 @@
       "onboard_time": 1701752263,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 290848,
+      "num": 290848,
+      "word": "生理期也能做的减脂动作",
+      "onboard_time": 1701765698,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 290304,
@@ -1307,6 +1395,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 207719,
+      "num": 207719,
+      "word": "莎头 像素小人",
+      "onboard_time": 1701767679,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206490,
       "num": 206490,
       "word": "微博视界大会概念片",
@@ -1337,6 +1433,14 @@
       "onboard_time": 1701745777,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199007,
+      "num": 199007,
+      "word": "唐嫣红发女爵妆",
+      "onboard_time": 1701765637,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197611,
@@ -1419,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183944,
-      "num": 183944,
-      "word": "李兰迪野猫妆",
-      "onboard_time": 1701765338,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183238,
       "num": 183238,
       "word": "杨超越紫色闪钻眼妆",
@@ -1489,6 +1585,14 @@
       "onboard_time": 1701703954,
       "rank": 35,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 175025,
+      "num": 175025,
+      "word": "白起卡面",
+      "onboard_time": 1701767800,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 173509,
