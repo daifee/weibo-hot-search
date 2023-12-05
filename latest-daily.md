@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/05 00:24:15 ~ 2023/12/05 11:20:09
+本榜单时间：2023/12/05 00:24:15 ~ 2023/12/05 11:34:12
 </p>
 </blockquote>
 <p>
@@ -28,19 +28,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%92%8C985%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
-普通大学和985大学的区别（热度：2303889）
+普通大学和985大学的区别（热度：2525096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%23" target="weibo">
+第一学历（热度：1552586）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%BD%93%E4%B8%BA%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8F%91%E5%A3%B0%23" target="weibo">
 丁当为五月天发声（热度：1469746）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%23" target="weibo">
-第一学历（热度：1314547）
 </a>
 </li>
 
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E5%91%BC%E5%99%9C%E7%9A%84%E4%BA%BA%E4%B8%8D%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%B5%E9%86%92%23" target="weibo">
 为什么打呼噜的人不把自己吵醒（热度：952023）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%816.8%E4%BA%BF%E5%85%83%E5%86%8D%E5%8D%96%E6%A5%BC%23" target="weibo">
+美特斯邦威6.8亿元再卖楼（热度：951529）
 </a>
 </li>
 
@@ -111,12 +117,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%89%B9%E6%96%AF%E9%82%A6%E5%A8%816.8%E4%BA%BF%E5%85%83%E5%86%8D%E5%8D%96%E6%A5%BC%23" target="weibo">
-美特斯邦威6.8亿元再卖楼（热度：730818）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B5%E5%B7%A2%E6%97%A9%E8%A1%B0%23" target="weibo">
 卵巢早衰（热度：725948）
 </a>
@@ -160,7 +160,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%9D%9A%E6%8C%81%E4%B8%80%E5%B9%B452%E4%B8%AA%E5%91%A8%E6%9C%AB%E9%83%BD%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%23" target="weibo">
-小伙坚持一年52个周末都出去旅游（热度：567040）
+小伙坚持一年52个周末都出去旅游（热度：613558）
 </a>
 </li>
 
@@ -249,8 +249,20 @@ GTA6（热度：434393）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92%E5%94%AE%E9%A2%9D%E7%A0%B4700%E4%B8%87%23" target="weibo">
+五月天北京演唱会荧光棒售额破700万（热度：367463）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E4%B8%80%E6%AC%A1%E5%AD%A6%E4%BC%9A%E5%85%AB%E6%AE%B5%E9%94%A6%23" target="weibo">
 如何一次学会八段锦（热度：366745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E8%BF%BD%E6%98%9F%E7%9C%9F%E7%9A%84%E6%9C%89%E7%82%B9%E6%9A%A7%E6%98%A7%E4%BA%86%23" target="weibo">
+这样追星真的有点暧昧了（热度：360062）
 </a>
 </li>
 
@@ -261,14 +273,14 @@ GTA6（热度：434393）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%E7%BE%8E%E7%94%B2%23" target="weibo">
-烟花美甲（热度：354200）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0400%E4%B8%87%E7%9A%84%E8%88%9E%23" target="weibo">
+林俊杰400万的舞（热度：354731）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0400%E4%B8%87%E7%9A%84%E8%88%9E%23" target="weibo">
-林俊杰400万的舞（热度：354092）
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%E7%BE%8E%E7%94%B2%23" target="weibo">
+烟花美甲（热度：354200）
 </a>
 </li>
 
@@ -285,8 +297,8 @@ GTA6（热度：434393）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8D%A7%E5%85%89%E6%A3%92%E5%94%AE%E9%A2%9D%E7%A0%B4700%E4%B8%87%23" target="weibo">
-五月天北京演唱会荧光棒售额破700万（热度：329175）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%92%8C%E7%94%B7%E4%B8%BB%E5%8F%AA%E5%B7%AE%E4%B8%80%E6%8A%8A%E7%83%AB%E5%8F%91%E5%A4%B9%23" target="weibo">
+你和男主只差一把烫发夹（热度：322985）
 </a>
 </li>
 
@@ -309,12 +321,6 @@ twice回归（热度：322584）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E8%BF%BD%E6%98%9F%E7%9C%9F%E7%9A%84%E6%9C%89%E7%82%B9%E6%9A%A7%E6%98%A7%E4%BA%86%23" target="weibo">
-这样追星真的有点暧昧了（热度：311811）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%94%B6%E9%9B%86%E5%AE%B6%E9%95%BF%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%E8%AF%BE%E5%A0%82%E6%92%AD%E6%94%BE%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
 老师收集家长工作视频课堂播放引热议（热度：310698）
 </a>
@@ -323,6 +329,12 @@ twice回归（热度：322584）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%82%96%E6%88%98%E5%90%88%E7%85%A7%23" target="weibo">
 林俊杰肖战合照（热度：284900）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232023%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E7%85%A7%E7%89%87%23" target="weibo">
+2023微博年度照片（热度：281146）
 </a>
 </li>
 
@@ -423,12 +435,6 @@ B站跨晚真神仙阵容（热度：227470）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232023%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E7%85%A7%E7%89%87%23" target="weibo">
-2023微博年度照片（热度：226600）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%BB%E7%94%BB%E4%B8%8D%E6%8C%91%E7%9D%A1%E8%A3%A4%23" target="weibo">
 画画不挑睡裤（热度：224792）
 </a>
@@ -437,6 +443,12 @@ B站跨晚真神仙阵容（热度：227470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%23" target="weibo">
 狐妖小红娘（热度：223540）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%AA%E6%8C%87%E5%86%8D%E5%A4%B1%E5%AE%883000%E7%82%B9%23" target="weibo">
+沪指再失守3000点（热度：223225）
 </a>
 </li>
 
@@ -459,6 +471,12 @@ B站跨晚真神仙阵容（热度：227470）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8E%90%E6%AD%BB%E5%A5%B3%E5%8F%8B%E9%B9%A6%E9%B9%89%E8%A2%AB%E5%88%A4%E5%88%913%E4%B8%AA%E5%8D%8A%E6%9C%88%23" target="weibo">
+男子掐死女友鹦鹉被判刑3个半月（热度：214893）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E7%9D%AB%E6%AF%9B%E5%AF%B9%E5%AE%B9%E8%B2%8C%E7%9C%9F%E7%9A%84%E5%BE%88%E9%87%8D%E8%A6%81%23" target="weibo">
 假睫毛对容貌真的很重要（热度：214698）
 </a>
@@ -467,6 +485,12 @@ B站跨晚真神仙阵容（热度：227470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%20%E6%88%91%E5%BA%A7%E4%BD%8D%E8%BF%98%E6%B2%A1%E5%BC%80%E5%A7%8B%E6%8E%92%E5%91%A2%23" target="weibo">
 刘冲 我座位还没开始排呢（热度：211740）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A7%E5%85%89%E6%A3%92%20%E4%BB%B7%E6%A0%BC%23" target="weibo">
+荧光棒 价格（热度：209931）
 </a>
 </li>
 
@@ -483,8 +507,8 @@ B站跨晚真神仙阵容（热度：227470）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%92%8C%E7%94%B7%E4%B8%BB%E5%8F%AA%E5%B7%AE%E4%B8%80%E6%8A%8A%E7%83%AB%E5%8F%91%E5%A4%B9%23" target="weibo">
-你和男主只差一把烫发夹（热度：198691）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E5%9C%A8%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%23" target="weibo">
+被困在第一学历的年轻人（热度：197611）
 </a>
 </li>
 
@@ -503,6 +527,12 @@ B站跨晚真神仙阵容（热度：227470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%8C%9C%E9%95%BF%E5%8F%91%E8%87%AA%E6%8B%8D%23" target="weibo">
 万茜长发自拍（热度：194546）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E5%85%A8%E9%98%B5%E5%AE%B9%23" target="weibo">
+微博视界大会全阵容（热度：190554）
 </a>
 </li>
 
@@ -597,6 +627,12 @@ QQ音乐回应涨价（热度：171765）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%BA%8C%23" target="weibo">
+双十二（热度：159556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%BA%E6%9C%80%E5%90%8E%E4%BA%8C%E5%8D%81%E5%A4%A9%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
 考研人最后二十天的精神状态（热度：159049）
 </a>
@@ -647,6 +683,12 @@ NBA季中锦标赛（热度：150119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E8%BF%98%E6%89%93%E5%90%97%23" target="weibo">
 王楚钦 还打吗（热度：144653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%23" target="weibo">
+一闪一闪亮星星预售票房（热度：144560）
 </a>
 </li>
 

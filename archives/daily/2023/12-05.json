@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701746409497,
+  "endTime": 1701747252700,
   "band_list": [
     {
       "raw_hot": 3004790,
@@ -12,19 +12,27 @@
     },
     {
       "raw_hot": 2842874,
-      "num": 1278276,
+      "num": 1368075,
       "word": "恋丑癖",
       "onboard_time": 1701735636,
       "rank": 3,
       "category": "情感"
     },
     {
-      "raw_hot": 2303889,
-      "num": 2303889,
+      "raw_hot": 2525096,
+      "num": 2525096,
       "word": "普通大学和985大学的区别",
       "onboard_time": 1701742712,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1552586,
+      "num": 1552586,
+      "word": "第一学历",
+      "onboard_time": 1701743793,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1469746,
@@ -33,14 +41,6 @@
       "onboard_time": 1701736116,
       "rank": 1,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1314547,
-      "num": 1314547,
-      "word": "第一学历",
-      "onboard_time": 1701743793,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1250116,
@@ -65,6 +65,14 @@
       "onboard_time": 1701736718,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 951529,
+      "num": 951529,
+      "word": "美特斯邦威6.8亿元再卖楼",
+      "onboard_time": 1701744753,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 916051,
@@ -131,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 730818,
-      "num": 730818,
-      "word": "美特斯邦威6.8亿元再卖楼",
-      "onboard_time": 1701744753,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 725948,
       "num": 725948,
       "word": "卵巢早衰",
@@ -195,7 +195,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 567040,
+      "raw_hot": 613558,
       "num": 567040,
       "word": "小伙坚持一年52个周末都出去旅游",
       "onboard_time": 1701744154,
@@ -315,12 +315,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 367463,
+      "num": 367463,
+      "word": "五月天北京演唱会荧光棒售额破700万",
+      "onboard_time": 1701745595,
+      "rank": 18,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 366745,
       "num": 283268,
       "word": "如何一次学会八段锦",
       "onboard_time": 1701739594,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 360062,
+      "num": 360062,
+      "word": "这样追星真的有点暧昧了",
+      "onboard_time": 1701745113,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 359202,
@@ -331,20 +347,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 354731,
+      "num": 354731,
+      "word": "林俊杰400万的舞",
+      "onboard_time": 1701744512,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 354200,
       "num": 354200,
       "word": "烟花美甲",
       "onboard_time": 1701737915,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 354092,
-      "num": 354092,
-      "word": "林俊杰400万的舞",
-      "onboard_time": 1701744512,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 341984,
@@ -363,12 +379,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 329175,
-      "num": 329175,
-      "word": "五月天北京演唱会荧光棒售额破700万",
-      "onboard_time": 1701745595,
-      "rank": 18,
-      "category": "演出,社会新闻"
+      "raw_hot": 322985,
+      "num": 222574,
+      "word": "你和男主只差一把烫发夹",
+      "onboard_time": 1701746253,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 322584,
@@ -395,14 +411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 311811,
-      "num": 311811,
-      "word": "这样追星真的有点暧昧了",
-      "onboard_time": 1701745113,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310698,
       "num": 310698,
       "word": "老师收集家长工作视频课堂播放引热议",
@@ -417,6 +425,14 @@
       "onboard_time": 1701691475,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281146,
+      "num": 429873,
+      "word": "2023微博年度照片",
+      "onboard_time": 1701745231,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 278220,
@@ -547,14 +563,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 226600,
-      "num": 367112,
-      "word": "2023微博年度照片",
-      "onboard_time": 1701745231,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 224792,
       "num": 224792,
       "word": "画画不挑睡裤",
@@ -569,6 +577,14 @@
       "onboard_time": 1701746015,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223225,
+      "num": 223225,
+      "word": "沪指再失守3000点",
+      "onboard_time": 1701746432,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 222742,
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214893,
+      "num": 214893,
+      "word": "男子掐死女友鹦鹉被判刑3个半月",
+      "onboard_time": 1701746792,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214698,
       "num": 214698,
       "word": "假睫毛对容貌真的很重要",
@@ -609,6 +633,14 @@
       "onboard_time": 1701702214,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 209931,
+      "num": 209931,
+      "word": "荧光棒 价格",
+      "onboard_time": 1701746733,
+      "rank": 33,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 206490,
@@ -627,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198691,
-      "num": 198691,
-      "word": "你和男主只差一把烫发夹",
-      "onboard_time": 1701746253,
-      "rank": 34,
-      "category": "美妆"
+      "raw_hot": 197611,
+      "num": 197611,
+      "word": "被困在第一学历的年轻人",
+      "onboard_time": 1701746792,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195320,
@@ -657,6 +689,14 @@
       "onboard_time": 1701736418,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 190554,
+      "num": 190554,
+      "word": "微博视界大会全阵容",
+      "onboard_time": 1701746974,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 187750,
@@ -779,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159556,
+      "num": 159556,
+      "word": "双十二",
+      "onboard_time": 1701746675,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 159049,
       "num": 159049,
       "word": "考研人最后二十天的精神状态",
@@ -849,6 +897,14 @@
       "onboard_time": 1701688299,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144560,
+      "num": 144560,
+      "word": "一闪一闪亮星星预售票房",
+      "onboard_time": 1701747216,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 143814,
@@ -1092,7 +1148,7 @@
     },
     {
       "raw_hot": 52536,
-      "num": 1288490,
+      "num": 1446200,
       "word": "美好生活宪给你",
       "onboard_time": 1701691656,
       "rank": 2,

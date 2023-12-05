@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701746409497,
+  "endTime": 1701747252700,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2842874,
-      "num": 1278276,
+      "num": 1368075,
       "word": "恋丑癖",
       "onboard_time": 1701735636,
       "rank": 3,
@@ -163,6 +163,14 @@
       "category": "综艺,社会新闻"
     },
     {
+      "raw_hot": 2525096,
+      "num": 2525096,
+      "word": "普通大学和985大学的区别",
+      "onboard_time": 1701742712,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2449111,
       "num": 2449111,
       "word": "刘若英 我爱五月天",
@@ -177,14 +185,6 @@
       "onboard_time": 1701618334,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2303889,
-      "num": 2303889,
-      "word": "普通大学和985大学的区别",
-      "onboard_time": 1701742712,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 2238841,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1552586,
+      "num": 1552586,
+      "word": "第一学历",
+      "onboard_time": 1701743793,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1548980,
       "num": 1548980,
       "word": "大床房 大空房",
@@ -385,14 +393,6 @@
       "onboard_time": 1701660456,
       "rank": 15,
       "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 1314547,
-      "num": 1314547,
-      "word": "第一学历",
-      "onboard_time": 1701743793,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1260675,
@@ -577,6 +577,14 @@
       "onboard_time": 1701736718,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 951529,
+      "num": 951529,
+      "word": "美特斯邦威6.8亿元再卖楼",
+      "onboard_time": 1701744753,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 941023,
@@ -785,14 +793,6 @@
       "onboard_time": 1701576571,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 730818,
-      "num": 730818,
-      "word": "美特斯邦威6.8亿元再卖楼",
-      "onboard_time": 1701744753,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 725948,
@@ -1043,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 613558,
+      "num": 567040,
+      "word": "小伙坚持一年52个周末都出去旅游",
+      "onboard_time": 1701744154,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609562,
       "num": 609562,
       "word": "博主向消协公开举报五月天假唱",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1701671136,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 567040,
-      "num": 567040,
-      "word": "小伙坚持一年52个周末都出去旅游",
-      "onboard_time": 1701744154,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 562676,
@@ -1963,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367463,
+      "num": 367463,
+      "word": "五月天北京演唱会荧光棒售额破700万",
+      "onboard_time": 1701745595,
+      "rank": 18,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 367427,
       "num": 413477,
       "word": "旭旭宝宝现身助理直播间",
@@ -2011,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360062,
+      "num": 360062,
+      "word": "这样追星真的有点暧昧了",
+      "onboard_time": 1701745113,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359579,
       "num": 359579,
       "word": "何蓝逗演技",
@@ -2043,20 +2059,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354731,
+      "num": 354731,
+      "word": "林俊杰400万的舞",
+      "onboard_time": 1701744512,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 354200,
       "num": 354200,
       "word": "烟花美甲",
       "onboard_time": 1701737915,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 354092,
-      "num": 354092,
-      "word": "林俊杰400万的舞",
-      "onboard_time": 1701744512,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 353704,
@@ -2227,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329175,
-      "num": 329175,
-      "word": "五月天北京演唱会荧光棒售额破700万",
-      "onboard_time": 1701745595,
-      "rank": 18,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 326346,
       "num": 326346,
       "word": "我是怎样查出医院超收10万医疗费",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1701530374,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322985,
+      "num": 222574,
+      "word": "你和男主只差一把烫发夹",
+      "onboard_time": 1701746253,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 322584,
@@ -2385,14 +2401,6 @@
       "onboard_time": 1701701435,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 311811,
-      "num": 311811,
-      "word": "这样追星真的有点暧昧了",
-      "onboard_time": 1701745113,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 311582,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1701679417,
       "rank": 26,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 281146,
+      "num": 429873,
+      "word": "2023微博年度照片",
+      "onboard_time": 1701745231,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 281058,
@@ -3347,14 +3363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226600,
-      "num": 367112,
-      "word": "2023微博年度照片",
-      "onboard_time": 1701745231,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 226396,
       "num": 226396,
       "word": "两性冷知识 荷尔蒙",
@@ -3425,6 +3433,14 @@
       "onboard_time": 1701691416,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223225,
+      "num": 223225,
+      "word": "沪指再失守3000点",
+      "onboard_time": 1701746432,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 223190,
@@ -3579,6 +3595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 214893,
+      "num": 214893,
+      "word": "男子掐死女友鹦鹉被判刑3个半月",
+      "onboard_time": 1701746792,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214698,
       "num": 214698,
       "word": "假睫毛对容貌真的很重要",
@@ -3641,6 +3665,14 @@
       "onboard_time": 1701681997,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209931,
+      "num": 209931,
+      "word": "荧光棒 价格",
+      "onboard_time": 1701746733,
+      "rank": 33,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 209388,
@@ -3883,14 +3915,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198691,
-      "num": 198691,
-      "word": "你和男主只差一把烫发夹",
-      "onboard_time": 1701746253,
-      "rank": 34,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 198304,
       "num": 198304,
       "word": "东航客机故障亲历者发声",
@@ -3913,6 +3937,14 @@
       "onboard_time": 1701594092,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197611,
+      "num": 197611,
+      "word": "被困在第一学历的年轻人",
+      "onboard_time": 1701746792,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197310,
@@ -4177,6 +4209,14 @@
       "onboard_time": 1701679359,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 190554,
+      "num": 190554,
+      "word": "微博视界大会全阵容",
+      "onboard_time": 1701746974,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 190070,
@@ -4723,6 +4763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159556,
+      "num": 159556,
+      "word": "双十二",
+      "onboard_time": 1701746675,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 159293,
       "num": 159293,
       "word": "鸣龙少年首发预告",
@@ -5065,6 +5113,14 @@
       "onboard_time": 1701571289,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144560,
+      "num": 144560,
+      "word": "一闪一闪亮星星预售票房",
+      "onboard_time": 1701747216,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 144283,
@@ -6100,7 +6156,7 @@
     },
     {
       "raw_hot": 52536,
-      "num": 1288490,
+      "num": 1446200,
       "word": "美好生活宪给你",
       "onboard_time": 1701691656,
       "rank": 2,

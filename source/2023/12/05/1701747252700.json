@@ -1,0 +1,410 @@
+{
+  "runTime": 1701747252700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2525096,
+        "num": 2525096,
+        "word": "普通大学和985大学的区别",
+        "onboard_time": 1701742712,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1552586,
+        "num": 1552586,
+        "word": "第一学历",
+        "onboard_time": 1701743793,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17302,
+        "num": 1446200,
+        "word": "美好生活宪给你",
+        "onboard_time": 1701691656,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1368075,
+        "num": 1368075,
+        "word": "恋丑癖",
+        "onboard_time": 1701735636,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 951529,
+        "num": 951529,
+        "word": "美特斯邦威6.8亿元再卖楼",
+        "onboard_time": 1701744753,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856374,
+        "num": 856374,
+        "word": "丁当为五月天发声",
+        "onboard_time": 1701736116,
+        "rank": 5,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 736787,
+        "num": 736787,
+        "word": "大学生农村开咖啡厅1天挣半头牛",
+        "onboard_time": 1701743012,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665500,
+        "num": 665500,
+        "word": "狐妖小红娘竹业篇官宣杀青",
+        "onboard_time": 1701744213,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435151,
+        "num": 435151,
+        "word": "生日回避型人格",
+        "onboard_time": 1701740851,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281146,
+        "num": 429873,
+        "word": "2023微博年度照片",
+        "onboard_time": 1701745231,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1035655,
+        "num": 429228,
+        "word": "喜茶涉嫌违反宗教事务管理条例被约谈",
+        "onboard_time": 1701732083,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 613558,
+        "num": 429171,
+        "word": "小伙坚持一年52个周末都出去旅游",
+        "onboard_time": 1701744154,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428346,
+        "num": 428346,
+        "word": "宁远舟备孕",
+        "onboard_time": 1701741215,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402923,
+        "num": 402923,
+        "word": "五月天演唱会荧光棒",
+        "onboard_time": 1701736358,
+        "rank": 13,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 367463,
+        "num": 367463,
+        "word": "五月天北京演唱会荧光棒售额破700万",
+        "onboard_time": 1701745595,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 360062,
+        "num": 360062,
+        "word": "这样追星真的有点暧昧了",
+        "onboard_time": 1701745113,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354731,
+        "num": 354731,
+        "word": "林俊杰400万的舞",
+        "onboard_time": 1701744512,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308979,
+        "num": 308979,
+        "word": "为什么打呼噜的人不把自己吵醒",
+        "onboard_time": 1701736718,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308002,
+        "num": 308002,
+        "word": "韩国夫妇操控一家庭19年装13部监控",
+        "onboard_time": 1701732144,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292907,
+        "num": 292907,
+        "word": "一闪一闪亮星星 下雪场",
+        "onboard_time": 1701737561,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 803953,
+        "num": 288729,
+        "word": "32岁二胎宝妈子宫脱垂掉到大腿上",
+        "onboard_time": 1701741995,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284314,
+        "num": 284314,
+        "word": "A股",
+        "onboard_time": 1701742232,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267534,
+        "num": 267534,
+        "word": "半开麦",
+        "onboard_time": 1701742292,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 257601,
+        "num": 257601,
+        "word": "刘诗诗回应替身说",
+        "onboard_time": 1701702337,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256654,
+        "num": 256654,
+        "word": "周也侯雯元 萝莉兔和肌肉袋鼠",
+        "onboard_time": 1701744812,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245211,
+        "num": 245211,
+        "word": "刘若英 我爱五月天",
+        "onboard_time": 1701695436,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 244110,
+        "num": 244110,
+        "word": "相信音乐 双休",
+        "onboard_time": 1701740672,
+        "rank": 26,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 224332,
+        "num": 224332,
+        "word": "李宇春 对不起只是忽然很想你",
+        "onboard_time": 1701742051,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223225,
+        "num": 223225,
+        "word": "沪指再失守3000点",
+        "onboard_time": 1701746432,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164091,
+        "num": 222676,
+        "word": "交警12级风雪天刨出23辆车",
+        "onboard_time": 1701744154,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322985,
+        "num": 222574,
+        "word": "你和男主只差一把烫发夹",
+        "onboard_time": 1701746253,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 222139,
+        "num": 222139,
+        "word": "狐妖小红娘",
+        "onboard_time": 1701746015,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214893,
+        "num": 214893,
+        "word": "男子掐死女友鹦鹉被判刑3个半月",
+        "onboard_time": 1701746792,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209931,
+        "num": 209931,
+        "word": "荧光棒 价格",
+        "onboard_time": 1701746733,
+        "rank": 33,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 205771,
+        "num": 205771,
+        "word": "男子裸聊被讹因没钱给骗子打工",
+        "onboard_time": 1701734375,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202538,
+        "num": 202538,
+        "word": "五月天否认假唱",
+        "onboard_time": 1701686434,
+        "rank": 35,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 198935,
+        "num": 198935,
+        "word": "常华森 厂花",
+        "onboard_time": 1701742774,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197611,
+        "num": 197611,
+        "word": "被困在第一学历的年轻人",
+        "onboard_time": 1701746792,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190554,
+        "num": 190554,
+        "word": "微博视界大会全阵容",
+        "onboard_time": 1701746974,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185312,
+        "num": 185312,
+        "word": "五月天",
+        "onboard_time": 1701732930,
+        "rank": 39,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 170743,
+        "num": 170743,
+        "word": "步行者淘汰凯尔特人",
+        "onboard_time": 1701745777,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170576,
+        "num": 170576,
+        "word": "风晴雪涂山红红 灵蝶",
+        "onboard_time": 1701745051,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169823,
+        "num": 169823,
+        "word": "看着很丰盛吃下去全是馒头",
+        "onboard_time": 1701734916,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169169,
+        "num": 169169,
+        "word": "快过年了 不要再买了",
+        "onboard_time": 1701696578,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163822,
+        "num": 163822,
+        "word": "喜茶下架佛喜茶拿铁",
+        "onboard_time": 1701732446,
+        "rank": 44,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 159556,
+        "num": 159556,
+        "word": "双十二",
+        "onboard_time": 1701746675,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154818,
+        "num": 154818,
+        "word": "皮卡堂手游",
+        "onboard_time": 1701745954,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152886,
+        "num": 152886,
+        "word": "大熊猫一声声夸赞中笑得合不拢嘴",
+        "onboard_time": 1701739594,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149824,
+        "num": 149824,
+        "word": "五月天现场视频",
+        "onboard_time": 1701699101,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144560,
+        "num": 144560,
+        "word": "一闪一闪亮星星预售票房",
+        "onboard_time": 1701747216,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023从都国际论坛致贺信#"
+    }
+  }
+}
