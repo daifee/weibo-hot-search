@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701761654526,
+  "endTime": 1701764583390,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -467,6 +467,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1645206,
+      "num": 1223799,
+      "word": "赵丽颖 朱迪警官",
+      "onboard_time": 1701761857,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1633608,
       "num": 1633608,
       "word": "周一围朱丹你们敢耍老子",
@@ -659,6 +667,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1355239,
+      "num": 1355239,
+      "word": "终于知道告五人是告哪五个人了",
+      "onboard_time": 1701762400,
+      "rank": 1,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1335660,
       "num": 1335660,
       "word": "汪文斌分享迪丽热巴新疆舞",
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1181655,
+      "num": 1181655,
+      "word": "视界大会红毯",
+      "onboard_time": 1701760898,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1173094,
       "num": 1173094,
       "word": "亿万富豪被拐儿子将回归原生家庭",
@@ -776,6 +800,14 @@
       "word": "车窗贴两张缴费单但车内司机已去世",
       "onboard_time": 1701601773,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1138963,
+      "num": 966886,
+      "word": "湖南省一县委书记坠江身亡",
+      "onboard_time": 1701759398,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1009,14 +1041,6 @@
       "onboard_time": 1701477150,
       "rank": 4,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 966886,
-      "num": 966886,
-      "word": "湖南省一县委书记坠江身亡",
-      "onboard_time": 1701759398,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 964584,
@@ -1331,6 +1355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 771539,
+      "num": 771539,
+      "word": "当一个成年男性决定坐下小便",
+      "onboard_time": 1701759217,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762288,
       "num": 762288,
       "word": "旭旭宝宝",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1701592231,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 751902,
-      "num": 751902,
-      "word": "当一个成年男性决定坐下小便",
-      "onboard_time": 1701759217,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 751488,
@@ -2363,14 +2387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 508159,
-      "num": 508159,
-      "word": "视界大会红毯",
-      "onboard_time": 1701760898,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 503229,
       "num": 568904,
       "word": "麦田农夫半年指控20多位歌手假唱",
@@ -2617,6 +2633,14 @@
       "onboard_time": 1701661063,
       "rank": 16,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 469849,
+      "num": 371746,
+      "word": "罗云熙 下巴先走",
+      "onboard_time": 1701762817,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 468573,
@@ -3419,6 +3443,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 392581,
+      "num": 367185,
+      "word": "秦岚 我是一个内心很宽的人",
+      "onboard_time": 1701762876,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392326,
       "num": 222670,
       "word": "魏晨 流星雨又来临",
@@ -3593,6 +3625,14 @@
       "onboard_time": 1701405040,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 381564,
+      "num": 363041,
+      "word": "赵露思 快乐小狗",
+      "onboard_time": 1701764318,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 381206,
@@ -3913,6 +3953,14 @@
       "onboard_time": 1701494253,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356883,
+      "num": 356883,
+      "word": "稳如CD",
+      "onboard_time": 1701764016,
+      "rank": 21,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 356632,
@@ -4313,6 +4361,14 @@
       "onboard_time": 1701508951,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325686,
+      "num": 325686,
+      "word": "五月天10年前就在日本被质疑假唱",
+      "onboard_time": 1701761256,
+      "rank": 26,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 323685,
@@ -5059,6 +5115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 290304,
+      "num": 290304,
+      "word": "莎头场下",
+      "onboard_time": 1701761016,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289725,
       "num": 200401,
       "word": "与凤行预约人数",
@@ -5355,6 +5419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 276560,
+      "num": 265653,
+      "word": "金晨 黑玫瑰面纱",
+      "onboard_time": 1701763594,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276388,
       "num": 276388,
       "word": "飞猪要求退票用户开情侣关系证明",
@@ -5507,14 +5579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268980,
-      "num": 268980,
-      "word": "五月天10年前就在日本被质疑假唱",
-      "onboard_time": 1701761256,
-      "rank": 26,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 268302,
       "num": 268302,
       "word": "刘宇宁连发18个好",
@@ -5577,6 +5641,14 @@
       "onboard_time": 1701355541,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265100,
+      "num": 265100,
+      "word": "一加12发布会",
+      "onboard_time": 1701757828,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 264991,
@@ -5867,14 +5939,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 250583,
-      "num": 250583,
-      "word": "莎头场下",
-      "onboard_time": 1701761016,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250435,
       "num": 250435,
       "word": "拥抱奶牛一次约450元",
@@ -5937,6 +6001,14 @@
       "onboard_time": 1701581311,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248979,
+      "num": 248979,
+      "word": "一张门票看了两个伍佰",
+      "onboard_time": 1701762696,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 248595,
@@ -6105,6 +6177,14 @@
       "onboard_time": 1701697000,
       "rank": 23,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 238595,
+      "num": 238595,
+      "word": "景甜白色珍珠人鱼公主",
+      "onboard_time": 1701762938,
+      "rank": 32,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 238486,
@@ -6379,6 +6459,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 230205,
+      "num": 230205,
+      "word": "TES郭皓结婚",
+      "onboard_time": 1701761318,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230003,
       "num": 230003,
       "word": "平均每分钟就有1人因艾滋病死亡",
@@ -6563,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224935,
+      "num": 195727,
+      "word": "竹叶篇妆造",
+      "onboard_time": 1701763958,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224792,
       "num": 224792,
       "word": "画画不挑睡裤",
@@ -6665,14 +6761,6 @@
       "onboard_time": 1701571050,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222332,
-      "num": 222332,
-      "word": "一加12发布会",
-      "onboard_time": 1701757828,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 222297,
@@ -6929,14 +7017,6 @@
       "onboard_time": 1701504093,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214056,
-      "num": 214056,
-      "word": "TES郭皓结婚",
-      "onboard_time": 1701761318,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 212817,
@@ -7427,6 +7507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202610,
+      "num": 157986,
+      "word": "IU将明年回归",
+      "onboard_time": 1701762581,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202288,
       "num": 202288,
       "word": "惠英红说看见许光汉也迷糊",
@@ -7721,6 +7809,14 @@
       "onboard_time": 1701578794,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195400,
+      "num": 156658,
+      "word": "微博视界大会节目单",
+      "onboard_time": 1701764379,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 195396,
@@ -8673,6 +8769,14 @@
       "onboard_time": 1701349175,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 173624,
+      "num": 154899,
+      "word": "李沁鎏金深V",
+      "onboard_time": 1701764558,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 173555,
@@ -10753,6 +10857,14 @@
       "onboard_time": 1701699338,
       "rank": 48,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 124971,
+      "num": 124971,
+      "word": "孟羽童 清华演讲",
+      "onboard_time": 1701764497,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124128,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1701764583390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1605544,
+        "num": 1605544,
+        "word": "杨鸣离婚",
+        "onboard_time": 1701750763,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1355239,
+        "num": 1355239,
+        "word": "终于知道告五人是告哪五个人了",
+        "onboard_time": 1701762400,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 44388,
+        "num": 1253141,
+        "word": "弘扬宪法精神",
+        "onboard_time": 1701753463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1645206,
+        "num": 1223799,
+        "word": "赵丽颖 朱迪警官",
+        "onboard_time": 1701761857,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1181655,
+        "num": 1181655,
+        "word": "视界大会红毯",
+        "onboard_time": 1701760898,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1087592,
+        "num": 1087592,
+        "word": "告五人 五月天",
+        "onboard_time": 1701756217,
+        "rank": 5,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 878333,
+        "num": 878333,
+        "word": "狂飙演员转做主播月入不足3千",
+        "onboard_time": 1701752442,
+        "rank": 6,
+        "category": "作品衍生,社会新闻"
+      },
+      {
+        "raw_hot": 771539,
+        "num": 771539,
+        "word": "当一个成年男性决定坐下小便",
+        "onboard_time": 1701759217,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562449,
+        "num": 562449,
+        "word": "卡琳娜 长沙漫展",
+        "onboard_time": 1701754185,
+        "rank": 8,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 381190,
+        "num": 381190,
+        "word": "34岁抗癌网红李小妞去世",
+        "onboard_time": 1701751240,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1141495,
+        "num": 380359,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701755200,
+        "rank": 10,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1138963,
+        "num": 378917,
+        "word": "湖南省一县委书记坠江身亡",
+        "onboard_time": 1701759398,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573575,
+        "num": 375848,
+        "word": "薛之谦官宣三场演唱会",
+        "onboard_time": 1701759762,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 572804,
+        "num": 373529,
+        "word": "他想避世她想入世",
+        "onboard_time": 1701757057,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469849,
+        "num": 371746,
+        "word": "罗云熙 下巴先走",
+        "onboard_time": 1701762817,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449177,
+        "num": 368767,
+        "word": "金莎男友 最不自信的是穷",
+        "onboard_time": 1701758497,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392581,
+        "num": 367185,
+        "word": "秦岚 我是一个内心很宽的人",
+        "onboard_time": 1701762876,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385453,
+        "num": 365121,
+        "word": "爸妈已经意识到工作不好找了",
+        "onboard_time": 1701748956,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381564,
+        "num": 363041,
+        "word": "赵露思 快乐小狗",
+        "onboard_time": 1701764318,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307622,
+        "num": 360602,
+        "word": "杨鸣 唐佳良",
+        "onboard_time": 1701751484,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 411687,
+        "num": 358587,
+        "word": "每天吃1根烤肠对身体有什么影响",
+        "onboard_time": 1701748052,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 356883,
+        "num": 356883,
+        "word": "稳如CD",
+        "onboard_time": 1701764016,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 325686,
+        "num": 325686,
+        "word": "五月天10年前就在日本被质疑假唱",
+        "onboard_time": 1701761256,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 290304,
+        "num": 290304,
+        "word": "莎头场下",
+        "onboard_time": 1701761016,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266113,
+        "num": 266113,
+        "word": "银行员工举报被领导施压发生性关系",
+        "onboard_time": 1701748597,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276560,
+        "num": 265653,
+        "word": "金晨 黑玫瑰面纱",
+        "onboard_time": 1701763594,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265100,
+        "num": 265100,
+        "word": "一加12发布会",
+        "onboard_time": 1701757828,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263440,
+        "num": 263440,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1701758799,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204777,
+        "num": 255364,
+        "word": "中福彩回应一人花10万买彩票中2亿",
+        "onboard_time": 1701750705,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178023,
+        "num": 250211,
+        "word": "9岁哥哥将1岁弟弟搂在怀里写作业",
+        "onboard_time": 1701750344,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248979,
+        "num": 248979,
+        "word": "一张门票看了两个伍佰",
+        "onboard_time": 1701762696,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243575,
+        "num": 243575,
+        "word": "一闪一闪亮星星路演",
+        "onboard_time": 1701756999,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238595,
+        "num": 238595,
+        "word": "景甜白色珍珠人鱼公主",
+        "onboard_time": 1701762938,
+        "rank": 32,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 230205,
+        "num": 230205,
+        "word": "TES郭皓结婚",
+        "onboard_time": 1701761318,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203974,
+        "num": 203974,
+        "word": "麦辣鸡翅 不裹粉",
+        "onboard_time": 1701758257,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 230273,
+        "num": 199090,
+        "word": "小S说精神出轨比肉体出轨严重",
+        "onboard_time": 1701748656,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224935,
+        "num": 195727,
+        "word": "竹叶篇妆造",
+        "onboard_time": 1701763958,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174504,
+        "num": 174504,
+        "word": "32岁二胎宝妈子宫脱垂掉到大腿上",
+        "onboard_time": 1701741995,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159477,
+        "num": 159477,
+        "word": "A股炒出麻将牌",
+        "onboard_time": 1701757779,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159248,
+        "num": 159248,
+        "word": "沪指再失守3000点",
+        "onboard_time": 1701746432,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219027,
+        "num": 159208,
+        "word": "张万森 没票了",
+        "onboard_time": 1701754240,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202610,
+        "num": 157986,
+        "word": "IU将明年回归",
+        "onboard_time": 1701762581,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196061,
+        "num": 157583,
+        "word": "刘德华现身父亲丧礼",
+        "onboard_time": 1701760898,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195400,
+        "num": 156658,
+        "word": "微博视界大会节目单",
+        "onboard_time": 1701764379,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185783,
+        "num": 155915,
+        "word": "五月天唱功",
+        "onboard_time": 1701750884,
+        "rank": 44,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 173624,
+        "num": 154899,
+        "word": "李沁鎏金深V",
+        "onboard_time": 1701764558,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154255,
+        "num": 154255,
+        "word": "教育部印发通知不带病上课上学",
+        "onboard_time": 1701755679,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140778,
+        "num": 140778,
+        "word": "解清帅一夜涨粉近百万",
+        "onboard_time": 1701752985,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136379,
+        "num": 136379,
+        "word": "小金毛 我吸到狗了",
+        "onboard_time": 1701760237,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124971,
+        "num": 124971,
+        "word": "孟羽童 清华演讲",
+        "onboard_time": 1701764497,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
