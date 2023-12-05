@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701747252700,
+  "endTime": 1701750125503,
   "band_list": [
     {
       "raw_hot": 3004790,
@@ -43,12 +43,28 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1443378,
+      "num": 418217,
+      "word": "小S说精神出轨比肉体出轨严重",
+      "onboard_time": 1701748656,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1250116,
       "num": 1250116,
       "word": "韩国夫妇操控一家庭19年装13部监控",
       "onboard_time": 1701732144,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1232436,
+      "num": 1232436,
+      "word": "爸妈已经意识到工作不好找了",
+      "onboard_time": 1701748956,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1166623,
@@ -59,6 +75,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1112786,
+      "num": 1112786,
+      "word": "美特斯邦威6.8亿元再卖楼",
+      "onboard_time": 1701744753,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952023,
       "num": 952023,
       "word": "为什么打呼噜的人不把自己吵醒",
@@ -67,20 +91,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 951529,
-      "num": 951529,
-      "word": "美特斯邦威6.8亿元再卖楼",
-      "onboard_time": 1701744753,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 916051,
       "num": 788427,
       "word": "五月天否认假唱",
       "onboard_time": 1701686434,
       "rank": 3,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 902904,
+      "num": 902904,
+      "word": "银行员工举报被领导施压发生性关系",
+      "onboard_time": 1701748597,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 885114,
@@ -251,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 443356,
+      "num": 314854,
+      "word": "每天吃1根烤肠对身体有什么影响",
+      "onboard_time": 1701748052,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 437744,
       "num": 437744,
       "word": "麦田农夫 每个音都特别准就是假唱",
@@ -275,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430109,
+      "num": 386869,
+      "word": "你和男主只差一把烫发夹",
+      "onboard_time": 1701746253,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 417526,
       "num": 417526,
       "word": "一闪一闪亮星星 下雪场",
@@ -297,6 +337,22 @@
       "onboard_time": 1701742292,
       "rank": 18,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 393711,
+      "num": 314011,
+      "word": "男子掐死女友鹦鹉被判刑3个半月",
+      "onboard_time": 1701746792,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385590,
+      "num": 385590,
+      "word": "林俊杰400万的舞",
+      "onboard_time": 1701744512,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 369610,
@@ -347,14 +403,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 354731,
-      "num": 354731,
-      "word": "林俊杰400万的舞",
-      "onboard_time": 1701744512,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 354200,
       "num": 354200,
       "word": "烟花美甲",
@@ -379,12 +427,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 322985,
-      "num": 222574,
-      "word": "你和男主只差一把烫发夹",
-      "onboard_time": 1701746253,
-      "rank": 34,
-      "category": "美妆"
+      "raw_hot": 333736,
+      "num": 312756,
+      "word": "向佐 不是健身去不起抱娃更有性价比",
+      "onboard_time": 1701748357,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 322584,
@@ -395,12 +443,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319253,
+      "num": 319253,
+      "word": "门店人员称佛喜茶拿铁已替换为新包装",
+      "onboard_time": 1701747579,
+      "rank": 17,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 318046,
       "num": 318046,
       "word": "毛雪汪公开处刑宋轶微博",
       "onboard_time": 1701694776,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317302,
+      "num": 317302,
+      "word": "cp感 玄学",
+      "onboard_time": 1701748413,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 316983,
+      "num": 316983,
+      "word": "2023年王健林身家仅为470亿元",
+      "onboard_time": 1701749257,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316248,
+      "num": 309929,
+      "word": "请回答2023娱乐圈大事件",
+      "onboard_time": 1701749200,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315857,
@@ -417,6 +497,22 @@
       "onboard_time": 1701724093,
       "rank": 48,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 306660,
+      "num": 306660,
+      "word": "央视报道了MMA颁奖礼",
+      "onboard_time": 1701749620,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 304973,
+      "num": 304973,
+      "word": "GTA6预告片",
+      "onboard_time": 1701747994,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 284900,
@@ -499,6 +595,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 248947,
+      "num": 248947,
+      "word": "五月天",
+      "onboard_time": 1701732930,
+      "rank": 31,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 245973,
       "num": 152090,
       "word": "李同光 人设",
@@ -513,6 +617,14 @@
       "onboard_time": 1701676059,
       "rank": 26,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 240887,
+      "num": 240887,
+      "word": "一闪一闪亮星星预售票房",
+      "onboard_time": 1701747216,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 239044,
@@ -539,12 +651,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 232753,
+      "num": 232753,
+      "word": "印度男教师枪口下与绑匪女儿结婚",
+      "onboard_time": 1701747454,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229829,
       "num": 229829,
       "word": "成都有杜绝假唱固定流程",
       "onboard_time": 1701707547,
       "rank": 31,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 227527,
+      "num": 227527,
+      "word": "南海归墟阮老大去世",
+      "onboard_time": 1701749017,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 227470,
@@ -555,20 +683,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226638,
-      "num": 226638,
-      "word": "五月天",
-      "onboard_time": 1701732930,
-      "rank": 31,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 224792,
       "num": 224792,
       "word": "画画不挑睡裤",
       "onboard_time": 1701736237,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224619,
+      "num": 224619,
+      "word": "赵一博 竹业篇",
+      "onboard_time": 1701749983,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 223540,
@@ -603,19 +731,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218517,
+      "num": 218517,
+      "word": "微博视界大会全阵容",
+      "onboard_time": 1701746974,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216840,
       "num": 216840,
       "word": "大熊猫一声声夸赞中笑得合不拢嘴",
       "onboard_time": 1701739594,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214893,
-      "num": 214893,
-      "word": "男子掐死女友鹦鹉被判刑3个半月",
-      "onboard_time": 1701746792,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -633,6 +761,14 @@
       "onboard_time": 1701702214,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 211314,
+      "num": 211314,
+      "word": "银行回应员工举报被领导施压发生关系",
+      "onboard_time": 1701748839,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209931,
@@ -667,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196531,
+      "num": 196531,
+      "word": "杭州一生煎店房租从40万涨到120万",
+      "onboard_time": 1701749920,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195320,
       "num": 195320,
       "word": "杨紫红色马面裙",
@@ -691,12 +835,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 190554,
-      "num": 190554,
-      "word": "微博视界大会全阵容",
-      "onboard_time": 1701746974,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 190732,
+      "num": 190732,
+      "word": "李健演唱会抢票",
+      "onboard_time": 1701748839,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 187750,
@@ -705,6 +849,14 @@
       "onboard_time": 1701745954,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184781,
+      "num": 184781,
+      "word": "五月天被质疑假唱有四个问题待厘清",
+      "onboard_time": 1701747875,
+      "rank": 48,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 184010,
@@ -788,7 +940,7 @@
     },
     {
       "raw_hot": 164104,
-      "num": 260386,
+      "num": 284538,
       "word": "交警12级风雪天刨出23辆车",
       "onboard_time": 1701744154,
       "rank": 25,
@@ -897,14 +1049,6 @@
       "onboard_time": 1701688299,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144560,
-      "num": 144560,
-      "word": "一闪一闪亮星星预售票房",
-      "onboard_time": 1701747216,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 143814,
