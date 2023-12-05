@@ -1,0 +1,410 @@
+{
+  "runTime": 1701780612080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2532399,
+        "num": 2532399,
+        "word": "人民日报评五月天疑似假唱",
+        "onboard_time": 1701775655,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1882547,
+        "num": 1882547,
+        "word": "景甜赵露思成毅坐一起",
+        "onboard_time": 1701777336,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29011,
+        "num": 1670829,
+        "word": "温暖了2023的志愿者力量",
+        "onboard_time": 1701767919,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2730973,
+        "num": 1666534,
+        "word": "关晓彤内场 秀腿是她的统治区",
+        "onboard_time": 1701779019,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1615791,
+        "num": 1615791,
+        "word": "多平台取消杨鸣总教练认证",
+        "onboard_time": 1701777634,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1222263,
+        "num": 1222263,
+        "word": "张若昀唐艺昕好甜",
+        "onboard_time": 1701773979,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1040574,
+        "num": 1040574,
+        "word": "张小斐 年度优秀演员",
+        "onboard_time": 1701777938,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498933,
+        "num": 498933,
+        "word": "马龙 稳稳的幸福",
+        "onboard_time": 1701779861,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443459,
+        "num": 443459,
+        "word": "爱马仕继承人将巨额财产留给园丁",
+        "onboard_time": 1701764856,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 408407,
+        "num": 408407,
+        "word": "多地医院向发烧患者发放电解质水",
+        "onboard_time": 1701777457,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1321934,
+        "num": 405110,
+        "word": "赵露思 油画少女",
+        "onboard_time": 1701775655,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1042401,
+        "num": 396819,
+        "word": "白鹿裙摆好大",
+        "onboard_time": 1701768223,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 983070,
+        "num": 395022,
+        "word": "终于知道告五人是告哪五个人了",
+        "onboard_time": 1701762400,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 454892,
+        "num": 388005,
+        "word": "杨鸣离婚",
+        "onboard_time": 1701750763,
+        "rank": 13,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 130924,
+        "num": 382441,
+        "word": "曾舜晞霸总造型",
+        "onboard_time": 1701777634,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 965168,
+        "num": 373740,
+        "word": "娜扎 赢麻了",
+        "onboard_time": 1701765581,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372352,
+        "num": 372352,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701755200,
+        "rank": 16,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 359848,
+        "num": 359848,
+        "word": "迪亚兹2比1王曼昱",
+        "onboard_time": 1701779861,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327634,
+        "num": 327634,
+        "word": "阿姨瞒着爸妈上了8年班",
+        "onboard_time": 1701774036,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308974,
+        "num": 308974,
+        "word": "陕西出生仅1个鸡蛋重的熊猫长大了",
+        "onboard_time": 1701774578,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765342,
+        "num": 307055,
+        "word": "被张天爱上台前这几步迷晕了",
+        "onboard_time": 1701775837,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740925,
+        "num": 305635,
+        "word": "闫妮关晓彤 微醺母女",
+        "onboard_time": 1701776379,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292027,
+        "num": 292027,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1701778659,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273201,
+        "num": 273201,
+        "word": "蔚来31.6亿收购江淮汽车设备和资产",
+        "onboard_time": 1701779198,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 256905,
+        "num": 256905,
+        "word": "王楚钦孙颖莎3比0波多黎各组合",
+        "onboard_time": 1701778720,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 615125,
+        "num": 254381,
+        "word": "再就业男团 全开麦",
+        "onboard_time": 1701777999,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574980,
+        "num": 253148,
+        "word": "关晓彤刘宇宁 长腿走秀",
+        "onboard_time": 1701779378,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554889,
+        "num": 252232,
+        "word": "成毅 礼仪小姐请下班",
+        "onboard_time": 1701771162,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250435,
+        "num": 250435,
+        "word": "Meiko 转会",
+        "onboard_time": 1701774163,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247453,
+        "num": 247453,
+        "word": "迪亚兹好强",
+        "onboard_time": 1701778477,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512534,
+        "num": 246382,
+        "word": "赵一博 种地吧第二季",
+        "onboard_time": 1701779676,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477301,
+        "num": 245897,
+        "word": "微博视界大会",
+        "onboard_time": 1701770924,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466603,
+        "num": 245732,
+        "word": "刘诗诗 拯救裙子",
+        "onboard_time": 1701767984,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245090,
+        "num": 245090,
+        "word": "爸妈已经意识到工作不好找了",
+        "onboard_time": 1701748956,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241500,
+        "num": 241500,
+        "word": "王楚钦球品",
+        "onboard_time": 1701769779,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370773,
+        "num": 241286,
+        "word": "王凯 公主请不要催我进组啦",
+        "onboard_time": 1701779496,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368956,
+        "num": 241191,
+        "word": "何炅主持视界大会",
+        "onboard_time": 1701775597,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178152,
+        "num": 240761,
+        "word": "卡琳娜 长沙漫展",
+        "onboard_time": 1701754185,
+        "rank": 37,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 172258,
+        "num": 240563,
+        "word": "几块钱的70孔插排 智商税",
+        "onboard_time": 1701771940,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 158705,
+        "num": 240247,
+        "word": "有放射性的石头",
+        "onboard_time": 1701774397,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 335641,
+        "num": 240036,
+        "word": "张小斐背沟",
+        "onboard_time": 1701767919,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314630,
+        "num": 239631,
+        "word": "赵丽颖 朱迪警官",
+        "onboard_time": 1701761857,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309692,
+        "num": 239388,
+        "word": "告五人 五月天",
+        "onboard_time": 1701756217,
+        "rank": 42,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 299213,
+        "num": 239203,
+        "word": "南海归墟大结局",
+        "onboard_time": 1701775418,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294708,
+        "num": 238896,
+        "word": "金靖获奖感言谢谢金繁",
+        "onboard_time": 1701778779,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291898,
+        "num": 238472,
+        "word": "庆余年2要来了",
+        "onboard_time": 1701772002,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153484,
+        "num": 238390,
+        "word": "紧致大腿轻而易举",
+        "onboard_time": 1701779563,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137856,
+        "num": 238029,
+        "word": "戒烟多久肺部能恢复正常状态",
+        "onboard_time": 1701780520,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136530,
+        "num": 237631,
+        "word": "新型花语",
+        "onboard_time": 1701780399,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131597,
+        "num": 237367,
+        "word": "绝经真的是越老越好吗",
+        "onboard_time": 1701780338,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#宪法守护你我的一生#"
+    }
+  }
+}
