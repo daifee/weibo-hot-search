@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701804867701,
+  "endTime": 1701807550497,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -8299,6 +8299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 24903,
+      "num": 19153,
+      "word": "领掌的是一位张姓的先生",
+      "onboard_time": 1701804915,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21077,
       "num": 21077,
       "word": "陆虎 听众朋友们受苦了",
@@ -8344,6 +8352,14 @@
       "word": "陈楚生 一封家书",
       "onboard_time": 1701548653,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 16708,
+      "num": 16708,
+      "word": "王星越躲猫猫的小孩哥",
+      "onboard_time": 1701806894,
+      "rank": 44,
       "category": "综艺"
     },
     {
