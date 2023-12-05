@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701812060100,
+  "endTime": 1701814627239,
   "band_list": [
     {
       "raw_hot": 3402371,
@@ -459,8 +459,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 38439,
-      "num": 26391,
+      "raw_hot": 43490,
+      "num": 35058,
       "word": "张若昀忙得过来吗",
       "onboard_time": 1701802274,
       "rank": 33,
@@ -473,6 +473,14 @@
       "onboard_time": 1701802935,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37515,
+      "num": 37515,
+      "word": "不考虑物种我嫁给薯条",
+      "onboard_time": 1701808814,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 36239,
@@ -499,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27995,
-      "num": 27995,
-      "word": "不考虑物种我嫁给薯条",
-      "onboard_time": 1701808814,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 30988,
+      "num": 30988,
+      "word": "3名小学女生捡2600元交老师报警",
+      "onboard_time": 1701810073,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26346,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 24903,
-      "num": 19153,
+      "num": 20281,
       "word": "领掌的是一位张姓的先生",
       "onboard_time": 1701804915,
       "rank": 31,
@@ -531,19 +539,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19889,
+      "num": 19889,
+      "word": "檀健次 年度号召力演员",
+      "onboard_time": 1701812774,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18821,
       "num": 36083,
       "word": "小伙用电子表掐着成年时间去网吧",
       "onboard_time": 1701801256,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18778,
-      "num": 18778,
-      "word": "3名小学女生捡2600元交老师报警",
-      "onboard_time": 1701810073,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -555,20 +563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16367,
+      "num": 19879,
+      "word": "财政部就穆迪下调我主权信用评级展望有关问题答记者问",
+      "onboard_time": 1701771339,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15281,
       "num": 1183146,
       "word": "聚焦COP28",
       "onboard_time": 1701783165,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14845,
-      "num": 16575,
-      "word": "财政部就穆迪下调我主权信用评级展望有关问题答记者问",
-      "onboard_time": 1701771339,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14776,
