@@ -1,0 +1,410 @@
+{
+  "runTime": 1701796601960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1932413,
+        "num": 1932413,
+        "word": "阿信忘了话筒在哪只手",
+        "onboard_time": 1701791256,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 665112,
+        "num": 665112,
+        "word": "人民日报评五月天疑似假唱",
+        "onboard_time": 1701775655,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 14099,
+        "num": 537136,
+        "word": "聚焦COP28",
+        "onboard_time": 1701783165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486650,
+        "num": 486650,
+        "word": "白鹿的上身身材",
+        "onboard_time": 1701787902,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404211,
+        "num": 404211,
+        "word": "难哄 白敬亭刘浩存",
+        "onboard_time": 1701785383,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387131,
+        "num": 387131,
+        "word": "湖南卫视 那英",
+        "onboard_time": 1701786460,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308067,
+        "num": 308067,
+        "word": "上海19岁外卖小哥称第一次遇到商场这样做",
+        "onboard_time": 1701786280,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303843,
+        "num": 303843,
+        "word": "多平台取消杨鸣总教练认证",
+        "onboard_time": 1701777634,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 250603,
+        "num": 250603,
+        "word": "彩票",
+        "onboard_time": 1701790898,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244445,
+        "num": 244445,
+        "word": "轻语 已婚有娃",
+        "onboard_time": 1701785979,
+        "rank": 9,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 288911,
+        "num": 243717,
+        "word": "丁海寅 夜店常客",
+        "onboard_time": 1701782799,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247239,
+        "num": 243564,
+        "word": "宋妍霏钻石肚兜",
+        "onboard_time": 1701794546,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242978,
+        "num": 242978,
+        "word": "赵露思 油画少女",
+        "onboard_time": 1701775655,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217895,
+        "num": 217895,
+        "word": "斗鱼主播",
+        "onboard_time": 1701783581,
+        "rank": 13,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 112224,
+        "num": 112224,
+        "word": "你一页纸翻过去就能翻过别人一辈子",
+        "onboard_time": 1701788980,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218455,
+        "num": 111529,
+        "word": "娜扎 赢麻了",
+        "onboard_time": 1701765581,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192032,
+        "num": 110516,
+        "word": "张天爱 他们怎么穿黑的不告诉我",
+        "onboard_time": 1701780940,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102838,
+        "num": 102838,
+        "word": "卖15的卷饼 提供150的情绪价值",
+        "onboard_time": 1701788566,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95371,
+        "num": 95371,
+        "word": "爱马仕继承人将巨额财产留给园丁",
+        "onboard_time": 1701764856,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 95162,
+        "num": 95162,
+        "word": "瘦腿封神组合",
+        "onboard_time": 1701789101,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 185844,
+        "num": 90157,
+        "word": "关晓彤内场 秀腿是她的统治区",
+        "onboard_time": 1701779019,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178808,
+        "num": 90008,
+        "word": "终于知道告五人是告哪五个人了",
+        "onboard_time": 1701762400,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 108291,
+        "num": 87986,
+        "word": "王子航爸爸 你可以退群了",
+        "onboard_time": 1701793409,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84862,
+        "num": 84862,
+        "word": "阿姨瞒着爸妈上了8年班",
+        "onboard_time": 1701774036,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82284,
+        "num": 82284,
+        "word": "EDG 人情味",
+        "onboard_time": 1701780940,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155054,
+        "num": 80183,
+        "word": "成毅坐姿",
+        "onboard_time": 1701789160,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139087,
+        "num": 79428,
+        "word": "孟子义珍珠项链",
+        "onboard_time": 1701789998,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 77759,
+        "num": 77759,
+        "word": "图书馆也疯了",
+        "onboard_time": 1701786584,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76389,
+        "num": 76389,
+        "word": "Meiko 转会",
+        "onboard_time": 1701774163,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57063,
+        "num": 76232,
+        "word": "陕西出生仅1个鸡蛋重的熊猫长大了",
+        "onboard_time": 1701774578,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143343,
+        "num": 76064,
+        "word": "景甜赵露思成毅坐一起",
+        "onboard_time": 1701777336,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131421,
+        "num": 75966,
+        "word": "张若昀唐艺昕好甜",
+        "onboard_time": 1701773979,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125355,
+        "num": 75629,
+        "word": "李一桐笑疯了",
+        "onboard_time": 1701786945,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114851,
+        "num": 75374,
+        "word": "黄觉 藏海传",
+        "onboard_time": 1701789819,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65980,
+        "num": 75147,
+        "word": "杨鸣离婚",
+        "onboard_time": 1701750763,
+        "rank": 34,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 109673,
+        "num": 74941,
+        "word": "他都叫诚意了",
+        "onboard_time": 1701791013,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107623,
+        "num": 74827,
+        "word": "张若昀刘诗诗武侠风合影",
+        "onboard_time": 1701795205,
+        "rank": 36,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 56256,
+        "num": 74566,
+        "word": "银行通报员工举报遭领导施压发生关系",
+        "onboard_time": 1701780879,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56076,
+        "num": 74463,
+        "word": "蔚来31.6亿收购江淮汽车设备和资产",
+        "onboard_time": 1701779198,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 49023,
+        "num": 74183,
+        "word": "马龙 稳稳的幸福",
+        "onboard_time": 1701779861,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107163,
+        "num": 74037,
+        "word": "黄晓明 张小斐是我的粉丝",
+        "onboard_time": 1701787482,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105538,
+        "num": 73701,
+        "word": "白鹿摸王星越的头",
+        "onboard_time": 1701794188,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102651,
+        "num": 73576,
+        "word": "赵一博 种地吧第二季",
+        "onboard_time": 1701779676,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82711,
+        "num": 73369,
+        "word": "檀健次 红毯荷官",
+        "onboard_time": 1701786040,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80567,
+        "num": 73201,
+        "word": "景向谁依写真",
+        "onboard_time": 1701792690,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 77234,
+        "num": 72897,
+        "word": "刘宇宁全开麦 梦回天星峡",
+        "onboard_time": 1701796581,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72795,
+        "num": 72795,
+        "word": "微博视界大会",
+        "onboard_time": 1701770924,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55798,
+        "num": 72684,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1701778659,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50670,
+        "num": 72652,
+        "word": "扣扣搜搜地花了许多钱",
+        "onboard_time": 1701787365,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31845,
+        "num": 72649,
+        "word": "王楚钦球品",
+        "onboard_time": 1701769779,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#宪法守护你我的一生#"
+    }
+  }
+}
