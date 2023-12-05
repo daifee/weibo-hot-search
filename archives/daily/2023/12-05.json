@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701740306336,
+  "endTime": 1701743500402,
   "band_list": [
     {
       "raw_hot": 3004790,
@@ -43,6 +43,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 952023,
+      "num": 952023,
+      "word": "为什么打呼噜的人不把自己吵醒",
+      "onboard_time": 1701736718,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 916051,
       "num": 788427,
       "word": "五月天否认假唱",
@@ -57,14 +65,6 @@
       "onboard_time": 1701734916,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 866164,
-      "num": 866164,
-      "word": "为什么打呼噜的人不把自己吵醒",
-      "onboard_time": 1701736718,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 846895,
@@ -131,6 +131,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636370,
+      "num": 636370,
+      "word": "生日回避型人格",
+      "onboard_time": 1701740851,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 625852,
+      "num": 625852,
+      "word": "宁远舟备孕",
+      "onboard_time": 1701741215,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 574754,
+      "num": 455425,
+      "word": "普通大学和985大学的区别",
+      "onboard_time": 1701742712,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 554521,
+      "num": 429918,
+      "word": "A股",
+      "onboard_time": 1701742232,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 548013,
       "num": 548013,
       "word": "上海文旅局正鉴定五月天演唱会原始音视频",
@@ -145,6 +177,14 @@
       "onboard_time": 1701700658,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532303,
+      "num": 259216,
+      "word": "32岁二胎宝妈子宫脱垂掉到大腿上",
+      "onboard_time": 1701741995,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502669,
@@ -227,6 +267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 363887,
+      "num": 363887,
+      "word": "相信音乐 双休",
+      "onboard_time": 1701740672,
+      "rank": 17,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 359202,
       "num": 220014,
       "word": "卸妆油 清理肚脐眼",
@@ -257,6 +305,14 @@
       "onboard_time": 1701733411,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 332685,
+      "num": 543389,
+      "word": "大学生农村开咖啡厅1天挣半头牛",
+      "onboard_time": 1701743012,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322584,
@@ -305,6 +361,14 @@
       "onboard_time": 1701698924,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268992,
+      "num": 268992,
+      "word": "半开麦",
+      "onboard_time": 1701742292,
+      "rank": 18,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 267654,
@@ -379,6 +443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 234525,
+      "num": 234525,
+      "word": "常华森 厂花",
+      "onboard_time": 1701742774,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229829,
       "num": 229829,
       "word": "成都有杜绝假唱固定流程",
@@ -427,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216840,
+      "num": 216840,
+      "word": "大熊猫一声声夸赞中笑得合不拢嘴",
+      "onboard_time": 1701739594,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214698,
       "num": 214698,
       "word": "假睫毛对容貌真的很重要",
@@ -443,6 +523,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 210219,
+      "num": 210219,
+      "word": "李宇春 对不起只是忽然很想你",
+      "onboard_time": 1701742051,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195320,
       "num": 195320,
       "word": "杨紫红色马面裙",
@@ -457,6 +545,14 @@
       "onboard_time": 1701736418,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 189871,
+      "num": 189871,
+      "word": "周一围 加钱居士",
+      "onboard_time": 1701740433,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183141,
@@ -481,14 +577,6 @@
       "onboard_time": 1701700720,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177157,
-      "num": 177157,
-      "word": "大熊猫一声声夸赞中笑得合不拢嘴",
-      "onboard_time": 1701739594,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176461,
@@ -660,7 +748,7 @@
     },
     {
       "raw_hot": 127118,
-      "num": 206979,
+      "num": 522860,
       "word": "我国成功发射谷神星一号遥九运载火箭",
       "onboard_time": 1701740134,
       "rank": 33,

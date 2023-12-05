@@ -1,0 +1,410 @@
+{
+  "runTime": 1701743500402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1062654,
+        "num": 1062654,
+        "word": "丁当为五月天发声",
+        "onboard_time": 1701736116,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 952023,
+        "num": 952023,
+        "word": "为什么打呼噜的人不把自己吵醒",
+        "onboard_time": 1701736718,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19957,
+        "num": 749483,
+        "word": "美好生活宪给你",
+        "onboard_time": 1701691656,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1893174,
+        "num": 716119,
+        "word": "恋丑癖",
+        "onboard_time": 1701735636,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 636370,
+        "num": 636370,
+        "word": "生日回避型人格",
+        "onboard_time": 1701740851,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 625852,
+        "num": 625852,
+        "word": "宁远舟备孕",
+        "onboard_time": 1701741215,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577101,
+        "num": 577101,
+        "word": "韩国夫妇操控一家庭19年装13部监控",
+        "onboard_time": 1701732144,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552933,
+        "num": 552933,
+        "word": "五月天演唱会荧光棒",
+        "onboard_time": 1701736358,
+        "rank": 7,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 332685,
+        "num": 543389,
+        "word": "大学生农村开咖啡厅1天挣半头牛",
+        "onboard_time": 1701743012,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104060,
+        "num": 522860,
+        "word": "我国成功发射谷神星一号遥九运载火箭",
+        "onboard_time": 1701740134,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221015,
+        "num": 488315,
+        "word": "喜茶涉嫌违反宗教事务管理条例被约谈",
+        "onboard_time": 1701732083,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 574754,
+        "num": 455425,
+        "word": "普通大学和985大学的区别",
+        "onboard_time": 1701742712,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 554521,
+        "num": 429918,
+        "word": "A股",
+        "onboard_time": 1701742232,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 403621,
+        "num": 403621,
+        "word": "刘诗诗回应替身说",
+        "onboard_time": 1701702337,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402501,
+        "num": 402501,
+        "word": "看着很丰盛吃下去全是馒头",
+        "onboard_time": 1701734916,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 399008,
+        "num": 399008,
+        "word": "一闪一闪亮星星 下雪场",
+        "onboard_time": 1701737561,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 376105,
+        "num": 376105,
+        "word": "刘若英 我爱五月天",
+        "onboard_time": 1701695436,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 363887,
+        "num": 363887,
+        "word": "相信音乐 双休",
+        "onboard_time": 1701740672,
+        "rank": 17,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 268992,
+        "num": 268992,
+        "word": "半开麦",
+        "onboard_time": 1701742292,
+        "rank": 18,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 259529,
+        "num": 259529,
+        "word": "上海文旅局正鉴定五月天演唱会原始音视频",
+        "onboard_time": 1701685657,
+        "rank": 19,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 532303,
+        "num": 259216,
+        "word": "32岁二胎宝妈子宫脱垂掉到大腿上",
+        "onboard_time": 1701741995,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258897,
+        "num": 258897,
+        "word": "五月天否认假唱",
+        "onboard_time": 1701686434,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 255781,
+        "num": 255781,
+        "word": "快过年了 不要再买了",
+        "onboard_time": 1701696578,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236652,
+        "num": 236652,
+        "word": "卵巢早衰",
+        "onboard_time": 1701732988,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234525,
+        "num": 234525,
+        "word": "常华森 厂花",
+        "onboard_time": 1701742774,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223633,
+        "num": 223633,
+        "word": "烟花美甲",
+        "onboard_time": 1701737915,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219241,
+        "num": 219241,
+        "word": "GTA6",
+        "onboard_time": 1701734192,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216840,
+        "num": 216840,
+        "word": "大熊猫一声声夸赞中笑得合不拢嘴",
+        "onboard_time": 1701739594,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214945,
+        "num": 214945,
+        "word": "30万买编制未果起诉要求退款被驳回",
+        "onboard_time": 1701733590,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72017,
+        "num": 210948,
+        "word": "如何一次学会八段锦",
+        "onboard_time": 1701739594,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 210219,
+        "num": 210219,
+        "word": "李宇春 对不起只是忽然很想你",
+        "onboard_time": 1701742051,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196143,
+        "num": 196143,
+        "word": "男子裸聊被讹因没钱给骗子打工",
+        "onboard_time": 1701734375,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191279,
+        "num": 191279,
+        "word": "五月天现场视频",
+        "onboard_time": 1701699101,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189871,
+        "num": 189871,
+        "word": "周一围 加钱居士",
+        "onboard_time": 1701740433,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188333,
+        "num": 188333,
+        "word": "手机贴膜 智商税",
+        "onboard_time": 1701702576,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185587,
+        "num": 185587,
+        "word": "一建成绩",
+        "onboard_time": 1701740013,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184362,
+        "num": 184362,
+        "word": "twice回归",
+        "onboard_time": 1701737497,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182542,
+        "num": 182542,
+        "word": "五月天",
+        "onboard_time": 1701732930,
+        "rank": 37,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 159572,
+        "num": 159572,
+        "word": "喜茶下架佛喜茶拿铁",
+        "onboard_time": 1701732446,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 157492,
+        "num": 157492,
+        "word": "张若昀 欠第二季",
+        "onboard_time": 1701729136,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153251,
+        "num": 153251,
+        "word": "卸妆油 清理肚脐眼",
+        "onboard_time": 1701739114,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 149139,
+        "num": 149139,
+        "word": "B站跨晚真神仙阵容",
+        "onboard_time": 1701737435,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146848,
+        "num": 146848,
+        "word": "八段锦一个动作就是一味药",
+        "onboard_time": 1701733411,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133068,
+        "num": 133068,
+        "word": "毛雪汪公开处刑宋轶微博",
+        "onboard_time": 1701694776,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126148,
+        "num": 126148,
+        "word": "林俊杰肖战合照",
+        "onboard_time": 1701691475,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125935,
+        "num": 125935,
+        "word": "辛光 打十巴掌给半个甜枣的cp",
+        "onboard_time": 1701739174,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120501,
+        "num": 120501,
+        "word": "断崖式衰老女子确诊卵巢早衰",
+        "onboard_time": 1701701796,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116394,
+        "num": 116394,
+        "word": "南海归墟海难频发原因",
+        "onboard_time": 1701740253,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115434,
+        "num": 115434,
+        "word": "麦田农夫 每个音都特别准就是假唱",
+        "onboard_time": 1701684454,
+        "rank": 48,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 115048,
+        "num": 115048,
+        "word": "拥抱奶牛一次约450元",
+        "onboard_time": 1701737019,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#上海要聚焦建设五个中心重要使命#"
+    }
+  }
+}
