@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701803621883,
+  "endTime": 1701804867701,
   "band_list": [
     {
       "raw_hot": 3402371,
@@ -459,6 +459,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 38439,
+      "num": 26391,
+      "word": "张若昀忙得过来吗",
+      "onboard_time": 1701802274,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37832,
       "num": 24686,
       "word": "成毅话筒没电了的同时",
@@ -467,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33159,
-      "num": 23876,
-      "word": "张若昀忙得过来吗",
-      "onboard_time": 1701802274,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 36239,
+      "num": 32314,
+      "word": "这个世界真的疯了",
+      "onboard_time": 1701801915,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 32553,
@@ -483,12 +491,12 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 32314,
-      "num": 32314,
-      "word": "这个世界真的疯了",
-      "onboard_time": 1701801915,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 31787,
+      "num": 24827,
+      "word": "成毅 真诚",
+      "onboard_time": 1701804615,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 26346,
@@ -497,6 +505,14 @@
       "onboard_time": 1701799521,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21077,
+      "num": 21077,
+      "word": "陆虎 听众朋友们受苦了",
+      "onboard_time": 1701802456,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 18821,
