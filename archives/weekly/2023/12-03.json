@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701776052939,
+  "endTime": 1701779633380,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2757334,
+      "num": 2757334,
+      "word": "人民日报评五月天疑似假唱",
+      "onboard_time": 1701775655,
+      "rank": 12,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 2672537,
       "num": 2672537,
       "word": "文旅局回应五月天疑似假唱",
@@ -193,6 +201,14 @@
       "onboard_time": 1701742712,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2524247,
+      "num": 2524247,
+      "word": "景甜赵露思成毅坐一起",
+      "onboard_time": 1701777336,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2449111,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1669784,
+      "num": 1669784,
+      "word": "多平台取消杨鸣总教练认证",
+      "onboard_time": 1701777634,
+      "rank": 3,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1664424,
       "num": 1664424,
       "word": "黄金价格",
@@ -377,6 +401,14 @@
       "onboard_time": 1701761857,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1612039,
+      "num": 1451380,
+      "word": "赵露思 油画少女",
+      "onboard_time": 1701775655,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1603678,
@@ -473,14 +505,6 @@
       "onboard_time": 1701588993,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1451380,
-      "num": 1451380,
-      "word": "赵露思 油画少女",
-      "onboard_time": 1701775655,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1422456,
@@ -587,6 +611,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1206270,
+      "num": 1206270,
+      "word": "张小斐 年度优秀演员",
+      "onboard_time": 1701777938,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1200724,
       "num": 950354,
       "word": "黄雅莉 以后要做三个人的饭了",
@@ -649,6 +681,14 @@
       "onboard_time": 1701601773,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1136592,
+      "num": 1136592,
+      "word": "关晓彤内场 秀腿是她的统治区",
+      "onboard_time": 1701779019,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1112786,
@@ -779,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 954680,
-      "num": 588947,
-      "word": "人民日报评五月天疑似假唱",
-      "onboard_time": 1701775655,
-      "rank": 12,
-      "category": "社会新闻,演出"
-    },
-    {
       "raw_hot": 952023,
       "num": 952023,
       "word": "为什么打呼噜的人不把自己吵醒",
@@ -841,6 +873,14 @@
       "onboard_time": 1701734916,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 880824,
+      "num": 364542,
+      "word": "被张天爱上台前这几步迷晕了",
+      "onboard_time": 1701775837,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 874354,
@@ -987,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 743880,
+      "num": 323015,
+      "word": "再就业男团 全开麦",
+      "onboard_time": 1701777999,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743770,
       "num": 489442,
       "word": "庆余年2要来了",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1701662384,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705342,
+      "num": 253278,
+      "word": "闫妮关晓彤 微醺母女",
+      "onboard_time": 1701776379,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 698933,
@@ -2395,6 +2451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 392049,
+      "num": 243633,
+      "word": "关晓彤刘宇宁 长腿走秀",
+      "onboard_time": 1701779378,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392007,
       "num": 392007,
       "word": "阿姨瞒着爸妈上了8年班",
@@ -2475,6 +2539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 385245,
+      "num": 232994,
+      "word": "何炅主持视界大会",
+      "onboard_time": 1701775597,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384983,
       "num": 384983,
       "word": "N1",
@@ -2489,6 +2561,14 @@
       "onboard_time": 1701749200,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 382914,
+      "num": 382914,
+      "word": "多地医院向发烧患者发放电解质水",
+      "onboard_time": 1701777457,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381206,
@@ -2529,6 +2609,14 @@
       "onboard_time": 1701757828,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 379185,
+      "num": 208972,
+      "word": "金靖获奖感言谢谢金繁",
+      "onboard_time": 1701778779,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 378873,
@@ -2931,14 +3019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330552,
-      "num": 236177,
-      "word": "被张天爱上台前这几步迷晕了",
-      "onboard_time": 1701775837,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 330106,
       "num": 330106,
       "word": "GQ主编 光之门美到我自己了",
@@ -2977,6 +3057,14 @@
       "onboard_time": 1701770924,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323529,
+      "num": 323529,
+      "word": "迪亚兹好强",
+      "onboard_time": 1701778477,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 323128,
@@ -3105,14 +3193,6 @@
       "onboard_time": 1701651396,
       "rank": 24,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 315535,
-      "num": 232994,
-      "word": "何炅主持视界大会",
-      "onboard_time": 1701775597,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 315481,
@@ -3475,6 +3555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293563,
+      "num": 293563,
+      "word": "难怪有故人之姿 原来是故人之子",
+      "onboard_time": 1701778659,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 293025,
       "num": 293025,
       "word": "不喜欢回老家 失权感",
@@ -3561,6 +3649,14 @@
       "onboard_time": 1701612523,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 290581,
+      "num": 187778,
+      "word": "王凯 公主请不要催我进组啦",
+      "onboard_time": 1701779496,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 290369,
@@ -3665,6 +3761,14 @@
       "onboard_time": 1701686974,
       "rank": 29,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 284985,
+      "num": 284985,
+      "word": "王楚钦孙颖莎3比0波多黎各组合",
+      "onboard_time": 1701778720,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 281503,
@@ -4665,6 +4769,14 @@
       "onboard_time": 1701690577,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215500,
+      "num": 215500,
+      "word": "蔚来31.6亿收购江淮汽车设备和资产",
+      "onboard_time": 1701779198,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 215033,
@@ -5851,6 +5963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164949,
+      "num": 164949,
+      "word": "明日方舟银心湖列车",
+      "onboard_time": 1701778900,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164296,
       "num": 164296,
       "word": "我的狗给我找的药",
@@ -6123,6 +6243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154954,
+      "num": 154954,
+      "word": "紧致大腿轻而易举",
+      "onboard_time": 1701779563,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 154754,
       "num": 154754,
       "word": "MISSING帮助Ruler走出困境",
@@ -6177,6 +6305,14 @@
       "onboard_time": 1701705450,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152461,
+      "num": 152461,
+      "word": "密子君 武汉粉特辑",
+      "onboard_time": 1701779079,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 151988,
@@ -7153,6 +7289,14 @@
       "onboard_time": 1701511831,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95177,
+      "num": 366645,
+      "word": "曾舜晞霸总造型",
+      "onboard_time": 1701777634,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 91642,
