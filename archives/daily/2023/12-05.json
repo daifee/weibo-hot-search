@@ -1,6 +1,6 @@
 {
   "startTime": 1701707055998,
-  "endTime": 1701760604150,
+  "endTime": 1701761654526,
   "band_list": [
     {
       "raw_hot": 5848907,
@@ -123,8 +123,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 1126181,
-      "num": 1126181,
+      "raw_hot": 1132846,
+      "num": 1132846,
       "word": "告五人 五月天",
       "onboard_time": 1701756217,
       "rank": 6,
@@ -145,6 +145,14 @@
       "onboard_time": 1701754185,
       "rank": 22,
       "category": "网红,动漫"
+    },
+    {
+      "raw_hot": 966886,
+      "num": 966886,
+      "word": "湖南省一县委书记坠江身亡",
+      "onboard_time": 1701759398,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 952023,
@@ -187,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 824252,
-      "num": 824252,
-      "word": "湖南省一县委书记坠江身亡",
-      "onboard_time": 1701759398,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 814919,
       "num": 814919,
       "word": "五月天演唱会荧光棒",
@@ -217,6 +217,14 @@
       "onboard_time": 1701751484,
       "rank": 7,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 751902,
+      "num": 751902,
+      "word": "当一个成年男性决定坐下小便",
+      "onboard_time": 1701759217,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 750800,
@@ -323,14 +331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 562040,
-      "num": 562040,
-      "word": "当一个成年男性决定坐下小便",
-      "onboard_time": 1701759217,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 554521,
       "num": 521933,
       "word": "A股",
@@ -369,6 +369,14 @@
       "onboard_time": 1701756999,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 508159,
+      "num": 508159,
+      "word": "视界大会红毯",
+      "onboard_time": 1701760898,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 502669,
@@ -787,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285600,
+      "num": 285600,
+      "word": "刘德华现身父亲丧礼",
+      "onboard_time": 1701760898,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284900,
       "num": 171596,
       "word": "林俊杰肖战合照",
@@ -833,6 +849,14 @@
       "onboard_time": 1701742774,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268980,
+      "num": 268980,
+      "word": "五月天10年前就在日本被质疑假唱",
+      "onboard_time": 1701761256,
+      "rank": 26,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 267818,
@@ -905,6 +929,14 @@
       "onboard_time": 1701756519,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250583,
+      "num": 250583,
+      "word": "莎头场下",
+      "onboard_time": 1701761016,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 250435,
@@ -1099,6 +1131,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 214056,
+      "num": 214056,
+      "word": "TES郭皓结婚",
+      "onboard_time": 1701761318,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211740,
       "num": 211740,
       "word": "刘冲 我座位还没开始排呢",
@@ -1291,6 +1331,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 173509,
+      "num": 173509,
+      "word": "李志辉为李一桐做的发型",
+      "onboard_time": 1701761436,
+      "rank": 42,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 171765,
       "num": 171765,
       "word": "QQ音乐回应涨价",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1701737259,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161985,
+      "num": 161985,
+      "word": "樊振东2比0黄镇廷",
+      "onboard_time": 1701760597,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 161623,
