@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701764583390,
+  "endTime": 1701765351588,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1721642,
+      "num": 1721642,
+      "word": "终于知道告五人是告哪五个人了",
+      "onboard_time": 1701762400,
+      "rank": 1,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1697481,
       "num": 1697481,
       "word": "陈绮贞 五月天",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 1645206,
-      "num": 1223799,
+      "num": 1233949,
       "word": "赵丽颖 朱迪警官",
       "onboard_time": 1701761857,
       "rank": 3,
@@ -443,14 +451,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 1355239,
-      "num": 1355239,
-      "word": "终于知道告五人是告哪五个人了",
-      "onboard_time": 1701762400,
-      "rank": 1,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 1335660,
       "num": 1335660,
       "word": "汪文斌分享迪丽热巴新疆舞",
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1218449,
+      "num": 966886,
+      "word": "湖南省一县委书记坠江身亡",
+      "onboard_time": 1701759398,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211159,
       "num": 1211159,
       "word": "一周不洗脸为什么皮肤变好了",
@@ -505,6 +513,14 @@
       "onboard_time": 1701682415,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1196925,
+      "num": 1196925,
+      "word": "告五人 五月天",
+      "onboard_time": 1701756217,
+      "rank": 6,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1195049,
@@ -553,22 +569,6 @@
       "onboard_time": 1701601773,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1138963,
-      "num": 966886,
-      "word": "湖南省一县委书记坠江身亡",
-      "onboard_time": 1701759398,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1132846,
-      "num": 1132846,
-      "word": "告五人 五月天",
-      "onboard_time": 1701756217,
-      "rank": 6,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1112786,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1701606397,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682411,
+      "num": 383420,
+      "word": "赵露思 快乐小狗",
+      "onboard_time": 1701764318,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 672510,
@@ -1587,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485131,
+      "num": 381880,
+      "word": "杨迪 主持",
+      "onboard_time": 1701764675,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484443,
       "num": 484443,
       "word": "北京首次全市大范围记录到极光",
@@ -1668,7 +1684,7 @@
     },
     {
       "raw_hot": 469849,
-      "num": 371746,
+      "num": 381197,
       "word": "罗云熙 下巴先走",
       "onboard_time": 1701762817,
       "rank": 14,
@@ -2043,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 410815,
+      "num": 380853,
+      "word": "财政部回应穆迪调降中国主权信用评级展望",
+      "onboard_time": 1701764616,
+      "rank": 17,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 407664,
       "num": 407664,
       "word": "半开麦",
@@ -2083,6 +2107,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 400748,
+      "num": 370345,
+      "word": "秦岚 我是一个内心很宽的人",
+      "onboard_time": 1701762876,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399819,
       "num": 409131,
       "word": "小女孩等了11年终于有自己的房间",
@@ -2121,14 +2153,6 @@
       "onboard_time": 1701696578,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 392581,
-      "num": 367185,
-      "word": "秦岚 我是一个内心很宽的人",
-      "onboard_time": 1701762876,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 389590,
@@ -2195,14 +2219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 381564,
-      "num": 363041,
-      "word": "赵露思 快乐小狗",
-      "onboard_time": 1701764318,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 381206,
       "num": 381206,
       "word": "一念关山",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1701690277,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380023,
+      "num": 380023,
+      "word": "一加12发布会",
+      "onboard_time": 1701757828,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 378873,
@@ -2403,6 +2427,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 356539,
+      "num": 356539,
+      "word": "孟羽童 清华演讲",
+      "onboard_time": 1701764497,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355394,
       "num": 301423,
       "word": "丞磊 海公牛",
@@ -2555,6 +2587,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 336525,
+      "num": 336525,
+      "word": "爱马仕继承人将巨额财产留给园丁",
+      "onboard_time": 1701764856,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 335945,
       "num": 335945,
       "word": "睡饱与睡眠不足面容对比图",
@@ -2633,6 +2673,22 @@
       "onboard_time": 1701761256,
       "rank": 26,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 325353,
+      "num": 325353,
+      "word": "许诗晴和王伟在一起了",
+      "onboard_time": 1701765218,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 324256,
+      "num": 324256,
+      "word": "李沁鎏金深V",
+      "onboard_time": 1701764558,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 323128,
@@ -2985,6 +3041,14 @@
       "onboard_time": 1701684157,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299441,
+      "num": 299441,
+      "word": "专家称年末A股会在3000点反复争夺",
+      "onboard_time": 1701764675,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 299339,
@@ -3427,20 +3491,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266410,
+      "num": 266410,
+      "word": "微博视界大会节目单",
+      "onboard_time": 1701764379,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265717,
       "num": 265717,
       "word": "奥沙利文致谢丁俊晖",
       "onboard_time": 1701647794,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265100,
-      "num": 265100,
-      "word": "一加12发布会",
-      "onboard_time": 1701757828,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 260997,
@@ -3484,11 +3548,19 @@
     },
     {
       "raw_hot": 258891,
-      "num": 295260,
+      "num": 301031,
       "word": "9岁哥哥将1岁弟弟搂在怀里写作业",
       "onboard_time": 1701750344,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257510,
+      "num": 257510,
+      "word": "竹叶篇妆造",
+      "onboard_time": 1701763958,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 257143,
@@ -3977,14 +4049,6 @@
       "onboard_time": 1701586771,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224935,
-      "num": 195727,
-      "word": "竹叶篇妆造",
-      "onboard_time": 1701763958,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 224792,
@@ -4619,14 +4683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195400,
-      "num": 156658,
-      "word": "微博视界大会节目单",
-      "onboard_time": 1701764379,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195377,
       "num": 195377,
       "word": "张艺兴新歌",
@@ -4963,6 +5019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183944,
+      "num": 183944,
+      "word": "李兰迪野猫妆",
+      "onboard_time": 1701765338,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183833,
       "num": 183833,
       "word": "在超市拍到了尼斯湖水怪",
@@ -5097,14 +5161,6 @@
       "onboard_time": 1701601474,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173624,
-      "num": 154899,
-      "word": "李沁鎏金深V",
-      "onboard_time": 1701764558,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 173509,
@@ -6217,14 +6273,6 @@
       "onboard_time": 1701699338,
       "rank": 48,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 124971,
-      "num": 124971,
-      "word": "孟羽童 清华演讲",
-      "onboard_time": 1701764497,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124672,
