@@ -1,0 +1,410 @@
+{
+  "runTime": 1701757436313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3127829,
+        "num": 3127829,
+        "word": "杨鸣离婚",
+        "onboard_time": 1701750763,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1857220,
+        "num": 1857220,
+        "word": "狂飙演员转做主播月入不足3千",
+        "onboard_time": 1701752442,
+        "rank": 1,
+        "category": "作品衍生,社会新闻"
+      },
+      {
+        "raw_hot": 57113,
+        "num": 1284496,
+        "word": "弘扬宪法精神",
+        "onboard_time": 1701753463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2629106,
+        "num": 1182918,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701755200,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1037136,
+        "num": 1037136,
+        "word": "卡琳娜 长沙漫展",
+        "onboard_time": 1701754185,
+        "rank": 4,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 950549,
+        "num": 950549,
+        "word": "34岁抗癌网红李小妞去世",
+        "onboard_time": 1701751240,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 745861,
+        "num": 745861,
+        "word": "告五人 五月天",
+        "onboard_time": 1701756217,
+        "rank": 6,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 613526,
+        "num": 613526,
+        "word": "银行员工举报被领导施压发生性关系",
+        "onboard_time": 1701748597,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612076,
+        "num": 612076,
+        "word": "张万森 没票了",
+        "onboard_time": 1701754240,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 498710,
+        "num": 498710,
+        "word": "杨鸣 唐佳良",
+        "onboard_time": 1701751484,
+        "rank": 9,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 774752,
+        "num": 490265,
+        "word": "爸妈已经意识到工作不好找了",
+        "onboard_time": 1701748956,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473711,
+        "num": 473711,
+        "word": "小S说精神出轨比肉体出轨严重",
+        "onboard_time": 1701748656,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405059,
+        "num": 405059,
+        "word": "一闪一闪亮星星路演",
+        "onboard_time": 1701756999,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396626,
+        "num": 396626,
+        "word": "普通大学和985大学的区别",
+        "onboard_time": 1701742712,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 395477,
+        "num": 395477,
+        "word": "于适 JBL",
+        "onboard_time": 1701755381,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370960,
+        "num": 370960,
+        "word": "教育部印发通知不带病上课上学",
+        "onboard_time": 1701755679,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348252,
+        "num": 348252,
+        "word": "解清帅一夜涨粉近百万",
+        "onboard_time": 1701752985,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341682,
+        "num": 341682,
+        "word": "王楚钦孙颖莎3比0何钧杰杜凯琹",
+        "onboard_time": 1701755799,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332410,
+        "num": 332410,
+        "word": "刘诗诗竹业篇 BE",
+        "onboard_time": 1701755259,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331064,
+        "num": 331064,
+        "word": "金莎为躲狗仔打扮成老太太",
+        "onboard_time": 1701752565,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346711,
+        "num": 329811,
+        "word": "32岁二胎宝妈子宫脱垂掉到大腿上",
+        "onboard_time": 1701741995,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321461,
+        "num": 321461,
+        "word": "每天吃1根烤肠对身体有什么影响",
+        "onboard_time": 1701748052,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319952,
+        "num": 319952,
+        "word": "一闪一闪亮星星 下雪场",
+        "onboard_time": 1701737561,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318613,
+        "num": 318613,
+        "word": "室友还没考研就在当考研辅导老师了",
+        "onboard_time": 1701751787,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270220,
+        "num": 270220,
+        "word": "他想避世她想入世",
+        "onboard_time": 1701757057,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267818,
+        "num": 267818,
+        "word": "网友建议哈尔滨文旅取消狗拉雪橇",
+        "onboard_time": 1701752742,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264979,
+        "num": 264979,
+        "word": "魏晨 养老保险",
+        "onboard_time": 1701750641,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255800,
+        "num": 255800,
+        "word": "俄罗斯北方舰队第14军团副司令身亡",
+        "onboard_time": 1701755081,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 252750,
+        "num": 252750,
+        "word": "中福彩回应一人花10万买彩票中2亿",
+        "onboard_time": 1701750705,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244032,
+        "num": 244032,
+        "word": "丁当为五月天发声",
+        "onboard_time": 1701736116,
+        "rank": 29,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 243407,
+        "num": 243407,
+        "word": "张雪峰曾谈普通大学和名校差距",
+        "onboard_time": 1701751365,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241229,
+        "num": 241229,
+        "word": "高铁查学生证查到我的小抄",
+        "onboard_time": 1701756279,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237078,
+        "num": 237078,
+        "word": "上班 一种恐怖无限流",
+        "onboard_time": 1701755918,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225212,
+        "num": 225212,
+        "word": "一闪一闪亮星星预售票房",
+        "onboard_time": 1701747216,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223413,
+        "num": 223413,
+        "word": "张若昀平时没少打麻将吧",
+        "onboard_time": 1701755497,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221315,
+        "num": 221315,
+        "word": "杭州一生煎店房租从40万涨到120万",
+        "onboard_time": 1701749920,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217516,
+        "num": 217516,
+        "word": "教育部要求对学生患病期间作业不做硬性要求",
+        "onboard_time": 1701756519,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195034,
+        "num": 195034,
+        "word": "五月天唱功",
+        "onboard_time": 1701750884,
+        "rank": 37,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 192385,
+        "num": 192385,
+        "word": "喜茶涉嫌违反宗教事务管理条例被约谈",
+        "onboard_time": 1701732083,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 190769,
+        "num": 190769,
+        "word": "男子掐死女友鹦鹉被判刑3个半月",
+        "onboard_time": 1701746792,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190255,
+        "num": 190255,
+        "word": "李一桐雪精灵妆",
+        "onboard_time": 1701757182,
+        "rank": 40,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 163585,
+        "num": 188988,
+        "word": "光遇 熊抱雪人",
+        "onboard_time": 1701755918,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188103,
+        "num": 188103,
+        "word": "第一学历",
+        "onboard_time": 1701743793,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180225,
+        "num": 180225,
+        "word": "9岁哥哥将1岁弟弟搂在怀里写作业",
+        "onboard_time": 1701750344,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177587,
+        "num": 177587,
+        "word": "刘诗诗陈宥维合照",
+        "onboard_time": 1701756401,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177498,
+        "num": 177498,
+        "word": "沪指再失守3000点",
+        "onboard_time": 1701746432,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168110,
+        "num": 168110,
+        "word": "赵一博 竹业篇",
+        "onboard_time": 1701749983,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166448,
+        "num": 166448,
+        "word": "美特斯邦威6.8亿元再卖楼",
+        "onboard_time": 1701744753,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157045,
+        "num": 157045,
+        "word": "2023年王健林身家仅为470亿元",
+        "onboard_time": 1701749257,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151075,
+        "num": 151075,
+        "word": "一闪一闪亮星星想看数破百万",
+        "onboard_time": 1701752080,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向2023从都国际论坛致贺信#"
+    }
+  }
+}
