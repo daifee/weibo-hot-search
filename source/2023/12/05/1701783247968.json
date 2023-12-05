@@ -1,0 +1,410 @@
+{
+  "runTime": 1701783247968,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3255228,
+        "num": 3255228,
+        "word": "关晓彤内场 秀腿是她的统治区",
+        "onboard_time": 1701779019,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1839050,
+        "num": 1839050,
+        "word": "人民日报评五月天疑似假唱",
+        "onboard_time": 1701775655,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 5238,
+        "num": 1732609,
+        "word": "聚焦COP28",
+        "onboard_time": 1701783165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1650382,
+        "num": 1650382,
+        "word": "多平台取消杨鸣总教练认证",
+        "onboard_time": 1701777634,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1138550,
+        "num": 1138550,
+        "word": "赵露思 油画少女",
+        "onboard_time": 1701775655,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1107309,
+        "num": 1107309,
+        "word": "张若昀唐艺昕好甜",
+        "onboard_time": 1701773979,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 953081,
+        "num": 953081,
+        "word": "娜扎 赢麻了",
+        "onboard_time": 1701765581,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580523,
+        "num": 580523,
+        "word": "马龙 稳稳的幸福",
+        "onboard_time": 1701779861,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 493113,
+        "num": 493113,
+        "word": "银行通报员工举报遭领导施压发生关系",
+        "onboard_time": 1701780879,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378957,
+        "num": 378957,
+        "word": "莎头 没打哭对手吧",
+        "onboard_time": 1701781599,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1089899,
+        "num": 378829,
+        "word": "景甜赵露思成毅坐一起",
+        "onboard_time": 1701777336,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940114,
+        "num": 374616,
+        "word": "白鹿裙摆好大",
+        "onboard_time": 1701768223,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24837,
+        "num": 373243,
+        "word": "温暖了2023的志愿者力量",
+        "onboard_time": 1701767919,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890195,
+        "num": 370804,
+        "word": "张天爱 他们怎么穿黑的不告诉我",
+        "onboard_time": 1701780940,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445058,
+        "num": 369229,
+        "word": "杨鸣离婚",
+        "onboard_time": 1701750763,
+        "rank": 14,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 854759,
+        "num": 365718,
+        "word": "丁海寅 夜店常客",
+        "onboard_time": 1701782799,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835301,
+        "num": 363299,
+        "word": "终于知道告五人是告哪五个人了",
+        "onboard_time": 1701762400,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 362621,
+        "num": 362621,
+        "word": "阿姨瞒着爸妈上了8年班",
+        "onboard_time": 1701774036,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353592,
+        "num": 353592,
+        "word": "EDG 人情味",
+        "onboard_time": 1701780940,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 343591,
+        "num": 343591,
+        "word": "蔚来31.6亿收购江淮汽车设备和资产",
+        "onboard_time": 1701779198,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 698011,
+        "num": 343239,
+        "word": "被张天爱上台前这几步迷晕了",
+        "onboard_time": 1701775837,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630234,
+        "num": 342887,
+        "word": "刘宇宁绕C位",
+        "onboard_time": 1701782680,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329821,
+        "num": 329821,
+        "word": "难怪有故人之姿 原来是故人之子",
+        "onboard_time": 1701778659,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325343,
+        "num": 325343,
+        "word": "爱马仕继承人将巨额财产留给园丁",
+        "onboard_time": 1701764856,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 309744,
+        "num": 309744,
+        "word": "杨鸣 思思",
+        "onboard_time": 1701755200,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 580076,
+        "num": 308316,
+        "word": "娜扎这几步好像芭蕾公主",
+        "onboard_time": 1701781060,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553450,
+        "num": 306177,
+        "word": "再就业男团 全开麦",
+        "onboard_time": 1701777999,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518760,
+        "num": 304931,
+        "word": "刘诗诗 拯救裙子",
+        "onboard_time": 1701767984,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285715,
+        "num": 304179,
+        "word": "多地医院向发烧患者发放电解质水",
+        "onboard_time": 1701777457,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224986,
+        "num": 301870,
+        "word": "陕西出生仅1个鸡蛋重的熊猫长大了",
+        "onboard_time": 1701774578,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484261,
+        "num": 299518,
+        "word": "杨迪 只有微博视界大会给综艺人颁奖",
+        "onboard_time": 1701781661,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476016,
+        "num": 298715,
+        "word": "白鹿 年度号召力演员",
+        "onboard_time": 1701781477,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417990,
+        "num": 296612,
+        "word": "庆余年2要来了",
+        "onboard_time": 1701772002,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295354,
+        "num": 295354,
+        "word": "戒烟多久肺部能恢复正常状态",
+        "onboard_time": 1701780520,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246021,
+        "num": 246021,
+        "word": "爸妈已经意识到工作不好找了",
+        "onboard_time": 1701748956,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 416076,
+        "num": 242639,
+        "word": "赵一博 种地吧第二季",
+        "onboard_time": 1701779676,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390701,
+        "num": 242035,
+        "word": "成毅 礼仪小姐请下班",
+        "onboard_time": 1701771162,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239201,
+        "num": 239201,
+        "word": "黑鲨卖饮料",
+        "onboard_time": 1701781838,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204238,
+        "num": 204238,
+        "word": "阴阳师 超鬼王",
+        "onboard_time": 1701780639,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191897,
+        "num": 191897,
+        "word": "王楚钦球品",
+        "onboard_time": 1701769779,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382990,
+        "num": 191840,
+        "word": "闫妮关晓彤 微醺母女",
+        "onboard_time": 1701776379,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379319,
+        "num": 191724,
+        "word": "王栎鑫的获奖感言好朴实",
+        "onboard_time": 1701782920,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367027,
+        "num": 191646,
+        "word": "檀健次 一念无明",
+        "onboard_time": 1701782023,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351860,
+        "num": 191484,
+        "word": "张韶涵和她的造型师 小樱知世",
+        "onboard_time": 1701782437,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343228,
+        "num": 191357,
+        "word": "关晓彤刘宇宁 长腿走秀",
+        "onboard_time": 1701779378,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314351,
+        "num": 191251,
+        "word": "张小斐 年度优秀演员",
+        "onboard_time": 1701777938,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191220,
+        "num": 191220,
+        "word": "Meiko 转会",
+        "onboard_time": 1701774163,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180679,
+        "num": 180679,
+        "word": "迪亚兹2比1王曼昱",
+        "onboard_time": 1701779861,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174640,
+        "num": 174640,
+        "word": "绝经真的是越老越好吗",
+        "onboard_time": 1701780338,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168952,
+        "num": 168952,
+        "word": "相关部门称约谈喜茶因接到投诉",
+        "onboard_time": 1701782320,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
