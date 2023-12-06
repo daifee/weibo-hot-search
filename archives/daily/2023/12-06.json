@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701851739995,
+  "endTime": 1701854290109,
   "band_list": [
     {
       "raw_hot": 7740315,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2320857,
-      "num": 501191,
+      "num": 515936,
       "word": "小学生带避孕套老师引导正确看性",
       "onboard_time": 1701849216,
       "rank": 10,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 858543,
+      "num": 858543,
+      "word": "Twitch宣布退出韩国",
+      "onboard_time": 1701850542,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 846933,
       "num": 846933,
       "word": "5个损害卵巢的习惯要避免",
@@ -251,20 +259,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 704048,
+      "num": 704048,
+      "word": "新郎婚礼中晕倒全市急救专家都来了",
+      "onboard_time": 1701850899,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700367,
       "num": 700367,
       "word": "五月天争议比较大的几个视频",
       "onboard_time": 1701849334,
       "rank": 6,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 695984,
-      "num": 695984,
-      "word": "Twitch宣布退出韩国",
-      "onboard_time": 1701850542,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 689123,
@@ -281,6 +289,14 @@
       "onboard_time": 1701782799,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 659891,
+      "num": 659891,
+      "word": "杨紫GQ路透",
+      "onboard_time": 1701851858,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 656710,
@@ -305,6 +321,14 @@
       "onboard_time": 1701786280,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621173,
+      "num": 621173,
+      "word": "顺丰暂停揽收手办",
+      "onboard_time": 1701849998,
+      "rank": 14,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 612245,
@@ -427,14 +451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 473063,
-      "num": 473063,
-      "word": "顺丰暂停揽收手办",
-      "onboard_time": 1701849998,
-      "rank": 14,
-      "category": "社会新闻,游戏"
-    },
-    {
       "raw_hot": 471257,
       "num": 369277,
       "word": "赵露思 油画少女",
@@ -449,6 +465,14 @@
       "onboard_time": 1701843513,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464228,
+      "num": 464228,
+      "word": "心理暗示 凡事发生必有利于我",
+      "onboard_time": 1701851318,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 453284,
@@ -473,6 +497,14 @@
       "onboard_time": 1701787482,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432476,
+      "num": 432476,
+      "word": "农行回应女子30万存款无法取出",
+      "onboard_time": 1701852103,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431995,
@@ -683,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329154,
-      "num": 329154,
-      "word": "新郎婚礼中晕倒全市急救专家都来了",
-      "onboard_time": 1701850899,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326557,
       "num": 320508,
       "word": "礼仪小姐回应被成毅请下班",
@@ -795,6 +819,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 287989,
+      "num": 287989,
+      "word": "赵露思律师回应败诉",
+      "onboard_time": 1701851680,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285568,
       "num": 285568,
       "word": "糖尿病开始拖垮年轻人",
@@ -833,6 +865,14 @@
       "onboard_time": 1701777336,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278293,
+      "num": 278293,
+      "word": "我的英文已达到史铁生水平",
+      "onboard_time": 1701851620,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 277026,
@@ -907,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254769,
+      "num": 254769,
+      "word": "EDG新赛季阵容",
+      "onboard_time": 1701851499,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 251698,
       "num": 287885,
       "word": "感冒快好的时候传染性最强吗",
@@ -937,6 +985,14 @@
       "onboard_time": 1701846513,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246558,
+      "num": 229869,
+      "word": "假唱 垫音",
+      "onboard_time": 1701852938,
+      "rank": 28,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 243610,
@@ -1219,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196640,
+      "num": 196640,
+      "word": "娜扎流金岁月妆",
+      "onboard_time": 1701853118,
+      "rank": 32,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 196333,
       "num": 196333,
       "word": "首款iPhoneSE被列为过时产品",
@@ -1355,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179292,
-      "num": 179292,
-      "word": "心理暗示 凡事发生必有利于我",
-      "onboard_time": 1701851318,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177400,
       "num": 177400,
       "word": "樊振东气呼呼踢球",
@@ -1491,14 +1547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162787,
-      "num": 162787,
-      "word": "EDG新赛季阵容",
-      "onboard_time": 1701851499,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161717,
       "num": 106253,
       "word": "白鹿摸王星越的头",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1701823842,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156017,
+      "num": 156017,
+      "word": "谢娜最小的女儿很喜欢穿她的高跟鞋",
+      "onboard_time": 1701854197,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 153776,
@@ -1555,12 +1611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150796,
-      "num": 150796,
-      "word": "我的英文已达到史铁生水平",
-      "onboard_time": 1701851620,
-      "rank": 43,
-      "category": "读书作家"
+      "raw_hot": 151159,
+      "num": 151159,
+      "word": "原神同人综艺定档",
+      "onboard_time": 1701853418,
+      "rank": 39,
+      "category": "游戏,综艺"
     },
     {
       "raw_hot": 150028,
@@ -1585,6 +1641,14 @@
       "onboard_time": 1701829772,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147292,
+      "num": 217049,
+      "word": "东北滑雪场热闹得像下饺子",
+      "onboard_time": 1701853059,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146648,
@@ -1643,12 +1707,12 @@
       "category": "财经,电影"
     },
     {
-      "raw_hot": 140883,
-      "num": 140883,
-      "word": "赵露思律师回应败诉",
-      "onboard_time": 1701851680,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 141152,
+      "num": 141152,
+      "word": "韩东君你挡着蔡文静干啥",
+      "onboard_time": 1701853235,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 140115,
@@ -1883,7 +1947,7 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 39641,
+      "raw_hot": 40821,
       "num": 1283911,
       "word": "老人防治呼吸道疾病5个知识点",
       "onboard_time": 1701849216,
