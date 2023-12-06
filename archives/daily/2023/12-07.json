@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701894876389,
+  "endTime": 1701897354116,
   "band_list": [
     {
       "raw_hot": 3353650,
@@ -483,12 +483,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12428,
-      "num": 13057,
+      "raw_hot": 14174,
+      "num": 14174,
+      "word": "刘亦菲飞泰国路透",
+      "onboard_time": 1701896475,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13169,
+      "num": 13169,
       "word": "支原体肺炎防护指南",
       "onboard_time": 1701894193,
       "rank": 45,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 11837,
+      "num": 13134,
+      "word": "护肤品用量 产品效果",
+      "onboard_time": 1701895214,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 10619,
+      "num": 13090,
+      "word": "武警战士送别战友后转头救一人",
+      "onboard_time": 1701897314,
+      "rank": 49,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
