@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701826663250,
+  "endTime": 1701829824489,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1873806,
+      "num": 1873806,
+      "word": "举报五月天博主称没有收钱说假话",
+      "onboard_time": 1701826474,
+      "rank": 30,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1865832,
       "num": 1865832,
       "word": "金莎男友 开塞露",
@@ -587,6 +595,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 1668669,
+      "num": 1668669,
+      "word": "BLACKPINK全员与YG完成续约",
+      "onboard_time": 1701825217,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1664424,
       "num": 1664424,
       "word": "黄金价格",
@@ -656,14 +672,6 @@
       "word": "丁程鑫 中考",
       "onboard_time": 1701674257,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1576866,
-      "num": 1576866,
-      "word": "BLACKPINK全员与YG完成续约",
-      "onboard_time": 1701825217,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -795,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1441714,
+      "num": 1441714,
+      "word": "媒体评林俊杰为何恼了",
+      "onboard_time": 1701825161,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1425653,
       "num": 1425653,
       "word": "1米83自卑女孩靠穿汉服找回自信",
@@ -825,14 +841,6 @@
       "onboard_time": 1701682776,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1405983,
-      "num": 1405983,
-      "word": "媒体评林俊杰为何恼了",
-      "onboard_time": 1701825161,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 1404097,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1701585991,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1009103,
+      "num": 1009103,
+      "word": "被斗鱼索赔8000万的女大学生",
+      "onboard_time": 1701825514,
+      "rank": 10,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 1004507,
@@ -1553,14 +1569,6 @@
       "onboard_time": 1701782680,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 804624,
-      "num": 745216,
-      "word": "被斗鱼索赔8000万的女大学生",
-      "onboard_time": 1701825514,
-      "rank": 10,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 798757,
@@ -2643,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536171,
+      "num": 365522,
+      "word": "庆余年第二季",
+      "onboard_time": 1701827675,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535945,
       "num": 535945,
       "word": "营业性演出假唱 违法",
@@ -3395,6 +3411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448950,
+      "num": 448950,
+      "word": "父母的过度干涉 潜意识嫉妒",
+      "onboard_time": 1701824200,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 446474,
       "num": 446474,
       "word": "男子买彩票中11万被告知忘出票",
@@ -3987,6 +4011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 404871,
+      "num": 270978,
+      "word": "辛芷蕾根本内耗不了一点",
+      "onboard_time": 1701825161,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404291,
       "num": 404291,
       "word": "柳宗元竟是螺蛳粉的初代推广大使",
@@ -4041,14 +4073,6 @@
       "onboard_time": 1701654874,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399575,
-      "num": 399575,
-      "word": "父母的过度干涉 潜意识嫉妒",
-      "onboard_time": 1701824200,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 396530,
@@ -4129,6 +4153,14 @@
       "onboard_time": 1701774036,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 390398,
+      "num": 390398,
+      "word": "菲律宾一巴士坠崖已致29死",
+      "onboard_time": 1701826413,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390315,
@@ -5331,6 +5363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320098,
+      "num": 220235,
+      "word": "礼仪小姐回应被成毅请下班",
+      "onboard_time": 1701826297,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319665,
       "num": 319665,
       "word": "良品铺子 降价",
@@ -5593,14 +5633,6 @@
       "onboard_time": 1701655413,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 307636,
-      "num": 222655,
-      "word": "辛芷蕾根本内耗不了一点",
-      "onboard_time": 1701825161,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 307444,
@@ -6507,6 +6539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274743,
+      "num": 274743,
+      "word": "大姐回家给卖红薯小孩拿来自家孩子衣服御寒",
+      "onboard_time": 1701827314,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274432,
       "num": 274432,
       "word": "京考",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1701647311,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268130,
+      "num": 268130,
+      "word": "手机出货量大涨近六成",
+      "onboard_time": 1701827435,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 267818,
@@ -6875,6 +6923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257606,
+      "num": 167703,
+      "word": "伍佰 妹妹认亲",
+      "onboard_time": 1701828575,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257510,
       "num": 257510,
       "word": "竹叶篇妆造",
@@ -7073,14 +7129,6 @@
       "onboard_time": 1701732446,
       "rank": 19,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 249628,
-      "num": 203904,
-      "word": "举报五月天博主称没有收钱说假话",
-      "onboard_time": 1701826474,
-      "rank": 30,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 249414,
@@ -7963,6 +8011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221533,
+      "num": 167411,
+      "word": "脱轨定档",
+      "onboard_time": 1701829655,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219184,
       "num": 219184,
       "word": "张小斐官宣微博视界大会",
@@ -8185,6 +8241,14 @@
       "onboard_time": 1701504093,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212940,
+      "num": 166770,
+      "word": "张小斐 发言水平",
+      "onboard_time": 1701829594,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 212817,
@@ -9603,6 +9667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186878,
+      "num": 186878,
+      "word": "首款iPhoneSE被列为过时产品",
+      "onboard_time": 1701827852,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 186774,
       "num": 186774,
       "word": "i人不一定是社恐",
@@ -10115,14 +10187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172415,
-      "num": 172415,
-      "word": "礼仪小姐回应被成毅请下班",
-      "onboard_time": 1701826297,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172217,
       "num": 169754,
       "word": "周一围 你的过往成就了此刻的你",
@@ -10459,14 +10523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166517,
-      "num": 166517,
-      "word": "菲律宾一巴士坠崖已致29死",
-      "onboard_time": 1701826413,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166495,
       "num": 166495,
       "word": "山东男篮vs辽宁男篮",
@@ -10489,6 +10545,14 @@
       "onboard_time": 1701507691,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166275,
+      "num": 134426,
+      "word": "刘诗诗的酒窝",
+      "onboard_time": 1701827494,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 166204,
@@ -10521,6 +10585,14 @@
       "onboard_time": 1701689618,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 165325,
+      "num": 165325,
+      "word": "四川省考",
+      "onboard_time": 1701826894,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 165153,
@@ -11899,6 +11971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135395,
+      "num": 135395,
+      "word": "河北一镇政府到老人家没收过冬煤球",
+      "onboard_time": 1701828934,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134999,
       "num": 134999,
       "word": "出生15天的柴犬宝宝",
@@ -12731,6 +12811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110746,
+      "num": 110746,
+      "word": "图书馆自驱哥",
+      "onboard_time": 1701829594,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110698,
       "num": 110698,
       "word": "化妆公式学习",
@@ -12849,6 +12937,14 @@
       "onboard_time": 1701589292,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101657,
+      "num": 101657,
+      "word": "英语语法思维导图",
+      "onboard_time": 1701829772,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 101499,

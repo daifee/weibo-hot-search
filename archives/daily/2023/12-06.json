@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701826663250,
+  "endTime": 1701829824489,
   "band_list": [
     {
       "raw_hot": 3402371,
@@ -27,16 +27,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1576866,
-      "num": 1576866,
+      "raw_hot": 1873806,
+      "num": 1873806,
+      "word": "举报五月天博主称没有收钱说假话",
+      "onboard_time": 1701826474,
+      "rank": 30,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1668669,
+      "num": 1668669,
       "word": "BLACKPINK全员与YG完成续约",
       "onboard_time": 1701825217,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 1405983,
-      "num": 1405983,
+      "raw_hot": 1441714,
+      "num": 1441714,
       "word": "媒体评林俊杰为何恼了",
       "onboard_time": 1701825161,
       "rank": 20,
@@ -65,6 +73,14 @@
       "onboard_time": 1701787902,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1009103,
+      "num": 1009103,
+      "word": "被斗鱼索赔8000万的女大学生",
+      "onboard_time": 1701825514,
+      "rank": 10,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 959905,
@@ -97,14 +113,6 @@
       "onboard_time": 1701819809,
       "rank": 6,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 804624,
-      "num": 745216,
-      "word": "被斗鱼索赔8000万的女大学生",
-      "onboard_time": 1701825514,
-      "rank": 10,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 782914,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536171,
+      "num": 365522,
+      "word": "庆余年第二季",
+      "onboard_time": 1701827675,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521860,
       "num": 521860,
       "word": "尼前总统称中国登月时可别忘非洲兄弟",
@@ -169,6 +185,14 @@
       "onboard_time": 1701775655,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448950,
+      "num": 448950,
+      "word": "父母的过度干涉 潜意识嫉妒",
+      "onboard_time": 1701824200,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 442421,
@@ -211,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 399575,
-      "num": 399575,
-      "word": "父母的过度干涉 潜意识嫉妒",
-      "onboard_time": 1701824200,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 404871,
+      "num": 270978,
+      "word": "辛芷蕾根本内耗不了一点",
+      "onboard_time": 1701825161,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 393860,
@@ -225,6 +249,14 @@
       "onboard_time": 1701765581,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390398,
+      "num": 390398,
+      "word": "菲律宾一巴士坠崖已致29死",
+      "onboard_time": 1701826413,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388219,
@@ -275,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320098,
+      "num": 220235,
+      "word": "礼仪小姐回应被成毅请下班",
+      "onboard_time": 1701826297,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315876,
       "num": 148736,
       "word": "张若昀唐艺昕好甜",
@@ -289,14 +329,6 @@
       "onboard_time": 1701789819,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 307636,
-      "num": 222655,
-      "word": "辛芷蕾根本内耗不了一点",
-      "onboard_time": 1701825161,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 305022,
@@ -339,12 +371,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274743,
+      "num": 274743,
+      "word": "大姐回家给卖红薯小孩拿来自家孩子衣服御寒",
+      "onboard_time": 1701827314,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268130,
+      "num": 268130,
+      "word": "手机出货量大涨近六成",
+      "onboard_time": 1701827435,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 257727,
       "num": 257727,
       "word": "花近10万买彩票中2亿真实性有待确认",
       "onboard_time": 1701818305,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 257606,
+      "num": 167703,
+      "word": "伍佰 妹妹认亲",
+      "onboard_time": 1701828575,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 256139,
@@ -361,14 +417,6 @@
       "onboard_time": 1701791013,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249628,
-      "num": 203904,
-      "word": "举报五月天博主称没有收钱说假话",
-      "onboard_time": 1701826474,
-      "rank": 30,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 236013,
@@ -403,6 +451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221533,
+      "num": 167411,
+      "word": "脱轨定档",
+      "onboard_time": 1701829655,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217828,
       "num": 151322,
       "word": "檀健次 红毯荷官",
@@ -427,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212940,
+      "num": 166770,
+      "word": "张小斐 发言水平",
+      "onboard_time": 1701829594,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212466,
       "num": 212466,
       "word": "你一页纸翻过去就能翻过别人一辈子",
@@ -449,6 +513,14 @@
       "onboard_time": 1701824318,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207541,
+      "num": 137621,
+      "word": "一闪一闪亮星星",
+      "onboard_time": 1701828453,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 207054,
@@ -539,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186878,
+      "num": 186878,
+      "word": "首款iPhoneSE被列为过时产品",
+      "onboard_time": 1701827852,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184472,
       "num": 184472,
       "word": "一闪一闪亮星星片长107分钟",
@@ -560,14 +640,6 @@
       "word": "施伯雄因为爱吴千语才自卑",
       "onboard_time": 1701821740,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 172415,
-      "num": 172415,
-      "word": "礼仪小姐回应被成毅请下班",
-      "onboard_time": 1701826297,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -595,12 +667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166517,
-      "num": 166517,
-      "word": "菲律宾一巴士坠崖已致29死",
-      "onboard_time": 1701826413,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 166275,
+      "num": 134426,
+      "word": "刘诗诗的酒窝",
+      "onboard_time": 1701827494,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 165927,
@@ -609,6 +681,14 @@
       "onboard_time": 1701810073,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165325,
+      "num": 165325,
+      "word": "四川省考",
+      "onboard_time": 1701826894,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 163041,
@@ -683,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135395,
+      "num": 135395,
+      "word": "河北一镇政府到老人家没收过冬煤球",
+      "onboard_time": 1701828934,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131836,
       "num": 128484,
       "word": "王安宇首次获得演员奖",
@@ -739,12 +827,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110746,
+      "num": 110746,
+      "word": "图书馆自驱哥",
+      "onboard_time": 1701829594,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107623,
       "num": 74827,
       "word": "张若昀刘诗诗武侠风合影",
       "onboard_time": 1701795205,
       "rank": 36,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 101657,
+      "num": 101657,
+      "word": "英语语法思维导图",
+      "onboard_time": 1701829772,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 98807,
