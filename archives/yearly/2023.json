@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1701875969445,
+  "endTime": 1701876871981,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2123,6 +2123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 7576357,
+      "num": 7576357,
+      "word": "阿信回应",
+      "onboard_time": 1701872745,
+      "rank": 0,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 7564434,
       "num": 7564434,
       "word": "阿雅工作室发检测报告",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1676531250,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6995165,
-      "num": 6995165,
-      "word": "国考成绩",
-      "onboard_time": 1677809248,
-      "rank": 14,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

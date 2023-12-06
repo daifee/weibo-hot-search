@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701875969445,
+  "endTime": 1701876871981,
   "band_list": [
     {
       "raw_hot": 7740315,
@@ -11,8 +11,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 5425774,
-      "num": 5425774,
+      "raw_hot": 7576357,
+      "num": 7576357,
       "word": "阿信回应",
       "onboard_time": 1701872745,
       "rank": 0,
@@ -89,6 +89,14 @@
       "onboard_time": 1701826474,
       "rank": 30,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1847661,
+      "num": 1847661,
+      "word": "阿信 每一声都来自我的嗓子",
+      "onboard_time": 1701873735,
+      "rank": 1,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1837301,
@@ -363,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 675609,
+      "num": 675609,
+      "word": "苹果因故意降低性能被判向部分用户赔偿",
+      "onboard_time": 1701871419,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 660727,
       "num": 376676,
       "word": "丁海寅 夜店常客",
@@ -419,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 614295,
-      "num": 614295,
-      "word": "苹果因故意降低性能被判向部分用户赔偿",
-      "onboard_time": 1701871419,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 612245,
       "num": 509615,
       "word": "丁太升 不开麦半开麦都是假唱",
@@ -459,6 +467,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 590926,
+      "num": 590926,
+      "word": "假唱 真唱",
+      "onboard_time": 1701875022,
+      "rank": 7,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 588617,
       "num": 384306,
       "word": "一杯奶茶下肚身体变化",
@@ -472,6 +488,14 @@
       "word": "西安一村庄被倾倒核酸采样试管",
       "onboard_time": 1701818905,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584683,
+      "num": 584683,
+      "word": "新娘遭婚闹大姨一把推开扫兴小伙",
+      "onboard_time": 1701874782,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -497,6 +521,14 @@
       "onboard_time": 1701837581,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 560051,
+      "num": 560051,
+      "word": "E6",
+      "onboard_time": 1701875861,
+      "rank": 12,
+      "category": "音乐,社会新闻"
     },
     {
       "raw_hot": 554675,
@@ -657,6 +689,30 @@
       "onboard_time": 1701851318,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 461190,
+      "num": 461190,
+      "word": "张艺兴 初雪cha",
+      "onboard_time": 1701874965,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 459403,
+      "num": 459403,
+      "word": "难哄 不行就他们四个吧",
+      "onboard_time": 1701874309,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 456365,
+      "num": 239528,
+      "word": "车银优衣柜吻",
+      "onboard_time": 1701875202,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 453284,
@@ -907,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365699,
+      "num": 461232,
+      "word": "中学生被打成植物人已列为刑事案件",
+      "onboard_time": 1701873165,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365197,
       "num": 365197,
       "word": "江西2亿多元大奖得主发声",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1701872201,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329854,
+      "num": 174928,
+      "word": "7800元的羽绒服销量为个位数",
+      "onboard_time": 1701876038,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326557,
@@ -1209,6 +1281,14 @@
       "onboard_time": 1701872919,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 285928,
+      "num": 285928,
+      "word": "EDG老板支持meiko的想法",
+      "onboard_time": 1701873281,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 285568,
@@ -1523,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227654,
+      "num": 227654,
+      "word": "B站跨晚 12个奥特曼",
+      "onboard_time": 1701873819,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 226971,
       "num": 226971,
       "word": "奚梦瑶情绪 稳定",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1701835357,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224446,
+      "num": 224446,
+      "word": "圆肩驼背终于有救了",
+      "onboard_time": 1701873944,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 223018,
@@ -1699,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210444,
+      "num": 173336,
+      "word": "电子哈基米 成毅传",
+      "onboard_time": 1701875323,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209711,
       "num": 209711,
       "word": "两个二百五在伍佰体内打起来了",
@@ -1833,14 +1937,6 @@
       "onboard_time": 1701829594,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199478,
-      "num": 199478,
-      "word": "EDG老板支持meiko的想法",
-      "onboard_time": 1701873281,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 199131,
@@ -2395,20 +2491,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144032,
-      "num": 160071,
-      "word": "中学生被打成植物人已列为刑事案件",
-      "onboard_time": 1701873165,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143211,
       "num": 143211,
       "word": "杨鸣离婚",
       "onboard_time": 1701750763,
       "rank": 34,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 142198,
+      "num": 142198,
+      "word": "AG小组第一出线",
+      "onboard_time": 1701875022,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 142041,
@@ -2571,6 +2667,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 115731,
+      "num": 175559,
+      "word": "林葳41分",
+      "onboard_time": 1701874484,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114951,
       "num": 147900,
       "word": "马龙 稳稳的幸福",
@@ -2601,6 +2705,14 @@
       "onboard_time": 1701793409,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108524,
+      "num": 108524,
+      "word": "AG战胜狼队",
+      "onboard_time": 1701874064,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 107623,
@@ -2660,7 +2772,7 @@
     },
     {
       "raw_hot": 86805,
-      "num": 1088067,
+      "num": 1379847,
       "word": "呼吸道传染病个人健康手册",
       "onboard_time": 1701869017,
       "rank": 2,
