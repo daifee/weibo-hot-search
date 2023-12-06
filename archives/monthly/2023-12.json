@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701855276398,
+  "endTime": 1701857972729,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -1419,6 +1419,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 931895,
+      "num": 931895,
+      "word": "Twitch宣布退出韩国",
+      "onboard_time": 1701850542,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 910544,
       "num": 910544,
       "word": "酱园弄 杨幂",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1701699101,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 888546,
-      "num": 888546,
-      "word": "Twitch宣布退出韩国",
-      "onboard_time": 1701850542,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 885114,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1701414513,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710952,
+      "num": 710952,
+      "word": "Jessi 解约",
+      "onboard_time": 1701854918,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 709235,
@@ -2617,6 +2625,14 @@
       "onboard_time": 1701405638,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578750,
+      "num": 578750,
+      "word": "王者荣耀 露娜",
+      "onboard_time": 1701855277,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 574980,
@@ -3747,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446362,
+      "num": 446362,
+      "word": "金智秀晒BLACKPINK出道照",
+      "onboard_time": 1701857078,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445944,
       "num": 278275,
       "word": "成毅檀健次握手有点烫手",
@@ -3825,6 +3849,14 @@
       "onboard_time": 1701513753,
       "rank": 13,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 438748,
+      "num": 438748,
+      "word": "二手玫瑰梁龙曾评五月天真不好听",
+      "onboard_time": 1701856834,
+      "rank": 15,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 438599,
@@ -5043,14 +5075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365889,
-      "num": 365889,
-      "word": "Jessi 解约",
-      "onboard_time": 1701854918,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365220,
       "num": 365220,
       "word": "把猫猫的头含进嘴里的萨摩耶",
@@ -5411,6 +5435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342805,
+      "num": 874494,
+      "word": "为了救小狗这所大学放干了护校河的水",
+      "onboard_time": 1701855159,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342409,
       "num": 342409,
       "word": "南海归墟11分钟没声音",
@@ -5675,6 +5707,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 324261,
+      "num": 324261,
+      "word": "顺丰回应暂停揽收手办",
+      "onboard_time": 1701854797,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324061,
       "num": 287271,
       "word": "伍佰 妹妹认亲",
@@ -5825,6 +5865,14 @@
       "onboard_time": 1701747579,
       "rank": 17,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 318376,
+      "num": 318376,
+      "word": "痛经靠止痛药缓解有副作用吗",
+      "onboard_time": 1701856477,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 318178,
@@ -6371,6 +6419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 297159,
+      "num": 297159,
+      "word": "谢娜最小的女儿很喜欢穿她的高跟鞋",
+      "onboard_time": 1701854197,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296931,
       "num": 290211,
       "word": "王嘉尔补偿力度",
@@ -6808,14 +6864,6 @@
       "word": "奔跑吧",
       "onboard_time": 1701519153,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 281536,
-      "num": 281536,
-      "word": "谢娜最小的女儿很喜欢穿她的高跟鞋",
-      "onboard_time": 1701854197,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -7531,6 +7579,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 255417,
+      "num": 770460,
+      "word": "5岁男娃奶声奶气报警说捡到很多钱",
+      "onboard_time": 1701856358,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255153,
       "num": 255153,
       "word": "杨迪被林俊杰回关很开心",
@@ -7764,7 +7820,7 @@
     },
     {
       "raw_hot": 247426,
-      "num": 216880,
+      "num": 237184,
       "word": "剖腹产切开7层组织才能看见宝宝",
       "onboard_time": 1701854378,
       "rank": 30,
@@ -8667,6 +8723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 220614,
+      "num": 220614,
+      "word": "这几类女性不建议经期吃布洛芬",
+      "onboard_time": 1701856958,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 219184,
       "num": 219184,
       "word": "张小斐官宣微博视界大会",
@@ -8913,6 +8977,14 @@
       "onboard_time": 1701504093,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214016,
+      "num": 214016,
+      "word": "豆瓣崩了",
+      "onboard_time": 1701855818,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 213738,
@@ -9235,6 +9307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207159,
+      "num": 207159,
+      "word": "迪丽热巴古城变装",
+      "onboard_time": 1701857256,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207133,
       "num": 207133,
       "word": "羊了个羊崩了",
@@ -9377,14 +9457,6 @@
       "onboard_time": 1701470178,
       "rank": 5,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 205309,
-      "num": 205309,
-      "word": "顺丰回应暂停揽收手办",
-      "onboard_time": 1701854797,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205243,
@@ -10907,6 +10979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174850,
+      "num": 174850,
+      "word": "白菜卷火锅",
+      "onboard_time": 1701856658,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174793,
       "num": 174793,
       "word": "再见李可乐",
@@ -11169,6 +11249,14 @@
       "onboard_time": 1701441216,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169691,
+      "num": 653617,
+      "word": "男子为捐髓救人1个月减重13斤",
+      "onboard_time": 1701856358,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169502,
@@ -12675,6 +12763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142041,
+      "num": 142041,
+      "word": "和暖暖的十一年",
+      "onboard_time": 1701855877,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141983,
       "num": 201298,
       "word": "如何用粉笔画霸气迎接龙年",
@@ -13337,14 +13433,6 @@
       "onboard_time": 1701563487,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 126768,
-      "num": 126768,
-      "word": "为了救小狗这所大学放干了护校河的水",
-      "onboard_time": 1701855159,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126750,
