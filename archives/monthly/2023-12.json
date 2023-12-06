@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701862472869,
+  "endTime": 1701866052308,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -425,6 +425,14 @@
       "onboard_time": 1701762400,
       "rank": 1,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1970437,
+      "num": 1970437,
+      "word": "身份证上的X读什么",
+      "onboard_time": 1701860498,
+      "rank": 12,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1911048,
@@ -1035,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1232388,
-      "num": 1232388,
-      "word": "身份证上的X读什么",
-      "onboard_time": 1701860498,
-      "rank": 12,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 1218449,
       "num": 966886,
       "word": "湖南省一县委书记坠江身亡",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1701759762,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1189487,
+      "num": 837202,
+      "word": "演员邵逸凡 多次被迫假唱",
+      "onboard_time": 1701863858,
+      "rank": 4,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1182653,
@@ -1609,6 +1617,14 @@
       "onboard_time": 1701489751,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 838045,
+      "num": 838045,
+      "word": "张凌赫 南师大",
+      "onboard_time": 1701863375,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 834550,
@@ -2371,6 +2387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 637572,
+      "num": 637572,
+      "word": "周杰伦演唱会预售被嘲吃相难看",
+      "onboard_time": 1701864215,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 637562,
       "num": 570538,
       "word": "华晨宇广州上座率",
@@ -2603,6 +2627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 592512,
+      "num": 592512,
+      "word": "难哄 瞎哄",
+      "onboard_time": 1701864277,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 591133,
       "num": 591133,
       "word": "珠海一男子持刀致3死后自杀",
@@ -2705,6 +2737,14 @@
       "onboard_time": 1701671136,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 569881,
+      "num": 569881,
+      "word": "五月天事件黄牛票很难维权",
+      "onboard_time": 1701862957,
+      "rank": 7,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 569851,
@@ -3313,6 +3353,14 @@
       "onboard_time": 1701608570,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494996,
+      "num": 494996,
+      "word": "呼和浩特地震",
+      "onboard_time": 1701865538,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 494760,
@@ -4097,6 +4145,14 @@
       "onboard_time": 1701567031,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 428624,
+      "num": 373746,
+      "word": "歌手拒绝假唱名场面",
+      "onboard_time": 1701860197,
+      "rank": 17,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 428607,
@@ -5083,6 +5139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 369911,
+      "num": 369911,
+      "word": "医生提醒奥司他韦千万别乱吃",
+      "onboard_time": 1701864158,
+      "rank": 14,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 369445,
       "num": 369445,
       "word": "杨丞琳 唐门找到属于他的小花了",
@@ -5177,14 +5241,6 @@
       "onboard_time": 1701518734,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 362429,
-      "num": 362429,
-      "word": "歌手拒绝假唱名场面",
-      "onboard_time": 1701860197,
-      "rank": 17,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 362234,
@@ -5747,6 +5803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326112,
+      "num": 326112,
+      "word": "天官赐福",
+      "onboard_time": 1701865417,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 325957,
       "num": 325957,
       "word": "嗑到声音颤抖 嗑到原地起跳",
@@ -6209,6 +6273,14 @@
       "onboard_time": 1701390935,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307344,
+      "num": 307344,
+      "word": "杨鸣在多平台关闭粉丝评论",
+      "onboard_time": 1701862176,
+      "rank": 35,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 307146,
@@ -7217,6 +7289,14 @@
       "onboard_time": 1701773617,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272950,
+      "num": 272950,
+      "word": "王星越 挂锁",
+      "onboard_time": 1701863795,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 272319,
@@ -10011,6 +10091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196248,
+      "num": 196248,
+      "word": "东北1米7长冰糖葫芦1串10元",
+      "onboard_time": 1701862535,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196209,
       "num": 196209,
       "word": "冬季洗澡三个习惯加速皮肤老化",
@@ -10056,6 +10144,14 @@
       "word": "日本多地接连观测到海啸",
       "onboard_time": 1701578794,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195454,
+      "num": 195454,
+      "word": "98斤女警跳入冰水中救回120斤女子",
+      "onboard_time": 1701865298,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -10443,6 +10539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190373,
+      "num": 188033,
+      "word": "花少团搬行李 人仰马翻",
+      "onboard_time": 1701865234,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190343,
       "num": 190343,
       "word": "王楚钦热身 达人秀",
@@ -10480,6 +10584,14 @@
       "word": "小金毛 我吸到狗了",
       "onboard_time": 1701760237,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 189950,
+      "num": 188026,
+      "word": "这个offer只花了五分钟",
+      "onboard_time": 1701865057,
+      "rank": 31,
       "category": "幽默"
     },
     {
@@ -10553,6 +10665,14 @@
       "onboard_time": 1701397108,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188137,
+      "num": 188137,
+      "word": "伟大的单推人",
+      "onboard_time": 1701865359,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 188103,
@@ -10649,6 +10769,14 @@
       "onboard_time": 1701411095,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187039,
+      "num": 187039,
+      "word": "射向母亲的子弹正中我眉心",
+      "onboard_time": 1701864397,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 186774,
@@ -10825,6 +10953,14 @@
       "onboard_time": 1701737075,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182763,
+      "num": 188037,
+      "word": "萌兰向你跑来并附赠一个翻跟头",
+      "onboard_time": 1701864699,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182212,
@@ -11755,14 +11891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164085,
-      "num": 164085,
-      "word": "杨鸣在多平台关闭粉丝评论",
-      "onboard_time": 1701862176,
-      "rank": 35,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 164077,
       "num": 164077,
       "word": "朴元彬 吉他Solo",
@@ -12475,6 +12603,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 150126,
+      "num": 150126,
+      "word": "陈伟霆 不是电影尺度大是真实还原",
+      "onboard_time": 1701865836,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150119,
       "num": 150119,
       "word": "NBA季中锦标赛",
@@ -12561,6 +12697,14 @@
       "onboard_time": 1701829772,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148243,
+      "num": 148243,
+      "word": "女团来东北只干一件事",
+      "onboard_time": 1701863618,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 148232,
