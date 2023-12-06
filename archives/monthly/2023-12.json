@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701887749472,
+  "endTime": 1701890099541,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -15515,6 +15515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53559,
+      "num": 53559,
+      "word": "73万元手表4个月就起雾",
+      "onboard_time": 1701886101,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52566,
       "num": 1422134,
       "word": "冬季呼吸道疾病防治4问4答",
@@ -15624,14 +15632,6 @@
       "word": "这就是长三角",
       "onboard_time": 1701422737,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41258,
-      "num": 41258,
-      "word": "73万元手表4个月就起雾",
-      "onboard_time": 1701886101,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -15921,6 +15921,14 @@
       "onboard_time": 1701458774,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 22323,
+      "num": 22323,
+      "word": "供应商或已开始为iPhone全面屏做准备",
+      "onboard_time": 1701888495,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 21895,
