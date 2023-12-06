@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701866052308,
+  "endTime": 1701867025852,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -747,6 +747,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1314555,
+      "num": 837202,
+      "word": "演员邵逸凡 多次被迫假唱",
+      "onboard_time": 1701863858,
+      "rank": 4,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1264539,
       "num": 1264539,
       "word": "上海女子阿里车祸救治过程始末",
@@ -833,14 +841,6 @@
       "onboard_time": 1701759762,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1189487,
-      "num": 837202,
-      "word": "演员邵逸凡 多次被迫假唱",
-      "onboard_time": 1701863858,
-      "rank": 4,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1182653,
@@ -1475,6 +1475,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 712498,
+      "num": 712498,
+      "word": "周杰伦演唱会预售被嘲吃相难看",
+      "onboard_time": 1701864215,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 710952,
       "num": 710952,
       "word": "Jessi 解约",
@@ -1723,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 637572,
-      "num": 637572,
-      "word": "周杰伦演唱会预售被嘲吃相难看",
-      "onboard_time": 1701864215,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 637562,
       "num": 570538,
       "word": "华晨宇广州上座率",
@@ -1819,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617269,
+      "num": 617269,
+      "word": "难哄 瞎哄",
+      "onboard_time": 1701864277,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 613558,
       "num": 567040,
       "word": "小伙坚持一年52个周末都出去旅游",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1701754240,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 610480,
+      "num": 610480,
+      "word": "呼和浩特地震",
+      "onboard_time": 1701865538,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609562,
@@ -1899,20 +1915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593563,
+      "num": 593563,
+      "word": "五月天事件黄牛票很难维权",
+      "onboard_time": 1701862957,
+      "rank": 7,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 593283,
       "num": 237003,
       "word": "关晓彤 走秀回头再练",
       "onboard_time": 1701785806,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 592512,
-      "num": 592512,
-      "word": "难哄 瞎哄",
-      "onboard_time": 1701864277,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 591133,
@@ -2009,14 +2025,6 @@
       "onboard_time": 1701671136,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 569881,
-      "num": 569881,
-      "word": "五月天事件黄牛票很难维权",
-      "onboard_time": 1701862957,
-      "rank": 7,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 567680,
@@ -2467,14 +2475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 494996,
-      "num": 494996,
-      "word": "呼和浩特地震",
-      "onboard_time": 1701865538,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 493252,
       "num": 493252,
       "word": "刘宇宁跳科目三",
@@ -2537,6 +2537,14 @@
       "onboard_time": 1701769841,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483752,
+      "num": 483752,
+      "word": "天官赐福",
+      "onboard_time": 1701865417,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 482238,
@@ -2609,6 +2617,14 @@
       "onboard_time": 1701746253,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 471587,
+      "num": 471587,
+      "word": "AG 猝死团",
+      "onboard_time": 1701866075,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 470668,
@@ -3113,6 +3129,14 @@
       "onboard_time": 1701836137,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416657,
+      "num": 416657,
+      "word": "医生提醒奥司他韦千万别乱吃",
+      "onboard_time": 1701864158,
+      "rank": 14,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 415498,
@@ -3643,14 +3667,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 369911,
-      "num": 369911,
-      "word": "医生提醒奥司他韦千万别乱吃",
-      "onboard_time": 1701864158,
-      "rank": 14,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 368862,
       "num": 368862,
       "word": "莎头",
@@ -4073,14 +4089,6 @@
       "onboard_time": 1701571829,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326112,
-      "num": 326112,
-      "word": "天官赐福",
-      "onboard_time": 1701865417,
-      "rank": 16,
-      "category": "动漫"
     },
     {
       "raw_hot": 325686,
@@ -4849,6 +4857,14 @@
       "onboard_time": 1701838720,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289079,
+      "num": 289079,
+      "word": "官方回应五月天事件调查进展",
+      "onboard_time": 1701866377,
+      "rank": 18,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 288840,
@@ -5763,6 +5779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236311,
+      "num": 236311,
+      "word": "17万二手车买家大方给了20万现金",
+      "onboard_time": 1701866377,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236013,
       "num": 236013,
       "word": "阴阳师",
@@ -6155,6 +6179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222624,
+      "num": 222624,
+      "word": "陈伟霆 不是电影尺度大是真实还原",
+      "onboard_time": 1701865836,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222528,
       "num": 186748,
       "word": "很想很想你",
@@ -6259,6 +6291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217496,
+      "num": 217496,
+      "word": "网友解析阿信话筒位置",
+      "onboard_time": 1701866556,
+      "rank": 26,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 217016,
       "num": 217016,
       "word": "糖醋排骨",
@@ -6305,6 +6345,14 @@
       "onboard_time": 1701690577,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215672,
+      "num": 215672,
+      "word": "98斤女警跳入冰水中救回120斤女子",
+      "onboard_time": 1701865298,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215225,
@@ -6416,6 +6464,14 @@
       "word": "银行回应员工举报被领导施压发生关系",
       "onboard_time": 1701748839,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210666,
+      "num": 210666,
+      "word": "东北1米7长冰糖葫芦1串10元",
+      "onboard_time": 1701862535,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -6675,6 +6731,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 203683,
+      "num": 197188,
+      "word": "小马甲 这就是我想要的婚礼",
+      "onboard_time": 1701866675,
+      "rank": 30,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 203627,
       "num": 186734,
       "word": "陈伟霆 不要心疼我心疼真正的卧底",
@@ -6931,14 +6995,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 196248,
-      "num": 196248,
-      "word": "东北1米7长冰糖葫芦1串10元",
-      "onboard_time": 1701862535,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196079,
       "num": 196079,
       "word": "LPL全明星",
@@ -6952,14 +7008,6 @@
       "word": "日本多地接连观测到海啸",
       "onboard_time": 1701578794,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195454,
-      "num": 195454,
-      "word": "98斤女警跳入冰水中救回120斤女子",
-      "onboard_time": 1701865298,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -7139,6 +7187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 191770,
+      "num": 191770,
+      "word": "花少团搬行李 人仰马翻",
+      "onboard_time": 1701865234,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191712,
       "num": 191712,
       "word": "真假混唱",
@@ -7217,14 +7273,6 @@
       "onboard_time": 1701679359,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 190373,
-      "num": 188033,
-      "word": "花少团搬行李 人仰马翻",
-      "onboard_time": 1701865234,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 190343,
@@ -7411,6 +7459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184215,
+      "num": 188037,
+      "word": "萌兰向你跑来并附赠一个翻跟头",
+      "onboard_time": 1701864699,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184210,
       "num": 184210,
       "word": "虞书欣轻泰妆",
@@ -7457,14 +7513,6 @@
       "onboard_time": 1701737075,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182763,
-      "num": 188037,
-      "word": "萌兰向你跑来并附赠一个翻跟头",
-      "onboard_time": 1701864699,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181762,
@@ -8227,6 +8275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157741,
+      "num": 157741,
+      "word": "暖暖 漂亮的女儿",
+      "onboard_time": 1701866318,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157582,
       "num": 157582,
       "word": "原来发疯真的不分年龄",
@@ -8449,14 +8505,6 @@
       "onboard_time": 1701602914,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150126,
-      "num": 150126,
-      "word": "陈伟霆 不是电影尺度大是真实还原",
-      "onboard_time": 1701865836,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 150119,
@@ -8947,6 +8995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135351,
+      "num": 135351,
+      "word": "林高远王艺迪2比1斯洛伐克组合",
+      "onboard_time": 1701866497,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134999,
       "num": 134999,
       "word": "出生15天的柴犬宝宝",
@@ -9345,6 +9401,14 @@
       "onboard_time": 1701563968,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120239,
+      "num": 120239,
+      "word": "辛芷蕾 内娱狍塑女明星第一人",
+      "onboard_time": 1701866979,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 119813,
