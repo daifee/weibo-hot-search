@@ -1,0 +1,410 @@
+{
+  "runTime": 1701851739995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3538887,
+        "num": 3538887,
+        "word": "赵露思败诉",
+        "onboard_time": 1701848794,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1463634,
+        "num": 1463634,
+        "word": "韩国男子性侵亲妹妹被判刑12年不服上诉",
+        "onboard_time": 1701844353,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39523,
+        "num": 995063,
+        "word": "老人防治呼吸道疾病5个知识点",
+        "onboard_time": 1701849216,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972797,
+        "num": 972797,
+        "word": "上海文旅局组织专家评审判定五月天事件",
+        "onboard_time": 1701845616,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 963752,
+        "num": 963752,
+        "word": "南京胖哥父亲去世",
+        "onboard_time": 1701849998,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695984,
+        "num": 695984,
+        "word": "Twitch宣布退出韩国",
+        "onboard_time": 1701850542,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 638863,
+        "num": 638863,
+        "word": "五月天争议比较大的几个视频",
+        "onboard_time": 1701849334,
+        "rank": 6,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 627619,
+        "num": 627619,
+        "word": "何猷君拍结婚照 垫五个枕头",
+        "onboard_time": 1701847294,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511672,
+        "num": 511672,
+        "word": "床上八段锦",
+        "onboard_time": 1701847236,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 612245,
+        "num": 509615,
+        "word": "丁太升 不开麦半开麦都是假唱",
+        "onboard_time": 1701849036,
+        "rank": 9,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 2320857,
+        "num": 501191,
+        "word": "小学生带避孕套老师引导正确看性",
+        "onboard_time": 1701849216,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831679,
+        "num": 491168,
+        "word": "GQ 你好癫啊",
+        "onboard_time": 1701843692,
+        "rank": 11,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 541111,
+        "num": 479337,
+        "word": "婆婆太粘老公老婆受不了提出离婚",
+        "onboard_time": 1701839618,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473063,
+        "num": 473063,
+        "word": "顺丰暂停揽收手办",
+        "onboard_time": 1701849998,
+        "rank": 13,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 436858,
+        "num": 436858,
+        "word": "阿信 做好自己",
+        "onboard_time": 1701831638,
+        "rank": 14,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 329154,
+        "num": 329154,
+        "word": "新郎婚礼中晕倒全市急救专家都来了",
+        "onboard_time": 1701850899,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328714,
+        "num": 328714,
+        "word": "李现是瘦了吗",
+        "onboard_time": 1701846695,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381794,
+        "num": 326773,
+        "word": "玲花曾评价五月天唱功",
+        "onboard_time": 1701835420,
+        "rank": 17,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 318983,
+        "num": 318983,
+        "word": "何猷君加到了马龙的微信",
+        "onboard_time": 1701846454,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264201,
+        "num": 264201,
+        "word": "染发和烫发不建议一起做",
+        "onboard_time": 1701844475,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 558096,
+        "num": 263601,
+        "word": "尿眠体",
+        "onboard_time": 1701845134,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377728,
+        "num": 263538,
+        "word": "如果考编和考研同时上岸",
+        "onboard_time": 1701849998,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351168,
+        "num": 262896,
+        "word": "台湾论坛评五月天假唱风波",
+        "onboard_time": 1701835900,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 316624,
+        "num": 262218,
+        "word": "阿信忘了话筒在哪只手",
+        "onboard_time": 1701791256,
+        "rank": 23,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 261760,
+        "num": 261760,
+        "word": "半个娱乐圈都在浙江这座小镇",
+        "onboard_time": 1701842255,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240147,
+        "num": 240147,
+        "word": "肖战藏海传或将开机",
+        "onboard_time": 1701846993,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224251,
+        "num": 224251,
+        "word": "律师称若五月天假唱可能会被终身禁唱",
+        "onboard_time": 1701820352,
+        "rank": 26,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 206682,
+        "num": 206682,
+        "word": "迪丽热巴自己搭的造型",
+        "onboard_time": 1701849635,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202915,
+        "num": 202915,
+        "word": "韩国8比5法国",
+        "onboard_time": 1701848735,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179699,
+        "num": 179699,
+        "word": "解放军东部战区回应美反潜巡逻机过航台湾海峡",
+        "onboard_time": 1701847775,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179292,
+        "num": 179292,
+        "word": "心理暗示 凡事发生必有利于我",
+        "onboard_time": 1701851318,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174324,
+        "num": 174324,
+        "word": "刘亦菲 泰国",
+        "onboard_time": 1701835900,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176938,
+        "num": 174100,
+        "word": "迪丽热巴克罗地亚穿搭",
+        "onboard_time": 1701846513,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172450,
+        "num": 172450,
+        "word": "GQ红毯 i人队e人队",
+        "onboard_time": 1701844174,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170627,
+        "num": 170627,
+        "word": "日本8比0中国台北",
+        "onboard_time": 1701848915,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169162,
+        "num": 169162,
+        "word": "吴千语施伯雄",
+        "onboard_time": 1701847473,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167267,
+        "num": 167267,
+        "word": "鼻子对颜值的影响",
+        "onboard_time": 1701834216,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 164045,
+        "num": 164045,
+        "word": "拿铁 这个帅小伙是谁",
+        "onboard_time": 1701846755,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 162787,
+        "num": 162787,
+        "word": "EDG新赛季阵容",
+        "onboard_time": 1701851499,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162499,
+        "num": 162499,
+        "word": "提醒中小学生慎用鼻吸能量棒",
+        "onboard_time": 1701843753,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162490,
+        "num": 162490,
+        "word": "一杯奶茶下肚身体变化",
+        "onboard_time": 1701832716,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 161981,
+        "num": 161981,
+        "word": "举报五月天博主称没有收钱说假话",
+        "onboard_time": 1701826474,
+        "rank": 41,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 152047,
+        "num": 152047,
+        "word": "王星越 我从17岁就跟着鹿姐了",
+        "onboard_time": 1701832838,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150796,
+        "num": 150796,
+        "word": "我的英文已达到史铁生水平",
+        "onboard_time": 1701851620,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 152599,
+        "num": 150633,
+        "word": "演唱会门票 理财产品",
+        "onboard_time": 1701848196,
+        "rank": 44,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 150461,
+        "num": 150461,
+        "word": "朱丹早上去谈判下午就开战",
+        "onboard_time": 1701843513,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147892,
+        "num": 147892,
+        "word": "男子日均吸烟200支双肺半截没了",
+        "onboard_time": 1701834216,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145122,
+        "num": 145122,
+        "word": "2.2亿元彩票大奖所涉图片属两名购彩者",
+        "onboard_time": 1701837220,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140883,
+        "num": 140883,
+        "word": "赵露思律师回应败诉",
+        "onboard_time": 1701851680,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136130,
+        "num": 136130,
+        "word": "26批次羽绒服抽检不合格",
+        "onboard_time": 1701851137,
+        "rank": 49,
+        "category": "时尚,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快信息化服务普及缩小数字鸿沟#"
+    }
+  }
+}

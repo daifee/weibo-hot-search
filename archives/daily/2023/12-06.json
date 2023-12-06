@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701850972054,
+  "endTime": 1701851739995,
   "band_list": [
     {
       "raw_hot": 7740315,
@@ -11,8 +11,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 3512040,
-      "num": 3512040,
+      "raw_hot": 3538887,
+      "num": 3538887,
       "word": "赵露思败诉",
       "onboard_time": 1701848794,
       "rank": 0,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2291813,
-      "num": 488775,
+      "raw_hot": 2320857,
+      "num": 501191,
       "word": "小学生带避孕套老师引导正确看性",
       "onboard_time": 1701849216,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 963752,
+      "num": 963752,
+      "word": "南京胖哥父亲去世",
+      "onboard_time": 1701849998,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 963085,
       "num": 764697,
       "word": "刘亦菲 泰国",
@@ -219,14 +227,6 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 804047,
-      "num": 804047,
-      "word": "南京胖哥父亲去世",
-      "onboard_time": 1701849998,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 782914,
       "num": 782914,
       "word": "张若昀工作人员 还是牵一下蒜了",
@@ -257,6 +257,14 @@
       "onboard_time": 1701849334,
       "rank": 6,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 695984,
+      "num": 695984,
+      "word": "Twitch宣布退出韩国",
+      "onboard_time": 1701850542,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 689123,
@@ -299,8 +307,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 607944,
-      "num": 437992,
+      "raw_hot": 612245,
+      "num": 509615,
       "word": "丁太升 不开麦半开麦都是假唱",
       "onboard_time": 1701849036,
       "rank": 12,
@@ -417,6 +425,14 @@
       "onboard_time": 1701822999,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 473063,
+      "num": 473063,
+      "word": "顺丰暂停揽收手办",
+      "onboard_time": 1701849998,
+      "rank": 14,
+      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 471257,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377728,
+      "num": 302720,
+      "word": "如果考编和考研同时上岸",
+      "onboard_time": 1701849998,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375322,
       "num": 217895,
       "word": "关晓彤内场 秀腿是她的统治区",
@@ -601,14 +625,6 @@
       "onboard_time": 1701836379,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 361719,
-      "num": 361719,
-      "word": "顺丰暂停揽收手办",
-      "onboard_time": 1701849998,
-      "rank": 14,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 359122,
@@ -667,12 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 335259,
-      "num": 335259,
-      "word": "Twitch宣布退出韩国",
-      "onboard_time": 1701850542,
-      "rank": 17,
-      "category": "游戏"
+      "raw_hot": 329154,
+      "num": 329154,
+      "word": "新郎婚礼中晕倒全市急救专家都来了",
+      "onboard_time": 1701850899,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326557,
@@ -729,14 +745,6 @@
       "onboard_time": 1701794546,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302720,
-      "num": 302720,
-      "word": "如果考编和考研同时上岸",
-      "onboard_time": 1701849998,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302429,
@@ -1131,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206682,
+      "num": 206682,
+      "word": "迪丽热巴自己搭的造型",
+      "onboard_time": 1701849635,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206183,
       "num": 199198,
       "word": "张若昀忙得过来吗",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1701818365,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 201812,
-      "num": 201812,
-      "word": "迪丽热巴自己搭的造型",
-      "onboard_time": 1701849635,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 199566,
@@ -1347,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179292,
+      "num": 179292,
+      "word": "心理暗示 凡事发生必有利于我",
+      "onboard_time": 1701851318,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177400,
       "num": 177400,
       "word": "樊振东气呼呼踢球",
@@ -1475,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162787,
+      "num": 162787,
+      "word": "EDG新赛季阵容",
+      "onboard_time": 1701851499,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161717,
       "num": 106253,
       "word": "白鹿摸王星越的头",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1701826357,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150796,
+      "num": 150796,
+      "word": "我的英文已达到史铁生水平",
+      "onboard_time": 1701851620,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 150028,
@@ -1611,12 +1643,12 @@
       "category": "财经,电影"
     },
     {
-      "raw_hot": 140864,
-      "num": 140864,
-      "word": "新郎婚礼中晕倒全市急救专家都来了",
-      "onboard_time": 1701850899,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 140883,
+      "num": 140883,
+      "word": "赵露思律师回应败诉",
+      "onboard_time": 1701851680,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 140115,
@@ -1641,6 +1673,14 @@
       "onboard_time": 1701818305,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136130,
+      "num": 136130,
+      "word": "26批次羽绒服抽检不合格",
+      "onboard_time": 1701851137,
+      "rank": 49,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 135862,
@@ -1980,6 +2020,9 @@
     },
     {
       "word": "#文化是城市的灵魂要延续城市历史文脉#"
+    },
+    {
+      "word": "#加快信息化服务普及缩小数字鸿沟#"
     }
   ]
 }
