@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701904702557,
+  "endTime": 1701905688378,
   "band_list": [
     {
       "raw_hot": 3353650,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1214965,
-      "num": 387794,
+      "num": 469460,
       "word": "举报五月天博主称把歌和人分开",
       "onboard_time": 1701877300,
       "rank": 6,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 971672,
+      "num": 971672,
+      "word": "新娘遭婚闹大姨一把推开扫兴小伙",
+      "onboard_time": 1701874782,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 819697,
@@ -43,14 +51,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 776193,
-      "num": 776193,
-      "word": "新娘遭婚闹大姨一把推开扫兴小伙",
-      "onboard_time": 1701874782,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 615131,
       "num": 615131,
       "word": "7800元的羽绒服销量为个位数",
@@ -67,16 +67,32 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418579,
-      "num": 418579,
+      "raw_hot": 518772,
+      "num": 384010,
+      "word": "周深曾直接拒绝演唱现场放人声伴奏",
+      "onboard_time": 1701904042,
+      "rank": 8,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 505664,
+      "num": 505664,
       "word": "医生点名3类人睡前喝水",
       "onboard_time": 1701870880,
       "rank": 7,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 387928,
-      "num": 387928,
+      "raw_hot": 476285,
+      "num": 476285,
+      "word": "公司辞退提前吃午饭员工被判赔2万",
+      "onboard_time": 1701898273,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400894,
+      "num": 400894,
       "word": "难哄 不行就他们四个吧",
       "onboard_time": 1701874309,
       "rank": 5,
@@ -91,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369416,
-      "num": 369416,
-      "word": "公司辞退提前吃午饭员工被判赔2万",
-      "onboard_time": 1701898273,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344772,
       "num": 344772,
       "word": "苹果因故意降低性能被判向部分用户赔偿",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 328519,
-      "num": 194854,
+      "num": 231178,
       "word": "鉴定五月天真假唱的关键",
       "onboard_time": 1701879987,
       "rank": 20,
@@ -139,20 +147,20 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 301022,
-      "num": 301022,
-      "word": "周深曾直接拒绝演唱现场放人声伴奏",
-      "onboard_time": 1701904042,
-      "rank": 8,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 297465,
       "num": 297465,
       "word": "身份证上的X读什么",
       "onboard_time": 1701860498,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 266417,
+      "num": 266417,
+      "word": "大雪",
+      "onboard_time": 1701904945,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266028,
@@ -163,12 +171,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264370,
+      "num": 264370,
+      "word": "李现 好素的妆好帅的脸",
+      "onboard_time": 1701904103,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246543,
+      "num": 246543,
+      "word": "大雪节气至新年也不远了",
+      "onboard_time": 1701904704,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241614,
       "num": 139109,
       "word": "假唱 真唱",
       "onboard_time": 1701875022,
       "rank": 21,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 222634,
+      "num": 222634,
+      "word": "73万元手表4个月就起雾",
+      "onboard_time": 1701886101,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219843,
@@ -179,20 +211,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199080,
+      "num": 199080,
+      "word": "曼联2比1切尔西",
+      "onboard_time": 1701905126,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194478,
+      "num": 179671,
+      "word": "演员邵逸凡 多次被迫假唱",
+      "onboard_time": 1701863858,
+      "rank": 30,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 192292,
+      "num": 192292,
+      "word": "阿斯顿维拉1比0曼城",
+      "onboard_time": 1701904704,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183981,
+      "num": 124734,
+      "word": "切尔西 抽象",
+      "onboard_time": 1701905365,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182465,
       "num": 182465,
       "word": "名侦探柯南",
       "onboard_time": 1701877119,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 178234,
-      "num": 178234,
-      "word": "73万元手表4个月就起雾",
-      "onboard_time": 1701886101,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174854,
@@ -211,20 +267,28 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 170170,
-      "num": 170170,
-      "word": "演员邵逸凡 多次被迫假唱",
-      "onboard_time": 1701863858,
-      "rank": 30,
-      "category": "艺人,社会新闻"
+      "raw_hot": 163270,
+      "num": 159198,
+      "word": "成毅自拍 逐渐离谱",
+      "onboard_time": 1701892995,
+      "rank": 13,
+      "category": "艺人"
     },
     {
-      "raw_hot": 168892,
-      "num": 168892,
-      "word": "李现 好素的妆好帅的脸",
-      "onboard_time": 1701904103,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 162764,
+      "num": 159150,
+      "word": "周迅观战曼联",
+      "onboard_time": 1701905247,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 158701,
+      "num": 158701,
+      "word": "字节跳动以160美元开启新一轮股东回购",
+      "onboard_time": 1701904945,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 158247,
@@ -251,14 +315,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 142181,
-      "num": 94155,
-      "word": "成毅自拍 逐渐离谱",
-      "onboard_time": 1701892995,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141661,
       "num": 157701,
       "word": "汉文帝霸陵发掘70多座动物殉葬坑",
@@ -279,6 +335,14 @@
       "num": 156203,
       "word": "76岁老人用竹子编二维码能扫出来",
       "onboard_time": 1701878854,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129243,
+      "num": 129243,
+      "word": "老太存款消失拷问老伴民警现场洗嫌疑",
+      "onboard_time": 1701881903,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -323,20 +387,20 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 108461,
+      "num": 108461,
+      "word": "每天7分钟脖子舒服曲度回来",
+      "onboard_time": 1701900194,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 107110,
       "num": 107110,
       "word": "Twitch宣布退出韩国",
       "onboard_time": 1701850542,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 106629,
-      "num": 106629,
-      "word": "老太存款消失拷问老伴民警现场洗嫌疑",
-      "onboard_time": 1701881903,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105099,
@@ -379,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100373,
-      "num": 100373,
-      "word": "每天7分钟脖子舒服曲度回来",
-      "onboard_time": 1701900194,
-      "rank": 35,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 99159,
       "num": 99159,
       "word": "整场会议最忙的是小猫",
@@ -409,6 +465,14 @@
       "onboard_time": 1701878253,
       "rank": 42,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 95757,
+      "num": 95757,
+      "word": "学校回应学生称没课也不让待宿舍",
+      "onboard_time": 1701900976,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92917,
@@ -451,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77575,
-      "num": 77575,
-      "word": "学校回应学生称没课也不让待宿舍",
-      "onboard_time": 1701900976,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 82393,
+      "num": 82393,
+      "word": "杨紫 微风温柔她也温柔",
+      "onboard_time": 1701869380,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 77517,
@@ -475,14 +539,6 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 70742,
-      "num": 70742,
-      "word": "杨紫 微风温柔她也温柔",
-      "onboard_time": 1701869380,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 66581,
       "num": 52397,
       "word": "BABYMONSTER MV reaction",
@@ -497,6 +553,14 @@
       "onboard_time": 1701879451,
       "rank": 49,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 61817,
+      "num": 61817,
+      "word": "官方通报7旬老人被收走1吨煤",
+      "onboard_time": 1701905607,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48809,
