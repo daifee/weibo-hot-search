@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701882986597,
+  "endTime": 1701884062771,
   "band_list": [
     {
       "raw_hot": 3353650,
@@ -425,6 +425,14 @@
       "onboard_time": 1701881903,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42562,
+      "num": 42562,
+      "word": "陈伟霆 不是电影尺度大是真实还原",
+      "onboard_time": 1701865836,
+      "rank": 43,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
