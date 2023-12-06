@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701840851276,
+  "endTime": 1701843803836,
   "band_list": [
     {
       "raw_hot": 7740315,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1619954,
-      "num": 775106,
+      "num": 1420195,
       "word": "玲花曾评价五月天唱功",
       "onboard_time": 1701835420,
       "rank": 9,
@@ -65,6 +65,14 @@
       "onboard_time": 1701825161,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1382185,
+      "num": 1382185,
+      "word": "婆婆太粘老公老婆受不了提出离婚",
+      "onboard_time": 1701839618,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1184100,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 932134,
-      "num": 521782,
+      "num": 600492,
       "word": "台湾论坛评五月天假唱风波",
       "onboard_time": 1701835900,
       "rank": 12,
@@ -155,6 +163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 835569,
+      "num": 835569,
+      "word": "半个娱乐圈都在浙江这座小镇",
+      "onboard_time": 1701842255,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 828327,
       "num": 828327,
       "word": "6G",
@@ -169,14 +185,6 @@
       "onboard_time": 1701823898,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 676378,
-      "num": 456765,
-      "word": "婆婆太粘老公老婆受不了提出离婚",
-      "onboard_time": 1701839618,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 660727,
@@ -281,6 +289,14 @@
       "onboard_time": 1701834216,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 497924,
+      "num": 497924,
+      "word": "林俊杰直播",
+      "onboard_time": 1701840993,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 482238,
@@ -395,6 +411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 402084,
+      "num": 402084,
+      "word": "湖人战胜太阳",
+      "onboard_time": 1701842433,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393860,
       "num": 316320,
       "word": "娜扎 赢麻了",
@@ -441,6 +465,14 @@
       "onboard_time": 1701836379,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359122,
+      "num": 359122,
+      "word": "春晚吉祥物龙辰辰",
+      "onboard_time": 1701841892,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 356295,
@@ -544,6 +576,14 @@
       "word": "宋妍霏钻石肚兜",
       "onboard_time": 1701794546,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 300708,
+      "num": 300708,
+      "word": "朱丹早上去谈判下午就开战",
+      "onboard_time": 1701843513,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -691,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237411,
+      "num": 237411,
+      "word": "周围人都觉得我能考上研",
+      "onboard_time": 1701842734,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236013,
       "num": 236013,
       "word": "阴阳师",
@@ -803,6 +851,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209711,
+      "num": 209711,
+      "word": "两个二百五在伍佰体内打起来了",
+      "onboard_time": 1701840455,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 209203,
+      "num": 209203,
+      "word": "任贤齐说歌手不能被取代的就是live",
+      "onboard_time": 1701841294,
+      "rank": 29,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 207541,
       "num": 184335,
       "word": "一闪一闪亮星星",
@@ -867,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199271,
+      "num": 199271,
+      "word": "GQ 你好癫啊",
+      "onboard_time": 1701843692,
+      "rank": 31,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 199131,
       "num": 142676,
       "word": "偶遇SVT的男粉丝后记",
@@ -907,6 +979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190270,
+      "num": 190270,
+      "word": "詹姆斯31分11助攻",
+      "onboard_time": 1701843033,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189812,
       "num": 142395,
       "word": "赵一博 种地吧第二季",
@@ -931,20 +1011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187151,
+      "num": 187151,
+      "word": "詹姆斯传球击倒布克",
+      "onboard_time": 1701840693,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185787,
+      "num": 185787,
+      "word": "家妍避世 飞爷入世",
+      "onboard_time": 1701842792,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185780,
       "num": 185780,
       "word": "接TES Meiko",
       "onboard_time": 1701838541,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 184924,
-      "num": 184924,
-      "word": "两个二百五在伍佰体内打起来了",
-      "onboard_time": 1701840455,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 184472,
@@ -955,12 +1043,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181076,
+      "num": 181076,
+      "word": "杜兰特31分",
+      "onboard_time": 1701842494,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180873,
       "num": 180873,
       "word": "银行通报员工举报遭领导施压发生关系",
       "onboard_time": 1701780879,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179845,
+      "num": 179845,
+      "word": "李晋晔赞多组队像婚礼宣誓",
+      "onboard_time": 1701842193,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 177400,
@@ -1059,6 +1163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164394,
+      "num": 164394,
+      "word": "声理学 我已经无所畏惧",
+      "onboard_time": 1701840634,
+      "rank": 45,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 163041,
       "num": 163041,
       "word": "阿姨瞒着爸妈上了8年班",
@@ -1067,12 +1179,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162061,
+      "num": 162061,
+      "word": "喜马拉雅高级副总裁确认已离职",
+      "onboard_time": 1701843333,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161717,
       "num": 106253,
       "word": "白鹿摸王星越的头",
       "onboard_time": 1701794188,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158631,
+      "num": 158631,
+      "word": "提醒中小学生慎用鼻吸能量棒",
+      "onboard_time": 1701843753,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158526,
@@ -1203,12 +1331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134240,
-      "num": 134240,
-      "word": "声理学 我已经无所畏惧",
-      "onboard_time": 1701840634,
-      "rank": 45,
-      "category": "演出,社会新闻"
+      "raw_hot": 135862,
+      "num": 135862,
+      "word": "莫青成顾声 奶茶名场面",
+      "onboard_time": 1701843571,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 132830,
@@ -1225,14 +1353,6 @@
       "onboard_time": 1701815478,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129356,
-      "num": 129356,
-      "word": "詹姆斯传球击倒布克",
-      "onboard_time": 1701840693,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 125631,
@@ -1348,7 +1468,7 @@
     },
     {
       "raw_hot": 75896,
-      "num": 1059486,
+      "num": 1175429,
       "word": "一文了解6G进展",
       "onboard_time": 1701833137,
       "rank": 2,
