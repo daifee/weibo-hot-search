@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701869648712,
+  "endTime": 1701872218845,
   "band_list": [
     {
       "raw_hot": 7740315,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1187247,
+      "num": 1187247,
+      "word": "周杰伦演唱会预售被嘲吃相难看",
+      "onboard_time": 1701864215,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1184100,
       "num": 1184100,
       "word": "湖南卫视 那英",
@@ -209,14 +217,6 @@
       "onboard_time": 1701822158,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 939820,
-      "num": 939820,
-      "word": "周杰伦演唱会预售被嘲吃相难看",
-      "onboard_time": 1701864215,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 932134,
@@ -289,6 +289,14 @@
       "onboard_time": 1701823898,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 780272,
+      "num": 536811,
+      "word": "五月天",
+      "onboard_time": 1701870880,
+      "rank": 6,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 740853,
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 625455,
+      "num": 505580,
+      "word": "医生点名3类人睡前喝水",
+      "onboard_time": 1701870880,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 621173,
       "num": 621173,
       "word": "顺丰暂停揽收手办",
@@ -467,6 +483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 554675,
+      "num": 499318,
+      "word": "向华强在刘德华父亲葬礼上发言",
+      "onboard_time": 1701870701,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551740,
       "num": 551740,
       "word": "GQ红毯 i人队e人队",
@@ -491,6 +515,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 537144,
+      "num": 537144,
+      "word": "布兰妮父亲 截肢",
+      "onboard_time": 1701868421,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536171,
       "num": 413154,
       "word": "庆余年第二季",
@@ -505,6 +537,14 @@
       "onboard_time": 1701834216,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532194,
+      "num": 532194,
+      "word": "生病的孩子不能吃的东西",
+      "onboard_time": 1701869380,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 521860,
@@ -544,14 +584,6 @@
       "word": "林俊杰直播",
       "onboard_time": 1701840993,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 497250,
-      "num": 429463,
-      "word": "布兰妮父亲 截肢",
-      "onboard_time": 1701868421,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -755,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404175,
+      "num": 305036,
+      "word": "杨紫 微风温柔她也温柔",
+      "onboard_time": 1701869380,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 403282,
       "num": 403282,
       "word": "拜登称鱼鹰运输机上8人全部死亡",
@@ -836,11 +876,19 @@
     },
     {
       "raw_hot": 370379,
-      "num": 484418,
+      "num": 528027,
       "word": "17万二手车买家大方给了20万现金",
       "onboard_time": 1701866377,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369673,
+      "num": 369673,
+      "word": "苹果因故意降低性能被判向部分用户赔偿",
+      "onboard_time": 1701871419,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 365197,
@@ -1027,20 +1075,20 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 303220,
+      "num": 303220,
+      "word": "网友解析阿信话筒位置",
+      "onboard_time": 1701866556,
+      "rank": 26,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 302429,
       "num": 302429,
       "word": "逆水寒",
       "onboard_time": 1701846334,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298391,
-      "num": 293035,
-      "word": "网友解析阿信话筒位置",
-      "onboard_time": 1701866556,
-      "rank": 26,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 298229,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1701835357,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295037,
+      "num": 295037,
+      "word": "刘宇宁吃瓜吃到自己头上",
+      "onboard_time": 1701869918,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294028,
@@ -1171,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273646,
+      "num": 273646,
+      "word": "孟子义GQ拍摄 裙子挡脸",
+      "onboard_time": 1701871480,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272950,
       "num": 272950,
       "word": "王星越 挂锁",
@@ -1209,6 +1273,22 @@
       "onboard_time": 1701868902,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 258160,
+      "num": 304096,
+      "word": "餐饮圈 科技与狠活",
+      "onboard_time": 1701871000,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 257913,
+      "num": 242782,
+      "word": "陈伟霆 不是电影尺度大是真实还原",
+      "onboard_time": 1701865836,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 257832,
@@ -1427,20 +1507,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 222624,
-      "num": 222624,
-      "word": "陈伟霆 不是电影尺度大是真实还原",
-      "onboard_time": 1701865836,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 222257,
       "num": 222257,
       "word": "阴阳师 玉取剧情",
       "onboard_time": 1701859716,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221496,
+      "num": 250353,
+      "word": "沃特斯绝杀北控男篮",
+      "onboard_time": 1701871419,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221415,
+      "num": 221415,
+      "word": "辛芷蕾 内娱狍塑女明星第一人",
+      "onboard_time": 1701866979,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 221260,
@@ -1683,6 +1771,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 201491,
+      "num": 201491,
+      "word": "暖暖 漂亮的女儿",
+      "onboard_time": 1701866318,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201189,
+      "num": 201189,
+      "word": "刘诗诗红衫皮裙",
+      "onboard_time": 1701871905,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199566,
       "num": 216275,
       "word": "图书馆自驱哥",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1701793230,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198968,
+      "num": 198968,
+      "word": "邓紫棋演唱会 彩排",
+      "onboard_time": 1701871780,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 196640,
@@ -1763,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190754,
+      "num": 190754,
+      "word": "炎亚纶偷拍案21日开庭",
+      "onboard_time": 1701871364,
+      "rank": 42,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 190270,
       "num": 190270,
       "word": "詹姆斯31分11助攻",
@@ -1819,14 +1939,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 187735,
-      "num": 187735,
-      "word": "暖暖 漂亮的女儿",
-      "onboard_time": 1701866318,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 187151,
       "num": 187151,
       "word": "詹姆斯传球击倒布克",
@@ -1867,20 +1979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184036,
-      "num": 184036,
-      "word": "杨紫 微风温柔她也温柔",
-      "onboard_time": 1701869380,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 181455,
-      "num": 181455,
-      "word": "生病的孩子不能吃的东西",
-      "onboard_time": 1701869380,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 183571,
+      "num": 247318,
+      "word": "北控男篮vs广东男篮",
+      "onboard_time": 1701871364,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 181254,
@@ -1960,14 +2064,6 @@
       "word": "施伯雄因为爱吴千语才自卑",
       "onboard_time": 1701821740,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 173410,
-      "num": 173410,
-      "word": "辛芷蕾 内娱狍塑女明星第一人",
-      "onboard_time": 1701866979,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -2323,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138704,
+      "num": 138704,
+      "word": "周琦 真香",
+      "onboard_time": 1701872201,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136130,
       "num": 136130,
       "word": "26批次羽绒服抽检不合格",
@@ -2459,6 +2563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 97835,
+      "num": 371344,
+      "word": "五菱星光PHEV售价8.88万起",
+      "onboard_time": 1701868116,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 95675,
       "num": 306226,
       "word": "家用车11立方米是什么概念",
@@ -2515,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79966,
+      "num": 968022,
+      "word": "呼吸道传染病个人健康手册",
+      "onboard_time": 1701869017,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75896,
       "num": 1357276,
       "word": "一文了解6G进展",
@@ -2553,14 +2673,6 @@
       "onboard_time": 1701755200,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 60196,
-      "num": 371344,
-      "word": "五菱星光PHEV售价8.88万起",
-      "onboard_time": 1701868116,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 40821,
@@ -2615,14 +2727,6 @@
       "num": 1952698,
       "word": "聚焦COP28",
       "onboard_time": 1701783165,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26991,
-      "num": 968022,
-      "word": "呼吸道传染病个人健康手册",
-      "onboard_time": 1701869017,
       "rank": 2,
       "category": "社会新闻"
     },
