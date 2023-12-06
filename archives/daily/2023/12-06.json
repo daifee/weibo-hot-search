@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701825425983,
+  "endTime": 1701826663250,
   "band_list": [
     {
       "raw_hot": 3402371,
@@ -25,6 +25,22 @@
       "onboard_time": 1701820234,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1576866,
+      "num": 1576866,
+      "word": "BLACKPINK全员与YG完成续约",
+      "onboard_time": 1701825217,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1405983,
+      "num": 1405983,
+      "word": "媒体评林俊杰为何恼了",
+      "onboard_time": 1701825161,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 1184100,
@@ -83,8 +99,16 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 710119,
-      "num": 710119,
+      "raw_hot": 804624,
+      "num": 745216,
+      "word": "被斗鱼索赔8000万的女大学生",
+      "onboard_time": 1701825514,
+      "rank": 10,
+      "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 782914,
+      "num": 782914,
       "word": "张若昀工作人员 还是牵一下蒜了",
       "onboard_time": 1701823898,
       "rank": 8,
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 585073,
-      "num": 585073,
+      "num": 745749,
       "word": "西安一村庄被倾倒核酸采样试管",
       "onboard_time": 1701818905,
       "rank": 9,
@@ -179,20 +203,20 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 405674,
-      "num": 292922,
-      "word": "媒体评林俊杰为何恼了",
-      "onboard_time": 1701825161,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 405535,
       "num": 275880,
       "word": "张天爱 他们怎么穿黑的不告诉我",
       "onboard_time": 1701780940,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399575,
+      "num": 399575,
+      "word": "父母的过度干涉 潜意识嫉妒",
+      "onboard_time": 1701824200,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 393860,
@@ -217,14 +241,6 @@
       "onboard_time": 1701779019,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 361120,
-      "num": 361120,
-      "word": "父母的过度干涉 潜意识嫉妒",
-      "onboard_time": 1701824200,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 356295,
@@ -275,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307636,
+      "num": 222655,
+      "word": "辛芷蕾根本内耗不了一点",
+      "onboard_time": 1701825161,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305022,
       "num": 269424,
       "word": "宋妍霏钻石肚兜",
@@ -291,8 +315,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283935,
-      "num": 283935,
+      "raw_hot": 285568,
+      "num": 285568,
       "word": "糖尿病开始拖垮年轻人",
       "onboard_time": 1701821917,
       "rank": 23,
@@ -313,14 +337,6 @@
       "onboard_time": 1701777336,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270298,
-      "num": 217069,
-      "word": "BLACKPINK全员与YG完成续约",
-      "onboard_time": 1701825217,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 257727,
@@ -347,12 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241370,
-      "num": 216566,
-      "word": "辛芷蕾根本内耗不了一点",
-      "onboard_time": 1701825161,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 249628,
+      "num": 203904,
+      "word": "举报五月天博主称没有收钱说假话",
+      "onboard_time": 1701826474,
+      "rank": 30,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 236013,
+      "num": 236013,
+      "word": "阴阳师",
+      "onboard_time": 1701824915,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 232613,
@@ -361,6 +385,14 @@
       "onboard_time": 1701824978,
       "rank": 32,
       "category": "动漫,剧集"
+    },
+    {
+      "raw_hot": 231245,
+      "num": 231245,
+      "word": "奶茶 植脂末",
+      "onboard_time": 1701822336,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 222711,
@@ -377,14 +409,6 @@
       "onboard_time": 1701786040,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217104,
-      "num": 217104,
-      "word": "奶茶 植脂末",
-      "onboard_time": 1701822336,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 216359,
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203627,
+      "num": 186734,
+      "word": "陈伟霆 不要心疼我心疼真正的卧底",
+      "onboard_time": 1701826357,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202490,
       "num": 202490,
       "word": "爱马仕继承人将巨额财产留给园丁",
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 194737,
-      "num": 170412,
+      "num": 182054,
       "word": "新疆多地突发闹海风",
       "onboard_time": 1701817279,
       "rank": 23,
@@ -489,14 +521,6 @@
       "onboard_time": 1701792690,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 191407,
-      "num": 191407,
-      "word": "阴阳师",
-      "onboard_time": 1701824915,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 189812,
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172415,
+      "num": 172415,
+      "word": "礼仪小姐回应被成毅请下班",
+      "onboard_time": 1701826297,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172217,
       "num": 169754,
       "word": "周一围 你的过往成就了此刻的你",
@@ -561,6 +593,14 @@
       "onboard_time": 1701817826,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166517,
+      "num": 166517,
+      "word": "菲律宾一巴士坠崖已致29死",
+      "onboard_time": 1701826413,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165927,
@@ -593,6 +633,14 @@
       "onboard_time": 1701823842,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151906,
+      "num": 151906,
+      "word": "太阳vs湖人",
+      "onboard_time": 1701826357,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 149281,

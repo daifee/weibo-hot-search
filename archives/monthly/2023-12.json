@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701825425983,
+  "endTime": 1701826663250,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1576866,
+      "num": 1576866,
+      "word": "BLACKPINK全员与YG完成续约",
+      "onboard_time": 1701825217,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1562201,
       "num": 1562201,
       "word": "加拿大超级猪入侵美国",
@@ -817,6 +825,14 @@
       "onboard_time": 1701682776,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1405983,
+      "num": 1405983,
+      "word": "媒体评林俊杰为何恼了",
+      "onboard_time": 1701825161,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 1404097,
@@ -1539,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 804624,
+      "num": 745216,
+      "word": "被斗鱼索赔8000万的女大学生",
+      "onboard_time": 1701825514,
+      "rank": 10,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 798757,
       "num": 1410479,
       "word": "男子打球猝死工作人员抢下黄金四分钟",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1701757057,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 782914,
+      "num": 782914,
+      "word": "张若昀工作人员 还是牵一下蒜了",
+      "onboard_time": 1701823898,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 781910,
@@ -1825,14 +1857,6 @@
       "onboard_time": 1701414513,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 710119,
-      "num": 710119,
-      "word": "张若昀工作人员 还是牵一下蒜了",
-      "onboard_time": 1701823898,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 709235,
@@ -2356,7 +2380,7 @@
     },
     {
       "raw_hot": 585073,
-      "num": 585073,
+      "num": 745749,
       "word": "西安一村庄被倾倒核酸采样试管",
       "onboard_time": 1701818905,
       "rank": 9,
@@ -3955,14 +3979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 405674,
-      "num": 292922,
-      "word": "媒体评林俊杰为何恼了",
-      "onboard_time": 1701825161,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 405636,
       "num": 405636,
       "word": "JDG官宣Knight离队",
@@ -4025,6 +4041,14 @@
       "onboard_time": 1701654874,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399575,
+      "num": 399575,
+      "word": "父母的过度干涉 潜意识嫉妒",
+      "onboard_time": 1701824200,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 396530,
@@ -4665,14 +4689,6 @@
       "onboard_time": 1701438940,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 361120,
-      "num": 361120,
-      "word": "父母的过度干涉 潜意识嫉妒",
-      "onboard_time": 1701824200,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 360883,
@@ -5579,6 +5595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 307636,
+      "num": 222655,
+      "word": "辛芷蕾根本内耗不了一点",
+      "onboard_time": 1701825161,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307444,
       "num": 307444,
       "word": "车守住了没守住王俊凯",
@@ -6195,6 +6219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285568,
+      "num": 285568,
+      "word": "糖尿病开始拖垮年轻人",
+      "onboard_time": 1701821917,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285509,
       "num": 285509,
       "word": "邓为直播",
@@ -6233,14 +6265,6 @@
       "onboard_time": 1701780639,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 283935,
-      "num": 283935,
-      "word": "糖尿病开始拖垮年轻人",
-      "onboard_time": 1701821917,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281841,
@@ -6577,14 +6601,6 @@
       "onboard_time": 1701622348,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270298,
-      "num": 217069,
-      "word": "BLACKPINK全员与YG完成续约",
-      "onboard_time": 1701825217,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 270055,
@@ -7059,6 +7075,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 249628,
+      "num": 203904,
+      "word": "举报五月天博主称没有收钱说假话",
+      "onboard_time": 1701826474,
+      "rank": 30,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 249414,
       "num": 249414,
       "word": "高铁查学生证查到我的小抄",
@@ -7219,14 +7243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 241370,
-      "num": 216566,
-      "word": "辛芷蕾根本内耗不了一点",
-      "onboard_time": 1701825161,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241158,
       "num": 241158,
       "word": "极光",
@@ -7337,6 +7353,14 @@
       "onboard_time": 1701747454,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236013,
+      "num": 236013,
+      "word": "阴阳师",
+      "onboard_time": 1701824915,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 235914,
@@ -7553,6 +7577,14 @@
       "onboard_time": 1701665083,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 231245,
+      "num": 231245,
+      "word": "奶茶 植脂末",
+      "onboard_time": 1701822336,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 231190,
@@ -8001,14 +8033,6 @@
       "onboard_time": 1701482135,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217104,
-      "num": 217104,
-      "word": "奶茶 植脂末",
-      "onboard_time": 1701822336,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 217016,
@@ -8667,6 +8691,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 203627,
+      "num": 186734,
+      "word": "陈伟霆 不要心疼我心疼真正的卧底",
+      "onboard_time": 1701826357,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203477,
       "num": 153667,
       "word": "寸铁 解散",
@@ -9076,7 +9108,7 @@
     },
     {
       "raw_hot": 194737,
-      "num": 170412,
+      "num": 182054,
       "word": "新疆多地突发闹海风",
       "onboard_time": 1701817279,
       "rank": 23,
@@ -9321,14 +9353,6 @@
       "onboard_time": 1701357634,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191407,
-      "num": 191407,
-      "word": "阴阳师",
-      "onboard_time": 1701824915,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 191274,
@@ -10091,6 +10115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172415,
+      "num": 172415,
+      "word": "礼仪小姐回应被成毅请下班",
+      "onboard_time": 1701826297,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172217,
       "num": 169754,
       "word": "周一围 你的过往成就了此刻的你",
@@ -10425,6 +10457,14 @@
       "onboard_time": 1701732144,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166517,
+      "num": 166517,
+      "word": "菲律宾一巴士坠崖已致29死",
+      "onboard_time": 1701826413,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166495,
@@ -11137,6 +11177,14 @@
       "onboard_time": 1701660634,
       "rank": 42,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 151906,
+      "num": 151906,
+      "word": "太阳vs湖人",
+      "onboard_time": 1701826357,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 151450,
