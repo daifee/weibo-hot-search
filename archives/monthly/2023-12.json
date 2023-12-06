@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701848051367,
+  "endTime": 1701850972054,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -129,6 +129,14 @@
       "onboard_time": 1701523234,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3512040,
+      "num": 3512040,
+      "word": "赵露思败诉",
+      "onboard_time": 1701848794,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3402371,
@@ -320,6 +328,14 @@
       "word": "教师长期强奸5名女学生被执行死刑",
       "onboard_time": 1701618334,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2291813,
+      "num": 488775,
+      "word": "小学生带避孕套老师引导正确看性",
+      "onboard_time": 1701849216,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1659,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 804047,
+      "num": 804047,
+      "word": "南京胖哥父亲去世",
+      "onboard_time": 1701849998,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 798757,
       "num": 1410479,
       "word": "男子打球猝死工作人员抢下黄金四分钟",
@@ -1851,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 740761,
+      "num": 472759,
+      "word": "尿眠体",
+      "onboard_time": 1701845134,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 737109,
       "num": 737109,
       "word": "大学生农村开咖啡厅1天挣半头牛",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1701410015,
       "rank": 4,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 730047,
-      "num": 361273,
-      "word": "尿眠体",
-      "onboard_time": 1701845134,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 725948,
@@ -1995,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 700367,
+      "num": 700367,
+      "word": "五月天争议比较大的几个视频",
+      "onboard_time": 1701849334,
+      "rank": 6,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 698933,
       "num": 698933,
       "word": "一念关山破万",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1701678398,
       "rank": 14,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 689123,
+      "num": 689123,
+      "word": "何猷君拍结婚照 垫五个枕头",
+      "onboard_time": 1701847294,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 686609,
@@ -2411,6 +2451,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 607944,
+      "num": 437992,
+      "word": "丁太升 不开麦半开麦都是假唱",
+      "onboard_time": 1701849036,
+      "rank": 12,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 606364,
       "num": 326460,
       "word": "鼻屎大的两个小东西还凶上了",
@@ -2763,6 +2811,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 547217,
+      "num": 547217,
+      "word": "床上八段锦",
+      "onboard_time": 1701847236,
+      "rank": 16,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 547058,
       "num": 547058,
       "word": "官方回应1人买彩票中2亿无需缴税",
@@ -3092,7 +3148,7 @@
     },
     {
       "raw_hot": 503520,
-      "num": 341806,
+      "num": 345770,
       "word": "李现是瘦了吗",
       "onboard_time": 1701846695,
       "rank": 32,
@@ -4387,14 +4443,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 393043,
-      "num": 287578,
-      "word": "何猷君拍结婚照 垫五个枕头",
-      "onboard_time": 1701847294,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392326,
       "num": 222670,
       "word": "魏晨 流星雨又来临",
@@ -4569,14 +4617,6 @@
       "onboard_time": 1701749200,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 383725,
-      "num": 313948,
-      "word": "床上八段锦",
-      "onboard_time": 1701847236,
-      "rank": 16,
-      "category": "运动健身"
     },
     {
       "raw_hot": 383549,
@@ -5003,6 +5043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 361719,
+      "num": 361719,
+      "word": "顺丰暂停揽收手办",
+      "onboard_time": 1701849998,
+      "rank": 14,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 361692,
       "num": 361692,
       "word": "秦岚旗袍 辛芷蕾东北大花",
@@ -5417,6 +5465,14 @@
       "onboard_time": 1701516154,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335259,
+      "num": 335259,
+      "word": "Twitch宣布退出韩国",
+      "onboard_time": 1701850542,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 334807,
@@ -6097,6 +6153,14 @@
       "onboard_time": 1701435936,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302720,
+      "num": 302720,
+      "word": "如果考编和考研同时上岸",
+      "onboard_time": 1701849998,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302705,
@@ -7739,6 +7803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243259,
+      "num": 243259,
+      "word": "韩国8比5法国",
+      "onboard_time": 1701848735,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241601,
       "num": 241601,
       "word": "BLG对战GEN",
@@ -8497,6 +8569,14 @@
       "onboard_time": 1701428615,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221260,
+      "num": 221260,
+      "word": "解放军东部战区回应美反潜巡逻机过航台湾海峡",
+      "onboard_time": 1701847775,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 219184,
@@ -9307,6 +9387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203352,
+      "num": 203352,
+      "word": "日本8比0中国台北",
+      "onboard_time": 1701848915,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203209,
       "num": 203209,
       "word": "毛不易演唱会提词器",
@@ -9361,6 +9449,14 @@
       "onboard_time": 1701818365,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201812,
+      "num": 201812,
+      "word": "迪丽热巴自己搭的造型",
+      "onboard_time": 1701849635,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 201301,
@@ -9889,6 +9985,14 @@
       "onboard_time": 1701607183,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192647,
+      "num": 192647,
+      "word": "演唱会门票 理财产品",
+      "onboard_time": 1701848196,
+      "rank": 32,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 192583,
@@ -11851,6 +11955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153776,
+      "num": 153776,
+      "word": "刘德华父亲出殡",
+      "onboard_time": 1701850362,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153345,
       "num": 153345,
       "word": "有这习惯的人脂肪肝会向肝癌加速转变",
@@ -11881,6 +11993,14 @@
       "onboard_time": 1701705450,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152800,
+      "num": 351756,
+      "word": "张凌赫S18花似锦大片",
+      "onboard_time": 1701846632,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 152631,
@@ -12017,14 +12137,6 @@
       "onboard_time": 1701834514,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149789,
-      "num": 149789,
-      "word": "解放军东部战区回应美反潜巡逻机过航台湾海峡",
-      "onboard_time": 1701847775,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 149677,
@@ -12467,6 +12579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141589,
+      "num": 141589,
+      "word": "万达电影或易主",
+      "onboard_time": 1701848673,
+      "rank": 46,
+      "category": "财经,电影"
+    },
+    {
       "raw_hot": 141021,
       "num": 141021,
       "word": "好娶风男人",
@@ -12488,6 +12608,14 @@
       "word": "要多少次练习才能这么信任对方",
       "onboard_time": 1701482853,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140864,
+      "num": 140864,
+      "word": "新郎婚礼中晕倒全市急救专家都来了",
+      "onboard_time": 1701850899,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -13299,12 +13427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122077,
+      "num": 122077,
+      "word": "奶茶袋成出差旅行好物",
+      "onboard_time": 1701850899,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 121899,
       "num": 121899,
       "word": "减龄丸子头",
       "onboard_time": 1701584072,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 121878,
+      "num": 121878,
+      "word": "柯南 质疑理解心疼琴酒",
+      "onboard_time": 1701850720,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 121784,
@@ -13633,14 +13777,6 @@
       "onboard_time": 1701731905,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104978,
-      "num": 351756,
-      "word": "张凌赫S18花似锦大片",
-      "onboard_time": 1701846632,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 103713,
@@ -14416,6 +14552,14 @@
       "word": "全系通过无奶精鉴证的奶茶",
       "onboard_time": 1701414635,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39641,
+      "num": 1283911,
+      "word": "老人防治呼吸道疾病5个知识点",
+      "onboard_time": 1701849216,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
