@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/07 00:24:46 ~ 2023/12/07 06:34:38
+本榜单时间：2023/12/07 00:24:46 ~ 2023/12/07 07:18:22
 </p>
 </blockquote>
 <p>
@@ -46,7 +46,7 @@ E6（热度：1247213）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E9%81%AD%E5%A9%9A%E9%97%B9%E5%A4%A7%E5%A7%A8%E4%B8%80%E6%8A%8A%E6%8E%A8%E5%BC%80%E6%89%AB%E5%85%B4%E5%B0%8F%E4%BC%99%23" target="weibo">
-新娘遭婚闹大姨一把推开扫兴小伙（热度：654284）
+新娘遭婚闹大姨一把推开扫兴小伙（热度：776193）
 </a>
 </li>
 
@@ -63,6 +63,12 @@ E6（热度：1247213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%82%B9%E5%90%8D3%E7%B1%BB%E4%BA%BA%E7%9D%A1%E5%89%8D%E5%96%9D%E6%B0%B4%23" target="weibo">
+医生点名3类人睡前喝水（热度：418579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%20%E4%B8%8D%E8%A1%8C%E5%B0%B1%E4%BB%96%E4%BB%AC%E5%9B%9B%E4%B8%AA%E5%90%A7%23" target="weibo">
 难哄 不行就他们四个吧（热度：387928）
 </a>
@@ -75,8 +81,8 @@ E6（热度：1247213）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%82%B9%E5%90%8D3%E7%B1%BB%E4%BA%BA%E7%9D%A1%E5%89%8D%E5%96%9D%E6%B0%B4%23" target="weibo">
-医生点名3类人睡前喝水（热度：386988）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%BE%9E%E9%80%80%E6%8F%90%E5%89%8D%E5%90%83%E5%8D%88%E9%A5%AD%E5%91%98%E5%B7%A5%E8%A2%AB%E5%88%A4%E8%B5%942%E4%B8%87%23" target="weibo">
+公司辞退提前吃午饭员工被判赔2万（热度：369416）
 </a>
 </li>
 
@@ -111,6 +117,12 @@ E6（热度：1247213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9B%BE%E7%9B%B4%E6%8E%A5%E6%8B%92%E7%BB%9D%E6%BC%94%E5%94%B1%E7%8E%B0%E5%9C%BA%E6%94%BE%E4%BA%BA%E5%A3%B0%E4%BC%B4%E5%A5%8F%23" target="weibo">
+周深曾直接拒绝演唱现场放人声伴奏（热度：301022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B8%8A%E7%9A%84X%E8%AF%BB%E4%BB%80%E4%B9%88%23" target="weibo">
 身份证上的X读什么（热度：297465）
 </a>
@@ -141,6 +153,12 @@ E6（热度：1247213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2373%E4%B8%87%E5%85%83%E6%89%8B%E8%A1%A84%E4%B8%AA%E6%9C%88%E5%B0%B1%E8%B5%B7%E9%9B%BE%23" target="weibo">
+73万元手表4个月就起雾（热度：178234）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E8%80%81%E6%9D%BF%E6%94%AF%E6%8C%81meiko%E7%9A%84%E6%83%B3%E6%B3%95%23" target="weibo">
 EDG老板支持meiko的想法（热度：174854）
 </a>
@@ -154,7 +172,13 @@ EDG老板支持meiko的想法（热度：174854）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%82%B5%E9%80%B8%E5%87%A1%20%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%BF%AB%E5%81%87%E5%94%B1%23" target="weibo">
-演员邵逸凡 多次被迫假唱（热度：168260）
+演员邵逸凡 多次被迫假唱（热度：170170）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%20%E5%A5%BD%E7%B4%A0%E7%9A%84%E5%A6%86%E5%A5%BD%E5%B8%85%E7%9A%84%E8%84%B8%23" target="weibo">
+李现 好素的妆好帅的脸（热度：168892）
 </a>
 </li>
 
@@ -177,8 +201,8 @@ EDG老板支持meiko的想法（热度：174854）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%BE%9E%E9%80%80%E6%8F%90%E5%89%8D%E5%90%83%E5%8D%88%E9%A5%AD%E5%91%98%E5%B7%A5%E8%A2%AB%E5%88%A4%E8%B5%942%E4%B8%87%23" target="weibo">
-公司辞退提前吃午饭员工被判赔2万（热度：146357）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%87%AA%E6%8B%8D%20%E9%80%90%E6%B8%90%E7%A6%BB%E8%B0%B1%23" target="weibo">
+成毅自拍 逐渐离谱（热度：142181）
 </a>
 </li>
 
@@ -237,6 +261,12 @@ Twitch宣布退出韩国（热度：107110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%AD%98%E6%AC%BE%E6%B6%88%E5%A4%B1%E6%8B%B7%E9%97%AE%E8%80%81%E4%BC%B4%E6%B0%91%E8%AD%A6%E7%8E%B0%E5%9C%BA%E6%B4%97%E5%AB%8C%E7%96%91%23" target="weibo">
+老太存款消失拷问老伴民警现场洗嫌疑（热度：106629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%20%E7%9C%9F%E9%A6%99%23" target="weibo">
 周琦 真香（热度：105099）
 </a>
@@ -257,6 +287,18 @@ Twitch宣布退出韩国（热度：107110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2317%E4%B8%87%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%B9%B0%E5%AE%B6%E5%A4%A7%E6%96%B9%E7%BB%99%E4%BA%8620%E4%B8%87%E7%8E%B0%E9%87%91%23" target="weibo">
 17万二手车买家大方给了20万现金（热度：101681）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E7%8C%AE%E8%A1%80%E4%BA%8B%E4%BB%B6%E5%AE%B6%E5%B1%9E%E8%B0%88%E5%8C%85%E6%9C%BA%E8%B4%B9%E6%9D%A5%E6%BA%90%23" target="weibo">
+阿里献血事件家属谈包机费来源（热度：101402）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A97%E5%88%86%E9%92%9F%E8%84%96%E5%AD%90%E8%88%92%E6%9C%8D%E6%9B%B2%E5%BA%A6%E5%9B%9E%E6%9D%A5%23" target="weibo">
+每天7分钟脖子舒服曲度回来（热度：100373）
 </a>
 </li>
 
@@ -297,8 +339,20 @@ Twitch宣布退出韩国（热度：107110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%A5%B3%E5%84%BF%E7%BC%96%E8%8B%B1%E8%AF%AD%E7%89%87%E6%AE%B5%E8%A2%AB%E8%B0%A2%E5%A8%9C%E5%8F%91%E7%8E%B0%23" target="weibo">
+谢娜女儿编英语片段被谢娜发现（热度：84244）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E7%8C%AE%E8%A1%80%E4%BA%8B%E4%BB%B6%E5%B0%8F%E5%A7%91%E5%A7%91%E7%B3%BB%E9%80%80%E4%BC%91%E5%B7%A5%E4%BA%BA%23" target="weibo">
 阿里献血事件小姑姑系退休工人（热度：83355）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E7%A7%B0%E6%B2%A1%E8%AF%BE%E4%B9%9F%E4%B8%8D%E8%AE%A9%E5%BE%85%E5%AE%BF%E8%88%8D%23" target="weibo">
+学校回应学生称没课也不让待宿舍（热度：77575）
 </a>
 </li>
 
@@ -315,6 +369,12 @@ Twitch宣布退出韩国（热度：107110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E5%BE%AE%E9%A3%8E%E6%B8%A9%E6%9F%94%E5%A5%B9%E4%B9%9F%E6%B8%A9%E6%9F%94%23" target="weibo">
+杨紫 微风温柔她也温柔（热度：70742）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BABYMONSTER%20MV%20reaction%23" target="weibo">
 BABYMONSTER MV reaction（热度：66581）
 </a>
@@ -327,38 +387,14 @@ BABYMONSTER MV reaction（热度：66581）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2373%E4%B8%87%E5%85%83%E6%89%8B%E8%A1%A84%E4%B8%AA%E6%9C%88%E5%B0%B1%E8%B5%B7%E9%9B%BE%23" target="weibo">
-73万元手表4个月就起雾（热度：62853）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%87%AA%E6%8B%8D%20%E9%80%90%E6%B8%90%E7%A6%BB%E8%B0%B1%23" target="weibo">
-成毅自拍 逐渐离谱（热度：54059）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E9%81%93%E4%BC%A0%E6%9F%93%E7%97%85%E4%B8%AA%E4%BA%BA%E5%81%A5%E5%BA%B7%E6%89%8B%E5%86%8C%23" target="weibo">
 呼吸道传染病个人健康手册（热度：48809）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%AD%98%E6%AC%BE%E6%B6%88%E5%A4%B1%E6%8B%B7%E9%97%AE%E8%80%81%E4%BC%B4%E6%B0%91%E8%AD%A6%E7%8E%B0%E5%9C%BA%E6%B4%97%E5%AB%8C%E7%96%91%23" target="weibo">
-老太存款消失拷问老伴民警现场洗嫌疑（热度：48667）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A97%E5%88%86%E9%92%9F%E8%84%96%E5%AD%90%E8%88%92%E6%9C%8D%E6%9B%B2%E5%BA%A6%E5%9B%9E%E6%9D%A5%23" target="weibo">
-每天7分钟脖子舒服曲度回来（热度：43995）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E4%B8%8D%E6%98%AF%E7%94%B5%E5%BD%B1%E5%B0%BA%E5%BA%A6%E5%A4%A7%E6%98%AF%E7%9C%9F%E5%AE%9E%E8%BF%98%E5%8E%9F%23" target="weibo">
-陈伟霆 不是电影尺度大是真实还原（热度：42562）
+陈伟霆 不是电影尺度大是真实还原（热度：44975）
 </a>
 </li>
 
@@ -369,26 +405,8 @@ BABYMONSTER MV reaction（热度：66581）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E7%8C%AE%E8%A1%80%E4%BA%8B%E4%BB%B6%E5%AE%B6%E5%B1%9E%E8%B0%88%E5%8C%85%E6%9C%BA%E8%B4%B9%E6%9D%A5%E6%BA%90%23" target="weibo">
-阿里献血事件家属谈包机费来源（热度：40686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E5%BE%AE%E9%A3%8E%E6%B8%A9%E6%9F%94%E5%A5%B9%E4%B9%9F%E6%B8%A9%E6%9F%94%23" target="weibo">
-杨紫 微风温柔她也温柔（热度：30923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%A5%B3%E5%84%BF%E7%BC%96%E8%8B%B1%E8%AF%AD%E7%89%87%E6%AE%B5%E8%A2%AB%E8%B0%A2%E5%A8%9C%E5%8F%91%E7%8E%B0%23" target="weibo">
-谢娜女儿编英语片段被谢娜发现（热度：28391）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E7%A7%B0%E6%B2%A1%E8%AF%BE%E4%B9%9F%E4%B8%8D%E8%AE%A9%E5%BE%85%E5%AE%BF%E8%88%8D%23" target="weibo">
-学校回应学生称没课也不让待宿舍（热度：25988）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%9C%BC%E7%85%A7%E7%89%87%E5%B0%B1%E7%9B%B4%E6%8E%A5%E5%B8%A6%E6%B0%91%E8%AD%A6%E6%89%BE%E5%88%B0%E5%B0%8F%E5%81%B7%23" target="weibo">
+看眼照片就直接带民警找到小偷（热度：37412）
 </a>
 </li>
 

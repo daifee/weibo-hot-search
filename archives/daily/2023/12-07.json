@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701902078563,
+  "endTime": 1701904702557,
   "band_list": [
     {
       "raw_hot": 3353650,
@@ -43,8 +43,8 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 654284,
-      "num": 654284,
+      "raw_hot": 776193,
+      "num": 776193,
       "word": "新娘遭婚闹大姨一把推开扫兴小伙",
       "onboard_time": 1701874782,
       "rank": 1,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418579,
+      "num": 418579,
+      "word": "医生点名3类人睡前喝水",
+      "onboard_time": 1701870880,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 387928,
       "num": 387928,
       "word": "难哄 不行就他们四个吧",
@@ -83,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386988,
-      "num": 386988,
-      "word": "医生点名3类人睡前喝水",
-      "onboard_time": 1701870880,
-      "rank": 7,
-      "category": "健康医疗"
+      "raw_hot": 369416,
+      "num": 369416,
+      "word": "公司辞退提前吃午饭员工被判赔2万",
+      "onboard_time": 1701898273,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344772,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 328519,
-      "num": 163939,
+      "num": 194854,
       "word": "鉴定五月天真假唱的关键",
       "onboard_time": 1701879987,
       "rank": 20,
@@ -128,6 +136,14 @@
       "word": "上海文旅局组织专家评审判定五月天事件",
       "onboard_time": 1701845616,
       "rank": 16,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 301022,
+      "num": 301022,
+      "word": "周深曾直接拒绝演唱现场放人声伴奏",
+      "onboard_time": 1701904042,
+      "rank": 8,
       "category": "演出,社会新闻"
     },
     {
@@ -171,6 +187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 178234,
+      "num": 178234,
+      "word": "73万元手表4个月就起雾",
+      "onboard_time": 1701886101,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174854,
       "num": 174854,
       "word": "EDG老板支持meiko的想法",
@@ -187,12 +211,20 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 168260,
-      "num": 104095,
+      "raw_hot": 170170,
+      "num": 170170,
       "word": "演员邵逸凡 多次被迫假唱",
       "onboard_time": 1701863858,
       "rank": 30,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 168892,
+      "num": 168892,
+      "word": "李现 好素的妆好帅的脸",
+      "onboard_time": 1701904103,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158247,
@@ -219,12 +251,12 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 146357,
-      "num": 84921,
-      "word": "公司辞退提前吃午饭员工被判赔2万",
-      "onboard_time": 1701898273,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 142181,
+      "num": 94155,
+      "word": "成毅自拍 逐渐离谱",
+      "onboard_time": 1701892995,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 141661,
@@ -299,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106629,
+      "num": 106629,
+      "word": "老太存款消失拷问老伴民警现场洗嫌疑",
+      "onboard_time": 1701881903,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105099,
       "num": 111796,
       "word": "周琦 真香",
@@ -329,6 +369,22 @@
       "onboard_time": 1701866377,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101402,
+      "num": 101402,
+      "word": "阿里献血事件家属谈包机费来源",
+      "onboard_time": 1701899113,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100373,
+      "num": 100373,
+      "word": "每天7分钟脖子舒服曲度回来",
+      "onboard_time": 1701900194,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 99159,
@@ -379,11 +435,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84244,
+      "num": 84244,
+      "word": "谢娜女儿编英语片段被谢娜发现",
+      "onboard_time": 1701901396,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83355,
       "num": 103119,
       "word": "阿里献血事件小姑姑系退休工人",
       "onboard_time": 1701858219,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77575,
+      "num": 77575,
+      "word": "学校回应学生称没课也不让待宿舍",
+      "onboard_time": 1701900976,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -403,6 +475,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 70742,
+      "num": 70742,
+      "word": "杨紫 微风温柔她也温柔",
+      "onboard_time": 1701869380,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 66581,
       "num": 52397,
       "word": "BABYMONSTER MV reaction",
@@ -419,22 +499,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 62853,
-      "num": 62853,
-      "word": "73万元手表4个月就起雾",
-      "onboard_time": 1701886101,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54059,
-      "num": 44988,
-      "word": "成毅自拍 逐渐离谱",
-      "onboard_time": 1701892995,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48809,
       "num": 619716,
       "word": "呼吸道传染病个人健康手册",
@@ -443,24 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48667,
-      "num": 52750,
-      "word": "老太存款消失拷问老伴民警现场洗嫌疑",
-      "onboard_time": 1701881903,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43995,
-      "num": 43995,
-      "word": "每天7分钟脖子舒服曲度回来",
-      "onboard_time": 1701900194,
-      "rank": 35,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 42562,
-      "num": 42562,
+      "raw_hot": 44975,
+      "num": 44975,
       "word": "陈伟霆 不是电影尺度大是真实还原",
       "onboard_time": 1701865836,
       "rank": 43,
@@ -475,34 +523,10 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 40686,
-      "num": 40686,
-      "word": "阿里献血事件家属谈包机费来源",
-      "onboard_time": 1701899113,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30923,
-      "num": 30923,
-      "word": "杨紫 微风温柔她也温柔",
-      "onboard_time": 1701869380,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 28391,
-      "num": 28391,
-      "word": "谢娜女儿编英语片段被谢娜发现",
-      "onboard_time": 1701901396,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 25988,
-      "num": 25988,
-      "word": "学校回应学生称没课也不让待宿舍",
-      "onboard_time": 1701900976,
+      "raw_hot": 37412,
+      "num": 37412,
+      "word": "看眼照片就直接带民警找到小偷",
+      "onboard_time": 1701904525,
       "rank": 49,
       "category": "社会新闻"
     },
