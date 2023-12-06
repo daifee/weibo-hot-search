@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701819292300,
+  "endTime": 1701825425983,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -121,6 +121,14 @@
       "onboard_time": 1701765581,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 3035706,
+      "num": 3035706,
+      "word": "律师称若五月天假唱可能会被终身禁唱",
+      "onboard_time": 1701820352,
+      "rank": 0,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 3004790,
@@ -249,6 +257,14 @@
       "onboard_time": 1701695436,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2397114,
+      "num": 2397114,
+      "word": "29岁姑娘无症状确诊肺癌",
+      "onboard_time": 1701820234,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2325769,
@@ -867,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 959905,
+      "num": 959905,
+      "word": "女友术后醒麻醉再对男友一见钟情",
+      "onboard_time": 1701822158,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 957341,
       "num": 957341,
       "word": "赵露思 快乐小狗",
@@ -905,6 +929,14 @@
       "onboard_time": 1701666938,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 906840,
+      "num": 906840,
+      "word": "何老师 生图界的常胜将军",
+      "onboard_time": 1701820411,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 900707,
@@ -993,6 +1025,14 @@
       "onboard_time": 1701741995,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 828327,
+      "num": 828327,
+      "word": "6G",
+      "onboard_time": 1701819809,
+      "rank": 6,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 820879,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1701610365,
       "rank": 42,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 710119,
+      "num": 710119,
+      "word": "张若昀工作人员 还是牵一下蒜了",
+      "onboard_time": 1701823898,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 709235,
@@ -1587,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585073,
+      "num": 585073,
+      "word": "西安一村庄被倾倒核酸采样试管",
+      "onboard_time": 1701818905,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584374,
       "num": 483923,
       "word": "迪丽热巴登费加罗闭年刊",
@@ -1859,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521860,
+      "num": 521860,
+      "word": "尼前总统称中国登月时可别忘非洲兄弟",
+      "onboard_time": 1701821675,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 519135,
       "num": 519135,
       "word": "白银价格飙涨",
@@ -2057,6 +2121,14 @@
       "onboard_time": 1701769841,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482238,
+      "num": 482238,
+      "word": "嗯哼和霍思燕现身首映礼",
+      "onboard_time": 1701822999,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 481737,
@@ -2363,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431995,
+      "num": 368231,
+      "word": "新裤子 庞宽",
+      "onboard_time": 1701823058,
+      "rank": 16,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 431428,
       "num": 431428,
       "word": "这5个部位疼痛可能是心梗前兆",
@@ -2601,6 +2681,14 @@
       "onboard_time": 1701698498,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 405674,
+      "num": 292922,
+      "word": "媒体评林俊杰为何恼了",
+      "onboard_time": 1701825161,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 404045,
@@ -3035,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361120,
+      "num": 361120,
+      "word": "父母的过度干涉 潜意识嫉妒",
+      "onboard_time": 1701824200,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 360062,
       "num": 360062,
       "word": "这样追星真的有点暧昧了",
@@ -3235,6 +3331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339919,
+      "num": 291288,
+      "word": "南海归墟 巫峡棺山",
+      "onboard_time": 1701819509,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337524,
       "num": 291781,
       "word": "上厕所玩手机有多危险",
@@ -3249,6 +3353,14 @@
       "onboard_time": 1701733411,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 336242,
+      "num": 336242,
+      "word": "司机心脏骤停万幸拉了一车医护",
+      "onboard_time": 1701821074,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335945,
@@ -3683,6 +3795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305022,
+      "num": 269424,
+      "word": "宋妍霏钻石肚兜",
+      "onboard_time": 1701794546,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304973,
       "num": 304973,
       "word": "GTA6预告片",
@@ -3804,7 +3924,7 @@
     },
     {
       "raw_hot": 298229,
-      "num": 161464,
+      "num": 210091,
       "word": "北京一医师因颜值高多人挂号打卡",
       "onboard_time": 1701796822,
       "rank": 28,
@@ -4099,6 +4219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283935,
+      "num": 283935,
+      "word": "糖尿病开始拖垮年轻人",
+      "onboard_time": 1701821917,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281503,
       "num": 254719,
       "word": "声理学 翻译五月天的回应",
@@ -4275,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270298,
+      "num": 217069,
+      "word": "BLACKPINK全员与YG完成续约",
+      "onboard_time": 1701825217,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269652,
       "num": 269652,
       "word": "独行侠30比0 活久见",
@@ -4347,14 +4483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261595,
-      "num": 243564,
-      "word": "宋妍霏钻石肚兜",
-      "onboard_time": 1701794546,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260997,
       "num": 260997,
       "word": "GQ 坐船",
@@ -4401,6 +4529,14 @@
       "onboard_time": 1701750344,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257727,
+      "num": 257727,
+      "word": "花近10万买彩票中2亿真实性有待确认",
+      "onboard_time": 1701818305,
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 257510,
@@ -4635,6 +4771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241370,
+      "num": 216566,
+      "word": "辛芷蕾根本内耗不了一点",
+      "onboard_time": 1701825161,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239481,
       "num": 239481,
       "word": "明日方舟更新",
@@ -4753,6 +4897,14 @@
       "onboard_time": 1701592413,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232613,
+      "num": 216504,
+      "word": "海边晕倒的李相夷cos",
+      "onboard_time": 1701824978,
+      "rank": 32,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 232246,
@@ -5123,6 +5275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 217104,
+      "num": 217104,
+      "word": "奶茶 植脂末",
+      "onboard_time": 1701822336,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 217016,
       "num": 217016,
       "word": "糖醋排骨",
@@ -5179,6 +5339,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 214680,
+      "num": 214680,
+      "word": "保安身上挂满玩具安抚患儿获奖5000",
+      "onboard_time": 1701824318,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212817,
       "num": 204713,
       "word": "吴京知道成片是这样的吗",
@@ -5211,12 +5379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211552,
-      "num": 211552,
-      "word": "西安一村庄被倾倒核酸采样试管",
-      "onboard_time": 1701818905,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 211980,
+      "num": 211980,
+      "word": "好担心宋妍霏礼服带子会断",
+      "onboard_time": 1701824318,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 211344,
@@ -5329,6 +5497,14 @@
       "onboard_time": 1701699519,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 207054,
+      "num": 184512,
+      "word": "杨肸子体态",
+      "onboard_time": 1701824140,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 206997,
@@ -5684,7 +5860,7 @@
     },
     {
       "raw_hot": 194737,
-      "num": 159232,
+      "num": 170412,
       "word": "新疆多地突发闹海风",
       "onboard_time": 1701817279,
       "rank": 23,
@@ -5833,6 +6009,14 @@
       "onboard_time": 1701663824,
       "rank": 42,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 191407,
+      "num": 191407,
+      "word": "阴阳师",
+      "onboard_time": 1701824915,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 191274,
@@ -6011,6 +6195,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 184472,
+      "num": 184472,
+      "word": "一闪一闪亮星星片长107分钟",
+      "onboard_time": 1701824978,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184210,
       "num": 184210,
       "word": "虞书欣轻泰妆",
@@ -6081,14 +6273,6 @@
       "onboard_time": 1701584432,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181174,
-      "num": 181174,
-      "word": "花近10万买彩票中2亿真实性有待确认",
-      "onboard_time": 1701818305,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 180911,
@@ -6187,6 +6371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174455,
+      "num": 174455,
+      "word": "施伯雄因为爱吴千语才自卑",
+      "onboard_time": 1701821740,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173509,
       "num": 173509,
       "word": "李志辉为李一桐做的发型",
@@ -6201,6 +6393,14 @@
       "onboard_time": 1701605255,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172217,
+      "num": 169754,
+      "word": "周一围 你的过往成就了此刻的你",
+      "onboard_time": 1701824497,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 171729,
@@ -6225,6 +6425,14 @@
       "onboard_time": 1701677558,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171191,
+      "num": 184548,
+      "word": "面部立体度不高的变美思路",
+      "onboard_time": 1701824737,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 171089,
@@ -6409,6 +6617,14 @@
       "onboard_time": 1701603754,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165927,
+      "num": 165927,
+      "word": "3名小学女生捡2600元交老师报警",
+      "onboard_time": 1701810073,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165799,
@@ -6681,6 +6897,14 @@
       "onboard_time": 1701652355,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156100,
+      "num": 156100,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1701823842,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 155826,
@@ -7329,14 +7553,6 @@
       "onboard_time": 1701600456,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129926,
-      "num": 129926,
-      "word": "3名小学女生捡2600元交老师报警",
-      "onboard_time": 1701810073,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129519,
@@ -8363,6 +8579,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 30261,
+      "num": 1952698,
+      "word": "聚焦COP28",
+      "onboard_time": 1701783165,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28981,
       "num": 271905,
       "word": "元梦之星一整个大动作",
@@ -8424,14 +8648,6 @@
       "word": "菲律宾又地震了",
       "onboard_time": 1701715274,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20135,
-      "num": 1732609,
-      "word": "聚焦COP28",
-      "onboard_time": 1701783165,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

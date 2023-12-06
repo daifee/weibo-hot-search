@@ -1,0 +1,410 @@
+{
+  "runTime": 1701825425983,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3035706,
+        "num": 3035706,
+        "word": "律师称若五月天假唱可能会被终身禁唱",
+        "onboard_time": 1701820352,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 2397114,
+        "num": 2397114,
+        "word": "29岁姑娘无症状确诊肺癌",
+        "onboard_time": 1701820234,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30261,
+        "num": 1952698,
+        "word": "聚焦COP28",
+        "onboard_time": 1701783165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1931984,
+        "num": 1931984,
+        "word": "阿信忘了话筒在哪只手",
+        "onboard_time": 1701791256,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 959905,
+        "num": 959905,
+        "word": "女友术后醒麻醉再对男友一见钟情",
+        "onboard_time": 1701822158,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 906840,
+        "num": 906840,
+        "word": "何老师 生图界的常胜将军",
+        "onboard_time": 1701820411,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828327,
+        "num": 828327,
+        "word": "6G",
+        "onboard_time": 1701819809,
+        "rank": 6,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 751825,
+        "num": 751825,
+        "word": "人民日报评五月天疑似假唱",
+        "onboard_time": 1701775655,
+        "rank": 7,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 710119,
+        "num": 710119,
+        "word": "张若昀工作人员 还是牵一下蒜了",
+        "onboard_time": 1701823898,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585073,
+        "num": 585073,
+        "word": "西安一村庄被倾倒核酸采样试管",
+        "onboard_time": 1701818905,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628221,
+        "num": 567336,
+        "word": "白鹿的上身身材",
+        "onboard_time": 1701787902,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549525,
+        "num": 549525,
+        "word": "难哄 白敬亭刘浩存",
+        "onboard_time": 1701785383,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521860,
+        "num": 521860,
+        "word": "尼前总统称中国登月时可别忘非洲兄弟",
+        "onboard_time": 1701821675,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482238,
+        "num": 482238,
+        "word": "嗯哼和霍思燕现身首映礼",
+        "onboard_time": 1701822999,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 376202,
+        "num": 376202,
+        "word": "上海19岁外卖小哥称第一次遇到商场这样做",
+        "onboard_time": 1701786280,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480303,
+        "num": 370802,
+        "word": "湖南卫视 那英",
+        "onboard_time": 1701786460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431995,
+        "num": 368231,
+        "word": "新裤子 庞宽",
+        "onboard_time": 1701823058,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 361120,
+        "num": 361120,
+        "word": "父母的过度干涉 潜意识嫉妒",
+        "onboard_time": 1701824200,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336242,
+        "num": 336242,
+        "word": "司机心脏骤停万幸拉了一车医护",
+        "onboard_time": 1701821074,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294211,
+        "num": 294211,
+        "word": "斗鱼主播",
+        "onboard_time": 1701783581,
+        "rank": 19,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 405674,
+        "num": 292922,
+        "word": "媒体评林俊杰为何恼了",
+        "onboard_time": 1701825161,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 339919,
+        "num": 291288,
+        "word": "南海归墟 巫峡棺山",
+        "onboard_time": 1701819509,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330479,
+        "num": 288946,
+        "word": "黄晓明 张小斐是我的粉丝",
+        "onboard_time": 1701787482,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283935,
+        "num": 283935,
+        "word": "糖尿病开始拖垮年轻人",
+        "onboard_time": 1701821917,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270010,
+        "num": 270010,
+        "word": "轻语 已婚有娃",
+        "onboard_time": 1701785979,
+        "rank": 24,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 305878,
+        "num": 269532,
+        "word": "张天爱 他们怎么穿黑的不告诉我",
+        "onboard_time": 1701780940,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305022,
+        "num": 269424,
+        "word": "宋妍霏钻石肚兜",
+        "onboard_time": 1701794546,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268606,
+        "num": 268606,
+        "word": "多平台取消杨鸣总教练认证",
+        "onboard_time": 1701777634,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 257727,
+        "num": 257727,
+        "word": "花近10万买彩票中2亿真实性有待确认",
+        "onboard_time": 1701818305,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 217104,
+        "num": 217104,
+        "word": "奶茶 植脂末",
+        "onboard_time": 1701822336,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270298,
+        "num": 217069,
+        "word": "BLACKPINK全员与YG完成续约",
+        "onboard_time": 1701825217,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241370,
+        "num": 216566,
+        "word": "辛芷蕾根本内耗不了一点",
+        "onboard_time": 1701825161,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232613,
+        "num": 216504,
+        "word": "海边晕倒的李相夷cos",
+        "onboard_time": 1701824978,
+        "rank": 32,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 216033,
+        "num": 216033,
+        "word": "终于知道告五人是告哪五个人了",
+        "onboard_time": 1701762400,
+        "rank": 33,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 214680,
+        "num": 214680,
+        "word": "保安身上挂满玩具安抚患儿获奖5000",
+        "onboard_time": 1701824318,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212038,
+        "num": 212038,
+        "word": "丁海寅 夜店常客",
+        "onboard_time": 1701782799,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211980,
+        "num": 211980,
+        "word": "好担心宋妍霏礼服带子会断",
+        "onboard_time": 1701824318,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210091,
+        "num": 210091,
+        "word": "北京一医师因颜值高多人挂号打卡",
+        "onboard_time": 1701796822,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191407,
+        "num": 191407,
+        "word": "阴阳师",
+        "onboard_time": 1701824915,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171191,
+        "num": 184548,
+        "word": "面部立体度不高的变美思路",
+        "onboard_time": 1701824737,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 207054,
+        "num": 184512,
+        "word": "杨肸子体态",
+        "onboard_time": 1701824140,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184472,
+        "num": 184472,
+        "word": "一闪一闪亮星星片长107分钟",
+        "onboard_time": 1701824978,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174455,
+        "num": 174455,
+        "word": "施伯雄因为爱吴千语才自卑",
+        "onboard_time": 1701821740,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170412,
+        "num": 170412,
+        "word": "新疆多地突发闹海风",
+        "onboard_time": 1701817279,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172217,
+        "num": 169754,
+        "word": "周一围 你的过往成就了此刻的你",
+        "onboard_time": 1701824497,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169017,
+        "num": 169017,
+        "word": "你一页纸翻过去就能翻过别人一辈子",
+        "onboard_time": 1701788980,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165927,
+        "num": 165927,
+        "word": "3名小学女生捡2600元交老师报警",
+        "onboard_time": 1701810073,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164574,
+        "num": 164574,
+        "word": "张若昀忙得过来吗",
+        "onboard_time": 1701802274,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159915,
+        "num": 159915,
+        "word": "关晓彤内场 秀腿是她的统治区",
+        "onboard_time": 1701779019,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156100,
+        "num": 156100,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1701823842,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
