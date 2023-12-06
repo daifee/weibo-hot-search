@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701901011286,
+  "endTime": 1701902078563,
   "band_list": [
     {
       "raw_hot": 3353650,
@@ -219,6 +219,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 146357,
+      "num": 84921,
+      "word": "公司辞退提前吃午饭员工被判赔2万",
+      "onboard_time": 1701898273,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141661,
       "num": 157701,
       "word": "汉文帝霸陵发掘70多座动物殉葬坑",
@@ -347,14 +355,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 93760,
-      "num": 56200,
-      "word": "公司辞退提前吃午饭员工被判赔2万",
-      "onboard_time": 1701898273,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92917,
       "num": 92917,
       "word": "演唱会退票 手续费",
@@ -419,12 +419,20 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 53559,
-      "num": 53559,
+      "raw_hot": 62853,
+      "num": 62853,
       "word": "73万元手表4个月就起雾",
       "onboard_time": 1701886101,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54059,
+      "num": 44988,
+      "word": "成毅自拍 逐渐离谱",
+      "onboard_time": 1701892995,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 48809,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43995,
+      "num": 43995,
+      "word": "每天7分钟脖子舒服曲度回来",
+      "onboard_time": 1701900194,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 42562,
       "num": 42562,
       "word": "陈伟霆 不是电影尺度大是真实还原",
@@ -451,44 +467,44 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41570,
-      "num": 41570,
-      "word": "成毅自拍 逐渐离谱",
-      "onboard_time": 1701892995,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 29440,
-      "num": 29440,
-      "word": "阿里献血事件家属谈包机费来源",
-      "onboard_time": 1701899113,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26594,
-      "num": 26092,
+      "raw_hot": 40760,
+      "num": 33828,
       "word": "不输八段锦的养生操",
       "onboard_time": 1701899655,
       "rank": 30,
       "category": "运动健身"
     },
     {
-      "raw_hot": 24849,
-      "num": 28237,
+      "raw_hot": 40686,
+      "num": 40686,
+      "word": "阿里献血事件家属谈包机费来源",
+      "onboard_time": 1701899113,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30923,
+      "num": 30923,
       "word": "杨紫 微风温柔她也温柔",
       "onboard_time": 1701869380,
       "rank": 44,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 23208,
-      "num": 23208,
-      "word": "每天7分钟脖子舒服曲度回来",
-      "onboard_time": 1701900194,
-      "rank": 35,
-      "category": "运动健身"
+      "raw_hot": 28391,
+      "num": 28391,
+      "word": "谢娜女儿编英语片段被谢娜发现",
+      "onboard_time": 1701901396,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25988,
+      "num": 25988,
+      "word": "学校回应学生称没课也不让待宿舍",
+      "onboard_time": 1701900976,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22613,
@@ -529,14 +545,6 @@
       "onboard_time": 1701896475,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 14787,
-      "num": 17177,
-      "word": "学校回应学生称没课也不让待宿舍",
-      "onboard_time": 1701900976,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12330,
