@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701868895929,
+  "endTime": 1701869648712,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -1443,6 +1443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 939820,
+      "num": 939820,
+      "word": "周杰伦演唱会预售被嘲吃相难看",
+      "onboard_time": 1701864215,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 932134,
       "num": 600492,
       "word": "台湾论坛评五月天假唱风波",
@@ -1521,14 +1529,6 @@
       "onboard_time": 1701775837,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 879910,
-      "num": 879910,
-      "word": "周杰伦演唱会预售被嘲吃相难看",
-      "onboard_time": 1701864215,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 874354,
@@ -3347,6 +3347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 497250,
+      "num": 429463,
+      "word": "布兰妮父亲 截肢",
+      "onboard_time": 1701868421,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496192,
       "num": 496192,
       "word": "魏晨 养老保险",
@@ -5163,6 +5171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 370379,
+      "num": 484418,
+      "word": "17万二手车买家大方给了20万现金",
+      "onboard_time": 1701866377,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369445,
       "num": 369445,
       "word": "杨丞琳 唐门找到属于他的小花了",
@@ -5235,20 +5251,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 365053,
+      "num": 364780,
+      "word": "官方回应五月天事件调查进展",
+      "onboard_time": 1701866377,
+      "rank": 18,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 364854,
       "num": 364854,
       "word": "五月天经纪公司称正配合调查",
       "onboard_time": 1701688118,
       "rank": 22,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 364780,
-      "num": 364780,
-      "word": "官方回应五月天事件调查进展",
-      "onboard_time": 1701866377,
-      "rank": 18,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 363192,
@@ -5617,14 +5633,6 @@
       "onboard_time": 1701755799,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340737,
-      "num": 340737,
-      "word": "17万二手车买家大方给了20万现金",
-      "onboard_time": 1701866377,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340668,
@@ -6219,14 +6227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311452,
-      "num": 311452,
-      "word": "布兰妮父亲 截肢",
-      "onboard_time": 1701868421,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311244,
       "num": 311244,
       "word": "个税专项附加扣除信息确认开始",
@@ -6571,6 +6571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298391,
+      "num": 293035,
+      "word": "网友解析阿信话筒位置",
+      "onboard_time": 1701866556,
+      "rank": 26,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 298229,
       "num": 210091,
       "word": "北京一医师因颜值高多人挂号打卡",
@@ -6769,14 +6777,6 @@
       "onboard_time": 1701391595,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293035,
-      "num": 293035,
-      "word": "网友解析阿信话筒位置",
-      "onboard_time": 1701866556,
-      "rank": 26,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 293025,
@@ -7609,6 +7609,14 @@
       "onboard_time": 1701505590,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262556,
+      "num": 262556,
+      "word": "EDG 四海为家",
+      "onboard_time": 1701868902,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 261613,
@@ -10811,6 +10819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187735,
+      "num": 187735,
+      "word": "暖暖 漂亮的女儿",
+      "onboard_time": 1701866318,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187679,
       "num": 187679,
       "word": "ive 改编",
@@ -11003,6 +11019,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 184036,
+      "num": 184036,
+      "word": "杨紫 微风温柔她也温柔",
+      "onboard_time": 1701869380,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 184010,
       "num": 184010,
       "word": "风晴雪涂山红红 灵蝶",
@@ -11091,6 +11115,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 181455,
+      "num": 181455,
+      "word": "生病的孩子不能吃的东西",
+      "onboard_time": 1701869380,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181363,
       "num": 181363,
       "word": "考研试卷拆封流程",
@@ -11145,14 +11177,6 @@
       "onboard_time": 1701401615,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180231,
-      "num": 180231,
-      "word": "暖暖 漂亮的女儿",
-      "onboard_time": 1701866318,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 180193,
@@ -12569,6 +12593,14 @@
       "onboard_time": 1701339093,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153070,
+      "num": 153070,
+      "word": "黑河杀猪菜",
+      "onboard_time": 1701869437,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 153058,
@@ -15035,6 +15067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60196,
+      "num": 371344,
+      "word": "五菱星光PHEV售价8.88万起",
+      "onboard_time": 1701868116,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58146,
       "num": 58146,
       "word": "大鹏 据说很灵的屏保",
@@ -15153,14 +15193,6 @@
       "onboard_time": 1701622407,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 48520,
-      "num": 189942,
-      "word": "五菱星光PHEV售价8.88万起",
-      "onboard_time": 1701868116,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 46749,
@@ -15443,6 +15475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26991,
+      "num": 968022,
+      "word": "呼吸道传染病个人健康手册",
+      "onboard_time": 1701869017,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26811,
       "num": 26811,
       "word": "2023汤不热最火cp",
@@ -15587,6 +15627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18346,
+      "num": 439450,
+      "word": "吴京新片致敬身边的父亲",
+      "onboard_time": 1701867634,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 17472,
       "num": 26212,
       "word": "王者新英雄海诺",
@@ -15625,14 +15673,6 @@
       "onboard_time": 1701805455,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13820,
-      "num": 439450,
-      "word": "吴京新片致敬身边的父亲",
-      "onboard_time": 1701867634,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 13727,
