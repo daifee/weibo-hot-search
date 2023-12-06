@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701854290109,
+  "endTime": 1701855276398,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 2320857,
-      "num": 515936,
+      "num": 537083,
       "word": "小学生带避孕套老师引导正确看性",
       "onboard_time": 1701849216,
       "rank": 10,
@@ -1467,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 888546,
+      "num": 888546,
+      "word": "Twitch宣布退出韩国",
+      "onboard_time": 1701850542,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 885114,
       "num": 885114,
       "word": "看着很丰盛吃下去全是馒头",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1701785979,
       "rank": 8,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 858543,
-      "num": 858543,
-      "word": "Twitch宣布退出韩国",
-      "onboard_time": 1701850542,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 855195,
@@ -2865,6 +2865,14 @@
       "onboard_time": 1701509670,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 542416,
+      "num": 542416,
+      "word": "明星GQ盛典机场路透",
+      "onboard_time": 1701854320,
+      "rank": 9,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 542093,
@@ -5035,6 +5043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365889,
+      "num": 365889,
+      "word": "Jessi 解约",
+      "onboard_time": 1701854918,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365220,
       "num": 365220,
       "word": "把猫猫的头含进嘴里的萨摩耶",
@@ -5825,6 +5841,14 @@
       "onboard_time": 1701683017,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 317050,
+      "num": 317050,
+      "word": "我的英文已达到史铁生水平",
+      "onboard_time": 1701851620,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 317025,
@@ -6787,6 +6811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281536,
+      "num": 281536,
+      "word": "谢娜最小的女儿很喜欢穿她的高跟鞋",
+      "onboard_time": 1701854197,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281503,
       "num": 254719,
       "word": "声理学 翻译五月天的回应",
@@ -6905,14 +6937,6 @@
       "onboard_time": 1701844535,
       "rank": 46,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 278293,
-      "num": 278293,
-      "word": "我的英文已达到史铁生水平",
-      "onboard_time": 1701851620,
-      "rank": 43,
-      "category": "读书作家"
     },
     {
       "raw_hot": 277852,
@@ -7737,6 +7761,14 @@
       "onboard_time": 1701521313,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 247426,
+      "num": 216880,
+      "word": "剖腹产切开7层组织才能看见宝宝",
+      "onboard_time": 1701854378,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247258,
@@ -9347,6 +9379,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 205309,
+      "num": 205309,
+      "word": "顺丰回应暂停揽收手办",
+      "onboard_time": 1701854797,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205243,
       "num": 205243,
       "word": "王鹤棣丁程鑫在聊什么",
@@ -10659,6 +10699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181055,
+      "num": 181055,
+      "word": "婆媳关系为什么难相处",
+      "onboard_time": 1701854440,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 180911,
       "num": 171276,
       "word": "星光大赏阵容",
@@ -11905,14 +11953,6 @@
       "onboard_time": 1701823842,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156017,
-      "num": 156017,
-      "word": "谢娜最小的女儿很喜欢穿她的高跟鞋",
-      "onboard_time": 1701854197,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 155966,
@@ -13299,12 +13339,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 126768,
+      "num": 126768,
+      "word": "为了救小狗这所大学放干了护校河的水",
+      "onboard_time": 1701855159,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126750,
       "num": 126750,
       "word": "血栓最怕这5类食物",
       "onboard_time": 1701480754,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126698,
+      "num": 126698,
+      "word": "柯南 质疑理解心疼琴酒",
+      "onboard_time": 1701850720,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 126355,
@@ -13537,14 +13593,6 @@
       "onboard_time": 1701584072,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 121878,
-      "num": 121878,
-      "word": "柯南 质疑理解心疼琴酒",
-      "onboard_time": 1701850720,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 121784,

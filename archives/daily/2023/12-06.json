@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701854290109,
+  "endTime": 1701855276398,
   "band_list": [
     {
       "raw_hot": 7740315,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2320857,
-      "num": 515936,
+      "num": 537083,
       "word": "小学生带避孕套老师引导正确看性",
       "onboard_time": 1701849216,
       "rank": 10,
@@ -203,20 +203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 888546,
+      "num": 888546,
+      "word": "Twitch宣布退出韩国",
+      "onboard_time": 1701850542,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 868030,
       "num": 868030,
       "word": "王星越 我从17岁就跟着鹿姐了",
       "onboard_time": 1701832838,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 858543,
-      "num": 858543,
-      "word": "Twitch宣布退出韩国",
-      "onboard_time": 1701850542,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 846933,
@@ -385,6 +385,14 @@
       "onboard_time": 1701847236,
       "rank": 16,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 542416,
+      "num": 542416,
+      "word": "明星GQ盛典机场路透",
+      "onboard_time": 1701854320,
+      "rank": 9,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 536171,
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365889,
+      "num": 365889,
+      "word": "Jessi 解约",
+      "onboard_time": 1701854918,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365197,
       "num": 365197,
       "word": "江西2亿多元大奖得主发声",
@@ -729,6 +745,14 @@
       "onboard_time": 1701828575,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 317050,
+      "num": 317050,
+      "word": "我的英文已达到史铁生水平",
+      "onboard_time": 1701851620,
+      "rank": 43,
+      "category": "读书作家"
     },
     {
       "raw_hot": 315876,
@@ -835,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281536,
+      "num": 281536,
+      "word": "谢娜最小的女儿很喜欢穿她的高跟鞋",
+      "onboard_time": 1701854197,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280372,
       "num": 280372,
       "word": "大姐回家给卖红薯小孩拿来自家孩子衣服御寒",
@@ -865,14 +897,6 @@
       "onboard_time": 1701777336,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278293,
-      "num": 278293,
-      "word": "我的英文已达到史铁生水平",
-      "onboard_time": 1701851620,
-      "rank": 43,
-      "category": "读书作家"
     },
     {
       "raw_hot": 277026,
@@ -977,6 +1001,14 @@
       "onboard_time": 1701831754,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247426,
+      "num": 216880,
+      "word": "剖腹产切开7层组织才能看见宝宝",
+      "onboard_time": 1701854378,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 246808,
@@ -1227,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205309,
+      "num": 205309,
+      "word": "顺丰回应暂停揽收手办",
+      "onboard_time": 1701854797,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203627,
       "num": 186734,
       "word": "陈伟霆 不要心疼我心疼真正的卧底",
@@ -1403,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181055,
+      "num": 181055,
+      "word": "婆媳关系为什么难相处",
+      "onboard_time": 1701854440,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 180873,
       "num": 180873,
       "word": "银行通报员工举报遭领导施压发生关系",
@@ -1569,14 +1617,6 @@
       "onboard_time": 1701823842,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156017,
-      "num": 156017,
-      "word": "谢娜最小的女儿很喜欢穿她的高跟鞋",
-      "onboard_time": 1701854197,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 153776,
@@ -1779,6 +1819,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126768,
+      "num": 126768,
+      "word": "为了救小狗这所大学放干了护校河的水",
+      "onboard_time": 1701855159,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126698,
+      "num": 126698,
+      "word": "柯南 质疑理解心疼琴酒",
+      "onboard_time": 1701850720,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125631,
       "num": 142959,
       "word": "Meiko 转会",
@@ -1801,14 +1857,6 @@
       "onboard_time": 1701850899,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 121878,
-      "num": 121878,
-      "word": "柯南 质疑理解心疼琴酒",
-      "onboard_time": 1701850720,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 114951,
