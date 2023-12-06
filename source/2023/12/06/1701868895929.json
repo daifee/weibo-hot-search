@@ -1,0 +1,410 @@
+{
+  "runTime": 1701868895929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1612285,
+        "num": 1612285,
+        "word": "演员邵逸凡 多次被迫假唱",
+        "onboard_time": 1701863858,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1112701,
+        "num": 1112701,
+        "word": "身份证上的X读什么",
+        "onboard_time": 1701860498,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 6317,
+        "num": 938503,
+        "word": "中国经济仍是全球增长最大引擎",
+        "onboard_time": 1701868836,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1645958,
+        "num": 918362,
+        "word": "田馥甄回应五月天假唱风波",
+        "onboard_time": 1701858101,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 879910,
+        "num": 879910,
+        "word": "周杰伦演唱会预售被嘲吃相难看",
+        "onboard_time": 1701864215,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 653969,
+        "num": 653969,
+        "word": "张凌赫 南师大",
+        "onboard_time": 1701863375,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587542,
+        "num": 587542,
+        "word": "难哄 瞎哄",
+        "onboard_time": 1701864277,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570103,
+        "num": 570103,
+        "word": "五月天事件黄牛票很难维权",
+        "onboard_time": 1701862957,
+        "rank": 7,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 25000,
+        "num": 559842,
+        "word": "老人防治呼吸道疾病5个知识点",
+        "onboard_time": 1701849216,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351182,
+        "num": 549967,
+        "word": "呼和浩特地震",
+        "onboard_time": 1701865538,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817316,
+        "num": 517542,
+        "word": "赵露思败诉",
+        "onboard_time": 1701848794,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797051,
+        "num": 502781,
+        "word": "小学生带避孕套老师引导正确看性",
+        "onboard_time": 1701849216,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492543,
+        "num": 492543,
+        "word": "医生提醒奥司他韦千万别乱吃",
+        "onboard_time": 1701864158,
+        "rank": 12,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 383981,
+        "num": 468012,
+        "word": "AG 猝死团",
+        "onboard_time": 1701866075,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13820,
+        "num": 439450,
+        "word": "吴京新片致敬身边的父亲",
+        "onboard_time": 1701867634,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 433820,
+        "num": 433820,
+        "word": "上海文旅局组织专家评审判定五月天事件",
+        "onboard_time": 1701845616,
+        "rank": 15,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 421305,
+        "num": 421305,
+        "word": "天官赐福",
+        "onboard_time": 1701865417,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 364780,
+        "num": 364780,
+        "word": "官方回应五月天事件调查进展",
+        "onboard_time": 1701866377,
+        "rank": 17,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 344139,
+        "num": 344139,
+        "word": "樊振东 削球手",
+        "onboard_time": 1701867879,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340737,
+        "num": 340737,
+        "word": "17万二手车买家大方给了20万现金",
+        "onboard_time": 1701866377,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311452,
+        "num": 311452,
+        "word": "布兰妮父亲 截肢",
+        "onboard_time": 1701868421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297268,
+        "num": 297268,
+        "word": "娜扎关智斌合照",
+        "onboard_time": 1701867520,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293035,
+        "num": 293035,
+        "word": "网友解析阿信话筒位置",
+        "onboard_time": 1701866556,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 285849,
+        "num": 285849,
+        "word": "Twitch宣布退出韩国",
+        "onboard_time": 1701850542,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249091,
+        "num": 249091,
+        "word": "良品铺子起诉赵一鸣",
+        "onboard_time": 1701859301,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259384,
+        "num": 247708,
+        "word": "五月天争议比较大的几个视频",
+        "onboard_time": 1701849334,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 236617,
+        "num": 236617,
+        "word": "张婧仪云参加GQ盛典",
+        "onboard_time": 1701868541,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235893,
+        "num": 235893,
+        "word": "床上八段锦",
+        "onboard_time": 1701847236,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 234423,
+        "num": 234423,
+        "word": "歌手拒绝假唱名场面",
+        "onboard_time": 1701860197,
+        "rank": 28,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 233611,
+        "num": 233611,
+        "word": "王曼昱3比0巴拉佐娃",
+        "onboard_time": 1701867759,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305016,
+        "num": 229274,
+        "word": "小马甲 这就是我想要的婚礼",
+        "onboard_time": 1701866675,
+        "rank": 30,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 207966,
+        "num": 207966,
+        "word": "98斤女警跳入冰水中救回120斤女子",
+        "onboard_time": 1701865298,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203417,
+        "num": 203417,
+        "word": "狼队 心态",
+        "onboard_time": 1701868359,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201141,
+        "num": 201141,
+        "word": "王星越 挂锁",
+        "onboard_time": 1701863795,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196337,
+        "num": 196337,
+        "word": "韩国男子性侵亲妹妹被判刑12年不服上诉",
+        "onboard_time": 1701844353,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48520,
+        "num": 189942,
+        "word": "五菱星光PHEV售价8.88万起",
+        "onboard_time": 1701868116,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185335,
+        "num": 185335,
+        "word": "陈伟霆 不是电影尺度大是真实还原",
+        "onboard_time": 1701865836,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180231,
+        "num": 180231,
+        "word": "暖暖 漂亮的女儿",
+        "onboard_time": 1701866318,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179311,
+        "num": 179311,
+        "word": "这个offer只花了五分钟",
+        "onboard_time": 1701865057,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178469,
+        "num": 178469,
+        "word": "杨紫GQ路透",
+        "onboard_time": 1701851858,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173810,
+        "num": 173810,
+        "word": "萌兰向你跑来并附赠一个翻跟头",
+        "onboard_time": 1701864699,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173410,
+        "num": 173410,
+        "word": "辛芷蕾 内娱狍塑女明星第一人",
+        "onboard_time": 1701866979,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168445,
+        "num": 168445,
+        "word": "上海女子阿里车祸救治过程始末",
+        "onboard_time": 1701859180,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164436,
+        "num": 164436,
+        "word": "半个娱乐圈都在浙江这座小镇",
+        "onboard_time": 1701842255,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163662,
+        "num": 163662,
+        "word": "阿里献血事件小姑姑系退休工人",
+        "onboard_time": 1701858219,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151802,
+        "num": 151802,
+        "word": "花少团搬行李 人仰马翻",
+        "onboard_time": 1701865234,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149523,
+        "num": 149523,
+        "word": "杨鸣在多平台关闭粉丝评论",
+        "onboard_time": 1701862176,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 145335,
+        "num": 145335,
+        "word": "东北1米7长冰糖葫芦1串10元",
+        "onboard_time": 1701862535,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144712,
+        "num": 144712,
+        "word": "Jessi 解约",
+        "onboard_time": 1701854918,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143883,
+        "num": 143883,
+        "word": "阿信 做好自己",
+        "onboard_time": 1701831638,
+        "rank": 49,
+        "category": "艺人,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化是城市的灵魂要延续城市历史文脉#"
+    }
+  }
+}

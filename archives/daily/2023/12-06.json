@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701867025852,
+  "endTime": 1701868895929,
   "band_list": [
     {
       "raw_hot": 7740315,
@@ -107,6 +107,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1612285,
+      "num": 1612285,
+      "word": "演员邵逸凡 多次被迫假唱",
+      "onboard_time": 1701863858,
+      "rank": 4,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1441714,
       "num": 1441714,
       "word": "媒体评林俊杰为何恼了",
@@ -135,14 +143,6 @@
       "num": 1318739,
       "word": "上海文旅局组织专家评审判定五月天事件",
       "onboard_time": 1701845616,
-      "rank": 4,
-      "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1314555,
-      "num": 837202,
-      "word": "演员邵逸凡 多次被迫假唱",
-      "onboard_time": 1701863858,
       "rank": 4,
       "category": "演出,社会新闻"
     },
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 879910,
+      "num": 879910,
+      "word": "周杰伦演唱会预售被嘲吃相难看",
+      "onboard_time": 1701864215,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 868030,
       "num": 868030,
       "word": "王星越 我从17岁就跟着鹿姐了",
@@ -297,14 +305,6 @@
       "onboard_time": 1701845134,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 712498,
-      "num": 712498,
-      "word": "周杰伦演唱会预售被嘲吃相难看",
-      "onboard_time": 1701864215,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 710952,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492543,
+      "num": 492543,
+      "word": "医生提醒奥司他韦千万别乱吃",
+      "onboard_time": 1701864158,
+      "rank": 14,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 483752,
       "num": 483752,
       "word": "天官赐福",
@@ -691,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416657,
-      "num": 416657,
-      "word": "医生提醒奥司他韦千万别乱吃",
-      "onboard_time": 1701864158,
-      "rank": 14,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 414256,
       "num": 414256,
       "word": "何猷君 小孩哥",
@@ -835,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364780,
+      "num": 364780,
+      "word": "官方回应五月天事件调查进展",
+      "onboard_time": 1701866377,
+      "rank": 18,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 359122,
       "num": 359122,
       "word": "春晚吉祥物龙辰辰",
@@ -859,11 +867,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344139,
+      "num": 344139,
+      "word": "樊振东 削球手",
+      "onboard_time": 1701867879,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343952,
       "num": 343952,
       "word": "2.2亿元彩票大奖所涉图片属两名购彩者",
       "onboard_time": 1701837220,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340737,
+      "num": 340737,
+      "word": "17万二手车买家大方给了20万现金",
+      "onboard_time": 1701866377,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -963,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311452,
+      "num": 311452,
+      "word": "布兰妮父亲 截肢",
+      "onboard_time": 1701868421,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308528,
       "num": 308528,
       "word": "拜登称若特朗普不参选自己不确定是否会参选",
@@ -987,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305016,
+      "num": 229274,
+      "word": "小马甲 这就是我想要的婚礼",
+      "onboard_time": 1701866675,
+      "rank": 30,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 302429,
       "num": 302429,
       "word": "逆水寒",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1701796822,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297268,
+      "num": 297268,
+      "word": "娜扎关智斌合照",
+      "onboard_time": 1701867520,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 297159,
@@ -1027,20 +1075,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293035,
+      "num": 293035,
+      "word": "网友解析阿信话筒位置",
+      "onboard_time": 1701866556,
+      "rank": 26,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 289153,
       "num": 289153,
       "word": "朱丹周一围 转述误差",
       "onboard_time": 1701838720,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289079,
-      "num": 289079,
-      "word": "官方回应五月天事件调查进展",
-      "onboard_time": 1701866377,
-      "rank": 18,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 288513,
@@ -1291,12 +1339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 236311,
-      "num": 236311,
-      "word": "17万二手车买家大方给了20万现金",
-      "onboard_time": 1701866377,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 236617,
+      "num": 236617,
+      "word": "张婧仪云参加GQ盛典",
+      "onboard_time": 1701868541,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236013,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1701824915,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233611,
+      "num": 233611,
+      "word": "王曼昱3比0巴拉佐娃",
+      "onboard_time": 1701867759,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 232613,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1701786040,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217496,
-      "num": 217496,
-      "word": "网友解析阿信话筒位置",
-      "onboard_time": 1701866556,
-      "rank": 26,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 216583,
@@ -1579,20 +1627,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203683,
-      "num": 197188,
-      "word": "小马甲 这就是我想要的婚礼",
-      "onboard_time": 1701866675,
-      "rank": 30,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 203627,
       "num": 186734,
       "word": "陈伟霆 不要心疼我心疼真正的卧底",
       "onboard_time": 1701826357,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203417,
+      "num": 203417,
+      "word": "狼队 心态",
+      "onboard_time": 1701868359,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 203352,
@@ -1835,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180231,
+      "num": 180231,
+      "word": "暖暖 漂亮的女儿",
+      "onboard_time": 1701866318,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179845,
       "num": 179845,
       "word": "李晋晔赞多组队像婚礼宣誓",
@@ -1880,6 +1936,14 @@
       "word": "施伯雄因为爱吴千语才自卑",
       "onboard_time": 1701821740,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173410,
+      "num": 173410,
+      "word": "辛芷蕾 内娱狍塑女明星第一人",
+      "onboard_time": 1701866979,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -2017,14 +2081,6 @@
       "onboard_time": 1701831274,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157741,
-      "num": 157741,
-      "word": "暖暖 漂亮的女儿",
-      "onboard_time": 1701866318,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 156100,
@@ -2323,14 +2379,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 120239,
-      "num": 120239,
-      "word": "辛芷蕾 内娱狍塑女明星第一人",
-      "onboard_time": 1701866979,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114951,
       "num": 147900,
       "word": "马龙 稳稳的幸福",
@@ -2475,6 +2523,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 48520,
+      "num": 189942,
+      "word": "五菱星光PHEV售价8.88万起",
+      "onboard_time": 1701868116,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40821,
       "num": 1283911,
       "word": "老人防治呼吸道疾病5个知识点",
@@ -2595,12 +2651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13820,
+      "num": 439450,
+      "word": "吴京新片致敬身边的父亲",
+      "onboard_time": 1701867634,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 9362,
       "num": 14481,
       "word": "大学生用AI帮11名失踪儿童回家",
       "onboard_time": 1701810554,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6317,
+      "num": 938503,
+      "word": "中国经济仍是全球增长最大引擎",
+      "onboard_time": 1701868836,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
