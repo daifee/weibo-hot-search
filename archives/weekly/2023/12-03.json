@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701844594661,
+  "endTime": 1701846997833,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2191684,
+      "num": 2191684,
+      "word": "韩国男子性侵亲妹妹被判刑12年不服上诉",
+      "onboard_time": 1701844353,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2069927,
       "num": 2069927,
       "word": "难哄 白敬亭刘浩存",
@@ -377,6 +385,14 @@
       "onboard_time": 1701605613,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1837301,
+      "num": 1837301,
+      "word": "GQ 你好癫啊",
+      "onboard_time": 1701843692,
+      "rank": 31,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1814709,
@@ -819,14 +835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1121557,
-      "num": 1121557,
-      "word": "GQ 你好癫啊",
-      "onboard_time": 1701843692,
-      "rank": 31,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 1112786,
       "num": 1112786,
       "word": "美特斯邦威6.8亿元再卖楼",
@@ -919,6 +927,14 @@
       "num": 1004507,
       "word": "上海12345回应五月天被质疑假唱",
       "onboard_time": 1701607837,
+      "rank": 4,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 993107,
+      "num": 993107,
+      "word": "上海文旅局组织专家评审判定五月天事件",
+      "onboard_time": 1701845616,
       "rank": 4,
       "category": "演出,社会新闻"
     },
@@ -1579,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 644655,
+      "num": 363246,
+      "word": "何猷君加到了马龙的微信",
+      "onboard_time": 1701846454,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 637562,
       "num": 570538,
       "word": "华晨宇广州上座率",
@@ -1897,6 +1921,14 @@
       "onboard_time": 1701781661,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551740,
+      "num": 551740,
+      "word": "GQ红毯 i人队e人队",
+      "onboard_time": 1701844174,
+      "rank": 30,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 550689,
@@ -2267,6 +2299,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 487864,
+      "num": 361273,
+      "word": "尿眠体",
+      "onboard_time": 1701845134,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 485569,
       "num": 485569,
       "word": "檀健次周也嘴巴都亲红了",
@@ -2377,6 +2417,14 @@
       "onboard_time": 1701661063,
       "rank": 16,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 470135,
+      "num": 410070,
+      "word": "朱丹早上去谈判下午就开战",
+      "onboard_time": 1701843513,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 469849,
@@ -2875,14 +2923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 410070,
-      "num": 410070,
-      "word": "朱丹早上去谈判下午就开战",
-      "onboard_time": 1701843513,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408407,
       "num": 408407,
       "word": "多地医院向发烧患者发放电解质水",
@@ -2929,14 +2969,6 @@
       "onboard_time": 1701834636,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 402852,
-      "num": 223743,
-      "word": "GQ红毯 i人队e人队",
-      "onboard_time": 1701844174,
-      "rank": 30,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 402697,
@@ -3275,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372220,
+      "num": 372220,
+      "word": "染发和烫发不建议一起做",
+      "onboard_time": 1701844475,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 371943,
       "num": 371943,
       "word": "杨迪还留有前任微信",
@@ -3385,6 +3425,14 @@
       "onboard_time": 1701688118,
       "rank": 22,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 364540,
+      "num": 364540,
+      "word": "提醒中小学生慎用鼻吸能量棒",
+      "onboard_time": 1701843753,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362234,
@@ -4643,6 +4691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 278990,
+      "num": 249289,
+      "word": "上海文旅局回应如何定义五月天假唱",
+      "onboard_time": 1701844535,
+      "rank": 46,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 278406,
       "num": 278406,
       "word": "摇粒绒 保暖",
@@ -4859,14 +4915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263948,
-      "num": 263948,
-      "word": "韩国男子性侵亲妹妹被判刑12年不服上诉",
-      "onboard_time": 1701844353,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260997,
       "num": 260997,
       "word": "GQ 坐船",
@@ -5057,6 +5105,14 @@
       "onboard_time": 1701611082,
       "rank": 23,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 251595,
+      "num": 251595,
+      "word": "詹姆斯关键暂停",
+      "onboard_time": 1701844956,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 250435,
@@ -5555,14 +5611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224681,
-      "num": 224681,
-      "word": "提醒中小学生慎用鼻吸能量棒",
-      "onboard_time": 1701843753,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223833,
       "num": 223833,
       "word": "BLG官宣Tabe离队",
@@ -5737,6 +5785,14 @@
       "onboard_time": 1701653013,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 217163,
+      "num": 217163,
+      "word": "逆水寒",
+      "onboard_time": 1701846334,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 217016,
@@ -5947,6 +6003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208891,
+      "num": 208891,
+      "word": "李现是瘦了吗",
+      "onboard_time": 1701846695,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208541,
       "num": 208541,
       "word": "许光汉扫楼 听取老公声一片",
@@ -6049,6 +6113,14 @@
       "onboard_time": 1701588212,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205621,
+      "num": 205621,
+      "word": "杨毅预测",
+      "onboard_time": 1701845555,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 205616,
@@ -6563,6 +6635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191010,
+      "num": 184112,
+      "word": "迪丽热巴克罗地亚穿搭",
+      "onboard_time": 1701846513,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190801,
       "num": 190801,
       "word": "用动图整理小学数学知识点",
@@ -6673,6 +6753,14 @@
       "onboard_time": 1701674978,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188103,
+      "num": 188103,
+      "word": "GQ 龙船",
+      "onboard_time": 1701846216,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188025,
@@ -7323,6 +7411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163214,
+      "num": 163214,
+      "word": "银枝 向一朵玫瑰起誓",
+      "onboard_time": 1701846096,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162993,
       "num": 102359,
       "word": "华晨宇饭拍",
@@ -7393,6 +7489,14 @@
       "onboard_time": 1701647428,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160798,
+      "num": 160798,
+      "word": "拿铁 这个帅小伙是谁",
+      "onboard_time": 1701846755,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 160635,
@@ -8155,6 +8259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134226,
+      "num": 134226,
+      "word": "韩国博主穿搭受害者",
+      "onboard_time": 1701846513,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 133637,
       "num": 133637,
       "word": "扁糖葫芦 压扁",
@@ -8251,14 +8363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130521,
-      "num": 130521,
-      "word": "上海文旅局回应如何定义五月天假唱",
-      "onboard_time": 1701844535,
-      "rank": 46,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 130366,
       "num": 114934,
       "word": "刘宇宁头套",
@@ -8297,14 +8401,6 @@
       "onboard_time": 1701589233,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129279,
-      "num": 129279,
-      "word": "染发和烫发不建议一起做",
-      "onboard_time": 1701844475,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 127591,
@@ -8713,6 +8809,14 @@
       "onboard_time": 1701731905,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104978,
+      "num": 163399,
+      "word": "张凌赫S18花似锦大片",
+      "onboard_time": 1701846632,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 102973,
