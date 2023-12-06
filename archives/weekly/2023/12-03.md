@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/03 00:21:00 ~ 2023/12/07 04:19:13
+本榜单时间：2023/12/03 00:21:00 ~ 2023/12/07 04:34:36
 </p>
 </blockquote>
 <p>
@@ -8182,7 +8182,7 @@ BABYMONSTER MV reaction（热度：66581）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E6%B2%A1%E6%9C%89%E7%A4%BC%E8%B2%8C%E5%95%8A%E4%BD%A0%E5%B0%B1%E5%88%B0%E5%A4%84%E5%90%90%E5%8F%A3%E6%B0%B4%23" target="weibo">
-你有没有礼貌啊你就到处吐口水（热度：14837）
+你有没有礼貌啊你就到处吐口水（热度：14970）
 </a>
 </li>
 
@@ -8195,6 +8195,12 @@ BABYMONSTER MV reaction（热度：66581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%80%82%E5%90%88%E6%89%93%E7%BD%91%E7%90%83%E7%9A%84%E7%AF%AE%E7%90%83%E9%9E%8B%23" target="weibo">
 最适合打网球的篮球鞋（热度：13727）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E9%98%B2%E6%8A%A4%E6%8C%87%E5%8D%97%23" target="weibo">
+支原体肺炎防护指南（热度：12428）
 </a>
 </li>
 

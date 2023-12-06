@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701893953189,
+  "endTime": 1701894876389,
   "band_list": [
     {
       "raw_hot": 3353650,
@@ -475,12 +475,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14837,
+      "raw_hot": 14970,
       "num": 19642,
       "word": "你有没有礼貌啊你就到处吐口水",
       "onboard_time": 1701891195,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12428,
+      "num": 13057,
+      "word": "支原体肺炎防护指南",
+      "onboard_time": 1701894193,
+      "rank": 45,
+      "category": "健康医疗,社会新闻"
     }
   ],
   "hotgov_list": [
