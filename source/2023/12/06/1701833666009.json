@@ -1,0 +1,410 @@
+{
+  "runTime": 1701833666009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7363707,
+        "num": 7363707,
+        "word": "阿信 做好自己",
+        "onboard_time": 1701831638,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1094432,
+        "num": 1094432,
+        "word": "BLACKPINK全员与YG完成续约",
+        "onboard_time": 1701825217,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44984,
+        "num": 1059486,
+        "word": "一文了解6G进展",
+        "onboard_time": 1701833137,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1428613,
+        "num": 1056339,
+        "word": "阿信忘了话筒在哪只手",
+        "onboard_time": 1701791256,
+        "rank": 3,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 1052154,
+        "num": 1052154,
+        "word": "被斗鱼索赔8000万的女大学生",
+        "onboard_time": 1701825514,
+        "rank": 4,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 846933,
+        "num": 846933,
+        "word": "5个损害卵巢的习惯要避免",
+        "onboard_time": 1701830914,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1249287,
+        "num": 829682,
+        "word": "律师称若五月天假唱可能会被终身禁唱",
+        "onboard_time": 1701820352,
+        "rank": 6,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 810528,
+        "num": 810528,
+        "word": "媒体评林俊杰为何恼了",
+        "onboard_time": 1701825161,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 733646,
+        "num": 733646,
+        "word": "29岁姑娘无症状确诊肺癌",
+        "onboard_time": 1701820234,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212929,
+        "num": 631947,
+        "word": "举报五月天博主称没有收钱说假话",
+        "onboard_time": 1701826474,
+        "rank": 9,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 438645,
+        "num": 438645,
+        "word": "王星越 我从17岁就跟着鹿姐了",
+        "onboard_time": 1701832838,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425978,
+        "num": 425978,
+        "word": "刘诗诗回应被叫体态监督员",
+        "onboard_time": 1701831694,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389565,
+        "num": 389565,
+        "word": "脱轨定档",
+        "onboard_time": 1701829655,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379735,
+        "num": 379735,
+        "word": "庆余年第二季",
+        "onboard_time": 1701827675,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371446,
+        "num": 371446,
+        "word": "河北一镇政府到老人家没收过冬煤球",
+        "onboard_time": 1701828934,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80262,
+        "num": 334830,
+        "word": "王石说大家要多给好评",
+        "onboard_time": 1701832356,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315697,
+        "num": 315697,
+        "word": "银枝玫瑰",
+        "onboard_time": 1701831514,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300687,
+        "num": 300687,
+        "word": "人民日报评五月天疑似假唱",
+        "onboard_time": 1701775655,
+        "rank": 17,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 296770,
+        "num": 296770,
+        "word": "张小斐 发言水平",
+        "onboard_time": 1701829594,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281454,
+        "num": 281454,
+        "word": "父母的过度干涉 潜意识嫉妒",
+        "onboard_time": 1701824200,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188967,
+        "num": 277233,
+        "word": "vivoS18即将发布",
+        "onboard_time": 1701831397,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 453952,
+        "num": 268325,
+        "word": "一杯奶茶下肚身体变化",
+        "onboard_time": 1701832716,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 285604,
+        "num": 260143,
+        "word": "礼仪小姐回应被成毅请下班",
+        "onboard_time": 1701826297,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283929,
+        "num": 255579,
+        "word": "张若昀工作人员 还是牵一下蒜了",
+        "onboard_time": 1701823898,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251698,
+        "num": 251698,
+        "word": "感冒快好的时候传染性最强吗",
+        "onboard_time": 1701829893,
+        "rank": 24,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 243610,
+        "num": 243610,
+        "word": "十个勤天",
+        "onboard_time": 1701829833,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233122,
+        "num": 233122,
+        "word": "大姐回家给卖红薯小孩拿来自家孩子衣服御寒",
+        "onboard_time": 1701827314,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232200,
+        "num": 232200,
+        "word": "周杰伦加盟环球音乐",
+        "onboard_time": 1701830852,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231158,
+        "num": 231158,
+        "word": "全球首座第四代核电站商运投产",
+        "onboard_time": 1701831754,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225504,
+        "num": 225504,
+        "word": "手机出货量大涨近六成",
+        "onboard_time": 1701827435,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 369564,
+        "num": 224899,
+        "word": "白鹿的上身身材",
+        "onboard_time": 1701787902,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223018,
+        "num": 223018,
+        "word": "画眉定档",
+        "onboard_time": 1701833017,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222213,
+        "num": 222213,
+        "word": "何老师 生图界的常胜将军",
+        "onboard_time": 1701820411,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217015,
+        "num": 217015,
+        "word": "难哄 白敬亭刘浩存",
+        "onboard_time": 1701785383,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195578,
+        "num": 216275,
+        "word": "图书馆自驱哥",
+        "onboard_time": 1701829594,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215709,
+        "num": 215709,
+        "word": "伍佰 妹妹认亲",
+        "onboard_time": 1701828575,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206614,
+        "num": 206614,
+        "word": "辛芷蕾根本内耗不了一点",
+        "onboard_time": 1701825161,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176190,
+        "num": 176190,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1701828453,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175428,
+        "num": 175428,
+        "word": "9部网文海外阅读量破亿",
+        "onboard_time": 1701832356,
+        "rank": 38,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 174232,
+        "num": 174232,
+        "word": "奶茶 植脂末",
+        "onboard_time": 1701822336,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174005,
+        "num": 174005,
+        "word": "女友术后醒麻醉再对男友一见钟情",
+        "onboard_time": 1701822158,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164047,
+        "num": 164047,
+        "word": "菲巴士坠崖死亡人数更正为17人",
+        "onboard_time": 1701826413,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152507,
+        "num": 152507,
+        "word": "首款iPhoneSE被列为过时产品",
+        "onboard_time": 1701827852,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147320,
+        "num": 147320,
+        "word": "樊振东气呼呼踢球",
+        "onboard_time": 1701830974,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145951,
+        "num": 145951,
+        "word": "湖南卫视 那英",
+        "onboard_time": 1701786460,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140551,
+        "num": 140551,
+        "word": "一吵架就不说话 沉默效应",
+        "onboard_time": 1701833618,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138885,
+        "num": 138885,
+        "word": "6G",
+        "onboard_time": 1701819809,
+        "rank": 46,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 138326,
+        "num": 138326,
+        "word": "张远 以后经常营业啥都得唠",
+        "onboard_time": 1701831274,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134463,
+        "num": 134463,
+        "word": "黄晓明 张小斐是我的粉丝",
+        "onboard_time": 1701787482,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132830,
+        "num": 132830,
+        "word": "中国女足半场1比0美国女足",
+        "onboard_time": 1701833559,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701832740745,
+  "endTime": 1701833666009,
   "band_list": [
     {
-      "raw_hot": 5145530,
-      "num": 5145530,
+      "raw_hot": 7363707,
+      "num": 7363707,
       "word": "阿信 做好自己",
       "onboard_time": 1701831638,
       "rank": 0,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 846933,
+      "num": 846933,
+      "word": "5个损害卵巢的习惯要避免",
+      "onboard_time": 1701830914,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 828327,
       "num": 828327,
       "word": "6G",
@@ -129,14 +137,6 @@
       "onboard_time": 1701823898,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 781659,
-      "num": 781659,
-      "word": "5个损害卵巢的习惯要避免",
-      "onboard_time": 1701830914,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 660727,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453952,
+      "num": 268325,
+      "word": "一杯奶茶下肚身体变化",
+      "onboard_time": 1701832716,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 448950,
       "num": 448950,
       "word": "父母的过度干涉 潜意识嫉妒",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438645,
+      "num": 438645,
+      "word": "王星越 我从17岁就跟着鹿姐了",
+      "onboard_time": 1701832838,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431995,
       "num": 368231,
       "word": "新裤子 庞宽",
@@ -240,6 +256,14 @@
       "word": "辛芷蕾根本内耗不了一点",
       "onboard_time": 1701825161,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 425978,
+      "num": 425978,
+      "word": "刘诗诗回应被叫体态监督员",
+      "onboard_time": 1701831694,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -299,20 +323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371446,
+      "num": 371446,
+      "word": "河北一镇政府到老人家没收过冬煤球",
+      "onboard_time": 1701828934,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356295,
       "num": 216033,
       "word": "终于知道告五人是告哪五个人了",
       "onboard_time": 1701762400,
       "rank": 25,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 353259,
-      "num": 353259,
-      "word": "刘诗诗回应被叫体态监督员",
-      "onboard_time": 1701831694,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 346235,
@@ -363,14 +387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 321188,
-      "num": 321188,
-      "word": "河北一镇政府到老人家没收过冬煤球",
-      "onboard_time": 1701828934,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315876,
       "num": 148736,
       "word": "张若昀唐艺昕好甜",
@@ -379,20 +395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315697,
+      "num": 315697,
+      "word": "银枝玫瑰",
+      "onboard_time": 1701831514,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314656,
       "num": 155676,
       "word": "黄觉 藏海传",
       "onboard_time": 1701789819,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311193,
-      "num": 311193,
-      "word": "银枝玫瑰",
-      "onboard_time": 1701831514,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 305022,
@@ -451,14 +467,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 258845,
-      "num": 258845,
-      "word": "一杯奶茶下肚身体变化",
-      "onboard_time": 1701832716,
-      "rank": 26,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 257832,
       "num": 257832,
       "word": "周杰伦加盟环球音乐",
@@ -491,7 +499,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250088,
+      "raw_hot": 251698,
       "num": 287885,
       "word": "感冒快好的时候传染性最强吗",
       "onboard_time": 1701829893,
@@ -507,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243610,
+      "num": 243610,
+      "word": "十个勤天",
+      "onboard_time": 1701829833,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236013,
       "num": 236013,
       "word": "阴阳师",
       "onboard_time": 1701824915,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233257,
-      "num": 201805,
-      "word": "十个勤天",
-      "onboard_time": 1701829833,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 232613,
@@ -537,6 +545,14 @@
       "onboard_time": 1701822336,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 223018,
+      "num": 223018,
+      "word": "画眉定档",
+      "onboard_time": 1701833017,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 222711,
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 199566,
-      "num": 199566,
+      "num": 216275,
       "word": "图书馆自驱哥",
       "onboard_time": 1701829594,
       "rank": 47,
@@ -707,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188967,
+      "num": 277233,
+      "word": "vivoS18即将发布",
+      "onboard_time": 1701831397,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188459,
       "num": 142258,
       "word": "再就业男团 全开麦",
@@ -737,6 +761,14 @@
       "onboard_time": 1701830974,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175428,
+      "num": 175428,
+      "word": "9部网文海外阅读量破亿",
+      "onboard_time": 1701832356,
+      "rank": 48,
+      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 174455,
@@ -859,14 +891,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146750,
-      "num": 267246,
-      "word": "vivoS18即将发布",
-      "onboard_time": 1701831397,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 146065,
       "num": 146065,
       "word": "EDG 人情味",
@@ -891,11 +915,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140551,
+      "num": 140551,
+      "word": "一吵架就不说话 沉默效应",
+      "onboard_time": 1701833618,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139154,
       "num": 139154,
       "word": "赖斯绝杀",
       "onboard_time": 1701818305,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132830,
+      "num": 132830,
+      "word": "中国女足半场1比0美国女足",
+      "onboard_time": 1701833559,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -905,14 +945,6 @@
       "onboard_time": 1701815478,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128624,
-      "num": 128624,
-      "word": "9部网文海外阅读量破亿",
-      "onboard_time": 1701832356,
-      "rank": 48,
-      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 125631,
@@ -1019,8 +1051,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73109,
-      "num": 177447,
+      "raw_hot": 80262,
+      "num": 334830,
       "word": "王石说大家要多给好评",
       "onboard_time": 1701832356,
       "rank": 40,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1701755200,
       "rank": 49,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 44984,
+      "num": 1059486,
+      "word": "一文了解6G进展",
+      "onboard_time": 1701833137,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37832,

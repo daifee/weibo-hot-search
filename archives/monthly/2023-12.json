@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701832740745,
+  "endTime": 1701833666009,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -25,6 +25,14 @@
       "onboard_time": 1701607961,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 7363707,
+      "num": 7363707,
+      "word": "阿信 做好自己",
+      "onboard_time": 1701831638,
+      "rank": 0,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 6546722,
@@ -71,14 +79,6 @@
       "num": 5380016,
       "word": "相信音乐 五月天邀你见证现场",
       "onboard_time": 1701617915,
-      "rank": 0,
-      "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 5145530,
-      "num": 5145530,
-      "word": "阿信 做好自己",
-      "onboard_time": 1701831638,
       "rank": 0,
       "category": "演出,社会新闻"
     },
@@ -1451,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 846933,
+      "num": 846933,
+      "word": "5个损害卵巢的习惯要避免",
+      "onboard_time": 1701830914,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 846895,
       "num": 846895,
       "word": "手机贴膜 智商税",
@@ -1625,14 +1633,6 @@
       "onboard_time": 1701576511,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 781659,
-      "num": 781659,
-      "word": "5个损害卵巢的习惯要避免",
-      "onboard_time": 1701830914,
-      "rank": 7,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 780281,
@@ -3411,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453952,
+      "num": 268325,
+      "word": "一杯奶茶下肚身体变化",
+      "onboard_time": 1701832716,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 453341,
       "num": 453341,
       "word": "女子连吃1周笋干小肠被切25厘米",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1701513753,
       "rank": 13,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 438645,
+      "num": 438645,
+      "word": "王星越 我从17岁就跟着鹿姐了",
+      "onboard_time": 1701832838,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 438599,
@@ -3777,6 +3793,14 @@
       "onboard_time": 1701749257,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425978,
+      "num": 425978,
+      "word": "刘诗诗回应被叫体态监督员",
+      "onboard_time": 1701831694,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 425325,
@@ -4587,6 +4611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371446,
+      "num": 371446,
+      "word": "河北一镇政府到老人家没收过冬煤球",
+      "onboard_time": 1701828934,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371283,
       "num": 371283,
       "word": "水龙吟开机",
@@ -4873,14 +4905,6 @@
       "onboard_time": 1701757779,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 353259,
-      "num": 353259,
-      "word": "刘诗诗回应被叫体态监督员",
-      "onboard_time": 1701831694,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 353128,
@@ -5371,14 +5395,6 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 321188,
-      "num": 321188,
-      "word": "河北一镇政府到老人家没收过冬煤球",
-      "onboard_time": 1701828934,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321125,
       "num": 321125,
       "word": "警方通报女子提醒关远光灯被打致流产",
@@ -5489,6 +5505,14 @@
       "onboard_time": 1701651396,
       "rank": 24,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 315697,
+      "num": 315697,
+      "word": "银枝玫瑰",
+      "onboard_time": 1701831514,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 315488,
@@ -5625,14 +5649,6 @@
       "onboard_time": 1701560483,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311193,
-      "num": 311193,
-      "word": "银枝玫瑰",
-      "onboard_time": 1701831514,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 311108,
@@ -6955,14 +6971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258845,
-      "num": 258845,
-      "word": "一杯奶茶下肚身体变化",
-      "onboard_time": 1701832716,
-      "rank": 26,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 258560,
       "num": 258560,
       "word": "关晓彤 天使",
@@ -7155,6 +7163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251698,
+      "num": 287885,
+      "word": "感冒快好的时候传染性最强吗",
+      "onboard_time": 1701829893,
+      "rank": 29,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 251677,
       "num": 251677,
       "word": "研发公司回应助力亿万富豪成功寻子",
@@ -7193,14 +7209,6 @@
       "onboard_time": 1701595832,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250088,
-      "num": 287885,
-      "word": "感冒快好的时候传染性最强吗",
-      "onboard_time": 1701829893,
-      "rank": 29,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 249629,
@@ -7361,6 +7369,14 @@
       "onboard_time": 1701582512,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 243610,
+      "num": 243610,
+      "word": "十个勤天",
+      "onboard_time": 1701829833,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 243416,
@@ -7593,14 +7609,6 @@
       "onboard_time": 1701403899,
       "rank": 32,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 233257,
-      "num": 201805,
-      "word": "十个勤天",
-      "onboard_time": 1701829833,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 232699,
@@ -8016,6 +8024,14 @@
       "word": "宁远舟答应给任如意生孩子了",
       "onboard_time": 1701439717,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223018,
+      "num": 223018,
+      "word": "画眉定档",
+      "onboard_time": 1701833017,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -8980,7 +8996,7 @@
     },
     {
       "raw_hot": 199566,
-      "num": 199566,
+      "num": 216275,
       "word": "图书馆自驱哥",
       "onboard_time": 1701829594,
       "rank": 47,
@@ -9651,6 +9667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188967,
+      "num": 277233,
+      "word": "vivoS18即将发布",
+      "onboard_time": 1701831397,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188954,
       "num": 188954,
       "word": "下周做什么都顺的星座",
@@ -10153,6 +10177,14 @@
       "onboard_time": 1701410374,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175428,
+      "num": 175428,
+      "word": "9部网文海外阅读量破亿",
+      "onboard_time": 1701832356,
+      "rank": 48,
+      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 175349,
@@ -11595,14 +11627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146750,
-      "num": 267246,
-      "word": "vivoS18即将发布",
-      "onboard_time": 1701831397,
-      "rank": 22,
-      "category": "数码"
-    },
-    {
       "raw_hot": 146624,
       "num": 146624,
       "word": "想去哈尔滨的心达到了巅峰",
@@ -11915,6 +11939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140551,
+      "num": 140551,
+      "word": "一吵架就不说话 沉默效应",
+      "onboard_time": 1701833618,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140444,
       "num": 140444,
       "word": "虞书欣再跳money手势舞",
@@ -12179,6 +12211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132830,
+      "num": 132830,
+      "word": "中国女足半场1比0美国女足",
+      "onboard_time": 1701833559,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132805,
       "num": 132805,
       "word": "北控男篮vs辽宁男篮",
@@ -12361,14 +12401,6 @@
       "onboard_time": 1701497371,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128624,
-      "num": 128624,
-      "word": "9部网文海外阅读量破亿",
-      "onboard_time": 1701832356,
-      "rank": 48,
-      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 128574,
@@ -13371,6 +13403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80262,
+      "num": 334830,
+      "word": "王石说大家要多给好评",
+      "onboard_time": 1701832356,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79344,
       "num": 79344,
       "word": "美舰擅闯我南沙仁爱礁邻近海域",
@@ -13416,14 +13456,6 @@
       "word": "爷爷过世请不出丧假小伙遭亲戚埋怨",
       "onboard_time": 1701331773,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73109,
-      "num": 177447,
-      "word": "王石说大家要多给好评",
-      "onboard_time": 1701832356,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -13721,6 +13753,14 @@
       "onboard_time": 1701608806,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44984,
+      "num": 1059486,
+      "word": "一文了解6G进展",
+      "onboard_time": 1701833137,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44410,
