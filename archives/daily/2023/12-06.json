@@ -1,6 +1,6 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701837412836,
+  "endTime": 1701839828086,
   "band_list": [
     {
       "raw_hot": 7740315,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 963085,
+      "num": 764697,
+      "word": "刘亦菲 泰国",
+      "onboard_time": 1701835900,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959905,
       "num": 959905,
       "word": "女友术后醒麻醉再对男友一见钟情",
@@ -107,7 +115,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 916527,
+      "raw_hot": 932134,
       "num": 521782,
       "word": "台湾论坛评五月天假唱风波",
       "onboard_time": 1701835900,
@@ -137,14 +145,6 @@
       "onboard_time": 1701832838,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 847682,
-      "num": 764697,
-      "word": "刘亦菲 泰国",
-      "onboard_time": 1701835900,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 846933,
@@ -217,6 +217,22 @@
       "onboard_time": 1701818905,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567680,
+      "num": 567680,
+      "word": "王健林拟转让万达投资51%股权",
+      "onboard_time": 1701837581,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 550974,
+      "num": 487171,
+      "word": "鬼怪 神构图",
+      "onboard_time": 1701836499,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 536171,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414256,
+      "num": 414256,
+      "word": "何猷君 小孩哥",
+      "onboard_time": 1701836678,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410961,
       "num": 278736,
       "word": "成毅坐姿",
@@ -379,22 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389145,
-      "num": 389145,
-      "word": "鬼怪 神构图",
-      "onboard_time": 1701836499,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 388765,
-      "num": 388765,
-      "word": "何猷君 小孩哥",
-      "onboard_time": 1701836678,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 388219,
       "num": 388219,
       "word": "彩票",
@@ -441,6 +449,14 @@
       "onboard_time": 1701829594,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343952,
+      "num": 343952,
+      "word": "2.2亿元彩票大奖所涉图片属两名购彩者",
+      "onboard_time": 1701837220,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339919,
@@ -505,6 +521,14 @@
       "onboard_time": 1701789819,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308528,
+      "num": 308528,
+      "word": "拜登称若特朗普不参选自己不确定是否会参选",
+      "onboard_time": 1701836561,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 305022,
@@ -579,12 +603,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 260464,
-      "num": 260464,
-      "word": "拜登称若特朗普不参选自己不确定是否会参选",
-      "onboard_time": 1701836561,
-      "rank": 27,
-      "category": "国外时政"
+      "raw_hot": 268147,
+      "num": 268147,
+      "word": "日本一餐馆顾客争相花钱被扇耳光",
+      "onboard_time": 1701836801,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257832,
@@ -601,6 +625,14 @@
       "onboard_time": 1701818305,
       "rank": 17,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 257615,
+      "num": 257615,
+      "word": "朱丹周一围 转述误差",
+      "onboard_time": 1701838720,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 256139,
@@ -641,6 +673,14 @@
       "onboard_time": 1701829833,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240201,
+      "num": 240201,
+      "word": "婆婆太粘老公老婆受不了提出离婚",
+      "onboard_time": 1701839618,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236013,
@@ -689,14 +729,6 @@
       "onboard_time": 1701789998,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 221322,
-      "num": 221322,
-      "word": "日本一餐馆顾客争相花钱被扇耳光",
-      "onboard_time": 1701836801,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217828,
@@ -859,6 +891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192509,
+      "num": 192509,
+      "word": "GQ宣传图 李现剪影",
+      "onboard_time": 1701839378,
+      "rank": 32,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 189812,
       "num": 142395,
       "word": "赵一博 种地吧第二季",
@@ -881,6 +921,14 @@
       "onboard_time": 1701777999,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185780,
+      "num": 185780,
+      "word": "接TES Meiko",
+      "onboard_time": 1701838541,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 184472,
@@ -1011,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156182,
-      "num": 156182,
-      "word": "2.2亿元彩票大奖所涉图片属两名购彩者",
-      "onboard_time": 1701837220,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156100,
       "num": 156100,
       "word": "崩坏星穹铁道",
@@ -1075,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146383,
+      "num": 146383,
+      "word": "拖延症 逆风翻盘的刺激感",
+      "onboard_time": 1701839434,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146065,
       "num": 146065,
       "word": "EDG 人情味",
       "onboard_time": 1701780940,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144333,
+      "num": 144333,
+      "word": "三大队路演",
+      "onboard_time": 1701838658,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 143211,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1701818545,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139767,
+      "num": 139767,
+      "word": "星穹铁道银枝",
+      "onboard_time": 1701837638,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 139154,

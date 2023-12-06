@@ -1,0 +1,410 @@
+{
+  "runTime": 1701839828086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6029919,
+        "num": 6029919,
+        "word": "阿信 做好自己",
+        "onboard_time": 1701831638,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635546,
+        "num": 635546,
+        "word": "BLACKPINK全员与YG完成续约",
+        "onboard_time": 1701825217,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58229,
+        "num": 598228,
+        "word": "一文了解6G进展",
+        "onboard_time": 1701833137,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1533578,
+        "num": 591623,
+        "word": "玲花曾评价五月天唱功",
+        "onboard_time": 1701835420,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 963085,
+        "num": 586410,
+        "word": "刘亦菲 泰国",
+        "onboard_time": 1701835900,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580359,
+        "num": 580359,
+        "word": "被斗鱼索赔8000万的女大学生",
+        "onboard_time": 1701825514,
+        "rank": 5,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 1029403,
+        "num": 580229,
+        "word": "阿信忘了话筒在哪只手",
+        "onboard_time": 1701791256,
+        "rank": 6,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 567680,
+        "num": 567680,
+        "word": "王健林拟转让万达投资51%股权",
+        "onboard_time": 1701837581,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 490107,
+        "num": 490107,
+        "word": "GQ晚宴内场路透",
+        "onboard_time": 1701834875,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 855759,
+        "num": 490034,
+        "word": "律师称若五月天假唱可能会被终身禁唱",
+        "onboard_time": 1701820352,
+        "rank": 9,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 550974,
+        "num": 487171,
+        "word": "鬼怪 神构图",
+        "onboard_time": 1701836499,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518331,
+        "num": 484637,
+        "word": "王星越 我从17岁就跟着鹿姐了",
+        "onboard_time": 1701832838,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 932134,
+        "num": 482944,
+        "word": "台湾论坛评五月天假唱风波",
+        "onboard_time": 1701835900,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 481570,
+        "num": 481570,
+        "word": "鼻子对颜值的影响",
+        "onboard_time": 1701834216,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 440244,
+        "num": 440244,
+        "word": "29岁姑娘无症状确诊肺癌",
+        "onboard_time": 1701820234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447641,
+        "num": 432557,
+        "word": "举报五月天博主称没有收钱说假话",
+        "onboard_time": 1701826474,
+        "rank": 15,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 414256,
+        "num": 414256,
+        "word": "何猷君 小孩哥",
+        "onboard_time": 1701836678,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414149,
+        "num": 414149,
+        "word": "5个损害卵巢的习惯要避免",
+        "onboard_time": 1701830914,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364392,
+        "num": 364392,
+        "word": "江西2亿多元大奖得主发声",
+        "onboard_time": 1701836379,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355348,
+        "num": 355348,
+        "word": "厦门警方通报两名教师涉强奸案",
+        "onboard_time": 1701836137,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416824,
+        "num": 352424,
+        "word": "一杯奶茶下肚身体变化",
+        "onboard_time": 1701832716,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 372461,
+        "num": 349322,
+        "word": "男子日均吸烟200支双肺半截没了",
+        "onboard_time": 1701834216,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343952,
+        "num": 343952,
+        "word": "2.2亿元彩票大奖所涉图片属两名购彩者",
+        "onboard_time": 1701837220,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329766,
+        "num": 329766,
+        "word": "一吵架就不说话 沉默效应",
+        "onboard_time": 1701833618,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309708,
+        "num": 309708,
+        "word": "媒体评林俊杰为何恼了",
+        "onboard_time": 1701825161,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308528,
+        "num": 308528,
+        "word": "拜登称若特朗普不参选自己不确定是否会参选",
+        "onboard_time": 1701836561,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 268147,
+        "num": 268147,
+        "word": "日本一餐馆顾客争相花钱被扇耳光",
+        "onboard_time": 1701836801,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257615,
+        "num": 257615,
+        "word": "朱丹周一围 转述误差",
+        "onboard_time": 1701838720,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240201,
+        "num": 240201,
+        "word": "婆婆太粘老公老婆受不了提出离婚",
+        "onboard_time": 1701839618,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226415,
+        "num": 226415,
+        "word": "拜登称鱼鹰运输机上8人全部死亡",
+        "onboard_time": 1701834636,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 208277,
+        "num": 208277,
+        "word": "昭节皇后下线",
+        "onboard_time": 1701835958,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199130,
+        "num": 199130,
+        "word": "白鹿的上身身材",
+        "onboard_time": 1701787902,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192509,
+        "num": 192509,
+        "word": "GQ宣传图 李现剪影",
+        "onboard_time": 1701839378,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 188875,
+        "num": 188875,
+        "word": "庆余年第二季",
+        "onboard_time": 1701827675,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187184,
+        "num": 187184,
+        "word": "谷爱凌路上还在改论文",
+        "onboard_time": 1701835357,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185780,
+        "num": 185780,
+        "word": "接TES Meiko",
+        "onboard_time": 1701838541,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176121,
+        "num": 176121,
+        "word": "人民日报评五月天疑似假唱",
+        "onboard_time": 1701775655,
+        "rank": 36,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 173648,
+        "num": 173648,
+        "word": "刘诗诗回应被叫体态监督员",
+        "onboard_time": 1701831694,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165441,
+        "num": 165441,
+        "word": "张若昀工作人员 还是牵一下蒜了",
+        "onboard_time": 1701823898,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161207,
+        "num": 161207,
+        "word": "礼仪小姐回应被成毅请下班",
+        "onboard_time": 1701826297,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155238,
+        "num": 155238,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1701828453,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154909,
+        "num": 154909,
+        "word": "河北一镇政府到老人家没收过冬煤球",
+        "onboard_time": 1701828934,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146880,
+        "num": 146880,
+        "word": "何老师 生图界的常胜将军",
+        "onboard_time": 1701820411,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146383,
+        "num": 146383,
+        "word": "拖延症 逆风翻盘的刺激感",
+        "onboard_time": 1701839434,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144333,
+        "num": 144333,
+        "word": "三大队路演",
+        "onboard_time": 1701838658,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139767,
+        "num": 139767,
+        "word": "星穹铁道银枝",
+        "onboard_time": 1701837638,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138580,
+        "num": 138580,
+        "word": "大姐回家给卖红薯小孩拿来自家孩子衣服御寒",
+        "onboard_time": 1701827314,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133955,
+        "num": 133955,
+        "word": "画眉定档",
+        "onboard_time": 1701833017,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131918,
+        "num": 131918,
+        "word": "湖人防守",
+        "onboard_time": 1701835357,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129330,
+        "num": 129330,
+        "word": "张学友这个老baby真带劲儿啊",
+        "onboard_time": 1701834997,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化是城市的灵魂要延续城市历史文脉#"
+    }
+  }
+}
