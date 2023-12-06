@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701857972729,
+  "endTime": 1701859023435,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -416,6 +416,14 @@
       "word": "终于知道告五人是告哪五个人了",
       "onboard_time": 1701762400,
       "rank": 1,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1920566,
+      "num": 1920566,
+      "word": "田馥甄回应五月天假唱风波",
+      "onboard_time": 1701858101,
+      "rank": 0,
       "category": "演出,社会新闻"
     },
     {
@@ -2763,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556559,
+      "num": 556559,
+      "word": "阿里献血事件小姑姑系退休工人",
+      "onboard_time": 1701858219,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554805,
       "num": 554805,
       "word": "甘肃发现超亿吨级整装大油田",
@@ -4299,6 +4315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 413009,
+      "num": 413009,
+      "word": "狂飙电影版 朱亚文备选安欣",
+      "onboard_time": 1701858162,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 412530,
       "num": 412530,
       "word": "腾讯视频 出现短暂技术问题",
@@ -4561,6 +4585,14 @@
       "onboard_time": 1701437616,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389789,
+      "num": 1197308,
+      "word": "为了救小狗这所大学放干了护校河的水",
+      "onboard_time": 1701855159,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389644,
@@ -5432,14 +5464,6 @@
       "word": "人民网评海底捞跳舞争议",
       "onboard_time": 1701416557,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 342805,
-      "num": 874494,
-      "word": "为了救小狗这所大学放干了护校河的水",
-      "onboard_time": 1701855159,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -7580,7 +7604,7 @@
     },
     {
       "raw_hot": 255417,
-      "num": 770460,
+      "num": 773234,
       "word": "5岁男娃奶声奶气报警说捡到很多钱",
       "onboard_time": 1701856358,
       "rank": 4,
@@ -7993,6 +8017,14 @@
       "onboard_time": 1701750281,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239464,
+      "num": 239464,
+      "word": "这几类女性不建议经期吃布洛芬",
+      "onboard_time": 1701856958,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239044,
@@ -8721,14 +8753,6 @@
       "onboard_time": 1701847775,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 220614,
-      "num": 220614,
-      "word": "这几类女性不建议经期吃布洛芬",
-      "onboard_time": 1701856958,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 219184,
@@ -10195,6 +10219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192268,
+      "num": 192268,
+      "word": "女性生来就有爱人的天赋",
+      "onboard_time": 1701858219,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192200,
       "num": 192200,
       "word": "何蓝逗杨盈公主适配度",
@@ -10827,6 +10859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179492,
+      "num": 416850,
+      "word": "宁波一小学家长会只允许爸爸参加",
+      "onboard_time": 1701858162,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179391,
       "num": 179391,
       "word": "轻语",
@@ -10971,20 +11011,20 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 175055,
+      "num": 175055,
+      "word": "白菜卷火锅",
+      "onboard_time": 1701856658,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174875,
       "num": 141650,
       "word": "新裤子长沙",
       "onboard_time": 1701529414,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 174850,
-      "num": 174850,
-      "word": "白菜卷火锅",
-      "onboard_time": 1701856658,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 174793,
@@ -11121,6 +11161,14 @@
       "onboard_time": 1701824497,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172128,
+      "num": 172128,
+      "word": "2023王者世冠KIC",
+      "onboard_time": 1701859000,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 171866,
@@ -11521,6 +11569,14 @@
       "onboard_time": 1701810073,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165825,
+      "num": 165825,
+      "word": "AG晋级世冠KIC八强",
+      "onboard_time": 1701859000,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 165799,
@@ -14489,6 +14545,14 @@
       "onboard_time": 1701342693,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 70640,
+      "num": 217277,
+      "word": "家用车11立方米是什么概念",
+      "onboard_time": 1701858519,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 69336,
