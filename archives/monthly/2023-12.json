@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701843803836,
+  "endTime": 1701844594661,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -827,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1432250,
+      "num": 1432250,
+      "word": "婆婆太粘老公老婆受不了提出离婚",
+      "onboard_time": 1701839618,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1425653,
       "num": 1425653,
       "word": "1米83自卑女孩靠穿汉服找回自信",
@@ -849,6 +857,14 @@
       "onboard_time": 1701694776,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1413984,
+      "num": 1413984,
+      "word": "半个娱乐圈都在浙江这座小镇",
+      "onboard_time": 1701842255,
+      "rank": 4,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1411160,
@@ -881,14 +897,6 @@
       "onboard_time": 1701596433,
       "rank": 5,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1382185,
-      "num": 1382185,
-      "word": "婆婆太粘老公老婆受不了提出离婚",
-      "onboard_time": 1701839618,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1343716,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1701517714,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1121557,
+      "num": 1121557,
+      "word": "GQ 你好癫啊",
+      "onboard_time": 1701843692,
+      "rank": 31,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1112786,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1701489751,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 835569,
-      "num": 835569,
-      "word": "半个娱乐圈都在浙江这座小镇",
-      "onboard_time": 1701842255,
-      "rank": 4,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 834550,
@@ -4115,6 +4123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 410070,
+      "num": 410070,
+      "word": "朱丹早上去谈判下午就开战",
+      "onboard_time": 1701843513,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409668,
       "num": 409668,
       "word": "易烊千玺vlog i人常态",
@@ -4201,6 +4217,14 @@
       "onboard_time": 1701834636,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 402852,
+      "num": 223743,
+      "word": "GQ红毯 i人队e人队",
+      "onboard_time": 1701844174,
+      "rank": 30,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 402697,
@@ -6083,14 +6107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 300708,
-      "num": 300708,
-      "word": "朱丹早上去谈判下午就开战",
-      "onboard_time": 1701843513,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300579,
       "num": 279491,
       "word": "一闪一闪亮星星 预售",
@@ -6739,6 +6755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277026,
+      "num": 277026,
+      "word": "星穹铁道1.5",
+      "onboard_time": 1701843813,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276900,
       "num": 276900,
       "word": "亿万富翁全家为被拐儿子补过26岁生日",
@@ -7057,6 +7081,14 @@
       "onboard_time": 1701767679,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263948,
+      "num": 263948,
+      "word": "韩国男子性侵亲妹妹被判刑12年不服上诉",
+      "onboard_time": 1701844353,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263471,
@@ -8043,6 +8075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 228566,
+      "num": 222608,
+      "word": "家妍避世 飞爷入世",
+      "onboard_time": 1701842792,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228532,
       "num": 228532,
       "word": "这个浏览量 我是什么很丑的人吗",
@@ -8185,6 +8225,14 @@
       "onboard_time": 1701736237,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224681,
+      "num": 224681,
+      "word": "提醒中小学生慎用鼻吸能量棒",
+      "onboard_time": 1701843753,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223833,
@@ -8449,6 +8497,14 @@
       "onboard_time": 1701491494,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216583,
+      "num": 216583,
+      "word": "喜马拉雅高级副总裁确认已离职",
+      "onboard_time": 1701843333,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 216280,
@@ -9265,14 +9321,6 @@
       "onboard_time": 1701592114,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199271,
-      "num": 199271,
-      "word": "GQ 你好癫啊",
-      "onboard_time": 1701843692,
-      "rank": 31,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 199131,
@@ -10129,14 +10177,6 @@
       "onboard_time": 1701411932,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185787,
-      "num": 185787,
-      "word": "家妍避世 飞爷入世",
-      "onboard_time": 1701842792,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 185650,
@@ -11211,14 +11251,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 162061,
-      "num": 162061,
-      "word": "喜马拉雅高级副总裁确认已离职",
-      "onboard_time": 1701843333,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161985,
       "num": 161985,
       "word": "樊振东2比0黄镇廷",
@@ -11425,14 +11457,6 @@
       "onboard_time": 1701417992,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158631,
-      "num": 158631,
-      "word": "提醒中小学生慎用鼻吸能量棒",
-      "onboard_time": 1701843753,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158526,
@@ -12763,6 +12787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130521,
+      "num": 130521,
+      "word": "上海文旅局回应如何定义五月天假唱",
+      "onboard_time": 1701844535,
+      "rank": 46,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 130347,
       "num": 130347,
       "word": "张远在杨丞琳演唱会上唱乌梅子酱",
@@ -12801,6 +12833,14 @@
       "onboard_time": 1701497371,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129279,
+      "num": 129279,
+      "word": "染发和烫发不建议一起做",
+      "onboard_time": 1701844475,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 128574,
@@ -13860,7 +13900,7 @@
     },
     {
       "raw_hot": 75896,
-      "num": 1175429,
+      "num": 1357276,
       "word": "一文了解6G进展",
       "onboard_time": 1701833137,
       "rank": 2,
