@@ -1,10 +1,10 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701833666009,
+  "endTime": 1701836531221,
   "band_list": [
     {
-      "raw_hot": 7363707,
-      "num": 7363707,
+      "raw_hot": 7604931,
+      "num": 7604931,
       "word": "阿信 做好自己",
       "onboard_time": 1701831638,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 1047677,
+      "num": 636397,
+      "word": "玲花曾评价五月天唱功",
+      "onboard_time": 1701835420,
+      "rank": 9,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1030893,
       "num": 1030893,
       "word": "白鹿的上身身材",
@@ -112,6 +120,14 @@
       "word": "何老师 生图界的常胜将军",
       "onboard_time": 1701820411,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 868030,
+      "num": 868030,
+      "word": "王星越 我从17岁就跟着鹿姐了",
+      "onboard_time": 1701832838,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656710,
+      "num": 656710,
+      "word": "GQ晚宴内场路透",
+      "onboard_time": 1701834875,
+      "rank": 8,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 649826,
       "num": 649826,
       "word": "多平台取消杨鸣总教练认证",
@@ -155,12 +179,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 646493,
+      "num": 504345,
+      "word": "台湾论坛评五月天假唱风波",
+      "onboard_time": 1701835900,
+      "rank": 12,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 645895,
       "num": 645895,
       "word": "上海19岁外卖小哥称第一次遇到商场这样做",
       "onboard_time": 1701786280,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588617,
+      "num": 299631,
+      "word": "一杯奶茶下肚身体变化",
+      "onboard_time": 1701832716,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 585073,
@@ -179,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 535559,
+      "num": 299393,
+      "word": "男子日均吸烟200支双肺半截没了",
+      "onboard_time": 1701834216,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521860,
       "num": 521860,
       "word": "尼前总统称中国登月时可别忘非洲兄弟",
@@ -193,6 +241,22 @@
       "onboard_time": 1701829655,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 510904,
+      "num": 510904,
+      "word": "鼻子对颜值的影响",
+      "onboard_time": 1701834216,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 492670,
+      "num": 492670,
+      "word": "刘亦菲 泰国",
+      "onboard_time": 1701835900,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 482238,
@@ -211,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453952,
-      "num": 268325,
-      "word": "一杯奶茶下肚身体变化",
-      "onboard_time": 1701832716,
-      "rank": 26,
-      "category": "科学科普"
+      "raw_hot": 453284,
+      "num": 453284,
+      "word": "一吵架就不说话 沉默效应",
+      "onboard_time": 1701833618,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 448950,
@@ -232,14 +296,6 @@
       "word": "黄晓明 张小斐是我的粉丝",
       "onboard_time": 1701787482,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 438645,
-      "num": 438645,
-      "word": "王星越 我从17岁就跟着鹿姐了",
-      "onboard_time": 1701832838,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -289,6 +345,14 @@
       "onboard_time": 1701780940,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403282,
+      "num": 403282,
+      "word": "拜登称鱼鹰运输机上8人全部死亡",
+      "onboard_time": 1701834636,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 393860,
@@ -427,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295631,
+      "num": 295631,
+      "word": "湖人防守",
+      "onboard_time": 1701835357,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285568,
       "num": 285568,
       "word": "糖尿病开始拖垮年轻人",
@@ -465,6 +537,14 @@
       "onboard_time": 1701827435,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 261685,
+      "num": 261685,
+      "word": "昭节皇后下线",
+      "onboard_time": 1701835958,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 257832,
@@ -563,6 +643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 220013,
+      "num": 220013,
+      "word": "谷爱凌路上还在改论文",
+      "onboard_time": 1701835357,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217828,
       "num": 151322,
       "word": "檀健次 红毯荷官",
@@ -577,6 +665,14 @@
       "onboard_time": 1701786584,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214858,
+      "num": 214858,
+      "word": "张学友这个老baby真带劲儿啊",
+      "onboard_time": 1701834997,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 214680,
@@ -609,6 +705,14 @@
       "onboard_time": 1701824318,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211491,
+      "num": 211491,
+      "word": "厦门警方通报两名教师涉强奸案",
+      "onboard_time": 1701836137,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207541,
@@ -803,6 +907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167659,
+      "num": 167659,
+      "word": "YG股价又飙升了",
+      "onboard_time": 1701834216,
+      "rank": 37,
+      "category": "作品衍生,财经"
+    },
+    {
+      "raw_hot": 166414,
+      "num": 158491,
+      "word": "许光汉 张钧甯是大家的女神",
+      "onboard_time": 1701834875,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166275,
       "num": 134426,
       "word": "刘诗诗的酒窝",
@@ -875,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150028,
+      "num": 150028,
+      "word": "脱轨 美容美发",
+      "onboard_time": 1701834514,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149281,
       "num": 149281,
       "word": "扣扣搜搜地花了许多钱",
@@ -889,6 +1017,14 @@
       "onboard_time": 1701829772,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146648,
+      "num": 146648,
+      "word": "名古屋小姐的巴掌",
+      "onboard_time": 1701836020,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146065,
@@ -907,6 +1043,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 142135,
+      "num": 142135,
+      "word": "鬼怪 神构图",
+      "onboard_time": 1701836499,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141654,
       "num": 129666,
       "word": "深圳男篮队内冲突",
@@ -915,12 +1059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140551,
-      "num": 140551,
-      "word": "一吵架就不说话 沉默效应",
-      "onboard_time": 1701833618,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 140543,
+      "num": 140543,
+      "word": "江西2亿多元大奖得主发声",
+      "onboard_time": 1701836379,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139154,
@@ -1059,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75115,
+      "num": 1059486,
+      "word": "一文了解6G进展",
+      "onboard_time": 1701833137,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72795,
       "num": 72795,
       "word": "微博视界大会",
@@ -1089,14 +1241,6 @@
       "onboard_time": 1701755200,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 44984,
-      "num": 1059486,
-      "word": "一文了解6G进展",
-      "onboard_time": 1701833137,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37832,

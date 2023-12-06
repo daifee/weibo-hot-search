@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701833666009,
+  "endTime": 1701836531221,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -27,8 +27,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 7363707,
-      "num": 7363707,
+      "raw_hot": 7604931,
+      "num": 7604931,
       "word": "阿信 做好自己",
       "onboard_time": 1701831638,
       "rank": 0,
@@ -1155,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1047677,
+      "num": 636397,
+      "word": "玲花曾评价五月天唱功",
+      "onboard_time": 1701835420,
+      "rank": 9,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1042495,
       "num": 943131,
       "word": "姚政求婚成功",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1701685657,
       "rank": 16,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 868030,
+      "num": 868030,
+      "word": "王星越 我从17岁就跟着鹿姐了",
+      "onboard_time": 1701832838,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 866064,
@@ -2059,6 +2075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 656710,
+      "num": 656710,
+      "word": "GQ晚宴内场路透",
+      "onboard_time": 1701834875,
+      "rank": 8,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 655147,
       "num": 655147,
       "word": "王嘉尔北京演唱会取消",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1701613123,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 646493,
+      "num": 504345,
+      "word": "台湾论坛评五月天假唱风波",
+      "onboard_time": 1701835900,
+      "rank": 12,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 645895,
@@ -2401,6 +2433,14 @@
       "onboard_time": 1701789160,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 588617,
+      "num": 299631,
+      "word": "一杯奶茶下肚身体变化",
+      "onboard_time": 1701832716,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 585073,
@@ -2691,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535559,
+      "num": 299393,
+      "word": "男子日均吸烟200支双肺半截没了",
+      "onboard_time": 1701834216,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534234,
       "num": 456776,
       "word": "谭维维王心凌 带女朋友回家见父母",
@@ -2939,6 +2987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 510904,
+      "num": 510904,
+      "word": "鼻子对颜值的影响",
+      "onboard_time": 1701834216,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 509160,
       "num": 293249,
       "word": "蒋勤勤00年后的造型",
@@ -3025,6 +3081,14 @@
       "onboard_time": 1701675816,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 492670,
+      "num": 492670,
+      "word": "刘亦菲 泰国",
+      "onboard_time": 1701835900,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 491603,
@@ -3411,20 +3475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 453952,
-      "num": 268325,
-      "word": "一杯奶茶下肚身体变化",
-      "onboard_time": 1701832716,
-      "rank": 26,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 453341,
       "num": 453341,
       "word": "女子连吃1周笋干小肠被切25厘米",
       "onboard_time": 1701495873,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453284,
+      "num": 453284,
+      "word": "一吵架就不说话 沉默效应",
+      "onboard_time": 1701833618,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 451756,
@@ -3553,14 +3617,6 @@
       "onboard_time": 1701513753,
       "rank": 13,
       "category": "时尚,网红"
-    },
-    {
-      "raw_hot": 438645,
-      "num": 438645,
-      "word": "王星越 我从17岁就跟着鹿姐了",
-      "onboard_time": 1701832838,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 438599,
@@ -4081,6 +4137,14 @@
       "onboard_time": 1701657995,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403282,
+      "num": 403282,
+      "word": "拜登称鱼鹰运输机上8人全部死亡",
+      "onboard_time": 1701834636,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 402697,
@@ -6035,6 +6099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295631,
+      "num": 295631,
+      "word": "湖人防守",
+      "onboard_time": 1701835357,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295575,
       "num": 295575,
       "word": "杨鸣唐佳良离婚案12月开庭",
@@ -6873,6 +6945,14 @@
       "onboard_time": 1701505590,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261685,
+      "num": 261685,
+      "word": "昭节皇后下线",
+      "onboard_time": 1701835958,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 261613,
@@ -8123,6 +8203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220013,
+      "num": 220013,
+      "word": "谷爱凌路上还在改论文",
+      "onboard_time": 1701835357,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219184,
       "num": 219184,
       "word": "张小斐官宣微博视界大会",
@@ -8299,6 +8387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 214858,
+      "num": 214858,
+      "word": "张学友这个老baby真带劲儿啊",
+      "onboard_time": 1701834997,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214698,
       "num": 214698,
       "word": "假睫毛对容貌真的很重要",
@@ -8409,6 +8505,14 @@
       "onboard_time": 1701824318,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211491,
+      "num": 211491,
+      "word": "厦门警方通报两名教师涉强奸案",
+      "onboard_time": 1701836137,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211344,
@@ -10571,6 +10675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167659,
+      "num": 167659,
+      "word": "YG股价又飙升了",
+      "onboard_time": 1701834216,
+      "rank": 37,
+      "category": "作品衍生,财经"
+    },
+    {
       "raw_hot": 167587,
       "num": 167587,
       "word": "许光汉新浪扫楼",
@@ -10665,6 +10777,14 @@
       "onboard_time": 1701611501,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166414,
+      "num": 158491,
+      "word": "许光汉 张钧甯是大家的女神",
+      "onboard_time": 1701834875,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 166391,
@@ -11483,6 +11603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150028,
+      "num": 150028,
+      "word": "脱轨 美容美发",
+      "onboard_time": 1701834514,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149677,
       "num": 149677,
       "word": "王心凌首唱对赌",
@@ -11625,6 +11753,14 @@
       "onboard_time": 1701486691,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146648,
+      "num": 146648,
+      "word": "名古屋小姐的巴掌",
+      "onboard_time": 1701836020,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146624,
@@ -11859,6 +11995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142135,
+      "num": 142135,
+      "word": "鬼怪 神构图",
+      "onboard_time": 1701836499,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142105,
       "num": 91353,
       "word": "苏醒聪明的都不像他了",
@@ -11939,12 +12083,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140551,
-      "num": 140551,
-      "word": "一吵架就不说话 沉默效应",
-      "onboard_time": 1701833618,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 140543,
+      "num": 140543,
+      "word": "江西2亿多元大奖得主发声",
+      "onboard_time": 1701836379,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140444,
@@ -13459,6 +13603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75115,
+      "num": 1059486,
+      "word": "一文了解6G进展",
+      "onboard_time": 1701833137,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72921,
       "num": 72921,
       "word": "现代汽车高管称永远比中国车更高端",
@@ -13753,14 +13905,6 @@
       "onboard_time": 1701608806,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44984,
-      "num": 1059486,
-      "word": "一文了解6G进展",
-      "onboard_time": 1701833137,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44410,
