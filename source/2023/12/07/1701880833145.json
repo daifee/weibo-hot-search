@@ -1,0 +1,410 @@
+{
+  "runTime": 1701880833145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032442,
+        "num": 1032442,
+        "word": "E6",
+        "onboard_time": 1701875861,
+        "rank": 0,
+        "category": "音乐,社会新闻"
+      },
+      {
+        "raw_hot": 569985,
+        "num": 569985,
+        "word": "新娘遭婚闹大姨一把推开扫兴小伙",
+        "onboard_time": 1701874782,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42049,
+        "num": 551358,
+        "word": "呼吸道传染病个人健康手册",
+        "onboard_time": 1701869017,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2474851,
+        "num": 549927,
+        "word": "阿信回应",
+        "onboard_time": 1701872745,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 533559,
+        "num": 533559,
+        "word": "7800元的羽绒服销量为个位数",
+        "onboard_time": 1701876038,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370758,
+        "num": 370758,
+        "word": "医生点名3类人睡前喝水",
+        "onboard_time": 1701870880,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1203652,
+        "num": 368048,
+        "word": "举报五月天博主称把歌和人分开",
+        "onboard_time": 1701877300,
+        "rank": 6,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 361121,
+        "num": 361121,
+        "word": "难哄 不行就他们四个吧",
+        "onboard_time": 1701874309,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310022,
+        "num": 310022,
+        "word": "苹果因故意降低性能被判向部分用户赔偿",
+        "onboard_time": 1701871419,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 622851,
+        "num": 309668,
+        "word": "阿信 每一声都来自我的嗓子",
+        "onboard_time": 1701873735,
+        "rank": 9,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 501370,
+        "num": 308869,
+        "word": "赵露思败诉",
+        "onboard_time": 1701848794,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350140,
+        "num": 308221,
+        "word": "小学生带避孕套老师引导正确看性",
+        "onboard_time": 1701849216,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678683,
+        "num": 307857,
+        "word": "田馥甄回应五月天假唱风波",
+        "onboard_time": 1701858101,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 307376,
+        "num": 307376,
+        "word": "张凌赫 南师大",
+        "onboard_time": 1701863375,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262586,
+        "num": 262586,
+        "word": "身份证上的X读什么",
+        "onboard_time": 1701860498,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 262434,
+        "num": 262434,
+        "word": "上海文旅局组织专家评审判定五月天事件",
+        "onboard_time": 1701845616,
+        "rank": 15,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 261229,
+        "num": 261229,
+        "word": "周杰伦演唱会预售被嘲吃相难看",
+        "onboard_time": 1701864215,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157835,
+        "num": 157835,
+        "word": "EDG老板支持meiko的想法",
+        "onboard_time": 1701873281,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138878,
+        "num": 157701,
+        "word": "汉文帝霸陵发掘70多座动物殉葬坑",
+        "onboard_time": 1701876998,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130514,
+        "num": 156203,
+        "word": "76岁老人用竹子编二维码能扫出来",
+        "onboard_time": 1701878854,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260256,
+        "num": 154232,
+        "word": "鉴定五月天真假唱的关键",
+        "onboard_time": 1701879987,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 227374,
+        "num": 152315,
+        "word": "车银优衣柜吻",
+        "onboard_time": 1701875202,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152044,
+        "num": 152044,
+        "word": "名侦探柯南",
+        "onboard_time": 1701877119,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112372,
+        "num": 112372,
+        "word": "圆肩驼背终于有救了",
+        "onboard_time": 1701873944,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 103629,
+        "num": 103629,
+        "word": "韩国男子性侵亲妹妹被判刑12年不服上诉",
+        "onboard_time": 1701844353,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183812,
+        "num": 103513,
+        "word": "假唱 真唱",
+        "onboard_time": 1701875022,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 168909,
+        "num": 103432,
+        "word": "张艺兴 初雪cha",
+        "onboard_time": 1701874965,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141571,
+        "num": 103329,
+        "word": "巴黎怎么那么冷啦",
+        "onboard_time": 1701877235,
+        "rank": 27,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 87853,
+        "num": 103214,
+        "word": "17万二手车买家大方给了20万现金",
+        "onboard_time": 1701866377,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83355,
+        "num": 103119,
+        "word": "阿里献血事件小姑姑系退休工人",
+        "onboard_time": 1701858219,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138857,
+        "num": 103008,
+        "word": "演员邵逸凡 多次被迫假唱",
+        "onboard_time": 1701863858,
+        "rank": 30,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 102906,
+        "num": 102906,
+        "word": "医生提醒奥司他韦千万别乱吃",
+        "onboard_time": 1701864158,
+        "rank": 31,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 97398,
+        "num": 97398,
+        "word": "整场会议最忙的是小猫",
+        "onboard_time": 1701879032,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133735,
+        "num": 97317,
+        "word": "五月天",
+        "onboard_time": 1701870880,
+        "rank": 33,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 97226,
+        "num": 97226,
+        "word": "天官赐福",
+        "onboard_time": 1701865417,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126050,
+        "num": 97182,
+        "word": "难哄 瞎哄",
+        "onboard_time": 1701864277,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133381,
+        "num": 97061,
+        "word": "网友解析阿信话筒位置",
+        "onboard_time": 1701866556,
+        "rank": 36,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 107800,
+        "num": 96942,
+        "word": "当新闻女王遇上四大名著",
+        "onboard_time": 1701877059,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85954,
+        "num": 96876,
+        "word": "Twitch宣布退出韩国",
+        "onboard_time": 1701850542,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75897,
+        "num": 96800,
+        "word": "周琦 真香",
+        "onboard_time": 1701872201,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96740,
+        "num": 96740,
+        "word": "五月天争议比较大的几个视频",
+        "onboard_time": 1701849334,
+        "rank": 40,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 87378,
+        "num": 87378,
+        "word": "B站跨晚 12个奥特曼",
+        "onboard_time": 1701873819,
+        "rank": 41,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 79408,
+        "num": 79408,
+        "word": "不会系蝴蝶结的有福了",
+        "onboard_time": 1701878253,
+        "rank": 42,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 90289,
+        "num": 78692,
+        "word": "官方回应五月天事件调查进展",
+        "onboard_time": 1701866377,
+        "rank": 43,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 77789,
+        "num": 77789,
+        "word": "电子哈基米 成毅传",
+        "onboard_time": 1701875323,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75778,
+        "num": 75778,
+        "word": "孟子义GQ拍摄 裙子挡脸",
+        "onboard_time": 1701871480,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71175,
+        "num": 71175,
+        "word": "好白净的猪咪",
+        "onboard_time": 1701876879,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69022,
+        "num": 69022,
+        "word": "生病的孩子不能吃的东西",
+        "onboard_time": 1701869380,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63616,
+        "num": 68691,
+        "word": "五月天事件黄牛票很难维权",
+        "onboard_time": 1701862957,
+        "rank": 48,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 48485,
+        "num": 68557,
+        "word": "一根高脚青拍成了我吃不起的样子",
+        "onboard_time": 1701879451,
+        "rank": 49,
+        "category": "社会新闻,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快信息化服务普及缩小数字鸿沟#"
+    }
+  }
+}

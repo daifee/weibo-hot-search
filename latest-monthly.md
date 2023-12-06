@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/07 00:24:46
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/07 00:40:33
 </p>
 </blockquote>
 <p>
@@ -5913,6 +5913,12 @@ NCTDREAM 最佳男团（热度：260543）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9C%9F%E5%81%87%E5%94%B1%E7%9A%84%E5%85%B3%E9%94%AE%23" target="weibo">
+鉴定五月天真假唱的关键（热度：260256）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%80%89%E6%8B%94%E8%B5%9B%E4%BA%9A%E5%86%9B%23" target="weibo">
 全红婵选拔赛亚军（热度：259836）
 </a>
@@ -6005,12 +6011,6 @@ NCTDREAM 最佳男团（热度：260543）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%91%E7%90%BC%E4%B8%B9%E8%B0%88%E4%BD%98%E8%AF%97%E6%9B%BC%E4%BA%BA%E5%93%81%23" target="weibo">
 苑琼丹谈佘诗曼人品（热度：256140）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%8C%97%E6%96%B9%E8%88%B0%E9%98%9F%E7%AC%AC14%E5%86%9B%E5%9B%A2%E5%89%AF%E5%8F%B8%E4%BB%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
-俄罗斯北方舰队第14军团副司令身亡（热度：255800）
 </a>
 </li>
 
