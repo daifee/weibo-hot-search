@@ -1,7 +1,15 @@
 {
   "startTime": 1701793465870,
-  "endTime": 1701830451657,
+  "endTime": 1701832740745,
   "band_list": [
+    {
+      "raw_hot": 5145530,
+      "num": 5145530,
+      "word": "阿信 做好自己",
+      "onboard_time": 1701831638,
+      "rank": 0,
+      "category": "演出,社会新闻"
+    },
     {
       "raw_hot": 3402371,
       "num": 3402371,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 781659,
+      "num": 781659,
+      "word": "5个损害卵巢的习惯要避免",
+      "onboard_time": 1701830914,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 660727,
       "num": 376676,
       "word": "丁海寅 夜店常客",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 536171,
-      "num": 365522,
+      "num": 413154,
       "word": "庆余年第二季",
       "onboard_time": 1701827675,
       "rank": 10,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 513199,
-      "num": 308010,
+      "num": 477993,
       "word": "脱轨定档",
       "onboard_time": 1701829655,
       "rank": 28,
@@ -291,8 +307,16 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 353259,
+      "num": 353259,
+      "word": "刘诗诗回应被叫体态监督员",
+      "onboard_time": 1701831694,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346235,
-      "num": 204016,
+      "num": 327302,
       "word": "张小斐 发言水平",
       "onboard_time": 1701829594,
       "rank": 31,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 326557,
-      "num": 220235,
+      "num": 320508,
       "word": "礼仪小姐回应被成毅请下班",
       "onboard_time": 1701826297,
       "rank": 41,
@@ -332,11 +356,19 @@
     },
     {
       "raw_hot": 324061,
-      "num": 167703,
+      "num": 287271,
       "word": "伍佰 妹妹认亲",
       "onboard_time": 1701828575,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 321188,
+      "num": 321188,
+      "word": "河北一镇政府到老人家没收过冬煤球",
+      "onboard_time": 1701828934,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315876,
@@ -353,6 +385,14 @@
       "onboard_time": 1701789819,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311193,
+      "num": 311193,
+      "word": "银枝玫瑰",
+      "onboard_time": 1701831514,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 305022,
@@ -411,6 +451,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 258845,
+      "num": 258845,
+      "word": "一杯奶茶下肚身体变化",
+      "onboard_time": 1701832716,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 257832,
+      "num": 257832,
+      "word": "周杰伦加盟环球音乐",
+      "onboard_time": 1701830852,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257727,
       "num": 257727,
       "word": "花近10万买彩票中2亿真实性有待确认",
@@ -435,6 +491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250088,
+      "num": 287885,
+      "word": "感冒快好的时候传染性最强吗",
+      "onboard_time": 1701829893,
+      "rank": 29,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 249610,
+      "num": 249610,
+      "word": "全球首座第四代核电站商运投产",
+      "onboard_time": 1701831754,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236013,
       "num": 236013,
       "word": "阴阳师",
@@ -444,7 +516,7 @@
     },
     {
       "raw_hot": 233257,
-      "num": 157329,
+      "num": 201805,
       "word": "十个勤天",
       "onboard_time": 1701829833,
       "rank": 30,
@@ -524,7 +596,7 @@
     },
     {
       "raw_hot": 207541,
-      "num": 148600,
+      "num": 184335,
       "word": "一闪一闪亮星星",
       "onboard_time": 1701828453,
       "rank": 35,
@@ -545,6 +617,14 @@
       "onboard_time": 1701802274,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205348,
+      "num": 205348,
+      "word": "菲巴士坠崖死亡人数更正为17人",
+      "onboard_time": 1701826413,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203627,
@@ -569,6 +649,14 @@
       "onboard_time": 1701818365,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 199566,
+      "num": 199566,
+      "word": "图书馆自驱哥",
+      "onboard_time": 1701829594,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 199131,
@@ -627,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187491,
-      "num": 187491,
-      "word": "河北一镇政府到老人家没收过冬煤球",
-      "onboard_time": 1701828934,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184472,
       "num": 184472,
       "word": "一闪一闪亮星星片长107分钟",
@@ -649,6 +729,14 @@
       "onboard_time": 1701780879,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177400,
+      "num": 177400,
+      "word": "樊振东气呼呼踢球",
+      "onboard_time": 1701830974,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 174455,
@@ -681,14 +769,6 @@
       "onboard_time": 1701817826,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167109,
-      "num": 149135,
-      "word": "图书馆自驱哥",
-      "onboard_time": 1701829594,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 166275,
@@ -731,12 +811,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158516,
-      "num": 158516,
-      "word": "感冒快好的时候传染性最强吗",
-      "onboard_time": 1701829893,
-      "rank": 29,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 158526,
+      "num": 158526,
+      "word": "张远 以后经常营业啥都得唠",
+      "onboard_time": 1701831274,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 156100,
@@ -745,6 +825,14 @@
       "onboard_time": 1701823842,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152160,
+      "num": 152160,
+      "word": "小满生活冯丹被家暴轻生",
+      "onboard_time": 1701831035,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 151906,
@@ -769,6 +857,14 @@
       "onboard_time": 1701829772,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146750,
+      "num": 267246,
+      "word": "vivoS18即将发布",
+      "onboard_time": 1701831397,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 146065,
@@ -809,6 +905,14 @@
       "onboard_time": 1701815478,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128624,
+      "num": 128624,
+      "word": "9部网文海外阅读量破亿",
+      "onboard_time": 1701832356,
+      "rank": 48,
+      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 125631,
@@ -913,6 +1017,14 @@
       "onboard_time": 1701796581,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73109,
+      "num": 177447,
+      "word": "王石说大家要多给好评",
+      "onboard_time": 1701832356,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72795,
