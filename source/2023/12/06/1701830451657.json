@@ -1,0 +1,410 @@
+{
+  "runTime": 1701830451657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1783274,
+        "num": 1783274,
+        "word": "举报五月天博主称没有收钱说假话",
+        "onboard_time": 1701826474,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1566225,
+        "num": 1566225,
+        "word": "BLACKPINK全员与YG完成续约",
+        "onboard_time": 1701825217,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15560,
+        "num": 1397864,
+        "word": "聚焦COP28",
+        "onboard_time": 1701783165,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360005,
+        "num": 1360005,
+        "word": "29岁姑娘无症状确诊肺癌",
+        "onboard_time": 1701820234,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344086,
+        "num": 1344086,
+        "word": "媒体评林俊杰为何恼了",
+        "onboard_time": 1701825161,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1164836,
+        "num": 1164836,
+        "word": "被斗鱼索赔8000万的女大学生",
+        "onboard_time": 1701825514,
+        "rank": 5,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 1030167,
+        "num": 1030167,
+        "word": "律师称若五月天假唱可能会被终身禁唱",
+        "onboard_time": 1701820352,
+        "rank": 6,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 992390,
+        "num": 992390,
+        "word": "阿信忘了话筒在哪只手",
+        "onboard_time": 1701791256,
+        "rank": 7,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 416778,
+        "num": 416778,
+        "word": "父母的过度干涉 潜意识嫉妒",
+        "onboard_time": 1701824200,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321982,
+        "num": 321982,
+        "word": "菲律宾一巴士坠崖已致29死",
+        "onboard_time": 1701826413,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513199,
+        "num": 308010,
+        "word": "脱轨定档",
+        "onboard_time": 1701829655,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500930,
+        "num": 303070,
+        "word": "庆余年第二季",
+        "onboard_time": 1701827675,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467204,
+        "num": 295342,
+        "word": "张若昀工作人员 还是牵一下蒜了",
+        "onboard_time": 1701823898,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284746,
+        "num": 284746,
+        "word": "女友术后醒麻醉再对男友一见钟情",
+        "onboard_time": 1701822158,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280372,
+        "num": 280372,
+        "word": "大姐回家给卖红薯小孩拿来自家孩子衣服御寒",
+        "onboard_time": 1701827314,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431220,
+        "num": 277512,
+        "word": "辛芷蕾根本内耗不了一点",
+        "onboard_time": 1701825161,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407547,
+        "num": 277175,
+        "word": "白鹿的上身身材",
+        "onboard_time": 1701787902,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270617,
+        "num": 270617,
+        "word": "手机出货量大涨近六成",
+        "onboard_time": 1701827435,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231646,
+        "num": 231646,
+        "word": "奶茶 植脂末",
+        "onboard_time": 1701822336,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 208772,
+        "num": 208772,
+        "word": "6G",
+        "onboard_time": 1701819809,
+        "rank": 19,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 402907,
+        "num": 205507,
+        "word": "何老师 生图界的常胜将军",
+        "onboard_time": 1701820411,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346235,
+        "num": 204016,
+        "word": "张小斐 发言水平",
+        "onboard_time": 1701829594,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196333,
+        "num": 196333,
+        "word": "首款iPhoneSE被列为过时产品",
+        "onboard_time": 1701827852,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187491,
+        "num": 187491,
+        "word": "河北一镇政府到老人家没收过冬煤球",
+        "onboard_time": 1701828934,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167863,
+        "num": 167863,
+        "word": "西安一村庄被倾倒核酸采样试管",
+        "onboard_time": 1701818905,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326557,
+        "num": 165594,
+        "word": "礼仪小姐回应被成毅请下班",
+        "onboard_time": 1701826297,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324061,
+        "num": 165243,
+        "word": "伍佰 妹妹认亲",
+        "onboard_time": 1701828575,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 302060,
+        "num": 161452,
+        "word": "人民日报评五月天疑似假唱",
+        "onboard_time": 1701775655,
+        "rank": 27,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 281884,
+        "num": 159805,
+        "word": "难哄 白敬亭刘浩存",
+        "onboard_time": 1701785383,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158516,
+        "num": 158516,
+        "word": "感冒快好的时候传染性最强吗",
+        "onboard_time": 1701829893,
+        "rank": 29,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 233257,
+        "num": 157329,
+        "word": "十个勤天",
+        "onboard_time": 1701829833,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218964,
+        "num": 157114,
+        "word": "嗯哼和霍思燕现身首映礼",
+        "onboard_time": 1701822999,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151184,
+        "num": 151184,
+        "word": "司机心脏骤停万幸拉了一车医护",
+        "onboard_time": 1701821074,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149145,
+        "num": 149145,
+        "word": "四川省考",
+        "onboard_time": 1701826894,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167109,
+        "num": 149135,
+        "word": "图书馆自驱哥",
+        "onboard_time": 1701829594,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207025,
+        "num": 148763,
+        "word": "湖南卫视 那英",
+        "onboard_time": 1701786460,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196545,
+        "num": 148600,
+        "word": "一闪一闪亮星星",
+        "onboard_time": 1701828453,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186752,
+        "num": 148418,
+        "word": "黄晓明 张小斐是我的粉丝",
+        "onboard_time": 1701787482,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148325,
+        "num": 148325,
+        "word": "英语语法思维导图",
+        "onboard_time": 1701829772,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147996,
+        "num": 147996,
+        "word": "尼前总统称中国登月时可别忘非洲兄弟",
+        "onboard_time": 1701821675,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160177,
+        "num": 141548,
+        "word": "新裤子 庞宽",
+        "onboard_time": 1701823058,
+        "rank": 40,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 156502,
+        "num": 139197,
+        "word": "南海归墟 巫峡棺山",
+        "onboard_time": 1701819509,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153136,
+        "num": 138071,
+        "word": "陈伟霆 不要心疼我心疼真正的卧底",
+        "onboard_time": 1701826357,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132985,
+        "num": 132985,
+        "word": "花近10万买彩票中2亿真实性有待确认",
+        "onboard_time": 1701818305,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 148398,
+        "num": 131164,
+        "word": "丁海寅 夜店常客",
+        "onboard_time": 1701782799,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128867,
+        "num": 128867,
+        "word": "糖尿病开始拖垮年轻人",
+        "onboard_time": 1701821917,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124766,
+        "num": 124766,
+        "word": "海边晕倒的李相夷cos",
+        "onboard_time": 1701824978,
+        "rank": 46,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 115296,
+        "num": 115296,
+        "word": "上海19岁外卖小哥称第一次遇到商场这样做",
+        "onboard_time": 1701786280,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107995,
+        "num": 107995,
+        "word": "多平台取消杨鸣总教练认证",
+        "onboard_time": 1701777634,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 94300,
+        "num": 94300,
+        "word": "太阳vs湖人",
+        "onboard_time": 1701826357,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}

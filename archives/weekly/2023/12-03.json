@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701829824489,
+  "endTime": 1701830451657,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -771,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1164836,
+      "num": 1164836,
+      "word": "被斗鱼索赔8000万的女大学生",
+      "onboard_time": 1701825514,
+      "rank": 10,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 1157226,
       "num": 1157226,
       "word": "车窗贴两张缴费单但车内司机已去世",
@@ -865,14 +873,6 @@
       "onboard_time": 1701585991,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1009103,
-      "num": 1009103,
-      "word": "被斗鱼索赔8000万的女大学生",
-      "onboard_time": 1701825514,
-      "rank": 10,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 1004507,
@@ -2019,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 513199,
+      "num": 308010,
+      "word": "脱轨定档",
+      "onboard_time": 1701829655,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 512534,
       "num": 287327,
       "word": "赵一博 种地吧第二季",
@@ -2515,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431220,
+      "num": 277512,
+      "word": "辛芷蕾根本内耗不了一点",
+      "onboard_time": 1701825161,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431164,
       "num": 431164,
       "word": "张雪峰曾谈普通大学和名校差距",
@@ -2729,14 +2745,6 @@
       "onboard_time": 1701698498,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 404871,
-      "num": 270978,
-      "word": "辛芷蕾根本内耗不了一点",
-      "onboard_time": 1701825161,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 404045,
@@ -3307,6 +3315,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 346235,
+      "num": 204016,
+      "word": "张小斐 发言水平",
+      "onboard_time": 1701829594,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343591,
       "num": 343591,
       "word": "蔚来31.6亿收购江淮汽车设备和资产",
@@ -3491,6 +3507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326557,
+      "num": 220235,
+      "word": "礼仪小姐回应被成毅请下班",
+      "onboard_time": 1701826297,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326346,
       "num": 326346,
       "word": "我是怎样查出医院超收10万医疗费",
@@ -3505,6 +3529,14 @@
       "onboard_time": 1701761256,
       "rank": 26,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 324061,
+      "num": 167703,
+      "word": "伍佰 妹妹认亲",
+      "onboard_time": 1701828575,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 323857,
@@ -3601,14 +3633,6 @@
       "onboard_time": 1701590375,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320098,
-      "num": 220235,
-      "word": "礼仪小姐回应被成毅请下班",
-      "onboard_time": 1701826297,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 319410,
@@ -4315,6 +4339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280372,
+      "num": 280372,
+      "word": "大姐回家给卖红薯小孩拿来自家孩子衣服御寒",
+      "onboard_time": 1701827314,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280160,
       "num": 280160,
       "word": "泰国一旅游大巴发生车祸致14死35伤",
@@ -4411,14 +4443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274743,
-      "num": 274743,
-      "word": "大姐回家给卖红薯小孩拿来自家孩子衣服御寒",
-      "onboard_time": 1701827314,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274432,
       "num": 274432,
       "word": "京考",
@@ -4467,6 +4491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270617,
+      "num": 270617,
+      "word": "手机出货量大涨近六成",
+      "onboard_time": 1701827435,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 269652,
       "num": 269652,
       "word": "独行侠30比0 活久见",
@@ -4481,14 +4513,6 @@
       "onboard_time": 1701647311,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268130,
-      "num": 268130,
-      "word": "手机出货量大涨近六成",
-      "onboard_time": 1701827435,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 267818,
@@ -4601,14 +4625,6 @@
       "onboard_time": 1701818305,
       "rank": 17,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 257606,
-      "num": 167703,
-      "word": "伍佰 妹妹认亲",
-      "onboard_time": 1701828575,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 257510,
@@ -4971,6 +4987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233257,
+      "num": 157329,
+      "word": "十个勤天",
+      "onboard_time": 1701829833,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232613,
       "num": 216504,
       "word": "海边晕倒的李相夷cos",
@@ -5003,6 +5027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 231646,
+      "num": 231646,
+      "word": "奶茶 植脂末",
+      "onboard_time": 1701822336,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 231635,
       "num": 231635,
       "word": "洪知秀 乐高小人",
@@ -5025,14 +5057,6 @@
       "onboard_time": 1701665083,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 231245,
-      "num": 231245,
-      "word": "奶茶 植脂末",
-      "onboard_time": 1701822336,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 230205,
@@ -5299,14 +5323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221533,
-      "num": 167411,
-      "word": "脱轨定档",
-      "onboard_time": 1701829655,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220416,
       "num": 152582,
       "word": "张韶涵 第一位大莲花女歌手",
@@ -5425,14 +5441,6 @@
       "onboard_time": 1701824318,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212940,
-      "num": 166770,
-      "word": "张小斐 发言水平",
-      "onboard_time": 1701829594,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 212817,
@@ -5915,6 +5923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196333,
+      "num": 196333,
+      "word": "首款iPhoneSE被列为过时产品",
+      "onboard_time": 1701827852,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196079,
       "num": 196079,
       "word": "LPL全明星",
@@ -6267,12 +6283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186878,
-      "num": 186878,
-      "word": "首款iPhoneSE被列为过时产品",
-      "onboard_time": 1701827852,
-      "rank": 23,
-      "category": "数码"
+      "raw_hot": 187491,
+      "num": 187491,
+      "word": "河北一镇政府到老人家没收过冬煤球",
+      "onboard_time": 1701828934,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186774,
@@ -6683,6 +6699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167109,
+      "num": 149135,
+      "word": "图书馆自驱哥",
+      "onboard_time": 1701829594,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166570,
       "num": 166570,
       "word": "猫 你觉得合理不",
@@ -6947,6 +6971,14 @@
       "category": "母婴育儿,社会新闻"
     },
     {
+      "raw_hot": 158516,
+      "num": 158516,
+      "word": "感冒快好的时候传染性最强吗",
+      "onboard_time": 1701829893,
+      "rank": 29,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 158305,
       "num": 158305,
       "word": "曾舜晞 哄羊",
@@ -7209,6 +7241,14 @@
       "onboard_time": 1701665440,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148325,
+      "num": 148325,
+      "word": "英语语法思维导图",
+      "onboard_time": 1701829772,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 147971,
@@ -7513,14 +7553,6 @@
       "onboard_time": 1701525396,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135395,
-      "num": 135395,
-      "word": "河北一镇政府到老人家没收过冬煤球",
-      "onboard_time": 1701828934,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134999,
@@ -8059,14 +8091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110746,
-      "num": 110746,
-      "word": "图书馆自驱哥",
-      "onboard_time": 1701829594,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110544,
       "num": 110544,
       "word": "麦卡利斯特世界波",
@@ -8153,14 +8177,6 @@
       "onboard_time": 1701589292,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101657,
-      "num": 101657,
-      "word": "英语语法思维导图",
-      "onboard_time": 1701829772,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 100561,
