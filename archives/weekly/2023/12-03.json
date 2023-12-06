@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701880833145,
+  "endTime": 1701882986597,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -4259,6 +4259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328519,
+      "num": 163939,
+      "word": "鉴定五月天真假唱的关键",
+      "onboard_time": 1701879987,
+      "rank": 20,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 326557,
       "num": 320508,
       "word": "礼仪小姐回应被成毅请下班",
@@ -5585,14 +5593,6 @@
       "onboard_time": 1701683436,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260256,
-      "num": 154232,
-      "word": "鉴定五月天真假唱的关键",
-      "onboard_time": 1701879987,
-      "rank": 20,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 259696,
@@ -10403,6 +10403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66581,
+      "num": 52397,
+      "word": "BABYMONSTER MV reaction",
+      "onboard_time": 1701882442,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 66434,
       "num": 89512,
       "word": "一根高脚青拍成了我吃不起的样子",
@@ -10529,6 +10537,14 @@
       "onboard_time": 1701622407,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 48667,
+      "num": 52750,
+      "word": "老太存款消失拷问老伴民警现场洗嫌疑",
+      "onboard_time": 1701881903,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46749,

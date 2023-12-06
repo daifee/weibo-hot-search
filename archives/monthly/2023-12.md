@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/07 00:40:33
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/07 01:16:26
 </p>
 </blockquote>
 <p>
@@ -4503,6 +4503,12 @@ GQ主编 光之门美到我自己了（热度：330106）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9C%9F%E5%81%87%E5%94%B1%E7%9A%84%E5%85%B3%E9%94%AE%23" target="weibo">
+鉴定五月天真假唱的关键（热度：328519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A4%BC%E4%BB%AA%E5%B0%8F%E5%A7%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%88%90%E6%AF%85%E8%AF%B7%E4%B8%8B%E7%8F%AD%23" target="weibo">
 礼仪小姐回应被成毅请下班（热度：326557）
 </a>
@@ -5909,12 +5915,6 @@ LNG Mark（热度：260873）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NCTDREAM%20%E6%9C%80%E4%BD%B3%E7%94%B7%E5%9B%A2%23" target="weibo">
 NCTDREAM 最佳男团（热度：260543）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9C%9F%E5%81%87%E5%94%B1%E7%9A%84%E5%85%B3%E9%94%AE%23" target="weibo">
-鉴定五月天真假唱的关键（热度：260256）
 </a>
 </li>
 
