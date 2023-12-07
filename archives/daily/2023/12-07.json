@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701919130560,
+  "endTime": 1701920066327,
   "band_list": [
     {
       "raw_hot": 3590632,
@@ -59,20 +59,20 @@
       "category": "音乐,社会新闻"
     },
     {
+      "raw_hot": 1217064,
+      "num": 1217064,
+      "word": "老师我们家子涵怎么火了",
+      "onboard_time": 1701911255,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1214965,
       "num": 469460,
       "word": "举报五月天博主称把歌和人分开",
       "onboard_time": 1701877300,
       "rank": 6,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1175179,
-      "num": 1175179,
-      "word": "老师我们家子涵怎么火了",
-      "onboard_time": 1701911255,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1085021,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932589,
+      "num": 932589,
+      "word": "iPhone15价格跳水后销量霸榜前三",
+      "onboard_time": 1701915991,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 822094,
       "num": 525790,
       "word": "周深曾直接拒绝演唱现场放人声伴奏",
@@ -121,14 +129,6 @@
       "onboard_time": 1701858101,
       "rank": 12,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 799821,
-      "num": 799821,
-      "word": "iPhone15价格跳水后销量霸榜前三",
-      "onboard_time": 1701915991,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 772999,
@@ -211,27 +211,27 @@
       "category": "数码"
     },
     {
-      "raw_hot": 476285,
-      "num": 476285,
-      "word": "公司辞退提前吃午饭员工被判赔2万",
-      "onboard_time": 1701898273,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447450,
-      "num": 447450,
+      "raw_hot": 506111,
+      "num": 506111,
       "word": "周也公子也",
       "onboard_time": 1701916592,
       "rank": 31,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 430969,
+      "raw_hot": 492805,
       "num": 292202,
       "word": "父亲骨灰被弄丢殡仪馆说给盒新的",
       "onboard_time": 1701918090,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476285,
+      "num": 476285,
+      "word": "公司辞退提前吃午饭员工被判赔2万",
+      "onboard_time": 1701898273,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -251,12 +251,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 416301,
-      "num": 416301,
+      "raw_hot": 416577,
+      "num": 416577,
       "word": "谢娜不让女儿们看电子产品",
       "onboard_time": 1701917372,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400644,
+      "num": 400644,
+      "word": "玲娜贝儿出差",
+      "onboard_time": 1701918753,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 396392,
@@ -281,6 +289,14 @@
       "onboard_time": 1701849216,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362515,
+      "num": 362515,
+      "word": "小时候被性骚扰是女性共同的秘密",
+      "onboard_time": 1701918873,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 355329,
@@ -451,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271836,
+      "num": 288211,
+      "word": "福克斯拒绝5000万年薪合同",
+      "onboard_time": 1701918993,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271013,
       "num": 271013,
       "word": "chatgpt总结阿信回应",
@@ -475,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264236,
-      "num": 290660,
-      "word": "玲娜贝儿出差",
-      "onboard_time": 1701918753,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 264821,
+      "num": 223738,
+      "word": "阴阳师 鬼王令",
+      "onboard_time": 1701919414,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 261408,
@@ -488,6 +512,14 @@
       "word": "工藤静香Blue Velvet",
       "onboard_time": 1701912931,
       "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 258442,
+      "num": 235686,
+      "word": "Jennie crazy over you",
+      "onboard_time": 1701919173,
+      "rank": 27,
       "category": "演出"
     },
     {
@@ -507,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 249531,
+      "num": 222038,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 246948,
       "num": 253762,
       "word": "苹果明年初将推出两款iPadAir",
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241749,
+      "num": 220382,
+      "word": "日本将引进奥本海默",
+      "onboard_time": 1701919714,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241614,
       "num": 227125,
       "word": "假唱 真唱",
@@ -531,12 +579,12 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 227980,
-      "num": 227980,
-      "word": "小时候被性骚扰是女性共同的秘密",
-      "onboard_time": 1701918873,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 225314,
+      "num": 225314,
+      "word": "挖到商陆误当人参吃了一口",
+      "onboard_time": 1701918210,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 222634,
@@ -579,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 212192,
+      "num": 212192,
+      "word": "费翔 用最大诚意维系三代女孩的梦",
+      "onboard_time": 1701919774,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210644,
       "num": 210644,
       "word": "体面的离职报告",
@@ -587,12 +643,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208958,
-      "num": 208958,
-      "word": "挖到商陆误当人参吃了一口",
-      "onboard_time": 1701918210,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 210184,
+      "num": 210184,
+      "word": "吴磊赵今麦吻戏镜头",
+      "onboard_time": 1701919053,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 206596,
@@ -667,12 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195555,
-      "num": 195555,
-      "word": "福克斯拒绝5000万年薪合同",
-      "onboard_time": 1701918993,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 195820,
+      "num": 1867895,
+      "word": "太空菜园收菜了航天员边摘边吃",
+      "onboard_time": 1701917432,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194478,
@@ -681,14 +737,6 @@
       "onboard_time": 1701863858,
       "rank": 30,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 193984,
-      "num": 193984,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192292,
@@ -707,6 +755,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 186092,
+      "num": 287218,
+      "word": "3岁幼儿寒风中大哭陌生奶爸接力上线",
+      "onboard_time": 1701916651,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185751,
       "num": 185751,
       "word": "一闪一闪亮星星预售票房破亿",
@@ -715,20 +771,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185134,
-      "num": 185134,
-      "word": "吴磊赵今麦吻戏镜头",
-      "onboard_time": 1701919053,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183981,
       "num": 124734,
       "word": "切尔西 抽象",
       "onboard_time": 1701905365,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183370,
+      "num": 211264,
+      "word": "长期饮用养生茶或引起肾衰竭",
+      "onboard_time": 1701919356,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 182723,
@@ -753,14 +809,6 @@
       "onboard_time": 1701917910,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175797,
-      "num": 287218,
-      "word": "3岁幼儿寒风中大哭陌生奶爸接力上线",
-      "onboard_time": 1701916651,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174854,
@@ -851,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156618,
-      "num": 1867895,
-      "word": "太空菜园收菜了航天员边摘边吃",
-      "onboard_time": 1701917432,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152496,
       "num": 103578,
       "word": "难哄 瞎哄",
@@ -875,20 +915,20 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 145957,
+      "num": 145957,
+      "word": "看到人 低头玩手机",
+      "onboard_time": 1701918633,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141661,
       "num": 157701,
       "word": "汉文帝霸陵发掘70多座动物殉葬坑",
       "onboard_time": 1701876998,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138830,
-      "num": 138830,
-      "word": "看到人 低头玩手机",
-      "onboard_time": 1701918633,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 136634,
@@ -907,11 +947,27 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 133601,
+      "num": 133601,
+      "word": "妈妈熬夜到凌晨给娃做变形警车",
+      "onboard_time": 1701919833,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130514,
       "num": 156203,
       "word": "76岁老人用竹子编二维码能扫出来",
       "onboard_time": 1701878854,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128981,
+      "num": 128981,
+      "word": "小朋友一份土豆想分两碗摊主秒懂相送",
+      "onboard_time": 1701919535,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -921,6 +977,14 @@
       "onboard_time": 1701877059,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114461,
+      "num": 114461,
+      "word": "扁头变圆头",
+      "onboard_time": 1701920012,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 113298,
