@@ -1,0 +1,410 @@
+{
+  "runTime": 1701944409241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10719824,
+        "num": 10719824,
+        "word": "GQ红毯",
+        "onboard_time": 1701938256,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 9544911,
+        "num": 9544911,
+        "word": "GQ的小船 尴尬",
+        "onboard_time": 1701942460,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120525,
+        "num": 3210732,
+        "word": "古诗中雪天有满满的醉人意境",
+        "onboard_time": 1701935078,
+        "rank": 2,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 1135894,
+        "num": 1135894,
+        "word": "女生长期吃避孕药治痘致癫痫脑出血",
+        "onboard_time": 1701940603,
+        "rank": 3,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 1618091,
+        "num": 1031217,
+        "word": "GQ好多人鱼公主",
+        "onboard_time": 1701930632,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 775367,
+        "num": 775367,
+        "word": "男孩偷卖家中31斤金条变现565万",
+        "onboard_time": 1701936397,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138085,
+        "num": 581248,
+        "word": "龙墩墩开售啦",
+        "onboard_time": 1701942770,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1612720,
+        "num": 579752,
+        "word": "好怕谢娜的船翻了",
+        "onboard_time": 1701944023,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 574861,
+        "num": 574861,
+        "word": "身体这4个部位不能太干净",
+        "onboard_time": 1701936815,
+        "rank": 8,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 126645,
+        "num": 430131,
+        "word": "消防员冲进火场徒手拎出喷火煤气罐",
+        "onboard_time": 1701942943,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2223104,
+        "num": 428229,
+        "word": "GQ连夜排查水道",
+        "onboard_time": 1701922417,
+        "rank": 10,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1598288,
+        "num": 427960,
+        "word": "杨紫 夜色玫瑰",
+        "onboard_time": 1701941146,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 423280,
+        "num": 423280,
+        "word": "小黄开播几分钟直播间被封",
+        "onboard_time": 1701930695,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 357954,
+        "num": 357954,
+        "word": "俄罗斯将于2024年3月17日举行总统选举",
+        "onboard_time": 1701939037,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1501522,
+        "num": 355491,
+        "word": "GQ为什么没有主持人",
+        "onboard_time": 1701943544,
+        "rank": 14,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 337100,
+        "num": 337100,
+        "word": "江西省民政厅正在调查花10万中2.2亿",
+        "onboard_time": 1701924521,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325174,
+        "num": 325174,
+        "word": "吃辣和喝奶茶的都沉默了",
+        "onboard_time": 1701943482,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1184090,
+        "num": 324196,
+        "word": "米卡GQ让你发疯你发癫",
+        "onboard_time": 1701928473,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 316305,
+        "num": 316305,
+        "word": "女子产假结束前1天被通知离职",
+        "onboard_time": 1701939462,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270744,
+        "num": 270744,
+        "word": "辣条凭什么能火20年",
+        "onboard_time": 1701943904,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1813677,
+        "num": 270087,
+        "word": "GQ 明星同船名单",
+        "onboard_time": 1701936337,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 533192,
+        "num": 269790,
+        "word": "英语成绩差 死磕这18张图",
+        "onboard_time": 1701938316,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268515,
+        "num": 268515,
+        "word": "笔记本最好不要一直充满电",
+        "onboard_time": 1701937361,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1173701,
+        "num": 268493,
+        "word": "王一博出发图在床上",
+        "onboard_time": 1701939580,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244543,
+        "num": 268402,
+        "word": "超早产龙凤胎男婴4天夭折女婴心力衰竭",
+        "onboard_time": 1701939942,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213386,
+        "num": 268344,
+        "word": "白泽CG",
+        "onboard_time": 1701943423,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1112031,
+        "num": 268197,
+        "word": "GQ疯狂星期四",
+        "onboard_time": 1701931291,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188337,
+        "num": 268138,
+        "word": "一加和小米谁急了",
+        "onboard_time": 1701939942,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168476,
+        "num": 268028,
+        "word": "为什么生理期时心情不好",
+        "onboard_time": 1701939521,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1108751,
+        "num": 267997,
+        "word": "于适首套高定造型",
+        "onboard_time": 1701926254,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 567488,
+        "num": 267857,
+        "word": "迪丽热巴粉色云朵裙",
+        "onboard_time": 1701940181,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 509972,
+        "num": 267794,
+        "word": "老师我们家诗晴没怀孕",
+        "onboard_time": 1701941982,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 988789,
+        "num": 267718,
+        "word": "虞书欣 GQ惊喜嘉宾",
+        "onboard_time": 1701932075,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166493,
+        "num": 267676,
+        "word": "1米85视角下穿半身裙的我",
+        "onboard_time": 1701944023,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125110,
+        "num": 267544,
+        "word": "龙墩墩开售了",
+        "onboard_time": 1701936337,
+        "rank": 34,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 122136,
+        "num": 267513,
+        "word": "小哥取快递遇3岁娃独自在家",
+        "onboard_time": 1701943123,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885596,
+        "num": 267432,
+        "word": "曾舜晞银发",
+        "onboard_time": 1701920675,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 493835,
+        "num": 267307,
+        "word": "阿信 缺席就是认输了",
+        "onboard_time": 1701906811,
+        "rank": 37,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 482709,
+        "num": 267247,
+        "word": "白鹿张凌赫GQ外拍路透",
+        "onboard_time": 1701941383,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 711873,
+        "num": 267115,
+        "word": "米卡 露背长裙",
+        "onboard_time": 1701943303,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 454176,
+        "num": 267062,
+        "word": "李现 翻下去就收工了",
+        "onboard_time": 1701942943,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 453546,
+        "num": 266969,
+        "word": "刘德华妻子名字并非朱丽倩",
+        "onboard_time": 1701941862,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637038,
+        "num": 266938,
+        "word": "GQ明星工作室出图",
+        "onboard_time": 1701917672,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 429513,
+        "num": 266829,
+        "word": "著名歌手唐磊谈五月天假唱风波",
+        "onboard_time": 1701920556,
+        "rank": 43,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 370947,
+        "num": 266722,
+        "word": "许光汉 湿身微醺",
+        "onboard_time": 1701942102,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 616615,
+        "num": 266691,
+        "word": "易烊千玺辛爽 同船",
+        "onboard_time": 1701936815,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164342,
+        "num": 266558,
+        "word": "UP官宣Ning离队",
+        "onboard_time": 1701944083,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148399,
+        "num": 266521,
+        "word": "警方通报成都双流机场岗亭被撞塌",
+        "onboard_time": 1701939462,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593471,
+        "num": 266362,
+        "word": "杨天真GQ秒了",
+        "onboard_time": 1701934717,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136323,
+        "num": 266290,
+        "word": "网传男孩遭亲爸后妈虐待睡楼道",
+        "onboard_time": 1701931473,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对越南进行国事访问#"
+    }
+  }
+}

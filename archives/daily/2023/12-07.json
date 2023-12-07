@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701941698499,
+  "endTime": 1701944409241,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -8,6 +8,14 @@
       "word": "GQ红毯",
       "onboard_time": 1701938256,
       "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 9544911,
+      "num": 9544911,
+      "word": "GQ的小船 尴尬",
+      "onboard_time": 1701942460,
+      "rank": 1,
       "category": "作品衍生,时尚"
     },
     {
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1612720,
+      "num": 579752,
+      "word": "好怕谢娜的船翻了",
+      "onboard_time": 1701944023,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1601085,
       "num": 1601085,
       "word": "杨天真GQ秒了",
@@ -153,6 +169,14 @@
       "onboard_time": 1701924098,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1501522,
+      "num": 355491,
+      "word": "GQ为什么没有主持人",
+      "onboard_time": 1701943544,
+      "rank": 14,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1451624,
@@ -225,6 +249,14 @@
       "onboard_time": 1701936815,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1135894,
+      "num": 1135894,
+      "word": "女生长期吃避孕药治痘致癫痫脑出血",
+      "onboard_time": 1701940603,
+      "rank": 49,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 1117549,
@@ -363,6 +395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 711873,
+      "num": 267115,
+      "word": "米卡 露背长裙",
+      "onboard_time": 1701943303,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 668593,
       "num": 362455,
       "word": "英语成绩差 死磕这18张图",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 557147,
-      "num": 243615,
+      "num": 267247,
       "word": "白鹿张凌赫GQ外拍路透",
       "onboard_time": 1701941383,
       "rank": 31,
@@ -531,6 +571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 509972,
+      "num": 267794,
+      "word": "老师我们家诗晴没怀孕",
+      "onboard_time": 1701941982,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 508926,
       "num": 453783,
       "word": "钢琴上的E6",
@@ -545,14 +593,6 @@
       "onboard_time": 1701937718,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 507213,
-      "num": 507213,
-      "word": "女生长期吃避孕药治痘致癫痫脑出血",
-      "onboard_time": 1701940603,
-      "rank": 49,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 506402,
@@ -593,6 +633,22 @@
       "onboard_time": 1701937361,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 454176,
+      "num": 267062,
+      "word": "李现 翻下去就收工了",
+      "onboard_time": 1701942943,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 453546,
+      "num": 266969,
+      "word": "刘德华妻子名字并非朱丽倩",
+      "onboard_time": 1701941862,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 437208,
@@ -720,6 +776,14 @@
       "word": "张凌赫 发疯蓄力中",
       "onboard_time": 1701928835,
       "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 370947,
+      "num": 266722,
+      "word": "许光汉 湿身微醺",
+      "onboard_time": 1701942102,
+      "rank": 44,
       "category": "作品衍生,时尚"
     },
     {
@@ -857,6 +921,14 @@
       "onboard_time": 1701936337,
       "rank": 19,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 325174,
+      "num": 325174,
+      "word": "吃辣和喝奶茶的都沉默了",
+      "onboard_time": 1701943482,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 322434,
@@ -1099,6 +1171,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 270744,
+      "num": 270744,
+      "word": "辣条凭什么能火20年",
+      "onboard_time": 1701943904,
+      "rank": 19,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 267058,
       "num": 267058,
       "word": "演唱会志愿者盒饭对比",
@@ -1300,7 +1380,7 @@
     },
     {
       "raw_hot": 225846,
-      "num": 225846,
+      "num": 268138,
       "word": "一加和小米谁急了",
       "onboard_time": 1701939942,
       "rank": 44,
@@ -1371,6 +1451,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 213386,
+      "num": 268344,
+      "word": "白泽CG",
+      "onboard_time": 1701943423,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212752,
       "num": 212752,
       "word": "刀郎暂时停更",
@@ -1420,7 +1508,7 @@
     },
     {
       "raw_hot": 208647,
-      "num": 208647,
+      "num": 268028,
       "word": "为什么生理期时心情不好",
       "onboard_time": 1701939521,
       "rank": 38,
@@ -1691,6 +1779,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166493,
+      "num": 267676,
+      "word": "1米85视角下穿半身裙的我",
+      "onboard_time": 1701944023,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 164342,
+      "num": 266558,
+      "word": "UP官宣Ning离队",
+      "onboard_time": 1701944083,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163422,
       "num": 163422,
       "word": "一念关山",
@@ -1779,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138085,
+      "num": 581248,
+      "word": "龙墩墩开售啦",
+      "onboard_time": 1701942770,
+      "rank": 6,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 136634,
       "num": 136634,
       "word": "四大天王与四大歌后的battle",
@@ -1819,6 +1931,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 126645,
+      "num": 430131,
+      "word": "消防员冲进火场徒手拎出喷火煤气罐",
+      "onboard_time": 1701942943,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124895,
       "num": 124895,
       "word": "挑战只吃红薯",
@@ -1835,20 +1955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122136,
+      "num": 267513,
+      "word": "小哥取快递遇3岁娃独自在家",
+      "onboard_time": 1701943123,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120525,
+      "num": 3210732,
+      "word": "古诗中雪天有满满的醉人意境",
+      "onboard_time": 1701935078,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114461,
       "num": 114461,
       "word": "扁头变圆头",
       "onboard_time": 1701920012,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 114120,
-      "num": 2552510,
-      "word": "古诗中雪天有满满的醉人意境",
-      "onboard_time": 1701935078,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113298,
