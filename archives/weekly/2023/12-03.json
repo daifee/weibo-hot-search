@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701962353689,
+  "endTime": 1701963263589,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -17,6 +17,14 @@
       "onboard_time": 1701942460,
       "rank": 1,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 9683802,
+      "num": 9683802,
+      "word": "山东震感",
+      "onboard_time": 1701962510,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9074037,
@@ -185,6 +193,14 @@
       "onboard_time": 1701858101,
       "rank": 0,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 3232425,
+      "num": 3232425,
+      "word": "青岛震感",
+      "onboard_time": 1701962676,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3140544,
@@ -1395,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1007237,
+      "num": 727870,
+      "word": "五月天巴黎演唱会",
+      "onboard_time": 1701961905,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1004507,
       "num": 1004507,
       "word": "上海12345回应五月天被质疑假唱",
@@ -1971,14 +1995,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 727870,
-      "num": 727870,
-      "word": "五月天巴黎演唱会",
-      "onboard_time": 1701961905,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 725948,
       "num": 725948,
       "word": "卵巢早衰",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1701701796,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715107,
+      "num": 494237,
+      "word": "杨超越内场",
+      "onboard_time": 1701961369,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 714421,
@@ -2281,14 +2305,6 @@
       "onboard_time": 1701513031,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 650736,
-      "num": 275435,
-      "word": "杨超越内场",
-      "onboard_time": 1701961369,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 646925,
@@ -3627,6 +3643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469192,
+      "num": 260037,
+      "word": "娜扎戚薇周也没去GQ的原因",
+      "onboard_time": 1701961905,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 468717,
       "num": 314029,
       "word": "南海归墟大结局",
@@ -3745,6 +3769,14 @@
       "onboard_time": 1701758257,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 455197,
+      "num": 197639,
+      "word": "虞书欣 网红妆",
+      "onboard_time": 1701962805,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 455181,
@@ -3881,14 +3913,6 @@
       "onboard_time": 1701649299,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 437426,
-      "num": 260037,
-      "word": "娜扎戚薇周也没去GQ的原因",
-      "onboard_time": 1701961905,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 437208,
@@ -5499,6 +5523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329291,
+      "num": 329291,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1701961602,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 328519,
       "num": 231178,
       "word": "鉴定五月天真假唱的关键",
@@ -5977,6 +6009,14 @@
       "onboard_time": 1701692380,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 305829,
+      "num": 305829,
+      "word": "肖四第一套",
+      "onboard_time": 1701961970,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 305724,
@@ -7073,6 +7113,14 @@
       "onboard_time": 1701767679,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262868,
+      "num": 264716,
+      "word": "知情人回应狗主人锁狗被疯狂攻击",
+      "onboard_time": 1701961905,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262556,
@@ -8395,14 +8443,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 216549,
-      "num": 268533,
-      "word": "睡眠真的超级重要",
-      "onboard_time": 1701961602,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 216357,
       "num": 216357,
       "word": "谷歌Gemini",
@@ -9195,14 +9235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198847,
-      "num": 265482,
-      "word": "肖四第一套",
-      "onboard_time": 1701961970,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 198819,
       "num": 198819,
       "word": "华晨宇 蓝色玫瑰",
@@ -9649,14 +9681,6 @@
       "onboard_time": 1701679359,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 190612,
-      "num": 264716,
-      "word": "知情人回应狗主人锁狗被疯狂攻击",
-      "onboard_time": 1701961905,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190561,
@@ -12219,6 +12243,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 119775,
+      "num": 197612,
+      "word": "小金毛叼起绳子求抱抱",
+      "onboard_time": 1701962385,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118275,
       "num": 114932,
       "word": "周一围朱丹新人设",
@@ -12507,6 +12539,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 102253,
+      "num": 197599,
+      "word": "看樊振东打球对眼睛好",
+      "onboard_time": 1701963226,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102041,
       "num": 102041,
       "word": "李健 十点半的地铁",
@@ -12756,7 +12796,7 @@
     },
     {
       "raw_hot": 81804,
-      "num": 2368719,
+      "num": 3773588,
       "word": "4K视频感受冬日留白美学",
       "onboard_time": 1701954942,
       "rank": 2,

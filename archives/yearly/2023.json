@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1701962353689,
+  "endTime": 1701963263589,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1176,6 +1176,14 @@
       "word": "董某某被停职",
       "onboard_time": 1686194372,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9683802,
+      "num": 9683802,
+      "word": "山东震感",
+      "onboard_time": 1701962510,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -2392,14 +2400,6 @@
       "word": "赵丽颖三次陪跑",
       "onboard_time": 1687528550,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 7110056,
-      "num": 7110056,
-      "word": "雷佳音 白玉兰视帝",
-      "onboard_time": 1687527946,
-      "rank": 1,
       "category": "影视"
     }
   ],
