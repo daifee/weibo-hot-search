@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701966241595,
+  "endTime": 1701967199976,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -3243,6 +3243,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 612125,
+      "num": 612125,
+      "word": "迪丽热巴特意带了国旗",
+      "onboard_time": 1701965073,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612076,
       "num": 612076,
       "word": "张万森 没票了",
@@ -4537,14 +4545,6 @@
       "onboard_time": 1701346594,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 476504,
-      "num": 476504,
-      "word": "迪丽热巴特意带了国旗",
-      "onboard_time": 1701965073,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 476285,
@@ -14179,6 +14179,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 169982,
+      "num": 133832,
+      "word": "歌手提醒非专业人士请勿轻易挑战E6高音",
+      "onboard_time": 1701966989,
+      "rank": 35,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 169976,
       "num": 169976,
       "word": "玻璃珠美甲",
@@ -18025,6 +18033,14 @@
       "onboard_time": 1701350074,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59580,
+      "num": 133046,
+      "word": "30秒学会慵懒鲨鱼夹",
+      "onboard_time": 1701964001,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 58146,

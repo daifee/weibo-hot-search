@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1701966241595,
+  "endTime": 1701967199976,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -43,6 +43,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 803317,
+      "num": 803317,
+      "word": "彩票2.2亿",
+      "onboard_time": 1701956568,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 777650,
       "num": 777650,
       "word": "青岛震感",
@@ -75,12 +83,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 674950,
-      "num": 674950,
-      "word": "彩票2.2亿",
-      "onboard_time": 1701956568,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 612125,
+      "num": 612125,
+      "word": "迪丽热巴特意带了国旗",
+      "onboard_time": 1701965073,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 580072,
@@ -105,14 +113,6 @@
       "onboard_time": 1701961602,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 476504,
-      "num": 476504,
-      "word": "迪丽热巴特意带了国旗",
-      "onboard_time": 1701965073,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 404508,
@@ -163,19 +163,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 331118,
+      "num": 166063,
+      "word": "杨天真把易梦玲全挡住了",
+      "onboard_time": 1701953144,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 328567,
       "num": 166200,
       "word": "好怕谢娜的船翻了",
       "onboard_time": 1701944023,
       "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 321767,
-      "num": 166063,
-      "word": "杨天真把易梦玲全挡住了",
-      "onboard_time": 1701953144,
-      "rank": 37,
       "category": "作品衍生,时尚"
     },
     {
@@ -267,6 +267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169982,
+      "num": 133832,
+      "word": "歌手提醒非专业人士请勿轻易挑战E6高音",
+      "onboard_time": 1701966989,
+      "rank": 35,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 169154,
       "num": 165635,
       "word": "虞书欣亲杨天真",
@@ -283,6 +291,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 160901,
+      "num": 166251,
+      "word": "身体这4个部位不能太干净",
+      "onboard_time": 1701936815,
+      "rank": 32,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 158727,
       "num": 166423,
       "word": "知情人回应狗主人锁狗被疯狂攻击",
@@ -297,14 +313,6 @@
       "onboard_time": 1701957640,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142392,
-      "num": 166251,
-      "word": "身体这4个部位不能太干净",
-      "onboard_time": 1701936815,
-      "rank": 32,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 131419,
@@ -393,6 +401,14 @@
       "onboard_time": 1701955305,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 59580,
+      "num": 133046,
+      "word": "30秒学会慵懒鲨鱼夹",
+      "onboard_time": 1701964001,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 33465,
