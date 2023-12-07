@@ -1,0 +1,410 @@
+{
+  "runTime": 1701947781506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10335048,
+        "num": 10335048,
+        "word": "GQ的小船 尴尬",
+        "onboard_time": 1701942460,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 7885942,
+        "num": 7885942,
+        "word": "GQ红毯",
+        "onboard_time": 1701938256,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112761,
+        "num": 3627986,
+        "word": "古诗中雪天有满满的醉人意境",
+        "onboard_time": 1701935078,
+        "rank": 2,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 1978084,
+        "num": 1978084,
+        "word": "虞书欣亲杨天真",
+        "onboard_time": 1701946420,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 738719,
+        "num": 738719,
+        "word": "女生长期吃避孕药治痘致癫痫脑出血",
+        "onboard_time": 1701940603,
+        "rank": 4,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 511391,
+        "num": 511391,
+        "word": "男孩偷卖家中31斤金条变现565万",
+        "onboard_time": 1701936397,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216180,
+        "num": 471458,
+        "word": "小哥取快递遇3岁娃独自在家",
+        "onboard_time": 1701943123,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1366444,
+        "num": 469073,
+        "word": "好怕谢娜的船翻了",
+        "onboard_time": 1701944023,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 458622,
+        "num": 458622,
+        "word": "身体这4个部位不能太干净",
+        "onboard_time": 1701936815,
+        "rank": 8,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 324123,
+        "num": 407656,
+        "word": "家长称数百孩子为蛋仔派对充值490余万",
+        "onboard_time": 1701945643,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1314928,
+        "num": 405223,
+        "word": "GQ好多人鱼公主",
+        "onboard_time": 1701930632,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150728,
+        "num": 395080,
+        "word": "跑腿员爸爸撞坏顾客蛋糕买回给女儿庆生",
+        "onboard_time": 1701947439,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391295,
+        "num": 391295,
+        "word": "1米85视角下穿半身裙的我",
+        "onboard_time": 1701944023,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 935354,
+        "num": 391103,
+        "word": "杨紫 夜色玫瑰",
+        "onboard_time": 1701941146,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 309020,
+        "num": 390849,
+        "word": "江西省民政厅正在调查花10万中2.2亿",
+        "onboard_time": 1701924521,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286506,
+        "num": 390591,
+        "word": "小黄开播几分钟直播间被封",
+        "onboard_time": 1701930695,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 907161,
+        "num": 390363,
+        "word": "米卡GQ让你发疯你发癫",
+        "onboard_time": 1701928473,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260493,
+        "num": 389870,
+        "word": "蔚来高管怒怼李想",
+        "onboard_time": 1701946903,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246271,
+        "num": 389753,
+        "word": "吃辣和喝奶茶的都沉默了",
+        "onboard_time": 1701943482,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 896914,
+        "num": 389345,
+        "word": "GQ为什么没有主持人",
+        "onboard_time": 1701943544,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 349532,
+        "num": 388986,
+        "word": "英语成绩差 死磕这18张图",
+        "onboard_time": 1701938316,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191874,
+        "num": 388807,
+        "word": "女子产假结束前1天被通知离职",
+        "onboard_time": 1701939462,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1811240,
+        "num": 388419,
+        "word": "GQ连夜排查水道",
+        "onboard_time": 1701922417,
+        "rank": 22,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 170896,
+        "num": 387963,
+        "word": "笔记本最好不要一直充满电",
+        "onboard_time": 1701937361,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161949,
+        "num": 387807,
+        "word": "妈妈花409元给孩子自制校服款羽绒服",
+        "onboard_time": 1701945581,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868239,
+        "num": 387357,
+        "word": "李现你够疯",
+        "onboard_time": 1701944923,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160786,
+        "num": 387135,
+        "word": "俄罗斯将于2024年3月17日举行总统选举",
+        "onboard_time": 1701939037,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153738,
+        "num": 386702,
+        "word": "辣条凭什么能火20年",
+        "onboard_time": 1701943904,
+        "rank": 27,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 857995,
+        "num": 386549,
+        "word": "于适首套高定造型",
+        "onboard_time": 1701926254,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152018,
+        "num": 386303,
+        "word": "日食记 酸菜酱大骨",
+        "onboard_time": 1701947507,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 504323,
+        "num": 385992,
+        "word": "阿信 缺席就是认输了",
+        "onboard_time": 1701906811,
+        "rank": 30,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 852289,
+        "num": 385545,
+        "word": "GQ疯狂星期四",
+        "onboard_time": 1701931291,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 428433,
+        "num": 385459,
+        "word": "原来慈禧太后的寝宫那么小",
+        "onboard_time": 1701946972,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385162,
+        "num": 385162,
+        "word": "著名歌手唐磊谈五月天假唱风波",
+        "onboard_time": 1701920556,
+        "rank": 33,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 780201,
+        "num": 381827,
+        "word": "王一博出发图在床上",
+        "onboard_time": 1701939580,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70504,
+        "num": 379466,
+        "word": "消防员冲进火场徒手拎出喷火煤气罐",
+        "onboard_time": 1701942943,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377886,
+        "num": 377886,
+        "word": "迪丽热巴粉色云朵裙",
+        "onboard_time": 1701940181,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 593627,
+        "num": 371409,
+        "word": "曾舜晞银发",
+        "onboard_time": 1701920675,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 359941,
+        "num": 359941,
+        "word": "女友假装一个月褪一层皮",
+        "onboard_time": 1701944506,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131815,
+        "num": 344462,
+        "word": "超早产龙凤胎男婴4天夭折女婴心力衰竭",
+        "onboard_time": 1701939942,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565935,
+        "num": 344001,
+        "word": "易烊千玺辛爽 同船",
+        "onboard_time": 1701936815,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 342103,
+        "num": 342103,
+        "word": "老师我们家诗晴没怀孕",
+        "onboard_time": 1701941982,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127318,
+        "num": 340052,
+        "word": "UP官宣Ning离队",
+        "onboard_time": 1701944083,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 552480,
+        "num": 330046,
+        "word": "田曦薇鲨鱼公主",
+        "onboard_time": 1701945403,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121407,
+        "num": 317168,
+        "word": "网传男孩遭亲爸后妈虐待睡楼道",
+        "onboard_time": 1701931473,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112683,
+        "num": 311104,
+        "word": "表演艺术家李法曾去世",
+        "onboard_time": 1701947507,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511722,
+        "num": 303911,
+        "word": "杨天真GQ秒了",
+        "onboard_time": 1701934717,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111213,
+        "num": 293765,
+        "word": "一加和小米谁急了",
+        "onboard_time": 1701939942,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107002,
+        "num": 279473,
+        "word": "全职高手 柄图",
+        "onboard_time": 1701945822,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 511233,
+        "num": 272793,
+        "word": "白鹿曾舜晞演起来了",
+        "onboard_time": 1701947620,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见米歇尔和冯德莱恩#"
+    }
+  }
+}
