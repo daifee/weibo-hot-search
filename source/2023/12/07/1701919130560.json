@@ -1,0 +1,410 @@
+{
+  "runTime": 1701919130560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2281877,
+        "num": 2281877,
+        "word": "春晚回应吉祥物争议",
+        "onboard_time": 1701916173,
+        "rank": 0,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 2118080,
+        "num": 2118080,
+        "word": "丁程鑫回应",
+        "onboard_time": 1701915392,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156618,
+        "num": 1867895,
+        "word": "太空菜园收菜了航天员边摘边吃",
+        "onboard_time": 1701917432,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1815679,
+        "num": 1815679,
+        "word": "阿信 缺席就是认输了",
+        "onboard_time": 1701906811,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1287715,
+        "num": 1287715,
+        "word": "伯克利大学的死亡周",
+        "onboard_time": 1701911255,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1175179,
+        "num": 1175179,
+        "word": "老师我们家子涵怎么火了",
+        "onboard_time": 1701911255,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799821,
+        "num": 799821,
+        "word": "iPhone15价格跳水后销量霸榜前三",
+        "onboard_time": 1701915991,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 772999,
+        "num": 772999,
+        "word": "GQ明星工作室出图",
+        "onboard_time": 1701917672,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 765565,
+        "num": 765565,
+        "word": "何猷君从小吃鱼都是别人给挑刺",
+        "onboard_time": 1701911674,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651888,
+        "num": 651888,
+        "word": "若鉴定结果为真唱举报者要负责吗",
+        "onboard_time": 1701909457,
+        "rank": 9,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 620525,
+        "num": 620525,
+        "word": "2.2亿大奖彩票店刚开不到三个月",
+        "onboard_time": 1701915331,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447450,
+        "num": 447450,
+        "word": "周也公子也",
+        "onboard_time": 1701916592,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 416301,
+        "num": 416301,
+        "word": "谢娜不让女儿们看电子产品",
+        "onboard_time": 1701917372,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403162,
+        "num": 403162,
+        "word": "钢琴上的E6",
+        "onboard_time": 1701908614,
+        "rank": 13,
+        "category": "音乐,社会新闻"
+      },
+      {
+        "raw_hot": 402112,
+        "num": 402112,
+        "word": "阿信回应",
+        "onboard_time": 1701872745,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 355335,
+        "num": 355335,
+        "word": "英雄联盟 婕拉",
+        "onboard_time": 1701915272,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 355016,
+        "num": 355016,
+        "word": "朴宰范Jessi回应不和",
+        "onboard_time": 1701916892,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330466,
+        "num": 330466,
+        "word": "田馥甄回应五月天假唱风波",
+        "onboard_time": 1701858101,
+        "rank": 17,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 304668,
+        "num": 304668,
+        "word": "她拼命拍打车窗想叫醒沉睡车内儿子",
+        "onboard_time": 1701909156,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292210,
+        "num": 292210,
+        "word": "谷爱凌晋级世界杯决赛",
+        "onboard_time": 1701917611,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430969,
+        "num": 292202,
+        "word": "父亲骨灰被弄丢殡仪馆说给盒新的",
+        "onboard_time": 1701918090,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310345,
+        "num": 292145,
+        "word": "龙辰辰",
+        "onboard_time": 1701917672,
+        "rank": 21,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 291901,
+        "num": 291901,
+        "word": "阿信 每一声都来自我的嗓子",
+        "onboard_time": 1701873735,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 264236,
+        "num": 290660,
+        "word": "玲娜贝儿出差",
+        "onboard_time": 1701918753,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251620,
+        "num": 290620,
+        "word": "以为是烤地瓜结果是小狗",
+        "onboard_time": 1701917795,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290604,
+        "num": 290604,
+        "word": "房山季鸟猴",
+        "onboard_time": 1701906811,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 289889,
+        "num": 289889,
+        "word": "奚梦瑶你就宠他吧",
+        "onboard_time": 1701918153,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175797,
+        "num": 287218,
+        "word": "3岁幼儿寒风中大哭陌生奶爸接力上线",
+        "onboard_time": 1701916651,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286600,
+        "num": 286600,
+        "word": "宋江双开门",
+        "onboard_time": 1701912576,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62311,
+        "num": 275989,
+        "word": "被大自然的奇观惊艳到",
+        "onboard_time": 1701915392,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271013,
+        "num": 271013,
+        "word": "chatgpt总结阿信回应",
+        "onboard_time": 1701916953,
+        "rank": 30,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 227980,
+        "num": 227980,
+        "word": "小时候被性骚扰是女性共同的秘密",
+        "onboard_time": 1701918873,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227846,
+        "num": 227846,
+        "word": "工藤静香Blue Velvet",
+        "onboard_time": 1701912931,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225026,
+        "num": 225026,
+        "word": "兔子的舌头",
+        "onboard_time": 1701912873,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215791,
+        "num": 215791,
+        "word": "难哄 不行就他们四个吧",
+        "onboard_time": 1701874309,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208958,
+        "num": 208958,
+        "word": "挖到商陆误当人参吃了一口",
+        "onboard_time": 1701918210,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200356,
+        "num": 200356,
+        "word": "10拍E6",
+        "onboard_time": 1701917190,
+        "rank": 36,
+        "category": "音乐,社会新闻"
+      },
+      {
+        "raw_hot": 195555,
+        "num": 195555,
+        "word": "福克斯拒绝5000万年薪合同",
+        "onboard_time": 1701918993,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194775,
+        "num": 194775,
+        "word": "肖四来了",
+        "onboard_time": 1701913235,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193984,
+        "num": 193984,
+        "word": "米卡 奶爸造型",
+        "onboard_time": 1701918811,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185134,
+        "num": 185134,
+        "word": "吴磊赵今麦吻戏镜头",
+        "onboard_time": 1701919053,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184981,
+        "num": 184981,
+        "word": "举报五月天博主称把歌和人分开",
+        "onboard_time": 1701877300,
+        "rank": 41,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 179770,
+        "num": 179770,
+        "word": "在暴雪时分首支预告",
+        "onboard_time": 1701917910,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173995,
+        "num": 173995,
+        "word": "体面的离职报告",
+        "onboard_time": 1701915636,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173860,
+        "num": 173860,
+        "word": "魏大勋GQ盛典townwalk",
+        "onboard_time": 1701910178,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172792,
+        "num": 172792,
+        "word": "周深曾直接拒绝演唱现场放人声伴奏",
+        "onboard_time": 1701904042,
+        "rank": 45,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 160553,
+        "num": 160553,
+        "word": "A股",
+        "onboard_time": 1701914914,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146613,
+        "num": 146613,
+        "word": "女兵应征有哪些要求",
+        "onboard_time": 1701918090,
+        "rank": 47,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 145040,
+        "num": 145040,
+        "word": "大雪",
+        "onboard_time": 1701904945,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138830,
+        "num": 138830,
+        "word": "看到人 低头玩手机",
+        "onboard_time": 1701918633,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快信息化服务普及缩小数字鸿沟#"
+    }
+  }
+}

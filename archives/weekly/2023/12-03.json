@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701916880119,
+  "endTime": 1701919130560,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -337,6 +337,14 @@
       "onboard_time": 1701849216,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2281877,
+      "num": 2281877,
+      "word": "春晚回应吉祥物争议",
+      "onboard_time": 1701916173,
+      "rank": 48,
+      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 2238841,
@@ -931,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1175179,
+      "num": 1175179,
+      "word": "老师我们家子涵怎么火了",
+      "onboard_time": 1701911255,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1173094,
       "num": 1173094,
       "word": "亿万富豪被拐儿子将回归原生家庭",
@@ -993,14 +1009,6 @@
       "onboard_time": 1701677496,
       "rank": 6,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 1091748,
-      "num": 1091748,
-      "word": "春晚回应吉祥物争议",
-      "onboard_time": 1701916173,
-      "rank": 48,
-      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 1085021,
@@ -1185,14 +1193,6 @@
       "onboard_time": 1701655592,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 936570,
-      "num": 936570,
-      "word": "老师我们家子涵怎么火了",
-      "onboard_time": 1701911255,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 932134,
@@ -1403,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 799821,
+      "num": 799821,
+      "word": "iPhone15价格跳水后销量霸榜前三",
+      "onboard_time": 1701915991,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 785016,
       "num": 785016,
       "word": "他想避世她想入世",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1701560301,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772999,
+      "num": 772999,
+      "word": "GQ明星工作室出图",
+      "onboard_time": 1701917672,
+      "rank": 7,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 771539,
@@ -3027,20 +3043,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449738,
-      "num": 449738,
-      "word": "iPhone15价格跳水后销量霸榜前三",
-      "onboard_time": 1701915991,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 448950,
       "num": 448950,
       "word": "父母的过度干涉 潜意识嫉妒",
       "onboard_time": 1701824200,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 447450,
+      "num": 447450,
+      "word": "周也公子也",
+      "onboard_time": 1701916592,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 446410,
@@ -3227,6 +3243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430969,
+      "num": 292202,
+      "word": "父亲骨灰被弄丢殡仪馆说给盒新的",
+      "onboard_time": 1701918090,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429983,
       "num": 429983,
       "word": "玲花还是这么飒 曾毅也做了医美",
@@ -3401,6 +3425,14 @@
       "onboard_time": 1701836137,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416301,
+      "num": 416301,
+      "word": "谢娜不让女儿们看电子产品",
+      "onboard_time": 1701917372,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 415498,
@@ -4115,6 +4147,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 355016,
+      "num": 355016,
+      "word": "朴宰范Jessi回应不和",
+      "onboard_time": 1701916892,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354200,
       "num": 354200,
       "word": "烟花美甲",
@@ -4771,6 +4811,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 310345,
+      "num": 292145,
+      "word": "龙辰辰",
+      "onboard_time": 1701917672,
+      "rank": 21,
+      "category": "综艺,社会新闻"
+    },
+    {
       "raw_hot": 310322,
       "num": 310322,
       "word": "菲律宾发生7.6级地震",
@@ -5203,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292210,
+      "num": 292210,
+      "word": "谷爱凌晋级世界杯决赛",
+      "onboard_time": 1701917611,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291910,
       "num": 291910,
       "word": "熬夜可能导致白头发提前出现",
@@ -5289,6 +5345,14 @@
       "onboard_time": 1701761016,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289889,
+      "num": 289889,
+      "word": "奚梦瑶你就宠他吧",
+      "onboard_time": 1701918153,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 289153,
@@ -5683,6 +5747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271013,
+      "num": 271013,
+      "word": "chatgpt总结阿信回应",
+      "onboard_time": 1701916953,
+      "rank": 30,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 270741,
       "num": 270741,
       "word": "妻子把儿子包成花束去迎接退伍丈夫",
@@ -5793,6 +5865,14 @@
       "onboard_time": 1701871000,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 264236,
+      "num": 290660,
+      "word": "玲娜贝儿出差",
+      "onboard_time": 1701918753,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 263982,
@@ -6033,6 +6113,14 @@
       "onboard_time": 1701611082,
       "rank": 23,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 251620,
+      "num": 290620,
+      "word": "以为是烤地瓜结果是小狗",
+      "onboard_time": 1701917795,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 251595,
@@ -6537,6 +6625,14 @@
       "onboard_time": 1701597394,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227980,
+      "num": 227980,
+      "word": "小时候被性骚扰是女性共同的秘密",
+      "onboard_time": 1701918873,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 227907,
@@ -7155,6 +7251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208958,
+      "num": 208958,
+      "word": "挖到商陆误当人参吃了一口",
+      "onboard_time": 1701918210,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208541,
       "num": 208541,
       "word": "许光汉扫楼 听取老公声一片",
@@ -7347,14 +7451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 204171,
-      "num": 204171,
-      "word": "周也公子也",
-      "onboard_time": 1701916592,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 204045,
       "num": 151933,
       "word": "任如意爆改人生导师",
@@ -7513,6 +7609,14 @@
       "onboard_time": 1701558439,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200356,
+      "num": 200356,
+      "word": "10拍E6",
+      "onboard_time": 1701917190,
+      "rank": 36,
+      "category": "音乐,社会新闻"
     },
     {
       "raw_hot": 199840,
@@ -7715,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195555,
+      "num": 195555,
+      "word": "福克斯拒绝5000万年薪合同",
+      "onboard_time": 1701918993,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195377,
       "num": 195377,
       "word": "张艺兴新歌",
@@ -7785,6 +7897,14 @@
       "onboard_time": 1701645323,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193984,
+      "num": 193984,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193981,
@@ -8179,6 +8299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185134,
+      "num": 185134,
+      "word": "吴磊赵今麦吻戏镜头",
+      "onboard_time": 1701919053,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184781,
       "num": 184781,
       "word": "五月天被质疑假唱有四个问题待厘清",
@@ -8355,6 +8483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179770,
+      "num": 179770,
+      "word": "在暴雪时分首支预告",
+      "onboard_time": 1701917910,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179391,
       "num": 179391,
       "word": "轻语",
@@ -8425,6 +8561,14 @@
       "onboard_time": 1701703954,
       "rank": 44,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 175797,
+      "num": 287218,
+      "word": "3岁幼儿寒风中大哭陌生奶爸接力上线",
+      "onboard_time": 1701916651,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175428,
@@ -9139,6 +9283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156618,
+      "num": 1867895,
+      "word": "太空菜园收菜了航天员边摘边吃",
+      "onboard_time": 1701917432,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156165,
       "num": 156165,
       "word": "周政 纯爱战狼",
@@ -9475,6 +9627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 146613,
+      "num": 146613,
+      "word": "女兵应征有哪些要求",
+      "onboard_time": 1701918090,
+      "rank": 47,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 146427,
       "num": 146427,
       "word": "因为一碗速食面被爸封我为小厨神",
@@ -9747,6 +9907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138830,
+      "num": 138830,
+      "word": "看到人 低头玩手机",
+      "onboard_time": 1701918633,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138680,
       "num": 138680,
       "word": "东北小孩 玩手绢",
@@ -9769,14 +9937,6 @@
       "onboard_time": 1701672757,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 138039,
-      "num": 138039,
-      "word": "3岁幼儿寒风中大哭陌生奶爸接力上线",
-      "onboard_time": 1701916651,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137970,
@@ -10971,6 +11131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62311,
+      "num": 309752,
+      "word": "被大自然的奇观惊艳到",
+      "onboard_time": 1701915392,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61817,
       "num": 61817,
       "word": "官方通报7旬老人被收走1吨煤",
@@ -11081,14 +11249,6 @@
       "onboard_time": 1701608806,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44798,
-      "num": 309752,
-      "word": "被大自然的奇观惊艳到",
-      "onboard_time": 1701915392,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44405,
