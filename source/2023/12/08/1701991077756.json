@@ -1,0 +1,410 @@
+{
+  "runTime": 1701991077756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 819874,
+        "num": 819874,
+        "word": "彩票2.2亿",
+        "onboard_time": 1701956568,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617648,
+        "num": 617648,
+        "word": "山东震感",
+        "onboard_time": 1701962510,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21735,
+        "num": 487565,
+        "word": "滚滚江水见证生态转型发展之路",
+        "onboard_time": 1701954770,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379219,
+        "num": 379219,
+        "word": "万达拟出售一二线城市万达广场",
+        "onboard_time": 1701982274,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 367452,
+        "num": 367452,
+        "word": "GQ的小船 尴尬",
+        "onboard_time": 1701942460,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 291125,
+        "num": 291125,
+        "word": "杨幂晒了三张小时候照片",
+        "onboard_time": 1701969143,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244164,
+        "num": 244164,
+        "word": "睡眠真的超级重要",
+        "onboard_time": 1701961602,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247660,
+        "num": 227007,
+        "word": "杨天真把易梦玲全挡住了",
+        "onboard_time": 1701953144,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208568,
+        "num": 208568,
+        "word": "迪丽热巴特意带了国旗",
+        "onboard_time": 1701965073,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166051,
+        "num": 166051,
+        "word": "连云港地震",
+        "onboard_time": 1701962025,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401021,
+        "num": 162894,
+        "word": "毛晓彤鼻子",
+        "onboard_time": 1701952238,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274945,
+        "num": 160752,
+        "word": "南京中医药大学回应老师课堂讲解不雅课件",
+        "onboard_time": 1701953201,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241262,
+        "num": 156395,
+        "word": "这视角好像和魏大勋谈了",
+        "onboard_time": 1701990144,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229852,
+        "num": 153783,
+        "word": "虞书欣 网红妆",
+        "onboard_time": 1701962805,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152726,
+        "num": 152726,
+        "word": "男孩偷卖家中31斤金条变现565万",
+        "onboard_time": 1701936397,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126085,
+        "num": 126085,
+        "word": "一天一个苹果 兽医远离我",
+        "onboard_time": 1701955664,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189612,
+        "num": 123874,
+        "word": "张凌赫眼神就没离开过白鹿",
+        "onboard_time": 1701954280,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121393,
+        "num": 121393,
+        "word": "胡锡进谈彩民花10万元中2.2亿大奖",
+        "onboard_time": 1701971179,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94150,
+        "num": 94150,
+        "word": "考研才是年轻人唯一出路吗",
+        "onboard_time": 1701961004,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174712,
+        "num": 94120,
+        "word": "王一博 快划",
+        "onboard_time": 1701960282,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1103523,
+        "num": 94090,
+        "word": "五月天巴黎演唱会",
+        "onboard_time": 1701961905,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 724863,
+        "num": 94077,
+        "word": "律师称若五月天为真唱举报者无需担责",
+        "onboard_time": 1701977235,
+        "rank": 21,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 138107,
+        "num": 94039,
+        "word": "原来慈禧太后的寝宫那么小",
+        "onboard_time": 1701946972,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122987,
+        "num": 94001,
+        "word": "歌手提醒非专业人士请勿轻易挑战E6高音",
+        "onboard_time": 1701966989,
+        "rank": 23,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 93993,
+        "num": 93993,
+        "word": "2.2亿中奖者是倍投陷阱下的幸存者",
+        "onboard_time": 1701957583,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 121993,
+        "num": 93352,
+        "word": "陈都灵 白月光回国",
+        "onboard_time": 1701950861,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97607,
+        "num": 91754,
+        "word": "唐磊曝曾有知名乐队乐手商演假弹",
+        "onboard_time": 1701984974,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89714,
+        "num": 89714,
+        "word": "肖战指导英文回击法国球员",
+        "onboard_time": 1701951640,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113859,
+        "num": 89516,
+        "word": "杨幂倪妮 开嗑了",
+        "onboard_time": 1701948819,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70043,
+        "num": 89204,
+        "word": "这几种刷手机的姿势都不对",
+        "onboard_time": 1701986054,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89001,
+        "num": 89001,
+        "word": "感觉大胖橘要把椅子开走",
+        "onboard_time": 1701979513,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113178,
+        "num": 88975,
+        "word": "杨天真拍的李现生图",
+        "onboard_time": 1701989481,
+        "rank": 31,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 88569,
+        "num": 88569,
+        "word": "连云港3.8级地震",
+        "onboard_time": 1701965254,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76634,
+        "num": 76634,
+        "word": "青岛震感",
+        "onboard_time": 1701962676,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104058,
+        "num": 75620,
+        "word": "GQ红毯",
+        "onboard_time": 1701938256,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 78258,
+        "num": 74736,
+        "word": "易烊千玺手拿DV走红毯",
+        "onboard_time": 1701987677,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73061,
+        "num": 73061,
+        "word": "女生长期吃避孕药治痘致癫痫脑出血",
+        "onboard_time": 1701940603,
+        "rank": 36,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 86324,
+        "num": 69684,
+        "word": "杨紫GQ红毯生图",
+        "onboard_time": 1701967348,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 63692,
+        "num": 63692,
+        "word": "身体这4个部位不能太干净",
+        "onboard_time": 1701936815,
+        "rank": 38,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 62995,
+        "num": 62995,
+        "word": "王楚钦 投诉对我没任何影响",
+        "onboard_time": 1701956084,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83706,
+        "num": 62757,
+        "word": "倪妮 欢迎来参加我们的婚礼",
+        "onboard_time": 1701953201,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70077,
+        "num": 62588,
+        "word": "王安宇胡先煦担心迪丽热巴",
+        "onboard_time": 1701972916,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69937,
+        "num": 62103,
+        "word": "很想很想你",
+        "onboard_time": 1701990385,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76273,
+        "num": 61825,
+        "word": "好怕谢娜的船翻了",
+        "onboard_time": 1701944023,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 68764,
+        "num": 61644,
+        "word": "王鹤棣 无人机表演",
+        "onboard_time": 1701953020,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61473,
+        "num": 61473,
+        "word": "江西省民政厅正在调查花10万中2.2亿",
+        "onboard_time": 1701924521,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69164,
+        "num": 61439,
+        "word": "娜扎戚薇周也没去GQ的原因",
+        "onboard_time": 1701961905,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60748,
+        "num": 60748,
+        "word": "女友假装一个月褪一层皮",
+        "onboard_time": 1701944506,
+        "rank": 47,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 55961,
+        "num": 55961,
+        "word": "吉林出现大面积雾凇",
+        "onboard_time": 1701958970,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 52783,
+        "num": 52783,
+        "word": "Apple结婚",
+        "onboard_time": 1701968424,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见米歇尔和冯德莱恩#"
+    }
+  }
+}
