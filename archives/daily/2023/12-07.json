@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701927239470,
+  "endTime": 1701930212317,
   "band_list": [
     {
       "raw_hot": 3590632,
@@ -83,7 +83,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1346365,
+      "raw_hot": 1573782,
       "num": 1343843,
       "word": "江西省民政厅正在调查花10万中2.2亿",
       "onboard_time": 1701924521,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1340047,
-      "num": 1340047,
+      "raw_hot": 1568515,
+      "num": 1568515,
       "word": "新加坡和中国即将免签",
       "onboard_time": 1701924098,
       "rank": 5,
@@ -187,12 +187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 789249,
+      "num": 789249,
+      "word": "迪丽热巴王后服",
+      "onboard_time": 1701929735,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 772999,
       "num": 772999,
       "word": "GQ明星工作室出图",
       "onboard_time": 1701917672,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 732873,
+      "num": 273491,
+      "word": "白敬亭 猫男",
+      "onboard_time": 1701927334,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 725620,
@@ -259,11 +275,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557306,
+      "num": 492869,
+      "word": "田曦薇金发人鱼公主",
+      "onboard_time": 1701926492,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 554075,
       "num": 554075,
       "word": "彩票",
       "onboard_time": 1701908915,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549525,
+      "num": 272528,
+      "word": "女房东被租客杀猪盘28天骗走407万",
+      "onboard_time": 1701928412,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -273,14 +305,6 @@
       "onboard_time": 1701904945,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 514971,
-      "num": 492869,
-      "word": "田曦薇金发人鱼公主",
-      "onboard_time": 1701926492,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 508926,
@@ -307,12 +331,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485984,
+      "num": 336764,
+      "word": "米卡GQ让你发疯你发癫",
+      "onboard_time": 1701928473,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 476285,
       "num": 476285,
       "word": "公司辞退提前吃午饭员工被判赔2万",
       "onboard_time": 1701898273,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475275,
+      "num": 268661,
+      "word": "谢娜恋综官宣",
+      "onboard_time": 1701928716,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 449228,
+      "num": 336375,
+      "word": "杨幂在超市拍出发图",
+      "onboard_time": 1701929614,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 437208,
+      "num": 336049,
+      "word": "赵露思钻石小黑裙",
+      "onboard_time": 1701926675,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 434205,
@@ -395,6 +451,14 @@
       "category": "综艺,社会新闻"
     },
     {
+      "raw_hot": 376109,
+      "num": 260851,
+      "word": "秦岚亲了辛芷蕾",
+      "onboard_time": 1701929494,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362341,
       "num": 362341,
       "word": "湖人被禁止穿黑色球衣",
@@ -417,6 +481,14 @@
       "onboard_time": 1701916892,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354457,
+      "num": 260292,
+      "word": "张凌赫 发疯蓄力中",
+      "onboard_time": 1701928835,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 353447,
@@ -449,6 +521,14 @@
       "onboard_time": 1701925477,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337637,
+      "num": 337637,
+      "word": "S9冠军FPX全员离队",
+      "onboard_time": 1701925716,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 331011,
@@ -539,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304282,
-      "num": 263690,
-      "word": "赵露思钻石小黑裙",
-      "onboard_time": 1701926675,
-      "rank": 21,
-      "category": "作品衍生,时尚"
+      "raw_hot": 302930,
+      "num": 254365,
+      "word": "一闪一闪亮星星 下雪场",
+      "onboard_time": 1701927756,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 301185,
@@ -585,6 +665,22 @@
       "onboard_time": 1701860498,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 297156,
+      "num": 252699,
+      "word": "张家妍人设",
+      "onboard_time": 1701929434,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 292656,
+      "num": 292656,
+      "word": "光与夜之恋 卡面",
+      "onboard_time": 1701929254,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 292210,
@@ -747,6 +843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 247572,
+      "num": 247572,
+      "word": "中国福彩客服回应中奖2.2亿无内幕",
+      "onboard_time": 1701929614,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246948,
       "num": 253762,
       "word": "苹果明年初将推出两款iPadAir",
@@ -761,6 +865,14 @@
       "onboard_time": 1701904704,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245977,
+      "num": 245977,
+      "word": "五条悟爆诞",
+      "onboard_time": 1701926492,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 244440,
@@ -835,14 +947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224739,
-      "num": 224739,
-      "word": "S9冠军FPX全员离队",
-      "onboard_time": 1701925716,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 222634,
       "num": 222634,
       "word": "73万元手表4个月就起雾",
@@ -897,6 +1001,14 @@
       "onboard_time": 1701926254,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 214471,
+      "num": 214471,
+      "word": "RNG 种地",
+      "onboard_time": 1701929854,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 212752,
@@ -1019,12 +1131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197294,
-      "num": 197294,
-      "word": "五条悟爆诞",
-      "onboard_time": 1701926492,
-      "rank": 43,
-      "category": "动漫"
+      "raw_hot": 197322,
+      "num": 197322,
+      "word": "快船复仇掘金",
+      "onboard_time": 1701929494,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 196170,
@@ -1043,11 +1155,27 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 192534,
+      "num": 192534,
+      "word": "白鹿对张真源的评价",
+      "onboard_time": 1701929854,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192292,
       "num": 192292,
       "word": "阿斯顿维拉1比0曼城",
       "onboard_time": 1701904704,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188913,
+      "num": 188913,
+      "word": "马龙连得11分",
+      "onboard_time": 1701927814,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1065,6 +1193,14 @@
       "onboard_time": 1701907780,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 186968,
+      "num": 186968,
+      "word": "库里31分",
+      "onboard_time": 1701929973,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 186092,
@@ -1161,6 +1297,14 @@
       "onboard_time": 1701905247,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 161278,
+      "num": 161278,
+      "word": "八段锦每个动作都有讲究",
+      "onboard_time": 1701929794,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 158247,

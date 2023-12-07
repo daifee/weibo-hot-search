@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701927239470,
+  "endTime": 1701930212317,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -835,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1573782,
+      "num": 1343843,
+      "word": "江西省民政厅正在调查花10万中2.2亿",
+      "onboard_time": 1701924521,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1568515,
+      "num": 1568515,
+      "word": "新加坡和中国即将免签",
+      "onboard_time": 1701924098,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1562201,
       "num": 1562201,
       "word": "加拿大超级猪入侵美国",
@@ -1043,28 +1059,12 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 1346365,
-      "num": 1343843,
-      "word": "江西省民政厅正在调查花10万中2.2亿",
-      "onboard_time": 1701924521,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1343716,
       "num": 1343716,
       "word": "龙丹妮 军大衣",
       "onboard_time": 1701769968,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1340047,
-      "num": 1340047,
-      "word": "新加坡和中国即将免签",
-      "onboard_time": 1701924098,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1335660,
@@ -1947,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 789249,
+      "num": 789249,
+      "word": "迪丽热巴王后服",
+      "onboard_time": 1701929735,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 789048,
       "num": 789048,
       "word": "疑似杨鸣老婆发文",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1701702337,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 732873,
+      "num": 273491,
+      "word": "白敬亭 猫男",
+      "onboard_time": 1701927334,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 732394,
@@ -3107,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557306,
+      "num": 492869,
+      "word": "田曦薇金发人鱼公主",
+      "onboard_time": 1701926492,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 554805,
       "num": 554805,
       "word": "甘肃发现超亿吨级整装大油田",
@@ -3193,6 +3217,14 @@
       "onboard_time": 1701663283,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 549525,
+      "num": 272528,
+      "word": "女房东被租客杀猪盘28天骗走407万",
+      "onboard_time": 1701928412,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547755,
@@ -3523,14 +3555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 514971,
-      "num": 492869,
-      "word": "田曦薇金发人鱼公主",
-      "onboard_time": 1701926492,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 514965,
       "num": 514965,
       "word": "王俊凯 迪奥",
@@ -3763,6 +3787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485984,
+      "num": 336764,
+      "word": "米卡GQ让你发疯你发癫",
+      "onboard_time": 1701928473,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 485569,
       "num": 485569,
       "word": "檀健次周也嘴巴都亲红了",
@@ -3889,6 +3921,14 @@
       "onboard_time": 1701898273,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475275,
+      "num": 268661,
+      "word": "谢娜恋综官宣",
+      "onboard_time": 1701928716,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 474361,
@@ -4187,6 +4227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449228,
+      "num": 336375,
+      "word": "杨幂在超市拍出发图",
+      "onboard_time": 1701929614,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 448950,
       "num": 448950,
       "word": "父母的过度干涉 潜意识嫉妒",
@@ -4329,6 +4377,14 @@
       "onboard_time": 1701649299,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437208,
+      "num": 336049,
+      "word": "赵露思钻石小黑裙",
+      "onboard_time": 1701926675,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 436853,
@@ -5443,6 +5499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376109,
+      "num": 260851,
+      "word": "秦岚亲了辛芷蕾",
+      "onboard_time": 1701929494,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375598,
       "num": 375598,
       "word": "漠河 红绿极光",
@@ -5859,6 +5923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354457,
+      "num": 260292,
+      "word": "张凌赫 发疯蓄力中",
+      "onboard_time": 1701928835,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 354200,
       "num": 354200,
       "word": "烟花美甲",
@@ -6145,6 +6217,14 @@
       "onboard_time": 1701925477,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337637,
+      "num": 337637,
+      "word": "S9冠军FPX全员离队",
+      "onboard_time": 1701925716,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 337524,
@@ -6995,14 +7075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304282,
-      "num": 263690,
-      "word": "赵露思钻石小黑裙",
-      "onboard_time": 1701926675,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 304076,
       "num": 291431,
       "word": "原神 赛博案底",
@@ -7219,6 +7291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297156,
+      "num": 252699,
+      "word": "张家妍人设",
+      "onboard_time": 1701929434,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296931,
       "num": 290211,
       "word": "王嘉尔补偿力度",
@@ -7393,6 +7473,14 @@
       "onboard_time": 1701602974,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292656,
+      "num": 292656,
+      "word": "光与夜之恋 卡面",
+      "onboard_time": 1701929254,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 292210,
@@ -8835,6 +8923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 247572,
+      "num": 247572,
+      "word": "中国福彩客服回应中奖2.2亿无内幕",
+      "onboard_time": 1701929614,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247426,
       "num": 237184,
       "word": "剖腹产切开7层组织才能看见宝宝",
@@ -8913,6 +9009,14 @@
       "onboard_time": 1701788980,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245977,
+      "num": 245977,
+      "word": "五条悟爆诞",
+      "onboard_time": 1701926492,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 245730,
@@ -9707,14 +9811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 224739,
-      "num": 224739,
-      "word": "S9冠军FPX全员离队",
-      "onboard_time": 1701925716,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 224446,
       "num": 224446,
       "word": "圆肩驼背终于有救了",
@@ -10209,6 +10305,14 @@
       "onboard_time": 1701489512,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214471,
+      "num": 214471,
+      "word": "RNG 种地",
+      "onboard_time": 1701929854,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 214296,
@@ -11235,6 +11339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197322,
+      "num": 197322,
+      "word": "快船复仇掘金",
+      "onboard_time": 1701929494,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197310,
       "num": 196852,
       "word": "宋雨琦追星成功詹姆斯",
@@ -11249,14 +11361,6 @@
       "onboard_time": 1701581129,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197294,
-      "num": 197294,
-      "word": "五条悟爆诞",
-      "onboard_time": 1701926492,
-      "rank": 43,
-      "category": "动漫"
     },
     {
       "raw_hot": 197227,
@@ -11611,6 +11715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192534,
+      "num": 192534,
+      "word": "白鹿对张真源的评价",
+      "onboard_time": 1701929854,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192522,
       "num": 192522,
       "word": "刘宇宁 视界大会彩排直拍",
@@ -11883,6 +11995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188913,
+      "num": 188913,
+      "word": "马龙连得11分",
+      "onboard_time": 1701927814,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188457,
       "num": 188457,
       "word": "我每周七天里最爱的短短一瞬间",
@@ -12033,6 +12153,14 @@
       "onboard_time": 1701864397,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186968,
+      "num": 186968,
+      "word": "库里31分",
+      "onboard_time": 1701929973,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 186774,
@@ -13385,6 +13513,14 @@
       "onboard_time": 1701646166,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161278,
+      "num": 161278,
+      "word": "八段锦每个动作都有讲究",
+      "onboard_time": 1701929794,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 161264,
