@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701973363203,
+  "endTime": 1701974181338,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -18091,6 +18091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57943,
+      "num": 39663,
+      "word": "王安宇胡先煦担心迪丽热巴",
+      "onboard_time": 1701972916,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57927,
       "num": 57927,
       "word": "当年的TVB回来了吗",
@@ -18201,14 +18209,6 @@
       "onboard_time": 1701622407,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 48298,
-      "num": 39663,
-      "word": "王安宇胡先煦担心迪丽热巴",
-      "onboard_time": 1701972916,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 46749,
