@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/03 00:21:00 ~ 2023/12/08 03:14:53
+本榜单时间：2023/12/03 00:21:00 ~ 2023/12/08 03:34:14
 </p>
 </blockquote>
 <p>
@@ -789,6 +789,12 @@ GQ疯狂星期四（热度：1324981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E7%9B%B4%E6%92%AD%23" target="weibo">
+五月天凌晨三点直播（热度：1295374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%BC%E7%A5%9E%E5%B0%B1%E6%B2%A1%E7%A6%BB%E5%BC%80%E8%BF%87%E7%99%BD%E9%B9%BF%23" target="weibo">
 张凌赫眼神就没离开过白鹿（热度：1275504）
 </a>
@@ -845,12 +851,6 @@ E6（热度：1247213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%B7%B4%E9%BB%8E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 五月天巴黎演唱会（热度：1244474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E7%9B%B4%E6%92%AD%23" target="weibo">
-五月天凌晨三点直播（热度：1224357）
 </a>
 </li>
 
@@ -8739,6 +8739,12 @@ AG小组第一出线（热度：142198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E8%8B%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E4%B8%BA%E7%9C%9F%E5%94%B1%E4%B8%BE%E6%8A%A5%E8%80%85%E6%97%A0%E9%9C%80%E6%8B%85%E8%B4%A3%23" target="weibo">
+律师称若五月天为真唱举报者无需担责（热度：140945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%AF%8C%E5%8B%92%E5%A7%86%23" target="weibo">
 利物浦vs富勒姆（热度：140790）
 </a>
@@ -10109,6 +10115,12 @@ BABYMONSTER MV reaction（热度：66581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E6%8E%8C%E7%9A%84%E6%98%AF%E4%B8%80%E4%BD%8D%E5%BC%A0%E5%A7%93%E7%9A%84%E5%85%88%E7%94%9F%23" target="weibo">
 领掌的是一位张姓的先生（热度：24903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E5%A5%BD%E5%B8%85%23" target="weibo">
+宋威龙好帅（热度：22755）
 </a>
 </li>
 

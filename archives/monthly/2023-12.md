@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/08 03:14:53
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/08 03:34:14
 </p>
 </blockquote>
 <p>
@@ -963,6 +963,12 @@ GQ疯狂星期四（热度：1324981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E7%9B%B4%E6%92%AD%23" target="weibo">
+五月天凌晨三点直播（热度：1295374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%8A%A5%E5%90%8D%E5%AE%B6%E9%95%BF%E4%BC%9A%E8%A1%A8%E6%BC%94%E8%90%BD%E9%80%89%E4%BA%86%23" target="weibo">
 谢娜报名家长会表演落选了（热度：1292092）
 </a>
@@ -1037,12 +1043,6 @@ E6（热度：1247213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%B7%B4%E9%BB%8E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 五月天巴黎演唱会（热度：1244474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E7%9B%B4%E6%92%AD%23" target="weibo">
-五月天凌晨三点直播（热度：1224357）
 </a>
 </li>
 
