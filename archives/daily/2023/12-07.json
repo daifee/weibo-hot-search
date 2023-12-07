@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701952433208,
+  "endTime": 1701953412779,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -123,6 +123,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 2061621,
+      "num": 2061621,
+      "word": "毛晓彤鼻子",
+      "onboard_time": 1701952238,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1978175,
       "num": 1978084,
       "word": "虞书欣亲杨天真",
@@ -211,8 +219,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1334147,
-      "num": 1334147,
+      "raw_hot": 1445209,
+      "num": 1445209,
       "word": "13岁男孩班内遭霸凌濒临死亡",
       "onboard_time": 1701949240,
       "rank": 4,
@@ -347,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1019293,
+      "num": 1019293,
+      "word": "陈都灵 白月光回国",
+      "onboard_time": 1701950861,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 987259,
       "num": 987259,
       "word": "五月天凌晨三点直播",
@@ -393,14 +409,6 @@
       "onboard_time": 1701915991,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 917743,
-      "num": 354446,
-      "word": "陈都灵 白月光回国",
-      "onboard_time": 1701950861,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 909425,
@@ -451,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 783908,
+      "num": 317275,
+      "word": "杨紫范丞丞 手机壳",
+      "onboard_time": 1701951640,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 725620,
       "num": 725620,
       "word": "医生点名3类人睡前喝水",
@@ -489,6 +505,14 @@
       "onboard_time": 1701922294,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 658549,
+      "num": 316338,
+      "word": "GQ内场",
+      "onboard_time": 1701951761,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 638360,
@@ -587,12 +611,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 586077,
-      "num": 239491,
-      "word": "杨紫范丞丞 手机壳",
-      "onboard_time": 1701951640,
-      "rank": 25,
-      "category": "作品衍生,时尚"
+      "raw_hot": 587041,
+      "num": 314511,
+      "word": "景甜白得发光",
+      "onboard_time": 1701951400,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 575881,
@@ -608,6 +632,14 @@
       "word": "白敬亭扒拉气球",
       "onboard_time": 1701950861,
       "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 566653,
+      "num": 312314,
+      "word": "杨天真把易梦玲全挡住了",
+      "onboard_time": 1701953144,
+      "rank": 27,
       "category": "作品衍生,时尚"
     },
     {
@@ -659,14 +691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 548635,
-      "num": 236375,
-      "word": "毛晓彤鼻子",
-      "onboard_time": 1701952238,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 545281,
       "num": 545281,
       "word": "大雪",
@@ -675,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 527441,
-      "num": 228459,
-      "word": "GQ内场",
-      "onboard_time": 1701951761,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 537919,
+      "num": 283391,
+      "word": "王鹤棣 无人机表演",
+      "onboard_time": 1701953020,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 523311,
@@ -739,16 +763,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491034,
-      "num": 227129,
-      "word": "景甜白得发光",
-      "onboard_time": 1701951400,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 480461,
-      "num": 225084,
+      "num": 231112,
       "word": "GQ灯光 受害人",
       "onboard_time": 1701950919,
       "rank": 35,
@@ -769,6 +785,14 @@
       "onboard_time": 1701928716,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466190,
+      "num": 466190,
+      "word": "仍有人每天戴N95口罩测抗原",
+      "onboard_time": 1701949659,
+      "rank": 23,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 456609,
@@ -795,12 +819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451120,
+      "num": 451120,
+      "word": "王楚钦孙颖莎11比1",
+      "onboard_time": 1701952181,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443817,
       "num": 439560,
       "word": "女友假装一个月褪一层皮",
       "onboard_time": 1701944506,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 440818,
+      "num": 216021,
+      "word": "倪妮 欢迎来参加我们的婚礼",
+      "onboard_time": 1701953201,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 437208,
@@ -825,6 +865,14 @@
       "onboard_time": 1701929614,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420936,
+      "num": 203792,
+      "word": "张若昀牵狗",
+      "onboard_time": 1701952601,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 419326,
@@ -1035,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345688,
+      "num": 345688,
+      "word": "莎头 稳稳的幸福",
+      "onboard_time": 1701952059,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338092,
       "num": 338092,
       "word": "上海文旅局组织专家评审判定五月天事件",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1701912576,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314037,
+      "num": 314037,
+      "word": "江西2.2亿大奖诞生门店店门紧闭休息中",
+      "onboard_time": 1701952000,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311327,
@@ -1321,14 +1385,6 @@
       "onboard_time": 1701924399,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 278576,
-      "num": 278576,
-      "word": "仍有人每天戴N95口罩测抗原",
-      "onboard_time": 1701949659,
-      "rank": 23,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 274736,
@@ -1603,6 +1659,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 228038,
+      "num": 228038,
+      "word": "头发太长会和身体抢营养吗",
+      "onboard_time": 1701948882,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 225846,
       "num": 445401,
       "word": "一加和小米谁急了",
@@ -1691,14 +1755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212941,
-      "num": 212941,
-      "word": "莎头 稳稳的幸福",
-      "onboard_time": 1701952059,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212752,
       "num": 212752,
       "word": "刀郎暂时停更",
@@ -1761,14 +1817,6 @@
       "onboard_time": 1701939521,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 208500,
-      "num": 208500,
-      "word": "王楚钦孙颖莎11比1",
-      "onboard_time": 1701952181,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 206596,
@@ -1955,14 +2003,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 187224,
-      "num": 187224,
-      "word": "头发太长会和身体抢营养吗",
-      "onboard_time": 1701948882,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 186092,
       "num": 287218,
       "word": "3岁幼儿寒风中大哭陌生奶爸接力上线",
@@ -1980,7 +2020,7 @@
     },
     {
       "raw_hot": 184276,
-      "num": 184276,
+      "num": 203308,
       "word": "王曼昱3比0帕瓦德",
       "onboard_time": 1701952181,
       "rank": 44,
@@ -2043,6 +2083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173121,
+      "num": 203439,
+      "word": "南京中医药大学回应老师课堂讲解不雅课件",
+      "onboard_time": 1701953201,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170821,
       "num": 210273,
       "word": "成都双流机场车辆事故致5伤",
@@ -2065,14 +2113,6 @@
       "onboard_time": 1701940241,
       "rank": 47,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 168608,
-      "num": 164250,
-      "word": "江西2.2亿大奖诞生门店店门紧闭休息中",
-      "onboard_time": 1701952000,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167824,
@@ -2100,7 +2140,7 @@
     },
     {
       "raw_hot": 164215,
-      "num": 164215,
+      "num": 203067,
       "word": "GQ 你好癫啊",
       "onboard_time": 1701843692,
       "rank": 48,
@@ -2129,6 +2169,14 @@
       "onboard_time": 1701905247,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 159980,
+      "num": 203125,
+      "word": "GQ流程",
+      "onboard_time": 1701953322,
+      "rank": 47,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 158247,
@@ -2267,6 +2315,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 128680,
+      "num": 315535,
+      "word": "小米澎湃OS有点东西",
+      "onboard_time": 1701950199,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126645,
       "num": 493642,
       "word": "消防员冲进火场徒手拎出喷火煤气罐",
@@ -2297,14 +2353,6 @@
       "onboard_time": 1701920012,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 113732,
-      "num": 308399,
-      "word": "小米澎湃OS有点东西",
-      "onboard_time": 1701950199,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 113298,
@@ -2361,6 +2409,14 @@
       "onboard_time": 1701945822,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 105976,
+      "num": 439500,
+      "word": "小米澎湃OS技术白皮书发布",
+      "onboard_time": 1701950439,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 105099,
@@ -2457,14 +2513,6 @@
       "onboard_time": 1701869380,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 90184,
-      "num": 367316,
-      "word": "小米澎湃OS技术白皮书发布",
-      "onboard_time": 1701950439,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 84244,
