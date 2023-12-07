@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/08 02:36:21
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/08 03:14:53
 </p>
 </blockquote>
 <p>
@@ -1035,6 +1035,18 @@ E6（热度：1247213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%B7%B4%E9%BB%8E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+五月天巴黎演唱会（热度：1244474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E7%9B%B4%E6%92%AD%23" target="weibo">
+五月天凌晨三点直播（热度：1224357）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E4%B8%80%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E5%9D%A0%E6%B1%9F%E8%BA%AB%E4%BA%A1%23" target="weibo">
 湖南省一县委书记坠江身亡（热度：1218449）
 </a>
@@ -1317,20 +1329,8 @@ GQ内涵（热度：1094599）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%B7%B4%E9%BB%8E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-五月天巴黎演唱会（热度：1007237）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B712345%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23" target="weibo">
 上海12345回应五月天被质疑假唱（热度：1004507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E7%9B%B4%E6%92%AD%23" target="weibo">
-五月天凌晨三点直播（热度：993950）
 </a>
 </li>
 

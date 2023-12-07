@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701974181338,
+  "endTime": 1701976493544,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -1107,6 +1107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1244474,
+      "num": 727870,
+      "word": "五月天巴黎演唱会",
+      "onboard_time": 1701961905,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1224357,
+      "num": 987259,
+      "word": "五月天凌晨三点直播",
+      "onboard_time": 1701950919,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1218449,
       "num": 966886,
       "word": "湖南省一县委书记坠江身亡",
@@ -1411,28 +1427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1007237,
-      "num": 727870,
-      "word": "五月天巴黎演唱会",
-      "onboard_time": 1701961905,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1004507,
       "num": 1004507,
       "word": "上海12345回应五月天被质疑假唱",
       "onboard_time": 1701607837,
       "rank": 4,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 993950,
-      "num": 987259,
-      "word": "五月天凌晨三点直播",
-      "onboard_time": 1701950919,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 978656,
@@ -13116,7 +13116,7 @@
     },
     {
       "raw_hot": 57943,
-      "num": 39663,
+      "num": 46559,
       "word": "王安宇胡先煦担心迪丽热巴",
       "onboard_time": 1701972916,
       "rank": 41,
@@ -13449,6 +13449,14 @@
       "onboard_time": 1701635892,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 25572,
+      "num": 29261,
+      "word": "辛光就是这个味儿",
+      "onboard_time": 1701975796,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 24903,
