@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701963263589,
+  "endTime": 1701966241595,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -1795,6 +1795,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 817369,
+      "num": 254318,
+      "word": "虞书欣 网红妆",
+      "onboard_time": 1701962805,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 815981,
       "num": 815981,
       "word": "痞幼三倍大眼妆",
@@ -3387,6 +3395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497950,
+      "num": 497950,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1701961602,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 497924,
       "num": 497924,
       "word": "林俊杰直播",
@@ -3569,6 +3585,14 @@
       "onboard_time": 1701702214,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 476504,
+      "num": 476504,
+      "word": "迪丽热巴特意带了国旗",
+      "onboard_time": 1701965073,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 476285,
@@ -3769,14 +3793,6 @@
       "onboard_time": 1701758257,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 455197,
-      "num": 197639,
-      "word": "虞书欣 网红妆",
-      "onboard_time": 1701962805,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 455181,
@@ -5219,6 +5235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 349918,
+      "num": 166485,
+      "word": "邓紫棋演唱会穿婚纱",
+      "onboard_time": 1701964299,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 348033,
       "num": 348033,
       "word": "宋雨琦现场观战湖人",
@@ -5521,14 +5545,6 @@
       "onboard_time": 1701670054,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329291,
-      "num": 329291,
-      "word": "睡眠真的超级重要",
-      "onboard_time": 1701961602,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 328519,
@@ -6257,6 +6273,14 @@
       "onboard_time": 1701796822,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297664,
+      "num": 165875,
+      "word": "金鹤龙为杨幂化妆",
+      "onboard_time": 1701964716,
+      "rank": 43,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 297268,
@@ -7779,6 +7803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236380,
+      "num": 236380,
+      "word": "连云港3.8级地震",
+      "onboard_time": 1701965254,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236013,
       "num": 236013,
       "word": "阴阳师",
@@ -9064,6 +9096,14 @@
       "word": "IU将明年回归",
       "onboard_time": 1701762581,
       "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 202418,
+      "num": 166154,
+      "word": "薛之谦新歌",
+      "onboard_time": 1701965614,
+      "rank": 35,
       "category": "音乐"
     },
     {
