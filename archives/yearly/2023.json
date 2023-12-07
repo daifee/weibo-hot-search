@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1701944409241,
+  "endTime": 1701945448209,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -947,6 +947,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 10157689,
+      "num": 10157689,
+      "word": "GQ的小船 尴尬",
+      "onboard_time": 1701942460,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 10155728,
       "num": 10155728,
       "word": "中国石油大学回应",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1696166799,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9544911,
-      "num": 9544911,
-      "word": "GQ的小船 尴尬",
-      "onboard_time": 1701942460,
-      "rank": 1,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 9510697,
