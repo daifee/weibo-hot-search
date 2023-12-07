@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1701967199976,
+  "endTime": 1701969407600,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -35,20 +35,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 855467,
+      "num": 855467,
+      "word": "彩票2.2亿",
+      "onboard_time": 1701956568,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 817369,
       "num": 254318,
       "word": "虞书欣 网红妆",
       "onboard_time": 1701962805,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 803317,
-      "num": 803317,
-      "word": "彩票2.2亿",
-      "onboard_time": 1701956568,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 777650,
@@ -81,6 +81,14 @@
       "onboard_time": 1701950861,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 663103,
+      "num": 133832,
+      "word": "歌手提醒非专业人士请勿轻易挑战E6高音",
+      "onboard_time": 1701966989,
+      "rank": 35,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 612125,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231062,
+      "num": 105404,
+      "word": "杨幂晒了三张小时候照片",
+      "onboard_time": 1701969143,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 202992,
       "num": 202992,
       "word": "男孩偷卖家中31斤金条变现565万",
@@ -241,6 +257,14 @@
       "onboard_time": 1701965614,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198515,
+      "num": 89618,
+      "word": "Apple结婚",
+      "onboard_time": 1701968424,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 190091,
@@ -265,14 +289,6 @@
       "onboard_time": 1701959987,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169982,
-      "num": 133832,
-      "word": "歌手提醒非专业人士请勿轻易挑战E6高音",
-      "onboard_time": 1701966989,
-      "rank": 35,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 169154,
@@ -395,6 +411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 71363,
+      "num": 85553,
+      "word": "王鹤棣 无人机表演",
+      "onboard_time": 1701953020,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64236,
       "num": 165666,
       "word": "鹅腿 断货",
@@ -417,6 +441,14 @@
       "onboard_time": 1701954942,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7548,
+      "num": 553093,
+      "word": "滚滚江水见证生态转型发展之路",
+      "onboard_time": 1701954770,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
