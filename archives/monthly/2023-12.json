@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701911794098,
+  "endTime": 1701913064991,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2159551,
+      "num": 885471,
+      "word": "若鉴定结果为真唱举报者要负责吗",
+      "onboard_time": 1701909457,
+      "rank": 3,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 2140737,
       "num": 2140737,
       "word": "谢娜 产后抑郁",
@@ -393,14 +401,6 @@
       "onboard_time": 1701489332,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2095816,
-      "num": 623374,
-      "word": "若鉴定结果为真唱举报者要负责吗",
-      "onboard_time": 1701909457,
-      "rank": 3,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 2072470,
@@ -457,6 +457,14 @@
       "onboard_time": 1701860498,
       "rank": 12,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1912542,
+      "num": 1912542,
+      "word": "伯克利大学的死亡周",
+      "onboard_time": 1701911255,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1911048,
@@ -1260,7 +1268,7 @@
     },
     {
       "raw_hot": 1084370,
-      "num": 405343,
+      "num": 476484,
       "word": "她拼命拍打车窗想叫醒沉睡车内儿子",
       "onboard_time": 1701909156,
       "rank": 10,
@@ -2075,6 +2083,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 730616,
+      "num": 730616,
+      "word": "何猷君从小吃鱼都是别人给挑刺",
+      "onboard_time": 1701911674,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 725948,
       "num": 725948,
       "word": "卵巢早衰",
@@ -2803,14 +2819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 584725,
-      "num": 281016,
-      "word": "伯克利大学的死亡周",
-      "onboard_time": 1701911255,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 584374,
       "num": 483923,
       "word": "迪丽热巴登费加罗闭年刊",
@@ -3131,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 538182,
+      "num": 538182,
+      "word": "大雪",
+      "onboard_time": 1701904945,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537144,
       "num": 537144,
       "word": "布兰妮父亲 截肢",
@@ -3443,6 +3459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 506402,
+      "num": 506402,
+      "word": "iPhone屏幕发明人从苹果离职",
+      "onboard_time": 1701910716,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 503520,
       "num": 345770,
       "word": "李现是瘦了吗",
@@ -3673,6 +3697,14 @@
       "onboard_time": 1701528336,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479202,
+      "num": 479202,
+      "word": "老师我们家子涵怎么火了",
+      "onboard_time": 1701911255,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479163,
@@ -4171,14 +4203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 435758,
-      "num": 435758,
-      "word": "大雪",
-      "onboard_time": 1701904945,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435377,
       "num": 784132,
       "word": "比12315还管用的维权方法",
@@ -4489,14 +4513,6 @@
       "onboard_time": 1701520534,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 420891,
-      "num": 420891,
-      "word": "iPhone屏幕发明人从苹果离职",
-      "onboard_time": 1701910716,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 420829,
@@ -4953,6 +4969,14 @@
       "onboard_time": 1701490471,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388019,
+      "num": 388019,
+      "word": "钢琴上的E6",
+      "onboard_time": 1701908614,
+      "rank": 35,
+      "category": "音乐,社会新闻"
     },
     {
       "raw_hot": 387664,
@@ -7811,14 +7835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269709,
-      "num": 269709,
-      "word": "老师我们家子涵怎么火了",
-      "onboard_time": 1701911255,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269652,
       "num": 269652,
       "word": "独行侠30比0 活久见",
@@ -7873,6 +7889,14 @@
       "onboard_time": 1701564148,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267058,
+      "num": 267058,
+      "word": "演唱会志愿者盒饭对比",
+      "onboard_time": 1701912094,
+      "rank": 25,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 266410,
@@ -8025,6 +8049,14 @@
       "onboard_time": 1701515013,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 259869,
+      "num": 259869,
+      "word": "宋江双开门",
+      "onboard_time": 1701912576,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 259836,
@@ -9459,6 +9491,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 218156,
+      "num": 253762,
+      "word": "苹果明年初将推出两款iPadAir",
+      "onboard_time": 1701912453,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 218129,
       "num": 218129,
       "word": "你应该鼓励而不是去表扬孩子",
@@ -9491,14 +9531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217053,
-      "num": 217053,
-      "word": "钢琴上的E6",
-      "onboard_time": 1701908614,
-      "rank": 35,
-      "category": "音乐,社会新闻"
-    },
-    {
       "raw_hot": 217016,
       "num": 217016,
       "word": "糖醋排骨",
@@ -9529,6 +9561,14 @@
       "onboard_time": 1701491494,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216685,
+      "num": 216685,
+      "word": "江苏省考 考点",
+      "onboard_time": 1701912697,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 216583,
@@ -10425,14 +10465,6 @@
       "onboard_time": 1701524433,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200782,
-      "num": 200782,
-      "word": "何猷君从小吃鱼都是别人给挑刺",
-      "onboard_time": 1701911674,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 200634,
@@ -11699,6 +11731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180836,
+      "num": 180836,
+      "word": "这样洗羽绒服会爆炸",
+      "onboard_time": 1701912213,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 180805,
       "num": 180805,
       "word": "昭节皇后是如意的逆鳞",
@@ -11809,6 +11849,14 @@
       "onboard_time": 1701830974,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177275,
+      "num": 177275,
+      "word": "兔子的舌头",
+      "onboard_time": 1701912873,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 177191,
@@ -12129,6 +12177,14 @@
       "onboard_time": 1701877235,
       "rank": 26,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 170523,
+      "num": 170523,
+      "word": "工藤静香Blue Velvet",
+      "onboard_time": 1701912931,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 170432,
@@ -13003,6 +13059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156396,
+      "num": 156396,
+      "word": "米卡GQ坐船路透",
+      "onboard_time": 1701911856,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 156341,
       "num": 156341,
       "word": "新闻女王 女性角色好有尊严",
@@ -13337,6 +13401,14 @@
       "onboard_time": 1701834514,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149737,
+      "num": 149737,
+      "word": "村书记把边角料做成发财树让全村增收",
+      "onboard_time": 1701912995,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149677,

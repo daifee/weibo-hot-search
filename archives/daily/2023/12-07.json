@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701911794098,
+  "endTime": 1701913064991,
   "band_list": [
     {
       "raw_hot": 3590632,
@@ -19,12 +19,20 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 2095816,
-      "num": 623374,
+      "raw_hot": 2159551,
+      "num": 885471,
       "word": "若鉴定结果为真唱举报者要负责吗",
       "onboard_time": 1701909457,
       "rank": 3,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 1912542,
+      "num": 1912542,
+      "word": "伯克利大学的死亡周",
+      "onboard_time": 1701911255,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1247213,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1084370,
-      "num": 405343,
+      "num": 476484,
       "word": "她拼命拍打车窗想叫醒沉睡车内儿子",
       "onboard_time": 1701909156,
       "rank": 10,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 819697,
-      "num": 371421,
+      "num": 466288,
       "word": "阿信 每一声都来自我的嗓子",
       "onboard_time": 1701873735,
       "rank": 9,
@@ -76,11 +84,19 @@
     },
     {
       "raw_hot": 816982,
-      "num": 383553,
+      "num": 470302,
       "word": "田馥甄回应五月天假唱风波",
       "onboard_time": 1701858101,
       "rank": 12,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 730616,
+      "num": 730616,
+      "word": "何猷君从小吃鱼都是别人给挑刺",
+      "onboard_time": 1701911674,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 725620,
@@ -107,14 +123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 584725,
-      "num": 281016,
-      "word": "伯克利大学的死亡周",
-      "onboard_time": 1701911255,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 575881,
       "num": 337059,
       "word": "赵露思败诉",
@@ -131,19 +139,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538182,
+      "num": 538182,
+      "word": "大雪",
+      "onboard_time": 1701904945,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506402,
+      "num": 506402,
+      "word": "iPhone屏幕发明人从苹果离职",
+      "onboard_time": 1701910716,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 479202,
+      "num": 479202,
+      "word": "老师我们家子涵怎么火了",
+      "onboard_time": 1701911255,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476285,
       "num": 476285,
       "word": "公司辞退提前吃午饭员工被判赔2万",
       "onboard_time": 1701898273,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435758,
-      "num": 435758,
-      "word": "大雪",
-      "onboard_time": 1701904945,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -153,14 +177,6 @@
       "onboard_time": 1701906811,
       "rank": 16,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 420891,
-      "num": 420891,
-      "word": "iPhone屏幕发明人从苹果离职",
-      "onboard_time": 1701910716,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 396392,
@@ -177,6 +193,14 @@
       "onboard_time": 1701871419,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 388019,
+      "num": 388019,
+      "word": "钢琴上的E6",
+      "onboard_time": 1701908614,
+      "rank": 35,
+      "category": "音乐,社会新闻"
     },
     {
       "raw_hot": 387666,
@@ -291,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269709,
-      "num": 269709,
-      "word": "老师我们家子涵怎么火了",
-      "onboard_time": 1701911255,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 267058,
+      "num": 267058,
+      "word": "演唱会志愿者盒饭对比",
+      "onboard_time": 1701912094,
+      "rank": 25,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 266028,
@@ -304,6 +328,14 @@
       "word": "车银优衣柜吻",
       "onboard_time": 1701875202,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 259869,
+      "num": 259869,
+      "word": "宋江双开门",
+      "onboard_time": 1701912576,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -339,12 +371,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 217053,
-      "num": 217053,
-      "word": "钢琴上的E6",
-      "onboard_time": 1701908614,
-      "rank": 35,
-      "category": "音乐,社会新闻"
+      "raw_hot": 218156,
+      "num": 253762,
+      "word": "苹果明年初将推出两款iPadAir",
+      "onboard_time": 1701912453,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 216685,
+      "num": 216685,
+      "word": "江苏省考 考点",
+      "onboard_time": 1701912697,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 206392,
@@ -369,14 +409,6 @@
       "onboard_time": 1701911076,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200782,
-      "num": 200782,
-      "word": "何猷君从小吃鱼都是别人给挑刺",
-      "onboard_time": 1701911674,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 199462,
@@ -451,6 +483,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 180836,
+      "num": 180836,
+      "word": "这样洗羽绒服会爆炸",
+      "onboard_time": 1701912213,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 177275,
+      "num": 177275,
+      "word": "兔子的舌头",
+      "onboard_time": 1701912873,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174854,
       "num": 174854,
       "word": "EDG老板支持meiko的想法",
@@ -467,12 +515,28 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 170523,
+      "num": 170523,
+      "word": "工藤静香Blue Velvet",
+      "onboard_time": 1701912931,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167824,
       "num": 167824,
       "word": "年终个人工作总结模版",
       "onboard_time": 1701908915,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163422,
+      "num": 163422,
+      "word": "一念关山",
+      "onboard_time": 1701911916,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 163270,
@@ -507,12 +571,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157653,
+      "num": 157653,
+      "word": "五月天",
+      "onboard_time": 1701870880,
+      "rank": 36,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 157395,
       "num": 157395,
       "word": "老太存款消失拷问老伴民警现场洗嫌疑",
       "onboard_time": 1701881903,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156396,
+      "num": 156396,
+      "word": "米卡GQ坐船路透",
+      "onboard_time": 1701911856,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 152496,
@@ -523,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151364,
-      "num": 100155,
-      "word": "五月天",
-      "onboard_time": 1701870880,
-      "rank": 36,
-      "category": "演出,社会新闻"
+      "raw_hot": 149737,
+      "num": 149737,
+      "word": "村书记把边角料做成发财树让全村增收",
+      "onboard_time": 1701912995,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141661,
@@ -772,7 +852,7 @@
     },
     {
       "raw_hot": 48809,
-      "num": 652621,
+      "num": 936431,
       "word": "呼吸道传染病个人健康手册",
       "onboard_time": 1701869017,
       "rank": 2,
