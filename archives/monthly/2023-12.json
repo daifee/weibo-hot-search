@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701981262719,
+  "endTime": 1701983760830,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -18403,6 +18403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 36618,
+      "num": 27111,
+      "word": "感觉大胖橘要把椅子开走",
+      "onboard_time": 1701979513,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36367,
       "num": 36367,
       "word": "阶段性朋友",
@@ -18643,6 +18651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21014,
+      "num": 21014,
+      "word": "万达拟出售一二线城市万达广场",
+      "onboard_time": 1701982274,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 20880,
       "num": 27549,
       "word": "一条plog告别十一月",
@@ -18665,14 +18681,6 @@
       "onboard_time": 1701715274,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20595,
-      "num": 27111,
-      "word": "感觉大胖橘要把椅子开走",
-      "onboard_time": 1701979513,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 20345,
@@ -18729,6 +18737,14 @@
       "onboard_time": 1701374833,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16893,
+      "num": 19021,
+      "word": "范丞丞魏大勋龚俊白敬亭坐一起",
+      "onboard_time": 1701983173,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 16821,
