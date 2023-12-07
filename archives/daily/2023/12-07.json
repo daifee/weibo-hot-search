@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701930212317,
+  "endTime": 1701931016611,
   "band_list": [
     {
       "raw_hot": 3590632,
@@ -115,6 +115,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1117549,
+      "num": 1117549,
+      "word": "迪丽热巴王后服",
+      "onboard_time": 1701929735,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1085021,
       "num": 1085021,
       "word": "何猷君从小吃鱼都是别人给挑刺",
@@ -139,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 969883,
+      "num": 969883,
+      "word": "白敬亭 猫男",
+      "onboard_time": 1701927334,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 955045,
+      "num": 955045,
+      "word": "杨幂在超市拍出发图",
+      "onboard_time": 1701929614,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 942566,
       "num": 942566,
       "word": "小时候被性骚扰是女性共同的秘密",
@@ -153,6 +177,14 @@
       "onboard_time": 1701915991,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 830174,
+      "num": 412777,
+      "word": "GQ好多人鱼公主",
+      "onboard_time": 1701930632,
+      "rank": 10,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 822094,
@@ -187,28 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 789249,
-      "num": 789249,
-      "word": "迪丽热巴王后服",
-      "onboard_time": 1701929735,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 772999,
       "num": 772999,
       "word": "GQ明星工作室出图",
       "onboard_time": 1701917672,
       "rank": 7,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 732873,
-      "num": 273491,
-      "word": "白敬亭 猫男",
-      "onboard_time": 1701927334,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 725620,
@@ -275,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559864,
+      "num": 307515,
+      "word": "女房东被租客杀猪盘28天骗走407万",
+      "onboard_time": 1701928412,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557306,
       "num": 492869,
       "word": "田曦薇金发人鱼公主",
@@ -291,20 +315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549525,
-      "num": 272528,
-      "word": "女房东被租客杀猪盘28天骗走407万",
-      "onboard_time": 1701928412,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 545281,
       "num": 545281,
       "word": "大雪",
       "onboard_time": 1701904945,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523978,
+      "num": 352033,
+      "word": "秦岚亲了辛芷蕾",
+      "onboard_time": 1701929494,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 508926,
@@ -348,18 +372,18 @@
     },
     {
       "raw_hot": 475275,
-      "num": 268661,
+      "num": 296441,
       "word": "谢娜恋综官宣",
       "onboard_time": 1701928716,
       "rank": 22,
       "category": "综艺"
     },
     {
-      "raw_hot": 449228,
-      "num": 336375,
-      "word": "杨幂在超市拍出发图",
-      "onboard_time": 1701929614,
-      "rank": 15,
+      "raw_hot": 469302,
+      "num": 434205,
+      "word": "于适首套高定造型",
+      "onboard_time": 1701926254,
+      "rank": 16,
       "category": "作品衍生,时尚"
     },
     {
@@ -371,20 +395,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 434205,
-      "num": 434205,
-      "word": "于适首套高定造型",
-      "onboard_time": 1701926254,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 424437,
       "num": 364988,
       "word": "房山季鸟猴",
       "onboard_time": 1701906811,
       "rank": 16,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 424177,
+      "num": 424177,
+      "word": "中国福彩客服回应中奖2.2亿无内幕",
+      "onboard_time": 1701929614,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419326,
@@ -451,12 +475,12 @@
       "category": "综艺,社会新闻"
     },
     {
-      "raw_hot": 376109,
-      "num": 260851,
-      "word": "秦岚亲了辛芷蕾",
-      "onboard_time": 1701929494,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 376164,
+      "num": 295168,
+      "word": "张凌赫 发疯蓄力中",
+      "onboard_time": 1701928835,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 362341,
@@ -465,6 +489,14 @@
       "onboard_time": 1701920856,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362052,
+      "num": 362052,
+      "word": "RNG 种地",
+      "onboard_time": 1701929854,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 355329,
@@ -481,14 +513,6 @@
       "onboard_time": 1701916892,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354457,
-      "num": 260292,
-      "word": "张凌赫 发疯蓄力中",
-      "onboard_time": 1701928835,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 353447,
@@ -611,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307651,
+      "num": 307651,
+      "word": "光与夜之恋 卡面",
+      "onboard_time": 1701929254,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305661,
       "num": 305661,
       "word": "白鹿 平等地爱每一个角色",
@@ -625,6 +657,14 @@
       "onboard_time": 1701927756,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 302612,
+      "num": 282317,
+      "word": "张家妍人设",
+      "onboard_time": 1701929434,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 301185,
@@ -665,22 +705,6 @@
       "onboard_time": 1701860498,
       "rank": 14,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 297156,
-      "num": 252699,
-      "word": "张家妍人设",
-      "onboard_time": 1701929434,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 292656,
-      "num": 292656,
-      "word": "光与夜之恋 卡面",
-      "onboard_time": 1701929254,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 292210,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 272504,
-      "num": 272504,
+      "num": 288167,
       "word": "云南导游建议游客为烈士买菊花",
       "onboard_time": 1701923499,
       "rank": 29,
@@ -803,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258455,
+      "num": 258455,
+      "word": "小黄开播几分钟直播间被封",
+      "onboard_time": 1701930695,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258442,
       "num": 235686,
       "word": "Jennie crazy over you",
@@ -841,14 +873,6 @@
       "onboard_time": 1701919356,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 247572,
-      "num": 247572,
-      "word": "中国福彩客服回应中奖2.2亿无内幕",
-      "onboard_time": 1701929614,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246948,
@@ -915,6 +939,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 241400,
+      "num": 241400,
+      "word": "RIIZE元彬 职校",
+      "onboard_time": 1701930574,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241244,
       "num": 241244,
       "word": "小朋友一份土豆想分两碗摊主秒懂相送",
@@ -929,6 +961,22 @@
       "onboard_time": 1701921696,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 231040,
+      "num": 231040,
+      "word": "白鹿对张真源的评价",
+      "onboard_time": 1701929854,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229927,
+      "num": 229927,
+      "word": "妈妈熬夜到凌晨给娃做变形警车",
+      "onboard_time": 1701919833,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228337,
@@ -971,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218549,
-      "num": 218549,
-      "word": "妈妈熬夜到凌晨给娃做变形警车",
-      "onboard_time": 1701919833,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216685,
       "num": 216685,
       "word": "江苏省考 考点",
@@ -1001,14 +1041,6 @@
       "onboard_time": 1701926254,
       "rank": 34,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 214471,
-      "num": 214471,
-      "word": "RNG 种地",
-      "onboard_time": 1701929854,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 212752,
@@ -1115,6 +1147,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 199202,
+      "num": 199202,
+      "word": "库里31分",
+      "onboard_time": 1701929973,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199080,
       "num": 199080,
       "word": "曼联2比1切尔西",
@@ -1155,20 +1195,28 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 192534,
-      "num": 192534,
-      "word": "白鹿对张真源的评价",
-      "onboard_time": 1701929854,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192292,
       "num": 192292,
       "word": "阿斯顿维拉1比0曼城",
       "onboard_time": 1701904704,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190561,
+      "num": 190561,
+      "word": "八段锦每个动作都有讲究",
+      "onboard_time": 1701929794,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 190370,
+      "num": 190370,
+      "word": "全北京的鹅都没有腿了",
+      "onboard_time": 1701929914,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 188913,
@@ -1195,14 +1243,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 186968,
-      "num": 186968,
-      "word": "库里31分",
-      "onboard_time": 1701929973,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186092,
       "num": 287218,
       "word": "3岁幼儿寒风中大哭陌生奶爸接力上线",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1701905365,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183643,
+      "num": 183643,
+      "word": "Fly 我们又回来了",
+      "onboard_time": 1701930574,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 182723,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1701905247,
       "rank": 26,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 161278,
-      "num": 161278,
-      "word": "八段锦每个动作都有讲究",
-      "onboard_time": 1701929794,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 158247,

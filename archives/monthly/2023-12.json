@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701930212317,
+  "endTime": 1701931016611,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -1283,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1117549,
+      "num": 1117549,
+      "word": "迪丽热巴王后服",
+      "onboard_time": 1701929735,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1112786,
       "num": 1112786,
       "word": "美特斯邦威6.8亿元再卖楼",
@@ -1515,6 +1523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 969883,
+      "num": 969883,
+      "word": "白敬亭 猫男",
+      "onboard_time": 1701927334,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 968354,
       "num": 968354,
       "word": "刘诗诗 一姐今天不1了",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1701764318,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 955045,
+      "num": 955045,
+      "word": "杨幂在超市拍出发图",
+      "onboard_time": 1701929614,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 952023,
@@ -1819,6 +1843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 830174,
+      "num": 412777,
+      "word": "GQ好多人鱼公主",
+      "onboard_time": 1701930632,
+      "rank": 10,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 828327,
       "num": 828327,
       "word": "6G",
@@ -1945,14 +1977,6 @@
       "onboard_time": 1701513392,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 789249,
-      "num": 789249,
-      "word": "迪丽热巴王后服",
-      "onboard_time": 1701929735,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 789048,
@@ -2169,14 +2193,6 @@
       "onboard_time": 1701702337,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 732873,
-      "num": 273491,
-      "word": "白敬亭 猫男",
-      "onboard_time": 1701927334,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 732394,
@@ -3107,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559864,
+      "num": 307515,
+      "word": "女房东被租客杀猪盘28天骗走407万",
+      "onboard_time": 1701928412,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 558536,
       "num": 558536,
       "word": "跪杀弗洛伊德的警察狱中被刺22刀",
@@ -3217,14 +3241,6 @@
       "onboard_time": 1701663283,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 549525,
-      "num": 272528,
-      "word": "女房东被租客杀猪盘28天骗走407万",
-      "onboard_time": 1701928412,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 547755,
@@ -3464,6 +3480,14 @@
       "word": "辛芷蕾 内娱第一岚吹",
       "onboard_time": 1701488372,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 523978,
+      "num": 352033,
+      "word": "秦岚亲了辛芷蕾",
+      "onboard_time": 1701929494,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -3924,7 +3948,7 @@
     },
     {
       "raw_hot": 475275,
-      "num": 268661,
+      "num": 296441,
       "word": "谢娜恋综官宣",
       "onboard_time": 1701928716,
       "rank": 22,
@@ -4001,6 +4025,14 @@
       "onboard_time": 1701762817,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 469302,
+      "num": 434205,
+      "word": "于适首套高定造型",
+      "onboard_time": 1701926254,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 468717,
@@ -4227,14 +4259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449228,
-      "num": 336375,
-      "word": "杨幂在超市拍出发图",
-      "onboard_time": 1701929614,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 448950,
       "num": 448950,
       "word": "父母的过度干涉 潜意识嫉妒",
@@ -4449,14 +4473,6 @@
       "onboard_time": 1701678157,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 434205,
-      "num": 434205,
-      "word": "于适首套高定造型",
-      "onboard_time": 1701926254,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 432605,
@@ -4681,6 +4697,14 @@
       "onboard_time": 1701906811,
       "rank": 16,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 424177,
+      "num": 424177,
+      "word": "中国福彩客服回应中奖2.2亿无内幕",
+      "onboard_time": 1701929614,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423149,
@@ -5499,12 +5523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376109,
-      "num": 260851,
-      "word": "秦岚亲了辛芷蕾",
-      "onboard_time": 1701929494,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 376164,
+      "num": 295168,
+      "word": "张凌赫 发疯蓄力中",
+      "onboard_time": 1701928835,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 375598,
@@ -5787,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362052,
+      "num": 362052,
+      "word": "RNG 种地",
+      "onboard_time": 1701929854,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 362030,
       "num": 362030,
       "word": "QQ音乐年度报告",
@@ -5921,14 +5953,6 @@
       "onboard_time": 1701474685,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354457,
-      "num": 260292,
-      "word": "张凌赫 发疯蓄力中",
-      "onboard_time": 1701928835,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 354200,
@@ -6931,6 +6955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 307651,
+      "num": 307651,
+      "word": "光与夜之恋 卡面",
+      "onboard_time": 1701929254,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307444,
       "num": 307444,
       "word": "车守住了没守住王俊凯",
@@ -7089,6 +7121,14 @@
       "onboard_time": 1701418232,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302612,
+      "num": 282317,
+      "word": "张家妍人设",
+      "onboard_time": 1701929434,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 302429,
@@ -7291,14 +7331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297156,
-      "num": 252699,
-      "word": "张家妍人设",
-      "onboard_time": 1701929434,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296931,
       "num": 290211,
       "word": "王嘉尔补偿力度",
@@ -7473,14 +7505,6 @@
       "onboard_time": 1701602974,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 292656,
-      "num": 292656,
-      "word": "光与夜之恋 卡面",
-      "onboard_time": 1701929254,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 292210,
@@ -8132,7 +8156,7 @@
     },
     {
       "raw_hot": 272504,
-      "num": 272504,
+      "num": 288167,
       "word": "云南导游建议游客为烈士买菊花",
       "onboard_time": 1701923499,
       "rank": 29,
@@ -8563,6 +8587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 258455,
+      "num": 258455,
+      "word": "小黄开播几分钟直播间被封",
+      "onboard_time": 1701930695,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258442,
       "num": 235686,
       "word": "Jennie crazy over you",
@@ -8923,14 +8955,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 247572,
-      "num": 247572,
-      "word": "中国福彩客服回应中奖2.2亿无内幕",
-      "onboard_time": 1701929614,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247426,
       "num": 237184,
       "word": "剖腹产切开7层组织才能看见宝宝",
@@ -9137,6 +9161,14 @@
       "onboard_time": 1701441818,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 241400,
+      "num": 241400,
+      "word": "RIIZE元彬 职校",
+      "onboard_time": 1701930574,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 241244,
@@ -9547,6 +9579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231040,
+      "num": 231040,
+      "word": "白鹿对张真源的评价",
+      "onboard_time": 1701929854,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230817,
       "num": 230817,
       "word": "济南一退休老师被前女婿举报吃空饷",
@@ -9569,6 +9609,14 @@
       "onboard_time": 1701398010,
       "rank": 46,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 229927,
+      "num": 229927,
+      "word": "妈妈熬夜到凌晨给娃做变形警车",
+      "onboard_time": 1701919833,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229847,
@@ -10059,14 +10107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218549,
-      "num": 218549,
-      "word": "妈妈熬夜到凌晨给娃做变形警车",
-      "onboard_time": 1701919833,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218517,
       "num": 218517,
       "word": "微博视界大会全阵容",
@@ -10305,14 +10345,6 @@
       "onboard_time": 1701489512,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214471,
-      "num": 214471,
-      "word": "RNG 种地",
-      "onboard_time": 1701929854,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 214296,
@@ -11203,6 +11235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199202,
+      "num": 199202,
+      "word": "库里31分",
+      "onboard_time": 1701929973,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199131,
       "num": 142676,
       "word": "偶遇SVT的男粉丝后记",
@@ -11715,14 +11755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192534,
-      "num": 192534,
-      "word": "白鹿对张真源的评价",
-      "onboard_time": 1701929854,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192522,
       "num": 192522,
       "word": "刘宇宁 视界大会彩排直拍",
@@ -11891,12 +11923,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 190561,
+      "num": 190561,
+      "word": "八段锦每个动作都有讲究",
+      "onboard_time": 1701929794,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 190501,
       "num": 190501,
       "word": "陈芋汐选拔赛夺冠",
       "onboard_time": 1701417756,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190370,
+      "num": 190370,
+      "word": "全北京的鹅都没有腿了",
+      "onboard_time": 1701929914,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 190343,
@@ -12155,14 +12203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186968,
-      "num": 186968,
-      "word": "库里31分",
-      "onboard_time": 1701929973,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186774,
       "num": 186774,
       "word": "i人不一定是社恐",
@@ -12337,6 +12377,14 @@
       "onboard_time": 1701683857,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183643,
+      "num": 183643,
+      "word": "Fly 我们又回来了",
+      "onboard_time": 1701930574,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 183571,
@@ -13513,14 +13561,6 @@
       "onboard_time": 1701646166,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161278,
-      "num": 161278,
-      "word": "八段锦每个动作都有讲究",
-      "onboard_time": 1701929794,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 161264,
