@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701913064991,
+  "endTime": 1701916222555,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -379,8 +379,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2200512,
+      "num": 2200512,
+      "word": "伯克利大学的死亡周",
+      "onboard_time": 1701911255,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2159551,
-      "num": 885471,
+      "num": 1155874,
       "word": "若鉴定结果为真唱举报者要负责吗",
       "onboard_time": 1701909457,
       "rank": 3,
@@ -457,14 +465,6 @@
       "onboard_time": 1701860498,
       "rank": 12,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1912542,
-      "num": 1912542,
-      "word": "伯克利大学的死亡周",
-      "onboard_time": 1701911255,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1911048,
@@ -963,6 +963,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1412941,
+      "num": 1412941,
+      "word": "丁程鑫回应",
+      "onboard_time": 1701915392,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1411160,
       "num": 1411160,
       "word": "QQ音乐会员涨价",
@@ -1265,6 +1273,14 @@
       "onboard_time": 1701481293,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1085021,
+      "num": 1085021,
+      "word": "何猷君从小吃鱼都是别人给挑刺",
+      "onboard_time": 1701911674,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 1084370,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1701734916,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 883001,
+      "num": 883001,
+      "word": "老师我们家子涵怎么火了",
+      "onboard_time": 1701911255,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 880824,
@@ -2081,14 +2105,6 @@
       "onboard_time": 1701410015,
       "rank": 4,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 730616,
-      "num": 730616,
-      "word": "何猷君从小吃鱼都是别人给挑刺",
-      "onboard_time": 1701911674,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 725948,
@@ -3115,6 +3131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 545281,
+      "num": 545281,
+      "word": "大雪",
+      "onboard_time": 1701904945,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542416,
       "num": 542416,
       "word": "明星GQ盛典机场路透",
@@ -3137,14 +3161,6 @@
       "onboard_time": 1701618516,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 538182,
-      "num": 538182,
-      "word": "大雪",
-      "onboard_time": 1701904945,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537144,
@@ -3515,6 +3531,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 500848,
+      "num": 388019,
+      "word": "钢琴上的E6",
+      "onboard_time": 1701908614,
+      "rank": 35,
+      "category": "音乐,社会新闻"
+    },
+    {
       "raw_hot": 497924,
       "num": 497924,
       "word": "林俊杰直播",
@@ -3697,14 +3721,6 @@
       "onboard_time": 1701528336,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 479202,
-      "num": 479202,
-      "word": "老师我们家子涵怎么火了",
-      "onboard_time": 1701911255,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479163,
@@ -4875,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395676,
+      "num": 344972,
+      "word": "2.2亿大奖彩票店刚开不到三个月",
+      "onboard_time": 1701915331,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393770,
       "num": 1260075,
       "word": "为了救小狗这所大学放干了护校河的水",
@@ -4969,14 +4993,6 @@
       "onboard_time": 1701490471,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388019,
-      "num": 388019,
-      "word": "钢琴上的E6",
-      "onboard_time": 1701908614,
-      "rank": 35,
-      "category": "音乐,社会新闻"
     },
     {
       "raw_hot": 387664,
@@ -5081,6 +5097,14 @@
       "onboard_time": 1701749200,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384608,
+      "num": 334620,
+      "word": "英雄联盟 婕拉",
+      "onboard_time": 1701915272,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 383549,
@@ -6419,6 +6443,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 315364,
+      "num": 315364,
+      "word": "宋江双开门",
+      "onboard_time": 1701912576,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315353,
       "num": 290336,
       "word": "新闻女王 TVB翻身",
@@ -7307,6 +7339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286619,
+      "num": 286619,
+      "word": "iPhone屏幕发明人从苹果退休",
+      "onboard_time": 1701910716,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 286415,
       "num": 208531,
       "word": "演唱会退票 手续费",
@@ -7699,6 +7739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274736,
+      "num": 274736,
+      "word": "兔子的舌头",
+      "onboard_time": 1701912873,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274432,
       "num": 274432,
       "word": "京考",
@@ -8003,6 +8051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261408,
+      "num": 261408,
+      "word": "工藤静香Blue Velvet",
+      "onboard_time": 1701912931,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 261316,
       "num": 261316,
       "word": "教书是我的主业怎么变成了副业",
@@ -8049,14 +8105,6 @@
       "onboard_time": 1701515013,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 259869,
-      "num": 259869,
-      "word": "宋江双开门",
-      "onboard_time": 1701912576,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 259836,
@@ -8339,6 +8387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251515,
+      "num": 251515,
+      "word": "肖四来了",
+      "onboard_time": 1701913235,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 250435,
       "num": 250435,
       "word": "拥抱奶牛一次约450元",
@@ -8465,6 +8521,14 @@
       "onboard_time": 1701446433,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246948,
+      "num": 253762,
+      "word": "苹果明年初将推出两款iPadAir",
+      "onboard_time": 1701912453,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 246879,
@@ -9491,14 +9555,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 218156,
-      "num": 253762,
-      "word": "苹果明年初将推出两款iPadAir",
-      "onboard_time": 1701912453,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 218129,
       "num": 218129,
       "word": "你应该鼓励而不是去表扬孩子",
@@ -9576,6 +9632,14 @@
       "word": "喜马拉雅高级副总裁确认已离职",
       "onboard_time": 1701843333,
       "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 216357,
+      "num": 216357,
+      "word": "谷歌Gemini",
+      "onboard_time": 1701914372,
+      "rank": 31,
       "category": "互联网"
     },
     {
@@ -9747,6 +9811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 212752,
+      "num": 212752,
+      "word": "刀郎暂时停更",
+      "onboard_time": 1701915211,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212658,
       "num": 212658,
       "word": "时代少年团G社生图",
@@ -9857,6 +9929,14 @@
       "onboard_time": 1701862535,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210644,
+      "num": 210644,
+      "word": "体面的离职报告",
+      "onboard_time": 1701915636,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 210560,
@@ -10123,6 +10203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206596,
+      "num": 206596,
+      "word": "这样洗羽绒服会爆炸",
+      "onboard_time": 1701912213,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 206491,
       "num": 206491,
       "word": "TES官宣Tian续约",
@@ -10225,6 +10313,14 @@
       "onboard_time": 1701470178,
       "rank": 5,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 205307,
+      "num": 205307,
+      "word": "村书记把边角料做成发财树让全村增收",
+      "onboard_time": 1701912995,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205243,
@@ -11283,6 +11379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188482,
+      "num": 188482,
+      "word": "iPhone15价格跳水后销量霸榜前三",
+      "onboard_time": 1701915991,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188382,
       "num": 188382,
       "word": "萌兰都快把院子里的树杈盘包浆了",
@@ -11731,14 +11835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180836,
-      "num": 180836,
-      "word": "这样洗羽绒服会爆炸",
-      "onboard_time": 1701912213,
-      "rank": 41,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 180805,
       "num": 180805,
       "word": "昭节皇后是如意的逆鳞",
@@ -11849,14 +11945,6 @@
       "onboard_time": 1701830974,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177275,
-      "num": 177275,
-      "word": "兔子的舌头",
-      "onboard_time": 1701912873,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 177191,
@@ -12179,14 +12267,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 170523,
-      "num": 170523,
-      "word": "工藤静香Blue Velvet",
-      "onboard_time": 1701912931,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 170432,
       "num": 156684,
       "word": "华晨宇新歌",
@@ -12441,6 +12521,14 @@
       "onboard_time": 1701399030,
       "rank": 33,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 166793,
+      "num": 166793,
+      "word": "米卡GQ坐船路透",
+      "onboard_time": 1701911856,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166653,
@@ -13059,14 +13147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156396,
-      "num": 156396,
-      "word": "米卡GQ坐船路透",
-      "onboard_time": 1701911856,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 156341,
       "num": 156341,
       "word": "新闻女王 女性角色好有尊严",
@@ -13401,14 +13481,6 @@
       "onboard_time": 1701834514,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149737,
-      "num": 149737,
-      "word": "村书记把边角料做成发财树让全村增收",
-      "onboard_time": 1701912995,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149677,
@@ -14027,6 +14099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139314,
+      "num": 139314,
+      "word": "滤镜开机",
+      "onboard_time": 1701916173,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139154,
       "num": 139154,
       "word": "赖斯绝杀",
@@ -14041,6 +14121,14 @@
       "onboard_time": 1701483574,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138949,
+      "num": 138949,
+      "word": "春晚回应吉祥物争议",
+      "onboard_time": 1701916173,
+      "rank": 48,
+      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 138849,
@@ -14145,6 +14233,14 @@
       "onboard_time": 1701648755,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136634,
+      "num": 136634,
+      "word": "四大天王与四大歌后的battle",
+      "onboard_time": 1701913893,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 136530,
@@ -15524,7 +15620,7 @@
     },
     {
       "raw_hot": 86805,
-      "num": 1379847,
+      "num": 1758452,
       "word": "呼吸道传染病个人健康手册",
       "onboard_time": 1701869017,
       "rank": 2,
@@ -15993,6 +16089,14 @@
       "onboard_time": 1701608806,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44798,
+      "num": 276737,
+      "word": "被大自然的奇观惊艳到",
+      "onboard_time": 1701915392,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44410,
