@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701923813646,
+  "endTime": 1701926246701,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 2912887,
-      "num": 1607630,
+      "num": 1786856,
       "word": "著名歌手唐磊谈五月天假唱风波",
       "onboard_time": 1701920556,
       "rank": 1,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2301925,
+      "num": 2301925,
+      "word": "GQ连夜排查水道",
+      "onboard_time": 1701922417,
+      "rank": 8,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 2281877,
       "num": 2281877,
       "word": "春晚回应吉祥物争议",
@@ -377,6 +385,14 @@
       "onboard_time": 1701909457,
       "rank": 3,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 2140870,
+      "num": 1733497,
+      "word": "周也公子也",
+      "onboard_time": 1701916592,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2069927,
@@ -739,28 +755,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1445992,
-      "num": 1445992,
-      "word": "GQ连夜排查水道",
-      "onboard_time": 1701922417,
-      "rank": 8,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 1441714,
       "num": 1441714,
       "word": "媒体评林俊杰为何恼了",
       "onboard_time": 1701825161,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1434585,
-      "num": 1434585,
-      "word": "周也公子也",
-      "onboard_time": 1701916592,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1432250,
@@ -827,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1340047,
+      "num": 1340047,
+      "word": "新加坡和中国即将免签",
+      "onboard_time": 1701924098,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1335660,
       "num": 1335660,
       "word": "汪文斌分享迪丽热巴新疆舞",
@@ -889,6 +897,14 @@
       "onboard_time": 1701596073,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1234952,
+      "num": 1234952,
+      "word": "江西省民政厅正在调查花10万中2.2亿",
+      "onboard_time": 1701924521,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1218449,
@@ -2121,6 +2137,14 @@
       "onboard_time": 1701569794,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 596321,
+      "num": 596321,
+      "word": "JDG官宣Flandre加入",
+      "onboard_time": 1701924098,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 595383,
@@ -4419,6 +4443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337667,
+      "num": 337667,
+      "word": "莎头组合2比1中国台北组合",
+      "onboard_time": 1701925477,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337524,
       "num": 291781,
       "word": "上厕所玩手机有多危险",
@@ -4545,6 +4577,14 @@
       "onboard_time": 1701670054,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329110,
+      "num": 329110,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 328519,
@@ -4705,6 +4745,14 @@
       "onboard_time": 1701904945,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 319933,
+      "num": 307550,
+      "word": "张若昀皮手套",
+      "onboard_time": 1701924459,
+      "rank": 25,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 319410,
@@ -5003,6 +5051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 305661,
+      "num": 305661,
+      "word": "白鹿 平等地爱每一个角色",
+      "onboard_time": 1701924762,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305222,
       "num": 305222,
       "word": "赵琦君 Happy Wife Happy Life",
@@ -5145,6 +5201,14 @@
       "onboard_time": 1701684157,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299737,
+      "num": 299737,
+      "word": "恋恋红尘今日开播",
+      "onboard_time": 1701925000,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 299722,
@@ -5395,12 +5459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291104,
-      "num": 284303,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
-      "rank": 39,
-      "category": "作品衍生,时尚"
+      "raw_hot": 291056,
+      "num": 271142,
+      "word": "南海归墟 胡八一雪莉杨分手",
+      "onboard_time": 1701925000,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 290848,
@@ -5675,6 +5739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279212,
+      "num": 279212,
+      "word": "FPX官宣LWX离队",
+      "onboard_time": 1701924399,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 279191,
       "num": 279191,
       "word": "瘦腿封神组合",
@@ -5817,6 +5889,14 @@
       "onboard_time": 1701863795,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 272504,
+      "num": 272504,
+      "word": "云南导游建议游客为烈士买菊花",
+      "onboard_time": 1701923499,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272228,
@@ -5993,6 +6073,14 @@
       "onboard_time": 1701868902,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 262122,
+      "num": 262122,
+      "word": "歌剧魅影 鱼姐E6高音",
+      "onboard_time": 1701925416,
+      "rank": 32,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 261408,
@@ -6403,6 +6491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244440,
+      "num": 220921,
+      "word": "米卡GQ坐船路透",
+      "onboard_time": 1701911856,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 244160,
       "num": 244160,
       "word": "女性生来就有爱人的天赋",
@@ -6785,6 +6881,14 @@
       "onboard_time": 1701842792,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228337,
+      "num": 209339,
+      "word": "孟子义黑天鹅妆",
+      "onboard_time": 1701925236,
+      "rank": 40,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 228262,
@@ -7187,6 +7291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 216581,
+      "num": 216581,
+      "word": "S9冠军FPX全员离队",
+      "onboard_time": 1701925716,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 216357,
       "num": 216357,
       "word": "谷歌Gemini",
@@ -7347,6 +7459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211250,
+      "num": 211250,
+      "word": "医院交费排长队工作人员玩手游",
+      "onboard_time": 1701923978,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210666,
       "num": 210666,
       "word": "东北1米7长冰糖葫芦1串10元",
@@ -7441,6 +7561,14 @@
       "onboard_time": 1701774397,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208952,
+      "num": 208952,
+      "word": "华晨宇演唱会 花海",
+      "onboard_time": 1701926016,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 208541,
@@ -8595,14 +8723,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 181724,
-      "num": 181724,
-      "word": "米卡GQ坐船路透",
-      "onboard_time": 1701911856,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 181363,
       "num": 181363,
       "word": "考研试卷拆封流程",
@@ -8689,14 +8809,6 @@
       "onboard_time": 1701759340,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179014,
-      "num": 243082,
-      "word": "云南导游建议游客为烈士买菊花",
-      "onboard_time": 1701923499,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179006,
@@ -9377,6 +9489,14 @@
       "onboard_time": 1701667898,
       "rank": 49,
       "category": "母婴育儿,社会新闻"
+    },
+    {
+      "raw_hot": 159053,
+      "num": 174649,
+      "word": "我每周七天里最爱的短短一瞬间",
+      "onboard_time": 1701926135,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 158526,
