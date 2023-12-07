@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1701969407600,
+  "endTime": 1701970457212,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -83,7 +83,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 663103,
+      "raw_hot": 666204,
       "num": 133832,
       "word": "歌手提醒非专业人士请勿轻易挑战E6高音",
       "onboard_time": 1701966989,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270594,
+      "num": 270594,
+      "word": "杨幂晒了三张小时候照片",
+      "onboard_time": 1701969143,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 257402,
       "num": 257402,
       "word": "肖四第一套",
@@ -235,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231062,
-      "num": 105404,
-      "word": "杨幂晒了三张小时候照片",
-      "onboard_time": 1701969143,
-      "rank": 15,
-      "category": "作品衍生,时尚"
+      "raw_hot": 215649,
+      "num": 92297,
+      "word": "Apple结婚",
+      "onboard_time": 1701968424,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 202992,
@@ -257,14 +265,6 @@
       "onboard_time": 1701965614,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198515,
-      "num": 89618,
-      "word": "Apple结婚",
-      "onboard_time": 1701968424,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 190091,
@@ -363,6 +363,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 109956,
+      "num": 91599,
+      "word": "杨超越立体白裙",
+      "onboard_time": 1701969741,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 103321,
       "num": 165938,
       "word": "一天一个苹果 兽医远离我",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 71363,
-      "num": 85553,
+      "num": 91641,
       "word": "王鹤棣 无人机表演",
       "onboard_time": 1701953020,
       "rank": 41,
@@ -443,7 +451,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7548,
+      "raw_hot": 9882,
       "num": 553093,
       "word": "滚滚江水见证生态转型发展之路",
       "onboard_time": 1701954770,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/08 01:16:47
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/08 01:34:17
 </p>
 </blockquote>
 <p>
@@ -2157,6 +2157,12 @@ iPhone16全系告别静音拨片（热度：672174）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8F%90%E9%86%92%E9%9D%9E%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%A3%AB%E8%AF%B7%E5%8B%BF%E8%BD%BB%E6%98%93%E6%8C%91%E6%88%98E6%E9%AB%98%E9%9F%B3%23" target="weibo">
+歌手提醒非专业人士请勿轻易挑战E6高音（热度：666204）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B4%BA%E8%81%AA%20%E5%85%BB%E7%9C%BC%23" target="weibo">
 张凌赫贺聪 养眼（热度：663829）
 </a>
@@ -2171,12 +2177,6 @@ iPhone16全系告别静音拨片（热度：672174）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%88%B6%E4%BA%B2%E6%8C%81%E8%82%A1%E7%9A%84%E5%A4%A9%E7%84%B6%E5%91%86%E8%A2%AB%E9%99%90%E6%B6%88%23" target="weibo">
 关晓彤父亲持股的天然呆被限消（热度：663136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8F%90%E9%86%92%E9%9D%9E%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%A3%AB%E8%AF%B7%E5%8B%BF%E8%BD%BB%E6%98%93%E6%8C%91%E6%88%98E6%E9%AB%98%E9%9F%B3%23" target="weibo">
-歌手提醒非专业人士请勿轻易挑战E6高音（热度：663103）
 </a>
 </li>
 
