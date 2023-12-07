@@ -1,0 +1,410 @@
+{
+  "runTime": 1701958616305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7375589,
+        "num": 7375589,
+        "word": "GQ的小船 尴尬",
+        "onboard_time": 1701942460,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1178643,
+        "num": 1178643,
+        "word": "王楚钦 投诉对我没任何影响",
+        "onboard_time": 1701956084,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81804,
+        "num": 999192,
+        "word": "4K视频感受冬日留白美学",
+        "onboard_time": 1701954942,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318159,
+        "num": 975213,
+        "word": "GQ红毯",
+        "onboard_time": 1701938256,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 935246,
+        "num": 935246,
+        "word": "五月天凌晨三点直播",
+        "onboard_time": 1701950919,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 793018,
+        "num": 793018,
+        "word": "彩票2.2亿",
+        "onboard_time": 1701956568,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238525,
+        "num": 677662,
+        "word": "张凌赫眼神就没离开过白鹿",
+        "onboard_time": 1701954280,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 491247,
+        "num": 491247,
+        "word": "肖战指导英文回击法国球员",
+        "onboard_time": 1701951640,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454509,
+        "num": 454509,
+        "word": "一天一个苹果 兽医远离我",
+        "onboard_time": 1701955664,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 860019,
+        "num": 445230,
+        "word": "杨幂定点拍摄秒了",
+        "onboard_time": 1701954344,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 435568,
+        "num": 435568,
+        "word": "男孩偷卖家中31斤金条变现565万",
+        "onboard_time": 1701936397,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395865,
+        "num": 395865,
+        "word": "南京中医药大学回应老师课堂讲解不雅课件",
+        "onboard_time": 1701953201,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2463604,
+        "num": 392748,
+        "word": "毛晓彤鼻子",
+        "onboard_time": 1701952238,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 377728,
+        "num": 377728,
+        "word": "鹅腿 断货",
+        "onboard_time": 1701955305,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 857057,
+        "num": 374384,
+        "word": "倪妮 欢迎来参加我们的婚礼",
+        "onboard_time": 1701953201,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367370,
+        "num": 367370,
+        "word": "2.2亿中奖者是倍投陷阱下的幸存者",
+        "onboard_time": 1701957583,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 329161,
+        "num": 329161,
+        "word": "身体这4个部位不能太干净",
+        "onboard_time": 1701936815,
+        "rank": 16,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 1351879,
+        "num": 328986,
+        "word": "陈都灵 白月光回国",
+        "onboard_time": 1701950861,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320436,
+        "num": 320436,
+        "word": "女生长期吃避孕药治痘致癫痫脑出血",
+        "onboard_time": 1701940603,
+        "rank": 18,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 286253,
+        "num": 286253,
+        "word": "福州烟台山",
+        "onboard_time": 1701957640,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037692,
+        "num": 285848,
+        "word": "杨幂倪妮 开嗑了",
+        "onboard_time": 1701948819,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320039,
+        "num": 284767,
+        "word": "原来慈禧太后的寝宫那么小",
+        "onboard_time": 1701946972,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283112,
+        "num": 283112,
+        "word": "三问江西福彩2亿大奖事件",
+        "onboard_time": 1701957339,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707179,
+        "num": 282997,
+        "word": "杨天真把易梦玲全挡住了",
+        "onboard_time": 1701953144,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255805,
+        "num": 255805,
+        "word": "女友假装一个月褪一层皮",
+        "onboard_time": 1701944506,
+        "rank": 24,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 195692,
+        "num": 255500,
+        "word": "王楚钦发球",
+        "onboard_time": 1701955664,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636702,
+        "num": 254332,
+        "word": "杨紫李现前后走红毯",
+        "onboard_time": 1701957706,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181767,
+        "num": 253237,
+        "word": "外交部回应中新免签",
+        "onboard_time": 1701955605,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178624,
+        "num": 251729,
+        "word": "每天1注快乐8中500万需要24410年",
+        "onboard_time": 1701956568,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177149,
+        "num": 250903,
+        "word": "江西2.2亿大奖诞生门店店门紧闭休息中",
+        "onboard_time": 1701952000,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635151,
+        "num": 250144,
+        "word": "好怕谢娜的船翻了",
+        "onboard_time": 1701944023,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 395958,
+        "num": 249504,
+        "word": "王鹤棣 无人机表演",
+        "onboard_time": 1701953020,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341390,
+        "num": 248424,
+        "word": "孟子义明艳美",
+        "onboard_time": 1701955544,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 600921,
+        "num": 246420,
+        "word": "易烊千玺辛爽 同船",
+        "onboard_time": 1701936815,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 338723,
+        "num": 246175,
+        "word": "李一桐 好一只惊艳的黑天鹅",
+        "onboard_time": 1701955966,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163310,
+        "num": 244425,
+        "word": "莎头 稳稳的幸福",
+        "onboard_time": 1701952059,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458334,
+        "num": 244158,
+        "word": "GQ好多人鱼公主",
+        "onboard_time": 1701930632,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163253,
+        "num": 242365,
+        "word": "王楚钦孙颖莎11比1",
+        "onboard_time": 1701952181,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154029,
+        "num": 241754,
+        "word": "江西省民政厅正在调查花10万中2.2亿",
+        "onboard_time": 1701924521,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448551,
+        "num": 240624,
+        "word": "GQ内场",
+        "onboard_time": 1701951761,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240126,
+        "num": 240126,
+        "word": "乌尔善 我们封神第二部见",
+        "onboard_time": 1701954524,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234553,
+        "num": 234553,
+        "word": "范丞丞 注意点别踩着我尾巴",
+        "onboard_time": 1701953322,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 443439,
+        "num": 232102,
+        "word": "GQ颁奖",
+        "onboard_time": 1701953440,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 144590,
+        "num": 230217,
+        "word": "疏肝解郁的5个动作",
+        "onboard_time": 1701955966,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133059,
+        "num": 225083,
+        "word": "英语成绩差 死磕这18张图",
+        "onboard_time": 1701938316,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 397814,
+        "num": 221156,
+        "word": "王一博刘冲同船",
+        "onboard_time": 1701948819,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122988,
+        "num": 216606,
+        "word": "陈律师你好",
+        "onboard_time": 1701955783,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118091,
+        "num": 213940,
+        "word": "GQ流程",
+        "onboard_time": 1701953322,
+        "rank": 47,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 326134,
+        "num": 211204,
+        "word": "虞书欣亲杨天真",
+        "onboard_time": 1701946420,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107921,
+        "num": 205069,
+        "word": "可爱圣诞美甲",
+        "onboard_time": 1701955125,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧有责任共同为世界提供更多稳定性#"
+    }
+  }
+}
