@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1701938168183,
+  "endTime": 1701940674694,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -697,6 +697,14 @@
       "onboard_time": 1691260957,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11046678,
+      "num": 11046678,
+      "word": "GQ红毯",
+      "onboard_time": 1687952981,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 11038097,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1673149169,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 6997376,
-      "num": 6997376,
-      "word": "石家庄临时空中管制已解除",
-      "onboard_time": 1676531250,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

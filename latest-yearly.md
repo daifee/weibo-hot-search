@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/12/07 16:36:08
+本榜单时间：2023/01/01 00:23:37 ~ 2023/12/07 17:17:54
 </p>
 </blockquote>
 <p>
@@ -533,6 +533,12 @@ WBG对战T1（热度：12632234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E9%9C%87%E6%84%9F%23" target="weibo">
 济南震感（热度：11063759）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GQ%E7%BA%A2%E6%AF%AF%23" target="weibo">
+GQ红毯（热度：11046678）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ T1晋级S13总决赛（热度：7233927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%E8%A1%8C%E6%B5%8B%23" target="weibo">
 国考行测（热度：7039874）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B8%B4%E6%97%B6%E7%A9%BA%E4%B8%AD%E7%AE%A1%E5%88%B6%E5%B7%B2%E8%A7%A3%E9%99%A4%23" target="weibo">
-石家庄临时空中管制已解除（热度：6997376）
 </a>
 </li>
 
