@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701920066327,
+  "endTime": 1701922909063,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -177,6 +177,14 @@
       "onboard_time": 1701732083,
       "rank": 0,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 2912887,
+      "num": 1607630,
+      "word": "著名歌手唐磊谈五月天假唱风波",
+      "onboard_time": 1701920556,
+      "rank": 1,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 2885721,
@@ -587,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1632439,
+      "num": 1632439,
+      "word": "老师我们家子涵怎么火了",
+      "onboard_time": 1701911255,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1619954,
       "num": 1420195,
       "word": "玲花曾评价五月天唱功",
@@ -867,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1217064,
-      "num": 1217064,
-      "word": "老师我们家子涵怎么火了",
-      "onboard_time": 1701911255,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1214965,
       "num": 469460,
       "word": "举报五月天博主称把歌和人分开",
@@ -977,6 +985,14 @@
       "onboard_time": 1701601773,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1149473,
+      "num": 1149473,
+      "word": "周也公子也",
+      "onboard_time": 1701916592,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1112786,
@@ -1219,6 +1235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 920633,
+      "num": 920633,
+      "word": "小时候被性骚扰是女性共同的秘密",
+      "onboard_time": 1701918873,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 910544,
       "num": 910544,
       "word": "酱园弄 杨幂",
@@ -1409,6 +1433,14 @@
       "onboard_time": 1701782680,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 803018,
+      "num": 659014,
+      "word": "曾舜晞银发",
+      "onboard_time": 1701920675,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 785016,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1701645686,
       "rank": 14,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 696544,
+      "num": 696544,
+      "word": "GQ连夜排查水道",
+      "onboard_time": 1701922417,
+      "rank": 8,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 695650,
@@ -2635,14 +2675,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 506111,
-      "num": 506111,
-      "word": "周也公子也",
-      "onboard_time": 1701916592,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 503520,
       "num": 345770,
       "word": "李现是瘦了吗",
@@ -2732,7 +2764,7 @@
     },
     {
       "raw_hot": 492805,
-      "num": 292202,
+      "num": 321503,
       "word": "父亲骨灰被弄丢殡仪馆说给盒新的",
       "onboard_time": 1701918090,
       "rank": 20,
@@ -3707,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388635,
+      "num": 467221,
+      "word": "关晓彤父亲持股的天然呆被限消",
+      "onboard_time": 1701922294,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 387664,
       "num": 387664,
       "word": "美商务部长呼吁阻止中国获得半导体关键技术",
@@ -3769,6 +3809,14 @@
       "onboard_time": 1701775597,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385004,
+      "num": 509757,
+      "word": "龙辰辰",
+      "onboard_time": 1701917672,
+      "rank": 21,
+      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 384983,
@@ -4073,14 +4121,6 @@
       "onboard_time": 1701688118,
       "rank": 22,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 362515,
-      "num": 362515,
-      "word": "小时候被性骚扰是女性共同的秘密",
-      "onboard_time": 1701918873,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 362234,
@@ -4563,6 +4603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 322669,
+      "num": 322669,
+      "word": "怀疑54岁女友出轨男子将对方打死",
+      "onboard_time": 1701922237,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322584,
       "num": 322584,
       "word": "twice回归",
@@ -4673,6 +4721,14 @@
       "onboard_time": 1701683017,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 317531,
+      "num": 317531,
+      "word": "湖人被禁止穿黑色球衣",
+      "onboard_time": 1701920856,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 317167,
@@ -4825,14 +4881,6 @@
       "onboard_time": 1701750884,
       "rank": 49,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 310345,
-      "num": 292145,
-      "word": "龙辰辰",
-      "onboard_time": 1701917672,
-      "rank": 21,
-      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 310322,
@@ -5105,6 +5153,14 @@
       "onboard_time": 1701571473,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298761,
+      "num": 298761,
+      "word": "林允莫奈花园裙",
+      "onboard_time": 1701922176,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 298616,
@@ -5529,6 +5585,14 @@
       "onboard_time": 1701778720,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284303,
+      "num": 284303,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283988,
@@ -6011,6 +6075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257301,
+      "num": 1867895,
+      "word": "太空菜园收菜了航天员边摘边吃",
+      "onboard_time": 1701917432,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 257143,
       "num": 257143,
       "word": "手头紧的年轻人正在蹭老消费",
@@ -6203,14 +6275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249531,
-      "num": 222038,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 249414,
       "num": 249414,
       "word": "高铁查学生证查到我的小抄",
@@ -6233,6 +6297,14 @@
       "onboard_time": 1701762696,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247824,
+      "num": 247824,
+      "word": "长期饮用养生茶或引起肾衰竭",
+      "onboard_time": 1701919356,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247426,
@@ -6355,12 +6427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242687,
+      "num": 242687,
+      "word": "TikTok播放量排名",
+      "onboard_time": 1701920914,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241749,
       "num": 220382,
       "word": "日本将引进奥本海默",
       "onboard_time": 1701919714,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241244,
+      "num": 241244,
+      "word": "小朋友一份土豆想分两碗摊主秒懂相送",
+      "onboard_time": 1701919535,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239481,
@@ -6409,6 +6497,14 @@
       "onboard_time": 1701649174,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237464,
+      "num": 237464,
+      "word": "Icon透露Tarzan回LCK",
+      "onboard_time": 1701921696,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 237411,
@@ -7723,6 +7819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199047,
+      "num": 199047,
+      "word": "赵露思新剧射箭路透",
+      "onboard_time": 1701922477,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199017,
       "num": 199017,
       "word": "WB战胜Hero",
@@ -7865,14 +7969,6 @@
       "onboard_time": 1701694776,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195820,
-      "num": 1867895,
-      "word": "太空菜园收菜了航天员边摘边吃",
-      "onboard_time": 1701917432,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 195603,
@@ -8163,6 +8259,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 190381,
+      "num": 190381,
+      "word": "焕羽首发剧照",
+      "onboard_time": 1701922779,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190355,
+      "num": 190355,
+      "word": "看到人 低头玩手机",
+      "onboard_time": 1701918633,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190343,
       "num": 190343,
       "word": "王楚钦热身 达人秀",
@@ -8307,6 +8419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187301,
+      "num": 187301,
+      "word": "妈妈熬夜到凌晨给娃做变形警车",
+      "onboard_time": 1701919833,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187151,
       "num": 187151,
       "word": "詹姆斯传球击倒布克",
@@ -8427,14 +8547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183370,
-      "num": 211264,
-      "word": "长期饮用养生茶或引起肾衰竭",
-      "onboard_time": 1701919356,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183238,
       "num": 183238,
       "word": "杨超越紫色闪钻眼妆",
@@ -8473,6 +8585,14 @@
       "onboard_time": 1701662080,
       "rank": 41,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 181724,
+      "num": 181724,
+      "word": "米卡GQ坐船路透",
+      "onboard_time": 1701911856,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 181363,
@@ -8929,14 +9049,6 @@
       "onboard_time": 1701689076,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166793,
-      "num": 166793,
-      "word": "米卡GQ坐船路透",
-      "onboard_time": 1701911856,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166570,
@@ -9707,14 +9819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145957,
-      "num": 145957,
-      "word": "看到人 低头玩手机",
-      "onboard_time": 1701918633,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145760,
       "num": 145760,
       "word": "还有4周就是2024年了",
@@ -10123,14 +10227,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 133601,
-      "num": 133601,
-      "word": "妈妈熬夜到凌晨给娃做变形警车",
-      "onboard_time": 1701919833,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132929,
       "num": 132929,
       "word": "胡先煦逗狗 秦海璐眼珠子转了八百圈",
@@ -10273,14 +10369,6 @@
       "onboard_time": 1701589233,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128981,
-      "num": 128981,
-      "word": "小朋友一份土豆想分两碗摊主秒懂相送",
-      "onboard_time": 1701919535,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127591,

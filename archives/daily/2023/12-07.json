@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701920066327,
+  "endTime": 1701922909063,
   "band_list": [
     {
       "raw_hot": 3590632,
@@ -17,6 +17,14 @@
       "onboard_time": 1701872745,
       "rank": 3,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2912887,
+      "num": 1607630,
+      "word": "著名歌手唐磊谈五月天假唱风波",
+      "onboard_time": 1701920556,
+      "rank": 1,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 2421229,
@@ -51,6 +59,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 1632439,
+      "num": 1632439,
+      "word": "老师我们家子涵怎么火了",
+      "onboard_time": 1701911255,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1247213,
       "num": 1247213,
       "word": "E6",
@@ -59,20 +75,20 @@
       "category": "音乐,社会新闻"
     },
     {
-      "raw_hot": 1217064,
-      "num": 1217064,
-      "word": "老师我们家子涵怎么火了",
-      "onboard_time": 1701911255,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1214965,
       "num": 469460,
       "word": "举报五月天博主称把歌和人分开",
       "onboard_time": 1701877300,
       "rank": 6,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1149473,
+      "num": 1149473,
+      "word": "周也公子也",
+      "onboard_time": 1701916592,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1085021,
@@ -107,6 +123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 920633,
+      "num": 920633,
+      "word": "小时候被性骚扰是女性共同的秘密",
+      "onboard_time": 1701918873,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 822094,
       "num": 525790,
       "word": "周深曾直接拒绝演唱现场放人声伴奏",
@@ -131,6 +155,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 803018,
+      "num": 659014,
+      "word": "曾舜晞银发",
+      "onboard_time": 1701920675,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 772999,
       "num": 772999,
       "word": "GQ明星工作室出图",
@@ -145,6 +177,14 @@
       "onboard_time": 1701870880,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 696544,
+      "num": 696544,
+      "word": "GQ连夜排查水道",
+      "onboard_time": 1701922417,
+      "rank": 8,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 637844,
@@ -211,16 +251,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 506111,
-      "num": 506111,
-      "word": "周也公子也",
-      "onboard_time": 1701916592,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 492805,
-      "num": 292202,
+      "num": 321503,
       "word": "父亲骨灰被弄丢殡仪馆说给盒新的",
       "onboard_time": 1701918090,
       "rank": 20,
@@ -283,6 +315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 388635,
+      "num": 467221,
+      "word": "关晓彤父亲持股的天然呆被限消",
+      "onboard_time": 1701922294,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 387666,
       "num": 329492,
       "word": "小学生带避孕套老师引导正确看性",
@@ -291,12 +331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362515,
-      "num": 362515,
-      "word": "小时候被性骚扰是女性共同的秘密",
-      "onboard_time": 1701918873,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 385004,
+      "num": 509757,
+      "word": "龙辰辰",
+      "onboard_time": 1701917672,
+      "rank": 21,
+      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 355329,
@@ -355,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 322669,
+      "num": 322669,
+      "word": "怀疑54岁女友出轨男子将对方打死",
+      "onboard_time": 1701922237,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322434,
       "num": 322434,
       "word": "周杰伦演唱会预售被嘲吃相难看",
@@ -379,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317531,
+      "num": 317531,
+      "word": "湖人被禁止穿黑色球衣",
+      "onboard_time": 1701920856,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315364,
       "num": 315364,
       "word": "宋江双开门",
@@ -395,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310345,
-      "num": 292145,
-      "word": "龙辰辰",
-      "onboard_time": 1701917672,
-      "rank": 21,
-      "category": "综艺,社会新闻"
-    },
-    {
       "raw_hot": 301185,
       "num": 301185,
       "word": "李现 好素的妆好帅的脸",
@@ -416,6 +464,14 @@
       "word": "GQ路透",
       "onboard_time": 1701907957,
       "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 298761,
+      "num": 298761,
+      "word": "林允莫奈花园裙",
+      "onboard_time": 1701922176,
+      "rank": 26,
       "category": "作品衍生,时尚"
     },
     {
@@ -457,6 +513,14 @@
       "onboard_time": 1701910716,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 284303,
+      "num": 284303,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274736,
@@ -523,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257301,
+      "num": 1867895,
+      "word": "太空菜园收菜了航天员边摘边吃",
+      "onboard_time": 1701917432,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 251620,
       "num": 290620,
       "word": "以为是烤地瓜结果是小狗",
@@ -539,12 +611,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 249531,
-      "num": 222038,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
+      "raw_hot": 247824,
+      "num": 247824,
+      "word": "长期饮用养生茶或引起肾衰竭",
+      "onboard_time": 1701919356,
       "rank": 39,
-      "category": "作品衍生,时尚"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 246948,
@@ -563,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242687,
+      "num": 242687,
+      "word": "TikTok播放量排名",
+      "onboard_time": 1701920914,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241749,
       "num": 220382,
       "word": "日本将引进奥本海默",
@@ -577,6 +657,22 @@
       "onboard_time": 1701875022,
       "rank": 21,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 241244,
+      "num": 241244,
+      "word": "小朋友一份土豆想分两碗摊主秒懂相送",
+      "onboard_time": 1701919535,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237464,
+      "num": 237464,
+      "word": "Icon透露Tarzan回LCK",
+      "onboard_time": 1701921696,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 225314,
@@ -715,20 +811,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199047,
+      "num": 199047,
+      "word": "赵露思新剧射箭路透",
+      "onboard_time": 1701922477,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196170,
       "num": 196170,
       "word": "滤镜开机",
       "onboard_time": 1701916173,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195820,
-      "num": 1867895,
-      "word": "太空菜园收菜了航天员边摘边吃",
-      "onboard_time": 1701917432,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 194478,
@@ -747,12 +843,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190381,
+      "num": 190381,
+      "word": "焕羽首发剧照",
+      "onboard_time": 1701922779,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190355,
+      "num": 190355,
+      "word": "看到人 低头玩手机",
+      "onboard_time": 1701918633,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187854,
       "num": 187854,
       "word": "为什么那么多金行都是姓周",
       "onboard_time": 1701907780,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 187301,
+      "num": 187301,
+      "word": "妈妈熬夜到凌晨给娃做变形警车",
+      "onboard_time": 1701919833,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186092,
@@ -779,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183370,
-      "num": 211264,
-      "word": "长期饮用养生茶或引起肾衰竭",
-      "onboard_time": 1701919356,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 182723,
       "num": 182723,
       "word": "印度股市市值首破4万亿美元",
@@ -801,6 +913,14 @@
       "onboard_time": 1701877119,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181724,
+      "num": 181724,
+      "word": "米卡GQ坐船路透",
+      "onboard_time": 1701911856,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 179770,
@@ -833,14 +953,6 @@
       "onboard_time": 1701908915,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166793,
-      "num": 166793,
-      "word": "米卡GQ坐船路透",
-      "onboard_time": 1701911856,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163422,
@@ -915,14 +1027,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 145957,
-      "num": 145957,
-      "word": "看到人 低头玩手机",
-      "onboard_time": 1701918633,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141661,
       "num": 157701,
       "word": "汉文帝霸陵发掘70多座动物殉葬坑",
@@ -947,27 +1051,11 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 133601,
-      "num": 133601,
-      "word": "妈妈熬夜到凌晨给娃做变形警车",
-      "onboard_time": 1701919833,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130514,
       "num": 156203,
       "word": "76岁老人用竹子编二维码能扫出来",
       "onboard_time": 1701878854,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128981,
-      "num": 128981,
-      "word": "小朋友一份土豆想分两碗摊主秒懂相送",
-      "onboard_time": 1701919535,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
