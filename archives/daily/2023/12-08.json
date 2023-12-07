@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1701977654770,
+  "endTime": 1701980362317,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -323,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155478,
+      "num": 27797,
+      "word": "律师称若五月天为真唱举报者无需担责",
+      "onboard_time": 1701977235,
+      "rank": 22,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 143933,
       "num": 166338,
       "word": "福州烟台山",
       "onboard_time": 1701957640,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140945,
-      "num": 26049,
-      "word": "律师称若五月天为真唱举报者无需担责",
-      "onboard_time": 1701977235,
-      "rank": 22,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 131419,
@@ -516,11 +516,27 @@
     },
     {
       "raw_hot": 22755,
-      "num": 22755,
+      "num": 26971,
       "word": "宋威龙好帅",
       "onboard_time": 1701977175,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 17759,
+      "num": 27111,
+      "word": "感觉大胖橘要把椅子开走",
+      "onboard_time": 1701979513,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16167,
+      "num": 27077,
+      "word": "鸣龙少年定档",
+      "onboard_time": 1701977655,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 10532,
@@ -529,6 +545,14 @@
       "onboard_time": 1701954770,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10001,
+      "num": 26942,
+      "word": "秋冬厚衣服发型",
+      "onboard_time": 1701980175,
+      "rank": 49,
+      "category": "美妆"
     }
   ],
   "hotgov_list": [
