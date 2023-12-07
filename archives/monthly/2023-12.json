@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701922909063,
+  "endTime": 1701923813646,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -947,12 +947,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1445992,
+      "num": 1445992,
+      "word": "GQ连夜排查水道",
+      "onboard_time": 1701922417,
+      "rank": 8,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1441714,
       "num": 1441714,
       "word": "媒体评林俊杰为何恼了",
       "onboard_time": 1701825161,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1434585,
+      "num": 1434585,
+      "word": "周也公子也",
+      "onboard_time": 1701916592,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1432250,
@@ -1233,14 +1249,6 @@
       "onboard_time": 1701601773,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1149473,
-      "num": 1149473,
-      "word": "周也公子也",
-      "onboard_time": 1701916592,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1130557,
@@ -1563,6 +1571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 942566,
+      "num": 942566,
+      "word": "小时候被性骚扰是女性共同的秘密",
+      "onboard_time": 1701918873,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 941023,
       "num": 941023,
       "word": "穿卫衣就这样扎丸子头",
@@ -1601,14 +1617,6 @@
       "onboard_time": 1701850542,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 920633,
-      "num": 920633,
-      "word": "小时候被性骚扰是女性共同的秘密",
-      "onboard_time": 1701918873,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 910544,
@@ -2299,14 +2307,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 696544,
-      "num": 696544,
-      "word": "GQ连夜排查水道",
-      "onboard_time": 1701922417,
-      "rank": 8,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 695650,
       "num": 695650,
       "word": "严敏 无限流综艺",
@@ -2449,6 +2449,14 @@
       "onboard_time": 1701672273,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 663136,
+      "num": 663136,
+      "word": "关晓彤父亲持股的天然呆被限消",
+      "onboard_time": 1701922294,
+      "rank": 14,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 659891,
@@ -2665,6 +2673,14 @@
       "onboard_time": 1701579453,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 622166,
+      "num": 622166,
+      "word": "怀疑54岁女友出轨男子将对方打死",
+      "onboard_time": 1701922237,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 621685,
@@ -3660,7 +3676,7 @@
     },
     {
       "raw_hot": 492805,
-      "num": 321503,
+      "num": 357716,
       "word": "父亲骨灰被弄丢殡仪馆说给盒新的",
       "onboard_time": 1701918090,
       "rank": 20,
@@ -4995,6 +5011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394998,
+      "num": 394998,
+      "word": "林允莫奈花园裙",
+      "onboard_time": 1701922176,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 393770,
       "num": 1260075,
       "word": "为了救小狗这所大学放干了护校河的水",
@@ -5081,14 +5105,6 @@
       "onboard_time": 1701481535,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388635,
-      "num": 467221,
-      "word": "关晓彤父亲持股的天然呆被限消",
-      "onboard_time": 1701922294,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 388577,
@@ -5651,6 +5667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 362341,
+      "num": 362341,
+      "word": "湖人被禁止穿黑色球衣",
+      "onboard_time": 1701920856,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362234,
       "num": 362234,
       "word": "文物禁止拍照是量子问题",
@@ -6203,6 +6227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330885,
+      "num": 330885,
+      "word": "10拍E6",
+      "onboard_time": 1701917190,
+      "rank": 36,
+      "category": "音乐,社会新闻"
+    },
+    {
       "raw_hot": 330655,
       "num": 330655,
       "word": "阿娇 女团人多分钱有点难",
@@ -6347,14 +6379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322669,
-      "num": 322669,
-      "word": "怀疑54岁女友出轨男子将对方打死",
-      "onboard_time": 1701922237,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 322584,
       "num": 322584,
       "word": "twice回归",
@@ -6489,14 +6513,6 @@
       "onboard_time": 1701683017,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 317531,
-      "num": 317531,
-      "word": "湖人被禁止穿黑色球衣",
-      "onboard_time": 1701920856,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 317167,
@@ -7051,19 +7067,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 298761,
-      "num": 298761,
-      "word": "林允莫奈花园裙",
-      "onboard_time": 1701922176,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 298616,
       "num": 298616,
       "word": "刘诗诗沈月新剧演姐妹",
       "onboard_time": 1701750823,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 298243,
+      "num": 244734,
+      "word": "一念关山张杰立剑MV",
+      "onboard_time": 1701923017,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -7355,6 +7371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291104,
+      "num": 284303,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 290848,
       "num": 290848,
       "word": "生理期也能做的减脂动作",
@@ -7593,14 +7617,6 @@
       "onboard_time": 1701778720,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284303,
-      "num": 284303,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284060,
@@ -8875,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241961,
+      "num": 241961,
+      "word": "看到人 低头玩手机",
+      "onboard_time": 1701918633,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241749,
       "num": 220382,
       "word": "日本将引进奥本海默",
@@ -9761,6 +9785,14 @@
       "onboard_time": 1701847775,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 219792,
+      "num": 219792,
+      "word": "赵露思新剧射箭路透",
+      "onboard_time": 1701922477,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 219184,
@@ -10851,14 +10883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200356,
-      "num": 200356,
-      "word": "10拍E6",
-      "onboard_time": 1701917190,
-      "rank": 36,
-      "category": "音乐,社会新闻"
-    },
-    {
       "raw_hot": 200092,
       "num": 200092,
       "word": "朱正廷现场为苏翊鸣决赛打call",
@@ -10915,11 +10939,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199047,
-      "num": 199047,
-      "word": "赵露思新剧射箭路透",
-      "onboard_time": 1701922477,
-      "rank": 38,
+      "raw_hot": 199020,
+      "num": 199020,
+      "word": "焕羽首发剧照",
+      "onboard_time": 1701922779,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -11145,6 +11169,14 @@
       "onboard_time": 1701354220,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 195703,
+      "num": 195703,
+      "word": "妈妈熬夜到凌晨给娃做变形警车",
+      "onboard_time": 1701919833,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195645,
@@ -11579,22 +11611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190381,
-      "num": 190381,
-      "word": "焕羽首发剧照",
-      "onboard_time": 1701922779,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190355,
-      "num": 190355,
-      "word": "看到人 低头玩手机",
-      "onboard_time": 1701918633,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190343,
       "num": 190343,
       "word": "王楚钦热身 达人秀",
@@ -11809,14 +11825,6 @@
       "onboard_time": 1701414874,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187301,
-      "num": 187301,
-      "word": "妈妈熬夜到凌晨给娃做变形警车",
-      "onboard_time": 1701919833,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187151,
@@ -12233,6 +12241,14 @@
       "onboard_time": 1701759340,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179014,
+      "num": 243082,
+      "word": "云南导游建议游客为烈士买菊花",
+      "onboard_time": 1701923499,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179006,
@@ -14243,6 +14259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142275,
+      "num": 142275,
+      "word": "发疯 最好的良药",
+      "onboard_time": 1701923200,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142198,
       "num": 142198,
       "word": "AG小组第一出线",
@@ -14609,6 +14633,14 @@
       "onboard_time": 1701843571,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135787,
+      "num": 135787,
+      "word": "灰原哀是个什么样的人",
+      "onboard_time": 1701923738,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 135351,
