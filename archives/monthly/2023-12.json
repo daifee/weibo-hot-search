@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701926246701,
+  "endTime": 1701927239470,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -347,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2437987,
+      "num": 2437987,
+      "word": "GQ连夜排查水道",
+      "onboard_time": 1701922417,
+      "rank": 8,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 2421229,
       "num": 2421229,
       "word": "丁程鑫回应",
@@ -377,14 +385,6 @@
       "onboard_time": 1701849216,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2301925,
-      "num": 2301925,
-      "word": "GQ连夜排查水道",
-      "onboard_time": 1701922417,
-      "rank": 8,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 2281877,
@@ -419,20 +419,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2165832,
+      "num": 1733497,
+      "word": "周也公子也",
+      "onboard_time": 1701916592,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2159551,
       "num": 1155874,
       "word": "若鉴定结果为真唱举报者要负责吗",
       "onboard_time": 1701909457,
       "rank": 3,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 2140870,
-      "num": 1733497,
-      "word": "周也公子也",
-      "onboard_time": 1701916592,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2140737,
@@ -1043,6 +1043,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1346365,
+      "num": 1343843,
+      "word": "江西省民政厅正在调查花10万中2.2亿",
+      "onboard_time": 1701924521,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1343716,
       "num": 1343716,
       "word": "龙丹妮 军大衣",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1701596073,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1234952,
-      "num": 1234952,
-      "word": "江西省民政厅正在调查花10万中2.2亿",
-      "onboard_time": 1701924521,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1218449,
@@ -3523,6 +3523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514971,
+      "num": 492869,
+      "word": "田曦薇金发人鱼公主",
+      "onboard_time": 1701926492,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 514965,
       "num": 514965,
       "word": "王俊凯 迪奥",
@@ -4385,6 +4393,14 @@
       "onboard_time": 1701678157,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 434205,
+      "num": 434205,
+      "word": "于适首套高定造型",
+      "onboard_time": 1701926254,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 432605,
@@ -6067,6 +6083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 341796,
+      "num": 341796,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 341682,
       "num": 341682,
       "word": "王楚钦孙颖莎3比0何钧杰杜凯琹",
@@ -6305,14 +6329,6 @@
       "onboard_time": 1701670054,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329110,
-      "num": 329110,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 328519,
@@ -6977,6 +6993,14 @@
       "onboard_time": 1701766058,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304282,
+      "num": 263690,
+      "word": "赵露思钻石小黑裙",
+      "onboard_time": 1701926675,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 304076,
@@ -9683,6 +9707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224739,
+      "num": 224739,
+      "word": "S9冠军FPX全员离队",
+      "onboard_time": 1701925716,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224446,
       "num": 224446,
       "word": "圆肩驼背终于有救了",
@@ -9931,6 +9963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218549,
+      "num": 218549,
+      "word": "妈妈熬夜到凌晨给娃做变形警车",
+      "onboard_time": 1701919833,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218517,
       "num": 218517,
       "word": "微博视界大会全阵容",
@@ -10025,14 +10065,6 @@
       "onboard_time": 1701843333,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 216581,
-      "num": 216581,
-      "word": "S9冠军FPX全员离队",
-      "onboard_time": 1701925716,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 216357,
@@ -10137,6 +10169,14 @@
       "onboard_time": 1701834997,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214803,
+      "num": 214803,
+      "word": "正确涂眼霜手法",
+      "onboard_time": 1701926254,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 214698,
@@ -11011,6 +11051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200151,
+      "num": 202062,
+      "word": "陈梦3比0陈映蓁",
+      "onboard_time": 1701926854,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200092,
       "num": 200092,
       "word": "朱正廷现场为苏翊鸣决赛打call",
@@ -11203,6 +11251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197294,
+      "num": 197294,
+      "word": "五条悟爆诞",
+      "onboard_time": 1701926492,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 197227,
       "num": 197227,
       "word": "地磁暴对身体有影响吗",
@@ -11297,14 +11353,6 @@
       "onboard_time": 1701354220,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 195703,
-      "num": 195703,
-      "word": "妈妈熬夜到凌晨给娃做变形警车",
-      "onboard_time": 1701919833,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195645,
@@ -11833,6 +11881,14 @@
       "onboard_time": 1701492936,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188457,
+      "num": 188457,
+      "word": "我每周七天里最爱的短短一瞬间",
+      "onboard_time": 1701926135,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 188382,
@@ -13473,14 +13529,6 @@
       "onboard_time": 1701667898,
       "rank": 49,
       "category": "母婴育儿,社会新闻"
-    },
-    {
-      "raw_hot": 159053,
-      "num": 174649,
-      "word": "我每周七天里最爱的短短一瞬间",
-      "onboard_time": 1701926135,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 158737,
