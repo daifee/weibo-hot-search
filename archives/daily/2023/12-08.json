@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1701991077756,
+  "endTime": 1701992090885,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -35,6 +35,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1147878,
+      "num": 1147878,
+      "word": "五月天直播",
+      "onboard_time": 1701991407,
+      "rank": 0,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1062647,
       "num": 1062647,
       "word": "连云港地震",
@@ -51,12 +59,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 855467,
-      "num": 855467,
+      "raw_hot": 1009026,
+      "num": 1009026,
       "word": "彩票2.2亿",
       "onboard_time": 1701956568,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 957151,
+      "num": 152912,
+      "word": "律师称若五月天为真唱举报者无需担责",
+      "onboard_time": 1701977235,
+      "rank": 22,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 817369,
@@ -73,14 +89,6 @@
       "onboard_time": 1701962676,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 724863,
-      "num": 94077,
-      "word": "律师称若五月天为真唱举报者无需担责",
-      "onboard_time": 1701977235,
-      "rank": 22,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 694549,
@@ -131,6 +139,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 458865,
+      "num": 458865,
+      "word": "万达拟出售一二线城市万达广场",
+      "onboard_time": 1701982274,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 439339,
+      "num": 439339,
+      "word": "杨幂晒了三张小时候照片",
+      "onboard_time": 1701969143,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 426130,
+      "num": 426130,
+      "word": "这视角好像和魏大勋谈了",
+      "onboard_time": 1701990144,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404508,
       "num": 404508,
       "word": "考研才是年轻人唯一出路吗",
@@ -148,19 +180,19 @@
     },
     {
       "raw_hot": 395079,
-      "num": 166529,
+      "num": 388239,
       "word": "张凌赫眼神就没离开过白鹿",
       "onboard_time": 1701954280,
       "rank": 25,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 379219,
-      "num": 379219,
-      "word": "万达拟出售一二线城市万达广场",
-      "onboard_time": 1701982274,
-      "rank": 18,
-      "category": "财经"
+      "raw_hot": 370712,
+      "num": 308103,
+      "word": "南京中医药大学回应老师课堂讲解不雅课件",
+      "onboard_time": 1701953201,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368607,
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 352314,
-      "num": 166308,
+      "num": 195000,
       "word": "倪妮 欢迎来参加我们的婚礼",
       "onboard_time": 1701953201,
       "rank": 31,
@@ -219,22 +251,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 291125,
-      "num": 291125,
-      "word": "杨幂晒了三张小时候照片",
-      "onboard_time": 1701969143,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 277385,
-      "num": 277385,
-      "word": "南京中医药大学回应老师课堂讲解不雅课件",
-      "onboard_time": 1701953201,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257402,
       "num": 257402,
       "word": "肖四第一套",
@@ -249,14 +265,6 @@
       "onboard_time": 1701960041,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 241262,
-      "num": 156395,
-      "word": "这视角好像和魏大勋谈了",
-      "onboard_time": 1701990144,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 236380,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205957,
+      "num": 205957,
+      "word": "店主称2.2亿中奖者是拿包来装彩票的",
+      "onboard_time": 1701991407,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202992,
       "num": 202992,
       "word": "男孩偷卖家中31斤金条变现565万",
@@ -289,6 +305,14 @@
       "onboard_time": 1701965614,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195676,
+      "num": 195676,
+      "word": "张镇麟求婚",
+      "onboard_time": 1701991528,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 190091,
@@ -347,12 +371,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153255,
+      "num": 165938,
+      "word": "一天一个苹果 兽医远离我",
+      "onboard_time": 1701955664,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 152296,
+      "num": 152296,
+      "word": "胡锡进谈彩民花10万元中2.2亿大奖",
+      "onboard_time": 1701971179,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144244,
+      "num": 112993,
+      "word": "杨天真拍的李现生图",
+      "onboard_time": 1701989481,
+      "rank": 31,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 143933,
       "num": 166338,
       "word": "福州烟台山",
       "onboard_time": 1701957640,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132614,
+      "num": 114800,
+      "word": "阿信 E6",
+      "onboard_time": 1701991949,
+      "rank": 30,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 131419,
@@ -363,20 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126085,
-      "num": 165938,
-      "word": "一天一个苹果 兽医远离我",
-      "onboard_time": 1701955664,
+      "raw_hot": 129567,
+      "num": 110249,
+      "word": "感觉大胖橘要把椅子开走",
+      "onboard_time": 1701979513,
       "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 121393,
-      "num": 121393,
-      "word": "胡锡进谈彩民花10万元中2.2亿大奖",
-      "onboard_time": 1701971179,
-      "rank": 12,
-      "category": "社会新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 120721,
@@ -403,19 +451,19 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 113178,
-      "num": 88975,
-      "word": "杨天真拍的李现生图",
-      "onboard_time": 1701989481,
-      "rank": 31,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 109956,
       "num": 91599,
       "word": "杨超越立体白裙",
       "onboard_time": 1701969741,
       "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106444,
+      "num": 106444,
+      "word": "易烊千玺手拿DV走红毯",
+      "onboard_time": 1701987677,
+      "rank": 44,
       "category": "作品衍生,时尚"
     },
     {
@@ -443,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95506,
+      "num": 82973,
+      "word": "杨紫GQ红毯生图",
+      "onboard_time": 1701967348,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93256,
+      "num": 116897,
+      "word": "这几种刷手机的姿势都不对",
+      "onboard_time": 1701986054,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91688,
       "num": 166379,
       "word": "吉林出现大面积雾凇",
@@ -451,12 +515,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 89001,
-      "num": 89001,
-      "word": "感觉大胖橘要把椅子开走",
-      "onboard_time": 1701979513,
+      "raw_hot": 91590,
+      "num": 87570,
+      "word": "王安宇胡先煦担心迪丽热巴",
+      "onboard_time": 1701972916,
       "rank": 41,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 86782,
@@ -467,20 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86324,
-      "num": 69684,
-      "word": "杨紫GQ红毯生图",
-      "onboard_time": 1701967348,
-      "rank": 46,
-      "category": "作品衍生,时尚"
+      "raw_hot": 83147,
+      "num": 91641,
+      "word": "王鹤棣 无人机表演",
+      "onboard_time": 1701953020,
+      "rank": 41,
+      "category": "艺人"
     },
     {
-      "raw_hot": 78258,
-      "num": 74736,
-      "word": "易烊千玺手拿DV走红毯",
-      "onboard_time": 1701987677,
+      "raw_hot": 82644,
+      "num": 82644,
+      "word": "迷路娃牢牢牵住民警伸出的手",
+      "onboard_time": 1701991769,
       "rank": 44,
-      "category": "作品衍生,时尚"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74753,
@@ -491,36 +555,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73258,
+      "num": 73258,
+      "word": "为了吃中餐混进群聊的外国教授",
+      "onboard_time": 1701992071,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72443,
       "num": 165718,
       "word": "这是全职高手",
       "onboard_time": 1701959922,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 71363,
-      "num": 91641,
-      "word": "王鹤棣 无人机表演",
-      "onboard_time": 1701953020,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 70077,
-      "num": 62588,
-      "word": "王安宇胡先煦担心迪丽热巴",
-      "onboard_time": 1701972916,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 70043,
-      "num": 89204,
-      "word": "这几种刷手机的姿势都不对",
-      "onboard_time": 1701986054,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 69937,
@@ -579,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31711,
+      "num": 835969,
+      "word": "滚滚江水见证生态转型发展之路",
+      "onboard_time": 1701954770,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25572,
       "num": 29261,
       "word": "辛光就是这个味儿",
@@ -593,14 +649,6 @@
       "onboard_time": 1701977175,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 21735,
-      "num": 553093,
-      "word": "滚滚江水见证生态转型发展之路",
-      "onboard_time": 1701954770,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16276,

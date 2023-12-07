@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701991077756,
+  "endTime": 1701992090885,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -1275,6 +1275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1147878,
+      "num": 1147878,
+      "word": "五月天直播",
+      "onboard_time": 1701991407,
+      "rank": 0,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1135894,
       "num": 1135894,
       "word": "女生长期吃避孕药治痘致癫痫脑出血",
@@ -1427,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1009026,
+      "num": 1009026,
+      "word": "彩票2.2亿",
+      "onboard_time": 1701956568,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1004507,
       "num": 1004507,
       "word": "上海12345回应五月天被质疑假唱",
@@ -1515,20 +1531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 957151,
+      "num": 152912,
+      "word": "律师称若五月天为真唱举报者无需担责",
+      "onboard_time": 1701977235,
+      "rank": 22,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 952023,
       "num": 952023,
       "word": "为什么打呼噜的人不把自己吵醒",
       "onboard_time": 1701736718,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 946621,
-      "num": 946621,
-      "word": "彩票2.2亿",
-      "onboard_time": 1701956568,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 942566,
@@ -2009,14 +2025,6 @@
       "onboard_time": 1701732988,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 724863,
-      "num": 94077,
-      "word": "律师称若五月天为真唱举报者无需担责",
-      "onboard_time": 1701977235,
-      "rank": 22,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 720978,
@@ -3763,6 +3771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458865,
+      "num": 458865,
+      "word": "万达拟出售一二线城市万达广场",
+      "onboard_time": 1701982274,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 458727,
       "num": 458727,
       "word": "GQ发疯主题的建议",
@@ -3921,6 +3937,14 @@
       "onboard_time": 1701666938,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 439339,
+      "num": 439339,
+      "word": "杨幂晒了三张小时候照片",
+      "onboard_time": 1701969143,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 438748,
@@ -4129,6 +4153,14 @@
       "onboard_time": 1701749257,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426130,
+      "num": 426130,
+      "word": "这视角好像和魏大勋谈了",
+      "onboard_time": 1701990144,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 425978,
@@ -4745,14 +4777,6 @@
       "onboard_time": 1701782920,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379219,
-      "num": 379219,
-      "word": "万达拟出售一二线城市万达广场",
-      "onboard_time": 1701982274,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 379185,
@@ -6515,14 +6539,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 291125,
-      "num": 291125,
-      "word": "杨幂晒了三张小时候照片",
-      "onboard_time": 1701969143,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 291113,
       "num": 291113,
       "word": "一念关山 隆力奇",
@@ -7712,14 +7728,6 @@
       "word": "RIIZE元彬 职校",
       "onboard_time": 1701930574,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 241262,
-      "num": 156395,
-      "word": "这视角好像和魏大勋谈了",
-      "onboard_time": 1701990144,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -8971,6 +8979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205957,
+      "num": 205957,
+      "word": "店主称2.2亿中奖者是拿包来装彩票的",
+      "onboard_time": 1701991407,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205872,
       "num": 205872,
       "word": "球场鹿晗 自由如风的少年",
@@ -9465,6 +9481,14 @@
       "onboard_time": 1701694776,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195676,
+      "num": 195676,
+      "word": "张镇麟求婚",
+      "onboard_time": 1701991528,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 195603,
@@ -11211,6 +11235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152296,
+      "num": 152296,
+      "word": "胡锡进谈彩民花10万元中2.2亿大奖",
+      "onboard_time": 1701971179,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152165,
       "num": 256953,
       "word": "这是全职高手",
@@ -11521,6 +11553,14 @@
       "onboard_time": 1701593733,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144244,
+      "num": 112993,
+      "word": "杨天真拍的李现生图",
+      "onboard_time": 1701989481,
+      "rank": 31,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 144177,
@@ -11947,6 +11987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132614,
+      "num": 114800,
+      "word": "阿信 E6",
+      "onboard_time": 1701991949,
+      "rank": 30,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 132478,
       "num": 132478,
       "word": "东北人都不用花钱买冰箱的吗",
@@ -12065,6 +12113,14 @@
       "onboard_time": 1701600456,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129567,
+      "num": 110249,
+      "word": "感觉大胖橘要把椅子开走",
+      "onboard_time": 1701979513,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 129519,
@@ -12307,14 +12363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121393,
-      "num": 121393,
-      "word": "胡锡进谈彩民花10万元中2.2亿大奖",
-      "onboard_time": 1701971179,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121341,
       "num": 121341,
       "word": "西班牙克罗地亚意大利同组",
@@ -12475,14 +12523,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 113178,
-      "num": 88975,
-      "word": "杨天真拍的李现生图",
-      "onboard_time": 1701989481,
-      "rank": 31,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 113008,
       "num": 172104,
       "word": "F1中国大奖赛 冲刺赛",
@@ -12601,6 +12641,14 @@
       "onboard_time": 1701576272,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106444,
+      "num": 106444,
+      "word": "易烊千玺手拿DV走红毯",
+      "onboard_time": 1701987677,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106051,
@@ -12819,12 +12867,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95506,
+      "num": 82973,
+      "word": "杨紫GQ红毯生图",
+      "onboard_time": 1701967348,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93256,
+      "num": 116897,
+      "word": "这几种刷手机的姿势都不对",
+      "onboard_time": 1701986054,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91642,
       "num": 91642,
       "word": "睡前吃宵夜和饿肚子睡觉哪个危害更大",
       "onboard_time": 1701630975,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91590,
+      "num": 87570,
+      "word": "王安宇胡先煦担心迪丽热巴",
+      "onboard_time": 1701972916,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 91539,
@@ -12867,14 +12939,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 89001,
-      "num": 89001,
-      "word": "感觉大胖橘要把椅子开走",
-      "onboard_time": 1701979513,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88642,
       "num": 2167238,
       "word": "8招教你应对呼吸道疾病",
@@ -12897,14 +12961,6 @@
       "onboard_time": 1701971298,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86324,
-      "num": 69684,
-      "word": "杨紫GQ红毯生图",
-      "onboard_time": 1701967348,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86005,
@@ -12937,6 +12993,14 @@
       "onboard_time": 1701901396,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82644,
+      "num": 82644,
+      "word": "迷路娃牢牢牵住民警伸出的手",
+      "onboard_time": 1701991769,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81804,
@@ -13011,14 +13075,6 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 78258,
-      "num": 74736,
-      "word": "易烊千玺手拿DV走红毯",
-      "onboard_time": 1701987677,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 77517,
       "num": 89645,
       "word": "好白净的猪咪",
@@ -13051,6 +13107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73258,
+      "num": 73258,
+      "word": "为了吃中餐混进群聊的外国教授",
+      "onboard_time": 1701992071,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72921,
       "num": 72921,
       "word": "现代汽车高管称永远比中国车更高端",
@@ -13073,22 +13137,6 @@
       "onboard_time": 1701631036,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70077,
-      "num": 62588,
-      "word": "王安宇胡先煦担心迪丽热巴",
-      "onboard_time": 1701972916,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 70043,
-      "num": 89204,
-      "word": "这几种刷手机的姿势都不对",
-      "onboard_time": 1701986054,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 69336,
@@ -13475,6 +13523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31711,
+      "num": 835969,
+      "word": "滚滚江水见证生态转型发展之路",
+      "onboard_time": 1701954770,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30728,
       "num": 37127,
       "word": "军大衣",
@@ -13553,14 +13609,6 @@
       "onboard_time": 1701888495,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 21735,
-      "num": 553093,
-      "word": "滚滚江水见证生态转型发展之路",
-      "onboard_time": 1701954770,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21077,
