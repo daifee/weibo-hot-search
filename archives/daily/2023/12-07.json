@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701947781506,
+  "endTime": 1701948869508,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -115,7 +115,7 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 1978084,
+      "raw_hot": 1978175,
       "num": 1978084,
       "word": "虞书欣亲杨天真",
       "onboard_time": 1701946420,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1778240,
-      "num": 857221,
+      "num": 1326990,
       "word": "好怕谢娜的船翻了",
       "onboard_time": 1701944023,
       "rank": 7,
@@ -419,12 +419,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 707720,
+      "num": 208569,
+      "word": "王一博刘冲同船",
+      "onboard_time": 1701948819,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 668593,
       "num": 465029,
       "word": "英语成绩差 死磕这18张图",
       "onboard_time": 1701938316,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 663829,
+      "num": 207530,
+      "word": "张凌赫贺聪 养眼",
+      "onboard_time": 1701948339,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 663136,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635995,
+      "num": 207027,
+      "word": "杨幂倪妮 开嗑了",
+      "onboard_time": 1701948819,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 622812,
       "num": 622812,
       "word": "俄罗斯将于2024年3月17日举行总统选举",
@@ -465,6 +489,14 @@
       "onboard_time": 1701922237,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621421,
+      "num": 272793,
+      "word": "白鹿曾舜晞演起来了",
+      "onboard_time": 1701947620,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 619226,
@@ -595,14 +627,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 511233,
-      "num": 272793,
-      "word": "白鹿曾舜晞演起来了",
-      "onboard_time": 1701947620,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 509972,
       "num": 427386,
       "word": "老师我们家诗晴没怀孕",
@@ -633,6 +657,14 @@
       "onboard_time": 1701910716,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 501192,
+      "num": 385459,
+      "word": "原来慈禧太后的寝宫那么小",
+      "onboard_time": 1701946972,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 492805,
@@ -683,7 +715,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439560,
+      "raw_hot": 443817,
       "num": 439560,
       "word": "女友假装一个月褪一层皮",
       "onboard_time": 1701944506,
@@ -697,14 +729,6 @@
       "onboard_time": 1701926675,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 428433,
-      "num": 385459,
-      "word": "原来慈禧太后的寝宫那么小",
-      "onboard_time": 1701946972,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 424437,
@@ -1291,6 +1315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 259430,
+      "num": 437561,
+      "word": "跑腿员爸爸撞坏顾客蛋糕买回给女儿庆生",
+      "onboard_time": 1701947439,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258442,
       "num": 235686,
       "word": "Jennie crazy over you",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1701919535,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239528,
+      "num": 386303,
+      "word": "日食记 酸菜酱大骨",
+      "onboard_time": 1701947507,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 237464,
@@ -1561,6 +1601,14 @@
       "onboard_time": 1701923978,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210659,
+      "num": 210659,
+      "word": "12月29日易建联球衣退役",
+      "onboard_time": 1701948219,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 210644,
@@ -1739,6 +1787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189484,
+      "num": 387807,
+      "word": "妈妈花409元给孩子自制校服款羽绒服",
+      "onboard_time": 1701945581,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188913,
       "num": 188913,
       "word": "马龙连得11分",
@@ -1843,6 +1899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170821,
+      "num": 210273,
+      "word": "成都双流机场车辆事故致5伤",
+      "onboard_time": 1701947979,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170560,
       "num": 111703,
       "word": "巴黎怎么那么冷啦",
@@ -1867,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165995,
+      "num": 209237,
+      "word": "上班种菜被公司通报了",
+      "onboard_time": 1701948461,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163422,
       "num": 163422,
       "word": "一念关山",
@@ -1889,14 +1961,6 @@
       "onboard_time": 1701905247,
       "rank": 26,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 161949,
-      "num": 387807,
-      "word": "妈妈花409元给孩子自制校服款羽绒服",
-      "onboard_time": 1701945581,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158247,
@@ -1939,22 +2003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152018,
-      "num": 386303,
-      "word": "日食记 酸菜酱大骨",
-      "onboard_time": 1701947507,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 150728,
-      "num": 395080,
-      "word": "跑腿员爸爸撞坏顾客蛋糕买回给女儿庆生",
-      "onboard_time": 1701947439,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146613,
       "num": 146613,
       "word": "女兵应征有哪些要求",
@@ -1993,6 +2041,14 @@
       "onboard_time": 1701942770,
       "rank": 6,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 136725,
+      "num": 311104,
+      "word": "表演艺术家李法曾去世",
+      "onboard_time": 1701947507,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136634,
@@ -2081,14 +2137,6 @@
       "onboard_time": 1701864158,
       "rank": 23,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 112683,
-      "num": 311104,
-      "word": "表演艺术家李法曾去世",
-      "onboard_time": 1701947507,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111563,
