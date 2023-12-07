@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/12/07 22:35:32
+本榜单时间：2023/01/01 00:23:37 ~ 2023/12/07 23:19:13
 </p>
 </blockquote>
 <p>
@@ -1437,6 +1437,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%9C%B0%E9%9C%87%23" target="weibo">
+连云港地震（热度：8068383）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B0%8F%E5%BC%BA%E7%A1%AE%E8%AE%A4%E9%81%87%E9%9A%BE%23" target="weibo">
 唐小强确认遇难（热度：8063331）
 </a>
@@ -1805,12 +1811,6 @@ T1晋级S13总决赛（热度：7233927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%B8%9D%23" target="weibo">
 雷佳音 白玉兰视帝（热度：7110056）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E8%BD%A6%E7%A5%B8%23" target="weibo">
-邯郸车祸（热度：7084987）
 </a>
 </li>
 

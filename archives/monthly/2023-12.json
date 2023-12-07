@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701959732306,
+  "endTime": 1701962353689,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -41,6 +41,14 @@
       "onboard_time": 1701607961,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 8068383,
+      "num": 8068383,
+      "word": "连云港地震",
+      "onboard_time": 1701962025,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7740315,
@@ -1859,6 +1867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 946621,
+      "num": 946621,
+      "word": "彩票2.2亿",
+      "onboard_time": 1701956568,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 942566,
       "num": 942566,
       "word": "小时候被性骚扰是女性共同的秘密",
@@ -2259,14 +2275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 793018,
-      "num": 793018,
-      "word": "彩票2.2亿",
-      "onboard_time": 1701956568,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 790762,
       "num": 790762,
       "word": "周也 童装汉服",
@@ -2419,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 745044,
+      "num": 288819,
+      "word": "王一博 快划",
+      "onboard_time": 1701960282,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 744253,
       "num": 744253,
       "word": "张家妍男朋友",
@@ -2513,6 +2529,14 @@
       "onboard_time": 1701410015,
       "rank": 4,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 727870,
+      "num": 727870,
+      "word": "五月天巴黎演唱会",
+      "onboard_time": 1701961905,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 725948,
@@ -2873,6 +2897,14 @@
       "onboard_time": 1701493653,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 650736,
+      "num": 275435,
+      "word": "杨超越内场",
+      "onboard_time": 1701961369,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 649387,
@@ -3699,6 +3731,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 548898,
+      "num": 265660,
+      "word": "杨紫张晚意檀健次船上打招呼",
+      "onboard_time": 1701960041,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 547755,
       "num": 547755,
       "word": "孟羽童 清华演讲",
@@ -4035,6 +4075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 516663,
+      "num": 516663,
+      "word": "考研才是年轻人唯一出路吗",
+      "onboard_time": 1701961004,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 516511,
       "num": 516511,
       "word": "王楚钦发球",
@@ -4307,12 +4355,28 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 488046,
+      "num": 410159,
+      "word": "福州烟台山",
+      "onboard_time": 1701957640,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486865,
       "num": 448287,
       "word": "疑阿里被献血女子丈夫求助帖曝光",
       "onboard_time": 1701420333,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485860,
+      "num": 485860,
+      "word": "2.2亿中奖者是倍投陷阱下的幸存者",
+      "onboard_time": 1701957583,
+      "rank": 15,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 485569,
@@ -4611,14 +4675,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 459882,
-      "num": 459882,
-      "word": "2.2亿中奖者是倍投陷阱下的幸存者",
-      "onboard_time": 1701957583,
-      "rank": 15,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 459687,
       "num": 410401,
       "word": "肖战机场路透",
@@ -4915,14 +4971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 442081,
-      "num": 410159,
-      "word": "福州烟台山",
-      "onboard_time": 1701957640,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441065,
       "num": 441065,
       "word": "VOGUE编辑回怼网友",
@@ -4953,6 +5001,14 @@
       "onboard_time": 1701649299,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437426,
+      "num": 260037,
+      "word": "娜扎戚薇周也没去GQ的原因",
+      "onboard_time": 1701961905,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 437208,
@@ -5971,6 +6027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 383291,
+      "num": 256638,
+      "word": "易烊千玺气定神闲的sense",
+      "onboard_time": 1701960705,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 382828,
       "num": 347192,
       "word": "任如意爆改人生导师",
@@ -6729,6 +6793,14 @@
       "onboard_time": 1701656732,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 351446,
+      "num": 256731,
+      "word": "张凌赫卢昱晓金靖孙晨竣合照",
+      "onboard_time": 1701960461,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 351439,
@@ -11059,6 +11131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 216549,
+      "num": 268533,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1701961602,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 216357,
       "num": 216357,
       "word": "谷歌Gemini",
@@ -12107,6 +12187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199979,
+      "num": 267312,
+      "word": "世界上没有人是准备好的",
+      "onboard_time": 1701959987,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199840,
       "num": 199840,
       "word": "揭秘五月天经纪公司相信音乐",
@@ -12201,6 +12289,14 @@
       "onboard_time": 1701871780,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198847,
+      "num": 265482,
+      "word": "肖四第一套",
+      "onboard_time": 1701961970,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 198819,
@@ -12867,6 +12963,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 190612,
+      "num": 264716,
+      "word": "知情人回应狗主人锁狗被疯狂攻击",
+      "onboard_time": 1701961905,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190561,
       "num": 190561,
       "word": "八段锦每个动作都有讲究",
@@ -12969,6 +13073,14 @@
       "onboard_time": 1701945581,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189396,
+      "num": 263434,
+      "word": "手机呼吸灯",
+      "onboard_time": 1701958782,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 188967,
@@ -13921,6 +14033,14 @@
       "onboard_time": 1701569971,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171058,
+      "num": 266147,
+      "word": "吉林出现大面积雾凇",
+      "onboard_time": 1701958970,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 171038,
@@ -14963,14 +15083,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 154884,
-      "num": 266002,
-      "word": "吉林出现大面积雾凇",
-      "onboard_time": 1701958970,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 154754,
       "num": 154754,
       "word": "MISSING帮助Ruler走出困境",
@@ -15091,6 +15203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152165,
+      "num": 256953,
+      "word": "这是全职高手",
+      "onboard_time": 1701959922,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 152160,
       "num": 152160,
       "word": "小满生活冯丹被家暴轻生",
@@ -15145,6 +15265,14 @@
       "onboard_time": 1701853418,
       "rank": 39,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 151016,
+      "num": 256828,
+      "word": "为什么松果遇水会闭合",
+      "onboard_time": 1701961665,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 150872,
@@ -16105,14 +16233,6 @@
       "onboard_time": 1701691296,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134825,
-      "num": 238035,
-      "word": "手机呼吸灯",
-      "onboard_time": 1701958782,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 134751,
@@ -17524,7 +17644,7 @@
     },
     {
       "raw_hot": 81804,
-      "num": 1418881,
+      "num": 2368719,
       "word": "4K视频感受冬日留白美学",
       "onboard_time": 1701954942,
       "rank": 2,
