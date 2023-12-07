@@ -1,0 +1,410 @@
+{
+  "runTime": 1701952433208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7529801,
+        "num": 7529801,
+        "word": "GQ的小船 尴尬",
+        "onboard_time": 1701942460,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 5722653,
+        "num": 5722653,
+        "word": "GQ红毯",
+        "onboard_time": 1701938256,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74792,
+        "num": 3529672,
+        "word": "古诗中雪天有满满的醉人意境",
+        "onboard_time": 1701935078,
+        "rank": 2,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 2664009,
+        "num": 2664009,
+        "word": "杨幂倪妮 开嗑了",
+        "onboard_time": 1701948819,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1334147,
+        "num": 1334147,
+        "word": "13岁男孩班内遭霸凌濒临死亡",
+        "onboard_time": 1701949240,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303420,
+        "num": 1303420,
+        "word": "王一博刘冲同船",
+        "onboard_time": 1701948819,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1019678,
+        "num": 1019678,
+        "word": "肖战指导英文回击法国球员",
+        "onboard_time": 1701951640,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 987259,
+        "num": 987259,
+        "word": "五月天凌晨三点直播",
+        "onboard_time": 1701950919,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 668036,
+        "num": 668036,
+        "word": "GQ为什么没有主持人",
+        "onboard_time": 1701943544,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 415666,
+        "num": 415666,
+        "word": "女生长期吃避孕药治痘致癫痫脑出血",
+        "onboard_time": 1701940603,
+        "rank": 9,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 972002,
+        "num": 414094,
+        "word": "GQ好多人鱼公主",
+        "onboard_time": 1701930632,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 953740,
+        "num": 411214,
+        "word": "易烊千玺辛爽 同船",
+        "onboard_time": 1701936815,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 943769,
+        "num": 410496,
+        "word": "好怕谢娜的船翻了",
+        "onboard_time": 1701944023,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 404918,
+        "num": 404918,
+        "word": "女友假装一个月褪一层皮",
+        "onboard_time": 1701944506,
+        "rank": 13,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 90184,
+        "num": 367316,
+        "word": "小米澎湃OS技术白皮书发布",
+        "onboard_time": 1701950439,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 917743,
+        "num": 354446,
+        "word": "陈都灵 白月光回国",
+        "onboard_time": 1701950861,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 765995,
+        "num": 352997,
+        "word": "虞书欣亲杨天真",
+        "onboard_time": 1701946420,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 339669,
+        "num": 339669,
+        "word": "身体这4个部位不能太干净",
+        "onboard_time": 1701936815,
+        "rank": 17,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 113732,
+        "num": 308399,
+        "word": "小米澎湃OS有点东西",
+        "onboard_time": 1701950199,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 306798,
+        "num": 306798,
+        "word": "男孩偷卖家中31斤金条变现565万",
+        "onboard_time": 1701936397,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614034,
+        "num": 300267,
+        "word": "杨紫 夜色玫瑰",
+        "onboard_time": 1701941146,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 559788,
+        "num": 299296,
+        "word": "GQ连夜排查水道",
+        "onboard_time": 1701922417,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 392355,
+        "num": 295450,
+        "word": "原来慈禧太后的寝宫那么小",
+        "onboard_time": 1701946972,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278576,
+        "num": 278576,
+        "word": "仍有人每天戴N95口罩测抗原",
+        "onboard_time": 1701949659,
+        "rank": 23,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 241467,
+        "num": 241467,
+        "word": "遭班内霸凌濒临死亡男孩亲属发声",
+        "onboard_time": 1701949176,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586077,
+        "num": 239491,
+        "word": "杨紫范丞丞 手机壳",
+        "onboard_time": 1701951640,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 575677,
+        "num": 239331,
+        "word": "白敬亭扒拉气球",
+        "onboard_time": 1701950861,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 548635,
+        "num": 236375,
+        "word": "毛晓彤鼻子",
+        "onboard_time": 1701952238,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231082,
+        "num": 231082,
+        "word": "英语成绩差 死磕这18张图",
+        "onboard_time": 1701938316,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166431,
+        "num": 230214,
+        "word": "跑腿员爸爸撞坏顾客蛋糕买回给女儿庆生",
+        "onboard_time": 1701947439,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532302,
+        "num": 229683,
+        "word": "米卡GQ让你发疯你发癫",
+        "onboard_time": 1701928473,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 527441,
+        "num": 228459,
+        "word": "GQ内场",
+        "onboard_time": 1701951761,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 521863,
+        "num": 227923,
+        "word": "GQ疯狂星期四",
+        "onboard_time": 1701931291,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 491034,
+        "num": 227129,
+        "word": "景甜白得发光",
+        "onboard_time": 1701951400,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 508218,
+        "num": 225897,
+        "word": "于适首套高定造型",
+        "onboard_time": 1701926254,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 480461,
+        "num": 225084,
+        "word": "GQ灯光 受害人",
+        "onboard_time": 1701950919,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224382,
+        "num": 224382,
+        "word": "江西省民政厅正在调查花10万中2.2亿",
+        "onboard_time": 1701924521,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212941,
+        "num": 212941,
+        "word": "莎头 稳稳的幸福",
+        "onboard_time": 1701952059,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208500,
+        "num": 208500,
+        "word": "王楚钦孙颖莎11比1",
+        "onboard_time": 1701952181,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187224,
+        "num": 187224,
+        "word": "头发太长会和身体抢营养吗",
+        "onboard_time": 1701948882,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 434412,
+        "num": 186718,
+        "word": "张凌赫贺聪 养眼",
+        "onboard_time": 1701948339,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383209,
+        "num": 186478,
+        "word": "白鹿曾舜晞演起来了",
+        "onboard_time": 1701947620,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 342431,
+        "num": 185117,
+        "word": "杨天真GQ秒了",
+        "onboard_time": 1701934717,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 295433,
+        "num": 184510,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1701951276,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184276,
+        "num": 184276,
+        "word": "王曼昱3比0帕瓦德",
+        "onboard_time": 1701952181,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164295,
+        "num": 164295,
+        "word": "莎头组合3比0法国组合",
+        "onboard_time": 1701949902,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304638,
+        "num": 164262,
+        "word": "曾舜晞银发",
+        "onboard_time": 1701920675,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168608,
+        "num": 164250,
+        "word": "江西2.2亿大奖诞生门店店门紧闭休息中",
+        "onboard_time": 1701952000,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164215,
+        "num": 164215,
+        "word": "GQ 你好癫啊",
+        "onboard_time": 1701843692,
+        "rank": 48,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 369406,
+        "num": 164135,
+        "word": "田曦薇你在看什么",
+        "onboard_time": 1701950320,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}

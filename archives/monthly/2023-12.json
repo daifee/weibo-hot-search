@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701948869508,
+  "endTime": 1701952433208,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -321,6 +321,14 @@
       "onboard_time": 1701399092,
       "rank": 0,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2664009,
+      "num": 2664009,
+      "word": "杨幂倪妮 开嗑了",
+      "onboard_time": 1701948819,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2635505,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 1501522,
-      "num": 482940,
+      "num": 668036,
       "word": "GQ为什么没有主持人",
       "onboard_time": 1701943544,
       "rank": 14,
@@ -1179,6 +1187,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 1334147,
+      "num": 1334147,
+      "word": "13岁男孩班内遭霸凌濒临死亡",
+      "onboard_time": 1701949240,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1324981,
       "num": 1324981,
       "word": "GQ疯狂星期四",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1701518915,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1303420,
+      "num": 1303420,
+      "word": "王一博刘冲同船",
+      "onboard_time": 1701948819,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1292092,
@@ -1635,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1019678,
+      "num": 1019678,
+      "word": "肖战指导英文回击法国球员",
+      "onboard_time": 1701951640,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1019091,
       "num": 1019091,
       "word": "官方通报三甲医院超收22万医疗费",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1701607837,
       "rank": 4,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 987259,
+      "num": 987259,
+      "word": "五月天凌晨三点直播",
+      "onboard_time": 1701950919,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 978656,
@@ -1833,6 +1873,14 @@
       "onboard_time": 1701850542,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 917743,
+      "num": 354446,
+      "word": "陈都灵 白月光回国",
+      "onboard_time": 1701950861,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 910544,
@@ -2491,14 +2539,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 707720,
-      "num": 208569,
-      "word": "王一博刘冲同船",
-      "onboard_time": 1701948819,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 704048,
       "num": 704048,
       "word": "新郎婚礼中晕倒全市急救专家都来了",
@@ -2875,14 +2915,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 635995,
-      "num": 207027,
-      "word": "杨幂倪妮 开嗑了",
-      "onboard_time": 1701948819,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 634608,
       "num": 329008,
       "word": "娜扎这几步好像芭蕾公主",
@@ -3243,6 +3275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 586077,
+      "num": 239491,
+      "word": "杨紫范丞丞 手机壳",
+      "onboard_time": 1701951640,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 585073,
       "num": 745749,
       "word": "西安一村庄被倾倒核酸采样试管",
@@ -3281,6 +3321,14 @@
       "onboard_time": 1701855277,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 575677,
+      "num": 239331,
+      "word": "白敬亭扒拉气球",
+      "onboard_time": 1701950861,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 574980,
@@ -3539,6 +3587,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 548635,
+      "num": 236375,
+      "word": "毛晓彤鼻子",
+      "onboard_time": 1701952238,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 547755,
       "num": 547755,
       "word": "孟羽童 清华演讲",
@@ -3753,6 +3809,14 @@
       "onboard_time": 1701670717,
       "rank": 41,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 527441,
+      "num": 228459,
+      "word": "GQ内场",
+      "onboard_time": 1701951761,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 525296,
@@ -4107,6 +4171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491034,
+      "num": 227129,
+      "word": "景甜白得发光",
+      "onboard_time": 1701951400,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 490911,
       "num": 298715,
       "word": "白鹿 年度号召力演员",
@@ -4217,6 +4289,14 @@
       "onboard_time": 1701528336,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 480461,
+      "num": 225084,
+      "word": "GQ灯光 受害人",
+      "onboard_time": 1701950919,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 479163,
@@ -6075,6 +6155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369406,
+      "num": 164135,
+      "word": "田曦薇你在看什么",
+      "onboard_time": 1701950320,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 368862,
       "num": 368862,
       "word": "莎头",
@@ -7843,6 +7931,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 295433,
+      "num": 184510,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1701951276,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 295037,
       "num": 295037,
       "word": "刘宇宁吃瓜吃到自己头上",
@@ -8449,6 +8545,14 @@
       "onboard_time": 1701859837,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278576,
+      "num": 278576,
+      "word": "仍有人每天戴N95口罩测抗原",
+      "onboard_time": 1701949659,
+      "rank": 23,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 277852,
@@ -9649,6 +9753,14 @@
       "onboard_time": 1701441818,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 241467,
+      "num": 241467,
+      "word": "遭班内霸凌濒临死亡男孩亲属发声",
+      "onboard_time": 1701949176,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241400,
@@ -10915,6 +11027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212941,
+      "num": 212941,
+      "word": "莎头 稳稳的幸福",
+      "onboard_time": 1701952059,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212817,
       "num": 204713,
       "word": "吴京知道成片是这样的吗",
@@ -11225,6 +11345,14 @@
       "onboard_time": 1701686256,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208500,
+      "num": 208500,
+      "word": "王楚钦孙颖莎11比1",
+      "onboard_time": 1701952181,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 208472,
@@ -12763,6 +12891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187224,
+      "num": 187224,
+      "word": "头发太长会和身体抢营养吗",
+      "onboard_time": 1701948882,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 187151,
       "num": 187151,
       "word": "詹姆斯传球击倒布克",
@@ -12913,6 +13049,14 @@
       "onboard_time": 1701824978,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184276,
+      "num": 184276,
+      "word": "王曼昱3比0帕瓦德",
+      "onboard_time": 1701952181,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 184215,
@@ -13707,6 +13851,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 168608,
+      "num": 164250,
+      "word": "江西2.2亿大奖诞生门店店门紧闭休息中",
+      "onboard_time": 1701952000,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168578,
       "num": 168578,
       "word": "杜华为乐华年会策划cos局",
@@ -14001,6 +14153,14 @@
       "onboard_time": 1701594334,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164295,
+      "num": 164295,
+      "word": "莎头组合3比0法国组合",
+      "onboard_time": 1701949902,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 164160,
@@ -16459,6 +16619,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 113732,
+      "num": 308399,
+      "word": "小米澎湃OS有点东西",
+      "onboard_time": 1701950199,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 113724,
       "num": 113724,
       "word": "侯雯元面前的周也belike",
@@ -16969,6 +17137,14 @@
       "onboard_time": 1701558439,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90184,
+      "num": 367316,
+      "word": "小米澎湃OS技术白皮书发布",
+      "onboard_time": 1701950439,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 89852,
