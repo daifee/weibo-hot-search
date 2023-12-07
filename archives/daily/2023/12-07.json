@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701931016611,
+  "endTime": 1701933412867,
   "band_list": [
     {
       "raw_hot": 3590632,
@@ -27,6 +27,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 2902095,
+      "num": 2902095,
+      "word": "GQ好多人鱼公主",
+      "onboard_time": 1701930632,
+      "rank": 10,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 2437987,
       "num": 2437987,
       "word": "GQ连夜排查水道",
@@ -49,6 +57,14 @@
       "onboard_time": 1701916173,
       "rank": 48,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 2256331,
+      "num": 2256331,
+      "word": "小黄开播几分钟直播间被封",
+      "onboard_time": 1701930695,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2200512,
@@ -99,6 +115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1287663,
+      "num": 1287663,
+      "word": "GQ疯狂星期四",
+      "onboard_time": 1701931291,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1247213,
       "num": 1247213,
       "word": "E6",
@@ -113,6 +137,14 @@
       "onboard_time": 1701877300,
       "rank": 6,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1175395,
+      "num": 1175395,
+      "word": "杨幂在超市拍出发图",
+      "onboard_time": 1701929614,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1117549,
@@ -155,11 +187,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 955045,
-      "num": 955045,
-      "word": "杨幂在超市拍出发图",
-      "onboard_time": 1701929614,
-      "rank": 15,
+      "raw_hot": 963040,
+      "num": 963040,
+      "word": "虞书欣 GQ惊喜嘉宾",
+      "onboard_time": 1701932075,
+      "rank": 8,
       "category": "作品衍生,时尚"
     },
     {
@@ -179,12 +211,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 830174,
-      "num": 412777,
-      "word": "GQ好多人鱼公主",
-      "onboard_time": 1701930632,
-      "rank": 10,
-      "category": "时尚,作品衍生"
+      "raw_hot": 911308,
+      "num": 911308,
+      "word": "网传男孩遭亲爸后妈虐待睡楼道",
+      "onboard_time": 1701931473,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822094,
@@ -283,6 +315,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 579530,
+      "num": 352033,
+      "word": "秦岚亲了辛芷蕾",
+      "onboard_time": 1701929494,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 576928,
+      "num": 434205,
+      "word": "于适首套高定造型",
+      "onboard_time": 1701926254,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 575881,
       "num": 337059,
       "word": "赵露思败诉",
@@ -323,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523978,
-      "num": 352033,
-      "word": "秦岚亲了辛芷蕾",
-      "onboard_time": 1701929494,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 515491,
+      "num": 336764,
+      "word": "米卡GQ让你发疯你发癫",
+      "onboard_time": 1701928473,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 508926,
@@ -355,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485984,
-      "num": 336764,
-      "word": "米卡GQ让你发疯你发癫",
-      "onboard_time": 1701928473,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 476285,
       "num": 476285,
       "word": "公司辞退提前吃午饭员工被判赔2万",
@@ -379,11 +419,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469302,
-      "num": 434205,
-      "word": "于适首套高定造型",
-      "onboard_time": 1701926254,
-      "rank": 16,
+      "raw_hot": 469894,
+      "num": 341796,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
       "category": "作品衍生,时尚"
     },
     {
@@ -425,6 +465,14 @@
       "onboard_time": 1701917372,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414394,
+      "num": 293293,
+      "word": "37岁女子颈椎后仰折叠26年生3娃",
+      "onboard_time": 1701931054,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400644,
@@ -483,6 +531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 374816,
+      "num": 291606,
+      "word": "能唱E6的歌手",
+      "onboard_time": 1701931713,
+      "rank": 26,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 362341,
       "num": 362341,
       "word": "湖人被禁止穿黑色球衣",
@@ -521,14 +577,6 @@
       "onboard_time": 1701914914,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 341796,
-      "num": 341796,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 338092,
@@ -617,6 +665,14 @@
       "onboard_time": 1701863375,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317025,
+      "num": 317025,
+      "word": "TES官宣Wayward离队",
+      "onboard_time": 1701931894,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 315364,
@@ -825,14 +881,6 @@
       "onboard_time": 1701912931,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 258455,
-      "num": 258455,
-      "word": "小黄开播几分钟直播间被封",
-      "onboard_time": 1701930695,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258442,
@@ -1059,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212176,
+      "num": 196667,
+      "word": "吴楚一reaction尚雯婕新综艺",
+      "onboard_time": 1701933335,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211250,
       "num": 211250,
       "word": "医院交费排长队工作人员玩手游",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1701922779,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198046,
+      "num": 198046,
+      "word": "库里三分绝杀",
+      "onboard_time": 1701931894,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 197322,
@@ -1443,12 +1507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124895,
+      "num": 124895,
+      "word": "挑战只吃红薯",
+      "onboard_time": 1701932797,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124218,
       "num": 100750,
       "word": "当新闻女王遇上四大名著",
       "onboard_time": 1701877059,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123400,
+      "num": 262521,
+      "word": "张晚意变装演绎S18花似锦",
+      "onboard_time": 1701932676,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 114461,
@@ -1689,6 +1769,14 @@
       "onboard_time": 1701865836,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 40791,
+      "num": 197707,
+      "word": "为啥我们仍需要一部大排自吸",
+      "onboard_time": 1701932855,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 40760,

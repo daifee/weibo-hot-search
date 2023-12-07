@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1701931016611,
+  "endTime": 1701933412867,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -203,6 +203,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 2902095,
+      "num": 2902095,
+      "word": "GQ好多人鱼公主",
+      "onboard_time": 1701930632,
+      "rank": 10,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 2885721,
       "num": 2885721,
       "word": "八段锦 慢性病",
@@ -393,6 +401,14 @@
       "onboard_time": 1701916173,
       "rank": 48,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 2256331,
+      "num": 2256331,
+      "word": "小黄开播几分钟直播间被封",
+      "onboard_time": 1701930695,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2227578,
@@ -1099,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1287663,
+      "num": 1287663,
+      "word": "GQ疯狂星期四",
+      "onboard_time": 1701931291,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1281256,
       "num": 1281256,
       "word": "周一围女儿 喀秋莎",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1701760898,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1175395,
+      "num": 1175395,
+      "word": "杨幂在超市拍出发图",
+      "onboard_time": 1701929614,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1173094,
@@ -1571,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 963040,
+      "num": 963040,
+      "word": "虞书欣 GQ惊喜嘉宾",
+      "onboard_time": 1701932075,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 962840,
       "num": 962840,
       "word": "胖东来员工不想上班请假不允许不批假",
@@ -1593,14 +1633,6 @@
       "onboard_time": 1701764318,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 955045,
-      "num": 955045,
-      "word": "杨幂在超市拍出发图",
-      "onboard_time": 1701929614,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 952023,
@@ -1657,6 +1689,14 @@
       "onboard_time": 1701850542,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 911308,
+      "num": 911308,
+      "word": "网传男孩遭亲爸后妈虐待睡楼道",
+      "onboard_time": 1701931473,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 910544,
@@ -1841,14 +1881,6 @@
       "onboard_time": 1701870880,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 830174,
-      "num": 412777,
-      "word": "GQ好多人鱼公主",
-      "onboard_time": 1701930632,
-      "rank": 10,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 828327,
@@ -3003,12 +3035,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579530,
+      "num": 352033,
+      "word": "秦岚亲了辛芷蕾",
+      "onboard_time": 1701929494,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 578750,
       "num": 578750,
       "word": "王者荣耀 露娜",
       "onboard_time": 1701855277,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 576928,
+      "num": 434205,
+      "word": "于适首套高定造型",
+      "onboard_time": 1701926254,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 574980,
@@ -3483,14 +3531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 523978,
-      "num": 352033,
-      "word": "秦岚亲了辛芷蕾",
-      "onboard_time": 1701929494,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 523602,
       "num": 523602,
       "word": "一闪一闪亮星星路演",
@@ -3569,6 +3609,14 @@
       "onboard_time": 1701774163,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 515491,
+      "num": 336764,
+      "word": "米卡GQ让你发疯你发癫",
+      "onboard_time": 1701928473,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 515285,
@@ -3811,14 +3859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485984,
-      "num": 336764,
-      "word": "米卡GQ让你发疯你发癫",
-      "onboard_time": 1701928473,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 485569,
       "num": 485569,
       "word": "檀健次周也嘴巴都亲红了",
@@ -4019,20 +4059,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469894,
+      "num": 341796,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 469849,
       "num": 381197,
       "word": "罗云熙 下巴先走",
       "onboard_time": 1701762817,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 469302,
-      "num": 434205,
-      "word": "于适首套高定造型",
-      "onboard_time": 1701926254,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 468717,
@@ -4859,6 +4899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 414394,
+      "num": 293293,
+      "word": "37岁女子颈椎后仰折叠26年生3娃",
+      "onboard_time": 1701931054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414256,
       "num": 414256,
       "word": "何猷君 小孩哥",
@@ -5555,6 +5603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 374816,
+      "num": 291606,
+      "word": "能唱E6的歌手",
+      "onboard_time": 1701931713,
+      "rank": 26,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 374626,
       "num": 216904,
       "word": "李兰迪造型",
@@ -6179,14 +6235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 341796,
-      "num": 341796,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 341682,
       "num": 341682,
       "word": "王楚钦孙颖莎3比0何钧杰杜凯琹",
@@ -6705,6 +6753,14 @@
       "onboard_time": 1701354398,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317025,
+      "num": 317025,
+      "word": "TES官宣Wayward离队",
+      "onboard_time": 1701931894,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 316580,
@@ -8587,14 +8643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 258455,
-      "num": 258455,
-      "word": "小黄开播几分钟直播间被封",
-      "onboard_time": 1701930695,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258442,
       "num": 235686,
       "word": "Jennie crazy over you",
@@ -10443,6 +10491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212176,
+      "num": 196667,
+      "word": "吴楚一reaction尚雯婕新综艺",
+      "onboard_time": 1701933335,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212028,
       "num": 212028,
       "word": "女托尼当初就是这么退出市场的",
@@ -11329,6 +11385,14 @@
       "onboard_time": 1701523536,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198046,
+      "num": 198046,
+      "word": "库里三分绝杀",
+      "onboard_time": 1701931894,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 198003,
@@ -15459,6 +15523,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 124895,
+      "num": 124895,
+      "word": "挑战只吃红薯",
+      "onboard_time": 1701932797,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124218,
       "num": 100750,
       "word": "当新闻女王遇上四大名著",
@@ -15521,6 +15593,14 @@
       "onboard_time": 1701510633,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123400,
+      "num": 262521,
+      "word": "张晚意变装演绎S18花似锦",
+      "onboard_time": 1701932676,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123287,
@@ -16857,6 +16937,14 @@
       "onboard_time": 1701849216,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40791,
+      "num": 197707,
+      "word": "为啥我们仍需要一部大排自吸",
+      "onboard_time": 1701932855,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 40760,
