@@ -1,10 +1,10 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701940674694,
+  "endTime": 1701941698499,
   "band_list": [
     {
-      "raw_hot": 11046678,
-      "num": 11046678,
+      "raw_hot": 11778387,
+      "num": 11778387,
       "word": "GQ红毯",
       "onboard_time": 1701938256,
       "rank": 0,
@@ -569,6 +569,14 @@
       "onboard_time": 1701664842,
       "rank": 4,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1770406,
+      "num": 1770406,
+      "word": "杨紫 夜色玫瑰",
+      "onboard_time": 1701941146,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1740309,
@@ -1148,7 +1156,7 @@
     },
     {
       "raw_hot": 1102226,
-      "num": 455192,
+      "num": 485728,
       "word": "迪丽热巴粉色云朵裙",
       "onboard_time": 1701940181,
       "rank": 15,
@@ -1995,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668593,
+      "num": 362455,
+      "word": "英语成绩差 死磕这18张图",
+      "onboard_time": 1701938316,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 668565,
       "num": 631927,
       "word": "胡夏 林俊杰",
@@ -2121,14 +2137,6 @@
       "onboard_time": 1701598414,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 636002,
-      "num": 315789,
-      "word": "英语成绩差 死磕这18张图",
-      "onboard_time": 1701938316,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 634608,
@@ -2337,6 +2345,14 @@
       "onboard_time": 1701924098,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 595899,
+      "num": 251994,
+      "word": "张若昀檀健次 请表演",
+      "onboard_time": 1701940303,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 595383,
@@ -2555,11 +2571,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 556735,
-      "num": 239460,
-      "word": "张若昀檀健次 请表演",
-      "onboard_time": 1701940303,
-      "rank": 32,
+      "raw_hot": 557147,
+      "num": 243615,
+      "word": "白鹿张凌赫GQ外拍路透",
+      "onboard_time": 1701941383,
+      "rank": 31,
       "category": "作品衍生,时尚"
     },
     {
@@ -2953,6 +2969,14 @@
       "onboard_time": 1701937718,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 507213,
+      "num": 507213,
+      "word": "女生长期吃避孕药治痘致癫痫脑出血",
+      "onboard_time": 1701940603,
+      "rank": 49,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 506402,
@@ -4411,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367813,
+      "num": 367813,
+      "word": "女子产假结束前1天被通知离职",
+      "onboard_time": 1701939462,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367463,
       "num": 367463,
       "word": "五月天北京演唱会荧光棒售额破700万",
@@ -4433,14 +4465,6 @@
       "onboard_time": 1701739594,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 366022,
-      "num": 366022,
-      "word": "女子产假结束前1天被通知离职",
-      "onboard_time": 1701939462,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365699,
@@ -4513,6 +4537,14 @@
       "onboard_time": 1701929854,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 361329,
+      "num": 361329,
+      "word": "超早产龙凤胎男婴4天夭折女婴心力衰竭",
+      "onboard_time": 1701939942,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360585,
@@ -6283,6 +6315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 274277,
+      "num": 274277,
+      "word": "警方通报成都双流机场岗亭被撞塌",
+      "onboard_time": 1701939462,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274091,
       "num": 274091,
       "word": "杨洋韩立造型",
@@ -6457,14 +6497,6 @@
       "onboard_time": 1701871000,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 265001,
-      "num": 265001,
-      "word": "警方通报成都双流机场岗亭被撞塌",
-      "onboard_time": 1701939462,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264821,
@@ -7179,14 +7211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233398,
-      "num": 233398,
-      "word": "超早产龙凤胎男婴4天夭折女婴心力衰竭",
-      "onboard_time": 1701939942,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232613,
       "num": 216504,
       "word": "海边晕倒的李相夷cos",
@@ -7433,6 +7457,14 @@
       "onboard_time": 1701698739,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225846,
+      "num": 225846,
+      "word": "一加和小米谁急了",
+      "onboard_time": 1701939942,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 225548,
@@ -8873,14 +8905,6 @@
       "onboard_time": 1701572490,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191197,
-      "num": 191197,
-      "word": "一加和小米谁急了",
-      "onboard_time": 1701939942,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 191178,
@@ -10593,14 +10617,6 @@
       "onboard_time": 1701709462,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143617,
-      "num": 151213,
-      "word": "女生长期吃避孕药治痘致癫痫脑出血",
-      "onboard_time": 1701940603,
-      "rank": 49,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 143569,
