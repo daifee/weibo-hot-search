@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/03 00:21:00 ~ 2023/12/08 04:19:22
+本榜单时间：2023/12/03 00:21:00 ~ 2023/12/08 04:34:22
 </p>
 </blockquote>
 <p>
@@ -10149,6 +10149,12 @@ BABYMONSTER MV reaction（热度：66581）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E5%A4%A7%E8%83%96%E6%A9%98%E8%A6%81%E6%8A%8A%E6%A4%85%E5%AD%90%E5%BC%80%E8%B5%B0%23" target="weibo">
+感觉大胖橘要把椅子开走（热度：20595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%20%E5%B9%B4%E5%BA%A6%E5%8F%B7%E5%8F%AC%E5%8A%9B%E6%BC%94%E5%91%98%23" target="weibo">
 檀健次 年度号召力演员（热度：19889）
 </a>
@@ -10179,12 +10185,6 @@ BABYMONSTER MV reaction（热度：66581）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E5%A4%A7%E8%83%96%E6%A9%98%E8%A6%81%E6%8A%8A%E6%A4%85%E5%AD%90%E5%BC%80%E8%B5%B0%23" target="weibo">
-感觉大胖橘要把椅子开走（热度：17759）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E8%BA%B2%E7%8C%AB%E7%8C%AB%E7%9A%84%E5%B0%8F%E5%AD%A9%E5%93%A5%23" target="weibo">
 王星越躲猫猫的小孩哥（热度：16708）
 </a>
@@ -10192,7 +10192,7 @@ BABYMONSTER MV reaction（热度：66581）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A3%E9%BE%99%E5%B0%91%E5%B9%B4%E5%AE%9A%E6%A1%A3%23" target="weibo">
-鸣龙少年定档（热度：16167）
+鸣龙少年定档（热度：16276）
 </a>
 </li>
 
