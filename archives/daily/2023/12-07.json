@@ -1,7 +1,15 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701905688378,
+  "endTime": 1701911794098,
   "band_list": [
+    {
+      "raw_hot": 3590632,
+      "num": 3590632,
+      "word": "阿信 缺席就是认输了",
+      "onboard_time": 1701906811,
+      "rank": 0,
+      "category": "演出,社会新闻"
+    },
     {
       "raw_hot": 3353650,
       "num": 618885,
@@ -9,6 +17,14 @@
       "onboard_time": 1701872745,
       "rank": 3,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2095816,
+      "num": 623374,
+      "word": "若鉴定结果为真唱举报者要负责吗",
+      "onboard_time": 1701909457,
+      "rank": 3,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 1247213,
@@ -27,6 +43,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1084370,
+      "num": 405343,
+      "word": "她拼命拍打车窗想叫醒沉睡车内儿子",
+      "onboard_time": 1701909156,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 971672,
       "num": 971672,
       "word": "新娘遭婚闹大姨一把推开扫兴小伙",
@@ -35,8 +59,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822094,
+      "num": 525790,
+      "word": "周深曾直接拒绝演唱现场放人声伴奏",
+      "onboard_time": 1701904042,
+      "rank": 8,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 819697,
-      "num": 339372,
+      "num": 371421,
       "word": "阿信 每一声都来自我的嗓子",
       "onboard_time": 1701873735,
       "rank": 9,
@@ -44,11 +76,19 @@
     },
     {
       "raw_hot": 816982,
-      "num": 327015,
+      "num": 383553,
       "word": "田馥甄回应五月天假唱风波",
       "onboard_time": 1701858101,
       "rank": 12,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 725620,
+      "num": 725620,
+      "word": "医生点名3类人睡前喝水",
+      "onboard_time": 1701870880,
+      "rank": 7,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 615131,
@@ -59,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594024,
+      "num": 594024,
+      "word": "难哄 不行就他们四个吧",
+      "onboard_time": 1701874309,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 584725,
+      "num": 281016,
+      "word": "伯克利大学的死亡周",
+      "onboard_time": 1701911255,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 575881,
       "num": 337059,
       "word": "赵露思败诉",
@@ -67,20 +123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 518772,
-      "num": 384010,
-      "word": "周深曾直接拒绝演唱现场放人声伴奏",
-      "onboard_time": 1701904042,
-      "rank": 8,
-      "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 505664,
-      "num": 505664,
-      "word": "医生点名3类人睡前喝水",
-      "onboard_time": 1701870880,
-      "rank": 7,
-      "category": "健康医疗"
+      "raw_hot": 554075,
+      "num": 554075,
+      "word": "彩票",
+      "onboard_time": 1701908915,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476285,
@@ -91,12 +139,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400894,
-      "num": 400894,
-      "word": "难哄 不行就他们四个吧",
-      "onboard_time": 1701874309,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 435758,
+      "num": 435758,
+      "word": "大雪",
+      "onboard_time": 1701904945,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424437,
+      "num": 364988,
+      "word": "房山季鸟猴",
+      "onboard_time": 1701906811,
+      "rank": 16,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 420891,
+      "num": 420891,
+      "word": "iPhone屏幕发明人从苹果离职",
+      "onboard_time": 1701910716,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 396392,
+      "num": 333470,
+      "word": "肺癌的咳嗽有4个特点",
+      "onboard_time": 1701907051,
+      "rank": 21,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 389496,
+      "num": 389496,
+      "word": "苹果因故意降低性能被判向部分用户赔偿",
+      "onboard_time": 1701871419,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 387666,
@@ -107,12 +187,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344772,
-      "num": 344772,
-      "word": "苹果因故意降低性能被判向部分用户赔偿",
-      "onboard_time": 1701871419,
-      "rank": 8,
-      "category": "数码"
+      "raw_hot": 355329,
+      "num": 355329,
+      "word": "西西爱政治",
+      "onboard_time": 1701907352,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 338092,
+      "num": 338092,
+      "word": "上海文旅局组织专家评审判定五月天事件",
+      "onboard_time": 1701845616,
+      "rank": 16,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 331011,
+      "num": 331011,
+      "word": "猫德学院三年绑架700多只流浪猫",
+      "onboard_time": 1701908614,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328519,
@@ -123,12 +219,28 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 328260,
+      "num": 328260,
+      "word": "魏大勋GQ盛典townwalk",
+      "onboard_time": 1701910178,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 322434,
       "num": 322434,
       "word": "周杰伦演唱会预售被嘲吃相难看",
       "onboard_time": 1701864215,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 320105,
+      "num": 320105,
+      "word": "字节跳动以160美元开启新一轮股东回购",
+      "onboard_time": 1701904945,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 318449,
@@ -139,12 +251,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315767,
-      "num": 262434,
-      "word": "上海文旅局组织专家评审判定五月天事件",
-      "onboard_time": 1701845616,
-      "rank": 16,
-      "category": "演出,社会新闻"
+      "raw_hot": 311327,
+      "num": 311327,
+      "word": "一下get到陈都灵的美",
+      "onboard_time": 1701910235,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301185,
+      "num": 301185,
+      "word": "李现 好素的妆好帅的脸",
+      "onboard_time": 1701904103,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 299722,
+      "num": 299722,
+      "word": "GQ路透",
+      "onboard_time": 1701907957,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 297465,
@@ -155,11 +283,19 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 266417,
-      "num": 266417,
-      "word": "大雪",
-      "onboard_time": 1701904945,
-      "rank": 13,
+      "raw_hot": 286623,
+      "num": 286623,
+      "word": "小区欲自筹4500万升级外立面业主吵起来了",
+      "onboard_time": 1701906692,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269709,
+      "num": 269709,
+      "word": "老师我们家子涵怎么火了",
+      "onboard_time": 1701911255,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -171,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264370,
-      "num": 264370,
-      "word": "李现 好素的妆好帅的脸",
-      "onboard_time": 1701904103,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 246543,
       "num": 246543,
       "word": "大雪节气至新年也不远了",
@@ -188,7 +316,7 @@
     },
     {
       "raw_hot": 241614,
-      "num": 139109,
+      "num": 227125,
       "word": "假唱 真唱",
       "onboard_time": 1701875022,
       "rank": 21,
@@ -209,6 +337,54 @@
       "onboard_time": 1701874965,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217053,
+      "num": 217053,
+      "word": "钢琴上的E6",
+      "onboard_time": 1701908614,
+      "rank": 35,
+      "category": "音乐,社会新闻"
+    },
+    {
+      "raw_hot": 206392,
+      "num": 206392,
+      "word": "商战",
+      "onboard_time": 1701909817,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 204603,
+      "num": 204603,
+      "word": "刘雨昕扣1",
+      "onboard_time": 1701910535,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202060,
+      "num": 202060,
+      "word": "世界最深最大的极深地下实验室",
+      "onboard_time": 1701911076,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200782,
+      "num": 200782,
+      "word": "何猷君从小吃鱼都是别人给挑刺",
+      "onboard_time": 1701911674,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199462,
+      "num": 199462,
+      "word": "超显发量的编发",
+      "onboard_time": 1701910777,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 199080,
@@ -235,12 +411,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187854,
+      "num": 187854,
+      "word": "为什么那么多金行都是姓周",
+      "onboard_time": 1701907780,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 185751,
+      "num": 185751,
+      "word": "一闪一闪亮星星预售票房破亿",
+      "onboard_time": 1701908074,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183981,
       "num": 124734,
       "word": "切尔西 抽象",
       "onboard_time": 1701905365,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182723,
+      "num": 182723,
+      "word": "印度股市市值首破4万亿美元",
+      "onboard_time": 1701906208,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 182465,
@@ -267,6 +467,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 167824,
+      "num": 167824,
+      "word": "年终个人工作总结模版",
+      "onboard_time": 1701908915,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163270,
       "num": 159198,
       "word": "成毅自拍 逐渐离谱",
@@ -283,20 +491,28 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 158701,
-      "num": 158701,
-      "word": "字节跳动以160美元开启新一轮股东回购",
-      "onboard_time": 1701904945,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 158247,
       "num": 102552,
       "word": "网友解析阿信话筒位置",
       "onboard_time": 1701866556,
       "rank": 33,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 158127,
+      "num": 158127,
+      "word": "周也 我唱歌难听吗",
+      "onboard_time": 1701909997,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157395,
+      "num": 157395,
+      "word": "老太存款消失拷问老伴民警现场洗嫌疑",
+      "onboard_time": 1701881903,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152496,
@@ -335,14 +551,6 @@
       "num": 156203,
       "word": "76岁老人用竹子编二维码能扫出来",
       "onboard_time": 1701878854,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129243,
-      "num": 129243,
-      "word": "老太存款消失拷问老伴民警现场洗嫌疑",
-      "onboard_time": 1701881903,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -564,7 +772,7 @@
     },
     {
       "raw_hot": 48809,
-      "num": 619716,
+      "num": 652621,
       "word": "呼吸道传染病个人健康手册",
       "onboard_time": 1701869017,
       "rank": 2,
