@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701933412867,
+  "endTime": 1701934464161,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -177,6 +177,14 @@
       "onboard_time": 1701732083,
       "rank": 0,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 2937840,
+      "num": 2937840,
+      "word": "小黄开播几分钟直播间被封",
+      "onboard_time": 1701930695,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2912887,
@@ -369,14 +377,6 @@
       "onboard_time": 1701916173,
       "rank": 48,
       "category": "综艺,社会新闻"
-    },
-    {
-      "raw_hot": 2256331,
-      "num": 2256331,
-      "word": "小黄开播几分钟直播间被封",
-      "onboard_time": 1701930695,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2238841,
@@ -1123,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1048249,
+      "num": 1048249,
+      "word": "网传男孩遭亲爸后妈虐待睡楼道",
+      "onboard_time": 1701931473,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1045770,
       "num": 796717,
       "word": "五月天",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1701585991,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1018362,
+      "num": 1018362,
+      "word": "虞书欣 GQ惊喜嘉宾",
+      "onboard_time": 1701932075,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1004507,
@@ -1243,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 963040,
-      "num": 963040,
-      "word": "虞书欣 GQ惊喜嘉宾",
-      "onboard_time": 1701932075,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 959905,
       "num": 959905,
       "word": "女友术后醒麻醉再对男友一见钟情",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1701850542,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 911308,
-      "num": 911308,
-      "word": "网传男孩遭亲爸后妈虐待睡楼道",
-      "onboard_time": 1701931473,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 910544,
@@ -2043,6 +2043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 631267,
+      "num": 631267,
+      "word": "于适首套高定造型",
+      "onboard_time": 1701926254,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 630721,
       "num": 410880,
       "word": "景甜 什么裙子要公主自己摆",
@@ -2195,6 +2203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 599397,
+      "num": 599397,
+      "word": "秦岚亲了辛芷蕾",
+      "onboard_time": 1701929494,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 598967,
       "num": 598967,
       "word": "C罗被索赔超70亿",
@@ -2307,28 +2323,12 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 579530,
-      "num": 352033,
-      "word": "秦岚亲了辛芷蕾",
-      "onboard_time": 1701929494,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 578750,
       "num": 578750,
       "word": "王者荣耀 露娜",
       "onboard_time": 1701855277,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 576928,
-      "num": 434205,
-      "word": "于适首套高定造型",
-      "onboard_time": 1701926254,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 574980,
@@ -2404,7 +2404,7 @@
     },
     {
       "raw_hot": 559864,
-      "num": 307515,
+      "num": 352950,
       "word": "女房东被租客杀猪盘28天骗走407万",
       "onboard_time": 1701928412,
       "rank": 21,
@@ -2819,6 +2819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 504693,
+      "num": 343577,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 503520,
       "num": 345770,
       "word": "李现是瘦了吗",
@@ -3089,14 +3097,6 @@
       "onboard_time": 1701843513,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 469894,
-      "num": 341796,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 469849,
@@ -3619,6 +3619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 417772,
+      "num": 417772,
+      "word": "37岁女子颈椎后仰折叠26年生3娃",
+      "onboard_time": 1701931054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417526,
       "num": 417526,
       "word": "一闪一闪亮星星 下雪场",
@@ -3657,14 +3665,6 @@
       "onboard_time": 1701588153,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 414394,
-      "num": 293293,
-      "word": "37岁女子颈椎后仰折叠26年生3娃",
-      "onboard_time": 1701931054,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414256,
@@ -4019,6 +4019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 384573,
+      "num": 330776,
+      "word": "能唱E6的歌手",
+      "onboard_time": 1701931713,
+      "rank": 26,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 381206,
       "num": 381206,
       "word": "一念关山",
@@ -4137,14 +4145,6 @@
       "onboard_time": 1701640153,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 374816,
-      "num": 291606,
-      "word": "能唱E6的歌手",
-      "onboard_time": 1701931713,
-      "rank": 26,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 374626,
@@ -4980,7 +4980,7 @@
     },
     {
       "raw_hot": 317025,
-      "num": 317025,
+      "num": 606800,
       "word": "TES官宣Wayward离队",
       "onboard_time": 1701931894,
       "rank": 18,
@@ -5545,6 +5545,14 @@
       "onboard_time": 1701752263,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 294460,
+      "num": 294460,
+      "word": "范丞丞在逃王子",
+      "onboard_time": 1701933696,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 294431,
@@ -6395,6 +6403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256525,
+      "num": 256525,
+      "word": "吴楚一reaction尚雯婕新综艺",
+      "onboard_time": 1701933335,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256407,
       "num": 256407,
       "word": "东航",
@@ -6692,7 +6708,7 @@
     },
     {
       "raw_hot": 244440,
-      "num": 220921,
+      "num": 227777,
       "word": "米卡GQ坐船路透",
       "onboard_time": 1701911856,
       "rank": 47,
@@ -7531,6 +7547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216208,
+      "num": 603010,
+      "word": "张晚意变装演绎S18花似锦",
+      "onboard_time": 1701932676,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215927,
       "num": 281521,
       "word": "不建议小朋友骑马上学",
@@ -7649,14 +7673,6 @@
       "onboard_time": 1701919774,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212176,
-      "num": 196667,
-      "word": "吴楚一reaction尚雯婕新综艺",
-      "onboard_time": 1701933335,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 212028,
@@ -8393,6 +8409,14 @@
       "onboard_time": 1701578794,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195498,
+      "num": 195498,
+      "word": "吴宣仪露背人鱼裙",
+      "onboard_time": 1701933575,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195377,
@@ -10955,14 +10979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123400,
-      "num": 262521,
-      "word": "张晚意变装演绎S18花似锦",
-      "onboard_time": 1701932676,
-      "rank": 29,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 123023,
       "num": 141688,
       "word": "斯诺克",
@@ -11049,6 +11065,14 @@
       "onboard_time": 1701584311,
       "rank": 44,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 119333,
+      "num": 119333,
+      "word": "鲨鱼抓夹教程",
+      "onboard_time": 1701934295,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 118275,
@@ -11867,6 +11891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44207,
+      "num": 618175,
+      "word": "为啥我们仍需要一部大排自吸",
+      "onboard_time": 1701932855,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43248,
       "num": 46357,
       "word": "哈里斯称太多无辜巴勒斯坦人被杀",
@@ -11897,14 +11929,6 @@
       "onboard_time": 1701849216,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40791,
-      "num": 197707,
-      "word": "为啥我们仍需要一部大排自吸",
-      "onboard_time": 1701932855,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 40760,

@@ -1,6 +1,6 @@
 {
   "startTime": 1701879886367,
-  "endTime": 1701933412867,
+  "endTime": 1701934464161,
   "band_list": [
     {
       "raw_hot": 3590632,
@@ -17,6 +17,14 @@
       "onboard_time": 1701872745,
       "rank": 3,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2937840,
+      "num": 2937840,
+      "word": "小黄开播几分钟直播间被封",
+      "onboard_time": 1701930695,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2912887,
@@ -57,14 +65,6 @@
       "onboard_time": 1701916173,
       "rank": 48,
       "category": "综艺,社会新闻"
-    },
-    {
-      "raw_hot": 2256331,
-      "num": 2256331,
-      "word": "小黄开播几分钟直播间被封",
-      "onboard_time": 1701930695,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2200512,
@@ -171,6 +171,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1048249,
+      "num": 1048249,
+      "word": "网传男孩遭亲爸后妈虐待睡楼道",
+      "onboard_time": 1701931473,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1018362,
+      "num": 1018362,
+      "word": "虞书欣 GQ惊喜嘉宾",
+      "onboard_time": 1701932075,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 971672,
       "num": 971672,
       "word": "新娘遭婚闹大姨一把推开扫兴小伙",
@@ -184,14 +200,6 @@
       "word": "白敬亭 猫男",
       "onboard_time": 1701927334,
       "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 963040,
-      "num": 963040,
-      "word": "虞书欣 GQ惊喜嘉宾",
-      "onboard_time": 1701932075,
-      "rank": 8,
       "category": "作品衍生,时尚"
     },
     {
@@ -209,14 +217,6 @@
       "onboard_time": 1701915991,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 911308,
-      "num": 911308,
-      "word": "网传男孩遭亲爸后妈虐待睡楼道",
-      "onboard_time": 1701931473,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 822094,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631267,
+      "num": 631267,
+      "word": "于适首套高定造型",
+      "onboard_time": 1701926254,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 622166,
       "num": 622166,
       "word": "怀疑54岁女友出轨男子将对方打死",
@@ -297,6 +305,14 @@
       "onboard_time": 1701876038,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599397,
+      "num": 599397,
+      "word": "秦岚亲了辛芷蕾",
+      "onboard_time": 1701929494,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 596321,
@@ -315,22 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 579530,
-      "num": 352033,
-      "word": "秦岚亲了辛芷蕾",
-      "onboard_time": 1701929494,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 576928,
-      "num": 434205,
-      "word": "于适首套高定造型",
-      "onboard_time": 1701926254,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 575881,
       "num": 337059,
       "word": "赵露思败诉",
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 559864,
-      "num": 307515,
+      "num": 352950,
       "word": "女房东被租客杀猪盘28天骗走407万",
       "onboard_time": 1701928412,
       "rank": 21,
@@ -395,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 504693,
+      "num": 343577,
+      "word": "米卡 奶爸造型",
+      "onboard_time": 1701918811,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 492805,
       "num": 357716,
       "word": "父亲骨灰被弄丢殡仪馆说给盒新的",
@@ -417,14 +425,6 @@
       "onboard_time": 1701928716,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 469894,
-      "num": 341796,
-      "word": "米卡 奶爸造型",
-      "onboard_time": 1701918811,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 437208,
@@ -459,20 +459,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 417772,
+      "num": 417772,
+      "word": "37岁女子颈椎后仰折叠26年生3娃",
+      "onboard_time": 1701931054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416577,
       "num": 416577,
       "word": "谢娜不让女儿们看电子产品",
       "onboard_time": 1701917372,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 414394,
-      "num": 293293,
-      "word": "37岁女子颈椎后仰折叠26年生3娃",
-      "onboard_time": 1701931054,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400644,
@@ -523,20 +523,20 @@
       "category": "综艺,社会新闻"
     },
     {
+      "raw_hot": 384573,
+      "num": 330776,
+      "word": "能唱E6的歌手",
+      "onboard_time": 1701931713,
+      "rank": 26,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 376164,
       "num": 295168,
       "word": "张凌赫 发疯蓄力中",
       "onboard_time": 1701928835,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 374816,
-      "num": 291606,
-      "word": "能唱E6的歌手",
-      "onboard_time": 1701931713,
-      "rank": 26,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 362341,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 317025,
-      "num": 317025,
+      "num": 606800,
       "word": "TES官宣Wayward离队",
       "onboard_time": 1701931894,
       "rank": 18,
@@ -761,6 +761,14 @@
       "onboard_time": 1701860498,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 294460,
+      "num": 294460,
+      "word": "范丞丞在逃王子",
+      "onboard_time": 1701933696,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 292210,
@@ -899,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256525,
+      "num": 256525,
+      "word": "吴楚一reaction尚雯婕新综艺",
+      "onboard_time": 1701933335,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251620,
       "num": 290620,
       "word": "以为是烤地瓜结果是小狗",
@@ -948,7 +964,7 @@
     },
     {
       "raw_hot": 244440,
-      "num": 220921,
+      "num": 227777,
       "word": "米卡GQ坐船路透",
       "onboard_time": 1701911856,
       "rank": 47,
@@ -1083,6 +1099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 216208,
+      "num": 603010,
+      "word": "张晚意变装演绎S18花似锦",
+      "onboard_time": 1701932676,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 214803,
       "num": 214803,
       "word": "正确涂眼霜手法",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1701919774,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212176,
-      "num": 196667,
-      "word": "吴楚一reaction尚雯婕新综艺",
-      "onboard_time": 1701933335,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 211250,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1701916173,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195498,
+      "num": 195498,
+      "word": "吴宣仪露背人鱼裙",
+      "onboard_time": 1701933575,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194478,
@@ -1523,12 +1547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123400,
-      "num": 262521,
-      "word": "张晚意变装演绎S18花似锦",
-      "onboard_time": 1701932676,
-      "rank": 29,
-      "category": "作品衍生,时尚"
+      "raw_hot": 119333,
+      "num": 119333,
+      "word": "鲨鱼抓夹教程",
+      "onboard_time": 1701934295,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 114461,
@@ -1771,8 +1795,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 40791,
-      "num": 197707,
+      "raw_hot": 44207,
+      "num": 618175,
       "word": "为啥我们仍需要一部大排自吸",
       "onboard_time": 1701932855,
       "rank": 40,

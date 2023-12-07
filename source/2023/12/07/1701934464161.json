@@ -1,0 +1,410 @@
+{
+  "runTime": 1701934464161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2937840,
+        "num": 2937840,
+        "word": "小黄开播几分钟直播间被封",
+        "onboard_time": 1701930695,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 2718690,
+        "num": 2718690,
+        "word": "GQ好多人鱼公主",
+        "onboard_time": 1701930632,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 160917,
+        "num": 1855283,
+        "word": "太空菜园收菜了航天员边摘边吃",
+        "onboard_time": 1701917432,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1523406,
+        "num": 1523406,
+        "word": "GQ连夜排查水道",
+        "onboard_time": 1701922417,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1183778,
+        "num": 1183778,
+        "word": "GQ疯狂星期四",
+        "onboard_time": 1701931291,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1157704,
+        "num": 1157704,
+        "word": "阿信 缺席就是认输了",
+        "onboard_time": 1701906811,
+        "rank": 5,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1123540,
+        "num": 1123540,
+        "word": "杨幂在超市拍出发图",
+        "onboard_time": 1701929614,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1048249,
+        "num": 1048249,
+        "word": "网传男孩遭亲爸后妈虐待睡楼道",
+        "onboard_time": 1701931473,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018362,
+        "num": 1018362,
+        "word": "虞书欣 GQ惊喜嘉宾",
+        "onboard_time": 1701932075,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 814319,
+        "num": 814319,
+        "word": "迪丽热巴王后服",
+        "onboard_time": 1701929735,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1077736,
+        "num": 812080,
+        "word": "江西省民政厅正在调查花10万中2.2亿",
+        "onboard_time": 1701924521,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887074,
+        "num": 811667,
+        "word": "著名歌手唐磊谈五月天假唱风波",
+        "onboard_time": 1701920556,
+        "rank": 11,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 809375,
+        "num": 809375,
+        "word": "白敬亭 猫男",
+        "onboard_time": 1701927334,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 634513,
+        "num": 634513,
+        "word": "周也公子也",
+        "onboard_time": 1701916592,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 477537,
+        "num": 631377,
+        "word": "新加坡和中国即将免签",
+        "onboard_time": 1701924098,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 631267,
+        "num": 631267,
+        "word": "于适首套高定造型",
+        "onboard_time": 1701926254,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 625307,
+        "num": 625307,
+        "word": "曾舜晞银发",
+        "onboard_time": 1701920675,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 432811,
+        "num": 622469,
+        "word": "若鉴定结果为真唱举报者要负责吗",
+        "onboard_time": 1701909457,
+        "rank": 17,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 44207,
+        "num": 618175,
+        "word": "为啥我们仍需要一部大排自吸",
+        "onboard_time": 1701932855,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 305904,
+        "num": 606800,
+        "word": "TES官宣Wayward离队",
+        "onboard_time": 1701931894,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216208,
+        "num": 603010,
+        "word": "张晚意变装演绎S18花似锦",
+        "onboard_time": 1701932676,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 599397,
+        "num": 599397,
+        "word": "秦岚亲了辛芷蕾",
+        "onboard_time": 1701929494,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537941,
+        "num": 537941,
+        "word": "GQ明星工作室出图",
+        "onboard_time": 1701917672,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 417772,
+        "num": 417772,
+        "word": "37岁女子颈椎后仰折叠26年生3娃",
+        "onboard_time": 1701931054,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352950,
+        "num": 352950,
+        "word": "女房东被租客杀猪盘28天骗走407万",
+        "onboard_time": 1701928412,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504693,
+        "num": 343577,
+        "word": "米卡 奶爸造型",
+        "onboard_time": 1701918811,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 384573,
+        "num": 330776,
+        "word": "能唱E6的歌手",
+        "onboard_time": 1701931713,
+        "rank": 26,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 308513,
+        "num": 308513,
+        "word": "怀疑54岁女友出轨男子将对方打死",
+        "onboard_time": 1701922237,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294460,
+        "num": 294460,
+        "word": "范丞丞在逃王子",
+        "onboard_time": 1701933696,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182895,
+        "num": 267667,
+        "word": "云南导游建议游客为烈士买菊花",
+        "onboard_time": 1701923499,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 265673,
+        "num": 265673,
+        "word": "父亲骨灰被弄丢殡仪馆说给盒新的",
+        "onboard_time": 1701918090,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260145,
+        "num": 260145,
+        "word": "魏大勋GQ盛典townwalk",
+        "onboard_time": 1701910178,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256525,
+        "num": 256525,
+        "word": "吴楚一reaction尚雯婕新综艺",
+        "onboard_time": 1701933335,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248827,
+        "num": 248827,
+        "word": "RNG 种地",
+        "onboard_time": 1701929854,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247083,
+        "num": 247083,
+        "word": "小时候被性骚扰是女性共同的秘密",
+        "onboard_time": 1701918873,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246861,
+        "num": 246861,
+        "word": "丁程鑫回应",
+        "onboard_time": 1701915392,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235884,
+        "num": 235884,
+        "word": "中国福彩客服回应中奖2.2亿无内幕",
+        "onboard_time": 1701929614,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230293,
+        "num": 230293,
+        "word": "关晓彤父亲持股的天然呆被限消",
+        "onboard_time": 1701922294,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 227777,
+        "num": 227777,
+        "word": "米卡GQ坐船路透",
+        "onboard_time": 1701911856,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220148,
+        "num": 220148,
+        "word": "赵露思钻石小黑裙",
+        "onboard_time": 1701926675,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204555,
+        "num": 204555,
+        "word": "龙辰辰",
+        "onboard_time": 1701917672,
+        "rank": 40,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 203152,
+        "num": 203152,
+        "word": "妈妈熬夜到凌晨给娃做变形警车",
+        "onboard_time": 1701919833,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195498,
+        "num": 195498,
+        "word": "吴宣仪露背人鱼裙",
+        "onboard_time": 1701933575,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194200,
+        "num": 194200,
+        "word": "10拍E6",
+        "onboard_time": 1701917190,
+        "rank": 43,
+        "category": "音乐,社会新闻"
+      },
+      {
+        "raw_hot": 191877,
+        "num": 191877,
+        "word": "JDG官宣Flandre加入",
+        "onboard_time": 1701924098,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187554,
+        "num": 187554,
+        "word": "张家妍人设",
+        "onboard_time": 1701929434,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181625,
+        "num": 181625,
+        "word": "库里三分绝杀",
+        "onboard_time": 1701931894,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142615,
+        "num": 142615,
+        "word": "S9冠军FPX全员离队",
+        "onboard_time": 1701925716,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122140,
+        "num": 122140,
+        "word": "Fly 我们又回来了",
+        "onboard_time": 1701930574,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119333,
+        "num": 119333,
+        "word": "鲨鱼抓夹教程",
+        "onboard_time": 1701934295,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
