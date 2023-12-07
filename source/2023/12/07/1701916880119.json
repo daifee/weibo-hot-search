@@ -1,0 +1,410 @@
+{
+  "runTime": 1701916880119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2421229,
+        "num": 2421229,
+        "word": "丁程鑫回应",
+        "onboard_time": 1701915392,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2065366,
+        "num": 2065366,
+        "word": "伯克利大学的死亡周",
+        "onboard_time": 1701911255,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35519,
+        "num": 2028116,
+        "word": "呼吸道传染病个人健康手册",
+        "onboard_time": 1701869017,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2026264,
+        "num": 2026264,
+        "word": "阿信 缺席就是认输了",
+        "onboard_time": 1701906811,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1091748,
+        "num": 1091748,
+        "word": "春晚回应吉祥物争议",
+        "onboard_time": 1701916173,
+        "rank": 4,
+        "category": "综艺,社会新闻"
+      },
+      {
+        "raw_hot": 1019113,
+        "num": 1019113,
+        "word": "若鉴定结果为真唱举报者要负责吗",
+        "onboard_time": 1701909457,
+        "rank": 5,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 1008625,
+        "num": 1008625,
+        "word": "何猷君从小吃鱼都是别人给挑刺",
+        "onboard_time": 1701911674,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 936570,
+        "num": 936570,
+        "word": "老师我们家子涵怎么火了",
+        "onboard_time": 1701911255,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637844,
+        "num": 637844,
+        "word": "2.2亿大奖彩票店刚开不到三个月",
+        "onboard_time": 1701915331,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457289,
+        "num": 457289,
+        "word": "大雪",
+        "onboard_time": 1701904945,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508926,
+        "num": 453783,
+        "word": "钢琴上的E6",
+        "onboard_time": 1701908614,
+        "rank": 10,
+        "category": "音乐,社会新闻"
+      },
+      {
+        "raw_hot": 449738,
+        "num": 449738,
+        "word": "iPhone15价格跳水后销量霸榜前三",
+        "onboard_time": 1701915991,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 444070,
+        "num": 444070,
+        "word": "阿信回应",
+        "onboard_time": 1701872745,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 419326,
+        "num": 419326,
+        "word": "英雄联盟 婕拉",
+        "onboard_time": 1701915272,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 392588,
+        "num": 392588,
+        "word": "阿信 每一声都来自我的嗓子",
+        "onboard_time": 1701873735,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 389052,
+        "num": 389052,
+        "word": "田馥甄回应五月天假唱风波",
+        "onboard_time": 1701858101,
+        "rank": 15,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 348341,
+        "num": 348341,
+        "word": "A股",
+        "onboard_time": 1701914914,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 348214,
+        "num": 348214,
+        "word": "她拼命拍打车窗想叫醒沉睡车内儿子",
+        "onboard_time": 1701909156,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341737,
+        "num": 341737,
+        "word": "难哄 不行就他们四个吧",
+        "onboard_time": 1701874309,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40903,
+        "num": 309752,
+        "word": "被大自然的奇观惊艳到",
+        "onboard_time": 1701915392,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301911,
+        "num": 301911,
+        "word": "房山季鸟猴",
+        "onboard_time": 1701906811,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 285940,
+        "num": 285940,
+        "word": "宋江双开门",
+        "onboard_time": 1701912576,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277349,
+        "num": 277349,
+        "word": "周深曾直接拒绝演唱现场放人声伴奏",
+        "onboard_time": 1701904042,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 245673,
+        "num": 245673,
+        "word": "肖四来了",
+        "onboard_time": 1701913235,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 238942,
+        "num": 238942,
+        "word": "兔子的舌头",
+        "onboard_time": 1701912873,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255567,
+        "num": 236371,
+        "word": "工藤静香Blue Velvet",
+        "onboard_time": 1701912931,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229725,
+        "num": 229725,
+        "word": "魏大勋GQ盛典townwalk",
+        "onboard_time": 1701910178,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224143,
+        "num": 224143,
+        "word": "苹果明年初将推出两款iPadAir",
+        "onboard_time": 1701912453,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 219546,
+        "num": 219546,
+        "word": "iPhone屏幕发明人从苹果退休",
+        "onboard_time": 1701910716,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166724,
+        "num": 217738,
+        "word": "新娘遭婚闹大姨一把推开扫兴小伙",
+        "onboard_time": 1701874782,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216672,
+        "num": 216672,
+        "word": "一下get到陈都灵的美",
+        "onboard_time": 1701910235,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204171,
+        "num": 204171,
+        "word": "周也公子也",
+        "onboard_time": 1701916592,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202270,
+        "num": 202270,
+        "word": "体面的离职报告",
+        "onboard_time": 1701915636,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200781,
+        "num": 200781,
+        "word": "假唱 真唱",
+        "onboard_time": 1701875022,
+        "rank": 33,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 200678,
+        "num": 200678,
+        "word": "举报五月天博主称把歌和人分开",
+        "onboard_time": 1701877300,
+        "rank": 34,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 199078,
+        "num": 199078,
+        "word": "刀郎暂时停更",
+        "onboard_time": 1701915211,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196170,
+        "num": 196170,
+        "word": "滤镜开机",
+        "onboard_time": 1701916173,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191783,
+        "num": 191783,
+        "word": "演唱会志愿者盒饭对比",
+        "onboard_time": 1701912094,
+        "rank": 37,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 184703,
+        "num": 184703,
+        "word": "医生点名3类人睡前喝水",
+        "onboard_time": 1701870880,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181376,
+        "num": 181376,
+        "word": "村书记把边角料做成发财树让全村增收",
+        "onboard_time": 1701912995,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185858,
+        "num": 178185,
+        "word": "赵露思败诉",
+        "onboard_time": 1701848794,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182534,
+        "num": 178024,
+        "word": "GQ路透",
+        "onboard_time": 1701907957,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174862,
+        "num": 174862,
+        "word": "这样洗羽绒服会爆炸",
+        "onboard_time": 1701912213,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 173498,
+        "num": 173498,
+        "word": "谷歌Gemini",
+        "onboard_time": 1701914372,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164653,
+        "num": 164653,
+        "word": "肺癌的咳嗽有4个特点",
+        "onboard_time": 1701907051,
+        "rank": 44,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 160764,
+        "num": 160764,
+        "word": "E6",
+        "onboard_time": 1701875861,
+        "rank": 45,
+        "category": "音乐,社会新闻"
+      },
+      {
+        "raw_hot": 157173,
+        "num": 157173,
+        "word": "小区欲自筹4500万升级外立面业主吵起来了",
+        "onboard_time": 1701906692,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147062,
+        "num": 147062,
+        "word": "米卡GQ坐船路透",
+        "onboard_time": 1701911856,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138039,
+        "num": 138039,
+        "word": "3岁幼儿寒风中大哭陌生奶爸接力上线",
+        "onboard_time": 1701916651,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134038,
+        "num": 134038,
+        "word": "猫德学院三年绑架700多只流浪猫",
+        "onboard_time": 1701908614,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快信息化服务普及缩小数字鸿沟#"
+    }
+  }
+}

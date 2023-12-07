@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701916222555,
+  "endTime": 1701916880119,
   "band_list": [
     {
       "raw_hot": 9074037,
@@ -305,6 +305,14 @@
       "onboard_time": 1701695436,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2421229,
+      "num": 2421229,
+      "word": "丁程鑫回应",
+      "onboard_time": 1701915392,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2397114,
@@ -747,14 +755,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1412941,
-      "num": 1412941,
-      "word": "丁程鑫回应",
-      "onboard_time": 1701915392,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1411160,
       "num": 1411160,
       "word": "QQ音乐会员涨价",
@@ -995,6 +995,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 1091748,
+      "num": 1091748,
+      "word": "春晚回应吉祥物争议",
+      "onboard_time": 1701916173,
+      "rank": 48,
+      "category": "综艺,社会新闻"
+    },
+    {
       "raw_hot": 1085021,
       "num": 1085021,
       "word": "何猷君从小吃鱼都是别人给挑刺",
@@ -1179,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 936570,
+      "num": 936570,
+      "word": "老师我们家子涵怎么火了",
+      "onboard_time": 1701911255,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 932134,
       "num": 600492,
       "word": "台湾论坛评五月天假唱风波",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1701734916,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 883001,
-      "num": 883001,
-      "word": "老师我们家子涵怎么火了",
-      "onboard_time": 1701911255,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 880824,
@@ -1857,6 +1865,14 @@
       "onboard_time": 1701698924,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 637844,
+      "num": 637844,
+      "word": "2.2亿大奖彩票店刚开不到三个月",
+      "onboard_time": 1701915331,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637562,
@@ -2587,6 +2603,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 508926,
+      "num": 453783,
+      "word": "钢琴上的E6",
+      "onboard_time": 1701908614,
+      "rank": 35,
+      "category": "音乐,社会新闻"
+    },
+    {
       "raw_hot": 506402,
       "num": 506402,
       "word": "iPhone屏幕发明人从苹果离职",
@@ -2641,14 +2665,6 @@
       "onboard_time": 1701694297,
       "rank": 13,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 500848,
-      "num": 388019,
-      "word": "钢琴上的E6",
-      "onboard_time": 1701908614,
-      "rank": 35,
-      "category": "音乐,社会新闻"
     },
     {
       "raw_hot": 497924,
@@ -3011,6 +3027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449738,
+      "num": 449738,
+      "word": "iPhone15价格跳水后销量霸榜前三",
+      "onboard_time": 1701915991,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 448950,
       "num": 448950,
       "word": "父母的过度干涉 潜意识嫉妒",
@@ -3339,6 +3363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419326,
+      "num": 419326,
+      "word": "英雄联盟 婕拉",
+      "onboard_time": 1701915272,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 419001,
       "num": 419001,
       "word": "沪指再失守3000点",
@@ -3579,14 +3611,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 395676,
-      "num": 344972,
-      "word": "2.2亿大奖彩票店刚开不到三个月",
-      "onboard_time": 1701915331,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393770,
       "num": 1260075,
       "word": "为了救小狗这所大学放干了护校河的水",
@@ -3721,14 +3745,6 @@
       "onboard_time": 1701749200,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 384608,
-      "num": 334620,
-      "word": "英雄联盟 婕拉",
-      "onboard_time": 1701915272,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 381206,
@@ -7331,6 +7347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204171,
+      "num": 204171,
+      "word": "周也公子也",
+      "onboard_time": 1701916592,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204045,
       "num": 151933,
       "word": "任如意爆改人生导师",
@@ -7665,6 +7689,14 @@
       "onboard_time": 1701827852,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196170,
+      "num": 196170,
+      "word": "滤镜开机",
+      "onboard_time": 1701916173,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 196079,
@@ -8033,14 +8065,6 @@
       "onboard_time": 1701619717,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188482,
-      "num": 188482,
-      "word": "iPhone15价格跳水后销量霸榜前三",
-      "onboard_time": 1701915991,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 188349,
@@ -9715,28 +9739,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 139314,
-      "num": 139314,
-      "word": "滤镜开机",
-      "onboard_time": 1701916173,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139154,
       "num": 139154,
       "word": "赖斯绝杀",
       "onboard_time": 1701818305,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138949,
-      "num": 138949,
-      "word": "春晚回应吉祥物争议",
-      "onboard_time": 1701916173,
-      "rank": 48,
-      "category": "综艺,社会新闻"
     },
     {
       "raw_hot": 138680,
@@ -9761,6 +9769,14 @@
       "onboard_time": 1701672757,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138039,
+      "num": 138039,
+      "word": "3岁幼儿寒风中大哭陌生奶爸接力上线",
+      "onboard_time": 1701916651,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137970,
@@ -10740,7 +10756,7 @@
     },
     {
       "raw_hot": 86805,
-      "num": 1758452,
+      "num": 2028116,
       "word": "呼吸道传染病个人健康手册",
       "onboard_time": 1701869017,
       "rank": 2,
@@ -11068,7 +11084,7 @@
     },
     {
       "raw_hot": 44798,
-      "num": 276737,
+      "num": 309752,
       "word": "被大自然的奇观惊艳到",
       "onboard_time": 1701915392,
       "rank": 21,
