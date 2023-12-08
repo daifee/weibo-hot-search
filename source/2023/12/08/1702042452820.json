@@ -1,0 +1,410 @@
+{
+  "runTime": 1702042452820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2418311,
+        "num": 2418311,
+        "word": "解清帅已辞职",
+        "onboard_time": 1702037854,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1911454,
+        "num": 1911454,
+        "word": "女子实名举报武汉大学教授嫖娼赌博收回扣",
+        "onboard_time": 1702037315,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9908,
+        "num": 1670195,
+        "word": "2023致敬不同战场的英雄",
+        "onboard_time": 1702009177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1561831,
+        "num": 1561831,
+        "word": "偷偷藏不住 神隐隐不了",
+        "onboard_time": 1702039957,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 991157,
+        "num": 991157,
+        "word": "米哈游的米是小米的米",
+        "onboard_time": 1702040015,
+        "rank": 4,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 729586,
+        "num": 729586,
+        "word": "新闻女王 烂尾",
+        "onboard_time": 1702024233,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 697926,
+        "num": 697926,
+        "word": "春雨面膜退出中国市场",
+        "onboard_time": 1702033834,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 557564,
+        "num": 557564,
+        "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
+        "onboard_time": 1702021117,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536212,
+        "num": 536212,
+        "word": "新闻女王 第二季",
+        "onboard_time": 1702037854,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492328,
+        "num": 492328,
+        "word": "莎头 全体起立的一球",
+        "onboard_time": 1702038814,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 737919,
+        "num": 492098,
+        "word": "汤唯否认离婚",
+        "onboard_time": 1702040916,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551864,
+        "num": 491805,
+        "word": "白鹿删博了",
+        "onboard_time": 1702015717,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488781,
+        "num": 488781,
+        "word": "瑞幸星巴克 致癌物",
+        "onboard_time": 1702025558,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 447046,
+        "num": 447046,
+        "word": "杨丽萍 王牌对王牌",
+        "onboard_time": 1702041697,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198777,
+        "num": 422938,
+        "word": "小米原神联名手环",
+        "onboard_time": 1702040437,
+        "rank": 14,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 37394,
+        "num": 421307,
+        "word": "蛋仔岛直播",
+        "onboard_time": 1702039355,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 420900,
+        "num": 420900,
+        "word": "小杨哥徒弟复播仅3分钟再被封",
+        "onboard_time": 1702028977,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 398203,
+        "num": 398203,
+        "word": "全网都知道你爸妈吵架的秘密了",
+        "onboard_time": 1702037973,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356759,
+        "num": 356759,
+        "word": "GQ船上外景",
+        "onboard_time": 1702039296,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 338285,
+        "num": 338285,
+        "word": "姨妈血不是废血",
+        "onboard_time": 1702016078,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 584093,
+        "num": 324233,
+        "word": "五月天 对联",
+        "onboard_time": 1702032997,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 304927,
+        "num": 304927,
+        "word": "武大人民医院通报职工被前妻举报多项问题",
+        "onboard_time": 1702041277,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296832,
+        "num": 296832,
+        "word": "王楚钦孙颖莎2比1德国组合",
+        "onboard_time": 1702038756,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281246,
+        "num": 281246,
+        "word": "迪丽热巴一年22套高定",
+        "onboard_time": 1702025679,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278759,
+        "num": 278759,
+        "word": "小时候偷看老外 如此明显",
+        "onboard_time": 1702034256,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269310,
+        "num": 269310,
+        "word": "WB对战Hero",
+        "onboard_time": 1702041457,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266065,
+        "num": 266065,
+        "word": "钟离 请出谷",
+        "onboard_time": 1702041817,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254094,
+        "num": 254094,
+        "word": "原神 可恶的旅行者",
+        "onboard_time": 1702029578,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253156,
+        "num": 253156,
+        "word": "举报五月天博主发视频与阿信pk唱功",
+        "onboard_time": 1702022016,
+        "rank": 28,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 76100,
+        "num": 251524,
+        "word": "宋代逛街人手一份的招牌饮品",
+        "onboard_time": 1702035634,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251231,
+        "num": 251231,
+        "word": "原神前瞻 兑换码",
+        "onboard_time": 1702040378,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234720,
+        "num": 234720,
+        "word": "神隐定档海报",
+        "onboard_time": 1702036833,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222047,
+        "num": 222047,
+        "word": "杨紫 复古羊毛卷",
+        "onboard_time": 1702029877,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195732,
+        "num": 195732,
+        "word": "每天喝12kg咖啡才能达到致癌量",
+        "onboard_time": 1702026278,
+        "rank": 33,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 194142,
+        "num": 194142,
+        "word": "迪丽热巴 霞光神女",
+        "onboard_time": 1702024233,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192454,
+        "num": 192454,
+        "word": "种地吧导演的自我救赎",
+        "onboard_time": 1702042179,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188175,
+        "num": 188175,
+        "word": "爸爸患癌她选择孝而不顺",
+        "onboard_time": 1702026761,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183813,
+        "num": 183813,
+        "word": "LPL全明星 录播",
+        "onboard_time": 1702035814,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175805,
+        "num": 183459,
+        "word": "公子 请戴小米手环",
+        "onboard_time": 1702042179,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183380,
+        "num": 183380,
+        "word": "邓紫棋 纯白女爵",
+        "onboard_time": 1702041038,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181323,
+        "num": 181323,
+        "word": "刘宇宁 一滴泪演技",
+        "onboard_time": 1702039717,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175698,
+        "num": 175698,
+        "word": "普京将在2024年竞选总统",
+        "onboard_time": 1702035215,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172948,
+        "num": 172948,
+        "word": "英国首相迎外宾被锁门外近20秒",
+        "onboard_time": 1702036414,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 171571,
+        "num": 171571,
+        "word": "爸爸劝女儿找对象要衡量生活质量",
+        "onboard_time": 1702029035,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169094,
+        "num": 169094,
+        "word": "王曼昱3比0单晓娜",
+        "onboard_time": 1702039659,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166781,
+        "num": 166781,
+        "word": "在职场上不要轻易说抱歉",
+        "onboard_time": 1702040797,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156970,
+        "num": 156970,
+        "word": "神隐全员敲蛋定档",
+        "onboard_time": 1702038934,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146579,
+        "num": 146579,
+        "word": "汪苏泷 别老让我评价别的歌手",
+        "onboard_time": 1702030178,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146531,
+        "num": 146531,
+        "word": "杨超越面部平整度",
+        "onboard_time": 1702025980,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145860,
+        "num": 145860,
+        "word": "教资面试",
+        "onboard_time": 1702039901,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中欧关系要做好这些加减法#"
+    }
+  }
+}
