@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702070144685,
+  "endTime": 1702071259548,
   "band_list": [
     {
       "raw_hot": 1855251,
@@ -467,12 +467,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41411,
+      "num": 27910,
+      "word": "辛芷蕾左脚油门右脚刹车",
+      "onboard_time": 1702068374,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34402,
+      "num": 27772,
+      "word": "女子银行办业务柜员闭目葛优瘫",
+      "onboard_time": 1702069153,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32654,
       "num": 38590,
       "word": "新闻女王庆功宴",
       "onboard_time": 1702046140,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30268,
+      "num": 27673,
+      "word": "小李琳经超 上对花轿嫁对郎",
+      "onboard_time": 1702069694,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 27907,
@@ -491,36 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 26153,
-      "num": 26153,
-      "word": "辛芷蕾左脚油门右脚刹车",
-      "onboard_time": 1702068374,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 23743,
       "num": 22518,
       "word": "外网网友爱晒的金毛型老公",
       "onboard_time": 1702062736,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21837,
-      "num": 21837,
-      "word": "女子银行办业务柜员闭目葛优瘫",
-      "onboard_time": 1702069153,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17576,
-      "num": 17576,
-      "word": "小李琳经超 上对花轿嫁对郎",
-      "onboard_time": 1702069694,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 17523,
@@ -531,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12144,
-      "num": 15484,
+      "raw_hot": 13818,
+      "num": 16360,
       "word": "如何改善圆肩驼背探颈",
       "onboard_time": 1702069033,
       "rank": 49,

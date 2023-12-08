@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702070144685,
+  "endTime": 1702071259548,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -21067,6 +21067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41411,
+      "num": 27910,
+      "word": "辛芷蕾左脚油门右脚刹车",
+      "onboard_time": 1702068374,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41377,
       "num": 974122,
       "word": "这就是长三角",
@@ -21251,6 +21259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34402,
+      "num": 27772,
+      "word": "女子银行办业务柜员闭目葛优瘫",
+      "onboard_time": 1702069153,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34297,
       "num": 34297,
       "word": "冬季皮肤干燥多吃这几种食物",
@@ -21313,6 +21329,14 @@
       "onboard_time": 1701540501,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 30268,
+      "num": 27673,
+      "word": "小李琳经超 上对花轿嫁对郎",
+      "onboard_time": 1702069694,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 30261,
@@ -21385,14 +21409,6 @@
       "onboard_time": 1701799521,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26153,
-      "num": 26153,
-      "word": "辛芷蕾左脚油门右脚刹车",
-      "onboard_time": 1702068374,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 26024,
@@ -21499,14 +21515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21837,
-      "num": 21837,
-      "word": "女子银行办业务柜员闭目葛优瘫",
-      "onboard_time": 1702069153,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21077,
       "num": 21077,
       "word": "陆虎 听众朋友们受苦了",
@@ -21593,14 +21601,6 @@
       "onboard_time": 1701867634,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17576,
-      "num": 17576,
-      "word": "小李琳经超 上对花轿嫁对郎",
-      "onboard_time": 1702069694,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 17523,
@@ -21699,6 +21699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13818,
+      "num": 16360,
+      "word": "如何改善圆肩驼背探颈",
+      "onboard_time": 1702069033,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13727,
       "num": 215757,
       "word": "最适合打网球的篮球鞋",
@@ -21729,14 +21737,6 @@
       "onboard_time": 1701895214,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 12144,
-      "num": 15484,
-      "word": "如何改善圆肩驼背探颈",
-      "onboard_time": 1702069033,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 12081,
