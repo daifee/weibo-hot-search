@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702056859098,
+  "endTime": 1702059744259,
   "band_list": [
     {
       "raw_hot": 1855251,
@@ -211,6 +211,14 @@
       "category": "数码,游戏"
     },
     {
+      "raw_hot": 228119,
+      "num": 228119,
+      "word": "原来王安宇说的恋综是这个意思",
+      "onboard_time": 1702056203,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227956,
       "num": 227956,
       "word": "宋亚轩金靖 颠公颠婆",
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123724,
-      "num": 88991,
-      "word": "原来王安宇说的恋综是这个意思",
-      "onboard_time": 1702056203,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122665,
       "num": 122665,
       "word": "春雨面膜退出中国市场",
@@ -457,6 +457,14 @@
       "onboard_time": 1702047398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32654,
+      "num": 38590,
+      "word": "新闻女王庆功宴",
+      "onboard_time": 1702046140,
+      "rank": 44,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
