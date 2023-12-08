@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/09 00:22:55
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/09 00:38:53
 </p>
 </blockquote>
 <p>
@@ -579,6 +579,12 @@ GQ连夜排查水道（热度：2437987）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E7%8E%87%E4%B8%8B%E9%99%8D%E5%AF%BC%E8%87%B4%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%23" target="weibo">
+出生率下降导致幼儿园关停潮（热度：1855251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%20%E6%8A%98%E8%85%B0%23" target="weibo">
 宋祖儿 折腰（热度：1852238）
 </a>
@@ -749,12 +755,6 @@ BLACKPINK全员与YG完成续约（热度：1668669）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E8%AE%A4%E9%A2%86F6%23" target="weibo">
 阿信认领F6（热度：1664133）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E7%8E%87%E4%B8%8B%E9%99%8D%E5%AF%BC%E8%87%B4%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%23" target="weibo">
-出生率下降导致幼儿园关停潮（热度：1652581）
 </a>
 </li>
 
@@ -2067,6 +2067,12 @@ GQ明星工作室出图（热度：831779）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%23" target="weibo">
+黑色素瘤（热度：766897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%23" target="weibo">
 旭旭宝宝（热度：762288）
 </a>
@@ -2273,12 +2279,6 @@ GQ官宣易烊千玺（热度：713893）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%88%BA%E6%AD%BB%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%8F%8B%23" target="weibo">
 29岁中国男子刺死日本女友（热度：713443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%23" target="weibo">
-黑色素瘤（热度：713036）
 </a>
 </li>
 
