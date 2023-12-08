@@ -1,0 +1,410 @@
+{
+  "runTime": 1702078465165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129312,
+        "num": 1129312,
+        "word": "出生率下降导致幼儿园关停潮",
+        "onboard_time": 1702049435,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659376,
+        "num": 659376,
+        "word": "程序员每月只给自己留2千妻子却要离婚",
+        "onboard_time": 1702047339,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21578,
+        "num": 570417,
+        "word": "太空视角见证中国式现代化",
+        "onboard_time": 1702047398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517290,
+        "num": 517290,
+        "word": "官方通报警务辅助人员称要查网友个人信息",
+        "onboard_time": 1702077379,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 362237,
+        "num": 362237,
+        "word": "外卖小哥送餐途中被风筝线割喉",
+        "onboard_time": 1702054407,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311207,
+        "num": 311207,
+        "word": "女子银行办业务柜员闭目葛优瘫",
+        "onboard_time": 1702069153,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281776,
+        "num": 281776,
+        "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
+        "onboard_time": 1702021117,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230857,
+        "num": 230857,
+        "word": "苗苗钟楚曦六年后再跳绒花",
+        "onboard_time": 1702066515,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209162,
+        "num": 209162,
+        "word": "杨幂工作室 挡了又好像没挡",
+        "onboard_time": 1702048836,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179982,
+        "num": 179982,
+        "word": "原来王安宇说的恋综是这个意思",
+        "onboard_time": 1702056203,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359853,
+        "num": 179363,
+        "word": "肖战 红海",
+        "onboard_time": 1702046436,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 345665,
+        "num": 175854,
+        "word": "解清帅已辞职",
+        "onboard_time": 1702037854,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301703,
+        "num": 172043,
+        "word": "哥哥称要减肥成为像解清帅一样的型男",
+        "onboard_time": 1702074436,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159926,
+        "num": 159926,
+        "word": "女子实名举报武汉大学教授嫖娼赌博收回扣",
+        "onboard_time": 1702037315,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158136,
+        "num": 158136,
+        "word": "小李琳经超 上对花轿嫁对郎",
+        "onboard_time": 1702069694,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144590,
+        "num": 144590,
+        "word": "辛芷蕾左脚油门右脚刹车",
+        "onboard_time": 1702068374,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128181,
+        "num": 128181,
+        "word": "TFBOYS十周年DVD纪录片",
+        "onboard_time": 1702052611,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121267,
+        "num": 121267,
+        "word": "青岛一小区保安持刀连捅外卖员数刀",
+        "onboard_time": 1702046259,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120908,
+        "num": 120908,
+        "word": "小杨哥徒弟复播仅3分钟再被封",
+        "onboard_time": 1702028977,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 113684,
+        "num": 113684,
+        "word": "白鹿删博了",
+        "onboard_time": 1702015717,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207888,
+        "num": 109639,
+        "word": "五月天是否假唱可能不会有答案",
+        "onboard_time": 1702042536,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 176430,
+        "num": 107790,
+        "word": "研究发现被子重睡得香",
+        "onboard_time": 1702077320,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99492,
+        "num": 99492,
+        "word": "给腰腹赘肉一点震撼",
+        "onboard_time": 1702045658,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 98054,
+        "num": 98054,
+        "word": "偷偷藏不住 神隐隐不了",
+        "onboard_time": 1702039957,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96911,
+        "num": 96911,
+        "word": "躺练八分钟骨盆回正了",
+        "onboard_time": 1702053150,
+        "rank": 24,
+        "category": "运动健身,社会新闻"
+      },
+      {
+        "raw_hot": 94637,
+        "num": 94637,
+        "word": "王一博背沟",
+        "onboard_time": 1702045059,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 93525,
+        "num": 93525,
+        "word": "瑞幸星巴克 致癌物",
+        "onboard_time": 1702025558,
+        "rank": 26,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 92041,
+        "num": 92041,
+        "word": "沈腾越跳杨丽萍的脸色越差",
+        "onboard_time": 1702045597,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89740,
+        "num": 89740,
+        "word": "新闻女王 第二季",
+        "onboard_time": 1702037854,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40441,
+        "num": 88594,
+        "word": "丙烯酰胺是2A类致癌物",
+        "onboard_time": 1702073175,
+        "rank": 29,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 87976,
+        "num": 87976,
+        "word": "虞书欣改妆",
+        "onboard_time": 1702045959,
+        "rank": 30,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 85565,
+        "num": 85565,
+        "word": "蒙古獒零下20度睡雪地看家护院",
+        "onboard_time": 1702071854,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81967,
+        "num": 81967,
+        "word": "宋江洗澡",
+        "onboard_time": 1702049017,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80100,
+        "num": 80100,
+        "word": "萌兰1个大屁墩儿篮贵人升天了",
+        "onboard_time": 1702076780,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75496,
+        "num": 75496,
+        "word": "GQ 排他list艺人",
+        "onboard_time": 1702047700,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 68034,
+        "num": 68034,
+        "word": "春雨面膜退出中国市场",
+        "onboard_time": 1702033834,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 66970,
+        "num": 66970,
+        "word": "米哈游的米是小米的米",
+        "onboard_time": 1702040015,
+        "rank": 36,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 66791,
+        "num": 66791,
+        "word": "新闻女王 烂尾",
+        "onboard_time": 1702024233,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64356,
+        "num": 64356,
+        "word": "姨妈血不是废血",
+        "onboard_time": 1702016078,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61140,
+        "num": 61140,
+        "word": "黑色素瘤",
+        "onboard_time": 1702049078,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59799,
+        "num": 59799,
+        "word": "小米手环 达达利亚",
+        "onboard_time": 1702043195,
+        "rank": 40,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 57221,
+        "num": 57221,
+        "word": "檀健次周也这么会亲不要命啦",
+        "onboard_time": 1702078223,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55961,
+        "num": 55961,
+        "word": "郭德纲妻子持股的公司被强执263万",
+        "onboard_time": 1702044699,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54329,
+        "num": 54329,
+        "word": "谷爱凌 一个黑粉100个朋友",
+        "onboard_time": 1702044401,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53880,
+        "num": 53880,
+        "word": "五月天 对联",
+        "onboard_time": 1702032997,
+        "rank": 44,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 52519,
+        "num": 52519,
+        "word": "举报五月天博主发视频与阿信pk唱功",
+        "onboard_time": 1702022016,
+        "rank": 45,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 47333,
+        "num": 47333,
+        "word": "王鹤棣晒时宴库存",
+        "onboard_time": 1702072274,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46012,
+        "num": 46012,
+        "word": "解清帅和女友有谈婚论嫁",
+        "onboard_time": 1702078448,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45242,
+        "num": 45242,
+        "word": "杨紫 复古羊毛卷",
+        "onboard_time": 1702029877,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41175,
+        "num": 41175,
+        "word": "LPL全明星 录播",
+        "onboard_time": 1702035814,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中欧关系要做好这些加减法#"
+    }
+  }
+}

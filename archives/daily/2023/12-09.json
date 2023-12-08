@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702077470927,
+  "endTime": 1702078465165,
   "band_list": [
     {
       "raw_hot": 1855251,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 659376,
+      "num": 659376,
+      "word": "程序员每月只给自己留2千妻子却要离婚",
+      "onboard_time": 1702047339,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655126,
       "num": 655126,
       "word": "虞书欣改妆",
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535502,
-      "num": 535502,
-      "word": "程序员每月只给自己留2千妻子却要离婚",
-      "onboard_time": 1702047339,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 517290,
+      "num": 517290,
+      "word": "官方通报警务辅助人员称要查网友个人信息",
+      "onboard_time": 1702077379,
+      "rank": 25,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 508699,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311207,
+      "num": 311207,
+      "word": "女子银行办业务柜员闭目葛优瘫",
+      "onboard_time": 1702069153,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304519,
       "num": 304519,
       "word": "小杨哥徒弟复播仅3分钟再被封",
@@ -155,20 +171,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 301703,
+      "num": 172043,
+      "word": "哥哥称要减肥成为像解清帅一样的型男",
+      "onboard_time": 1702074436,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298977,
       "num": 298977,
       "word": "TFBOYS十周年DVD纪录片",
       "onboard_time": 1702052611,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268117,
-      "num": 268117,
-      "word": "女子银行办业务柜员闭目葛优瘫",
-      "onboard_time": 1702069153,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254971,
@@ -203,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240447,
-      "num": 123411,
-      "word": "哥哥称要减肥成为像解清帅一样的型男",
-      "onboard_time": 1702074436,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239426,
       "num": 239426,
       "word": "瞒天过海 消失的他",
@@ -225,6 +233,14 @@
       "onboard_time": 1702043195,
       "rank": 23,
       "category": "数码,游戏"
+    },
+    {
+      "raw_hot": 230857,
+      "num": 230857,
+      "word": "苗苗钟楚曦六年后再跳绒花",
+      "onboard_time": 1702066515,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 228119,
@@ -315,11 +331,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163923,
-      "num": 163923,
-      "word": "苗苗钟楚曦六年后再跳绒花",
-      "onboard_time": 1702066515,
-      "rank": 4,
+      "raw_hot": 176430,
+      "num": 107790,
+      "word": "研究发现被子重睡得香",
+      "onboard_time": 1702077320,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 158136,
+      "num": 158136,
+      "word": "小李琳经超 上对花轿嫁对郎",
+      "onboard_time": 1702069694,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -329,6 +353,14 @@
       "onboard_time": 1702051177,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144590,
+      "num": 144590,
+      "word": "辛芷蕾左脚油门右脚刹车",
+      "onboard_time": 1702068374,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 143798,
@@ -371,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123324,
-      "num": 123323,
-      "word": "小李琳经超 上对花轿嫁对郎",
-      "onboard_time": 1702069694,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122665,
       "num": 122665,
       "word": "春雨面膜退出中国市场",
@@ -392,14 +416,6 @@
       "word": "关晓彤 孔雀公主",
       "onboard_time": 1702043016,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 112076,
-      "num": 112076,
-      "word": "辛芷蕾左脚油门右脚刹车",
-      "onboard_time": 1702068374,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -491,20 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79984,
-      "num": 79984,
-      "word": "官方通报警务辅助人员称要查网友个人信息",
-      "onboard_time": 1702077379,
-      "rank": 25,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 70860,
-      "num": 70860,
-      "word": "研究发现被子重睡得香",
-      "onboard_time": 1702077320,
-      "rank": 31,
-      "category": "科学科普"
+      "raw_hot": 80100,
+      "num": 80100,
+      "word": "萌兰1个大屁墩儿篮贵人升天了",
+      "onboard_time": 1702076780,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57390,
@@ -515,11 +523,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52151,
-      "num": 52151,
-      "word": "萌兰1个大屁墩儿篮贵人升天了",
-      "onboard_time": 1702076780,
-      "rank": 39,
+      "raw_hot": 57221,
+      "num": 57221,
+      "word": "檀健次周也这么会亲不要命啦",
+      "onboard_time": 1702078223,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 47333,
+      "num": 47333,
+      "word": "王鹤棣晒时宴库存",
+      "onboard_time": 1702072274,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 46012,
+      "num": 46012,
+      "word": "解清帅和女友有谈婚论嫁",
+      "onboard_time": 1702078448,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -532,19 +556,11 @@
     },
     {
       "raw_hot": 41113,
-      "num": 73365,
+      "num": 88594,
       "word": "丙烯酰胺是2A类致癌物",
       "onboard_time": 1702073175,
       "rank": 46,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 38817,
-      "num": 38817,
-      "word": "王鹤棣晒时宴库存",
-      "onboard_time": 1702072274,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 32654,
