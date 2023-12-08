@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1702013633206,
+  "endTime": 1702016598910,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1749877,
+      "num": 316032,
+      "word": "白鹿删博了",
+      "onboard_time": 1702015717,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1702235,
       "num": 1304668,
       "word": "刘冲 并没有尴尬谢谢",
       "onboard_time": 1702004676,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1664133,
+      "num": 247845,
+      "word": "阿信认领F6",
+      "onboard_time": 1702014217,
+      "rank": 20,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1580533,
@@ -235,12 +251,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 726175,
+      "num": 726175,
+      "word": "赛琳娜退网",
+      "onboard_time": 1702015479,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 694549,
       "num": 694549,
       "word": "GQ红毯",
       "onboard_time": 1701938256,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 694416,
+      "num": 694416,
+      "word": "神隐 定档",
+      "onboard_time": 1702014034,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 692068,
@@ -289,6 +321,14 @@
       "onboard_time": 1702001314,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 650513,
+      "num": 311839,
+      "word": "孟子义理想型标准",
+      "onboard_time": 1702015717,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 645232,
@@ -379,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 484532,
+      "num": 304408,
+      "word": "姨妈血不是废血",
+      "onboard_time": 1702016078,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 483576,
       "num": 483576,
       "word": "Faker获TGA最佳电竞选手",
@@ -441,6 +489,14 @@
       "onboard_time": 1701982274,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 453648,
+      "num": 302410,
+      "word": "JDG官宣Yagao回归",
+      "onboard_time": 1702014696,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 432823,
@@ -571,6 +627,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 373818,
+      "num": 196990,
+      "word": "干杯",
+      "onboard_time": 1702013856,
+      "rank": 27,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 370712,
       "num": 308103,
       "word": "南京中医药大学回应老师课堂讲解不雅课件",
@@ -699,6 +763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 316486,
+      "num": 316486,
+      "word": "华为高颜值HR回应",
+      "onboard_time": 1702013433,
+      "rank": 48,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 314448,
       "num": 314448,
       "word": "王国之泪 最佳动作冒险游戏",
@@ -803,6 +875,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 294470,
+      "num": 294470,
+      "word": "天美工作室 请吃饭",
+      "onboard_time": 1702013856,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283830,
       "num": 283830,
       "word": "相柳玱玹同框",
@@ -827,6 +907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 274906,
+      "num": 174478,
+      "word": "杨幂卷纸",
+      "onboard_time": 1702015960,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 274770,
       "num": 274770,
       "word": "未定事件簿 打卡",
@@ -841,6 +929,14 @@
       "onboard_time": 1701955664,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273683,
+      "num": 174102,
+      "word": "以色列内阁部长儿子阵亡",
+      "onboard_time": 1702015600,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 270103,
@@ -908,7 +1004,7 @@
     },
     {
       "raw_hot": 253714,
-      "num": 246556,
+      "num": 253691,
       "word": "上海圣诞 二三十个only",
       "onboard_time": 1702012835,
       "rank": 32,
@@ -939,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242245,
+      "num": 242245,
+      "word": "恋与制作人 六周年福利",
+      "onboard_time": 1702015235,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236380,
       "num": 236380,
       "word": "连云港3.8级地震",
@@ -961,6 +1065,14 @@
       "onboard_time": 1702005334,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230274,
+      "num": 247883,
+      "word": "男子积雪中挖出2室1厅雪屋",
+      "onboard_time": 1702015235,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229601,
@@ -1040,6 +1152,14 @@
       "word": "元梦之星 抢id",
       "onboard_time": 1701998619,
       "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 209607,
+      "num": 209607,
+      "word": "星穹铁道第三世界首曝",
+      "onboard_time": 1702016320,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -1155,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171436,
-      "num": 171436,
-      "word": "华为高颜值HR回应",
-      "onboard_time": 1702013433,
-      "rank": 48,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 170727,
       "num": 170727,
       "word": "世界上没有人是准备好的",
@@ -1227,6 +1339,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158380,
+      "num": 148329,
+      "word": "新闻女王",
+      "onboard_time": 1702014457,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152138,
+      "num": 152138,
+      "word": "零下20度男子醉卧雪地邻居唤醒送回",
+      "onboard_time": 1702015658,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144779,
+      "num": 144779,
+      "word": "4种腮红画法",
+      "onboard_time": 1702016259,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 144244,
       "num": 112993,
       "word": "杨天真拍的李现生图",
@@ -1241,6 +1377,14 @@
       "onboard_time": 1701957640,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142180,
+      "num": 142180,
+      "word": "封神这船特有趣",
+      "onboard_time": 1702014397,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 134735,
@@ -1265,6 +1409,14 @@
       "onboard_time": 1701979513,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125651,
+      "num": 125651,
+      "word": "溥仪提到的红楼梦",
+      "onboard_time": 1702016501,
+      "rank": 48,
+      "category": "读书作家"
     },
     {
       "raw_hot": 120721,
