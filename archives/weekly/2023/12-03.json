@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1702005510416,
+  "endTime": 1702006461370,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -217,6 +217,14 @@
       "onboard_time": 1701962676,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3159556,
+      "num": 2295870,
+      "word": "难听",
+      "onboard_time": 1702004254,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 3140544,
@@ -449,14 +457,6 @@
       "onboard_time": 1701849216,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2295870,
-      "num": 2295870,
-      "word": "难听",
-      "onboard_time": 1702004254,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 2281877,
@@ -697,6 +697,14 @@
       "onboard_time": 1701575432,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1702235,
+      "num": 995307,
+      "word": "刘冲 并没有尴尬谢谢",
+      "onboard_time": 1702004676,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1697481,
@@ -1515,14 +1523,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 995307,
-      "num": 995307,
-      "word": "刘冲 并没有尴尬谢谢",
-      "onboard_time": 1702004676,
-      "rank": 4,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 978656,
       "num": 978656,
       "word": "孟美岐 年度最具突破女歌手",
@@ -1673,6 +1673,14 @@
       "onboard_time": 1701993212,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 917428,
+      "num": 917428,
+      "word": "大张伟演唱会擅改演出内容被罚",
+      "onboard_time": 1702004857,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 913492,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1701936815,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 797912,
+      "num": 305901,
+      "word": "站桩式演唱会",
+      "onboard_time": 1702004915,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 785016,
@@ -2371,6 +2387,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 664584,
+      "num": 664584,
+      "word": "断崖式衰老女子本人发声",
+      "onboard_time": 1702001314,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663829,
       "num": 207530,
       "word": "张凌赫贺聪 养眼",
@@ -2497,14 +2521,6 @@
       "onboard_time": 1701698924,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 643597,
-      "num": 643597,
-      "word": "断崖式衰老女子本人发声",
-      "onboard_time": 1702001314,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638360,
@@ -2881,14 +2897,6 @@
       "onboard_time": 1701679537,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 583065,
-      "num": 305901,
-      "word": "站桩式演唱会",
-      "onboard_time": 1702004915,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 580954,
@@ -3475,14 +3483,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 509990,
-      "num": 509990,
-      "word": "大张伟演唱会擅改演出内容被罚",
-      "onboard_time": 1702004857,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 509972,
       "num": 427386,
       "word": "老师我们家诗晴没怀孕",
@@ -3883,6 +3883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 464953,
+      "num": 464953,
+      "word": "老外分享在中国看病的经历",
+      "onboard_time": 1702002454,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 464228,
       "num": 464228,
       "word": "心理暗示 凡事发生必有利于我",
@@ -4275,14 +4283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430855,
-      "num": 430855,
-      "word": "老外分享在中国看病的经历",
-      "onboard_time": 1702002454,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 429983,
       "num": 429983,
       "word": "玲花还是这么飒 曾毅也做了医美",
@@ -4465,6 +4465,14 @@
       "onboard_time": 1701915272,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 419257,
+      "num": 318679,
+      "word": "崩铁TGA获奖",
+      "onboard_time": 1702004316,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 419001,
@@ -6491,6 +6499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303415,
+      "num": 303415,
+      "word": "杨紫范丞丞肤色差",
+      "onboard_time": 1702005574,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 302612,
       "num": 282317,
       "word": "张家妍人设",
@@ -7867,14 +7883,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 251640,
-      "num": 318679,
-      "word": "崩铁TGA获奖",
-      "onboard_time": 1702004316,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 251620,
       "num": 290620,
       "word": "以为是烤地瓜结果是小狗",
@@ -7953,6 +7961,14 @@
       "onboard_time": 1701762696,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248470,
+      "num": 244930,
+      "word": "于适GQ红毯",
+      "onboard_time": 1701993094,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 247824,
@@ -8036,7 +8052,7 @@
     },
     {
       "raw_hot": 245886,
-      "num": 286285,
+      "num": 288647,
       "word": "老祖宗留下这片海一寸也不能丢",
       "onboard_time": 1702003895,
       "rank": 29,
@@ -8057,14 +8073,6 @@
       "onboard_time": 1701747216,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 244930,
-      "num": 244930,
-      "word": "于适GQ红毯",
-      "onboard_time": 1701993094,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 244382,
@@ -8371,6 +8379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231981,
+      "num": 231981,
+      "word": "湖人vs鹈鹕",
+      "onboard_time": 1702005334,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231706,
       "num": 231706,
       "word": "勇士领先了47分50秒",
@@ -8513,6 +8529,14 @@
       "onboard_time": 1701786460,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 228647,
+      "num": 228647,
+      "word": "林孝埈晋级",
+      "onboard_time": 1702005817,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 228566,
@@ -9843,14 +9867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197901,
-      "num": 197901,
-      "word": "湖人vs鹈鹕",
-      "onboard_time": 1702005334,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197720,
       "num": 197720,
       "word": "全世界只有嗯嗨盆在逗我笑",
@@ -10659,6 +10675,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 181559,
+      "num": 181559,
+      "word": "赵一博游学感悟",
+      "onboard_time": 1702005994,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181363,
       "num": 181363,
       "word": "考研试卷拆封流程",
@@ -10857,6 +10881,14 @@
       "onboard_time": 1701821740,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174443,
+      "num": 174443,
+      "word": "瞒天过海今日上映",
+      "onboard_time": 1702006294,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 173509,
@@ -11297,6 +11329,14 @@
       "onboard_time": 1701949902,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164109,
+      "num": 164109,
+      "word": "林心如陆毅重聚 爷青回",
+      "onboard_time": 1702006354,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 164104,

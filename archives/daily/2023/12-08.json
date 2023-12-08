@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1702005510416,
+  "endTime": 1702006461370,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -27,7 +27,7 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 2295870,
+      "raw_hot": 3159556,
       "num": 2295870,
       "word": "难听",
       "onboard_time": 1702004254,
@@ -49,6 +49,14 @@
       "onboard_time": 1701991407,
       "rank": 0,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1702235,
+      "num": 995307,
+      "word": "刘冲 并没有尴尬谢谢",
+      "onboard_time": 1702004676,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1580533,
@@ -131,20 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 995307,
-      "num": 995307,
-      "word": "刘冲 并没有尴尬谢谢",
-      "onboard_time": 1702004676,
-      "rank": 4,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 926354,
       "num": 926354,
       "word": "GQ 坐船时长",
       "onboard_time": 1701993212,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 917428,
+      "num": 917428,
+      "word": "大张伟演唱会擅改演出内容被罚",
+      "onboard_time": 1702004857,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 911426,
@@ -161,6 +169,14 @@
       "onboard_time": 1701962805,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 797912,
+      "num": 305901,
+      "word": "站桩式演唱会",
+      "onboard_time": 1702004915,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 777650,
@@ -211,20 +227,20 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 664584,
+      "num": 664584,
+      "word": "断崖式衰老女子本人发声",
+      "onboard_time": 1702001314,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645232,
       "num": 645232,
       "word": "林孝埈人气",
       "onboard_time": 1702002573,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 643597,
-      "num": 643597,
-      "word": "断崖式衰老女子本人发声",
-      "onboard_time": 1702001314,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 627304,
@@ -243,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 583065,
-      "num": 305901,
-      "word": "站桩式演唱会",
-      "onboard_time": 1702004915,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 517896,
       "num": 517896,
       "word": "睡眠真的超级重要",
@@ -265,14 +273,6 @@
       "onboard_time": 1701948819,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 509990,
-      "num": 509990,
-      "word": "大张伟演唱会擅改演出内容被罚",
-      "onboard_time": 1702004857,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 483576,
@@ -307,6 +307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 464953,
+      "num": 464953,
+      "word": "老外分享在中国看病的经历",
+      "onboard_time": 1702002454,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 464065,
       "num": 464065,
       "word": "张镇麟求婚",
@@ -339,14 +347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 430855,
-      "num": 430855,
-      "word": "老外分享在中国看病的经历",
-      "onboard_time": 1702002454,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 427673,
       "num": 427673,
       "word": "丫丫开始冲刺年底干饭KPI",
@@ -361,6 +361,14 @@
       "onboard_time": 1701990144,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419257,
+      "num": 318679,
+      "word": "崩铁TGA获奖",
+      "onboard_time": 1702004316,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 417925,
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303415,
+      "num": 303415,
+      "word": "杨紫范丞丞肤色差",
+      "onboard_time": 1702005574,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 297664,
       "num": 165875,
       "word": "金鹤龙为杨幂化妆",
@@ -667,28 +683,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 251640,
-      "num": 318679,
-      "word": "崩铁TGA获奖",
-      "onboard_time": 1702004316,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 245886,
-      "num": 286285,
-      "word": "老祖宗留下这片海一寸也不能丢",
-      "onboard_time": 1702003895,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 244930,
+      "raw_hot": 248470,
       "num": 244930,
       "word": "于适GQ红毯",
       "onboard_time": 1701993094,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 245886,
+      "num": 288647,
+      "word": "老祖宗留下这片海一寸也不能丢",
+      "onboard_time": 1702003895,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 244382,
@@ -705,6 +713,22 @@
       "onboard_time": 1701965254,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231981,
+      "num": 231981,
+      "word": "湖人vs鹈鹕",
+      "onboard_time": 1702005334,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228647,
+      "num": 228647,
+      "word": "林孝埈晋级",
+      "onboard_time": 1702005817,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 227239,
@@ -787,14 +811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197901,
-      "num": 197901,
-      "word": "湖人vs鹈鹕",
-      "onboard_time": 1702005334,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190091,
       "num": 166950,
       "word": "原来慈禧太后的寝宫那么小",
@@ -811,12 +827,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181559,
+      "num": 181559,
+      "word": "赵一博游学感悟",
+      "onboard_time": 1702005994,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176472,
       "num": 176472,
       "word": "95后大学生摆摊卖猪头肉日入800元",
       "onboard_time": 1701995140,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174443,
+      "num": 174443,
+      "word": "瞒天过海今日上映",
+      "onboard_time": 1702006294,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 170727,
@@ -857,6 +889,14 @@
       "onboard_time": 1701993997,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 164109,
+      "num": 164109,
+      "word": "林心如陆毅重聚 爷青回",
+      "onboard_time": 1702006354,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 164070,
