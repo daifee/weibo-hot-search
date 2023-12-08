@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702059744259,
+  "endTime": 1702060545267,
   "band_list": [
     {
       "raw_hot": 1855251,
@@ -465,6 +465,14 @@
       "onboard_time": 1702046140,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26028,
+      "num": 27303,
+      "word": "当你把手伸到狗狗面前时",
+      "onboard_time": 1702059919,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
