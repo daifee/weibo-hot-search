@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1702009292177,
+  "endTime": 1702010164201,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -67,6 +67,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1576640,
+      "num": 485669,
+      "word": "医生说ICU很贵不要因为吃剩菜来",
+      "onboard_time": 1702008219,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1548990,
       "num": 848764,
       "word": "五月天感谢了77场每一个城市",
@@ -81,6 +89,14 @@
       "onboard_time": 1702007134,
       "rank": 25,
       "category": "演出,时尚"
+    },
+    {
+      "raw_hot": 1531779,
+      "num": 1219398,
+      "word": "大张伟演唱会擅改演出内容被罚",
+      "onboard_time": 1702004857,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1483695,
@@ -99,8 +115,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 1375235,
-      "num": 1375235,
+      "raw_hot": 1381598,
+      "num": 1381598,
       "word": "迪丽热巴逼秦岚看自己换衣服",
       "onboard_time": 1702007375,
       "rank": 1,
@@ -123,27 +139,11 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 1219398,
-      "num": 1219398,
-      "word": "大张伟演唱会擅改演出内容被罚",
-      "onboard_time": 1702004857,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1062647,
       "num": 1062647,
       "word": "连云港地震",
       "onboard_time": 1701962025,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1059241,
-      "num": 485669,
-      "word": "医生说ICU很贵不要因为吃剩菜来",
-      "onboard_time": 1702008219,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -187,6 +187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 862182,
+      "num": 862182,
+      "word": "炎亚纶 谢谢证明清白",
+      "onboard_time": 1702009298,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 817369,
       "num": 326292,
       "word": "虞书欣 网红妆",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 801086,
-      "num": 541013,
+      "num": 640802,
       "word": "博德之门3获年度最佳游戏",
       "onboard_time": 1702008821,
       "rank": 10,
@@ -323,6 +331,14 @@
       "category": "游戏,数码"
     },
     {
+      "raw_hot": 532302,
+      "num": 523591,
+      "word": "张凌赫扶白鹿上台",
+      "onboard_time": 1702008154,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 517896,
       "num": 517896,
       "word": "睡眠真的超级重要",
@@ -401,14 +417,6 @@
       "onboard_time": 1701982274,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 451198,
-      "num": 451198,
-      "word": "张凌赫扶白鹿上台",
-      "onboard_time": 1702008154,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 432823,
@@ -512,6 +520,14 @@
       "word": "曾舜晞吃上席了",
       "onboard_time": 1702000233,
       "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 392736,
+      "num": 278934,
+      "word": "虞书欣 昨天尝试的黑眼圈妆",
+      "onboard_time": 1702009177,
+      "rank": 47,
       "category": "作品衍生,时尚"
     },
     {
@@ -635,6 +651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 314981,
+      "num": 314981,
+      "word": "锁匠协助警方开锁被炸身亡未获赔偿",
+      "onboard_time": 1702009359,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314354,
       "num": 314354,
       "word": "一个碗6万吨重",
@@ -699,6 +723,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 297070,
+      "num": 290696,
+      "word": "张朝阳建议年轻人要早起",
+      "onboard_time": 1702007734,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 297055,
       "num": 297055,
       "word": "朱珠未来感连衣裙",
@@ -713,14 +745,6 @@
       "onboard_time": 1701996461,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 290696,
-      "num": 290696,
-      "word": "张朝阳建议年轻人要早起",
-      "onboard_time": 1702007734,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 283830,
@@ -747,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270103,
+      "num": 260161,
+      "word": "于适GQ红毯",
+      "onboard_time": 1701993094,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 268498,
       "num": 268498,
       "word": "中医把脉学习资料",
@@ -763,20 +795,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266917,
-      "num": 244930,
-      "word": "于适GQ红毯",
-      "onboard_time": 1701993094,
-      "rank": 39,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 261758,
       "num": 261758,
       "word": "何猷君 对爱人的尊重",
       "onboard_time": 1701995501,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261380,
+      "num": 261380,
+      "word": "绝区零预告片",
+      "onboard_time": 1702009539,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 257402,
@@ -795,12 +827,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 247135,
-      "num": 196540,
-      "word": "虞书欣 昨天尝试的黑眼圈妆",
-      "onboard_time": 1702009177,
-      "rank": 47,
-      "category": "作品衍生,时尚"
+      "raw_hot": 248874,
+      "num": 248874,
+      "word": "鹦鹉 这是断头饭啊",
+      "onboard_time": 1702008276,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 245886,
@@ -867,6 +899,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 218105,
+      "num": 218105,
+      "word": "邓紫棋广州演唱会",
+      "onboard_time": 1702009236,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 215649,
       "num": 92297,
       "word": "Apple结婚",
@@ -889,14 +929,6 @@
       "onboard_time": 1701998619,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206571,
-      "num": 206571,
-      "word": "鹦鹉 这是断头饭啊",
-      "onboard_time": 1702008276,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 205957,
@@ -947,20 +979,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 193300,
-      "num": 193300,
-      "word": "邓紫棋广州演唱会",
-      "onboard_time": 1702009236,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 190091,
       "num": 166950,
       "word": "原来慈禧太后的寝宫那么小",
       "onboard_time": 1701946972,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188087,
+      "num": 188087,
+      "word": "金博洋夺冠",
+      "onboard_time": 1702010139,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 185491,
@@ -1224,6 +1256,14 @@
       "word": "迷路娃牢牢牵住民警伸出的手",
       "onboard_time": 1701991769,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77500,
+      "num": 1171092,
+      "word": "港珠澳大桥旅游12月15日开通",
+      "onboard_time": 1702009421,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
