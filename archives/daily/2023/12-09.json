@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702066725302,
+  "endTime": 1702067655125,
   "band_list": [
     {
       "raw_hot": 1855251,
@@ -443,20 +443,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67292,
+      "num": 67292,
+      "word": "苗苗钟楚曦六年后再跳绒花",
+      "onboard_time": 1702066515,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57390,
       "num": 63622,
       "word": "郭德纲妻子持股的公司被强执263万",
       "onboard_time": 1702044699,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56667,
-      "num": 56667,
-      "word": "苗苗钟楚曦六年后再跳绒花",
-      "onboard_time": 1702066515,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 42181,
@@ -491,12 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22518,
+      "raw_hot": 23743,
       "num": 22518,
       "word": "外网网友爱晒的金毛型老公",
       "onboard_time": 1702062736,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17523,
+      "num": 17523,
+      "word": "福建提醒这些咖啡检出致癌物",
+      "onboard_time": 1702066934,
+      "rank": 36,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
