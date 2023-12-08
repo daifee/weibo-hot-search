@@ -1,0 +1,410 @@
+{
+  "runTime": 1702017387668,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2607119,
+        "num": 2607119,
+        "word": "白鹿删博了",
+        "onboard_time": 1702015717,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1210824,
+        "num": 1210824,
+        "word": "赛琳娜退网",
+        "onboard_time": 1702015479,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141931,
+        "num": 939863,
+        "word": "港珠澳大桥旅游12月15日开通",
+        "onboard_time": 1702009421,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817845,
+        "num": 817845,
+        "word": "迪丽热巴逼秦岚看自己换衣服",
+        "onboard_time": 1702007375,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639237,
+        "num": 639237,
+        "word": "神隐 定档",
+        "onboard_time": 1702014034,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589174,
+        "num": 589174,
+        "word": "GQ出图了",
+        "onboard_time": 1702003656,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 417186,
+        "num": 417186,
+        "word": "JDG官宣Yagao回归",
+        "onboard_time": 1702014696,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 373945,
+        "num": 373945,
+        "word": "锁匠协助警方开锁被炸身亡未获赔偿",
+        "onboard_time": 1702009359,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324446,
+        "num": 324446,
+        "word": "天美工作室 请吃饭",
+        "onboard_time": 1702013856,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314004,
+        "num": 314004,
+        "word": "断崖式衰老女子本人发声",
+        "onboard_time": 1702001314,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263252,
+        "num": 311692,
+        "word": "姨妈血不是废血",
+        "onboard_time": 1702016078,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 867135,
+        "num": 307216,
+        "word": "孟子义理想型标准",
+        "onboard_time": 1702015717,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 520379,
+        "num": 304848,
+        "word": "炎亚纶 谢谢证明清白",
+        "onboard_time": 1702009298,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368328,
+        "num": 301560,
+        "word": "以色列内阁部长儿子阵亡",
+        "onboard_time": 1702015600,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 454416,
+        "num": 298449,
+        "word": "大张伟演唱会擅改演出内容被罚",
+        "onboard_time": 1702004857,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 406647,
+        "num": 291055,
+        "word": "刘冲 并没有尴尬谢谢",
+        "onboard_time": 1702004676,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328109,
+        "num": 289773,
+        "word": "在内娱当男团别太巴适了",
+        "onboard_time": 1702011878,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287192,
+        "num": 287192,
+        "word": "华为高颜值HR回应",
+        "onboard_time": 1702013433,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275950,
+        "num": 275950,
+        "word": "支付宝宣布启动鸿蒙原生应用开发",
+        "onboard_time": 1702010440,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 255353,
+        "num": 255353,
+        "word": "星穹铁道第三世界首曝",
+        "onboard_time": 1702016320,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1343555,
+        "num": 251203,
+        "word": "阿信认领F6",
+        "onboard_time": 1702014217,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 851705,
+        "num": 242489,
+        "word": "医生说ICU很贵不要因为吃剩菜来",
+        "onboard_time": 1702008219,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228233,
+        "num": 228233,
+        "word": "上海圣诞 二三十个only",
+        "onboard_time": 1702012835,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 207100,
+        "num": 207100,
+        "word": "男子积雪中挖出2室1厅雪屋",
+        "onboard_time": 1702015235,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205064,
+        "num": 205064,
+        "word": "5款腾讯持股游戏获奖TGA",
+        "onboard_time": 1702016918,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1003182,
+        "num": 204708,
+        "word": "阿信 黑暗过去了",
+        "onboard_time": 1702003055,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 639263,
+        "num": 204083,
+        "word": "难听",
+        "onboard_time": 1702004254,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362240,
+        "num": 203606,
+        "word": "干杯",
+        "onboard_time": 1702013856,
+        "rank": 27,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 301342,
+        "num": 203321,
+        "word": "站桩式演唱会",
+        "onboard_time": 1702004915,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202944,
+        "num": 202944,
+        "word": "私下查询公民个人信息涉嫌犯罪",
+        "onboard_time": 1702017036,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258046,
+        "num": 202856,
+        "word": "杨幂卷纸",
+        "onboard_time": 1702015960,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253540,
+        "num": 201845,
+        "word": "五月天直播",
+        "onboard_time": 1701991407,
+        "rank": 31,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 200394,
+        "num": 200394,
+        "word": "鲍蕾说贝儿到叛逆期了",
+        "onboard_time": 1702017036,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192077,
+        "num": 198422,
+        "word": "恋与制作人 六周年福利",
+        "onboard_time": 1702015235,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198079,
+        "num": 198079,
+        "word": "小岛秀夫新作",
+        "onboard_time": 1702016918,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196057,
+        "num": 196057,
+        "word": "刘诗诗端水式晒自拍",
+        "onboard_time": 1702011222,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189121,
+        "num": 189121,
+        "word": "GQ 运镜",
+        "onboard_time": 1702004915,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 187647,
+        "num": 187647,
+        "word": "AppleMusic国区涨价",
+        "onboard_time": 1702017276,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185238,
+        "num": 185238,
+        "word": "溥仪提到的红楼梦",
+        "onboard_time": 1702016501,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 186994,
+        "num": 182913,
+        "word": "张凌赫扶白鹿上台",
+        "onboard_time": 1702008154,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179998,
+        "num": 179998,
+        "word": "原神小米联名",
+        "onboard_time": 1702007254,
+        "rank": 40,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 177490,
+        "num": 177490,
+        "word": "既生泪 何生博",
+        "onboard_time": 1702017276,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174866,
+        "num": 174866,
+        "word": "GQ 坐船时长",
+        "onboard_time": 1701993212,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167962,
+        "num": 167962,
+        "word": "湖人晋级决赛",
+        "onboard_time": 1702017036,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162630,
+        "num": 162630,
+        "word": "新闻女王",
+        "onboard_time": 1702014457,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159925,
+        "num": 159925,
+        "word": "中国福彩客服证实2.2亿巨奖系同一人所中",
+        "onboard_time": 1701993696,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157440,
+        "num": 157440,
+        "word": "电力局已经开始用激光炮修剪树枝了",
+        "onboard_time": 1702006474,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153616,
+        "num": 153616,
+        "word": "迪丽热巴费加罗闭年刊",
+        "onboard_time": 1702010680,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149021,
+        "num": 149021,
+        "word": "杨幂杨紫王一博坐一桌",
+        "onboard_time": 1701994298,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145161,
+        "num": 145161,
+        "word": "IGN 黑神话悟空",
+        "onboard_time": 1702017218,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对越南国事访问#"
+    }
+  }
+}
