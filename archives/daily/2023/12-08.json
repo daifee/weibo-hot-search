@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1702030761040,
+  "endTime": 1702031775833,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -307,8 +307,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 808085,
-      "num": 808085,
+      "raw_hot": 810982,
+      "num": 810982,
       "word": "杨超越面部平整度",
       "onboard_time": 1702025980,
       "rank": 16,
@@ -355,6 +355,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 708175,
+      "num": 708175,
+      "word": "男子600元买本刮刮乐第3张刮出100万",
+      "onboard_time": 1702027657,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701912,
+      "num": 701912,
+      "word": "小杨哥徒弟复播仅3分钟再被封",
+      "onboard_time": 1702028977,
+      "rank": 8,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 694549,
       "num": 694549,
       "word": "GQ红毯",
@@ -369,14 +385,6 @@
       "onboard_time": 1702014034,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 694137,
-      "num": 694137,
-      "word": "男子600元买本刮刮乐第3张刮出100万",
-      "onboard_time": 1702027657,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 692068,
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 650473,
-      "num": 650473,
-      "word": "小杨哥徒弟复播仅3分钟再被封",
-      "onboard_time": 1702028977,
-      "rank": 8,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 645232,
       "num": 645232,
       "word": "林孝埈人气",
@@ -465,6 +465,14 @@
       "onboard_time": 1702000536,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 626223,
+      "num": 1721065,
+      "word": "爸爸劝女儿找对象要衡量生活质量",
+      "onboard_time": 1702029035,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625135,
@@ -571,6 +579,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 511041,
+      "num": 511041,
+      "word": "杨紫 复古羊毛卷",
+      "onboard_time": 1702029877,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 511033,
+      "num": 511033,
+      "word": "郑恺苗苗发糖",
+      "onboard_time": 1702029702,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507826,
       "num": 507826,
       "word": "李一桐 陈都灵",
@@ -585,22 +609,6 @@
       "onboard_time": 1702010440,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 504264,
-      "num": 504264,
-      "word": "杨紫 复古羊毛卷",
-      "onboard_time": 1702029877,
-      "rank": 13,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 496748,
-      "num": 1721065,
-      "word": "爸爸劝女儿找对象要衡量生活质量",
-      "onboard_time": 1702029035,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 487542,
@@ -625,14 +633,6 @@
       "onboard_time": 1701997717,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 481853,
-      "num": 481853,
-      "word": "郑恺苗苗发糖",
-      "onboard_time": 1702029702,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 479826,
@@ -1091,6 +1091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 311155,
+      "num": 311155,
+      "word": "我都这样了 让让我吧",
+      "onboard_time": 1702030117,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310501,
       "num": 303380,
       "word": "周杰伦演唱会门票提前半年预售引质疑",
@@ -1219,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289735,
+      "num": 289735,
+      "word": "原神 可恶的旅行者",
+      "onboard_time": 1702029578,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283830,
       "num": 283830,
       "word": "相柳玱玹同框",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1702028977,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282380,
-      "num": 282380,
-      "word": "原神 可恶的旅行者",
-      "onboard_time": 1702029578,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 279659,
@@ -1307,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271861,
+      "num": 271861,
+      "word": "香港偶遇韩素希",
+      "onboard_time": 1702027420,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271361,
       "num": 271361,
       "word": "元梦之星 词组",
@@ -1347,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266915,
+      "num": 266915,
+      "word": "物业酒后砸门收费业主女儿手筋被切断",
+      "onboard_time": 1702028797,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266812,
       "num": 266812,
       "word": "湖人淘汰鹈鹕",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1701995501,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261531,
-      "num": 215603,
-      "word": "香港偶遇韩素希",
-      "onboard_time": 1702027420,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 261380,
@@ -1411,14 +1427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 254746,
-      "num": 254746,
-      "word": "物业酒后砸门收费业主女儿手筋被切断",
-      "onboard_time": 1702028797,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254443,
       "num": 165756,
       "word": "杨紫张晚意檀健次船上打招呼",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1702012835,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 250776,
+      "num": 250776,
+      "word": "王霜加盟热刺女足",
+      "onboard_time": 1702030836,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 250713,
@@ -1497,14 +1513,6 @@
       "onboard_time": 1702019435,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241617,
-      "num": 241617,
-      "word": "我都这样了 让让我吧",
-      "onboard_time": 1702030117,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 238399,
@@ -1617,6 +1625,14 @@
       "onboard_time": 1702027360,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220572,
+      "num": 1103674,
+      "word": "出狱人员履约请监狱民警喝可乐",
+      "onboard_time": 1702029035,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219356,
@@ -1803,12 +1819,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 192911,
-      "num": 1103674,
-      "word": "出狱人员履约请监狱民警喝可乐",
-      "onboard_time": 1702029035,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 190269,
+      "num": 190269,
+      "word": "薛之谦三明 抢票",
+      "onboard_time": 1702031256,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 190091,
@@ -1827,12 +1843,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189058,
+      "num": 189058,
+      "word": "张万森 喜欢一个人就是让她赢",
+      "onboard_time": 1702031678,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188621,
       "num": 1255619,
       "word": "港珠澳大桥旅游12月15日开通",
       "onboard_time": 1702009421,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187557,
+      "num": 187557,
+      "word": "GQ 封神隐藏结局",
+      "onboard_time": 1702031077,
+      "rank": 47,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 186242,
@@ -2099,6 +2131,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 132697,
+      "num": 748832,
+      "word": "妻子放狠话式督促脑梗丈夫跑步3年",
+      "onboard_time": 1702029035,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131419,
       "num": 166229,
       "word": "肖战指导英文回击法国球员",
@@ -2177,14 +2217,6 @@
       "onboard_time": 1701987677,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 106068,
-      "num": 735359,
-      "word": "妻子放狠话式督促脑梗丈夫跑步3年",
-      "onboard_time": 1702029035,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98482,
@@ -2299,7 +2331,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 44940,
+      "raw_hot": 54982,
       "num": 1422878,
       "word": "6问6答了解流感用药注意事项",
       "onboard_time": 1702029397,
@@ -2363,6 +2395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 27996,
+      "num": 483376,
+      "word": "用球鞋配色讲浪漫故事",
+      "onboard_time": 1702029634,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 25572,
       "num": 29261,
       "word": "辛光就是这个味儿",
@@ -2395,15 +2435,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 21858,
-      "num": 483376,
-      "word": "用球鞋配色讲浪漫故事",
-      "onboard_time": 1702029634,
-      "rank": 14,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 17247,
+      "raw_hot": 19902,
       "num": 312103,
       "word": "宝石老舅元梦rap版向快乐出发",
       "onboard_time": 1702029160,
