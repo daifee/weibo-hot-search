@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1701992090885,
+  "endTime": 1701998233297,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -9,6 +9,30 @@
       "onboard_time": 1701962510,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1860091,
+      "num": 1860091,
+      "word": "中国福彩客服证实2.2亿巨奖系同一人所中",
+      "onboard_time": 1701993696,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1860037,
+      "num": 1147878,
+      "word": "五月天直播",
+      "onboard_time": 1701991407,
+      "rank": 0,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1483695,
+      "num": 370576,
+      "word": "阿信 E6",
+      "onboard_time": 1701991949,
+      "rank": 30,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1439318,
@@ -28,18 +52,10 @@
     },
     {
       "raw_hot": 1244474,
-      "num": 170146,
+      "num": 356795,
       "word": "五月天巴黎演唱会",
       "onboard_time": 1701961905,
       "rank": 20,
-      "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1147878,
-      "num": 1147878,
-      "word": "五月天直播",
-      "onboard_time": 1701991407,
-      "rank": 0,
       "category": "演出,社会新闻"
     },
     {
@@ -51,32 +67,48 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1044352,
-      "num": 355149,
-      "word": "毛晓彤鼻子",
-      "onboard_time": 1701952238,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1009026,
-      "num": 1009026,
-      "word": "彩票2.2亿",
-      "onboard_time": 1701956568,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 957151,
-      "num": 152912,
+      "raw_hot": 1054919,
+      "num": 365642,
       "word": "律师称若五月天为真唱举报者无需担责",
       "onboard_time": 1701977235,
       "rank": 22,
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 1044352,
+      "num": 439073,
+      "word": "毛晓彤鼻子",
+      "onboard_time": 1701952238,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1016525,
+      "num": 1016525,
+      "word": "彩票2.2亿",
+      "onboard_time": 1701956568,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926354,
+      "num": 926354,
+      "word": "GQ 坐船时长",
+      "onboard_time": 1701993212,
+      "rank": 3,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 911426,
+      "num": 560029,
+      "word": "杨幂杨紫王一博坐一桌",
+      "onboard_time": 1701994298,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 817369,
-      "num": 254318,
+      "num": 326292,
       "word": "虞书欣 网红妆",
       "onboard_time": 1701962805,
       "rank": 13,
@@ -107,6 +139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 670103,
+      "num": 670103,
+      "word": "北京公布元旦放假安排",
+      "onboard_time": 1701993634,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666204,
       "num": 133832,
       "word": "歌手提醒非专业人士请勿轻易挑战E6高音",
@@ -123,6 +163,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583166,
+      "num": 583166,
+      "word": "银杏 活着直到被死神遗忘",
+      "onboard_time": 1701994779,
+      "rank": 5,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 517896,
+      "num": 517896,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1701961602,
+      "rank": 7,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 515245,
       "num": 167693,
       "word": "杨幂倪妮 开嗑了",
@@ -131,12 +187,36 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 497950,
-      "num": 497950,
-      "word": "睡眠真的超级重要",
-      "onboard_time": 1701961602,
-      "rank": 7,
-      "category": "健康医疗"
+      "raw_hot": 479826,
+      "num": 407407,
+      "word": "倪妮 欢迎来参加我们的婚礼",
+      "onboard_time": 1701953201,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 468202,
+      "num": 458508,
+      "word": "杨幂晒了三张小时候照片",
+      "onboard_time": 1701969143,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 464065,
+      "num": 464065,
+      "word": "张镇麟求婚",
+      "onboard_time": 1701991528,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 459618,
+      "num": 459618,
+      "word": "一念关山官配",
+      "onboard_time": 1701992971,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 458865,
@@ -147,12 +227,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 439339,
-      "num": 439339,
-      "word": "杨幂晒了三张小时候照片",
-      "onboard_time": 1701969143,
-      "rank": 15,
-      "category": "作品衍生,时尚"
+      "raw_hot": 440435,
+      "num": 440435,
+      "word": "TGA2023",
+      "onboard_time": 1701997060,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 426130,
@@ -161,6 +241,14 @@
       "onboard_time": 1701990144,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416630,
+      "num": 416630,
+      "word": "为了吃中餐混进群聊的外国教授",
+      "onboard_time": 1701992071,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 404508,
@@ -179,12 +267,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 396179,
+      "num": 352104,
+      "word": "蔡文静的吊带有自己的想法",
+      "onboard_time": 1701995740,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 395079,
       "num": 388239,
       "word": "张凌赫眼神就没离开过白鹿",
       "onboard_time": 1701954280,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 381291,
+      "num": 381291,
+      "word": "Faker获TGA最佳电竞选手",
+      "onboard_time": 1701997717,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 370712,
@@ -203,12 +307,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 352314,
-      "num": 195000,
-      "word": "倪妮 欢迎来参加我们的婚礼",
-      "onboard_time": 1701953201,
-      "rank": 31,
-      "category": "作品衍生,时尚"
+      "raw_hot": 351682,
+      "num": 351682,
+      "word": "中奖2.2亿是否已致福彩奖金池亏空",
+      "onboard_time": 1701994963,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349918,
@@ -235,6 +339,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 324484,
+      "num": 307375,
+      "word": "奥司他韦和玛巴洛沙韦的区别",
+      "onboard_time": 1701997241,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 320569,
+      "num": 320569,
+      "word": "薛之谦新歌 张荣昊词曲",
+      "onboard_time": 1701994360,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 318531,
       "num": 165952,
       "word": "王一博 快划",
@@ -243,12 +363,68 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 308814,
+      "num": 308814,
+      "word": "头包脸发型",
+      "onboard_time": 1701995321,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 297664,
       "num": 165875,
       "word": "金鹤龙为杨幂化妆",
       "onboard_time": 1701964716,
       "rank": 43,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 295169,
+      "num": 295169,
+      "word": "斗鱼第三季度净利润7190万",
+      "onboard_time": 1701996461,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 283830,
+      "num": 283830,
+      "word": "相柳玱玹同框",
+      "onboard_time": 1701992612,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 270641,
+      "num": 270641,
+      "word": "米卡真的在认真答题",
+      "onboard_time": 1701996519,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 270607,
+      "num": 270607,
+      "word": "一天一个苹果 兽医远离我",
+      "onboard_time": 1701955664,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 267475,
+      "num": 267475,
+      "word": "辛甘秦愿",
+      "onboard_time": 1701996760,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261758,
+      "num": 261758,
+      "word": "何猷君 对爱人的尊重",
+      "onboard_time": 1701995501,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 257402,
@@ -267,11 +443,35 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244930,
+      "num": 244930,
+      "word": "于适GQ红毯",
+      "onboard_time": 1701993094,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244214,
+      "num": 244214,
+      "word": "周杰伦演唱会门票提前半年预售引质疑",
+      "onboard_time": 1701997897,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236380,
       "num": 236380,
       "word": "连云港3.8级地震",
       "onboard_time": 1701965254,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230760,
+      "num": 230760,
+      "word": "3姐弟捡果子狸上交被奖试卷1套",
+      "onboard_time": 1701997475,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -281,6 +481,14 @@
       "onboard_time": 1701968424,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212972,
+      "num": 212972,
+      "word": "步行者淘汰雄鹿",
+      "onboard_time": 1701997658,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 205957,
@@ -307,14 +515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195676,
-      "num": 195676,
-      "word": "张镇麟求婚",
-      "onboard_time": 1701991528,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190091,
       "num": 166950,
       "word": "原来慈禧太后的寝宫那么小",
@@ -331,12 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176472,
+      "num": 176472,
+      "word": "95后大学生摆摊卖猪头肉日入800元",
+      "onboard_time": 1701995140,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170727,
       "num": 170727,
       "word": "世界上没有人是准备好的",
       "onboard_time": 1701959987,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170289,
+      "num": 170289,
+      "word": "胡锡进谈彩民花10万元中2.2亿大奖",
+      "onboard_time": 1701971179,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169154,
@@ -355,6 +571,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 165144,
+      "num": 165144,
+      "word": "低饱和口红",
+      "onboard_time": 1701993997,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 164070,
+      "num": 164070,
+      "word": "猴年吉祥物康康",
+      "onboard_time": 1701995562,
+      "rank": 49,
+      "category": "综艺,社会新闻"
+    },
+    {
       "raw_hot": 160901,
       "num": 166251,
       "word": "身体这4个部位不能太干净",
@@ -368,22 +600,6 @@
       "word": "知情人回应狗主人锁狗被疯狂攻击",
       "onboard_time": 1701961905,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153255,
-      "num": 165938,
-      "word": "一天一个苹果 兽医远离我",
-      "onboard_time": 1701955664,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 152296,
-      "num": 152296,
-      "word": "胡锡进谈彩民花10万元中2.2亿大奖",
-      "onboard_time": 1701971179,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -401,14 +617,6 @@
       "onboard_time": 1701957640,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132614,
-      "num": 114800,
-      "word": "阿信 E6",
-      "onboard_time": 1701991949,
-      "rank": 30,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 131419,
@@ -441,6 +649,14 @@
       "onboard_time": 1701952059,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116619,
+      "num": 276361,
+      "word": "这几种刷手机的姿势都不对",
+      "onboard_time": 1701986054,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115818,
@@ -499,14 +715,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 93256,
-      "num": 116897,
-      "word": "这几种刷手机的姿势都不对",
-      "onboard_time": 1701986054,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 91688,
       "num": 166379,
       "word": "吉林出现大面积雾凇",
@@ -552,14 +760,6 @@
       "word": "小金毛叼起绳子求抱抱",
       "onboard_time": 1701962385,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 73258,
-      "num": 73258,
-      "word": "为了吃中餐混进群聊的外国教授",
-      "onboard_time": 1701992071,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -611,6 +811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 38651,
+      "num": 927615,
+      "word": "滚滚江水见证生态转型发展之路",
+      "onboard_time": 1701954770,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34514,
       "num": 31791,
       "word": "白鹿 清丽美人",
@@ -625,14 +833,6 @@
       "onboard_time": 1701954942,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31711,
-      "num": 835969,
-      "word": "滚滚江水见证生态转型发展之路",
-      "onboard_time": 1701954770,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25572,
@@ -676,6 +876,9 @@
     },
     {
       "word": "#习近平将对越南国事访问#"
+    },
+    {
+      "word": "#习近平将对越南进行国事访问#"
     }
   ]
 }
