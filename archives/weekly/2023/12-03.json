@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1702003285015,
+  "endTime": 1702005510416,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3491195,
+      "num": 312260,
+      "word": "阿信 黑暗过去了",
+      "onboard_time": 1702003055,
+      "rank": 30,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 3402371,
       "num": 3402371,
       "word": "阿信忘了话筒在哪只手",
@@ -193,6 +201,14 @@
       "onboard_time": 1701858101,
       "rank": 0,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 3260640,
+      "num": 3260640,
+      "word": "GQ出图了",
+      "onboard_time": 1702003656,
+      "rank": 0,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 3232425,
@@ -433,6 +449,14 @@
       "onboard_time": 1701849216,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2295870,
+      "num": 2295870,
+      "word": "难听",
+      "onboard_time": 1702004254,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 2281877,
@@ -1491,6 +1515,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 995307,
+      "num": 995307,
+      "word": "刘冲 并没有尴尬谢谢",
+      "onboard_time": 1702004676,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 978656,
       "num": 978656,
       "word": "孟美岐 年度最具突破女歌手",
@@ -2035,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 734898,
+      "num": 734898,
+      "word": "黑神话悟空定档",
+      "onboard_time": 1702004019,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 734742,
       "num": 734742,
       "word": "大妈捡到手机用免密支付刷光余额",
@@ -2435,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645232,
+      "num": 645232,
+      "word": "林孝埈人气",
+      "onboard_time": 1702002573,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 645051,
       "num": 645051,
       "word": "30万买编制未果起诉要求退款被驳回",
@@ -2449,6 +2497,14 @@
       "onboard_time": 1701698924,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 643597,
+      "num": 643597,
+      "word": "断崖式衰老女子本人发声",
+      "onboard_time": 1702001314,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638360,
@@ -2825,6 +2881,14 @@
       "onboard_time": 1701679537,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 583065,
+      "num": 305901,
+      "word": "站桩式演唱会",
+      "onboard_time": 1702004915,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 580954,
@@ -3211,14 +3275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 531014,
-      "num": 531014,
-      "word": "林孝埈人气",
-      "onboard_time": 1702002573,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 530063,
       "num": 530063,
       "word": "杭州一生煎店房租从40万涨到120万",
@@ -3297,22 +3353,6 @@
       "onboard_time": 1701821675,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 520894,
-      "num": 298458,
-      "word": "阿信 黑暗过去了",
-      "onboard_time": 1702003055,
-      "rank": 30,
-      "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 520556,
-      "num": 310754,
-      "word": "断崖式衰老女子本人发声",
-      "onboard_time": 1702001314,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 519135,
@@ -3433,6 +3473,14 @@
       "onboard_time": 1701834216,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 509990,
+      "num": 509990,
+      "word": "大张伟演唱会擅改演出内容被罚",
+      "onboard_time": 1702004857,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 509972,
@@ -4227,6 +4275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430855,
+      "num": 430855,
+      "word": "老外分享在中国看病的经历",
+      "onboard_time": 1702002454,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 429983,
       "num": 429983,
       "word": "玲花还是这么飒 曾毅也做了医美",
@@ -4569,6 +4625,14 @@
       "onboard_time": 1701777457,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407929,
+      "num": 407929,
+      "word": "黄大宪被PEN",
+      "onboard_time": 1702002692,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 407664,
@@ -5275,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360766,
+      "num": 360766,
+      "word": "适合跨年做的美甲",
+      "onboard_time": 1702001974,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 360585,
       "num": 176229,
       "word": "一闪一闪亮星星评论区下雪了",
@@ -5379,14 +5451,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 354109,
-      "num": 354109,
-      "word": "适合跨年做的美甲",
-      "onboard_time": 1702001974,
-      "rank": 35,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 353704,
       "num": 353704,
       "word": "周一周一 准时发疯",
@@ -5465,14 +5529,6 @@
       "onboard_time": 1701910178,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 350618,
-      "num": 350618,
-      "word": "黄大宪被PEN",
-      "onboard_time": 1702002692,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 349918,
@@ -5731,6 +5787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333575,
+      "num": 322501,
+      "word": "虞书欣卢昱晓易梦玲合照",
+      "onboard_time": 1702003775,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 333248,
       "num": 293638,
       "word": "哪些是乳腺癌高危人群",
@@ -5819,6 +5883,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 327008,
+      "num": 291404,
+      "word": "GQ 运镜",
+      "onboard_time": 1702004915,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 326557,
       "num": 320508,
       "word": "礼仪小姐回应被成毅请下班",
@@ -5905,6 +5977,14 @@
       "onboard_time": 1701737497,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322563,
+      "num": 322563,
+      "word": "茶百道 剑网3",
+      "onboard_time": 1702004556,
+      "rank": 17,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 322144,
@@ -7787,6 +7867,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 251640,
+      "num": 318679,
+      "word": "崩铁TGA获奖",
+      "onboard_time": 1702004316,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251620,
       "num": 290620,
       "word": "以为是烤地瓜结果是小狗",
@@ -7945,6 +8033,14 @@
       "onboard_time": 1701926492,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 245886,
+      "num": 286285,
+      "word": "老祖宗留下这片海一寸也不能丢",
+      "onboard_time": 1702003895,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 245704,
@@ -8225,14 +8321,6 @@
       "onboard_time": 1701699040,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234761,
-      "num": 234761,
-      "word": "老外分享在中国看病的经历",
-      "onboard_time": 1702002454,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 234420,
@@ -8593,6 +8681,14 @@
       "onboard_time": 1701873944,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 224014,
+      "num": 198356,
+      "word": "GQ红毯女明星赛道",
+      "onboard_time": 1702003834,
+      "rank": 44,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 223833,
@@ -9555,6 +9651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 201676,
+      "num": 201676,
+      "word": "宁远舟护妻",
+      "onboard_time": 1702004676,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201491,
       "num": 201491,
       "word": "暖暖 漂亮的女儿",
@@ -9737,6 +9841,14 @@
       "onboard_time": 1701589831,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197901,
+      "num": 197901,
+      "word": "湖人vs鹈鹕",
+      "onboard_time": 1702005334,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 197720,
@@ -12987,6 +13099,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 109005,
+      "num": 198384,
+      "word": "人民海军双语短片高燃发布",
+      "onboard_time": 1702003536,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 108852,
       "num": 396990,
       "word": "蛋仔派对地图太有文化了",
@@ -13780,7 +13900,7 @@
     },
     {
       "raw_hot": 38651,
-      "num": 927615,
+      "num": 1539208,
       "word": "滚滚江水见证生态转型发展之路",
       "onboard_time": 1701954770,
       "rank": 2,

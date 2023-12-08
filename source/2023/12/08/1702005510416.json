@@ -1,0 +1,410 @@
+{
+  "runTime": 1702005510416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3260640,
+        "num": 3260640,
+        "word": "GQ出图了",
+        "onboard_time": 1702003656,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 2295870,
+        "num": 2295870,
+        "word": "难听",
+        "onboard_time": 1702004254,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19409,
+        "num": 1539208,
+        "word": "滚滚江水见证生态转型发展之路",
+        "onboard_time": 1701954770,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1307114,
+        "num": 1307114,
+        "word": "银杏 活着直到被死神遗忘",
+        "onboard_time": 1701994779,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 995307,
+        "num": 995307,
+        "word": "刘冲 并没有尴尬谢谢",
+        "onboard_time": 1702004676,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 734898,
+        "num": 734898,
+        "word": "黑神话悟空定档",
+        "onboard_time": 1702004019,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 717394,
+        "num": 717394,
+        "word": "中国福彩客服证实2.2亿巨奖系同一人所中",
+        "onboard_time": 1701993696,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645232,
+        "num": 645232,
+        "word": "林孝埈人气",
+        "onboard_time": 1702002573,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643597,
+        "num": 643597,
+        "word": "断崖式衰老女子本人发声",
+        "onboard_time": 1702001314,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583384,
+        "num": 583384,
+        "word": "GQ 坐船时长",
+        "onboard_time": 1701993212,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 509990,
+        "num": 509990,
+        "word": "大张伟演唱会擅改演出内容被罚",
+        "onboard_time": 1702004857,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 430855,
+        "num": 430855,
+        "word": "老外分享在中国看病的经历",
+        "onboard_time": 1702002454,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 498551,
+        "num": 423111,
+        "word": "杨幂杨紫王一博坐一桌",
+        "onboard_time": 1701994298,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414406,
+        "num": 414406,
+        "word": "TGA2023",
+        "onboard_time": 1701997060,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 407929,
+        "num": 407929,
+        "word": "黄大宪被PEN",
+        "onboard_time": 1702002692,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360987,
+        "num": 360987,
+        "word": "毛晓彤鼻子",
+        "onboard_time": 1701952238,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360766,
+        "num": 360766,
+        "word": "适合跨年做的美甲",
+        "onboard_time": 1702001974,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 322563,
+        "num": 322563,
+        "word": "茶百道 剑网3",
+        "onboard_time": 1702004556,
+        "rank": 17,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 333575,
+        "num": 322501,
+        "word": "虞书欣卢昱晓易梦玲合照",
+        "onboard_time": 1702003775,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251640,
+        "num": 318679,
+        "word": "崩铁TGA获奖",
+        "onboard_time": 1702004316,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 3491195,
+        "num": 312260,
+        "word": "阿信 黑暗过去了",
+        "onboard_time": 1702003055,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1258773,
+        "num": 310457,
+        "word": "五月天感谢了77场每一个城市",
+        "onboard_time": 1702000652,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 583065,
+        "num": 305901,
+        "word": "站桩式演唱会",
+        "onboard_time": 1702004915,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 550193,
+        "num": 302299,
+        "word": "五月天直播",
+        "onboard_time": 1701991407,
+        "rank": 23,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 438999,
+        "num": 299702,
+        "word": "律师称若五月天为真唱举报者无需担责",
+        "onboard_time": 1701977235,
+        "rank": 24,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 296038,
+        "num": 296038,
+        "word": "丫丫开始冲刺年底干饭KPI",
+        "onboard_time": 1702000175,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338546,
+        "num": 295788,
+        "word": "五月天巴黎演唱会",
+        "onboard_time": 1701961905,
+        "rank": 26,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 327008,
+        "num": 291404,
+        "word": "GQ 运镜",
+        "onboard_time": 1702004915,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 318949,
+        "num": 290621,
+        "word": "阿信 E6",
+        "onboard_time": 1701991949,
+        "rank": 28,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 245886,
+        "num": 286285,
+        "word": "老祖宗留下这片海一寸也不能丢",
+        "onboard_time": 1702003895,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319394,
+        "num": 284766,
+        "word": "GQ的小船 尴尬",
+        "onboard_time": 1701942460,
+        "rank": 30,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 283461,
+        "num": 283461,
+        "word": "Faker获TGA最佳电竞选手",
+        "onboard_time": 1701997717,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272738,
+        "num": 272738,
+        "word": "JDG获TGA最佳电竞俱乐部",
+        "onboard_time": 1701998856,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253779,
+        "num": 253779,
+        "word": "种地吧直播迟到了",
+        "onboard_time": 1702000536,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243505,
+        "num": 243505,
+        "word": "梅西再来中国",
+        "onboard_time": 1702002334,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242478,
+        "num": 242478,
+        "word": "迪丽热巴特意带了国旗",
+        "onboard_time": 1701965073,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240965,
+        "num": 240965,
+        "word": "相柳玱玹同框",
+        "onboard_time": 1701992612,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238996,
+        "num": 238996,
+        "word": "于适GQ红毯",
+        "onboard_time": 1701993094,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231103,
+        "num": 231103,
+        "word": "涵艺爆料Meiko已落笔",
+        "onboard_time": 1701999996,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219851,
+        "num": 219851,
+        "word": "离职了 和公司最好的朋友合照",
+        "onboard_time": 1701998856,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228867,
+        "num": 216510,
+        "word": "米卡真的在认真答题",
+        "onboard_time": 1701996519,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211349,
+        "num": 211349,
+        "word": "一个碗6万吨重",
+        "onboard_time": 1701999695,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201676,
+        "num": 201676,
+        "word": "宁远舟护妻",
+        "onboard_time": 1702004676,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109005,
+        "num": 198384,
+        "word": "人民海军双语短片高燃发布",
+        "onboard_time": 1702003536,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 224014,
+        "num": 198356,
+        "word": "GQ红毯女明星赛道",
+        "onboard_time": 1702003834,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 197901,
+        "num": 197901,
+        "word": "湖人vs鹈鹕",
+        "onboard_time": 1702005334,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180754,
+        "num": 180754,
+        "word": "考研才是年轻人唯一出路吗",
+        "onboard_time": 1701961004,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208913,
+        "num": 179349,
+        "word": "GQ红毯",
+        "onboard_time": 1701938256,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174917,
+        "num": 174917,
+        "word": "数学教师称中500万中奖概率为1比891万",
+        "onboard_time": 1701998794,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164282,
+        "num": 164282,
+        "word": "张杰 如歌",
+        "onboard_time": 1702002872,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见米歇尔和冯德莱恩#"
+    }
+  }
+}
