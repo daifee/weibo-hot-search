@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702038790046,
+  "endTime": 1702039746700,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -417,6 +417,14 @@
       "onboard_time": 1702015717,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2580560,
+      "num": 2580560,
+      "word": "解清帅已辞职",
+      "onboard_time": 1702037854,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2526928,
@@ -1611,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1197901,
-      "num": 1197901,
-      "word": "解清帅已辞职",
-      "onboard_time": 1702037854,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1196925,
       "num": 1196925,
       "word": "告五人 五月天",
@@ -1721,6 +1721,14 @@
       "onboard_time": 1701936815,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1141000,
+      "num": 1141000,
+      "word": "女子实名举报武汉大学教授嫖娼赌博收回扣",
+      "onboard_time": 1702037315,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1135894,
@@ -2107,14 +2115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 954367,
-      "num": 954367,
-      "word": "女子实名举报武汉大学教授嫖娼赌博收回扣",
-      "onboard_time": 1702037315,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 952023,
       "num": 952023,
       "word": "为什么打呼噜的人不把自己吵醒",
@@ -2308,7 +2308,7 @@
     },
     {
       "raw_hot": 879662,
-      "num": 348344,
+      "num": 424943,
       "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
       "onboard_time": 1702021117,
       "rank": 22,
@@ -3164,7 +3164,7 @@
     },
     {
       "raw_hot": 674813,
-      "num": 312581,
+      "num": 347964,
       "word": "五月天 对联",
       "onboard_time": 1702032997,
       "rank": 22,
@@ -4291,6 +4291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543687,
+      "num": 543687,
+      "word": "新闻女王 第二季",
+      "onboard_time": 1702037854,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 542416,
       "num": 542416,
       "word": "明星GQ盛典机场路透",
@@ -4579,6 +4587,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 519247,
+      "num": 519247,
+      "word": "GQ船上外景",
+      "onboard_time": 1702039296,
+      "rank": 7,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 519135,
       "num": 519135,
       "word": "白银价格飙涨",
@@ -4769,6 +4785,14 @@
       "onboard_time": 1702021778,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 507171,
+      "num": 507171,
+      "word": "小时候偷看老外 如此明显",
+      "onboard_time": 1702034256,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 507122,
@@ -5161,14 +5185,6 @@
       "onboard_time": 1701748052,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 473733,
-      "num": 473733,
-      "word": "小时候偷看老外 如此明显",
-      "onboard_time": 1702034256,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 473610,
@@ -5683,6 +5699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441119,
+      "num": 441119,
+      "word": "王楚钦孙颖莎2比1德国组合",
+      "onboard_time": 1702038756,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441065,
       "num": 441065,
       "word": "VOGUE编辑回怼网友",
@@ -5857,6 +5881,14 @@
       "onboard_time": 1701657093,
       "rank": 30,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 431362,
+      "num": 431362,
+      "word": "莎头 全体起立的一球",
+      "onboard_time": 1702038814,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 431357,
@@ -7411,14 +7443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362314,
-      "num": 362314,
-      "word": "新闻女王 第二季",
-      "onboard_time": 1702037854,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 362234,
       "num": 362234,
       "word": "文物禁止拍照是量子问题",
@@ -7721,6 +7745,14 @@
       "onboard_time": 1701910178,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 350050,
+      "num": 350050,
+      "word": "原神 可恶的旅行者",
+      "onboard_time": 1702029578,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 349918,
@@ -9539,6 +9571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 292815,
+      "num": 292815,
+      "word": "全网都知道你爸妈吵架的秘密了",
+      "onboard_time": 1702037973,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292210,
       "num": 292210,
       "word": "谷爱凌晋级世界杯决赛",
@@ -9673,14 +9713,6 @@
       "onboard_time": 1701918153,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289735,
-      "num": 289735,
-      "word": "原神 可恶的旅行者",
-      "onboard_time": 1702029578,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 289725,
@@ -10289,6 +10321,14 @@
       "onboard_time": 1701574471,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 274323,
+      "num": 274323,
+      "word": "神隐全员敲蛋定档",
+      "onboard_time": 1702038934,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 274277,
@@ -12627,6 +12667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221046,
+      "num": 221046,
+      "word": "天官赐福漫画",
+      "onboard_time": 1702039234,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 220826,
       "num": 189728,
       "word": "春晚 流行语",
@@ -12648,6 +12696,14 @@
       "word": "一念关山 修罗场真正的爽点",
       "onboard_time": 1702011401,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219348,
+      "num": 219348,
+      "word": "神隐",
+      "onboard_time": 1701618334,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -12673,14 +12729,6 @@
       "onboard_time": 1701601593,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 218789,
-      "num": 218789,
-      "word": "全网都知道你爸妈吵架的秘密了",
-      "onboard_time": 1702037973,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 218574,
@@ -13291,6 +13339,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 209833,
+      "num": 209833,
+      "word": "王曼昱3比0单晓娜",
+      "onboard_time": 1702039659,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209711,
       "num": 209711,
       "word": "两个二百五在伍佰体内打起来了",
@@ -13385,6 +13441,14 @@
       "onboard_time": 1701444100,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208130,
+      "num": 208130,
+      "word": "下一代互联网专利中国企业登顶",
+      "onboard_time": 1702038874,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 208038,
@@ -14587,6 +14651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193048,
+      "num": 193048,
+      "word": "狼队首档团综狼来啦",
+      "onboard_time": 1702039416,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192932,
       "num": 192932,
       "word": "三大队 章宗CP",
@@ -14889,14 +14961,6 @@
       "onboard_time": 1701865057,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189737,
-      "num": 177442,
-      "word": "神隐",
-      "onboard_time": 1701618334,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 189727,
@@ -16619,20 +16683,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162919,
+      "num": 425362,
+      "word": "原神4.3版本直播",
+      "onboard_time": 1702036833,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162874,
       "num": 162874,
       "word": "好心态是你最好的风水",
       "onboard_time": 1701737259,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162767,
-      "num": 162767,
-      "word": "王楚钦孙颖莎2比1德国组合",
-      "onboard_time": 1702038756,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 162764,
@@ -17001,6 +17065,14 @@
       "onboard_time": 1701430413,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156841,
+      "num": 156841,
+      "word": "刘宇宁 一滴泪演技",
+      "onboard_time": 1702039717,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 156516,
@@ -18556,7 +18628,7 @@
     },
     {
       "raw_hot": 131317,
-      "num": 218871,
+      "num": 224144,
       "word": "宋代逛街人手一份的招牌饮品",
       "onboard_time": 1702035634,
       "rank": 29,
@@ -19185,14 +19257,6 @@
       "onboard_time": 1701874484,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115262,
-      "num": 367621,
-      "word": "原神4.3版本直播",
-      "onboard_time": 1702036833,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 114913,
@@ -20305,6 +20369,14 @@
       "onboard_time": 1701767919,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53606,
+      "num": 177514,
+      "word": "蛋仔岛直播",
+      "onboard_time": 1702039355,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 52566,
