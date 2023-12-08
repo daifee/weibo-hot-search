@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702055783065,
+  "endTime": 1702056859098,
   "band_list": [
     {
       "raw_hot": 1855251,
@@ -105,6 +105,14 @@
       "onboard_time": 1702039957,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395817,
+      "num": 395817,
+      "word": "外卖小哥送餐途中被风筝线割喉",
+      "onboard_time": 1702054407,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356319,
@@ -219,20 +227,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207990,
+      "num": 108271,
+      "word": "给世界首富妈妈化妆",
+      "onboard_time": 1702055424,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 203031,
       "num": 203031,
       "word": "米哈游的米是小米的米",
       "onboard_time": 1702040015,
       "rank": 26,
       "category": "游戏,数码"
-    },
-    {
-      "raw_hot": 199386,
-      "num": 199386,
-      "word": "外卖小哥送餐途中被风筝线割喉",
-      "onboard_time": 1702054407,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197422,
@@ -283,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158146,
-      "num": 108271,
-      "word": "给世界首富妈妈化妆",
-      "onboard_time": 1702055424,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 156315,
       "num": 156315,
       "word": "林俊杰邀你点歌",
@@ -337,6 +337,14 @@
       "onboard_time": 1702048479,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123724,
+      "num": 88991,
+      "word": "原来王安宇说的恋综是这个意思",
+      "onboard_time": 1702056203,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 122665,

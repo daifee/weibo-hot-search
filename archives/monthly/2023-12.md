@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/09 01:16:23
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/09 01:34:19
 </p>
 </blockquote>
 <p>
@@ -5109,6 +5109,12 @@ JDG官宣Knight离队（热度：405636）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E9%80%81%E9%A4%90%E9%80%94%E4%B8%AD%E8%A2%AB%E9%A3%8E%E7%AD%9D%E7%BA%BF%E5%89%B2%E5%96%89%23" target="weibo">
+外卖小哥送餐途中被风筝线割喉（热度：395817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7%E5%8F%96%E5%90%8D%20%E9%9A%8F%E6%84%8F%23" target="weibo">
 韩剧取名 随意（热度：395708）
 </a>
@@ -6005,12 +6011,6 @@ A股炒出麻将牌（热度：353386）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BF%97%E6%9C%8B%E5%91%98%E5%B7%A5%20%E4%BC%9A%E4%B8%BA%E6%9D%83%E7%9B%8A%E6%8D%8D%E5%8D%AB%E5%88%B0%E5%BA%95%23" target="weibo">
 陈志朋员工 会为权益捍卫到底（热度：345965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%20%E7%A8%B3%E7%A8%B3%E7%9A%84%E5%B9%B8%E7%A6%8F%23" target="weibo">
-莎头 稳稳的幸福（热度：345688）
 </a>
 </li>
 
