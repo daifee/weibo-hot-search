@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702073826470,
+  "endTime": 1702074837699,
   "band_list": [
     {
       "raw_hot": 1855251,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119103,
+      "num": 49052,
+      "word": "女子银行办业务柜员闭目葛优瘫",
+      "onboard_time": 1702069153,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111843,
       "num": 111843,
       "word": "F6",
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93238,
+      "num": 93238,
+      "word": "苗苗钟楚曦六年后再跳绒花",
+      "onboard_time": 1702066515,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93133,
       "num": 93133,
       "word": "汤唯否认离婚",
@@ -427,14 +443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 84127,
-      "num": 38490,
-      "word": "女子银行办业务柜员闭目葛优瘫",
-      "onboard_time": 1702069153,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83390,
       "num": 104432,
       "word": "王曼昱老婆们请看",
@@ -451,11 +459,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71248,
-      "num": 71248,
-      "word": "苗苗钟楚曦六年后再跳绒花",
-      "onboard_time": 1702066515,
-      "rank": 4,
+      "raw_hot": 79119,
+      "num": 48229,
+      "word": "辛芷蕾左脚油门右脚刹车",
+      "onboard_time": 1702068374,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -467,16 +475,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54916,
-      "num": 38276,
-      "word": "辛芷蕾左脚油门右脚刹车",
-      "onboard_time": 1702068374,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 47565,
-      "num": 37170,
+      "raw_hot": 54012,
+      "num": 46436,
       "word": "小李琳经超 上对花轿嫁对郎",
       "onboard_time": 1702069694,
       "rank": 33,
@@ -491,20 +491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39626,
+      "num": 39626,
+      "word": "蒙古獒零下20度睡雪地看家护院",
+      "onboard_time": 1702071854,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32654,
       "num": 38590,
       "word": "新闻女王庆功宴",
       "onboard_time": 1702046140,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29079,
-      "num": 29079,
-      "word": "蒙古獒零下20度睡雪地看家护院",
-      "onboard_time": 1702071854,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27907,
@@ -523,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 26801,
+      "num": 26801,
+      "word": "哥哥称要减肥成为像解清帅一样的型男",
+      "onboard_time": 1702074436,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23743,
       "num": 22518,
       "word": "外网网友爱晒的金毛型老公",
@@ -531,28 +539,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18395,
-      "num": 20603,
-      "word": "福建提醒这些咖啡检出致癌物",
-      "onboard_time": 1702066934,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18328,
-      "num": 20596,
+      "raw_hot": 23191,
+      "num": 23191,
       "word": "王鹤棣晒时宴库存",
       "onboard_time": 1702072274,
       "rank": 44,
       "category": "剧集"
     },
     {
-      "raw_hot": 17261,
-      "num": 20591,
+      "raw_hot": 22622,
+      "num": 22622,
       "word": "丙烯酰胺是2A类致癌物",
       "onboard_time": 1702073175,
       "rank": 46,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 20198,
+      "num": 20603,
+      "word": "福建提醒这些咖啡检出致癌物",
+      "onboard_time": 1702066934,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13818,
