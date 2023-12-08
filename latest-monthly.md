@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/08 17:18:02
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/08 17:34:38
 </p>
 </blockquote>
 <p>
@@ -275,6 +275,12 @@ GQ好多人鱼公主（热度：2902095）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E6%B5%B7%E5%AF%85%20%E5%A4%9C%E5%BA%97%E5%B8%B8%E5%AE%A2%23" target="weibo">
 丁海寅 夜店常客（热度：2711641）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E6%98%9F%E5%B7%B4%E5%85%8B%20%E8%87%B4%E7%99%8C%E7%89%A9%23" target="weibo">
+瑞幸星巴克 致癌物（热度：2699046）
 </a>
 </li>
 
@@ -579,6 +585,12 @@ GQ连夜排查水道（热度：2437987）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE%23" target="weibo">
+新闻女王 烂尾（热度：1843209）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GQ%20%E4%BD%A0%E5%A5%BD%E7%99%AB%E5%95%8A%23" target="weibo">
 GQ 你好癫啊（热度：1837301）
 </a>
@@ -719,12 +731,6 @@ BLACKPINK全员与YG完成续约（热度：1668669）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E8%AE%A4%E9%A2%86F6%23" target="weibo">
 阿信认领F6（热度：1664133）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%83%82%E5%B0%BE%23" target="weibo">
-新闻女王 烂尾（热度：1654221）
 </a>
 </li>
 
@@ -1061,12 +1067,6 @@ QQ音乐会员涨价（热度：1411160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GQ%E7%96%AF%E7%8B%82%E6%98%9F%E6%9C%9F%E5%9B%9B%23" target="weibo">
 GQ疯狂星期四（热度：1324981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E6%98%9F%E5%B7%B4%E5%85%8B%20%E8%87%B4%E7%99%8C%E7%89%A9%23" target="weibo">
-瑞幸星巴克 致癌物（热度：1324917）
 </a>
 </li>
 
@@ -2535,6 +2535,12 @@ GQ晚宴内场路透（热度：656710）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D12kg%E5%92%96%E5%95%A1%E6%89%8D%E8%83%BD%E8%BE%BE%E5%88%B0%E8%87%B4%E7%99%8C%E9%87%8F%23" target="weibo">
+每天喝12kg咖啡才能达到致癌量（热度：638451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GQ%E4%B8%BB%E9%A2%98%20%E5%8F%91%E7%96%AF%23" target="weibo">
 GQ主题 发疯（热度：638360）
 </a>
@@ -2757,6 +2763,12 @@ TES官宣Rookie离队（热度：603023）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23" target="weibo">
+刘宇宁再次回应被AI换脸（热度：602866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B6%B5%E8%89%BA%E7%88%86%E6%96%99Meiko%E5%8A%A0%E5%85%A5TES%23" target="weibo">
 涵艺爆料Meiko加入TES（热度：601422）
 </a>
@@ -2777,12 +2789,6 @@ GQ座位（热度：601129）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%A2%AB%E7%B4%A2%E8%B5%94%E8%B6%8570%E4%BA%BF%23" target="weibo">
 C罗被索赔超70亿（热度：598967）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%86%8D%E6%AC%A1%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E6%8D%A2%E8%84%B8%23" target="weibo">
-刘宇宁再次回应被AI换脸（热度：597138）
 </a>
 </li>
 
@@ -3915,6 +3921,12 @@ JDG获TGA最佳电竞俱乐部（热度：465267）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%9D%A2%E9%83%A8%E5%B9%B3%E6%95%B4%E5%BA%A6%23" target="weibo">
+杨超越面部平整度（热度：461972）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%20%E5%88%9D%E9%9B%AAcha%23" target="weibo">
 张艺兴 初雪cha（热度：461190）
 </a>
@@ -4175,6 +4187,12 @@ ive公主妆造（热度：451756）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E7%BC%96%E8%BE%91%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B%23" target="weibo">
 VOGUE编辑回怼网友（热度：441065）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E5%8D%9A%20%E4%B8%8D%E5%9C%A8%23" target="weibo">
+赵一博 不在（热度：440697）
 </a>
 </li>
 
@@ -4785,12 +4803,6 @@ JDG官宣Knight离队（热度：405636）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E9%9D%A2%E9%83%A8%E5%B9%B3%E6%95%B4%E5%BA%A6%23" target="weibo">
-杨超越面部平整度（热度：401160）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%20%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%86%85%E5%BF%83%E5%BE%88%E5%AE%BD%E7%9A%84%E4%BA%BA%23" target="weibo">
 秦岚 我是一个内心很宽的人（热度：400748）
 </a>
@@ -5157,12 +5169,6 @@ Uzi要回来了吗（热度：382661）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D12kg%E5%92%96%E5%95%A1%E6%89%8D%E8%83%BD%E8%BE%BE%E5%88%B0%E8%87%B4%E7%99%8C%E9%87%8F%23" target="weibo">
-每天喝12kg咖啡才能达到致癌量（热度：379933）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%2012%E6%9C%88%E7%9A%84%E5%B0%8F%E5%93%81%23" target="weibo">
 周杰伦新歌 12月的小品（热度：379736）
 </a>
@@ -5249,12 +5255,6 @@ MMA红毯（热度：379289）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E9%80%A0%E5%9E%8B%23" target="weibo">
 李兰迪造型（热度：374626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E5%8D%9A%20%E4%B8%8D%E5%9C%A8%23" target="weibo">
-赵一博 不在（热度：374291）
 </a>
 </li>
 
@@ -5805,6 +5805,12 @@ A股炒出麻将牌（热度：353386）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%20%E5%A5%B3%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%9B%BD%23" target="weibo">
+关晓彤 女霸总回国（热度：343105）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%B7%B3%E8%88%9E%E4%BA%89%E8%AE%AE%23" target="weibo">
 人民网评海底捞跳舞争议（热度：342819）
 </a>
@@ -6005,12 +6011,6 @@ S9冠军FPX全员离队（热度：337637）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%9F%93HIV%E7%97%85%E6%AF%92%E5%B0%B1%E6%98%AF%E5%BE%97%E4%BA%86%E8%89%BE%E6%BB%8B%E7%97%85%E5%90%97%23" target="weibo">
 感染HIV病毒就是得了艾滋病吗（热度：331601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BB%E5%AD%90%E6%88%90%E5%8A%9F%E5%AF%8C%E8%B1%AA%E8%BE%9F%E8%B0%A3%E8%B5%84%E4%BA%A7%E4%B8%8A%E4%BA%BF%23" target="weibo">
-寻子成功富豪辟谣资产上亿（热度：331357）
 </a>
 </li>
 

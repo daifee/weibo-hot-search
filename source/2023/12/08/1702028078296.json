@@ -1,0 +1,410 @@
+{
+  "runTime": 1702028078296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2699046,
+        "num": 2699046,
+        "word": "瑞幸星巴克 致癌物",
+        "onboard_time": 1702025558,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1843209,
+        "num": 1843209,
+        "word": "新闻女王 烂尾",
+        "onboard_time": 1702024233,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25532,
+        "num": 1141496,
+        "word": "探索多样化绿色转型路径",
+        "onboard_time": 1702026101,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935818,
+        "num": 935818,
+        "word": "迪丽热巴一年22套高定",
+        "onboard_time": 1702025679,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 911650,
+        "num": 911650,
+        "word": "新闻女王结局 黄宗泽",
+        "onboard_time": 1702021835,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638451,
+        "num": 638451,
+        "word": "每天喝12kg咖啡才能达到致癌量",
+        "onboard_time": 1702026278,
+        "rank": 5,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 602866,
+        "num": 602866,
+        "word": "刘宇宁再次回应被AI换脸",
+        "onboard_time": 1702022857,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567150,
+        "num": 567150,
+        "word": "女孩租房2年退房时被房东奖励500元",
+        "onboard_time": 1702021958,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525412,
+        "num": 525412,
+        "word": "张朝阳称一辈子租房就有闲钱养孩子",
+        "onboard_time": 1702023399,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461972,
+        "num": 504359,
+        "word": "杨超越面部平整度",
+        "onboard_time": 1702025980,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1044300,
+        "num": 502796,
+        "word": "白鹿删博了",
+        "onboard_time": 1702015717,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 955869,
+        "num": 502148,
+        "word": "姨妈血不是废血",
+        "onboard_time": 1702016078,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 497381,
+        "num": 497381,
+        "word": "迪丽热巴 霞光神女",
+        "onboard_time": 1702024233,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 489286,
+        "num": 489286,
+        "word": "赛琳娜退网",
+        "onboard_time": 1702015479,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401719,
+        "num": 401719,
+        "word": "59款咖啡全部检查出致癌物",
+        "onboard_time": 1702022378,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440697,
+        "num": 391205,
+        "word": "赵一博 不在",
+        "onboard_time": 1702026458,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379014,
+        "num": 379014,
+        "word": "咳嗽最好不要吃这几种食物",
+        "onboard_time": 1702025079,
+        "rank": 16,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 377240,
+        "num": 377240,
+        "word": "李一桐 陈都灵",
+        "onboard_time": 1702021778,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 349863,
+        "num": 349863,
+        "word": "私下查询公民个人信息涉嫌犯罪",
+        "onboard_time": 1702017036,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303127,
+        "num": 349761,
+        "word": "砂糖橘发出一年一度变黄警告",
+        "onboard_time": 1702026879,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1111017,
+        "num": 349081,
+        "word": "举报五月天博主发视频与阿信pk唱功",
+        "onboard_time": 1702022016,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 626372,
+        "num": 348344,
+        "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
+        "onboard_time": 1702021117,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376317,
+        "num": 347930,
+        "word": "孟子义理想型标准",
+        "onboard_time": 1702015717,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291627,
+        "num": 347514,
+        "word": "大胖媳妇 自信的人能有多快乐",
+        "onboard_time": 1702024476,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 347137,
+        "num": 347137,
+        "word": "医生说ICU很贵不要因为吃剩菜来",
+        "onboard_time": 1702008219,
+        "rank": 24,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 343105,
+        "num": 343105,
+        "word": "关晓彤 女霸总回国",
+        "onboard_time": 1702026637,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327241,
+        "num": 327241,
+        "word": "阿信 黑暗过去了",
+        "onboard_time": 1702003055,
+        "rank": 26,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 311633,
+        "num": 311633,
+        "word": "种地吧 圣诞树",
+        "onboard_time": 1702024599,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292897,
+        "num": 292897,
+        "word": "爸爸患癌她选择孝而不顺",
+        "onboard_time": 1702026761,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189437,
+        "num": 291862,
+        "word": "2024年经济工作",
+        "onboard_time": 1702024359,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291798,
+        "num": 291798,
+        "word": "神隐 定档",
+        "onboard_time": 1702014034,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291140,
+        "num": 291140,
+        "word": "阿信认领F6",
+        "onboard_time": 1702014217,
+        "rank": 31,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 282097,
+        "num": 282097,
+        "word": "田曦薇走路炸毛",
+        "onboard_time": 1702019076,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245562,
+        "num": 245562,
+        "word": "广东一村发征地补偿每人每月领0.5元",
+        "onboard_time": 1702024233,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 215745,
+        "num": 215745,
+        "word": "男子600元买本刮刮乐第3张刮出100万",
+        "onboard_time": 1702027657,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261531,
+        "num": 215603,
+        "word": "香港偶遇韩素希",
+        "onboard_time": 1702027420,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253278,
+        "num": 215541,
+        "word": "难听",
+        "onboard_time": 1702004254,
+        "rank": 36,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 214526,
+        "num": 214526,
+        "word": "玲娜贝儿 梭子蟹",
+        "onboard_time": 1702022500,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 203884,
+        "num": 203884,
+        "word": "黑神话 天命人",
+        "onboard_time": 1702027897,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201900,
+        "num": 201900,
+        "word": "既生泪 何生博",
+        "onboard_time": 1702017276,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247800,
+        "num": 193985,
+        "word": "小鬼王子异朱星杰朱正廷 合体",
+        "onboard_time": 1702027720,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220826,
+        "num": 189728,
+        "word": "春晚 流行语",
+        "onboard_time": 1702027360,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218127,
+        "num": 188880,
+        "word": "干杯",
+        "onboard_time": 1702013856,
+        "rank": 42,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 183187,
+        "num": 183187,
+        "word": "站桩式演唱会",
+        "onboard_time": 1702004915,
+        "rank": 43,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 182388,
+        "num": 182388,
+        "word": "丙烯酰胺",
+        "onboard_time": 1702027897,
+        "rank": 44,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 181307,
+        "num": 181307,
+        "word": "十个勤天直播",
+        "onboard_time": 1702023637,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160058,
+        "num": 160058,
+        "word": "这下不怕面条煮多了",
+        "onboard_time": 1702027236,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148354,
+        "num": 148354,
+        "word": "以色列内阁部长儿子阵亡",
+        "onboard_time": 1702015600,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147327,
+        "num": 147327,
+        "word": "年轻人为省钱把自己活成外卖骑手",
+        "onboard_time": 1702024300,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139445,
+        "num": 139445,
+        "word": "刮刮乐",
+        "onboard_time": 1702028015,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对越南国事访问#"
+    }
+  }
+}
