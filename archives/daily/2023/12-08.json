@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1702006461370,
+  "endTime": 1702009292177,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3491195,
-      "num": 312260,
+      "num": 344833,
       "word": "阿信 黑暗过去了",
       "onboard_time": 1702003055,
       "rank": 30,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1702235,
-      "num": 995307,
+      "num": 1304668,
       "word": "刘冲 并没有尴尬谢谢",
       "onboard_time": 1702004676,
       "rank": 4,
@@ -75,6 +75,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1544095,
+      "num": 332838,
+      "word": "阿信嗓子",
+      "onboard_time": 1702007134,
+      "rank": 25,
+      "category": "演出,时尚"
+    },
+    {
       "raw_hot": 1483695,
       "num": 370576,
       "word": "阿信 E6",
@@ -89,6 +97,14 @@
       "onboard_time": 1701942460,
       "rank": 1,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 1375235,
+      "num": 1375235,
+      "word": "迪丽热巴逼秦岚看自己换衣服",
+      "onboard_time": 1702007375,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1295374,
@@ -107,11 +123,27 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1219398,
+      "num": 1219398,
+      "word": "大张伟演唱会擅改演出内容被罚",
+      "onboard_time": 1702004857,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1062647,
       "num": 1062647,
       "word": "连云港地震",
       "onboard_time": 1701962025,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1059241,
+      "num": 485669,
+      "word": "医生说ICU很贵不要因为吃剩菜来",
+      "onboard_time": 1702008219,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -147,14 +179,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 917428,
-      "num": 917428,
-      "word": "大张伟演唱会擅改演出内容被罚",
-      "onboard_time": 1702004857,
-      "rank": 10,
-      "category": "演出"
-    },
-    {
       "raw_hot": 911426,
       "num": 835079,
       "word": "杨幂杨紫王一博坐一桌",
@@ -171,8 +195,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 801086,
+      "num": 541013,
+      "word": "博德之门3获年度最佳游戏",
+      "onboard_time": 1702008821,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 797912,
-      "num": 305901,
+      "num": 335108,
       "word": "站桩式演唱会",
       "onboard_time": 1702004915,
       "rank": 22,
@@ -211,6 +243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 684088,
+      "num": 540721,
+      "word": "电力局已经开始用激光炮修剪树枝了",
+      "onboard_time": 1702006474,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670103,
       "num": 670103,
       "word": "北京公布元旦放假安排",
@@ -243,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 629498,
+      "num": 629498,
+      "word": "詹姆斯投疯了",
+      "onboard_time": 1702006895,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 627304,
       "num": 627304,
       "word": "种地吧直播迟到了",
@@ -257,6 +305,22 @@
       "onboard_time": 1701965073,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 541610,
+      "num": 541610,
+      "word": "TGA2023",
+      "onboard_time": 1701997060,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 537586,
+      "num": 537586,
+      "word": "原神小米联名",
+      "onboard_time": 1702007254,
+      "rank": 12,
+      "category": "游戏,数码"
     },
     {
       "raw_hot": 517896,
@@ -339,12 +403,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 440435,
-      "num": 440435,
-      "word": "TGA2023",
-      "onboard_time": 1701997060,
-      "rank": 12,
-      "category": "电竞"
+      "raw_hot": 451198,
+      "num": 451198,
+      "word": "张凌赫扶白鹿上台",
+      "onboard_time": 1702008154,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 432823,
+      "num": 348921,
+      "word": "GQ 运镜",
+      "onboard_time": 1702004915,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 427673,
@@ -393,6 +465,14 @@
       "onboard_time": 1701998856,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 414921,
+      "num": 322579,
+      "word": "赛博朋克2077 最佳持续运营",
+      "onboard_time": 1702007375,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 407929,
@@ -475,6 +555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 341315,
+      "num": 316564,
+      "word": "短道500米中国队全员晋级",
+      "onboard_time": 1702007796,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337492,
       "num": 337492,
       "word": "奥司他韦和玛巴洛沙韦的区别",
@@ -507,19 +595,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 330591,
+      "num": 309315,
+      "word": "龚俊 我唱歌不好听吗",
+      "onboard_time": 1702007676,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328567,
       "num": 166200,
       "word": "好怕谢娜的船翻了",
       "onboard_time": 1701944023,
       "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 327008,
-      "num": 291404,
-      "word": "GQ 运镜",
-      "onboard_time": 1702004915,
-      "rank": 27,
       "category": "作品衍生,时尚"
     },
     {
@@ -579,6 +667,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 308059,
+      "num": 308059,
+      "word": "林心如陆毅重聚 爷青回",
+      "onboard_time": 1702006354,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305881,
       "num": 305881,
       "word": "梅西再来中国",
@@ -617,6 +713,14 @@
       "onboard_time": 1701996461,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 290696,
+      "num": 290696,
+      "word": "张朝阳建议年轻人要早起",
+      "onboard_time": 1702007734,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 283830,
@@ -659,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266917,
+      "num": 244930,
+      "word": "于适GQ红毯",
+      "onboard_time": 1701993094,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 261758,
       "num": 261758,
       "word": "何猷君 对爱人的尊重",
@@ -683,16 +795,16 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 248470,
-      "num": 244930,
-      "word": "于适GQ红毯",
-      "onboard_time": 1701993094,
-      "rank": 39,
+      "raw_hot": 247135,
+      "num": 196540,
+      "word": "虞书欣 昨天尝试的黑眼圈妆",
+      "onboard_time": 1702009177,
+      "rank": 47,
       "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 245886,
-      "num": 288647,
+      "num": 291617,
       "word": "老祖宗留下这片海一寸也不能丢",
       "onboard_time": 1702003895,
       "rank": 29,
@@ -713,6 +825,14 @@
       "onboard_time": 1701965254,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233880,
+      "num": 233880,
+      "word": "星穹铁道奖项大满贯",
+      "onboard_time": 1702006715,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 231981,
@@ -771,6 +891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206571,
+      "num": 206571,
+      "word": "鹦鹉 这是断头饭啊",
+      "onboard_time": 1702008276,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205957,
       "num": 205957,
       "word": "店主称2.2亿中奖者是拿包来装彩票的",
@@ -808,6 +936,22 @@
       "word": "张杰 如歌",
       "onboard_time": 1702002872,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193978,
+      "num": 193978,
+      "word": "许光汉用泡面织围巾",
+      "onboard_time": 1702007073,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193300,
+      "num": 193300,
+      "word": "邓紫棋广州演唱会",
+      "onboard_time": 1702009236,
+      "rank": 49,
       "category": "演出"
     },
     {
@@ -889,14 +1033,6 @@
       "onboard_time": 1701993997,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 164109,
-      "num": 164109,
-      "word": "林心如陆毅重聚 爷青回",
-      "onboard_time": 1702006354,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 164070,
@@ -1177,6 +1313,14 @@
       "onboard_time": 1701975796,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24166,
+      "num": 1317849,
+      "word": "2023致敬不同战场的英雄",
+      "onboard_time": 1702009177,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22755,
