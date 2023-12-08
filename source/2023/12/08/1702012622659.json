@@ -1,0 +1,410 @@
+{
+  "runTime": 1702012622659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460664,
+        "num": 1460664,
+        "word": "GQ出图了",
+        "onboard_time": 1702003656,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1420057,
+        "num": 1420057,
+        "word": "迪丽热巴逼秦岚看自己换衣服",
+        "onboard_time": 1702007375,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188621,
+        "num": 1146721,
+        "word": "港珠澳大桥旅游12月15日开通",
+        "onboard_time": 1702009421,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903870,
+        "num": 903870,
+        "word": "刘冲 并没有尴尬谢谢",
+        "onboard_time": 1702004676,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 610590,
+        "num": 610590,
+        "word": "锁匠协助警方开锁被炸身亡未获赔偿",
+        "onboard_time": 1702009359,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1447457,
+        "num": 600287,
+        "word": "炎亚纶 谢谢证明清白",
+        "onboard_time": 1702009298,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535619,
+        "num": 535619,
+        "word": "刘诗诗端水式晒自拍",
+        "onboard_time": 1702011222,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490240,
+        "num": 490240,
+        "word": "中国福彩客服证实2.2亿巨奖系同一人所中",
+        "onboard_time": 1701993696,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483758,
+        "num": 483758,
+        "word": "支付宝宣布启动鸿蒙原生应用开发",
+        "onboard_time": 1702010440,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 452041,
+        "num": 452041,
+        "word": "断崖式衰老女子本人发声",
+        "onboard_time": 1702001314,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230903,
+        "num": 451277,
+        "word": "大张伟演唱会擅改演出内容被罚",
+        "onboard_time": 1702004857,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 415381,
+        "num": 415381,
+        "word": "金博洋夺冠",
+        "onboard_time": 1702010139,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397233,
+        "num": 397233,
+        "word": "在内娱当男团别太巴适了",
+        "onboard_time": 1702011878,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382864,
+        "num": 382864,
+        "word": "张凌赫扶白鹿上台",
+        "onboard_time": 1702008154,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25135,
+        "num": 368857,
+        "word": "在郑州激活历史文脉",
+        "onboard_time": 1702011640,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365770,
+        "num": 365770,
+        "word": "迪丽热巴费加罗闭年刊",
+        "onboard_time": 1702010680,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 374776,
+        "num": 365316,
+        "word": "GQ 坐船时长",
+        "onboard_time": 1701993212,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 360093,
+        "num": 360093,
+        "word": "银杏 活着直到被死神遗忘",
+        "onboard_time": 1701994779,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 351380,
+        "num": 351380,
+        "word": "詹姆斯投疯了",
+        "onboard_time": 1702006895,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343585,
+        "num": 343585,
+        "word": "原神小米联名",
+        "onboard_time": 1702007254,
+        "rank": 19,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 2329194,
+        "num": 341585,
+        "word": "阿信 黑暗过去了",
+        "onboard_time": 1702003055,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1832836,
+        "num": 341455,
+        "word": "医生说ICU很贵不要因为吃剩菜来",
+        "onboard_time": 1702008219,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501100,
+        "num": 334644,
+        "word": "难听",
+        "onboard_time": 1702004254,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327804,
+        "num": 327804,
+        "word": "GQ 运镜",
+        "onboard_time": 1702004915,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 322780,
+        "num": 322780,
+        "word": "电力局已经开始用激光炮修剪树枝了",
+        "onboard_time": 1702006474,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481834,
+        "num": 322481,
+        "word": "阿信嗓子",
+        "onboard_time": 1702007134,
+        "rank": 25,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 514804,
+        "num": 320720,
+        "word": "站桩式演唱会",
+        "onboard_time": 1702004915,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387718,
+        "num": 318715,
+        "word": "五月天直播",
+        "onboard_time": 1701991407,
+        "rank": 27,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 314448,
+        "num": 314448,
+        "word": "王国之泪 最佳动作冒险游戏",
+        "onboard_time": 1702011582,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275552,
+        "num": 275552,
+        "word": "张朝阳建议年轻人要早起",
+        "onboard_time": 1702007734,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 329054,
+        "num": 273846,
+        "word": "杨幂杨紫王一博坐一桌",
+        "onboard_time": 1701994298,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237905,
+        "num": 237905,
+        "word": "博德之门3获年度最佳游戏",
+        "onboard_time": 1702008821,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234090,
+        "num": 234090,
+        "word": "林孝埈人气",
+        "onboard_time": 1702002573,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306548,
+        "num": 229989,
+        "word": "虞书欣 昨天尝试的黑眼圈妆",
+        "onboard_time": 1702009177,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224273,
+        "num": 224273,
+        "word": "鹦鹉 这是断头饭啊",
+        "onboard_time": 1702008276,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279095,
+        "num": 216187,
+        "word": "五月天感谢了77场每一个城市",
+        "onboard_time": 1702000652,
+        "rank": 35,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 279659,
+        "num": 208251,
+        "word": "白鹿抹唇妆",
+        "onboard_time": 1702011819,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199282,
+        "num": 199282,
+        "word": "老外分享在中国看病的经历",
+        "onboard_time": 1702002454,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192237,
+        "num": 192237,
+        "word": "未定事件簿 打卡",
+        "onboard_time": 1702012475,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236414,
+        "num": 191388,
+        "word": "于适GQ红毯",
+        "onboard_time": 1701993094,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219356,
+        "num": 190086,
+        "word": "一念关山 修罗场真正的爽点",
+        "onboard_time": 1702011401,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206015,
+        "num": 189068,
+        "word": "相柳玱玹同框",
+        "onboard_time": 1701992612,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229409,
+        "num": 188020,
+        "word": "米卡真的在认真答题",
+        "onboard_time": 1701996519,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187405,
+        "num": 187405,
+        "word": "TGA2023",
+        "onboard_time": 1701997060,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202325,
+        "num": 183873,
+        "word": "五月天巴黎演唱会",
+        "onboard_time": 1701961905,
+        "rank": 44,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 189686,
+        "num": 179423,
+        "word": "王安宇 羡慕秦岚的性格",
+        "onboard_time": 1702012597,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172975,
+        "num": 172975,
+        "word": "任子威 重返国际赛场",
+        "onboard_time": 1702010440,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161965,
+        "num": 161965,
+        "word": "JDG获TGA最佳电竞俱乐部",
+        "onboard_time": 1701998856,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155530,
+        "num": 155530,
+        "word": "Faker获TGA最佳电竞选手",
+        "onboard_time": 1701997717,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153909,
+        "num": 153909,
+        "word": "赛博朋克2077 最佳持续运营",
+        "onboard_time": 1702007375,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将对越南国事访问#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1702010164201,
+  "endTime": 1702012622659,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -51,6 +51,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1832836,
+      "num": 485669,
+      "word": "医生说ICU很贵不要因为吃剩菜来",
+      "onboard_time": 1702008219,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1702235,
       "num": 1304668,
       "word": "刘冲 并没有尴尬谢谢",
@@ -65,14 +73,6 @@
       "onboard_time": 1701994779,
       "rank": 5,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1576640,
-      "num": 485669,
-      "word": "医生说ICU很贵不要因为吃剩菜来",
-      "onboard_time": 1702008219,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1548990,
@@ -107,6 +107,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1447457,
+      "num": 862182,
+      "word": "炎亚纶 谢谢证明清白",
+      "onboard_time": 1702009298,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1439318,
       "num": 1439318,
       "word": "GQ的小船 尴尬",
@@ -115,8 +123,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 1381598,
-      "num": 1381598,
+      "raw_hot": 1420057,
+      "num": 1420057,
       "word": "迪丽热巴逼秦岚看自己换衣服",
       "onboard_time": 1702007375,
       "rank": 1,
@@ -185,14 +193,6 @@
       "onboard_time": 1701994298,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 862182,
-      "num": 862182,
-      "word": "炎亚纶 谢谢证明清白",
-      "onboard_time": 1702009298,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 817369,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610590,
+      "num": 610590,
+      "word": "锁匠协助警方开锁被炸身亡未获赔偿",
+      "onboard_time": 1702009359,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541610,
       "num": 541610,
       "word": "TGA2023",
@@ -329,6 +337,14 @@
       "onboard_time": 1702007254,
       "rank": 12,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 535619,
+      "num": 535619,
+      "word": "刘诗诗端水式晒自拍",
+      "onboard_time": 1702011222,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 532302,
@@ -353,6 +369,14 @@
       "onboard_time": 1701948819,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 483758,
+      "num": 483758,
+      "word": "支付宝宣布启动鸿蒙原生应用开发",
+      "onboard_time": 1702010440,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 483576,
@@ -475,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 415381,
+      "num": 415381,
+      "word": "金博洋夺冠",
+      "onboard_time": 1702010139,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414921,
       "num": 322579,
       "word": "赛博朋克2077 最佳持续运营",
@@ -505,6 +537,14 @@
       "onboard_time": 1701961369,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 397233,
+      "num": 397233,
+      "word": "在内娱当男团别太巴适了",
+      "onboard_time": 1702011878,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 395079,
@@ -544,6 +584,14 @@
       "word": "娜扎戚薇周也没去GQ的原因",
       "onboard_time": 1701961905,
       "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 365770,
+      "num": 365770,
+      "word": "迪丽热巴费加罗闭年刊",
+      "onboard_time": 1702010680,
+      "rank": 15,
       "category": "作品衍生,时尚"
     },
     {
@@ -651,12 +699,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 314981,
-      "num": 314981,
-      "word": "锁匠协助警方开锁被炸身亡未获赔偿",
-      "onboard_time": 1702009359,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 314448,
+      "num": 314448,
+      "word": "王国之泪 最佳动作冒险游戏",
+      "onboard_time": 1702011582,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 314354,
@@ -753,6 +801,14 @@
       "onboard_time": 1701992612,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279659,
+      "num": 208251,
+      "word": "白鹿抹唇妆",
+      "onboard_time": 1702011819,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 279051,
@@ -899,6 +955,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 219356,
+      "num": 190086,
+      "word": "一念关山 修罗场真正的爽点",
+      "onboard_time": 1702011401,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218105,
       "num": 218105,
       "word": "邓紫棋广州演唱会",
@@ -979,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192237,
+      "num": 192237,
+      "word": "未定事件簿 打卡",
+      "onboard_time": 1702012475,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190091,
       "num": 166950,
       "word": "原来慈禧太后的寝宫那么小",
@@ -987,12 +1059,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188087,
-      "num": 188087,
-      "word": "金博洋夺冠",
-      "onboard_time": 1702010139,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 189686,
+      "num": 179423,
+      "word": "王安宇 羡慕秦岚的性格",
+      "onboard_time": 1702012597,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188621,
+      "num": 1171092,
+      "word": "港珠澳大桥旅游12月15日开通",
+      "onboard_time": 1702009421,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185491,
@@ -1025,6 +1105,14 @@
       "onboard_time": 1702006294,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172975,
+      "num": 172975,
+      "word": "任子威 重返国际赛场",
+      "onboard_time": 1702010440,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 170727,
@@ -1259,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 77500,
-      "num": 1171092,
-      "word": "港珠澳大桥旅游12月15日开通",
-      "onboard_time": 1702009421,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74753,
       "num": 165799,
       "word": "小金毛叼起绳子求抱抱",
@@ -1353,6 +1433,14 @@
       "onboard_time": 1701975796,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25135,
+      "num": 368857,
+      "word": "在郑州激活历史文脉",
+      "onboard_time": 1702011640,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24166,
