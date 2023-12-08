@@ -1,0 +1,410 @@
+{
+  "runTime": 1702020839565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1793208,
+        "num": 1793208,
+        "word": "白鹿删博了",
+        "onboard_time": 1702015717,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1329182,
+        "num": 1329182,
+        "word": "私下查询公民个人信息涉嫌犯罪",
+        "onboard_time": 1702017036,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132675,
+        "num": 1255619,
+        "word": "港珠澳大桥旅游12月15日开通",
+        "onboard_time": 1702009421,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1228293,
+        "num": 1228293,
+        "word": "赛琳娜退网",
+        "onboard_time": 1702015479,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1015069,
+        "num": 1015069,
+        "word": "既生泪 何生博",
+        "onboard_time": 1702017276,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 815559,
+        "num": 815559,
+        "word": "孟子义理想型标准",
+        "onboard_time": 1702015717,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617482,
+        "num": 617482,
+        "word": "迪丽热巴逼秦岚看自己换衣服",
+        "onboard_time": 1702007375,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555894,
+        "num": 555894,
+        "word": "以色列内阁部长儿子阵亡",
+        "onboard_time": 1702015600,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 550582,
+        "num": 550582,
+        "word": "田曦薇走路炸毛",
+        "onboard_time": 1702019076,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 434666,
+        "num": 434666,
+        "word": "西安警方回应警务人员维护偶像威胁网民",
+        "onboard_time": 1702019497,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2189902,
+        "num": 433650,
+        "word": "姨妈血不是废血",
+        "onboard_time": 1702016078,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 508878,
+        "num": 429401,
+        "word": "GQ出图了",
+        "onboard_time": 1702003656,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133553,
+        "num": 423653,
+        "word": "吴磊抵达蛋仔岛",
+        "onboard_time": 1702019618,
+        "rank": 12,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 487542,
+        "num": 420259,
+        "word": "李泰容 夜店",
+        "onboard_time": 1702019979,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33295,
+        "num": 418068,
+        "word": "张朝阳尹烨对话太烧脑了",
+        "onboard_time": 1702018833,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 416153,
+        "num": 416153,
+        "word": "漫威蜘蛛侠2 7提0中",
+        "onboard_time": 1702019316,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410102,
+        "num": 410102,
+        "word": "GQ大头贴",
+        "onboard_time": 1702019255,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 386170,
+        "num": 386170,
+        "word": "TES官宣369加入",
+        "onboard_time": 1702019797,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 384135,
+        "num": 384135,
+        "word": "神隐 定档",
+        "onboard_time": 1702014034,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278479,
+        "num": 372599,
+        "word": "50岁才找到自己的热爱晚吗",
+        "onboard_time": 1702020278,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851295,
+        "num": 369837,
+        "word": "阿信认领F6",
+        "onboard_time": 1702014217,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 623370,
+        "num": 368516,
+        "word": "医生说ICU很贵不要因为吃剩菜来",
+        "onboard_time": 1702008219,
+        "rank": 21,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 365590,
+        "num": 365590,
+        "word": "难听",
+        "onboard_time": 1702004254,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294874,
+        "num": 294874,
+        "word": "英雄联盟S13 最佳电竞赛事",
+        "onboard_time": 1702018234,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 283644,
+        "num": 283644,
+        "word": "世界名画 落寞的陶德",
+        "onboard_time": 1702019017,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 544825,
+        "num": 282320,
+        "word": "阿信 黑暗过去了",
+        "onboard_time": 1702003055,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 346681,
+        "num": 277760,
+        "word": "刘冲 并没有尴尬谢谢",
+        "onboard_time": 1702004676,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 344268,
+        "num": 276093,
+        "word": "戚薇李承铉 现实版恶作剧之吻",
+        "onboard_time": 1702018417,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271361,
+        "num": 271361,
+        "word": "元梦之星 词组",
+        "onboard_time": 1702020158,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185986,
+        "num": 261182,
+        "word": "张禹珍2比1张本智和",
+        "onboard_time": 1702018958,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273729,
+        "num": 260360,
+        "word": "炎亚纶 谢谢证明清白",
+        "onboard_time": 1702009298,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257684,
+        "num": 257684,
+        "word": "阴阳师 玉取",
+        "onboard_time": 1702019917,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252268,
+        "num": 252268,
+        "word": "鲍蕾说贝儿到叛逆期了",
+        "onboard_time": 1702017036,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251550,
+        "num": 251550,
+        "word": "站桩式演唱会",
+        "onboard_time": 1702004915,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241853,
+        "num": 241853,
+        "word": "刘诗诗白衣撑伞",
+        "onboard_time": 1702019435,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237205,
+        "num": 237205,
+        "word": "干杯",
+        "onboard_time": 1702013856,
+        "rank": 35,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 226096,
+        "num": 226096,
+        "word": "张凌赫你就宠王星越吧",
+        "onboard_time": 1702018361,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 216719,
+        "num": 216719,
+        "word": "TGA最大赢家",
+        "onboard_time": 1702019076,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200599,
+        "num": 200599,
+        "word": "五月天直播",
+        "onboard_time": 1701991407,
+        "rank": 38,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 181193,
+        "num": 198978,
+        "word": "男子积雪中挖出2室1厅雪屋",
+        "onboard_time": 1702015235,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198821,
+        "num": 198821,
+        "word": "JDG官宣Yagao回归",
+        "onboard_time": 1702014696,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194588,
+        "num": 194588,
+        "word": "五月天感谢了77场每一个城市",
+        "onboard_time": 1702000652,
+        "rank": 41,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 192702,
+        "num": 192702,
+        "word": "AppleMusic国区涨价",
+        "onboard_time": 1702017276,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183196,
+        "num": 183196,
+        "word": "GQ 运镜",
+        "onboard_time": 1702004915,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 175025,
+        "num": 175025,
+        "word": "大张伟演唱会擅改演出内容被罚",
+        "onboard_time": 1702004857,
+        "rank": 44,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 171695,
+        "num": 171695,
+        "word": "林北星 我喜欢一个人很久很久了",
+        "onboard_time": 1702018958,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175470,
+        "num": 171287,
+        "word": "杨幂卷纸",
+        "onboard_time": 1702015960,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170804,
+        "num": 170804,
+        "word": "断崖式衰老女子本人发声",
+        "onboard_time": 1702001314,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170697,
+        "num": 170697,
+        "word": "FF7重生获最受期待游戏",
+        "onboard_time": 1702019076,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147995,
+        "num": 147995,
+        "word": "湖人晋级决赛",
+        "onboard_time": 1702017036,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中欧关系要做好这些加减法#"
+    }
+  }
+}
