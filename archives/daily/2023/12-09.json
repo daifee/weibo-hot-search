@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702053533313,
+  "endTime": 1702055783065,
   "band_list": [
     {
       "raw_hot": 1855251,
@@ -147,6 +147,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 298977,
+      "num": 298977,
+      "word": "TFBOYS十周年DVD纪录片",
+      "onboard_time": 1702052611,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254971,
       "num": 254971,
       "word": "谷爱凌 一个黑粉100个朋友",
@@ -169,14 +177,6 @@
       "onboard_time": 1702032997,
       "rank": 22,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 244198,
-      "num": 244198,
-      "word": "TFBOYS十周年DVD纪录片",
-      "onboard_time": 1702052611,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 242187,
@@ -227,6 +227,14 @@
       "category": "游戏,数码"
     },
     {
+      "raw_hot": 199386,
+      "num": 199386,
+      "word": "外卖小哥送餐途中被风筝线割喉",
+      "onboard_time": 1702054407,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197422,
       "num": 197422,
       "word": "全网都知道你爸妈吵架的秘密了",
@@ -275,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158146,
+      "num": 108271,
+      "word": "给世界首富妈妈化妆",
+      "onboard_time": 1702055424,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156315,
       "num": 156315,
       "word": "林俊杰邀你点歌",
       "onboard_time": 1702051177,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143798,
+      "num": 143798,
+      "word": "躺练八分钟骨盆回正了",
+      "onboard_time": 1702053150,
+      "rank": 47,
+      "category": "运动健身,社会新闻"
     },
     {
       "raw_hot": 141756,
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111843,
+      "num": 111843,
+      "word": "F6",
+      "onboard_time": 1702053448,
+      "rank": 43,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 107035,
       "num": 107035,
       "word": "檀健次反派张力",
@@ -361,14 +393,6 @@
       "onboard_time": 1702051534,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95292,
-      "num": 104477,
-      "word": "F6",
-      "onboard_time": 1702053448,
-      "rank": 43,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 93133,
@@ -411,12 +435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75797,
-      "num": 104448,
-      "word": "躺练八分钟骨盆回正了",
-      "onboard_time": 1702053150,
-      "rank": 47,
-      "category": "运动健身,社会新闻"
+      "raw_hot": 57390,
+      "num": 63622,
+      "word": "郭德纲妻子持股的公司被强执263万",
+      "onboard_time": 1702044699,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 42181,

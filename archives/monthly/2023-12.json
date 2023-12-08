@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702053533313,
+  "endTime": 1702055783065,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -9467,6 +9467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298977,
+      "num": 298977,
+      "word": "TFBOYS十周年DVD纪录片",
+      "onboard_time": 1702052611,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298616,
       "num": 298616,
       "word": "刘诗诗沈月新剧演姐妹",
@@ -11721,14 +11729,6 @@
       "onboard_time": 1701997475,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244198,
-      "num": 244198,
-      "word": "TFBOYS十周年DVD纪录片",
-      "onboard_time": 1702052611,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 244160,
@@ -14353,6 +14353,14 @@
       "onboard_time": 1701910777,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 199386,
+      "num": 199386,
+      "word": "外卖小哥送餐途中被风筝线割喉",
+      "onboard_time": 1702054407,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199381,
@@ -17395,6 +17403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158146,
+      "num": 108271,
+      "word": "给世界首富妈妈化妆",
+      "onboard_time": 1702055424,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 158137,
       "num": 158137,
       "word": "陈瑶水龙吟造型是一身桃花",
@@ -18345,6 +18361,14 @@
       "onboard_time": 1701709462,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143798,
+      "num": 143798,
+      "word": "躺练八分钟骨盆回正了",
+      "onboard_time": 1702053150,
+      "rank": 47,
+      "category": "运动健身,社会新闻"
     },
     {
       "raw_hot": 143596,
@@ -19843,6 +19867,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 111843,
+      "num": 111843,
+      "word": "F6",
+      "onboard_time": 1702053448,
+      "rank": 43,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 111711,
       "num": 125331,
       "word": "烤栗子",
@@ -20307,14 +20339,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 95292,
-      "num": 104477,
-      "word": "F6",
-      "onboard_time": 1702053448,
-      "rank": 43,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 94295,
       "num": 259843,
       "word": "1.7万小学生收到快递箱再造作业本",
@@ -20593,14 +20617,6 @@
       "onboard_time": 1701833137,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75797,
-      "num": 104448,
-      "word": "躺练八分钟骨盆回正了",
-      "onboard_time": 1702053150,
-      "rank": 47,
-      "category": "运动健身,社会新闻"
     },
     {
       "raw_hot": 72921,
