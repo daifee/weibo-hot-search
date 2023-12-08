@@ -1,0 +1,410 @@
+{
+  "runTime": 1702034106776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2108000,
+        "num": 2108000,
+        "word": "瑞幸星巴克 致癌物",
+        "onboard_time": 1702025558,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 246099,
+        "num": 1581588,
+        "word": "出狱人员履约请监狱民警喝可乐",
+        "onboard_time": 1702029035,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55431,
+        "num": 1249224,
+        "word": "6问6答了解流感用药注意事项",
+        "onboard_time": 1702029397,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1105924,
+        "num": 1105924,
+        "word": "新闻女王 烂尾",
+        "onboard_time": 1702024233,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133848,
+        "num": 947244,
+        "word": "妻子放狠话式督促脑梗丈夫跑步3年",
+        "onboard_time": 1702029035,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927075,
+        "num": 927075,
+        "word": "爸爸劝女儿找对象要衡量生活质量",
+        "onboard_time": 1702029035,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756518,
+        "num": 756518,
+        "word": "小杨哥徒弟复播仅3分钟再被封",
+        "onboard_time": 1702028977,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 476911,
+        "num": 476911,
+        "word": "男子600元买本刮刮乐第3张刮出100万",
+        "onboard_time": 1702027657,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452006,
+        "num": 452006,
+        "word": "杨超越面部平整度",
+        "onboard_time": 1702025980,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47993,
+        "num": 416530,
+        "word": "大熊猫又有新的计数单位了",
+        "onboard_time": 1702033776,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844530,
+        "num": 416513,
+        "word": "白鹿删博了",
+        "onboard_time": 1702015717,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416488,
+        "num": 416488,
+        "word": "迪丽热巴一年22套高定",
+        "onboard_time": 1702025679,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 406987,
+        "num": 406987,
+        "word": "汪苏泷 别老让我评价别的歌手",
+        "onboard_time": 1702030178,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392006,
+        "num": 392006,
+        "word": "杨紫 复古羊毛卷",
+        "onboard_time": 1702029877,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 362389,
+        "num": 362389,
+        "word": "姨妈血不是废血",
+        "onboard_time": 1702016078,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 339832,
+        "num": 339832,
+        "word": "郑恺苗苗发糖",
+        "onboard_time": 1702029702,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337630,
+        "num": 337630,
+        "word": "每天喝12kg咖啡才能达到致癌量",
+        "onboard_time": 1702026278,
+        "rank": 16,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 327453,
+        "num": 327453,
+        "word": "檀健次 我狗呢",
+        "onboard_time": 1702032758,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 299442,
+        "num": 299442,
+        "word": "春雨面膜退出中国市场",
+        "onboard_time": 1702033834,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 297361,
+        "num": 297361,
+        "word": "神隐 定档",
+        "onboard_time": 1702014034,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538436,
+        "num": 296164,
+        "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
+        "onboard_time": 1702021117,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445323,
+        "num": 294980,
+        "word": "举报五月天博主发视频与阿信pk唱功",
+        "onboard_time": 1702022016,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 337821,
+        "num": 293916,
+        "word": "五月天 对联",
+        "onboard_time": 1702032997,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 292790,
+        "num": 292790,
+        "word": "孟子义理想型标准",
+        "onboard_time": 1702015717,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286498,
+        "num": 286498,
+        "word": "物业酒后砸门收费业主女儿手筋被切断",
+        "onboard_time": 1702028797,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271117,
+        "num": 271117,
+        "word": "林允 检验美女的发型",
+        "onboard_time": 1702032696,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268284,
+        "num": 268284,
+        "word": "新闻女王结局 黄宗泽",
+        "onboard_time": 1702021835,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268169,
+        "num": 268169,
+        "word": "医生说ICU很贵不要因为吃剩菜来",
+        "onboard_time": 1702008219,
+        "rank": 27,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 35624,
+        "num": 268023,
+        "word": "少前2追放公测定档1221",
+        "onboard_time": 1702033116,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80305,
+        "num": 267848,
+        "word": "2024年经济工作",
+        "onboard_time": 1702024359,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106654,
+        "num": 267647,
+        "word": "没办法拒绝雪中的易烊千玺",
+        "onboard_time": 1702032335,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52153,
+        "num": 267438,
+        "word": "银枝玫瑰线下快闪",
+        "onboard_time": 1702032997,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 267203,
+        "num": 267203,
+        "word": "纯鬼片 纯爱片",
+        "onboard_time": 1702032095,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252998,
+        "num": 252998,
+        "word": "既生泪 何生博",
+        "onboard_time": 1702017276,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250715,
+        "num": 250715,
+        "word": "赛琳娜退网",
+        "onboard_time": 1702015479,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249153,
+        "num": 249153,
+        "word": "砂糖橘发出一年一度变黄警告",
+        "onboard_time": 1702026879,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245052,
+        "num": 245052,
+        "word": "五月天巴黎演唱会全程回顾",
+        "onboard_time": 1702032157,
+        "rank": 36,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 240359,
+        "num": 240359,
+        "word": "阿信认领F6",
+        "onboard_time": 1702014217,
+        "rank": 37,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 234855,
+        "num": 234855,
+        "word": "迪丽热巴 霞光神女",
+        "onboard_time": 1702024233,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234496,
+        "num": 234496,
+        "word": "私下查询公民个人信息涉嫌犯罪",
+        "onboard_time": 1702017036,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232265,
+        "num": 232265,
+        "word": "TGA上最忙的人",
+        "onboard_time": 1702032634,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226271,
+        "num": 226271,
+        "word": "香港偶遇韩素希",
+        "onboard_time": 1702027420,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229269,
+        "num": 226159,
+        "word": "阿信神级表演配上CD",
+        "onboard_time": 1702031858,
+        "rank": 42,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 213103,
+        "num": 213103,
+        "word": "田曦薇走路炸毛",
+        "onboard_time": 1702019076,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206666,
+        "num": 206666,
+        "word": "爸爸患癌她选择孝而不顺",
+        "onboard_time": 1702026761,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203099,
+        "num": 203099,
+        "word": "广州餐饮商户因房租过高从CBD搬到社区",
+        "onboard_time": 1702032217,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 200788,
+        "num": 200788,
+        "word": "杨天真和于适毛晓彤合照",
+        "onboard_time": 1702034014,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200285,
+        "num": 200285,
+        "word": "照明商店",
+        "onboard_time": 1702033717,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180754,
+        "num": 180754,
+        "word": "原神 可恶的旅行者",
+        "onboard_time": 1702029578,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179474,
+        "num": 179474,
+        "word": "咳嗽最好不要吃这几种食物",
+        "onboard_time": 1702025079,
+        "rank": 49,
+        "category": "健康医疗,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中欧有责任共同为世界提供更多稳定性#"
+    }
+  }
+}
