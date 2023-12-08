@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1702024538230,
+  "endTime": 1702027082599,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -99,6 +99,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1654221,
+      "num": 1654221,
+      "word": "新闻女王 烂尾",
+      "onboard_time": 1702024233,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1580533,
       "num": 1580533,
       "word": "银杏 活着直到被死神遗忘",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1324917,
+      "num": 1324917,
+      "word": "瑞幸星巴克 致癌物",
+      "onboard_time": 1702025558,
+      "rank": 1,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1297724,
       "num": 1297724,
       "word": "新闻女王结局 黄宗泽",
@@ -241,6 +257,14 @@
       "onboard_time": 1701956568,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 943289,
+      "num": 943289,
+      "word": "迪丽热巴一年22套高定",
+      "onboard_time": 1702025679,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 926354,
@@ -411,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 625135,
+      "num": 468272,
+      "word": "迪丽热巴 霞光神女",
+      "onboard_time": 1702024233,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 617262,
       "num": 617262,
       "word": "田曦薇走路炸毛",
@@ -449,6 +481,14 @@
       "onboard_time": 1702015600,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 550504,
+      "num": 550504,
+      "word": "张朝阳称一辈子租房就有闲钱养孩子",
+      "onboard_time": 1702023399,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541610,
@@ -547,20 +587,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 475705,
-      "num": 475705,
-      "word": "张朝阳称一辈子租房就有闲钱养孩子",
-      "onboard_time": 1702023399,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468202,
       "num": 458508,
       "word": "杨幂晒了三张小时候照片",
       "onboard_time": 1701969143,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 465965,
+      "num": 465965,
+      "word": "种地吧 圣诞树",
+      "onboard_time": 1702024599,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 465267,
@@ -624,14 +664,6 @@
       "word": "GQ 运镜",
       "onboard_time": 1702004915,
       "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 431789,
-      "num": 431789,
-      "word": "迪丽热巴 霞光神女",
-      "onboard_time": 1702024233,
-      "rank": 13,
       "category": "作品衍生,时尚"
     },
     {
@@ -747,6 +779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 401160,
+      "num": 401160,
+      "word": "杨超越面部平整度",
+      "onboard_time": 1702025980,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 397422,
       "num": 276093,
       "word": "戚薇李承铉 现实版恶作剧之吻",
@@ -793,6 +833,30 @@
       "onboard_time": 1702019797,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 383568,
+      "num": 383568,
+      "word": "咳嗽最好不要吃这几种食物",
+      "onboard_time": 1702025079,
+      "rank": 17,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 379933,
+      "num": 379933,
+      "word": "每天喝12kg咖啡才能达到致癌量",
+      "onboard_time": 1702026278,
+      "rank": 18,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 374291,
+      "num": 251760,
+      "word": "赵一博 不在",
+      "onboard_time": 1702026458,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 373818,
@@ -971,6 +1035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 313362,
+      "num": 236610,
+      "word": "关晓彤 女霸总回国",
+      "onboard_time": 1702026637,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310501,
       "num": 303380,
       "word": "周杰伦演唱会门票提前半年预售引质疑",
@@ -1097,6 +1169,14 @@
       "onboard_time": 1702011819,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 279633,
+      "num": 192177,
+      "word": "大胖媳妇 自信的人能有多快乐",
+      "onboard_time": 1702024476,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 279051,
@@ -1227,6 +1307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 255827,
+      "num": 255827,
+      "word": "广东一村发征地补偿每人每月领0.5元",
+      "onboard_time": 1702024233,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 255353,
       "num": 255353,
       "word": "星穹铁道第三世界首曝",
@@ -1272,6 +1360,14 @@
       "word": "老祖宗留下这片海一寸也不能丢",
       "onboard_time": 1702003895,
       "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 245589,
+      "num": 245589,
+      "word": "2024年经济工作",
+      "onboard_time": 1702024359,
+      "rank": 38,
       "category": "国内时政"
     },
     {
@@ -1499,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202040,
+      "num": 154891,
+      "word": "邓紫棋演唱会 IMAX巨幕",
+      "onboard_time": 1702026160,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201676,
       "num": 201676,
       "word": "宁远舟护妻",
@@ -1513,14 +1617,6 @@
       "onboard_time": 1702017576,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 200021,
-      "num": 200021,
-      "word": "新闻女王 烂尾",
-      "onboard_time": 1702024233,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 199785,
@@ -1627,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176659,
+      "num": 176659,
+      "word": "年轻人为省钱把自己活成外卖骑手",
+      "onboard_time": 1702024300,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176472,
       "num": 176472,
       "word": "95后大学生摆摊卖猪头肉日入800元",
@@ -1673,14 +1777,6 @@
       "onboard_time": 1701946420,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 167975,
-      "num": 167975,
-      "word": "2024年经济工作",
-      "onboard_time": 1702024359,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 167962,
@@ -1739,19 +1835,19 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 158903,
-      "num": 158903,
-      "word": "年轻人为省钱把自己活成外卖骑手",
-      "onboard_time": 1702024300,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158727,
       "num": 166423,
       "word": "知情人回应狗主人锁狗被疯狂攻击",
       "onboard_time": 1701961905,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152259,
+      "num": 152259,
+      "word": "爸爸患癌她选择孝而不顺",
+      "onboard_time": 1702026761,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1761,6 +1857,14 @@
       "onboard_time": 1702015658,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149750,
+      "num": 149750,
+      "word": "砂糖橘发出一年一度变黄警告",
+      "onboard_time": 1702026879,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 145161,
@@ -1811,20 +1915,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141447,
+      "num": 141447,
+      "word": "2023十大网络流行语",
+      "onboard_time": 1702024959,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139027,
+      "num": 139027,
+      "word": "中国短道速滑混接小组第一晋级",
+      "onboard_time": 1702024541,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134735,
       "num": 134735,
       "word": "哈利伯顿27分",
       "onboard_time": 1701999097,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134114,
-      "num": 134114,
-      "word": "大胖媳妇 自信的人能有多快乐",
-      "onboard_time": 1702024476,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 133553,
@@ -1841,6 +1953,14 @@
       "onboard_time": 1701951640,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130469,
+      "num": 130469,
+      "word": "面条裹在大虾上",
+      "onboard_time": 1702026701,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 129567,
@@ -2097,6 +2217,14 @@
       "onboard_time": 1701977175,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 17538,
+      "num": 1254609,
+      "word": "探索多样化绿色转型路径",
+      "onboard_time": 1702026101,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16276,
