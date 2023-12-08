@@ -1,6 +1,6 @@
 {
   "startTime": 1701966241595,
-  "endTime": 1702039746700,
+  "endTime": 1702041652307,
   "band_list": [
     {
       "raw_hot": 3708027,
@@ -51,8 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2580560,
-      "num": 2580560,
+      "raw_hot": 2599541,
+      "num": 2599541,
       "word": "解清帅已辞职",
       "onboard_time": 1702037854,
       "rank": 1,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1759837,
+      "num": 1759837,
+      "word": "女子实名举报武汉大学教授嫖娼赌博收回扣",
+      "onboard_time": 1702037315,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1702235,
       "num": 1304668,
       "word": "刘冲 并没有尴尬谢谢",
@@ -121,6 +129,14 @@
       "onboard_time": 1702014217,
       "rank": 20,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1588700,
+      "num": 1588700,
+      "word": "偷偷藏不住 神隐隐不了",
+      "onboard_time": 1702039957,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1580533,
@@ -235,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1141000,
-      "num": 1141000,
-      "word": "女子实名举报武汉大学教授嫖娼赌博收回扣",
-      "onboard_time": 1702037315,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1062647,
       "num": 1062647,
       "word": "连云港地震",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 879662,
-      "num": 424943,
+      "num": 490524,
       "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
       "onboard_time": 1702021117,
       "rank": 22,
@@ -369,6 +377,14 @@
       "onboard_time": 1701962676,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 772629,
+      "num": 772629,
+      "word": "米哈游的米是小米的米",
+      "onboard_time": 1702040015,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 756518,
@@ -555,6 +571,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 550730,
+      "num": 543687,
+      "word": "新闻女王 第二季",
+      "onboard_time": 1702037854,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 550504,
       "num": 550504,
       "word": "张朝阳称一辈子租房就有闲钱养孩子",
@@ -563,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 543687,
-      "num": 543687,
-      "word": "新闻女王 第二季",
-      "onboard_time": 1702037854,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 549234,
+      "num": 478954,
+      "word": "汤唯否认离婚",
+      "onboard_time": 1702040916,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 541610,
@@ -593,6 +617,14 @@
       "onboard_time": 1702011222,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 535043,
+      "num": 535043,
+      "word": "莎头 全体起立的一球",
+      "onboard_time": 1702038814,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 532302,
@@ -835,14 +867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 431362,
-      "num": 431362,
-      "word": "莎头 全体起立的一球",
-      "onboard_time": 1702038814,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 427673,
       "num": 427673,
       "word": "丫丫开始冲刺年底干饭KPI",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1702001974,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 356320,
+      "num": 356320,
+      "word": "全网都知道你爸妈吵架的秘密了",
+      "onboard_time": 1702037973,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 351682,
@@ -1363,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292815,
-      "num": 292815,
-      "word": "全网都知道你爸妈吵架的秘密了",
-      "onboard_time": 1702037973,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 291627,
       "num": 347514,
       "word": "大胖媳妇 自信的人能有多快乐",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1702024233,
       "rank": 24,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 255806,
+      "num": 255806,
+      "word": "原神前瞻 兑换码",
+      "onboard_time": 1702040378,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 255353,
@@ -1939,6 +1971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 207844,
+      "num": 207844,
+      "word": "WB对战Hero",
+      "onboard_time": 1702041457,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206309,
       "num": 219404,
       "word": "新闻女王 新闻正义",
@@ -2027,6 +2067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200044,
+      "num": 200044,
+      "word": "国乒8比1德国",
+      "onboard_time": 1702040558,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199785,
       "num": 199785,
       "word": "林北星 我喜欢一个人很久很久了",
@@ -2059,12 +2107,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 196604,
+      "num": 196604,
+      "word": "武大人民医院通报职工被前妻举报多项问题",
+      "onboard_time": 1702041277,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195238,
       "num": 195238,
       "word": "陈宥维 男爱豆化妆原因",
       "onboard_time": 1702023218,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194365,
+      "num": 194365,
+      "word": "刘宇宁 一滴泪演技",
+      "onboard_time": 1702039717,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 193978,
@@ -2115,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190004,
+      "num": 190004,
+      "word": "邓紫棋 纯白女爵",
+      "onboard_time": 1702041038,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189457,
       "num": 189457,
       "word": "JDG官宣sheer加入",
@@ -2145,6 +2217,14 @@
       "onboard_time": 1702031077,
       "rank": 47,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 186905,
+      "num": 186905,
+      "word": "马龙3比0沃尔瑟",
+      "onboard_time": 1702040499,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 186242,
@@ -2251,12 +2331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169986,
+      "num": 169986,
+      "word": "在职场上不要轻易说抱歉",
+      "onboard_time": 1702040797,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169154,
       "num": 165635,
       "word": "虞书欣亲杨天真",
       "onboard_time": 1701946420,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 168552,
+      "num": 412333,
+      "word": "小米原神联名手环",
+      "onboard_time": 1702040437,
+      "rank": 14,
+      "category": "数码,游戏"
     },
     {
       "raw_hot": 167962,
@@ -2297,6 +2393,14 @@
       "onboard_time": 1701995562,
       "rank": 49,
       "category": "综艺,社会新闻"
+    },
+    {
+      "raw_hot": 163192,
+      "num": 163192,
+      "word": "火树直播",
+      "onboard_time": 1702041578,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 162919,
@@ -2355,12 +2459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156841,
-      "num": 156841,
-      "word": "刘宇宁 一滴泪演技",
-      "onboard_time": 1702039717,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 154778,
+      "num": 154778,
+      "word": "教资面试",
+      "onboard_time": 1702039901,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 152669,
@@ -2492,7 +2596,7 @@
     },
     {
       "raw_hot": 131317,
-      "num": 224144,
+      "num": 229967,
       "word": "宋代逛街人手一份的招牌饮品",
       "onboard_time": 1702035634,
       "rank": 29,
@@ -2700,7 +2804,7 @@
     },
     {
       "raw_hot": 53606,
-      "num": 177514,
+      "num": 359958,
       "word": "蛋仔岛直播",
       "onboard_time": 1702039355,
       "rank": 42,
@@ -2804,7 +2908,7 @@
     },
     {
       "raw_hot": 24166,
-      "num": 1317849,
+      "num": 1650953,
       "word": "2023致敬不同战场的英雄",
       "onboard_time": 1702009177,
       "rank": 2,
