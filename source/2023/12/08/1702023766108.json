@@ -1,0 +1,410 @@
+{
+  "runTime": 1702023766108,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313938,
+        "num": 1313938,
+        "word": "白鹿删博了",
+        "onboard_time": 1702015717,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1229917,
+        "num": 1229917,
+        "word": "私下查询公民个人信息涉嫌犯罪",
+        "onboard_time": 1702017036,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109275,
+        "num": 1177045,
+        "word": "港珠澳大桥旅游12月15日开通",
+        "onboard_time": 1702009421,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1172624,
+        "num": 1172624,
+        "word": "新闻女王结局 黄宗泽",
+        "onboard_time": 1702021835,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 629250,
+        "num": 629250,
+        "word": "女孩租房2年退房时被房东奖励500元",
+        "onboard_time": 1702021958,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617262,
+        "num": 617262,
+        "word": "田曦薇走路炸毛",
+        "onboard_time": 1702019076,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 522966,
+        "num": 522966,
+        "word": "孟子义理想型标准",
+        "onboard_time": 1702015717,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489888,
+        "num": 489888,
+        "word": "李一桐 陈都灵",
+        "onboard_time": 1702021778,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 476252,
+        "num": 476252,
+        "word": "59款咖啡全部检查出致癌物",
+        "onboard_time": 1702022378,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439149,
+        "num": 439149,
+        "word": "既生泪 何生博",
+        "onboard_time": 1702017276,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1599449,
+        "num": 437653,
+        "word": "姨妈血不是废血",
+        "onboard_time": 1702016078,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 801405,
+        "num": 437047,
+        "word": "赛琳娜退网",
+        "onboard_time": 1702015479,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467844,
+        "num": 436136,
+        "word": "迪丽热巴逼秦岚看自己换衣服",
+        "onboard_time": 1702007375,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432171,
+        "num": 432171,
+        "word": "刘宇宁再次回应被AI换脸",
+        "onboard_time": 1702022857,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112482,
+        "num": 411030,
+        "word": "天美15周年向快乐出发",
+        "onboard_time": 1702022435,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 405579,
+        "num": 405579,
+        "word": "十个勤天直播",
+        "onboard_time": 1702023637,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388368,
+        "num": 388368,
+        "word": "李泰容 夜店",
+        "onboard_time": 1702019979,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338704,
+        "num": 338704,
+        "word": "化痰止咳 三皮水",
+        "onboard_time": 1702021897,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331524,
+        "num": 331524,
+        "word": "以色列内阁部长儿子阵亡",
+        "onboard_time": 1702015600,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 306862,
+        "num": 306862,
+        "word": "西安警方回应警务人员维护偶像威胁网民",
+        "onboard_time": 1702019497,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1410711,
+        "num": 303575,
+        "word": "举报五月天博主发视频与阿信pk唱功",
+        "onboard_time": 1702022016,
+        "rank": 20,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 325010,
+        "num": 298410,
+        "word": "神隐 定档",
+        "onboard_time": 1702014034,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 879662,
+        "num": 294409,
+        "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
+        "onboard_time": 1702021117,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491985,
+        "num": 288951,
+        "word": "阿信认领F6",
+        "onboard_time": 1702014217,
+        "rank": 23,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 378391,
+        "num": 282638,
+        "word": "医生说ICU很贵不要因为吃剩菜来",
+        "onboard_time": 1702008219,
+        "rank": 24,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 282592,
+        "num": 282592,
+        "word": "难听",
+        "onboard_time": 1702004254,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281925,
+        "num": 281925,
+        "word": "玲娜贝儿 梭子蟹",
+        "onboard_time": 1702022500,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 270632,
+        "num": 270632,
+        "word": "GQ出图了",
+        "onboard_time": 1702003656,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371004,
+        "num": 262534,
+        "word": "阿信 黑暗过去了",
+        "onboard_time": 1702003055,
+        "rank": 28,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 248594,
+        "num": 248594,
+        "word": "漫威蜘蛛侠2 7提0中",
+        "onboard_time": 1702019316,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121327,
+        "num": 248185,
+        "word": "吴磊抵达蛋仔岛",
+        "onboard_time": 1702019618,
+        "rank": 30,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 248179,
+        "num": 248179,
+        "word": "刘冲 并没有尴尬谢谢",
+        "onboard_time": 1702004676,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232558,
+        "num": 232558,
+        "word": "小米网吧",
+        "onboard_time": 1702021475,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229357,
+        "num": 229357,
+        "word": "英雄联盟S13 最佳电竞赛事",
+        "onboard_time": 1702018234,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214657,
+        "num": 214657,
+        "word": "张朝阳称一辈子租房就有闲钱养孩子",
+        "onboard_time": 1702023399,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213951,
+        "num": 213951,
+        "word": "灰原哀票房号召力",
+        "onboard_time": 1702022198,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202453,
+        "num": 202453,
+        "word": "站桩式演唱会",
+        "onboard_time": 1702004915,
+        "rank": 36,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 201213,
+        "num": 201213,
+        "word": "戚薇李承铉 现实版恶作剧之吻",
+        "onboard_time": 1702018417,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198282,
+        "num": 198282,
+        "word": "全球央行买金800吨",
+        "onboard_time": 1702022799,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197860,
+        "num": 197860,
+        "word": "干杯",
+        "onboard_time": 1702013856,
+        "rank": 39,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 195238,
+        "num": 195238,
+        "word": "陈宥维 男爱豆化妆原因",
+        "onboard_time": 1702023218,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191805,
+        "num": 191805,
+        "word": "GQ大头贴",
+        "onboard_time": 1702019255,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189457,
+        "num": 189457,
+        "word": "JDG官宣sheer加入",
+        "onboard_time": 1702021295,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176579,
+        "num": 176579,
+        "word": "张凌赫你就宠王星越吧",
+        "onboard_time": 1702018361,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167104,
+        "num": 167104,
+        "word": "TES官宣369加入",
+        "onboard_time": 1702019797,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162383,
+        "num": 162383,
+        "word": "内蒙古羊博基尼下江南",
+        "onboard_time": 1702021835,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154937,
+        "num": 154937,
+        "word": "五月天直播",
+        "onboard_time": 1701991407,
+        "rank": 46,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 153032,
+        "num": 153032,
+        "word": "刘诗诗白衣撑伞",
+        "onboard_time": 1702019435,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152275,
+        "num": 152275,
+        "word": "50岁才找到自己的热爱晚吗",
+        "onboard_time": 1702020278,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141805,
+        "num": 141805,
+        "word": "炎亚纶 谢谢证明清白",
+        "onboard_time": 1702009298,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展中欧关系要做好这些加减法#"
+    }
+  }
+}
