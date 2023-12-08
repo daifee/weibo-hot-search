@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1701999506382,
+  "endTime": 1702002658367,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -811,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1580533,
+      "num": 1580533,
+      "word": "银杏 活着直到被死神遗忘",
+      "onboard_time": 1701994779,
+      "rank": 5,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1573782,
       "num": 1343843,
       "word": "江西省民政厅正在调查花10万中2.2亿",
@@ -920,6 +928,14 @@
       "word": "丁当为五月天发声",
       "onboard_time": 1701736116,
       "rank": 1,
+      "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1453467,
+      "num": 848764,
+      "word": "五月天感谢了77场每一个城市",
+      "onboard_time": 1702000652,
+      "rank": 3,
       "category": "演出,社会新闻"
     },
     {
@@ -1665,14 +1681,6 @@
       "onboard_time": 1701820411,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 905349,
-      "num": 905349,
-      "word": "银杏 活着直到被死神遗忘",
-      "onboard_time": 1701994779,
-      "rank": 5,
-      "category": "科学科普"
     },
     {
       "raw_hot": 900707,
@@ -2488,6 +2496,14 @@
       "word": "景甜 什么裙子要公主自己摆",
       "onboard_time": 1701772300,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 627304,
+      "num": 627304,
+      "word": "种地吧直播迟到了",
+      "onboard_time": 1702000536,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -3571,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486316,
+      "num": 267269,
+      "word": "断崖式衰老女子本人发声",
+      "onboard_time": 1702001314,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485860,
       "num": 485860,
       "word": "2.2亿中奖者是倍投陷阱下的幸存者",
@@ -3788,7 +3812,7 @@
     },
     {
       "raw_hot": 465267,
-      "num": 283250,
+      "num": 333492,
       "word": "JDG获TGA最佳电竞俱乐部",
       "onboard_time": 1701998856,
       "rank": 30,
@@ -4219,6 +4243,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 427673,
+      "num": 427673,
+      "word": "丫丫开始冲刺年底干饭KPI",
+      "onboard_time": 1702000175,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427425,
       "num": 427425,
       "word": "鹅腿 断货",
@@ -4425,6 +4457,14 @@
       "onboard_time": 1701917372,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 416289,
+      "num": 266702,
+      "word": "离职了 和公司最好的朋友合照",
+      "onboard_time": 1701998856,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 415498,
@@ -4664,6 +4704,14 @@
       "word": "林允莫奈花园裙",
       "onboard_time": 1701922176,
       "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 393846,
+      "num": 330715,
+      "word": "曾舜晞吃上席了",
+      "onboard_time": 1702000233,
+      "rank": 13,
       "category": "作品衍生,时尚"
     },
     {
@@ -5617,6 +5665,14 @@
       "onboard_time": 1701943482,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 335240,
+      "num": 335240,
+      "word": "涵艺爆料Meiko已落笔",
+      "onboard_time": 1701999996,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 334308,
@@ -6603,6 +6659,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 294343,
+      "num": 294343,
+      "word": "一个碗6万吨重",
+      "onboard_time": 1701999695,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 294028,
       "num": 294028,
       "word": "昭节皇后下线",
@@ -6753,6 +6817,14 @@
       "onboard_time": 1701761016,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290167,
+      "num": 290167,
+      "word": "数学教师称中500万中奖概率为1比891万",
+      "onboard_time": 1701998794,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289889,
@@ -7259,6 +7331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268498,
+      "num": 268498,
+      "word": "中医把脉学习资料",
+      "onboard_time": 1702000652,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 268302,
       "num": 268302,
       "word": "刘宇宁连发18个好",
@@ -7699,14 +7779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250116,
-      "num": 250116,
-      "word": "数学教师称中500万中奖概率为1比891万",
-      "onboard_time": 1701998794,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249629,
       "num": 249629,
       "word": "喜茶下架佛喜茶拿铁",
@@ -7857,6 +7929,14 @@
       "onboard_time": 1701997475,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244226,
+      "num": 244226,
+      "word": "朱珠未来感连衣裙",
+      "onboard_time": 1702002215,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 244160,
@@ -8803,6 +8883,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 215215,
+      "num": 215215,
+      "word": "梅西再来中国",
+      "onboard_time": 1702002334,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215033,
       "num": 215033,
       "word": "京考 染色体",
@@ -8841,6 +8929,14 @@
       "onboard_time": 1701824318,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214257,
+      "num": 214257,
+      "word": "适合跨年做的美甲",
+      "onboard_time": 1702001974,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 214016,
@@ -9385,6 +9481,14 @@
       "onboard_time": 1701762581,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202567,
+      "num": 202567,
+      "word": "元梦之星 抢id",
+      "onboard_time": 1701998619,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 202418,
@@ -10083,6 +10187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189526,
+      "num": 189526,
+      "word": "林孝埈人气",
+      "onboard_time": 1702002573,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189484,
       "num": 387807,
       "word": "妈妈花409元给孩子自制校服款羽绒服",
@@ -10241,6 +10353,14 @@
       "onboard_time": 1701916651,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186030,
+      "num": 186030,
+      "word": "老外分享在中国看病的经历",
+      "onboard_time": 1702002454,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185780,
@@ -10675,14 +10795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171303,
-      "num": 171303,
-      "word": "离职了 和公司最好的朋友合照",
-      "onboard_time": 1701998856,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171191,
       "num": 184548,
       "word": "面部立体度不高的变美思路",
@@ -11023,14 +11135,6 @@
       "num": 164949,
       "word": "明日方舟银心湖列车",
       "onboard_time": 1701778900,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 164867,
-      "num": 164867,
-      "word": "元梦之星 抢id",
-      "onboard_time": 1701998619,
       "rank": 44,
       "category": "游戏"
     },
