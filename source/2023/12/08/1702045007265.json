@@ -1,0 +1,410 @@
+{
+  "runTime": 1702045007265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1871252,
+        "num": 1871252,
+        "word": "解清帅已辞职",
+        "onboard_time": 1702037854,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1601550,
+        "num": 1601550,
+        "word": "女子实名举报武汉大学教授嫖娼赌博收回扣",
+        "onboard_time": 1702037315,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8802,
+        "num": 1326151,
+        "word": "2023致敬不同战场的英雄",
+        "onboard_time": 1702009177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1266471,
+        "num": 1266471,
+        "word": "偷偷藏不住 神隐隐不了",
+        "onboard_time": 1702039957,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 937987,
+        "num": 937987,
+        "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
+        "onboard_time": 1702021117,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655254,
+        "num": 655254,
+        "word": "新闻女王 烂尾",
+        "onboard_time": 1702024233,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628137,
+        "num": 628137,
+        "word": "米哈游的米是小米的米",
+        "onboard_time": 1702040015,
+        "rank": 6,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 625422,
+        "num": 625422,
+        "word": "全网都知道你爸妈吵架的秘密了",
+        "onboard_time": 1702037973,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 528810,
+        "num": 528810,
+        "word": "小米手环 达达利亚",
+        "onboard_time": 1702043195,
+        "rank": 8,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 526723,
+        "num": 526723,
+        "word": "杨丽萍 王牌对王牌",
+        "onboard_time": 1702041697,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599261,
+        "num": 525587,
+        "word": "汤唯否认离婚",
+        "onboard_time": 1702040916,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575852,
+        "num": 524958,
+        "word": "白鹿删博了",
+        "onboard_time": 1702015717,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522974,
+        "num": 522974,
+        "word": "瑞幸星巴克 致癌物",
+        "onboard_time": 1702025558,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 170307,
+        "num": 434488,
+        "word": "原神三星堆联动",
+        "onboard_time": 1702043195,
+        "rank": 13,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 12695,
+        "num": 410663,
+        "word": "原梦冒险团综艺开播",
+        "onboard_time": 1702044037,
+        "rank": 14,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 386934,
+        "num": 386934,
+        "word": "姨妈血不是废血",
+        "onboard_time": 1702016078,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 383928,
+        "num": 383928,
+        "word": "新闻女王 第二季",
+        "onboard_time": 1702037854,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383472,
+        "num": 383472,
+        "word": "饶雪漫 川师大",
+        "onboard_time": 1702043499,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 369788,
+        "num": 369788,
+        "word": "小杨哥徒弟复播仅3分钟再被封",
+        "onboard_time": 1702028977,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 333088,
+        "num": 333088,
+        "word": "关晓彤 孔雀公主",
+        "onboard_time": 1702043016,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 896300,
+        "num": 332918,
+        "word": "五月天是否假唱可能不会有答案",
+        "onboard_time": 1702042536,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 417766,
+        "num": 332759,
+        "word": "五月天 对联",
+        "onboard_time": 1702032997,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 113205,
+        "num": 330933,
+        "word": "公子 请戴小米手环",
+        "onboard_time": 1702042179,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 329984,
+        "num": 329984,
+        "word": "王楚钦说第一局责任在我",
+        "onboard_time": 1702043257,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321366,
+        "num": 321366,
+        "word": "莎头 全体起立的一球",
+        "onboard_time": 1702038814,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297765,
+        "num": 297765,
+        "word": "春雨面膜退出中国市场",
+        "onboard_time": 1702033834,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 265830,
+        "num": 265830,
+        "word": "长期久坐缓解腰疼的动作",
+        "onboard_time": 1702043618,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246040,
+        "num": 246040,
+        "word": "GQ船上外景",
+        "onboard_time": 1702039296,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238532,
+        "num": 238532,
+        "word": "迪丽热巴一年22套高定",
+        "onboard_time": 1702025679,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 72126,
+        "num": 231035,
+        "word": "宋代逛街人手一份的招牌饮品",
+        "onboard_time": 1702035634,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356541,
+        "num": 229801,
+        "word": "谷爱凌 一个黑粉100个朋友",
+        "onboard_time": 1702044401,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228561,
+        "num": 228561,
+        "word": "Hero 好毒的鹌鹑",
+        "onboard_time": 1702044218,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224981,
+        "num": 224981,
+        "word": "郭德纲妻子持股的公司被强执263万",
+        "onboard_time": 1702044699,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215470,
+        "num": 215470,
+        "word": "摆烂小猫",
+        "onboard_time": 1702043074,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205275,
+        "num": 205275,
+        "word": "杨紫 复古羊毛卷",
+        "onboard_time": 1702029877,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198925,
+        "num": 198925,
+        "word": "WB小组第一出线",
+        "onboard_time": 1702044878,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187335,
+        "num": 187335,
+        "word": "举报五月天博主发视频与阿信pk唱功",
+        "onboard_time": 1702022016,
+        "rank": 36,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 186331,
+        "num": 186331,
+        "word": "钟离 请出谷",
+        "onboard_time": 1702041817,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179518,
+        "num": 179518,
+        "word": "武大人民医院通报职工被前妻举报多项问题",
+        "onboard_time": 1702041277,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176141,
+        "num": 176141,
+        "word": "原神 可恶的旅行者",
+        "onboard_time": 1702029578,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175879,
+        "num": 175879,
+        "word": "每天喝12kg咖啡才能达到致癌量",
+        "onboard_time": 1702026278,
+        "rank": 40,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 174960,
+        "num": 174960,
+        "word": "WB 庄周打野",
+        "onboard_time": 1702042775,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171598,
+        "num": 171598,
+        "word": "杨超越面部平整度",
+        "onboard_time": 1702025980,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170458,
+        "num": 170458,
+        "word": "种地吧导演的自我救赎",
+        "onboard_time": 1702042179,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163145,
+        "num": 163145,
+        "word": "爸爸患癌她选择孝而不顺",
+        "onboard_time": 1702026761,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158416,
+        "num": 158416,
+        "word": "迪丽热巴 霞光神女",
+        "onboard_time": 1702024233,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158285,
+        "num": 158285,
+        "word": "王楚钦孙颖莎2比1德国组合",
+        "onboard_time": 1702038756,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154212,
+        "num": 154212,
+        "word": "原神四川冒险启动",
+        "onboard_time": 1702043257,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151128,
+        "num": 151128,
+        "word": "重庆海鲜火锅串串",
+        "onboard_time": 1702044878,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146331,
+        "num": 146331,
+        "word": "教资结构化六大类万能答题模板",
+        "onboard_time": 1702044939,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}
