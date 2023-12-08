@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1702048724890,
+  "endTime": 1702049655155,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -1363,20 +1363,20 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1214633,
+      "num": 1214633,
+      "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
+      "onboard_time": 1702021117,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211159,
       "num": 1211159,
       "word": "一周不洗脸为什么皮肤变好了",
       "onboard_time": 1701608082,
       "rank": 6,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1206407,
-      "num": 1206407,
-      "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
-      "onboard_time": 1702021117,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1206270,
@@ -3267,6 +3267,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 579172,
+      "num": 579172,
+      "word": "GQ 排他list艺人",
+      "onboard_time": 1702047700,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 578750,
       "num": 578750,
       "word": "王者荣耀 露娜",
@@ -3561,14 +3569,6 @@
       "onboard_time": 1701684454,
       "rank": 18,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 547388,
-      "num": 547388,
-      "word": "GQ 排他list艺人",
-      "onboard_time": 1702047700,
-      "rank": 7,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 547217,
@@ -4225,6 +4225,14 @@
       "onboard_time": 1701764675,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484876,
+      "num": 484876,
+      "word": "青岛一小区保安持刀连捅外卖员数刀",
+      "onboard_time": 1702046259,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484443,
@@ -5651,6 +5659,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 383381,
+      "num": 322643,
+      "word": "程序员每月只给自己留2千妻子却要离婚",
+      "onboard_time": 1702047339,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383291,
       "num": 256638,
       "word": "易烊千玺气定神闲的sense",
@@ -5665,14 +5681,6 @@
       "onboard_time": 1702035814,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 381642,
-      "num": 381642,
-      "word": "青岛一小区保安持刀连捅外卖员数刀",
-      "onboard_time": 1702046259,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381206,
@@ -6145,6 +6153,14 @@
       "onboard_time": 1701764016,
       "rank": 21,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 356154,
+      "num": 333453,
+      "word": "黑色素瘤",
+      "onboard_time": 1702049078,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 355394,
@@ -6635,6 +6651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330263,
+      "num": 330263,
+      "word": "宋江洗澡",
+      "onboard_time": 1702049017,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330106,
       "num": 330106,
       "word": "GQ主编 光之门美到我自己了",
@@ -6777,6 +6801,14 @@
       "onboard_time": 1701530374,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323115,
+      "num": 323115,
+      "word": "杨幂工作室 挡了又好像没挡",
+      "onboard_time": 1702048836,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 322848,
@@ -7121,14 +7153,6 @@
       "onboard_time": 1701724093,
       "rank": 48,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 310586,
-      "num": 310586,
-      "word": "程序员每月只给自己留2千妻子却要离婚",
-      "onboard_time": 1702047339,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310506,
@@ -10219,6 +10243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218593,
+      "num": 218593,
+      "word": "给腰腹赘肉一点震撼",
+      "onboard_time": 1702045658,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 218574,
       "num": 218574,
       "word": "新闻女王教坏职场新人了吗",
@@ -10273,14 +10305,6 @@
       "onboard_time": 1701859357,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217939,
-      "num": 217939,
-      "word": "给腰腹赘肉一点震撼",
-      "onboard_time": 1702045658,
-      "rank": 33,
-      "category": "运动健身"
     },
     {
       "raw_hot": 217016,
@@ -11795,6 +11819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191228,
+      "num": 191228,
+      "word": "钱昭 一念关山数字哥",
+      "onboard_time": 1702048479,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191178,
       "num": 191178,
       "word": "李权哲被批评 朱正廷先哭",
@@ -11993,6 +12025,14 @@
       "onboard_time": 1702009421,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188533,
+      "num": 188533,
+      "word": "爆裂点 爆烈",
+      "onboard_time": 1702048479,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 188457,
@@ -12457,14 +12497,6 @@
       "onboard_time": 1701830974,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176762,
-      "num": 176762,
-      "word": "爆裂点 爆烈",
-      "onboard_time": 1702048479,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 176659,
@@ -13427,14 +13459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155686,
-      "num": 155686,
-      "word": "钱昭 一念关山数字哥",
-      "onboard_time": 1702048479,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155597,
       "num": 155597,
       "word": "山体落石从胡歌头上飞过",
@@ -13809,6 +13833,14 @@
       "onboard_time": 1701596315,
       "rank": 41,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 146701,
+      "num": 146701,
+      "word": "流行色 柔和桃",
+      "onboard_time": 1702049138,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 146648,
@@ -14433,6 +14465,14 @@
       "onboard_time": 1702019618,
       "rank": 49,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 133202,
+      "num": 133202,
+      "word": "出生率下降导致幼儿园关停潮",
+      "onboard_time": 1702049435,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132929,
@@ -15731,6 +15771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57393,
+      "num": 825297,
+      "word": "太空视角见证中国式现代化",
+      "onboard_time": 1702047398,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56761,
       "num": 56761,
       "word": "恋与厦门漫步",
@@ -15809,14 +15857,6 @@
       "onboard_time": 1701622407,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 48129,
-      "num": 825297,
-      "word": "太空视角见证中国式现代化",
-      "onboard_time": 1702047398,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47993,
