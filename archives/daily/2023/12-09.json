@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702125979960,
+  "endTime": 1702127935706,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1796719,
+      "num": 1796719,
+      "word": "男子裤裆藏3只小动物过海关被查",
+      "onboard_time": 1702123415,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1583739,
       "num": 1583739,
       "word": "车厘子价格终于开始跌了",
@@ -79,6 +87,14 @@
       "num": 1515325,
       "word": "王楚钦孙颖莎1比2日本组合",
       "onboard_time": 1702124376,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1508896,
+      "num": 1508896,
+      "word": "樊振东状态",
+      "onboard_time": 1702127315,
       "rank": 3,
       "category": "体育"
     },
@@ -128,14 +144,6 @@
       "word": "东莞一儿童掉进超市面包搅拌机身亡",
       "onboard_time": 1702108709,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1245999,
-      "num": 1245999,
-      "word": "男子裤裆藏3只小动物过海关被查",
-      "onboard_time": 1702123415,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1702117832,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 852087,
+      "num": 852087,
+      "word": "王曼昱此球全体起立",
+      "onboard_time": 1702126540,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 850996,
@@ -563,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502412,
+      "num": 502412,
+      "word": "一念关山 修图",
+      "onboard_time": 1702126178,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501800,
       "num": 501800,
       "word": "国乒vs日本",
@@ -915,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335919,
+      "num": 335919,
+      "word": "王姐太帅了",
+      "onboard_time": 1702127495,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334143,
       "num": 334143,
       "word": "get不到的女明星",
@@ -945,6 +977,14 @@
       "onboard_time": 1702046259,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317568,
+      "num": 317568,
+      "word": "身体8个部位的疼痛可能是心梗前兆",
+      "onboard_time": 1702121795,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 316804,
@@ -1083,6 +1123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 295138,
+      "num": 295138,
+      "word": "恋爱玄学",
+      "onboard_time": 1702124739,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 293144,
       "num": 293144,
       "word": "决赛前一天谷爱凌写了12小时论文",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1702109073,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 286244,
+      "num": 286244,
+      "word": "余承东称华为明年将推出颠覆性产品",
+      "onboard_time": 1702123594,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 285100,
@@ -1155,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276601,
+      "num": 276601,
+      "word": "奔跑吧",
+      "onboard_time": 1702125996,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275734,
       "num": 275734,
       "word": "每次疫情对男性伤害可能会更大",
@@ -1179,20 +1243,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272965,
+      "num": 272965,
+      "word": "化妆的尽头",
+      "onboard_time": 1702127074,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 271323,
       "num": 271323,
       "word": "李文龙世界杯1500米亚军",
       "onboard_time": 1702111111,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 271065,
-      "num": 271065,
-      "word": "身体8个部位的疼痛可能是心梗前兆",
-      "onboard_time": 1702121795,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 270980,
@@ -1219,20 +1283,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264000,
-      "num": 264000,
-      "word": "恋爱玄学",
-      "onboard_time": 1702124739,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 258147,
       "num": 258147,
       "word": "声生不息",
       "onboard_time": 1702099114,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255345,
+      "num": 255345,
+      "word": "清融住院",
+      "onboard_time": 1702126594,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 254971,
@@ -1289,6 +1353,14 @@
       "onboard_time": 1702099414,
       "rank": 24,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 248980,
+      "num": 248980,
+      "word": "吴京还是看了那期王牌",
+      "onboard_time": 1702127435,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 248617,
@@ -1483,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222163,
+      "num": 222163,
+      "word": "王曼昱3比0早田希娜",
+      "onboard_time": 1702126417,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221319,
       "num": 221319,
       "word": "一念关山",
@@ -1563,12 +1643,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 211969,
-      "num": 211969,
-      "word": "余承东称华为明年将推出颠覆性产品",
-      "onboard_time": 1702123594,
-      "rank": 36,
-      "category": "数码"
+      "raw_hot": 211588,
+      "num": 211588,
+      "word": "新闻女王 新婚祝福",
+      "onboard_time": 1702126357,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 211300,
@@ -1617,6 +1697,14 @@
       "onboard_time": 1702083452,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208266,
+      "num": 208266,
+      "word": "刘宇翻跳sweetvenom",
+      "onboard_time": 1702126957,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 207990,
@@ -1689,6 +1777,14 @@
       "onboard_time": 1702088672,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200838,
+      "num": 200838,
+      "word": "狼队飞车九冠",
+      "onboard_time": 1702127376,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 200653,
@@ -2051,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157865,
+      "num": 157865,
+      "word": "Ruler 最佳外援",
+      "onboard_time": 1702127737,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157638,
       "num": 157638,
       "word": "白鹿撕名牌环节好拼",
@@ -2065,6 +2169,14 @@
       "onboard_time": 1702051177,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155692,
+      "num": 155692,
+      "word": "徐杰受伤",
+      "onboard_time": 1702127918,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 155296,
@@ -2435,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114557,
+      "num": 273971,
+      "word": "谷爱凌边做防护边穿装备边赶论文",
+      "onboard_time": 1702126058,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111843,
       "num": 111843,
       "word": "F6",
@@ -2681,6 +2801,14 @@
       "onboard_time": 1702069033,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 5315,
+      "num": 1512246,
+      "word": "太空种菜还能调节航天员情绪",
+      "onboard_time": 1702127918,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
