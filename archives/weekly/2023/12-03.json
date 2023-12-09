@@ -1,6 +1,6 @@
 {
   "startTime": 1701534060283,
-  "endTime": 1702092881065,
+  "endTime": 1702095658829,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -339,6 +339,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 2751553,
+      "num": 2751553,
+      "word": "南昌20死19伤重大交通事故调查报告",
+      "onboard_time": 1702093771,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2711641,
       "num": 2711641,
       "word": "丁海寅 夜店常客",
@@ -473,6 +481,14 @@
       "onboard_time": 1702084772,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2341092,
+      "num": 592071,
+      "word": "TFBOYS你们敢耍老子",
+      "onboard_time": 1702091553,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 2325769,
@@ -1059,6 +1075,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1493076,
+      "num": 1493076,
+      "word": "车厘子价格终于开始跌了",
+      "onboard_time": 1702091971,
+      "rank": 5,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1493064,
       "num": 1018362,
       "word": "虞书欣 GQ惊喜嘉宾",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1701931291,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1321504,
-      "num": 484074,
-      "word": "TFBOYS你们敢耍老子",
-      "onboard_time": 1702091553,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 1318739,
@@ -2371,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 741015,
+      "num": 741015,
+      "word": "文科 服务业",
+      "onboard_time": 1702091553,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740925,
       "num": 305635,
       "word": "闫妮关晓彤 微醺母女",
@@ -2843,6 +2867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 658293,
+      "num": 658293,
+      "word": "电视喂什么 观众就吃什么",
+      "onboard_time": 1702092814,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 657369,
       "num": 351874,
       "word": "杨紫李现前后走红毯",
@@ -2889,6 +2921,14 @@
       "onboard_time": 1701696875,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 646740,
+      "num": 646740,
+      "word": "香奈儿假刘海发带",
+      "onboard_time": 1702094016,
+      "rank": 7,
+      "category": "时尚"
     },
     {
       "raw_hot": 646592,
@@ -3163,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613133,
+      "num": 613133,
+      "word": "春晚导演看完汗流浃背了",
+      "onboard_time": 1702092513,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 612245,
       "num": 509615,
       "word": "丁太升 不开麦半开麦都是假唱",
@@ -3209,14 +3257,6 @@
       "onboard_time": 1701671016,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 604202,
-      "num": 604202,
-      "word": "车厘子价格终于开始跌了",
-      "onboard_time": 1702091971,
-      "rank": 5,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 602866,
@@ -3385,6 +3425,14 @@
       "onboard_time": 1702046561,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 585254,
+      "num": 585254,
+      "word": "古茗小程序崩了",
+      "onboard_time": 1702094975,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 585091,
@@ -4473,14 +4521,6 @@
       "onboard_time": 1701822999,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 482197,
-      "num": 482197,
-      "word": "文科 服务业",
-      "onboard_time": 1702091553,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481737,
@@ -8131,6 +8171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292486,
+      "num": 292486,
+      "word": "世界是一个巨大的娟子",
+      "onboard_time": 1702092814,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292330,
       "num": 292330,
       "word": "加拿大超级猪入侵美国",
@@ -8481,6 +8529,14 @@
       "onboard_time": 1701957339,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282068,
+      "num": 282068,
+      "word": "苏翊鸣世界杯第一晋级",
+      "onboard_time": 1702093893,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 281503,
@@ -9979,6 +10035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233652,
+      "num": 233652,
+      "word": "谷爱凌首轮排第一",
+      "onboard_time": 1702094194,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233620,
       "num": 233620,
       "word": "龘是什么意思",
@@ -11011,14 +11075,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210756,
-      "num": 210756,
-      "word": "春晚导演看完汗流浃背了",
-      "onboard_time": 1702092513,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 210666,
       "num": 210666,
       "word": "东北1米7长冰糖葫芦1串10元",
@@ -11065,6 +11121,14 @@
       "onboard_time": 1701875323,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210417,
+      "num": 210417,
+      "word": "车厘子 降价",
+      "onboard_time": 1702093355,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 210310,
@@ -11129,6 +11193,14 @@
       "onboard_time": 1701594396,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209239,
+      "num": 209239,
+      "word": "军队文职",
+      "onboard_time": 1702079666,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 209203,
@@ -13651,6 +13723,14 @@
       "category": "综艺,社会新闻"
     },
     {
+      "raw_hot": 163803,
+      "num": 163803,
+      "word": "五月天巴黎现场",
+      "onboard_time": 1702093233,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163664,
       "num": 163664,
       "word": "深圳马拉松鸣枪开跑",
@@ -13955,6 +14035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157726,
+      "num": 157726,
+      "word": "男子强行将女子和小孩拖出保时捷",
+      "onboard_time": 1702095393,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157582,
       "num": 157582,
       "word": "原来发疯真的不分年龄",
@@ -14027,6 +14115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155627,
+      "num": 155627,
+      "word": "谷爱凌比赛也得考试",
+      "onboard_time": 1702094075,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155597,
       "num": 155597,
       "word": "山体落石从胡歌头上飞过",
@@ -14073,6 +14169,14 @@
       "onboard_time": 1701589473,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154355,
+      "num": 154355,
+      "word": "花花和谭爷爷的对峙瞬间",
+      "onboard_time": 1702095093,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154212,
@@ -14307,6 +14411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149960,
+      "num": 149960,
+      "word": "雷霆vs勇士",
+      "onboard_time": 1702093712,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149887,
       "num": 149887,
       "word": "檀健次周也这么会亲不要命啦",
@@ -14513,6 +14625,14 @@
       "onboard_time": 1701561985,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145792,
+      "num": 145792,
+      "word": "东京漫展",
+      "onboard_time": 1702093355,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 145760,
@@ -14859,6 +14979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138832,
+      "num": 138832,
+      "word": "谷爱凌出战世界杯决赛",
+      "onboard_time": 1702092996,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138680,
       "num": 138680,
       "word": "东北小孩 玩手绢",
@@ -15113,14 +15241,6 @@
       "onboard_time": 1702019618,
       "rank": 49,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 133262,
-      "num": 133262,
-      "word": "电视喂什么 观众就吃什么",
-      "onboard_time": 1702092814,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 132929,
@@ -15499,14 +15619,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 122127,
-      "num": 122127,
-      "word": "世界是一个巨大的娟子",
-      "onboard_time": 1702092814,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122104,
       "num": 122104,
       "word": "李沁体态",
@@ -15641,14 +15753,6 @@
       "onboard_time": 1701986054,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 116574,
-      "num": 116574,
-      "word": "军队文职",
-      "onboard_time": 1702079666,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 116175,
@@ -16443,6 +16547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62525,
+      "num": 1038439,
+      "word": "2023那些浪漫又戳心的同框",
+      "onboard_time": 1702086690,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62311,
       "num": 309752,
       "word": "被大自然的奇观惊艳到",
@@ -16561,14 +16673,6 @@
       "onboard_time": 1701691656,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 50872,
-      "num": 1038439,
-      "word": "2023那些浪漫又戳心的同框",
-      "onboard_time": 1702086690,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50149,
@@ -16857,6 +16961,14 @@
       "onboard_time": 1701547994,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31011,
+      "num": 154644,
+      "word": "理解徐志胜 成为徐志省",
+      "onboard_time": 1702094431,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 30728,

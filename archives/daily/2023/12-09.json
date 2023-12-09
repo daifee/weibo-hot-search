@@ -1,7 +1,15 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702092881065,
+  "endTime": 1702095658829,
   "band_list": [
+    {
+      "raw_hot": 2751553,
+      "num": 2751553,
+      "word": "南昌20死19伤重大交通事故调查报告",
+      "onboard_time": 1702093771,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2369633,
       "num": 2369633,
@@ -11,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2341092,
+      "num": 592071,
+      "word": "TFBOYS你们敢耍老子",
+      "onboard_time": 1702091553,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1855251,
       "num": 1855251,
       "word": "出生率下降导致幼儿园关停潮",
       "onboard_time": 1702049435,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1493076,
+      "num": 1493076,
+      "word": "车厘子价格终于开始跌了",
+      "onboard_time": 1702091971,
+      "rank": 5,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1440766,
@@ -41,14 +65,6 @@
       "onboard_time": 1702078448,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1321504,
-      "num": 484074,
-      "word": "TFBOYS你们敢耍老子",
-      "onboard_time": 1702091553,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 1007231,
@@ -91,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 741015,
+      "num": 741015,
+      "word": "文科 服务业",
+      "onboard_time": 1702091553,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 714230,
       "num": 714230,
       "word": "程序员每月只给自己留2千妻子却要离婚",
@@ -131,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658293,
+      "num": 658293,
+      "word": "电视喂什么 观众就吃什么",
+      "onboard_time": 1702092814,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655126,
       "num": 655126,
       "word": "虞书欣改妆",
       "onboard_time": 1702045959,
       "rank": 5,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 646740,
+      "num": 646740,
+      "word": "香奈儿假刘海发带",
+      "onboard_time": 1702094016,
+      "rank": 7,
+      "category": "时尚"
     },
     {
       "raw_hot": 641310,
@@ -155,20 +195,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 613133,
+      "num": 613133,
+      "word": "春晚导演看完汗流浃背了",
+      "onboard_time": 1702092513,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 605551,
       "num": 380882,
       "word": "解清帅已辞职",
       "onboard_time": 1702037854,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 604202,
-      "num": 604202,
-      "word": "车厘子价格终于开始跌了",
-      "onboard_time": 1702091971,
-      "rank": 5,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 597456,
@@ -185,6 +225,14 @@
       "onboard_time": 1702089631,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585254,
+      "num": 585254,
+      "word": "古茗小程序崩了",
+      "onboard_time": 1702094975,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 585091,
@@ -241,14 +289,6 @@
       "onboard_time": 1702083874,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 482197,
-      "num": 482197,
-      "word": "文科 服务业",
-      "onboard_time": 1702091553,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464644,
@@ -475,6 +515,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292486,
+      "num": 292486,
+      "word": "世界是一个巨大的娟子",
+      "onboard_time": 1702092814,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 282068,
+      "num": 282068,
+      "word": "苏翊鸣世界杯第一晋级",
+      "onboard_time": 1702093893,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254971,
       "num": 254971,
       "word": "谷爱凌 一个黑粉100个朋友",
@@ -563,6 +619,14 @@
       "category": "数码,游戏"
     },
     {
+      "raw_hot": 233652,
+      "num": 233652,
+      "word": "谷爱凌首轮排第一",
+      "onboard_time": 1702094194,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229903,
       "num": 210461,
       "word": "终于有人把这两个眼妆说清楚了",
@@ -587,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221319,
+      "num": 221319,
+      "word": "一念关山",
+      "onboard_time": 1702093771,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214986,
       "num": 214986,
       "word": "姨妈血不是废血",
@@ -603,14 +675,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 210756,
-      "num": 210756,
-      "word": "春晚导演看完汗流浃背了",
-      "onboard_time": 1702092513,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 210659,
       "num": 210659,
       "word": "不到10cm的距离看李现",
@@ -619,12 +683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210417,
+      "num": 210417,
+      "word": "车厘子 降价",
+      "onboard_time": 1702093355,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210310,
       "num": 210310,
       "word": "李同光 心碎小狗",
       "onboard_time": 1702090892,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209239,
+      "num": 209239,
+      "word": "军队文职",
+      "onboard_time": 1702079666,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 208489,
@@ -779,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163803,
+      "num": 163803,
+      "word": "五月天巴黎现场",
+      "onboard_time": 1702093233,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162005,
       "num": 162005,
       "word": "人年轻时要多见不同的气候和地貌",
@@ -803,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157726,
+      "num": 157726,
+      "word": "男子强行将女子和小孩拖出保时捷",
+      "onboard_time": 1702095393,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156315,
       "num": 156315,
       "word": "林俊杰邀你点歌",
@@ -811,11 +907,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155627,
+      "num": 155627,
+      "word": "谷爱凌比赛也得考试",
+      "onboard_time": 1702094075,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155191,
       "num": 155191,
       "word": "盘点2023",
       "onboard_time": 1702087954,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154355,
+      "num": 154355,
+      "word": "花花和谭爷爷的对峙瞬间",
+      "onboard_time": 1702095093,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -843,12 +955,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149960,
+      "num": 149960,
+      "word": "雷霆vs勇士",
+      "onboard_time": 1702093712,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149887,
       "num": 149887,
       "word": "檀健次周也这么会亲不要命啦",
       "onboard_time": 1702078223,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145792,
+      "num": 145792,
+      "word": "东京漫展",
+      "onboard_time": 1702093355,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 144590,
@@ -883,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138832,
+      "num": 138832,
+      "word": "谷爱凌出战世界杯决赛",
+      "onboard_time": 1702092996,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135804,
       "num": 135804,
       "word": "以爱为营",
@@ -905,14 +1041,6 @@
       "onboard_time": 1702045658,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 133262,
-      "num": 133262,
-      "word": "电视喂什么 观众就吃什么",
-      "onboard_time": 1702092814,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 129956,
@@ -939,14 +1067,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 122127,
-      "num": 122127,
-      "word": "世界是一个巨大的娟子",
-      "onboard_time": 1702092814,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120869,
       "num": 120869,
       "word": "关晓彤 孔雀公主",
@@ -969,14 +1089,6 @@
       "onboard_time": 1702082971,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 116574,
-      "num": 116574,
-      "word": "军队文职",
-      "onboard_time": 1702079666,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 111843,
@@ -1075,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62525,
+      "num": 1038439,
+      "word": "2023那些浪漫又戳心的同框",
+      "onboard_time": 1702086690,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57390,
       "num": 63622,
       "word": "郭德纲妻子持股的公司被强执263万",
@@ -1087,14 +1207,6 @@
       "num": 1079705,
       "word": "太空视角见证中国式现代化",
       "onboard_time": 1702047398,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50872,
-      "num": 1038439,
-      "word": "2023那些浪漫又戳心的同框",
-      "onboard_time": 1702086690,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -1121,6 +1233,14 @@
       "onboard_time": 1702046140,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31011,
+      "num": 154644,
+      "word": "理解徐志胜 成为徐志省",
+      "onboard_time": 1702094431,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 27907,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1702095658829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2751553,
+        "num": 2751553,
+        "word": "南昌20死19伤重大交通事故调查报告",
+        "onboard_time": 1702093771,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1493076,
+        "num": 1493076,
+        "word": "车厘子价格终于开始跌了",
+        "onboard_time": 1702091971,
+        "rank": 1,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 62525,
+        "num": 996440,
+        "word": "2023那些浪漫又戳心的同框",
+        "onboard_time": 1702086690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864779,
+        "num": 864779,
+        "word": "捡别人身份证结婚害对方无法登记结婚",
+        "onboard_time": 1702084772,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760283,
+        "num": 760283,
+        "word": "解清帅拒绝父亲送3房1车",
+        "onboard_time": 1702086630,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741015,
+        "num": 741015,
+        "word": "文科 服务业",
+        "onboard_time": 1702091553,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658293,
+        "num": 658293,
+        "word": "电视喂什么 观众就吃什么",
+        "onboard_time": 1702092814,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646740,
+        "num": 646740,
+        "word": "香奈儿假刘海发带",
+        "onboard_time": 1702094016,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 613133,
+        "num": 613133,
+        "word": "春晚导演看完汗流浃背了",
+        "onboard_time": 1702092513,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 597325,
+        "num": 597325,
+        "word": "周杰伦演唱会 提前半年抢票",
+        "onboard_time": 1702090772,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2341092,
+        "num": 592071,
+        "word": "TFBOYS你们敢耍老子",
+        "onboard_time": 1702091553,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585254,
+        "num": 585254,
+        "word": "古茗小程序崩了",
+        "onboard_time": 1702094975,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 556612,
+        "num": 556612,
+        "word": "刘诗诗 戏份",
+        "onboard_time": 1702082191,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477014,
+        "num": 477014,
+        "word": "东京迪士尼米妮被同事掀裙子",
+        "onboard_time": 1702089631,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365355,
+        "num": 365355,
+        "word": "刘冲 我身高176",
+        "onboard_time": 1702086991,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336907,
+        "num": 336907,
+        "word": "出生率下降导致幼儿园关停潮",
+        "onboard_time": 1702049435,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318991,
+        "num": 318991,
+        "word": "朱丹 王牌主持人实力",
+        "onboard_time": 1702080688,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305151,
+        "num": 305151,
+        "word": "刘诗诗编辑记录",
+        "onboard_time": 1702088131,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292486,
+        "num": 292486,
+        "word": "世界是一个巨大的娟子",
+        "onboard_time": 1702092814,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282068,
+        "num": 282068,
+        "word": "苏翊鸣世界杯第一晋级",
+        "onboard_time": 1702093893,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312901,
+        "num": 279751,
+        "word": "女子突发癫痫司机将手指伸到她的牙齿之间",
+        "onboard_time": 1702088553,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274671,
+        "num": 274671,
+        "word": "堆堆袜",
+        "onboard_time": 1702090830,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 270410,
+        "num": 270410,
+        "word": "小杨哥回应徒弟直播间开播秒封",
+        "onboard_time": 1702080209,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 267642,
+        "num": 267642,
+        "word": "日本一海岸现大量沙丁鱼尸体",
+        "onboard_time": 1702085793,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235921,
+        "num": 235921,
+        "word": "杨幂易烊千玺刘冲合照",
+        "onboard_time": 1702089033,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233652,
+        "num": 233652,
+        "word": "谷爱凌首轮排第一",
+        "onboard_time": 1702094194,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230734,
+        "num": 230734,
+        "word": "经常早醒的人要警惕4种病",
+        "onboard_time": 1702085552,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221319,
+        "num": 221319,
+        "word": "一念关山",
+        "onboard_time": 1702093771,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214466,
+        "num": 214466,
+        "word": "花33 劳斯莱斯",
+        "onboard_time": 1702078765,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 210417,
+        "num": 210417,
+        "word": "车厘子 降价",
+        "onboard_time": 1702093355,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210264,
+        "num": 210264,
+        "word": "陆虎大大方方的爱特别好",
+        "onboard_time": 1702090352,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209239,
+        "num": 209239,
+        "word": "军队文职",
+        "onboard_time": 1702079666,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206671,
+        "num": 206671,
+        "word": "五月天在巴黎真唱能让黑暗过去吗",
+        "onboard_time": 1702090711,
+        "rank": 32,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 194248,
+        "num": 194248,
+        "word": "官方通报警务辅助人员称要查网友个人信息",
+        "onboard_time": 1702077379,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 163803,
+        "num": 163803,
+        "word": "五月天巴黎现场",
+        "onboard_time": 1702093233,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157726,
+        "num": 157726,
+        "word": "男子强行将女子和小孩拖出保时捷",
+        "onboard_time": 1702095393,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157020,
+        "num": 157020,
+        "word": "花33 华宵一",
+        "onboard_time": 1702087831,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156810,
+        "num": 156810,
+        "word": "中国海警对菲律宾3艘船只实施管控",
+        "onboard_time": 1702091312,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155627,
+        "num": 155627,
+        "word": "谷爱凌比赛也得考试",
+        "onboard_time": 1702094075,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31011,
+        "num": 154644,
+        "word": "理解徐志胜 成为徐志省",
+        "onboard_time": 1702094431,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154355,
+        "num": 154355,
+        "word": "花花和谭爷爷的对峙瞬间",
+        "onboard_time": 1702095093,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154161,
+        "num": 154161,
+        "word": "肖战 红海",
+        "onboard_time": 1702046436,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149960,
+        "num": 149960,
+        "word": "雷霆vs勇士",
+        "onboard_time": 1702093712,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149607,
+        "num": 149607,
+        "word": "警方通报中学生被同学刺伤致死",
+        "onboard_time": 1702086211,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145792,
+        "num": 145792,
+        "word": "东京漫展",
+        "onboard_time": 1702093355,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143074,
+        "num": 143074,
+        "word": "李同光 心碎小狗",
+        "onboard_time": 1702090892,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138832,
+        "num": 138832,
+        "word": "谷爱凌出战世界杯决赛",
+        "onboard_time": 1702092996,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138203,
+        "num": 138203,
+        "word": "meiko TES",
+        "onboard_time": 1702082371,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133970,
+        "num": 133970,
+        "word": "徐冬冬退赛",
+        "onboard_time": 1702084112,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133745,
+        "num": 133745,
+        "word": "周杰伦福州抢票",
+        "onboard_time": 1702088732,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
