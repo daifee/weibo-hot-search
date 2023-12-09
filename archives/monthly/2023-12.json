@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702107250860,
+  "endTime": 1702110033091,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -2723,6 +2723,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 809618,
+      "num": 353273,
+      "word": "东莞一儿童掉进超市面包搅拌机身亡",
+      "onboard_time": 1702108709,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808926,
+      "num": 808926,
+      "word": "和导师的关系有点暧昧了",
+      "onboard_time": 1702107633,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 808071,
       "num": 808071,
       "word": "杨幂赵丽颖 酱园弄",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1701392913,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 772146,
+      "num": 772146,
+      "word": "原来茶位费是可以拒绝的",
+      "onboard_time": 1702108170,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 771539,
@@ -6027,6 +6051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 446935,
+      "num": 446935,
+      "word": "萨摩耶 自己哄自己睡觉",
+      "onboard_time": 1702105951,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 446474,
       "num": 446474,
       "word": "男子买彩票中11万被告知忘出票",
@@ -7179,6 +7211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 394268,
+      "num": 394268,
+      "word": "67岁老人握妻子手买人生第一套房",
+      "onboard_time": 1702105530,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393846,
       "num": 347672,
       "word": "曾舜晞吃上席了",
@@ -7641,14 +7681,6 @@
       "onboard_time": 1701936161,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 377245,
-      "num": 377245,
-      "word": "67岁老人握妻子手买人生第一套房",
-      "onboard_time": 1702105530,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376899,
@@ -8217,6 +8249,14 @@
       "onboard_time": 1701737915,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 353785,
+      "num": 353785,
+      "word": "郭晓婷 专注追美美如意",
+      "onboard_time": 1702106971,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 353704,
@@ -9251,14 +9291,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 316232,
-      "num": 316232,
-      "word": "萨摩耶 自己哄自己睡觉",
-      "onboard_time": 1702105951,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 315697,
       "num": 315697,
       "word": "银枝玫瑰",
@@ -9561,6 +9593,14 @@
       "onboard_time": 1701618935,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 309395,
+      "num": 309395,
+      "word": "东航MU533航班空中放油后备降浦东机场",
+      "onboard_time": 1702109370,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309129,
@@ -9945,14 +9985,6 @@
       "onboard_time": 1701768223,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 301056,
-      "num": 301056,
-      "word": "郭晓婷 专注追美美如意",
-      "onboard_time": 1702106971,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 300964,
@@ -10507,6 +10539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289872,
+      "num": 289872,
+      "word": "封神三人组 作战默契",
+      "onboard_time": 1702109073,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 289725,
       "num": 200401,
       "word": "与凤行预约人数",
@@ -10769,6 +10809,14 @@
       "onboard_time": 1701957339,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282816,
+      "num": 249857,
+      "word": "为什么领导从不提拔老实人",
+      "onboard_time": 1702107030,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 282068,
@@ -11475,6 +11523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 266009,
+      "num": 266009,
+      "word": "一闪一闪亮星星路演票选地点公布",
+      "onboard_time": 1702109972,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265717,
       "num": 265717,
       "word": "奥沙利文致谢丁俊晖",
@@ -11665,6 +11721,14 @@
       "onboard_time": 1701946903,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 260148,
+      "num": 260148,
+      "word": "LPL全明星红毯",
+      "onboard_time": 1702109430,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 259836,
@@ -13091,6 +13155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230162,
+      "num": 230162,
+      "word": "王心凌因为谁坐在了韩红身边",
+      "onboard_time": 1702109612,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230003,
       "num": 230003,
       "word": "平均每分钟就有1人因艾滋病死亡",
@@ -13809,6 +13881,14 @@
       "onboard_time": 1701562104,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 216930,
+      "num": 195447,
+      "word": "春楠给关晓彤化的雀翎妆",
+      "onboard_time": 1702108771,
+      "rank": 30,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 216846,
@@ -14803,6 +14883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204459,
+      "num": 204459,
+      "word": "刘少昂林孝埈晋级男子500米决赛",
+      "onboard_time": 1702108891,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 204303,
       "num": 195631,
       "word": "U17世界杯决赛",
@@ -15499,6 +15587,14 @@
       "category": "健康医疗,美妆"
     },
     {
+      "raw_hot": 196179,
+      "num": 196179,
+      "word": "韩国8比6德国",
+      "onboard_time": 1702107210,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196170,
       "num": 196170,
       "word": "滤镜开机",
@@ -15513,14 +15609,6 @@
       "onboard_time": 1701694776,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195996,
-      "num": 195996,
-      "word": "为什么领导从不提拔老实人",
-      "onboard_time": 1702107030,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 195789,
@@ -15689,6 +15777,14 @@
       "onboard_time": 1701504571,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194477,
+      "num": 194477,
+      "word": "赵露思1首OST11套衣服",
+      "onboard_time": 1702109552,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 194365,
@@ -17411,6 +17507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170313,
+      "num": 170313,
+      "word": "无纸化学习",
+      "onboard_time": 1702109370,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 170307,
       "num": 434488,
       "word": "原神三星堆联动",
@@ -17505,6 +17609,14 @@
       "onboard_time": 1702085491,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169528,
+      "num": 169528,
+      "word": "谷歌gemini 造假",
+      "onboard_time": 1702107329,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 169502,
@@ -19083,6 +19195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 147602,
+      "num": 147602,
+      "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
+      "onboard_time": 1702107935,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147593,
       "num": 147593,
       "word": "国乒混团世界杯适应场地训练",
@@ -20387,6 +20507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127922,
+      "num": 127922,
+      "word": "谷爱凌空中秀抓板技术",
+      "onboard_time": 1702109133,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127726,
       "num": 127726,
       "word": "朴宰范模仿秀",
@@ -20803,14 +20931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119116,
-      "num": 119116,
-      "word": "韩国8比6德国",
-      "onboard_time": 1702107210,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119065,
       "num": 119065,
       "word": "西辣蛋",
@@ -21153,6 +21273,14 @@
       "onboard_time": 1701795205,
       "rank": 36,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 107098,
+      "num": 107098,
+      "word": "邓紫棋分棋",
+      "onboard_time": 1702107935,
+      "rank": 48,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 107035,
@@ -22873,6 +23001,14 @@
       "onboard_time": 1701682237,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13125,
+      "num": 919828,
+      "word": "C919首架机交付一周年",
+      "onboard_time": 1702109792,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12935,
