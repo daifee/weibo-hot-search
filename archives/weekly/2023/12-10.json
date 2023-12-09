@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702139786301,
+  "endTime": 1702142075629,
   "band_list": [
     {
       "raw_hot": 1755734,
@@ -17,6 +17,14 @@
       "onboard_time": 1702131942,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 824651,
+      "num": 824651,
+      "word": "拖拽妻儿男子回应称非常后悔",
+      "onboard_time": 1702138052,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 792946,
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450332,
+      "num": 450332,
+      "word": "决定朋友圈不再屏蔽爸妈",
+      "onboard_time": 1702119273,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 424760,
       "num": 424760,
       "word": "19岁女孩上悬赏公告因高颜值受关注",
@@ -81,22 +97,6 @@
       "onboard_time": 1702123415,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383014,
-      "num": 383014,
-      "word": "拖拽妻儿男子回应称非常后悔",
-      "onboard_time": 1702138052,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326322,
-      "num": 326322,
-      "word": "决定朋友圈不再屏蔽爸妈",
-      "onboard_time": 1702119273,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 321071,
@@ -185,6 +185,14 @@
       "onboard_time": 1702125033,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200038,
+      "num": 200038,
+      "word": "唐嫣清宫造型",
+      "onboard_time": 1702139910,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 192818,
@@ -291,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141581,
+      "num": 113644,
+      "word": "李一桐 笑眼盈盈这个词的杀伤力",
+      "onboard_time": 1702140269,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140455,
       "num": 140455,
       "word": "梦鱼 特别有安全感的搭档",
@@ -395,12 +411,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 68031,
+      "raw_hot": 93904,
       "num": 101672,
       "word": "院士登台演讲穿了双老化掉渣的鞋",
       "onboard_time": 1702138411,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92896,
+      "num": 88642,
+      "word": "林俊杰 浪漫广西",
+      "onboard_time": 1702119335,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 53962,
