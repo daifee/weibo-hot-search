@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702095658829,
+  "endTime": 1702096472825,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2341092,
-      "num": 592071,
+      "num": 613674,
       "word": "TFBOYS你们敢耍老子",
       "onboard_time": 1702091553,
       "rank": 18,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1493076,
-      "num": 1493076,
+      "raw_hot": 1583739,
+      "num": 1583739,
       "word": "车厘子价格终于开始跌了",
       "onboard_time": 1702091971,
       "rank": 5,
@@ -107,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 753660,
+      "num": 753660,
+      "word": "电视喂什么 观众就吃什么",
+      "onboard_time": 1702092814,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 741015,
       "num": 741015,
       "word": "文科 服务业",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 700889,
+      "num": 700889,
+      "word": "周杰伦演唱会 提前半年抢票",
+      "onboard_time": 1702090772,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 688290,
       "num": 405983,
       "word": "肖战 红海",
@@ -155,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658293,
-      "num": 658293,
-      "word": "电视喂什么 观众就吃什么",
-      "onboard_time": 1702092814,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 672876,
+      "num": 672876,
+      "word": "春晚导演看完汗流浃背了",
+      "onboard_time": 1702092513,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 655126,
@@ -187,20 +203,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 634974,
+      "num": 634974,
+      "word": "古茗小程序崩了",
+      "onboard_time": 1702094975,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 616748,
       "num": 520353,
       "word": "短视频成瘾的负面影响",
       "onboard_time": 1702082851,
       "rank": 11,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 613133,
-      "num": 613133,
-      "word": "春晚导演看完汗流浃背了",
-      "onboard_time": 1702092513,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 605551,
@@ -211,28 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597456,
-      "num": 597456,
-      "word": "周杰伦演唱会 提前半年抢票",
-      "onboard_time": 1702090772,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 588155,
       "num": 588155,
       "word": "东京迪士尼米妮被同事掀裙子",
       "onboard_time": 1702089631,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585254,
-      "num": 585254,
-      "word": "古茗小程序崩了",
-      "onboard_time": 1702094975,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 585091,
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375686,
+      "num": 375686,
+      "word": "堆堆袜",
+      "onboard_time": 1702090830,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 360815,
       "num": 360815,
       "word": "警方通报中学生被同学刺伤致死",
@@ -392,6 +400,14 @@
       "word": "女子突发癫痫司机将手指伸到她的牙齿之间",
       "onboard_time": 1702088553,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354806,
+      "num": 270412,
+      "word": "男子强行将女子和小孩拖出保时捷",
+      "onboard_time": 1702095393,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -459,14 +475,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 302840,
-      "num": 302840,
-      "word": "堆堆袜",
-      "onboard_time": 1702090830,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 302766,
       "num": 302766,
       "word": "苗苗钟楚曦六年后再跳绒花",
@@ -529,6 +537,14 @@
       "onboard_time": 1702093893,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270980,
+      "num": 270980,
+      "word": "花花和谭爷爷的对峙瞬间",
+      "onboard_time": 1702095093,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254971,
@@ -659,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217687,
+      "num": 217687,
+      "word": "军队文职",
+      "onboard_time": 1702079666,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 214986,
       "num": 214986,
       "word": "姨妈血不是废血",
@@ -697,14 +721,6 @@
       "onboard_time": 1702090892,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209239,
-      "num": 209239,
-      "word": "军队文职",
-      "onboard_time": 1702079666,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 208489,
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197578,
+      "num": 197578,
+      "word": "汤唯 一家三口一直住在北京",
+      "onboard_time": 1702096294,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197422,
       "num": 197422,
       "word": "全网都知道你爸妈吵架的秘密了",
@@ -793,6 +817,14 @@
       "onboard_time": 1702087051,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 188415,
+      "num": 188415,
+      "word": "谷爱凌比赛也得考试",
+      "onboard_time": 1702094075,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 188051,
@@ -851,6 +883,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177501,
+      "num": 177501,
+      "word": "100年前的不婚女性",
+      "onboard_time": 1702095994,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 176930,
+      "num": 176930,
+      "word": "你好星期六这把拼的是运气",
+      "onboard_time": 1702096294,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169637,
       "num": 169637,
       "word": "收入有差异的伴侣如何聊钱",
@@ -883,20 +931,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159105,
+      "num": 159105,
+      "word": "赵露思王安宇差点就亲上了",
+      "onboard_time": 1702096357,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158136,
       "num": 158136,
       "word": "小李琳经超 上对花轿嫁对郎",
       "onboard_time": 1702069694,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157726,
-      "num": 157726,
-      "word": "男子强行将女子和小孩拖出保时捷",
-      "onboard_time": 1702095393,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156315,
@@ -907,14 +955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155627,
-      "num": 155627,
-      "word": "谷爱凌比赛也得考试",
-      "onboard_time": 1702094075,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155191,
       "num": 155191,
       "word": "盘点2023",
@@ -923,12 +963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154355,
-      "num": 154355,
-      "word": "花花和谭爷爷的对峙瞬间",
-      "onboard_time": 1702095093,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 154442,
+      "num": 154442,
+      "word": "谷爱凌出战世界杯决赛",
+      "onboard_time": 1702092996,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 154179,
@@ -1009,14 +1049,6 @@
       "onboard_time": 1702049797,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138832,
-      "num": 138832,
-      "word": "谷爱凌出战世界杯决赛",
-      "onboard_time": 1702092996,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 135804,
@@ -1187,8 +1219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62525,
-      "num": 1038439,
+      "raw_hot": 67197,
+      "num": 1126786,
       "word": "2023那些浪漫又戳心的同框",
       "onboard_time": 1702086690,
       "rank": 2,
@@ -1219,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41338,
+      "num": 163896,
+      "word": "理解徐志胜 成为徐志省",
+      "onboard_time": 1702094431,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41113,
       "num": 88594,
       "word": "丙烯酰胺是2A类致癌物",
@@ -1233,14 +1273,6 @@
       "onboard_time": 1702046140,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31011,
-      "num": 154644,
-      "word": "理解徐志胜 成为徐志省",
-      "onboard_time": 1702094431,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 27907,

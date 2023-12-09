@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702095658829,
+  "endTime": 1702096472825,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 2341092,
-      "num": 592071,
+      "num": 613674,
       "word": "TFBOYS你们敢耍老子",
       "onboard_time": 1702091553,
       "rank": 18,
@@ -1115,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1583739,
+      "num": 1583739,
+      "word": "车厘子价格终于开始跌了",
+      "onboard_time": 1702091971,
+      "rank": 5,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1581016,
       "num": 1581016,
       "word": "丁程鑫 中考",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1701943544,
       "rank": 14,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1493076,
-      "num": 1493076,
-      "word": "车厘子价格终于开始跌了",
-      "onboard_time": 1702091971,
-      "rank": 5,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1493064,
@@ -2867,6 +2867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 753660,
+      "num": 753660,
+      "word": "电视喂什么 观众就吃什么",
+      "onboard_time": 1702092814,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 751488,
       "num": 751488,
       "word": "刘诗诗 磨皮",
@@ -3195,6 +3203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 700889,
+      "num": 700889,
+      "word": "周杰伦演唱会 提前半年抢票",
+      "onboard_time": 1702090772,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 700367,
       "num": 700367,
       "word": "五月天争议比较大的几个视频",
@@ -3363,6 +3379,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 672876,
+      "num": 672876,
+      "word": "春晚导演看完汗流浃背了",
+      "onboard_time": 1702092513,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 672510,
       "num": 672510,
       "word": "狐妖小红娘竹业篇官宣杀青",
@@ -3473,14 +3497,6 @@
       "onboard_time": 1701951761,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 658293,
-      "num": 658293,
-      "word": "电视喂什么 观众就吃什么",
-      "onboard_time": 1702092814,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 657369,
@@ -3673,6 +3689,14 @@
       "onboard_time": 1701598414,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 634974,
+      "num": 634974,
+      "word": "古茗小程序崩了",
+      "onboard_time": 1702094975,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 634608,
@@ -3899,14 +3923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613133,
-      "num": 613133,
-      "word": "春晚导演看完汗流浃背了",
-      "onboard_time": 1702092513,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 612245,
       "num": 509615,
       "word": "丁太升 不开麦半开麦都是假唱",
@@ -4009,14 +4025,6 @@
       "onboard_time": 1701569794,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 597456,
-      "num": 597456,
-      "word": "周杰伦演唱会 提前半年抢票",
-      "onboard_time": 1702090772,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 596398,
@@ -4145,14 +4153,6 @@
       "onboard_time": 1702046561,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 585254,
-      "num": 585254,
-      "word": "古茗小程序崩了",
-      "onboard_time": 1702094975,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 585091,
@@ -7547,6 +7547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 375686,
+      "num": 375686,
+      "word": "堆堆袜",
+      "onboard_time": 1702090830,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 375598,
       "num": 375598,
       "word": "漠河 红绿极光",
@@ -8065,6 +8073,14 @@
       "onboard_time": 1701916892,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354806,
+      "num": 270412,
+      "word": "男子强行将女子和小孩拖出保时捷",
+      "onboard_time": 1702095393,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354722,
@@ -9619,14 +9635,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 302840,
-      "num": 302840,
-      "word": "堆堆袜",
-      "onboard_time": 1702090830,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 302766,
       "num": 302766,
       "word": "苗苗钟楚曦六年后再跳绒花",
@@ -11049,6 +11057,14 @@
       "onboard_time": 1701916953,
       "rank": 30,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 270980,
+      "num": 270980,
+      "word": "花花和谭爷爷的对峙瞬间",
+      "onboard_time": 1702095093,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270831,
@@ -13483,6 +13499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217687,
+      "num": 217687,
+      "word": "军队文职",
+      "onboard_time": 1702079666,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217622,
       "num": 217622,
       "word": "周也 甜妹统治区",
@@ -14113,14 +14137,6 @@
       "onboard_time": 1701482614,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209239,
-      "num": 209239,
-      "word": "军队文职",
-      "onboard_time": 1702079666,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 209203,
@@ -15059,6 +15075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197578,
+      "num": 197578,
+      "word": "汤唯 一家三口一直住在北京",
+      "onboard_time": 1702096294,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197322,
       "num": 197322,
       "word": "快船复仇掘金",
@@ -15931,6 +15955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188415,
+      "num": 188415,
+      "word": "谷爱凌比赛也得考试",
+      "onboard_time": 1702094075,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188382,
       "num": 188382,
       "word": "萌兰都快把院子里的树杈盘包浆了",
@@ -16643,6 +16675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177501,
+      "num": 177501,
+      "word": "100年前的不婚女性",
+      "onboard_time": 1702095994,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177400,
       "num": 177400,
       "word": "樊振东气呼呼踢球",
@@ -16657,6 +16697,14 @@
       "onboard_time": 1701436057,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176930,
+      "num": 176930,
+      "word": "你好星期六这把拼的是运气",
+      "onboard_time": 1702096294,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 176659,
@@ -17939,6 +17987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159105,
+      "num": 159105,
+      "word": "赵露思王安宇差点就亲上了",
+      "onboard_time": 1702096357,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159077,
       "num": 159077,
       "word": "演唱会真唱很难么",
@@ -18009,14 +18065,6 @@
       "onboard_time": 1701691833,
       "rank": 2,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 157726,
-      "num": 157726,
-      "word": "男子强行将女子和小孩拖出保时捷",
-      "onboard_time": 1702095393,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157598,
@@ -18163,14 +18211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155627,
-      "num": 155627,
-      "word": "谷爱凌比赛也得考试",
-      "onboard_time": 1702094075,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155597,
       "num": 155597,
       "word": "山体落石从胡歌头上飞过",
@@ -18235,12 +18275,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 154355,
-      "num": 154355,
-      "word": "花花和谭爷爷的对峙瞬间",
-      "onboard_time": 1702095093,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 154442,
+      "num": 154442,
+      "word": "谷爱凌出战世界杯决赛",
+      "onboard_time": 1702092996,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 154318,
@@ -19361,14 +19401,6 @@
       "onboard_time": 1701431554,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138832,
-      "num": 138832,
-      "word": "谷爱凌出战世界杯决赛",
-      "onboard_time": 1702092996,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 138722,
@@ -21419,6 +21451,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 67197,
+      "num": 1126786,
+      "word": "2023那些浪漫又戳心的同框",
+      "onboard_time": 1702086690,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66581,
       "num": 52397,
       "word": "BABYMONSTER MV reaction",
@@ -21497,14 +21537,6 @@
       "onboard_time": 1701559159,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62525,
-      "num": 1038439,
-      "word": "2023那些浪漫又戳心的同框",
-      "onboard_time": 1702086690,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62311,
@@ -21795,6 +21827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41338,
+      "num": 163896,
+      "word": "理解徐志胜 成为徐志省",
+      "onboard_time": 1702094431,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41252,
       "num": 41252,
       "word": "菲律宾发布海啸预警",
@@ -22033,14 +22073,6 @@
       "onboard_time": 1701547994,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31011,
-      "num": 154644,
-      "word": "理解徐志胜 成为徐志省",
-      "onboard_time": 1702094431,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 30728,
