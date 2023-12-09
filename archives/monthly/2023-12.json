@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702136049601,
+  "endTime": 1702138848509,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -1107,6 +1107,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1616556,
+      "num": 1616556,
+      "word": "第一学历",
+      "onboard_time": 1701743793,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1612285,
       "num": 1612285,
       "word": "演员邵逸凡 多次被迫假唱",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1701414333,
       "rank": 22,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1552586,
-      "num": 1552586,
-      "word": "第一学历",
-      "onboard_time": 1701743793,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1548990,
@@ -3985,6 +3985,14 @@
       "onboard_time": 1701593672,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 633314,
+      "num": 633314,
+      "word": "黄晓明带儿子去迪士尼",
+      "onboard_time": 1702136315,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 631522,
@@ -8600,6 +8608,14 @@
       "word": "民警翻20吨垃圾帮居民找回遗失的43000元",
       "onboard_time": 1701568711,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359212,
+      "num": 359212,
+      "word": "花花最近白得发亮",
+      "onboard_time": 1702137213,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -14003,6 +14019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229201,
+      "num": 219562,
+      "word": "有没有人救救檀健次",
+      "onboard_time": 1702135654,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228986,
       "num": 216192,
       "word": "青春环游记5嘉宾",
@@ -14507,14 +14531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219370,
-      "num": 219370,
-      "word": "有没有人救救檀健次",
-      "onboard_time": 1702135654,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219356,
       "num": 190086,
       "word": "一念关山 修罗场真正的爽点",
@@ -14585,6 +14601,14 @@
       "onboard_time": 1701680434,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218557,
+      "num": 218557,
+      "word": "旺卡 甜茶",
+      "onboard_time": 1702136194,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 218517,
@@ -16009,6 +16033,14 @@
       "onboard_time": 1701520354,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201199,
+      "num": 219589,
+      "word": "拖拽妻儿男子回应称非常后悔",
+      "onboard_time": 1702138052,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201106,
@@ -19819,6 +19851,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 154792,
+      "num": 154792,
+      "word": "陈楚生 龇着大牙笑",
+      "onboard_time": 1702136015,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154754,
       "num": 154754,
       "word": "MISSING帮助Ruler走出困境",
@@ -20195,6 +20235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149420,
+      "num": 138545,
+      "word": "你们真的一山更比一山高",
+      "onboard_time": 1702137394,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149357,
       "num": 149357,
       "word": "唐嫣用糖化解所有愤怒",
@@ -20536,14 +20584,6 @@
       "word": "全场围观古巨基吻戏",
       "onboard_time": 1701569195,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145392,
-      "num": 145392,
-      "word": "陈楚生 龇着大牙笑",
-      "onboard_time": 1702136015,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -20971,6 +21011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140455,
+      "num": 140455,
+      "word": "梦鱼 特别有安全感的搭档",
+      "onboard_time": 1702136194,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140444,
       "num": 140444,
       "word": "虞书欣再跳money手势舞",
@@ -21305,6 +21353,14 @@
       "onboard_time": 1702086151,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135097,
+      "num": 121153,
+      "word": "丁程鑫出手速度",
+      "onboard_time": 1702136735,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135072,
@@ -23731,6 +23787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38711,
+      "num": 1512246,
+      "word": "太空种菜还能调节航天员情绪",
+      "onboard_time": 1702127918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38651,
       "num": 1539208,
       "word": "滚滚江水见证生态转型发展之路",
@@ -24385,14 +24449,6 @@
       "onboard_time": 1701868836,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5315,
-      "num": 1512246,
-      "word": "太空种菜还能调节航天员情绪",
-      "onboard_time": 1702127918,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5238,
