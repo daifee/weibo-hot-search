@@ -1,0 +1,410 @@
+{
+  "runTime": 1702084496691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1346973,
+        "num": 1346973,
+        "word": "解清帅和女友有谈婚论嫁",
+        "onboard_time": 1702078448,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1229472,
+        "num": 1229472,
+        "word": "朱丹 王牌主持人实力",
+        "onboard_time": 1702080688,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53738,
+        "num": 1079705,
+        "word": "太空视角见证中国式现代化",
+        "onboard_time": 1702047398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007231,
+        "num": 1007231,
+        "word": "官方通报警务辅助人员称要查网友个人信息",
+        "onboard_time": 1702077379,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 756020,
+        "num": 756020,
+        "word": "刘诗诗 戏份",
+        "onboard_time": 1702082191,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746533,
+        "num": 746533,
+        "word": "小杨哥回应徒弟直播间开播秒封",
+        "onboard_time": 1702080209,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 714230,
+        "num": 714230,
+        "word": "程序员每月只给自己留2千妻子却要离婚",
+        "onboard_time": 1702047339,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641310,
+        "num": 641310,
+        "word": "研究发现被子重睡得香",
+        "onboard_time": 1702077320,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 521940,
+        "num": 521940,
+        "word": "周一围 我爱你但与你无关",
+        "onboard_time": 1702081229,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438109,
+        "num": 438109,
+        "word": "徐冬冬退赛",
+        "onboard_time": 1702084112,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1265459,
+        "num": 434732,
+        "word": "出生率下降导致幼儿园关停潮",
+        "onboard_time": 1702049435,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616748,
+        "num": 430019,
+        "word": "短视频成瘾的负面影响",
+        "onboard_time": 1702082851,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 444263,
+        "num": 426600,
+        "word": "外卖小哥送餐途中被风筝线割喉",
+        "onboard_time": 1702054407,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405983,
+        "num": 405983,
+        "word": "肖战 红海",
+        "onboard_time": 1702046436,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 380882,
+        "num": 380882,
+        "word": "解清帅已辞职",
+        "onboard_time": 1702037854,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380321,
+        "num": 380321,
+        "word": "白鹿张凌赫GQ后台合照",
+        "onboard_time": 1702079486,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 314821,
+        "num": 314821,
+        "word": "杨幂工作室 挡了又好像没挡",
+        "onboard_time": 1702048836,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310456,
+        "num": 310456,
+        "word": "教资面试",
+        "onboard_time": 1702039901,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302766,
+        "num": 302766,
+        "word": "苗苗钟楚曦六年后再跳绒花",
+        "onboard_time": 1702066515,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292600,
+        "num": 292600,
+        "word": "易烊千玺 天生爱豆感",
+        "onboard_time": 1702079245,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407149,
+        "num": 291108,
+        "word": "五月天是否假唱可能不会有答案",
+        "onboard_time": 1702042536,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 276447,
+        "num": 276447,
+        "word": "老公胃癌晚期老婆要卖房治疗医生劝她冷静",
+        "onboard_time": 1702021117,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259251,
+        "num": 259251,
+        "word": "花33 劳斯莱斯",
+        "onboard_time": 1702078765,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 253302,
+        "num": 253302,
+        "word": "get不到的女明星",
+        "onboard_time": 1702080086,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251365,
+        "num": 251365,
+        "word": "瑞幸星巴克回应被检出致癌物",
+        "onboard_time": 1702079427,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248173,
+        "num": 248173,
+        "word": "meiko TES",
+        "onboard_time": 1702082371,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240547,
+        "num": 240547,
+        "word": "支原体肺炎有4怕",
+        "onboard_time": 1702079245,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208489,
+        "num": 208489,
+        "word": "戍边烈士陈祥榕22岁生日",
+        "onboard_time": 1702083452,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208420,
+        "num": 208420,
+        "word": "教资面试真题",
+        "onboard_time": 1702084112,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203979,
+        "num": 203979,
+        "word": "女子银行办业务柜员闭目葛优瘫",
+        "onboard_time": 1702069153,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298225,
+        "num": 203693,
+        "word": "蒿俊闵离婚",
+        "onboard_time": 1702083874,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229903,
+        "num": 203584,
+        "word": "终于有人把这两个眼妆说清楚了",
+        "onboard_time": 1702083452,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 202766,
+        "num": 202766,
+        "word": "原神",
+        "onboard_time": 1702082552,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198026,
+        "num": 198026,
+        "word": "白鹿删博了",
+        "onboard_time": 1702015717,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200022,
+        "num": 195515,
+        "word": "原来王安宇说的恋综是这个意思",
+        "onboard_time": 1702056203,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190882,
+        "num": 190882,
+        "word": "中方回应美否决加沙地带停火决议草案",
+        "onboard_time": 1702078945,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194248,
+        "num": 189565,
+        "word": "八百米跑了5分15秒",
+        "onboard_time": 1702083812,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 188051,
+        "num": 188051,
+        "word": "张本智和说输得太惨了",
+        "onboard_time": 1702080390,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168192,
+        "num": 168192,
+        "word": "偷偷藏不住 神隐隐不了",
+        "onboard_time": 1702039957,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167886,
+        "num": 167886,
+        "word": "女子实名举报武汉大学教授嫖娼赌博收回扣",
+        "onboard_time": 1702037315,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160828,
+        "num": 160828,
+        "word": "宋江洗澡",
+        "onboard_time": 1702049017,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154872,
+        "num": 154872,
+        "word": "人年轻时要多见不同的气候和地貌",
+        "onboard_time": 1702081168,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152853,
+        "num": 152853,
+        "word": "TFBOYS十周年DVD纪录片",
+        "onboard_time": 1702052611,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149887,
+        "num": 149887,
+        "word": "檀健次周也这么会亲不要命啦",
+        "onboard_time": 1702078223,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130522,
+        "num": 130522,
+        "word": "虞书欣改妆",
+        "onboard_time": 1702045959,
+        "rank": 44,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 123459,
+        "num": 123459,
+        "word": "青岛一小区保安持刀连捅外卖员数刀",
+        "onboard_time": 1702046259,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122038,
+        "num": 122038,
+        "word": "辛芷蕾左脚油门右脚刹车",
+        "onboard_time": 1702068374,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119065,
+        "num": 119065,
+        "word": "西辣蛋",
+        "onboard_time": 1702082971,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116574,
+        "num": 116574,
+        "word": "军队文职",
+        "onboard_time": 1702079666,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116069,
+        "num": 116069,
+        "word": "以爱为营",
+        "onboard_time": 1702080809,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化是一项伟大而艰巨的事业#"
+    }
+  }
+}
