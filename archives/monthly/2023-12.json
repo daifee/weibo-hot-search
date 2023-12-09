@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702106131507,
+  "endTime": 1702107250860,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -1523,6 +1523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1320510,
+      "num": 1320510,
+      "word": "Kitty官宣离职",
+      "onboard_time": 1702104269,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1318739,
       "num": 1318739,
       "word": "上海文旅局组织专家评审判定五月天事件",
@@ -2131,8 +2139,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 982977,
-      "num": 982977,
+      "raw_hot": 989399,
+      "num": 989399,
       "word": "大女主 中国特产",
       "onboard_time": 1702103071,
       "rank": 18,
@@ -3113,14 +3121,6 @@
       "onboard_time": 1701694058,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 718107,
-      "num": 718107,
-      "word": "Kitty官宣离职",
-      "onboard_time": 1702104269,
-      "rank": 3,
-      "category": "电竞"
     },
     {
       "raw_hot": 716322,
@@ -6419,6 +6419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429463,
+      "num": 429463,
+      "word": "虞书欣模仿AI",
+      "onboard_time": 1702105053,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 429342,
       "num": 429342,
       "word": "一念关山 AI换脸",
@@ -7635,6 +7643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377245,
+      "num": 377245,
+      "word": "67岁老人握妻子手买人生第一套房",
+      "onboard_time": 1702105530,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376899,
       "num": 376899,
       "word": "解清帅一夜涨粉近百万",
@@ -8329,14 +8345,6 @@
       "onboard_time": 1701910178,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 350236,
-      "num": 350236,
-      "word": "虞书欣模仿AI",
-      "onboard_time": 1702105053,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 350050,
@@ -9243,6 +9251,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 316232,
+      "num": 316232,
+      "word": "萨摩耶 自己哄自己睡觉",
+      "onboard_time": 1702105951,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315697,
       "num": 315697,
       "word": "银枝玫瑰",
@@ -9313,6 +9329,14 @@
       "onboard_time": 1701372434,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314729,
+      "num": 314729,
+      "word": "全明星",
+      "onboard_time": 1702105711,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 314448,
@@ -9489,6 +9513,14 @@
       "onboard_time": 1701610724,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 310345,
+      "num": 310345,
+      "word": "陈楚生你倒是扭头看看古巨基",
+      "onboard_time": 1702105053,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 310322,
@@ -9771,6 +9803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303459,
+      "num": 303459,
+      "word": "邓紫棋演唱会穿婚纱摔倒",
+      "onboard_time": 1702104211,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 303415,
       "num": 303415,
       "word": "杨紫范丞丞肤色差",
@@ -9905,6 +9945,14 @@
       "onboard_time": 1701768223,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301056,
+      "num": 301056,
+      "word": "郭晓婷 专注追美美如意",
+      "onboard_time": 1702106971,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 300964,
@@ -10587,14 +10635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286076,
-      "num": 286076,
-      "word": "邓紫棋演唱会穿婚纱摔倒",
-      "onboard_time": 1702104211,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 285928,
       "num": 285928,
       "word": "EDG老板支持meiko的想法",
@@ -10729,14 +10769,6 @@
       "onboard_time": 1701957339,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282617,
-      "num": 282617,
-      "word": "陈楚生你倒是扭头看看古巨基",
-      "onboard_time": 1702105053,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 282068,
@@ -12291,6 +12323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 245782,
+      "num": 245782,
+      "word": "真正的放下不是删除拉黑",
+      "onboard_time": 1702105832,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245730,
       "num": 245730,
       "word": "胖东来",
@@ -12787,6 +12827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234280,
+      "num": 234280,
+      "word": "林孝埈晋级",
+      "onboard_time": 1702005817,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234079,
       "num": 234079,
       "word": "奶奶去世爷爷紧紧蜷缩在旁边",
@@ -13145,14 +13193,6 @@
       "onboard_time": 1701786460,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 228647,
-      "num": 228647,
-      "word": "林孝埈晋级",
-      "onboard_time": 1702005817,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 228566,
@@ -13859,14 +13899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215727,
-      "num": 215727,
-      "word": "全明星",
-      "onboard_time": 1702105711,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 215703,
       "num": 215703,
       "word": "刘浩存林一脱轨预告",
@@ -14531,6 +14563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207618,
+      "num": 207618,
+      "word": "谁给崔然竣的五三",
+      "onboard_time": 1702106190,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207159,
       "num": 207159,
       "word": "迪丽热巴古城变装",
@@ -15035,20 +15075,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200653,
+      "num": 198937,
+      "word": "难搞的甲方 没脾气的乙方",
+      "onboard_time": 1702105771,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200634,
       "num": 200634,
       "word": "成都混合团体世界杯",
       "onboard_time": 1701687697,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200538,
-      "num": 200538,
-      "word": "67岁老人握妻子手买人生第一套房",
-      "onboard_time": 1702105530,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200432,
@@ -15473,6 +15513,14 @@
       "onboard_time": 1701694776,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195996,
+      "num": 195996,
+      "word": "为什么领导从不提拔老实人",
+      "onboard_time": 1702107030,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 195789,
@@ -17755,14 +17803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165929,
-      "num": 165929,
-      "word": "萨摩耶 自己哄自己睡觉",
-      "onboard_time": 1702105951,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165927,
       "num": 165927,
       "word": "3名小学女生捡2600元交老师报警",
@@ -18529,6 +18569,14 @@
       "onboard_time": 1701522093,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155296,
+      "num": 155296,
+      "word": "谢娜你人还怪好嘞",
+      "onboard_time": 1702105889,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 155229,
@@ -19715,14 +19763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138942,
-      "num": 138942,
-      "word": "真正的放下不是删除拉黑",
-      "onboard_time": 1702105832,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138849,
       "num": 138849,
       "word": "三代鹿人 看再见李可乐哭成狗",
@@ -19795,14 +19835,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 138072,
-      "num": 138072,
-      "word": "谢娜你人还怪好嘞",
-      "onboard_time": 1702105889,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 138057,
       "num": 138057,
       "word": "BIBI看NewJeans的reaction",
@@ -19841,14 +19873,6 @@
       "onboard_time": 1701498393,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 137299,
-      "num": 137299,
-      "word": "难搞的甲方 没脾气的乙方",
-      "onboard_time": 1702105771,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 137107,
@@ -20667,6 +20691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122569,
+      "num": 122569,
+      "word": "为何现在MK不受欢迎了",
+      "onboard_time": 1702106793,
+      "rank": 45,
+      "category": "时尚,社会议题"
+    },
+    {
       "raw_hot": 122545,
       "num": 122545,
       "word": "解清帅上学的地方离老家仅50公里",
@@ -20769,6 +20801,14 @@
       "onboard_time": 1701962385,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119116,
+      "num": 119116,
+      "word": "韩国8比6德国",
+      "onboard_time": 1702107210,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119065,
@@ -22243,6 +22283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40102,
+      "num": 1101856,
+      "word": "朱雀二号遥三运载火箭发射成功",
+      "onboard_time": 1702090231,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39391,
       "num": 1564289,
       "word": "我国快递年业务量首破1200亿件",
@@ -22393,14 +22441,6 @@
       "onboard_time": 1701550394,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 33654,
-      "num": 820232,
-      "word": "朱雀二号遥三运载火箭发射成功",
-      "onboard_time": 1702090231,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33390,
