@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702091887968,
+  "endTime": 1702092881065,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1701931291,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1321504,
+      "num": 484074,
+      "word": "TFBOYS你们敢耍老子",
+      "onboard_time": 1702091553,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1318739,
@@ -3899,6 +3907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 604202,
+      "num": 604202,
+      "word": "车厘子价格终于开始跌了",
+      "onboard_time": 1702091971,
+      "rank": 5,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 603077,
       "num": 603077,
       "word": "2030年终结艾滋病",
@@ -4059,6 +4075,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 588155,
+      "num": 588155,
+      "word": "东京迪士尼米妮被同事掀裙子",
+      "onboard_time": 1702089631,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587384,
       "num": 221205,
       "word": "杨幂大白菜包",
@@ -4120,14 +4144,6 @@
       "word": "因走红暂停生意鹅腿阿姨很着急",
       "onboard_time": 1701396271,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 581254,
-      "num": 581254,
-      "word": "东京迪士尼米妮被同事掀裙子",
-      "onboard_time": 1702089631,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -5385,6 +5401,14 @@
       "onboard_time": 1701822999,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 482197,
+      "num": 482197,
+      "word": "文科 服务业",
+      "onboard_time": 1702091553,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481737,
@@ -6828,7 +6852,7 @@
     },
     {
       "raw_hot": 403955,
-      "num": 277500,
+      "num": 302837,
       "word": "五月天在巴黎真唱能让黑暗过去吗",
       "onboard_time": 1702090711,
       "rank": 20,
@@ -7948,7 +7972,7 @@
     },
     {
       "raw_hot": 357565,
-      "num": 274478,
+      "num": 302141,
       "word": "女子突发癫痫司机将手指伸到她的牙齿之间",
       "onboard_time": 1702088553,
       "rank": 29,
@@ -8729,14 +8753,6 @@
       "onboard_time": 1701761256,
       "rank": 26,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 324717,
-      "num": 324717,
-      "word": "TFBOYS你们敢耍老子",
-      "onboard_time": 1702091553,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 324446,
@@ -9563,6 +9579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 302840,
+      "num": 302840,
+      "word": "堆堆袜",
+      "onboard_time": 1702090830,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 302766,
       "num": 302766,
       "word": "苗苗钟楚曦六年后再跳绒花",
@@ -9641,6 +9665,14 @@
       "onboard_time": 1701788566,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 301424,
+      "num": 301424,
+      "word": "中国海警对菲律宾3艘船只实施管控",
+      "onboard_time": 1702091312,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 301393,
@@ -13275,14 +13307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220603,
-      "num": 220603,
-      "word": "堆堆袜",
-      "onboard_time": 1702090830,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 219792,
       "num": 219792,
       "word": "赵露思新剧射箭路透",
@@ -13859,6 +13883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210756,
+      "num": 210756,
+      "word": "春晚导演看完汗流浃背了",
+      "onboard_time": 1702092513,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210666,
       "num": 210666,
       "word": "东北1米7长冰糖葫芦1串10元",
@@ -13913,6 +13945,14 @@
       "onboard_time": 1701482853,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210310,
+      "num": 210310,
+      "word": "李同光 心碎小狗",
+      "onboard_time": 1702090892,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 210269,
@@ -14187,14 +14227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207043,
-      "num": 207043,
-      "word": "中国海警对菲律宾3艘船只实施管控",
-      "onboard_time": 1702091312,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 206997,
       "num": 196728,
       "word": "魏晨 郑州",
@@ -14417,14 +14449,6 @@
       "onboard_time": 1701502054,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203982,
-      "num": 203982,
-      "word": "李同光 心碎小狗",
-      "onboard_time": 1702090892,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 203895,
@@ -17459,14 +17483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164248,
-      "num": 164248,
-      "word": "文科 服务业",
-      "onboard_time": 1702091553,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164160,
       "num": 164160,
       "word": "LV大秀G社生图",
@@ -18145,6 +18161,14 @@
       "onboard_time": 1701588512,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154179,
+      "num": 154179,
+      "word": "蔡国强烟花 海市蜃楼",
+      "onboard_time": 1702091730,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 153813,
@@ -19227,14 +19251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138683,
-      "num": 138683,
-      "word": "蔡国强烟花 海市蜃楼",
-      "onboard_time": 1702091730,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138680,
       "num": 138680,
       "word": "东北小孩 玩手绢",
@@ -19545,6 +19561,14 @@
       "onboard_time": 1701523715,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133262,
+      "num": 133262,
+      "word": "电视喂什么 观众就吃什么",
+      "onboard_time": 1702092814,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 132929,
@@ -20137,6 +20161,14 @@
       "onboard_time": 1701744271,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122127,
+      "num": 122127,
+      "word": "世界是一个巨大的娟子",
+      "onboard_time": 1702092814,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 122104,

@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702091887968,
+  "endTime": 1702092881065,
   "band_list": [
     {
       "raw_hot": 2369633,
@@ -41,6 +41,14 @@
       "onboard_time": 1702078448,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1321504,
+      "num": 484074,
+      "word": "TFBOYS你们敢耍老子",
+      "onboard_time": 1702091553,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1007231,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604202,
+      "num": 604202,
+      "word": "车厘子价格终于开始跌了",
+      "onboard_time": 1702091971,
+      "rank": 5,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 597456,
       "num": 597456,
       "word": "周杰伦演唱会 提前半年抢票",
@@ -163,20 +179,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 588155,
+      "num": 588155,
+      "word": "东京迪士尼米妮被同事掀裙子",
+      "onboard_time": 1702089631,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585091,
       "num": 585091,
       "word": "经常早醒的人要警惕4种病",
       "onboard_time": 1702085552,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 581254,
-      "num": 581254,
-      "word": "东京迪士尼米妮被同事掀裙子",
-      "onboard_time": 1702089631,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 551034,
@@ -225,6 +241,14 @@
       "onboard_time": 1702083874,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 482197,
+      "num": 482197,
+      "word": "文科 服务业",
+      "onboard_time": 1702091553,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464644,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 403955,
-      "num": 277500,
+      "num": 302837,
       "word": "五月天在巴黎真唱能让黑暗过去吗",
       "onboard_time": 1702090711,
       "rank": 20,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 357565,
-      "num": 274478,
+      "num": 302141,
       "word": "女子突发癫痫司机将手指伸到她的牙齿之间",
       "onboard_time": 1702088553,
       "rank": 29,
@@ -363,14 +387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 324717,
-      "num": 324717,
-      "word": "TFBOYS你们敢耍老子",
-      "onboard_time": 1702091553,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 317743,
       "num": 317743,
       "word": "青岛一小区保安持刀连捅外卖员数刀",
@@ -403,6 +419,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 302840,
+      "num": 302840,
+      "word": "堆堆袜",
+      "onboard_time": 1702090830,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 302766,
       "num": 302766,
       "word": "苗苗钟楚曦六年后再跳绒花",
@@ -417,6 +441,14 @@
       "onboard_time": 1702074436,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301424,
+      "num": 301424,
+      "word": "中国海警对菲律宾3艘船只实施管控",
+      "onboard_time": 1702091312,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 298977,
@@ -555,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220603,
-      "num": 220603,
-      "word": "堆堆袜",
-      "onboard_time": 1702090830,
-      "rank": 27,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 214986,
       "num": 214986,
       "word": "姨妈血不是废血",
@@ -579,12 +603,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 210756,
+      "num": 210756,
+      "word": "春晚导演看完汗流浃背了",
+      "onboard_time": 1702092513,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210659,
       "num": 210659,
       "word": "不到10cm的距离看李现",
       "onboard_time": 1702084891,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210310,
+      "num": 210310,
+      "word": "李同光 心碎小狗",
+      "onboard_time": 1702090892,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 208489,
@@ -601,22 +641,6 @@
       "onboard_time": 1702055424,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 207043,
-      "num": 207043,
-      "word": "中国海警对菲律宾3艘船只实施管控",
-      "onboard_time": 1702091312,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 203982,
-      "num": 203982,
-      "word": "李同光 心碎小狗",
-      "onboard_time": 1702090892,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 203287,
@@ -755,14 +779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164248,
-      "num": 164248,
-      "word": "文科 服务业",
-      "onboard_time": 1702091553,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162005,
       "num": 162005,
       "word": "人年轻时要多见不同的气候和地貌",
@@ -801,6 +817,14 @@
       "onboard_time": 1702087954,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154179,
+      "num": 154179,
+      "word": "蔡国强烟花 海市蜃楼",
+      "onboard_time": 1702091730,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 153529,
@@ -859,14 +883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 138683,
-      "num": 138683,
-      "word": "蔡国强烟花 海市蜃楼",
-      "onboard_time": 1702091730,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135804,
       "num": 135804,
       "word": "以爱为营",
@@ -891,6 +907,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 133262,
+      "num": 133262,
+      "word": "电视喂什么 观众就吃什么",
+      "onboard_time": 1702092814,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129956,
       "num": 129956,
       "word": "十个勤天直播",
@@ -913,6 +937,14 @@
       "onboard_time": 1702033834,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 122127,
+      "num": 122127,
+      "word": "世界是一个巨大的娟子",
+      "onboard_time": 1702092814,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 120869,
