@@ -1,0 +1,410 @@
+{
+  "runTime": 1702164843580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 581687,
+        "num": 581687,
+        "word": "专家称张雪峰言论过于极端",
+        "onboard_time": 1702144279,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528797,
+        "num": 528797,
+        "word": "拖拽妻儿男子回应称非常后悔",
+        "onboard_time": 1702138052,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29840,
+        "num": 370780,
+        "word": "太空种菜还能调节航天员情绪",
+        "onboard_time": 1702127918,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 362348,
+        "num": 362348,
+        "word": "男孩重症肺炎出院第二天上学再中招",
+        "onboard_time": 1702157053,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306313,
+        "num": 306313,
+        "word": "第一学历",
+        "onboard_time": 1702136075,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266841,
+        "num": 266841,
+        "word": "身体8个部位的疼痛可能是心梗前兆",
+        "onboard_time": 1702121795,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245847,
+        "num": 245847,
+        "word": "塌腰",
+        "onboard_time": 1702131942,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225217,
+        "num": 225217,
+        "word": "花花最近白得发亮",
+        "onboard_time": 1702137213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221858,
+        "num": 221858,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214576,
+        "num": 214576,
+        "word": "19岁女孩上悬赏公告因高颜值受关注",
+        "onboard_time": 1702117053,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177732,
+        "num": 177732,
+        "word": "TheShy 降薪",
+        "onboard_time": 1702164018,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175619,
+        "num": 175619,
+        "word": "黄晓明带儿子去迪士尼",
+        "onboard_time": 1702136315,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167996,
+        "num": 167996,
+        "word": "美团将为受害外卖员家属提供生活保障",
+        "onboard_time": 1702161916,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154558,
+        "num": 154558,
+        "word": "谢娜孕吐反应特别严重",
+        "onboard_time": 1702157354,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114905,
+        "num": 114905,
+        "word": "郑钧演唱会上表白刘芸",
+        "onboard_time": 1702134999,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114066,
+        "num": 114066,
+        "word": "无视性别公开开战 野性是女性的勋章",
+        "onboard_time": 1702145006,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106847,
+        "num": 106847,
+        "word": "吃梨真的能化痰止咳吗",
+        "onboard_time": 1702158553,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103695,
+        "num": 103695,
+        "word": "男子裤裆藏3只小动物过海关被查",
+        "onboard_time": 1702123415,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103323,
+        "num": 103323,
+        "word": "南京大屠杀又添新证据",
+        "onboard_time": 1702132179,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94032,
+        "num": 94032,
+        "word": "曼联拜仁 急需一个出气筒",
+        "onboard_time": 1702164318,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86662,
+        "num": 86662,
+        "word": "王一博藏起来看王传君",
+        "onboard_time": 1702142723,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 86402,
+        "num": 86402,
+        "word": "孙千孙美林",
+        "onboard_time": 1702142483,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78162,
+        "num": 78162,
+        "word": "退烧后久咳不愈正常吗",
+        "onboard_time": 1702162938,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76081,
+        "num": 76081,
+        "word": "东莞一儿童掉进超市面包搅拌机身亡",
+        "onboard_time": 1702108709,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74851,
+        "num": 74851,
+        "word": "吉祥航空承认因失误导致乘客滞留机场",
+        "onboard_time": 1702164440,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74063,
+        "num": 74063,
+        "word": "白鹿不跑真的就白录了",
+        "onboard_time": 1702133559,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72845,
+        "num": 72845,
+        "word": "决定朋友圈不再屏蔽爸妈",
+        "onboard_time": 1702119273,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68290,
+        "num": 68290,
+        "word": "曼联0比3伯恩茅斯",
+        "onboard_time": 1702163478,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66516,
+        "num": 66516,
+        "word": "女子腌酸菜开盖时炸得满屋白菜丝",
+        "onboard_time": 1702155555,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64251,
+        "num": 64251,
+        "word": "WBG ZDZ",
+        "onboard_time": 1702164440,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113076,
+        "num": 64186,
+        "word": "林孝埈向刘少昂表达歉意",
+        "onboard_time": 1702164318,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63935,
+        "num": 63935,
+        "word": "广州芳村5万茶价一夜跌到2千",
+        "onboard_time": 1702158792,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63532,
+        "num": 63532,
+        "word": "吴京还是看了那期王牌",
+        "onboard_time": 1702127435,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63494,
+        "num": 63494,
+        "word": "高校为母女提供宿舍一住就是5年",
+        "onboard_time": 1702143082,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60254,
+        "num": 60254,
+        "word": "王安宇秦海璐 左肩有你",
+        "onboard_time": 1702129957,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56766,
+        "num": 56766,
+        "word": "金裕贞宋江吻戏",
+        "onboard_time": 1702133379,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51773,
+        "num": 51773,
+        "word": "男子发女友照片骗男网友九万多",
+        "onboard_time": 1702129357,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51741,
+        "num": 51741,
+        "word": "阿斯顿维拉1比0阿森纳",
+        "onboard_time": 1702163298,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51286,
+        "num": 51286,
+        "word": "我害怕放下手机关掉灯的那一刻的到来",
+        "onboard_time": 1702164559,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49106,
+        "num": 49106,
+        "word": "樊振东1比2张本智和",
+        "onboard_time": 1702128096,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48445,
+        "num": 48445,
+        "word": "王曼昱此球全体起立",
+        "onboard_time": 1702126540,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46872,
+        "num": 46872,
+        "word": "瞒天过海 看不见的客人",
+        "onboard_time": 1702164621,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46860,
+        "num": 46860,
+        "word": "王楚钦孙颖莎1比2日本组合",
+        "onboard_time": 1702124376,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46610,
+        "num": 46610,
+        "word": "被上海美甲价格吓死",
+        "onboard_time": 1702112193,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 44732,
+        "num": 44732,
+        "word": "院士登台演讲穿了双老化掉渣的鞋",
+        "onboard_time": 1702138411,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44436,
+        "num": 44436,
+        "word": "国乒8比5日本",
+        "onboard_time": 1702131701,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42583,
+        "num": 42583,
+        "word": "萌兰34码的小jiojio",
+        "onboard_time": 1702135236,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40749,
+        "num": 40749,
+        "word": "杨幂 客串",
+        "onboard_time": 1702120956,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40562,
+        "num": 40562,
+        "word": "感冒了多喝水有助于身体恢复吗",
+        "onboard_time": 1702164801,
+        "rank": 48,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 39527,
+        "num": 39527,
+        "word": "EXO全员参加经纪人婚礼",
+        "onboard_time": 1702125033,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}
