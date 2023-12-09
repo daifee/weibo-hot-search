@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702134980732,
+  "endTime": 1702136049601,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -43,20 +43,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2290825,
+      "num": 2290825,
+      "word": "塌腰",
+      "onboard_time": 1702131942,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 2171346,
       "num": 2171346,
       "word": "林孝埈刘少昂相撞",
       "onboard_time": 1702114410,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2154759,
-      "num": 2154759,
-      "word": "塌腰",
-      "onboard_time": 1702131942,
-      "rank": 23,
-      "category": "运动健身"
     },
     {
       "raw_hot": 1953789,
@@ -187,8 +187,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1035263,
-      "num": 1035263,
+      "raw_hot": 1045273,
+      "num": 1045273,
       "word": "南京大屠杀又添新证据",
       "onboard_time": 1702132179,
       "rank": 29,
@@ -369,6 +369,14 @@
       "onboard_time": 1702131339,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 703735,
+      "num": 703735,
+      "word": "白鹿不跑真的就白录了",
+      "onboard_time": 1702133559,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 703050,
@@ -683,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490624,
-      "num": 490624,
-      "word": "白鹿不跑真的就白录了",
-      "onboard_time": 1702133559,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 479679,
       "num": 479679,
       "word": "19岁女孩上悬赏公告因高颜值受关注",
@@ -777,6 +777,14 @@
       "onboard_time": 1702129357,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433020,
+      "num": 433020,
+      "word": "周也 苗疆少女造型",
+      "onboard_time": 1702133916,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 432260,
@@ -921,14 +929,6 @@
       "onboard_time": 1702090352,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377984,
-      "num": 377984,
-      "word": "周也 苗疆少女造型",
-      "onboard_time": 1702133916,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 377047,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1702101512,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335846,
+      "num": 335846,
+      "word": "郑钧演唱会上表白刘芸",
+      "onboard_time": 1702134999,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 334143,
@@ -1467,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261547,
+      "num": 261172,
+      "word": "李同光 严于绿己",
+      "onboard_time": 1702135298,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260891,
       "num": 260891,
       "word": "站立瘦腹",
@@ -1803,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219370,
+      "num": 219370,
+      "word": "有没有人救救檀健次",
+      "onboard_time": 1702135654,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219105,
       "num": 219105,
       "word": "乒乓球混合团体世界杯",
@@ -2083,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196804,
+      "num": 196804,
+      "word": "宁远舟来六道堂前在盗墓",
+      "onboard_time": 1702135477,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196179,
       "num": 196179,
       "word": "韩国8比6德国",
@@ -2121,6 +2153,14 @@
       "onboard_time": 1702128215,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193371,
+      "num": 193371,
+      "word": "萌兰34码的小jiojio",
+      "onboard_time": 1702135236,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191572,
@@ -2185,6 +2225,14 @@
       "onboard_time": 1702129718,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188516,
+      "num": 188516,
+      "word": "郁可唯新歌",
+      "onboard_time": 1702135600,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 188051,
@@ -2579,6 +2627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149204,
+      "num": 149204,
+      "word": "读者对一个喜欢的作者犯贱的时候",
+      "onboard_time": 1702135600,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 149105,
       "num": 149105,
       "word": "初雪落薄衫",
@@ -2625,6 +2681,14 @@
       "onboard_time": 1702093355,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 145392,
+      "num": 145392,
+      "word": "陈楚生 龇着大牙笑",
+      "onboard_time": 1702136015,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 145236,
