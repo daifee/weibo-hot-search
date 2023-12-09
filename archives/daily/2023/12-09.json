@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702089465961,
+  "endTime": 1702091887968,
   "band_list": [
     {
       "raw_hot": 2369633,
@@ -16,6 +16,14 @@
       "word": "出生率下降导致幼儿园关停潮",
       "onboard_time": 1702049435,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1440766,
+      "num": 1440766,
+      "word": "解清帅拒绝父亲送3房1车",
+      "onboard_time": 1702086630,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1159406,
-      "num": 1159406,
-      "word": "解清帅拒绝父亲送3房1车",
-      "onboard_time": 1702086630,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1007231,
       "num": 1007231,
       "word": "官方通报警务辅助人员称要查网友个人信息",
@@ -51,20 +51,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 825764,
+      "num": 825764,
+      "word": "刘诗诗 戏份",
+      "onboard_time": 1702082191,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 804883,
       "num": 804883,
       "word": "杨幂工作室 挡了又好像没挡",
       "onboard_time": 1702048836,
       "rank": 1,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 803447,
-      "num": 803447,
-      "word": "刘诗诗 戏份",
-      "onboard_time": 1702082191,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 793766,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 703050,
-      "num": 481218,
+      "num": 576316,
       "word": "日本一海岸现大量沙丁鱼尸体",
       "onboard_time": 1702085793,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702814,
+      "num": 702814,
+      "word": "刘冲 我身高176",
+      "onboard_time": 1702086991,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 688290,
@@ -113,14 +121,6 @@
       "onboard_time": 1702021117,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 673991,
-      "num": 673991,
-      "word": "刘冲 我身高176",
-      "onboard_time": 1702086991,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 655126,
@@ -155,8 +155,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597456,
+      "num": 597456,
+      "word": "周杰伦演唱会 提前半年抢票",
+      "onboard_time": 1702090772,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 585091,
+      "num": 585091,
+      "word": "经常早醒的人要警惕4种病",
+      "onboard_time": 1702085552,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 581254,
+      "num": 581254,
+      "word": "东京迪士尼米妮被同事掀裙子",
+      "onboard_time": 1702089631,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551034,
-      "num": 274315,
+      "num": 498822,
       "word": "刘诗诗编辑记录",
       "onboard_time": 1702088131,
       "rank": 20,
@@ -203,14 +227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 476502,
-      "num": 476502,
-      "word": "经常早醒的人要警惕4种病",
-      "onboard_time": 1702085552,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 464644,
       "num": 464644,
       "word": "新闻女王 烂尾",
@@ -251,6 +267,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411853,
+      "num": 411853,
+      "word": "杨幂易烊千玺刘冲合照",
+      "onboard_time": 1702089033,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 403955,
+      "num": 277500,
+      "word": "五月天在巴黎真唱能让黑暗过去吗",
+      "onboard_time": 1702090711,
+      "rank": 20,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 399984,
       "num": 399984,
       "word": "八百米跑了5分15秒",
@@ -275,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 379283,
+      "num": 379283,
+      "word": "陆虎大大方方的爱特别好",
+      "onboard_time": 1702090352,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360815,
       "num": 360815,
       "word": "警方通报中学生被同学刺伤致死",
@@ -284,11 +324,19 @@
     },
     {
       "raw_hot": 357565,
-      "num": 266487,
+      "num": 274478,
       "word": "女子突发癫痫司机将手指伸到她的牙齿之间",
       "onboard_time": 1702088553,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353505,
+      "num": 353505,
+      "word": "花33 劳斯莱斯",
+      "onboard_time": 1702078765,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 344090,
@@ -307,20 +355,20 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 337077,
-      "num": 337077,
-      "word": "花33 劳斯莱斯",
-      "onboard_time": 1702078765,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 334143,
       "num": 334143,
       "word": "get不到的女明星",
       "onboard_time": 1702080086,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324717,
+      "num": 324717,
+      "word": "TFBOYS你们敢耍老子",
+      "onboard_time": 1702091553,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 317743,
@@ -393,14 +441,6 @@
       "onboard_time": 1702079245,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 259877,
-      "num": 259877,
-      "word": "杨幂易烊千玺刘冲合照",
-      "onboard_time": 1702089033,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 254971,
@@ -515,12 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220603,
+      "num": 220603,
+      "word": "堆堆袜",
+      "onboard_time": 1702090830,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 214986,
       "num": 214986,
       "word": "姨妈血不是废血",
       "onboard_time": 1702016078,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212327,
+      "num": 389653,
+      "word": "小米手环原神定制版评测",
+      "onboard_time": 1702089213,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 210659,
@@ -545,6 +601,22 @@
       "onboard_time": 1702055424,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 207043,
+      "num": 207043,
+      "word": "中国海警对菲律宾3艘船只实施管控",
+      "onboard_time": 1702091312,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 203982,
+      "num": 203982,
+      "word": "李同光 心碎小狗",
+      "onboard_time": 1702090892,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 203287,
@@ -651,6 +723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 184658,
+      "num": 184658,
+      "word": "萧炎 莫欺少年穷",
+      "onboard_time": 1702089991,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184657,
       "num": 184657,
       "word": "孙颖莎对陪练的队友说谢谢",
@@ -673,6 +753,14 @@
       "onboard_time": 1702085491,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164248,
+      "num": 164248,
+      "word": "文科 服务业",
+      "onboard_time": 1702091553,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162005,
@@ -771,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138683,
+      "num": 138683,
+      "word": "蔡国强烟花 海市蜃楼",
+      "onboard_time": 1702091730,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135804,
       "num": 135804,
       "word": "以爱为营",
@@ -793,6 +889,14 @@
       "onboard_time": 1702045658,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 129956,
+      "num": 129956,
+      "word": "十个勤天直播",
+      "onboard_time": 1702089813,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 128827,
@@ -875,14 +979,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 101235,
-      "num": 165632,
-      "word": "小米手环原神定制版评测",
-      "onboard_time": 1702089213,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 98442,
       "num": 194951,
       "word": "母亲自制300多双鞋送女儿出嫁",
@@ -963,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50872,
+      "num": 1038439,
+      "word": "2023那些浪漫又戳心的同框",
+      "onboard_time": 1702086690,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47333,
       "num": 47333,
       "word": "王鹤棣晒时宴库存",
@@ -1036,6 +1140,9 @@
     },
     {
       "word": "#中国式现代化是一项伟大而艰巨的事业#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }
