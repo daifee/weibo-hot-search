@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702146855856,
+  "endTime": 1702149196527,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -10027,6 +10027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311250,
+      "num": 311250,
+      "word": "专家称张雪峰言论过于极端",
+      "onboard_time": 1702144279,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311244,
       "num": 311244,
       "word": "个税专项附加扣除信息确认开始",
@@ -12225,14 +12233,6 @@
       "onboard_time": 1702114352,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264995,
-      "num": 264995,
-      "word": "专家称张雪峰言论过于极端",
-      "onboard_time": 1702144279,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264991,
@@ -23785,6 +23785,14 @@
       "onboard_time": 1701983173,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 43342,
+      "num": 33168,
+      "word": "崔然竣 中国校服",
+      "onboard_time": 1702148238,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 43248,

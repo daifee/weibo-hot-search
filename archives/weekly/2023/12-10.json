@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702146855856,
+  "endTime": 1702149196527,
   "band_list": [
     {
       "raw_hot": 1755734,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311250,
+      "num": 311250,
+      "word": "专家称张雪峰言论过于极端",
+      "onboard_time": 1702144279,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301734,
       "num": 301734,
       "word": "郑钧演唱会上表白刘芸",
@@ -129,14 +137,6 @@
       "onboard_time": 1702132599,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 264995,
-      "num": 264995,
-      "word": "专家称张雪峰言论过于极端",
-      "onboard_time": 1702144279,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246966,
@@ -497,6 +497,14 @@
       "onboard_time": 1702127315,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43342,
+      "num": 33168,
+      "word": "崔然竣 中国校服",
+      "onboard_time": 1702148238,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 31419,
