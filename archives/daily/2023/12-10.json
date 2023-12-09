@@ -1,10 +1,10 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702138848509,
+  "endTime": 1702139786301,
   "band_list": [
     {
-      "raw_hot": 1616556,
-      "num": 1616556,
+      "raw_hot": 1755734,
+      "num": 1755734,
       "word": "第一学历",
       "onboard_time": 1702136075,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532056,
+      "num": 532056,
+      "word": "花花最近白得发亮",
+      "onboard_time": 1702137213,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455333,
       "num": 358660,
       "word": "东莞一儿童掉进超市面包搅拌机身亡",
@@ -75,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359212,
-      "num": 359212,
-      "word": "花花最近白得发亮",
-      "onboard_time": 1702137213,
-      "rank": 9,
+      "raw_hot": 383014,
+      "num": 383014,
+      "word": "拖拽妻儿男子回应称非常后悔",
+      "onboard_time": 1702138052,
+      "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326322,
+      "num": 326322,
+      "word": "决定朋友圈不再屏蔽爸妈",
+      "onboard_time": 1702119273,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 321071,
@@ -99,16 +115,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 300382,
-      "num": 300382,
-      "word": "决定朋友圈不再屏蔽爸妈",
-      "onboard_time": 1702119273,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 273144,
-      "num": 273144,
+      "raw_hot": 281766,
+      "num": 281766,
       "word": "王安宇秦海璐 左肩有你",
       "onboard_time": 1702129957,
       "rank": 14,
@@ -123,20 +131,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246966,
+      "num": 246966,
+      "word": "身体8个部位的疼痛可能是心梗前兆",
+      "onboard_time": 1702121795,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246867,
       "num": 246867,
       "word": "金裕贞宋江吻戏",
       "onboard_time": 1702133379,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236088,
-      "num": 236088,
-      "word": "身体8个部位的疼痛可能是心梗前兆",
-      "onboard_time": 1702121795,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 229201,
@@ -179,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201199,
-      "num": 219589,
-      "word": "拖拽妻儿男子回应称非常后悔",
-      "onboard_time": 1702138052,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192818,
       "num": 192818,
       "word": "樊振东1比2张本智和",
@@ -195,7 +195,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190203,
+      "raw_hot": 190986,
       "num": 183451,
       "word": "杨幂 客串",
       "onboard_time": 1702120956,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 141892,
-      "num": 121565,
+      "num": 135271,
       "word": "虞书欣 水蜜桃公主",
       "onboard_time": 1702129718,
       "rank": 40,
@@ -299,20 +299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135744,
+      "num": 135744,
+      "word": "WBG 续约",
+      "onboard_time": 1702120653,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135097,
       "num": 121153,
       "word": "丁程鑫出手速度",
       "onboard_time": 1702136735,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131665,
-      "num": 131665,
-      "word": "WBG 续约",
-      "onboard_time": 1702120653,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 126301,
@@ -355,7 +355,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119433,
+      "raw_hot": 119895,
       "num": 119433,
       "word": "娜扎 美神",
       "onboard_time": 1702118254,
@@ -388,14 +388,22 @@
     },
     {
       "raw_hot": 98958,
-      "num": 98958,
+      "num": 101955,
       "word": "T1表演赛",
       "onboard_time": 1702132599,
       "rank": 49,
       "category": "电竞"
     },
     {
-      "raw_hot": 38711,
+      "raw_hot": 68031,
+      "num": 101672,
+      "word": "院士登台演讲穿了双老化掉渣的鞋",
+      "onboard_time": 1702138411,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53962,
       "num": 835087,
       "word": "太空种菜还能调节航天员情绪",
       "onboard_time": 1702127918,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
     }
   ]
 }

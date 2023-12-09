@@ -1,0 +1,410 @@
+{
+  "runTime": 1702139786301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1755734,
+        "num": 1755734,
+        "word": "第一学历",
+        "onboard_time": 1702136075,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981017,
+        "num": 981017,
+        "word": "塌腰",
+        "onboard_time": 1702131942,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53962,
+        "num": 743440,
+        "word": "太空种菜还能调节航天员情绪",
+        "onboard_time": 1702127918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697333,
+        "num": 697333,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 560062,
+        "num": 560062,
+        "word": "南京大屠杀又添新证据",
+        "onboard_time": 1702132179,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557154,
+        "num": 557154,
+        "word": "黄晓明带儿子去迪士尼",
+        "onboard_time": 1702136315,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532056,
+        "num": 532056,
+        "word": "花花最近白得发亮",
+        "onboard_time": 1702137213,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402483,
+        "num": 402483,
+        "word": "19岁女孩上悬赏公告因高颜值受关注",
+        "onboard_time": 1702117053,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383014,
+        "num": 383014,
+        "word": "拖拽妻儿男子回应称非常后悔",
+        "onboard_time": 1702138052,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354613,
+        "num": 354613,
+        "word": "男子裤裆藏3只小动物过海关被查",
+        "onboard_time": 1702123415,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393469,
+        "num": 350601,
+        "word": "东莞一儿童掉进超市面包搅拌机身亡",
+        "onboard_time": 1702108709,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342809,
+        "num": 342809,
+        "word": "白鹿不跑真的就白录了",
+        "onboard_time": 1702133559,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326322,
+        "num": 326322,
+        "word": "决定朋友圈不再屏蔽爸妈",
+        "onboard_time": 1702119273,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281766,
+        "num": 281766,
+        "word": "王安宇秦海璐 左肩有你",
+        "onboard_time": 1702129957,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276675,
+        "num": 276675,
+        "word": "周也 苗疆少女造型",
+        "onboard_time": 1702133916,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246966,
+        "num": 246966,
+        "word": "身体8个部位的疼痛可能是心梗前兆",
+        "onboard_time": 1702121795,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225787,
+        "num": 225787,
+        "word": "金裕贞宋江吻戏",
+        "onboard_time": 1702133379,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224009,
+        "num": 224009,
+        "word": "郑钧演唱会上表白刘芸",
+        "onboard_time": 1702134999,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223656,
+        "num": 223656,
+        "word": "林俊杰嘉宾 李荣浩",
+        "onboard_time": 1702132599,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168350,
+        "num": 168350,
+        "word": "樊振东1比2张本智和",
+        "onboard_time": 1702128096,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205954,
+        "num": 167853,
+        "word": "有没有人救救檀健次",
+        "onboard_time": 1702135654,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196007,
+        "num": 166185,
+        "word": "EXO全员参加经纪人婚礼",
+        "onboard_time": 1702125033,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163445,
+        "num": 163445,
+        "word": "王楚钦孙颖莎1比2日本组合",
+        "onboard_time": 1702124376,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151787,
+        "num": 151787,
+        "word": "国乒 自我救赎",
+        "onboard_time": 1702133320,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145833,
+        "num": 145833,
+        "word": "萌兰34码的小jiojio",
+        "onboard_time": 1702135236,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190986,
+        "num": 145677,
+        "word": "杨幂 客串",
+        "onboard_time": 1702120956,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185852,
+        "num": 145461,
+        "word": "旺卡 甜茶",
+        "onboard_time": 1702136194,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165172,
+        "num": 145207,
+        "word": "那可是刘诗诗啊",
+        "onboard_time": 1702132542,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144924,
+        "num": 144924,
+        "word": "一万块钱花一年",
+        "onboard_time": 1702119574,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137841,
+        "num": 137841,
+        "word": "被上海美甲价格吓死",
+        "onboard_time": 1702112193,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 150583,
+        "num": 137212,
+        "word": "一念关山 修图",
+        "onboard_time": 1702126178,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145437,
+        "num": 136554,
+        "word": "宋江 客观的帅",
+        "onboard_time": 1702131457,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135744,
+        "num": 135744,
+        "word": "WBG 续约",
+        "onboard_time": 1702120653,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135271,
+        "num": 135271,
+        "word": "虞书欣 水蜜桃公主",
+        "onboard_time": 1702129718,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124614,
+        "num": 124614,
+        "word": "王曼昱此球全体起立",
+        "onboard_time": 1702126540,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134049,
+        "num": 123787,
+        "word": "陈楚生 龇着大牙笑",
+        "onboard_time": 1702136015,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133308,
+        "num": 123414,
+        "word": "你们真的一山更比一山高",
+        "onboard_time": 1702137394,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130041,
+        "num": 123371,
+        "word": "李同光 严于绿己",
+        "onboard_time": 1702135298,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122861,
+        "num": 122861,
+        "word": "梦鱼 特别有安全感的搭档",
+        "onboard_time": 1702136194,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108905,
+        "num": 108905,
+        "word": "男子发女友照片骗男网友九万多",
+        "onboard_time": 1702129357,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122245,
+        "num": 108843,
+        "word": "杨幂对接辟谣酱园弄客串",
+        "onboard_time": 1702125633,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119895,
+        "num": 108414,
+        "word": "娜扎 美神",
+        "onboard_time": 1702118254,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115054,
+        "num": 108232,
+        "word": "丁程鑫出手速度",
+        "onboard_time": 1702136735,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106258,
+        "num": 106258,
+        "word": "朱丹 你的文笔胜过你的表达",
+        "onboard_time": 1702119273,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102949,
+        "num": 102949,
+        "word": "一天吃掉30万只生蚝",
+        "onboard_time": 1702128399,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102679,
+        "num": 102679,
+        "word": "国乒8比5日本",
+        "onboard_time": 1702131701,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85113,
+        "num": 102575,
+        "word": "站立瘦腹",
+        "onboard_time": 1702132836,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 84593,
+        "num": 102293,
+        "word": "马龙王楚钦完美收官",
+        "onboard_time": 1702132418,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71256,
+        "num": 101955,
+        "word": "T1表演赛",
+        "onboard_time": 1702132599,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68031,
+        "num": 101672,
+        "word": "院士登台演讲穿了双老化掉渣的鞋",
+        "onboard_time": 1702138411,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}
