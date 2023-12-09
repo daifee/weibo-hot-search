@@ -1,0 +1,410 @@
+{
+  "runTime": 1702121627152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1967205,
+        "num": 1967205,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 304275,
+        "num": 997539,
+        "word": "女老师用石头干脆面教育孩子反校园霸凌",
+        "onboard_time": 1702099714,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42634,
+        "num": 934041,
+        "word": "三招养护呼吸道健康",
+        "onboard_time": 1702110031,
+        "rank": 2,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 910254,
+        "num": 910254,
+        "word": "杨幂 客串",
+        "onboard_time": 1702120956,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245644,
+        "num": 907671,
+        "word": "新郎接亲时提出一个请求笑翻众人",
+        "onboard_time": 1702111952,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907652,
+        "num": 907652,
+        "word": "酱园弄",
+        "onboard_time": 1702117832,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212560,
+        "num": 794586,
+        "word": "爷爷陪小猫打针还给小猫暖输液管",
+        "onboard_time": 1702118077,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753322,
+        "num": 753322,
+        "word": "一万块钱花一年",
+        "onboard_time": 1702119574,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 712920,
+        "num": 712920,
+        "word": "娜扎 美神",
+        "onboard_time": 1702118254,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620018,
+        "num": 620018,
+        "word": "林孝埈刘少昂相撞",
+        "onboard_time": 1702114410,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 909157,
+        "num": 572524,
+        "word": "东莞一儿童掉进超市面包搅拌机身亡",
+        "onboard_time": 1702108709,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515372,
+        "num": 515372,
+        "word": "原来茶位费是可以拒绝的",
+        "onboard_time": 1702108170,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 490616,
+        "num": 490616,
+        "word": "朱丹 你的文笔胜过你的表达",
+        "onboard_time": 1702119273,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473189,
+        "num": 473189,
+        "word": "WBG 续约",
+        "onboard_time": 1702120653,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 467988,
+        "num": 467988,
+        "word": "被上海美甲价格吓死",
+        "onboard_time": 1702112193,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 444223,
+        "num": 444223,
+        "word": "杨幂工作室",
+        "onboard_time": 1702121137,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417112,
+        "num": 417112,
+        "word": "张颂文周一围林家川 三个人的友情",
+        "onboard_time": 1702119454,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413266,
+        "num": 413266,
+        "word": "周先生和朱小姐的故事",
+        "onboard_time": 1702110934,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399246,
+        "num": 399246,
+        "word": "文科生就业率不到理科生一半",
+        "onboard_time": 1702115612,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 392148,
+        "num": 392148,
+        "word": "辛芷蕾 我妈让我给她澄清一下",
+        "onboard_time": 1702115251,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387601,
+        "num": 387601,
+        "word": "丹东警方回应锁匠帮开锁被炸身亡",
+        "onboard_time": 1702114652,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364476,
+        "num": 364476,
+        "word": "19岁女孩上悬赏公告因高颜值受关注",
+        "onboard_time": 1702117053,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345647,
+        "num": 345647,
+        "word": "TFBOYS你们敢耍老子",
+        "onboard_time": 1702091553,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344627,
+        "num": 344627,
+        "word": "决定朋友圈不再屏蔽爸妈",
+        "onboard_time": 1702119273,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343336,
+        "num": 343336,
+        "word": "6200一杯咖啡",
+        "onboard_time": 1702114535,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 329523,
+        "num": 329523,
+        "word": "王一博歪嘴笑梦回蓝忘机",
+        "onboard_time": 1702121557,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282068,
+        "num": 282068,
+        "word": "林俊杰 浪漫广西",
+        "onboard_time": 1702119335,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263157,
+        "num": 263157,
+        "word": "刘少昂回应与林孝埈相撞",
+        "onboard_time": 1702117472,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261233,
+        "num": 261233,
+        "word": "每次疫情对男性伤害可能会更大",
+        "onboard_time": 1702118914,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238536,
+        "num": 238536,
+        "word": "多位脱口秀女演员发声明拒绝性骚扰",
+        "onboard_time": 1702115852,
+        "rank": 29,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 238000,
+        "num": 238000,
+        "word": "KBS",
+        "onboard_time": 1702117053,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227636,
+        "num": 227636,
+        "word": "东航MU533航班空中放油后备降浦东机场",
+        "onboard_time": 1702109370,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211618,
+        "num": 211618,
+        "word": "谁教00后这样离职的",
+        "onboard_time": 1702118792,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206433,
+        "num": 206433,
+        "word": "常华森直播",
+        "onboard_time": 1702119696,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205398,
+        "num": 205398,
+        "word": "很想很想你",
+        "onboard_time": 1702121013,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201280,
+        "num": 201280,
+        "word": "汪苏泷爱丫爱丫直拍全程开大",
+        "onboard_time": 1702117773,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191572,
+        "num": 191572,
+        "word": "LPL全明星solo赛",
+        "onboard_time": 1702121493,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189974,
+        "num": 189974,
+        "word": "谷爱凌夺冠致谢",
+        "onboard_time": 1702120536,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186991,
+        "num": 186991,
+        "word": "贵州遵义发生钢棚垮塌事故已造成6死3伤",
+        "onboard_time": 1702121314,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185750,
+        "num": 185750,
+        "word": "人和人刚分开时是没有痛感的",
+        "onboard_time": 1702111774,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176677,
+        "num": 182141,
+        "word": "一卡车鲜花售价不到千元",
+        "onboard_time": 1702120956,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181776,
+        "num": 181776,
+        "word": "周也 头像大户",
+        "onboard_time": 1702117293,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166422,
+        "num": 166422,
+        "word": "王心凌因为谁坐在了韩红身边",
+        "onboard_time": 1702109612,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161837,
+        "num": 161837,
+        "word": "瞒天过海 get到许光汉",
+        "onboard_time": 1702117832,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161201,
+        "num": 161201,
+        "word": "王多多开场秀",
+        "onboard_time": 1702118432,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160511,
+        "num": 160511,
+        "word": "刘诗诗 如意一直都很清醒",
+        "onboard_time": 1702115310,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144633,
+        "num": 144633,
+        "word": "不要把一切看得那么严重",
+        "onboard_time": 1702120714,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143254,
+        "num": 143254,
+        "word": "真正的放下不是删除拉黑",
+        "onboard_time": 1702105832,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140900,
+        "num": 140900,
+        "word": "东航",
+        "onboard_time": 1702115552,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139103,
+        "num": 139103,
+        "word": "关闭电脑频繁更新的方法",
+        "onboard_time": 1702121255,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

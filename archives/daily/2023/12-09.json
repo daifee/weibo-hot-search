@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702120453176,
+  "endTime": 1702121627152,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -41,6 +41,14 @@
       "onboard_time": 1702114410,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1967205,
+      "num": 1967205,
+      "word": "赵丽颖 女二",
+      "onboard_time": 1702120956,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1953789,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1273690,
-      "num": 567091,
+      "num": 572524,
       "word": "东莞一儿童掉进超市面包搅拌机身亡",
       "onboard_time": 1702108709,
       "rank": 10,
@@ -153,6 +161,22 @@
       "onboard_time": 1702097075,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 910254,
+      "num": 910254,
+      "word": "杨幂 客串",
+      "onboard_time": 1702120956,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 907652,
+      "num": 907652,
+      "word": "酱园弄",
+      "onboard_time": 1702117832,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 850996,
@@ -219,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 753322,
+      "num": 753322,
+      "word": "一万块钱花一年",
+      "onboard_time": 1702119574,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 741015,
       "num": 741015,
       "word": "文科 服务业",
@@ -227,20 +259,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 738402,
-      "num": 738402,
-      "word": "酱园弄",
-      "onboard_time": 1702117832,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 714230,
       "num": 714230,
       "word": "程序员每月只给自己留2千妻子却要离婚",
       "onboard_time": 1702047339,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 712920,
+      "num": 712920,
+      "word": "娜扎 美神",
+      "onboard_time": 1702118254,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 703050,
@@ -321,14 +353,6 @@
       "onboard_time": 1702045959,
       "rank": 5,
       "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 654955,
-      "num": 654955,
-      "word": "娜扎 美神",
-      "onboard_time": 1702118254,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 646740,
@@ -483,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490616,
+      "num": 490616,
+      "word": "朱丹 你的文笔胜过你的表达",
+      "onboard_time": 1702119273,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 473189,
+      "num": 473189,
+      "word": "WBG 续约",
+      "onboard_time": 1702120653,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 466953,
       "num": 466953,
       "word": "萨摩耶 自己哄自己睡觉",
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444223,
+      "num": 444223,
+      "word": "杨幂工作室",
+      "onboard_time": 1702121137,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437731,
       "num": 230755,
       "word": "Xiaohu向队友道歉",
@@ -555,20 +603,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 424316,
-      "num": 424316,
-      "word": "朱丹 你的文笔胜过你的表达",
-      "onboard_time": 1702119273,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 420629,
       "num": 420629,
       "word": "偷偷藏不住 神隐隐不了",
       "onboard_time": 1702039957,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417112,
+      "num": 417112,
+      "word": "张颂文周一围林家川 三个人的友情",
+      "onboard_time": 1702119454,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 414366,
@@ -659,6 +707,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 364476,
+      "num": 364476,
+      "word": "19岁女孩上悬赏公告因高颜值受关注",
+      "onboard_time": 1702117053,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360862,
       "num": 1597503,
       "word": "女老师用石头干脆面教育孩子反校园霸凌",
@@ -699,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 354571,
-      "num": 354571,
-      "word": "张颂文周一围林家川 三个人的友情",
-      "onboard_time": 1702119454,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 353785,
       "num": 353785,
       "word": "郭晓婷 专注追美美如意",
@@ -739,20 +787,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347252,
-      "num": 347252,
-      "word": "一万块钱花一年",
-      "onboard_time": 1702119574,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 346734,
       "num": 279381,
       "word": "涉事超市回应儿童掉进面包搅拌机身亡",
       "onboard_time": 1702112911,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344627,
+      "num": 344627,
+      "word": "决定朋友圈不再屏蔽爸妈",
+      "onboard_time": 1702119273,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 344090,
@@ -795,12 +843,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 329667,
-      "num": 329667,
-      "word": "19岁女孩上悬赏公告因高颜值受关注",
-      "onboard_time": 1702117053,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 329523,
+      "num": 329523,
+      "word": "王一博歪嘴笑梦回蓝忘机",
+      "onboard_time": 1702121557,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 317743,
@@ -977,14 +1025,6 @@
       "onboard_time": 1702109073,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 289665,
-      "num": 289665,
-      "word": "决定朋友圈不再屏蔽爸妈",
-      "onboard_time": 1702119273,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 285100,
@@ -1179,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245644,
+      "num": 946339,
+      "word": "新郎接亲时提出一个请求笑翻众人",
+      "onboard_time": 1702111952,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244925,
       "num": 244925,
       "word": "刘诗诗 如意一直都很清醒",
@@ -1241,14 +1289,6 @@
       "onboard_time": 1702049679,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 236564,
-      "num": 946339,
-      "word": "新郎接亲时提出一个请求笑翻众人",
-      "onboard_time": 1702111952,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236541,
@@ -1379,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212560,
+      "num": 794586,
+      "word": "爷爷陪小猫打针还给小猫暖输液管",
+      "onboard_time": 1702118077,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212327,
       "num": 389653,
       "word": "小米手环原神定制版评测",
@@ -1451,12 +1499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203671,
-      "num": 655248,
-      "word": "爷爷陪小猫打针还给小猫暖输液管",
-      "onboard_time": 1702118077,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 205398,
+      "num": 205398,
+      "word": "很想很想你",
+      "onboard_time": 1702121013,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 203287,
@@ -1563,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191572,
+      "num": 191572,
+      "word": "LPL全明星solo赛",
+      "onboard_time": 1702121493,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191454,
       "num": 191454,
       "word": "GQ红毯男女明星混剪",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1702078945,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189974,
+      "num": 189974,
+      "word": "谷爱凌夺冠致谢",
+      "onboard_time": 1702120536,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 189864,
@@ -1617,6 +1681,14 @@
       "onboard_time": 1702046857,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186991,
+      "num": 186991,
+      "word": "贵州遵义发生钢棚垮塌事故已造成6死3伤",
+      "onboard_time": 1702121314,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185985,
@@ -1695,6 +1767,14 @@
       "num": 177609,
       "word": "第一次在老虎脸上看到了无奈",
       "onboard_time": 1702097133,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176677,
+      "num": 182141,
+      "word": "一卡车鲜花售价不到千元",
+      "onboard_time": 1702120956,
       "rank": 40,
       "category": "社会新闻"
     },
@@ -1947,6 +2027,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144633,
+      "num": 144633,
+      "word": "不要把一切看得那么严重",
+      "onboard_time": 1702120714,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144626,
       "num": 144626,
       "word": "檀健次是真的听劝",
@@ -2001,6 +2089,14 @@
       "onboard_time": 1702099714,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139103,
+      "num": 139103,
+      "word": "关闭电脑频繁更新的方法",
+      "onboard_time": 1702121255,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 139061,
