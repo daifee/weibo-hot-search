@@ -1,0 +1,410 @@
+{
+  "runTime": 1702110851087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1167065,
+        "num": 1167065,
+        "word": "张雪峰回应文科都是服务业",
+        "onboard_time": 1702098694,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1153677,
+        "num": 1153677,
+        "word": "Kitty官宣离职",
+        "onboard_time": 1702104269,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35000,
+        "num": 1063708,
+        "word": "三招养护呼吸道健康",
+        "onboard_time": 1702110031,
+        "rank": 2,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1025549,
+        "num": 1025549,
+        "word": "原来茶位费是可以拒绝的",
+        "onboard_time": 1702108170,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 882718,
+        "num": 882718,
+        "word": "东航MU533航班空中放油后备降浦东机场",
+        "onboard_time": 1702109370,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 848641,
+        "num": 848641,
+        "word": "和导师的关系有点暧昧了",
+        "onboard_time": 1702107633,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 771169,
+        "num": 771169,
+        "word": "大女主 中国特产",
+        "onboard_time": 1702103071,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466953,
+        "num": 466953,
+        "word": "萨摩耶 自己哄自己睡觉",
+        "onboard_time": 1702105951,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 419710,
+        "num": 419710,
+        "word": "南昌20死19伤重大交通事故调查报告",
+        "onboard_time": 1702093771,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384747,
+        "num": 384747,
+        "word": "王心凌因为谁坐在了韩红身边",
+        "onboard_time": 1702109612,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1256836,
+        "num": 382241,
+        "word": "东莞一儿童掉进超市面包搅拌机身亡",
+        "onboard_time": 1702108709,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694875,
+        "num": 378884,
+        "word": "TFBOYS你们敢耍老子",
+        "onboard_time": 1702091553,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324249,
+        "num": 324249,
+        "word": "67岁老人握妻子手买人生第一套房",
+        "onboard_time": 1702105530,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318111,
+        "num": 318111,
+        "word": "郭晓婷 专注追美美如意",
+        "onboard_time": 1702106971,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299943,
+        "num": 299943,
+        "word": "LPL全明星红毯",
+        "onboard_time": 1702109430,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296259,
+        "num": 296259,
+        "word": "一闪一闪亮星星路演票选地点公布",
+        "onboard_time": 1702109972,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278808,
+        "num": 278808,
+        "word": "无纸化学习",
+        "onboard_time": 1702109370,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 278656,
+        "num": 278656,
+        "word": "邓紫棋演唱会穿婚纱摔倒",
+        "onboard_time": 1702104211,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258470,
+        "num": 258470,
+        "word": "车厘子价格终于开始跌了",
+        "onboard_time": 1702091971,
+        "rank": 18,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 249446,
+        "num": 249446,
+        "word": "封神三人组 作战默契",
+        "onboard_time": 1702109073,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283494,
+        "num": 249259,
+        "word": "为什么领导从不提拔老实人",
+        "onboard_time": 1702107030,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248617,
+        "num": 248617,
+        "word": "赵露思1首OST11套衣服",
+        "onboard_time": 1702109552,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237668,
+        "num": 237668,
+        "word": "爱奇艺转发刘诗诗微博",
+        "onboard_time": 1702096775,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216294,
+        "num": 216294,
+        "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
+        "onboard_time": 1702107935,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215548,
+        "num": 215548,
+        "word": "真正的放下不是删除拉黑",
+        "onboard_time": 1702105832,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210838,
+        "num": 210838,
+        "word": "陈楚生你倒是扭头看看古巨基",
+        "onboard_time": 1702105053,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207064,
+        "num": 207064,
+        "word": "一念关山剧本",
+        "onboard_time": 1702097193,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205589,
+        "num": 205589,
+        "word": "神隐莲花楼是同一个编剧",
+        "onboard_time": 1702104331,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200797,
+        "num": 204741,
+        "word": "女老师用石头干脆面教育孩子反校园霸凌",
+        "onboard_time": 1702099714,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193021,
+        "num": 204465,
+        "word": "刘少昂林孝埈晋级男子500米决赛",
+        "onboard_time": 1702108891,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 204242,
+        "num": 204242,
+        "word": "赵露思王安宇差点就亲上了",
+        "onboard_time": 1702096357,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201794,
+        "num": 201794,
+        "word": "让GQ嗑上秦霄贤孟子义了",
+        "onboard_time": 1702098812,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 197659,
+        "num": 197659,
+        "word": "虞书欣模仿AI",
+        "onboard_time": 1702105053,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186109,
+        "num": 186109,
+        "word": "孔刘说自己已经老了",
+        "onboard_time": 1702102653,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175476,
+        "num": 175476,
+        "word": "韩国8比6德国",
+        "onboard_time": 1702107210,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170497,
+        "num": 170497,
+        "word": "春楠给关晓彤化的雀翎妆",
+        "onboard_time": 1702108771,
+        "rank": 35,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 152747,
+        "num": 152747,
+        "word": "电视喂什么 观众就吃什么",
+        "onboard_time": 1702092814,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146764,
+        "num": 146764,
+        "word": "Xiaohu向队友道歉",
+        "onboard_time": 1702102109,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143572,
+        "num": 143572,
+        "word": "谷歌gemini 造假",
+        "onboard_time": 1702107329,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133226,
+        "num": 133226,
+        "word": "郝蕾 演员不会演戏是不用功",
+        "onboard_time": 1702104929,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129433,
+        "num": 129433,
+        "word": "决赛前一天谷爱凌写了12小时论文",
+        "onboard_time": 1702103131,
+        "rank": 40,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 118950,
+        "num": 118950,
+        "word": "谷爱凌空中秀抓板技术",
+        "onboard_time": 1702109133,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110986,
+        "num": 110986,
+        "word": "谷爱凌世界杯冠军",
+        "onboard_time": 1702097075,
+        "rank": 42,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 110549,
+        "num": 110549,
+        "word": "为何现在MK不受欢迎了",
+        "onboard_time": 1702106793,
+        "rank": 43,
+        "category": "时尚,社会议题"
+      },
+      {
+        "raw_hot": 103123,
+        "num": 103123,
+        "word": "全明星",
+        "onboard_time": 1702105711,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102755,
+        "num": 102755,
+        "word": "女子突发癫痫司机将手指伸到她的牙齿之间",
+        "onboard_time": 1702088553,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97774,
+        "num": 97774,
+        "word": "周杰伦演唱会 提前半年抢票",
+        "onboard_time": 1702090772,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95495,
+        "num": 95495,
+        "word": "花33 华宵一",
+        "onboard_time": 1702087831,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91053,
+        "num": 91053,
+        "word": "这粉底到底是咋想的",
+        "onboard_time": 1702110153,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 86637,
+        "num": 86637,
+        "word": "宋亚轩 马面裙",
+        "onboard_time": 1702101512,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702110033091,
+  "endTime": 1702110851087,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -83,12 +83,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1256836,
+      "num": 382241,
+      "word": "东莞一儿童掉进超市面包搅拌机身亡",
+      "onboard_time": 1702108709,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1169868,
       "num": 480274,
       "word": "汤唯 一家三口一直住在北京",
       "onboard_time": 1702096294,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1025549,
+      "num": 1025549,
+      "word": "原来茶位费是可以拒绝的",
+      "onboard_time": 1702108170,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 1007231,
@@ -115,12 +131,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 882718,
+      "num": 882718,
+      "word": "东航MU533航班空中放油后备降浦东机场",
+      "onboard_time": 1702109370,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850996,
       "num": 850996,
       "word": "爱奇艺转发刘诗诗微博",
       "onboard_time": 1702096775,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 848641,
+      "num": 848641,
+      "word": "和导师的关系有点暧昧了",
+      "onboard_time": 1702107633,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 837524,
@@ -139,22 +171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 809618,
-      "num": 353273,
-      "word": "东莞一儿童掉进超市面包搅拌机身亡",
-      "onboard_time": 1702108709,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 808926,
-      "num": 808926,
-      "word": "和导师的关系有点暧昧了",
-      "onboard_time": 1702107633,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 804883,
       "num": 804883,
       "word": "杨幂工作室 挡了又好像没挡",
@@ -169,14 +185,6 @@
       "onboard_time": 1702080209,
       "rank": 5,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 772146,
-      "num": 772146,
-      "word": "原来茶位费是可以拒绝的",
-      "onboard_time": 1702108170,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 766897,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466953,
+      "num": 466953,
+      "word": "萨摩耶 自己哄自己睡觉",
+      "onboard_time": 1702105951,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 464644,
       "num": 464644,
       "word": "新闻女王 烂尾",
@@ -409,14 +425,6 @@
       "onboard_time": 1702037315,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446935,
-      "num": 446935,
-      "word": "萨摩耶 自己哄自己睡觉",
-      "onboard_time": 1702105951,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 444263,
@@ -513,6 +521,14 @@
       "onboard_time": 1702105530,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384747,
+      "num": 384747,
+      "word": "王心凌因为谁坐在了韩红身边",
+      "onboard_time": 1702109612,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 380321,
@@ -667,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309395,
-      "num": 309395,
-      "word": "东航MU533航班空中放油后备降浦东机场",
-      "onboard_time": 1702109370,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 308673,
       "num": 308673,
       "word": "金靖 营业CP就是要懂得停下",
@@ -731,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299943,
+      "num": 299943,
+      "word": "LPL全明星红毯",
+      "onboard_time": 1702109430,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 298977,
       "num": 298977,
       "word": "TFBOYS十周年DVD纪录片",
@@ -745,6 +761,14 @@
       "onboard_time": 1702084112,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 296259,
+      "num": 296259,
+      "word": "一闪一闪亮星星路演票选地点公布",
+      "onboard_time": 1702109972,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 293144,
@@ -787,7 +811,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 282816,
+      "raw_hot": 283494,
       "num": 249857,
       "word": "为什么领导从不提拔老实人",
       "onboard_time": 1702107030,
@@ -803,28 +827,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278808,
+      "num": 278808,
+      "word": "无纸化学习",
+      "onboard_time": 1702109370,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 270980,
       "num": 270980,
       "word": "花花和谭爷爷的对峙瞬间",
       "onboard_time": 1702095093,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266009,
-      "num": 266009,
-      "word": "一闪一闪亮星星路演票选地点公布",
-      "onboard_time": 1702109972,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 260148,
-      "num": 260148,
-      "word": "LPL全明星红毯",
-      "onboard_time": 1702109430,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 258147,
@@ -873,6 +889,14 @@
       "onboard_time": 1702099414,
       "rank": 24,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 248617,
+      "num": 248617,
+      "word": "赵露思1首OST11套衣服",
+      "onboard_time": 1702109552,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 248173,
@@ -995,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230162,
-      "num": 230162,
-      "word": "王心凌因为谁坐在了韩红身边",
-      "onboard_time": 1702109612,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229903,
       "num": 210461,
       "word": "终于有人把这两个眼妆说清楚了",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1702108771,
       "rank": 30,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 216294,
+      "num": 216294,
+      "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
+      "onboard_time": 1702107935,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 214986,
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 204459,
-      "num": 204459,
+      "num": 204465,
       "word": "刘少昂林孝埈晋级男子500米决赛",
       "onboard_time": 1702108891,
       "rank": 28,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1702045597,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194477,
-      "num": 194477,
-      "word": "赵露思1首OST11套衣服",
-      "onboard_time": 1702109552,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 191454,
@@ -1313,14 +1329,6 @@
       "onboard_time": 1702097133,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170313,
-      "num": 170313,
-      "word": "无纸化学习",
-      "onboard_time": 1702109370,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 169681,
@@ -1497,14 +1505,6 @@
       "onboard_time": 1702102232,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 147602,
-      "num": 147602,
-      "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
-      "onboard_time": 1702107935,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 145792,
@@ -1731,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91053,
+      "num": 91053,
+      "word": "这粉底到底是咋想的",
+      "onboard_time": 1702110153,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 88301,
       "num": 88301,
       "word": "蒙古獒零下20度睡雪地看家护院",
@@ -1825,6 +1833,14 @@
       "onboard_time": 1702090231,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35000,
+      "num": 1063708,
+      "word": "三招养护呼吸道健康",
+      "onboard_time": 1702110031,
+      "rank": 2,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 32654,
