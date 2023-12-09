@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702098978514,
+  "endTime": 1702100040902,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -67,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1066870,
+      "raw_hot": 1169868,
       "num": 480274,
       "word": "汤唯 一家三口一直住在北京",
       "onboard_time": 1702096294,
@@ -89,6 +89,14 @@
       "onboard_time": 1702097075,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 863644,
+      "num": 863644,
+      "word": "张雪峰回应文科都是服务业",
+      "onboard_time": 1702098694,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 850996,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520137,
+      "num": 520137,
+      "word": "让GQ嗑上秦霄贤孟子义了",
+      "onboard_time": 1702098812,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 514176,
       "num": 514176,
       "word": "徐冬冬退赛",
@@ -363,20 +379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431748,
+      "num": 431748,
+      "word": "100年前的不婚女性",
+      "onboard_time": 1702095994,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 420629,
       "num": 420629,
       "word": "偷偷藏不住 神隐隐不了",
       "onboard_time": 1702039957,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 416701,
-      "num": 416701,
-      "word": "100年前的不婚女性",
-      "onboard_time": 1702095994,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 414366,
@@ -523,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 308673,
+      "num": 308673,
+      "word": "金靖 营业CP就是要懂得停下",
+      "onboard_time": 1702098032,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304519,
       "num": 304519,
       "word": "小杨哥徒弟复播仅3分钟再被封",
@@ -553,14 +577,6 @@
       "onboard_time": 1702091312,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 301290,
-      "num": 301290,
-      "word": "金靖 营业CP就是要懂得停下",
-      "onboard_time": 1702098032,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 298977,
@@ -611,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258147,
+      "num": 258147,
+      "word": "声生不息",
+      "onboard_time": 1702099114,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254971,
       "num": 254971,
       "word": "谷爱凌 一个黑粉100个朋友",
@@ -627,12 +651,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 253603,
+      "num": 253603,
+      "word": "长期挤痘痘会怎么样",
+      "onboard_time": 1702098097,
+      "rank": 25,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 251365,
       "num": 251365,
       "word": "瑞幸星巴克回应被检出致癌物",
       "onboard_time": 1702079427,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250061,
+      "num": 250061,
+      "word": "饭后喝茶不是刮油是增肥",
+      "onboard_time": 1702099414,
+      "rank": 24,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 248173,
@@ -657,14 +697,6 @@
       "onboard_time": 1702096294,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244355,
-      "num": 244355,
-      "word": "长期挤痘痘会怎么样",
-      "onboard_time": 1702098097,
-      "rank": 25,
-      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 243898,
@@ -729,14 +761,6 @@
       "onboard_time": 1702094194,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230320,
-      "num": 230320,
-      "word": "让GQ嗑上秦霄贤孟子义了",
-      "onboard_time": 1702098812,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229903,
@@ -865,14 +889,6 @@
       "onboard_time": 1702082552,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 202593,
-      "num": 202593,
-      "word": "张雪峰回应文科都是服务业",
-      "onboard_time": 1702098694,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201693,
@@ -1147,6 +1163,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140206,
+      "num": 140206,
+      "word": "原来被光照亮是这种体验",
+      "onboard_time": 1702099714,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 137107,
+      "num": 137107,
+      "word": "江苏散装是真的",
+      "onboard_time": 1702099773,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 135804,
       "num": 135804,
       "word": "以爱为营",
@@ -1171,8 +1203,16 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 131124,
-      "num": 131124,
+      "raw_hot": 132213,
+      "num": 132213,
+      "word": "女老师用石头干脆面教育孩子反校园霸凌",
+      "onboard_time": 1702099714,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132037,
+      "num": 132037,
       "word": "2023LPL全明星定妆照",
       "onboard_time": 1702098933,
       "rank": 48,
