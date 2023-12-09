@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702128855084,
+  "endTime": 1702131279908,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1193415,
+      "num": 1193415,
+      "word": "樊振东1比2张本智和",
+      "onboard_time": 1702128096,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1169868,
       "num": 480274,
       "word": "汤唯 一家三口一直住在北京",
@@ -177,14 +185,6 @@
       "onboard_time": 1702103071,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 968588,
-      "num": 968588,
-      "word": "樊振东1比2张本智和",
-      "onboard_time": 1702128096,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 960372,
@@ -289,6 +289,14 @@
       "onboard_time": 1702080209,
       "rank": 5,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 784915,
+      "num": 784915,
+      "word": "一天吃掉30万只生蚝",
+      "onboard_time": 1702128399,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 776699,
@@ -435,6 +443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 627129,
+      "num": 627129,
+      "word": "陈梦王曼昱2比1日本组合",
+      "onboard_time": 1702130674,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 616748,
       "num": 520353,
       "word": "短视频成瘾的负面影响",
@@ -465,6 +481,14 @@
       "onboard_time": 1702089631,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587221,
+      "num": 587221,
+      "word": "王安宇秦海璐 左肩有你",
+      "onboard_time": 1702129957,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 585091,
@@ -563,6 +587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 519209,
+      "num": 519209,
+      "word": "国乒vs日本",
+      "onboard_time": 1702124014,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 514176,
       "num": 514176,
       "word": "徐冬冬退赛",
@@ -592,14 +624,6 @@
       "word": "蒿俊闵离婚",
       "onboard_time": 1702083874,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 501800,
-      "num": 501800,
-      "word": "国乒vs日本",
-      "onboard_time": 1702124014,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -681,6 +705,14 @@
       "onboard_time": 1702095994,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 430050,
+      "num": 430050,
+      "word": "男子发女友照片骗男网友九万多",
+      "onboard_time": 1702129357,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429463,
@@ -947,6 +979,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 343268,
+      "num": 343268,
+      "word": "赵昭仪凭借名字丝滑入宫",
+      "onboard_time": 1702128816,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337196,
       "num": 337196,
       "word": "宋亚轩 马面裙",
@@ -969,6 +1009,14 @@
       "onboard_time": 1702116694,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 331491,
+      "num": 331491,
+      "word": "大头这一球太敢了",
+      "onboard_time": 1702130379,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 322288,
@@ -1219,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280447,
-      "num": 246680,
-      "word": "一天吃掉30万只生蚝",
-      "onboard_time": 1702128399,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 278808,
       "num": 278808,
       "word": "无纸化学习",
@@ -1475,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242477,
+      "num": 242477,
+      "word": "润喉糖是接吻的仪式感吗",
+      "onboard_time": 1702130979,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242187,
       "num": 242187,
       "word": "新闻女王 第二季",
@@ -1512,6 +1560,14 @@
       "word": "瞒天过海 消失的他",
       "onboard_time": 1702049679,
       "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 238702,
+      "num": 238702,
+      "word": "虞书欣 水蜜桃公主",
+      "onboard_time": 1702129718,
+      "rank": 32,
       "category": "电影"
     },
     {
@@ -1553,6 +1609,14 @@
       "onboard_time": 1702113572,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230925,
+      "num": 230925,
+      "word": "水晶宫vs利物浦",
+      "onboard_time": 1702130742,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 229903,
@@ -1609,6 +1673,14 @@
       "onboard_time": 1702124315,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219101,
+      "num": 219101,
+      "word": "ON获得SoloKing",
+      "onboard_time": 1702130618,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 217687,
@@ -1947,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188720,
+      "num": 188720,
+      "word": "邓为吊威亚路透",
+      "onboard_time": 1702129718,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188051,
       "num": 188051,
       "word": "张本智和说输得太惨了",
@@ -2075,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171593,
-      "num": 171593,
-      "word": "赵昭仪凭借名字丝滑入宫",
-      "onboard_time": 1702128816,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169681,
       "num": 169681,
       "word": "刘雨昕把拍摄用的菜买走了",
@@ -2177,6 +2249,14 @@
       "onboard_time": 1702123653,
       "rank": 44,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 159868,
+      "num": 209753,
+      "word": "范可新抱龙墩墩手握俩奖牌说好开心",
+      "onboard_time": 1702131160,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 159016,
@@ -2363,6 +2443,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145236,
+      "num": 246685,
+      "word": "爸爸进门后一家人的互动太暖了",
+      "onboard_time": 1702128456,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144633,
       "num": 144633,
       "word": "不要把一切看得那么严重",
@@ -2473,14 +2561,6 @@
       "onboard_time": 1702045658,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 132436,
-      "num": 246685,
-      "word": "爸爸进门后一家人的互动太暖了",
-      "onboard_time": 1702128456,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132037,
@@ -2699,6 +2779,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 90128,
+      "num": 1418218,
+      "word": "中国式现代化的本质特征",
+      "onboard_time": 1702128159,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88301,
       "num": 88301,
       "word": "蒙古獒零下20度睡雪地看家护院",
@@ -2755,14 +2843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55703,
-      "num": 1418218,
-      "word": "中国式现代化的本质特征",
-      "onboard_time": 1702128159,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53738,
       "num": 1079705,
       "word": "太空视角见证中国式现代化",
@@ -2785,6 +2865,14 @@
       "onboard_time": 1702072274,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47284,
+      "num": 317652,
+      "word": "GQ群星眼眸大片",
+      "onboard_time": 1702128940,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 46445,
