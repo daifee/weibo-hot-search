@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702110851087,
+  "endTime": 1702113363804,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -33,6 +33,14 @@
       "onboard_time": 1702091553,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1910040,
+      "num": 1910040,
+      "word": "原来茶位费是可以拒绝的",
+      "onboard_time": 1702108170,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 1855251,
@@ -83,7 +91,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1256836,
+      "raw_hot": 1273690,
       "num": 382241,
       "word": "东莞一儿童掉进超市面包搅拌机身亡",
       "onboard_time": 1702108709,
@@ -97,14 +105,6 @@
       "onboard_time": 1702096294,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1025549,
-      "num": 1025549,
-      "word": "原来茶位费是可以拒绝的",
-      "onboard_time": 1702108170,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 1007231,
@@ -123,20 +123,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 960372,
+      "num": 960372,
+      "word": "东航MU533航班空中放油后备降浦东机场",
+      "onboard_time": 1702109370,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 953513,
       "num": 953513,
       "word": "谷爱凌世界杯冠军",
       "onboard_time": 1702097075,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 882718,
-      "num": 882718,
-      "word": "东航MU533航班空中放油后备降浦东机场",
-      "onboard_time": 1702109370,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 850996,
@@ -331,12 +331,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 551651,
+      "num": 551651,
+      "word": "周先生和朱小姐的故事",
+      "onboard_time": 1702110934,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551034,
       "num": 498822,
       "word": "刘诗诗编辑记录",
       "onboard_time": 1702088131,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530902,
+      "num": 187762,
+      "word": "被上海美甲价格吓死",
+      "onboard_time": 1702112193,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 521940,
@@ -491,6 +507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 406176,
+      "num": 406176,
+      "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
+      "onboard_time": 1702107935,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403955,
       "num": 302837,
       "word": "五月天在巴黎真唱能让黑暗过去吗",
@@ -523,8 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384747,
-      "num": 384747,
+      "raw_hot": 394219,
+      "num": 394219,
       "word": "王心凌因为谁坐在了韩红身边",
       "onboard_time": 1702109612,
       "rank": 26,
@@ -577,6 +601,14 @@
       "onboard_time": 1702088553,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356397,
+      "num": 356397,
+      "word": "苏打绿名字回来了",
+      "onboard_time": 1702112670,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 353785,
@@ -633,6 +665,14 @@
       "onboard_time": 1702080086,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 328985,
+      "num": 328985,
+      "word": "人和人刚分开时是没有痛感的",
+      "onboard_time": 1702111774,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 317743,
@@ -835,11 +875,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 271323,
+      "num": 271323,
+      "word": "李文龙世界杯1500米亚军",
+      "onboard_time": 1702111111,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270980,
       "num": 270980,
       "word": "花花和谭爷爷的对峙瞬间",
       "onboard_time": 1702095093,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267712,
+      "num": 267712,
+      "word": "广州违建楼烂尾19年仍住满人",
+      "onboard_time": 1702111652,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -929,6 +985,14 @@
       "onboard_time": 1702096294,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245541,
+      "num": 245541,
+      "word": "难哄",
+      "onboard_time": 1702110871,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 243898,
@@ -1067,20 +1131,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 217133,
+      "num": 217133,
+      "word": "范可新500米亚军",
+      "onboard_time": 1702112855,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216930,
       "num": 195447,
       "word": "春楠给关晓彤化的雀翎妆",
       "onboard_time": 1702108771,
       "rank": 30,
       "category": "综艺,美妆"
-    },
-    {
-      "raw_hot": 216294,
-      "num": 216294,
-      "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
-      "onboard_time": 1702107935,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 214986,
@@ -1123,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210120,
+      "num": 210120,
+      "word": "刘少昂林孝埈晋级男子500米决赛",
+      "onboard_time": 1702108891,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 208489,
       "num": 208489,
       "word": "戍边烈士陈祥榕22岁生日",
@@ -1145,14 +1217,6 @@
       "onboard_time": 1702106190,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204459,
-      "num": 204465,
-      "word": "刘少昂林孝埈晋级男子500米决赛",
-      "onboard_time": 1702108891,
-      "rank": 28,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 203287,
@@ -1251,6 +1315,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 188913,
+      "num": 188913,
+      "word": "周深用唱歌点亮那盏灯",
+      "onboard_time": 1702112494,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188051,
       "num": 188051,
       "word": "张本智和说输得太惨了",
@@ -1315,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180505,
+      "num": 180505,
+      "word": "涉事超市回应儿童掉进面包搅拌机身亡",
+      "onboard_time": 1702112911,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179389,
       "num": 179389,
       "word": "0713对感动过敏",
@@ -1328,6 +1408,14 @@
       "word": "第一次在老虎脸上看到了无奈",
       "onboard_time": 1702097133,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176553,
+      "num": 176553,
+      "word": "新郎接亲时提出一个请求笑翻众人",
+      "onboard_time": 1702111952,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1483,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149105,
+      "num": 149105,
+      "word": "初雪落薄衫",
+      "onboard_time": 1702112911,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 148382,
       "num": 148382,
       "word": "多巴胺羽毛裙",
@@ -1555,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139061,
+      "num": 139061,
+      "word": "服务业",
+      "onboard_time": 1702111893,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 137107,
       "num": 137107,
       "word": "江苏散装是真的",
@@ -1601,6 +1705,14 @@
       "onboard_time": 1702089813,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129723,
+      "num": 129723,
+      "word": "张雪峰 原语境",
+      "onboard_time": 1702112736,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 128827,
@@ -1665,6 +1777,14 @@
       "onboard_time": 1702082971,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117372,
+      "num": 117372,
+      "word": "公俐女子1500米摘银",
+      "onboard_time": 1702111111,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 111843,
@@ -1803,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48083,
+      "num": 1063708,
+      "word": "三招养护呼吸道健康",
+      "onboard_time": 1702110031,
+      "rank": 2,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 47333,
       "num": 47333,
       "word": "王鹤棣晒时宴库存",
@@ -1833,14 +1961,6 @@
       "onboard_time": 1702090231,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35000,
-      "num": 1063708,
-      "word": "三招养护呼吸道健康",
-      "onboard_time": 1702110031,
-      "rank": 2,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 32654,
