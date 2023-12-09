@@ -1,0 +1,410 @@
+{
+  "runTime": 1702102891122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2419205,
+        "num": 2419205,
+        "word": "张雪峰回应文科都是服务业",
+        "onboard_time": 1702098694,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 946522,
+        "num": 946522,
+        "word": "南昌20死19伤重大交通事故调查报告",
+        "onboard_time": 1702093771,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46626,
+        "num": 857746,
+        "word": "2023那些浪漫又戳心的同框",
+        "onboard_time": 1702086690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792109,
+        "num": 792109,
+        "word": "车厘子价格终于开始跌了",
+        "onboard_time": 1702091971,
+        "rank": 3,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 529519,
+        "num": 529519,
+        "word": "赵露思王安宇差点就亲上了",
+        "onboard_time": 1702096357,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477509,
+        "num": 477509,
+        "word": "爱奇艺转发刘诗诗微博",
+        "onboard_time": 1702096775,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466281,
+        "num": 466281,
+        "word": "让GQ嗑上秦霄贤孟子义了",
+        "onboard_time": 1702098812,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 431273,
+        "num": 431273,
+        "word": "谷爱凌世界杯冠军",
+        "onboard_time": 1702097075,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 402947,
+        "num": 402947,
+        "word": "电视喂什么 观众就吃什么",
+        "onboard_time": 1702092814,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347011,
+        "num": 347011,
+        "word": "100年前的不婚女性",
+        "onboard_time": 1702095994,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1339300,
+        "num": 331664,
+        "word": "TFBOYS你们敢耍老子",
+        "onboard_time": 1702091553,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378206,
+        "num": 328188,
+        "word": "解清帅拒绝父亲送3房1车",
+        "onboard_time": 1702086630,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308701,
+        "num": 308701,
+        "word": "宋亚轩 马面裙",
+        "onboard_time": 1702101512,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285100,
+        "num": 285100,
+        "word": "每个女孩都可以是中国公主",
+        "onboard_time": 1702101333,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 262686,
+        "num": 262686,
+        "word": "一念关山剧本",
+        "onboard_time": 1702097193,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252667,
+        "num": 252667,
+        "word": "汤唯 一家三口一直住在北京",
+        "onboard_time": 1702096294,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233009,
+        "num": 233009,
+        "word": "金靖 营业CP就是要懂得停下",
+        "onboard_time": 1702098032,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224626,
+        "num": 224626,
+        "word": "捡别人身份证结婚害对方无法登记结婚",
+        "onboard_time": 1702084772,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222464,
+        "num": 222464,
+        "word": "女老师用石头干脆面教育孩子反校园霸凌",
+        "onboard_time": 1702099714,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218682,
+        "num": 218682,
+        "word": "周杰伦演唱会 提前半年抢票",
+        "onboard_time": 1702090772,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299841,
+        "num": 218255,
+        "word": "男子强行将女子和小孩拖出保时捷",
+        "onboard_time": 1702095393,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237274,
+        "num": 218250,
+        "word": "饭后喝茶不是刮油是增肥",
+        "onboard_time": 1702099414,
+        "rank": 21,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 222663,
+        "num": 214985,
+        "word": "女子突发癫痫司机将手指伸到她的牙齿之间",
+        "onboard_time": 1702088553,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211049,
+        "num": 211049,
+        "word": "声生不息",
+        "onboard_time": 1702099114,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203018,
+        "num": 203018,
+        "word": "为何甲状腺疾病如此高发",
+        "onboard_time": 1702102170,
+        "rank": 24,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 200762,
+        "num": 200762,
+        "word": "刘诗诗 戏份",
+        "onboard_time": 1702082191,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199713,
+        "num": 199713,
+        "word": "GQ的文案到底是谁在写",
+        "onboard_time": 1702097433,
+        "rank": 26,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 198384,
+        "num": 198384,
+        "word": "长期挤痘痘会怎么样",
+        "onboard_time": 1702098097,
+        "rank": 27,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 194461,
+        "num": 194461,
+        "word": "花33 华宵一",
+        "onboard_time": 1702087831,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181907,
+        "num": 181907,
+        "word": "日本一海岸现大量沙丁鱼尸体",
+        "onboard_time": 1702085793,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437731,
+        "num": 181820,
+        "word": "Xiaohu向队友道歉",
+        "onboard_time": 1702102109,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176270,
+        "num": 176270,
+        "word": "花花和谭爷爷的对峙瞬间",
+        "onboard_time": 1702095093,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173071,
+        "num": 173071,
+        "word": "孔刘说自己已经老了",
+        "onboard_time": 1702102653,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169681,
+        "num": 169681,
+        "word": "刘雨昕把拍摄用的菜买走了",
+        "onboard_time": 1702100731,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166939,
+        "num": 166939,
+        "word": "电话号簿为什么叫黄页",
+        "onboard_time": 1702101991,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 162856,
+        "num": 162856,
+        "word": "刘冲 我身高176",
+        "onboard_time": 1702086991,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150183,
+        "num": 150183,
+        "word": "小杨哥回应徒弟直播间开播秒封",
+        "onboard_time": 1702080209,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 147785,
+        "num": 147785,
+        "word": "减脂期外卖",
+        "onboard_time": 1702102232,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146891,
+        "num": 146891,
+        "word": "五月天在巴黎真唱能让黑暗过去吗",
+        "onboard_time": 1702090711,
+        "rank": 38,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 143331,
+        "num": 143331,
+        "word": "出生率下降导致幼儿园关停潮",
+        "onboard_time": 1702049435,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142079,
+        "num": 142079,
+        "word": "你好星期六这把拼的是运气",
+        "onboard_time": 1702096294,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137143,
+        "num": 137143,
+        "word": "香奈儿假刘海发带",
+        "onboard_time": 1702094016,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 136214,
+        "num": 136214,
+        "word": "经常早醒的人要警惕4种病",
+        "onboard_time": 1702085552,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133180,
+        "num": 133180,
+        "word": "花33 劳斯莱斯",
+        "onboard_time": 1702078765,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131941,
+        "num": 131941,
+        "word": "东京迪士尼米妮被同事掀裙子",
+        "onboard_time": 1702089631,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125486,
+        "num": 125486,
+        "word": "章若楠 哀伤是有延迟性的",
+        "onboard_time": 1702101451,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119674,
+        "num": 119674,
+        "word": "欧文受伤",
+        "onboard_time": 1702096653,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115500,
+        "num": 115500,
+        "word": "朱丹 王牌主持人实力",
+        "onboard_time": 1702080688,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114969,
+        "num": 114969,
+        "word": "世界是一个巨大的娟子",
+        "onboard_time": 1702092814,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114705,
+        "num": 114705,
+        "word": "江苏散装是真的",
+        "onboard_time": 1702099773,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}

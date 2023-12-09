@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702100040902,
+  "endTime": 1702102891122,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -8,6 +8,14 @@
       "word": "南昌20死19伤重大交通事故调查报告",
       "onboard_time": 1702093771,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2419205,
+      "num": 2419205,
+      "word": "张雪峰回应文科都是服务业",
+      "onboard_time": 1702098694,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -89,14 +97,6 @@
       "onboard_time": 1702097075,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 863644,
-      "num": 863644,
-      "word": "张雪峰回应文科都是服务业",
-      "onboard_time": 1702098694,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 850996,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437731,
+      "num": 181820,
+      "word": "Xiaohu向队友道歉",
+      "onboard_time": 1702102109,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 431748,
       "num": 431748,
       "word": "100年前的不婚女性",
@@ -539,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 308701,
+      "num": 308701,
+      "word": "宋亚轩 马面裙",
+      "onboard_time": 1702101512,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308673,
       "num": 308673,
       "word": "金靖 营业CP就是要懂得停下",
@@ -609,6 +625,14 @@
       "onboard_time": 1702092814,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 285100,
+      "num": 285100,
+      "word": "每个女孩都可以是中国公主",
+      "onboard_time": 1702101333,
+      "rank": 13,
+      "category": "时尚"
     },
     {
       "raw_hot": 282068,
@@ -795,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222464,
+      "num": 222464,
+      "word": "女老师用石头干脆面教育孩子反校园霸凌",
+      "onboard_time": 1702099714,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221319,
       "num": 221319,
       "word": "一念关山",
@@ -881,6 +913,14 @@
       "onboard_time": 1702040015,
       "rank": 26,
       "category": "游戏,数码"
+    },
+    {
+      "raw_hot": 203018,
+      "num": 203018,
+      "word": "为何甲状腺疾病如此高发",
+      "onboard_time": 1702102170,
+      "rank": 24,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 202766,
@@ -1011,12 +1051,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173071,
+      "num": 173071,
+      "word": "孔刘说自己已经老了",
+      "onboard_time": 1702102653,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169681,
+      "num": 169681,
+      "word": "刘雨昕把拍摄用的菜买走了",
+      "onboard_time": 1702100731,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169637,
       "num": 169637,
       "word": "收入有差异的伴侣如何聊钱",
       "onboard_time": 1702085491,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166939,
+      "num": 166939,
+      "word": "电话号簿为什么叫黄页",
+      "onboard_time": 1702101991,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 163803,
@@ -1123,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147785,
+      "num": 147785,
+      "word": "减脂期外卖",
+      "onboard_time": 1702102232,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145792,
       "num": 145792,
       "word": "东京漫展",
@@ -1203,14 +1275,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 132213,
-      "num": 132213,
-      "word": "女老师用石头干脆面教育孩子反校园霸凌",
-      "onboard_time": 1702099714,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132037,
       "num": 132037,
       "word": "2023LPL全明星定妆照",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1702048479,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125486,
+      "num": 125486,
+      "word": "章若楠 哀伤是有延迟性的",
+      "onboard_time": 1702101451,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 122665,
