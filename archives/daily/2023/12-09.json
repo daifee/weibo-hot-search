@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702113363804,
+  "endTime": 1702114446283,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1910040,
-      "num": 1910040,
+      "raw_hot": 1953789,
+      "num": 1953789,
       "word": "原来茶位费是可以拒绝的",
       "onboard_time": 1702108170,
       "rank": 5,
@@ -113,6 +113,14 @@
       "onboard_time": 1702077379,
       "rank": 25,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1006394,
+      "num": 187762,
+      "word": "被上海美甲价格吓死",
+      "onboard_time": 1702112193,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 989399,
@@ -347,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 530902,
-      "num": 187762,
-      "word": "被上海美甲价格吓死",
-      "onboard_time": 1702112193,
-      "rank": 30,
-      "category": "美妆"
+      "raw_hot": 536873,
+      "num": 536873,
+      "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
+      "onboard_time": 1702107935,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 521940,
@@ -507,14 +515,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 406176,
-      "num": 406176,
-      "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
-      "onboard_time": 1702107935,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 403955,
       "num": 302837,
       "word": "五月天在巴黎真唱能让黑暗过去吗",
@@ -553,6 +553,14 @@
       "onboard_time": 1702109612,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380868,
+      "num": 380868,
+      "word": "人和人刚分开时是没有痛感的",
+      "onboard_time": 1702111774,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 380321,
@@ -635,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346734,
+      "num": 279381,
+      "word": "涉事超市回应儿童掉进面包搅拌机身亡",
+      "onboard_time": 1702112911,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344090,
       "num": 344090,
       "word": "GQ 排他list艺人",
@@ -665,14 +681,6 @@
       "onboard_time": 1702080086,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 328985,
-      "num": 328985,
-      "word": "人和人刚分开时是没有痛感的",
-      "onboard_time": 1702111774,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 317743,
@@ -875,6 +883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 274892,
+      "num": 274892,
+      "word": "广州违建楼烂尾19年仍住满人",
+      "onboard_time": 1702111652,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271323,
       "num": 271323,
       "word": "李文龙世界杯1500米亚军",
@@ -888,14 +904,6 @@
       "word": "花花和谭爷爷的对峙瞬间",
       "onboard_time": 1702095093,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267712,
-      "num": 267712,
-      "word": "广州违建楼烂尾19年仍住满人",
-      "onboard_time": 1702111652,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -937,6 +945,14 @@
       "onboard_time": 1702079427,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251251,
+      "num": 251251,
+      "word": "难哄",
+      "onboard_time": 1702110871,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 250061,
@@ -985,14 +1001,6 @@
       "onboard_time": 1702096294,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245541,
-      "num": 245541,
-      "word": "难哄",
-      "onboard_time": 1702110871,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 243898,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1702094194,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231827,
+      "num": 231827,
+      "word": "警方回应男子手持板砖猛砸妻子头部",
+      "onboard_time": 1702113572,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229903,
@@ -1387,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180505,
-      "num": 180505,
-      "word": "涉事超市回应儿童掉进面包搅拌机身亡",
-      "onboard_time": 1702112911,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179389,
       "num": 179389,
       "word": "0713对感动过敏",
@@ -1419,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175383,
+      "num": 175383,
+      "word": "林孝埈刘少昂相撞",
+      "onboard_time": 1702114410,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169681,
       "num": 169681,
       "word": "刘雨昕把拍摄用的菜买走了",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1702107329,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 166991,
+      "num": 166991,
+      "word": "虞书欣 南方机器人",
+      "onboard_time": 1702113993,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 166939,
@@ -1555,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150694,
+      "num": 150694,
+      "word": "江苏省考",
+      "onboard_time": 1702113756,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149960,
       "num": 149960,
       "word": "雷霆vs勇士",
@@ -1635,6 +1667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141499,
+      "num": 141499,
+      "word": "洗头也是情侣play的一环吗",
+      "onboard_time": 1702114352,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140970,
       "num": 140970,
       "word": "照明商店 前面吓死后面哭死",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1702086151,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135066,
+      "num": 135066,
+      "word": "苗苗 我经常梦到的地方",
+      "onboard_time": 1702114352,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 133833,
@@ -1763,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120734,
+      "num": 120734,
+      "word": "仁川人全明星定妆照",
+      "onboard_time": 1702114410,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119869,
       "num": 119869,
       "word": "永远不忘清澈的爱",
@@ -1777,6 +1833,14 @@
       "onboard_time": 1702082971,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 118914,
+      "num": 118914,
+      "word": "我好像被我爷爷奶奶给PUA了",
+      "onboard_time": 1702113452,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 117372,
