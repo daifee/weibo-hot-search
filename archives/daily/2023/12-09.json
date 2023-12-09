@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702084496691,
+  "endTime": 1702085721093,
   "band_list": [
     {
       "raw_hot": 1855251,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1355941,
+      "num": 1355941,
+      "word": "朱丹 王牌主持人实力",
+      "onboard_time": 1702080688,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1346973,
       "num": 1346973,
       "word": "解清帅和女友有谈婚论嫁",
       "onboard_time": 1702078448,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1229472,
-      "num": 1229472,
-      "word": "朱丹 王牌主持人实力",
-      "onboard_time": 1702080688,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1007231,
@@ -43,6 +43,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 793766,
+      "num": 793766,
+      "word": "小杨哥回应徒弟直播间开播秒封",
+      "onboard_time": 1702080209,
+      "rank": 5,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 766897,
       "num": 766897,
       "word": "黑色素瘤",
@@ -51,20 +59,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 756020,
-      "num": 756020,
+      "raw_hot": 764711,
+      "num": 764711,
       "word": "刘诗诗 戏份",
       "onboard_time": 1702082191,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 746533,
-      "num": 746533,
-      "word": "小杨哥回应徒弟直播间开播秒封",
-      "onboard_time": 1702080209,
-      "rank": 5,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 714230,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 616748,
-      "num": 430019,
+      "num": 520353,
       "word": "短视频成瘾的负面影响",
       "onboard_time": 1702082851,
       "rank": 11,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542373,
+      "num": 542373,
+      "word": "捡别人身份证结婚害对方无法登记结婚",
+      "onboard_time": 1702084772,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521940,
       "num": 521940,
       "word": "周一围 我爱你但与你无关",
@@ -131,8 +139,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514176,
+      "num": 514176,
+      "word": "徐冬冬退赛",
+      "onboard_time": 1702084112,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 508699,
-      "num": 291108,
+      "num": 309644,
       "word": "五月天是否假唱可能不会有答案",
       "onboard_time": 1702042536,
       "rank": 20,
@@ -145,6 +161,14 @@
       "onboard_time": 1702015717,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505425,
+      "num": 505425,
+      "word": "蒿俊闵离婚",
+      "onboard_time": 1702083874,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 464644,
@@ -179,14 +203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438109,
-      "num": 438109,
-      "word": "徐冬冬退赛",
-      "onboard_time": 1702084112,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 420629,
       "num": 420629,
       "word": "偷偷藏不住 神隐隐不了",
@@ -217,6 +233,14 @@
       "onboard_time": 1702025558,
       "rank": 15,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 334143,
+      "num": 334143,
+      "word": "get不到的女明星",
+      "onboard_time": 1702080086,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317743,
@@ -275,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298225,
-      "num": 203693,
-      "word": "蒿俊闵离婚",
-      "onboard_time": 1702083874,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 296963,
+      "num": 296963,
+      "word": "教资面试真题",
+      "onboard_time": 1702084112,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 292600,
@@ -291,12 +315,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 259251,
-      "num": 259251,
+      "raw_hot": 289597,
+      "num": 289597,
       "word": "花33 劳斯莱斯",
       "onboard_time": 1702078765,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 288237,
+      "num": 288237,
+      "word": "八百米跑了5分15秒",
+      "onboard_time": 1702083812,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 254971,
@@ -313,14 +345,6 @@
       "onboard_time": 1702051653,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 253302,
-      "num": 253302,
-      "word": "get不到的女明星",
-      "onboard_time": 1702080086,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 251365,
@@ -345,6 +369,14 @@
       "onboard_time": 1702032997,
       "rank": 22,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 243303,
+      "num": 243303,
+      "word": "唐嫣工作室",
+      "onboard_time": 1702085252,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 242187,
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 229903,
-      "num": 203584,
+      "num": 210461,
       "word": "终于有人把这两个眼妆说清楚了",
       "onboard_time": 1702083452,
       "rank": 31,
@@ -411,20 +443,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210659,
+      "num": 210659,
+      "word": "不到10cm的距离看李现",
+      "onboard_time": 1702084891,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208489,
       "num": 208489,
       "word": "戍边烈士陈祥榕22岁生日",
       "onboard_time": 1702083452,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208420,
-      "num": 208420,
-      "word": "教资面试真题",
-      "onboard_time": 1702084112,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 207990,
@@ -475,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194248,
-      "num": 189565,
-      "word": "八百米跑了5分15秒",
-      "onboard_time": 1702083812,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 190882,
       "num": 190882,
       "word": "中方回应美否决加沙地带停火决议草案",
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162005,
+      "num": 162005,
+      "word": "人年轻时要多见不同的气候和地貌",
+      "onboard_time": 1702081168,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158136,
       "num": 158136,
       "word": "小李琳经超 上对花轿嫁对郎",
@@ -539,20 +571,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154872,
-      "num": 154872,
-      "word": "人年轻时要多见不同的气候和地貌",
-      "onboard_time": 1702081168,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149887,
       "num": 149887,
       "word": "檀健次周也这么会亲不要命啦",
       "onboard_time": 1702078223,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149692,
+      "num": 149692,
+      "word": "经常早醒的人要警惕4种病",
+      "onboard_time": 1702085552,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144590,
@@ -587,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135804,
+      "num": 135804,
+      "word": "以爱为营",
+      "onboard_time": 1702080809,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133833,
       "num": 133833,
       "word": "给腰腹赘肉一点震撼",
@@ -619,6 +659,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119869,
+      "num": 119869,
+      "word": "永远不忘清澈的爱",
+      "onboard_time": 1702084951,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119839,
+      "num": 119839,
+      "word": "收入有差异的伴侣如何聊钱",
+      "onboard_time": 1702085491,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119065,
       "num": 119065,
       "word": "西辣蛋",
@@ -633,14 +689,6 @@
       "onboard_time": 1702079666,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116069,
-      "num": 116069,
-      "word": "以爱为营",
-      "onboard_time": 1702080809,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 111843,
