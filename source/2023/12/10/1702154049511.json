@@ -1,0 +1,410 @@
+{
+  "runTime": 1702154049511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 128960,
+        "num": 128960,
+        "word": "拖拽妻儿男子回应称非常后悔",
+        "onboard_time": 1702138052,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128928,
+        "num": 128928,
+        "word": "专家称张雪峰言论过于极端",
+        "onboard_time": 1702144279,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80433,
+        "num": 80433,
+        "word": "第一学历",
+        "onboard_time": 1702136075,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72401,
+        "num": 72401,
+        "word": "塌腰",
+        "onboard_time": 1702131942,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71371,
+        "num": 71371,
+        "word": "身体8个部位的疼痛可能是心梗前兆",
+        "onboard_time": 1702121795,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68952,
+        "num": 68952,
+        "word": "19岁女孩上悬赏公告因高颜值受关注",
+        "onboard_time": 1702117053,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67672,
+        "num": 67672,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60917,
+        "num": 60917,
+        "word": "花花最近白得发亮",
+        "onboard_time": 1702137213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56890,
+        "num": 56890,
+        "word": "无视性别公开开战 野性是女性的勋章",
+        "onboard_time": 1702145006,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51567,
+        "num": 51567,
+        "word": "南京大屠杀又添新证据",
+        "onboard_time": 1702132179,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41673,
+        "num": 41673,
+        "word": "孙千孙美林",
+        "onboard_time": 1702142483,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38581,
+        "num": 38581,
+        "word": "白鹿不跑真的就白录了",
+        "onboard_time": 1702133559,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35939,
+        "num": 35939,
+        "word": "黄晓明带儿子去迪士尼",
+        "onboard_time": 1702136315,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30453,
+        "num": 30453,
+        "word": "男子裤裆藏3只小动物过海关被查",
+        "onboard_time": 1702123415,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28838,
+        "num": 28838,
+        "word": "杨幂 客串",
+        "onboard_time": 1702120956,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28470,
+        "num": 28470,
+        "word": "宋江 客观的帅",
+        "onboard_time": 1702131457,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28148,
+        "num": 28148,
+        "word": "一念关山 修图",
+        "onboard_time": 1702126178,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27807,
+        "num": 27807,
+        "word": "被上海美甲价格吓死",
+        "onboard_time": 1702112193,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 26854,
+        "num": 26854,
+        "word": "东莞一儿童掉进超市面包搅拌机身亡",
+        "onboard_time": 1702108709,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25916,
+        "num": 25916,
+        "word": "高校为母女提供宿舍一住就是5年",
+        "onboard_time": 1702143082,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25793,
+        "num": 25793,
+        "word": "WBG 续约",
+        "onboard_time": 1702120653,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24908,
+        "num": 24908,
+        "word": "决定朋友圈不再屏蔽爸妈",
+        "onboard_time": 1702119273,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24396,
+        "num": 24396,
+        "word": "崔然竣 中国校服",
+        "onboard_time": 1702148238,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24176,
+        "num": 24176,
+        "word": "郑钧演唱会上表白刘芸",
+        "onboard_time": 1702134999,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22023,
+        "num": 22023,
+        "word": "王楚钦孙颖莎1比2日本组合",
+        "onboard_time": 1702124376,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23873,
+        "num": 21988,
+        "word": "林俊杰嘉宾 李荣浩",
+        "onboard_time": 1702132599,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22591,
+        "num": 21806,
+        "word": "王安宇秦海璐 左肩有你",
+        "onboard_time": 1702129957,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21532,
+        "num": 21532,
+        "word": "T1表演赛",
+        "onboard_time": 1702132599,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21325,
+        "num": 21325,
+        "word": "卡比丘新书",
+        "onboard_time": 1702150516,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 15872,
+        "num": 21095,
+        "word": "院士登台演讲穿了双老化掉渣的鞋",
+        "onboard_time": 1702138411,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21401,
+        "num": 21095,
+        "word": "林俊杰 浪漫广西",
+        "onboard_time": 1702119335,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21075,
+        "num": 21075,
+        "word": "王一博藏起来看王传君",
+        "onboard_time": 1702142723,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20902,
+        "num": 20902,
+        "word": "男子发女友照片骗男网友九万多",
+        "onboard_time": 1702129357,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19975,
+        "num": 19975,
+        "word": "王曼昱此球全体起立",
+        "onboard_time": 1702126540,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19350,
+        "num": 19350,
+        "word": "EXO全员参加经纪人婚礼",
+        "onboard_time": 1702125033,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17836,
+        "num": 17836,
+        "word": "一万块钱花一年",
+        "onboard_time": 1702119574,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17591,
+        "num": 17591,
+        "word": "周也 苗疆少女造型",
+        "onboard_time": 1702133916,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17516,
+        "num": 17516,
+        "word": "广州芳村金融茶崩盘",
+        "onboard_time": 1702152194,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 17022,
+        "num": 17022,
+        "word": "萌兰34码的小jiojio",
+        "onboard_time": 1702135236,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16921,
+        "num": 16921,
+        "word": "樊振东1比2张本智和",
+        "onboard_time": 1702128096,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16180,
+        "num": 16180,
+        "word": "杨幂对接辟谣酱园弄客串",
+        "onboard_time": 1702125633,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16117,
+        "num": 16117,
+        "word": "一天吃掉30万只生蚝",
+        "onboard_time": 1702128399,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15933,
+        "num": 15933,
+        "word": "虞书欣 水蜜桃公主",
+        "onboard_time": 1702129718,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15824,
+        "num": 15824,
+        "word": "娜扎 美神",
+        "onboard_time": 1702118254,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15514,
+        "num": 15514,
+        "word": "朱丹 你的文笔胜过你的表达",
+        "onboard_time": 1702119273,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15031,
+        "num": 15508,
+        "word": "金裕贞宋江吻戏",
+        "onboard_time": 1702133379,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14641,
+        "num": 15505,
+        "word": "照明商店 姐姐",
+        "onboard_time": 1702151294,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14543,
+        "num": 15495,
+        "word": "喻言一巡收官",
+        "onboard_time": 1702144461,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12522,
+        "num": 15489,
+        "word": "广州马拉松",
+        "onboard_time": 1702153813,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 12513,
+        "num": 15479,
+        "word": "樊振东状态",
+        "onboard_time": 1702127315,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}
