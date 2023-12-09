@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702096472825,
+  "endTime": 1702098978514,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -67,12 +67,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1066870,
+      "num": 480274,
+      "word": "汤唯 一家三口一直住在北京",
+      "onboard_time": 1702096294,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1007231,
       "num": 1007231,
       "word": "官方通报警务辅助人员称要查网友个人信息",
       "onboard_time": 1702077379,
       "rank": 25,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 953513,
+      "num": 953513,
+      "word": "谷爱凌世界杯冠军",
+      "onboard_time": 1702097075,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 850996,
+      "num": 850996,
+      "word": "爱奇艺转发刘诗诗微博",
+      "onboard_time": 1702096775,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 837524,
+      "num": 837524,
+      "word": "电视喂什么 观众就吃什么",
+      "onboard_time": 1702092814,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 825764,
@@ -105,14 +137,6 @@
       "onboard_time": 1702049078,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 753660,
-      "num": 753660,
-      "word": "电视喂什么 观众就吃什么",
-      "onboard_time": 1702092814,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 741015,
@@ -169,6 +193,14 @@
       "onboard_time": 1702021117,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674867,
+      "num": 674867,
+      "word": "赵露思王安宇差点就亲上了",
+      "onboard_time": 1702096357,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 672876,
@@ -291,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499404,
+      "num": 286814,
+      "word": "男子强行将女子和小孩拖出保时捷",
+      "onboard_time": 1702095393,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464644,
       "num": 464644,
       "word": "新闻女王 烂尾",
@@ -329,6 +369,22 @@
       "onboard_time": 1702039957,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 416701,
+      "num": 416701,
+      "word": "100年前的不婚女性",
+      "onboard_time": 1702095994,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 414366,
+      "num": 414366,
+      "word": "GQ的文案到底是谁在写",
+      "onboard_time": 1702097433,
+      "rank": 14,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 411853,
@@ -395,19 +451,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360565,
+      "num": 360565,
+      "word": "一念关山剧本",
+      "onboard_time": 1702097193,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357565,
       "num": 302141,
       "word": "女子突发癫痫司机将手指伸到她的牙齿之间",
       "onboard_time": 1702088553,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354806,
-      "num": 270412,
-      "word": "男子强行将女子和小孩拖出保时捷",
-      "onboard_time": 1702095393,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -499,6 +555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 301290,
+      "num": 301290,
+      "word": "金靖 营业CP就是要懂得停下",
+      "onboard_time": 1702098032,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298977,
       "num": 298977,
       "word": "TFBOYS十周年DVD纪录片",
@@ -587,6 +651,22 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 245716,
+      "num": 245716,
+      "word": "你好星期六这把拼的是运气",
+      "onboard_time": 1702096294,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 244355,
+      "num": 244355,
+      "word": "长期挤痘痘会怎么样",
+      "onboard_time": 1702098097,
+      "rank": 25,
+      "category": "健康医疗,美妆"
+    },
+    {
       "raw_hot": 243898,
       "num": 243898,
       "word": "花33 华宵一",
@@ -619,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239622,
+      "num": 239622,
+      "word": "欧文受伤",
+      "onboard_time": 1702096653,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239426,
       "num": 239426,
       "word": "瞒天过海 消失的他",
@@ -643,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230320,
+      "num": 230320,
+      "word": "让GQ嗑上秦霄贤孟子义了",
+      "onboard_time": 1702098812,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229903,
       "num": 210461,
       "word": "终于有人把这两个眼妆说清楚了",
@@ -665,6 +761,14 @@
       "onboard_time": 1702046561,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226606,
+      "num": 226606,
+      "word": "谷爱凌比赛也得考试",
+      "onboard_time": 1702094075,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 221319,
@@ -763,20 +867,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202593,
+      "num": 202593,
+      "word": "张雪峰回应文科都是服务业",
+      "onboard_time": 1702098694,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201693,
       "num": 201693,
       "word": "解清帅",
       "onboard_time": 1702088672,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197578,
-      "num": 197578,
-      "word": "汤唯 一家三口一直住在北京",
-      "onboard_time": 1702096294,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 197422,
@@ -817,14 +921,6 @@
       "onboard_time": 1702087051,
       "rank": 33,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 188415,
-      "num": 188415,
-      "word": "谷爱凌比赛也得考试",
-      "onboard_time": 1702094075,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 188051,
@@ -875,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182167,
+      "num": 182167,
+      "word": "姐俩真爱 小胡意外",
+      "onboard_time": 1702096533,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179389,
       "num": 179389,
       "word": "0713对感动过敏",
@@ -883,20 +987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177501,
-      "num": 177501,
-      "word": "100年前的不婚女性",
-      "onboard_time": 1702095994,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 176930,
-      "num": 176930,
-      "word": "你好星期六这把拼的是运气",
-      "onboard_time": 1702096294,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 177609,
+      "num": 177609,
+      "word": "第一次在老虎脸上看到了无奈",
+      "onboard_time": 1702097133,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169637,
@@ -931,20 +1027,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159105,
-      "num": 159105,
-      "word": "赵露思王安宇差点就亲上了",
-      "onboard_time": 1702096357,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158136,
       "num": 158136,
       "word": "小李琳经超 上对花轿嫁对郎",
       "onboard_time": 1702069694,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157922,
+      "num": 157922,
+      "word": "谷爱凌新赛季首冠",
+      "onboard_time": 1702098631,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 156315,
@@ -1073,6 +1169,14 @@
       "onboard_time": 1702045658,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 131124,
+      "num": 131124,
+      "word": "2023LPL全明星定妆照",
+      "onboard_time": 1702098933,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 129956,

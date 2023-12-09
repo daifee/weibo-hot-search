@@ -1,0 +1,410 @@
+{
+  "runTime": 1702098978514,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1864754,
+        "num": 1864754,
+        "word": "南昌20死19伤重大交通事故调查报告",
+        "onboard_time": 1702093771,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1435878,
+        "num": 1435878,
+        "word": "车厘子价格终于开始跌了",
+        "onboard_time": 1702091971,
+        "rank": 1,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 59632,
+        "num": 1027340,
+        "word": "2023那些浪漫又戳心的同框",
+        "onboard_time": 1702086690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953513,
+        "num": 953513,
+        "word": "谷爱凌世界杯冠军",
+        "onboard_time": 1702097075,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 850996,
+        "num": 850996,
+        "word": "爱奇艺转发刘诗诗微博",
+        "onboard_time": 1702096775,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 837524,
+        "num": 837524,
+        "word": "电视喂什么 观众就吃什么",
+        "onboard_time": 1702092814,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 674867,
+        "num": 674867,
+        "word": "赵露思王安宇差点就亲上了",
+        "onboard_time": 1702096357,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505324,
+        "num": 505324,
+        "word": "解清帅拒绝父亲送3房1车",
+        "onboard_time": 1702086630,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505033,
+        "num": 505033,
+        "word": "捡别人身份证结婚害对方无法登记结婚",
+        "onboard_time": 1702084772,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501137,
+        "num": 501137,
+        "word": "周杰伦演唱会 提前半年抢票",
+        "onboard_time": 1702090772,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1659445,
+        "num": 496877,
+        "word": "TFBOYS你们敢耍老子",
+        "onboard_time": 1702091553,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1066870,
+        "num": 480274,
+        "word": "汤唯 一家三口一直住在北京",
+        "onboard_time": 1702096294,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449807,
+        "num": 449807,
+        "word": "文科 服务业",
+        "onboard_time": 1702091553,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416701,
+        "num": 416701,
+        "word": "100年前的不婚女性",
+        "onboard_time": 1702095994,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414366,
+        "num": 414366,
+        "word": "GQ的文案到底是谁在写",
+        "onboard_time": 1702097433,
+        "rank": 14,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 365770,
+        "num": 365770,
+        "word": "古茗小程序崩了",
+        "onboard_time": 1702094975,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 360565,
+        "num": 360565,
+        "word": "一念关山剧本",
+        "onboard_time": 1702097193,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342331,
+        "num": 342331,
+        "word": "香奈儿假刘海发带",
+        "onboard_time": 1702094016,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 301290,
+        "num": 301290,
+        "word": "金靖 营业CP就是要懂得停下",
+        "onboard_time": 1702098032,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287546,
+        "num": 287546,
+        "word": "东京迪士尼米妮被同事掀裙子",
+        "onboard_time": 1702089631,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499404,
+        "num": 286814,
+        "word": "男子强行将女子和小孩拖出保时捷",
+        "onboard_time": 1702095393,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276434,
+        "num": 276434,
+        "word": "刘诗诗 戏份",
+        "onboard_time": 1702082191,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262723,
+        "num": 262723,
+        "word": "花花和谭爷爷的对峙瞬间",
+        "onboard_time": 1702095093,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256104,
+        "num": 256104,
+        "word": "女子突发癫痫司机将手指伸到她的牙齿之间",
+        "onboard_time": 1702088553,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245716,
+        "num": 245716,
+        "word": "你好星期六这把拼的是运气",
+        "onboard_time": 1702096294,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244355,
+        "num": 244355,
+        "word": "长期挤痘痘会怎么样",
+        "onboard_time": 1702098097,
+        "rank": 25,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 239622,
+        "num": 239622,
+        "word": "欧文受伤",
+        "onboard_time": 1702096653,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235403,
+        "num": 235403,
+        "word": "刘冲 我身高176",
+        "onboard_time": 1702086991,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230320,
+        "num": 230320,
+        "word": "让GQ嗑上秦霄贤孟子义了",
+        "onboard_time": 1702098812,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227611,
+        "num": 227611,
+        "word": "日本一海岸现大量沙丁鱼尸体",
+        "onboard_time": 1702085793,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226606,
+        "num": 226606,
+        "word": "谷爱凌比赛也得考试",
+        "onboard_time": 1702094075,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224148,
+        "num": 224148,
+        "word": "朱丹 王牌主持人实力",
+        "onboard_time": 1702080688,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220506,
+        "num": 220506,
+        "word": "世界是一个巨大的娟子",
+        "onboard_time": 1702092814,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217006,
+        "num": 217006,
+        "word": "出生率下降导致幼儿园关停潮",
+        "onboard_time": 1702049435,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202593,
+        "num": 202593,
+        "word": "张雪峰回应文科都是服务业",
+        "onboard_time": 1702098694,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199859,
+        "num": 199859,
+        "word": "花33 劳斯莱斯",
+        "onboard_time": 1702078765,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199758,
+        "num": 199758,
+        "word": "花33 华宵一",
+        "onboard_time": 1702087831,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195493,
+        "num": 195493,
+        "word": "小杨哥回应徒弟直播间开播秒封",
+        "onboard_time": 1702080209,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 182167,
+        "num": 182167,
+        "word": "姐俩真爱 小胡意外",
+        "onboard_time": 1702096533,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181077,
+        "num": 181077,
+        "word": "五月天在巴黎真唱能让黑暗过去吗",
+        "onboard_time": 1702090711,
+        "rank": 39,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 177609,
+        "num": 177609,
+        "word": "第一次在老虎脸上看到了无奈",
+        "onboard_time": 1702097133,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157922,
+        "num": 157922,
+        "word": "谷爱凌新赛季首冠",
+        "onboard_time": 1702098631,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155419,
+        "num": 155419,
+        "word": "周杰伦福州抢票",
+        "onboard_time": 1702088732,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153283,
+        "num": 153283,
+        "word": "堆堆袜",
+        "onboard_time": 1702090830,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 146782,
+        "num": 146782,
+        "word": "苏翊鸣世界杯第一晋级",
+        "onboard_time": 1702093893,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145480,
+        "num": 145480,
+        "word": "杨幂易烊千玺刘冲合照",
+        "onboard_time": 1702089033,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142637,
+        "num": 142637,
+        "word": "官方通报警务辅助人员称要查网友个人信息",
+        "onboard_time": 1702077379,
+        "rank": 46,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 137149,
+        "num": 137149,
+        "word": "经常早醒的人要警惕4种病",
+        "onboard_time": 1702085552,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131124,
+        "num": 131124,
+        "word": "2023LPL全明星定妆照",
+        "onboard_time": 1702098933,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130734,
+        "num": 130734,
+        "word": "五月天巴黎现场",
+        "onboard_time": 1702093233,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}
