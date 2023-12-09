@@ -1,0 +1,410 @@
+{
+  "runTime": 1702120453176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 958937,
+        "num": 958937,
+        "word": "林孝埈刘少昂相撞",
+        "onboard_time": 1702114410,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323142,
+        "num": 848500,
+        "word": "女老师用石头干脆面教育孩子反校园霸凌",
+        "onboard_time": 1702099714,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41762,
+        "num": 772983,
+        "word": "三招养护呼吸道健康",
+        "onboard_time": 1702110031,
+        "rank": 2,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 738402,
+        "num": 738402,
+        "word": "酱园弄",
+        "onboard_time": 1702117832,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236564,
+        "num": 682206,
+        "word": "新郎接亲时提出一个请求笑翻众人",
+        "onboard_time": 1702111952,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659236,
+        "num": 659236,
+        "word": "原来茶位费是可以拒绝的",
+        "onboard_time": 1702108170,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203671,
+        "num": 655248,
+        "word": "爷爷陪小猫打针还给小猫暖输液管",
+        "onboard_time": 1702118077,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654955,
+        "num": 654955,
+        "word": "娜扎 美神",
+        "onboard_time": 1702118254,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583485,
+        "num": 583485,
+        "word": "周先生和朱小姐的故事",
+        "onboard_time": 1702110934,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551997,
+        "num": 551997,
+        "word": "文科生就业率不到理科生一半",
+        "onboard_time": 1702115612,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 884957,
+        "num": 549900,
+        "word": "被上海美甲价格吓死",
+        "onboard_time": 1702112193,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 882431,
+        "num": 549089,
+        "word": "东莞一儿童掉进超市面包搅拌机身亡",
+        "onboard_time": 1702108709,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543301,
+        "num": 543301,
+        "word": "6200一杯咖啡",
+        "onboard_time": 1702114535,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 495172,
+        "num": 495172,
+        "word": "丹东警方回应锁匠帮开锁被炸身亡",
+        "onboard_time": 1702114652,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473281,
+        "num": 473281,
+        "word": "辛芷蕾 我妈让我给她澄清一下",
+        "onboard_time": 1702115251,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424316,
+        "num": 424316,
+        "word": "朱丹 你的文笔胜过你的表达",
+        "onboard_time": 1702119273,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380876,
+        "num": 380876,
+        "word": "TFBOYS你们敢耍老子",
+        "onboard_time": 1702091553,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375351,
+        "num": 375351,
+        "word": "多位脱口秀女演员发声明拒绝性骚扰",
+        "onboard_time": 1702115852,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 354571,
+        "num": 354571,
+        "word": "张颂文周一围林家川 三个人的友情",
+        "onboard_time": 1702119454,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350436,
+        "num": 350436,
+        "word": "刘少昂回应与林孝埈相撞",
+        "onboard_time": 1702117472,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347252,
+        "num": 347252,
+        "word": "一万块钱花一年",
+        "onboard_time": 1702119574,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329667,
+        "num": 329667,
+        "word": "19岁女孩上悬赏公告因高颜值受关注",
+        "onboard_time": 1702117053,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309358,
+        "num": 309358,
+        "word": "王一博和王传君打招呼",
+        "onboard_time": 1702116694,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 295235,
+        "num": 295235,
+        "word": "林俊杰 浪漫广西",
+        "onboard_time": 1702119335,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289665,
+        "num": 289665,
+        "word": "决定朋友圈不再屏蔽爸妈",
+        "onboard_time": 1702119273,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275734,
+        "num": 275734,
+        "word": "每次疫情对男性伤害可能会更大",
+        "onboard_time": 1702118914,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264262,
+        "num": 264262,
+        "word": "KBS",
+        "onboard_time": 1702117053,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253041,
+        "num": 253041,
+        "word": "东航MU533航班空中放油后备降浦东机场",
+        "onboard_time": 1702109370,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251111,
+        "num": 251111,
+        "word": "谁教00后这样离职的",
+        "onboard_time": 1702118792,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243443,
+        "num": 243443,
+        "word": "汪苏泷爱丫爱丫直拍全程开大",
+        "onboard_time": 1702117773,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213466,
+        "num": 213466,
+        "word": "常华森直播",
+        "onboard_time": 1702119696,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232697,
+        "num": 210211,
+        "word": "王心凌因为谁坐在了韩红身边",
+        "onboard_time": 1702109612,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202297,
+        "num": 202297,
+        "word": "王多多开场秀",
+        "onboard_time": 1702118432,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200228,
+        "num": 200228,
+        "word": "东航",
+        "onboard_time": 1702115552,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194120,
+        "num": 194120,
+        "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
+        "onboard_time": 1702107935,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192802,
+        "num": 192802,
+        "word": "周也 头像大户",
+        "onboard_time": 1702117293,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190808,
+        "num": 190808,
+        "word": "人和人刚分开时是没有痛感的",
+        "onboard_time": 1702111774,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189021,
+        "num": 189021,
+        "word": "三大队 程兵的if线",
+        "onboard_time": 1702120053,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186198,
+        "num": 186198,
+        "word": "刘诗诗 如意一直都很清醒",
+        "onboard_time": 1702115310,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177621,
+        "num": 177621,
+        "word": "羊博基尼商家雪地零下10度卖羊",
+        "onboard_time": 1702118554,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170892,
+        "num": 170892,
+        "word": "真正的放下不是删除拉黑",
+        "onboard_time": 1702105832,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170324,
+        "num": 170324,
+        "word": "瞒天过海 get到许光汉",
+        "onboard_time": 1702117832,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162036,
+        "num": 162036,
+        "word": "洗头也是情侣play的一环吗",
+        "onboard_time": 1702114352,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159016,
+        "num": 159016,
+        "word": "秀智旅行随拍",
+        "onboard_time": 1702119814,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156371,
+        "num": 156371,
+        "word": "苗苗 我经常梦到的地方",
+        "onboard_time": 1702114352,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155547,
+        "num": 155547,
+        "word": "难哄",
+        "onboard_time": 1702110871,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147559,
+        "num": 147559,
+        "word": "脱口秀演员性骚扰被取消合作",
+        "onboard_time": 1702118315,
+        "rank": 46,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 129225,
+        "num": 129225,
+        "word": "张雪峰回应文科都是服务业",
+        "onboard_time": 1702098694,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 124334,
+        "num": 124334,
+        "word": "猫猫村落",
+        "onboard_time": 1702120174,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123581,
+        "num": 123581,
+        "word": "Kitty官宣离职",
+        "onboard_time": 1702104269,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}
