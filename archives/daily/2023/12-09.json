@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702127935706,
+  "endTime": 1702128855084,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1796719,
-      "num": 1796719,
+      "raw_hot": 1801420,
+      "num": 1801420,
       "word": "男子裤裆藏3只小动物过海关被查",
       "onboard_time": 1702123415,
       "rank": 5,
@@ -177,6 +177,14 @@
       "onboard_time": 1702103071,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 968588,
+      "num": 968588,
+      "word": "樊振东1比2张本智和",
+      "onboard_time": 1702128096,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 960372,
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592487,
+      "num": 592487,
+      "word": "一念关山 修图",
+      "onboard_time": 1702126178,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588155,
       "num": 588155,
       "word": "东京迪士尼米妮被同事掀裙子",
@@ -577,14 +593,6 @@
       "onboard_time": 1702083874,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 502412,
-      "num": 502412,
-      "word": "一念关山 修图",
-      "onboard_time": 1702126178,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 501800,
@@ -907,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349725,
+      "num": 349725,
+      "word": "王姐太帅了",
+      "onboard_time": 1702127495,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346734,
       "num": 279381,
       "word": "涉事超市回应儿童掉进面包搅拌机身亡",
@@ -939,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 335919,
-      "num": 335919,
-      "word": "王姐太帅了",
-      "onboard_time": 1702127495,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 334143,
       "num": 334143,
       "word": "get不到的女明星",
@@ -971,20 +979,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319240,
+      "num": 319240,
+      "word": "身体8个部位的疼痛可能是心梗前兆",
+      "onboard_time": 1702121795,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 317743,
       "num": 317743,
       "word": "青岛一小区保安持刀连捅外卖员数刀",
       "onboard_time": 1702046259,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317568,
-      "num": 317568,
-      "word": "身体8个部位的疼痛可能是心梗前兆",
-      "onboard_time": 1702121795,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 316804,
@@ -1099,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298412,
+      "num": 298412,
+      "word": "任如意李同光师徒相认",
+      "onboard_time": 1702128278,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296963,
       "num": 296963,
       "word": "教资面试真题",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1702109972,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295601,
+      "num": 295601,
+      "word": "化妆的尽头",
+      "onboard_time": 1702127074,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 295235,
@@ -1195,12 +1219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280447,
+      "num": 246680,
+      "word": "一天吃掉30万只生蚝",
+      "onboard_time": 1702128399,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 278808,
       "num": 278808,
       "word": "无纸化学习",
       "onboard_time": 1702109370,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 276975,
+      "num": 276975,
+      "word": "吴京还是看了那期王牌",
+      "onboard_time": 1702127435,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 276616,
@@ -1241,14 +1281,6 @@
       "onboard_time": 1702115552,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272965,
-      "num": 272965,
-      "word": "化妆的尽头",
-      "onboard_time": 1702127074,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 271323,
@@ -1355,14 +1387,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 248980,
-      "num": 248980,
-      "word": "吴京还是看了那期王牌",
-      "onboard_time": 1702127435,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248617,
       "num": 248617,
       "word": "赵露思1首OST11套衣服",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1702032997,
       "rank": 22,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 246665,
+      "num": 246665,
+      "word": "徐杰受伤",
+      "onboard_time": 1702127918,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 245782,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1702079666,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 217589,
+      "num": 217589,
+      "word": "许昕 观众席",
+      "onboard_time": 1702128399,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 217133,
@@ -1843,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193955,
+      "num": 193955,
+      "word": "水獭 没有人替我发声吗",
+      "onboard_time": 1702128215,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191572,
       "num": 191572,
       "word": "LPL全明星solo赛",
@@ -2027,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171593,
+      "num": 171593,
+      "word": "赵昭仪凭借名字丝滑入宫",
+      "onboard_time": 1702128816,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169681,
       "num": 169681,
       "word": "刘雨昕把拍摄用的菜买走了",
@@ -2169,14 +2225,6 @@
       "onboard_time": 1702051177,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 155692,
-      "num": 155692,
-      "word": "徐杰受伤",
-      "onboard_time": 1702127918,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 155296,
@@ -2425,6 +2473,14 @@
       "onboard_time": 1702045658,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 132436,
+      "num": 246685,
+      "word": "爸爸进门后一家人的互动太暖了",
+      "onboard_time": 1702128456,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132037,
@@ -2697,6 +2753,14 @@
       "onboard_time": 1702044699,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55703,
+      "num": 1418218,
+      "word": "中国式现代化的本质特征",
+      "onboard_time": 1702128159,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53738,
