@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/10 06:33:50
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/10 07:16:48
 </p>
 </blockquote>
 <p>
@@ -4923,6 +4923,12 @@ VOGUE编辑回怼网友（热度：441065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%E8%BF%87%E4%BA%8E%E6%9E%81%E7%AB%AF%23" target="weibo">
+专家称张雪峰言论过于极端（热度：440822）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E5%8D%9A%20%E4%B8%8D%E5%9C%A8%23" target="weibo">
 赵一博 不在（热度：440697）
 </a>
@@ -6005,12 +6011,6 @@ LPL全明星 录播（热度：381763）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%92%8C%E4%BA%BA%E5%88%9A%E5%88%86%E5%BC%80%E6%97%B6%E6%98%AF%E6%B2%A1%E6%9C%89%E7%97%9B%E6%84%9F%E7%9A%84%23" target="weibo">
 人和人刚分开时是没有痛感的（热度：380868）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%20%E7%A4%BE%E4%BA%A4%E6%8A%93%E9%A9%AC%E7%8E%B0%E5%9C%BA%23" target="weibo">
-声生不息 社交抓马现场（热度：380629）
 </a>
 </li>
 
