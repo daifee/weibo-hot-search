@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702114446283,
+  "endTime": 1702117042935,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -33,6 +33,14 @@
       "onboard_time": 1702091553,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2171346,
+      "num": 2171346,
+      "word": "林孝埈刘少昂相撞",
+      "onboard_time": 1702114410,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 1953789,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1273690,
-      "num": 382241,
+      "num": 567091,
       "word": "东莞一儿童掉进超市面包搅拌机身亡",
       "onboard_time": 1702108709,
       "rank": 10,
@@ -107,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1077172,
+      "num": 568517,
+      "word": "被上海美甲价格吓死",
+      "onboard_time": 1702112193,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1007231,
       "num": 1007231,
       "word": "官方通报警务辅助人员称要查网友个人信息",
       "onboard_time": 1702077379,
       "rank": 25,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1006394,
-      "num": 187762,
-      "word": "被上海美甲价格吓死",
-      "onboard_time": 1702112193,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 989399,
@@ -177,6 +185,14 @@
       "onboard_time": 1702082191,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 806388,
+      "num": 806388,
+      "word": "多位脱口秀女演员发声明拒绝性骚扰",
+      "onboard_time": 1702115852,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 804883,
@@ -241,6 +257,14 @@
       "onboard_time": 1702090772,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 694269,
+      "num": 694269,
+      "word": "周先生和朱小姐的故事",
+      "onboard_time": 1702110934,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 688290,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601090,
+      "num": 601090,
+      "word": "文科生就业率不到理科生一半",
+      "onboard_time": 1702115612,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 588155,
       "num": 588155,
       "word": "东京迪士尼米妮被同事掀裙子",
@@ -339,12 +371,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 551651,
-      "num": 551651,
-      "word": "周先生和朱小姐的故事",
-      "onboard_time": 1702110934,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 569405,
+      "num": 569405,
+      "word": "6200一杯咖啡",
+      "onboard_time": 1702114535,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 551159,
+      "num": 551159,
+      "word": "丹东警方回应锁匠帮开锁被炸身亡",
+      "onboard_time": 1702114652,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551034,
@@ -409,6 +449,14 @@
       "onboard_time": 1702083874,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 502186,
+      "num": 502186,
+      "word": "辛芷蕾 我妈让我给她澄清一下",
+      "onboard_time": 1702115251,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 499404,
@@ -843,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 291648,
+      "num": 1597503,
+      "word": "女老师用石头干脆面教育孩子反校园霸凌",
+      "onboard_time": 1702099714,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289872,
       "num": 289872,
       "word": "封神三人组 作战默契",
@@ -891,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274350,
+      "num": 274350,
+      "word": "东航",
+      "onboard_time": 1702115552,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271323,
       "num": 271323,
       "word": "李文龙世界杯1500米亚军",
@@ -905,6 +969,14 @@
       "onboard_time": 1702095093,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265153,
+      "num": 265153,
+      "word": "苗苗 我经常梦到的地方",
+      "onboard_time": 1702114352,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 258147,
@@ -1043,20 +1115,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239525,
-      "num": 239525,
-      "word": "女老师用石头干脆面教育孩子反校园霸凌",
-      "onboard_time": 1702099714,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239426,
       "num": 239426,
       "word": "瞒天过海 消失的他",
       "onboard_time": 1702049679,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 238690,
+      "num": 238690,
+      "word": "刘诗诗 如意一直都很清醒",
+      "onboard_time": 1702115310,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 236541,
@@ -1171,12 +1243,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214587,
+      "num": 214587,
+      "word": "我投赖皮蛇一票",
+      "onboard_time": 1702115192,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212327,
       "num": 389653,
       "word": "小米手环原神定制版评测",
       "onboard_time": 1702089213,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 211300,
+      "num": 211300,
+      "word": "三大队 选角",
+      "onboard_time": 1702116153,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 210659,
@@ -1259,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201923,
+      "num": 201923,
+      "word": "王一博和王传君打招呼",
+      "onboard_time": 1702116694,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201693,
       "num": 201693,
       "word": "解清帅",
@@ -1289,6 +1385,14 @@
       "onboard_time": 1702107210,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196127,
+      "num": 196127,
+      "word": "GQ盛典墨镜黑白大片",
+      "onboard_time": 1702116337,
+      "rank": 28,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 195316,
@@ -1403,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181198,
+      "num": 181198,
+      "word": "洗头也是情侣play的一环吗",
+      "onboard_time": 1702114352,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179389,
       "num": 179389,
       "word": "0713对感动过敏",
@@ -1420,19 +1532,11 @@
     },
     {
       "raw_hot": 176553,
-      "num": 176553,
+      "num": 946339,
       "word": "新郎接亲时提出一个请求笑翻众人",
       "onboard_time": 1702111952,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175383,
-      "num": 175383,
-      "word": "林孝埈刘少昂相撞",
-      "onboard_time": 1702114410,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 169681,
@@ -1457,6 +1561,14 @@
       "onboard_time": 1702107329,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 168976,
+      "num": 168976,
+      "word": "少女时代SHINee同框画风",
+      "onboard_time": 1702114593,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 166991,
@@ -1521,6 +1633,14 @@
       "onboard_time": 1702098631,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157638,
+      "num": 157638,
+      "word": "白鹿撕名牌环节好拼",
+      "onboard_time": 1702115192,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 156315,
@@ -1603,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149668,
+      "num": 149668,
+      "word": "TheShy西装限定皮肤",
+      "onboard_time": 1702116631,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149105,
       "num": 149105,
       "word": "初雪落薄衫",
@@ -1643,6 +1771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144626,
+      "num": 144626,
+      "word": "檀健次是真的听劝",
+      "onboard_time": 1702114652,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144590,
       "num": 144590,
       "word": "辛芷蕾左脚油门右脚刹车",
@@ -1659,20 +1795,20 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 143176,
+      "num": 143176,
+      "word": "张晚意王楚然Gucci大片",
+      "onboard_time": 1702114593,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 141756,
       "num": 141756,
       "word": "GQ船上外景",
       "onboard_time": 1702039296,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 141499,
-      "num": 141499,
-      "word": "洗头也是情侣play的一环吗",
-      "onboard_time": 1702114352,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 140970,
@@ -1723,12 +1859,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135066,
-      "num": 135066,
-      "word": "苗苗 我经常梦到的地方",
-      "onboard_time": 1702114352,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 135072,
+      "num": 135072,
+      "word": "张杰未live巡回演唱会入围演出大赏",
+      "onboard_time": 1702114535,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 133833,
@@ -1963,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69511,
+      "num": 736789,
+      "word": "小伙为救被困母子双手缝了11针",
+      "onboard_time": 1702116271,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67197,
       "num": 1126786,
       "word": "2023那些浪漫又戳心的同框",
@@ -1988,7 +2132,7 @@
     },
     {
       "raw_hot": 48083,
-      "num": 1063708,
+      "num": 1402372,
       "word": "三招养护呼吸道健康",
       "onboard_time": 1702110031,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1702117042935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2171346,
+        "num": 2171346,
+        "word": "林孝埈刘少昂相撞",
+        "onboard_time": 1702114410,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291648,
+        "num": 1597503,
+        "word": "女老师用石头干脆面教育孩子反校园霸凌",
+        "onboard_time": 1702099714,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43609,
+        "num": 1402372,
+        "word": "三招养护呼吸道健康",
+        "onboard_time": 1702110031,
+        "rank": 2,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1292406,
+        "num": 1292406,
+        "word": "原来茶位费是可以拒绝的",
+        "onboard_time": 1702108170,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172720,
+        "num": 946339,
+        "word": "新郎接亲时提出一个请求笑翻众人",
+        "onboard_time": 1702111952,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806388,
+        "num": 806388,
+        "word": "多位脱口秀女演员发声明拒绝性骚扰",
+        "onboard_time": 1702115852,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 69511,
+        "num": 736789,
+        "word": "小伙为救被困母子双手缝了11针",
+        "onboard_time": 1702116271,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694269,
+        "num": 694269,
+        "word": "周先生和朱小姐的故事",
+        "onboard_time": 1702110934,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601090,
+        "num": 601090,
+        "word": "文科生就业率不到理科生一半",
+        "onboard_time": 1702115612,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 569405,
+        "num": 569405,
+        "word": "6200一杯咖啡",
+        "onboard_time": 1702114535,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1077172,
+        "num": 568517,
+        "word": "被上海美甲价格吓死",
+        "onboard_time": 1702112193,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 981346,
+        "num": 567091,
+        "word": "东莞一儿童掉进超市面包搅拌机身亡",
+        "onboard_time": 1702108709,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551159,
+        "num": 551159,
+        "word": "丹东警方回应锁匠帮开锁被炸身亡",
+        "onboard_time": 1702114652,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502186,
+        "num": 502186,
+        "word": "辛芷蕾 我妈让我给她澄清一下",
+        "onboard_time": 1702115251,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454103,
+        "num": 454103,
+        "word": "TFBOYS你们敢耍老子",
+        "onboard_time": 1702091553,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390479,
+        "num": 390479,
+        "word": "东航MU533航班空中放油后备降浦东机场",
+        "onboard_time": 1702109370,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330247,
+        "num": 330247,
+        "word": "Kitty官宣离职",
+        "onboard_time": 1702104269,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 327877,
+        "num": 327877,
+        "word": "人和人刚分开时是没有痛感的",
+        "onboard_time": 1702111774,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438671,
+        "num": 326241,
+        "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
+        "onboard_time": 1702107935,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322978,
+        "num": 322978,
+        "word": "王心凌因为谁坐在了韩红身边",
+        "onboard_time": 1702109612,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274350,
+        "num": 274350,
+        "word": "东航",
+        "onboard_time": 1702115552,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272627,
+        "num": 272627,
+        "word": "张雪峰回应文科都是服务业",
+        "onboard_time": 1702098694,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 265153,
+        "num": 265153,
+        "word": "苗苗 我经常梦到的地方",
+        "onboard_time": 1702114352,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238690,
+        "num": 238690,
+        "word": "刘诗诗 如意一直都很清醒",
+        "onboard_time": 1702115310,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215381,
+        "num": 215381,
+        "word": "涉事超市回应儿童掉进面包搅拌机身亡",
+        "onboard_time": 1702112911,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214587,
+        "num": 214587,
+        "word": "我投赖皮蛇一票",
+        "onboard_time": 1702115192,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211300,
+        "num": 211300,
+        "word": "三大队 选角",
+        "onboard_time": 1702116153,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201923,
+        "num": 201923,
+        "word": "王一博和王传君打招呼",
+        "onboard_time": 1702116694,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196127,
+        "num": 196127,
+        "word": "GQ盛典墨镜黑白大片",
+        "onboard_time": 1702116337,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 184779,
+        "num": 184779,
+        "word": "警方回应男子手持板砖猛砸妻子头部",
+        "onboard_time": 1702113572,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184526,
+        "num": 184526,
+        "word": "难哄",
+        "onboard_time": 1702110871,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181198,
+        "num": 181198,
+        "word": "洗头也是情侣play的一环吗",
+        "onboard_time": 1702114352,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170899,
+        "num": 170899,
+        "word": "苏打绿名字回来了",
+        "onboard_time": 1702112670,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168976,
+        "num": 168976,
+        "word": "少女时代SHINee同框画风",
+        "onboard_time": 1702114593,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163799,
+        "num": 163799,
+        "word": "和导师的关系有点暧昧了",
+        "onboard_time": 1702107633,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162856,
+        "num": 162856,
+        "word": "一念关山剧本",
+        "onboard_time": 1702097193,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157638,
+        "num": 157638,
+        "word": "白鹿撕名牌环节好拼",
+        "onboard_time": 1702115192,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149668,
+        "num": 149668,
+        "word": "TheShy西装限定皮肤",
+        "onboard_time": 1702116631,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147547,
+        "num": 147547,
+        "word": "真正的放下不是删除拉黑",
+        "onboard_time": 1702105832,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147273,
+        "num": 147273,
+        "word": "萨摩耶 自己哄自己睡觉",
+        "onboard_time": 1702105951,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146973,
+        "num": 146973,
+        "word": "虞书欣 南方机器人",
+        "onboard_time": 1702113993,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144626,
+        "num": 144626,
+        "word": "檀健次是真的听劝",
+        "onboard_time": 1702114652,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143506,
+        "num": 143506,
+        "word": "LPL全明星红毯",
+        "onboard_time": 1702109430,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143176,
+        "num": 143176,
+        "word": "张晚意王楚然Gucci大片",
+        "onboard_time": 1702114593,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136068,
+        "num": 136068,
+        "word": "郭晓婷 专注追美美如意",
+        "onboard_time": 1702106971,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135802,
+        "num": 135802,
+        "word": "南昌20死19伤重大交通事故调查报告",
+        "onboard_time": 1702093771,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135072,
+        "num": 135072,
+        "word": "张杰未live巡回演唱会入围演出大赏",
+        "onboard_time": 1702114535,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129058,
+        "num": 129058,
+        "word": "让GQ嗑上秦霄贤孟子义了",
+        "onboard_time": 1702098812,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121969,
+        "num": 121969,
+        "word": "大女主 中国特产",
+        "onboard_time": 1702103071,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120730,
+        "num": 120730,
+        "word": "广州违建楼烂尾19年仍住满人",
+        "onboard_time": 1702111652,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
