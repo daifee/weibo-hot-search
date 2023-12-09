@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702117042935,
+  "endTime": 1702118034256,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -99,6 +99,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1283377,
+      "num": 568517,
+      "word": "被上海美甲价格吓死",
+      "onboard_time": 1702112193,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1273690,
       "num": 567091,
       "word": "东莞一儿童掉进超市面包搅拌机身亡",
@@ -113,14 +121,6 @@
       "onboard_time": 1702096294,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1077172,
-      "num": 568517,
-      "word": "被上海美甲价格吓死",
-      "onboard_time": 1702112193,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 1007231,
@@ -299,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 656331,
+      "num": 656331,
+      "word": "文科生就业率不到理科生一半",
+      "onboard_time": 1702115612,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 655126,
       "num": 655126,
       "word": "虞书欣改妆",
@@ -347,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601090,
-      "num": 601090,
-      "word": "文科生就业率不到理科生一半",
-      "onboard_time": 1702115612,
-      "rank": 8,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 588155,
       "num": 588155,
       "word": "东京迪士尼米妮被同事掀裙子",
@@ -379,8 +379,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 551159,
-      "num": 551159,
+      "raw_hot": 562551,
+      "num": 562551,
       "word": "丹东警方回应锁匠帮开锁被炸身亡",
       "onboard_time": 1702114652,
       "rank": 12,
@@ -400,6 +400,14 @@
       "word": "辛芷蕾曾被妈妈扔剪刀插到腿",
       "onboard_time": 1702107935,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 528947,
+      "num": 528947,
+      "word": "辛芷蕾 我妈让我给她澄清一下",
+      "onboard_time": 1702115251,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -449,14 +457,6 @@
       "onboard_time": 1702083874,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 502186,
-      "num": 502186,
-      "word": "辛芷蕾 我妈让我给她澄清一下",
-      "onboard_time": 1702115251,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 499404,
@@ -635,6 +635,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 360862,
+      "num": 1597503,
+      "word": "女老师用石头干脆面教育孩子反校园霸凌",
+      "onboard_time": 1702099714,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360815,
       "num": 360815,
       "word": "警方通报中学生被同学刺伤致死",
@@ -729,6 +737,14 @@
       "onboard_time": 1702080086,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333973,
+      "num": 270701,
+      "word": "王一博和王传君打招呼",
+      "onboard_time": 1702116694,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 317743,
@@ -851,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298958,
+      "num": 298958,
+      "word": "刘少昂回应与林孝埈相撞",
+      "onboard_time": 1702117472,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296963,
       "num": 296963,
       "word": "教资面试真题",
@@ -889,14 +913,6 @@
       "onboard_time": 1702092814,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 291648,
-      "num": 1597503,
-      "word": "女老师用石头干脆面教育孩子反校园霸凌",
-      "onboard_time": 1702099714,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289872,
@@ -969,6 +985,14 @@
       "onboard_time": 1702095093,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268421,
+      "num": 268421,
+      "word": "KBS",
+      "onboard_time": 1702117053,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 265153,
@@ -1059,6 +1083,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 246040,
+      "num": 246040,
+      "word": "19岁女孩上悬赏公告因高颜值受关注",
+      "onboard_time": 1702117053,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245782,
       "num": 245782,
       "word": "真正的放下不是删除拉黑",
@@ -1073,6 +1105,14 @@
       "onboard_time": 1702096294,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244925,
+      "num": 244925,
+      "word": "刘诗诗 如意一直都很清醒",
+      "onboard_time": 1702115310,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 243898,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1702049679,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 238690,
-      "num": 238690,
-      "word": "刘诗诗 如意一直都很清醒",
-      "onboard_time": 1702115310,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 236541,
@@ -1259,6 +1291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 211809,
+      "num": 211809,
+      "word": "酱园弄",
+      "onboard_time": 1702117832,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211300,
       "num": 211300,
       "word": "三大队 选角",
@@ -1347,12 +1387,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201923,
-      "num": 201923,
-      "word": "王一博和王传君打招呼",
-      "onboard_time": 1702116694,
-      "rank": 27,
-      "category": "作品衍生,时尚"
+      "raw_hot": 202099,
+      "num": 202099,
+      "word": "瞒天过海 get到许光汉",
+      "onboard_time": 1702117832,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 201693,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1702105771,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200341,
+      "num": 200341,
+      "word": "周也 头像大户",
+      "onboard_time": 1702117293,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 197422,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1702045597,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194248,
+      "num": 946339,
+      "word": "新郎接亲时提出一个请求笑翻众人",
+      "onboard_time": 1702111952,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191454,
@@ -1531,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176553,
-      "num": 946339,
-      "word": "新郎接亲时提出一个请求笑翻众人",
-      "onboard_time": 1702111952,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169681,
       "num": 169681,
       "word": "刘雨昕把拍摄用的菜买走了",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1702101991,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 165860,
+      "num": 165860,
+      "word": "汪苏泷爱丫爱丫直拍全程开大",
+      "onboard_time": 1702117773,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 164621,
@@ -2027,6 +2083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 104459,
+      "num": 736789,
+      "word": "小伙为救被困母子双手缝了11针",
+      "onboard_time": 1702116271,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98442,
       "num": 194951,
       "word": "母亲自制300多双鞋送女儿出嫁",
@@ -2096,14 +2160,6 @@
       "word": "萌兰1个大屁墩儿篮贵人升天了",
       "onboard_time": 1702076780,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69511,
-      "num": 736789,
-      "word": "小伙为救被困母子双手缝了11针",
-      "onboard_time": 1702116271,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
