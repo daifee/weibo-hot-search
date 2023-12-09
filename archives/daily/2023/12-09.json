@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702103658635,
+  "endTime": 1702106131507,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -91,6 +91,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 982977,
+      "num": 982977,
+      "word": "大女主 中国特产",
+      "onboard_time": 1702103071,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 953513,
       "num": 953513,
       "word": "谷爱凌世界杯冠军",
@@ -153,6 +161,14 @@
       "onboard_time": 1702091553,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718107,
+      "num": 718107,
+      "word": "Kitty官宣离职",
+      "onboard_time": 1702104269,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 714230,
@@ -387,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 432260,
+      "num": 432260,
+      "word": "孔刘说自己已经老了",
+      "onboard_time": 1702102653,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431748,
       "num": 431748,
       "word": "100年前的不婚女性",
@@ -467,14 +491,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 366462,
-      "num": 366462,
-      "word": "孔刘说自己已经老了",
-      "onboard_time": 1702102653,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360815,
       "num": 360815,
       "word": "警方通报中学生被同学刺伤致死",
@@ -505,6 +521,22 @@
       "onboard_time": 1702078765,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 352509,
+      "num": 352509,
+      "word": "神隐莲花楼是同一个编剧",
+      "onboard_time": 1702104331,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 350236,
+      "num": 350236,
+      "word": "虞书欣模仿AI",
+      "onboard_time": 1702105053,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 344090,
@@ -611,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 301191,
+      "num": 301191,
+      "word": "郝蕾 演员不会演戏是不用功",
+      "onboard_time": 1702104929,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298977,
       "num": 298977,
       "word": "TFBOYS十周年DVD纪录片",
@@ -625,6 +665,14 @@
       "onboard_time": 1702084112,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 293144,
+      "num": 293144,
+      "word": "决赛前一天谷爱凌写了12小时论文",
+      "onboard_time": 1702103131,
+      "rank": 32,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 292600,
@@ -643,12 +691,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 286076,
+      "num": 286076,
+      "word": "邓紫棋演唱会穿婚纱摔倒",
+      "onboard_time": 1702104211,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285100,
       "num": 285100,
       "word": "每个女孩都可以是中国公主",
       "onboard_time": 1702101333,
       "rank": 13,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 282617,
+      "num": 282617,
+      "word": "陈楚生你倒是扭头看看古巨基",
+      "onboard_time": 1702105053,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 282068,
@@ -795,12 +859,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 237977,
-      "num": 237977,
-      "word": "大女主 中国特产",
-      "onboard_time": 1702103071,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 236541,
+      "num": 236541,
+      "word": "罗翔老师我有点汗流浃背了",
+      "onboard_time": 1702103251,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 235507,
@@ -865,6 +929,14 @@
       "onboard_time": 1702079666,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 215727,
+      "num": 215727,
+      "word": "全明星",
+      "onboard_time": 1702105711,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 214986,
@@ -955,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200538,
+      "num": 200538,
+      "word": "67岁老人握妻子手买人生第一套房",
+      "onboard_time": 1702105530,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197422,
       "num": 197422,
       "word": "全网都知道你爸妈吵架的秘密了",
@@ -977,6 +1057,14 @@
       "onboard_time": 1702045597,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191454,
+      "num": 191454,
+      "word": "GQ红毯男女明星混剪",
+      "onboard_time": 1702103670,
+      "rank": 26,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 190882,
@@ -1043,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182275,
+      "num": 182275,
+      "word": "谷爱凌手举五星红旗",
+      "onboard_time": 1702103369,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 182167,
       "num": 182167,
       "word": "姐俩真爱 小胡意外",
@@ -1067,22 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177135,
-      "num": 177135,
-      "word": "罗翔老师我有点汗流浃背了",
-      "onboard_time": 1702103251,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 172202,
-      "num": 172202,
-      "word": "决赛前一天谷爱凌写了12小时论文",
-      "onboard_time": 1702103131,
-      "rank": 32,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 169681,
       "num": 169681,
       "word": "刘雨昕把拍摄用的菜买走了",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1702101991,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 165929,
+      "num": 165929,
+      "word": "萨摩耶 自己哄自己睡觉",
+      "onboard_time": 1702105951,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 164621,
@@ -1219,20 +1307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148614,
-      "num": 148614,
-      "word": "谷爱凌手举五星红旗",
-      "onboard_time": 1702103369,
-      "rank": 39,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 148382,
       "num": 148382,
       "word": "多巴胺羽毛裙",
       "onboard_time": 1702102951,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 147852,
+      "num": 147852,
+      "word": "琵琶行翻译成现代汉语",
+      "onboard_time": 1702105170,
+      "rank": 36,
+      "category": "读书作家"
     },
     {
       "raw_hot": 147785,
@@ -1289,6 +1377,30 @@
       "onboard_time": 1702099714,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138942,
+      "num": 138942,
+      "word": "真正的放下不是删除拉黑",
+      "onboard_time": 1702105832,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138072,
+      "num": 138072,
+      "word": "谢娜你人还怪好嘞",
+      "onboard_time": 1702105889,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 137299,
+      "num": 137299,
+      "word": "难搞的甲方 没脾气的乙方",
+      "onboard_time": 1702105771,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 137107,
@@ -1353,6 +1465,14 @@
       "onboard_time": 1702101451,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124416,
+      "num": 124416,
+      "word": "林孝埈晋级",
+      "onboard_time": 1702106070,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 122665,
@@ -1529,6 +1649,14 @@
       "onboard_time": 1702073175,
       "rank": 46,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 33654,
+      "num": 820232,
+      "word": "朱雀二号遥三运载火箭发射成功",
+      "onboard_time": 1702090231,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32654,
