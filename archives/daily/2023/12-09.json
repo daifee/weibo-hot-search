@@ -1,6 +1,6 @@
 {
   "startTime": 1702052575671,
-  "endTime": 1702121627152,
+  "endTime": 1702125057898,
   "band_list": [
     {
       "raw_hot": 2751553,
@@ -9,6 +9,14 @@
       "onboard_time": 1702093771,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2641001,
+      "num": 2641001,
+      "word": "赵丽颖 女二",
+      "onboard_time": 1702120956,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2419205,
@@ -41,14 +49,6 @@
       "onboard_time": 1702114410,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1967205,
-      "num": 1967205,
-      "word": "赵丽颖 女二",
-      "onboard_time": 1702120956,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1953789,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1073756,
+      "num": 1073756,
+      "word": "一万块钱花一年",
+      "onboard_time": 1702119574,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1007231,
       "num": 1007231,
       "word": "官方通报警务辅助人员称要查网友个人信息",
@@ -177,6 +185,14 @@
       "onboard_time": 1702117832,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 880488,
+      "num": 880488,
+      "word": "王楚钦孙颖莎1比2日本组合",
+      "onboard_time": 1702124376,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 850996,
@@ -235,20 +251,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 790983,
+      "num": 790983,
+      "word": "男子裤裆藏3只小动物过海关被查",
+      "onboard_time": 1702123415,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766897,
       "num": 766897,
       "word": "黑色素瘤",
       "onboard_time": 1702049078,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 753322,
-      "num": 753322,
-      "word": "一万块钱花一年",
-      "onboard_time": 1702119574,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 741015,
@@ -411,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 569787,
+      "num": 569787,
+      "word": "朱丹 你的文笔胜过你的表达",
+      "onboard_time": 1702119273,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 569405,
       "num": 569405,
       "word": "6200一杯咖啡",
@@ -419,12 +443,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 565105,
+      "num": 500547,
+      "word": "杨幂工作室",
+      "onboard_time": 1702121137,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 562551,
       "num": 562551,
       "word": "丹东警方回应锁匠帮开锁被炸身亡",
       "onboard_time": 1702114652,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552883,
+      "num": 500290,
+      "word": "EXO全员参加经纪人婚礼",
+      "onboard_time": 1702125033,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 551034,
@@ -441,6 +481,14 @@
       "onboard_time": 1702107935,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 532514,
+      "num": 532514,
+      "word": "决定朋友圈不再屏蔽爸妈",
+      "onboard_time": 1702119273,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 528947,
@@ -499,20 +547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501800,
+      "num": 501800,
+      "word": "国乒vs日本",
+      "onboard_time": 1702124014,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 499644,
+      "num": 499644,
+      "word": "瑞安奥尼尔去世",
+      "onboard_time": 1702122634,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 499404,
       "num": 286814,
       "word": "男子强行将女子和小孩拖出保时捷",
       "onboard_time": 1702095393,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490616,
-      "num": 490616,
-      "word": "朱丹 你的文笔胜过你的表达",
-      "onboard_time": 1702119273,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 473189,
@@ -561,14 +617,6 @@
       "onboard_time": 1702054407,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444223,
-      "num": 444223,
-      "word": "杨幂工作室",
-      "onboard_time": 1702121137,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 437731,
@@ -707,6 +755,30 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 374945,
+      "num": 374945,
+      "word": "关闭电脑频繁更新的方法",
+      "onboard_time": 1702121255,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 369316,
+      "num": 369316,
+      "word": "王一博歪嘴笑梦回蓝忘机",
+      "onboard_time": 1702121557,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 367506,
+      "num": 367506,
+      "word": "林孝埈犯规",
+      "onboard_time": 1702123653,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364476,
       "num": 364476,
       "word": "19岁女孩上悬赏公告因高颜值受关注",
@@ -795,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344627,
-      "num": 344627,
-      "word": "决定朋友圈不再屏蔽爸妈",
-      "onboard_time": 1702119273,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 344090,
       "num": 344090,
       "word": "GQ 排他list艺人",
@@ -817,6 +881,14 @@
       "onboard_time": 1702025558,
       "rank": 15,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 339175,
+      "num": 339175,
+      "word": "张碧晨 年底发疯",
+      "onboard_time": 1702121974,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 337196,
@@ -840,14 +912,6 @@
       "word": "王一博和王传君打招呼",
       "onboard_time": 1702116694,
       "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 329523,
-      "num": 329523,
-      "word": "王一博歪嘴笑梦回蓝忘机",
-      "onboard_time": 1702121557,
-      "rank": 25,
       "category": "作品衍生,时尚"
     },
     {
@@ -1059,6 +1123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 276616,
+      "num": 276616,
+      "word": "国乒vs日本对阵名单",
+      "onboard_time": 1702123714,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275734,
       "num": 275734,
       "word": "每次疫情对男性伤害可能会更大",
@@ -1179,6 +1251,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 249786,
+      "num": 249786,
+      "word": "身体8个部位的疼痛可能是心梗前兆",
+      "onboard_time": 1702121795,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 248617,
       "num": 248617,
       "word": "赵露思1首OST11套衣服",
@@ -1275,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239941,
+      "num": 239941,
+      "word": "魏大勋刮刮乐见好就收",
+      "onboard_time": 1702122095,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239622,
       "num": 239622,
       "word": "欧文受伤",
@@ -1289,6 +1377,14 @@
       "onboard_time": 1702049679,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239275,
+      "num": 239275,
+      "word": "东航MU533返航亲历者发声",
+      "onboard_time": 1702124617,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236541,
@@ -1369,6 +1465,14 @@
       "onboard_time": 1702093771,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219105,
+      "num": 219105,
+      "word": "乒乓球混合团体世界杯",
+      "onboard_time": 1702124315,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 217687,
@@ -1611,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191882,
+      "num": 191882,
+      "word": "余承东称华为明年将推出颠覆性产品",
+      "onboard_time": 1702123594,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191572,
       "num": 191572,
       "word": "LPL全明星solo赛",
@@ -1721,6 +1833,22 @@
       "onboard_time": 1702088312,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182775,
+      "num": 182775,
+      "word": "恋爱玄学",
+      "onboard_time": 1702124739,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 182741,
+      "num": 182741,
+      "word": "居民楼老火锅",
+      "onboard_time": 1702123952,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 182275,
@@ -1851,12 +1979,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161421,
+      "num": 161421,
+      "word": "王多多获得年度最受欢迎解说",
+      "onboard_time": 1702124795,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160429,
       "num": 160429,
       "word": "周杰伦曼谷演唱会",
       "onboard_time": 1702087654,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159999,
+      "num": 159999,
+      "word": "2024动画电影",
+      "onboard_time": 1702123653,
+      "rank": 44,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 159016,
@@ -1913,6 +2057,14 @@
       "onboard_time": 1702087954,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154518,
+      "num": 154518,
+      "word": "你好星期六",
+      "onboard_time": 1702125033,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 154442,
@@ -2089,14 +2241,6 @@
       "onboard_time": 1702099714,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139103,
-      "num": 139103,
-      "word": "关闭电脑频繁更新的方法",
-      "onboard_time": 1702121255,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 139061,
@@ -2395,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67004,
+      "num": 416091,
+      "word": "砍价这块还得看中国人",
+      "onboard_time": 1702123232,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57390,
       "num": 63622,
       "word": "郭德纲妻子持股的公司被强执263万",
@@ -2475,6 +2627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25601,
+      "num": 919828,
+      "word": "C919首架机交付一周年",
+      "onboard_time": 1702109792,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23743,
       "num": 22518,
       "word": "外网网友爱晒的金毛型老公",
@@ -2497,14 +2657,6 @@
       "onboard_time": 1702069033,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 13125,
-      "num": 919828,
-      "word": "C919首架机交付一周年",
-      "onboard_time": 1702109792,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
