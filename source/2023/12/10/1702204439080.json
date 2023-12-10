@@ -1,0 +1,410 @@
+{
+  "runTime": 1702204439080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2798014,
+        "num": 2798014,
+        "word": "八年了 她终于红了",
+        "onboard_time": 1702200275,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 499043,
+        "num": 1903333,
+        "word": "反差爆改终于轮到我们丫丫",
+        "onboard_time": 1702198353,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95558,
+        "num": 1320968,
+        "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
+        "onboard_time": 1702193552,
+        "rank": 2,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 1120709,
+        "num": 1120709,
+        "word": "山东申论 轻舟已撞大桥",
+        "onboard_time": 1702201475,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 199440,
+        "num": 997702,
+        "word": "学校将领导办公室改造成罕见病学生专属教室",
+        "onboard_time": 1702202377,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882816,
+        "num": 882816,
+        "word": "戴美瞳 脸大",
+        "onboard_time": 1702202134,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141615,
+        "num": 812785,
+        "word": "导游建议游客买一朵菊花献烈士",
+        "onboard_time": 1702175428,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779841,
+        "num": 779841,
+        "word": "雪雪雪雪雪来了",
+        "onboard_time": 1702197393,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753075,
+        "num": 753075,
+        "word": "六年的感情比不过比赛的规则",
+        "onboard_time": 1702192652,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 629644,
+        "num": 629644,
+        "word": "刘宇宁 作为演员颜值也应该重视",
+        "onboard_time": 1702196495,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1941249,
+        "num": 589747,
+        "word": "你接受杨丞琳的道歉吗",
+        "onboard_time": 1702186534,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 671463,
+        "num": 566063,
+        "word": "刘强东内网回应员工提问",
+        "onboard_time": 1702202854,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 536184,
+        "num": 536184,
+        "word": "夹子音 刚满十八岁",
+        "onboard_time": 1702202796,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460806,
+        "num": 460806,
+        "word": "易烊千玺 酱园弄",
+        "onboard_time": 1702203816,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220813,
+        "num": 431985,
+        "word": "甄嬛传的饼来了",
+        "onboard_time": 1702202436,
+        "rank": 14,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 423790,
+        "num": 423790,
+        "word": "马面裙 女装",
+        "onboard_time": 1702197154,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 414770,
+        "num": 414770,
+        "word": "江苏申论 顶级折磨",
+        "onboard_time": 1702199851,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 370414,
+        "num": 370414,
+        "word": "行测不发草稿纸 申论补上",
+        "onboard_time": 1702201656,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 369745,
+        "num": 369745,
+        "word": "中国队5000米接力铜牌",
+        "onboard_time": 1702203093,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351047,
+        "num": 351047,
+        "word": "羽绒服 预售",
+        "onboard_time": 1702199851,
+        "rank": 19,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 344728,
+        "num": 344728,
+        "word": "张雪峰",
+        "onboard_time": 1702203694,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 332297,
+        "num": 332297,
+        "word": "刘若英北京四合院",
+        "onboard_time": 1702191452,
+        "rank": 21,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 304733,
+        "num": 304733,
+        "word": "上海行测 考个锤子",
+        "onboard_time": 1702202255,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 299980,
+        "num": 299980,
+        "word": "杨丞琳为郑州演唱会言论道歉",
+        "onboard_time": 1702188153,
+        "rank": 23,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 283802,
+        "num": 283802,
+        "word": "张云雷终于见到了何洁",
+        "onboard_time": 1702201357,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273757,
+        "num": 273757,
+        "word": "舒淇表情",
+        "onboard_time": 1702203633,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269299,
+        "num": 269299,
+        "word": "五月天演唱会存在部分观众票证不符",
+        "onboard_time": 1702181672,
+        "rank": 26,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 255086,
+        "num": 255086,
+        "word": "这个杀手不太冷有望内地上映",
+        "onboard_time": 1702197454,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227701,
+        "num": 227701,
+        "word": "他燃烧了一整夜 却倒在了黎明前",
+        "onboard_time": 1702194152,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219023,
+        "num": 219023,
+        "word": "许诗晴 理想身材",
+        "onboard_time": 1702197213,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297106,
+        "num": 218357,
+        "word": "张本美和凑近跟张本智和说话",
+        "onboard_time": 1702204057,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207564,
+        "num": 207564,
+        "word": "林俊杰演唱会回应舞蹈被恶搞配音",
+        "onboard_time": 1702193372,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204429,
+        "num": 204429,
+        "word": "吉祥航空回应外籍旅客优先登机",
+        "onboard_time": 1702203934,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195158,
+        "num": 195158,
+        "word": "北京的雪呢",
+        "onboard_time": 1702199134,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180954,
+        "num": 180954,
+        "word": "旺卡",
+        "onboard_time": 1702203874,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180549,
+        "num": 180549,
+        "word": "范闲五年后成了高三班主任",
+        "onboard_time": 1702187495,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178497,
+        "num": 178497,
+        "word": "朝阳打歌中心 停播",
+        "onboard_time": 1702187074,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177206,
+        "num": 177206,
+        "word": "浙江申论 看着写吧",
+        "onboard_time": 1702200333,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 173953,
+        "num": 173953,
+        "word": "山东省考 一考一个不吱声",
+        "onboard_time": 1702178973,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 173917,
+        "num": 173917,
+        "word": "谢谢你省考面",
+        "onboard_time": 1702199557,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 173540,
+        "num": 173540,
+        "word": "女子离职后退600多个工作群",
+        "onboard_time": 1702184374,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170004,
+        "num": 170004,
+        "word": "难哄 别哄了",
+        "onboard_time": 1702170929,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163473,
+        "num": 163473,
+        "word": "刘少昂1000米夺金",
+        "onboard_time": 1702197632,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161462,
+        "num": 161462,
+        "word": "周传雄在演唱会上感谢周深和孟子义",
+        "onboard_time": 1702201714,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154111,
+        "num": 154111,
+        "word": "很想很想你 初吻之后全是吻戏",
+        "onboard_time": 1702198831,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141167,
+        "num": 141167,
+        "word": "扒肉条",
+        "onboard_time": 1702204057,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138093,
+        "num": 138093,
+        "word": "威神V朝阳打歌中心预告",
+        "onboard_time": 1702202974,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134960,
+        "num": 134960,
+        "word": "橘猫真的各有各的怪",
+        "onboard_time": 1702203694,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129841,
+        "num": 129841,
+        "word": "林孝埈 二棒",
+        "onboard_time": 1702204416,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129035,
+        "num": 129035,
+        "word": "国标世界冠军 科目三",
+        "onboard_time": 1702203214,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#把城市建设成为美丽家园#"
+    }
+  }
+}
