@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/11 00:21:04 ~ 2023/12/11 03:13:29
+本榜单时间：2023/12/11 00:21:04 ~ 2023/12/11 03:34:07
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ iG合体（热度：149398）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%94%B1%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%88%B1%E7%9A%84%E4%BA%BA%23" target="weibo">
 王心凌唱第一次爱的人（热度：34540）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E5%B8%8C%E6%9C%9B%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E7%BB%AD%E9%9B%86%E6%9D%A5%E4%BA%86%23" target="weibo">
+佘诗曼希望新闻女王续集来了（热度：25700）
 </a>
 </li>
 

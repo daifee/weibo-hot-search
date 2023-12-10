@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702235609579,
+  "endTime": 1702236847378,
   "band_list": [
     {
       "raw_hot": 2522676,
@@ -489,6 +489,14 @@
       "onboard_time": 1702232775,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25700,
+      "num": 23264,
+      "word": "佘诗曼希望新闻女王续集来了",
+      "onboard_time": 1702236073,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 25539,

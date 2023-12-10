@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/10 00:20:48 ~ 2023/12/11 03:13:29
+本榜单时间：2023/12/10 00:20:48 ~ 2023/12/11 03:34:07
 </p>
 </blockquote>
 <p>
@@ -2729,6 +2729,12 @@ T1表演赛（热度：98958）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23WSJ%20%E6%99%9A%E5%AE%B4%23" target="weibo">
 WSJ 晚宴（热度：30756）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%98%E8%AF%97%E6%9B%BC%E5%B8%8C%E6%9C%9B%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%E7%BB%AD%E9%9B%86%E6%9D%A5%E4%BA%86%23" target="weibo">
+佘诗曼希望新闻女王续集来了（热度：25700）
 </a>
 </li>
 
