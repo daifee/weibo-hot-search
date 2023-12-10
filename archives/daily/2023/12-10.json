@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702217703341,
+  "endTime": 1702218853766,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2139306,
-      "num": 2139306,
+      "raw_hot": 2141650,
+      "num": 2141650,
       "word": "张若昀你快删了吧",
       "onboard_time": 1702216541,
       "rank": 1,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1211948,
+      "num": 1211948,
+      "word": "河南媒体评杨丞琳道歉",
+      "onboard_time": 1702218341,
+      "rank": 4,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1194250,
       "num": 1194250,
       "word": "山东申论 轻舟已撞大桥",
@@ -209,6 +217,14 @@
       "onboard_time": 1702178553,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1052398,
+      "num": 1052398,
+      "word": "张万森 雪崩了",
+      "onboard_time": 1702217502,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 1034854,
@@ -523,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 622541,
+      "num": 622541,
+      "word": "iG合体",
+      "onboard_time": 1702217200,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 615447,
       "num": 615447,
       "word": "刘少昂1000米夺金",
@@ -587,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524081,
+      "num": 524081,
+      "word": "星汉灿烂也这么骗我的",
+      "onboard_time": 1702215038,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 516058,
       "num": 516058,
       "word": "虞书欣 哇哦",
@@ -625,14 +657,6 @@
       "onboard_time": 1702204895,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499458,
-      "num": 499458,
-      "word": "星汉灿烂也这么骗我的",
-      "onboard_time": 1702215038,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 497266,
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425388,
+      "num": 425388,
+      "word": "2.2亿彩票一事需要有说服力的交代",
+      "onboard_time": 1702210232,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424760,
       "num": 424760,
       "word": "19岁女孩上悬赏公告因高颜值受关注",
@@ -857,6 +889,14 @@
       "onboard_time": 1702123415,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397797,
+      "num": 397797,
+      "word": "柯南吻戏 一刀没剪",
+      "onboard_time": 1702218282,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 394860,
@@ -987,28 +1027,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 348373,
-      "num": 348373,
-      "word": "2.2亿彩票一事需要有说服力的交代",
-      "onboard_time": 1702210232,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 345189,
       "num": 345189,
       "word": "张雪峰再回应文科都是服务业",
       "onboard_time": 1702168649,
       "rank": 15,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 343479,
-      "num": 343479,
-      "word": "iG合体",
-      "onboard_time": 1702217200,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 342820,
@@ -1027,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339628,
+      "num": 339628,
+      "word": "刘强东称京东改变需要时间",
+      "onboard_time": 1702216662,
+      "rank": 24,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 337777,
       "num": 337777,
       "word": "上海市考 写不出开头",
@@ -1041,6 +1073,22 @@
       "onboard_time": 1702182934,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 335742,
+      "num": 335742,
+      "word": "安宰贤被打一个踉跄",
+      "onboard_time": 1702216780,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 332739,
+      "num": 332739,
+      "word": "为什么不带常华森",
+      "onboard_time": 1702218341,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 331466,
@@ -1067,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317435,
-      "num": 317435,
-      "word": "安宰贤被打一个踉跄",
-      "onboard_time": 1702216780,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 309320,
       "num": 304937,
       "word": "李同光对任辛表白",
@@ -1097,14 +1137,6 @@
       "onboard_time": 1702178195,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306587,
-      "num": 306587,
-      "word": "刘强东称京东改变需要时间",
-      "onboard_time": 1702216662,
-      "rank": 24,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 306444,
@@ -1171,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295715,
+      "num": 295715,
+      "word": "林孝埈希望粉丝支持所有中国队员",
+      "onboard_time": 1702218221,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294544,
       "num": 294544,
       "word": "吃一把瓜子等于喝一勺油是冤枉瓜子",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1702194513,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291607,
+      "num": 291607,
+      "word": "阿杜林俊杰 合唱",
+      "onboard_time": 1702217860,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 289139,
@@ -1251,20 +1299,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 284021,
+      "num": 278526,
+      "word": "王骁张译 你开餐馆我入股",
+      "onboard_time": 1702217081,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 283802,
       "num": 283802,
       "word": "张云雷终于见到了何洁",
       "onboard_time": 1702201357,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 282161,
-      "num": 282161,
-      "word": "张万森 雪崩了",
-      "onboard_time": 1702217502,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 281766,
@@ -1355,14 +1403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 265294,
-      "num": 243168,
-      "word": "王骁张译 你开餐馆我入股",
-      "onboard_time": 1702217081,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 264599,
       "num": 264599,
       "word": "行测",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1702133379,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241828,
+      "num": 241828,
+      "word": "小时候最讨厌的是吃饭和睡觉",
+      "onboard_time": 1702217380,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 240361,
@@ -1947,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194475,
+      "num": 194475,
+      "word": "鸣龙少年",
+      "onboard_time": 1702218101,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194241,
       "num": 194241,
       "word": "孙龙500米摘铜",
@@ -2195,14 +2251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176567,
-      "num": 176567,
-      "word": "小时候最讨厌的是吃饭和睡觉",
-      "onboard_time": 1702217380,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176052,
       "num": 176052,
       "word": "阿森纳 裁判",
@@ -2233,6 +2281,14 @@
       "onboard_time": 1702201714,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175057,
+      "num": 175057,
+      "word": "莎头内场采访",
+      "onboard_time": 1702218701,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 174295,
@@ -2356,7 +2412,7 @@
     },
     {
       "raw_hot": 165471,
-      "num": 192769,
+      "num": 429870,
       "word": "熬夜垮脸如何自救",
       "onboard_time": 1702216962,
       "rank": 38,
@@ -3115,6 +3171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75042,
+      "num": 192635,
+      "word": "听腾格尔吴莫愁唱父亲瞬间破防",
+      "onboard_time": 1702216839,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70829,
       "num": 1039275,
       "word": "保家卫国的英雄们从未被忘记",
@@ -3137,14 +3201,6 @@
       "onboard_time": 1702163478,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67778,
-      "num": 190349,
-      "word": "听腾格尔吴莫愁唱父亲瞬间破防",
-      "onboard_time": 1702216839,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 66516,
