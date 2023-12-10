@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702246573199,
+  "endTime": 1702247650436,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -2243,6 +2243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188438,
+      "num": 69719,
+      "word": "台湾中学教师怒批去中国化课纲",
+      "onboard_time": 1702246214,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186690,
       "num": 186690,
       "word": "谢娜孕吐反应特别严重",
@@ -3419,6 +3427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75996,
+      "num": 40306,
+      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
+      "onboard_time": 1702236734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75897,
       "num": 75897,
       "word": "北京看雪别再扎堆故宫",
@@ -3555,20 +3571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51325,
-      "num": 27791,
-      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
-      "onboard_time": 1702236734,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51286,
       "num": 51286,
       "word": "我害怕放下手机关掉灯的那一刻的到来",
       "onboard_time": 1702164559,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 48017,
+      "num": 48017,
+      "word": "张译回应卧底当演员",
+      "onboard_time": 1702244954,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 47834,
@@ -3627,14 +3643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 31382,
-      "num": 31382,
-      "word": "张译回应卧底当演员",
-      "onboard_time": 1702244954,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 30756,
       "num": 30756,
       "word": "WSJ 晚宴",
@@ -3649,14 +3657,6 @@
       "onboard_time": 1702236073,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25630,
-      "num": 25630,
-      "word": "台湾中学教师怒批去中国化课纲",
-      "onboard_time": 1702246214,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25539,
@@ -3707,8 +3707,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19056,
+      "num": 22183,
+      "word": "小满生活大结局",
+      "onboard_time": 1702243093,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18324,
-      "num": 21074,
+      "num": 22134,
       "word": "痩背最佳组合",
       "onboard_time": 1702236194,
       "rank": 36,
@@ -3739,12 +3747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16005,
-      "num": 21066,
-      "word": "小满生活大结局",
-      "onboard_time": 1702243093,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 16295,
+      "num": 22123,
+      "word": "陈立农 重庆音乐节",
+      "onboard_time": 1702247598,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 11792,
