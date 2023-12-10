@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702242881401,
+  "endTime": 1702244060248,
   "band_list": [
     {
       "raw_hot": 2522676,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 18324,
-      "num": 17081,
+      "num": 17602,
       "word": "痩背最佳组合",
       "onboard_time": 1702236194,
       "rank": 36,
@@ -532,11 +532,19 @@
     },
     {
       "raw_hot": 13379,
-      "num": 14075,
+      "num": 14330,
       "word": "理想汽车智能软件发布会",
       "onboard_time": 1702209816,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 12735,
+      "num": 14320,
+      "word": "小满生活大结局",
+      "onboard_time": 1702243093,
+      "rank": 44,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
