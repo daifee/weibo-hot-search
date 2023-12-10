@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702179265538,
+  "endTime": 1702182063245,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -185,6 +185,14 @@
       "onboard_time": 1701906811,
       "rank": 0,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 3563023,
+      "num": 3563023,
+      "word": "山东省考 一考一个不吱声",
+      "onboard_time": 1702178973,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 3538887,
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1741900,
+      "num": 1741900,
+      "word": "江苏省考 酣畅淋漓的蒙题",
+      "onboard_time": 1702178372,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1740309,
       "num": 521785,
       "word": "小S说精神出轨比肉体出轨严重",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1702007134,
       "rank": 25,
       "category": "演出,时尚"
-    },
-    {
-      "raw_hot": 1535709,
-      "num": 1535709,
-      "word": "江苏省考 酣畅淋漓的蒙题",
-      "onboard_time": 1702178372,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1531779,
@@ -2627,6 +2635,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 897042,
+      "num": 897042,
+      "word": "男子骑共享单车忘付费1元欠6年",
+      "onboard_time": 1702176810,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 896436,
+      "num": 896436,
+      "word": "省考 BC之争",
+      "onboard_time": 1702180532,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 895431,
       "num": 895431,
       "word": "男子取现50万当街被抢劫匪竟是电诈同伙",
@@ -2875,14 +2899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 823137,
-      "num": 823137,
-      "word": "山东省考 一考一个不吱声",
-      "onboard_time": 1702178973,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 822094,
       "num": 525790,
       "word": "周深曾直接拒绝演唱现场放人声伴奏",
@@ -3112,14 +3128,6 @@
       "word": "初代网红奶茶店开始悄悄倒闭",
       "onboard_time": 1701576511,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 780525,
-      "num": 780525,
-      "word": "男子骑共享单车忘付费1元欠6年",
-      "onboard_time": 1702176810,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3393,6 +3401,14 @@
       "onboard_time": 1701732988,
       "rank": 7,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 721855,
+      "num": 721855,
+      "word": "广州警方回应地铁发生持刀伤人事件",
+      "onboard_time": 1702178433,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720978,
@@ -3939,14 +3955,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 649775,
-      "num": 649775,
-      "word": "广州警方回应地铁发生持刀伤人事件",
-      "onboard_time": 1702178433,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 649387,
       "num": 649387,
       "word": "熬夜时身体在经历炎症风暴",
@@ -4241,6 +4249,14 @@
       "onboard_time": 1702177596,
       "rank": 7,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 623052,
+      "num": 623052,
+      "word": "长陵 刘亦菲",
+      "onboard_time": 1702179154,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 622812,
@@ -4809,6 +4825,14 @@
       "onboard_time": 1702169550,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 566298,
+      "num": 344343,
+      "word": "五月天演唱会存在部分观众票证不符",
+      "onboard_time": 1702181672,
+      "rank": 20,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 565133,
@@ -5569,6 +5593,14 @@
       "onboard_time": 1701955664,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 516058,
+      "num": 516058,
+      "word": "虞书欣 哇哦",
+      "onboard_time": 1702179996,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 515771,
@@ -6465,6 +6497,14 @@
       "onboard_time": 1701875202,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455757,
+      "num": 455757,
+      "word": "体育馆坍塌致3名学生死亡背后",
+      "onboard_time": 1702179393,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455314,
@@ -7673,6 +7713,14 @@
       "onboard_time": 1701842433,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 401287,
+      "num": 401287,
+      "word": "15元自助餐顾客只吃一口鱼就扔",
+      "onboard_time": 1702180296,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400748,
@@ -10203,6 +10251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 313426,
+      "num": 313426,
+      "word": "郑钧 我能证明自己是真唱",
+      "onboard_time": 1702180715,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 313330,
       "num": 313330,
       "word": "你为什么不爱吃炸鸡了",
@@ -10401,6 +10457,14 @@
       "onboard_time": 1702022500,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 308827,
+      "num": 308827,
+      "word": "徐若晗演张若昀学生",
+      "onboard_time": 1702179872,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 308814,
@@ -11473,6 +11537,14 @@
       "onboard_time": 1701840274,
       "rank": 24,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 288504,
+      "num": 288504,
+      "word": "苏翊鸣大跳台世界杯亚军",
+      "onboard_time": 1702179511,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 288336,
@@ -13819,6 +13891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237961,
+      "num": 237961,
+      "word": "辛辛苦苦的挣了很少钱",
+      "onboard_time": 1702176151,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 237464,
       "num": 237464,
       "word": "Icon透露Tarzan回LCK",
@@ -14259,6 +14339,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 230607,
+      "num": 230607,
+      "word": "郭俊辰签约爱奇艺",
+      "onboard_time": 1702181853,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230274,
       "num": 250289,
       "word": "男子积雪中挖出2室1厅雪屋",
@@ -14443,6 +14531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228062,
+      "num": 228062,
+      "word": "王心凌把音综变成演唱会现场了",
+      "onboard_time": 1702180774,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228038,
       "num": 228038,
       "word": "头发太长会和身体抢营养吗",
@@ -14537,6 +14633,14 @@
       "onboard_time": 1701653492,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 226201,
+      "num": 226201,
+      "word": "冬季光腿神器极度危害健康",
+      "onboard_time": 1702181612,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226016,
@@ -14979,6 +15083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218482,
+      "num": 218482,
+      "word": "上午刮刮乐 下午书法课",
+      "onboard_time": 1702181672,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 218339,
       "num": 218339,
       "word": "瞒天过海",
@@ -15145,14 +15257,6 @@
       "onboard_time": 1701943123,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216080,
-      "num": 216080,
-      "word": "辛辛苦苦的挣了很少钱",
-      "onboard_time": 1702176151,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 216076,
@@ -17427,14 +17531,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 191579,
-      "num": 191579,
-      "word": "长陵 刘亦菲",
-      "onboard_time": 1702179154,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191572,
       "num": 191572,
       "word": "LPL全明星solo赛",
@@ -18609,6 +18705,14 @@
       "onboard_time": 1701428254,
       "rank": 37,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 177632,
+      "num": 177632,
+      "word": "上岸壁纸",
+      "onboard_time": 1702180173,
+      "rank": 41,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 177621,
@@ -21313,6 +21417,14 @@
       "onboard_time": 1701959084,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144502,
+      "num": 144502,
+      "word": "赵露思变美思路解析",
+      "onboard_time": 1702182033,
+      "rank": 49,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 144333,
@@ -24395,6 +24507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53394,
+      "num": 1318012,
+      "word": "卫星视角看中国",
+      "onboard_time": 1702178489,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53325,
       "num": 43430,
       "word": "喻言一巡收官",
@@ -24603,6 +24723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42865,
+      "num": 516841,
+      "word": "原来大妈跟我一样爱看腹肌",
+      "onboard_time": 1702180834,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 41377,
       "num": 974122,
       "word": "这就是长三角",
@@ -24649,14 +24777,6 @@
       "onboard_time": 1701899655,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 40684,
-      "num": 1118148,
-      "word": "卫星视角看中国",
-      "onboard_time": 1702178489,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40234,
