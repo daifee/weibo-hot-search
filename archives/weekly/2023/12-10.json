@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702214329078,
+  "endTime": 1702215251492,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -27,12 +27,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2772182,
+      "num": 2772182,
+      "word": "下雪了",
+      "onboard_time": 1702212634,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2535458,
       "num": 2535458,
       "word": "六年的感情比不过比赛的规则",
       "onboard_time": 1702192652,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2294244,
+      "num": 2294244,
+      "word": "16岁女生和班主任开房5次后自杀",
+      "onboard_time": 1702213836,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2203938,
@@ -89,14 +105,6 @@
       "onboard_time": 1702178372,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1563024,
-      "num": 1563024,
-      "word": "下雪了",
-      "onboard_time": 1702212634,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1512846,
@@ -339,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 812145,
-      "num": 738147,
-      "word": "16岁女生和班主任开房5次后自杀",
-      "onboard_time": 1702213836,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 792946,
       "num": 792946,
       "word": "赵丽颖 女二",
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708067,
+      "num": 708067,
+      "word": "一念关山辟谣刘诗诗打戏一剪没",
+      "onboard_time": 1702212576,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 697038,
       "num": 697038,
       "word": "南京大屠杀又添新证据",
@@ -436,19 +444,11 @@
     },
     {
       "raw_hot": 655534,
-      "num": 375410,
+      "num": 382164,
       "word": "老人凌晨去世鞭炮一响全村都去帮忙",
       "onboard_time": 1702211076,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 654342,
-      "num": 654342,
-      "word": "一念关山辟谣刘诗诗打戏一剪没",
-      "onboard_time": 1702212576,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 650528,
@@ -611,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493397,
+      "num": 493397,
+      "word": "国剧盛典",
+      "onboard_time": 1702214680,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 493375,
       "num": 493375,
       "word": "王楚钦孙颖莎3比0韩国组合",
@@ -697,6 +705,14 @@
       "onboard_time": 1702119273,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 438916,
+      "num": 380832,
+      "word": "猪肝到底是营养佳品还是毒素垃圾",
+      "onboard_time": 1702213778,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 438774,
@@ -899,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359820,
+      "num": 359820,
+      "word": "Bang结婚",
+      "onboard_time": 1702213360,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 354347,
       "num": 354347,
       "word": "张雪峰",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1702178195,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306721,
-      "num": 306721,
-      "word": "猪肝到底是营养佳品还是毒素垃圾",
-      "onboard_time": 1702213778,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 306444,
@@ -1171,14 +1187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 283774,
-      "num": 261381,
-      "word": "Bang结婚",
-      "onboard_time": 1702213360,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 281766,
       "num": 281766,
       "word": "王安宇秦海璐 左肩有你",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1702164318,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270579,
+      "num": 270579,
+      "word": "眉姐姐哪来这么多丑衣服",
+      "onboard_time": 1702212816,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267536,
@@ -1299,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253591,
+      "num": 253591,
+      "word": "Rookie队拿下第一局",
+      "onboard_time": 1702214321,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 252527,
       "num": 240899,
       "word": "半开麦跟对口型假唱很难明确界定",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1702172312,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238759,
+      "num": 238759,
+      "word": "星汉灿烂也这么骗我的",
+      "onboard_time": 1702215038,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 237961,
@@ -1475,14 +1507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 223760,
-      "num": 223760,
-      "word": "眉姐姐哪来这么多丑衣服",
-      "onboard_time": 1702212816,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 222378,
       "num": 222378,
       "word": "全国到底有多少股想你的风",
@@ -1496,6 +1520,14 @@
       "word": "当文慧心遇上文东恩",
       "onboard_time": 1702205793,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 221273,
+      "num": 221273,
+      "word": "周也 就你这颜值往这一站",
+      "onboard_time": 1702215038,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1643,6 +1675,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 205942,
+      "num": 205942,
+      "word": "辛光",
+      "onboard_time": 1702214860,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205662,
       "num": 205662,
       "word": "李同光 我只要师傅",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1702167325,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205196,
+      "num": 205196,
+      "word": "理想发布会",
+      "onboard_time": 1702214137,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 205173,
@@ -1715,6 +1763,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199338,
+      "num": 199338,
+      "word": "宋紫薇 理想发布会",
+      "onboard_time": 1702215101,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 199292,
+      "num": 1613121,
+      "word": "中国旅游市场持续火爆",
+      "onboard_time": 1702212634,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199127,
       "num": 199127,
       "word": "人群对流感病毒其实普遍易感",
@@ -1731,6 +1795,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 198895,
+      "num": 198895,
+      "word": "热依扎 微熏红毯妆",
+      "onboard_time": 1702211316,
+      "rank": 45,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 198552,
       "num": 198552,
       "word": "张雪峰言论是实话还是语不惊人誓不休",
@@ -1745,14 +1817,6 @@
       "onboard_time": 1702214078,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197374,
-      "num": 197374,
-      "word": "热依扎 微熏红毯妆",
-      "onboard_time": 1702211316,
-      "rank": 45,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 195476,
@@ -1779,14 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193838,
-      "num": 193838,
-      "word": "理想发布会",
-      "onboard_time": 1702214137,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 193259,
       "num": 193259,
       "word": "孙千孙美林",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1702128096,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192068,
+      "num": 199076,
+      "word": "林俊杰JJ20收官场",
+      "onboard_time": 1702214798,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 191383,
@@ -2027,12 +2091,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 175792,
-      "num": 1613121,
-      "word": "中国旅游市场持续火爆",
-      "onboard_time": 1702212634,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 175399,
+      "num": 175399,
+      "word": "BeepBeepChallenge",
+      "onboard_time": 1702214260,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 175308,
@@ -2169,14 +2233,6 @@
       "onboard_time": 1702210714,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163657,
-      "num": 163657,
-      "word": "BeepBeepChallenge",
-      "onboard_time": 1702214260,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 163415,
@@ -2899,6 +2955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81200,
+      "num": 397062,
+      "word": "熬夜对莫青成的伤害为0",
+      "onboard_time": 1702213660,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78162,
       "num": 78162,
       "word": "退烧后久咳不愈正常吗",
@@ -3059,14 +3123,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 42347,
-      "num": 321206,
-      "word": "熬夜对莫青成的伤害为0",
-      "onboard_time": 1702213660,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31419,
       "num": 38867,
       "word": "陪狗狗度过最后一天",
@@ -3081,6 +3137,14 @@
       "onboard_time": 1702162516,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24654,
+      "num": 474566,
+      "word": "主持人大赛第三赛段开启",
+      "onboard_time": 1702213236,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 24282,
@@ -3105,14 +3169,6 @@
       "onboard_time": 1702152194,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 19891,
-      "num": 474566,
-      "word": "主持人大赛第三赛段开启",
-      "onboard_time": 1702213236,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 16846,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1702215251492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2772182,
+        "num": 2772182,
+        "word": "下雪了",
+        "onboard_time": 1702212634,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2294244,
+        "num": 2294244,
+        "word": "16岁女生和班主任开房5次后自杀",
+        "onboard_time": 1702213836,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199292,
+        "num": 1476528,
+        "word": "中国旅游市场持续火爆",
+        "onboard_time": 1702212634,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465777,
+        "num": 1465777,
+        "word": "八年了 她终于红了",
+        "onboard_time": 1702200275,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1422633,
+        "num": 1422633,
+        "word": "缅北",
+        "onboard_time": 1702207172,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910576,
+        "num": 910576,
+        "word": "赵一博",
+        "onboard_time": 1702212095,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 881192,
+        "num": 881192,
+        "word": "国乒混团世界杯夺冠",
+        "onboard_time": 1702213718,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 852628,
+        "num": 852628,
+        "word": "主播陈一发儿疑似复出再被封",
+        "onboard_time": 1702207414,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 815327,
+        "num": 815327,
+        "word": "白鲨卫冕CFS冠军",
+        "onboard_time": 1702213298,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 708067,
+        "num": 708067,
+        "word": "一念关山辟谣刘诗诗打戏一剪没",
+        "onboard_time": 1702212576,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1344297,
+        "num": 670431,
+        "word": "你接受杨丞琳的道歉吗",
+        "onboard_time": 1702186534,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 609260,
+        "num": 609260,
+        "word": "垫底辣孩 P图思路大公开",
+        "onboard_time": 1702205915,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 534788,
+        "num": 534788,
+        "word": "宋江居然是举芦荟胶内男的",
+        "onboard_time": 1702211856,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493397,
+        "num": 493397,
+        "word": "国剧盛典",
+        "onboard_time": 1702214680,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24654,
+        "num": 426987,
+        "word": "主持人大赛第三赛段开启",
+        "onboard_time": 1702213236,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81200,
+        "num": 397062,
+        "word": "熬夜对莫青成的伤害为0",
+        "onboard_time": 1702213660,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567489,
+        "num": 392465,
+        "word": "杨丞琳",
+        "onboard_time": 1702209515,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383937,
+        "num": 383937,
+        "word": "国乒vs韩国队",
+        "onboard_time": 1702208018,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383873,
+        "num": 383873,
+        "word": "派出所证实华夏银行天津分行行长坠楼",
+        "onboard_time": 1702209993,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654379,
+        "num": 382164,
+        "word": "老人凌晨去世鞭炮一响全村都去帮忙",
+        "onboard_time": 1702211076,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438916,
+        "num": 380832,
+        "word": "猪肝到底是营养佳品还是毒素垃圾",
+        "onboard_time": 1702213778,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 378917,
+        "num": 378917,
+        "word": "夹子音 刚满十八岁",
+        "onboard_time": 1702202796,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359820,
+        "num": 359820,
+        "word": "Bang结婚",
+        "onboard_time": 1702213360,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308114,
+        "num": 308114,
+        "word": "经常不吃早饭会怎么样",
+        "onboard_time": 1702212939,
+        "rank": 23,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 297639,
+        "num": 297639,
+        "word": "王楚钦孙颖莎3比0韩国组合",
+        "onboard_time": 1702211433,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290051,
+        "num": 290051,
+        "word": "李同光对任辛表白",
+        "onboard_time": 1702213178,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270579,
+        "num": 270579,
+        "word": "眉姐姐哪来这么多丑衣服",
+        "onboard_time": 1702212816,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273847,
+        "num": 266999,
+        "word": "刘宇宁 作为演员颜值也应该重视",
+        "onboard_time": 1702196495,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258708,
+        "num": 258708,
+        "word": "易烊千玺 酱园弄",
+        "onboard_time": 1702203816,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253591,
+        "num": 253591,
+        "word": "Rookie队拿下第一局",
+        "onboard_time": 1702214321,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238759,
+        "num": 238759,
+        "word": "星汉灿烂也这么骗我的",
+        "onboard_time": 1702215038,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232196,
+        "num": 232196,
+        "word": "六年的感情比不过比赛的规则",
+        "onboard_time": 1702192652,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232053,
+        "num": 232053,
+        "word": "乒乓球世界杯将在中国澳门重启",
+        "onboard_time": 1702212157,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225256,
+        "num": 225256,
+        "word": "aespa 雪国精灵",
+        "onboard_time": 1702210595,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221273,
+        "num": 221273,
+        "word": "周也 就你这颜值往这一站",
+        "onboard_time": 1702215038,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215096,
+        "num": 215096,
+        "word": "莎头这个走位好默契",
+        "onboard_time": 1702213778,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215043,
+        "num": 215043,
+        "word": "泡了2年药酒的海马竟是塑料",
+        "onboard_time": 1702205497,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205942,
+        "num": 205942,
+        "word": "辛光",
+        "onboard_time": 1702214860,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205196,
+        "num": 205196,
+        "word": "理想发布会",
+        "onboard_time": 1702214137,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201941,
+        "num": 201941,
+        "word": "反差爆改终于轮到我们丫丫",
+        "onboard_time": 1702198353,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199338,
+        "num": 199338,
+        "word": "宋紫薇 理想发布会",
+        "onboard_time": 1702215101,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192068,
+        "num": 199076,
+        "word": "林俊杰JJ20收官场",
+        "onboard_time": 1702214798,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198895,
+        "num": 198895,
+        "word": "热依扎 微熏红毯妆",
+        "onboard_time": 1702211316,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 194363,
+        "num": 194363,
+        "word": "张杰未live巡回演唱会",
+        "onboard_time": 1702211797,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192329,
+        "num": 192329,
+        "word": "张晶 战术",
+        "onboard_time": 1702207594,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189113,
+        "num": 189113,
+        "word": "肿眼泡",
+        "onboard_time": 1702214078,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175399,
+        "num": 175399,
+        "word": "BeepBeepChallenge",
+        "onboard_time": 1702214260,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169703,
+        "num": 169703,
+        "word": "莎头的默契",
+        "onboard_time": 1702212698,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161199,
+        "num": 161199,
+        "word": "王曼昱3比0金娜英",
+        "onboard_time": 1702212278,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161063,
+        "num": 161063,
+        "word": "李同光 我只要师傅",
+        "onboard_time": 1702213963,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把城市建设成为美丽家园#"
+    }
+  }
+}
