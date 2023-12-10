@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702193639552,
+  "endTime": 1702196471856,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -27,8 +27,8 @@
       "category": "读书作家,艺人"
     },
     {
-      "raw_hot": 1816779,
-      "num": 1816779,
+      "raw_hot": 1939077,
+      "num": 1939077,
       "word": "刘若英北京四合院",
       "onboard_time": 1702191452,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1702178372,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1634992,
+      "num": 1634992,
+      "word": "六年的感情比不过比赛的规则",
+      "onboard_time": 1702192652,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1481820,
@@ -219,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 724203,
+      "num": 724203,
+      "word": "单价35元包包成年轻人时尚新宠",
+      "onboard_time": 1702193853,
+      "rank": 4,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 721855,
       "num": 721855,
       "word": "广州警方回应地铁发生持刀伤人事件",
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516682,
-      "num": 516682,
-      "word": "六年的感情比不过比赛的规则",
-      "onboard_time": 1702192652,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 516058,
       "num": 516058,
       "word": "虞书欣 哇哦",
@@ -361,6 +369,14 @@
       "onboard_time": 1702177471,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 473591,
+      "num": 473591,
+      "word": "林俊杰演唱会回应舞蹈被恶搞配音",
+      "onboard_time": 1702193372,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 469332,
@@ -467,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394860,
+      "num": 394860,
+      "word": "刘宇宁说不会因为负评放弃做演员",
+      "onboard_time": 1702195535,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392959,
       "num": 392959,
       "word": "湖人vs步行者",
@@ -481,6 +505,22 @@
       "onboard_time": 1702184973,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 384895,
+      "num": 384895,
+      "word": "浙江队 禁赛",
+      "onboard_time": 1702194031,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 384621,
+      "num": 384621,
+      "word": "他燃烧了一整夜 却倒在了黎明前",
+      "onboard_time": 1702194152,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 383750,
@@ -651,6 +691,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292138,
+      "num": 292138,
+      "word": "秦岚请辛芷蕾赵昭仪吃铁锅炖",
+      "onboard_time": 1702194513,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 288945,
+      "num": 288945,
+      "word": "张若昀台词听得我汗流浃背",
+      "onboard_time": 1702193730,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288336,
       "num": 284323,
       "word": "养肺让皮肤越来越水灵",
@@ -731,6 +787,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257563,
+      "num": 257563,
+      "word": "人民日报神仙作文结尾",
+      "onboard_time": 1702192412,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 256577,
+      "num": 223167,
+      "word": "奔跑吧宋雨琦刮刮乐 根本劝不住",
+      "onboard_time": 1702194631,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252527,
       "num": 240899,
       "word": "半开麦跟对口型假唱很难明确界定",
@@ -753,14 +825,6 @@
       "onboard_time": 1702133379,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240800,
-      "num": 190645,
-      "word": "人民日报神仙作文结尾",
-      "onboard_time": 1702192412,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 240361,
@@ -987,6 +1051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200669,
+      "num": 200669,
+      "word": "敷面膜后不涂面霜皮肤会更干燥",
+      "onboard_time": 1702195170,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 200616,
       "num": 200616,
       "word": "ENHYPEN 加场",
@@ -1017,14 +1089,6 @@
       "onboard_time": 1702188812,
       "rank": 38,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 197722,
-      "num": 186263,
-      "word": "林俊杰演唱会回应舞蹈被恶搞配音",
-      "onboard_time": 1702193372,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 194911,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1702172069,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 178089,
+      "num": 1646771,
+      "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
+      "onboard_time": 1702193552,
+      "rank": 49,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 177991,
@@ -1315,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162503,
+      "num": 162503,
+      "word": "全国到底有多少股想你的风",
+      "onboard_time": 1702195890,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 161917,
       "num": 161917,
       "word": "被上海美甲价格吓死",
@@ -1337,6 +1417,14 @@
       "onboard_time": 1702164922,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158159,
+      "num": 158159,
+      "word": "阿音和嫋嫋打架谁能赢",
+      "onboard_time": 1702196253,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 158060,
@@ -1619,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130868,
+      "num": 130868,
+      "word": "混团世界杯 日本8比4德国",
+      "onboard_time": 1702194993,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129505,
       "num": 129505,
       "word": "胰岛素抵抗就是糖尿病吗",
@@ -1771,12 +1867,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113743,
-      "num": 113743,
-      "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
-      "onboard_time": 1702193552,
+      "raw_hot": 112744,
+      "num": 112744,
+      "word": "间谍过家家 温馨的一家三口",
+      "onboard_time": 1702196072,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 110760,
+      "num": 110760,
+      "word": "衢州突然成了年轻人的追星圣地",
+      "onboard_time": 1702196373,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110690,
+      "num": 110690,
+      "word": "人群对流感病毒其实普遍易感",
+      "onboard_time": 1702196431,
       "rank": 49,
-      "category": "社会新闻,健康医疗"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106847,
