@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702208036546,
+  "endTime": 1702211449041,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -33,6 +33,14 @@
       "onboard_time": 1702192652,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2177632,
+      "num": 2177632,
+      "word": "缅北",
+      "onboard_time": 1702207172,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2107064,
@@ -91,6 +99,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1429610,
+      "num": 1429610,
+      "word": "刘诗诗累到虚脱 正片一剪没",
+      "onboard_time": 1702208794,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1327800,
       "num": 1327800,
       "word": "冰箱门上放牛奶隐患有多大",
@@ -99,12 +115,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 1262012,
-      "num": 1262012,
+      "raw_hot": 1303043,
+      "num": 1303043,
       "word": "垫底辣孩 P图思路大公开",
       "onboard_time": 1702205915,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1248477,
+      "num": 1248477,
+      "word": "主播陈一发儿疑似复出再被封",
+      "onboard_time": 1702207414,
+      "rank": 5,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1194250,
@@ -155,14 +179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1064093,
-      "num": 1064093,
-      "word": "主播陈一发儿疑似复出再被封",
-      "onboard_time": 1702207414,
-      "rank": 5,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1034854,
       "num": 734261,
       "word": "难哄 别哄了",
@@ -201,6 +217,14 @@
       "onboard_time": 1702172793,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946037,
+      "num": 946037,
+      "word": "国乒vs韩国队",
+      "onboard_time": 1702208018,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 945157,
@@ -299,6 +323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 772661,
+      "num": 772661,
+      "word": "杨丞琳",
+      "onboard_time": 1702209515,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736780,
       "num": 736780,
       "word": "朝阳打歌中心 停播",
@@ -313,14 +345,6 @@
       "onboard_time": 1702183597,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 724985,
-      "num": 724985,
-      "word": "缅北",
-      "onboard_time": 1702207172,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 721855,
@@ -659,6 +683,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 411430,
+      "num": 253816,
+      "word": "派出所证实华夏银行天津分行行长坠楼",
+      "onboard_time": 1702209993,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409144,
       "num": 409144,
       "word": "林孝埈 二棒",
@@ -835,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337844,
+      "num": 337844,
+      "word": "张晶 战术",
+      "onboard_time": 1702207594,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337777,
       "num": 337777,
       "word": "上海市考 写不出开头",
@@ -963,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292483,
+      "num": 292483,
+      "word": "莎头打头阵",
+      "onboard_time": 1702208495,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292138,
       "num": 292138,
       "word": "秦岚请辛芷蕾赵昭仪吃铁锅炖",
@@ -1083,14 +1131,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 264912,
-      "num": 264912,
-      "word": "张晶 战术",
-      "onboard_time": 1702207594,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 264599,
       "num": 264599,
       "word": "行测",
@@ -1187,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238435,
+      "num": 238435,
+      "word": "aespa 雪国精灵",
+      "onboard_time": 1702210595,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237961,
       "num": 237961,
       "word": "辛辛苦苦的挣了很少钱",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1702174770,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230853,
+      "num": 230853,
+      "word": "王楚钦孙颖莎3比0韩国组合",
+      "onboard_time": 1702211433,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 230607,
@@ -1347,12 +1403,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215682,
+      "num": 215682,
+      "word": "陶勇谈重拿手术刀现状",
+      "onboard_time": 1702210115,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212939,
+      "num": 212939,
+      "word": "白所成等10名缅北电诈头目被公开通缉",
+      "onboard_time": 1702210775,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212510,
       "num": 212510,
       "word": "赵露思变美思路解析",
       "onboard_time": 1702182033,
       "rank": 49,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 212062,
+      "num": 212062,
+      "word": "今年的最后三周你有什么安排",
+      "onboard_time": 1702208614,
+      "rank": 27,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 211816,
+      "num": 211816,
+      "word": "WBG获胜",
+      "onboard_time": 1702208736,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 209837,
+      "num": 209837,
+      "word": "乌梅子酱Spotify全球华语播放第一",
+      "onboard_time": 1702208195,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 208892,
@@ -1539,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191023,
+      "num": 191023,
+      "word": "张雪峰言论是实话还是语不惊人誓不休",
+      "onboard_time": 1702209515,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 190986,
       "num": 183451,
       "word": "杨幂 客串",
@@ -1635,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181249,
+      "num": 181249,
+      "word": "老人凌晨去世鞭炮一响全村都去帮忙",
+      "onboard_time": 1702211076,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180954,
       "num": 180954,
       "word": "旺卡",
@@ -1705,6 +1817,14 @@
       "onboard_time": 1702180173,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 176939,
+      "num": 176939,
+      "word": "陈奕迅真不把观众当外人",
+      "onboard_time": 1702208912,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 176757,
@@ -1811,6 +1931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169012,
+      "num": 169012,
+      "word": "周涛好自信从容的状态",
+      "onboard_time": 1702211076,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 168665,
       "num": 168665,
       "word": "数学最初和最终的样子",
@@ -1849,6 +1977,22 @@
       "onboard_time": 1702179031,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164618,
+      "num": 164618,
+      "word": "刘诗雯看台观赛",
+      "onboard_time": 1702210359,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164095,
+      "num": 164095,
+      "word": "2023IVL秋季赛总决赛",
+      "onboard_time": 1702210714,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 163311,
@@ -1947,6 +2091,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 155928,
+      "num": 155928,
+      "word": "林孝埈回应脚伤",
+      "onboard_time": 1702209394,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155895,
       "num": 155895,
       "word": "时光代理人 刘枭",
@@ -1969,6 +2121,14 @@
       "onboard_time": 1702136015,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153568,
+      "num": 153568,
+      "word": "边伯贤Love Again直拍",
+      "onboard_time": 1702209575,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 152103,
@@ -2049,6 +2209,14 @@
       "onboard_time": 1702169488,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146340,
+      "num": 146340,
+      "word": "我的草莓蓝莓都长恋爱脑了",
+      "onboard_time": 1702210415,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 144219,
@@ -2163,6 +2331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138013,
+      "num": 138013,
+      "word": "热依扎 微熏红毯妆",
+      "onboard_time": 1702211316,
+      "rank": 45,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 137765,
       "num": 137765,
       "word": "三大队",
@@ -2195,12 +2371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136671,
-      "num": 136671,
-      "word": "国乒vs韩国队",
-      "onboard_time": 1702208018,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 136679,
+      "num": 136679,
+      "word": "显发量显脸小的侧麻花",
+      "onboard_time": 1702208136,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 136496,
@@ -2459,6 +2635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 114220,
+      "num": 300300,
+      "word": "理想汽车智能软件发布会",
+      "onboard_time": 1702209816,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 114066,
       "num": 114066,
       "word": "无视性别公开开战 野性是女性的勋章",
@@ -2665,6 +2849,14 @@
       "onboard_time": 1702187196,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 37780,
+      "num": 1467103,
+      "word": "太空视角见证中国式现代化",
+      "onboard_time": 1702195112,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31419,
