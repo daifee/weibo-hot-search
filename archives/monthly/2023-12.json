@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702221405046,
+  "endTime": 1702222432569,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -529,6 +529,14 @@
       "onboard_time": 1701441699,
       "rank": 38,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 2498145,
+      "num": 614900,
+      "word": "多部门回应杨丞琳说河南人爱骗人",
+      "onboard_time": 1702220980,
+      "rank": 10,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2449111,
@@ -1617,14 +1625,6 @@
       "onboard_time": 1701842255,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1411361,
-      "num": 614900,
-      "word": "多部门回应杨丞琳说河南人爱骗人",
-      "onboard_time": 1702220980,
-      "rank": 10,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1411160,
@@ -6196,7 +6196,7 @@
     },
     {
       "raw_hot": 506171,
-      "num": 425476,
+      "num": 462254,
       "word": "为什么不带常华森",
       "onboard_time": 1702218341,
       "rank": 24,
@@ -9171,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370948,
+      "num": 370948,
+      "word": "郑州下雪",
+      "onboard_time": 1702220379,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370947,
       "num": 266722,
       "word": "许光汉 湿身微醺",
@@ -9835,6 +9843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 350443,
+      "num": 350443,
+      "word": "小时候最讨厌的是吃饭和睡觉",
+      "onboard_time": 1702217380,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350436,
       "num": 350436,
       "word": "刘少昂回应与林孝埈相撞",
@@ -10145,14 +10161,6 @@
       "onboard_time": 1702216662,
       "rank": 24,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 339524,
-      "num": 339524,
-      "word": "小时候最讨厌的是吃饭和睡觉",
-      "onboard_time": 1702217380,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 338704,
@@ -11499,14 +11507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 304047,
-      "num": 304047,
-      "word": "郑州下雪",
-      "onboard_time": 1702220379,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303459,
       "num": 303459,
       "word": "邓紫棋演唱会穿婚纱摔倒",
@@ -11721,6 +11721,14 @@
       "onboard_time": 1701571473,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299125,
+      "num": 299125,
+      "word": "陈楚生开口惊艳",
+      "onboard_time": 1702221578,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 298977,
@@ -12449,6 +12457,14 @@
       "onboard_time": 1701335796,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287212,
+      "num": 287212,
+      "word": "EXO 下雪了",
+      "onboard_time": 1702222058,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 287074,
@@ -15635,6 +15651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227942,
+      "num": 227942,
+      "word": "陈梦 下个赛场见",
+      "onboard_time": 1702220802,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227761,
       "num": 227761,
       "word": "张杰直播",
@@ -15737,6 +15761,14 @@
       "onboard_time": 1701653492,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 226153,
+      "num": 226153,
+      "word": "优雅低盘发",
+      "onboard_time": 1702221100,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 226016,
@@ -15865,14 +15897,6 @@
       "onboard_time": 1702187971,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223714,
-      "num": 223714,
-      "word": "陈梦 下个赛场见",
-      "onboard_time": 1702220802,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 223698,
@@ -18035,14 +18059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199153,
-      "num": 199153,
-      "word": "优雅低盘发",
-      "onboard_time": 1702221100,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 199131,
       "num": 142676,
       "word": "偶遇SVT的男粉丝后记",
@@ -19569,6 +19585,14 @@
       "onboard_time": 1701423998,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186295,
+      "num": 186295,
+      "word": "邓紫棋广州场结束",
+      "onboard_time": 1702221520,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 186242,
@@ -23731,6 +23755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138317,
+      "num": 138317,
+      "word": "亲亲只能是年轻人的权利吗",
+      "onboard_time": 1702222299,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138085,
       "num": 581248,
       "word": "龙墩墩开售啦",
@@ -27203,6 +27235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20368,
+      "num": 211824,
+      "word": "杜德伟曾比特陈卓璇复古摇滚",
+      "onboard_time": 1702220437,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20345,
       "num": 20618,
       "word": "蛋仔派对",
@@ -27401,14 +27441,6 @@
       "onboard_time": 1701366738,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 12928,
-      "num": 211824,
-      "word": "杜德伟曾比特陈卓璇复古摇滚",
-      "onboard_time": 1702220437,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 12620,

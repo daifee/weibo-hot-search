@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702221405046,
+  "endTime": 1702222432569,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -49,6 +49,14 @@
       "onboard_time": 1702192652,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2498145,
+      "num": 614900,
+      "word": "多部门回应杨丞琳说河南人爱骗人",
+      "onboard_time": 1702220980,
+      "rank": 10,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2294244,
@@ -137,14 +145,6 @@
       "onboard_time": 1702168108,
       "rank": 3,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1411361,
-      "num": 614900,
-      "word": "多部门回应杨丞琳说河南人爱骗人",
-      "onboard_time": 1702220980,
-      "rank": 10,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1327800,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 506171,
-      "num": 425476,
+      "num": 462254,
       "word": "为什么不带常华森",
       "onboard_time": 1702218341,
       "rank": 24,
@@ -995,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370948,
+      "num": 370948,
+      "word": "郑州下雪",
+      "onboard_time": 1702220379,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369745,
       "num": 369745,
       "word": "中国队5000米接力铜牌",
@@ -1059,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 350443,
+      "num": 350443,
+      "word": "小时候最讨厌的是吃饭和睡觉",
+      "onboard_time": 1702217380,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350194,
       "num": 350194,
       "word": "郑钧 我能证明自己是真唱",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1702216662,
       "rank": 24,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 339524,
-      "num": 339524,
-      "word": "小时候最讨厌的是吃饭和睡觉",
-      "onboard_time": 1702217380,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 337777,
@@ -1219,20 +1227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304047,
-      "num": 304047,
-      "word": "郑州下雪",
-      "onboard_time": 1702220379,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301734,
       "num": 301734,
       "word": "郑钧演唱会上表白刘芸",
       "onboard_time": 1702134999,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 299125,
+      "num": 299125,
+      "word": "陈楚生开口惊艳",
+      "onboard_time": 1702221578,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 298663,
@@ -1337,6 +1345,14 @@
       "onboard_time": 1702174170,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 287212,
+      "num": 287212,
+      "word": "EXO 下雪了",
+      "onboard_time": 1702222058,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 287074,
@@ -1675,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227942,
+      "num": 227942,
+      "word": "陈梦 下个赛场见",
+      "onboard_time": 1702220802,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227761,
       "num": 227761,
       "word": "张杰直播",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1702211797,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226153,
+      "num": 226153,
+      "word": "优雅低盘发",
+      "onboard_time": 1702221100,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 225295,
@@ -1721,14 +1753,6 @@
       "onboard_time": 1702187971,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223714,
-      "num": 223714,
-      "word": "陈梦 下个赛场见",
-      "onboard_time": 1702220802,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 222378,
@@ -2035,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199153,
-      "num": 199153,
-      "word": "优雅低盘发",
-      "onboard_time": 1702221100,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 199127,
       "num": 199127,
       "word": "人群对流感病毒其实普遍易感",
@@ -2193,6 +2209,14 @@
       "onboard_time": 1702157354,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186295,
+      "num": 186295,
+      "word": "邓紫棋广州场结束",
+      "onboard_time": 1702221520,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 185735,
@@ -2915,6 +2939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138317,
+      "num": 138317,
+      "word": "亲亲只能是年轻人的权利吗",
+      "onboard_time": 1702222299,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137765,
       "num": 137765,
       "word": "三大队",
@@ -3507,6 +3539,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 20368,
+      "num": 211824,
+      "word": "杜德伟曾比特陈卓璇复古摇滚",
+      "onboard_time": 1702220437,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16846,
       "num": 18531,
       "word": "广州马拉松",
@@ -3527,14 +3567,6 @@
       "num": 198173,
       "word": "我们的歌跨屏传递惊喜",
       "onboard_time": 1702184495,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 12928,
-      "num": 211824,
-      "word": "杜德伟曾比特陈卓璇复古摇滚",
-      "onboard_time": 1702220437,
       "rank": 39,
       "category": "综艺"
     },

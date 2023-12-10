@@ -1,0 +1,410 @@
+{
+  "runTime": 1702222432569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2798527,
+        "num": 2798527,
+        "word": "河南媒体评杨丞琳道歉",
+        "onboard_time": 1702218341,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1477416,
+        "num": 1477416,
+        "word": "张若昀你快删了吧",
+        "onboard_time": 1702216541,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126937,
+        "num": 1197941,
+        "word": "中国旅游市场持续火爆",
+        "onboard_time": 1702212634,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120848,
+        "num": 1120848,
+        "word": "信 怎么办一会还要唱离歌",
+        "onboard_time": 1702219300,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1086163,
+        "num": 1086163,
+        "word": "下雪了",
+        "onboard_time": 1702212634,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1050166,
+        "num": 1050166,
+        "word": "八年了 她终于红了",
+        "onboard_time": 1702200275,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 924538,
+        "num": 924538,
+        "word": "张万森 雪崩了",
+        "onboard_time": 1702217502,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 796770,
+        "num": 796770,
+        "word": "缅北四大家族",
+        "onboard_time": 1702219238,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604511,
+        "num": 604511,
+        "word": "Ning五杀",
+        "onboard_time": 1702220139,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 593474,
+        "num": 593474,
+        "word": "垫底辣孩 P图思路大公开",
+        "onboard_time": 1702205915,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 2498145,
+        "num": 571373,
+        "word": "多部门回应杨丞琳说河南人爱骗人",
+        "onboard_time": 1702220980,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 626692,
+        "num": 555669,
+        "word": "柯南吻戏 一刀没剪",
+        "onboard_time": 1702218282,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 536466,
+        "num": 536466,
+        "word": "缅北",
+        "onboard_time": 1702207172,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462254,
+        "num": 462254,
+        "word": "为什么不带常华森",
+        "onboard_time": 1702218341,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376004,
+        "num": 376004,
+        "word": "主播陈一发儿疑似复出再被封",
+        "onboard_time": 1702207414,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 404285,
+        "num": 375752,
+        "word": "赵一博",
+        "onboard_time": 1702212095,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370948,
+        "num": 370948,
+        "word": "郑州下雪",
+        "onboard_time": 1702220379,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360641,
+        "num": 360641,
+        "word": "一念关山辟谣刘诗诗打戏一剪没",
+        "onboard_time": 1702212576,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350443,
+        "num": 350443,
+        "word": "小时候最讨厌的是吃饭和睡觉",
+        "onboard_time": 1702217380,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336241,
+        "num": 336241,
+        "word": "iG合体",
+        "onboard_time": 1702217200,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 397842,
+        "num": 336194,
+        "word": "老人凌晨去世鞭炮一响全村都去帮忙",
+        "onboard_time": 1702211076,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337782,
+        "num": 336094,
+        "word": "猪肝到底是营养佳品还是毒素垃圾",
+        "onboard_time": 1702213778,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 334903,
+        "num": 334903,
+        "word": "宋江居然是举芦荟胶内男的",
+        "onboard_time": 1702211856,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320505,
+        "num": 320505,
+        "word": "2.2亿彩票一事需要有说服力的交代",
+        "onboard_time": 1702210232,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299125,
+        "num": 299125,
+        "word": "陈楚生开口惊艳",
+        "onboard_time": 1702221578,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289025,
+        "num": 289025,
+        "word": "星汉灿烂也这么骗我的",
+        "onboard_time": 1702215038,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287212,
+        "num": 287212,
+        "word": "EXO 下雪了",
+        "onboard_time": 1702222058,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284106,
+        "num": 284106,
+        "word": "樊振东孙颖莎共同捧杯",
+        "onboard_time": 1702220020,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252044,
+        "num": 252044,
+        "word": "花花58码的jiojio和脸脸一样大",
+        "onboard_time": 1702219541,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234052,
+        "num": 234052,
+        "word": "刘强东称京东改变需要时间",
+        "onboard_time": 1702216662,
+        "rank": 29,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 233715,
+        "num": 233715,
+        "word": "安宰贤被打一个踉跄",
+        "onboard_time": 1702216780,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232250,
+        "num": 232250,
+        "word": "马龙第28个世界冠军",
+        "onboard_time": 1702219118,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228077,
+        "num": 228077,
+        "word": "林孝埈希望粉丝支持所有中国队员",
+        "onboard_time": 1702218221,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227942,
+        "num": 227942,
+        "word": "陈梦 下个赛场见",
+        "onboard_time": 1702220802,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226153,
+        "num": 226153,
+        "word": "优雅低盘发",
+        "onboard_time": 1702221100,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 216252,
+        "num": 216252,
+        "word": "阿杜林俊杰 合唱",
+        "onboard_time": 1702217860,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201538,
+        "num": 201538,
+        "word": "樊振东复仇成功",
+        "onboard_time": 1702215460,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193827,
+        "num": 193827,
+        "word": "夹子音 刚满十八岁",
+        "onboard_time": 1702202796,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189030,
+        "num": 189030,
+        "word": "周也 就你这颜值往这一站",
+        "onboard_time": 1702215038,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20368,
+        "num": 188478,
+        "word": "杜德伟曾比特陈卓璇复古摇滚",
+        "onboard_time": 1702220437,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188391,
+        "num": 188391,
+        "word": "六年的感情比不过比赛的规则",
+        "onboard_time": 1702192652,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186295,
+        "num": 186295,
+        "word": "邓紫棋广州场结束",
+        "onboard_time": 1702221520,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176181,
+        "num": 176181,
+        "word": "接吻完顾声的口红都掉光了",
+        "onboard_time": 1702219963,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170443,
+        "num": 170443,
+        "word": "宁远舟把李同光头按缸里",
+        "onboard_time": 1702216120,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170354,
+        "num": 170354,
+        "word": "宁远舟人设",
+        "onboard_time": 1702219118,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158496,
+        "num": 158496,
+        "word": "国乒夺冠全家福",
+        "onboard_time": 1702220139,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157286,
+        "num": 157286,
+        "word": "王骁张译 你开餐馆我入股",
+        "onboard_time": 1702217081,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150100,
+        "num": 150100,
+        "word": "热依扎红毯妆教",
+        "onboard_time": 1702220322,
+        "rank": 47,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 139072,
+        "num": 139072,
+        "word": "泡了2年药酒的海马竟是塑料",
+        "onboard_time": 1702205497,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138317,
+        "num": 138317,
+        "word": "亲亲只能是年轻人的权利吗",
+        "onboard_time": 1702222299,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}
