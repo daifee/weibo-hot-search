@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702228482059,
+  "endTime": 1702229652576,
   "band_list": [
     {
       "raw_hot": 2522676,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198837,
+      "num": 198837,
+      "word": "在暴雪时分预约人数破100万",
+      "onboard_time": 1702227565,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187274,
       "num": 187274,
       "word": "花花58码的jiojio和脸脸一样大",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 159044,
-      "num": 102596,
+      "num": 128991,
       "word": "内娱第一个魔术系爱豆",
       "onboard_time": 1702226787,
       "rank": 21,
@@ -273,6 +281,14 @@
       "onboard_time": 1702220020,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153543,
+      "num": 128441,
+      "word": "林志玲现身老公演唱会",
+      "onboard_time": 1702227024,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 150337,
@@ -291,14 +307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143650,
-      "num": 90450,
-      "word": "在暴雪时分预约人数破100万",
-      "onboard_time": 1702227565,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143605,
       "num": 143605,
       "word": "阿杜林俊杰 合唱",
@@ -313,14 +321,6 @@
       "onboard_time": 1702219963,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138913,
-      "num": 83722,
-      "word": "林志玲现身老公演唱会",
-      "onboard_time": 1702227024,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 131694,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75897,
+      "num": 75897,
+      "word": "北京看雪别再扎堆故宫",
+      "onboard_time": 1702228164,
+      "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 75672,
       "num": 75672,
       "word": "白鲨卫冕CFS冠军",
@@ -467,15 +475,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55742,
-      "num": 55742,
-      "word": "北京看雪别再扎堆故宫",
-      "onboard_time": 1702228164,
-      "rank": 46,
-      "category": "旅游,社会新闻"
+      "raw_hot": 58947,
+      "num": 48893,
+      "word": "宋亚轩你以前这样的哥哥多吗",
+      "onboard_time": 1702229003,
+      "rank": 42,
+      "category": "综艺"
     },
     {
-      "raw_hot": 23070,
+      "raw_hot": 25273,
       "num": 457607,
       "word": "近期呼吸道疾病防治注意事项",
       "onboard_time": 1702212338,
@@ -486,6 +494,9 @@
   "hotgov_list": [
     {
       "word": "#把城市建设成为美丽家园#"
+    },
+    {
+      "word": "#跟着总书记学历史#"
     }
   ]
 }
