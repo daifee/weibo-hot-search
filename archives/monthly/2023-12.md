@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/11 07:17:03
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/11 07:34:00
 </p>
 </blockquote>
 <p>
@@ -2235,6 +2235,12 @@ GQ 坐船时长（热度：926354）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E6%80%92%E6%89%B9%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E8%AF%BE%E7%BA%B2%23" target="weibo">
+台湾中学教师怒批去中国化课纲（热度：870425）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%20%E6%88%91%E4%BB%8E17%E5%B2%81%E5%B0%B1%E8%B7%9F%E7%9D%80%E9%B9%BF%E5%A7%90%E4%BA%86%23" target="weibo">
 王星越 我从17岁就跟着鹿姐了（热度：868030）
 </a>
@@ -2759,12 +2765,6 @@ RNG Ming（热度：750985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4%23" target="weibo">
 刘诗诗回应替身说（热度：734557）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E6%80%92%E6%89%B9%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E8%AF%BE%E7%BA%B2%23" target="weibo">
-台湾中学教师怒批去中国化课纲（热度：734541）
 </a>
 </li>
 

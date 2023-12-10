@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702250223655,
+  "endTime": 1702251240879,
   "band_list": [
     {
       "raw_hot": 2522676,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 870425,
+      "num": 870425,
+      "word": "台湾中学教师怒批去中国化课纲",
+      "onboard_time": 1702246214,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807132,
       "num": 807132,
       "word": "EXO 下雪了",
@@ -49,14 +57,6 @@
       "onboard_time": 1702219300,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 734541,
-      "num": 734541,
-      "word": "台湾中学教师怒批去中国化课纲",
-      "onboard_time": 1702246214,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 685795,
@@ -115,6 +115,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 367027,
+      "num": 367027,
+      "word": "在暴雪时分预约人数破100万",
+      "onboard_time": 1702227565,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361315,
       "num": 361315,
       "word": "Ning五杀",
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261791,
+      "num": 261791,
+      "word": "花花58码的jiojio和脸脸一样大",
+      "onboard_time": 1702219541,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258882,
       "num": 193175,
       "word": "一念关山辟谣刘诗诗打戏一剪没",
@@ -187,20 +203,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248363,
+      "num": 120495,
+      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
+      "onboard_time": 1702236734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247459,
       "num": 200824,
       "word": "老人凌晨去世鞭炮一响全村都去帮忙",
       "onboard_time": 1702211076,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247331,
-      "num": 247331,
-      "word": "在暴雪时分预约人数破100万",
-      "onboard_time": 1702227565,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 228643,
@@ -227,27 +243,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211664,
-      "num": 71153,
-      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
-      "onboard_time": 1702236734,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209120,
       "num": 209120,
       "word": "缅北",
       "onboard_time": 1702207172,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187274,
-      "num": 187274,
-      "word": "花花58码的jiojio和脸脸一样大",
-      "onboard_time": 1702219541,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -273,6 +273,14 @@
       "onboard_time": 1702202796,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169743,
+      "num": 169743,
+      "word": "宋轶谈自己曾被换角",
+      "onboard_time": 1702250123,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 159360,
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138584,
+      "num": 114693,
+      "word": "张馨予低胸纱裙",
+      "onboard_time": 1702250302,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 131694,
       "num": 131694,
       "word": "陈梦 下个赛场见",
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124672,
+      "num": 112870,
+      "word": "陈思诚 感谢家人们给我的名字",
+      "onboard_time": 1702250664,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121255,
       "num": 121255,
       "word": "马龙第28个世界冠军",
@@ -385,6 +409,14 @@
       "onboard_time": 1702205497,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114736,
+      "num": 114736,
+      "word": "张译回应卧底当演员",
+      "onboard_time": 1702244954,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 113735,
@@ -417,14 +449,6 @@
       "onboard_time": 1702212634,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100845,
-      "num": 100845,
-      "word": "张译回应卧底当演员",
-      "onboard_time": 1702244954,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 100510,
@@ -475,11 +499,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82808,
+      "num": 82808,
+      "word": "WBG纪录片 上野镜头",
+      "onboard_time": 1702250183,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75897,
       "num": 75897,
       "word": "北京看雪别再扎堆故宫",
       "onboard_time": 1702228164,
       "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 75714,
+      "num": 75714,
+      "word": "被西湖边的银杏小院震撼到了",
+      "onboard_time": 1702249400,
+      "rank": 37,
       "category": "旅游,社会新闻"
     },
     {
@@ -499,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61066,
+      "num": 61066,
+      "word": "红酒底部凹槽",
+      "onboard_time": 1702250725,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 58947,
       "num": 48893,
       "word": "宋亚轩你以前这样的哥哥多吗",
@@ -507,32 +555,32 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45996,
-      "num": 45996,
-      "word": "被西湖边的银杏小院震撼到了",
-      "onboard_time": 1702249400,
-      "rank": 37,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 39745,
-      "num": 457607,
-      "word": "近期呼吸道疾病防治注意事项",
-      "onboard_time": 1702212338,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39592,
-      "num": 39592,
+      "raw_hot": 56143,
+      "num": 56143,
       "word": "佘诗曼希望新闻女王续集来了",
       "onboard_time": 1702236073,
       "rank": 27,
       "category": "剧集"
     },
     {
-      "raw_hot": 36054,
-      "num": 36054,
+      "raw_hot": 55426,
+      "num": 658562,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1702212338,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48781,
+      "num": 48781,
+      "word": "卢顿1比2曼城",
+      "onboard_time": 1702251086,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44361,
+      "num": 47646,
       "word": "热刺4比1纽卡斯尔联",
       "onboard_time": 1702249822,
       "rank": 44,
@@ -547,28 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 34521,
-      "num": 34521,
-      "word": "宋轶谈自己曾被换角",
-      "onboard_time": 1702250123,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 33241,
       "num": 33241,
       "word": "小满生活大结局",
       "onboard_time": 1702243093,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30854,
-      "num": 33236,
-      "word": "WBG纪录片 上野镜头",
-      "onboard_time": 1702250183,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 25539,

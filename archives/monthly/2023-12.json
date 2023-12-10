@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702250223655,
+  "endTime": 1702251240879,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -2963,6 +2963,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 870425,
+      "num": 870425,
+      "word": "台湾中学教师怒批去中国化课纲",
+      "onboard_time": 1702246214,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868030,
       "num": 868030,
       "word": "王星越 我从17岁就跟着鹿姐了",
@@ -3665,14 +3673,6 @@
       "onboard_time": 1701702337,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 734541,
-      "num": 734541,
-      "word": "台湾中学教师怒批去中国化课纲",
-      "onboard_time": 1702246214,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 732394,
@@ -9339,6 +9339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 367027,
+      "num": 367027,
+      "word": "在暴雪时分预约人数破100万",
+      "onboard_time": 1702227565,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366745,
       "num": 283268,
       "word": "如何一次学会八段锦",
@@ -14419,6 +14427,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 248363,
+      "num": 120495,
+      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
+      "onboard_time": 1702236734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248173,
       "num": 248173,
       "word": "meiko TES",
@@ -14457,14 +14473,6 @@
       "onboard_time": 1701854378,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 247331,
-      "num": 247331,
-      "word": "在暴雪时分预约人数破100万",
-      "onboard_time": 1702227565,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 247312,
@@ -16865,14 +16873,6 @@
       "onboard_time": 1702208736,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 211664,
-      "num": 71153,
-      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
-      "onboard_time": 1702236734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211588,
@@ -20955,6 +20955,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 169743,
+      "num": 169743,
+      "word": "宋轶谈自己曾被换角",
+      "onboard_time": 1702250123,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169706,
       "num": 169706,
       "word": "漠河极光",
@@ -23819,6 +23827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138584,
+      "num": 114693,
+      "word": "张馨予低胸纱裙",
+      "onboard_time": 1702250302,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 138579,
       "num": 138579,
       "word": "AI视频",
@@ -24811,6 +24827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124672,
+      "num": 112870,
+      "word": "陈思诚 感谢家人们给我的名字",
+      "onboard_time": 1702250664,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124334,
       "num": 124334,
       "word": "猫猫村落",
@@ -25251,6 +25275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114736,
+      "num": 114736,
+      "word": "张译回应卧底当演员",
+      "onboard_time": 1702244954,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114707,
       "num": 114707,
       "word": "被小孩哥的舞蹈震惊了",
@@ -25641,14 +25673,6 @@
       "onboard_time": 1701899113,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100845,
-      "num": 100845,
-      "word": "张译回应卧底当演员",
-      "onboard_time": 1702244954,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 100641,
@@ -26059,6 +26083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82808,
+      "num": 82808,
+      "word": "WBG纪录片 上野镜头",
+      "onboard_time": 1702250183,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82644,
       "num": 82644,
       "word": "迷路娃牢牢牵住民警伸出的手",
@@ -26217,6 +26249,14 @@
       "onboard_time": 1701833137,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75714,
+      "num": 75714,
+      "word": "被西湖边的银杏小院震撼到了",
+      "onboard_time": 1702249400,
+      "rank": 37,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 75042,
@@ -26483,6 +26523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61066,
+      "num": 61066,
+      "word": "红酒底部凹槽",
+      "onboard_time": 1702250725,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 60346,
       "num": 1650040,
       "word": "国之重器背后的中国链",
@@ -26579,10 +26627,26 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56143,
+      "num": 56143,
+      "word": "佘诗曼希望新闻女王续集来了",
+      "onboard_time": 1702236073,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55431,
       "num": 1422878,
       "word": "6问6答了解流感用药注意事项",
       "onboard_time": 1702029397,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55426,
+      "num": 1531280,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1702212338,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -26651,14 +26715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52037,
-      "num": 1531280,
-      "word": "近期呼吸道疾病防治注意事项",
-      "onboard_time": 1702212338,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51759,
       "num": 51759,
       "word": "阿斯顿维拉1比0阿森纳",
@@ -26705,6 +26761,14 @@
       "onboard_time": 1701622407,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 48781,
+      "num": 48781,
+      "word": "卢顿1比2曼城",
+      "onboard_time": 1702251086,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 48083,
@@ -26771,14 +26835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45996,
-      "num": 45996,
-      "word": "被西湖边的银杏小院震撼到了",
-      "onboard_time": 1702249400,
-      "rank": 37,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 45551,
       "num": 498333,
       "word": "中国跑鞋日本赛场创纪录",
@@ -26809,6 +26865,14 @@
       "onboard_time": 1701625521,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44361,
+      "num": 47646,
+      "word": "热刺4比1纽卡斯尔联",
+      "onboard_time": 1702249822,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 44207,
@@ -26913,14 +26977,6 @@
       "onboard_time": 1702090231,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39592,
-      "num": 39592,
-      "word": "佘诗曼希望新闻女王续集来了",
-      "onboard_time": 1702236073,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 39391,
@@ -27043,14 +27099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36054,
-      "num": 36054,
-      "word": "热刺4比1纽卡斯尔联",
-      "onboard_time": 1702249822,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 35988,
       "num": 35988,
       "word": "重返庭审现场",
@@ -27080,14 +27128,6 @@
       "word": "王心凌唱第一次爱的人",
       "onboard_time": 1702232775,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 34521,
-      "num": 34521,
-      "word": "宋轶谈自己曾被换角",
-      "onboard_time": 1702250123,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -27161,14 +27201,6 @@
       "onboard_time": 1702143620,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 30854,
-      "num": 33236,
-      "word": "WBG纪录片 上野镜头",
-      "onboard_time": 1702250183,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 30756,
