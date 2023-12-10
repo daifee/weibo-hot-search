@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702218853766,
+  "endTime": 1702221405046,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -17,6 +17,14 @@
       "onboard_time": 1702186534,
       "rank": 0,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 3047145,
+      "num": 3047145,
+      "word": "河南媒体评杨丞琳道歉",
+      "onboard_time": 1702218341,
+      "rank": 4,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2819751,
@@ -131,6 +139,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1411361,
+      "num": 614900,
+      "word": "多部门回应杨丞琳说河南人爱骗人",
+      "onboard_time": 1702220980,
+      "rank": 10,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1327800,
       "num": 1327800,
       "word": "冰箱门上放牛奶隐患有多大",
@@ -161,14 +177,6 @@
       "onboard_time": 1702213718,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1211948,
-      "num": 1211948,
-      "word": "河南媒体评杨丞琳道歉",
-      "onboard_time": 1702218341,
-      "rank": 4,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1194250,
@@ -203,6 +211,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1150719,
+      "num": 1150719,
+      "word": "信 怎么办一会还要唱离歌",
+      "onboard_time": 1702219300,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1137326,
+      "num": 1137326,
+      "word": "张万森 雪崩了",
+      "onboard_time": 1702217502,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1124039,
       "num": 1124039,
       "word": "刘宇宁 作为演员颜值也应该重视",
@@ -217,14 +241,6 @@
       "onboard_time": 1702178553,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1052398,
-      "num": 1052398,
-      "word": "张万森 雪崩了",
-      "onboard_time": 1702217502,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 1034854,
@@ -297,6 +313,14 @@
       "onboard_time": 1702213298,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 938131,
+      "num": 938131,
+      "word": "缅北四大家族",
+      "onboard_time": 1702219238,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 907111,
@@ -385,6 +409,14 @@
       "onboard_time": 1702168707,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 777402,
+      "num": 614135,
+      "word": "柯南吻戏 一刀没剪",
+      "onboard_time": 1702218282,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 772661,
@@ -489,6 +521,14 @@
       "onboard_time": 1702203816,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 641892,
+      "num": 641892,
+      "word": "Ning五杀",
+      "onboard_time": 1702220139,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 634950,
@@ -641,6 +681,14 @@
       "onboard_time": 1702213778,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 506171,
+      "num": 425476,
+      "word": "为什么不带常华森",
+      "onboard_time": 1702218341,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 502799,
@@ -891,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397797,
-      "num": 397797,
-      "word": "柯南吻戏 一刀没剪",
-      "onboard_time": 1702218282,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 394860,
       "num": 394860,
       "word": "刘宇宁说不会因为负评放弃做演员",
@@ -1059,6 +1099,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 339524,
+      "num": 339524,
+      "word": "小时候最讨厌的是吃饭和睡觉",
+      "onboard_time": 1702217380,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 337777,
       "num": 337777,
       "word": "上海市考 写不出开头",
@@ -1083,14 +1131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 332739,
-      "num": 332739,
-      "word": "为什么不带常华森",
-      "onboard_time": 1702218341,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331466,
       "num": 331466,
       "word": "4岁女孩穿汉服滑雪如御剑飞行",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1702133916,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318058,
+      "num": 318058,
+      "word": "樊振东孙颖莎共同捧杯",
+      "onboard_time": 1702220020,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 309320,
@@ -1169,6 +1217,14 @@
       "onboard_time": 1702184316,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304047,
+      "num": 304047,
+      "word": "郑州下雪",
+      "onboard_time": 1702220379,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301734,
@@ -1331,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279671,
+      "num": 279671,
+      "word": "马龙第28个世界冠军",
+      "onboard_time": 1702219118,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278958,
       "num": 278958,
       "word": "北京的雪呢",
@@ -1419,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263840,
+      "num": 263840,
+      "word": "花花58码的jiojio和脸脸一样大",
+      "onboard_time": 1702219541,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261671,
       "num": 261671,
       "word": "乒乓球世界杯将在中国澳门重启",
@@ -1481,14 +1553,6 @@
       "onboard_time": 1702133379,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241828,
-      "num": 241828,
-      "word": "小时候最讨厌的是吃饭和睡觉",
-      "onboard_time": 1702217380,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 240361,
@@ -1611,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227761,
+      "num": 227761,
+      "word": "张杰直播",
+      "onboard_time": 1702220742,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 226651,
       "num": 226651,
       "word": "张杰未live巡回演唱会",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1702187971,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223714,
+      "num": 223714,
+      "word": "陈梦 下个赛场见",
+      "onboard_time": 1702220802,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 222378,
@@ -1697,6 +1777,14 @@
       "onboard_time": 1702175670,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219656,
+      "num": 219656,
+      "word": "宁远舟人设",
+      "onboard_time": 1702219118,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 218747,
@@ -1867,6 +1955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204673,
+      "num": 204673,
+      "word": "热依扎红毯妆教",
+      "onboard_time": 1702220322,
+      "rank": 41,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 204437,
       "num": 204437,
       "word": "人类数据库 AI生成图",
@@ -1937,6 +2033,14 @@
       "onboard_time": 1702212634,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199153,
+      "num": 199153,
+      "word": "优雅低盘发",
+      "onboard_time": 1702221100,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 199127,
@@ -2059,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190525,
+      "num": 190525,
+      "word": "卢顿vs曼城",
+      "onboard_time": 1702220200,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189643,
       "num": 189643,
       "word": "初雪challenge",
@@ -2105,6 +2217,14 @@
       "onboard_time": 1702204775,
       "rank": 37,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 184615,
+      "num": 184615,
+      "word": "接吻完顾声的口红都掉光了",
+      "onboard_time": 1702219963,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 184394,
@@ -2315,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173804,
+      "num": 173804,
+      "word": "国乒夺冠全家福",
+      "onboard_time": 1702220139,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173196,
       "num": 173196,
       "word": "教资面试",
@@ -2371,6 +2499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169268,
+      "num": 429870,
+      "word": "熬夜垮脸如何自救",
+      "onboard_time": 1702216962,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 168665,
       "num": 168665,
       "word": "数学最初和最终的样子",
@@ -2409,14 +2545,6 @@
       "onboard_time": 1702179031,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165471,
-      "num": 429870,
-      "word": "熬夜垮脸如何自救",
-      "onboard_time": 1702216962,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 164618,
@@ -3399,6 +3527,14 @@
       "num": 198173,
       "word": "我们的歌跨屏传递惊喜",
       "onboard_time": 1702184495,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12928,
+      "num": 211824,
+      "word": "杜德伟曾比特陈卓璇复古摇滚",
+      "onboard_time": 1702220437,
       "rank": 39,
       "category": "综艺"
     },
