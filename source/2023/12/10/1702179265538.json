@@ -1,0 +1,410 @@
+{
+  "runTime": 1702179265538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535709,
+        "num": 1535709,
+        "word": "江苏省考 酣畅淋漓的蒙题",
+        "onboard_time": 1702178372,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1302427,
+        "num": 1302427,
+        "word": "饶雪漫谈八年不敢联系陈都灵",
+        "onboard_time": 1702165522,
+        "rank": 1,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 40684,
+        "num": 1118148,
+        "word": "卫星视角看中国",
+        "onboard_time": 1702178489,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1079805,
+        "num": 1079805,
+        "word": "浙江省考 比国考还难",
+        "onboard_time": 1702178553,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1064290,
+        "num": 1064290,
+        "word": "周一围 朱丹",
+        "onboard_time": 1702173149,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 876345,
+        "num": 876345,
+        "word": "导游建议游客买一朵菊花献烈士",
+        "onboard_time": 1702175428,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823137,
+        "num": 823137,
+        "word": "山东省考 一考一个不吱声",
+        "onboard_time": 1702178973,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 785562,
+        "num": 785562,
+        "word": "省考 我必上岸",
+        "onboard_time": 1702168707,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 780525,
+        "num": 780525,
+        "word": "男子骑共享单车忘付费1元欠6年",
+        "onboard_time": 1702176810,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778004,
+        "num": 778004,
+        "word": "华润集团曝光四家假央企",
+        "onboard_time": 1702176693,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1154278,
+        "num": 749116,
+        "word": "一个人不舔人的社会从尊重服务业开始",
+        "onboard_time": 1702168108,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 813814,
+        "num": 734719,
+        "word": "猫咖20余只猫被锁店里饿到自相残杀",
+        "onboard_time": 1702172793,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781390,
+        "num": 726309,
+        "word": "难哄 别哄了",
+        "onboard_time": 1702170929,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 697191,
+        "num": 697191,
+        "word": "冰箱门上放牛奶隐患有多大",
+        "onboard_time": 1702168226,
+        "rank": 13,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 649775,
+        "num": 649775,
+        "word": "广州警方回应地铁发生持刀伤人事件",
+        "onboard_time": 1702178433,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623081,
+        "num": 623081,
+        "word": "广州地铁",
+        "onboard_time": 1702177596,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 487631,
+        "num": 487631,
+        "word": "夹子音",
+        "onboard_time": 1702177471,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 435104,
+        "num": 435104,
+        "word": "程序员的年终奖能有多奇葩",
+        "onboard_time": 1702177230,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381337,
+        "num": 381337,
+        "word": "第一学历",
+        "onboard_time": 1702136075,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351217,
+        "num": 351217,
+        "word": "外籍旅客优先登机致一女子滞留机场",
+        "onboard_time": 1702171470,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58024,
+        "num": 324593,
+        "word": "林俊杰说广西是真的浪漫",
+        "onboard_time": 1702177289,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357471,
+        "num": 320264,
+        "word": "乳腺舒服了",
+        "onboard_time": 1702170510,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315563,
+        "num": 315563,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308216,
+        "num": 308216,
+        "word": "周深找孟子义嘴巴急出尖叫",
+        "onboard_time": 1702178195,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307974,
+        "num": 307974,
+        "word": "娜扎经纪人 造型参考人物是维纳斯",
+        "onboard_time": 1702167086,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 267536,
+        "num": 267536,
+        "word": "王俊凯新歌红蓝战歌",
+        "onboard_time": 1702178433,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252375,
+        "num": 252375,
+        "word": "TheShy 降薪",
+        "onboard_time": 1702164018,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236466,
+        "num": 236466,
+        "word": "宋江金裕贞 般配",
+        "onboard_time": 1702177531,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224106,
+        "num": 224106,
+        "word": "周也演技 角色差异化",
+        "onboard_time": 1702174770,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217315,
+        "num": 217315,
+        "word": "实体店真的很难做",
+        "onboard_time": 1702174593,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216080,
+        "num": 216080,
+        "word": "辛辛苦苦的挣了很少钱",
+        "onboard_time": 1702176151,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214996,
+        "num": 214996,
+        "word": "奔跑吧下期玩的是一个大反转",
+        "onboard_time": 1702170028,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213109,
+        "num": 213109,
+        "word": "男子因一个热水器救了一栋楼",
+        "onboard_time": 1702172249,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208305,
+        "num": 208305,
+        "word": "林俊杰南宁 吃太香了",
+        "onboard_time": 1702166546,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200645,
+        "num": 200645,
+        "word": "程少商这一世还不选袁善见",
+        "onboard_time": 1702165883,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191579,
+        "num": 191579,
+        "word": "长陵 刘亦菲",
+        "onboard_time": 1702179154,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189280,
+        "num": 189280,
+        "word": "花花最近白得发亮",
+        "onboard_time": 1702137213,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187577,
+        "num": 187577,
+        "word": "吃一把瓜子等于喝一勺油是冤枉瓜子",
+        "onboard_time": 1702173932,
+        "rank": 37,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 184047,
+        "num": 184047,
+        "word": "男子解开安全带拿吃的致一死一伤",
+        "onboard_time": 1702165824,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179370,
+        "num": 179370,
+        "word": "吉祥航空承认因失误导致乘客滞留机场",
+        "onboard_time": 1702164440,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173377,
+        "num": 173377,
+        "word": "塌腰",
+        "onboard_time": 1702131942,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167119,
+        "num": 167119,
+        "word": "周深汪苏泷宋亚轩 共享衣柜",
+        "onboard_time": 1702176391,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165811,
+        "num": 165811,
+        "word": "男子境外昏迷44天后乘空中救护车回国",
+        "onboard_time": 1702174952,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165606,
+        "num": 165606,
+        "word": "许昕孙颖莎握手",
+        "onboard_time": 1702179031,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162479,
+        "num": 162479,
+        "word": "养肺让皮肤越来越水灵",
+        "onboard_time": 1702174170,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159485,
+        "num": 159485,
+        "word": "林孝埈向刘少昂表达歉意",
+        "onboard_time": 1702164318,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158439,
+        "num": 158439,
+        "word": "以为许诗晴的孩子是man姐的",
+        "onboard_time": 1702167325,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154432,
+        "num": 154432,
+        "word": "鸣龙少年今晚开播",
+        "onboard_time": 1702177711,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152103,
+        "num": 152103,
+        "word": "里夫斯半场22分",
+        "onboard_time": 1702178613,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149683,
+        "num": 149683,
+        "word": "被称高颜值女老赖现身澄清传言",
+        "onboard_time": 1702175670,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把城市建设成为美丽家园#"
+    }
+  }
+}

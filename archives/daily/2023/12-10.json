@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702178308358,
+  "endTime": 1702179265538,
   "band_list": [
     {
       "raw_hot": 2028278,
@@ -17,6 +17,14 @@
       "onboard_time": 1702136075,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1535709,
+      "num": 1535709,
+      "word": "江苏省考 酣畅淋漓的蒙题",
+      "onboard_time": 1702178372,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1481820,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1194091,
-      "num": 953329,
+      "num": 1064290,
       "word": "周一围 朱丹",
       "onboard_time": 1702173149,
       "rank": 1,
@@ -51,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1079805,
+      "num": 1079805,
+      "word": "浙江省考 比国考还难",
+      "onboard_time": 1702178553,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1034854,
       "num": 734261,
       "word": "难哄 别哄了",
@@ -60,10 +76,18 @@
     },
     {
       "raw_hot": 964632,
-      "num": 367694,
+      "num": 734719,
       "word": "猫咖20余只猫被锁店里饿到自相残杀",
       "onboard_time": 1702172793,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 876345,
+      "num": 876345,
+      "word": "导游建议游客买一朵菊花献烈士",
+      "onboard_time": 1702175428,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -83,12 +107,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823137,
+      "num": 823137,
+      "word": "山东省考 一考一个不吱声",
+      "onboard_time": 1702178973,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 792946,
       "num": 792946,
       "word": "赵丽颖 女二",
       "onboard_time": 1702120956,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 785562,
+      "num": 785562,
+      "word": "省考 我必上岸",
+      "onboard_time": 1702168707,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 780525,
+      "num": 780525,
+      "word": "男子骑共享单车忘付费1元欠6年",
+      "onboard_time": 1702176810,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 697038,
@@ -123,6 +171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 649775,
+      "num": 649775,
+      "word": "广州警方回应地铁发生持刀伤人事件",
+      "onboard_time": 1702178433,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633314,
       "num": 633314,
       "word": "黄晓明带儿子去迪士尼",
@@ -132,27 +188,19 @@
     },
     {
       "raw_hot": 632302,
-      "num": 265038,
+      "num": 320264,
       "word": "乳腺舒服了",
       "onboard_time": 1702170510,
       "rank": 30,
       "category": "情感"
     },
     {
-      "raw_hot": 606919,
-      "num": 606919,
-      "word": "导游建议游客买一朵菊花献烈士",
-      "onboard_time": 1702175428,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 588313,
-      "num": 366361,
-      "word": "男子骑共享单车忘付费1元欠6年",
-      "onboard_time": 1702176810,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 623081,
+      "num": 623081,
+      "word": "广州地铁",
+      "onboard_time": 1702177596,
+      "rank": 7,
+      "category": "社会负面"
     },
     {
       "raw_hot": 581687,
@@ -187,20 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 525784,
-      "num": 525784,
-      "word": "省考 我必上岸",
-      "onboard_time": 1702168707,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 512016,
-      "num": 512016,
-      "word": "广州地铁",
-      "onboard_time": 1702177596,
-      "rank": 7,
-      "category": "社会负面"
+      "raw_hot": 487631,
+      "num": 487631,
+      "word": "夹子音",
+      "onboard_time": 1702177471,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 455333,
@@ -225,6 +265,14 @@
       "onboard_time": 1702165883,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 435104,
+      "num": 435104,
+      "word": "程序员的年终奖能有多奇葩",
+      "onboard_time": 1702177230,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424760,
@@ -283,14 +331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350501,
-      "num": 350501,
-      "word": "夹子音",
-      "onboard_time": 1702177471,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 345189,
       "num": 345189,
       "word": "张雪峰再回应文科都是服务业",
@@ -307,12 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 318546,
-      "num": 318546,
-      "word": "程序员的年终奖能有多奇葩",
-      "onboard_time": 1702177230,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 308216,
+      "num": 308216,
+      "word": "周深找孟子义嘴巴急出尖叫",
+      "onboard_time": 1702178195,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 306444,
@@ -379,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267536,
+      "num": 267536,
+      "word": "王俊凯新歌红蓝战歌",
+      "onboard_time": 1702178433,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266893,
       "num": 266893,
       "word": "林俊杰嘉宾 李荣浩",
@@ -417,6 +465,14 @@
       "onboard_time": 1702172312,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236466,
+      "num": 236466,
+      "word": "宋江金裕贞 般配",
+      "onboard_time": 1702177531,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 234141,
@@ -465,6 +521,14 @@
       "onboard_time": 1702136194,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216080,
+      "num": 216080,
+      "word": "辛辛苦苦的挣了很少钱",
+      "onboard_time": 1702176151,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 208719,
@@ -539,27 +603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196533,
-      "num": 196533,
-      "word": "辛辛苦苦的挣了很少钱",
-      "onboard_time": 1702176151,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194911,
       "num": 194911,
       "word": "鸣龙少年今晚开播",
       "onboard_time": 1702177711,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193369,
-      "num": 193369,
-      "word": "宋江金裕贞 般配",
-      "onboard_time": 1702177531,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -585,6 +633,14 @@
       "onboard_time": 1702128096,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191579,
+      "num": 191579,
+      "word": "长陵 刘亦菲",
+      "onboard_time": 1702179154,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 190986,
@@ -723,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165606,
+      "num": 165606,
+      "word": "许昕孙颖莎握手",
+      "onboard_time": 1702179031,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163311,
       "num": 163311,
       "word": "王曼昱此球全体起立",
@@ -771,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157836,
-      "num": 139688,
-      "word": "周深找孟子义嘴巴急出尖叫",
-      "onboard_time": 1702178195,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156873,
       "num": 156873,
       "word": "常华森 哭包",
@@ -801,6 +857,14 @@
       "onboard_time": 1702136015,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152103,
+      "num": 152103,
+      "word": "里夫斯半场22分",
+      "onboard_time": 1702178613,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 151340,
@@ -1211,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58024,
+      "num": 324593,
+      "word": "林俊杰说广西是真的浪漫",
+      "onboard_time": 1702177289,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 53325,
       "num": 43430,
       "word": "喻言一巡收官",
@@ -1243,14 +1315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50710,
-      "num": 248275,
-      "word": "林俊杰说广西是真的浪漫",
-      "onboard_time": 1702177289,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 46872,
       "num": 46872,
       "word": "瞒天过海 看不见的客人",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1702127315,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40684,
+      "num": 1118148,
+      "word": "卫星视角看中国",
+      "onboard_time": 1702178489,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31419,
@@ -1345,6 +1417,9 @@
     },
     {
       "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    },
+    {
+      "word": "#把城市建设成为美丽家园#"
     }
   ]
 }
