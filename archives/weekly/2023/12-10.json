@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702229652576,
+  "endTime": 1702232447925,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -3617,6 +3617,14 @@
       "onboard_time": 1702162516,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25539,
+      "num": 27150,
+      "word": "你眼中的最强露娜",
+      "onboard_time": 1702230618,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 24654,
