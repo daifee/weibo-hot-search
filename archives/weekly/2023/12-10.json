@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702197281911,
+  "endTime": 1702199743344,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -19,6 +19,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 2337214,
+      "num": 2337214,
+      "word": "六年的感情比不过比赛的规则",
+      "onboard_time": 1702192652,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2028278,
       "num": 2028278,
       "word": "饶雪漫谈八年不敢联系陈都灵",
@@ -33,14 +41,6 @@
       "onboard_time": 1702191452,
       "rank": 10,
       "category": "旅游,艺人"
-    },
-    {
-      "raw_hot": 1896118,
-      "num": 1896118,
-      "word": "六年的感情比不过比赛的规则",
-      "onboard_time": 1702192652,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1770263,
@@ -65,6 +65,14 @@
       "onboard_time": 1702178372,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1515295,
+      "num": 1515295,
+      "word": "你接受杨丞琳的道歉吗",
+      "onboard_time": 1702186534,
+      "rank": 3,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1481820,
@@ -97,6 +105,22 @@
       "onboard_time": 1702131942,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1160217,
+      "num": 1160217,
+      "word": "单价35元包包成年轻人时尚新宠",
+      "onboard_time": 1702193853,
+      "rank": 4,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 1124039,
+      "num": 1124039,
+      "word": "刘宇宁 作为演员颜值也应该重视",
+      "onboard_time": 1702196495,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1079805,
@@ -137,14 +161,6 @@
       "onboard_time": 1702184374,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 981296,
-      "num": 981296,
-      "word": "单价35元包包成年轻人时尚新宠",
-      "onboard_time": 1702193853,
-      "rank": 4,
-      "category": "时尚"
     },
     {
       "raw_hot": 964632,
@@ -283,6 +299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 633367,
+      "num": 633367,
+      "word": "雪雪雪雪雪来了",
+      "onboard_time": 1702197393,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 633314,
       "num": 633314,
       "word": "黄晓明带儿子去迪士尼",
@@ -313,6 +337,14 @@
       "onboard_time": 1702179154,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 615447,
+      "num": 615447,
+      "word": "刘少昂1000米夺金",
+      "onboard_time": 1702197632,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 581687,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517860,
+      "num": 517860,
+      "word": "马面裙 女装",
+      "onboard_time": 1702197154,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 516058,
       "num": 516058,
       "word": "虞书欣 哇哦",
@@ -377,14 +417,6 @@
       "onboard_time": 1702193372,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 483618,
-      "num": 483618,
-      "word": "刘宇宁 作为演员颜值也应该重视",
-      "onboard_time": 1702196495,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 469332,
@@ -427,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451308,
+      "num": 451308,
+      "word": "他燃烧了一整夜 却倒在了黎明前",
+      "onboard_time": 1702194152,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 450332,
       "num": 450332,
       "word": "决定朋友圈不再屏蔽爸妈",
@@ -457,14 +497,6 @@
       "onboard_time": 1702177230,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 425436,
-      "num": 425436,
-      "word": "他燃烧了一整夜 却倒在了黎明前",
-      "onboard_time": 1702194152,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 424760,
@@ -569,6 +601,14 @@
       "onboard_time": 1702157053,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361057,
+      "num": 361057,
+      "word": "许诗晴 理想身材",
+      "onboard_time": 1702197213,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 353002,
@@ -787,6 +827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 264599,
+      "num": 264599,
+      "word": "行测",
+      "onboard_time": 1702197693,
+      "rank": 18,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 263875,
       "num": 250866,
       "word": "阿音和嫋嫋打架谁能赢",
@@ -851,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 239879,
+      "num": 239879,
+      "word": "很想很想你 初吻之后全是吻戏",
+      "onboard_time": 1702198831,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239598,
       "num": 239598,
       "word": "冬季光腿神器极度危害健康",
@@ -873,6 +929,14 @@
       "onboard_time": 1702176151,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237306,
+      "num": 205439,
+      "word": "这个杀手不太冷有望内地上映",
+      "onboard_time": 1702197454,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 236466,
@@ -1033,6 +1097,22 @@
       "onboard_time": 1702125033,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206851,
+      "num": 206851,
+      "word": "北京的雪呢",
+      "onboard_time": 1702199134,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206698,
+      "num": 206698,
+      "word": "蓝色眼睛的人",
+      "onboard_time": 1702197812,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206366,
@@ -1243,12 +1323,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180163,
+      "num": 180163,
+      "word": "LPL全明星",
+      "onboard_time": 1702197871,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180061,
       "num": 180061,
       "word": "服务业",
       "onboard_time": 1702172069,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 178812,
+      "num": 178812,
+      "word": "刘宇宁采访",
+      "onboard_time": 1702198415,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178089,
@@ -1339,6 +1435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 172646,
+      "num": 172646,
+      "word": "陈铭治好了我用平替的羞耻感",
+      "onboard_time": 1702198534,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171935,
       "num": 171935,
       "word": "浙大学霸的笔记精美得像教科书",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1702168528,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171055,
+      "num": 171055,
+      "word": "谢谢你省考面",
+      "onboard_time": 1702199557,
+      "rank": 34,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 170735,
@@ -1563,8 +1675,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146725,
-      "num": 146725,
+      "raw_hot": 147321,
+      "num": 147321,
       "word": "长期主义",
       "onboard_time": 1702196900,
       "rank": 38,
@@ -1577,6 +1689,14 @@
       "onboard_time": 1702169488,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145148,
+      "num": 145148,
+      "word": "反差爆改终于轮到我们丫丫",
+      "onboard_time": 1702198353,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144219,
@@ -1859,12 +1979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123586,
-      "num": 123586,
-      "word": "许诗晴 理想身材",
-      "onboard_time": 1702197213,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 123186,
+      "num": 123186,
+      "word": "AG白鲨连续三年会师决赛",
+      "onboard_time": 1702199013,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 122670,
