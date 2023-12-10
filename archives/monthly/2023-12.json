@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702211449041,
+  "endTime": 1702212371010,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -611,6 +611,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 2203938,
+      "num": 2203938,
+      "word": "缅北",
+      "onboard_time": 1702207172,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2203534,
       "num": 2203534,
       "word": "赵露思 小红书广告",
@@ -633,14 +641,6 @@
       "onboard_time": 1702016078,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2177632,
-      "num": 2177632,
-      "word": "缅北",
-      "onboard_time": 1702207172,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2171346,
@@ -1387,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1512846,
+      "num": 1512846,
+      "word": "刘诗诗累到虚脱 正片一剪没",
+      "onboard_time": 1702208794,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1508896,
       "num": 1508896,
       "word": "樊振东状态",
@@ -1545,14 +1553,6 @@
       "onboard_time": 1701839618,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1429610,
-      "num": 1429610,
-      "word": "刘诗诗累到虚脱 正片一剪没",
-      "onboard_time": 1702208794,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1425653,
@@ -4707,6 +4707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 601759,
+      "num": 295892,
+      "word": "老人凌晨去世鞭炮一响全村都去帮忙",
+      "onboard_time": 1702211076,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601422,
       "num": 601422,
       "word": "涵艺爆料Meiko加入TES",
@@ -6179,6 +6187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493375,
+      "num": 493375,
+      "word": "王楚钦孙颖莎3比0韩国组合",
+      "onboard_time": 1702211433,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493252,
       "num": 493252,
       "word": "刘宇宁跳科目三",
@@ -7307,6 +7323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432559,
+      "num": 294793,
+      "word": "派出所证实华夏银行天津分行行长坠楼",
+      "onboard_time": 1702209993,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432476,
       "num": 432476,
       "word": "农行回应女子30万存款无法取出",
@@ -7891,14 +7915,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 411430,
-      "num": 253816,
-      "word": "派出所证实华夏银行天津分行行长坠楼",
-      "onboard_time": 1702209993,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410129,
       "num": 410129,
       "word": "2023MMA获奖名单",
@@ -8145,6 +8161,14 @@
       "onboard_time": 1701654874,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399274,
+      "num": 399274,
+      "word": "张晶 战术",
+      "onboard_time": 1702207594,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 398404,
@@ -9929,14 +9953,6 @@
       "onboard_time": 1701508472,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337844,
-      "num": 337844,
-      "word": "张晶 战术",
-      "onboard_time": 1702207594,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 337777,
@@ -11987,6 +12003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290885,
+      "num": 290885,
+      "word": "宋江居然是举芦荟胶内男的",
+      "onboard_time": 1702211856,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290848,
       "num": 290848,
       "word": "生理期也能做的减脂动作",
@@ -12153,6 +12177,14 @@
       "onboard_time": 1701335796,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287074,
+      "num": 287074,
+      "word": "aespa 雪国精灵",
+      "onboard_time": 1702210595,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 286623,
@@ -14563,14 +14595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238435,
-      "num": 238435,
-      "word": "aespa 雪国精灵",
-      "onboard_time": 1702210595,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 238399,
       "num": 238399,
       "word": "TGA最大赢家",
@@ -15027,14 +15051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230853,
-      "num": 230853,
-      "word": "王楚钦孙颖莎3比0韩国组合",
-      "onboard_time": 1702211433,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 230817,
       "num": 230817,
       "word": "济南一退休老师被前女婿举报吃空饷",
@@ -15345,6 +15361,14 @@
       "onboard_time": 1701520113,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226651,
+      "num": 226651,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1702211797,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 226606,
@@ -15723,6 +15747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 220838,
+      "num": 220838,
+      "word": "陶勇谈重拿手术刀现状",
+      "onboard_time": 1702210115,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220826,
       "num": 189728,
       "word": "春晚 流行语",
@@ -16043,6 +16075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 215715,
+      "num": 215715,
+      "word": "白所成等10名缅北电诈头目被公开通缉",
+      "onboard_time": 1702210775,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215703,
       "num": 215703,
       "word": "刘浩存林一脱轨预告",
@@ -16057,14 +16097,6 @@
       "onboard_time": 1701445655,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215682,
-      "num": 215682,
-      "word": "陶勇谈重拿手术刀现状",
-      "onboard_time": 1702210115,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215672,
@@ -16265,14 +16297,6 @@
       "onboard_time": 1701997658,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212939,
-      "num": 212939,
-      "word": "白所成等10名缅北电诈头目被公开通缉",
-      "onboard_time": 1702210775,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212817,
@@ -16595,6 +16619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210023,
+      "num": 210023,
+      "word": "乌梅子酱Spotify全球华语播放第一",
+      "onboard_time": 1702208195,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210018,
       "num": 210018,
       "word": "TES和DYG约上饭了",
@@ -16609,14 +16641,6 @@
       "onboard_time": 1701746733,
       "rank": 33,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 209837,
-      "num": 209837,
-      "word": "乌梅子酱Spotify全球华语播放第一",
-      "onboard_time": 1702208195,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 209833,
@@ -17323,6 +17347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202083,
+      "num": 202083,
+      "word": "赵一博",
+      "onboard_time": 1702212095,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202060,
       "num": 202060,
       "word": "世界最深最大的极深地下实验室",
@@ -17673,6 +17705,14 @@
       "onboard_time": 1702040437,
       "rank": 14,
       "category": "数码,游戏"
+    },
+    {
+      "raw_hot": 198552,
+      "num": 198552,
+      "word": "张雪峰言论是实话还是语不惊人誓不休",
+      "onboard_time": 1702209515,
+      "rank": 31,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 198374,
@@ -18139,6 +18179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194278,
+      "num": 194278,
+      "word": "热依扎 微熏红毯妆",
+      "onboard_time": 1702211316,
+      "rank": 45,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 194266,
       "num": 194266,
       "word": "元梦之星 上海",
@@ -18497,14 +18545,6 @@
       "onboard_time": 1701538581,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191023,
-      "num": 191023,
-      "word": "张雪峰言论是实话还是语不惊人誓不休",
-      "onboard_time": 1702209515,
-      "rank": 31,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 190882,
@@ -19211,6 +19251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184394,
+      "num": 184394,
+      "word": "周涛好自信从容的状态",
+      "onboard_time": 1702211076,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 184276,
       "num": 203308,
       "word": "王曼昱3比0帕瓦德",
@@ -19473,14 +19521,6 @@
       "onboard_time": 1701861456,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181249,
-      "num": 181249,
-      "word": "老人凌晨去世鞭炮一响全村都去帮忙",
-      "onboard_time": 1702211076,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181198,
@@ -20403,14 +20443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169012,
-      "num": 169012,
-      "word": "周涛好自信从容的状态",
-      "onboard_time": 1702211076,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 168976,
       "num": 168976,
       "word": "少女时代SHINee同框画风",
@@ -20929,6 +20961,14 @@
       "onboard_time": 1701515612,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163415,
+      "num": 163415,
+      "word": "王曼昱3比0金娜英",
+      "onboard_time": 1702212278,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 163270,
@@ -21771,6 +21811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153483,
+      "num": 153483,
+      "word": "乒乓球世界杯将在中国澳门重启",
+      "onboard_time": 1702212157,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153345,
       "num": 153345,
       "word": "有这习惯的人脂肪肝会向肝癌加速转变",
@@ -22169,6 +22217,14 @@
       "onboard_time": 1702102951,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 148337,
+      "num": 300300,
+      "word": "理想汽车智能软件发布会",
+      "onboard_time": 1702209816,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 148325,
@@ -23179,14 +23235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138013,
-      "num": 138013,
-      "word": "热依扎 微熏红毯妆",
-      "onboard_time": 1702211316,
-      "rank": 45,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 137970,
       "num": 168283,
       "word": "小偷进来都得研究半天咋出去",
@@ -23289,6 +23337,14 @@
       "onboard_time": 1702208136,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 136635,
+      "num": 136635,
+      "word": "KLINK拼盘",
+      "onboard_time": 1702211557,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 136634,
@@ -24569,14 +24625,6 @@
       "onboard_time": 1701920012,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 114220,
-      "num": 300300,
-      "word": "理想汽车智能软件发布会",
-      "onboard_time": 1702209816,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 114066,
@@ -25897,6 +25945,14 @@
       "onboard_time": 1701691656,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52037,
+      "num": 1531280,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1702212338,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51759,

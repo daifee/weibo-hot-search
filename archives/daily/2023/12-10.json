@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702211449041,
+  "endTime": 1702212371010,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2177632,
-      "num": 2177632,
+      "raw_hot": 2203938,
+      "num": 2203938,
       "word": "缅北",
       "onboard_time": 1702207172,
       "rank": 8,
@@ -91,20 +91,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1512846,
+      "num": 1512846,
+      "word": "刘诗诗累到虚脱 正片一剪没",
+      "onboard_time": 1702208794,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1481820,
       "num": 962654,
       "word": "一个人不舔人的社会从尊重服务业开始",
       "onboard_time": 1702168108,
       "rank": 3,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1429610,
-      "num": 1429610,
-      "word": "刘诗诗累到虚脱 正片一剪没",
-      "onboard_time": 1702208794,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1327800,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 601759,
+      "num": 295892,
+      "word": "老人凌晨去世鞭炮一响全村都去帮忙",
+      "onboard_time": 1702211076,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581687,
       "num": 581687,
       "word": "专家称张雪峰言论过于极端",
@@ -545,6 +553,14 @@
       "onboard_time": 1702204895,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493375,
+      "num": 493375,
+      "word": "王楚钦孙颖莎3比0韩国组合",
+      "onboard_time": 1702211433,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 487631,
@@ -667,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432559,
+      "num": 294793,
+      "word": "派出所证实华夏银行天津分行行长坠楼",
+      "onboard_time": 1702209993,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424760,
       "num": 424760,
       "word": "19岁女孩上悬赏公告因高颜值受关注",
@@ -683,14 +707,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 411430,
-      "num": 253816,
-      "word": "派出所证实华夏银行天津分行行长坠楼",
-      "onboard_time": 1702209993,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409144,
       "num": 409144,
       "word": "林孝埈 二棒",
@@ -705,6 +721,14 @@
       "onboard_time": 1702197213,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 399274,
+      "num": 399274,
+      "word": "张晶 战术",
+      "onboard_time": 1702207594,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 399182,
@@ -867,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337844,
-      "num": 337844,
-      "word": "张晶 战术",
-      "onboard_time": 1702207594,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 337777,
       "num": 337777,
       "word": "上海市考 写不出开头",
@@ -1019,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290885,
+      "num": 290885,
+      "word": "宋江居然是举芦荟胶内男的",
+      "onboard_time": 1702211856,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288960,
       "num": 288960,
       "word": "杨丞琳郑州演唱会门票曾打折出售",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1702174170,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 287074,
+      "num": 287074,
+      "word": "aespa 雪国精灵",
+      "onboard_time": 1702210595,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 284252,
@@ -1227,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238435,
-      "num": 238435,
-      "word": "aespa 雪国精灵",
-      "onboard_time": 1702210595,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 237961,
       "num": 237961,
       "word": "辛辛苦苦的挣了很少钱",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1702174770,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230853,
-      "num": 230853,
-      "word": "王楚钦孙颖莎3比0韩国组合",
-      "onboard_time": 1702211433,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 230607,
@@ -1315,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226651,
+      "num": 226651,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1702211797,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225295,
       "num": 225295,
       "word": "实体店真的很难做",
@@ -1363,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220838,
+      "num": 220838,
+      "word": "陶勇谈重拿手术刀现状",
+      "onboard_time": 1702210115,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220813,
       "num": 504215,
       "word": "甄嬛传的饼来了",
@@ -1403,16 +1435,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215682,
-      "num": 215682,
-      "word": "陶勇谈重拿手术刀现状",
-      "onboard_time": 1702210115,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212939,
-      "num": 212939,
+      "raw_hot": 215715,
+      "num": 215715,
       "word": "白所成等10名缅北电诈头目被公开通缉",
       "onboard_time": 1702210775,
       "rank": 26,
@@ -1443,8 +1467,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 209837,
-      "num": 209837,
+      "raw_hot": 210023,
+      "num": 210023,
       "word": "乌梅子酱Spotify全球华语播放第一",
       "onboard_time": 1702208195,
       "rank": 29,
@@ -1531,6 +1555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 202083,
+      "num": 202083,
+      "word": "赵一博",
+      "onboard_time": 1702212095,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200669,
       "num": 200669,
       "word": "敷面膜后不涂面霜皮肤会更干燥",
@@ -1579,6 +1611,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 198552,
+      "num": 198552,
+      "word": "张雪峰言论是实话还是语不惊人誓不休",
+      "onboard_time": 1702209515,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 195476,
       "num": 195476,
       "word": "逐渐离谱的卖鞋展示",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1702177711,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194278,
+      "num": 194278,
+      "word": "热依扎 微熏红毯妆",
+      "onboard_time": 1702211316,
+      "rank": 45,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 194241,
@@ -1633,14 +1681,6 @@
       "onboard_time": 1702191931,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191023,
-      "num": 191023,
-      "word": "张雪峰言论是实话还是语不惊人誓不休",
-      "onboard_time": 1702209515,
-      "rank": 31,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 190986,
@@ -1699,6 +1739,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 184394,
+      "num": 184394,
+      "word": "周涛好自信从容的状态",
+      "onboard_time": 1702211076,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 184359,
       "num": 184359,
       "word": "一万块钱花一年",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1702124376,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181249,
-      "num": 181249,
-      "word": "老人凌晨去世鞭炮一响全村都去帮忙",
-      "onboard_time": 1702211076,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180954,
@@ -1931,14 +1971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169012,
-      "num": 169012,
-      "word": "周涛好自信从容的状态",
-      "onboard_time": 1702211076,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 168665,
       "num": 168665,
       "word": "数学最初和最终的样子",
@@ -1993,6 +2025,14 @@
       "onboard_time": 1702210714,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163415,
+      "num": 163415,
+      "word": "王曼昱3比0金娜英",
+      "onboard_time": 1702212278,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 163311,
@@ -2131,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153483,
+      "num": 153483,
+      "word": "乒乓球世界杯将在中国澳门重启",
+      "onboard_time": 1702212157,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152103,
       "num": 152103,
       "word": "里夫斯半场22分",
@@ -2177,6 +2225,14 @@
       "onboard_time": 1702168408,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148337,
+      "num": 300300,
+      "word": "理想汽车智能软件发布会",
+      "onboard_time": 1702209816,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 147516,
@@ -2331,14 +2387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138013,
-      "num": 138013,
-      "word": "热依扎 微熏红毯妆",
-      "onboard_time": 1702211316,
-      "rank": 45,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 137765,
       "num": 137765,
       "word": "三大队",
@@ -2377,6 +2425,14 @@
       "onboard_time": 1702208136,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 136635,
+      "num": 136635,
+      "word": "KLINK拼盘",
+      "onboard_time": 1702211557,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 136496,
@@ -2635,14 +2691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 114220,
-      "num": 300300,
-      "word": "理想汽车智能软件发布会",
-      "onboard_time": 1702209816,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 114066,
       "num": 114066,
       "word": "无视性别公开开战 野性是女性的勋章",
@@ -2803,6 +2851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 52037,
+      "num": 1531280,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1702212338,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51759,
       "num": 51759,
       "word": "阿斯顿维拉1比0阿森纳",
@@ -2817,6 +2873,14 @@
       "onboard_time": 1702164559,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47834,
+      "num": 1467103,
+      "word": "太空视角见证中国式现代化",
+      "onboard_time": 1702195112,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46872,
@@ -2849,14 +2913,6 @@
       "onboard_time": 1702187196,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37780,
-      "num": 1467103,
-      "word": "太空视角见证中国式现代化",
-      "onboard_time": 1702195112,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31419,
