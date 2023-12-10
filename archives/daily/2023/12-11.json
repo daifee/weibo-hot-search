@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702244060248,
+  "endTime": 1702246573199,
   "band_list": [
     {
       "raw_hot": 2522676,
@@ -483,8 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43037,
-      "num": 22023,
+      "raw_hot": 51325,
+      "num": 27791,
       "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
       "onboard_time": 1702236734,
       "rank": 20,
@@ -499,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31382,
+      "num": 31382,
+      "word": "张译回应卧底当演员",
+      "onboard_time": 1702244954,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25700,
       "num": 23264,
       "word": "佘诗曼希望新闻女王续集来了",
       "onboard_time": 1702236073,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25630,
+      "num": 25630,
+      "word": "台湾中学教师怒批去中国化课纲",
+      "onboard_time": 1702246214,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25539,
@@ -524,27 +540,27 @@
     },
     {
       "raw_hot": 18324,
-      "num": 17602,
+      "num": 21074,
       "word": "痩背最佳组合",
       "onboard_time": 1702236194,
       "rank": 36,
       "category": "运动健身"
     },
     {
-      "raw_hot": 13379,
-      "num": 14330,
-      "word": "理想汽车智能软件发布会",
-      "onboard_time": 1702209816,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 12735,
-      "num": 14320,
+      "raw_hot": 16005,
+      "num": 21066,
       "word": "小满生活大结局",
       "onboard_time": 1702243093,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13834,
+      "num": 21042,
+      "word": "理想汽车智能软件发布会",
+      "onboard_time": 1702209816,
+      "rank": 49,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
