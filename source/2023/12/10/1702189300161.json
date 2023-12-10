@@ -1,0 +1,410 @@
+{
+  "runTime": 1702189300161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3188066,
+        "num": 3188066,
+        "word": "杨丞琳说河南人爱骗人",
+        "onboard_time": 1702186534,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1036503,
+        "num": 1036503,
+        "word": "上午刮刮乐 下午书法课",
+        "onboard_time": 1702181672,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 40455,
+        "num": 1011557,
+        "word": "卫星视角看中国",
+        "onboard_time": 1702178489,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1004355,
+        "num": 1004355,
+        "word": "女子离职后退600多个工作群",
+        "onboard_time": 1702184374,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736780,
+        "num": 736780,
+        "word": "朝阳打歌中心 停播",
+        "onboard_time": 1702187074,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538733,
+        "num": 538733,
+        "word": "唐艺昕叫张若昀小张",
+        "onboard_time": 1702186177,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449038,
+        "num": 449038,
+        "word": "15元自助餐顾客只吃一口鱼就扔",
+        "onboard_time": 1702180296,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498990,
+        "num": 425062,
+        "word": "范闲五年后成了高三班主任",
+        "onboard_time": 1702187495,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400884,
+        "num": 400884,
+        "word": "饶雪漫谈八年不敢联系陈都灵",
+        "onboard_time": 1702165522,
+        "rank": 8,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 373835,
+        "num": 373835,
+        "word": "单依纯 有票吗",
+        "onboard_time": 1702183597,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 455783,
+        "num": 366714,
+        "word": "背考研政治给自己背笑了",
+        "onboard_time": 1702187074,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 386912,
+        "num": 363193,
+        "word": "gai浇饭",
+        "onboard_time": 1702187971,
+        "rank": 11,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 383327,
+        "num": 361381,
+        "word": "难哄 别哄了",
+        "onboard_time": 1702170929,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357713,
+        "num": 357713,
+        "word": "猫咖20余只猫被锁店里饿到自相残杀",
+        "onboard_time": 1702172793,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356076,
+        "num": 356076,
+        "word": "杨丞琳为郑州演唱会言论道歉",
+        "onboard_time": 1702188153,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 338966,
+        "num": 338966,
+        "word": "山东省考 一考一个不吱声",
+        "onboard_time": 1702178973,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 332406,
+        "num": 332406,
+        "word": "男子骑共享单车忘付费1元欠6年",
+        "onboard_time": 1702176810,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321012,
+        "num": 321012,
+        "word": "周一围 朱丹",
+        "onboard_time": 1702173149,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319213,
+        "num": 319213,
+        "word": "导游建议游客买一朵菊花献烈士",
+        "onboard_time": 1702175428,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301270,
+        "num": 301270,
+        "word": "这就是顶级恋爱脑吗",
+        "onboard_time": 1702184973,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 546365,
+        "num": 299686,
+        "word": "五月天演唱会存在部分观众票证不符",
+        "onboard_time": 1702181672,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 276777,
+        "num": 276777,
+        "word": "6个月宝宝偷听大人说话",
+        "onboard_time": 1702185154,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273489,
+        "num": 273489,
+        "word": "湖人总冠军",
+        "onboard_time": 1702182997,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269542,
+        "num": 269542,
+        "word": "虞书欣 哇哦",
+        "onboard_time": 1702179996,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240361,
+        "num": 240361,
+        "word": "张杰又在搞事了",
+        "onboard_time": 1702186596,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235246,
+        "num": 235246,
+        "word": "长陵 刘亦菲",
+        "onboard_time": 1702179154,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227298,
+        "num": 227298,
+        "word": "冰箱门上放牛奶隐患有多大",
+        "onboard_time": 1702168226,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223777,
+        "num": 223777,
+        "word": "Crisp兼职战队翻译",
+        "onboard_time": 1702187971,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190917,
+        "num": 190917,
+        "word": "体育馆坍塌致3名学生死亡背后",
+        "onboard_time": 1702179393,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42575,
+        "num": 182160,
+        "word": "泰国人都爱开什么车",
+        "onboard_time": 1702187196,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179807,
+        "num": 179807,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177685,
+        "num": 177685,
+        "word": "宋亚东vs古铁雷斯",
+        "onboard_time": 1702187495,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177593,
+        "num": 177593,
+        "word": "张若昀圈内人缘",
+        "onboard_time": 1702182152,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175142,
+        "num": 175142,
+        "word": "詹姆斯第五冠",
+        "onboard_time": 1702183597,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174027,
+        "num": 174027,
+        "word": "乳腺舒服了",
+        "onboard_time": 1702170510,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174027,
+        "num": 174027,
+        "word": "郑钧刘芸 爱在此刻具象化",
+        "onboard_time": 1702188334,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171309,
+        "num": 171309,
+        "word": "迪丽热巴片场plog",
+        "onboard_time": 1702184316,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169115,
+        "num": 169115,
+        "word": "广州警方回应地铁发生持刀伤人事件",
+        "onboard_time": 1702178433,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163991,
+        "num": 163991,
+        "word": "文科生不必妄自菲薄",
+        "onboard_time": 1702188812,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 158260,
+        "num": 158260,
+        "word": "数学最初和最终的样子",
+        "onboard_time": 1702188515,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165202,
+        "num": 158203,
+        "word": "郑钧 我能证明自己是真唱",
+        "onboard_time": 1702180715,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158060,
+        "num": 158060,
+        "word": "丁程鑫模仿北京老大爷下棋",
+        "onboard_time": 1702187731,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155434,
+        "num": 155434,
+        "word": "一个人不舔人的社会从尊重服务业开始",
+        "onboard_time": 1702168108,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 153845,
+        "num": 153845,
+        "word": "刘少昂 抢跑",
+        "onboard_time": 1702182395,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150611,
+        "num": 150611,
+        "word": "张雪峰的饭碗思维",
+        "onboard_time": 1702189052,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 140109,
+        "num": 140109,
+        "word": "周深找孟子义嘴巴急出尖叫",
+        "onboard_time": 1702178195,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139197,
+        "num": 139197,
+        "word": "适当限食可延缓衰老",
+        "onboard_time": 1702188515,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136496,
+        "num": 136496,
+        "word": "承欢记或上星央八",
+        "onboard_time": 1702187616,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127901,
+        "num": 127901,
+        "word": "金色发蜡",
+        "onboard_time": 1702188693,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 126484,
+        "num": 126484,
+        "word": "店主回应网传20只猫饿到自相残杀",
+        "onboard_time": 1702189232,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把城市建设成为美丽家园#"
+    }
+  }
+}
