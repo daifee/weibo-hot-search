@@ -1,0 +1,410 @@
+{
+  "runTime": 1702228482059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1392413,
+        "num": 1392413,
+        "word": "多部门回应杨丞琳说河南人爱骗人",
+        "onboard_time": 1702220980,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 491745,
+        "num": 491745,
+        "word": "北京下雪",
+        "onboard_time": 1702223136,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23070,
+        "num": 457607,
+        "word": "近期呼吸道疾病防治注意事项",
+        "onboard_time": 1702212338,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431046,
+        "num": 431046,
+        "word": "信 怎么办一会还要唱离歌",
+        "onboard_time": 1702219300,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 416185,
+        "num": 416185,
+        "word": "张若昀你快删了吧",
+        "onboard_time": 1702216541,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406427,
+        "num": 406427,
+        "word": "八年了 她终于红了",
+        "onboard_time": 1702200275,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403629,
+        "num": 403629,
+        "word": "缅北四大家族",
+        "onboard_time": 1702219238,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364500,
+        "num": 364500,
+        "word": "EXO 下雪了",
+        "onboard_time": 1702222058,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349128,
+        "num": 349128,
+        "word": "主播陈一发儿疑似复出再被封",
+        "onboard_time": 1702207414,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 287512,
+        "num": 287512,
+        "word": "垫底辣孩 P图思路大公开",
+        "onboard_time": 1702205915,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 572344,
+        "num": 281902,
+        "word": "河南媒体评杨丞琳道歉",
+        "onboard_time": 1702218341,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 319617,
+        "num": 275505,
+        "word": "张万森 雪崩了",
+        "onboard_time": 1702217502,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263954,
+        "num": 263954,
+        "word": "柯南吻戏 一刀没剪",
+        "onboard_time": 1702218282,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191692,
+        "num": 191692,
+        "word": "2.2亿彩票一事需要有说服力的交代",
+        "onboard_time": 1702210232,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186186,
+        "num": 186186,
+        "word": "白所成",
+        "onboard_time": 1702225709,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187691,
+        "num": 179252,
+        "word": "宋江居然是举芦荟胶内男的",
+        "onboard_time": 1702211856,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169759,
+        "num": 169759,
+        "word": "宁远舟 宫寒",
+        "onboard_time": 1702225170,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161678,
+        "num": 161678,
+        "word": "Ning五杀",
+        "onboard_time": 1702220139,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119271,
+        "num": 119271,
+        "word": "花花58码的jiojio和脸脸一样大",
+        "onboard_time": 1702219541,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107494,
+        "num": 107494,
+        "word": "下雪了",
+        "onboard_time": 1702212634,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164723,
+        "num": 107398,
+        "word": "一念关山辟谣刘诗诗打戏一剪没",
+        "onboard_time": 1702212576,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159044,
+        "num": 102596,
+        "word": "内娱第一个魔术系爱豆",
+        "onboard_time": 1702226787,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154377,
+        "num": 100542,
+        "word": "老人凌晨去世鞭炮一响全村都去帮忙",
+        "onboard_time": 1702211076,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127079,
+        "num": 98554,
+        "word": "猪肝到底是营养佳品还是毒素垃圾",
+        "onboard_time": 1702213778,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97377,
+        "num": 97377,
+        "word": "亲亲只能是年轻人的权利吗",
+        "onboard_time": 1702222299,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152456,
+        "num": 95765,
+        "word": "为什么不带常华森",
+        "onboard_time": 1702218341,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144756,
+        "num": 90965,
+        "word": "金泰亨寸头照",
+        "onboard_time": 1702223194,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143650,
+        "num": 90450,
+        "word": "在暴雪时分预约人数破100万",
+        "onboard_time": 1702227565,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85190,
+        "num": 85190,
+        "word": "郑州下雪",
+        "onboard_time": 1702220379,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83802,
+        "num": 83802,
+        "word": "小时候最讨厌的是吃饭和睡觉",
+        "onboard_time": 1702217380,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138913,
+        "num": 83722,
+        "word": "林志玲现身老公演唱会",
+        "onboard_time": 1702227024,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125970,
+        "num": 83589,
+        "word": "赵一博",
+        "onboard_time": 1702212095,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121067,
+        "num": 83412,
+        "word": "谢娜的冷白皮",
+        "onboard_time": 1702226368,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112355,
+        "num": 83317,
+        "word": "陈楚生开口惊艳",
+        "onboard_time": 1702221578,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83236,
+        "num": 83236,
+        "word": "iG合体",
+        "onboard_time": 1702217200,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97777,
+        "num": 81330,
+        "word": "夹子音 刚满十八岁",
+        "onboard_time": 1702202796,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74294,
+        "num": 74294,
+        "word": "泡了2年药酒的海马竟是塑料",
+        "onboard_time": 1702205497,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72891,
+        "num": 72891,
+        "word": "萌兰用小jiojio大战红球球",
+        "onboard_time": 1702224031,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67693,
+        "num": 67693,
+        "word": "缅北",
+        "onboard_time": 1702207172,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62057,
+        "num": 62057,
+        "word": "热刺vs纽卡斯尔",
+        "onboard_time": 1702227146,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96372,
+        "num": 61818,
+        "word": "刘美含蓝色细闪鱼尾裙",
+        "onboard_time": 1702227985,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 84791,
+        "num": 61272,
+        "word": "星汉灿烂也这么骗我的",
+        "onboard_time": 1702215038,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75359,
+        "num": 60134,
+        "word": "阿杜林俊杰 合唱",
+        "onboard_time": 1702217860,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67108,
+        "num": 59443,
+        "word": "周也 就你这颜值往这一站",
+        "onboard_time": 1702215038,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59066,
+        "num": 59066,
+        "word": "刘强东称京东改变需要时间",
+        "onboard_time": 1702216662,
+        "rank": 44,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 56676,
+        "num": 56676,
+        "word": "白鲨卫冕CFS冠军",
+        "onboard_time": 1702213298,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55742,
+        "num": 55742,
+        "word": "北京看雪别再扎堆故宫",
+        "onboard_time": 1702228164,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 71946,
+        "num": 55439,
+        "word": "林俊杰JJ20收官场",
+        "onboard_time": 1702214798,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55041,
+        "num": 55041,
+        "word": "樊振东复仇成功",
+        "onboard_time": 1702215460,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54365,
+        "num": 54365,
+        "word": "陈梦 下个赛场见",
+        "onboard_time": 1702220802,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#把城市建设成为美丽家园#"
+    }
+  }
+}
