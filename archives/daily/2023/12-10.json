@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702176126054,
+  "endTime": 1702178308358,
   "band_list": [
     {
       "raw_hot": 2028278,
@@ -35,6 +35,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1194091,
+      "num": 953329,
+      "word": "周一围 朱丹",
+      "onboard_time": 1702173149,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1168119,
       "num": 1168119,
       "word": "塌腰",
@@ -51,19 +59,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 953329,
-      "num": 953329,
-      "word": "周一围 朱丹",
-      "onboard_time": 1702173149,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 836586,
-      "num": 352730,
+      "raw_hot": 964632,
+      "num": 367694,
       "word": "猫咖20余只猫被锁店里饿到自相残杀",
       "onboard_time": 1702172793,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844483,
+      "num": 844483,
+      "word": "华润集团曝光四家假央企",
+      "onboard_time": 1702176693,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 606919,
+      "num": 606919,
+      "word": "导游建议游客买一朵菊花献烈士",
+      "onboard_time": 1702175428,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588313,
+      "num": 366361,
+      "word": "男子骑共享单车忘付费1元欠6年",
+      "onboard_time": 1702176810,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581687,
       "num": 581687,
       "word": "专家称张雪峰言论过于极端",
@@ -161,6 +185,22 @@
       "onboard_time": 1702137213,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525784,
+      "num": 525784,
+      "word": "省考 我必上岸",
+      "onboard_time": 1702168707,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 512016,
+      "num": 512016,
+      "word": "广州地铁",
+      "onboard_time": 1702177596,
+      "rank": 7,
+      "category": "社会负面"
     },
     {
       "raw_hot": 455333,
@@ -243,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350501,
+      "num": 350501,
+      "word": "夹子音",
+      "onboard_time": 1702177471,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 345189,
       "num": 345189,
       "word": "张雪峰再回应文科都是服务业",
@@ -257,6 +305,14 @@
       "onboard_time": 1702133916,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318546,
+      "num": 318546,
+      "word": "程序员的年终奖能有多奇葩",
+      "onboard_time": 1702177230,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306444,
@@ -363,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234141,
+      "num": 234141,
+      "word": "周也演技 角色差异化",
+      "onboard_time": 1702174770,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229201,
       "num": 219562,
       "word": "有没有人救救檀健次",
@@ -371,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226901,
-      "num": 226901,
-      "word": "导游建议游客买一朵菊花献烈士",
-      "onboard_time": 1702175428,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 225295,
+      "num": 225295,
+      "word": "实体店真的很难做",
+      "onboard_time": 1702174593,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 224248,
@@ -387,20 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222979,
-      "num": 222979,
-      "word": "实体店真的很难做",
-      "onboard_time": 1702174593,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 222174,
-      "num": 222174,
-      "word": "周也演技 角色差异化",
-      "onboard_time": 1702174770,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 219840,
+      "num": 219840,
+      "word": "被称高颜值女老赖现身澄清传言",
+      "onboard_time": 1702175670,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218557,
@@ -483,12 +539,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193641,
-      "num": 193641,
-      "word": "被称高颜值女老赖现身澄清传言",
-      "onboard_time": 1702175670,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 196533,
+      "num": 196533,
+      "word": "辛辛苦苦的挣了很少钱",
+      "onboard_time": 1702176151,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 194911,
+      "num": 194911,
+      "word": "鸣龙少年今晚开播",
+      "onboard_time": 1702177711,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193369,
+      "num": 193369,
+      "word": "宋江金裕贞 般配",
+      "onboard_time": 1702177531,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 193259,
@@ -555,6 +627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183158,
+      "num": 183158,
+      "word": "NBA季中锦标赛",
+      "onboard_time": 1702177052,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183041,
+      "num": 183041,
+      "word": "周深汪苏泷宋亚轩 共享衣柜",
+      "onboard_time": 1702176391,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182160,
       "num": 182160,
       "word": "王楚钦孙颖莎1比2日本组合",
@@ -569,14 +657,6 @@
       "onboard_time": 1702172069,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 176769,
-      "num": 176769,
-      "word": "省考 我必上岸",
-      "onboard_time": 1702168707,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 176052,
@@ -600,6 +680,14 @@
       "word": "教资面试",
       "onboard_time": 1702170089,
       "rank": 28,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 173066,
+      "num": 173066,
+      "word": "你支持张雪峰还是专家对文科的看法",
+      "onboard_time": 1702176509,
+      "rank": 44,
       "category": "教育,社会新闻"
     },
     {
@@ -681,6 +769,14 @@
       "onboard_time": 1702167207,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157836,
+      "num": 139688,
+      "word": "周深找孟子义嘴巴急出尖叫",
+      "onboard_time": 1702178195,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 156873,
@@ -811,6 +907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 139761,
+      "num": 139761,
+      "word": "方逸伦动作指导 沈腾",
+      "onboard_time": 1702177471,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139683,
       "num": 139683,
       "word": "李同光 疯批小狗",
@@ -819,12 +923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139545,
+      "num": 139545,
+      "word": "想和这只大熊猫一起思考熊生",
+      "onboard_time": 1702178132,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137017,
       "num": 137017,
       "word": "李健 时钟上只有一个时间就是现在",
       "onboard_time": 1702169550,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136935,
+      "num": 136935,
+      "word": "苏醒爱恨交加的男人 李玖哲",
+      "onboard_time": 1702176995,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 136282,
@@ -1043,6 +1163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 70829,
+      "num": 815591,
+      "word": "保家卫国的英雄们从未被忘记",
+      "onboard_time": 1702177954,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68290,
       "num": 68290,
       "word": "曼联0比3伯恩茅斯",
@@ -1113,6 +1241,14 @@
       "onboard_time": 1702164559,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50710,
+      "num": 248275,
+      "word": "林俊杰说广西是真的浪漫",
+      "onboard_time": 1702177289,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 46872,
