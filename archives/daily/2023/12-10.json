@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702189300161,
+  "endTime": 1702190059304,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -11,8 +11,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 3188066,
-      "num": 3188066,
+      "raw_hot": 3319237,
+      "num": 3319237,
       "word": "杨丞琳说河南人爱骗人",
       "onboard_time": 1702186534,
       "rank": 0,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537848,
+      "num": 537848,
+      "word": "范闲五年后成了高三班主任",
+      "onboard_time": 1702187495,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 532056,
       "num": 532056,
       "word": "花花最近白得发亮",
@@ -329,14 +337,6 @@
       "onboard_time": 1702179996,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 498990,
-      "num": 425062,
-      "word": "范闲五年后成了高三班主任",
-      "onboard_time": 1702187495,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 487631,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 455783,
-      "num": 366714,
+      "num": 428556,
       "word": "背考研政治给自己背笑了",
       "onboard_time": 1702187074,
       "rank": 10,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415435,
+      "num": 415435,
+      "word": "gai浇饭",
+      "onboard_time": 1702187971,
+      "rank": 11,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 399182,
       "num": 399182,
       "word": "白鹿不跑真的就白录了",
@@ -443,12 +451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 386912,
-      "num": 363193,
-      "word": "gai浇饭",
-      "onboard_time": 1702187971,
-      "rank": 11,
-      "category": "幽默,艺人"
+      "raw_hot": 385165,
+      "num": 385165,
+      "word": "这就是顶级恋爱脑吗",
+      "onboard_time": 1702184973,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 383750,
+      "num": 383750,
+      "word": "杨丞琳为郑州演唱会言论道歉",
+      "onboard_time": 1702188153,
+      "rank": 14,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 380550,
@@ -481,14 +497,6 @@
       "onboard_time": 1702157053,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356076,
-      "num": 356076,
-      "word": "杨丞琳为郑州演唱会言论道歉",
-      "onboard_time": 1702188153,
-      "rank": 14,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 353002,
@@ -537,14 +545,6 @@
       "onboard_time": 1702182934,
       "rank": 23,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 327385,
-      "num": 327385,
-      "word": "这就是顶级恋爱脑吗",
-      "onboard_time": 1702184973,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 321071,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273554,
+      "num": 273554,
+      "word": "店主回应网传20只猫饿到自相残杀",
+      "onboard_time": 1702189232,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272033,
       "num": 272033,
       "word": "林孝埈向刘少昂表达歉意",
@@ -705,6 +713,14 @@
       "onboard_time": 1702133379,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245519,
+      "num": 245519,
+      "word": "张雪峰的饭碗思维",
+      "onboard_time": 1702189052,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 240361,
@@ -899,6 +915,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 203483,
+      "num": 200179,
+      "word": "林俊杰 有点舍不得",
+      "onboard_time": 1702189594,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200616,
       "num": 200616,
       "word": "ENHYPEN 加场",
@@ -921,6 +945,14 @@
       "onboard_time": 1702172249,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199075,
+      "num": 199075,
+      "word": "文科生不必妄自菲薄",
+      "onboard_time": 1702188812,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 194911,
@@ -1035,6 +1067,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 177991,
+      "num": 177991,
+      "word": "宋亚东判定战胜古铁雷斯",
+      "onboard_time": 1702189353,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177685,
       "num": 177685,
       "word": "宋亚东vs古铁雷斯",
@@ -1115,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168665,
+      "num": 168665,
+      "word": "数学最初和最终的样子",
+      "onboard_time": 1702188515,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167996,
       "num": 167996,
       "word": "美团将为受害外卖员家属提供生活保障",
@@ -1137,14 +1185,6 @@
       "onboard_time": 1702179031,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163991,
-      "num": 163991,
-      "word": "文科生不必妄自菲薄",
-      "onboard_time": 1702188812,
-      "rank": 38,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 163311,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1702175009,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158260,
-      "num": 158260,
-      "word": "数学最初和最终的样子",
-      "onboard_time": 1702188515,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 158227,
@@ -1235,6 +1267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 155083,
+      "num": 155083,
+      "word": "WBG纪录片",
+      "onboard_time": 1702187074,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154792,
       "num": 154792,
       "word": "陈楚生 龇着大牙笑",
@@ -1259,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150611,
-      "num": 150611,
-      "word": "张雪峰的饭碗思维",
-      "onboard_time": 1702189052,
-      "rank": 44,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 149632,
       "num": 149632,
       "word": "脚气 用艾草和花椒泡开水",
@@ -1289,6 +1321,22 @@
       "onboard_time": 1702168408,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147516,
+      "num": 147516,
+      "word": "适当限食可延缓衰老",
+      "onboard_time": 1702188515,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147426,
+      "num": 147426,
+      "word": "床是人类的无线充电器",
+      "onboard_time": 1702189773,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 146375,
@@ -1387,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139197,
-      "num": 139197,
-      "word": "适当限食可延缓衰老",
-      "onboard_time": 1702188515,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 137017,
       "num": 137017,
       "word": "李健 时钟上只有一个时间就是现在",
@@ -1443,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132688,
+      "num": 132688,
+      "word": "宁远舟在冰点脱毛",
+      "onboard_time": 1702190014,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131064,
       "num": 131064,
       "word": "内双咋贴双眼皮贴啊",
@@ -1483,11 +1531,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126484,
-      "num": 126484,
-      "word": "店主回应网传20只猫饿到自相残杀",
-      "onboard_time": 1702189232,
-      "rank": 49,
+      "raw_hot": 126401,
+      "num": 126401,
+      "word": "暴躁大熊猫咣叽一jio把盆踢飞",
+      "onboard_time": 1702190014,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
