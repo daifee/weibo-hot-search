@@ -1,0 +1,410 @@
+{
+  "runTime": 1702185365766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1839738,
+        "num": 1839738,
+        "word": "山东省考 一考一个不吱声",
+        "onboard_time": 1702178973,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1376783,
+        "num": 1376783,
+        "word": "上午刮刮乐 下午书法课",
+        "onboard_time": 1702181672,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 51436,
+        "num": 1145503,
+        "word": "卫星视角看中国",
+        "onboard_time": 1702178489,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1011923,
+        "num": 1011923,
+        "word": "湖人总冠军",
+        "onboard_time": 1702182997,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 907111,
+        "num": 907111,
+        "word": "15元自助餐顾客只吃一口鱼就扔",
+        "onboard_time": 1702180296,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731866,
+        "num": 731866,
+        "word": "单依纯 有票吗",
+        "onboard_time": 1702183597,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 638406,
+        "num": 638406,
+        "word": "周一围 朱丹",
+        "onboard_time": 1702173149,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608337,
+        "num": 608337,
+        "word": "男子骑共享单车忘付费1元欠6年",
+        "onboard_time": 1702176810,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571941,
+        "num": 571941,
+        "word": "江苏省考 酣畅淋漓的蒙题",
+        "onboard_time": 1702178372,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 532710,
+        "num": 532710,
+        "word": "饶雪漫谈八年不敢联系陈都灵",
+        "onboard_time": 1702165522,
+        "rank": 9,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 635785,
+        "num": 532634,
+        "word": "难哄 别哄了",
+        "onboard_time": 1702170929,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532547,
+        "num": 532547,
+        "word": "女子离职后退600多个工作群",
+        "onboard_time": 1702184374,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485616,
+        "num": 485616,
+        "word": "猫咖20余只猫被锁店里饿到自相残杀",
+        "onboard_time": 1702172793,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460040,
+        "num": 460040,
+        "word": "詹姆斯第五冠",
+        "onboard_time": 1702183597,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441315,
+        "num": 441315,
+        "word": "长陵 刘亦菲",
+        "onboard_time": 1702179154,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438774,
+        "num": 438774,
+        "word": "刘少昂 抢跑",
+        "onboard_time": 1702182395,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429918,
+        "num": 429918,
+        "word": "省考 BC之争",
+        "onboard_time": 1702180532,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 427407,
+        "num": 427407,
+        "word": "虞书欣 哇哦",
+        "onboard_time": 1702179996,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356564,
+        "num": 356564,
+        "word": "体育馆坍塌致3名学生死亡背后",
+        "onboard_time": 1702179393,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337777,
+        "num": 337777,
+        "word": "上海市考 写不出开头",
+        "onboard_time": 1702182575,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1032137,
+        "num": 337720,
+        "word": "五月天演唱会存在部分观众票证不符",
+        "onboard_time": 1702181672,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 432480,
+        "num": 337676,
+        "word": "一个人不舔人的社会从尊重服务业开始",
+        "onboard_time": 1702168108,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 340650,
+        "num": 337538,
+        "word": "张若昀圈内人缘",
+        "onboard_time": 1702182152,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337277,
+        "num": 337277,
+        "word": "申论 书写一个奇迹",
+        "onboard_time": 1702182934,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 331254,
+        "num": 331254,
+        "word": "导游建议游客买一朵菊花献烈士",
+        "onboard_time": 1702175428,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304504,
+        "num": 304504,
+        "word": "迪丽热巴片场plog",
+        "onboard_time": 1702184316,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300114,
+        "num": 300114,
+        "word": "广州警方回应地铁发生持刀伤人事件",
+        "onboard_time": 1702178433,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299643,
+        "num": 299643,
+        "word": "浙江省考 比国考还难",
+        "onboard_time": 1702178553,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 293120,
+        "num": 293120,
+        "word": "郑钧 我能证明自己是真唱",
+        "onboard_time": 1702180715,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262046,
+        "num": 262046,
+        "word": "冰箱门上放牛奶隐患有多大",
+        "onboard_time": 1702168226,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257650,
+        "num": 257650,
+        "word": "赵露思维权一审胜诉",
+        "onboard_time": 1702183475,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250763,
+        "num": 250763,
+        "word": "卢昱晓撕名牌最终赢家",
+        "onboard_time": 1702182513,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238464,
+        "num": 238464,
+        "word": "夹子音",
+        "onboard_time": 1702177471,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221827,
+        "num": 221827,
+        "word": "乳腺舒服了",
+        "onboard_time": 1702170510,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219857,
+        "num": 219857,
+        "word": "周深找孟子义嘴巴急出尖叫",
+        "onboard_time": 1702178195,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219593,
+        "num": 219593,
+        "word": "苏翊鸣大跳台世界杯亚军",
+        "onboard_time": 1702179511,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216170,
+        "num": 216170,
+        "word": "詹姆斯季中赛MVP",
+        "onboard_time": 1702184495,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207425,
+        "num": 207425,
+        "word": "这就是顶级恋爱脑吗",
+        "onboard_time": 1702184973,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200616,
+        "num": 200616,
+        "word": "ENHYPEN 加场",
+        "onboard_time": 1702184734,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14313,
+        "num": 198173,
+        "word": "我们的歌跨屏传递惊喜",
+        "onboard_time": 1702184495,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197309,
+        "num": 197309,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178488,
+        "num": 178488,
+        "word": "湖人vs步行者",
+        "onboard_time": 1702173328,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178473,
+        "num": 178473,
+        "word": "TheShy 降薪",
+        "onboard_time": 1702164018,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176757,
+        "num": 176757,
+        "word": "EDG加入VCTCN",
+        "onboard_time": 1702184915,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175925,
+        "num": 175925,
+        "word": "6个月宝宝偷听大人说话",
+        "onboard_time": 1702185154,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172963,
+        "num": 172963,
+        "word": "徐若晗演张若昀学生",
+        "onboard_time": 1702179872,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163812,
+        "num": 163812,
+        "word": "冬季光腿神器极度危害健康",
+        "onboard_time": 1702181612,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162708,
+        "num": 162708,
+        "word": "赵露思变美思路解析",
+        "onboard_time": 1702182033,
+        "rank": 47,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 159499,
+        "num": 159499,
+        "word": "华润集团曝光四家假央企",
+        "onboard_time": 1702176693,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155895,
+        "num": 155895,
+        "word": "时光代理人 刘枭",
+        "onboard_time": 1702185334,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}
