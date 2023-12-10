@@ -1,0 +1,410 @@
+{
+  "runTime": 1702208036546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2108497,
+        "num": 2108497,
+        "word": "八年了 她终于红了",
+        "onboard_time": 1702200275,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 634950,
+        "num": 1435688,
+        "word": "反差爆改终于轮到我们丫丫",
+        "onboard_time": 1702198353,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90529,
+        "num": 1336257,
+        "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
+        "onboard_time": 1702193552,
+        "rank": 2,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 1262012,
+        "num": 1262012,
+        "word": "垫底辣孩 P图思路大公开",
+        "onboard_time": 1702205915,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 229799,
+        "num": 1099405,
+        "word": "学校将领导办公室改造成罕见病学生专属教室",
+        "onboard_time": 1702202377,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064093,
+        "num": 1064093,
+        "word": "主播陈一发儿疑似复出再被封",
+        "onboard_time": 1702207414,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 93905,
+        "num": 1003759,
+        "word": "导游建议游客买一朵菊花献烈士",
+        "onboard_time": 1702175428,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945157,
+        "num": 945157,
+        "word": "夹子音 刚满十八岁",
+        "onboard_time": 1702202796,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 724985,
+        "num": 724985,
+        "word": "缅北",
+        "onboard_time": 1702207172,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712931,
+        "num": 712931,
+        "word": "山东申论 轻舟已撞大桥",
+        "onboard_time": 1702201475,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1657571,
+        "num": 672411,
+        "word": "你接受杨丞琳的道歉吗",
+        "onboard_time": 1702186534,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 537057,
+        "num": 537057,
+        "word": "易烊千玺 酱园弄",
+        "onboard_time": 1702203816,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 502386,
+        "num": 502386,
+        "word": "六年的感情比不过比赛的规则",
+        "onboard_time": 1702192652,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454944,
+        "num": 454944,
+        "word": "檀健次进口草莓",
+        "onboard_time": 1702204832,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446237,
+        "num": 446237,
+        "word": "刘若英 哪有什么四合院",
+        "onboard_time": 1702204895,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425862,
+        "num": 425862,
+        "word": "刘宇宁 作为演员颜值也应该重视",
+        "onboard_time": 1702196495,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412939,
+        "num": 412939,
+        "word": "刘强东内网回应员工提问",
+        "onboard_time": 1702202854,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 401181,
+        "num": 401181,
+        "word": "戴美瞳 脸大",
+        "onboard_time": 1702202134,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 362938,
+        "num": 362938,
+        "word": "林孝埈 二棒",
+        "onboard_time": 1702204416,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360966,
+        "num": 360966,
+        "word": "舒淇表情",
+        "onboard_time": 1702203633,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434609,
+        "num": 358995,
+        "word": "泡了2年药酒的海马竟是塑料",
+        "onboard_time": 1702205497,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356523,
+        "num": 356523,
+        "word": "吉祥航空",
+        "onboard_time": 1702204832,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291765,
+        "num": 291765,
+        "word": "张雪峰",
+        "onboard_time": 1702203694,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 288960,
+        "num": 288960,
+        "word": "杨丞琳郑州演唱会门票曾打折出售",
+        "onboard_time": 1702207056,
+        "rank": 23,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 287551,
+        "num": 287551,
+        "word": "行测不发草稿纸 申论补上",
+        "onboard_time": 1702201656,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 266943,
+        "num": 266943,
+        "word": "雪雪雪雪雪来了",
+        "onboard_time": 1702197393,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264912,
+        "num": 264912,
+        "word": "张晶 战术",
+        "onboard_time": 1702207594,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253166,
+        "num": 253166,
+        "word": "刘少林",
+        "onboard_time": 1702205015,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244304,
+        "num": 244304,
+        "word": "羽绒服 预售",
+        "onboard_time": 1702199851,
+        "rank": 28,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 241924,
+        "num": 241924,
+        "word": "吉祥航空回应外籍旅客优先登机",
+        "onboard_time": 1702203934,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221337,
+        "num": 221337,
+        "word": "警方最高悬赏50万通缉电诈头目",
+        "onboard_time": 1702205195,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221055,
+        "num": 221055,
+        "word": "当文慧心遇上文东恩",
+        "onboard_time": 1702205793,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219278,
+        "num": 219278,
+        "word": "马面裙 女装",
+        "onboard_time": 1702197154,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 217889,
+        "num": 217889,
+        "word": "江苏申论 顶级折磨",
+        "onboard_time": 1702199851,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 195411,
+        "num": 195411,
+        "word": "中国队5000米接力铜牌",
+        "onboard_time": 1702203093,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189431,
+        "num": 189431,
+        "word": "张云雷终于见到了何洁",
+        "onboard_time": 1702201357,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170821,
+        "num": 170821,
+        "word": "刘若英北京四合院",
+        "onboard_time": 1702191452,
+        "rank": 36,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 167550,
+        "num": 167550,
+        "word": "王楚钦热身劈叉",
+        "onboard_time": 1702206631,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159782,
+        "num": 159782,
+        "word": "他燃烧了一整夜 却倒在了黎明前",
+        "onboard_time": 1702194152,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159640,
+        "num": 159640,
+        "word": "这个杀手不太冷有望内地上映",
+        "onboard_time": 1702197454,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156798,
+        "num": 156798,
+        "word": "5000米接力太可惜了",
+        "onboard_time": 1702207897,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149246,
+        "num": 149246,
+        "word": "张本美和凑近跟张本智和说话",
+        "onboard_time": 1702204057,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148054,
+        "num": 148054,
+        "word": "初雪challenge",
+        "onboard_time": 1702204536,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144523,
+        "num": 144523,
+        "word": "五月天演唱会存在部分观众票证不符",
+        "onboard_time": 1702181672,
+        "rank": 43,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 143165,
+        "num": 143165,
+        "word": "范闲五年后成了高三班主任",
+        "onboard_time": 1702187495,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140275,
+        "num": 140275,
+        "word": "逐渐离谱的卖鞋展示",
+        "onboard_time": 1702205857,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 140138,
+        "num": 140138,
+        "word": "于嘉谈詹姆斯夺冠",
+        "onboard_time": 1702206334,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139741,
+        "num": 139741,
+        "word": "许诗晴 理想身材",
+        "onboard_time": 1702197213,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136881,
+        "num": 136881,
+        "word": "MCN公司还原浪胃仙游絮事件",
+        "onboard_time": 1702204775,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 136671,
+        "num": 136671,
+        "word": "国乒vs韩国队",
+        "onboard_time": 1702208018,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#把城市建设成为美丽家园#"
+    }
+  }
+}
