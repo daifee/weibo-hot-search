@@ -1,0 +1,410 @@
+{
+  "runTime": 1702175505612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1585160,
+        "num": 1585160,
+        "word": "饶雪漫谈八年不敢联系陈都灵",
+        "onboard_time": 1702165522,
+        "rank": 0,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 945900,
+        "num": 945900,
+        "word": "周一围 朱丹",
+        "onboard_time": 1702173149,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100050,
+        "num": 866250,
+        "word": "太空种菜还能调节航天员情绪",
+        "onboard_time": 1702127918,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842509,
+        "num": 842509,
+        "word": "冰箱门上放牛奶隐患有多大",
+        "onboard_time": 1702168226,
+        "rank": 3,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 672299,
+        "num": 672299,
+        "word": "外籍旅客优先登机致一女子滞留机场",
+        "onboard_time": 1702171470,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416919,
+        "num": 416919,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409833,
+        "num": 409833,
+        "word": "娜扎经纪人 造型参考人物是维纳斯",
+        "onboard_time": 1702167086,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 389756,
+        "num": 389756,
+        "word": "男子解开安全带拿吃的致一死一伤",
+        "onboard_time": 1702165824,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034854,
+        "num": 381962,
+        "word": "难哄 别哄了",
+        "onboard_time": 1702170929,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364556,
+        "num": 364556,
+        "word": "男子因一个热水器救了一栋楼",
+        "onboard_time": 1702172249,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1447946,
+        "num": 361905,
+        "word": "一个人不舔人的社会从尊重服务业开始",
+        "onboard_time": 1702168108,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 707387,
+        "num": 352730,
+        "word": "猫咖20余只猫被锁店里饿到自相残杀",
+        "onboard_time": 1702172793,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493410,
+        "num": 319643,
+        "word": "第一学历",
+        "onboard_time": 1702136075,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285871,
+        "num": 285871,
+        "word": "程少商这一世还不选袁善见",
+        "onboard_time": 1702165883,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280625,
+        "num": 280625,
+        "word": "TheShy 降薪",
+        "onboard_time": 1702164018,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 279885,
+        "num": 279885,
+        "word": "奔跑吧下期玩的是一个大反转",
+        "onboard_time": 1702170028,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278520,
+        "num": 278520,
+        "word": "菲船只故意冲撞我海警船",
+        "onboard_time": 1702169550,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271387,
+        "num": 271387,
+        "word": "林俊杰南宁 吃太香了",
+        "onboard_time": 1702166546,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258195,
+        "num": 258195,
+        "word": "吃一把瓜子等于喝一勺油是冤枉瓜子",
+        "onboard_time": 1702173932,
+        "rank": 18,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 245507,
+        "num": 245507,
+        "word": "吉祥航空承认因失误导致乘客滞留机场",
+        "onboard_time": 1702164440,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632302,
+        "num": 242530,
+        "word": "乳腺舒服了",
+        "onboard_time": 1702170510,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252527,
+        "num": 240899,
+        "word": "半开麦跟对口型假唱很难明确界定",
+        "onboard_time": 1702172971,
+        "rank": 21,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 239032,
+        "num": 239032,
+        "word": "曾黎找天津大姨盘头",
+        "onboard_time": 1702172312,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237441,
+        "num": 237441,
+        "word": "塌腰",
+        "onboard_time": 1702131942,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222080,
+        "num": 222080,
+        "word": "花花最近白得发亮",
+        "onboard_time": 1702137213,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221802,
+        "num": 221802,
+        "word": "林孝埈向刘少昂表达歉意",
+        "onboard_time": 1702164318,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210233,
+        "num": 210233,
+        "word": "周也演技 角色差异化",
+        "onboard_time": 1702174770,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208719,
+        "num": 208719,
+        "word": "AI 你等我觉醒的",
+        "onboard_time": 1702173993,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206366,
+        "num": 206366,
+        "word": "神隐",
+        "onboard_time": 1702175070,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206155,
+        "num": 206155,
+        "word": "专家解读五月天假唱风波三大焦点问题",
+        "onboard_time": 1702172668,
+        "rank": 29,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 288336,
+        "num": 203241,
+        "word": "养肺让皮肤越来越水灵",
+        "onboard_time": 1702174170,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 199567,
+        "num": 199567,
+        "word": "日军军官从军日志记录南京大屠杀暴行",
+        "onboard_time": 1702172249,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196598,
+        "num": 196598,
+        "word": "男子境外昏迷44天后乘空中救护车回国",
+        "onboard_time": 1702174952,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188621,
+        "num": 188621,
+        "word": "以为许诗晴的孩子是man姐的",
+        "onboard_time": 1702167325,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183770,
+        "num": 183770,
+        "word": "张雪峰再回应文科都是服务业",
+        "onboard_time": 1702168649,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 177185,
+        "num": 177185,
+        "word": "实体店真的很难做",
+        "onboard_time": 1702174593,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171935,
+        "num": 171935,
+        "word": "浙大学霸的笔记精美得像教科书",
+        "onboard_time": 1702172012,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161061,
+        "num": 161061,
+        "word": "许多人家有的这种石头可能致癌",
+        "onboard_time": 1702169008,
+        "rank": 37,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 149688,
+        "num": 149688,
+        "word": "你不是我领导 哪凉快哪去",
+        "onboard_time": 1702169488,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149632,
+        "num": 149632,
+        "word": "脚气 用艾草和花椒泡开水",
+        "onboard_time": 1702173870,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145133,
+        "num": 145133,
+        "word": "专家称张雪峰言论过于极端",
+        "onboard_time": 1702144279,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144870,
+        "num": 144870,
+        "word": "湖人vs步行者",
+        "onboard_time": 1702173328,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140250,
+        "num": 140250,
+        "word": "服务业",
+        "onboard_time": 1702172069,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 138458,
+        "num": 138458,
+        "word": "导游建议游客买一朵菊花献烈士",
+        "onboard_time": 1702175428,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136109,
+        "num": 136109,
+        "word": "中东部将迎两轮大范围雨雪天气",
+        "onboard_time": 1702175009,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134581,
+        "num": 134581,
+        "word": "常华森 哭包",
+        "onboard_time": 1702171770,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129786,
+        "num": 129786,
+        "word": "黄晓明带儿子去迪士尼",
+        "onboard_time": 1702136315,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126618,
+        "num": 126618,
+        "word": "男孩重症肺炎出院第二天上学再中招",
+        "onboard_time": 1702157053,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124229,
+        "num": 124229,
+        "word": "大谷翔平10年7亿签约道奇",
+        "onboard_time": 1702172668,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122608,
+        "num": 122608,
+        "word": "陈伟霆林超贤 一款很典的先婚后爱",
+        "onboard_time": 1702172971,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}
