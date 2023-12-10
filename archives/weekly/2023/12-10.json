@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702222432569,
+  "endTime": 1702225264188,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -51,8 +51,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2498145,
-      "num": 614900,
+      "raw_hot": 2522676,
+      "num": 2522676,
       "word": "多部门回应杨丞琳说河南人爱骗人",
       "onboard_time": 1702220980,
       "rank": 10,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807132,
+      "num": 807132,
+      "word": "EXO 下雪了",
+      "onboard_time": 1702222058,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 792946,
       "num": 792946,
       "word": "赵丽颖 女二",
@@ -633,6 +641,14 @@
       "onboard_time": 1702199557,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 542130,
+      "num": 542130,
+      "word": "北京下雪",
+      "onboard_time": 1702223136,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538733,
@@ -1347,14 +1363,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 287212,
-      "num": 287212,
-      "word": "EXO 下雪了",
-      "onboard_time": 1702222058,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 287074,
       "num": 287074,
       "word": "aespa 雪国精灵",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1702216780,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 272981,
+      "num": 207750,
+      "word": "金泰亨寸头照",
+      "onboard_time": 1702223194,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 272323,
@@ -1617,6 +1633,14 @@
       "onboard_time": 1702176151,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236564,
+      "num": 187377,
+      "word": "宁远舟 宫寒",
+      "onboard_time": 1702225170,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 236466,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1702136194,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218300,
+      "num": 197582,
+      "word": "亲亲只能是年轻人的权利吗",
+      "onboard_time": 1702222299,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 216170,
@@ -2747,6 +2779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150337,
+      "num": 150337,
+      "word": "三代齿轮新物料 抓马",
+      "onboard_time": 1702224810,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149896,
       "num": 149896,
       "word": "衢州突然成了年轻人的追星圣地",
@@ -2939,14 +2979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138317,
-      "num": 138317,
-      "word": "亲亲只能是年轻人的权利吗",
-      "onboard_time": 1702222299,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137765,
       "num": 137765,
       "word": "三大队",
@@ -3081,6 +3113,14 @@
       "onboard_time": 1702170028,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127984,
+      "num": 127984,
+      "word": "萌兰用小jiojio大战红球球",
+      "onboard_time": 1702224031,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127901,
