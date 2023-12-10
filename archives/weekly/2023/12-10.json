@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702190059304,
+  "endTime": 1702192543188,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -81,6 +81,14 @@
       "onboard_time": 1702131942,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1080747,
+      "num": 366412,
+      "word": "刘若英北京四合院",
+      "onboard_time": 1702191452,
+      "rank": 10,
+      "category": "旅游,艺人"
     },
     {
       "raw_hot": 1079805,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 680302,
+      "num": 680302,
+      "word": "范闲五年后成了高三班主任",
+      "onboard_time": 1702187495,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 664602,
       "num": 664602,
       "word": "男子解开安全带拿吃的致一死一伤",
@@ -315,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 537848,
-      "num": 537848,
-      "word": "范闲五年后成了高三班主任",
-      "onboard_time": 1702187495,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 532056,
       "num": 532056,
       "word": "花花最近白得发亮",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 455783,
-      "num": 428556,
+      "num": 436131,
       "word": "背考研政治给自己背笑了",
       "onboard_time": 1702187074,
       "rank": 10,
@@ -419,8 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 415435,
-      "num": 415435,
+      "raw_hot": 421371,
+      "num": 421371,
       "word": "gai浇饭",
       "onboard_time": 1702187971,
       "rank": 11,
@@ -449,6 +457,14 @@
       "onboard_time": 1702173328,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388822,
+      "num": 388822,
+      "word": "店主回应网传20只猫饿到自相残杀",
+      "onboard_time": 1702189232,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385165,
@@ -643,12 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273554,
-      "num": 273554,
-      "word": "店主回应网传20只猫饿到自相残杀",
-      "onboard_time": 1702189232,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 272323,
+      "num": 272323,
+      "word": "林俊杰 有点舍不得",
+      "onboard_time": 1702189594,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 272033,
@@ -657,6 +673,14 @@
       "onboard_time": 1702164318,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269391,
+      "num": 269391,
+      "word": "张雪峰的饭碗思维",
+      "onboard_time": 1702189052,
+      "rank": 44,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 267536,
@@ -681,6 +705,14 @@
       "onboard_time": 1702121795,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 265596,
+      "num": 265596,
+      "word": "4岁女孩穿汉服滑雪如御剑飞行",
+      "onboard_time": 1702191332,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257650,
@@ -713,14 +745,6 @@
       "onboard_time": 1702133379,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245519,
-      "num": 245519,
-      "word": "张雪峰的饭碗思维",
-      "onboard_time": 1702189052,
-      "rank": 44,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 240361,
@@ -803,6 +827,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 224656,
+      "num": 224656,
+      "word": "华晨宇版权",
+      "onboard_time": 1702191572,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 224464,
+      "num": 224464,
+      "word": "3种食物再爱也要管住嘴",
+      "onboard_time": 1702190194,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 224248,
       "num": 224248,
       "word": "国乒 自我救赎",
@@ -825,6 +865,14 @@
       "onboard_time": 1702175670,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218747,
+      "num": 218747,
+      "word": "宁远舟在冰点脱毛",
+      "onboard_time": 1702190014,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 218557,
@@ -907,20 +955,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205173,
+      "num": 205173,
+      "word": "刘诗诗iDest四周年封面",
+      "onboard_time": 1702191397,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204437,
       "num": 204437,
       "word": "人类数据库 AI生成图",
       "onboard_time": 1702172249,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 203483,
-      "num": 200179,
-      "word": "林俊杰 有点舍不得",
-      "onboard_time": 1702189594,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 200616,
@@ -1059,12 +1107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180356,
+      "num": 180356,
+      "word": "床是人类的无线充电器",
+      "onboard_time": 1702189773,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180061,
       "num": 180061,
       "word": "服务业",
       "onboard_time": 1702172069,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 178682,
+      "num": 178682,
+      "word": "今晚国乒与韩国队争冠",
+      "onboard_time": 1702191931,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 177991,
@@ -1153,6 +1217,22 @@
       "onboard_time": 1702168528,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170735,
+      "num": 170735,
+      "word": "王安宇一个人干三份活",
+      "onboard_time": 1702191033,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168808,
+      "num": 168808,
+      "word": "陈佩斯的封神之作",
+      "onboard_time": 1702191270,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 168665,
@@ -1331,12 +1411,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 147426,
-      "num": 147426,
-      "word": "床是人类的无线充电器",
-      "onboard_time": 1702189773,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 147428,
+      "num": 147428,
+      "word": "一闪一闪亮星星预售票房破2亿",
+      "onboard_time": 1702190133,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 146375,
@@ -1369,6 +1449,14 @@
       "onboard_time": 1702167566,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142501,
+      "num": 142501,
+      "word": "TES官博关注Meiko",
+      "onboard_time": 1702191873,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 142497,
@@ -1483,20 +1571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132688,
-      "num": 132688,
-      "word": "宁远舟在冰点脱毛",
-      "onboard_time": 1702190014,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131064,
       "num": 131064,
       "word": "内双咋贴双眼皮贴啊",
       "onboard_time": 1702171110,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 130914,
+      "num": 130914,
+      "word": "保安大叔给孩子们撒下一整个秋天",
+      "onboard_time": 1702192171,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129505,
@@ -1601,6 +1689,14 @@
       "onboard_time": 1702131701,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121734,
+      "num": 121734,
+      "word": "人民日报神仙作文结尾",
+      "onboard_time": 1702192412,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 120046,
