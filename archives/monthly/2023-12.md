@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/11 06:34:10
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/11 07:17:03
 </p>
 </blockquote>
 <p>
@@ -2759,6 +2759,12 @@ RNG Ming（热度：750985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%9B%9E%E5%BA%94%E6%9B%BF%E8%BA%AB%E8%AF%B4%23" target="weibo">
 刘诗诗回应替身说（热度：734557）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E6%80%92%E6%89%B9%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E8%AF%BE%E7%BA%B2%23" target="weibo">
+台湾中学教师怒批去中国化课纲（热度：734541）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GQ全阵容（热度：420829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23aespa%20%E5%93%A5%E7%89%B9%E7%8E%AB%E7%91%B0%23" target="weibo">
 aespa 哥特玫瑰（热度：416481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E4%BA%86%20%E5%92%8C%E5%85%AC%E5%8F%B8%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%90%88%E7%85%A7%23" target="weibo">
-离职了 和公司最好的朋友合照（热度：416289）
 </a>
 </li>
 
