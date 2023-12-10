@@ -1,0 +1,410 @@
+{
+  "runTime": 1702200861961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2535458,
+        "num": 2535458,
+        "word": "六年的感情比不过比赛的规则",
+        "onboard_time": 1702192652,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2041730,
+        "num": 2041730,
+        "word": "你接受杨丞琳的道歉吗",
+        "onboard_time": 1702186534,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 86609,
+        "num": 1438538,
+        "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
+        "onboard_time": 1702193552,
+        "rank": 2,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 1028222,
+        "num": 1028222,
+        "word": "刘宇宁 作为演员颜值也应该重视",
+        "onboard_time": 1702196495,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1014426,
+        "num": 1014426,
+        "word": "八年了 她终于红了",
+        "onboard_time": 1702200275,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 893853,
+        "num": 893853,
+        "word": "刘若英北京四合院",
+        "onboard_time": 1702191452,
+        "rank": 5,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 853172,
+        "num": 853172,
+        "word": "单价35元包包成年轻人时尚新宠",
+        "onboard_time": 1702193853,
+        "rank": 6,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 832418,
+        "num": 832418,
+        "word": "江苏申论 顶级折磨",
+        "onboard_time": 1702199851,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 690501,
+        "num": 690501,
+        "word": "雪雪雪雪雪来了",
+        "onboard_time": 1702197393,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627373,
+        "num": 627373,
+        "word": "马面裙 女装",
+        "onboard_time": 1702197154,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 550564,
+        "num": 550564,
+        "word": "谢谢你省考面",
+        "onboard_time": 1702199557,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 500683,
+        "num": 500683,
+        "word": "羽绒服 预售",
+        "onboard_time": 1702199851,
+        "rank": 11,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 449400,
+        "num": 449400,
+        "word": "刘少昂1000米夺金",
+        "onboard_time": 1702197632,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405565,
+        "num": 405565,
+        "word": "许诗晴 理想身材",
+        "onboard_time": 1702197213,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401170,
+        "num": 401170,
+        "word": "他燃烧了一整夜 却倒在了黎明前",
+        "onboard_time": 1702194152,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368922,
+        "num": 368922,
+        "word": "山东省考 一考一个不吱声",
+        "onboard_time": 1702178973,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 346378,
+        "num": 346378,
+        "word": "杨丞琳为郑州演唱会言论道歉",
+        "onboard_time": 1702188153,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 334609,
+        "num": 334609,
+        "word": "林俊杰演唱会回应舞蹈被恶搞配音",
+        "onboard_time": 1702193372,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299962,
+        "num": 299962,
+        "word": "难哄 别哄了",
+        "onboard_time": 1702170929,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284252,
+        "num": 284252,
+        "word": "浙江申论 看着写吧",
+        "onboard_time": 1702200333,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 414650,
+        "num": 281822,
+        "word": "五月天演唱会存在部分观众票证不符",
+        "onboard_time": 1702181672,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 278958,
+        "num": 278958,
+        "word": "北京的雪呢",
+        "onboard_time": 1702199134,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253310,
+        "num": 253310,
+        "word": "女子离职后退600多个工作群",
+        "onboard_time": 1702184374,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249216,
+        "num": 249216,
+        "word": "奔跑吧宋雨琦刮刮乐 根本劝不住",
+        "onboard_time": 1702194631,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245589,
+        "num": 245589,
+        "word": "浙江省考 比国考还难",
+        "onboard_time": 1702178553,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 228843,
+        "num": 228843,
+        "word": "短道速滑世界杯",
+        "onboard_time": 1702199735,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224813,
+        "num": 224813,
+        "word": "范闲五年后成了高三班主任",
+        "onboard_time": 1702187495,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216616,
+        "num": 216616,
+        "word": "饶雪漫谈八年不敢联系陈都灵",
+        "onboard_time": 1702165522,
+        "rank": 27,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 208020,
+        "num": 208020,
+        "word": "很想很想你 初吻之后全是吻戏",
+        "onboard_time": 1702198831,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204728,
+        "num": 204728,
+        "word": "行测",
+        "onboard_time": 1702197693,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 203007,
+        "num": 203007,
+        "word": "刘宇宁说不会因为负评放弃做演员",
+        "onboard_time": 1702195535,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197629,
+        "num": 197629,
+        "word": "猫咖20余只猫被锁店里饿到自相残杀",
+        "onboard_time": 1702172793,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195449,
+        "num": 195449,
+        "word": "朝阳打歌中心 停播",
+        "onboard_time": 1702187074,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194241,
+        "num": 194241,
+        "word": "孙龙500米摘铜",
+        "onboard_time": 1702200694,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178781,
+        "num": 178781,
+        "word": "这个杀手不太冷有望内地上映",
+        "onboard_time": 1702197454,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176227,
+        "num": 176227,
+        "word": "浙江队 禁赛",
+        "onboard_time": 1702194031,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169601,
+        "num": 169601,
+        "word": "阿音和嫋嫋打架谁能赢",
+        "onboard_time": 1702196253,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162333,
+        "num": 162333,
+        "word": "陈铭治好了我用平替的羞耻感",
+        "onboard_time": 1702198534,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152207,
+        "num": 152207,
+        "word": "LPL全明星",
+        "onboard_time": 1702197871,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142731,
+        "num": 142731,
+        "word": "蓝色眼睛的人",
+        "onboard_time": 1702197812,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134237,
+        "num": 134237,
+        "word": "刘宇宁采访",
+        "onboard_time": 1702198415,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132324,
+        "num": 132324,
+        "word": "导游建议游客买一朵菊花献烈士",
+        "onboard_time": 1702175428,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130969,
+        "num": 130969,
+        "word": "gai浇饭",
+        "onboard_time": 1702187971,
+        "rank": 42,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 130895,
+        "num": 130895,
+        "word": "店主回应网传20只猫饿到自相残杀",
+        "onboard_time": 1702189232,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130366,
+        "num": 130366,
+        "word": "上午刮刮乐 下午书法课",
+        "onboard_time": 1702181672,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 123063,
+        "num": 123063,
+        "word": "反差爆改终于轮到我们丫丫",
+        "onboard_time": 1702198353,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117565,
+        "num": 117565,
+        "word": "三大队 程兵的人生逆旅",
+        "onboard_time": 1702200099,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117336,
+        "num": 117336,
+        "word": "4岁女孩穿汉服滑雪如御剑飞行",
+        "onboard_time": 1702191332,
+        "rank": 47,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 117074,
+        "num": 117074,
+        "word": "唐艺昕叫张若昀小张",
+        "onboard_time": 1702186177,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115377,
+        "num": 115377,
+        "word": "虞书欣 哇哦",
+        "onboard_time": 1702179996,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}
