@@ -1,0 +1,410 @@
+{
+  "runTime": 1702171256680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2028278,
+        "num": 2028278,
+        "word": "饶雪漫谈八年不敢联系陈都灵",
+        "onboard_time": 1702165522,
+        "rank": 0,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 1327800,
+        "num": 1327800,
+        "word": "冰箱门上放牛奶隐患有多大",
+        "onboard_time": 1702168226,
+        "rank": 1,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 111827,
+        "num": 1041924,
+        "word": "太空种菜还能调节航天员情绪",
+        "onboard_time": 1702127918,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 962654,
+        "num": 962654,
+        "word": "一个人不舔人的社会从尊重服务业开始",
+        "onboard_time": 1702168108,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 664602,
+        "num": 664602,
+        "word": "男子解开安全带拿吃的致一死一伤",
+        "onboard_time": 1702165824,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608443,
+        "num": 608443,
+        "word": "娜扎经纪人 造型参考人物是维纳斯",
+        "onboard_time": 1702167086,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 568087,
+        "num": 568087,
+        "word": "第一学历",
+        "onboard_time": 1702136075,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566769,
+        "num": 566769,
+        "word": "菲船只故意冲撞我海警船",
+        "onboard_time": 1702169550,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 554185,
+        "num": 554185,
+        "word": "吉祥航空承认因失误导致乘客滞留机场",
+        "onboard_time": 1702164440,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419291,
+        "num": 419291,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 405723,
+        "num": 405723,
+        "word": "程少商这一世还不选袁善见",
+        "onboard_time": 1702165883,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380550,
+        "num": 380550,
+        "word": "TheShy 降薪",
+        "onboard_time": 1702164018,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 365148,
+        "num": 365148,
+        "word": "林俊杰南宁 吃太香了",
+        "onboard_time": 1702166546,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360936,
+        "num": 360936,
+        "word": "专家称张雪峰言论过于极端",
+        "onboard_time": 1702144279,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348252,
+        "num": 348252,
+        "word": "拖拽妻儿男子回应称非常后悔",
+        "onboard_time": 1702138052,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345189,
+        "num": 345189,
+        "word": "张雪峰再回应文科都是服务业",
+        "onboard_time": 1702168649,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 338832,
+        "num": 338832,
+        "word": "塌腰",
+        "onboard_time": 1702131942,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306444,
+        "num": 306444,
+        "word": "许多人家有的这种石头可能致癌",
+        "onboard_time": 1702169008,
+        "rank": 17,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 282862,
+        "num": 282862,
+        "word": "花花最近白得发亮",
+        "onboard_time": 1702137213,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280418,
+        "num": 280418,
+        "word": "男孩重症肺炎出院第二天上学再中招",
+        "onboard_time": 1702157053,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272033,
+        "num": 272033,
+        "word": "林孝埈向刘少昂表达歉意",
+        "onboard_time": 1702164318,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251349,
+        "num": 251349,
+        "word": "难哄 别哄了",
+        "onboard_time": 1702170929,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243087,
+        "num": 243087,
+        "word": "黄晓明带儿子去迪士尼",
+        "onboard_time": 1702136315,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192836,
+        "num": 192836,
+        "word": "感冒了多喝水有助于身体恢复吗",
+        "onboard_time": 1702164801,
+        "rank": 23,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 186690,
+        "num": 186690,
+        "word": "谢娜孕吐反应特别严重",
+        "onboard_time": 1702157354,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183831,
+        "num": 183831,
+        "word": "以为许诗晴的孩子是man姐的",
+        "onboard_time": 1702167325,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176769,
+        "num": 176769,
+        "word": "省考 我必上岸",
+        "onboard_time": 1702168707,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175980,
+        "num": 175980,
+        "word": "美驻伊拉克大使馆及中东军事基地遭袭",
+        "onboard_time": 1702166965,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173196,
+        "num": 173196,
+        "word": "教资面试",
+        "onboard_time": 1702170089,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 171454,
+        "num": 171454,
+        "word": "奔跑吧下期玩的是一个大反转",
+        "onboard_time": 1702170028,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339583,
+        "num": 171425,
+        "word": "乳腺舒服了",
+        "onboard_time": 1702170510,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171352,
+        "num": 171352,
+        "word": "下周天气就一个字冷",
+        "onboard_time": 1702168528,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157420,
+        "num": 157420,
+        "word": "你不是我领导 哪凉快哪去",
+        "onboard_time": 1702169488,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155640,
+        "num": 155640,
+        "word": "王楚钦说为莎莎分担的不够",
+        "onboard_time": 1702164922,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148875,
+        "num": 148875,
+        "word": "苏新皓 笔误",
+        "onboard_time": 1702168408,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147032,
+        "num": 147032,
+        "word": "郑钧演唱会上表白刘芸",
+        "onboard_time": 1702134999,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146375,
+        "num": 146375,
+        "word": "AG一诺 想过不打了",
+        "onboard_time": 1702169488,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143607,
+        "num": 143607,
+        "word": "王嘉尔上海",
+        "onboard_time": 1702170990,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143528,
+        "num": 143528,
+        "word": "周杰伦曼谷场现场",
+        "onboard_time": 1702167566,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141081,
+        "num": 141081,
+        "word": "男女生都要注意的反PUA话术",
+        "onboard_time": 1702167207,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140195,
+        "num": 140195,
+        "word": "王一博藏起来看王传君",
+        "onboard_time": 1702142723,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139683,
+        "num": 139683,
+        "word": "李同光 疯批小狗",
+        "onboard_time": 1702168167,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138744,
+        "num": 138744,
+        "word": "实用还耐看的包包",
+        "onboard_time": 1702170451,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 137017,
+        "num": 137017,
+        "word": "李健 时钟上只有一个时间就是现在",
+        "onboard_time": 1702169550,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131064,
+        "num": 131064,
+        "word": "内双咋贴双眼皮贴啊",
+        "onboard_time": 1702171110,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129505,
+        "num": 129505,
+        "word": "胰岛素抵抗就是糖尿病吗",
+        "onboard_time": 1702165824,
+        "rank": 45,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 125546,
+        "num": 125546,
+        "word": "南京大屠杀又添新证据",
+        "onboard_time": 1702132179,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125347,
+        "num": 125347,
+        "word": "熊猫幼崽向妈妈发起强制贴贴",
+        "onboard_time": 1702171171,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125177,
+        "num": 125177,
+        "word": "WBG ZDZ",
+        "onboard_time": 1702164440,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125004,
+        "num": 125004,
+        "word": "广州马拉松鸣枪起跑",
+        "onboard_time": 1702170028,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局会议分析研究2024年经济工作#"
+    }
+  }
+}
