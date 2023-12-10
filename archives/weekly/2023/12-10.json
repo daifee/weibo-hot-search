@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702239468678,
+  "endTime": 1702240443410,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -3595,20 +3595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43037,
+      "num": 22023,
+      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
+      "onboard_time": 1702236734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42575,
       "num": 182160,
       "word": "泰国人都爱开什么车",
       "onboard_time": 1702187196,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 40133,
-      "num": 22023,
-      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
-      "onboard_time": 1702236734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34540,
