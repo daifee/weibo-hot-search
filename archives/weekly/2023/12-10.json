@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702225264188,
+  "endTime": 1702226166995,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 685795,
+      "num": 685795,
+      "word": "北京下雪",
+      "onboard_time": 1702223136,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 685045,
       "num": 685045,
       "word": "外籍旅客优先登机致一女子滞留机场",
@@ -641,14 +649,6 @@
       "onboard_time": 1702199557,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 542130,
-      "num": 542130,
-      "word": "北京下雪",
-      "onboard_time": 1702223136,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 538733,
@@ -1444,7 +1444,7 @@
     },
     {
       "raw_hot": 272981,
-      "num": 207750,
+      "num": 258174,
       "word": "金泰亨寸头照",
       "onboard_time": 1702223194,
       "rank": 20,
@@ -1555,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256572,
+      "num": 187377,
+      "word": "宁远舟 宫寒",
+      "onboard_time": 1702225170,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253591,
       "num": 253591,
       "word": "Rookie队拿下第一局",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1702176151,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 236564,
-      "num": 187377,
-      "word": "宁远舟 宫寒",
-      "onboard_time": 1702225170,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 236466,
@@ -3297,6 +3297,14 @@
       "onboard_time": 1702145006,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111565,
+      "num": 111565,
+      "word": "白所成",
+      "onboard_time": 1702225709,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106847,

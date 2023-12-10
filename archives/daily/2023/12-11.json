@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702225264188,
+  "endTime": 1702226166995,
   "band_list": [
     {
       "raw_hot": 2522676,
@@ -51,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 685795,
+      "num": 685795,
+      "word": "北京下雪",
+      "onboard_time": 1702223136,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637704,
       "num": 637704,
       "word": "缅北四大家族",
@@ -73,14 +81,6 @@
       "onboard_time": 1702217502,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 542130,
-      "num": 542130,
-      "word": "北京下雪",
-      "onboard_time": 1702223136,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489951,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 272981,
-      "num": 207750,
+      "num": 258174,
       "word": "金泰亨寸头照",
       "onboard_time": 1702223194,
       "rank": 20,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256572,
+      "num": 187377,
+      "word": "宁远舟 宫寒",
+      "onboard_time": 1702225170,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255689,
       "num": 202327,
       "word": "猪肝到底是营养佳品还是毒素垃圾",
@@ -177,14 +185,6 @@
       "onboard_time": 1702211076,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236564,
-      "num": 187377,
-      "word": "宁远舟 宫寒",
-      "onboard_time": 1702225170,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 228643,
@@ -347,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111565,
+      "num": 111565,
+      "word": "白所成",
+      "onboard_time": 1702225709,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108703,
       "num": 108703,
       "word": "刘强东称京东改变需要时间",
@@ -401,6 +409,14 @@
       "onboard_time": 1702216780,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75672,
+      "num": 75672,
+      "word": "白鲨卫冕CFS冠军",
+      "onboard_time": 1702213298,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
