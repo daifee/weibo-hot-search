@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702171256680,
+  "endTime": 1702172516538,
   "band_list": [
     {
       "raw_hot": 2028278,
@@ -27,20 +27,20 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1300710,
+      "num": 962654,
+      "word": "一个人不舔人的社会从尊重服务业开始",
+      "onboard_time": 1702168108,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1168119,
       "num": 1168119,
       "word": "塌腰",
       "onboard_time": 1702131942,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 962654,
-      "num": 962654,
-      "word": "一个人不舔人的社会从尊重服务业开始",
-      "onboard_time": 1702168108,
-      "rank": 3,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 824651,
@@ -59,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 734261,
+      "num": 734261,
+      "word": "难哄 别哄了",
+      "onboard_time": 1702170929,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 697038,
       "num": 697038,
       "word": "南京大屠杀又添新证据",
@@ -75,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650528,
+      "num": 650528,
+      "word": "娜扎经纪人 造型参考人物是维纳斯",
+      "onboard_time": 1702167086,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 633314,
       "num": 633314,
       "word": "黄晓明带儿子去迪士尼",
       "onboard_time": 1702136315,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 608443,
-      "num": 608443,
-      "word": "娜扎经纪人 造型参考人物是维纳斯",
-      "onboard_time": 1702167086,
-      "rank": 5,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 581687,
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510264,
+      "num": 265038,
+      "word": "乳腺舒服了",
+      "onboard_time": 1702170510,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 455333,
       "num": 358660,
       "word": "东莞一儿童掉进超市面包搅拌机身亡",
@@ -139,20 +155,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 437684,
+      "num": 437684,
+      "word": "程少商这一世还不选袁善见",
+      "onboard_time": 1702165883,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 424760,
       "num": 424760,
       "word": "19岁女孩上悬赏公告因高颜值受关注",
       "onboard_time": 1702117053,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405723,
-      "num": 405723,
-      "word": "程少商这一世还不选袁善见",
-      "onboard_time": 1702165883,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 399182,
@@ -203,12 +219,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 339583,
-      "num": 171425,
-      "word": "乳腺舒服了",
-      "onboard_time": 1702170510,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 323834,
+      "num": 323834,
+      "word": "外籍旅客优先登机致一女子滞留机场",
+      "onboard_time": 1702171470,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321071,
@@ -267,14 +283,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 251349,
-      "num": 251349,
-      "word": "难哄 别哄了",
-      "onboard_time": 1702170929,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246867,
       "num": 246867,
       "word": "金裕贞宋江吻戏",
@@ -323,12 +331,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205775,
+      "num": 205775,
+      "word": "奔跑吧下期玩的是一个大反转",
+      "onboard_time": 1702170028,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205644,
+      "num": 205644,
+      "word": "以为许诗晴的孩子是man姐的",
+      "onboard_time": 1702167325,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204437,
+      "num": 204437,
+      "word": "人类数据库 AI生成图",
+      "onboard_time": 1702172249,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200038,
       "num": 200038,
       "word": "唐嫣清宫造型",
       "onboard_time": 1702139910,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196471,
+      "num": 196471,
+      "word": "男子因一个热水器救了一栋楼",
+      "onboard_time": 1702172249,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193259,
@@ -371,20 +411,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185509,
+      "num": 185509,
+      "word": "你不是我领导 哪凉快哪去",
+      "onboard_time": 1702169488,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184359,
       "num": 184359,
       "word": "一万块钱花一年",
       "onboard_time": 1702119574,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183831,
-      "num": 183831,
-      "word": "以为许诗晴的孩子是man姐的",
-      "onboard_time": 1702167325,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 183470,
@@ -403,12 +443,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180061,
+      "num": 180061,
+      "word": "服务业",
+      "onboard_time": 1702172069,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 178415,
+      "num": 178415,
+      "word": "日军军官从军日志记录南京大屠杀暴行",
+      "onboard_time": 1702172249,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176769,
       "num": 176769,
       "word": "省考 我必上岸",
       "onboard_time": 1702168707,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 176052,
+      "num": 176052,
+      "word": "阿森纳 裁判",
+      "onboard_time": 1702171595,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 175980,
@@ -427,14 +491,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 171454,
-      "num": 171454,
-      "word": "奔跑吧下期玩的是一个大反转",
-      "onboard_time": 1702170028,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171352,
       "num": 171352,
       "word": "下周天气就一个字冷",
@@ -451,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167777,
+      "num": 167777,
+      "word": "浙大学霸的笔记精美得像教科书",
+      "onboard_time": 1702172012,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167096,
       "num": 160981,
       "word": "一念关山 修图",
       "onboard_time": 1702126178,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166436,
+      "num": 166436,
+      "word": "曾黎找天津大姨盘头",
+      "onboard_time": 1702172312,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 163311,
@@ -483,20 +555,36 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 157420,
-      "num": 157420,
-      "word": "你不是我领导 哪凉快哪去",
-      "onboard_time": 1702169488,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 155640,
-      "num": 155640,
+      "raw_hot": 158227,
+      "num": 158227,
       "word": "王楚钦说为莎莎分担的不够",
       "onboard_time": 1702164922,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158048,
+      "num": 158048,
+      "word": "男女生都要注意的反PUA话术",
+      "onboard_time": 1702167207,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156873,
+      "num": 156873,
+      "word": "常华森 哭包",
+      "onboard_time": 1702171770,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156701,
+      "num": 156701,
+      "word": "实用还耐看的包包",
+      "onboard_time": 1702170451,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 154792,
@@ -571,14 +659,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 141081,
-      "num": 141081,
-      "word": "男女生都要注意的反PUA话术",
-      "onboard_time": 1702167207,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 140455,
       "num": 140455,
       "word": "梦鱼 特别有安全感的搭档",
@@ -603,20 +683,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138744,
-      "num": 138744,
-      "word": "实用还耐看的包包",
-      "onboard_time": 1702170451,
-      "rank": 42,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 137017,
       "num": 137017,
       "word": "李健 时钟上只有一个时间就是现在",
       "onboard_time": 1702169550,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136282,
+      "num": 136282,
+      "word": "熊猫幼崽向妈妈发起强制贴贴",
+      "onboard_time": 1702171171,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135744,
@@ -651,6 +731,22 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 128060,
+      "num": 128060,
+      "word": "广州马拉松鸣枪起跑",
+      "onboard_time": 1702170028,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127232,
+      "num": 127232,
+      "word": "男子地铁内撕国旗被大哥霸气制止",
+      "onboard_time": 1702172491,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126301,
       "num": 120602,
       "word": "杨幂对接辟谣酱园弄客串",
@@ -659,11 +755,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125347,
-      "num": 125347,
-      "word": "熊猫幼崽向妈妈发起强制贴贴",
-      "onboard_time": 1702171171,
-      "rank": 47,
+      "raw_hot": 125753,
+      "num": 1041924,
+      "word": "太空种菜还能调节航天员情绪",
+      "onboard_time": 1702127918,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -681,14 +777,6 @@
       "onboard_time": 1702119273,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125004,
-      "num": 125004,
-      "word": "广州马拉松鸣枪起跑",
-      "onboard_time": 1702170028,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 124243,
@@ -737,14 +825,6 @@
       "onboard_time": 1702145006,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111827,
-      "num": 1041924,
-      "word": "太空种菜还能调节航天员情绪",
-      "onboard_time": 1702127918,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106847,

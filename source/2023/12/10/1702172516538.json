@@ -1,0 +1,410 @@
+{
+  "runTime": 1702172516538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1881957,
+        "num": 1881957,
+        "word": "饶雪漫谈八年不敢联系陈都灵",
+        "onboard_time": 1702165522,
+        "rank": 0,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 734261,
+        "num": 734261,
+        "word": "难哄 别哄了",
+        "onboard_time": 1702170929,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125753,
+        "num": 666570,
+        "word": "太空种菜还能调节航天员情绪",
+        "onboard_time": 1702127918,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1286403,
+        "num": 665821,
+        "word": "冰箱门上放牛奶隐患有多大",
+        "onboard_time": 1702168226,
+        "rank": 3,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 650528,
+        "num": 650528,
+        "word": "娜扎经纪人 造型参考人物是维纳斯",
+        "onboard_time": 1702167086,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 560133,
+        "num": 560133,
+        "word": "第一学历",
+        "onboard_time": 1702136075,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523412,
+        "num": 523412,
+        "word": "男子解开安全带拿吃的致一死一伤",
+        "onboard_time": 1702165824,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478750,
+        "num": 478750,
+        "word": "菲船只故意冲撞我海警船",
+        "onboard_time": 1702169550,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 437684,
+        "num": 437684,
+        "word": "程少商这一世还不选袁善见",
+        "onboard_time": 1702165883,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429705,
+        "num": 429705,
+        "word": "赵丽颖 女二",
+        "onboard_time": 1702120956,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1300710,
+        "num": 424034,
+        "word": "一个人不舔人的社会从尊重服务业开始",
+        "onboard_time": 1702168108,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 391883,
+        "num": 391883,
+        "word": "吉祥航空承认因失误导致乘客滞留机场",
+        "onboard_time": 1702164440,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359809,
+        "num": 359809,
+        "word": "TheShy 降薪",
+        "onboard_time": 1702164018,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 336166,
+        "num": 336166,
+        "word": "塌腰",
+        "onboard_time": 1702131942,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326837,
+        "num": 326837,
+        "word": "张雪峰再回应文科都是服务业",
+        "onboard_time": 1702168649,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 323834,
+        "num": 323834,
+        "word": "外籍旅客优先登机致一女子滞留机场",
+        "onboard_time": 1702171470,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315078,
+        "num": 315078,
+        "word": "林俊杰南宁 吃太香了",
+        "onboard_time": 1702166546,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290549,
+        "num": 290549,
+        "word": "花花最近白得发亮",
+        "onboard_time": 1702137213,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277651,
+        "num": 277651,
+        "word": "许多人家有的这种石头可能致癌",
+        "onboard_time": 1702169008,
+        "rank": 18,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 268326,
+        "num": 268326,
+        "word": "专家称张雪峰言论过于极端",
+        "onboard_time": 1702144279,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510264,
+        "num": 265038,
+        "word": "乳腺舒服了",
+        "onboard_time": 1702170510,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251349,
+        "num": 251349,
+        "word": "拖拽妻儿男子回应称非常后悔",
+        "onboard_time": 1702138052,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246435,
+        "num": 246435,
+        "word": "林孝埈向刘少昂表达歉意",
+        "onboard_time": 1702164318,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231240,
+        "num": 231240,
+        "word": "男孩重症肺炎出院第二天上学再中招",
+        "onboard_time": 1702157053,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205775,
+        "num": 205775,
+        "word": "奔跑吧下期玩的是一个大反转",
+        "onboard_time": 1702170028,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205644,
+        "num": 205644,
+        "word": "以为许诗晴的孩子是man姐的",
+        "onboard_time": 1702167325,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204437,
+        "num": 204437,
+        "word": "人类数据库 AI生成图",
+        "onboard_time": 1702172249,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196471,
+        "num": 196471,
+        "word": "男子因一个热水器救了一栋楼",
+        "onboard_time": 1702172249,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194947,
+        "num": 194947,
+        "word": "黄晓明带儿子去迪士尼",
+        "onboard_time": 1702136315,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185509,
+        "num": 185509,
+        "word": "你不是我领导 哪凉快哪去",
+        "onboard_time": 1702169488,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180061,
+        "num": 180061,
+        "word": "服务业",
+        "onboard_time": 1702172069,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 178415,
+        "num": 178415,
+        "word": "日军军官从军日志记录南京大屠杀暴行",
+        "onboard_time": 1702172249,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176707,
+        "num": 176707,
+        "word": "谢娜孕吐反应特别严重",
+        "onboard_time": 1702157354,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176052,
+        "num": 176052,
+        "word": "阿森纳 裁判",
+        "onboard_time": 1702171595,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167777,
+        "num": 167777,
+        "word": "浙大学霸的笔记精美得像教科书",
+        "onboard_time": 1702172012,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166436,
+        "num": 166436,
+        "word": "曾黎找天津大姨盘头",
+        "onboard_time": 1702172312,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158227,
+        "num": 158227,
+        "word": "王楚钦说为莎莎分担的不够",
+        "onboard_time": 1702164922,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158048,
+        "num": 158048,
+        "word": "男女生都要注意的反PUA话术",
+        "onboard_time": 1702167207,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156873,
+        "num": 156873,
+        "word": "常华森 哭包",
+        "onboard_time": 1702171770,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156701,
+        "num": 156701,
+        "word": "实用还耐看的包包",
+        "onboard_time": 1702170451,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 150016,
+        "num": 150016,
+        "word": "省考 我必上岸",
+        "onboard_time": 1702168707,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146521,
+        "num": 146521,
+        "word": "下周天气就一个字冷",
+        "onboard_time": 1702168528,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141897,
+        "num": 141897,
+        "word": "苏新皓 笔误",
+        "onboard_time": 1702168408,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139283,
+        "num": 139283,
+        "word": "感冒了多喝水有助于身体恢复吗",
+        "onboard_time": 1702164801,
+        "rank": 43,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 136282,
+        "num": 136282,
+        "word": "熊猫幼崽向妈妈发起强制贴贴",
+        "onboard_time": 1702171171,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134620,
+        "num": 134620,
+        "word": "王嘉尔上海",
+        "onboard_time": 1702170990,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134221,
+        "num": 134221,
+        "word": "李同光 疯批小狗",
+        "onboard_time": 1702168167,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132399,
+        "num": 132399,
+        "word": "AG一诺 想过不打了",
+        "onboard_time": 1702169488,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128060,
+        "num": 128060,
+        "word": "广州马拉松鸣枪起跑",
+        "onboard_time": 1702170028,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127232,
+        "num": 127232,
+        "word": "男子地铁内撕国旗被大哥霸气制止",
+        "onboard_time": 1702172491,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
