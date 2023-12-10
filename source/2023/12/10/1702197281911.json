@@ -1,0 +1,410 @@
+{
+  "runTime": 1702197281911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1990000,
+        "num": 1990000,
+        "word": "杨丞琳说河南人爱骗人",
+        "onboard_time": 1702186534,
+        "rank": 0,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 1896118,
+        "num": 1896118,
+        "word": "六年的感情比不过比赛的规则",
+        "onboard_time": 1702192652,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157544,
+        "num": 1835923,
+        "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
+        "onboard_time": 1702193552,
+        "rank": 2,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 1817353,
+        "num": 1817353,
+        "word": "刘若英北京四合院",
+        "onboard_time": 1702191452,
+        "rank": 3,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 981296,
+        "num": 981296,
+        "word": "单价35元包包成年轻人时尚新宠",
+        "onboard_time": 1702193853,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 486100,
+        "num": 486100,
+        "word": "林俊杰演唱会回应舞蹈被恶搞配音",
+        "onboard_time": 1702193372,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 483618,
+        "num": 483618,
+        "word": "刘宇宁 作为演员颜值也应该重视",
+        "onboard_time": 1702196495,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425436,
+        "num": 425436,
+        "word": "他燃烧了一整夜 却倒在了黎明前",
+        "onboard_time": 1702194152,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345425,
+        "num": 407317,
+        "word": "女子离职后退600多个工作群",
+        "onboard_time": 1702184374,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331467,
+        "num": 393189,
+        "word": "浙江队 禁赛",
+        "onboard_time": 1702194031,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392156,
+        "num": 392156,
+        "word": "刘宇宁说不会因为负评放弃做演员",
+        "onboard_time": 1702195535,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374025,
+        "num": 374025,
+        "word": "范闲五年后成了高三班主任",
+        "onboard_time": 1702187495,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365437,
+        "num": 365437,
+        "word": "难哄 别哄了",
+        "onboard_time": 1702170929,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267442,
+        "num": 267442,
+        "word": "猫咖20余只猫被锁店里饿到自相残杀",
+        "onboard_time": 1702172793,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252030,
+        "num": 252030,
+        "word": "4岁女孩穿汉服滑雪如御剑飞行",
+        "onboard_time": 1702191332,
+        "rank": 14,
+        "category": "社会新闻,运动健身"
+      },
+      {
+        "raw_hot": 315089,
+        "num": 251133,
+        "word": "朝阳打歌中心 停播",
+        "onboard_time": 1702187074,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263875,
+        "num": 250866,
+        "word": "阿音和嫋嫋打架谁能赢",
+        "onboard_time": 1702196253,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246083,
+        "num": 246083,
+        "word": "店主回应网传20只猫饿到自相残杀",
+        "onboard_time": 1702189232,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239359,
+        "num": 239359,
+        "word": "饶雪漫谈八年不敢联系陈都灵",
+        "onboard_time": 1702165522,
+        "rank": 18,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 237288,
+        "num": 237288,
+        "word": "人民日报神仙作文结尾",
+        "onboard_time": 1702192412,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322073,
+        "num": 237170,
+        "word": "五月天演唱会存在部分观众票证不符",
+        "onboard_time": 1702181672,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 262167,
+        "num": 230846,
+        "word": "秦岚请辛芷蕾赵昭仪吃铁锅炖",
+        "onboard_time": 1702194513,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243290,
+        "num": 230568,
+        "word": "张若昀台词听得我汗流浃背",
+        "onboard_time": 1702193730,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222378,
+        "num": 222378,
+        "word": "全国到底有多少股想你的风",
+        "onboard_time": 1702195890,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 199127,
+        "num": 199127,
+        "word": "人群对流感病毒其实普遍易感",
+        "onboard_time": 1702196431,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226620,
+        "num": 196319,
+        "word": "杨丞琳为郑州演唱会言论道歉",
+        "onboard_time": 1702188153,
+        "rank": 25,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 225754,
+        "num": 195262,
+        "word": "奔跑吧宋雨琦刮刮乐 根本劝不住",
+        "onboard_time": 1702194631,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193320,
+        "num": 193320,
+        "word": "gai浇饭",
+        "onboard_time": 1702187971,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 192487,
+        "num": 192487,
+        "word": "导游建议游客买一朵菊花献烈士",
+        "onboard_time": 1702175428,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190639,
+        "num": 190639,
+        "word": "张雪峰的饭碗思维",
+        "onboard_time": 1702189052,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181909,
+        "num": 181909,
+        "word": "男子骑共享单车忘付费1元欠6年",
+        "onboard_time": 1702176810,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163866,
+        "num": 163866,
+        "word": "敷面膜后不涂面霜皮肤会更干燥",
+        "onboard_time": 1702195170,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161756,
+        "num": 161756,
+        "word": "背考研政治给自己背笑了",
+        "onboard_time": 1702187074,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 158596,
+        "num": 158596,
+        "word": "3种食物再爱也要管住嘴",
+        "onboard_time": 1702190194,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154312,
+        "num": 154312,
+        "word": "长陵 刘亦菲",
+        "onboard_time": 1702179154,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150483,
+        "num": 150483,
+        "word": "上午刮刮乐 下午书法课",
+        "onboard_time": 1702181672,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 150429,
+        "num": 150429,
+        "word": "唐艺昕叫张若昀小张",
+        "onboard_time": 1702186177,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149896,
+        "num": 149896,
+        "word": "衢州突然成了年轻人的追星圣地",
+        "onboard_time": 1702196373,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146725,
+        "num": 146725,
+        "word": "长期主义",
+        "onboard_time": 1702196900,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145216,
+        "num": 145216,
+        "word": "虞书欣 哇哦",
+        "onboard_time": 1702179996,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140752,
+        "num": 140752,
+        "word": "单依纯 有票吗",
+        "onboard_time": 1702183597,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139888,
+        "num": 139888,
+        "word": "山东省考 一考一个不吱声",
+        "onboard_time": 1702178973,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 138798,
+        "num": 138798,
+        "word": "华晨宇版权",
+        "onboard_time": 1702191572,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127409,
+        "num": 127409,
+        "word": "间谍过家家 温馨的一家三口",
+        "onboard_time": 1702196072,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125194,
+        "num": 125194,
+        "word": "用计算器玩原神",
+        "onboard_time": 1702196852,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124865,
+        "num": 124865,
+        "word": "体育馆坍塌致3名学生死亡背后",
+        "onboard_time": 1702179393,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124228,
+        "num": 124228,
+        "word": "刘诗诗iDest四周年封面",
+        "onboard_time": 1702191397,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123586,
+        "num": 123586,
+        "word": "许诗晴 理想身材",
+        "onboard_time": 1702197213,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122670,
+        "num": 122670,
+        "word": "詹姆斯是否比肩乔丹",
+        "onboard_time": 1702196613,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120993,
+        "num": 120993,
+        "word": "15元自助餐顾客只吃一口鱼就扔",
+        "onboard_time": 1702180296,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把城市建设成为美丽家园#"
+    }
+  }
+}
