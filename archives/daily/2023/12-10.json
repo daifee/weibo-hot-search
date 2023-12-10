@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702200861961,
+  "endTime": 1702203437120,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -19,6 +19,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 2819751,
+      "num": 2819751,
+      "word": "八年了 她终于红了",
+      "onboard_time": 1702200275,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2535458,
       "num": 2535458,
       "word": "六年的感情比不过比赛的规则",
@@ -27,7 +35,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2041730,
+      "raw_hot": 2107064,
       "num": 2041730,
       "word": "你接受杨丞琳的道歉吗",
       "onboard_time": 1702186534,
@@ -91,6 +99,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1194250,
+      "num": 1194250,
+      "word": "山东申论 轻舟已撞大桥",
+      "onboard_time": 1702201475,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1194091,
       "num": 1064290,
       "word": "周一围 朱丹",
@@ -147,14 +163,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 1014426,
-      "num": 1014426,
-      "word": "八年了 她终于红了",
-      "onboard_time": 1702200275,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1011923,
       "num": 1011923,
       "word": "湖人总冠军",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 876345,
-      "num": 876345,
+      "num": 1050721,
       "word": "导游建议游客买一朵菊花献烈士",
       "onboard_time": 1702175428,
       "rank": 43,
@@ -216,6 +224,14 @@
       "word": "华润集团曝光四家假央企",
       "onboard_time": 1702176693,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840608,
+      "num": 840608,
+      "word": "雪雪雪雪雪来了",
+      "onboard_time": 1702197393,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -283,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 690501,
-      "num": 690501,
-      "word": "雪雪雪雪雪来了",
-      "onboard_time": 1702197393,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 688295,
+      "num": 688295,
+      "word": "戴美瞳 脸大",
+      "onboard_time": 1702202134,
+      "rank": 9,
+      "category": "美妆"
     },
     {
       "raw_hot": 685045,
@@ -427,8 +443,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 500683,
-      "num": 500683,
+      "raw_hot": 511692,
+      "num": 511692,
+      "word": "行测不发草稿纸 申论补上",
+      "onboard_time": 1702201656,
+      "rank": 13,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 502799,
+      "num": 502799,
       "word": "羽绒服 预售",
       "onboard_time": 1702199851,
       "rank": 11,
@@ -619,6 +643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 365728,
+      "num": 1535353,
+      "word": "反差爆改终于轮到我们丫丫",
+      "onboard_time": 1702198353,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365148,
       "num": 365148,
       "word": "林俊杰南宁 吃太香了",
@@ -747,12 +779,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302557,
+      "num": 302557,
+      "word": "上海行测 考个锤子",
+      "onboard_time": 1702202255,
+      "rank": 18,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 301734,
       "num": 301734,
       "word": "郑钧演唱会上表白刘芸",
       "onboard_time": 1702134999,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296528,
+      "num": 296528,
+      "word": "这个杀手不太冷有望内地上映",
+      "onboard_time": 1702197454,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 294544,
@@ -793,6 +841,14 @@
       "onboard_time": 1702174170,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 285489,
+      "num": 285489,
+      "word": "刘强东内网回应员工提问",
+      "onboard_time": 1702202854,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 284252,
@@ -939,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242120,
+      "num": 242120,
+      "word": "张云雷终于见到了何洁",
+      "onboard_time": 1702201357,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240361,
       "num": 240361,
       "word": "张杰又在搞事了",
@@ -977,14 +1041,6 @@
       "onboard_time": 1702176151,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237306,
-      "num": 205439,
-      "word": "这个杀手不太冷有望内地上映",
-      "onboard_time": 1702197454,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 236466,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1702180774,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227815,
+      "num": 227815,
+      "word": "夹子音 刚满十八岁",
+      "onboard_time": 1702202796,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 225295,
@@ -1251,6 +1315,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 198733,
+      "num": 198733,
+      "word": "中国队5000米接力铜牌",
+      "onboard_time": 1702203093,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194911,
       "num": 194911,
       "word": "鸣龙少年今晚开播",
@@ -1459,6 +1531,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 175308,
+      "num": 175308,
+      "word": "周传雄在演唱会上感谢周深和孟子义",
+      "onboard_time": 1702201714,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174027,
       "num": 174027,
       "word": "郑钧刘芸 爱在此刻具象化",
@@ -1619,6 +1699,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157562,
+      "num": 157562,
+      "word": "申论 一场酣畅淋漓的抄写",
+      "onboard_time": 1702201357,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 157408,
+      "num": 157408,
+      "word": "威神V朝阳打歌中心预告",
+      "onboard_time": 1702202974,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156873,
       "num": 156873,
       "word": "常华森 哭包",
@@ -1739,14 +1835,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145148,
-      "num": 145148,
-      "word": "反差爆改终于轮到我们丫丫",
-      "onboard_time": 1702198353,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144219,
       "num": 144219,
       "word": "浓眉41分20篮板",
@@ -1769,6 +1857,14 @@
       "onboard_time": 1702167566,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143061,
+      "num": 858730,
+      "word": "学校将领导办公室改造成罕见病学生专属教室",
+      "onboard_time": 1702202377,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142501,
@@ -1841,6 +1937,22 @@
       "onboard_time": 1702178132,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137765,
+      "num": 137765,
+      "word": "三大队",
+      "onboard_time": 1702201415,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 137521,
+      "num": 137521,
+      "word": "国标世界冠军 科目三",
+      "onboard_time": 1702203214,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 137017,
@@ -2003,6 +2115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125172,
+      "num": 504215,
+      "word": "甄嬛传的饼来了",
+      "onboard_time": 1702202436,
+      "rank": 14,
+      "category": "动漫,剧集"
+    },
+    {
       "raw_hot": 125017,
       "num": 120441,
       "word": "朱丹 你的文笔胜过你的表达",
@@ -2065,6 +2185,14 @@
       "onboard_time": 1702129357,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119901,
+      "num": 119901,
+      "word": "丁程鑫 低分贝游戏挑战",
+      "onboard_time": 1702202015,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 119895,
