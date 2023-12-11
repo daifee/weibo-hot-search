@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/12 06:34:55
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/12 07:18:21
 </p>
 </blockquote>
 <p>
@@ -2823,6 +2823,12 @@ EXO 下雪了（热度：807132）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%89%E8%82%9A%E5%AD%90%E5%8C%BB%E7%94%9F%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%B7%91%E8%B5%A2%E6%AD%BB%E7%A5%9E%23" target="weibo">
+男子拉肚子医生多问一句跑赢死神（热度：788090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%81%E8%80%83%20%E6%88%91%E5%BF%85%E4%B8%8A%E5%B2%B8%23" target="weibo">
 省考 我必上岸（热度：785562）
 </a>
@@ -2927,12 +2933,6 @@ EXO全员参加经纪人婚礼（热度：776699）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%20%E5%94%90%E4%BD%B3%E8%89%AF%23" target="weibo">
 杨鸣 唐佳良（热度：760584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%89%E8%82%9A%E5%AD%90%E5%8C%BB%E7%94%9F%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%E8%B7%91%E8%B5%A2%E6%AD%BB%E7%A5%9E%23" target="weibo">
-男子拉肚子医生多问一句跑赢死神（热度：759466）
 </a>
 </li>
 

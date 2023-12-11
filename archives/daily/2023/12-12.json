@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702334095262,
+  "endTime": 1702336701009,
   "band_list": [
     {
       "raw_hot": 3099903,
@@ -59,7 +59,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 730715,
+      "raw_hot": 788090,
       "num": 805179,
       "word": "男子拉肚子医生多问一句跑赢死神",
       "onboard_time": 1702306612,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299771,
+      "num": 299771,
+      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
+      "onboard_time": 1702322176,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281111,
       "num": 281111,
       "word": "晚安 仁川人",
@@ -171,20 +179,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249088,
+      "num": 249088,
+      "word": "网购衣服里发现焉栩嘉登机牌",
+      "onboard_time": 1702293995,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236564,
       "num": 236564,
       "word": "棣欣引力 湖南卫视跨年",
       "onboard_time": 1702303852,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222532,
-      "num": 222532,
-      "word": "网购衣服里发现焉栩嘉登机牌",
-      "onboard_time": 1702293995,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 215920,
@@ -201,6 +209,14 @@
       "onboard_time": 1702304216,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212248,
+      "num": 212248,
+      "word": "糟糕的家庭 总在小事上消耗孩子",
+      "onboard_time": 1702304036,
+      "rank": 35,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 199502,
@@ -259,12 +275,12 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 166637,
-      "num": 166637,
-      "word": "糟糕的家庭 总在小事上消耗孩子",
-      "onboard_time": 1702304036,
-      "rank": 35,
-      "category": "母婴育儿"
+      "raw_hot": 165212,
+      "num": 126760,
+      "word": "真正的睡觉vs虚假的睡觉",
+      "onboard_time": 1702330393,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 161396,
@@ -323,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144985,
+      "num": 386937,
+      "word": "2女子路遇3男子性骚扰勇敢拍下",
+      "onboard_time": 1702318937,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137210,
       "num": 137210,
       "word": "五月天",
@@ -355,20 +379,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 124661,
-      "num": 124661,
-      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
-      "onboard_time": 1702322176,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120344,
       "num": 120344,
       "word": "我国红斑狼疮患病率世界第二",
       "onboard_time": 1702307030,
       "rank": 46,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 99232,
+      "num": 99232,
+      "word": "1亿人正在经历这种被忽视的不定时疼痛",
+      "onboard_time": 1702335984,
+      "rank": 26,
+      "category": "健康医疗,社会议题"
     },
     {
       "raw_hot": 95792,
@@ -387,6 +411,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 93405,
+      "num": 113156,
+      "word": "物业回应小区业主欠水费800余万元",
+      "onboard_time": 1702301811,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87394,
       "num": 121349,
       "word": "烂手算工伤吗",
@@ -395,11 +427,43 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74879,
-      "num": 113156,
-      "word": "物业回应小区业主欠水费800余万元",
-      "onboard_time": 1702301811,
-      "rank": 49,
+      "raw_hot": 83158,
+      "num": 83158,
+      "word": "下雪某地变成某地",
+      "onboard_time": 1702329794,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 77061,
+      "num": 77061,
+      "word": "发烧血常规看懂是什么感染",
+      "onboard_time": 1702336344,
+      "rank": 33,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 75538,
+      "num": 75538,
+      "word": "绸缎般的头发",
+      "onboard_time": 1702335984,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 73472,
+      "num": 73472,
+      "word": "宋亚轩回应孔雀东南飞",
+      "onboard_time": 1702326735,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 72260,
+      "num": 72260,
+      "word": "冰天雪地里发现一棵鸭子树",
+      "onboard_time": 1702335984,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -411,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64986,
-      "num": 153968,
-      "word": "2女子路遇3男子性骚扰勇敢拍下",
-      "onboard_time": 1702318937,
-      "rank": 49,
+      "raw_hot": 68012,
+      "num": 68012,
+      "word": "渔民误捕一只两三百斤红海龟放生",
+      "onboard_time": 1702316838,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58745,
-      "num": 58745,
-      "word": "真正的睡觉vs虚假的睡觉",
-      "onboard_time": 1702330393,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 64907,
+      "num": 64907,
+      "word": "轮岗制在家庭生活中也适用",
+      "onboard_time": 1702334720,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 56260,
@@ -433,6 +497,14 @@
       "onboard_time": 1702302415,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54807,
+      "num": 54807,
+      "word": "颖儿神隐出场镜头",
+      "onboard_time": 1702335864,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 54143,
@@ -459,36 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41563,
-      "num": 41563,
-      "word": "下雪某地变成某地",
-      "onboard_time": 1702329794,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 40312,
       "num": 40312,
       "word": "谢娜只演女主角",
       "onboard_time": 1702317925,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38902,
-      "num": 38902,
-      "word": "宋亚轩回应孔雀东南飞",
-      "onboard_time": 1702326735,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 34589,
-      "num": 63793,
-      "word": "渔民误捕一只两三百斤红海龟放生",
-      "onboard_time": 1702316838,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30472,
@@ -523,8 +571,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 2266,
-      "num": 392516,
+      "raw_hot": 5244,
+      "num": 811629,
       "word": "太空视角见证中国式现代化",
       "onboard_time": 1702195112,
       "rank": 2,
