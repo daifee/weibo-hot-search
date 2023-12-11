@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702329360950,
+  "endTime": 1702330483528,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -6435,6 +6435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25635,
+      "num": 25635,
+      "word": "巴黎圣母院修复 女性劳动者",
+      "onboard_time": 1702327273,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25539,
       "num": 34537,
       "word": "你眼中的最强露娜",
@@ -6456,14 +6464,6 @@
       "word": "如何判断婚姻是否走到尽头",
       "onboard_time": 1702145658,
       "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 22875,
-      "num": 22875,
-      "word": "巴黎圣母院修复 女性劳动者",
-      "onboard_time": 1702327273,
-      "rank": 23,
       "category": "情感"
     },
     {
@@ -6499,6 +6499,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 17402,
+      "num": 17402,
+      "word": "宋亚轩回应孔雀东南飞",
+      "onboard_time": 1702326735,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16846,
       "num": 18531,
       "word": "广州马拉松",
@@ -6531,12 +6539,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 15866,
-      "num": 15866,
-      "word": "宋亚轩回应孔雀东南飞",
-      "onboard_time": 1702326735,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 13957,
+      "num": 13957,
+      "word": "下雪某地变成某地",
+      "onboard_time": 1702329794,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13772,
+      "num": 13772,
+      "word": "外国人应该挺难懂这些吧",
+      "onboard_time": 1702329432,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 13380,
@@ -6545,6 +6561,14 @@
       "onboard_time": 1702325173,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 12623,
+      "num": 13671,
+      "word": "真正的睡觉vs虚假的睡觉",
+      "onboard_time": 1702330393,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 11792,
