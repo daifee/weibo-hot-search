@@ -1,10 +1,10 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702298107223,
+  "endTime": 1702299050841,
   "band_list": [
     {
-      "raw_hot": 4138749,
-      "num": 4138749,
+      "raw_hot": 5464854,
+      "num": 5464854,
       "word": "周海媚",
       "onboard_time": 1702293694,
       "rank": 11,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4094029,
-      "num": 846634,
+      "num": 4067512,
       "word": "周海媚工作人员拒绝回应网传消息",
       "onboard_time": 1702296758,
       "rank": 4,
@@ -243,6 +243,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 926899,
+      "num": 926899,
+      "word": "我是不结婚 不是不交电费",
+      "onboard_time": 1702297181,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 925923,
       "num": 925923,
       "word": "张若昀你快删了吧",
@@ -411,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676620,
+      "num": 676620,
+      "word": "红斑狼疮",
+      "onboard_time": 1702298565,
+      "rank": 6,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 669336,
       "num": 391348,
       "word": "妈妈去世8个月留下1盘饺子",
@@ -459,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601288,
-      "num": 370919,
-      "word": "我是不结婚 不是不交电费",
-      "onboard_time": 1702297181,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 598992,
+      "num": 598992,
+      "word": "GQ员工吐槽 人间真实",
+      "onboard_time": 1702298138,
+      "rank": 12,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 592156,
@@ -537,6 +553,22 @@
       "onboard_time": 1702250664,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 542139,
+      "num": 542139,
+      "word": "160斤女生故宫体验一日格格",
+      "onboard_time": 1702295433,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 539791,
+      "num": 539791,
+      "word": "友人未能拨通周海媚电话",
+      "onboard_time": 1702298138,
+      "rank": 14,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 529536,
@@ -627,20 +659,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 483646,
-      "num": 483646,
-      "word": "160斤女生故宫体验一日格格",
-      "onboard_time": 1702295433,
-      "rank": 8,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 479730,
       "num": 479730,
       "word": "神隐 上厕所",
       "onboard_time": 1702292075,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 475605,
+      "num": 475605,
+      "word": "TheShy 故事迎来了完美结局",
+      "onboard_time": 1702297599,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 473891,
@@ -705,14 +737,6 @@
       "onboard_time": 1702259792,
       "rank": 9,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 432196,
-      "num": 432196,
-      "word": "TheShy 故事迎来了完美结局",
-      "onboard_time": 1702297599,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 429194,
@@ -860,7 +884,7 @@
     },
     {
       "raw_hot": 370789,
-      "num": 358594,
+      "num": 366767,
       "word": "应渊跳了夜华跳了你没跳",
       "onboard_time": 1702296456,
       "rank": 23,
@@ -945,6 +969,14 @@
       "onboard_time": 1702260152,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335527,
+      "num": 335527,
+      "word": "不婚女性群居共同养老",
+      "onboard_time": 1702295193,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 329918,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1702251387,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301629,
-      "num": 301629,
-      "word": "不婚女性群居共同养老",
-      "onboard_time": 1702295193,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 301519,
@@ -1220,7 +1244,7 @@
     },
     {
       "raw_hot": 263793,
-      "num": 371211,
+      "num": 449837,
       "word": "酸菜公司回应刘德华代言",
       "onboard_time": 1702296635,
       "rank": 19,
@@ -1835,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192983,
+      "num": 192983,
+      "word": "宁艺卓忘了微博密码",
+      "onboard_time": 1702298621,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192106,
       "num": 211587,
       "word": "郑州市发布暴雪红色预警",
@@ -1915,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179957,
+      "num": 179957,
+      "word": "反正化妆品最后会过期 敞开用吧",
+      "onboard_time": 1702298802,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 178494,
       "num": 178494,
       "word": "鸣龙少年 原生家庭",
@@ -1940,7 +1980,7 @@
     },
     {
       "raw_hot": 175959,
-      "num": 1141374,
+      "num": 1773277,
       "word": "全国粮食总产量再创历史新高",
       "onboard_time": 1702264892,
       "rank": 29,
