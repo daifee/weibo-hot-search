@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702279025340,
+  "endTime": 1702280052323,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -1355,6 +1355,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1582319,
+      "num": 1582319,
+      "word": "大胖媳妇喜提豪车",
+      "onboard_time": 1702276713,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1581016,
       "num": 1581016,
       "word": "丁程鑫 中考",
@@ -1436,7 +1444,7 @@
     },
     {
       "raw_hot": 1533574,
-      "num": 544297,
+      "num": 556790,
       "word": "律师称杨丞琳若被认定地域歧视需担责",
       "onboard_time": 1702270718,
       "rank": 10,
@@ -1729,14 +1737,6 @@
       "onboard_time": 1701596433,
       "rank": 5,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1394439,
-      "num": 1394439,
-      "word": "大胖媳妇喜提豪车",
-      "onboard_time": 1702276713,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1381895,
@@ -6995,6 +6995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 473415,
+      "num": 473415,
+      "word": "张凌赫当过老师",
+      "onboard_time": 1702278992,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473189,
       "num": 473189,
       "word": "WBG 续约",
@@ -8371,6 +8379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 414585,
+      "num": 414585,
+      "word": "成为了妈妈不喜欢的人",
+      "onboard_time": 1702278332,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 414366,
       "num": 414366,
       "word": "GQ的文案到底是谁在写",
@@ -8465,6 +8481,14 @@
       "onboard_time": 1701426693,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409407,
+      "num": 409407,
+      "word": "比目鱼系帅哥",
+      "onboard_time": 1702277492,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 409144,
@@ -9449,6 +9473,14 @@
       "onboard_time": 1701782437,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 375110,
+      "num": 375110,
+      "word": "王安宇 不吃水里的东西",
+      "onboard_time": 1702279293,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 374957,
@@ -10627,14 +10659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 338593,
-      "num": 338593,
-      "word": "比目鱼系帅哥",
-      "onboard_time": 1702277492,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 338484,
       "num": 338484,
       "word": "刘宇宁头套",
@@ -10961,6 +10985,14 @@
       "onboard_time": 1701778659,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329732,
+      "num": 329732,
+      "word": "快乐老友记 直播睡觉",
+      "onboard_time": 1702279354,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 329450,
@@ -13315,14 +13347,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 280184,
-      "num": 280184,
-      "word": "成为了妈妈不喜欢的人",
-      "onboard_time": 1702278332,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 280160,
       "num": 280160,
       "word": "泰国一旅游大巴发生车祸致14死35伤",
@@ -14057,6 +14081,14 @@
       "onboard_time": 1701564148,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267080,
+      "num": 267080,
+      "word": "车辆积雪司机偷懒挖2个洞上路",
+      "onboard_time": 1702278992,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267058,
@@ -15283,6 +15315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 243631,
+      "num": 243631,
+      "word": "王艺迪 第二排",
+      "onboard_time": 1702278691,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243610,
       "num": 243610,
       "word": "十个勤天",
@@ -15537,6 +15577,14 @@
       "onboard_time": 1702049679,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239081,
+      "num": 239081,
+      "word": "横宫七海去世",
+      "onboard_time": 1702279472,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 239044,
@@ -18323,14 +18371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204862,
-      "num": 204862,
-      "word": "张凌赫当过老师",
-      "onboard_time": 1702278992,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204719,
       "num": 185741,
       "word": "横店短剧 演员工资",
@@ -20155,12 +20195,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 189119,
-      "num": 189119,
-      "word": "王艺迪 第二排",
-      "onboard_time": 1702278691,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 189163,
+      "num": 189163,
+      "word": "王小波曾致信中国佛协会长想出家",
+      "onboard_time": 1702279171,
+      "rank": 33,
+      "category": "读书作家,社会新闻"
     },
     {
       "raw_hot": 189058,
@@ -21467,6 +21507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174867,
+      "num": 174867,
+      "word": "王一博卷毛吐舌",
+      "onboard_time": 1702276772,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 174793,
       "num": 174793,
       "word": "再见李可乐",
@@ -22075,6 +22123,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 168152,
+      "num": 168152,
+      "word": "秦岚辛芷蕾赵昭仪 新综艺",
+      "onboard_time": 1702279834,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168082,
       "num": 218031,
       "word": "孙颖莎今天比了三场",
@@ -22089,6 +22145,14 @@
       "onboard_time": 1702161916,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167988,
+      "num": 167988,
+      "word": "帮助结节变小的4个穴位",
+      "onboard_time": 1702279532,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 167962,
@@ -22353,14 +22417,6 @@
       "onboard_time": 1701689618,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 165443,
-      "num": 165443,
-      "word": "王一博卷毛吐舌",
-      "onboard_time": 1702276772,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165325,
@@ -23091,6 +23147,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 157511,
+      "num": 157511,
+      "word": "曹可凡宋轶合照",
+      "onboard_time": 1702279893,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157408,
       "num": 157408,
       "word": "威神V朝阳打歌中心预告",
@@ -23353,6 +23417,14 @@
       "onboard_time": 1701589473,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154605,
+      "num": 154605,
+      "word": "辛芷蕾妈妈也是搞笑女",
+      "onboard_time": 1702279354,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 154442,
@@ -23793,6 +23865,14 @@
       "onboard_time": 1702254814,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149470,
+      "num": 149470,
+      "word": "声理学评五月天演唱会直播多次跑调",
+      "onboard_time": 1702279955,
+      "rank": 45,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 149420,
@@ -24337,14 +24417,6 @@
       "onboard_time": 1701413372,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144864,
-      "num": 144864,
-      "word": "车辆积雪司机偷懒挖2个洞上路",
-      "onboard_time": 1702278992,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144779,
@@ -28339,6 +28411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35627,
+      "num": 414803,
+      "word": "白居易的老家原来在这儿",
+      "onboard_time": 1702278032,
+      "rank": 14,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 35068,
       "num": 35026,
       "word": "刘宇宁唱OST 替自己发声",
@@ -28601,14 +28681,6 @@
       "onboard_time": 1702062736,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23317,
-      "num": 344102,
-      "word": "白居易的老家原来在这儿",
-      "onboard_time": 1702278032,
-      "rank": 14,
-      "category": "读书作家"
     },
     {
       "raw_hot": 23281,
