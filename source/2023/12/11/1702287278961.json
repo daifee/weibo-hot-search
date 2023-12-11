@@ -1,0 +1,410 @@
+{
+  "runTime": 1702287278961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1870427,
+        "num": 1870427,
+        "word": "瑞幸咖啡师烂手之痛",
+        "onboard_time": 1702282713,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821246,
+        "num": 821246,
+        "word": "本来只有七个星期的年假",
+        "onboard_time": 1702282115,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44752,
+        "num": 781685,
+        "word": "致敬奋力拼搏的你",
+        "onboard_time": 1702280793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769650,
+        "num": 769650,
+        "word": "难哄 悬着的心终于死了",
+        "onboard_time": 1702274554,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 758821,
+        "num": 758821,
+        "word": "家长献血100ml子女可得2入学积分",
+        "onboard_time": 1702285416,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711600,
+        "num": 711600,
+        "word": "郑州女生推窗看暴雪不料窗户掉下楼",
+        "onboard_time": 1702283015,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624707,
+        "num": 624707,
+        "word": "大胖媳妇喜提豪车",
+        "onboard_time": 1702276713,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 609949,
+        "num": 609949,
+        "word": "快乐老友记 直播睡觉",
+        "onboard_time": 1702279354,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547039,
+        "num": 547039,
+        "word": "31岁国羽前国手溺亡",
+        "onboard_time": 1702281694,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 466880,
+        "num": 466880,
+        "word": "韩素希 没整鼻子",
+        "onboard_time": 1702280193,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1945912,
+        "num": 463618,
+        "word": "死者肯定是南方人",
+        "onboard_time": 1702280432,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 814259,
+        "num": 461987,
+        "word": "男子打骂待产女儿被妻子刺死",
+        "onboard_time": 1702273772,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 495076,
+        "num": 453590,
+        "word": "Rookie发18iG合照",
+        "onboard_time": 1702285232,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 442501,
+        "num": 442501,
+        "word": "范丞丞 范肠肠",
+        "onboard_time": 1702286675,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433632,
+        "num": 433632,
+        "word": "阚清子首谈被求婚过程",
+        "onboard_time": 1702273831,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412656,
+        "num": 412656,
+        "word": "现在股市为20年一遇机会",
+        "onboard_time": 1702284097,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 360803,
+        "num": 360803,
+        "word": "猪国迎来大危机",
+        "onboard_time": 1702282654,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357269,
+        "num": 357269,
+        "word": "瑞幸员工上班8小时触碰消毒水22次",
+        "onboard_time": 1702283917,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345122,
+        "num": 345122,
+        "word": "王安宇 不吃水里的东西",
+        "onboard_time": 1702279293,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293511,
+        "num": 293511,
+        "word": "李小鹏带女儿到澳门参加活动",
+        "onboard_time": 1702283197,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 669336,
+        "num": 282892,
+        "word": "妈妈去世8个月留下1盘饺子",
+        "onboard_time": 1702282236,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313668,
+        "num": 282862,
+        "word": "拍打臀部有助于防病",
+        "onboard_time": 1702281873,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271679,
+        "num": 271679,
+        "word": "律师称杨丞琳若被认定地域歧视需担责",
+        "onboard_time": 1702270718,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 266867,
+        "num": 266867,
+        "word": "一线城市房租跳水",
+        "onboard_time": 1702280672,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252742,
+        "num": 252742,
+        "word": "播音员将霉霉称作特拉维斯妻子",
+        "onboard_time": 1702285355,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 244926,
+        "num": 244926,
+        "word": "宋家三胞胎圣诞问候近照",
+        "onboard_time": 1702284336,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235122,
+        "num": 235122,
+        "word": "一念关山向李同光道歉",
+        "onboard_time": 1702274191,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234112,
+        "num": 234112,
+        "word": "恐怖谷效应",
+        "onboard_time": 1702286375,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225891,
+        "num": 225891,
+        "word": "成为了妈妈不喜欢的人",
+        "onboard_time": 1702278332,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114403,
+        "num": 225389,
+        "word": "00后现实版许三多腹部绕杠501个",
+        "onboard_time": 1702284157,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389533,
+        "num": 225380,
+        "word": "TheShy 对赌协议",
+        "onboard_time": 1702273715,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234836,
+        "num": 225362,
+        "word": "WBG 不官宣",
+        "onboard_time": 1702271733,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225323,
+        "num": 225323,
+        "word": "迪丽热巴和秦岚的温柔灵魂",
+        "onboard_time": 1702284635,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223231,
+        "num": 223231,
+        "word": "王牌对王牌 直播",
+        "onboard_time": 1702281694,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220899,
+        "num": 220899,
+        "word": "李现周雨彤春色寄情人下证",
+        "onboard_time": 1702285657,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209144,
+        "num": 209144,
+        "word": "樱兰高校男公关部 须王环",
+        "onboard_time": 1702284635,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 207379,
+        "num": 207379,
+        "word": "火锅店给客人吃3年口水油",
+        "onboard_time": 1702273054,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201129,
+        "num": 201129,
+        "word": "YSKM",
+        "onboard_time": 1702280852,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200143,
+        "num": 200143,
+        "word": "南北方羊肉的区别有多大",
+        "onboard_time": 1702286734,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184728,
+        "num": 184728,
+        "word": "wolf 所有奖金到现在杳无音讯",
+        "onboard_time": 1702282356,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181263,
+        "num": 181263,
+        "word": "赵露思 湖南卫视跨年",
+        "onboard_time": 1702287094,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179725,
+        "num": 179725,
+        "word": "0713 友情",
+        "onboard_time": 1702285716,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175157,
+        "num": 175157,
+        "word": "秦岚辛芷蕾赵昭仪 新综艺",
+        "onboard_time": 1702279834,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171659,
+        "num": 171659,
+        "word": "薛之谦演唱会提词器",
+        "onboard_time": 1702285299,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171651,
+        "num": 171651,
+        "word": "雪地靴 堆堆袜",
+        "onboard_time": 1702271018,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167418,
+        "num": 167418,
+        "word": "男大学生问谁是张万森啊",
+        "onboard_time": 1702284816,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162443,
+        "num": 162443,
+        "word": "非自然死亡团队新作官宣",
+        "onboard_time": 1702282414,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157320,
+        "num": 157320,
+        "word": "张凌赫当过老师",
+        "onboard_time": 1702278992,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157068,
+        "num": 157068,
+        "word": "神隐是千古玦尘的今生",
+        "onboard_time": 1702285416,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152267,
+        "num": 152267,
+        "word": "WE官宣Wayward加入",
+        "onboard_time": 1702282056,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界经济活力充分迸发出来#"
+    }
+  }
+}

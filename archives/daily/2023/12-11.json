@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702286367199,
+  "endTime": 1702287278961,
   "band_list": [
     {
       "raw_hot": 2688913,
@@ -67,20 +67,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1870427,
+      "num": 1870427,
+      "word": "瑞幸咖啡师烂手之痛",
+      "onboard_time": 1702282713,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1796093,
       "num": 1796093,
       "word": "难哄 悬着的心终于死了",
       "onboard_time": 1702274554,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1726867,
-      "num": 1726867,
-      "word": "瑞幸咖啡师烂手之痛",
-      "onboard_time": 1702282713,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1582319,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 821246,
+      "num": 821246,
+      "word": "本来只有七个星期的年假",
+      "onboard_time": 1702282115,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 807355,
       "num": 807355,
       "word": "多省公务员考试考生直呼心凉",
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 758821,
+      "num": 758821,
+      "word": "家长献血100ml子女可得2入学积分",
+      "onboard_time": 1702285416,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758378,
       "num": 758378,
       "word": "火锅店给客人吃3年口水油",
@@ -291,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 711600,
+      "num": 711600,
+      "word": "郑州女生推窗看暴雪不料窗户掉下楼",
+      "onboard_time": 1702283015,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 685795,
       "num": 685795,
       "word": "北京下雪",
@@ -299,11 +323,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 654337,
-      "num": 654337,
-      "word": "郑州女生推窗看暴雪不料窗户掉下楼",
-      "onboard_time": 1702283015,
-      "rank": 25,
+      "raw_hot": 669336,
+      "num": 311183,
+      "word": "妈妈去世8个月留下1盘饺子",
+      "onboard_time": 1702282236,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -347,14 +371,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 587474,
-      "num": 311183,
-      "word": "妈妈去世8个月留下1盘饺子",
-      "onboard_time": 1702282236,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587264,
       "num": 561676,
       "word": "张万森 雪崩了",
@@ -368,14 +384,6 @@
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1702251326,
       "rank": 4,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 585607,
-      "num": 585607,
-      "word": "本来只有七个星期的年假",
-      "onboard_time": 1702282115,
-      "rank": 24,
       "category": "情感"
     },
     {
@@ -433,14 +441,6 @@
       "onboard_time": 1702259492,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 517344,
-      "num": 517344,
-      "word": "家长献血100ml子女可得2入学积分",
-      "onboard_time": 1702285416,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 513430,
@@ -537,6 +537,14 @@
       "onboard_time": 1702261052,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 442501,
+      "num": 442501,
+      "word": "范丞丞 范肠肠",
+      "onboard_time": 1702286675,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 432529,
@@ -681,6 +689,14 @@
       "onboard_time": 1702220139,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 360803,
+      "num": 360803,
+      "word": "猪国迎来大危机",
+      "onboard_time": 1702282654,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 357523,
@@ -1115,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234112,
+      "num": 234112,
+      "word": "恐怖谷效应",
+      "onboard_time": 1702286375,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231859,
       "num": 231859,
       "word": "养猫 精神分裂风险",
@@ -1211,8 +1235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219271,
-      "num": 219271,
+      "raw_hot": 220899,
+      "num": 220899,
       "word": "李现周雨彤春色寄情人下证",
       "onboard_time": 1702285657,
       "rank": 33,
@@ -1291,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208043,
-      "num": 208043,
-      "word": "猪国迎来大危机",
-      "onboard_time": 1702282654,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 206631,
       "num": 206631,
       "word": "堆雪人",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1702262553,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200143,
+      "num": 200143,
+      "word": "南北方羊肉的区别有多大",
+      "onboard_time": 1702286734,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 199756,
@@ -1497,6 +1521,14 @@
       "onboard_time": 1702270417,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181263,
+      "num": 181263,
+      "word": "赵露思 湖南卫视跨年",
+      "onboard_time": 1702287094,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 181124,
@@ -2019,6 +2051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114403,
+      "num": 228308,
+      "word": "00后现实版许三多腹部绕杠501个",
+      "onboard_time": 1702284157,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113735,
       "num": 113735,
       "word": "林俊杰JJ20收官场",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1702216662,
       "rank": 44,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 106889,
-      "num": 228308,
-      "word": "00后现实版许三多腹部绕杠501个",
-      "onboard_time": 1702284157,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104763,
