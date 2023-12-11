@@ -1,0 +1,410 @@
+{
+  "runTime": 1702264764331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1944481,
+        "num": 1944481,
+        "word": "观众还原杨丞琳冒犯言论现场情况",
+        "onboard_time": 1702260152,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1381468,
+        "num": 1381468,
+        "word": "故宫闭馆",
+        "onboard_time": 1702255415,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 33419,
+        "num": 1152076,
+        "word": "近期呼吸道疾病防治注意事项",
+        "onboard_time": 1702212338,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975610,
+        "num": 975610,
+        "word": "美国一架F16战斗机在黄海坠毁",
+        "onboard_time": 1702259671,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 942366,
+        "num": 942366,
+        "word": "嘉人 肖战",
+        "onboard_time": 1702261294,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 908566,
+        "num": 908566,
+        "word": "林孝埈退出首尔站比赛",
+        "onboard_time": 1702261954,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 883991,
+        "num": 883991,
+        "word": "时尚芭莎 王一博",
+        "onboard_time": 1702263032,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 651276,
+        "num": 651276,
+        "word": "曾经的龙葵 现在的任辛",
+        "onboard_time": 1702256914,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 617864,
+        "num": 617864,
+        "word": "猪场饲养员洗澡后穿内裤罚款200",
+        "onboard_time": 1702263153,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589038,
+        "num": 589038,
+        "word": "多省公务员考试考生直呼心凉",
+        "onboard_time": 1702259792,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 2221631,
+        "num": 571705,
+        "word": "张雪峰称河南人不爱骗人",
+        "onboard_time": 1702260272,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592156,
+        "num": 543153,
+        "word": "血常规报告单一文读懂",
+        "onboard_time": 1702263093,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 500207,
+        "num": 500207,
+        "word": "专家回应公务员考试考生多地考试现象",
+        "onboard_time": 1702263454,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 450325,
+        "num": 450325,
+        "word": "多部门回应杨丞琳说河南人爱骗人",
+        "onboard_time": 1702220980,
+        "rank": 13,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 431641,
+        "num": 431641,
+        "word": "一念关山回应不带常华森",
+        "onboard_time": 1702259492,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354790,
+        "num": 354790,
+        "word": "开封一下雪就成了汴梁",
+        "onboard_time": 1702259792,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 335643,
+        "num": 335643,
+        "word": "TheShy 转会期",
+        "onboard_time": 1702251507,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325145,
+        "num": 325145,
+        "word": "八年了 她终于红了",
+        "onboard_time": 1702200275,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294288,
+        "num": 294288,
+        "word": "余承东怒怼懂车帝",
+        "onboard_time": 1702258890,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 278105,
+        "num": 278105,
+        "word": "张万森 雪崩了",
+        "onboard_time": 1702217502,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1175823,
+        "num": 276997,
+        "word": "很多情侣谈久了关系很畸形",
+        "onboard_time": 1702259253,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309809,
+        "num": 276181,
+        "word": "王阳明 放纵欲望才是痛苦的根源",
+        "onboard_time": 1702261052,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273525,
+        "num": 273525,
+        "word": "A股",
+        "onboard_time": 1702259192,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229082,
+        "num": 229082,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1702251326,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287853,
+        "num": 228837,
+        "word": "小米重回国产品牌第一",
+        "onboard_time": 1702263333,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216045,
+        "num": 216045,
+        "word": "下雪后的北京秒变北平",
+        "onboard_time": 1702259852,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203908,
+        "num": 203908,
+        "word": "始祖巨人衣架",
+        "onboard_time": 1702263093,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 202550,
+        "num": 202550,
+        "word": "陈思诚 感谢家人们给我的名字",
+        "onboard_time": 1702250664,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200372,
+        "num": 200372,
+        "word": "陈都灵大梦归离紫衣路透",
+        "onboard_time": 1702262553,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199756,
+        "num": 199756,
+        "word": "看了嘴角上扬的治愈瞬间",
+        "onboard_time": 1702264291,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331793,
+        "num": 193782,
+        "word": "孙颖莎 冠军离不开全队的付出",
+        "onboard_time": 1702264473,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186705,
+        "num": 186705,
+        "word": "总是腿脚冰凉当心是血管堵了",
+        "onboard_time": 1702261653,
+        "rank": 31,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 177681,
+        "num": 177681,
+        "word": "缅北四大家族",
+        "onboard_time": 1702219238,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175866,
+        "num": 175866,
+        "word": "台湾中学教师怒批去中国化课纲",
+        "onboard_time": 1702246214,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174884,
+        "num": 174884,
+        "word": "明星艺考照",
+        "onboard_time": 1702264473,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170826,
+        "num": 170826,
+        "word": "高耀洁医生去世",
+        "onboard_time": 1702264653,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170265,
+        "num": 170265,
+        "word": "金泰亨入伍",
+        "onboard_time": 1702260152,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164846,
+        "num": 164846,
+        "word": "张万森林北星 暗恋缩影",
+        "onboard_time": 1702263093,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151586,
+        "num": 151586,
+        "word": "山西原平一高速疑因下雪多车相撞",
+        "onboard_time": 1702264653,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150511,
+        "num": 150511,
+        "word": "花花58码的jiojio和脸脸一样大",
+        "onboard_time": 1702219541,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147582,
+        "num": 147582,
+        "word": "华晨宇关晓彤跳queencard",
+        "onboard_time": 1702251387,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143620,
+        "num": 143620,
+        "word": "金泰亨金南俊入伍",
+        "onboard_time": 1702261890,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141522,
+        "num": 141522,
+        "word": "都怪年轻时候写歌没轻没重",
+        "onboard_time": 1702256073,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138892,
+        "num": 138892,
+        "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
+        "onboard_time": 1702236734,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138036,
+        "num": 138036,
+        "word": "周一恐惧症",
+        "onboard_time": 1702262912,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137841,
+        "num": 137841,
+        "word": "张若昀你快删了吧",
+        "onboard_time": 1702216541,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30703,
+        "num": 136336,
+        "word": "万茜戏里戏外反差感",
+        "onboard_time": 1702264594,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136135,
+        "num": 136135,
+        "word": "宠儿 退役",
+        "onboard_time": 1702259852,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133460,
+        "num": 133460,
+        "word": "新乡发布临时停课通知",
+        "onboard_time": 1702251326,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 133204,
+        "num": 133204,
+        "word": "华为首家海外工厂将落地法国",
+        "onboard_time": 1702263272,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}

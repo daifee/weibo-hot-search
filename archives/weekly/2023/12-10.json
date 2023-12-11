@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702262506199,
+  "endTime": 1702264764331,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2221631,
+      "num": 1281983,
+      "word": "张雪峰称河南人不爱骗人",
+      "onboard_time": 1702260272,
+      "rank": 5,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 2203938,
       "num": 2203938,
       "word": "缅北",
@@ -115,20 +123,20 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 1944481,
+      "num": 1944481,
+      "word": "观众还原杨丞琳冒犯言论现场情况",
+      "onboard_time": 1702260152,
+      "rank": 1,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1939077,
       "num": 1939077,
       "word": "刘若英北京四合院",
       "onboard_time": 1702191452,
       "rank": 10,
       "category": "旅游,艺人"
-    },
-    {
-      "raw_hot": 1810182,
-      "num": 1810182,
-      "word": "观众还原杨丞琳冒犯言论现场情况",
-      "onboard_time": 1702260152,
-      "rank": 1,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1770263,
@@ -185,14 +193,6 @@
       "onboard_time": 1702205915,
       "rank": 11,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1281983,
-      "num": 1281983,
-      "word": "张雪峰称河南人不爱骗人",
-      "onboard_time": 1702260272,
-      "rank": 5,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1248477,
@@ -371,12 +371,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 942366,
+      "num": 942366,
+      "word": "嘉人 肖战",
+      "onboard_time": 1702261294,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 938131,
       "num": 938131,
       "word": "缅北四大家族",
       "onboard_time": 1702219238,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 908566,
+      "num": 908566,
+      "word": "林孝埈退出首尔站比赛",
+      "onboard_time": 1702261954,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 907111,
@@ -401,6 +417,14 @@
       "onboard_time": 1702180532,
       "rank": 5,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 883991,
+      "num": 883991,
+      "word": "时尚芭莎 王一博",
+      "onboard_time": 1702263032,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 882816,
@@ -675,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 617864,
+      "num": 617864,
+      "word": "猪场饲养员洗澡后穿内裤罚款200",
+      "onboard_time": 1702263153,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615447,
       "num": 615447,
       "word": "刘少昂1000米夺金",
@@ -691,12 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 599284,
-      "num": 599284,
-      "word": "嘉人 肖战",
-      "onboard_time": 1702261294,
-      "rank": 13,
-      "category": "艺人,时尚"
+      "raw_hot": 592156,
+      "num": 543153,
+      "word": "血常规报告单一文读懂",
+      "onboard_time": 1702263093,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 587185,
@@ -737,14 +769,6 @@
       "onboard_time": 1702251387,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556293,
-      "num": 556293,
-      "word": "林孝埈退出首尔站比赛",
-      "onboard_time": 1702261954,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 554185,
@@ -857,6 +881,14 @@
       "onboard_time": 1702204895,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 500207,
+      "num": 500207,
+      "word": "专家回应公务员考试考生多地考试现象",
+      "onboard_time": 1702263454,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 497266,
@@ -1292,7 +1324,7 @@
     },
     {
       "raw_hot": 345164,
-      "num": 273141,
+      "num": 276181,
       "word": "王阳明 放纵欲望才是痛苦的根源",
       "onboard_time": 1702261052,
       "rank": 30,
@@ -1360,6 +1392,14 @@
       "word": "安宰贤被打一个踉跄",
       "onboard_time": 1702216780,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331793,
+      "num": 193782,
+      "word": "孙颖莎 冠军离不开全队的付出",
+      "onboard_time": 1702264473,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1593,6 +1633,14 @@
       "onboard_time": 1702174170,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 287853,
+      "num": 228837,
+      "word": "小米重回国产品牌第一",
+      "onboard_time": 1702263333,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 287074,
@@ -2355,6 +2403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 203908,
+      "num": 203908,
+      "word": "始祖巨人衣架",
+      "onboard_time": 1702263093,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201107,
       "num": 201107,
       "word": "宠儿 退役",
@@ -2387,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200372,
+      "num": 200372,
+      "word": "陈都灵大梦归离紫衣路透",
+      "onboard_time": 1702262553,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200038,
       "num": 200038,
       "word": "唐嫣清宫造型",
@@ -2401,6 +2465,14 @@
       "onboard_time": 1702213597,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199756,
+      "num": 199756,
+      "word": "看了嘴角上扬的治愈瞬间",
+      "onboard_time": 1702264291,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199714,
@@ -2601,6 +2673,14 @@
       "onboard_time": 1702181974,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186705,
+      "num": 186705,
+      "word": "总是腿脚冰凉当心是血管堵了",
+      "onboard_time": 1702261653,
+      "rank": 43,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 186690,
@@ -2859,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174884,
+      "num": 174884,
+      "word": "明星艺考照",
+      "onboard_time": 1702264473,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174295,
       "num": 174295,
       "word": "国乒8比1击败韩国",
@@ -2889,14 +2977,6 @@
       "onboard_time": 1702220139,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173272,
-      "num": 173272,
-      "word": "总是腿脚冰凉当心是血管堵了",
-      "onboard_time": 1702261653,
-      "rank": 43,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 173196,
@@ -2936,6 +3016,14 @@
       "word": "下周天气就一个字冷",
       "onboard_time": 1702168528,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170826,
+      "num": 170826,
+      "word": "高耀洁医生去世",
+      "onboard_time": 1702264653,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3017,6 +3105,14 @@
       "onboard_time": 1702179031,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164846,
+      "num": 164846,
+      "word": "张万森林北星 暗恋缩影",
+      "onboard_time": 1702263093,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 164618,
@@ -3201,6 +3297,14 @@
       "onboard_time": 1702178613,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151586,
+      "num": 151586,
+      "word": "山西原平一高速疑因下雪多车相撞",
+      "onboard_time": 1702264653,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151532,
@@ -3459,6 +3563,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 138036,
+      "num": 138036,
+      "word": "周一恐惧症",
+      "onboard_time": 1702262912,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137848,
       "num": 137848,
       "word": "太阳三巨头要合体了",
@@ -3561,6 +3673,14 @@
       "onboard_time": 1702203694,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133204,
+      "num": 133204,
+      "word": "华为首家海外工厂将落地法国",
+      "onboard_time": 1702263272,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 131064,
@@ -4175,6 +4295,14 @@
       "num": 30756,
       "word": "WSJ 晚宴",
       "onboard_time": 1702162516,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30703,
+      "num": 136336,
+      "word": "万茜戏里戏外反差感",
+      "onboard_time": 1702264594,
       "rank": 46,
       "category": "艺人"
     },
