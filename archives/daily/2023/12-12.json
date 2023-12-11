@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702325987462,
+  "endTime": 1702326867454,
   "band_list": [
     {
       "raw_hot": 3099903,
@@ -427,7 +427,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 53288,
+      "raw_hot": 54024,
       "num": 22908,
       "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
       "onboard_time": 1702322176,
@@ -471,6 +471,14 @@
       "num": 30472,
       "word": "竞技体育 菜是原罪",
       "onboard_time": 1702319537,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13636,
+      "num": 14957,
+      "word": "宋亚轩回应孔雀东南飞",
+      "onboard_time": 1702326735,
       "rank": 45,
       "category": "综艺"
     },

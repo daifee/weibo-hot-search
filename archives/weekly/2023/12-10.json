@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702325987462,
+  "endTime": 1702326867454,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -6251,20 +6251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54024,
+      "num": 22908,
+      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
+      "onboard_time": 1702322176,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53325,
       "num": 43430,
       "word": "喻言一巡收官",
       "onboard_time": 1702144461,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 53288,
-      "num": 22908,
-      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
-      "onboard_time": 1702322176,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53253,
@@ -6521,6 +6521,14 @@
       "onboard_time": 1702247598,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13636,
+      "num": 14957,
+      "word": "宋亚轩回应孔雀东南飞",
+      "onboard_time": 1702326735,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 13380,
