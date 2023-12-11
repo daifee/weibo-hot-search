@@ -1,0 +1,410 @@
+{
+  "runTime": 1702258719180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2502632,
+        "num": 2502632,
+        "word": "故宫闭馆",
+        "onboard_time": 1702255415,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1720166,
+        "num": 1720166,
+        "word": "多部门回应杨丞琳说河南人爱骗人",
+        "onboard_time": 1702220980,
+        "rank": 1,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 58640,
+        "num": 1483467,
+        "word": "近期呼吸道疾病防治注意事项",
+        "onboard_time": 1702212338,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313699,
+        "num": 1313699,
+        "word": "新乡发布临时停课通知",
+        "onboard_time": 1702251326,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 796365,
+        "num": 796365,
+        "word": "曾经的龙葵 现在的任辛",
+        "onboard_time": 1702256914,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 546273,
+        "num": 546273,
+        "word": "陈思诚 感谢家人们给我的名字",
+        "onboard_time": 1702250664,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 527599,
+        "num": 527599,
+        "word": "张万森 雪崩了",
+        "onboard_time": 1702217502,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 518365,
+        "num": 518365,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1702251326,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434325,
+        "num": 434325,
+        "word": "缅北四大家族",
+        "onboard_time": 1702219238,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418010,
+        "num": 418010,
+        "word": "台湾中学教师怒批去中国化课纲",
+        "onboard_time": 1702246214,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571811,
+        "num": 393524,
+        "word": "河南媒体评杨丞琳道歉",
+        "onboard_time": 1702218341,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 365480,
+        "num": 365480,
+        "word": "花花58码的jiojio和脸脸一样大",
+        "onboard_time": 1702219541,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353886,
+        "num": 353886,
+        "word": "李宁年内股价跌近70%",
+        "onboard_time": 1702252410,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349316,
+        "num": 349316,
+        "word": "信 怎么办一会还要唱离歌",
+        "onboard_time": 1702219300,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 336098,
+        "num": 336098,
+        "word": "美参议员称中国大蒜威胁其国家安全",
+        "onboard_time": 1702252654,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332429,
+        "num": 332429,
+        "word": "老人握妻子手买人生第一套房",
+        "onboard_time": 1702251387,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321040,
+        "num": 321040,
+        "word": "刘少昂 我们都是中国队",
+        "onboard_time": 1702257215,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318784,
+        "num": 318784,
+        "word": "TheShy 转会期",
+        "onboard_time": 1702251507,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307798,
+        "num": 307798,
+        "word": "八年了 她终于红了",
+        "onboard_time": 1702200275,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297705,
+        "num": 297705,
+        "word": "张若昀你快删了吧",
+        "onboard_time": 1702216541,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293608,
+        "num": 293608,
+        "word": "华晨宇关晓彤跳queencard",
+        "onboard_time": 1702251387,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272911,
+        "num": 272911,
+        "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
+        "onboard_time": 1702236734,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255545,
+        "num": 255545,
+        "word": "懒人花苞头",
+        "onboard_time": 1702257094,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 250870,
+        "num": 250870,
+        "word": "济南中小学临时停课一天",
+        "onboard_time": 1702257753,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 238063,
+        "num": 238063,
+        "word": "都怪年轻时候写歌没轻没重",
+        "onboard_time": 1702256073,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228176,
+        "num": 228176,
+        "word": "余承东回应问界汽车冬测结果",
+        "onboard_time": 1702257693,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204908,
+        "num": 204908,
+        "word": "苹果计划2024年彻底改革iPad产品线",
+        "onboard_time": 1702252468,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203226,
+        "num": 203226,
+        "word": "猪肝到底是营养佳品还是毒素垃圾",
+        "onboard_time": 1702213778,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202263,
+        "num": 202263,
+        "word": "什么叫函数存在连续可导",
+        "onboard_time": 1702251748,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199714,
+        "num": 199714,
+        "word": "缅怀钱学森",
+        "onboard_time": 1702258653,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260288,
+        "num": 197663,
+        "word": "妈妈分享女儿每天的穿搭",
+        "onboard_time": 1702257572,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 194032,
+        "num": 194032,
+        "word": "高耀洁",
+        "onboard_time": 1702258292,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180724,
+        "num": 180724,
+        "word": "柯南吻戏 一刀没剪",
+        "onboard_time": 1702218282,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178435,
+        "num": 178435,
+        "word": "在暴雪时分预约人数破100万",
+        "onboard_time": 1702227565,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177696,
+        "num": 177696,
+        "word": "北京下雪",
+        "onboard_time": 1702223136,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172100,
+        "num": 172100,
+        "word": "EXO 下雪了",
+        "onboard_time": 1702222058,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170517,
+        "num": 170517,
+        "word": "2.2亿彩票一事需要有说服力的交代",
+        "onboard_time": 1702210232,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169884,
+        "num": 169884,
+        "word": "周深 最后一个月都顺顺利利",
+        "onboard_time": 1702253373,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164873,
+        "num": 164873,
+        "word": "宋轶谈自己曾被换角",
+        "onboard_time": 1702250123,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162838,
+        "num": 162838,
+        "word": "赵文卓惩罚学员很像教导主任",
+        "onboard_time": 1702255897,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160995,
+        "num": 160995,
+        "word": "林孝埈回应与刘少昂相撞",
+        "onboard_time": 1702252532,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151172,
+        "num": 151172,
+        "word": "老人凌晨去世鞭炮一响全村都去帮忙",
+        "onboard_time": 1702211076,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149513,
+        "num": 149513,
+        "word": "河南下雪",
+        "onboard_time": 1702254096,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146156,
+        "num": 146156,
+        "word": "12.9英寸iPadAir显示屏本月出货",
+        "onboard_time": 1702254096,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140555,
+        "num": 140555,
+        "word": "潘玮柏演唱会 椅子影响蹦迪",
+        "onboard_time": 1702254814,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137839,
+        "num": 137839,
+        "word": "下雪",
+        "onboard_time": 1702253795,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127302,
+        "num": 127302,
+        "word": "宋江居然是举芦荟胶内男的",
+        "onboard_time": 1702211856,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126598,
+        "num": 126598,
+        "word": "京东股价较年初跌幅超50%",
+        "onboard_time": 1702254814,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125516,
+        "num": 125516,
+        "word": "主播陈一发儿疑似复出再被封",
+        "onboard_time": 1702207414,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 125342,
+        "num": 125342,
+        "word": "原来高海宁是个甜妹",
+        "onboard_time": 1702255176,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}

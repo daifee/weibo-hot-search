@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702257443549,
+  "endTime": 1702258719180,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -539,6 +539,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 2502632,
+      "num": 2502632,
+      "word": "故宫闭馆",
+      "onboard_time": 1702255415,
+      "rank": 0,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 2449111,
       "num": 2449111,
       "word": "刘若英 我爱五月天",
@@ -625,14 +633,6 @@
       "onboard_time": 1702131942,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 2287814,
-      "num": 2287814,
-      "word": "故宫闭馆",
-      "onboard_time": 1702255415,
-      "rank": 0,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 2281877,
@@ -3353,6 +3353,14 @@
       "onboard_time": 1702004915,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 796365,
+      "num": 796365,
+      "word": "曾经的龙葵 现在的任辛",
+      "onboard_time": 1702256914,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 793766,
@@ -10827,6 +10835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 321040,
+      "num": 321040,
+      "word": "刘少昂 我们都是中国队",
+      "onboard_time": 1702257215,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320963,
       "num": 295767,
       "word": "玩梗 林俊杰舞蹈",
@@ -11017,14 +11033,6 @@
       "onboard_time": 1701831514,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 315564,
-      "num": 209354,
-      "word": "曾经的龙葵 现在的任辛",
-      "onboard_time": 1702256914,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 315488,
@@ -13276,7 +13284,7 @@
     },
     {
       "raw_hot": 274116,
-      "num": 209245,
+      "num": 255545,
       "word": "懒人花苞头",
       "onboard_time": 1702257094,
       "rank": 31,
@@ -13931,6 +13939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 260288,
+      "num": 197663,
+      "word": "妈妈分享女儿每天的穿搭",
+      "onboard_time": 1702257572,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 259836,
       "num": 259836,
       "word": "全红婵选拔赛亚军",
@@ -14401,6 +14417,14 @@
       "onboard_time": 1702118792,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250870,
+      "num": 250870,
+      "word": "济南中小学临时停课一天",
+      "onboard_time": 1702257753,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 250776,
@@ -15793,6 +15817,14 @@
       "onboard_time": 1701597394,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228176,
+      "num": 228176,
+      "word": "余承东回应问界汽车冬测结果",
+      "onboard_time": 1702257693,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 228119,
@@ -18195,6 +18227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199714,
+      "num": 199714,
+      "word": "缅怀钱学森",
+      "onboard_time": 1702258653,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199567,
       "num": 199567,
       "word": "日军军官从军日志记录南京大屠杀暴行",
@@ -18889,6 +18929,14 @@
       "onboard_time": 1701516755,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194032,
+      "num": 194032,
+      "word": "高耀洁",
+      "onboard_time": 1702258292,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193995,
@@ -24249,14 +24297,6 @@
       "onboard_time": 1701843571,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135858,
-      "num": 135858,
-      "word": "刘少昂 我们都是中国队",
-      "onboard_time": 1702257215,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 135804,
