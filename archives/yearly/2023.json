@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702300960766,
+  "endTime": 1702301628888,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -875,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 10437934,
+      "num": 10437934,
+      "word": "周海媚",
+      "onboard_time": 1702293694,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 10420054,
       "num": 10420054,
       "word": "青春修炼手册开场",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1674141269,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 9298578,
-      "num": 9298578,
-      "word": "周海媚",
-      "onboard_time": 1702293694,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 9291305,

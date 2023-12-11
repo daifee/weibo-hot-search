@@ -1,10 +1,10 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702300960766,
+  "endTime": 1702301628888,
   "band_list": [
     {
-      "raw_hot": 9298578,
-      "num": 9298578,
+      "raw_hot": 10437934,
+      "num": 10437934,
       "word": "周海媚",
       "onboard_time": 1702293694,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2233276,
+      "num": 2233276,
+      "word": "红斑狼疮",
+      "onboard_time": 1702298565,
+      "rank": 6,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 2203938,
       "num": 2203938,
       "word": "缅北",
@@ -115,20 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2177959,
-      "num": 2177959,
-      "word": "红斑狼疮",
-      "onboard_time": 1702298565,
-      "rank": 6,
-      "category": "艺人,健康医疗"
-    },
-    {
       "raw_hot": 2141650,
       "num": 2141650,
       "word": "张若昀你快删了吧",
       "onboard_time": 1702216541,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2121085,
+      "num": 2121085,
+      "word": "我是不结婚 不是不交电费",
+      "onboard_time": 1702297181,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 2107064,
@@ -177,14 +185,6 @@
       "onboard_time": 1702260152,
       "rank": 1,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1941693,
-      "num": 1941693,
-      "word": "我是不结婚 不是不交电费",
-      "onboard_time": 1702297181,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1939077,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 898527,
-      "num": 525254,
+      "num": 888681,
       "word": "小S发文悼念范玮琪妈妈",
       "onboard_time": 1702299280,
       "rank": 10,
@@ -1907,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351207,
+      "num": 351207,
+      "word": "一念关山中的黄梦莹",
+      "onboard_time": 1702300247,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351137,
       "num": 351137,
       "word": "王鹤棣 意气风发小将军",
@@ -2051,12 +2059,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 328837,
+      "num": 328837,
+      "word": "对方撤回了一个帅哥数学老师",
+      "onboard_time": 1702299885,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328447,
       "num": 328447,
       "word": "杨丞琳此前也曾因言论不当而进行道歉",
       "onboard_time": 1702295016,
       "rank": 25,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 326410,
+      "num": 326410,
+      "word": "郑秀妍和Amber拍了MV",
+      "onboard_time": 1702301391,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 323192,
@@ -2161,14 +2185,6 @@
       "onboard_time": 1702268436,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307086,
-      "num": 260321,
-      "word": "对方撤回了一个帅哥数学老师",
-      "onboard_time": 1702299885,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 306444,
@@ -2329,14 +2345,6 @@
       "onboard_time": 1702217860,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 289575,
-      "num": 289575,
-      "word": "一念关山中的黄梦莹",
-      "onboard_time": 1702300247,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 289139,
@@ -2553,6 +2561,14 @@
       "onboard_time": 1702164318,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270940,
+      "num": 367426,
+      "word": "警方回应男子倒卧雪中不幸身亡",
+      "onboard_time": 1702300732,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270579,
@@ -3531,8 +3547,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 204780,
-      "num": 204780,
+      "raw_hot": 204799,
+      "num": 204799,
       "word": "雪中故宫",
       "onboard_time": 1702300669,
       "rank": 40,
@@ -3569,6 +3585,14 @@
       "onboard_time": 1702263093,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 202712,
+      "num": 202712,
+      "word": "小撒炫多巴胺穿搭被康辉问到哑口无言",
+      "onboard_time": 1702301030,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 202004,
@@ -4355,6 +4379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171651,
+      "num": 171651,
+      "word": "KARINA GISELLE初雪Cha",
+      "onboard_time": 1702301574,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171352,
       "num": 171352,
       "word": "下周天气就一个字冷",
@@ -4979,14 +5011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143424,
-      "num": 205020,
-      "word": "警方回应男子倒卧雪中不幸身亡",
-      "onboard_time": 1702300732,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142705,
       "num": 142705,
       "word": "iG的一百胜",
@@ -5564,7 +5588,7 @@
     },
     {
       "raw_hot": 102821,
-      "num": 164395,
+      "num": 171638,
       "word": "世界羽联巡回赛总决赛抽签结果",
       "onboard_time": 1702299223,
       "rank": 49,
@@ -5852,7 +5876,7 @@
     },
     {
       "raw_hot": 47834,
-      "num": 1467103,
+      "num": 2653918,
       "word": "太空视角见证中国式现代化",
       "onboard_time": 1702195112,
       "rank": 2,
