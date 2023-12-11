@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702293376138,
+  "endTime": 1702294461657,
   "band_list": [
     {
       "raw_hot": 2688913,
@@ -123,7 +123,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1384646,
+      "raw_hot": 1446668,
       "num": 1384646,
       "word": "白岩松曾称中国人什么样河南人就什么样",
       "onboard_time": 1702289015,
@@ -153,6 +153,14 @@
       "onboard_time": 1702259253,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1225367,
+      "num": 567462,
+      "word": "周海媚",
+      "onboard_time": 1702293694,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1219317,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 855090,
+      "num": 855090,
+      "word": "于正 你能给赵晴一次机会吗",
+      "onboard_time": 1702291715,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 834936,
       "num": 834936,
       "word": "范玮琪母亲去世",
@@ -305,14 +321,6 @@
       "onboard_time": 1702280193,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 764200,
-      "num": 764200,
-      "word": "于正 你能给赵晴一次机会吗",
-      "onboard_time": 1702291715,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 758821,
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 584785,
-      "num": 392370,
+      "num": 402446,
       "word": "撒娇到一半发现不是主人",
       "onboard_time": 1702287632,
       "rank": 20,
@@ -571,6 +579,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 486519,
+      "num": 486519,
+      "word": "化妆 取悦",
+      "onboard_time": 1702293454,
+      "rank": 13,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 479730,
+      "num": 479730,
+      "word": "神隐 上厕所",
+      "onboard_time": 1702292075,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 473891,
       "num": 473891,
       "word": "余承东怒怼懂车帝",
@@ -619,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 436146,
+      "num": 436146,
+      "word": "网购衣服里发现焉栩嘉登机牌",
+      "onboard_time": 1702293995,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434230,
       "num": 1772187,
       "word": "暴雪过后考研男生雪中备考",
@@ -633,14 +665,6 @@
       "onboard_time": 1702259792,
       "rank": 9,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 430822,
-      "num": 430822,
-      "word": "神隐 上厕所",
-      "onboard_time": 1702292075,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 429194,
@@ -707,6 +731,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 386218,
+      "num": 1440799,
+      "word": "父亲背基因突变儿子1年爬了4座山",
+      "onboard_time": 1702292075,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383241,
       "num": 383241,
       "word": "王楚钦 冠军属于团队",
@@ -769,14 +801,6 @@
       "onboard_time": 1702283197,
       "rank": 30,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 368673,
-      "num": 1440799,
-      "word": "父亲背基因突变儿子1年爬了4座山",
-      "onboard_time": 1702292075,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 367175,
@@ -889,6 +913,14 @@
       "onboard_time": 1702264473,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315728,
+      "num": 220063,
+      "word": "乳腺疏通三步曲",
+      "onboard_time": 1702293694,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 312619,
@@ -1459,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211417,
+      "num": 205929,
+      "word": "王安宇 落地仙侠男主",
+      "onboard_time": 1702293335,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211355,
       "num": 211355,
       "word": "妻子落泪丈夫默默收行李带她回老家",
@@ -1891,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160618,
+      "num": 160618,
+      "word": "吉祥航空被指偏袒外籍旅客员工停职",
+      "onboard_time": 1702294293,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159360,
       "num": 159360,
       "word": "星汉灿烂也这么骗我的",
@@ -1995,6 +2043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150468,
+      "num": 150468,
+      "word": "鸡蛋黄越黄越有营养吗",
+      "onboard_time": 1702293516,
+      "rank": 49,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 150337,
       "num": 150337,
       "word": "三代齿轮新物料 抓马",
@@ -2073,14 +2129,6 @@
       "onboard_time": 1702273593,
       "rank": 36,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 145961,
-      "num": 145961,
-      "word": "王安宇 落地仙侠男主",
-      "onboard_time": 1702293335,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 145265,
@@ -2387,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94238,
+      "num": 511723,
+      "word": "马拉松中途跑鞋解体了",
+      "onboard_time": 1702292433,
+      "rank": 14,
+      "category": "运动健身,社会新闻"
+    },
+    {
       "raw_hot": 82808,
       "num": 82808,
       "word": "WBG纪录片 上野镜头",
@@ -2457,14 +2513,6 @@
       "onboard_time": 1702229003,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56833,
-      "num": 511723,
-      "word": "马拉松中途跑鞋解体了",
-      "onboard_time": 1702292433,
-      "rank": 14,
-      "category": "运动健身,社会新闻"
     },
     {
       "raw_hot": 56349,

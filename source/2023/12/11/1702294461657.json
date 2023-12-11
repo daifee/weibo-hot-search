@@ -1,0 +1,410 @@
+{
+  "runTime": 1702294461657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1571482,
+        "num": 1571482,
+        "word": "苹果老龄化",
+        "onboard_time": 1702287694,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 386218,
+        "num": 1415892,
+        "word": "父亲背基因突变儿子1年爬了4座山",
+        "onboard_time": 1702292075,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46733,
+        "num": 1389124,
+        "word": "致敬奋力拼搏的你",
+        "onboard_time": 1702280793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372920,
+        "num": 1372920,
+        "word": "结婚3个月离婚106万彩礼被判返还80万",
+        "onboard_time": 1702288054,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349918,
+        "num": 1136556,
+        "word": "暴雪过后考研男生雪中备考",
+        "onboard_time": 1702289317,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 953182,
+        "num": 953182,
+        "word": "范丞丞 范肠肠",
+        "onboard_time": 1702286675,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170422,
+        "num": 892335,
+        "word": "近90岁女画家守近万幅画坚决不卖",
+        "onboard_time": 1702287815,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855090,
+        "num": 855090,
+        "word": "于正 你能给赵晴一次机会吗",
+        "onboard_time": 1702291715,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611438,
+        "num": 611438,
+        "word": "范玮琪母亲去世",
+        "onboard_time": 1702289073,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603781,
+        "num": 603781,
+        "word": "北京下雪了 羊的天塌了",
+        "onboard_time": 1702289073,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1446668,
+        "num": 578329,
+        "word": "白岩松曾称中国人什么样河南人就什么样",
+        "onboard_time": 1702289015,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1225367,
+        "num": 567462,
+        "word": "周海媚",
+        "onboard_time": 1702293694,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501195,
+        "num": 501195,
+        "word": "GQ 有明星不想一起坐船",
+        "onboard_time": 1702289677,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 486519,
+        "num": 486519,
+        "word": "化妆 取悦",
+        "onboard_time": 1702293454,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 94238,
+        "num": 481327,
+        "word": "马拉松中途跑鞋解体了",
+        "onboard_time": 1702292433,
+        "rank": 14,
+        "category": "运动健身,社会新闻"
+      },
+      {
+        "raw_hot": 1004801,
+        "num": 480710,
+        "word": "死者肯定是南方人",
+        "onboard_time": 1702280432,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479730,
+        "num": 479730,
+        "word": "神隐 上厕所",
+        "onboard_time": 1702292075,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463695,
+        "num": 463695,
+        "word": "男子打骂待产女儿被妻子刺死",
+        "onboard_time": 1702273772,
+        "rank": 17,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 453809,
+        "num": 453809,
+        "word": "瑞幸咖啡师烂手之痛",
+        "onboard_time": 1702282713,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436146,
+        "num": 436146,
+        "word": "网购衣服里发现焉栩嘉登机牌",
+        "onboard_time": 1702293995,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562320,
+        "num": 402446,
+        "word": "撒娇到一半发现不是主人",
+        "onboard_time": 1702287632,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346665,
+        "num": 346665,
+        "word": "难哄 悬着的心终于死了",
+        "onboard_time": 1702274554,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317653,
+        "num": 317653,
+        "word": "肖战晒初雪雪人",
+        "onboard_time": 1702288595,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311591,
+        "num": 311591,
+        "word": "快乐老友记 直播睡觉",
+        "onboard_time": 1702279354,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290480,
+        "num": 290480,
+        "word": "妈妈去世8个月留下1盘饺子",
+        "onboard_time": 1702282236,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267185,
+        "num": 267185,
+        "word": "阴阳师 延期",
+        "onboard_time": 1702290934,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265153,
+        "num": 265153,
+        "word": "瑞幸员工上班8小时触碰消毒水22次",
+        "onboard_time": 1702283917,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262975,
+        "num": 262975,
+        "word": "家长献血100ml子女可得2入学积分",
+        "onboard_time": 1702285416,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241750,
+        "num": 241750,
+        "word": "韩素希 没整鼻子",
+        "onboard_time": 1702280193,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220171,
+        "num": 220171,
+        "word": "31岁国羽前国手溺亡",
+        "onboard_time": 1702281694,
+        "rank": 29,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 315728,
+        "num": 220063,
+        "word": "乳腺疏通三步曲",
+        "onboard_time": 1702293694,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 294477,
+        "num": 219848,
+        "word": "TheShy 对赌协议",
+        "onboard_time": 1702273715,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219056,
+        "num": 219056,
+        "word": "周深 汪苏泷我记你一辈子",
+        "onboard_time": 1702290816,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217314,
+        "num": 217314,
+        "word": "猪国迎来大危机",
+        "onboard_time": 1702282654,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212315,
+        "num": 212315,
+        "word": "神隐",
+        "onboard_time": 1702288476,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206634,
+        "num": 206634,
+        "word": "本来只有七个星期的年假",
+        "onboard_time": 1702282115,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211417,
+        "num": 205929,
+        "word": "王安宇 落地仙侠男主",
+        "onboard_time": 1702293335,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201089,
+        "num": 201089,
+        "word": "我这可是坐过王一博的船",
+        "onboard_time": 1702290578,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206464,
+        "num": 200414,
+        "word": "神隐今晚开播",
+        "onboard_time": 1702291357,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187349,
+        "num": 187349,
+        "word": "T1官宣Rekkles加入",
+        "onboard_time": 1702287632,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184127,
+        "num": 184127,
+        "word": "郑州女生推窗看暴雪不料窗户掉下楼",
+        "onboard_time": 1702283015,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172387,
+        "num": 172387,
+        "word": "一念关山向李同光道歉",
+        "onboard_time": 1702274191,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165215,
+        "num": 165215,
+        "word": "林俊杰 阿杜助阵好威风",
+        "onboard_time": 1702291896,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160618,
+        "num": 160618,
+        "word": "吉祥航空被指偏袒外籍旅客员工停职",
+        "onboard_time": 1702294293,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156961,
+        "num": 156961,
+        "word": "WBG 不官宣",
+        "onboard_time": 1702271733,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155740,
+        "num": 155740,
+        "word": "Rookie发18iG合照",
+        "onboard_time": 1702285232,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153610,
+        "num": 153610,
+        "word": "步行者球员承认有中国血统",
+        "onboard_time": 1702288175,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152656,
+        "num": 152656,
+        "word": "快乐老友记 放得开",
+        "onboard_time": 1702287335,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150690,
+        "num": 150690,
+        "word": "吉利高管称不认同懂车帝冬测数据",
+        "onboard_time": 1702291117,
+        "rank": 48,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 150468,
+        "num": 150468,
+        "word": "鸡蛋黄越黄越有营养吗",
+        "onboard_time": 1702293516,
+        "rank": 49,
+        "category": "美食,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界经济活力充分迸发出来#"
+    }
+  }
+}
