@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702251240879,
+  "endTime": 1702257443549,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2287814,
+      "num": 2287814,
+      "word": "故宫闭馆",
+      "onboard_time": 1702255415,
+      "rank": 0,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 2203938,
       "num": 2203938,
       "word": "缅北",
@@ -89,6 +97,14 @@
       "onboard_time": 1702186534,
       "rank": 3,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 2064098,
+      "num": 2064098,
+      "word": "新乡发布临时停课通知",
+      "onboard_time": 1702251326,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2028278,
@@ -619,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 587185,
+      "num": 587185,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1702251326,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 581687,
       "num": 581687,
       "word": "专家称张雪峰言论过于极端",
@@ -643,6 +667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 565268,
+      "num": 565268,
+      "word": "老人握妻子手买人生第一套房",
+      "onboard_time": 1702251387,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554185,
       "num": 554185,
       "word": "吉祥航空承认因失误导致乘客滞留机场",
@@ -657,6 +689,14 @@
       "onboard_time": 1702199557,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 548828,
+      "num": 548828,
+      "word": "陈思诚 感谢家人们给我的名字",
+      "onboard_time": 1702250664,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 538733,
@@ -689,6 +729,14 @@
       "onboard_time": 1702179996,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 513430,
+      "num": 513430,
+      "word": "李宁年内股价跌近70%",
+      "onboard_time": 1702252410,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511692,
@@ -1019,6 +1067,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376955,
+      "num": 376955,
+      "word": "美参议员称中国大蒜威胁其国家安全",
+      "onboard_time": 1702252654,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 376293,
+      "num": 376293,
+      "word": "花花58码的jiojio和脸脸一样大",
+      "onboard_time": 1702219541,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370948,
       "num": 370948,
       "word": "郑州下雪",
@@ -1123,6 +1187,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 343850,
+      "num": 343850,
+      "word": "TheShy 转会期",
+      "onboard_time": 1702251507,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 342820,
       "num": 342820,
       "word": "吉祥航空回应外籍旅客优先登机",
@@ -1203,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315564,
+      "num": 209354,
+      "word": "曾经的龙葵 现在的任辛",
+      "onboard_time": 1702256914,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309320,
       "num": 304937,
       "word": "李同光对任辛表白",
@@ -1241,6 +1321,14 @@
       "onboard_time": 1702189052,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 305216,
+      "num": 305216,
+      "word": "华晨宇关晓彤跳queencard",
+      "onboard_time": 1702251387,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 304733,
@@ -1305,6 +1393,14 @@
       "onboard_time": 1702218221,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294569,
+      "num": 285390,
+      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
+      "onboard_time": 1702236734,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294544,
@@ -1459,6 +1555,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 274116,
+      "num": 209245,
+      "word": "懒人花苞头",
+      "onboard_time": 1702257094,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 272996,
+      "num": 272996,
+      "word": "都怪年轻时候写歌没轻没重",
+      "onboard_time": 1702256073,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 272981,
       "num": 258174,
       "word": "金泰亨寸头照",
@@ -1531,12 +1643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263840,
-      "num": 263840,
-      "word": "花花58码的jiojio和脸脸一样大",
-      "onboard_time": 1702219541,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 263301,
+      "num": 263301,
+      "word": "什么叫函数存在连续可导",
+      "onboard_time": 1702251748,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 261671,
@@ -1603,12 +1715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248363,
-      "num": 120495,
-      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
-      "onboard_time": 1702236734,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 250669,
+      "num": 250669,
+      "word": "苹果计划2024年彻底改革iPad产品线",
+      "onboard_time": 1702252468,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 246867,
@@ -1665,6 +1777,14 @@
       "onboard_time": 1702176151,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237362,
+      "num": 237362,
+      "word": "宋轶谈自己曾被换角",
+      "onboard_time": 1702250123,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 236466,
@@ -1899,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213775,
+      "num": 213775,
+      "word": "赵文卓惩罚学员很像教导主任",
+      "onboard_time": 1702255897,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212510,
       "num": 212510,
       "word": "赵露思变美思路解析",
@@ -1929,6 +2057,14 @@
       "onboard_time": 1702208195,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208932,
+      "num": 208932,
+      "word": "林孝埈回应与刘少昂相撞",
+      "onboard_time": 1702252532,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 208892,
@@ -2291,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185563,
+      "num": 185563,
+      "word": "河南下雪",
+      "onboard_time": 1702254096,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185509,
       "num": 185509,
       "word": "你不是我领导 哪凉快哪去",
@@ -2393,6 +2537,14 @@
       "onboard_time": 1702197871,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180161,
+      "num": 180161,
+      "word": "周深 最后一个月都顺顺利利",
+      "onboard_time": 1702253373,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 180061,
@@ -2587,14 +2739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169743,
-      "num": 169743,
-      "word": "宋轶谈自己曾被换角",
-      "onboard_time": 1702250123,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169268,
       "num": 429870,
       "word": "熬夜垮脸如何自救",
@@ -2609,6 +2753,14 @@
       "onboard_time": 1702188515,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168401,
+      "num": 168401,
+      "word": "下雪",
+      "onboard_time": 1702253795,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167996,
@@ -2632,6 +2784,14 @@
       "word": "一念关山 修图",
       "onboard_time": 1702126178,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166221,
+      "num": 166221,
+      "word": "原来高海宁是个甜妹",
+      "onboard_time": 1702255176,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -2827,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151532,
+      "num": 151532,
+      "word": "12.9英寸iPadAir显示屏本月出货",
+      "onboard_time": 1702254096,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151340,
       "num": 139102,
       "word": "宋江 客观的帅",
@@ -2859,12 +3027,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 149598,
+      "num": 149598,
+      "word": "京东股价较年初跌幅超50%",
+      "onboard_time": 1702254814,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149420,
       "num": 138545,
       "word": "你们真的一山更比一山高",
       "onboard_time": 1702137394,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149146,
+      "num": 149146,
+      "word": "潘玮柏演唱会 椅子影响蹦迪",
+      "onboard_time": 1702254814,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 148875,
@@ -3107,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135858,
+      "num": 135858,
+      "word": "刘少昂 我们都是中国队",
+      "onboard_time": 1702257215,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135744,
       "num": 135744,
       "word": "WBG 续约",
@@ -3155,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130612,
+      "num": 130612,
+      "word": "詹姆斯现场观战布朗尼",
+      "onboard_time": 1702253554,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129505,
       "num": 129505,
       "word": "胰岛素抵抗就是糖尿病吗",
@@ -3193,6 +3393,14 @@
       "onboard_time": 1702188693,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 127618,
+      "num": 127618,
+      "word": "留学生父母有时候真的很荒谬",
+      "onboard_time": 1702252893,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 127409,
@@ -3259,14 +3467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124672,
-      "num": 112870,
-      "word": "陈思诚 感谢家人们给我的名字",
-      "onboard_time": 1702250664,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 124243,
       "num": 124243,
       "word": "站立瘦腹",
@@ -3321,6 +3521,14 @@
       "onboard_time": 1702226368,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121059,
+      "num": 121059,
+      "word": "感觉已经被如意打了",
+      "onboard_time": 1702257393,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120046,
@@ -3467,6 +3675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79292,
+      "num": 1833013,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1702212338,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78162,
       "num": 78162,
       "word": "退烧后久咳不愈正常吗",
@@ -3601,14 +3817,6 @@
       "onboard_time": 1702236073,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55426,
-      "num": 1531280,
-      "word": "近期呼吸道疾病防治注意事项",
-      "onboard_time": 1702212338,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53325,

@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702251240879,
+  "endTime": 1702257443549,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -627,6 +627,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 2287814,
+      "num": 2287814,
+      "word": "故宫闭馆",
+      "onboard_time": 1702255415,
+      "rank": 0,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 2281877,
       "num": 2281877,
       "word": "春晚回应吉祥物争议",
@@ -753,6 +761,14 @@
       "onboard_time": 1701764856,
       "rank": 24,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2064098,
+      "num": 2064098,
+      "word": "新乡发布临时停课通知",
+      "onboard_time": 1702251326,
+      "rank": 1,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2031913,
@@ -5019,6 +5035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587185,
+      "num": 587185,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1702251326,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 587041,
       "num": 314511,
       "word": "景甜白得发光",
@@ -5233,6 +5257,14 @@
       "onboard_time": 1702169550,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 565268,
+      "num": 565268,
+      "word": "老人握妻子手买人生第一套房",
+      "onboard_time": 1702251387,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565133,
@@ -5513,6 +5545,14 @@
       "onboard_time": 1701960041,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 548828,
+      "num": 548828,
+      "word": "陈思诚 感谢家人们给我的名字",
+      "onboard_time": 1702250664,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 547755,
@@ -6073,6 +6113,14 @@
       "onboard_time": 1701564993,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 513430,
+      "num": 513430,
+      "word": "李宁年内股价跌近70%",
+      "onboard_time": 1702252410,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513356,
@@ -9035,11 +9083,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376955,
+      "num": 376955,
+      "word": "美参议员称中国大蒜威胁其国家安全",
+      "onboard_time": 1702252654,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 376899,
       "num": 376899,
       "word": "解清帅一夜涨粉近百万",
       "onboard_time": 1701752985,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376293,
+      "num": 376293,
+      "word": "花花58码的jiojio和脸脸一样大",
+      "onboard_time": 1702219541,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -10043,6 +10107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343850,
+      "num": 343850,
+      "word": "TheShy 转会期",
+      "onboard_time": 1702251507,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 343768,
       "num": 247475,
       "word": "余景天 大屏",
@@ -10947,6 +11019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315564,
+      "num": 209354,
+      "word": "曾经的龙葵 现在的任辛",
+      "onboard_time": 1702256914,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315488,
       "num": 315488,
       "word": "毛阿敏 周深你是一只小百灵鸟",
@@ -11457,6 +11537,14 @@
       "onboard_time": 1701653853,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 305216,
+      "num": 305216,
+      "word": "华晨宇关晓彤跳queencard",
+      "onboard_time": 1702251387,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 305022,
@@ -12057,6 +12145,14 @@
       "onboard_time": 1701332375,
       "rank": 14,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 294569,
+      "num": 285390,
+      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
+      "onboard_time": 1702236734,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294544,
@@ -13179,12 +13275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274116,
+      "num": 209245,
+      "word": "懒人花苞头",
+      "onboard_time": 1702257094,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 274091,
       "num": 274091,
       "word": "杨洋韩立造型",
       "onboard_time": 1701773617,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272996,
+      "num": 272996,
+      "word": "都怪年轻时候写歌没轻没重",
+      "onboard_time": 1702256073,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 272981,
@@ -13651,20 +13763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263840,
-      "num": 263840,
-      "word": "花花58码的jiojio和脸脸一样大",
-      "onboard_time": 1702219541,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263471,
       "num": 263471,
       "word": "男子玩游戏被盖猪肉印章求助清除高招",
       "onboard_time": 1701394472,
       "rank": 30,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 263301,
+      "num": 263301,
+      "word": "什么叫函数存在连续可导",
+      "onboard_time": 1702251748,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 262868,
@@ -14315,6 +14427,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 250669,
+      "num": 250669,
+      "word": "苹果计划2024年彻底改革iPad产品线",
+      "onboard_time": 1702252468,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 250435,
       "num": 250435,
       "word": "拥抱奶牛一次约450元",
@@ -14425,14 +14545,6 @@
       "onboard_time": 1701444694,
       "rank": 44,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 248363,
-      "num": 120495,
-      "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
-      "onboard_time": 1702236734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248173,
@@ -15033,6 +15145,14 @@
       "onboard_time": 1701842734,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237362,
+      "num": 237362,
+      "word": "宋轶谈自己曾被换角",
+      "onboard_time": 1702250123,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 237160,
@@ -16723,6 +16843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213775,
+      "num": 213775,
+      "word": "赵文卓惩罚学员很像教导主任",
+      "onboard_time": 1702255897,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213738,
       "num": 213738,
       "word": "GQ宣传图 李现剪影",
@@ -17161,6 +17289,14 @@
       "onboard_time": 1701926016,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208932,
+      "num": 208932,
+      "word": "林孝埈回应与刘少昂相撞",
+      "onboard_time": 1702252532,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 208892,
@@ -19715,6 +19851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185563,
+      "num": 185563,
+      "word": "河南下雪",
+      "onboard_time": 1702254096,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185547,
       "num": 185547,
       "word": "陈楚生 接梗刺客",
@@ -20169,6 +20313,14 @@
       "onboard_time": 1701527977,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180161,
+      "num": 180161,
+      "word": "周深 最后一个月都顺顺利利",
+      "onboard_time": 1702253373,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 180061,
@@ -20955,14 +21107,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 169743,
-      "num": 169743,
-      "word": "宋轶谈自己曾被换角",
-      "onboard_time": 1702250123,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169706,
       "num": 169706,
       "word": "漠河极光",
@@ -21129,6 +21273,14 @@
       "onboard_time": 1701658596,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168401,
+      "num": 168401,
+      "word": "下雪",
+      "onboard_time": 1702253795,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168332,
@@ -21336,6 +21488,14 @@
       "word": "刘诗诗的酒窝",
       "onboard_time": 1701827494,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166221,
+      "num": 166221,
+      "word": "原来高海宁是个甜妹",
+      "onboard_time": 1702255176,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -22595,6 +22755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151532,
+      "num": 151532,
+      "word": "12.9英寸iPadAir显示屏本月出货",
+      "onboard_time": 1702254096,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151501,
       "num": 151501,
       "word": "神隐逗趣三界版预告",
@@ -22763,6 +22931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 149598,
+      "num": 149598,
+      "word": "京东股价较年初跌幅超50%",
+      "onboard_time": 1702254814,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 149420,
       "num": 138545,
       "word": "你们真的一山更比一山高",
@@ -22785,6 +22961,14 @@
       "onboard_time": 1702135600,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 149146,
+      "num": 149146,
+      "word": "潘玮柏演唱会 椅子影响蹦迪",
+      "onboard_time": 1702254814,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 149105,
@@ -24067,6 +24251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135858,
+      "num": 135858,
+      "word": "刘少昂 我们都是中国队",
+      "onboard_time": 1702257215,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135804,
       "num": 135804,
       "word": "以爱为营",
@@ -24435,6 +24627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130612,
+      "num": 130612,
+      "word": "詹姆斯现场观战布朗尼",
+      "onboard_time": 1702253554,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130601,
       "num": 130601,
       "word": "蛇偷吃鸡舍仨鸡蛋大爷摇来消防员",
@@ -24601,6 +24801,14 @@
       "onboard_time": 1701501093,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127618,
+      "num": 127618,
+      "word": "留学生父母有时候真的很荒谬",
+      "onboard_time": 1702252893,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 127591,
@@ -24825,14 +25033,6 @@
       "onboard_time": 1701932797,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 124672,
-      "num": 112870,
-      "word": "陈思诚 感谢家人们给我的名字",
-      "onboard_time": 1702250664,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 124334,
@@ -25073,6 +25273,14 @@
       "onboard_time": 1702226368,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121059,
+      "num": 121059,
+      "word": "感觉已经被如意打了",
+      "onboard_time": 1702257393,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120734,
@@ -26179,6 +26387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79292,
+      "num": 1833013,
+      "word": "近期呼吸道疾病防治注意事项",
+      "onboard_time": 1702212338,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78624,
       "num": 2747179,
       "word": "穿越机视角瞰巍峨古长城",
@@ -26639,14 +26855,6 @@
       "num": 1422878,
       "word": "6问6答了解流感用药注意事项",
       "onboard_time": 1702029397,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55426,
-      "num": 1531280,
-      "word": "近期呼吸道疾病防治注意事项",
-      "onboard_time": 1702212338,
       "rank": 2,
       "category": "社会新闻"
     },
