@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702258719180,
+  "endTime": 1702261866348,
   "band_list": [
     {
       "raw_hot": 2522676,
@@ -27,12 +27,52 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1588041,
+      "num": 1588041,
+      "word": "观众还原杨丞琳冒犯言论现场情况",
+      "onboard_time": 1702260152,
+      "rank": 1,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1219317,
       "num": 509958,
       "word": "河南媒体评杨丞琳道歉",
       "onboard_time": 1702218341,
       "rank": 10,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1105364,
+      "num": 301251,
+      "word": "很多情侣谈久了关系很畸形",
+      "onboard_time": 1702259253,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1068968,
+      "num": 1068968,
+      "word": "曾经的龙葵 现在的任辛",
+      "onboard_time": 1702256914,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1024004,
+      "num": 1024004,
+      "word": "美国一架F16战斗机在黄海坠毁",
+      "onboard_time": 1702259671,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 962452,
+      "num": 962452,
+      "word": "张雪峰称河南人不爱骗人",
+      "onboard_time": 1702260272,
+      "rank": 5,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 925923,
@@ -51,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807355,
+      "num": 807355,
+      "word": "多省公务员考试考生直呼心凉",
+      "onboard_time": 1702259792,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 807132,
       "num": 807132,
       "word": "EXO 下雪了",
       "onboard_time": 1702222058,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 796365,
-      "num": 796365,
-      "word": "曾经的龙葵 现在的任辛",
-      "onboard_time": 1702256914,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 764913,
@@ -139,12 +179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 518095,
+      "num": 518095,
+      "word": "一念关山回应不带常华森",
+      "onboard_time": 1702259492,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513430,
       "num": 513430,
       "word": "李宁年内股价跌近70%",
       "onboard_time": 1702252410,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490852,
+      "num": 415384,
+      "word": "A股",
+      "onboard_time": 1702259192,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 489951,
@@ -155,12 +211,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 473891,
+      "num": 473891,
+      "word": "余承东怒怼懂车帝",
+      "onboard_time": 1702258890,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 461624,
       "num": 461624,
       "word": "柯南吻戏 一刀没剪",
       "onboard_time": 1702218282,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 432529,
+      "num": 432529,
+      "word": "开封一下雪就成了汴梁",
+      "onboard_time": 1702259792,
+      "rank": 9,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 378610,
@@ -187,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372155,
+      "num": 372155,
+      "word": "00后女生花万元买一整车男装",
+      "onboard_time": 1702260812,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367027,
       "num": 367027,
       "word": "在暴雪时分预约人数破100万",
       "onboard_time": 1702227565,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362033,
+      "num": 362033,
+      "word": "嘉人 肖战",
+      "onboard_time": 1702261294,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 361315,
@@ -209,6 +297,14 @@
       "onboard_time": 1702251507,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 339702,
+      "num": 339702,
+      "word": "金泰亨入伍",
+      "onboard_time": 1702260152,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 321040,
@@ -331,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251234,
+      "num": 251234,
+      "word": "下雪后的北京秒变北平",
+      "onboard_time": 1702259852,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250870,
       "num": 250870,
       "word": "济南中小学临时停课一天",
@@ -355,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244580,
+      "num": 211582,
+      "word": "王阳明 放纵欲望才是痛苦的根源",
+      "onboard_time": 1702261052,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 237362,
       "num": 237362,
       "word": "宋轶谈自己曾被换角",
       "onboard_time": 1702250123,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231124,
+      "num": 231124,
+      "word": "白桃星座",
+      "onboard_time": 1702260334,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 228643,
@@ -419,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201107,
+      "num": 201107,
+      "word": "宠儿 退役",
+      "onboard_time": 1702259852,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199714,
       "num": 199714,
       "word": "缅怀钱学森",
@@ -427,11 +555,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198245,
+      "num": 198245,
+      "word": "故宫红墙金瓦披银装有多美",
+      "onboard_time": 1702260870,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194032,
       "num": 194032,
       "word": "高耀洁",
       "onboard_time": 1702258292,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192106,
+      "num": 211587,
+      "word": "郑州市发布暴雪红色预警",
+      "onboard_time": 1702258770,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -571,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142667,
+      "num": 142667,
+      "word": "小申和楚钦欧巴",
+      "onboard_time": 1702260933,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139252,
       "num": 139252,
       "word": "接吻完顾声的口红都掉光了",
@@ -585,6 +737,30 @@
       "onboard_time": 1702250302,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 137848,
+      "num": 137848,
+      "word": "太阳三巨头要合体了",
+      "onboard_time": 1702259971,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135270,
+      "num": 135270,
+      "word": "小鬼直播唱爱到1440",
+      "onboard_time": 1702261052,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134616,
+      "num": 134616,
+      "word": "总是腿脚冰凉当心是血管堵了",
+      "onboard_time": 1702261653,
+      "rank": 43,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 131694,
@@ -681,6 +857,14 @@
       "onboard_time": 1702216120,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108940,
+      "num": 108940,
+      "word": "iG的一百胜",
+      "onboard_time": 1702261772,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 108703,
