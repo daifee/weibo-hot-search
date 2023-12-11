@@ -1,0 +1,410 @@
+{
+  "runTime": 1702262506199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1997525,
+        "num": 1997525,
+        "word": "故宫闭馆",
+        "onboard_time": 1702255415,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1810182,
+        "num": 1810182,
+        "word": "观众还原杨丞琳冒犯言论现场情况",
+        "onboard_time": 1702260152,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 39012,
+        "num": 1332217,
+        "word": "近期呼吸道疾病防治注意事项",
+        "onboard_time": 1702212338,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281983,
+        "num": 1281983,
+        "word": "张雪峰称河南人不爱骗人",
+        "onboard_time": 1702260272,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 974023,
+        "num": 974023,
+        "word": "美国一架F16战斗机在黄海坠毁",
+        "onboard_time": 1702259671,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 919344,
+        "num": 919344,
+        "word": "曾经的龙葵 现在的任辛",
+        "onboard_time": 1702256914,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 735381,
+        "num": 735381,
+        "word": "多省公务员考试考生直呼心凉",
+        "onboard_time": 1702259792,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 601424,
+        "num": 601424,
+        "word": "00后女生花万元买一整车男装",
+        "onboard_time": 1702260812,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599284,
+        "num": 599284,
+        "word": "嘉人 肖战",
+        "onboard_time": 1702261294,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 556293,
+        "num": 556293,
+        "word": "林孝埈退出首尔站比赛",
+        "onboard_time": 1702261954,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 734556,
+        "num": 552307,
+        "word": "多部门回应杨丞琳说河南人爱骗人",
+        "onboard_time": 1702220980,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 516462,
+        "num": 516462,
+        "word": "一念关山回应不带常华森",
+        "onboard_time": 1702259492,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439124,
+        "num": 439124,
+        "word": "余承东怒怼懂车帝",
+        "onboard_time": 1702258890,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 399801,
+        "num": 399801,
+        "word": "A股",
+        "onboard_time": 1702259192,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 371736,
+        "num": 371736,
+        "word": "开封一下雪就成了汴梁",
+        "onboard_time": 1702259792,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 319636,
+        "num": 319636,
+        "word": "张万森 雪崩了",
+        "onboard_time": 1702217502,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310545,
+        "num": 310545,
+        "word": "八年了 她终于红了",
+        "onboard_time": 1702200275,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306547,
+        "num": 306547,
+        "word": "TheShy 转会期",
+        "onboard_time": 1702251507,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287645,
+        "num": 287645,
+        "word": "金泰亨入伍",
+        "onboard_time": 1702260152,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279895,
+        "num": 279895,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1702251326,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1244564,
+        "num": 278337,
+        "word": "很多情侣谈久了关系很畸形",
+        "onboard_time": 1702259253,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345164,
+        "num": 273141,
+        "word": "王阳明 放纵欲望才是痛苦的根源",
+        "onboard_time": 1702261052,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253250,
+        "num": 253250,
+        "word": "新乡发布临时停课通知",
+        "onboard_time": 1702251326,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 238238,
+        "num": 238238,
+        "word": "缅北四大家族",
+        "onboard_time": 1702219238,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236911,
+        "num": 236911,
+        "word": "刘少昂 我们都是中国队",
+        "onboard_time": 1702257215,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226651,
+        "num": 226651,
+        "word": "下雪后的北京秒变北平",
+        "onboard_time": 1702259852,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221600,
+        "num": 221600,
+        "word": "白桃星座",
+        "onboard_time": 1702260334,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212853,
+        "num": 212853,
+        "word": "台湾中学教师怒批去中国化课纲",
+        "onboard_time": 1702246214,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208601,
+        "num": 208601,
+        "word": "陈思诚 感谢家人们给我的名字",
+        "onboard_time": 1702250664,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176182,
+        "num": 208477,
+        "word": "郑州市发布暴雪红色预警",
+        "onboard_time": 1702258770,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208464,
+        "num": 208464,
+        "word": "金泰亨金南俊入伍",
+        "onboard_time": 1702261890,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205169,
+        "num": 205169,
+        "word": "张若昀你快删了吧",
+        "onboard_time": 1702216541,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197506,
+        "num": 197506,
+        "word": "花花58码的jiojio和脸脸一样大",
+        "onboard_time": 1702219541,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188340,
+        "num": 188340,
+        "word": "宠儿 退役",
+        "onboard_time": 1702259852,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181549,
+        "num": 181549,
+        "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
+        "onboard_time": 1702236734,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180525,
+        "num": 180525,
+        "word": "华晨宇关晓彤跳queencard",
+        "onboard_time": 1702251387,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178049,
+        "num": 178049,
+        "word": "都怪年轻时候写歌没轻没重",
+        "onboard_time": 1702256073,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173272,
+        "num": 173272,
+        "word": "总是腿脚冰凉当心是血管堵了",
+        "onboard_time": 1702261653,
+        "rank": 37,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 171645,
+        "num": 171645,
+        "word": "信 怎么办一会还要唱离歌",
+        "onboard_time": 1702219300,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148082,
+        "num": 148082,
+        "word": "小申和楚钦欧巴",
+        "onboard_time": 1702260933,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144209,
+        "num": 144209,
+        "word": "妈妈分享女儿每天的穿搭",
+        "onboard_time": 1702257572,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 142705,
+        "num": 142705,
+        "word": "iG的一百胜",
+        "onboard_time": 1702261772,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132173,
+        "num": 132173,
+        "word": "故宫红墙金瓦披银装有多美",
+        "onboard_time": 1702260870,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126712,
+        "num": 126712,
+        "word": "EXO 下雪了",
+        "onboard_time": 1702222058,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124558,
+        "num": 124558,
+        "word": "美参议员称中国大蒜威胁其国家安全",
+        "onboard_time": 1702252654,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121851,
+        "num": 121851,
+        "word": "柯南吻戏 一刀没剪",
+        "onboard_time": 1702218282,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118690,
+        "num": 118690,
+        "word": "小鬼直播唱爱到1440",
+        "onboard_time": 1702261052,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113643,
+        "num": 113643,
+        "word": "济南中小学临时停课一天",
+        "onboard_time": 1702257753,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 113351,
+        "num": 113351,
+        "word": "李宁年内股价跌近70%",
+        "onboard_time": 1702252410,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106809,
+        "num": 106809,
+        "word": "苹果计划2024年彻底改革iPad产品线",
+        "onboard_time": 1702252468,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#把城市建设成为美丽家园#"
+    }
+  }
+}

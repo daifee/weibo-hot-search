@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702261866348,
+  "endTime": 1702262506199,
   "band_list": [
     {
       "raw_hot": 2522676,
@@ -27,12 +27,28 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1588041,
-      "num": 1588041,
+      "raw_hot": 1810182,
+      "num": 1810182,
       "word": "观众还原杨丞琳冒犯言论现场情况",
       "onboard_time": 1702260152,
       "rank": 1,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1281983,
+      "num": 1281983,
+      "word": "张雪峰称河南人不爱骗人",
+      "onboard_time": 1702260272,
+      "rank": 5,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1244564,
+      "num": 301251,
+      "word": "很多情侣谈久了关系很畸形",
+      "onboard_time": 1702259253,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1219317,
@@ -41,14 +57,6 @@
       "onboard_time": 1702218341,
       "rank": 10,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1105364,
-      "num": 301251,
-      "word": "很多情侣谈久了关系很畸形",
-      "onboard_time": 1702259253,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 1068968,
@@ -65,14 +73,6 @@
       "onboard_time": 1702259671,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 962452,
-      "num": 962452,
-      "word": "张雪峰称河南人不爱骗人",
-      "onboard_time": 1702260272,
-      "rank": 5,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 925923,
@@ -147,6 +147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601424,
+      "num": 601424,
+      "word": "00后女生花万元买一整车男装",
+      "onboard_time": 1702260812,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599284,
+      "num": 599284,
+      "word": "嘉人 肖战",
+      "onboard_time": 1702261294,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 587264,
       "num": 561676,
       "word": "张万森 雪崩了",
@@ -169,6 +185,14 @@
       "onboard_time": 1702251387,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556293,
+      "num": 556293,
+      "word": "林孝埈退出首尔站比赛",
+      "onboard_time": 1702261954,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 548828,
@@ -259,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 372155,
-      "num": 372155,
-      "word": "00后女生花万元买一整车男装",
-      "onboard_time": 1702260812,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367027,
       "num": 367027,
       "word": "在暴雪时分预约人数破100万",
@@ -275,20 +291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362033,
-      "num": 362033,
-      "word": "嘉人 肖战",
-      "onboard_time": 1702261294,
-      "rank": 13,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 361315,
       "num": 361315,
       "word": "Ning五杀",
       "onboard_time": 1702220139,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 345164,
+      "num": 273141,
+      "word": "王阳明 放纵欲望才是痛苦的根源",
+      "onboard_time": 1702261052,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 343850,
@@ -459,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 244580,
-      "num": 211582,
-      "word": "王阳明 放纵欲望才是痛苦的根源",
-      "onboard_time": 1702261052,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 237362,
       "num": 237362,
       "word": "宋轶谈自己曾被换角",
@@ -539,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208464,
+      "num": 208464,
+      "word": "金泰亨金南俊入伍",
+      "onboard_time": 1702261890,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201107,
       "num": 201107,
       "word": "宠儿 退役",
@@ -601,6 +617,14 @@
       "onboard_time": 1702253373,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173272,
+      "num": 173272,
+      "word": "总是腿脚冰凉当心是血管堵了",
+      "onboard_time": 1702261653,
+      "rank": 43,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 172135,
@@ -707,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148082,
+      "num": 148082,
+      "word": "小申和楚钦欧巴",
+      "onboard_time": 1702260933,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143605,
       "num": 143605,
       "word": "阿杜林俊杰 合唱",
@@ -715,12 +747,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142667,
-      "num": 142667,
-      "word": "小申和楚钦欧巴",
-      "onboard_time": 1702260933,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 142705,
+      "num": 142705,
+      "word": "iG的一百胜",
+      "onboard_time": 1702261772,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 139252,
@@ -753,14 +785,6 @@
       "onboard_time": 1702261052,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134616,
-      "num": 134616,
-      "word": "总是腿脚冰凉当心是血管堵了",
-      "onboard_time": 1702261653,
-      "rank": 43,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 131694,
@@ -857,14 +881,6 @@
       "onboard_time": 1702216120,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108940,
-      "num": 108940,
-      "word": "iG的一百胜",
-      "onboard_time": 1702261772,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 108703,
