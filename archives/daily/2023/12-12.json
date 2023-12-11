@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702323239879,
+  "endTime": 1702325987462,
   "band_list": [
     {
       "raw_hot": 3099903,
@@ -427,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53288,
+      "num": 22908,
+      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
+      "onboard_time": 1702322176,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44238,
       "num": 53979,
       "word": "酸菜公司回应刘德华代言",
@@ -467,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22908,
-      "num": 22908,
-      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
-      "onboard_time": 1702322176,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 13380,
+      "num": 16429,
+      "word": "盗笔大学的教学评价",
+      "onboard_time": 1702325173,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 2064,
