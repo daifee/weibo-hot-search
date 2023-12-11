@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702330483528,
+  "endTime": 1702333042499,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -6059,6 +6059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83994,
+      "num": 83994,
+      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
+      "onboard_time": 1702322176,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82808,
       "num": 82808,
       "word": "WBG纪录片 上野镜头",
@@ -6251,14 +6259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54024,
-      "num": 22908,
-      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
-      "onboard_time": 1702322176,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53325,
       "num": 43430,
       "word": "喻言一巡收官",
@@ -6337,6 +6337,14 @@
       "onboard_time": 1702249822,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42673,
+      "num": 42673,
+      "word": "真正的睡觉vs虚假的睡觉",
+      "onboard_time": 1702330393,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 42575,
@@ -6435,11 +6443,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25635,
-      "num": 25635,
+      "raw_hot": 29074,
+      "num": 29074,
+      "word": "宋亚轩回应孔雀东南飞",
+      "onboard_time": 1702326735,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28162,
+      "num": 28162,
       "word": "巴黎圣母院修复 女性劳动者",
       "onboard_time": 1702327273,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 27984,
+      "num": 27984,
+      "word": "下雪某地变成某地",
+      "onboard_time": 1702329794,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -6491,20 +6515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18910,
+      "num": 18910,
+      "word": "外国人应该挺难懂这些吧",
+      "onboard_time": 1702329432,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18324,
       "num": 22134,
       "word": "痩背最佳组合",
       "onboard_time": 1702236194,
       "rank": 36,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 17402,
-      "num": 17402,
-      "word": "宋亚轩回应孔雀东南飞",
-      "onboard_time": 1702326735,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 16846,
@@ -6539,36 +6563,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13957,
-      "num": 13957,
-      "word": "下雪某地变成某地",
-      "onboard_time": 1702329794,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 13772,
-      "num": 13772,
-      "word": "外国人应该挺难懂这些吧",
-      "onboard_time": 1702329432,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 13380,
       "num": 16429,
       "word": "盗笔大学的教学评价",
       "onboard_time": 1702325173,
       "rank": 46,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 12623,
-      "num": 13671,
-      "word": "真正的睡觉vs虚假的睡觉",
-      "onboard_time": 1702330393,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 11792,
