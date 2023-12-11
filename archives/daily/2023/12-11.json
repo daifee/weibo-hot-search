@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702271861664,
+  "endTime": 1702272848695,
   "band_list": [
     {
       "raw_hot": 2663214,
@@ -43,7 +43,7 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1504957,
+      "raw_hot": 1533574,
       "num": 426422,
       "word": "律师称杨丞琳若被认定地域歧视需担责",
       "onboard_time": 1702270718,
@@ -75,12 +75,20 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 1114648,
-      "num": 1114648,
+      "raw_hot": 1124247,
+      "num": 1124247,
       "word": "男子花100块买彩票中8662万捐5300万",
       "onboard_time": 1702269219,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1070681,
+      "num": 1070681,
+      "word": "雪地靴 堆堆袜",
+      "onboard_time": 1702271018,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 1068968,
@@ -179,6 +187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 737018,
+      "num": 737018,
+      "word": "WBG 不官宣",
+      "onboard_time": 1702271733,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 737007,
       "num": 737007,
       "word": "信 怎么办一会还要唱离歌",
@@ -195,20 +211,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 650421,
+      "num": 650421,
+      "word": "考生吐槽南京地铁故障致省考迟到",
+      "onboard_time": 1702269397,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 637704,
       "num": 637704,
       "word": "缅北四大家族",
       "onboard_time": 1702219238,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 630701,
-      "num": 630701,
-      "word": "考生吐槽南京地铁故障致省考迟到",
-      "onboard_time": 1702269397,
-      "rank": 5,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 616938,
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351137,
+      "num": 351137,
+      "word": "王鹤棣 意气风发小将军",
+      "onboard_time": 1702271257,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339702,
       "num": 339702,
       "word": "金泰亨入伍",
@@ -465,14 +489,6 @@
       "onboard_time": 1702257215,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 319232,
-      "num": 319232,
-      "word": "雪地靴 堆堆袜",
-      "onboard_time": 1702271018,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 318893,
@@ -547,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289913,
-      "num": 289913,
-      "word": "王鹤棣 意气风发小将军",
-      "onboard_time": 1702271257,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274116,
       "num": 255545,
       "word": "懒人花苞头",
@@ -627,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256133,
+      "num": 256133,
+      "word": "宋江腹肌",
+      "onboard_time": 1702271432,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252390,
       "num": 252390,
       "word": "山西原平一高速疑因下雪多车相撞",
@@ -659,6 +675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 248069,
+      "num": 248069,
+      "word": "大张伟谈被张钧甯拯救的经历",
+      "onboard_time": 1702269161,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247459,
       "num": 200824,
       "word": "老人凌晨去世鞭炮一响全村都去帮忙",
@@ -667,28 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245654,
-      "num": 245654,
-      "word": "大张伟谈被张钧甯拯救的经历",
-      "onboard_time": 1702269161,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243360,
       "num": 243360,
       "word": "减肥公式",
       "onboard_time": 1702265733,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 242129,
-      "num": 242129,
-      "word": "宋江腹肌",
-      "onboard_time": 1702271432,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 242101,
@@ -705,6 +713,14 @@
       "onboard_time": 1702250123,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237056,
+      "num": 237056,
+      "word": "高级中性香水",
+      "onboard_time": 1702271497,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 231124,
@@ -739,6 +755,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222952,
+      "num": 218038,
+      "word": "故宫雪景高清壁纸",
+      "onboard_time": 1702272573,
+      "rank": 30,
+      "category": "休闲,社会新闻"
+    },
+    {
+      "raw_hot": 221439,
+      "num": 221439,
+      "word": "郑渊洁北京存信的房子曾被盗",
+      "onboard_time": 1702272396,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220928,
       "num": 191969,
       "word": "赵一博",
@@ -763,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214062,
+      "num": 214062,
+      "word": "周也古装纱裙",
+      "onboard_time": 1702272573,
+      "rank": 32,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 213775,
       "num": 213775,
       "word": "赵文卓惩罚学员很像教导主任",
@@ -777,14 +817,6 @@
       "onboard_time": 1702265013,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211109,
-      "num": 211109,
-      "word": "WBG 不官宣",
-      "onboard_time": 1702271733,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 209120,
@@ -825,14 +857,6 @@
       "onboard_time": 1702263093,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 202731,
-      "num": 202731,
-      "word": "高级中性香水",
-      "onboard_time": 1702271497,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 201107,
@@ -889,6 +913,14 @@
       "onboard_time": 1702266513,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195520,
+      "num": 195520,
+      "word": "给城里人一点赚钱震撼",
+      "onboard_time": 1702269161,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194032,
@@ -979,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175531,
-      "num": 175531,
-      "word": "给城里人一点赚钱震撼",
-      "onboard_time": 1702269161,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172135,
       "num": 172135,
       "word": "小时候最讨厌的是吃饭和睡觉",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1702263093,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161745,
+      "num": 161745,
+      "word": "王彦霖 误入主角人生的我",
+      "onboard_time": 1702271973,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 159360,
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 149397,
-      "num": 798550,
+      "num": 1086125,
       "word": "今年最难忘的一件事",
       "onboard_time": 1702268918,
       "rank": 2,
@@ -1569,6 +1601,9 @@
     },
     {
       "word": "#跟着总书记学历史#"
+    },
+    {
+      "word": "#让世界经济活力充分迸发出来#"
     }
   ]
 }

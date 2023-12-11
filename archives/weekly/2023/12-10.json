@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702271861664,
+  "endTime": 1702272848695,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -163,20 +163,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1533574,
+      "num": 426422,
+      "word": "律师称杨丞琳若被认定地域歧视需担责",
+      "onboard_time": 1702270718,
+      "rank": 10,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 1512846,
       "num": 1512846,
       "word": "刘诗诗累到虚脱 正片一剪没",
       "onboard_time": 1702208794,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1504957,
-      "num": 426422,
-      "word": "律师称杨丞琳若被认定地域歧视需担责",
-      "onboard_time": 1702270718,
-      "rank": 10,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 1484129,
@@ -283,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1124247,
+      "num": 1124247,
+      "word": "男子花100块买彩票中8662万捐5300万",
+      "onboard_time": 1702269219,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1124039,
       "num": 1124039,
       "word": "刘宇宁 作为演员颜值也应该重视",
@@ -291,20 +299,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1114648,
-      "num": 1114648,
-      "word": "男子花100块买彩票中8662万捐5300万",
-      "onboard_time": 1702269219,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1079805,
       "num": 1079805,
       "word": "浙江省考 比国考还难",
       "onboard_time": 1702178553,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1070681,
+      "num": 1070681,
+      "word": "雪地靴 堆堆袜",
+      "onboard_time": 1702271018,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 1068968,
@@ -571,6 +579,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 737018,
+      "num": 737018,
+      "word": "WBG 不官宣",
+      "onboard_time": 1702271733,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 736780,
       "num": 736780,
       "word": "朝阳打歌中心 停播",
@@ -667,6 +683,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 650421,
+      "num": 650421,
+      "word": "考生吐槽南京地铁故障致省考迟到",
+      "onboard_time": 1702269397,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 644866,
       "num": 644866,
       "word": "易烊千玺 酱园弄",
@@ -705,14 +729,6 @@
       "onboard_time": 1702170510,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 630701,
-      "num": 630701,
-      "word": "考生吐槽南京地铁故障致省考迟到",
-      "onboard_time": 1702269397,
-      "rank": 5,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 627373,
@@ -1411,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351137,
+      "num": 351137,
+      "word": "王鹤棣 意气风发小将军",
+      "onboard_time": 1702271257,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350443,
       "num": 350443,
       "word": "小时候最讨厌的是吃饭和睡觉",
@@ -1529,14 +1553,6 @@
       "onboard_time": 1702257215,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 319232,
-      "num": 319232,
-      "word": "雪地靴 堆堆袜",
-      "onboard_time": 1702271018,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 318893,
@@ -1737,14 +1753,6 @@
       "onboard_time": 1702217860,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 289913,
-      "num": 289913,
-      "word": "王鹤棣 意气风发小将军",
-      "onboard_time": 1702271257,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 289139,
@@ -2003,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256133,
+      "num": 256133,
+      "word": "宋江腹肌",
+      "onboard_time": 1702271432,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253591,
       "num": 253591,
       "word": "Rookie队拿下第一局",
@@ -2059,6 +2075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 248069,
+      "num": 248069,
+      "word": "大张伟谈被张钧甯拯救的经历",
+      "onboard_time": 1702269161,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246867,
       "num": 246867,
       "word": "金裕贞宋江吻戏",
@@ -2067,28 +2091,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245654,
-      "num": 245654,
-      "word": "大张伟谈被张钧甯拯救的经历",
-      "onboard_time": 1702269161,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243360,
       "num": 243360,
       "word": "减肥公式",
       "onboard_time": 1702265733,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 242129,
-      "num": 242129,
-      "word": "宋江腹肌",
-      "onboard_time": 1702271432,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 242101,
@@ -2153,6 +2161,14 @@
       "onboard_time": 1702250123,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237056,
+      "num": 237056,
+      "word": "高级中性香水",
+      "onboard_time": 1702271497,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 236466,
@@ -2315,6 +2331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222952,
+      "num": 218038,
+      "word": "故宫雪景高清壁纸",
+      "onboard_time": 1702272573,
+      "rank": 30,
+      "category": "休闲,社会新闻"
+    },
+    {
       "raw_hot": 222378,
       "num": 222378,
       "word": "全国到底有多少股想你的风",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1702205793,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221439,
+      "num": 221439,
+      "word": "郑渊洁北京存信的房子曾被盗",
+      "onboard_time": 1702272396,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220838,
@@ -2419,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214062,
+      "num": 214062,
+      "word": "周也古装纱裙",
+      "onboard_time": 1702272573,
+      "rank": 32,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 213775,
       "num": 213775,
       "word": "赵文卓惩罚学员很像教导主任",
@@ -2456,14 +2496,6 @@
       "word": "WBG获胜",
       "onboard_time": 1702208736,
       "rank": 28,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 211109,
-      "num": 211109,
-      "word": "WBG 不官宣",
-      "onboard_time": 1702271733,
-      "rank": 32,
       "category": "电竞"
     },
     {
@@ -2627,14 +2659,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 202731,
-      "num": 202731,
-      "word": "高级中性香水",
-      "onboard_time": 1702271497,
-      "rank": 34,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 201107,
       "num": 201107,
       "word": "宠儿 退役",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1702266513,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195520,
+      "num": 195520,
+      "word": "给城里人一点赚钱震撼",
+      "onboard_time": 1702269161,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195476,
@@ -3195,14 +3227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175531,
-      "num": 175531,
-      "word": "给城里人一点赚钱震撼",
-      "onboard_time": 1702269161,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175399,
       "num": 175399,
       "word": "BeepBeepChallenge",
@@ -3451,6 +3475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 161745,
+      "num": 161745,
+      "word": "王彦霖 误入主角人生的我",
+      "onboard_time": 1702271973,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159044,
       "num": 128991,
       "word": "内娱第一个魔术系爱豆",
@@ -3668,7 +3700,7 @@
     },
     {
       "raw_hot": 149397,
-      "num": 798550,
+      "num": 1086125,
       "word": "今年最难忘的一件事",
       "onboard_time": 1702268918,
       "rank": 2,
@@ -4767,6 +4799,9 @@
     },
     {
       "word": "#跟着总书记学历史#"
+    },
+    {
+      "word": "#让世界经济活力充分迸发出来#"
     }
   ]
 }

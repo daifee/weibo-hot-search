@@ -1,0 +1,410 @@
+{
+  "runTime": 1702272848695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2297884,
+        "num": 2297884,
+        "word": "故宫闭馆",
+        "onboard_time": 1702255415,
+        "rank": 0,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1124247,
+        "num": 1124247,
+        "word": "男子花100块买彩票中8662万捐5300万",
+        "onboard_time": 1702269219,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142787,
+        "num": 1086125,
+        "word": "今年最难忘的一件事",
+        "onboard_time": 1702268918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070681,
+        "num": 1070681,
+        "word": "雪地靴 堆堆袜",
+        "onboard_time": 1702271018,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 737018,
+        "num": 737018,
+        "word": "WBG 不官宣",
+        "onboard_time": 1702271733,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 650421,
+        "num": 650421,
+        "word": "考生吐槽南京地铁故障致省考迟到",
+        "onboard_time": 1702269397,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 501506,
+        "num": 501506,
+        "word": "高耀洁医生去世",
+        "onboard_time": 1702264653,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461005,
+        "num": 461005,
+        "word": "时尚芭莎 王一博",
+        "onboard_time": 1702263032,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 443193,
+        "num": 443193,
+        "word": "嘉人 肖战",
+        "onboard_time": 1702261294,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 388405,
+        "num": 388405,
+        "word": "美军黄海坠机飞行员已获救",
+        "onboard_time": 1702269219,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1533574,
+        "num": 388242,
+        "word": "律师称杨丞琳若被认定地域歧视需担责",
+        "onboard_time": 1702270718,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 892451,
+        "num": 387894,
+        "word": "猪场饲养员洗澡后穿内裤罚款200",
+        "onboard_time": 1702263153,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383569,
+        "num": 383569,
+        "word": "曾经的龙葵 现在的任辛",
+        "onboard_time": 1702256914,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351137,
+        "num": 351137,
+        "word": "王鹤棣 意气风发小将军",
+        "onboard_time": 1702271257,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350403,
+        "num": 350403,
+        "word": "赵丽颖 动物城vlog",
+        "onboard_time": 1702270657,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1120854,
+        "num": 334275,
+        "word": "观众还原杨丞琳冒犯言论现场情况",
+        "onboard_time": 1702260152,
+        "rank": 15,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 302306,
+        "num": 302306,
+        "word": "萌兰滚了一身炸裂糖霜",
+        "onboard_time": 1702267535,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297236,
+        "num": 297236,
+        "word": "一念关山回应不带常华森",
+        "onboard_time": 1702259492,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283796,
+        "num": 283796,
+        "word": "专家回应公务员考试考生多地考试现象",
+        "onboard_time": 1702263454,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 279483,
+        "num": 279483,
+        "word": "TheShy 转会期",
+        "onboard_time": 1702251507,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 933181,
+        "num": 275896,
+        "word": "张雪峰称河南人不爱骗人",
+        "onboard_time": 1702260272,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344721,
+        "num": 273933,
+        "word": "很多情侣谈久了关系很畸形",
+        "onboard_time": 1702259253,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270660,
+        "num": 270660,
+        "word": "为什么毕业后不爱发朋友圈了",
+        "onboard_time": 1702266691,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256133,
+        "num": 256133,
+        "word": "宋江腹肌",
+        "onboard_time": 1702271432,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248069,
+        "num": 248069,
+        "word": "大张伟谈被张钧甯拯救的经历",
+        "onboard_time": 1702269161,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237056,
+        "num": 237056,
+        "word": "高级中性香水",
+        "onboard_time": 1702271497,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 222377,
+        "num": 222377,
+        "word": "为什么APP总是知道你想买啥",
+        "onboard_time": 1702267114,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221545,
+        "num": 221545,
+        "word": "林孝埈退出首尔站比赛",
+        "onboard_time": 1702261954,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221439,
+        "num": 221439,
+        "word": "郑渊洁北京存信的房子曾被盗",
+        "onboard_time": 1702272396,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151340,
+        "num": 218044,
+        "word": "丫丫2023长胖图集",
+        "onboard_time": 1702270417,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222952,
+        "num": 218038,
+        "word": "故宫雪景高清壁纸",
+        "onboard_time": 1702272573,
+        "rank": 30,
+        "category": "休闲,社会新闻"
+      },
+      {
+        "raw_hot": 216680,
+        "num": 216680,
+        "word": "王阳明 放纵欲望才是痛苦的根源",
+        "onboard_time": 1702261052,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214062,
+        "num": 214062,
+        "word": "周也古装纱裙",
+        "onboard_time": 1702272573,
+        "rank": 32,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 195520,
+        "num": 195520,
+        "word": "给城里人一点赚钱震撼",
+        "onboard_time": 1702269161,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189189,
+        "num": 189189,
+        "word": "开封一下雪就成了汴梁",
+        "onboard_time": 1702259792,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 184026,
+        "num": 184026,
+        "word": "王曼昱 还没发博",
+        "onboard_time": 1702268436,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183716,
+        "num": 183716,
+        "word": "美国一架F16战斗机在黄海坠毁",
+        "onboard_time": 1702259671,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 181389,
+        "num": 181389,
+        "word": "王鹤润 演角丽谯前后感想",
+        "onboard_time": 1702271560,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179334,
+        "num": 179334,
+        "word": "孙颖莎 冠军离不开全队的付出",
+        "onboard_time": 1702264473,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172863,
+        "num": 172863,
+        "word": "多省公务员考试考生直呼心凉",
+        "onboard_time": 1702259792,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 163029,
+        "num": 163029,
+        "word": "张远在偶像和兄弟之间选择了詹雯婷",
+        "onboard_time": 1702269699,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161745,
+        "num": 161745,
+        "word": "王彦霖 误入主角人生的我",
+        "onboard_time": 1702271973,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147685,
+        "num": 147685,
+        "word": "明星艺考照",
+        "onboard_time": 1702264473,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147099,
+        "num": 147099,
+        "word": "王楚钦 冠军属于团队",
+        "onboard_time": 1702265972,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146426,
+        "num": 146426,
+        "word": "余承东怒怼懂车帝",
+        "onboard_time": 1702258890,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141663,
+        "num": 141663,
+        "word": "神隐连更11天",
+        "onboard_time": 1702267414,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131875,
+        "num": 131875,
+        "word": "减肥公式",
+        "onboard_time": 1702265733,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128111,
+        "num": 128111,
+        "word": "我的2023年度书单",
+        "onboard_time": 1702270476,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 126848,
+        "num": 126848,
+        "word": "故宫雪景图来了",
+        "onboard_time": 1702269998,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122128,
+        "num": 122128,
+        "word": "陈奕迅终于吃上成都火锅",
+        "onboard_time": 1702266995,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界经济活力充分迸发出来#"
+    }
+  }
+}
