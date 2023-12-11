@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702283816024,
+  "endTime": 1702286367199,
   "band_list": [
     {
       "raw_hot": 2688913,
@@ -73,6 +73,14 @@
       "onboard_time": 1702274554,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1726867,
+      "num": 1726867,
+      "word": "瑞幸咖啡师烂手之痛",
+      "onboard_time": 1702282713,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1582319,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 654337,
+      "num": 654337,
+      "word": "郑州女生推窗看暴雪不料窗户掉下楼",
+      "onboard_time": 1702283015,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 650421,
       "num": 650421,
       "word": "考生吐槽南京地铁故障致省考迟到",
@@ -331,6 +347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 587474,
+      "num": 311183,
+      "word": "妈妈去世8个月留下1盘饺子",
+      "onboard_time": 1702282236,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587264,
       "num": 561676,
       "word": "张万森 雪崩了",
@@ -344,6 +368,14 @@
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1702251326,
       "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 585607,
+      "num": 585607,
+      "word": "本来只有七个星期的年假",
+      "onboard_time": 1702282115,
+      "rank": 24,
       "category": "情感"
     },
     {
@@ -403,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517344,
+      "num": 517344,
+      "word": "家长献血100ml子女可得2入学积分",
+      "onboard_time": 1702285416,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513430,
       "num": 513430,
       "word": "李宁年内股价跌近70%",
@@ -411,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513124,
-      "num": 311183,
-      "word": "妈妈去世8个月留下1盘饺子",
-      "onboard_time": 1702282236,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 502704,
+      "num": 502704,
+      "word": "Rookie发18iG合照",
+      "onboard_time": 1702285232,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 498808,
@@ -451,14 +491,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 488137,
-      "num": 441975,
-      "word": "瑞幸咖啡师烂手之痛",
-      "onboard_time": 1702282713,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473891,
       "num": 473891,
       "word": "余承东怒怼懂车帝",
@@ -489,6 +521,14 @@
       "onboard_time": 1702218282,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 448911,
+      "num": 448911,
+      "word": "现在股市为20年一遇机会",
+      "onboard_time": 1702284097,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 448761,
@@ -523,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 411001,
+      "num": 411001,
+      "word": "瑞幸员工上班8小时触碰消毒水22次",
+      "onboard_time": 1702283917,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409407,
       "num": 409407,
       "word": "比目鱼系帅哥",
@@ -553,14 +601,6 @@
       "onboard_time": 1702275093,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 380499,
-      "num": 380499,
-      "word": "本来只有七个星期的年假",
-      "onboard_time": 1702282115,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 379579,
@@ -603,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375559,
+      "num": 375559,
+      "word": "李小鹏带女儿到澳门参加活动",
+      "onboard_time": 1702283197,
+      "rank": 30,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 367175,
       "num": 319060,
       "word": "小米重回国产品牌第一",
@@ -643,20 +691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353685,
-      "num": 252767,
-      "word": "李小鹏带女儿到澳门参加活动",
-      "onboard_time": 1702283197,
-      "rank": 30,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 351137,
       "num": 351137,
       "word": "王鹤棣 意气风发小将军",
       "onboard_time": 1702271257,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349150,
+      "num": 291727,
+      "word": "拍打臀部有助于防病",
+      "onboard_time": 1702281873,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 341144,
@@ -723,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308037,
+      "num": 308037,
+      "word": "宋家三胞胎圣诞问候近照",
+      "onboard_time": 1702284336,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307391,
       "num": 307391,
       "word": "王牌对王牌 直播",
@@ -753,14 +809,6 @@
       "onboard_time": 1702251387,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303695,
-      "num": 303695,
-      "word": "郑州女生推窗看暴雪不料窗户掉下楼",
-      "onboard_time": 1702283015,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301519,
@@ -795,12 +843,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289022,
-      "num": 289022,
-      "word": "拍打臀部有助于防病",
-      "onboard_time": 1702281873,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 283773,
+      "num": 283773,
+      "word": "播音员将霉霉称作特拉维斯妻子",
+      "onboard_time": 1702285355,
+      "rank": 23,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 276362,
@@ -1019,6 +1067,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 242311,
+      "num": 242311,
+      "word": "迪丽热巴和秦岚的温柔灵魂",
+      "onboard_time": 1702284635,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242101,
       "num": 242101,
       "word": "神隐连更11天",
@@ -1107,12 +1163,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 227944,
+      "num": 227944,
+      "word": "樱兰高校男公关部 须王环",
+      "onboard_time": 1702284635,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 227304,
       "num": 227304,
       "word": "张若昀脖子上的青筋",
       "onboard_time": 1702268318,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224821,
+      "num": 224821,
+      "word": "0713 友情",
+      "onboard_time": 1702285716,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 222952,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1702212095,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219271,
+      "num": 219271,
+      "word": "李现周雨彤春色寄情人下证",
+      "onboard_time": 1702285657,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 218300,
@@ -1211,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208043,
+      "num": 208043,
+      "word": "猪国迎来大危机",
+      "onboard_time": 1702282654,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 206631,
       "num": 206631,
       "word": "堆雪人",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1702274853,
       "rank": 32,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 204931,
+      "num": 204931,
+      "word": "男大学生问谁是张万森啊",
+      "onboard_time": 1702284816,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 203908,
@@ -1307,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195718,
+      "num": 195718,
+      "word": "薛之谦演唱会提词器",
+      "onboard_time": 1702285299,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195565,
       "num": 195565,
       "word": "故宫雪景",
@@ -1331,20 +1435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193949,
-      "num": 193949,
-      "word": "猪国迎来大危机",
-      "onboard_time": 1702282654,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 193498,
       "num": 193498,
       "word": "王鹤润 演角丽谯前后感想",
       "onboard_time": 1702271560,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193178,
+      "num": 193178,
+      "word": "您的追了么订单正在配送",
+      "onboard_time": 1702280733,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 192106,
@@ -1515,14 +1619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164065,
-      "num": 164065,
-      "word": "您的追了么订单正在配送",
-      "onboard_time": 1702280733,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 162888,
       "num": 162888,
       "word": "鉴定北方热门地面",
@@ -1561,6 +1657,14 @@
       "onboard_time": 1702226787,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157529,
+      "num": 157529,
+      "word": "神隐是千古玦尘的今生",
+      "onboard_time": 1702285416,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 157511,
@@ -1937,6 +2041,14 @@
       "onboard_time": 1702216662,
       "rank": 44,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 106889,
+      "num": 228308,
+      "word": "00后现实版许三多腹部绕杠501个",
+      "onboard_time": 1702284157,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104763,
