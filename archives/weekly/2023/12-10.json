@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702264764331,
+  "endTime": 1702265670160,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -67,20 +67,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 2322047,
+      "num": 1281983,
+      "word": "张雪峰称河南人不爱骗人",
+      "onboard_time": 1702260272,
+      "rank": 5,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 2294244,
       "num": 2294244,
       "word": "16岁女生和班主任开房5次后自杀",
       "onboard_time": 1702213836,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2221631,
-      "num": 1281983,
-      "word": "张雪峰称河南人不爱骗人",
-      "onboard_time": 1702260272,
-      "rank": 5,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2203938,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1244564,
-      "num": 301251,
+      "num": 319006,
       "word": "很多情侣谈久了关系很畸形",
       "onboard_time": 1702259253,
       "rank": 20,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925102,
+      "num": 925102,
+      "word": "猪场饲养员洗澡后穿内裤罚款200",
+      "onboard_time": 1702263153,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908566,
       "num": 908566,
       "word": "林孝埈退出首尔站比赛",
@@ -419,8 +427,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 883991,
-      "num": 883991,
+      "raw_hot": 886381,
+      "num": 886381,
       "word": "时尚芭莎 王一博",
       "onboard_time": 1702263032,
       "rank": 6,
@@ -699,14 +707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 617864,
-      "num": 617864,
-      "word": "猪场饲养员洗澡后穿内裤罚款200",
-      "onboard_time": 1702263153,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 615447,
       "num": 615447,
       "word": "刘少昂1000米夺金",
@@ -763,6 +763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 566191,
+      "num": 510998,
+      "word": "高耀洁医生去世",
+      "onboard_time": 1702264653,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565268,
       "num": 565268,
       "word": "老人握妻子手买人生第一套房",
@@ -817,6 +825,14 @@
       "onboard_time": 1702215038,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 522396,
+      "num": 522396,
+      "word": "孙颖莎 冠军离不开全队的付出",
+      "onboard_time": 1702264473,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 518095,
@@ -1243,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 367175,
+      "num": 319060,
+      "word": "小米重回国产品牌第一",
+      "onboard_time": 1702263333,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 367027,
       "num": 367027,
       "word": "在暴雪时分预约人数破100万",
@@ -1324,7 +1348,7 @@
     },
     {
       "raw_hot": 345164,
-      "num": 276181,
+      "num": 288677,
       "word": "王阳明 放纵欲望才是痛苦的根源",
       "onboard_time": 1702261052,
       "rank": 30,
@@ -1395,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331793,
-      "num": 193782,
-      "word": "孙颖莎 冠军离不开全队的付出",
-      "onboard_time": 1702264473,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 331466,
       "num": 331466,
       "word": "4岁女孩穿汉服滑雪如御剑飞行",
@@ -1433,6 +1449,14 @@
       "onboard_time": 1702257215,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318893,
+      "num": 318893,
+      "word": "明星艺考照",
+      "onboard_time": 1702264473,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 318058,
@@ -1633,14 +1657,6 @@
       "onboard_time": 1702174170,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 287853,
-      "num": 228837,
-      "word": "小米重回国产品牌第一",
-      "onboard_time": 1702263333,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 287074,
@@ -1881,6 +1897,14 @@
       "onboard_time": 1702172971,
       "rank": 21,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 252390,
+      "num": 252390,
+      "word": "山西原平一高速疑因下雪多车相撞",
+      "onboard_time": 1702264653,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251234,
@@ -2233,6 +2257,14 @@
       "onboard_time": 1702255897,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212667,
+      "num": 212667,
+      "word": "赵露思神隐战损妆海报",
+      "onboard_time": 1702265013,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 212510,
@@ -2883,6 +2915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 176970,
+      "num": 176970,
+      "word": "高耀洁 民间防艾第一人",
+      "onboard_time": 1702265312,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176939,
       "num": 176939,
       "word": "陈奕迅真不把观众当外人",
@@ -2915,6 +2955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 175959,
+      "num": 187605,
+      "word": "全国粮食总产量再创历史新高",
+      "onboard_time": 1702264892,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175399,
       "num": 175399,
       "word": "BeepBeepChallenge",
@@ -2937,14 +2985,6 @@
       "onboard_time": 1702218701,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174884,
-      "num": 174884,
-      "word": "明星艺考照",
-      "onboard_time": 1702264473,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 174295,
@@ -3016,14 +3056,6 @@
       "word": "下周天气就一个字冷",
       "onboard_time": 1702168528,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170826,
-      "num": 170826,
-      "word": "高耀洁医生去世",
-      "onboard_time": 1702264653,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3105,6 +3137,14 @@
       "onboard_time": 1702179031,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165285,
+      "num": 165285,
+      "word": "杨超越初雪live图",
+      "onboard_time": 1702264831,
+      "rank": 38,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 164846,
@@ -3299,14 +3339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151586,
-      "num": 151586,
-      "word": "山西原平一高速疑因下雪多车相撞",
-      "onboard_time": 1702264653,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151532,
       "num": 151532,
       "word": "12.9英寸iPadAir显示屏本月出货",
@@ -3377,6 +3409,14 @@
       "onboard_time": 1702168408,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148767,
+      "num": 148767,
+      "word": "陈梦 做彼此坚强的后盾",
+      "onboard_time": 1702265493,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 148337,
@@ -4019,6 +4059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90489,
+      "num": 145441,
+      "word": "请龚俊把眼镜焊上",
+      "onboard_time": 1702265493,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82808,
       "num": 82808,
       "word": "WBG纪录片 上野镜头",
@@ -4267,6 +4315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35792,
+      "num": 145307,
+      "word": "万茜戏里戏外反差感",
+      "onboard_time": 1702264594,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34540,
       "num": 34540,
       "word": "王心凌唱第一次爱的人",
@@ -4295,14 +4351,6 @@
       "num": 30756,
       "word": "WSJ 晚宴",
       "onboard_time": 1702162516,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 30703,
-      "num": 136336,
-      "word": "万茜戏里戏外反差感",
-      "onboard_time": 1702264594,
       "rank": 46,
       "category": "艺人"
     },
