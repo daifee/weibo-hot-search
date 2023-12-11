@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/10 00:20:48 ~ 2023/12/12 04:34:27
+本榜单时间：2023/12/10 00:20:48 ~ 2023/12/12 05:16:00
 </p>
 </blockquote>
 <p>
@@ -4857,6 +4857,12 @@ WSJ 晚宴（热度：30756）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%E4%BF%AE%E5%A4%8D%20%E5%A5%B3%E6%80%A7%E5%8A%B3%E5%8A%A8%E8%80%85%23" target="weibo">
+巴黎圣母院修复 女性劳动者（热度：22875）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E6%AF%94%E4%B8%98%E6%96%B0%E4%B9%A6%23" target="weibo">
 卡比丘新书（热度：21703）
 </a>
@@ -4906,7 +4912,7 @@ WSJ 晚宴（热度：30756）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%9B%9E%E5%BA%94%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E%23" target="weibo">
-宋亚轩回应孔雀东南飞（热度：13636）
+宋亚轩回应孔雀东南飞（热度：15866）
 </a>
 </li>
 

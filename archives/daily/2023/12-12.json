@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702326867454,
+  "endTime": 1702329360950,
   "band_list": [
     {
       "raw_hot": 3099903,
@@ -475,8 +475,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13636,
-      "num": 14957,
+      "raw_hot": 22875,
+      "num": 22875,
+      "word": "巴黎圣母院修复 女性劳动者",
+      "onboard_time": 1702327273,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 15866,
+      "num": 15866,
       "word": "宋亚轩回应孔雀东南飞",
       "onboard_time": 1702326735,
       "rank": 45,
