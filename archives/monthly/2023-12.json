@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702307969700,
+  "endTime": 1702308883327,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -225,6 +225,14 @@
       "onboard_time": 1702003055,
       "rank": 30,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 3411819,
+      "num": 3411819,
+      "word": "TheShy 我想休息一下",
+      "onboard_time": 1702307869,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 3402371,
@@ -945,6 +953,14 @@
       "onboard_time": 1701438518,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1896260,
+      "num": 1896260,
+      "word": "WBG宣布TheShy离队",
+      "onboard_time": 1702308048,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1894834,
@@ -3275,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868557,
+      "num": 868557,
+      "word": "体脂不断下降的好习惯",
+      "onboard_time": 1702305179,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 868030,
       "num": 868030,
       "word": "王星越 我从17岁就跟着鹿姐了",
@@ -3667,14 +3691,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 801737,
-      "num": 465003,
-      "word": "体脂不断下降的好习惯",
-      "onboard_time": 1702305179,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 801086,
       "num": 640802,
       "word": "博德之门3获年度最佳游戏",
@@ -3865,6 +3881,14 @@
       "onboard_time": 1701414394,
       "rank": 9,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 759466,
+      "num": 1110405,
+      "word": "男子拉肚子医生多问一句跑赢死神",
+      "onboard_time": 1702306612,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758821,
@@ -4184,14 +4208,6 @@
       "word": "断崖式衰老女子确诊卵巢早衰",
       "onboard_time": 1701701796,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 715354,
-      "num": 715354,
-      "word": "男子拉肚子医生多问一句跑赢死神",
-      "onboard_time": 1702306612,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -7091,6 +7107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490940,
+      "num": 490940,
+      "word": "杨丞琳这种玩笑话还是不开为好",
+      "onboard_time": 1702306737,
+      "rank": 22,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 490911,
       "num": 298715,
       "word": "白鹿 年度号召力演员",
@@ -7571,14 +7595,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 464870,
-      "num": 464870,
-      "word": "TheShy 我想休息一下",
-      "onboard_time": 1702307869,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 464228,
       "num": 464228,
       "word": "心理暗示 凡事发生必有利于我",
@@ -7825,6 +7841,14 @@
       "onboard_time": 1701941862,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453481,
+      "num": 453481,
+      "word": "奶屁音",
+      "onboard_time": 1702308172,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 453341,
@@ -8499,14 +8523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 426735,
-      "num": 426735,
-      "word": "杨丞琳这种玩笑话还是不开为好",
-      "onboard_time": 1702306737,
-      "rank": 22,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 426180,
       "num": 426180,
       "word": "2023年王健林身家仅为470亿元",
@@ -9145,6 +9161,14 @@
       "onboard_time": 1701834636,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 403228,
+      "num": 403228,
+      "word": "晚安 仁川人",
+      "onboard_time": 1702307444,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 402697,
@@ -10051,7 +10075,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372839,
+      "raw_hot": 372885,
       "num": 372839,
       "word": "泰国偶遇刘亦菲",
       "onboard_time": 1702306248,
@@ -10233,6 +10257,14 @@
       "onboard_time": 1702131579,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368811,
+      "num": 333576,
+      "word": "红斑狼疮高发人群是年轻女性",
+      "onboard_time": 1702308530,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 367822,
@@ -13115,14 +13147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 296437,
-      "num": 296437,
-      "word": "晚安 仁川人",
-      "onboard_time": 1702307444,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 296297,
       "num": 296297,
       "word": "HPV感染原因",
@@ -14251,6 +14275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 276739,
+      "num": 276739,
+      "word": "天大的沙溢",
+      "onboard_time": 1702307338,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 276707,
       "num": 276707,
       "word": "男子境外昏迷44天后乘空中救护车回国",
@@ -14577,14 +14609,6 @@
       "onboard_time": 1701354340,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271695,
-      "num": 271695,
-      "word": "天大的沙溢",
-      "onboard_time": 1702307338,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 271368,
@@ -15273,6 +15297,14 @@
       "onboard_time": 1701830852,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 257756,
+      "num": 272604,
+      "word": "知情人透露国羽前国手溺亡原因",
+      "onboard_time": 1702308227,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 257727,
@@ -28084,7 +28116,7 @@
     },
     {
       "raw_hot": 103792,
-      "num": 823225,
+      "num": 959785,
       "word": "男子电击竹筒作画成品好惊艳",
       "onboard_time": 1702302415,
       "rank": 9,

@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702307969700,
+  "endTime": 1702308883327,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -17,6 +17,14 @@
       "onboard_time": 1702296758,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3411819,
+      "num": 3411819,
+      "word": "TheShy 我想休息一下",
+      "onboard_time": 1702307869,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 2688913,
@@ -97,6 +105,14 @@
       "onboard_time": 1702260152,
       "rank": 1,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1896260,
+      "num": 1896260,
+      "word": "WBG宣布TheShy离队",
+      "onboard_time": 1702308048,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1882647,
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868557,
+      "num": 868557,
+      "word": "体脂不断下降的好习惯",
+      "onboard_time": 1702305179,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 855090,
       "num": 855090,
       "word": "于正 你能给赵晴一次机会吗",
@@ -395,14 +419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 801737,
-      "num": 465003,
-      "word": "体脂不断下降的好习惯",
-      "onboard_time": 1702305179,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 766813,
       "num": 766813,
       "word": "专家回应公务员考试考生多地考试现象",
@@ -425,6 +441,14 @@
       "onboard_time": 1702280193,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 759466,
+      "num": 1110405,
+      "word": "男子拉肚子医生多问一句跑赢死神",
+      "onboard_time": 1702306612,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 758821,
@@ -481,14 +505,6 @@
       "onboard_time": 1702303559,
       "rank": 12,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 715354,
-      "num": 715354,
-      "word": "男子拉肚子医生多问一句跑赢死神",
-      "onboard_time": 1702306612,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711600,
@@ -755,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 490940,
+      "num": 490940,
+      "word": "杨丞琳这种玩笑话还是不开为好",
+      "onboard_time": 1702306737,
+      "rank": 22,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 490852,
       "num": 415384,
       "word": "A股",
@@ -827,20 +851,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 464870,
-      "num": 464870,
-      "word": "TheShy 我想休息一下",
-      "onboard_time": 1702307869,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 461624,
       "num": 461624,
       "word": "柯南吻戏 一刀没剪",
       "onboard_time": 1702218282,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 453481,
+      "num": 453481,
+      "word": "奶屁音",
+      "onboard_time": 1702308172,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 448911,
@@ -889,14 +913,6 @@
       "onboard_time": 1702304340,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 426735,
-      "num": 426735,
-      "word": "杨丞琳这种玩笑话还是不开为好",
-      "onboard_time": 1702306737,
-      "rank": 22,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 414585,
@@ -952,6 +968,14 @@
       "word": "TheShy 转会期",
       "onboard_time": 1702251507,
       "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 403228,
+      "num": 403228,
+      "word": "晚安 仁川人",
+      "onboard_time": 1702307444,
+      "rank": 38,
       "category": "电竞"
     },
     {
@@ -1043,7 +1067,7 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 372839,
+      "raw_hot": 372885,
       "num": 372839,
       "word": "泰国偶遇刘亦菲",
       "onboard_time": 1702306248,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1702296456,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368811,
+      "num": 333576,
+      "word": "红斑狼疮高发人群是年轻女性",
+      "onboard_time": 1702308530,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 367175,
@@ -1355,14 +1387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 296437,
-      "num": 296437,
-      "word": "晚安 仁川人",
-      "onboard_time": 1702307444,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 294569,
       "num": 285390,
       "word": "爷爷给5岁孙女套伊丽莎白圈防玩手机",
@@ -1419,6 +1443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 276739,
+      "num": 276739,
+      "word": "天大的沙溢",
+      "onboard_time": 1702307338,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 276478,
       "num": 276478,
       "word": "薛佳凝神隐演天帝",
@@ -1465,14 +1497,6 @@
       "onboard_time": 1702223194,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271695,
-      "num": 271695,
-      "word": "天大的沙溢",
-      "onboard_time": 1702307338,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 270207,
@@ -1561,6 +1585,14 @@
       "onboard_time": 1702212576,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257756,
+      "num": 272604,
+      "word": "知情人透露国羽前国手溺亡原因",
+      "onboard_time": 1702308227,
+      "rank": 39,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 256572,
@@ -2964,7 +2996,7 @@
     },
     {
       "raw_hot": 103792,
-      "num": 823225,
+      "num": 959785,
       "word": "男子电击竹筒作画成品好惊艳",
       "onboard_time": 1702302415,
       "rank": 9,
