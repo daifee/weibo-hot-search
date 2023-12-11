@@ -1,0 +1,410 @@
+{
+  "runTime": 1702279025340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796093,
+        "num": 1796093,
+        "word": "难哄 悬着的心终于死了",
+        "onboard_time": 1702274554,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1394439,
+        "num": 1394439,
+        "word": "大胖媳妇喜提豪车",
+        "onboard_time": 1702276713,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115144,
+        "num": 1241584,
+        "word": "今年最难忘的一件事",
+        "onboard_time": 1702268918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1838114,
+        "num": 1222090,
+        "word": "男子打骂待产女儿被妻子刺死",
+        "onboard_time": 1702273772,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1170911,
+        "num": 1170911,
+        "word": "雪地靴 堆堆袜",
+        "onboard_time": 1702271018,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 889270,
+        "num": 889270,
+        "word": "TheShy 对赌协议",
+        "onboard_time": 1702273715,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 783067,
+        "num": 783067,
+        "word": "阚清子首谈被求婚过程",
+        "onboard_time": 1702273831,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 758378,
+        "num": 758378,
+        "word": "火锅店给客人吃3年口水油",
+        "onboard_time": 1702273054,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579046,
+        "num": 579046,
+        "word": "故宫闭馆",
+        "onboard_time": 1702255415,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 379259,
+        "num": 494364,
+        "word": "男子花100块买彩票中8662万捐5300万",
+        "onboard_time": 1702269219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629673,
+        "num": 482905,
+        "word": "律师称杨丞琳若被认定地域歧视需担责",
+        "onboard_time": 1702270718,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 469860,
+        "num": 469860,
+        "word": "体检查出囊肿需要特别注意吗",
+        "onboard_time": 1702277010,
+        "rank": 11,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 425542,
+        "num": 425542,
+        "word": "一念关山向李同光道歉",
+        "onboard_time": 1702274191,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350550,
+        "num": 350550,
+        "word": "WBG 不官宣",
+        "onboard_time": 1702271733,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23317,
+        "num": 344102,
+        "word": "白居易的老家原来在这儿",
+        "onboard_time": 1702278032,
+        "rank": 14,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 340693,
+        "num": 340693,
+        "word": "猪场饲养员洗澡后穿内裤罚款200",
+        "onboard_time": 1702263153,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338593,
+        "num": 338593,
+        "word": "比目鱼系帅哥",
+        "onboard_time": 1702277492,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309121,
+        "num": 309121,
+        "word": "高耀洁医生去世",
+        "onboard_time": 1702264653,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296873,
+        "num": 296873,
+        "word": "周也古装纱裙",
+        "onboard_time": 1702272573,
+        "rank": 18,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 290274,
+        "num": 290274,
+        "word": "懂车帝",
+        "onboard_time": 1702274795,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 280184,
+        "num": 280184,
+        "word": "成为了妈妈不喜欢的人",
+        "onboard_time": 1702278332,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276362,
+        "num": 276362,
+        "word": "长城硬刚懂车帝",
+        "onboard_time": 1702276113,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 261304,
+        "num": 261304,
+        "word": "观众还原杨丞琳冒犯言论现场情况",
+        "onboard_time": 1702260152,
+        "rank": 22,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 246233,
+        "num": 246233,
+        "word": "张雪峰称河南人不爱骗人",
+        "onboard_time": 1702260272,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236800,
+        "num": 236800,
+        "word": "与恶魔有约 结婚",
+        "onboard_time": 1702275754,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228951,
+        "num": 228951,
+        "word": "林宥嘉 难抢",
+        "onboard_time": 1702276890,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218445,
+        "num": 218445,
+        "word": "嘉人 肖战",
+        "onboard_time": 1702261294,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 211355,
+        "num": 211355,
+        "word": "妻子落泪丈夫默默收行李带她回老家",
+        "onboard_time": 1702277010,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191905,
+        "num": 207050,
+        "word": "考生吐槽南京地铁故障致省考迟到",
+        "onboard_time": 1702269397,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 108780,
+        "num": 206351,
+        "word": "丫丫2023长胖图集",
+        "onboard_time": 1702270417,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206188,
+        "num": 206188,
+        "word": "医保卡在外地怎么用",
+        "onboard_time": 1702277072,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204862,
+        "num": 204862,
+        "word": "张凌赫当过老师",
+        "onboard_time": 1702278992,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186510,
+        "num": 199322,
+        "word": "美军黄海坠机飞行员已获救",
+        "onboard_time": 1702269219,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 195565,
+        "num": 195565,
+        "word": "故宫雪景",
+        "onboard_time": 1702278571,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 189119,
+        "num": 189119,
+        "word": "王艺迪 第二排",
+        "onboard_time": 1702278691,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191057,
+        "num": 188613,
+        "word": "当00后办年会敬奶茶",
+        "onboard_time": 1702275872,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185806,
+        "num": 185806,
+        "word": "为什么毕业后不爱发朋友圈了",
+        "onboard_time": 1702266691,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184847,
+        "num": 184847,
+        "word": "很多情侣谈久了关系很畸形",
+        "onboard_time": 1702259253,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177470,
+        "num": 177470,
+        "word": "萌兰滚了一身炸裂糖霜",
+        "onboard_time": 1702267535,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165443,
+        "num": 165443,
+        "word": "王一博卷毛吐舌",
+        "onboard_time": 1702276772,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162888,
+        "num": 162888,
+        "word": "鉴定北方热门地面",
+        "onboard_time": 1702278273,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162424,
+        "num": 162424,
+        "word": "柯南全员黑化",
+        "onboard_time": 1702276353,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148616,
+        "num": 148616,
+        "word": "任如意失望",
+        "onboard_time": 1702276653,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147056,
+        "num": 147056,
+        "word": "TES官宣Mark离队",
+        "onboard_time": 1702276713,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147103,
+        "num": 146797,
+        "word": "刘宇宁很开心被看到眼神戏",
+        "onboard_time": 1702275093,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144864,
+        "num": 144864,
+        "word": "车辆积雪司机偷懒挖2个洞上路",
+        "onboard_time": 1702278992,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135602,
+        "num": 135602,
+        "word": "赵丽颖 动物城vlog",
+        "onboard_time": 1702270657,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128908,
+        "num": 128908,
+        "word": "李斌回应蔚来与合肥对赌1200亿",
+        "onboard_time": 1702274133,
+        "rank": 47,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 124694,
+        "num": 124694,
+        "word": "王鹤棣 意气风发小将军",
+        "onboard_time": 1702271257,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120144,
+        "num": 120144,
+        "word": "林高远 冠军属于中国队",
+        "onboard_time": 1702275814,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界经济活力充分迸发出来#"
+    }
+  }
+}
