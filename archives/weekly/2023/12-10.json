@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702308883327,
+  "endTime": 1702311867437,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -121,6 +121,14 @@
       "onboard_time": 1702213836,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2280945,
+      "num": 2280945,
+      "word": "最早爆料周海媚去世者已删除博文",
+      "onboard_time": 1702309425,
+      "rank": 1,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2203938,
@@ -1139,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 615275,
+      "num": 615275,
+      "word": "为什么刚起床后手握不紧",
+      "onboard_time": 1702306139,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 601424,
       "num": 601424,
       "word": "00后女生花万元买一整车男装",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1702251387,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563136,
+      "num": 563136,
+      "word": "红斑狼疮高发人群是年轻女性",
+      "onboard_time": 1702308530,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 554185,
@@ -1411,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495767,
+      "num": 495767,
+      "word": "杨丞琳这种玩笑话还是不开为好",
+      "onboard_time": 1702306737,
+      "rank": 22,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 493397,
       "num": 493397,
       "word": "国剧盛典",
@@ -1433,14 +1465,6 @@
       "onboard_time": 1702280852,
       "rank": 11,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 490940,
-      "num": 490940,
-      "word": "杨丞琳这种玩笑话还是不开为好",
-      "onboard_time": 1702306737,
-      "rank": 22,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 490852,
@@ -1529,14 +1553,6 @@
       "onboard_time": 1702189232,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465420,
-      "num": 465420,
-      "word": "为什么刚起床后手握不紧",
-      "onboard_time": 1702306139,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 460040,
@@ -2009,14 +2025,6 @@
       "onboard_time": 1702203093,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 368811,
-      "num": 333576,
-      "word": "红斑狼疮高发人群是年轻女性",
-      "onboard_time": 1702308530,
-      "rank": 30,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 367280,
@@ -2940,7 +2948,7 @@
     },
     {
       "raw_hot": 257756,
-      "num": 272604,
+      "num": 346290,
       "word": "知情人透露国羽前国手溺亡原因",
       "onboard_time": 1702308227,
       "rank": 39,
@@ -3025,6 +3033,14 @@
       "onboard_time": 1702259852,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251042,
+      "num": 251042,
+      "word": "真爱的第一征兆是什么",
+      "onboard_time": 1702309663,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 250870,
@@ -4249,6 +4265,14 @@
       "onboard_time": 1702220200,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190496,
+      "num": 190496,
+      "word": "林俊杰说谢谢阿杜当初的提拔",
+      "onboard_time": 1702310618,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 189643,
@@ -6017,6 +6041,14 @@
       "onboard_time": 1702119335,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87394,
+      "num": 87394,
+      "word": "烂手算工伤吗",
+      "onboard_time": 1702310325,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82808,
