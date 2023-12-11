@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702283018824,
+  "endTime": 1702283816024,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2688913,
+      "num": 520718,
+      "word": "死者肯定是南方人",
+      "onboard_time": 1702280432,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2663214,
       "num": 2663214,
       "word": "故宫闭馆",
@@ -65,14 +73,6 @@
       "onboard_time": 1702220980,
       "rank": 10,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 2366431,
-      "num": 520718,
-      "word": "死者肯定是南方人",
-      "onboard_time": 1702280432,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 2322047,
@@ -395,6 +395,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1017377,
+      "num": 1017377,
+      "word": "快乐老友记 直播睡觉",
+      "onboard_time": 1702279354,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1011923,
       "num": 1011923,
       "word": "湖人总冠军",
@@ -417,14 +425,6 @@
       "onboard_time": 1702184374,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 974137,
-      "num": 974137,
-      "word": "快乐老友记 直播睡觉",
-      "onboard_time": 1702279354,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 964632,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745883,
+      "num": 745883,
+      "word": "31岁国羽前国手溺亡",
+      "onboard_time": 1702281694,
+      "rank": 6,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 737018,
       "num": 737018,
       "word": "WBG 不官宣",
@@ -745,14 +753,6 @@
       "onboard_time": 1702211076,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 654876,
-      "num": 654876,
-      "word": "31岁国羽前国手溺亡",
-      "onboard_time": 1702281694,
-      "rank": 6,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 650528,
@@ -1011,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513124,
+      "num": 311183,
+      "word": "妈妈去世8个月留下1盘饺子",
+      "onboard_time": 1702282236,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511692,
       "num": 511692,
       "word": "行测不发草稿纸 申论补上",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1702259192,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 488137,
+      "num": 441975,
+      "word": "瑞幸咖啡师烂手之痛",
+      "onboard_time": 1702282713,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487631,
@@ -1443,6 +1459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 380499,
+      "num": 380499,
+      "word": "本来只有七个星期的年假",
+      "onboard_time": 1702282115,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380246,
       "num": 380246,
       "word": "吉祥航空",
@@ -1547,14 +1571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363532,
-      "num": 287241,
-      "word": "妈妈去世8个月留下1盘饺子",
-      "onboard_time": 1702282236,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362348,
       "num": 362348,
       "word": "男孩重症肺炎出院第二天上学再中招",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1702203694,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 353685,
+      "num": 252767,
+      "word": "李小鹏带女儿到澳门参加活动",
+      "onboard_time": 1702283197,
+      "rank": 30,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 353002,
@@ -1652,7 +1676,7 @@
     },
     {
       "raw_hot": 339725,
-      "num": 255816,
+      "num": 330314,
       "word": "wolf 所有奖金到现在杳无音讯",
       "onboard_time": 1702282356,
       "rank": 30,
@@ -1787,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307391,
+      "num": 307391,
+      "word": "王牌对王牌 直播",
+      "onboard_time": 1702281694,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307149,
       "num": 307149,
       "word": "王曼昱 还没发博",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1702184316,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303695,
+      "num": 303695,
+      "word": "郑州女生推窗看暴雪不料窗户掉下楼",
+      "onboard_time": 1702283015,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301734,
@@ -1955,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289022,
+      "num": 289022,
+      "word": "拍打臀部有助于防病",
+      "onboard_time": 1702281873,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 288960,
       "num": 288960,
       "word": "杨丞琳郑州演唱会门票曾打折出售",
@@ -1985,14 +2033,6 @@
       "onboard_time": 1702210595,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 284683,
-      "num": 284683,
-      "word": "王牌对王牌 直播",
-      "onboard_time": 1702281694,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 284252,
@@ -2051,14 +2091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277034,
-      "num": 277034,
-      "word": "拍打臀部有助于防病",
-      "onboard_time": 1702281873,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 276707,
       "num": 276707,
       "word": "男子境外昏迷44天后乘空中救护车回国",
@@ -2113,14 +2145,6 @@
       "onboard_time": 1702223194,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272350,
-      "num": 272350,
-      "word": "本来只有七个星期的年假",
-      "onboard_time": 1702282115,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 272323,
@@ -2835,6 +2859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210146,
+      "num": 210146,
+      "word": "苏醒 捣蛋",
+      "onboard_time": 1702283437,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210023,
       "num": 210023,
       "word": "乌梅子酱Spotify全球华语播放第一",
@@ -3219,14 +3251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194456,
-      "num": 194456,
-      "word": "瑞幸咖啡师烂手之痛",
-      "onboard_time": 1702282713,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194241,
       "num": 194241,
       "word": "孙龙500米摘铜",
@@ -3241,6 +3265,14 @@
       "onboard_time": 1702258292,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193949,
+      "num": 193949,
+      "word": "猪国迎来大危机",
+      "onboard_time": 1702282654,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 193498,
@@ -3801,14 +3833,6 @@
       "onboard_time": 1702206631,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167549,
-      "num": 167549,
-      "word": "猪国迎来大危机",
-      "onboard_time": 1702282654,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 167096,
@@ -4899,6 +4923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 94800,
+      "num": 311186,
+      "word": "让AIGC给你打工有多爽",
+      "onboard_time": 1702281814,
+      "rank": 28,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 94032,
       "num": 94032,
       "word": "曼联拜仁 急需一个出气筒",
@@ -4921,14 +4953,6 @@
       "onboard_time": 1702119335,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 86712,
-      "num": 259039,
-      "word": "让AIGC给你打工有多爽",
-      "onboard_time": 1702281814,
-      "rank": 28,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 82808,
