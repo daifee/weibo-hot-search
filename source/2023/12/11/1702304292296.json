@@ -1,0 +1,410 @@
+{
+  "runTime": 1702304292296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11322623,
+        "num": 11322623,
+        "word": "周海媚",
+        "onboard_time": 1702293694,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 2864361,
+        "num": 2864361,
+        "word": "周海媚工作人员拒绝回应网传消息",
+        "onboard_time": 1702296758,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 104480,
+        "num": 2466210,
+        "word": "国内在运最大陆上风电基地投运",
+        "onboard_time": 1702302048,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2371615,
+        "num": 2371615,
+        "word": "红斑狼疮",
+        "onboard_time": 1702298565,
+        "rank": 3,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 1900439,
+        "num": 1900439,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1702297181,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 818936,
+        "num": 818936,
+        "word": "GQ员工吐槽 人间真实",
+        "onboard_time": 1702298138,
+        "rank": 5,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1451215,
+        "num": 809387,
+        "word": "周海媚3天前仍有更新账号",
+        "onboard_time": 1702301937,
+        "rank": 6,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 643187,
+        "num": 803815,
+        "word": "警方回应男子倒卧雪中不幸身亡",
+        "onboard_time": 1702300732,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403175,
+        "num": 793832,
+        "word": "瑞幸咖啡师烂手之痛",
+        "onboard_time": 1702282713,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84060,
+        "num": 780965,
+        "word": "男子电击竹筒作画成品好惊艳",
+        "onboard_time": 1702302415,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778756,
+        "num": 778756,
+        "word": "小S发文悼念范玮琪妈妈",
+        "onboard_time": 1702299280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733208,
+        "num": 733208,
+        "word": "新闻女王 郑伯病逝",
+        "onboard_time": 1702303491,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 732795,
+        "num": 732795,
+        "word": "当年的周芷若 惊艳了多少人的童年",
+        "onboard_time": 1702303559,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 654280,
+        "num": 654280,
+        "word": "网购衣服里发现焉栩嘉登机牌",
+        "onboard_time": 1702293995,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477953,
+        "num": 477953,
+        "word": "棣欣引力 湖南卫视跨年",
+        "onboard_time": 1702303852,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442770,
+        "num": 442770,
+        "word": "杨幂手上的黑玫瑰是裙子上掉下来的",
+        "onboard_time": 1702294596,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 423267,
+        "num": 423267,
+        "word": "TheShy 故事迎来了完美结局",
+        "onboard_time": 1702297599,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 409072,
+        "num": 409072,
+        "word": "面包店的香味 假的",
+        "onboard_time": 1702294654,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 334939,
+        "num": 334939,
+        "word": "北京下雪了 羊的天塌了",
+        "onboard_time": 1702289073,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312949,
+        "num": 334844,
+        "word": "有些人天生就不适合太瘦",
+        "onboard_time": 1702301811,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 761913,
+        "num": 334401,
+        "word": "死者肯定是南方人",
+        "onboard_time": 1702280432,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505777,
+        "num": 334187,
+        "word": "男子打骂待产女儿被妻子刺死",
+        "onboard_time": 1702273772,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 353519,
+        "num": 333747,
+        "word": "范丞丞 范肠肠",
+        "onboard_time": 1702286675,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350852,
+        "num": 333627,
+        "word": "对方撤回了一个帅哥数学老师",
+        "onboard_time": 1702299885,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333427,
+        "num": 333427,
+        "word": "一念关山中的黄梦莹",
+        "onboard_time": 1702300247,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326864,
+        "num": 326864,
+        "word": "白岩松曾称中国人什么样河南人就什么样",
+        "onboard_time": 1702289015,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283952,
+        "num": 283952,
+        "word": "结婚3个月离婚106万彩礼被判返还80万",
+        "onboard_time": 1702288054,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251774,
+        "num": 251774,
+        "word": "妲己青丘九尾新增海报",
+        "onboard_time": 1702304092,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247634,
+        "num": 247634,
+        "word": "难哄 悬着的心终于死了",
+        "onboard_time": 1702274554,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206995,
+        "num": 247594,
+        "word": "父亲背基因突变儿子1年爬了4座山",
+        "onboard_time": 1702292075,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324728,
+        "num": 247538,
+        "word": "4位理发师花10小时打理头发",
+        "onboard_time": 1702303491,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 280338,
+        "num": 247422,
+        "word": "糟糕的家庭 总在小事上消耗孩子",
+        "onboard_time": 1702304036,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 266276,
+        "num": 247334,
+        "word": "泛红 皮肤微炎症",
+        "onboard_time": 1702302954,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 179627,
+        "num": 247247,
+        "word": "妈妈去世8个月留下1盘饺子",
+        "onboard_time": 1702282236,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247245,
+        "num": 247245,
+        "word": "药师提醒奥司他韦不可作为常规预防用药",
+        "onboard_time": 1702303795,
+        "rank": 34,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 239729,
+        "num": 239729,
+        "word": "宋江 奶狗脸配狼狗身材",
+        "onboard_time": 1702303741,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222554,
+        "num": 222554,
+        "word": "懂车帝将全程直播冬测现场",
+        "onboard_time": 1702304036,
+        "rank": 36,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 180788,
+        "num": 221945,
+        "word": "物业回应小区业主欠水费800余万元",
+        "onboard_time": 1702301811,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221640,
+        "num": 221640,
+        "word": "160斤女生故宫体验一日格格",
+        "onboard_time": 1702295433,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 163178,
+        "num": 215409,
+        "word": "北京周三周四将有大雪",
+        "onboard_time": 1702299166,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210927,
+        "num": 210927,
+        "word": "薛佳凝神隐演天帝",
+        "onboard_time": 1702296155,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209535,
+        "num": 209535,
+        "word": "于正 你能给赵晴一次机会吗",
+        "onboard_time": 1702291715,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209480,
+        "num": 209480,
+        "word": "王鹤棣 杀青",
+        "onboard_time": 1702304216,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207919,
+        "num": 207919,
+        "word": "郑秀妍和Amber拍了MV",
+        "onboard_time": 1702301391,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203590,
+        "num": 203590,
+        "word": "范玮琪母亲去世",
+        "onboard_time": 1702289073,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148409,
+        "num": 199797,
+        "word": "天津男篮vs广东男篮",
+        "onboard_time": 1702302891,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197901,
+        "num": 197901,
+        "word": "一些专门给抑郁症患者听的地狱笑话",
+        "onboard_time": 1702300310,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197549,
+        "num": 197549,
+        "word": "苹果老龄化",
+        "onboard_time": 1702287694,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147928,
+        "num": 195518,
+        "word": "年度最佳组合陈清晨贾一凡",
+        "onboard_time": 1702303741,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193968,
+        "num": 193968,
+        "word": "快乐老友记",
+        "onboard_time": 1702302537,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进敦煌共同探索那条西行路#"
+    }
+  }
+}

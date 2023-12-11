@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702301628888,
+  "endTime": 1702304292296,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -619,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 11322623,
+      "num": 11322623,
+      "word": "周海媚",
+      "onboard_time": 1702293694,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11321818,
       "num": 8044702,
       "word": "李玟生前控诉中国好声音录音曝光",
@@ -873,14 +881,6 @@
       "onboard_time": 1679623707,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 10437934,
-      "num": 10437934,
-      "word": "周海媚",
-      "onboard_time": 1702293694,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 10420054,
