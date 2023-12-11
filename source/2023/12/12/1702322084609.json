@@ -1,0 +1,410 @@
+{
+  "runTime": 1702322084609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 310308,
+        "num": 310308,
+        "word": "周海媚",
+        "onboard_time": 1702293694,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 210145,
+        "num": 210145,
+        "word": "最早爆料周海媚去世者已删除博文",
+        "onboard_time": 1702309425,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1700,
+        "num": 164841,
+        "word": "太空视角见证中国式现代化",
+        "onboard_time": 1702195112,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143114,
+        "num": 143114,
+        "word": "杨丞琳这种玩笑话还是不开为好",
+        "onboard_time": 1702306737,
+        "rank": 3,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 117804,
+        "num": 117804,
+        "word": "TheShy 我想休息一下",
+        "onboard_time": 1702307869,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115214,
+        "num": 115214,
+        "word": "红斑狼疮高发人群是年轻女性",
+        "onboard_time": 1702308530,
+        "rank": 5,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 109219,
+        "num": 109219,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1702297181,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107616,
+        "num": 107616,
+        "word": "WBG宣布TheShy离队",
+        "onboard_time": 1702308048,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105926,
+        "num": 105926,
+        "word": "男子拉肚子医生多问一句跑赢死神",
+        "onboard_time": 1702306612,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57011,
+        "num": 100775,
+        "word": "2女子路遇3男子性骚扰勇敢拍下",
+        "onboard_time": 1702318937,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96459,
+        "num": 96459,
+        "word": "周海媚工作人员拒绝回应网传消息",
+        "onboard_time": 1702296758,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 90245,
+        "num": 90245,
+        "word": "为什么刚起床后手握不紧",
+        "onboard_time": 1702306139,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84271,
+        "num": 84271,
+        "word": "体脂不断下降的好习惯",
+        "onboard_time": 1702305179,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 83589,
+        "num": 83589,
+        "word": "薛之谦 小杨哥",
+        "onboard_time": 1702304693,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50630,
+        "num": 50630,
+        "word": "鸣龙少年 开黄腔也是性骚扰",
+        "onboard_time": 1702306670,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43519,
+        "num": 43519,
+        "word": "网购衣服里发现焉栩嘉登机牌",
+        "onboard_time": 1702293995,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42284,
+        "num": 42284,
+        "word": "宋轶 使用小号之后会发现世界安静了",
+        "onboard_time": 1702304876,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41317,
+        "num": 41317,
+        "word": "GQ员工吐槽 人间真实",
+        "onboard_time": 1702298138,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 36573,
+        "num": 40605,
+        "word": "我驻菲律宾使馆向菲方提出严正交涉",
+        "onboard_time": 1702304340,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32048,
+        "num": 39998,
+        "word": "瑞幸咖啡师烂手之痛",
+        "onboard_time": 1702282713,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44985,
+        "num": 39998,
+        "word": "五月天",
+        "onboard_time": 1702310678,
+        "rank": 20,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 39994,
+        "num": 39994,
+        "word": "红斑狼疮",
+        "onboard_time": 1702298565,
+        "rank": 21,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 38364,
+        "num": 38364,
+        "word": "糟糕的家庭 总在小事上消耗孩子",
+        "onboard_time": 1702304036,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 36744,
+        "num": 36744,
+        "word": "Ning 可惜没有机会",
+        "onboard_time": 1702305539,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33736,
+        "num": 33736,
+        "word": "王鹤棣 杀青",
+        "onboard_time": 1702304216,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30109,
+        "num": 30109,
+        "word": "晚安 仁川人",
+        "onboard_time": 1702307444,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29895,
+        "num": 29895,
+        "word": "宋江 奶狗脸配狼狗身材",
+        "onboard_time": 1702303741,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28309,
+        "num": 28309,
+        "word": "竞技体育 菜是原罪",
+        "onboard_time": 1702319537,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23183,
+        "num": 28270,
+        "word": "物业回应小区业主欠水费800余万元",
+        "onboard_time": 1702301811,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22831,
+        "num": 28263,
+        "word": "渔民误捕一只两三百斤红海龟放生",
+        "onboard_time": 1702316838,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44245,
+        "num": 28263,
+        "word": "男子打骂待产女儿被妻子刺死",
+        "onboard_time": 1702273772,
+        "rank": 30,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 28260,
+        "num": 28260,
+        "word": "小S发文悼念范玮琪妈妈",
+        "onboard_time": 1702299280,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28186,
+        "num": 28186,
+        "word": "真爱的第一征兆是什么",
+        "onboard_time": 1702309663,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27994,
+        "num": 27994,
+        "word": "谢娜只演女主角",
+        "onboard_time": 1702317925,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27551,
+        "num": 27551,
+        "word": "棣欣引力 湖南卫视跨年",
+        "onboard_time": 1702303852,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27533,
+        "num": 27533,
+        "word": "杨幂手上的黑玫瑰是裙子上掉下来的",
+        "onboard_time": 1702294596,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26908,
+        "num": 26908,
+        "word": "新闻女王 郑伯病逝",
+        "onboard_time": 1702303491,
+        "rank": 36,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 25963,
+        "num": 25963,
+        "word": "奶屁音",
+        "onboard_time": 1702308172,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24307,
+        "num": 24307,
+        "word": "死者肯定是南方人",
+        "onboard_time": 1702280432,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20823,
+        "num": 23650,
+        "word": "横行缅北的电诈犯罪集团覆没在即",
+        "onboard_time": 1702305236,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23338,
+        "num": 23338,
+        "word": "范丞丞 范肠肠",
+        "onboard_time": 1702286675,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23264,
+        "num": 23264,
+        "word": "苹果老龄化",
+        "onboard_time": 1702287694,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23195,
+        "num": 23195,
+        "word": "面包店的香味 假的",
+        "onboard_time": 1702294654,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22700,
+        "num": 22700,
+        "word": "TheShy 故事迎来了完美结局",
+        "onboard_time": 1702297599,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22133,
+        "num": 22133,
+        "word": "泰国偶遇刘亦菲",
+        "onboard_time": 1702306248,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19855,
+        "num": 19855,
+        "word": "妲己青丘九尾新增海报",
+        "onboard_time": 1702304092,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19562,
+        "num": 19562,
+        "word": "林俊杰说谢谢阿杜当初的提拔",
+        "onboard_time": 1702310618,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18356,
+        "num": 19555,
+        "word": "朴智旻入伍寸头照",
+        "onboard_time": 1702315042,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17254,
+        "num": 19550,
+        "word": "知情人透露国羽前国手溺亡原因",
+        "onboard_time": 1702308227,
+        "rank": 48,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 14293,
+        "num": 19547,
+        "word": "酸菜公司回应刘德华代言",
+        "onboard_time": 1702296635,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进敦煌共同探索那条西行路#"
+    }
+  }
+}
