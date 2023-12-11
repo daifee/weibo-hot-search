@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702333042499,
+  "endTime": 1702334095262,
   "band_list": [
     {
       "raw_hot": 3099903,
@@ -355,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 124661,
+      "num": 124661,
+      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
+      "onboard_time": 1702322176,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120344,
       "num": 120344,
       "word": "我国红斑狼疮患病率世界第二",
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83994,
-      "num": 83994,
-      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
-      "onboard_time": 1702322176,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74879,
       "num": 113156,
       "word": "物业回应小区业主欠水费800余万元",
@@ -411,12 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57011,
-      "num": 100775,
+      "raw_hot": 64986,
+      "num": 153968,
       "word": "2女子路遇3男子性骚扰勇敢拍下",
       "onboard_time": 1702318937,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58745,
+      "num": 58745,
+      "word": "真正的睡觉vs虚假的睡觉",
+      "onboard_time": 1702330393,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 56260,
@@ -451,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42673,
-      "num": 42673,
-      "word": "真正的睡觉vs虚假的睡觉",
-      "onboard_time": 1702330393,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 41563,
+      "num": 41563,
+      "word": "下雪某地变成某地",
+      "onboard_time": 1702329794,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 40312,
@@ -464,6 +472,14 @@
       "word": "谢娜只演女主角",
       "onboard_time": 1702317925,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38902,
+      "num": 38902,
+      "word": "宋亚轩回应孔雀东南飞",
+      "onboard_time": 1702326735,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -483,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29074,
-      "num": 29074,
-      "word": "宋亚轩回应孔雀东南飞",
-      "onboard_time": 1702326735,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28162,
       "num": 28162,
       "word": "巴黎圣母院修复 女性劳动者",
@@ -499,16 +507,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27984,
-      "num": 27984,
-      "word": "下雪某地变成某地",
-      "onboard_time": 1702329794,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 18910,
-      "num": 18910,
+      "raw_hot": 25657,
+      "num": 25657,
       "word": "外国人应该挺难懂这些吧",
       "onboard_time": 1702329432,
       "rank": 47,
@@ -523,8 +523,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 2064,
-      "num": 273407,
+      "raw_hot": 2266,
+      "num": 392516,
       "word": "太空视角见证中国式现代化",
       "onboard_time": 1702195112,
       "rank": 2,

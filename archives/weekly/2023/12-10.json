@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702333042499,
+  "endTime": 1702334095262,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -5811,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124661,
+      "num": 124661,
+      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
+      "onboard_time": 1702322176,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124243,
       "num": 124243,
       "word": "站立瘦腹",
@@ -6059,14 +6067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 83994,
-      "num": 83994,
-      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
-      "onboard_time": 1702322176,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82808,
       "num": 82808,
       "word": "WBG纪录片 上野镜头",
@@ -6179,6 +6179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64986,
+      "num": 153968,
+      "word": "2女子路遇3男子性骚扰勇敢拍下",
+      "onboard_time": 1702318937,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63963,
       "num": 63963,
       "word": "广州芳村5万茶价一夜跌到2千",
@@ -6219,6 +6227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58745,
+      "num": 58745,
+      "word": "真正的睡觉vs虚假的睡觉",
+      "onboard_time": 1702330393,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58024,
       "num": 324593,
       "word": "林俊杰说广西是真的浪漫",
@@ -6233,14 +6249,6 @@
       "onboard_time": 1702178489,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 57011,
-      "num": 100775,
-      "word": "2女子路遇3男子性骚扰勇敢拍下",
-      "onboard_time": 1702318937,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56349,
@@ -6339,20 +6347,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42673,
-      "num": 42673,
-      "word": "真正的睡觉vs虚假的睡觉",
-      "onboard_time": 1702330393,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 42575,
       "num": 182160,
       "word": "泰国人都爱开什么车",
       "onboard_time": 1702187196,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 41563,
+      "num": 41563,
+      "word": "下雪某地变成某地",
+      "onboard_time": 1702329794,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 40312,
@@ -6368,6 +6376,14 @@
       "word": "京中真的有善口技者",
       "onboard_time": 1702267233,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38902,
+      "num": 38902,
+      "word": "宋亚轩回应孔雀东南飞",
+      "onboard_time": 1702326735,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -6443,14 +6459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29074,
-      "num": 29074,
-      "word": "宋亚轩回应孔雀东南飞",
-      "onboard_time": 1702326735,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28162,
       "num": 28162,
       "word": "巴黎圣母院修复 女性劳动者",
@@ -6459,12 +6467,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27984,
-      "num": 27984,
-      "word": "下雪某地变成某地",
-      "onboard_time": 1702329794,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 25657,
+      "num": 25657,
+      "word": "外国人应该挺难懂这些吧",
+      "onboard_time": 1702329432,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 25539,
@@ -6513,14 +6521,6 @@
       "onboard_time": 1702220437,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18910,
-      "num": 18910,
-      "word": "外国人应该挺难懂这些吧",
-      "onboard_time": 1702329432,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 18324,
