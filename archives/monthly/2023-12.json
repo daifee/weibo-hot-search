@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702275833496,
+  "endTime": 1702276640483,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -779,6 +779,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2059131,
+      "num": 1339789,
+      "word": "男子打骂待产女儿被妻子刺死",
+      "onboard_time": 1702273772,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2031913,
       "num": 2031913,
       "word": "34岁抗癌网红李小妞去世",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1702181672,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1767999,
-      "num": 1158199,
-      "word": "男子打骂待产女儿被妻子刺死",
-      "onboard_time": 1702273772,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1767780,
@@ -1731,6 +1731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1377520,
+      "num": 1377520,
+      "word": "难哄 悬着的心终于死了",
+      "onboard_time": 1702274554,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1355941,
       "num": 1355941,
       "word": "朱丹 王牌主持人实力",
@@ -1763,6 +1771,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 1335355,
+      "num": 1335355,
+      "word": "TheShy 对赌协议",
+      "onboard_time": 1702273715,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1329182,
       "num": 1329182,
       "word": "私下查询公民个人信息涉嫌犯罪",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1701931291,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1321050,
-      "num": 1321050,
-      "word": "TheShy 对赌协议",
-      "onboard_time": 1702273715,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 1320510,
@@ -3155,14 +3163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 854216,
-      "num": 854216,
-      "word": "难哄 悬着的心终于死了",
-      "onboard_time": 1702274554,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 853352,
       "num": 853352,
       "word": "张若昀拍的唐艺昕",
@@ -4177,6 +4177,14 @@
       "onboard_time": 1701847294,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 687259,
+      "num": 687259,
+      "word": "火锅店给客人吃3年口水油",
+      "onboard_time": 1702273054,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686609,
@@ -5385,14 +5393,6 @@
       "onboard_time": 1701953440,
       "rank": 11,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 571406,
-      "num": 571406,
-      "word": "火锅店给客人吃3年口水油",
-      "onboard_time": 1702273054,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 569977,
@@ -9283,6 +9283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 379579,
+      "num": 379579,
+      "word": "周也古装纱裙",
+      "onboard_time": 1702272573,
+      "rank": 32,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 379319,
       "num": 197379,
       "word": "王栎鑫的获奖感言好朴实",
@@ -9513,14 +9521,6 @@
       "onboard_time": 1701679058,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371821,
-      "num": 371821,
-      "word": "周也古装纱裙",
-      "onboard_time": 1702272573,
-      "rank": 32,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 371446,
@@ -10529,6 +10529,14 @@
       "onboard_time": 1702007796,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341144,
+      "num": 341144,
+      "word": "懂车帝",
+      "onboard_time": 1702274795,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 340668,
@@ -13867,6 +13875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270207,
+      "num": 270207,
+      "word": "当00后办年会敬奶茶",
+      "onboard_time": 1702275872,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 270103,
       "num": 260161,
       "word": "于适GQ红毯",
@@ -14569,14 +14585,6 @@
       "onboard_time": 1701427296,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255054,
-      "num": 255054,
-      "word": "懂车帝",
-      "onboard_time": 1702274795,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 254905,
@@ -16891,6 +16899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218984,
+      "num": 218984,
+      "word": "与恶魔有约 结婚",
+      "onboard_time": 1702275754,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218908,
       "num": 218908,
       "word": "陈伟霆 只要我不尴尬尴尬的就是张家辉",
@@ -18161,6 +18177,14 @@
       "onboard_time": 1701613421,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205472,
+      "num": 205472,
+      "word": "多家车企质疑懂车帝冬测",
+      "onboard_time": 1702274853,
+      "rank": 32,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 205409,
@@ -19651,6 +19675,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 192629,
+      "num": 192629,
+      "word": "长城硬刚懂车帝",
+      "onboard_time": 1702276113,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 192583,
       "num": 192583,
       "word": "声生不息家年华阵容",
@@ -20747,14 +20779,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 182737,
-      "num": 182737,
-      "word": "多家车企质疑懂车帝冬测",
-      "onboard_time": 1702274853,
-      "rank": 32,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 182723,
       "num": 182723,
       "word": "印度股市市值首破4万亿美元",
@@ -20889,6 +20913,14 @@
       "onboard_time": 1702114352,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181124,
+      "num": 181124,
+      "word": "林高远 冠军属于中国队",
+      "onboard_time": 1702275814,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 181076,
@@ -23331,6 +23363,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 153217,
+      "num": 153217,
+      "word": "柯南全员黑化",
+      "onboard_time": 1702276353,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153191,
       "num": 274160,
       "word": "王楚钦孙颖莎热身场全程",
@@ -23668,7 +23708,7 @@
     },
     {
       "raw_hot": 149397,
-      "num": 1168731,
+      "num": 1339820,
       "word": "今年最难忘的一件事",
       "onboard_time": 1702268918,
       "rank": 2,
@@ -24491,6 +24531,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 141807,
+      "num": 141807,
+      "word": "河南老君山银装素裹似仙境",
+      "onboard_time": 1702276293,
+      "rank": 38,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 141781,
       "num": 141781,
       "word": "刘诗诗演技 层次感",
@@ -24641,6 +24689,14 @@
       "onboard_time": 1701477571,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140238,
+      "num": 140238,
+      "word": "Spotify年度华语流行榜",
+      "onboard_time": 1702274971,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 140206,
@@ -25065,6 +25121,14 @@
       "onboard_time": 1701923738,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 135634,
+      "num": 135634,
+      "word": "十个勤天 八卦之魂",
+      "onboard_time": 1702275573,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 135351,
@@ -25635,14 +25699,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 127532,
-      "num": 127532,
-      "word": "Spotify年度华语流行榜",
-      "onboard_time": 1702274971,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 127494,
       "num": 127494,
       "word": "金靖宋亚轩对手戏",
@@ -25921,14 +25977,6 @@
       "onboard_time": 1701610365,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123717,
-      "num": 123717,
-      "word": "十个勤天 八卦之魂",
-      "onboard_time": 1702275573,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 123656,
@@ -26419,14 +26467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112111,
-      "num": 112111,
-      "word": "林高远 冠军属于中国队",
-      "onboard_time": 1702275814,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112046,
       "num": 112046,
       "word": "信雅达董事长二女儿是Pika创始人",
@@ -26497,14 +26537,6 @@
       "onboard_time": 1701620551,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110526,
-      "num": 110526,
-      "word": "与恶魔有约 结婚",
-      "onboard_time": 1702275754,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 109956,

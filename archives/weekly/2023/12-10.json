@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702275833496,
+  "endTime": 1702276640483,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -115,6 +115,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2059131,
+      "num": 1339789,
+      "word": "男子打骂待产女儿被妻子刺死",
+      "onboard_time": 1702273772,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2028278,
       "num": 2028278,
       "word": "饶雪漫谈八年不敢联系陈都灵",
@@ -153,14 +161,6 @@
       "onboard_time": 1702181672,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1767999,
-      "num": 1158199,
-      "word": "男子打骂待产女儿被妻子刺死",
-      "onboard_time": 1702273772,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1755734,
@@ -211,20 +211,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1377520,
+      "num": 1377520,
+      "word": "难哄 悬着的心终于死了",
+      "onboard_time": 1702274554,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1335355,
+      "num": 1335355,
+      "word": "TheShy 对赌协议",
+      "onboard_time": 1702273715,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1327800,
       "num": 1327800,
       "word": "冰箱门上放牛奶隐患有多大",
       "onboard_time": 1702168226,
       "rank": 1,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 1321050,
-      "num": 1321050,
-      "word": "TheShy 对赌协议",
-      "onboard_time": 1702273715,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 1303043,
@@ -515,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 854216,
-      "num": 854216,
-      "word": "难哄 悬着的心终于死了",
-      "onboard_time": 1702274554,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 844483,
       "num": 844483,
       "word": "华润集团曝光四家假央企",
@@ -656,6 +656,14 @@
       "word": "南京大屠杀又添新证据",
       "onboard_time": 1702132179,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 687259,
+      "num": 687259,
+      "word": "火锅店给客人吃3年口水油",
+      "onboard_time": 1702273054,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -841,14 +849,6 @@
       "onboard_time": 1702269338,
       "rank": 10,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 571406,
-      "num": 571406,
-      "word": "火锅店给客人吃3年口水油",
-      "onboard_time": 1702273054,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 567915,
@@ -1355,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379579,
+      "num": 379579,
+      "word": "周也古装纱裙",
+      "onboard_time": 1702272573,
+      "rank": 32,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 376955,
       "num": 376955,
       "word": "美参议员称中国大蒜威胁其国家安全",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1702267535,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371821,
-      "num": 371821,
-      "word": "周也古装纱裙",
-      "onboard_time": 1702272573,
-      "rank": 32,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 370948,
@@ -1529,6 +1529,14 @@
       "onboard_time": 1702203934,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341144,
+      "num": 341144,
+      "word": "懂车帝",
+      "onboard_time": 1702274795,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 340650,
@@ -1979,6 +1987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270207,
+      "num": 270207,
+      "word": "当00后办年会敬奶茶",
+      "onboard_time": 1702275872,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267536,
       "num": 267536,
       "word": "王俊凯新歌红蓝战歌",
@@ -2081,14 +2097,6 @@
       "onboard_time": 1702271432,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255054,
-      "num": 255054,
-      "word": "懂车帝",
-      "onboard_time": 1702274795,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 253591,
@@ -2483,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218984,
+      "num": 218984,
+      "word": "与恶魔有约 结婚",
+      "onboard_time": 1702275754,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218747,
       "num": 218747,
       "word": "宁远舟在冰点脱毛",
@@ -2689,6 +2705,14 @@
       "onboard_time": 1702167325,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205472,
+      "num": 205472,
+      "word": "多家车企质疑懂车帝冬测",
+      "onboard_time": 1702274853,
+      "rank": 32,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 205196,
@@ -2971,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192629,
+      "num": 192629,
+      "word": "长城硬刚懂车帝",
+      "onboard_time": 1702276113,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 192106,
       "num": 211587,
       "word": "郑州市发布暴雪红色预警",
@@ -3147,14 +3179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182737,
-      "num": 182737,
-      "word": "多家车企质疑懂车帝冬测",
-      "onboard_time": 1702274853,
-      "rank": 32,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 182218,
       "num": 182218,
       "word": "樊振东2比1李尚洙",
@@ -3168,6 +3192,14 @@
       "word": "王楚钦孙颖莎1比2日本组合",
       "onboard_time": 1702124376,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181124,
+      "num": 181124,
+      "word": "林高远 冠军属于中国队",
+      "onboard_time": 1702275814,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -3707,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153217,
+      "num": 153217,
+      "word": "柯南全员黑化",
+      "onboard_time": 1702276353,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152103,
       "num": 152103,
       "word": "里夫斯半场22分",
@@ -3780,7 +3820,7 @@
     },
     {
       "raw_hot": 149397,
-      "num": 1168731,
+      "num": 1339820,
       "word": "今年最难忘的一件事",
       "onboard_time": 1702268918,
       "rank": 2,
@@ -3955,6 +3995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141807,
+      "num": 141807,
+      "word": "河南老君山银装素裹似仙境",
+      "onboard_time": 1702276293,
+      "rank": 38,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 141581,
       "num": 113644,
       "word": "李一桐 笑眼盈盈这个词的杀伤力",
@@ -3977,6 +4025,14 @@
       "onboard_time": 1702136194,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140238,
+      "num": 140238,
+      "word": "Spotify年度华语流行榜",
+      "onboard_time": 1702274971,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 140195,
@@ -4115,6 +4171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135634,
+      "num": 135634,
+      "word": "十个勤天 八卦之魂",
+      "onboard_time": 1702275573,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135270,
       "num": 135270,
       "word": "小鬼直播唱爱到1440",
@@ -4235,14 +4299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127532,
-      "num": 127532,
-      "word": "Spotify年度华语流行榜",
-      "onboard_time": 1702274971,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 127409,
       "num": 127409,
       "word": "间谍过家家 温馨的一家三口",
@@ -4321,14 +4377,6 @@
       "onboard_time": 1702172668,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123717,
-      "num": 123717,
-      "word": "十个勤天 八卦之魂",
-      "onboard_time": 1702275573,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 123186,
@@ -4441,22 +4489,6 @@
       "onboard_time": 1702145006,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112111,
-      "num": 112111,
-      "word": "林高远 冠军属于中国队",
-      "onboard_time": 1702275814,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110526,
-      "num": 110526,
-      "word": "与恶魔有约 结婚",
-      "onboard_time": 1702275754,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 106847,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1702276640483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814195,
+        "num": 1814195,
+        "word": "雪地靴 堆堆袜",
+        "onboard_time": 1702271018,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1377520,
+        "num": 1377520,
+        "word": "难哄 悬着的心终于死了",
+        "onboard_time": 1702274554,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117707,
+        "num": 1339820,
+        "word": "今年最难忘的一件事",
+        "onboard_time": 1702268918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2059131,
+        "num": 1339789,
+        "word": "男子打骂待产女儿被妻子刺死",
+        "onboard_time": 1702273772,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1335355,
+        "num": 1335355,
+        "word": "TheShy 对赌协议",
+        "onboard_time": 1702273715,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1064195,
+        "num": 1064195,
+        "word": "阚清子首谈被求婚过程",
+        "onboard_time": 1702273831,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 826730,
+        "num": 826730,
+        "word": "故宫闭馆",
+        "onboard_time": 1702255415,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 687259,
+        "num": 687259,
+        "word": "火锅店给客人吃3年口水油",
+        "onboard_time": 1702273054,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560230,
+        "num": 560230,
+        "word": "WBG 不官宣",
+        "onboard_time": 1702271733,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 513714,
+        "num": 513714,
+        "word": "男子花100块买彩票中8662万捐5300万",
+        "onboard_time": 1702269219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798154,
+        "num": 506235,
+        "word": "律师称杨丞琳若被认定地域歧视需担责",
+        "onboard_time": 1702270718,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 474862,
+        "num": 474862,
+        "word": "一念关山向李同光道歉",
+        "onboard_time": 1702274191,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444886,
+        "num": 444886,
+        "word": "猪场饲养员洗澡后穿内裤罚款200",
+        "onboard_time": 1702263153,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379579,
+        "num": 379579,
+        "word": "周也古装纱裙",
+        "onboard_time": 1702272573,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 341144,
+        "num": 341144,
+        "word": "懂车帝",
+        "onboard_time": 1702274795,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 330304,
+        "num": 330304,
+        "word": "观众还原杨丞琳冒犯言论现场情况",
+        "onboard_time": 1702260152,
+        "rank": 15,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 327861,
+        "num": 327861,
+        "word": "高耀洁医生去世",
+        "onboard_time": 1702264653,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299679,
+        "num": 299679,
+        "word": "嘉人 肖战",
+        "onboard_time": 1702261294,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 298632,
+        "num": 298632,
+        "word": "考生吐槽南京地铁故障致省考迟到",
+        "onboard_time": 1702269397,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 272300,
+        "num": 272300,
+        "word": "刘宇宁很开心被看到眼神戏",
+        "onboard_time": 1702275093,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327779,
+        "num": 271748,
+        "word": "张雪峰称河南人不爱骗人",
+        "onboard_time": 1702260272,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270207,
+        "num": 270207,
+        "word": "当00后办年会敬奶茶",
+        "onboard_time": 1702275872,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218984,
+        "num": 218984,
+        "word": "与恶魔有约 结婚",
+        "onboard_time": 1702275754,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215786,
+        "num": 215786,
+        "word": "美军黄海坠机飞行员已获救",
+        "onboard_time": 1702269219,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 205472,
+        "num": 205472,
+        "word": "多家车企质疑懂车帝冬测",
+        "onboard_time": 1702274853,
+        "rank": 24,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 205295,
+        "num": 205295,
+        "word": "很多情侣谈久了关系很畸形",
+        "onboard_time": 1702259253,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203319,
+        "num": 203319,
+        "word": "王鹤棣 意气风发小将军",
+        "onboard_time": 1702271257,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202122,
+        "num": 202122,
+        "word": "萌兰滚了一身炸裂糖霜",
+        "onboard_time": 1702267535,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192629,
+        "num": 192629,
+        "word": "长城硬刚懂车帝",
+        "onboard_time": 1702276113,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126767,
+        "num": 191506,
+        "word": "丫丫2023长胖图集",
+        "onboard_time": 1702270417,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190978,
+        "num": 190978,
+        "word": "赵丽颖 动物城vlog",
+        "onboard_time": 1702270657,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181124,
+        "num": 181124,
+        "word": "林高远 冠军属于中国队",
+        "onboard_time": 1702275814,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176407,
+        "num": 176407,
+        "word": "李斌回应蔚来与合肥对赌1200亿",
+        "onboard_time": 1702274133,
+        "rank": 32,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 175859,
+        "num": 175859,
+        "word": "曾经的龙葵 现在的任辛",
+        "onboard_time": 1702256914,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170690,
+        "num": 170690,
+        "word": "为什么毕业后不爱发朋友圈了",
+        "onboard_time": 1702266691,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154272,
+        "num": 154272,
+        "word": "宋江腹肌",
+        "onboard_time": 1702271432,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153217,
+        "num": 153217,
+        "word": "柯南全员黑化",
+        "onboard_time": 1702276353,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142206,
+        "num": 142206,
+        "word": "郑渊洁北京存信的房子曾被盗",
+        "onboard_time": 1702272396,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141807,
+        "num": 141807,
+        "word": "河南老君山银装素裹似仙境",
+        "onboard_time": 1702276293,
+        "rank": 38,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 140238,
+        "num": 140238,
+        "word": "Spotify年度华语流行榜",
+        "onboard_time": 1702274971,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187089,
+        "num": 140154,
+        "word": "时尚芭莎 王一博",
+        "onboard_time": 1702263032,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139237,
+        "num": 139237,
+        "word": "丁程鑫又被瓶子选中了",
+        "onboard_time": 1702274853,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135634,
+        "num": 135634,
+        "word": "十个勤天 八卦之魂",
+        "onboard_time": 1702275573,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128127,
+        "num": 128127,
+        "word": "多省公务员考试考生直呼心凉",
+        "onboard_time": 1702259792,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 127021,
+        "num": 127021,
+        "word": "爸爸辅导完作业感觉老了10岁",
+        "onboard_time": 1702273531,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126743,
+        "num": 126743,
+        "word": "TheShy 转会期",
+        "onboard_time": 1702251507,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123957,
+        "num": 123957,
+        "word": "鞠婧祎浴室唱半壶纱",
+        "onboard_time": 1702273593,
+        "rank": 46,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 119713,
+        "num": 119713,
+        "word": "林孝埈退出首尔站比赛",
+        "onboard_time": 1702261954,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118999,
+        "num": 118999,
+        "word": "王阳明 放纵欲望才是痛苦的根源",
+        "onboard_time": 1702261052,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114042,
+        "num": 114042,
+        "word": "专家回应公务员考试考生多地考试现象",
+        "onboard_time": 1702263454,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界经济活力充分迸发出来#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702275833496,
+  "endTime": 1702276640483,
   "band_list": [
     {
       "raw_hot": 2663214,
@@ -35,6 +35,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 2059131,
+      "num": 1339789,
+      "word": "男子打骂待产女儿被妻子刺死",
+      "onboard_time": 1702273772,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1944481,
       "num": 1944481,
       "word": "观众还原杨丞琳冒犯言论现场情况",
@@ -49,14 +57,6 @@
       "onboard_time": 1702271018,
       "rank": 17,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1767999,
-      "num": 1158199,
-      "word": "男子打骂待产女儿被妻子刺死",
-      "onboard_time": 1702273772,
-      "rank": 3,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1533574,
@@ -75,8 +75,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1321050,
-      "num": 1321050,
+      "raw_hot": 1377520,
+      "num": 1377520,
+      "word": "难哄 悬着的心终于死了",
+      "onboard_time": 1702274554,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1335355,
+      "num": 1335355,
       "word": "TheShy 对赌协议",
       "onboard_time": 1702273715,
       "rank": 1,
@@ -179,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 854216,
-      "num": 854216,
-      "word": "难哄 悬着的心终于死了",
-      "onboard_time": 1702274554,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 807355,
       "num": 807355,
       "word": "多省公务员考试考生直呼心凉",
@@ -233,6 +233,14 @@
       "onboard_time": 1702219300,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 687259,
+      "num": 687259,
+      "word": "火锅店给客人吃3年口水油",
+      "onboard_time": 1702273054,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 685795,
@@ -305,14 +313,6 @@
       "onboard_time": 1702269338,
       "rank": 10,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 571406,
-      "num": 571406,
-      "word": "火锅店给客人吃3年口水油",
-      "onboard_time": 1702273054,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565268,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379579,
+      "num": 379579,
+      "word": "周也古装纱裙",
+      "onboard_time": 1702272573,
+      "rank": 32,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 378610,
       "num": 378610,
       "word": "主播陈一发儿疑似复出再被封",
@@ -473,14 +481,6 @@
       "onboard_time": 1702267535,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 371821,
-      "num": 371821,
-      "word": "周也古装纱裙",
-      "onboard_time": 1702272573,
-      "rank": 32,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 367175,
@@ -529,6 +529,14 @@
       "onboard_time": 1702271257,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341144,
+      "num": 341144,
+      "word": "懂车帝",
+      "onboard_time": 1702274795,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 339702,
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270207,
+      "num": 270207,
+      "word": "当00后办年会敬奶茶",
+      "onboard_time": 1702275872,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266573,
       "num": 266573,
       "word": "猪肝到底是营养佳品还是毒素垃圾",
@@ -705,14 +721,6 @@
       "onboard_time": 1702271432,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255054,
-      "num": 255054,
-      "word": "懂车帝",
-      "onboard_time": 1702274795,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 252390,
@@ -859,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218984,
+      "num": 218984,
+      "word": "与恶魔有约 结婚",
+      "onboard_time": 1702275754,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218300,
       "num": 197582,
       "word": "亲亲只能是年轻人的权利吗",
@@ -921,6 +937,14 @@
       "onboard_time": 1702268799,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205472,
+      "num": 205472,
+      "word": "多家车企质疑懂车帝冬测",
+      "onboard_time": 1702274853,
+      "rank": 32,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 203908,
@@ -1011,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192629,
+      "num": 192629,
+      "word": "长城硬刚懂车帝",
+      "onboard_time": 1702276113,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 192106,
       "num": 211587,
       "word": "郑州市发布暴雪红色预警",
@@ -1051,12 +1083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182737,
-      "num": 182737,
-      "word": "多家车企质疑懂车帝冬测",
-      "onboard_time": 1702274853,
-      "rank": 32,
-      "category": "汽车,社会新闻"
+      "raw_hot": 181124,
+      "num": 181124,
+      "word": "林高远 冠军属于中国队",
+      "onboard_time": 1702275814,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 180161,
@@ -1203,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153217,
+      "num": 153217,
+      "word": "柯南全员黑化",
+      "onboard_time": 1702276353,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152101,
       "num": 152101,
       "word": "陈梦 做彼此坚强的后盾",
@@ -1244,7 +1284,7 @@
     },
     {
       "raw_hot": 149397,
-      "num": 1168731,
+      "num": 1339820,
       "word": "今年最难忘的一件事",
       "onboard_time": 1702268918,
       "rank": 2,
@@ -1323,6 +1363,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141807,
+      "num": 141807,
+      "word": "河南老君山银装素裹似仙境",
+      "onboard_time": 1702276293,
+      "rank": 38,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 140238,
+      "num": 140238,
+      "word": "Spotify年度华语流行榜",
+      "onboard_time": 1702274971,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139252,
       "num": 139252,
       "word": "接吻完顾声的口红都掉光了",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1702259971,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135634,
+      "num": 135634,
+      "word": "十个勤天 八卦之魂",
+      "onboard_time": 1702275573,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 135270,
@@ -1419,22 +1483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127532,
-      "num": 127532,
-      "word": "Spotify年度华语流行榜",
-      "onboard_time": 1702274971,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 123717,
-      "num": 123717,
-      "word": "十个勤天 八卦之魂",
-      "onboard_time": 1702275573,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121255,
       "num": 121255,
       "word": "马龙第28个世界冠军",
@@ -1488,22 +1536,6 @@
       "word": "宁远舟把李同光头按缸里",
       "onboard_time": 1702216120,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 112111,
-      "num": 112111,
-      "word": "林高远 冠军属于中国队",
-      "onboard_time": 1702275814,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 110526,
-      "num": 110526,
-      "word": "与恶魔有约 结婚",
-      "onboard_time": 1702275754,
-      "rank": 49,
       "category": "剧集"
     },
     {
