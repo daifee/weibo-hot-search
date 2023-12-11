@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702315026075,
+  "endTime": 1702316062411,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -28897,6 +28897,14 @@
       "onboard_time": 1701471739,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71423,
+      "num": 71423,
+      "word": "朴智旻入伍寸头照",
+      "onboard_time": 1702315042,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 71242,

@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702315026075,
+  "endTime": 1702316062411,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -5555,6 +5555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137210,
+      "num": 137210,
+      "word": "五月天",
+      "onboard_time": 1702310678,
+      "rank": 46,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 137017,
       "num": 137017,
       "word": "李健 时钟上只有一个时间就是现在",
@@ -5801,14 +5809,6 @@
       "onboard_time": 1702119273,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124773,
-      "num": 124773,
-      "word": "五月天",
-      "onboard_time": 1702310678,
-      "rank": 46,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 124243,
@@ -6121,6 +6121,14 @@
       "onboard_time": 1702216839,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71423,
+      "num": 71423,
+      "word": "朴智旻入伍寸头照",
+      "onboard_time": 1702315042,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 70829,
