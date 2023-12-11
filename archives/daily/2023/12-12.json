@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702322084609,
+  "endTime": 1702323239879,
   "band_list": [
     {
       "raw_hot": 3099903,
@@ -465,6 +465,14 @@
       "onboard_time": 1702319537,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22908,
+      "num": 22908,
+      "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
+      "onboard_time": 1702322176,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2064,
