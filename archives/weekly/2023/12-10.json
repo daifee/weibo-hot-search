@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702268516520,
+  "endTime": 1702269354212,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1244564,
-      "num": 326952,
+      "num": 349572,
       "word": "很多情侣谈久了关系很畸形",
       "onboard_time": 1702259253,
       "rank": 20,
@@ -427,6 +427,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 892305,
+      "num": 892305,
+      "word": "高耀洁医生去世",
+      "onboard_time": 1702264653,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 886381,
       "num": 886381,
       "word": "时尚芭莎 王一博",
@@ -488,14 +496,6 @@
       "word": "拖拽妻儿男子回应称非常后悔",
       "onboard_time": 1702138052,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821233,
-      "num": 821233,
-      "word": "高耀洁医生去世",
-      "onboard_time": 1702264653,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -763,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578314,
+      "num": 578314,
+      "word": "河南共青团谈杨丞琳说河南人爱骗人",
+      "onboard_time": 1702269338,
+      "rank": 10,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 567915,
       "num": 567915,
       "word": "宋江居然是举芦荟胶内男的",
@@ -1028,7 +1036,7 @@
     },
     {
       "raw_hot": 448761,
-      "num": 326125,
+      "num": 346315,
       "word": "王阳明 放纵欲望才是痛苦的根源",
       "onboard_time": 1702261052,
       "rank": 30,
@@ -1307,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 364742,
+      "num": 364742,
+      "word": "为什么APP总是知道你想买啥",
+      "onboard_time": 1702267114,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 364556,
       "num": 364556,
       "word": "男子因一个热水器救了一栋楼",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1702213360,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 355501,
+      "num": 355501,
+      "word": "萌兰滚了一身炸裂糖霜",
+      "onboard_time": 1702267535,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354347,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1702180715,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345725,
+      "num": 345725,
+      "word": "男子花100块买彩票中8662万捐5300万",
+      "onboard_time": 1702269219,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345189,
@@ -1443,14 +1475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 324485,
-      "num": 324485,
-      "word": "为什么APP总是知道你想买啥",
-      "onboard_time": 1702267114,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 323192,
       "num": 323192,
       "word": "经常不吃早饭会怎么样",
@@ -1491,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312619,
+      "num": 312619,
+      "word": "为什么毕业后不爱发朋友圈了",
+      "onboard_time": 1702266691,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309320,
       "num": 304937,
       "word": "李同光对任辛表白",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1702178195,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307149,
+      "num": 307149,
+      "word": "王曼昱 还没发博",
+      "onboard_time": 1702268436,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 306444,
@@ -1867,28 +1907,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 262169,
-      "num": 262169,
-      "word": "萌兰滚了一身炸裂糖霜",
-      "onboard_time": 1702267535,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 261671,
       "num": 261671,
       "word": "乒乓球世界杯将在中国澳门重启",
       "onboard_time": 1702212157,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261516,
-      "num": 261516,
-      "word": "为什么毕业后不爱发朋友圈了",
-      "onboard_time": 1702266691,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 260288,
@@ -1995,12 +2019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245534,
+      "num": 245534,
+      "word": "美军黄海坠机飞行员已获救",
+      "onboard_time": 1702269219,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
       "raw_hot": 243360,
       "num": 243360,
       "word": "减肥公式",
       "onboard_time": 1702265733,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 242101,
+      "num": 242101,
+      "word": "神隐连更11天",
+      "onboard_time": 1702267414,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 240361,
@@ -2064,14 +2104,6 @@
       "word": "宋江金裕贞 般配",
       "onboard_time": 1702177531,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 235556,
-      "num": 235556,
-      "word": "神隐连更11天",
-      "onboard_time": 1702267414,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2169,6 +2201,14 @@
       "onboard_time": 1702220742,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 227304,
+      "num": 227304,
+      "word": "张若昀脖子上的青筋",
+      "onboard_time": 1702268318,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 226651,
@@ -2425,6 +2465,14 @@
       "onboard_time": 1702197812,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206631,
+      "num": 206631,
+      "word": "堆雪人",
+      "onboard_time": 1702268799,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206438,
@@ -2787,14 +2835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187215,
-      "num": 187215,
-      "word": "王曼昱 还没发博",
-      "onboard_time": 1702268436,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186705,
       "num": 186705,
       "word": "总是腿脚冰凉当心是血管堵了",
@@ -3059,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175531,
+      "num": 175531,
+      "word": "给城里人一点赚钱震撼",
+      "onboard_time": 1702269161,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175399,
       "num": 175399,
       "word": "BeepBeepChallenge",
@@ -3131,6 +3179,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 172921,
+      "num": 172921,
+      "word": "大张伟谈被张钧甯拯救的经历",
+      "onboard_time": 1702269161,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172646,
       "num": 172646,
       "word": "陈铭治好了我用平替的羞耻感",
@@ -3171,6 +3227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169732,
+      "num": 528130,
+      "word": "请龚俊把眼镜焊上",
+      "onboard_time": 1702265493,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169268,
       "num": 429870,
       "word": "熬夜垮脸如何自救",
@@ -3201,14 +3265,6 @@
       "onboard_time": 1702161916,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167754,
-      "num": 167754,
-      "word": "张若昀脖子上的青筋",
-      "onboard_time": 1702268318,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 167550,
@@ -3867,6 +3923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129993,
+      "num": 154252,
+      "word": "走过2023",
+      "onboard_time": 1702269338,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129505,
       "num": 129505,
       "word": "胰岛素抵抗就是糖尿病吗",
@@ -4107,14 +4171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111700,
-      "num": 528130,
-      "word": "请龚俊把眼镜焊上",
-      "onboard_time": 1702265493,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106847,
       "num": 106847,
       "word": "吃梨真的能化痰止咳吗",
@@ -4211,6 +4267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 77224,
+      "num": 167564,
+      "word": "冰墩墩雪容融又见到雪了",
+      "onboard_time": 1702268616,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75897,
       "num": 75897,
       "word": "北京看雪别再扎堆故宫",
@@ -4233,6 +4297,14 @@
       "onboard_time": 1702216839,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74314,
+      "num": 798550,
+      "word": "今年最难忘的一件事",
+      "onboard_time": 1702268918,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70829,
@@ -4427,6 +4499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39597,
+      "num": 188662,
+      "word": "京中真的有善口技者",
+      "onboard_time": 1702267233,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35792,
       "num": 145307,
       "word": "万茜戏里戏外反差感",
@@ -4489,14 +4569,6 @@
       "onboard_time": 1702145658,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23424,
-      "num": 186320,
-      "word": "京中真的有善口技者",
-      "onboard_time": 1702267233,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 21703,
