@@ -1,6 +1,6 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702272848695,
+  "endTime": 1702275833496,
   "band_list": [
     {
       "raw_hot": 2663214,
@@ -43,8 +43,24 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1882647,
+      "num": 1882647,
+      "word": "雪地靴 堆堆袜",
+      "onboard_time": 1702271018,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 1767999,
+      "num": 1158199,
+      "word": "男子打骂待产女儿被妻子刺死",
+      "onboard_time": 1702273772,
+      "rank": 3,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1533574,
-      "num": 426422,
+      "num": 544297,
       "word": "律师称杨丞琳若被认定地域歧视需担责",
       "onboard_time": 1702270718,
       "rank": 10,
@@ -57,6 +73,14 @@
       "onboard_time": 1702263153,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1321050,
+      "num": 1321050,
+      "word": "TheShy 对赌协议",
+      "onboard_time": 1702273715,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 1244564,
@@ -75,20 +99,20 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1134092,
+      "num": 1134092,
+      "word": "阚清子首谈被求婚过程",
+      "onboard_time": 1702273831,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1124247,
       "num": 1124247,
       "word": "男子花100块买彩票中8662万捐5300万",
       "onboard_time": 1702269219,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1070681,
-      "num": 1070681,
-      "word": "雪地靴 堆堆袜",
-      "onboard_time": 1702271018,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 1068968,
@@ -153,6 +177,14 @@
       "onboard_time": 1702246214,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854216,
+      "num": 854216,
+      "word": "难哄 悬着的心终于死了",
+      "onboard_time": 1702274554,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 807355,
@@ -275,6 +307,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 571406,
+      "num": 571406,
+      "word": "火锅店给客人吃3年口水油",
+      "onboard_time": 1702273054,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565268,
       "num": 565268,
       "word": "老人握妻子手买人生第一套房",
@@ -313,6 +353,14 @@
       "onboard_time": 1702252410,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498808,
+      "num": 498808,
+      "word": "一念关山向李同光道歉",
+      "onboard_time": 1702274191,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 490852,
@@ -387,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381044,
+      "num": 376042,
+      "word": "刘宇宁很开心被看到眼神戏",
+      "onboard_time": 1702275093,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378610,
       "num": 378610,
       "word": "主播陈一发儿疑似复出再被封",
@@ -417,6 +473,14 @@
       "onboard_time": 1702267535,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371821,
+      "num": 371821,
+      "word": "周也古装纱裙",
+      "onboard_time": 1702272573,
+      "rank": 32,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 367175,
@@ -643,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255054,
+      "num": 255054,
+      "word": "懂车帝",
+      "onboard_time": 1702274795,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 252390,
       "num": 252390,
       "word": "山西原平一高速疑因下雪多车相撞",
@@ -731,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228834,
+      "num": 228834,
+      "word": "李斌回应蔚来与合肥对赌1200亿",
+      "onboard_time": 1702274133,
+      "rank": 22,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 228643,
       "num": 228643,
       "word": "郑州下雪",
@@ -793,14 +873,6 @@
       "onboard_time": 1702266691,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214062,
-      "num": 214062,
-      "word": "周也古装纱裙",
-      "onboard_time": 1702272573,
-      "rank": 32,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 213775,
@@ -977,6 +1049,14 @@
       "onboard_time": 1702270417,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182737,
+      "num": 182737,
+      "word": "多家车企质疑懂车帝冬测",
+      "onboard_time": 1702274853,
+      "rank": 32,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 180161,
@@ -1164,7 +1244,7 @@
     },
     {
       "raw_hot": 149397,
-      "num": 1086125,
+      "num": 1168731,
       "word": "今年最难忘的一件事",
       "onboard_time": 1702268918,
       "rank": 2,
@@ -1185,6 +1265,22 @@
       "onboard_time": 1702260933,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147813,
+      "num": 147813,
+      "word": "丁程鑫又被瓶子选中了",
+      "onboard_time": 1702274853,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146290,
+      "num": 146290,
+      "word": "鞠婧祎浴室唱半壶纱",
+      "onboard_time": 1702273593,
+      "rank": 36,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 145265,
@@ -1217,6 +1313,14 @@
       "onboard_time": 1702261772,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142146,
+      "num": 142146,
+      "word": "爸爸辅导完作业感觉老了10岁",
+      "onboard_time": 1702273531,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139252,
@@ -1315,6 +1419,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127532,
+      "num": 127532,
+      "word": "Spotify年度华语流行榜",
+      "onboard_time": 1702274971,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 123717,
+      "num": 123717,
+      "word": "十个勤天 八卦之魂",
+      "onboard_time": 1702275573,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121255,
       "num": 121255,
       "word": "马龙第28个世界冠军",
@@ -1368,6 +1488,22 @@
       "word": "宁远舟把李同光头按缸里",
       "onboard_time": 1702216120,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112111,
+      "num": 112111,
+      "word": "林高远 冠军属于中国队",
+      "onboard_time": 1702275814,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110526,
+      "num": 110526,
+      "word": "与恶魔有约 结婚",
+      "onboard_time": 1702275754,
+      "rank": 49,
       "category": "剧集"
     },
     {
