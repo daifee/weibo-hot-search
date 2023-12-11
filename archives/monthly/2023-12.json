@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702311867437,
+  "endTime": 1702312858766,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -6347,6 +6347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534229,
+      "num": 534229,
+      "word": "杨丞琳这种玩笑话还是不开为好",
+      "onboard_time": 1702306737,
+      "rank": 22,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 533985,
       "num": 501855,
       "word": "gidle舞台疑似抄袭BLACKPINK",
@@ -7049,14 +7057,6 @@
       "onboard_time": 1701750641,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 495767,
-      "num": 495767,
-      "word": "杨丞琳这种玩笑话还是不开为好",
-      "onboard_time": 1702306737,
-      "rank": 22,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 495280,
@@ -15091,6 +15091,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 262003,
+      "num": 262003,
+      "word": "真爱的第一征兆是什么",
+      "onboard_time": 1702309663,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261758,
       "num": 261758,
       "word": "何猷君 对爱人的尊重",
@@ -15721,14 +15729,6 @@
       "onboard_time": 1702118792,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 251042,
-      "num": 251042,
-      "word": "真爱的第一征兆是什么",
-      "onboard_time": 1702309663,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 250870,
@@ -28612,7 +28612,7 @@
     },
     {
       "raw_hot": 87394,
-      "num": 87394,
+      "num": 121349,
       "word": "烂手算工伤吗",
       "onboard_time": 1702310325,
       "rank": 48,
