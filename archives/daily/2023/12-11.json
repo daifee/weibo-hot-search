@@ -1,10 +1,10 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702290018934,
+  "endTime": 1702291117316,
   "band_list": [
     {
       "raw_hot": 2688913,
-      "num": 731200,
+      "num": 799677,
       "word": "死者肯定是南方人",
       "onboard_time": 1702280432,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1991805,
+      "num": 1991805,
+      "word": "苹果老龄化",
+      "onboard_time": 1702287694,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1944481,
       "num": 1944481,
       "word": "观众还原杨丞琳冒犯言论现场情况",
@@ -83,12 +91,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1726477,
-      "num": 1726477,
-      "word": "苹果老龄化",
-      "onboard_time": 1702287694,
-      "rank": 0,
-      "category": "数码"
+      "raw_hot": 1610558,
+      "num": 1610558,
+      "word": "结婚3个月离婚106万彩礼被判返还80万",
+      "onboard_time": 1702288054,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1582319,
@@ -123,12 +131,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1286472,
-      "num": 1286472,
-      "word": "结婚3个月离婚106万彩礼被判返还80万",
-      "onboard_time": 1702288054,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 1268476,
+      "num": 1268476,
+      "word": "范丞丞 范肠肠",
+      "onboard_time": 1702286675,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1244564,
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1033584,
+      "num": 1033584,
+      "word": "白岩松曾称中国人什么样河南人就什么样",
+      "onboard_time": 1702289015,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024004,
       "num": 1024004,
       "word": "美国一架F16战斗机在黄海坠毁",
@@ -211,14 +227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 895296,
-      "num": 895296,
-      "word": "范丞丞 范肠肠",
-      "onboard_time": 1702286675,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 892305,
       "num": 892305,
       "word": "高耀洁医生去世",
@@ -241,6 +249,14 @@
       "onboard_time": 1702246214,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834936,
+      "num": 834936,
+      "word": "范玮琪母亲去世",
+      "onboard_time": 1702289073,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 821246,
@@ -331,20 +347,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 735989,
-      "num": 735989,
-      "word": "范玮琪母亲去世",
-      "onboard_time": 1702289073,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 711600,
       "num": 711600,
       "word": "郑州女生推窗看暴雪不料窗户掉下楼",
       "onboard_time": 1702283015,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 695489,
+      "num": 695489,
+      "word": "北京下雪了 羊的天塌了",
+      "onboard_time": 1702289073,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 685795,
@@ -435,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 565366,
-      "num": 565366,
-      "word": "白岩松曾称中国人什么样河南人就什么样",
-      "onboard_time": 1702289015,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 565370,
+      "num": 565370,
+      "word": "GQ 有明星不想一起坐船",
+      "onboard_time": 1702289677,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 565268,
@@ -563,20 +579,20 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 462952,
+      "num": 392370,
+      "word": "撒娇到一半发现不是主人",
+      "onboard_time": 1702287632,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 461624,
       "num": 461624,
       "word": "柯南吻戏 一刀没剪",
       "onboard_time": 1702218282,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 456773,
-      "num": 392370,
-      "word": "撒娇到一半发现不是主人",
-      "onboard_time": 1702287632,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 448911,
@@ -593,6 +609,14 @@
       "onboard_time": 1702261052,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 434230,
+      "num": 1772187,
+      "word": "暴雪过后考研男生雪中备考",
+      "onboard_time": 1702289317,
+      "rank": 4,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 432529,
@@ -651,12 +675,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 393982,
-      "num": 393982,
-      "word": "北京下雪了 羊的天塌了",
-      "onboard_time": 1702289073,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 394593,
+      "num": 394593,
+      "word": "肖战晒初雪雪人",
+      "onboard_time": 1702288595,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 387444,
@@ -697,14 +721,6 @@
       "onboard_time": 1702207414,
       "rank": 13,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 377261,
-      "num": 377261,
-      "word": "肖战晒初雪雪人",
-      "onboard_time": 1702288595,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 376955,
@@ -963,8 +979,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277433,
-      "num": 277433,
+      "raw_hot": 278397,
+      "num": 278397,
       "word": "神隐",
       "onboard_time": 1702288476,
       "rank": 31,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1702279834,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269231,
+      "num": 269231,
+      "word": "我这可是坐过王一博的船",
+      "onboard_time": 1702290578,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 267080,
@@ -1427,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208434,
-      "num": 1294585,
-      "word": "暴雪过后考研男生雪中备考",
-      "onboard_time": 1702289317,
-      "rank": 4,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 206631,
       "num": 206631,
       "word": "堆雪人",
@@ -1619,12 +1635,12 @@
       "category": "读书作家,社会新闻"
     },
     {
-      "raw_hot": 188898,
-      "num": 188898,
-      "word": "GQ 有明星不想一起坐船",
-      "onboard_time": 1702289677,
-      "rank": 44,
-      "category": "作品衍生,时尚"
+      "raw_hot": 188624,
+      "num": 188624,
+      "word": "阴阳师 延期",
+      "onboard_time": 1702290934,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 186705,
@@ -1643,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186024,
+      "num": 186024,
+      "word": "周深 汪苏泷我记你一辈子",
+      "onboard_time": 1702290816,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185563,
       "num": 185563,
       "word": "河南下雪",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1702270417,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182648,
+      "num": 1120549,
+      "word": "幼儿园老师雪后操场踩出Plus福字",
+      "onboard_time": 1702288233,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 181124,
@@ -1689,6 +1721,14 @@
       "onboard_time": 1702267900,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177444,
+      "num": 177444,
+      "word": "DOTA2",
+      "onboard_time": 1702290276,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 176970,
@@ -1793,14 +1833,6 @@
       "onboard_time": 1702278273,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162658,
-      "num": 1090090,
-      "word": "幼儿园老师雪后操场踩出Plus福字",
-      "onboard_time": 1702288233,
-      "rank": 6,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 162424,
@@ -2364,7 +2396,7 @@
     },
     {
       "raw_hot": 56349,
-      "num": 1393500,
+      "num": 1625405,
       "word": "致敬奋力拼搏的你",
       "onboard_time": 1702280793,
       "rank": 2,
@@ -2435,20 +2467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 30545,
+      "num": 447473,
+      "word": "中小商家花式整活包车卖货",
+      "onboard_time": 1702289376,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25539,
       "num": 34537,
       "word": "你眼中的最强露娜",
       "onboard_time": 1702230618,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 21337,
-      "num": 279929,
-      "word": "中小商家花式整活包车卖货",
-      "onboard_time": 1702289376,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18324,

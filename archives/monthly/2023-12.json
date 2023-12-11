@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702290018934,
+  "endTime": 1702291117316,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 2688913,
-      "num": 731200,
+      "num": 799677,
       "word": "死者肯定是南方人",
       "onboard_time": 1702280432,
       "rank": 10,
@@ -819,6 +819,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 1991805,
+      "num": 1991805,
+      "word": "苹果老龄化",
+      "onboard_time": 1702287694,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1978175,
       "num": 1978084,
       "word": "虞书欣亲杨天真",
@@ -1163,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1726477,
-      "num": 1726477,
-      "word": "苹果老龄化",
-      "onboard_time": 1702287694,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1717073,
       "num": 1717073,
       "word": "情侣疑因在外旅游住宿感染HPV",
@@ -1329,6 +1329,14 @@
       "onboard_time": 1701775655,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1610558,
+      "num": 1610558,
+      "word": "结婚3个月离婚106万彩礼被判返还80万",
+      "onboard_time": 1702288054,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1603678,
@@ -1899,14 +1907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1286472,
-      "num": 1286472,
-      "word": "结婚3个月离婚106万彩礼被判返还80万",
-      "onboard_time": 1702288054,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1283377,
       "num": 568517,
       "word": "被上海美甲价格吓死",
@@ -1937,6 +1937,14 @@
       "onboard_time": 1702108709,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1268476,
+      "num": 1268476,
+      "word": "范丞丞 范肠肠",
+      "onboard_time": 1702286675,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1264539,
@@ -2547,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1033584,
+      "num": 1033584,
+      "word": "白岩松曾称中国人什么样河南人就什么样",
+      "onboard_time": 1702289015,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033250,
       "num": 1033250,
       "word": "奥司他韦医院定价仅需20元",
@@ -3083,14 +3099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 895296,
-      "num": 895296,
-      "word": "范丞丞 范肠肠",
-      "onboard_time": 1702286675,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 894827,
       "num": 894827,
       "word": "五月天现场视频",
@@ -3313,6 +3321,14 @@
       "onboard_time": 1702092814,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 834936,
+      "num": 834936,
+      "word": "范玮琪母亲去世",
+      "onboard_time": 1702289073,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 834550,
@@ -3923,14 +3939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 735989,
-      "num": 735989,
-      "word": "范玮琪母亲去世",
-      "onboard_time": 1702289073,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 734898,
       "num": 734898,
       "word": "黑神话悟空定档",
@@ -4233,6 +4241,14 @@
       "onboard_time": 1701605016,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 695489,
+      "num": 695489,
+      "word": "北京下雪了 羊的天塌了",
+      "onboard_time": 1702289073,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 694757,
@@ -5579,12 +5595,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 565366,
-      "num": 565366,
-      "word": "白岩松曾称中国人什么样河南人就什么样",
-      "onboard_time": 1702289015,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 565370,
+      "num": 565370,
+      "word": "GQ 有明星不想一起坐船",
+      "onboard_time": 1702289677,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 565268,
@@ -7331,6 +7347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462952,
+      "num": 392370,
+      "word": "撒娇到一半发现不是主人",
+      "onboard_time": 1702287632,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 462130,
       "num": 462130,
       "word": "金莎为躲狗仔打扮成老太太",
@@ -7449,14 +7473,6 @@
       "onboard_time": 1701648694,
       "rank": 18,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 456773,
-      "num": 392370,
-      "word": "撒娇到一半发现不是主人",
-      "onboard_time": 1702287632,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 456609,
@@ -7961,6 +7977,14 @@
       "onboard_time": 1701678157,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 434230,
+      "num": 1772187,
+      "word": "暴雪过后考研男生雪中备考",
+      "onboard_time": 1702289317,
+      "rank": 4,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 433532,
@@ -9027,6 +9051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394593,
+      "num": 394593,
+      "word": "肖战晒初雪雪人",
+      "onboard_time": 1702288595,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394268,
       "num": 394268,
       "word": "67岁老人握妻子手买人生第一套房",
@@ -9041,14 +9073,6 @@
       "onboard_time": 1702109612,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393982,
-      "num": 393982,
-      "word": "北京下雪了 羊的天塌了",
-      "onboard_time": 1702289073,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 393846,
@@ -9601,14 +9625,6 @@
       "onboard_time": 1701936161,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 377261,
-      "num": 377261,
-      "word": "肖战晒初雪雪人",
-      "onboard_time": 1702288595,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 377047,
@@ -13731,6 +13747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278397,
+      "num": 278397,
+      "word": "神隐",
+      "onboard_time": 1701618334,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277852,
       "num": 214772,
       "word": "星光大赏第二波嘉宾名单",
@@ -13753,14 +13777,6 @@
       "onboard_time": 1701492693,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 277433,
-      "num": 277433,
-      "word": "神隐",
-      "onboard_time": 1701618334,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 277406,
@@ -14281,6 +14297,14 @@
       "onboard_time": 1701613123,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 269231,
+      "num": 269231,
+      "word": "我这可是坐过王一博的船",
+      "onboard_time": 1702290578,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 268498,
@@ -18363,14 +18387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208434,
-      "num": 1294585,
-      "word": "暴雪过后考研男生雪中备考",
-      "onboard_time": 1702289317,
-      "rank": 4,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 208266,
       "num": 208266,
       "word": "刘宇翻跳sweetvenom",
@@ -20699,20 +20715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188898,
-      "num": 188898,
-      "word": "GQ 有明星不想一起坐船",
-      "onboard_time": 1702289677,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 188720,
       "num": 188720,
       "word": "邓为吊威亚路透",
       "onboard_time": 1702129718,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188624,
+      "num": 188624,
+      "word": "阴阳师 延期",
+      "onboard_time": 1702290934,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 188621,
@@ -21035,6 +21051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186024,
+      "num": 186024,
+      "word": "周深 汪苏泷我记你一辈子",
+      "onboard_time": 1702290816,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185985,
       "num": 185985,
       "word": "王楚钦秀一字马被围观了",
@@ -21353,6 +21377,14 @@
       "onboard_time": 1701906208,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182648,
+      "num": 1120549,
+      "word": "幼儿园老师雪后操场踩出Plus福字",
+      "onboard_time": 1702288233,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 182465,
@@ -21745,6 +21777,14 @@
       "onboard_time": 1701756401,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177444,
+      "num": 177444,
+      "word": "DOTA2",
+      "onboard_time": 1702290276,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 177400,
@@ -23153,14 +23193,6 @@
       "onboard_time": 1701702398,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162658,
-      "num": 1090090,
-      "word": "幼儿园老师雪后操场踩出Plus福字",
-      "onboard_time": 1702288233,
-      "rank": 6,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 162630,
@@ -28412,7 +28444,7 @@
     },
     {
       "raw_hot": 56349,
-      "num": 1393500,
+      "num": 1625405,
       "word": "致敬奋力拼搏的你",
       "onboard_time": 1702280793,
       "rank": 2,
@@ -29027,6 +29059,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 30545,
+      "num": 447473,
+      "word": "中小商家花式整活包车卖货",
+      "onboard_time": 1702289376,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30261,
       "num": 1952698,
       "word": "聚焦COP28",
@@ -29233,14 +29273,6 @@
       "onboard_time": 1702150516,
       "rank": 33,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 21337,
-      "num": 279929,
-      "word": "中小商家花式整活包车卖货",
-      "onboard_time": 1702289376,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21077,
