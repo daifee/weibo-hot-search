@@ -1,18 +1,18 @@
 {
   "startTime": 1702225264188,
-  "endTime": 1702299050841,
+  "endTime": 1702300960766,
   "band_list": [
     {
-      "raw_hot": 5464854,
-      "num": 5464854,
+      "raw_hot": 9298578,
+      "num": 9298578,
       "word": "周海媚",
       "onboard_time": 1702293694,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 4094029,
-      "num": 4067512,
+      "raw_hot": 4134597,
+      "num": 4134597,
       "word": "周海媚工作人员拒绝回应网传消息",
       "onboard_time": 1702296758,
       "rank": 4,
@@ -51,6 +51,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2177959,
+      "num": 2177959,
+      "word": "红斑狼疮",
+      "onboard_time": 1702298565,
+      "rank": 6,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 2064098,
       "num": 2064098,
       "word": "新乡发布临时停课通知",
@@ -81,6 +89,14 @@
       "onboard_time": 1702260152,
       "rank": 1,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1941693,
+      "num": 1941693,
+      "word": "我是不结婚 不是不交电费",
+      "onboard_time": 1702297181,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1882647,
@@ -243,14 +259,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 926899,
-      "num": 926899,
-      "word": "我是不结婚 不是不交电费",
-      "onboard_time": 1702297181,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 925923,
       "num": 925923,
       "word": "张若昀你快删了吧",
@@ -265,6 +273,14 @@
       "onboard_time": 1702261954,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 898527,
+      "num": 525254,
+      "word": "小S发文悼念范玮琪妈妈",
+      "onboard_time": 1702299280,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 892305,
@@ -417,14 +433,6 @@
       "onboard_time": 1702223136,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 676620,
-      "num": 676620,
-      "word": "红斑狼疮",
-      "onboard_time": 1702298565,
-      "rank": 6,
-      "category": "艺人,健康医疗"
     },
     {
       "raw_hot": 669336,
@@ -1067,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307086,
+      "num": 260321,
+      "word": "对方撤回了一个帅哥数学老师",
+      "onboard_time": 1702299885,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 306299,
       "num": 306299,
       "word": "陈奕迅终于吃上成都火锅",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1702287094,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289575,
+      "num": 289575,
+      "word": "一念关山中的黄梦莹",
+      "onboard_time": 1702300247,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 286572,
@@ -1371,6 +1395,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 244426,
+      "num": 244426,
+      "word": "一些专门给抑郁症患者听的地狱笑话",
+      "onboard_time": 1702300310,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243631,
       "num": 243631,
       "word": "王艺迪 第二排",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1702290816,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234467,
+      "num": 374508,
+      "word": "北京周三周四将有大雪",
+      "onboard_time": 1702299166,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234112,
@@ -1715,6 +1755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204780,
+      "num": 204780,
+      "word": "雪中故宫",
+      "onboard_time": 1702300669,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 204761,
       "num": 204761,
       "word": "汉堡有肉有菜真的是垃圾食品吗",
@@ -1745,6 +1793,14 @@
       "onboard_time": 1702259852,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200667,
+      "num": 289606,
+      "word": "2023年世界羽联总决赛",
+      "onboard_time": 1702300007,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 200372,
@@ -1980,7 +2036,7 @@
     },
     {
       "raw_hot": 175959,
-      "num": 1773277,
+      "num": 2639615,
       "word": "全国粮食总产量再创历史新高",
       "onboard_time": 1702264892,
       "rank": 29,
@@ -2323,6 +2379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143424,
+      "num": 205020,
+      "word": "警方回应男子倒卧雪中不幸身亡",
+      "onboard_time": 1702300732,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142705,
       "num": 142705,
       "word": "iG的一百胜",
@@ -2553,6 +2617,14 @@
       "onboard_time": 1702212634,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102821,
+      "num": 164395,
+      "word": "世界羽联巡回赛总决赛抽签结果",
+      "onboard_time": 1702299223,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100510,
