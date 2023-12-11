@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702287278961,
+  "endTime": 1702290018934,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2688913,
-      "num": 520718,
+      "num": 731200,
       "word": "死者肯定是南方人",
       "onboard_time": 1702280432,
       "rank": 10,
@@ -203,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1726477,
+      "num": 1726477,
+      "word": "苹果老龄化",
+      "onboard_time": 1702287694,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1582319,
       "num": 1582319,
       "word": "大胖媳妇喜提豪车",
@@ -265,6 +273,14 @@
       "onboard_time": 1702205915,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1286472,
+      "num": 1286472,
+      "word": "结婚3个月离婚106万彩礼被判返还80万",
+      "onboard_time": 1702288054,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1248477,
@@ -515,6 +531,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 895296,
+      "num": 895296,
+      "word": "范丞丞 范肠肠",
+      "onboard_time": 1702286675,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 892305,
       "num": 892305,
       "word": "高耀洁医生去世",
@@ -699,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 735989,
+      "num": 735989,
+      "word": "范玮琪母亲去世",
+      "onboard_time": 1702289073,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731866,
       "num": 731866,
       "word": "单依纯 有票吗",
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 669336,
-      "num": 311183,
+      "num": 391348,
       "word": "妈妈去世8个月留下1盘饺子",
       "onboard_time": 1702282236,
       "rank": 20,
@@ -955,6 +987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 565366,
+      "num": 565366,
+      "word": "白岩松曾称中国人什么样河南人就什么样",
+      "onboard_time": 1702289015,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565268,
       "num": 565268,
       "word": "老人握妻子手买人生第一套房",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1702137213,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529536,
+      "num": 529536,
+      "word": "Ame复出加盟XG",
+      "onboard_time": 1702287815,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 524081,
@@ -1211,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 456773,
+      "num": 392370,
+      "word": "撒娇到一半发现不是主人",
+      "onboard_time": 1702287632,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455783,
       "num": 436131,
       "word": "背考研政治给自己背笑了",
@@ -1265,14 +1321,6 @@
       "onboard_time": 1702261052,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 442501,
-      "num": 442501,
-      "word": "范丞丞 范肠肠",
-      "onboard_time": 1702286675,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 438774,
@@ -1403,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408623,
+      "num": 408623,
+      "word": "T1官宣Rekkles加入",
+      "onboard_time": 1702287632,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 406674,
       "num": 406674,
       "word": "TheShy 转会期",
@@ -1459,12 +1515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393982,
+      "num": 393982,
+      "word": "北京下雪了 羊的天塌了",
+      "onboard_time": 1702289073,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 392959,
       "num": 392959,
       "word": "湖人vs步行者",
       "onboard_time": 1702173328,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387444,
+      "num": 387444,
+      "word": "猪国迎来大危机",
+      "onboard_time": 1702282654,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 385165,
@@ -1529,6 +1601,14 @@
       "onboard_time": 1702272573,
       "rank": 32,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 377261,
+      "num": 377261,
+      "word": "肖战晒初雪雪人",
+      "onboard_time": 1702288595,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 376955,
@@ -1633,14 +1713,6 @@
       "onboard_time": 1702157053,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 360803,
-      "num": 360803,
-      "word": "猪国迎来大危机",
-      "onboard_time": 1702282654,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 359820,
@@ -2027,6 +2099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292852,
+      "num": 292852,
+      "word": "赵露思 湖南卫视跨年",
+      "onboard_time": 1702287094,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292483,
       "num": 292483,
       "word": "莎头打头阵",
@@ -2091,6 +2171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286572,
+      "num": 1459877,
+      "word": "近90岁女画家守近万幅画坚决不卖",
+      "onboard_time": 1702287815,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284252,
       "num": 284252,
       "word": "浙江申论 看着写吧",
@@ -2131,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281449,
+      "num": 281449,
+      "word": "步行者球员承认有中国血统",
+      "onboard_time": 1702288175,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279885,
       "num": 279885,
       "word": "奔跑吧下期玩的是一个大反转",
@@ -2153,6 +2249,14 @@
       "onboard_time": 1702199134,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277433,
+      "num": 277433,
+      "word": "神隐",
+      "onboard_time": 1702175070,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 276707,
@@ -2891,6 +2995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218128,
+      "num": 218128,
+      "word": "周一围随你 随你说",
+      "onboard_time": 1702287394,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217065,
       "num": 217065,
       "word": "梁某某造谣刘姓商人被行拘",
@@ -3019,6 +3131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208434,
+      "num": 1294585,
+      "word": "暴雪过后考研男生雪中备考",
+      "onboard_time": 1702289317,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 207893,
       "num": 184090,
       "word": "EXO全员参加经纪人婚礼",
@@ -3049,14 +3169,6 @@
       "onboard_time": 1702215280,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206366,
-      "num": 206366,
-      "word": "神隐",
-      "onboard_time": 1702175070,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 206188,
@@ -3121,6 +3233,14 @@
       "onboard_time": 1702191397,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205019,
+      "num": 205019,
+      "word": "快乐老友记 放得开",
+      "onboard_time": 1702287335,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 204931,
@@ -3499,6 +3619,14 @@
       "category": "读书作家,社会新闻"
     },
     {
+      "raw_hot": 188898,
+      "num": 188898,
+      "word": "GQ 有明星不想一起坐船",
+      "onboard_time": 1702289677,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186705,
       "num": 186705,
       "word": "总是腿脚冰凉当心是血管堵了",
@@ -3635,14 +3763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181263,
-      "num": 181263,
-      "word": "赵露思 湖南卫视跨年",
-      "onboard_time": 1702287094,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181124,
       "num": 181124,
       "word": "林高远 冠军属于中国队",
@@ -3665,6 +3785,14 @@
       "onboard_time": 1702189773,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180202,
+      "num": 180202,
+      "word": "阚清子 幸福就好",
+      "onboard_time": 1702287815,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 180163,
@@ -4057,6 +4185,14 @@
       "onboard_time": 1702278273,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162658,
+      "num": 1090090,
+      "word": "幼儿园老师雪后操场踩出Plus福字",
+      "onboard_time": 1702288233,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 162424,
@@ -5260,7 +5396,7 @@
     },
     {
       "raw_hot": 56349,
-      "num": 959601,
+      "num": 1393500,
       "word": "致敬奋力拼搏的你",
       "onboard_time": 1702280793,
       "rank": 2,
@@ -5449,6 +5585,14 @@
       "onboard_time": 1702150516,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 21337,
+      "num": 279929,
+      "word": "中小商家花式整活包车卖货",
+      "onboard_time": 1702289376,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20853,
