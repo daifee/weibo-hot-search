@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702318971596,
+  "endTime": 1702319796219,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -6331,19 +6331,19 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40312,
+      "num": 40312,
+      "word": "谢娜只演女主角",
+      "onboard_time": 1702317925,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39597,
       "num": 188662,
       "word": "京中真的有善口技者",
       "onboard_time": 1702267233,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 39146,
-      "num": 39146,
-      "word": "谢娜只演女主角",
-      "onboard_time": 1702317925,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -6364,7 +6364,7 @@
     },
     {
       "raw_hot": 34589,
-      "num": 48231,
+      "num": 63793,
       "word": "渔民误捕一只两三百斤红海龟放生",
       "onboard_time": 1702316838,
       "rank": 28,
@@ -6385,6 +6385,14 @@
       "onboard_time": 1702243093,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32182,
+      "num": 41611,
+      "word": "2女子路遇3男子性骚扰勇敢拍下",
+      "onboard_time": 1702318937,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31419,
@@ -6409,6 +6417,14 @@
       "onboard_time": 1702289376,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30472,
+      "num": 30472,
+      "word": "竞技体育 菜是原罪",
+      "onboard_time": 1702319537,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 25539,
@@ -6465,14 +6481,6 @@
       "onboard_time": 1702236194,
       "rank": 36,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 18024,
-      "num": 30230,
-      "word": "2女子路遇3男子性骚扰勇敢拍下",
-      "onboard_time": 1702318937,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16846,
