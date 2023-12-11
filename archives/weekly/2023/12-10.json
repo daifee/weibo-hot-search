@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702291117316,
+  "endTime": 1702293376138,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -259,6 +259,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1384646,
+      "num": 1384646,
+      "word": "白岩松曾称中国人什么样河南人就什么样",
+      "onboard_time": 1702289015,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1335355,
       "num": 1335355,
       "word": "TheShy 对赌协议",
@@ -409,14 +417,6 @@
       "onboard_time": 1702170929,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1033584,
-      "num": 1033584,
-      "word": "白岩松曾称中国人什么样河南人就什么样",
-      "onboard_time": 1702289015,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1032137,
@@ -699,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 764200,
+      "num": 764200,
+      "word": "于正 你能给赵晴一次机会吗",
+      "onboard_time": 1702291715,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 758821,
       "num": 758821,
       "word": "家长献血100ml子女可得2入学积分",
@@ -771,20 +779,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702731,
+      "num": 702731,
+      "word": "北京下雪了 羊的天塌了",
+      "onboard_time": 1702289073,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 697038,
       "num": 697038,
       "word": "南京大屠杀又添新证据",
       "onboard_time": 1702132179,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 695489,
-      "num": 695489,
-      "word": "北京下雪了 羊的天塌了",
-      "onboard_time": 1702289073,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 685795,
@@ -963,6 +971,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 584785,
+      "num": 392370,
+      "word": "撒娇到一半发现不是主人",
+      "onboard_time": 1702287632,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 582936,
+      "num": 582936,
+      "word": "GQ 有明星不想一起坐船",
+      "onboard_time": 1702289677,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 581687,
       "num": 581687,
       "word": "专家称张雪峰言论过于极端",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1702169550,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 565370,
-      "num": 565370,
-      "word": "GQ 有明星不想一起坐船",
-      "onboard_time": 1702289677,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 565268,
@@ -1267,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462952,
-      "num": 392370,
-      "word": "撒娇到一半发现不是主人",
-      "onboard_time": 1702287632,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 460040,
       "num": 460040,
       "word": "詹姆斯第五冠",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1702259792,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 430822,
+      "num": 430822,
+      "word": "神隐 上厕所",
+      "onboard_time": 1702292075,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 429194,
@@ -1675,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368673,
+      "num": 1440799,
+      "word": "父亲背基因突变儿子1年爬了4座山",
+      "onboard_time": 1702292075,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367280,
       "num": 367280,
       "word": "舒淇表情",
@@ -1889,6 +1913,14 @@
       "onboard_time": 1702265853,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 328947,
+      "num": 328947,
+      "word": "阴阳师 延期",
+      "onboard_time": 1702290934,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 323192,
@@ -2275,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276842,
+      "num": 276842,
+      "word": "我这可是坐过王一博的船",
+      "onboard_time": 1702290578,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276707,
       "num": 276707,
       "word": "男子境外昏迷44天后乘空中救护车回国",
@@ -2369,14 +2409,6 @@
       "onboard_time": 1702279834,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 269231,
-      "num": 269231,
-      "word": "我这可是坐过王一博的船",
-      "onboard_time": 1702290578,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 267536,
@@ -2715,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236156,
+      "num": 236156,
+      "word": "周深 汪苏泷我记你一辈子",
+      "onboard_time": 1702290816,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234141,
       "num": 234141,
       "word": "周也演技 角色差异化",
@@ -2929,6 +2969,14 @@
       "onboard_time": 1702195890,
       "rank": 36,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 222099,
+      "num": 218526,
+      "word": "神隐今晚开播",
+      "onboard_time": 1702291357,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 221641,
@@ -3419,6 +3467,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 199048,
+      "num": 199048,
+      "word": "林俊杰 阿杜助阵好威风",
+      "onboard_time": 1702291896,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198895,
       "num": 198895,
       "word": "热依扎 微熏红毯妆",
@@ -3635,14 +3691,6 @@
       "category": "读书作家,社会新闻"
     },
     {
-      "raw_hot": 188624,
-      "num": 188624,
-      "word": "阴阳师 延期",
-      "onboard_time": 1702290934,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 186705,
       "num": 186705,
       "word": "总是腿脚冰凉当心是血管堵了",
@@ -3673,14 +3721,6 @@
       "onboard_time": 1702225709,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186024,
-      "num": 186024,
-      "word": "周深 汪苏泷我记你一辈子",
-      "onboard_time": 1702290816,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 185735,
@@ -4435,6 +4475,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151713,
+      "num": 151713,
+      "word": "吉利高管称不认同懂车帝冬测数据",
+      "onboard_time": 1702291117,
+      "rank": 43,
+      "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 151648,
+      "num": 151648,
+      "word": "这下真成菜狗了",
+      "onboard_time": 1702292258,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151532,
       "num": 151532,
       "word": "12.9英寸iPadAir显示屏本月出货",
@@ -4601,6 +4657,14 @@
       "onboard_time": 1702273593,
       "rank": 36,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 145961,
+      "num": 145961,
+      "word": "王安宇 落地仙侠男主",
+      "onboard_time": 1702293335,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 145265,
@@ -5425,6 +5489,14 @@
       "onboard_time": 1702178489,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56833,
+      "num": 511723,
+      "word": "马拉松中途跑鞋解体了",
+      "onboard_time": 1702292433,
+      "rank": 14,
+      "category": "运动健身,社会新闻"
     },
     {
       "raw_hot": 56349,

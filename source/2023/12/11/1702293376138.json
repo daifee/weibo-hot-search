@@ -1,0 +1,410 @@
+{
+  "runTime": 1702293376138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1845838,
+        "num": 1845838,
+        "word": "苹果老龄化",
+        "onboard_time": 1702287694,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 421210,
+        "num": 1620344,
+        "word": "暴雪过后考研男生雪中备考",
+        "onboard_time": 1702289317,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 49559,
+        "num": 1595443,
+        "word": "致敬奋力拼搏的你",
+        "onboard_time": 1702280793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1587931,
+        "num": 1587931,
+        "word": "结婚3个月离婚106万彩礼被判返还80万",
+        "onboard_time": 1702288054,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368673,
+        "num": 1440799,
+        "word": "父亲背基因突变儿子1年爬了4座山",
+        "onboard_time": 1702292075,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384646,
+        "num": 1384646,
+        "word": "白岩松曾称中国人什么样河南人就什么样",
+        "onboard_time": 1702289015,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181145,
+        "num": 1245565,
+        "word": "近90岁女画家守近万幅画坚决不卖",
+        "onboard_time": 1702287815,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224858,
+        "num": 1224858,
+        "word": "范丞丞 范肠肠",
+        "onboard_time": 1702286675,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 764200,
+        "num": 764200,
+        "word": "于正 你能给赵晴一次机会吗",
+        "onboard_time": 1702291715,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702731,
+        "num": 702731,
+        "word": "北京下雪了 羊的天塌了",
+        "onboard_time": 1702289073,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1138489,
+        "num": 702251,
+        "word": "死者肯定是南方人",
+        "onboard_time": 1702280432,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 695911,
+        "num": 695911,
+        "word": "范玮琪母亲去世",
+        "onboard_time": 1702289073,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582936,
+        "num": 582936,
+        "word": "GQ 有明星不想一起坐船",
+        "onboard_time": 1702289677,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 570015,
+        "num": 570015,
+        "word": "瑞幸咖啡师烂手之痛",
+        "onboard_time": 1702282713,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56833,
+        "num": 511723,
+        "word": "马拉松中途跑鞋解体了",
+        "onboard_time": 1702292433,
+        "rank": 14,
+        "category": "运动健身,社会新闻"
+      },
+      {
+        "raw_hot": 501135,
+        "num": 501135,
+        "word": "男子打骂待产女儿被妻子刺死",
+        "onboard_time": 1702273772,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 430822,
+        "num": 430822,
+        "word": "神隐 上厕所",
+        "onboard_time": 1702292075,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393835,
+        "num": 393835,
+        "word": "难哄 悬着的心终于死了",
+        "onboard_time": 1702274554,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376009,
+        "num": 376009,
+        "word": "肖战晒初雪雪人",
+        "onboard_time": 1702288595,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335147,
+        "num": 335147,
+        "word": "快乐老友记 直播睡觉",
+        "onboard_time": 1702279354,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584785,
+        "num": 333490,
+        "word": "撒娇到一半发现不是主人",
+        "onboard_time": 1702287632,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 328947,
+        "num": 328947,
+        "word": "阴阳师 延期",
+        "onboard_time": 1702290934,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316392,
+        "num": 316392,
+        "word": "家长献血100ml子女可得2入学积分",
+        "onboard_time": 1702285416,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289408,
+        "num": 289408,
+        "word": "妈妈去世8个月留下1盘饺子",
+        "onboard_time": 1702282236,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284172,
+        "num": 284172,
+        "word": "韩素希 没整鼻子",
+        "onboard_time": 1702280193,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276842,
+        "num": 276842,
+        "word": "我这可是坐过王一博的船",
+        "onboard_time": 1702290578,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 274629,
+        "num": 274629,
+        "word": "猪国迎来大危机",
+        "onboard_time": 1702282654,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249652,
+        "num": 249652,
+        "word": "31岁国羽前国手溺亡",
+        "onboard_time": 1702281694,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 247737,
+        "num": 247737,
+        "word": "本来只有七个星期的年假",
+        "onboard_time": 1702282115,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242121,
+        "num": 242121,
+        "word": "瑞幸员工上班8小时触碰消毒水22次",
+        "onboard_time": 1702283917,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298149,
+        "num": 240395,
+        "word": "TheShy 对赌协议",
+        "onboard_time": 1702273715,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236156,
+        "num": 236156,
+        "word": "周深 汪苏泷我记你一辈子",
+        "onboard_time": 1702290816,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225405,
+        "num": 225405,
+        "word": "神隐",
+        "onboard_time": 1702288476,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219742,
+        "num": 219742,
+        "word": "T1官宣Rekkles加入",
+        "onboard_time": 1702287632,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222099,
+        "num": 218526,
+        "word": "神隐今晚开播",
+        "onboard_time": 1702291357,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211664,
+        "num": 211664,
+        "word": "郑州女生推窗看暴雪不料窗户掉下楼",
+        "onboard_time": 1702283015,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199711,
+        "num": 199711,
+        "word": "步行者球员承认有中国血统",
+        "onboard_time": 1702288175,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199048,
+        "num": 199048,
+        "word": "林俊杰 阿杜助阵好威风",
+        "onboard_time": 1702291896,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189969,
+        "num": 189969,
+        "word": "一念关山向李同光道歉",
+        "onboard_time": 1702274191,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181946,
+        "num": 181946,
+        "word": "律师称杨丞琳若被认定地域歧视需担责",
+        "onboard_time": 1702270718,
+        "rank": 39,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 179087,
+        "num": 179087,
+        "word": "赵露思 湖南卫视跨年",
+        "onboard_time": 1702287094,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177492,
+        "num": 177492,
+        "word": "Rookie发18iG合照",
+        "onboard_time": 1702285232,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172027,
+        "num": 172027,
+        "word": "WBG 不官宣",
+        "onboard_time": 1702271733,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151713,
+        "num": 151713,
+        "word": "吉利高管称不认同懂车帝冬测数据",
+        "onboard_time": 1702291117,
+        "rank": 43,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 151648,
+        "num": 151648,
+        "word": "这下真成菜狗了",
+        "onboard_time": 1702292258,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151513,
+        "num": 151513,
+        "word": "快乐老友记 放得开",
+        "onboard_time": 1702287335,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146409,
+        "num": 146409,
+        "word": "Ame复出加盟XG",
+        "onboard_time": 1702287815,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145961,
+        "num": 145961,
+        "word": "王安宇 落地仙侠男主",
+        "onboard_time": 1702293335,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145774,
+        "num": 145774,
+        "word": "男大学生问谁是张万森啊",
+        "onboard_time": 1702284816,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143621,
+        "num": 143621,
+        "word": "周一围随你 随你说",
+        "onboard_time": 1702287394,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让世界经济活力充分迸发出来#"
+    }
+  }
+}
