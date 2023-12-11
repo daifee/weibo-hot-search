@@ -1,7 +1,23 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702294461657,
+  "endTime": 1702298107223,
   "band_list": [
+    {
+      "raw_hot": 4138749,
+      "num": 4138749,
+      "word": "周海媚",
+      "onboard_time": 1702293694,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4094029,
+      "num": 846634,
+      "word": "周海媚工作人员拒绝回应网传消息",
+      "onboard_time": 1702296758,
+      "rank": 4,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3563023,
       "num": 3563023,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1362267,
+      "num": 1362267,
+      "word": "网购衣服里发现焉栩嘉登机牌",
+      "onboard_time": 1702293995,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1335355,
       "num": 1335355,
       "word": "TheShy 对赌协议",
@@ -313,14 +337,6 @@
       "onboard_time": 1702259253,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1225367,
-      "num": 567462,
-      "word": "周海媚",
-      "onboard_time": 1702293694,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1221852,
@@ -473,6 +489,14 @@
       "onboard_time": 1702184374,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 967462,
+      "num": 967462,
+      "word": "面包店的香味 假的",
+      "onboard_time": 1702294654,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 964632,
@@ -851,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663832,
+      "num": 663832,
+      "word": "杨幂手上的黑玫瑰是裙子上掉下来的",
+      "onboard_time": 1702294596,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 655534,
       "num": 382164,
       "word": "老人凌晨去世鞭炮一响全村都去帮忙",
@@ -961,6 +993,14 @@
       "onboard_time": 1702260812,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601288,
+      "num": 370919,
+      "word": "我是不结婚 不是不交电费",
+      "onboard_time": 1702297181,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 592156,
@@ -1259,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 483646,
+      "num": 483646,
+      "word": "160斤女生故宫体验一日格格",
+      "onboard_time": 1702295433,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 479730,
       "num": 479730,
       "word": "神隐 上厕所",
@@ -1395,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436146,
-      "num": 436146,
-      "word": "网购衣服里发现焉栩嘉登机牌",
-      "onboard_time": 1702293995,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 435104,
       "num": 435104,
       "word": "程序员的年终奖能有多奇葩",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1702259792,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 432196,
+      "num": 432196,
+      "word": "TheShy 故事迎来了完美结局",
+      "onboard_time": 1702297599,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 429194,
@@ -1707,12 +1755,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 371803,
+      "num": 478800,
+      "word": "00后炫完军大衣炫雪地靴",
+      "onboard_time": 1702294896,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370948,
       "num": 370948,
       "word": "郑州下雪",
       "onboard_time": 1702220379,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370789,
+      "num": 358594,
+      "word": "应渊跳了夜华跳了你没跳",
+      "onboard_time": 1702296456,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 369745,
@@ -1947,6 +2011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 328447,
+      "num": 328447,
+      "word": "杨丞琳此前也曾因言论不当而进行道歉",
+      "onboard_time": 1702295016,
+      "rank": 25,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 323192,
       "num": 323192,
       "word": "经常不吃早饭会怎么样",
@@ -2105,6 +2177,14 @@
       "onboard_time": 1702134999,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 301629,
+      "num": 301629,
+      "word": "不婚女性群居共同养老",
+      "onboard_time": 1702295193,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 299335,
@@ -2355,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276478,
+      "num": 276478,
+      "word": "薛佳凝神隐演天帝",
+      "onboard_time": 1702296155,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276362,
       "num": 276362,
       "word": "长城硬刚懂车帝",
@@ -2489,6 +2577,14 @@
       "onboard_time": 1702196253,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263793,
+      "num": 371211,
+      "word": "酸菜公司回应刘德华代言",
+      "onboard_time": 1702296635,
+      "rank": 19,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 263301,
@@ -3107,6 +3203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217566,
+      "num": 217566,
+      "word": "EDG官宣FoFo离队",
+      "onboard_time": 1702295735,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217065,
       "num": 217065,
       "word": "梁某某造谣刘姓商人被行拘",
@@ -3161,6 +3265,14 @@
       "onboard_time": 1702208614,
       "rank": 27,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 211950,
+      "num": 211950,
+      "word": "宁安如梦答谢礼今日官宣",
+      "onboard_time": 1702295614,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 211816,
@@ -3353,6 +3465,14 @@
       "onboard_time": 1702284816,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204761,
+      "num": 204761,
+      "word": "汉堡有肉有菜真的是垃圾食品吗",
+      "onboard_time": 1702295859,
+      "rank": 38,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 204673,
@@ -4028,7 +4148,7 @@
     },
     {
       "raw_hot": 175959,
-      "num": 187605,
+      "num": 1141374,
       "word": "全国粮食总产量再创历史新高",
       "onboard_time": 1702264892,
       "rank": 29,
@@ -4787,6 +4907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142479,
+      "num": 142479,
+      "word": "德国人迎接圣诞节这么高级了吗",
+      "onboard_time": 1702297964,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142146,
       "num": 142146,
       "word": "爸爸辅导完作业感觉老了10岁",
@@ -4849,6 +4977,14 @@
       "onboard_time": 1702142723,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139762,
+      "num": 139762,
+      "word": "汪苏泷2023年度爱情四部曲",
+      "onboard_time": 1702295377,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 139761,
