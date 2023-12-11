@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702265670160,
+  "endTime": 1702268516520,
   "band_list": [
     {
       "raw_hot": 3563023,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1484129,
+      "num": 925102,
+      "word": "猪场饲养员洗澡后穿内裤罚款200",
+      "onboard_time": 1702263153,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1481820,
       "num": 962654,
       "word": "一个人不舔人的社会从尊重服务业开始",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1244564,
-      "num": 319006,
+      "num": 326952,
       "word": "很多情侣谈久了关系很畸形",
       "onboard_time": 1702259253,
       "rank": 20,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 925102,
-      "num": 925102,
-      "word": "猪场饲养员洗澡后穿内裤罚款200",
-      "onboard_time": 1702263153,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 908566,
       "num": 908566,
       "word": "林孝埈退出首尔站比赛",
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 821233,
+      "num": 821233,
+      "word": "高耀洁医生去世",
+      "onboard_time": 1702264653,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807355,
       "num": 807355,
       "word": "多省公务员考试考生直呼心凉",
@@ -537,6 +545,14 @@
       "onboard_time": 1702209515,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 766813,
+      "num": 766813,
+      "word": "专家回应公务员考试考生多地考试现象",
+      "onboard_time": 1702263454,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 736780,
@@ -763,14 +779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 566191,
-      "num": 510998,
-      "word": "高耀洁医生去世",
-      "onboard_time": 1702264653,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 565268,
       "num": 565268,
       "word": "老人握妻子手买人生第一套房",
@@ -899,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 500207,
-      "num": 500207,
-      "word": "专家回应公务员考试考生多地考试现象",
-      "onboard_time": 1702263454,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 497266,
       "num": 497266,
       "word": "樊振东复仇成功",
@@ -1027,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 448761,
+      "num": 326125,
+      "word": "王阳明 放纵欲望才是痛苦的根源",
+      "onboard_time": 1702261052,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 438774,
       "num": 438774,
       "word": "刘少昂 抢跑",
@@ -1123,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406674,
+      "num": 406674,
+      "word": "TheShy 转会期",
+      "onboard_time": 1702251507,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 405576,
       "num": 405576,
       "word": "宁远舟把李同光头按缸里",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1702188153,
       "rank": 14,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 383241,
+      "num": 383241,
+      "word": "王楚钦 冠军属于团队",
+      "onboard_time": 1702265972,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 380550,
@@ -1347,22 +1371,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 345164,
-      "num": 288677,
-      "word": "王阳明 放纵欲望才是痛苦的根源",
-      "onboard_time": 1702261052,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 343850,
-      "num": 343850,
-      "word": "TheShy 转会期",
-      "onboard_time": 1702251507,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 342820,
       "num": 342820,
       "word": "吉祥航空回应外籍旅客优先登机",
@@ -1425,6 +1433,22 @@
       "onboard_time": 1702191332,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329918,
+      "num": 329918,
+      "word": "TheShy全中文采访",
+      "onboard_time": 1702265853,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 324485,
+      "num": 324485,
+      "word": "为什么APP总是知道你想买啥",
+      "onboard_time": 1702267114,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 323192,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1702189052,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 306299,
+      "num": 306299,
+      "word": "陈奕迅终于吃上成都火锅",
+      "onboard_time": 1702266995,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 305216,
@@ -1835,12 +1867,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262169,
+      "num": 262169,
+      "word": "萌兰滚了一身炸裂糖霜",
+      "onboard_time": 1702267535,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261671,
       "num": 261671,
       "word": "乒乓球世界杯将在中国澳门重启",
       "onboard_time": 1702212157,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261516,
+      "num": 261516,
+      "word": "为什么毕业后不爱发朋友圈了",
+      "onboard_time": 1702266691,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 260288,
@@ -1947,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243360,
+      "num": 243360,
+      "word": "减肥公式",
+      "onboard_time": 1702265733,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 240361,
       "num": 240361,
       "word": "张杰又在搞事了",
@@ -2008,6 +2064,14 @@
       "word": "宋江金裕贞 般配",
       "onboard_time": 1702177531,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 235556,
+      "num": 235556,
+      "word": "神隐连更11天",
+      "onboard_time": 1702267414,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2233,6 +2297,14 @@
       "onboard_time": 1702222299,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217065,
+      "num": 217065,
+      "word": "梁某某造谣刘姓商人被行拘",
+      "onboard_time": 1702266691,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216170,
@@ -2500,7 +2572,7 @@
     },
     {
       "raw_hot": 199756,
-      "num": 199756,
+      "num": 246605,
       "word": "看了嘴角上扬的治愈瞬间",
       "onboard_time": 1702264291,
       "rank": 29,
@@ -2585,6 +2657,14 @@
       "onboard_time": 1702214078,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195868,
+      "num": 195868,
+      "word": "杨超越 拍照模板",
+      "onboard_time": 1702266513,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 195476,
@@ -2705,6 +2785,14 @@
       "onboard_time": 1702181974,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187215,
+      "num": 187215,
+      "word": "王曼昱 还没发博",
+      "onboard_time": 1702268436,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 186705,
@@ -2881,6 +2969,14 @@
       "onboard_time": 1702198415,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178494,
+      "num": 178494,
+      "word": "鸣龙少年 原生家庭",
+      "onboard_time": 1702267900,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 178089,
@@ -3107,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167754,
+      "num": 167754,
+      "word": "张若昀脖子上的青筋",
+      "onboard_time": 1702268318,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167550,
       "num": 167550,
       "word": "王楚钦热身劈叉",
@@ -3147,8 +3251,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 164846,
-      "num": 164846,
+      "raw_hot": 165222,
+      "num": 165222,
       "word": "张万森林北星 暗恋缩影",
       "onboard_time": 1702263093,
       "rank": 37,
@@ -3339,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152101,
+      "num": 152101,
+      "word": "陈梦 做彼此坚强的后盾",
+      "onboard_time": 1702265493,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151532,
       "num": 151532,
       "word": "12.9英寸iPadAir显示屏本月出货",
@@ -3411,14 +3523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148767,
-      "num": 148767,
-      "word": "陈梦 做彼此坚强的后盾",
-      "onboard_time": 1702265493,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148337,
       "num": 300300,
       "word": "理想汽车智能软件发布会",
@@ -3473,6 +3577,14 @@
       "onboard_time": 1702210415,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145188,
+      "num": 145188,
+      "word": "瘦身时间表",
+      "onboard_time": 1702266095,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 144219,
@@ -3995,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111700,
+      "num": 528130,
+      "word": "请龚俊把眼镜焊上",
+      "onboard_time": 1702265493,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106847,
       "num": 106847,
       "word": "吃梨真的能化痰止咳吗",
@@ -4057,14 +4177,6 @@
       "onboard_time": 1702119335,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 90489,
-      "num": 145441,
-      "word": "请龚俊把眼镜焊上",
-      "onboard_time": 1702265493,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 82808,
@@ -4377,6 +4489,14 @@
       "onboard_time": 1702145658,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23424,
+      "num": 186320,
+      "word": "京中真的有善口技者",
+      "onboard_time": 1702267233,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 21703,

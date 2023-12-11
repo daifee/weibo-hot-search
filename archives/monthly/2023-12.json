@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702265670160,
+  "endTime": 1702268516520,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -1515,6 +1515,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1484129,
+      "num": 925102,
+      "word": "猪场饲养员洗澡后穿内裤罚款200",
+      "onboard_time": 1702263153,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1483695,
       "num": 370576,
       "word": "阿信 E6",
@@ -1932,7 +1940,7 @@
     },
     {
       "raw_hot": 1244564,
-      "num": 319006,
+      "num": 326952,
       "word": "很多情侣谈久了关系很畸形",
       "onboard_time": 1702259253,
       "rank": 20,
@@ -2843,14 +2851,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 925102,
-      "num": 925102,
-      "word": "猪场饲养员洗澡后穿内裤罚款200",
-      "onboard_time": 1702263153,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 913492,
       "num": 445230,
       "word": "杨幂定点拍摄秒了",
@@ -3267,6 +3267,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 821233,
+      "num": 821233,
+      "word": "高耀洁医生去世",
+      "onboard_time": 1702264653,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821076,
       "num": 821076,
       "word": "田曦薇 年画娃娃",
@@ -3569,6 +3577,14 @@
       "onboard_time": 1702049078,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 766813,
+      "num": 766813,
+      "word": "专家回应公务员考试考生多地考试现象",
+      "onboard_time": 1702263454,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 762288,
@@ -5355,14 +5371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 566191,
-      "num": 510998,
-      "word": "高耀洁医生去世",
-      "onboard_time": 1702264653,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 565268,
       "num": 565268,
       "word": "老人握妻子手买人生第一套房",
@@ -6483,14 +6491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 500207,
-      "num": 500207,
-      "word": "专家回应公务员考试考生多地考试现象",
-      "onboard_time": 1702263454,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 499404,
       "num": 286814,
       "word": "男子强行将女子和小孩拖出保时捷",
@@ -7352,6 +7352,14 @@
       "word": "父母的过度干涉 潜意识嫉妒",
       "onboard_time": 1701824200,
       "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 448761,
+      "num": 326125,
+      "word": "王阳明 放纵欲望才是痛苦的根源",
+      "onboard_time": 1702261052,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -8387,6 +8395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406674,
+      "num": 406674,
+      "word": "TheShy 转会期",
+      "onboard_time": 1702251507,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 406412,
       "num": 406412,
       "word": "吴京还是看了那期王牌",
@@ -9009,6 +9025,14 @@
       "onboard_time": 1701960705,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 383241,
+      "num": 383241,
+      "word": "王楚钦 冠军属于团队",
+      "onboard_time": 1702265972,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 382828,
@@ -10235,14 +10259,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 345164,
-      "num": 288677,
-      "word": "王阳明 放纵欲望才是痛苦的根源",
-      "onboard_time": 1702261052,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 344787,
       "num": 344787,
       "word": "龘这个字怎么读",
@@ -10265,14 +10281,6 @@
       "onboard_time": 1701837220,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 343850,
-      "num": 343850,
-      "word": "TheShy 转会期",
-      "onboard_time": 1702251507,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 343768,
@@ -10755,6 +10763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329918,
+      "num": 329918,
+      "word": "TheShy全中文采访",
+      "onboard_time": 1702265853,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 329821,
       "num": 329821,
       "word": "难怪有故人之姿 原来是故人之子",
@@ -10841,6 +10857,14 @@
       "onboard_time": 1701761256,
       "rank": 26,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 324485,
+      "num": 324485,
+      "word": "为什么APP总是知道你想买啥",
+      "onboard_time": 1702267114,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 324446,
@@ -11657,6 +11681,14 @@
       "onboard_time": 1702189052,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 306299,
+      "num": 306299,
+      "word": "陈奕迅终于吃上成都火锅",
+      "onboard_time": 1702266995,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 305881,
@@ -13987,6 +14019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262169,
+      "num": 262169,
+      "word": "萌兰滚了一身炸裂糖霜",
+      "onboard_time": 1702267535,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262122,
       "num": 262122,
       "word": "歌剧魅影 鱼姐E6高音",
@@ -14025,6 +14065,14 @@
       "onboard_time": 1702135298,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261516,
+      "num": 261516,
+      "word": "为什么毕业后不爱发朋友圈了",
+      "onboard_time": 1702266691,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 261408,
@@ -15043,6 +15091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243360,
+      "num": 243360,
+      "word": "减肥公式",
+      "onboard_time": 1702265733,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 243303,
       "num": 243303,
       "word": "唐嫣工作室",
@@ -15465,6 +15521,14 @@
       "onboard_time": 1702132599,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235556,
+      "num": 235556,
+      "word": "神隐连更11天",
+      "onboard_time": 1702267414,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 235163,
@@ -16753,6 +16817,14 @@
       "onboard_time": 1702112855,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217065,
+      "num": 217065,
+      "word": "梁某某造谣刘姓商人被行拘",
+      "onboard_time": 1702266691,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217016,
@@ -18452,7 +18524,7 @@
     },
     {
       "raw_hot": 199756,
-      "num": 199756,
+      "num": 246605,
       "word": "看了嘴角上扬的治愈瞬间",
       "onboard_time": 1702264291,
       "rank": 29,
@@ -18929,6 +19001,14 @@
       "onboard_time": 1701694776,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195868,
+      "num": 195868,
+      "word": "杨超越 拍照模板",
+      "onboard_time": 1702266513,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 195789,
@@ -19979,6 +20059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187215,
+      "num": 187215,
+      "word": "王曼昱 还没发博",
+      "onboard_time": 1702268436,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187151,
       "num": 187151,
       "word": "詹姆斯传球击倒布克",
@@ -20721,6 +20809,14 @@
       "onboard_time": 1702198415,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178494,
+      "num": 178494,
+      "word": "鸣龙少年 原生家庭",
+      "onboard_time": 1702267900,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 178089,
@@ -21651,6 +21747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167754,
+      "num": 167754,
+      "word": "张若昀脖子上的青筋",
+      "onboard_time": 1702268318,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167659,
       "num": 167659,
       "word": "YG股价又飙升了",
@@ -21907,6 +22011,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 165222,
+      "num": 165222,
+      "word": "张万森林北星 暗恋缩影",
+      "onboard_time": 1702263093,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165153,
       "num": 149894,
       "word": "甜蜜家园2",
@@ -21937,14 +22049,6 @@
       "onboard_time": 1701778900,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164846,
-      "num": 164846,
-      "word": "张万森林北星 暗恋缩影",
-      "onboard_time": 1702263093,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 164817,
@@ -23059,6 +23163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152101,
+      "num": 152101,
+      "word": "陈梦 做彼此坚强的后盾",
+      "onboard_time": 1702265493,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151988,
       "num": 151988,
       "word": "法越馨镜头下的肖战",
@@ -23345,14 +23457,6 @@
       "onboard_time": 1702168408,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148767,
-      "num": 148767,
-      "word": "陈梦 做彼此坚强的后盾",
-      "onboard_time": 1702265493,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 148700,
@@ -23721,6 +23825,14 @@
       "onboard_time": 1702128456,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145188,
+      "num": 145188,
+      "word": "瘦身时间表",
+      "onboard_time": 1702266095,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145161,
@@ -25995,6 +26107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 111700,
+      "num": 528130,
+      "word": "请龚俊把眼镜焊上",
+      "onboard_time": 1702265493,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111573,
       "num": 3384127,
       "word": "红嘴鸥与滇池蓝同框宛如大片",
@@ -26577,14 +26697,6 @@
       "onboard_time": 1702110153,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 90489,
-      "num": 145441,
-      "word": "请龚俊把眼镜焊上",
-      "onboard_time": 1702265493,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 90254,
@@ -27977,6 +28089,14 @@
       "onboard_time": 1702062736,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23424,
+      "num": 186320,
+      "word": "京中真的有善口技者",
+      "onboard_time": 1702267233,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 23281,
