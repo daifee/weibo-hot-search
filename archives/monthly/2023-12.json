@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702352087039,
+  "endTime": 1702354914833,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -859,6 +859,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2037074,
+      "num": 2037074,
+      "word": "新冠变异株JN.1",
+      "onboard_time": 1702353396,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2031913,
       "num": 2031913,
       "word": "34岁抗癌网红李小妞去世",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1702014217,
       "rank": 20,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1660474,
+      "num": 1660474,
+      "word": "为什么有些年轻人上班不带包",
+      "onboard_time": 1702350754,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1651224,
@@ -2835,6 +2851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 977902,
+      "num": 977902,
+      "word": "水逆来了 重灾区星座要小心",
+      "onboard_time": 1702349613,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 974864,
       "num": 974864,
       "word": "王楚钦 还打吗",
@@ -3097,6 +3121,14 @@
       "onboard_time": 1701850542,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 928422,
+      "num": 472613,
+      "word": "亲眼目睹了我妈传谣的过程",
+      "onboard_time": 1702353214,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 927075,
@@ -5163,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 629072,
+      "num": 629072,
+      "word": "关于舍友为了省钱偷吃我剩饭",
+      "onboard_time": 1702352374,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 627373,
       "num": 627373,
       "word": "马面裙 女装",
@@ -5392,6 +5432,14 @@
       "word": "小伙坚持一年52个周末都出去旅游",
       "onboard_time": 1701744154,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613091,
+      "num": 351838,
+      "word": "榜一大哥骗走24名家长1000余万元",
+      "onboard_time": 1702352674,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -5753,14 +5801,6 @@
       "onboard_time": 1701405638,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580269,
-      "num": 580269,
-      "word": "水逆来了 重灾区星座要小心",
-      "onboard_time": 1702349613,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 579172,
@@ -6233,6 +6273,14 @@
       "onboard_time": 1701663283,
       "rank": 20,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 548955,
+      "num": 548955,
+      "word": "王鹤棣第二部男频剧",
+      "onboard_time": 1702352432,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 548898,
@@ -6979,14 +7027,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 508240,
-      "num": 508240,
-      "word": "为什么有些年轻人上班不带包",
-      "onboard_time": 1702350754,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 508051,
       "num": 508051,
       "word": "普京将在2024年竞选总统",
@@ -7505,6 +7545,14 @@
       "onboard_time": 1701702214,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 477135,
+      "num": 477135,
+      "word": "RNG官宣Letme担任主教练",
+      "onboard_time": 1702353694,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 476984,
@@ -8625,6 +8673,14 @@
       "onboard_time": 1702269219,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 429191,
+      "num": 429191,
+      "word": "光遇",
+      "onboard_time": 1702354835,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 428776,
@@ -10211,6 +10267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375016,
+      "num": 375016,
+      "word": "青椒拿铁",
+      "onboard_time": 1702349852,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 374957,
       "num": 374957,
       "word": "拒绝了让我帮带早餐的同事",
@@ -10449,6 +10513,14 @@
       "onboard_time": 1702131579,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368119,
+      "num": 368119,
+      "word": "血小板偏低",
+      "onboard_time": 1702354179,
+      "rank": 18,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 367822,
@@ -11395,14 +11467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 341453,
-      "num": 341453,
-      "word": "青椒拿铁",
-      "onboard_time": 1702349852,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 341315,
       "num": 316564,
       "word": "短道500米中国队全员晋级",
@@ -11945,6 +12009,14 @@
       "onboard_time": 1701571829,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326335,
+      "num": 326335,
+      "word": "周杰伦 开不了口",
+      "onboard_time": 1702349372,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 325957,
@@ -13185,6 +13257,14 @@
       "onboard_time": 1702109430,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 299815,
+      "num": 299815,
+      "word": "研究生宿舍",
+      "onboard_time": 1702354296,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 299737,
@@ -15099,6 +15179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267923,
+      "num": 267923,
+      "word": "田柾国今日入伍",
+      "onboard_time": 1702354179,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267818,
       "num": 267818,
       "word": "网友建议哈尔滨文旅取消狗拉雪橇",
@@ -15385,14 +15473,6 @@
       "onboard_time": 1702309663,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 261820,
-      "num": 261820,
-      "word": "周杰伦 开不了口",
-      "onboard_time": 1702349372,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 261758,
@@ -17035,6 +17115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 235633,
+      "num": 235633,
+      "word": "越南观众有多爱中国电视剧",
+      "onboard_time": 1702346795,
+      "rank": 34,
+      "category": "剧集,社会新闻"
+    },
+    {
       "raw_hot": 235599,
       "num": 235599,
       "word": "T1表演赛",
@@ -17417,6 +17505,14 @@
       "onboard_time": 1702181853,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230388,
+      "num": 230388,
+      "word": "王一博陈宇来山东卫视了",
+      "onboard_time": 1702352794,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 230299,
@@ -19835,6 +19931,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 204747,
+      "num": 204747,
+      "word": "梁静茹演唱会",
+      "onboard_time": 1702354659,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204719,
       "num": 185741,
       "word": "横店短剧 演员工资",
@@ -20771,14 +20875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196799,
-      "num": 196799,
-      "word": "越南观众有多爱中国电视剧",
-      "onboard_time": 1702346795,
-      "rank": 34,
-      "category": "剧集,社会新闻"
-    },
-    {
       "raw_hot": 196796,
       "num": 196796,
       "word": "圆明园7小天鹅太治愈了",
@@ -21171,6 +21267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194032,
+      "num": 194032,
+      "word": "马刺17连败",
+      "onboard_time": 1702353812,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193995,
       "num": 207241,
       "word": "王曼昱老婆们请看",
@@ -21385,6 +21489,14 @@
       "onboard_time": 1702042179,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192358,
+      "num": 192358,
+      "word": "王安宇演累了让我演两集",
+      "onboard_time": 1702352493,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 192292,
@@ -21875,6 +21987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188398,
+      "num": 188398,
+      "word": "神隐 搞里头",
+      "onboard_time": 1702354538,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188382,
       "num": 188382,
       "word": "萌兰都快把院子里的树杈盘包浆了",
@@ -21905,6 +22025,14 @@
       "onboard_time": 1701397108,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188208,
+      "num": 188208,
+      "word": "鸣龙少年 假唱一点也不真诚",
+      "onboard_time": 1702353995,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 188137,
@@ -23657,6 +23785,14 @@
       "onboard_time": 1702085491,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169587,
+      "num": 169587,
+      "word": "女子求助寻找8岁女儿的生父",
+      "onboard_time": 1702353338,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169528,
@@ -30161,6 +30297,14 @@
       "onboard_time": 1701608806,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44512,
+      "num": 1207461,
+      "word": "北京点燃数字经济国潮热",
+      "onboard_time": 1702352914,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44460,

@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702352087039,
+  "endTime": 1702354914833,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -195,6 +195,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2037074,
+      "num": 2037074,
+      "word": "新冠变异株JN.1",
+      "onboard_time": 1702353396,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2028278,
       "num": 2028278,
       "word": "饶雪漫谈八年不敢联系陈都灵",
@@ -305,6 +313,14 @@
       "onboard_time": 1702339052,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1660474,
+      "num": 1660474,
+      "word": "为什么有些年轻人上班不带包",
+      "onboard_time": 1702350754,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1610558,
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 977902,
+      "num": 977902,
+      "word": "水逆来了 重灾区星座要小心",
+      "onboard_time": 1702349613,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 967462,
       "num": 967462,
       "word": "面包店的香味 假的",
@@ -657,6 +681,14 @@
       "onboard_time": 1702219238,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928422,
+      "num": 472613,
+      "word": "亲眼目睹了我妈传谣的过程",
+      "onboard_time": 1702353214,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 917329,
@@ -1187,6 +1219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 629072,
+      "num": 629072,
+      "word": "关于舍友为了省钱偷吃我剩饭",
+      "onboard_time": 1702352374,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 627373,
       "num": 627373,
       "word": "马面裙 女装",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1702197632,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 613091,
+      "num": 351838,
+      "word": "榜一大哥骗走24名家长1000余万元",
+      "onboard_time": 1702352674,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601424,
@@ -1281,14 +1329,6 @@
       "onboard_time": 1702144279,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580269,
-      "num": 580269,
-      "word": "水逆来了 重灾区星座要小心",
-      "onboard_time": 1702349613,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 578314,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1702199557,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 548955,
+      "num": 548955,
+      "word": "王鹤棣第二部男频剧",
+      "onboard_time": 1702352432,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 548828,
@@ -1507,14 +1555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 508240,
-      "num": 508240,
-      "word": "为什么有些年轻人上班不带包",
-      "onboard_time": 1702350754,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 506171,
       "num": 462254,
       "word": "为什么不带常华森",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1702292075,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477135,
+      "num": 477135,
+      "word": "RNG官宣Letme担任主教练",
+      "onboard_time": 1702353694,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 475605,
@@ -1865,6 +1913,14 @@
       "onboard_time": 1702269219,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 429191,
+      "num": 429191,
+      "word": "光遇",
+      "onboard_time": 1702354835,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 427535,
@@ -2163,6 +2219,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 375016,
+      "num": 375016,
+      "word": "青椒拿铁",
+      "onboard_time": 1702349852,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 372885,
       "num": 372839,
       "word": "泰国偶遇刘亦菲",
@@ -2201,6 +2265,14 @@
       "onboard_time": 1702203093,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368119,
+      "num": 368119,
+      "word": "血小板偏低",
+      "onboard_time": 1702354179,
+      "rank": 18,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 367280,
@@ -2403,14 +2475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 341453,
-      "num": 341453,
-      "word": "青椒拿铁",
-      "onboard_time": 1702349852,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 341144,
       "num": 341144,
       "word": "懂车帝",
@@ -2544,6 +2608,14 @@
       "word": "郑秀妍和Amber拍了MV",
       "onboard_time": 1702301391,
       "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 326335,
+      "num": 326335,
+      "word": "周杰伦 开不了口",
+      "onboard_time": 1702349372,
+      "rank": 26,
       "category": "音乐"
     },
     {
@@ -2745,6 +2817,14 @@
       "onboard_time": 1702341099,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299815,
+      "num": 299815,
+      "word": "研究生宿舍",
+      "onboard_time": 1702354296,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 299335,
@@ -3131,6 +3211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267923,
+      "num": 267923,
+      "word": "田柾国今日入伍",
+      "onboard_time": 1702354179,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267536,
       "num": 267536,
       "word": "王俊凯新歌红蓝战歌",
@@ -3225,14 +3313,6 @@
       "onboard_time": 1702309663,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 261820,
-      "num": 261820,
-      "word": "周杰伦 开不了口",
-      "onboard_time": 1702349372,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 261671,
@@ -3587,6 +3667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235633,
+      "num": 235633,
+      "word": "越南观众有多爱中国电视剧",
+      "onboard_time": 1702346795,
+      "rank": 34,
+      "category": "剧集,社会新闻"
+    },
+    {
       "raw_hot": 234467,
       "num": 374508,
       "word": "北京周三周四将有大雪",
@@ -3657,6 +3745,14 @@
       "onboard_time": 1702181853,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230388,
+      "num": 230388,
+      "word": "王一博陈宇来山东卫视了",
+      "onboard_time": 1702352794,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 230299,
@@ -4307,6 +4403,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 204747,
+      "num": 204747,
+      "word": "梁静茹演唱会",
+      "onboard_time": 1702354659,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204673,
       "num": 204673,
       "word": "热依扎红毯妆教",
@@ -4531,14 +4635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196799,
-      "num": 196799,
-      "word": "越南观众有多爱中国电视剧",
-      "onboard_time": 1702346795,
-      "rank": 34,
-      "category": "剧集,社会新闻"
-    },
-    {
       "raw_hot": 195868,
       "num": 195868,
       "word": "杨超越 拍照模板",
@@ -4619,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194032,
+      "num": 194032,
+      "word": "马刺17连败",
+      "onboard_time": 1702353812,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193968,
       "num": 193968,
       "word": "快乐老友记",
@@ -4673,6 +4777,14 @@
       "onboard_time": 1702128096,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192358,
+      "num": 192358,
+      "word": "王安宇演累了让我演两集",
+      "onboard_time": 1702352493,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 192106,
@@ -4755,12 +4867,28 @@
       "category": "读书作家,社会新闻"
     },
     {
+      "raw_hot": 188398,
+      "num": 188398,
+      "word": "神隐 搞里头",
+      "onboard_time": 1702354538,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188221,
       "num": 386937,
       "word": "2女子路遇3男子性骚扰勇敢拍下",
       "onboard_time": 1702318937,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188208,
+      "num": 188208,
+      "word": "鸣龙少年 假唱一点也不真诚",
+      "onboard_time": 1702353995,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 186753,
@@ -5265,6 +5393,14 @@
       "onboard_time": 1702265493,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169587,
+      "num": 169587,
+      "word": "女子求助寻找8岁女儿的生父",
+      "onboard_time": 1702353338,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169268,
@@ -7025,6 +7161,14 @@
       "onboard_time": 1702127315,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44512,
+      "num": 1207461,
+      "word": "北京点燃数字经济国潮热",
+      "onboard_time": 1702352914,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44361,
