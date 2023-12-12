@@ -1,0 +1,410 @@
+{
+  "runTime": 1702362221554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2538132,
+        "num": 2538132,
+        "word": "郑爽被强执9050万",
+        "onboard_time": 1702356219,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1104907,
+        "num": 1104907,
+        "word": "迪丽热巴一怒之下干了一杯奶",
+        "onboard_time": 1702358918,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40406,
+        "num": 1083319,
+        "word": "北京点燃数字经济国潮热",
+        "onboard_time": 1702352914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072750,
+        "num": 1072750,
+        "word": "亲眼目睹了我妈传谣的过程",
+        "onboard_time": 1702353214,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1520615,
+        "num": 1033854,
+        "word": "新冠变异株JN.1",
+        "onboard_time": 1702353396,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914568,
+        "num": 914568,
+        "word": "何猷君富得没见过世面",
+        "onboard_time": 1702360653,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 839720,
+        "num": 839720,
+        "word": "小米发文炮轰余承东",
+        "onboard_time": 1702357301,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 693975,
+        "num": 693975,
+        "word": "小伙定了婚期才知女方一家全是托",
+        "onboard_time": 1702357959,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533732,
+        "num": 669997,
+        "word": "专家建议发放3万亿生育补贴",
+        "onboard_time": 1702360113,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300112,
+        "num": 659623,
+        "word": "榜一大哥骗走24名家长1000余万元",
+        "onboard_time": 1702352674,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652931,
+        "num": 652931,
+        "word": "知情人称周海媚还在医院治疗中",
+        "onboard_time": 1702347272,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 614534,
+        "num": 614534,
+        "word": "父亲 降吧",
+        "onboard_time": 1702357420,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 521668,
+        "num": 521668,
+        "word": "丈夫打骂临产女儿被妻子捅死",
+        "onboard_time": 1702357238,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478534,
+        "num": 478534,
+        "word": "迪丽热巴 白日提灯",
+        "onboard_time": 1702360895,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477217,
+        "num": 477217,
+        "word": "BLG官宣Knight加入",
+        "onboard_time": 1702360535,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 432227,
+        "num": 432227,
+        "word": "男子被杠铃压死健身房老板最终赔50万",
+        "onboard_time": 1702359335,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395735,
+        "num": 395735,
+        "word": "湖南卫视跨年 放票",
+        "onboard_time": 1702355859,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394276,
+        "num": 394276,
+        "word": "为什么有些年轻人上班不带包",
+        "onboard_time": 1702350754,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 352568,
+        "num": 352568,
+        "word": "何润东车祸未受伤",
+        "onboard_time": 1702358196,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333316,
+        "num": 333316,
+        "word": "金莎许愿希望男友爱自己爱到去世那天",
+        "onboard_time": 1702360295,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316233,
+        "num": 316233,
+        "word": "打小我就看付鹏这小子行",
+        "onboard_time": 1702359097,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304690,
+        "num": 304690,
+        "word": "破产姐妹Max演员结婚",
+        "onboard_time": 1702346073,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233985,
+        "num": 233985,
+        "word": "著名编剧谭飞辟谣周海媚过世",
+        "onboard_time": 1702346496,
+        "rank": 22,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 232814,
+        "num": 232814,
+        "word": "水逆来了 重灾区星座要小心",
+        "onboard_time": 1702349613,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227918,
+        "num": 227918,
+        "word": "男子捂热水袋入睡被低温烫熟",
+        "onboard_time": 1702361614,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215627,
+        "num": 215627,
+        "word": "金莎跟张雨绮许愿的理想型就是孙丞潇",
+        "onboard_time": 1702360592,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214875,
+        "num": 214875,
+        "word": "猫猫 我跟你天下第一好哦",
+        "onboard_time": 1702356763,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200743,
+        "num": 200743,
+        "word": "熬夜的危害比你想象的还要大",
+        "onboard_time": 1702356100,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200224,
+        "num": 200224,
+        "word": "吴千语童年被妈妈揍产生了自虐动作",
+        "onboard_time": 1702361915,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128591,
+        "num": 195865,
+        "word": "多所高校明确不提供宿舍",
+        "onboard_time": 1702339052,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194669,
+        "num": 194669,
+        "word": "赛琳娜退网后更新动态",
+        "onboard_time": 1702356458,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194579,
+        "num": 194579,
+        "word": "周海媚",
+        "onboard_time": 1702293694,
+        "rank": 31,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 190308,
+        "num": 190308,
+        "word": "王鹤棣第二部男频剧",
+        "onboard_time": 1702352432,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189275,
+        "num": 189275,
+        "word": "中央网信办整治短视频导向不良问题",
+        "onboard_time": 1702359934,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187371,
+        "num": 187371,
+        "word": "Ming分享RNG大合照",
+        "onboard_time": 1702358259,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178481,
+        "num": 178481,
+        "word": "专家称若年轻人掌握资本就不存在过剩",
+        "onboard_time": 1702361614,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 175728,
+        "num": 175728,
+        "word": "星穹铁道黑天鹅",
+        "onboard_time": 1702359873,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174412,
+        "num": 174412,
+        "word": "宋江金裕贞",
+        "onboard_time": 1702347574,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165301,
+        "num": 165301,
+        "word": "张若昀发了张一分钟的图",
+        "onboard_time": 1702357959,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162422,
+        "num": 162422,
+        "word": "马天宇 我以为宋江是宋江",
+        "onboard_time": 1702362156,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160155,
+        "num": 160155,
+        "word": "为什么年轻人越来越不喜欢人情世故",
+        "onboard_time": 1702348953,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157758,
+        "num": 157758,
+        "word": "RNG官宣Ming回归",
+        "onboard_time": 1702357476,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153794,
+        "num": 153794,
+        "word": "研究生宿舍",
+        "onboard_time": 1702354296,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 153296,
+        "num": 153296,
+        "word": "RNG官宣LWX加入",
+        "onboard_time": 1702356578,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151191,
+        "num": 151191,
+        "word": "LNG官宣Tarzan离队",
+        "onboard_time": 1702355799,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149658,
+        "num": 149658,
+        "word": "刘亚仁再一次道歉",
+        "onboard_time": 1702361735,
+        "rank": 45,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 146900,
+        "num": 146900,
+        "word": "芭莎镜头下的素颜王一博",
+        "onboard_time": 1702358857,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140580,
+        "num": 140580,
+        "word": "00后实习工作是帮考研学子去孔庙祈福",
+        "onboard_time": 1702360178,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139780,
+        "num": 139780,
+        "word": "邓科 大奉打更人",
+        "onboard_time": 1702359394,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139349,
+        "num": 139349,
+        "word": "王者源梦新皮肤",
+        "onboard_time": 1702357838,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在越南媒体发表署名文章#"
+    }
+  }
+}
