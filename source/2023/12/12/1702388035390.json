@@ -1,0 +1,410 @@
+{
+  "runTime": 1702388035390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1240857,
+        "num": 1240857,
+        "word": "结节 吃芋头",
+        "onboard_time": 1702376496,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2385670,
+        "num": 1181180,
+        "word": "菜鸟 取件码呢",
+        "onboard_time": 1702383814,
+        "rank": 1,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 28047,
+        "num": 1087503,
+        "word": "在河内感受中越人文相亲",
+        "onboard_time": 1702374513,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1046201,
+        "num": 1046201,
+        "word": "骄阳似我 张凌赫魏大勋",
+        "onboard_time": 1702383275,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701205,
+        "num": 701205,
+        "word": "在人间 赵丽颖张一山",
+        "onboard_time": 1702384357,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641142,
+        "num": 641142,
+        "word": "拒绝假唱 来真的",
+        "onboard_time": 1702384833,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483007,
+        "num": 483007,
+        "word": "EDG离开了EDG",
+        "onboard_time": 1702386813,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 472484,
+        "num": 472484,
+        "word": "网红袖珍女孩疑遭母亲虐待",
+        "onboard_time": 1702382433,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393063,
+        "num": 393063,
+        "word": "朱丹周一围 衣服互穿",
+        "onboard_time": 1702384175,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358613,
+        "num": 358613,
+        "word": "好莱坞富二代涉嫌分尸华人妻子",
+        "onboard_time": 1702378775,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1849651,
+        "num": 353699,
+        "word": "老师情绪失控让全班女生自扇耳光",
+        "onboard_time": 1702384234,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589545,
+        "num": 353053,
+        "word": "易孕体质是没有科学避孕",
+        "onboard_time": 1702382433,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 566262,
+        "num": 348748,
+        "word": "田启文称周海媚长期受红斑狼疮困扰",
+        "onboard_time": 1702376074,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 336538,
+        "num": 336538,
+        "word": "最讨厌那个杨大爷了",
+        "onboard_time": 1702381957,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501592,
+        "num": 327354,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1702376855,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341604,
+        "num": 323795,
+        "word": "狐妖小红娘 易主",
+        "onboard_time": 1702373434,
+        "rank": 15,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 317711,
+        "num": 317711,
+        "word": "杨丞琳演唱会主办方已经营异常",
+        "onboard_time": 1702376255,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 265822,
+        "num": 265822,
+        "word": "薛之谦上上谦火锅仅剩两家",
+        "onboard_time": 1702369177,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 262183,
+        "num": 262183,
+        "word": "王者后羿新皮肤",
+        "onboard_time": 1702385195,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195309,
+        "num": 258344,
+        "word": "大凉山老师陪孩子走10小时山路打球",
+        "onboard_time": 1702387177,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707072,
+        "num": 258225,
+        "word": "男子介绍女友卖淫赚生活费获刑5年",
+        "onboard_time": 1702386273,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422990,
+        "num": 258217,
+        "word": "研究称生两个孩子最有利于长寿",
+        "onboard_time": 1702369474,
+        "rank": 21,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 257022,
+        "num": 257022,
+        "word": "防弹少年团全员正式入伍",
+        "onboard_time": 1702384959,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256426,
+        "num": 256426,
+        "word": "i人遛e狗",
+        "onboard_time": 1702384055,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175810,
+        "num": 253361,
+        "word": "影帝萌兰示范中枪表演",
+        "onboard_time": 1702386696,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251817,
+        "num": 251817,
+        "word": "TES Meiko",
+        "onboard_time": 1702381713,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236746,
+        "num": 236746,
+        "word": "鼻炎手术 鼻头变尖",
+        "onboard_time": 1702375653,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230743,
+        "num": 230743,
+        "word": "我期待的不是雪 而是有你的冬天",
+        "onboard_time": 1702386577,
+        "rank": 27,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 228384,
+        "num": 228384,
+        "word": "给王鹤棣找个配音吧",
+        "onboard_time": 1702376015,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144698,
+        "num": 226487,
+        "word": "林孝埈说国家队氛围非常好",
+        "onboard_time": 1702379674,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224864,
+        "num": 224864,
+        "word": "秦岚辛芷蕾 一个敢说一个敢接",
+        "onboard_time": 1702381234,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216633,
+        "num": 216633,
+        "word": "腾讯娱乐年度盛典 阵容",
+        "onboard_time": 1702382433,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211461,
+        "num": 211461,
+        "word": "Meiko CPU拍卖35.7万",
+        "onboard_time": 1702379374,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1114692,
+        "num": 211352,
+        "word": "同居且怀孕流产分手后女子被判还彩礼",
+        "onboard_time": 1702380033,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211209,
+        "num": 211209,
+        "word": "为什么蚝不便宜蚝油却便宜",
+        "onboard_time": 1702387234,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207288,
+        "num": 207288,
+        "word": "常吃烤红薯会致癌吗",
+        "onboard_time": 1702386156,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207085,
+        "num": 207085,
+        "word": "一碗30元的网红面馆卖不动了",
+        "onboard_time": 1702365154,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 199879,
+        "num": 199879,
+        "word": "乘务员问要不要换座位的原因",
+        "onboard_time": 1702384297,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197019,
+        "num": 197019,
+        "word": "朱丹说没有被湖南台封杀过",
+        "onboard_time": 1702375233,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183211,
+        "num": 183211,
+        "word": "这就是双休的意义",
+        "onboard_time": 1702363776,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182532,
+        "num": 182532,
+        "word": "菜鸟客服回应崩了",
+        "onboard_time": 1702387057,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 179631,
+        "num": 179631,
+        "word": "WBG官宣Zdz加入",
+        "onboard_time": 1702385257,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168985,
+        "num": 168985,
+        "word": "湖南卫视跨年 阵容",
+        "onboard_time": 1702377579,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181829,
+        "num": 168632,
+        "word": "朱丹因为周一围比自己小哭了",
+        "onboard_time": 1702371993,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167983,
+        "num": 167983,
+        "word": "马天宇 我以为宋江是宋江",
+        "onboard_time": 1702362156,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165281,
+        "num": 165281,
+        "word": "刘亦菲王鹤棣 长陵",
+        "onboard_time": 1702363953,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164201,
+        "num": 164201,
+        "word": "虞书欣 机器人台词",
+        "onboard_time": 1702380455,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152855,
+        "num": 152855,
+        "word": "红斑狼疮",
+        "onboard_time": 1702379314,
+        "rank": 47,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 144280,
+        "num": 144280,
+        "word": "宝宝抱住两个月不见的爷爷亲个不停",
+        "onboard_time": 1702374635,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116300,
+        "num": 138302,
+        "word": "辽宁男篮vs广厦男篮",
+        "onboard_time": 1702385496,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/12 21:21:39
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/12 21:33:55
 </p>
 </blockquote>
 <p>
@@ -885,6 +885,12 @@ WBG宣布TheShy离队（热度：1896260）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%A5%B3%E7%94%9F%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
+老师情绪失控让全班女生自扇耳光（热度：1849651）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%B7%E5%8D%96%E5%AE%B6%E4%B8%AD31%E6%96%A4%E9%87%91%E6%9D%A1%E5%8F%98%E7%8E%B0565%E4%B8%87%23" target="weibo">
 男孩偷卖家中31斤金条变现565万（热度：1847705）
 </a>
@@ -1241,12 +1247,6 @@ BLACKPINK全员与YG完成续约（热度：1668669）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86%E5%B0%B1%E5%83%8F%E6%98%AF%E7%95%99%E4%BA%86%E6%A1%88%E5%BA%95%23" target="weibo">
 第一学历歧视就像是留了案底（热度：1553284）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%E8%AE%A9%E5%85%A8%E7%8F%AD%E5%A5%B3%E7%94%9F%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%23" target="weibo">
-老师情绪失控让全班女生自扇耳光（热度：1551743）
 </a>
 </li>
 
@@ -3501,6 +3501,12 @@ Jessi 解约（热度：710952）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%8B%E7%BB%8D%E5%A5%B3%E5%8F%8B%E5%8D%96%E6%B7%AB%E8%B5%9A%E7%94%9F%E6%B4%BB%E8%B4%B9%E8%8E%B7%E5%88%915%E5%B9%B4%23" target="weibo">
+男子介绍女友卖淫赚生活费获刑5年（热度：707072）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%93%A6%E7%BD%91%23" target="weibo">
 擦网（热度：706100）
 </a>
@@ -4053,6 +4059,12 @@ Ning五杀（热度：641892）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E5%81%87%E5%94%B1%20%E6%9D%A5%E7%9C%9F%E7%9A%84%23" target="weibo">
+拒绝假唱 来真的（热度：641142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%8F%88%E5%81%9A%E5%88%B0%E4%BA%861800%23" target="weibo">
 苏翊鸣又做到了1800（热度：640742）
 </a>
@@ -4355,12 +4367,6 @@ GQ压轴官宣杨幂（热度：620544）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%90%91%E6%B6%88%E5%8D%8F%E5%85%AC%E5%BC%80%E4%B8%BE%E6%8A%A5%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%23" target="weibo">
 博主向消协公开举报五月天假唱（热度：609562）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E5%81%87%E5%94%B1%20%E6%9D%A5%E7%9C%9F%E7%9A%84%23" target="weibo">
-拒绝假唱 来真的（热度：606899）
 </a>
 </li>
 
@@ -5913,6 +5919,12 @@ Faker获TGA最佳电竞选手（热度：483576）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23EDG%E7%A6%BB%E5%BC%80%E4%BA%86EDG%23" target="weibo">
+EDG离开了EDG（热度：483007）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E4%BB%99%E7%9B%B4%E6%92%AD%23" target="weibo">
 张大仙直播（热度：482269）
 </a>
@@ -5999,18 +6011,6 @@ RNG官宣Letme担任主教练（热度：477135）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%BE%9E%E9%80%80%E6%8F%90%E5%89%8D%E5%90%83%E5%8D%88%E9%A5%AD%E5%91%98%E5%B7%A5%E8%A2%AB%E5%88%A4%E8%B5%942%E4%B8%87%23" target="weibo">
 公司辞退提前吃午饭员工被判赔2万（热度：476285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TheShy%20%E6%95%85%E4%BA%8B%E8%BF%8E%E6%9D%A5%E4%BA%86%E5%AE%8C%E7%BE%8E%E7%BB%93%E5%B1%80%23" target="weibo">
-TheShy 故事迎来了完美结局（热度：475605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%81%8B%E7%BB%BC%E5%AE%98%E5%AE%A3%23" target="weibo">
-谢娜恋综官宣（热度：475275）
 </a>
 </li>
 

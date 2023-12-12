@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702387299582,
+  "endTime": 1702388035390,
   "band_list": [
     {
       "raw_hot": 3671070,
@@ -115,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1849651,
+      "num": 724074,
+      "word": "老师情绪失控让全班女生自扇耳光",
+      "onboard_time": 1702384234,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1844216,
       "num": 648473,
       "word": "破产姐妹Max演员结婚",
@@ -153,14 +161,6 @@
       "onboard_time": 1702376496,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1551743,
-      "num": 724074,
-      "word": "老师情绪失控让全班女生自扇耳光",
-      "onboard_time": 1702384234,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1539178,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 707072,
+      "num": 329077,
+      "word": "男子介绍女友卖淫赚生活费获刑5年",
+      "onboard_time": 1702386273,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704050,
       "num": 704050,
       "word": "刘亦菲王鹤棣 长陵",
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641142,
+      "num": 641142,
+      "word": "拒绝假唱 来真的",
+      "onboard_time": 1702384833,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638672,
       "num": 638672,
       "word": "红斑狼疮",
@@ -521,14 +537,6 @@
       "onboard_time": 1702357238,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606899,
-      "num": 606899,
-      "word": "拒绝假唱 来真的",
-      "onboard_time": 1702384833,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 595140,
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483007,
+      "num": 483007,
+      "word": "EDG离开了EDG",
+      "onboard_time": 1702386813,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 477217,
       "num": 477217,
       "word": "BLG官宣Knight加入",
@@ -705,6 +721,14 @@
       "onboard_time": 1702353694,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 472484,
+      "num": 472484,
+      "word": "网红袖珍女孩疑遭母亲虐待",
+      "onboard_time": 1702382433,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468358,
@@ -907,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 383750,
-      "num": 367064,
-      "word": "网红袖珍女孩疑遭母亲虐待",
-      "onboard_time": 1702382433,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 382760,
       "num": 382760,
       "word": "微信支付上线先学后付",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1702384055,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 329077,
-      "num": 329077,
-      "word": "男子介绍女友卖淫赚生活费获刑5年",
-      "onboard_time": 1702386273,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326335,
@@ -1304,14 +1312,6 @@
       "word": "LNG官宣Scout续约",
       "onboard_time": 1702378177,
       "rank": 33,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 268863,
-      "num": 268863,
-      "word": "EDG离开了EDG",
-      "onboard_time": 1702386813,
-      "rank": 25,
       "category": "电竞"
     },
     {
@@ -1779,6 +1779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 211209,
+      "num": 211209,
+      "word": "为什么蚝不便宜蚝油却便宜",
+      "onboard_time": 1702387234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210655,
       "num": 210655,
       "word": "Meiko EDG是我永远的家",
@@ -1913,6 +1921,14 @@
       "onboard_time": 1702369777,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195309,
+      "num": 258344,
+      "word": "大凉山老师陪孩子走10小时山路打球",
+      "onboard_time": 1702387177,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194032,
@@ -2107,6 +2123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182532,
+      "num": 182532,
+      "word": "菜鸟客服回应崩了",
+      "onboard_time": 1702387057,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 182448,
       "num": 182448,
       "word": "老头快乐水",
@@ -2147,6 +2171,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 175810,
+      "num": 253361,
+      "word": "影帝萌兰示范中枪表演",
+      "onboard_time": 1702386696,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "星穹铁道黑天鹅",
@@ -2169,14 +2201,6 @@
       "onboard_time": 1702307444,
       "rank": 34,
       "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 174732,
-      "num": 196061,
-      "word": "大凉山老师陪孩子走10小时山路打球",
-      "onboard_time": 1702387177,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174119,
@@ -2555,14 +2579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133710,
-      "num": 195767,
-      "word": "影帝萌兰示范中枪表演",
-      "onboard_time": 1702386696,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130718,
       "num": 130718,
       "word": "中式疯批美学妆",
@@ -2619,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116300,
+      "num": 138302,
+      "word": "辽宁男篮vs广厦男篮",
+      "onboard_time": 1702385496,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116063,
       "num": 786466,
       "word": "2023那些闪闪发光的00后",
@@ -2649,14 +2673,6 @@
       "onboard_time": 1702386514,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100421,
-      "num": 166678,
-      "word": "为什么蚝不便宜蚝油却便宜",
-      "onboard_time": 1702387234,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99911,

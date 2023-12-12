@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702387299582,
+  "endTime": 1702388035390,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1849651,
+      "num": 724074,
+      "word": "老师情绪失控让全班女生自扇耳光",
+      "onboard_time": 1702384234,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1844216,
       "num": 648473,
       "word": "破产姐妹Max演员结婚",
@@ -417,14 +425,6 @@
       "onboard_time": 1702276713,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1551743,
-      "num": 724074,
-      "word": "老师情绪失控让全班女生自扇耳光",
-      "onboard_time": 1702384234,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1539178,
@@ -1275,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707072,
+      "num": 329077,
+      "word": "男子介绍女友卖淫赚生活费获刑5年",
+      "onboard_time": 1702386273,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704050,
       "num": 704050,
       "word": "刘亦菲王鹤棣 长陵",
@@ -1507,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641142,
+      "num": 641142,
+      "word": "拒绝假唱 来真的",
+      "onboard_time": 1702384833,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 635667,
       "num": 1705202,
       "word": "宝宝抱住两个月不见的爷爷亲个不停",
@@ -1585,14 +1601,6 @@
       "onboard_time": 1702197632,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 606899,
-      "num": 606899,
-      "word": "拒绝假唱 来真的",
-      "onboard_time": 1702384833,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 601424,
@@ -2075,6 +2083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 483007,
+      "num": 483007,
+      "word": "EDG离开了EDG",
+      "onboard_time": 1702386813,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 479730,
       "num": 479730,
       "word": "神隐 上厕所",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1702278992,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472484,
+      "num": 472484,
+      "word": "网红袖珍女孩疑遭母亲虐待",
+      "onboard_time": 1702382433,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469860,
@@ -2691,14 +2715,6 @@
       "category": "演出,社会新闻"
     },
     {
-      "raw_hot": 383750,
-      "num": 367064,
-      "word": "网红袖珍女孩疑遭母亲虐待",
-      "onboard_time": 1702382433,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383241,
       "num": 383241,
       "word": "王楚钦 冠军属于团队",
@@ -3217,14 +3233,6 @@
       "onboard_time": 1702265853,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 329077,
-      "num": 329077,
-      "word": "男子介绍女友卖淫赚生活费获刑5年",
-      "onboard_time": 1702386273,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328947,
@@ -3985,14 +3993,6 @@
       "onboard_time": 1702279834,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268863,
-      "num": 268863,
-      "word": "EDG离开了EDG",
-      "onboard_time": 1702386813,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 267923,
@@ -5251,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211209,
+      "num": 211209,
+      "word": "为什么蚝不便宜蚝油却便宜",
+      "onboard_time": 1702387234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210655,
       "num": 210655,
       "word": "Meiko EDG是我永远的家",
@@ -5835,6 +5843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195309,
+      "num": 258344,
+      "word": "大凉山老师陪孩子走10小时山路打球",
+      "onboard_time": 1702387177,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194911,
       "num": 194911,
       "word": "鸣龙少年今晚开播",
@@ -6299,6 +6315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 182532,
+      "num": 182532,
+      "word": "菜鸟客服回应崩了",
+      "onboard_time": 1702387057,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 182448,
       "num": 182448,
       "word": "老头快乐水",
@@ -6515,6 +6539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175810,
+      "num": 253361,
+      "word": "影帝萌兰示范中枪表演",
+      "onboard_time": 1702386696,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175728,
       "num": 175728,
       "word": "星穹铁道黑天鹅",
@@ -6561,14 +6593,6 @@
       "onboard_time": 1702276772,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 174732,
-      "num": 196061,
-      "word": "大凉山老师陪孩子走10小时山路打球",
-      "onboard_time": 1702387177,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174295,
@@ -7859,14 +7883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133710,
-      "num": 195767,
-      "word": "影帝萌兰示范中枪表演",
-      "onboard_time": 1702386696,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133204,
       "num": 133204,
       "word": "华为首家海外工厂将落地法国",
@@ -8163,6 +8179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116300,
+      "num": 138302,
+      "word": "辽宁男篮vs广厦男篮",
+      "onboard_time": 1702385496,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116063,
       "num": 786466,
       "word": "2023那些闪闪发光的00后",
@@ -8265,14 +8289,6 @@
       "onboard_time": 1702299223,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100421,
-      "num": 166678,
-      "word": "为什么蚝不便宜蚝油却便宜",
-      "onboard_time": 1702387234,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99911,
