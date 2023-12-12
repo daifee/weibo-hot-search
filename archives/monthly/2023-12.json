@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702377433405,
+  "endTime": 1702379736041,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 2598822,
-      "num": 418610,
+      "num": 429307,
       "word": "研究称生两个孩子最有利于长寿",
       "onboard_time": 1702369474,
       "rank": 20,
@@ -1299,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1751761,
+      "num": 1751761,
+      "word": "易烊千玺 评委",
+      "onboard_time": 1702376855,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1741900,
       "num": 1741900,
       "word": "江苏省考 酣畅淋漓的蒙题",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1701767984,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1503369,
+      "num": 1503369,
+      "word": "田启文称周海媚长期受红斑狼疮困扰",
+      "onboard_time": 1702376074,
+      "rank": 12,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1501522,
@@ -2443,6 +2459,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 1170391,
+      "num": 1170391,
+      "word": "结节 吃芋头",
+      "onboard_time": 1702376496,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1169868,
       "num": 480274,
       "word": "汤唯 一家三口一直住在北京",
@@ -2505,14 +2529,6 @@
       "onboard_time": 1701936815,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1154209,
-      "num": 1154209,
-      "word": "易烊千玺 评委",
-      "onboard_time": 1702376855,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 1150719,
@@ -3305,14 +3321,6 @@
       "onboard_time": 1702261954,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 907769,
-      "num": 907769,
-      "word": "田启文称周海媚长期受红斑狼疮困扰",
-      "onboard_time": 1702376074,
-      "rank": 12,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 907652,
@@ -4121,6 +4129,14 @@
       "onboard_time": 1701403117,
       "rank": 6,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 761345,
+      "num": 761345,
+      "word": "成都地铁偷拍案影响扩大系男方责任",
+      "onboard_time": 1702376135,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 760584,
@@ -5355,6 +5371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 635667,
+      "num": 1705202,
+      "word": "宝宝抱住两个月不见的爷爷亲个不停",
+      "onboard_time": 1702374635,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 634974,
       "num": 634974,
       "word": "古茗小程序崩了",
@@ -5769,6 +5793,14 @@
       "onboard_time": 1701929494,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 599033,
+      "num": 599033,
+      "word": "去父母化",
+      "onboard_time": 1702376737,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 598967,
@@ -6203,14 +6235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 566467,
-      "num": 1705202,
-      "word": "宝宝抱住两个月不见的爷爷亲个不停",
-      "onboard_time": 1702374635,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 565268,
       "num": 565268,
       "word": "老人握妻子手买人生第一套房",
@@ -6353,14 +6377,6 @@
       "onboard_time": 1701941383,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 555990,
-      "num": 555990,
-      "word": "成都地铁偷拍案影响扩大系男方责任",
-      "onboard_time": 1702376135,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555894,
@@ -8091,6 +8107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465570,
+      "num": 465570,
+      "word": "EDG Meiko",
+      "onboard_time": 1702364696,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 465267,
       "num": 333492,
       "word": "JDG获TGA最佳电竞俱乐部",
@@ -8169,6 +8193,14 @@
       "onboard_time": 1702183597,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460025,
+      "num": 460025,
+      "word": "吴青峰曾多次失声",
+      "onboard_time": 1702378477,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 459834,
@@ -8771,14 +8803,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 434793,
-      "num": 434793,
-      "word": "结节 吃芋头",
-      "onboard_time": 1702376496,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 434666,
       "num": 434666,
       "word": "西安警方回应警务人员维护偶像威胁网民",
@@ -9137,6 +9161,14 @@
       "onboard_time": 1701831694,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425668,
+      "num": 425668,
+      "word": "林孝埈 让世界看到中国短道的力量",
+      "onboard_time": 1702378297,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 425388,
@@ -9699,6 +9731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 405807,
+      "num": 405807,
+      "word": "湖南卫视跨年 阵容",
+      "onboard_time": 1702377579,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405636,
       "num": 405636,
       "word": "JDG官宣Knight离队",
@@ -9881,6 +9921,14 @@
       "onboard_time": 1702132542,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397572,
+      "num": 397572,
+      "word": "苏打绿 最后一次大型巡演",
+      "onboard_time": 1702378416,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 397422,
@@ -10345,6 +10393,14 @@
       "onboard_time": 1701529054,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382760,
+      "num": 382760,
+      "word": "微信支付上线先学后付",
+      "onboard_time": 1702375777,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 382742,
@@ -12195,14 +12251,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 333743,
-      "num": 333743,
-      "word": "EDG Meiko",
-      "onboard_time": 1702364696,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 333736,
       "num": 333440,
       "word": "向佐 不是健身去不起抱娃更有性价比",
@@ -12249,14 +12297,6 @@
       "onboard_time": 1701396812,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 332887,
-      "num": 332887,
-      "word": "微信支付上线先学后付",
-      "onboard_time": 1702375777,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 332410,
@@ -13851,6 +13891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298226,
+      "num": 304738,
+      "word": "XBB新冠疫苗可以接种了",
+      "onboard_time": 1702377694,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297664,
       "num": 165875,
       "word": "金鹤龙为杨幂化妆",
@@ -14169,6 +14217,14 @@
       "onboard_time": 1701498032,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 294334,
+      "num": 294334,
+      "word": "好莱坞富二代涉嫌分尸华人妻子",
+      "onboard_time": 1702378775,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294253,
@@ -15571,6 +15627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270923,
+      "num": 270923,
+      "word": "LNG官宣Scout续约",
+      "onboard_time": 1702378177,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 270831,
       "num": 270831,
       "word": "EDG 上野辅",
@@ -16811,6 +16875,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 249917,
+      "num": 249917,
+      "word": "Meiko CPU拍卖35.7万",
+      "onboard_time": 1702379374,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 249747,
       "num": 249747,
       "word": "一旦一个人宣布她不再乱花钱",
@@ -17041,6 +17113,14 @@
       "onboard_time": 1701926492,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 245934,
+      "num": 245934,
+      "word": "懂车帝发布声明",
+      "onboard_time": 1702376255,
+      "rank": 40,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 245886,
@@ -17707,14 +17787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236399,
-      "num": 236399,
-      "word": "懂车帝发布声明",
-      "onboard_time": 1702376255,
-      "rank": 40,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 236380,
       "num": 236380,
       "word": "连云港3.8级地震",
@@ -17881,6 +17953,14 @@
       "onboard_time": 1701350258,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234038,
+      "num": 234038,
+      "word": "突然发现父母不再无所不能",
+      "onboard_time": 1702379014,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 234023,
@@ -18289,6 +18369,14 @@
       "onboard_time": 1702012597,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229579,
+      "num": 1191692,
+      "word": "偷偷买了跟爸爸同班高铁回家",
+      "onboard_time": 1702374935,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 229500,
@@ -19113,6 +19201,14 @@
       "onboard_time": 1701418713,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219172,
+      "num": 219172,
+      "word": "鼻炎手术 鼻头变尖",
+      "onboard_time": 1702375653,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 219105,
@@ -20201,14 +20297,6 @@
       "onboard_time": 1701939521,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 208552,
-      "num": 208552,
-      "word": "去父母化",
-      "onboard_time": 1702376737,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 208541,
@@ -22203,14 +22291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193056,
-      "num": 1087444,
-      "word": "偷偷买了跟爸爸同班高铁回家",
-      "onboard_time": 1702374935,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193048,
       "num": 193048,
       "word": "狼队首档团综狼来啦",
@@ -22377,6 +22457,14 @@
       "onboard_time": 1701865234,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191749,
+      "num": 191749,
+      "word": "圆脸氛围感刘海",
+      "onboard_time": 1702377875,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 191712,
@@ -22953,6 +23041,14 @@
       "onboard_time": 1702365035,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187705,
+      "num": 187705,
+      "word": "猫 我这一生如履薄冰",
+      "onboard_time": 1702378357,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 187679,
@@ -24139,6 +24235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175355,
+      "num": 175355,
+      "word": "林孝埈说国家队氛围非常好",
+      "onboard_time": 1702379674,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175349,
       "num": 175349,
       "word": "楼炅择仿妆宁艺卓",
@@ -24153,6 +24257,14 @@
       "onboard_time": 1702201714,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175248,
+      "num": 175248,
+      "word": "PLAVE 圣诞曲",
+      "onboard_time": 1702379616,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 175175,
@@ -27513,14 +27625,6 @@
       "onboard_time": 1701660574,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 143549,
-      "num": 143549,
-      "word": "鼻炎手术 鼻头变尖",
-      "onboard_time": 1702375653,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 143547,
@@ -31779,6 +31883,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 31912,
+      "num": 506706,
+      "word": "应该多久做一次眼睛健康体检",
+      "onboard_time": 1702378958,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31787,
       "num": 24827,
       "word": "成毅 真诚",
@@ -32534,6 +32646,9 @@
     },
     {
       "word": "#习近平越南之行#"
+    },
+    {
+      "word": "#习近平访问越南#"
     }
   ]
 }

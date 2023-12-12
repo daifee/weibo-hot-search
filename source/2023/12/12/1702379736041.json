@@ -1,0 +1,410 @@
+{
+  "runTime": 1702379736041,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751761,
+        "num": 1751761,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1702376855,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 635667,
+        "num": 1607481,
+        "word": "宝宝抱住两个月不见的爷爷亲个不停",
+        "onboard_time": 1702374635,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54688,
+        "num": 1504675,
+        "word": "在河内感受中越人文相亲",
+        "onboard_time": 1702374513,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1503369,
+        "num": 1503369,
+        "word": "田启文称周海媚长期受红斑狼疮困扰",
+        "onboard_time": 1702376074,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 320031,
+        "num": 1279573,
+        "word": "杭州大一学生论文被全球顶级会议录用",
+        "onboard_time": 1702374635,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1227842,
+        "num": 1227842,
+        "word": "狐妖小红娘 易主",
+        "onboard_time": 1702373434,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 229579,
+        "num": 1191692,
+        "word": "偷偷买了跟爸爸同班高铁回家",
+        "onboard_time": 1702374935,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1170391,
+        "num": 1170391,
+        "word": "结节 吃芋头",
+        "onboard_time": 1702376496,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 761345,
+        "num": 761345,
+        "word": "成都地铁偷拍案影响扩大系男方责任",
+        "onboard_time": 1702376135,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686458,
+        "num": 686458,
+        "word": "朱丹因为周一围比自己小哭了",
+        "onboard_time": 1702371993,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611926,
+        "num": 611926,
+        "word": "这就是双休的意义",
+        "onboard_time": 1702363776,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 599750,
+        "num": 599750,
+        "word": "一碗30元的网红面馆卖不动了",
+        "onboard_time": 1702365154,
+        "rank": 11,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 599033,
+        "num": 599033,
+        "word": "去父母化",
+        "onboard_time": 1702376737,
+        "rank": 12,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 563716,
+        "num": 563716,
+        "word": "郑爽被强执9050万",
+        "onboard_time": 1702356219,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 31912,
+        "num": 506706,
+        "word": "应该多久做一次眼睛健康体检",
+        "onboard_time": 1702378958,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493603,
+        "num": 493603,
+        "word": "薛之谦上上谦火锅仅剩两家",
+        "onboard_time": 1702369177,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 465570,
+        "num": 465570,
+        "word": "EDG Meiko",
+        "onboard_time": 1702364696,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 460025,
+        "num": 460025,
+        "word": "吴青峰曾多次失声",
+        "onboard_time": 1702378477,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452786,
+        "num": 452786,
+        "word": "杨丞琳演唱会主办方已经营异常",
+        "onboard_time": 1702376255,
+        "rank": 18,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 432367,
+        "num": 432367,
+        "word": "给王鹤棣找个配音吧",
+        "onboard_time": 1702376015,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1356522,
+        "num": 429307,
+        "word": "研究称生两个孩子最有利于长寿",
+        "onboard_time": 1702369474,
+        "rank": 20,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 425668,
+        "num": 425668,
+        "word": "林孝埈 让世界看到中国短道的力量",
+        "onboard_time": 1702378297,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405807,
+        "num": 405807,
+        "word": "湖南卫视跨年 阵容",
+        "onboard_time": 1702377579,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397572,
+        "num": 397572,
+        "word": "苏打绿 最后一次大型巡演",
+        "onboard_time": 1702378416,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387553,
+        "num": 387553,
+        "word": "朱丹说没有被湖南台封杀过",
+        "onboard_time": 1702375233,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382760,
+        "num": 382760,
+        "word": "微信支付上线先学后付",
+        "onboard_time": 1702375777,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 322045,
+        "num": 322045,
+        "word": "主办方回应杨丞琳演唱会言论",
+        "onboard_time": 1702365393,
+        "rank": 26,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 313478,
+        "num": 313478,
+        "word": "红斑狼疮",
+        "onboard_time": 1702379314,
+        "rank": 27,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 312290,
+        "num": 312290,
+        "word": "十个勤天做饭直播",
+        "onboard_time": 1702374154,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298226,
+        "num": 304738,
+        "word": "XBB新冠疫苗可以接种了",
+        "onboard_time": 1702377694,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298431,
+        "num": 298431,
+        "word": "周杰伦 迪奥全球大使",
+        "onboard_time": 1702366892,
+        "rank": 30,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 294334,
+        "num": 294334,
+        "word": "好莱坞富二代涉嫌分尸华人妻子",
+        "onboard_time": 1702378775,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277324,
+        "num": 277324,
+        "word": "一个人骂我 说明不了什么",
+        "onboard_time": 1702373076,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270923,
+        "num": 270923,
+        "word": "LNG官宣Scout续约",
+        "onboard_time": 1702378177,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 255989,
+        "num": 255989,
+        "word": "刘亦菲王鹤棣 长陵",
+        "onboard_time": 1702363953,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249917,
+        "num": 249917,
+        "word": "Meiko CPU拍卖35.7万",
+        "onboard_time": 1702379374,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249636,
+        "num": 249636,
+        "word": "马天宇 我以为宋江是宋江",
+        "onboard_time": 1702362156,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245934,
+        "num": 245934,
+        "word": "懂车帝发布声明",
+        "onboard_time": 1702376255,
+        "rank": 37,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 236568,
+        "num": 236568,
+        "word": "暗河传 龚俊",
+        "onboard_time": 1702374580,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234038,
+        "num": 234038,
+        "word": "突然发现父母不再无所不能",
+        "onboard_time": 1702379014,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 230535,
+        "num": 230535,
+        "word": "TheShy在WBG是顶薪待遇",
+        "onboard_time": 1702367556,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222753,
+        "num": 222753,
+        "word": "知情人称周海媚还在医院治疗中",
+        "onboard_time": 1702347272,
+        "rank": 41,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 219172,
+        "num": 219172,
+        "word": "鼻炎手术 鼻头变尖",
+        "onboard_time": 1702375653,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205007,
+        "num": 205007,
+        "word": "和妈妈吵架绝食一天偷吃被发现",
+        "onboard_time": 1702374454,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191749,
+        "num": 191749,
+        "word": "圆脸氛围感刘海",
+        "onboard_time": 1702377875,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 187705,
+        "num": 187705,
+        "word": "猫 我这一生如履薄冰",
+        "onboard_time": 1702378357,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181513,
+        "num": 181513,
+        "word": "专家建议发放3万亿生育补贴",
+        "onboard_time": 1702360113,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175355,
+        "num": 175355,
+        "word": "林孝埈说国家队氛围非常好",
+        "onboard_time": 1702379674,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175248,
+        "num": 175248,
+        "word": "PLAVE 圣诞曲",
+        "onboard_time": 1702379616,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168661,
+        "num": 168661,
+        "word": "跨年晚会 真唱",
+        "onboard_time": 1702366356,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平访问越南#"
+    }
+  }
+}
