@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702348920338,
+  "endTime": 1702351146763,
   "band_list": [
     {
       "raw_hot": 3099903,
@@ -115,8 +115,8 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 786447,
-      "num": 786447,
+      "raw_hot": 798541,
+      "num": 798541,
       "word": "律师致函江西民政要求公开彩票事件信息",
       "onboard_time": 1702347454,
       "rank": 7,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 784803,
-      "num": 300870,
+      "num": 322370,
       "word": "为什么年轻人讨厌接电话",
       "onboard_time": 1702344635,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 775493,
+      "num": 775493,
+      "word": "动手的那瞬间发现是小女儿后",
+      "onboard_time": 1702345652,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 670027,
@@ -163,6 +171,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 572130,
+      "num": 572130,
+      "word": "宋江金裕贞",
+      "onboard_time": 1702347574,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 563136,
       "num": 563136,
       "word": "红斑狼疮高发人群是年轻女性",
@@ -177,6 +193,22 @@
       "onboard_time": 1702339897,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 531664,
+      "num": 531664,
+      "word": "女孩讲历史太火被博物馆排队送礼",
+      "onboard_time": 1702344635,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 518405,
+      "num": 518405,
+      "word": "王鹤棣田曦薇杀青照",
+      "onboard_time": 1702349673,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 517930,
@@ -195,28 +227,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 490788,
-      "num": 490788,
-      "word": "女孩讲历史太火被博物馆排队送礼",
-      "onboard_time": 1702344635,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474923,
-      "num": 443100,
-      "word": "动手的那瞬间发现是小女儿后",
-      "onboard_time": 1702345652,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 468358,
       "num": 463854,
       "word": "巴黎大街上女性发型",
       "onboard_time": 1702343857,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 456995,
+      "num": 456995,
+      "word": "最高法呼吁取消高额彩礼",
+      "onboard_time": 1702344098,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452296,
+      "num": 452296,
+      "word": "水逆来了 重灾区星座要小心",
+      "onboard_time": 1702349613,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 445260,
@@ -235,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 428706,
-      "num": 428706,
-      "word": "宋江金裕贞",
-      "onboard_time": 1702347574,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 428346,
+      "num": 320797,
+      "word": "28岁女子第20次裸辞",
+      "onboard_time": 1702347634,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421725,
@@ -267,27 +299,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 369802,
-      "num": 369802,
-      "word": "最高法呼吁取消高额彩礼",
-      "onboard_time": 1702344098,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359705,
       "num": 359705,
       "word": "专家称元旦前后或有一波新冠感染高峰",
       "onboard_time": 1702345652,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356833,
-      "num": 288011,
-      "word": "28岁女子第20次裸辞",
-      "onboard_time": 1702347634,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -315,6 +331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 337895,
+      "num": 337895,
+      "word": "刘诗诗回应观众想看任如意秀腹肌",
+      "onboard_time": 1702349071,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335993,
       "num": 335993,
       "word": "涂磊连麦杜小华向所有寻亲家庭道歉",
@@ -329,6 +353,14 @@
       "onboard_time": 1702347031,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306952,
+      "num": 306952,
+      "word": "WBG官宣Weiwei离队",
+      "onboard_time": 1702348772,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 303519,
@@ -355,12 +387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297358,
+      "num": 297358,
+      "word": "为什么年轻人越来越不喜欢人情世故",
+      "onboard_time": 1702348953,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292697,
       "num": 292697,
       "word": "外嫁女嫁出村征地拆迁补偿就没份吗",
       "onboard_time": 1702343315,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288460,
+      "num": 288460,
+      "word": "青椒拿铁",
+      "onboard_time": 1702349852,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 285243,
@@ -403,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259803,
+      "num": 259803,
+      "word": "周杰伦 开不了口",
+      "onboard_time": 1702349372,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 255486,
       "num": 255486,
       "word": "1亿人正在经历这种被忽视的不定时疼痛",
@@ -411,12 +467,36 @@
       "category": "健康医疗,社会议题"
     },
     {
-      "raw_hot": 245003,
-      "num": 245003,
+      "raw_hot": 253047,
+      "num": 245076,
+      "word": "为什么有些年轻人上班不带包",
+      "onboard_time": 1702350754,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 252743,
+      "num": 252743,
+      "word": "大奉打更人首发预告",
+      "onboard_time": 1702349732,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 249747,
+      "num": 249747,
       "word": "一旦一个人宣布她不再乱花钱",
       "onboard_time": 1702346373,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241277,
+      "num": 241277,
+      "word": "体育老师问班主任借课打雪仗",
+      "onboard_time": 1702350033,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 237941,
@@ -472,6 +552,14 @@
       "word": "谁给赵露思李昀锐递个两情相悦的本子",
       "onboard_time": 1702342179,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223865,
+      "num": 223865,
+      "word": "王鹤棣杀青哽咽",
+      "onboard_time": 1702350334,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -531,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201003,
+      "num": 201003,
+      "word": "16名雪雕师7天雕出巨型雪龙",
+      "onboard_time": 1702350214,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199502,
       "num": 802558,
       "word": "瑞幸咖啡师烂手之痛",
@@ -585,6 +681,14 @@
       "onboard_time": 1702348533,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184904,
+      "num": 184904,
+      "word": "苏醒和偶像剧的距离只有10厘米",
+      "onboard_time": 1702350513,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 184513,
@@ -763,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138854,
-      "num": 138854,
-      "word": "WBG官宣Weiwei离队",
-      "onboard_time": 1702348772,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 138385,
       "num": 138385,
       "word": "松弛感满满的花苞头盘发",
@@ -817,6 +913,14 @@
       "onboard_time": 1702339957,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130718,
+      "num": 130718,
+      "word": "中式疯批美学妆",
+      "onboard_time": 1702350394,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 129696,
@@ -873,6 +977,14 @@
       "onboard_time": 1702340677,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105059,
+      "num": 786466,
+      "word": "2023那些闪闪发光的00后",
+      "onboard_time": 1702349432,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99911,
@@ -1057,6 +1169,14 @@
       "onboard_time": 1702325173,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 5340,
+      "num": 389164,
+      "word": "一曲阔唱响重庆热血滚烫",
+      "onboard_time": 1702351056,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

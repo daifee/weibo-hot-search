@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702348920338,
+  "endTime": 1702351146763,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -851,20 +851,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 798541,
+      "num": 798541,
+      "word": "律师致函江西民政要求公开彩票事件信息",
+      "onboard_time": 1702347454,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792946,
       "num": 792946,
       "word": "赵丽颖 女二",
       "onboard_time": 1702120956,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 786447,
-      "num": 786447,
-      "word": "律师致函江西民政要求公开彩票事件信息",
-      "onboard_time": 1702347454,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 785562,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 784803,
-      "num": 300870,
+      "num": 322370,
       "word": "为什么年轻人讨厌接电话",
       "onboard_time": 1702344635,
       "rank": 23,
@@ -889,6 +889,14 @@
       "onboard_time": 1702218282,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 775493,
+      "num": 775493,
+      "word": "动手的那瞬间发现是小女儿后",
+      "onboard_time": 1702345652,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 772661,
@@ -1299,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572130,
+      "num": 572130,
+      "word": "宋江金裕贞",
+      "onboard_time": 1702347574,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567915,
       "num": 567915,
       "word": "宋江居然是举芦荟胶内男的",
@@ -1395,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531664,
+      "num": 531664,
+      "word": "女孩讲历史太火被博物馆排队送礼",
+      "onboard_time": 1702344635,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529536,
       "num": 529536,
       "word": "Ame复出加盟XG",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1702264473,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 518405,
+      "num": 518405,
+      "word": "王鹤棣田曦薇杀青照",
+      "onboard_time": 1702349673,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 518095,
@@ -1555,14 +1587,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 490788,
-      "num": 490788,
-      "word": "女孩讲历史太火被博物馆排队送礼",
-      "onboard_time": 1702344635,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 487631,
       "num": 487631,
       "word": "夹子音",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1702204832,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 474923,
-      "num": 443100,
-      "word": "动手的那瞬间发现是小女儿后",
-      "onboard_time": 1702345652,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 473891,
@@ -1667,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 456995,
+      "num": 456995,
+      "word": "最高法呼吁取消高额彩礼",
+      "onboard_time": 1702344098,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455783,
       "num": 436131,
       "word": "背考研政治给自己背笑了",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1702308172,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452296,
+      "num": 452296,
+      "word": "水逆来了 重灾区星座要小心",
+      "onboard_time": 1702349613,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 451308,
@@ -1819,12 +1851,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 428706,
-      "num": 428706,
-      "word": "宋江金裕贞",
-      "onboard_time": 1702347574,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 428346,
+      "num": 320797,
+      "word": "28岁女子第20次裸辞",
+      "onboard_time": 1702347634,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427535,
@@ -2155,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369802,
-      "num": 369802,
-      "word": "最高法呼吁取消高额彩礼",
-      "onboard_time": 1702344098,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369745,
       "num": 369745,
       "word": "中国队5000米接力铜牌",
@@ -2249,14 +2273,6 @@
       "onboard_time": 1702270657,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356833,
-      "num": 288011,
-      "word": "28岁女子第20次裸辞",
-      "onboard_time": 1702347634,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355302,
@@ -2417,6 +2433,14 @@
       "onboard_time": 1702303795,
       "rank": 34,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 337895,
+      "num": 337895,
+      "word": "刘诗诗回应观众想看任如意秀腹肌",
+      "onboard_time": 1702349071,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 337777,
@@ -2619,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306952,
+      "num": 306952,
+      "word": "WBG官宣Weiwei离队",
+      "onboard_time": 1702348772,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 306444,
       "num": 306444,
       "word": "许多人家有的这种石头可能致癌",
@@ -2721,6 +2753,14 @@
       "onboard_time": 1702304092,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297358,
+      "num": 297358,
+      "word": "为什么年轻人越来越不喜欢人情世故",
+      "onboard_time": 1702348953,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 297106,
@@ -2833,6 +2873,14 @@
       "onboard_time": 1702193730,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288460,
+      "num": 288460,
+      "word": "青椒拿铁",
+      "onboard_time": 1702349852,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 288336,
@@ -3179,6 +3227,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 259803,
+      "num": 259803,
+      "word": "周杰伦 开不了口",
+      "onboard_time": 1702349372,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257756,
       "num": 346290,
       "word": "知情人透露国羽前国手溺亡原因",
@@ -3251,6 +3307,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253047,
+      "num": 245076,
+      "word": "为什么有些年轻人上班不带包",
+      "onboard_time": 1702350754,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 252743,
+      "num": 252743,
+      "word": "大奉打更人首发预告",
+      "onboard_time": 1702349732,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252527,
       "num": 240899,
       "word": "半开麦跟对口型假唱很难明确界定",
@@ -3307,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249747,
+      "num": 249747,
+      "word": "一旦一个人宣布她不再乱花钱",
+      "onboard_time": 1702346373,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248069,
       "num": 248069,
       "word": "大张伟谈被张钧甯拯救的经历",
@@ -3321,14 +3401,6 @@
       "onboard_time": 1702133379,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245003,
-      "num": 245003,
-      "word": "一旦一个人宣布她不再乱花钱",
-      "onboard_time": 1702346373,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 244964,
@@ -3385,6 +3457,14 @@
       "onboard_time": 1702267414,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241277,
+      "num": 241277,
+      "word": "体育老师问班主任借课打雪仗",
+      "onboard_time": 1702350033,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 240361,
@@ -3729,6 +3809,14 @@
       "onboard_time": 1702133320,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223865,
+      "num": 223865,
+      "word": "王鹤棣杀青哽咽",
+      "onboard_time": 1702350334,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 223777,
@@ -4251,6 +4339,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 201003,
+      "num": 201003,
+      "word": "16名雪雕师7天雕出巨型雪龙",
+      "onboard_time": 1702350214,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200669,
       "num": 200669,
       "word": "敷面膜后不涂面霜皮肤会更干燥",
@@ -4729,6 +4825,14 @@
       "onboard_time": 1702169488,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184904,
+      "num": 184904,
+      "word": "苏醒和偶像剧的距离只有10厘米",
+      "onboard_time": 1702350513,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 184838,
@@ -5955,14 +6059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138854,
-      "num": 138854,
-      "word": "WBG官宣Weiwei离队",
-      "onboard_time": 1702348772,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 138584,
       "num": 114693,
       "word": "张馨予低胸纱裙",
@@ -6153,6 +6249,14 @@
       "onboard_time": 1702194993,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130718,
+      "num": 130718,
+      "word": "中式疯批美学妆",
+      "onboard_time": 1702350394,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 130612,
@@ -6463,6 +6567,14 @@
       "num": 2466210,
       "word": "国内在运最大陆上风电基地投运",
       "onboard_time": 1702302048,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105059,
+      "num": 786466,
+      "word": "2023那些闪闪发光的00后",
+      "onboard_time": 1702349432,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -7104,6 +7216,14 @@
       "word": "90后残疾拾荒者资助学生上学",
       "onboard_time": 1702157593,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5340,
+      "num": 389164,
+      "word": "一曲阔唱响重庆热血滚烫",
+      "onboard_time": 1702351056,
+      "rank": 14,
       "category": "社会新闻"
     }
   ],
