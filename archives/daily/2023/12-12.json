@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702366439149,
+  "endTime": 1702369389017,
   "band_list": [
     {
       "raw_hot": 3671070,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1887253,
+      "num": 1887253,
+      "word": "这就是双休的意义",
+      "onboard_time": 1702363776,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1844216,
       "num": 648473,
       "word": "破产姐妹Max演员结婚",
@@ -115,20 +123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1242729,
-      "num": 1242729,
-      "word": "这就是双休的意义",
-      "onboard_time": 1702363776,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1221735,
       "num": 1221735,
       "word": "马天宇 我以为宋江是宋江",
       "onboard_time": 1702362156,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1170954,
+      "num": 1170954,
+      "word": "周杰伦 迪奥全球大使",
+      "onboard_time": 1702366892,
+      "rank": 3,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 1163812,
@@ -139,12 +147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1056513,
+      "num": 1056513,
+      "word": "一碗30元的网红面馆卖不动了",
+      "onboard_time": 1702365154,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1041615,
       "num": 1041615,
       "word": "WBG宣布TheShy离队",
       "onboard_time": 1702308048,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1037674,
+      "num": 1037674,
+      "word": "薛之谦上上谦火锅仅剩两家",
+      "onboard_time": 1702369177,
+      "rank": 5,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 977902,
@@ -243,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 721822,
+      "num": 721822,
+      "word": "跨年晚会 真唱",
+      "onboard_time": 1702366356,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 719762,
       "num": 719762,
       "word": "湖南卫视跨年 放票",
@@ -256,6 +288,14 @@
       "word": "刘亦菲王鹤棣 长陵",
       "onboard_time": 1702363953,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 702754,
+      "num": 702754,
+      "word": "于正 刘宇宁在历劫",
+      "onboard_time": 1702368270,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -273,6 +313,14 @@
       "onboard_time": 1702346312,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667247,
+      "num": 667247,
+      "word": "主办方回应杨丞琳演唱会言论",
+      "onboard_time": 1702365393,
+      "rank": 16,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 658562,
@@ -300,7 +348,7 @@
     },
     {
       "raw_hot": 641324,
-      "num": 669997,
+      "num": 704340,
       "word": "专家建议发放3万亿生育补贴",
       "onboard_time": 1702360113,
       "rank": 8,
@@ -403,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 516857,
-      "num": 266731,
-      "word": "一碗30元的网红面馆卖不动了",
-      "onboard_time": 1702365154,
-      "rank": 25,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 512494,
       "num": 666026,
       "word": "研究生宿舍",
@@ -491,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 444894,
-      "num": 355639,
-      "word": "主办方回应杨丞琳演唱会言论",
-      "onboard_time": 1702365393,
-      "rank": 16,
-      "category": "演出,社会新闻"
-    },
-    {
       "raw_hot": 443364,
       "num": 443364,
       "word": "男子被杠铃压死健身房老板最终赔50万",
@@ -529,6 +561,14 @@
       "onboard_time": 1702354835,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 433974,
+      "num": 433974,
+      "word": "TheShy在WBG是顶薪待遇",
+      "onboard_time": 1702367556,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 421725,
@@ -683,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 327104,
+      "num": 703417,
+      "word": "万达对赌危机解除",
+      "onboard_time": 1702367193,
+      "rank": 9,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 326335,
       "num": 326335,
       "word": "周杰伦 开不了口",
@@ -692,7 +740,7 @@
     },
     {
       "raw_hot": 322235,
-      "num": 322235,
+      "num": 362494,
       "word": "男子捂热水袋入睡被低温烫熟",
       "onboard_time": 1702361614,
       "rank": 24,
@@ -721,6 +769,14 @@
       "onboard_time": 1702348772,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 306592,
+      "num": 258130,
+      "word": "水牛客串神隐",
+      "onboard_time": 1702368756,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 305660,
@@ -867,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260226,
+      "num": 260226,
+      "word": "发高烧还让孩子上学爸妈们别卷了",
+      "onboard_time": 1702367672,
+      "rank": 24,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 257550,
       "num": 257550,
       "word": "和好朋友合租的下场",
@@ -881,6 +945,14 @@
       "onboard_time": 1702335984,
       "rank": 26,
       "category": "健康医疗,社会议题"
+    },
+    {
+      "raw_hot": 254011,
+      "num": 254011,
+      "word": "赵丽颖杨紫大剧看总台VCR",
+      "onboard_time": 1702367012,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 253706,
@@ -923,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241915,
+      "num": 241915,
+      "word": "鹅毛大雪 直接下鹅的大雪",
+      "onboard_time": 1702367913,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 241277,
       "num": 241277,
       "word": "体育老师问班主任借课打雪仗",
@@ -932,7 +1012,7 @@
     },
     {
       "raw_hot": 240139,
-      "num": 240139,
+      "num": 241949,
       "word": "学生想出国被外教劝回",
       "onboard_time": 1702365636,
       "rank": 27,
@@ -985,6 +1065,14 @@
       "onboard_time": 1702365756,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 234238,
+      "num": 234238,
+      "word": "江苏卫视跨年 真唱我们从来都是认真的",
+      "onboard_time": 1702368393,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 233635,
@@ -1083,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217717,
+      "num": 217717,
+      "word": "吴楚一新歌歌词",
+      "onboard_time": 1702368154,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215920,
       "num": 215920,
       "word": "泰国偶遇刘亦菲",
@@ -1155,6 +1251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 205053,
+      "num": 205053,
+      "word": "女子在医院大哭倒地众人合力扶起",
+      "onboard_time": 1702368813,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204944,
       "num": 204944,
       "word": "WBG打野Xiaohao",
@@ -1171,12 +1275,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204408,
+      "num": 204408,
+      "word": "世界舞蹈冠军集体摇科目三",
+      "onboard_time": 1702368214,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201003,
       "num": 201003,
       "word": "16名雪雕师7天雕出巨型雪龙",
       "onboard_time": 1702350214,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200239,
+      "num": 200239,
+      "word": "爷爷奶奶快八十了还在为情所困",
+      "onboard_time": 1702366654,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 199502,
@@ -1211,12 +1331,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189428,
+      "num": 189428,
+      "word": "花少有自己的燃冬",
+      "onboard_time": 1702368633,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189275,
       "num": 189275,
       "word": "中央网信办整治短视频导向不良问题",
       "onboard_time": 1702359934,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 188924,
+      "num": 188924,
+      "word": "LPL转会期大结局",
+      "onboard_time": 1702366777,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 188416,
@@ -1355,6 +1491,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 174119,
+      "num": 174119,
+      "word": "花苞头抓夹慢动作",
+      "onboard_time": 1702367314,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 173613,
       "num": 173613,
       "word": "杨幂手上的黑玫瑰是裙子上掉下来的",
@@ -1371,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171040,
+      "num": 171040,
+      "word": "中国累计培养1100多万研究生",
+      "onboard_time": 1702366234,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 169587,
       "num": 169587,
       "word": "女子求助寻找8岁女儿的生父",
@@ -1379,12 +1531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168725,
-      "num": 168725,
-      "word": "跨年晚会 真唱",
-      "onboard_time": 1702366356,
+      "raw_hot": 168994,
+      "num": 168994,
+      "word": "龙年 小龙女",
+      "onboard_time": 1702369177,
       "rank": 44,
-      "category": "综艺"
+      "category": "幽默"
     },
     {
       "raw_hot": 165581,
@@ -1483,6 +1635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 155726,
+      "num": 155726,
+      "word": "上班后整个人都癫了",
+      "onboard_time": 1702369357,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153755,
       "num": 153755,
       "word": "TheShy 故事迎来了完美结局",
@@ -1521,14 +1681,6 @@
       "onboard_time": 1702347751,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 145500,
-      "num": 145500,
-      "word": "中国累计培养1100多万研究生",
-      "onboard_time": 1702366234,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 143926,
@@ -1859,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32971,
+      "num": 1262766,
+      "word": "3000年前的国之重器藏着书法之美",
+      "onboard_time": 1702349253,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30472,
       "num": 30472,
       "word": "竞技体育 菜是原罪",
@@ -1916,6 +2076,9 @@
     },
     {
       "word": "#习近平在越南媒体发表署名文章#"
+    },
+    {
+      "word": "#习近平抵达河内对越南进行国事访问#"
     }
   ]
 }

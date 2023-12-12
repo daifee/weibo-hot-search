@@ -1,0 +1,410 @@
+{
+  "runTime": 1702369389017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1887253,
+        "num": 1887253,
+        "word": "这就是双休的意义",
+        "onboard_time": 1702363776,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1817727,
+        "num": 1817727,
+        "word": "郑爽被强执9050万",
+        "onboard_time": 1702356219,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 32971,
+        "num": 1262766,
+        "word": "3000年前的国之重器藏着书法之美",
+        "onboard_time": 1702349253,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170954,
+        "num": 1170954,
+        "word": "周杰伦 迪奥全球大使",
+        "onboard_time": 1702366892,
+        "rank": 3,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 1056513,
+        "num": 1056513,
+        "word": "一碗30元的网红面馆卖不动了",
+        "onboard_time": 1702365154,
+        "rank": 4,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1037674,
+        "num": 1037674,
+        "word": "薛之谦上上谦火锅仅剩两家",
+        "onboard_time": 1702369177,
+        "rank": 5,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 957768,
+        "num": 957768,
+        "word": "马天宇 我以为宋江是宋江",
+        "onboard_time": 1702362156,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721822,
+        "num": 721822,
+        "word": "跨年晚会 真唱",
+        "onboard_time": 1702366356,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357230,
+        "num": 704340,
+        "word": "专家建议发放3万亿生育补贴",
+        "onboard_time": 1702360113,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327104,
+        "num": 703417,
+        "word": "万达对赌危机解除",
+        "onboard_time": 1702367193,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 702754,
+        "num": 702754,
+        "word": "于正 刘宇宁在历劫",
+        "onboard_time": 1702368270,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 667247,
+        "num": 667247,
+        "word": "主办方回应杨丞琳演唱会言论",
+        "onboard_time": 1702365393,
+        "rank": 11,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 529355,
+        "num": 529355,
+        "word": "何猷君富得没见过世面",
+        "onboard_time": 1702360653,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516777,
+        "num": 516777,
+        "word": "刘亦菲王鹤棣 长陵",
+        "onboard_time": 1702363953,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471896,
+        "num": 471896,
+        "word": "女子无力还款丈夫花2400万买房",
+        "onboard_time": 1702363356,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447159,
+        "num": 447159,
+        "word": "知情人称周海媚还在医院治疗中",
+        "onboard_time": 1702347272,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 433974,
+        "num": 433974,
+        "word": "TheShy在WBG是顶薪待遇",
+        "onboard_time": 1702367556,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 378220,
+        "num": 378220,
+        "word": "五哈4开录",
+        "onboard_time": 1702366056,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368318,
+        "num": 368318,
+        "word": "迪丽热巴一怒之下干了一杯奶",
+        "onboard_time": 1702358918,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301935,
+        "num": 362494,
+        "word": "男子捂热水袋入睡被低温烫熟",
+        "onboard_time": 1702361614,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360143,
+        "num": 360143,
+        "word": "父亲 降吧",
+        "onboard_time": 1702357420,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333165,
+        "num": 333165,
+        "word": "和肖四大战简称肖战",
+        "onboard_time": 1702363178,
+        "rank": 21,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 289535,
+        "num": 289535,
+        "word": "小米发文炮轰余承东",
+        "onboard_time": 1702357301,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283238,
+        "num": 283238,
+        "word": "EDG Meiko",
+        "onboard_time": 1702364696,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260226,
+        "num": 260226,
+        "word": "发高烧还让孩子上学爸妈们别卷了",
+        "onboard_time": 1702367672,
+        "rank": 24,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 306592,
+        "num": 258130,
+        "word": "水牛客串神隐",
+        "onboard_time": 1702368756,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254011,
+        "num": 254011,
+        "word": "赵丽颖杨紫大剧看总台VCR",
+        "onboard_time": 1702367012,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242037,
+        "num": 242037,
+        "word": "小伙定了婚期才知女方一家全是托",
+        "onboard_time": 1702357959,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210604,
+        "num": 241949,
+        "word": "学生想出国被外教劝回",
+        "onboard_time": 1702365636,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140506,
+        "num": 241919,
+        "word": "榜一大哥骗走24名家长1000余万元",
+        "onboard_time": 1702352674,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241915,
+        "num": 241915,
+        "word": "鹅毛大雪 直接下鹅的大雪",
+        "onboard_time": 1702367913,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239964,
+        "num": 239964,
+        "word": "LPL全华班",
+        "onboard_time": 1702364597,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 234238,
+        "num": 234238,
+        "word": "江苏卫视跨年 真唱我们从来都是认真的",
+        "onboard_time": 1702368393,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217717,
+        "num": 217717,
+        "word": "吴楚一新歌歌词",
+        "onboard_time": 1702368154,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215291,
+        "num": 215291,
+        "word": "迪丽热巴 白日提灯",
+        "onboard_time": 1702360895,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205053,
+        "num": 205053,
+        "word": "女子在医院大哭倒地众人合力扶起",
+        "onboard_time": 1702368813,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204408,
+        "num": 204408,
+        "word": "世界舞蹈冠军集体摇科目三",
+        "onboard_time": 1702368214,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200239,
+        "num": 200239,
+        "word": "爷爷奶奶快八十了还在为情所困",
+        "onboard_time": 1702366654,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189428,
+        "num": 189428,
+        "word": "花少有自己的燃冬",
+        "onboard_time": 1702368633,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188924,
+        "num": 188924,
+        "word": "LPL转会期大结局",
+        "onboard_time": 1702366777,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185342,
+        "num": 185342,
+        "word": "80平房改成6居室",
+        "onboard_time": 1702365154,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 177253,
+        "num": 177253,
+        "word": "男子被杠铃压死健身房老板最终赔50万",
+        "onboard_time": 1702359335,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174119,
+        "num": 174119,
+        "word": "花苞头抓夹慢动作",
+        "onboard_time": 1702367314,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 171040,
+        "num": 171040,
+        "word": "中国累计培养1100多万研究生",
+        "onboard_time": 1702366234,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 168994,
+        "num": 168994,
+        "word": "龙年 小龙女",
+        "onboard_time": 1702369177,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168492,
+        "num": 168492,
+        "word": "央视2024年电视剧片单",
+        "onboard_time": 1702365154,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159924,
+        "num": 159924,
+        "word": "古装剧已经进化到这样了",
+        "onboard_time": 1702365035,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157157,
+        "num": 157157,
+        "word": "歌词适配APP宣布永久下架",
+        "onboard_time": 1702365756,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155726,
+        "num": 155726,
+        "word": "上班后整个人都癫了",
+        "onboard_time": 1702369357,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152960,
+        "num": 152960,
+        "word": "苏打绿演唱会官宣",
+        "onboard_time": 1702362215,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达河内对越南进行国事访问#"
+    }
+  }
+}
