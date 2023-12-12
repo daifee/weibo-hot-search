@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702379736041,
+  "endTime": 1702380836529,
   "band_list": [
     {
       "raw_hot": 3671070,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1549034,
+      "num": 1549034,
+      "word": "结节 吃芋头",
+      "onboard_time": 1702376496,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1539178,
       "num": 1539178,
       "word": "一碗30元的网红面馆卖不动了",
@@ -193,14 +201,6 @@
       "onboard_time": 1702366892,
       "rank": 3,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 1170391,
-      "num": 1170391,
-      "word": "结节 吃芋头",
-      "onboard_time": 1702376496,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1163812,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723288,
+      "num": 599033,
+      "word": "去父母化",
+      "onboard_time": 1702376737,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 719762,
       "num": 719762,
       "word": "湖南卫视跨年 放票",
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644366,
+      "num": 538386,
+      "word": "同居且怀孕流产分手后女子被判还彩礼",
+      "onboard_time": 1702380033,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643566,
       "num": 643566,
       "word": "关于舍友为了省钱偷吃我剩饭",
@@ -457,14 +473,6 @@
       "onboard_time": 1702357238,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 599033,
-      "num": 599033,
-      "word": "去父母化",
-      "onboard_time": 1702376737,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 595140,
@@ -523,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 545059,
+      "num": 298181,
+      "word": "Meiko CPU拍卖35.7万",
+      "onboard_time": 1702379374,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 541295,
       "num": 541295,
       "word": "一个人骂我 说明不了什么",
@@ -561,6 +577,14 @@
       "onboard_time": 1702354296,
       "rank": 25,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 512110,
+      "num": 512110,
+      "word": "EDG官宣Meiko离队",
+      "onboard_time": 1702380334,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 508304,
@@ -633,6 +657,14 @@
       "onboard_time": 1702364696,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 460657,
+      "num": 460657,
+      "word": "好莱坞富二代涉嫌分尸华人妻子",
+      "onboard_time": 1702378775,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 460025,
@@ -780,7 +812,7 @@
     },
     {
       "raw_hot": 394107,
-      "num": 1286941,
+      "num": 1421420,
       "word": "杭州大一学生论文被全球顶级会议录用",
       "onboard_time": 1702374635,
       "rank": 4,
@@ -1019,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297527,
+      "num": 297527,
+      "word": "红斑狼疮是免疫病不是皮肤病",
+      "onboard_time": 1702380157,
+      "rank": 31,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 297358,
       "num": 297358,
       "word": "为什么年轻人越来越不喜欢人情世故",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1702367672,
       "rank": 24,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 294334,
-      "num": 294334,
-      "word": "好莱坞富二代涉嫌分尸华人妻子",
-      "onboard_time": 1702378775,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292697,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1702357476,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 278195,
+      "num": 298491,
+      "word": "林孝埈说国家队氛围非常好",
+      "onboard_time": 1702379674,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 276937,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1702357838,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 249917,
-      "num": 249917,
-      "word": "Meiko CPU拍卖35.7万",
-      "onboard_time": 1702379374,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 249747,
@@ -1435,6 +1467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228529,
+      "num": 228529,
+      "word": "虞书欣 机器人台词",
+      "onboard_time": 1702380455,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224047,
       "num": 224047,
       "word": "上班后整个人都癫了",
@@ -1555,6 +1595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 210655,
+      "num": 210655,
+      "word": "Meiko EDG是我永远的家",
+      "onboard_time": 1702380634,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210088,
       "num": 210088,
       "word": "AI大战包饺子癫公",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1702371873,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207781,
+      "num": 207781,
+      "word": "小米 SU7尾部",
+      "onboard_time": 1702380276,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 206376,
@@ -1691,6 +1747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190703,
+      "num": 190703,
+      "word": "PLAVE 圣诞曲",
+      "onboard_time": 1702379616,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190496,
       "num": 190496,
       "word": "林俊杰说谢谢阿杜当初的提拔",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1702366777,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188716,
+      "num": 188716,
+      "word": "浙江 出线可能",
+      "onboard_time": 1702380814,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 188416,
@@ -1873,22 +1945,6 @@
       "onboard_time": 1702359873,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175355,
-      "num": 175355,
-      "word": "林孝埈说国家队氛围非常好",
-      "onboard_time": 1702379674,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 175248,
-      "num": 175248,
-      "word": "PLAVE 圣诞曲",
-      "onboard_time": 1702379616,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 175175,
@@ -2451,6 +2507,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 65253,
+      "num": 506706,
+      "word": "应该多久做一次眼睛健康体检",
+      "onboard_time": 1702378958,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56260,
       "num": 801294,
       "word": "男子电击竹筒作画成品好惊艳",
@@ -2504,14 +2568,6 @@
       "word": "3000年前的国之重器藏着书法之美",
       "onboard_time": 1702349253,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31912,
-      "num": 506706,
-      "word": "应该多久做一次眼睛健康体检",
-      "onboard_time": 1702378958,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
