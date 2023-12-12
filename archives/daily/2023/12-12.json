@@ -1,7 +1,15 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702354914833,
+  "endTime": 1702355754572,
   "band_list": [
+    {
+      "raw_hot": 3260635,
+      "num": 3260635,
+      "word": "新冠变异株JN.1",
+      "onboard_time": 1702353396,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3099903,
       "num": 3099903,
@@ -35,14 +43,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 2037074,
-      "num": 2037074,
-      "word": "新冠变异株JN.1",
-      "onboard_time": 1702353396,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1955776,
       "num": 1955776,
       "word": "体脂不断下降的好习惯",
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1790663,
+      "num": 1790663,
+      "word": "为什么有些年轻人上班不带包",
+      "onboard_time": 1702350754,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1705231,
       "num": 1705231,
       "word": "多所高校明确不提供宿舍",
@@ -67,11 +75,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1660474,
-      "num": 1660474,
-      "word": "为什么有些年轻人上班不带包",
-      "onboard_time": 1702350754,
-      "rank": 30,
+      "raw_hot": 1478712,
+      "num": 1478712,
+      "word": "亲眼目睹了我妈传谣的过程",
+      "onboard_time": 1702353214,
+      "rank": 11,
       "category": "幽默"
     },
     {
@@ -104,14 +112,6 @@
       "word": "我是不结婚 不是不交电费",
       "onboard_time": 1702297181,
       "rank": 5,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 928422,
-      "num": 472613,
-      "word": "亲眼目睹了我妈传谣的过程",
-      "onboard_time": 1702353214,
-      "rank": 11,
       "category": "幽默"
     },
     {
@@ -179,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658562,
+      "num": 351838,
+      "word": "榜一大哥骗走24名家长1000余万元",
+      "onboard_time": 1702352674,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646156,
       "num": 646156,
       "word": "薛之谦 小杨哥",
       "onboard_time": 1702304693,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 643566,
+      "num": 643566,
+      "word": "关于舍友为了省钱偷吃我剩饭",
+      "onboard_time": 1702352374,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 638672,
@@ -195,27 +211,19 @@
       "category": "艺人,健康医疗"
     },
     {
-      "raw_hot": 629072,
-      "num": 629072,
-      "word": "关于舍友为了省钱偷吃我剩饭",
-      "onboard_time": 1702352374,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 613091,
-      "num": 351838,
-      "word": "榜一大哥骗走24名家长1000余万元",
-      "onboard_time": 1702352674,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 595140,
       "num": 534229,
       "word": "杨丞琳这种玩笑话还是不开为好",
       "onboard_time": 1702306737,
       "rank": 16,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 579542,
+      "num": 493594,
+      "word": "血小板偏低",
+      "onboard_time": 1702354179,
+      "rank": 18,
       "category": "艺人,社会新闻"
     },
     {
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 512494,
+      "num": 512494,
+      "word": "研究生宿舍",
+      "onboard_time": 1702354296,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 491225,
       "num": 491225,
       "word": "中药只管吃不要打听",
@@ -331,8 +347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 429191,
-      "num": 429191,
+      "raw_hot": 436067,
+      "num": 436067,
       "word": "光遇",
       "onboard_time": 1702354835,
       "rank": 14,
@@ -369,14 +385,6 @@
       "onboard_time": 1702349852,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 368119,
-      "num": 368119,
-      "word": "血小板偏低",
-      "onboard_time": 1702354179,
-      "rank": 18,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 364877,
@@ -417,6 +425,14 @@
       "onboard_time": 1702305539,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 337935,
+      "num": 337935,
+      "word": "王安宇演累了让我演两集",
+      "onboard_time": 1702352493,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 337895,
@@ -481,14 +497,6 @@
       "onboard_time": 1702341099,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299815,
-      "num": 299815,
-      "word": "研究生宿舍",
-      "onboard_time": 1702354296,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 297358,
@@ -577,6 +585,14 @@
       "onboard_time": 1702349732,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252332,
+      "num": 227881,
+      "word": "帕梅拉中国无糖茶饮测评",
+      "onboard_time": 1702355137,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 249747,
@@ -672,6 +688,14 @@
       "word": "王鹤棣杀青哽咽",
       "onboard_time": 1702350334,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 221155,
+      "num": 221155,
+      "word": "神隐 搞里头",
+      "onboard_time": 1702354538,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -771,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192358,
-      "num": 192358,
-      "word": "王安宇演累了让我演两集",
-      "onboard_time": 1702352493,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191180,
       "num": 191180,
       "word": "和王一博许下跨年电影愿",
@@ -793,14 +809,6 @@
       "onboard_time": 1702310618,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188398,
-      "num": 188398,
-      "word": "神隐 搞里头",
-      "onboard_time": 1702354538,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 188221,
@@ -873,6 +881,14 @@
       "onboard_time": 1702341398,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179488,
+      "num": 179488,
+      "word": "海底捞外卖 科目三",
+      "onboard_time": 1702355380,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 178121,
@@ -1267,8 +1283,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 44512,
-      "num": 1207461,
+      "raw_hot": 47041,
+      "num": 1790402,
       "word": "北京点燃数字经济国潮热",
       "onboard_time": 1702352914,
       "rank": 2,

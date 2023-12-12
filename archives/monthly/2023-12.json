@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702354914833,
+  "endTime": 1702355754572,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -265,6 +265,14 @@
       "onboard_time": 1702003656,
       "rank": 0,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 3260635,
+      "num": 3260635,
+      "word": "新冠变异株JN.1",
+      "onboard_time": 1702353396,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3232425,
@@ -859,14 +867,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 2037074,
-      "num": 2037074,
-      "word": "新冠变异株JN.1",
-      "onboard_time": 1702353396,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2031913,
       "num": 2031913,
       "word": "34岁抗癌网红李小妞去世",
@@ -1195,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1790663,
+      "num": 1790663,
+      "word": "为什么有些年轻人上班不带包",
+      "onboard_time": 1702350754,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1778240,
       "num": 1326990,
       "word": "好怕谢娜的船翻了",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1702014217,
       "rank": 20,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1660474,
-      "num": 1660474,
-      "word": "为什么有些年轻人上班不带包",
-      "onboard_time": 1702350754,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1651224,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1702168108,
       "rank": 3,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1478712,
+      "num": 1478712,
+      "word": "亲眼目睹了我妈传谣的过程",
+      "onboard_time": 1702353214,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1478198,
@@ -3121,14 +3129,6 @@
       "onboard_time": 1701850542,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 928422,
-      "num": 472613,
-      "word": "亲眼目睹了我妈传谣的过程",
-      "onboard_time": 1702353214,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 927075,
@@ -4867,6 +4867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 658562,
+      "num": 351838,
+      "word": "榜一大哥骗走24名家长1000余万元",
+      "onboard_time": 1702352674,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658549,
       "num": 316338,
       "word": "GQ内场",
@@ -5043,6 +5051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 643566,
+      "num": 643566,
+      "word": "关于舍友为了省钱偷吃我剩饭",
+      "onboard_time": 1702352374,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 643402,
       "num": 643402,
       "word": "儿子和亿万富豪父亲相认称没反应过来",
@@ -5193,14 +5209,6 @@
       "onboard_time": 1702006895,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 629072,
-      "num": 629072,
-      "word": "关于舍友为了省钱偷吃我剩饭",
-      "onboard_time": 1702352374,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 627373,
@@ -5432,14 +5440,6 @@
       "word": "小伙坚持一年52个周末都出去旅游",
       "onboard_time": 1701744154,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 613091,
-      "num": 351838,
-      "word": "榜一大哥骗走24名家长1000余万元",
-      "onboard_time": 1702352674,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -5801,6 +5801,14 @@
       "onboard_time": 1701405638,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579542,
+      "num": 493594,
+      "word": "血小板偏低",
+      "onboard_time": 1702354179,
+      "rank": 18,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 579172,
@@ -6945,6 +6953,14 @@
       "onboard_time": 1701779676,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 512494,
+      "num": 512494,
+      "word": "研究生宿舍",
+      "onboard_time": 1702354296,
+      "rank": 25,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 511692,
@@ -8395,6 +8411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436067,
+      "num": 436067,
+      "word": "光遇",
+      "onboard_time": 1702354835,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 435377,
       "num": 784132,
       "word": "比12315还管用的维权方法",
@@ -8673,14 +8697,6 @@
       "onboard_time": 1702269219,
       "rank": 30,
       "category": "军事"
-    },
-    {
-      "raw_hot": 429191,
-      "num": 429191,
-      "word": "光遇",
-      "onboard_time": 1702354835,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 428776,
@@ -10515,14 +10531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368119,
-      "num": 368119,
-      "word": "血小板偏低",
-      "onboard_time": 1702354179,
-      "rank": 18,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 367822,
       "num": 367822,
       "word": "宋江 客观的帅",
@@ -11576,6 +11584,14 @@
       "word": "刘宇宁头套",
       "onboard_time": 1701508472,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337935,
+      "num": 337935,
+      "word": "王安宇演累了让我演两集",
+      "onboard_time": 1702352493,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -13257,14 +13273,6 @@
       "onboard_time": 1702109430,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 299815,
-      "num": 299815,
-      "word": "研究生宿舍",
-      "onboard_time": 1702354296,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 299737,
@@ -16051,6 +16059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252332,
+      "num": 227881,
+      "word": "帕梅拉中国无糖茶饮测评",
+      "onboard_time": 1702355137,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 251955,
       "num": 251955,
       "word": "陈楚生夺冠后最开心的是苏醒",
@@ -18313,6 +18329,14 @@
       "onboard_time": 1701847775,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 221155,
+      "num": 221155,
+      "word": "神隐 搞里头",
+      "onboard_time": 1702354538,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 221046,
@@ -21491,14 +21515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192358,
-      "num": 192358,
-      "word": "王安宇演累了让我演两集",
-      "onboard_time": 1702352493,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192292,
       "num": 192292,
       "word": "阿斯顿维拉1比0曼城",
@@ -21985,14 +22001,6 @@
       "onboard_time": 1701926135,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188398,
-      "num": 188398,
-      "word": "神隐 搞里头",
-      "onboard_time": 1702354538,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 188382,
@@ -22937,6 +22945,14 @@
       "onboard_time": 1701917910,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179488,
+      "num": 179488,
+      "word": "海底捞外卖 科目三",
+      "onboard_time": 1702355380,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 179391,
@@ -30259,6 +30275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 47041,
+      "num": 1790402,
+      "word": "北京点燃数字经济国潮热",
+      "onboard_time": 1702352914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46872,
       "num": 46872,
       "word": "瞒天过海 看不见的客人",
@@ -30297,14 +30321,6 @@
       "onboard_time": 1701608806,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44512,
-      "num": 1207461,
-      "word": "北京点燃数字经济国潮热",
-      "onboard_time": 1702352914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 44460,

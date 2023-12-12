@@ -1,0 +1,410 @@
+{
+  "runTime": 1702355754572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3260635,
+        "num": 3260635,
+        "word": "新冠变异株JN.1",
+        "onboard_time": 1702353396,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1790663,
+        "num": 1790663,
+        "word": "为什么有些年轻人上班不带包",
+        "onboard_time": 1702350754,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47041,
+        "num": 1790402,
+        "word": "北京点燃数字经济国潮热",
+        "onboard_time": 1702352914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1790277,
+        "num": 1790277,
+        "word": "知情人称周海媚还在医院治疗中",
+        "onboard_time": 1702347272,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1478712,
+        "num": 1478712,
+        "word": "亲眼目睹了我妈传谣的过程",
+        "onboard_time": 1702353214,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 796616,
+        "num": 796616,
+        "word": "水逆来了 重灾区星座要小心",
+        "onboard_time": 1702349613,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 643566,
+        "num": 643566,
+        "word": "关于舍友为了省钱偷吃我剩饭",
+        "onboard_time": 1702352374,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 537534,
+        "num": 537534,
+        "word": "多所高校明确不提供宿舍",
+        "onboard_time": 1702339052,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522699,
+        "num": 522699,
+        "word": "王鹤棣第二部男频剧",
+        "onboard_time": 1702352432,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512494,
+        "num": 512494,
+        "word": "研究生宿舍",
+        "onboard_time": 1702354296,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 930369,
+        "num": 504243,
+        "word": "破产姐妹Max演员结婚",
+        "onboard_time": 1702346073,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579542,
+        "num": 493594,
+        "word": "血小板偏低",
+        "onboard_time": 1702354179,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 436067,
+        "num": 436067,
+        "word": "光遇",
+        "onboard_time": 1702354835,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 422646,
+        "num": 422646,
+        "word": "为什么年轻人讨厌接电话",
+        "onboard_time": 1702344635,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385021,
+        "num": 385021,
+        "word": "宋江金裕贞",
+        "onboard_time": 1702347574,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379360,
+        "num": 379360,
+        "word": "RNG官宣Letme担任主教练",
+        "onboard_time": 1702353694,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 371629,
+        "num": 371629,
+        "word": "著名编剧谭飞辟谣周海媚过世",
+        "onboard_time": 1702346496,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 371612,
+        "num": 371612,
+        "word": "青椒拿铁",
+        "onboard_time": 1702349852,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 370687,
+        "num": 370687,
+        "word": "周海媚",
+        "onboard_time": 1702293694,
+        "rank": 18,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 342079,
+        "num": 342079,
+        "word": "女孩讲历史太火被博物馆排队送礼",
+        "onboard_time": 1702344635,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658562,
+        "num": 340192,
+        "word": "榜一大哥骗走24名家长1000余万元",
+        "onboard_time": 1702352674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337935,
+        "num": 337935,
+        "word": "王安宇演累了让我演两集",
+        "onboard_time": 1702352493,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322721,
+        "num": 322721,
+        "word": "周杰伦 开不了口",
+        "onboard_time": 1702349372,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322621,
+        "num": 322621,
+        "word": "28岁女子第20次裸辞",
+        "onboard_time": 1702347634,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279040,
+        "num": 279040,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1702297181,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271558,
+        "num": 271558,
+        "word": "男子拉肚子医生多问一句跑赢死神",
+        "onboard_time": 1702306612,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264377,
+        "num": 264377,
+        "word": "为什么年轻人越来越不喜欢人情世故",
+        "onboard_time": 1702348953,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253636,
+        "num": 253636,
+        "word": "王鹤棣田曦薇杀青照",
+        "onboard_time": 1702349673,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253225,
+        "num": 253225,
+        "word": "刘诗诗回应观众想看任如意秀腹肌",
+        "onboard_time": 1702349071,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228130,
+        "num": 228130,
+        "word": "未来婆婆说我家庭复杂不同意婚事",
+        "onboard_time": 1702339897,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252332,
+        "num": 227881,
+        "word": "帕梅拉中国无糖茶饮测评",
+        "onboard_time": 1702355137,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 226890,
+        "num": 226890,
+        "word": "加拿大鹅9500元羽绒服被疑瑕疵品",
+        "onboard_time": 1702346312,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221905,
+        "num": 221905,
+        "word": "越南观众有多爱中国电视剧",
+        "onboard_time": 1702346795,
+        "rank": 32,
+        "category": "剧集,社会新闻"
+      },
+      {
+        "raw_hot": 221155,
+        "num": 221155,
+        "word": "神隐 搞里头",
+        "onboard_time": 1702354538,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220744,
+        "num": 220744,
+        "word": "薛之谦 小杨哥",
+        "onboard_time": 1702304693,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209285,
+        "num": 209285,
+        "word": "田柾国今日入伍",
+        "onboard_time": 1702354179,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197669,
+        "num": 197669,
+        "word": "王一博陈宇来山东卫视了",
+        "onboard_time": 1702352794,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193829,
+        "num": 193829,
+        "word": "动手的那瞬间发现是小女儿后",
+        "onboard_time": 1702345652,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193173,
+        "num": 193173,
+        "word": "梁静茹演唱会",
+        "onboard_time": 1702354659,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191553,
+        "num": 191553,
+        "word": "佰草集 檀健次",
+        "onboard_time": 1702351413,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191484,
+        "num": 191484,
+        "word": "律师致函江西民政要求公开彩票事件信息",
+        "onboard_time": 1702347454,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189602,
+        "num": 189602,
+        "word": "WBG宣布TheShy离队",
+        "onboard_time": 1702308048,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183025,
+        "num": 183025,
+        "word": "宋轶 使用小号之后会发现世界安静了",
+        "onboard_time": 1702304876,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179488,
+        "num": 179488,
+        "word": "海底捞外卖 科目三",
+        "onboard_time": 1702355380,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178893,
+        "num": 178893,
+        "word": "最高法呼吁取消高额彩礼",
+        "onboard_time": 1702344098,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172456,
+        "num": 172456,
+        "word": "鸣龙少年 假唱一点也不真诚",
+        "onboard_time": 1702353995,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171783,
+        "num": 171783,
+        "word": "中药只管吃不要打听",
+        "onboard_time": 1702339174,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157809,
+        "num": 157809,
+        "word": "WBG官宣Weiwei离队",
+        "onboard_time": 1702348772,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156519,
+        "num": 156519,
+        "word": "马刺17连败",
+        "onboard_time": 1702353812,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146519,
+        "num": 146519,
+        "word": "刘亚仁出庭受审",
+        "onboard_time": 1702351232,
+        "rank": 49,
+        "category": "艺人,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进敦煌共同探索那条西行路#"
+    }
+  }
+}
