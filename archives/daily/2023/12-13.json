@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702401382030,
+  "endTime": 1702402461929,
   "band_list": [
     {
       "raw_hot": 5102313,
@@ -147,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349356,
-      "num": 187387,
+      "raw_hot": 354833,
+      "num": 354833,
       "word": "金莎和男友 两个恋爱脑双向奔赴",
       "onboard_time": 1702399647,
       "rank": 12,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130927,
+      "num": 160184,
+      "word": "创业创了一半老板去考公了",
+      "onboard_time": 1702398812,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130064,
       "num": 160263,
       "word": "吴千语 我长得也像作的",
@@ -395,14 +403,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 102344,
-      "num": 160184,
-      "word": "创业创了一半老板去考公了",
-      "onboard_time": 1702398812,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 92422,
       "num": 160123,
       "word": "鼻炎手术 鼻头变尖",
@@ -419,7 +419,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67804,
+      "raw_hot": 68086,
       "num": 73023,
       "word": "阿音走了纣王的老路",
       "onboard_time": 1702401084,
@@ -441,6 +441,14 @@
       "onboard_time": 1702388257,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40397,
+      "num": 56336,
+      "word": "朱丹周一围 衣服互穿",
+      "onboard_time": 1702384175,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
