@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702390622372,
+  "endTime": 1702391724433,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -521,6 +521,14 @@
       "onboard_time": 1675303653,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12484422,
+      "num": 7842771,
+      "word": "自古美人如名将 不许人间见白头",
+      "onboard_time": 1702389762,
+      "rank": 3,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 12479739,
@@ -2033,14 +2041,6 @@
       "onboard_time": 1695904422,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7842771,
-      "num": 7842771,
-      "word": "自古美人如名将 不许人间见白头",
-      "onboard_time": 1702389762,
-      "rank": 3,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 7790064,
