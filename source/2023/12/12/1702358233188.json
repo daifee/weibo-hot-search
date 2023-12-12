@@ -1,0 +1,410 @@
+{
+  "runTime": 1702358233188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3671070,
+        "num": 3671070,
+        "word": "郑爽被强执9050万",
+        "onboard_time": 1702356219,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 2749406,
+        "num": 2749406,
+        "word": "新冠变异株JN.1",
+        "onboard_time": 1702353396,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53119,
+        "num": 2260370,
+        "word": "北京点燃数字经济国潮热",
+        "onboard_time": 1702352914,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1949197,
+        "num": 1949197,
+        "word": "亲眼目睹了我妈传谣的过程",
+        "onboard_time": 1702353214,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1149406,
+        "num": 1149406,
+        "word": "知情人称周海媚还在医院治疗中",
+        "onboard_time": 1702347272,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1084796,
+        "num": 1084796,
+        "word": "为什么有些年轻人上班不带包",
+        "onboard_time": 1702350754,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1033784,
+        "num": 1033784,
+        "word": "小米发文炮轰余承东",
+        "onboard_time": 1702357301,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 719762,
+        "num": 719762,
+        "word": "湖南卫视跨年 放票",
+        "onboard_time": 1702355859,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432557,
+        "num": 666026,
+        "word": "研究生宿舍",
+        "onboard_time": 1702354296,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 283192,
+        "num": 654126,
+        "word": "多所高校明确不提供宿舍",
+        "onboard_time": 1702339052,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648473,
+        "num": 648473,
+        "word": "破产姐妹Max演员结婚",
+        "onboard_time": 1702346073,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491343,
+        "num": 491343,
+        "word": "丈夫打骂临产女儿被妻子捅死",
+        "onboard_time": 1702357238,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454478,
+        "num": 454478,
+        "word": "水逆来了 重灾区星座要小心",
+        "onboard_time": 1702349613,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 453691,
+        "num": 453691,
+        "word": "RNG官宣LWX加入",
+        "onboard_time": 1702356578,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 452020,
+        "num": 452020,
+        "word": "王鹤棣第二部男频剧",
+        "onboard_time": 1702352432,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384720,
+        "num": 384720,
+        "word": "血小板偏低",
+        "onboard_time": 1702354179,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 382742,
+        "num": 382742,
+        "word": "LNG官宣Tarzan离队",
+        "onboard_time": 1702355799,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 382327,
+        "num": 382327,
+        "word": "关于舍友为了省钱偷吃我剩饭",
+        "onboard_time": 1702352374,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376713,
+        "num": 376713,
+        "word": "赛琳娜退网后更新动态",
+        "onboard_time": 1702356458,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368948,
+        "num": 368948,
+        "word": "父亲 降吧",
+        "onboard_time": 1702357420,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 506114,
+        "num": 347291,
+        "word": "榜一大哥骗走24名家长1000余万元",
+        "onboard_time": 1702352674,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315346,
+        "num": 315346,
+        "word": "为什么年轻人讨厌接电话",
+        "onboard_time": 1702344635,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310716,
+        "num": 310716,
+        "word": "猫猫 我跟你天下第一好哦",
+        "onboard_time": 1702356763,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310632,
+        "num": 310632,
+        "word": "著名编剧谭飞辟谣周海媚过世",
+        "onboard_time": 1702346496,
+        "rank": 23,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 293101,
+        "num": 293101,
+        "word": "周海媚",
+        "onboard_time": 1702293694,
+        "rank": 24,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 280326,
+        "num": 280326,
+        "word": "RNG官宣Ming回归",
+        "onboard_time": 1702357476,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273883,
+        "num": 273883,
+        "word": "宋江金裕贞",
+        "onboard_time": 1702347574,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261979,
+        "num": 261979,
+        "word": "28岁女子第20次裸辞",
+        "onboard_time": 1702347634,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256366,
+        "num": 256366,
+        "word": "小伙定了婚期才知女方一家全是托",
+        "onboard_time": 1702357959,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252259,
+        "num": 252259,
+        "word": "王者源梦新皮肤",
+        "onboard_time": 1702357838,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240270,
+        "num": 240270,
+        "word": "为什么年轻人越来越不喜欢人情世故",
+        "onboard_time": 1702348953,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239184,
+        "num": 239184,
+        "word": "女孩讲历史太火被博物馆排队送礼",
+        "onboard_time": 1702344635,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237711,
+        "num": 237711,
+        "word": "第一个被长颈鹿撞飞的人",
+        "onboard_time": 1702356936,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226966,
+        "num": 226966,
+        "word": "周杰伦 开不了口",
+        "onboard_time": 1702349372,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212247,
+        "num": 212247,
+        "word": "张若昀发了张一分钟的图",
+        "onboard_time": 1702357959,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207085,
+        "num": 207085,
+        "word": "熬夜的危害比你想象的还要大",
+        "onboard_time": 1702356100,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204944,
+        "num": 204944,
+        "word": "WBG打野Xiaohao",
+        "onboard_time": 1702356878,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190619,
+        "num": 190619,
+        "word": "刘诗诗回应观众想看任如意秀腹肌",
+        "onboard_time": 1702349071,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183472,
+        "num": 183472,
+        "word": "青椒拿铁",
+        "onboard_time": 1702349852,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180754,
+        "num": 180754,
+        "word": "男子拉肚子医生多问一句跑赢死神",
+        "onboard_time": 1702306612,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175469,
+        "num": 175469,
+        "word": "RNG官宣Letme担任主教练",
+        "onboard_time": 1702353694,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175281,
+        "num": 175281,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1702297181,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173385,
+        "num": 173385,
+        "word": "未来婆婆说我家庭复杂不同意婚事",
+        "onboard_time": 1702339897,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172357,
+        "num": 172357,
+        "word": "何润东车祸未受伤",
+        "onboard_time": 1702358196,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165296,
+        "num": 165296,
+        "word": "神隐 搞里头",
+        "onboard_time": 1702354538,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165219,
+        "num": 165219,
+        "word": "我的2023年终总结",
+        "onboard_time": 1702356936,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164039,
+        "num": 164039,
+        "word": "帕梅拉中国无糖茶饮测评",
+        "onboard_time": 1702355137,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 158867,
+        "num": 158867,
+        "word": "王鹤棣田曦薇杀青照",
+        "onboard_time": 1702349673,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157748,
+        "num": 157748,
+        "word": "北师大的鲁迅和伏地魔的距离",
+        "onboard_time": 1702357000,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152702,
+        "num": 152702,
+        "word": "薛之谦 小杨哥",
+        "onboard_time": 1702304693,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进敦煌共同探索那条西行路#"
+    }
+  }
+}

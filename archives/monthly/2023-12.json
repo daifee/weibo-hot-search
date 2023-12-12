@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702355754572,
+  "endTime": 1702358233188,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -193,6 +193,14 @@
       "onboard_time": 1701523234,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 3671070,
+      "num": 3671070,
+      "word": "郑爽被强执9050万",
+      "onboard_time": 1702356219,
+      "rank": 0,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 3590632,
@@ -947,6 +955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1949197,
+      "num": 1949197,
+      "word": "亲眼目睹了我妈传谣的过程",
+      "onboard_time": 1702353214,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1944481,
       "num": 1944481,
       "word": "观众还原杨丞琳冒犯言论现场情况",
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 1844216,
-      "num": 530534,
+      "num": 648473,
       "word": "破产姐妹Max演员结婚",
       "onboard_time": 1702346073,
       "rank": 10,
@@ -1721,14 +1737,6 @@
       "onboard_time": 1702168108,
       "rank": 3,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1478712,
-      "num": 1478712,
-      "word": "亲眼目睹了我妈传谣的过程",
-      "onboard_time": 1702353214,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 1478198,
@@ -2705,6 +2713,14 @@
       "onboard_time": 1702170929,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1033784,
+      "num": 1033784,
+      "word": "小米发文炮轰余承东",
+      "onboard_time": 1702357301,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 1033250,
@@ -4305,6 +4321,14 @@
       "onboard_time": 1701694058,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 719762,
+      "num": 719762,
+      "word": "湖南卫视跨年 放票",
+      "onboard_time": 1702355859,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 716322,
@@ -6956,7 +6980,7 @@
     },
     {
       "raw_hot": 512494,
-      "num": 512494,
+      "num": 666026,
       "word": "研究生宿舍",
       "onboard_time": 1702354296,
       "rank": 25,
@@ -7305,6 +7329,14 @@
       "onboard_time": 1701516270,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 491343,
+      "num": 491343,
+      "word": "丈夫打骂临产女儿被妻子捅死",
+      "onboard_time": 1702357238,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491315,
@@ -8049,6 +8081,14 @@
       "onboard_time": 1701942943,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 453691,
+      "num": 453691,
+      "word": "RNG官宣LWX加入",
+      "onboard_time": 1702356578,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 453648,
@@ -9987,6 +10027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382742,
+      "num": 382742,
+      "word": "LNG官宣Tarzan离队",
+      "onboard_time": 1702355799,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 382661,
       "num": 382661,
       "word": "Uzi要回来了吗",
@@ -10225,6 +10273,14 @@
       "onboard_time": 1701752985,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376713,
+      "num": 376713,
+      "word": "赛琳娜退网后更新动态",
+      "onboard_time": 1702356458,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 376293,
@@ -10513,6 +10569,14 @@
       "onboard_time": 1702121557,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 368948,
+      "num": 368948,
+      "word": "父亲 降吧",
+      "onboard_time": 1702357420,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 368862,
@@ -12643,6 +12707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 310716,
+      "num": 310716,
+      "word": "猫猫 我跟你天下第一好哦",
+      "onboard_time": 1702356763,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310698,
       "num": 310698,
       "word": "老师收集家长工作视频课堂播放引热议",
@@ -14451,6 +14523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280326,
+      "num": 280326,
+      "word": "RNG官宣Ming回归",
+      "onboard_time": 1702357476,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 280257,
       "num": 280257,
       "word": "不慎得了艾滋病究竟能活多久",
@@ -15803,6 +15883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256366,
+      "num": 256366,
+      "word": "小伙定了婚期才知女方一家全是托",
+      "onboard_time": 1702357959,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256140,
       "num": 256140,
       "word": "苑琼丹谈佘诗曼人品",
@@ -16065,6 +16153,14 @@
       "onboard_time": 1702355137,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 252259,
+      "num": 252259,
+      "word": "王者源梦新皮肤",
+      "onboard_time": 1702357838,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 251955,
@@ -16985,6 +17081,14 @@
       "onboard_time": 1702339656,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 237711,
+      "num": 237711,
+      "word": "第一个被长颈鹿撞飞的人",
+      "onboard_time": 1702356936,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 237464,
@@ -19075,6 +19179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 212247,
+      "num": 212247,
+      "word": "张若昀发了张一分钟的图",
+      "onboard_time": 1702357959,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212192,
       "num": 212192,
       "word": "费翔 用最大诚意维系三代女孩的梦",
@@ -19635,6 +19747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207085,
+      "num": 207085,
+      "word": "熬夜的危害比你想象的还要大",
+      "onboard_time": 1702356100,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 207054,
       "num": 184512,
       "word": "杨肸子体态",
@@ -19929,6 +20049,14 @@
       "onboard_time": 1702287335,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204944,
+      "num": 204944,
+      "word": "WBG打野Xiaohao",
+      "onboard_time": 1702356878,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 204931,
@@ -23523,6 +23651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172357,
+      "num": 172357,
+      "word": "何润东车祸未受伤",
+      "onboard_time": 1702358196,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172217,
       "num": 169754,
       "word": "周一围 你的过往成就了此刻的你",
@@ -24267,6 +24403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165219,
+      "num": 165219,
+      "word": "我的2023年终总结",
+      "onboard_time": 1702356936,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165153,
       "num": 149894,
       "word": "甜蜜家园2",
@@ -24961,6 +25105,14 @@
       "onboard_time": 1702127737,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157748,
+      "num": 157748,
+      "word": "北师大的鲁迅和伏地魔的距离",
+      "onboard_time": 1702357000,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 157638,
@@ -30171,6 +30323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 53119,
+      "num": 2260370,
+      "word": "北京点燃数字经济国潮热",
+      "onboard_time": 1702352914,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52566,
       "num": 1422134,
       "word": "冬季呼吸道疾病防治4问4答",
@@ -30273,14 +30433,6 @@
       "onboard_time": 1702128940,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 47041,
-      "num": 1790402,
-      "word": "北京点燃数字经济国潮热",
-      "onboard_time": 1702352914,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46872,
