@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702399145906,
+  "endTime": 1702401382030,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -1723,6 +1723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 587117,
+      "num": 548713,
+      "word": "拒绝休息羞耻",
+      "onboard_time": 1702395703,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 584785,
       "num": 402446,
       "word": "撒娇到一半发现不是主人",
@@ -1753,14 +1761,6 @@
       "onboard_time": 1702354179,
       "rank": 18,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 578352,
-      "num": 548713,
-      "word": "拒绝休息羞耻",
-      "onboard_time": 1702395703,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 578314,
@@ -3187,6 +3187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 349356,
+      "num": 187387,
+      "word": "金莎和男友 两个恋爱脑双向奔赴",
+      "onboard_time": 1702399647,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349150,
       "num": 291727,
       "word": "拍打臀部有助于防病",
@@ -3513,6 +3521,14 @@
       "onboard_time": 1702266691,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 311431,
+      "num": 358826,
+      "word": "阿宝被七仔咬掉的耳朵已脱离爱心状",
+      "onboard_time": 1702397437,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310716,
@@ -4129,14 +4145,6 @@
       "onboard_time": 1702189594,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 272051,
-      "num": 358826,
-      "word": "阿宝被七仔咬掉的耳朵已脱离爱心状",
-      "onboard_time": 1702397437,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272033,
@@ -8817,6 +8825,14 @@
       "onboard_time": 1702337609,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 67804,
+      "num": 73023,
+      "word": "阿音走了纣王的老路",
+      "onboard_time": 1702401084,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 66516,
