@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702384444160,
+  "endTime": 1702385413326,
   "band_list": [
     {
       "raw_hot": 3671070,
@@ -83,8 +83,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2254070,
+      "num": 1359039,
+      "word": "菜鸟 取件码呢",
+      "onboard_time": 1702383814,
+      "rank": 4,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 2134674,
-      "num": 932787,
+      "num": 1266294,
       "word": "同居且怀孕流产分手后女子被判还彩礼",
       "onboard_time": 1702380033,
       "rank": 11,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 923240,
-      "num": 377774,
+      "num": 425148,
       "word": "易孕体质是没有科学避孕",
       "onboard_time": 1702382433,
       "rank": 10,
@@ -289,14 +297,6 @@
       "onboard_time": 1702346496,
       "rank": 5,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 857266,
-      "num": 857266,
-      "word": "菜鸟 取件码呢",
-      "onboard_time": 1702383814,
-      "rank": 4,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 814130,
@@ -368,6 +368,14 @@
       "word": "小伙定了婚期才知女方一家全是托",
       "onboard_time": 1702357959,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724074,
+      "num": 724074,
+      "word": "老师情绪失控让全班女生自扇耳光",
+      "onboard_time": 1702384234,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -473,6 +481,14 @@
       "onboard_time": 1702352374,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 643062,
+      "num": 643062,
+      "word": "在人间 赵丽颖张一山",
+      "onboard_time": 1702384357,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 641324,
@@ -707,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 462699,
+      "num": 462699,
+      "word": "朱丹周一围 衣服互穿",
+      "onboard_time": 1702384175,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460025,
       "num": 460025,
       "word": "吴青峰曾多次失声",
@@ -835,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410017,
+      "num": 410017,
+      "word": "小杨哥直播间 薛之谦",
+      "onboard_time": 1702383275,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405807,
       "num": 405807,
       "word": "湖南卫视跨年 阵容",
@@ -865,14 +897,6 @@
       "onboard_time": 1702374635,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384174,
-      "num": 249259,
-      "word": "朱丹周一围 衣服互穿",
-      "onboard_time": 1702384175,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 383750,
@@ -913,14 +937,6 @@
       "onboard_time": 1702349852,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 374400,
-      "num": 374400,
-      "word": "小杨哥直播间 薛之谦",
-      "onboard_time": 1702383275,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 364877,
@@ -979,6 +995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 339248,
+      "num": 339248,
+      "word": "拒绝假唱 来真的",
+      "onboard_time": 1702384833,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337935,
       "num": 337935,
       "word": "王安宇演累了让我演两集",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1702364597,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 331537,
+      "num": 331537,
+      "word": "i人遛e狗",
+      "onboard_time": 1702384055,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 326335,
@@ -1193,14 +1225,6 @@
       "onboard_time": 1702342059,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282536,
-      "num": 282536,
-      "word": "i人遛e狗",
-      "onboard_time": 1702384055,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 281111,
@@ -1387,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246693,
+      "num": 246693,
+      "word": "秦岚辛芷蕾 一个敢说一个敢接",
+      "onboard_time": 1702381234,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245934,
       "num": 245934,
       "word": "懂车帝发布声明",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1702303852,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236488,
+      "num": 236488,
+      "word": "防弹少年团全员正式入伍",
+      "onboard_time": 1702384959,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 235633,
@@ -1563,14 +1603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227864,
-      "num": 227864,
-      "word": "秦岚辛芷蕾 一个敢说一个敢接",
-      "onboard_time": 1702381234,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224047,
       "num": 224047,
       "word": "上班后整个人都癫了",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1702374995,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221568,
+      "num": 221568,
+      "word": "乘务员问要不要换座位的原因",
+      "onboard_time": 1702384297,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 221155,
@@ -1747,14 +1787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204822,
-      "num": 204822,
-      "word": "在人间 赵丽颖张一山",
-      "onboard_time": 1702384357,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204747,
       "num": 204747,
       "word": "梁静茹演唱会",
@@ -1779,14 +1811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203482,
-      "num": 210739,
-      "word": "老师情绪失控让全班女生自扇耳光",
-      "onboard_time": 1702384234,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203477,
       "num": 203477,
       "word": "李健上海 谁抢到了",
@@ -1801,6 +1825,14 @@
       "onboard_time": 1702377096,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202293,
+      "num": 202293,
+      "word": "何润东发视频报平安",
+      "onboard_time": 1702384535,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 201003,
@@ -1875,14 +1907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189669,
-      "num": 189669,
-      "word": "乘务员问要不要换座位的原因",
-      "onboard_time": 1702384297,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189428,
       "num": 189428,
       "word": "花少有自己的燃冬",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1702365214,
       "rank": 34,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 188356,
+      "num": 188356,
+      "word": "王者后羿新皮肤",
+      "onboard_time": 1702385195,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 188221,
@@ -1969,6 +2001,14 @@
       "onboard_time": 1702341578,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186691,
+      "num": 186691,
+      "word": "WBG官宣Zdz加入",
+      "onboard_time": 1702385257,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 186123,
@@ -2204,7 +2244,7 @@
     },
     {
       "raw_hot": 159810,
-      "num": 374666,
+      "num": 375700,
       "word": "荣耀保时捷要联合造车了吗",
       "onboard_time": 1702381836,
       "rank": 15,
@@ -2321,6 +2361,14 @@
       "onboard_time": 1702347751,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 145738,
+      "num": 402397,
+      "word": "KOL半壁江山都在元梦之星",
+      "onboard_time": 1702382433,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 144188,
@@ -2529,14 +2577,6 @@
       "onboard_time": 1702360414,
       "rank": 49,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 108491,
-      "num": 375127,
-      "word": "KOL半壁江山都在元梦之星",
-      "onboard_time": 1702382433,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 99911,
