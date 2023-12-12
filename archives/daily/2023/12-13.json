@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702419433362,
+  "endTime": 1702420489732,
   "band_list": [
     {
       "raw_hot": 5102313,
@@ -115,8 +115,8 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 440255,
-      "num": 330781,
+      "raw_hot": 457667,
+      "num": 457667,
       "word": "肚子越来越小的小技巧",
       "onboard_time": 1702395168,
       "rank": 22,
@@ -251,6 +251,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 200166,
+      "num": 200166,
+      "word": "创业创了一半老板去考公了",
+      "onboard_time": 1702398812,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198015,
       "num": 198015,
       "word": "周海媚曾说人生不能后悔就得往前走",
@@ -289,14 +297,6 @@
       "onboard_time": 1702389583,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175291,
-      "num": 160184,
-      "word": "创业创了一半老板去考公了",
-      "onboard_time": 1702398812,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 153680,
@@ -403,6 +403,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 97095,
+      "num": 97095,
+      "word": "一碗30元的网红面馆卖不动了",
+      "onboard_time": 1702365154,
+      "rank": 29,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 92422,
       "num": 160123,
       "word": "鼻炎手术 鼻头变尖",
@@ -425,14 +433,6 @@
       "onboard_time": 1702401084,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65166,
-      "num": 65166,
-      "word": "一碗30元的网红面馆卖不动了",
-      "onboard_time": 1702365154,
-      "rank": 29,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 62971,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40352,
+      "num": 40352,
+      "word": "床头放柠檬 舒缓心情",
+      "onboard_time": 1702417034,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37366,
       "num": 37366,
       "word": "第一次有点生狗的气了",
@@ -467,12 +475,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36552,
+      "num": 54343,
+      "word": "曼联vs拜仁",
+      "onboard_time": 1702411153,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35469,
       "num": 43722,
       "word": "超级计算机预测的英超冠军",
       "onboard_time": 1702404080,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35173,
+      "num": 35173,
+      "word": "我的少女时代导演离婚",
+      "onboard_time": 1702419257,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 32459,
@@ -491,22 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30454,
-      "num": 41054,
-      "word": "曼联vs拜仁",
-      "onboard_time": 1702411153,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27117,
-      "num": 27117,
-      "word": "床头放柠檬 舒缓心情",
-      "onboard_time": 1702417034,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 27000,
       "num": 27000,
       "word": "吉克隽逸 鲛人造型",
@@ -523,20 +531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17662,
-      "num": 20680,
+      "raw_hot": 25312,
+      "num": 25312,
       "word": "这确定是精神病院吗",
       "onboard_time": 1702417995,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 16605,
-      "num": 20635,
-      "word": "我的少女时代导演离婚",
-      "onboard_time": 1702419257,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13803,
