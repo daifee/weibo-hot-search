@@ -1,0 +1,410 @@
+{
+  "runTime": 1702376380429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2344187,
+        "num": 2344187,
+        "word": "新冠",
+        "onboard_time": 1702373557,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366803,
+        "num": 1705202,
+        "word": "宝宝抱住两个月不见的爷爷亲个不停",
+        "onboard_time": 1702374635,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92595,
+        "num": 1428713,
+        "word": "在河内感受中越人文相亲",
+        "onboard_time": 1702374513,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1341540,
+        "num": 1341540,
+        "word": "这就是双休的意义",
+        "onboard_time": 1702363776,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283404,
+        "num": 1286941,
+        "word": "杭州大一学生论文被全球顶级会议录用",
+        "onboard_time": 1702374635,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278714,
+        "num": 1278714,
+        "word": "狐妖小红娘 易主",
+        "onboard_time": 1702373434,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 172976,
+        "num": 1068110,
+        "word": "偷偷买了跟爸爸同班高铁回家",
+        "onboard_time": 1702374935,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1063852,
+        "num": 1063852,
+        "word": "一碗30元的网红面馆卖不动了",
+        "onboard_time": 1702365154,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 814130,
+        "num": 814130,
+        "word": "朱丹因为周一围比自己小哭了",
+        "onboard_time": 1702371993,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1178571,
+        "num": 760318,
+        "word": "薛之谦上上谦火锅仅剩两家",
+        "onboard_time": 1702369177,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 693454,
+        "num": 693454,
+        "word": "郑爽被强执9050万",
+        "onboard_time": 1702356219,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 551872,
+        "num": 551872,
+        "word": "跨年晚会 真唱",
+        "onboard_time": 1702366356,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492304,
+        "num": 492304,
+        "word": "田启文称周海媚长期受红斑狼疮困扰",
+        "onboard_time": 1702376074,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 492293,
+        "num": 492293,
+        "word": "朱丹说没有被湖南台封杀过",
+        "onboard_time": 1702375233,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491904,
+        "num": 491904,
+        "word": "一个人骂我 说明不了什么",
+        "onboard_time": 1702373076,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467140,
+        "num": 467140,
+        "word": "十个勤天做饭直播",
+        "onboard_time": 1702374154,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441131,
+        "num": 441131,
+        "word": "周杰伦 迪奥全球大使",
+        "onboard_time": 1702366892,
+        "rank": 16,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 422711,
+        "num": 422711,
+        "word": "男子地铁被诬陷偷拍案一审宣判",
+        "onboard_time": 1702373256,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405404,
+        "num": 405404,
+        "word": "主办方回应杨丞琳演唱会言论",
+        "onboard_time": 1702365393,
+        "rank": 18,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 370338,
+        "num": 370338,
+        "word": "马天宇 我以为宋江是宋江",
+        "onboard_time": 1702362156,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1987012,
+        "num": 366256,
+        "word": "研究称生两个孩子最有利于长寿",
+        "onboard_time": 1702369474,
+        "rank": 20,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 348765,
+        "num": 348765,
+        "word": "刘亦菲王鹤棣 长陵",
+        "onboard_time": 1702363953,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312254,
+        "num": 312254,
+        "word": "暗河传 龚俊",
+        "onboard_time": 1702374580,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309049,
+        "num": 309049,
+        "word": "专家建议发放3万亿生育补贴",
+        "onboard_time": 1702360113,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301214,
+        "num": 301214,
+        "word": "知情人称周海媚还在医院治疗中",
+        "onboard_time": 1702347272,
+        "rank": 24,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 292141,
+        "num": 292141,
+        "word": "和妈妈吵架绝食一天偷吃被发现",
+        "onboard_time": 1702374454,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289073,
+        "num": 289073,
+        "word": "父亲 降吧",
+        "onboard_time": 1702357420,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271977,
+        "num": 271977,
+        "word": "TheShy在WBG是顶薪待遇",
+        "onboard_time": 1702367556,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251369,
+        "num": 251369,
+        "word": "微信支付上线先学后付",
+        "onboard_time": 1702375777,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214885,
+        "num": 246241,
+        "word": "女子无力还款丈夫花2400万买房",
+        "onboard_time": 1702363356,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241825,
+        "num": 241825,
+        "word": "李惠仁 千禧少女",
+        "onboard_time": 1702373793,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238988,
+        "num": 238988,
+        "word": "RNG 欢迎来看24皇",
+        "onboard_time": 1702375595,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228097,
+        "num": 228097,
+        "word": "五哈4开录",
+        "onboard_time": 1702366056,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225338,
+        "num": 225338,
+        "word": "EDG Meiko",
+        "onboard_time": 1702364696,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223553,
+        "num": 223553,
+        "word": "逆水寒 绑玉",
+        "onboard_time": 1702374995,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219716,
+        "num": 219716,
+        "word": "接白敬亭冬偶",
+        "onboard_time": 1702374816,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212370,
+        "num": 212370,
+        "word": "给王鹤棣找个配音吧",
+        "onboard_time": 1702376015,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203477,
+        "num": 203477,
+        "word": "李健上海 谁抢到了",
+        "onboard_time": 1702375712,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197327,
+        "num": 197327,
+        "word": "龙年 小龙女",
+        "onboard_time": 1702369177,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195829,
+        "num": 195829,
+        "word": "万达对赌危机解除",
+        "onboard_time": 1702367193,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 189899,
+        "num": 189899,
+        "word": "懂车帝发布声明",
+        "onboard_time": 1702376255,
+        "rank": 40,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 179141,
+        "num": 179141,
+        "word": "何猷君富得没见过世面",
+        "onboard_time": 1702360653,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178431,
+        "num": 178431,
+        "word": "成都地铁偷拍案影响扩大系男方责任",
+        "onboard_time": 1702376135,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168720,
+        "num": 168720,
+        "word": "于正 刘宇宁在历劫",
+        "onboard_time": 1702368270,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167648,
+        "num": 167648,
+        "word": "杨丞琳演唱会主办方已经营异常",
+        "onboard_time": 1702376255,
+        "rank": 44,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 158891,
+        "num": 158891,
+        "word": "和肖四大战简称肖战",
+        "onboard_time": 1702363178,
+        "rank": 45,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 158027,
+        "num": 158027,
+        "word": "迪丽热巴一怒之下干了一杯奶",
+        "onboard_time": 1702358918,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155144,
+        "num": 155144,
+        "word": "小米发文炮轰余承东",
+        "onboard_time": 1702357301,
+        "rank": 47,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 152358,
+        "num": 152358,
+        "word": "男子捂热水袋入睡被低温烫熟",
+        "onboard_time": 1702361614,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147070,
+        "num": 147070,
+        "word": "1212淘宝给年轻人一点省钱震撼",
+        "onboard_time": 1702371633,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平抵达河内对越南进行国事访问#"
+    }
+  }
+}
