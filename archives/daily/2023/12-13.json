@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702412353810,
+  "endTime": 1702413264385,
   "band_list": [
     {
       "raw_hot": 5102313,
@@ -507,15 +507,15 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 18529,
-      "num": 18529,
+      "raw_hot": 19691,
+      "num": 19691,
       "word": "曼联vs拜仁",
       "onboard_time": 1702411153,
       "rank": 38,
       "category": "体育"
     },
     {
-      "raw_hot": 13198,
+      "raw_hot": 13803,
       "num": 16481,
       "word": "代号鸢 广陵大学教师评教",
       "onboard_time": 1702410015,
