@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702348294366,
+  "endTime": 1702348920338,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1844216,
+      "num": 455361,
+      "word": "破产姐妹Max演员结婚",
+      "onboard_time": 1702346073,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1796093,
       "num": 1796093,
       "word": "难哄 悬着的心终于死了",
@@ -273,14 +281,6 @@
       "onboard_time": 1702181672,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1757967,
-      "num": 455361,
-      "word": "破产姐妹Max演员结婚",
-      "onboard_time": 1702346073,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1755734,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 868543,
-      "num": 642655,
+      "num": 666853,
       "word": "著名编剧谭飞辟谣周海媚过世",
       "onboard_time": 1702346496,
       "rank": 5,
@@ -859,12 +859,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 786447,
+      "num": 786447,
+      "word": "律师致函江西民政要求公开彩票事件信息",
+      "onboard_time": 1702347454,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 785562,
       "num": 785562,
       "word": "省考 我必上岸",
       "onboard_time": 1702168707,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 784803,
+      "num": 300870,
+      "word": "为什么年轻人讨厌接电话",
+      "onboard_time": 1702344635,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 777402,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1702132179,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 695723,
-      "num": 300870,
-      "word": "为什么年轻人讨厌接电话",
-      "onboard_time": 1702344635,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 688588,
@@ -1339,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 551840,
-      "num": 551840,
-      "word": "律师致函江西民政要求公开彩票事件信息",
-      "onboard_time": 1702347454,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 550564,
       "num": 550564,
       "word": "谢谢你省考面",
@@ -1611,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474923,
+      "num": 443100,
+      "word": "动手的那瞬间发现是小女儿后",
+      "onboard_time": 1702345652,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 473891,
       "num": 473891,
       "word": "余承东怒怼懂车帝",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1702269219,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 428706,
+      "num": 428706,
+      "word": "宋江金裕贞",
+      "onboard_time": 1702347574,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 427535,
@@ -2139,14 +2155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370502,
-      "num": 370502,
-      "word": "动手的那瞬间发现是小女儿后",
-      "onboard_time": 1702345652,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 369802,
       "num": 369802,
       "word": "最高法呼吁取消高额彩礼",
@@ -2227,6 +2235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 359705,
+      "num": 359705,
+      "word": "专家称元旦前后或有一波新冠感染高峰",
+      "onboard_time": 1702345652,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357523,
       "num": 357523,
       "word": "赵丽颖 动物城vlog",
@@ -2235,20 +2251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356833,
+      "num": 288011,
+      "word": "28岁女子第20次裸辞",
+      "onboard_time": 1702347634,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355302,
       "num": 355302,
       "word": "刘诗诗优雅黑天鹅妆",
       "onboard_time": 1702307444,
       "rank": 32,
       "category": "美妆,艺人"
-    },
-    {
-      "raw_hot": 354679,
-      "num": 354679,
-      "word": "专家称元旦前后或有一波新冠感染高峰",
-      "onboard_time": 1702345652,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354347,
@@ -2555,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309284,
+      "num": 309284,
+      "word": "山东千里寻亲遭拒女生发声",
+      "onboard_time": 1702347031,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308827,
       "num": 308827,
       "word": "徐若晗演张若昀学生",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1702266995,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306037,
-      "num": 306037,
-      "word": "宋江金裕贞",
-      "onboard_time": 1702347574,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 305216,
@@ -2729,14 +2745,6 @@
       "onboard_time": 1702218221,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294683,
-      "num": 294683,
-      "word": "山东千里寻亲遭拒女生发声",
-      "onboard_time": 1702347031,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294569,
@@ -3107,6 +3115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264892,
+      "num": 264892,
+      "word": "RNG官宣Breathe续约",
+      "onboard_time": 1702345233,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 264599,
       "num": 264599,
       "word": "行测",
@@ -3291,14 +3307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248630,
-      "num": 248630,
-      "word": "RNG官宣Breathe续约",
-      "onboard_time": 1702345233,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 248069,
       "num": 248069,
       "word": "大张伟谈被张钧甯拯救的经历",
@@ -3315,20 +3323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245003,
+      "num": 245003,
+      "word": "一旦一个人宣布她不再乱花钱",
+      "onboard_time": 1702346373,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244964,
       "num": 244964,
       "word": "声理学评五月天演唱会直播多次跑调",
       "onboard_time": 1702279955,
       "rank": 45,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 244863,
-      "num": 244863,
-      "word": "一旦一个人宣布她不再乱花钱",
-      "onboard_time": 1702346373,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 244426,
@@ -3731,14 +3739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 223277,
-      "num": 223277,
-      "word": "28岁女子第20次裸辞",
-      "onboard_time": 1702347634,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222952,
       "num": 218038,
       "word": "故宫雪景高清壁纸",
@@ -3955,6 +3955,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 212047,
+      "num": 212047,
+      "word": "iOS17.2正式版新增翻译功能",
+      "onboard_time": 1702346614,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 211950,
       "num": 211950,
       "word": "宁安如梦答谢礼今日官宣",
@@ -4001,14 +4009,6 @@
       "onboard_time": 1702208195,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209521,
-      "num": 209521,
-      "word": "iOS17.2正式版新增翻译功能",
-      "onboard_time": 1702346614,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 208932,
@@ -4137,6 +4137,14 @@
       "onboard_time": 1702274853,
       "rank": 32,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 205203,
+      "num": 205203,
+      "word": "中级经济师",
+      "onboard_time": 1702347215,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 205196,
@@ -4403,14 +4411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197034,
-      "num": 197034,
-      "word": "中级经济师",
-      "onboard_time": 1702347215,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 196799,
       "num": 196799,
       "word": "越南观众有多爱中国电视剧",
@@ -4579,6 +4579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191180,
+      "num": 191180,
+      "word": "和王一博许下跨年电影愿",
+      "onboard_time": 1702348232,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190986,
       "num": 183451,
       "word": "杨幂 客串",
@@ -4673,6 +4681,14 @@
       "onboard_time": 1702225709,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186123,
+      "num": 186123,
+      "word": "成毅 情绪跟细节拿捏精准",
+      "onboard_time": 1702348533,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 186098,
@@ -5483,6 +5499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152627,
+      "num": 152627,
+      "word": "中级经济师 等成绩",
+      "onboard_time": 1702348175,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152103,
       "num": 152103,
       "word": "里夫斯半场22分",
@@ -5779,6 +5803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142606,
+      "num": 142606,
+      "word": "梅罗对决又要来了",
+      "onboard_time": 1702345830,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142501,
       "num": 142501,
       "word": "TES官博关注Meiko",
@@ -5817,14 +5849,6 @@
       "onboard_time": 1702129718,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141834,
-      "num": 141834,
-      "word": "梅罗对决又要来了",
-      "onboard_time": 1702345830,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 141807,
@@ -5931,6 +5955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138854,
+      "num": 138854,
+      "word": "WBG官宣Weiwei离队",
+      "onboard_time": 1702348772,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138584,
       "num": 114693,
       "word": "张馨予低胸纱裙",
@@ -6001,14 +6033,6 @@
       "onboard_time": 1702176995,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136781,
-      "num": 136781,
-      "word": "和王一博许下跨年电影愿",
-      "onboard_time": 1702348232,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 136679,

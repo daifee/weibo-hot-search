@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702348294366,
+  "endTime": 1702348920338,
   "band_list": [
     {
       "raw_hot": 3099903,
@@ -43,7 +43,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 1757967,
+      "raw_hot": 1844216,
       "num": 455361,
       "word": "破产姐妹Max演员结婚",
       "onboard_time": 1702346073,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 868543,
-      "num": 642655,
+      "num": 666853,
       "word": "著名编剧谭飞辟谣周海媚过世",
       "onboard_time": 1702346496,
       "rank": 5,
@@ -115,7 +115,15 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 695723,
+      "raw_hot": 786447,
+      "num": 786447,
+      "word": "律师致函江西民政要求公开彩票事件信息",
+      "onboard_time": 1702347454,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784803,
       "num": 300870,
       "word": "为什么年轻人讨厌接电话",
       "onboard_time": 1702344635,
@@ -171,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 551840,
-      "num": 551840,
-      "word": "律师致函江西民政要求公开彩票事件信息",
-      "onboard_time": 1702347454,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 517930,
       "num": 517930,
       "word": "宋轶 使用小号之后会发现世界安静了",
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474923,
+      "num": 443100,
+      "word": "动手的那瞬间发现是小女儿后",
+      "onboard_time": 1702345652,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 468358,
       "num": 463854,
       "word": "巴黎大街上女性发型",
@@ -223,6 +231,14 @@
       "num": 440171,
       "word": "鸣龙少年 开黄腔也是性骚扰",
       "onboard_time": 1702306670,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 428706,
+      "num": 428706,
+      "word": "宋江金裕贞",
+      "onboard_time": 1702347574,
       "rank": 18,
       "category": "剧集"
     },
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370502,
-      "num": 370502,
-      "word": "动手的那瞬间发现是小女儿后",
-      "onboard_time": 1702345652,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 369802,
       "num": 369802,
       "word": "最高法呼吁取消高额彩礼",
@@ -267,11 +275,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 354679,
-      "num": 354679,
+      "raw_hot": 359705,
+      "num": 359705,
       "word": "专家称元旦前后或有一波新冠感染高峰",
       "onboard_time": 1702345652,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356833,
+      "num": 288011,
+      "word": "28岁女子第20次裸辞",
+      "onboard_time": 1702347634,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -307,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 306037,
-      "num": 306037,
-      "word": "宋江金裕贞",
-      "onboard_time": 1702347574,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 309284,
+      "num": 309284,
+      "word": "山东千里寻亲遭拒女生发声",
+      "onboard_time": 1702347031,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303519,
@@ -337,14 +353,6 @@
       "onboard_time": 1702341099,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294683,
-      "num": 294683,
-      "word": "山东千里寻亲遭拒女生发声",
-      "onboard_time": 1702347031,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292697,
@@ -379,6 +387,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 264892,
+      "num": 264892,
+      "word": "RNG官宣Breathe续约",
+      "onboard_time": 1702345233,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262003,
       "num": 262003,
       "word": "真爱的第一征兆是什么",
@@ -395,16 +411,8 @@
       "category": "健康医疗,社会议题"
     },
     {
-      "raw_hot": 248630,
-      "num": 248630,
-      "word": "RNG官宣Breathe续约",
-      "onboard_time": 1702345233,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 244863,
-      "num": 244863,
+      "raw_hot": 245003,
+      "num": 245003,
       "word": "一旦一个人宣布她不再乱花钱",
       "onboard_time": 1702346373,
       "rank": 28,
@@ -467,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223277,
-      "num": 223277,
-      "word": "28岁女子第20次裸辞",
-      "onboard_time": 1702347634,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218936,
       "num": 218936,
       "word": "坚持练背真的提升气质",
@@ -515,12 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209521,
-      "num": 209521,
+      "raw_hot": 212047,
+      "num": 212047,
       "word": "iOS17.2正式版新增翻译功能",
       "onboard_time": 1702346614,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 205203,
+      "num": 205203,
+      "word": "中级经济师",
+      "onboard_time": 1702347215,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 199502,
@@ -531,20 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197034,
-      "num": 197034,
-      "word": "中级经济师",
-      "onboard_time": 1702347215,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 196799,
       "num": 196799,
       "word": "越南观众有多爱中国电视剧",
       "onboard_time": 1702346795,
       "rank": 34,
       "category": "剧集,社会新闻"
+    },
+    {
+      "raw_hot": 191180,
+      "num": 191180,
+      "word": "和王一博许下跨年电影愿",
+      "onboard_time": 1702348232,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 190496,
@@ -569,6 +577,14 @@
       "onboard_time": 1702341578,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186123,
+      "num": 186123,
+      "word": "成毅 情绪跟细节拿捏精准",
+      "onboard_time": 1702348533,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 184513,
@@ -691,6 +707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152627,
+      "num": 152627,
+      "word": "中级经济师 等成绩",
+      "onboard_time": 1702348175,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147108,
       "num": 147108,
       "word": "神隐 双弱",
@@ -715,8 +739,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 141834,
-      "num": 141834,
+      "raw_hot": 142606,
+      "num": 142606,
       "word": "梅罗对决又要来了",
       "onboard_time": 1702345830,
       "rank": 42,
@@ -737,6 +761,14 @@
       "onboard_time": 1702344393,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138854,
+      "num": 138854,
+      "word": "WBG官宣Weiwei离队",
+      "onboard_time": 1702348772,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 138385,
@@ -761,14 +793,6 @@
       "onboard_time": 1702286675,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136781,
-      "num": 136781,
-      "word": "和王一博许下跨年电影愿",
-      "onboard_time": 1702348232,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 134648,
