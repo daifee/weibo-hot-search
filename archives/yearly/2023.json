@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702388035390,
+  "endTime": 1702390622372,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25694134,
+      "num": 25694134,
+      "word": "周海媚去世",
+      "onboard_time": 1702388629,
+      "rank": 0,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 24814826,
       "num": 15660468,
       "word": "B站",
@@ -137,6 +145,14 @@
       "onboard_time": 1677596260,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20294780,
+      "num": 20294780,
+      "word": "再见周芷若",
+      "onboard_time": 1702389397,
+      "rank": 1,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 20191550,
@@ -545,6 +561,14 @@
       "onboard_time": 1687181860,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11975736,
+      "num": 1503369,
+      "word": "田启文称周海媚长期受红斑狼疮困扰",
+      "onboard_time": 1702376074,
+      "rank": 12,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 11929165,
@@ -2011,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7842771,
+      "num": 7842771,
+      "word": "自古美人如名将 不许人间见白头",
+      "onboard_time": 1702389762,
+      "rank": 3,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 7790064,
       "num": 7790064,
       "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
@@ -2369,38 +2401,6 @@
       "onboard_time": 1687518270,
       "rank": 3,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 7225276,
-      "num": 7225276,
-      "word": "曝汪姓男艺人性侵19岁女子",
-      "onboard_time": 1688105910,
-      "rank": 30,
-      "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 7224187,
-      "num": 7224187,
-      "word": "卡琳娜讲述仲尼溺水时刻",
-      "onboard_time": 1699502072,
-      "rank": 0,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 7221835,
-      "num": 8011254,
-      "word": "咬伤女童黑狗的主人被刑拘",
-      "onboard_time": 1697620115,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7213197,
-      "num": 7213197,
-      "word": "痞幼",
-      "onboard_time": 1688462855,
-      "rank": 10,
-      "category": "社会新闻,网红"
     }
   ],
   "hotgov_list": [
