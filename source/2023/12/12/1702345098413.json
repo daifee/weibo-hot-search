@@ -1,0 +1,410 @@
+{
+  "runTime": 1702345098413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2010371,
+        "num": 2010371,
+        "word": "周海媚工作室 电话",
+        "onboard_time": 1702340797,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1766526,
+        "num": 1766526,
+        "word": "体脂不断下降的好习惯",
+        "onboard_time": 1702305179,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 15673,
+        "num": 1714392,
+        "word": "太空视角见证中国式现代化",
+        "onboard_time": 1702195112,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1705231,
+        "num": 1705231,
+        "word": "多所高校明确不提供宿舍",
+        "onboard_time": 1702339052,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000797,
+        "num": 1000797,
+        "word": "周海媚",
+        "onboard_time": 1702293694,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 800047,
+        "num": 800047,
+        "word": "男子拉肚子医生多问一句跑赢死神",
+        "onboard_time": 1702306612,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677744,
+        "num": 677744,
+        "word": "为什么刚起床后手握不紧",
+        "onboard_time": 1702306139,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 510579,
+        "num": 510579,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1702297181,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 489514,
+        "num": 489514,
+        "word": "中药只管吃不要打听",
+        "onboard_time": 1702339174,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 421725,
+        "num": 421725,
+        "word": "明年起广州地铁内将禁止电子设备外放声音",
+        "onboard_time": 1702343016,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396995,
+        "num": 396995,
+        "word": "红斑狼疮高发人群是年轻女性",
+        "onboard_time": 1702308530,
+        "rank": 10,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 350700,
+        "num": 350700,
+        "word": "宋轶 使用小号之后会发现世界安静了",
+        "onboard_time": 1702304876,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348360,
+        "num": 348360,
+        "word": "WBG宣布TheShy离队",
+        "onboard_time": 1702308048,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 347493,
+        "num": 347493,
+        "word": "最高法呼吁取消高额彩礼",
+        "onboard_time": 1702344098,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345344,
+        "num": 345344,
+        "word": "薛之谦 小杨哥",
+        "onboard_time": 1702304693,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331561,
+        "num": 331561,
+        "word": "周海媚工作人员拒绝回应网传消息",
+        "onboard_time": 1702296758,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 317134,
+        "num": 317134,
+        "word": "88岁老太患癌医生顶压力劝手术如今快百岁",
+        "onboard_time": 1702341636,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310880,
+        "num": 310880,
+        "word": "天津警方通报医院厕所发现弃婴",
+        "onboard_time": 1702340617,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292697,
+        "num": 292697,
+        "word": "外嫁女嫁出村征地拆迁补偿就没份吗",
+        "onboard_time": 1702343315,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275858,
+        "num": 275858,
+        "word": "游泳运动员的身材谁看了不迷糊",
+        "onboard_time": 1702342834,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500402,
+        "num": 274623,
+        "word": "未来婆婆说我家庭复杂不同意婚事",
+        "onboard_time": 1702339897,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311656,
+        "num": 272233,
+        "word": "女孩讲历史太火被博物馆排队送礼",
+        "onboard_time": 1702344635,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268877,
+        "num": 268877,
+        "word": "大奉打更人",
+        "onboard_time": 1702342597,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260757,
+        "num": 260757,
+        "word": "为什么年轻人讨厌接电话",
+        "onboard_time": 1702344635,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242096,
+        "num": 242096,
+        "word": "1亿人正在经历这种被忽视的不定时疼痛",
+        "onboard_time": 1702335984,
+        "rank": 24,
+        "category": "健康医疗,社会议题"
+      },
+      {
+        "raw_hot": 240163,
+        "num": 240163,
+        "word": "王鹤棣从不让粉丝的爱掉在地上",
+        "onboard_time": 1702341099,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238806,
+        "num": 238806,
+        "word": "鸣龙少年 开黄腔也是性骚扰",
+        "onboard_time": 1702306670,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231976,
+        "num": 231976,
+        "word": "TheShy 我想休息一下",
+        "onboard_time": 1702307869,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226988,
+        "num": 226988,
+        "word": "真正的睡觉vs虚假的睡觉",
+        "onboard_time": 1702330393,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225352,
+        "num": 225352,
+        "word": "张若昀没有一个镜头是白给",
+        "onboard_time": 1702342236,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468358,
+        "num": 224322,
+        "word": "巴黎大街上女性发型",
+        "onboard_time": 1702343857,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 220866,
+        "num": 220866,
+        "word": "WBG老板回应TheShy转会舆论",
+        "onboard_time": 1702339656,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220758,
+        "num": 220758,
+        "word": "谁给赵露思李昀锐递个两情相悦的本子",
+        "onboard_time": 1702342179,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213464,
+        "num": 213464,
+        "word": "多地回应新房打折引发老业主不满",
+        "onboard_time": 1702342059,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184795,
+        "num": 184795,
+        "word": "晚自习下大雪",
+        "onboard_time": 1702341578,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182448,
+        "num": 182448,
+        "word": "老头快乐水",
+        "onboard_time": 1702341398,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161421,
+        "num": 161421,
+        "word": "一岁失聪的她用画笔描绘多彩人生",
+        "onboard_time": 1702343973,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159948,
+        "num": 159948,
+        "word": "泰国偶遇刘亦菲",
+        "onboard_time": 1702306248,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156969,
+        "num": 156969,
+        "word": "坚持练背真的提升气质",
+        "onboard_time": 1702339295,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 148130,
+        "num": 148130,
+        "word": "2女子路遇3男子性骚扰勇敢拍下",
+        "onboard_time": 1702318937,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143596,
+        "num": 143596,
+        "word": "真爱的第一征兆是什么",
+        "onboard_time": 1702309663,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141850,
+        "num": 141850,
+        "word": "网购衣服里发现焉栩嘉登机牌",
+        "onboard_time": 1702293995,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141174,
+        "num": 141174,
+        "word": "赵露思 电子快乐小狗",
+        "onboard_time": 1702342360,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138994,
+        "num": 138994,
+        "word": "NBA季中赛最佳阵容",
+        "onboard_time": 1702344393,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131781,
+        "num": 131781,
+        "word": "唐嫣工作室回应粉丝诉求",
+        "onboard_time": 1702336947,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128452,
+        "num": 128452,
+        "word": "范丞丞还是一如既往仰慕沈腾",
+        "onboard_time": 1702344873,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122724,
+        "num": 122724,
+        "word": "Ning 可惜没有机会",
+        "onboard_time": 1702305539,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119865,
+        "num": 119865,
+        "word": "糟糕的家庭 总在小事上消耗孩子",
+        "onboard_time": 1702304036,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 116187,
+        "num": 116187,
+        "word": "棣欣引力 湖南卫视跨年",
+        "onboard_time": 1702303852,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112778,
+        "num": 112778,
+        "word": "新闻女王导演回应张家妍黑化",
+        "onboard_time": 1702339237,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#走进敦煌共同探索那条西行路#"
+    }
+  }
+}
