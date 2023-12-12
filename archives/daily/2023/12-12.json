@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702385413326,
+  "endTime": 1702387299582,
   "band_list": [
     {
       "raw_hot": 3671070,
@@ -59,6 +59,14 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 2487985,
+      "num": 1359039,
+      "word": "菜鸟 取件码呢",
+      "onboard_time": 1702383814,
+      "rank": 4,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 2329374,
       "num": 2329374,
       "word": "周海媚工作室 电话",
@@ -81,14 +89,6 @@
       "onboard_time": 1702363776,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2254070,
-      "num": 1359039,
-      "word": "菜鸟 取件码呢",
-      "onboard_time": 1702383814,
-      "rank": 4,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 2134674,
@@ -153,6 +153,14 @@
       "onboard_time": 1702376496,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1551743,
+      "num": 724074,
+      "word": "老师情绪失控让全班女生自扇耳光",
+      "onboard_time": 1702384234,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1539178,
@@ -371,20 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 724074,
-      "num": 724074,
-      "word": "老师情绪失控让全班女生自扇耳光",
-      "onboard_time": 1702384234,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 723288,
       "num": 599033,
       "word": "去父母化",
       "onboard_time": 1702376737,
       "rank": 38,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 721200,
+      "num": 721200,
+      "word": "在人间 赵丽颖张一山",
+      "onboard_time": 1702384357,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 719762,
@@ -483,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 643062,
-      "num": 643062,
-      "word": "在人间 赵丽颖张一山",
-      "onboard_time": 1702384357,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 641324,
       "num": 704340,
       "word": "专家建议发放3万亿生育补贴",
@@ -521,6 +521,14 @@
       "onboard_time": 1702357238,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606899,
+      "num": 606899,
+      "word": "拒绝假唱 来真的",
+      "onboard_time": 1702384833,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 595140,
@@ -900,7 +908,7 @@
     },
     {
       "raw_hot": 383750,
-      "num": 366371,
+      "num": 367064,
       "word": "网红袖珍女孩疑遭母亲虐待",
       "onboard_time": 1702382433,
       "rank": 17,
@@ -995,14 +1003,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 339248,
-      "num": 339248,
-      "word": "拒绝假唱 来真的",
-      "onboard_time": 1702384833,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 337935,
       "num": 337935,
       "word": "王安宇演累了让我演两集",
@@ -1065,6 +1065,14 @@
       "onboard_time": 1702384055,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329077,
+      "num": 329077,
+      "word": "男子介绍女友卖淫赚生活费获刑5年",
+      "onboard_time": 1702386273,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326335,
@@ -1219,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289164,
+      "num": 289164,
+      "word": "王者后羿新皮肤",
+      "onboard_time": 1702385195,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285243,
       "num": 285243,
       "word": "多地回应新房打折引发老业主不满",
@@ -1251,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278049,
+      "num": 278049,
+      "word": "防弹少年团全员正式入伍",
+      "onboard_time": 1702384959,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276937,
       "num": 276937,
       "word": "新闻女王 郑伯病逝",
@@ -1280,6 +1304,14 @@
       "word": "LNG官宣Scout续约",
       "onboard_time": 1702378177,
       "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 268863,
+      "num": 268863,
+      "word": "EDG离开了EDG",
+      "onboard_time": 1702386813,
+      "rank": 25,
       "category": "电竞"
     },
     {
@@ -1347,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255728,
+      "num": 255728,
+      "word": "秦岚辛芷蕾 一个敢说一个敢接",
+      "onboard_time": 1702381234,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255486,
       "num": 255486,
       "word": "1亿人正在经历这种被忽视的不定时疼痛",
@@ -1409,14 +1449,6 @@
       "onboard_time": 1702368813,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246693,
-      "num": 246693,
-      "word": "秦岚辛芷蕾 一个敢说一个敢接",
-      "onboard_time": 1702381234,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 245934,
@@ -1491,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236488,
-      "num": 236488,
-      "word": "防弹少年团全员正式入伍",
-      "onboard_time": 1702384959,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235633,
       "num": 235633,
       "word": "越南观众有多爱中国电视剧",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1702379014,
       "rank": 39,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 233697,
+      "num": 233697,
+      "word": "我期待的不是雪 而是有你的冬天",
+      "onboard_time": 1702386577,
+      "rank": 28,
+      "category": "情感,作品衍生"
     },
     {
       "raw_hot": 233635,
@@ -1723,6 +1755,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213383,
+      "num": 213383,
+      "word": "WBG官宣Zdz加入",
+      "onboard_time": 1702385257,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 212426,
+      "num": 212426,
+      "word": "常吃烤红薯会致癌吗",
+      "onboard_time": 1702386156,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212047,
       "num": 212047,
       "word": "iOS17.2正式版新增翻译功能",
@@ -1883,6 +1931,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 191551,
+      "num": 191551,
+      "word": "圣诞歌单",
+      "onboard_time": 1702386634,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191180,
       "num": 191180,
       "word": "和王一博许下跨年电影愿",
@@ -1947,14 +2003,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 188356,
-      "num": 188356,
-      "word": "王者后羿新皮肤",
-      "onboard_time": 1702385195,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188221,
       "num": 386937,
       "word": "2女子路遇3男子性骚扰勇敢拍下",
@@ -2003,20 +2051,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186691,
-      "num": 186691,
-      "word": "WBG官宣Zdz加入",
-      "onboard_time": 1702385257,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 186123,
       "num": 186123,
       "word": "成毅 情绪跟细节拿捏精准",
       "onboard_time": 1702348533,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185969,
+      "num": 185969,
+      "word": "眉上刘海",
+      "onboard_time": 1702385734,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 185270,
@@ -2121,6 +2169,14 @@
       "onboard_time": 1702307444,
       "rank": 34,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 174732,
+      "num": 196061,
+      "word": "大凉山老师陪孩子走10小时山路打球",
+      "onboard_time": 1702387177,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174119,
@@ -2499,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133710,
+      "num": 195767,
+      "word": "影帝萌兰示范中枪表演",
+      "onboard_time": 1702386696,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130718,
       "num": 130718,
       "word": "中式疯批美学妆",
@@ -2577,6 +2641,22 @@
       "onboard_time": 1702360414,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 108149,
+      "num": 174684,
+      "word": "欧冠",
+      "onboard_time": 1702386514,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100421,
+      "num": 166678,
+      "word": "为什么蚝不便宜蚝油却便宜",
+      "onboard_time": 1702387234,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99911,
@@ -2829,6 +2909,9 @@
     },
     {
       "word": "#习近平访问越南#"
+    },
+    {
+      "word": "#中央经济工作会议举行#"
     }
   ]
 }

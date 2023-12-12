@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702385413326,
+  "endTime": 1702387299582,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -147,6 +147,14 @@
       "category": "美食,艺人"
     },
     {
+      "raw_hot": 2487985,
+      "num": 1359039,
+      "word": "菜鸟 取件码呢",
+      "onboard_time": 1702383814,
+      "rank": 4,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 2371615,
       "num": 2371615,
       "word": "红斑狼疮",
@@ -193,14 +201,6 @@
       "onboard_time": 1702363776,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2254070,
-      "num": 1359039,
-      "word": "菜鸟 取件码呢",
-      "onboard_time": 1702383814,
-      "rank": 4,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 2203938,
@@ -417,6 +417,14 @@
       "onboard_time": 1702276713,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1551743,
+      "num": 724074,
+      "word": "老师情绪失控让全班女生自扇耳光",
+      "onboard_time": 1702384234,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1539178,
@@ -1219,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 724074,
-      "num": 724074,
-      "word": "老师情绪失控让全班女生自扇耳光",
-      "onboard_time": 1702384234,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 723288,
       "num": 599033,
       "word": "去父母化",
@@ -1241,6 +1241,14 @@
       "onboard_time": 1702178433,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721200,
+      "num": 721200,
+      "word": "在人间 赵丽颖张一山",
+      "onboard_time": 1702384357,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 720529,
@@ -1483,14 +1491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 643062,
-      "num": 643062,
-      "word": "在人间 赵丽颖张一山",
-      "onboard_time": 1702384357,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 641892,
       "num": 641892,
       "word": "Ning五杀",
@@ -1585,6 +1585,14 @@
       "onboard_time": 1702197632,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 606899,
+      "num": 606899,
+      "word": "拒绝假唱 来真的",
+      "onboard_time": 1702384833,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 601424,
@@ -2684,7 +2692,7 @@
     },
     {
       "raw_hot": 383750,
-      "num": 366371,
+      "num": 367064,
       "word": "网红袖珍女孩疑遭母亲虐待",
       "onboard_time": 1702382433,
       "rank": 17,
@@ -3099,14 +3107,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 339248,
-      "num": 339248,
-      "word": "拒绝假唱 来真的",
-      "onboard_time": 1702384833,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 337935,
       "num": 337935,
       "word": "王安宇演累了让我演两集",
@@ -3217,6 +3217,14 @@
       "onboard_time": 1702265853,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 329077,
+      "num": 329077,
+      "word": "男子介绍女友卖淫赚生活费获刑5年",
+      "onboard_time": 1702386273,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328947,
@@ -3667,6 +3675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289164,
+      "num": 289164,
+      "word": "王者后羿新皮肤",
+      "onboard_time": 1702385195,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289139,
       "num": 289139,
       "word": "莎头的默契",
@@ -3819,6 +3835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278049,
+      "num": 278049,
+      "word": "防弹少年团全员正式入伍",
+      "onboard_time": 1702384959,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276842,
       "num": 276842,
       "word": "我这可是坐过王一博的船",
@@ -3961,6 +3985,14 @@
       "onboard_time": 1702279834,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268863,
+      "num": 268863,
+      "word": "EDG离开了EDG",
+      "onboard_time": 1702386813,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 267923,
@@ -4171,6 +4203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255728,
+      "num": 255728,
+      "word": "秦岚辛芷蕾 一个敢说一个敢接",
+      "onboard_time": 1702381234,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255486,
       "num": 255486,
       "word": "1亿人正在经历这种被忽视的不定时疼痛",
@@ -4321,14 +4361,6 @@
       "onboard_time": 1702133379,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246693,
-      "num": 246693,
-      "word": "秦岚辛芷蕾 一个敢说一个敢接",
-      "onboard_time": 1702381234,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 245934,
@@ -4531,14 +4563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236488,
-      "num": 236488,
-      "word": "防弹少年团全员正式入伍",
-      "onboard_time": 1702384959,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236466,
       "num": 236466,
       "word": "宋江金裕贞 般配",
@@ -4609,6 +4633,14 @@
       "onboard_time": 1702379014,
       "rank": 39,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 233697,
+      "num": 233697,
+      "word": "我期待的不是雪 而是有你的冬天",
+      "onboard_time": 1702386577,
+      "rank": 28,
+      "category": "情感,作品衍生"
     },
     {
       "raw_hot": 233635,
@@ -5139,6 +5171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213383,
+      "num": 213383,
+      "word": "WBG官宣Zdz加入",
+      "onboard_time": 1702385257,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 212667,
       "num": 212667,
       "word": "赵露思神隐战损妆海报",
@@ -5153,6 +5193,14 @@
       "onboard_time": 1702182033,
       "rank": 49,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 212426,
+      "num": 212426,
+      "word": "常吃烤红薯会致癌吗",
+      "onboard_time": 1702386156,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 212062,
@@ -5907,6 +5955,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 191551,
+      "num": 191551,
+      "word": "圣诞歌单",
+      "onboard_time": 1702386634,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191383,
       "num": 191383,
       "word": "今晚国乒与韩国队争冠",
@@ -6019,14 +6075,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 188356,
-      "num": 188356,
-      "word": "王者后羿新皮肤",
-      "onboard_time": 1702385195,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188221,
       "num": 386937,
       "word": "2女子路遇3男子性骚扰勇敢拍下",
@@ -6083,14 +6131,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 186691,
-      "num": 186691,
-      "word": "WBG官宣Zdz加入",
-      "onboard_time": 1702385257,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 186690,
       "num": 186690,
       "word": "谢娜孕吐反应特别严重",
@@ -6129,6 +6169,14 @@
       "onboard_time": 1702304995,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185969,
+      "num": 185969,
+      "word": "眉上刘海",
+      "onboard_time": 1702385734,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 185735,
@@ -6513,6 +6561,14 @@
       "onboard_time": 1702276772,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174732,
+      "num": 196061,
+      "word": "大凉山老师陪孩子走10小时山路打球",
+      "onboard_time": 1702387177,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174295,
@@ -7803,6 +7859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133710,
+      "num": 195767,
+      "word": "影帝萌兰示范中枪表演",
+      "onboard_time": 1702386696,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133204,
       "num": 133204,
       "word": "华为首家海外工厂将落地法国",
@@ -8155,6 +8219,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 108149,
+      "num": 174684,
+      "word": "欧冠",
+      "onboard_time": 1702386514,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106847,
       "num": 106847,
       "word": "吃梨真的能化痰止咳吗",
@@ -8193,6 +8265,14 @@
       "onboard_time": 1702299223,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100421,
+      "num": 166678,
+      "word": "为什么蚝不便宜蚝油却便宜",
+      "onboard_time": 1702387234,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99911,
@@ -8889,6 +8969,9 @@
     },
     {
       "word": "#习近平访问越南#"
+    },
+    {
+      "word": "#中央经济工作会议举行#"
     }
   ]
 }
