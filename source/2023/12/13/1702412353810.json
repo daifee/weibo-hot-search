@@ -1,0 +1,410 @@
+{
+  "runTime": 1702412353810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 98846,
+        "num": 98846,
+        "word": "阿宝被七仔咬掉的耳朵已脱离爱心状",
+        "onboard_time": 1702397437,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69512,
+        "num": 69512,
+        "word": "金莎和男友 两个恋爱脑双向奔赴",
+        "onboard_time": 1702399647,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11336,
+        "num": 62153,
+        "word": "强信心看数据",
+        "onboard_time": 1702388257,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171383,
+        "num": 62069,
+        "word": "周海媚生前最后一次公开亮相",
+        "onboard_time": 1702390240,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 118276,
+        "num": 60896,
+        "word": "再见周芷若",
+        "onboard_time": 1702389397,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 59713,
+        "num": 59713,
+        "word": "好莱坞富二代涉嫌分尸华人妻子",
+        "onboard_time": 1702378775,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58930,
+        "num": 58930,
+        "word": "拒绝休息羞耻",
+        "onboard_time": 1702395703,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41184,
+        "num": 41184,
+        "word": "肚子越来越小的小技巧",
+        "onboard_time": 1702395168,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 40230,
+        "num": 40230,
+        "word": "刘亦菲泰国游客照",
+        "onboard_time": 1702394509,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37774,
+        "num": 37774,
+        "word": "骄阳似我 张凌赫魏大勋",
+        "onboard_time": 1702383275,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337452,
+        "num": 37313,
+        "word": "周海媚去世",
+        "onboard_time": 1702388629,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 97606,
+        "num": 37082,
+        "word": "吕良伟悼念周海媚",
+        "onboard_time": 1702396181,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 80851,
+        "num": 36294,
+        "word": "创业创了一半老板去考公了",
+        "onboard_time": 1702398812,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60815,
+        "num": 35728,
+        "word": "田启文称周海媚长期受红斑狼疮困扰",
+        "onboard_time": 1702376074,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 51713,
+        "num": 35371,
+        "word": "红斑狼疮是免疫病不是皮肤病",
+        "onboard_time": 1702380157,
+        "rank": 14,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 38243,
+        "num": 34774,
+        "word": "谢娜张杰聊过另一个人先走怎么办",
+        "onboard_time": 1702396181,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34449,
+        "num": 34449,
+        "word": "薛之谦上上谦火锅仅剩两家",
+        "onboard_time": 1702369177,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 33115,
+        "num": 33115,
+        "word": "网红袖珍女孩疑遭母亲虐待",
+        "onboard_time": 1702382433,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30250,
+        "num": 30250,
+        "word": "EDG离开了EDG",
+        "onboard_time": 1702386813,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24766,
+        "num": 30224,
+        "word": "成都地铁偷拍案当事人回应判决",
+        "onboard_time": 1702388753,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71615,
+        "num": 30068,
+        "word": "男子介绍女友卖淫赚生活费获刑5年",
+        "onboard_time": 1702386273,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60211,
+        "num": 29763,
+        "word": "女孩以为手上长的是冻疮却被确诊红斑狼疮",
+        "onboard_time": 1702391664,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48056,
+        "num": 29725,
+        "word": "研究称生两个孩子最有利于长寿",
+        "onboard_time": 1702369474,
+        "rank": 22,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 29585,
+        "num": 29585,
+        "word": "一碗30元的网红面馆卖不动了",
+        "onboard_time": 1702365154,
+        "rank": 23,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 28870,
+        "num": 28870,
+        "word": "易孕体质是没有科学避孕",
+        "onboard_time": 1702382433,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27000,
+        "num": 27000,
+        "word": "吉克隽逸 鲛人造型",
+        "onboard_time": 1702407016,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25715,
+        "num": 25715,
+        "word": "菜鸟 取件码呢",
+        "onboard_time": 1702383814,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 24940,
+        "num": 24940,
+        "word": "周海媚曾说人生不能后悔就得往前走",
+        "onboard_time": 1702394631,
+        "rank": 27,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 23359,
+        "num": 23359,
+        "word": "杨紫公布起诉黑粉进展",
+        "onboard_time": 1702389583,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23005,
+        "num": 23005,
+        "word": "鼻炎手术 鼻头变尖",
+        "onboard_time": 1702375653,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22097,
+        "num": 22097,
+        "word": "给王鹤棣找个配音吧",
+        "onboard_time": 1702376015,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20519,
+        "num": 20519,
+        "word": "狐妖小红娘 易主",
+        "onboard_time": 1702373434,
+        "rank": 31,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 20415,
+        "num": 20415,
+        "word": "结节 吃芋头",
+        "onboard_time": 1702376496,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20415,
+        "num": 20415,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1702376855,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19991,
+        "num": 19991,
+        "word": "第一次有点生狗的气了",
+        "onboard_time": 1702405577,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19721,
+        "num": 19721,
+        "word": "在人间 赵丽颖张一山",
+        "onboard_time": 1702384357,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19526,
+        "num": 19526,
+        "word": "为什么蚝不便宜蚝油却便宜",
+        "onboard_time": 1702387234,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19373,
+        "num": 19373,
+        "word": "赵一博回归种地吧",
+        "onboard_time": 1702393082,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18529,
+        "num": 18529,
+        "word": "曼联vs拜仁",
+        "onboard_time": 1702411153,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17807,
+        "num": 17807,
+        "word": "拒绝假唱 来真的",
+        "onboard_time": 1702384833,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17323,
+        "num": 17323,
+        "word": "杨丞琳演唱会主办方已经营异常",
+        "onboard_time": 1702376255,
+        "rank": 40,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 16685,
+        "num": 16685,
+        "word": "超级计算机预测的英超冠军",
+        "onboard_time": 1702404080,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16683,
+        "num": 16683,
+        "word": "冬天泡脚有3个禁忌",
+        "onboard_time": 1702388815,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16659,
+        "num": 16659,
+        "word": "TES Meiko",
+        "onboard_time": 1702381713,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16549,
+        "num": 16549,
+        "word": "工信部正式发布小米SU7产品公告",
+        "onboard_time": 1702394631,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15945,
+        "num": 16543,
+        "word": "自古美人如名将 不许人间见白头",
+        "onboard_time": 1702389762,
+        "rank": 45,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 15480,
+        "num": 16530,
+        "word": "张家辉 你知道这十年我怎么过的吗",
+        "onboard_time": 1702397259,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14615,
+        "num": 16514,
+        "word": "阿音走了纣王的老路",
+        "onboard_time": 1702401084,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13886,
+        "num": 16501,
+        "word": "JN.1",
+        "onboard_time": 1702405878,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13198,
+        "num": 16481,
+        "word": "代号鸢 广陵大学教师评教",
+        "onboard_time": 1702410015,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}
