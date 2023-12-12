@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702405349883,
+  "endTime": 1702406048178,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -9059,20 +9059,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 35469,
+      "num": 35469,
+      "word": "超级计算机预测的英超冠军",
+      "onboard_time": 1702404080,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34540,
       "num": 34540,
       "word": "王心凌唱第一次爱的人",
       "onboard_time": 1702232775,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33615,
-      "num": 33615,
-      "word": "超级计算机预测的英超冠军",
-      "onboard_time": 1702404080,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 33241,
@@ -9139,6 +9139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27463,
+      "num": 30636,
+      "word": "第一次有点生狗的气了",
+      "onboard_time": 1702405577,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26518,
       "num": 31867,
       "word": "李遐怡成始璄 抒情曲的神",
@@ -9169,6 +9177,14 @@
       "onboard_time": 1702213236,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24314,
+      "num": 30545,
+      "word": "JN.1",
+      "onboard_time": 1702405878,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24282,
