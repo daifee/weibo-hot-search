@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702391724433,
+  "endTime": 1702394339852,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -355,12 +355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 878268,
+      "num": 878268,
+      "word": "赵一博回归种地吧",
+      "onboard_time": 1702393082,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 868543,
       "num": 666853,
       "word": "著名编剧谭飞辟谣周海媚过世",
       "onboard_time": 1702346496,
       "rank": 5,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 861177,
+      "num": 432452,
+      "word": "女孩以为手上长的是冻疮却被确诊红斑狼疮",
+      "onboard_time": 1702391664,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 814130,
@@ -745,6 +761,14 @@
       "onboard_time": 1702360895,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 504523,
+      "num": 504523,
+      "word": "新冠变异株JN.1在12国快速蔓延",
+      "onboard_time": 1702391190,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 496343,
@@ -1507,6 +1531,14 @@
       "category": "健康医疗,社会议题"
     },
     {
+      "raw_hot": 254596,
+      "num": 254596,
+      "word": "脸部泛红的主要因素",
+      "onboard_time": 1702392435,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 254011,
       "num": 254011,
       "word": "赵丽颖杨紫大剧看总台VCR",
@@ -2011,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201800,
+      "num": 201800,
+      "word": "童年回忆慢慢和我说告别了",
+      "onboard_time": 1702393976,
+      "rank": 45,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 201003,
       "num": 201003,
       "word": "16名雪雕师7天雕出巨型雪龙",
@@ -2059,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191962,
+      "num": 191962,
+      "word": "吴千语 我长得也像作的",
+      "onboard_time": 1702394209,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191749,
       "num": 191749,
       "word": "圆脸氛围感刘海",
@@ -2081,6 +2129,14 @@
       "onboard_time": 1702348232,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190901,
+      "num": 190901,
+      "word": "何浩楠 有机肥指标已完成",
+      "onboard_time": 1702393620,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 190703,
@@ -2507,6 +2563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153026,
+      "num": 176953,
+      "word": "江苏下雪",
+      "onboard_time": 1702393853,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152627,
       "num": 152627,
       "word": "中级经济师 等成绩",
@@ -2641,14 +2705,6 @@
       "onboard_time": 1702344393,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138901,
-      "num": 203657,
-      "word": "新冠变异株JN.1在12国快速蔓延",
-      "onboard_time": 1702391190,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138385,
@@ -2856,14 +2912,6 @@
       "word": "烂手算工伤吗",
       "onboard_time": 1702310325,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86575,
-      "num": 203044,
-      "word": "女孩以为手上长的是冻疮却被确诊红斑狼疮",
-      "onboard_time": 1702391664,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
