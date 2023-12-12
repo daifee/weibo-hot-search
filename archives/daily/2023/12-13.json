@@ -1,10 +1,10 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702423056492,
+  "endTime": 1702424050423,
   "band_list": [
     {
       "raw_hot": 5102313,
-      "num": 364604,
+      "num": 421098,
       "word": "周海媚去世",
       "onboard_time": 1702388629,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3843986,
-      "num": 601757,
+      "num": 652222,
       "word": "再见周芷若",
       "onboard_time": 1702389397,
       "rank": 3,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2624562,
-      "num": 597970,
+      "num": 1201502,
       "word": "周海媚生前最后一次公开亮相",
       "onboard_time": 1702390240,
       "rank": 4,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2277451,
+      "num": 2277451,
+      "word": "国家公祭日",
+      "onboard_time": 1702422987,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1539650,
@@ -35,8 +43,16 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1248961,
-      "num": 1248961,
+      "raw_hot": 1480500,
+      "num": 1480500,
+      "word": "北京停课",
+      "onboard_time": 1702422805,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1273149,
+      "num": 1273149,
       "word": "肚子越来越小的小技巧",
       "onboard_time": 1702395168,
       "rank": 22,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1132664,
-      "num": 359554,
+      "num": 418201,
       "word": "吕良伟悼念周海媚",
       "onboard_time": 1702396181,
       "rank": 11,
@@ -59,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 648559,
+      "num": 648559,
+      "word": "创业创了一半老板去考公了",
+      "onboard_time": 1702398812,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 637343,
       "num": 979267,
       "word": "结节 吃芋头",
@@ -68,11 +92,19 @@
     },
     {
       "raw_hot": 628637,
-      "num": 357056,
+      "num": 410454,
       "word": "田启文称周海媚长期受红斑狼疮困扰",
       "onboard_time": 1702376074,
       "rank": 12,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 626564,
+      "num": 626564,
+      "word": "北京全市中小学幼儿园学生居家学习",
+      "onboard_time": 1702422628,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 607430,
@@ -99,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594023,
-      "num": 594023,
-      "word": "创业创了一半老板去考公了",
-      "onboard_time": 1702398812,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 587117,
       "num": 548713,
       "word": "拒绝休息羞耻",
       "onboard_time": 1702395703,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 574482,
+      "num": 415746,
+      "word": "众星发博悼念周海媚",
+      "onboard_time": 1702423347,
+      "rank": 12,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 571443,
@@ -203,14 +235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 305729,
-      "num": 305729,
-      "word": "北京全市中小学幼儿园学生居家学习",
-      "onboard_time": 1702422628,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 305439,
       "num": 305439,
       "word": "刘亦菲泰国游客照",
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217990,
+      "num": 217990,
+      "word": "北京发布暴雪橙色预警",
+      "onboard_time": 1702421963,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208337,
       "num": 208337,
       "word": "白米饭的绝配",
@@ -283,12 +315,12 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 194222,
-      "num": 194222,
-      "word": "北京发布暴雪橙色预警",
-      "onboard_time": 1702421963,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 188062,
+      "num": 188062,
+      "word": "1937年12月13日我们不能忘不敢忘",
+      "onboard_time": 1702423708,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182199,
@@ -297,14 +329,6 @@
       "onboard_time": 1702395168,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181392,
-      "num": 181392,
-      "word": "北京停课",
-      "onboard_time": 1702422805,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 181234,
@@ -329,6 +353,30 @@
       "onboard_time": 1702389583,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169222,
+      "num": 169222,
+      "word": "曼联0比1拜仁",
+      "onboard_time": 1702423168,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158371,
+      "num": 158371,
+      "word": "暴雪中2只东北金渐层在争霸",
+      "onboard_time": 1702421060,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156258,
+      "num": 156258,
+      "word": "考研准考证",
+      "onboard_time": 1702423409,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 153680,
@@ -403,12 +451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122287,
-      "num": 122287,
-      "word": "暴雪中2只东北金渐层在争霸",
-      "onboard_time": 1702421060,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 125012,
+      "num": 125012,
+      "word": "曼联小组垫底出局",
+      "onboard_time": 1702423708,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 120800,
@@ -435,20 +483,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107201,
+      "num": 160102,
+      "word": "为什么蚝不便宜蚝油却便宜",
+      "onboard_time": 1702387234,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102485,
       "num": 120797,
       "word": "预防系统性红斑狼疮做好这4点",
       "onboard_time": 1702390772,
       "rank": 48,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 102089,
-      "num": 102089,
-      "word": "国家公祭日",
-      "onboard_time": 1702422987,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 100765,
@@ -475,20 +523,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88425,
-      "num": 160102,
-      "word": "为什么蚝不便宜蚝油却便宜",
-      "onboard_time": 1702387234,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 85096,
+      "num": 85096,
+      "word": "国际留学生如何看待南京大屠杀",
+      "onboard_time": 1702423950,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 79141,
-      "num": 79141,
+      "raw_hot": 81186,
+      "num": 81186,
       "word": "周一围朱丹像来带孩子的",
       "onboard_time": 1702420701,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79213,
+      "num": 79213,
+      "word": "北京强降雪来袭",
+      "onboard_time": 1702423528,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74549,
@@ -499,8 +555,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70921,
-      "num": 70921,
+      "raw_hot": 73534,
+      "num": 73534,
       "word": "我的少女时代导演离婚",
       "onboard_time": 1702419257,
       "rank": 49,
@@ -524,7 +580,7 @@
     },
     {
       "raw_hot": 54981,
-      "num": 605089,
+      "num": 1313988,
       "word": "强信心看数据",
       "onboard_time": 1702388257,
       "rank": 2,
