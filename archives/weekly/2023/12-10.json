@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702365391761,
+  "endTime": 1702366439149,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -483,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1242729,
+      "num": 1242729,
+      "word": "这就是双休的意义",
+      "onboard_time": 1702363776,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1221852,
       "num": 1221852,
       "word": "国乒混团世界杯夺冠",
@@ -585,14 +593,6 @@
       "onboard_time": 1702178553,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1069133,
-      "num": 1069133,
-      "word": "这就是双休的意义",
-      "onboard_time": 1702363776,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 1068968,
@@ -763,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 904616,
+      "num": 575701,
+      "word": "女子无力还款丈夫花2400万买房",
+      "onboard_time": 1702363356,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 898527,
       "num": 888681,
       "word": "小S发文悼念范玮琪妈妈",
@@ -849,14 +857,6 @@
       "onboard_time": 1702291715,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 846768,
-      "num": 575701,
-      "word": "女子无力还款丈夫花2400万买房",
-      "onboard_time": 1702363356,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 844483,
@@ -1123,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704050,
+      "num": 704050,
+      "word": "刘亦菲王鹤棣 长陵",
+      "onboard_time": 1702363953,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 702731,
       "num": 702731,
       "word": "北京下雪了 羊的天塌了",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1702300732,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 673132,
-      "num": 553868,
-      "word": "刘亦菲王鹤棣 长陵",
-      "onboard_time": 1702363953,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 671463,
@@ -1651,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516857,
+      "num": 266731,
+      "word": "一碗30元的网红面馆卖不动了",
+      "onboard_time": 1702365154,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 516058,
       "num": 516058,
       "word": "虞书欣 哇哦",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1702293454,
       "rank": 13,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 486365,
+      "num": 486365,
+      "word": "五哈4开录",
+      "onboard_time": 1702366056,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 486100,
@@ -1985,6 +2001,14 @@
       "onboard_time": 1702342597,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444894,
+      "num": 355639,
+      "word": "主办方回应杨丞琳演唱会言论",
+      "onboard_time": 1702365393,
+      "rank": 16,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 443364,
@@ -2779,6 +2803,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333743,
+      "num": 333743,
+      "word": "EDG Meiko",
+      "onboard_time": 1702364696,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 333665,
+      "num": 333665,
+      "word": "LPL全华班",
+      "onboard_time": 1702364597,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 331466,
       "num": 331466,
       "word": "4岁女孩穿汉服滑雪如御剑飞行",
@@ -2968,22 +3008,6 @@
       "word": "WBG官宣Weiwei离队",
       "onboard_time": 1702348772,
       "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 306801,
-      "num": 306801,
-      "word": "EDG Meiko",
-      "onboard_time": 1702364696,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 306599,
-      "num": 306599,
-      "word": "LPL全华班",
-      "onboard_time": 1702364597,
-      "rank": 22,
       "category": "电竞"
     },
     {
@@ -3395,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275721,
+      "num": 252912,
+      "word": "何润东同车副导演断了一根牙齿",
+      "onboard_time": 1702364915,
+      "rank": 32,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 274300,
       "num": 274300,
       "word": "鬼灭之刃第四季预告",
@@ -3523,14 +3555,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 265748,
-      "num": 265748,
-      "word": "一碗30元的网红面馆卖不动了",
-      "onboard_time": 1702365154,
-      "rank": 25,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 265348,
       "num": 265348,
       "word": "宋江 奶狗脸配狼狗身材",
@@ -3555,11 +3579,27 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 264049,
+      "num": 234754,
+      "word": "80平房改成6居室",
+      "onboard_time": 1702365154,
+      "rank": 33,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 263875,
       "num": 250866,
       "word": "阿音和嫋嫋打架谁能赢",
       "onboard_time": 1702196253,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263809,
+      "num": 246760,
+      "word": "张凌赫古代羽绒拖鞋路透",
+      "onboard_time": 1702365813,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3867,6 +3907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240139,
+      "num": 240139,
+      "word": "学生想出国被外教劝回",
+      "onboard_time": 1702365636,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239923,
       "num": 239923,
       "word": "熬夜的危害比你想象的还要大",
@@ -3985,6 +4033,14 @@
       "onboard_time": 1702346795,
       "rank": 34,
       "category": "剧集,社会新闻"
+    },
+    {
+      "raw_hot": 234605,
+      "num": 234605,
+      "word": "歌词适配APP宣布永久下架",
+      "onboard_time": 1702365756,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 234467,
@@ -4225,14 +4281,6 @@
       "onboard_time": 1702174593,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225226,
-      "num": 225226,
-      "word": "何润东同车副导演断了一根牙齿",
-      "onboard_time": 1702364915,
-      "rank": 32,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 224821,
@@ -4563,6 +4611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210088,
+      "num": 210088,
+      "word": "AI大战包饺子癫公",
+      "onboard_time": 1702365333,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210023,
       "num": 210023,
       "word": "乌梅子酱Spotify全球华语播放第一",
@@ -4793,14 +4849,6 @@
       "onboard_time": 1702172249,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 204063,
-      "num": 204063,
-      "word": "80平房改成6居室",
-      "onboard_time": 1702365154,
-      "rank": 33,
-      "category": "休闲"
     },
     {
       "raw_hot": 203908,
@@ -5243,6 +5291,14 @@
       "category": "读书作家,社会新闻"
     },
     {
+      "raw_hot": 188416,
+      "num": 234796,
+      "word": "过量服用某些感冒药物可能致幻",
+      "onboard_time": 1702365214,
+      "rank": 34,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 188221,
       "num": 386937,
       "word": "2女子路遇3男子性骚扰勇敢拍下",
@@ -5256,6 +5312,14 @@
       "word": "鸣龙少年 假唱一点也不真诚",
       "onboard_time": 1702353995,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187720,
+      "num": 187720,
+      "word": "古装剧已经进化到这样了",
+      "onboard_time": 1702365035,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -5819,6 +5883,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 168725,
+      "num": 168725,
+      "word": "跨年晚会 真唱",
+      "onboard_time": 1702366356,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168665,
       "num": 168665,
       "word": "数学最初和最终的样子",
@@ -6259,14 +6331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 151532,
-      "num": 151532,
-      "word": "古装剧已经进化到这样了",
-      "onboard_time": 1702365035,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151340,
       "num": 139102,
       "word": "宋江 客观的帅",
@@ -6467,12 +6531,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 145462,
-      "num": 202936,
-      "word": "过量服用某些感冒药物可能致幻",
-      "onboard_time": 1702365214,
-      "rank": 34,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 145500,
+      "num": 145500,
+      "word": "中国累计培养1100多万研究生",
+      "onboard_time": 1702366234,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 145265,
@@ -6848,14 +6912,6 @@
       "word": "橘猫真的各有各的怪",
       "onboard_time": 1702203694,
       "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 134904,
-      "num": 134904,
-      "word": "AI大战包饺子癫公",
-      "onboard_time": 1702365333,
-      "rank": 49,
       "category": "幽默"
     },
     {
