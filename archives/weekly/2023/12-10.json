@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702376380429,
+  "endTime": 1702377433405,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3135774,
+      "num": 3135774,
+      "word": "新冠",
+      "onboard_time": 1702373557,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3047145,
       "num": 3047145,
       "word": "河南媒体评杨丞琳道歉",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 2598822,
-      "num": 366256,
+      "num": 418610,
       "word": "研究称生两个孩子最有利于长寿",
       "onboard_time": 1702369474,
       "rank": 20,
@@ -145,14 +153,6 @@
       "onboard_time": 1702298565,
       "rank": 6,
       "category": "艺人,健康医疗"
-    },
-    {
-      "raw_hot": 2344187,
-      "num": 2344187,
-      "word": "新冠",
-      "onboard_time": 1702373557,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2329374,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1438720,
+      "num": 1438720,
+      "word": "狐妖小红娘 易主",
+      "onboard_time": 1702373434,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1366301,
       "num": 1366301,
       "word": "新闻女王 郑伯病逝",
@@ -481,14 +489,6 @@
       "onboard_time": 1702205915,
       "rank": 11,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1278714,
-      "num": 1278714,
-      "word": "狐妖小红娘 易主",
-      "onboard_time": 1702373434,
-      "rank": 30,
-      "category": "动漫"
     },
     {
       "raw_hot": 1268476,
@@ -593,6 +593,14 @@
       "onboard_time": 1702193853,
       "rank": 4,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1154209,
+      "num": 1154209,
+      "word": "易烊千玺 评委",
+      "onboard_time": 1702376855,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1150719,
@@ -801,6 +809,14 @@
       "onboard_time": 1702261954,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 907769,
+      "num": 907769,
+      "word": "田启文称周海媚长期受红斑狼疮困扰",
+      "onboard_time": 1702376074,
+      "rank": 12,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 907111,
@@ -1235,6 +1251,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 687100,
+      "num": 687100,
+      "word": "杨丞琳演唱会主办方已经营异常",
+      "onboard_time": 1702376255,
+      "rank": 44,
+      "category": "演出,社会新闻"
+    },
+    {
       "raw_hot": 685795,
       "num": 685795,
       "word": "北京下雪",
@@ -1587,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 566467,
+      "num": 1705202,
+      "word": "宝宝抱住两个月不见的爷爷亲个不停",
+      "onboard_time": 1702374635,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565268,
       "num": 565268,
       "word": "老人握妻子手买人生第一套房",
@@ -1617,6 +1649,14 @@
       "onboard_time": 1702339897,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 555990,
+      "num": 555990,
+      "word": "成都地铁偷拍案影响扩大系男方责任",
+      "onboard_time": 1702376135,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554185,
@@ -1657,6 +1697,14 @@
       "onboard_time": 1702295433,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 541295,
+      "num": 541295,
+      "word": "一个人骂我 说明不了什么",
+      "onboard_time": 1702373076,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 539970,
@@ -1851,28 +1899,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492304,
-      "num": 492304,
-      "word": "田启文称周海媚长期受红斑狼疮困扰",
-      "onboard_time": 1702376074,
-      "rank": 12,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 492293,
       "num": 492293,
       "word": "朱丹说没有被湖南台封杀过",
       "onboard_time": 1702375233,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 491904,
-      "num": 491904,
-      "word": "一个人骂我 说明不了什么",
-      "onboard_time": 1702373076,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 491886,
@@ -2163,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436988,
+      "num": 436988,
+      "word": "给王鹤棣找个配音吧",
+      "onboard_time": 1702376015,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 436067,
       "num": 436067,
       "word": "光遇",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1702177230,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434793,
+      "num": 434793,
+      "word": "结节 吃芋头",
+      "onboard_time": 1702376496,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 434609,
@@ -2419,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394107,
+      "num": 1286941,
+      "word": "杭州大一学生论文被全球顶级会议录用",
+      "onboard_time": 1702374635,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392959,
       "num": 392959,
       "word": "湖人vs步行者",
@@ -2625,14 +2681,6 @@
       "onboard_time": 1702227565,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366803,
-      "num": 1705202,
-      "word": "宝宝抱住两个月不见的爷爷亲个不停",
-      "onboard_time": 1702374635,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365148,
@@ -2955,6 +3003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 332887,
+      "num": 332887,
+      "word": "微信支付上线先学后付",
+      "onboard_time": 1702375777,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 331466,
       "num": 331466,
       "word": "4岁女孩穿汉服滑雪如御剑飞行",
@@ -3001,6 +3057,14 @@
       "onboard_time": 1702349372,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 324935,
+      "num": 324935,
+      "word": "暗河传 龚俊",
+      "onboard_time": 1702374580,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 324728,
@@ -3073,14 +3137,6 @@
       "onboard_time": 1702266691,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 312254,
-      "num": 312254,
-      "word": "暗河传 龚俊",
-      "onboard_time": 1702374580,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 310716,
@@ -3489,14 +3545,6 @@
       "onboard_time": 1702285355,
       "rank": 23,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 283404,
-      "num": 1286941,
-      "word": "杭州大一学生论文被全球顶级会议录用",
-      "onboard_time": 1702374635,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281766,
@@ -3979,14 +4027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 251369,
-      "num": 251369,
-      "word": "微信支付上线先学后付",
-      "onboard_time": 1702375777,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 251234,
       "num": 251234,
       "word": "下雪后的北京秒变北平",
@@ -4257,6 +4297,14 @@
       "onboard_time": 1702177531,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236399,
+      "num": 236399,
+      "word": "懂车帝发布声明",
+      "onboard_time": 1702376255,
+      "rank": 40,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 236156,
@@ -4835,14 +4883,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 212370,
-      "num": 212370,
-      "word": "给王鹤棣找个配音吧",
-      "onboard_time": 1702376015,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212062,
       "num": 212062,
       "word": "今年的最后三周你有什么安排",
@@ -4945,6 +4985,14 @@
       "onboard_time": 1702371873,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208552,
+      "num": 208552,
+      "word": "去父母化",
+      "onboard_time": 1702376737,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 208468,
@@ -5177,6 +5225,14 @@
       "onboard_time": 1702375712,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202914,
+      "num": 202914,
+      "word": "墨尔本城vs浙江队",
+      "onboard_time": 1702377096,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 202712,
@@ -5515,6 +5571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193056,
+      "num": 1087444,
+      "word": "偷偷买了跟爸爸同班高铁回家",
+      "onboard_time": 1702374935,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192983,
       "num": 192983,
       "word": "宁艺卓忘了微博密码",
@@ -5593,14 +5657,6 @@
       "onboard_time": 1702310618,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189899,
-      "num": 189899,
-      "word": "懂车帝发布声明",
-      "onboard_time": 1702376255,
-      "rank": 40,
-      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 189643,
@@ -5995,14 +6051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178431,
-      "num": 178431,
-      "word": "成都地铁偷拍案影响扩大系男方责任",
-      "onboard_time": 1702376135,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178089,
       "num": 1835923,
       "word": "国家卫健委介绍冬季呼吸道疾病防治情况",
@@ -6203,14 +6251,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 172976,
-      "num": 1068110,
-      "word": "偷偷买了跟爸爸同班高铁回家",
-      "onboard_time": 1702374935,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172768,
       "num": 172768,
       "word": "RNG大名单",
@@ -6233,6 +6273,14 @@
       "onboard_time": 1702172012,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171887,
+      "num": 171887,
+      "word": "腾讯动漫核心资产6亿元卖身阅文集团",
+      "onboard_time": 1702377034,
+      "rank": 43,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 171651,
@@ -6353,14 +6401,6 @@
       "onboard_time": 1702279532,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 167648,
-      "num": 167648,
-      "word": "杨丞琳演唱会主办方已经营异常",
-      "onboard_time": 1702376255,
-      "rank": 44,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 167550,
@@ -7041,6 +7081,14 @@
       "onboard_time": 1702170990,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143549,
+      "num": 143549,
+      "word": "鼻炎手术 鼻头变尖",
+      "onboard_time": 1702375653,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 143528,
@@ -7892,7 +7940,7 @@
     },
     {
       "raw_hot": 92595,
-      "num": 1428713,
+      "num": 1562075,
       "word": "在河内感受中越人文相亲",
       "onboard_time": 1702374513,
       "rank": 2,
