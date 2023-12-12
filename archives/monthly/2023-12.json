@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702362986585,
+  "endTime": 1702365391761,
   "band_list": [
     {
       "raw_hot": 11778387,
@@ -2171,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1249488,
+      "num": 1249488,
+      "word": "何猷君富得没见过世面",
+      "onboard_time": 1702360653,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1248477,
       "num": 1248477,
       "word": "主播陈一发儿疑似复出再被封",
@@ -2219,14 +2227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1233822,
-      "num": 1233822,
-      "word": "何猷君富得没见过世面",
-      "onboard_time": 1702360653,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1222631,
       "num": 1222631,
       "word": "国乒8比5日本",
@@ -2241,6 +2241,14 @@
       "onboard_time": 1702213718,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1221735,
+      "num": 1221735,
+      "word": "马天宇 我以为宋江是宋江",
+      "onboard_time": 1702362156,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 1218449,
@@ -2625,6 +2633,14 @@
       "onboard_time": 1701574052,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1069133,
+      "num": 1069133,
+      "word": "这就是双休的意义",
+      "onboard_time": 1702363776,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1068968,
@@ -3523,6 +3539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 846768,
+      "num": 575701,
+      "word": "女子无力还款丈夫花2400万买房",
+      "onboard_time": 1702363356,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 844483,
       "num": 844483,
       "word": "华润集团曝光四家假央企",
@@ -4051,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756718,
+      "num": 756718,
+      "word": "父亲 降吧",
+      "onboard_time": 1702357420,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 756518,
       "num": 756518,
       "word": "小杨哥徒弟复播仅3分钟再被封",
@@ -4313,14 +4345,6 @@
       "onboard_time": 1701732988,
       "rank": 7,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 722160,
-      "num": 722160,
-      "word": "父亲 降吧",
-      "onboard_time": 1702357420,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 721855,
@@ -4779,6 +4803,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 673132,
+      "num": 553868,
+      "word": "刘亦菲王鹤棣 长陵",
+      "onboard_time": 1702363953,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 672876,
       "num": 672876,
       "word": "春晚导演看完汗流浃背了",
@@ -4995,14 +5027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 653488,
-      "num": 565965,
-      "word": "马天宇 我以为宋江是宋江",
-      "onboard_time": 1702362156,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 651338,
       "num": 651338,
       "word": "山河图 好燃",
@@ -5153,6 +5177,14 @@
       "onboard_time": 1701419796,
       "rank": 6,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 641324,
+      "num": 669997,
+      "word": "专家建议发放3万亿生育补贴",
+      "onboard_time": 1702360113,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 641310,
@@ -5737,14 +5769,6 @@
       "onboard_time": 1701875022,
       "rank": 7,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 590154,
-      "num": 669997,
-      "word": "专家建议发放3万亿生育补贴",
-      "onboard_time": 1702360113,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 589704,
@@ -6521,6 +6545,14 @@
       "onboard_time": 1702186177,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538028,
+      "num": 538028,
+      "word": "和肖四大战简称肖战",
+      "onboard_time": 1702363178,
+      "rank": 12,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 537919,
@@ -13075,12 +13107,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 306801,
+      "num": 306801,
+      "word": "EDG Meiko",
+      "onboard_time": 1702364696,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 306797,
       "num": 301767,
       "word": "窦靖童 打回原形",
       "onboard_time": 1701687878,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 306599,
+      "num": 306599,
+      "word": "LPL全华班",
+      "onboard_time": 1702364597,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 306568,
@@ -13169,6 +13217,14 @@
       "onboard_time": 1701924762,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305660,
+      "num": 305660,
+      "word": "央视2024年电视剧片单",
+      "onboard_time": 1702365154,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 305222,
@@ -15515,6 +15571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265748,
+      "num": 265748,
+      "word": "一碗30元的网红面馆卖不动了",
+      "onboard_time": 1702365154,
+      "rank": 25,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 265717,
       "num": 265717,
       "word": "奥沙利文致谢丁俊晖",
@@ -15945,6 +16009,14 @@
       "onboard_time": 1702192412,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 257550,
+      "num": 257550,
+      "word": "和好朋友合租的下场",
+      "onboard_time": 1702363114,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 257510,
@@ -17755,6 +17827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230576,
+      "num": 230576,
+      "word": "男子结婚当天抽空去考编",
+      "onboard_time": 1702363776,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 230388,
       "num": 230388,
       "word": "王一博陈宇来山东卫视了",
@@ -18233,6 +18313,14 @@
       "onboard_time": 1702174593,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225226,
+      "num": 225226,
+      "word": "何润东同车副导演断了一根牙齿",
+      "onboard_time": 1702364915,
+      "rank": 32,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 225173,
@@ -20297,6 +20385,14 @@
       "onboard_time": 1702132121,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204063,
+      "num": 204063,
+      "word": "80平房改成6居室",
+      "onboard_time": 1702365154,
+      "rank": 33,
+      "category": "休闲"
     },
     {
       "raw_hot": 203908,
@@ -23275,6 +23371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178650,
+      "num": 178650,
+      "word": "请把我丢在这样的地方住一辈子",
+      "onboard_time": 1702364436,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178494,
       "num": 178494,
       "word": "鸣龙少年 原生家庭",
@@ -23547,6 +23651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175175,
+      "num": 175175,
+      "word": "林宥嘉 跨年",
+      "onboard_time": 1702364134,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175057,
       "num": 175057,
       "word": "莎头内场采访",
@@ -23769,6 +23881,14 @@
       "onboard_time": 1701519092,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172768,
+      "num": 172768,
+      "word": "RNG大名单",
+      "onboard_time": 1702363295,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 172646,
@@ -24499,6 +24619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165581,
+      "num": 165581,
+      "word": "吴千语妈妈 典型的东亚打骂教育",
+      "onboard_time": 1702364314,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165576,
       "num": 165576,
       "word": "子宫为什么会脱垂",
@@ -25129,6 +25257,14 @@
       "onboard_time": 1702226787,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159040,
+      "num": 159040,
+      "word": "女大学生 踏平冀州",
+      "onboard_time": 1702362812,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159016,
@@ -25875,6 +26011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151532,
+      "num": 151532,
+      "word": "古装剧已经进化到这样了",
+      "onboard_time": 1702365035,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151501,
       "num": 151501,
       "word": "神隐逗趣三界版预告",
@@ -26553,6 +26697,14 @@
       "onboard_time": 1701569195,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145462,
+      "num": 202936,
+      "word": "过量服用某些感冒药物可能致幻",
+      "onboard_time": 1702365214,
+      "rank": 34,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 145265,
@@ -27371,14 +27523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138284,
-      "num": 138284,
-      "word": "女大学生 踏平冀州",
-      "onboard_time": 1702362812,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138085,
       "num": 581248,
       "word": "龙墩墩开售啦",
@@ -27705,6 +27849,14 @@
       "onboard_time": 1701691296,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134904,
+      "num": 134904,
+      "word": "AI大战包饺子癫公",
+      "onboard_time": 1702365333,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 134751,
