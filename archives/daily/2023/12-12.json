@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702337667854,
+  "endTime": 1702343830202,
   "band_list": [
     {
       "raw_hot": 3099903,
@@ -11,12 +11,36 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2329374,
+      "num": 2329374,
+      "word": "周海媚工作室 电话",
+      "onboard_time": 1702340797,
+      "rank": 0,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 2280945,
       "num": 2280945,
       "word": "最早爆料周海媚去世者已删除博文",
       "onboard_time": 1702309425,
       "rank": 1,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1955776,
+      "num": 1955776,
+      "word": "体脂不断下降的好习惯",
+      "onboard_time": 1702305179,
+      "rank": 10,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 1591084,
+      "num": 1591084,
+      "word": "多所高校明确不提供宿舍",
+      "onboard_time": 1702339052,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1430692,
@@ -43,12 +67,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 908207,
-      "num": 908207,
-      "word": "体脂不断下降的好习惯",
-      "onboard_time": 1702305179,
-      "rank": 10,
-      "category": "运动健身"
+      "raw_hot": 917329,
+      "num": 917329,
+      "word": "为什么刚起床后手握不紧",
+      "onboard_time": 1702306139,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 881729,
@@ -57,14 +81,6 @@
       "onboard_time": 1702306612,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862246,
-      "num": 862246,
-      "word": "为什么刚起床后手握不紧",
-      "onboard_time": 1702306139,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 813781,
@@ -107,12 +123,28 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 557252,
+      "num": 273521,
+      "word": "未来婆婆说我家庭复杂不同意婚事",
+      "onboard_time": 1702339897,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 517930,
       "num": 517930,
       "word": "宋轶 使用小号之后会发现世界安静了",
       "onboard_time": 1702304876,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491225,
+      "num": 491225,
+      "word": "中药只管吃不要打听",
+      "onboard_time": 1702339174,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 440171,
@@ -131,6 +163,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396788,
+      "num": 396788,
+      "word": "天津警方通报医院厕所发现弃婴",
+      "onboard_time": 1702340617,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352633,
+      "num": 352633,
+      "word": "88岁老太患癌医生顶压力劝手术如今快百岁",
+      "onboard_time": 1702341636,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342373,
+      "num": 342373,
+      "word": "游泳运动员的身材谁看了不迷糊",
+      "onboard_time": 1702342834,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339678,
       "num": 339678,
       "word": "Ning 可惜没有机会",
@@ -147,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310151,
+      "num": 310151,
+      "word": "大奉打更人",
+      "onboard_time": 1702342597,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303519,
       "num": 303519,
       "word": "网购衣服里发现焉栩嘉登机牌",
@@ -161,6 +225,22 @@
       "onboard_time": 1702299280,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300904,
+      "num": 276836,
+      "word": "王鹤棣从不让粉丝的爱掉在地上",
+      "onboard_time": 1702341099,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285243,
+      "num": 285243,
+      "word": "多地回应新房打折引发老业主不满",
+      "onboard_time": 1702342059,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281111,
@@ -187,6 +267,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255486,
+      "num": 255486,
+      "word": "1亿人正在经历这种被忽视的不定时疼痛",
+      "onboard_time": 1702335984,
+      "rank": 26,
+      "category": "健康医疗,社会议题"
+    },
+    {
+      "raw_hot": 242780,
+      "num": 242780,
+      "word": "明年起广州地铁内将禁止电子设备外放声音",
+      "onboard_time": 1702343016,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237941,
+      "num": 237941,
+      "word": "WBG老板回应TheShy转会舆论",
+      "onboard_time": 1702339656,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236564,
       "num": 236564,
       "word": "棣欣引力 湖南卫视跨年",
@@ -201,6 +305,38 @@
       "onboard_time": 1702304036,
       "rank": 35,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 230680,
+      "num": 230680,
+      "word": "真正的睡觉vs虚假的睡觉",
+      "onboard_time": 1702330393,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 230299,
+      "num": 230299,
+      "word": "张若昀没有一个镜头是白给",
+      "onboard_time": 1702342236,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230266,
+      "num": 230266,
+      "word": "谁给赵露思李昀锐递个两情相悦的本子",
+      "onboard_time": 1702342179,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218936,
+      "num": 218936,
+      "word": "坚持练背真的提升气质",
+      "onboard_time": 1702339295,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 218113,
@@ -219,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214968,
+      "num": 214968,
+      "word": "济南全市中小学幼儿园转为线上教学",
+      "onboard_time": 1702337069,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213670,
       "num": 213670,
       "word": "王鹤棣 杀青",
@@ -232,6 +376,14 @@
       "word": "瑞幸咖啡师烂手之痛",
       "onboard_time": 1702282713,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195482,
+      "num": 195482,
+      "word": "外嫁女嫁出村征地拆迁补偿就没份吗",
+      "onboard_time": 1702343315,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -249,6 +401,14 @@
       "onboard_time": 1702318937,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186753,
+      "num": 186753,
+      "word": "晚自习下大雪",
+      "onboard_time": 1702341578,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 184513,
@@ -275,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181861,
-      "num": 181861,
-      "word": "1亿人正在经历这种被忽视的不定时疼痛",
-      "onboard_time": 1702335984,
-      "rank": 26,
-      "category": "健康医疗,社会议题"
-    },
-    {
       "raw_hot": 178121,
       "num": 346290,
       "word": "知情人透露国羽前国手溺亡原因",
@@ -307,20 +459,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 169435,
-      "num": 183713,
-      "word": "济南全市中小学幼儿园转为线上教学",
-      "onboard_time": 1702337069,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 162325,
+      "num": 162325,
+      "word": "赵露思 电子快乐小狗",
+      "onboard_time": 1702342360,
+      "rank": 38,
+      "category": "剧集"
     },
     {
-      "raw_hot": 165212,
-      "num": 161060,
-      "word": "真正的睡觉vs虚假的睡觉",
-      "onboard_time": 1702330393,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 162053,
+      "num": 162053,
+      "word": "老头快乐水",
+      "onboard_time": 1702341398,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 161396,
@@ -355,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157569,
+      "num": 157569,
+      "word": "新闻女王导演回应张家妍黑化",
+      "onboard_time": 1702339237,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153755,
       "num": 153755,
       "word": "TheShy 故事迎来了完美结局",
@@ -369,6 +529,14 @@
       "onboard_time": 1702306369,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143926,
+      "num": 143926,
+      "word": "2023年度爱用腮红",
+      "onboard_time": 1702342538,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 137210,
@@ -403,12 +571,28 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 133788,
+      "num": 133788,
+      "word": "C罗第八次年度50球",
+      "onboard_time": 1702339957,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129696,
       "num": 129696,
       "word": "苹果老龄化",
       "onboard_time": 1702287694,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 122738,
+      "num": 122738,
+      "word": "亚洲地区的未来掌握在亚洲人民自己手中",
+      "onboard_time": 1702341517,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120344,
@@ -425,6 +609,14 @@
       "onboard_time": 1702301811,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114931,
+      "num": 114931,
+      "word": "讨好型人格真的很累",
+      "onboard_time": 1702340677,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99911,
@@ -595,20 +787,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14734,
+      "num": 1609413,
+      "word": "太空视角见证中国式现代化",
+      "onboard_time": 1702195112,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13380,
       "num": 16429,
       "word": "盗笔大学的教学评价",
       "onboard_time": 1702325173,
       "rank": 46,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 7454,
-      "num": 927948,
-      "word": "太空视角见证中国式现代化",
-      "onboard_time": 1702195112,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
