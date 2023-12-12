@@ -1,0 +1,410 @@
+{
+  "runTime": 1702352087039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064160,
+        "num": 1064160,
+        "word": "多所高校明确不提供宿舍",
+        "onboard_time": 1702339052,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791948,
+        "num": 791948,
+        "word": "动手的那瞬间发现是小女儿后",
+        "onboard_time": 1702345652,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116063,
+        "num": 685066,
+        "word": "2023那些闪闪发光的00后",
+        "onboard_time": 1702349432,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1945975,
+        "num": 672160,
+        "word": "知情人称周海媚还在医院治疗中",
+        "onboard_time": 1702347272,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 611634,
+        "num": 611634,
+        "word": "律师致函江西民政要求公开彩票事件信息",
+        "onboard_time": 1702347454,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580269,
+        "num": 580269,
+        "word": "水逆来了 重灾区星座要小心",
+        "onboard_time": 1702349613,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 563517,
+        "num": 563517,
+        "word": "王鹤棣田曦薇杀青照",
+        "onboard_time": 1702349673,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563096,
+        "num": 563096,
+        "word": "加拿大鹅9500元羽绒服被疑瑕疵品",
+        "onboard_time": 1702346312,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539970,
+        "num": 539970,
+        "word": "女孩讲历史太火被博物馆排队送礼",
+        "onboard_time": 1702344635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539652,
+        "num": 539652,
+        "word": "为什么年轻人讨厌接电话",
+        "onboard_time": 1702344635,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1430716,
+        "num": 530534,
+        "word": "破产姐妹Max演员结婚",
+        "onboard_time": 1702346073,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508240,
+        "num": 508240,
+        "word": "为什么有些年轻人上班不带包",
+        "onboard_time": 1702350754,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490118,
+        "num": 490118,
+        "word": "我是不结婚 不是不交电费",
+        "onboard_time": 1702297181,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 485095,
+        "num": 485095,
+        "word": "宋江金裕贞",
+        "onboard_time": 1702347574,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17788,
+        "num": 421072,
+        "word": "一曲阔唱响重庆热血滚烫",
+        "onboard_time": 1702351056,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415137,
+        "num": 415137,
+        "word": "著名编剧谭飞辟谣周海媚过世",
+        "onboard_time": 1702346496,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 369523,
+        "num": 369523,
+        "word": "周海媚",
+        "onboard_time": 1702293694,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 364877,
+        "num": 364877,
+        "word": "专家称元旦前后或有一波新冠感染高峰",
+        "onboard_time": 1702345652,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363965,
+        "num": 363965,
+        "word": "男子拉肚子医生多问一句跑赢死神",
+        "onboard_time": 1702306612,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352549,
+        "num": 352549,
+        "word": "最高法呼吁取消高额彩礼",
+        "onboard_time": 1702344098,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440342,
+        "num": 351913,
+        "word": "28岁女子第20次裸辞",
+        "onboard_time": 1702347634,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345997,
+        "num": 345997,
+        "word": "刘亚仁出庭受审",
+        "onboard_time": 1702351232,
+        "rank": 21,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 341453,
+        "num": 341453,
+        "word": "青椒拿铁",
+        "onboard_time": 1702349852,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 303740,
+        "num": 303740,
+        "word": "刘诗诗回应观众想看任如意秀腹肌",
+        "onboard_time": 1702349071,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290776,
+        "num": 290776,
+        "word": "为什么年轻人越来越不喜欢人情世故",
+        "onboard_time": 1702348953,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276201,
+        "num": 276201,
+        "word": "中药只管吃不要打听",
+        "onboard_time": 1702339174,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270249,
+        "num": 270249,
+        "word": "WBG官宣Weiwei离队",
+        "onboard_time": 1702348772,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269538,
+        "num": 269538,
+        "word": "薛之谦 小杨哥",
+        "onboard_time": 1702304693,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261820,
+        "num": 261820,
+        "word": "周杰伦 开不了口",
+        "onboard_time": 1702349372,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255418,
+        "num": 255418,
+        "word": "体脂不断下降的好习惯",
+        "onboard_time": 1702305179,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 253706,
+        "num": 253706,
+        "word": "佰草集 檀健次",
+        "onboard_time": 1702351413,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238746,
+        "num": 238746,
+        "word": "大奉打更人首发预告",
+        "onboard_time": 1702349732,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231767,
+        "num": 231767,
+        "word": "宋轶 使用小号之后会发现世界安静了",
+        "onboard_time": 1702304876,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225196,
+        "num": 225196,
+        "word": "未来婆婆说我家庭复杂不同意婚事",
+        "onboard_time": 1702339897,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217538,
+        "num": 217538,
+        "word": "王鹤棣杀青哽咽",
+        "onboard_time": 1702350334,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206376,
+        "num": 206376,
+        "word": "降温",
+        "onboard_time": 1702351174,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202218,
+        "num": 202218,
+        "word": "红斑狼疮高发人群是年轻女性",
+        "onboard_time": 1702308530,
+        "rank": 36,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 200080,
+        "num": 200080,
+        "word": "一旦一个人宣布她不再乱花钱",
+        "onboard_time": 1702346373,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190560,
+        "num": 190560,
+        "word": "WBG宣布TheShy离队",
+        "onboard_time": 1702308048,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182534,
+        "num": 182534,
+        "word": "体育老师问班主任借课打雪仗",
+        "onboard_time": 1702350033,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170785,
+        "num": 170785,
+        "word": "iOS17.2正式版新增翻译功能",
+        "onboard_time": 1702346614,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164549,
+        "num": 164549,
+        "word": "巴黎大街上女性发型",
+        "onboard_time": 1702343857,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161340,
+        "num": 161340,
+        "word": "16名雪雕师7天雕出巨型雪龙",
+        "onboard_time": 1702350214,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155218,
+        "num": 155218,
+        "word": "88岁老太患癌医生顶压力劝手术如今快百岁",
+        "onboard_time": 1702341636,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144901,
+        "num": 144901,
+        "word": "TheShy 我想休息一下",
+        "onboard_time": 1702307869,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142476,
+        "num": 142476,
+        "word": "越南观众有多爱中国电视剧",
+        "onboard_time": 1702346795,
+        "rank": 45,
+        "category": "剧集,社会新闻"
+      },
+      {
+        "raw_hot": 140851,
+        "num": 140851,
+        "word": "RNG官宣Breathe续约",
+        "onboard_time": 1702345233,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140088,
+        "num": 140088,
+        "word": "山东千里寻亲遭拒女生发声",
+        "onboard_time": 1702347031,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133017,
+        "num": 133017,
+        "word": "大奉打更人",
+        "onboard_time": 1702342597,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128240,
+        "num": 128240,
+        "word": "成毅 情绪跟细节拿捏精准",
+        "onboard_time": 1702348533,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在越南媒体发表署名文章#"
+    }
+  }
+}
