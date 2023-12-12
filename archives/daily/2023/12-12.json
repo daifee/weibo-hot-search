@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702380836529,
+  "endTime": 1702384444160,
   "band_list": [
     {
       "raw_hot": 3671070,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2134674,
+      "num": 932787,
+      "word": "同居且怀孕流产分手后女子被判还彩礼",
+      "onboard_time": 1702380033,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1955776,
       "num": 1955776,
       "word": "体脂不断下降的好习惯",
@@ -131,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1549034,
-      "num": 1549034,
+      "raw_hot": 1672028,
+      "num": 1672028,
       "word": "结节 吃芋头",
       "onboard_time": 1702376496,
       "rank": 18,
@@ -169,6 +177,14 @@
       "onboard_time": 1702307869,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1279297,
+      "num": 1279297,
+      "word": "骄阳似我 张凌赫魏大勋",
+      "onboard_time": 1702383275,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1257258,
@@ -235,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 923240,
+      "num": 377774,
+      "word": "易孕体质是没有科学避孕",
+      "onboard_time": 1702382433,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 917329,
       "num": 917329,
       "word": "为什么刚起床后手握不紧",
@@ -265,6 +289,14 @@
       "onboard_time": 1702346496,
       "rank": 5,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 857266,
+      "num": 857266,
+      "word": "菜鸟 取件码呢",
+      "onboard_time": 1702383814,
+      "rank": 4,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 814130,
@@ -371,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 688523,
+      "num": 688523,
+      "word": "好莱坞富二代涉嫌分尸华人妻子",
+      "onboard_time": 1702378775,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687100,
       "num": 687100,
       "word": "杨丞琳演唱会主办方已经营异常",
@@ -425,14 +465,6 @@
       "onboard_time": 1702304693,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 644366,
-      "num": 538386,
-      "word": "同居且怀孕流产分手后女子被判还彩礼",
-      "onboard_time": 1702380033,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 643566,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 545059,
-      "num": 298181,
+      "num": 337558,
       "word": "Meiko CPU拍卖35.7万",
       "onboard_time": 1702379374,
       "rank": 35,
@@ -561,6 +593,14 @@
       "onboard_time": 1702363178,
       "rank": 12,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 529542,
+      "num": 529542,
+      "word": "TES Meiko",
+      "onboard_time": 1702381713,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 517930,
@@ -593,6 +633,14 @@
       "onboard_time": 1702360895,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496343,
+      "num": 496343,
+      "word": "最讨厌那个杨大爷了",
+      "onboard_time": 1702381957,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 492293,
@@ -659,14 +707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 460657,
-      "num": 460657,
-      "word": "好莱坞富二代涉嫌分尸华人妻子",
-      "onboard_time": 1702378775,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460025,
       "num": 460025,
       "word": "吴青峰曾多次失声",
@@ -697,6 +737,14 @@
       "onboard_time": 1702356578,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 447473,
+      "num": 447473,
+      "word": "虞书欣 机器人台词",
+      "onboard_time": 1702380455,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 445260,
@@ -819,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384174,
+      "num": 249259,
+      "word": "朱丹周一围 衣服互穿",
+      "onboard_time": 1702384175,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383750,
+      "num": 366371,
+      "word": "网红袖珍女孩疑遭母亲虐待",
+      "onboard_time": 1702382433,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382760,
       "num": 382760,
       "word": "微信支付上线先学后付",
@@ -851,6 +915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 374400,
+      "num": 374400,
+      "word": "小杨哥直播间 薛之谦",
+      "onboard_time": 1702383275,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364877,
       "num": 364877,
       "word": "专家称元旦前后或有一波新冠感染高峰",
@@ -865,6 +937,14 @@
       "onboard_time": 1702341636,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348279,
+      "num": 348279,
+      "word": "腾讯娱乐年度盛典 阵容",
+      "onboard_time": 1702382433,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 345997,
@@ -937,6 +1017,14 @@
       "onboard_time": 1702360295,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333845,
+      "num": 333845,
+      "word": "鼻炎手术 鼻头变尖",
+      "onboard_time": 1702375653,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 333665,
@@ -1105,6 +1193,14 @@
       "onboard_time": 1702342059,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282536,
+      "num": 282536,
+      "word": "i人遛e狗",
+      "onboard_time": 1702384055,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 281111,
@@ -1467,12 +1563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228529,
-      "num": 228529,
-      "word": "虞书欣 机器人台词",
-      "onboard_time": 1702380455,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 227864,
+      "num": 227864,
+      "word": "秦岚辛芷蕾 一个敢说一个敢接",
+      "onboard_time": 1702381234,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 224047,
@@ -1513,14 +1609,6 @@
       "onboard_time": 1702374816,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 219172,
-      "num": 219172,
-      "word": "鼻炎手术 鼻头变尖",
-      "onboard_time": 1702375653,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 218936,
@@ -1568,6 +1656,14 @@
       "word": "金莎跟张雨绮许愿的理想型就是孙丞潇",
       "onboard_time": 1702360592,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215009,
+      "num": 215009,
+      "word": "鹿晗五哈出发路透",
+      "onboard_time": 1702381296,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1651,6 +1747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204822,
+      "num": 204822,
+      "word": "在人间 赵丽颖张一山",
+      "onboard_time": 1702384357,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204747,
       "num": 204747,
       "word": "梁静茹演唱会",
@@ -1673,6 +1777,14 @@
       "onboard_time": 1702371693,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203482,
+      "num": 210739,
+      "word": "老师情绪失控让全班女生自扇耳光",
+      "onboard_time": 1702384234,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203477,
@@ -1761,6 +1873,14 @@
       "onboard_time": 1702310618,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189669,
+      "num": 189669,
+      "word": "乘务员问要不要换座位的原因",
+      "onboard_time": 1702384297,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 189428,
@@ -2083,6 +2203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159810,
+      "num": 374666,
+      "word": "荣耀保时捷要联合造车了吗",
+      "onboard_time": 1702381836,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 159803,
       "num": 159803,
       "word": "互联网最喜欢的一对情侣",
@@ -2153,6 +2281,14 @@
       "onboard_time": 1702348175,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152243,
+      "num": 189864,
+      "word": "浙江队无缘亚冠淘汰赛",
+      "onboard_time": 1702382913,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 149658,
@@ -2393,6 +2529,14 @@
       "onboard_time": 1702360414,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 108491,
+      "num": 375127,
+      "word": "KOL半壁江山都在元梦之星",
+      "onboard_time": 1702382433,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 99911,
