@@ -1,0 +1,410 @@
+{
+  "runTime": 1702372688055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2504243,
+        "num": 2504243,
+        "word": "薛之谦上上谦火锅仅剩两家",
+        "onboard_time": 1702369177,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1592115,
+        "num": 1592115,
+        "word": "这就是双休的意义",
+        "onboard_time": 1702363776,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143420,
+        "num": 1546716,
+        "word": "雪后长城氛围感拉满",
+        "onboard_time": 1702370193,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1539178,
+        "num": 1539178,
+        "word": "一碗30元的网红面馆卖不动了",
+        "onboard_time": 1702365154,
+        "rank": 3,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 906185,
+        "num": 906185,
+        "word": "郑爽被强执9050万",
+        "onboard_time": 1702356219,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 857778,
+        "num": 857778,
+        "word": "周杰伦 迪奥全球大使",
+        "onboard_time": 1702366892,
+        "rank": 5,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 724637,
+        "num": 724637,
+        "word": "马天宇 我以为宋江是宋江",
+        "onboard_time": 1702362156,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668778,
+        "num": 668778,
+        "word": "龙年 小龙女",
+        "onboard_time": 1702369177,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 604709,
+        "num": 604709,
+        "word": "跨年晚会 真唱",
+        "onboard_time": 1702366356,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492440,
+        "num": 492440,
+        "word": "专家建议发放3万亿生育补贴",
+        "onboard_time": 1702360113,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459834,
+        "num": 459834,
+        "word": "万达对赌危机解除",
+        "onboard_time": 1702367193,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 436119,
+        "num": 436119,
+        "word": "知情人称周海媚还在医院治疗中",
+        "onboard_time": 1702347272,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 434872,
+        "num": 434872,
+        "word": "主办方回应杨丞琳演唱会言论",
+        "onboard_time": 1702365393,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 409145,
+        "num": 409145,
+        "word": "于正 刘宇宁在历劫",
+        "onboard_time": 1702368270,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77546,
+        "num": 403345,
+        "word": "1212淘宝给年轻人一点省钱震撼",
+        "onboard_time": 1702371633,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 401386,
+        "num": 401386,
+        "word": "刘亦菲王鹤棣 长陵",
+        "onboard_time": 1702363953,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390334,
+        "num": 390334,
+        "word": "朱丹因为周一围比自己小哭了",
+        "onboard_time": 1702371993,
+        "rank": 16,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 353824,
+        "num": 353824,
+        "word": "何猷君富得没见过世面",
+        "onboard_time": 1702360653,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348884,
+        "num": 348884,
+        "word": "TheShy在WBG是顶薪待遇",
+        "onboard_time": 1702367556,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322398,
+        "num": 322398,
+        "word": "女子无力还款丈夫花2400万买房",
+        "onboard_time": 1702363356,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2047117,
+        "num": 321950,
+        "word": "研究称生两个孩子最有利于长寿",
+        "onboard_time": 1702369474,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331046,
+        "num": 317752,
+        "word": "五哈4开录",
+        "onboard_time": 1702366056,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308504,
+        "num": 308504,
+        "word": "父亲 降吧",
+        "onboard_time": 1702357420,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284653,
+        "num": 284653,
+        "word": "鹅毛大雪 直接下鹅的大雪",
+        "onboard_time": 1702367913,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270974,
+        "num": 270974,
+        "word": "迪丽热巴一怒之下干了一杯奶",
+        "onboard_time": 1702358918,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264099,
+        "num": 264099,
+        "word": "徐若晗 头像大户",
+        "onboard_time": 1702372177,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259418,
+        "num": 259418,
+        "word": "黄子弘凡 运气玄学",
+        "onboard_time": 1702371215,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252411,
+        "num": 252411,
+        "word": "EDG Meiko",
+        "onboard_time": 1702364696,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237449,
+        "num": 237449,
+        "word": "男子捂热水袋入睡被低温烫熟",
+        "onboard_time": 1702361614,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196054,
+        "num": 230926,
+        "word": "女子在医院大哭倒地众人合力扶起",
+        "onboard_time": 1702368813,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229703,
+        "num": 229703,
+        "word": "发高烧还让孩子上学爸妈们别卷了",
+        "onboard_time": 1702367672,
+        "rank": 30,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 203845,
+        "num": 203845,
+        "word": "叶舒华黑发高马尾",
+        "onboard_time": 1702371693,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203606,
+        "num": 203606,
+        "word": "和肖四大战简称肖战",
+        "onboard_time": 1702363178,
+        "rank": 32,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 196720,
+        "num": 196720,
+        "word": "北京个别地区预报有大暴雪",
+        "onboard_time": 1702371873,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194459,
+        "num": 194459,
+        "word": "小米发文炮轰余承东",
+        "onboard_time": 1702357301,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194114,
+        "num": 194114,
+        "word": "挑战10天极限考研",
+        "onboard_time": 1702369777,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187136,
+        "num": 187136,
+        "word": "两只小猫对话",
+        "onboard_time": 1702370793,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185270,
+        "num": 185270,
+        "word": "李栋旭饭撒",
+        "onboard_time": 1702370976,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183378,
+        "num": 183378,
+        "word": "LPL转会期大结局",
+        "onboard_time": 1702366777,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182341,
+        "num": 182341,
+        "word": "赵丽颖杨紫大剧看总台VCR",
+        "onboard_time": 1702367012,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181021,
+        "num": 181021,
+        "word": "入青云 陈星旭卢昱晓",
+        "onboard_time": 1702371516,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179017,
+        "num": 179017,
+        "word": "小伙定了婚期才知女方一家全是托",
+        "onboard_time": 1702357959,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171030,
+        "num": 171030,
+        "word": "导演陈勋奇辟谣周海媚去世",
+        "onboard_time": 1702371033,
+        "rank": 42,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 168691,
+        "num": 168691,
+        "word": "圣诞鎏金妆",
+        "onboard_time": 1702371873,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 164925,
+        "num": 164925,
+        "word": "爷爷奶奶快八十了还在为情所困",
+        "onboard_time": 1702366654,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148001,
+        "num": 148001,
+        "word": "迪丽热巴 白日提灯",
+        "onboard_time": 1702360895,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146532,
+        "num": 146532,
+        "word": "何润东同车副导演断了一根牙齿",
+        "onboard_time": 1702364915,
+        "rank": 46,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 146006,
+        "num": 146006,
+        "word": "互联网最喜欢的一对情侣",
+        "onboard_time": 1702369834,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145632,
+        "num": 145632,
+        "word": "上班后整个人都癫了",
+        "onboard_time": 1702369357,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143571,
+        "num": 143571,
+        "word": "水牛客串神隐",
+        "onboard_time": 1702368756,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平越南之行#"
+    }
+  }
+}
