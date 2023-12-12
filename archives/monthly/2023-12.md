@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/13 00:22:56
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/13 00:39:05
 </p>
 </blockquote>
 <p>
@@ -4695,6 +4695,12 @@ GQ 排他list艺人（热度：579172）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E4%BC%91%E6%81%AF%E7%BE%9E%E8%80%BB%23" target="weibo">
+拒绝休息羞耻（热度：578352）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%85%B1%E9%9D%92%E5%9B%A2%E8%B0%88%E6%9D%A8%E4%B8%9E%E7%90%B3%E8%AF%B4%E6%B2%B3%E5%8D%97%E4%BA%BA%E7%88%B1%E9%AA%97%E4%BA%BA%23" target="weibo">
 河南共青团谈杨丞琳说河南人爱骗人（热度：578314）
 </a>
@@ -4757,6 +4763,12 @@ GQ颁奖（热度：573006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%B1%9F%E9%87%91%E8%A3%95%E8%B4%9E%23" target="weibo">
 宋江金裕贞（热度：572130）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E8%81%8A%E8%BF%87%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%85%88%E8%B5%B0%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
+谢娜张杰聊过另一个人先走怎么办（热度：571443）
 </a>
 </li>
 
@@ -5237,12 +5249,6 @@ TGA2023（热度：541610）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%20%E5%85%A8%E4%BD%93%E8%B5%B7%E7%AB%8B%E7%9A%84%E4%B8%80%E7%90%83%23" target="weibo">
 莎头 全体起立的一球（热度：535043）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E8%81%8A%E8%BF%87%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%85%88%E8%B5%B0%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
-谢娜张杰聊过另一个人先走怎么办（热度：534409）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GQ大头贴（热度：483619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E8%8E%B7TGA%E6%9C%80%E4%BD%B3%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%23" target="weibo">
 Faker获TGA最佳电竞选手（热度：483576）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23EDG%E7%A6%BB%E5%BC%80%E4%BA%86EDG%23" target="weibo">
-EDG离开了EDG（热度：483007）
 </a>
 </li>
 
