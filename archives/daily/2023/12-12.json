@@ -1,6 +1,6 @@
 {
   "startTime": 1702311867437,
-  "endTime": 1702358233188,
+  "endTime": 1702359261078,
   "band_list": [
     {
       "raw_hot": 3671070,
@@ -99,20 +99,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1257258,
+      "num": 1257258,
+      "word": "小米发文炮轰余承东",
+      "onboard_time": 1702357301,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1041615,
       "num": 1041615,
       "word": "WBG宣布TheShy离队",
       "onboard_time": 1702308048,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1033784,
-      "num": 1033784,
-      "word": "小米发文炮轰余承东",
-      "onboard_time": 1702357301,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 977902,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 681983,
+      "num": 681983,
+      "word": "何润东车祸未受伤",
+      "onboard_time": 1702358196,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670027,
       "num": 670027,
       "word": "加拿大鹅9500元羽绒服被疑瑕疵品",
@@ -233,6 +241,14 @@
       "onboard_time": 1702298565,
       "rank": 12,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 629129,
+      "num": 629129,
+      "word": "丈夫打骂临产女儿被妻子捅死",
+      "onboard_time": 1702357238,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595140,
@@ -315,14 +331,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 491343,
-      "num": 491343,
-      "word": "丈夫打骂临产女儿被妻子捅死",
-      "onboard_time": 1702357238,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491225,
       "num": 491225,
       "word": "中药只管吃不要打听",
@@ -345,6 +353,14 @@
       "onboard_time": 1702343857,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 458207,
+      "num": 294121,
+      "word": "小伙定了婚期才知女方一家全是托",
+      "onboard_time": 1702357959,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456995,
@@ -395,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 434162,
+      "num": 434162,
+      "word": "父亲 降吧",
+      "onboard_time": 1702357420,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 421725,
       "num": 421725,
       "word": "明年起广州地铁内将禁止电子设备外放声音",
@@ -441,14 +465,6 @@
       "onboard_time": 1702349852,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 368948,
-      "num": 368948,
-      "word": "父亲 降吧",
-      "onboard_time": 1702357420,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 364877,
@@ -513,6 +529,14 @@
       "onboard_time": 1702322176,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334954,
+      "num": 334954,
+      "word": "迪丽热巴一怒之下干了一杯奶",
+      "onboard_time": 1702358918,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 326335,
@@ -619,6 +643,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 272391,
+      "num": 272391,
+      "word": "张若昀发了张一分钟的图",
+      "onboard_time": 1702357959,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267923,
       "num": 267923,
       "word": "田柾国今日入伍",
@@ -641,14 +673,6 @@
       "onboard_time": 1702309663,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256366,
-      "num": 256366,
-      "word": "小伙定了婚期才知女方一家全是托",
-      "onboard_time": 1702357959,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255486,
@@ -707,6 +731,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 239923,
+      "num": 239923,
+      "word": "熬夜的危害比你想象的还要大",
+      "onboard_time": 1702356100,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237941,
       "num": 237941,
       "word": "WBG老板回应TheShy转会舆论",
@@ -737,6 +769,14 @@
       "onboard_time": 1702346795,
       "rank": 34,
       "category": "剧集,社会新闻"
+    },
+    {
+      "raw_hot": 233635,
+      "num": 233635,
+      "word": "Ming分享RNG大合照",
+      "onboard_time": 1702358259,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 232893,
@@ -843,28 +883,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212247,
-      "num": 212247,
-      "word": "张若昀发了张一分钟的图",
-      "onboard_time": 1702357959,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212047,
       "num": 212047,
       "word": "iOS17.2正式版新增翻译功能",
       "onboard_time": 1702346614,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 207085,
-      "num": 207085,
-      "word": "熬夜的危害比你想象的还要大",
-      "onboard_time": 1702356100,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 206376,
@@ -1043,14 +1067,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 172357,
-      "num": 172357,
-      "word": "何润东车祸未受伤",
-      "onboard_time": 1702358196,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169587,
       "num": 169587,
       "word": "女子求助寻找8岁女儿的生父",
@@ -1131,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155883,
+      "num": 155883,
+      "word": "芭莎镜头下的素颜王一博",
+      "onboard_time": 1702358857,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 153755,
       "num": 153755,
       "word": "TheShy 故事迎来了完美结局",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1702345293,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140494,
+      "num": 140494,
+      "word": "打小我就看付鹏这小子行",
+      "onboard_time": 1702359097,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138994,

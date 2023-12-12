@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702358233188,
+  "endTime": 1702359261078,
   "band_list": [
     {
       "raw_hot": 11322623,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1257258,
+      "num": 1257258,
+      "word": "小米发文炮轰余承东",
+      "onboard_time": 1702357301,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1248477,
       "num": 1248477,
       "word": "主播陈一发儿疑似复出再被封",
@@ -569,14 +577,6 @@
       "onboard_time": 1702170929,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1033784,
-      "num": 1033784,
-      "word": "小米发文炮轰余承东",
-      "onboard_time": 1702357301,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 1032137,
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 681983,
+      "num": 681983,
+      "word": "何润东车祸未受伤",
+      "onboard_time": 1702358196,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680302,
       "num": 680302,
       "word": "范闲五年后成了高三班主任",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1702170510,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 629129,
+      "num": 629129,
+      "word": "丈夫打骂临产女儿被妻子捅死",
+      "onboard_time": 1702357238,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 627373,
@@ -1667,14 +1683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 491343,
-      "num": 491343,
-      "word": "丈夫打骂临产女儿被妻子捅死",
-      "onboard_time": 1702357238,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491225,
       "num": 491225,
       "word": "中药只管吃不要打听",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1702183597,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458207,
+      "num": 294121,
+      "word": "小伙定了婚期才知女方一家全是托",
+      "onboard_time": 1702357959,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456995,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1702289317,
       "rank": 4,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 434162,
+      "num": 434162,
+      "word": "父亲 降吧",
+      "onboard_time": 1702357420,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 433232,
@@ -2339,14 +2363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 368948,
-      "num": 368948,
-      "word": "父亲 降吧",
-      "onboard_time": 1702357420,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 367280,
       "num": 367280,
       "word": "舒淇表情",
@@ -2649,6 +2665,14 @@
       "onboard_time": 1702295193,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334954,
+      "num": 334954,
+      "word": "迪丽热巴一怒之下干了一杯奶",
+      "onboard_time": 1702358918,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 331466,
@@ -3259,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272391,
+      "num": 272391,
+      "word": "张若昀发了张一分钟的图",
+      "onboard_time": 1702357959,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272323,
       "num": 272323,
       "word": "林俊杰 有点舍不得",
@@ -3457,14 +3489,6 @@
       "onboard_time": 1702225170,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256366,
-      "num": 256366,
-      "word": "小伙定了婚期才知女方一家全是托",
-      "onboard_time": 1702357959,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256133,
@@ -3683,6 +3707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 239923,
+      "num": 239923,
+      "word": "熬夜的危害比你想象的还要大",
+      "onboard_time": 1702356100,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 239879,
       "num": 239879,
       "word": "很想很想你 初吻之后全是吻戏",
@@ -3817,6 +3849,14 @@
       "onboard_time": 1702286375,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233635,
+      "num": 233635,
+      "word": "Ming分享RNG大合照",
+      "onboard_time": 1702358259,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 233370,
@@ -4275,14 +4315,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 212247,
-      "num": 212247,
-      "word": "张若昀发了张一分钟的图",
-      "onboard_time": 1702357959,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212062,
       "num": 212062,
       "word": "今年的最后三周你有什么安排",
@@ -4393,14 +4425,6 @@
       "onboard_time": 1702125033,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207085,
-      "num": 207085,
-      "word": "熬夜的危害比你想象的还要大",
-      "onboard_time": 1702356100,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 206909,
@@ -5491,14 +5515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172357,
-      "num": 172357,
-      "word": "何润东车祸未受伤",
-      "onboard_time": 1702358196,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171935,
       "num": 171935,
       "word": "浙大学霸的笔记精美得像教科书",
@@ -5873,6 +5889,14 @@
       "onboard_time": 1702185334,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 155883,
+      "num": 155883,
+      "word": "芭莎镜头下的素颜王一博",
+      "onboard_time": 1702358857,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155083,
@@ -6313,6 +6337,14 @@
       "onboard_time": 1702345293,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140494,
+      "num": 140494,
+      "word": "打小我就看付鹏这小子行",
+      "onboard_time": 1702359097,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140455,
