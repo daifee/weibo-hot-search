@@ -1,0 +1,410 @@
+{
+  "runTime": 1702419433362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 282829,
+        "num": 282829,
+        "word": "肚子越来越小的小技巧",
+        "onboard_time": 1702395168,
+        "rank": 0,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 196427,
+        "num": 196427,
+        "word": "阿宝被七仔咬掉的耳朵已脱离爱心状",
+        "onboard_time": 1702397437,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16169,
+        "num": 178965,
+        "word": "强信心看数据",
+        "onboard_time": 1702388257,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 463328,
+        "num": 178643,
+        "word": "周海媚生前最后一次公开亮相",
+        "onboard_time": 1702390240,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 174887,
+        "num": 174887,
+        "word": "再见周芷若",
+        "onboard_time": 1702389397,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 134687,
+        "num": 134687,
+        "word": "创业创了一半老板去考公了",
+        "onboard_time": 1702398812,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126799,
+        "num": 126799,
+        "word": "金莎和男友 两个恋爱脑双向奔赴",
+        "onboard_time": 1702399647,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90925,
+        "num": 90925,
+        "word": "网红袖珍女孩疑遭母亲虐待",
+        "onboard_time": 1702382433,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68288,
+        "num": 68288,
+        "word": "拒绝休息羞耻",
+        "onboard_time": 1702395703,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67231,
+        "num": 67231,
+        "word": "好莱坞富二代涉嫌分尸华人妻子",
+        "onboard_time": 1702378775,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745921,
+        "num": 67191,
+        "word": "周海媚去世",
+        "onboard_time": 1702388629,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 245864,
+        "num": 66771,
+        "word": "吕良伟悼念周海媚",
+        "onboard_time": 1702396181,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 151935,
+        "num": 66506,
+        "word": "田启文称周海媚长期受红斑狼疮困扰",
+        "onboard_time": 1702376074,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 91133,
+        "num": 66250,
+        "word": "红斑狼疮是免疫病不是皮肤病",
+        "onboard_time": 1702380157,
+        "rank": 13,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 66024,
+        "num": 66024,
+        "word": "刘亦菲泰国游客照",
+        "onboard_time": 1702394509,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65166,
+        "num": 65166,
+        "word": "一碗30元的网红面馆卖不动了",
+        "onboard_time": 1702365154,
+        "rank": 15,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 55711,
+        "num": 55711,
+        "word": "周海媚曾说人生不能后悔就得往前走",
+        "onboard_time": 1702394631,
+        "rank": 16,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 49231,
+        "num": 49231,
+        "word": "骄阳似我 张凌赫魏大勋",
+        "onboard_time": 1702383275,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41568,
+        "num": 41568,
+        "word": "菜鸟 取件码呢",
+        "onboard_time": 1702383814,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 30454,
+        "num": 41054,
+        "word": "曼联vs拜仁",
+        "onboard_time": 1702411153,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115937,
+        "num": 40014,
+        "word": "女孩以为手上长的是冻疮却被确诊红斑狼疮",
+        "onboard_time": 1702391664,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60691,
+        "num": 39281,
+        "word": "男子介绍女友卖淫赚生活费获刑5年",
+        "onboard_time": 1702386273,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58916,
+        "num": 38338,
+        "word": "研究称生两个孩子最有利于长寿",
+        "onboard_time": 1702369474,
+        "rank": 22,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 38194,
+        "num": 38194,
+        "word": "易孕体质是没有科学避孕",
+        "onboard_time": 1702382433,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36157,
+        "num": 36157,
+        "word": "冬天泡脚有3个禁忌",
+        "onboard_time": 1702388815,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35867,
+        "num": 35867,
+        "word": "在人间 赵丽颖张一山",
+        "onboard_time": 1702384357,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33711,
+        "num": 33711,
+        "word": "结节 吃芋头",
+        "onboard_time": 1702376496,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33065,
+        "num": 33065,
+        "word": "杨紫公布起诉黑粉进展",
+        "onboard_time": 1702389583,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32329,
+        "num": 32329,
+        "word": "工信部正式发布小米SU7产品公告",
+        "onboard_time": 1702394631,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 31807,
+        "num": 31807,
+        "word": "狐妖小红娘 易主",
+        "onboard_time": 1702373434,
+        "rank": 29,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 31087,
+        "num": 31087,
+        "word": "给王鹤棣找个配音吧",
+        "onboard_time": 1702376015,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29637,
+        "num": 29637,
+        "word": "阿音走了纣王的老路",
+        "onboard_time": 1702401084,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29364,
+        "num": 29364,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1702376855,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29124,
+        "num": 29124,
+        "word": "薛之谦上上谦火锅仅剩两家",
+        "onboard_time": 1702369177,
+        "rank": 33,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 28643,
+        "num": 28643,
+        "word": "张家辉 你知道这十年我怎么过的吗",
+        "onboard_time": 1702397259,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27325,
+        "num": 27325,
+        "word": "EDG离开了EDG",
+        "onboard_time": 1702386813,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27117,
+        "num": 27117,
+        "word": "床头放柠檬 舒缓心情",
+        "onboard_time": 1702417034,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27016,
+        "num": 27016,
+        "word": "成都地铁偷拍案当事人回应判决",
+        "onboard_time": 1702388753,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25912,
+        "num": 25912,
+        "word": "为什么蚝不便宜蚝油却便宜",
+        "onboard_time": 1702387234,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24477,
+        "num": 24477,
+        "word": "第一次有点生狗的气了",
+        "onboard_time": 1702405577,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22385,
+        "num": 22385,
+        "word": "自古美人如名将 不许人间见白头",
+        "onboard_time": 1702389762,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 22200,
+        "num": 22200,
+        "word": "林孝埈说国家队氛围非常好",
+        "onboard_time": 1702379674,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22033,
+        "num": 22033,
+        "word": "赵一博回归种地吧",
+        "onboard_time": 1702393082,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20897,
+        "num": 20897,
+        "word": "拒绝假唱 来真的",
+        "onboard_time": 1702384833,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20705,
+        "num": 20705,
+        "word": "杨丞琳演唱会主办方已经营异常",
+        "onboard_time": 1702376255,
+        "rank": 44,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 19151,
+        "num": 20702,
+        "word": "吉克隽逸 鲛人造型",
+        "onboard_time": 1702407016,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17662,
+        "num": 20680,
+        "word": "这确定是精神病院吗",
+        "onboard_time": 1702417995,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17587,
+        "num": 20677,
+        "word": "TES Meiko",
+        "onboard_time": 1702381713,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17516,
+        "num": 20651,
+        "word": "超级计算机预测的英超冠军",
+        "onboard_time": 1702404080,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16605,
+        "num": 20635,
+        "word": "我的少女时代导演离婚",
+        "onboard_time": 1702419257,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平越南之行#"
+    }
+  }
+}

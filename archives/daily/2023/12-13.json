@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702416861717,
+  "endTime": 1702419433362,
   "band_list": [
     {
       "raw_hot": 5102313,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65166,
+      "num": 65166,
+      "word": "一碗30元的网红面馆卖不动了",
+      "onboard_time": 1702365154,
+      "rank": 29,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 62971,
       "num": 160102,
       "word": "为什么蚝不便宜蚝油却便宜",
@@ -441,14 +449,6 @@
       "onboard_time": 1702388257,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 53399,
-      "num": 53399,
-      "word": "一碗30元的网红面馆卖不动了",
-      "onboard_time": 1702365154,
-      "rank": 29,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 40397,
@@ -491,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30454,
+      "num": 41054,
+      "word": "曼联vs拜仁",
+      "onboard_time": 1702411153,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27117,
+      "num": 27117,
+      "word": "床头放柠檬 舒缓心情",
+      "onboard_time": 1702417034,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27000,
       "num": 27000,
       "word": "吉克隽逸 鲛人造型",
@@ -507,12 +523,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22007,
-      "num": 22007,
-      "word": "曼联vs拜仁",
-      "onboard_time": 1702411153,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 17662,
+      "num": 20680,
+      "word": "这确定是精神病院吗",
+      "onboard_time": 1702417995,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 16605,
+      "num": 20635,
+      "word": "我的少女时代导演离婚",
+      "onboard_time": 1702419257,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 13803,
@@ -529,6 +553,9 @@
     },
     {
       "word": "#中央经济工作会议举行#"
+    },
+    {
+      "word": "#习近平越南之行#"
     }
   ]
 }

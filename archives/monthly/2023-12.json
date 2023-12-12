@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702416861717,
+  "endTime": 1702419433362,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -32611,6 +32611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30454,
+      "num": 41054,
+      "word": "曼联vs拜仁",
+      "onboard_time": 1702411153,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30261,
       "num": 1952698,
       "word": "聚焦COP28",
@@ -32673,6 +32681,14 @@
       "onboard_time": 1702061477,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27117,
+      "num": 27117,
+      "word": "床头放柠檬 舒缓心情",
+      "onboard_time": 1702417034,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 27000,
@@ -32835,14 +32851,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 22007,
-      "num": 22007,
-      "word": "曼联vs拜仁",
-      "onboard_time": 1702411153,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 21895,
       "num": 1064374,
       "word": "链博会展示花式发电方法",
@@ -32995,6 +33003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17662,
+      "num": 20680,
+      "word": "这确定是精神病院吗",
+      "onboard_time": 1702417995,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17472,
       "num": 26212,
       "word": "王者新英雄海诺",
@@ -33033,6 +33049,14 @@
       "onboard_time": 1702151294,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16605,
+      "num": 20635,
+      "word": "我的少女时代导演离婚",
+      "onboard_time": 1702419257,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 16526,
