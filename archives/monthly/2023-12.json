@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702394339852,
+  "endTime": 1702395271495,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 6323366,
-      "num": 836967,
+      "num": 1485204,
       "word": "周海媚生前最后一次公开亮相",
       "onboard_time": 1702390240,
       "rank": 11,
@@ -6691,6 +6691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 549202,
+      "num": 549202,
+      "word": "新冠变异株JN.1在12国快速蔓延",
+      "onboard_time": 1702391190,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548955,
       "num": 548955,
       "word": "王鹤棣第二部男频剧",
@@ -7569,14 +7577,6 @@
       "onboard_time": 1702030178,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 504523,
-      "num": 504523,
-      "word": "新冠变异株JN.1在12国快速蔓延",
-      "onboard_time": 1702391190,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503520,
@@ -10379,6 +10379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 391865,
+      "num": 391865,
+      "word": "周海媚曾说人生不能后悔就得往前走",
+      "onboard_time": 1702394631,
+      "rank": 17,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 391295,
       "num": 476594,
       "word": "1米85视角下穿半身裙的我",
@@ -11625,6 +11633,14 @@
       "onboard_time": 1701764016,
       "rank": 21,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 356747,
+      "num": 356747,
+      "word": "刘亦菲泰国游客照",
+      "onboard_time": 1702394509,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 356632,
@@ -15489,6 +15505,14 @@
       "onboard_time": 1701613062,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277051,
+      "num": 277051,
+      "word": "工信部正式发布小米SU7产品公告",
+      "onboard_time": 1702394631,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 277026,
@@ -20715,6 +20739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208293,
+      "num": 375379,
+      "word": "江苏下雪",
+      "onboard_time": 1702393853,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208266,
       "num": 208266,
       "word": "刘宇翻跳sweetvenom",
@@ -21489,6 +21521,14 @@
       "onboard_time": 1701518852,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202210,
+      "num": 202210,
+      "word": "艺人剧宣 大街上发传单",
+      "onboard_time": 1702395043,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202099,
@@ -23563,6 +23603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187277,
+      "num": 187277,
+      "word": "何猷君生活工作的反差",
+      "onboard_time": 1702395168,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187151,
       "num": 187151,
       "word": "詹姆斯传球击倒布克",
@@ -25379,6 +25427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169062,
+      "num": 169062,
+      "word": "肚子越来越小的小技巧",
+      "onboard_time": 1702395168,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 168976,
       "num": 168976,
       "word": "少女时代SHINee同框画风",
@@ -27009,14 +27065,6 @@
       "onboard_time": 1701705450,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153026,
-      "num": 176953,
-      "word": "江苏下雪",
-      "onboard_time": 1702393853,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152800,

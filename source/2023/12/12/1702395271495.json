@@ -1,0 +1,410 @@
+{
+  "runTime": 1702395271495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9835017,
+        "num": 9835017,
+        "word": "再见周芷若",
+        "onboard_time": 1702389397,
+        "rank": 0,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 2979377,
+        "num": 2979377,
+        "word": "红斑狼疮",
+        "onboard_time": 1702379314,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 111699,
+        "num": 1507424,
+        "word": "强信心看数据",
+        "onboard_time": 1702388257,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3080029,
+        "num": 1485204,
+        "word": "周海媚生前最后一次公开亮相",
+        "onboard_time": 1702390240,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 923519,
+        "num": 923519,
+        "word": "骄阳似我 张凌赫魏大勋",
+        "onboard_time": 1702383275,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 919535,
+        "num": 919535,
+        "word": "结节 吃芋头",
+        "onboard_time": 1702376496,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 792601,
+        "num": 792601,
+        "word": "赵一博回归种地吧",
+        "onboard_time": 1702393082,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687002,
+        "num": 687002,
+        "word": "菜鸟 取件码呢",
+        "onboard_time": 1702383814,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 549202,
+        "num": 549202,
+        "word": "新冠变异株JN.1在12国快速蔓延",
+        "onboard_time": 1702391190,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379537,
+        "num": 541503,
+        "word": "网红袖珍女孩疑遭母亲虐待",
+        "onboard_time": 1702382433,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11402868,
+        "num": 527151,
+        "word": "周海媚去世",
+        "onboard_time": 1702388629,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 2599662,
+        "num": 512956,
+        "word": "自古美人如名将 不许人间见白头",
+        "onboard_time": 1702389762,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1344050,
+        "num": 500455,
+        "word": "田启文称周海媚长期受红斑狼疮困扰",
+        "onboard_time": 1702376074,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1175566,
+        "num": 485649,
+        "word": "红斑狼疮是免疫病不是皮肤病",
+        "onboard_time": 1702380157,
+        "rank": 13,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 588162,
+        "num": 478761,
+        "word": "老师情绪失控让全班女生自扇耳光",
+        "onboard_time": 1702384234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471457,
+        "num": 471457,
+        "word": "易烊千玺 评委",
+        "onboard_time": 1702376855,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 456898,
+        "num": 456898,
+        "word": "狐妖小红娘 易主",
+        "onboard_time": 1702373434,
+        "rank": 16,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 391865,
+        "num": 391865,
+        "word": "周海媚曾说人生不能后悔就得往前走",
+        "onboard_time": 1702394631,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 290858,
+        "num": 385789,
+        "word": "好莱坞富二代涉嫌分尸华人妻子",
+        "onboard_time": 1702378775,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208293,
+        "num": 375379,
+        "word": "江苏下雪",
+        "onboard_time": 1702393853,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766162,
+        "num": 373700,
+        "word": "女孩以为手上长的是冻疮却被确诊红斑狼疮",
+        "onboard_time": 1702391664,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536833,
+        "num": 357736,
+        "word": "研究称生两个孩子最有利于长寿",
+        "onboard_time": 1702369474,
+        "rank": 21,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 356747,
+        "num": 356747,
+        "word": "刘亦菲泰国游客照",
+        "onboard_time": 1702394509,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345777,
+        "num": 345777,
+        "word": "男子介绍女友卖淫赚生活费获刑5年",
+        "onboard_time": 1702386273,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345243,
+        "num": 345243,
+        "word": "拒绝假唱 来真的",
+        "onboard_time": 1702384833,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343313,
+        "num": 343313,
+        "word": "在人间 赵丽颖张一山",
+        "onboard_time": 1702384357,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323565,
+        "num": 323565,
+        "word": "薛之谦上上谦火锅仅剩两家",
+        "onboard_time": 1702369177,
+        "rank": 26,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 323009,
+        "num": 323009,
+        "word": "杨紫公布起诉黑粉进展",
+        "onboard_time": 1702389583,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288062,
+        "num": 288062,
+        "word": "易孕体质是没有科学避孕",
+        "onboard_time": 1702382433,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287253,
+        "num": 287253,
+        "word": "预防系统性红斑狼疮做好这4点",
+        "onboard_time": 1702390772,
+        "rank": 29,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 277051,
+        "num": 277051,
+        "word": "工信部正式发布小米SU7产品公告",
+        "onboard_time": 1702394631,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 272876,
+        "num": 272876,
+        "word": "最讨厌那个杨大爷了",
+        "onboard_time": 1702381957,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235549,
+        "num": 235549,
+        "word": "杨丞琳演唱会主办方已经营异常",
+        "onboard_time": 1702376255,
+        "rank": 32,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 227209,
+        "num": 227209,
+        "word": "给王鹤棣找个配音吧",
+        "onboard_time": 1702376015,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222573,
+        "num": 222573,
+        "word": "EDG离开了EDG",
+        "onboard_time": 1702386813,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216538,
+        "num": 216538,
+        "word": "出现这8种症状可能患有系统性红斑狼疮",
+        "onboard_time": 1702390001,
+        "rank": 35,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 215536,
+        "num": 215536,
+        "word": "脸部泛红的主要因素",
+        "onboard_time": 1702392435,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 202942,
+        "num": 202942,
+        "word": "冬天泡脚有3个禁忌",
+        "onboard_time": 1702388815,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202210,
+        "num": 202210,
+        "word": "艺人剧宣 大街上发传单",
+        "onboard_time": 1702395043,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156369,
+        "num": 199362,
+        "word": "成都地铁偷拍案当事人回应判决",
+        "onboard_time": 1702388753,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198318,
+        "num": 198318,
+        "word": "刘亦菲王鹤棣 长陵",
+        "onboard_time": 1702363953,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192723,
+        "num": 192723,
+        "word": "鼻炎手术 鼻头变尖",
+        "onboard_time": 1702375653,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189912,
+        "num": 189912,
+        "word": "这就是双休的意义",
+        "onboard_time": 1702363776,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188413,
+        "num": 188413,
+        "word": "吴千语 我长得也像作的",
+        "onboard_time": 1702394209,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187277,
+        "num": 187277,
+        "word": "何猷君生活工作的反差",
+        "onboard_time": 1702395168,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188201,
+        "num": 183812,
+        "word": "朱丹周一围 衣服互穿",
+        "onboard_time": 1702384175,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169978,
+        "num": 169978,
+        "word": "一碗30元的网红面馆卖不动了",
+        "onboard_time": 1702365154,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 169062,
+        "num": 169062,
+        "word": "肚子越来越小的小技巧",
+        "onboard_time": 1702395168,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 134054,
+        "num": 162970,
+        "word": "为什么蚝不便宜蚝油却便宜",
+        "onboard_time": 1702387234,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131882,
+        "num": 161413,
+        "word": "林孝埈说国家队氛围非常好",
+        "onboard_time": 1702379674,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平越南之行#"
+    }
+  }
+}

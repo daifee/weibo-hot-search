@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/12 23:18:59
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/12 23:34:31
 </p>
 </blockquote>
 <p>
@@ -5031,6 +5031,12 @@ GQ红毯 i人队e人队（热度：551740）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%A0%AAJN.1%E5%9C%A812%E5%9B%BD%E5%BF%AB%E9%80%9F%E8%94%93%E5%BB%B6%23" target="weibo">
+新冠变异株JN.1在12国快速蔓延（热度：549202）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%AC%AC%E4%BA%8C%E9%83%A8%E7%94%B7%E9%A2%91%E5%89%A7%23" target="weibo">
 王鹤棣第二部男频剧（热度：548955）
 </a>
@@ -5687,12 +5693,6 @@ iPhone屏幕发明人从苹果离职（热度：506402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E5%88%AB%E8%80%81%E8%AE%A9%E6%88%91%E8%AF%84%E4%BB%B7%E5%88%AB%E7%9A%84%E6%AD%8C%E6%89%8B%23" target="weibo">
 汪苏泷 别老让我评价别的歌手（热度：504932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%A0%AAJN.1%E5%9C%A812%E5%9B%BD%E5%BF%AB%E9%80%9F%E8%94%93%E5%BB%B6%23" target="weibo">
-新冠变异株JN.1在12国快速蔓延（热度：504523）
 </a>
 </li>
 

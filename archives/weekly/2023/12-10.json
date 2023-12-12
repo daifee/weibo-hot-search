@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702394339852,
+  "endTime": 1702395271495,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 6323366,
-      "num": 836967,
+      "num": 1485204,
       "word": "周海媚生前最后一次公开亮相",
       "onboard_time": 1702390240,
       "rank": 11,
@@ -1843,6 +1843,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 549202,
+      "num": 549202,
+      "word": "新冠变异株JN.1在12国快速蔓延",
+      "onboard_time": 1702391190,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548955,
       "num": 548955,
       "word": "王鹤棣第二部男频剧",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1702218341,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 504523,
-      "num": 504523,
-      "word": "新冠变异株JN.1在12国快速蔓延",
-      "onboard_time": 1702391190,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 502799,
@@ -2787,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391865,
+      "num": 391865,
+      "word": "周海媚曾说人生不能后悔就得往前走",
+      "onboard_time": 1702394631,
+      "rank": 17,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 387444,
       "num": 387444,
       "word": "猪国迎来大危机",
@@ -3056,6 +3064,14 @@
       "word": "赵丽颖 动物城vlog",
       "onboard_time": 1702270657,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 356747,
+      "num": 356747,
+      "word": "刘亦菲泰国游客照",
+      "onboard_time": 1702394509,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -3969,6 +3985,14 @@
       "onboard_time": 1702384959,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277051,
+      "num": 277051,
+      "word": "工信部正式发布小米SU7产品公告",
+      "onboard_time": 1702394631,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 276842,
@@ -5483,6 +5507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208293,
+      "num": 375379,
+      "word": "江苏下雪",
+      "onboard_time": 1702393853,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207893,
       "num": 184090,
       "word": "EXO全员参加经纪人婚礼",
@@ -5729,6 +5761,14 @@
       "onboard_time": 1702384535,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202210,
+      "num": 202210,
+      "word": "艺人剧宣 大街上发传单",
+      "onboard_time": 1702395043,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202004,
@@ -6289,6 +6329,14 @@
       "onboard_time": 1702378357,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187277,
+      "num": 187277,
+      "word": "何猷君生活工作的反差",
+      "onboard_time": 1702395168,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 187136,
@@ -6931,6 +6979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 169062,
+      "num": 169062,
+      "word": "肚子越来越小的小技巧",
+      "onboard_time": 1702395168,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 168691,
       "num": 168691,
       "word": "圣诞鎏金妆",
@@ -7345,14 +7401,6 @@
       "onboard_time": 1702227024,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153026,
-      "num": 176953,
-      "word": "江苏下雪",
-      "onboard_time": 1702393853,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152627,
