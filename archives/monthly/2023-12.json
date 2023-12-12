@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702406048178,
+  "endTime": 1702408518095,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -32371,6 +32371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37366,
+      "num": 37366,
+      "word": "第一次有点生狗的气了",
+      "onboard_time": 1702405577,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 37340,
       "num": 37340,
       "word": "谭维维高智感低马尾",
@@ -32444,7 +32452,7 @@
     },
     {
       "raw_hot": 35469,
-      "num": 35469,
+      "num": 43722,
       "word": "超级计算机预测的英超冠军",
       "onboard_time": 1702404080,
       "rank": 40,
@@ -32563,6 +32571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31059,
+      "num": 31059,
+      "word": "JN.1",
+      "onboard_time": 1702405878,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30756,
       "num": 30756,
       "word": "WSJ 晚宴",
@@ -32651,14 +32667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 27463,
-      "num": 30636,
-      "word": "第一次有点生狗的气了",
-      "onboard_time": 1702405577,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 27134,
       "num": 27134,
       "word": "爱江珊更爱美人",
@@ -32689,6 +32697,14 @@
       "onboard_time": 1701799521,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26298,
+      "num": 26298,
+      "word": "吉克隽逸 鲛人造型",
+      "onboard_time": 1702407016,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26024,
@@ -32745,14 +32761,6 @@
       "onboard_time": 1702213236,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24314,
-      "num": 30545,
-      "word": "JN.1",
-      "onboard_time": 1702405878,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24282,
