@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702477041687,
+  "endTime": 1702478145122,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1444465,
+      "num": 451740,
+      "word": "周海媚的独居者之困",
+      "onboard_time": 1702475435,
+      "rank": 7,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1407009,
       "num": 1421533,
       "word": "真正有致癌风险的是这2种水",
@@ -275,20 +283,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 971503,
-      "num": 451740,
-      "word": "周海媚的独居者之困",
-      "onboard_time": 1702475435,
-      "rank": 7,
-      "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 945804,
+      "raw_hot": 999567,
       "num": 450765,
       "word": "考研考编考公 三手抓",
       "onboard_time": 1702474299,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 991187,
+      "num": 266910,
+      "word": "脾胃虚弱的人脸上有4个表现",
+      "onboard_time": 1702476283,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 938388,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705835,
-      "num": 266910,
-      "word": "脾胃虚弱的人脸上有4个表现",
-      "onboard_time": 1702476283,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 705639,
       "num": 1363048,
       "word": "骄阳似我 张凌赫魏大勋",
@@ -425,6 +425,14 @@
       "onboard_time": 1702454431,
       "rank": 4,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 693136,
+      "num": 443504,
+      "word": "很想很想你 实在不行别睡了",
+      "onboard_time": 1702475137,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 689199,
@@ -497,14 +505,6 @@
       "onboard_time": 1702465114,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 631175,
-      "num": 443504,
-      "word": "很想很想你 实在不行别睡了",
-      "onboard_time": 1702475137,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 628637,
@@ -635,12 +635,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512950,
+      "raw_hot": 533717,
       "num": 442673,
       "word": "胡先煦多大了还骑妈妈脖子",
       "onboard_time": 1702473576,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 512817,
+      "num": 265233,
+      "word": "广州彩民独中1.44亿元大奖",
+      "onboard_time": 1702476283,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505802,
+      "num": 505802,
+      "word": "i人喜欢的东西",
+      "onboard_time": 1702473157,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 493673,
@@ -689,14 +705,6 @@
       "onboard_time": 1702427261,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 458747,
-      "num": 458747,
-      "word": "i人喜欢的东西",
-      "onboard_time": 1702473157,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 458166,
@@ -849,14 +857,6 @@
       "onboard_time": 1702443106,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 399802,
-      "num": 265233,
-      "word": "广州彩民独中1.44亿元大奖",
-      "onboard_time": 1702476283,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 398913,
@@ -1067,6 +1067,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 330534,
+      "num": 263128,
+      "word": "终于知道冻紫了是啥意思",
+      "onboard_time": 1702476398,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330014,
       "num": 330014,
       "word": "大爷误将2万当废品卖掉民警从废品堆内找回",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1702436017,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 309304,
+      "num": 273036,
+      "word": "莲花楼观感",
+      "onboard_time": 1702477059,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 308066,
@@ -1259,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279797,
-      "num": 263128,
-      "word": "终于知道冻紫了是啥意思",
-      "onboard_time": 1702476398,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276512,
       "num": 276512,
       "word": "跨年晚会阵容",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1702393853,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254574,
+      "num": 254574,
+      "word": "赵睿 受伤",
+      "onboard_time": 1702476938,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 254454,
@@ -1923,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198238,
+      "num": 198238,
+      "word": "济南发倡议错峰上下班",
+      "onboard_time": 1702477236,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198015,
       "num": 198015,
       "word": "周海媚曾说人生不能后悔就得往前走",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1702434094,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176749,
+      "num": 176749,
+      "word": "父女3人守3644平方公里国土近50年",
+      "onboard_time": 1702476759,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175662,
@@ -2459,19 +2491,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155381,
+      "num": 155381,
+      "word": "辛芷蕾闭眼选和秦岚都是一对",
+      "onboard_time": 1702476998,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155239,
       "num": 155239,
       "word": "男孩看病重父亲捡近16万现金报警返还",
       "onboard_time": 1702451373,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153979,
-      "num": 153979,
-      "word": "父女3人守3644平方公里国土近50年",
-      "onboard_time": 1702476759,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2513,14 +2545,6 @@
       "onboard_time": 1702454795,
       "rank": 44,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 149131,
-      "num": 149131,
-      "word": "赵睿 受伤",
-      "onboard_time": 1702476938,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 149093,
@@ -2595,14 +2619,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 139401,
-      "num": 139401,
-      "word": "辛芷蕾闭眼选和秦岚都是一对",
-      "onboard_time": 1702476998,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137787,
       "num": 137787,
       "word": "WTT名古屋女子总决赛2023",
@@ -2675,6 +2691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129284,
+      "num": 129284,
+      "word": "马尚三双",
+      "onboard_time": 1702477835,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128141,
       "num": 128141,
       "word": "女排世俱杯",
@@ -2705,6 +2729,14 @@
       "onboard_time": 1702467391,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126620,
+      "num": 126620,
+      "word": "可把我们小孩哥给忙坏了",
+      "onboard_time": 1702478076,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 126573,
@@ -3085,6 +3117,9 @@
     },
     {
       "word": "#习近平同越南国家主席武文赏举行会谈#"
+    },
+    {
+      "word": "#中越两党两国关系新定位的深刻内涵#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1702478145122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 83808,
+        "num": 930603,
+        "word": "100秒划2024年经济工作重点",
+        "onboard_time": 1702472434,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652510,
+        "num": 652510,
+        "word": "星火英语 耽误我学习",
+        "onboard_time": 1702473273,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91997,
+        "num": 511184,
+        "word": "以国之名悼我同胞",
+        "onboard_time": 1702460073,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 505802,
+        "num": 505802,
+        "word": "i人喜欢的东西",
+        "onboard_time": 1702473157,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295220,
+        "num": 295220,
+        "word": "南京城沦陷前是什么样",
+        "onboard_time": 1702468832,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1932042,
+        "num": 294562,
+        "word": "人民在线评网红痞幼盗用视频事件",
+        "onboard_time": 1702473457,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1444465,
+        "num": 291870,
+        "word": "周海媚的独居者之困",
+        "onboard_time": 1702475435,
+        "rank": 6,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1056479,
+        "num": 289381,
+        "word": "东方甄选4天掉粉近10万",
+        "onboard_time": 1702468769,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999567,
+        "num": 287656,
+        "word": "考研考编考公 三手抓",
+        "onboard_time": 1702474299,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 693136,
+        "num": 286552,
+        "word": "很想很想你 实在不行别睡了",
+        "onboard_time": 1702475137,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1216185,
+        "num": 284225,
+        "word": "SM卖1w 东大门卖500",
+        "onboard_time": 1702472975,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615786,
+        "num": 282446,
+        "word": "董宇辉称不要以饭圈名义污名化任何人",
+        "onboard_time": 1702470332,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533717,
+        "num": 280400,
+        "word": "胡先煦多大了还骑妈妈脖子",
+        "onboard_time": 1702473576,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433333,
+        "num": 276563,
+        "word": "周海媚的任性五十年",
+        "onboard_time": 1702438238,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 389890,
+        "num": 274628,
+        "word": "齐舞空间向宋茜道歉",
+        "onboard_time": 1702458272,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309304,
+        "num": 273036,
+        "word": "莲花楼观感",
+        "onboard_time": 1702477059,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301870,
+        "num": 272024,
+        "word": "繁花要来了",
+        "onboard_time": 1702474237,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270010,
+        "num": 270010,
+        "word": "经超小李琳 姐弟恋能有多快乐",
+        "onboard_time": 1702469252,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267036,
+        "num": 267036,
+        "word": "这个冬天你买草莓了吗",
+        "onboard_time": 1702458451,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 254574,
+        "num": 254574,
+        "word": "赵睿 受伤",
+        "onboard_time": 1702476938,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 991187,
+        "num": 253373,
+        "word": "脾胃虚弱的人脸上有4个表现",
+        "onboard_time": 1702476283,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 760368,
+        "num": 253122,
+        "word": "副局长被儿子举报出轨待遇降为一级科员",
+        "onboard_time": 1702458451,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512817,
+        "num": 252137,
+        "word": "广州彩民独中1.44亿元大奖",
+        "onboard_time": 1702476283,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250926,
+        "num": 250926,
+        "word": "石宇奇 BGM别放我姓石",
+        "onboard_time": 1702474237,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360090,
+        "num": 250839,
+        "word": "警方通报大连一酒店男子裸身坠亡",
+        "onboard_time": 1702474900,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330534,
+        "num": 249113,
+        "word": "终于知道冻紫了是啥意思",
+        "onboard_time": 1702476398,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247128,
+        "num": 247128,
+        "word": "脱轨要播了",
+        "onboard_time": 1702472557,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238452,
+        "num": 238452,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 27,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 220209,
+        "num": 220209,
+        "word": "这5个泡脚习惯看似养生其实很伤身",
+        "onboard_time": 1702472733,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212935,
+        "num": 212935,
+        "word": "杨洋 什锦",
+        "onboard_time": 1702463975,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198238,
+        "num": 198238,
+        "word": "济南发倡议错峰上下班",
+        "onboard_time": 1702477236,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190383,
+        "num": 190383,
+        "word": "陈伟霆曾因负面评价抑郁",
+        "onboard_time": 1702470572,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189716,
+        "num": 189716,
+        "word": "济南发布暴雪红色预警",
+        "onboard_time": 1702473936,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189371,
+        "num": 189371,
+        "word": "患红斑狼疮5年26岁女孩去年当了妈妈",
+        "onboard_time": 1702457254,
+        "rank": 33,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 185154,
+        "num": 185154,
+        "word": "雷神崩了",
+        "onboard_time": 1702472312,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182036,
+        "num": 182036,
+        "word": "秦岚秦海璐聊身材",
+        "onboard_time": 1702475615,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181736,
+        "num": 181736,
+        "word": "新疆6天5夜旅行保姆级攻略",
+        "onboard_time": 1702473457,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 176749,
+        "num": 176749,
+        "word": "父女3人守3644平方公里国土近50年",
+        "onboard_time": 1702476759,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170117,
+        "num": 170117,
+        "word": "天官赐福 更新",
+        "onboard_time": 1702472014,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169552,
+        "num": 169552,
+        "word": "EXO全员入伍",
+        "onboard_time": 1702453953,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162537,
+        "num": 162537,
+        "word": "1岁宝宝盲弹琴准确率接近百分百",
+        "onboard_time": 1702476398,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160106,
+        "num": 160106,
+        "word": "年轻人报复性挤爆3.5分饭店",
+        "onboard_time": 1702455993,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155381,
+        "num": 155381,
+        "word": "辛芷蕾闭眼选和秦岚都是一对",
+        "onboard_time": 1702476998,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147536,
+        "num": 147536,
+        "word": "Minnie身体不适提前退场",
+        "onboard_time": 1702471594,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145869,
+        "num": 145869,
+        "word": "ChatGPT解读董宇辉回应长文",
+        "onboard_time": 1702458335,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138231,
+        "num": 138231,
+        "word": "赵昭仪 你还怪幽默的嘞",
+        "onboard_time": 1702475137,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133281,
+        "num": 133281,
+        "word": "王嘉尔粉丝合照",
+        "onboard_time": 1702472493,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129284,
+        "num": 129284,
+        "word": "马尚三双",
+        "onboard_time": 1702477835,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126620,
+        "num": 126620,
+        "word": "可把我们小孩哥给忙坏了",
+        "onboard_time": 1702478076,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125420,
+        "num": 125420,
+        "word": "杨幂新片入围海南岛国际电影节",
+        "onboard_time": 1702472253,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越两党两国关系新定位的深刻内涵#"
+    }
+  }
+}
