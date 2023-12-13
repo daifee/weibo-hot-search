@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702452857767,
+  "endTime": 1702455749019,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -131,12 +131,36 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1476489,
+      "num": 382556,
+      "word": "张雪峰称国内考试卷考生留学卷家庭",
+      "onboard_time": 1702451734,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1472178,
       "num": 1472178,
       "word": "迪丽热巴真的被秦岚感染了",
       "onboard_time": 1702448916,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1445814,
+      "num": 380699,
+      "word": "EXO全员入伍",
+      "onboard_time": 1702453953,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1444681,
+      "num": 492475,
+      "word": "迈克尔杰克逊 红斑狼疮",
+      "onboard_time": 1702453173,
+      "rank": 5,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1407009,
@@ -208,6 +232,14 @@
       "word": "东方甄选CEO称董宇辉年薪不止网传千万",
       "onboard_time": 1702437094,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842366,
+      "num": 531192,
+      "word": "女孩念台词掐同学脖子确诊狼疮脑病",
+      "onboard_time": 1702453534,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -443,20 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 556938,
-      "num": 382556,
-      "word": "张雪峰称国内考试卷考生留学卷家庭",
-      "onboard_time": 1702451734,
-      "rank": 43,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 553773,
       "num": 553773,
       "word": "创造营2024定档",
       "onboard_time": 1702448495,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513848,
+      "num": 513848,
+      "word": "高途创始人回应挖董宇辉",
+      "onboard_time": 1702454431,
+      "rank": 4,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 493673,
@@ -579,6 +611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 400603,
+      "num": 400603,
+      "word": "爸爸我淹水了我自己站起来了",
+      "onboard_time": 1702451014,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389043,
       "num": 389043,
       "word": "在新疆被炒米粉暴打了一顿",
@@ -601,6 +641,14 @@
       "onboard_time": 1702438776,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 381304,
+      "num": 381304,
+      "word": "孩子不敢抽血被家长踹翻在地",
+      "onboard_time": 1702454193,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374604,
@@ -673,14 +721,6 @@
       "onboard_time": 1702432413,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 352089,
-      "num": 352089,
-      "word": "爸爸我淹水了我自己站起来了",
-      "onboard_time": 1702451014,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344266,
@@ -955,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244422,
+      "num": 244422,
+      "word": "得了红斑狼疮可以正常生育吗",
+      "onboard_time": 1702454734,
+      "rank": 24,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 243297,
       "num": 228779,
       "word": "实在不行猫可以坐下一班车的",
@@ -1083,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214650,
+      "num": 712722,
+      "word": "一图详解中央经济工作会议",
+      "onboard_time": 1702453832,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214600,
       "num": 275130,
       "word": "南京防空警报悼念南京大屠杀死难者",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1702443464,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205729,
+      "num": 205729,
+      "word": "网传联想大厦logo被涂鸦成Huawei",
+      "onboard_time": 1702454852,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 205112,
@@ -1283,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189248,
+      "num": 189248,
+      "word": "孝心外包",
+      "onboard_time": 1702454672,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189205,
       "num": 189205,
       "word": "昭昭前事惕惕后人",
@@ -1339,6 +1411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180550,
+      "num": 180550,
+      "word": "你用什么水煮饭",
+      "onboard_time": 1702454193,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 180432,
       "num": 180432,
       "word": "拒绝假唱 来真的",
@@ -1376,6 +1456,14 @@
       "word": "公司倒闭有你一份力吧",
       "onboard_time": 1702444362,
       "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 175208,
+      "num": 175208,
+      "word": "猫猫 我想自己端着喝",
+      "onboard_time": 1702453052,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -1417,6 +1505,46 @@
       "onboard_time": 1702441363,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167037,
+      "num": 167037,
+      "word": "碳酸锂",
+      "onboard_time": 1702454974,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 161757,
+      "num": 161757,
+      "word": "生活中的暗示",
+      "onboard_time": 1702454313,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161544,
+      "num": 161544,
+      "word": "大学生堆雪人大赛",
+      "onboard_time": 1702455393,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160427,
+      "num": 160427,
+      "word": "横滨水手vs山东泰山",
+      "onboard_time": 1702454135,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159272,
+      "num": 159272,
+      "word": "螺蛳粉把猫整抑郁了",
+      "onboard_time": 1702454672,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 158947,
@@ -1491,6 +1619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149438,
+      "num": 149438,
+      "word": "高途直播间带货额涨超10倍",
+      "onboard_time": 1702454795,
+      "rank": 44,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 148653,
       "num": 160274,
       "word": "电视冻的会跳科目三了",
@@ -1531,12 +1667,44 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 142734,
+      "num": 142734,
+      "word": "民警幼儿园扮人贩子10分钟骗走一群娃",
+      "onboard_time": 1702455694,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142401,
+      "num": 142401,
+      "word": "神隐里的女性角色",
+      "onboard_time": 1702455455,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141908,
       "num": 160199,
       "word": "最讨厌那个杨大爷了",
       "onboard_time": 1702381957,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140128,
+      "num": 140128,
+      "word": "排骨的九种神仙吃法",
+      "onboard_time": 1702455156,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 138870,
+      "num": 138870,
+      "word": "许凯配音承欢记",
+      "onboard_time": 1702455633,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 137787,
