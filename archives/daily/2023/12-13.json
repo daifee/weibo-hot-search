@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702470825174,
+  "endTime": 1702471775363,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -76,10 +76,18 @@
     },
     {
       "raw_hot": 2364579,
-      "num": 431886,
+      "num": 444176,
       "word": "副局长被儿子举报出轨待遇降为一级科员",
       "onboard_time": 1702458451,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2267843,
+      "num": 688788,
+      "word": "东方甄选4天掉粉近10万",
+      "onboard_time": 1702468769,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1702440518,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1997326,
-      "num": 652291,
-      "word": "东方甄选4天掉粉近10万",
-      "onboard_time": 1702468769,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1965731,
@@ -251,6 +251,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 938388,
+      "num": 730242,
+      "word": "南京城沦陷前是什么样",
+      "onboard_time": 1702468832,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 883433,
+      "num": 669733,
+      "word": "董宇辉称不要以饭圈名义污名化任何人",
+      "onboard_time": 1702470332,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869872,
       "num": 451358,
       "word": "杨洋 什锦",
@@ -289,14 +305,6 @@
       "onboard_time": 1702431935,
       "rank": 13,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 792976,
-      "num": 438112,
-      "word": "南京城沦陷前是什么样",
-      "onboard_time": 1702468832,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 772692,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 668616,
+      "num": 668616,
+      "word": "经超小李琳 姐弟恋能有多快乐",
+      "onboard_time": 1702469252,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664254,
       "num": 393743,
       "word": "周海媚曾谈与吕良伟的感情",
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 647452,
-      "num": 434634,
+      "num": 474207,
       "word": "年轻人报复性挤爆3.5分饭店",
       "onboard_time": 1702455993,
       "rank": 25,
@@ -544,14 +560,6 @@
       "word": "谢娜张杰聊过另一个人先走怎么办",
       "onboard_time": 1702396181,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 556686,
-      "num": 324834,
-      "word": "经超小李琳 姐弟恋能有多快乐",
-      "onboard_time": 1702469252,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -771,14 +779,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 389750,
-      "num": 290290,
-      "word": "董宇辉称不要以饭圈名义污名化任何人",
-      "onboard_time": 1702470332,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389043,
       "num": 389043,
       "word": "在新疆被炒米粉暴打了一顿",
@@ -931,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334085,
+      "num": 334085,
+      "word": "特斯拉召回超203万辆车",
+      "onboard_time": 1702468292,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 332769,
       "num": 332769,
       "word": "万达电影易主",
@@ -961,14 +969,6 @@
       "onboard_time": 1702446632,
       "rank": 16,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 326428,
-      "num": 326428,
-      "word": "特斯拉召回超203万辆车",
-      "onboard_time": 1702468292,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 322728,
@@ -1028,7 +1028,7 @@
     },
     {
       "raw_hot": 307574,
-      "num": 464070,
+      "num": 694094,
       "word": "幼儿园老师建雪地迷宫供孩子玩耍",
       "onboard_time": 1702462595,
       "rank": 20,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1702464934,
       "rank": 24,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 298964,
+      "num": 298964,
+      "word": "经常不吃早餐会加速衰老",
+      "onboard_time": 1702468353,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 289602,
@@ -1115,12 +1123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275653,
-      "num": 260382,
-      "word": "经常不吃早餐会加速衰老",
-      "onboard_time": 1702468353,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 274118,
+      "num": 274118,
+      "word": "陈伟霆曾因负面评价抑郁",
+      "onboard_time": 1702470572,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 271076,
@@ -1187,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257672,
+      "num": 257672,
+      "word": "阿拉丁 中国人",
+      "onboard_time": 1702469671,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256985,
       "num": 334510,
       "word": "江苏下雪",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1702461452,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 254041,
-      "num": 254041,
-      "word": "阿拉丁 中国人",
-      "onboard_time": 1702469671,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 253775,
@@ -1451,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223709,
+      "num": 201487,
+      "word": "Minnie身体不适提前退场",
+      "onboard_time": 1702471594,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220312,
       "num": 220312,
       "word": "网传联想大厦logo被涂鸦成Huawei",
@@ -1579,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207942,
+      "num": 207942,
+      "word": "地母系",
+      "onboard_time": 1702470152,
+      "rank": 37,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 206042,
       "num": 206042,
       "word": "小狗生病90岁爷爷奶奶陪伴挂水",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1702369177,
       "rank": 29,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 202532,
+      "num": 202532,
+      "word": "鸣龙少年让我的泪腺通了",
+      "onboard_time": 1702471295,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 202341,
@@ -1891,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179119,
+      "num": 709076,
+      "word": "4个红斑狼疮的常见误区",
+      "onboard_time": 1702467812,
+      "rank": 32,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 178407,
       "num": 178407,
       "word": "杨紫公布起诉黑粉进展",
@@ -1953,14 +1993,6 @@
       "onboard_time": 1702436194,
       "rank": 45,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 170015,
-      "num": 170015,
-      "word": "陈伟霆曾因负面评价抑郁",
-      "onboard_time": 1702470572,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 169222,
@@ -2035,6 +2067,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 164820,
+      "num": 164820,
+      "word": "经超辅导作业",
+      "onboard_time": 1702470754,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163914,
       "num": 454449,
       "word": "用一张纸剪雪人和雪花",
@@ -2043,20 +2083,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162891,
-      "num": 162891,
-      "word": "4个红斑狼疮的常见误区",
-      "onboard_time": 1702467812,
-      "rank": 32,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 161757,
       "num": 161757,
       "word": "生活中的暗示",
       "onboard_time": 1702454313,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161651,
+      "num": 161651,
+      "word": "骨盆前倾锻炼操",
+      "onboard_time": 1702471114,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 160427,
@@ -2148,7 +2188,7 @@
     },
     {
       "raw_hot": 155548,
-      "num": 683054,
+      "num": 736815,
       "word": "明年要坚持稳中求进以进促稳先立后破",
       "onboard_time": 1702467273,
       "rank": 0,
@@ -2169,14 +2209,6 @@
       "onboard_time": 1702382433,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 151409,
-      "num": 151409,
-      "word": "地母系",
-      "onboard_time": 1702470152,
-      "rank": 37,
-      "category": "时尚,美妆"
     },
     {
       "raw_hot": 151056,
@@ -2225,6 +2257,14 @@
       "onboard_time": 1702439076,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 144445,
+      "num": 357262,
+      "word": "格林",
+      "onboard_time": 1702467691,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 143721,
@@ -2355,12 +2395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126979,
-      "num": 126979,
-      "word": "格林",
-      "onboard_time": 1702467691,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 126891,
+      "num": 126891,
+      "word": "为什么一穿高领就难受",
+      "onboard_time": 1702471414,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126635,
@@ -2475,12 +2515,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 112281,
-      "num": 112281,
-      "word": "经超辅导作业",
-      "onboard_time": 1702470754,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 112302,
+      "num": 112302,
+      "word": "一天只能行动一次",
+      "onboard_time": 1702471114,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 110738,
@@ -2683,8 +2723,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29193,
-      "num": 457035,
+      "raw_hot": 30083,
+      "num": 725349,
       "word": "数读中央经济工作会议",
       "onboard_time": 1702469432,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1702471775363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 120823,
+        "num": 736815,
+        "word": "明年要坚持稳中求进以进促稳先立后破",
+        "onboard_time": 1702467273,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 938388,
+        "num": 730242,
+        "word": "南京城沦陷前是什么样",
+        "onboard_time": 1702468832,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30083,
+        "num": 725349,
+        "word": "数读中央经济工作会议",
+        "onboard_time": 1702469432,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179119,
+        "num": 709076,
+        "word": "4个红斑狼疮的常见误区",
+        "onboard_time": 1702467812,
+        "rank": 3,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 111540,
+        "num": 694094,
+        "word": "幼儿园老师建雪地迷宫供孩子玩耍",
+        "onboard_time": 1702462595,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2267843,
+        "num": 688788,
+        "word": "东方甄选4天掉粉近10万",
+        "onboard_time": 1702468769,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883433,
+        "num": 669733,
+        "word": "董宇辉称不要以饭圈名义污名化任何人",
+        "onboard_time": 1702470332,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668616,
+        "num": 668616,
+        "word": "经超小李琳 姐弟恋能有多快乐",
+        "onboard_time": 1702469252,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474207,
+        "num": 474207,
+        "word": "年轻人报复性挤爆3.5分饭店",
+        "onboard_time": 1702455993,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466076,
+        "num": 466076,
+        "word": "周海媚的任性五十年",
+        "onboard_time": 1702438238,
+        "rank": 9,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1139400,
+        "num": 444176,
+        "word": "副局长被儿子举报出轨待遇降为一级科员",
+        "onboard_time": 1702458451,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560385,
+        "num": 425674,
+        "word": "齐舞空间向宋茜道歉",
+        "onboard_time": 1702458272,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404700,
+        "num": 404700,
+        "word": "杨洋 什锦",
+        "onboard_time": 1702463975,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364637,
+        "num": 364637,
+        "word": "联想回应总部logo被涂成华为",
+        "onboard_time": 1702464573,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144445,
+        "num": 357262,
+        "word": "格林",
+        "onboard_time": 1702467691,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450994,
+        "num": 357203,
+        "word": "周海媚",
+        "onboard_time": 1702452573,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 356979,
+        "num": 356979,
+        "word": "辛芷蕾挣的第一笔钱被爸爸裱起来",
+        "onboard_time": 1702465114,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337261,
+        "num": 337261,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 17,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 334085,
+        "num": 334085,
+        "word": "特斯拉召回超203万辆车",
+        "onboard_time": 1702468292,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 328963,
+        "num": 328963,
+        "word": "这个冬天你买草莓了吗",
+        "onboard_time": 1702458451,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 298964,
+        "num": 298964,
+        "word": "经常不吃早餐会加速衰老",
+        "onboard_time": 1702468353,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274118,
+        "num": 274118,
+        "word": "陈伟霆曾因负面评价抑郁",
+        "onboard_time": 1702470572,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266440,
+        "num": 266440,
+        "word": "患红斑狼疮5年26岁女孩去年当了妈妈",
+        "onboard_time": 1702457254,
+        "rank": 22,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 260671,
+        "num": 260671,
+        "word": "跨年晚会阵容",
+        "onboard_time": 1702466852,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257672,
+        "num": 257672,
+        "word": "阿拉丁 中国人",
+        "onboard_time": 1702469671,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240499,
+        "num": 240499,
+        "word": "EXO全员入伍",
+        "onboard_time": 1702453953,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237462,
+        "num": 237462,
+        "word": "大爷2万多买山寨保时捷上路就被查",
+        "onboard_time": 1702464214,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208915,
+        "num": 208915,
+        "word": "ChatGPT解读董宇辉回应长文",
+        "onboard_time": 1702458335,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207942,
+        "num": 207942,
+        "word": "地母系",
+        "onboard_time": 1702470152,
+        "rank": 28,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 202532,
+        "num": 202532,
+        "word": "鸣龙少年让我的泪腺通了",
+        "onboard_time": 1702471295,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223709,
+        "num": 201487,
+        "word": "Minnie身体不适提前退场",
+        "onboard_time": 1702471594,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198323,
+        "num": 198323,
+        "word": "孩子不敢抽血被家长踹翻在地",
+        "onboard_time": 1702454193,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194451,
+        "num": 194451,
+        "word": "2023年最出圈的男性角色",
+        "onboard_time": 1702470034,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173972,
+        "num": 173972,
+        "word": "美拉德口红试色",
+        "onboard_time": 1702466252,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172773,
+        "num": 172773,
+        "word": "大张伟 舒适圈只需要扩大",
+        "onboard_time": 1702469372,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167924,
+        "num": 167924,
+        "word": "真正有致癌风险的是这2种水",
+        "onboard_time": 1702436915,
+        "rank": 35,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 164820,
+        "num": 164820,
+        "word": "经超辅导作业",
+        "onboard_time": 1702470754,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163176,
+        "num": 163176,
+        "word": "何炅回长沙主持",
+        "onboard_time": 1702469432,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161651,
+        "num": 161651,
+        "word": "骨盆前倾锻炼操",
+        "onboard_time": 1702471114,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 159798,
+        "num": 159798,
+        "word": "花少5 顶级浪漫",
+        "onboard_time": 1702465174,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153163,
+        "num": 153163,
+        "word": "加五个鸡蛋的大客户",
+        "onboard_time": 1702462957,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158185,
+        "num": 151391,
+        "word": "胡先煦 我是你最勇敢的儿子吗",
+        "onboard_time": 1702457192,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146863,
+        "num": 146863,
+        "word": "Taylor Swift史上票房最高巡演",
+        "onboard_time": 1702456653,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141312,
+        "num": 141312,
+        "word": "飞机上没网 删照片",
+        "onboard_time": 1702437575,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126891,
+        "num": 126891,
+        "word": "为什么一穿高领就难受",
+        "onboard_time": 1702471414,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118617,
+        "num": 118617,
+        "word": "网红铁头因言语不当向长春道歉",
+        "onboard_time": 1702465354,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 112302,
+        "num": 112302,
+        "word": "一天只能行动一次",
+        "onboard_time": 1702471114,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105579,
+        "num": 105579,
+        "word": "权志龙无吸毒嫌疑将结案",
+        "onboard_time": 1702459654,
+        "rank": 47,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 103046,
+        "num": 103046,
+        "word": "女排世俱杯",
+        "onboard_time": 1702469611,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99908,
+        "num": 99908,
+        "word": "一片雪花到底有多重",
+        "onboard_time": 1702467992,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议#"
+    }
+  }
+}
