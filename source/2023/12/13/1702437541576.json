@@ -1,0 +1,410 @@
+{
+  "runTime": 1702437541576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1587296,
+        "num": 1587296,
+        "word": "红斑狼疮每次复发都是重创",
+        "onboard_time": 1702433438,
+        "rank": 0,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 1287650,
+        "num": 1287650,
+        "word": "现在下雪通知停课 以前下雪通知带锹",
+        "onboard_time": 1702429542,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34568,
+        "num": 1110494,
+        "word": "强信心看数据",
+        "onboard_time": 1702388257,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 957311,
+        "num": 957311,
+        "word": "北京停课",
+        "onboard_time": 1702422805,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 824601,
+        "num": 824601,
+        "word": "为什么很多老人摔一跤没多久就走了",
+        "onboard_time": 1702431935,
+        "rank": 4,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 780005,
+        "num": 780005,
+        "word": "众星发博悼念周海媚",
+        "onboard_time": 1702423347,
+        "rank": 5,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 748623,
+        "num": 748623,
+        "word": "美甲尽头 裸色",
+        "onboard_time": 1702436314,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 745320,
+        "num": 745320,
+        "word": "国家公祭日",
+        "onboard_time": 1702422987,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 619308,
+        "num": 619308,
+        "word": "董宇辉小作文",
+        "onboard_time": 1702433554,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545776,
+        "num": 545776,
+        "word": "脸不对称就练筷子操",
+        "onboard_time": 1702432116,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1086595,
+        "num": 525588,
+        "word": "周海媚去世",
+        "onboard_time": 1702388629,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 558995,
+        "num": 495664,
+        "word": "再见周芷若",
+        "onboard_time": 1702389397,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 460833,
+        "num": 460833,
+        "word": "昨天入职今天出卖全办公室",
+        "onboard_time": 1702426241,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438475,
+        "num": 438475,
+        "word": "碧桂园四名董事自愿减薪",
+        "onboard_time": 1702436255,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 26149,
+        "num": 423466,
+        "word": "这是她们生命的故事",
+        "onboard_time": 1702436438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419568,
+        "num": 419568,
+        "word": "朱丹公开自己以前的朋友圈",
+        "onboard_time": 1702426600,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385151,
+        "num": 385151,
+        "word": "iPhone16或调整相机岛设计",
+        "onboard_time": 1702428521,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 373123,
+        "num": 373123,
+        "word": "乐童音乐家 现实兄妹",
+        "onboard_time": 1702436738,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369122,
+        "num": 369122,
+        "word": "董宇辉再回应小作文事件",
+        "onboard_time": 1702435596,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329910,
+        "num": 329910,
+        "word": "红斑狼疮被称为不死的癌症",
+        "onboard_time": 1702435955,
+        "rank": 19,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 323808,
+        "num": 323808,
+        "word": "EDG夺冠阵容五人五队",
+        "onboard_time": 1702432413,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323465,
+        "num": 323465,
+        "word": "郁可唯演唱会舞台激光损坏观众相机",
+        "onboard_time": 1702429661,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318912,
+        "num": 318912,
+        "word": "猫咪上秒舔毛下秒无症状发病去世",
+        "onboard_time": 1702427800,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309722,
+        "num": 309722,
+        "word": "王安宇演技",
+        "onboard_time": 1702427261,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298447,
+        "num": 298447,
+        "word": "低于这个温度一定要穿秋裤了",
+        "onboard_time": 1702426719,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290828,
+        "num": 290828,
+        "word": "被萌兰笑发财了",
+        "onboard_time": 1702436017,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289602,
+        "num": 289602,
+        "word": "碧桂园取消高管配车",
+        "onboard_time": 1702435596,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 283717,
+        "num": 283717,
+        "word": "万达电影易主",
+        "onboard_time": 1702433914,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 264493,
+        "num": 264493,
+        "word": "肖秀荣谈当前考研复习的主要矛盾",
+        "onboard_time": 1702433017,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191574,
+        "num": 257137,
+        "word": "南京防空警报悼念南京大屠杀死难者",
+        "onboard_time": 1702434817,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 293598,
+        "num": 255281,
+        "word": "真正有致癌风险的是这2种水",
+        "onboard_time": 1702436915,
+        "rank": 30,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 251440,
+        "num": 251440,
+        "word": "东方甄选CEO称董宇辉年薪不止网传千万",
+        "onboard_time": 1702437094,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232718,
+        "num": 232718,
+        "word": "系统性红斑狼疮脑病发病几小时内可死亡",
+        "onboard_time": 1702436255,
+        "rank": 32,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 211539,
+        "num": 211539,
+        "word": "独行侠拿下湖人",
+        "onboard_time": 1702437156,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209586,
+        "num": 209586,
+        "word": "周海媚曾经拒演周芷若",
+        "onboard_time": 1702428282,
+        "rank": 34,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 207699,
+        "num": 207699,
+        "word": "胡先煦 我有一个压箱底的冷笑话",
+        "onboard_time": 1702434336,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202435,
+        "num": 202435,
+        "word": "多方回应大批空姐转行卖车",
+        "onboard_time": 1702428942,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198124,
+        "num": 198124,
+        "word": "吴千语情商",
+        "onboard_time": 1702437334,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196776,
+        "num": 196776,
+        "word": "宁德时代竞业限制企业达百家",
+        "onboard_time": 1702435955,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 196713,
+        "num": 196713,
+        "word": "我的2023年度总结",
+        "onboard_time": 1702436553,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194521,
+        "num": 194521,
+        "word": "周海媚生前最后一次公开亮相",
+        "onboard_time": 1702390240,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 185384,
+        "num": 185384,
+        "word": "刘德华方否认代言乳酸菌酸菜",
+        "onboard_time": 1702437454,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182820,
+        "num": 182820,
+        "word": "恋爱脑最经典的一句话",
+        "onboard_time": 1702427442,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180007,
+        "num": 180007,
+        "word": "这相亲对象确实很离谱",
+        "onboard_time": 1702430797,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171102,
+        "num": 171102,
+        "word": "创业创了一半老板去考公了",
+        "onboard_time": 1702398812,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170225,
+        "num": 170225,
+        "word": "126个药品新增进医保",
+        "onboard_time": 1702436194,
+        "rank": 45,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 166616,
+        "num": 166616,
+        "word": "A股",
+        "onboard_time": 1702433075,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162442,
+        "num": 162442,
+        "word": "女孩以为手上长的是冻疮却被确诊红斑狼疮",
+        "onboard_time": 1702391664,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161364,
+        "num": 161364,
+        "word": "辛芷蕾看似团霸实则团欺",
+        "onboard_time": 1702429780,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160253,
+        "num": 160253,
+        "word": "为什么喝了热红酒更容易头痛",
+        "onboard_time": 1702432894,
+        "rank": 49,
+        "category": "健康医疗,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平和彭丽媛出席欢迎宴会#"
+    }
+  }
+}

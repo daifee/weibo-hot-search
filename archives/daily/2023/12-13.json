@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702435292439,
+  "endTime": 1702437541576,
   "band_list": [
     {
       "raw_hot": 6474172,
@@ -67,6 +67,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1587296,
+      "num": 1587296,
+      "word": "红斑狼疮每次复发都是重创",
+      "onboard_time": 1702433438,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 1539650,
       "num": 594153,
       "word": "红斑狼疮",
@@ -107,11 +115,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 980017,
-      "num": 512231,
-      "word": "红斑狼疮每次复发都是重创",
-      "onboard_time": 1702433438,
-      "rank": 30,
+      "raw_hot": 824601,
+      "num": 824601,
+      "word": "为什么很多老人摔一跤没多久就走了",
+      "onboard_time": 1702431935,
+      "rank": 13,
       "category": "健康医疗,社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 748623,
+      "num": 748623,
+      "word": "美甲尽头 裸色",
+      "onboard_time": 1702436314,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 705639,
       "num": 1363048,
       "word": "骄阳似我 张凌赫魏大勋",
@@ -145,14 +161,6 @@
       "onboard_time": 1702426719,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 658133,
-      "num": 658133,
-      "word": "为什么很多老人摔一跤没多久就走了",
-      "onboard_time": 1702431935,
-      "rank": 13,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 648559,
@@ -193,6 +201,14 @@
       "onboard_time": 1702422628,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 619308,
+      "num": 619308,
+      "word": "董宇辉小作文",
+      "onboard_time": 1702433554,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 607430,
@@ -259,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 508092,
-      "num": 508092,
-      "word": "董宇辉小作文",
-      "onboard_time": 1702433554,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 493673,
       "num": 349683,
       "word": "红斑狼疮是免疫病不是皮肤病",
@@ -289,6 +297,14 @@
       "onboard_time": 1702427261,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438475,
+      "num": 438475,
+      "word": "碧桂园四名董事自愿减薪",
+      "onboard_time": 1702436255,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 438257,
@@ -363,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373123,
+      "num": 373123,
+      "word": "乐童音乐家 现实兄妹",
+      "onboard_time": 1702436738,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369975,
       "num": 382626,
       "word": "肖秀荣谈当前考研复习的主要矛盾",
       "onboard_time": 1702433017,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 369122,
+      "num": 369122,
+      "word": "董宇辉再回应小作文事件",
+      "onboard_time": 1702435596,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 365499,
@@ -435,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329910,
+      "num": 329910,
+      "word": "红斑狼疮被称为不死的癌症",
+      "onboard_time": 1702435955,
+      "rank": 19,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 322728,
       "num": 322728,
       "word": "自测甲状腺结节的方法",
@@ -465,6 +505,30 @@
       "onboard_time": 1702394509,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293598,
+      "num": 255281,
+      "word": "真正有致癌风险的是这2种水",
+      "onboard_time": 1702436915,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 290828,
+      "num": 290828,
+      "word": "被萌兰笑发财了",
+      "onboard_time": 1702436017,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 289602,
+      "num": 289602,
+      "word": "碧桂园取消高管配车",
+      "onboard_time": 1702435596,
+      "rank": 26,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 283717,
@@ -507,6 +571,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 251440,
+      "num": 251440,
+      "word": "东方甄选CEO称董宇辉年薪不止网传千万",
+      "onboard_time": 1702437094,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247844,
       "num": 247844,
       "word": "一碗30元的网红面馆卖不动了",
@@ -539,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232718,
+      "num": 232718,
+      "word": "系统性红斑狼疮脑病发病几小时内可死亡",
+      "onboard_time": 1702436255,
+      "rank": 32,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 231044,
       "num": 231044,
       "word": "恋爱脑最经典的一句话",
@@ -564,7 +644,7 @@
     },
     {
       "raw_hot": 214600,
-      "num": 214600,
+      "num": 257137,
       "word": "南京防空警报悼念南京大屠杀死难者",
       "onboard_time": 1702434817,
       "rank": 33,
@@ -577,6 +657,14 @@
       "onboard_time": 1702434094,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 211539,
+      "num": 211539,
+      "word": "独行侠拿下湖人",
+      "onboard_time": 1702437156,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 208552,
@@ -651,12 +739,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 198124,
+      "num": 198124,
+      "word": "吴千语情商",
+      "onboard_time": 1702437334,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198015,
       "num": 198015,
       "word": "周海媚曾说人生不能后悔就得往前走",
       "onboard_time": 1702394631,
       "rank": 30,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 196776,
+      "num": 196776,
+      "word": "宁德时代竞业限制企业达百家",
+      "onboard_time": 1702435955,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 196713,
+      "num": 196713,
+      "word": "我的2023年度总结",
+      "onboard_time": 1702436553,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 189677,
@@ -681,6 +793,14 @@
       "onboard_time": 1702423708,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185384,
+      "num": 185384,
+      "word": "刘德华方否认代言乳酸菌酸菜",
+      "onboard_time": 1702437454,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 182199,
@@ -721,6 +841,14 @@
       "onboard_time": 1702434094,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170225,
+      "num": 170225,
+      "word": "126个药品新增进医保",
+      "onboard_time": 1702436194,
+      "rank": 45,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 169222,
@@ -1025,6 +1153,14 @@
       "onboard_time": 1702403418,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26149,
+      "num": 423466,
+      "word": "这是她们生命的故事",
+      "onboard_time": 1702436438,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25312,
