@@ -1,0 +1,410 @@
+{
+  "runTime": 1702456542682,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 343104,
+        "num": 789229,
+        "word": "一图详解中央经济工作会议",
+        "onboard_time": 1702453832,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 694306,
+        "num": 694306,
+        "word": "高途创始人回应挖董宇辉",
+        "onboard_time": 1702454431,
+        "rank": 1,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 73765,
+        "num": 564128,
+        "word": "2023年国家公祭日",
+        "onboard_time": 1702438835,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 553123,
+        "num": 553123,
+        "word": "真正有致癌风险的是这2种水",
+        "onboard_time": 1702436915,
+        "rank": 3,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 401371,
+        "num": 401371,
+        "word": "爸爸我淹水了我自己站起来了",
+        "onboard_time": 1702451014,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1965731,
+        "num": 378555,
+        "word": "迈克尔杰克逊 红斑狼疮",
+        "onboard_time": 1702453173,
+        "rank": 5,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 937681,
+        "num": 373237,
+        "word": "女孩念台词掐同学脖子确诊狼疮脑病",
+        "onboard_time": 1702453534,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922215,
+        "num": 370223,
+        "word": "飞机上没网 删照片",
+        "onboard_time": 1702437575,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350978,
+        "num": 350978,
+        "word": "女孩千里认亲被拒已回养父母身边",
+        "onboard_time": 1702444180,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334631,
+        "num": 334631,
+        "word": "杨丞琳事件",
+        "onboard_time": 1702445619,
+        "rank": 9,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1251188,
+        "num": 334424,
+        "word": "张雪峰称国内考试卷考生留学卷家庭",
+        "onboard_time": 1702451734,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1194537,
+        "num": 334200,
+        "word": "EXO全员入伍",
+        "onboard_time": 1702453953,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 849426,
+        "num": 334134,
+        "word": "周海媚",
+        "onboard_time": 1702452573,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 333850,
+        "num": 333850,
+        "word": "一个美人不必长得像另一个美人",
+        "onboard_time": 1702446874,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756281,
+        "num": 330049,
+        "word": "接吻是谁想出来的",
+        "onboard_time": 1702440518,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 596767,
+        "num": 325249,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 15,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 538807,
+        "num": 320562,
+        "word": "孩子不敢抽血被家长踹翻在地",
+        "onboard_time": 1702454193,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709965,
+        "num": 314793,
+        "word": "周海媚的任性五十年",
+        "onboard_time": 1702438238,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 471687,
+        "num": 305871,
+        "word": "周海媚去世",
+        "onboard_time": 1702388629,
+        "rank": 18,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 357565,
+        "num": 303159,
+        "word": "古茗莲花楼 三人",
+        "onboard_time": 1702445737,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299226,
+        "num": 299226,
+        "word": "鹿晗 云南",
+        "onboard_time": 1702443763,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283585,
+        "num": 283585,
+        "word": "民警幼儿园扮人贩子10分钟骗走一群娃",
+        "onboard_time": 1702455694,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273488,
+        "num": 273488,
+        "word": "红斑狼疮早期可能会口腔溃疡",
+        "onboard_time": 1702446632,
+        "rank": 22,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 271076,
+        "num": 271076,
+        "word": "格林向努尔基奇道歉",
+        "onboard_time": 1702456293,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257166,
+        "num": 257166,
+        "word": "创造营2024定档",
+        "onboard_time": 1702448495,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240531,
+        "num": 240531,
+        "word": "年轻人报复性挤爆3.5分饭店",
+        "onboard_time": 1702455993,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239196,
+        "num": 239196,
+        "word": "辛芷蕾 三秒内捡起来还能吃",
+        "onboard_time": 1702456054,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237805,
+        "num": 237805,
+        "word": "碳酸锂",
+        "onboard_time": 1702454974,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228817,
+        "num": 228817,
+        "word": "孝心外包",
+        "onboard_time": 1702454672,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225516,
+        "num": 225516,
+        "word": "得了红斑狼疮可以正常生育吗",
+        "onboard_time": 1702454734,
+        "rank": 29,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 220312,
+        "num": 220312,
+        "word": "网传联想大厦logo被涂鸦成Huawei",
+        "onboard_time": 1702454852,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214469,
+        "num": 214469,
+        "word": "房东不退押金女子怒开水龙头报复",
+        "onboard_time": 1702446515,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201235,
+        "num": 201235,
+        "word": "生孩子能治痛经是真的吗",
+        "onboard_time": 1702455875,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192757,
+        "num": 192757,
+        "word": "吴世勋 入伍",
+        "onboard_time": 1702448556,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191176,
+        "num": 191176,
+        "word": "林孝埈希望个别粉丝停止不理性行为",
+        "onboard_time": 1702451794,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185914,
+        "num": 185914,
+        "word": "离职半年后收到了前公司的年终奖",
+        "onboard_time": 1702440941,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185748,
+        "num": 185748,
+        "word": "SHINee官宣香港演唱会",
+        "onboard_time": 1702456233,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178271,
+        "num": 178271,
+        "word": "秦海璐这段我真的狠狠代入",
+        "onboard_time": 1702451074,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165480,
+        "num": 165480,
+        "word": "大学生堆雪人大赛",
+        "onboard_time": 1702455393,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163389,
+        "num": 163389,
+        "word": "ChatGPT 欺骗人类",
+        "onboard_time": 1702444777,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 162477,
+        "num": 162477,
+        "word": "山西大同村邻互杀事件调查",
+        "onboard_time": 1702441302,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155906,
+        "num": 155906,
+        "word": "许凯配音承欢记",
+        "onboard_time": 1702455633,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155806,
+        "num": 155806,
+        "word": "神隐里的女性角色",
+        "onboard_time": 1702455455,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155226,
+        "num": 155226,
+        "word": "为啥有人吃了剩菜没事有人却进了医院",
+        "onboard_time": 1702443881,
+        "rank": 43,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 154806,
+        "num": 154806,
+        "word": "猫猫 我想自己端着喝",
+        "onboard_time": 1702453052,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147769,
+        "num": 147769,
+        "word": "雪人张起灵",
+        "onboard_time": 1702450174,
+        "rank": 45,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 144319,
+        "num": 144319,
+        "word": "你用什么水煮饭",
+        "onboard_time": 1702454193,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140059,
+        "num": 140059,
+        "word": "华为首款开放式耳机",
+        "onboard_time": 1702449453,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139493,
+        "num": 139493,
+        "word": "生活中的暗示",
+        "onboard_time": 1702454313,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135814,
+        "num": 135814,
+        "word": "螺蛳粉把猫整抑郁了",
+        "onboard_time": 1702454672,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}

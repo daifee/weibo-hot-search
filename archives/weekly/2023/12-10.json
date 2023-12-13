@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702455749019,
+  "endTime": 1702456542682,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -403,6 +403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1965731,
+      "num": 492475,
+      "word": "迈克尔杰克逊 红斑狼疮",
+      "onboard_time": 1702453173,
+      "rank": 5,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1955776,
       "num": 1955776,
       "word": "体脂不断下降的好习惯",
@@ -649,14 +657,6 @@
       "onboard_time": 1702453953,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1444681,
-      "num": 492475,
-      "word": "迈克尔杰克逊 红斑狼疮",
-      "onboard_time": 1702453173,
-      "rank": 5,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1438720,
@@ -1067,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937681,
+      "num": 531192,
+      "word": "女孩念台词掐同学脖子确诊狼疮脑病",
+      "onboard_time": 1702453534,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 923240,
       "num": 500519,
       "word": "易孕体质是没有科学避孕",
@@ -1232,14 +1240,6 @@
       "word": "华润集团曝光四家假央企",
       "onboard_time": 1702176693,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 842366,
-      "num": 531192,
-      "word": "女孩念台词掐同学脖子确诊狼疮脑病",
-      "onboard_time": 1702453534,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1641,6 +1641,14 @@
       "onboard_time": 1702132179,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694306,
+      "num": 694306,
+      "word": "高途创始人回应挖董宇辉",
+      "onboard_time": 1702454431,
+      "rank": 4,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 689199,
@@ -2315,6 +2323,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 538807,
+      "num": 381304,
+      "word": "孩子不敢抽血被家长踹翻在地",
+      "onboard_time": 1702454193,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538733,
       "num": 538733,
       "word": "唐艺昕叫张若昀小张",
@@ -2393,14 +2409,6 @@
       "onboard_time": 1702179996,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 513848,
-      "num": 513848,
-      "word": "高途创始人回应挖董宇辉",
-      "onboard_time": 1702454431,
-      "rank": 4,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 513430,
@@ -3203,20 +3211,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 401371,
+      "num": 401371,
+      "word": "爸爸我淹水了我自己站起来了",
+      "onboard_time": 1702451014,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401223,
       "num": 401223,
       "word": "JieJie meiko",
       "onboard_time": 1702443106,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 400603,
-      "num": 400603,
-      "word": "爸爸我淹水了我自己站起来了",
-      "onboard_time": 1702451014,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399274,
@@ -3385,14 +3393,6 @@
       "onboard_time": 1702438776,
       "rank": 18,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 381304,
-      "num": 381304,
-      "word": "孩子不敢抽血被家长踹翻在地",
-      "onboard_time": 1702454193,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381044,
@@ -3777,6 +3777,14 @@
       "onboard_time": 1702168649,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 343104,
+      "num": 789229,
+      "word": "一图详解中央经济工作会议",
+      "onboard_time": 1702453832,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 342820,
@@ -4611,6 +4619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283585,
+      "num": 283585,
+      "word": "民警幼儿园扮人贩子10分钟骗走一群娃",
+      "onboard_time": 1702455694,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281766,
       "num": 281766,
       "word": "王安宇秦海璐 左肩有你",
@@ -4817,6 +4833,14 @@
       "onboard_time": 1702388753,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271076,
+      "num": 271076,
+      "word": "格林向努尔基奇道歉",
+      "onboard_time": 1702456293,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 271002,
@@ -5451,6 +5475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240531,
+      "num": 240531,
+      "word": "年轻人报复性挤爆3.5分饭店",
+      "onboard_time": 1702455993,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240361,
       "num": 240361,
       "word": "张杰又在搞事了",
@@ -5515,6 +5547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239196,
+      "num": 239196,
+      "word": "辛芷蕾 三秒内捡起来还能吃",
+      "onboard_time": 1702456054,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239081,
       "num": 239081,
       "word": "横宫七海去世",
@@ -5553,6 +5593,14 @@
       "onboard_time": 1702339656,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 237805,
+      "num": 237805,
+      "word": "碳酸锂",
+      "onboard_time": 1702454974,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 237711,
@@ -5851,6 +5899,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 228817,
+      "num": 228817,
+      "word": "孝心外包",
+      "onboard_time": 1702454672,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228176,
       "num": 228176,
       "word": "余承东回应问界汽车冬测结果",
@@ -6083,6 +6139,14 @@
       "category": "动漫,剧集"
     },
     {
+      "raw_hot": 220312,
+      "num": 220312,
+      "word": "网传联想大厦logo被涂鸦成Huawei",
+      "onboard_time": 1702454852,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 220233,
       "num": 220233,
       "word": "古巨基演唱会嘉宾是苏有朋",
@@ -6273,14 +6337,6 @@
       "onboard_time": 1702450596,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214650,
-      "num": 712722,
-      "word": "一图详解中央经济工作会议",
-      "onboard_time": 1702453832,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 214600,
@@ -6587,14 +6643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205729,
-      "num": 205729,
-      "word": "网传联想大厦logo被涂鸦成Huawei",
-      "onboard_time": 1702454852,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 205662,
       "num": 205662,
       "word": "李同光 我只要师傅",
@@ -6833,6 +6881,14 @@
       "onboard_time": 1702429241,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201235,
+      "num": 201235,
+      "word": "生孩子能治痛经是真的吗",
+      "onboard_time": 1702455875,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201107,
@@ -7379,14 +7435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 189248,
-      "num": 189248,
-      "word": "孝心外包",
-      "onboard_time": 1702454672,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189205,
       "num": 189205,
       "word": "昭昭前事惕惕后人",
@@ -7545,6 +7593,14 @@
       "onboard_time": 1702385734,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 185748,
+      "num": 185748,
+      "word": "SHINee官宣香港演唱会",
+      "onboard_time": 1702456233,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 185735,
@@ -8275,14 +8331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167037,
-      "num": 167037,
-      "word": "碳酸锂",
-      "onboard_time": 1702454974,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 166221,
       "num": 166221,
       "word": "原来高海宁是个甜妹",
@@ -8305,6 +8353,14 @@
       "onboard_time": 1702364314,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165480,
+      "num": 165480,
+      "word": "大学生堆雪人大赛",
+      "onboard_time": 1702455393,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165285,
@@ -8417,14 +8473,6 @@
       "onboard_time": 1702271973,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161544,
-      "num": 161544,
-      "word": "大学生堆雪人大赛",
-      "onboard_time": 1702455393,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161421,
@@ -8651,6 +8699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155906,
+      "num": 155906,
+      "word": "许凯配音承欢记",
+      "onboard_time": 1702455633,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155895,
       "num": 155895,
       "word": "时光代理人 刘枭",
@@ -8665,6 +8721,14 @@
       "onboard_time": 1702358857,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 155806,
+      "num": 155806,
+      "word": "神隐里的女性角色",
+      "onboard_time": 1702455455,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 155239,
@@ -9123,14 +9187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142734,
-      "num": 142734,
-      "word": "民警幼儿园扮人贩子10分钟骗走一群娃",
-      "onboard_time": 1702455694,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142705,
       "num": 142705,
       "word": "iG的一百胜",
@@ -9169,14 +9225,6 @@
       "onboard_time": 1702297964,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142401,
-      "num": 142401,
-      "word": "神隐里的女性角色",
-      "onboard_time": 1702455455,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 142146,
@@ -9337,14 +9385,6 @@
       "onboard_time": 1702206754,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138870,
-      "num": 138870,
-      "word": "许凯配音承欢记",
-      "onboard_time": 1702455633,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 138584,
