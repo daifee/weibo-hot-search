@@ -1,0 +1,410 @@
+{
+  "runTime": 1702492491087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16717,
+        "num": 109417,
+        "word": "100秒划2024年经济工作重点",
+        "onboard_time": 1702472434,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108469,
+        "num": 108469,
+        "word": "红薯片真的可以拿来当被子用",
+        "onboard_time": 1702478502,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8901,
+        "num": 104979,
+        "word": "以国之名悼我同胞",
+        "onboard_time": 1702460073,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104254,
+        "num": 104254,
+        "word": "i人喜欢的东西",
+        "onboard_time": 1702473157,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81734,
+        "num": 81734,
+        "word": "广州彩民独中1.44亿元大奖",
+        "onboard_time": 1702476283,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158686,
+        "num": 81429,
+        "word": "人民在线评网红痞幼盗用视频事件",
+        "onboard_time": 1702473457,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 138265,
+        "num": 80877,
+        "word": "刚开始只是逃水课",
+        "onboard_time": 1702478319,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119099,
+        "num": 80676,
+        "word": "东方甄选4天掉粉近10万",
+        "onboard_time": 1702468769,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91743,
+        "num": 79844,
+        "word": "水逆来了 重灾区的星座要小心",
+        "onboard_time": 1702480774,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83938,
+        "num": 79466,
+        "word": "王嘉尔 创造营2024导师",
+        "onboard_time": 1702481973,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99349,
+        "num": 79319,
+        "word": "考研考编考公 三手抓",
+        "onboard_time": 1702474299,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78879,
+        "num": 78879,
+        "word": "很想很想你 实在不行别睡了",
+        "onboard_time": 1702475137,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72704,
+        "num": 72704,
+        "word": "胡先煦多大了还骑妈妈脖子",
+        "onboard_time": 1702473576,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59870,
+        "num": 59870,
+        "word": "SM卖1w 东大门卖500",
+        "onboard_time": 1702472975,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59268,
+        "num": 59268,
+        "word": "官方回应杨丞琳演唱会主办方经营异常",
+        "onboard_time": 1702490959,
+        "rank": 14,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 55313,
+        "num": 55313,
+        "word": "齐舞空间向宋茜道歉",
+        "onboard_time": 1702458272,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48447,
+        "num": 48447,
+        "word": "大钟奖主办方破产",
+        "onboard_time": 1702484966,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40596,
+        "num": 40596,
+        "word": "董宇辉称不要以饭圈名义污名化任何人",
+        "onboard_time": 1702470332,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39879,
+        "num": 39879,
+        "word": "ChatGPT解读董宇辉回应长文",
+        "onboard_time": 1702458335,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45874,
+        "num": 39864,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 19,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 160379,
+        "num": 39846,
+        "word": "周海媚的独居者之困",
+        "onboard_time": 1702475435,
+        "rank": 20,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 132646,
+        "num": 39822,
+        "word": "副局长被儿子举报出轨待遇降为一级科员",
+        "onboard_time": 1702458451,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114287,
+        "num": 39799,
+        "word": "脾胃虚弱的人脸上有4个表现",
+        "onboard_time": 1702476283,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40776,
+        "num": 39784,
+        "word": "警方通报大连一酒店男子裸身坠亡",
+        "onboard_time": 1702474900,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39769,
+        "num": 39769,
+        "word": "至少要从30岁开始运动锻炼",
+        "onboard_time": 1702479698,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 33091,
+        "num": 33091,
+        "word": "终于知道冻紫了是啥意思",
+        "onboard_time": 1702476398,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31721,
+        "num": 31721,
+        "word": "脱轨要播了",
+        "onboard_time": 1702472557,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30811,
+        "num": 30811,
+        "word": "秦海璐袁泉 话剧青蛇",
+        "onboard_time": 1702479458,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29194,
+        "num": 29194,
+        "word": "这5个泡脚习惯看似养生其实很伤身",
+        "onboard_time": 1702472733,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27189,
+        "num": 27189,
+        "word": "张纯如曾强烈要求日本驻美大使道歉",
+        "onboard_time": 1702488200,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26693,
+        "num": 26693,
+        "word": "天官赐福 更新",
+        "onboard_time": 1702472014,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 26582,
+        "num": 26582,
+        "word": "EXO全员入伍",
+        "onboard_time": 1702453953,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25791,
+        "num": 25791,
+        "word": "杨洋 什锦",
+        "onboard_time": 1702463975,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25659,
+        "num": 25659,
+        "word": "湖南卫视 跨年街",
+        "onboard_time": 1702478435,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25619,
+        "num": 25619,
+        "word": "Minnie身体不适提前退场",
+        "onboard_time": 1702471594,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25512,
+        "num": 25512,
+        "word": "鸣龙少年",
+        "onboard_time": 1702479518,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25399,
+        "num": 25399,
+        "word": "繁花要来了",
+        "onboard_time": 1702474237,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22805,
+        "num": 25395,
+        "word": "经超小李琳 姐弟恋能有多快乐",
+        "onboard_time": 1702469252,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22637,
+        "num": 25371,
+        "word": "马嘉祺 中戏汇演",
+        "onboard_time": 1702480056,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21900,
+        "num": 25362,
+        "word": "年轻在肩 气质在背",
+        "onboard_time": 1702478377,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20650,
+        "num": 25344,
+        "word": "马景涛怀念周海媚",
+        "onboard_time": 1702482570,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 19607,
+        "num": 25334,
+        "word": "被这位辅导员的恋爱观戳到了",
+        "onboard_time": 1702478617,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17975,
+        "num": 25317,
+        "word": "莲花楼观感",
+        "onboard_time": 1702477059,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17383,
+        "num": 25313,
+        "word": "陈伟霆曾因负面评价抑郁",
+        "onboard_time": 1702470572,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16983,
+        "num": 25297,
+        "word": "南京城沦陷前是什么样",
+        "onboard_time": 1702468832,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16377,
+        "num": 25278,
+        "word": "瀑布般的头发",
+        "onboard_time": 1702478858,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 16022,
+        "num": 25268,
+        "word": "赵睿 受伤",
+        "onboard_time": 1702476938,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15362,
+        "num": 25251,
+        "word": "石凯新单曲",
+        "onboard_time": 1702490175,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15141,
+        "num": 25233,
+        "word": "辛芷蕾闭眼选和秦岚都是一对",
+        "onboard_time": 1702476998,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14280,
+        "num": 25226,
+        "word": "为考研加油",
+        "onboard_time": 1702482991,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议#"
+    }
+  }
+}
