@@ -1,0 +1,410 @@
+{
+  "runTime": 1702451817851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208124,
+        "num": 1208124,
+        "word": "真正有致癌风险的是这2种水",
+        "onboard_time": 1702436915,
+        "rank": 0,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 1184120,
+        "num": 1184120,
+        "word": "迪丽热巴真的被秦岚感染了",
+        "onboard_time": 1702448916,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94823,
+        "num": 1140768,
+        "word": "2023年国家公祭日",
+        "onboard_time": 1702438835,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1783592,
+        "num": 1140571,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 3,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 1132458,
+        "num": 1132458,
+        "word": "周海媚的任性五十年",
+        "onboard_time": 1702438238,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1726983,
+        "num": 987083,
+        "word": "飞机上没网 删照片",
+        "onboard_time": 1702437575,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 750580,
+        "num": 750580,
+        "word": "房东不退押金女子怒开水龙头报复",
+        "onboard_time": 1702446515,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644033,
+        "num": 644033,
+        "word": "女孩千里认亲被拒已回养父母身边",
+        "onboard_time": 1702444180,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609164,
+        "num": 609164,
+        "word": "一个美人不必长得像另一个美人",
+        "onboard_time": 1702446874,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496070,
+        "num": 496070,
+        "word": "创造营2024定档",
+        "onboard_time": 1702448495,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 897709,
+        "num": 472156,
+        "word": "接吻是谁想出来的",
+        "onboard_time": 1702440518,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 698205,
+        "num": 444380,
+        "word": "杨丞琳事件",
+        "onboard_time": 1702445619,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1059449,
+        "num": 433986,
+        "word": "吴世勋 入伍",
+        "onboard_time": 1702448556,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664254,
+        "num": 393743,
+        "word": "周海媚曾谈与吕良伟的感情",
+        "onboard_time": 1702451134,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 651039,
+        "num": 375098,
+        "word": "周海媚去世",
+        "onboard_time": 1702388629,
+        "rank": 14,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 522760,
+        "num": 347578,
+        "word": "古茗莲花楼 三人",
+        "onboard_time": 1702445737,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326262,
+        "num": 326262,
+        "word": "ChatGPT 欺骗人类",
+        "onboard_time": 1702444777,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 325646,
+        "num": 325646,
+        "word": "鹿晗 云南",
+        "onboard_time": 1702443763,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320465,
+        "num": 320465,
+        "word": "库里还能忍多久",
+        "onboard_time": 1702448916,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286850,
+        "num": 286850,
+        "word": "雪人张起灵",
+        "onboard_time": 1702450174,
+        "rank": 19,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 281967,
+        "num": 281967,
+        "word": "爸爸我淹水了我自己站起来了",
+        "onboard_time": 1702451014,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281028,
+        "num": 281028,
+        "word": "孙颖莎首轮对阵张本美和",
+        "onboard_time": 1702448195,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258606,
+        "num": 258606,
+        "word": "山西大同村邻互杀事件调查",
+        "onboard_time": 1702441302,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253775,
+        "num": 253775,
+        "word": "华为首款开放式耳机",
+        "onboard_time": 1702449453,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 250326,
+        "num": 250326,
+        "word": "离职半年后收到了前公司的年终奖",
+        "onboard_time": 1702440941,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242210,
+        "num": 242210,
+        "word": "红斑狼疮早期可能会口腔溃疡",
+        "onboard_time": 1702446632,
+        "rank": 25,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 241239,
+        "num": 241239,
+        "word": "秦海璐这段我真的狠狠代入",
+        "onboard_time": 1702451074,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235544,
+        "num": 235544,
+        "word": "说英雄谁是英雄副导演否认刘宇宁加戏",
+        "onboard_time": 1702447718,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214785,
+        "num": 214785,
+        "word": "柯洁不敌申真谞",
+        "onboard_time": 1702450596,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125158,
+        "num": 207216,
+        "word": "红斑狼疮高发于育龄期女性",
+        "onboard_time": 1702445500,
+        "rank": 29,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 205112,
+        "num": 205112,
+        "word": "猫眼美甲",
+        "onboard_time": 1702450414,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 204994,
+        "num": 204994,
+        "word": "东方甄选后院起火带火高途",
+        "onboard_time": 1702447958,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192730,
+        "num": 192730,
+        "word": "为什么很多老人摔一跤没多久就走了",
+        "onboard_time": 1702431935,
+        "rank": 32,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 187394,
+        "num": 187394,
+        "word": "董宇辉小作文",
+        "onboard_time": 1702433554,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170848,
+        "num": 170848,
+        "word": "为啥有人吃了剩菜没事有人却进了医院",
+        "onboard_time": 1702443881,
+        "rank": 34,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 166834,
+        "num": 166834,
+        "word": "美甲尽头 裸色",
+        "onboard_time": 1702436314,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 165701,
+        "num": 165701,
+        "word": "红斑狼疮每次复发都是重创",
+        "onboard_time": 1702433438,
+        "rank": 36,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 158947,
+        "num": 158947,
+        "word": "推拿科夜门诊挤满年轻人",
+        "onboard_time": 1702450232,
+        "rank": 37,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 158872,
+        "num": 158872,
+        "word": "郑渊洁称存信的房子将来改成信件博物馆",
+        "onboard_time": 1702451495,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 155764,
+        "num": 155764,
+        "word": "杭州女性比男性多11万",
+        "onboard_time": 1702444598,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155239,
+        "num": 155239,
+        "word": "男孩看病重父亲捡近16万现金报警返还",
+        "onboard_time": 1702451373,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147437,
+        "num": 147437,
+        "word": "一念关山微博开分8.5",
+        "onboard_time": 1702449274,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147400,
+        "num": 147400,
+        "word": "东方甄选CEO称董宇辉年薪不止网传千万",
+        "onboard_time": 1702437094,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143512,
+        "num": 143512,
+        "word": "张雪峰称国内考试卷考生留学卷家庭",
+        "onboard_time": 1702451734,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 137307,
+        "num": 137307,
+        "word": "程雨杉 生而为女没有错",
+        "onboard_time": 1702450414,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133714,
+        "num": 133714,
+        "word": "专家称中国油价不高",
+        "onboard_time": 1702448674,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 132468,
+        "num": 132468,
+        "word": "iPhone16或调整相机岛设计",
+        "onboard_time": 1702428521,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131142,
+        "num": 131142,
+        "word": "林孝埈希望个别粉丝停止不理性行为",
+        "onboard_time": 1702451794,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124433,
+        "num": 124433,
+        "word": "灯火阑珊被取消奥斯卡参赛资格",
+        "onboard_time": 1702439740,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124030,
+        "num": 124030,
+        "word": "再见周芷若",
+        "onboard_time": 1702389397,
+        "rank": 49,
+        "category": "艺人,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议#"
+    }
+  }
+}
