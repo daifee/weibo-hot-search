@@ -1,0 +1,410 @@
+{
+  "runTime": 1702434640858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2454589,
+        "num": 2454589,
+        "word": "国家公祭日",
+        "onboard_time": 1702422987,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1601541,
+        "num": 1601541,
+        "word": "北京停课",
+        "onboard_time": 1702422805,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 52696,
+        "num": 1322576,
+        "word": "强信心看数据",
+        "onboard_time": 1702388257,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3927892,
+        "num": 1294573,
+        "word": "周海媚病历疑被泄露",
+        "onboard_time": 1702434515,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1098822,
+        "num": 1098822,
+        "word": "现在下雪通知停课 以前下雪通知带锹",
+        "onboard_time": 1702429542,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 878063,
+        "num": 878063,
+        "word": "昨天入职今天出卖全办公室",
+        "onboard_time": 1702426241,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 695598,
+        "num": 695598,
+        "word": "朱丹公开自己以前的朋友圈",
+        "onboard_time": 1702426600,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600496,
+        "num": 600496,
+        "word": "iPhone16或调整相机岛设计",
+        "onboard_time": 1702428521,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 591871,
+        "num": 591871,
+        "word": "脸不对称就练筷子操",
+        "onboard_time": 1702432116,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 580085,
+        "num": 580085,
+        "word": "多方回应大批空姐转行卖车",
+        "onboard_time": 1702428942,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1828173,
+        "num": 574079,
+        "word": "周海媚去世",
+        "onboard_time": 1702388629,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1275239,
+        "num": 572946,
+        "word": "众星发博悼念周海媚",
+        "onboard_time": 1702423347,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 791826,
+        "num": 572088,
+        "word": "再见周芷若",
+        "onboard_time": 1702389397,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 562746,
+        "num": 562746,
+        "word": "为什么很多老人摔一跤没多久就走了",
+        "onboard_time": 1702431935,
+        "rank": 13,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 450481,
+        "num": 450481,
+        "word": "猫咪上秒舔毛下秒无症状发病去世",
+        "onboard_time": 1702427800,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412987,
+        "num": 412987,
+        "word": "王安宇演技",
+        "onboard_time": 1702427261,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412879,
+        "num": 412879,
+        "word": "郁可唯演唱会舞台激光损坏观众相机",
+        "onboard_time": 1702429661,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 409158,
+        "num": 409158,
+        "word": "低于这个温度一定要穿秋裤了",
+        "onboard_time": 1702426719,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 396301,
+        "num": 396301,
+        "word": "董宇辉小作文",
+        "onboard_time": 1702433554,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369975,
+        "num": 369975,
+        "word": "肖秀荣谈当前考研复习的主要矛盾",
+        "onboard_time": 1702433017,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 339269,
+        "num": 339269,
+        "word": "周海媚生前最后一次公开亮相",
+        "onboard_time": 1702390240,
+        "rank": 20,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 330014,
+        "num": 330014,
+        "word": "大爷误将2万当废品卖掉民警从废品堆内找回",
+        "onboard_time": 1702428761,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264089,
+        "num": 264089,
+        "word": "这相亲对象确实很离谱",
+        "onboard_time": 1702430797,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263664,
+        "num": 263664,
+        "word": "A股",
+        "onboard_time": 1702433075,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 262766,
+        "num": 262766,
+        "word": "肚子越来越小的小技巧",
+        "onboard_time": 1702395168,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 257975,
+        "num": 257975,
+        "word": "何猷君 恋爱脑最强大脑随时切换",
+        "onboard_time": 1702427202,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253716,
+        "num": 253716,
+        "word": "暴雪预警后北京成全国最怕冷城市",
+        "onboard_time": 1702430737,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251829,
+        "num": 251829,
+        "word": "女孩以为手上长的是冻疮却被确诊红斑狼疮",
+        "onboard_time": 1702391664,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244045,
+        "num": 244045,
+        "word": "创业创了一半老板去考公了",
+        "onboard_time": 1702398812,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203473,
+        "num": 224230,
+        "word": "国家公祭仪式在南京举行",
+        "onboard_time": 1702434094,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 742331,
+        "num": 224204,
+        "word": "红斑狼疮每次复发都是重创",
+        "onboard_time": 1702433438,
+        "rank": 30,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 357452,
+        "num": 224171,
+        "word": "EDG夺冠阵容五人五队",
+        "onboard_time": 1702432413,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223365,
+        "num": 223365,
+        "word": "北京下雪",
+        "onboard_time": 1702429843,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222410,
+        "num": 222410,
+        "word": "在新疆被炒米粉暴打了一顿",
+        "onboard_time": 1702425698,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219967,
+        "num": 219967,
+        "word": "万达电影易主",
+        "onboard_time": 1702433914,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 217953,
+        "num": 217953,
+        "word": "北京大学回应不为专硕提供住宿",
+        "onboard_time": 1702425818,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206369,
+        "num": 206369,
+        "word": "辛芷蕾看似团霸实则团欺",
+        "onboard_time": 1702429780,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203326,
+        "num": 203326,
+        "word": "为什么喝了热红酒更容易头痛",
+        "onboard_time": 1702432894,
+        "rank": 37,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 200640,
+        "num": 200640,
+        "word": "阿宝被七仔咬掉的耳朵已脱离爱心状",
+        "onboard_time": 1702397437,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179283,
+        "num": 179283,
+        "word": "研究称生两个孩子最有利于长寿",
+        "onboard_time": 1702369474,
+        "rank": 39,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 177672,
+        "num": 177672,
+        "word": "湖人积极出售拉塞尔",
+        "onboard_time": 1702434094,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168820,
+        "num": 168820,
+        "word": "胡先煦 我有一个压箱底的冷笑话",
+        "onboard_time": 1702434336,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166309,
+        "num": 166309,
+        "word": "恋爱脑最经典的一句话",
+        "onboard_time": 1702427442,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162260,
+        "num": 162260,
+        "word": "拒绝休息羞耻",
+        "onboard_time": 1702395703,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157771,
+        "num": 157771,
+        "word": "下半旗为30多万死难同胞志哀",
+        "onboard_time": 1702432172,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152819,
+        "num": 152819,
+        "word": "成都地铁",
+        "onboard_time": 1702426360,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150364,
+        "num": 150364,
+        "word": "刘亦菲泰国游客照",
+        "onboard_time": 1702394509,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149481,
+        "num": 149481,
+        "word": "男子介绍女友卖淫赚生活费获刑5年",
+        "onboard_time": 1702386273,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144614,
+        "num": 144614,
+        "word": "室外零下45度是啥感受",
+        "onboard_time": 1702432712,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142868,
+        "num": 142868,
+        "word": "周海媚在她最爱的季节离开了",
+        "onboard_time": 1702426060,
+        "rank": 49,
+        "category": "艺人,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平越南之行#"
+    }
+  }
+}
