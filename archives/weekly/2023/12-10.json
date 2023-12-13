@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702430197653,
+  "endTime": 1702431482666,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -1228,7 +1228,7 @@
     },
     {
       "raw_hot": 772692,
-      "num": 545029,
+      "num": 724905,
       "word": "iPhone16或调整相机岛设计",
       "onboard_time": 1702428521,
       "rank": 12,
@@ -1483,6 +1483,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 686906,
+      "num": 686906,
+      "word": "低于这个温度一定要穿秋裤了",
+      "onboard_time": 1702426719,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 685795,
       "num": 685795,
       "word": "北京下雪",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1702171470,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682800,
+      "num": 682800,
+      "word": "现在下雪通知停课 以前下雪通知带锹",
+      "onboard_time": 1702429542,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 681983,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1702300732,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 671758,
-      "num": 671758,
-      "word": "低于这个温度一定要穿秋裤了",
-      "onboard_time": 1702426719,
-      "rank": 8,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 671463,
@@ -1723,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627392,
+      "num": 627392,
+      "word": "猫咪上秒舔毛下秒无症状发病去世",
+      "onboard_time": 1702427800,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 627373,
       "num": 627373,
       "word": "马面裙 女装",
@@ -1787,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597828,
-      "num": 597828,
-      "word": "猫咪上秒舔毛下秒无症状发病去世",
-      "onboard_time": 1702427800,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 595284,
       "num": 595284,
       "word": "阿宝被七仔咬掉的耳朵已脱离爱心状",
@@ -1835,6 +1843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 584991,
+      "num": 584991,
+      "word": "多方回应大批空姐转行卖车",
+      "onboard_time": 1702428942,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 584785,
       "num": 402446,
       "word": "撒娇到一半发现不是主人",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1702269338,
       "rank": 10,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 577837,
+      "num": 577837,
+      "word": "周海媚曾经拒演周芷若",
+      "onboard_time": 1702428282,
+      "rank": 14,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 576099,
@@ -2081,14 +2105,6 @@
       "onboard_time": 1702287815,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 525220,
-      "num": 525220,
-      "word": "周海媚曾经拒演周芷若",
-      "onboard_time": 1702428282,
-      "rank": 14,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 524081,
@@ -2387,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473090,
+      "num": 473090,
+      "word": "王安宇演技",
+      "onboard_time": 1702427261,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469860,
       "num": 469860,
       "word": "体检查出囊肿需要特别注意吗",
@@ -2675,14 +2699,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 431778,
-      "num": 431778,
-      "word": "王安宇演技",
-      "onboard_time": 1702427261,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 429194,
       "num": 429194,
       "word": "美军黄海坠机飞行员已获救",
@@ -2737,14 +2753,6 @@
       "onboard_time": 1702117053,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 422755,
-      "num": 414182,
-      "word": "多方回应大批空姐转行卖车",
-      "onboard_time": 1702428942,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 422711,
@@ -2865,6 +2873,14 @@
       "onboard_time": 1702251507,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 405885,
+      "num": 405885,
+      "word": "郁可唯演唱会舞台激光损坏观众相机",
+      "onboard_time": 1702429661,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 405807,
@@ -3251,6 +3267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 357673,
+      "num": 357673,
+      "word": "何猷君 恋爱脑最强大脑随时切换",
+      "onboard_time": 1702427202,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357523,
       "num": 357523,
       "word": "赵丽颖 动物城vlog",
@@ -3377,14 +3401,6 @@
       "onboard_time": 1702168649,
       "rank": 15,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 342962,
-      "num": 342962,
-      "word": "何猷君 恋爱脑最强大脑随时切换",
-      "onboard_time": 1702427202,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 342820,
@@ -3707,14 +3723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 310342,
-      "num": 310342,
-      "word": "郁可唯演唱会舞台激光损坏观众相机",
-      "onboard_time": 1702429661,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 309320,
       "num": 304937,
       "word": "李同光对任辛表白",
@@ -4027,12 +4035,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 290816,
-      "num": 290816,
-      "word": "现在下雪通知停课 以前下雪通知带锹",
-      "onboard_time": 1702429542,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 291381,
+      "num": 291381,
+      "word": "大爷误将2万当废品卖掉民警从废品堆内找回",
+      "onboard_time": 1702428761,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289487,
@@ -4192,14 +4200,6 @@
       "word": "北京的雪呢",
       "onboard_time": 1702199134,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278409,
-      "num": 278409,
-      "word": "大爷误将2万当废品卖掉民警从废品堆内找回",
-      "onboard_time": 1702428761,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -4777,6 +4777,14 @@
       "onboard_time": 1702269161,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247826,
+      "num": 247826,
+      "word": "暴雪预警后北京成全国最怕冷城市",
+      "onboard_time": 1702430737,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246867,
@@ -6547,6 +6555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189677,
+      "num": 189677,
+      "word": "深圳地铁",
+      "onboard_time": 1702431037,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189643,
       "num": 189643,
       "word": "初雪challenge",
@@ -7577,6 +7593,14 @@
       "onboard_time": 1702187731,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158060,
+      "num": 158060,
+      "word": "这相亲对象确实很离谱",
+      "onboard_time": 1702430797,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 158048,
