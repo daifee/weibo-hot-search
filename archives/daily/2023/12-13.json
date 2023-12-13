@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702466129158,
+  "endTime": 1702467235609,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2364579,
-      "num": 414360,
+      "num": 431886,
       "word": "副局长被儿子举报出轨待遇降为一级科员",
       "onboard_time": 1702458451,
       "rank": 7,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1694506,
-      "num": 400632,
+      "num": 425982,
       "word": "齐舞空间向宋茜道歉",
       "onboard_time": 1702458272,
       "rank": 12,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 869872,
-      "num": 306936,
+      "num": 451358,
       "word": "杨洋 什锦",
       "onboard_time": 1702463975,
       "rank": 7,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 647452,
-      "num": 411405,
+      "num": 434634,
       "word": "年轻人报复性挤爆3.5分饭店",
       "onboard_time": 1702455993,
       "rank": 25,
@@ -409,6 +409,14 @@
       "onboard_time": 1702376496,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 633126,
+      "num": 437357,
+      "word": "辛芷蕾挣的第一笔钱被爸爸裱起来",
+      "onboard_time": 1702465114,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 628637,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 622796,
-      "num": 344507,
+      "num": 347084,
       "word": "这个冬天你买草莓了吗",
       "onboard_time": 1702458451,
       "rank": 27,
@@ -539,20 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 516434,
-      "num": 306378,
-      "word": "辛芷蕾挣的第一笔钱被爸爸裱起来",
-      "onboard_time": 1702465114,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 493673,
       "num": 349683,
       "word": "红斑狼疮是免疫病不是皮肤病",
       "onboard_time": 1702380157,
       "rank": 13,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 492869,
+      "num": 458563,
+      "word": "联想回应总部logo被涂成华为",
+      "onboard_time": 1702464573,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491307,
@@ -569,6 +577,14 @@
       "onboard_time": 1702457375,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476374,
+      "num": 411868,
+      "word": "美拉德口红试色",
+      "onboard_time": 1702466252,
+      "rank": 15,
+      "category": "美妆"
     },
     {
       "raw_hot": 473090,
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409554,
+      "num": 409554,
+      "word": "大爷2万多买山寨保时捷上路就被查",
+      "onboard_time": 1702464214,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402325,
       "num": 330070,
       "word": "权志龙无吸毒嫌疑将结案",
@@ -729,14 +753,6 @@
       "onboard_time": 1702425698,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 388056,
-      "num": 305928,
-      "word": "大爷2万多买山寨保时捷上路就被查",
-      "onboard_time": 1702464214,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384388,
@@ -971,11 +987,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 307283,
-      "num": 307283,
-      "word": "联想回应总部logo被涂成华为",
-      "onboard_time": 1702464573,
-      "rank": 3,
+      "raw_hot": 307574,
+      "num": 464070,
+      "word": "幼儿园老师建雪地迷宫供孩子玩耍",
+      "onboard_time": 1702462595,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -1073,14 +1089,6 @@
       "onboard_time": 1702441785,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 269439,
-      "num": 371713,
-      "word": "幼儿园老师建雪地迷宫供孩子玩耍",
-      "onboard_time": 1702462595,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 268427,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1702441122,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245462,
+      "num": 245462,
+      "word": "花少5 顶级浪漫",
+      "onboard_time": 1702465174,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 245182,
@@ -1393,14 +1409,6 @@
       "onboard_time": 1702438357,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 218419,
-      "num": 218419,
-      "word": "花少5 顶级浪漫",
-      "onboard_time": 1702465174,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 217990,
@@ -1627,6 +1635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195699,
+      "num": 195699,
+      "word": "跨年晚会阵容",
+      "onboard_time": 1702466852,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194445,
       "num": 530112,
       "word": "浙大儿院为外地患儿家庭免费提供住宿",
@@ -1683,6 +1699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 188836,
+      "num": 188836,
+      "word": "鸭子模具",
+      "onboard_time": 1702465831,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188062,
       "num": 188062,
       "word": "1937年12月13日我们不能忘不敢忘",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1702463198,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186077,
+      "num": 186077,
+      "word": "北方大雪南方娃备好铁锹等下雪",
+      "onboard_time": 1702466792,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185748,
@@ -1721,6 +1753,14 @@
       "onboard_time": 1702440335,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 184089,
+      "num": 184089,
+      "word": "福州早市 糯叽叽天堂",
+      "onboard_time": 1702466734,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 183700,
@@ -1891,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164971,
+      "num": 164971,
+      "word": "打雪仗神器",
+      "onboard_time": 1702465773,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164916,
       "num": 164916,
       "word": "小米王化辟谣澎湃将自动拦截色情APP",
@@ -1900,19 +1948,11 @@
     },
     {
       "raw_hot": 163914,
-      "num": 392780,
+      "num": 454449,
       "word": "用一张纸剪雪人和雪花",
       "onboard_time": 1702461033,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162748,
-      "num": 162748,
-      "word": "打雪仗神器",
-      "onboard_time": 1702465773,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 161757,
@@ -2035,14 +2075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150346,
-      "num": 150346,
-      "word": "鸭子模具",
-      "onboard_time": 1702465831,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 149438,
       "num": 149438,
       "word": "高途直播间带货额涨超10倍",
@@ -2139,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136483,
+      "num": 136483,
+      "word": "陈雨菲2比1韩悦",
+      "onboard_time": 1702466913,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136186,
       "num": 160288,
       "word": "给王鹤棣找个配音吧",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1702423708,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124829,
+      "num": 124829,
+      "word": "为什么到了洛阳就想穿汉服",
+      "onboard_time": 1702466672,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 123685,
@@ -2491,20 +2539,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19993,
+      "num": 462175,
+      "word": "以国之名悼我同胞",
+      "onboard_time": 1702460073,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13803,
       "num": 16481,
       "word": "代号鸢 广陵大学教师评教",
       "onboard_time": 1702410015,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 6317,
-      "num": 448153,
-      "word": "以国之名悼我同胞",
-      "onboard_time": 1702460073,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

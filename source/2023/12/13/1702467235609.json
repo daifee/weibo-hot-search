@@ -1,0 +1,410 @@
+{
+  "runTime": 1702467235609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 193901,
+        "num": 467885,
+        "word": "中国经济工作明年怎么干",
+        "onboard_time": 1702457735,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307574,
+        "num": 464070,
+        "word": "幼儿园老师建雪地迷宫供孩子玩耍",
+        "onboard_time": 1702462595,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19993,
+        "num": 462175,
+        "word": "以国之名悼我同胞",
+        "onboard_time": 1702460073,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 492869,
+        "num": 458563,
+        "word": "联想回应总部logo被涂成华为",
+        "onboard_time": 1702464573,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142999,
+        "num": 454449,
+        "word": "用一张纸剪雪人和雪花",
+        "onboard_time": 1702461033,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803744,
+        "num": 451358,
+        "word": "杨洋 什锦",
+        "onboard_time": 1702463975,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126967,
+        "num": 448019,
+        "word": "浙大儿院为外地患儿家庭免费提供住宿",
+        "onboard_time": 1702461033,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644356,
+        "num": 443718,
+        "word": "周海媚的任性五十年",
+        "onboard_time": 1702438238,
+        "rank": 7,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 633126,
+        "num": 437357,
+        "word": "辛芷蕾挣的第一笔钱被爸爸裱起来",
+        "onboard_time": 1702465114,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533507,
+        "num": 434634,
+        "word": "年轻人报复性挤爆3.5分饭店",
+        "onboard_time": 1702455993,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1581367,
+        "num": 431886,
+        "word": "副局长被儿子举报出轨待遇降为一级科员",
+        "onboard_time": 1702458451,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007635,
+        "num": 425982,
+        "word": "齐舞空间向宋茜道歉",
+        "onboard_time": 1702458272,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487594,
+        "num": 422087,
+        "word": "周海媚",
+        "onboard_time": 1702452573,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 481069,
+        "num": 419825,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 13,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 40968,
+        "num": 415895,
+        "word": "一图详解中央经济工作会议",
+        "onboard_time": 1702453832,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 476374,
+        "num": 411868,
+        "word": "美拉德口红试色",
+        "onboard_time": 1702466252,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 409554,
+        "num": 409554,
+        "word": "大爷2万多买山寨保时捷上路就被查",
+        "onboard_time": 1702464214,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347818,
+        "num": 347818,
+        "word": "EXO全员入伍",
+        "onboard_time": 1702453953,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347084,
+        "num": 347084,
+        "word": "这个冬天你买草莓了吗",
+        "onboard_time": 1702458451,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 301711,
+        "num": 301711,
+        "word": "输球 但出线",
+        "onboard_time": 1702462535,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296274,
+        "num": 296274,
+        "word": "网红铁头因言语不当向长春道歉",
+        "onboard_time": 1702465354,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 273405,
+        "num": 273405,
+        "word": "真正有致癌风险的是这2种水",
+        "onboard_time": 1702436915,
+        "rank": 21,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 264218,
+        "num": 264218,
+        "word": "患红斑狼疮5年26岁女孩去年当了妈妈",
+        "onboard_time": 1702457254,
+        "rank": 22,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 256946,
+        "num": 256946,
+        "word": "故宫雪景",
+        "onboard_time": 1702464934,
+        "rank": 23,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 248813,
+        "num": 248813,
+        "word": "加五个鸡蛋的大客户",
+        "onboard_time": 1702462957,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245462,
+        "num": 245462,
+        "word": "花少5 顶级浪漫",
+        "onboard_time": 1702465174,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231041,
+        "num": 231041,
+        "word": "孩子不敢抽血被家长踹翻在地",
+        "onboard_time": 1702454193,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195699,
+        "num": 195699,
+        "word": "跨年晚会阵容",
+        "onboard_time": 1702466852,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193326,
+        "num": 193326,
+        "word": "ChatGPT解读董宇辉回应长文",
+        "onboard_time": 1702458335,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188943,
+        "num": 188943,
+        "word": "秦海璐写错老公名字缩写",
+        "onboard_time": 1702461213,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188836,
+        "num": 188836,
+        "word": "鸭子模具",
+        "onboard_time": 1702465831,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186077,
+        "num": 186077,
+        "word": "北方大雪南方娃备好铁锹等下雪",
+        "onboard_time": 1702466792,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185555,
+        "num": 185555,
+        "word": "胡先煦 我是你最勇敢的儿子吗",
+        "onboard_time": 1702457192,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184089,
+        "num": 184089,
+        "word": "福州早市 糯叽叽天堂",
+        "onboard_time": 1702466734,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181614,
+        "num": 181614,
+        "word": "权志龙无吸毒嫌疑将结案",
+        "onboard_time": 1702459654,
+        "rank": 34,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 177961,
+        "num": 177961,
+        "word": "Taylor Swift史上票房最高巡演",
+        "onboard_time": 1702456653,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169660,
+        "num": 169660,
+        "word": "一来例假就爆痘怎么办",
+        "onboard_time": 1702461452,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167679,
+        "num": 167679,
+        "word": "古茗莲花楼 三人",
+        "onboard_time": 1702445737,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164971,
+        "num": 164971,
+        "word": "打雪仗神器",
+        "onboard_time": 1702465773,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163022,
+        "num": 163022,
+        "word": "成都地铁偷拍案当事人决定上诉",
+        "onboard_time": 1702457375,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511035,
+        "num": 162550,
+        "word": "杨丞琳事件",
+        "onboard_time": 1702445619,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 714842,
+        "num": 162450,
+        "word": "女孩念台词掐同学脖子确诊狼疮脑病",
+        "onboard_time": 1702453534,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161819,
+        "num": 161819,
+        "word": "飞机上没网 删照片",
+        "onboard_time": 1702437575,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150125,
+        "num": 150125,
+        "word": "张雪峰称国内考试卷考生留学卷家庭",
+        "onboard_time": 1702451734,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 136483,
+        "num": 136483,
+        "word": "陈雨菲2比1韩悦",
+        "onboard_time": 1702466913,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132119,
+        "num": 132119,
+        "word": "排队找小孩哥领雪球",
+        "onboard_time": 1702465053,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129891,
+        "num": 129891,
+        "word": "宋茜粉丝回应被伴舞吐槽",
+        "onboard_time": 1702462115,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156592,
+        "num": 127789,
+        "word": "小米王化辟谣澎湃将自动拦截色情APP",
+        "onboard_time": 1702465593,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125047,
+        "num": 125047,
+        "word": "当公司全都是广东人",
+        "onboard_time": 1702464456,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124829,
+        "num": 124829,
+        "word": "为什么到了洛阳就想穿汉服",
+        "onboard_time": 1702466672,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}
