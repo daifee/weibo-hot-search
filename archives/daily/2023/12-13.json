@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702473717096,
+  "endTime": 1702474446971,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -163,6 +163,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1513850,
+      "num": 677349,
+      "word": "董宇辉称不要以饭圈名义污名化任何人",
+      "onboard_time": 1702470332,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1476489,
       "num": 382556,
       "word": "张雪峰称国内考试卷考生留学卷家庭",
@@ -193,14 +201,6 @@
       "onboard_time": 1702436915,
       "rank": 30,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 1400176,
-      "num": 677349,
-      "word": "董宇辉称不要以饭圈名义污名化任何人",
-      "onboard_time": 1702470332,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1339957,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1011264,
+      "num": 633032,
+      "word": "人民在线评网红痞幼盗用视频事件",
+      "onboard_time": 1702473457,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1003400,
       "num": 1003400,
       "word": "美甲尽头 裸色",
@@ -265,6 +273,14 @@
       "onboard_time": 1702468832,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 896135,
+      "num": 448411,
+      "word": "SM卖1w 东大门卖500",
+      "onboard_time": 1702472975,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 869872,
@@ -345,6 +361,14 @@
       "onboard_time": 1702444180,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718740,
+      "num": 718740,
+      "word": "星火英语 耽误我学习",
+      "onboard_time": 1702473273,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 705639,
@@ -449,14 +473,6 @@
       "onboard_time": 1702465114,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 633032,
-      "num": 633032,
-      "word": "人民在线评网红痞幼盗用视频事件",
-      "onboard_time": 1702473457,
-      "rank": 10,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 628637,
@@ -585,14 +601,6 @@
       "onboard_time": 1702454193,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507383,
-      "num": 237178,
-      "word": "SM卖1w 东大门卖500",
-      "onboard_time": 1702472975,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 493673,
@@ -843,14 +851,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 377675,
-      "num": 377675,
-      "word": "星火英语 耽误我学习",
-      "onboard_time": 1702473273,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 374604,
       "num": 374604,
       "word": "灯火阑珊被取消奥斯卡参赛资格",
@@ -960,6 +960,14 @@
       "word": "赵一博回归种地吧",
       "onboard_time": 1702393082,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 337952,
+      "num": 337952,
+      "word": "胡先煦多大了还骑妈妈脖子",
+      "onboard_time": 1702473576,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1099,6 +1107,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 303071,
+      "num": 303071,
+      "word": "脱轨要播了",
+      "onboard_time": 1702472557,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298964,
       "num": 298964,
       "word": "经常不吃早餐会加速衰老",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1702450174,
       "rank": 19,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 285538,
+      "num": 285538,
+      "word": "i人喜欢的东西",
+      "onboard_time": 1702473157,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 284369,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1702461814,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277526,
-      "num": 277526,
-      "word": "脱轨要播了",
-      "onboard_time": 1702472557,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 276512,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1702444180,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 259279,
+      "num": 215087,
+      "word": "从德国带了一瓶水到英国",
+      "onboard_time": 1702473516,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 258941,
@@ -1363,6 +1387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 246248,
+      "num": 246248,
+      "word": "石宇奇 屠龙勇士",
+      "onboard_time": 1702474056,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245462,
       "num": 245462,
       "word": "花少5 顶级浪漫",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1702437334,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239361,
+      "num": 239361,
+      "word": "这5个泡脚习惯看似养生其实很伤身",
+      "onboard_time": 1702472733,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239196,
@@ -1531,6 +1571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228073,
+      "num": 228073,
+      "word": "考研考编考公 三手抓",
+      "onboard_time": 1702474299,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226793,
       "num": 333497,
       "word": "好莱坞富二代涉嫌分尸华人妻子",
@@ -1539,28 +1587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222310,
-      "num": 222310,
-      "word": "i人喜欢的东西",
-      "onboard_time": 1702473157,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 220312,
       "num": 220312,
       "word": "网传联想大厦logo被涂鸦成Huawei",
       "onboard_time": 1702454852,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 219501,
-      "num": 219501,
-      "word": "这5个泡脚习惯看似养生其实很伤身",
-      "onboard_time": 1702472733,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 218642,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1702438357,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 218312,
+      "num": 218312,
+      "word": "石宇奇 BGM别放我姓石",
+      "onboard_time": 1702474237,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 217990,
@@ -1723,14 +1763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 203454,
-      "num": 203454,
-      "word": "胡先煦多大了还骑妈妈脖子",
-      "onboard_time": 1702473576,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203326,
       "num": 203326,
       "word": "为什么喝了热红酒更容易头痛",
@@ -1755,19 +1787,19 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 202757,
-      "num": 202757,
-      "word": "从德国带了一瓶水到英国",
-      "onboard_time": 1702473516,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 202532,
       "num": 202532,
       "word": "鸣龙少年让我的泪腺通了",
       "onboard_time": 1702471295,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202513,
+      "num": 202513,
+      "word": "繁花要来了",
+      "onboard_time": 1702474237,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1801,6 +1833,14 @@
       "onboard_time": 1702460014,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200724,
+      "num": 200724,
+      "word": "新疆6天5夜旅行保姆级攻略",
+      "onboard_time": 1702473457,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 200469,
@@ -1979,6 +2019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 184749,
+      "num": 184749,
+      "word": "石宇奇2比0安赛龙",
+      "onboard_time": 1702474115,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184089,
       "num": 184089,
       "word": "福州早市 糯叽叽天堂",
@@ -2075,14 +2123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175530,
-      "num": 175530,
-      "word": "新疆6天5夜旅行保姆级攻略",
-      "onboard_time": 1702473457,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 175208,
       "num": 175208,
       "word": "猫猫 我想自己端着喝",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1702471954,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170791,
+      "num": 715579,
+      "word": "为什么一穿高领就难受",
+      "onboard_time": 1702471414,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170225,
@@ -2147,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167888,
+      "num": 167888,
+      "word": "济南发布暴雪红色预警",
+      "onboard_time": 1702473936,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167593,
       "num": 167593,
       "word": "勇士vs太阳",
@@ -2161,6 +2217,14 @@
       "onboard_time": 1702464456,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166247,
+      "num": 166247,
+      "word": "画眉",
+      "onboard_time": 1702474358,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 165480,
@@ -2316,7 +2380,7 @@
     },
     {
       "raw_hot": 155548,
-      "num": 738370,
+      "num": 872114,
       "word": "明年要坚持稳中求进以进促稳先立后破",
       "onboard_time": 1702467273,
       "rank": 0,
@@ -2329,14 +2393,6 @@
       "onboard_time": 1702451373,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154474,
-      "num": 715579,
-      "word": "为什么一穿高领就难受",
-      "onboard_time": 1702471414,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 153680,
@@ -2755,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74736,
+      "num": 695493,
+      "word": "100秒划2024年经济工作重点",
+      "onboard_time": 1702472434,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74549,
       "num": 74549,
       "word": "阿音走了纣王的老路",
@@ -2771,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72484,
+      "num": 726153,
+      "word": "以国之名悼我同胞",
+      "onboard_time": 1702460073,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71267,
       "num": 280552,
       "word": "山西强降雪交警温暖护送滞留车辆",
@@ -2779,28 +2851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66823,
-      "num": 695493,
-      "word": "100秒划2024年经济工作重点",
-      "onboard_time": 1702472434,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 60517,
       "num": 60517,
       "word": "床头放柠檬 舒缓心情",
       "onboard_time": 1702417034,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60469,
-      "num": 726153,
-      "word": "以国之名悼我同胞",
-      "onboard_time": 1702460073,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59064,
