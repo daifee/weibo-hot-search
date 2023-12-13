@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702460081815,
+  "endTime": 1702462754955,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -75,6 +75,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 2364579,
+      "num": 414360,
+      "word": "副局长被儿子举报出轨待遇降为一级科员",
+      "onboard_time": 1702458451,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2254724,
       "num": 2254724,
       "word": "昨天入职今天出卖全办公室",
@@ -121,14 +129,6 @@
       "onboard_time": 1702445619,
       "rank": 14,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1769899,
-      "num": 414360,
-      "word": "副局长被儿子举报出轨待遇降为一级科员",
-      "onboard_time": 1702458451,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1739029,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545351,
+      "num": 334084,
+      "word": "这个冬天你买草莓了吗",
+      "onboard_time": 1702458451,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 538807,
       "num": 384875,
       "word": "孩子不敢抽血被家长踹翻在地",
@@ -537,6 +545,14 @@
       "onboard_time": 1702383814,
       "rank": 8,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 477280,
+      "num": 421360,
+      "word": "成都地铁偷拍案当事人决定上诉",
+      "onboard_time": 1702457375,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473090,
@@ -651,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402325,
+      "num": 323995,
+      "word": "权志龙无吸毒嫌疑将结案",
+      "onboard_time": 1702459654,
+      "rank": 23,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 401223,
       "num": 401223,
       "word": "JieJie meiko",
       "onboard_time": 1702443106,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 398913,
+      "num": 359394,
+      "word": "胡先煦 我是你最勇敢的儿子吗",
+      "onboard_time": 1702457192,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 397439,
@@ -771,14 +803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 357166,
-      "num": 357166,
-      "word": "胡先煦 我是你最勇敢的儿子吗",
-      "onboard_time": 1702457192,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 344266,
       "num": 329969,
       "word": "男子介绍女友卖淫赚生活费获刑5年",
@@ -793,14 +817,6 @@
       "onboard_time": 1702453832,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 342988,
-      "num": 314203,
-      "word": "这个冬天你买草莓了吗",
-      "onboard_time": 1702458451,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 341722,
@@ -859,14 +875,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 323995,
-      "num": 323995,
-      "word": "权志龙无吸毒嫌疑将结案",
-      "onboard_time": 1702459654,
-      "rank": 23,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 322728,
       "num": 322728,
       "word": "自测甲状腺结节的方法",
@@ -923,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301923,
-      "num": 421360,
-      "word": "成都地铁偷拍案当事人决定上诉",
-      "onboard_time": 1702457375,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289602,
       "num": 289602,
       "word": "碧桂园取消高管配车",
@@ -964,7 +964,7 @@
     },
     {
       "raw_hot": 282778,
-      "num": 240468,
+      "num": 281102,
       "word": "ChatGPT解读董宇辉回应长文",
       "onboard_time": 1702458335,
       "rank": 30,
@@ -976,6 +976,14 @@
       "word": "孙颖莎首轮对阵张本美和",
       "onboard_time": 1702448195,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280698,
+      "num": 280698,
+      "word": "山东泰山出线",
+      "onboard_time": 1702461814,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1043,6 +1051,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254454,
+      "num": 673329,
+      "word": "中国经济工作明年怎么干",
+      "onboard_time": 1702457735,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 254097,
+      "num": 254097,
+      "word": "一来例假就爆痘怎么办",
+      "onboard_time": 1702461452,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 253775,
       "num": 253775,
       "word": "华为首款开放式耳机",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1702426963,
       "rank": 33,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 249540,
+      "num": 249540,
+      "word": "秦海璐写错老公名字缩写",
+      "onboard_time": 1702461213,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 248584,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1702454734,
       "rank": 24,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 244366,
+      "num": 244366,
+      "word": "宋茜方回应被伴舞吐槽",
+      "onboard_time": 1702462115,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 243297,
@@ -1235,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 230236,
+      "num": 230236,
+      "word": "故宫白雪红墙的氛围感",
+      "onboard_time": 1702460853,
+      "rank": 32,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 228817,
       "num": 228817,
       "word": "孝心外包",
@@ -1281,14 +1329,6 @@
       "onboard_time": 1702421963,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216603,
-      "num": 612515,
-      "word": "中国经济工作明年怎么干",
-      "onboard_time": 1702457735,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 215136,
@@ -1339,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209944,
+      "num": 209944,
+      "word": "横滨水手3比0山东泰山",
+      "onboard_time": 1702462357,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208857,
       "num": 208857,
       "word": "阿根廷将比索官方汇率贬值54%",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1702384357,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206488,
+      "num": 206488,
+      "word": "女子高铁伸脚碰到前排被提醒后辱骂对方",
+      "onboard_time": 1702460372,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206042,
@@ -1507,6 +1563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191431,
+      "num": 530112,
+      "word": "浙大儿院为外地患儿家庭免费提供住宿",
+      "onboard_time": 1702461033,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191189,
+      "num": 191189,
+      "word": "亚冠",
+      "onboard_time": 1702458933,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189677,
       "num": 189677,
       "word": "深圳地铁",
@@ -1537,6 +1609,22 @@
       "onboard_time": 1702456233,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185603,
+      "num": 185603,
+      "word": "输球 但出线",
+      "onboard_time": 1702462535,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185268,
+      "num": 185268,
+      "word": "没有身份的占有欲",
+      "onboard_time": 1702460673,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 184813,
@@ -1651,6 +1739,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 172668,
+      "num": 172668,
+      "word": "BABYMONSTER练习室",
+      "onboard_time": 1702462115,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170225,
       "num": 170225,
       "word": "126个药品新增进医保",
@@ -1689,6 +1785,14 @@
       "onboard_time": 1702455393,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165133,
+      "num": 165133,
+      "word": "olu穿了玲娜贝儿的衣服",
+      "onboard_time": 1702461575,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 161757,
@@ -1843,14 +1947,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 144149,
-      "num": 144149,
-      "word": "亚冠",
-      "onboard_time": 1702458933,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143721,
       "num": 143721,
       "word": "滕哈赫 我们给拜仁制造了麻烦",
@@ -1881,6 +1977,14 @@
       "onboard_time": 1702455156,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137835,
+      "num": 392780,
+      "word": "用一张纸剪雪人和雪花",
+      "onboard_time": 1702461033,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137787,
@@ -2107,6 +2211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82271,
+      "num": 280698,
+      "word": "幼儿园老师建雪地迷宫供孩子玩耍",
+      "onboard_time": 1702462595,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81186,
       "num": 81186,
       "word": "周一围朱丹像来带孩子的",
@@ -2137,6 +2249,14 @@
       "onboard_time": 1702419257,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71267,
+      "num": 280552,
+      "word": "山西强降雪交警温暖护送滞留车辆",
+      "onboard_time": 1702461033,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60517,
