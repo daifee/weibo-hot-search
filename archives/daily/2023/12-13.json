@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702480755671,
+  "endTime": 1702481684240,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 839817,
+      "num": 728069,
+      "word": "广州彩民独中1.44亿元大奖",
+      "onboard_time": 1702476283,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829430,
       "num": 419925,
       "word": "周海媚曾回应为何不婚",
@@ -387,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749043,
+      "num": 554108,
+      "word": "红薯片真的可以拿来当被子用",
+      "onboard_time": 1702478502,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 748251,
       "num": 748251,
       "word": "星火英语 耽误我学习",
       "onboard_time": 1702473273,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 728069,
-      "num": 728069,
-      "word": "广州彩民独中1.44亿元大奖",
-      "onboard_time": 1702476283,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 723516,
@@ -625,14 +633,6 @@
       "onboard_time": 1702396181,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 554108,
-      "num": 554108,
-      "word": "红薯片真的可以拿来当被子用",
-      "onboard_time": 1702478502,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 553773,
@@ -899,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389278,
+      "num": 238543,
+      "word": "至少要从30岁开始运动锻炼",
+      "onboard_time": 1702479698,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 389043,
       "num": 389043,
       "word": "在新疆被炒米粉暴打了一顿",
@@ -1163,14 +1171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 313506,
-      "num": 238543,
-      "word": "至少要从30岁开始运动锻炼",
-      "onboard_time": 1702479698,
-      "rank": 23,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 309304,
       "num": 273036,
       "word": "莲花楼观感",
@@ -1329,6 +1329,14 @@
       "onboard_time": 1702438596,
       "rank": 32,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 270837,
+      "num": 270837,
+      "word": "马嘉祺 中戏汇演",
+      "onboard_time": 1702480056,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 269761,
@@ -1747,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215499,
-      "num": 215499,
-      "word": "马嘉祺 中戏汇演",
-      "onboard_time": 1702480056,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 215136,
       "num": 215136,
       "word": "SEVENTEEN花样青春 定档",
@@ -2059,6 +2059,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 192852,
+      "num": 192852,
+      "word": "张远 风水大师",
+      "onboard_time": 1702480176,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192526,
       "num": 192526,
       "word": "不知道该羡慕陆毅还是胡彦斌",
@@ -2083,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190782,
+      "num": 190782,
+      "word": "高途股价大涨",
+      "onboard_time": 1702480298,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189677,
       "num": 189677,
       "word": "深圳地铁",
@@ -2091,20 +2107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189408,
+      "num": 189408,
+      "word": "年轻在肩 气质在背",
+      "onboard_time": 1702478377,
+      "rank": 37,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 189205,
       "num": 189205,
       "word": "昭昭前事惕惕后人",
       "onboard_time": 1702428761,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 189050,
-      "num": 189050,
-      "word": "张远 风水大师",
-      "onboard_time": 1702480176,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 188836,
@@ -2315,14 +2331,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 172831,
-      "num": 172831,
-      "word": "高途股价大涨",
-      "onboard_time": 1702480298,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 172668,
       "num": 172668,
       "word": "BABYMONSTER练习室",
@@ -2459,14 +2467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162755,
-      "num": 162755,
-      "word": "年轻在肩 气质在背",
-      "onboard_time": 1702478377,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 161757,
       "num": 161757,
       "word": "生活中的暗示",
@@ -2489,6 +2489,14 @@
       "onboard_time": 1702454135,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159924,
+      "num": 159924,
+      "word": "刚开始只是逃水课",
+      "onboard_time": 1702478319,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 159272,
@@ -2545,14 +2553,6 @@
       "onboard_time": 1702432172,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 156786,
-      "num": 156786,
-      "word": "刚开始只是逃水课",
-      "onboard_time": 1702478319,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 156258,
@@ -2833,6 +2833,14 @@
       "onboard_time": 1702457852,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127406,
+      "num": 127406,
+      "word": "水逆来了 重灾区的星座要小心",
+      "onboard_time": 1702480774,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 126635,
