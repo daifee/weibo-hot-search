@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702438471443,
+  "endTime": 1702441304604,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -75,6 +75,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 4214978,
+      "num": 4214978,
+      "word": "国台办回应杨丞琳五月天事件",
+      "onboard_time": 1702440397,
+      "rank": 0,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 4134597,
       "num": 4134597,
       "word": "周海媚工作人员拒绝回应网传消息",
@@ -105,6 +113,14 @@
       "onboard_time": 1702380157,
       "rank": 31,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 3451877,
+      "num": 3451877,
+      "word": "飞机上没网 删照片",
+      "onboard_time": 1702437575,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 3411819,
@@ -272,6 +288,14 @@
       "word": "最早爆料周海媚去世者已删除博文",
       "onboard_time": 1702309425,
       "rank": 1,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2259025,
+      "num": 2259025,
+      "word": "周海媚的任性五十年",
+      "onboard_time": 1702438238,
+      "rank": 19,
       "category": "艺人,社会新闻"
     },
     {
@@ -593,6 +617,14 @@
       "onboard_time": 1702373434,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1407009,
+      "num": 1407009,
+      "word": "真正有致癌风险的是这2种水",
+      "onboard_time": 1702436915,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 1366301,
@@ -987,14 +1019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 922682,
-      "num": 922682,
-      "word": "飞机上没网 删照片",
-      "onboard_time": 1702437575,
-      "rank": 4,
-      "category": "情感"
-    },
-    {
       "raw_hot": 917329,
       "num": 917329,
       "word": "为什么刚起床后手握不紧",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1702175428,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874650,
+      "num": 503225,
+      "word": "接吻是谁想出来的",
+      "onboard_time": 1702440518,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 870425,
@@ -1307,12 +1339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 762965,
-      "num": 544277,
-      "word": "真正有致癌风险的是这2种水",
-      "onboard_time": 1702436915,
-      "rank": 30,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 763570,
+      "num": 763570,
+      "word": "东方甄选CEO称董宇辉年薪不止网传千万",
+      "onboard_time": 1702437094,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 761747,
@@ -2331,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492855,
+      "num": 367279,
+      "word": "离职半年后收到了前公司的年终奖",
+      "onboard_time": 1702440941,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492293,
       "num": 492293,
       "word": "朱丹说没有被湖南台封杀过",
@@ -2505,14 +2545,6 @@
       "onboard_time": 1702374154,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 466912,
-      "num": 466912,
-      "word": "东方甄选CEO称董宇辉年薪不止网传千万",
-      "onboard_time": 1702437094,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465570,
@@ -2843,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422368,
+      "num": 422368,
+      "word": "把教师打成筛子漏风的就是教育",
+      "onboard_time": 1702439375,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 421725,
       "num": 421725,
       "word": "明年起广州地铁内将禁止电子设备外放声音",
@@ -3083,14 +3123,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 387774,
-      "num": 387774,
-      "word": "周海媚的任性五十年",
-      "onboard_time": 1702438238,
-      "rank": 19,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 387444,
       "num": 387444,
       "word": "猪国迎来大危机",
@@ -3161,6 +3193,14 @@
       "onboard_time": 1702355799,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 381438,
+      "num": 381438,
+      "word": "故宫拍雪",
+      "onboard_time": 1702438776,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 381044,
@@ -3241,6 +3281,14 @@
       "onboard_time": 1702349852,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 374604,
+      "num": 374604,
+      "word": "灯火阑珊被取消奥斯卡参赛资格",
+      "onboard_time": 1702439740,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 373123,
@@ -3337,6 +3385,14 @@
       "onboard_time": 1702227565,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365329,
+      "num": 365329,
+      "word": "安德鲁布劳尔去世",
+      "onboard_time": 1702440276,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 365148,
@@ -3657,6 +3713,14 @@
       "onboard_time": 1702295193,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334963,
+      "num": 334963,
+      "word": "长春高空抛物致死案一审宣判",
+      "onboard_time": 1702438894,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334571,
@@ -4707,6 +4771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259015,
+      "num": 259015,
+      "word": "金牛座总是在默默观察",
+      "onboard_time": 1702438596,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 257756,
       "num": 346290,
       "word": "知情人透露国羽前国手溺亡原因",
@@ -5313,6 +5385,14 @@
       "onboard_time": 1702280373,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 231480,
+      "num": 231480,
+      "word": "红斑狼疮很容易被漏诊",
+      "onboard_time": 1702440276,
+      "rank": 35,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 231124,
@@ -6251,6 +6331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204271,
+      "num": 204271,
+      "word": "下雪 打伞",
+      "onboard_time": 1702440636,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203908,
       "num": 203908,
       "word": "始祖巨人衣架",
@@ -6281,6 +6369,14 @@
       "onboard_time": 1702432894,
       "rank": 37,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 203190,
+      "num": 203190,
+      "word": "女子晒日光浴后确诊红斑狼疮",
+      "onboard_time": 1702439559,
+      "rank": 39,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 202914,
@@ -7075,6 +7171,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 184813,
+      "num": 184813,
+      "word": "请记住这个名字张纯如",
+      "onboard_time": 1702440335,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 184615,
       "num": 184615,
       "word": "接吻完顾声的口红都掉光了",
@@ -7105,6 +7209,14 @@
       "onboard_time": 1702270417,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183700,
+      "num": 2323483,
+      "word": "2023年国家公祭日",
+      "onboard_time": 1702438835,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 183470,
@@ -7353,6 +7465,14 @@
       "onboard_time": 1702184915,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176384,
+      "num": 176384,
+      "word": "不知道该羡慕陆毅还是胡彦斌",
+      "onboard_time": 1702441001,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 176052,
@@ -7619,6 +7739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168823,
+      "num": 168823,
+      "word": "收费员反应迅速10秒挽回30吨纸箱",
+      "onboard_time": 1702440941,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168691,
       "num": 168691,
       "word": "圣诞鎏金妆",
@@ -7809,6 +7937,14 @@
       "onboard_time": 1702343973,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161295,
+      "num": 161295,
+      "word": "很变态但能找到神仙公司的野路子",
+      "onboard_time": 1702441122,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 160618,
@@ -8361,6 +8497,14 @@
       "onboard_time": 1702432712,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144545,
+      "num": 144545,
+      "word": "ReFa美容仪价格狂跌",
+      "onboard_time": 1702439076,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 144494,
@@ -9227,6 +9371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98916,
+      "num": 234380,
+      "word": "一篇和平宣言响彻南京",
+      "onboard_time": 1702441122,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96518,
       "num": 96518,
       "word": "颖儿神隐出场镜头",
@@ -9817,6 +9969,14 @@
       "onboard_time": 1702162516,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30676,
+      "num": 367780,
+      "word": "华为首款轿车智界S7首批到店",
+      "onboard_time": 1702440157,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 30545,

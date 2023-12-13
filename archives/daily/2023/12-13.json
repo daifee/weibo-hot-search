@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702438471443,
+  "endTime": 1702441304604,
   "band_list": [
     {
       "raw_hot": 6474172,
@@ -27,12 +27,28 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 4214978,
+      "num": 4214978,
+      "word": "国台办回应杨丞琳五月天事件",
+      "onboard_time": 1702440397,
+      "rank": 0,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 3843986,
       "num": 660315,
       "word": "再见周芷若",
       "onboard_time": 1702389397,
       "rank": 3,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 3451877,
+      "num": 3451877,
+      "word": "飞机上没网 删照片",
+      "onboard_time": 1702437575,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 2624562,
@@ -49,6 +65,14 @@
       "onboard_time": 1702422805,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2259025,
+      "num": 2259025,
+      "word": "周海媚的任性五十年",
+      "onboard_time": 1702438238,
+      "rank": 19,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 2254724,
@@ -91,6 +115,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1407009,
+      "num": 1407009,
+      "word": "真正有致癌风险的是这2种水",
+      "onboard_time": 1702436915,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 1273149,
       "num": 1273149,
       "word": "肚子越来越小的小技巧",
@@ -123,11 +155,11 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 922682,
-      "num": 922682,
-      "word": "飞机上没网 删照片",
-      "onboard_time": 1702437575,
-      "rank": 4,
+      "raw_hot": 874650,
+      "num": 503225,
+      "word": "接吻是谁想出来的",
+      "onboard_time": 1702440518,
+      "rank": 11,
       "category": "情感"
     },
     {
@@ -147,12 +179,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 762965,
-      "num": 544277,
-      "word": "真正有致癌风险的是这2种水",
-      "onboard_time": 1702436915,
-      "rank": 30,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 763570,
+      "num": 763570,
+      "word": "东方甄选CEO称董宇辉年薪不止网传千万",
+      "onboard_time": 1702437094,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 761747,
@@ -299,6 +331,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 492855,
+      "num": 367279,
+      "word": "离职半年后收到了前公司的年终奖",
+      "onboard_time": 1702440941,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 491307,
       "num": 491307,
       "word": "菜鸟 取件码呢",
@@ -313,14 +353,6 @@
       "onboard_time": 1702427261,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 466912,
-      "num": 466912,
-      "word": "东方甄选CEO称董宇辉年薪不止网传千万",
-      "onboard_time": 1702437094,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438475,
@@ -353,6 +385,14 @@
       "onboard_time": 1702426060,
       "rank": 18,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 422368,
+      "num": 422368,
+      "word": "把教师打成筛子漏风的就是教育",
+      "onboard_time": 1702439375,
+      "rank": 16,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 416267,
@@ -395,20 +435,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 387774,
-      "num": 387774,
-      "word": "周海媚的任性五十年",
-      "onboard_time": 1702438238,
-      "rank": 19,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 384388,
       "num": 421386,
       "word": "北京下雪",
       "onboard_time": 1702429843,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381438,
+      "num": 381438,
+      "word": "故宫拍雪",
+      "onboard_time": 1702438776,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 374604,
+      "num": 374604,
+      "word": "灯火阑珊被取消奥斯卡参赛资格",
+      "onboard_time": 1702439740,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 373123,
@@ -451,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365329,
+      "num": 365329,
+      "word": "安德鲁布劳尔去世",
+      "onboard_time": 1702440276,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357673,
       "num": 357673,
       "word": "何猷君 恋爱脑最强大脑随时切换",
@@ -489,6 +545,14 @@
       "onboard_time": 1702373434,
       "rank": 17,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 334963,
+      "num": 334963,
+      "word": "长春高空抛物致死案一审宣判",
+      "onboard_time": 1702438894,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332769,
@@ -579,6 +643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 259015,
+      "num": 259015,
+      "word": "金牛座总是在默默观察",
+      "onboard_time": 1702438596,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 256985,
       "num": 334510,
       "word": "江苏下雪",
@@ -656,6 +728,14 @@
       "word": "系统性红斑狼疮脑病发病几小时内可死亡",
       "onboard_time": 1702436255,
       "rank": 32,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 231480,
+      "num": 231480,
+      "word": "红斑狼疮很容易被漏诊",
+      "onboard_time": 1702440276,
+      "rank": 35,
       "category": "健康医疗,社会新闻"
     },
     {
@@ -747,12 +827,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204271,
+      "num": 204271,
+      "word": "下雪 打伞",
+      "onboard_time": 1702440636,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203326,
       "num": 203326,
       "word": "为什么喝了热红酒更容易头痛",
       "onboard_time": 1702432894,
       "rank": 37,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 203190,
+      "num": 203190,
+      "word": "女子晒日光浴后确诊红斑狼疮",
+      "onboard_time": 1702439559,
+      "rank": 39,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 203046,
@@ -835,6 +931,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 184813,
+      "num": 184813,
+      "word": "请记住这个名字张纯如",
+      "onboard_time": 1702440335,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 183700,
+      "num": 2323483,
+      "word": "2023年国家公祭日",
+      "onboard_time": 1702438835,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182199,
       "num": 182199,
       "word": "何猷君生活工作的反差",
@@ -883,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176384,
+      "num": 176384,
+      "word": "不知道该羡慕陆毅还是胡彦斌",
+      "onboard_time": 1702441001,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170225,
       "num": 170225,
       "word": "126个药品新增进医保",
@@ -897,6 +1017,22 @@
       "onboard_time": 1702423168,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168823,
+      "num": 168823,
+      "word": "收费员反应迅速10秒挽回30吨纸箱",
+      "onboard_time": 1702440941,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161295,
+      "num": 161295,
+      "word": "很变态但能找到神仙公司的野路子",
+      "onboard_time": 1702441122,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 158371,
@@ -945,6 +1081,14 @@
       "onboard_time": 1702432712,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144545,
+      "num": 144545,
+      "word": "ReFa美容仪价格狂跌",
+      "onboard_time": 1702439076,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 143543,
@@ -1057,6 +1201,14 @@
       "onboard_time": 1702421842,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98916,
+      "num": 234380,
+      "word": "一篇和平宣言响彻南京",
+      "onboard_time": 1702441122,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 94300,
@@ -1193,6 +1345,14 @@
       "onboard_time": 1702405878,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30676,
+      "num": 367780,
+      "word": "华为首款轿车智界S7首批到店",
+      "onboard_time": 1702440157,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 26518,
