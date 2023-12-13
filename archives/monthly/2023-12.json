@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702488855169,
+  "endTime": 1702491665616,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -35163,6 +35163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 34230,
+      "num": 34230,
+      "word": "张纯如曾强烈要求日本驻美大使道歉",
+      "onboard_time": 1702488200,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33390,
       "num": 33390,
       "word": "周杰伦张艺兴周游记2连线",
@@ -35201,6 +35209,14 @@
       "onboard_time": 1701457515,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32650,
+      "num": 32650,
+      "word": "官方回应杨丞琳演唱会主办方经营异常",
+      "onboard_time": 1702490959,
+      "rank": 29,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 32553,
@@ -35345,14 +35361,6 @@
       "onboard_time": 1702059919,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 27686,
-      "num": 30826,
-      "word": "张纯如曾强烈要求日本驻美大使道歉",
-      "onboard_time": 1702488200,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27134,
@@ -35601,6 +35609,14 @@
       "onboard_time": 1702066934,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20114,
+      "num": 24784,
+      "word": "石凯新单曲",
+      "onboard_time": 1702490175,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 19902,
