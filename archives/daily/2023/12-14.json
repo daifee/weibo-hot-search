@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702484559997,
+  "endTime": 1702485544159,
   "band_list": [
     {
       "raw_hot": 809487,
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476199,
+      "raw_hot": 487407,
       "num": 241954,
       "word": "水逆来了 重灾区的星座要小心",
       "onboard_time": 1702480774,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 481163,
+      "num": 237538,
+      "word": "刚开始只是逃水课",
+      "onboard_time": 1702478319,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 476364,
+      "num": 235569,
+      "word": "考研考编考公 三手抓",
+      "onboard_time": 1702474299,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 442602,
@@ -73,22 +89,6 @@
       "onboard_time": 1702468769,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439047,
-      "num": 237538,
-      "word": "刚开始只是逃水课",
-      "onboard_time": 1702478319,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 434336,
-      "num": 235569,
-      "word": "考研考编考公 三手抓",
-      "onboard_time": 1702474299,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 431691,
@@ -177,6 +177,14 @@
       "onboard_time": 1702474900,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159591,
+      "num": 159591,
+      "word": "大钟奖主办方破产",
+      "onboard_time": 1702484966,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 156250,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 68537,
-      "num": 68537,
+      "num": 71705,
       "word": "为考研加油",
       "onboard_time": 1702482991,
       "rank": 48,
@@ -380,11 +388,19 @@
     },
     {
       "raw_hot": 67882,
-      "num": 67882,
+      "num": 71733,
       "word": "经超小李琳 姐弟恋能有多快乐",
       "onboard_time": 1702469252,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51913,
+      "num": 497454,
+      "word": "100秒划2024年经济工作重点",
+      "onboard_time": 1702472434,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34412,
@@ -393,19 +409,14 @@
       "onboard_time": 1702460073,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29192,
-      "num": 497454,
-      "word": "100秒划2024年经济工作重点",
-      "onboard_time": 1702472434,
-      "rank": 0,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中越两党两国关系新定位的深刻内涵#"
+    },
+    {
+      "word": "#习近平同越南国家主席武文赏举行会谈#"
     }
   ]
 }
