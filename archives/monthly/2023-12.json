@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702459103662,
+  "endTime": 1702460081815,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -1451,6 +1451,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1769899,
+      "num": 414360,
+      "word": "副局长被儿子举报出轨待遇降为一级科员",
+      "onboard_time": 1702458451,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1767780,
       "num": 1767780,
       "word": "韩国申博失败",
@@ -1561,6 +1569,14 @@
       "onboard_time": 1701676059,
       "rank": 5,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 1694506,
+      "num": 400632,
+      "word": "齐舞空间向宋茜道歉",
+      "onboard_time": 1702458272,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1690753,
@@ -2905,14 +2921,6 @@
       "onboard_time": 1701911674,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1084788,
-      "num": 400632,
-      "word": "齐舞空间向宋茜道歉",
-      "onboard_time": 1702458272,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1084370,
@@ -5529,14 +5537,6 @@
       "onboard_time": 1701922294,
       "rank": 14,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 662899,
-      "num": 414360,
-      "word": "副局长被儿子举报出轨待遇降为一级科员",
-      "onboard_time": 1702458451,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 661981,
@@ -12795,6 +12795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 342988,
+      "num": 314203,
+      "word": "这个冬天你买草莓了吗",
+      "onboard_time": 1702458451,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 342820,
       "num": 342820,
       "word": "吉祥航空回应外籍旅客优先登机",
@@ -13561,6 +13569,14 @@
       "onboard_time": 1701828575,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 323995,
+      "num": 323995,
+      "word": "权志龙无吸毒嫌疑将结案",
+      "onboard_time": 1702459654,
+      "rank": 23,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 323857,
@@ -15995,6 +16011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282778,
+      "num": 240468,
+      "word": "ChatGPT解读董宇辉回应长文",
+      "onboard_time": 1702458335,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282068,
       "num": 282068,
       "word": "苏翊鸣世界杯第一晋级",
@@ -17379,14 +17403,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 260476,
-      "num": 231074,
-      "word": "ChatGPT解读董宇辉回应长文",
-      "onboard_time": 1702458335,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260288,
       "num": 197663,
       "word": "妈妈分享女儿每天的穿搭",
@@ -17465,14 +17481,6 @@
       "onboard_time": 1701509372,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 258486,
-      "num": 258486,
-      "word": "这个冬天你买草莓了吗",
-      "onboard_time": 1702458451,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 258442,
@@ -20923,6 +20931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216603,
+      "num": 612515,
+      "word": "中国经济工作明年怎么干",
+      "onboard_time": 1702457735,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 216583,
       "num": 216583,
       "word": "喜马拉雅高级副总裁确认已离职",
@@ -22841,6 +22857,14 @@
       "onboard_time": 1702350214,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201001,
+      "num": 201001,
+      "word": "2023LCK颁奖典礼",
+      "onboard_time": 1702460014,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 200963,
@@ -25449,6 +25473,14 @@
       "onboard_time": 1702387057,
       "rank": 40,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 182477,
+      "num": 182477,
+      "word": "京东回应大规模人员调整",
+      "onboard_time": 1702459174,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 182465,
@@ -29627,6 +29659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144149,
+      "num": 144149,
+      "word": "亚冠",
+      "onboard_time": 1702458933,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144121,
       "num": 411030,
       "word": "天美15周年向快乐出发",
@@ -30843,14 +30883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131869,
-      "num": 131869,
-      "word": "亚冠",
-      "onboard_time": 1702458933,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131836,
       "num": 128484,
       "word": "王安宇首次获得演员奖",
@@ -32011,6 +32043,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 113951,
+      "num": 113951,
+      "word": "考研最后十天怎么调整心态",
+      "onboard_time": 1702459595,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 113724,
       "num": 113724,
       "word": "侯雯元面前的周也belike",
@@ -32137,14 +32177,6 @@
       "onboard_time": 1701482014,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 110691,
-      "num": 405936,
-      "word": "中国经济工作明年怎么干",
-      "onboard_time": 1702457735,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 110544,
@@ -34895,6 +34927,14 @@
       "num": 938503,
       "word": "中国经济仍是全球增长最大引擎",
       "onboard_time": 1701868836,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 6317,
+      "num": 448153,
+      "word": "以国之名悼我同胞",
+      "onboard_time": 1702460073,
       "rank": 2,
       "category": "国内时政"
     },
