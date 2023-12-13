@@ -1,0 +1,410 @@
+{
+  "runTime": 1702473717096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 83043,
+        "num": 738370,
+        "word": "明年要坚持稳中求进以进促稳先立后破",
+        "onboard_time": 1702467273,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 731881,
+        "num": 731881,
+        "word": "南京城沦陷前是什么样",
+        "onboard_time": 1702468832,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60469,
+        "num": 726153,
+        "word": "以国之名悼我同胞",
+        "onboard_time": 1702460073,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154474,
+        "num": 715579,
+        "word": "为什么一穿高领就难受",
+        "onboard_time": 1702471414,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66823,
+        "num": 695493,
+        "word": "100秒划2024年经济工作重点",
+        "onboard_time": 1702472434,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2198178,
+        "num": 691272,
+        "word": "东方甄选4天掉粉近10万",
+        "onboard_time": 1702468769,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400176,
+        "num": 677349,
+        "word": "董宇辉称不要以饭圈名义污名化任何人",
+        "onboard_time": 1702470332,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811909,
+        "num": 660174,
+        "word": "经超小李琳 姐弟恋能有多快乐",
+        "onboard_time": 1702469252,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458166,
+        "num": 653743,
+        "word": "雷神崩了",
+        "onboard_time": 1702472312,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187961,
+        "num": 644370,
+        "word": "4个红斑狼疮的常见误区",
+        "onboard_time": 1702467812,
+        "rank": 9,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 633032,
+        "num": 633032,
+        "word": "人民在线评网红痞幼盗用视频事件",
+        "onboard_time": 1702473457,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 464384,
+        "num": 464384,
+        "word": "齐舞空间向宋茜道歉",
+        "onboard_time": 1702458272,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455351,
+        "num": 455351,
+        "word": "Minnie身体不适提前退场",
+        "onboard_time": 1702471594,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435090,
+        "num": 435090,
+        "word": "周海媚的任性五十年",
+        "onboard_time": 1702438238,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 377675,
+        "num": 377675,
+        "word": "星火英语 耽误我学习",
+        "onboard_time": 1702473273,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 374924,
+        "num": 374924,
+        "word": "杨洋 什锦",
+        "onboard_time": 1702463975,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360941,
+        "num": 360941,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 16,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 352187,
+        "num": 352187,
+        "word": "天官赐福 更新",
+        "onboard_time": 1702472014,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 406208,
+        "num": 344466,
+        "word": "周海媚",
+        "onboard_time": 1702452573,
+        "rank": 18,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 322003,
+        "num": 322003,
+        "word": "年轻人报复性挤爆3.5分饭店",
+        "onboard_time": 1702455993,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957179,
+        "num": 318898,
+        "word": "副局长被儿子举报出轨待遇降为一级科员",
+        "onboard_time": 1702458451,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314171,
+        "num": 314171,
+        "word": "这个冬天你买草莓了吗",
+        "onboard_time": 1702458451,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 283035,
+        "num": 283035,
+        "word": "陈伟霆曾因负面评价抑郁",
+        "onboard_time": 1702470572,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277526,
+        "num": 277526,
+        "word": "脱轨要播了",
+        "onboard_time": 1702472557,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246937,
+        "num": 246937,
+        "word": "石宇奇vs安赛龙",
+        "onboard_time": 1702471954,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246884,
+        "num": 246884,
+        "word": "米画师崩了",
+        "onboard_time": 1702472372,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 245233,
+        "num": 245233,
+        "word": "联想回应总部logo被涂成华为",
+        "onboard_time": 1702464573,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242233,
+        "num": 242233,
+        "word": "王嘉尔粉丝合照",
+        "onboard_time": 1702472493,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239871,
+        "num": 239871,
+        "word": "经常不吃早餐会加速衰老",
+        "onboard_time": 1702468353,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237658,
+        "num": 237658,
+        "word": "特斯拉召回超203万辆车",
+        "onboard_time": 1702468292,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 507383,
+        "num": 237178,
+        "word": "SM卖1w 东大门卖500",
+        "onboard_time": 1702472975,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235655,
+        "num": 235655,
+        "word": "辛芷蕾挣的第一笔钱被爸爸裱起来",
+        "onboard_time": 1702465114,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227738,
+        "num": 227738,
+        "word": "患红斑狼疮5年26岁女孩去年当了妈妈",
+        "onboard_time": 1702457254,
+        "rank": 32,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 222310,
+        "num": 222310,
+        "word": "i人喜欢的东西",
+        "onboard_time": 1702473157,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219501,
+        "num": 219501,
+        "word": "这5个泡脚习惯看似养生其实很伤身",
+        "onboard_time": 1702472733,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210125,
+        "num": 210125,
+        "word": "杨幂新片入围海南岛国际电影节",
+        "onboard_time": 1702472253,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205029,
+        "num": 205029,
+        "word": "EXO全员入伍",
+        "onboard_time": 1702453953,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203454,
+        "num": 203454,
+        "word": "胡先煦多大了还骑妈妈脖子",
+        "onboard_time": 1702473576,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202757,
+        "num": 202757,
+        "word": "从德国带了一瓶水到英国",
+        "onboard_time": 1702473516,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194975,
+        "num": 194975,
+        "word": "大爷2万多买山寨保时捷上路就被查",
+        "onboard_time": 1702464214,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185203,
+        "num": 185203,
+        "word": "2023年最出圈的男性角色",
+        "onboard_time": 1702470034,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182184,
+        "num": 182184,
+        "word": "阿拉丁 中国人",
+        "onboard_time": 1702469671,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179568,
+        "num": 179568,
+        "word": "孩子不敢抽血被家长踹翻在地",
+        "onboard_time": 1702454193,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175530,
+        "num": 175530,
+        "word": "新疆6天5夜旅行保姆级攻略",
+        "onboard_time": 1702473457,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 173228,
+        "num": 173228,
+        "word": "ChatGPT解读董宇辉回应长文",
+        "onboard_time": 1702458335,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171394,
+        "num": 171394,
+        "word": "Faker获得年度最佳选手",
+        "onboard_time": 1702471954,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163386,
+        "num": 163386,
+        "word": "跨年晚会阵容",
+        "onboard_time": 1702466852,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151876,
+        "num": 151876,
+        "word": "胡先煦 我是你最勇敢的儿子吗",
+        "onboard_time": 1702457192,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151383,
+        "num": 151383,
+        "word": "羽绒服清洗小妙招",
+        "onboard_time": 1702473634,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147173,
+        "num": 147173,
+        "word": "真正有致癌风险的是这2种水",
+        "onboard_time": 1702436915,
+        "rank": 49,
+        "category": "健康医疗,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阮富仲举行会谈#"
+    }
+  }
+}

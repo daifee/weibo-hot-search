@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702471775363,
+  "endTime": 1702473717096,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2267843,
-      "num": 688788,
+      "num": 691272,
       "word": "东方甄选4天掉粉近10万",
       "onboard_time": 1702468769,
       "rank": 1,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1694506,
-      "num": 425982,
+      "num": 464384,
       "word": "齐舞空间向宋茜道歉",
       "onboard_time": 1702458272,
       "rank": 12,
@@ -193,6 +193,14 @@
       "onboard_time": 1702436915,
       "rank": 30,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 1400176,
+      "num": 677349,
+      "word": "董宇辉称不要以饭圈名义污名化任何人",
+      "onboard_time": 1702470332,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1339957,
@@ -252,19 +260,11 @@
     },
     {
       "raw_hot": 938388,
-      "num": 730242,
+      "num": 731881,
       "word": "南京城沦陷前是什么样",
       "onboard_time": 1702468832,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 883433,
-      "num": 669733,
-      "word": "董宇辉称不要以饭圈名义污名化任何人",
-      "onboard_time": 1702470332,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 869872,
@@ -305,6 +305,14 @@
       "onboard_time": 1702431935,
       "rank": 13,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 811909,
+      "num": 668616,
+      "word": "经超小李琳 姐弟恋能有多快乐",
+      "onboard_time": 1702469252,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 772692,
@@ -395,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 668616,
-      "num": 668616,
-      "word": "经超小李琳 姐弟恋能有多快乐",
-      "onboard_time": 1702469252,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 664254,
       "num": 393743,
       "word": "周海媚曾谈与吕良伟的感情",
@@ -449,6 +449,14 @@
       "onboard_time": 1702465114,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 633032,
+      "num": 633032,
+      "word": "人民在线评网红痞幼盗用视频事件",
+      "onboard_time": 1702473457,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 628637,
@@ -579,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507383,
+      "num": 237178,
+      "word": "SM卖1w 东大门卖500",
+      "onboard_time": 1702472975,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493673,
       "num": 349683,
       "word": "红斑狼疮是免疫病不是皮肤病",
@@ -625,6 +641,22 @@
       "onboard_time": 1702427261,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 458166,
+      "num": 653743,
+      "word": "雷神崩了",
+      "onboard_time": 1702472312,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 455351,
+      "num": 455351,
+      "word": "Minnie身体不适提前退场",
+      "onboard_time": 1702471594,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 449594,
@@ -811,6 +843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 377675,
+      "num": 377675,
+      "word": "星火英语 耽误我学习",
+      "onboard_time": 1702473273,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 374604,
       "num": 374604,
       "word": "灯火阑珊被取消奥斯卡参赛资格",
@@ -881,6 +921,14 @@
       "onboard_time": 1702432413,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 352187,
+      "num": 352187,
+      "word": "天官赐福 更新",
+      "onboard_time": 1702472014,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 344266,
@@ -1099,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283035,
+      "num": 283035,
+      "word": "陈伟霆曾因负面评价抑郁",
+      "onboard_time": 1702470572,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281028,
       "num": 281028,
       "word": "孙颖莎首轮对阵张本美和",
@@ -1115,20 +1171,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277526,
+      "num": 277526,
+      "word": "脱轨要播了",
+      "onboard_time": 1702472557,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276512,
       "num": 276512,
       "word": "跨年晚会阵容",
       "onboard_time": 1702466852,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274118,
-      "num": 274118,
-      "word": "陈伟霆曾因负面评价抑郁",
-      "onboard_time": 1702470572,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 271076,
@@ -1291,6 +1347,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 246937,
+      "num": 246937,
+      "word": "石宇奇vs安赛龙",
+      "onboard_time": 1702471954,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 246884,
+      "num": 246884,
+      "word": "米画师崩了",
+      "onboard_time": 1702472372,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 245462,
       "num": 245462,
       "word": "花少5 顶级浪漫",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1702444898,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242233,
+      "num": 242233,
+      "word": "王嘉尔粉丝合照",
+      "onboard_time": 1702472493,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 240819,
@@ -1459,12 +1539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223709,
-      "num": 201487,
-      "word": "Minnie身体不适提前退场",
-      "onboard_time": 1702471594,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 222310,
+      "num": 222310,
+      "word": "i人喜欢的东西",
+      "onboard_time": 1702473157,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 220312,
@@ -1473,6 +1553,14 @@
       "onboard_time": 1702454852,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 219501,
+      "num": 219501,
+      "word": "这5个泡脚习惯看似养生其实很伤身",
+      "onboard_time": 1702472733,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 218642,
@@ -1545,6 +1633,14 @@
       "onboard_time": 1702437156,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210125,
+      "num": 210125,
+      "word": "杨幂新片入围海南岛国际电影节",
+      "onboard_time": 1702472253,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 209944,
@@ -1627,6 +1723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 203454,
+      "num": 203454,
+      "word": "胡先煦多大了还骑妈妈脖子",
+      "onboard_time": 1702473576,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203326,
       "num": 203326,
       "word": "为什么喝了热红酒更容易头痛",
@@ -1649,6 +1753,14 @@
       "onboard_time": 1702369177,
       "rank": 29,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 202757,
+      "num": 202757,
+      "word": "从德国带了一瓶水到英国",
+      "onboard_time": 1702473516,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 202532,
@@ -1811,6 +1923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 187961,
+      "num": 709076,
+      "word": "4个红斑狼疮的常见误区",
+      "onboard_time": 1702467812,
+      "rank": 32,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 187860,
       "num": 187860,
       "word": "神隐 脑内BGM",
@@ -1923,14 +2043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179119,
-      "num": 709076,
-      "word": "4个红斑狼疮的常见误区",
-      "onboard_time": 1702467812,
-      "rank": 32,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 178407,
       "num": 178407,
       "word": "杨紫公布起诉黑粉进展",
@@ -1963,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175530,
+      "num": 175530,
+      "word": "新疆6天5夜旅行保姆级攻略",
+      "onboard_time": 1702473457,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 175208,
       "num": 175208,
       "word": "猫猫 我想自己端着喝",
@@ -1985,6 +2105,14 @@
       "onboard_time": 1702462115,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171394,
+      "num": 171394,
+      "word": "Faker获得年度最佳选手",
+      "onboard_time": 1702471954,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 170225,
@@ -2188,7 +2316,7 @@
     },
     {
       "raw_hot": 155548,
-      "num": 736815,
+      "num": 738370,
       "word": "明年要坚持稳中求进以进促稳先立后破",
       "onboard_time": 1702467273,
       "rank": 0,
@@ -2203,12 +2331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154474,
+      "num": 715579,
+      "word": "为什么一穿高领就难受",
+      "onboard_time": 1702471414,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153680,
       "num": 160351,
       "word": "易孕体质是没有科学避孕",
       "onboard_time": 1702382433,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151383,
+      "num": 151383,
+      "word": "羽绒服清洗小妙招",
+      "onboard_time": 1702473634,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 151056,
@@ -2393,14 +2537,6 @@
       "onboard_time": 1702457852,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126891,
-      "num": 126891,
-      "word": "为什么一穿高领就难受",
-      "onboard_time": 1702471414,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 126635,
@@ -2643,12 +2779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66823,
+      "num": 695493,
+      "word": "100秒划2024年经济工作重点",
+      "onboard_time": 1702472434,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60517,
       "num": 60517,
       "word": "床头放柠檬 舒缓心情",
       "onboard_time": 1702417034,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60469,
+      "num": 726153,
+      "word": "以国之名悼我同胞",
+      "onboard_time": 1702460073,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59064,
@@ -2745,14 +2897,6 @@
       "onboard_time": 1702417995,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19993,
-      "num": 462175,
-      "word": "以国之名悼我同胞",
-      "onboard_time": 1702460073,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13803,
