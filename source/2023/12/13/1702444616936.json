@@ -1,0 +1,410 @@
+{
+  "runTime": 1702444616936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8567030,
+        "num": 8567030,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 0,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 1278265,
+        "num": 1278265,
+        "word": "真正有致癌风险的是这2种水",
+        "onboard_time": 1702436915,
+        "rank": 1,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 148175,
+        "num": 845199,
+        "word": "2023年国家公祭日",
+        "onboard_time": 1702438835,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2216329,
+        "num": 811529,
+        "word": "周海媚的任性五十年",
+        "onboard_time": 1702438238,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 756667,
+        "num": 756667,
+        "word": "鹿晗 云南",
+        "onboard_time": 1702443763,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1786029,
+        "num": 729557,
+        "word": "飞机上没网 删照片",
+        "onboard_time": 1702437575,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 697693,
+        "num": 697693,
+        "word": "山西大同村邻互杀事件调查",
+        "onboard_time": 1702441302,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654486,
+        "num": 654486,
+        "word": "红斑狼疮每次复发都是重创",
+        "onboard_time": 1702433438,
+        "rank": 7,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 537963,
+        "num": 537963,
+        "word": "东方甄选CEO称董宇辉年薪不止网传千万",
+        "onboard_time": 1702437094,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451334,
+        "num": 451334,
+        "word": "董宇辉小作文",
+        "onboard_time": 1702433554,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2037381,
+        "num": 450688,
+        "word": "接吻是谁想出来的",
+        "onboard_time": 1702440518,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1159231,
+        "num": 450399,
+        "word": "周海媚去世",
+        "onboard_time": 1702388629,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 449594,
+        "num": 449594,
+        "word": "格林拳打努尔基奇",
+        "onboard_time": 1702443464,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422465,
+        "num": 422465,
+        "word": "脸不对称就练筷子操",
+        "onboard_time": 1702432116,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 401223,
+        "num": 401223,
+        "word": "JieJie meiko",
+        "onboard_time": 1702443106,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 391183,
+        "num": 391183,
+        "word": "下雪 打伞",
+        "onboard_time": 1702440636,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366997,
+        "num": 366997,
+        "word": "为什么很多老人摔一跤没多久就走了",
+        "onboard_time": 1702431935,
+        "rank": 16,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 363106,
+        "num": 363106,
+        "word": "再见周芷若",
+        "onboard_time": 1702389397,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 362949,
+        "num": 362949,
+        "word": "现在下雪通知停课 以前下雪通知带锹",
+        "onboard_time": 1702429542,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354126,
+        "num": 354126,
+        "word": "把教师打成筛子漏风的就是教育",
+        "onboard_time": 1702439375,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 552278,
+        "num": 346187,
+        "word": "离职半年后收到了前公司的年终奖",
+        "onboard_time": 1702440941,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323023,
+        "num": 323023,
+        "word": "女孩千里认亲被拒已回养父母身边",
+        "onboard_time": 1702444180,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284954,
+        "num": 284954,
+        "word": "美甲尽头 裸色",
+        "onboard_time": 1702436314,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 269761,
+        "num": 269761,
+        "word": "进大厂后感觉自己是个土帽",
+        "onboard_time": 1702441785,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268427,
+        "num": 268427,
+        "word": "何猷君给台阶就下",
+        "onboard_time": 1702442803,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260533,
+        "num": 260533,
+        "word": "王安宇演技",
+        "onboard_time": 1702427261,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241374,
+        "num": 241374,
+        "word": "北京停课",
+        "onboard_time": 1702422805,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 229732,
+        "num": 229732,
+        "word": "故宫拍雪",
+        "onboard_time": 1702438776,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 225356,
+        "num": 225356,
+        "word": "国家公祭日",
+        "onboard_time": 1702422987,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151027,
+        "num": 212987,
+        "word": "医保谈判现场的灵魂砍价",
+        "onboard_time": 1702444420,
+        "rank": 29,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 235182,
+        "num": 212670,
+        "word": "为啥有人吃了剩菜没事有人却进了医院",
+        "onboard_time": 1702443881,
+        "rank": 30,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 209869,
+        "num": 209869,
+        "word": "iPhone16或调整相机岛设计",
+        "onboard_time": 1702428521,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208857,
+        "num": 208857,
+        "word": "阿根廷将比索官方汇率贬值54%",
+        "onboard_time": 1702444180,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 208489,
+        "num": 208489,
+        "word": "灯火阑珊被取消奥斯卡参赛资格",
+        "onboard_time": 1702439740,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 642375,
+        "num": 207847,
+        "word": "金庸曾说愿意为周海媚改写结局",
+        "onboard_time": 1702443281,
+        "rank": 34,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 206042,
+        "num": 206042,
+        "word": "小狗生病90岁爷爷奶奶陪伴挂水",
+        "onboard_time": 1702443464,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203017,
+        "num": 203017,
+        "word": "金牛座总是在默默观察",
+        "onboard_time": 1702438596,
+        "rank": 36,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 202157,
+        "num": 202157,
+        "word": "被萌兰笑发财了",
+        "onboard_time": 1702436017,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189621,
+        "num": 189621,
+        "word": "安德鲁布劳尔去世",
+        "onboard_time": 1702440276,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177213,
+        "num": 177213,
+        "word": "郁可唯演唱会舞台激光损坏观众相机",
+        "onboard_time": 1702429661,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175662,
+        "num": 175662,
+        "word": "公司倒闭有你一份力吧",
+        "onboard_time": 1702444362,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174783,
+        "num": 174783,
+        "word": "董宇辉再回应小作文事件",
+        "onboard_time": 1702435596,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164568,
+        "num": 164568,
+        "word": "低于这个温度一定要穿秋裤了",
+        "onboard_time": 1702426719,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163156,
+        "num": 163156,
+        "word": "林园称持有茅台20多年可能终身不卖",
+        "onboard_time": 1702441785,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 160287,
+        "num": 160287,
+        "word": "朱丹公开自己以前的朋友圈",
+        "onboard_time": 1702426600,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159894,
+        "num": 159894,
+        "word": "红斑狼疮很容易被漏诊",
+        "onboard_time": 1702440276,
+        "rank": 45,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 158003,
+        "num": 158003,
+        "word": "EDG夺冠阵容五人五队",
+        "onboard_time": 1702432413,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155964,
+        "num": 155964,
+        "word": "成都警方通报一起持刀杀人案",
+        "onboard_time": 1702444478,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149703,
+        "num": 149703,
+        "word": "乐童音乐家 现实兄妹",
+        "onboard_time": 1702436738,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147382,
+        "num": 147382,
+        "word": "杭州女性比男性多11万",
+        "onboard_time": 1702444598,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}
