@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/10 00:20:48 ~ 2023/12/14 01:16:41
+本榜单时间：2023/12/10 00:20:48 ~ 2023/12/14 01:34:15
 </p>
 </blockquote>
 <p>
@@ -8897,6 +8897,12 @@ WSJ 晚宴（热度：30756）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%E4%BF%AE%E5%A4%8D%20%E5%A5%B3%E6%80%A7%E5%8A%B3%E5%8A%A8%E8%80%85%23" target="weibo">
 巴黎圣母院修复 女性劳动者（热度：28162）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BA%AF%E5%A6%82%E6%9B%BE%E5%BC%BA%E7%83%88%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%81%93%E6%AD%89%23" target="weibo">
+张纯如曾强烈要求日本驻美大使道歉（热度：27686）
 </a>
 </li>
 

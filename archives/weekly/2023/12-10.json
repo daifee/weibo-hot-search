@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702487801671,
+  "endTime": 1702488855169,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -11849,6 +11849,14 @@
       "onboard_time": 1702327273,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27686,
+      "num": 30826,
+      "word": "张纯如曾强烈要求日本驻美大使道歉",
+      "onboard_time": 1702488200,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26518,
