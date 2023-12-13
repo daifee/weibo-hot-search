@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702456542682,
+  "endTime": 1702459103662,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 1445814,
-      "num": 380699,
+      "num": 397375,
       "word": "EXO全员入伍",
       "onboard_time": 1702453953,
       "rank": 11,
@@ -689,6 +689,14 @@
       "onboard_time": 1702293995,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1339957,
+      "num": 531192,
+      "word": "女孩念台词掐同学脖子确诊狼疮脑病",
+      "onboard_time": 1702453534,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1335355,
@@ -891,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1084788,
+      "num": 400632,
+      "word": "齐舞空间向宋茜道歉",
+      "onboard_time": 1702458272,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1079805,
       "num": 1079805,
       "word": "浙江省考 比国考还难",
@@ -1064,14 +1080,6 @@
       "word": "缅北四大家族",
       "onboard_time": 1702219238,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 937681,
-      "num": 531192,
-      "word": "女孩念台词掐同学脖子确诊狼疮脑病",
-      "onboard_time": 1702453534,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1811,6 +1819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 662899,
+      "num": 414360,
+      "word": "副局长被儿子举报出轨待遇降为一级科员",
+      "onboard_time": 1702458451,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661981,
       "num": 661981,
       "word": "拒绝假唱 来真的",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1702398812,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 647452,
+      "num": 411405,
+      "word": "年轻人报复性挤爆3.5分饭店",
+      "onboard_time": 1702455993,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644866,
@@ -2324,7 +2348,7 @@
     },
     {
       "raw_hot": 538807,
-      "num": 381304,
+      "num": 384875,
       "word": "孩子不敢抽血被家长踹翻在地",
       "onboard_time": 1702454193,
       "rank": 9,
@@ -2915,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436246,
+      "num": 385667,
+      "word": "Taylor Swift史上票房最高巡演",
+      "onboard_time": 1702456653,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 436067,
       "num": 436067,
       "word": "光遇",
@@ -2985,6 +3017,14 @@
       "onboard_time": 1702269219,
       "rank": 30,
       "category": "军事"
+    },
+    {
+      "raw_hot": 428448,
+      "num": 428448,
+      "word": "爸爸我淹水了我自己站起来了",
+      "onboard_time": 1702451014,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427535,
@@ -3211,14 +3251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 401371,
-      "num": 401371,
-      "word": "爸爸我淹水了我自己站起来了",
-      "onboard_time": 1702451014,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401223,
       "num": 401223,
       "word": "JieJie meiko",
@@ -3257,6 +3289,14 @@
       "onboard_time": 1702378416,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 397439,
+      "num": 361794,
+      "word": "患红斑狼疮5年26岁女孩去年当了妈妈",
+      "onboard_time": 1702457254,
+      "rank": 22,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 396788,
@@ -3417,6 +3457,14 @@
       "onboard_time": 1702204832,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379861,
+      "num": 355430,
+      "word": "生孩子能治痛经是真的吗",
+      "onboard_time": 1702455875,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 379579,
@@ -3657,6 +3705,14 @@
       "onboard_time": 1702432413,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 357166,
+      "num": 357166,
+      "word": "胡先煦 我是你最勇敢的儿子吗",
+      "onboard_time": 1702457192,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 356747,
@@ -4305,6 +4361,14 @@
       "onboard_time": 1702184316,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301923,
+      "num": 421360,
+      "word": "成都地铁偷拍案当事人决定上诉",
+      "onboard_time": 1702457375,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301734,
@@ -5051,6 +5115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260476,
+      "num": 231074,
+      "word": "ChatGPT解读董宇辉回应长文",
+      "onboard_time": 1702458335,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260288,
       "num": 197663,
       "word": "妈妈分享女儿每天的穿搭",
@@ -5065,6 +5137,14 @@
       "onboard_time": 1702371215,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258486,
+      "num": 258486,
+      "word": "这个冬天你买草莓了吗",
+      "onboard_time": 1702458451,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 257756,
@@ -5475,14 +5555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240531,
-      "num": 240531,
-      "word": "年轻人报复性挤爆3.5分饭店",
-      "onboard_time": 1702455993,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240361,
       "num": 240361,
       "word": "张杰又在搞事了",
@@ -5667,6 +5739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235689,
+      "num": 235689,
+      "word": "辛芷蕾 团欺",
+      "onboard_time": 1702457314,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235633,
       "num": 235633,
       "word": "越南观众有多爱中国电视剧",
@@ -5777,6 +5857,14 @@
       "onboard_time": 1702440276,
       "rank": 35,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 231162,
+      "num": 231162,
+      "word": "甄子丹头像",
+      "onboard_time": 1702458032,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 231124,
@@ -6313,6 +6401,14 @@
       "onboard_time": 1702305591,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215136,
+      "num": 215136,
+      "word": "SEVENTEEN花样青春 定档",
+      "onboard_time": 1702457973,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 215009,
@@ -6881,14 +6977,6 @@
       "onboard_time": 1702429241,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201235,
-      "num": 201235,
-      "word": "生孩子能治痛经是真的吗",
-      "onboard_time": 1702455875,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 201107,
@@ -8547,6 +8635,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 158890,
+      "num": 158890,
+      "word": "横滨水手半场1比0山东泰山",
+      "onboard_time": 1702458933,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158872,
       "num": 158872,
       "word": "郑渊洁称存信的房子将来改成信件博物馆",
@@ -9579,6 +9675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131869,
+      "num": 131869,
+      "word": "亚冠",
+      "onboard_time": 1702458933,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131064,
       "num": 131064,
       "word": "内双咋贴双眼皮贴啊",
@@ -9681,6 +9785,14 @@
       "onboard_time": 1702446515,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127739,
+      "num": 127739,
+      "word": "这发量真让人羡慕",
+      "onboard_time": 1702457852,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 127618,
@@ -9931,6 +10043,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116024,
+      "num": 116024,
+      "word": "京东多条业务线人员调整",
+      "onboard_time": 1702457015,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 115645,
+      "num": 115645,
+      "word": "年内全国超20家老牌百货宣布关门",
+      "onboard_time": 1702458631,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 114931,
       "num": 114931,
       "word": "讨好型人格真的很累",
@@ -9977,6 +10105,14 @@
       "onboard_time": 1702360414,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 110691,
+      "num": 405936,
+      "word": "中国经济工作明年怎么干",
+      "onboard_time": 1702457735,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108149,
