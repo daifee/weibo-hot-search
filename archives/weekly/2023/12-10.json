@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702463801806,
+  "endTime": 1702466129158,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1702246214,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869872,
+      "num": 306936,
+      "word": "杨洋 什锦",
+      "onboard_time": 1702463975,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 868543,
@@ -2435,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516434,
+      "num": 306378,
+      "word": "辛芷蕾挣的第一笔钱被爸爸裱起来",
+      "onboard_time": 1702465114,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516058,
       "num": 516058,
       "word": "虞书欣 哇哦",
@@ -3395,6 +3411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 388056,
+      "num": 305928,
+      "word": "大爷2万多买山寨保时捷上路就被查",
+      "onboard_time": 1702464214,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387444,
       "num": 387444,
       "word": "猪国迎来大危机",
@@ -3867,6 +3891,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 343954,
+      "num": 305787,
+      "word": "网红铁头因言语不当向长春道歉",
+      "onboard_time": 1702465354,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 343104,
       "num": 789229,
       "word": "一图详解中央经济工作会议",
@@ -4235,6 +4267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 314550,
+      "num": 305344,
+      "word": "加五个鸡蛋的大客户",
+      "onboard_time": 1702462957,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313904,
       "num": 313904,
       "word": "被萌兰笑发财了",
@@ -4307,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307283,
+      "num": 307283,
+      "word": "联想回应总部logo被涂成华为",
+      "onboard_time": 1702464573,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307149,
       "num": 307149,
       "word": "王曼昱 还没发博",
@@ -4369,6 +4417,14 @@
       "onboard_time": 1702365154,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305324,
+      "num": 305324,
+      "word": "故宫雪景",
+      "onboard_time": 1702278571,
+      "rank": 33,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 305216,
@@ -4993,6 +5049,14 @@
       "onboard_time": 1702279834,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269439,
+      "num": 371713,
+      "word": "幼儿园老师建雪地迷宫供孩子玩耍",
+      "onboard_time": 1702462595,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268427,
@@ -5819,14 +5883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235199,
-      "num": 223752,
-      "word": "加五个鸡蛋的大客户",
-      "onboard_time": 1702462957,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 234605,
       "num": 234605,
       "word": "歌词适配APP宣布永久下架",
@@ -6377,6 +6433,14 @@
       "onboard_time": 1702438357,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 218419,
+      "num": 218419,
+      "word": "花少5 顶级浪漫",
+      "onboard_time": 1702465174,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 218300,
@@ -7329,14 +7393,6 @@
       "onboard_time": 1702285299,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 195565,
-      "num": 195565,
-      "word": "故宫雪景",
-      "onboard_time": 1702278571,
-      "rank": 33,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 195520,
@@ -8507,14 +8563,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 168688,
-      "num": 368616,
-      "word": "幼儿园老师建雪地迷宫供孩子玩耍",
-      "onboard_time": 1702462595,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168665,
       "num": 168665,
       "word": "数学最初和最终的样子",
@@ -8529,6 +8577,14 @@
       "onboard_time": 1702253795,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168340,
+      "num": 168340,
+      "word": "宋茜粉丝回应被伴舞吐槽",
+      "onboard_time": 1702462115,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 167996,
@@ -8569,6 +8625,14 @@
       "onboard_time": 1702126178,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166569,
+      "num": 166569,
+      "word": "当公司全都是广东人",
+      "onboard_time": 1702464456,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 166221,
@@ -8635,6 +8699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164916,
+      "num": 164916,
+      "word": "小米王化辟谣澎湃将自动拦截色情APP",
+      "onboard_time": 1702465593,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164618,
       "num": 164618,
       "word": "刘诗雯看台观赛",
@@ -8688,6 +8760,14 @@
       "word": "鉴定北方热门地面",
       "onboard_time": 1702278273,
       "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 162748,
+      "num": 162748,
+      "word": "打雪仗神器",
+      "onboard_time": 1702465773,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -9139,6 +9219,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 150346,
+      "num": 150346,
+      "word": "鸭子模具",
+      "onboard_time": 1702465831,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150337,
       "num": 150337,
       "word": "三代齿轮新物料 抓马",
@@ -9209,6 +9297,14 @@
       "onboard_time": 1702254814,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149093,
+      "num": 149093,
+      "word": "排队找小孩哥领雪球",
+      "onboard_time": 1702465053,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 148875,
@@ -10067,6 +10163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123685,
+      "num": 123685,
+      "word": "圣诞妆容",
+      "onboard_time": 1702465533,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 123186,
       "num": 123186,
       "word": "AG白鲨连续三年会师决赛",
@@ -10185,6 +10289,14 @@
       "onboard_time": 1702200099,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116419,
+      "num": 116419,
+      "word": "很想很想你",
+      "onboard_time": 1702465293,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 116300,
