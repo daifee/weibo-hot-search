@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702445634803,
+  "endTime": 1702448585028,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -481,6 +481,14 @@
       "onboard_time": 1702346073,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1809389,
+      "num": 408106,
+      "word": "杨丞琳事件",
+      "onboard_time": 1702445619,
+      "rank": 14,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1796093,
@@ -1475,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723516,
+      "num": 723516,
+      "word": "女孩千里认亲被拒已回养父母身边",
+      "onboard_time": 1702444180,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723288,
       "num": 599033,
       "word": "去父母化",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1702300732,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671922,
+      "num": 345039,
+      "word": "古茗莲花楼 三人",
+      "onboard_time": 1702445737,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 671463,
@@ -1931,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596554,
+      "num": 596554,
+      "word": "房东不退押金女子怒开水龙头报复",
+      "onboard_time": 1702446515,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595284,
       "num": 595284,
       "word": "阿宝被七仔咬掉的耳朵已脱离爱心状",
@@ -2035,20 +2067,20 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 576974,
-      "num": 576974,
-      "word": "女孩千里认亲被拒已回养父母身边",
-      "onboard_time": 1702444180,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 576099,
       "num": 576099,
       "word": "王安宇 不吃水里的东西",
       "onboard_time": 1702279293,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 576053,
+      "num": 576053,
+      "word": "ChatGPT 欺骗人类",
+      "onboard_time": 1702444777,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 572581,
@@ -2137,14 +2169,6 @@
       "onboard_time": 1702164440,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553733,
-      "num": 408106,
-      "word": "杨丞琳事件",
-      "onboard_time": 1702445619,
-      "rank": 14,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 550564,
@@ -2507,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479473,
+      "num": 334915,
+      "word": "一个美人不必长得像另一个美人",
+      "onboard_time": 1702446874,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477217,
       "num": 477217,
       "word": "BLG官宣Knight加入",
@@ -2801,14 +2833,6 @@
       "onboard_time": 1702215038,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436967,
-      "num": 436967,
-      "word": "ChatGPT 欺骗人类",
-      "onboard_time": 1702444777,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 436067,
@@ -3899,6 +3923,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 326474,
+      "num": 326474,
+      "word": "红斑狼疮早期可能会口腔溃疡",
+      "onboard_time": 1702446632,
+      "rank": 16,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 326410,
       "num": 326410,
       "word": "郑秀妍和Amber拍了MV",
@@ -4017,6 +4049,14 @@
       "onboard_time": 1702266691,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312436,
+      "num": 312436,
+      "word": "吴世勋 入伍",
+      "onboard_time": 1702448556,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 310716,
@@ -4291,6 +4331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 293859,
+      "num": 293859,
+      "word": "创造营2024定档",
+      "onboard_time": 1702448495,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292852,
       "num": 292852,
       "word": "赵露思 湖南卫视跨年",
@@ -4505,6 +4553,14 @@
       "onboard_time": 1702219118,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279046,
+      "num": 279046,
+      "word": "说英雄谁是英雄副导演否认刘宇宁加戏",
+      "onboard_time": 1702447718,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 278958,
@@ -4843,6 +4899,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 263478,
+      "num": 263478,
+      "word": "国家公祭日南京全城默哀一分钟",
+      "onboard_time": 1702444180,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 263301,
       "num": 263301,
       "word": "什么叫函数存在连续可导",
@@ -5115,6 +5179,14 @@
       "category": "情感,作品衍生"
     },
     {
+      "raw_hot": 248584,
+      "num": 248584,
+      "word": "杭州女性比男性多11万",
+      "onboard_time": 1702444598,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248407,
       "num": 248407,
       "word": "女子在医院大哭倒地众人合力扶起",
@@ -5363,6 +5435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237066,
+      "num": 237066,
+      "word": "为啥有人吃了剩菜没事有人却进了医院",
+      "onboard_time": 1702443881,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 237056,
       "num": 237056,
       "word": "高级中性香水",
@@ -5417,14 +5497,6 @@
       "onboard_time": 1702429780,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235182,
-      "num": 226713,
-      "word": "为啥有人吃了剩菜没事有人却进了医院",
-      "onboard_time": 1702443881,
-      "rank": 30,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 234605,
@@ -5923,6 +5995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218642,
+      "num": 218642,
+      "word": "勇士又输",
+      "onboard_time": 1702447175,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218557,
       "num": 218557,
       "word": "旺卡 甜茶",
@@ -6048,14 +6128,6 @@
       "word": "济南全市中小学幼儿园转为线上教学",
       "onboard_time": 1702337069,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214731,
-      "num": 214731,
-      "word": "杭州女性比男性多11万",
-      "onboard_time": 1702444598,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -6795,6 +6867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197131,
+      "num": 197131,
+      "word": "东方甄选后院起火带火高途",
+      "onboard_time": 1702447958,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196776,
       "num": 196776,
       "word": "宁德时代竞业限制企业达百家",
@@ -6977,6 +7057,14 @@
       "onboard_time": 1702441001,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192226,
+      "num": 192226,
+      "word": "孙颖莎首轮对阵张本美和",
+      "onboard_time": 1702448195,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 192106,
@@ -7721,6 +7809,14 @@
       "onboard_time": 1702276772,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174523,
+      "num": 174523,
+      "word": "红斑狼疮高发于育龄期女性",
+      "onboard_time": 1702445500,
+      "rank": 48,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 174295,
@@ -8715,14 +8811,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 144057,
-      "num": 144057,
-      "word": "红斑狼疮高发于育龄期女性",
-      "onboard_time": 1702445500,
-      "rank": 48,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 143926,
       "num": 143926,
       "word": "2023年度爱用腮红",
@@ -8987,6 +9075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137784,
+      "num": 137784,
+      "word": "10天后考研",
+      "onboard_time": 1702448195,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 137765,
       "num": 137765,
       "word": "三大队",
@@ -9217,6 +9313,14 @@
       "onboard_time": 1702188693,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 127814,
+      "num": 127814,
+      "word": "国台办回应台湾街头酸菜鱼爆火",
+      "onboard_time": 1702446515,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127618,

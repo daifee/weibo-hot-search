@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702445634803,
+  "endTime": 1702448585028,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -107,6 +107,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 1809389,
+      "num": 408106,
+      "word": "杨丞琳事件",
+      "onboard_time": 1702445619,
+      "rank": 14,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1739029,
       "num": 1739029,
       "word": "现在下雪通知停课 以前下雪通知带锹",
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723516,
+      "num": 723516,
+      "word": "女孩千里认亲被拒已回养父母身边",
+      "onboard_time": 1702444180,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705639,
       "num": 1363048,
       "word": "骄阳似我 张凌赫魏大勋",
@@ -249,6 +265,14 @@
       "onboard_time": 1702426719,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 671922,
+      "num": 345039,
+      "word": "古茗莲花楼 三人",
+      "onboard_time": 1702445737,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 648559,
@@ -315,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596554,
+      "num": 596554,
+      "word": "房东不退押金女子怒开水龙头报复",
+      "onboard_time": 1702446515,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595284,
       "num": 595284,
       "word": "阿宝被七仔咬掉的耳朵已脱离爱心状",
@@ -355,12 +387,12 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 576974,
-      "num": 576974,
-      "word": "女孩千里认亲被拒已回养父母身边",
-      "onboard_time": 1702444180,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 576053,
+      "num": 576053,
+      "word": "ChatGPT 欺骗人类",
+      "onboard_time": 1702444777,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 571443,
@@ -369,14 +401,6 @@
       "onboard_time": 1702396181,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 553733,
-      "num": 408106,
-      "word": "杨丞琳事件",
-      "onboard_time": 1702445619,
-      "rank": 14,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 493673,
@@ -393,6 +417,14 @@
       "onboard_time": 1702383814,
       "rank": 8,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 479473,
+      "num": 334915,
+      "word": "一个美人不必长得像另一个美人",
+      "onboard_time": 1702446874,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 473090,
@@ -433,14 +465,6 @@
       "onboard_time": 1702369474,
       "rank": 21,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 436967,
-      "num": 436967,
-      "word": "ChatGPT 欺骗人类",
-      "onboard_time": 1702444777,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 425223,
@@ -659,6 +683,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 326474,
+      "num": 326474,
+      "word": "红斑狼疮早期可能会口腔溃疡",
+      "onboard_time": 1702446632,
+      "rank": 16,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 322728,
       "num": 322728,
       "word": "自测甲状腺结节的方法",
@@ -683,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312436,
+      "num": 312436,
+      "word": "吴世勋 入伍",
+      "onboard_time": 1702448556,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308066,
       "num": 308066,
       "word": "易烊千玺 评委",
@@ -699,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293859,
+      "num": 293859,
+      "word": "创造营2024定档",
+      "onboard_time": 1702448495,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289602,
       "num": 289602,
       "word": "碧桂园取消高管配车",
@@ -713,6 +761,14 @@
       "onboard_time": 1702430797,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279046,
+      "num": 279046,
+      "word": "说英雄谁是英雄副导演否认刘宇宁加戏",
+      "onboard_time": 1702447718,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 271002,
@@ -755,6 +811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 263478,
+      "num": 263478,
+      "word": "国家公祭日南京全城默哀一分钟",
+      "onboard_time": 1702444180,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256985,
       "num": 334510,
       "word": "江苏下雪",
@@ -777,6 +841,14 @@
       "onboard_time": 1702426963,
       "rank": 33,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 248584,
+      "num": 248584,
+      "word": "杭州女性比男性多11万",
+      "onboard_time": 1702444598,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247844,
@@ -827,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237066,
+      "num": 237066,
+      "word": "为啥有人吃了剩菜没事有人却进了医院",
+      "onboard_time": 1702443881,
+      "rank": 30,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 236176,
       "num": 236176,
       "word": "不去AAA的ENHYPEN",
@@ -841,14 +921,6 @@
       "onboard_time": 1702429780,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235182,
-      "num": 226713,
-      "word": "为啥有人吃了剩菜没事有人却进了医院",
-      "onboard_time": 1702443881,
-      "rank": 30,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 232718,
@@ -883,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218642,
+      "num": 218642,
+      "word": "勇士又输",
+      "onboard_time": 1702447175,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218547,
       "num": 218547,
       "word": "淡化痘印的思路",
@@ -896,14 +976,6 @@
       "word": "北京发布暴雪橙色预警",
       "onboard_time": 1702421963,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214731,
-      "num": 214731,
-      "word": "杭州女性比男性多11万",
-      "onboard_time": 1702444598,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1035,6 +1107,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 197131,
+      "num": 197131,
+      "word": "东方甄选后院起火带火高途",
+      "onboard_time": 1702447958,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196776,
       "num": 196776,
       "word": "宁德时代竞业限制企业达百家",
@@ -1065,6 +1145,14 @@
       "onboard_time": 1702441001,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192226,
+      "num": 192226,
+      "word": "孙颖莎首轮对阵张本美和",
+      "onboard_time": 1702448195,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 191778,
@@ -1179,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174523,
+      "num": 174523,
+      "word": "红斑狼疮高发于育龄期女性",
+      "onboard_time": 1702445500,
+      "rank": 48,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 170225,
       "num": 170225,
       "word": "126个药品新增进医保",
@@ -1275,14 +1371,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 144057,
-      "num": 144057,
-      "word": "红斑狼疮高发于育龄期女性",
-      "onboard_time": 1702445500,
-      "rank": 48,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 143543,
       "num": 160312,
       "word": "杨丞琳演唱会主办方已经营异常",
@@ -1305,6 +1393,14 @@
       "onboard_time": 1702445619,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137784,
+      "num": 137784,
+      "word": "10天后考研",
+      "onboard_time": 1702448195,
+      "rank": 42,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 136186,
@@ -1337,6 +1433,14 @@
       "onboard_time": 1702395043,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127814,
+      "num": 127814,
+      "word": "国台办回应台湾街头酸菜鱼爆火",
+      "onboard_time": 1702446515,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126299,

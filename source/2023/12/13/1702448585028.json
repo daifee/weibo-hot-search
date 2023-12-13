@@ -1,0 +1,410 @@
+{
+  "runTime": 1702448585028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6148615,
+        "num": 6148615,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 0,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 1072335,
+        "num": 1072335,
+        "word": "真正有致癌风险的是这2种水",
+        "onboard_time": 1702436915,
+        "rank": 1,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 102216,
+        "num": 767771,
+        "word": "2023年国家公祭日",
+        "onboard_time": 1702438835,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1285073,
+        "num": 755315,
+        "word": "周海媚的任性五十年",
+        "onboard_time": 1702438238,
+        "rank": 3,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 723516,
+        "num": 723516,
+        "word": "女孩千里认亲被拒已回养父母身边",
+        "onboard_time": 1702444180,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912021,
+        "num": 695834,
+        "word": "飞机上没网 删照片",
+        "onboard_time": 1702437575,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 596554,
+        "num": 596554,
+        "word": "房东不退押金女子怒开水龙头报复",
+        "onboard_time": 1702446515,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576053,
+        "num": 576053,
+        "word": "ChatGPT 欺骗人类",
+        "onboard_time": 1702444777,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 541384,
+        "num": 541384,
+        "word": "鹿晗 云南",
+        "onboard_time": 1702443763,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364380,
+        "num": 364380,
+        "word": "山西大同村邻互杀事件调查",
+        "onboard_time": 1702441302,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1809389,
+        "num": 362836,
+        "word": "杨丞琳事件",
+        "onboard_time": 1702445619,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 1237827,
+        "num": 357209,
+        "word": "接吻是谁想出来的",
+        "onboard_time": 1702440518,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 677687,
+        "num": 350769,
+        "word": "周海媚去世",
+        "onboard_time": 1702388629,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 671922,
+        "num": 345039,
+        "word": "古茗莲花楼 三人",
+        "onboard_time": 1702445737,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479473,
+        "num": 334915,
+        "word": "一个美人不必长得像另一个美人",
+        "onboard_time": 1702446874,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417652,
+        "num": 331078,
+        "word": "周海媚曾回应为何不婚",
+        "onboard_time": 1702444777,
+        "rank": 15,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 326474,
+        "num": 326474,
+        "word": "红斑狼疮早期可能会口腔溃疡",
+        "onboard_time": 1702446632,
+        "rank": 16,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 312436,
+        "num": 312436,
+        "word": "吴世勋 入伍",
+        "onboard_time": 1702448556,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293859,
+        "num": 293859,
+        "word": "创造营2024定档",
+        "onboard_time": 1702448495,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279046,
+        "num": 279046,
+        "word": "说英雄谁是英雄副导演否认刘宇宁加戏",
+        "onboard_time": 1702447718,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270688,
+        "num": 270688,
+        "word": "离职半年后收到了前公司的年终奖",
+        "onboard_time": 1702440941,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263478,
+        "num": 263478,
+        "word": "国家公祭日南京全城默哀一分钟",
+        "onboard_time": 1702444180,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260845,
+        "num": 260845,
+        "word": "脸不对称就练筷子操",
+        "onboard_time": 1702432116,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 248584,
+        "num": 248584,
+        "word": "杭州女性比男性多11万",
+        "onboard_time": 1702444598,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240094,
+        "num": 240094,
+        "word": "红斑狼疮每次复发都是重创",
+        "onboard_time": 1702433438,
+        "rank": 24,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 237066,
+        "num": 237066,
+        "word": "为啥有人吃了剩菜没事有人却进了医院",
+        "onboard_time": 1702443881,
+        "rank": 25,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 235211,
+        "num": 235211,
+        "word": "董宇辉小作文",
+        "onboard_time": 1702433554,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224835,
+        "num": 224835,
+        "word": "东方甄选CEO称董宇辉年薪不止网传千万",
+        "onboard_time": 1702437094,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218642,
+        "num": 218642,
+        "word": "勇士又输",
+        "onboard_time": 1702447175,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208998,
+        "num": 208998,
+        "word": "成都警方通报一起持刀杀人案",
+        "onboard_time": 1702444478,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206896,
+        "num": 206896,
+        "word": "JieJie meiko",
+        "onboard_time": 1702443106,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197131,
+        "num": 197131,
+        "word": "东方甄选后院起火带火高途",
+        "onboard_time": 1702447958,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192959,
+        "num": 192959,
+        "word": "格林拳打努尔基奇",
+        "onboard_time": 1702443464,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192226,
+        "num": 192226,
+        "word": "孙颖莎首轮对阵张本美和",
+        "onboard_time": 1702448195,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189295,
+        "num": 189295,
+        "word": "何猷君给台阶就下",
+        "onboard_time": 1702442803,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177718,
+        "num": 177718,
+        "word": "美甲尽头 裸色",
+        "onboard_time": 1702436314,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 174523,
+        "num": 174523,
+        "word": "红斑狼疮高发于育龄期女性",
+        "onboard_time": 1702445500,
+        "rank": 36,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 164199,
+        "num": 164199,
+        "word": "为什么很多老人摔一跤没多久就走了",
+        "onboard_time": 1702431935,
+        "rank": 37,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 162673,
+        "num": 162673,
+        "word": "把教师打成筛子漏风的就是教育",
+        "onboard_time": 1702439375,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156344,
+        "num": 156344,
+        "word": "公司倒闭有你一份力吧",
+        "onboard_time": 1702444362,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152794,
+        "num": 152794,
+        "word": "再见周芷若",
+        "onboard_time": 1702389397,
+        "rank": 40,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 144810,
+        "num": 144810,
+        "word": "实在不行猫可以坐下一班车的",
+        "onboard_time": 1702444898,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137784,
+        "num": 137784,
+        "word": "10天后考研",
+        "onboard_time": 1702448195,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 137125,
+        "num": 137125,
+        "word": "进大厂后感觉自己是个土帽",
+        "onboard_time": 1702441785,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134810,
+        "num": 134810,
+        "word": "iPhone16或调整相机岛设计",
+        "onboard_time": 1702428521,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133789,
+        "num": 133789,
+        "word": "小狗生病90岁爷爷奶奶陪伴挂水",
+        "onboard_time": 1702443464,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127814,
+        "num": 127814,
+        "word": "国台办回应台湾街头酸菜鱼爆火",
+        "onboard_time": 1702446515,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127277,
+        "num": 127277,
+        "word": "王安宇演技",
+        "onboard_time": 1702427261,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124776,
+        "num": 124776,
+        "word": "现在下雪通知停课 以前下雪通知带锹",
+        "onboard_time": 1702429542,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124662,
+        "num": 124662,
+        "word": "下雪 打伞",
+        "onboard_time": 1702440636,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}
