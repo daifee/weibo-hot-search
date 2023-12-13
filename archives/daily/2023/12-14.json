@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702494901496,
+  "endTime": 1702496048426,
   "band_list": [
     {
       "raw_hot": 809487,
@@ -411,11 +411,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34834,
+      "raw_hot": 38884,
       "num": 29792,
       "word": "1岁娃吃手长出茧父母花3个月帮戒",
       "onboard_time": 1702493416,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34557,
+      "num": 34557,
+      "word": "东方甄选CEO回应小作文事件",
+      "onboard_time": 1702492994,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -432,14 +440,6 @@
       "word": "张纯如曾强烈要求日本驻美大使道歉",
       "onboard_time": 1702488200,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33355,
-      "num": 33355,
-      "word": "东方甄选CEO回应小作文事件",
-      "onboard_time": 1702492994,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
