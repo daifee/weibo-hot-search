@@ -1,6 +1,6 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702462754955,
+  "endTime": 1702463801806,
   "band_list": [
     {
       "raw_hot": 8930959,
@@ -427,6 +427,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 622796,
+      "num": 344507,
+      "word": "这个冬天你买草莓了吗",
+      "onboard_time": 1702458451,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 609164,
       "num": 609164,
       "word": "一个美人不必长得像另一个美人",
@@ -513,14 +521,6 @@
       "onboard_time": 1702448495,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 545351,
-      "num": 334084,
-      "word": "这个冬天你买草莓了吗",
-      "onboard_time": 1702458451,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 538807,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 415030,
+      "num": 336871,
+      "word": "输球 但出线",
+      "onboard_time": 1702462535,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412879,
       "num": 412879,
       "word": "郁可唯演唱会舞台激光损坏观众相机",
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 402325,
-      "num": 323995,
+      "num": 330070,
       "word": "权志龙无吸毒嫌疑将结案",
       "onboard_time": 1702459654,
       "rank": 23,
@@ -947,6 +955,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 284369,
+      "num": 284369,
+      "word": "ChatGPT解读董宇辉回应长文",
+      "onboard_time": 1702458335,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283717,
       "num": 283717,
       "word": "这相亲对象确实很离谱",
@@ -960,14 +976,6 @@
       "word": "民警幼儿园扮人贩子10分钟骗走一群娃",
       "onboard_time": 1702455694,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282778,
-      "num": 281102,
-      "word": "ChatGPT解读董宇辉回应长文",
-      "onboard_time": 1702458335,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1041,6 +1049,14 @@
       "onboard_time": 1702444180,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 258941,
+      "num": 258941,
+      "word": "宋茜方回应被伴舞吐槽",
+      "onboard_time": 1702462115,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 256985,
@@ -1147,14 +1163,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 244366,
-      "num": 244366,
-      "word": "宋茜方回应被伴舞吐槽",
-      "onboard_time": 1702462115,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243297,
       "num": 228779,
       "word": "实在不行猫可以坐下一班车的",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1702429780,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235199,
+      "num": 223752,
+      "word": "加五个鸡蛋的大客户",
+      "onboard_time": 1702462957,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 232718,
@@ -1387,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209453,
+      "num": 209453,
+      "word": "女子高铁伸脚碰到前排被提醒后辱骂对方",
+      "onboard_time": 1702460372,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208857,
       "num": 208857,
       "word": "阿根廷将比索官方汇率贬值54%",
@@ -1417,14 +1441,6 @@
       "onboard_time": 1702384357,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206488,
-      "num": 206488,
-      "word": "女子高铁伸脚碰到前排被提醒后辱骂对方",
-      "onboard_time": 1702460372,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206042,
@@ -1491,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201557,
+      "num": 201557,
+      "word": "京东回应大规模人员调整",
+      "onboard_time": 1702459174,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201001,
       "num": 201001,
       "word": "2023LCK颁奖典礼",
@@ -1539,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194445,
+      "num": 530112,
+      "word": "浙大儿院为外地患儿家庭免费提供住宿",
+      "onboard_time": 1702461033,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194390,
       "num": 229387,
       "word": "医保谈判现场的灵魂砍价",
@@ -1560,14 +1592,6 @@
       "word": "收费员反应迅速10秒挽回30吨纸箱",
       "onboard_time": 1702440941,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191431,
-      "num": 530112,
-      "word": "浙大儿院为外地患儿家庭免费提供住宿",
-      "onboard_time": 1702461033,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1603,20 +1627,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 187860,
+      "num": 187860,
+      "word": "神隐 脑内BGM",
+      "onboard_time": 1702463198,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185748,
       "num": 185748,
       "word": "SHINee官宣香港演唱会",
       "onboard_time": 1702456233,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 185603,
-      "num": 185603,
-      "word": "输球 但出线",
-      "onboard_time": 1702462535,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 185268,
@@ -1649,14 +1673,6 @@
       "onboard_time": 1702441785,
       "rank": 44,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 182477,
-      "num": 182477,
-      "word": "京东回应大规模人员调整",
-      "onboard_time": 1702459174,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 182199,
@@ -1771,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168688,
+      "num": 368616,
+      "word": "幼儿园老师建雪地迷宫供孩子玩耍",
+      "onboard_time": 1702462595,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167593,
       "num": 167593,
       "word": "勇士vs太阳",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1702461575,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163914,
+      "num": 392780,
+      "word": "用一张纸剪雪人和雪花",
+      "onboard_time": 1702461033,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161757,
@@ -1977,14 +2009,6 @@
       "onboard_time": 1702455156,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 137835,
-      "num": 392780,
-      "word": "用一张纸剪雪人和雪花",
-      "onboard_time": 1702461033,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137787,
@@ -2209,14 +2233,6 @@
       "onboard_time": 1702423950,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82271,
-      "num": 280698,
-      "word": "幼儿园老师建雪地迷宫供孩子玩耍",
-      "onboard_time": 1702462595,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81186,
