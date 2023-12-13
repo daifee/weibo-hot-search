@@ -1,0 +1,410 @@
+{
+  "runTime": 1702505830678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15090,
+        "num": 95119,
+        "word": "100秒划2024年经济工作重点",
+        "onboard_time": 1702472434,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102203,
+        "num": 84717,
+        "word": "红薯片真的可以拿来当被子用",
+        "onboard_time": 1702478502,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10320,
+        "num": 60678,
+        "word": "以国之名悼我同胞",
+        "onboard_time": 1702460073,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59881,
+        "num": 59881,
+        "word": "广州彩民独中1.44亿元大奖",
+        "onboard_time": 1702476283,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47256,
+        "num": 47256,
+        "word": "东方甄选CEO回应小作文事件",
+        "onboard_time": 1702492994,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202908,
+        "num": 46919,
+        "word": "水逆来了 重灾区的星座要小心",
+        "onboard_time": 1702480774,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136468,
+        "num": 46610,
+        "word": "人民在线评网红痞幼盗用视频事件",
+        "onboard_time": 1702473457,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 97583,
+        "num": 46336,
+        "word": "东方甄选4天掉粉近10万",
+        "onboard_time": 1702468769,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75082,
+        "num": 46084,
+        "word": "很想很想你 实在不行别睡了",
+        "onboard_time": 1702475137,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45864,
+        "num": 45864,
+        "word": "胡先煦多大了还骑妈妈脖子",
+        "onboard_time": 1702473576,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74457,
+        "num": 44302,
+        "word": "官方回应杨丞琳演唱会主办方经营异常",
+        "onboard_time": 1702490959,
+        "rank": 10,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 39398,
+        "num": 39398,
+        "word": "董宇辉称不要以饭圈名义污名化任何人",
+        "onboard_time": 1702470332,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34607,
+        "num": 34607,
+        "word": "湖南卫视 跨年街",
+        "onboard_time": 1702478435,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30082,
+        "num": 30082,
+        "word": "考研考编考公 三手抓",
+        "onboard_time": 1702474299,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46797,
+        "num": 29953,
+        "word": "辛芷蕾胡先煦 随地大小演",
+        "onboard_time": 1702497435,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28179,
+        "num": 28179,
+        "word": "SM卖1w 东大门卖500",
+        "onboard_time": 1702472975,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27224,
+        "num": 27224,
+        "word": "ChatGPT解读董宇辉回应长文",
+        "onboard_time": 1702458335,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27164,
+        "num": 27164,
+        "word": "经超小李琳 姐弟恋能有多快乐",
+        "onboard_time": 1702469252,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25386,
+        "num": 25386,
+        "word": "齐舞空间向宋茜道歉",
+        "onboard_time": 1702458272,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25190,
+        "num": 25190,
+        "word": "欧冠已出线球队",
+        "onboard_time": 1702497855,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182576,
+        "num": 25179,
+        "word": "周海媚的独居者之困",
+        "onboard_time": 1702475435,
+        "rank": 20,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 141936,
+        "num": 25107,
+        "word": "脾胃虚弱的人脸上有4个表现",
+        "onboard_time": 1702476283,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117325,
+        "num": 25096,
+        "word": "副局长被儿子举报出轨待遇降为一级科员",
+        "onboard_time": 1702458451,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49105,
+        "num": 25059,
+        "word": "警方通报大连一酒店男子裸身坠亡",
+        "onboard_time": 1702474900,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46774,
+        "num": 25009,
+        "word": "至少要从30岁开始运动锻炼",
+        "onboard_time": 1702479698,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 44508,
+        "num": 24962,
+        "word": "漠河零下42度交警穿2层羽绒服执勤",
+        "onboard_time": 1702497373,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35191,
+        "num": 24934,
+        "word": "1岁娃吃手长出茧父母花3个月帮戒",
+        "onboard_time": 1702493416,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28176,
+        "num": 24863,
+        "word": "这5个泡脚习惯看似养生其实很伤身",
+        "onboard_time": 1702472733,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25798,
+        "num": 24842,
+        "word": "终于知道冻紫了是啥意思",
+        "onboard_time": 1702476398,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24817,
+        "num": 24817,
+        "word": "曼联欧冠出局全队表情",
+        "onboard_time": 1702500914,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24214,
+        "num": 24214,
+        "word": "王嘉尔 创造营2024导师",
+        "onboard_time": 1702481973,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21956,
+        "num": 21956,
+        "word": "国台办回应杨丞琳五月天事件",
+        "onboard_time": 1702440397,
+        "rank": 31,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 21750,
+        "num": 21750,
+        "word": "年轻在肩 气质在背",
+        "onboard_time": 1702478377,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20086,
+        "num": 21743,
+        "word": "被这位辅导员的恋爱观戳到了",
+        "onboard_time": 1702478617,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18688,
+        "num": 21729,
+        "word": "马嘉祺 中戏汇演",
+        "onboard_time": 1702480056,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18360,
+        "num": 21729,
+        "word": "i人喜欢的东西",
+        "onboard_time": 1702473157,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17403,
+        "num": 21714,
+        "word": "男子3小时叶雕周海媚",
+        "onboard_time": 1702498033,
+        "rank": 36,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 17276,
+        "num": 21701,
+        "word": "杨洋 什锦",
+        "onboard_time": 1702463975,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17194,
+        "num": 21687,
+        "word": "繁花要来了",
+        "onboard_time": 1702474237,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17079,
+        "num": 21685,
+        "word": "鸣龙少年",
+        "onboard_time": 1702479518,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16716,
+        "num": 21672,
+        "word": "脱轨要播了",
+        "onboard_time": 1702472557,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16303,
+        "num": 21656,
+        "word": "南京城沦陷前是什么样",
+        "onboard_time": 1702468832,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16153,
+        "num": 21654,
+        "word": "年度书单",
+        "onboard_time": 1702502054,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 15476,
+        "num": 21639,
+        "word": "天官赐福 更新",
+        "onboard_time": 1702472014,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14955,
+        "num": 21631,
+        "word": "瀑布般的头发",
+        "onboard_time": 1702478858,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14764,
+        "num": 21619,
+        "word": "张纯如曾强烈要求日本驻美大使道歉",
+        "onboard_time": 1702488200,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14004,
+        "num": 21612,
+        "word": "家务优等生",
+        "onboard_time": 1702500494,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13268,
+        "num": 21600,
+        "word": "Minnie身体不适提前退场",
+        "onboard_time": 1702471594,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13143,
+        "num": 21587,
+        "word": "陈伟霆曾因负面评价抑郁",
+        "onboard_time": 1702470572,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12865,
+        "num": 21576,
+        "word": "莲花楼观感",
+        "onboard_time": 1702477059,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阮富仲举行会谈#"
+    }
+  }
+}
