@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702499668346,
+  "endTime": 1702502152777,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -35195,6 +35195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33613,
+      "num": 18081,
+      "word": "漠河零下42度交警穿2层羽绒服执勤",
+      "onboard_time": 1702497373,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33390,
       "num": 33390,
       "word": "周杰伦张艺兴周游记2连线",
@@ -35265,6 +35273,14 @@
       "onboard_time": 1701547994,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31473,
+      "num": 21149,
+      "word": "辛芷蕾胡先煦 随地大小演",
+      "onboard_time": 1702497435,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 31419,
@@ -35408,14 +35424,6 @@
       "word": "狗拉雪橇",
       "onboard_time": 1701799521,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26034,
-      "num": 18081,
-      "word": "漠河零下42度交警穿2层羽绒服执勤",
-      "onboard_time": 1702497373,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -35569,14 +35577,6 @@
       "onboard_time": 1702150516,
       "rank": 33,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 21666,
-      "num": 17144,
-      "word": "辛芷蕾胡先煦 随地大小演",
-      "onboard_time": 1702497435,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 21077,
@@ -35843,6 +35843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13895,
+      "num": 17004,
+      "word": "男子3小时叶雕周海媚",
+      "onboard_time": 1702498033,
+      "rank": 42,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 13818,
       "num": 16360,
       "word": "如何改善圆肩驼背探颈",
@@ -35875,6 +35883,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 12994,
+      "num": 16936,
+      "word": "欧冠已出线球队",
+      "onboard_time": 1702497855,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12935,
       "num": 15667,
       "word": "水皮总结芒格留下的三种财富",
@@ -35891,20 +35907,20 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 12592,
+      "num": 12592,
+      "word": "曼联欧冠出局全队表情",
+      "onboard_time": 1702500914,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12330,
       "num": 13134,
       "word": "护肤品用量 产品效果",
       "onboard_time": 1701895214,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 12317,
-      "num": 17004,
-      "word": "男子3小时叶雕周海媚",
-      "onboard_time": 1702498033,
-      "rank": 42,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 12081,
@@ -35931,6 +35947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 11412,
+      "num": 11412,
+      "word": "家务优等生",
+      "onboard_time": 1702500494,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11304,
       "num": 15252,
       "word": "白菜的这两种吃法最营养",
@@ -35947,12 +35971,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 10511,
-      "num": 16936,
-      "word": "欧冠已出线球队",
-      "onboard_time": 1702497855,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 10056,
+      "num": 10056,
+      "word": "年度书单",
+      "onboard_time": 1702502054,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 10001,
