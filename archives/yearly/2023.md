@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/12/13 12:21:44
+本榜单时间：2023/01/01 00:23:37 ~ 2023/12/13 12:35:58
 </p>
 </blockquote>
 <p>
@@ -1179,6 +1179,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%9D%A8%E4%B8%9E%E7%90%B3%E4%BA%94%E6%9C%88%E5%A4%A9%E4%BA%8B%E4%BB%B6%23" target="weibo">
+国台办回应杨丞琳五月天事件（热度：8930959）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BC%A6%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23" target="weibo">
 邓伦被强制执行（热度：8925810）
 </a>
@@ -1805,12 +1811,6 @@ MU5735事故调查最新情况（热度：7256959）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
 T1晋级S13总决赛（热度：7233927）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E9%A2%81%E5%A5%96%23" target="weibo">
-白玉兰颁奖（热度：7230883）
 </a>
 </li>
 

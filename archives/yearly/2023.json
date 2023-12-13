@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702441304604,
+  "endTime": 1702442158104,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1555,6 +1555,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 8930959,
+      "num": 8930959,
+      "word": "国台办回应杨丞琳五月天事件",
+      "onboard_time": 1702440397,
+      "rank": 0,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 8925810,
       "num": 8925810,
       "word": "邓伦被强制执行",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1699788286,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 7230883,
-      "num": 7230883,
-      "word": "白玉兰颁奖",
-      "onboard_time": 1687518270,
-      "rank": 3,
-      "category": "影视,艺人"
     }
   ],
   "hotgov_list": [

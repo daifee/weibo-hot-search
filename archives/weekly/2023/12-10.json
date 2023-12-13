@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702441304604,
+  "endTime": 1702442158104,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8930959,
+      "num": 8930959,
+      "word": "国台办回应杨丞琳五月天事件",
+      "onboard_time": 1702440397,
+      "rank": 0,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 6474172,
       "num": 6474172,
       "word": "国家公祭日",
@@ -73,14 +81,6 @@
       "onboard_time": 1702390240,
       "rank": 11,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 4214978,
-      "num": 4214978,
-      "word": "国台办回应杨丞琳五月天事件",
-      "onboard_time": 1702440397,
-      "rank": 0,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 4134597,
@@ -259,6 +259,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2425240,
+      "num": 2425240,
+      "word": "周海媚的任性五十年",
+      "onboard_time": 1702438238,
+      "rank": 19,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 2329374,
       "num": 2329374,
       "word": "周海媚工作室 电话",
@@ -288,14 +296,6 @@
       "word": "最早爆料周海媚去世者已删除博文",
       "onboard_time": 1702309425,
       "rank": 1,
-      "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 2259025,
-      "num": 2259025,
-      "word": "周海媚的任性五十年",
-      "onboard_time": 1702438238,
-      "rank": 19,
       "category": "艺人,社会新闻"
     },
     {
@@ -577,6 +577,14 @@
       "onboard_time": 1702208794,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1487339,
+      "num": 503225,
+      "word": "接吻是谁想出来的",
+      "onboard_time": 1702440518,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1484129,
@@ -1123,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 874650,
-      "num": 503225,
-      "word": "接吻是谁想出来的",
-      "onboard_time": 1702440518,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 870425,
       "num": 870425,
       "word": "台湾中学教师怒批去中国化课纲",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1702291715,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 852190,
+      "num": 852190,
+      "word": "东方甄选CEO称董宇辉年薪不止网传千万",
+      "onboard_time": 1702437094,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 844483,
@@ -1337,14 +1345,6 @@
       "onboard_time": 1702280193,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 763570,
-      "num": 763570,
-      "word": "东方甄选CEO称董宇辉年薪不止网传千万",
-      "onboard_time": 1702437094,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 761747,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1702132179,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689199,
+      "num": 367279,
+      "word": "离职半年后收到了前公司的年终奖",
+      "onboard_time": 1702440941,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 688588,
@@ -2363,14 +2371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492855,
-      "num": 367279,
-      "word": "离职半年后收到了前公司的年终奖",
-      "onboard_time": 1702440941,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 492293,
       "num": 492293,
       "word": "朱丹说没有被湖南台封杀过",
@@ -2707,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439224,
+      "num": 439224,
+      "word": "山西大同村邻互杀事件调查",
+      "onboard_time": 1702441302,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438774,
       "num": 438774,
       "word": "刘少昂 抢跑",
@@ -2897,6 +2905,14 @@
       "onboard_time": 1702187971,
       "rank": 11,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 416371,
+      "num": 416371,
+      "word": "下雪 打伞",
+      "onboard_time": 1702440636,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 416267,
@@ -4587,6 +4603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271002,
+      "num": 271002,
+      "word": "金牛座总是在默默观察",
+      "onboard_time": 1702438596,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 270923,
       "num": 270923,
       "word": "LNG官宣Scout续约",
@@ -4769,14 +4793,6 @@
       "onboard_time": 1702371215,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259015,
-      "num": 259015,
-      "word": "金牛座总是在默默观察",
-      "onboard_time": 1702438596,
-      "rank": 32,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 257756,
@@ -5027,6 +5043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247348,
+      "num": 247348,
+      "word": "很变态但能找到神仙公司的野路子",
+      "onboard_time": 1702441122,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246867,
       "num": 246867,
       "word": "金裕贞宋江吻戏",
@@ -5089,6 +5113,14 @@
       "onboard_time": 1702284635,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242261,
+      "num": 242261,
+      "word": "进大厂后感觉自己是个土帽",
+      "onboard_time": 1702441785,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 242101,
@@ -6331,14 +6363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204271,
-      "num": 204271,
-      "word": "下雪 打伞",
-      "onboard_time": 1702440636,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203908,
       "num": 203908,
       "word": "始祖巨人衣架",
@@ -6819,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192526,
+      "num": 192526,
+      "word": "不知道该羡慕陆毅还是胡彦斌",
+      "onboard_time": 1702441001,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192106,
       "num": 211587,
       "word": "郑州市发布暴雪红色预警",
@@ -6841,6 +6873,14 @@
       "onboard_time": 1702394209,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191778,
+      "num": 191778,
+      "word": "收费员反应迅速10秒挽回30吨纸箱",
+      "onboard_time": 1702440941,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191749,
@@ -7212,7 +7252,7 @@
     },
     {
       "raw_hot": 183700,
-      "num": 2323483,
+      "num": 2481242,
       "word": "2023年国家公祭日",
       "onboard_time": 1702438835,
       "rank": 2,
@@ -7241,6 +7281,14 @@
       "onboard_time": 1702176391,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183010,
+      "num": 183010,
+      "word": "林园称持有茅台20多年可能终身不卖",
+      "onboard_time": 1702441785,
+      "rank": 44,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 182648,
@@ -7465,14 +7513,6 @@
       "onboard_time": 1702184915,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 176384,
-      "num": 176384,
-      "word": "不知道该羡慕陆毅还是胡彦斌",
-      "onboard_time": 1702441001,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 176052,
@@ -7739,14 +7779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168823,
-      "num": 168823,
-      "word": "收费员反应迅速10秒挽回30吨纸箱",
-      "onboard_time": 1702440941,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168691,
       "num": 168691,
       "word": "圣诞鎏金妆",
@@ -7785,6 +7817,14 @@
       "onboard_time": 1702279532,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167593,
+      "num": 167593,
+      "word": "勇士vs太阳",
+      "onboard_time": 1702441363,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 167550,
@@ -7937,14 +7977,6 @@
       "onboard_time": 1702343973,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161295,
-      "num": 161295,
-      "word": "很变态但能找到神仙公司的野路子",
-      "onboard_time": 1702441122,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 160618,
@@ -8257,6 +8289,14 @@
       "onboard_time": 1702131457,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151056,
+      "num": 151056,
+      "word": "男女关系里的吸引力",
+      "onboard_time": 1702442083,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 150468,
@@ -9331,6 +9371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103715,
+      "num": 273515,
+      "word": "一篇和平宣言响彻南京",
+      "onboard_time": 1702441122,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102821,
       "num": 171638,
       "word": "世界羽联巡回赛总决赛抽签结果",
@@ -9369,14 +9417,6 @@
       "onboard_time": 1702132599,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98916,
-      "num": 234380,
-      "word": "一篇和平宣言响彻南京",
-      "onboard_time": 1702441122,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 96518,
@@ -9843,6 +9883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45065,
+      "num": 369974,
+      "word": "华为首款轿车智界S7首批到店",
+      "onboard_time": 1702440157,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44361,
       "num": 47646,
       "word": "热刺4比1纽卡斯尔联",
@@ -9969,14 +10017,6 @@
       "onboard_time": 1702162516,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30676,
-      "num": 367780,
-      "word": "华为首款轿车智界S7首批到店",
-      "onboard_time": 1702440157,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 30545,

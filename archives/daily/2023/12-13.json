@@ -1,7 +1,15 @@
 {
   "startTime": 1702398176501,
-  "endTime": 1702441304604,
+  "endTime": 1702442158104,
   "band_list": [
+    {
+      "raw_hot": 8930959,
+      "num": 8930959,
+      "word": "国台办回应杨丞琳五月天事件",
+      "onboard_time": 1702440397,
+      "rank": 0,
+      "category": "国内时政,艺人"
+    },
     {
       "raw_hot": 6474172,
       "num": 6474172,
@@ -25,14 +33,6 @@
       "onboard_time": 1702388629,
       "rank": 10,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 4214978,
-      "num": 4214978,
-      "word": "国台办回应杨丞琳五月天事件",
-      "onboard_time": 1702440397,
-      "rank": 0,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 3843986,
@@ -67,8 +67,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2259025,
-      "num": 2259025,
+      "raw_hot": 2425240,
+      "num": 2425240,
       "word": "周海媚的任性五十年",
       "onboard_time": 1702438238,
       "rank": 19,
@@ -115,6 +115,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1487339,
+      "num": 503225,
+      "word": "接吻是谁想出来的",
+      "onboard_time": 1702440518,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1407009,
       "num": 1407009,
       "word": "真正有致癌风险的是这2种水",
@@ -155,12 +163,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 874650,
-      "num": 503225,
-      "word": "接吻是谁想出来的",
-      "onboard_time": 1702440518,
-      "rank": 11,
-      "category": "情感"
+      "raw_hot": 852190,
+      "num": 852190,
+      "word": "东方甄选CEO称董宇辉年薪不止网传千万",
+      "onboard_time": 1702437094,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 824601,
@@ -177,14 +185,6 @@
       "onboard_time": 1702428521,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 763570,
-      "num": 763570,
-      "word": "东方甄选CEO称董宇辉年薪不止网传千万",
-      "onboard_time": 1702437094,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 761747,
@@ -209,6 +209,14 @@
       "onboard_time": 1702433554,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689199,
+      "num": 367279,
+      "word": "离职半年后收到了前公司的年终奖",
+      "onboard_time": 1702440941,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 686906,
@@ -331,14 +339,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 492855,
-      "num": 367279,
-      "word": "离职半年后收到了前公司的年终奖",
-      "onboard_time": 1702440941,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 491307,
       "num": 491307,
       "word": "菜鸟 取件码呢",
@@ -353,6 +353,14 @@
       "onboard_time": 1702427261,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 439224,
+      "num": 439224,
+      "word": "山西大同村邻互杀事件调查",
+      "onboard_time": 1702441302,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438475,
@@ -393,6 +401,14 @@
       "onboard_time": 1702439375,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 416371,
+      "num": 416371,
+      "word": "下雪 打伞",
+      "onboard_time": 1702440636,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 416267,
@@ -635,20 +651,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 271002,
+      "num": 271002,
+      "word": "金牛座总是在默默观察",
+      "onboard_time": 1702438596,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 263664,
       "num": 263664,
       "word": "A股",
       "onboard_time": 1702433075,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 259015,
-      "num": 259015,
-      "word": "金牛座总是在默默观察",
-      "onboard_time": 1702438596,
-      "rank": 32,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 256985,
@@ -681,6 +697,22 @@
       "onboard_time": 1702365154,
       "rank": 29,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 247348,
+      "num": 247348,
+      "word": "很变态但能找到神仙公司的野路子",
+      "onboard_time": 1702441122,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 242261,
+      "num": 242261,
+      "word": "进大厂后感觉自己是个土帽",
+      "onboard_time": 1702441785,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 240819,
@@ -827,14 +859,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204271,
-      "num": 204271,
-      "word": "下雪 打伞",
-      "onboard_time": 1702440636,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203326,
       "num": 203326,
       "word": "为什么喝了热红酒更容易头痛",
@@ -907,6 +931,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192526,
+      "num": 192526,
+      "word": "不知道该羡慕陆毅还是胡彦斌",
+      "onboard_time": 1702441001,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191778,
+      "num": 191778,
+      "word": "收费员反应迅速10秒挽回30吨纸箱",
+      "onboard_time": 1702440941,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189677,
       "num": 189677,
       "word": "深圳地铁",
@@ -940,11 +980,19 @@
     },
     {
       "raw_hot": 183700,
-      "num": 2323483,
+      "num": 2481242,
       "word": "2023年国家公祭日",
       "onboard_time": 1702438835,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 183010,
+      "num": 183010,
+      "word": "林园称持有茅台20多年可能终身不卖",
+      "onboard_time": 1702441785,
+      "rank": 44,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 182199,
@@ -995,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176384,
-      "num": 176384,
-      "word": "不知道该羡慕陆毅还是胡彦斌",
-      "onboard_time": 1702441001,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170225,
       "num": 170225,
       "word": "126个药品新增进医保",
@@ -1019,20 +1059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168823,
-      "num": 168823,
-      "word": "收费员反应迅速10秒挽回30吨纸箱",
-      "onboard_time": 1702440941,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161295,
-      "num": 161295,
-      "word": "很变态但能找到神仙公司的野路子",
-      "onboard_time": 1702441122,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 167593,
+      "num": 167593,
+      "word": "勇士vs太阳",
+      "onboard_time": 1702441363,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 158371,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1702382433,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151056,
+      "num": 151056,
+      "word": "男女关系里的吸引力",
+      "onboard_time": 1702442083,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 148653,
@@ -1187,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103715,
+      "num": 273515,
+      "word": "一篇和平宣言响彻南京",
+      "onboard_time": 1702441122,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102485,
       "num": 120797,
       "word": "预防系统性红斑狼疮做好这4点",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1702421842,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 98916,
-      "num": 234380,
-      "word": "一篇和平宣言响彻南京",
-      "onboard_time": 1702441122,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 94300,
@@ -1299,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45065,
+      "num": 369974,
+      "word": "华为首款轿车智界S7首批到店",
+      "onboard_time": 1702440157,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42072,
       "num": 485585,
       "word": "这是她们生命的故事",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1702405878,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30676,
-      "num": 367780,
-      "word": "华为首款轿车智界S7首批到店",
-      "onboard_time": 1702440157,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 26518,
