@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702502152777,
+  "endTime": 1702503283127,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -11755,6 +11755,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37074,
+      "num": 22504,
+      "word": "辛芷蕾胡先煦 随地大小演",
+      "onboard_time": 1702497435,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 36633,
+      "num": 18081,
+      "word": "漠河零下42度交警穿2层羽绒服执勤",
+      "onboard_time": 1702497373,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35792,
       "num": 145307,
       "word": "万茜戏里戏外反差感",
@@ -11780,7 +11796,7 @@
     },
     {
       "raw_hot": 34557,
-      "num": 34557,
+      "num": 37002,
       "word": "东方甄选CEO回应小作文事件",
       "onboard_time": 1702492994,
       "rank": 16,
@@ -11800,14 +11816,6 @@
       "word": "张纯如曾强烈要求日本驻美大使道歉",
       "onboard_time": 1702488200,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33613,
-      "num": 18081,
-      "word": "漠河零下42度交警穿2层羽绒服执勤",
-      "onboard_time": 1702497373,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -11833,14 +11841,6 @@
       "onboard_time": 1702403000,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31473,
-      "num": 21149,
-      "word": "辛芷蕾胡先煦 随地大小演",
-      "onboard_time": 1702497435,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 31419,
@@ -12035,6 +12035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13953,
+      "num": 13953,
+      "word": "家务优等生",
+      "onboard_time": 1702500494,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13895,
       "num": 17004,
       "word": "男子3小时叶雕周海媚",
@@ -12059,19 +12067,19 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 13293,
+      "num": 13293,
+      "word": "曼联欧冠出局全队表情",
+      "onboard_time": 1702500914,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12994,
       "num": 16936,
       "word": "欧冠已出线球队",
       "onboard_time": 1702497855,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 12592,
-      "num": 12592,
-      "word": "曼联欧冠出局全队表情",
-      "onboard_time": 1702500914,
-      "rank": 38,
       "category": "体育"
     },
     {
@@ -12083,16 +12091,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11412,
-      "num": 11412,
-      "word": "家务优等生",
-      "onboard_time": 1702500494,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 10056,
-      "num": 10056,
+      "raw_hot": 10734,
+      "num": 10734,
       "word": "年度书单",
       "onboard_time": 1702502054,
       "rank": 49,
