@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702481684240,
+  "endTime": 1702484559997,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -2835,6 +2835,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 476199,
+      "num": 241954,
+      "word": "水逆来了 重灾区的星座要小心",
+      "onboard_time": 1702480774,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 475605,
       "num": 475605,
       "word": "TheShy 故事迎来了完美结局",
@@ -3091,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439047,
+      "num": 237538,
+      "word": "刚开始只是逃水课",
+      "onboard_time": 1702478319,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 438774,
       "num": 438774,
       "word": "刘少昂 抢跑",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1702259792,
       "rank": 9,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 431691,
+      "num": 233371,
+      "word": "王嘉尔 创造营2024导师",
+      "onboard_time": 1702481973,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 429194,
@@ -9387,14 +9411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159924,
-      "num": 159924,
-      "word": "刚开始只是逃水课",
-      "onboard_time": 1702478319,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159810,
       "num": 375700,
       "word": "荣耀保时捷要联合造车了吗",
@@ -10547,6 +10563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133212,
+      "num": 133212,
+      "word": "马景涛怀念周海媚",
+      "onboard_time": 1702482570,
+      "rank": 28,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 133204,
       "num": 133204,
       "word": "华为首家海外工厂将落地法国",
@@ -10705,14 +10729,6 @@
       "onboard_time": 1702196072,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 127406,
-      "num": 127406,
-      "word": "水逆来了 重灾区的星座要小心",
-      "onboard_time": 1702480774,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 127232,
@@ -11425,6 +11441,14 @@
       "onboard_time": 1702177954,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68537,
+      "num": 68537,
+      "word": "为考研加油",
+      "onboard_time": 1702482991,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 68432,
