@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702498735242,
+  "endTime": 1702499668346,
   "band_list": [
     {
       "raw_hot": 809487,
@@ -443,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20755,
-      "num": 17339,
+      "raw_hot": 26034,
+      "num": 18081,
       "word": "漠河零下42度交警穿2层羽绒服执勤",
       "onboard_time": 1702497373,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21666,
+      "num": 17144,
+      "word": "辛芷蕾胡先煦 随地大小演",
+      "onboard_time": 1702497435,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 20114,
@@ -459,15 +467,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17144,
-      "num": 17144,
-      "word": "辛芷蕾胡先煦 随地大小演",
-      "onboard_time": 1702497435,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 11454,
+      "raw_hot": 12317,
       "num": 17004,
       "word": "男子3小时叶雕周海媚",
       "onboard_time": 1702498033,
@@ -475,7 +475,7 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 10265,
+      "raw_hot": 10511,
       "num": 16936,
       "word": "欧冠已出线球队",
       "onboard_time": 1702497855,
