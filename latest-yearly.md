@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/12/14 15:34:14
+本榜单时间：2023/01/01 00:23:37 ~ 2023/12/14 16:22:19
 </p>
 </blockquote>
 <p>
@@ -1587,6 +1587,12 @@ TFBOYS演唱会官宣（热度：9361784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%92%E6%96%A5%E5%AD%9F%E7%BE%BD%E7%AB%A5%23" target="weibo">
+董明珠怒斥孟羽童（热度：7710186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%BE%E6%8A%A5%23" target="weibo">
 韩红首次公开回应被举报（热度：7706331）
 </a>
@@ -1805,12 +1811,6 @@ MU5735事故调查最新情况（热度：7256959）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE%23" target="weibo">
 中国女篮vs日本女篮（热度：7244618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-T1晋级S13总决赛（热度：7233927）
 </a>
 </li>
 

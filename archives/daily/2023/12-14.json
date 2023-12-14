@@ -1,7 +1,15 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702539254791,
+  "endTime": 1702542139132,
   "band_list": [
+    {
+      "raw_hot": 7710186,
+      "num": 7710186,
+      "word": "董明珠怒斥孟羽童",
+      "onboard_time": 1702536334,
+      "rank": 0,
+      "category": "财经,社会新闻"
+    },
     {
       "raw_hot": 6119816,
       "num": 6119816,
@@ -9,14 +17,6 @@
       "onboard_time": 1702516233,
       "rank": 1,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 4414987,
-      "num": 4414987,
-      "word": "董明珠怒斥孟羽童",
-      "onboard_time": 1702536334,
-      "rank": 0,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 4222413,
@@ -105,6 +105,14 @@
       "onboard_time": 1702514974,
       "rank": 3,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1082119,
+      "num": 515590,
+      "word": "董宇辉真实年薪不足千万",
+      "onboard_time": 1702541433,
+      "rank": 10,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1016705,
@@ -211,6 +219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 819479,
+      "num": 819479,
+      "word": "周末补觉危害比熬夜还大",
+      "onboard_time": 1702537113,
+      "rank": 23,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 809487,
       "num": 156194,
       "word": "周海媚的独居者之困",
@@ -283,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 673665,
+      "num": 673665,
+      "word": "张若昀 是我不要脸了",
+      "onboard_time": 1702537957,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670942,
       "num": 342106,
       "word": "那些长期喝咖啡的人都怎么样了",
@@ -331,14 +355,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 614784,
-      "num": 614784,
-      "word": "张若昀 是我不要脸了",
-      "onboard_time": 1702537957,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 583114,
       "num": 312303,
       "word": "副局长被儿子举报出轨待遇降为一级科员",
@@ -361,6 +377,14 @@
       "onboard_time": 1702476283,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563747,
+      "num": 563747,
+      "word": "文俊辉 请拍鬼怪",
+      "onboard_time": 1702539213,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 539588,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 504096,
-      "num": 504096,
+      "num": 518058,
       "word": "警方公布赴美见男网友中国女子死因",
       "onboard_time": 1702537357,
       "rank": 16,
@@ -409,14 +433,6 @@
       "onboard_time": 1702528237,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 496914,
-      "num": 496914,
-      "word": "周末补觉危害比熬夜还大",
-      "onboard_time": 1702537113,
-      "rank": 23,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 493882,
@@ -513,6 +529,14 @@
       "onboard_time": 1702481973,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418349,
+      "num": 418349,
+      "word": "水鬼猖狂 切勿下水",
+      "onboard_time": 1702536516,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 416270,
@@ -627,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343397,
-      "num": 343397,
-      "word": "水鬼猖狂 切勿下水",
-      "onboard_time": 1702536516,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 342288,
       "num": 342288,
       "word": "刘sir 15年抓我8次你不累吗",
@@ -649,6 +665,14 @@
       "onboard_time": 1702518635,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 335523,
+      "num": 335523,
+      "word": "江西省财政厅辟谣公务员将集体降薪",
+      "onboard_time": 1702540357,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334676,
@@ -777,6 +801,14 @@
       "onboard_time": 1702529201,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 277076,
+      "num": 277076,
+      "word": "时代少年团cha了初雪",
+      "onboard_time": 1702539276,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 274007,
@@ -915,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251187,
+      "num": 251187,
+      "word": "董宇辉爆火后东方甄选年净利润9亿多",
+      "onboard_time": 1702538197,
+      "rank": 48,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 248480,
       "num": 225614,
       "word": "胡先煦多大了还骑妈妈脖子",
@@ -953,6 +993,14 @@
       "onboard_time": 1702515214,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 232170,
+      "num": 232170,
+      "word": "姚琛喊话方灿",
+      "onboard_time": 1702541914,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 231863,
@@ -1027,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219356,
+      "num": 219356,
+      "word": "腾讯娱乐年度盛典",
+      "onboard_time": 1702540658,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217745,
       "num": 86082,
       "word": "美联储暗示2024年降息三次",
@@ -1043,12 +1099,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215041,
-      "num": 215041,
-      "word": "董宇辉爆火后东方甄选年净利润9亿多",
-      "onboard_time": 1702538197,
-      "rank": 48,
-      "category": "互联网,社会新闻"
+      "raw_hot": 212696,
+      "num": 212696,
+      "word": "姚琛AAA获奖感言",
+      "onboard_time": 1702540176,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 211052,
+      "num": 211052,
+      "word": "人民网评周海媚病历被泄露",
+      "onboard_time": 1702542032,
+      "rank": 33,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 209353,
@@ -1057,6 +1121,14 @@
       "onboard_time": 1702529857,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208802,
+      "num": 208802,
+      "word": "脱轨",
+      "onboard_time": 1702542032,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 204743,
@@ -1131,8 +1203,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 196529,
-      "num": 196529,
+      "raw_hot": 197332,
+      "num": 197332,
       "word": "圣诞线条小狗",
       "onboard_time": 1702536873,
       "rank": 40,
@@ -1219,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187165,
+      "num": 187165,
+      "word": "StrayKids红毯现场",
+      "onboard_time": 1702541017,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186889,
       "num": 186889,
       "word": "漠河零下42度交警穿2层羽绒服执勤",
@@ -1297,6 +1377,14 @@
       "onboard_time": 1702474900,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177012,
+      "num": 184958,
+      "word": "Gento开场",
+      "onboard_time": 1702540714,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 176935,
@@ -1587,14 +1675,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 142993,
-      "num": 142993,
-      "word": "文俊辉 请拍鬼怪",
-      "onboard_time": 1702539213,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 142503,
       "num": 142503,
       "word": "豌豆尖烧烤",
@@ -1867,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97010,
+      "num": 184899,
+      "word": "夫妻打游戏被妈妈开门声吓得切屏",
+      "onboard_time": 1702541914,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93625,
       "num": 93625,
       "word": "EXO全员入伍",
@@ -2043,6 +2131,14 @@
       "category": "科学科普,社会新闻"
     },
     {
+      "raw_hot": 40729,
+      "num": 219591,
+      "word": "元梦之星送的太多了",
+      "onboard_time": 1702541559,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37308,
       "num": 493080,
       "word": "刘奕君细节决定表达内涵",
@@ -2091,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 9503,
+      "num": 1525751,
+      "word": "宝藏县城个个身怀绝技",
+      "onboard_time": 1702541972,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6956,
       "num": 1396470,
       "word": "一图详解中央经济工作会议",
@@ -2114,6 +2218,9 @@
     },
     {
       "word": "#中越关系新定位是大势所趋水到渠成#"
+    },
+    {
+      "word": "#从发展数据读懂中国信心#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702539254791,
+  "endTime": 1702542139132,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2099,6 +2099,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 7710186,
+      "num": 7710186,
+      "word": "董明珠怒斥孟羽童",
+      "onboard_time": 1702536334,
+      "rank": 0,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 7706331,
       "num": 7488020,
       "word": "韩红首次公开回应被举报",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1688270731,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7233927,
-      "num": 7862485,
-      "word": "T1晋级S13总决赛",
-      "onboard_time": 1699788286,
-      "rank": 0,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [
