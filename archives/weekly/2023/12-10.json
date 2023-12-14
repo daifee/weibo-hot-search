@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702549181275,
+  "endTime": 1702550233040,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 1862186,
-      "num": 644959,
+      "num": 672911,
       "word": "刘宇宁 这一次我不反抗",
       "onboard_time": 1702543358,
       "rank": 10,
@@ -681,6 +681,14 @@
       "onboard_time": 1702458272,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1643957,
+      "num": 673563,
+      "word": "上厕所暂停 回来领奖",
+      "onboard_time": 1702548758,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 1610558,
@@ -873,6 +881,14 @@
       "onboard_time": 1702273715,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1328992,
+      "num": 1328992,
+      "word": "孟羽童 王自如",
+      "onboard_time": 1702549116,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 1327800,
@@ -2715,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565215,
+      "num": 565215,
+      "word": "董宇辉若提前离职期权将归零",
+      "onboard_time": 1702547133,
+      "rank": 12,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 563747,
       "num": 563747,
       "word": "文俊辉 请拍鬼怪",
@@ -2971,12 +2995,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 514288,
-      "num": 514288,
-      "word": "董宇辉若提前离职期权将归零",
-      "onboard_time": 1702547133,
-      "rank": 12,
-      "category": "互联网,社会新闻"
+      "raw_hot": 514100,
+      "num": 514100,
+      "word": "董明珠 格局",
+      "onboard_time": 1702549533,
+      "rank": 16,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 513430,
@@ -3923,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409985,
+      "num": 409985,
+      "word": "董明珠称钱不应该是大学生的梦想",
+      "onboard_time": 1702549533,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 409554,
       "num": 409554,
       "word": "大爷2万多买山寨保时捷上路就被查",
@@ -4643,6 +4675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 351361,
+      "num": 351361,
+      "word": "脱轨",
+      "onboard_time": 1702542032,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351207,
       "num": 351207,
       "word": "一念关山中的黄梦莹",
@@ -5027,14 +5067,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 329823,
-      "num": 329823,
-      "word": "脱轨",
-      "onboard_time": 1702542032,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 328947,
       "num": 328947,
       "word": "阴阳师 延期",
@@ -5276,7 +5308,7 @@
     },
     {
       "raw_hot": 309641,
-      "num": 249962,
+      "num": 281102,
       "word": "北大一学院为缓解内卷取消绩点排名",
       "onboard_time": 1702548272,
       "rank": 30,
@@ -5451,6 +5483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303303,
+      "num": 303303,
+      "word": "NIP官宣Rookie加入",
+      "onboard_time": 1702549533,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 303071,
       "num": 303071,
       "word": "脱轨要播了",
@@ -5481,14 +5521,6 @@
       "onboard_time": 1702341099,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300822,
-      "num": 300822,
-      "word": "上厕所暂停 回来领奖",
-      "onboard_time": 1702548758,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 300589,
@@ -6145,6 +6177,14 @@
       "onboard_time": 1702531654,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271238,
+      "num": 271238,
+      "word": "打工人 孟羽童王自如",
+      "onboard_time": 1702549835,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271076,
@@ -7267,6 +7307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234912,
+      "num": 2434245,
+      "word": "暴雪天物业囤7000斤白菜免费送业主",
+      "onboard_time": 1702547432,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234661,
       "num": 234661,
       "word": "董宇辉曾回应被去董宇辉化",
@@ -7385,14 +7433,6 @@
       "onboard_time": 1702440276,
       "rank": 35,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 231324,
-      "num": 231324,
-      "word": "孟羽童 王自如",
-      "onboard_time": 1702549116,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 231162,
@@ -7603,14 +7643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 226700,
-      "num": 2434245,
-      "word": "暴雪天物业囤7000斤白菜免费送业主",
-      "onboard_time": 1702547432,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226651,
       "num": 226651,
       "word": "张杰未live巡回演唱会",
@@ -7625,6 +7657,14 @@
       "onboard_time": 1702304036,
       "rank": 36,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 226344,
+      "num": 226344,
+      "word": "胡歌的画 天书",
+      "onboard_time": 1702549411,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 226170,
@@ -7705,6 +7745,14 @@
       "onboard_time": 1702133320,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224059,
+      "num": 224059,
+      "word": "职场PUA",
+      "onboard_time": 1702549056,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 224047,
@@ -8355,12 +8403,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 208308,
+      "num": 208308,
+      "word": "董宇辉小作文是公关疏漏还是管理问题",
+      "onboard_time": 1702548632,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 207942,
       "num": 207942,
       "word": "地母系",
       "onboard_time": 1702470152,
       "rank": 37,
       "category": "时尚,美妆"
+    },
+    {
+      "raw_hot": 207900,
+      "num": 207900,
+      "word": "董宇辉 停播",
+      "onboard_time": 1702550196,
+      "rank": 40,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 207893,
@@ -8449,6 +8513,14 @@
       "onboard_time": 1702443464,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205964,
+      "num": 205964,
+      "word": "董思成 国风独舞",
+      "onboard_time": 1702549592,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205942,
@@ -8979,6 +9051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199107,
+      "num": 199107,
+      "word": "八段锦 不懂就是白练",
+      "onboard_time": 1702549411,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 199075,
       "num": 199075,
       "word": "文科生不必妄自菲薄",
@@ -9427,14 +9507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190806,
-      "num": 190806,
-      "word": "董宇辉小作文是公关疏漏还是管理问题",
-      "onboard_time": 1702548632,
-      "rank": 39,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 190782,
       "num": 190782,
       "word": "高途股价大涨",
@@ -9481,6 +9553,14 @@
       "onboard_time": 1702310618,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190077,
+      "num": 190077,
+      "word": "成毅是相中墙上的砖了吗",
+      "onboard_time": 1702550015,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189677,
@@ -10027,14 +10107,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 181376,
-      "num": 181376,
-      "word": "职场PUA",
-      "onboard_time": 1702549056,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 181124,
       "num": 181124,
       "word": "林高远 冠军属于中国队",
@@ -10377,6 +10449,14 @@
       "onboard_time": 1702218701,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174874,
+      "num": 174874,
+      "word": "很想很想你",
+      "onboard_time": 1702465293,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 174867,
@@ -11171,6 +11251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158887,
+      "num": 1885965,
+      "word": "天安门前这一幕是北京最美的雪景",
+      "onboard_time": 1702547432,
+      "rank": 6,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 158872,
       "num": 158872,
       "word": "郑渊洁称存信的房子将来改成信件博物馆",
@@ -11313,14 +11401,6 @@
       "onboard_time": 1702170451,
       "rank": 42,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 156694,
-      "num": 1318408,
-      "word": "天安门前这一幕是北京最美的雪景",
-      "onboard_time": 1702547432,
-      "rank": 6,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 156258,
@@ -12531,6 +12611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129675,
+      "num": 1331314,
+      "word": "萌兰倒立比心太会了",
+      "onboard_time": 1702549295,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129505,
       "num": 129505,
       "word": "胰岛素抵抗就是糖尿病吗",
@@ -12931,14 +13019,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 116419,
-      "num": 116419,
-      "word": "很想很想你",
-      "onboard_time": 1702465293,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116356,
       "num": 116356,
       "word": "唐山遵化3.0级地震",
@@ -13299,6 +13379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81985,
+      "num": 282078,
+      "word": "e人狂喜的多巴胺胶片相框",
+      "onboard_time": 1702548873,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81200,
       "num": 397062,
       "word": "熬夜对莫青成的伤害为0",
@@ -13403,14 +13491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74600,
-      "num": 170126,
-      "word": "e人狂喜的多巴胺胶片相框",
-      "onboard_time": 1702548873,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 74549,
       "num": 74549,
       "word": "阿音走了纣王的老路",
@@ -13449,6 +13529,14 @@
       "onboard_time": 1702461033,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70864,
+      "num": 532466,
+      "word": "元梦之星送的太多了",
+      "onboard_time": 1702541559,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 70829,
@@ -13497,14 +13585,6 @@
       "onboard_time": 1702509925,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 67317,
-      "num": 489687,
-      "word": "元梦之星送的太多了",
-      "onboard_time": 1702541559,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 67154,
