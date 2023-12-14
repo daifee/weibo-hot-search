@@ -1,0 +1,410 @@
+{
+  "runTime": 1702539254791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4414987,
+        "num": 4414987,
+        "word": "董明珠怒斥孟羽童",
+        "onboard_time": 1702536334,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 2187149,
+        "num": 2187149,
+        "word": "俞敏洪面临CEO董宇辉二选一",
+        "onboard_time": 1702534953,
+        "rank": 1,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 57591,
+        "num": 1752244,
+        "word": "雪后湿地公园美成一幅国画",
+        "onboard_time": 1702522592,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1558427,
+        "num": 1558427,
+        "word": "俞敏洪声明",
+        "onboard_time": 1702529976,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1523014,
+        "num": 1523014,
+        "word": "酱园弄声明",
+        "onboard_time": 1702536935,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 797939,
+        "num": 797939,
+        "word": "董宇辉不方便回应东方甄选二选一",
+        "onboard_time": 1702536033,
+        "rank": 5,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 710101,
+        "num": 710101,
+        "word": "1人泄露周海媚病历被行拘",
+        "onboard_time": 1702516233,
+        "rank": 6,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 614784,
+        "num": 614784,
+        "word": "张若昀 是我不要脸了",
+        "onboard_time": 1702537957,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514952,
+        "num": 514952,
+        "word": "易烊千玺进组酱园弄",
+        "onboard_time": 1702536633,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 504096,
+        "num": 504096,
+        "word": "警方公布赴美见男网友中国女子死因",
+        "onboard_time": 1702537357,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701775,
+        "num": 503206,
+        "word": "男子小料加太多遭店家辱骂追打",
+        "onboard_time": 1702532556,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614174,
+        "num": 502863,
+        "word": "女子长期穿光腿神器导致迈不开腿",
+        "onboard_time": 1702524871,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501704,
+        "num": 501704,
+        "word": "东方甄选小编 职业精神",
+        "onboard_time": 1702533213,
+        "rank": 12,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 496914,
+        "num": 496914,
+        "word": "周末补觉危害比熬夜还大",
+        "onboard_time": 1702537113,
+        "rank": 13,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 27489,
+        "num": 438686,
+        "word": "刘奕君细节决定表达内涵",
+        "onboard_time": 1702522711,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430482,
+        "num": 430482,
+        "word": "东方甄选小作文",
+        "onboard_time": 1702530815,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 388719,
+        "num": 388719,
+        "word": "司机 没有一条差评是无辜的",
+        "onboard_time": 1702524752,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382969,
+        "num": 382969,
+        "word": "律师称郑爽如有能力却不执行最高判7年",
+        "onboard_time": 1702526433,
+        "rank": 17,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 370318,
+        "num": 370318,
+        "word": "东方小孙",
+        "onboard_time": 1702531592,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 273804,
+        "num": 365344,
+        "word": "母亲去世前一晚还给睡着的儿子盖被子",
+        "onboard_time": 1702519233,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444916,
+        "num": 365339,
+        "word": "小伙刮中100万拔腿就跑了",
+        "onboard_time": 1702533031,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364407,
+        "num": 364407,
+        "word": "林一更新ins",
+        "onboard_time": 1702537415,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361482,
+        "num": 361482,
+        "word": "张杰个人首个跨年IP官宣",
+        "onboard_time": 1702528720,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 350460,
+        "num": 350460,
+        "word": "A股",
+        "onboard_time": 1702537295,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 348876,
+        "num": 348876,
+        "word": "故宫的猫出来玩雪了",
+        "onboard_time": 1702534233,
+        "rank": 24,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 343397,
+        "num": 343397,
+        "word": "水鬼猖狂 切勿下水",
+        "onboard_time": 1702536516,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333289,
+        "num": 333289,
+        "word": "东方甄选CEO直播开会摔手机",
+        "onboard_time": 1702530217,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 316465,
+        "num": 316465,
+        "word": "俞敏洪否认CEO董宇辉二选一",
+        "onboard_time": 1702538495,
+        "rank": 27,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 232337,
+        "num": 306514,
+        "word": "准考证提醒考生6小时专业课带干粮",
+        "onboard_time": 1702526555,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 162892,
+        "num": 304763,
+        "word": "麦当劳成功注册麦门商标",
+        "onboard_time": 1702534713,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304401,
+        "num": 304401,
+        "word": "那些长期喝咖啡的人都怎么样了",
+        "onboard_time": 1702528175,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295124,
+        "num": 295124,
+        "word": "花少5嘉宾 筛选",
+        "onboard_time": 1702532969,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269293,
+        "num": 269293,
+        "word": "如果离婚你会怎么处理婚纱照",
+        "onboard_time": 1702534653,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267809,
+        "num": 267809,
+        "word": "腾讯娱乐年度盛典红毯",
+        "onboard_time": 1702537714,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266087,
+        "num": 266087,
+        "word": "东方甄选 内讧",
+        "onboard_time": 1702510708,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 253975,
+        "num": 253975,
+        "word": "董宇辉改签名",
+        "onboard_time": 1702518514,
+        "rank": 35,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 236818,
+        "num": 236818,
+        "word": "神隐 千古玦尘",
+        "onboard_time": 1702536216,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229930,
+        "num": 229930,
+        "word": "猫咪打哈欠时突然离世",
+        "onboard_time": 1702532074,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215041,
+        "num": 215041,
+        "word": "董宇辉爆火后东方甄选年净利润9亿多",
+        "onboard_time": 1702538197,
+        "rank": 38,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 135415,
+        "num": 196852,
+        "word": "罗翔解读医院职工泄露周海媚病历",
+        "onboard_time": 1702525291,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 196285,
+        "num": 196285,
+        "word": "AAA颁奖礼",
+        "onboard_time": 1702538014,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195106,
+        "num": 195106,
+        "word": "杨超越 水冰月",
+        "onboard_time": 1702527158,
+        "rank": 41,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 181210,
+        "num": 181210,
+        "word": "鹿晗的共享相册",
+        "onboard_time": 1702531654,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180019,
+        "num": 180019,
+        "word": "圣诞线条小狗",
+        "onboard_time": 1702536873,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178037,
+        "num": 178037,
+        "word": "恐怖谷妆容",
+        "onboard_time": 1702538135,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172617,
+        "num": 172617,
+        "word": "董宇辉 文案创作",
+        "onboard_time": 1702512934,
+        "rank": 45,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 157057,
+        "num": 157057,
+        "word": "地铁判官暖男版",
+        "onboard_time": 1702536633,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142993,
+        "num": 142993,
+        "word": "文俊辉 请拍鬼怪",
+        "onboard_time": 1702539213,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121259,
+        "num": 140876,
+        "word": "月薪2万到底买不起啥",
+        "onboard_time": 1702515633,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 117819,
+        "num": 139858,
+        "word": "业内认为东方甄选淡化董宇辉个人IP",
+        "onboard_time": 1702523612,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同越南国家主席武文赏举行会谈#"
+    }
+  }
+}
