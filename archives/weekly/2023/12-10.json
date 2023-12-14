@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702531025332,
+  "endTime": 1702532033495,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -91,6 +91,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 4222413,
+      "num": 4222413,
+      "word": "俞敏洪声明",
+      "onboard_time": 1702529976,
+      "rank": 0,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 4134597,
       "num": 4134597,
       "word": "周海媚工作人员拒绝回应网传消息",
@@ -145,14 +153,6 @@
       "onboard_time": 1702186534,
       "rank": 0,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 3287747,
-      "num": 3287747,
-      "word": "俞敏洪声明",
-      "onboard_time": 1702529976,
-      "rank": 0,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 3260635,
@@ -707,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1493550,
+      "num": 1493550,
+      "word": "司机 没有一条差评是无辜的",
+      "onboard_time": 1702524752,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1484129,
       "num": 925102,
       "word": "猪场饲养员洗澡后穿内裤罚款200",
@@ -769,14 +777,6 @@
       "onboard_time": 1702373434,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1413605,
-      "num": 1413605,
-      "word": "司机 没有一条差评是无辜的",
-      "onboard_time": 1702524752,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 1407009,
@@ -1867,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719103,
+      "num": 719103,
+      "word": "东方甄选小作文",
+      "onboard_time": 1702530815,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 711600,
       "num": 711600,
       "word": "郑州女生推窗看暴雪不料窗户掉下楼",
@@ -2731,14 +2739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530735,
-      "num": 530735,
-      "word": "东方甄选小作文",
-      "onboard_time": 1702530815,
-      "rank": 11,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 529542,
       "num": 529542,
       "word": "TES Meiko",
@@ -2785,6 +2785,14 @@
       "onboard_time": 1702517973,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 519058,
+      "num": 519058,
+      "word": "张杰个人首个跨年IP官宣",
+      "onboard_time": 1702528720,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 518095,
@@ -2849,14 +2857,6 @@
       "onboard_time": 1702213778,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 508348,
-      "num": 440494,
-      "word": "张杰个人首个跨年IP官宣",
-      "onboard_time": 1702528720,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 508304,
@@ -3817,6 +3817,14 @@
       "onboard_time": 1702443106,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 400727,
+      "num": 400727,
+      "word": "东方甄选CEO直播开会摔手机",
+      "onboard_time": 1702530217,
+      "rank": 24,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 400519,
@@ -4899,6 +4907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318317,
+      "num": 318317,
+      "word": "花少 分不出哪个作品赢了",
+      "onboard_time": 1702530757,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 318058,
       "num": 318058,
       "word": "樊振东孙颖莎共同捧杯",
@@ -5403,6 +5419,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 288062,
+      "num": 288062,
+      "word": "东方甄选已建立直播矩阵",
+      "onboard_time": 1702530516,
+      "rank": 31,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 287074,
       "num": 287074,
       "word": "aespa 雪国精灵",
@@ -5425,14 +5449,6 @@
       "onboard_time": 1702287815,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285948,
-      "num": 285948,
-      "word": "东方甄选CEO直播开会摔手机",
-      "onboard_time": 1702530217,
-      "rank": 24,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 285793,
@@ -5777,6 +5793,14 @@
       "onboard_time": 1702388753,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271789,
+      "num": 271789,
+      "word": "费翔首谈母亲近况落泪",
+      "onboard_time": 1702531654,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 271076,
@@ -6203,14 +6227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254415,
-      "num": 254415,
-      "word": "东方甄选已建立直播矩阵",
-      "onboard_time": 1702530516,
-      "rank": 31,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 254097,
       "num": 254097,
       "word": "一来例假就爆痘怎么办",
@@ -6465,6 +6481,14 @@
       "onboard_time": 1702133379,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246651,
+      "num": 246651,
+      "word": "赵昭仪 人没醒但妆不能花",
+      "onboard_time": 1702531176,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 246248,
@@ -7139,14 +7163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227840,
-      "num": 227840,
-      "word": "花少 分不出哪个作品赢了",
-      "onboard_time": 1702530757,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 227761,
       "num": 227761,
       "word": "张杰直播",
@@ -7233,6 +7249,14 @@
       "onboard_time": 1702285716,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224566,
+      "num": 224566,
+      "word": "东方小孙",
+      "onboard_time": 1702531592,
+      "rank": 32,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 224482,
@@ -8251,6 +8275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201181,
+      "num": 201181,
+      "word": "鹿晗的共享相册",
+      "onboard_time": 1702531654,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201107,
       "num": 201107,
       "word": "宠儿 退役",
@@ -8763,6 +8795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191912,
+      "num": 191912,
+      "word": "东方甄选 工作失误",
+      "onboard_time": 1702531294,
+      "rank": 38,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 191778,
       "num": 191778,
       "word": "收费员反应迅速10秒挽回30吨纸箱",
@@ -9041,6 +9081,14 @@
       "onboard_time": 1702378357,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187512,
+      "num": 187512,
+      "word": "第五人格圣诞来信",
+      "onboard_time": 1702531957,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 187277,
@@ -9699,6 +9747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174538,
+      "num": 174538,
+      "word": "LPL全明星返场秀比赛语音",
+      "onboard_time": 1702531355,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174523,
       "num": 207216,
       "word": "红斑狼疮高发于育龄期女性",
@@ -10308,7 +10364,7 @@
     },
     {
       "raw_hot": 161125,
-      "num": 1440454,
+      "num": 1474691,
       "word": "2023温暖后续",
       "onboard_time": 1702517314,
       "rank": 38,
@@ -11531,6 +11587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136776,
+      "num": 441034,
+      "word": "武汉人精神状态领先我十年",
+      "onboard_time": 1702530035,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136679,
       "num": 136679,
       "word": "显发量显脸小的侧麻花",
@@ -12657,14 +12721,6 @@
       "onboard_time": 1702337609,
       "rank": 49,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 67622,
-      "num": 441034,
-      "word": "武汉人精神状态领先我十年",
-      "onboard_time": 1702530035,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67444,
