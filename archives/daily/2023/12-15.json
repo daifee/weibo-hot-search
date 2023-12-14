@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702585161981,
+  "endTime": 1702586062230,
   "band_list": [
     {
       "raw_hot": 2751315,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40235,
+      "num": 27109,
+      "word": "赵露思叫王安宇男妈妈",
+      "onboard_time": 1702585934,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37668,
       "num": 54402,
       "word": "ZB1留下了Ricky的位置",
@@ -491,8 +499,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30140,
-      "num": 23810,
+      "raw_hot": 30188,
+      "num": 26533,
       "word": "美团饿了么回应商家乱收打包费",
       "onboard_time": 1702582754,
       "rank": 23,
@@ -563,6 +571,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 15497,
+      "num": 23303,
+      "word": "东京动画奖 国产动画入围",
+      "onboard_time": 1702584374,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 14995,
       "num": 25799,
       "word": "故宫玩雪",
@@ -571,20 +587,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 13091,
-      "num": 23303,
-      "word": "东京动画奖 国产动画入围",
-      "onboard_time": 1702584374,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 11518,
       "num": 23302,
       "word": "这样瘦小肚子果然有用",
       "onboard_time": 1702585153,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 10870,
+      "num": 19747,
+      "word": "巨大彩虹横跨苍山洱海",
+      "onboard_time": 1702586053,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     }
   ],
   "hotgov_list": [
