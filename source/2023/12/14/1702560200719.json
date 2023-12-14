@@ -1,0 +1,410 @@
+{
+  "runTime": 1702560200719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1293697,
+        "num": 1293697,
+        "word": "清华大学称已对张培萌进行处分",
+        "onboard_time": 1702544195,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 805271,
+        "num": 805271,
+        "word": "电视剧脱轨",
+        "onboard_time": 1702542032,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44989,
+        "num": 678412,
+        "word": "宝藏县城个个身怀绝技",
+        "onboard_time": 1702541972,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2854376,
+        "num": 675232,
+        "word": "董宇辉 停播",
+        "onboard_time": 1702550196,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 636843,
+        "num": 636843,
+        "word": "仙侠剧也逃不了考公",
+        "onboard_time": 1702551032,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428205,
+        "num": 636621,
+        "word": "天津停课",
+        "onboard_time": 1702558417,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333545,
+        "num": 631918,
+        "word": "东方甄选CEO道歉",
+        "onboard_time": 1702551094,
+        "rank": 6,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 337129,
+        "num": 628091,
+        "word": "酱园弄声明",
+        "onboard_time": 1702536935,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315247,
+        "num": 623360,
+        "word": "2024总台央视片单",
+        "onboard_time": 1702558959,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258308,
+        "num": 620385,
+        "word": "TheShy 理解大家的不安",
+        "onboard_time": 1702556856,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26413,
+        "num": 616426,
+        "word": "vivoS18发布会",
+        "onboard_time": 1702551755,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 3253918,
+        "num": 614441,
+        "word": "北京地铁昌平线突发故障",
+        "onboard_time": 1702553673,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2670533,
+        "num": 611492,
+        "word": "刘浩存 粉底",
+        "onboard_time": 1702557632,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1566730,
+        "num": 607731,
+        "word": "上厕所暂停 回来领奖",
+        "onboard_time": 1702548758,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97928,
+        "num": 603986,
+        "word": "一张人像拍出我2023精神状态",
+        "onboard_time": 1702553134,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1140319,
+        "num": 599187,
+        "word": "董明珠怒斥孟羽童",
+        "onboard_time": 1702536334,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 918373,
+        "num": 596589,
+        "word": "俞敏洪声明",
+        "onboard_time": 1702529976,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 747675,
+        "num": 592372,
+        "word": "孟羽童 王自如",
+        "onboard_time": 1702549116,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 457585,
+        "num": 589566,
+        "word": "广州一大学生校内突发疾病死亡",
+        "onboard_time": 1702555959,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 318119,
+        "num": 585517,
+        "word": "北京中小学生15日继续居家学习",
+        "onboard_time": 1702559433,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 584357,
+        "num": 584357,
+        "word": "俞敏洪面临CEO董宇辉二选一",
+        "onboard_time": 1702534953,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 531701,
+        "num": 531701,
+        "word": "昌平线突发故障正在紧急救援",
+        "onboard_time": 1702556559,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334726,
+        "num": 512189,
+        "word": "王安宇赵露思 陌生人给我糖",
+        "onboard_time": 1702559797,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497153,
+        "num": 497153,
+        "word": "东方小孙称没休息好动作失控摔手机",
+        "onboard_time": 1702557758,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 443196,
+        "num": 443196,
+        "word": "北京地铁昌平线事故现场曝光",
+        "onboard_time": 1702558175,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315238,
+        "num": 315238,
+        "word": "董宇辉不方便回应东方甄选二选一",
+        "onboard_time": 1702536033,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 582662,
+        "num": 305907,
+        "word": "董宇辉 孟羽童",
+        "onboard_time": 1702551274,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 384100,
+        "num": 302337,
+        "word": "北京地铁西二旗站采取封闭措施",
+        "onboard_time": 1702556254,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292595,
+        "num": 292595,
+        "word": "未成年人休息娱乐偏好游戏仅排第六",
+        "onboard_time": 1702557333,
+        "rank": 28,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 241416,
+        "num": 290039,
+        "word": "人民网评周海媚病历被泄露",
+        "onboard_time": 1702542032,
+        "rank": 29,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 66794,
+        "num": 282860,
+        "word": "vivo影棚级人像有多强",
+        "onboard_time": 1702557456,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 481219,
+        "num": 282438,
+        "word": "董宇辉",
+        "onboard_time": 1702557394,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 376265,
+        "num": 276120,
+        "word": "北京地铁昌平线两节车厢分离",
+        "onboard_time": 1702557517,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272556,
+        "num": 272556,
+        "word": "张若昀在哇唧唧哇群里发红包",
+        "onboard_time": 1702559918,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165344,
+        "num": 256236,
+        "word": "金砖一刻行千里",
+        "onboard_time": 1702556915,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422017,
+        "num": 254604,
+        "word": "董宇辉 现实版新闻女王",
+        "onboard_time": 1702559617,
+        "rank": 35,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 251343,
+        "num": 251343,
+        "word": "雪玫瑰制作方法",
+        "onboard_time": 1702559918,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 416785,
+        "num": 251314,
+        "word": "董宇辉真实年薪不足千万",
+        "onboard_time": 1702541433,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 249971,
+        "num": 249971,
+        "word": "薛之谦 抢不到根本抢不到",
+        "onboard_time": 1702547253,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243287,
+        "num": 243287,
+        "word": "董明珠 格局",
+        "onboard_time": 1702549533,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 107246,
+        "num": 239906,
+        "word": "人像分两种 蓝厂和其他",
+        "onboard_time": 1702557758,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 356667,
+        "num": 239900,
+        "word": "董宇辉小作文",
+        "onboard_time": 1702556137,
+        "rank": 41,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 238968,
+        "num": 238968,
+        "word": "留着大年三十晚上看",
+        "onboard_time": 1702557333,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229696,
+        "num": 229696,
+        "word": "车厢连接处",
+        "onboard_time": 1702557456,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257264,
+        "num": 229158,
+        "word": "东方甄选小编 职业精神",
+        "onboard_time": 1702533213,
+        "rank": 44,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 221918,
+        "num": 221918,
+        "word": "补血养颜 苹果黄芪水",
+        "onboard_time": 1702559196,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201107,
+        "num": 201107,
+        "word": "英雄志有名字了",
+        "onboard_time": 1702559857,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201431,
+        "num": 200550,
+        "word": "董宇辉若提前离职期权将归零",
+        "onboard_time": 1702547133,
+        "rank": 47,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 196286,
+        "num": 196286,
+        "word": "BSS 大赏",
+        "onboard_time": 1702560158,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195131,
+        "num": 195131,
+        "word": "薪酬 个人隐私",
+        "onboard_time": 1702550973,
+        "rank": 49,
+        "category": "互联网,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越关系新定位是大势所趋水到渠成#"
+    }
+  }
+}
