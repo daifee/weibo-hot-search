@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702521585937,
+  "endTime": 1702523924028,
   "band_list": [
     {
       "raw_hot": 6119816,
@@ -19,8 +19,16 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 1367006,
-      "num": 1367006,
+      "raw_hot": 2195683,
+      "num": 2195683,
+      "word": "重庆地震",
+      "onboard_time": 1702522353,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1802549,
+      "num": 1802549,
       "word": "董宇辉改签名",
       "onboard_time": 1702518514,
       "rank": 4,
@@ -107,8 +115,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 732001,
-      "num": 732001,
+      "raw_hot": 755272,
+      "num": 755272,
       "word": "母亲去世前一晚还给睡着的儿子盖被子",
       "onboard_time": 1702519233,
       "rank": 7,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 709104,
-      "num": 280032,
+      "num": 332797,
       "word": "月薪2万到底买不起啥",
       "onboard_time": 1702515633,
       "rank": 30,
@@ -171,6 +179,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 578564,
+      "num": 399222,
+      "word": "我是p人不是脏人",
+      "onboard_time": 1702520431,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 572528,
       "num": 317769,
       "word": "广州彩民独中1.44亿元大奖",
@@ -219,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 475506,
+      "num": 475506,
+      "word": "四川泸州3.8级地震",
+      "onboard_time": 1702522592,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459532,
       "num": 459532,
       "word": "陕西文旅喊话董宇辉",
@@ -259,11 +283,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 416270,
+      "num": 416270,
+      "word": "神隐 穿帮",
+      "onboard_time": 1702521033,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400519,
       "num": 400519,
       "word": "丫丫雪里打滚变糖霜小熊",
       "onboard_time": 1702520192,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394284,
+      "num": 394284,
+      "word": "气象部门回应河北人工增雪崩到河南",
+      "onboard_time": 1702521336,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -281,14 +321,6 @@
       "onboard_time": 1702516358,
       "rank": 43,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 369198,
-      "num": 369198,
-      "word": "我是p人不是脏人",
-      "onboard_time": 1702520431,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 363005,
@@ -339,12 +371,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 302556,
-      "num": 302556,
-      "word": "神隐 穿帮",
-      "onboard_time": 1702521033,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 302411,
+      "num": 302411,
+      "word": "江苏卫视跨年 阵容",
+      "onboard_time": 1702521153,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 299786,
@@ -403,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264671,
+      "num": 264671,
+      "word": "王一博广州",
+      "onboard_time": 1702521632,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254501,
       "num": 254501,
       "word": "威姆斯重返广东男篮",
       "onboard_time": 1702520312,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252938,
+      "num": 252938,
+      "word": "电视剧脱轨今日开播",
+      "onboard_time": 1702522772,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 248480,
@@ -425,14 +473,6 @@
       "onboard_time": 1702473157,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237239,
-      "num": 237239,
-      "word": "江苏卫视跨年 阵容",
-      "onboard_time": 1702521153,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 236416,
@@ -459,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225078,
+      "num": 225078,
+      "word": "业内认为东方甄选淡化董宇辉个人IP",
+      "onboard_time": 1702523612,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 224988,
       "num": 224988,
       "word": "湖南卫视 跨年街",
@@ -475,6 +523,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 221251,
+      "num": 209294,
+      "word": "黑执事 恶魔也吃胖了",
+      "onboard_time": 1702523493,
+      "rank": 31,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 220634,
+      "num": 220634,
+      "word": "深圳一员工年会中11万只发2万",
+      "onboard_time": 1702522111,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217745,
       "num": 86082,
       "word": "美联储暗示2024年降息三次",
@@ -483,8 +547,16 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 203477,
-      "num": 203477,
+      "raw_hot": 209649,
+      "num": 209649,
+      "word": "冰封玫瑰",
+      "onboard_time": 1702523133,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 204743,
+      "num": 204743,
       "word": "流浪猫在舍友床上产崽",
       "onboard_time": 1702511669,
       "rank": 34,
@@ -513,6 +585,22 @@
       "onboard_time": 1702520733,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194355,
+      "num": 194355,
+      "word": "东方甄选股价涨超6%",
+      "onboard_time": 1702521932,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 188796,
+      "num": 194529,
+      "word": "出海四小龙全球排名逼近亚马逊",
+      "onboard_time": 1702523073,
+      "rank": 34,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 186889,
@@ -563,14 +651,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 171909,
-      "num": 171909,
-      "word": "气象部门回应河北人工增雪崩到河南",
-      "onboard_time": 1702521336,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171124,
       "num": 171124,
       "word": "终于知道冻紫了是啥意思",
@@ -612,7 +692,7 @@
     },
     {
       "raw_hot": 161125,
-      "num": 161125,
+      "num": 1056172,
       "word": "2023温暖后续",
       "onboard_time": 1702517314,
       "rank": 38,
@@ -633,6 +713,14 @@
       "onboard_time": 1702484966,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157900,
+      "num": 209303,
+      "word": "荣耀保时捷设计官宣合作",
+      "onboard_time": 1702523371,
+      "rank": 30,
+      "category": "数码,汽车"
     },
     {
       "raw_hot": 157323,
@@ -679,6 +767,14 @@
       "num": 150896,
       "word": "欧冠",
       "onboard_time": 1702516715,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150048,
+      "num": 150048,
+      "word": "浓眉隔扣文班亚马",
+      "onboard_time": 1702522833,
       "rank": 42,
       "category": "体育"
     },
@@ -1083,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37308,
+      "num": 123594,
+      "word": "刘奕君细节决定表达内涵",
+      "onboard_time": 1702522711,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35300,
       "num": 92656,
       "word": "年度书单",
@@ -1097,6 +1201,14 @@
       "onboard_time": 1702460073,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31074,
+      "num": 397837,
+      "word": "那些关于郑州很中的理由",
+      "onboard_time": 1702522833,
+      "rank": 14,
+      "category": "科学科普,社会新闻"
     },
     {
       "raw_hot": 29581,

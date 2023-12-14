@@ -1,0 +1,410 @@
+{
+  "runTime": 1702523924028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2195683,
+        "num": 2195683,
+        "word": "重庆地震",
+        "onboard_time": 1702522353,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1802549,
+        "num": 1802549,
+        "word": "董宇辉改签名",
+        "onboard_time": 1702518514,
+        "rank": 1,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 30016,
+        "num": 1056172,
+        "word": "2023温暖后续",
+        "onboard_time": 1702517314,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960042,
+        "num": 960042,
+        "word": "董宇辉曾称俞敏洪给的钱挺多已够花了",
+        "onboard_time": 1702515692,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 772389,
+        "num": 772389,
+        "word": "东方甄选 内讧",
+        "onboard_time": 1702510708,
+        "rank": 4,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 2441316,
+        "num": 772091,
+        "word": "1人泄露周海媚病历被行拘",
+        "onboard_time": 1702516233,
+        "rank": 5,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 755272,
+        "num": 755272,
+        "word": "母亲去世前一晚还给睡着的儿子盖被子",
+        "onboard_time": 1702519233,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513494,
+        "num": 513494,
+        "word": "原来爱情公寓这么前卫",
+        "onboard_time": 1702512571,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475506,
+        "num": 475506,
+        "word": "四川泸州3.8级地震",
+        "onboard_time": 1702522592,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416270,
+        "num": 416270,
+        "word": "神隐 穿帮",
+        "onboard_time": 1702521033,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 981266,
+        "num": 413351,
+        "word": "妈妈突然的转账使我沉默了",
+        "onboard_time": 1702511609,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 808795,
+        "num": 409413,
+        "word": "杨丞琳河南风波后首现身",
+        "onboard_time": 1702514974,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 643831,
+        "num": 404783,
+        "word": "修丽可 邓为",
+        "onboard_time": 1702520013,
+        "rank": 12,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 578564,
+        "num": 399222,
+        "word": "我是p人不是脏人",
+        "onboard_time": 1702520431,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31074,
+        "num": 397837,
+        "word": "那些关于郑州很中的理由",
+        "onboard_time": 1702522833,
+        "rank": 14,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 394284,
+        "num": 394284,
+        "word": "气象部门回应河北人工增雪崩到河南",
+        "onboard_time": 1702521336,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345548,
+        "num": 345548,
+        "word": "教育局回应老师让男生打女生耳光",
+        "onboard_time": 1702518215,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 339407,
+        "num": 339407,
+        "word": "NBA无限期禁赛格林",
+        "onboard_time": 1702517973,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332797,
+        "num": 332797,
+        "word": "月薪2万到底买不起啥",
+        "onboard_time": 1702515633,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 324770,
+        "num": 324770,
+        "word": "丫丫雪里打滚变糖霜小熊",
+        "onboard_time": 1702520192,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302411,
+        "num": 302411,
+        "word": "江苏卫视跨年 阵容",
+        "onboard_time": 1702521153,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276607,
+        "num": 276607,
+        "word": "盒马山姆价格战火药味渐浓",
+        "onboard_time": 1702518635,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 264671,
+        "num": 264671,
+        "word": "王一博广州",
+        "onboard_time": 1702521632,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258062,
+        "num": 258062,
+        "word": "陕西文旅喊话董宇辉",
+        "onboard_time": 1702518031,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252938,
+        "num": 252938,
+        "word": "电视剧脱轨今日开播",
+        "onboard_time": 1702522772,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251321,
+        "num": 251321,
+        "word": "周海媚曾称有皱纹也可以很美",
+        "onboard_time": 1702511007,
+        "rank": 25,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 233788,
+        "num": 233788,
+        "word": "咒术回战 宿傩被判死刑",
+        "onboard_time": 1702518514,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 225078,
+        "num": 225078,
+        "word": "业内认为东方甄选淡化董宇辉个人IP",
+        "onboard_time": 1702523612,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 220634,
+        "num": 220634,
+        "word": "深圳一员工年会中11万只发2万",
+        "onboard_time": 1702522111,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209649,
+        "num": 209649,
+        "word": "冰封玫瑰",
+        "onboard_time": 1702523133,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157900,
+        "num": 209303,
+        "word": "荣耀保时捷设计官宣合作",
+        "onboard_time": 1702523371,
+        "rank": 30,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 221251,
+        "num": 209294,
+        "word": "黑执事 恶魔也吃胖了",
+        "onboard_time": 1702523493,
+        "rank": 31,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 209242,
+        "num": 209242,
+        "word": "赵一博回家",
+        "onboard_time": 1702511428,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204743,
+        "num": 204743,
+        "word": "流浪猫在舍友床上产崽",
+        "onboard_time": 1702511669,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188796,
+        "num": 194529,
+        "word": "出海四小龙全球排名逼近亚马逊",
+        "onboard_time": 1702523073,
+        "rank": 34,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 194355,
+        "num": 194355,
+        "word": "东方甄选股价涨超6%",
+        "onboard_time": 1702521932,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 193808,
+        "num": 193808,
+        "word": "内蒙古发现大型金矿估值170亿",
+        "onboard_time": 1702516358,
+        "rank": 36,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 193079,
+        "num": 193079,
+        "word": "脾胃虚弱的人脸上有4个表现",
+        "onboard_time": 1702476283,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193065,
+        "num": 193065,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1702512632,
+        "rank": 38,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 188872,
+        "num": 188872,
+        "word": "很想很想你 实在不行别睡了",
+        "onboard_time": 1702475137,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165511,
+        "num": 165511,
+        "word": "勇士天亮了",
+        "onboard_time": 1702521211,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159690,
+        "num": 159690,
+        "word": "红薯片真的可以拿来当被子用",
+        "onboard_time": 1702478502,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150048,
+        "num": 150048,
+        "word": "浓眉隔扣文班亚马",
+        "onboard_time": 1702522833,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146812,
+        "num": 146812,
+        "word": "董宇辉 文案创作",
+        "onboard_time": 1702512934,
+        "rank": 43,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 145039,
+        "num": 145039,
+        "word": "脾胃虚弱湿气重揉这里",
+        "onboard_time": 1702518635,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141824,
+        "num": 141824,
+        "word": "原来地震时地面会裂开又合上",
+        "onboard_time": 1702518456,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140879,
+        "num": 140879,
+        "word": "第一次在婴儿脸上看到无语的表情",
+        "onboard_time": 1702511609,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130769,
+        "num": 130769,
+        "word": "王者百解令新皮肤",
+        "onboard_time": 1702517732,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125646,
+        "num": 125646,
+        "word": "湖南卫视 跨年街",
+        "onboard_time": 1702478435,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37308,
+        "num": 123594,
+        "word": "刘奕君细节决定表达内涵",
+        "onboard_time": 1702522711,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阮富仲举行会谈#"
+    }
+  }
+}
