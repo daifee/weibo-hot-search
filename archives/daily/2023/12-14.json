@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702546455686,
+  "endTime": 1702549181275,
   "band_list": [
     {
       "raw_hot": 7710186,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1862186,
-      "num": 464941,
+      "num": 644959,
       "word": "刘宇宁 这一次我不反抗",
       "onboard_time": 1702543358,
       "rank": 10,
@@ -323,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 693664,
+      "num": 693664,
+      "word": "薛之谦 抢不到根本抢不到",
+      "onboard_time": 1702547253,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 685090,
       "num": 685090,
       "word": "人民网评周海媚病历被泄露",
@@ -443,6 +451,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 514288,
+      "num": 514288,
+      "word": "董宇辉若提前离职期权将归零",
+      "onboard_time": 1702547133,
+      "rank": 12,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 504096,
       "num": 549672,
       "word": "警方公布赴美见男网友中国女子死因",
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490592,
+      "num": 490592,
+      "word": "迪丽热巴跳TOPLINE",
+      "onboard_time": 1702545093,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481163,
       "num": 237538,
       "word": "刚开始只是逃水课",
@@ -513,6 +537,14 @@
       "onboard_time": 1702525291,
       "rank": 13,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 459832,
+      "num": 459832,
+      "word": "北京首套房首付比例降至3成",
+      "onboard_time": 1702546236,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459532,
@@ -553,14 +585,6 @@
       "onboard_time": 1702525111,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 437088,
-      "num": 437088,
-      "word": "迪丽热巴跳TOPLINE",
-      "onboard_time": 1702545093,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 431691,
@@ -617,6 +641,14 @@
       "onboard_time": 1702521336,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393150,
+      "num": 393150,
+      "word": "天杀的wvs 老子要报警抓你",
+      "onboard_time": 1702546236,
+      "rank": 36,
+      "category": "音乐,互联网"
     },
     {
       "raw_hot": 392248,
@@ -755,6 +787,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329823,
+      "num": 329823,
+      "word": "脱轨",
+      "onboard_time": 1702542032,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 324270,
+      "num": 324270,
+      "word": "魏大勋金丝眼镜 限定回归",
+      "onboard_time": 1702546593,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 322827,
       "num": 322827,
       "word": "如果离婚你会怎么处理婚纱照",
@@ -795,14 +843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312947,
-      "num": 312947,
-      "word": "脱轨",
-      "onboard_time": 1702542032,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 312282,
       "num": 312282,
       "word": "上班 断崖式衰老",
@@ -819,12 +859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309641,
+      "num": 249962,
+      "word": "北大一学院为缓解内卷取消绩点排名",
+      "onboard_time": 1702548272,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 302411,
       "num": 302411,
       "word": "江苏卫视跨年 阵容",
       "onboard_time": 1702521153,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300822,
+      "num": 300822,
+      "word": "上厕所暂停 回来领奖",
+      "onboard_time": 1702548758,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 299786,
@@ -897,6 +953,14 @@
       "onboard_time": 1702511669,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273867,
+      "num": 273867,
+      "word": "周深今年唱了四首电影歌曲",
+      "onboard_time": 1702548215,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 273700,
@@ -1115,12 +1179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231324,
+      "num": 231324,
+      "word": "孟羽童 王自如",
+      "onboard_time": 1702549116,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 228248,
       "num": 228248,
       "word": "杨超越说苏醒人傻钱多",
       "onboard_time": 1702533992,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226700,
+      "num": 2434245,
+      "word": "暴雪天物业囤7000斤白菜免费送业主",
+      "onboard_time": 1702547432,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226170,
@@ -1217,6 +1297,14 @@
       "onboard_time": 1702536633,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213978,
+      "num": 213978,
+      "word": "照明商店 意外离世更无法释怀",
+      "onboard_time": 1702547613,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 213917,
@@ -1363,6 +1451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 195220,
+      "num": 2267286,
+      "word": "女子在孩子旁跳桥轻生被救起",
+      "onboard_time": 1702547432,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194958,
       "num": 194958,
       "word": "大饼 梦想",
@@ -1419,6 +1515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190806,
+      "num": 190806,
+      "word": "董宇辉小作文是公关疏漏还是管理问题",
+      "onboard_time": 1702548632,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 190748,
       "num": 190748,
       "word": "雪天和陌生人合拍舞蹈",
@@ -1433,6 +1537,14 @@
       "onboard_time": 1702530459,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 189460,
+      "num": 189460,
+      "word": "女生堆的雪狗逐渐神化",
+      "onboard_time": 1702546413,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 188796,
@@ -1523,12 +1635,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 180322,
-      "num": 180322,
-      "word": "天杀的wvs 老子要报警抓你",
-      "onboard_time": 1702546236,
-      "rank": 36,
-      "category": "音乐,互联网"
+      "raw_hot": 181376,
+      "num": 181376,
+      "word": "职场PUA",
+      "onboard_time": 1702549056,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 180319,
@@ -1560,14 +1672,6 @@
       "word": "董宇辉称不要以饭圈名义污名化任何人",
       "onboard_time": 1702470332,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178058,
-      "num": 178058,
-      "word": "北京首套房首付比例降至3成",
-      "onboard_time": 1702546236,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1641,6 +1745,14 @@
       "onboard_time": 1702512451,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 171726,
+      "num": 171726,
+      "word": "考研最后几天的精神状态",
+      "onboard_time": 1702547193,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 171389,
@@ -1793,6 +1905,14 @@
       "onboard_time": 1702515873,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156694,
+      "num": 1318408,
+      "word": "天安门前这一幕是北京最美的雪景",
+      "onboard_time": 1702547432,
+      "rank": 6,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 156250,
@@ -1977,14 +2097,6 @@
       "onboard_time": 1702515513,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133872,
-      "num": 133872,
-      "word": "女生堆的雪狗逐渐神化",
-      "onboard_time": 1702546413,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 133212,
@@ -2236,7 +2348,7 @@
     },
     {
       "raw_hot": 82548,
-      "num": 1916066,
+      "num": 2306785,
       "word": "宝藏县城个个身怀绝技",
       "onboard_time": 1702541972,
       "rank": 2,
@@ -2265,6 +2377,14 @@
       "onboard_time": 1702479879,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74600,
+      "num": 170126,
+      "word": "e人狂喜的多巴胺胶片相框",
+      "onboard_time": 1702548873,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 73603,
@@ -2305,6 +2425,14 @@
       "onboard_time": 1702509925,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 67317,
+      "num": 489687,
+      "word": "元梦之星送的太多了",
+      "onboard_time": 1702541559,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 67154,
@@ -2377,14 +2505,6 @@
       "onboard_time": 1702522833,
       "rank": 14,
       "category": "科学科普,社会新闻"
-    },
-    {
-      "raw_hot": 42960,
-      "num": 219591,
-      "word": "元梦之星送的太多了",
-      "onboard_time": 1702541559,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 37308,
