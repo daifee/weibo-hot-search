@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702557229708,
+  "endTime": 1702558205668,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -163,20 +163,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 3338979,
+      "num": 664433,
+      "word": "北京地铁昌平线突发故障",
+      "onboard_time": 1702553673,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3319237,
       "num": 3319237,
       "word": "杨丞琳说河南人爱骗人",
       "onboard_time": 1702186534,
       "rank": 0,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 3309180,
-      "num": 530512,
-      "word": "北京地铁昌平线突发故障",
-      "onboard_time": 1702553673,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3260635,
@@ -1307,6 +1307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 977372,
+      "num": 977372,
+      "word": "脱轨",
+      "onboard_time": 1702542032,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 967462,
       "num": 967462,
       "word": "面包店的香味 假的",
@@ -1324,7 +1332,7 @@
     },
     {
       "raw_hot": 951276,
-      "num": 383698,
+      "num": 399100,
       "word": "昌平线突发故障正在紧急救援",
       "onboard_time": 1702556559,
       "rank": 20,
@@ -1585,14 +1593,6 @@
       "onboard_time": 1702391664,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859836,
-      "num": 859836,
-      "word": "脱轨",
-      "onboard_time": 1702542032,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 856289,
@@ -1929,6 +1929,14 @@
       "onboard_time": 1702519233,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 755156,
+      "num": 755156,
+      "word": "董宇辉",
+      "onboard_time": 1702557394,
+      "rank": 7,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 754855,
@@ -2372,7 +2380,7 @@
     },
     {
       "raw_hot": 662778,
-      "num": 352648,
+      "num": 354834,
       "word": "北京地铁西二旗站采取封闭措施",
       "onboard_time": 1702556254,
       "rank": 23,
@@ -2641,6 +2649,14 @@
       "onboard_time": 1702260812,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599616,
+      "num": 599616,
+      "word": "刘浩存 粉底",
+      "onboard_time": 1702557632,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 595284,
@@ -3803,6 +3819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 433957,
+      "num": 433957,
+      "word": "广州一大学生校内突发疾病死亡",
+      "onboard_time": 1702555959,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 433232,
       "num": 433232,
       "word": "刘少林",
@@ -4667,6 +4691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 359930,
+      "num": 359930,
+      "word": "未成年人休息娱乐偏好游戏仅排第六",
+      "onboard_time": 1702557333,
+      "rank": 21,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 359820,
       "num": 359820,
       "word": "Bang结婚",
@@ -4835,6 +4867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348157,
+      "num": 299517,
+      "word": "北京地铁昌平线两节车厢分离",
+      "onboard_time": 1702557517,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346396,
       "num": 346396,
       "word": "赵一博回家",
@@ -4849,14 +4889,6 @@
       "onboard_time": 1702351232,
       "rank": 21,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 345681,
-      "num": 384031,
-      "word": "广州一大学生校内突发疾病死亡",
-      "onboard_time": 1702555959,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 345189,
@@ -6531,6 +6563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262018,
+      "num": 262018,
+      "word": "TheShy 理解大家的不安",
+      "onboard_time": 1702556856,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262003,
       "num": 262003,
       "word": "真爱的第一征兆是什么",
@@ -6593,6 +6633,14 @@
       "onboard_time": 1702462115,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258817,
+      "num": 258817,
+      "word": "东方小孙称没休息好动作失控摔手机",
+      "onboard_time": 1702557758,
+      "rank": 34,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 258244,
@@ -7123,6 +7171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243260,
+      "num": 243260,
+      "word": "车厢连接处",
+      "onboard_time": 1702557456,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242311,
       "num": 242311,
       "word": "迪丽热巴和秦岚的温柔灵魂",
@@ -7497,6 +7553,14 @@
       "onboard_time": 1702545271,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232971,
+      "num": 220117,
+      "word": "北京地铁昌平线列车断开",
+      "onboard_time": 1702557161,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232893,
@@ -9419,6 +9483,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 194717,
+      "num": 299924,
+      "word": "金砖一刻行千里",
+      "onboard_time": 1702556915,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194445,
       "num": 530112,
       "word": "浙大儿院为外地患儿家庭免费提供住宿",
@@ -9515,6 +9587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192855,
+      "num": 192855,
+      "word": "张杰 跨年演唱会",
+      "onboard_time": 1702555834,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192852,
       "num": 192852,
       "word": "张远 风水大师",
@@ -9577,6 +9657,14 @@
       "onboard_time": 1702531294,
       "rank": 38,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 191838,
+      "num": 191838,
+      "word": "寒咳 热咳",
+      "onboard_time": 1702556674,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191778,
@@ -9649,6 +9737,14 @@
       "onboard_time": 1702120956,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190924,
+      "num": 190924,
+      "word": "留着大年三十晚上看",
+      "onboard_time": 1702557333,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 190901,
@@ -9907,14 +10003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187186,
-      "num": 187186,
-      "word": "张杰 跨年演唱会",
-      "onboard_time": 1702555834,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 187165,
       "num": 187165,
       "word": "StrayKids红毯现场",
@@ -10155,14 +10243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184536,
-      "num": 184536,
-      "word": "寒咳 热咳",
-      "onboard_time": 1702556674,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 184394,
       "num": 184394,
       "word": "周涛好自信从容的状态",
@@ -10249,14 +10329,6 @@
       "onboard_time": 1702288233,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 182618,
-      "num": 182618,
-      "word": "TheShy 理解大家的不安",
-      "onboard_time": 1702556856,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 182532,
@@ -10747,6 +10819,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 173599,
+      "num": 173599,
+      "word": "北京地铁昌平线事故现场曝光",
+      "onboard_time": 1702558175,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173408,
       "num": 173408,
       "word": "于适心愿 不死之身",
@@ -10953,6 +11033,14 @@
       "onboard_time": 1702353338,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169461,
+      "num": 169461,
+      "word": "少年之家今早吃什么",
+      "onboard_time": 1702557161,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 169268,
@@ -11907,14 +11995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150725,
-      "num": 150725,
-      "word": "少年之家今早吃什么",
-      "onboard_time": 1702557161,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150530,
       "num": 150530,
       "word": "皮卡堂 开门啊",
@@ -12155,14 +12235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 146951,
-      "num": 159934,
-      "word": "金砖一刻行千里",
-      "onboard_time": 1702556915,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 146375,
       "num": 146375,
       "word": "AG一诺 想过不打了",
@@ -12393,14 +12465,6 @@
       "onboard_time": 1702140269,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 141574,
-      "num": 159908,
-      "word": "北京地铁昌平线列车断开",
-      "onboard_time": 1702557161,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141302,
@@ -13331,6 +13395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 115859,
+      "num": 298656,
+      "word": "vivo影棚级人像有多强",
+      "onboard_time": 1702557456,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115645,
       "num": 115645,
       "word": "年内全国超20家老牌百货宣布关门",
@@ -13424,6 +13496,14 @@
       "word": "vivo把东方美学拿捏住了",
       "onboard_time": 1702525834,
       "rank": 23,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 109575,
+      "num": 169765,
+      "word": "人像分两种 蓝厂和其他",
+      "onboard_time": 1702557758,
+      "rank": 48,
       "category": "数码"
     },
     {
@@ -14195,6 +14275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36476,
+      "num": 661880,
+      "word": "长城汽车开放新能源测试平台",
+      "onboard_time": 1702555232,
+      "rank": 14,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 35792,
       "num": 145307,
       "word": "万茜戏里戏外反差感",
@@ -14321,14 +14409,6 @@
       "onboard_time": 1702500914,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28273,
-      "num": 462750,
-      "word": "长城汽车开放新能源测试平台",
-      "onboard_time": 1702555232,
-      "rank": 14,
-      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 28162,

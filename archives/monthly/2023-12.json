@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702557229708,
+  "endTime": 1702558205668,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -379,20 +379,20 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 3338979,
+      "num": 664433,
+      "word": "北京地铁昌平线突发故障",
+      "onboard_time": 1702553673,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3319237,
       "num": 3319237,
       "word": "杨丞琳说河南人爱骗人",
       "onboard_time": 1702186534,
       "rank": 0,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 3309180,
-      "num": 530512,
-      "word": "北京地铁昌平线突发故障",
-      "onboard_time": 1702553673,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3260640,
@@ -3547,6 +3547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 977372,
+      "num": 977372,
+      "word": "脱轨",
+      "onboard_time": 1701444215,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 974864,
       "num": 974864,
       "word": "王楚钦 还打吗",
@@ -3700,7 +3708,7 @@
     },
     {
       "raw_hot": 951276,
-      "num": 383698,
+      "num": 399100,
       "word": "昌平线突发故障正在紧急救援",
       "onboard_time": 1702556559,
       "rank": 20,
@@ -4209,14 +4217,6 @@
       "onboard_time": 1702391664,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859836,
-      "num": 859836,
-      "word": "脱轨",
-      "onboard_time": 1701444215,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 859711,
@@ -4993,6 +4993,14 @@
       "onboard_time": 1702519233,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 755156,
+      "num": 755156,
+      "word": "董宇辉",
+      "onboard_time": 1702557394,
+      "rank": 7,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 754855,
@@ -6084,7 +6092,7 @@
     },
     {
       "raw_hot": 662778,
-      "num": 352648,
+      "num": 354834,
       "word": "北京地铁西二旗站采取封闭措施",
       "onboard_time": 1702556254,
       "rank": 23,
@@ -6897,6 +6905,14 @@
       "onboard_time": 1701697000,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 599616,
+      "num": 599616,
+      "word": "刘浩存 粉底",
+      "onboard_time": 1702557632,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 599397,
@@ -10403,6 +10419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 433957,
+      "num": 433957,
+      "word": "广州一大学生校内突发疾病死亡",
+      "onboard_time": 1702555959,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 433532,
       "num": 433532,
       "word": "男子发女友照片骗男网友九万多",
@@ -13155,6 +13179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359930,
+      "num": 359930,
+      "word": "未成年人休息娱乐偏好游戏仅排第六",
+      "onboard_time": 1702557333,
+      "rank": 21,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 359848,
       "num": 359848,
       "word": "迪亚兹2比1王曼昱",
@@ -13627,6 +13659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348157,
+      "num": 299517,
+      "word": "北京地铁昌平线两节车厢分离",
+      "onboard_time": 1702557517,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348033,
       "num": 348033,
       "word": "宋雨琦现场观战湖人",
@@ -13721,14 +13761,6 @@
       "onboard_time": 1701952059,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 345681,
-      "num": 384031,
-      "word": "广州一大学生校内突发疾病死亡",
-      "onboard_time": 1702555959,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 345315,
@@ -18683,6 +18715,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 262018,
+      "num": 262018,
+      "word": "TheShy 理解大家的不安",
+      "onboard_time": 1702556856,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 262003,
       "num": 262003,
       "word": "真爱的第一征兆是什么",
@@ -18897,6 +18937,14 @@
       "onboard_time": 1701750344,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258817,
+      "num": 258817,
+      "word": "东方小孙称没休息好动作失控摔手机",
+      "onboard_time": 1702557758,
+      "rank": 34,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 258560,
@@ -20219,6 +20267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243260,
+      "num": 243260,
+      "word": "车厢连接处",
+      "onboard_time": 1702557456,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243259,
       "num": 243259,
       "word": "韩国8比5法国",
@@ -21065,6 +21121,14 @@
       "onboard_time": 1702545271,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232971,
+      "num": 220117,
+      "word": "北京地铁昌平线列车断开",
+      "onboard_time": 1702557161,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232893,
@@ -25867,6 +25931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194717,
+      "num": 299924,
+      "word": "金砖一刻行千里",
+      "onboard_time": 1702556915,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194649,
       "num": 194649,
       "word": "成都混团世界杯抽签",
@@ -26163,6 +26235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192855,
+      "num": 192855,
+      "word": "张杰 跨年演唱会",
+      "onboard_time": 1702555834,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192852,
       "num": 192852,
       "word": "张远 风水大师",
@@ -26323,6 +26403,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 191838,
+      "num": 191838,
+      "word": "寒咳 热咳",
+      "onboard_time": 1702556674,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191778,
       "num": 191778,
       "word": "收费员反应迅速10秒挽回30吨纸箱",
@@ -26473,6 +26561,14 @@
       "onboard_time": 1701538581,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190924,
+      "num": 190924,
+      "word": "留着大年三十晚上看",
+      "onboard_time": 1702557333,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 190901,
@@ -27171,14 +27267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187186,
-      "num": 187186,
-      "word": "张杰 跨年演唱会",
-      "onboard_time": 1702555834,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 187165,
       "num": 187165,
       "word": "StrayKids红毯现场",
@@ -27627,14 +27715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184536,
-      "num": 184536,
-      "word": "寒咳 热咳",
-      "onboard_time": 1702556674,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 184472,
       "num": 184472,
       "word": "一闪一闪亮星星片长107分钟",
@@ -27849,14 +27929,6 @@
       "onboard_time": 1702288233,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 182618,
-      "num": 182618,
-      "word": "TheShy 理解大家的不安",
-      "onboard_time": 1702556856,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 182532,
@@ -28843,6 +28915,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 173599,
+      "num": 173599,
+      "word": "北京地铁昌平线事故现场曝光",
+      "onboard_time": 1702558175,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173555,
       "num": 173555,
       "word": "唇膏界爱马仕",
@@ -29345,6 +29425,14 @@
       "onboard_time": 1701692140,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 169461,
+      "num": 169461,
+      "word": "少年之家今早吃什么",
+      "onboard_time": 1702557161,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 169439,
@@ -31699,14 +31787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150725,
-      "num": 150725,
-      "word": "少年之家今早吃什么",
-      "onboard_time": 1702557161,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150694,
       "num": 150694,
       "word": "江苏省考",
@@ -32241,14 +32321,6 @@
       "onboard_time": 1701583954,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146951,
-      "num": 159934,
-      "word": "金砖一刻行千里",
-      "onboard_time": 1702556915,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 146894,
@@ -32953,14 +33025,6 @@
       "onboard_time": 1702140269,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 141574,
-      "num": 159908,
-      "word": "北京地铁昌平线列车断开",
-      "onboard_time": 1702557161,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141447,
@@ -35179,6 +35243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115859,
+      "num": 298656,
+      "word": "vivo影棚级人像有多强",
+      "onboard_time": 1702557456,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115731,
       "num": 175559,
       "word": "林葳41分",
@@ -35449,6 +35521,14 @@
       "onboard_time": 1701969741,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 109575,
+      "num": 169765,
+      "word": "人像分两种 蓝厂和其他",
+      "onboard_time": 1702557758,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 109482,
@@ -37523,6 +37603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 36476,
+      "num": 661880,
+      "word": "长城汽车开放新能源测试平台",
+      "onboard_time": 1702555232,
+      "rank": 14,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 36367,
       "num": 36367,
       "word": "阶段性朋友",
@@ -37785,14 +37873,6 @@
       "onboard_time": 1701587010,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28273,
-      "num": 462750,
-      "word": "长城汽车开放新能源测试平台",
-      "onboard_time": 1702555232,
-      "rank": 14,
-      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 28232,
