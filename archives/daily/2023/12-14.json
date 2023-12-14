@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702520953256,
+  "endTime": 1702521585937,
   "band_list": [
     {
       "raw_hot": 6119816,
@@ -19,6 +19,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1367006,
+      "num": 1367006,
+      "word": "董宇辉改签名",
+      "onboard_time": 1702518514,
+      "rank": 4,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1167983,
       "num": 1167983,
       "word": "董宇辉曾称俞敏洪给的钱挺多已够花了",
@@ -33,14 +41,6 @@
       "onboard_time": 1702514974,
       "rank": 3,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1095881,
-      "num": 1095881,
-      "word": "董宇辉改签名",
-      "onboard_time": 1702518514,
-      "rank": 4,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1016705,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 917678,
+      "num": 917678,
+      "word": "修丽可 邓为",
+      "onboard_time": 1702520013,
+      "rank": 5,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 907396,
       "num": 907396,
       "word": "原来爱情公寓这么前卫",
       "onboard_time": 1702512571,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 872778,
-      "num": 872778,
-      "word": "修丽可 邓为",
-      "onboard_time": 1702520013,
-      "rank": 5,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 862202,
@@ -107,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 732001,
+      "num": 732001,
+      "word": "母亲去世前一晚还给睡着的儿子盖被子",
+      "onboard_time": 1702519233,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 709104,
       "num": 280032,
       "word": "月薪2万到底买不起啥",
@@ -121,14 +129,6 @@
       "onboard_time": 1702475137,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 649295,
-      "num": 649295,
-      "word": "母亲去世前一晚还给睡着的儿子盖被子",
-      "onboard_time": 1702519233,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 647087,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440283,
+      "num": 440283,
+      "word": "教育局回应老师让男生打女生耳光",
+      "onboard_time": 1702518215,
+      "rank": 12,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 431691,
       "num": 233371,
       "word": "王嘉尔 创造营2024导师",
@@ -251,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 384865,
-      "num": 384865,
-      "word": "教育局回应老师让男生打女生耳光",
-      "onboard_time": 1702518215,
-      "rank": 12,
-      "category": "社会新闻,教育"
+      "raw_hot": 400519,
+      "num": 400519,
+      "word": "丫丫雪里打滚变糖霜小熊",
+      "onboard_time": 1702520192,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381126,
@@ -273,6 +281,14 @@
       "onboard_time": 1702516358,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 369198,
+      "num": 369198,
+      "word": "我是p人不是脏人",
+      "onboard_time": 1702520431,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 363005,
@@ -315,20 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320658,
-      "num": 320658,
-      "word": "丫丫雪里打滚变糖霜小熊",
-      "onboard_time": 1702520192,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317247,
       "num": 317247,
       "word": "羽绒服衣领总是蹭到粉底怎么办",
       "onboard_time": 1702512871,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 302556,
+      "num": 302556,
+      "word": "神隐 穿帮",
+      "onboard_time": 1702521033,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 299786,
@@ -371,20 +387,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273422,
+      "num": 273422,
+      "word": "咒术回战 宿傩被判死刑",
+      "onboard_time": 1702518514,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 270157,
       "num": 227844,
       "word": "齐舞空间向宋茜道歉",
       "onboard_time": 1702458272,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269956,
-      "num": 269956,
-      "word": "咒术回战 宿傩被判死刑",
-      "onboard_time": 1702518514,
-      "rank": 19,
-      "category": "动漫"
     },
     {
       "raw_hot": 254501,
@@ -411,12 +427,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245784,
-      "num": 245784,
-      "word": "我是p人不是脏人",
-      "onboard_time": 1702520431,
+      "raw_hot": 237239,
+      "num": 237239,
+      "word": "江苏卫视跨年 阵容",
+      "onboard_time": 1702521153,
       "rank": 22,
-      "category": "幽默"
+      "category": "综艺"
     },
     {
       "raw_hot": 236416,
@@ -475,12 +491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203247,
+      "num": 203247,
+      "word": "勇士天亮了",
+      "onboard_time": 1702521211,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201357,
       "num": 201357,
       "word": "辛芷蕾是不是吃醋了",
       "onboard_time": 1702512271,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200093,
+      "num": 200093,
+      "word": "四六级预测",
+      "onboard_time": 1702520733,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 186889,
@@ -529,6 +561,14 @@
       "onboard_time": 1702512451,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 171909,
+      "num": 171909,
+      "word": "气象部门回应河北人工增雪崩到河南",
+      "onboard_time": 1702521336,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171124,
@@ -625,14 +665,6 @@
       "onboard_time": 1702480056,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152303,
-      "num": 152303,
-      "word": "四六级预测",
-      "onboard_time": 1702520733,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 151622,
@@ -737,6 +769,14 @@
       "onboard_time": 1702497435,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130869,
+      "num": 130869,
+      "word": "胡锡进否认清仓A股",
+      "onboard_time": 1702521452,
+      "rank": 46,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 129075,
