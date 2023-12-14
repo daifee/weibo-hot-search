@@ -1,0 +1,410 @@
+{
+  "runTime": 1702593283839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 428778,
+        "num": 428778,
+        "word": "流星雨",
+        "onboard_time": 1702569630,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204880,
+        "num": 204880,
+        "word": "专家称3000点之下可能一去不复返",
+        "onboard_time": 1702574660,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 13232,
+        "num": 142975,
+        "word": "改革开放45年看湾区",
+        "onboard_time": 1702565617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387626,
+        "num": 140058,
+        "word": "直击北京地铁昌平线事故现场",
+        "onboard_time": 1702571666,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126824,
+        "num": 126824,
+        "word": "三岁宝宝在家自己冲奶粉喝",
+        "onboard_time": 1702567596,
+        "rank": 4,
+        "category": "母婴育儿,社会新闻"
+      },
+      {
+        "raw_hot": 81305,
+        "num": 81305,
+        "word": "仙侠版出轨被抓",
+        "onboard_time": 1702563338,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368110,
+        "num": 78002,
+        "word": "东方甄选回应董宇辉停播",
+        "onboard_time": 1702564177,
+        "rank": 6,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 74303,
+        "num": 74303,
+        "word": "专家称所有工作的本质就是赚工资",
+        "onboard_time": 1702561959,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 70768,
+        "num": 70768,
+        "word": "3男子街头骚扰女子被行政处罚",
+        "onboard_time": 1702578015,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62220,
+        "num": 62220,
+        "word": "刘诗诗 为一念关山改变慢热",
+        "onboard_time": 1702572503,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336515,
+        "num": 61980,
+        "word": "董宇辉 停播",
+        "onboard_time": 1702550196,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 118659,
+        "num": 61905,
+        "word": "北京地铁昌平线突发故障",
+        "onboard_time": 1702553673,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108444,
+        "num": 61605,
+        "word": "刘浩存 粉底",
+        "onboard_time": 1702557632,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246912,
+        "num": 61362,
+        "word": "董宇辉 孟羽童",
+        "onboard_time": 1702551274,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 81402,
+        "num": 60937,
+        "word": "广州一大学生校内突发疾病死亡",
+        "onboard_time": 1702555959,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 77772,
+        "num": 60742,
+        "word": "董明珠怒斥孟羽童",
+        "onboard_time": 1702536334,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 200333,
+        "num": 60478,
+        "word": "董宇辉 现实版新闻女王",
+        "onboard_time": 1702559617,
+        "rank": 16,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 73036,
+        "num": 60391,
+        "word": "上厕所暂停 回来领奖",
+        "onboard_time": 1702548758,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60163,
+        "num": 60163,
+        "word": "赵露思叫王安宇男妈妈",
+        "onboard_time": 1702585934,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102775,
+        "num": 59934,
+        "word": "东方甄选CEO道歉",
+        "onboard_time": 1702551094,
+        "rank": 19,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 144976,
+        "num": 59297,
+        "word": "千禧一代总体死亡率可能上升40%以上",
+        "onboard_time": 1702560578,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127632,
+        "num": 58889,
+        "word": "2胎宝妈直播回应给住院婆婆吃泡面",
+        "onboard_time": 1702573103,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76517,
+        "num": 58304,
+        "word": "俞敏洪声明",
+        "onboard_time": 1702529976,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 58133,
+        "num": 58133,
+        "word": "被男友妈说吃生日蛋糕减寿命",
+        "onboard_time": 1702589774,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44251,
+        "num": 44251,
+        "word": "高途CEO回应与新东方竞争",
+        "onboard_time": 1702564058,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 71090,
+        "num": 43987,
+        "word": "董宇辉",
+        "onboard_time": 1702557394,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 42175,
+        "num": 42175,
+        "word": "双子座流星雨画面",
+        "onboard_time": 1702565017,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41650,
+        "num": 41650,
+        "word": "这可是杜冰雁啊",
+        "onboard_time": 1702560578,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60436,
+        "num": 40368,
+        "word": "董宇辉真实年薪不足千万",
+        "onboard_time": 1702541433,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 38994,
+        "num": 38994,
+        "word": "成毅雪天和粉丝合影",
+        "onboard_time": 1702590074,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35965,
+        "num": 35965,
+        "word": "宁远舟 亦正亦邪",
+        "onboard_time": 1702570831,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56284,
+        "num": 35925,
+        "word": "俞敏洪面临CEO董宇辉二选一",
+        "onboard_time": 1702534953,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 35874,
+        "num": 35874,
+        "word": "董明珠 格局",
+        "onboard_time": 1702549533,
+        "rank": 32,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 32878,
+        "num": 32878,
+        "word": "董宇辉不方便回应东方甄选二选一",
+        "onboard_time": 1702536033,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 39385,
+        "num": 32710,
+        "word": "董宇辉小作文",
+        "onboard_time": 1702556137,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 31087,
+        "num": 31087,
+        "word": "迪丽热巴 迪士尼公主行为",
+        "onboard_time": 1702565676,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30927,
+        "num": 30927,
+        "word": "减大小腿赘肉",
+        "onboard_time": 1702568791,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 29214,
+        "num": 29214,
+        "word": "美团饿了么回应商家乱收打包费",
+        "onboard_time": 1702582754,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 28969,
+        "num": 28969,
+        "word": "张若昀在哇唧唧哇群里发红包",
+        "onboard_time": 1702559918,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27874,
+        "num": 27874,
+        "word": "太原一上学路人均安陵容",
+        "onboard_time": 1702582095,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 21706,
+        "num": 27862,
+        "word": "黑执事 永远漂亮的少爷",
+        "onboard_time": 1702567654,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21356,
+        "num": 27856,
+        "word": "王安宇赵露思 陌生人给我糖",
+        "onboard_time": 1702559797,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21009,
+        "num": 27846,
+        "word": "赵昭仪画的迪丽热巴",
+        "onboard_time": 1702570230,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20894,
+        "num": 27835,
+        "word": "孟羽童 王自如",
+        "onboard_time": 1702549116,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20649,
+        "num": 27818,
+        "word": "这样瘦小肚子果然有用",
+        "onboard_time": 1702585153,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 19846,
+        "num": 27808,
+        "word": "超模瘦脸操",
+        "onboard_time": 1702587373,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 17607,
+        "num": 27789,
+        "word": "FIFA年度最佳球员候选名单",
+        "onboard_time": 1702574720,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17484,
+        "num": 27773,
+        "word": "东京动画奖 国产动画入围",
+        "onboard_time": 1702584374,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 17408,
+        "num": 27770,
+        "word": "东北老板都这样吗",
+        "onboard_time": 1702589119,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17386,
+        "num": 27755,
+        "word": "人民网评周海媚病历被泄露",
+        "onboard_time": 1702542032,
+        "rank": 49,
+        "category": "艺人,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广西南宁考察调研#"
+    }
+  }
+}
