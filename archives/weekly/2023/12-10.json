@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702542139132,
+  "endTime": 1702542949770,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -241,6 +241,14 @@
       "onboard_time": 1702255415,
       "rank": 0,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 2655787,
+      "num": 2655787,
+      "word": "董宇辉真实年薪不足千万",
+      "onboard_time": 1702541433,
+      "rank": 10,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 2598822,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1702196495,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1082119,
-      "num": 515590,
-      "word": "董宇辉真实年薪不足千万",
-      "onboard_time": 1702541433,
-      "rank": 10,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1079805,
@@ -2115,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 685090,
+      "num": 685090,
+      "word": "人民网评周海媚病历被泄露",
+      "onboard_time": 1702542032,
+      "rank": 33,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 685045,
       "num": 685045,
       "word": "外籍旅客优先登机致一女子滞留机场",
@@ -2996,7 +3004,7 @@
     },
     {
       "raw_hot": 504096,
-      "num": 518058,
+      "num": 549672,
       "word": "警方公布赴美见男网友中国女子死因",
       "onboard_time": 1702537357,
       "rank": 16,
@@ -5131,6 +5139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312947,
+      "num": 312947,
+      "word": "脱轨",
+      "onboard_time": 1702542032,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312619,
       "num": 312619,
       "word": "为什么毕业后不爱发朋友圈了",
@@ -5803,6 +5819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278492,
+      "num": 278492,
+      "word": "董思成 小辫子",
+      "onboard_time": 1702542514,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278397,
       "num": 278397,
       "word": "神隐",
@@ -6067,6 +6091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269570,
+      "num": 269570,
+      "word": "螺蛳粉热红酒鸳鸯锅",
+      "onboard_time": 1702542395,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 268427,
       "num": 268427,
       "word": "何猷君给台阶就下",
@@ -6096,6 +6128,14 @@
       "word": "王俊凯新歌红蓝战歌",
       "onboard_time": 1702178433,
       "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 267394,
+      "num": 267394,
+      "word": "姚琛喊话方灿",
+      "onboard_time": 1702541914,
+      "rank": 26,
       "category": "音乐"
     },
     {
@@ -7187,14 +7227,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 232170,
-      "num": 232170,
-      "word": "姚琛喊话方灿",
-      "onboard_time": 1702541914,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 231863,
       "num": 231863,
       "word": "河北人工增雪",
@@ -7545,6 +7577,14 @@
       "onboard_time": 1702374995,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223300,
+      "num": 223300,
+      "word": "夫妻打游戏被妈妈开门声吓得切屏",
+      "onboard_time": 1702541914,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222952,
@@ -7995,14 +8035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211052,
-      "num": 211052,
-      "word": "人民网评周海媚病历被泄露",
-      "onboard_time": 1702542032,
-      "rank": 33,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 210655,
       "num": 210655,
       "word": "Meiko EDG是我永远的家",
@@ -8089,14 +8121,6 @@
       "onboard_time": 1702444180,
       "rank": 32,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 208802,
-      "num": 208802,
-      "word": "脱轨",
-      "onboard_time": 1702542032,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 208719,
@@ -8449,6 +8473,14 @@
       "onboard_time": 1702439559,
       "rank": 39,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 203141,
+      "num": 203141,
+      "word": "WTT个人照",
+      "onboard_time": 1702542633,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 203072,
@@ -9459,6 +9491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 186322,
+      "num": 204294,
+      "word": "济南下雪",
+      "onboard_time": 1702542274,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186295,
       "num": 186295,
       "word": "邓紫棋广州场结束",
@@ -10081,6 +10121,14 @@
       "onboard_time": 1702528118,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174539,
+      "num": 174539,
+      "word": "东方甄选CEO曾称薪酬是个人隐私",
+      "onboard_time": 1702542695,
+      "rank": 42,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 174538,
@@ -12811,14 +12859,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 97010,
-      "num": 184899,
-      "word": "夫妻打游戏被妈妈开门声吓得切屏",
-      "onboard_time": 1702541914,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96518,
       "num": 96518,
       "word": "颖儿神隐出场镜头",
@@ -13411,6 +13451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42960,
+      "num": 219591,
+      "word": "元梦之星送的太多了",
+      "onboard_time": 1702541559,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 42575,
       "num": 182160,
       "word": "泰国人都爱开什么车",
@@ -13425,14 +13473,6 @@
       "onboard_time": 1702436438,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40729,
-      "num": 219591,
-      "word": "元梦之星送的太多了",
-      "onboard_time": 1702541559,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 40312,
@@ -13529,6 +13569,14 @@
       "onboard_time": 1702403000,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 32199,
+      "num": 1873206,
+      "word": "宝藏县城个个身怀绝技",
+      "onboard_time": 1702541972,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31419,
@@ -13760,14 +13808,6 @@
       "word": "90后残疾拾荒者资助学生上学",
       "onboard_time": 1702157593,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9503,
-      "num": 1525751,
-      "word": "宝藏县城个个身怀绝技",
-      "onboard_time": 1702541972,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
