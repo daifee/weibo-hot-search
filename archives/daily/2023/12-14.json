@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702560980366,
+  "endTime": 1702563444155,
   "band_list": [
     {
       "raw_hot": 7710186,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2059220,
+      "num": 474727,
+      "word": "董宇辉 现实版新闻女王",
+      "onboard_time": 1702559617,
+      "rank": 35,
+      "category": "互联网,剧集"
+    },
+    {
       "raw_hot": 2029628,
       "num": 2029628,
       "word": "女子长期穿光腿神器导致迈不开腿",
@@ -145,6 +153,14 @@
       "onboard_time": 1702526433,
       "rank": 3,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1607080,
+      "num": 408014,
+      "word": "昌平线故障已发现30余人受伤",
+      "onboard_time": 1702561177,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1523014,
@@ -235,19 +251,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 965747,
-      "num": 341961,
-      "word": "董宇辉 现实版新闻女王",
-      "onboard_time": 1702559617,
-      "rank": 35,
-      "category": "互联网,剧集"
-    },
-    {
       "raw_hot": 951276,
       "num": 531701,
       "word": "昌平线突发故障正在紧急救援",
       "onboard_time": 1702556559,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 948546,
+      "num": 374254,
+      "word": "千禧一代总体死亡率可能上升40%以上",
+      "onboard_time": 1702560578,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -667,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488122,
+      "num": 488122,
+      "word": "这可是杜冰雁啊",
+      "onboard_time": 1702560578,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481163,
       "num": 237538,
       "word": "刚开始只是逃水课",
@@ -771,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 438760,
+      "num": 438760,
+      "word": "专家称所有工作的本质就是赚工资",
+      "onboard_time": 1702561959,
+      "rank": 8,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 431691,
       "num": 233371,
       "word": "王嘉尔 创造营2024导师",
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 381897,
-      "num": 327272,
+      "num": 374342,
       "word": "张若昀在哇唧唧哇群里发红包",
       "onboard_time": 1702559918,
       "rank": 33,
@@ -976,6 +1008,14 @@
       "word": "赵一博回家",
       "onboard_time": 1702511428,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 345312,
+      "num": 345312,
+      "word": "毛晓彤 观众喜爱女演员",
+      "onboard_time": 1702561776,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -1179,14 +1219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 281421,
-      "num": 281421,
-      "word": "这可是杜冰雁啊",
-      "onboard_time": 1702560578,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280454,
       "num": 280454,
       "word": "AAA颁奖礼红毯",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1702539276,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276005,
+      "num": 276005,
+      "word": "留着大年三十晚上看",
+      "onboard_time": 1702557333,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 274007,
@@ -1265,14 +1305,6 @@
       "onboard_time": 1702458272,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270015,
-      "num": 270015,
-      "word": "留着大年三十晚上看",
-      "onboard_time": 1702557333,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 269570,
@@ -1459,14 +1491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239519,
-      "num": 239519,
-      "word": "千禧一代总体死亡率可能上升40%以上",
-      "onboard_time": 1702560578,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236416,
       "num": 236416,
       "word": "济南 雪呢",
@@ -1515,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229366,
+      "num": 229366,
+      "word": "韩味口红",
+      "onboard_time": 1702561716,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 228414,
       "num": 228414,
       "word": "AAA获奖名单",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1702533992,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226890,
+      "num": 220681,
+      "word": "昌平线车辆故障造成乘客受伤",
+      "onboard_time": 1702561420,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 226344,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1702522111,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219774,
+      "num": 219774,
+      "word": "赵露思接神隐的原因",
+      "onboard_time": 1702563218,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 219559,
@@ -1763,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203189,
+      "num": 203189,
+      "word": "文俊辉 保持热爱继续突破",
+      "onboard_time": 1702562859,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203141,
       "num": 203141,
       "word": "WTT个人照",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1702520733,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199379,
+      "num": 199379,
+      "word": "ITZY AAA舞台",
+      "onboard_time": 1702562677,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 199226,
@@ -2099,6 +2163,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 182230,
+      "num": 182230,
+      "word": "仙侠版出轨被抓",
+      "onboard_time": 1702563338,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181541,
       "num": 181541,
       "word": "你在意奶茶茶底好坏吗",
@@ -2259,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170959,
+      "num": 170959,
+      "word": "华天崎还原娜扎妆容",
+      "onboard_time": 1702563160,
+      "rank": 46,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 170514,
       "num": 170514,
       "word": "瓶装闪电 职场发疯关系",
@@ -2273,6 +2353,14 @@
       "onboard_time": 1702557161,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169186,
+      "num": 169186,
+      "word": "阿音 我爱他他爱她",
+      "onboard_time": 1702562859,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 168661,
@@ -2353,6 +2441,14 @@
       "onboard_time": 1702514133,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 161405,
+      "num": 161405,
+      "word": "红薯的减肥吃法",
+      "onboard_time": 1702563160,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161125,
@@ -3181,6 +3277,9 @@
     },
     {
       "word": "#从发展数据读懂中国信心#"
+    },
+    {
+      "word": "#习近平在广西南宁考察调研#"
     }
   ]
 }
