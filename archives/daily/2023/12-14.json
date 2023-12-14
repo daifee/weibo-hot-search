@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702545458004,
+  "endTime": 1702546455686,
   "band_list": [
     {
       "raw_hot": 7710186,
@@ -43,6 +43,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 2342369,
+      "num": 2342369,
+      "word": "清华大学称已对张培萌进行处分",
+      "onboard_time": 1702544195,
+      "rank": 3,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 2195683,
       "num": 2195683,
       "word": "重庆地震",
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1862186,
+      "num": 464941,
+      "word": "刘宇宁 这一次我不反抗",
+      "onboard_time": 1702543358,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1802549,
       "num": 1802549,
       "word": "董宇辉改签名",
@@ -83,14 +99,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1582159,
-      "num": 464941,
-      "word": "刘宇宁 这一次我不反抗",
-      "onboard_time": 1702543358,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1523014,
       "num": 1523014,
       "word": "酱园弄声明",
@@ -105,14 +113,6 @@
       "onboard_time": 1702524752,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1394050,
-      "num": 1394050,
-      "word": "清华大学称已对张培萌进行处分",
-      "onboard_time": 1702544195,
-      "rank": 3,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1167983,
@@ -555,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437088,
+      "num": 437088,
+      "word": "迪丽热巴跳TOPLINE",
+      "onboard_time": 1702545093,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431691,
       "num": 233371,
       "word": "王嘉尔 创造营2024导师",
@@ -585,6 +593,14 @@
       "onboard_time": 1702528118,
       "rank": 29,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 407509,
+      "num": 407509,
+      "word": "张培萌",
+      "onboard_time": 1702545394,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 400519,
@@ -649,6 +665,14 @@
       "onboard_time": 1702509624,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 360929,
+      "num": 360929,
+      "word": "霉霉大电影定档",
+      "onboard_time": 1702545633,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 356962,
@@ -1059,14 +1083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244634,
-      "num": 244634,
-      "word": "迪丽热巴跳TOPLINE",
-      "onboard_time": 1702545093,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236416,
       "num": 236416,
       "word": "济南 雪呢",
@@ -1075,20 +1091,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234661,
+      "num": 234661,
+      "word": "董宇辉曾回应被去董宇辉化",
+      "onboard_time": 1702542997,
+      "rank": 26,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 233191,
+      "num": 233191,
+      "word": "张栋梁跳科目三",
+      "onboard_time": 1702545271,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231863,
       "num": 231863,
       "word": "河北人工增雪",
       "onboard_time": 1702525413,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229382,
-      "num": 229382,
-      "word": "董宇辉曾回应被去董宇辉化",
-      "onboard_time": 1702542997,
-      "rank": 26,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 228248,
@@ -1195,12 +1219,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 213917,
+      "num": 213917,
+      "word": "杨超越 月亮警察",
+      "onboard_time": 1702544735,
+      "rank": 30,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 212696,
       "num": 212696,
       "word": "姚琛AAA获奖感言",
       "onboard_time": 1702540176,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211449,
+      "num": 211449,
+      "word": "鸿蒙系统即将走向独立",
+      "onboard_time": 1702544914,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 209353,
@@ -1211,12 +1251,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208319,
-      "num": 200912,
-      "word": "杨超越 月亮警察",
-      "onboard_time": 1702544735,
-      "rank": 30,
-      "category": "综艺,美妆"
+      "raw_hot": 205678,
+      "num": 205678,
+      "word": "眉笔换成浅棕色",
+      "onboard_time": 1702545813,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 204743,
@@ -1371,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191277,
+      "num": 191277,
+      "word": "姚琛的cody配享太庙",
+      "onboard_time": 1702545512,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190748,
       "num": 190748,
       "word": "雪天和陌生人合拍舞蹈",
@@ -1475,6 +1523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180322,
+      "num": 180322,
+      "word": "天杀的wvs 老子要报警抓你",
+      "onboard_time": 1702546236,
+      "rank": 36,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 180319,
       "num": 180319,
       "word": "周深宋雨琦 她逃他追",
@@ -1504,6 +1560,14 @@
       "word": "董宇辉称不要以饭圈名义污名化任何人",
       "onboard_time": 1702470332,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178058,
+      "num": 178058,
+      "word": "北京首套房首付比例降至3成",
+      "onboard_time": 1702546236,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1537,14 +1601,6 @@
       "onboard_time": 1702530633,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175985,
-      "num": 175985,
-      "word": "张栋梁跳科目三",
-      "onboard_time": 1702545271,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 174694,
@@ -1611,14 +1667,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 169415,
-      "num": 169415,
-      "word": "鸿蒙系统即将走向独立",
-      "onboard_time": 1702544914,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 168661,
       "num": 168661,
       "word": "原来地震时地面会裂开又合上",
@@ -1633,6 +1681,14 @@
       "onboard_time": 1702516656,
       "rank": 35,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 167939,
+      "num": 167939,
+      "word": "雷鸣原生家庭",
+      "onboard_time": 1702545756,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 164882,
@@ -1657,14 +1713,6 @@
       "onboard_time": 1702523371,
       "rank": 30,
       "category": "数码,汽车"
-    },
-    {
-      "raw_hot": 163286,
-      "num": 163286,
-      "word": "张培萌",
-      "onboard_time": 1702545394,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 163218,
@@ -1931,6 +1979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133872,
+      "num": 133872,
+      "word": "女生堆的雪狗逐渐神化",
+      "onboard_time": 1702546413,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133212,
       "num": 133212,
       "word": "马景涛怀念周海媚",
@@ -2179,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82548,
+      "num": 1916066,
+      "word": "宝藏县城个个身怀绝技",
+      "onboard_time": 1702541972,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80830,
       "num": 80830,
       "word": "辛芷蕾闭眼选和秦岚都是一对",
@@ -2211,14 +2275,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 73465,
-      "num": 1916066,
-      "word": "宝藏县城个个身怀绝技",
-      "onboard_time": 1702541972,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72562,
       "num": 92676,
       "word": "南京城沦陷前是什么样",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1702509925,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 67154,
+      "num": 385745,
+      "word": "时代少年团首个游戏代言",
+      "onboard_time": 1702544433,
+      "rank": 14,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 64203,
@@ -2329,14 +2393,6 @@
       "onboard_time": 1702522711,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37171,
-      "num": 373595,
-      "word": "时代少年团首个游戏代言",
-      "onboard_time": 1702544433,
-      "rank": 14,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 35300,

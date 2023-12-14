@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702545458004,
+  "endTime": 1702546455686,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2342369,
+      "num": 2342369,
+      "word": "清华大学称已对张培萌进行处分",
+      "onboard_time": 1702544195,
+      "rank": 3,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 2341092,
       "num": 613674,
       "word": "TFBOYS你们敢耍老子",
@@ -1371,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1862186,
+      "num": 464941,
+      "word": "刘宇宁 这一次我不反抗",
+      "onboard_time": 1702543358,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1860037,
       "num": 1147878,
       "word": "五月天直播",
@@ -1867,14 +1883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1582159,
-      "num": 464941,
-      "word": "刘宇宁 这一次我不反抗",
-      "onboard_time": 1702543358,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1581016,
       "num": 1581016,
       "word": "丁程鑫 中考",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1701596433,
       "rank": 5,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 1394050,
-      "num": 1394050,
-      "word": "清华大学称已对张培萌进行处分",
-      "onboard_time": 1702544195,
-      "rank": 3,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1381895,
@@ -10123,6 +10123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 437088,
+      "num": 437088,
+      "word": "迪丽热巴跳TOPLINE",
+      "onboard_time": 1702545093,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436853,
       "num": 436853,
       "word": "一闪一闪亮星星",
@@ -11169,6 +11177,14 @@
       "onboard_time": 1701742292,
       "rank": 18,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 407509,
+      "num": 407509,
+      "word": "张培萌",
+      "onboard_time": 1702545394,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 406994,
@@ -12929,6 +12945,14 @@
       "onboard_time": 1701939942,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360929,
+      "num": 360929,
+      "word": "霉霉大电影定档",
+      "onboard_time": 1702545633,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 360883,
@@ -19859,14 +19883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244634,
-      "num": 244634,
-      "word": "迪丽热巴跳TOPLINE",
-      "onboard_time": 1702545093,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244529,
       "num": 244529,
       "word": "鸣龙少年",
@@ -20667,6 +20683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234661,
+      "num": 234661,
+      "word": "董宇辉曾回应被去董宇辉化",
+      "onboard_time": 1702542997,
+      "rank": 26,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 234605,
       "num": 234605,
       "word": "歌词适配APP宣布永久下架",
@@ -20817,6 +20841,14 @@
       "onboard_time": 1702215339,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233191,
+      "num": 233191,
+      "word": "张栋梁跳科目三",
+      "onboard_time": 1702545271,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 232893,
@@ -21217,14 +21249,6 @@
       "onboard_time": 1701681456,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 229382,
-      "num": 229382,
-      "word": "董宇辉曾回应被去董宇辉化",
-      "onboard_time": 1702542997,
-      "rank": 26,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 229333,
@@ -22771,6 +22795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213917,
+      "num": 213917,
+      "word": "杨超越 月亮警察",
+      "onboard_time": 1702544735,
+      "rank": 30,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 213775,
       "num": 213775,
       "word": "赵文卓惩罚学员很像教导主任",
@@ -23001,6 +23033,14 @@
       "onboard_time": 1702437156,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211449,
+      "num": 211449,
+      "word": "鸿蒙系统即将走向独立",
+      "onboard_time": 1702544914,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 211417,
@@ -23451,14 +23491,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 208319,
-      "num": 200912,
-      "word": "杨超越 月亮警察",
-      "onboard_time": 1702544735,
-      "rank": 30,
-      "category": "综艺,美妆"
-    },
-    {
       "raw_hot": 208266,
       "num": 208266,
       "word": "刘宇翻跳sweetvenom",
@@ -23793,6 +23825,14 @@
       "onboard_time": 1701441036,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205678,
+      "num": 205678,
+      "word": "眉笔换成浅棕色",
+      "onboard_time": 1702545813,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 205662,
@@ -26043,6 +26083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191277,
+      "num": 191277,
+      "word": "姚琛的cody配享太庙",
+      "onboard_time": 1702545512,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191274,
       "num": 191274,
       "word": "我知道她在为什么哭",
@@ -27651,6 +27699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180322,
+      "num": 180322,
+      "word": "天杀的wvs 老子要报警抓你",
+      "onboard_time": 1702546236,
+      "rank": 36,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 180319,
       "num": 180319,
       "word": "周深宋雨琦 她逃他追",
@@ -27857,6 +27913,14 @@
       "onboard_time": 1702193552,
       "rank": 49,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 178058,
+      "num": 178058,
+      "word": "北京首套房首付比例降至3成",
+      "onboard_time": 1702546236,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178037,
@@ -28073,14 +28137,6 @@
       "onboard_time": 1701703954,
       "rank": 44,
       "category": "演出,社会新闻"
-    },
-    {
-      "raw_hot": 175985,
-      "num": 175985,
-      "word": "张栋梁跳科目三",
-      "onboard_time": 1702545271,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 175980,
@@ -28907,14 +28963,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 169415,
-      "num": 169415,
-      "word": "鸿蒙系统即将走向独立",
-      "onboard_time": 1702544914,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 169386,
       "num": 163915,
       "word": "星光大赏吃百家饭",
@@ -29113,6 +29161,14 @@
       "onboard_time": 1702017036,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167939,
+      "num": 167939,
+      "word": "雷鸣原生家庭",
+      "onboard_time": 1702545756,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 167824,
@@ -29681,14 +29737,6 @@
       "onboard_time": 1702212278,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163286,
-      "num": 163286,
-      "word": "张培萌",
-      "onboard_time": 1702545394,
-      "rank": 44,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 163270,
@@ -33307,6 +33355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133872,
+      "num": 133872,
+      "word": "女生堆的雪狗逐渐神化",
+      "onboard_time": 1702546413,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133788,
       "num": 133788,
       "word": "C罗第八次年度50球",
@@ -35715,6 +35771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82548,
+      "num": 1916066,
+      "word": "宝藏县城个个身怀绝技",
+      "onboard_time": 1702541972,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82307,
       "num": 82307,
       "word": "秦昊 苏醒是已淘汰男团成员",
@@ -35971,14 +36035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73465,
-      "num": 1916066,
-      "word": "宝藏县城个个身怀绝技",
-      "onboard_time": 1702541972,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72921,
       "num": 72921,
       "word": "现代汽车高管称永远比中国车更高端",
@@ -36129,6 +36185,14 @@
       "onboard_time": 1702086690,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67154,
+      "num": 385745,
+      "word": "时代少年团首个游戏代言",
+      "onboard_time": 1702544433,
+      "rank": 14,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 66581,
@@ -36961,14 +37025,6 @@
       "onboard_time": 1702522711,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37171,
-      "num": 373595,
-      "word": "时代少年团首个游戏代言",
-      "onboard_time": 1702544433,
-      "rank": 14,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 37064,
