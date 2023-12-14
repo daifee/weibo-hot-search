@@ -1,0 +1,410 @@
+{
+  "runTime": 1702545458004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6075683,
+        "num": 6075683,
+        "word": "董明珠怒斥孟羽童",
+        "onboard_time": 1702536334,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 3249204,
+        "num": 3249204,
+        "word": "董宇辉真实年薪不足千万",
+        "onboard_time": 1702541433,
+        "rank": 1,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 73465,
+        "num": 1916066,
+        "word": "宝藏县城个个身怀绝技",
+        "onboard_time": 1702541972,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394050,
+        "num": 1394050,
+        "word": "清华大学称已对张培萌进行处分",
+        "onboard_time": 1702544195,
+        "rank": 3,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1019458,
+        "num": 1019458,
+        "word": "短跑名将张培萌因殴打岳母被行拘",
+        "onboard_time": 1702543832,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1017680,
+        "num": 1017680,
+        "word": "酱园弄声明",
+        "onboard_time": 1702536935,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 859653,
+        "num": 859653,
+        "word": "俞敏洪声明",
+        "onboard_time": 1702529976,
+        "rank": 6,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 516406,
+        "num": 516406,
+        "word": "张若昀 是我不要脸了",
+        "onboard_time": 1702537957,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489403,
+        "num": 489403,
+        "word": "人民网评周海媚病历被泄露",
+        "onboard_time": 1702542032,
+        "rank": 8,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 483231,
+        "num": 483231,
+        "word": "周末补觉危害比熬夜还大",
+        "onboard_time": 1702537113,
+        "rank": 9,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 1582159,
+        "num": 464941,
+        "word": "刘宇宁 这一次我不反抗",
+        "onboard_time": 1702543358,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 976807,
+        "num": 451641,
+        "word": "俞敏洪面临CEO董宇辉二选一",
+        "onboard_time": 1702534953,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 424799,
+        "num": 424799,
+        "word": "东方甄选小作文",
+        "onboard_time": 1702530815,
+        "rank": 12,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 401210,
+        "num": 401210,
+        "word": "文俊辉 请拍鬼怪",
+        "onboard_time": 1702539213,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37171,
+        "num": 373595,
+        "word": "时代少年团首个游戏代言",
+        "onboard_time": 1702544433,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 356962,
+        "num": 356962,
+        "word": "成毅红毯舞剑",
+        "onboard_time": 1702543895,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347164,
+        "num": 347164,
+        "word": "东方甄选小编 职业精神",
+        "onboard_time": 1702533213,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 301164,
+        "num": 301164,
+        "word": "董宇辉不方便回应东方甄选二选一",
+        "onboard_time": 1702536033,
+        "rank": 17,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 300744,
+        "num": 300744,
+        "word": "女子长期穿光腿神器导致迈不开腿",
+        "onboard_time": 1702524871,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289737,
+        "num": 289737,
+        "word": "故宫的猫出来玩雪了",
+        "onboard_time": 1702534233,
+        "rank": 19,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 304419,
+        "num": 288510,
+        "word": "小伙刮中100万拔腿就跑了",
+        "onboard_time": 1702533031,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250573,
+        "num": 250573,
+        "word": "律师称郑爽如有能力却不执行最高判7年",
+        "onboard_time": 1702526433,
+        "rank": 21,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 244634,
+        "num": 244634,
+        "word": "迪丽热巴跳TOPLINE",
+        "onboard_time": 1702545093,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236802,
+        "num": 236802,
+        "word": "脱轨",
+        "onboard_time": 1702542032,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235222,
+        "num": 235222,
+        "word": "1人泄露周海媚病历被行拘",
+        "onboard_time": 1702516233,
+        "rank": 24,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 233596,
+        "num": 233596,
+        "word": "董思成 小辫子",
+        "onboard_time": 1702542514,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229382,
+        "num": 229382,
+        "word": "董宇辉曾回应被去董宇辉化",
+        "onboard_time": 1702542997,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 225510,
+        "num": 225510,
+        "word": "理发店洗头",
+        "onboard_time": 1702543595,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 224989,
+        "num": 224989,
+        "word": "易烊千玺进组酱园弄",
+        "onboard_time": 1702536633,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205829,
+        "num": 205829,
+        "word": "夫妻打游戏被妈妈开门声吓得切屏",
+        "onboard_time": 1702541914,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208319,
+        "num": 200912,
+        "word": "杨超越 月亮警察",
+        "onboard_time": 1702544735,
+        "rank": 30,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 194958,
+        "num": 194958,
+        "word": "大饼 梦想",
+        "onboard_time": 1702544256,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 193390,
+        "num": 193390,
+        "word": "李斌回应蔚来精简人员",
+        "onboard_time": 1702544374,
+        "rank": 32,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 190503,
+        "num": 190503,
+        "word": "AAA颁奖礼",
+        "onboard_time": 1702538014,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184665,
+        "num": 184665,
+        "word": "什么才是对董宇辉真正的爱护",
+        "onboard_time": 1702545213,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 181541,
+        "num": 181541,
+        "word": "你在意奶茶茶底好坏吗",
+        "onboard_time": 1702543595,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180319,
+        "num": 180319,
+        "word": "周深宋雨琦 她逃他追",
+        "onboard_time": 1702544137,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177461,
+        "num": 177461,
+        "word": "男子小料加太多遭店家辱骂追打",
+        "onboard_time": 1702532556,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175985,
+        "num": 175985,
+        "word": "张栋梁跳科目三",
+        "onboard_time": 1702545271,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166652,
+        "num": 175193,
+        "word": "警方公布赴美见男网友中国女子死因",
+        "onboard_time": 1702537357,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174574,
+        "num": 174574,
+        "word": "水鬼猖狂 切勿下水",
+        "onboard_time": 1702536516,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169415,
+        "num": 169415,
+        "word": "鸿蒙系统即将走向独立",
+        "onboard_time": 1702544914,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164986,
+        "num": 164986,
+        "word": "赵昭仪 人没醒但妆不能花",
+        "onboard_time": 1702531176,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164882,
+        "num": 164882,
+        "word": "董明珠称钱是奋斗的结果",
+        "onboard_time": 1702543653,
+        "rank": 43,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 163286,
+        "num": 163286,
+        "word": "张培萌",
+        "onboard_time": 1702545394,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 162181,
+        "num": 162181,
+        "word": "那些长期喝咖啡的人都怎么样了",
+        "onboard_time": 1702528175,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159308,
+        "num": 159308,
+        "word": "东方甄选CEO直播开会摔手机",
+        "onboard_time": 1702530217,
+        "rank": 46,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 159126,
+        "num": 159126,
+        "word": "江西省财政厅辟谣公务员将集体降薪",
+        "onboard_time": 1702540357,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149168,
+        "num": 149168,
+        "word": "东方甄选 内讧",
+        "onboard_time": 1702510708,
+        "rank": 48,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 145455,
+        "num": 145455,
+        "word": "东方小孙",
+        "onboard_time": 1702531592,
+        "rank": 49,
+        "category": "互联网,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越两党两国关系新定位的深刻内涵#"
+    }
+  }
+}

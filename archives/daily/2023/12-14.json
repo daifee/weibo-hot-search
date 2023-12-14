@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702542949770,
+  "endTime": 1702545458004,
   "band_list": [
     {
       "raw_hot": 7710186,
@@ -27,19 +27,19 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 3249204,
+      "num": 3249204,
+      "word": "董宇辉真实年薪不足千万",
+      "onboard_time": 1702541433,
+      "rank": 10,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 2695178,
       "num": 2695178,
       "word": "东方甄选 内讧",
       "onboard_time": 1702510708,
       "rank": 0,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 2655787,
-      "num": 2655787,
-      "word": "董宇辉真实年薪不足千万",
-      "onboard_time": 1702541433,
-      "rank": 10,
       "category": "互联网,社会新闻"
     },
     {
@@ -83,6 +83,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1582159,
+      "num": 464941,
+      "word": "刘宇宁 这一次我不反抗",
+      "onboard_time": 1702543358,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1523014,
       "num": 1523014,
       "word": "酱园弄声明",
@@ -99,6 +107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1394050,
+      "num": 1394050,
+      "word": "清华大学称已对张培萌进行处分",
+      "onboard_time": 1702544195,
+      "rank": 3,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 1167983,
       "num": 1167983,
       "word": "董宇辉曾称俞敏洪给的钱挺多已够花了",
@@ -113,6 +129,14 @@
       "onboard_time": 1702514974,
       "rank": 3,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 1019458,
+      "num": 1019458,
+      "word": "短跑名将张培萌因殴打岳母被行拘",
+      "onboard_time": 1702543832,
+      "rank": 4,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1016705,
@@ -627,6 +651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 356962,
+      "num": 356962,
+      "word": "成毅红毯舞剑",
+      "onboard_time": 1702543895,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352472,
       "num": 352472,
       "word": "北京的雪",
@@ -1027,6 +1059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244634,
+      "num": 244634,
+      "word": "迪丽热巴跳TOPLINE",
+      "onboard_time": 1702545093,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236416,
       "num": 236416,
       "word": "济南 雪呢",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1702525413,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229382,
+      "num": 229382,
+      "word": "董宇辉曾回应被去董宇辉化",
+      "onboard_time": 1702542997,
+      "rank": 26,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 228248,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1702479458,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 225510,
+      "num": 225510,
+      "word": "理发店洗头",
+      "onboard_time": 1702543595,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 224997,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1702529857,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208319,
+      "num": 200912,
+      "word": "杨超越 月亮警察",
+      "onboard_time": 1702544735,
+      "rank": 30,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 204743,
@@ -1259,6 +1323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 194958,
+      "num": 194958,
+      "word": "大饼 梦想",
+      "onboard_time": 1702544256,
+      "rank": 31,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 194896,
       "num": 194896,
       "word": "东方甄选和董宇辉谁离不开谁",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1702521932,
       "rank": 35,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 193390,
+      "num": 193390,
+      "word": "李斌回应蔚来精简人员",
+      "onboard_time": 1702544374,
+      "rank": 32,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 191912,
@@ -1363,6 +1443,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 184665,
+      "num": 184665,
+      "word": "什么才是对董宇辉真正的爱护",
+      "onboard_time": 1702545213,
+      "rank": 34,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 184136,
       "num": 184136,
       "word": "相亲快十年还没嫁出去",
@@ -1377,6 +1465,22 @@
       "onboard_time": 1702440397,
       "rank": 17,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 181541,
+      "num": 181541,
+      "word": "你在意奶茶茶底好坏吗",
+      "onboard_time": 1702543595,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 180319,
+      "num": 180319,
+      "word": "周深宋雨琦 她逃他追",
+      "onboard_time": 1702544137,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 179692,
@@ -1433,6 +1537,14 @@
       "onboard_time": 1702530633,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175985,
+      "num": 175985,
+      "word": "张栋梁跳科目三",
+      "onboard_time": 1702545271,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 174694,
@@ -1499,6 +1611,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 169415,
+      "num": 169415,
+      "word": "鸿蒙系统即将走向独立",
+      "onboard_time": 1702544914,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 168661,
       "num": 168661,
       "word": "原来地震时地面会裂开又合上",
@@ -1515,6 +1635,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 164882,
+      "num": 164882,
+      "word": "董明珠称钱是奋斗的结果",
+      "onboard_time": 1702543653,
+      "rank": 43,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 164137,
       "num": 164137,
       "word": "东方甄选CEO回应小作文事件",
@@ -1529,6 +1657,14 @@
       "onboard_time": 1702523371,
       "rank": 30,
       "category": "数码,汽车"
+    },
+    {
+      "raw_hot": 163286,
+      "num": 163286,
+      "word": "张培萌",
+      "onboard_time": 1702545394,
+      "rank": 44,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 163218,
@@ -2075,6 +2211,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 73465,
+      "num": 1916066,
+      "word": "宝藏县城个个身怀绝技",
+      "onboard_time": 1702541972,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72562,
       "num": 92676,
       "word": "南京城沦陷前是什么样",
@@ -2187,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37171,
+      "num": 373595,
+      "word": "时代少年团首个游戏代言",
+      "onboard_time": 1702544433,
+      "rank": 14,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 35300,
       "num": 92656,
       "word": "年度书单",
@@ -2201,14 +2353,6 @@
       "onboard_time": 1702460073,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32199,
-      "num": 1873206,
-      "word": "宝藏县城个个身怀绝技",
-      "onboard_time": 1702541972,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29581,
