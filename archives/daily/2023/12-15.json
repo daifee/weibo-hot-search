@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702595906924,
+  "endTime": 1702596888225,
   "band_list": [
     {
       "raw_hot": 2751315,
@@ -35,6 +35,14 @@
       "category": "互联网,剧集"
     },
     {
+      "raw_hot": 982131,
+      "num": 512742,
+      "word": "东方甄选回应董宇辉停播",
+      "onboard_time": 1702564177,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 934643,
       "num": 934643,
       "word": "清华大学称已对张培萌进行处分",
@@ -43,20 +51,28 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 873741,
-      "num": 512742,
-      "word": "东方甄选回应董宇辉停播",
-      "onboard_time": 1702564177,
-      "rank": 11,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 766033,
       "num": 140058,
       "word": "直击北京地铁昌平线事故现场",
       "onboard_time": 1702571666,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743567,
+      "num": 606560,
+      "word": "专家称3000点之下可能一去不复返",
+      "onboard_time": 1702574660,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 735735,
+      "num": 735735,
+      "word": "三岁宝宝在家自己冲奶粉喝",
+      "onboard_time": 1702567596,
+      "rank": 4,
+      "category": "母婴育儿,社会新闻"
     },
     {
       "raw_hot": 730607,
@@ -75,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687405,
+      "num": 262656,
+      "word": "董宇辉 孟羽童",
+      "onboard_time": 1702551274,
+      "rank": 18,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 680017,
       "num": 680017,
       "word": "双子座流星雨画面",
@@ -89,30 +113,6 @@
       "onboard_time": 1702560578,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 638200,
-      "num": 262656,
-      "word": "董宇辉 孟羽童",
-      "onboard_time": 1702551274,
-      "rank": 18,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 612413,
-      "num": 612413,
-      "word": "三岁宝宝在家自己冲奶粉喝",
-      "onboard_time": 1702567596,
-      "rank": 4,
-      "category": "母婴育儿,社会新闻"
-    },
-    {
-      "raw_hot": 606560,
-      "num": 606560,
-      "word": "专家称3000点之下可能一去不复返",
-      "onboard_time": 1702574660,
-      "rank": 29,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 571082,
@@ -243,8 +243,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220449,
+      "num": 220449,
+      "word": "赵露思叫王安宇男妈妈",
+      "onboard_time": 1702585934,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214483,
-      "num": 103626,
+      "num": 127842,
       "word": "2胎宝妈直播回应给住院婆婆吃泡面",
       "onboard_time": 1702573103,
       "rank": 23,
@@ -257,6 +265,14 @@
       "onboard_time": 1702564058,
       "rank": 17,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 202317,
+      "num": 130554,
+      "word": "记者举报洗浴提供色情服务后被警方回怼",
+      "onboard_time": 1702596504,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194749,
@@ -315,12 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166162,
-      "num": 166162,
-      "word": "赵露思叫王安宇男妈妈",
-      "onboard_time": 1702585934,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 150448,
+      "num": 132404,
+      "word": "3男子街头骚扰女子被行政处罚",
+      "onboard_time": 1702578015,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147951,
@@ -395,14 +411,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132404,
-      "num": 132404,
-      "word": "3男子街头骚扰女子被行政处罚",
-      "onboard_time": 1702578015,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127276,
       "num": 127276,
       "word": "董宇辉不方便回应东方甄选二选一",
@@ -411,12 +419,20 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 124879,
-      "num": 83275,
+      "raw_hot": 125625,
+      "num": 125625,
       "word": "被男友妈说吃生日蛋糕减寿命",
       "onboard_time": 1702589774,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123859,
+      "num": 123859,
+      "word": "郑州市教育局12月15日复课",
+      "onboard_time": 1702595904,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 119475,
@@ -443,6 +459,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 106776,
+      "num": 106776,
+      "word": "完美睡眠主义症",
+      "onboard_time": 1702596023,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 104119,
       "num": 104119,
       "word": "SEVENTEEN 年专大赏",
@@ -459,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94827,
+      "num": 94827,
+      "word": "真正的王炸式降温ta来了",
+      "onboard_time": 1702595904,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93490,
       "num": 93490,
       "word": "电视剧脱轨",
       "onboard_time": 1702542032,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93358,
+      "num": 93358,
+      "word": "你不结婚我晚上睡不着 那找个夜班上",
+      "onboard_time": 1702596686,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 85914,
@@ -475,6 +515,46 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82820,
+      "num": 82820,
+      "word": "橘猫一个大腚就坐虎斑身上了",
+      "onboard_time": 1702595602,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 71101,
+      "num": 71101,
+      "word": "美团饿了么回应商家乱收打包费",
+      "onboard_time": 1702582754,
+      "rank": 23,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 71054,
+      "num": 92584,
+      "word": "学校花1500万买下空客A320给学生练手",
+      "onboard_time": 1702596563,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67559,
+      "num": 67109,
+      "word": "新东方与人才之间的矛盾",
+      "onboard_time": 1702594039,
+      "rank": 37,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 66758,
+      "num": 66758,
+      "word": "太原一上学路人均安陵容",
+      "onboard_time": 1702582095,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 66328,
       "num": 66328,
       "word": "考试玄学 信则有",
@@ -483,20 +563,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61058,
-      "num": 56517,
-      "word": "新东方与人才之间的矛盾",
-      "onboard_time": 1702594039,
-      "rank": 37,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 60196,
-      "num": 60196,
-      "word": "美团饿了么回应商家乱收打包费",
-      "onboard_time": 1702582754,
-      "rank": 23,
-      "category": "互联网,社会新闻"
+      "raw_hot": 63544,
+      "num": 92195,
+      "word": "杭州你这样让其他兄弟省份很难做啊",
+      "onboard_time": 1702596324,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53795,
@@ -507,28 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50181,
-      "num": 56524,
-      "word": "太原一上学路人均安陵容",
-      "onboard_time": 1702582095,
-      "rank": 43,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 40444,
       "num": 54467,
       "word": "林奕颖拍的魏大勋",
       "onboard_time": 1702575020,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37751,
-      "num": 56500,
-      "word": "橘猫一个大腚就坐虎斑身上了",
-      "onboard_time": 1702595602,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 37668,
@@ -540,11 +596,19 @@
     },
     {
       "raw_hot": 36895,
-      "num": 56465,
+      "num": 66712,
       "word": "FIFA年度最佳球员候选名单",
       "onboard_time": 1702574720,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35076,
+      "num": 688237,
+      "word": "改革开放45年看湾区",
+      "onboard_time": 1702565617,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33268,
@@ -569,14 +633,6 @@
       "onboard_time": 1702595843,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 28664,
-      "num": 688237,
-      "word": "改革开放45年看湾区",
-      "onboard_time": 1702565617,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27951,
