@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702553646763,
+  "endTime": 1702557229708,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -385,6 +385,14 @@
       "onboard_time": 1702186534,
       "rank": 0,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 3309180,
+      "num": 530512,
+      "word": "北京地铁昌平线突发故障",
+      "onboard_time": 1702553673,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3260640,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 2065129,
+      "num": 1149786,
+      "word": "上厕所暂停 回来领奖",
+      "onboard_time": 1702548758,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2064098,
       "num": 2064098,
       "word": "新乡发布临时停课通知",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1701761857,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1643957,
-      "num": 1149786,
-      "word": "上厕所暂停 回来领奖",
-      "onboard_time": 1702548758,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 1633608,
@@ -3691,6 +3699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 951276,
+      "num": 383698,
+      "word": "昌平线突发故障正在紧急救援",
+      "onboard_time": 1702556559,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 950290,
       "num": 950290,
       "word": "宋轶 使用小号之后会发现世界安静了",
@@ -4115,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 872471,
+      "num": 872471,
+      "word": "董宇辉 孟羽童",
+      "onboard_time": 1702551274,
+      "rank": 18,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 871825,
       "num": 871825,
       "word": "上海文旅局正鉴定五月天演唱会原始音视频",
@@ -4185,6 +4209,14 @@
       "onboard_time": 1702391664,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859836,
+      "num": 859836,
+      "word": "脱轨",
+      "onboard_time": 1701444215,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 859711,
@@ -5195,6 +5227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 734036,
+      "num": 734036,
+      "word": "仙侠剧也逃不了考公",
+      "onboard_time": 1702551032,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 732795,
       "num": 732795,
       "word": "当年的周芷若 惊艳了多少人的童年",
@@ -5537,14 +5577,6 @@
       "onboard_time": 1701526896,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 701882,
-      "num": 701882,
-      "word": "董宇辉 孟羽童",
-      "onboard_time": 1702551274,
-      "rank": 18,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 700889,
@@ -6049,6 +6081,14 @@
       "onboard_time": 1701922294,
       "rank": 14,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 662778,
+      "num": 352648,
+      "word": "北京地铁西二旗站采取封闭措施",
+      "onboard_time": 1702556254,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661981,
@@ -7001,14 +7041,6 @@
       "onboard_time": 1701789160,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 588650,
-      "num": 588650,
-      "word": "仙侠剧也逃不了考公",
-      "onboard_time": 1702551032,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 588617,
@@ -11571,14 +11603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 398261,
-      "num": 398261,
-      "word": "脱轨",
-      "onboard_time": 1701444215,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398032,
       "num": 379504,
       "word": "网友解析阿信话筒位置",
@@ -13699,6 +13723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345681,
+      "num": 384031,
+      "word": "广州一大学生校内突发疾病死亡",
+      "onboard_time": 1702555959,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 345315,
       "num": 345315,
       "word": "WBG主教练Daeny继续连接",
@@ -15193,6 +15225,14 @@
       "onboard_time": 1702266691,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312543,
+      "num": 312543,
+      "word": "有人自林中坠落 销量",
+      "onboard_time": 1702554636,
+      "rank": 25,
+      "category": "读书作家"
     },
     {
       "raw_hot": 312282,
@@ -19481,6 +19521,14 @@
       "onboard_time": 1701913235,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 251409,
+      "num": 251409,
+      "word": "杨超越给蒲熠星讲题",
+      "onboard_time": 1702554576,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 251365,
@@ -27123,6 +27171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187186,
+      "num": 187186,
+      "word": "张杰 跨年演唱会",
+      "onboard_time": 1702555834,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187165,
       "num": 187165,
       "word": "StrayKids红毯现场",
@@ -27531,6 +27587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184733,
+      "num": 184733,
+      "word": "武林外传真相了",
+      "onboard_time": 1702554695,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184665,
       "num": 184665,
       "word": "什么才是对董宇辉真正的爱护",
@@ -27561,6 +27625,14 @@
       "onboard_time": 1702219963,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184536,
+      "num": 184536,
+      "word": "寒咳 热咳",
+      "onboard_time": 1702556674,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 184472,
@@ -27777,6 +27849,14 @@
       "onboard_time": 1702288233,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 182618,
+      "num": 182618,
+      "word": "TheShy 理解大家的不安",
+      "onboard_time": 1702556856,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 182532,
@@ -30451,6 +30531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159904,
+      "num": 159903,
+      "word": "创造营亚洲官宣",
+      "onboard_time": 1702554333,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159868,
       "num": 209753,
       "word": "范可新抱龙墩墩手握俩奖牌说好开心",
@@ -30633,6 +30721,14 @@
       "onboard_time": 1701417992,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158637,
+      "num": 158637,
+      "word": "东方甄选粉丝数减少近40万",
+      "onboard_time": 1702554452,
+      "rank": 41,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 158526,
@@ -31603,6 +31699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150725,
+      "num": 150725,
+      "word": "少年之家今早吃什么",
+      "onboard_time": 1702557161,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150694,
       "num": 150694,
       "word": "江苏省考",
@@ -31625,6 +31729,14 @@
       "onboard_time": 1701513091,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150530,
+      "num": 150530,
+      "word": "皮卡堂 开门啊",
+      "onboard_time": 1702555595,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 150502,
@@ -32129,6 +32241,14 @@
       "onboard_time": 1701583954,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146951,
+      "num": 159934,
+      "word": "金砖一刻行千里",
+      "onboard_time": 1702556915,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146894,
@@ -32835,6 +32955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141574,
+      "num": 159908,
+      "word": "北京地铁昌平线列车断开",
+      "onboard_time": 1702557161,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141447,
       "num": 141447,
       "word": "2023十大网络流行语",
@@ -33025,6 +33153,14 @@
       "onboard_time": 1701564751,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139893,
+      "num": 139893,
+      "word": "东方甄选",
+      "onboard_time": 1702554997,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 139780,
@@ -37649,6 +37785,14 @@
       "onboard_time": 1701587010,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28273,
+      "num": 462750,
+      "word": "长城汽车开放新能源测试平台",
+      "onboard_time": 1702555232,
+      "rank": 14,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 28232,

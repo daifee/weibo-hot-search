@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702553646763,
+  "endTime": 1702557229708,
   "band_list": [
     {
       "raw_hot": 7710186,
@@ -33,6 +33,14 @@
       "onboard_time": 1702529976,
       "rank": 0,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 3309180,
+      "num": 530512,
+      "word": "北京地铁昌平线突发故障",
+      "onboard_time": 1702553673,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3249204,
@@ -91,6 +99,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 2065129,
+      "num": 1149786,
+      "word": "上厕所暂停 回来领奖",
+      "onboard_time": 1702548758,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2029628,
       "num": 2029628,
       "word": "女子长期穿光腿神器导致迈不开腿",
@@ -113,14 +129,6 @@
       "onboard_time": 1702518514,
       "rank": 4,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1643957,
-      "num": 1149786,
-      "word": "上厕所暂停 回来领奖",
-      "onboard_time": 1702548758,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 1608673,
@@ -211,6 +219,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 951276,
+      "num": 383698,
+      "word": "昌平线突发故障正在紧急救援",
+      "onboard_time": 1702556559,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 928323,
       "num": 928323,
       "word": "红薯片真的可以拿来当被子用",
@@ -251,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872471,
+      "num": 872471,
+      "word": "董宇辉 孟羽童",
+      "onboard_time": 1702551274,
+      "rank": 18,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 862202,
       "num": 862202,
       "word": "女子称应聘时问过年是否放假被HR辱骂",
       "onboard_time": 1702511068,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 859836,
+      "num": 859836,
+      "word": "脱轨",
+      "onboard_time": 1702542032,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 847578,
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 734036,
+      "num": 734036,
+      "word": "仙侠剧也逃不了考公",
+      "onboard_time": 1702551032,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 719103,
       "num": 719103,
       "word": "东方甄选小作文",
@@ -377,14 +417,6 @@
       "onboard_time": 1702520431,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 701882,
-      "num": 701882,
-      "word": "董宇辉 孟羽童",
-      "onboard_time": 1702551274,
-      "rank": 18,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 693664,
@@ -427,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 662778,
+      "num": 352648,
+      "word": "北京地铁西二旗站采取封闭措施",
+      "onboard_time": 1702556254,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647087,
       "num": 463114,
       "word": "沪上阿姨 魔道祖师",
@@ -457,14 +497,6 @@
       "onboard_time": 1702476283,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 588650,
-      "num": 588650,
-      "word": "仙侠剧也逃不了考公",
-      "onboard_time": 1702551032,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 583114,
@@ -505,6 +537,14 @@
       "onboard_time": 1702539213,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 549512,
+      "num": 549512,
+      "word": "董宇辉小作文",
+      "onboard_time": 1702556137,
+      "rank": 8,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 539588,
@@ -715,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398261,
-      "num": 398261,
-      "word": "脱轨",
-      "onboard_time": 1702542032,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 394284,
       "num": 394284,
       "word": "气象部门回应河北人工增雪崩到河南",
@@ -835,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345681,
+      "num": 384031,
+      "word": "广州一大学生校内突发疾病死亡",
+      "onboard_time": 1702555959,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 344796,
       "num": 344796,
       "word": "字母哥64分",
@@ -929,6 +969,14 @@
       "onboard_time": 1702532074,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312543,
+      "num": 312543,
+      "word": "有人自林中坠落 销量",
+      "onboard_time": 1702554636,
+      "rank": 25,
+      "category": "读书作家"
     },
     {
       "raw_hot": 312282,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1702522772,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251409,
+      "num": 251409,
+      "word": "杨超越给蒲熠星讲题",
+      "onboard_time": 1702554576,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 251187,
@@ -1755,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187186,
+      "num": 187186,
+      "word": "张杰 跨年演唱会",
+      "onboard_time": 1702555834,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187165,
       "num": 187165,
       "word": "StrayKids红毯现场",
@@ -1795,6 +1859,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 184733,
+      "num": 184733,
+      "word": "武林外传真相了",
+      "onboard_time": 1702554695,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184665,
       "num": 184665,
       "word": "什么才是对董宇辉真正的爱护",
@@ -1803,12 +1875,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 184536,
+      "num": 184536,
+      "word": "寒咳 热咳",
+      "onboard_time": 1702556674,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184136,
       "num": 184136,
       "word": "相亲快十年还没嫁出去",
       "onboard_time": 1702511609,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182618,
+      "num": 182618,
+      "word": "TheShy 理解大家的不安",
+      "onboard_time": 1702556856,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 182403,
@@ -2091,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159904,
+      "num": 159903,
+      "word": "创造营亚洲官宣",
+      "onboard_time": 1702554333,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159747,
       "num": 159747,
       "word": "黑执事 未闻啵名",
@@ -2113,6 +2209,14 @@
       "onboard_time": 1702547432,
       "rank": 6,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 158637,
+      "num": 158637,
+      "word": "东方甄选粉丝数减少近40万",
+      "onboard_time": 1702554452,
+      "rank": 41,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 157323,
@@ -2195,6 +2299,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150725,
+      "num": 150725,
+      "word": "少年之家今早吃什么",
+      "onboard_time": 1702557161,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150530,
+      "num": 150530,
+      "word": "皮卡堂 开门啊",
+      "onboard_time": 1702555595,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150376,
       "num": 150376,
       "word": "系统性红斑狼疮明显症状是蝶形红斑",
@@ -2235,6 +2355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146951,
+      "num": 159934,
+      "word": "金砖一刻行千里",
+      "onboard_time": 1702556915,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146950,
       "num": 146950,
       "word": "被这位辅导员的恋爱观戳到了",
@@ -2257,6 +2385,22 @@
       "onboard_time": 1702519831,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141574,
+      "num": 159908,
+      "word": "北京地铁昌平线列车断开",
+      "onboard_time": 1702557161,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139893,
+      "num": 139893,
+      "word": "东方甄选",
+      "onboard_time": 1702554997,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 139274,
@@ -2777,6 +2921,14 @@
       "onboard_time": 1702500914,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28273,
+      "num": 462750,
+      "word": "长城汽车开放新能源测试平台",
+      "onboard_time": 1702555232,
+      "rank": 14,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 24569,
