@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702588549745,
+  "endTime": 1702589669072,
   "band_list": [
     {
       "raw_hot": 2751315,
@@ -595,7 +595,15 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 12283,
+      "raw_hot": 14044,
+      "num": 28746,
+      "word": "简单易做的养肺操",
+      "onboard_time": 1702587856,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14030,
       "num": 28758,
       "word": "这样瘦小肚子果然有用",
       "onboard_time": 1702585153,
@@ -603,7 +611,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 11034,
+      "raw_hot": 11952,
       "num": 28749,
       "word": "精装房变身轻法式小公寓",
       "onboard_time": 1702588153,
@@ -611,12 +619,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 10982,
-      "num": 28746,
-      "word": "简单易做的养肺操",
-      "onboard_time": 1702587856,
+      "raw_hot": 11548,
+      "num": 21679,
+      "word": "东北老板都这样吗",
+      "onboard_time": 1702589119,
       "rank": 49,
-      "category": "健康医疗"
+      "category": "幽默"
     },
     {
       "raw_hot": 10870,
