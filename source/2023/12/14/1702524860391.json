@@ -1,0 +1,410 @@
+{
+  "runTime": 1702524860391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2007893,
+        "num": 2007893,
+        "word": "重庆地震",
+        "onboard_time": 1702522353,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1685251,
+        "num": 1685251,
+        "word": "董宇辉改签名",
+        "onboard_time": 1702518514,
+        "rank": 1,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 34972,
+        "num": 1275409,
+        "word": "2023温暖后续",
+        "onboard_time": 1702517314,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891599,
+        "num": 891599,
+        "word": "董宇辉曾称俞敏洪给的钱挺多已够花了",
+        "onboard_time": 1702515692,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 749192,
+        "num": 749192,
+        "word": "母亲去世前一晚还给睡着的儿子盖被子",
+        "onboard_time": 1702519233,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2051759,
+        "num": 711539,
+        "word": "1人泄露周海媚病历被行拘",
+        "onboard_time": 1702516233,
+        "rank": 5,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 616882,
+        "num": 616882,
+        "word": "东方甄选 内讧",
+        "onboard_time": 1702510708,
+        "rank": 6,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 516308,
+        "num": 516308,
+        "word": "原来爱情公寓这么前卫",
+        "onboard_time": 1702512571,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425951,
+        "num": 425951,
+        "word": "黑执事 恶魔也吃胖了",
+        "onboard_time": 1702523493,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 421153,
+        "num": 421153,
+        "word": "月薪2万到底买不起啥",
+        "onboard_time": 1702515633,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 822500,
+        "num": 418457,
+        "word": "妈妈突然的转账使我沉默了",
+        "onboard_time": 1702511609,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 815021,
+        "num": 409818,
+        "word": "杨丞琳河南风波后首现身",
+        "onboard_time": 1702514974,
+        "rank": 11,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 392596,
+        "num": 392596,
+        "word": "神隐 穿帮",
+        "onboard_time": 1702521033,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351248,
+        "num": 351248,
+        "word": "气象部门回应河北人工增雪崩到河南",
+        "onboard_time": 1702521336,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47594,
+        "num": 329636,
+        "word": "那些关于郑州很中的理由",
+        "onboard_time": 1702522833,
+        "rank": 14,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 327866,
+        "num": 327866,
+        "word": "四川泸州3.8级地震",
+        "onboard_time": 1702522592,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315629,
+        "num": 315629,
+        "word": "NBA无限期禁赛格林",
+        "onboard_time": 1702517973,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294301,
+        "num": 294301,
+        "word": "丫丫雪里打滚变糖霜小熊",
+        "onboard_time": 1702520192,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163547,
+        "num": 277934,
+        "word": "荣耀保时捷设计官宣合作",
+        "onboard_time": 1702523371,
+        "rank": 18,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 548063,
+        "num": 276956,
+        "word": "修丽可 邓为",
+        "onboard_time": 1702520013,
+        "rank": 19,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 708089,
+        "num": 275213,
+        "word": "我是p人不是脏人",
+        "onboard_time": 1702520431,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272840,
+        "num": 272840,
+        "word": "江苏卫视跨年 阵容",
+        "onboard_time": 1702521153,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263133,
+        "num": 263133,
+        "word": "教育局回应老师让男生打女生耳光",
+        "onboard_time": 1702518215,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 260702,
+        "num": 260702,
+        "word": "业内认为东方甄选淡化董宇辉个人IP",
+        "onboard_time": 1702523612,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 257880,
+        "num": 257880,
+        "word": "冰封玫瑰",
+        "onboard_time": 1702523133,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242296,
+        "num": 242296,
+        "word": "司机 没有一条差评是无辜的",
+        "onboard_time": 1702524752,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240488,
+        "num": 240488,
+        "word": "王一博广州",
+        "onboard_time": 1702521632,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236032,
+        "num": 236032,
+        "word": "电视剧脱轨今日开播",
+        "onboard_time": 1702522772,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218684,
+        "num": 218684,
+        "word": "盒马山姆价格战火药味渐浓",
+        "onboard_time": 1702518635,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209831,
+        "num": 209831,
+        "word": "咒术回战 宿傩被判死刑",
+        "onboard_time": 1702518514,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 206977,
+        "num": 206977,
+        "word": "周海媚曾称有皱纹也可以很美",
+        "onboard_time": 1702511007,
+        "rank": 30,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 205786,
+        "num": 205786,
+        "word": "陕西文旅喊话董宇辉",
+        "onboard_time": 1702518031,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202769,
+        "num": 202769,
+        "word": "深圳一员工年会中11万只发2万",
+        "onboard_time": 1702522111,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198449,
+        "num": 198449,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1702512632,
+        "rank": 33,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 181813,
+        "num": 181813,
+        "word": "赵一博回家",
+        "onboard_time": 1702511428,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178690,
+        "num": 178690,
+        "word": "流浪猫在舍友床上产崽",
+        "onboard_time": 1702511669,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174144,
+        "num": 174144,
+        "word": "很想很想你 实在不行别睡了",
+        "onboard_time": 1702475137,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161929,
+        "num": 161929,
+        "word": "这3类人烫发要慎重",
+        "onboard_time": 1702524631,
+        "rank": 37,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 159747,
+        "num": 159747,
+        "word": "黑执事 未闻啵名",
+        "onboard_time": 1702524333,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 157126,
+        "num": 157126,
+        "word": "内蒙古发现大型金矿估值170亿",
+        "onboard_time": 1702516358,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 152198,
+        "num": 152198,
+        "word": "脾胃虚弱的人脸上有4个表现",
+        "onboard_time": 1702476283,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150376,
+        "num": 150376,
+        "word": "系统性红斑狼疮明显症状是蝶形红斑",
+        "onboard_time": 1702524449,
+        "rank": 41,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 148517,
+        "num": 148517,
+        "word": "勇士天亮了",
+        "onboard_time": 1702521211,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147443,
+        "num": 147443,
+        "word": "红薯片真的可以拿来当被子用",
+        "onboard_time": 1702478502,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146854,
+        "num": 146854,
+        "word": "东方甄选股价涨超6%",
+        "onboard_time": 1702521932,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 141231,
+        "num": 141231,
+        "word": "浓眉隔扣文班亚马",
+        "onboard_time": 1702522833,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139274,
+        "num": 139274,
+        "word": "2024年贺岁纪念币和纪念钞来了",
+        "onboard_time": 1702524574,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 138651,
+        "num": 138651,
+        "word": "第一次在婴儿脸上看到无语的表情",
+        "onboard_time": 1702511609,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134809,
+        "num": 134809,
+        "word": "地铁盖被侠",
+        "onboard_time": 1702524812,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134471,
+        "num": 134471,
+        "word": "董宇辉 文案创作",
+        "onboard_time": 1702512934,
+        "rank": 49,
+        "category": "互联网,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同阮富仲举行会谈#"
+    }
+  }
+}

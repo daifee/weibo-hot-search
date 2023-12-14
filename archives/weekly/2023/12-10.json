@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702523924028,
+  "endTime": 1702524860391,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -1820,11 +1820,19 @@
     },
     {
       "raw_hot": 709104,
-      "num": 332797,
+      "num": 421153,
       "word": "月薪2万到底买不起啥",
       "onboard_time": 1702515633,
       "rank": 30,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 708089,
+      "num": 399222,
+      "word": "我是p人不是脏人",
+      "onboard_time": 1702520431,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 707072,
@@ -2401,14 +2409,6 @@
       "onboard_time": 1702354179,
       "rank": 18,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 578564,
-      "num": 399222,
-      "word": "我是p人不是脏人",
-      "onboard_time": 1702520431,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 578314,
@@ -3441,6 +3441,14 @@
       "onboard_time": 1702388815,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 425951,
+      "num": 425951,
+      "word": "黑执事 恶魔也吃胖了",
+      "onboard_time": 1702523493,
+      "rank": 31,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 425668,
@@ -5827,6 +5835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260702,
+      "num": 260702,
+      "word": "业内认为东方甄选淡化董宇辉个人IP",
+      "onboard_time": 1702523612,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 260288,
       "num": 197663,
       "word": "妈妈分享女儿每天的穿搭",
@@ -5857,6 +5873,14 @@
       "onboard_time": 1702462115,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257880,
+      "num": 257880,
+      "word": "冰封玫瑰",
+      "onboard_time": 1702523133,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 257756,
@@ -6321,6 +6345,14 @@
       "onboard_time": 1702284635,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242296,
+      "num": 242296,
+      "word": "司机 没有一条差评是无辜的",
+      "onboard_time": 1702524752,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 242233,
@@ -6939,14 +6971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225078,
-      "num": 225078,
-      "word": "业内认为东方甄选淡化董宇辉个人IP",
-      "onboard_time": 1702523612,
-      "rank": 27,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 224821,
       "num": 224821,
       "word": "0713 友情",
@@ -7065,14 +7089,6 @@
       "onboard_time": 1702272396,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221251,
-      "num": 209294,
-      "word": "黑执事 恶魔也吃胖了",
-      "onboard_time": 1702523493,
-      "rank": 31,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 221155,
@@ -7489,14 +7505,6 @@
       "onboard_time": 1702462357,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209649,
-      "num": 209649,
-      "word": "冰封玫瑰",
-      "onboard_time": 1702523133,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 209453,
@@ -9803,6 +9811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163547,
+      "num": 277934,
+      "word": "荣耀保时捷设计官宣合作",
+      "onboard_time": 1702523371,
+      "rank": 30,
+      "category": "数码,汽车"
+    },
+    {
       "raw_hot": 163415,
       "num": 163415,
       "word": "王曼昱3比0金娜英",
@@ -9849,6 +9865,14 @@
       "onboard_time": 1702342360,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161929,
+      "num": 161929,
+      "word": "这3类人烫发要慎重",
+      "onboard_time": 1702524631,
+      "rank": 37,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 161917,
@@ -9900,7 +9924,7 @@
     },
     {
       "raw_hot": 161125,
-      "num": 1056172,
+      "num": 1275409,
       "word": "2023温暖后续",
       "onboard_time": 1702517314,
       "rank": 38,
@@ -9945,6 +9969,14 @@
       "onboard_time": 1702369834,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159747,
+      "num": 159747,
+      "word": "黑执事 未闻啵名",
+      "onboard_time": 1702524333,
+      "rank": 38,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 159591,
@@ -10049,14 +10081,6 @@
       "onboard_time": 1702167207,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157900,
-      "num": 209303,
-      "word": "荣耀保时捷设计官宣合作",
-      "onboard_time": 1702523371,
-      "rank": 30,
-      "category": "数码,汽车"
     },
     {
       "raw_hot": 157771,
@@ -10401,6 +10425,14 @@
       "onboard_time": 1702293516,
       "rank": 49,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 150376,
+      "num": 150376,
+      "word": "系统性红斑狼疮明显症状是蝶形红斑",
+      "onboard_time": 1702524449,
+      "rank": 41,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 150337,
@@ -10947,6 +10979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139274,
+      "num": 139274,
+      "word": "2024年贺岁纪念币和纪念钞来了",
+      "onboard_time": 1702524574,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 138994,
       "num": 138994,
       "word": "NBA季中赛最佳阵容",
@@ -11176,6 +11216,14 @@
       "word": "橘猫真的各有各的怪",
       "onboard_time": 1702203694,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134809,
+      "num": 134809,
+      "word": "地铁盖被侠",
+      "onboard_time": 1702524812,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -12427,6 +12475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47594,
+      "num": 397837,
+      "word": "那些关于郑州很中的理由",
+      "onboard_time": 1702522833,
+      "rank": 14,
+      "category": "科学科普,社会新闻"
+    },
+    {
       "raw_hot": 46872,
       "num": 46872,
       "word": "瞒天过海 看不见的客人",
@@ -12585,14 +12641,6 @@
       "onboard_time": 1702143620,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 31074,
-      "num": 397837,
-      "word": "那些关于郑州很中的理由",
-      "onboard_time": 1702522833,
-      "rank": 14,
-      "category": "科学科普,社会新闻"
     },
     {
       "raw_hot": 31059,
