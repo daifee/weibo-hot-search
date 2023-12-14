@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702567140371,
+  "endTime": 1702568071486,
   "band_list": [
     {
       "raw_hot": 7710186,
@@ -251,7 +251,7 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 978544,
+      "raw_hot": 991024,
       "num": 416789,
       "word": "东方甄选回应董宇辉停播",
       "onboard_time": 1702564177,
@@ -627,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 542734,
+      "num": 276692,
+      "word": "北京地铁就昌平线事故道歉",
+      "onboard_time": 1702567356,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539588,
       "num": 539588,
       "word": "易烊千玺进组酱园弄",
@@ -723,12 +731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488438,
+      "num": 488438,
+      "word": "圣诞节的迪士尼",
+      "onboard_time": 1702564363,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 488122,
       "num": 488122,
       "word": "这可是杜冰雁啊",
       "onboard_time": 1702560578,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482564,
+      "num": 482564,
+      "word": "脱轨 眼睛友好",
+      "onboard_time": 1702566635,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 481163,
@@ -801,14 +825,6 @@
       "onboard_time": 1702512815,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 453414,
-      "num": 453414,
-      "word": "脱轨 眼睛友好",
-      "onboard_time": 1702566635,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 451409,
@@ -889,14 +905,6 @@
       "onboard_time": 1702528118,
       "rank": 29,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 408434,
-      "num": 408434,
-      "word": "圣诞节的迪士尼",
-      "onboard_time": 1702564363,
-      "rank": 37,
-      "category": "旅游"
     },
     {
       "raw_hot": 407509,
@@ -1467,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256887,
+      "num": 651777,
+      "word": "有只兔子今天登月10年了",
+      "onboard_time": 1702563879,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256008,
       "num": 256008,
       "word": "赵昭仪 人没醒但妆不能花",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1702520312,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254378,
-      "num": 651777,
-      "word": "有只兔子今天登月10年了",
-      "onboard_time": 1702563879,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253428,
@@ -1513,6 +1521,14 @@
       "onboard_time": 1702559196,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252225,
+      "num": 252225,
+      "word": "高途CEO称奇迹属于高途佳品",
+      "onboard_time": 1702566695,
+      "rank": 41,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 251409,
@@ -1611,6 +1627,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 234394,
+      "num": 234394,
+      "word": "瘦手臂像呼吸一样简单",
+      "onboard_time": 1702567295,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 233191,
       "num": 233191,
       "word": "张栋梁跳科目三",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1702557161,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232733,
+      "num": 232733,
+      "word": "三岁宝宝在家自己冲奶粉喝",
+      "onboard_time": 1702567596,
+      "rank": 34,
+      "category": "母婴育儿,社会新闻"
     },
     {
       "raw_hot": 231863,
@@ -2115,14 +2147,6 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 192951,
-      "num": 192951,
-      "word": "高途CEO称奇迹属于高途佳品",
-      "onboard_time": 1702566695,
-      "rank": 41,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 192855,
       "num": 192855,
       "word": "张杰 跨年演唱会",
@@ -2451,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171149,
+      "num": 171149,
+      "word": "朴振英将开通泡泡",
+      "onboard_time": 1702567832,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171124,
       "num": 171124,
       "word": "终于知道冻紫了是啥意思",
@@ -2627,6 +2659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159048,
+      "num": 159048,
+      "word": "黑执事 永远漂亮的少爷",
+      "onboard_time": 1702567654,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 158887,
       "num": 2871273,
       "word": "天安门前这一幕是北京最美的雪景",
@@ -2673,6 +2713,14 @@
       "onboard_time": 1702534233,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154445,
+      "num": 154445,
+      "word": "双子座流星雨画面",
+      "onboard_time": 1702565017,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153857,
@@ -3067,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104442,
+      "num": 441592,
+      "word": "人像摄影的意义是记录吗",
+      "onboard_time": 1702564656,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104120,
       "num": 104120,
       "word": "天官赐福 更新",
@@ -3097,14 +3153,6 @@
       "onboard_time": 1702469252,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94701,
-      "num": 441592,
-      "word": "人像摄影的意义是记录吗",
-      "onboard_time": 1702564656,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 93625,
@@ -3424,6 +3472,9 @@
     },
     {
       "word": "#习近平在广西南宁考察调研#"
+    },
+    {
+      "word": "#遇见习近平#"
     }
   ]
 }
