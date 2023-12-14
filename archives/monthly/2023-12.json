@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702552533483,
+  "endTime": 1702553646763,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -227,6 +227,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 4999042,
+      "num": 4999042,
+      "word": "董宇辉 停播",
+      "onboard_time": 1702550196,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 4916739,
       "num": 608945,
       "word": "演唱会假唱 离谱",
@@ -249,14 +257,6 @@
       "onboard_time": 1701936337,
       "rank": 0,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 4565630,
-      "num": 4565630,
-      "word": "董宇辉 停播",
-      "onboard_time": 1702550196,
-      "rank": 40,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 4547826,
@@ -489,6 +489,14 @@
       "onboard_time": 1702347272,
       "rank": 0,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 2941542,
+      "num": 2941542,
+      "word": "昌平线",
+      "onboard_time": 1702552957,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2937840,
@@ -1780,7 +1788,7 @@
     },
     {
       "raw_hot": 1643957,
-      "num": 834319,
+      "num": 1149786,
       "word": "上厕所暂停 回来领奖",
       "onboard_time": 1702548758,
       "rank": 25,
@@ -5531,6 +5539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701882,
+      "num": 701882,
+      "word": "董宇辉 孟羽童",
+      "onboard_time": 1702551274,
+      "rank": 18,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 700889,
       "num": 700889,
       "word": "周杰伦演唱会 提前半年抢票",
@@ -8193,14 +8209,6 @@
       "onboard_time": 1701918811,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 523039,
-      "num": 523039,
-      "word": "董宇辉 孟羽童",
-      "onboard_time": 1702551274,
-      "rank": 18,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 522835,
@@ -11563,6 +11571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 398261,
+      "num": 398261,
+      "word": "脱轨",
+      "onboard_time": 1701444215,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398032,
       "num": 379504,
       "word": "网友解析阿信话筒位置",
@@ -11865,6 +11881,14 @@
       "onboard_time": 1701481535,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389521,
+      "num": 3856504,
+      "word": "萌兰倒立比心太会了",
+      "onboard_time": 1702549295,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389278,
@@ -12897,14 +12921,6 @@
       "onboard_time": 1701836379,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365169,
-      "num": 365169,
-      "word": "脱轨",
-      "onboard_time": 1701444215,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 365148,
@@ -16289,14 +16305,6 @@
       "onboard_time": 1701789998,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 295916,
-      "num": 3692168,
-      "word": "萌兰倒立比心太会了",
-      "onboard_time": 1702549295,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295871,
@@ -21523,6 +21531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228414,
+      "num": 228414,
+      "word": "AAA获奖名单",
+      "onboard_time": 1702552713,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228337,
       "num": 209339,
       "word": "孟子义黑天鹅妆",
@@ -22384,6 +22400,14 @@
       "word": "溺死在这样的身高差里",
       "onboard_time": 1701670233,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219084,
+      "num": 219084,
+      "word": "檀健次周也 直播",
+      "onboard_time": 1702551992,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -26011,14 +26035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193491,
-      "num": 187606,
-      "word": "檀健次周也 直播",
-      "onboard_time": 1702551992,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193390,
       "num": 193390,
       "word": "李斌回应蔚来精简人员",
@@ -26665,6 +26681,14 @@
       "onboard_time": 1702204536,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189623,
+      "num": 579202,
+      "word": "vivoS18发布会",
+      "onboard_time": 1702551755,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 189484,
@@ -28843,6 +28867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172396,
+      "num": 172396,
+      "word": "赵睿工作室声明",
+      "onboard_time": 1702552533,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172217,
       "num": 169754,
       "word": "周一围 你的过往成就了此刻的你",
@@ -30580,7 +30612,7 @@
     },
     {
       "raw_hot": 158887,
-      "num": 1885965,
+      "num": 2871273,
       "word": "天安门前这一幕是北京最美的雪景",
       "onboard_time": 1702547432,
       "rank": 6,
@@ -31555,6 +31587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150811,
+      "num": 134942,
+      "word": "一张人像拍出我2023精神状态",
+      "onboard_time": 1702553134,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150761,
       "num": 150761,
       "word": "没有周琦的广东",
@@ -32321,14 +32361,6 @@
       "onboard_time": 1701571289,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145105,
-      "num": 453898,
-      "word": "vivoS18发布会",
-      "onboard_time": 1702551755,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 145097,
@@ -33649,6 +33681,14 @@
       "onboard_time": 1702048058,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 133943,
+      "num": 133943,
+      "word": "猫给麻麻送吃的 猫好",
+      "onboard_time": 1702553434,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 133933,
@@ -36068,7 +36108,7 @@
     },
     {
       "raw_hot": 82548,
-      "num": 3172344,
+      "num": 3332335,
       "word": "宝藏县城个个身怀绝技",
       "onboard_time": 1702541972,
       "rank": 2,
@@ -37499,6 +37539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31964,
+      "num": 748842,
+      "word": "来元梦薅鹅毛",
+      "onboard_time": 1702551631,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 31787,
       "num": 24827,
       "word": "成毅 真诚",
@@ -37729,6 +37777,14 @@
       "onboard_time": 1702213236,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24569,
+      "num": 547050,
+      "word": "今天邀你做E人",
+      "onboard_time": 1702552533,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 24282,
@@ -38017,14 +38073,6 @@
       "onboard_time": 1702247598,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 16290,
-      "num": 748842,
-      "word": "来元梦薅鹅毛",
-      "onboard_time": 1702551631,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 16276,
