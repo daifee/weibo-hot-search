@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702578189343,
+  "endTime": 1702578972653,
   "band_list": [
     {
       "raw_hot": 2751315,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46281,
+      "num": 46281,
+      "word": "3男子街头骚扰女子被行政处罚",
+      "onboard_time": 1702578015,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40444,
       "num": 54467,
       "word": "林奕颖拍的魏大勋",
@@ -491,28 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25905,
-      "num": 34433,
-      "word": "王安宇跳舞",
-      "onboard_time": 1702578138,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24533,
-      "num": 34403,
+      "raw_hot": 27951,
+      "num": 41367,
       "word": "林一 真人版黑执事",
       "onboard_time": 1702578077,
       "rank": 48,
       "category": "剧集"
     },
     {
-      "raw_hot": 16892,
-      "num": 34396,
-      "word": "3男子街头骚扰女子被行政处罚",
-      "onboard_time": 1702578015,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 26192,
+      "num": 41291,
+      "word": "王安宇跳舞",
+      "onboard_time": 1702578138,
+      "rank": 46,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
@@ -524,6 +524,9 @@
     },
     {
       "word": "#习近平在广西南宁市考察调研#"
+    },
+    {
+      "word": "#遇见习近平#"
     }
   ]
 }
