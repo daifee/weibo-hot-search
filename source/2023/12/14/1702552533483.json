@@ -1,0 +1,410 @@
+{
+  "runTime": 1702552533483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4565630,
+        "num": 4565630,
+        "word": "董宇辉 停播",
+        "onboard_time": 1702550196,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 295916,
+        "num": 3692168,
+        "word": "萌兰倒立比心太会了",
+        "onboard_time": 1702549295,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65063,
+        "num": 3172344,
+        "word": "宝藏县城个个身怀绝技",
+        "onboard_time": 1702541972,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3057371,
+        "num": 3057371,
+        "word": "东方甄选CEO道歉",
+        "onboard_time": 1702551094,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 171763,
+        "num": 2779705,
+        "word": "暴雪天物业囤7000斤白菜免费送业主",
+        "onboard_time": 1702547432,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2644193,
+        "num": 2644193,
+        "word": "董明珠怒斥孟羽童",
+        "onboard_time": 1702536334,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 148021,
+        "num": 1514574,
+        "word": "天安门前这一幕是北京最美的雪景",
+        "onboard_time": 1702547432,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1275134,
+        "num": 1275134,
+        "word": "董明珠 格局",
+        "onboard_time": 1702549533,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 942017,
+        "num": 942017,
+        "word": "清华大学称已对张培萌进行处分",
+        "onboard_time": 1702544195,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 874846,
+        "num": 874846,
+        "word": "俞敏洪声明",
+        "onboard_time": 1702529976,
+        "rank": 9,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1641211,
+        "num": 834319,
+        "word": "上厕所暂停 回来领奖",
+        "onboard_time": 1702548758,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1399512,
+        "num": 812121,
+        "word": "孟羽童 王自如",
+        "onboard_time": 1702549116,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1059789,
+        "num": 798910,
+        "word": "俞敏洪面临CEO董宇辉二选一",
+        "onboard_time": 1702534953,
+        "rank": 12,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 762426,
+        "num": 762426,
+        "word": "刘宇宁 这一次我不反抗",
+        "onboard_time": 1702543358,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16290,
+        "num": 748842,
+        "word": "来元梦薅鹅毛",
+        "onboard_time": 1702551631,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 748239,
+        "num": 748239,
+        "word": "董明珠称钱不应该是大学生的梦想",
+        "onboard_time": 1702549533,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 709020,
+        "num": 709020,
+        "word": "董宇辉真实年薪不足千万",
+        "onboard_time": 1702541433,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 588650,
+        "num": 588650,
+        "word": "仙侠剧也逃不了考公",
+        "onboard_time": 1702551032,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523039,
+        "num": 523039,
+        "word": "董宇辉 孟羽童",
+        "onboard_time": 1702551274,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 491265,
+        "num": 491265,
+        "word": "董宇辉若提前离职期权将归零",
+        "onboard_time": 1702547133,
+        "rank": 19,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 489178,
+        "num": 489178,
+        "word": "东方甄选小编 职业精神",
+        "onboard_time": 1702533213,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 464350,
+        "num": 464350,
+        "word": "薪酬 个人隐私",
+        "onboard_time": 1702550973,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 145105,
+        "num": 453898,
+        "word": "vivoS18发布会",
+        "onboard_time": 1702551755,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 453509,
+        "num": 453509,
+        "word": "酱园弄声明",
+        "onboard_time": 1702536935,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423094,
+        "num": 423094,
+        "word": "董宇辉不方便回应东方甄选二选一",
+        "onboard_time": 1702536033,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 379056,
+        "num": 379056,
+        "word": "薛之谦 抢不到根本抢不到",
+        "onboard_time": 1702547253,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365169,
+        "num": 365169,
+        "word": "脱轨",
+        "onboard_time": 1702542032,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281035,
+        "num": 281035,
+        "word": "NIP官宣Rookie加入",
+        "onboard_time": 1702549533,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 261641,
+        "num": 261641,
+        "word": "人民网评周海媚病历被泄露",
+        "onboard_time": 1702542032,
+        "rank": 28,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 252116,
+        "num": 252116,
+        "word": "迪丽热巴跳TOPLINE",
+        "onboard_time": 1702545093,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241755,
+        "num": 241755,
+        "word": "文俊辉 请拍鬼怪",
+        "onboard_time": 1702539213,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237115,
+        "num": 237115,
+        "word": "张若昀 是我不要脸了",
+        "onboard_time": 1702537957,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219559,
+        "num": 219559,
+        "word": "元梦之星",
+        "onboard_time": 1702550375,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203764,
+        "num": 203764,
+        "word": "王安宇胡先煦 宠溺捏脸",
+        "onboard_time": 1702551572,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202643,
+        "num": 202643,
+        "word": "檀健次清唱青梅引",
+        "onboard_time": 1702552054,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206966,
+        "num": 199952,
+        "word": "文俊辉 年度突破之星",
+        "onboard_time": 1702551992,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195564,
+        "num": 195564,
+        "word": "流星雨",
+        "onboard_time": 1702552054,
+        "rank": 36,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 187679,
+        "num": 187679,
+        "word": "北大一学院为缓解内卷取消绩点排名",
+        "onboard_time": 1702548272,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 193491,
+        "num": 187606,
+        "word": "檀健次周也 直播",
+        "onboard_time": 1702551992,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187512,
+        "num": 187512,
+        "word": "东方甄选 内讧",
+        "onboard_time": 1702510708,
+        "rank": 39,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 181432,
+        "num": 181432,
+        "word": "高途直播间销售额暴涨百倍",
+        "onboard_time": 1702552054,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 179237,
+        "num": 179237,
+        "word": "成毅是相中墙上的砖了吗",
+        "onboard_time": 1702550015,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165276,
+        "num": 165276,
+        "word": "魏大勋金丝眼镜 限定回归",
+        "onboard_time": 1702546593,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163678,
+        "num": 163678,
+        "word": "八段锦 不懂就是白练",
+        "onboard_time": 1702549411,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157605,
+        "num": 157605,
+        "word": "周末补觉危害比熬夜还大",
+        "onboard_time": 1702537113,
+        "rank": 44,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 153857,
+        "num": 153857,
+        "word": "张培萌家暴事件后退股名下公司",
+        "onboard_time": 1702550558,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 151952,
+        "num": 151952,
+        "word": "周深今年唱了四首电影歌曲",
+        "onboard_time": 1702548215,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151267,
+        "num": 151267,
+        "word": "职场PUA",
+        "onboard_time": 1702549056,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143063,
+        "num": 143063,
+        "word": "律师称郑爽如有能力却不执行最高判7年",
+        "onboard_time": 1702526433,
+        "rank": 48,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 141115,
+        "num": 141115,
+        "word": "故宫的猫出来玩雪了",
+        "onboard_time": 1702534233,
+        "rank": 49,
+        "category": "幽默,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越关系新定位是大势所趋水到渠成#"
+    }
+  }
+}
