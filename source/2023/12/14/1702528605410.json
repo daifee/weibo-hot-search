@@ -1,0 +1,410 @@
+{
+  "runTime": 1702528605410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2029628,
+        "num": 2029628,
+        "word": "女子长期穿光腿神器导致迈不开腿",
+        "onboard_time": 1702524871,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1608673,
+        "num": 1608673,
+        "word": "律师称郑爽如有能力却不执行最高判7年",
+        "onboard_time": 1702526433,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 44817,
+        "num": 1440454,
+        "word": "2023温暖后续",
+        "onboard_time": 1702517314,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333807,
+        "num": 1333807,
+        "word": "董宇辉改签名",
+        "onboard_time": 1702518514,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1037188,
+        "num": 1037188,
+        "word": "司机 没有一条差评是无辜的",
+        "onboard_time": 1702524752,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1869803,
+        "num": 990148,
+        "word": "1人泄露周海媚病历被行拘",
+        "onboard_time": 1702516233,
+        "rank": 5,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 823319,
+        "num": 823319,
+        "word": "张杰 票来",
+        "onboard_time": 1702526798,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 731484,
+        "num": 731484,
+        "word": "东方甄选 内讧",
+        "onboard_time": 1702510708,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 563954,
+        "num": 563954,
+        "word": "重庆震感",
+        "onboard_time": 1702522353,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538508,
+        "num": 538508,
+        "word": "董宇辉曾称俞敏洪给的钱挺多已够花了",
+        "onboard_time": 1702515692,
+        "rank": 9,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 713358,
+        "num": 536296,
+        "word": "准考证提醒考生6小时专业课带干粮",
+        "onboard_time": 1702526555,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 517044,
+        "num": 517044,
+        "word": "母亲去世前一晚还给睡着的儿子盖被子",
+        "onboard_time": 1702519233,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503460,
+        "num": 503460,
+        "word": "尹净汉暂停活动",
+        "onboard_time": 1702528237,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499650,
+        "num": 499650,
+        "word": "杨超越 水冰月",
+        "onboard_time": 1702527158,
+        "rank": 13,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 73603,
+        "num": 453212,
+        "word": "白酒品牌在支付宝直播间疯狂斗价",
+        "onboard_time": 1702526433,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 435878,
+        "num": 435878,
+        "word": "黑执事 恶魔也吃胖了",
+        "onboard_time": 1702523493,
+        "rank": 15,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 414039,
+        "num": 414039,
+        "word": "罗翔解读医院职工泄露周海媚病历",
+        "onboard_time": 1702525291,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 400856,
+        "num": 400856,
+        "word": "妈妈突然的转账使我沉默了",
+        "onboard_time": 1702511609,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 394943,
+        "num": 394943,
+        "word": "月薪2万到底买不起啥",
+        "onboard_time": 1702515633,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 381256,
+        "num": 381256,
+        "word": "原来爱情公寓这么前卫",
+        "onboard_time": 1702512571,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526052,
+        "num": 362470,
+        "word": "杨丞琳河南风波后首现身",
+        "onboard_time": 1702514974,
+        "rank": 20,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 341060,
+        "num": 341060,
+        "word": "字母哥64分",
+        "onboard_time": 1702528476,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110523,
+        "num": 334022,
+        "word": "vivo把东方美学拿捏住了",
+        "onboard_time": 1702525834,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 333144,
+        "num": 333144,
+        "word": "花少5制片人谈下一季方向",
+        "onboard_time": 1702527575,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325181,
+        "num": 325181,
+        "word": "NBA无限期禁赛格林",
+        "onboard_time": 1702517973,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322120,
+        "num": 322120,
+        "word": "张雨霏回应爆冷输给17岁小将",
+        "onboard_time": 1702525111,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312282,
+        "num": 312282,
+        "word": "上班 断崖式衰老",
+        "onboard_time": 1702525111,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303571,
+        "num": 303571,
+        "word": "刘sir 15年抓我8次你不累吗",
+        "onboard_time": 1702525711,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303007,
+        "num": 303007,
+        "word": "那些长期喝咖啡的人都怎么样了",
+        "onboard_time": 1702528175,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 267830,
+        "num": 267830,
+        "word": "元梦之星 时代少年团",
+        "onboard_time": 1702528118,
+        "rank": 29,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 256954,
+        "num": 256954,
+        "word": "神隐 穿帮",
+        "onboard_time": 1702521033,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253428,
+        "num": 253428,
+        "word": "2023腾讯视频星光大赏阵容",
+        "onboard_time": 1702528057,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245518,
+        "num": 245518,
+        "word": "小孩哥已经开始哄大学生了",
+        "onboard_time": 1702525111,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231863,
+        "num": 231863,
+        "word": "河北人工增雪",
+        "onboard_time": 1702525413,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225555,
+        "num": 225555,
+        "word": "赫海开通微博",
+        "onboard_time": 1702527999,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224997,
+        "num": 224997,
+        "word": "孙颖莎和早田说想吃拉面",
+        "onboard_time": 1702527817,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218739,
+        "num": 218739,
+        "word": "成毅官宣微博跨年开幕官",
+        "onboard_time": 1702526974,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216606,
+        "num": 216606,
+        "word": "业内认为东方甄选淡化董宇辉个人IP",
+        "onboard_time": 1702523612,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 202230,
+        "num": 202230,
+        "word": "董宇辉 文案创作",
+        "onboard_time": 1702512934,
+        "rank": 38,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 198422,
+        "num": 198422,
+        "word": "十个勤天吃到晕饭",
+        "onboard_time": 1702525893,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197366,
+        "num": 197366,
+        "word": "A股上市公司迎来新一轮增持潮",
+        "onboard_time": 1702527635,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191469,
+        "num": 191469,
+        "word": "上班后觉得下雪好麻烦",
+        "onboard_time": 1702527458,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190748,
+        "num": 190748,
+        "word": "雪天和陌生人合拍舞蹈",
+        "onboard_time": 1702528299,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187103,
+        "num": 187103,
+        "word": "丫丫雪里打滚变糖霜小熊",
+        "onboard_time": 1702520192,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174038,
+        "num": 174038,
+        "word": "沪上阿姨 魔道祖师",
+        "onboard_time": 1702512632,
+        "rank": 44,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 173204,
+        "num": 173204,
+        "word": "地铁盖被侠",
+        "onboard_time": 1702524812,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171063,
+        "num": 171063,
+        "word": "未名市下雪了",
+        "onboard_time": 1702528118,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169291,
+        "num": 169291,
+        "word": "王一博广州",
+        "onboard_time": 1702521632,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169236,
+        "num": 169236,
+        "word": "东方甄选 电影公司模式",
+        "onboard_time": 1702527458,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 162498,
+        "num": 162498,
+        "word": "东方甄选内讧伤了谁",
+        "onboard_time": 1702525775,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中越关系新定位是大势所趋水到渠成#"
+    }
+  }
+}

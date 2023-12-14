@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702527684488,
+  "endTime": 1702528605410,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2029628,
+      "num": 2029628,
+      "word": "女子长期穿光腿神器导致迈不开腿",
+      "onboard_time": 1702524871,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2028278,
       "num": 2028278,
       "word": "饶雪漫谈八年不敢联系陈都灵",
@@ -571,14 +579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1784552,
-      "num": 1784552,
-      "word": "女子长期穿光腿神器导致迈不开腿",
-      "onboard_time": 1702524871,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1770263,
       "num": 1770263,
       "word": "上午刮刮乐 下午书法课",
@@ -641,6 +641,14 @@
       "onboard_time": 1702288054,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1608673,
+      "num": 1608673,
+      "word": "律师称郑爽如有能力却不执行最高判7年",
+      "onboard_time": 1702526433,
+      "rank": 3,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1595862,
@@ -1027,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1121314,
-      "num": 1121314,
-      "word": "律师称郑爽如有能力却不执行最高判7年",
-      "onboard_time": 1702526433,
-      "rank": 3,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 1079805,
       "num": 1079805,
       "word": "浙江省考 比国考还难",
@@ -1065,6 +1065,14 @@
       "onboard_time": 1702426600,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1037188,
+      "num": 1037188,
+      "word": "司机 没有一条差评是无辜的",
+      "onboard_time": 1702524752,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 1034854,
@@ -1217,14 +1225,6 @@
       "onboard_time": 1702213298,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 942639,
-      "num": 942639,
-      "word": "司机 没有一条差评是无辜的",
-      "onboard_time": 1702524752,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 942366,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1702431935,
       "rank": 13,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 823319,
+      "num": 823319,
+      "word": "张杰 票来",
+      "onboard_time": 1702526798,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 821246,
@@ -1841,6 +1849,14 @@
       "onboard_time": 1702355859,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 713358,
+      "num": 536296,
+      "word": "准考证提醒考生6小时专业课带干粮",
+      "onboard_time": 1702526555,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 711600,
@@ -2835,6 +2851,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 503460,
+      "num": 503460,
+      "word": "尹净汉暂停活动",
+      "onboard_time": 1702528237,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502799,
       "num": 502799,
       "word": "羽绒服 预售",
@@ -2857,6 +2881,14 @@
       "onboard_time": 1702204895,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499650,
+      "num": 499650,
+      "word": "杨超越 水冰月",
+      "onboard_time": 1702527158,
+      "rank": 22,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 498808,
@@ -3083,14 +3115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473398,
-      "num": 473398,
-      "word": "准考证提醒考生6小时专业课带干粮",
-      "onboard_time": 1702526555,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 473090,
       "num": 473090,
       "word": "王安宇演技",
@@ -3105,14 +3129,6 @@
       "onboard_time": 1702525291,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 471193,
-      "num": 471193,
-      "word": "张杰 票来",
-      "onboard_time": 1702526798,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 469860,
@@ -4123,14 +4139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372786,
-      "num": 372786,
-      "word": "杨超越 水冰月",
-      "onboard_time": 1702527158,
-      "rank": 22,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 371803,
       "num": 478800,
       "word": "00后炫完军大衣炫雪地靴",
@@ -4491,6 +4499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 341060,
+      "num": 341060,
+      "word": "字母哥64分",
+      "onboard_time": 1702528476,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340650,
       "num": 337538,
       "word": "张若昀圈内人缘",
@@ -4649,6 +4665,14 @@
       "onboard_time": 1702364597,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 333144,
+      "num": 333144,
+      "word": "花少5制片人谈下一季方向",
+      "onboard_time": 1702527575,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 332769,
@@ -4883,20 +4907,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312282,
+      "num": 312282,
+      "word": "上班 断崖式衰老",
+      "onboard_time": 1702525111,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 310716,
       "num": 310716,
       "word": "猫猫 我跟你天下第一好哦",
       "onboard_time": 1702356763,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 309416,
-      "num": 309416,
-      "word": "上班 断崖式衰老",
-      "onboard_time": 1702525111,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 309320,
@@ -5073,6 +5097,14 @@
       "onboard_time": 1702472557,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303007,
+      "num": 303007,
+      "word": "那些长期喝咖啡的人都怎么样了",
+      "onboard_time": 1702528175,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 302411,
@@ -5779,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267830,
+      "num": 267830,
+      "word": "元梦之星 时代少年团",
+      "onboard_time": 1702528118,
+      "rank": 29,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 267536,
       "num": 267536,
       "word": "王俊凯新歌红蓝战歌",
@@ -6163,6 +6203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 253428,
+      "num": 253428,
+      "word": "2023腾讯视频星光大赏阵容",
+      "onboard_time": 1702528057,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252938,
       "num": 252938,
       "word": "电视剧脱轨今日开播",
@@ -6369,6 +6417,14 @@
       "onboard_time": 1702376255,
       "rank": 40,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 245518,
+      "num": 245518,
+      "word": "小孩哥已经开始哄大学生了",
+      "onboard_time": 1702525111,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 245462,
@@ -6819,6 +6875,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 231863,
+      "num": 231863,
+      "word": "河北人工增雪",
+      "onboard_time": 1702525413,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231859,
       "num": 231859,
       "word": "养猫 精神分裂风险",
@@ -6833,14 +6897,6 @@
       "onboard_time": 1702440276,
       "rank": 35,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 231416,
-      "num": 231416,
-      "word": "小孩哥已经开始哄大学生了",
-      "onboard_time": 1702525111,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 231162,
@@ -7075,12 +7131,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 225555,
+      "num": 225555,
+      "word": "赫海开通微博",
+      "onboard_time": 1702527999,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225295,
       "num": 225295,
       "word": "实体店真的很难做",
       "onboard_time": 1702174593,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224997,
+      "num": 224997,
+      "word": "孙颖莎和早田说想吃拉面",
+      "onboard_time": 1702527817,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 224821,
@@ -7713,14 +7785,6 @@
       "onboard_time": 1702125033,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207811,
-      "num": 207811,
-      "word": "河北人工增雪",
-      "onboard_time": 1702525413,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207781,
@@ -8363,6 +8427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197366,
+      "num": 197366,
+      "word": "A股上市公司迎来新一轮增持潮",
+      "onboard_time": 1702527635,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197262,
       "num": 197262,
       "word": "张远在偶像和兄弟之间选择了詹雯婷",
@@ -8619,6 +8691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191469,
+      "num": 191469,
+      "word": "上班后觉得下雪好麻烦",
+      "onboard_time": 1702527458,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191383,
       "num": 191383,
       "word": "今晚国乒与韩国队争冠",
@@ -8665,6 +8745,14 @@
       "onboard_time": 1702480298,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190748,
+      "num": 190748,
+      "word": "雪天和陌生人合拍舞蹈",
+      "onboard_time": 1702528299,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 190703,
@@ -9371,14 +9459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177270,
-      "num": 177270,
-      "word": "花少5制片人谈下一季方向",
-      "onboard_time": 1702527575,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176970,
       "num": 176970,
       "word": "高耀洁 民间防艾第一人",
@@ -9667,6 +9747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171063,
+      "num": 171063,
+      "word": "未名市下雪了",
+      "onboard_time": 1702528118,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171040,
       "num": 171040,
       "word": "中国累计培养1100多万研究生",
@@ -9737,14 +9825,6 @@
       "onboard_time": 1702353338,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169502,
-      "num": 169502,
-      "word": "上班后觉得下雪好麻烦",
-      "onboard_time": 1702527458,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 169268,
@@ -10116,7 +10196,7 @@
     },
     {
       "raw_hot": 161125,
-      "num": 1275409,
+      "num": 1440454,
       "word": "2023温暖后续",
       "onboard_time": 1702517314,
       "rank": 38,
@@ -10569,14 +10649,6 @@
       "onboard_time": 1702254096,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 151399,
-      "num": 151399,
-      "word": "A股上市公司迎来新一轮增持潮",
-      "onboard_time": 1702527635,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 151383,
@@ -12043,6 +12115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110523,
+      "num": 356747,
+      "word": "vivo把东方美学拿捏住了",
+      "onboard_time": 1702525834,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108146,
       "num": 108146,
       "word": "梁建章认为内卷造成生育率低",
@@ -12097,14 +12177,6 @@
       "onboard_time": 1702299223,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102431,
-      "num": 356747,
-      "word": "vivo把东方美学拿捏住了",
-      "onboard_time": 1702525834,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 100765,
@@ -12387,6 +12459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73603,
+      "num": 471835,
+      "word": "白酒品牌在支付宝直播间疯狂斗价",
+      "onboard_time": 1702526433,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 73534,
       "num": 73534,
       "word": "我的少女时代导演离婚",
@@ -12633,14 +12713,6 @@
       "onboard_time": 1702163298,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51506,
-      "num": 471835,
-      "word": "白酒品牌在支付宝直播间疯狂斗价",
-      "onboard_time": 1702526433,
-      "rank": 14,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 51286,

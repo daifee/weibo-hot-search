@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702527684488,
+  "endTime": 1702528605410,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -1107,6 +1107,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 2029628,
+      "num": 2029628,
+      "word": "女子长期穿光腿神器导致迈不开腿",
+      "onboard_time": 1702524871,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2028278,
       "num": 2028278,
       "word": "饶雪漫谈八年不敢联系陈都灵",
@@ -1483,14 +1491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1784552,
-      "num": 1784552,
-      "word": "女子长期穿光腿神器导致迈不开腿",
-      "onboard_time": 1702524871,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1778240,
       "num": 1326990,
       "word": "好怕谢娜的船翻了",
@@ -1761,6 +1761,14 @@
       "onboard_time": 1702288054,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1608673,
+      "num": 1608673,
+      "word": "律师称郑爽如有能力却不执行最高判7年",
+      "onboard_time": 1702526433,
+      "rank": 3,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1603678,
@@ -2963,14 +2971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1121314,
-      "num": 1121314,
-      "word": "律师称郑爽如有能力却不执行最高判7年",
-      "onboard_time": 1702526433,
-      "rank": 3,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 1117549,
       "num": 1117549,
       "word": "迪丽热巴王后服",
@@ -3201,6 +3201,14 @@
       "onboard_time": 1701430233,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1037188,
+      "num": 1037188,
+      "word": "司机 没有一条差评是无辜的",
+      "onboard_time": 1702524752,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 1037136,
@@ -3601,14 +3609,6 @@
       "onboard_time": 1702025679,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 942639,
-      "num": 942639,
-      "word": "司机 没有一条差评是无辜的",
-      "onboard_time": 1702524752,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 942566,
@@ -4289,6 +4289,14 @@
       "onboard_time": 1702431935,
       "rank": 13,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 823319,
+      "num": 823319,
+      "word": "张杰 票来",
+      "onboard_time": 1702526798,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 822094,
@@ -5169,6 +5177,14 @@
       "onboard_time": 1701414513,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713358,
+      "num": 536296,
+      "word": "准考证提醒考生6小时专业课带干粮",
+      "onboard_time": 1702526555,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 712920,
@@ -8371,6 +8387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 503460,
+      "num": 503460,
+      "word": "尹净汉暂停活动",
+      "onboard_time": 1702528237,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503229,
       "num": 568904,
       "word": "麦田农夫半年指控20多位歌手假唱",
@@ -8441,6 +8465,14 @@
       "onboard_time": 1701946972,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 499650,
+      "num": 499650,
+      "word": "杨超越 水冰月",
+      "onboard_time": 1702527158,
+      "rank": 22,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 499404,
@@ -9003,14 +9035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473398,
-      "num": 473398,
-      "word": "准考证提醒考生6小时专业课带干粮",
-      "onboard_time": 1702526555,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 473189,
       "num": 473189,
       "word": "WBG 续约",
@@ -9057,14 +9081,6 @@
       "onboard_time": 1701406419,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 471193,
-      "num": 471193,
-      "word": "张杰 票来",
-      "onboard_time": 1702526798,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 470803,
@@ -12227,14 +12243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372786,
-      "num": 372786,
-      "word": "杨超越 水冰月",
-      "onboard_time": 1702527158,
-      "rank": 22,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 372607,
       "num": 372607,
       "word": "邓为 星光大赏",
@@ -13491,6 +13499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 341060,
+      "num": 341060,
+      "word": "字母哥64分",
+      "onboard_time": 1702528476,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340668,
       "num": 244747,
       "word": "终于有人对碍事的头发下手了",
@@ -13889,6 +13905,14 @@
       "onboard_time": 1701696040,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 333144,
+      "num": 333144,
+      "word": "花少5制片人谈下一季方向",
+      "onboard_time": 1702527575,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 333005,
@@ -14747,6 +14771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312282,
+      "num": 312282,
+      "word": "上班 断崖式衰老",
+      "onboard_time": 1702525111,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311880,
       "num": 282188,
       "word": "isfj 阶段性朋友",
@@ -14921,14 +14953,6 @@
       "onboard_time": 1701618935,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 309416,
-      "num": 309416,
-      "word": "上班 断崖式衰老",
-      "onboard_time": 1702525111,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 309320,
@@ -15361,6 +15385,14 @@
       "onboard_time": 1702472557,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303007,
+      "num": 303007,
+      "word": "那些长期喝咖啡的人都怎么样了",
+      "onboard_time": 1702528175,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 302766,
@@ -17747,6 +17779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267830,
+      "num": 267830,
+      "word": "元梦之星 时代少年团",
+      "onboard_time": 1702528118,
+      "rank": 29,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 267818,
       "num": 267818,
       "word": "网友建议哈尔滨文旅取消狗拉雪橇",
@@ -18723,6 +18763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253428,
+      "num": 253428,
+      "word": "2023腾讯视频星光大赏阵容",
+      "onboard_time": 1702528057,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253348,
       "num": 253348,
       "word": "重庆地铁偶遇张艺兴",
@@ -19377,6 +19425,14 @@
       "onboard_time": 1702024359,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 245518,
+      "num": 245518,
+      "word": "小孩哥已经开始哄大学生了",
+      "onboard_time": 1702525111,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 245462,
@@ -20475,6 +20531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231863,
+      "num": 231863,
+      "word": "河北人工增雪",
+      "onboard_time": 1702525413,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231859,
       "num": 231859,
       "word": "养猫 精神分裂风险",
@@ -20553,14 +20617,6 @@
       "onboard_time": 1702440276,
       "rank": 35,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 231416,
-      "num": 231416,
-      "word": "小孩哥已经开始哄大学生了",
-      "onboard_time": 1702525111,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 231377,
@@ -21131,6 +21187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 225555,
+      "num": 225555,
+      "word": "赫海开通微博",
+      "onboard_time": 1702527999,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225548,
       "num": 225548,
       "word": "哈尔滨大雪人",
@@ -21177,6 +21241,14 @@
       "onboard_time": 1701586771,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224997,
+      "num": 224997,
+      "word": "孙颖莎和早田说想吃拉面",
+      "onboard_time": 1702527817,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 224821,
@@ -23003,14 +23075,6 @@
       "category": "时尚,美妆"
     },
     {
-      "raw_hot": 207811,
-      "num": 207811,
-      "word": "河北人工增雪",
-      "onboard_time": 1702525413,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207796,
       "num": 207796,
       "word": "辽宁男篮十连胜",
@@ -24531,6 +24595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197366,
+      "num": 197366,
+      "word": "A股上市公司迎来新一轮增持潮",
+      "onboard_time": 1702527635,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197322,
       "num": 197322,
       "word": "快船复仇掘金",
@@ -25403,6 +25475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191469,
+      "num": 191469,
+      "word": "上班后觉得下雪好麻烦",
+      "onboard_time": 1702527458,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191454,
       "num": 191454,
       "word": "GQ红毯男女明星混剪",
@@ -25529,6 +25609,14 @@
       "onboard_time": 1701564807,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190748,
+      "num": 190748,
+      "word": "雪天和陌生人合拍舞蹈",
+      "onboard_time": 1702528299,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 190732,
@@ -27259,14 +27347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177270,
-      "num": 177270,
-      "word": "花少5制片人谈下一季方向",
-      "onboard_time": 1702527575,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177191,
       "num": 177191,
       "word": "李羲承 Sweet Venom直拍",
@@ -27907,6 +27987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171063,
+      "num": 171063,
+      "word": "未名市下雪了",
+      "onboard_time": 1702528118,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171058,
       "num": 266147,
       "word": "吉林出现大面积雾凇",
@@ -28145,14 +28233,6 @@
       "onboard_time": 1701692140,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 169502,
-      "num": 169502,
-      "word": "上班后觉得下雪好麻烦",
-      "onboard_time": 1702527458,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 169439,
@@ -29180,7 +29260,7 @@
     },
     {
       "raw_hot": 161125,
-      "num": 1275409,
+      "num": 1440454,
       "word": "2023温暖后续",
       "onboard_time": 1702517314,
       "rank": 38,
@@ -30337,14 +30417,6 @@
       "onboard_time": 1701419012,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151399,
-      "num": 151399,
-      "word": "A股上市公司迎来新一轮增持潮",
-      "onboard_time": 1702527635,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 151383,
@@ -34067,6 +34139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110523,
+      "num": 356747,
+      "word": "vivo把东方美学拿捏住了",
+      "onboard_time": 1702525834,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 109956,
       "num": 91599,
       "word": "杨超越立体白裙",
@@ -34265,14 +34345,6 @@
       "onboard_time": 1702299223,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102431,
-      "num": 356747,
-      "word": "vivo把东方美学拿捏住了",
-      "onboard_time": 1702525834,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 102358,
@@ -35115,6 +35187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73603,
+      "num": 471835,
+      "word": "白酒品牌在支付宝直播间疯狂斗价",
+      "onboard_time": 1702526433,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 73534,
       "num": 73534,
       "word": "我的少女时代导演离婚",
@@ -35681,14 +35761,6 @@
       "onboard_time": 1702163298,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51506,
-      "num": 471835,
-      "word": "白酒品牌在支付宝直播间疯狂斗价",
-      "onboard_time": 1702526433,
-      "rank": 14,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 51286,

@@ -1,6 +1,6 @@
 {
   "startTime": 1702484559997,
-  "endTime": 1702527684488,
+  "endTime": 1702528605410,
   "band_list": [
     {
       "raw_hot": 6119816,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2029628,
+      "num": 2029628,
+      "word": "女子长期穿光腿神器导致迈不开腿",
+      "onboard_time": 1702524871,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1802549,
       "num": 1802549,
       "word": "董宇辉改签名",
@@ -35,12 +43,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 1784552,
-      "num": 1784552,
-      "word": "女子长期穿光腿神器导致迈不开腿",
-      "onboard_time": 1702524871,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 1608673,
+      "num": 1608673,
+      "word": "律师称郑爽如有能力却不执行最高判7年",
+      "onboard_time": 1702526433,
+      "rank": 3,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1167983,
@@ -59,12 +67,12 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 1121314,
-      "num": 1121314,
-      "word": "律师称郑爽如有能力却不执行最高判7年",
-      "onboard_time": 1702526433,
-      "rank": 3,
-      "category": "艺人,社会新闻"
+      "raw_hot": 1037188,
+      "num": 1037188,
+      "word": "司机 没有一条差评是无辜的",
+      "onboard_time": 1702524752,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 1016705,
@@ -80,14 +88,6 @@
       "word": "妈妈突然的转账使我沉默了",
       "onboard_time": 1702511609,
       "rank": 11,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 942639,
-      "num": 942639,
-      "word": "司机 没有一条差评是无辜的",
-      "onboard_time": 1702524752,
-      "rank": 25,
       "category": "幽默"
     },
     {
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 823319,
+      "num": 823319,
+      "word": "张杰 票来",
+      "onboard_time": 1702526798,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 809487,
       "num": 156194,
       "word": "周海媚的独居者之困",
@@ -153,6 +161,14 @@
       "onboard_time": 1702519233,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713358,
+      "num": 536296,
+      "word": "准考证提醒考生6小时专业课带干粮",
+      "onboard_time": 1702526555,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 709104,
@@ -251,6 +267,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 503460,
+      "num": 503460,
+      "word": "尹净汉暂停活动",
+      "onboard_time": 1702528237,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 499650,
+      "num": 499650,
+      "word": "杨超越 水冰月",
+      "onboard_time": 1702527158,
+      "rank": 22,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 493882,
       "num": 493882,
       "word": "黑执事 恶魔也吃胖了",
@@ -283,28 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473398,
-      "num": 473398,
-      "word": "准考证提醒考生6小时专业课带干粮",
-      "onboard_time": 1702526555,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 472991,
       "num": 472991,
       "word": "罗翔解读医院职工泄露周海媚病历",
       "onboard_time": 1702525291,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 471193,
-      "num": 471193,
-      "word": "张杰 票来",
-      "onboard_time": 1702526798,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 459532,
@@ -403,14 +419,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 372786,
-      "num": 372786,
-      "word": "杨超越 水冰月",
-      "onboard_time": 1702527158,
-      "rank": 22,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 363005,
       "num": 363005,
       "word": "美众议院决定对拜登展开弹劾调查",
@@ -443,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 341060,
+      "num": 341060,
+      "word": "字母哥64分",
+      "onboard_time": 1702528476,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337370,
       "num": 337370,
       "word": "盒马山姆价格战火药味渐浓",
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333144,
+      "num": 333144,
+      "word": "花少5制片人谈下一季方向",
+      "onboard_time": 1702527575,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317247,
       "num": 317247,
       "word": "羽绒服衣领总是蹭到粉底怎么办",
@@ -467,12 +491,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 309416,
-      "num": 309416,
+      "raw_hot": 312282,
+      "num": 312282,
       "word": "上班 断崖式衰老",
       "onboard_time": 1702525111,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 303007,
+      "num": 303007,
+      "word": "那些长期喝咖啡的人都怎么样了",
+      "onboard_time": 1702528175,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 302411,
@@ -539,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267830,
+      "num": 267830,
+      "word": "元梦之星 时代少年团",
+      "onboard_time": 1702528118,
+      "rank": 29,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 264671,
       "num": 264671,
       "word": "王一博广州",
@@ -579,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253428,
+      "num": 253428,
+      "word": "2023腾讯视频星光大赏阵容",
+      "onboard_time": 1702528057,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252938,
       "num": 252938,
       "word": "电视剧脱轨今日开播",
@@ -611,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245518,
+      "num": 245518,
+      "word": "小孩哥已经开始哄大学生了",
+      "onboard_time": 1702525111,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236416,
       "num": 236416,
       "word": "济南 雪呢",
@@ -619,12 +675,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 231416,
-      "num": 231416,
-      "word": "小孩哥已经开始哄大学生了",
-      "onboard_time": 1702525111,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 231863,
+      "num": 231863,
+      "word": "河北人工增雪",
+      "onboard_time": 1702525413,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226170,
@@ -635,12 +691,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 225555,
+      "num": 225555,
+      "word": "赫海开通微博",
+      "onboard_time": 1702527999,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225514,
       "num": 225514,
       "word": "秦海璐袁泉 话剧青蛇",
       "onboard_time": 1702479458,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224997,
+      "num": 224997,
+      "word": "孙颖莎和早田说想吃拉面",
+      "onboard_time": 1702527817,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 224988,
@@ -673,14 +745,6 @@
       "onboard_time": 1702509744,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 207811,
-      "num": 207811,
-      "word": "河北人工增雪",
-      "onboard_time": 1702525413,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204743,
@@ -723,6 +787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197366,
+      "num": 197366,
+      "word": "A股上市公司迎来新一轮增持潮",
+      "onboard_time": 1702527635,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 196159,
       "num": 196159,
       "word": "懂车帝冬测",
@@ -737,6 +809,22 @@
       "onboard_time": 1702521932,
       "rank": 35,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 191469,
+      "num": 191469,
+      "word": "上班后觉得下雪好麻烦",
+      "onboard_time": 1702527458,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 190748,
+      "num": 190748,
+      "word": "雪天和陌生人合拍舞蹈",
+      "onboard_time": 1702528299,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 188796,
@@ -803,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177270,
-      "num": 177270,
-      "word": "花少5制片人谈下一季方向",
-      "onboard_time": 1702527575,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173689,
       "num": 173689,
       "word": "东方甄选内讧伤了谁",
@@ -843,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169502,
-      "num": 169502,
-      "word": "上班后觉得下雪好麻烦",
-      "onboard_time": 1702527458,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 171063,
+      "num": 171063,
+      "word": "未名市下雪了",
+      "onboard_time": 1702528118,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 168661,
@@ -908,7 +988,7 @@
     },
     {
       "raw_hot": 161125,
-      "num": 1275409,
+      "num": 1440454,
       "word": "2023温暖后续",
       "onboard_time": 1702517314,
       "rank": 38,
@@ -977,14 +1057,6 @@
       "onboard_time": 1702518093,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151399,
-      "num": 151399,
-      "word": "A股上市公司迎来新一轮增持潮",
-      "onboard_time": 1702527635,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 150896,
@@ -1203,6 +1275,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 110523,
+      "num": 356747,
+      "word": "vivo把东方美学拿捏住了",
+      "onboard_time": 1702525834,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 110069,
       "num": 110069,
       "word": "ChatGPT解读董宇辉回应长文",
@@ -1249,14 +1329,6 @@
       "onboard_time": 1702477059,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102431,
-      "num": 356747,
-      "word": "vivo把东方美学拿捏住了",
-      "onboard_time": 1702525834,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 101331,
@@ -1347,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73603,
+      "num": 471835,
+      "word": "白酒品牌在支付宝直播间疯狂斗价",
+      "onboard_time": 1702526433,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 72562,
       "num": 92676,
       "word": "南京城沦陷前是什么样",
@@ -1409,14 +1489,6 @@
       "onboard_time": 1702472434,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 51506,
-      "num": 471835,
-      "word": "白酒品牌在支付宝直播间疯狂斗价",
-      "onboard_time": 1702526433,
-      "rank": 14,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 51106,
