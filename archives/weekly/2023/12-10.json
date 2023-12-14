@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702528605410,
+  "endTime": 1702531025332,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -145,6 +145,14 @@
       "onboard_time": 1702186534,
       "rank": 0,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 3287747,
+      "num": 3287747,
+      "word": "俞敏洪声明",
+      "onboard_time": 1702529976,
+      "rank": 0,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 3260635,
@@ -763,6 +771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1413605,
+      "num": 1413605,
+      "word": "司机 没有一条差评是无辜的",
+      "onboard_time": 1702524752,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1407009,
       "num": 1421533,
       "word": "真正有致癌风险的是这2种水",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1702426600,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1037188,
-      "num": 1037188,
-      "word": "司机 没有一条差评是无辜的",
-      "onboard_time": 1702524752,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 1034854,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1702437094,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 847578,
+      "num": 847578,
+      "word": "准考证提醒考生6小时专业课带干粮",
+      "onboard_time": 1702526555,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 844483,
@@ -1851,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 713358,
-      "num": 536296,
-      "word": "准考证提醒考生6小时专业课带干粮",
-      "onboard_time": 1702526555,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 711600,
       "num": 711600,
       "word": "郑州女生推窗看暴雪不料窗户掉下楼",
@@ -2051,6 +2059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 670942,
+      "num": 335526,
+      "word": "那些长期喝咖啡的人都怎么样了",
+      "onboard_time": 1702528175,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 670027,
       "num": 670027,
       "word": "加拿大鹅9500元羽绒服被疑瑕疵品",
@@ -2193,6 +2209,14 @@
       "onboard_time": 1702203816,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 644172,
+      "num": 644172,
+      "word": "杨超越 水冰月",
+      "onboard_time": 1702527158,
+      "rank": 22,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 643566,
@@ -2707,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530735,
+      "num": 530735,
+      "word": "东方甄选小作文",
+      "onboard_time": 1702530815,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 529542,
       "num": 529542,
       "word": "TES Meiko",
@@ -2819,6 +2851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 508348,
+      "num": 440494,
+      "word": "张杰个人首个跨年IP官宣",
+      "onboard_time": 1702528720,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 508304,
       "num": 508304,
       "word": "迪丽热巴 白日提灯",
@@ -2881,14 +2921,6 @@
       "onboard_time": 1702204895,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499650,
-      "num": 499650,
-      "word": "杨超越 水冰月",
-      "onboard_time": 1702527158,
-      "rank": 22,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 498808,
@@ -3665,6 +3697,14 @@
       "onboard_time": 1702283917,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410842,
+      "num": 347947,
+      "word": "元梦之星 时代少年团",
+      "onboard_time": 1702528118,
+      "rank": 29,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 410514,
@@ -4451,6 +4491,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 344796,
+      "num": 344796,
+      "word": "字母哥64分",
+      "onboard_time": 1702528476,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343954,
       "num": 305787,
       "word": "网红铁头因言语不当向长春道歉",
@@ -4497,14 +4545,6 @@
       "onboard_time": 1702274795,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 341060,
-      "num": 341060,
-      "word": "字母哥64分",
-      "onboard_time": 1702528476,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 340650,
@@ -5099,14 +5139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303007,
-      "num": 303007,
-      "word": "那些长期喝咖啡的人都怎么样了",
-      "onboard_time": 1702528175,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 302411,
       "num": 302411,
       "word": "江苏卫视跨年 阵容",
@@ -5395,6 +5427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285948,
+      "num": 285948,
+      "word": "东方甄选CEO直播开会摔手机",
+      "onboard_time": 1702530217,
+      "rank": 24,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 285793,
       "num": 455643,
       "word": "为什么蚝不便宜蚝油却便宜",
@@ -5513,6 +5553,14 @@
       "onboard_time": 1702461814,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280454,
+      "num": 280454,
+      "word": "AAA颁奖礼红毯",
+      "onboard_time": 1702529201,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 280326,
@@ -5811,14 +5859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267830,
-      "num": 267830,
-      "word": "元梦之星 时代少年团",
-      "onboard_time": 1702528118,
-      "rank": 29,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 267536,
       "num": 267536,
       "word": "王俊凯新歌红蓝战歌",
@@ -5947,6 +5987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 263311,
+      "num": 263311,
+      "word": "原神娜维娅",
+      "onboard_time": 1702530035,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 263301,
       "num": 263301,
       "word": "什么叫函数存在连续可导",
@@ -6009,6 +6057,14 @@
       "onboard_time": 1702462115,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258244,
+      "num": 258244,
+      "word": "目前董宇辉仍然在为东方甄选工作",
+      "onboard_time": 1702529317,
+      "rank": 29,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 258042,
@@ -6145,6 +6201,14 @@
       "onboard_time": 1702457735,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 254415,
+      "num": 254415,
+      "word": "东方甄选已建立直播矩阵",
+      "onboard_time": 1702530516,
+      "rank": 31,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 254097,
@@ -7075,6 +7139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227840,
+      "num": 227840,
+      "word": "花少 分不出哪个作品赢了",
+      "onboard_time": 1702530757,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227761,
       "num": 227761,
       "word": "张杰直播",
@@ -7699,6 +7771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209353,
+      "num": 209353,
+      "word": "星穹铁道花火",
+      "onboard_time": 1702529857,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208932,
       "num": 208932,
       "word": "林孝埈回应与刘少昂相撞",
@@ -8251,6 +8331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200374,
+      "num": 200374,
+      "word": "居家办公",
+      "onboard_time": 1702529739,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200372,
       "num": 200372,
       "word": "陈都灵大梦归离紫衣路透",
@@ -8337,6 +8425,14 @@
       "onboard_time": 1702212634,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199226,
+      "num": 199226,
+      "word": "步行者不满字母哥刷分",
+      "onboard_time": 1702529674,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 199129,
@@ -8760,6 +8856,14 @@
       "word": "PLAVE 圣诞曲",
       "onboard_time": 1702379616,
       "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 190623,
+      "num": 190623,
+      "word": "平安京六周年定档",
+      "onboard_time": 1702530459,
+      "rank": 42,
       "category": "动漫"
     },
     {
@@ -9475,6 +9579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176935,
+      "num": 176935,
+      "word": "皮卡堂 速速开服",
+      "onboard_time": 1702530633,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176757,
       "num": 176757,
       "word": "EDG加入VCTCN",
@@ -9577,6 +9689,14 @@
       "onboard_time": 1702276772,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174694,
+      "num": 174694,
+      "word": "未名市下雪了",
+      "onboard_time": 1702528118,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 174523,
@@ -9745,14 +9865,6 @@
       "onboard_time": 1702168528,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171063,
-      "num": 171063,
-      "word": "未名市下雪了",
-      "onboard_time": 1702528118,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 171040,
@@ -10201,6 +10313,14 @@
       "onboard_time": 1702517314,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160973,
+      "num": 160973,
+      "word": "吃白萝卜 护肤",
+      "onboard_time": 1702529559,
+      "rank": 49,
+      "category": "美妆,美食"
     },
     {
       "raw_hot": 160773,
@@ -10745,6 +10865,14 @@
       "onboard_time": 1702173870,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149607,
+      "num": 447845,
+      "word": "时代少年团代言元梦之星",
+      "onboard_time": 1702529076,
+      "rank": 13,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 149598,
@@ -12529,6 +12657,14 @@
       "onboard_time": 1702337609,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 67622,
+      "num": 441034,
+      "word": "武汉人精神状态领先我十年",
+      "onboard_time": 1702530035,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67444,
