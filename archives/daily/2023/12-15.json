@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702608112311,
+  "endTime": 1702610360943,
   "band_list": [
     {
       "raw_hot": 3269280,
@@ -35,6 +35,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1824940,
+      "num": 380315,
+      "word": "感冒花了12万",
+      "onboard_time": 1702605451,
+      "rank": 11,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 1805232,
       "num": 425264,
       "word": "记者举报洗浴提供色情服务后被警方回怼",
@@ -43,12 +51,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1544864,
-      "num": 380315,
-      "word": "感冒花了12万",
-      "onboard_time": 1702605451,
-      "rank": 11,
-      "category": "幽默,社会新闻"
+      "raw_hot": 1605891,
+      "num": 732047,
+      "word": "东方甄选回应外界质疑",
+      "onboard_time": 1702608818,
+      "rank": 3,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1520832,
+      "num": 1520832,
+      "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
+      "onboard_time": 1702607495,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1454291,
+      "num": 599599,
+      "word": "小杨哥评价董宇辉",
+      "onboard_time": 1702605814,
+      "rank": 3,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1356678,
@@ -65,14 +89,6 @@
       "onboard_time": 1702557632,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1221619,
-      "num": 599599,
-      "word": "小杨哥评价董宇辉",
-      "onboard_time": 1702605814,
-      "rank": 3,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1201392,
@@ -99,12 +115,28 @@
       "category": "互联网,剧集"
     },
     {
+      "raw_hot": 1032718,
+      "num": 1032718,
+      "word": "茶百道 盲盒",
+      "onboard_time": 1702606835,
+      "rank": 17,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 982131,
       "num": 648323,
       "word": "东方甄选回应董宇辉停播",
       "onboard_time": 1702564177,
       "rank": 11,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 977436,
+      "num": 427288,
+      "word": "钟楚曦 我试过但是被人拍到",
+      "onboard_time": 1702607495,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 934643,
@@ -137,6 +169,14 @@
       "onboard_time": 1702599333,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 795939,
+      "num": 315873,
+      "word": "贺军翔谈杨丞琳言论风波",
+      "onboard_time": 1702607673,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 778307,
@@ -211,22 +251,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 634398,
-      "num": 634398,
-      "word": "茶百道 盲盒",
-      "onboard_time": 1702606835,
-      "rank": 17,
-      "category": "美食,游戏"
-    },
-    {
-      "raw_hot": 595602,
-      "num": 595602,
-      "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
-      "onboard_time": 1702607495,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 571082,
       "num": 193773,
       "word": "北京地铁披露故障细节",
@@ -283,6 +307,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 538074,
+      "num": 359215,
+      "word": "东京一餐馆禁止中国人入内",
+      "onboard_time": 1702605753,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508835,
       "num": 425106,
       "word": "你不结婚我晚上睡不着 那找个夜班上",
@@ -305,22 +337,6 @@
       "onboard_time": 1702566635,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 459468,
-      "num": 359215,
-      "word": "东京一餐馆禁止中国人入内",
-      "onboard_time": 1702605753,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427288,
-      "num": 427288,
-      "word": "钟楚曦 我试过但是被人拍到",
-      "onboard_time": 1702607495,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 425281,
@@ -355,6 +371,22 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 388985,
+      "num": 247276,
+      "word": "孙东旭今年减持新东方套现超2亿",
+      "onboard_time": 1702607914,
+      "rank": 43,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 358261,
+      "num": 358261,
+      "word": "陈飞宇献鱼开机大吉",
+      "onboard_time": 1702607855,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354529,
       "num": 354529,
       "word": "只有6英寸长的超超超短裙",
@@ -369,14 +401,6 @@
       "onboard_time": 1702561959,
       "rank": 8,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 315873,
-      "num": 315873,
-      "word": "贺军翔谈杨丞琳言论风波",
-      "onboard_time": 1702607673,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 313172,
@@ -419,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 280721,
+      "num": 224414,
+      "word": "董宇辉和东方甄选都要认识到对方价值",
+      "onboard_time": 1702608818,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 278602,
       "num": 172833,
       "word": "董宇辉",
@@ -443,6 +475,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 264579,
+      "num": 247114,
+      "word": "工银瑞信基金副总经理杜海涛去世",
+      "onboard_time": 1702607554,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 256276,
       "num": 256276,
       "word": "刘诗诗 为一念关山改变慢热",
@@ -459,6 +499,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 255584,
+      "num": 216148,
+      "word": "俞敏洪道歉能否让东方甄选留住董宇辉",
+      "onboard_time": 1702609471,
+      "rank": 33,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 254108,
       "num": 140099,
       "word": "董宇辉真实年薪不足千万",
@@ -467,20 +515,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 247011,
+      "num": 247011,
+      "word": "考研 生命过场",
+      "onboard_time": 1702607073,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 245702,
+      "num": 245702,
+      "word": "萌兰越狱2周年",
+      "onboard_time": 1702607196,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242571,
       "num": 242571,
       "word": "金在中状态",
       "onboard_time": 1702599275,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 241630,
-      "num": 241630,
-      "word": "工银瑞信基金副总经理杜海涛去世",
-      "onboard_time": 1702607554,
-      "rank": 26,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 239708,
@@ -499,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225451,
+      "num": 225451,
+      "word": "骨科医生雪天建议走企鹅步",
+      "onboard_time": 1702609713,
+      "rank": 28,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 220449,
       "num": 220449,
       "word": "赵露思叫王安宇男妈妈",
@@ -507,8 +571,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216801,
+      "num": 216801,
+      "word": "做完一切事情才晚上八点",
+      "onboard_time": 1702605930,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216596,
-      "num": 216596,
+      "num": 224513,
       "word": "胸痛可能是心梗前兆",
       "onboard_time": 1702605634,
       "rank": 27,
@@ -555,12 +627,12 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 207565,
-      "num": 207565,
-      "word": "考研 生命过场",
-      "onboard_time": 1702607073,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 205739,
+      "num": 205739,
+      "word": "献鱼 妆造",
+      "onboard_time": 1702610133,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 205357,
@@ -571,20 +643,20 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 202358,
+      "num": 202358,
+      "word": "江苏无偿献血4000毫升可享三免政策",
+      "onboard_time": 1702606473,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201531,
       "num": 201531,
       "word": "高途CEO曾任新东方执行总裁",
       "onboard_time": 1702601740,
       "rank": 37,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 197025,
-      "num": 197025,
-      "word": "江苏无偿献血4000毫升可享三免政策",
-      "onboard_time": 1702606473,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194785,
@@ -625,14 +697,6 @@
       "onboard_time": 1702559918,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189466,
-      "num": 189466,
-      "word": "做完一切事情才晚上八点",
-      "onboard_time": 1702605930,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 187348,
@@ -683,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180141,
+      "num": 180141,
+      "word": "舆论爆发暴露东方甄选网红模式和产品路线冲突",
+      "onboard_time": 1702609652,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 180140,
       "num": 180140,
       "word": "杭州一小学奖励3000条鱼给光盘学生",
@@ -715,19 +787,19 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 172399,
-      "num": 172399,
-      "word": "萌兰越狱2周年",
-      "onboard_time": 1702607196,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169290,
       "num": 169290,
       "word": "王安宇赵露思 陌生人给我糖",
       "onboard_time": 1702559797,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165819,
+      "num": 165819,
+      "word": "杨洋捧花",
+      "onboard_time": 1702610133,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -755,28 +827,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158619,
-      "num": 158619,
-      "word": "陈飞宇献鱼开机大吉",
-      "onboard_time": 1702607855,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158118,
       "num": 158118,
       "word": "timi一响公主登场",
       "onboard_time": 1702598430,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156576,
-      "num": 156576,
-      "word": "孙东旭今年减持新东方套现超2亿",
-      "onboard_time": 1702607914,
-      "rank": 43,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 150448,
@@ -793,6 +849,14 @@
       "onboard_time": 1702570831,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147620,
+      "num": 245904,
+      "word": "vivo真的好懂年轻人",
+      "onboard_time": 1702609052,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 147397,
@@ -817,6 +881,14 @@
       "onboard_time": 1702596926,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145644,
+      "num": 145644,
+      "word": "张若昀 微表情",
+      "onboard_time": 1702608217,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 144372,
@@ -897,6 +969,14 @@
       "onboard_time": 1702599874,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130252,
+      "num": 130252,
+      "word": "高途主播泪洒直播间庆祝粉丝破百万",
+      "onboard_time": 1702610313,
+      "rank": 49,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 127276,
@@ -1059,8 +1139,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62289,
+      "num": 247653,
+      "word": "人人人人元梦之星人人人人",
+      "onboard_time": 1702609233,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58812,
-      "num": 784631,
+      "num": 791000,
       "word": "改革开放45年看湾区",
       "onboard_time": 1702565617,
       "rank": 2,
