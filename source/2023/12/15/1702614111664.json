@@ -1,0 +1,410 @@
+{
+  "runTime": 1702614111664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254739,
+        "num": 1254739,
+        "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
+        "onboard_time": 1702607495,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 987847,
+        "num": 987847,
+        "word": "茶百道 盲盒",
+        "onboard_time": 1702606835,
+        "rank": 1,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 24966,
+        "num": 759762,
+        "word": "改革开放45年看湾区",
+        "onboard_time": 1702565617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262874,
+        "num": 733585,
+        "word": "小杨哥评价董宇辉",
+        "onboard_time": 1702605814,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 635645,
+        "num": 635645,
+        "word": "孟羽童称当董事长秘书和具体业务脱节",
+        "onboard_time": 1702613495,
+        "rank": 4,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 606265,
+        "num": 606265,
+        "word": "中戏老师评价邓为",
+        "onboard_time": 1702613796,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736771,
+        "num": 603088,
+        "word": "东方甄选称昨日销售额创纪录",
+        "onboard_time": 1702611995,
+        "rank": 6,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 523960,
+        "num": 597996,
+        "word": "献鱼 妆造",
+        "onboard_time": 1702610133,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484825,
+        "num": 484825,
+        "word": "台湾对大陆贸易限制构成贸易壁垒",
+        "onboard_time": 1702611029,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343811,
+        "num": 472659,
+        "word": "学校花1500万买下空客A320给学生练手",
+        "onboard_time": 1702596563,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1536730,
+        "num": 461632,
+        "word": "感冒花了12万",
+        "onboard_time": 1702605451,
+        "rank": 10,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 38243,
+        "num": 442693,
+        "word": "时代少年团一起元梦",
+        "onboard_time": 1702611392,
+        "rank": 11,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 1465516,
+        "num": 413395,
+        "word": "孟羽童个人简介是前500强董事长秘书",
+        "onboard_time": 1702600537,
+        "rank": 12,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 413096,
+        "num": 413096,
+        "word": "杨洋金晨二搭",
+        "onboard_time": 1702613075,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54880,
+        "num": 412943,
+        "word": "蛋仔派对送了波大的",
+        "onboard_time": 1702612835,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 994779,
+        "num": 411681,
+        "word": "女生称遭男童袭胸老人护孙摔断腰椎",
+        "onboard_time": 1702600718,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905425,
+        "num": 411308,
+        "word": "贺军翔谈杨丞琳言论风波",
+        "onboard_time": 1702607673,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 657944,
+        "num": 410147,
+        "word": "钟楚曦 我试过但是被人拍到",
+        "onboard_time": 1702607495,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57641,
+        "num": 408767,
+        "word": "微信发元梦之星领红包",
+        "onboard_time": 1702612175,
+        "rank": 18,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 395414,
+        "num": 408495,
+        "word": "北京地铁昌平线两区段维持运营",
+        "onboard_time": 1702600956,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625180,
+        "num": 407758,
+        "word": "溜溜梅 你没事吧",
+        "onboard_time": 1702612714,
+        "rank": 20,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 452432,
+        "num": 406165,
+        "word": "晚上睡不着和熬夜有什么区别",
+        "onboard_time": 1702610554,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 406130,
+        "num": 406130,
+        "word": "董宇辉 停播",
+        "onboard_time": 1702550196,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 402279,
+        "num": 402279,
+        "word": "骨科医生雪天建议走企鹅步",
+        "onboard_time": 1702609713,
+        "rank": 23,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 378678,
+        "num": 378678,
+        "word": "秦岚判断衣服脏不脏靠闻",
+        "onboard_time": 1702613796,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364459,
+        "num": 364459,
+        "word": "孙东旭今年减持新东方套现超2亿",
+        "onboard_time": 1702607914,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 346025,
+        "num": 346025,
+        "word": "恋与CoCo",
+        "onboard_time": 1702613254,
+        "rank": 26,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 341953,
+        "num": 341953,
+        "word": "淘宝回应小伙网购工业品造出飞行自行车",
+        "onboard_time": 1702613557,
+        "rank": 27,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 320900,
+        "num": 320900,
+        "word": "东京一餐馆禁止中国人入内",
+        "onboard_time": 1702605753,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225338,
+        "num": 317117,
+        "word": "有文科生博主欲起诉张雪峰",
+        "onboard_time": 1702599333,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795077,
+        "num": 316817,
+        "word": "东方甄选回应外界质疑",
+        "onboard_time": 1702608818,
+        "rank": 30,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 316443,
+        "num": 316443,
+        "word": "杨紫十岁的时候就认识何炅了",
+        "onboard_time": 1702611455,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287500,
+        "num": 287500,
+        "word": "小霞3.0",
+        "onboard_time": 1702610554,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 312679,
+        "num": 275860,
+        "word": "东方甄选回应董宇辉停播",
+        "onboard_time": 1702564177,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 214899,
+        "num": 260464,
+        "word": "姚明罚球准并不是因为长得高",
+        "onboard_time": 1702611752,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251198,
+        "num": 251198,
+        "word": "你的免疫力是怎么变没的",
+        "onboard_time": 1702610851,
+        "rank": 35,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 305004,
+        "num": 249387,
+        "word": "俞敏洪道歉能否让东方甄选留住董宇辉",
+        "onboard_time": 1702609471,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 243683,
+        "num": 243683,
+        "word": "杨洋捧花",
+        "onboard_time": 1702610133,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196027,
+        "num": 235500,
+        "word": "萌兰越狱2周年",
+        "onboard_time": 1702607196,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184784,
+        "num": 227976,
+        "word": "江苏无偿献血4000毫升可享三免政策",
+        "onboard_time": 1702606473,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269956,
+        "num": 227849,
+        "word": "董宇辉曾拒绝2亿年薪挖角",
+        "onboard_time": 1702599394,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 227589,
+        "num": 227589,
+        "word": "做完一切事情才晚上八点",
+        "onboard_time": 1702605930,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222701,
+        "num": 222701,
+        "word": "林心如聊霍建华求婚过程",
+        "onboard_time": 1702598853,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206912,
+        "num": 206912,
+        "word": "惠英红芭莎开年封 古堡女爵",
+        "onboard_time": 1702613675,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126594,
+        "num": 199293,
+        "word": "谁懂原图直出的快乐",
+        "onboard_time": 1702611335,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199173,
+        "num": 199173,
+        "word": "邓为冬季刊",
+        "onboard_time": 1702612353,
+        "rank": 45,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 196820,
+        "num": 196820,
+        "word": "做有钱的独立女性有多爽",
+        "onboard_time": 1702614034,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195681,
+        "num": 195681,
+        "word": "2023年度弹幕",
+        "onboard_time": 1702613617,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183920,
+        "num": 183920,
+        "word": "王安宇 凤尾",
+        "onboard_time": 1702611217,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144688,
+        "num": 181762,
+        "word": "考研 生命过场",
+        "onboard_time": 1702607073,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广西南宁市考察调研#"
+    }
+  }
+}
