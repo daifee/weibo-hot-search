@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702636603999,
+  "endTime": 1702638953568,
   "band_list": [
     {
       "raw_hot": 5394223,
@@ -131,6 +131,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1584757,
+      "num": 754685,
+      "word": "韩国人吐槽中国理发店",
+      "onboard_time": 1702635876,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1520832,
       "num": 1520832,
       "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
@@ -193,6 +201,14 @@
       "onboard_time": 1702606835,
       "rank": 17,
       "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 1132184,
+      "num": 320775,
+      "word": "董宇辉账号粉丝数接近东方甄选一半",
+      "onboard_time": 1702635876,
+      "rank": 22,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1111384,
@@ -339,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 754685,
-      "num": 754685,
-      "word": "韩国人吐槽中国理发店",
-      "onboard_time": 1702635876,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 743567,
       "num": 606560,
       "word": "专家称3000点之下可能一去不复返",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695742,
+      "num": 695742,
+      "word": "刘少林被曝携女友进入教练席惹争议",
+      "onboard_time": 1702636295,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 684327,
       "num": 581684,
       "word": "港媒曝肖战将与徐克再合作",
@@ -433,14 +449,6 @@
       "onboard_time": 1702612714,
       "rank": 20,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 619086,
-      "num": 320775,
-      "word": "董宇辉账号粉丝数接近东方甄选一半",
-      "onboard_time": 1702635876,
-      "rank": 22,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 609552,
@@ -611,12 +619,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 486785,
+      "num": 290408,
+      "word": "张家口警方回应网传女子裸体冻亡",
+      "onboard_time": 1702637076,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484977,
       "num": 484977,
       "word": "脱轨 眼睛友好",
       "onboard_time": 1702566635,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481452,
+      "num": 481452,
+      "word": "甘肃白银越野赛事故多人获刑",
+      "onboard_time": 1702635154,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478555,
@@ -731,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405537,
-      "num": 405537,
-      "word": "甘肃白银越野赛事故多人获刑",
-      "onboard_time": 1702635154,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399259,
       "num": 399259,
       "word": "光明网评董宇辉孟羽童事件",
@@ -803,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376689,
+      "num": 212532,
+      "word": "高途CEO称不主动挖董宇辉",
+      "onboard_time": 1702636478,
+      "rank": 49,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 370532,
       "num": 370532,
       "word": "内娱甘露寺17步上演熹妃回宫",
@@ -819,12 +843,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 369314,
+      "num": 201265,
+      "word": "陈梦vs早田希娜",
+      "onboard_time": 1702638574,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368681,
       "num": 368681,
       "word": "央视2024年电视剧片单",
       "onboard_time": 1702617097,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363928,
+      "num": 240030,
+      "word": "传京东欲挖董宇辉",
+      "onboard_time": 1702636416,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 363914,
@@ -929,6 +969,14 @@
       "onboard_time": 1702610133,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319103,
+      "num": 284371,
+      "word": "成都地铁官微被指内涵网友住嘴",
+      "onboard_time": 1702638034,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316892,
@@ -1211,14 +1259,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 253342,
-      "num": 240030,
-      "word": "传京东欲挖董宇辉",
-      "onboard_time": 1702636416,
-      "rank": 30,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 252139,
       "num": 252139,
       "word": "张家辉 在座的都是垃圾",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1702610851,
       "rank": 39,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 247877,
+      "num": 247877,
+      "word": "逆水寒 女烈士",
+      "onboard_time": 1702637855,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 247389,
@@ -1289,14 +1337,6 @@
       "onboard_time": 1702565676,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236770,
-      "num": 236770,
-      "word": "刘少林被曝携女友进入教练席惹争议",
-      "onboard_time": 1702636295,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 233585,
@@ -1561,6 +1601,22 @@
       "onboard_time": 1702601740,
       "rank": 37,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 201322,
+      "num": 201322,
+      "word": "杨紫 家人永远是最重要的",
+      "onboard_time": 1702637855,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199562,
+      "num": 199562,
+      "word": "鸣龙少年 十八岁的天空",
+      "onboard_time": 1702638273,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 199508,
@@ -1915,6 +1971,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 160672,
+      "num": 160672,
+      "word": "交往真的需要消耗很大的能量",
+      "onboard_time": 1702637677,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159435,
       "num": 228839,
       "word": "勇士vs快船",
@@ -1953,14 +2017,6 @@
       "onboard_time": 1702629033,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151955,
-      "num": 151955,
-      "word": "高途CEO称不主动挖董宇辉",
-      "onboard_time": 1702636478,
-      "rank": 49,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 150448,
@@ -2009,6 +2065,14 @@
       "onboard_time": 1702603895,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146874,
+      "num": 146874,
+      "word": "乐评人聊华晨宇新歌",
+      "onboard_time": 1702638755,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 146860,
@@ -2171,12 +2235,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 126726,
+      "num": 126726,
+      "word": "陈幸同3比2斯佐科斯",
+      "onboard_time": 1702638094,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126594,
       "num": 199293,
       "word": "谁懂原图直出的快乐",
       "onboard_time": 1702611335,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126262,
+      "num": 126262,
+      "word": "石家庄免费乘坐地铁公交",
+      "onboard_time": 1702638514,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125625,
@@ -2233,6 +2313,14 @@
       "onboard_time": 1702628133,
       "rank": 48,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 120109,
+      "num": 126698,
+      "word": "脱轨播放量",
+      "onboard_time": 1702638817,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119763,
@@ -2385,6 +2473,14 @@
       "onboard_time": 1702595602,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82338,
+      "num": 285650,
+      "word": "时代少年团元梦综艺首秀",
+      "onboard_time": 1702638034,
+      "rank": 14,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 81496,
