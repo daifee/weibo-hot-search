@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702607479492,
+  "endTime": 1702608112311,
   "band_list": [
     {
       "raw_hot": 3269280,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1433041,
-      "num": 275685,
+      "raw_hot": 1544864,
+      "num": 380315,
       "word": "感冒花了12万",
       "onboard_time": 1702605451,
       "rank": 11,
@@ -67,20 +67,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1221619,
+      "num": 599599,
+      "word": "小杨哥评价董宇辉",
+      "onboard_time": 1702605814,
+      "rank": 3,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1201392,
       "num": 425220,
       "word": "女生称遭男童袭胸老人护孙摔断腰椎",
       "onboard_time": 1702600718,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1147033,
-      "num": 444033,
-      "word": "小杨哥评价董宇辉",
-      "onboard_time": 1702605814,
-      "rank": 3,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1111384,
@@ -211,6 +211,22 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 634398,
+      "num": 634398,
+      "word": "茶百道 盲盒",
+      "onboard_time": 1702606835,
+      "rank": 17,
+      "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 595602,
+      "num": 595602,
+      "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
+      "onboard_time": 1702607495,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571082,
       "num": 193773,
       "word": "北京地铁披露故障细节",
@@ -291,20 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459468,
+      "num": 359215,
+      "word": "东京一餐馆禁止中国人入内",
+      "onboard_time": 1702605753,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427288,
+      "num": 427288,
+      "word": "钟楚曦 我试过但是被人拍到",
+      "onboard_time": 1702607495,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425281,
       "num": 425281,
       "word": "一念关山27集剪辑",
       "onboard_time": 1702598369,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 425073,
-      "num": 263711,
-      "word": "茶百道 盲盒",
-      "onboard_time": 1702606835,
-      "rank": 17,
-      "category": "美食,游戏"
     },
     {
       "raw_hot": 425027,
@@ -320,14 +344,6 @@
       "word": "北京地铁就昌平线事故道歉",
       "onboard_time": 1702567356,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399608,
-      "num": 263356,
-      "word": "东京一餐馆禁止中国人入内",
-      "onboard_time": 1702605753,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -353,6 +369,14 @@
       "onboard_time": 1702561959,
       "rank": 8,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 315873,
+      "num": 315873,
+      "word": "贺军翔谈杨丞琳言论风波",
+      "onboard_time": 1702607673,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 313172,
@@ -451,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 241630,
+      "num": 241630,
+      "word": "工银瑞信基金副总经理杜海涛去世",
+      "onboard_time": 1702607554,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 239708,
       "num": 260763,
       "word": "冷到发紫的寒潮到达南方",
@@ -523,6 +555,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 207565,
+      "num": 207565,
+      "word": "考研 生命过场",
+      "onboard_time": 1702607073,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 205357,
       "num": 205357,
       "word": "高途CEO回应与新东方竞争",
@@ -537,6 +577,14 @@
       "onboard_time": 1702601740,
       "rank": 37,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 197025,
+      "num": 197025,
+      "word": "江苏无偿献血4000毫升可享三免政策",
+      "onboard_time": 1702606473,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194785,
@@ -595,6 +643,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 186439,
+      "num": 186439,
+      "word": "声生不息",
+      "onboard_time": 1702606772,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185904,
       "num": 175670,
       "word": "高途股价4天涨72%",
@@ -611,12 +667,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183264,
-      "num": 183264,
-      "word": "江苏无偿献血4000毫升可享三免政策",
-      "onboard_time": 1702606473,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 182371,
+      "num": 182371,
+      "word": "林园谈葛兰亏300亿管理费收30亿",
+      "onboard_time": 1702607914,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 181397,
@@ -633,14 +689,6 @@
       "onboard_time": 1702603354,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 177696,
-      "num": 177696,
-      "word": "声生不息",
-      "onboard_time": 1702606772,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 176066,
@@ -665,6 +713,14 @@
       "onboard_time": 1702549533,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 172399,
+      "num": 172399,
+      "word": "萌兰越狱2周年",
+      "onboard_time": 1702607196,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169290,
@@ -699,12 +755,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158574,
-      "num": 158574,
-      "word": "考研 生命过场",
-      "onboard_time": 1702607073,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 158619,
+      "num": 158619,
+      "word": "陈飞宇献鱼开机大吉",
+      "onboard_time": 1702607855,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 158118,
@@ -713,6 +769,14 @@
       "onboard_time": 1702598430,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156576,
+      "num": 156576,
+      "word": "孙东旭今年减持新东方套现超2亿",
+      "onboard_time": 1702607914,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 150448,
@@ -795,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137235,
+      "num": 137235,
+      "word": "11月份国民经济持续回升向好",
+      "onboard_time": 1702607373,
+      "rank": 46,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 136272,
       "num": 135521,
       "word": "董宇辉小作文",
@@ -817,14 +889,6 @@
       "onboard_time": 1702549116,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133025,
-      "num": 133025,
-      "word": "萌兰越狱2周年",
-      "onboard_time": 1702607196,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132847,
@@ -867,12 +931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115676,
-      "num": 115676,
-      "word": "11月份国民经济持续回升向好",
-      "onboard_time": 1702607373,
-      "rank": 46,
-      "category": "财经,国内时政"
+      "raw_hot": 117553,
+      "num": 117553,
+      "word": "余华谈如何好好活着",
+      "onboard_time": 1702607673,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 112493,
@@ -897,6 +961,14 @@
       "onboard_time": 1702596023,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 106368,
+      "num": 368727,
+      "word": "TiMi一响公主登场",
+      "onboard_time": 1702605634,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 104119,
@@ -937,14 +1009,6 @@
       "onboard_time": 1702590074,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85735,
-      "num": 270256,
-      "word": "TiMi一响公主登场",
-      "onboard_time": 1702605634,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 82820,

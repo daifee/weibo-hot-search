@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702607479492,
+  "endTime": 1702608112311,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -2051,6 +2051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1544864,
+      "num": 380315,
+      "word": "感冒花了12万",
+      "onboard_time": 1702605451,
+      "rank": 11,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 1544095,
       "num": 332838,
       "word": "阿信嗓子",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1702373434,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1433041,
-      "num": 275685,
-      "word": "感冒花了12万",
-      "onboard_time": 1702605451,
-      "rank": 11,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 1432250,
@@ -2851,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1221619,
+      "num": 599599,
+      "word": "小杨哥评价董宇辉",
+      "onboard_time": 1702605814,
+      "rank": 3,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1218449,
       "num": 966886,
       "word": "湖南省一县委书记坠江身亡",
@@ -3105,14 +3113,6 @@
       "onboard_time": 1702219300,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1147033,
-      "num": 444033,
-      "word": "小杨哥评价董宇辉",
-      "onboard_time": 1702605814,
-      "rank": 3,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1137326,
@@ -6683,6 +6683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 634398,
+      "num": 634398,
+      "word": "茶百道 盲盒",
+      "onboard_time": 1702606835,
+      "rank": 17,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 634294,
       "num": 634294,
       "word": "刘诗诗 北京",
@@ -7153,6 +7161,14 @@
       "onboard_time": 1701940303,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 595602,
+      "num": 595602,
+      "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
+      "onboard_time": 1702607495,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 595383,
@@ -9987,6 +10003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459468,
+      "num": 359215,
+      "word": "东京一餐馆禁止中国人入内",
+      "onboard_time": 1702605753,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459362,
       "num": 459362,
       "word": "刘宇宁回应女神收割机",
@@ -11011,6 +11035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 427288,
+      "num": 427288,
+      "word": "钟楚曦 我试过但是被人拍到",
+      "onboard_time": 1702607495,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427270,
       "num": 427270,
       "word": "小猫耳朵会被冻掉",
@@ -11113,14 +11145,6 @@
       "onboard_time": 1702426060,
       "rank": 18,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 425073,
-      "num": 263711,
-      "word": "茶百道 盲盒",
-      "onboard_time": 1702606835,
-      "rank": 17,
-      "category": "美食,游戏"
     },
     {
       "raw_hot": 425067,
@@ -11944,14 +11968,6 @@
       "word": "小女孩等了11年终于有自己的房间",
       "onboard_time": 1701654874,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399608,
-      "num": 263356,
-      "word": "东京一餐馆禁止中国人入内",
-      "onboard_time": 1702605753,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -15497,6 +15513,14 @@
       "onboard_time": 1702538495,
       "rank": 27,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 315873,
+      "num": 315873,
+      "word": "贺军翔谈杨丞琳言论风波",
+      "onboard_time": 1702607673,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 315728,
@@ -20867,6 +20891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241630,
+      "num": 241630,
+      "word": "工银瑞信基金副总经理杜海涛去世",
+      "onboard_time": 1702607554,
+      "rank": 26,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 241601,
       "num": 241601,
       "word": "BLG对战GEN",
@@ -24571,6 +24603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207565,
+      "num": 207565,
+      "word": "考研 生命过场",
+      "onboard_time": 1702607073,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207405,
       "num": 207405,
       "word": "济南发布暴雪红色预警",
@@ -26241,6 +26281,14 @@
       "onboard_time": 1702046140,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197025,
+      "num": 197025,
+      "word": "江苏无偿献血4000毫升可享三免政策",
+      "onboard_time": 1702606473,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196817,
@@ -28587,14 +28635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183264,
-      "num": 183264,
-      "word": "江苏无偿献血4000毫升可享三免政策",
-      "onboard_time": 1702606473,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183238,
       "num": 183238,
       "word": "杨超越紫色闪钻眼妆",
@@ -28697,6 +28737,14 @@
       "onboard_time": 1702341398,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 182371,
+      "num": 182371,
+      "word": "林园谈葛兰亏300亿管理费收30亿",
+      "onboard_time": 1702607914,
+      "rank": 37,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 182275,
@@ -29769,6 +29817,14 @@
       "onboard_time": 1701847294,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172399,
+      "num": 172399,
+      "word": "萌兰越狱2周年",
+      "onboard_time": 1702607196,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172396,
@@ -31627,12 +31683,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 158574,
-      "num": 158574,
-      "word": "考研 生命过场",
-      "onboard_time": 1702607073,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 158619,
+      "num": 158619,
+      "word": "陈飞宇献鱼开机大吉",
+      "onboard_time": 1702607855,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 158526,
@@ -31913,6 +31969,14 @@
       "onboard_time": 1702170451,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 156576,
+      "num": 156576,
+      "word": "孙东旭今年减持新东方套现超2亿",
+      "onboard_time": 1702607914,
+      "rank": 43,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 156516,
@@ -34419,6 +34483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137235,
+      "num": 137235,
+      "word": "11月份国民经济持续回升向好",
+      "onboard_time": 1702607373,
+      "rank": 46,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 137123,
       "num": 137123,
       "word": "班长一时外向换来四年内向",
@@ -34825,14 +34897,6 @@
       "onboard_time": 1702263272,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133025,
-      "num": 133025,
-      "word": "萌兰越狱2周年",
-      "onboard_time": 1702607196,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132929,
@@ -36059,6 +36123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117553,
+      "num": 117553,
+      "word": "余华谈如何好好活着",
+      "onboard_time": 1702607673,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 117506,
       "num": 139825,
       "word": "恋与春晚",
@@ -36177,14 +36249,6 @@
       "onboard_time": 1701874484,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115676,
-      "num": 115676,
-      "word": "11月份国民经济持续回升向好",
-      "onboard_time": 1702607373,
-      "rank": 46,
-      "category": "财经,国内时政"
     },
     {
       "raw_hot": 115645,
@@ -36585,6 +36649,14 @@
       "onboard_time": 1701987677,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106368,
+      "num": 368727,
+      "word": "TiMi一响公主登场",
+      "onboard_time": 1702605634,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 106336,
@@ -37233,14 +37305,6 @@
       "onboard_time": 1701450443,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 85735,
-      "num": 270256,
-      "word": "TiMi一响公主登场",
-      "onboard_time": 1702605634,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 85096,
