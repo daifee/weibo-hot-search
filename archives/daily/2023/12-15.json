@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702610360943,
+  "endTime": 1702611257138,
   "band_list": [
     {
       "raw_hot": 3269280,
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1605891,
+      "raw_hot": 1641426,
       "num": 732047,
       "word": "东方甄选回应外界质疑",
       "onboard_time": 1702608818,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1454291,
-      "num": 599599,
+      "num": 680162,
       "word": "小杨哥评价董宇辉",
       "onboard_time": 1702605814,
       "rank": 3,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1159316,
+      "num": 1159316,
+      "word": "茶百道 盲盒",
+      "onboard_time": 1702606835,
+      "rank": 17,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 1111384,
       "num": 425225,
       "word": "中1.44亿元彩民中奖号码已守3年",
@@ -113,14 +121,6 @@
       "onboard_time": 1702559617,
       "rank": 3,
       "category": "互联网,剧集"
-    },
-    {
-      "raw_hot": 1032718,
-      "num": 1032718,
-      "word": "茶百道 盲盒",
-      "onboard_time": 1702606835,
-      "rank": 17,
-      "category": "美食,游戏"
     },
     {
       "raw_hot": 982131,
@@ -171,7 +171,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 795939,
+      "raw_hot": 857187,
       "num": 315873,
       "word": "贺军翔谈杨丞琳言论风波",
       "onboard_time": 1702607673,
@@ -315,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513375,
+      "num": 513375,
+      "word": "献鱼 妆造",
+      "onboard_time": 1702610133,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 508835,
       "num": 425106,
       "word": "你不结婚我晚上睡不着 那找个夜班上",
@@ -337,6 +345,14 @@
       "onboard_time": 1702566635,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 450181,
+      "num": 450181,
+      "word": "骨科医生雪天建议走企鹅步",
+      "onboard_time": 1702609713,
+      "rank": 28,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 425281,
@@ -372,11 +388,19 @@
     },
     {
       "raw_hot": 388985,
-      "num": 247276,
+      "num": 354158,
       "word": "孙东旭今年减持新东方套现超2亿",
       "onboard_time": 1702607914,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 370022,
+      "num": 288757,
+      "word": "俞敏洪道歉能否让东方甄选留住董宇辉",
+      "onboard_time": 1702609471,
+      "rank": 33,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 358261,
@@ -403,12 +427,36 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 327413,
+      "num": 289456,
+      "word": "杨洋捧花",
+      "onboard_time": 1702610133,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 322158,
+      "num": 285874,
+      "word": "晚上睡不着和熬夜有什么区别",
+      "onboard_time": 1702610554,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 313172,
       "num": 313172,
       "word": "杭州你这样让其他兄弟省份很难做啊",
       "onboard_time": 1702596324,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301713,
+      "num": 301713,
+      "word": "小霞3.0",
+      "onboard_time": 1702610554,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 300009,
@@ -483,6 +531,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 262177,
+      "num": 262177,
+      "word": "考研 生命过场",
+      "onboard_time": 1702607073,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256276,
       "num": 256276,
       "word": "刘诗诗 为一念关山改变慢热",
@@ -499,28 +555,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 255584,
-      "num": 216148,
-      "word": "俞敏洪道歉能否让东方甄选留住董宇辉",
-      "onboard_time": 1702609471,
-      "rank": 33,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 254108,
       "num": 140099,
       "word": "董宇辉真实年薪不足千万",
       "onboard_time": 1702541433,
       "rank": 37,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 247011,
-      "num": 247011,
-      "word": "考研 生命过场",
-      "onboard_time": 1702607073,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 245702,
@@ -553,14 +593,6 @@
       "onboard_time": 1702565676,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225451,
-      "num": 225451,
-      "word": "骨科医生雪天建议走企鹅步",
-      "onboard_time": 1702609713,
-      "rank": 28,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 220449,
@@ -625,14 +657,6 @@
       "onboard_time": 1702601856,
       "rank": 35,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 205739,
-      "num": 205739,
-      "word": "献鱼 妆造",
-      "onboard_time": 1702610133,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 205357,
@@ -763,6 +787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179433,
+      "num": 192200,
+      "word": "你的免疫力是怎么变没的",
+      "onboard_time": 1702610851,
+      "rank": 39,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 176066,
       "num": 176066,
       "word": "仙侠版出轨被抓",
@@ -792,14 +824,6 @@
       "word": "王安宇赵露思 陌生人给我糖",
       "onboard_time": 1702559797,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165819,
-      "num": 165819,
-      "word": "杨洋捧花",
-      "onboard_time": 1702610133,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -852,7 +876,7 @@
     },
     {
       "raw_hot": 147620,
-      "num": 245904,
+      "num": 287702,
       "word": "vivo真的好懂年轻人",
       "onboard_time": 1702609052,
       "rank": 25,
@@ -889,6 +913,14 @@
       "onboard_time": 1702608217,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144925,
+      "num": 144925,
+      "word": "东方甄选股价创7月以来新低",
+      "onboard_time": 1702610496,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 144372,
@@ -931,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137928,
+      "num": 233823,
+      "word": "台湾对大陆贸易限制构成贸易壁垒",
+      "onboard_time": 1702611029,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137235,
       "num": 137235,
       "word": "11月份国民经济持续回升向好",
@@ -971,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130541,
+      "num": 130541,
+      "word": "动画 AI制作",
+      "onboard_time": 1702611217,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 130252,
       "num": 130252,
       "word": "高途主播泪洒直播间庆祝粉丝破百万",
@@ -987,6 +1035,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 126637,
+      "num": 126637,
+      "word": "王安宇 凤尾",
+      "onboard_time": 1702611217,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125625,
       "num": 125625,
       "word": "被男友妈说吃生日蛋糕减寿命",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1702595904,
       "rank": 26,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 122485,
+      "num": 131024,
+      "word": "世界强化免疫日",
+      "onboard_time": 1702610851,
+      "rank": 47,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 119475,
@@ -1033,6 +1097,14 @@
       "onboard_time": 1702567295,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 107521,
+      "num": 296280,
+      "word": "人人人人元梦之星人人人人",
+      "onboard_time": 1702609233,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 106776,
@@ -1137,14 +1209,6 @@
       "onboard_time": 1702574420,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62289,
-      "num": 247653,
-      "word": "人人人人元梦之星人人人人",
-      "onboard_time": 1702609233,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 58812,

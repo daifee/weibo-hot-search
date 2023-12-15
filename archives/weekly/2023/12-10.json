@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702610360943,
+  "endTime": 1702611257138,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -779,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1641426,
+      "num": 732047,
+      "word": "东方甄选回应外界质疑",
+      "onboard_time": 1702608818,
+      "rank": 3,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1629040,
       "num": 418593,
       "word": "昌平线故障已发现30余人受伤",
@@ -801,14 +809,6 @@
       "onboard_time": 1702526433,
       "rank": 3,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 1605891,
-      "num": 732047,
-      "word": "东方甄选回应外界质疑",
-      "onboard_time": 1702608818,
-      "rank": 3,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1595862,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 1454291,
-      "num": 599599,
+      "num": 680162,
       "word": "小杨哥评价董宇辉",
       "onboard_time": 1702605814,
       "rank": 3,
@@ -1195,6 +1195,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1159316,
+      "num": 1159316,
+      "word": "茶百道 盲盒",
+      "onboard_time": 1702606835,
+      "rank": 17,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 1156766,
       "num": 1156766,
       "word": "杨丞琳河南风波后首现身",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1702170929,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1032718,
-      "num": 1032718,
-      "word": "茶百道 盲盒",
-      "onboard_time": 1702606835,
-      "rank": 17,
-      "category": "美食,游戏"
     },
     {
       "raw_hot": 1032137,
@@ -1755,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857187,
+      "num": 315873,
+      "word": "贺军翔谈杨丞琳言论风波",
+      "onboard_time": 1702607673,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 856289,
       "num": 856289,
       "word": "鹿晗 云南",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1702536033,
       "rank": 6,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 795939,
-      "num": 315873,
-      "word": "贺军翔谈杨丞琳言论风波",
-      "onboard_time": 1702607673,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 792946,
@@ -3395,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513375,
+      "num": 513375,
+      "word": "献鱼 妆造",
+      "onboard_time": 1702610133,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 512494,
       "num": 666026,
       "word": "研究生宿舍",
@@ -4009,6 +4017,14 @@
       "onboard_time": 1702119273,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 450181,
+      "num": 450181,
+      "word": "骨科医生雪天建议走企鹅步",
+      "onboard_time": 1702609713,
+      "rank": 28,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 449594,
@@ -4708,7 +4724,7 @@
     },
     {
       "raw_hot": 388985,
-      "num": 247276,
+      "num": 354158,
       "word": "孙东旭今年减持新东方套现超2亿",
       "onboard_time": 1702607914,
       "rank": 43,
@@ -4993,6 +5009,14 @@
       "onboard_time": 1702437454,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370022,
+      "num": 288757,
+      "word": "俞敏洪道歉能否让东方甄选留住董宇辉",
+      "onboard_time": 1702609471,
+      "rank": 33,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 369975,
@@ -5659,6 +5683,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 327413,
+      "num": 289456,
+      "word": "杨洋捧花",
+      "onboard_time": 1702610133,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326474,
       "num": 326474,
       "word": "红斑狼疮早期可能会口腔溃疡",
@@ -5737,6 +5769,14 @@
       "onboard_time": 1702361614,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322158,
+      "num": 285874,
+      "word": "晚上睡不着和熬夜有什么区别",
+      "onboard_time": 1702610554,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 321071,
@@ -6121,6 +6161,14 @@
       "onboard_time": 1702134999,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 301713,
+      "num": 301713,
+      "word": "小霞3.0",
+      "onboard_time": 1702610554,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 300904,
@@ -7099,6 +7147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262177,
+      "num": 262177,
+      "word": "考研 生命过场",
+      "onboard_time": 1702607073,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262003,
       "num": 262003,
       "word": "真爱的第一征兆是什么",
@@ -7289,14 +7345,6 @@
       "onboard_time": 1702381234,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255584,
-      "num": 216148,
-      "word": "俞敏洪道歉能否让东方甄选留住董宇辉",
-      "onboard_time": 1702609471,
-      "rank": 33,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 255486,
@@ -7601,14 +7649,6 @@
       "onboard_time": 1702441122,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 247011,
-      "num": 247011,
-      "word": "考研 生命过场",
-      "onboard_time": 1702607073,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 246937,
@@ -8513,14 +8553,6 @@
       "onboard_time": 1702543595,
       "rank": 27,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 225451,
-      "num": 225451,
-      "word": "骨科医生雪天建议走企鹅步",
-      "onboard_time": 1702609713,
-      "rank": 28,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 225295,
@@ -9465,14 +9497,6 @@
       "onboard_time": 1702478858,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 205739,
-      "num": 205739,
-      "word": "献鱼 妆造",
-      "onboard_time": 1702610133,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 205678,
@@ -11387,6 +11411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179433,
+      "num": 192200,
+      "word": "你的免疫力是怎么变没的",
+      "onboard_time": 1702610851,
+      "rank": 39,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 178812,
       "num": 178812,
       "word": "刘宇宁采访",
@@ -12080,14 +12112,6 @@
       "word": "原来高海宁是个甜妹",
       "onboard_time": 1702255176,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165819,
-      "num": 165819,
-      "word": "杨洋捧花",
-      "onboard_time": 1702610133,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -13156,7 +13180,7 @@
     },
     {
       "raw_hot": 147620,
-      "num": 245904,
+      "num": 287702,
       "word": "vivo真的好懂年轻人",
       "onboard_time": 1702609052,
       "rank": 25,
@@ -13305,6 +13329,14 @@
       "onboard_time": 1702519655,
       "rank": 37,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 144925,
+      "num": 144925,
+      "word": "东方甄选股价创7月以来新低",
+      "onboard_time": 1702610496,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 144614,
@@ -13675,6 +13707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137928,
+      "num": 233823,
+      "word": "台湾对大陆贸易限制构成贸易壁垒",
+      "onboard_time": 1702611029,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137848,
       "num": 137848,
       "word": "太阳三巨头要合体了",
@@ -13995,6 +14035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130541,
+      "num": 130541,
+      "word": "动画 AI制作",
+      "onboard_time": 1702611217,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 130252,
       "num": 130252,
       "word": "高途主播泪洒直播间庆祝粉丝破百万",
@@ -14137,6 +14185,14 @@
       "onboard_time": 1702346555,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126637,
+      "num": 126637,
+      "word": "王安宇 凤尾",
+      "onboard_time": 1702611217,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 126635,
@@ -14329,6 +14385,14 @@
       "onboard_time": 1702172971,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122485,
+      "num": 131024,
+      "word": "世界强化免疫日",
+      "onboard_time": 1702610851,
+      "rank": 47,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 121965,
@@ -14593,6 +14657,14 @@
       "onboard_time": 1702468472,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107521,
+      "num": 296280,
+      "word": "人人人人元梦之星人人人人",
+      "onboard_time": 1702609233,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 106847,
@@ -15169,14 +15241,6 @@
       "onboard_time": 1702127435,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 62289,
-      "num": 247653,
-      "word": "人人人人元梦之星人人人人",
-      "onboard_time": 1702609233,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 62108,
