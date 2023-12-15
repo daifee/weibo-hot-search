@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702604314798,
+  "endTime": 1702607479492,
   "band_list": [
     {
       "raw_hot": 3269280,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2532986,
+      "num": 188634,
+      "word": "微信收费",
+      "onboard_time": 1702606052,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1986505,
       "num": 519374,
       "word": "董宇辉 停播",
@@ -33,6 +41,14 @@
       "onboard_time": 1702596504,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1433041,
+      "num": 275685,
+      "word": "感冒花了12万",
+      "onboard_time": 1702605451,
+      "rank": 11,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 1356678,
@@ -57,6 +73,14 @@
       "onboard_time": 1702600718,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1147033,
+      "num": 444033,
+      "word": "小杨哥评价董宇辉",
+      "onboard_time": 1702605814,
+      "rank": 3,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1111384,
@@ -89,6 +113,14 @@
       "onboard_time": 1702544195,
       "rank": 1,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 915618,
+      "num": 915618,
+      "word": "学校花1500万买下空客A320给学生练手",
+      "onboard_time": 1702596563,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 913445,
@@ -155,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 694750,
-      "num": 694750,
-      "word": "学校花1500万买下空客A320给学生练手",
-      "onboard_time": 1702596563,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 680017,
       "num": 680017,
       "word": "双子座流星雨画面",
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 560705,
-      "num": 356786,
+      "num": 438151,
       "word": "李晋晔淘汰",
       "onboard_time": 1702603054,
       "rank": 17,
@@ -275,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425073,
+      "num": 263711,
+      "word": "茶百道 盲盒",
+      "onboard_time": 1702606835,
+      "rank": 17,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 425027,
       "num": 425027,
       "word": "因为4分钱被同事删除了",
@@ -288,6 +320,14 @@
       "word": "北京地铁就昌平线事故道歉",
       "onboard_time": 1702567356,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399608,
+      "num": 263356,
+      "word": "东京一餐馆禁止中国人入内",
+      "onboard_time": 1702605753,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -435,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216596,
+      "num": 216596,
+      "word": "胸痛可能是心梗前兆",
+      "onboard_time": 1702605634,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215796,
       "num": 208969,
       "word": "魏大勋周深吴昕杨迪熟人局",
@@ -449,6 +497,14 @@
       "onboard_time": 1702603595,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215026,
+      "num": 215026,
+      "word": "勇士总经理提出无限期禁赛格林",
+      "onboard_time": 1702605634,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 214483,
@@ -483,6 +539,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 194785,
+      "num": 194785,
+      "word": "凡人修仙传杀青官宣",
+      "onboard_time": 1702606593,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194749,
       "num": 194749,
       "word": "赵露思王安宇 美颜特效",
@@ -515,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189466,
+      "num": 189466,
+      "word": "做完一切事情才晚上八点",
+      "onboard_time": 1702605930,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187348,
       "num": 187348,
       "word": "减大小腿赘肉",
@@ -531,6 +603,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 184163,
+      "num": 184163,
+      "word": "小伙养花13年从i人变e人",
+      "onboard_time": 1702607253,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183264,
+      "num": 183264,
+      "word": "江苏无偿献血4000毫升可享三免政策",
+      "onboard_time": 1702606473,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181397,
       "num": 181397,
       "word": "Ditto 伴奏",
@@ -545,6 +633,14 @@
       "onboard_time": 1702603354,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 177696,
+      "num": 177696,
+      "word": "声生不息",
+      "onboard_time": 1702606772,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 176066,
@@ -601,6 +697,14 @@
       "onboard_time": 1702598369,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158574,
+      "num": 158574,
+      "word": "考研 生命过场",
+      "onboard_time": 1702607073,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 158118,
@@ -667,6 +771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 140883,
+      "num": 140883,
+      "word": "萨摩耶宝宝集体越狱",
+      "onboard_time": 1702602874,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138274,
       "num": 138274,
       "word": "薛之谦 抢不到根本抢不到",
@@ -681,14 +793,6 @@
       "onboard_time": 1702563218,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136412,
-      "num": 136412,
-      "word": "萨摩耶宝宝集体越狱",
-      "onboard_time": 1702602874,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 136272,
@@ -713,6 +817,14 @@
       "onboard_time": 1702549116,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133025,
+      "num": 133025,
+      "word": "萌兰越狱2周年",
+      "onboard_time": 1702607196,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132847,
@@ -753,6 +865,14 @@
       "onboard_time": 1702560578,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115676,
+      "num": 115676,
+      "word": "11月份国民经济持续回升向好",
+      "onboard_time": 1702607373,
+      "rank": 46,
+      "category": "财经,国内时政"
     },
     {
       "raw_hot": 112493,
@@ -817,6 +937,14 @@
       "onboard_time": 1702590074,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85735,
+      "num": 270256,
+      "word": "TiMi一响公主登场",
+      "onboard_time": 1702605634,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 82820,
