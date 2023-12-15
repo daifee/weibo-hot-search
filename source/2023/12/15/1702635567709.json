@@ -1,0 +1,410 @@
+{
+  "runTime": 1702635567709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263325,
+        "num": 1263325,
+        "word": "张万森 你霉姐来了",
+        "onboard_time": 1702630654,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408057,
+        "num": 1184009,
+        "word": "警察叔叔我们捡到一位小孩子",
+        "onboard_time": 1702633772,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96572,
+        "num": 1175692,
+        "word": "新千里江山图",
+        "onboard_time": 1702630594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169953,
+        "num": 1169953,
+        "word": "罗永浩称董宇辉没必要浪费生命打工",
+        "onboard_time": 1702632873,
+        "rank": 3,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 299905,
+        "num": 845109,
+        "word": "爷爷删空短信独留孙女发的我爱你",
+        "onboard_time": 1702634132,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 803906,
+        "num": 803906,
+        "word": "央视曝9元机票实际到手价格接近600元",
+        "onboard_time": 1702631435,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136771,
+        "num": 774728,
+        "word": "10个月婴儿高烧惊厥子弟兵狂奔送医",
+        "onboard_time": 1702621114,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977231,
+        "num": 773759,
+        "word": "董宇辉事件",
+        "onboard_time": 1702634195,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 770916,
+        "num": 770916,
+        "word": "女子喝白酒死亡同桌3闺蜜担责",
+        "onboard_time": 1702621532,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502492,
+        "num": 502492,
+        "word": "余霜管泽元结婚照",
+        "onboard_time": 1702627412,
+        "rank": 9,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 1438065,
+        "num": 494727,
+        "word": "罗永浩 愿意支持董宇辉创业",
+        "onboard_time": 1702631373,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 585074,
+        "num": 491937,
+        "word": "杨幂走红毯 运动鞋加秋裤",
+        "onboard_time": 1702633956,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 473985,
+        "num": 473985,
+        "word": "王栎鑫 你口型都对错了",
+        "onboard_time": 1702623754,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1259748,
+        "num": 455232,
+        "word": "董宇辉 东方小孙",
+        "onboard_time": 1702629514,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 116048,
+        "num": 417398,
+        "word": "显眼包九尾gemini已上线",
+        "onboard_time": 1702634433,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410303,
+        "num": 410303,
+        "word": "68岁女子感染HPV称老伴都去世30多年",
+        "onboard_time": 1702620635,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367717,
+        "num": 367717,
+        "word": "藏在蛋糕里的危险",
+        "onboard_time": 1702630415,
+        "rank": 16,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 96772,
+        "num": 353417,
+        "word": "谁还没有一张照片记住2023",
+        "onboard_time": 1702634132,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349229,
+        "num": 349229,
+        "word": "小岛工作室 死亡搁浅电影",
+        "onboard_time": 1702631073,
+        "rank": 18,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 318206,
+        "num": 318206,
+        "word": "亚洲人为什么要用24小时制",
+        "onboard_time": 1702628254,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1829710,
+        "num": 312406,
+        "word": "孟羽童回应被董明珠怒斥",
+        "onboard_time": 1702622252,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 497841,
+        "num": 311956,
+        "word": "孟羽童面试时曾称月薪超4500就满足",
+        "onboard_time": 1702619492,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 394949,
+        "num": 311067,
+        "word": "肖战狼尾侧颜",
+        "onboard_time": 1702634673,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300250,
+        "num": 300250,
+        "word": "KBS",
+        "onboard_time": 1702630654,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293929,
+        "num": 293929,
+        "word": "甘肃白银越野赛事故多人获刑",
+        "onboard_time": 1702635154,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286401,
+        "num": 286401,
+        "word": "东方甄选直播间 评论区",
+        "onboard_time": 1702630353,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 275710,
+        "num": 275710,
+        "word": "Uzi肌肉",
+        "onboard_time": 1702629694,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238683,
+        "num": 238683,
+        "word": "刘浩存 演技",
+        "onboard_time": 1702619617,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239490,
+        "num": 235023,
+        "word": "没有董宇辉的东方甄选到底还行不行",
+        "onboard_time": 1702621653,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 226663,
+        "num": 226663,
+        "word": "国航一武汉飞往成都航班返航",
+        "onboard_time": 1702633898,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223843,
+        "num": 223843,
+        "word": "淘票票 有心了",
+        "onboard_time": 1702623092,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218048,
+        "num": 218048,
+        "word": "内娱甘露寺17步上演熹妃回宫",
+        "onboard_time": 1702629094,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213059,
+        "num": 213059,
+        "word": "名侦探柯南",
+        "onboard_time": 1702634011,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212795,
+        "num": 212795,
+        "word": "夹雪鸭子",
+        "onboard_time": 1702631494,
+        "rank": 33,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 201285,
+        "num": 201285,
+        "word": "爷爷生前藏了65年的俄语信",
+        "onboard_time": 1702618955,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199681,
+        "num": 199681,
+        "word": "剧版左耳空降",
+        "onboard_time": 1702616561,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37523,
+        "num": 194183,
+        "word": "一台好车能给你的幸福感",
+        "onboard_time": 1702634974,
+        "rank": 36,
+        "category": "汽车,情感"
+      },
+      {
+        "raw_hot": 193979,
+        "num": 193979,
+        "word": "吴昕杜海涛合体参演左耳",
+        "onboard_time": 1702634313,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192720,
+        "num": 192720,
+        "word": "鞠婧祎奶杏妆",
+        "onboard_time": 1702631851,
+        "rank": 38,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 14821,
+        "num": 184511,
+        "word": "任素汐听自己想听的",
+        "onboard_time": 1702635213,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180313,
+        "num": 180313,
+        "word": "东方甄选 打折",
+        "onboard_time": 1702623754,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 45377,
+        "num": 167154,
+        "word": "车企CEO精分了",
+        "onboard_time": 1702632990,
+        "rank": 41,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 165537,
+        "num": 165537,
+        "word": "孟羽童称当董事长秘书和具体业务脱节",
+        "onboard_time": 1702613495,
+        "rank": 42,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 167251,
+        "num": 161083,
+        "word": "演员曹征称因为董宇辉又开始看书",
+        "onboard_time": 1702634673,
+        "rank": 43,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 153588,
+        "num": 153588,
+        "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
+        "onboard_time": 1702607495,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151237,
+        "num": 151237,
+        "word": "很少用震撼形容一个手机壳",
+        "onboard_time": 1702634913,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139746,
+        "num": 139746,
+        "word": "这2种癌症早期症状往往会被忽视",
+        "onboard_time": 1702626096,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139323,
+        "num": 139323,
+        "word": "鼠头鸭脖涉事方及责任人被罚706万",
+        "onboard_time": 1702623155,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136700,
+        "num": 136700,
+        "word": "献鱼开机",
+        "onboard_time": 1702632333,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134927,
+        "num": 134927,
+        "word": "原来爱真的有颜色",
+        "onboard_time": 1702633473,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平访越高光时刻#"
+    }
+  }
+}
