@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702644557177,
+  "endTime": 1702646483753,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1702534953,
       "rank": 36,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 2180580,
+      "num": 2180580,
+      "word": "郝蕾发飙",
+      "onboard_time": 1702643737,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2171346,
@@ -2436,7 +2444,7 @@
     },
     {
       "raw_hot": 1447660,
-      "num": 388950,
+      "num": 430575,
       "word": "董宇辉否认加盟京东",
       "onboard_time": 1702642057,
       "rank": 11,
@@ -2516,7 +2524,7 @@
     },
     {
       "raw_hot": 1424062,
-      "num": 389415,
+      "num": 435862,
       "word": "董宇辉账号粉丝数接近东方甄选一半",
       "onboard_time": 1702635876,
       "rank": 22,
@@ -2609,6 +2617,14 @@
       "onboard_time": 1702472975,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1376388,
+      "num": 1376388,
+      "word": "B站 评论没了",
+      "onboard_time": 1702644935,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1366301,
@@ -4659,14 +4675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 844600,
-      "num": 844600,
-      "word": "郝蕾发飙",
-      "onboard_time": 1702643737,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 844483,
       "num": 844483,
       "word": "华润集团曝光四家假央企",
@@ -6275,6 +6283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 682227,
+      "num": 420246,
+      "word": "董宇辉孟羽童 打工人困境",
+      "onboard_time": 1702642356,
+      "rank": 17,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 681983,
       "num": 681983,
       "word": "何润东车祸未受伤",
@@ -6305,14 +6321,6 @@
       "onboard_time": 1702187495,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 680069,
-      "num": 380414,
-      "word": "董宇辉孟羽童 打工人困境",
-      "onboard_time": 1702642356,
-      "rank": 17,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 680017,
@@ -6348,7 +6356,7 @@
     },
     {
       "raw_hot": 675460,
-      "num": 369595,
+      "num": 406853,
       "word": "猝死的人都有的规律",
       "onboard_time": 1702639054,
       "rank": 21,
@@ -6409,6 +6417,14 @@
       "onboard_time": 1702599394,
       "rank": 16,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 672226,
+      "num": 672226,
+      "word": "KBS",
+      "onboard_time": 1702117053,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 672174,
@@ -6993,14 +7009,6 @@
       "onboard_time": 1702465114,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 632833,
-      "num": 632833,
-      "word": "KBS",
-      "onboard_time": 1702117053,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 632302,
@@ -8137,6 +8145,14 @@
       "onboard_time": 1702599754,
       "rank": 17,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 559355,
+      "num": 559355,
+      "word": "质疑马琳 成为马琳",
+      "onboard_time": 1702645774,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 558536,
@@ -12059,6 +12075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 412238,
+      "num": 412238,
+      "word": "张若昀科目三偷偷练了吧",
+      "onboard_time": 1702645175,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412179,
       "num": 412179,
       "word": "孙颖莎 正手",
@@ -12449,6 +12473,14 @@
       "onboard_time": 1702520192,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400390,
+      "num": 400390,
+      "word": "办公室政治",
+      "onboard_time": 1702644275,
+      "rank": 42,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 399984,
@@ -12881,6 +12913,14 @@
       "onboard_time": 1702607914,
       "rank": 43,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 388946,
+      "num": 388946,
+      "word": "迪丽热巴 近视人的痛苦日常",
+      "onboard_time": 1702644275,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 388577,
@@ -14691,6 +14731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349242,
+      "num": 349242,
+      "word": "孙颖莎3比2张本美和",
+      "onboard_time": 1702646077,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349229,
       "num": 349229,
       "word": "小岛工作室 死亡搁浅电影",
@@ -16075,6 +16123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 319103,
+      "num": 319103,
+      "word": "罗永浩直播",
+      "onboard_time": 1702644758,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 318893,
       "num": 318893,
       "word": "明星艺考照",
@@ -16443,6 +16499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312014,
+      "num": 312014,
+      "word": "原神 你看看人家",
+      "onboard_time": 1702644819,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311880,
       "num": 282188,
       "word": "isfj 阶段性朋友",
@@ -16529,6 +16593,14 @@
       "onboard_time": 1702356763,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310703,
+      "num": 310703,
+      "word": "EDG宣布Uzi离队",
+      "onboard_time": 1702644879,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 310698,
@@ -17401,6 +17473,14 @@
       "onboard_time": 1701750823,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298418,
+      "num": 298418,
+      "word": "星穹铁道 启动",
+      "onboard_time": 1702645417,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 298412,
@@ -18707,6 +18787,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 280172,
+      "num": 280172,
+      "word": "武汉下雪",
+      "onboard_time": 1702644879,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280160,
       "num": 280160,
       "word": "泰国一旅游大巴发生车祸致14死35伤",
@@ -19363,6 +19451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271807,
+      "num": 271807,
+      "word": "罗永浩回应俞敏洪翻车",
+      "onboard_time": 1702643494,
+      "rank": 49,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 271789,
       "num": 271789,
       "word": "费翔首谈母亲近况落泪",
@@ -19867,6 +19963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 264990,
+      "num": 264990,
+      "word": "教师们被忽视的情绪劳动",
+      "onboard_time": 1702642173,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 264892,
       "num": 264892,
       "word": "RNG官宣Breathe续约",
@@ -20209,6 +20313,14 @@
       "onboard_time": 1701946903,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 260431,
+      "num": 260431,
+      "word": "ZB1跳了EXO的咆哮",
+      "onboard_time": 1702645658,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 260288,
@@ -20947,14 +21059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251904,
-      "num": 251904,
-      "word": "罗永浩回应俞敏洪翻车",
-      "onboard_time": 1702643494,
-      "rank": 49,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 251698,
       "num": 287885,
       "word": "感冒快好的时候传染性最强吗",
@@ -21313,14 +21417,6 @@
       "onboard_time": 1702027720,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 247571,
-      "num": 247571,
-      "word": "迪丽热巴 近视人的痛苦日常",
-      "onboard_time": 1702644275,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 247426,
@@ -22353,6 +22449,14 @@
       "onboard_time": 1702290816,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236108,
+      "num": 236108,
+      "word": "崩铁免费送五星角色",
+      "onboard_time": 1702644636,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 236013,
@@ -23905,14 +24009,6 @@
       "onboard_time": 1701617432,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221852,
-      "num": 221852,
-      "word": "教师们被忽视的情绪劳动",
-      "onboard_time": 1702642173,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 221709,
@@ -27235,6 +27331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198936,
+      "num": 198936,
+      "word": "陈楚生把棚子唱塌了",
+      "onboard_time": 1702646376,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198925,
       "num": 198925,
       "word": "WB小组第一出线",
@@ -27345,6 +27449,14 @@
       "onboard_time": 1701931894,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198026,
+      "num": 198026,
+      "word": "六级 考前突击",
+      "onboard_time": 1702646017,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 198003,
@@ -27969,14 +28081,6 @@
       "onboard_time": 1701504571,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194458,
-      "num": 194458,
-      "word": "办公室政治",
-      "onboard_time": 1702644275,
-      "rank": 42,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 194445,
@@ -38555,6 +38659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99214,
+      "num": 312137,
+      "word": "匹诺康尼 好多人啊",
+      "onboard_time": 1702645233,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99159,
       "num": 99159,
       "word": "整场会议最忙的是小猫",
@@ -39667,6 +39779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62230,
+      "num": 686187,
+      "word": "航天员太空理发店又开业了",
+      "onboard_time": 1702630053,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62108,
       "num": 62108,
       "word": "多特蒙德1比1巴黎圣日耳曼",
@@ -40017,6 +40137,14 @@
       "onboard_time": 1701436776,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50182,
+      "num": 198249,
+      "word": "我在元梦学八段锦",
+      "onboard_time": 1702645598,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 50149,
@@ -40631,6 +40759,14 @@
       "num": 748842,
       "word": "来元梦薅鹅毛",
       "onboard_time": 1702551631,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 31931,
+      "num": 426117,
+      "word": "我在元梦之星滑雪",
+      "onboard_time": 1702645233,
       "rank": 14,
       "category": "游戏"
     },
@@ -41427,6 +41563,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 12223,
+      "num": 957211,
+      "word": "如果中国县城变身各科课代表",
+      "onboard_time": 1702646259,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12081,
       "num": 15096,
       "word": "大晴天交警为何穿雨衣指挥交通",
@@ -41496,14 +41640,6 @@
       "word": "大学生用AI帮11名失踪儿童回家",
       "onboard_time": 1701810554,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9134,
-      "num": 686187,
-      "word": "航天员太空理发店又开业了",
-      "onboard_time": 1702630053,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -41664,6 +41800,9 @@
     },
     {
       "word": "#习近平访越高光时刻#"
+    },
+    {
+      "word": "#确保人民群众安全温暖过冬#"
     }
   ]
 }
