@@ -1,0 +1,410 @@
+{
+  "runTime": 1702654474380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1258117,
+        "num": 1258117,
+        "word": "郝蕾发飙",
+        "onboard_time": 1702643737,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 797617,
+        "num": 797617,
+        "word": "杨迪 娱乐圈里清华北大的不多",
+        "onboard_time": 1702647875,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37617,
+        "num": 795115,
+        "word": "上天入海见证中国力量",
+        "onboard_time": 1702646737,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1751464,
+        "num": 794661,
+        "word": "警方回应狗场数只狗被割舌头割声带",
+        "onboard_time": 1702651477,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793568,
+        "num": 793568,
+        "word": "一个人 一双鞋 一条命",
+        "onboard_time": 1702650159,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 807157,
+        "num": 784306,
+        "word": "B站 评论没了",
+        "onboard_time": 1702644935,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 696286,
+        "num": 696286,
+        "word": "兔系帅哥",
+        "onboard_time": 1702649200,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557427,
+        "num": 557427,
+        "word": "孙颖莎拒绝爆冷",
+        "onboard_time": 1702648716,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529574,
+        "num": 529574,
+        "word": "怎么退四六级考试费",
+        "onboard_time": 1702650758,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 362378,
+        "num": 362378,
+        "word": "电视剧脱轨播放量",
+        "onboard_time": 1702638817,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1510001,
+        "num": 361821,
+        "word": "董宇辉账号粉丝数接近东方甄选一半",
+        "onboard_time": 1702635876,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 768677,
+        "num": 358811,
+        "word": "东方甄选粉丝跌破3000万",
+        "onboard_time": 1702649077,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 731426,
+        "num": 356530,
+        "word": "罗永浩 愿意支持董宇辉创业",
+        "onboard_time": 1702631373,
+        "rank": 12,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 619997,
+        "num": 356024,
+        "word": "罗永浩称董宇辉没必要浪费生命打工",
+        "onboard_time": 1702632873,
+        "rank": 13,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 75421,
+        "num": 353751,
+        "word": "时代少年团一起元梦",
+        "onboard_time": 1702611392,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 583508,
+        "num": 350853,
+        "word": "董宇辉事件",
+        "onboard_time": 1702634195,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 545304,
+        "num": 349114,
+        "word": "董宇辉孟羽童 打工人困境",
+        "onboard_time": 1702642356,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 451167,
+        "num": 346645,
+        "word": "东方甄选CEO称现在主打薄利多销",
+        "onboard_time": 1702650638,
+        "rank": 17,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 422405,
+        "num": 345308,
+        "word": "董宇辉否认加盟京东",
+        "onboard_time": 1702642057,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 406214,
+        "num": 342313,
+        "word": "董宇辉 东方小孙",
+        "onboard_time": 1702629514,
+        "rank": 19,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1137055,
+        "num": 341398,
+        "word": "孟羽童回应被董明珠怒斥",
+        "onboard_time": 1702622252,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 503762,
+        "num": 338017,
+        "word": "广州中午31℃下午发寒冷预警",
+        "onboard_time": 1702649200,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370061,
+        "num": 336793,
+        "word": "汤姆猫惨叫声 人类的声音",
+        "onboard_time": 1702653094,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335657,
+        "num": 335657,
+        "word": "电视剧真正的效应在长尾效应",
+        "onboard_time": 1702652074,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329295,
+        "num": 329295,
+        "word": "罗永浩否认会和董宇辉合作",
+        "onboard_time": 1702640854,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 60324,
+        "num": 322389,
+        "word": "宋亚轩公主请开心",
+        "onboard_time": 1702651900,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318082,
+        "num": 318082,
+        "word": "剑网三 退钱",
+        "onboard_time": 1702652798,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296823,
+        "num": 296823,
+        "word": "张万森 你霉姐来了",
+        "onboard_time": 1702630654,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239586,
+        "num": 290267,
+        "word": "爷爷删空短信独留孙女发的我爱你",
+        "onboard_time": 1702634132,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 135997,
+        "num": 288238,
+        "word": "布满油污的三轮车上放着一个蛋糕",
+        "onboard_time": 1702654056,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287039,
+        "num": 287039,
+        "word": "张若昀科目三偷偷练了吧",
+        "onboard_time": 1702645175,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260905,
+        "num": 260905,
+        "word": "韩国人吐槽中国理发店",
+        "onboard_time": 1702635876,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257902,
+        "num": 257902,
+        "word": "罗永浩直播",
+        "onboard_time": 1702644758,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254993,
+        "num": 254993,
+        "word": "与恶魔有约",
+        "onboard_time": 1702650037,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237093,
+        "num": 237093,
+        "word": "张家口警方回应网传女子裸体冻亡",
+        "onboard_time": 1702637076,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233157,
+        "num": 233157,
+        "word": "aespa 妆造",
+        "onboard_time": 1702647516,
+        "rank": 35,
+        "category": "音乐,美妆"
+      },
+      {
+        "raw_hot": 231585,
+        "num": 231585,
+        "word": "脱轨你放校园线我可不困了",
+        "onboard_time": 1702653513,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231413,
+        "num": 231413,
+        "word": "下雪",
+        "onboard_time": 1702653214,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222888,
+        "num": 222888,
+        "word": "电视剧脱轨",
+        "onboard_time": 1702649558,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219201,
+        "num": 219201,
+        "word": "射手座其实并不主动",
+        "onboard_time": 1702650879,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207753,
+        "num": 207753,
+        "word": "质疑马琳 成为马琳",
+        "onboard_time": 1702645774,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197341,
+        "num": 197341,
+        "word": "杜华形容王一博长相",
+        "onboard_time": 1702647276,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189997,
+        "num": 189997,
+        "word": "KBS",
+        "onboard_time": 1702630654,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189655,
+        "num": 189655,
+        "word": "女子从事特教13年频繁被打仍耐心坚守",
+        "onboard_time": 1702653876,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188192,
+        "num": 188192,
+        "word": "薛之谦痘痘肌",
+        "onboard_time": 1702654116,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181180,
+        "num": 181180,
+        "word": "头部带货主播 不可复制",
+        "onboard_time": 1702654235,
+        "rank": 45,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 175223,
+        "num": 175223,
+        "word": "赵文卓 演员迟到成常规了",
+        "onboard_time": 1702648656,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168452,
+        "num": 168452,
+        "word": "怎么一天过四六级",
+        "onboard_time": 1702647576,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162052,
+        "num": 162052,
+        "word": "徐明浩直播",
+        "onboard_time": 1702652975,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157595,
+        "num": 157595,
+        "word": "杨幂走红毯 运动鞋加秋裤",
+        "onboard_time": 1702633956,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#确保人民群众安全温暖过冬#"
+    }
+  }
+}
