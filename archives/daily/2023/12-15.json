@@ -1,9 +1,9 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702603056890,
+  "endTime": 1702604314798,
   "band_list": [
     {
-      "raw_hot": 3217043,
+      "raw_hot": 3269280,
       "num": 3217043,
       "word": "孟羽童个人简介是前500强董事长秘书",
       "onboard_time": 1702600537,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1201392,
+      "num": 425220,
+      "word": "女生称遭男童袭胸老人护孙摔断腰椎",
+      "onboard_time": 1702600718,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111384,
       "num": 425225,
       "word": "中1.44亿元彩民中奖号码已守3年",
@@ -65,14 +73,6 @@
       "onboard_time": 1702559617,
       "rank": 3,
       "category": "互联网,剧集"
-    },
-    {
-      "raw_hot": 986343,
-      "num": 425220,
-      "word": "女生称遭男童袭胸老人护孙摔断腰椎",
-      "onboard_time": 1702600718,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 982131,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560705,
+      "num": 356786,
+      "word": "李晋晔淘汰",
+      "onboard_time": 1702603054,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559464,
       "num": 425128,
       "word": "小杨哥带货肥牛卷被质疑是合成肉",
@@ -243,20 +251,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 494386,
+      "num": 494386,
+      "word": "普京打断让美记者发言要求话筒先给新华社",
+      "onboard_time": 1702600296,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 484977,
       "num": 484977,
       "word": "脱轨 眼睛友好",
       "onboard_time": 1702566635,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 465386,
-      "num": 465386,
-      "word": "普京打断让美记者发言要求话筒先给新华社",
-      "onboard_time": 1702600296,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 425281,
@@ -291,20 +299,20 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 354529,
+      "num": 354529,
+      "word": "只有6英寸长的超超超短裙",
+      "onboard_time": 1702600057,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 329765,
       "num": 329765,
       "word": "专家称所有工作的本质就是赚工资",
       "onboard_time": 1702561959,
       "rank": 8,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 328988,
-      "num": 328988,
-      "word": "只有6英寸长的超超超短裙",
-      "onboard_time": 1702600057,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 313172,
@@ -331,6 +339,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 286004,
+      "num": 286004,
+      "word": "上海人安慰人vs北京人安慰人",
+      "onboard_time": 1702601914,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 284545,
       "num": 284545,
       "word": "邓紫棋演唱会 大屏",
@@ -353,14 +369,6 @@
       "onboard_time": 1702599573,
       "rank": 29,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 271643,
-      "num": 271643,
-      "word": "上海人安慰人vs北京人安慰人",
-      "onboard_time": 1702601914,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 265827,
@@ -403,6 +411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 239708,
+      "num": 260763,
+      "word": "冷到发紫的寒潮到达南方",
+      "onboard_time": 1702602276,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238283,
       "num": 192237,
       "word": "迪丽热巴 迪士尼公主行为",
@@ -419,20 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218522,
-      "num": 218522,
-      "word": "冷到发紫的寒潮到达南方",
-      "onboard_time": 1702602276,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215796,
       "num": 208969,
       "word": "魏大勋周深吴昕杨迪熟人局",
       "onboard_time": 1702602223,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215715,
+      "num": 215715,
+      "word": "新闻女王番外",
+      "onboard_time": 1702603595,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 214483,
@@ -475,6 +491,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192548,
+      "num": 183639,
+      "word": "博主称董宇辉是新东方的彩票",
+      "onboard_time": 1702598972,
+      "rank": 43,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 190858,
+      "num": 190858,
+      "word": "早敲胆经 晚推肝经",
+      "onboard_time": 1702603175,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190637,
       "num": 190637,
       "word": "张若昀在哇唧唧哇群里发红包",
@@ -507,12 +539,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 178545,
-      "num": 167274,
-      "word": "博主称董宇辉是新东方的彩票",
-      "onboard_time": 1702598972,
-      "rank": 43,
-      "category": "互联网,社会新闻"
+      "raw_hot": 180140,
+      "num": 180140,
+      "word": "杭州一小学奖励3000条鱼给光盘学生",
+      "onboard_time": 1702603354,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 176066,
@@ -545,6 +577,14 @@
       "onboard_time": 1702559797,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165024,
+      "num": 165024,
+      "word": "河北唐山2.3级地震",
+      "onboard_time": 1702604014,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163437,
@@ -595,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147257,
+      "num": 147257,
+      "word": "DOTA2迎霜节",
+      "onboard_time": 1702603895,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146860,
       "num": 146860,
       "word": "迪丽热巴版一二三划走眼线",
@@ -635,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136412,
+      "num": 136412,
+      "word": "萨摩耶宝宝集体越狱",
+      "onboard_time": 1702602874,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136272,
       "num": 135521,
       "word": "董宇辉小作文",
@@ -657,6 +713,14 @@
       "onboard_time": 1702549116,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132847,
+      "num": 132847,
+      "word": "AAA内场",
+      "onboard_time": 1702599874,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 127276,
@@ -763,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71968,
+      "num": 425187,
+      "word": "元梦之星广场全是熟人",
+      "onboard_time": 1702602037,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71101,
       "num": 71101,
       "word": "美团饿了么回应商家乱收打包费",
@@ -817,14 +889,6 @@
       "onboard_time": 1702575020,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39162,
-      "num": 425187,
-      "word": "元梦之星广场全是熟人",
-      "onboard_time": 1702602037,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 37668,

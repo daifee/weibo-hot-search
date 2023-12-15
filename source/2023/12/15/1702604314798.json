@@ -1,0 +1,410 @@
+{
+  "runTime": 1702604314798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 766957,
+        "num": 977774,
+        "word": "流星雨",
+        "onboard_time": 1702569630,
+        "rank": 0,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 3269280,
+        "num": 865940,
+        "word": "孟羽童个人简介是前500强董事长秘书",
+        "onboard_time": 1702600537,
+        "rank": 1,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 51156,
+        "num": 778917,
+        "word": "改革开放45年看湾区",
+        "onboard_time": 1702565617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711200,
+        "num": 711200,
+        "word": "有文科生博主欲起诉张雪峰",
+        "onboard_time": 1702599333,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836002,
+        "num": 688852,
+        "word": "董宇辉 孟羽童",
+        "onboard_time": 1702551274,
+        "rank": 4,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 565375,
+        "num": 565375,
+        "word": "学校花1500万买下空客A320给学生练手",
+        "onboard_time": 1702596563,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494386,
+        "num": 494386,
+        "word": "普京打断让美记者发言要求话筒先给新华社",
+        "onboard_time": 1702600296,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657721,
+        "num": 468376,
+        "word": "东方甄选回应董宇辉停播",
+        "onboard_time": 1702564177,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 436915,
+        "num": 436915,
+        "word": "哈妮 你也是叫哈妮克孜吗",
+        "onboard_time": 1702599935,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359121,
+        "num": 359121,
+        "word": "一念关山27集剪辑",
+        "onboard_time": 1702598369,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1365153,
+        "num": 358868,
+        "word": "记者举报洗浴提供色情服务后被警方回怼",
+        "onboard_time": 1702596504,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201392,
+        "num": 358651,
+        "word": "女生称遭男童袭胸老人护孙摔断腰椎",
+        "onboard_time": 1702600718,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923830,
+        "num": 358279,
+        "word": "中1.44亿元彩民中奖号码已守3年",
+        "onboard_time": 1702597348,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863953,
+        "num": 358012,
+        "word": "北京地铁昌平线两区段维持运营",
+        "onboard_time": 1702600956,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71968,
+        "num": 357826,
+        "word": "元梦之星广场全是熟人",
+        "onboard_time": 1702602037,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 668273,
+        "num": 357487,
+        "word": "林心如聊霍建华求婚过程",
+        "onboard_time": 1702598853,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589053,
+        "num": 357229,
+        "word": "董宇辉曾拒绝2亿年薪挖角",
+        "onboard_time": 1702599394,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 560705,
+        "num": 356786,
+        "word": "李晋晔淘汰",
+        "onboard_time": 1702603054,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 479321,
+        "num": 356409,
+        "word": "董明珠怒斥孟羽童",
+        "onboard_time": 1702536334,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 530153,
+        "num": 356267,
+        "word": "董宇辉 停播",
+        "onboard_time": 1702550196,
+        "rank": 19,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 457235,
+        "num": 355904,
+        "word": "小杨哥带货肥牛卷被质疑是合成肉",
+        "onboard_time": 1702599754,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 404975,
+        "num": 355476,
+        "word": "刘浩存 粉底",
+        "onboard_time": 1702557632,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394490,
+        "num": 355196,
+        "word": "因为4分钱被同事删除了",
+        "onboard_time": 1702598430,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377634,
+        "num": 354943,
+        "word": "东方甄选CEO道歉",
+        "onboard_time": 1702551094,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 371115,
+        "num": 354738,
+        "word": "你不结婚我晚上睡不着 那找个夜班上",
+        "onboard_time": 1702596686,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354529,
+        "num": 354529,
+        "word": "只有6英寸长的超超超短裙",
+        "onboard_time": 1702600057,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 314899,
+        "num": 314899,
+        "word": "千禧一代总体死亡率可能上升40%以上",
+        "onboard_time": 1702560578,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290992,
+        "num": 290992,
+        "word": "董宇辉 现实版新闻女王",
+        "onboard_time": 1702559617,
+        "rank": 27,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 286004,
+        "num": 286004,
+        "word": "上海人安慰人vs北京人安慰人",
+        "onboard_time": 1702601914,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239708,
+        "num": 260763,
+        "word": "冷到发紫的寒潮到达南方",
+        "onboard_time": 1702602276,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259100,
+        "num": 259100,
+        "word": "邓紫棋演唱会 大屏",
+        "onboard_time": 1702601498,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229592,
+        "num": 229592,
+        "word": "金在中状态",
+        "onboard_time": 1702599275,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215715,
+        "num": 215715,
+        "word": "新闻女王番外",
+        "onboard_time": 1702603595,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196197,
+        "num": 196197,
+        "word": "董宇辉 台前幕后面子里子",
+        "onboard_time": 1702599573,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 190858,
+        "num": 190858,
+        "word": "早敲胆经 晚推肝经",
+        "onboard_time": 1702603175,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183716,
+        "num": 183716,
+        "word": "魏大勋周深吴昕杨迪熟人局",
+        "onboard_time": 1702602223,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192548,
+        "num": 183639,
+        "word": "博主称董宇辉是新东方的彩票",
+        "onboard_time": 1702598972,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 183373,
+        "num": 183373,
+        "word": "杭州你这样让其他兄弟省份很难做啊",
+        "onboard_time": 1702596324,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180140,
+        "num": 180140,
+        "word": "杭州一小学奖励3000条鱼给光盘学生",
+        "onboard_time": 1702603354,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175066,
+        "num": 175066,
+        "word": "赵露思叫王安宇男妈妈",
+        "onboard_time": 1702585934,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165024,
+        "num": 165024,
+        "word": "河北唐山2.3级地震",
+        "onboard_time": 1702604014,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160301,
+        "num": 160301,
+        "word": "高途CEO曾任新东方执行总裁",
+        "onboard_time": 1702601740,
+        "rank": 41,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 147257,
+        "num": 147257,
+        "word": "DOTA2迎霜节",
+        "onboard_time": 1702603895,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145961,
+        "num": 145961,
+        "word": "Ditto 伴奏",
+        "onboard_time": 1702601195,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144178,
+        "num": 144178,
+        "word": "三岁宝宝在家自己冲奶粉喝",
+        "onboard_time": 1702567596,
+        "rank": 44,
+        "category": "母婴育儿,社会新闻"
+      },
+      {
+        "raw_hot": 143534,
+        "num": 143534,
+        "word": "一闪一闪亮星星做对了什么",
+        "onboard_time": 1702598369,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143093,
+        "num": 143093,
+        "word": "高途股价4天涨72%",
+        "onboard_time": 1702599754,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 138349,
+        "num": 138349,
+        "word": "2胎宝妈直播回应给住院婆婆吃泡面",
+        "onboard_time": 1702573103,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136412,
+        "num": 136412,
+        "word": "萨摩耶宝宝集体越狱",
+        "onboard_time": 1702602874,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132847,
+        "num": 132847,
+        "word": "AAA内场",
+        "onboard_time": 1702599874,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#遇见习近平#"
+    }
+  }
+}
