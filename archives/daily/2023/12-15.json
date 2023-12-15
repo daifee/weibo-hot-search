@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702650894090,
+  "endTime": 1702653515273,
   "band_list": [
     {
       "raw_hot": 5394223,
@@ -73,6 +73,14 @@
       "onboard_time": 1702613495,
       "rank": 4,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 2124521,
+      "num": 2124521,
+      "word": "警方回应狗场数只狗被割舌头割声带",
+      "onboard_time": 1702651477,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2117794,
@@ -395,12 +403,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 836250,
+      "num": 836250,
+      "word": "杨迪 娱乐圈里清华北大的不多",
+      "onboard_time": 1702647875,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 823141,
+      "num": 823141,
+      "word": "一个人 一双鞋 一条命",
+      "onboard_time": 1702650159,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 803906,
       "num": 803906,
       "word": "央视曝9元机票实际到手价格接近600元",
       "onboard_time": 1702631435,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786042,
+      "num": 425990,
+      "word": "东方甄选粉丝跌破3000万",
+      "onboard_time": 1702649077,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 778307,
@@ -425,6 +457,14 @@
       "onboard_time": 1702571666,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759485,
+      "num": 759485,
+      "word": "兔系帅哥",
+      "onboard_time": 1702649200,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 757866,
@@ -491,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 684614,
-      "num": 684614,
-      "word": "杨迪 娱乐圈里清华北大的不多",
-      "onboard_time": 1702647875,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 684327,
       "num": 581684,
       "word": "港媒曝肖战将与徐克再合作",
@@ -561,22 +593,6 @@
       "onboard_time": 1702646077,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 635014,
-      "num": 299785,
-      "word": "一个人 一双鞋 一条命",
-      "onboard_time": 1702650159,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 631109,
-      "num": 425990,
-      "word": "东方甄选粉丝跌破3000万",
-      "onboard_time": 1702649077,
-      "rank": 30,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 610778,
@@ -691,6 +707,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 554683,
+      "num": 554683,
+      "word": "怎么退四六级考试费",
+      "onboard_time": 1702650758,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 554237,
       "num": 297917,
       "word": "吴宣仪发朋友圈一天四五条",
@@ -739,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 522504,
-      "num": 522504,
-      "word": "兔系帅哥",
-      "onboard_time": 1702649200,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 519479,
       "num": 519479,
       "word": "晚上睡不着和熬夜有什么区别",
@@ -768,6 +784,14 @@
       "word": "南京下雪",
       "onboard_time": 1702624594,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511316,
+      "num": 395899,
+      "word": "广州中午31℃下午发寒冷预警",
+      "onboard_time": 1702649200,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -987,12 +1011,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 395899,
-      "num": 395899,
-      "word": "广州中午31℃下午发寒冷预警",
-      "onboard_time": 1702649200,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 395212,
+      "num": 315260,
+      "word": "东方甄选CEO称现在主打薄利多销",
+      "onboard_time": 1702650638,
+      "rank": 43,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 394949,
@@ -1315,6 +1339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 300782,
+      "num": 300782,
+      "word": "与恶魔有约",
+      "onboard_time": 1702650037,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300210,
       "num": 300210,
       "word": "东北校长把学校改成游乐场引质疑",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1702643494,
       "rank": 49,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 293070,
-      "num": 293070,
-      "word": "与恶魔有约",
-      "onboard_time": 1702650037,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 291141,
@@ -1555,6 +1579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 263020,
+      "num": 263020,
+      "word": "电视剧真正的效应在长尾效应",
+      "onboard_time": 1702652074,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262177,
       "num": 262177,
       "word": "考研 生命过场",
@@ -1715,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236204,
+      "num": 236204,
+      "word": "射手座其实并不主动",
+      "onboard_time": 1702650879,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236108,
       "num": 236108,
       "word": "崩铁免费送五星角色",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1702617221,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 232939,
+      "num": 232939,
+      "word": "汤姆猫惨叫声 人类的声音",
+      "onboard_time": 1702653094,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 232886,
@@ -1867,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214677,
+      "num": 214677,
+      "word": "剑网三 退钱",
+      "onboard_time": 1702652798,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214483,
       "num": 167822,
       "word": "2胎宝妈直播回应给住院婆婆吃泡面",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1702643916,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213141,
+      "num": 213141,
+      "word": "徐明浩直播",
+      "onboard_time": 1702652975,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 213059,
@@ -2059,6 +2123,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 198694,
+      "num": 198694,
+      "word": "下雪",
+      "onboard_time": 1702653214,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197932,
       "num": 197932,
       "word": "东方甄选掉粉",
@@ -2123,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194095,
+      "num": 194095,
+      "word": "南京初雪",
+      "onboard_time": 1702652679,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193979,
       "num": 193979,
       "word": "吴昕杜海涛合体参演左耳",
@@ -2145,14 +2225,6 @@
       "onboard_time": 1702639356,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193070,
-      "num": 193070,
-      "word": "东方甄选CEO称现在主打薄利多销",
-      "onboard_time": 1702650638,
-      "rank": 43,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 192548,
@@ -2315,6 +2387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182966,
+      "num": 277521,
+      "word": "我国成功发射遥感四十一号卫星",
+      "onboard_time": 1702651834,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182371,
       "num": 182371,
       "word": "林园谈葛兰亏300亿管理费收30亿",
@@ -2443,14 +2523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 169597,
-      "num": 169597,
-      "word": "怎么退四六级考试费",
-      "onboard_time": 1702650758,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 169290,
       "num": 169290,
       "word": "王安宇赵露思 陌生人给我糖",
@@ -2513,14 +2585,6 @@
       "onboard_time": 1702650518,
       "rank": 48,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 161533,
-      "num": 161533,
-      "word": "射手座其实并不主动",
-      "onboard_time": 1702650879,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 160672,
@@ -3171,6 +3235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56586,
+      "num": 521185,
+      "word": "时代少年团一起元梦",
+      "onboard_time": 1702611392,
+      "rank": 11,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 53795,
       "num": 72676,
       "word": "毛晓彤 观众喜爱女演员",
@@ -3211,6 +3283,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 45025,
+      "num": 412240,
+      "word": "大众ID第一台纯电轿车",
+      "onboard_time": 1702650100,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43670,
       "num": 199877,
       "word": "任素汐听自己想听的",
@@ -3233,14 +3313,6 @@
       "onboard_time": 1702616437,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 38775,
-      "num": 521185,
-      "word": "时代少年团一起元梦",
-      "onboard_time": 1702611392,
-      "rank": 11,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 37668,
@@ -3347,14 +3419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22263,
-      "num": 412240,
-      "word": "大众ID第一台纯电轿车",
-      "onboard_time": 1702650100,
-      "rank": 18,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 22056,
       "num": 22988,
       "word": "属于3RACHA的第一个奖",
@@ -3417,6 +3481,14 @@
       "onboard_time": 1702643796,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 15697,
+      "num": 295571,
+      "word": "宋亚轩公主请开心",
+      "onboard_time": 1702651900,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 15403,
