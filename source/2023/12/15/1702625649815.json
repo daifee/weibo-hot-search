@@ -1,0 +1,410 @@
+{
+  "runTime": 1702625649815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5394223,
+        "num": 5394223,
+        "word": "孟羽童回应被董明珠怒斥",
+        "onboard_time": 1702622252,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1109238,
+        "num": 1109238,
+        "word": "女子喝白酒死亡同桌3闺蜜担责",
+        "onboard_time": 1702621532,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22417,
+        "num": 987362,
+        "word": "谢谢温暖了2023的你们",
+        "onboard_time": 1702597048,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518202,
+        "num": 964706,
+        "word": "68岁女子感染HPV称老伴都去世30多年",
+        "onboard_time": 1702620635,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915803,
+        "num": 915803,
+        "word": "东方甄选 打折",
+        "onboard_time": 1702623754,
+        "rank": 4,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 698362,
+        "num": 698362,
+        "word": "鼠头鸭脖涉事方及责任人被罚706万",
+        "onboard_time": 1702623155,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672925,
+        "num": 672925,
+        "word": "王栎鑫 你口型都对错了",
+        "onboard_time": 1702623754,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 465603,
+        "num": 465603,
+        "word": "没有董宇辉的东方甄选到底还行不行",
+        "onboard_time": 1702621653,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 430162,
+        "num": 430162,
+        "word": "刘浩存 演技",
+        "onboard_time": 1702619617,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381839,
+        "num": 381839,
+        "word": "淘票票 有心了",
+        "onboard_time": 1702623092,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1261008,
+        "num": 381729,
+        "word": "孟羽童面试时曾称月薪超4500就满足",
+        "onboard_time": 1702619492,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 584857,
+        "num": 381686,
+        "word": "年轻人带癌上班是怎样的体验",
+        "onboard_time": 1702615777,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 381471,
+        "num": 381471,
+        "word": "GQ 内幕",
+        "onboard_time": 1702618355,
+        "rank": 12,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 326425,
+        "num": 326425,
+        "word": "剧版左耳空降",
+        "onboard_time": 1702616561,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105199,
+        "num": 317164,
+        "word": "KPL元梦团建",
+        "onboard_time": 1702623633,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315599,
+        "num": 315599,
+        "word": "女艺人 我们不搞雌竞",
+        "onboard_time": 1702621894,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315001,
+        "num": 315001,
+        "word": "南京下雪",
+        "onboard_time": 1702624594,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297497,
+        "num": 297497,
+        "word": "勇士 真绝望啊",
+        "onboard_time": 1702622371,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275382,
+        "num": 275382,
+        "word": "林志玲马天宇合照",
+        "onboard_time": 1702624295,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262036,
+        "num": 262036,
+        "word": "吴宣仪发朋友圈一天四五条",
+        "onboard_time": 1702624413,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1024549,
+        "num": 261971,
+        "word": "北京地铁事故致102人骨折",
+        "onboard_time": 1702615598,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815478,
+        "num": 261968,
+        "word": "孟羽童称当董事长秘书和具体业务脱节",
+        "onboard_time": 1702613495,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 261521,
+        "num": 261521,
+        "word": "杨紫线下状态",
+        "onboard_time": 1702621472,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252457,
+        "num": 252457,
+        "word": "赵丽颖央视推介与凤行",
+        "onboard_time": 1702617035,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252347,
+        "num": 252347,
+        "word": "港媒曝肖战将与徐克再合作",
+        "onboard_time": 1702614276,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252139,
+        "num": 252139,
+        "word": "张家辉 在座的都是垃圾",
+        "onboard_time": 1702623933,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251938,
+        "num": 251938,
+        "word": "吴昕左耳海报",
+        "onboard_time": 1702624354,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237964,
+        "num": 237964,
+        "word": "A股",
+        "onboard_time": 1702620452,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236069,
+        "num": 236069,
+        "word": "GQ 一稿过艺人",
+        "onboard_time": 1702621713,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 182207,
+        "num": 229264,
+        "word": "10个月婴儿高烧惊厥子弟兵狂奔送医",
+        "onboard_time": 1702621114,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227470,
+        "num": 227470,
+        "word": "董宇辉曾称东方小孙是伯乐",
+        "onboard_time": 1702625014,
+        "rank": 30,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 221374,
+        "num": 221374,
+        "word": "爷爷生前藏了65年的俄语信",
+        "onboard_time": 1702618955,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205585,
+        "num": 205585,
+        "word": "杨紫官宣星光大赏",
+        "onboard_time": 1702625074,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201540,
+        "num": 201540,
+        "word": "永远不要在谈话中自贬",
+        "onboard_time": 1702624174,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201475,
+        "num": 201475,
+        "word": "王曼昱 追分",
+        "onboard_time": 1702622313,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190719,
+        "num": 190719,
+        "word": "库里 隐身",
+        "onboard_time": 1702623395,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183608,
+        "num": 183608,
+        "word": "董明珠放得下孟羽童吗",
+        "onboard_time": 1702622915,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 181956,
+        "num": 181956,
+        "word": "烧烤店挂出告示禁止日本人进店消费",
+        "onboard_time": 1702614698,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181727,
+        "num": 181727,
+        "word": "网易游戏与华为达成鸿蒙合作",
+        "onboard_time": 1702625134,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173849,
+        "num": 173849,
+        "word": "袁娅维连发22条微博",
+        "onboard_time": 1702621592,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163946,
+        "num": 163946,
+        "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
+        "onboard_time": 1702607495,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163206,
+        "num": 163206,
+        "word": "女生称遭男童袭胸老人护孙摔断腰椎",
+        "onboard_time": 1702600718,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154216,
+        "num": 154216,
+        "word": "流感 泡脚",
+        "onboard_time": 1702618894,
+        "rank": 42,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 148823,
+        "num": 148823,
+        "word": "贺军翔谈杨丞琳言论风波",
+        "onboard_time": 1702607673,
+        "rank": 43,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 144886,
+        "num": 144886,
+        "word": "东方甄选称昨日销售额创纪录",
+        "onboard_time": 1702611995,
+        "rank": 44,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 140560,
+        "num": 140560,
+        "word": "王曼昱3比0杨晓欣",
+        "onboard_time": 1702625014,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139331,
+        "num": 139331,
+        "word": "kanye你敢耍老子",
+        "onboard_time": 1702619733,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137437,
+        "num": 137437,
+        "word": "霉霉演唱会大电影内地定档",
+        "onboard_time": 1702621592,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136559,
+        "num": 136559,
+        "word": "晚上睡不着和熬夜有什么区别",
+        "onboard_time": 1702610554,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134358,
+        "num": 134358,
+        "word": "专家称董宇辉和东方甄选体面分手最好",
+        "onboard_time": 1702617335,
+        "rank": 49,
+        "category": "互联网,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广西南宁市考察调研#"
+    }
+  }
+}
