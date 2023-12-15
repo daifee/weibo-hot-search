@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702635567709,
+  "endTime": 1702636603999,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -843,6 +843,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1639797,
+      "num": 1169953,
+      "word": "罗永浩称董宇辉没必要浪费生命打工",
+      "onboard_time": 1702632873,
+      "rank": 3,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 1629040,
       "num": 418593,
       "word": "昌平线故障已发现30余人受伤",
@@ -1243,14 +1251,6 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 1169953,
-      "num": 1169953,
-      "word": "罗永浩称董宇辉没必要浪费生命打工",
-      "onboard_time": 1702632873,
-      "rank": 3,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 1168119,
       "num": 1168119,
       "word": "塌腰",
@@ -1411,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1053698,
+      "num": 773759,
+      "word": "董宇辉事件",
+      "onboard_time": 1702634195,
+      "rank": 7,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1034854,
       "num": 734261,
       "word": "难哄 别哄了",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1702542032,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 977231,
-      "num": 773759,
-      "word": "董宇辉事件",
-      "onboard_time": 1702634195,
-      "rank": 7,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 967462,
@@ -2289,6 +2289,14 @@
       "onboard_time": 1702366356,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 754685,
+      "num": 754685,
+      "word": "韩国人吐槽中国理发店",
+      "onboard_time": 1702635876,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 750580,
@@ -3043,6 +3051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 619086,
+      "num": 320775,
+      "word": "董宇辉账号粉丝数接近东方甄选一半",
+      "onboard_time": 1702635876,
+      "rank": 22,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 615447,
       "num": 615447,
       "word": "刘少昂1000米夺金",
@@ -3065,6 +3081,14 @@
       "onboard_time": 1702446874,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 609136,
+      "num": 491937,
+      "word": "杨幂走红毯 运动鞋加秋裤",
+      "onboard_time": 1702633956,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 606265,
@@ -3153,14 +3177,6 @@
       "onboard_time": 1702395703,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 585074,
-      "num": 491937,
-      "word": "杨幂走红毯 运动鞋加秋裤",
-      "onboard_time": 1702633956,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 584991,
@@ -4451,6 +4467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 437014,
+      "num": 1184009,
+      "word": "警察叔叔我们捡到一位小孩子",
+      "onboard_time": 1702633772,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436246,
       "num": 385667,
       "word": "Taylor Swift史上票房最高巡演",
@@ -4811,14 +4835,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 408057,
-      "num": 1184009,
-      "word": "警察叔叔我们捡到一位小孩子",
-      "onboard_time": 1702633772,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407509,
       "num": 407509,
       "word": "张培萌",
@@ -4865,6 +4881,14 @@
       "onboard_time": 1702197213,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 405537,
+      "num": 405537,
+      "word": "甘肃白银越野赛事故多人获刑",
+      "onboard_time": 1702635154,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403228,
@@ -5497,6 +5521,14 @@
       "onboard_time": 1702172249,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363914,
+      "num": 363914,
+      "word": "曝黄心颖父亲去世",
+      "onboard_time": 1702635696,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 363005,
@@ -6371,6 +6403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 313854,
+      "num": 845109,
+      "word": "爷爷删空短信独留孙女发的我爱你",
+      "onboard_time": 1702634132,
+      "rank": 4,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 313172,
       "num": 313172,
       "word": "杭州你这样让其他兄弟省份很难做啊",
@@ -6675,14 +6715,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 299905,
-      "num": 845109,
-      "word": "爷爷删空短信独留孙女发的我爱你",
-      "onboard_time": 1702634132,
-      "rank": 4,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 299786,
       "num": 299786,
       "word": "四川警方通报公交车撞倒多名学生",
@@ -6817,14 +6849,6 @@
       "onboard_time": 1702185154,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 293929,
-      "num": 293929,
-      "word": "甘肃白银越野赛事故多人获刑",
-      "onboard_time": 1702635154,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292852,
@@ -7547,6 +7571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 267504,
+      "num": 267504,
+      "word": "东方甄选客服回应打折",
+      "onboard_time": 1702635936,
+      "rank": 26,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 267394,
       "num": 267394,
       "word": "姚琛喊话方灿",
@@ -8049,6 +8081,14 @@
       "onboard_time": 1702528057,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253342,
+      "num": 240030,
+      "word": "传京东欲挖董宇辉",
+      "onboard_time": 1702636416,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 252938,
@@ -8689,6 +8729,14 @@
       "onboard_time": 1702275754,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236770,
+      "num": 236770,
+      "word": "刘少林被曝携女友进入教练席惹争议",
+      "onboard_time": 1702636295,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 236466,
@@ -9449,6 +9497,14 @@
       "onboard_time": 1702202436,
       "rank": 14,
       "category": "动漫,剧集"
+    },
+    {
+      "raw_hot": 220715,
+      "num": 220715,
+      "word": "第五人格",
+      "onboard_time": 1702636295,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 220634,
@@ -10819,6 +10875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199508,
+      "num": 199508,
+      "word": "陈幸同2比1斯佐科斯",
+      "onboard_time": 1702635815,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199379,
       "num": 199379,
       "word": "ITZY AAA舞台",
@@ -12083,6 +12147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183454,
+      "num": 183454,
+      "word": "三大队",
+      "onboard_time": 1702201415,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183158,
       "num": 183158,
       "word": "NBA季中锦标赛",
@@ -12801,6 +12873,14 @@
       "onboard_time": 1702168528,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171200,
+      "num": 171200,
+      "word": "很少用震撼形容一个手机壳",
+      "onboard_time": 1702634913,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 171149,
@@ -13891,6 +13971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151955,
+      "num": 151955,
+      "word": "高途CEO称不主动挖董宇辉",
+      "onboard_time": 1702636478,
+      "rank": 49,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 151713,
       "num": 151713,
       "word": "吉利高管称不认同懂车帝冬测数据",
@@ -13937,14 +14025,6 @@
       "onboard_time": 1702131457,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151237,
-      "num": 151237,
-      "word": "很少用震撼形容一个手机壳",
-      "onboard_time": 1702634913,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 151056,
@@ -14755,14 +14835,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 137765,
-      "num": 137765,
-      "word": "三大队",
-      "onboard_time": 1702201415,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 137521,
       "num": 137521,
       "word": "国标世界冠军 科目三",
@@ -15145,6 +15217,14 @@
       "onboard_time": 1702469611,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128091,
+      "num": 417398,
+      "word": "显眼包九尾gemini已上线",
+      "onboard_time": 1702634433,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 128060,
@@ -15595,14 +15675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116048,
-      "num": 417398,
-      "word": "显眼包九尾gemini已上线",
-      "onboard_time": 1702634433,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 116024,
       "num": 116024,
       "word": "京东多条业务线人员调整",
@@ -15787,6 +15859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106264,
+      "num": 400221,
+      "word": "谁还没有一张照片记住2023",
+      "onboard_time": 1702634132,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105199,
       "num": 339104,
       "word": "KPL元梦团建",
@@ -15873,14 +15953,6 @@
       "onboard_time": 1702460073,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 96772,
-      "num": 353417,
-      "word": "谁还没有一张照片记住2023",
-      "onboard_time": 1702634132,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 96518,
@@ -16627,6 +16699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43670,
+      "num": 199877,
+      "word": "任素汐听自己想听的",
+      "onboard_time": 1702635213,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42575,
       "num": 182160,
       "word": "泰国人都爱开什么车",
@@ -16684,7 +16764,7 @@
     },
     {
       "raw_hot": 37523,
-      "num": 194183,
+      "num": 242421,
       "word": "一台好车能给你的幸福感",
       "onboard_time": 1702634974,
       "rank": 36,
@@ -17129,14 +17209,6 @@
       "onboard_time": 1702581855,
       "rank": 45,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 14821,
-      "num": 184511,
-      "word": "任素汐听自己想听的",
-      "onboard_time": 1702635213,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 14004,
