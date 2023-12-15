@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702668846380,
+  "endTime": 1702671538247,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -17643,6 +17643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42600,
+      "num": 42600,
+      "word": "人体约70%免疫力来自肠道",
+      "onboard_time": 1702668795,
+      "rank": 48,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 42575,
       "num": 182160,
       "word": "泰国人都爱开什么车",
@@ -18019,6 +18027,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 21359,
+      "num": 24932,
+      "word": "难哄要不你俩来演吧",
+      "onboard_time": 1702668856,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21147,
       "num": 22983,
       "word": "微博跨年狂欢节",
@@ -18041,6 +18057,14 @@
       "onboard_time": 1702587373,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 20454,
+      "num": 24891,
+      "word": "当广东天气遇上新闻女王",
+      "onboard_time": 1702669634,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 20368,
@@ -18081,14 +18105,6 @@
       "onboard_time": 1702369895,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18938,
-      "num": 21272,
-      "word": "人体约70%免疫力来自肠道",
-      "onboard_time": 1702668795,
-      "rank": 48,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 18344,
@@ -18201,6 +18217,14 @@
       "onboard_time": 1702325173,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 12209,
+      "num": 24715,
+      "word": "男子无证醉驾撞死2岁女童逃逸",
+      "onboard_time": 1702671434,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11952,
