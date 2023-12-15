@@ -1,0 +1,410 @@
+{
+  "runTime": 1702618433530,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1616477,
+        "num": 1616477,
+        "word": "年轻人带癌上班是怎样的体验",
+        "onboard_time": 1702615777,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 935262,
+        "num": 935262,
+        "word": "茶百道 盲盒",
+        "onboard_time": 1702606835,
+        "rank": 1,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 9052,
+        "num": 664652,
+        "word": "改革开放45年看湾区",
+        "onboard_time": 1702565617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628173,
+        "num": 628173,
+        "word": "烧烤店挂出告示禁止日本人进店消费",
+        "onboard_time": 1702614698,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590906,
+        "num": 590906,
+        "word": "剧版左耳空降",
+        "onboard_time": 1702616561,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581684,
+        "num": 581684,
+        "word": "港媒曝肖战将与徐克再合作",
+        "onboard_time": 1702614276,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 551712,
+        "num": 551712,
+        "word": "东方甄选称昨日销售额创纪录",
+        "onboard_time": 1702611995,
+        "rank": 6,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 412173,
+        "num": 412173,
+        "word": "中戏老师评价邓为",
+        "onboard_time": 1702613796,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368681,
+        "num": 368681,
+        "word": "央视2024年电视剧片单",
+        "onboard_time": 1702617097,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269181,
+        "num": 363133,
+        "word": "短道速滑 混接pen了",
+        "onboard_time": 1702614998,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654581,
+        "num": 362609,
+        "word": "感冒花了12万",
+        "onboard_time": 1702605451,
+        "rank": 10,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 2134112,
+        "num": 362002,
+        "word": "孟羽童称当董事长秘书和具体业务脱节",
+        "onboard_time": 1702613495,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 359352,
+        "num": 359352,
+        "word": "是谁还没有蛋搭子",
+        "onboard_time": 1702617097,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 611393,
+        "num": 359202,
+        "word": "女生称遭男童袭胸老人护孙摔断腰椎",
+        "onboard_time": 1702600718,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39194,
+        "num": 359033,
+        "word": "星光下的QQ合影",
+        "onboard_time": 1702616437,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 549259,
+        "num": 358865,
+        "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
+        "onboard_time": 1702607495,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420392,
+        "num": 358593,
+        "word": "贺军翔谈杨丞琳言论风波",
+        "onboard_time": 1702607673,
+        "rank": 16,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 401546,
+        "num": 358464,
+        "word": "小杨哥评价董宇辉",
+        "onboard_time": 1702605814,
+        "rank": 17,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 380438,
+        "num": 358228,
+        "word": "溜溜梅 你没事吧",
+        "onboard_time": 1702612714,
+        "rank": 18,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 243069,
+        "num": 357994,
+        "word": "退休教师痛失爱子后替子还债百万",
+        "onboard_time": 1702615962,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3964297,
+        "num": 357772,
+        "word": "北京地铁事故致102人骨折",
+        "onboard_time": 1702615598,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881521,
+        "num": 357585,
+        "word": "孟羽童个人简介是前500强董事长秘书",
+        "onboard_time": 1702600537,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 369027,
+        "num": 357334,
+        "word": "专家称董宇辉和东方甄选体面分手最好",
+        "onboard_time": 1702617335,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 357172,
+        "num": 357172,
+        "word": "赵丽颖央视推介与凤行",
+        "onboard_time": 1702617035,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340698,
+        "num": 340698,
+        "word": "杨幂倪妮顶峰相见船",
+        "onboard_time": 1702616679,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 336309,
+        "num": 336309,
+        "word": "晚上睡不着和熬夜有什么区别",
+        "onboard_time": 1702610554,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320569,
+        "num": 320569,
+        "word": "董宇辉 停播",
+        "onboard_time": 1702550196,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 256310,
+        "num": 318913,
+        "word": "免疫力下降都有哪些信号",
+        "onboard_time": 1702615178,
+        "rank": 27,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 213945,
+        "num": 315168,
+        "word": "中国女孩说京都才是小洛阳",
+        "onboard_time": 1702614276,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192550,
+        "num": 312092,
+        "word": "台湾对大陆贸易限制构成贸易壁垒",
+        "onboard_time": 1702611029,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90221,
+        "num": 308623,
+        "word": "光遇联动上美影",
+        "onboard_time": 1702615477,
+        "rank": 30,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 306878,
+        "num": 306878,
+        "word": "秦岚判断衣服脏不脏靠闻",
+        "onboard_time": 1702613796,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235574,
+        "num": 301886,
+        "word": "献鱼 妆造",
+        "onboard_time": 1702610133,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258661,
+        "num": 258661,
+        "word": "英雄志 没消息",
+        "onboard_time": 1702617756,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244385,
+        "num": 244385,
+        "word": "刘诗诗说最喜欢的角色是于十三",
+        "onboard_time": 1702616022,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240013,
+        "num": 240013,
+        "word": "杨洋金晨二搭",
+        "onboard_time": 1702613075,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235339,
+        "num": 235339,
+        "word": "董宇辉评论区清一色加油鼓劲",
+        "onboard_time": 1702616077,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 233573,
+        "num": 233573,
+        "word": "花4000块让化妆师爆改妆容",
+        "onboard_time": 1702617221,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 232059,
+        "num": 232059,
+        "word": "淘宝回应小伙网购工业品造出飞行自行车",
+        "onboard_time": 1702613557,
+        "rank": 38,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 159435,
+        "num": 228839,
+        "word": "勇士vs快船",
+        "onboard_time": 1702615836,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232630,
+        "num": 228738,
+        "word": "东方甄选回应董宇辉停播",
+        "onboard_time": 1702564177,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 228634,
+        "num": 228634,
+        "word": "杨紫十岁的时候就认识何炅了",
+        "onboard_time": 1702611455,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224987,
+        "num": 224987,
+        "word": "东北校长把学校改成游乐场引质疑",
+        "onboard_time": 1702615178,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208037,
+        "num": 208037,
+        "word": "董宇辉曾拒绝2亿年薪挖角",
+        "onboard_time": 1702599394,
+        "rank": 43,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 202025,
+        "num": 202025,
+        "word": "Jiejie问Meiko要去哪",
+        "onboard_time": 1702618113,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192171,
+        "num": 192171,
+        "word": "GQ 内幕",
+        "onboard_time": 1702618355,
+        "rank": 45,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 191718,
+        "num": 191718,
+        "word": "单依纯杭州",
+        "onboard_time": 1702617456,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162478,
+        "num": 162478,
+        "word": "承欢记片花",
+        "onboard_time": 1702616561,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139169,
+        "num": 161074,
+        "word": "WTT女子总决赛",
+        "onboard_time": 1702616800,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160650,
+        "num": 160650,
+        "word": "钟楚曦 我试过但是被人拍到",
+        "onboard_time": 1702607495,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广西南宁市考察调研#"
+    }
+  }
+}
