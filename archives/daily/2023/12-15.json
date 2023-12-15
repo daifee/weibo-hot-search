@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702647229060,
+  "endTime": 1702649805756,
   "band_list": [
     {
       "raw_hot": 5394223,
@@ -16,6 +16,14 @@
       "word": "北京地铁事故致102人骨折",
       "onboard_time": 1702615598,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3433067,
+      "num": 3433067,
+      "word": "被割了舌头的繁殖金毛",
+      "onboard_time": 1702646918,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1105180,
+      "num": 1105180,
+      "word": "孙颖莎拒绝爆冷",
+      "onboard_time": 1702648716,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1092318,
       "num": 1092318,
       "word": "余霜管泽元结婚照",
@@ -369,6 +385,14 @@
       "onboard_time": 1702599333,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813186,
+      "num": 388599,
+      "word": "25岁做副业营收过亿",
+      "onboard_time": 1702648236,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 803906,
@@ -587,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 574284,
+      "num": 574284,
+      "word": "杨迪 娱乐圈里清华北大的不多",
+      "onboard_time": 1702647875,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 571082,
       "num": 193773,
       "word": "北京地铁披露故障细节",
@@ -699,12 +731,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 514891,
+      "num": 514891,
+      "word": "张若昀科目三偷偷练了吧",
+      "onboard_time": 1702645175,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513611,
       "num": 513611,
       "word": "南京下雪",
       "onboard_time": 1702624594,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510398,
+      "num": 510398,
+      "word": "杜华形容王一博长相",
+      "onboard_time": 1702647276,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 508835,
@@ -785,14 +833,6 @@
       "onboard_time": 1702623092,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 457496,
-      "num": 457496,
-      "word": "张若昀科目三偷偷练了吧",
-      "onboard_time": 1702645175,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 450303,
@@ -913,6 +953,14 @@
       "onboard_time": 1702529976,
       "rank": 22,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 396262,
+      "num": 396262,
+      "word": "aespa 妆造",
+      "onboard_time": 1702647516,
+      "rank": 9,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 394949,
@@ -1051,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355609,
+      "num": 355609,
+      "word": "兔系帅哥",
+      "onboard_time": 1702649200,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354529,
       "num": 354529,
       "word": "只有6英寸长的超超超短裙",
@@ -1155,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316236,
+      "num": 316236,
+      "word": "赵文卓 演员迟到成常规了",
+      "onboard_time": 1702648656,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315077,
       "num": 378726,
       "word": "短道速滑 混接pen了",
@@ -1211,6 +1275,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 304757,
+      "num": 304757,
+      "word": "东方甄选粉丝跌破3000万",
+      "onboard_time": 1702649077,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 304018,
       "num": 304018,
       "word": "袁娅维连发22条微博",
@@ -1257,6 +1329,14 @@
       "onboard_time": 1702645417,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298147,
+      "num": 298147,
+      "word": "怎么一天过四六级",
+      "onboard_time": 1702647576,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 295929,
@@ -1451,6 +1531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 260917,
+      "num": 260917,
+      "word": "电视剧脱轨",
+      "onboard_time": 1702542032,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260431,
       "num": 260431,
       "word": "ZB1跳了EXO的咆哮",
@@ -1537,14 +1625,6 @@
       "onboard_time": 1702610851,
       "rank": 39,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 250042,
-      "num": 250042,
-      "word": "被割了舌头的繁殖金毛",
-      "onboard_time": 1702646918,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249687,
@@ -1867,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206012,
+      "num": 206012,
+      "word": "广州中午31℃下午发寒冷预警",
+      "onboard_time": 1702649200,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205585,
       "num": 205585,
       "word": "杨紫官宣星光大赏",
@@ -2107,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188279,
+      "num": 305741,
+      "word": "北宋科举考场防舞弊措施好超前",
+      "onboard_time": 1702648476,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188216,
       "num": 188216,
       "word": "KBS 有没有节目单",
@@ -2307,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171254,
+      "num": 171254,
+      "word": "马嘉祺演周萍",
+      "onboard_time": 1702648417,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171200,
       "num": 171200,
       "word": "很少用震撼形容一个手机壳",
@@ -2401,6 +2505,14 @@
       "onboard_time": 1702598369,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158853,
+      "num": 158853,
+      "word": "一句钎狗钎九又有",
+      "onboard_time": 1702647817,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 158742,
@@ -2867,14 +2979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93490,
-      "num": 93490,
-      "word": "电视剧脱轨",
-      "onboard_time": 1702542032,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87315,
       "num": 163975,
       "word": "谁是2023白色手机美神",
@@ -2980,7 +3084,7 @@
     },
     {
       "raw_hot": 61570,
-      "num": 183175,
+      "num": 199213,
       "word": "派对游戏卷起来",
       "onboard_time": 1702647216,
       "rank": 47,
@@ -3011,11 +3115,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52175,
+      "num": 1583258,
+      "word": "上天入海见证中国力量",
+      "onboard_time": 1702646737,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50182,
       "num": 198249,
       "word": "我在元梦学八段锦",
       "onboard_time": 1702645598,
       "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 46816,
+      "num": 378196,
+      "word": "张大仙破大防",
+      "onboard_time": 1702648835,
+      "rank": 14,
       "category": "游戏"
     },
     {
@@ -3251,14 +3371,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 12940,
-      "num": 1088359,
-      "word": "上天入海见证中国力量",
-      "onboard_time": 1702646737,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12223,
       "num": 957211,
       "word": "如果中国县城变身各科课代表",
@@ -3304,6 +3416,9 @@
     },
     {
       "word": "#确保人民群众安全温暖过冬#"
+    },
+    {
+      "word": "#奋力谱写中国式现代化广西篇章#"
     }
   ]
 }
