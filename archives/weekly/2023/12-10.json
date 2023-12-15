@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702667676337,
+  "endTime": 1702668846380,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -18081,6 +18081,14 @@
       "onboard_time": 1702369895,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18938,
+      "num": 21272,
+      "word": "人体约70%免疫力来自肠道",
+      "onboard_time": 1702668795,
+      "rank": 48,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 18344,
