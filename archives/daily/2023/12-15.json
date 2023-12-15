@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702649805756,
+  "endTime": 1702650894090,
   "band_list": [
     {
       "raw_hot": 5394223,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3433067,
-      "num": 3433067,
+      "raw_hot": 4408929,
+      "num": 4408929,
       "word": "被割了舌头的繁殖金毛",
       "onboard_time": 1702646918,
       "rank": 38,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1424062,
-      "num": 435862,
+      "num": 442275,
       "word": "董宇辉账号粉丝数接近东方甄选一半",
       "onboard_time": 1702635876,
       "rank": 22,
@@ -281,6 +281,14 @@
       "onboard_time": 1702559617,
       "rank": 3,
       "category": "互联网,剧集"
+    },
+    {
+      "raw_hot": 1055934,
+      "num": 1055934,
+      "word": "25岁做副业营收过亿",
+      "onboard_time": 1702648236,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1053698,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 813186,
-      "num": 388599,
-      "word": "25岁做副业营收过亿",
-      "onboard_time": 1702648236,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 803906,
       "num": 803906,
       "word": "央视曝9元机票实际到手价格接近600元",
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 720013,
-      "num": 420246,
+      "num": 422971,
       "word": "董宇辉孟羽童 打工人困境",
       "onboard_time": 1702642356,
       "rank": 17,
@@ -489,6 +489,14 @@
       "onboard_time": 1702553673,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684614,
+      "num": 684614,
+      "word": "杨迪 娱乐圈里清华北大的不多",
+      "onboard_time": 1702647875,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 684327,
@@ -555,6 +563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 635014,
+      "num": 299785,
+      "word": "一个人 一双鞋 一条命",
+      "onboard_time": 1702650159,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 631109,
+      "num": 425990,
+      "word": "东方甄选粉丝跌破3000万",
+      "onboard_time": 1702649077,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 610778,
       "num": 845109,
       "word": "爷爷删空短信独留孙女发的我爱你",
@@ -609,14 +633,6 @@
       "onboard_time": 1702616561,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 574284,
-      "num": 574284,
-      "word": "杨迪 娱乐圈里清华北大的不多",
-      "onboard_time": 1702647875,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 571082,
@@ -721,6 +737,14 @@
       "onboard_time": 1702610133,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 522504,
+      "num": 522504,
+      "word": "兔系帅哥",
+      "onboard_time": 1702649200,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 519479,
@@ -963,6 +987,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 395899,
+      "num": 395899,
+      "word": "广州中午31℃下午发寒冷预警",
+      "onboard_time": 1702649200,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394949,
       "num": 311067,
       "word": "肖战狼尾侧颜",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1702607855,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 355609,
-      "num": 355609,
-      "word": "兔系帅哥",
-      "onboard_time": 1702649200,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 354529,
@@ -1275,14 +1299,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 304757,
-      "num": 304757,
-      "word": "东方甄选粉丝跌破3000万",
-      "onboard_time": 1702649077,
-      "rank": 30,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 304018,
       "num": 304018,
       "word": "袁娅维连发22条微博",
@@ -1323,6 +1339,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 299702,
+      "num": 299702,
+      "word": "电视剧脱轨",
+      "onboard_time": 1702542032,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298418,
       "num": 298418,
       "word": "星穹铁道 启动",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1702643494,
       "rank": 49,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 293070,
+      "num": 293070,
+      "word": "与恶魔有约",
+      "onboard_time": 1702650037,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 291141,
@@ -1529,14 +1561,6 @@
       "onboard_time": 1702607073,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 260917,
-      "num": 260917,
-      "word": "电视剧脱轨",
-      "onboard_time": 1702542032,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 260431,
@@ -1947,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206012,
-      "num": 206012,
-      "word": "广州中午31℃下午发寒冷预警",
-      "onboard_time": 1702649200,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205585,
       "num": 205585,
       "word": "杨紫官宣星光大赏",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1702639356,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193070,
+      "num": 193070,
+      "word": "东方甄选CEO称现在主打薄利多销",
+      "onboard_time": 1702650638,
+      "rank": 43,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 192548,
@@ -2419,6 +2443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169597,
+      "num": 169597,
+      "word": "怎么退四六级考试费",
+      "onboard_time": 1702650758,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169290,
       "num": 169290,
       "word": "王安宇赵露思 陌生人给我糖",
@@ -2475,6 +2507,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 162140,
+      "num": 162140,
+      "word": "杨迪大眼妆",
+      "onboard_time": 1702650518,
+      "rank": 48,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 161533,
+      "num": 161533,
+      "word": "射手座其实并不主动",
+      "onboard_time": 1702650879,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160672,
       "num": 160672,
       "word": "交往真的需要消耗很大的能量",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1702598430,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157126,
+      "num": 299847,
+      "word": "致敬糖丸爷爷顾方舟",
+      "onboard_time": 1702650278,
+      "rank": 29,
+      "category": "科学科普,社会新闻"
     },
     {
       "raw_hot": 154823,
@@ -2971,6 +3027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97603,
+      "num": 427593,
+      "word": "张大仙破大防",
+      "onboard_time": 1702648835,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94827,
       "num": 94827,
       "word": "真正的王炸式降温ta来了",
@@ -3131,14 +3195,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 46816,
-      "num": 378196,
-      "word": "张大仙破大防",
-      "onboard_time": 1702648835,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 46097,
       "num": 426117,
       "word": "我在元梦之星滑雪",
@@ -3289,6 +3345,14 @@
       "onboard_time": 1702626156,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22263,
+      "num": 412240,
+      "word": "大众ID第一台纯电轿车",
+      "onboard_time": 1702650100,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 22056,
