@@ -1,6 +1,6 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702661661317,
+  "endTime": 1702664550449,
   "band_list": [
     {
       "raw_hot": 1253156,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113941,
+      "num": 113941,
+      "word": "手机戒断",
+      "onboard_time": 1702662380,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97004,
       "num": 97004,
       "word": "原神 你看看人家",
@@ -435,6 +443,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50575,
+      "num": 50575,
+      "word": "秦岚朵拉宇宙添新人",
+      "onboard_time": 1702661782,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48109,
+      "num": 48109,
+      "word": "谢娜扣杀许昕",
+      "onboard_time": 1702661961,
+      "rank": 38,
+      "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 35263,
+      "num": 39087,
+      "word": "KBS",
+      "onboard_time": 1702630654,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 27907,
       "num": 587282,
       "word": "上天入海见证中国力量",
@@ -443,7 +475,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14729,
+      "raw_hot": 24748,
       "num": 383491,
       "word": "如果中国县城变身各科课代表",
       "onboard_time": 1702646259,
