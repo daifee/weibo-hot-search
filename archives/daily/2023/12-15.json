@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702628583568,
+  "endTime": 1702629340808,
   "band_list": [
     {
       "raw_hot": 5394223,
@@ -179,6 +179,14 @@
       "category": "互联网,剧集"
     },
     {
+      "raw_hot": 989336,
+      "num": 989336,
+      "word": "余霜管泽元结婚照",
+      "onboard_time": 1702627412,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 982131,
       "num": 648323,
       "word": "东方甄选回应董宇辉停播",
@@ -193,14 +201,6 @@
       "onboard_time": 1702607495,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 963160,
-      "num": 963160,
-      "word": "余霜管泽元结婚照",
-      "onboard_time": 1702627412,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 934643,
@@ -595,6 +595,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 431546,
+      "num": 431546,
+      "word": "倪萍曾在东方甄选直播间批评孙东旭",
+      "onboard_time": 1702627053,
+      "rank": 16,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 425281,
       "num": 425281,
       "word": "一念关山27集剪辑",
@@ -665,14 +673,6 @@
       "onboard_time": 1702617035,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 380426,
-      "num": 314573,
-      "word": "倪萍曾在东方甄选直播间批评孙东旭",
-      "onboard_time": 1702627053,
-      "rank": 16,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 370022,
@@ -793,6 +793,14 @@
       "onboard_time": 1702614998,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314271,
+      "num": 226561,
+      "word": "亚洲人为什么要用24小时制",
+      "onboard_time": 1702628254,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 313172,
@@ -971,6 +979,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 263305,
+      "num": 251455,
+      "word": "这2种癌症早期症状往往会被忽视",
+      "onboard_time": 1702626096,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 262177,
       "num": 262177,
       "word": "考研 生命过场",
@@ -1003,20 +1019,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 254218,
+      "num": 254218,
+      "word": "宋L 上市价格",
+      "onboard_time": 1702627473,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 254108,
       "num": 140099,
       "word": "董宇辉真实年薪不足千万",
       "onboard_time": 1702541433,
       "rank": 37,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 253272,
-      "num": 253272,
-      "word": "宋L 上市价格",
-      "onboard_time": 1702627473,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 252139,
@@ -1115,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223675,
+      "num": 223675,
+      "word": "巨显发量的卷发",
+      "onboard_time": 1702628315,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 223393,
       "num": 223393,
       "word": "高途陈向东再回应挖角董宇辉传闻",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1702616800,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219098,
-      "num": 219098,
-      "word": "这2种癌症早期症状往往会被忽视",
-      "onboard_time": 1702626096,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 216596,
@@ -1403,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190892,
+      "num": 190892,
+      "word": "网红员工给CEO们上了一课",
+      "onboard_time": 1702627831,
+      "rank": 43,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 190858,
       "num": 190858,
       "word": "早敲胆经 晚推肝经",
@@ -1539,14 +1563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174581,
-      "num": 174581,
-      "word": "亚洲人为什么要用24小时制",
-      "onboard_time": 1702628254,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172850,
       "num": 172850,
       "word": "有只兔子今天登月10年了",
@@ -1603,14 +1619,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 166011,
-      "num": 166011,
-      "word": "网红员工给CEO们上了一课",
-      "onboard_time": 1702627831,
-      "rank": 43,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 165024,
       "num": 165024,
       "word": "河北唐山2.3级地震",
@@ -1657,6 +1665,22 @@
       "onboard_time": 1702598430,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158040,
+      "num": 158040,
+      "word": "内娱甘露寺17步上演熹妃回宫",
+      "onboard_time": 1702629094,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154823,
+      "num": 154823,
+      "word": "古晋的恋爱脑康复了",
+      "onboard_time": 1702629033,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 150448,
@@ -1737,14 +1761,6 @@
       "onboard_time": 1702556559,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142876,
-      "num": 142876,
-      "word": "巨显发量的卷发",
-      "onboard_time": 1702628315,
-      "rank": 44,
-      "category": "美妆"
     },
     {
       "raw_hot": 140898,
@@ -1897,6 +1913,22 @@
       "onboard_time": 1702610851,
       "rank": 47,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 122456,
+      "num": 122456,
+      "word": "班主任邀请男孩去自己家里吃饺子",
+      "onboard_time": 1702628973,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121074,
+      "num": 121074,
+      "word": "怎么预约游览港珠澳大桥",
+      "onboard_time": 1702628133,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 119475,
@@ -2147,6 +2179,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 31623,
+      "num": 1125394,
+      "word": "谢谢温暖了2023的你们",
+      "onboard_time": 1702597048,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30420,
       "num": 56473,
       "word": "适合长中庭脸的妆容",
@@ -2185,14 +2225,6 @@
       "onboard_time": 1702595724,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23730,
-      "num": 1125394,
-      "word": "谢谢温暖了2023的你们",
-      "onboard_time": 1702597048,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22634,
