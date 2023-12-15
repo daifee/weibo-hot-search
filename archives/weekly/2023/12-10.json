@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702640055067,
+  "endTime": 1702643605362,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -1019,6 +1019,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1447660,
+      "num": 336909,
+      "word": "董宇辉否认加盟京东",
+      "onboard_time": 1702642057,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1446668,
       "num": 1384646,
       "word": "白岩松曾称中国人什么样河南人就什么样",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1702597348,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1106840,
+      "num": 1106840,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1702639594,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 1092318,
@@ -2275,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 757866,
+      "num": 757866,
+      "word": "元梦之星崩了",
+      "onboard_time": 1702642536,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 756718,
       "num": 756718,
       "word": "父亲 降吧",
@@ -2995,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 632833,
+      "num": 632833,
+      "word": "KBS",
+      "onboard_time": 1702630654,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 632302,
       "num": 320264,
       "word": "乳腺舒服了",
@@ -3067,12 +3099,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 617468,
+      "num": 325701,
+      "word": "董宇辉孟羽童 打工人困境",
+      "onboard_time": 1702642356,
+      "rank": 17,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 615447,
       "num": 615447,
       "word": "刘少昂1000米夺金",
       "onboard_time": 1702197632,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 610778,
+      "num": 845109,
+      "word": "爷爷删空短信独留孙女发的我爱你",
+      "onboard_time": 1702634132,
+      "rank": 4,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 609552,
@@ -3129,6 +3177,14 @@
       "onboard_time": 1702260812,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598930,
+      "num": 315089,
+      "word": "猝死的人都有的规律",
+      "onboard_time": 1702639054,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 595284,
@@ -3337,6 +3393,14 @@
       "onboard_time": 1702547133,
       "rank": 12,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 564527,
+      "num": 564527,
+      "word": "电视剧脱轨播放量",
+      "onboard_time": 1702638817,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 563747,
@@ -4011,6 +4075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 482892,
+      "num": 482892,
+      "word": "方逸伦评论",
+      "onboard_time": 1702642834,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481452,
       "num": 481452,
       "word": "甘肃白银越野赛事故多人获刑",
@@ -4371,6 +4443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449217,
+      "num": 321524,
+      "word": "罗永浩否认会和董宇辉合作",
+      "onboard_time": 1702640854,
+      "rank": 19,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 448911,
       "num": 448911,
       "word": "现在股市为20年一遇机会",
@@ -4465,6 +4545,14 @@
       "onboard_time": 1702182395,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 438696,
+      "num": 438696,
+      "word": "成都地铁官微被指内涵网友住嘴",
+      "onboard_time": 1702638034,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438475,
@@ -5059,14 +5147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 394465,
-      "num": 394465,
-      "word": "KBS",
-      "onboard_time": 1702630654,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 394284,
       "num": 394284,
       "word": "气象部门回应河北人工增雪崩到河南",
@@ -5332,7 +5412,7 @@
     },
     {
       "raw_hot": 376689,
-      "num": 222186,
+      "num": 245326,
       "word": "高途CEO称不主动挖董宇辉",
       "onboard_time": 1702636478,
       "rank": 49,
@@ -5675,14 +5755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 357096,
-      "num": 357096,
-      "word": "成都地铁官微被指内涵网友住嘴",
-      "onboard_time": 1702638034,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356962,
       "num": 356962,
       "word": "成毅红毯舞剑",
@@ -5945,14 +6017,6 @@
       "onboard_time": 1702525711,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 341480,
-      "num": 845109,
-      "word": "爷爷删空短信独留孙女发的我爱你",
-      "onboard_time": 1702634132,
-      "rank": 4,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 341144,
@@ -6947,6 +7011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 291141,
+      "num": 291141,
+      "word": "四级 裸考",
+      "onboard_time": 1702640557,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 289811,
       "num": 392764,
       "word": "旭旭宝宝工作室新增营业性演出业务",
@@ -7035,14 +7107,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 286739,
-      "num": 254000,
-      "word": "猝死的人都有的规律",
-      "onboard_time": 1702639054,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 286572,
       "num": 1459877,
       "word": "近90岁女画家守近万幅画坚决不卖",
@@ -7121,14 +7185,6 @@
       "onboard_time": 1702518635,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 283899,
-      "num": 283899,
-      "word": "孙颖莎vs张本美和",
-      "onboard_time": 1702639594,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 283802,
@@ -7217,6 +7273,14 @@
       "onboard_time": 1702529201,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280402,
+      "num": 280402,
+      "word": "米卡 女生穿礼服真的很辛苦",
+      "onboard_time": 1702643075,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280326,
@@ -8043,6 +8107,14 @@
       "category": "健康医疗,社会议题"
     },
     {
+      "raw_hot": 255192,
+      "num": 255192,
+      "word": "时代少年团 溜溜梅",
+      "onboard_time": 1702640433,
+      "rank": 30,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 254596,
       "num": 254596,
       "word": "脸部泛红的主要因素",
@@ -8305,6 +8377,14 @@
       "onboard_time": 1702346373,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249687,
+      "num": 249687,
+      "word": "北京地铁昌平线明起全线正常运营",
+      "onboard_time": 1702642477,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249540,
@@ -10483,6 +10563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205004,
+      "num": 205004,
+      "word": "香蕉是这样切割的",
+      "onboard_time": 1702641034,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 204944,
       "num": 204944,
       "word": "WBG打野Xiaohao",
@@ -10995,6 +11083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199175,
+      "num": 199175,
+      "word": "教师们被忽视的情绪劳动",
+      "onboard_time": 1702642173,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199173,
       "num": 199173,
       "word": "邓为冬季刊",
@@ -11081,6 +11177,14 @@
       "onboard_time": 1702477236,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197932,
+      "num": 197932,
+      "word": "东方甄选掉粉",
+      "onboard_time": 1702641034,
+      "rank": 35,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 197600,
@@ -12123,6 +12227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185219,
+      "num": 185219,
+      "word": "KBS直播",
+      "onboard_time": 1702642713,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184904,
       "num": 184904,
       "word": "苏醒和偶像剧的距离只有10厘米",
@@ -12267,6 +12379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183053,
+      "num": 183053,
+      "word": "戚薇反击容貌质疑 你瞎了",
+      "onboard_time": 1702641393,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183041,
       "num": 183041,
       "word": "周深汪苏泷宋亚轩 共享衣柜",
@@ -12289,6 +12409,14 @@
       "onboard_time": 1702288233,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 182559,
+      "num": 182559,
+      "word": "星穹铁道真理医生",
+      "onboard_time": 1702643373,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 182532,
@@ -12875,6 +13003,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 173082,
+      "num": 173082,
+      "word": "KBS 有没有节目单",
+      "onboard_time": 1702642356,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173066,
       "num": 173066,
       "word": "你支持张雪峰还是专家对文科的看法",
@@ -12961,6 +13097,14 @@
       "onboard_time": 1702301574,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171510,
+      "num": 171510,
+      "word": "宋亚轩汇演头套掉了",
+      "onboard_time": 1702643373,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 171394,
@@ -13595,6 +13739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160608,
+      "num": 160608,
+      "word": "陈梦3比2早田希娜",
+      "onboard_time": 1702641393,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160427,
       "num": 160427,
       "word": "横滨水手vs山东泰山",
@@ -14009,6 +14161,22 @@
       "onboard_time": 1702279354,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154476,
+      "num": 154476,
+      "word": "aespa红毯比心",
+      "onboard_time": 1702641755,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154030,
+      "num": 154030,
+      "word": "罗永浩回应俞敏洪翻车",
+      "onboard_time": 1702643494,
+      "rank": 49,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 153896,
@@ -16003,6 +16171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106243,
+      "num": 330448,
+      "word": "元梦有自己的发育路搭子",
+      "onboard_time": 1702641633,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105199,
       "num": 339104,
       "word": "KPL元梦团建",
@@ -17081,6 +17257,14 @@
       "onboard_time": 1702595843,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 30333,
+      "num": 318998,
+      "word": "大众新旗舰有电不一样",
+      "onboard_time": 1702640913,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 30083,
