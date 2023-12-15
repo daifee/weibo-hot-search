@@ -1,6 +1,6 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702660592867,
+  "endTime": 1702661661317,
   "band_list": [
     {
       "raw_hot": 1253156,
@@ -43,6 +43,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 622619,
+      "num": 622619,
+      "word": "工作是为了早点赎身 不是干成头牌",
+      "onboard_time": 1702654535,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 603336,
       "num": 522843,
       "word": "B站 评论没了",
@@ -73,14 +81,6 @@
       "onboard_time": 1702650159,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 535196,
-      "num": 535196,
-      "word": "工作是为了早点赎身 不是干成头牌",
-      "onboard_time": 1702654535,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 531390,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320189,
+      "num": 310782,
+      "word": "叶舒华确诊A型流感",
+      "onboard_time": 1702659206,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318166,
       "num": 488295,
       "word": "怎么退四六级考试费",
@@ -169,14 +177,6 @@
       "onboard_time": 1702642057,
       "rank": 22,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 310782,
-      "num": 310782,
-      "word": "叶舒华确诊A型流感",
-      "onboard_time": 1702659206,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 297756,
@@ -439,6 +439,14 @@
       "num": 587282,
       "word": "上天入海见证中国力量",
       "onboard_time": 1702646737,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14729,
+      "num": 383491,
+      "word": "如果中国县城变身各科课代表",
+      "onboard_time": 1702646259,
       "rank": 2,
       "category": "社会新闻"
     }

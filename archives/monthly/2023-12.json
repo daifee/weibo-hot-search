@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702660592867,
+  "endTime": 1702661661317,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -7267,6 +7267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 622619,
+      "num": 622619,
+      "word": "工作是为了早点赎身 不是干成头牌",
+      "onboard_time": 1702654535,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 622541,
       "num": 622541,
       "word": "iG合体",
@@ -8777,14 +8785,6 @@
       "onboard_time": 1701834216,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 535196,
-      "num": 535196,
-      "word": "工作是为了早点赎身 不是干成头牌",
-      "onboard_time": 1702654535,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 535043,
@@ -16211,6 +16211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320189,
+      "num": 310782,
+      "word": "叶舒华确诊A型流感",
+      "onboard_time": 1702659206,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320105,
       "num": 320105,
       "word": "字节跳动以160美元开启新一轮股东回购",
@@ -16753,14 +16761,6 @@
       "onboard_time": 1701787365,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 310782,
-      "num": 310782,
-      "word": "叶舒华确诊A型流感",
-      "onboard_time": 1702659206,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 310716,
@@ -41883,6 +41883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14729,
+      "num": 957211,
+      "word": "如果中国县城变身各科课代表",
+      "onboard_time": 1702646259,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14004,
       "num": 21612,
       "word": "家务优等生",
@@ -41945,14 +41953,6 @@
       "onboard_time": 1701895214,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 12223,
-      "num": 957211,
-      "word": "如果中国县城变身各科课代表",
-      "onboard_time": 1702646259,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12081,
