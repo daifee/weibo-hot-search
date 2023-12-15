@@ -1,0 +1,410 @@
+{
+  "runTime": 1702622197467,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1566810,
+        "num": 1566810,
+        "word": "孟羽童面试时曾称月薪超4500就满足",
+        "onboard_time": 1702619492,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 744274,
+        "num": 744274,
+        "word": "烧烤店挂出告示禁止日本人进店消费",
+        "onboard_time": 1702614698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29221,
+        "num": 736136,
+        "word": "北京点燃数字经济国潮热",
+        "onboard_time": 1702619852,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431340,
+        "num": 735856,
+        "word": "年轻人带癌上班是怎样的体验",
+        "onboard_time": 1702615777,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 732533,
+        "num": 732533,
+        "word": "GQ 内幕",
+        "onboard_time": 1702618355,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 596492,
+        "num": 596492,
+        "word": "专家称董宇辉和东方甄选体面分手最好",
+        "onboard_time": 1702617335,
+        "rank": 5,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 443568,
+        "num": 443568,
+        "word": "剧版左耳空降",
+        "onboard_time": 1702616561,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438048,
+        "num": 438048,
+        "word": "港媒曝肖战将与徐克再合作",
+        "onboard_time": 1702614276,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390784,
+        "num": 436682,
+        "word": "爷爷生前藏了65年的俄语信",
+        "onboard_time": 1702618955,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263940,
+        "num": 431066,
+        "word": "免疫力下降都有哪些信号",
+        "onboard_time": 1702615178,
+        "rank": 9,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 520455,
+        "num": 428346,
+        "word": "女生称遭男童袭胸老人护孙摔断腰椎",
+        "onboard_time": 1702600718,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477932,
+        "num": 422838,
+        "word": "没有董宇辉的东方甄选到底还行不行",
+        "onboard_time": 1702621653,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 450303,
+        "num": 416164,
+        "word": "A股",
+        "onboard_time": 1702620452,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 414531,
+        "num": 414531,
+        "word": "刘浩存 演技",
+        "onboard_time": 1702619617,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72697,
+        "num": 353648,
+        "word": "你在元梦之星拿第一了吗",
+        "onboard_time": 1702620031,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339319,
+        "num": 339319,
+        "word": "赵丽颖央视推介与凤行",
+        "onboard_time": 1702617035,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330616,
+        "num": 330616,
+        "word": "GQ 一稿过艺人",
+        "onboard_time": 1702621713,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 304018,
+        "num": 304018,
+        "word": "袁娅维连发22条微博",
+        "onboard_time": 1702621592,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207912,
+        "num": 298501,
+        "word": "退休教师痛失爱子后替子还债百万",
+        "onboard_time": 1702615962,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192217,
+        "num": 297610,
+        "word": "10个月婴儿高烧惊厥子弟兵狂奔送医",
+        "onboard_time": 1702621114,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1619872,
+        "num": 297519,
+        "word": "北京地铁事故致102人骨折",
+        "onboard_time": 1702615598,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297195,
+        "num": 297195,
+        "word": "东方甄选称昨日销售额创纪录",
+        "onboard_time": 1702611995,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1404180,
+        "num": 296475,
+        "word": "孟羽童称当董事长秘书和具体业务脱节",
+        "onboard_time": 1702613495,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 291329,
+        "num": 291329,
+        "word": "贺军翔谈杨丞琳言论风波",
+        "onboard_time": 1702607673,
+        "rank": 23,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 286753,
+        "num": 286753,
+        "word": "流感 泡脚",
+        "onboard_time": 1702618894,
+        "rank": 24,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 277802,
+        "num": 277802,
+        "word": "港媒曝刘亦菲杨紫琼争演徐克新片",
+        "onboard_time": 1702607495,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127099,
+        "num": 267501,
+        "word": "蛋仔派对喜羊羊",
+        "onboard_time": 1702620692,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258847,
+        "num": 258847,
+        "word": "杨紫线下状态",
+        "onboard_time": 1702621472,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258039,
+        "num": 258039,
+        "word": "女子喝白酒死亡同桌3闺蜜担责",
+        "onboard_time": 1702621532,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257861,
+        "num": 257861,
+        "word": "kanye你敢耍老子",
+        "onboard_time": 1702619733,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 917090,
+        "num": 254506,
+        "word": "68岁女子感染HPV称老伴都去世30多年",
+        "onboard_time": 1702620635,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234485,
+        "num": 234485,
+        "word": "感冒花了12万",
+        "onboard_time": 1702605451,
+        "rank": 31,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 230859,
+        "num": 230859,
+        "word": "女艺人 我们不搞雌竞",
+        "onboard_time": 1702621894,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161825,
+        "num": 225328,
+        "word": "哈登生涯25000分",
+        "onboard_time": 1702620395,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223393,
+        "num": 223393,
+        "word": "高途陈向东再回应挖角董宇辉传闻",
+        "onboard_time": 1702621294,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 210558,
+        "num": 210558,
+        "word": "孟羽童个人简介是前500强董事长秘书",
+        "onboard_time": 1702600537,
+        "rank": 35,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 205730,
+        "num": 205730,
+        "word": "溜溜梅 你没事吧",
+        "onboard_time": 1702612714,
+        "rank": 36,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 211247,
+        "num": 205205,
+        "word": "董宇辉评论区清一色加油鼓劲",
+        "onboard_time": 1702616077,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 203667,
+        "num": 203667,
+        "word": "店长 今天没有客人吗",
+        "onboard_time": 1702619492,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168016,
+        "num": 202717,
+        "word": "快船双杀勇士",
+        "onboard_time": 1702622071,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205883,
+        "num": 202402,
+        "word": "小杨哥评价董宇辉",
+        "onboard_time": 1702605814,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 202018,
+        "num": 202018,
+        "word": "霉霉演唱会大电影内地定档",
+        "onboard_time": 1702621592,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200768,
+        "num": 200768,
+        "word": "晚上睡不着和熬夜有什么区别",
+        "onboard_time": 1702610554,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179193,
+        "num": 179193,
+        "word": "一念关山",
+        "onboard_time": 1702621055,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177026,
+        "num": 177026,
+        "word": "中戏老师评价邓为",
+        "onboard_time": 1702613796,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168290,
+        "num": 168290,
+        "word": "刘诗诗说最喜欢的角色是于十三",
+        "onboard_time": 1702616022,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167663,
+        "num": 167663,
+        "word": "杨幂倪妮顶峰相见船",
+        "onboard_time": 1702616679,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165724,
+        "num": 165724,
+        "word": "央视2024年电视剧片单",
+        "onboard_time": 1702617097,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165135,
+        "num": 165135,
+        "word": "周海媚最后一次杂志拍摄",
+        "onboard_time": 1702618657,
+        "rank": 48,
+        "category": "作品衍生,社会新闻"
+      },
+      {
+        "raw_hot": 137732,
+        "num": 161193,
+        "word": "韩莹3比2朱芊曦",
+        "onboard_time": 1702621232,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从发展数据读懂中国信心#"
+    }
+  }
+}
