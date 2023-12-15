@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702664550449,
+  "endTime": 1702665353402,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -38075,6 +38075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119927,
+      "num": 119927,
+      "word": "手机戒断",
+      "onboard_time": 1702662380,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119905,
       "num": 119905,
       "word": "脱口秀大会 文字版",
@@ -38433,14 +38441,6 @@
       "onboard_time": 1702459595,
       "rank": 49,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 113941,
-      "num": 113941,
-      "word": "手机戒断",
-      "onboard_time": 1702662380,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 113724,

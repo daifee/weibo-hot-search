@@ -1,6 +1,6 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702664550449,
+  "endTime": 1702665353402,
   "band_list": [
     {
       "raw_hot": 1253156,
@@ -395,20 +395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119927,
+      "num": 119927,
+      "word": "手机戒断",
+      "onboard_time": 1702662380,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119491,
       "num": 119491,
       "word": "女子从事特教13年频繁被打仍耐心坚守",
       "onboard_time": 1702653876,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113941,
-      "num": 113941,
-      "word": "手机戒断",
-      "onboard_time": 1702662380,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 97004,
