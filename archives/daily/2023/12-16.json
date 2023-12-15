@@ -1,6 +1,6 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702679673322,
+  "endTime": 1702682272695,
   "band_list": [
     {
       "raw_hot": 1253156,
@@ -179,6 +179,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 306686,
+      "num": 102306,
+      "word": "37岁员工血液病离世曾控诉工作环境",
+      "onboard_time": 1702678096,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297756,
       "num": 491777,
       "word": "爷爷删空短信独留孙女发的我爱你",
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243071,
+      "num": 216806,
+      "word": "张家口警方回应网传女子裸体冻亡",
+      "onboard_time": 1702637076,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234188,
       "num": 227838,
       "word": "罗永浩否认会和董宇辉合作",
@@ -243,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229190,
+      "num": 102160,
+      "word": "高途CEO评罗永浩喊话董宇辉",
+      "onboard_time": 1702675754,
+      "rank": 43,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 225405,
       "num": 225405,
       "word": "时代少年团纪录片回应耍大牌",
       "onboard_time": 1702655374,
       "rank": 31,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 216806,
-      "num": 216806,
-      "word": "张家口警方回应网传女子裸体冻亡",
-      "onboard_time": 1702637076,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211498,
@@ -323,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174154,
+      "num": 174154,
+      "word": "被西湖边误入镜头的女孩可爱到了",
+      "onboard_time": 1702656332,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170653,
       "num": 170653,
       "word": "aespa 妆造",
@@ -355,12 +379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142642,
-      "num": 156919,
-      "word": "被西湖边误入镜头的女孩可爱到了",
-      "onboard_time": 1702656332,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 144599,
+      "num": 102067,
+      "word": "东方甄选停播一天闭门思过",
+      "onboard_time": 1702682120,
+      "rank": 15,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 141542,
+      "num": 141542,
+      "word": "赵文卓 演员迟到成常规了",
+      "onboard_time": 1702648656,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 133760,
@@ -411,19 +443,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107180,
-      "num": 50700,
-      "word": "高途CEO评罗永浩喊话董宇辉",
-      "onboard_time": 1702675754,
-      "rank": 43,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 104429,
-      "num": 50655,
-      "word": "37岁员工血液病离世曾控诉工作环境",
-      "onboard_time": 1702678096,
-      "rank": 37,
+      "raw_hot": 103754,
+      "num": 101593,
+      "word": "男子无证醉驾撞死2岁女童逃逸",
+      "onboard_time": 1702671434,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -433,6 +457,22 @@
       "onboard_time": 1702644819,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 96423,
+      "num": 96423,
+      "word": "会计和猪最怕过年",
+      "onboard_time": 1702679956,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88088,
+      "num": 88088,
+      "word": "人体约70%免疫力来自肠道",
+      "onboard_time": 1702668795,
+      "rank": 48,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 83064,
@@ -451,6 +491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 79493,
+      "num": 79493,
+      "word": "上海下雪",
+      "onboard_time": 1702681518,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73626,
       "num": 228405,
       "word": "布满油污的三轮车上放着一个蛋糕",
@@ -459,19 +507,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52590,
-      "num": 50448,
-      "word": "人体约70%免疫力来自肠道",
-      "onboard_time": 1702668795,
-      "rank": 48,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 63449,
+      "num": 63449,
+      "word": "余秀华建议俞敏洪给董宇辉单独搞团队",
+      "onboard_time": 1702681759,
+      "rank": 34,
+      "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 51014,
-      "num": 50422,
-      "word": "男子无证醉驾撞死2岁女童逃逸",
-      "onboard_time": 1702671434,
-      "rank": 49,
+      "raw_hot": 63328,
+      "num": 63328,
+      "word": "罗永浩称嫉妒下属比自己强是没出息",
+      "onboard_time": 1702680557,
+      "rank": 35,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 57726,
+      "num": 57726,
+      "word": "国家公祭日男子身贴日本国旗出行",
+      "onboard_time": 1702681700,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -491,6 +547,30 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 43620,
+      "num": 43620,
+      "word": "鸣龙少年 龙樱",
+      "onboard_time": 1702680196,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40515,
+      "num": 40515,
+      "word": "揭秘假货重灾区",
+      "onboard_time": 1702673834,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 37226,
+      "num": 383491,
+      "word": "如果中国县城变身各科课代表",
+      "onboard_time": 1702646259,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35263,
       "num": 39087,
       "word": "KBS",
@@ -507,14 +587,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 29675,
-      "num": 29675,
-      "word": "揭秘假货重灾区",
-      "onboard_time": 1702673834,
-      "rank": 40,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 27907,
       "num": 587282,
       "word": "上天入海见证中国力量",
@@ -529,14 +601,6 @@
       "onboard_time": 1702674614,
       "rank": 47,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 24748,
-      "num": 383491,
-      "word": "如果中国县城变身各科课代表",
-      "onboard_time": 1702646259,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21359,
