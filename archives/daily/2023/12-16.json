@@ -1,6 +1,6 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702676064512,
+  "endTime": 1702678605690,
   "band_list": [
     {
       "raw_hot": 1253156,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57730,
+      "num": 46879,
+      "word": "高途CEO评罗永浩喊话董宇辉",
+      "onboard_time": 1702675754,
+      "rank": 43,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 50575,
       "num": 50575,
       "word": "秦岚朵拉宇宙添新人",
@@ -467,8 +475,8 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 41845,
-      "num": 35845,
+      "raw_hot": 42258,
+      "num": 42258,
       "word": "男子无证醉驾撞死2岁女童逃逸",
       "onboard_time": 1702671434,
       "rank": 49,
@@ -491,12 +499,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 29076,
+      "num": 29076,
+      "word": "揭秘假货重灾区",
+      "onboard_time": 1702673834,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 27907,
       "num": 587282,
       "word": "上天入海见证中国力量",
       "onboard_time": 1702646737,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25209,
+      "num": 25209,
+      "word": "罗永浩称私企内的知遇别轻易提感恩",
+      "onboard_time": 1702674614,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 24748,
@@ -507,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21842,
-      "num": 21842,
-      "word": "揭秘假货重灾区",
-      "onboard_time": 1702673834,
-      "rank": 40,
-      "category": "美妆"
+      "raw_hot": 23872,
+      "num": 23872,
+      "word": "37岁员工血液病离世曾控诉工作环境",
+      "onboard_time": 1702678096,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21359,
@@ -531,19 +555,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18835,
-      "num": 18835,
-      "word": "罗永浩称私企内的知遇别轻易提感恩",
-      "onboard_time": 1702674614,
-      "rank": 47,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 17377,
-      "num": 18222,
-      "word": "高途CEO评罗永浩喊话董宇辉",
-      "onboard_time": 1702675754,
-      "rank": 43,
+      "raw_hot": 17415,
+      "num": 20327,
+      "word": "罗永浩喊话董宇辉不要害怕",
+      "onboard_time": 1702675334,
+      "rank": 46,
       "category": "互联网,社会新闻"
     },
     {
@@ -553,14 +569,6 @@
       "onboard_time": 1702671855,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14699,
-      "num": 18205,
-      "word": "罗永浩喊话董宇辉不要害怕",
-      "onboard_time": 1702675334,
-      "rank": 46,
-      "category": "互联网,社会新闻"
     }
   ],
   "hotgov_list": [
