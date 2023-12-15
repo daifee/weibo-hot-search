@@ -1,6 +1,6 @@
 {
   "startTime": 1702570798745,
-  "endTime": 1702629340808,
+  "endTime": 1702631899913,
   "band_list": [
     {
       "raw_hot": 5394223,
@@ -51,20 +51,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 2117794,
+      "num": 2117794,
+      "word": "女子喝白酒死亡同桌3闺蜜担责",
+      "onboard_time": 1702621532,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1987700,
+      "num": 638275,
+      "word": "董宇辉 东方小孙",
+      "onboard_time": 1702629514,
+      "rank": 7,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1986505,
       "num": 519374,
       "word": "董宇辉 停播",
       "onboard_time": 1702550196,
       "rank": 6,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1880236,
-      "num": 1880236,
-      "word": "女子喝白酒死亡同桌3闺蜜担责",
-      "onboard_time": 1702621532,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1824940,
@@ -171,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1092318,
+      "num": 1092318,
+      "word": "余霜管泽元结婚照",
+      "onboard_time": 1702627412,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1074878,
       "num": 685282,
       "word": "董宇辉 现实版新闻女王",
       "onboard_time": 1702559617,
       "rank": 3,
       "category": "互联网,剧集"
-    },
-    {
-      "raw_hot": 989336,
-      "num": 989336,
-      "word": "余霜管泽元结婚照",
-      "onboard_time": 1702627412,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 982131,
@@ -217,6 +225,14 @@
       "onboard_time": 1702614698,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 933403,
+      "num": 933403,
+      "word": "罗永浩 愿意支持董宇辉创业",
+      "onboard_time": 1702631373,
+      "rank": 4,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 915803,
@@ -377,6 +393,14 @@
       "onboard_time": 1702612714,
       "rank": 20,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 638682,
+      "num": 638682,
+      "word": "张万森 你霉姐来了",
+      "onboard_time": 1702630654,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 609552,
@@ -563,6 +587,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 476466,
+      "num": 476466,
+      "word": "亚洲人为什么要用24小时制",
+      "onboard_time": 1702628254,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 463291,
       "num": 463291,
       "word": "淘票票 有心了",
@@ -585,6 +617,14 @@
       "onboard_time": 1702609713,
       "rank": 28,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 441547,
+      "num": 441547,
+      "word": "Uzi肌肉",
+      "onboard_time": 1702629694,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 436073,
@@ -651,7 +691,7 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 390784,
+      "raw_hot": 393160,
       "num": 447398,
       "word": "爷爷生前藏了65年的俄语信",
       "onboard_time": 1702618955,
@@ -673,6 +713,14 @@
       "onboard_time": 1702617035,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370532,
+      "num": 370532,
+      "word": "内娱甘露寺17步上演熹妃回宫",
+      "onboard_time": 1702629094,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 370022,
@@ -779,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319309,
+      "num": 319309,
+      "word": "藏在蛋糕里的危险",
+      "onboard_time": 1702630415,
+      "rank": 17,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 316892,
       "num": 316892,
       "word": "杨紫线下状态",
@@ -795,20 +851,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314271,
-      "num": 226561,
-      "word": "亚洲人为什么要用24小时制",
-      "onboard_time": 1702628254,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 313172,
       "num": 313172,
       "word": "杭州你这样让其他兄弟省份很难做啊",
       "onboard_time": 1702596324,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307591,
+      "num": 307591,
+      "word": "东方甄选直播间 评论区",
+      "onboard_time": 1702630353,
+      "rank": 22,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 305600,
@@ -832,6 +888,14 @@
       "word": "小霞3.0",
       "onboard_time": 1702610554,
       "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 300928,
+      "num": 300928,
+      "word": "KBS",
+      "onboard_time": 1702630654,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -929,6 +993,14 @@
       "onboard_time": 1702624295,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272483,
+      "num": 272483,
+      "word": "小岛工作室 死亡搁浅电影",
+      "onboard_time": 1702631073,
+      "rank": 27,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 268964,
@@ -1035,6 +1107,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 253926,
+      "num": 253926,
+      "word": "央视曝9元机票实际到手价格接近600元",
+      "onboard_time": 1702631435,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252139,
       "num": 252139,
       "word": "张家辉 在座的都是垃圾",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1702565676,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233585,
+      "num": 233585,
+      "word": "蒲熠星 三大队有自己的西游记",
+      "onboard_time": 1702631312,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 233573,
@@ -1249,6 +1337,14 @@
       "onboard_time": 1702621114,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207408,
+      "num": 207408,
+      "word": "鞠婧祎奶杏妆",
+      "onboard_time": 1702631851,
+      "rank": 33,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 206912,
@@ -1619,6 +1715,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 165805,
+      "num": 165805,
+      "word": "夹雪鸭子",
+      "onboard_time": 1702631494,
+      "rank": 38,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 165024,
       "num": 165024,
       "word": "河北唐山2.3级地震",
@@ -1665,14 +1769,6 @@
       "onboard_time": 1702598430,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158040,
-      "num": 158040,
-      "word": "内娱甘露寺17步上演熹妃回宫",
-      "onboard_time": 1702629094,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 154823,
@@ -1891,6 +1987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124381,
+      "num": 143102,
+      "word": "班主任邀请男孩去自己家里吃饺子",
+      "onboard_time": 1702628973,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123859,
       "num": 123859,
       "word": "郑州市教育局12月15日复课",
@@ -1913,14 +2017,6 @@
       "onboard_time": 1702610851,
       "rank": 47,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 122456,
-      "num": 122456,
-      "word": "班主任邀请男孩去自己家里吃饺子",
-      "onboard_time": 1702628973,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121074,
@@ -1961,6 +2057,22 @@
       "onboard_time": 1702567295,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 108324,
+      "num": 983542,
+      "word": "新千里江山图",
+      "onboard_time": 1702630594,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107837,
+      "num": 142909,
+      "word": "小孩哥夹雪熊哄大学生忙成流水线",
+      "onboard_time": 1702630473,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107521,
@@ -2025,6 +2137,14 @@
       "onboard_time": 1702542032,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87315,
+      "num": 163975,
+      "word": "谁是2023白色手机美神",
+      "onboard_time": 1702630532,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 85914,
@@ -2153,6 +2273,14 @@
       "onboard_time": 1702563879,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 37303,
+      "num": 343000,
+      "word": "谁抢到了张大仙的元梦之星id",
+      "onboard_time": 1702630833,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 36895,
@@ -2335,6 +2463,9 @@
     },
     {
       "word": "#遇见习近平#"
+    },
+    {
+      "word": "#习近平在广西来宾市考察调研#"
     }
   ]
 }
