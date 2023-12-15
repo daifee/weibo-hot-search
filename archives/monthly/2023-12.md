@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/15 23:34:34
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/16 00:23:43
 </p>
 </blockquote>
 <p>
@@ -5829,6 +5829,12 @@ JDG官宣Flandre加入（热度：596321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89CEO%E7%A7%B0%E7%8E%B0%E5%9C%A8%E4%B8%BB%E6%89%93%E8%96%84%E5%88%A9%E5%A4%9A%E9%94%80%23" target="weibo">
+东方甄选CEO称现在主打薄利多销（热度：585840）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E9%87%91%E9%9D%96%20%E9%A2%A0%E5%85%AC%E9%A2%A0%E5%A9%86%23" target="weibo">
 宋亚轩金靖 颠公颠婆（热度：585699）
 </a>
@@ -6005,12 +6011,6 @@ GQ颁奖（热度：573006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E8%81%8A%E8%BF%87%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%85%88%E8%B5%B0%E6%80%8E%E4%B9%88%E5%8A%9E%23" target="weibo">
 谢娜张杰聊过另一个人先走怎么办（热度：571443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%A7%94%E5%A9%89%E6%8B%92%E7%BB%9D%E5%88%98%E5%AE%87%E5%AE%81%23" target="weibo">
-刘诗诗委婉拒绝刘宇宁（热度：569977）
 </a>
 </li>
 
