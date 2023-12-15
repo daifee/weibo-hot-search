@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702646483753,
+  "endTime": 1702647229060,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -979,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2313164,
+      "num": 2313164,
+      "word": "郝蕾发飙",
+      "onboard_time": 1702643737,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2294244,
       "num": 2294244,
       "word": "16岁女生和班主任开房5次后自杀",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1702534953,
       "rank": 36,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 2180580,
-      "num": 2180580,
-      "word": "郝蕾发飙",
-      "onboard_time": 1702643737,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2171346,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1702181672,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1768484,
+      "num": 1768484,
+      "word": "B站 评论没了",
+      "onboard_time": 1702644935,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1767780,
@@ -2617,14 +2625,6 @@
       "onboard_time": 1702472975,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1376388,
-      "num": 1376388,
-      "word": "B站 评论没了",
-      "onboard_time": 1702644935,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1366301,
@@ -3993,6 +3993,14 @@
       "onboard_time": 1701764318,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 956670,
+      "num": 956670,
+      "word": "质疑马琳 成为马琳",
+      "onboard_time": 1702645774,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 953513,
@@ -5795,6 +5803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 720013,
+      "num": 420246,
+      "word": "董宇辉孟羽童 打工人困境",
+      "onboard_time": 1702642356,
+      "rank": 17,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 719762,
       "num": 719762,
       "word": "湖南卫视跨年 放票",
@@ -6281,14 +6297,6 @@
       "onboard_time": 1702006474,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 682227,
-      "num": 420246,
-      "word": "董宇辉孟羽童 打工人困境",
-      "onboard_time": 1702642356,
-      "rank": 17,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 681983,
@@ -6929,6 +6937,14 @@
       "onboard_time": 1702026278,
       "rank": 18,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 638408,
+      "num": 638408,
+      "word": "孙颖莎3比2张本美和",
+      "onboard_time": 1702646077,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 638360,
@@ -8145,14 +8161,6 @@
       "onboard_time": 1702599754,
       "rank": 17,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 559355,
-      "num": 559355,
-      "word": "质疑马琳 成为马琳",
-      "onboard_time": 1702645774,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 558536,
@@ -10555,6 +10563,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 457496,
+      "num": 457496,
+      "word": "张若昀科目三偷偷练了吧",
+      "onboard_time": 1702645175,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456995,
       "num": 456995,
       "word": "最高法呼吁取消高额彩礼",
@@ -12075,14 +12091,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 412238,
-      "num": 412238,
-      "word": "张若昀科目三偷偷练了吧",
-      "onboard_time": 1702645175,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 412179,
       "num": 412179,
       "word": "孙颖莎 正手",
@@ -12355,6 +12363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 405557,
+      "num": 400390,
+      "word": "办公室政治",
+      "onboard_time": 1702644275,
+      "rank": 42,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 404291,
       "num": 404291,
       "word": "柳宗元竟是螺蛳粉的初代推广大使",
@@ -12473,14 +12489,6 @@
       "onboard_time": 1702520192,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400390,
-      "num": 400390,
-      "word": "办公室政治",
-      "onboard_time": 1702644275,
-      "rank": 42,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 399984,
@@ -14728,14 +14736,6 @@
       "word": "王姐太帅了",
       "onboard_time": 1702127495,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 349242,
-      "num": 349242,
-      "word": "孙颖莎3比2张本美和",
-      "onboard_time": 1702646077,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -17723,6 +17723,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 295494,
+      "num": 295494,
+      "word": "女主复仇线 ppt",
+      "onboard_time": 1702646856,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 295433,
       "num": 184510,
       "word": "邓紫棋演唱会",
@@ -17889,6 +17897,14 @@
       "onboard_time": 1701413732,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 293414,
+      "num": 293414,
+      "word": "罗永浩回应俞敏洪翻车",
+      "onboard_time": 1702643494,
+      "rank": 49,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 293369,
@@ -19331,6 +19347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273696,
+      "num": 273696,
+      "word": "教师们被忽视的情绪劳动",
+      "onboard_time": 1702642173,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 273422,
       "num": 273422,
       "word": "咒术回战 宿傩被判死刑",
@@ -19449,14 +19473,6 @@
       "onboard_time": 1702388753,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271807,
-      "num": 271807,
-      "word": "罗永浩回应俞敏洪翻车",
-      "onboard_time": 1702643494,
-      "rank": 49,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 271789,
@@ -19963,14 +19979,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 264990,
-      "num": 264990,
-      "word": "教师们被忽视的情绪劳动",
-      "onboard_time": 1702642173,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 264892,
       "num": 264892,
       "word": "RNG官宣Breathe续约",
@@ -20329,6 +20337,14 @@
       "onboard_time": 1702257572,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 259900,
+      "num": 259900,
+      "word": "陈楚生把棚子唱塌了",
+      "onboard_time": 1702646376,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 259836,
@@ -21241,6 +21257,14 @@
       "onboard_time": 1702099414,
       "rank": 24,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 250042,
+      "num": 250042,
+      "word": "被割了舌头的繁殖金毛",
+      "onboard_time": 1702646918,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249747,
@@ -25179,6 +25203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211636,
+      "num": 211636,
+      "word": "六级 考前突击",
+      "onboard_time": 1702646017,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211588,
       "num": 211588,
       "word": "新闻女王 新婚祝福",
@@ -27331,14 +27363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198936,
-      "num": 198936,
-      "word": "陈楚生把棚子唱塌了",
-      "onboard_time": 1702646376,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198925,
       "num": 198925,
       "word": "WB小组第一出线",
@@ -27449,14 +27473,6 @@
       "onboard_time": 1701931894,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198026,
-      "num": 198026,
-      "word": "六级 考前突击",
-      "onboard_time": 1702646017,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 198003,
@@ -39819,6 +39835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61570,
+      "num": 183175,
+      "word": "派对游戏卷起来",
+      "onboard_time": 1702647216,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61527,
       "num": 61527,
       "word": "谢娜何炅旅行搭子",
@@ -40233,6 +40257,14 @@
       "onboard_time": 1702109792,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46097,
+      "num": 426117,
+      "word": "我在元梦之星滑雪",
+      "onboard_time": 1702645233,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 45998,
@@ -40759,14 +40791,6 @@
       "num": 748842,
       "word": "来元梦薅鹅毛",
       "onboard_time": 1702551631,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 31931,
-      "num": 426117,
-      "word": "我在元梦之星滑雪",
-      "onboard_time": 1702645233,
       "rank": 14,
       "category": "游戏"
     },
@@ -41537,6 +41561,14 @@
       "onboard_time": 1702325173,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 12940,
+      "num": 1088359,
+      "word": "上天入海见证中国力量",
+      "onboard_time": 1702646737,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12935,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1702647229060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2313164,
+        "num": 2313164,
+        "word": "郝蕾发飙",
+        "onboard_time": 1702643737,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1768484,
+        "num": 1768484,
+        "word": "B站 评论没了",
+        "onboard_time": 1702644935,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12940,
+        "num": 1088359,
+        "word": "上天入海见证中国力量",
+        "onboard_time": 1702646737,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 956670,
+        "num": 956670,
+        "word": "质疑马琳 成为马琳",
+        "onboard_time": 1702645774,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638408,
+        "num": 638408,
+        "word": "孙颖莎3比2张本美和",
+        "onboard_time": 1702646077,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619451,
+        "num": 619451,
+        "word": "KBS",
+        "onboard_time": 1702630654,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 510523,
+        "num": 510523,
+        "word": "方逸伦评论",
+        "onboard_time": 1702642834,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484634,
+        "num": 484634,
+        "word": "电视剧脱轨播放量",
+        "onboard_time": 1702638817,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457496,
+        "num": 457496,
+        "word": "张若昀科目三偷偷练了吧",
+        "onboard_time": 1702645175,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361499,
+        "num": 361499,
+        "word": "爷爷删空短信独留孙女发的我爱你",
+        "onboard_time": 1702634132,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1346291,
+        "num": 361281,
+        "word": "董宇辉账号粉丝数接近东方甄选一半",
+        "onboard_time": 1702635876,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 785607,
+        "num": 361112,
+        "word": "罗永浩 愿意支持董宇辉创业",
+        "onboard_time": 1702631373,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 729123,
+        "num": 360689,
+        "word": "韩国人吐槽中国理发店",
+        "onboard_time": 1702635876,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 720013,
+        "num": 360408,
+        "word": "董宇辉孟羽童 打工人困境",
+        "onboard_time": 1702642356,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 46097,
+        "num": 360344,
+        "word": "我在元梦之星滑雪",
+        "onboard_time": 1702645233,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 713767,
+        "num": 359881,
+        "word": "董宇辉否认加盟京东",
+        "onboard_time": 1702642057,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 634456,
+        "num": 359715,
+        "word": "董宇辉事件",
+        "onboard_time": 1702634195,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 624341,
+        "num": 359301,
+        "word": "罗永浩称董宇辉没必要浪费生命打工",
+        "onboard_time": 1702632873,
+        "rank": 17,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 473778,
+        "num": 359202,
+        "word": "董宇辉 东方小孙",
+        "onboard_time": 1702629514,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 434657,
+        "num": 358717,
+        "word": "张万森 你霉姐来了",
+        "onboard_time": 1702630654,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1182044,
+        "num": 358495,
+        "word": "孟羽童回应被董明珠怒斥",
+        "onboard_time": 1702622252,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 536520,
+        "num": 358275,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1702639594,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405557,
+        "num": 358038,
+        "word": "办公室政治",
+        "onboard_time": 1702644275,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 390960,
+        "num": 357675,
+        "word": "猝死的人都有的规律",
+        "onboard_time": 1702639054,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 357603,
+        "num": 357603,
+        "word": "迪丽热巴 近视人的痛苦日常",
+        "onboard_time": 1702644275,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354588,
+        "num": 354588,
+        "word": "罗永浩否认会和董宇辉合作",
+        "onboard_time": 1702640854,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 318297,
+        "num": 318297,
+        "word": "宋亚轩汇演头套掉了",
+        "onboard_time": 1702643373,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307668,
+        "num": 307668,
+        "word": "张家口警方回应网传女子裸体冻亡",
+        "onboard_time": 1702637076,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305107,
+        "num": 305107,
+        "word": "原神 你看看人家",
+        "onboard_time": 1702644819,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178527,
+        "num": 296677,
+        "word": "央视曝9元机票实际到手价格接近600元",
+        "onboard_time": 1702631435,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93312,
+        "num": 295672,
+        "word": "匹诺康尼 好多人啊",
+        "onboard_time": 1702645233,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295494,
+        "num": 295494,
+        "word": "女主复仇线 ppt",
+        "onboard_time": 1702646856,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283907,
+        "num": 294172,
+        "word": "星穹铁道 启动",
+        "onboard_time": 1702645417,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293414,
+        "num": 293414,
+        "word": "罗永浩回应俞敏洪翻车",
+        "onboard_time": 1702643494,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 286902,
+        "num": 286902,
+        "word": "罗永浩直播",
+        "onboard_time": 1702644758,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 273696,
+        "num": 273696,
+        "word": "教师们被忽视的情绪劳动",
+        "onboard_time": 1702642173,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 269218,
+        "num": 269218,
+        "word": "EDG宣布Uzi离队",
+        "onboard_time": 1702644879,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259900,
+        "num": 259900,
+        "word": "陈楚生把棚子唱塌了",
+        "onboard_time": 1702646376,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250042,
+        "num": 250042,
+        "word": "被割了舌头的繁殖金毛",
+        "onboard_time": 1702646918,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248715,
+        "num": 248715,
+        "word": "武汉下雪",
+        "onboard_time": 1702644879,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247438,
+        "num": 247438,
+        "word": "ZB1跳了EXO的咆哮",
+        "onboard_time": 1702645658,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234246,
+        "num": 234246,
+        "word": "元梦之星崩了",
+        "onboard_time": 1702642536,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227052,
+        "num": 227052,
+        "word": "徐璐深V",
+        "onboard_time": 1702644034,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222296,
+        "num": 222296,
+        "word": "杨幂走红毯 运动鞋加秋裤",
+        "onboard_time": 1702633956,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211636,
+        "num": 211636,
+        "word": "六级 考前突击",
+        "onboard_time": 1702646017,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205106,
+        "num": 205106,
+        "word": "时代少年团 溜溜梅",
+        "onboard_time": 1702640433,
+        "rank": 45,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 198784,
+        "num": 198784,
+        "word": "米卡 女生穿礼服真的很辛苦",
+        "onboard_time": 1702643075,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61570,
+        "num": 183175,
+        "word": "派对游戏卷起来",
+        "onboard_time": 1702647216,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49819,
+        "num": 174345,
+        "word": "我在元梦学八段锦",
+        "onboard_time": 1702645598,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172903,
+        "num": 172903,
+        "word": "刘少林被曝携女友进入教练席惹争议",
+        "onboard_time": 1702636295,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广西来宾市考察调研#"
+    }
+  }
+}
