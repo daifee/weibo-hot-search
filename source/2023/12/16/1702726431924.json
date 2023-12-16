@@ -1,0 +1,410 @@
+{
+  "runTime": 1702726431924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9649911,
+        "num": 9649911,
+        "word": "俞敏洪董宇辉合体直播",
+        "onboard_time": 1702725341,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 2432040,
+        "num": 2432040,
+        "word": "六级答案",
+        "onboard_time": 1702719702,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86295,
+        "num": 2262467,
+        "word": "2023那些戳人的话",
+        "onboard_time": 1702723958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2171882,
+        "num": 2171882,
+        "word": "六级卷子一股老人味",
+        "onboard_time": 1702722036,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 511648,
+        "num": 1362569,
+        "word": "外卖员大雪中送餐陌生人谎称顺路捎了他10公里",
+        "onboard_time": 1702717177,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037676,
+        "num": 1037676,
+        "word": "胡歌 是我不想拍请不要骂人",
+        "onboard_time": 1702717056,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197882,
+        "num": 1007313,
+        "word": "美术老师雪地踩出2万平双龙戏珠",
+        "onboard_time": 1702720240,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004965,
+        "num": 1004965,
+        "word": "鼠系帅哥",
+        "onboard_time": 1702721436,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 611302,
+        "num": 611302,
+        "word": "海底捞回应自助餐将开业",
+        "onboard_time": 1702724795,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182128,
+        "num": 608436,
+        "word": "儿童高烧抽搐从电动车摔下特警抱起送医",
+        "onboard_time": 1702721199,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607444,
+        "num": 607444,
+        "word": "霍尊胜诉",
+        "onboard_time": 1702713938,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557261,
+        "num": 557261,
+        "word": "六级阅读有Selena",
+        "onboard_time": 1702720782,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 473611,
+        "num": 473611,
+        "word": "刘宇宁回应一念关山争议",
+        "onboard_time": 1702724795,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439338,
+        "num": 439338,
+        "word": "作文是跑题的 阅读是不会的",
+        "onboard_time": 1702722221,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 408698,
+        "num": 408698,
+        "word": "考完四六级 悬着的心终于死了",
+        "onboard_time": 1702717718,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 400928,
+        "num": 400928,
+        "word": "好歹毒的sound knowledge",
+        "onboard_time": 1702720659,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 349875,
+        "num": 349875,
+        "word": "六级翻译 养老",
+        "onboard_time": 1702719879,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336703,
+        "num": 336703,
+        "word": "陈梦7战伊藤美诚全胜",
+        "onboard_time": 1702722516,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326565,
+        "num": 326565,
+        "word": "俄罗斯皇家芭蕾舞团 科目三",
+        "onboard_time": 1702723775,
+        "rank": 18,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 316050,
+        "num": 316050,
+        "word": "迪丽热巴 星光大赏",
+        "onboard_time": 1702710873,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1725303,
+        "num": 315932,
+        "word": "俞敏洪承认拉黑网友并道歉",
+        "onboard_time": 1702713873,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 971839,
+        "num": 315668,
+        "word": "东方甄选孙东旭被免职",
+        "onboard_time": 1702698283,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 378011,
+        "num": 315519,
+        "word": "孟羽童曾称在格力月薪没过万",
+        "onboard_time": 1702716095,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315285,
+        "num": 315285,
+        "word": "魏大勋撕名牌撕出表情包",
+        "onboard_time": 1702722705,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565971,
+        "num": 314102,
+        "word": "首席淘汰制",
+        "onboard_time": 1702724674,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 516164,
+        "num": 313878,
+        "word": "董宇辉回应何时回归直播间",
+        "onboard_time": 1702710274,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 312185,
+        "num": 312185,
+        "word": "唐嫣钻石鎏光羽毛长裙",
+        "onboard_time": 1702723657,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 321946,
+        "num": 311906,
+        "word": "董宇辉还能若无其事的回归吗",
+        "onboard_time": 1702721800,
+        "rank": 27,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 284149,
+        "num": 284149,
+        "word": "东方甄选一天出三招",
+        "onboard_time": 1702725034,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 55571,
+        "num": 271944,
+        "word": "蛋仔派对百款免费皮肤",
+        "onboard_time": 1702724854,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268467,
+        "num": 268467,
+        "word": "六级",
+        "onboard_time": 1702717478,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 514546,
+        "num": 260448,
+        "word": "俞敏洪曾说我是最后一根稻草",
+        "onboard_time": 1702718558,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 251823,
+        "num": 251823,
+        "word": "千万别让孩子把痰咽下去",
+        "onboard_time": 1702716998,
+        "rank": 32,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 251742,
+        "num": 251742,
+        "word": "刘诗诗上次录节目是十一年前",
+        "onboard_time": 1702715254,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374757,
+        "num": 250118,
+        "word": "主播天权希望网友别攻击孩子",
+        "onboard_time": 1702718261,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 247744,
+        "num": 247744,
+        "word": "陈雨菲止步四强",
+        "onboard_time": 1702725457,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228951,
+        "num": 228951,
+        "word": "孙颖莎3比0韩莹",
+        "onboard_time": 1702724430,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227921,
+        "num": 227921,
+        "word": "六级一考一个不吱声",
+        "onboard_time": 1702720240,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265765,
+        "num": 227215,
+        "word": "孙东旭入职16年从教师干到CEO",
+        "onboard_time": 1702713873,
+        "rank": 38,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 223249,
+        "num": 223249,
+        "word": "听力你就听吧",
+        "onboard_time": 1702722162,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202922,
+        "num": 202922,
+        "word": "王一珩 白日做梦",
+        "onboard_time": 1702722876,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263174,
+        "num": 202550,
+        "word": "董宇辉多次被孙东旭内涵仍称他恩人",
+        "onboard_time": 1702715796,
+        "rank": 41,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 191912,
+        "num": 191912,
+        "word": "六级作文",
+        "onboard_time": 1702721318,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215908,
+        "num": 190833,
+        "word": "央视网选策划接董宇辉入职流程",
+        "onboard_time": 1702702479,
+        "rank": 43,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 189229,
+        "num": 189229,
+        "word": "知情人称霍尊已在逐渐开展演出",
+        "onboard_time": 1702714777,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182333,
+        "num": 182333,
+        "word": "鸣龙少年 双面的人生",
+        "onboard_time": 1702724915,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211613,
+        "num": 180744,
+        "word": "东方甄选任免通知没盖章",
+        "onboard_time": 1702702299,
+        "rank": 46,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 173664,
+        "num": 173664,
+        "word": "很想很想你",
+        "onboard_time": 1702723359,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167446,
+        "num": 167446,
+        "word": "王心凌被宋亚轩年纪暴击",
+        "onboard_time": 1702712135,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209959,
+        "num": 167347,
+        "word": "俞敏洪兼任东方甄选CEO",
+        "onboard_time": 1702698767,
+        "rank": 49,
+        "category": "互联网,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#解放思想创新求变向海图强开放发展#"
+    }
+  }
+}

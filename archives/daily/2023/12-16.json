@@ -1,12 +1,20 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702725254498,
+  "endTime": 1702726431924,
   "band_list": [
     {
       "raw_hot": 14014570,
       "num": 14014570,
       "word": "东方甄选孙东旭被免职",
       "onboard_time": 1702698283,
+      "rank": 0,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 9649911,
+      "num": 9649911,
+      "word": "俞敏洪董宇辉合体直播",
+      "onboard_time": 1702725341,
       "rank": 0,
       "category": "互联网,社会新闻"
     },
@@ -507,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 611302,
+      "num": 611302,
+      "word": "海底捞回应自助餐将开业",
+      "onboard_time": 1702724795,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 606205,
       "num": 358627,
       "word": "东方甄选回应主播称网友买不起蛋黄酥",
@@ -585,6 +601,14 @@
       "onboard_time": 1702650159,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 565971,
+      "num": 314102,
+      "word": "首席淘汰制",
+      "onboard_time": 1702724674,
+      "rank": 31,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 559359,
@@ -691,6 +715,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 473611,
+      "num": 473611,
+      "word": "刘宇宁回应一念关山争议",
+      "onboard_time": 1702724795,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459353,
       "num": 459353,
       "word": "陈梦7战伊藤美诚全胜",
@@ -769,14 +801,6 @@
       "onboard_time": 1702703202,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 418192,
-      "num": 263763,
-      "word": "首席淘汰制",
-      "onboard_time": 1702724674,
-      "rank": 31,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 418184,
@@ -1099,6 +1123,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 315285,
+      "num": 315285,
+      "word": "魏大勋撕名牌撕出表情包",
+      "onboard_time": 1702722705,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308776,
       "num": 308776,
       "word": "东方甄选抖音发公告罢免CEO合规吗",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1702634132,
       "rank": 9,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 297669,
-      "num": 297669,
-      "word": "魏大勋撕名牌撕出表情包",
-      "onboard_time": 1702722705,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 297408,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1702705718,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284149,
+      "num": 284149,
+      "word": "东方甄选一天出三招",
+      "onboard_time": 1702725034,
+      "rank": 49,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 282693,
@@ -1257,14 +1289,6 @@
       "onboard_time": 1702716761,
       "rank": 28,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 265272,
-      "num": 265272,
-      "word": "海底捞回应自助餐将开业",
-      "onboard_time": 1702724795,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 264989,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1702713452,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247744,
+      "num": 247744,
+      "word": "陈雨菲止步四强",
+      "onboard_time": 1702725457,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 247380,
@@ -1531,14 +1563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 221473,
-      "num": 221473,
-      "word": "刘宇宁回应一念关山争议",
-      "onboard_time": 1702724795,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217381,
       "num": 217381,
       "word": "电视剧脱轨",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1702684407,
       "rank": 28,
       "category": "国外时政,军事"
-    },
-    {
-      "raw_hot": 207284,
-      "num": 188410,
-      "word": "东方甄选一天出三招",
-      "onboard_time": 1702725034,
-      "rank": 49,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 206704,
@@ -2203,6 +2219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86295,
+      "num": 3227901,
+      "word": "2023那些戳人的话",
+      "onboard_time": 1702723958,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86004,
       "num": 3235816,
       "word": "一到冬天便感受到祖国的辽阔",
@@ -2259,6 +2283,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 55571,
+      "num": 271944,
+      "word": "蛋仔派对百款免费皮肤",
+      "onboard_time": 1702724854,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54855,
       "num": 776120,
       "word": "文咏珊把中国红穿在身上",
@@ -2291,14 +2323,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 44203,
-      "num": 3227901,
-      "word": "2023那些戳人的话",
-      "onboard_time": 1702723958,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43620,
       "num": 43620,
       "word": "鸣龙少年 龙樱",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1702673834,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 37629,
-      "num": 221488,
-      "word": "蛋仔派对百款免费皮肤",
-      "onboard_time": 1702724854,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 35263,
