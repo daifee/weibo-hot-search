@@ -1,7 +1,23 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702697663357,
+  "endTime": 1702700448902,
   "band_list": [
+    {
+      "raw_hot": 13760725,
+      "num": 13760725,
+      "word": "东方甄选孙东旭被免职",
+      "onboard_time": 1702698283,
+      "rank": 0,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 7405674,
+      "num": 7405674,
+      "word": "四级答案",
+      "onboard_time": 1702697616,
+      "rank": 9,
+      "category": "教育"
+    },
     {
       "raw_hot": 3209547,
       "num": 3209547,
@@ -17,6 +33,30 @@
       "onboard_time": 1702692271,
       "rank": 13,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 3182431,
+      "num": 3182431,
+      "word": "四级作文submission",
+      "onboard_time": 1702699126,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 3176587,
+      "num": 3176587,
+      "word": "俞敏洪兼任东方甄选CEO",
+      "onboard_time": 1702698767,
+      "rank": 4,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 2878995,
+      "num": 2878995,
+      "word": "四级作文",
+      "onboard_time": 1702697134,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2330149,
@@ -59,6 +99,22 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1555395,
+      "num": 634230,
+      "word": "东方甄选 蛋黄酥",
+      "onboard_time": 1702697921,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1470070,
+      "num": 1470070,
+      "word": "四级翻译 看不懂",
+      "onboard_time": 1702697921,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1315025,
       "num": 915346,
       "word": "东方甄选停播一天闭门思过",
@@ -83,14 +139,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 1046271,
-      "num": 441296,
-      "word": "四级作文",
-      "onboard_time": 1702697134,
-      "rank": 20,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1037624,
       "num": 1037624,
       "word": "生产商称从未生产过小杨哥带货牛肉卷",
@@ -107,12 +155,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986018,
+      "num": 494488,
+      "word": "东方甄选",
+      "onboard_time": 1702691073,
+      "rank": 19,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 974906,
       "num": 294745,
       "word": "孟羽童回应被董明珠怒斥",
       "onboard_time": 1702622252,
       "rank": 20,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 950889,
+      "num": 950889,
+      "word": "科目三 晚会",
+      "onboard_time": 1702694611,
+      "rank": 8,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 906006,
@@ -195,14 +259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 634828,
-      "num": 634828,
-      "word": "四级答案",
-      "onboard_time": 1702697616,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 622619,
       "num": 622619,
       "word": "工作是为了早点赎身 不是干成头牌",
@@ -220,7 +276,7 @@
     },
     {
       "raw_hot": 591921,
-      "num": 385374,
+      "num": 424116,
       "word": "胡锡进称董宇辉东方甄选决裂可能双输",
       "onboard_time": 1702690954,
       "rank": 20,
@@ -273,6 +329,14 @@
       "onboard_time": 1702655014,
       "rank": 4,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 493346,
+      "num": 293820,
+      "word": "小杨哥再回应签约董宇辉",
+      "onboard_time": 1702699724,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 483220,
@@ -427,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327164,
+      "num": 327164,
+      "word": "蒋介石扮演者董永胜申请器官捐献",
+      "onboard_time": 1702698522,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320189,
       "num": 310782,
       "word": "叶舒华确诊A型流感",
@@ -451,6 +523,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 306787,
+      "num": 306787,
+      "word": "奔跑吧今晚上演消失的TA",
+      "onboard_time": 1702698704,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297756,
       "num": 491777,
       "word": "爷爷删空短信独留孙女发的我爱你",
@@ -464,6 +544,14 @@
       "word": "董明珠的格局为何不管用了",
       "onboard_time": 1702684707,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293234,
+      "num": 293234,
+      "word": "5元的小乌龟生病住院花费4000多元",
+      "onboard_time": 1702696952,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -481,6 +569,22 @@
       "onboard_time": 1702679956,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287716,
+      "num": 287716,
+      "word": "四级翻译 改革开放",
+      "onboard_time": 1702699843,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 287696,
+      "num": 287696,
+      "word": "被我弄丢的你定档",
+      "onboard_time": 1702697317,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 276560,
@@ -569,14 +673,6 @@
       "onboard_time": 1702688732,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248431,
-      "num": 248431,
-      "word": "东方甄选",
-      "onboard_time": 1702691073,
-      "rank": 19,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 247380,
@@ -707,12 +803,12 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 207721,
-      "num": 207721,
-      "word": "被我弄丢的你定档",
-      "onboard_time": 1702697317,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 207588,
+      "num": 207588,
+      "word": "四级听力 听不懂",
+      "onboard_time": 1702700204,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 203167,
@@ -721,14 +817,6 @@
       "onboard_time": 1702656751,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197328,
-      "num": 197328,
-      "word": "5元的小乌龟生病住院花费4000多元",
-      "onboard_time": 1702696952,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196827,
@@ -825,6 +913,14 @@
       "onboard_time": 1702647516,
       "rank": 39,
       "category": "音乐,美妆"
+    },
+    {
+      "raw_hot": 168730,
+      "num": 168730,
+      "word": "男子在直播间侮辱烈士被拘",
+      "onboard_time": 1702699606,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166565,
@@ -971,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127088,
+      "num": 127088,
+      "word": "比尔又伤了",
+      "onboard_time": 1702700383,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126223,
       "num": 126223,
       "word": "汾酒集团原董事长李秋喜去世",
@@ -1067,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64618,
+      "num": 518013,
+      "word": "二次元也会发腮吗",
+      "onboard_time": 1702699243,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63683,
       "num": 63683,
       "word": "罗永浩称嫉妒下属比自己强是没出息",
@@ -1123,8 +1235,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 28967,
-      "num": 2135805,
+      "raw_hot": 33575,
+      "num": 4279047,
       "word": "我国成功发射遥感四十一号卫星",
       "onboard_time": 1702651834,
       "rank": 2,

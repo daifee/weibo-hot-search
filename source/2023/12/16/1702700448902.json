@@ -1,0 +1,410 @@
+{
+  "runTime": 1702700448902,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13760725,
+        "num": 13760725,
+        "word": "东方甄选孙东旭被免职",
+        "onboard_time": 1702698283,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 7405674,
+        "num": 7405674,
+        "word": "四级答案",
+        "onboard_time": 1702697616,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 33575,
+        "num": 4279047,
+        "word": "我国成功发射遥感四十一号卫星",
+        "onboard_time": 1702651834,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3182431,
+        "num": 3182431,
+        "word": "四级作文submission",
+        "onboard_time": 1702699126,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3176587,
+        "num": 3176587,
+        "word": "俞敏洪兼任东方甄选CEO",
+        "onboard_time": 1702698767,
+        "rank": 4,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 2878995,
+        "num": 2878995,
+        "word": "四级作文",
+        "onboard_time": 1702697134,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1621883,
+        "num": 1621883,
+        "word": "四级",
+        "onboard_time": 1702682722,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1470070,
+        "num": 1470070,
+        "word": "四级翻译 看不懂",
+        "onboard_time": 1702697921,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 950889,
+        "num": 950889,
+        "word": "科目三 晚会",
+        "onboard_time": 1702694611,
+        "rank": 8,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 687953,
+        "num": 687953,
+        "word": "怎么一天过四六级",
+        "onboard_time": 1702647576,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2502747,
+        "num": 654205,
+        "word": "主播失言致东方甄选停播",
+        "onboard_time": 1702692271,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1555395,
+        "num": 634230,
+        "word": "东方甄选 蛋黄酥",
+        "onboard_time": 1702697921,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1426768,
+        "num": 610836,
+        "word": "东方甄选主播天权摔手机",
+        "onboard_time": 1702682600,
+        "rank": 12,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 1128293,
+        "num": 560090,
+        "word": "东方甄选停播一天闭门思过",
+        "onboard_time": 1702682120,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 64618,
+        "num": 518013,
+        "word": "二次元也会发腮吗",
+        "onboard_time": 1702699243,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 986018,
+        "num": 494488,
+        "word": "东方甄选",
+        "onboard_time": 1702691073,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 846085,
+        "num": 451335,
+        "word": "董宇辉涨粉",
+        "onboard_time": 1702692873,
+        "rank": 16,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 432551,
+        "num": 432551,
+        "word": "罗永浩爆料有人出5亿违约金挖董宇辉",
+        "onboard_time": 1702687231,
+        "rank": 17,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 427175,
+        "num": 427175,
+        "word": "草莓 车厘子",
+        "onboard_time": 1702689872,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 424685,
+        "num": 424685,
+        "word": "婴儿 中药",
+        "onboard_time": 1702694611,
+        "rank": 19,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 591482,
+        "num": 424116,
+        "word": "胡锡进称董宇辉东方甄选决裂可能双输",
+        "onboard_time": 1702690954,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 400710,
+        "num": 400710,
+        "word": "新东方前员工谈小作文风波",
+        "onboard_time": 1702695033,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 363094,
+        "num": 363094,
+        "word": "清华教授认为鸡兔同笼数学题与现实脱节",
+        "onboard_time": 1702693292,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349494,
+        "num": 349494,
+        "word": "咖啡店店员竟然是以前追的爱豆",
+        "onboard_time": 1702692873,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 348673,
+        "num": 348673,
+        "word": "钱德勒扮演者死因公布",
+        "onboard_time": 1702695753,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335522,
+        "num": 335522,
+        "word": "学而思总裁回应挖董宇辉",
+        "onboard_time": 1702690771,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 327164,
+        "num": 327164,
+        "word": "蒋介石扮演者董永胜申请器官捐献",
+        "onboard_time": 1702698522,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306787,
+        "num": 306787,
+        "word": "奔跑吧今晚上演消失的TA",
+        "onboard_time": 1702698704,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295397,
+        "num": 295397,
+        "word": "俞敏洪带队检讨",
+        "onboard_time": 1702692452,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 267555,
+        "num": 293857,
+        "word": "网传女子裸体冻亡系不实信息",
+        "onboard_time": 1702693110,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493346,
+        "num": 293820,
+        "word": "小杨哥再回应签约董宇辉",
+        "onboard_time": 1702699724,
+        "rank": 30,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 293234,
+        "num": 293234,
+        "word": "5元的小乌龟生病住院花费4000多元",
+        "onboard_time": 1702696952,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287716,
+        "num": 287716,
+        "word": "四级翻译 改革开放",
+        "onboard_time": 1702699843,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287696,
+        "num": 287696,
+        "word": "被我弄丢的你定档",
+        "onboard_time": 1702697317,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274083,
+        "num": 274083,
+        "word": "黄子弘凡 四级",
+        "onboard_time": 1702685066,
+        "rank": 34,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 261995,
+        "num": 261995,
+        "word": "俄罗斯皇家芭蕾舞团跳科目三",
+        "onboard_time": 1702694252,
+        "rank": 35,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 207588,
+        "num": 207588,
+        "word": "四级听力 听不懂",
+        "onboard_time": 1702700204,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202590,
+        "num": 202590,
+        "word": "董宇辉账号粉丝数接近东方甄选一半",
+        "onboard_time": 1702635876,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 190672,
+        "num": 190672,
+        "word": "给住院婆婆吃泡面博主发声",
+        "onboard_time": 1702685368,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183024,
+        "num": 183024,
+        "word": "高中和女友说的话七年后击中了我",
+        "onboard_time": 1702692932,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168730,
+        "num": 168730,
+        "word": "男子在直播间侮辱烈士被拘",
+        "onboard_time": 1702699606,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167268,
+        "num": 167268,
+        "word": "刘诗诗手腕戴风扇",
+        "onboard_time": 1702696652,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165604,
+        "num": 165604,
+        "word": "专家称养娃难可暂时求助亲戚",
+        "onboard_time": 1702693172,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143874,
+        "num": 143874,
+        "word": "东方甄选市值蒸发22%",
+        "onboard_time": 1702693770,
+        "rank": 43,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 140288,
+        "num": 140288,
+        "word": "董宇辉事件",
+        "onboard_time": 1702634195,
+        "rank": 44,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "罗永浩称董宇辉的价值被严重低估",
+        "onboard_time": 1702686210,
+        "rank": 45,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 135445,
+        "num": 135445,
+        "word": "吃辣火锅为啥容易拉肚子",
+        "onboard_time": 1702693710,
+        "rank": 46,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 133731,
+        "num": 133731,
+        "word": "一个人 一双鞋 一条命",
+        "onboard_time": 1702650159,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133076,
+        "num": 133076,
+        "word": "Meiko入党宣誓仪式",
+        "onboard_time": 1702683202,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127088,
+        "num": 127088,
+        "word": "比尔又伤了",
+        "onboard_time": 1702700383,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#广西要走活发展这盘棋开放是关键#"
+    }
+  }
+}

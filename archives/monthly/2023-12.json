@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702697663357,
+  "endTime": 1702700448902,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -17,6 +17,14 @@
       "onboard_time": 1702389397,
       "rank": 1,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 13760725,
+      "num": 13760725,
+      "word": "东方甄选孙东旭被免职",
+      "onboard_time": 1702698283,
+      "rank": 0,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 12484422,
@@ -129,6 +137,14 @@
       "onboard_time": 1701872745,
       "rank": 0,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 7405674,
+      "num": 7405674,
+      "word": "四级答案",
+      "onboard_time": 1702697616,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 6546722,
@@ -475,6 +491,22 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 3182431,
+      "num": 3182431,
+      "word": "四级作文submission",
+      "onboard_time": 1702699126,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 3176587,
+      "num": 3176587,
+      "word": "俞敏洪兼任东方甄选CEO",
+      "onboard_time": 1702698767,
+      "rank": 4,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 3159556,
       "num": 2295870,
       "word": "难听",
@@ -585,6 +617,14 @@
       "onboard_time": 1701669933,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2878995,
+      "num": 2878995,
+      "word": "四级作文",
+      "onboard_time": 1702697134,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2863634,
@@ -2211,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1555395,
+      "num": 634230,
+      "word": "东方甄选 蛋黄酥",
+      "onboard_time": 1702697921,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1553284,
       "num": 1553284,
       "word": "第一学历歧视就像是留了案底",
@@ -2473,6 +2521,14 @@
       "onboard_time": 1701416075,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1470070,
+      "num": 1470070,
+      "word": "四级翻译 看不懂",
+      "onboard_time": 1702697921,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 1469746,
@@ -3675,14 +3731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1046271,
-      "num": 441296,
-      "word": "四级作文",
-      "onboard_time": 1702697134,
-      "rank": 20,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 1045770,
       "num": 796717,
       "word": "五月天",
@@ -3955,6 +4003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 986018,
+      "num": 494488,
+      "word": "东方甄选",
+      "onboard_time": 1702554997,
+      "rank": 47,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 978656,
       "num": 978656,
       "word": "孟美岐 年度最具突破女歌手",
@@ -4153,6 +4209,14 @@
       "onboard_time": 1702556559,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 950889,
+      "num": 950889,
+      "word": "科目三 晚会",
+      "onboard_time": 1702694611,
+      "rank": 8,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 950290,
@@ -7219,14 +7283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 634828,
-      "num": 634828,
-      "word": "四级答案",
-      "onboard_time": 1702697616,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 634608,
       "num": 329008,
       "word": "娜扎这几步好像芭蕾公主",
@@ -7836,7 +7892,7 @@
     },
     {
       "raw_hot": 591921,
-      "num": 385374,
+      "num": 424116,
       "word": "胡锡进称董宇辉东方甄选决裂可能双输",
       "onboard_time": 1702690954,
       "rank": 20,
@@ -9937,6 +9993,14 @@
       "onboard_time": 1702211433,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 493346,
+      "num": 293820,
+      "word": "小杨哥再回应签约董宇辉",
+      "onboard_time": 1702699724,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 493252,
@@ -16179,6 +16243,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 327164,
+      "num": 327164,
+      "word": "蒋介石扮演者董永胜申请器官捐献",
+      "onboard_time": 1702698522,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326557,
       "num": 320508,
       "word": "礼仪小姐回应被成毅请下班",
@@ -17363,6 +17435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306787,
+      "num": 306787,
+      "word": "奔跑吧今晚上演消失的TA",
+      "onboard_time": 1702698704,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306592,
       "num": 275829,
       "word": "水牛客串神隐",
@@ -18371,6 +18451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293234,
+      "num": 293234,
+      "word": "5元的小乌龟生病住院花费4000多元",
+      "onboard_time": 1702696952,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293144,
       "num": 293144,
       "word": "决赛前一天谷爱凌写了12小时论文",
@@ -18793,6 +18881,22 @@
       "onboard_time": 1701335796,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287716,
+      "num": 287716,
+      "word": "四级翻译 改革开放",
+      "onboard_time": 1702699843,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 287696,
+      "num": 287696,
+      "word": "被我弄丢的你定档",
+      "onboard_time": 1702697317,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 287074,
@@ -21889,14 +21993,6 @@
       "onboard_time": 1702444598,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248431,
-      "num": 248431,
-      "word": "东方甄选",
-      "onboard_time": 1702554997,
-      "rank": 47,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 248407,
@@ -26491,14 +26587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207721,
-      "num": 207721,
-      "word": "被我弄丢的你定档",
-      "onboard_time": 1702697317,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 207682,
       "num": 207682,
       "word": "钎城五杀",
@@ -26513,6 +26601,14 @@
       "onboard_time": 1702106190,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207588,
+      "num": 207588,
+      "word": "四级听力 听不懂",
+      "onboard_time": 1702700204,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 207405,
@@ -28241,14 +28337,6 @@
       "onboard_time": 1702536873,
       "rank": 40,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 197328,
-      "num": 197328,
-      "word": "5元的小乌龟生病住院花费4000多元",
-      "onboard_time": 1702696952,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197322,
@@ -30884,7 +30972,7 @@
     },
     {
       "raw_hot": 182966,
-      "num": 2135805,
+      "num": 4279047,
       "word": "我国成功发射遥感四十一号卫星",
       "onboard_time": 1702651834,
       "rank": 29,
@@ -32657,6 +32745,14 @@
       "onboard_time": 1702627412,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168730,
+      "num": 168730,
+      "word": "男子在直播间侮辱烈士被拘",
+      "onboard_time": 1702699606,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168698,
@@ -38035,6 +38131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127088,
+      "num": 127088,
+      "word": "比尔又伤了",
+      "onboard_time": 1702700383,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127063,
       "num": 127063,
       "word": "高级伪体香",
@@ -40689,6 +40793,14 @@
       "onboard_time": 1701457814,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 64618,
+      "num": 518013,
+      "word": "二次元也会发腮吗",
+      "onboard_time": 1702699243,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 64203,

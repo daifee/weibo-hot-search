@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702697663357,
+  "endTime": 1702700448902,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -409,6 +409,14 @@
       "onboard_time": 1691329401,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13760725,
+      "num": 13760725,
+      "word": "东方甄选孙东旭被免职",
+      "onboard_time": 1702698283,
+      "rank": 0,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 13632162,
@@ -2291,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 7405674,
+      "num": 7405674,
+      "word": "四级答案",
+      "onboard_time": 1678592067,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 7398770,
       "num": 8648770,
       "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1679310572,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7251779,
-      "num": 7251779,
-      "word": "吴亦凡不服一审提起上诉",
-      "onboard_time": 1690262142,
-      "rank": 1,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 7244618,
-      "num": 7244618,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1688270731,
-      "rank": 22,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
