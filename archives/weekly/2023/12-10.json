@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702733656026,
+  "endTime": 1702736147120,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -312,6 +312,14 @@
       "word": "俞敏洪兼任东方甄选CEO",
       "onboard_time": 1702698767,
       "rank": 4,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 3167591,
+      "num": 1107882,
+      "word": "罗永浩炮轰东方甄选",
+      "onboard_time": 1702733436,
+      "rank": 14,
       "category": "互联网,社会新闻"
     },
     {
@@ -4459,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535280,
+      "num": 535280,
+      "word": "你们俩这么亲我就不困了",
+      "onboard_time": 1702734460,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 534396,
       "num": 534396,
       "word": "kpop还在闯美 科目三已经舞统",
@@ -4673,6 +4689,14 @@
       "onboard_time": 1702596686,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 508792,
+      "num": 508792,
+      "word": "中国合伙人2",
+      "onboard_time": 1702734100,
+      "rank": 10,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 508304,
@@ -4905,14 +4929,6 @@
       "onboard_time": 1702545093,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 488644,
-      "num": 488644,
-      "word": "罗永浩炮轰东方甄选",
-      "onboard_time": 1702733436,
-      "rank": 14,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 488438,
@@ -7275,6 +7291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 341524,
+      "num": 341524,
+      "word": "俞敏洪称孙东旭还在现在的团队",
+      "onboard_time": 1702735543,
+      "rank": 14,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 341144,
       "num": 341144,
       "word": "懂车帝",
@@ -8371,6 +8395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 297159,
+      "num": 297159,
+      "word": "柯南口碑",
+      "onboard_time": 1702735178,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 297106,
       "num": 218357,
       "word": "张本美和凑近跟张本智和说话",
@@ -8569,6 +8601,14 @@
       "onboard_time": 1702367913,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289248,
+      "num": 289248,
+      "word": "时代少年团全员摇滚风",
+      "onboard_time": 1702734578,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 289164,
@@ -8883,6 +8923,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 278560,
+      "num": 278560,
+      "word": "东方甄选 管理模式",
+      "onboard_time": 1702735419,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 278492,
       "num": 278492,
       "word": "董思成 小辫子",
@@ -9033,6 +9081,14 @@
       "onboard_time": 1702624295,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274458,
+      "num": 274458,
+      "word": "田曦薇黑色大衣",
+      "onboard_time": 1702733559,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274300,
@@ -9355,6 +9411,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 266609,
+      "num": 266609,
+      "word": "刘诗诗又公主抱了",
+      "onboard_time": 1702734518,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266480,
       "num": 266480,
       "word": "许昕几乎全身打过封闭",
@@ -9547,6 +9611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261074,
+      "num": 261074,
+      "word": "献鱼 路透",
+      "onboard_time": 1702735720,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260702,
       "num": 260702,
       "word": "业内认为东方甄选淡化董宇辉个人IP",
@@ -9569,6 +9641,14 @@
       "onboard_time": 1702257572,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 260118,
+      "num": 260118,
+      "word": "朴灿烈跳咆哮",
+      "onboard_time": 1702735236,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 259900,
@@ -11049,6 +11129,14 @@
       "onboard_time": 1702374935,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229559,
+      "num": 229559,
+      "word": "罗永浩说董宇辉拿走一半收益才公平",
+      "onboard_time": 1702735359,
+      "rank": 40,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 229389,
@@ -12907,6 +12995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202617,
+      "num": 202617,
+      "word": "文俊辉直播",
+      "onboard_time": 1702735178,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202532,
       "num": 202532,
       "word": "鸣龙少年让我的泪腺通了",
@@ -13337,6 +13433,14 @@
       "onboard_time": 1702641034,
       "rank": 35,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 197709,
+      "num": 197709,
+      "word": "三大队评分上涨至7.9",
+      "onboard_time": 1702733858,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 197600,
@@ -14329,14 +14433,6 @@
       "onboard_time": 1702370793,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187110,
-      "num": 187110,
-      "word": "田曦薇黑色大衣",
-      "onboard_time": 1702733559,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186889,
