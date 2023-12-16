@@ -1,10 +1,26 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702694299081,
+  "endTime": 1702696703225,
   "band_list": [
     {
+      "raw_hot": 2826403,
+      "num": 2826403,
+      "word": "科目三 春晚",
+      "onboard_time": 1702694611,
+      "rank": 0,
+      "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 2570918,
+      "num": 409399,
+      "word": "主播失言致东方甄选停播",
+      "onboard_time": 1702692271,
+      "rank": 13,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 2330149,
-      "num": 354493,
+      "num": 408334,
       "word": "东方甄选主播天权摔手机",
       "onboard_time": 1702682600,
       "rank": 11,
@@ -28,18 +44,10 @@
     },
     {
       "raw_hot": 1557580,
-      "num": 353960,
+      "num": 407271,
       "word": "罗永浩爆料有人出5亿违约金挖董宇辉",
       "onboard_time": 1702687231,
       "rank": 11,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1395512,
-      "num": 315398,
-      "word": "主播失言致东方甄选停播",
-      "onboard_time": 1702692271,
-      "rank": 13,
       "category": "互联网,社会新闻"
     },
     {
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1105455,
-      "num": 302141,
+      "num": 404867,
       "word": "学而思总裁回应挖董宇辉",
       "onboard_time": 1702690771,
       "rank": 12,
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 880576,
-      "num": 284523,
+      "num": 402788,
       "word": "董宇辉涨粉",
       "onboard_time": 1702692873,
       "rank": 14,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 868548,
+      "num": 868548,
+      "word": "网传女子裸体冻亡系不实信息",
+      "onboard_time": 1702693110,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 804418,
@@ -113,6 +129,14 @@
       "onboard_time": 1702685066,
       "rank": 4,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 768485,
+      "num": 768485,
+      "word": "清华教授认为鸡兔同笼数学题与现实脱节",
+      "onboard_time": 1702693292,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 728656,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 591921,
-      "num": 247883,
+      "num": 385374,
       "word": "胡锡进称董宇辉东方甄选决裂可能双输",
       "onboard_time": 1702690954,
       "rank": 20,
@@ -172,19 +196,27 @@
     },
     {
       "raw_hot": 585018,
-      "num": 280274,
+      "num": 398121,
       "word": "俞敏洪带队检讨",
       "onboard_time": 1702692452,
       "rank": 15,
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 575751,
-      "num": 575751,
-      "word": "网传女子裸体冻亡系不实信息",
-      "onboard_time": 1702693110,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 580738,
+      "num": 402199,
+      "word": "婴儿 中药",
+      "onboard_time": 1702694611,
+      "rank": 15,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 577150,
+      "num": 577150,
+      "word": "咖啡店店员竟然是以前追的爱豆",
+      "onboard_time": 1702692873,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 573398,
@@ -195,12 +227,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 547689,
-      "num": 210804,
-      "word": "咖啡店店员竟然是以前追的爱豆",
-      "onboard_time": 1702692873,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 548783,
+      "num": 401016,
+      "word": "新东方前员工谈小作文风波",
+      "onboard_time": 1702695033,
+      "rank": 16,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 531390,
@@ -259,20 +291,20 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 432865,
+      "num": 399120,
+      "word": "俄罗斯皇家芭蕾舞团跳科目三",
+      "onboard_time": 1702694252,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418184,
       "num": 365348,
       "word": "董宇辉孟羽童 打工人困境",
       "onboard_time": 1702642356,
       "rank": 17,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 408918,
-      "num": 256369,
-      "word": "清华教授认为鸡兔同笼数学题与现实脱节",
-      "onboard_time": 1702693292,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408821,
@@ -291,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391370,
+      "num": 391370,
+      "word": "钱德勒扮演者死因公布",
+      "onboard_time": 1702695753,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373217,
       "num": 319576,
       "word": "余秀华建议俞敏洪给董宇辉单独搞团队",
@@ -299,12 +339,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 365387,
+      "num": 365387,
+      "word": "四级",
+      "onboard_time": 1702682722,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 357206,
       "num": 357206,
       "word": "37岁员工血液病离世曾控诉工作环境",
       "onboard_time": 1702678096,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353799,
+      "num": 353799,
+      "word": "高中和女友说的话七年后击中了我",
+      "onboard_time": 1702692932,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 351419,
@@ -345,14 +401,6 @@
       "onboard_time": 1702689573,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329755,
-      "num": 210743,
-      "word": "高中和女友说的话七年后击中了我",
-      "onboard_time": 1702692932,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 320189,
@@ -409,6 +457,14 @@
       "onboard_time": 1702679956,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284633,
+      "num": 284633,
+      "word": "怎么一天过四六级",
+      "onboard_time": 1702647576,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 276560,
@@ -483,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250546,
+      "num": 250546,
+      "word": "专家称养娃难可暂时求助亲戚",
+      "onboard_time": 1702693172,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248431,
       "num": 248431,
       "word": "东方甄选",
@@ -507,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234271,
-      "num": 234271,
-      "word": "怎么一天过四六级",
-      "onboard_time": 1702647576,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 234188,
       "num": 227838,
       "word": "罗永浩否认会和董宇辉合作",
@@ -529,6 +585,14 @@
       "onboard_time": 1702653214,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231521,
+      "num": 231521,
+      "word": "吃辣火锅为啥容易拉肚子",
+      "onboard_time": 1702693710,
+      "rank": 41,
+      "category": "科学科普,社会新闻"
     },
     {
       "raw_hot": 229389,
@@ -571,12 +635,12 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 225239,
-      "num": 225239,
-      "word": "专家称养娃难可暂时求助亲戚",
-      "onboard_time": 1702693172,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 218000,
+      "num": 218000,
+      "word": "刘诗诗手腕戴风扇",
+      "onboard_time": 1702696652,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 215120,
@@ -633,14 +697,6 @@
       "onboard_time": 1702656751,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199394,
-      "num": 174269,
-      "word": "四级",
-      "onboard_time": 1702682722,
-      "rank": 21,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 196827,
@@ -739,14 +795,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 166082,
-      "num": 166082,
-      "word": "吃辣火锅为啥容易拉肚子",
-      "onboard_time": 1702693710,
-      "rank": 41,
-      "category": "科学科普,社会新闻"
-    },
-    {
       "raw_hot": 161404,
       "num": 161404,
       "word": "电视剧脱轨",
@@ -803,20 +851,28 @@
       "category": "互联网,社会议题"
     },
     {
-      "raw_hot": 150007,
-      "num": 150007,
-      "word": "俄罗斯皇家芭蕾舞团跳科目三",
-      "onboard_time": 1702694252,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 145464,
       "num": 145464,
       "word": "人体约70%免疫力来自肠道",
       "onboard_time": 1702668795,
       "rank": 48,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 145097,
+      "num": 145097,
+      "word": "刘诗诗刘宇宁60帧下的打戏",
+      "onboard_time": 1702696356,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140497,
+      "num": 140497,
+      "word": "Ailee韩国大学操场演唱给你看",
+      "onboard_time": 1702695452,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 138531,
@@ -905,6 +961,14 @@
       "onboard_time": 1702653876,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114992,
+      "num": 114992,
+      "word": "当南方猫咪遇上北方地暖",
+      "onboard_time": 1702694912,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97004,
@@ -1015,6 +1079,14 @@
       "num": 587282,
       "word": "上天入海见证中国力量",
       "onboard_time": 1702646737,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25258,
+      "num": 1068163,
+      "word": "我国成功发射遥感四十一号卫星",
+      "onboard_time": 1702651834,
       "rank": 2,
       "category": "社会新闻"
     },
