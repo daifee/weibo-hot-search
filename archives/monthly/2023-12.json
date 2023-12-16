@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702755248112,
+  "endTime": 1702757875034,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -44153,6 +44153,14 @@
       "onboard_time": 1702062736,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23317,
+      "num": 23317,
+      "word": "杜海涛主持星光大赏",
+      "onboard_time": 1702756274,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 23281,

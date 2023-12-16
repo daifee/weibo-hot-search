@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702755248112,
+  "endTime": 1702757875034,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -496,6 +496,22 @@
       "word": "小精灵 给父母来点妆发震撼",
       "onboard_time": 1702754896,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27587,
+      "num": 27587,
+      "word": "奔跑吧",
+      "onboard_time": 1702757475,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23317,
+      "num": 23317,
+      "word": "杜海涛主持星光大赏",
+      "onboard_time": 1702756274,
+      "rank": 44,
       "category": "综艺"
     }
   ],
