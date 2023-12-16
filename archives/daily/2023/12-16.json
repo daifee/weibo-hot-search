@@ -1,10 +1,26 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702683257301,
+  "endTime": 1702689325452,
   "band_list": [
     {
+      "raw_hot": 2330149,
+      "num": 353540,
+      "word": "东方甄选主播天权摔手机",
+      "onboard_time": 1702682600,
+      "rank": 11,
+      "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1833204,
+      "num": 1833204,
+      "word": "给住院婆婆吃泡面博主发声",
+      "onboard_time": 1702685368,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1315025,
-      "num": 144606,
+      "num": 915346,
       "word": "东方甄选停播一天闭门思过",
       "onboard_time": 1702682120,
       "rank": 15,
@@ -16,6 +32,22 @@
       "word": "董宇辉账号粉丝数接近东方甄选一半",
       "onboard_time": 1702635876,
       "rank": 10,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1233738,
+      "num": 334245,
+      "word": "罗永浩爆料有人出5亿违约金挖董宇辉",
+      "onboard_time": 1702687231,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1037624,
+      "num": 1037624,
+      "word": "生产商称从未生产过小杨哥带货牛肉卷",
+      "onboard_time": 1702686328,
+      "rank": 1,
       "category": "互联网,社会新闻"
     },
     {
@@ -33,6 +65,14 @@
       "onboard_time": 1702643737,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 804418,
+      "num": 804418,
+      "word": "黄子弘凡 四级",
+      "onboard_time": 1702685066,
+      "rank": 4,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 728656,
@@ -57,14 +97,6 @@
       "onboard_time": 1702654535,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 615356,
-      "num": 143711,
-      "word": "东方甄选主播天权摔手机",
-      "onboard_time": 1702682600,
-      "rank": 11,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 603336,
@@ -131,11 +163,27 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 458918,
+      "num": 458918,
+      "word": "赵文卓 演员迟到成常规了",
+      "onboard_time": 1702648656,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440152,
       "num": 361791,
       "word": "董宇辉事件",
       "onboard_time": 1702634195,
       "rank": 16,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 432976,
+      "num": 325511,
+      "word": "东方甄选25分钟掉粉10万",
+      "onboard_time": 1702685968,
+      "rank": 12,
       "category": "互联网,社会新闻"
     },
     {
@@ -147,12 +195,36 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 400045,
+      "num": 400045,
+      "word": "上海下雪",
+      "onboard_time": 1702681518,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373217,
+      "num": 319576,
+      "word": "余秀华建议俞敏洪给董宇辉单独搞团队",
+      "onboard_time": 1702681759,
+      "rank": 34,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 357206,
       "num": 357206,
       "word": "37岁员工血液病离世曾控诉工作环境",
       "onboard_time": 1702678096,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353963,
+      "num": 353963,
+      "word": "沙溢有沙溢但沙溢忍了",
+      "onboard_time": 1702687051,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 351419,
@@ -211,6 +283,30 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 296369,
+      "num": 242931,
+      "word": "董明珠的格局为何不管用了",
+      "onboard_time": 1702684707,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290660,
+      "num": 137978,
+      "word": "国家公祭日男子身贴日本国旗出行",
+      "onboard_time": 1702681700,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281146,
+      "num": 281146,
+      "word": "会计和猪最怕过年",
+      "onboard_time": 1702679956,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276560,
       "num": 216806,
       "word": "张家口警方回应网传女子裸体冻亡",
@@ -243,6 +339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258925,
+      "num": 241320,
+      "word": "Meiko入党宣誓仪式",
+      "onboard_time": 1702683202,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 257744,
+      "num": 257744,
+      "word": "萌兰给自己整了一个屁帘儿",
+      "onboard_time": 1702684887,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254368,
       "num": 254368,
       "word": "头部带货主播 不可复制",
@@ -257,6 +369,14 @@
       "onboard_time": 1702638817,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245110,
+      "num": 245110,
+      "word": "罗永浩称企业出来公关不要爹头爹脑",
+      "onboard_time": 1702682722,
+      "rank": 31,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 234188,
@@ -291,12 +411,28 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 224798,
-      "num": 224798,
-      "word": "赵文卓 演员迟到成常规了",
-      "onboard_time": 1702648656,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 216607,
+      "num": 216607,
+      "word": "男子无证醉驾撞死2岁女童逃逸",
+      "onboard_time": 1702671434,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213437,
+      "num": 213437,
+      "word": "刘令姿王楚然常华森聚会",
+      "onboard_time": 1702687829,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213257,
+      "num": 213257,
+      "word": "罗永浩称董宇辉的价值被严重低估",
+      "onboard_time": 1702686210,
+      "rank": 27,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 211498,
@@ -313,6 +449,14 @@
       "onboard_time": 1702656332,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207791,
+      "num": 207791,
+      "word": "以军在加沙误杀3名以方人员",
+      "onboard_time": 1702684407,
+      "rank": 28,
+      "category": "国外时政,军事"
     },
     {
       "raw_hot": 203167,
@@ -355,14 +499,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 188743,
-      "num": 188743,
-      "word": "上海下雪",
-      "onboard_time": 1702681518,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184461,
       "num": 184461,
       "word": "薛之谦痘痘肌",
@@ -371,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179813,
+      "num": 179813,
+      "word": "任辛为鹫儿做的最后一件事",
+      "onboard_time": 1702688732,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176936,
       "num": 176936,
       "word": "张万森 你霉姐来了",
       "onboard_time": 1702630654,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175186,
+      "num": 175186,
+      "word": "医生口中的清淡饮食到底指什么",
+      "onboard_time": 1702688670,
+      "rank": 31,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 174902,
@@ -419,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156597,
+      "num": 156597,
+      "word": "怎么一天过四六级",
+      "onboard_time": 1702647576,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155167,
       "num": 138032,
       "word": "爹头爹脑",
@@ -427,20 +587,28 @@
       "category": "互联网,社会议题"
     },
     {
-      "raw_hot": 154353,
-      "num": 154353,
-      "word": "会计和猪最怕过年",
-      "onboard_time": 1702679956,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 141529,
+      "num": 141529,
+      "word": "人体约70%免疫力来自肠道",
+      "onboard_time": 1702668795,
+      "rank": 48,
+      "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 137233,
-      "num": 137233,
-      "word": "国家公祭日男子身贴日本国旗出行",
-      "onboard_time": 1702681700,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 138531,
+      "num": 138531,
+      "word": "太适合彩妆的脸",
+      "onboard_time": 1702687889,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 136006,
+      "num": 136006,
+      "word": "法老 阳光男孩阳光女孩2023",
+      "onboard_time": 1702687710,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 133760,
@@ -451,6 +619,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131886,
+      "num": 131886,
+      "word": "2岁娃被教育小跑扑太奶怀里求安慰",
+      "onboard_time": 1702685188,
+      "rank": 45,
+      "category": "母婴育儿,社会新闻"
+    },
+    {
+      "raw_hot": 131370,
+      "num": 131370,
+      "word": "四六级最新一季今日完结",
+      "onboard_time": 1702685248,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 130424,
+      "num": 130424,
+      "word": "东方甄选掉粉",
+      "onboard_time": 1702641034,
+      "rank": 47,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 129167,
       "num": 129167,
       "word": "脱轨你放校园线我可不困了",
@@ -459,20 +651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128612,
-      "num": 128612,
-      "word": "余秀华建议俞敏洪给董宇辉单独搞团队",
-      "onboard_time": 1702681759,
-      "rank": 34,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 127600,
-      "num": 127600,
-      "word": "怎么一天过四六级",
-      "onboard_time": 1702647576,
-      "rank": 47,
-      "category": "教育"
+      "raw_hot": 126223,
+      "num": 126223,
+      "word": "汾酒集团原董事长李秋喜去世",
+      "onboard_time": 1702686029,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122475,
@@ -499,44 +683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110749,
-      "num": 110749,
-      "word": "男子无证醉驾撞死2岁女童逃逸",
-      "onboard_time": 1702671434,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99605,
-      "num": 99605,
-      "word": "罗永浩称企业出来公关不要爹头爹脑",
-      "onboard_time": 1702682722,
-      "rank": 31,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 97004,
       "num": 97004,
       "word": "原神 你看看人家",
       "onboard_time": 1702644819,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 96402,
-      "num": 96402,
-      "word": "人体约70%免疫力来自肠道",
-      "onboard_time": 1702668795,
-      "rank": 48,
-      "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 91708,
-      "num": 91708,
-      "word": "Meiko入党宣誓仪式",
-      "onboard_time": 1702683202,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 83064,
@@ -571,19 +723,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64936,
+      "num": 917026,
+      "word": "如果中国县城变身各科课代表",
+      "onboard_time": 1702646259,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63683,
       "num": 63683,
       "word": "罗永浩称嫉妒下属比自己强是没出息",
       "onboard_time": 1702680557,
       "rank": 35,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 55094,
-      "num": 55094,
-      "word": "东方甄选掉粉",
-      "onboard_time": 1702641034,
-      "rank": 47,
       "category": "互联网,社会新闻"
     },
     {
@@ -609,14 +761,6 @@
       "onboard_time": 1702680196,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42238,
-      "num": 383491,
-      "word": "如果中国县城变身各科课代表",
-      "onboard_time": 1702646259,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40515,
