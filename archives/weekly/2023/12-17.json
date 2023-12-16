@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702764958064,
+  "endTime": 1702766044331,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99464,
+      "num": 55997,
+      "word": "东方甄选事件谁动了谁的蛋糕",
+      "onboard_time": 1702760655,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 93742,
       "num": 291249,
       "word": "六级翻译 养老",
@@ -475,11 +483,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64277,
-      "num": 55997,
-      "word": "东方甄选事件谁动了谁的蛋糕",
-      "onboard_time": 1702760655,
-      "rank": 40,
+      "raw_hot": 62883,
+      "num": 43976,
+      "word": "董宇辉发文拥有暖评最多的评论区",
+      "onboard_time": 1702762753,
+      "rank": 21,
       "category": "互联网,社会新闻"
     },
     {
@@ -497,14 +505,6 @@
       "onboard_time": 1702751478,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 49329,
-      "num": 40466,
-      "word": "董宇辉发文拥有暖评最多的评论区",
-      "onboard_time": 1702762753,
-      "rank": 21,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 38935,
@@ -531,8 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23660,
-      "num": 41298,
+      "raw_hot": 27078,
+      "num": 44148,
       "word": "货车司机大雪天淋成雪人流泪感慨",
       "onboard_time": 1702761553,
       "rank": 28,
@@ -553,6 +553,14 @@
       "onboard_time": 1702760714,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12331,
+      "num": 29620,
+      "word": "高校回应教学楼地面塌陷",
+      "onboard_time": 1702765217,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9919,
