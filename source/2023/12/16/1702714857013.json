@@ -1,0 +1,410 @@
+{
+  "runTime": 1702714857013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2552576,
+        "num": 2552576,
+        "word": "董宇辉回应何时回归直播间",
+        "onboard_time": 1702710274,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1182661,
+        "num": 1182661,
+        "word": "商汤科技董事长汤晓鸥去世",
+        "onboard_time": 1702711473,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86004,
+        "num": 935005,
+        "word": "一到冬天便感受到祖国的辽阔",
+        "onboard_time": 1702695273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929768,
+        "num": 929768,
+        "word": "霍尊胜诉",
+        "onboard_time": 1702713938,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803560,
+        "num": 803560,
+        "word": "东方甄选任免通知没盖章",
+        "onboard_time": 1702702299,
+        "rank": 4,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 729440,
+        "num": 729440,
+        "word": "为什么没有鸡绒羽绒服",
+        "onboard_time": 1702708834,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510287,
+        "num": 510287,
+        "word": "迪丽热巴 星光大赏",
+        "onboard_time": 1702710873,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 477708,
+        "num": 477708,
+        "word": "四级答案",
+        "onboard_time": 1702697616,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 423553,
+        "num": 423553,
+        "word": "一箱脐橙被高速工作人员挖了个验货洞",
+        "onboard_time": 1702705060,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405245,
+        "num": 405245,
+        "word": "许昕通知谢娜到国家队报到",
+        "onboard_time": 1702705475,
+        "rank": 9,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 3418297,
+        "num": 405049,
+        "word": "俞敏洪承认拉黑网友并道歉",
+        "onboard_time": 1702713873,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1962529,
+        "num": 404834,
+        "word": "东方甄选孙东旭被免职",
+        "onboard_time": 1702698283,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 733412,
+        "num": 404418,
+        "word": "天权",
+        "onboard_time": 1702711893,
+        "rank": 12,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 596460,
+        "num": 404023,
+        "word": "央视网选策划接董宇辉入职流程",
+        "onboard_time": 1702702479,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 470285,
+        "num": 403611,
+        "word": "孙东旭入职16年从教师干到CEO",
+        "onboard_time": 1702713873,
+        "rank": 14,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 432703,
+        "num": 403105,
+        "word": "罗永浩为董宇辉抱不平骂孙东旭是小人",
+        "onboard_time": 1702711655,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 402949,
+        "num": 402949,
+        "word": "东方甄选员工称内部确实混乱",
+        "onboard_time": 1702712012,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 400526,
+        "num": 400526,
+        "word": "王心凌被宋亚轩年纪暴击",
+        "onboard_time": 1702712135,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398466,
+        "num": 398466,
+        "word": "小杨哥再回应签约董宇辉",
+        "onboard_time": 1702699724,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 382694,
+        "num": 382694,
+        "word": "董宇辉成名之夜高光时刻",
+        "onboard_time": 1702712074,
+        "rank": 19,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 371073,
+        "num": 371073,
+        "word": "唐嫣活动生图",
+        "onboard_time": 1702713514,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 390029,
+        "num": 364593,
+        "word": "俞敏洪兼任东方甄选CEO",
+        "onboard_time": 1702698767,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 341938,
+        "num": 341938,
+        "word": "四级作文submission",
+        "onboard_time": 1702699126,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278840,
+        "num": 278840,
+        "word": "初雪一位",
+        "onboard_time": 1702703562,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322511,
+        "num": 278553,
+        "word": "东方甄选 蛋黄酥",
+        "onboard_time": 1702697921,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 276262,
+        "num": 276262,
+        "word": "星光大赏出发图",
+        "onboard_time": 1702711113,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221601,
+        "num": 221601,
+        "word": "婴儿 中药",
+        "onboard_time": 1702694611,
+        "rank": 26,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 263477,
+        "num": 221574,
+        "word": "东方甄选回应主播称网友买不起蛋黄酥",
+        "onboard_time": 1702709301,
+        "rank": 27,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 221191,
+        "num": 221191,
+        "word": "给住院婆婆吃泡面博主账号被封",
+        "onboard_time": 1702713452,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175127,
+        "num": 220820,
+        "word": "网传女子裸体冻亡系不实信息",
+        "onboard_time": 1702693110,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248926,
+        "num": 220766,
+        "word": "东方甄选主播天权摔手机",
+        "onboard_time": 1702682600,
+        "rank": 30,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 220477,
+        "num": 220477,
+        "word": "B站推荐 乱七八糟",
+        "onboard_time": 1702702359,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218196,
+        "num": 218196,
+        "word": "奔跑吧今晚上演消失的TA",
+        "onboard_time": 1702698704,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236504,
+        "num": 217474,
+        "word": "董宇辉涨粉",
+        "onboard_time": 1702692873,
+        "rank": 33,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 213839,
+        "num": 213839,
+        "word": "李一桐初雪妆",
+        "onboard_time": 1702712973,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 213350,
+        "num": 213350,
+        "word": "马国明汤洛雯婚礼",
+        "onboard_time": 1702707517,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212698,
+        "num": 212698,
+        "word": "鹿晗连说6个请不要",
+        "onboard_time": 1702708895,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212090,
+        "num": 212090,
+        "word": "主播失言致东方甄选停播",
+        "onboard_time": 1702692271,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 209550,
+        "num": 209550,
+        "word": "主播天权停播三个月",
+        "onboard_time": 1702714715,
+        "rank": 38,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 207540,
+        "num": 207540,
+        "word": "东方甄选员工谈董宇辉和孙东旭",
+        "onboard_time": 1702714174,
+        "rank": 39,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 198498,
+        "num": 198498,
+        "word": "猫咪信任的最高级表现",
+        "onboard_time": 1702710094,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172854,
+        "num": 172854,
+        "word": "于正否认白鹿接触李清照本子",
+        "onboard_time": 1702704460,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167322,
+        "num": 167322,
+        "word": "通便食物",
+        "onboard_time": 1702713098,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163922,
+        "num": 163922,
+        "word": "美依礼芽全开麦救场",
+        "onboard_time": 1702709301,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163038,
+        "num": 163038,
+        "word": "iPhone 15 Pro操作按钮一键支付",
+        "onboard_time": 1702705416,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155075,
+        "num": 155075,
+        "word": "东方甄选",
+        "onboard_time": 1702691073,
+        "rank": 45,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 149690,
+        "num": 149690,
+        "word": "马嘉祺为了不耽误舞台打屁股针",
+        "onboard_time": 1702707096,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145798,
+        "num": 145798,
+        "word": "知情人称霍尊已在逐渐开展演出",
+        "onboard_time": 1702714777,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141927,
+        "num": 141927,
+        "word": "柯南",
+        "onboard_time": 1702707637,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130250,
+        "num": 130250,
+        "word": "四级作文",
+        "onboard_time": 1702697134,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#广西要走活发展这盘棋开放是关键#"
+    }
+  }
+}
