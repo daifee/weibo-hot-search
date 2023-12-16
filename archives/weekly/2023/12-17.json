@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702757875034,
+  "endTime": 1702758877159,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -491,19 +491,19 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 30995,
+      "num": 31741,
+      "word": "奔跑吧",
+      "onboard_time": 1702757475,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28575,
       "num": 28575,
       "word": "小精灵 给父母来点妆发震撼",
       "onboard_time": 1702754896,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 27587,
-      "num": 27587,
-      "word": "奔跑吧",
-      "onboard_time": 1702757475,
-      "rank": 38,
       "category": "综艺"
     },
     {
