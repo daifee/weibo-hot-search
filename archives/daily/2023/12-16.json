@@ -1,22 +1,30 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702689325452,
+  "endTime": 1702690525082,
   "band_list": [
     {
       "raw_hot": 2330149,
-      "num": 353540,
+      "num": 354493,
       "word": "东方甄选主播天权摔手机",
       "onboard_time": 1702682600,
       "rank": 11,
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 1833204,
-      "num": 1833204,
+      "raw_hot": 1844643,
+      "num": 1844643,
       "word": "给住院婆婆吃泡面博主发声",
       "onboard_time": 1702685368,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1557580,
+      "num": 353960,
+      "word": "罗永浩爆料有人出5亿违约金挖董宇辉",
+      "onboard_time": 1702687231,
+      "rank": 11,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1315025,
@@ -32,14 +40,6 @@
       "word": "董宇辉账号粉丝数接近东方甄选一半",
       "onboard_time": 1702635876,
       "rank": 10,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1233738,
-      "num": 334245,
-      "word": "罗永浩爆料有人出5亿违约金挖董宇辉",
-      "onboard_time": 1702687231,
-      "rank": 11,
       "category": "互联网,社会新闻"
     },
     {
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 432976,
-      "num": 325511,
+      "num": 349641,
       "word": "东方甄选25分钟掉粉10万",
       "onboard_time": 1702685968,
       "rank": 12,
@@ -203,6 +203,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394884,
+      "num": 394884,
+      "word": "草莓 车厘子",
+      "onboard_time": 1702689872,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 374575,
+      "num": 374575,
+      "word": "沙溢有沙溢但沙溢忍了",
+      "onboard_time": 1702687051,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373217,
       "num": 319576,
       "word": "余秀华建议俞敏洪给董宇辉单独搞团队",
@@ -219,20 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353963,
-      "num": 353963,
-      "word": "沙溢有沙溢但沙溢忍了",
-      "onboard_time": 1702687051,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 351419,
       "num": 351419,
       "word": "兔系帅哥",
       "onboard_time": 1702649200,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339094,
+      "num": 339094,
+      "word": "李国庆喊话俞敏洪保护好董宇辉",
+      "onboard_time": 1702689631,
+      "rank": 14,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 335168,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 296369,
-      "num": 242931,
+      "num": 246746,
       "word": "董明珠的格局为何不管用了",
       "onboard_time": 1702684707,
       "rank": 21,
@@ -299,8 +315,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281146,
-      "num": 281146,
+      "raw_hot": 288285,
+      "num": 288285,
       "word": "会计和猪最怕过年",
       "onboard_time": 1702679956,
       "rank": 24,
@@ -339,20 +355,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258925,
-      "num": 241320,
-      "word": "Meiko入党宣誓仪式",
-      "onboard_time": 1702683202,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 257744,
-      "num": 257744,
+      "raw_hot": 263820,
+      "num": 263820,
       "word": "萌兰给自己整了一个屁帘儿",
       "onboard_time": 1702684887,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258925,
+      "num": 243705,
+      "word": "Meiko入党宣誓仪式",
+      "onboard_time": 1702683202,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 254368,
@@ -371,12 +387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245110,
-      "num": 245110,
+      "raw_hot": 247380,
+      "num": 247380,
       "word": "罗永浩称企业出来公关不要爹头爹脑",
       "onboard_time": 1702682722,
       "rank": 31,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 238807,
+      "num": 246868,
+      "word": "反复高热后21岁大学生确诊红斑狼疮",
+      "onboard_time": 1702689573,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234188,
@@ -403,6 +427,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 225435,
+      "num": 225435,
+      "word": "男子无证醉驾撞死2岁女童逃逸",
+      "onboard_time": 1702671434,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225405,
       "num": 225405,
       "word": "时代少年团纪录片回应耍大牌",
@@ -411,12 +443,12 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 216607,
-      "num": 216607,
-      "word": "男子无证醉驾撞死2岁女童逃逸",
-      "onboard_time": 1702671434,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 218823,
+      "num": 218823,
+      "word": "任辛为鹫儿做的最后一件事",
+      "onboard_time": 1702688732,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 213437,
@@ -507,12 +539,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179813,
-      "num": 179813,
-      "word": "任辛为鹫儿做的最后一件事",
-      "onboard_time": 1702688732,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 183775,
+      "num": 183775,
+      "word": "医生口中的清淡饮食到底指什么",
+      "onboard_time": 1702688670,
+      "rank": 31,
+      "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 180956,
+      "num": 180956,
+      "word": "摆拍",
+      "onboard_time": 1702690231,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176936,
@@ -523,12 +563,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175186,
-      "num": 175186,
-      "word": "医生口中的清淡饮食到底指什么",
-      "onboard_time": 1702688670,
-      "rank": 31,
-      "category": "健康医疗,社会新闻"
+      "raw_hot": 176823,
+      "num": 176823,
+      "word": "怎么一天过四六级",
+      "onboard_time": 1702647576,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 174902,
@@ -571,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156597,
-      "num": 156597,
-      "word": "怎么一天过四六级",
-      "onboard_time": 1702647576,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 155167,
       "num": 138032,
       "word": "爹头爹脑",
@@ -587,8 +619,8 @@
       "category": "互联网,社会议题"
     },
     {
-      "raw_hot": 141529,
-      "num": 141529,
+      "raw_hot": 145464,
+      "num": 145464,
       "word": "人体约70%免疫力来自肠道",
       "onboard_time": 1702668795,
       "rank": 48,
@@ -609,6 +641,14 @@
       "onboard_time": 1702687710,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135265,
+      "num": 135265,
+      "word": "东方甄选掉粉",
+      "onboard_time": 1702641034,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 133760,
@@ -633,14 +673,6 @@
       "onboard_time": 1702685248,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 130424,
-      "num": 130424,
-      "word": "东方甄选掉粉",
-      "onboard_time": 1702641034,
-      "rank": 47,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 129167,
