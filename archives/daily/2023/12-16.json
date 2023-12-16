@@ -1,6 +1,6 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702722849366,
+  "endTime": 1702725254498,
   "band_list": [
     {
       "raw_hot": 14014570,
@@ -219,6 +219,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1300487,
+      "num": 1300487,
+      "word": "鼠系帅哥",
+      "onboard_time": 1702721436,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1291499,
       "num": 1291499,
       "word": "考完四六级 悬着的心终于死了",
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 842569,
-      "num": 842569,
-      "word": "鼠系帅哥",
-      "onboard_time": 1702721436,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 825267,
       "num": 825267,
       "word": "六级作文",
@@ -521,6 +521,14 @@
       "onboard_time": 1702644935,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 603043,
+      "num": 3252056,
+      "word": "外卖员大雪中送餐陌生人谎称顺路捎了他10公里",
+      "onboard_time": 1702717177,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586187,
@@ -683,6 +691,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 459353,
+      "num": 459353,
+      "word": "陈梦7战伊藤美诚全胜",
+      "onboard_time": 1702722516,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 458918,
       "num": 458918,
       "word": "赵文卓 演员迟到成常规了",
@@ -755,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418192,
+      "num": 263763,
+      "word": "首席淘汰制",
+      "onboard_time": 1702724674,
+      "rank": 31,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 418184,
       "num": 365348,
       "word": "董宇辉孟羽童 打工人困境",
@@ -771,20 +795,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409305,
+      "num": 409305,
+      "word": "俄罗斯皇家芭蕾舞团 科目三",
+      "onboard_time": 1702723775,
+      "rank": 16,
+      "category": "社会新闻,作品衍生"
+    },
+    {
       "raw_hot": 408821,
       "num": 408821,
       "word": "沙溢有沙溢但沙溢忍了",
       "onboard_time": 1702687051,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 405878,
-      "num": 1835548,
-      "word": "外卖员大雪中送餐陌生人谎称顺路捎了他10公里",
-      "onboard_time": 1702717177,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403871,
@@ -867,6 +891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 374721,
+      "num": 374721,
+      "word": "孙颖莎3比0韩莹",
+      "onboard_time": 1702724430,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373217,
       "num": 319576,
       "word": "余秀华建议俞敏洪给董宇辉单独搞团队",
@@ -881,6 +913,14 @@
       "onboard_time": 1702713514,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 358720,
+      "num": 358720,
+      "word": "唐嫣钻石鎏光羽毛长裙",
+      "onboard_time": 1702723657,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 357206,
@@ -1083,20 +1123,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 297669,
+      "num": 297669,
+      "word": "魏大勋撕名牌撕出表情包",
+      "onboard_time": 1702722705,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297408,
       "num": 297408,
       "word": "四级听力 听不懂",
       "onboard_time": 1702700204,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 297045,
-      "num": 297045,
-      "word": "陈梦7战伊藤美诚全胜",
-      "onboard_time": 1702722516,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 296369,
@@ -1219,6 +1259,14 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 265272,
+      "num": 265272,
+      "word": "海底捞回应自助餐将开业",
+      "onboard_time": 1702724795,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 264989,
       "num": 297848,
       "word": "孙颖莎拒绝爆冷",
@@ -1337,6 +1385,14 @@
       "onboard_time": 1702714174,
       "rank": 39,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 235557,
+      "num": 1632244,
+      "word": "美术老师雪地踩出2万平双龙戏珠",
+      "onboard_time": 1702720240,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234188,
@@ -1459,12 +1515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222614,
-      "num": 222614,
-      "word": "魏大勋撕名牌撕出表情包",
-      "onboard_time": 1702722705,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 221653,
+      "num": 221653,
+      "word": "王一珩 白日做梦",
+      "onboard_time": 1702722876,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 221634,
@@ -1475,12 +1531,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221473,
+      "num": 221473,
+      "word": "刘宇宁回应一念关山争议",
+      "onboard_time": 1702724795,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217381,
       "num": 217381,
       "word": "电视剧脱轨",
       "onboard_time": 1702649558,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216365,
+      "num": 216365,
+      "word": "爱是常觉亏欠",
+      "onboard_time": 1702722456,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 215120,
@@ -1497,6 +1569,14 @@
       "onboard_time": 1702712973,
       "rank": 34,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 213597,
+      "num": 213597,
+      "word": "很想很想你",
+      "onboard_time": 1702723359,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 213437,
@@ -1531,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210980,
+      "num": 217684,
+      "word": "陈雨菲vs马林",
+      "onboard_time": 1702723717,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210645,
       "num": 210645,
       "word": "小朋友捡到小小朋友",
@@ -1547,20 +1635,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208297,
-      "num": 208297,
-      "word": "爱是常觉亏欠",
-      "onboard_time": 1702722456,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 207791,
       "num": 207791,
       "word": "以军在加沙误杀3名以方人员",
       "onboard_time": 1702684407,
       "rank": 28,
       "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 207284,
+      "num": 188410,
+      "word": "东方甄选一天出三招",
+      "onboard_time": 1702725034,
+      "rank": 49,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 206704,
@@ -1579,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205991,
+      "num": 1284495,
+      "word": "儿童高烧抽搐从电动车摔下特警抱起送医",
+      "onboard_time": 1702721199,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205354,
       "num": 205354,
       "word": "闪耀暖暖",
@@ -1595,12 +1691,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 204071,
+      "num": 204071,
+      "word": "雪人101",
+      "onboard_time": 1702724977,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203996,
       "num": 203996,
       "word": "汪苏泷为商业帝国添砖加瓦",
       "onboard_time": 1702711534,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203934,
+      "num": 203934,
+      "word": "鸣龙少年 双面的人生",
+      "onboard_time": 1702724915,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 203167,
@@ -1737,14 +1849,6 @@
       "onboard_time": 1702700563,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185660,
-      "num": 1632244,
-      "word": "美术老师雪地踩出2万平双龙戏珠",
-      "onboard_time": 1702720240,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184461,
@@ -1945,14 +2049,6 @@
       "onboard_time": 1702696356,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142532,
-      "num": 1284495,
-      "word": "儿童高烧抽搐从电动车摔下特警抱起送医",
-      "onboard_time": 1702721199,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140497,
@@ -2195,6 +2291,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 44203,
+      "num": 3227901,
+      "word": "2023那些戳人的话",
+      "onboard_time": 1702723958,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43620,
       "num": 43620,
       "word": "鸣龙少年 龙樱",
@@ -2217,6 +2321,14 @@
       "onboard_time": 1702673834,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 37629,
+      "num": 221488,
+      "word": "蛋仔派对百款免费皮肤",
+      "onboard_time": 1702724854,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 35263,
