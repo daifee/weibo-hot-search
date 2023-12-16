@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702700448902,
+  "endTime": 1702701287871,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -347,6 +347,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 14014570,
+      "num": 14014570,
+      "word": "东方甄选孙东旭被免职",
+      "onboard_time": 1702698283,
+      "rank": 0,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 13978759,
       "num": 13978759,
       "word": "QQ崩了",
@@ -409,14 +417,6 @@
       "onboard_time": 1691329401,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13760725,
-      "num": 13760725,
-      "word": "东方甄选孙东旭被免职",
-      "onboard_time": 1702698283,
-      "rank": 0,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 13632162,
@@ -2147,6 +2147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 7659131,
+      "num": 7659131,
+      "word": "四级答案",
+      "onboard_time": 1678592067,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 7647812,
       "num": 8897812,
       "word": "李克强同志生平",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1674304933,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 7405674,
-      "num": 7405674,
-      "word": "四级答案",
-      "onboard_time": 1678592067,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 7398770,

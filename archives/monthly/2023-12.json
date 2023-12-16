@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702700448902,
+  "endTime": 1702701287871,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -19,8 +19,8 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 13760725,
-      "num": 13760725,
+      "raw_hot": 14014570,
+      "num": 14014570,
       "word": "东方甄选孙东旭被免职",
       "onboard_time": 1702698283,
       "rank": 0,
@@ -131,20 +131,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 7659131,
+      "num": 7659131,
+      "word": "四级答案",
+      "onboard_time": 1702697616,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 7576357,
       "num": 7576357,
       "word": "阿信回应",
       "onboard_time": 1701872745,
       "rank": 0,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 7405674,
-      "num": 7405674,
-      "word": "四级答案",
-      "onboard_time": 1702697616,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 6546722,
@@ -4179,6 +4179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 956785,
+      "num": 472354,
+      "word": "小杨哥再回应签约董宇辉",
+      "onboard_time": 1702699724,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 956670,
       "num": 956670,
       "word": "质疑马琳 成为马琳",
@@ -4603,6 +4611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 893375,
+      "num": 600358,
+      "word": "董宇辉涨粉",
+      "onboard_time": 1702692873,
+      "rank": 14,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 892305,
       "num": 892305,
       "word": "高耀洁医生去世",
@@ -4649,14 +4665,6 @@
       "onboard_time": 1701775837,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 880576,
-      "num": 600358,
-      "word": "董宇辉涨粉",
-      "onboard_time": 1702692873,
-      "rank": 14,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 878268,
@@ -7211,6 +7219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639283,
+      "num": 424116,
+      "word": "胡锡进称董宇辉东方甄选决裂可能双输",
+      "onboard_time": 1702690954,
+      "rank": 20,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 638962,
       "num": 319638,
       "word": "学历含金量最高的人设出现了",
@@ -7889,14 +7905,6 @@
       "onboard_time": 1702263093,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 591921,
-      "num": 424116,
-      "word": "胡锡进称董宇辉东方甄选决裂可能双输",
-      "onboard_time": 1702690954,
-      "rank": 20,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 591871,
@@ -9995,14 +10003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 493346,
-      "num": 293820,
-      "word": "小杨哥再回应签约董宇辉",
-      "onboard_time": 1702699724,
-      "rank": 30,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 493252,
       "num": 493252,
       "word": "刘宇宁跳科目三",
@@ -10905,6 +10905,14 @@
       "onboard_time": 1701982274,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 458825,
+      "num": 458825,
+      "word": "四级翻译 改革开放",
+      "onboard_time": 1702699843,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 458727,
@@ -18067,6 +18075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297408,
+      "num": 297408,
+      "word": "四级听力 听不懂",
+      "onboard_time": 1702700204,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 297358,
       "num": 297358,
       "word": "为什么年轻人越来越不喜欢人情世故",
@@ -18539,6 +18555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292480,
+      "num": 292480,
+      "word": "被我弄丢的你定档",
+      "onboard_time": 1702697317,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 292210,
       "num": 292210,
       "word": "谷爱凌晋级世界杯决赛",
@@ -18881,22 +18905,6 @@
       "onboard_time": 1701335796,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287716,
-      "num": 287716,
-      "word": "四级翻译 改革开放",
-      "onboard_time": 1702699843,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 287696,
-      "num": 287696,
-      "word": "被我弄丢的你定档",
-      "onboard_time": 1702697317,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 287074,
@@ -24515,6 +24523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223720,
+      "num": 223720,
+      "word": "萧敬腾林有慧婚后首露面",
+      "onboard_time": 1702700802,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223698,
       "num": 225444,
       "word": "恋与制作人六周年",
@@ -26603,14 +26619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207588,
-      "num": 207588,
-      "word": "四级听力 听不懂",
-      "onboard_time": 1702700204,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 207405,
       "num": 207405,
       "word": "济南发布暴雪红色预警",
@@ -28635,6 +28643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195568,
+      "num": 195568,
+      "word": "四级 一场酣畅淋漓的考试",
+      "onboard_time": 1702700621,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 195520,
       "num": 195520,
       "word": "给城里人一点赚钱震撼",
@@ -30521,6 +30537,14 @@
       "onboard_time": 1702385734,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 185966,
+      "num": 185966,
+      "word": "四级时间 不够用",
+      "onboard_time": 1702700563,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 185964,
@@ -33344,6 +33368,14 @@
       "word": "刘诗雯看台观赛",
       "onboard_time": 1702210359,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164508,
+      "num": 164508,
+      "word": "比尔又伤了",
+      "onboard_time": 1702700383,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -38131,14 +38163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127088,
-      "num": 127088,
-      "word": "比尔又伤了",
-      "onboard_time": 1702700383,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127063,
       "num": 127063,
       "word": "高级伪体香",
@@ -39297,6 +39321,14 @@
       "onboard_time": 1701969741,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 109733,
+      "num": 518013,
+      "word": "二次元也会发腮吗",
+      "onboard_time": 1702699243,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 109575,
@@ -40793,14 +40825,6 @@
       "onboard_time": 1701457814,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 64618,
-      "num": 518013,
-      "word": "二次元也会发腮吗",
-      "onboard_time": 1702699243,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 64203,
