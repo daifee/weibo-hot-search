@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702754000896,
+  "endTime": 1702755248112,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -43945,6 +43945,14 @@
       "onboard_time": 1702706138,
       "rank": 20,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 28575,
+      "num": 28575,
+      "word": "小精灵 给父母来点妆发震撼",
+      "onboard_time": 1702754896,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 28232,
