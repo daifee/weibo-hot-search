@@ -1,6 +1,6 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702701287871,
+  "endTime": 1702703774607,
   "band_list": [
     {
       "raw_hot": 14014570,
@@ -67,6 +67,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 2241495,
+      "num": 2241495,
+      "word": "东方甄选任免通知没盖章",
+      "onboard_time": 1702702299,
+      "rank": 3,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 2052212,
       "num": 2052212,
       "word": "草莓 车厘子",
@@ -89,6 +97,14 @@
       "onboard_time": 1702682722,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1670949,
+      "num": 420824,
+      "word": "央视网选策划接董宇辉入职流程",
+      "onboard_time": 1702702479,
+      "rank": 10,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1557580,
@@ -235,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 743829,
+      "num": 743829,
+      "word": "六级考生 汗流浃背了",
+      "onboard_time": 1702701343,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 728656,
       "num": 728656,
       "word": "杨迪 娱乐圈里清华北大的不多",
@@ -323,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 559359,
+      "num": 394451,
+      "word": "陈幸同3比0王曼昱",
+      "onboard_time": 1702702603,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 548783,
       "num": 544952,
       "word": "新东方前员工谈小作文风波",
@@ -337,6 +369,14 @@
       "onboard_time": 1702655014,
       "rank": 4,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 487460,
+      "num": 391687,
+      "word": "瑞思拜 四级",
+      "onboard_time": 1702702240,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 483220,
@@ -360,6 +400,14 @@
       "word": "罗永浩 愿意支持董宇辉创业",
       "onboard_time": 1702631373,
       "rank": 14,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 474771,
+      "num": 384203,
+      "word": "学而思总裁直播放手机特别小心",
+      "onboard_time": 1702701762,
+      "rank": 21,
       "category": "互联网,社会新闻"
     },
     {
@@ -411,6 +459,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 422657,
+      "num": 422657,
+      "word": "B站推荐 乱七八糟",
+      "onboard_time": 1702702359,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 418184,
       "num": 365348,
       "word": "董宇辉孟羽童 打工人困境",
@@ -449,6 +505,14 @@
       "onboard_time": 1702681759,
       "rank": 34,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 363268,
+      "num": 363268,
+      "word": "湖南卫视跨年晚会官宣",
+      "onboard_time": 1702703202,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 357206,
@@ -491,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331104,
+      "num": 331104,
+      "word": "初雪一位",
+      "onboard_time": 1702703562,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330277,
       "num": 330277,
       "word": "反复高热后21岁大学生确诊红斑狼疮",
@@ -505,6 +577,14 @@
       "onboard_time": 1702698522,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326227,
+      "num": 326227,
+      "word": "东方甄选可以没有董宇辉吗",
+      "onboard_time": 1702701462,
+      "rank": 25,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 320189,
@@ -528,6 +608,14 @@
       "word": "董宇辉否认加盟京东",
       "onboard_time": 1702642057,
       "rank": 22,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 311802,
+      "num": 311802,
+      "word": "罗永浩称新东方部分高管很恶心",
+      "onboard_time": 1702703442,
+      "rank": 26,
       "category": "互联网,社会新闻"
     },
     {
@@ -585,6 +673,14 @@
       "onboard_time": 1702681700,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289154,
+      "num": 289154,
+      "word": "俞敏洪曾反思罗永浩等名师离开新东方",
+      "onboard_time": 1702703146,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 288285,
@@ -787,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212167,
+      "num": 212167,
+      "word": "四六级考试的循环怪圈",
+      "onboard_time": 1702703323,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211498,
       "num": 211498,
       "word": "电视剧真正的效应在长尾效应",
@@ -819,12 +923,44 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 206011,
+      "num": 206011,
+      "word": "丁程鑫输懵了",
+      "onboard_time": 1702702963,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205354,
+      "num": 205354,
+      "word": "闪耀暖暖",
+      "onboard_time": 1702702062,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 203950,
+      "num": 203950,
+      "word": "东方甄选抖音发公告罢免CEO合规吗",
+      "onboard_time": 1702703079,
+      "rank": 45,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 203167,
       "num": 203167,
       "word": "看了朱丹周一围理解了不分手的闺蜜",
       "onboard_time": 1702656751,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202340,
+      "num": 202340,
+      "word": "东方甄选人事任免被疑小编发布",
+      "onboard_time": 1702703623,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 196827,
@@ -1249,6 +1385,14 @@
       "onboard_time": 1702630654,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 33981,
+      "num": 212275,
+      "word": "蛋仔派对送麻了",
+      "onboard_time": 1702703323,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 33689,
