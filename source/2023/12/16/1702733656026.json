@@ -1,0 +1,410 @@
+{
+  "runTime": 1702733656026,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7432471,
+        "num": 7432471,
+        "word": "俞敏洪董宇辉合体直播",
+        "onboard_time": 1702725341,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 2971989,
+        "num": 2971989,
+        "word": "董宇辉 不理解大家为什么这么喜欢我",
+        "onboard_time": 1702727798,
+        "rank": 1,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 80810,
+        "num": 2085279,
+        "word": "2023那些戳人的话",
+        "onboard_time": 1702723958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2065314,
+        "num": 2065314,
+        "word": "董宇辉曾试图挽留孙东旭",
+        "onboard_time": 1702729837,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1822825,
+        "num": 1822825,
+        "word": "罗永浩说俞敏洪董宇辉直播是昏招",
+        "onboard_time": 1702731100,
+        "rank": 4,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1454557,
+        "num": 1454557,
+        "word": "陈飞宇我承认昨天太大声了",
+        "onboard_time": 1702729659,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1131352,
+        "num": 1131352,
+        "word": "海底捞 自助餐",
+        "onboard_time": 1702729120,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1047751,
+        "num": 1047751,
+        "word": "六级卷子一股老人味",
+        "onboard_time": 1702722036,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 925464,
+        "num": 925464,
+        "word": "白鹿张凌赫还原苦果亦是果",
+        "onboard_time": 1702731940,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 811780,
+        "num": 891164,
+        "word": "六级答案",
+        "onboard_time": 1702719702,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 889300,
+        "num": 889300,
+        "word": "董宇辉称小作文事件我的处理很幼稚",
+        "onboard_time": 1702727260,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 576398,
+        "num": 576398,
+        "word": "罗永浩",
+        "onboard_time": 1702732836,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 534396,
+        "num": 534396,
+        "word": "kpop还在闯美 科目三已经舞统",
+        "onboard_time": 1702730978,
+        "rank": 12,
+        "category": "情感,作品衍生"
+      },
+      {
+        "raw_hot": 501552,
+        "num": 501552,
+        "word": "宋雨琦小狗纹身",
+        "onboard_time": 1702732179,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488644,
+        "num": 488644,
+        "word": "罗永浩炮轰东方甄选",
+        "onboard_time": 1702733436,
+        "rank": 14,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 486206,
+        "num": 486206,
+        "word": "董宇辉从没说过要离开东方甄选",
+        "onboard_time": 1702726480,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 465337,
+        "num": 465337,
+        "word": "俞敏洪 力挽狂澜",
+        "onboard_time": 1702727918,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 262452,
+        "num": 440771,
+        "word": "考完四六级 悬着的心终于死了",
+        "onboard_time": 1702717718,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207412,
+        "num": 433661,
+        "word": "六级翻译 养老",
+        "onboard_time": 1702719879,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 75401,
+        "num": 432691,
+        "word": "看谁还没有玩蛋仔",
+        "onboard_time": 1702731581,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 432168,
+        "num": 432168,
+        "word": "一念关山陈冠霖版",
+        "onboard_time": 1702731878,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424699,
+        "num": 424699,
+        "word": "俞敏洪谈为什么把孙东旭免职",
+        "onboard_time": 1702728398,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 421732,
+        "num": 421732,
+        "word": "董宇辉在直播中道歉",
+        "onboard_time": 1702728761,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 409521,
+        "num": 409521,
+        "word": "胡歌 是我不想拍请不要骂人",
+        "onboard_time": 1702717056,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362351,
+        "num": 362351,
+        "word": "老板哄员工",
+        "onboard_time": 1702728880,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 352270,
+        "num": 352270,
+        "word": "电视剧脱轨",
+        "onboard_time": 1702732900,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344180,
+        "num": 344180,
+        "word": "东方甄选孙东旭被免职",
+        "onboard_time": 1702698283,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 319180,
+        "num": 319180,
+        "word": "何蓝逗点名檀健次撒娇",
+        "onboard_time": 1702732362,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317741,
+        "num": 317741,
+        "word": "俞敏洪承认拉黑网友并道歉",
+        "onboard_time": 1702713873,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 180716,
+        "num": 308583,
+        "word": "六级阅读有Selena",
+        "onboard_time": 1702720782,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 307360,
+        "num": 307360,
+        "word": "原来最好的休息并不是睡觉",
+        "onboard_time": 1702727018,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277249,
+        "num": 277249,
+        "word": "董宇辉 真诚",
+        "onboard_time": 1702727798,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 270022,
+        "num": 270022,
+        "word": "鼠系帅哥",
+        "onboard_time": 1702721436,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259008,
+        "num": 259008,
+        "word": "董宇辉玩笑成神预言",
+        "onboard_time": 1702729601,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 162335,
+        "num": 255896,
+        "word": "六级",
+        "onboard_time": 1702717478,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161979,
+        "num": 255098,
+        "word": "听力你就听吧",
+        "onboard_time": 1702722162,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255031,
+        "num": 255031,
+        "word": "俞敏洪称董宇辉随时可以离开",
+        "onboard_time": 1702733377,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 254921,
+        "num": 254921,
+        "word": "董宇辉谈薪资",
+        "onboard_time": 1702730798,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 243674,
+        "num": 243674,
+        "word": "俞敏洪称孙东旭被免与董宇辉没有关系",
+        "onboard_time": 1702728579,
+        "rank": 38,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 232373,
+        "num": 232373,
+        "word": "刘诗诗上次录节目是十一年前",
+        "onboard_time": 1702715254,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223808,
+        "num": 223808,
+        "word": "迪丽热巴 星光大赏",
+        "onboard_time": 1702710873,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222187,
+        "num": 222187,
+        "word": "主播天权希望网友别攻击孩子",
+        "onboard_time": 1702718261,
+        "rank": 41,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 217116,
+        "num": 217116,
+        "word": "十个勤天 广州音乐节",
+        "onboard_time": 1702731344,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207096,
+        "num": 207096,
+        "word": "宁安如梦答谢礼",
+        "onboard_time": 1702727676,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205051,
+        "num": 205051,
+        "word": "WPOP音乐节 BILLKIN",
+        "onboard_time": 1702733199,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189298,
+        "num": 189298,
+        "word": "三大队原型",
+        "onboard_time": 1702728518,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187110,
+        "num": 187110,
+        "word": "田曦薇黑色大衣",
+        "onboard_time": 1702733559,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181968,
+        "num": 181968,
+        "word": "刘宇宁回应一念关山争议",
+        "onboard_time": 1702724795,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144000,
+        "num": 174531,
+        "word": "作文是跑题的 阅读是不会的",
+        "onboard_time": 1702722221,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140834,
+        "num": 172769,
+        "word": "2023女排世俱杯",
+        "onboard_time": 1702733498,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化广西篇章#"
+    }
+  }
+}
