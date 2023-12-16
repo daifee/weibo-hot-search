@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702768619365,
+  "endTime": 1702769656010,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 432092,
+      "num": 432092,
+      "word": "女子遭丈夫打断腰椎住院后被砍数刀",
+      "onboard_time": 1702767676,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395215,
       "num": 373531,
       "word": "董宇辉称小作文事件我的处理很幼稚",
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285045,
+      "num": 285045,
+      "word": "东方甄选事件谁动了谁的蛋糕",
+      "onboard_time": 1702760655,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 274916,
       "num": 274916,
       "word": "董宇辉孙东旭关系有时会紧张",
@@ -257,14 +273,6 @@
       "onboard_time": 1702737635,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222072,
-      "num": 222072,
-      "word": "东方甄选事件谁动了谁的蛋糕",
-      "onboard_time": 1702760655,
-      "rank": 40,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 220161,
@@ -363,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167516,
-      "num": 167516,
-      "word": "女子遭丈夫打断腰椎住院后被砍数刀",
-      "onboard_time": 1702767676,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154698,
       "num": 154698,
       "word": "知情人称霍尊已在逐渐开展演出",
@@ -427,20 +427,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98869,
-      "num": 77935,
+      "raw_hot": 117472,
+      "num": 96081,
       "word": "董宇辉发文拥有暖评最多的评论区",
       "onboard_time": 1702762753,
       "rank": 21,
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 96014,
-      "num": 97165,
+      "raw_hot": 112730,
+      "num": 136034,
       "word": "出生4天男婴肺出血急救遇大雪封路",
       "onboard_time": 1702758794,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102521,
+      "num": 95117,
+      "word": "这四种食物可能会加重咳嗽",
+      "onboard_time": 1702766417,
+      "rank": 27,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 93742,
@@ -475,14 +483,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 75479,
-      "num": 75479,
-      "word": "这四种食物可能会加重咳嗽",
-      "onboard_time": 1702766417,
-      "rank": 27,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 73609,
       "num": 184089,
       "word": "六级阅读有Selena",
@@ -491,12 +491,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 72490,
+      "num": 99765,
+      "word": "丈夫去世7名好友帮照顾家庭6年",
+      "onboard_time": 1702768999,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72056,
       "num": 183793,
       "word": "六级",
       "onboard_time": 1702717478,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 71644,
+      "num": 71644,
+      "word": "久坐不适一下就消失了",
+      "onboard_time": 1702751478,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 69762,
@@ -515,20 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52159,
-      "num": 52159,
-      "word": "久坐不适一下就消失了",
-      "onboard_time": 1702751478,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 39388,
-      "num": 39388,
+      "raw_hot": 61242,
+      "num": 61242,
       "word": "奔跑吧宋雨琦跳Queencard",
       "onboard_time": 1702768097,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42246,
+      "num": 72129,
+      "word": "高校回应教学楼地面塌陷",
+      "onboard_time": 1702765217,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38935,
@@ -539,12 +555,12 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 36390,
-      "num": 72129,
-      "word": "高校回应教学楼地面塌陷",
-      "onboard_time": 1702765217,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 37704,
+      "num": 43800,
+      "word": "考完六级领一条围巾回去戴吧",
+      "onboard_time": 1702767077,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 30995,
