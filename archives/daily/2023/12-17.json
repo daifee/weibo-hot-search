@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702751644170,
+  "endTime": 1702754000896,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -475,12 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48129,
-      "num": 48129,
+      "raw_hot": 50693,
+      "num": 50693,
       "word": "久坐不适一下就消失了",
       "onboard_time": 1702751478,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 38935,
+      "num": 38935,
+      "word": "手工耿 大型的娱乐设备",
+      "onboard_time": 1702752856,
+      "rank": 41,
+      "category": "幽默,网红"
     }
   ],
   "hotgov_list": [
