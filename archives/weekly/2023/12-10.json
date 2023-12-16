@@ -1,6 +1,6 @@
 {
   "startTime": 1702138848509,
-  "endTime": 1702721861079,
+  "endTime": 1702722849366,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -177,6 +177,14 @@
       "onboard_time": 1702296758,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3709804,
+      "num": 3709804,
+      "word": "六级卷子一股老人味",
+      "onboard_time": 1702722036,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 3671070,
@@ -1659,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1109620,
+      "num": 1109620,
+      "word": "六级阅读有Selena",
+      "onboard_time": 1702720782,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1105455,
       "num": 587327,
       "word": "学而思总裁回应挖董宇辉",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1702259671,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1021502,
-      "num": 1021502,
-      "word": "六级阅读有Selena",
-      "onboard_time": 1702720782,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 1019458,
@@ -1931,6 +1939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 959364,
+      "num": 500756,
+      "word": "主播天权希望网友别攻击孩子",
+      "onboard_time": 1702718261,
+      "rank": 14,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 959191,
       "num": 353510,
       "word": "天权致歉",
@@ -1955,12 +1971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 955627,
-      "num": 369732,
-      "word": "主播天权希望网友别攻击孩子",
-      "onboard_time": 1702718261,
-      "rank": 14,
-      "category": "互联网,社会新闻"
+      "raw_hot": 955874,
+      "num": 955874,
+      "word": "作文是跑题的 阅读是不会的",
+      "onboard_time": 1702722221,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 953564,
@@ -2377,6 +2393,14 @@
       "onboard_time": 1702176693,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842569,
+      "num": 842569,
+      "word": "鼠系帅哥",
+      "onboard_time": 1702721436,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 840608,
@@ -4588,7 +4612,7 @@
     },
     {
       "raw_hot": 497475,
-      "num": 361138,
+      "num": 400658,
       "word": "孟羽童曾称在格力月薪没过万",
       "onboard_time": 1702716095,
       "rank": 21,
@@ -5073,6 +5097,14 @@
       "onboard_time": 1702344098,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456215,
+      "num": 342009,
+      "word": "董宇辉还能若无其事的回归吗",
+      "onboard_time": 1702721800,
+      "rank": 36,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 455783,
@@ -5579,14 +5611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 418676,
-      "num": 418676,
-      "word": "鼠系帅哥",
-      "onboard_time": 1702721436,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 418349,
       "num": 418349,
       "word": "水鬼猖狂 切勿下水",
@@ -5769,6 +5793,14 @@
       "onboard_time": 1702251507,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 405878,
+      "num": 1835548,
+      "word": "外卖员大雪中送餐陌生人谎称顺路捎了他10公里",
+      "onboard_time": 1702717177,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405807,
@@ -6875,20 +6907,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 347089,
+      "num": 347089,
+      "word": "听力你就听吧",
+      "onboard_time": 1702722162,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 346396,
       "num": 346396,
       "word": "赵一博回家",
       "onboard_time": 1702511428,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346226,
-      "num": 1835548,
-      "word": "外卖员大雪中送餐陌生人谎称顺路捎了他10公里",
-      "onboard_time": 1702717177,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346025,
@@ -7297,6 +7329,14 @@
       "onboard_time": 1702435955,
       "rank": 19,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 329598,
+      "num": 329598,
+      "word": "陈梦3比0伊藤美诚",
+      "onboard_time": 1702722398,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 328947,
@@ -8064,6 +8104,14 @@
       "word": "张本美和凑近跟张本智和说话",
       "onboard_time": 1702204057,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 297045,
+      "num": 297045,
+      "word": "陈梦7战伊藤美诚全胜",
+      "onboard_time": 1702722516,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -10979,6 +11027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224559,
+      "num": 224559,
+      "word": "中国队第一晋级5000米接力决赛",
+      "onboard_time": 1702722098,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224482,
       "num": 608019,
       "word": "影帝萌兰示范中枪表演",
@@ -11097,6 +11153,14 @@
       "onboard_time": 1702509624,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 222614,
+      "num": 222614,
+      "word": "魏大勋撕名牌撕出表情包",
+      "onboard_time": 1702722705,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 222378,
@@ -11417,14 +11481,6 @@
       "onboard_time": 1702536633,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215857,
-      "num": 215857,
-      "word": "董宇辉还能若无其事的回归吗",
-      "onboard_time": 1702721800,
-      "rank": 36,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 215796,
@@ -11939,6 +11995,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 208297,
+      "num": 208297,
+      "word": "爱是常觉亏欠",
+      "onboard_time": 1702722456,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 207942,
       "num": 207942,
       "word": "地母系",
@@ -12313,6 +12377,14 @@
       "onboard_time": 1702368214,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204365,
+      "num": 186810,
+      "word": "董宇辉文采",
+      "onboard_time": 1702722036,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 203996,
@@ -14003,6 +14075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185660,
+      "num": 1632244,
+      "word": "美术老师雪地踩出2万平双龙戏珠",
+      "onboard_time": 1702720240,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185563,
       "num": 185563,
       "word": "河南下雪",
@@ -15297,14 +15377,6 @@
       "onboard_time": 1702126178,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167029,
-      "num": 1632244,
-      "word": "美术老师雪地踩出2万平双龙戏珠",
-      "onboard_time": 1702720240,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166569,
@@ -16819,6 +16891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142532,
+      "num": 1284495,
+      "word": "儿童高烧抽搐从电动车摔下特警抱起送医",
+      "onboard_time": 1702721199,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142503,
       "num": 142503,
       "word": "豌豆尖烧烤",
@@ -17393,14 +17473,6 @@
       "onboard_time": 1702685188,
       "rank": 45,
       "category": "母婴育儿,社会新闻"
-    },
-    {
-      "raw_hot": 131661,
-      "num": 1284495,
-      "word": "儿童高烧抽搐从电动车摔下特警抱起送医",
-      "onboard_time": 1702721199,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131616,
@@ -18500,7 +18572,7 @@
     },
     {
       "raw_hot": 86004,
-      "num": 2132564,
+      "num": 3235816,
       "word": "一到冬天便感受到祖国的辽阔",
       "onboard_time": 1702695273,
       "rank": 2,
@@ -19075,6 +19147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54855,
+      "num": 776120,
+      "word": "文咏珊把中国红穿在身上",
+      "onboard_time": 1702720181,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 53325,
       "num": 43430,
       "word": "喻言一巡收官",
@@ -19291,6 +19371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42388,
+      "num": 844200,
+      "word": "蛋仔派对果宝特攻大集结",
+      "onboard_time": 1702720837,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 42072,
       "num": 485585,
       "word": "这是她们生命的故事",
@@ -19377,14 +19465,6 @@
       "onboard_time": 1702555232,
       "rank": 14,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 35932,
-      "num": 570660,
-      "word": "文咏珊把中国红穿在身上",
-      "onboard_time": 1702720181,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 35792,
@@ -19657,14 +19737,6 @@
       "onboard_time": 1702145658,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24213,
-      "num": 844200,
-      "word": "蛋仔派对果宝特攻大集结",
-      "onboard_time": 1702720837,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 22634,
