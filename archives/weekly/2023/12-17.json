@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702762482716,
+  "endTime": 1702764958064,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -475,12 +475,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64277,
+      "num": 55997,
+      "word": "东方甄选事件谁动了谁的蛋糕",
+      "onboard_time": 1702760655,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 53715,
+      "num": 56275,
+      "word": "出生4天男婴肺出血急救遇大雪封路",
+      "onboard_time": 1702758794,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50693,
       "num": 50693,
       "word": "久坐不适一下就消失了",
       "onboard_time": 1702751478,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 49329,
+      "num": 40466,
+      "word": "董宇辉发文拥有暖评最多的评论区",
+      "onboard_time": 1702762753,
+      "rank": 21,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 38935,
@@ -491,28 +515,12 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 38118,
-      "num": 38118,
-      "word": "出生4天男婴肺出血急救遇大雪封路",
-      "onboard_time": 1702758794,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30995,
       "num": 31741,
       "word": "奔跑吧",
       "onboard_time": 1702757475,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30483,
-      "num": 30483,
-      "word": "东方甄选事件谁动了谁的蛋糕",
-      "onboard_time": 1702760655,
-      "rank": 40,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 28575,
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23660,
+      "num": 41298,
+      "word": "货车司机大雪天淋成雪人流泪感慨",
+      "onboard_time": 1702761553,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23317,
       "num": 23317,
       "word": "杜海涛主持星光大赏",
@@ -531,20 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17357,
-      "num": 21965,
+      "raw_hot": 17673,
+      "num": 25872,
       "word": "周深面刺宋亚轩",
       "onboard_time": 1702760714,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14551,
-      "num": 28369,
-      "word": "货车司机大雪天淋成雪人流泪感慨",
-      "onboard_time": 1702761553,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9919,
