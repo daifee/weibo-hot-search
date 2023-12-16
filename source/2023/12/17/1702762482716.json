@@ -1,0 +1,410 @@
+{
+  "runTime": 1702762482716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 159268,
+        "num": 159268,
+        "word": "罗永浩炮轰东方甄选",
+        "onboard_time": 1702733436,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 129865,
+        "num": 129865,
+        "word": "看小说时的生理反应",
+        "onboard_time": 1702738179,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12696,
+        "num": 118165,
+        "word": "自主研制飞机C919环绕香港岛做演示",
+        "onboard_time": 1702739018,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112692,
+        "num": 112692,
+        "word": "俞敏洪称天权失态让他愤怒",
+        "onboard_time": 1702738782,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 65902,
+        "num": 65902,
+        "word": "你们俩这么亲我就不困了",
+        "onboard_time": 1702734460,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48593,
+        "num": 48593,
+        "word": "罗永浩说俞敏洪董宇辉直播是昏招",
+        "onboard_time": 1702731100,
+        "rank": 5,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 41387,
+        "num": 41387,
+        "word": "谁能管管赵露思和王安宇",
+        "onboard_time": 1702740634,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40933,
+        "num": 40933,
+        "word": "张凌赫全开麦 一开口我人傻了",
+        "onboard_time": 1702740515,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38118,
+        "num": 38118,
+        "word": "出生4天男婴肺出血急救遇大雪封路",
+        "onboard_time": 1702758794,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31754,
+        "num": 37156,
+        "word": "六级卷子一股老人味",
+        "onboard_time": 1702722036,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95477,
+        "num": 37138,
+        "word": "文章39岁状态",
+        "onboard_time": 1702737159,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37118,
+        "num": 37118,
+        "word": "罗永浩说董宇辉拿走一半收益才公平",
+        "onboard_time": 1702735359,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 36530,
+        "num": 36530,
+        "word": "知情人称霍尊已在逐渐开展演出",
+        "onboard_time": 1702714777,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35628,
+        "num": 35628,
+        "word": "韩剧 淘宝进货",
+        "onboard_time": 1702742736,
+        "rank": 13,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 35353,
+        "num": 35353,
+        "word": "苏有朋演唱会嘉宾是林心如",
+        "onboard_time": 1702740697,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34991,
+        "num": 34991,
+        "word": "董宇辉孙东旭关系有时会紧张",
+        "onboard_time": 1702739978,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 31539,
+        "num": 31539,
+        "word": "董宇辉八年前旧照",
+        "onboard_time": 1702739560,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 30859,
+        "num": 30859,
+        "word": "陈飞宇我承认昨天太大声了",
+        "onboard_time": 1702729659,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25274,
+        "num": 30839,
+        "word": "病重妈妈用尽全力给儿子做了碗面",
+        "onboard_time": 1702743393,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19932,
+        "num": 30786,
+        "word": "萌兰拼命想翘一个二郎腿",
+        "onboard_time": 1702742373,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94774,
+        "num": 30719,
+        "word": "董宇辉 不理解大家为什么这么喜欢我",
+        "onboard_time": 1702727798,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 29135,
+        "num": 30654,
+        "word": "鹿晗回复古巨基",
+        "onboard_time": 1702739920,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40314,
+        "num": 30643,
+        "word": "董宇辉称小作文事件我的处理很幼稚",
+        "onboard_time": 1702727260,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 36275,
+        "num": 30589,
+        "word": "俞敏洪董宇辉合体直播",
+        "onboard_time": 1702725341,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 35770,
+        "num": 30496,
+        "word": "董宇辉在直播中道歉",
+        "onboard_time": 1702728761,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 30483,
+        "num": 30483,
+        "word": "东方甄选事件谁动了谁的蛋糕",
+        "onboard_time": 1702760655,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 29657,
+        "num": 29657,
+        "word": "胡歌 是我不想拍请不要骂人",
+        "onboard_time": 1702717056,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27890,
+        "num": 28753,
+        "word": "董宇辉曾试图挽留孙东旭",
+        "onboard_time": 1702729837,
+        "rank": 27,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 14551,
+        "num": 28369,
+        "word": "货车司机大雪天淋成雪人流泪感慨",
+        "onboard_time": 1702761553,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14253,
+        "num": 28335,
+        "word": "六级答案",
+        "onboard_time": 1702719702,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28308,
+        "num": 28308,
+        "word": "杨幂和30斤裙子度过一天",
+        "onboard_time": 1702742914,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28277,
+        "num": 28277,
+        "word": "董宇辉从没说过要离开东方甄选",
+        "onboard_time": 1702726480,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 28093,
+        "num": 28093,
+        "word": "罗永浩",
+        "onboard_time": 1702732836,
+        "rank": 32,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 27885,
+        "num": 27885,
+        "word": "东方甄选将大调整涉及主播薪资",
+        "onboard_time": 1702739018,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 27007,
+        "num": 27007,
+        "word": "董宇辉 真诚",
+        "onboard_time": 1702727798,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 26425,
+        "num": 26425,
+        "word": "在杭州带货哭了一晚上",
+        "onboard_time": 1702736436,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 24903,
+        "num": 24903,
+        "word": "久坐不适一下就消失了",
+        "onboard_time": 1702751478,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21972,
+        "num": 21972,
+        "word": "为什么女生一生气就不讲话",
+        "onboard_time": 1702737635,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20857,
+        "num": 21971,
+        "word": "电视剧脱轨",
+        "onboard_time": 1702732900,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10538,
+        "num": 21971,
+        "word": "曼城vs水晶宫",
+        "onboard_time": 1702739321,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19642,
+        "num": 21970,
+        "word": "宋江金裕贞吻戏",
+        "onboard_time": 1702739800,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19181,
+        "num": 21968,
+        "word": "方逸伦 于十三",
+        "onboard_time": 1702740399,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17906,
+        "num": 21968,
+        "word": "胡歌南海深潜捡回两块电池",
+        "onboard_time": 1702746024,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17587,
+        "num": 21966,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1702741714,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17357,
+        "num": 21965,
+        "word": "周深面刺宋亚轩",
+        "onboard_time": 1702760714,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17101,
+        "num": 21964,
+        "word": "李健脱毛衣",
+        "onboard_time": 1702740158,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17057,
+        "num": 21963,
+        "word": "宋雨琦小狗纹身",
+        "onboard_time": 1702732179,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16873,
+        "num": 21962,
+        "word": "猴鹿 以爱为营",
+        "onboard_time": 1702742015,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9919,
+        "num": 21960,
+        "word": "王霜亮相热刺主场",
+        "onboard_time": 1702761014,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9488,
+        "num": 21959,
+        "word": "考完四六级 悬着的心终于死了",
+        "onboard_time": 1702717718,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#解放思想创新求变向海图强开放发展#"
+    }
+  }
+}
