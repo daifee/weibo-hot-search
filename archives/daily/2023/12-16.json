@@ -1,6 +1,6 @@
 {
   "startTime": 1702657423630,
-  "endTime": 1702737238622,
+  "endTime": 1702739794436,
   "band_list": [
     {
       "raw_hot": 14014570,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3167591,
-      "num": 1107882,
+      "num": 1111248,
       "word": "罗永浩炮轰东方甄选",
       "onboard_time": 1702733436,
       "rank": 14,
@@ -161,6 +161,14 @@
       "onboard_time": 1702731100,
       "rank": 4,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 2080199,
+      "num": 510674,
+      "word": "文章39岁状态",
+      "onboard_time": 1702737159,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 2052212,
@@ -313,6 +321,14 @@
       "onboard_time": 1702635876,
       "rank": 10,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1235391,
+      "num": 1235391,
+      "word": "看小说时的生理反应",
+      "onboard_time": 1702738179,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1182661,
@@ -611,12 +627,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 675430,
+      "num": 501546,
+      "word": "俞敏洪称天权失态让他愤怒",
+      "onboard_time": 1702738782,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 657876,
       "num": 657876,
       "word": "咖啡店店员竟然是以前追的爱豆",
       "onboard_time": 1702692873,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 657839,
+      "num": 657839,
+      "word": "王星越哭了",
+      "onboard_time": 1702737215,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 639283,
@@ -673,6 +705,14 @@
       "onboard_time": 1702717177,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590277,
+      "num": 492648,
+      "word": "在杭州带货哭了一晚上",
+      "onboard_time": 1702736436,
+      "rank": 30,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 586187,
@@ -851,12 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 493435,
-      "num": 259750,
-      "word": "在杭州带货哭了一晚上",
-      "onboard_time": 1702736436,
-      "rank": 30,
-      "category": "情感,网红"
+      "raw_hot": 488485,
+      "num": 488485,
+      "word": "赵露思回应鞋底穿帮",
+      "onboard_time": 1702738303,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 483220,
@@ -905,6 +945,14 @@
       "onboard_time": 1702722516,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 459254,
+      "num": 459254,
+      "word": "钱昭 脱粉回踩",
+      "onboard_time": 1702737819,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 458918,
@@ -985,6 +1033,22 @@
       "onboard_time": 1702731878,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431319,
+      "num": 431319,
+      "word": "下雪了 该听陈楚生了",
+      "onboard_time": 1702738361,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 421610,
+      "num": 334214,
+      "word": "俞敏洪董宇辉直播总结",
+      "onboard_time": 1702739321,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 420717,
@@ -1083,11 +1147,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 392524,
+      "num": 392524,
+      "word": "为什么女生一生气就不讲话",
+      "onboard_time": 1702737635,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 389520,
       "num": 389520,
       "word": "商汤科技发布讣告",
       "onboard_time": 1702719035,
       "rank": 36,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 389463,
+      "num": 330765,
+      "word": "董宇辉八年前旧照",
+      "onboard_time": 1702739560,
+      "rank": 31,
       "category": "互联网,社会新闻"
     },
     {
@@ -1121,6 +1201,14 @@
       "onboard_time": 1702716998,
       "rank": 22,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 379091,
+      "num": 379091,
+      "word": "东方甄选将大调整涉及主播薪资",
+      "onboard_time": 1702739018,
+      "rank": 26,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 377121,
@@ -1240,6 +1328,14 @@
       "word": "董宇辉曾在直播间回应过收入问题",
       "onboard_time": 1702706561,
       "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 347426,
+      "num": 347426,
+      "word": "东方甄选主播摔手机后已将账号设私",
+      "onboard_time": 1702738117,
+      "rank": 27,
       "category": "互联网,社会新闻"
     },
     {
@@ -1384,6 +1480,14 @@
       "word": "董宇辉否认加盟京东",
       "onboard_time": 1702642057,
       "rank": 22,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 316302,
+      "num": 316302,
+      "word": "董宇辉说拿到过很多天价offer",
+      "onboard_time": 1702738837,
+      "rank": 34,
       "category": "互联网,社会新闻"
     },
     {
@@ -1747,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236457,
+      "num": 236457,
+      "word": "任如意 复仇线",
+      "onboard_time": 1702738235,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235759,
       "num": 235759,
       "word": "东方甄选员工谈董宇辉和孙东旭",
@@ -1833,6 +1945,14 @@
       "onboard_time": 1702731344,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228569,
+      "num": 228569,
+      "word": "王心凌皮裤",
+      "onboard_time": 1702737577,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 225485,
@@ -2107,14 +2227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203015,
-      "num": 203015,
-      "word": "文章39岁状态",
-      "onboard_time": 1702737159,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202617,
       "num": 202617,
       "word": "文俊辉直播",
@@ -2153,6 +2265,14 @@
       "onboard_time": 1702733858,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197190,
+      "num": 430982,
+      "word": "雅思组合晋级决赛",
+      "onboard_time": 1702739142,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 197161,
@@ -2241,14 +2361,6 @@
       "onboard_time": 1702729659,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192001,
-      "num": 192001,
-      "word": "王星越哭了",
-      "onboard_time": 1702737215,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 191912,
@@ -2627,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127904,
+      "num": 341896,
+      "word": "曼城vs水晶宫",
+      "onboard_time": 1702739321,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126223,
       "num": 126223,
       "word": "汾酒集团原董事长李秋喜去世",
@@ -2809,6 +2929,14 @@
       "onboard_time": 1702661961,
       "rank": 38,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 47643,
+      "num": 1135398,
+      "word": "自主研制飞机C919环绕香港岛做演示",
+      "onboard_time": 1702739018,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43620,
