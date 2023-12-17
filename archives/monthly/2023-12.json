@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702841632819,
+  "endTime": 1702844263265,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -46627,6 +46627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32848,
+      "num": 37149,
+      "word": "这押题让春晚导演汗流浃背了",
+      "onboard_time": 1702841115,
+      "rank": 34,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 32566,
       "num": 393333,
       "word": "苏慧伦Amber唱出暗恋酸涩感",
@@ -47009,14 +47017,6 @@
       "onboard_time": 1702145658,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24228,
-      "num": 37149,
-      "word": "这押题让春晚导演汗流浃背了",
-      "onboard_time": 1702841115,
-      "rank": 34,
-      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 24166,
