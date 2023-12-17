@@ -1,0 +1,410 @@
+{
+  "runTime": 1702812842587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6751167,
+        "num": 6751167,
+        "word": "迪丽热巴红毯迷路",
+        "onboard_time": 1702808322,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1870083,
+        "num": 1870083,
+        "word": "王一博没选红毯随便走",
+        "onboard_time": 1702809041,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29690,
+        "num": 1424300,
+        "word": "2023温暖中国的瞬间",
+        "onboard_time": 1702798536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394309,
+        "num": 1394309,
+        "word": "倪妮周雨彤撞衫",
+        "onboard_time": 1702805138,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314888,
+        "num": 1223190,
+        "word": "小女孩雪后擦去路边车辆上不雅留言",
+        "onboard_time": 1702809822,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090667,
+        "num": 1090667,
+        "word": "赵露思 鸟鸟做错了什么",
+        "onboard_time": 1702800697,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211345,
+        "num": 1015624,
+        "word": "男孩拾金不昧被大学生塞娃哈哈感谢",
+        "onboard_time": 1702806699,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967904,
+        "num": 967904,
+        "word": "宁远舟殉情",
+        "onboard_time": 1702809584,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474545,
+        "num": 474545,
+        "word": "马琳",
+        "onboard_time": 1702809882,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119329,
+        "num": 472945,
+        "word": "一句保护你让娃瞬间踏实到不吱声",
+        "onboard_time": 1702806636,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054914,
+        "num": 469028,
+        "word": "每天只睡5小时的小学生熬不动了",
+        "onboard_time": 1702805261,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943525,
+        "num": 463275,
+        "word": "迪丽热巴 芭比公主",
+        "onboard_time": 1702810722,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 926802,
+        "num": 460166,
+        "word": "杨紫 鎏金蝴蝶公主",
+        "onboard_time": 1702791331,
+        "rank": 12,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 822763,
+        "num": 454514,
+        "word": "张若昀小露香肩",
+        "onboard_time": 1702810426,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452276,
+        "num": 452276,
+        "word": "董宇辉称这一年被骂得也挺多",
+        "onboard_time": 1702810902,
+        "rank": 14,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 821136,
+        "num": 438655,
+        "word": "闵塔鲨",
+        "onboard_time": 1702811501,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813612,
+        "num": 436656,
+        "word": "唐嫣一个人走红毯",
+        "onboard_time": 1702805860,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 808304,
+        "num": 432826,
+        "word": "星光大赏",
+        "onboard_time": 1702811681,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419794,
+        "num": 419794,
+        "word": "孙颖莎王曼昱女双冠军",
+        "onboard_time": 1702809345,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377059,
+        "num": 377059,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1702811800,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46646,
+        "num": 373361,
+        "word": "今天的蛋搭子是肯爷爷",
+        "onboard_time": 1702811681,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 787191,
+        "num": 372828,
+        "word": "倪妮表白鸟鸟",
+        "onboard_time": 1702811622,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371119,
+        "num": 371119,
+        "word": "500米 重开6次",
+        "onboard_time": 1702807722,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253389,
+        "num": 253389,
+        "word": "原来选羽绒服这么复杂",
+        "onboard_time": 1702809168,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 253336,
+        "num": 253336,
+        "word": "黑龙江500多份幽灵档案被查",
+        "onboard_time": 1702807546,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658678,
+        "num": 247768,
+        "word": "星光大赏ie休息区",
+        "onboard_time": 1702797937,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595549,
+        "num": 245745,
+        "word": "张雨绮穿了陈采尼给杨紫换头的衣服",
+        "onboard_time": 1702808023,
+        "rank": 26,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 534628,
+        "num": 240762,
+        "word": "星光大赏红毯",
+        "onboard_time": 1702793854,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512962,
+        "num": 233751,
+        "word": "夭柳红毯情侣装",
+        "onboard_time": 1702802737,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229605,
+        "num": 229605,
+        "word": "WTT名古屋女子总决赛2023",
+        "onboard_time": 1702811861,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495127,
+        "num": 227635,
+        "word": "王鹤棣拉田曦薇手腕那一下",
+        "onboard_time": 1702800094,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454020,
+        "num": 225366,
+        "word": "景甜希腊女神妆",
+        "onboard_time": 1702801418,
+        "rank": 31,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 217268,
+        "num": 217268,
+        "word": "一个麻团的诞生",
+        "onboard_time": 1702811204,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214001,
+        "num": 214001,
+        "word": "疑似樊登回应东方甄选小作文风波",
+        "onboard_time": 1702807180,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 213908,
+        "num": 213908,
+        "word": "如果给你80万让你去参加恋综",
+        "onboard_time": 1702809403,
+        "rank": 34,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 386852,
+        "num": 213723,
+        "word": "宋茜 缪斯降临",
+        "onboard_time": 1702792651,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 380377,
+        "num": 210597,
+        "word": "赵露思森林秘境长裙",
+        "onboard_time": 1702806763,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369219,
+        "num": 208756,
+        "word": "星光大赏直播",
+        "onboard_time": 1702793493,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332073,
+        "num": 205159,
+        "word": "范丞丞扶张婧仪下车",
+        "onboard_time": 1702812164,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204067,
+        "num": 204067,
+        "word": "真正可能致癌的是这种鸡肉",
+        "onboard_time": 1702796134,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329090,
+        "num": 203982,
+        "word": "张若昀 星光大赏拿枪指着你拍的吗",
+        "onboard_time": 1702812701,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316888,
+        "num": 203892,
+        "word": "刘宇宁直播",
+        "onboard_time": 1702807302,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315967,
+        "num": 203884,
+        "word": "孟子义美甲掉了",
+        "onboard_time": 1702805261,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203795,
+        "num": 203795,
+        "word": "孙东旭年薪1800万为东方甄选最高员工",
+        "onboard_time": 1702790796,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 199894,
+        "num": 199894,
+        "word": "海贼王新系列动画",
+        "onboard_time": 1702811861,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177597,
+        "num": 177597,
+        "word": "妈妈去世前一晚满眼慈爱看熟睡儿子",
+        "onboard_time": 1702794934,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173012,
+        "num": 173012,
+        "word": "孙颖莎4比1陈梦",
+        "onboard_time": 1702798175,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158353,
+        "num": 172466,
+        "word": "陈幸同 中场看手机",
+        "onboard_time": 1702803877,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158072,
+        "num": 171926,
+        "word": "老师 今天怎么没来上学啊",
+        "onboard_time": 1702810902,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118822,
+        "num": 170440,
+        "word": "南方人终于向羽绒服低头了",
+        "onboard_time": 1702790732,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这一内外联动的行程有深意#"
+    }
+  }
+}
