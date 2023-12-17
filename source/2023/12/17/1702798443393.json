@@ -1,0 +1,410 @@
+{
+  "runTime": 1702798443393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2052132,
+        "num": 2052132,
+        "word": "老师 我们家迪丽热巴呢",
+        "onboard_time": 1702793672,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1287503,
+        "num": 1287503,
+        "word": "星光大赏红毯",
+        "onboard_time": 1702793854,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9394,
+        "num": 1191435,
+        "word": "壮美雪景似画如歌令人沉醉",
+        "onboard_time": 1702798234,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171861,
+        "num": 1171861,
+        "word": "妈妈去世前一晚满眼慈爱看熟睡儿子",
+        "onboard_time": 1702794934,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130473,
+        "num": 1130473,
+        "word": "王鹤棣 金发太子爷",
+        "onboard_time": 1702796800,
+        "rank": 4,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 1010596,
+        "num": 1010596,
+        "word": "杨紫 鎏金蝴蝶公主",
+        "onboard_time": 1702791331,
+        "rank": 5,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 686475,
+        "num": 686475,
+        "word": "唐嫣这次造型好美",
+        "onboard_time": 1702794693,
+        "rank": 6,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 613378,
+        "num": 613378,
+        "word": "南方人终于向羽绒服低头了",
+        "onboard_time": 1702790732,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546589,
+        "num": 546589,
+        "word": "男子裸聊被敲诈走投无路向妻子坦白",
+        "onboard_time": 1702795230,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474906,
+        "num": 474906,
+        "word": "孙颖莎4比1陈梦",
+        "onboard_time": 1702798175,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 643482,
+        "num": 474692,
+        "word": "星光大赏ie休息区",
+        "onboard_time": 1702797937,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564305,
+        "num": 474496,
+        "word": "鸟鸟主持",
+        "onboard_time": 1702797397,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490859,
+        "num": 474222,
+        "word": "杨紫妆造花絮",
+        "onboard_time": 1702797516,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473833,
+        "num": 473833,
+        "word": "孙东旭年薪1800万为东方甄选最高员工",
+        "onboard_time": 1702790796,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 435293,
+        "num": 464611,
+        "word": "孙颖莎vs陈梦",
+        "onboard_time": 1702795774,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481409,
+        "num": 464603,
+        "word": "王一博棒球帽卷发",
+        "onboard_time": 1702797274,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464389,
+        "num": 464389,
+        "word": "男班主任酒后查寝猥亵女学生被行拘",
+        "onboard_time": 1702796556,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 463057,
+        "num": 463057,
+        "word": "何炅 刘诗诗是综艺新人",
+        "onboard_time": 1702794574,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371891,
+        "num": 371891,
+        "word": "婚纱照销毁师9个月销毁450套照片",
+        "onboard_time": 1702792114,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356144,
+        "num": 356144,
+        "word": "前员工称董宇辉孙东旭没有直接矛盾",
+        "onboard_time": 1702795714,
+        "rank": 19,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 741374,
+        "num": 356111,
+        "word": "董明珠孟羽童 认知鸿沟",
+        "onboard_time": 1702792955,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 466329,
+        "num": 356104,
+        "word": "孟羽童仅一年广告收入或达400万",
+        "onboard_time": 1702787312,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 460227,
+        "num": 356071,
+        "word": "狂飙 世纪大和解",
+        "onboard_time": 1702786471,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 754270,
+        "num": 356038,
+        "word": "董宇辉错失了20亿吗",
+        "onboard_time": 1702786531,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 72648,
+        "num": 355987,
+        "word": "寒潮天气安全提示",
+        "onboard_time": 1702785330,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414357,
+        "num": 355964,
+        "word": "星光大赏直播",
+        "onboard_time": 1702793493,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393815,
+        "num": 355927,
+        "word": "宋茜 缪斯降临",
+        "onboard_time": 1702792651,
+        "rank": 26,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 373090,
+        "num": 355884,
+        "word": "田曦薇 名伶起舞",
+        "onboard_time": 1702788632,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360138,
+        "num": 355858,
+        "word": "星光大赏明星出发图",
+        "onboard_time": 1702791511,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355846,
+        "num": 355846,
+        "word": "网约车为什么总是臭臭的",
+        "onboard_time": 1702787852,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 329578,
+        "num": 329578,
+        "word": "真正可能致癌的是这种鸡肉",
+        "onboard_time": 1702796134,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327566,
+        "num": 327566,
+        "word": "猪奶为什么没有人喝",
+        "onboard_time": 1702790796,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 323408,
+        "num": 323408,
+        "word": "妈妈因妹妹发烧未及时接姐姐而自责",
+        "onboard_time": 1702796733,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305916,
+        "num": 305916,
+        "word": "王艺迪女单晋级决赛",
+        "onboard_time": 1702798175,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299366,
+        "num": 299366,
+        "word": "白敬亭 一晚上演出了场连续剧",
+        "onboard_time": 1702797216,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277847,
+        "num": 277847,
+        "word": "东方甄选CFO发声",
+        "onboard_time": 1702782995,
+        "rank": 35,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 274041,
+        "num": 274041,
+        "word": "国家卫健委新闻发布会",
+        "onboard_time": 1702797874,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273203,
+        "num": 273203,
+        "word": "许绍雄嫁女",
+        "onboard_time": 1702789414,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272630,
+        "num": 272630,
+        "word": "星光大赏饿不着",
+        "onboard_time": 1702792833,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260430,
+        "num": 260430,
+        "word": "张雨绮裙子上有500片羽毛",
+        "onboard_time": 1702795292,
+        "rank": 39,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 251319,
+        "num": 251319,
+        "word": "星光大赏宣传海报",
+        "onboard_time": 1702788272,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246254,
+        "num": 246254,
+        "word": "北京一居民花10万买高15米大恐龙",
+        "onboard_time": 1702778432,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227422,
+        "num": 227422,
+        "word": "宣萱欧阳震华参加婚礼红包忘车上",
+        "onboard_time": 1702798175,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224090,
+        "num": 224090,
+        "word": "杰哥 我的票呢",
+        "onboard_time": 1702790431,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220005,
+        "num": 220005,
+        "word": "星光大赏节目单",
+        "onboard_time": 1702781673,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199735,
+        "num": 199735,
+        "word": "庆怜踩行李箱走红毯",
+        "onboard_time": 1702798057,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196655,
+        "num": 196655,
+        "word": "铁蔷薇 销号",
+        "onboard_time": 1702794574,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182148,
+        "num": 182148,
+        "word": "董宇辉称只误接一个挖人电话",
+        "onboard_time": 1702776691,
+        "rank": 47,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 172145,
+        "num": 172145,
+        "word": "短道速滑",
+        "onboard_time": 1702796614,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167305,
+        "num": 167305,
+        "word": "王栎鑫在娱乐圈是有点人脉的",
+        "onboard_time": 1702795473,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国改革开放的信心和意志都不会动摇#"
+    }
+  }
+}

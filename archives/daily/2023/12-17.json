@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702797372327,
+  "endTime": 1702798443393,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1456806,
-      "num": 277038,
+      "num": 356104,
       "word": "孟羽童仅一年广告收入或达400万",
       "onboard_time": 1702787312,
       "rank": 21,
@@ -91,12 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1220530,
-      "num": 808999,
+      "raw_hot": 1287503,
+      "num": 1287503,
       "word": "星光大赏红毯",
       "onboard_time": 1702793854,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1171861,
+      "num": 1171861,
+      "word": "妈妈去世前一晚满眼慈爱看熟睡儿子",
+      "onboard_time": 1702794934,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1133141,
@@ -105,6 +113,14 @@
       "onboard_time": 1702737159,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1130473,
+      "num": 1130473,
+      "word": "王鹤棣 金发太子爷",
+      "onboard_time": 1702796800,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1110998,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 902893,
-      "num": 289387,
+      "num": 356111,
       "word": "董明珠孟羽童 认知鸿沟",
       "onboard_time": 1702792955,
       "rank": 30,
@@ -225,14 +241,6 @@
       "onboard_time": 1702740634,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 805188,
-      "num": 805188,
-      "word": "妈妈去世前一晚满眼慈爱看熟睡儿子",
-      "onboard_time": 1702794934,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 791838,
@@ -283,6 +291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 686475,
+      "num": 686475,
+      "word": "唐嫣这次造型好美",
+      "onboard_time": 1702794693,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 673979,
       "num": 288504,
       "word": "30岁女子怀胎九月和六旬老伯结婚",
@@ -299,8 +315,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 643482,
+      "num": 474692,
+      "word": "星光大赏ie休息区",
+      "onboard_time": 1702797937,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 637096,
-      "num": 243185,
+      "num": 272630,
       "word": "星光大赏饿不着",
       "onboard_time": 1702792833,
       "rank": 17,
@@ -324,18 +348,10 @@
     },
     {
       "raw_hot": 595543,
-      "num": 120504,
+      "num": 355927,
       "word": "宋茜 缪斯降临",
       "onboard_time": 1702792651,
       "rank": 47,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 591439,
-      "num": 539634,
-      "word": "唐嫣这次造型好美",
-      "onboard_time": 1702794693,
-      "rank": 34,
       "category": "作品衍生"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1702788632,
       "rank": 5,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 564305,
+      "num": 474496,
+      "word": "鸟鸟主持",
+      "onboard_time": 1702797397,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 559855,
@@ -393,6 +417,14 @@
       "onboard_time": 1702772427,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 546589,
+      "num": 546589,
+      "word": "男子裸聊被敲诈走投无路向妻子坦白",
+      "onboard_time": 1702795230,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535330,
@@ -467,12 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494080,
-      "num": 494080,
-      "word": "男子裸聊被敲诈走投无路向妻子坦白",
-      "onboard_time": 1702795230,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 490859,
+      "num": 474222,
+      "word": "杨紫妆造花絮",
+      "onboard_time": 1702797516,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 481409,
+      "num": 464603,
+      "word": "王一博棒球帽卷发",
+      "onboard_time": 1702797274,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 476829,
@@ -481,6 +521,14 @@
       "onboard_time": 1702790431,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 474906,
+      "num": 474906,
+      "word": "孙颖莎4比1陈梦",
+      "onboard_time": 1702798175,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 471869,
@@ -497,6 +545,14 @@
       "onboard_time": 1702729659,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 464389,
+      "num": 464389,
+      "word": "男班主任酒后查寝猥亵女学生被行拘",
+      "onboard_time": 1702796556,
+      "rank": 18,
+      "category": "社会负面"
     },
     {
       "raw_hot": 460982,
@@ -611,14 +667,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 367206,
-      "num": 367206,
-      "word": "王鹤棣 金发太子爷",
-      "onboard_time": 1702796800,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 363298,
       "num": 363298,
       "word": "王安宇耳骨钉",
@@ -632,6 +680,14 @@
       "word": "罗永浩说俞敏洪董宇辉直播是昏招",
       "onboard_time": 1702731100,
       "rank": 26,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 356144,
+      "num": 356144,
+      "word": "前员工称董宇辉孙东旭没有直接矛盾",
+      "onboard_time": 1702795714,
+      "rank": 16,
       "category": "互联网,社会新闻"
     },
     {
@@ -683,12 +739,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329019,
-      "num": 329019,
-      "word": "前员工称董宇辉孙东旭没有直接矛盾",
-      "onboard_time": 1702795714,
-      "rank": 16,
-      "category": "互联网,社会新闻"
+      "raw_hot": 329578,
+      "num": 329578,
+      "word": "真正可能致癌的是这种鸡肉",
+      "onboard_time": 1702796134,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324382,
@@ -699,6 +755,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 323408,
+      "num": 323408,
+      "word": "妈妈因妹妹发烧未及时接姐姐而自责",
+      "onboard_time": 1702796733,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315927,
       "num": 314218,
       "word": "东方甄选事件谁动了谁的蛋糕",
@@ -707,20 +771,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 309255,
-      "num": 274400,
-      "word": "真正可能致癌的是这种鸡肉",
-      "onboard_time": 1702796134,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307246,
-      "num": 307246,
-      "word": "男班主任酒后查寝猥亵女学生被行拘",
-      "onboard_time": 1702796556,
-      "rank": 18,
-      "category": "社会负面"
+      "raw_hot": 305916,
+      "num": 305916,
+      "word": "王艺迪女单晋级决赛",
+      "onboard_time": 1702798175,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 300447,
@@ -737,6 +793,14 @@
       "onboard_time": 1702726480,
       "rank": 24,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 299366,
+      "num": 299366,
+      "word": "白敬亭 一晚上演出了场连续剧",
+      "onboard_time": 1702797216,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 293767,
@@ -803,6 +867,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 274041,
+      "num": 274041,
+      "word": "国家卫健委新闻发布会",
+      "onboard_time": 1702797874,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273309,
       "num": 273309,
       "word": "罗永浩说董宇辉拿走一半收益才公平",
@@ -833,6 +905,14 @@
       "onboard_time": 1702780412,
       "rank": 27,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 260430,
+      "num": 260430,
+      "word": "张雨绮裙子上有500片羽毛",
+      "onboard_time": 1702795292,
+      "rank": 39,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 256345,
@@ -921,6 +1001,14 @@
       "onboard_time": 1702793913,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227422,
+      "num": 227422,
+      "word": "宣萱欧阳震华参加婚礼红包忘车上",
+      "onboard_time": 1702798175,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 222802,
@@ -1041,6 +1129,14 @@
       "onboard_time": 1702738837,
       "rank": 44,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 199735,
+      "num": 199735,
+      "word": "庆怜踩行李箱走红毯",
+      "onboard_time": 1702798057,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 196032,
@@ -1291,14 +1387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162711,
-      "num": 162711,
-      "word": "妈妈因妹妹发烧未及时接姐姐而自责",
-      "onboard_time": 1702796733,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161598,
       "num": 161598,
       "word": "马嘉祺收获关键词是成长",
@@ -1499,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137004,
-      "num": 137004,
-      "word": "白敬亭 一晚上演出了场连续剧",
-      "onboard_time": 1702797216,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134222,
       "num": 134222,
       "word": "王安宇卷发",
@@ -1601,14 +1681,6 @@
       "onboard_time": 1702762753,
       "rank": 21,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 117180,
-      "num": 117180,
-      "word": "王一博棒球帽卷发",
-      "onboard_time": 1702797274,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 112730,
@@ -1817,6 +1889,14 @@
       "onboard_time": 1702761014,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9394,
+      "num": 1191435,
+      "word": "壮美雪景似画如歌令人沉醉",
+      "onboard_time": 1702798234,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
