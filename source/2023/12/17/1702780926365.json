@@ -1,0 +1,410 @@
+{
+  "runTime": 1702780926365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379398,
+        "num": 1379398,
+        "word": "陈赫鹿晗跳科目三",
+        "onboard_time": 1702780112,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 947993,
+        "num": 947993,
+        "word": "北京一居民花10万买高15米大恐龙",
+        "onboard_time": 1702778432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55611,
+        "num": 739455,
+        "word": "自主研制飞机C919环绕香港岛做演示",
+        "onboard_time": 1702739018,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2131020,
+        "num": 692730,
+        "word": "董宇辉称只误接一个挖人电话",
+        "onboard_time": 1702776691,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 533773,
+        "num": 533773,
+        "word": "赵丽颖不出席跨年活动",
+        "onboard_time": 1702779153,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482534,
+        "num": 482534,
+        "word": "刘诗诗说一念关山不是古偶",
+        "onboard_time": 1702772427,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576741,
+        "num": 467592,
+        "word": "东方甄选恢复直播位列带货总榜第一",
+        "onboard_time": 1702778731,
+        "rank": 6,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 429499,
+        "num": 429499,
+        "word": "丈夫去世7名好友帮照顾家庭6年",
+        "onboard_time": 1702768999,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421840,
+        "num": 421840,
+        "word": "杨幂和30斤裙子度过一天",
+        "onboard_time": 1702742914,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374398,
+        "num": 374398,
+        "word": "乌克兰或在明年3月前破产",
+        "onboard_time": 1702769662,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 675956,
+        "num": 364871,
+        "word": "看小说时的生理反应",
+        "onboard_time": 1702738179,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 510542,
+        "num": 363318,
+        "word": "文章39岁状态",
+        "onboard_time": 1702737159,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344586,
+        "num": 344586,
+        "word": "你们俩这么亲我就不困了",
+        "onboard_time": 1702734460,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337404,
+        "num": 337404,
+        "word": "董宇辉若想创业俞敏洪愿意投资",
+        "onboard_time": 1702780650,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 286277,
+        "num": 286277,
+        "word": "花了两块钱推了四站地",
+        "onboard_time": 1702779751,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282956,
+        "num": 282956,
+        "word": "考研人去考了六级",
+        "onboard_time": 1702780773,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308170,
+        "num": 280044,
+        "word": "俞敏洪称孙东旭还能参加公司沟通发展",
+        "onboard_time": 1702774348,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 271463,
+        "num": 271463,
+        "word": "为什么女生一生气就不讲话",
+        "onboard_time": 1702737635,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269237,
+        "num": 269237,
+        "word": "韩剧 淘宝进货",
+        "onboard_time": 1702742736,
+        "rank": 18,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 259731,
+        "num": 259731,
+        "word": "谁能管管赵露思和王安宇",
+        "onboard_time": 1702740634,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1088036,
+        "num": 258837,
+        "word": "女子遭丈夫打断腰椎住院后被砍数刀",
+        "onboard_time": 1702767676,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585170,
+        "num": 256014,
+        "word": "30岁女子怀胎九月和六旬老伯结婚",
+        "onboard_time": 1702775192,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355499,
+        "num": 254534,
+        "word": "俞敏洪称天权失态让他愤怒",
+        "onboard_time": 1702738782,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 299067,
+        "num": 251079,
+        "word": "突然明白什么叫阴阳割昏晓",
+        "onboard_time": 1702777171,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250273,
+        "num": 250273,
+        "word": "张凌赫全开麦 一开口我人傻了",
+        "onboard_time": 1702740515,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290959,
+        "num": 238380,
+        "word": "没谈过恋爱就开始被催婚了",
+        "onboard_time": 1702776333,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282819,
+        "num": 233779,
+        "word": "原来平安夜送苹果是国内习俗",
+        "onboard_time": 1702771765,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264590,
+        "num": 231985,
+        "word": "罗永浩说要正确理解士为知己者死",
+        "onboard_time": 1702780412,
+        "rank": 27,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 216799,
+        "num": 216799,
+        "word": "以军误杀3名以色列人细节曝光",
+        "onboard_time": 1702771646,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 194783,
+        "num": 194783,
+        "word": "曹县设计师说汉服不输奢侈品大牌",
+        "onboard_time": 1702780112,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237024,
+        "num": 193172,
+        "word": "董宇辉事件",
+        "onboard_time": 1702777230,
+        "rank": 30,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 231894,
+        "num": 189726,
+        "word": "东方甄选小作文事件为何成国民话题",
+        "onboard_time": 1702780773,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 183828,
+        "num": 183828,
+        "word": "花儿与少年",
+        "onboard_time": 1702777112,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218737,
+        "num": 180646,
+        "word": "董宇辉 士为知己者死",
+        "onboard_time": 1702770864,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 176652,
+        "num": 176652,
+        "word": "SEVENTEEN不想哭路灯下面都空了",
+        "onboard_time": 1702776570,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170794,
+        "num": 170794,
+        "word": "毛不易 真是一场酣畅淋漓的学习啊",
+        "onboard_time": 1702778010,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169421,
+        "num": 169421,
+        "word": "蔚来直播",
+        "onboard_time": 1702779691,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 166141,
+        "num": 166141,
+        "word": "俞敏洪正策划带董宇辉去国外直播",
+        "onboard_time": 1702772308,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 165308,
+        "num": 165308,
+        "word": "蔬菜跌出了白菜价",
+        "onboard_time": 1702779392,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163776,
+        "num": 163776,
+        "word": "电视剧脱轨",
+        "onboard_time": 1702778615,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165006,
+        "num": 163589,
+        "word": "董宇辉 不理解大家为什么这么喜欢我",
+        "onboard_time": 1702727798,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 161423,
+        "num": 161423,
+        "word": "李健脱毛衣",
+        "onboard_time": 1702740158,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160732,
+        "num": 160732,
+        "word": "苏有朋演唱会嘉宾是林心如",
+        "onboard_time": 1702740697,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155635,
+        "num": 155635,
+        "word": "六级卷子一股老人味",
+        "onboard_time": 1702722036,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150644,
+        "num": 150644,
+        "word": "情绪稳定 倒霉惯了",
+        "onboard_time": 1702779333,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148622,
+        "num": 148622,
+        "word": "盘点2023",
+        "onboard_time": 1702780716,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145665,
+        "num": 145665,
+        "word": "刘浩存哭戏",
+        "onboard_time": 1702775430,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141633,
+        "num": 141633,
+        "word": "俞敏洪董宇辉合体直播",
+        "onboard_time": 1702725341,
+        "rank": 47,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 136541,
+        "num": 136541,
+        "word": "看得出薛之谦真的很冷",
+        "onboard_time": 1702771284,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130232,
+        "num": 130232,
+        "word": "鹿晗回复古巨基",
+        "onboard_time": 1702739920,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这一内外联动的行程有深意#"
+    }
+  }
+}
