@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702776052691,
+  "endTime": 1702777306874,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -11,20 +11,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1641798,
+      "num": 432092,
+      "word": "女子遭丈夫打断腰椎住院后被砍数刀",
+      "onboard_time": 1702767676,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1477624,
       "num": 1477624,
       "word": "罗永浩炮轰东方甄选",
       "onboard_time": 1702733436,
       "rank": 1,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1400571,
-      "num": 432092,
-      "word": "女子遭丈夫打断腰椎住院后被砍数刀",
-      "onboard_time": 1702767676,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1133141,
@@ -75,6 +75,14 @@
       "category": "作品衍生,互联网"
     },
     {
+      "raw_hot": 832618,
+      "num": 355024,
+      "word": "董宇辉称只误接一个挖人电话",
+      "onboard_time": 1702776691,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 807515,
       "num": 807515,
       "word": "谁能管管赵露思和王安宇",
@@ -97,6 +105,14 @@
       "onboard_time": 1702769662,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 673979,
+      "num": 232321,
+      "word": "30岁女子怀胎九月和六旬老伯结婚",
+      "onboard_time": 1702775192,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 668538,
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 578654,
-      "num": 232321,
-      "word": "30岁女子怀胎九月和六旬老伯结婚",
-      "onboard_time": 1702775192,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 559855,
       "num": 559855,
       "word": "丈夫去世7名好友帮照顾家庭6年",
@@ -155,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 525620,
+      "num": 525620,
+      "word": "刘诗诗说一念关山不是古偶",
+      "onboard_time": 1702772427,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 506480,
       "num": 348910,
       "word": "俞敏洪董宇辉合体直播",
@@ -171,14 +187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 463407,
-      "num": 463407,
-      "word": "刘诗诗说一念关山不是古偶",
-      "onboard_time": 1702772427,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 447258,
       "num": 447258,
       "word": "董宇辉八年前旧照",
@@ -193,6 +201,14 @@
       "onboard_time": 1702740697,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 425613,
+      "num": 425613,
+      "word": "董宇辉粉丝突破2000万",
+      "onboard_time": 1702775549,
+      "rank": 19,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 395215,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 375363,
-      "num": 305977,
+      "num": 337233,
       "word": "俞敏洪称孙东旭还能参加公司沟通发展",
       "onboard_time": 1702774348,
       "rank": 13,
@@ -251,12 +267,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 324382,
+      "num": 222627,
+      "word": "董宇辉事件",
+      "onboard_time": 1702777230,
+      "rank": 24,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 315927,
       "num": 314218,
       "word": "东方甄选事件谁动了谁的蛋糕",
       "onboard_time": 1702760655,
       "rank": 40,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 310370,
+      "num": 310370,
+      "word": "为什么女生一生气就不讲话",
+      "onboard_time": 1702737635,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 299865,
@@ -307,20 +339,20 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 270346,
-      "num": 244756,
-      "word": "为什么女生一生气就不讲话",
-      "onboard_time": 1702737635,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 270172,
       "num": 270172,
       "word": "钱昭 脱粉回踩",
       "onboard_time": 1702737819,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267605,
+      "num": 223113,
+      "word": "没谈过恋爱就开始被催婚了",
+      "onboard_time": 1702776333,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 266433,
@@ -345,14 +377,6 @@
       "onboard_time": 1702771765,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236737,
-      "num": 236737,
-      "word": "董宇辉粉丝突破2000万",
-      "onboard_time": 1702775549,
-      "rank": 19,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 222802,
@@ -451,8 +475,8 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 187084,
-      "num": 187084,
+      "raw_hot": 187608,
+      "num": 187608,
       "word": "看得出薛之谦真的很冷",
       "onboard_time": 1702771284,
       "rank": 31,
@@ -467,6 +491,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175025,
+      "num": 175025,
+      "word": "突然明白什么叫阴阳割昏晓",
+      "onboard_time": 1702777171,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 171273,
+      "num": 171273,
+      "word": "刘浩存哭戏",
+      "onboard_time": 1702775430,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166181,
+      "num": 166181,
+      "word": "SEVENTEEN不想哭路灯下面都空了",
+      "onboard_time": 1702776570,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163671,
       "num": 163671,
       "word": "没有发缝的双麻花辫教程",
@@ -475,20 +523,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 161016,
-      "num": 161016,
-      "word": "刘浩存哭戏",
-      "onboard_time": 1702775430,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 156670,
-      "num": 156670,
+      "raw_hot": 161441,
+      "num": 161441,
       "word": "赵露思 掌声嘘声都胜过无声",
       "onboard_time": 1702774050,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155398,
+      "num": 204893,
+      "word": "高校为千名考研贫困生悄悄打钱",
+      "onboard_time": 1702773807,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 155027,
@@ -507,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152716,
+      "num": 152716,
+      "word": "花儿与少年",
+      "onboard_time": 1702777112,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149393,
       "num": 234233,
       "word": "病重妈妈用尽全力给儿子做了碗面",
@@ -521,6 +577,22 @@
       "onboard_time": 1702741657,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143681,
+      "num": 166224,
+      "word": "六级听力 估分",
+      "onboard_time": 1702773208,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 143322,
+      "num": 143322,
+      "word": "恋爱中很多忠诚是演",
+      "onboard_time": 1702775790,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 141300,
@@ -539,14 +611,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 139651,
-      "num": 192237,
-      "word": "高校为千名考研贫困生悄悄打钱",
-      "onboard_time": 1702773807,
-      "rank": 29,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 139351,
       "num": 139351,
       "word": "胡歌南海深潜捡回两块电池",
@@ -555,28 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138241,
-      "num": 160096,
-      "word": "六级听力 估分",
-      "onboard_time": 1702773208,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 135238,
       "num": 135238,
       "word": "电视剧脱轨",
       "onboard_time": 1702732900,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133140,
-      "num": 133140,
-      "word": "恋爱中很多忠诚是演",
-      "onboard_time": 1702775790,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 125414,
@@ -617,6 +665,14 @@
       "onboard_time": 1702772607,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104384,
+      "num": 141107,
+      "word": "大学生划龙舟救下落水女子",
+      "onboard_time": 1702777171,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93742,
