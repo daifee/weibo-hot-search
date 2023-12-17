@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702784068513,
+  "endTime": 1702786875354,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -25,6 +25,14 @@
       "onboard_time": 1702767676,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1544547,
+      "num": 1544547,
+      "word": "东方甄选CFO发声",
+      "onboard_time": 1702782995,
+      "rank": 13,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1477624,
@@ -83,14 +91,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1035872,
-      "num": 1035872,
-      "word": "东方甄选CFO发声",
-      "onboard_time": 1702782995,
-      "rank": 13,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 1028033,
       "num": 376322,
       "word": "董宇辉 不理解大家为什么这么喜欢我",
@@ -103,6 +103,14 @@
       "num": 897517,
       "word": "董宇辉曾试图挽留孙东旭",
       "onboard_time": 1702729837,
+      "rank": 4,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 862717,
+      "num": 862717,
+      "word": "蛋黄酥线上平台销量暴涨十倍",
+      "onboard_time": 1702781250,
       "rank": 4,
       "category": "互联网,社会新闻"
     },
@@ -123,14 +131,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 822051,
-      "num": 770010,
-      "word": "蛋黄酥线上平台销量暴涨十倍",
-      "onboard_time": 1702781250,
-      "rank": 4,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 807515,
       "num": 807515,
       "word": "谁能管管赵露思和王安宇",
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 699855,
+      "num": 699855,
+      "word": "法老的宠妃 银发的公主",
+      "onboard_time": 1702784491,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 690744,
       "num": 690744,
       "word": "乌克兰或在明年3月前破产",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 673979,
-      "num": 260951,
+      "num": 288504,
       "word": "30岁女子怀胎九月和六旬老伯结婚",
       "onboard_time": 1702775192,
       "rank": 21,
@@ -235,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 522804,
+      "num": 522804,
+      "word": "溜溜梅立牌",
+      "onboard_time": 1702782333,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 506480,
       "num": 348910,
       "word": "俞敏洪董宇辉合体直播",
@@ -251,20 +267,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 501977,
-      "num": 501977,
-      "word": "溜溜梅立牌",
-      "onboard_time": 1702782333,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 465887,
       "num": 465887,
       "word": "陈飞宇我承认昨天太大声了",
       "onboard_time": 1702729659,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 465483,
+      "num": 365943,
+      "word": "狂飙 世纪大和解",
+      "onboard_time": 1702786471,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 460982,
+      "num": 460982,
+      "word": "景甜藕粉妆",
+      "onboard_time": 1702786830,
+      "rank": 8,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 447258,
@@ -281,6 +305,14 @@
       "onboard_time": 1702740697,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 427878,
+      "num": 182265,
+      "word": "董宇辉错失了20亿吗",
+      "onboard_time": 1702786531,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 425613,
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 405038,
-      "num": 237800,
+      "num": 291754,
       "word": "东方甄选一夜涨粉8.3万",
       "onboard_time": 1702782872,
       "rank": 33,
@@ -331,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387965,
+      "num": 176734,
+      "word": "东方小孙 旧经验指导创新",
+      "onboard_time": 1702785572,
+      "rank": 33,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 380395,
       "num": 380395,
       "word": "李健脱毛衣",
@@ -345,6 +385,14 @@
       "onboard_time": 1702774348,
       "rank": 13,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 363298,
+      "num": 363298,
+      "word": "王安宇耳骨钉",
+      "onboard_time": 1702785091,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 357375,
@@ -499,6 +547,22 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 247198,
+      "num": 247198,
+      "word": "宋雨琦一个人14分",
+      "onboard_time": 1702784728,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234880,
+      "num": 294688,
+      "word": "顾客吐槽火锅里吃出生锈小刀",
+      "onboard_time": 1702785330,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231894,
       "num": 189726,
       "word": "东方甄选小作文事件为何成国民话题",
@@ -568,6 +632,14 @@
       "word": "刘诗诗秒猜杨幂",
       "onboard_time": 1702736197,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209267,
+      "num": 209267,
+      "word": "杜华挖人挖到一级运动员",
+      "onboard_time": 1702784669,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -659,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183369,
+      "num": 183369,
+      "word": "五哈",
+      "onboard_time": 1702783952,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181380,
       "num": 181380,
       "word": "蔚来直播",
@@ -673,6 +753,14 @@
       "onboard_time": 1702776570,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176757,
+      "num": 176757,
+      "word": "王栎鑫俞灏明 一生中最爱",
+      "onboard_time": 1702786471,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 176139,
@@ -691,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173960,
+      "num": 173960,
+      "word": "花少鬼畜 克罗地亚狂想曲",
+      "onboard_time": 1702784909,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171273,
       "num": 171273,
       "word": "刘浩存哭戏",
@@ -699,11 +795,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170045,
+      "num": 170045,
+      "word": "孙楠回复陈楚生",
+      "onboard_time": 1702784491,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168885,
       "num": 168885,
       "word": "一念关山",
       "onboard_time": 1702783232,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168424,
+      "num": 168424,
+      "word": "有雷鸣我四六级早过了",
+      "onboard_time": 1702785752,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -739,6 +851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156976,
+      "num": 156976,
+      "word": "为什么越到考试我越放松",
+      "onboard_time": 1702784009,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156420,
+      "num": 153368,
+      "word": "郑钧毫不吝啬对马頔的宠爱",
+      "onboard_time": 1702785512,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155398,
       "num": 204893,
       "word": "高校为千名考研贫困生悄悄打钱",
@@ -763,20 +891,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153305,
+      "num": 157350,
+      "word": "巴特勒绝杀公牛",
+      "onboard_time": 1702786531,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152051,
       "num": 152051,
       "word": "情绪稳定 倒霉惯了",
       "onboard_time": 1702779333,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149417,
-      "num": 149417,
-      "word": "五哈",
-      "onboard_time": 1702783952,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 149393,
@@ -899,14 +1027,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 114731,
-      "num": 114731,
-      "word": "为什么越到考试我越放松",
-      "onboard_time": 1702784009,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112730,
       "num": 136034,
       "word": "出生4天男婴肺出血急救遇大雪封路",
@@ -963,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80304,
+      "num": 920716,
+      "word": "寒潮天气安全提示",
+      "onboard_time": 1702785330,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78529,
       "num": 1142708,
       "word": "自主研制飞机C919环绕香港岛做演示",
@@ -1009,6 +1137,14 @@
       "onboard_time": 1702768097,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50741,
+      "num": 364314,
+      "word": "蛋娱顶流鸡块妹",
+      "onboard_time": 1702785630,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 42246,

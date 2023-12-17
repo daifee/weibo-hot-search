@@ -1,0 +1,410 @@
+{
+  "runTime": 1702786875354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1544547,
+        "num": 1544547,
+        "word": "东方甄选CFO发声",
+        "onboard_time": 1702782995,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1044939,
+        "num": 1044939,
+        "word": "北京一居民花10万买高15米大恐龙",
+        "onboard_time": 1702778432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80304,
+        "num": 920716,
+        "word": "寒潮天气安全提示",
+        "onboard_time": 1702785330,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862717,
+        "num": 862717,
+        "word": "蛋黄酥线上平台销量暴涨十倍",
+        "onboard_time": 1702781250,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 835196,
+        "num": 835196,
+        "word": "陈赫鹿晗跳科目三",
+        "onboard_time": 1702780112,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734493,
+        "num": 734493,
+        "word": "星光大赏节目单",
+        "onboard_time": 1702781673,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 699855,
+        "num": 699855,
+        "word": "法老的宠妃 银发的公主",
+        "onboard_time": 1702784491,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 522804,
+        "num": 522804,
+        "word": "溜溜梅立牌",
+        "onboard_time": 1702782333,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 460982,
+        "num": 460982,
+        "word": "景甜藕粉妆",
+        "onboard_time": 1702786830,
+        "rank": 8,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 366675,
+        "num": 366675,
+        "word": "考研人去考了六级",
+        "onboard_time": 1702780773,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1148373,
+        "num": 366231,
+        "word": "董宇辉称只误接一个挖人电话",
+        "onboard_time": 1702776691,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 465483,
+        "num": 365943,
+        "word": "狂飙 世纪大和解",
+        "onboard_time": 1702786471,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397685,
+        "num": 365291,
+        "word": "看小说时的生理反应",
+        "onboard_time": 1702738179,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 380332,
+        "num": 364790,
+        "word": "董宇辉若想创业俞敏洪愿意投资",
+        "onboard_time": 1702780650,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 50741,
+        "num": 364314,
+        "word": "蛋娱顶流鸡块妹",
+        "onboard_time": 1702785630,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 334249,
+        "num": 363548,
+        "word": "商贩用鬼秤成年男子上秤不足60斤",
+        "onboard_time": 1702782511,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363298,
+        "num": 363298,
+        "word": "王安宇耳骨钉",
+        "onboard_time": 1702785091,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338232,
+        "num": 338232,
+        "word": "文章39岁状态",
+        "onboard_time": 1702737159,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 316954,
+        "num": 316954,
+        "word": "赵丽颖不出席跨年活动",
+        "onboard_time": 1702779153,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234880,
+        "num": 294688,
+        "word": "顾客吐槽火锅里吃出生锈小刀",
+        "onboard_time": 1702785330,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400889,
+        "num": 291754,
+        "word": "东方甄选一夜涨粉8.3万",
+        "onboard_time": 1702782872,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 288504,
+        "num": 288504,
+        "word": "30岁女子怀胎九月和六旬老伯结婚",
+        "onboard_time": 1702775192,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253460,
+        "num": 253460,
+        "word": "你们俩这么亲我就不困了",
+        "onboard_time": 1702734460,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247198,
+        "num": 247198,
+        "word": "宋雨琦一个人14分",
+        "onboard_time": 1702784728,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239058,
+        "num": 239058,
+        "word": "突然明白什么叫阴阳割昏晓",
+        "onboard_time": 1702777171,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232329,
+        "num": 232329,
+        "word": "丈夫去世7名好友帮照顾家庭6年",
+        "onboard_time": 1702768999,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221919,
+        "num": 221919,
+        "word": "刘诗诗说一念关山不是古偶",
+        "onboard_time": 1702772427,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209267,
+        "num": 209267,
+        "word": "杜华挖人挖到一级运动员",
+        "onboard_time": 1702784669,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185586,
+        "num": 185586,
+        "word": "韩剧 淘宝进货",
+        "onboard_time": 1702742736,
+        "rank": 28,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 183369,
+        "num": 183369,
+        "word": "五哈",
+        "onboard_time": 1702783952,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427878,
+        "num": 182265,
+        "word": "董宇辉错失了20亿吗",
+        "onboard_time": 1702786531,
+        "rank": 30,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 180016,
+        "num": 180016,
+        "word": "杨幂和30斤裙子度过一天",
+        "onboard_time": 1702742914,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176757,
+        "num": 176757,
+        "word": "王栎鑫俞灏明 一生中最爱",
+        "onboard_time": 1702786471,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 387965,
+        "num": 176734,
+        "word": "东方小孙 旧经验指导创新",
+        "onboard_time": 1702785572,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 131289,
+        "num": 175318,
+        "word": "花了两块钱推了四站地",
+        "onboard_time": 1702779751,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173960,
+        "num": 173960,
+        "word": "花少鬼畜 克罗地亚狂想曲",
+        "onboard_time": 1702784909,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170045,
+        "num": 170045,
+        "word": "孙楠回复陈楚生",
+        "onboard_time": 1702784491,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168424,
+        "num": 168424,
+        "word": "有雷鸣我四六级早过了",
+        "onboard_time": 1702785752,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153305,
+        "num": 157350,
+        "word": "巴特勒绝杀公牛",
+        "onboard_time": 1702786531,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131405,
+        "num": 157018,
+        "word": "以军误杀3名以色列人细节曝光",
+        "onboard_time": 1702771646,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156976,
+        "num": 156976,
+        "word": "为什么越到考试我越放松",
+        "onboard_time": 1702784009,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156535,
+        "num": 156535,
+        "word": "没谈过恋爱就开始被催婚了",
+        "onboard_time": 1702776333,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155993,
+        "num": 155993,
+        "word": "东方甄选恢复直播位列带货总榜第一",
+        "onboard_time": 1702778731,
+        "rank": 42,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 156420,
+        "num": 153368,
+        "word": "郑钧毫不吝啬对马頔的宠爱",
+        "onboard_time": 1702785512,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149969,
+        "num": 149969,
+        "word": "董宇辉事件",
+        "onboard_time": 1702777230,
+        "rank": 44,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 146533,
+        "num": 146533,
+        "word": "张凌赫全开麦 一开口我人傻了",
+        "onboard_time": 1702740515,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140329,
+        "num": 140329,
+        "word": "C罗中国行赛程官宣",
+        "onboard_time": 1702783352,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138164,
+        "num": 138164,
+        "word": "俞敏洪称天权失态让他愤怒",
+        "onboard_time": 1702738782,
+        "rank": 47,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 135349,
+        "num": 135349,
+        "word": "脉脉取消早晚餐饭补福利",
+        "onboard_time": 1702783110,
+        "rank": 48,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 132255,
+        "num": 132255,
+        "word": "为什么女生一生气就不讲话",
+        "onboard_time": 1702737635,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这一内外联动的行程有深意#"
+    }
+  }
+}
