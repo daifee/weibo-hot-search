@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702787716409,
+  "endTime": 1702790185513,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -19,20 +19,20 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1849115,
+      "num": 1584464,
+      "word": "狂飙 世纪大和解",
+      "onboard_time": 1702786471,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1641798,
       "num": 432092,
       "word": "女子遭丈夫打断腰椎住院后被砍数刀",
       "onboard_time": 1702767676,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1584464,
-      "num": 1584464,
-      "word": "狂飙 世纪大和解",
-      "onboard_time": 1702786471,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 1544547,
@@ -49,6 +49,14 @@
       "onboard_time": 1702733436,
       "rank": 1,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1427944,
+      "num": 260024,
+      "word": "孟羽童仅一年广告收入或达400万",
+      "onboard_time": 1702787312,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1379398,
@@ -91,6 +99,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1052090,
+      "num": 392222,
+      "word": "董宇辉错失了20亿吗",
+      "onboard_time": 1702786531,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1050580,
       "num": 1050580,
       "word": "星光大赏节目单",
@@ -105,6 +121,14 @@
       "onboard_time": 1702727798,
       "rank": 20,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 923323,
+      "num": 923323,
+      "word": "田曦薇 名伶起舞",
+      "onboard_time": 1702788632,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 897517,
@@ -147,20 +171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 741382,
-      "num": 350224,
-      "word": "董宇辉错失了20亿吗",
-      "onboard_time": 1702786531,
-      "rank": 30,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 737381,
       "num": 737381,
       "word": "你们俩这么亲我就不困了",
       "onboard_time": 1702734460,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 728181,
+      "num": 728181,
+      "word": "网约车为什么总是臭臭的",
+      "onboard_time": 1702787852,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 699855,
@@ -217,6 +241,14 @@
       "onboard_time": 1702739920,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566978,
+      "num": 566978,
+      "word": "姜珮瑶 原生淡妆",
+      "onboard_time": 1702788632,
+      "rank": 5,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 559855,
@@ -291,6 +323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 504916,
+      "num": 504916,
+      "word": "星光大赏宣传海报",
+      "onboard_time": 1702788272,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465887,
       "num": 465887,
       "word": "陈飞宇我承认昨天太大声了",
@@ -347,6 +387,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 399826,
+      "num": 251502,
+      "word": "董宇辉IP估值约10亿美金",
+      "onboard_time": 1702787193,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 396926,
       "num": 260586,
       "word": "突然明白什么叫阴阳割昏晓",
@@ -369,6 +417,14 @@
       "onboard_time": 1702742015,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391943,
+      "num": 391943,
+      "word": "许绍雄嫁女",
+      "onboard_time": 1702789414,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 387965,
@@ -435,12 +491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 327033,
-      "num": 258218,
-      "word": "孟羽童仅一年广告收入或达400万",
-      "onboard_time": 1702787312,
-      "rank": 21,
-      "category": "财经,社会新闻"
+      "raw_hot": 334209,
+      "num": 334209,
+      "word": "两岁时的马立奥",
+      "onboard_time": 1702787072,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 324382,
@@ -449,6 +505,14 @@
       "onboard_time": 1702777230,
       "rank": 24,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 321516,
+      "num": 321516,
+      "word": "孙颖莎王曼昱3比1陈梦王艺迪",
+      "onboard_time": 1702789714,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 315927,
@@ -531,28 +595,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 270319,
-      "num": 212488,
-      "word": "董宇辉IP估值约10亿美金",
-      "onboard_time": 1702787193,
-      "rank": 29,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 270172,
       "num": 270172,
       "word": "钱昭 脱粉回踩",
       "onboard_time": 1702737819,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267985,
-      "num": 211749,
-      "word": "两岁时的马立奥",
-      "onboard_time": 1702787072,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 266433,
@@ -571,12 +619,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 254622,
+      "num": 254622,
+      "word": "宋亚轩 哥哥们心中的妹夫",
+      "onboard_time": 1702789235,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252507,
       "num": 252507,
       "word": "董宇辉在直播中道歉",
       "onboard_time": 1702728761,
       "rank": 35,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 249117,
+      "num": 239102,
+      "word": "繁花要播了",
+      "onboard_time": 1702789714,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 247198,
@@ -595,12 +659,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242489,
+      "num": 242489,
+      "word": "马斯克被曝透露对外星人看法",
+      "onboard_time": 1702789054,
+      "rank": 25,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 234880,
       "num": 294688,
       "word": "顾客吐槽火锅里吃出生锈小刀",
       "onboard_time": 1702785330,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233502,
+      "num": 233502,
+      "word": "许志安回应黄心颖父亲去世",
+      "onboard_time": 1702789173,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 231894,
@@ -641,6 +721,14 @@
       "onboard_time": 1702741714,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210918,
+      "num": 210918,
+      "word": "龙丹妮看张若昀的那一秒",
+      "onboard_time": 1702788332,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 210566,
@@ -691,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204157,
+      "num": 204157,
+      "word": "王栎鑫 蝴蝶妆",
+      "onboard_time": 1702787133,
+      "rank": 33,
+      "category": "演出,美妆"
+    },
+    {
       "raw_hot": 201717,
       "num": 201717,
       "word": "董宇辉说拿到过很多天价offer",
@@ -739,20 +835,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191503,
+      "num": 191503,
+      "word": "便宜又好穿的羽绒服都去哪了",
+      "onboard_time": 1702787973,
+      "rank": 35,
+      "category": "时尚,社会新闻"
+    },
+    {
       "raw_hot": 190543,
       "num": 190543,
       "word": "董宇辉 真诚",
       "onboard_time": 1702727798,
       "rank": 47,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 188955,
-      "num": 188955,
-      "word": "王栎鑫 蝴蝶妆",
-      "onboard_time": 1702787133,
-      "rank": 33,
-      "category": "演出,美妆"
     },
     {
       "raw_hot": 187608,
@@ -817,6 +913,14 @@
       "onboard_time": 1702732900,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174826,
+      "num": 174826,
+      "word": "WTT",
+      "onboard_time": 1702787433,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 173960,
@@ -891,6 +995,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 163114,
+      "num": 163114,
+      "word": "谁还没有切错号的时候",
+      "onboard_time": 1702788453,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161441,
       "num": 161441,
       "word": "赵露思 掌声嘘声都胜过无声",
@@ -963,12 +1075,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151570,
-      "num": 151570,
-      "word": "WTT",
-      "onboard_time": 1702787433,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 149828,
+      "num": 149828,
+      "word": "鼓励式教育 打压式教育",
+      "onboard_time": 1702788574,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 149393,
@@ -1043,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137578,
+      "num": 137578,
+      "word": "库里37分",
+      "onboard_time": 1702788152,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134222,
       "num": 134222,
       "word": "王安宇卷发",
@@ -1084,7 +1204,7 @@
     },
     {
       "raw_hot": 121576,
-      "num": 167145,
+      "num": 392475,
       "word": "时代少年团你没事吧",
       "onboard_time": 1702787133,
       "rank": 39,
@@ -1249,6 +1369,14 @@
       "onboard_time": 1702767077,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 37478,
+      "num": 381259,
+      "word": "我们的歌音乐盛典",
+      "onboard_time": 1702789235,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 30995,
