@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/18 00:21:25 ~ 2023/12/18 04:34:13
+本榜单时间：2023/12/18 00:21:25 ~ 2023/12/18 05:14:54
 </p>
 </blockquote>
 <p>
@@ -417,8 +417,26 @@ TF三代 diss队友（热度：179749）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E5%B9%B4%E5%BA%A6%E6%BD%9C%E5%8A%9B%E7%94%B5%E5%BD%B1%E6%BC%94%E5%91%98%23" target="weibo">
+范丞丞 年度潜力电影演员（热度：26838）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E4%B8%9C%E5%8C%97i%E4%BA%BA%23" target="weibo">
+辛芷蕾 东北i人（热度：25151）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AR%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%E5%A4%BA%E5%86%A0%23" target="weibo">
 AR让二追三夺冠（热度：21170）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E5%9B%9E%E9%A6%96%E8%88%9E%E5%8F%B0%23" target="weibo">
+再回首舞台（热度：18369）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702845253856,
+  "endTime": 1702847694023,
   "band_list": [
     {
       "raw_hot": 3375514,
@@ -539,12 +539,36 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 26838,
+      "num": 21522,
+      "word": "范丞丞 年度潜力电影演员",
+      "onboard_time": 1702846752,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25151,
+      "num": 21018,
+      "word": "辛芷蕾 东北i人",
+      "onboard_time": 1702847113,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21170,
       "num": 39056,
       "word": "AR让二追三夺冠",
       "onboard_time": 1702820869,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 18369,
+      "num": 20165,
+      "word": "再回首舞台",
+      "onboard_time": 1702847654,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 13518,
