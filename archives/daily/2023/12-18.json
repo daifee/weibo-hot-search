@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702847694023,
+  "endTime": 1702848856679,
   "band_list": [
     {
       "raw_hot": 3375514,
@@ -555,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21535,
+      "num": 19862,
+      "word": "冯琳 打分",
+      "onboard_time": 1702848312,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21170,
       "num": 39056,
       "word": "AR让二追三夺冠",
@@ -569,6 +577,14 @@
       "onboard_time": 1702847654,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13755,
+      "num": 19677,
+      "word": "网上打印贴纸时千万不要发表情包",
+      "onboard_time": 1702848074,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 13518,

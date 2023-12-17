@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702847694023,
+  "endTime": 1702848856679,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -3483,6 +3483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21535,
+      "num": 19862,
+      "word": "冯琳 打分",
+      "onboard_time": 1702848312,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18369,
       "num": 20165,
       "word": "再回首舞台",
@@ -3505,6 +3513,14 @@
       "onboard_time": 1702823264,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13755,
+      "num": 19677,
+      "word": "网上打印贴纸时千万不要发表情包",
+      "onboard_time": 1702848074,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 13518,
