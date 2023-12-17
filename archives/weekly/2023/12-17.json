@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702851364939,
+  "endTime": 1702852420704,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -3363,12 +3363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39800,
+      "num": 38283,
+      "word": "冯琳 打分",
+      "onboard_time": 1702848312,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38935,
       "num": 38935,
       "word": "手工耿 大型的娱乐设备",
       "onboard_time": 1702752856,
       "rank": 41,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 38442,
+      "num": 38442,
+      "word": "这押题让春晚导演汗流浃背了",
+      "onboard_time": 1702841115,
+      "rank": 34,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 37704,
@@ -3403,12 +3419,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32848,
-      "num": 37149,
-      "word": "这押题让春晚导演汗流浃背了",
-      "onboard_time": 1702841115,
-      "rank": 34,
-      "category": "幽默,作品衍生"
+      "raw_hot": 32829,
+      "num": 32829,
+      "word": "辛芷蕾 东北i人",
+      "onboard_time": 1702847113,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 32566,
@@ -3443,14 +3459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29906,
-      "num": 26543,
-      "word": "冯琳 打分",
-      "onboard_time": 1702848312,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 29063,
       "num": 37621,
       "word": "杜海涛主持星光大赏",
@@ -3467,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28007,
+      "num": 35455,
+      "word": "减脂食谱里为什么总有西兰花",
+      "onboard_time": 1702850476,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 27769,
       "num": 46870,
       "word": "货车司机大雪天淋成雪人流泪感慨",
@@ -3475,36 +3491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26838,
-      "num": 21522,
-      "word": "范丞丞 年度潜力电影演员",
-      "onboard_time": 1702846752,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 26807,
-      "num": 26337,
-      "word": "辛芷蕾 东北i人",
-      "onboard_time": 1702847113,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 20181,
-      "num": 22990,
+      "raw_hot": 27754,
+      "num": 27754,
       "word": "网上打印贴纸时千万不要发表情包",
       "onboard_time": 1702848074,
       "rank": 47,
       "category": "幽默"
     },
     {
-      "raw_hot": 19884,
-      "num": 22984,
-      "word": "减脂食谱里为什么总有西兰花",
-      "onboard_time": 1702850476,
-      "rank": 46,
-      "category": "美食"
+      "raw_hot": 26838,
+      "num": 21522,
+      "word": "范丞丞 年度潜力电影演员",
+      "onboard_time": 1702846752,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 18369,
