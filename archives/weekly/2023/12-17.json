@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702819160030,
+  "endTime": 1702820072298,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2204117,
+      "num": 2204117,
+      "word": "星光大赏最忙的是中医",
+      "onboard_time": 1702818044,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2191128,
       "num": 692730,
       "word": "董宇辉称只误接一个挖人电话",
@@ -105,14 +113,6 @@
       "onboard_time": 1702786471,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1680160,
-      "num": 1680160,
-      "word": "星光大赏最忙的是中医",
-      "onboard_time": 1702818044,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1671327,
@@ -203,11 +203,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1217818,
-      "num": 462630,
+      "raw_hot": 1243515,
+      "num": 561577,
       "word": "田曦薇红玫瑰",
       "onboard_time": 1702818170,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1232972,
+      "num": 1178160,
+      "word": "赵露思花海礼裙",
+      "onboard_time": 1702815466,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -220,18 +228,10 @@
     },
     {
       "raw_hot": 1179846,
-      "num": 458815,
+      "num": 518490,
       "word": "杨紫张晚意自拍",
       "onboard_time": 1702818407,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1178160,
-      "num": 1178160,
-      "word": "赵露思花海礼裙",
-      "onboard_time": 1702815466,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 780939,
+      "num": 378456,
+      "word": "倪妮 我也爱你",
+      "onboard_time": 1702819125,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 779255,
       "num": 232026,
       "word": "王鹤棣金发深V",
@@ -585,6 +593,14 @@
       "onboard_time": 1702814078,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 684388,
+      "num": 336213,
+      "word": "王子奇王玉雯 爱的回归线",
+      "onboard_time": 1702819307,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 682011,
@@ -931,14 +947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 498784,
-      "num": 378456,
-      "word": "倪妮 我也爱你",
-      "onboard_time": 1702819125,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 497970,
       "num": 497970,
       "word": "婚纱照销毁师9个月销毁450套照片",
@@ -1104,6 +1112,14 @@
       "word": "疑似樊登回应东方甄选小作文风波",
       "onboard_time": 1702807180,
       "rank": 22,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 434627,
+      "num": 374446,
+      "word": "王强 被俞敏洪遮住的男人",
+      "onboard_time": 1702819007,
+      "rank": 46,
       "category": "互联网,社会新闻"
     },
     {
@@ -1449,6 +1465,14 @@
       "onboard_time": 1702760655,
       "rank": 40,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 307690,
+      "num": 307690,
+      "word": "吴宣仪周柯宇危险派对 完整版呢",
+      "onboard_time": 1702820028,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 305916,
@@ -2051,6 +2075,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 189688,
+      "num": 334517,
+      "word": "双红会",
+      "onboard_time": 1702819668,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189075,
       "num": 189075,
       "word": "俞敏洪称没利用过董宇辉感情",
@@ -2073,14 +2105,6 @@
       "onboard_time": 1702771284,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187198,
-      "num": 374446,
-      "word": "王强 被俞敏洪遮住的男人",
-      "onboard_time": 1702819007,
-      "rank": 46,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 186390,
@@ -2305,6 +2329,14 @@
       "onboard_time": 1702774050,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161436,
+      "num": 299679,
+      "word": "日本死鱼多到渔船寸步难行",
+      "onboard_time": 1702819845,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160706,
@@ -2532,7 +2564,7 @@
     },
     {
       "raw_hot": 131904,
-      "num": 454910,
+      "num": 522352,
       "word": "元梦之星应该这么玩",
       "onboard_time": 1702818044,
       "rank": 14,
@@ -2755,20 +2787,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 71255,
+      "num": 2957589,
+      "word": "壮美雪景似画如歌令人沉醉",
+      "onboard_time": 1702798234,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69403,
       "num": 69403,
       "word": "宋雨琦小狗纹身",
       "onboard_time": 1702732179,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68987,
-      "num": 2957589,
-      "word": "壮美雪景似画如歌令人沉醉",
-      "onboard_time": 1702798234,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68712,

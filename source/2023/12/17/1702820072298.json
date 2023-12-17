@@ -1,0 +1,410 @@
+{
+  "runTime": 1702820072298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10143520,
+        "num": 10143520,
+        "word": "星光大赏开场 陈情令",
+        "onboard_time": 1702813420,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2744457,
+        "num": 2744457,
+        "word": "孟子义摔了",
+        "onboard_time": 1702815343,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71255,
+        "num": 2657189,
+        "word": "壮美雪景似画如歌令人沉醉",
+        "onboard_time": 1702798234,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2645830,
+        "num": 2645830,
+        "word": "迪丽热巴内场侧颜",
+        "onboard_time": 1702816308,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2204117,
+        "num": 2204117,
+        "word": "星光大赏最忙的是中医",
+        "onboard_time": 1702818044,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1598098,
+        "num": 1598098,
+        "word": "星光大赏座位图",
+        "onboard_time": 1702813901,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627773,
+        "num": 627773,
+        "word": "警方通报女童险被陌生男子捂嘴拖走",
+        "onboard_time": 1702814078,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579768,
+        "num": 579768,
+        "word": "瘦了40斤 更焦虑了",
+        "onboard_time": 1702816069,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463181,
+        "num": 578392,
+        "word": "陈幸同",
+        "onboard_time": 1702816909,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377799,
+        "num": 569745,
+        "word": "孙颖莎总决赛3连冠",
+        "onboard_time": 1702814980,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1341135,
+        "num": 565154,
+        "word": "迪丽热巴红毯迷路",
+        "onboard_time": 1702808322,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1243515,
+        "num": 561577,
+        "word": "田曦薇红玫瑰",
+        "onboard_time": 1702818170,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1232972,
+        "num": 558356,
+        "word": "赵露思花海礼裙",
+        "onboard_time": 1702815466,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554172,
+        "num": 554172,
+        "word": "东方甄选回应孙东旭职务变动",
+        "onboard_time": 1702813660,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 127305,
+        "num": 522352,
+        "word": "元梦之星应该这么玩",
+        "onboard_time": 1702818044,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1042030,
+        "num": 518490,
+        "word": "杨紫张晚意自拍",
+        "onboard_time": 1702818407,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1016773,
+        "num": 510083,
+        "word": "王一博 假发",
+        "onboard_time": 1702814437,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496566,
+        "num": 496566,
+        "word": "每天只睡5小时的小学生熬不动了",
+        "onboard_time": 1702805261,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399694,
+        "num": 399694,
+        "word": "李斌回应高速开90",
+        "onboard_time": 1702817447,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 339477,
+        "num": 339477,
+        "word": "当HR问我为什么有一年空窗期",
+        "onboard_time": 1702813901,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 986812,
+        "num": 339316,
+        "word": "杨紫怼脸镜头好美",
+        "onboard_time": 1702815402,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 904335,
+        "num": 338953,
+        "word": "星光大赏",
+        "onboard_time": 1702811681,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474017,
+        "num": 338860,
+        "word": "罗永浩为什么一直抓着东方甄选不放",
+        "onboard_time": 1702815343,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 236044,
+        "num": 338427,
+        "word": "孙颖莎4比2战胜王艺迪",
+        "onboard_time": 1702815102,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228728,
+        "num": 338052,
+        "word": "小女孩雪后擦去路边车辆上不雅留言",
+        "onboard_time": 1702809822,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843118,
+        "num": 338040,
+        "word": "倪妮周雨彤撞衫",
+        "onboard_time": 1702805138,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 760878,
+        "num": 337601,
+        "word": "星光大赏ie休息区",
+        "onboard_time": 1702797937,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228018,
+        "num": 337250,
+        "word": "孙颖莎又夺1个冠军",
+        "onboard_time": 1702814618,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220406,
+        "num": 337039,
+        "word": "孙东旭年薪1800万为东方甄选最高员工",
+        "onboard_time": 1702790796,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 202144,
+        "num": 336861,
+        "word": "孙颖莎王曼昱女双冠军",
+        "onboard_time": 1702809345,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 780939,
+        "num": 336453,
+        "word": "倪妮 我也爱你",
+        "onboard_time": 1702819125,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684388,
+        "num": 336213,
+        "word": "王子奇王玉雯 爱的回归线",
+        "onboard_time": 1702819307,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600100,
+        "num": 335934,
+        "word": "赵露思 鸟鸟做错了什么",
+        "onboard_time": 1702800697,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594947,
+        "num": 335680,
+        "word": "星光大赏红毯",
+        "onboard_time": 1702793854,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434627,
+        "num": 335401,
+        "word": "王强 被俞敏洪遮住的男人",
+        "onboard_time": 1702819007,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 513827,
+        "num": 335134,
+        "word": "宋茜亮片黑裙",
+        "onboard_time": 1702816724,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502519,
+        "num": 334658,
+        "word": "宁远舟殉情",
+        "onboard_time": 1702809584,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189688,
+        "num": 334517,
+        "word": "双红会",
+        "onboard_time": 1702819668,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174775,
+        "num": 334301,
+        "word": "有证据表明猫咪在这滑倒了",
+        "onboard_time": 1702817327,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168643,
+        "num": 333816,
+        "word": "格力曾注册多个孟羽童相关商标",
+        "onboard_time": 1702813478,
+        "rank": 39,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 497659,
+        "num": 333605,
+        "word": "星光大赏直播",
+        "onboard_time": 1702793493,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400661,
+        "num": 333314,
+        "word": "唐嫣工作室审美回春",
+        "onboard_time": 1702814437,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333177,
+        "num": 333177,
+        "word": "原来警察买不了意外险",
+        "onboard_time": 1702817026,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307690,
+        "num": 307690,
+        "word": "吴宣仪周柯宇危险派对 完整版呢",
+        "onboard_time": 1702820028,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161436,
+        "num": 299679,
+        "word": "日本死鱼多到渔船寸步难行",
+        "onboard_time": 1702819845,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160098,
+        "num": 290464,
+        "word": "当代年轻人睡不着的时候在干嘛",
+        "onboard_time": 1702815828,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 484950,
+        "num": 282129,
+        "word": "夭柳红毯情侣装",
+        "onboard_time": 1702802737,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445031,
+        "num": 272820,
+        "word": "孟子义美甲掉了",
+        "onboard_time": 1702805261,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157819,
+        "num": 268495,
+        "word": "肝脏不好推荐按一个穴位",
+        "onboard_time": 1702816546,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131694,
+        "num": 254152,
+        "word": "孙颖莎4比1陈梦",
+        "onboard_time": 1702798175,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国改革开放的信心和意志都不会动摇#"
+    }
+  }
+}
