@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702822495764,
+  "endTime": 1702823652218,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2320297,
+      "num": 2320297,
+      "word": "迪丽热巴有第二套吗",
+      "onboard_time": 1702823146,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2204117,
       "num": 2204117,
       "word": "星光大赏最忙的是中医",
@@ -115,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1679504,
+      "num": 1679504,
+      "word": "这下全世界都知道沈腾戴假发了",
+      "onboard_time": 1702821044,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1671327,
       "num": 1671327,
       "word": "杨紫 鎏金蝴蝶公主",
@@ -139,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1602346,
+      "num": 1602346,
+      "word": "朋友圈 闻神刷屏",
+      "onboard_time": 1702821467,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1544547,
       "num": 1544547,
       "word": "东方甄选CFO发声",
@@ -153,14 +177,6 @@
       "onboard_time": 1702733436,
       "rank": 1,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1471198,
-      "num": 1471198,
-      "word": "这下全世界都知道沈腾戴假发了",
-      "onboard_time": 1702821044,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1462960,
@@ -208,6 +224,14 @@
       "word": "杨紫怼脸镜头好美",
       "onboard_time": 1702815402,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1254787,
+      "num": 467618,
+      "word": "杨紫越来越美",
+      "onboard_time": 1702822668,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -299,6 +323,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1108947,
+      "num": 1108947,
+      "word": "日本死鱼多到渔船寸步难行",
+      "onboard_time": 1702819845,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1104198,
       "num": 570965,
       "word": "孙东旭年薪1800万为东方甄选最高员工",
@@ -339,20 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1042871,
-      "num": 643853,
-      "word": "朋友圈 闻神刷屏",
-      "onboard_time": 1702821467,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1028033,
       "num": 376322,
       "word": "董宇辉 不理解大家为什么这么喜欢我",
       "onboard_time": 1702727798,
       "rank": 20,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1027137,
+      "num": 441516,
+      "word": "汪苏泷 唱功",
+      "onboard_time": 1702822428,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 1013326,
@@ -377,14 +409,6 @@
       "onboard_time": 1702788632,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 984735,
-      "num": 984735,
-      "word": "日本死鱼多到渔船寸步难行",
-      "onboard_time": 1702819845,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 983262,
@@ -433,6 +457,14 @@
       "onboard_time": 1702820328,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 937380,
+      "num": 644532,
+      "word": "王强 被俞敏洪遮住的男人",
+      "onboard_time": 1702819007,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 905662,
@@ -489,14 +521,6 @@
       "onboard_time": 1702742736,
       "rank": 12,
       "category": "作品衍生,互联网"
-    },
-    {
-      "raw_hot": 856032,
-      "num": 644532,
-      "word": "王强 被俞敏洪遮住的男人",
-      "onboard_time": 1702819007,
-      "rank": 46,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 850160,
@@ -779,12 +803,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 595168,
+      "num": 371238,
+      "word": "一念关山 高开癫走的剧情",
+      "onboard_time": 1702823087,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 593131,
       "num": 639512,
       "word": "孙颖莎王曼昱女双冠军",
       "onboard_time": 1702809345,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 590380,
+      "num": 570395,
+      "word": "吴世勋cha了初雪",
+      "onboard_time": 1702821773,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 590141,
@@ -833,14 +873,6 @@
       "onboard_time": 1702816724,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 570395,
-      "num": 570395,
-      "word": "吴世勋cha了初雪",
-      "onboard_time": 1702821773,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 566978,
@@ -961,6 +993,14 @@
       "onboard_time": 1702722036,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 532805,
+      "num": 355973,
+      "word": "周杰伦新歌",
+      "onboard_time": 1702823508,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 531967,
@@ -1179,14 +1219,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 441516,
-      "num": 441516,
-      "word": "汪苏泷 唱功",
-      "onboard_time": 1702822428,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 437736,
       "num": 641407,
       "word": "李斌回应高速开90",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1702809822,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 406953,
+      "num": 640900,
+      "word": "我这一生如履薄冰",
+      "onboard_time": 1702822189,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 405038,
@@ -1361,6 +1401,14 @@
       "onboard_time": 1702795292,
       "rank": 39,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 372521,
+      "num": 440499,
+      "word": "东方甄选已注册多个董宇辉商标",
+      "onboard_time": 1702822367,
+      "rank": 45,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 363298,
@@ -1873,14 +1921,6 @@
       "onboard_time": 1702793913,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230067,
-      "num": 640900,
-      "word": "我这一生如履薄冰",
-      "onboard_time": 1702822189,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 229605,
@@ -2443,14 +2483,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 160469,
-      "num": 440499,
-      "word": "东方甄选已注册多个董宇辉商标",
-      "onboard_time": 1702822367,
-      "rank": 45,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 159713,
       "num": 427154,
       "word": "肝脏不好推荐按一个穴位",
@@ -2536,6 +2568,14 @@
       "word": "情绪稳定 倒霉惯了",
       "onboard_time": 1702779333,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151748,
+      "num": 346180,
+      "word": "资助的孩子退学后问我要剩下的学费",
+      "onboard_time": 1702821642,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -2843,6 +2883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 87328,
+      "num": 343850,
+      "word": "太奶奶两分钟哄睡宝宝",
+      "onboard_time": 1702823569,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86389,
       "num": 167458,
       "word": "曼城vs水晶宫",
@@ -3017,6 +3065,22 @@
       "onboard_time": 1702760714,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15740,
+      "num": 484881,
+      "word": "空中视角俯瞰南极浮冰好壮观",
+      "onboard_time": 1702823264,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11108,
+      "num": 1847859,
+      "word": "双曲线一号商业运载火箭成功发射",
+      "onboard_time": 1702823569,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9919,

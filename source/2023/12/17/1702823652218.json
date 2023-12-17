@@ -1,0 +1,410 @@
+{
+  "runTime": 1702823652218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8560499,
+        "num": 8560499,
+        "word": "星光大赏开场 陈情令",
+        "onboard_time": 1702813420,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2320297,
+        "num": 2320297,
+        "word": "迪丽热巴有第二套吗",
+        "onboard_time": 1702823146,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11108,
+        "num": 1847859,
+        "word": "双曲线一号商业运载火箭成功发射",
+        "onboard_time": 1702823569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1709205,
+        "num": 1709205,
+        "word": "孟子义摔了",
+        "onboard_time": 1702815343,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1679504,
+        "num": 1679504,
+        "word": "这下全世界都知道沈腾戴假发了",
+        "onboard_time": 1702821044,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1602346,
+        "num": 1602346,
+        "word": "朋友圈 闻神刷屏",
+        "onboard_time": 1702821467,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1108947,
+        "num": 1108947,
+        "word": "日本死鱼多到渔船寸步难行",
+        "onboard_time": 1702819845,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561799,
+        "num": 561799,
+        "word": "瘦了40斤 更焦虑了",
+        "onboard_time": 1702816069,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529805,
+        "num": 529805,
+        "word": "AR让二追三夺冠",
+        "onboard_time": 1702820869,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 328976,
+        "num": 522646,
+        "word": "警方通报女童险被陌生男子捂嘴拖走",
+        "onboard_time": 1702814078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1881394,
+        "num": 513165,
+        "word": "迪丽热巴内场侧颜",
+        "onboard_time": 1702816308,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1286451,
+        "num": 497167,
+        "word": "星光大赏座位图",
+        "onboard_time": 1702813901,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15740,
+        "num": 484881,
+        "word": "空中视角俯瞰南极浮冰好壮观",
+        "onboard_time": 1702823264,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254787,
+        "num": 467618,
+        "word": "杨紫越来越美",
+        "onboard_time": 1702822668,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 937380,
+        "num": 455848,
+        "word": "王强 被俞敏洪遮住的男人",
+        "onboard_time": 1702819007,
+        "rank": 14,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1043780,
+        "num": 439693,
+        "word": "星光大赏最忙的是中医",
+        "onboard_time": 1702818044,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1027137,
+        "num": 431341,
+        "word": "汪苏泷 唱功",
+        "onboard_time": 1702822428,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421071,
+        "num": 421071,
+        "word": "每天只睡5小时的小学生熬不动了",
+        "onboard_time": 1702805261,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247651,
+        "num": 420276,
+        "word": "陈幸同",
+        "onboard_time": 1702816909,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221665,
+        "num": 415618,
+        "word": "孙颖莎总决赛3连冠",
+        "onboard_time": 1702814980,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1000055,
+        "num": 412886,
+        "word": "王一博 假发",
+        "onboard_time": 1702814437,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 877476,
+        "num": 410091,
+        "word": "繁花现场定档",
+        "onboard_time": 1702821828,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406953,
+        "num": 406953,
+        "word": "我这一生如履薄冰",
+        "onboard_time": 1702822189,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382534,
+        "num": 382534,
+        "word": "东方甄选回应孙东旭职务变动",
+        "onboard_time": 1702813660,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 272178,
+        "num": 381237,
+        "word": "罗永浩为什么一直抓着东方甄选不放",
+        "onboard_time": 1702815343,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 870800,
+        "num": 380994,
+        "word": "宋茜红桃A",
+        "onboard_time": 1702820084,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 860109,
+        "num": 378620,
+        "word": "杨紫怼脸镜头好美",
+        "onboard_time": 1702815402,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 823052,
+        "num": 378101,
+        "word": "星光大赏",
+        "onboard_time": 1702811681,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763264,
+        "num": 375515,
+        "word": "赵露思花海礼裙",
+        "onboard_time": 1702815466,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185429,
+        "num": 374965,
+        "word": "小女孩雪后擦去路边车辆上不雅留言",
+        "onboard_time": 1702809822,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710052,
+        "num": 373634,
+        "word": "章若楠的妆好淡",
+        "onboard_time": 1702820328,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372521,
+        "num": 372521,
+        "word": "东方甄选已注册多个董宇辉商标",
+        "onboard_time": 1702822367,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 595168,
+        "num": 371238,
+        "word": "一念关山 高开癫走的剧情",
+        "onboard_time": 1702823087,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195540,
+        "num": 370685,
+        "word": "当HR问我为什么有一年空窗期",
+        "onboard_time": 1702813901,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201981,
+        "num": 368737,
+        "word": "孙东旭年薪1800万为东方甄选最高员工",
+        "onboard_time": 1702790796,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 590380,
+        "num": 365989,
+        "word": "吴世勋cha了初雪",
+        "onboard_time": 1702821773,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34686,
+        "num": 364854,
+        "word": "壮美雪景似画如歌令人沉醉",
+        "onboard_time": 1702798234,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557467,
+        "num": 362657,
+        "word": "倪妮周雨彤撞衫",
+        "onboard_time": 1702805138,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158931,
+        "num": 361504,
+        "word": "孙颖莎王曼昱女双冠军",
+        "onboard_time": 1702809345,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139753,
+        "num": 359519,
+        "word": "孙颖莎4比2战胜王艺迪",
+        "onboard_time": 1702815102,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550869,
+        "num": 358381,
+        "word": "赵露思 鸟鸟做错了什么",
+        "onboard_time": 1702800697,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550174,
+        "num": 356614,
+        "word": "星光大赏ie休息区",
+        "onboard_time": 1702797937,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532805,
+        "num": 355973,
+        "word": "周杰伦新歌",
+        "onboard_time": 1702823508,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 498416,
+        "num": 353662,
+        "word": "田曦薇红玫瑰",
+        "onboard_time": 1702818170,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493555,
+        "num": 351480,
+        "word": "吴磊 拍部霸总剧给我看",
+        "onboard_time": 1702821167,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440729,
+        "num": 350562,
+        "word": "星光大赏红毯",
+        "onboard_time": 1702793854,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185638,
+        "num": 348622,
+        "word": "李斌回应高速开90",
+        "onboard_time": 1702817447,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151748,
+        "num": 346180,
+        "word": "资助的孩子退学后问我要剩下的学费",
+        "onboard_time": 1702821642,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129266,
+        "num": 344735,
+        "word": "孙颖莎又夺1个冠军",
+        "onboard_time": 1702814618,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87328,
+        "num": 343850,
+        "word": "太奶奶两分钟哄睡宝宝",
+        "onboard_time": 1702823569,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国改革开放的信心和意志都不会动摇#"
+    }
+  }
+}
