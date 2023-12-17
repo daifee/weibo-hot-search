@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702812842587,
+  "endTime": 1702816269573,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -793,6 +793,14 @@
       "onboard_time": 1690174959,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 10938344,
+      "num": 10938344,
+      "word": "星光大赏开场 陈情令",
+      "onboard_time": 1702813420,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 10926584,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1692461075,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 7293745,
-      "num": 7293745,
-      "word": "胡鑫宇遗体现场发现一支录音笔",
-      "onboard_time": 1674964246,
-      "rank": 3,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
