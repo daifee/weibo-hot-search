@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702786875354,
+  "endTime": 1702787716409,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -25,6 +25,14 @@
       "onboard_time": 1702767676,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1584464,
+      "num": 1584464,
+      "word": "狂飙 世纪大和解",
+      "onboard_time": 1702786471,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 1544547,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 741382,
+      "num": 350224,
+      "word": "董宇辉错失了20亿吗",
+      "onboard_time": 1702786531,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 737381,
       "num": 737381,
       "word": "你们俩这么亲我就不困了",
@@ -251,6 +267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 517965,
+      "num": 517965,
+      "word": "张杰演唱会 抢票",
+      "onboard_time": 1702787371,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 506480,
       "num": 348910,
       "word": "俞敏洪董宇辉合体直播",
@@ -275,14 +299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 465483,
-      "num": 365943,
-      "word": "狂飙 世纪大和解",
-      "onboard_time": 1702786471,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 460982,
       "num": 460982,
       "word": "景甜藕粉妆",
@@ -305,14 +321,6 @@
       "onboard_time": 1702740697,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 427878,
-      "num": 182265,
-      "word": "董宇辉错失了20亿吗",
-      "onboard_time": 1702786531,
-      "rank": 30,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 425613,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 387965,
-      "num": 176734,
+      "num": 263940,
       "word": "东方小孙 旧经验指导创新",
       "onboard_time": 1702785572,
       "rank": 33,
@@ -425,6 +433,14 @@
       "onboard_time": 1702737635,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 327033,
+      "num": 258218,
+      "word": "孟羽童仅一年广告收入或达400万",
+      "onboard_time": 1702787312,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 324382,
@@ -515,12 +531,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 270319,
+      "num": 212488,
+      "word": "董宇辉IP估值约10亿美金",
+      "onboard_time": 1702787193,
+      "rank": 29,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 270172,
       "num": 270172,
       "word": "钱昭 脱粉回踩",
       "onboard_time": 1702737819,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267985,
+      "num": 211749,
+      "word": "两岁时的马立奥",
+      "onboard_time": 1702787072,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 266433,
@@ -553,6 +585,14 @@
       "onboard_time": 1702784728,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244542,
+      "num": 244542,
+      "word": "王栎鑫俞灏明 一生中最爱",
+      "onboard_time": 1702786471,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 234880,
@@ -611,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210484,
+      "num": 210484,
+      "word": "杜华挖人挖到一级运动员",
+      "onboard_time": 1702784669,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210358,
       "num": 210358,
       "word": "脉脉取消早晚餐饭补福利",
@@ -632,14 +680,6 @@
       "word": "刘诗诗秒猜杨幂",
       "onboard_time": 1702736197,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 209267,
-      "num": 209267,
-      "word": "杜华挖人挖到一级运动员",
-      "onboard_time": 1702784669,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -707,6 +747,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 188955,
+      "num": 188955,
+      "word": "王栎鑫 蝴蝶妆",
+      "onboard_time": 1702787133,
+      "rank": 33,
+      "category": "演出,美妆"
+    },
+    {
       "raw_hot": 187608,
       "num": 187608,
       "word": "看得出薛之谦真的很冷",
@@ -753,14 +801,6 @@
       "onboard_time": 1702776570,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 176757,
-      "num": 176757,
-      "word": "王栎鑫俞灏明 一生中最爱",
-      "onboard_time": 1702786471,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 176139,
@@ -819,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167588,
+      "num": 167588,
+      "word": "巴特勒绝杀公牛",
+      "onboard_time": 1702786531,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165308,
       "num": 165308,
       "word": "蔬菜跌出了白菜价",
@@ -849,6 +897,14 @@
       "onboard_time": 1702774050,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160706,
+      "num": 160706,
+      "word": "资深公关谈东方甄选小作文事件",
+      "onboard_time": 1702787011,
+      "rank": 42,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 156976,
@@ -891,12 +947,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153305,
-      "num": 157350,
-      "word": "巴特勒绝杀公牛",
-      "onboard_time": 1702786531,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 154028,
+      "num": 151486,
+      "word": "最终还是董宇辉扛下了一切",
+      "onboard_time": 1702787072,
+      "rank": 45,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 152051,
@@ -905,6 +961,14 @@
       "onboard_time": 1702779333,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151570,
+      "num": 151570,
+      "word": "WTT",
+      "onboard_time": 1702787433,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 149393,
@@ -920,6 +984,14 @@
       "word": "盘点2023",
       "onboard_time": 1702780716,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147062,
+      "num": 185340,
+      "word": "受伤小狍子拦在路中像在求救",
+      "onboard_time": 1702786892,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121576,
+      "num": 167145,
+      "word": "时代少年团你没事吧",
+      "onboard_time": 1702787133,
+      "rank": 39,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 120574,
       "num": 120574,
       "word": "九大鼻炎的调理方法",
@@ -1059,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96251,
+      "num": 969792,
+      "word": "寒潮天气安全提示",
+      "onboard_time": 1702785330,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93742,
       "num": 291249,
       "word": "六级翻译 养老",
@@ -1083,12 +1171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80304,
-      "num": 920716,
-      "word": "寒潮天气安全提示",
-      "onboard_time": 1702785330,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 79399,
+      "num": 364314,
+      "word": "蛋娱顶流鸡块妹",
+      "onboard_time": 1702785630,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 78529,
@@ -1137,14 +1225,6 @@
       "onboard_time": 1702768097,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50741,
-      "num": 364314,
-      "word": "蛋娱顶流鸡块妹",
-      "onboard_time": 1702785630,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 42246,
