@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702808255205,
+  "endTime": 1702809273509,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1153,6 +1153,14 @@
       "onboard_time": 1694660312,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9865756,
+      "num": 9865756,
+      "word": "迪丽热巴红毯迷路",
+      "onboard_time": 1702808322,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 9852392,
@@ -2391,14 +2399,6 @@
       "num": 7293745,
       "word": "胡鑫宇遗体现场发现一支录音笔",
       "onboard_time": 1674964246,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7279831,
-      "num": 8238361,
-      "word": "丫丫专机已降落上海",
-      "onboard_time": 1682584052,
       "rank": 3,
       "category": "社会新闻"
     }
