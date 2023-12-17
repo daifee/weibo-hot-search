@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702848856679,
+  "endTime": 1702851364939,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -3443,6 +3443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29906,
+      "num": 26543,
+      "word": "冯琳 打分",
+      "onboard_time": 1702848312,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29063,
       "num": 37621,
       "word": "杜海涛主持星光大赏",
@@ -3475,20 +3483,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25151,
-      "num": 21018,
+      "raw_hot": 26807,
+      "num": 26337,
       "word": "辛芷蕾 东北i人",
       "onboard_time": 1702847113,
       "rank": 32,
       "category": "综艺"
     },
     {
-      "raw_hot": 21535,
-      "num": 19862,
-      "word": "冯琳 打分",
-      "onboard_time": 1702848312,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 20181,
+      "num": 22990,
+      "word": "网上打印贴纸时千万不要发表情包",
+      "onboard_time": 1702848074,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19884,
+      "num": 22984,
+      "word": "减脂食谱里为什么总有西兰花",
+      "onboard_time": 1702850476,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 18369,
@@ -3513,14 +3529,6 @@
       "onboard_time": 1702823264,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13755,
-      "num": 19677,
-      "word": "网上打印贴纸时千万不要发表情包",
-      "onboard_time": 1702848074,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 13518,

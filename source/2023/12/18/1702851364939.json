@@ -1,0 +1,410 @@
+{
+  "runTime": 1702851364939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 255306,
+        "num": 255306,
+        "word": "赵露思上台忘记脱毛衣了",
+        "onboard_time": 1702824586,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245404,
+        "num": 245404,
+        "word": "迪丽热巴领奖走成T台",
+        "onboard_time": 1702826864,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11997,
+        "num": 170262,
+        "word": "双曲线一号商业运载火箭成功发射",
+        "onboard_time": 1702823569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140132,
+        "num": 140132,
+        "word": "王一博到底在急什么",
+        "onboard_time": 1702823686,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136341,
+        "num": 136341,
+        "word": "日本死鱼多到渔船寸步难行",
+        "onboard_time": 1702819845,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134428,
+        "num": 134428,
+        "word": "出道六年她占五年",
+        "onboard_time": 1702828900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130435,
+        "num": 130435,
+        "word": "杨紫领奖",
+        "onboard_time": 1702830214,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76734,
+        "num": 76734,
+        "word": "王强 被俞敏洪遮住的男人",
+        "onboard_time": 1702819007,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 52402,
+        "num": 52402,
+        "word": "真的需要这件羽绒服",
+        "onboard_time": 1702830694,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21796,
+        "num": 52359,
+        "word": "利物浦vs曼联",
+        "onboard_time": 1702827225,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227339,
+        "num": 52251,
+        "word": "孙东旭留任东方甄选非执行董事",
+        "onboard_time": 1702824768,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 146121,
+        "num": 52006,
+        "word": "今天的朋友圈格外emo",
+        "onboard_time": 1702824707,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114204,
+        "num": 51911,
+        "word": "刘畊宏出圈1年多后谈流量下滑",
+        "onboard_time": 1702835839,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 104238,
+        "num": 51837,
+        "word": "肖战 TODS",
+        "onboard_time": 1702826864,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95207,
+        "num": 51652,
+        "word": "迪丽热巴第二套造型",
+        "onboard_time": 1702826864,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90814,
+        "num": 51550,
+        "word": "这下全世界都知道沈腾戴假发了",
+        "onboard_time": 1702821044,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71499,
+        "num": 51441,
+        "word": "告诉秦岚 辛芷蕾今晚不回去了",
+        "onboard_time": 1702825968,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51344,
+        "num": 51344,
+        "word": "老人住院因子女不看望伤心过度自杀",
+        "onboard_time": 1702826385,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39849,
+        "num": 39849,
+        "word": "资助的孩子退学后问我要剩下的学费",
+        "onboard_time": 1702821642,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37739,
+        "num": 37739,
+        "word": "瘦了40斤 更焦虑了",
+        "onboard_time": 1702816069,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59010,
+        "num": 36949,
+        "word": "孟子义摔了",
+        "onboard_time": 1702815343,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50982,
+        "num": 33274,
+        "word": "张万森 朋友圈下老登了",
+        "onboard_time": 1702825550,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47852,
+        "num": 30678,
+        "word": "罗永浩称想为董宇辉争取更公平待遇",
+        "onboard_time": 1702824829,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 27830,
+        "num": 27830,
+        "word": "警方通报女童险被陌生男子捂嘴拖走",
+        "onboard_time": 1702814078,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26655,
+        "num": 26655,
+        "word": "这押题让春晚导演汗流浃背了",
+        "onboard_time": 1702841115,
+        "rank": 24,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 46584,
+        "num": 26652,
+        "word": "王一博王鹤棣拥抱",
+        "onboard_time": 1702828001,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39596,
+        "num": 26643,
+        "word": "檀健次王嘉尔被吓到",
+        "onboard_time": 1702831172,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22741,
+        "num": 26627,
+        "word": "外卖小哥回应下雪天点外卖",
+        "onboard_time": 1702835958,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21214,
+        "num": 26621,
+        "word": "小女孩雪后擦去路边车辆上不雅留言",
+        "onboard_time": 1702809822,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17948,
+        "num": 26616,
+        "word": "湖南一市场火灾已扑救37小时",
+        "onboard_time": 1702825004,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36380,
+        "num": 26601,
+        "word": "赵露思花海礼裙",
+        "onboard_time": 1702815466,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35641,
+        "num": 26598,
+        "word": "屋顶着火还得看宋茜",
+        "onboard_time": 1702825726,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32703,
+        "num": 26583,
+        "word": "星光大赏开场",
+        "onboard_time": 1702813420,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32465,
+        "num": 26578,
+        "word": "倪妮景甜这对我同意了",
+        "onboard_time": 1702832664,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30342,
+        "num": 26568,
+        "word": "东方甄选",
+        "onboard_time": 1702827107,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 30849,
+        "num": 26554,
+        "word": "杨紫越来越美",
+        "onboard_time": 1702822668,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29906,
+        "num": 26543,
+        "word": "冯琳 打分",
+        "onboard_time": 1702848312,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26541,
+        "num": 26541,
+        "word": "当HR问我为什么有一年空窗期",
+        "onboard_time": 1702813901,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24971,
+        "num": 26515,
+        "word": "孙东旭曾对董宇辉称不要幻想做管理",
+        "onboard_time": 1702824109,
+        "rank": 38,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 16280,
+        "num": 26482,
+        "word": "孙颖莎总决赛3连冠",
+        "onboard_time": 1702814980,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26878,
+        "num": 26422,
+        "word": "TF三代 diss队友",
+        "onboard_time": 1702835481,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26807,
+        "num": 26337,
+        "word": "辛芷蕾 东北i人",
+        "onboard_time": 1702847113,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26319,
+        "num": 26319,
+        "word": "星光大赏座位图",
+        "onboard_time": 1702813901,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25919,
+        "num": 25919,
+        "word": "周杰伦新歌",
+        "onboard_time": 1702823508,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22997,
+        "num": 22997,
+        "word": "赵露思 年度海外最具人气演员",
+        "onboard_time": 1702829560,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20181,
+        "num": 22990,
+        "word": "网上打印贴纸时千万不要发表情包",
+        "onboard_time": 1702848074,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19884,
+        "num": 22984,
+        "word": "减脂食谱里为什么总有西兰花",
+        "onboard_time": 1702850476,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18801,
+        "num": 22980,
+        "word": "小米汽车",
+        "onboard_time": 1702825128,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 15162,
+        "num": 22974,
+        "word": "孙颖莎4比2战胜王艺迪",
+        "onboard_time": 1702815102,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14252,
+        "num": 22963,
+        "word": "孙颖莎2023完美收官",
+        "onboard_time": 1702826145,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}
