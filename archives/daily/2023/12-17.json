@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702791262018,
+  "endTime": 1702794081467,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -25,6 +25,14 @@
       "onboard_time": 1702786471,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1671327,
+      "num": 1671327,
+      "word": "杨紫 鎏金蝴蝶公主",
+      "onboard_time": 1702791331,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1641798,
@@ -91,6 +99,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1104198,
+      "num": 288851,
+      "word": "孙东旭年薪1800万为东方甄选最高员工",
+      "onboard_time": 1702790796,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1081971,
       "num": 236637,
       "word": "董宇辉 士为知己者死",
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 972029,
+      "num": 972029,
+      "word": "网约车为什么总是臭臭的",
+      "onboard_time": 1702787852,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897517,
       "num": 897517,
       "word": "董宇辉曾试图挽留孙东旭",
@@ -139,11 +163,11 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 873366,
-      "num": 873366,
-      "word": "网约车为什么总是臭臭的",
-      "onboard_time": 1702787852,
-      "rank": 3,
+      "raw_hot": 874358,
+      "num": 874358,
+      "word": "南方人终于向羽绒服低头了",
+      "onboard_time": 1702790732,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -179,6 +203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 791838,
+      "num": 791838,
+      "word": "星光大赏直播",
+      "onboard_time": 1702793493,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 783441,
+      "num": 444403,
+      "word": "星光大赏明星出发图",
+      "onboard_time": 1702791511,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 737381,
       "num": 737381,
       "word": "你们俩这么亲我就不困了",
@@ -187,20 +227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 716094,
+      "num": 359709,
+      "word": "老师 我们家迪丽热巴呢",
+      "onboard_time": 1702793672,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 699855,
       "num": 699855,
       "word": "法老的宠妃 银发的公主",
       "onboard_time": 1702784491,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 693293,
-      "num": 256555,
-      "word": "孙东旭年薪1800万为东方甄选最高员工",
-      "onboard_time": 1702790796,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 690744,
@@ -227,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 637096,
+      "num": 243185,
+      "word": "星光大赏饿不着",
+      "onboard_time": 1702792833,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 637013,
       "num": 637013,
       "word": "许绍雄嫁女",
@@ -240,6 +288,14 @@
       "word": "杨幂和30斤裙子度过一天",
       "onboard_time": 1702742914,
       "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 595543,
+      "num": 120504,
+      "word": "宋茜 缪斯降临",
+      "onboard_time": 1702792651,
+      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -283,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539427,
+      "num": 189632,
+      "word": "董明珠孟羽童 认知鸿沟",
+      "onboard_time": 1702792955,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 535330,
       "num": 440605,
       "word": "俞敏洪正策划带董宇辉去国外直播",
@@ -305,6 +369,14 @@
       "onboard_time": 1702722036,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 523285,
+      "num": 523285,
+      "word": "猪奶为什么没有人喝",
+      "onboard_time": 1702790796,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 522804,
@@ -347,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 476829,
+      "num": 411326,
+      "word": "杰哥 我的票呢",
+      "onboard_time": 1702790431,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 465887,
       "num": 465887,
       "word": "陈飞宇我承认昨天太大声了",
@@ -363,20 +443,20 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 459764,
-      "num": 459764,
-      "word": "南方人终于向羽绒服低头了",
-      "onboard_time": 1702790732,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447258,
       "num": 447258,
       "word": "董宇辉八年前旧照",
       "onboard_time": 1702739560,
       "rank": 14,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 435508,
+      "num": 251103,
+      "word": "婚纱照销毁师9个月销毁450套照片",
+      "onboard_time": 1702792114,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434257,
@@ -409,14 +489,6 @@
       "onboard_time": 1702782511,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411326,
-      "num": 411326,
-      "word": "杰哥 我的票呢",
-      "onboard_time": 1702790431,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 405038,
@@ -455,6 +527,14 @@
       "num": 394122,
       "word": "猴鹿 以爱为营",
       "onboard_time": 1702742015,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388105,
+      "num": 246111,
+      "word": "星光大赏红毯",
+      "onboard_time": 1702793854,
       "rank": 16,
       "category": "综艺"
     },
@@ -523,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 337541,
+      "num": 223034,
+      "word": "良品铺子 于适",
+      "onboard_time": 1702791452,
+      "rank": 22,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 334209,
       "num": 334209,
       "word": "两岁时的马立奥",
@@ -585,6 +673,14 @@
       "onboard_time": 1702736436,
       "rank": 27,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 292426,
+      "num": 292426,
+      "word": "李斌 高速开90",
+      "onboard_time": 1702792172,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 290959,
@@ -667,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247564,
+      "num": 215051,
+      "word": "唐嫣繁花波浪卷造型",
+      "onboard_time": 1702793253,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247198,
       "num": 247198,
       "word": "宋雨琦一个人14分",
@@ -715,14 +819,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 227387,
-      "num": 227387,
-      "word": "猪奶为什么没有人喝",
-      "onboard_time": 1702790796,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 222802,
       "num": 222802,
       "word": "这四种食物可能会加重咳嗽",
@@ -753,6 +849,14 @@
       "onboard_time": 1702741714,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212354,
+      "num": 212354,
+      "word": "孟子义黑色露背裙",
+      "onboard_time": 1702793973,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210918,
@@ -1059,6 +1163,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 157337,
+      "num": 157337,
+      "word": "快船七连胜",
+      "onboard_time": 1702793913,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156976,
       "num": 156976,
       "word": "为什么越到考试我越放松",
@@ -1073,6 +1185,14 @@
       "onboard_time": 1702785512,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156392,
+      "num": 156392,
+      "word": "狗狗 虚胖",
+      "onboard_time": 1702793732,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 155398,
@@ -1145,6 +1265,14 @@
       "onboard_time": 1702780716,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147259,
+      "num": 147259,
+      "word": "海产姐妹",
+      "onboard_time": 1702791272,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 147062,
@@ -1273,6 +1401,22 @@
       "onboard_time": 1702787133,
       "rank": 39,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 120720,
+      "num": 120720,
+      "word": "这么玩刘关张也得散伙啊",
+      "onboard_time": 1702793555,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120631,
+      "num": 120631,
+      "word": "宁远舟 干一行爱一行",
+      "onboard_time": 1702793312,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 120574,
