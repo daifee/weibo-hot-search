@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702833316298,
+  "endTime": 1702834445193,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -2099,6 +2099,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 238458,
+      "num": 176457,
+      "word": "倪妮景甜这对我同意了",
+      "onboard_time": 1702832664,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234880,
       "num": 294688,
       "word": "顾客吐槽火锅里吃出生锈小刀",
@@ -2571,6 +2579,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 176790,
+      "num": 572391,
+      "word": "真的需要这件羽绒服",
+      "onboard_time": 1702830694,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176139,
       "num": 176139,
       "word": "日版produce101成团",
@@ -2600,14 +2616,6 @@
       "word": "花少鬼畜 克罗地亚狂想曲",
       "onboard_time": 1702784909,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 172752,
-      "num": 172752,
-      "word": "倪妮景甜这对我同意了",
-      "onboard_time": 1702832664,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2857,14 +2865,6 @@
       "onboard_time": 1702821642,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150718,
-      "num": 572391,
-      "word": "真的需要这件羽绒服",
-      "onboard_time": 1702830694,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 149828,
@@ -3171,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96151,
+      "num": 96151,
+      "word": "孟美岐弹吉他",
+      "onboard_time": 1702830573,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93742,
       "num": 291249,
       "word": "六级翻译 养老",
@@ -3353,6 +3361,14 @@
       "onboard_time": 1702798536,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33055,
+      "num": 95508,
+      "word": "我的2023原神总结",
+      "onboard_time": 1702834401,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 32566,
