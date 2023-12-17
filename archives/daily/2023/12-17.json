@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702790185513,
+  "endTime": 1702791262018,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -51,7 +51,7 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 1427944,
+      "raw_hot": 1456806,
       "num": 260024,
       "word": "孟羽童仅一年广告收入或达400万",
       "onboard_time": 1702787312,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1110998,
+      "num": 441340,
+      "word": "董宇辉错失了20亿吗",
+      "onboard_time": 1702786531,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1081971,
       "num": 236637,
       "word": "董宇辉 士为知己者死",
@@ -96,14 +104,6 @@
       "word": "俞敏洪称天权失态让他愤怒",
       "onboard_time": 1702738782,
       "rank": 3,
-      "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1052090,
-      "num": 392222,
-      "word": "董宇辉错失了20亿吗",
-      "onboard_time": 1702786531,
-      "rank": 30,
       "category": "互联网,社会新闻"
     },
     {
@@ -123,8 +123,8 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 923323,
-      "num": 923323,
+      "raw_hot": 987623,
+      "num": 987623,
       "word": "田曦薇 名伶起舞",
       "onboard_time": 1702788632,
       "rank": 1,
@@ -137,6 +137,14 @@
       "onboard_time": 1702729837,
       "rank": 4,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 873366,
+      "num": 873366,
+      "word": "网约车为什么总是臭臭的",
+      "onboard_time": 1702787852,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 862717,
@@ -179,20 +187,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 728181,
-      "num": 728181,
-      "word": "网约车为什么总是臭臭的",
-      "onboard_time": 1702787852,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 699855,
       "num": 699855,
       "word": "法老的宠妃 银发的公主",
       "onboard_time": 1702784491,
       "rank": 6,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 693293,
+      "num": 256555,
+      "word": "孙东旭年薪1800万为东方甄选最高员工",
+      "onboard_time": 1702790796,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 690744,
@@ -217,6 +225,14 @@
       "onboard_time": 1702740515,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 637013,
+      "num": 637013,
+      "word": "许绍雄嫁女",
+      "onboard_time": 1702789414,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 612235,
@@ -307,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 517730,
+      "num": 517730,
+      "word": "星光大赏宣传海报",
+      "onboard_time": 1702788272,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506480,
       "num": 348910,
       "word": "俞敏洪董宇辉合体直播",
@@ -323,14 +347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 504916,
-      "num": 504916,
-      "word": "星光大赏宣传海报",
-      "onboard_time": 1702788272,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 465887,
       "num": 465887,
       "word": "陈飞宇我承认昨天太大声了",
@@ -345,6 +361,14 @@
       "onboard_time": 1702786830,
       "rank": 8,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 459764,
+      "num": 459764,
+      "word": "南方人终于向羽绒服低头了",
+      "onboard_time": 1702790732,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447258,
@@ -371,12 +395,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 414401,
+      "num": 414401,
+      "word": "孙颖莎王曼昱3比1陈梦王艺迪",
+      "onboard_time": 1702789714,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412054,
       "num": 435344,
       "word": "商贩用鬼秤成年男子上秤不足60斤",
       "onboard_time": 1702782511,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411326,
+      "num": 411326,
+      "word": "杰哥 我的票呢",
+      "onboard_time": 1702790431,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 405038,
@@ -417,14 +457,6 @@
       "onboard_time": 1702742015,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391943,
-      "num": 391943,
-      "word": "许绍雄嫁女",
-      "onboard_time": 1702789414,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 387965,
@@ -505,14 +537,6 @@
       "onboard_time": 1702777230,
       "rank": 24,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 321516,
-      "num": 321516,
-      "word": "孙颖莎王曼昱3比1陈梦王艺迪",
-      "onboard_time": 1702789714,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 315927,
@@ -619,8 +643,8 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 254622,
-      "num": 254622,
+      "raw_hot": 256345,
+      "num": 256345,
       "word": "宋亚轩 哥哥们心中的妹夫",
       "onboard_time": 1702789235,
       "rank": 23,
@@ -689,6 +713,14 @@
       "onboard_time": 1702780773,
       "rank": 31,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 227387,
+      "num": 227387,
+      "word": "猪奶为什么没有人喝",
+      "onboard_time": 1702790796,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 222802,
@@ -865,6 +897,14 @@
       "onboard_time": 1702780953,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186054,
+      "num": 186054,
+      "word": "以闪亮之名冬日童话",
+      "onboard_time": 1702790732,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 184601,
@@ -1067,6 +1107,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 153302,
+      "num": 153302,
+      "word": "这办事效率也太快了吧",
+      "onboard_time": 1702790253,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152051,
       "num": 152051,
       "word": "情绪稳定 倒霉惯了",
@@ -1131,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143055,
+      "num": 143055,
+      "word": "广东也加入下雪群聊了",
+      "onboard_time": 1702790972,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141300,
       "num": 141300,
       "word": "董宇辉讲王阳明",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1702778554,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132042,
+      "num": 132042,
+      "word": "亚历山大绝杀掘金",
+      "onboard_time": 1702790613,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 129160,
@@ -1347,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54652,
+      "num": 400010,
+      "word": "我们的歌音乐盛典",
+      "onboard_time": 1702789235,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42246,
       "num": 72129,
       "word": "高校回应教学楼地面塌陷",
@@ -1369,14 +1441,6 @@
       "onboard_time": 1702767077,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 37478,
-      "num": 381259,
-      "word": "我们的歌音乐盛典",
-      "onboard_time": 1702789235,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 30995,
@@ -1436,6 +1500,9 @@
     },
     {
       "word": "#改革发展必须坚持以人民为中心#"
+    },
+    {
+      "word": "#中国改革开放的信心和意志都不会动摇#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1702791262018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1166214,
+        "num": 1166214,
+        "word": "东方甄选CFO发声",
+        "onboard_time": 1702782995,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 987623,
+        "num": 987623,
+        "word": "田曦薇 名伶起舞",
+        "onboard_time": 1702788632,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76427,
+        "num": 899760,
+        "word": "寒潮天气安全提示",
+        "onboard_time": 1702785330,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873366,
+        "num": 873366,
+        "word": "网约车为什么总是臭臭的",
+        "onboard_time": 1702787852,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637013,
+        "num": 637013,
+        "word": "许绍雄嫁女",
+        "onboard_time": 1702789414,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557188,
+        "num": 557188,
+        "word": "姜珮瑶 原生淡妆",
+        "onboard_time": 1702788632,
+        "rank": 5,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 537598,
+        "num": 537598,
+        "word": "陈赫鹿晗跳科目三",
+        "onboard_time": 1702780112,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533911,
+        "num": 533911,
+        "word": "北京一居民花10万买高15米大恐龙",
+        "onboard_time": 1702778432,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517730,
+        "num": 517730,
+        "word": "星光大赏宣传海报",
+        "onboard_time": 1702788272,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459764,
+        "num": 459764,
+        "word": "南方人终于向羽绒服低头了",
+        "onboard_time": 1702790732,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1451375,
+        "num": 451013,
+        "word": "狂飙 世纪大和解",
+        "onboard_time": 1702786471,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1110998,
+        "num": 441340,
+        "word": "董宇辉错失了20亿吗",
+        "onboard_time": 1702786531,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 414401,
+        "num": 414401,
+        "word": "孙颖莎王曼昱3比1陈梦王艺迪",
+        "onboard_time": 1702789714,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411326,
+        "num": 411326,
+        "word": "杰哥 我的票呢",
+        "onboard_time": 1702790431,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54652,
+        "num": 400010,
+        "word": "我们的歌音乐盛典",
+        "onboard_time": 1702789235,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389002,
+        "num": 389002,
+        "word": "星光大赏节目单",
+        "onboard_time": 1702781673,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324695,
+        "num": 324695,
+        "word": "张杰演唱会 抢票",
+        "onboard_time": 1702787371,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290564,
+        "num": 290564,
+        "word": "法老的宠妃 银发的公主",
+        "onboard_time": 1702784491,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 285765,
+        "num": 285765,
+        "word": "两岁时的马立奥",
+        "onboard_time": 1702787072,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256854,
+        "num": 256854,
+        "word": "溜溜梅立牌",
+        "onboard_time": 1702782333,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1456806,
+        "num": 256623,
+        "word": "孟羽童仅一年广告收入或达400万",
+        "onboard_time": 1702787312,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 693293,
+        "num": 256555,
+        "word": "孙东旭年薪1800万为东方甄选最高员工",
+        "onboard_time": 1702790796,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 256345,
+        "num": 256345,
+        "word": "宋亚轩 哥哥们心中的妹夫",
+        "onboard_time": 1702789235,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245383,
+        "num": 245383,
+        "word": "王安宇耳骨钉",
+        "onboard_time": 1702785091,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 550759,
+        "num": 241076,
+        "word": "董宇辉称只误接一个挖人电话",
+        "onboard_time": 1702776691,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 227798,
+        "num": 227798,
+        "word": "马斯克被曝透露对外星人看法",
+        "onboard_time": 1702789054,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 227387,
+        "num": 227387,
+        "word": "猪奶为什么没有人喝",
+        "onboard_time": 1702790796,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 307653,
+        "num": 224259,
+        "word": "董宇辉IP估值约10亿美金",
+        "onboard_time": 1702787193,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 219496,
+        "num": 219496,
+        "word": "王栎鑫俞灏明 一生中最爱",
+        "onboard_time": 1702786471,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218810,
+        "num": 218810,
+        "word": "许志安回应黄心颖父亲去世",
+        "onboard_time": 1702789173,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204824,
+        "num": 204824,
+        "word": "30岁女子怀胎九月和六旬老伯结婚",
+        "onboard_time": 1702775192,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191000,
+        "num": 191000,
+        "word": "便宜又好穿的羽绒服都去哪了",
+        "onboard_time": 1702787973,
+        "rank": 31,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 190162,
+        "num": 190162,
+        "word": "繁花要播了",
+        "onboard_time": 1702789714,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186054,
+        "num": 186054,
+        "word": "以闪亮之名冬日童话",
+        "onboard_time": 1702790732,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182874,
+        "num": 182874,
+        "word": "考研人去考了六级",
+        "onboard_time": 1702780773,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103893,
+        "num": 174039,
+        "word": "时代少年团你没事吧",
+        "onboard_time": 1702787133,
+        "rank": 35,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 167618,
+        "num": 167618,
+        "word": "王栎鑫 蝴蝶妆",
+        "onboard_time": 1702787133,
+        "rank": 36,
+        "category": "演出,美妆"
+      },
+      {
+        "raw_hot": 162027,
+        "num": 162027,
+        "word": "顾客吐槽火锅里吃出生锈小刀",
+        "onboard_time": 1702785330,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159728,
+        "num": 159728,
+        "word": "龙丹妮看张若昀的那一秒",
+        "onboard_time": 1702788332,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159061,
+        "num": 159061,
+        "word": "景甜藕粉妆",
+        "onboard_time": 1702786830,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 153302,
+        "num": 153302,
+        "word": "这办事效率也太快了吧",
+        "onboard_time": 1702790253,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151106,
+        "num": 151106,
+        "word": "赵丽颖不出席跨年活动",
+        "onboard_time": 1702779153,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143055,
+        "num": 143055,
+        "word": "广东也加入下雪群聊了",
+        "onboard_time": 1702790972,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140607,
+        "num": 140607,
+        "word": "董宇辉事件",
+        "onboard_time": 1702777230,
+        "rank": 43,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 138788,
+        "num": 138788,
+        "word": "丈夫去世7名好友帮照顾家庭6年",
+        "onboard_time": 1702768999,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133635,
+        "num": 133635,
+        "word": "宋雨琦一个人14分",
+        "onboard_time": 1702784728,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132935,
+        "num": 132935,
+        "word": "受伤小狍子拦在路中像在求救",
+        "onboard_time": 1702786892,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132042,
+        "num": 132042,
+        "word": "亚历山大绝杀掘金",
+        "onboard_time": 1702790613,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130823,
+        "num": 130823,
+        "word": "文章39岁状态",
+        "onboard_time": 1702737159,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128561,
+        "num": 128561,
+        "word": "韩剧 淘宝进货",
+        "onboard_time": 1702742736,
+        "rank": 49,
+        "category": "作品衍生,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国改革开放的信心和意志都不会动摇#"
+    }
+  }
+}
