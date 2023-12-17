@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702777306874,
+  "endTime": 1702780323336,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -9,6 +9,14 @@
       "onboard_time": 1702738179,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2191128,
+      "num": 564983,
+      "word": "董宇辉称只误接一个挖人电话",
+      "onboard_time": 1702776691,
+      "rank": 11,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1641798,
@@ -75,20 +83,28 @@
       "category": "作品衍生,互联网"
     },
     {
-      "raw_hot": 832618,
-      "num": 355024,
-      "word": "董宇辉称只误接一个挖人电话",
-      "onboard_time": 1702776691,
-      "rank": 11,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 807515,
       "num": 807515,
       "word": "谁能管管赵露思和王安宇",
       "onboard_time": 1702740634,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 760278,
+      "num": 760278,
+      "word": "北京一居民花10万买高15米大恐龙",
+      "onboard_time": 1702778432,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739615,
+      "num": 739615,
+      "word": "陈赫鹿晗跳科目三",
+      "onboard_time": 1702780112,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 737381,
@@ -131,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 589462,
+      "num": 505257,
+      "word": "东方甄选恢复直播位列带货总榜第一",
+      "onboard_time": 1702778731,
+      "rank": 6,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 587207,
       "num": 587207,
       "word": "鹿晗回复古巨基",
@@ -145,6 +169,14 @@
       "onboard_time": 1702768999,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546956,
+      "num": 546956,
+      "word": "刘诗诗说一念关山不是古偶",
+      "onboard_time": 1702772427,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 535330,
@@ -163,12 +195,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 525620,
-      "num": 525620,
-      "word": "刘诗诗说一念关山不是古偶",
-      "onboard_time": 1702772427,
+      "raw_hot": 510342,
+      "num": 510342,
+      "word": "赵丽颖不出席跨年活动",
+      "onboard_time": 1702779153,
       "rank": 5,
-      "category": "剧集"
+      "category": "艺人"
     },
     {
       "raw_hot": 506480,
@@ -211,6 +243,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 396926,
+      "num": 200403,
+      "word": "突然明白什么叫阴阳割昏晓",
+      "onboard_time": 1702777171,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 395215,
       "num": 373531,
       "word": "董宇辉称小作文事件我的处理很幼稚",
@@ -236,7 +276,7 @@
     },
     {
       "raw_hot": 375363,
-      "num": 337233,
+      "num": 354941,
       "word": "俞敏洪称孙东旭还能参加公司沟通发展",
       "onboard_time": 1702774348,
       "rank": 13,
@@ -267,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 342159,
+      "num": 342159,
+      "word": "为什么女生一生气就不讲话",
+      "onboard_time": 1702737635,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324382,
       "num": 222627,
       "word": "董宇辉事件",
@@ -283,11 +331,11 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 310370,
-      "num": 310370,
-      "word": "为什么女生一生气就不讲话",
-      "onboard_time": 1702737635,
-      "rank": 36,
+      "raw_hot": 300447,
+      "num": 226473,
+      "word": "原来平安夜送苹果是国内习俗",
+      "onboard_time": 1702771765,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -323,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282690,
+      "num": 223113,
+      "word": "没谈过恋爱就开始被催婚了",
+      "onboard_time": 1702776333,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 274916,
       "num": 274916,
       "word": "董宇辉孙东旭关系有时会紧张",
@@ -347,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267605,
-      "num": 223113,
-      "word": "没谈过恋爱就开始被催婚了",
-      "onboard_time": 1702776333,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 266433,
       "num": 266433,
       "word": "赵露思回应鞋底穿帮",
@@ -369,14 +417,6 @@
       "onboard_time": 1702728761,
       "rank": 35,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 252133,
-      "num": 226473,
-      "word": "原来平安夜送苹果是国内习俗",
-      "onboard_time": 1702771765,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 222802,
@@ -435,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208037,
+      "num": 208037,
+      "word": "花了两块钱推了四站地",
+      "onboard_time": 1702779751,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204205,
       "num": 204205,
       "word": "与恶魔有约八集定律",
@@ -467,6 +515,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 191946,
+      "num": 191946,
+      "word": "毛不易 真是一场酣畅淋漓的学习啊",
+      "onboard_time": 1702778010,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190543,
       "num": 190543,
       "word": "董宇辉 真诚",
@@ -483,6 +539,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184601,
+      "num": 184601,
+      "word": "花儿与少年",
+      "onboard_time": 1702777112,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181380,
+      "num": 181380,
+      "word": "蔚来直播",
+      "onboard_time": 1702779691,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 180074,
+      "num": 180074,
+      "word": "SEVENTEEN不想哭路灯下面都空了",
+      "onboard_time": 1702776570,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 176139,
       "num": 176139,
       "word": "日版produce101成团",
@@ -491,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175025,
-      "num": 175025,
-      "word": "突然明白什么叫阴阳割昏晓",
-      "onboard_time": 1702777171,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 175460,
+      "num": 175460,
+      "word": "电视剧脱轨",
+      "onboard_time": 1702732900,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 171273,
@@ -505,14 +585,6 @@
       "onboard_time": 1702775430,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166181,
-      "num": 166181,
-      "word": "SEVENTEEN不想哭路灯下面都空了",
-      "onboard_time": 1702776570,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 163671,
@@ -529,6 +601,14 @@
       "onboard_time": 1702774050,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159918,
+      "num": 159918,
+      "word": "蔬菜跌出了白菜价",
+      "onboard_time": 1702779392,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155398,
@@ -555,20 +635,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152716,
-      "num": 152716,
-      "word": "花儿与少年",
-      "onboard_time": 1702777112,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149393,
       "num": 234233,
       "word": "病重妈妈用尽全力给儿子做了碗面",
       "onboard_time": 1702743393,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145621,
+      "num": 145621,
+      "word": "情绪稳定 倒霉惯了",
+      "onboard_time": 1702779333,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 145572,
@@ -619,12 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135238,
-      "num": 135238,
-      "word": "电视剧脱轨",
-      "onboard_time": 1702732900,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 132999,
+      "num": 132999,
+      "word": "王安宇卷发",
+      "onboard_time": 1702778554,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125414,
@@ -640,6 +720,14 @@
       "word": "萌兰拼命想翘一个二郎腿",
       "onboard_time": 1702742373,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125132,
+      "num": 125132,
+      "word": "曹县设计师说汉服不输奢侈品大牌",
+      "onboard_time": 1702780112,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -665,6 +753,14 @@
       "onboard_time": 1702772607,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110146,
+      "num": 110146,
+      "word": "东方甄选小作文危机解除了吗",
+      "onboard_time": 1702780230,
+      "rank": 49,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 104384,
