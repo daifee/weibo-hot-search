@@ -1,0 +1,410 @@
+{
+  "runTime": 1702804587958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2703243,
+        "num": 2703243,
+        "word": "赵露思 鸟鸟做错了什么",
+        "onboard_time": 1702800697,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2253485,
+        "num": 2253485,
+        "word": "王鹤棣拉田曦薇手腕那一下",
+        "onboard_time": 1702800094,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31180,
+        "num": 1881893,
+        "word": "2023温暖中国的瞬间",
+        "onboard_time": 1702798536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1637304,
+        "num": 1637304,
+        "word": "老师 我们家迪丽热巴呢",
+        "onboard_time": 1702793672,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1462960,
+        "num": 1462960,
+        "word": "星光大赏红毯",
+        "onboard_time": 1702793854,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1079998,
+        "num": 1079998,
+        "word": "王子奇王玉雯牵手走红毯",
+        "onboard_time": 1702803099,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1026404,
+        "num": 1026404,
+        "word": "妈妈去世前一晚满眼慈爱看熟睡儿子",
+        "onboard_time": 1702794934,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580344,
+        "num": 580344,
+        "word": "妈妈因妹妹发烧未及时接姐姐而自责",
+        "onboard_time": 1702796733,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388990,
+        "num": 388990,
+        "word": "陈幸同 中场看手机",
+        "onboard_time": 1702803877,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377916,
+        "num": 377916,
+        "word": "刘少昂500米绝杀夺冠",
+        "onboard_time": 1702799318,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 979906,
+        "num": 377402,
+        "word": "星光大赏ie休息区",
+        "onboard_time": 1702797937,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821080,
+        "num": 369801,
+        "word": "杨紫 鎏金蝴蝶公主",
+        "onboard_time": 1702791331,
+        "rank": 11,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 767500,
+        "num": 368879,
+        "word": "夭柳红毯情侣装",
+        "onboard_time": 1702802737,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346140,
+        "num": 346140,
+        "word": "孙东旭年薪1800万为东方甄选最高员工",
+        "onboard_time": 1702790796,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 74817,
+        "num": 346113,
+        "word": "电竞猛男的粉色心情",
+        "onboard_time": 1702803635,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 759834,
+        "num": 346101,
+        "word": "鸟鸟主持",
+        "onboard_time": 1702797397,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715483,
+        "num": 346043,
+        "word": "林更新回春",
+        "onboard_time": 1702801235,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 607060,
+        "num": 346027,
+        "word": "张晚e",
+        "onboard_time": 1702799558,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346001,
+        "num": 346001,
+        "word": "中国短道队男子5000米接力夺冠",
+        "onboard_time": 1702803519,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334168,
+        "num": 334168,
+        "word": "男子裸聊被敲诈走投无路向妻子坦白",
+        "onboard_time": 1702795230,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584559,
+        "num": 331485,
+        "word": "田曦薇 名伶起舞",
+        "onboard_time": 1702788632,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342127,
+        "num": 328438,
+        "word": "东方甄选急需重估董宇辉的价值",
+        "onboard_time": 1702802918,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 319652,
+        "num": 319652,
+        "word": "南方人终于向羽绒服低头了",
+        "onboard_time": 1702790732,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300629,
+        "num": 300629,
+        "word": "网约车为什么总是臭臭的",
+        "onboard_time": 1702787852,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 280371,
+        "num": 280371,
+        "word": "东方甄选CFO发声",
+        "onboard_time": 1702782995,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 550701,
+        "num": 277728,
+        "word": "张婧仪白色花瓣裙",
+        "onboard_time": 1702802857,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549900,
+        "num": 273848,
+        "word": "黄梦莹 越素越美",
+        "onboard_time": 1702802558,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511283,
+        "num": 273080,
+        "word": "唐嫣这次造型好美",
+        "onboard_time": 1702794693,
+        "rank": 27,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 268836,
+        "num": 268836,
+        "word": "非银行支付机构监督管理条例正式公布",
+        "onboard_time": 1702800878,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 252050,
+        "num": 252050,
+        "word": "C罗中国行 票价",
+        "onboard_time": 1702802435,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402577,
+        "num": 251572,
+        "word": "王一博棒球帽卷发",
+        "onboard_time": 1702797274,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393830,
+        "num": 251030,
+        "word": "星光大赏直播",
+        "onboard_time": 1702793493,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377263,
+        "num": 249950,
+        "word": "长相思剧组红毯",
+        "onboard_time": 1702800636,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351698,
+        "num": 248842,
+        "word": "星光大赏明星出发图",
+        "onboard_time": 1702791511,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247984,
+        "num": 247984,
+        "word": "WTT 裁判",
+        "onboard_time": 1702800034,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348325,
+        "num": 247110,
+        "word": "王鹤棣 金发太子爷",
+        "onboard_time": 1702796800,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 242719,
+        "num": 242719,
+        "word": "董明珠孟羽童 认知鸿沟",
+        "onboard_time": 1702792955,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 242074,
+        "num": 242074,
+        "word": "猪奶为什么没有人喝",
+        "onboard_time": 1702790796,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238633,
+        "num": 238633,
+        "word": "真正可能致癌的是这种鸡肉",
+        "onboard_time": 1702796134,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224400,
+        "num": 224400,
+        "word": "俞敏洪称靠优秀员工发展要为员工打工",
+        "onboard_time": 1702798774,
+        "rank": 39,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 278930,
+        "num": 224386,
+        "word": "威神v可以是原唱也可以是原告",
+        "onboard_time": 1702804004,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329552,
+        "num": 222580,
+        "word": "景甜希腊女神妆",
+        "onboard_time": 1702801418,
+        "rank": 41,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 304482,
+        "num": 221969,
+        "word": "许光汉 周杰伦MV里的小男孩",
+        "onboard_time": 1702803460,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330822,
+        "num": 221124,
+        "word": "张雨绮身材",
+        "onboard_time": 1702800094,
+        "rank": 43,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 266960,
+        "num": 219626,
+        "word": "狂飙 世纪大和解",
+        "onboard_time": 1702786471,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219491,
+        "num": 219491,
+        "word": "凡晨组合四夺总决赛冠军",
+        "onboard_time": 1702803702,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214142,
+        "num": 214142,
+        "word": "孟羽童仅一年广告收入或达400万",
+        "onboard_time": 1702787312,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 213525,
+        "num": 213525,
+        "word": "董宇辉错失了20亿吗",
+        "onboard_time": 1702786531,
+        "rank": 47,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 148086,
+        "num": 210558,
+        "word": "孙颖莎4比1陈梦",
+        "onboard_time": 1702798175,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144005,
+        "num": 209869,
+        "word": "男班主任酒后查寝猥亵女学生被行拘",
+        "onboard_time": 1702796556,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国改革开放的信心和意志都不会动摇#"
+    }
+  }
+}
