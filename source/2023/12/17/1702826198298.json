@@ -1,0 +1,410 @@
+{
+  "runTime": 1702826198298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7135410,
+        "num": 7135410,
+        "word": "星光大赏开场 陈情令",
+        "onboard_time": 1702813420,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3485723,
+        "num": 3485723,
+        "word": "王一博到底在急什么",
+        "onboard_time": 1702823686,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59181,
+        "num": 3364886,
+        "word": "双曲线一号商业运载火箭成功发射",
+        "onboard_time": 1702823569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3245528,
+        "num": 3245528,
+        "word": "赵露思上台忘记脱毛衣了",
+        "onboard_time": 1702824586,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2098205,
+        "num": 2098205,
+        "word": "迪丽热巴内场侧颜",
+        "onboard_time": 1702816308,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1737699,
+        "num": 1737699,
+        "word": "朋友圈 闻神刷屏",
+        "onboard_time": 1702821467,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 800713,
+        "num": 800713,
+        "word": "日本死鱼多到渔船寸步难行",
+        "onboard_time": 1702819845,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791131,
+        "num": 791131,
+        "word": "瘦了40斤 更焦虑了",
+        "onboard_time": 1702816069,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 643969,
+        "num": 643969,
+        "word": "今天的朋友圈格外emo",
+        "onboard_time": 1702824707,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300388,
+        "num": 634489,
+        "word": "警方通报女童险被陌生男子捂嘴拖走",
+        "onboard_time": 1702814078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1782330,
+        "num": 615397,
+        "word": "孙东旭留任东方甄选非执行董事",
+        "onboard_time": 1702824768,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1302363,
+        "num": 592807,
+        "word": "迪丽热巴红毯迷路",
+        "onboard_time": 1702808322,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1159771,
+        "num": 568744,
+        "word": "孟子义摔了",
+        "onboard_time": 1702815343,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1097007,
+        "num": 525032,
+        "word": "星光大赏座位图",
+        "onboard_time": 1702813901,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19588,
+        "num": 502445,
+        "word": "冯琳贺熠坤张靓婧晋级",
+        "onboard_time": 1702825244,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1037611,
+        "num": 476889,
+        "word": "这下全世界都知道沈腾戴假发了",
+        "onboard_time": 1702821044,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473635,
+        "num": 473635,
+        "word": "媒体泄密小米汽车将赔三百万罚金",
+        "onboard_time": 1702823807,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 422501,
+        "num": 422501,
+        "word": "我这一生如履薄冰",
+        "onboard_time": 1702822189,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415803,
+        "num": 415803,
+        "word": "王强 被俞敏洪遮住的男人",
+        "onboard_time": 1702819007,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 229157,
+        "num": 414070,
+        "word": "湖南一市场火灾已扑救37小时",
+        "onboard_time": 1702825004,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1029812,
+        "num": 410911,
+        "word": "杨紫越来越美",
+        "onboard_time": 1702822668,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822472,
+        "num": 406966,
+        "word": "周杰伦新歌",
+        "onboard_time": 1702823508,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 742351,
+        "num": 404807,
+        "word": "星光大赏",
+        "onboard_time": 1702811681,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546761,
+        "num": 400077,
+        "word": "罗永浩称想为董宇辉争取更公平待遇",
+        "onboard_time": 1702824829,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 398813,
+        "num": 398813,
+        "word": "东方甄选已注册多个董宇辉商标",
+        "onboard_time": 1702822367,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 729612,
+        "num": 388338,
+        "word": "张万森 朋友圈下老登了",
+        "onboard_time": 1702825550,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 716816,
+        "num": 379883,
+        "word": "杨紫怼脸镜头好美",
+        "onboard_time": 1702815402,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83126,
+        "num": 376376,
+        "word": "蔚来一块电池跑了1044公里",
+        "onboard_time": 1702823988,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168875,
+        "num": 359598,
+        "word": "孙颖莎说下了领奖台一切从零开始",
+        "onboard_time": 1702824046,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162822,
+        "num": 350163,
+        "word": "小女孩雪后擦去路边车辆上不雅留言",
+        "onboard_time": 1702809822,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286941,
+        "num": 340666,
+        "word": "每天只睡5小时的小学生熬不动了",
+        "onboard_time": 1702805261,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 670942,
+        "num": 327433,
+        "word": "告诉秦岚 辛芷蕾今晚不回去了",
+        "onboard_time": 1702825968,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661048,
+        "num": 313380,
+        "word": "汪苏泷 唱功",
+        "onboard_time": 1702822428,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596679,
+        "num": 302979,
+        "word": "屋顶着火还得看宋茜",
+        "onboard_time": 1702825726,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301057,
+        "num": 301057,
+        "word": "孙东旭曾对董宇辉称不要幻想做管理",
+        "onboard_time": 1702824109,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 596603,
+        "num": 299047,
+        "word": "赵露思花海礼裙",
+        "onboard_time": 1702815466,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588854,
+        "num": 298354,
+        "word": "王一博能看到精选留言",
+        "onboard_time": 1702825185,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573645,
+        "num": 298015,
+        "word": "王鹤棣 爱豆味",
+        "onboard_time": 1702823807,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296718,
+        "num": 296718,
+        "word": "小米汽车",
+        "onboard_time": 1702825128,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22985,
+        "num": 293932,
+        "word": "苏慧伦Amber唱出暗恋酸涩感",
+        "onboard_time": 1702825244,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548198,
+        "num": 282878,
+        "word": "一念关山 高开癫走的剧情",
+        "onboard_time": 1702823087,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147747,
+        "num": 274324,
+        "word": "孙颖莎总决赛3连冠",
+        "onboard_time": 1702814980,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123917,
+        "num": 269115,
+        "word": "孙颖莎帽子戏法",
+        "onboard_time": 1702824172,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495830,
+        "num": 260997,
+        "word": "宋茜红桃A",
+        "onboard_time": 1702820084,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448522,
+        "num": 248530,
+        "word": "星光大赏最忙的是中医",
+        "onboard_time": 1702818044,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247985,
+        "num": 247985,
+        "word": "孙颖莎2023完美收官",
+        "onboard_time": 1702826145,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184670,
+        "num": 247764,
+        "word": "罗永浩为什么一直抓着东方甄选不放",
+        "onboard_time": 1702815343,
+        "rank": 46,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 178342,
+        "num": 247728,
+        "word": "AR让二追三夺冠",
+        "onboard_time": 1702820869,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170408,
+        "num": 247472,
+        "word": "东方甄选回应孙东旭职务变动",
+        "onboard_time": 1702813660,
+        "rank": 48,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 121744,
+        "num": 247056,
+        "word": "陈幸同",
+        "onboard_time": 1702816909,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国改革开放的信心和意志都不会动摇#"
+    }
+  }
+}

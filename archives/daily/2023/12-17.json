@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702823652218,
+  "endTime": 1702826198298,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -19,10 +19,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3485723,
+      "num": 3485723,
+      "word": "王一博到底在急什么",
+      "onboard_time": 1702823686,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3343180,
       "num": 3343180,
       "word": "孟子义摔了",
       "onboard_time": 1702815343,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3245528,
+      "num": 3245528,
+      "word": "赵露思上台忘记脱毛衣了",
+      "onboard_time": 1702824586,
       "rank": 3,
       "category": "综艺"
     },
@@ -123,6 +139,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1782330,
+      "num": 615397,
+      "word": "孙东旭留任东方甄选非执行董事",
+      "onboard_time": 1702824768,
+      "rank": 10,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1737699,
+      "num": 1737699,
+      "word": "朋友圈 闻神刷屏",
+      "onboard_time": 1702821467,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1679504,
       "num": 1679504,
       "word": "这下全世界都知道沈腾戴假发了",
@@ -153,14 +185,6 @@
       "onboard_time": 1702814437,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1602346,
-      "num": 1602346,
-      "word": "朋友圈 闻神刷屏",
-      "onboard_time": 1702821467,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 1544547,
@@ -555,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 822472,
+      "num": 406966,
+      "word": "周杰伦新歌",
+      "onboard_time": 1702823508,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 821136,
       "num": 438655,
       "word": "闵塔鲨",
@@ -625,6 +657,14 @@
       "onboard_time": 1702734460,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 729612,
+      "num": 388338,
+      "word": "张万森 朋友圈下老登了",
+      "onboard_time": 1702825550,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 728869,
@@ -699,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670942,
+      "num": 327433,
+      "word": "告诉秦岚 辛芷蕾今晚不回去了",
+      "onboard_time": 1702825968,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 668538,
       "num": 668538,
       "word": "张凌赫全开麦 一开口我人傻了",
@@ -755,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 643969,
+      "num": 643969,
+      "word": "今天的朋友圈格外emo",
+      "onboard_time": 1702824707,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 637096,
       "num": 272630,
       "word": "星光大赏饿不着",
@@ -793,6 +849,14 @@
       "onboard_time": 1702800094,
       "rank": 20,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 596679,
+      "num": 302979,
+      "word": "屋顶着火还得看宋茜",
+      "onboard_time": 1702825726,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 595543,
@@ -843,6 +907,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 588854,
+      "num": 298354,
+      "word": "王一博能看到精选留言",
+      "onboard_time": 1702825185,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587207,
       "num": 587207,
       "word": "鹿晗回复古巨基",
@@ -857,6 +929,14 @@
       "onboard_time": 1702796733,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573645,
+      "num": 298015,
+      "word": "王鹤棣 爱豆味",
+      "onboard_time": 1702823807,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 571865,
@@ -947,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546761,
+      "num": 400077,
+      "word": "罗永浩称想为董宇辉争取更公平待遇",
+      "onboard_time": 1702824829,
+      "rank": 23,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 546589,
       "num": 546589,
       "word": "男子裸聊被敲诈走投无路向妻子坦白",
@@ -993,14 +1081,6 @@
       "onboard_time": 1702722036,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 532805,
-      "num": 355973,
-      "word": "周杰伦新歌",
-      "onboard_time": 1702823508,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 531967,
@@ -1131,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473635,
+      "num": 473635,
+      "word": "媒体泄密小米汽车将赔三百万罚金",
+      "onboard_time": 1702823807,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 472951,
       "num": 472951,
       "word": "500米 重开6次",
@@ -1259,6 +1347,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 422501,
+      "num": 640900,
+      "word": "我这一生如履薄冰",
+      "onboard_time": 1702822189,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 414401,
       "num": 414401,
       "word": "孙颖莎王曼昱3比1陈梦王艺迪",
@@ -1291,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406953,
-      "num": 640900,
-      "word": "我这一生如履薄冰",
-      "onboard_time": 1702822189,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 405038,
       "num": 291754,
       "word": "东方甄选一夜涨粉8.3万",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1702787193,
       "rank": 29,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 398813,
+      "num": 440499,
+      "word": "东方甄选已注册多个董宇辉商标",
+      "onboard_time": 1702822367,
+      "rank": 45,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 396926,
@@ -1401,14 +1497,6 @@
       "onboard_time": 1702795292,
       "rank": 39,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 372521,
-      "num": 440499,
-      "word": "东方甄选已注册多个董宇辉商标",
-      "onboard_time": 1702822367,
-      "rank": 45,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 363298,
@@ -1627,6 +1715,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 301057,
+      "num": 301057,
+      "word": "孙东旭曾对董宇辉称不要幻想做管理",
+      "onboard_time": 1702824109,
+      "rank": 34,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 300447,
       "num": 233779,
       "word": "原来平安夜送苹果是国内习俗",
@@ -1657,6 +1753,14 @@
       "onboard_time": 1702797216,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296718,
+      "num": 296718,
+      "word": "小米汽车",
+      "onboard_time": 1702825128,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 293767,
@@ -1851,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247985,
+      "num": 247985,
+      "word": "孙颖莎2023完美收官",
+      "onboard_time": 1702826145,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247198,
       "num": 247198,
       "word": "宋雨琦一个人14分",
@@ -1929,6 +2041,14 @@
       "onboard_time": 1702811861,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229157,
+      "num": 414070,
+      "word": "湖南一市场火灾已扑救37小时",
+      "onboard_time": 1702825004,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227422,
@@ -2395,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168875,
+      "num": 359598,
+      "word": "孙颖莎说下了领奖台一切从零开始",
+      "onboard_time": 1702824046,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168424,
       "num": 168424,
       "word": "有雷鸣我四六级早过了",
@@ -2755,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123917,
+      "num": 269115,
+      "word": "孙颖莎帽子戏法",
+      "onboard_time": 1702824172,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121896,
       "num": 121896,
       "word": "任如意 恶龙末屠怎敢轻死",
@@ -2899,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83126,
+      "num": 376376,
+      "word": "蔚来一块电池跑了1044公里",
+      "onboard_time": 1702823988,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 79399,
       "num": 364314,
       "word": "蛋娱顶流鸡块妹",
@@ -2977,6 +3121,14 @@
       "onboard_time": 1702768097,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59181,
+      "num": 3364886,
+      "word": "双曲线一号商业运载火箭成功发射",
+      "onboard_time": 1702823569,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54652,
@@ -3059,6 +3211,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22985,
+      "num": 293932,
+      "word": "苏慧伦Amber唱出暗恋酸涩感",
+      "onboard_time": 1702825244,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19588,
+      "num": 502445,
+      "word": "冯琳贺熠坤张靓婧晋级",
+      "onboard_time": 1702825244,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17673,
       "num": 25872,
       "word": "周深面刺宋亚轩",
@@ -3072,14 +3240,6 @@
       "word": "空中视角俯瞰南极浮冰好壮观",
       "onboard_time": 1702823264,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11108,
-      "num": 1847859,
-      "word": "双曲线一号商业运载火箭成功发射",
-      "onboard_time": 1702823569,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
