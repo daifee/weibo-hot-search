@@ -1,0 +1,410 @@
+{
+  "runTime": 1702797372327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2107424,
+        "num": 2107424,
+        "word": "老师 我们家迪丽热巴呢",
+        "onboard_time": 1702793672,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 866092,
+        "num": 866092,
+        "word": "南方人终于向羽绒服低头了",
+        "onboard_time": 1702790732,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67400,
+        "num": 811873,
+        "word": "寒潮天气安全提示",
+        "onboard_time": 1702785330,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220530,
+        "num": 808999,
+        "word": "星光大赏红毯",
+        "onboard_time": 1702793854,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 805188,
+        "num": 805188,
+        "word": "妈妈去世前一晚满眼慈爱看熟睡儿子",
+        "onboard_time": 1702794934,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991381,
+        "num": 771093,
+        "word": "杨紫 鎏金蝴蝶公主",
+        "onboard_time": 1702791331,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557569,
+        "num": 557569,
+        "word": "孙颖莎vs陈梦",
+        "onboard_time": 1702795774,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 591439,
+        "num": 539634,
+        "word": "唐嫣这次造型好美",
+        "onboard_time": 1702794693,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497970,
+        "num": 497970,
+        "word": "婚纱照销毁师9个月销毁450套照片",
+        "onboard_time": 1702792114,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494080,
+        "num": 494080,
+        "word": "男子裸聊被敲诈走投无路向妻子坦白",
+        "onboard_time": 1702795230,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548511,
+        "num": 489631,
+        "word": "孙东旭年薪1800万为东方甄选最高员工",
+        "onboard_time": 1702790796,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 471869,
+        "num": 471869,
+        "word": "何炅 刘诗诗是综艺新人",
+        "onboard_time": 1702794574,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463696,
+        "num": 463696,
+        "word": "狂飙 世纪大和解",
+        "onboard_time": 1702786471,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 449071,
+        "num": 449071,
+        "word": "网约车为什么总是臭臭的",
+        "onboard_time": 1702787852,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 416044,
+        "num": 416044,
+        "word": "猪奶为什么没有人喝",
+        "onboard_time": 1702790796,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 367206,
+        "num": 367206,
+        "word": "王鹤棣 金发太子爷",
+        "onboard_time": 1702796800,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329019,
+        "num": 329019,
+        "word": "前员工称董宇辉孙东旭没有直接矛盾",
+        "onboard_time": 1702795714,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 322790,
+        "num": 322790,
+        "word": "许绍雄嫁女",
+        "onboard_time": 1702789414,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307246,
+        "num": 307246,
+        "word": "男班主任酒后查寝猥亵女学生被行拘",
+        "onboard_time": 1702796556,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 290317,
+        "num": 290317,
+        "word": "北京一居民花10万买高15米大恐龙",
+        "onboard_time": 1702778432,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902893,
+        "num": 289387,
+        "word": "董明珠孟羽童 认知鸿沟",
+        "onboard_time": 1702792955,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 830116,
+        "num": 284743,
+        "word": "董宇辉错失了20亿吗",
+        "onboard_time": 1702786531,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 650262,
+        "num": 277038,
+        "word": "孟羽童仅一年广告收入或达400万",
+        "onboard_time": 1702787312,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 309255,
+        "num": 274400,
+        "word": "真正可能致癌的是这种鸡肉",
+        "onboard_time": 1702796134,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272590,
+        "num": 272590,
+        "word": "杰哥 我的票呢",
+        "onboard_time": 1702790431,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254657,
+        "num": 254657,
+        "word": "东方甄选CFO发声",
+        "onboard_time": 1702782995,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 234859,
+        "num": 234859,
+        "word": "铁蔷薇 销号",
+        "onboard_time": 1702794574,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 779255,
+        "num": 232026,
+        "word": "王鹤棣金发深V",
+        "onboard_time": 1702795174,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222873,
+        "num": 222873,
+        "word": "李斌 高速开90",
+        "onboard_time": 1702792172,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195640,
+        "num": 195640,
+        "word": "法老的宠妃 银发的公主",
+        "onboard_time": 1702784491,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190605,
+        "num": 190605,
+        "word": "唐嫣繁花波浪卷造型",
+        "onboard_time": 1702793253,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190333,
+        "num": 190333,
+        "word": "姜珮瑶 原生淡妆",
+        "onboard_time": 1702788632,
+        "rank": 31,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 190065,
+        "num": 190065,
+        "word": "陈赫鹿晗跳科目三",
+        "onboard_time": 1702780112,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188900,
+        "num": 188900,
+        "word": "短道速滑",
+        "onboard_time": 1702796614,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183983,
+        "num": 183983,
+        "word": "董宇辉称只误接一个挖人电话",
+        "onboard_time": 1702776691,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 183484,
+        "num": 183484,
+        "word": "王栎鑫在娱乐圈是有点人脉的",
+        "onboard_time": 1702795473,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180592,
+        "num": 180592,
+        "word": "狗狗 虚胖",
+        "onboard_time": 1702793732,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171483,
+        "num": 171483,
+        "word": "范可新首尔站500米晋级决赛",
+        "onboard_time": 1702796914,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162711,
+        "num": 162711,
+        "word": "妈妈因妹妹发烧未及时接姐姐而自责",
+        "onboard_time": 1702796733,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157224,
+        "num": 157224,
+        "word": "良品铺子 于适",
+        "onboard_time": 1702791452,
+        "rank": 39,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 145897,
+        "num": 145897,
+        "word": "高校考场外手机成堆主打一个信任",
+        "onboard_time": 1702795356,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137004,
+        "num": 137004,
+        "word": "白敬亭 一晚上演出了场连续剧",
+        "onboard_time": 1702797216,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126150,
+        "num": 126150,
+        "word": "溜溜梅立牌",
+        "onboard_time": 1702782333,
+        "rank": 42,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 124651,
+        "num": 124651,
+        "word": "陈幸同1比4王艺迪",
+        "onboard_time": 1702794337,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123010,
+        "num": 123010,
+        "word": "孙颖莎王曼昱3比1陈梦王艺迪",
+        "onboard_time": 1702789714,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121170,
+        "num": 121170,
+        "word": "六道堂 雨夜上分",
+        "onboard_time": 1702797157,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117180,
+        "num": 117180,
+        "word": "王一博棒球帽卷发",
+        "onboard_time": 1702797274,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111803,
+        "num": 111803,
+        "word": "三个字让成年人绷不住了",
+        "onboard_time": 1702796800,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107608,
+        "num": 107608,
+        "word": "董宇辉事件",
+        "onboard_time": 1702777230,
+        "rank": 48,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 106013,
+        "num": 106013,
+        "word": "宋亚轩 哥哥们心中的妹夫",
+        "onboard_time": 1702789235,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}
