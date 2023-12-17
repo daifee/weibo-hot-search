@@ -1,0 +1,410 @@
+{
+  "runTime": 1702783121798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1377201,
+        "num": 1377201,
+        "word": "陈赫鹿晗跳科目三",
+        "onboard_time": 1702780112,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1312014,
+        "num": 1312014,
+        "word": "北京一居民花10万买高15米大恐龙",
+        "onboard_time": 1702778432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42950,
+        "num": 1142708,
+        "word": "自主研制飞机C919环绕香港岛做演示",
+        "onboard_time": 1702739018,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1050580,
+        "num": 1050580,
+        "word": "星光大赏节目单",
+        "onboard_time": 1702781673,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 770010,
+        "num": 770010,
+        "word": "蛋黄酥线上平台销量暴涨十倍",
+        "onboard_time": 1702781250,
+        "rank": 4,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 498701,
+        "num": 498701,
+        "word": "考研人去考了六级",
+        "onboard_time": 1702780773,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455689,
+        "num": 455689,
+        "word": "赵丽颖不出席跨年活动",
+        "onboard_time": 1702779153,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1599551,
+        "num": 455432,
+        "word": "董宇辉称只误接一个挖人电话",
+        "onboard_time": 1702776691,
+        "rank": 7,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 454595,
+        "num": 454595,
+        "word": "你们俩这么亲我就不困了",
+        "onboard_time": 1702734460,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345807,
+        "num": 345807,
+        "word": "丈夫去世7名好友帮照顾家庭6年",
+        "onboard_time": 1702768999,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850160,
+        "num": 345587,
+        "word": "董宇辉若想创业俞敏洪愿意投资",
+        "onboard_time": 1702780650,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 624856,
+        "num": 344719,
+        "word": "看小说时的生理反应",
+        "onboard_time": 1702738179,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433421,
+        "num": 344620,
+        "word": "文章39岁状态",
+        "onboard_time": 1702737159,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 522425,
+        "num": 343780,
+        "word": "东方甄选CFO发声",
+        "onboard_time": 1702782995,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 343631,
+        "num": 343631,
+        "word": "刘诗诗说一念关山不是古偶",
+        "onboard_time": 1702772427,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335475,
+        "num": 335475,
+        "word": "谁能管管赵露思和王安宇",
+        "onboard_time": 1702740634,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329150,
+        "num": 329150,
+        "word": "溜溜梅立牌",
+        "onboard_time": 1702782333,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 293565,
+        "num": 293565,
+        "word": "花了两块钱推了四站地",
+        "onboard_time": 1702779751,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289415,
+        "num": 289415,
+        "word": "杨幂和30斤裙子度过一天",
+        "onboard_time": 1702742914,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261558,
+        "num": 261558,
+        "word": "商贩用鬼秤成年男子上秤不足60斤",
+        "onboard_time": 1702782511,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912301,
+        "num": 261413,
+        "word": "女子遭丈夫打断腰椎住院后被砍数刀",
+        "onboard_time": 1702767676,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461018,
+        "num": 261283,
+        "word": "东方甄选恢复直播位列带货总榜第一",
+        "onboard_time": 1702778731,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 412561,
+        "num": 260951,
+        "word": "30岁女子怀胎九月和六旬老伯结婚",
+        "onboard_time": 1702775192,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335918,
+        "num": 260586,
+        "word": "突然明白什么叫阴阳割昏晓",
+        "onboard_time": 1702777171,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262185,
+        "num": 260407,
+        "word": "俞敏洪称天权失态让他愤怒",
+        "onboard_time": 1702738782,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 260282,
+        "num": 260282,
+        "word": "乌克兰或在明年3月前破产",
+        "onboard_time": 1702769662,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 230142,
+        "num": 230142,
+        "word": "韩剧 淘宝进货",
+        "onboard_time": 1702742736,
+        "rank": 26,
+        "category": "作品衍生,互联网"
+      },
+      {
+        "raw_hot": 227821,
+        "num": 227821,
+        "word": "没谈过恋爱就开始被催婚了",
+        "onboard_time": 1702776333,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198084,
+        "num": 198084,
+        "word": "张凌赫全开麦 一开口我人傻了",
+        "onboard_time": 1702740515,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191963,
+        "num": 191963,
+        "word": "罗永浩说要正确理解士为知己者死",
+        "onboard_time": 1702780412,
+        "rank": 29,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 186390,
+        "num": 186390,
+        "word": "郑润泽 今后会更加谨言慎行",
+        "onboard_time": 1702780953,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165624,
+        "num": 165624,
+        "word": "为什么女生一生气就不讲话",
+        "onboard_time": 1702737635,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184577,
+        "num": 165216,
+        "word": "董宇辉事件",
+        "onboard_time": 1702777230,
+        "rank": 32,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 179442,
+        "num": 165192,
+        "word": "东方甄选一夜涨粉8.3万",
+        "onboard_time": 1702782872,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 164642,
+        "num": 164642,
+        "word": "以军误杀3名以色列人细节曝光",
+        "onboard_time": 1702771646,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164052,
+        "num": 164052,
+        "word": "好运猫猫",
+        "onboard_time": 1702782452,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155164,
+        "num": 155164,
+        "word": "蔬菜跌出了白菜价",
+        "onboard_time": 1702779392,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152051,
+        "num": 152051,
+        "word": "情绪稳定 倒霉惯了",
+        "onboard_time": 1702779333,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149074,
+        "num": 149074,
+        "word": "毛不易 真是一场酣畅淋漓的学习啊",
+        "onboard_time": 1702778010,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139713,
+        "num": 139713,
+        "word": "原来平安夜送苹果是国内习俗",
+        "onboard_time": 1702771765,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139609,
+        "num": 139609,
+        "word": "曹县设计师说汉服不输奢侈品大牌",
+        "onboard_time": 1702780112,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134479,
+        "num": 134479,
+        "word": "李健脱毛衣",
+        "onboard_time": 1702740158,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134159,
+        "num": 134159,
+        "word": "王安宇卷发",
+        "onboard_time": 1702778554,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132618,
+        "num": 132618,
+        "word": "电视剧脱轨",
+        "onboard_time": 1702778615,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129303,
+        "num": 129303,
+        "word": "蔚来直播",
+        "onboard_time": 1702779691,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129226,
+        "num": 129226,
+        "word": "董宇辉 不理解大家为什么这么喜欢我",
+        "onboard_time": 1702727798,
+        "rank": 45,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 121896,
+        "num": 121896,
+        "word": "任如意 恶龙末屠怎敢轻死",
+        "onboard_time": 1702781972,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121254,
+        "num": 121254,
+        "word": "花儿与少年",
+        "onboard_time": 1702777112,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126980,
+        "num": 120314,
+        "word": "东方甄选小作文事件为何成国民话题",
+        "onboard_time": 1702780773,
+        "rank": 48,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 114931,
+        "num": 114931,
+        "word": "脉脉取消早晚餐饭补福利",
+        "onboard_time": 1702783110,
+        "rank": 49,
+        "category": "互联网,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#改革发展必须坚持以人民为中心#"
+    }
+  }
+}

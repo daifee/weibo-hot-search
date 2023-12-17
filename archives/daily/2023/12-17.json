@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702780926365,
+  "endTime": 1702783121798,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1312014,
+      "num": 1312014,
+      "word": "北京一居民花10万买高15米大恐龙",
+      "onboard_time": 1702778432,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1133141,
       "num": 617883,
       "word": "文章39岁状态",
@@ -67,20 +75,20 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1050580,
+      "num": 1050580,
+      "word": "星光大赏节目单",
+      "onboard_time": 1702781673,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1028033,
       "num": 376322,
       "word": "董宇辉 不理解大家为什么这么喜欢我",
       "onboard_time": 1702727798,
       "rank": 20,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 947993,
-      "num": 947993,
-      "word": "北京一居民花10万买高15米大恐龙",
-      "onboard_time": 1702778432,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897517,
@@ -99,12 +107,28 @@
       "category": "作品衍生,互联网"
     },
     {
+      "raw_hot": 850160,
+      "num": 345587,
+      "word": "董宇辉若想创业俞敏洪愿意投资",
+      "onboard_time": 1702780650,
+      "rank": 13,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 807515,
       "num": 807515,
       "word": "谁能管管赵露思和王安宇",
       "onboard_time": 1702740634,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 770010,
+      "num": 770010,
+      "word": "蛋黄酥线上平台销量暴涨十倍",
+      "onboard_time": 1702781250,
+      "rank": 4,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 737381,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 673979,
-      "num": 256014,
+      "num": 260951,
       "word": "30岁女子怀胎九月和六旬老伯结婚",
       "onboard_time": 1702775192,
       "rank": 21,
@@ -203,12 +227,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 522425,
+      "num": 343780,
+      "word": "东方甄选CFO发声",
+      "onboard_time": 1702782995,
+      "rank": 13,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 506480,
       "num": 348910,
       "word": "俞敏洪董宇辉合体直播",
       "onboard_time": 1702725341,
       "rank": 23,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 498701,
+      "num": 498701,
+      "word": "考研人去考了六级",
+      "onboard_time": 1702780773,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 465887,
@@ -244,7 +284,7 @@
     },
     {
       "raw_hot": 396926,
-      "num": 251079,
+      "num": 260586,
       "word": "突然明白什么叫阴阳割昏晓",
       "onboard_time": 1702777171,
       "rank": 35,
@@ -315,12 +355,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 337404,
-      "num": 337404,
-      "word": "董宇辉若想创业俞敏洪愿意投资",
-      "onboard_time": 1702780650,
-      "rank": 13,
-      "category": "互联网,社会新闻"
+      "raw_hot": 329150,
+      "num": 329150,
+      "word": "溜溜梅立牌",
+      "onboard_time": 1702782333,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 324382,
@@ -363,6 +403,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 293565,
+      "num": 293565,
+      "word": "花了两块钱推了四站地",
+      "onboard_time": 1702779751,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292768,
       "num": 292768,
       "word": "在杭州带货哭了一晚上",
@@ -385,22 +433,6 @@
       "onboard_time": 1702739800,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286277,
-      "num": 286277,
-      "word": "花了两块钱推了四站地",
-      "onboard_time": 1702779751,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282956,
-      "num": 282956,
-      "word": "考研人去考了六级",
-      "onboard_time": 1702780773,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 274916,
@@ -441,6 +473,14 @@
       "onboard_time": 1702780412,
       "rank": 27,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 261558,
+      "num": 261558,
+      "word": "商贩用鬼秤成年男子上秤不足60斤",
+      "onboard_time": 1702782511,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252507,
@@ -579,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186390,
+      "num": 186390,
+      "word": "郑润泽 今后会更加谨言慎行",
+      "onboard_time": 1702780953,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184601,
       "num": 184601,
       "word": "花儿与少年",
@@ -601,6 +649,14 @@
       "onboard_time": 1702776570,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179442,
+      "num": 165192,
+      "word": "东方甄选一夜涨粉8.3万",
+      "onboard_time": 1702782872,
+      "rank": 33,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 176139,
@@ -633,6 +689,14 @@
       "onboard_time": 1702779392,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164052,
+      "num": 164052,
+      "word": "好运猫猫",
+      "onboard_time": 1702782452,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 163671,
@@ -675,8 +739,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150644,
-      "num": 150644,
+      "raw_hot": 152051,
+      "num": 152051,
       "word": "情绪稳定 倒霉惯了",
       "onboard_time": 1702779333,
       "rank": 42,
@@ -747,8 +811,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132999,
-      "num": 132999,
+      "raw_hot": 134159,
+      "num": 134159,
       "word": "王安宇卷发",
       "onboard_time": 1702778554,
       "rank": 43,
@@ -771,11 +835,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121896,
+      "num": 121896,
+      "word": "任如意 恶龙末屠怎敢轻死",
+      "onboard_time": 1702781972,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117472,
       "num": 96081,
       "word": "董宇辉发文拥有暖评最多的评论区",
       "onboard_time": 1702762753,
       "rank": 21,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 114931,
+      "num": 114931,
+      "word": "脉脉取消早晚餐饭补福利",
+      "onboard_time": 1702783110,
+      "rank": 49,
       "category": "互联网,社会新闻"
     },
     {
@@ -836,7 +916,7 @@
     },
     {
       "raw_hot": 78529,
-      "num": 1075801,
+      "num": 1142708,
       "word": "自主研制飞机C919环绕香港岛做演示",
       "onboard_time": 1702739018,
       "rank": 2,
