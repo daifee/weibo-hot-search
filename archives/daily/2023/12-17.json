@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702783121798,
+  "endTime": 1702784068513,
   "band_list": [
     {
       "raw_hot": 2407040,
@@ -43,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1312014,
-      "num": 1312014,
+      "raw_hot": 1334211,
+      "num": 1334211,
       "word": "北京一居民花10万买高15米大恐龙",
       "onboard_time": 1702778432,
       "rank": 0,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1035872,
+      "num": 1035872,
+      "word": "东方甄选CFO发声",
+      "onboard_time": 1702782995,
+      "rank": 13,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1028033,
       "num": 376322,
       "word": "董宇辉 不理解大家为什么这么喜欢我",
@@ -108,10 +116,18 @@
     },
     {
       "raw_hot": 850160,
-      "num": 345587,
+      "num": 431868,
       "word": "董宇辉若想创业俞敏洪愿意投资",
       "onboard_time": 1702780650,
       "rank": 13,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 822051,
+      "num": 770010,
+      "word": "蛋黄酥线上平台销量暴涨十倍",
+      "onboard_time": 1702781250,
+      "rank": 4,
       "category": "互联网,社会新闻"
     },
     {
@@ -121,14 +137,6 @@
       "onboard_time": 1702740634,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 770010,
-      "num": 770010,
-      "word": "蛋黄酥线上平台销量暴涨十倍",
-      "onboard_time": 1702781250,
-      "rank": 4,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 737381,
@@ -227,14 +235,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 522425,
-      "num": 343780,
-      "word": "东方甄选CFO发声",
-      "onboard_time": 1702782995,
-      "rank": 13,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 506480,
       "num": 348910,
       "word": "俞敏洪董宇辉合体直播",
@@ -243,12 +243,20 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 498701,
-      "num": 498701,
+      "raw_hot": 506374,
+      "num": 506374,
       "word": "考研人去考了六级",
       "onboard_time": 1702780773,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 501977,
+      "num": 501977,
+      "word": "溜溜梅立牌",
+      "onboard_time": 1702782333,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 465887,
@@ -280,6 +288,22 @@
       "word": "董宇辉粉丝突破2000万",
       "onboard_time": 1702775549,
       "rank": 19,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 412054,
+      "num": 435344,
+      "word": "商贩用鬼秤成年男子上秤不足60斤",
+      "onboard_time": 1702782511,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405038,
+      "num": 237800,
+      "word": "东方甄选一夜涨粉8.3万",
+      "onboard_time": 1702782872,
+      "rank": 33,
       "category": "互联网,社会新闻"
     },
     {
@@ -353,14 +377,6 @@
       "onboard_time": 1702737635,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 329150,
-      "num": 329150,
-      "word": "溜溜梅立牌",
-      "onboard_time": 1702782333,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 324382,
@@ -475,14 +491,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 261558,
-      "num": 261558,
-      "word": "商贩用鬼秤成年男子上秤不足60斤",
-      "onboard_time": 1702782511,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252507,
       "num": 252507,
       "word": "董宇辉在直播中道歉",
@@ -539,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210358,
+      "num": 210358,
+      "word": "脉脉取消早晚餐饭补福利",
+      "onboard_time": 1702783110,
+      "rank": 49,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 209825,
       "num": 209825,
       "word": "方逸伦 于十三",
@@ -577,6 +593,14 @@
       "onboard_time": 1702717056,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195452,
+      "num": 195452,
+      "word": "C罗中国行赛程官宣",
+      "onboard_time": 1702783352,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 194783,
@@ -651,14 +675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179442,
-      "num": 165192,
-      "word": "东方甄选一夜涨粉8.3万",
-      "onboard_time": 1702782872,
-      "rank": 33,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 176139,
       "num": 176139,
       "word": "日版produce101成团",
@@ -680,6 +696,14 @@
       "word": "刘浩存哭戏",
       "onboard_time": 1702775430,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168885,
+      "num": 168885,
+      "word": "一念关山",
+      "onboard_time": 1702783232,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -747,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149417,
+      "num": 149417,
+      "word": "五哈",
+      "onboard_time": 1702783952,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149393,
       "num": 234233,
       "word": "病重妈妈用尽全力给儿子做了碗面",
@@ -811,12 +843,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134159,
-      "num": 134159,
+      "raw_hot": 134222,
+      "num": 134222,
       "word": "王安宇卷发",
       "onboard_time": 1702778554,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129160,
+      "num": 129160,
+      "word": "李雪琴猜题 根本难不倒她",
+      "onboard_time": 1702783412,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 125414,
@@ -843,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120574,
+      "num": 120574,
+      "word": "九大鼻炎的调理方法",
+      "onboard_time": 1702783352,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117472,
       "num": 96081,
       "word": "董宇辉发文拥有暖评最多的评论区",
@@ -851,12 +899,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 114931,
-      "num": 114931,
-      "word": "脉脉取消早晚餐饭补福利",
-      "onboard_time": 1702783110,
+      "raw_hot": 114731,
+      "num": 114731,
+      "word": "为什么越到考试我越放松",
+      "onboard_time": 1702784009,
       "rank": 49,
-      "category": "互联网,社会新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 112730,
