@@ -1,0 +1,410 @@
+{
+  "runTime": 1702808255205,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2404029,
+        "num": 2404029,
+        "word": "倪妮周雨彤撞衫",
+        "onboard_time": 1702805138,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168223,
+        "num": 1405336,
+        "word": "一句保护你让娃瞬间踏实到不吱声",
+        "onboard_time": 1702806636,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31895,
+        "num": 1374625,
+        "word": "2023温暖中国的瞬间",
+        "onboard_time": 1702798536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347713,
+        "num": 1347713,
+        "word": "每天只睡5小时的小学生熬不动了",
+        "onboard_time": 1702805261,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166381,
+        "num": 1339753,
+        "word": "男孩拾金不昧被大学生塞娃哈哈感谢",
+        "onboard_time": 1702806699,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332202,
+        "num": 1332202,
+        "word": "星光大赏红毯",
+        "onboard_time": 1702793854,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99960,
+        "num": 1300581,
+        "word": "飞机飞过七彩祥云好梦幻",
+        "onboard_time": 1702807783,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300229,
+        "num": 1300229,
+        "word": "赵露思 鸟鸟做错了什么",
+        "onboard_time": 1702800697,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1186754,
+        "num": 1186754,
+        "word": "王鹤棣拉田曦薇手腕那一下",
+        "onboard_time": 1702800094,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 903263,
+        "num": 903263,
+        "word": "夭柳红毯情侣装",
+        "onboard_time": 1702802737,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790290,
+        "num": 790290,
+        "word": "星光大赏ie休息区",
+        "onboard_time": 1702797937,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 787110,
+        "num": 787110,
+        "word": "张雨绮 老娘走中间",
+        "onboard_time": 1702806038,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2691090,
+        "num": 786794,
+        "word": "老师 我们家迪丽热巴呢",
+        "onboard_time": 1702793672,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766246,
+        "num": 766246,
+        "word": "唐嫣一个人走红毯",
+        "onboard_time": 1702805860,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 549834,
+        "num": 549834,
+        "word": "妈妈去世前一晚满眼慈爱看熟睡儿子",
+        "onboard_time": 1702794934,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746266,
+        "num": 474180,
+        "word": "杨紫 鎏金蝴蝶公主",
+        "onboard_time": 1702791331,
+        "rank": 15,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 388443,
+        "num": 388443,
+        "word": "陈幸同 中场看手机",
+        "onboard_time": 1702803877,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358651,
+        "num": 358651,
+        "word": "台湾知名景点象鼻岩象鼻断裂",
+        "onboard_time": 1702804833,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326362,
+        "num": 326362,
+        "word": "妈妈因妹妹发烧未及时接姐姐而自责",
+        "onboard_time": 1702796733,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276736,
+        "num": 276736,
+        "word": "黑龙江500多份幽灵档案被查",
+        "onboard_time": 1702807546,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682011,
+        "num": 271533,
+        "word": "许凯景甜好甜",
+        "onboard_time": 1702805979,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662454,
+        "num": 268582,
+        "word": "王子奇王玉雯牵手走红毯",
+        "onboard_time": 1702803099,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406764,
+        "num": 267742,
+        "word": "疑似樊登回应东方甄选小作文风波",
+        "onboard_time": 1702807180,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 257217,
+        "num": 257217,
+        "word": "南方人终于向羽绒服低头了",
+        "onboard_time": 1702790732,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233282,
+        "num": 233282,
+        "word": "戴资颖总决赛四冠王",
+        "onboard_time": 1702807904,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 652585,
+        "num": 231255,
+        "word": "刘宇宁直播",
+        "onboard_time": 1702807302,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537506,
+        "num": 230683,
+        "word": "王一博棒球帽卷发",
+        "onboard_time": 1702797274,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531967,
+        "num": 229750,
+        "word": "汪苏泷反采访鸟鸟",
+        "onboard_time": 1702805919,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228353,
+        "num": 228353,
+        "word": "孟羽童仅一年广告收入或达400万",
+        "onboard_time": 1702787312,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 344822,
+        "num": 224940,
+        "word": "罗永浩评东方甄选风波当事人再发声",
+        "onboard_time": 1702805801,
+        "rank": 29,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 490800,
+        "num": 221724,
+        "word": "景甜希腊女神妆",
+        "onboard_time": 1702801418,
+        "rank": 30,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 486316,
+        "num": 217749,
+        "word": "孟子义美甲掉了",
+        "onboard_time": 1702805261,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484018,
+        "num": 213754,
+        "word": "倪妮 寒风中摇曳的黑玫瑰",
+        "onboard_time": 1702806406,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211651,
+        "num": 211651,
+        "word": "真正可能致癌的是这种鸡肉",
+        "onboard_time": 1702796134,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324916,
+        "num": 207960,
+        "word": "500米 重开6次",
+        "onboard_time": 1702807722,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482269,
+        "num": 206500,
+        "word": "王传君 狗狗祟祟",
+        "onboard_time": 1702806342,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461625,
+        "num": 205247,
+        "word": "赵露思森林秘境长裙",
+        "onboard_time": 1702806763,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203845,
+        "num": 203845,
+        "word": "董明珠孟羽童 认知鸿沟",
+        "onboard_time": 1702792955,
+        "rank": 37,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 332412,
+        "num": 203491,
+        "word": "红毯纷纷扰扰 王子奇正骨养老",
+        "onboard_time": 1702807722,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284271,
+        "num": 202591,
+        "word": "孙东旭年薪1800万为东方甄选最高员工",
+        "onboard_time": 1702790796,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 398110,
+        "num": 201736,
+        "word": "星光大赏直播",
+        "onboard_time": 1702793493,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254250,
+        "num": 200665,
+        "word": "吴宣仪白色婚纱裙",
+        "onboard_time": 1702807664,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245582,
+        "num": 198699,
+        "word": "东方甄选急需重估董宇辉的价值",
+        "onboard_time": 1702802918,
+        "rank": 42,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 198617,
+        "num": 198617,
+        "word": "张雨绮穿了陈采尼给杨紫换头的衣服",
+        "onboard_time": 1702808023,
+        "rank": 43,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 188555,
+        "num": 188555,
+        "word": "网约车为什么总是臭臭的",
+        "onboard_time": 1702787852,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181350,
+        "num": 181350,
+        "word": "WTT 裁判",
+        "onboard_time": 1702800034,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180296,
+        "num": 180296,
+        "word": "三大队",
+        "onboard_time": 1702807000,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176105,
+        "num": 176105,
+        "word": "猪奶为什么没有人喝",
+        "onboard_time": 1702790796,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68712,
+        "num": 173363,
+        "word": "熊猫团子暖阳下乖乖玩玩具",
+        "onboard_time": 1702806636,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172514,
+        "num": 172514,
+        "word": "男子裸聊被敲诈走投无路向妻子坦白",
+        "onboard_time": 1702795230,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}
