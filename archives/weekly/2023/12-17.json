@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702934149431,
+  "endTime": 1702935238386,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -5531,6 +5531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123076,
+      "num": 25073,
+      "word": "俞敏洪称正内部处理小编",
+      "onboard_time": 1702932672,
+      "rank": 26,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 121896,
       "num": 121896,
       "word": "任如意 恶龙末屠怎敢轻死",
@@ -5737,14 +5745,6 @@
       "onboard_time": 1702867235,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 90589,
-      "num": 23979,
-      "word": "俞敏洪称正内部处理小编",
-      "onboard_time": 1702932672,
-      "rank": 26,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 89404,
@@ -6217,6 +6217,14 @@
       "onboard_time": 1702760714,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17431,
+      "num": 19037,
+      "word": "阿音情丝养成记",
+      "onboard_time": 1702934654,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 15740,

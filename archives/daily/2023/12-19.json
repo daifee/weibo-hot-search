@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702934149431,
+  "endTime": 1702935238386,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123076,
+      "num": 25073,
+      "word": "俞敏洪称正内部处理小编",
+      "onboard_time": 1702932672,
+      "rank": 26,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 122768,
       "num": 122768,
       "word": "迪丽热巴 Dior",
@@ -497,14 +505,6 @@
       "onboard_time": 1702894232,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90589,
-      "num": 23979,
-      "word": "俞敏洪称正内部处理小编",
-      "onboard_time": 1702932672,
-      "rank": 26,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 84673,
@@ -585,6 +585,14 @@
       "onboard_time": 1702930453,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17431,
+      "num": 19037,
+      "word": "阿音情丝养成记",
+      "onboard_time": 1702934654,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 9953,
