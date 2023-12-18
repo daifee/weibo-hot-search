@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702928051111,
+  "endTime": 1702930676834,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -561,6 +561,22 @@
       "onboard_time": 1702925956,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31879,
+      "num": 31879,
+      "word": "迪丽热巴睫毛太长",
+      "onboard_time": 1702929194,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 20584,
+      "num": 20584,
+      "word": "李宇春新歌",
+      "onboard_time": 1702930453,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 9953,

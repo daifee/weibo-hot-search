@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/19 00:23:18 ~ 2023/12/19 03:34:11
+本榜单时间：2023/12/19 00:23:18 ~ 2023/12/19 04:17:56
 </p>
 </blockquote>
 <p>
@@ -431,6 +431,18 @@ Uzi和Faker同队（热度：109591）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%BA%A6%E6%9C%9F%E5%BE%85%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%23" target="weibo">
 2024年度期待电竞选手（热度：34488）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9D%AB%E6%AF%9B%E5%A4%AA%E9%95%BF%23" target="weibo">
+迪丽热巴睫毛太长（热度：31879）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E6%96%B0%E6%AD%8C%23" target="weibo">
+李宇春新歌（热度：20584）
 </a>
 </li>
 
