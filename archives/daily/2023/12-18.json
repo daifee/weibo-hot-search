@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702867310573,
+  "endTime": 1702869549714,
   "band_list": [
     {
       "raw_hot": 4081310,
@@ -17,6 +17,14 @@
       "onboard_time": 1702826864,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2372878,
+      "num": 2372878,
+      "word": "给住院婆婆吃泡面博主被拘",
+      "onboard_time": 1702865974,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2160614,
@@ -51,14 +59,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1540962,
-      "num": 1540962,
-      "word": "给住院婆婆吃泡面博主被拘",
-      "onboard_time": 1702865974,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1455995,
       "num": 568773,
       "word": "迪丽热巴第二套造型",
@@ -83,12 +83,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1234522,
+      "num": 900522,
+      "word": "建行",
+      "onboard_time": 1702865552,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1226646,
       "num": 1226646,
       "word": "韩国大量进口中国辣椒酱",
       "onboard_time": 1702858956,
       "rank": 1,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1218096,
+      "num": 1218096,
+      "word": "湿发睡觉 致癌",
+      "onboard_time": 1702867355,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1131350,
@@ -131,14 +147,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 900522,
-      "num": 900522,
-      "word": "建行",
-      "onboard_time": 1702865552,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 887960,
       "num": 394646,
       "word": "告诉秦岚 辛芷蕾今晚不回去了",
@@ -161,6 +169,14 @@
       "onboard_time": 1702825550,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 793494,
+      "num": 793494,
+      "word": "小小的我官宣",
+      "onboard_time": 1702867174,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 788949,
@@ -225,6 +241,14 @@
       "onboard_time": 1702815343,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 607498,
+      "num": 607498,
+      "word": "华为nova12 易烊千玺",
+      "onboard_time": 1702868013,
+      "rank": 9,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 563843,
@@ -451,20 +475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301992,
+      "num": 301992,
+      "word": "关晓彤代言的天然呆被强执430万",
+      "onboard_time": 1702868674,
+      "rank": 23,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 301266,
       "num": 270000,
       "word": "赵露思花海礼裙",
       "onboard_time": 1702815466,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293644,
-      "num": 251918,
-      "word": "小小的我官宣",
-      "onboard_time": 1702867174,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 287437,
@@ -481,6 +505,14 @@
       "onboard_time": 1702861414,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280289,
+      "num": 345038,
+      "word": "65万人抢一万个夜校名额",
+      "onboard_time": 1702867410,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 275766,
@@ -611,6 +643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 209179,
+      "num": 209179,
+      "word": "中级经济师 过了",
+      "onboard_time": 1702868013,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206172,
       "num": 206172,
       "word": "辛芷蕾繁华造型 沪上富贵花",
@@ -625,6 +665,14 @@
       "onboard_time": 1702835481,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196177,
+      "num": 196177,
+      "word": "雷鸣 实惨",
+      "onboard_time": 1702869089,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 195016,
@@ -643,12 +691,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189569,
+      "num": 189569,
+      "word": "已故阴阳师玩家",
+      "onboard_time": 1702868912,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186632,
       "num": 186632,
       "word": "ITZY回归新曲",
       "onboard_time": 1702865913,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182828,
+      "num": 182828,
+      "word": "杭州下雪",
+      "onboard_time": 1702866755,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181082,
@@ -691,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161059,
-      "num": 161059,
-      "word": "杭州下雪",
-      "onboard_time": 1702866755,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159335,
       "num": 136552,
       "word": "狗神 评分第一票房垫底",
@@ -712,6 +768,22 @@
       "word": "孙东旭曾对董宇辉称不要幻想做管理",
       "onboard_time": 1702824109,
       "rank": 37,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 157395,
+      "num": 157395,
+      "word": "林永健晒儿子林大竣全英文接受采访",
+      "onboard_time": 1702869515,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157336,
+      "num": 157336,
+      "word": "董宇辉成高级合伙人会降低直播频次吗",
+      "onboard_time": 1702869154,
+      "rank": 49,
       "category": "互联网,社会新闻"
     },
     {
@@ -891,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68536,
+      "num": 331125,
+      "word": "十万级家轿用料能有多扎实",
+      "onboard_time": 1702867235,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66792,
       "num": 66792,
       "word": "汪苏泷 我值得",
@@ -907,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43923,
+      "num": 389833,
+      "word": "2024财运莲莲 就问你接不接",
+      "onboard_time": 1702868431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42008,
       "num": 1826511,
       "word": "双曲线一号商业运载火箭成功发射",
@@ -921,14 +1009,6 @@
       "onboard_time": 1702815102,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37775,
-      "num": 150745,
-      "word": "十万级家轿用料能有多扎实",
-      "onboard_time": 1702867235,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 33077,
@@ -993,6 +1073,14 @@
       "onboard_time": 1702840036,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12900,
+      "num": 192411,
+      "word": "苏醒吴莫愁同花顺满满遗憾",
+      "onboard_time": 1702868431,
+      "rank": 39,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
