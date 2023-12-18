@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702862233587,
+  "endTime": 1702863512426,
   "band_list": [
     {
       "raw_hot": 4081310,
@@ -24,6 +24,14 @@
       "word": "赵露思上台忘记脱毛衣了",
       "onboard_time": 1702824586,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1773024,
+      "num": 1773024,
+      "word": "倪妮周雨彤 体面",
+      "onboard_time": 1702862013,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 797070,
-      "num": 540588,
+      "num": 560411,
       "word": "张万森 朋友圈下老登了",
       "onboard_time": 1702825550,
       "rank": 16,
@@ -243,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 468189,
-      "num": 468189,
-      "word": "倪妮周雨彤 体面",
-      "onboard_time": 1702862013,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 473967,
+      "num": 402121,
+      "word": "周杰伦真不把观众当外人",
+      "onboard_time": 1702861233,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 459775,
@@ -307,20 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 402121,
-      "num": 402121,
-      "word": "周杰伦真不把观众当外人",
-      "onboard_time": 1702861233,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 375636,
       "num": 375636,
       "word": "檀健次王嘉尔被吓到",
       "onboard_time": 1702831172,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356735,
+      "num": 356735,
+      "word": "北大副教授跨栏进出校门",
+      "onboard_time": 1702862553,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 342227,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333412,
+      "num": 402464,
+      "word": "大学校园是否应对外开放",
+      "onboard_time": 1702861832,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 327595,
       "num": 379115,
       "word": "罗永浩称想为董宇辉争取更公平待遇",
@@ -339,12 +355,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 318436,
-      "num": 402464,
-      "word": "大学校园是否应对外开放",
-      "onboard_time": 1702861832,
-      "rank": 19,
-      "category": "教育,社会新闻"
+      "raw_hot": 322139,
+      "num": 290389,
+      "word": "张万森 又下雪了",
+      "onboard_time": 1702861895,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 317450,
@@ -353,6 +369,14 @@
       "onboard_time": 1702821642,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308656,
+      "num": 308656,
+      "word": "罗永浩称高级合伙人是虚的不重要",
+      "onboard_time": 1702863392,
+      "rank": 23,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 302359,
@@ -411,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270343,
+      "num": 270343,
+      "word": "十二星座一周运势",
+      "onboard_time": 1702862611,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256530,
       "num": 256530,
       "word": "赵露思 年度海外最具人气演员",
@@ -419,8 +451,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248818,
-      "num": 248818,
+      "raw_hot": 252960,
+      "num": 252960,
       "word": "阿根廷世界杯夺冠一周年",
       "onboard_time": 1702860276,
       "rank": 29,
@@ -433,6 +465,14 @@
       "onboard_time": 1702832664,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235732,
+      "num": 235732,
+      "word": "小米智能门锁多次自动打开",
+      "onboard_time": 1702862372,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 231257,
@@ -467,20 +507,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206900,
-      "num": 206900,
-      "word": "张万森 又下雪了",
-      "onboard_time": 1702861895,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 206172,
+      "num": 206172,
+      "word": "辛芷蕾繁华造型 沪上富贵花",
+      "onboard_time": 1702862855,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 202371,
-      "num": 178483,
+      "num": 181047,
       "word": "TF三代 diss队友",
       "onboard_time": 1702835481,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195016,
+      "num": 183022,
+      "word": "繁花 排面",
+      "onboard_time": 1702863214,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191728,
@@ -500,7 +548,7 @@
     },
     {
       "raw_hot": 171796,
-      "num": 138082,
+      "num": 145279,
       "word": "周杰伦新歌歌名三个字",
       "onboard_time": 1702857510,
       "rank": 42,
@@ -555,6 +603,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 139899,
+      "num": 139899,
+      "word": "考研英语小作文终极预测",
+      "onboard_time": 1702861116,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 139124,
       "num": 139124,
       "word": "直拍镜头下的花花和谭爷爷",
@@ -563,20 +619,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136533,
+      "num": 136533,
+      "word": "雷军称小米第一辆车研发投入超百亿",
+      "onboard_time": 1702863392,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 136341,
       "num": 333767,
       "word": "当HR问我为什么有一年空窗期",
       "onboard_time": 1702813901,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136016,
-      "num": 136016,
-      "word": "考研英语小作文终极预测",
-      "onboard_time": 1702861116,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 133283,
