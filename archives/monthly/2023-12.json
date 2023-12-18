@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702931676292,
+  "endTime": 1702934149431,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -47081,6 +47081,14 @@
       "onboard_time": 1702110153,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 90589,
+      "num": 23979,
+      "word": "俞敏洪称正内部处理小编",
+      "onboard_time": 1702932672,
+      "rank": 26,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 90254,
