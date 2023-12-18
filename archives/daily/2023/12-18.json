@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702863512426,
+  "endTime": 1702866645372,
   "band_list": [
     {
       "raw_hot": 4081310,
@@ -107,6 +107,22 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1051783,
+      "num": 1051783,
+      "word": "林更新 她成我领导了",
+      "onboard_time": 1702863691,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1050722,
+      "num": 1050722,
+      "word": "给住院婆婆吃泡面博主被拘",
+      "onboard_time": 1702865974,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 987151,
       "num": 798654,
       "word": "刘畊宏出圈1年多后谈流量下滑",
@@ -187,6 +203,22 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 614286,
+      "num": 614286,
+      "word": "周杰伦真不把观众当外人",
+      "onboard_time": 1702861233,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 612800,
+      "num": 612800,
+      "word": "建行",
+      "onboard_time": 1702865552,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 610916,
       "num": 378762,
       "word": "孟子义摔了",
@@ -201,6 +233,14 @@
       "onboard_time": 1702822668,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 556490,
+      "num": 556490,
+      "word": "罗永浩称高级合伙人是虚的不重要",
+      "onboard_time": 1702863392,
+      "rank": 23,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 547984,
@@ -249,14 +289,6 @@
       "onboard_time": 1702827522,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473967,
-      "num": 402121,
-      "word": "周杰伦真不把观众当外人",
-      "onboard_time": 1702861233,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 459775,
@@ -315,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406540,
+      "num": 406540,
+      "word": "东方甄选高仿账号",
+      "onboard_time": 1702864353,
+      "rank": 13,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 375636,
       "num": 375636,
       "word": "檀健次王嘉尔被吓到",
@@ -323,12 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356735,
-      "num": 356735,
+      "raw_hot": 373287,
+      "num": 373287,
       "word": "北大副教授跨栏进出校门",
       "onboard_time": 1702862553,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 346531,
+      "num": 346531,
+      "word": "雷军称小米第一辆车研发投入超百亿",
+      "onboard_time": 1702863392,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 342227,
@@ -337,6 +385,14 @@
       "onboard_time": 1702822428,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340930,
+      "num": 340930,
+      "word": "雪天护士把早产婴儿贴胸口一路护送",
+      "onboard_time": 1702863753,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333412,
@@ -371,12 +427,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 308656,
-      "num": 308656,
-      "word": "罗永浩称高级合伙人是虚的不重要",
-      "onboard_time": 1702863392,
-      "rank": 23,
-      "category": "互联网,社会新闻"
+      "raw_hot": 316637,
+      "num": 316637,
+      "word": "是不是真牛肉小杨哥得给一句准话",
+      "onboard_time": 1702864653,
+      "rank": 21,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 302359,
@@ -393,6 +449,14 @@
       "onboard_time": 1702815466,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299099,
+      "num": 299099,
+      "word": "如何知道血管里有没有斑块",
+      "onboard_time": 1702863753,
+      "rank": 23,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 287437,
@@ -443,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262223,
+      "num": 262223,
+      "word": "苏州下雪",
+      "onboard_time": 1702863691,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256530,
       "num": 256530,
       "word": "赵露思 年度海外最具人气演员",
@@ -457,6 +529,22 @@
       "onboard_time": 1702860276,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250407,
+      "num": 250407,
+      "word": "东方甄选开盘大涨",
+      "onboard_time": 1702865193,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 239969,
+      "num": 239969,
+      "word": "新加坡建议公众室内戴口罩",
+      "onboard_time": 1702863573,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238458,
@@ -539,12 +627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186632,
+      "num": 186632,
+      "word": "ITZY回归新曲",
+      "onboard_time": 1702865913,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181082,
       "num": 380602,
       "word": "中国改革开放的信心和意志都不会动摇",
       "onboard_time": 1702827941,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176830,
+      "num": 176830,
+      "word": "星光大赏 颜值盛宴",
+      "onboard_time": 1702865432,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 171796,
@@ -617,14 +721,6 @@
       "onboard_time": 1702858472,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136533,
-      "num": 136533,
-      "word": "雷军称小米第一辆车研发投入超百亿",
-      "onboard_time": 1702863392,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 136341,
