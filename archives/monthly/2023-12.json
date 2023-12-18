@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702912726457,
+  "endTime": 1702913680203,
   "band_list": [
     {
       "raw_hot": 25694134,
@@ -2795,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1560353,
+      "num": 297877,
+      "word": "董宇辉再播一场将长时间休假",
+      "onboard_time": 1702912121,
+      "rank": 23,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 1557580,
       "num": 618083,
       "word": "罗永浩爆料有人出5亿违约金挖董宇辉",
@@ -5515,14 +5523,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 912965,
-      "num": 297877,
-      "word": "董宇辉再播一场将长时间休假",
-      "onboard_time": 1702912121,
-      "rank": 23,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 912819,
       "num": 912819,
       "word": "班主任猥亵女生校方称怕耽误高考不开除",
@@ -6723,6 +6723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 789412,
+      "num": 311796,
+      "word": "酒肉情侣",
+      "onboard_time": 1702911277,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 789048,
       "num": 789048,
       "word": "疑似杨鸣老婆发文",
@@ -7392,6 +7400,14 @@
       "word": "天权",
       "onboard_time": 1702711893,
       "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 733064,
+      "num": 274812,
+      "word": "罗永浩称除非必要辟谣不再发帖",
+      "onboard_time": 1702912719,
+      "rank": 26,
       "category": "互联网,社会新闻"
     },
     {
@@ -9337,14 +9353,6 @@
       "onboard_time": 1701876038,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 614400,
-      "num": 311796,
-      "word": "酒肉情侣",
-      "onboard_time": 1702911277,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 614286,
@@ -17907,6 +17915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361030,
+      "num": 294132,
+      "word": "于十三没坟头",
+      "onboard_time": 1702908398,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360947,
       "num": 360947,
       "word": "职场PUA",
@@ -19152,14 +19168,6 @@
       "word": "刘宇宁头套",
       "onboard_time": 1701508472,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 338359,
-      "num": 294132,
-      "word": "于十三没坟头",
-      "onboard_time": 1702908398,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -22073,6 +22081,14 @@
       "onboard_time": 1701689376,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 296915,
+      "num": 296915,
+      "word": "梅西 最疯狂的一年",
+      "onboard_time": 1702912596,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 296903,
@@ -26643,6 +26659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247017,
+      "num": 247017,
+      "word": "萧敬腾对林有慧一见钟情",
+      "onboard_time": 1702911099,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246948,
       "num": 253762,
       "word": "苹果明年初将推出两款iPadAir",
@@ -26729,14 +26753,6 @@
       "onboard_time": 1702863573,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246132,
-      "num": 246132,
-      "word": "萧敬腾对林有慧一见钟情",
-      "onboard_time": 1702911099,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 246114,
@@ -28809,14 +28825,6 @@
       "onboard_time": 1701420273,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228495,
-      "num": 222108,
-      "word": "梅西 最疯狂的一年",
-      "onboard_time": 1702912596,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 228414,
@@ -31755,6 +31763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207361,
+      "num": 202371,
+      "word": "马嘉祺 不肯睡的灵魂",
+      "onboard_time": 1702911759,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207310,
       "num": 207310,
       "word": "狗狗 虚胖",
@@ -33177,14 +33193,6 @@
       "onboard_time": 1702286734,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 200103,
-      "num": 200103,
-      "word": "马嘉祺 不肯睡的灵魂",
-      "onboard_time": 1702911759,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 200093,
@@ -40555,6 +40563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157842,
+      "num": 156979,
+      "word": "刘宇宁哭戏",
+      "onboard_time": 1702913013,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157771,
       "num": 157771,
       "word": "下半旗为30多万死难同胞志哀",
@@ -47217,6 +47233,14 @@
       "onboard_time": 1701542476,
       "rank": 18,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 80663,
+      "num": 96344,
+      "word": "完蛋2公布",
+      "onboard_time": 1702913075,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 80343,
