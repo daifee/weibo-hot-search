@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702869549714,
+  "endTime": 1702870484387,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -97,6 +97,14 @@
       "onboard_time": 1702793672,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2468037,
+      "num": 2468037,
+      "word": "罪犯劳荣枝被执行死刑",
+      "onboard_time": 1702869993,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2407040,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1364073,
+      "num": 1364073,
+      "word": "湿发睡觉 致癌",
+      "onboard_time": 1702867355,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1334211,
       "num": 1334211,
       "word": "北京一居民花10万买高15米大恐龙",
@@ -361,14 +377,6 @@
       "onboard_time": 1702858956,
       "rank": 1,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1218096,
-      "num": 1218096,
-      "word": "湿发睡觉 致癌",
-      "onboard_time": 1702867355,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1192644,
@@ -1683,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393810,
+      "num": 393810,
+      "word": "京剧表演艺术家李幼斌去世",
+      "onboard_time": 1702869693,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388281,
       "num": 388281,
       "word": "WTT 裁判",
@@ -1859,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345182,
+      "num": 336092,
+      "word": "饿了么免单",
+      "onboard_time": 1702870173,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 344822,
       "num": 237205,
       "word": "罗永浩评东方甄选风波当事人再发声",
@@ -1881,6 +1905,14 @@
       "onboard_time": 1702802918,
       "rank": 21,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 337755,
+      "num": 337755,
+      "word": "詹娜分手",
+      "onboard_time": 1702869873,
+      "rank": 19,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 337541,
@@ -1963,6 +1995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317486,
+      "num": 317486,
+      "word": "江苏卫视跨年首波阵容官宣",
+      "onboard_time": 1702869756,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317450,
       "num": 346180,
       "word": "资助的孩子退学后问我要剩下的学费",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1702760655,
       "rank": 40,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 313767,
+      "num": 313767,
+      "word": "关晓彤代言的天然呆被强执430万",
+      "onboard_time": 1702868674,
+      "rank": 23,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 307738,
@@ -2035,20 +2083,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302950,
+      "num": 345038,
+      "word": "65万人抢一万个夜校名额",
+      "onboard_time": 1702867410,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 302359,
       "num": 393713,
       "word": "老人住院因子女不看望伤心过度自杀",
       "onboard_time": 1702826385,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301992,
-      "num": 301992,
-      "word": "关晓彤代言的天然呆被强执430万",
-      "onboard_time": 1702868674,
-      "rank": 23,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 301108,
@@ -2179,20 +2227,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280289,
-      "num": 345038,
-      "word": "65万人抢一万个夜校名额",
-      "onboard_time": 1702867410,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 278930,
       "num": 224386,
       "word": "威神v可以是原唱也可以是原告",
       "onboard_time": 1702804004,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276979,
+      "num": 276979,
+      "word": "林永健晒儿子林大竣全英文接受采访",
+      "onboard_time": 1702869515,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 275766,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1702802435,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251791,
+      "num": 251791,
+      "word": "刘诗诗 真的一点吓不到",
+      "onboard_time": 1702869993,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 250407,
@@ -3211,14 +3267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157395,
-      "num": 157395,
-      "word": "林永健晒儿子林大竣全英文接受采访",
-      "onboard_time": 1702869515,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157336,
       "num": 157336,
       "word": "董宇辉成高级合伙人会降低直播频次吗",
@@ -3273,6 +3321,14 @@
       "onboard_time": 1702714777,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154322,
+      "num": 154322,
+      "word": "正确敷面膜步骤",
+      "onboard_time": 1702870413,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 154028,
@@ -3675,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92552,
+      "num": 331125,
+      "word": "十万级家轿用料能有多扎实",
+      "onboard_time": 1702867235,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87371,
       "num": 290883,
       "word": "好歹毒的sound knowledge",
@@ -3747,6 +3811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 73627,
+      "num": 399285,
+      "word": "2024财运莲莲 就问你接不接",
+      "onboard_time": 1702868431,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73609,
       "num": 184089,
       "word": "六级阅读有Selena",
@@ -3795,14 +3867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68536,
-      "num": 331125,
-      "word": "十万级家轿用料能有多扎实",
-      "onboard_time": 1702867235,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 66792,
       "num": 66792,
       "word": "汪苏泷 我值得",
@@ -3849,14 +3913,6 @@
       "onboard_time": 1702811681,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 43923,
-      "num": 389833,
-      "word": "2024财运莲莲 就问你接不接",
-      "onboard_time": 1702868431,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42246,
@@ -3963,6 +4019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28126,
+      "num": 198021,
+      "word": "苏醒吴莫愁同花顺满满遗憾",
+      "onboard_time": 1702868431,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27769,
       "num": 46870,
       "word": "货车司机大雪天淋成雪人流泪感慨",
@@ -4009,14 +4073,6 @@
       "onboard_time": 1702840036,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12900,
-      "num": 192411,
-      "word": "苏醒吴莫愁同花顺满满遗憾",
-      "onboard_time": 1702868431,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 9919,
