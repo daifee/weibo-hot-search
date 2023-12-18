@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702903840197,
+  "endTime": 1702905737389,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -257,6 +257,14 @@
       "onboard_time": 1702902396,
       "rank": 23,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1857337,
+      "num": 1857337,
+      "word": "小杨哥谈去年缴税2个亿",
+      "onboard_time": 1702902518,
+      "rank": 33,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1849115,
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1191434,
+      "num": 1191434,
+      "word": "一念关山 全死了",
+      "onboard_time": 1702904134,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1188136,
       "num": 1188136,
       "word": "妈妈去世前一晚满眼慈爱看熟睡儿子",
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 1182158,
-      "num": 474790,
+      "num": 713090,
       "word": "一念关山 你管这叫he",
       "onboard_time": 1702900656,
       "rank": 4,
@@ -761,14 +777,6 @@
       "onboard_time": 1702797397,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 977418,
-      "num": 977418,
-      "word": "小杨哥谈去年缴税2个亿",
-      "onboard_time": 1702902518,
-      "rank": 33,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 972029,
@@ -1643,6 +1651,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 535109,
+      "num": 405857,
+      "word": "屋顶着火 derderderder",
+      "onboard_time": 1702904557,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 533773,
       "num": 533773,
       "word": "赵丽颖不出席跨年活动",
@@ -2012,7 +2028,7 @@
     },
     {
       "raw_hot": 447035,
-      "num": 328909,
+      "num": 354691,
       "word": "林心如不希望女儿进演艺圈",
       "onboard_time": 1702899814,
       "rank": 13,
@@ -2083,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 433449,
+      "num": 270079,
+      "word": "瘦大腿相当于在瘦全身",
+      "onboard_time": 1702902276,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 430200,
       "num": 703179,
       "word": "孙颖莎vs王艺迪",
@@ -2113,6 +2137,14 @@
       "onboard_time": 1702775549,
       "rank": 19,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 425200,
+      "num": 425200,
+      "word": "米哈游审美",
+      "onboard_time": 1702901374,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 422501,
@@ -2539,14 +2571,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 343940,
-      "num": 343940,
-      "word": "米哈游审美",
-      "onboard_time": 1702901374,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 342159,
       "num": 342159,
       "word": "为什么女生一生气就不讲话",
@@ -2684,7 +2708,7 @@
     },
     {
       "raw_hot": 327908,
-      "num": 300917,
+      "num": 363849,
       "word": "还我白裤子",
       "onboard_time": 1702900535,
       "rank": 14,
@@ -2777,6 +2801,14 @@
       "onboard_time": 1702868674,
       "rank": 23,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 311762,
+      "num": 407458,
+      "word": "江苏多地停课一天",
+      "onboard_time": 1702903715,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307738,
@@ -2987,6 +3019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 286782,
+      "num": 231883,
+      "word": "刘诗诗陈都灵对手戏",
+      "onboard_time": 1702903656,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285014,
       "num": 191612,
       "word": "陈幸同1比4王艺迪",
@@ -3131,14 +3171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270079,
-      "num": 270079,
-      "word": "瘦大腿相当于在瘦全身",
-      "onboard_time": 1702902276,
-      "rank": 45,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 269327,
       "num": 251983,
       "word": "陈丽君失声",
@@ -3161,6 +3193,22 @@
       "onboard_time": 1702881693,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 265402,
+      "num": 265402,
+      "word": "董明珠称一切都是孟羽童的选择",
+      "onboard_time": 1702904857,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265148,
+      "num": 228858,
+      "word": "梁朝伟没磕到 我嗑到了",
+      "onboard_time": 1702904134,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 264632,
@@ -3419,6 +3467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239437,
+      "num": 227500,
+      "word": "虞书欣直播",
+      "onboard_time": 1702905574,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238458,
       "num": 176457,
       "word": "倪妮景甜这对我同意了",
@@ -3545,6 +3601,14 @@
       "onboard_time": 1702798175,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227264,
+      "num": 227264,
+      "word": "上淇回应红毯流鼻血",
+      "onboard_time": 1702904977,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 227104,
@@ -3697,6 +3761,14 @@
       "onboard_time": 1702811204,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 214068,
+      "num": 214068,
+      "word": "珉豪写给钟铉的信",
+      "onboard_time": 1702905095,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 214000,
@@ -4363,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174695,
+      "num": 174695,
+      "word": "东北人买肉",
+      "onboard_time": 1702904193,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173960,
       "num": 173960,
       "word": "花少鬼畜 克罗地亚狂想曲",
@@ -4379,20 +4459,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171815,
+      "num": 249128,
+      "word": "董明珠MBTI是INFJ",
+      "onboard_time": 1702902334,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171796,
       "num": 145279,
       "word": "周杰伦新歌歌名三个字",
       "onboard_time": 1702857510,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171784,
-      "num": 249128,
-      "word": "董明珠MBTI是INFJ",
-      "onboard_time": 1702902334,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171702,
@@ -4465,6 +4545,14 @@
       "onboard_time": 1702824046,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168436,
+      "num": 230354,
+      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+      "onboard_time": 1702904557,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168424,
@@ -4659,20 +4747,20 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 157183,
-      "num": 157183,
-      "word": "刘诗诗陈都灵对手戏",
-      "onboard_time": 1702903656,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156976,
       "num": 156976,
       "word": "为什么越到考试我越放松",
       "onboard_time": 1702784009,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156905,
+      "num": 156905,
+      "word": "威海 有海又有雪",
+      "onboard_time": 1702905396,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 156877,
@@ -4939,6 +5027,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 133866,
+      "num": 359167,
+      "word": "拼多多上的县长推荐",
+      "onboard_time": 1702899214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132940,
+      "num": 132940,
+      "word": "大江大河之岁月如歌",
+      "onboard_time": 1702904977,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132042,
       "num": 132042,
       "word": "亚历山大绝杀掘金",
@@ -4969,14 +5073,6 @@
       "onboard_time": 1702783412,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128016,
-      "num": 128016,
-      "word": "江苏多地停课一天",
-      "onboard_time": 1702903715,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127157,
@@ -5020,7 +5116,7 @@
     },
     {
       "raw_hot": 123420,
-      "num": 123420,
+      "num": 131033,
       "word": "做一个内心强大的人",
       "onboard_time": 1702903116,
       "rank": 46,
@@ -5483,14 +5579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34616,
-      "num": 175314,
-      "word": "拼多多上的县长推荐",
-      "onboard_time": 1702899214,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33077,
       "num": 34783,
       "word": "周深 我到底什么时候起",
@@ -5593,6 +5681,14 @@
       "onboard_time": 1702846752,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21754,
+      "num": 1339537,
+      "word": "我国首艘大洋钻探船正式命名并试航",
+      "onboard_time": 1702885594,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20866,
