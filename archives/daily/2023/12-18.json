@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702873352176,
+  "endTime": 1702874192667,
   "band_list": [
     {
       "raw_hot": 7331483,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2372878,
-      "num": 2372878,
+      "raw_hot": 2685644,
+      "num": 2685644,
       "word": "给住院婆婆吃泡面博主被拘",
       "onboard_time": 1702865974,
       "rank": 4,
@@ -41,6 +41,14 @@
       "onboard_time": 1702824586,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1970174,
+      "num": 1970174,
+      "word": "草莓价格大跳水",
+      "onboard_time": 1702872162,
+      "rank": 6,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1948341,
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1609041,
+      "num": 1609041,
+      "word": "张元英 青岛",
+      "onboard_time": 1702871919,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1455995,
       "num": 568773,
       "word": "迪丽热巴第二套造型",
@@ -89,14 +105,6 @@
       "onboard_time": 1702867355,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1310521,
-      "num": 1310521,
-      "word": "张元英 青岛",
-      "onboard_time": 1702871919,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 1307454,
@@ -171,14 +179,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 944866,
-      "num": 944866,
-      "word": "草莓价格大跳水",
-      "onboard_time": 1702872162,
-      "rank": 6,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 887960,
       "num": 394646,
       "word": "告诉秦岚 辛芷蕾今晚不回去了",
@@ -217,6 +217,22 @@
       "onboard_time": 1702828001,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 756299,
+      "num": 475847,
+      "word": "班主任猥亵女生校方称怕耽误高考不开除",
+      "onboard_time": 1702872219,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 755431,
+      "num": 755431,
+      "word": "易烊千玺新片演脑瘫",
+      "onboard_time": 1702872882,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 706300,
@@ -291,12 +307,12 @@
       "category": "数码,艺人"
     },
     {
-      "raw_hot": 579257,
-      "num": 400330,
-      "word": "班主任猥亵女生校方称怕耽误高考不开除",
+      "raw_hot": 605241,
+      "num": 605241,
+      "word": "西方臻选内容已全部清空",
       "onboard_time": 1702872219,
-      "rank": 20,
-      "category": "社会新闻,教育"
+      "rank": 28,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 576193,
@@ -347,6 +363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524174,
+      "num": 524174,
+      "word": "湖南一女子遭黑狗撕咬脖子",
+      "onboard_time": 1702871139,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 514888,
+      "num": 514888,
+      "word": "劳荣枝被执行死刑小木匠妻子发声",
+      "onboard_time": 1702872882,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494292,
       "num": 494292,
       "word": "上海下雪",
@@ -379,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472317,
-      "num": 472317,
-      "word": "湖南一女子遭黑狗撕咬脖子",
-      "onboard_time": 1702871139,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 474199,
+      "num": 474199,
+      "word": "学而思总裁将女主播升4级加高管序列",
+      "onboard_time": 1702873542,
+      "rank": 21,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 459775,
@@ -435,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 412500,
-      "num": 412500,
-      "word": "易烊千玺新片演脑瘫",
-      "onboard_time": 1702872882,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 411557,
       "num": 330997,
       "word": "一念关山 高开癫走的剧情",
@@ -491,8 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366234,
-      "num": 366234,
+      "raw_hot": 372546,
+      "num": 372546,
       "word": "小米回应智能门锁半夜自己开门",
       "onboard_time": 1702870773,
       "rank": 23,
@@ -521,14 +545,6 @@
       "onboard_time": 1702822428,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340577,
-      "num": 340577,
-      "word": "劳荣枝被执行死刑小木匠妻子发声",
-      "onboard_time": 1702872882,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337755,
@@ -611,14 +627,6 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 304573,
-      "num": 304573,
-      "word": "西方臻选内容已全部清空",
-      "onboard_time": 1702872219,
-      "rank": 28,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 302950,
       "num": 345038,
       "word": "65万人抢一万个夜校名额",
@@ -699,6 +707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263382,
+      "num": 263382,
+      "word": "米哈游官宣启动鸿蒙原生应用开发",
+      "onboard_time": 1702873061,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262223,
       "num": 262223,
       "word": "苏州下雪",
@@ -713,6 +729,14 @@
       "onboard_time": 1702829560,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253724,
+      "num": 253724,
+      "word": "95后女生用竹子编出高定包",
+      "onboard_time": 1702873180,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252960,
@@ -760,6 +784,22 @@
       "word": "王强 被俞敏洪遮住的男人",
       "onboard_time": 1702819007,
       "rank": 24,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 227104,
+      "num": 227104,
+      "word": "学习通",
+      "onboard_time": 1702872099,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 224179,
+      "num": 224179,
+      "word": "西方臻选主播疑似模仿董宇辉",
+      "onboard_time": 1702873121,
+      "rank": 49,
       "category": "互联网,社会新闻"
     },
     {
@@ -811,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205326,
+      "num": 205326,
+      "word": "脱轨 颠公",
+      "onboard_time": 1702874084,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205183,
       "num": 198537,
       "word": "王鹤棣我腰不可能不好",
@@ -859,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190891,
-      "num": 190891,
-      "word": "米哈游官宣启动鸿蒙原生应用开发",
-      "onboard_time": 1702873061,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 189569,
       "num": 189569,
       "word": "已故阴阳师玩家",
@@ -881,6 +921,14 @@
       "onboard_time": 1702865913,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185030,
+      "num": 185030,
+      "word": "IVE签售",
+      "onboard_time": 1702874144,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 182828,
@@ -907,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172812,
-      "num": 172812,
-      "word": "学习通",
-      "onboard_time": 1702872099,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 171796,
       "num": 145279,
       "word": "周杰伦新歌歌名三个字",
@@ -937,22 +977,6 @@
       "onboard_time": 1702859974,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162159,
-      "num": 162159,
-      "word": "95后女生用竹子编出高定包",
-      "onboard_time": 1702873180,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160858,
-      "num": 160858,
-      "word": "西方臻选主播疑似模仿董宇辉",
-      "onboard_time": 1702873121,
-      "rank": 49,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 159335,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1702861116,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 139501,
+      "num": 562064,
+      "word": "黄子弘凡好运祝福 听者发财",
+      "onboard_time": 1702872036,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 139124,
@@ -1115,14 +1147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94703,
-      "num": 517383,
-      "word": "黄子弘凡好运祝福 听者发财",
-      "onboard_time": 1702872036,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 93513,
       "num": 264384,
       "word": "利物浦vs曼联",
@@ -1219,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36107,
+      "num": 2175754,
+      "word": "详解2023年中央经济工作会议精神",
+      "onboard_time": 1702872581,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33077,
       "num": 34783,
       "word": "周深 我到底什么时候起",
@@ -1251,12 +1283,12 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 30806,
-      "num": 1995958,
-      "word": "详解2023年中央经济工作会议精神",
-      "onboard_time": 1702872581,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 30944,
+      "num": 213052,
+      "word": "主持人大赛6强",
+      "onboard_time": 1702872036,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 28126,
@@ -1281,14 +1313,6 @@
       "onboard_time": 1702820869,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 21070,
-      "num": 198816,
-      "word": "主持人大赛6强",
-      "onboard_time": 1702872036,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 18369,
