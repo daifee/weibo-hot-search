@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702938855073,
+  "endTime": 1702941482933,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -24,6 +24,14 @@
       "word": "成都震感",
       "onboard_time": 1702916392,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2580537,
+      "num": 2580537,
+      "word": "甘肃地震已致86人遇难96人受伤",
+      "onboard_time": 1702940784,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -73,6 +81,14 @@
       "onboard_time": 1702912121,
       "rank": 23,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1479202,
+      "num": 1479202,
+      "word": "甘肃地震监控画面",
+      "onboard_time": 1702922421,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1087993,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 571423,
-      "num": 85628,
+      "num": 121222,
       "word": "喜茶 买一送一",
       "onboard_time": 1702921040,
       "rank": 20,
@@ -155,11 +171,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 515866,
-      "num": 515866,
-      "word": "甘肃地震监控画面",
-      "onboard_time": 1702922421,
-      "rank": 5,
+      "raw_hot": 520355,
+      "num": 520355,
+      "word": "警方通报国家公祭日男子身贴日本国旗",
+      "onboard_time": 1702938437,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -227,12 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401148,
+      "raw_hot": 456526,
       "num": 401148,
       "word": "老师忙到辞职只能微信告诉领导",
       "onboard_time": 1702907797,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405324,
+      "num": 368037,
+      "word": "任如意殉国",
+      "onboard_time": 1702916216,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 376185,
@@ -243,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 368037,
-      "num": 368037,
-      "word": "任如意殉国",
-      "onboard_time": 1702916216,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 350145,
+      "num": 350145,
+      "word": "专家说柯南到渣男就是一线之差",
+      "onboard_time": 1702940483,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 345944,
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 242084,
-      "num": 45053,
+      "num": 107634,
       "word": "俞敏洪称正内部处理小编",
       "onboard_time": 1702932672,
       "rank": 26,
@@ -403,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160788,
+      "num": 160788,
+      "word": "国家地震应急响应提升至二级",
+      "onboard_time": 1702941207,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156046,
       "num": 156046,
       "word": "朱一龙受伤",
@@ -459,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123833,
+      "num": 123833,
+      "word": "田笑蜜未还朱丹1600万垫款成老赖",
+      "onboard_time": 1702894232,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122768,
       "num": 122768,
       "word": "迪丽热巴 Dior",
@@ -499,16 +539,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 105114,
-      "num": 105114,
-      "word": "田笑蜜未还朱丹1600万垫款成老赖",
-      "onboard_time": 1702894232,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 84673,
-      "num": 84673,
+      "raw_hot": 87302,
+      "num": 87302,
       "word": "山西震感",
       "onboard_time": 1702921880,
       "rank": 27,
@@ -563,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34973,
-      "num": 34973,
-      "word": "警方通报国家公祭日男子身贴日本国旗",
-      "onboard_time": 1702938437,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 44135,
+      "num": 52054,
+      "word": "于适主持首秀",
+      "onboard_time": 1702933273,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 34497,
@@ -593,14 +625,6 @@
       "onboard_time": 1702929194,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26143,
-      "num": 26143,
-      "word": "于适主持首秀",
-      "onboard_time": 1702933273,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 20584,
