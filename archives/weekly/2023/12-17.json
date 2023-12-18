@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702899250915,
+  "endTime": 1702902885033,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2811509,
+      "num": 217468,
+      "word": "董宇辉回归",
+      "onboard_time": 1702901558,
+      "rank": 20,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 2807893,
       "num": 2807893,
       "word": "草莓价格大跳水",
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2372046,
+      "num": 725512,
+      "word": "董宇辉已被称呼董总老师",
+      "onboard_time": 1702898251,
+      "rank": 10,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 2320297,
       "num": 2320297,
       "word": "迪丽热巴有第二套吗",
@@ -195,12 +211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2209299,
-      "num": 725512,
-      "word": "董宇辉已被称呼董总老师",
-      "onboard_time": 1702898251,
-      "rank": 10,
-      "category": "互联网,社会新闻"
+      "raw_hot": 2296596,
+      "num": 2296596,
+      "word": "一念关山 癫剧",
+      "onboard_time": 1702900475,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2204117,
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1182158,
+      "num": 430123,
+      "word": "一念关山 你管这叫he",
+      "onboard_time": 1702900656,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1179846,
       "num": 530653,
       "word": "杨紫张晚意自拍",
@@ -608,6 +632,14 @@
       "word": "董宇辉 士为知己者死",
       "onboard_time": 1702770864,
       "rank": 20,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1075048,
+      "num": 209399,
+      "word": "董宇辉回应升职",
+      "onboard_time": 1702902396,
+      "rank": 23,
       "category": "互联网,社会新闻"
     },
     {
@@ -1355,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587193,
+      "num": 369774,
+      "word": "任如意殉情",
+      "onboard_time": 1702902033,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 587187,
       "num": 587187,
       "word": "林姐肉夹馍被永久关停",
@@ -1803,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479756,
+      "num": 187574,
+      "word": "董宇辉效应",
+      "onboard_time": 1702899575,
+      "rank": 35,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 476829,
       "num": 425120,
       "word": "杰哥 我的票呢",
@@ -1945,6 +1993,14 @@
       "onboard_time": 1702739560,
       "rank": 14,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 447035,
+      "num": 277511,
+      "word": "林心如不希望女儿进演艺圈",
+      "onboard_time": 1702899814,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 443957,
@@ -2355,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357951,
+      "num": 293747,
+      "word": "宁远舟战死",
+      "onboard_time": 1702901973,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357375,
       "num": 293461,
       "word": "罗永浩说俞敏洪董宇辉直播是昏招",
@@ -2585,6 +2649,14 @@
       "onboard_time": 1702812701,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327908,
+      "num": 276527,
+      "word": "还我白裤子",
+      "onboard_time": 1702900535,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 325936,
@@ -2907,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283081,
+      "num": 283081,
+      "word": "米哈游审美",
+      "onboard_time": 1702901374,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282025,
       "num": 615905,
       "word": "格力曾注册多个孟羽童相关商标",
@@ -2944,6 +3024,14 @@
       "word": "林永健晒儿子林大竣全英文接受采访",
       "onboard_time": 1702869515,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276328,
+      "num": 196873,
+      "word": "迪丽热巴高定地广",
+      "onboard_time": 1702902334,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -3017,6 +3105,14 @@
       "onboard_time": 1702737819,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269327,
+      "num": 194585,
+      "word": "陈丽君失声",
+      "onboard_time": 1702900774,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 266433,
@@ -3107,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259165,
+      "num": 259165,
+      "word": "XLB宣布退役",
+      "onboard_time": 1702902396,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 256530,
       "num": 256530,
       "word": "赵露思 年度海外最具人气演员",
@@ -3129,6 +3233,14 @@
       "onboard_time": 1702883554,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255561,
+      "num": 192604,
+      "word": "东方甄选股价涨超25%",
+      "onboard_time": 1702901617,
+      "rank": 32,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 254250,
@@ -3297,6 +3409,14 @@
       "onboard_time": 1702889501,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237878,
+      "num": 157665,
+      "word": "董宇辉描述各省市小作文合集",
+      "onboard_time": 1702900895,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 235732,
@@ -3553,6 +3673,14 @@
       "onboard_time": 1702811204,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 216990,
+      "num": 191844,
+      "word": "小杨哥谈去年缴税2个亿",
+      "onboard_time": 1702902518,
+      "rank": 33,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 214000,
@@ -3851,6 +3979,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194697,
+      "num": 194697,
+      "word": "西蒙尼德比",
+      "onboard_time": 1702901617,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194608,
+      "num": 186727,
+      "word": "于适 占用一首歌的时间",
+      "onboard_time": 1702902454,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194590,
       "num": 194590,
       "word": "孙颖莎 正手统治区",
@@ -4123,6 +4267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180006,
+      "num": 180006,
+      "word": "浙江卫视跨年晚会官宣",
+      "onboard_time": 1702901135,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177781,
       "num": 423727,
       "word": "这车要在地上写个惨字",
@@ -4193,6 +4345,14 @@
       "onboard_time": 1702784909,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173572,
+      "num": 173572,
+      "word": "养宠物 确定性的爱",
+      "onboard_time": 1702901794,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 172254,
@@ -4457,6 +4617,14 @@
       "onboard_time": 1702810902,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157865,
+      "num": 157865,
+      "word": "瘦大腿相当于在瘦全身",
+      "onboard_time": 1702902276,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 157336,
@@ -4753,6 +4921,14 @@
       "onboard_time": 1702818044,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130873,
+      "num": 142160,
+      "word": "欧冠16强对阵出炉",
+      "onboard_time": 1702900535,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 129160,
@@ -5244,7 +5420,7 @@
     },
     {
       "raw_hot": 34616,
-      "num": 146274,
+      "num": 175314,
       "word": "拼多多上的县长推荐",
       "onboard_time": 1702899214,
       "rank": 47,
