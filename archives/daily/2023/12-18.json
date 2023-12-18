@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702892115014,
+  "endTime": 1702894814455,
   "band_list": [
     {
       "raw_hot": 8731897,
@@ -83,6 +83,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 1844848,
+      "num": 1844848,
+      "word": "朱一龙受伤",
+      "onboard_time": 1702891778,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1773024,
       "num": 1773024,
       "word": "倪妮周雨彤 体面",
@@ -139,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1445091,
+      "num": 1445091,
+      "word": "张元英回山东都得穿棉袄",
+      "onboard_time": 1702888776,
+      "rank": 3,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 1364073,
       "num": 1364073,
       "word": "湿发睡觉 致癌",
       "onboard_time": 1702867355,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1325151,
-      "num": 1325151,
-      "word": "张元英回山东都得穿棉袄",
-      "onboard_time": 1702888776,
-      "rank": 3,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 1307454,
@@ -267,7 +275,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 817518,
+      "raw_hot": 862570,
       "num": 350865,
       "word": "女子出车祸鲨鱼夹插入后脑勺",
       "onboard_time": 1702888959,
@@ -321,6 +329,14 @@
       "onboard_time": 1702828001,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 765411,
+      "num": 765411,
+      "word": "田曦薇 布偶猫塑",
+      "onboard_time": 1702891055,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 706300,
@@ -555,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 516691,
-      "num": 454708,
-      "word": "田曦薇 布偶猫塑",
-      "onboard_time": 1702891055,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 514888,
       "num": 514888,
       "word": "劳荣枝被执行死刑小木匠妻子发声",
@@ -593,6 +601,14 @@
       "onboard_time": 1702884393,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491548,
+      "num": 2193454,
+      "word": "女生3小时在雪地踩出上岸祝福",
+      "onboard_time": 1702891173,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489835,
@@ -659,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 442208,
+      "num": 442208,
+      "word": "王鹤棣王传君爆改吗喽表情包",
+      "onboard_time": 1702891954,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441233,
       "num": 368718,
       "word": "杨紫澳门飞上海",
@@ -688,6 +712,14 @@
       "word": "王鹤棣 爱豆味",
       "onboard_time": 1702823807,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 427095,
+      "num": 427095,
+      "word": "田曦薇上台这段",
+      "onboard_time": 1702892794,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -787,14 +819,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 373812,
-      "num": 373812,
-      "word": "女生3小时在雪地踩出上岸祝福",
-      "onboard_time": 1702891173,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373287,
       "num": 373287,
       "word": "北大副教授跨栏进出校门",
@@ -819,6 +843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 369249,
+      "num": 246083,
+      "word": "田笑蜜未还朱丹1600万垫款成老赖",
+      "onboard_time": 1702894232,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367075,
       "num": 367075,
       "word": "丈母娘粉",
@@ -833,6 +865,14 @@
       "onboard_time": 1702879293,
       "rank": 25,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 363231,
+      "num": 363231,
+      "word": "Rookie求助网友",
+      "onboard_time": 1702892313,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 361667,
@@ -865,6 +905,14 @@
       "onboard_time": 1702870173,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 344118,
+      "num": 344118,
+      "word": "吴露可逃",
+      "onboard_time": 1702894292,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 342227,
@@ -1051,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287203,
+      "num": 287203,
+      "word": "冰雪大世界 暂停当日售票",
+      "onboard_time": 1702892133,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 283907,
       "num": 283907,
       "word": "郑恺 谁在背后说魏总像他大姨",
@@ -1107,6 +1163,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 273915,
+      "num": 273915,
+      "word": "俞敏洪称董宇辉会继续在东方甄选直播",
+      "onboard_time": 1702892915,
+      "rank": 26,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 273410,
       "num": 273410,
       "word": "王鹤棣 社交悍匪",
@@ -1131,16 +1195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267964,
-      "num": 267964,
-      "word": "朱一龙受伤",
-      "onboard_time": 1702891778,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267581,
-      "num": 267581,
+      "num": 1492775,
       "word": "父亲骄傲展示30岁智力障碍儿子手工作品",
       "onboard_time": 1702886673,
       "rank": 23,
@@ -1251,12 +1307,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246099,
+      "num": 246099,
+      "word": "负负得正剧组回应朱一龙额头受伤",
+      "onboard_time": 1702893394,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244551,
+      "num": 244551,
+      "word": "盘点董宇辉新东方之路",
+      "onboard_time": 1702894774,
+      "rank": 31,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 244532,
       "num": 244532,
       "word": "劳荣枝亲属回应劳荣枝被执行死刑",
       "onboard_time": 1702880853,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243228,
+      "num": 243228,
+      "word": "于十三的结局",
+      "onboard_time": 1702892613,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 241642,
@@ -1331,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224543,
+      "num": 211900,
+      "word": "董宇辉推荐的书单",
+      "onboard_time": 1702894533,
+      "rank": 37,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 224179,
       "num": 224179,
       "word": "西方臻选主播疑似模仿董宇辉",
@@ -1395,6 +1483,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216811,
+      "num": 216811,
+      "word": "哈尔滨大滑梯",
+      "onboard_time": 1702892555,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 211936,
+      "num": 211936,
+      "word": "WTT多哈站 名单",
+      "onboard_time": 1702894052,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211060,
       "num": 211060,
       "word": "薛之谦 三明",
@@ -1425,6 +1529,14 @@
       "onboard_time": 1702871078,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203891,
+      "num": 203891,
+      "word": "刘宇宁直播唱落了白",
+      "onboard_time": 1702894354,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 202371,
@@ -1515,20 +1627,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191665,
+      "num": 191665,
+      "word": "小小的我海报",
+      "onboard_time": 1702893754,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189569,
       "num": 189569,
       "word": "已故阴阳师玩家",
       "onboard_time": 1702868912,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187278,
-      "num": 187278,
-      "word": "王鹤棣王传君爆改吗喽表情包",
-      "onboard_time": 1702891954,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 186810,
@@ -1571,19 +1683,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183433,
+      "num": 1270839,
+      "word": "输入法暴露了反诈民警的职业病",
+      "onboard_time": 1702889501,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182828,
       "num": 182828,
       "word": "杭州下雪",
       "onboard_time": 1702866755,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182270,
-      "num": 182270,
-      "word": "输入法暴露了反诈民警的职业病",
-      "onboard_time": 1702889501,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1689,6 +1801,14 @@
       "onboard_time": 1702884516,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165025,
+      "num": 165025,
+      "word": "小猫暴打静电",
+      "onboard_time": 1702894652,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 164816,
@@ -2012,7 +2132,7 @@
     },
     {
       "raw_hot": 71548,
-      "num": 1662369,
+      "num": 1988232,
       "word": "今年是改革开放45周年",
       "onboard_time": 1702886137,
       "rank": 2,
@@ -2025,6 +2145,14 @@
       "onboard_time": 1702855945,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66156,
+      "num": 327011,
+      "word": "热巴元梦ID小肠蘸辣酱",
+      "onboard_time": 1702892198,
+      "rank": 20,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 63823,
