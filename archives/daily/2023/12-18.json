@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702898158049,
+  "endTime": 1702899250915,
   "band_list": [
     {
       "raw_hot": 8731897,
@@ -33,6 +33,14 @@
       "onboard_time": 1702826864,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3362720,
+      "num": 3362720,
+      "word": "闲云 那英",
+      "onboard_time": 1702898071,
+      "rank": 14,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 3028237,
@@ -68,11 +76,19 @@
     },
     {
       "raw_hot": 2413606,
-      "num": 533635,
+      "num": 666522,
       "word": "原神 黑丝",
       "onboard_time": 1702895915,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 2209299,
+      "num": 725512,
+      "word": "董宇辉已被称呼董总老师",
+      "onboard_time": 1702898251,
+      "rank": 10,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 2160614,
@@ -219,8 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1150786,
-      "num": 533114,
+      "raw_hot": 1166879,
+      "num": 1166879,
       "word": "人民网评劳荣枝被执行死刑",
       "onboard_time": 1702896814,
       "rank": 11,
@@ -283,14 +299,6 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 921782,
-      "num": 508508,
-      "word": "闲云 那英",
-      "onboard_time": 1702898071,
-      "rank": 14,
-      "category": "游戏,艺人"
-    },
-    {
       "raw_hot": 912819,
       "num": 912819,
       "word": "班主任猥亵女生校方称怕耽误高考不开除",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 862570,
-      "num": 397491,
+      "num": 414903,
       "word": "女子出车祸鲨鱼夹插入后脑勺",
       "onboard_time": 1702888959,
       "rank": 20,
@@ -505,6 +513,14 @@
       "onboard_time": 1702874565,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582761,
+      "num": 582761,
+      "word": "一念关山",
+      "onboard_time": 1702898374,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 576193,
@@ -1003,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339023,
+      "num": 339023,
+      "word": "欧冠抽签",
+      "onboard_time": 1702898251,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337852,
       "num": 322792,
       "word": "舌头和胃对了一整夜的账",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1702821642,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316734,
+      "num": 316734,
+      "word": "林一 倒拔垂杨柳",
+      "onboard_time": 1702897891,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 316637,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1702892133,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 288192,
+      "num": 288192,
+      "word": "张小斐 隔壁部门的禁欲姐姐",
+      "onboard_time": 1702898431,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287437,
@@ -1363,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252772,
+      "num": 252772,
+      "word": "邓为古装路透",
+      "onboard_time": 1702898671,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250407,
       "num": 250407,
       "word": "东方甄选开盘大涨",
@@ -1484,7 +1532,7 @@
     },
     {
       "raw_hot": 225786,
-      "num": 200642,
+      "num": 212298,
       "word": "你认为曹云金与董宇辉经历相似吗",
       "onboard_time": 1702895793,
       "rank": 46,
@@ -1683,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196426,
-      "num": 196426,
-      "word": "林一 倒拔垂杨柳",
-      "onboard_time": 1702897891,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196177,
       "num": 196177,
       "word": "雷鸣 实惨",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1702893754,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190932,
+      "num": 190932,
+      "word": "T1直播首秀",
+      "onboard_time": 1702899096,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 189569,
@@ -1825,6 +1873,14 @@
       "onboard_time": 1702827941,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 180787,
+      "num": 180787,
+      "word": "赵露思特写",
+      "onboard_time": 1702898314,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 177470,
@@ -2267,20 +2323,20 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 65884,
+      "num": 421224,
+      "word": "新闻女王 有生命力的美",
+      "onboard_time": 1702897173,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63823,
       "num": 63823,
       "word": "网上打印贴纸时千万不要发表情包",
       "onboard_time": 1702848074,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 53612,
-      "num": 245183,
-      "word": "新闻女王 有生命力的美",
-      "onboard_time": 1702897173,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 46483,
@@ -2313,6 +2369,14 @@
       "onboard_time": 1702815102,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34616,
+      "num": 146274,
+      "word": "拼多多上的县长推荐",
+      "onboard_time": 1702899214,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33077,
