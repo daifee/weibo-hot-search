@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702874192667,
+  "endTime": 1702876682723,
   "band_list": [
     {
       "raw_hot": 7331483,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2765818,
+      "num": 2765818,
+      "word": "草莓价格大跳水",
+      "onboard_time": 1702872162,
+      "rank": 6,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 2685644,
       "num": 2685644,
       "word": "给住院婆婆吃泡面博主被拘",
@@ -41,14 +49,6 @@
       "onboard_time": 1702824586,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1970174,
-      "num": 1970174,
-      "word": "草莓价格大跳水",
-      "onboard_time": 1702872162,
-      "rank": 6,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1948341,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1030581,
+      "num": 1030581,
+      "word": "易烊千玺新片演脑瘫",
+      "onboard_time": 1702872882,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 987151,
       "num": 798654,
       "word": "刘畊宏出圈1年多后谈流量下滑",
@@ -179,12 +187,36 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 984586,
+      "num": 984586,
+      "word": "迪丽热巴 Dior",
+      "onboard_time": 1702875998,
+      "rank": 7,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 887960,
       "num": 394646,
       "word": "告诉秦岚 辛芷蕾今晚不回去了",
       "onboard_time": 1702825968,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 881266,
+      "num": 477863,
+      "word": "班主任猥亵女生校方称怕耽误高考不开除",
+      "onboard_time": 1702872219,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 813787,
+      "num": 813787,
+      "word": "学而思总裁将女主播升4级加高管序列",
+      "onboard_time": 1702873542,
+      "rank": 21,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 800866,
@@ -219,22 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 756299,
-      "num": 475847,
-      "word": "班主任猥亵女生校方称怕耽误高考不开除",
-      "onboard_time": 1702872219,
-      "rank": 20,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 755431,
-      "num": 755431,
-      "word": "易烊千玺新片演脑瘫",
-      "onboard_time": 1702872882,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 706300,
       "num": 514499,
       "word": "罗永浩 铁公鸡和马屁精的故事",
@@ -251,6 +267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670366,
+      "num": 663923,
+      "word": "西方臻选称被东方甄选举报",
+      "onboard_time": 1702874205,
+      "rank": 11,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 669669,
+      "num": 669669,
+      "word": "脱轨 颠公",
+      "onboard_time": 1702874084,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 650503,
       "num": 650503,
       "word": "京剧表演艺术家李幼斌去世",
@@ -264,6 +296,14 @@
       "word": "日本死鱼多到渔船寸步难行",
       "onboard_time": 1702819845,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 639723,
+      "num": 639723,
+      "word": "湖南一女子遭黑狗撕咬脖子",
+      "onboard_time": 1702871139,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -297,6 +337,14 @@
       "onboard_time": 1702815343,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 610214,
+      "num": 610214,
+      "word": "张雪峰疑喊话罗永浩",
+      "onboard_time": 1702875341,
+      "rank": 13,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 607498,
@@ -363,10 +411,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 524174,
-      "num": 524174,
-      "word": "湖南一女子遭黑狗撕咬脖子",
-      "onboard_time": 1702871139,
+      "raw_hot": 525616,
+      "num": 525616,
+      "word": "林姐肉夹馍被永久关停",
+      "onboard_time": 1702874565,
       "rank": 16,
       "category": "社会新闻"
     },
@@ -395,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489835,
+      "num": 489835,
+      "word": "劳荣枝执行死刑前向受害者家属道歉",
+      "onboard_time": 1702875162,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485867,
       "num": 485867,
       "word": "迪丽热巴王鹤棣同框",
@@ -409,14 +465,6 @@
       "onboard_time": 1702827522,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 474199,
-      "num": 474199,
-      "word": "学而思总裁将女主播升4级加高管序列",
-      "onboard_time": 1702873542,
-      "rank": 21,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 459775,
@@ -441,6 +489,14 @@
       "onboard_time": 1702830694,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 429650,
+      "num": 429650,
+      "word": "刘诗诗 Qeelin",
+      "onboard_time": 1702874625,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 428576,
@@ -475,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410167,
+      "num": 410167,
+      "word": "星光大赏 小的饿大的困",
+      "onboard_time": 1702874984,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406865,
       "num": 406865,
       "word": "东方甄选高仿账号",
@@ -489,6 +553,14 @@
       "onboard_time": 1702831172,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375589,
+      "num": 375589,
+      "word": "池石镇暂退RM",
+      "onboard_time": 1702875638,
+      "rank": 27,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 374303,
@@ -755,6 +827,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 247181,
+      "num": 247181,
+      "word": "邱贻可孙颖莎合照",
+      "onboard_time": 1702876236,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246186,
       "num": 246186,
       "word": "新加坡建议公众室内戴口罩",
@@ -851,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205326,
-      "num": 205326,
-      "word": "脱轨 颠公",
-      "onboard_time": 1702874084,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205183,
       "num": 198537,
       "word": "王鹤棣我腰不可能不好",
@@ -897,6 +969,14 @@
       "onboard_time": 1702863214,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194722,
+      "num": 194722,
+      "word": "林晓杰 漫长的季节",
+      "onboard_time": 1702875223,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 191728,
@@ -947,6 +1027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178189,
+      "num": 178189,
+      "word": "库里三分8中0",
+      "onboard_time": 1702876359,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176830,
       "num": 176830,
       "word": "星光大赏 颜值盛宴",
@@ -969,6 +1057,14 @@
       "onboard_time": 1702859194,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164248,
+      "num": 164248,
+      "word": "距梁朝伟刘德华首次合作已过去41年",
+      "onboard_time": 1702876657,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 163491,
@@ -1227,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46483,
+      "num": 2175754,
+      "word": "详解2023年中央经济工作会议精神",
+      "onboard_time": 1702872581,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42008,
       "num": 1826511,
       "word": "双曲线一号商业运载火箭成功发射",
@@ -1241,14 +1345,6 @@
       "onboard_time": 1702815102,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36107,
-      "num": 2175754,
-      "word": "详解2023年中央经济工作会议精神",
-      "onboard_time": 1702872581,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33077,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1702820869,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20866,
+      "num": 588442,
+      "word": "如何拯救面子塌房",
+      "onboard_time": 1702875638,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 18369,

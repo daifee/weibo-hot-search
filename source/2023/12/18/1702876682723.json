@@ -1,0 +1,410 @@
+{
+  "runTime": 1702876682723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3567760,
+        "num": 3567760,
+        "word": "罪犯劳荣枝被执行死刑",
+        "onboard_time": 1702869993,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2765818,
+        "num": 2765818,
+        "word": "草莓价格大跳水",
+        "onboard_time": 1702872162,
+        "rank": 1,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 46483,
+        "num": 1825918,
+        "word": "详解2023年中央经济工作会议精神",
+        "onboard_time": 1702872581,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1578920,
+        "num": 1578920,
+        "word": "给住院婆婆吃泡面博主被拘",
+        "onboard_time": 1702865974,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1517272,
+        "num": 1517272,
+        "word": "佟丽娅入股陈思诚公司",
+        "onboard_time": 1702871499,
+        "rank": 4,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 1414978,
+        "num": 1414978,
+        "word": "张元英 青岛",
+        "onboard_time": 1702871919,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1030581,
+        "num": 1030581,
+        "word": "易烊千玺新片演脑瘫",
+        "onboard_time": 1702872882,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 984586,
+        "num": 984586,
+        "word": "迪丽热巴 Dior",
+        "onboard_time": 1702875998,
+        "rank": 7,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 813787,
+        "num": 813787,
+        "word": "学而思总裁将女主播升4级加高管序列",
+        "onboard_time": 1702873542,
+        "rank": 8,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 669669,
+        "num": 669669,
+        "word": "脱轨 颠公",
+        "onboard_time": 1702874084,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 804189,
+        "num": 665436,
+        "word": "董宇辉成东方甄选高级合伙人",
+        "onboard_time": 1702855525,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 670366,
+        "num": 663923,
+        "word": "西方臻选称被东方甄选举报",
+        "onboard_time": 1702874205,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 639723,
+        "num": 639723,
+        "word": "湖南一女子遭黑狗撕咬脖子",
+        "onboard_time": 1702871139,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610214,
+        "num": 610214,
+        "word": "张雪峰疑喊话罗永浩",
+        "onboard_time": 1702875341,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 20866,
+        "num": 588442,
+        "word": "如何拯救面子塌房",
+        "onboard_time": 1702875638,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 583741,
+        "num": 583741,
+        "word": "建行",
+        "onboard_time": 1702865552,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 525616,
+        "num": 525616,
+        "word": "林姐肉夹馍被永久关停",
+        "onboard_time": 1702874565,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499108,
+        "num": 499108,
+        "word": "倪妮周雨彤 体面",
+        "onboard_time": 1702862013,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490137,
+        "num": 490137,
+        "word": "湿发睡觉 致癌",
+        "onboard_time": 1702867355,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 489835,
+        "num": 489835,
+        "word": "劳荣枝执行死刑前向受害者家属道歉",
+        "onboard_time": 1702875162,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881266,
+        "num": 477863,
+        "word": "班主任猥亵女生校方称怕耽误高考不开除",
+        "onboard_time": 1702872219,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 458956,
+        "num": 458956,
+        "word": "京剧表演艺术家李幼斌去世",
+        "onboard_time": 1702869693,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429650,
+        "num": 429650,
+        "word": "刘诗诗 Qeelin",
+        "onboard_time": 1702874625,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 423578,
+        "num": 423578,
+        "word": "赵露思上台忘记脱毛衣了",
+        "onboard_time": 1702824586,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415303,
+        "num": 415303,
+        "word": "迪丽热巴连续三届vip之星",
+        "onboard_time": 1702871619,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410167,
+        "num": 410167,
+        "word": "星光大赏 小的饿大的困",
+        "onboard_time": 1702874984,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407861,
+        "num": 407861,
+        "word": "小小的我官宣",
+        "onboard_time": 1702867174,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375589,
+        "num": 375589,
+        "word": "池石镇暂退RM",
+        "onboard_time": 1702875638,
+        "rank": 27,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 305839,
+        "num": 305839,
+        "word": "林更新 她成我领导了",
+        "onboard_time": 1702863691,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298840,
+        "num": 298840,
+        "word": "劳荣枝被执行死刑小木匠妻子发声",
+        "onboard_time": 1702872882,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285423,
+        "num": 285423,
+        "word": "小米回应智能门锁半夜自己开门",
+        "onboard_time": 1702870773,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 285130,
+        "num": 285130,
+        "word": "罗永浩 脱口秀",
+        "onboard_time": 1702871981,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 282649,
+        "num": 282649,
+        "word": "吴磊发言切赵露思",
+        "onboard_time": 1702860215,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247181,
+        "num": 247181,
+        "word": "邱贻可孙颖莎合照",
+        "onboard_time": 1702876236,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235524,
+        "num": 235524,
+        "word": "张万森 朋友圈下老登了",
+        "onboard_time": 1702825550,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226997,
+        "num": 226997,
+        "word": "华为nova12 易烊千玺",
+        "onboard_time": 1702868013,
+        "rank": 35,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 225203,
+        "num": 225203,
+        "word": "董宇辉复播",
+        "onboard_time": 1702857455,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 204521,
+        "num": 204521,
+        "word": "刘诗诗 真的一点吓不到",
+        "onboard_time": 1702869993,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202318,
+        "num": 202318,
+        "word": "出道六年她占五年",
+        "onboard_time": 1702828900,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201639,
+        "num": 201639,
+        "word": "米哈游官宣启动鸿蒙原生应用开发",
+        "onboard_time": 1702873061,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200448,
+        "num": 200448,
+        "word": "詹娜分手",
+        "onboard_time": 1702869873,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 194722,
+        "num": 194722,
+        "word": "林晓杰 漫长的季节",
+        "onboard_time": 1702875223,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186024,
+        "num": 186024,
+        "word": "王鹤棣我腰不可能不好",
+        "onboard_time": 1702871078,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184432,
+        "num": 184432,
+        "word": "95后女生用竹子编出高定包",
+        "onboard_time": 1702873180,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178189,
+        "num": 178189,
+        "word": "库里三分8中0",
+        "onboard_time": 1702876359,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174431,
+        "num": 174431,
+        "word": "杨紫于和伟 年度电视剧演员",
+        "onboard_time": 1702861175,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168565,
+        "num": 168565,
+        "word": "IVE签售",
+        "onboard_time": 1702874144,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167631,
+        "num": 167631,
+        "word": "韩国大量进口中国辣椒酱",
+        "onboard_time": 1702858956,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 165042,
+        "num": 165042,
+        "word": "学习通",
+        "onboard_time": 1702872099,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164248,
+        "num": 164248,
+        "word": "距梁朝伟刘德华首次合作已过去41年",
+        "onboard_time": 1702876657,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}
