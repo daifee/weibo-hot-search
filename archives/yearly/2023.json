@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702884864781,
+  "endTime": 1702887815226,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1651,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8731897,
+      "num": 8731897,
+      "word": "董宇辉任新东方文旅副总裁",
+      "onboard_time": 1702886015,
+      "rank": 0,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 8692766,
       "num": 4849642,
       "word": "唐嫣去哪了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1678578620,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 7304665,
-      "num": 8554665,
-      "word": "李强被任命为国务院总理",
-      "onboard_time": 1678504167,
-      "rank": 0,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

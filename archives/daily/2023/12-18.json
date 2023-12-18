@@ -1,7 +1,15 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702884864781,
+  "endTime": 1702887815226,
   "band_list": [
+    {
+      "raw_hot": 8731897,
+      "num": 8731897,
+      "word": "董宇辉任新东方文旅副总裁",
+      "onboard_time": 1702886015,
+      "rank": 0,
+      "category": "互联网,社会新闻"
+    },
     {
       "raw_hot": 7331483,
       "num": 8201073,
@@ -105,6 +113,14 @@
       "onboard_time": 1702871919,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1561651,
+      "num": 1561651,
+      "word": "我以为装的 直到她开始流鼻血",
+      "onboard_time": 1702884994,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1510573,
@@ -395,6 +411,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 598516,
+      "num": 598516,
+      "word": "胡冰卿草莓发卡 梦回百草",
+      "onboard_time": 1702885834,
+      "rank": 6,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 587187,
       "num": 587187,
       "word": "林姐肉夹馍被永久关停",
@@ -417,6 +441,14 @@
       "onboard_time": 1702822668,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562762,
+      "num": 480958,
+      "word": "俞敏洪检讨自己早该强势介入",
+      "onboard_time": 1702885234,
+      "rank": 11,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 556490,
@@ -483,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493164,
+      "num": 493164,
+      "word": "苏小玎随地乱丢烟头",
+      "onboard_time": 1702884393,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489835,
       "num": 489835,
       "word": "劳荣枝执行死刑前向受害者家属道歉",
@@ -507,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478688,
+      "num": 478688,
+      "word": "伍佰 唱又不让唱走又不让走",
+      "onboard_time": 1702884516,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 469051,
       "num": 444277,
       "word": "劳荣枝法子英90年代抢劫命案往事",
@@ -521,6 +569,14 @@
       "onboard_time": 1702861175,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456639,
+      "num": 456639,
+      "word": "唐嫣造型师回应礼裙有数字",
+      "onboard_time": 1702886137,
+      "rank": 13,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 454361,
@@ -627,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378941,
-      "num": 378941,
-      "word": "苏小玎随地乱丢烟头",
-      "onboard_time": 1702884393,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 375636,
       "num": 375636,
       "word": "檀健次王嘉尔被吓到",
@@ -689,6 +737,14 @@
       "onboard_time": 1702879293,
       "rank": 25,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 361667,
+      "num": 361667,
+      "word": "平安京的纯元皇后",
+      "onboard_time": 1702884933,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 351632,
@@ -809,6 +865,14 @@
       "onboard_time": 1702863753,
       "rank": 23,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 304736,
+      "num": 235458,
+      "word": "杨紫澳门飞上海",
+      "onboard_time": 1702887398,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 302950,
@@ -963,12 +1027,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260056,
+      "num": 260056,
+      "word": "父亲骄傲展示30岁智力障碍儿子手工作品",
+      "onboard_time": 1702886673,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256530,
       "num": 256530,
       "word": "赵露思 年度海外最具人气演员",
       "onboard_time": 1702829560,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256274,
+      "num": 256274,
+      "word": "有一种自卑叫做寄人篱下",
+      "onboard_time": 1702883554,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 256036,
+      "num": 233845,
+      "word": "劳荣枝的27年",
+      "onboard_time": 1702884814,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253724,
@@ -987,12 +1075,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252063,
+      "num": 252063,
+      "word": "董宇辉平谷中学演讲完整版",
+      "onboard_time": 1702886855,
+      "rank": 26,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 250407,
       "num": 250407,
       "word": "东方甄选开盘大涨",
       "onboard_time": 1702865193,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 247937,
+      "num": 247937,
+      "word": "赵露思王安宇想牵又没牵上的手",
+      "onboard_time": 1702884994,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 246186,
@@ -1019,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237723,
+      "num": 237723,
+      "word": "陈梦 粉丝像香蕉一样补给力量",
+      "onboard_time": 1702887156,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235732,
       "num": 235732,
       "word": "小米智能门锁多次自动打开",
@@ -1043,12 +1155,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 228971,
-      "num": 228971,
-      "word": "伍佰 唱又不让唱走又不让走",
-      "onboard_time": 1702884516,
-      "rank": 31,
-      "category": "演出"
+      "raw_hot": 230399,
+      "num": 230399,
+      "word": "曹云金力挺董宇辉",
+      "onboard_time": 1702887698,
+      "rank": 33,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 227104,
@@ -1059,20 +1171,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 224935,
+      "num": 224935,
+      "word": "薛之谦演唱会演甄嬛传",
+      "onboard_time": 1702887337,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224925,
       "num": 224925,
       "word": "狄龙被驱逐",
       "onboard_time": 1702884093,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224743,
-      "num": 224743,
-      "word": "有一种自卑叫做寄人篱下",
-      "onboard_time": 1702883554,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 224179,
@@ -1107,6 +1219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 220362,
+      "num": 220362,
+      "word": "镜头扫过周雨彤的瞬间",
+      "onboard_time": 1702886255,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219438,
       "num": 219438,
       "word": "A股",
@@ -1121,6 +1241,14 @@
       "onboard_time": 1702880674,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215581,
+      "num": 215581,
+      "word": "舌头和胃对了一整夜的账",
+      "onboard_time": 1702887337,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211060,
@@ -1179,6 +1307,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 196798,
+      "num": 196798,
+      "word": "六道堂最后一次合体",
+      "onboard_time": 1702884693,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196177,
       "num": 196177,
       "word": "雷鸣 实惨",
@@ -1201,6 +1337,22 @@
       "onboard_time": 1702875223,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194512,
+      "num": 194512,
+      "word": "周雨彤 电影感",
+      "onboard_time": 1702887457,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194156,
+      "num": 194156,
+      "word": "中国哪座县城名字最好听",
+      "onboard_time": 1702884933,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191728,
@@ -1283,20 +1435,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 178097,
-      "num": 178097,
-      "word": "六道堂最后一次合体",
-      "onboard_time": 1702884693,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176830,
       "num": 176830,
       "word": "星光大赏 颜值盛宴",
       "onboard_time": 1702865432,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176234,
+      "num": 176234,
+      "word": "衣物收纳",
+      "onboard_time": 1702887579,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 176067,
@@ -1363,14 +1515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164702,
-      "num": 164702,
-      "word": "劳荣枝的27年",
-      "onboard_time": 1702884814,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163491,
       "num": 137003,
       "word": "繁花",
@@ -1401,6 +1545,14 @@
       "onboard_time": 1702856550,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158752,
+      "num": 158752,
+      "word": "田笑蜜已被限制高消费",
+      "onboard_time": 1702887760,
+      "rank": 48,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 157653,
@@ -1611,6 +1763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 89404,
+      "num": 278975,
+      "word": "迪士尼又双叒联名了",
+      "onboard_time": 1702886075,
+      "rank": 20,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 84524,
       "num": 209419,
       "word": "孙颖莎说下了领奖台一切从零开始",
@@ -1657,6 +1817,14 @@
       "onboard_time": 1702848312,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68623,
+      "num": 1227135,
+      "word": "今年是改革开放45周年",
+      "onboard_time": 1702886137,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66792,
@@ -1745,6 +1913,14 @@
       "onboard_time": 1702868431,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26985,
+      "num": 197040,
+      "word": "美团2023年度报告来了",
+      "onboard_time": 1702886434,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 26838,
