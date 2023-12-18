@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702888600260,
+  "endTime": 1702891124937,
   "band_list": [
     {
       "raw_hot": 8731897,
@@ -147,6 +147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1325151,
+      "num": 1325151,
+      "word": "张元英回山东都得穿棉袄",
+      "onboard_time": 1702888776,
+      "rank": 3,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 1307454,
       "num": 569655,
       "word": "今天的朋友圈格外emo",
@@ -275,6 +283,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 806745,
+      "num": 350865,
+      "word": "女子出车祸鲨鱼夹插入后脑勺",
+      "onboard_time": 1702888959,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800866,
       "num": 539593,
       "word": "东方甄选已承诺董宇辉天价待遇",
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638232,
+      "num": 638232,
+      "word": "醉驾",
+      "onboard_time": 1702889195,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626010,
       "num": 626010,
       "word": "董宇辉复播",
@@ -443,8 +467,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 563599,
+      "num": 563599,
+      "word": "何蓝逗 不敷衍观众的男装",
+      "onboard_time": 1702889014,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 562762,
-      "num": 480958,
+      "num": 521349,
       "word": "俞敏洪检讨自己早该强势介入",
       "onboard_time": 1702885234,
       "rank": 11,
@@ -491,12 +523,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537065,
+      "num": 537065,
+      "word": "田笑蜜已被限制高消费",
+      "onboard_time": 1702887760,
+      "rank": 48,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 531361,
       "num": 531361,
       "word": "唐嫣高定礼裙 数字",
       "onboard_time": 1702878333,
       "rank": 13,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 523781,
+      "num": 523781,
+      "word": "赵昭仪因为活泼被降为答应",
+      "onboard_time": 1702889316,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 521549,
+      "num": 521549,
+      "word": "这是阳光玫瑰太奶吗",
+      "onboard_time": 1702889738,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 514888,
@@ -596,7 +652,7 @@
     },
     {
       "raw_hot": 441233,
-      "num": 300888,
+      "num": 368718,
       "word": "杨紫澳门飞上海",
       "onboard_time": 1702887398,
       "rank": 30,
@@ -683,20 +739,20 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 399346,
-      "num": 399346,
-      "word": "田笑蜜已被限制高消费",
-      "onboard_time": 1702887760,
-      "rank": 48,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 391175,
       "num": 391175,
       "word": "上海女子言语骚扰站岗哨兵",
       "onboard_time": 1702878735,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382775,
+      "num": 382775,
+      "word": "朱丹 田笑蜜",
+      "onboard_time": 1702888899,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 375636,
@@ -745,6 +801,14 @@
       "onboard_time": 1702870773,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 367075,
+      "num": 367075,
+      "word": "丈母娘粉",
+      "onboard_time": 1702888776,
+      "rank": 17,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 366757,
@@ -804,7 +868,7 @@
     },
     {
       "raw_hot": 337852,
-      "num": 297490,
+      "num": 322792,
       "word": "舌头和胃对了一整夜的账",
       "onboard_time": 1702887337,
       "rank": 36,
@@ -868,7 +932,7 @@
     },
     {
       "raw_hot": 319785,
-      "num": 242989,
+      "num": 263136,
       "word": "俞敏洪称与董宇辉风雨同行",
       "onboard_time": 1702887939,
       "rank": 30,
@@ -1059,6 +1123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 263720,
+      "num": 263720,
+      "word": "汪苏泷 上一秒得瑟下一秒惊恐",
+      "onboard_time": 1702890093,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263382,
       "num": 263382,
       "word": "米哈游官宣启动鸿蒙原生应用开发",
@@ -1179,6 +1251,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 231903,
+      "num": 231903,
+      "word": "多家公司名称碰瓷东方甄选",
+      "onboard_time": 1702890633,
+      "rank": 33,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 231257,
       "num": 378658,
       "word": "王强 被俞敏洪遮住的男人",
@@ -1193,6 +1273,14 @@
       "onboard_time": 1702887337,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229608,
+      "num": 229608,
+      "word": "一念关山超点大结局",
+      "onboard_time": 1702890334,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 227104,
@@ -1233,6 +1321,14 @@
       "onboard_time": 1702876359,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222673,
+      "num": 222673,
+      "word": "脑瘫是可以学会写字的",
+      "onboard_time": 1702890812,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 220948,
@@ -1451,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182270,
+      "num": 182270,
+      "word": "输入法暴露了反诈民警的职业病",
+      "onboard_time": 1702889501,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182165,
       "num": 182165,
       "word": "东方甄选昨日直播GMV预估1亿以上",
@@ -1465,6 +1569,14 @@
       "onboard_time": 1702827941,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 180540,
+      "num": 180540,
+      "word": "田曦薇 布偶猫塑",
+      "onboard_time": 1702891055,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177470,
@@ -1489,6 +1601,14 @@
       "onboard_time": 1702882051,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174947,
+      "num": 174947,
+      "word": "张万森林北星倒是亲啊",
+      "onboard_time": 1702890034,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 172254,
@@ -1561,6 +1681,14 @@
       "onboard_time": 1702878213,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 160548,
+      "num": 171226,
+      "word": "关于办理醉酒危险驾驶刑事案件的意见",
+      "onboard_time": 1702889738,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160095,
@@ -1873,6 +2001,14 @@
       "onboard_time": 1702872581,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45087,
+      "num": 385768,
+      "word": "1点点回应饿了么免单冠名",
+      "onboard_time": 1702890034,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 42008,
