@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702902885033,
+  "endTime": 1702903840197,
   "band_list": [
     {
       "raw_hot": 8731897,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2811509,
-      "num": 217468,
+      "num": 293461,
       "word": "董宇辉回归",
       "onboard_time": 1702901558,
       "rank": 20,
@@ -121,6 +121,14 @@
       "onboard_time": 1702871499,
       "rank": 3,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 1888507,
+      "num": 284945,
+      "word": "董宇辉回应升职",
+      "onboard_time": 1702902396,
+      "rank": 23,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1844848,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1182158,
-      "num": 430123,
+      "num": 474790,
       "word": "一念关山 你管这叫he",
       "onboard_time": 1702900656,
       "rank": 4,
@@ -281,14 +289,6 @@
       "onboard_time": 1702826864,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1075048,
-      "num": 209399,
-      "word": "董宇辉回应升职",
-      "onboard_time": 1702902396,
-      "rank": 23,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 1072058,
@@ -329,6 +329,22 @@
       "onboard_time": 1702835839,
       "rank": 15,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 979379,
+      "num": 632224,
+      "word": "任如意殉情",
+      "onboard_time": 1702902033,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 977418,
+      "num": 977418,
+      "word": "小杨哥谈去年缴税2个亿",
+      "onboard_time": 1702902518,
+      "rank": 33,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 912819,
@@ -539,12 +555,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 587193,
-      "num": 369774,
-      "word": "任如意殉情",
-      "onboard_time": 1702902033,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 591029,
+      "num": 591029,
+      "word": "迪丽热巴她慌了",
+      "onboard_time": 1702903232,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 587187,
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 447035,
-      "num": 277511,
+      "num": 328909,
       "word": "林心如不希望女儿进演艺圈",
       "onboard_time": 1702899814,
       "rank": 13,
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 357951,
-      "num": 293747,
+      "num": 316120,
       "word": "宁远舟战死",
       "onboard_time": 1702901973,
       "rank": 8,
@@ -1051,12 +1067,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346890,
+      "num": 346890,
+      "word": "XLB宣布退役",
+      "onboard_time": 1702902396,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 345182,
       "num": 336092,
       "word": "饿了么免单",
       "onboard_time": 1702870173,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 343940,
+      "num": 343940,
+      "word": "米哈游审美",
+      "onboard_time": 1702901374,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 342227,
@@ -1140,7 +1172,7 @@
     },
     {
       "raw_hot": 327908,
-      "num": 276527,
+      "num": 300917,
       "word": "还我白裤子",
       "onboard_time": 1702900535,
       "rank": 14,
@@ -1323,14 +1355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283081,
-      "num": 283081,
-      "word": "米哈游审美",
-      "onboard_time": 1702901374,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 280508,
       "num": 247181,
       "word": "邱贻可孙颖莎合照",
@@ -1364,7 +1388,7 @@
     },
     {
       "raw_hot": 274680,
-      "num": 274680,
+      "num": 297213,
       "word": "劳荣枝的27年",
       "onboard_time": 1702884814,
       "rank": 44,
@@ -1403,8 +1427,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270079,
+      "num": 270079,
+      "word": "瘦大腿相当于在瘦全身",
+      "onboard_time": 1702902276,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 269327,
-      "num": 194585,
+      "num": 251983,
       "word": "陈丽君失声",
       "onboard_time": 1702900774,
       "rank": 30,
@@ -1465,14 +1497,6 @@
       "onboard_time": 1702883493,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259165,
-      "num": 259165,
-      "word": "XLB宣布退役",
-      "onboard_time": 1702902396,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 256530,
@@ -1755,14 +1779,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 216990,
-      "num": 191844,
-      "word": "小杨哥谈去年缴税2个亿",
-      "onboard_time": 1702902518,
-      "rank": 33,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 211936,
       "num": 211936,
       "word": "WTT多哈站 名单",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1702862855,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205257,
+      "num": 205257,
+      "word": "养宠物 确定性的爱",
+      "onboard_time": 1702901794,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 205183,
@@ -1904,6 +1928,14 @@
       "word": "周雨彤 电影感",
       "onboard_time": 1702887457,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193221,
+      "num": 193221,
+      "word": "浙江卫视跨年晚会官宣",
+      "onboard_time": 1702901135,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -2027,14 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180006,
-      "num": 180006,
-      "word": "浙江卫视跨年晚会官宣",
-      "onboard_time": 1702901135,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177470,
       "num": 177470,
       "word": "男人 看不到家务",
@@ -2067,14 +2091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173572,
-      "num": 173572,
-      "word": "养宠物 确定性的爱",
-      "onboard_time": 1702901794,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172254,
       "num": 172254,
       "word": "小猫咪有自己的取暖办法",
@@ -2091,6 +2107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171784,
+      "num": 249128,
+      "word": "董明珠MBTI是INFJ",
+      "onboard_time": 1702902334,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171702,
       "num": 171702,
       "word": "陈梦说梦想的篇章未完待续",
@@ -2105,6 +2129,14 @@
       "onboard_time": 1702883314,
       "rank": 42,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 169835,
+      "num": 169835,
+      "word": "马国明汤洛雯婚礼",
+      "onboard_time": 1702902994,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 168293,
@@ -2179,14 +2211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157865,
-      "num": 157865,
-      "word": "瘦大腿相当于在瘦全身",
-      "onboard_time": 1702902276,
-      "rank": 45,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 157653,
       "num": 348376,
       "word": "孙东旭曾对董宇辉称不要幻想做管理",
@@ -2201,6 +2225,14 @@
       "onboard_time": 1702869154,
       "rank": 49,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 157183,
+      "num": 157183,
+      "word": "刘诗诗陈都灵对手戏",
+      "onboard_time": 1702903656,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 156877,
@@ -2331,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128016,
+      "num": 128016,
+      "word": "江苏多地停课一天",
+      "onboard_time": 1702903715,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127991,
       "num": 422880,
       "word": "小女孩雪后擦去路边车辆上不雅留言",
@@ -2339,12 +2379,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123420,
+      "num": 123420,
+      "word": "做一个内心强大的人",
+      "onboard_time": 1702903116,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121636,
       "num": 121636,
       "word": "这押题让春晚导演汗流浃背了",
       "onboard_time": 1702841115,
       "rank": 34,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 121213,
+      "num": 121213,
+      "word": "大学生的WiFi名从不让人失望",
+      "onboard_time": 1702901916,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 118053,
+      "num": 118053,
+      "word": "懒人背诵法",
+      "onboard_time": 1702903232,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 113494,
