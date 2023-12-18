@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702883847666,
+  "endTime": 1702884864781,
   "band_list": [
     {
       "raw_hot": 7331483,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2933777,
+      "num": 2933777,
+      "word": "劳荣枝希望家属帮她还花呗",
+      "onboard_time": 1702881214,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2807893,
       "num": 2807893,
       "word": "草莓价格大跳水",
       "onboard_time": 1702872162,
       "rank": 6,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 2688390,
-      "num": 2688390,
-      "word": "劳荣枝希望家属帮她还花呗",
-      "onboard_time": 1702881214,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2685644,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469051,
+      "num": 444277,
+      "word": "劳荣枝法子英90年代抢劫命案往事",
+      "onboard_time": 1702881814,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459775,
       "num": 459775,
       "word": "杨紫于和伟 年度电视剧演员",
@@ -523,20 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 444277,
-      "num": 444277,
-      "word": "劳荣枝法子英90年代抢劫命案往事",
-      "onboard_time": 1702881814,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443608,
       "num": 572391,
       "word": "真的需要这件羽绒服",
       "onboard_time": 1702830694,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 435996,
+      "num": 435996,
+      "word": "今年的出圈小说",
+      "onboard_time": 1702879473,
+      "rank": 29,
+      "category": "读书作家"
     },
     {
       "raw_hot": 429650,
@@ -587,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408890,
-      "num": 408890,
-      "word": "今年的出圈小说",
-      "onboard_time": 1702879473,
-      "rank": 29,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 406865,
       "num": 406865,
       "word": "东方甄选高仿账号",
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403685,
+      "num": 403685,
+      "word": "抖音回应西方臻选被封号",
+      "onboard_time": 1702881814,
+      "rank": 15,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 391175,
       "num": 391175,
       "word": "上海女子言语骚扰站岗哨兵",
@@ -619,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388114,
-      "num": 388114,
-      "word": "抖音回应西方臻选被封号",
-      "onboard_time": 1702881814,
-      "rank": 15,
-      "category": "互联网,社会新闻"
+      "raw_hot": 378941,
+      "num": 378941,
+      "word": "苏小玎随地乱丢烟头",
+      "onboard_time": 1702884393,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 375636,
@@ -705,6 +713,14 @@
       "onboard_time": 1702822428,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339174,
+      "num": 339174,
+      "word": "来自星星的你开播十周年",
+      "onboard_time": 1702883254,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 337755,
@@ -835,20 +851,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296441,
-      "num": 296441,
-      "word": "来自星星的你开播十周年",
-      "onboard_time": 1702883254,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 287437,
       "num": 210475,
       "word": "星光大赏",
       "onboard_time": 1702811681,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283907,
+      "num": 283907,
+      "word": "郑恺 谁在背后说魏总像他大姨",
+      "onboard_time": 1702883014,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 283446,
@@ -915,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266165,
+      "num": 266165,
+      "word": "世界上最发达的做空机制中国全都用了",
+      "onboard_time": 1702881693,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 263382,
       "num": 263382,
       "word": "米哈游官宣启动鸿蒙原生应用开发",
@@ -931,20 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261783,
-      "num": 261783,
-      "word": "世界上最发达的做空机制中国全都用了",
-      "onboard_time": 1702881693,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 259123,
-      "num": 259123,
-      "word": "郑恺 谁在背后说魏总像他大姨",
-      "onboard_time": 1702883014,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 260572,
+      "num": 260572,
+      "word": "劳荣枝辩护律师吴丹红称已尽力",
+      "onboard_time": 1702883493,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256530,
@@ -1027,12 +1043,36 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 228971,
+      "num": 228971,
+      "word": "伍佰 唱又不让唱走又不让走",
+      "onboard_time": 1702884516,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 227104,
       "num": 227104,
       "word": "学习通",
       "onboard_time": 1702872099,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 224925,
+      "num": 224925,
+      "word": "狄龙被驱逐",
+      "onboard_time": 1702884093,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224743,
+      "num": 224743,
+      "word": "有一种自卑叫做寄人篱下",
+      "onboard_time": 1702883554,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 224179,
@@ -1227,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182165,
+      "num": 182165,
+      "word": "东方甄选昨日直播GMV预估1亿以上",
+      "onboard_time": 1702884032,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 181082,
       "num": 380602,
       "word": "中国改革开放的信心和意志都不会动摇",
@@ -1235,12 +1283,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178097,
+      "num": 178097,
+      "word": "六道堂最后一次合体",
+      "onboard_time": 1702884693,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176830,
       "num": 176830,
       "word": "星光大赏 颜值盛宴",
       "onboard_time": 1702865432,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176067,
+      "num": 313956,
+      "word": "杨洋龙年腾飞吧",
+      "onboard_time": 1702882051,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 172254,
@@ -1267,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169923,
+      "num": 169923,
+      "word": "5天后考研",
+      "onboard_time": 1702883314,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 167362,
       "num": 137720,
       "word": "沈腾 端水大师",
@@ -1275,12 +1347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165474,
-      "num": 165474,
-      "word": "有一种自卑叫做寄人篱下",
-      "onboard_time": 1702883554,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 166300,
+      "num": 166300,
+      "word": "道士 年终总结",
+      "onboard_time": 1702884516,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 164816,
@@ -1291,20 +1363,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164702,
+      "num": 164702,
+      "word": "劳荣枝的27年",
+      "onboard_time": 1702884814,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163491,
       "num": 137003,
       "word": "繁花",
       "onboard_time": 1702859974,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162645,
-      "num": 162645,
-      "word": "5天后考研",
-      "onboard_time": 1702883314,
-      "rank": 42,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 161756,
@@ -1393,22 +1465,6 @@
       "onboard_time": 1702881935,
       "rank": 45,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 147163,
-      "num": 147163,
-      "word": "劳荣枝辩护律师吴丹红称已尽力",
-      "onboard_time": 1702883493,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146078,
-      "num": 313956,
-      "word": "杨洋龙年腾飞吧",
-      "onboard_time": 1702882051,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139899,
