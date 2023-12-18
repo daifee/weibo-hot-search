@@ -1,7 +1,15 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702856047675,
+  "endTime": 1702862233587,
   "band_list": [
+    {
+      "raw_hot": 4081310,
+      "num": 4081310,
+      "word": "董宇辉成东方甄选高级合伙人",
+      "onboard_time": 1702855525,
+      "rank": 4,
+      "category": "互联网,社会新闻"
+    },
     {
       "raw_hot": 3375514,
       "num": 3375514,
@@ -59,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1226646,
+      "num": 1226646,
+      "word": "韩国大量进口中国辣椒酱",
+      "onboard_time": 1702858956,
+      "rank": 1,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1131350,
       "num": 1131350,
       "word": "王一博到底在急什么",
@@ -83,6 +99,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 987151,
+      "num": 798654,
+      "word": "刘畊宏出圈1年多后谈流量下滑",
+      "onboard_time": 1702835839,
+      "rank": 15,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 887960,
       "num": 394646,
       "word": "告诉秦岚 辛芷蕾今晚不回去了",
@@ -91,8 +115,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 800866,
+      "num": 539593,
+      "word": "东方甄选已承诺董宇辉天价待遇",
+      "onboard_time": 1702857212,
+      "rank": 10,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 797070,
-      "num": 443443,
+      "num": 540588,
       "word": "张万森 朋友圈下老登了",
       "onboard_time": 1702825550,
       "rank": 16,
@@ -107,6 +139,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 706300,
+      "num": 514499,
+      "word": "罗永浩 铁公鸡和马屁精的故事",
+      "onboard_time": 1702858354,
+      "rank": 13,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 673152,
+      "num": 532680,
+      "word": "吴磊发言切赵露思",
+      "onboard_time": 1702860215,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 640362,
+      "num": 640362,
+      "word": "日本死鱼多到渔船寸步难行",
+      "onboard_time": 1702819845,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638824,
       "num": 602061,
       "word": "杨紫领奖",
@@ -115,19 +171,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 636646,
-      "num": 636646,
-      "word": "刘畊宏出圈1年多后谈流量下滑",
-      "onboard_time": 1702835839,
-      "rank": 15,
-      "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 633823,
-      "num": 633823,
-      "word": "董宇辉成东方甄选高级合伙人",
-      "onboard_time": 1702855525,
-      "rank": 4,
+      "raw_hot": 626010,
+      "num": 626010,
+      "word": "董宇辉复播",
+      "onboard_time": 1702857455,
+      "rank": 7,
       "category": "互联网,社会新闻"
     },
     {
@@ -137,14 +185,6 @@
       "onboard_time": 1702815343,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 600093,
-      "num": 600093,
-      "word": "日本死鱼多到渔船寸步难行",
-      "onboard_time": 1702819845,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 563843,
@@ -171,11 +211,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 494292,
+      "num": 494292,
+      "word": "上海下雪",
+      "onboard_time": 1702857152,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493548,
-      "num": 378302,
+      "num": 393034,
       "word": "这下全世界都知道沈腾戴假发了",
       "onboard_time": 1702821044,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 485867,
+      "num": 485867,
+      "word": "迪丽热巴王鹤棣同框",
+      "onboard_time": 1702859914,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -184,6 +240,22 @@
       "word": "周深太稳了",
       "onboard_time": 1702827522,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 468189,
+      "num": 468189,
+      "word": "倪妮周雨彤 体面",
+      "onboard_time": 1702862013,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 459775,
+      "num": 459775,
+      "word": "杨紫于和伟 年度电视剧演员",
+      "onboard_time": 1702861175,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -235,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402121,
+      "num": 402121,
+      "word": "周杰伦真不把观众当外人",
+      "onboard_time": 1702861233,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 375636,
       "num": 375636,
       "word": "檀健次王嘉尔被吓到",
@@ -259,6 +339,30 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 318436,
+      "num": 402464,
+      "word": "大学校园是否应对外开放",
+      "onboard_time": 1702861832,
+      "rank": 19,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 317450,
+      "num": 317450,
+      "word": "资助的孩子退学后问我要剩下的学费",
+      "onboard_time": 1702821642,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 302359,
+      "num": 379763,
+      "word": "老人住院因子女不看望伤心过度自杀",
+      "onboard_time": 1702826385,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301266,
       "num": 270000,
       "word": "赵露思花海礼裙",
@@ -267,19 +371,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 298059,
-      "num": 379763,
-      "word": "老人住院因子女不看望伤心过度自杀",
-      "onboard_time": 1702826385,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 287437,
       "num": 210475,
       "word": "星光大赏",
       "onboard_time": 1702811681,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283446,
+      "num": 283446,
+      "word": "星光大赏获奖名单",
+      "onboard_time": 1702861414,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -299,12 +403,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273410,
+      "num": 273410,
+      "word": "王鹤棣 社交悍匪",
+      "onboard_time": 1702861175,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256530,
       "num": 256530,
       "word": "赵露思 年度海外最具人气演员",
       "onboard_time": 1702829560,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248818,
+      "num": 248818,
+      "word": "阿根廷世界杯夺冠一周年",
+      "onboard_time": 1702860276,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 238458,
@@ -339,20 +459,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 211060,
+      "num": 211060,
+      "word": "薛之谦 三明",
+      "onboard_time": 1702861116,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 206900,
+      "num": 206900,
+      "word": "张万森 又下雪了",
+      "onboard_time": 1702861895,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 202371,
+      "num": 178483,
+      "word": "TF三代 diss队友",
+      "onboard_time": 1702835481,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191728,
       "num": 191728,
       "word": "祝绪丹的裙子像个移动桌子",
       "onboard_time": 1702831291,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190668,
-      "num": 190668,
-      "word": "资助的孩子退学后问我要剩下的学费",
-      "onboard_time": 1702821642,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 181082,
@@ -363,12 +499,52 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 179749,
-      "num": 178483,
-      "word": "TF三代 diss队友",
-      "onboard_time": 1702835481,
-      "rank": 14,
+      "raw_hot": 171796,
+      "num": 138082,
+      "word": "周杰伦新歌歌名三个字",
+      "onboard_time": 1702857510,
+      "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167362,
+      "num": 137720,
+      "word": "沈腾 端水大师",
+      "onboard_time": 1702859194,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163491,
+      "num": 137003,
+      "word": "繁花",
+      "onboard_time": 1702859974,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159335,
+      "num": 136552,
+      "word": "狗神 评分第一票房垫底",
+      "onboard_time": 1702856550,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 157653,
+      "num": 348376,
+      "word": "孙东旭曾对董宇辉称不要幻想做管理",
+      "onboard_time": 1702824109,
+      "rank": 37,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 156877,
+      "num": 156877,
+      "word": "多地迎来今冬最冷白天",
+      "onboard_time": 1702859494,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155741,
@@ -379,12 +555,28 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 154056,
-      "num": 348376,
-      "word": "孙东旭曾对董宇辉称不要幻想做管理",
-      "onboard_time": 1702824109,
-      "rank": 37,
-      "category": "互联网,社会新闻"
+      "raw_hot": 139124,
+      "num": 139124,
+      "word": "直拍镜头下的花花和谭爷爷",
+      "onboard_time": 1702858472,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136341,
+      "num": 333767,
+      "word": "当HR问我为什么有一年空窗期",
+      "onboard_time": 1702813901,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136016,
+      "num": 136016,
+      "word": "考研英语小作文终极预测",
+      "onboard_time": 1702861116,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 133283,
@@ -435,12 +627,12 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 111052,
-      "num": 333767,
-      "word": "当HR问我为什么有一年空窗期",
-      "onboard_time": 1702813901,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 113494,
+      "num": 128550,
+      "word": "外卖小哥回应下雪天点外卖",
+      "onboard_time": 1702835958,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106892,
@@ -489,14 +681,6 @@
       "onboard_time": 1702824046,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82244,
-      "num": 128093,
-      "word": "外卖小哥回应下雪天点外卖",
-      "onboard_time": 1702835958,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81226,
