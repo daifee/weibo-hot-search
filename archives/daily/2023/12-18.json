@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702905737389,
+  "endTime": 1702906445114,
   "band_list": [
     {
       "raw_hot": 8731897,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2075675,
+      "num": 2075675,
+      "word": "小杨哥谈去年缴税2个亿",
+      "onboard_time": 1702902518,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1948341,
       "num": 1948341,
       "word": "佟丽娅入股陈思诚公司",
@@ -124,19 +132,11 @@
     },
     {
       "raw_hot": 1888507,
-      "num": 284945,
+      "num": 286645,
       "word": "董宇辉回应升职",
       "onboard_time": 1702902396,
       "rank": 23,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1857337,
-      "num": 1857337,
-      "word": "小杨哥谈去年缴税2个亿",
-      "onboard_time": 1702902518,
-      "rank": 33,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1844848,
@@ -185,6 +185,14 @@
       "onboard_time": 1702871919,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1596548,
+      "num": 1596548,
+      "word": "一念关山 全死了",
+      "onboard_time": 1702904134,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1587883,
@@ -265,14 +273,6 @@
       "onboard_time": 1702894292,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1191434,
-      "num": 1191434,
-      "word": "一念关山 全死了",
-      "onboard_time": 1702904134,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1182158,
@@ -435,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 727644,
+      "num": 405857,
+      "word": "屋顶着火 derderderder",
+      "onboard_time": 1702904557,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706300,
       "num": 514499,
       "word": "罗永浩 铁公鸡和马屁精的故事",
@@ -539,6 +547,14 @@
       "category": "数码,艺人"
     },
     {
+      "raw_hot": 606333,
+      "num": 606333,
+      "word": "迪丽热巴她慌了",
+      "onboard_time": 1702903232,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 605241,
       "num": 605241,
       "word": "西方臻选内容已全部清空",
@@ -563,12 +579,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 591029,
-      "num": 591029,
-      "word": "迪丽热巴她慌了",
-      "onboard_time": 1702903232,
-      "rank": 5,
-      "category": "作品衍生"
+      "raw_hot": 598349,
+      "num": 598349,
+      "word": "董明珠称一切都是孟羽童的选择",
+      "onboard_time": 1702904857,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587187,
@@ -683,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 535109,
-      "num": 405857,
-      "word": "屋顶着火 derderderder",
-      "onboard_time": 1702904557,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 532143,
       "num": 2193454,
       "word": "女生3小时在雪地踩出上岸祝福",
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468766,
+      "num": 283185,
+      "word": "瘦大腿相当于在瘦全身",
+      "onboard_time": 1702902276,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 467833,
       "num": 456639,
       "word": "唐嫣造型师回应礼裙有数字",
@@ -881,14 +897,6 @@
       "onboard_time": 1702879473,
       "rank": 29,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 433449,
-      "num": 270079,
-      "word": "瘦大腿相当于在瘦全身",
-      "onboard_time": 1702902276,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 429650,
@@ -1235,6 +1243,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 317724,
+      "num": 407458,
+      "word": "江苏多地停课一天",
+      "onboard_time": 1702903715,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317450,
       "num": 317450,
       "word": "资助的孩子退学后问我要剩下的学费",
@@ -1259,20 +1275,20 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 314757,
+      "num": 290752,
+      "word": "虞书欣直播",
+      "onboard_time": 1702905574,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313767,
       "num": 313767,
       "word": "关晓彤代言的天然呆被强执430万",
       "onboard_time": 1702868674,
       "rank": 23,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 311762,
-      "num": 407458,
-      "word": "江苏多地停课一天",
-      "onboard_time": 1702903715,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307043,
@@ -1372,7 +1388,7 @@
     },
     {
       "raw_hot": 286782,
-      "num": 231883,
+      "num": 280455,
       "word": "刘诗诗陈都灵对手戏",
       "onboard_time": 1702903656,
       "rank": 36,
@@ -1483,16 +1499,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 265402,
-      "num": 265402,
-      "word": "董明珠称一切都是孟羽童的选择",
-      "onboard_time": 1702904857,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265148,
-      "num": 228858,
+      "num": 235189,
       "word": "梁朝伟没磕到 我嗑到了",
       "onboard_time": 1702904134,
       "rank": 31,
@@ -1545,6 +1553,14 @@
       "onboard_time": 1702883493,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257348,
+      "num": 257348,
+      "word": "上淇回应红毯流鼻血",
+      "onboard_time": 1702904977,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 256530,
@@ -1635,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244271,
+      "num": 244271,
+      "word": "珉豪写给钟铉的信",
+      "onboard_time": 1702905095,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243228,
       "num": 243228,
       "word": "于十三的结局",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1702887156,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239437,
-      "num": 227500,
-      "word": "虞书欣直播",
-      "onboard_time": 1702905574,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 238458,
@@ -1723,12 +1739,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 227264,
-      "num": 227264,
-      "word": "上淇回应红毯流鼻血",
-      "onboard_time": 1702904977,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 229001,
+      "num": 288044,
+      "word": "威海 有海又有雪",
+      "onboard_time": 1702905396,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 227104,
@@ -1803,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220072,
+      "num": 278837,
+      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+      "onboard_time": 1702904557,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219807,
       "num": 219807,
       "word": "小猫暴打静电",
@@ -1841,14 +1865,6 @@
       "onboard_time": 1702892555,
       "rank": 35,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 214068,
-      "num": 214068,
-      "word": "珉豪写给钟铉的信",
-      "onboard_time": 1702905095,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 211936,
@@ -2001,6 +2017,14 @@
       "onboard_time": 1702887457,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194474,
+      "num": 194474,
+      "word": "南京一辅警雪中保畅不幸殉职",
+      "onboard_time": 1702905996,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193221,
@@ -2219,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168436,
-      "num": 230354,
-      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
-      "onboard_time": 1702904557,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168293,
       "num": 168293,
       "word": "妈妈做护工收到了超一万的工资",
@@ -2299,6 +2315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157713,
+      "num": 359167,
+      "word": "拼多多上的县长推荐",
+      "onboard_time": 1702899214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157653,
       "num": 348376,
       "word": "孙东旭曾对董宇辉称不要幻想做管理",
@@ -2313,14 +2337,6 @@
       "onboard_time": 1702869154,
       "rank": 49,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 156905,
-      "num": 156905,
-      "word": "威海 有海又有雪",
-      "onboard_time": 1702905396,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 156877,
@@ -2411,14 +2427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133866,
-      "num": 359167,
-      "word": "拼多多上的县长推荐",
-      "onboard_time": 1702899214,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133283,
       "num": 378434,
       "word": "湖南一市场火灾已扑救37小时",
@@ -2499,6 +2507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118713,
+      "num": 118713,
+      "word": "年会不能停 打工人生存现状",
+      "onboard_time": 1702906357,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118053,
       "num": 118053,
       "word": "懒人背诵法",
@@ -2512,6 +2528,14 @@
       "word": "外卖小哥回应下雪天点外卖",
       "onboard_time": 1702835958,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111152,
+      "num": 111152,
+      "word": "河南小伙回应短片一夜爆火",
+      "onboard_time": 1702904977,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2747,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28574,
+      "num": 1594908,
+      "word": "我国首艘大洋钻探船正式命名并试航",
+      "onboard_time": 1702885594,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28126,
       "num": 198021,
       "word": "苏醒吴莫愁同花顺满满遗憾",
@@ -2761,14 +2793,6 @@
       "onboard_time": 1702846752,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21754,
-      "num": 1339537,
-      "word": "我国首艘大洋钻探船正式命名并试航",
-      "onboard_time": 1702885594,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21170,
