@@ -1,0 +1,410 @@
+{
+  "runTime": 1702880664692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2176287,
+        "num": 2176287,
+        "word": "草莓价格大跳水",
+        "onboard_time": 1702872162,
+        "rank": 0,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1353577,
+        "num": 1353577,
+        "word": "田笑蜜针对朱丹被骗事件发声",
+        "onboard_time": 1702878213,
+        "rank": 1,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 33973,
+        "num": 1166244,
+        "word": "详解2023年中央经济工作会议精神",
+        "onboard_time": 1702872581,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1428104,
+        "num": 1111947,
+        "word": "罪犯劳荣枝被执行死刑",
+        "onboard_time": 1702869993,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045371,
+        "num": 1045371,
+        "word": "周海媚告别仪式已完成",
+        "onboard_time": 1702878573,
+        "rank": 4,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 943164,
+        "num": 943164,
+        "word": "张元英 青岛",
+        "onboard_time": 1702871919,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 823165,
+        "num": 823165,
+        "word": "佟丽娅入股陈思诚公司",
+        "onboard_time": 1702871499,
+        "rank": 6,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 787084,
+        "num": 787084,
+        "word": "迪丽热巴 Dior",
+        "onboard_time": 1702875998,
+        "rank": 7,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 689396,
+        "num": 689396,
+        "word": "给住院婆婆吃泡面博主被拘",
+        "onboard_time": 1702865974,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587187,
+        "num": 587187,
+        "word": "林姐肉夹馍被永久关停",
+        "onboard_time": 1702874565,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128346,
+        "num": 585627,
+        "word": "25岁班主任结婚前一周跳楼身亡",
+        "onboard_time": 1702879953,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581137,
+        "num": 581137,
+        "word": "张雪峰疑喊话罗永浩",
+        "onboard_time": 1702875341,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 559968,
+        "num": 559968,
+        "word": "脱轨 颠公",
+        "onboard_time": 1702874084,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531361,
+        "num": 531361,
+        "word": "唐嫣高定礼裙 数字",
+        "onboard_time": 1702878333,
+        "rank": 13,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 82450,
+        "num": 527603,
+        "word": "原神钟离 三星堆",
+        "onboard_time": 1702879233,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 524464,
+        "num": 524464,
+        "word": "班主任猥亵女生校方称怕耽误高考不开除",
+        "onboard_time": 1702872219,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 501065,
+        "num": 501065,
+        "word": "易烊千玺新片演脑瘫",
+        "onboard_time": 1702872882,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 489475,
+        "num": 489475,
+        "word": "劳荣枝执行死刑前向受害者家属道歉",
+        "onboard_time": 1702875162,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479349,
+        "num": 479349,
+        "word": "西方臻选称被东方甄选举报",
+        "onboard_time": 1702874205,
+        "rank": 18,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 434932,
+        "num": 434932,
+        "word": "建行",
+        "onboard_time": 1702865552,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 406800,
+        "num": 406800,
+        "word": "赵露思y2k",
+        "onboard_time": 1702879354,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372051,
+        "num": 372051,
+        "word": "上海女子言语骚扰站岗哨兵",
+        "onboard_time": 1702878735,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371251,
+        "num": 371251,
+        "word": "董宇辉成东方甄选高级合伙人",
+        "onboard_time": 1702855525,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 358824,
+        "num": 358824,
+        "word": "学而思总裁将女主播升4级加高管序列",
+        "onboard_time": 1702873542,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 334757,
+        "num": 334757,
+        "word": "湖南一女子遭黑狗撕咬脖子",
+        "onboard_time": 1702871139,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314456,
+        "num": 314456,
+        "word": "俞敏洪称老板与员工方向一致就变合伙人",
+        "onboard_time": 1702879293,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 288390,
+        "num": 288390,
+        "word": "京剧表演艺术家李幼斌去世",
+        "onboard_time": 1702869693,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287524,
+        "num": 287524,
+        "word": "赵露思上台忘记脱毛衣了",
+        "onboard_time": 1702824586,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275910,
+        "num": 275910,
+        "word": "湿发睡觉 致癌",
+        "onboard_time": 1702867355,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264462,
+        "num": 264462,
+        "word": "今年的出圈小说",
+        "onboard_time": 1702879473,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 254118,
+        "num": 254118,
+        "word": "范丞丞把王鹤棣逗笑了",
+        "onboard_time": 1702880014,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242951,
+        "num": 242951,
+        "word": "倪妮周雨彤 体面",
+        "onboard_time": 1702862013,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232135,
+        "num": 232135,
+        "word": "屈楚萧张佳宁芭莎雪中大片",
+        "onboard_time": 1702879774,
+        "rank": 32,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 227322,
+        "num": 227322,
+        "word": "星光大赏 小的饿大的困",
+        "onboard_time": 1702874984,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213958,
+        "num": 213958,
+        "word": "A股",
+        "onboard_time": 1702866933,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211719,
+        "num": 211719,
+        "word": "池石镇暂退RM",
+        "onboard_time": 1702875638,
+        "rank": 35,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 186810,
+        "num": 186810,
+        "word": "老舍还是含蓄了",
+        "onboard_time": 1702878871,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 173580,
+        "num": 173580,
+        "word": "勇士全队拯救大兵库里",
+        "onboard_time": 1702876540,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171175,
+        "num": 171175,
+        "word": "原神三星堆",
+        "onboard_time": 1702877198,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168426,
+        "num": 168426,
+        "word": "刘诗诗 Qeelin",
+        "onboard_time": 1702874625,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 162154,
+        "num": 162154,
+        "word": "迪丽热巴连续三届vip之星",
+        "onboard_time": 1702871619,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161756,
+        "num": 161756,
+        "word": "搜狐时尚盛典阵容",
+        "onboard_time": 1702878213,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160095,
+        "num": 160095,
+        "word": "女明星高定",
+        "onboard_time": 1702878031,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155517,
+        "num": 155517,
+        "word": "动漫嘉年华",
+        "onboard_time": 1702879413,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155297,
+        "num": 155297,
+        "word": "林更新 她成我领导了",
+        "onboard_time": 1702863691,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154532,
+        "num": 154532,
+        "word": "华为nova12 易烊千玺",
+        "onboard_time": 1702868013,
+        "rank": 45,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 150604,
+        "num": 150604,
+        "word": "高级合伙人是什么职位",
+        "onboard_time": 1702878513,
+        "rank": 46,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 150597,
+        "num": 150597,
+        "word": "小猫咪有自己的取暖办法",
+        "onboard_time": 1702878392,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142160,
+        "num": 142160,
+        "word": "小小的我官宣",
+        "onboard_time": 1702867174,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138777,
+        "num": 138777,
+        "word": "邱贻可孙颖莎合照",
+        "onboard_time": 1702876236,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}

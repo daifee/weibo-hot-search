@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702877669039,
+  "endTime": 1702880664692,
   "band_list": [
     {
       "raw_hot": 7331483,
@@ -107,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1353577,
+      "num": 1353577,
+      "word": "田笑蜜针对朱丹被骗事件发声",
+      "onboard_time": 1702878213,
+      "rank": 1,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 1307454,
       "num": 569655,
       "word": "今天的朋友圈格外emo",
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1128346,
+      "num": 585627,
+      "word": "25岁班主任结婚前一周跳楼身亡",
+      "onboard_time": 1702879953,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1117562,
       "num": 1117562,
       "word": "肖战 TODS",
@@ -177,6 +193,14 @@
       "onboard_time": 1702863691,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1045371,
+      "num": 1045371,
+      "word": "周海媚告别仪式已完成",
+      "onboard_time": 1702878573,
+      "rank": 4,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 1030581,
@@ -363,6 +387,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 587187,
+      "num": 587187,
+      "word": "林姐肉夹馍被永久关停",
+      "onboard_time": 1702874565,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576193,
       "num": 576193,
       "word": "罗永浩 脱口秀",
@@ -377,14 +409,6 @@
       "onboard_time": 1702822668,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 559014,
-      "num": 559014,
-      "word": "林姐肉夹馍被永久关停",
-      "onboard_time": 1702874565,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 556490,
@@ -417,6 +441,14 @@
       "onboard_time": 1702825726,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 531361,
+      "num": 531361,
+      "word": "唐嫣高定礼裙 数字",
+      "onboard_time": 1702878333,
+      "rank": 13,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 514888,
@@ -547,6 +579,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 406800,
+      "num": 406800,
+      "word": "赵露思y2k",
+      "onboard_time": 1702879354,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375636,
       "num": 375636,
       "word": "檀健次王嘉尔被吓到",
@@ -593,6 +633,14 @@
       "onboard_time": 1702870773,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 372051,
+      "num": 372051,
+      "word": "上海女子言语骚扰站岗哨兵",
+      "onboard_time": 1702878735,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351632,
@@ -681,6 +729,14 @@
       "onboard_time": 1702864653,
       "rank": 21,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 314456,
+      "num": 314456,
+      "word": "俞敏洪称老板与员工方向一致就变合伙人",
+      "onboard_time": 1702879293,
+      "rank": 25,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 313767,
@@ -795,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264462,
+      "num": 264462,
+      "word": "今年的出圈小说",
+      "onboard_time": 1702879473,
+      "rank": 29,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 263382,
       "num": 263382,
       "word": "米哈游官宣启动鸿蒙原生应用开发",
@@ -816,6 +880,14 @@
       "word": "赵露思 年度海外最具人气演员",
       "onboard_time": 1702829560,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 254118,
+      "num": 254118,
+      "word": "范丞丞把王鹤棣逗笑了",
+      "onboard_time": 1702880014,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -867,6 +939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 232135,
+      "num": 232135,
+      "word": "屈楚萧张佳宁芭莎雪中大片",
+      "onboard_time": 1702879774,
+      "rank": 32,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 231257,
       "num": 378658,
       "word": "王强 被俞敏洪遮住的男人",
@@ -915,20 +995,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 213958,
+      "num": 213958,
+      "word": "A股",
+      "onboard_time": 1702866933,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 211060,
       "num": 211060,
       "word": "薛之谦 三明",
       "onboard_time": 1702861116,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209500,
-      "num": 209500,
-      "word": "A股",
-      "onboard_time": 1702866933,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 209179,
@@ -1019,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186810,
+      "num": 186810,
+      "word": "老舍还是含蓄了",
+      "onboard_time": 1702878871,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 186632,
       "num": 186632,
       "word": "ITZY回归新曲",
@@ -1099,6 +1187,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161756,
+      "num": 161756,
+      "word": "搜狐时尚盛典阵容",
+      "onboard_time": 1702878213,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 160095,
+      "num": 160095,
+      "word": "女明星高定",
+      "onboard_time": 1702878031,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 159335,
       "num": 136552,
       "word": "狗神 评分第一票房垫底",
@@ -1139,12 +1243,36 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 155517,
+      "num": 155517,
+      "word": "动漫嘉年华",
+      "onboard_time": 1702879413,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 154322,
       "num": 154322,
       "word": "正确敷面膜步骤",
       "onboard_time": 1702870413,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 150604,
+      "num": 150604,
+      "word": "高级合伙人是什么职位",
+      "onboard_time": 1702878513,
+      "rank": 46,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 150597,
+      "num": 150597,
+      "word": "小猫咪有自己的取暖办法",
+      "onboard_time": 1702878392,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 139899,
@@ -1289,6 +1417,14 @@
       "onboard_time": 1702824046,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82450,
+      "num": 527603,
+      "word": "原神钟离 三星堆",
+      "onboard_time": 1702879233,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 81226,
