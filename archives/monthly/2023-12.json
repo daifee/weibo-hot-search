@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702941482933,
+  "endTime": 1702942464902,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -81,6 +81,14 @@
       "onboard_time": 1701942460,
       "rank": 1,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 10227402,
+      "num": 11477402,
+      "word": "甘肃地震已致86人遇难96人受伤",
+      "onboard_time": 1702940784,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10093980,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1702369474,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2580537,
-      "num": 2580537,
-      "word": "甘肃地震已致86人遇难96人受伤",
-      "onboard_time": 1702940784,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2552576,
@@ -2787,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1587995,
+      "num": 1587995,
+      "word": "甘肃地震监控画面",
+      "onboard_time": 1702922421,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1587883,
       "num": 1587883,
       "word": "张元英回山东都得穿棉袄",
@@ -3129,14 +3137,6 @@
       "onboard_time": 1702168108,
       "rank": 3,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1479202,
-      "num": 1479202,
-      "word": "甘肃地震监控画面",
-      "onboard_time": 1702922421,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1478198,
@@ -7515,6 +7515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 732189,
+      "num": 732189,
+      "word": "警方通报国家公祭日男子身贴日本国旗",
+      "onboard_time": 1702938437,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731866,
       "num": 731866,
       "word": "单依纯 有票吗",
@@ -9827,6 +9835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 592146,
+      "num": 592146,
+      "word": "国家地震应急响应提升至二级",
+      "onboard_time": 1702941207,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 591871,
       "num": 591871,
       "word": "脸不对称就练筷子操",
@@ -10171,6 +10187,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 576778,
+      "num": 149197,
+      "word": "喜茶 买一送一",
+      "onboard_time": 1702921040,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 576398,
       "num": 576398,
       "word": "罗永浩",
@@ -10313,14 +10337,6 @@
       "onboard_time": 1702396181,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 571423,
-      "num": 121222,
-      "word": "喜茶 买一送一",
-      "onboard_time": 1702921040,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 570996,
@@ -11729,14 +11745,6 @@
       "onboard_time": 1701472460,
       "rank": 30,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 520355,
-      "num": 520355,
-      "word": "警方通报国家公祭日男子身贴日本国旗",
-      "onboard_time": 1702938437,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 520137,
@@ -14203,6 +14211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 442789,
+      "num": 368037,
+      "word": "任如意殉国",
+      "onboard_time": 1702916216,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442527,
       "num": 257533,
       "word": "杨紫 要久久爱要播了",
@@ -15835,14 +15851,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 405324,
-      "num": 368037,
-      "word": "任如意殉国",
-      "onboard_time": 1702916216,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 405038,
       "num": 291754,
       "word": "东方甄选一夜涨粉8.3万",
@@ -16433,6 +16441,14 @@
       "onboard_time": 1701944023,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 391228,
+      "num": 391228,
+      "word": "专家说柯南到渣男就是一线之差",
+      "onboard_time": 1702940483,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 391175,
@@ -18705,14 +18721,6 @@
       "onboard_time": 1702180715,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 350145,
-      "num": 350145,
-      "word": "专家说柯南到渣男就是一线之差",
-      "onboard_time": 1702940483,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 350050,
@@ -27163,6 +27171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244146,
+      "num": 278837,
+      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+      "onboard_time": 1702904557,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244081,
       "num": 244081,
       "word": "特斯拉交付首批电动皮卡",
@@ -27340,7 +27356,7 @@
     },
     {
       "raw_hot": 242084,
-      "num": 107634,
+      "num": 147618,
       "word": "俞敏洪称正内部处理小编",
       "onboard_time": 1702932672,
       "rank": 26,
@@ -28923,14 +28939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 228864,
-      "num": 278837,
-      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
-      "onboard_time": 1702904557,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228843,
       "num": 228843,
       "word": "短道速滑世界杯",
@@ -29657,6 +29665,14 @@
       "onboard_time": 1701691416,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223315,
+      "num": 223315,
+      "word": "苹果在美停售AppleWatch",
+      "onboard_time": 1702941870,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 223300,
@@ -37891,6 +37907,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 175858,
+      "num": 175858,
+      "word": "直播甘肃地震救援现场",
+      "onboard_time": 1702941629,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175805,
       "num": 330933,
       "word": "公子 请戴小米手环",
@@ -40203,14 +40227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160788,
-      "num": 160788,
-      "word": "国家地震应急响应提升至二级",
-      "onboard_time": 1702941207,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160773,
       "num": 160773,
       "word": "秦海璐辛芷蕾不同的消费观",
@@ -42361,6 +42377,14 @@
       "onboard_time": 1702603895,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147255,
+      "num": 147255,
+      "word": "2024年谁也强不过白羊座",
+      "onboard_time": 1702942052,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 147206,
@@ -47019,12 +47043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93713,
+      "num": 93713,
+      "word": "山西震感",
+      "onboard_time": 1702921880,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93513,
       "num": 264384,
       "word": "利物浦vs曼联",
       "onboard_time": 1702827225,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92801,
+      "num": 92801,
+      "word": "猫咪背上天生有个猫爪印",
+      "onboard_time": 1702942353,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92759,
@@ -47179,6 +47219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87630,
+      "num": 87630,
+      "word": "积石山地震持续时长约1分钟",
+      "onboard_time": 1702942353,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87394,
       "num": 121349,
       "word": "烂手算工伤吗",
@@ -47201,14 +47249,6 @@
       "onboard_time": 1702630532,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 87302,
-      "num": 87302,
-      "word": "山西震感",
-      "onboard_time": 1702921880,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87088,
@@ -47297,6 +47337,22 @@
       "onboard_time": 1701901396,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83508,
+      "num": 83508,
+      "word": "甘肃地震亲历者讲述逃生细节",
+      "onboard_time": 1702942172,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83273,
+      "num": 83273,
+      "word": "董明珠直播再谈孟羽童",
+      "onboard_time": 1702942230,
+      "rank": 44,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 83158,
@@ -48073,6 +48129,14 @@
       "onboard_time": 1702498033,
       "rank": 42,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 64113,
+      "num": 64113,
+      "word": "甘肃地震后鸟群盘旋",
+      "onboard_time": 1702942413,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63963,

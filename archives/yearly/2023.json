@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702941482933,
+  "endTime": 1702942464902,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1689826721,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10227402,
+      "num": 11477402,
+      "word": "甘肃地震已致86人遇难96人受伤",
+      "onboard_time": 1702940784,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10204768,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1688026115,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7331483,
-      "num": 8201073,
-      "word": "罪犯劳荣枝被执行死刑",
-      "onboard_time": 1702869993,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

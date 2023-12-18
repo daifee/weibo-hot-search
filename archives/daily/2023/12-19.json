@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702941482933,
+  "endTime": 1702942464902,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -8,6 +8,14 @@
       "word": "甘肃地震",
       "onboard_time": 1702915732,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10227402,
+      "num": 11477402,
+      "word": "甘肃地震已致86人遇难96人受伤",
+      "onboard_time": 1702940784,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "成都震感",
       "onboard_time": 1702916392,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2580537,
-      "num": 2580537,
-      "word": "甘肃地震已致86人遇难96人受伤",
-      "onboard_time": 1702940784,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -67,6 +67,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1587995,
+      "num": 1587995,
+      "word": "甘肃地震监控画面",
+      "onboard_time": 1702922421,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1521232,
       "num": 471006,
       "word": "成都地震",
@@ -81,14 +89,6 @@
       "onboard_time": 1702912121,
       "rank": 23,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1479202,
-      "num": 1479202,
-      "word": "甘肃地震监控画面",
-      "onboard_time": 1702922421,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1087993,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 732189,
+      "num": 732189,
+      "word": "警方通报国家公祭日男子身贴日本国旗",
+      "onboard_time": 1702938437,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645887,
       "num": 645887,
       "word": "男子不满航班延误亮明网红身份维权",
@@ -139,6 +147,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 592146,
+      "num": 592146,
+      "word": "国家地震应急响应提升至二级",
+      "onboard_time": 1702941207,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588562,
       "num": 588562,
       "word": "甘肃天气",
@@ -147,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 571423,
-      "num": 121222,
+      "raw_hot": 576778,
+      "num": 149197,
       "word": "喜茶 买一送一",
       "onboard_time": 1702921040,
       "rank": 20,
@@ -163,20 +179,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 552499,
+      "num": 401148,
+      "word": "老师忙到辞职只能微信告诉领导",
+      "onboard_time": 1702907797,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532808,
       "num": 532808,
       "word": "闹钟没响 单位报警",
       "onboard_time": 1702916154,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 520355,
-      "num": 520355,
-      "word": "警方通报国家公祭日男子身贴日本国旗",
-      "onboard_time": 1702938437,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 506764,
@@ -243,20 +259,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456526,
-      "num": 401148,
-      "word": "老师忙到辞职只能微信告诉领导",
-      "onboard_time": 1702907797,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405324,
+      "raw_hot": 442789,
       "num": 368037,
       "word": "任如意殉国",
       "onboard_time": 1702916216,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391228,
+      "num": 391228,
+      "word": "专家说柯南到渣男就是一线之差",
+      "onboard_time": 1702940483,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 376185,
@@ -265,14 +281,6 @@
       "onboard_time": 1702908398,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 350145,
-      "num": 350145,
-      "word": "专家说柯南到渣男就是一线之差",
-      "onboard_time": 1702940483,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 345944,
@@ -347,8 +355,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244146,
+      "num": 235306,
+      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+      "onboard_time": 1702904557,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242084,
-      "num": 107634,
+      "num": 147618,
       "word": "俞敏洪称正内部处理小编",
       "onboard_time": 1702932672,
       "rank": 26,
@@ -363,12 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218275,
-      "num": 235306,
-      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
-      "onboard_time": 1702904557,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 223315,
+      "num": 223315,
+      "word": "苹果在美停售AppleWatch",
+      "onboard_time": 1702941870,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 206251,
@@ -392,6 +408,14 @@
       "word": "女子出车祸鲨鱼夹插入后脑勺",
       "onboard_time": 1702888959,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175858,
+      "num": 175858,
+      "word": "直播甘肃地震救援现场",
+      "onboard_time": 1702941629,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -427,20 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160788,
-      "num": 160788,
-      "word": "国家地震应急响应提升至二级",
-      "onboard_time": 1702941207,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156046,
       "num": 156046,
       "word": "朱一龙受伤",
       "onboard_time": 1702891778,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147255,
+      "num": 147255,
+      "word": "2024年谁也强不过白羊座",
+      "onboard_time": 1702942052,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 142709,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137186,
+      "num": 137186,
+      "word": "田笑蜜未还朱丹1600万垫款成老赖",
+      "onboard_time": 1702894232,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135242,
       "num": 135242,
       "word": "我以为装的 直到她开始流鼻血",
@@ -489,14 +521,6 @@
       "onboard_time": 1702920563,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123833,
-      "num": 123833,
-      "word": "田笑蜜未还朱丹1600万垫款成老赖",
-      "onboard_time": 1702894232,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 122768,
@@ -539,12 +563,52 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 87302,
-      "num": 87302,
+      "raw_hot": 93713,
+      "num": 93713,
       "word": "山西震感",
       "onboard_time": 1702921880,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92801,
+      "num": 92801,
+      "word": "猫咪背上天生有个猫爪印",
+      "onboard_time": 1702942353,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87630,
+      "num": 87630,
+      "word": "积石山地震持续时长约1分钟",
+      "onboard_time": 1702942353,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84199,
+      "num": 84199,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1702941870,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83508,
+      "num": 83508,
+      "word": "甘肃地震亲历者讲述逃生细节",
+      "onboard_time": 1702942172,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83273,
+      "num": 83273,
+      "word": "董明珠直播再谈孟羽童",
+      "onboard_time": 1702942230,
+      "rank": 44,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 83003,
@@ -577,6 +641,14 @@
       "onboard_time": 1702936273,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64113,
+      "num": 64113,
+      "word": "甘肃地震后鸟群盘旋",
+      "onboard_time": 1702942413,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55003,
