@@ -1,0 +1,410 @@
+{
+  "runTime": 1702867310573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1540962,
+        "num": 1540962,
+        "word": "给住院婆婆吃泡面博主被拘",
+        "onboard_time": 1702865974,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465718,
+        "num": 1465718,
+        "word": "倪妮周雨彤 体面",
+        "onboard_time": 1702862013,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24752,
+        "num": 1147817,
+        "word": "双曲线一号商业运载火箭成功发射",
+        "onboard_time": 1702823569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2597131,
+        "num": 1091267,
+        "word": "董宇辉成东方甄选高级合伙人",
+        "onboard_time": 1702855525,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 994077,
+        "num": 994077,
+        "word": "林更新 她成我领导了",
+        "onboard_time": 1702863691,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 985232,
+        "num": 985232,
+        "word": "韩国大量进口中国辣椒酱",
+        "onboard_time": 1702858956,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 900522,
+        "num": 900522,
+        "word": "建行",
+        "onboard_time": 1702865552,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 740117,
+        "num": 740117,
+        "word": "赵露思上台忘记脱毛衣了",
+        "onboard_time": 1702824586,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572913,
+        "num": 572913,
+        "word": "周杰伦真不把观众当外人",
+        "onboard_time": 1702861233,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 551151,
+        "num": 551151,
+        "word": "迪丽热巴领奖走成T台",
+        "onboard_time": 1702826864,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448045,
+        "num": 448045,
+        "word": "罗永浩称高级合伙人是虚的不重要",
+        "onboard_time": 1702863392,
+        "rank": 10,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 444687,
+        "num": 444687,
+        "word": "张万森 朋友圈下老登了",
+        "onboard_time": 1702825550,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433257,
+        "num": 433257,
+        "word": "吴磊发言切赵露思",
+        "onboard_time": 1702860215,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406865,
+        "num": 406865,
+        "word": "东方甄选高仿账号",
+        "onboard_time": 1702864353,
+        "rank": 13,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 402502,
+        "num": 402502,
+        "word": "出道六年她占五年",
+        "onboard_time": 1702828900,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374303,
+        "num": 374303,
+        "word": "雷军称小米第一辆车研发投入超百亿",
+        "onboard_time": 1702863392,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 355661,
+        "num": 355661,
+        "word": "王一博到底在急什么",
+        "onboard_time": 1702823686,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351632,
+        "num": 351632,
+        "word": "雪天护士把早产婴儿贴胸口一路护送",
+        "onboard_time": 1702863753,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323554,
+        "num": 323554,
+        "word": "北大副教授跨栏进出校门",
+        "onboard_time": 1702862553,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 318118,
+        "num": 318118,
+        "word": "刘畊宏出圈1年多后谈流量下滑",
+        "onboard_time": 1702835839,
+        "rank": 19,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 309759,
+        "num": 309759,
+        "word": "迪丽热巴王鹤棣同框",
+        "onboard_time": 1702859914,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309273,
+        "num": 309273,
+        "word": "是不是真牛肉小杨哥得给一句准话",
+        "onboard_time": 1702864653,
+        "rank": 21,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 307921,
+        "num": 307921,
+        "word": "日本死鱼多到渔船寸步难行",
+        "onboard_time": 1702819845,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307043,
+        "num": 307043,
+        "word": "如何知道血管里有没有斑块",
+        "onboard_time": 1702863753,
+        "rank": 23,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 252580,
+        "num": 252580,
+        "word": "苏州下雪",
+        "onboard_time": 1702863691,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293644,
+        "num": 251918,
+        "word": "小小的我官宣",
+        "onboard_time": 1702867174,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286729,
+        "num": 251868,
+        "word": "告诉秦岚 辛芷蕾今晚不回去了",
+        "onboard_time": 1702825968,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250571,
+        "num": 250571,
+        "word": "东方甄选已承诺董宇辉天价待遇",
+        "onboard_time": 1702857212,
+        "rank": 27,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 249755,
+        "num": 249755,
+        "word": "杨紫于和伟 年度电视剧演员",
+        "onboard_time": 1702861175,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246186,
+        "num": 246186,
+        "word": "新加坡建议公众室内戴口罩",
+        "onboard_time": 1702863573,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236951,
+        "num": 236951,
+        "word": "东方甄选开盘大涨",
+        "onboard_time": 1702865193,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 226363,
+        "num": 226363,
+        "word": "董宇辉复播",
+        "onboard_time": 1702857455,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 219185,
+        "num": 219185,
+        "word": "孙东旭留任东方甄选非执行董事",
+        "onboard_time": 1702824768,
+        "rank": 32,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 213029,
+        "num": 213029,
+        "word": "这下全世界都知道沈腾戴假发了",
+        "onboard_time": 1702821044,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209500,
+        "num": 209500,
+        "word": "A股",
+        "onboard_time": 1702866933,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204941,
+        "num": 204941,
+        "word": "星光大赏获奖名单",
+        "onboard_time": 1702861414,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197380,
+        "num": 197380,
+        "word": "王鹤棣 社交悍匪",
+        "onboard_time": 1702861175,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193522,
+        "num": 193522,
+        "word": "今天的朋友圈格外emo",
+        "onboard_time": 1702824707,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 183677,
+        "num": 183677,
+        "word": "肖战 TODS",
+        "onboard_time": 1702826864,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182589,
+        "num": 182589,
+        "word": "罗永浩 铁公鸡和马屁精的故事",
+        "onboard_time": 1702858354,
+        "rank": 39,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 182492,
+        "num": 182492,
+        "word": "张万森 又下雪了",
+        "onboard_time": 1702861895,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179443,
+        "num": 179443,
+        "word": "老人住院因子女不看望伤心过度自杀",
+        "onboard_time": 1702826385,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173221,
+        "num": 173221,
+        "word": "十二星座一周运势",
+        "onboard_time": 1702862611,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161059,
+        "num": 161059,
+        "word": "杭州下雪",
+        "onboard_time": 1702866755,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153098,
+        "num": 153098,
+        "word": "繁花 排面",
+        "onboard_time": 1702863214,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151004,
+        "num": 151004,
+        "word": "一念关山 高开癫走的剧情",
+        "onboard_time": 1702823087,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37775,
+        "num": 150745,
+        "word": "十万级家轿用料能有多扎实",
+        "onboard_time": 1702867235,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150590,
+        "num": 150590,
+        "word": "真的需要这件羽绒服",
+        "onboard_time": 1702830694,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143628,
+        "num": 143628,
+        "word": "ITZY回归新曲",
+        "onboard_time": 1702865913,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139602,
+        "num": 139602,
+        "word": "小米智能门锁多次自动打开",
+        "onboard_time": 1702862372,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国改革开放的信心和意志都不会动摇#"
+    }
+  }
+}
