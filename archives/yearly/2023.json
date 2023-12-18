@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702870484387,
+  "endTime": 1702873352176,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2371,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7331483,
+      "num": 8201073,
+      "word": "罪犯劳荣枝被执行死刑",
+      "onboard_time": 1702869993,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7313901,
       "num": 7313901,
       "word": "TFBOYS 微博之夜",
@@ -2392,14 +2400,6 @@
       "word": "李强被任命为国务院总理",
       "onboard_time": 1678504167,
       "rank": 0,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 7293759,
-      "num": 7963954,
-      "word": "台湾当归",
-      "onboard_time": 1692461075,
-      "rank": 30,
       "category": "国内要闻"
     }
   ],
