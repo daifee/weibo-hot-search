@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702923759122,
+  "endTime": 1702924627527,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -2107,6 +2107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 473109,
+      "num": 473109,
+      "word": "甘肃地震监控画面",
+      "onboard_time": 1702922421,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472951,
       "num": 472951,
       "word": "500米 重开6次",
@@ -2441,14 +2449,6 @@
       "onboard_time": 1702826805,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402324,
-      "num": 402324,
-      "word": "甘肃地震监控画面",
-      "onboard_time": 1702922421,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399826,
@@ -5411,6 +5411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134327,
+      "num": 134327,
+      "word": "甘肃积石山地震消防已救出2人",
+      "onboard_time": 1702922841,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134222,
       "num": 134222,
       "word": "王安宇卷发",
@@ -5665,14 +5673,6 @@
       "onboard_time": 1702879233,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 104662,
-      "num": 104662,
-      "word": "甘肃积石山地震消防已救出2人",
-      "onboard_time": 1702922841,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104384,
