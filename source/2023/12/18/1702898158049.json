@@ -1,0 +1,410 @@
+{
+  "runTime": 1702898158049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1587883,
+        "num": 1587883,
+        "word": "张元英回山东都得穿棉袄",
+        "onboard_time": 1702888776,
+        "rank": 0,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 385526,
+        "num": 1357682,
+        "word": "女生3小时在雪地踩出上岸祝福",
+        "onboard_time": 1702891173,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51581,
+        "num": 1351582,
+        "word": "今年是改革开放45周年",
+        "onboard_time": 1702886137,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1345758,
+        "num": 1345758,
+        "word": "劳荣枝希望家属帮她还花呗",
+        "onboard_time": 1702881214,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304269,
+        "num": 1260324,
+        "word": "父亲骄傲展示30岁智力障碍儿子手工作品",
+        "onboard_time": 1702886673,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210188,
+        "num": 1210188,
+        "word": "吴露可逃",
+        "onboard_time": 1702894292,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204690,
+        "num": 902806,
+        "word": "输入法暴露了反诈民警的职业病",
+        "onboard_time": 1702889501,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850939,
+        "num": 850939,
+        "word": "我以为装的 直到她开始流鼻血",
+        "onboard_time": 1702884994,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 849397,
+        "num": 849397,
+        "word": "朱一龙受伤",
+        "onboard_time": 1702891778,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549468,
+        "num": 549468,
+        "word": "田曦薇上台这段",
+        "onboard_time": 1702892794,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2413606,
+        "num": 533635,
+        "word": "原神 黑丝",
+        "onboard_time": 1702895915,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1150786,
+        "num": 533114,
+        "word": "人民网评劳荣枝被执行死刑",
+        "onboard_time": 1702896814,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054665,
+        "num": 526026,
+        "word": "25岁班主任结婚前一周跳楼身亡",
+        "onboard_time": 1702879953,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513922,
+        "num": 513922,
+        "word": "Uzi和Faker同队",
+        "onboard_time": 1702895793,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 921782,
+        "num": 508508,
+        "word": "闲云 那英",
+        "onboard_time": 1702898071,
+        "rank": 14,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 502840,
+        "num": 502840,
+        "word": "田笑蜜未还朱丹1600万垫款成老赖",
+        "onboard_time": 1702894232,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485061,
+        "num": 485061,
+        "word": "田曦薇 布偶猫塑",
+        "onboard_time": 1702891055,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476042,
+        "num": 476042,
+        "word": "安宥真穿中国校服",
+        "onboard_time": 1702894893,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465570,
+        "num": 465570,
+        "word": "迪丽热巴 Dior",
+        "onboard_time": 1702875998,
+        "rank": 18,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 442210,
+        "num": 442210,
+        "word": "一念关山超点大结局",
+        "onboard_time": 1702890334,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2062258,
+        "num": 410522,
+        "word": "董宇辉任新东方文旅副总裁",
+        "onboard_time": 1702886015,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 662103,
+        "num": 397491,
+        "word": "女子出车祸鲨鱼夹插入后脑勺",
+        "onboard_time": 1702888959,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454990,
+        "num": 381662,
+        "word": "原神三星堆",
+        "onboard_time": 1702877198,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357667,
+        "num": 357667,
+        "word": "这是阳光玫瑰太奶吗",
+        "onboard_time": 1702889738,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 339260,
+        "num": 339260,
+        "word": "俞敏洪喊话网友不用担心董宇辉不直播",
+        "onboard_time": 1702896513,
+        "rank": 24,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 323973,
+        "num": 323973,
+        "word": "王鹤棣王传君爆改吗喽表情包",
+        "onboard_time": 1702891954,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295813,
+        "num": 295813,
+        "word": "赵文卓 爸而不爹",
+        "onboard_time": 1702896097,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271963,
+        "num": 271963,
+        "word": "何蓝逗 不敷衍观众的男装",
+        "onboard_time": 1702889014,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264632,
+        "num": 264632,
+        "word": "鸣龙少年 病耻感",
+        "onboard_time": 1702897353,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262553,
+        "num": 262553,
+        "word": "劳荣枝的27年",
+        "onboard_time": 1702884814,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263152,
+        "num": 252363,
+        "word": "学而思女主播回应被称做女版董宇辉",
+        "onboard_time": 1702896513,
+        "rank": 30,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 53612,
+        "num": 245183,
+        "word": "新闻女王 有生命力的美",
+        "onboard_time": 1702897173,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263430,
+        "num": 243788,
+        "word": "伍佰 唱又不让唱走又不让走",
+        "onboard_time": 1702884516,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240709,
+        "num": 240709,
+        "word": "俞敏洪称董宇辉会继续在东方甄选直播",
+        "onboard_time": 1702892915,
+        "rank": 33,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 229283,
+        "num": 229283,
+        "word": "舌头和胃对了一整夜的账",
+        "onboard_time": 1702887337,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203665,
+        "num": 203665,
+        "word": "于十三的结局",
+        "onboard_time": 1702892613,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225786,
+        "num": 200642,
+        "word": "你认为曹云金与董宇辉经历相似吗",
+        "onboard_time": 1702895793,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 196426,
+        "num": 196426,
+        "word": "林一 倒拔垂杨柳",
+        "onboard_time": 1702897891,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189078,
+        "num": 189078,
+        "word": "小猫暴打静电",
+        "onboard_time": 1702894652,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183577,
+        "num": 183577,
+        "word": "宁远舟重回地狱道",
+        "onboard_time": 1702896874,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182812,
+        "num": 182812,
+        "word": "劳荣枝法子英90年代抢劫命案往事",
+        "onboard_time": 1702881814,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180214,
+        "num": 180214,
+        "word": "冰雪大世界 暂停当日售票",
+        "onboard_time": 1702892133,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 167720,
+        "num": 167720,
+        "word": "唐嫣造型师回应礼裙有数字",
+        "onboard_time": 1702886137,
+        "rank": 42,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 167239,
+        "num": 167239,
+        "word": "田笑蜜已被限制高消费",
+        "onboard_time": 1702887760,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 166448,
+        "num": 166448,
+        "word": "哈尔滨大滑梯",
+        "onboard_time": 1702892555,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 162504,
+        "num": 162504,
+        "word": "杨紫澳门飞上海",
+        "onboard_time": 1702887398,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151626,
+        "num": 151626,
+        "word": "罪犯劳荣枝被执行死刑",
+        "onboard_time": 1702869993,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150611,
+        "num": 150611,
+        "word": "Rookie求助网友",
+        "onboard_time": 1702892313,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150455,
+        "num": 150455,
+        "word": "脱轨 颠公",
+        "onboard_time": 1702874084,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143482,
+        "num": 143482,
+        "word": "佟丽娅入股陈思诚公司",
+        "onboard_time": 1702871499,
+        "rank": 49,
+        "category": "艺人,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移全面深化改革开放#"
+    }
+  }
+}
