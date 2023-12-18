@@ -1,0 +1,410 @@
+{
+  "runTime": 1702883847666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3028237,
+        "num": 3028237,
+        "word": "25岁班主任结婚前一周跳楼身亡",
+        "onboard_time": 1702879953,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2688390,
+        "num": 2688390,
+        "word": "劳荣枝希望家属帮她还花呗",
+        "onboard_time": 1702881214,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33490,
+        "num": 1394703,
+        "word": "详解2023年中央经济工作会议精神",
+        "onboard_time": 1702872581,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211882,
+        "num": 1211882,
+        "word": "迪丽热巴 Dior",
+        "onboard_time": 1702875998,
+        "rank": 3,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 1200726,
+        "num": 1200726,
+        "word": "草莓价格大跳水",
+        "onboard_time": 1702872162,
+        "rank": 4,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 754311,
+        "num": 754311,
+        "word": "罪犯劳荣枝被执行死刑",
+        "onboard_time": 1702869993,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731677,
+        "num": 731677,
+        "word": "张元英 青岛",
+        "onboard_time": 1702871919,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 660983,
+        "num": 660983,
+        "word": "脱轨 颠公",
+        "onboard_time": 1702874084,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 629600,
+        "num": 629600,
+        "word": "田笑蜜针对朱丹被骗事件发声",
+        "onboard_time": 1702878213,
+        "rank": 8,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 522306,
+        "num": 522306,
+        "word": "佟丽娅入股陈思诚公司",
+        "onboard_time": 1702871499,
+        "rank": 9,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 623570,
+        "num": 492170,
+        "word": "给住院婆婆吃泡面博主被拘",
+        "onboard_time": 1702865974,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444277,
+        "num": 444277,
+        "word": "劳荣枝法子英90年代抢劫命案往事",
+        "onboard_time": 1702881814,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408890,
+        "num": 408890,
+        "word": "今年的出圈小说",
+        "onboard_time": 1702879473,
+        "rank": 12,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 391737,
+        "num": 391737,
+        "word": "周海媚告别仪式已完成",
+        "onboard_time": 1702878573,
+        "rank": 13,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 391175,
+        "num": 391175,
+        "word": "上海女子言语骚扰站岗哨兵",
+        "onboard_time": 1702878735,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388114,
+        "num": 388114,
+        "word": "抖音回应西方臻选被封号",
+        "onboard_time": 1702881814,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 365199,
+        "num": 365199,
+        "word": "唐嫣高定礼裙 数字",
+        "onboard_time": 1702878333,
+        "rank": 16,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 359381,
+        "num": 359381,
+        "word": "俞敏洪称老板与员工方向一致就变合伙人",
+        "onboard_time": 1702879293,
+        "rank": 17,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 334688,
+        "num": 334688,
+        "word": "班主任猥亵女生校方称怕耽误高考不开除",
+        "onboard_time": 1702872219,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 334637,
+        "num": 334637,
+        "word": "易烊千玺新片演脑瘫",
+        "onboard_time": 1702872882,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146078,
+        "num": 313956,
+        "word": "杨洋龙年腾飞吧",
+        "onboard_time": 1702882051,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 306085,
+        "num": 306085,
+        "word": "张雪峰疑喊话罗永浩",
+        "onboard_time": 1702875341,
+        "rank": 21,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 296441,
+        "num": 296441,
+        "word": "来自星星的你开播十周年",
+        "onboard_time": 1702883254,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282099,
+        "num": 282099,
+        "word": "赵露思y2k",
+        "onboard_time": 1702879354,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280925,
+        "num": 280925,
+        "word": "林姐肉夹馍被永久关停",
+        "onboard_time": 1702874565,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273925,
+        "num": 273925,
+        "word": "倪妮的一天 爱很多女人",
+        "onboard_time": 1702881455,
+        "rank": 25,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 265124,
+        "num": 265124,
+        "word": "董宇辉成东方甄选高级合伙人",
+        "onboard_time": 1702855525,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 261783,
+        "num": 261783,
+        "word": "世界上最发达的做空机制中国全都用了",
+        "onboard_time": 1702881693,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259123,
+        "num": 259123,
+        "word": "郑恺 谁在背后说魏总像他大姨",
+        "onboard_time": 1702883014,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258666,
+        "num": 258666,
+        "word": "湖南一女子遭黑狗撕咬脖子",
+        "onboard_time": 1702871139,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254220,
+        "num": 254220,
+        "word": "林心如为陪伴父母回家乡工作",
+        "onboard_time": 1702880734,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248489,
+        "num": 248489,
+        "word": "范丞丞把王鹤棣逗笑了",
+        "onboard_time": 1702880014,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220564,
+        "num": 220564,
+        "word": "湿发睡觉 致癌",
+        "onboard_time": 1702867355,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218889,
+        "num": 218889,
+        "word": "和好朋友绝交 比分手还难过",
+        "onboard_time": 1702880674,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216528,
+        "num": 216528,
+        "word": "京剧表演艺术家李幼斌去世",
+        "onboard_time": 1702869693,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208065,
+        "num": 208065,
+        "word": "A股",
+        "onboard_time": 1702866933,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 185525,
+        "num": 185525,
+        "word": "赵露思上台忘记脱毛衣了",
+        "onboard_time": 1702824586,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182351,
+        "num": 182351,
+        "word": "劳荣枝执行死刑前向受害者家属道歉",
+        "onboard_time": 1702875162,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171702,
+        "num": 171702,
+        "word": "陈梦说梦想的篇章未完待续",
+        "onboard_time": 1702882714,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169972,
+        "num": 169972,
+        "word": "屈楚萧张佳宁芭莎雪中大片",
+        "onboard_time": 1702879774,
+        "rank": 39,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 169532,
+        "num": 169532,
+        "word": "小猫咪有自己的取暖办法",
+        "onboard_time": 1702878392,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165474,
+        "num": 165474,
+        "word": "有一种自卑叫做寄人篱下",
+        "onboard_time": 1702883554,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162645,
+        "num": 162645,
+        "word": "5天后考研",
+        "onboard_time": 1702883314,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 155254,
+        "num": 155254,
+        "word": "劳荣枝亲属回应劳荣枝被执行死刑",
+        "onboard_time": 1702880853,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150058,
+        "num": 150058,
+        "word": "倪妮周雨彤 体面",
+        "onboard_time": 1702862013,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148112,
+        "num": 148112,
+        "word": "周海媚一路走好",
+        "onboard_time": 1702881935,
+        "rank": 45,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 147163,
+        "num": 147163,
+        "word": "劳荣枝辩护律师吴丹红称已尽力",
+        "onboard_time": 1702883493,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136667,
+        "num": 136667,
+        "word": "西方臻选称被东方甄选举报",
+        "onboard_time": 1702874205,
+        "rank": 47,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 130756,
+        "num": 130756,
+        "word": "老舍还是含蓄了",
+        "onboard_time": 1702878871,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 124437,
+        "num": 124437,
+        "word": "学而思总裁将女主播升4级加高管序列",
+        "onboard_time": 1702873542,
+        "rank": 49,
+        "category": "互联网,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}
