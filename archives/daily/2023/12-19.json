@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702937809048,
+  "endTime": 1702938855073,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -155,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 515866,
+      "num": 515866,
+      "word": "甘肃地震监控画面",
+      "onboard_time": 1702922421,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506764,
       "num": 506764,
       "word": "屋顶着火 derderderder",
@@ -192,14 +200,6 @@
       "word": "甘肃积石山连续发生多次地震",
       "onboard_time": 1702920263,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473109,
-      "num": 473109,
-      "word": "甘肃地震监控画面",
-      "onboard_time": 1702922421,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242084,
+      "num": 45053,
+      "word": "俞敏洪称正内部处理小编",
+      "onboard_time": 1702932672,
+      "rank": 26,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 234121,
       "num": 234121,
       "word": "南京一辅警雪中保畅不幸殉职",
@@ -345,14 +353,6 @@
       "onboard_time": 1702901374,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194679,
-      "num": 39073,
-      "word": "俞敏洪称正内部处理小编",
-      "onboard_time": 1702932672,
-      "rank": 26,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 189417,
@@ -539,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64892,
+      "num": 64892,
+      "word": "脱轨",
+      "onboard_time": 1702936273,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55003,
       "num": 55003,
       "word": "任敏项链丢了",
@@ -555,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40122,
-      "num": 40122,
-      "word": "脱轨",
-      "onboard_time": 1702936273,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 34973,
+      "num": 34973,
+      "word": "警方通报国家公祭日男子身贴日本国旗",
+      "onboard_time": 1702938437,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34497,
@@ -587,8 +595,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21401,
-      "num": 21918,
+      "raw_hot": 26143,
+      "num": 26143,
       "word": "于适主持首秀",
       "onboard_time": 1702933273,
       "rank": 46,
