@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702906445114,
+  "endTime": 1702909053809,
   "band_list": [
     {
       "raw_hot": 8731897,
@@ -57,6 +57,14 @@
       "onboard_time": 1702881214,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2873264,
+      "num": 2873264,
+      "word": "一念关山 全死了",
+      "onboard_time": 1702904134,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2811509,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1888507,
-      "num": 286645,
+      "num": 325644,
       "word": "董宇辉回应升职",
       "onboard_time": 1702902396,
       "rank": 23,
@@ -185,14 +193,6 @@
       "onboard_time": 1702871919,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1596548,
-      "num": 1596548,
-      "word": "一念关山 全死了",
-      "onboard_time": 1702904134,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1587883,
@@ -339,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1027415,
+      "num": 1027415,
+      "word": "董明珠称一切都是孟羽童的选择",
+      "onboard_time": 1702904857,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 987151,
       "num": 798654,
       "word": "刘畊宏出圈1年多后谈流量下滑",
@@ -363,6 +371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 888070,
+      "num": 323787,
+      "word": "俞敏洪回应被称铁公鸡",
+      "onboard_time": 1702907617,
+      "rank": 23,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 887960,
       "num": 394646,
       "word": "告诉秦岚 辛芷蕾今晚不回去了",
@@ -377,6 +393,14 @@
       "onboard_time": 1702888959,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 831984,
+      "num": 423757,
+      "word": "李同光发现二胎是妹妹",
+      "onboard_time": 1702907675,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 813787,
@@ -435,8 +459,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 757140,
+      "num": 757140,
+      "word": "南京一辅警雪中保畅不幸殉职",
+      "onboard_time": 1702905996,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727644,
-      "num": 405857,
+      "num": 705931,
       "word": "屋顶着火 derderderder",
       "onboard_time": 1702904557,
       "rank": 10,
@@ -577,14 +609,6 @@
       "onboard_time": 1702885834,
       "rank": 6,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 598349,
-      "num": 598349,
-      "word": "董明珠称一切都是孟羽童的选择",
-      "onboard_time": 1702904857,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 587187,
@@ -803,6 +827,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 478476,
+      "num": 478476,
+      "word": "男子不满航班延误亮明网红身份维权",
+      "onboard_time": 1702907258,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469051,
       "num": 444277,
       "word": "劳荣枝法子英90年代抢劫命案往事",
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 468766,
-      "num": 283185,
+      "num": 396525,
       "word": "瘦大腿相当于在瘦全身",
       "onboard_time": 1702902276,
       "rank": 45,
@@ -931,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 422068,
+      "num": 422068,
+      "word": "老师忙到辞职只能微信告诉领导",
+      "onboard_time": 1702907797,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414626,
       "num": 214478,
       "word": "杨紫怼脸镜头好美",
@@ -987,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387463,
+      "num": 387463,
+      "word": "刘诗诗 如意此生五愿",
+      "onboard_time": 1702907737,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382775,
       "num": 382775,
       "word": "朱丹 田笑蜜",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1702894774,
       "rank": 31,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 377653,
+      "num": 377653,
+      "word": "威海 有海又有雪",
+      "onboard_time": 1702905396,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 375636,
@@ -1611,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251175,
+      "num": 251175,
+      "word": "刘宇宁 一念关山有你们了不起",
+      "onboard_time": 1702908576,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250407,
       "num": 250407,
       "word": "东方甄选开盘大涨",
@@ -1739,14 +1803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 229001,
-      "num": 288044,
-      "word": "威海 有海又有雪",
-      "onboard_time": 1702905396,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 227104,
       "num": 227104,
       "word": "学习通",
@@ -1803,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222601,
+      "num": 278837,
+      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+      "onboard_time": 1702904557,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220948,
       "num": 379021,
       "word": "媒体泄密小米汽车将赔三百万罚金",
@@ -1817,14 +1881,6 @@
       "onboard_time": 1702886255,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220072,
-      "num": 278837,
-      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
-      "onboard_time": 1702904557,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219807,
@@ -1883,6 +1939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210285,
+      "num": 210285,
+      "word": "沈耀直面爸爸出轨",
+      "onboard_time": 1702908218,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209179,
       "num": 209179,
       "word": "中级经济师 过了",
@@ -1896,6 +1960,14 @@
       "word": "辛芷蕾繁华造型 沪上富贵花",
       "onboard_time": 1702862855,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205813,
+      "num": 205813,
+      "word": "宁远舟生命最后的走马灯",
+      "onboard_time": 1702907978,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2019,12 +2091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194474,
-      "num": 194474,
-      "word": "南京一辅警雪中保畅不幸殉职",
-      "onboard_time": 1702905996,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 194269,
+      "num": 182076,
+      "word": "于十三没坟头",
+      "onboard_time": 1702908398,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 193221,
@@ -2057,6 +2129,14 @@
       "onboard_time": 1702899096,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190276,
+      "num": 183498,
+      "word": "张若昀演技",
+      "onboard_time": 1702908697,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 189569,
@@ -2227,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170301,
+      "num": 359167,
+      "word": "拼多多上的县长推荐",
+      "onboard_time": 1702899214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169923,
       "num": 169923,
       "word": "5天后考研",
@@ -2313,14 +2401,6 @@
       "onboard_time": 1702856550,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 157713,
-      "num": 359167,
-      "word": "拼多多上的县长推荐",
-      "onboard_time": 1702899214,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157653,
@@ -2459,6 +2539,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 131811,
+      "num": 151550,
+      "word": "不一样的保暖穿搭",
+      "onboard_time": 1702908335,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 130873,
       "num": 142160,
       "word": "欧冠16强对阵出炉",
@@ -2553,6 +2641,14 @@
       "onboard_time": 1702821828,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102276,
+      "num": 409013,
+      "word": "欢迎大家来元梦偶遇我",
+      "onboard_time": 1702908033,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 98050,
