@@ -1,0 +1,410 @@
+{
+  "runTime": 1702888600260,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8103101,
+        "num": 8103101,
+        "word": "董宇辉任新东方文旅副总裁",
+        "onboard_time": 1702886015,
+        "rank": 0,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 1726497,
+        "num": 1726497,
+        "word": "我以为装的 直到她开始流鼻血",
+        "onboard_time": 1702884994,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71548,
+        "num": 1662369,
+        "word": "今年是改革开放45周年",
+        "onboard_time": 1702886137,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1632532,
+        "num": 1632532,
+        "word": "劳荣枝希望家属帮她还花呗",
+        "onboard_time": 1702881214,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874702,
+        "num": 874702,
+        "word": "迪丽热巴 Dior",
+        "onboard_time": 1702875998,
+        "rank": 4,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 655404,
+        "num": 655404,
+        "word": "草莓价格大跳水",
+        "onboard_time": 1702872162,
+        "rank": 5,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 551323,
+        "num": 551323,
+        "word": "伍佰 唱又不让唱走又不让走",
+        "onboard_time": 1702884516,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 536647,
+        "num": 536647,
+        "word": "胡冰卿草莓发卡 梦回百草",
+        "onboard_time": 1702885834,
+        "rank": 7,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 535687,
+        "num": 535687,
+        "word": "张元英 青岛",
+        "onboard_time": 1702871919,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 440128,
+        "num": 440128,
+        "word": "罪犯劳荣枝被执行死刑",
+        "onboard_time": 1702869993,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1503920,
+        "num": 439002,
+        "word": "25岁班主任结婚前一周跳楼身亡",
+        "onboard_time": 1702879953,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537748,
+        "num": 436421,
+        "word": "俞敏洪检讨自己早该强势介入",
+        "onboard_time": 1702885234,
+        "rank": 11,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 467833,
+        "num": 436033,
+        "word": "唐嫣造型师回应礼裙有数字",
+        "onboard_time": 1702886137,
+        "rank": 12,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 431912,
+        "num": 431912,
+        "word": "苏小玎随地乱丢烟头",
+        "onboard_time": 1702884393,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399346,
+        "num": 399346,
+        "word": "田笑蜜已被限制高消费",
+        "onboard_time": 1702887760,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 355190,
+        "num": 355190,
+        "word": "董宇辉平谷中学演讲完整版",
+        "onboard_time": 1702886855,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 338601,
+        "num": 338601,
+        "word": "张雪峰疑喊话罗永浩",
+        "onboard_time": 1702875341,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 322948,
+        "num": 322948,
+        "word": "脱轨 颠公",
+        "onboard_time": 1702874084,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314479,
+        "num": 314479,
+        "word": "平安京的纯元皇后",
+        "onboard_time": 1702884933,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86671,
+        "num": 312713,
+        "word": "迪士尼又双叒联名了",
+        "onboard_time": 1702886075,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 441233,
+        "num": 300888,
+        "word": "杨紫澳门飞上海",
+        "onboard_time": 1702887398,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337852,
+        "num": 297490,
+        "word": "舌头和胃对了一整夜的账",
+        "onboard_time": 1702887337,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337065,
+        "num": 293033,
+        "word": "曹云金力挺董宇辉",
+        "onboard_time": 1702887698,
+        "rank": 22,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 286206,
+        "num": 286206,
+        "word": "给住院婆婆吃泡面博主被拘",
+        "onboard_time": 1702865974,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268084,
+        "num": 268084,
+        "word": "佟丽娅入股陈思诚公司",
+        "onboard_time": 1702871499,
+        "rank": 24,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 268038,
+        "num": 268038,
+        "word": "劳荣枝的27年",
+        "onboard_time": 1702884814,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267581,
+        "num": 267581,
+        "word": "父亲骄傲展示30岁智力障碍儿子手工作品",
+        "onboard_time": 1702886673,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251879,
+        "num": 251879,
+        "word": "劳荣枝法子英90年代抢劫命案往事",
+        "onboard_time": 1702881814,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250123,
+        "num": 250123,
+        "word": "董宇辉成东方甄选高级合伙人",
+        "onboard_time": 1702855525,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 243697,
+        "num": 243697,
+        "word": "田笑蜜针对朱丹被骗事件发声",
+        "onboard_time": 1702878213,
+        "rank": 29,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 319785,
+        "num": 242989,
+        "word": "俞敏洪称与董宇辉风雨同行",
+        "onboard_time": 1702887939,
+        "rank": 30,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 241642,
+        "num": 241642,
+        "word": "陈梦 粉丝像香蕉一样补给力量",
+        "onboard_time": 1702887156,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230800,
+        "num": 230800,
+        "word": "薛之谦演唱会演甄嬛传",
+        "onboard_time": 1702887337,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227585,
+        "num": 227585,
+        "word": "赵露思王安宇想牵又没牵上的手",
+        "onboard_time": 1702884994,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226807,
+        "num": 226807,
+        "word": "有一种自卑叫做寄人篱下",
+        "onboard_time": 1702883554,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219618,
+        "num": 219618,
+        "word": "衣物收纳",
+        "onboard_time": 1702887579,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 214564,
+        "num": 214564,
+        "word": "班主任猥亵女生校方称怕耽误高考不开除",
+        "onboard_time": 1702872219,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 209652,
+        "num": 209652,
+        "word": "易烊千玺新片演脑瘫",
+        "onboard_time": 1702872882,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200399,
+        "num": 200399,
+        "word": "镜头扫过周雨彤的瞬间",
+        "onboard_time": 1702886255,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40044,
+        "num": 199827,
+        "word": "美团2023年度报告来了",
+        "onboard_time": 1702886434,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199626,
+        "num": 199626,
+        "word": "中国哪座县城名字最好听",
+        "onboard_time": 1702884933,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198541,
+        "num": 198541,
+        "word": "醉驾情节轻微的可以不起诉",
+        "onboard_time": 1702888058,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192860,
+        "num": 192860,
+        "word": "劳荣枝辩护律师吴丹红称已尽力",
+        "onboard_time": 1702883493,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185220,
+        "num": 185220,
+        "word": "抖音回应西方臻选被封号",
+        "onboard_time": 1702881814,
+        "rank": 43,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 184066,
+        "num": 184066,
+        "word": "六道堂最后一次合体",
+        "onboard_time": 1702884693,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183528,
+        "num": 183528,
+        "word": "周雨彤 电影感",
+        "onboard_time": 1702887457,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177470,
+        "num": 177470,
+        "word": "男人 看不到家务",
+        "onboard_time": 1702888361,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163855,
+        "num": 163855,
+        "word": "湖南一女子遭黑狗撕咬脖子",
+        "onboard_time": 1702871139,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162342,
+        "num": 162342,
+        "word": "狄龙被驱逐",
+        "onboard_time": 1702884093,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156589,
+        "num": 156589,
+        "word": "来自星星的你开播十周年",
+        "onboard_time": 1702883254,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移全面深化改革开放#"
+    }
+  }
+}
