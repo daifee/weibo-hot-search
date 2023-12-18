@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702894814455,
+  "endTime": 1702895864691,
   "band_list": [
     {
       "raw_hot": 10972306,
@@ -355,20 +355,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1458044,
+      "num": 1458044,
+      "word": "张元英回山东都得穿棉袄",
+      "onboard_time": 1702888776,
+      "rank": 3,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 1456806,
       "num": 356104,
       "word": "孟羽童仅一年广告收入或达400万",
       "onboard_time": 1702787312,
       "rank": 21,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1445091,
-      "num": 1445091,
-      "word": "张元英回山东都得穿棉袄",
-      "onboard_time": 1702888776,
-      "rank": 3,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 1388315,
@@ -640,6 +640,14 @@
       "word": "夭柳红毯情侣装",
       "onboard_time": 1702802737,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1004370,
+      "num": 1004370,
+      "word": "吴露可逃",
+      "onboard_time": 1702894292,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1507,6 +1515,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 536096,
+      "num": 536096,
+      "word": "田笑蜜未还朱丹1600万垫款成老赖",
+      "onboard_time": 1702894232,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535354,
       "num": 337073,
       "word": "长相思剧组红毯",
@@ -1537,6 +1553,14 @@
       "onboard_time": 1702722036,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 532143,
+      "num": 2193454,
+      "word": "女生3小时在雪地踩出上岸祝福",
+      "onboard_time": 1702891173,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531967,
@@ -1603,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 513842,
+      "num": 513842,
+      "word": "安宥真穿中国校服",
+      "onboard_time": 1702894893,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 507931,
       "num": 374844,
       "word": "景甜希腊女神妆",
@@ -1659,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 491548,
-      "num": 2193454,
-      "word": "女生3小时在雪地踩出上岸祝福",
-      "onboard_time": 1702891173,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 490859,
       "num": 474222,
       "word": "杨紫妆造花絮",
@@ -1720,6 +1744,14 @@
       "word": "周深太稳了",
       "onboard_time": 1702827522,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 480411,
+      "num": 473804,
+      "word": "田曦薇上台这段",
+      "onboard_time": 1702892794,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1803,6 +1835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 461251,
+      "num": 461251,
+      "word": "王鹤棣王传君爆改吗喽表情包",
+      "onboard_time": 1702891954,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460982,
       "num": 460982,
       "word": "景甜藕粉妆",
@@ -1867,14 +1907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 442208,
-      "num": 442208,
-      "word": "王鹤棣王传君爆改吗喽表情包",
-      "onboard_time": 1702891954,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 441233,
       "num": 368718,
       "word": "杨紫澳门飞上海",
@@ -1936,14 +1968,6 @@
       "word": "檀健次 年度全能艺人",
       "onboard_time": 1702826746,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 427095,
-      "num": 427095,
-      "word": "田曦薇上台这段",
-      "onboard_time": 1702892794,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -2139,6 +2163,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 379568,
+      "num": 379568,
+      "word": "盘点董宇辉新东方之路",
+      "onboard_time": 1702894774,
+      "rank": 31,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 375636,
       "num": 375636,
       "word": "檀健次王嘉尔被吓到",
@@ -2209,14 +2241,6 @@
       "onboard_time": 1702870773,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 369249,
-      "num": 246083,
-      "word": "田笑蜜未还朱丹1600万垫款成老赖",
-      "onboard_time": 1702894232,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 367075,
@@ -2361,14 +2385,6 @@
       "onboard_time": 1702805801,
       "rank": 29,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 344118,
-      "num": 344118,
-      "word": "吴露可逃",
-      "onboard_time": 1702894292,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 342159,
@@ -2699,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295914,
+      "num": 1492775,
+      "word": "父亲骄傲展示30岁智力障碍儿子手工作品",
+      "onboard_time": 1702886673,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293767,
       "num": 293767,
       "word": "东方甄选将大调整涉及主播薪资",
@@ -2747,8 +2771,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287203,
-      "num": 287203,
+      "raw_hot": 290610,
+      "num": 290610,
+      "word": "俞敏洪称董宇辉会继续在东方甄选直播",
+      "onboard_time": 1702892915,
+      "rank": 26,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 290395,
+      "num": 290395,
       "word": "冰雪大世界 暂停当日售票",
       "onboard_time": 1702892133,
       "rank": 24,
@@ -2835,6 +2867,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 274680,
+      "num": 274680,
+      "word": "劳荣枝的27年",
+      "onboard_time": 1702884814,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274041,
       "num": 274041,
       "word": "国家卫健委新闻发布会",
@@ -2849,14 +2889,6 @@
       "onboard_time": 1702881455,
       "rank": 25,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 273915,
-      "num": 273915,
-      "word": "俞敏洪称董宇辉会继续在东方甄选直播",
-      "onboard_time": 1702892915,
-      "rank": 26,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 273410,
@@ -2891,20 +2923,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268038,
-      "num": 268038,
-      "word": "劳荣枝的27年",
-      "onboard_time": 1702884814,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267581,
-      "num": 1492775,
-      "word": "父亲骄傲展示30岁智力障碍儿子手工作品",
-      "onboard_time": 1702886673,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 268966,
+      "num": 268966,
+      "word": "一念关山超点大结局",
+      "onboard_time": 1702890334,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 266433,
@@ -2979,12 +3003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258073,
-      "num": 258073,
-      "word": "一念关山超点大结局",
-      "onboard_time": 1702890334,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 259395,
+      "num": 259395,
+      "word": "Uzi和Faker同队",
+      "onboard_time": 1702895793,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 256530,
@@ -3115,14 +3139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244551,
-      "num": 244551,
-      "word": "盘点董宇辉新东方之路",
-      "onboard_time": 1702894774,
-      "rank": 31,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 244542,
       "num": 244542,
       "word": "王栎鑫俞灏明 一生中最爱",
@@ -3169,6 +3185,14 @@
       "onboard_time": 1702832664,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238428,
+      "num": 1291507,
+      "word": "输入法暴露了反诈民警的职业病",
+      "onboard_time": 1702889501,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235732,
@@ -3300,7 +3324,7 @@
     },
     {
       "raw_hot": 224543,
-      "num": 211900,
+      "num": 219948,
       "word": "董宇辉推荐的书单",
       "onboard_time": 1702894533,
       "rank": 37,
@@ -3363,6 +3387,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 219807,
+      "num": 219807,
+      "word": "小猫暴打静电",
+      "onboard_time": 1702894652,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219618,
       "num": 219618,
       "word": "衣物收纳",
@@ -3395,20 +3427,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218847,
+      "num": 218847,
+      "word": "哈尔滨大滑梯",
+      "onboard_time": 1702892555,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 217268,
       "num": 217268,
       "word": "一个麻团的诞生",
       "onboard_time": 1702811204,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 216811,
-      "num": 216811,
-      "word": "哈尔滨大滑梯",
-      "onboard_time": 1702892555,
-      "rank": 35,
-      "category": "旅游"
     },
     {
       "raw_hot": 214000,
@@ -3891,14 +3923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183433,
-      "num": 1270839,
-      "word": "输入法暴露了反诈民警的职业病",
-      "onboard_time": 1702889501,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183369,
       "num": 183369,
       "word": "五哈",
@@ -4123,12 +4147,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168653,
+      "num": 168191,
+      "word": "你认为曹云金与董宇辉经历相似吗",
+      "onboard_time": 1702895793,
+      "rank": 46,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 168424,
       "num": 168424,
       "word": "有雷鸣我四六级早过了",
       "onboard_time": 1702785752,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168293,
+      "num": 168293,
+      "word": "妈妈做护工收到了超一万的工资",
+      "onboard_time": 1702895736,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 168223,
@@ -4177,14 +4217,6 @@
       "onboard_time": 1702779392,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165025,
-      "num": 165025,
-      "word": "小猫暴打静电",
-      "onboard_time": 1702894652,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 164816,
@@ -4385,6 +4417,14 @@
       "onboard_time": 1702787072,
       "rank": 45,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 153897,
+      "num": 153897,
+      "word": "女明星内场直拍 百花齐放的美",
+      "onboard_time": 1702892915,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 153567,
