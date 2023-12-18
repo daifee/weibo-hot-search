@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702919794553,
+  "endTime": 1702920864394,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 795789,
+      "num": 795789,
+      "word": "甘肃580名消防员集结赶赴震中",
+      "onboard_time": 1702919605,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772446,
       "num": 291480,
       "word": "酒肉情侣",
@@ -113,6 +121,14 @@
       "onboard_time": 1702902518,
       "rank": 11,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 588562,
+      "num": 588562,
+      "word": "甘肃天气",
+      "onboard_time": 1702919546,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562475,
@@ -275,11 +291,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240539,
-      "num": 240539,
-      "word": "甘肃天气",
-      "onboard_time": 1702919546,
-      "rank": 11,
+      "raw_hot": 259997,
+      "num": 259997,
+      "word": "甘肃积石山连续发生多次地震",
+      "onboard_time": 1702920263,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -313,14 +329,6 @@
       "onboard_time": 1702911277,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179113,
-      "num": 179113,
-      "word": "甘肃580名消防员集结赶赴震中",
-      "onboard_time": 1702919605,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176291,
@@ -449,6 +457,14 @@
       "onboard_time": 1702894232,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89210,
+      "num": 89210,
+      "word": "甘肃积石山再发3.9级地震",
+      "onboard_time": 1702920563,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83003,

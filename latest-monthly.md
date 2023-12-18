@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/19 01:16:34
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/19 01:34:24
 </p>
 </blockquote>
 <p>
@@ -5067,6 +5067,12 @@ EXO 下雪了（热度：807132）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83580%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E9%9B%86%E7%BB%93%E8%B5%B6%E8%B5%B4%E9%9C%87%E4%B8%AD%23" target="weibo">
+甘肃580名消防员集结赶赴震中（热度：795789）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%9B%9E%E5%BA%94%E5%BE%92%E5%BC%9F%E7%9B%B4%E6%92%AD%E9%97%B4%E5%BC%80%E6%92%AD%E7%A7%92%E5%B0%81%23" target="weibo">
 小杨哥回应徒弟直播间开播秒封（热度：793766）
 </a>
@@ -6005,12 +6011,6 @@ Jessi 解约（热度：710952）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%85%88%E7%94%9F%E5%92%8C%E6%9C%B1%E5%B0%8F%E5%A7%90%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
 周先生和朱小姐的故事（热度：694269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%8A%A2%E4%B8%8D%E5%88%B0%E6%A0%B9%E6%9C%AC%E6%8A%A2%E4%B8%8D%E5%88%B0%23" target="weibo">
-薛之谦 抢不到根本抢不到（热度：693664）
 </a>
 </li>
 

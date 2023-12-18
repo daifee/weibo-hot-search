@@ -1,0 +1,410 @@
+{
+  "runTime": 1702920864394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5904119,
+        "num": 5904119,
+        "word": "甘肃地震",
+        "onboard_time": 1702915732,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1638874,
+        "num": 1638874,
+        "word": "甘肃余震",
+        "onboard_time": 1702918117,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4620,
+        "num": 1069128,
+        "word": "我国首艘大洋钻探船正式命名并试航",
+        "onboard_time": 1702885594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929643,
+        "num": 929643,
+        "word": "积石山",
+        "onboard_time": 1702916627,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795789,
+        "num": 795789,
+        "word": "甘肃580名消防员集结赶赴震中",
+        "onboard_time": 1702919605,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764368,
+        "num": 764368,
+        "word": "西安震感",
+        "onboard_time": 1702916627,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588562,
+        "num": 588562,
+        "word": "甘肃天气",
+        "onboard_time": 1702919546,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491319,
+        "num": 491319,
+        "word": "成都震感",
+        "onboard_time": 1702916392,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310947,
+        "num": 310947,
+        "word": "一念关山 癫剧",
+        "onboard_time": 1702900475,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285515,
+        "num": 285515,
+        "word": "兰州震感",
+        "onboard_time": 1702917043,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259997,
+        "num": 259997,
+        "word": "甘肃积石山连续发生多次地震",
+        "onboard_time": 1702920263,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242914,
+        "num": 242914,
+        "word": "小孩哥勇闯娱乐圈",
+        "onboard_time": 1702909239,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195431,
+        "num": 195431,
+        "word": "闹钟没响 单位报警",
+        "onboard_time": 1702916154,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183683,
+        "num": 183683,
+        "word": "小杨哥谈去年缴税2个亿",
+        "onboard_time": 1702902518,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 178223,
+        "num": 178223,
+        "word": "老师忙到辞职只能微信告诉领导",
+        "onboard_time": 1702907797,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167246,
+        "num": 167246,
+        "word": "李同光发现二胎是妹妹",
+        "onboard_time": 1702907675,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139717,
+        "num": 139717,
+        "word": "男子不满航班延误亮明网红身份维权",
+        "onboard_time": 1702907258,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135923,
+        "num": 135923,
+        "word": "吴露可逃",
+        "onboard_time": 1702894292,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127270,
+        "num": 127270,
+        "word": "瘦大腿相当于在瘦全身",
+        "onboard_time": 1702902276,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119343,
+        "num": 119343,
+        "word": "屋顶着火 derderderder",
+        "onboard_time": 1702904557,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579532,
+        "num": 119187,
+        "word": "俞敏洪将邀请刘亦菲来董宇辉直播间",
+        "onboard_time": 1702914872,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 475639,
+        "num": 118946,
+        "word": "一念关山 全死了",
+        "onboard_time": 1702904134,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223348,
+        "num": 118720,
+        "word": "猫咪从6楼摔下吐血路人送医救治",
+        "onboard_time": 1702914753,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371348,
+        "num": 118594,
+        "word": "董宇辉再播一场将长时间休假",
+        "onboard_time": 1702912121,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 356601,
+        "num": 118146,
+        "word": "任如意殉国",
+        "onboard_time": 1702916216,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140998,
+        "num": 118037,
+        "word": "酒肉情侣",
+        "onboard_time": 1702911277,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155843,
+        "num": 117752,
+        "word": "罗永浩称除非必要辟谣不再发帖",
+        "onboard_time": 1702912719,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 136630,
+        "num": 117473,
+        "word": "男子低头接电话撞死老人",
+        "onboard_time": 1702909719,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129953,
+        "num": 117392,
+        "word": "于十三没坟头",
+        "onboard_time": 1702908398,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117182,
+        "num": 117182,
+        "word": "闲云 那英",
+        "onboard_time": 1702898071,
+        "rank": 29,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 111751,
+        "num": 111751,
+        "word": "张元英回山东都得穿棉袄",
+        "onboard_time": 1702888776,
+        "rank": 30,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 100042,
+        "num": 100042,
+        "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+        "onboard_time": 1702904557,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95864,
+        "num": 95864,
+        "word": "董明珠称一切都是孟羽童的选择",
+        "onboard_time": 1702904857,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89210,
+        "num": 89210,
+        "word": "甘肃积石山再发3.9级地震",
+        "onboard_time": 1702920563,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86499,
+        "num": 86499,
+        "word": "米哈游审美",
+        "onboard_time": 1702901374,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82022,
+        "num": 82022,
+        "word": "迪丽热巴她慌了",
+        "onboard_time": 1702903232,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80067,
+        "num": 80067,
+        "word": "林一 倒拔垂杨柳",
+        "onboard_time": 1702897891,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72015,
+        "num": 72015,
+        "word": "田曦薇 布偶猫塑",
+        "onboard_time": 1702891055,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71238,
+        "num": 71238,
+        "word": "南京一辅警雪中保畅不幸殉职",
+        "onboard_time": 1702905996,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68943,
+        "num": 68943,
+        "word": "李兰迪圣诞照",
+        "onboard_time": 1702919307,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68378,
+        "num": 68378,
+        "word": "我以为装的 直到她开始流鼻血",
+        "onboard_time": 1702884994,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65902,
+        "num": 65902,
+        "word": "人民网评劳荣枝被执行死刑",
+        "onboard_time": 1702896814,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65528,
+        "num": 65528,
+        "word": "檀健次说杨紫是剧组舞蹈担当",
+        "onboard_time": 1702914391,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65398,
+        "num": 65398,
+        "word": "陈丽君失声",
+        "onboard_time": 1702900774,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64287,
+        "num": 64287,
+        "word": "女子出车祸鲨鱼夹插入后脑勺",
+        "onboard_time": 1702888959,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62953,
+        "num": 62953,
+        "word": "南京 弹性上下学",
+        "onboard_time": 1702909478,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62412,
+        "num": 62412,
+        "word": "梅西 最疯狂的一年",
+        "onboard_time": 1702912596,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53757,
+        "num": 53757,
+        "word": "迪丽热巴 Dior",
+        "onboard_time": 1702875998,
+        "rank": 47,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 53392,
+        "num": 53392,
+        "word": "朱一龙受伤",
+        "onboard_time": 1702891778,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52548,
+        "num": 52548,
+        "word": "WBG官宣新赛季大名单",
+        "onboard_time": 1702910560,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记学历史#"
+    }
+  }
+}
