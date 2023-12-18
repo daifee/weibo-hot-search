@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702926881617,
+  "endTime": 1702928051111,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -47819,6 +47819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68971,
+      "num": 68971,
+      "word": "钝感力",
+      "onboard_time": 1702925535,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68712,
       "num": 173363,
       "word": "熊猫团子暖阳下乖乖玩玩具",
@@ -48057,14 +48065,6 @@
       "onboard_time": 1702680557,
       "rank": 35,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 63205,
-      "num": 63205,
-      "word": "钝感力",
-      "onboard_time": 1702925535,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 63131,
