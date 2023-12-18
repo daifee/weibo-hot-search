@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1702917575770,
+  "endTime": 1702919794553,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -337,6 +337,14 @@
       "onboard_time": 1702862013,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1769592,
+      "num": 1769592,
+      "word": "甘肃余震",
+      "onboard_time": 1702918117,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1737699,
@@ -1811,6 +1819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 532808,
+      "num": 532808,
+      "word": "闹钟没响 单位报警",
+      "onboard_time": 1702916154,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 532143,
       "num": 2193454,
       "word": "女生3小时在雪地踩出上岸祝福",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1702797516,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490007,
+      "num": 490007,
+      "word": "兰州震感",
+      "onboard_time": 1702917043,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489835,
@@ -2305,14 +2329,6 @@
       "onboard_time": 1702822189,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 416530,
-      "num": 416530,
-      "word": "兰州震感",
-      "onboard_time": 1702917043,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414401,
@@ -2793,14 +2809,6 @@
       "onboard_time": 1702802918,
       "rank": 21,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 341886,
-      "num": 341886,
-      "word": "闹钟没响 单位报警",
-      "onboard_time": 1702916154,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 339260,
@@ -3747,6 +3755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240539,
+      "num": 240539,
+      "word": "甘肃天气",
+      "onboard_time": 1702919546,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238458,
       "num": 176457,
       "word": "倪妮景甜这对我同意了",
@@ -4689,6 +4705,14 @@
       "onboard_time": 1702776570,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179113,
+      "num": 179113,
+      "word": "甘肃580名消防员集结赶赴震中",
+      "onboard_time": 1702919605,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177781,
@@ -5753,6 +5777,14 @@
       "onboard_time": 1702814437,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77716,
+      "num": 77716,
+      "word": "李兰迪圣诞照",
+      "onboard_time": 1702919307,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 76205,
