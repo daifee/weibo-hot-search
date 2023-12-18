@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1702913680203,
+  "endTime": 1702916598924,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -25,6 +25,14 @@
       "onboard_time": 1688563418,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48160970,
+      "num": 48160970,
+      "word": "甘肃地震",
+      "onboard_time": 1677145950,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35101533,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1679623707,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7308190,
-      "num": 7308190,
-      "word": "四级",
-      "onboard_time": 1678578620,
-      "rank": 6,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

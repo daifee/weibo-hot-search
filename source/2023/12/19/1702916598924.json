@@ -1,0 +1,410 @@
+{
+  "runTime": 1702916598924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 48160970,
+        "num": 48160970,
+        "word": "甘肃地震",
+        "onboard_time": 1702915732,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1087993,
+        "num": 1087993,
+        "word": "一念关山 癫剧",
+        "onboard_time": 1702900475,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9953,
+        "num": 1019863,
+        "word": "我国首艘大洋钻探船正式命名并试航",
+        "onboard_time": 1702885594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969808,
+        "num": 969808,
+        "word": "小孩哥勇闯娱乐圈",
+        "onboard_time": 1702909239,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645887,
+        "num": 645887,
+        "word": "男子不满航班延误亮明网红身份维权",
+        "onboard_time": 1702907258,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562475,
+        "num": 562475,
+        "word": "李同光发现二胎是妹妹",
+        "onboard_time": 1702907675,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506764,
+        "num": 506764,
+        "word": "屋顶着火 derderderder",
+        "onboard_time": 1702904557,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481824,
+        "num": 481824,
+        "word": "董明珠称一切都是孟羽童的选择",
+        "onboard_time": 1702904857,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471094,
+        "num": 471094,
+        "word": "南京 弹性上下学",
+        "onboard_time": 1702909478,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1521232,
+        "num": 471006,
+        "word": "成都地震",
+        "onboard_time": 1702916392,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2253885,
+        "num": 470975,
+        "word": "一念关山 全死了",
+        "onboard_time": 1702904134,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611852,
+        "num": 470969,
+        "word": "小杨哥谈去年缴税2个亿",
+        "onboard_time": 1702902518,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 470919,
+        "num": 470919,
+        "word": "瘦大腿相当于在瘦全身",
+        "onboard_time": 1702902276,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 401148,
+        "num": 401148,
+        "word": "老师忙到辞职只能微信告诉领导",
+        "onboard_time": 1702907797,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376185,
+        "num": 376185,
+        "word": "于十三没坟头",
+        "onboard_time": 1702908398,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345944,
+        "num": 345944,
+        "word": "张元英回山东都得穿棉袄",
+        "onboard_time": 1702888776,
+        "rank": 15,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 341886,
+        "num": 341886,
+        "word": "闹钟没响 单位报警",
+        "onboard_time": 1702916154,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326323,
+        "num": 326323,
+        "word": "吴露可逃",
+        "onboard_time": 1702894292,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298557,
+        "num": 298557,
+        "word": "刘宇宁 一念关山有你们了不起",
+        "onboard_time": 1702908576,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294520,
+        "num": 294520,
+        "word": "闲云 那英",
+        "onboard_time": 1702898071,
+        "rank": 19,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 1687459,
+        "num": 293785,
+        "word": "俞敏洪将邀请刘亦菲来董宇辉直播间",
+        "onboard_time": 1702914872,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 772446,
+        "num": 291480,
+        "word": "酒肉情侣",
+        "onboard_time": 1702911277,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466808,
+        "num": 287210,
+        "word": "猫咪从6楼摔下吐血路人送医救治",
+        "onboard_time": 1702914753,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1498029,
+        "num": 285835,
+        "word": "董宇辉再播一场将长时间休假",
+        "onboard_time": 1702912121,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 283174,
+        "num": 283174,
+        "word": "梅西 最疯狂的一年",
+        "onboard_time": 1702912596,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320751,
+        "num": 280802,
+        "word": "男子低头接电话撞死老人",
+        "onboard_time": 1702909719,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501181,
+        "num": 279614,
+        "word": "罗永浩称除非必要辟谣不再发帖",
+        "onboard_time": 1702912719,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 274342,
+        "num": 274342,
+        "word": "迪丽热巴她慌了",
+        "onboard_time": 1702903232,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271444,
+        "num": 271444,
+        "word": "檀健次说杨紫是剧组舞蹈担当",
+        "onboard_time": 1702914391,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218275,
+        "num": 235306,
+        "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+        "onboard_time": 1702904557,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234121,
+        "num": 234121,
+        "word": "南京一辅警雪中保畅不幸殉职",
+        "onboard_time": 1702905996,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206251,
+        "num": 206251,
+        "word": "米哈游审美",
+        "onboard_time": 1702901374,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189847,
+        "num": 189847,
+        "word": "任如意殉国",
+        "onboard_time": 1702916216,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189417,
+        "num": 189417,
+        "word": "张译 不好意思又唱歌了",
+        "onboard_time": 1702911277,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176291,
+        "num": 176291,
+        "word": "女子出车祸鲨鱼夹插入后脑勺",
+        "onboard_time": 1702888959,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174381,
+        "num": 174381,
+        "word": "马嘉祺 不肯睡的灵魂",
+        "onboard_time": 1702911759,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171492,
+        "num": 171492,
+        "word": "WBG官宣新赛季大名单",
+        "onboard_time": 1702910560,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166467,
+        "num": 166467,
+        "word": "林一 倒拔垂杨柳",
+        "onboard_time": 1702897891,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162928,
+        "num": 162928,
+        "word": "田曦薇 布偶猫塑",
+        "onboard_time": 1702891055,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156046,
+        "num": 156046,
+        "word": "朱一龙受伤",
+        "onboard_time": 1702891778,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142709,
+        "num": 142709,
+        "word": "萧敬腾对林有慧一见钟情",
+        "onboard_time": 1702911099,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140565,
+        "num": 140565,
+        "word": "人民网评劳荣枝被执行死刑",
+        "onboard_time": 1702896814,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135242,
+        "num": 135242,
+        "word": "我以为装的 直到她开始流鼻血",
+        "onboard_time": 1702884994,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122768,
+        "num": 122768,
+        "word": "迪丽热巴 Dior",
+        "onboard_time": 1702875998,
+        "rank": 43,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 109591,
+        "num": 109591,
+        "word": "Uzi和Faker同队",
+        "onboard_time": 1702895793,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107291,
+        "num": 107291,
+        "word": "沈耀直面爸爸出轨",
+        "onboard_time": 1702908218,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107266,
+        "num": 107266,
+        "word": "吴尊带孩子探班经纪人",
+        "onboard_time": 1702911035,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105374,
+        "num": 105374,
+        "word": "安宥真穿中国校服",
+        "onboard_time": 1702894893,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105114,
+        "num": 105114,
+        "word": "田笑蜜未还朱丹1600万垫款成老赖",
+        "onboard_time": 1702894232,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142697,
+        "num": 105106,
+        "word": "刘诗诗 如意此生五愿",
+        "onboard_time": 1702907737,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定不移全面深化改革开放#"
+    }
+  }
+}
