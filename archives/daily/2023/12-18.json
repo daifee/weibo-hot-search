@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702909053809,
+  "endTime": 1702910150432,
   "band_list": [
     {
       "raw_hot": 8731897,
@@ -267,6 +267,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1221003,
+      "num": 1221003,
+      "word": "李同光发现二胎是妹妹",
+      "onboard_time": 1702907675,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1210188,
       "num": 1210188,
       "word": "吴露可逃",
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 831984,
-      "num": 423757,
-      "word": "李同光发现二胎是妹妹",
-      "onboard_time": 1702907675,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 813787,
       "num": 813787,
       "word": "学而思总裁将女主播升4级加高管序列",
@@ -451,20 +451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 779875,
+      "num": 779875,
+      "word": "南京一辅警雪中保畅不幸殉职",
+      "onboard_time": 1702905996,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 765411,
       "num": 765411,
       "word": "田曦薇 布偶猫塑",
       "onboard_time": 1702891055,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 757140,
-      "num": 757140,
-      "word": "南京一辅警雪中保畅不幸殉职",
-      "onboard_time": 1702905996,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 727644,
@@ -571,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 609667,
+      "num": 609667,
+      "word": "男子不满航班延误亮明网红身份维权",
+      "onboard_time": 1702907258,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 607498,
       "num": 607498,
       "word": "华为nova12 易烊千玺",
@@ -585,6 +593,14 @@
       "onboard_time": 1702903232,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 606192,
+      "num": 474952,
+      "word": "老师忙到辞职只能微信告诉领导",
+      "onboard_time": 1702907797,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605241,
@@ -827,12 +843,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 478476,
-      "num": 478476,
-      "word": "男子不满航班延误亮明网红身份维权",
-      "onboard_time": 1702907258,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 475118,
+      "num": 475118,
+      "word": "刘宇宁 一念关山有你们了不起",
+      "onboard_time": 1702908576,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 469051,
@@ -963,14 +979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 422068,
-      "num": 422068,
-      "word": "老师忙到辞职只能微信告诉领导",
-      "onboard_time": 1702907797,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 414626,
       "num": 214478,
       "word": "杨紫怼脸镜头好美",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1702881814,
       "rank": 15,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 391215,
+      "num": 391215,
+      "word": "小孩哥勇闯娱乐圈",
+      "onboard_time": 1702909239,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 391175,
@@ -1273,6 +1289,22 @@
       "onboard_time": 1702824829,
       "rank": 22,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 324686,
+      "num": 324686,
+      "word": "南京 弹性上下学",
+      "onboard_time": 1702909478,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323241,
+      "num": 323241,
+      "word": "杨盈比何蓝逗重要百倍",
+      "onboard_time": 1702909179,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 322139,
@@ -1555,6 +1587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 265931,
+      "num": 265931,
+      "word": "张若昀演技",
+      "onboard_time": 1702908697,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265148,
       "num": 235189,
       "word": "梁朝伟没磕到 我嗑到了",
@@ -1667,20 +1707,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251175,
-      "num": 251175,
-      "word": "刘宇宁 一念关山有你们了不起",
-      "onboard_time": 1702908576,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250407,
       "num": 250407,
       "word": "东方甄选开盘大涨",
       "onboard_time": 1702865193,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 249481,
+      "num": 249481,
+      "word": "沈耀直面爸爸出轨",
+      "onboard_time": 1702908218,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 247937,
@@ -1803,6 +1843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228864,
+      "num": 278837,
+      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+      "onboard_time": 1702904557,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227104,
       "num": 227104,
       "word": "学习通",
@@ -1857,14 +1905,6 @@
       "onboard_time": 1702876359,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222601,
-      "num": 278837,
-      "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
-      "onboard_time": 1702904557,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220948,
@@ -1937,14 +1977,6 @@
       "onboard_time": 1702861116,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 210285,
-      "num": 210285,
-      "word": "沈耀直面爸爸出轨",
-      "onboard_time": 1702908218,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 209179,
@@ -2099,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194144,
+      "num": 194144,
+      "word": "男子低头接电话撞死老人",
+      "onboard_time": 1702909719,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193221,
       "num": 193221,
       "word": "浙江卫视跨年晚会官宣",
@@ -2131,20 +2171,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190276,
-      "num": 183498,
-      "word": "张若昀演技",
-      "onboard_time": 1702908697,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189569,
       "num": 189569,
       "word": "已故阴阳师玩家",
       "onboard_time": 1702868912,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189481,
+      "num": 189481,
+      "word": "方逸伦告别于十三",
+      "onboard_time": 1702909836,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188577,
+      "num": 188577,
+      "word": "张镇麟半场21分",
+      "onboard_time": 1702909963,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 186810,
@@ -2185,6 +2233,14 @@
       "onboard_time": 1702874144,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184459,
+      "num": 409013,
+      "word": "欢迎大家来元梦偶遇我",
+      "onboard_time": 1702908033,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 183577,
@@ -2275,6 +2331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173559,
+      "num": 173559,
+      "word": "央视妆容大揭秘",
+      "onboard_time": 1702910019,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 172254,
       "num": 172254,
       "word": "小猫咪有自己的取暖办法",
@@ -2304,6 +2368,14 @@
       "word": "陈梦说梦想的篇章未完待续",
       "onboard_time": 1702882714,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171065,
+      "num": 171065,
+      "word": "张镇麟37分",
+      "onboard_time": 1702909836,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -2641,14 +2713,6 @@
       "onboard_time": 1702821828,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102276,
-      "num": 409013,
-      "word": "欢迎大家来元梦偶遇我",
-      "onboard_time": 1702908033,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 98050,
