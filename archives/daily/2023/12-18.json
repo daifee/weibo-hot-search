@@ -1,6 +1,6 @@
 {
   "startTime": 1702830085389,
-  "endTime": 1702876682723,
+  "endTime": 1702877669039,
   "band_list": [
     {
       "raw_hot": 7331483,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2765818,
-      "num": 2765818,
+      "raw_hot": 2807893,
+      "num": 2807893,
       "word": "草莓价格大跳水",
       "onboard_time": 1702872162,
       "rank": 6,
@@ -123,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1256747,
+      "num": 1256747,
+      "word": "迪丽热巴 Dior",
+      "onboard_time": 1702875998,
+      "rank": 7,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 1234522,
       "num": 900522,
       "word": "建行",
@@ -187,12 +195,12 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 984586,
-      "num": 984586,
-      "word": "迪丽热巴 Dior",
-      "onboard_time": 1702875998,
-      "rank": 7,
-      "category": "艺人,美妆"
+      "raw_hot": 912819,
+      "num": 912819,
+      "word": "班主任猥亵女生校方称怕耽误高考不开除",
+      "onboard_time": 1702872219,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 887960,
@@ -203,19 +211,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 881266,
-      "num": 477863,
-      "word": "班主任猥亵女生校方称怕耽误高考不开除",
-      "onboard_time": 1702872219,
-      "rank": 20,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 813787,
       "num": 813787,
       "word": "学而思总裁将女主播升4级加高管序列",
       "onboard_time": 1702873542,
       "rank": 21,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 806947,
+      "num": 806947,
+      "word": "张雪峰疑喊话罗永浩",
+      "onboard_time": 1702875341,
+      "rank": 13,
       "category": "互联网,社会新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 679010,
+      "num": 679010,
+      "word": "脱轨 颠公",
+      "onboard_time": 1702874084,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 673152,
       "num": 532680,
       "word": "吴磊发言切赵露思",
@@ -273,14 +289,6 @@
       "onboard_time": 1702874205,
       "rank": 11,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 669669,
-      "num": 669669,
-      "word": "脱轨 颠公",
-      "onboard_time": 1702874084,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 650503,
@@ -339,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610214,
-      "num": 610214,
-      "word": "张雪峰疑喊话罗永浩",
-      "onboard_time": 1702875341,
-      "rank": 13,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 607498,
       "num": 607498,
       "word": "华为nova12 易烊千玺",
@@ -379,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559014,
+      "num": 559014,
+      "word": "林姐肉夹馍被永久关停",
+      "onboard_time": 1702874565,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556490,
       "num": 556490,
       "word": "罗永浩称高级合伙人是虚的不重要",
@@ -409,14 +417,6 @@
       "onboard_time": 1702825726,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 525616,
-      "num": 525616,
-      "word": "林姐肉夹馍被永久关停",
-      "onboard_time": 1702874565,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 514888,
@@ -691,6 +691,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 312649,
+      "num": 312649,
+      "word": "原神三星堆",
+      "onboard_time": 1702877198,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307043,
       "num": 307043,
       "word": "如何知道血管里有没有斑块",
@@ -737,6 +745,14 @@
       "onboard_time": 1702861414,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280508,
+      "num": 247181,
+      "word": "邱贻可孙颖莎合照",
+      "onboard_time": 1702876236,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 276979,
@@ -827,14 +843,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 247181,
-      "num": 247181,
-      "word": "邱贻可孙颖莎合照",
-      "onboard_time": 1702876236,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 246186,
       "num": 246186,
       "word": "新加坡建议公众室内戴口罩",
@@ -889,6 +897,14 @@
       "onboard_time": 1702825128,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 222707,
+      "num": 222707,
+      "word": "库里三分8中0",
+      "onboard_time": 1702876359,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 220948,
@@ -947,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200759,
+      "num": 200759,
+      "word": "勇士全队拯救大兵库里",
+      "onboard_time": 1702876540,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200690,
       "num": 200690,
       "word": "锡安撩詹娜",
@@ -1003,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186486,
+      "num": 186486,
+      "word": "勇士战胜开拓者",
+      "onboard_time": 1702877434,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185030,
       "num": 185030,
       "word": "IVE签售",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1702827941,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 178189,
-      "num": 178189,
-      "word": "库里三分8中0",
-      "onboard_time": 1702876359,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 176830,
@@ -1059,8 +1083,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164248,
-      "num": 164248,
+      "raw_hot": 164816,
+      "num": 164816,
       "word": "距梁朝伟刘德华首次合作已过去41年",
       "onboard_time": 1702876657,
       "rank": 49,
@@ -1412,7 +1436,7 @@
     },
     {
       "raw_hot": 20866,
-      "num": 588442,
+      "num": 624623,
       "word": "如何拯救面子塌房",
       "onboard_time": 1702875638,
       "rank": 14,
