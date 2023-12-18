@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1702924627527,
+  "endTime": 1702926881617,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -48059,6 +48059,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 63205,
+      "num": 63205,
+      "word": "钝感力",
+      "onboard_time": 1702925535,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63131,
       "num": 63131,
       "word": "团队来40人团建",
@@ -49177,6 +49185,14 @@
       "onboard_time": 1702232775,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34488,
+      "num": 34488,
+      "word": "2024年度期待电竞选手",
+      "onboard_time": 1702925956,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 34297,
