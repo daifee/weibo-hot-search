@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702989205320,
+  "endTime": 1702990130365,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1941566,
+      "num": 1941566,
+      "word": "青海省委书记抱着安慰痛哭的灾民",
+      "onboard_time": 1702985857,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1861779,
       "num": 1861779,
       "word": "地震已致127人遇难",
@@ -200,14 +208,6 @@
       "word": "韩国仁川刺激生育每个婴儿补贴55万",
       "onboard_time": 1702974874,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1623029,
-      "num": 1623029,
-      "word": "青海省委书记抱着安慰痛哭的灾民",
-      "onboard_time": 1702985857,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 893416,
+      "num": 893416,
+      "word": "小米汽车三名员工未经许可参与研讨会被辞退",
+      "onboard_time": 1702988558,
+      "rank": 17,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 879271,
       "num": 467172,
       "word": "郭敬明又拍出我爱看的剧情了",
@@ -523,6 +531,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 762453,
+      "num": 339772,
+      "word": "席琳迪翁病情疑似恶化",
+      "onboard_time": 1702988558,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 748793,
+      "num": 339843,
+      "word": "小杨哥公司向甘肃灾区捐款1200万",
+      "onboard_time": 1702986336,
+      "rank": 18,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 748764,
       "num": 748764,
       "word": "警方通报国家公祭日男子身贴日本国旗",
@@ -571,28 +595,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 681742,
-      "num": 339890,
-      "word": "小米汽车三名员工未经许可参与研讨会被辞退",
-      "onboard_time": 1702988558,
-      "rank": 17,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 674036,
       "num": 540599,
       "word": "董宇辉称小编行为很不妥帖",
       "onboard_time": 1702945184,
       "rank": 20,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 667102,
-      "num": 339843,
-      "word": "小杨哥公司向甘肃灾区捐款1200万",
-      "onboard_time": 1702986336,
-      "rank": 18,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 659019,
@@ -657,14 +665,6 @@
       "onboard_time": 1702946807,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600421,
-      "num": 339772,
-      "word": "席琳迪翁病情疑似恶化",
-      "onboard_time": 1702988558,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 596282,
@@ -819,6 +819,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 496780,
+      "num": 496780,
+      "word": "官方辟谣广州下雪",
+      "onboard_time": 1702988679,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490007,
       "num": 490007,
       "word": "兰州震感",
@@ -848,14 +856,6 @@
       "word": "甘肃积石山连续发生多次地震",
       "onboard_time": 1702920263,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476283,
-      "num": 476283,
-      "word": "官方辟谣广州下雪",
-      "onboard_time": 1702988679,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1387,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286120,
+      "num": 269414,
+      "word": "决战平安京 西湖",
+      "onboard_time": 1702988736,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283174,
       "num": 283174,
       "word": "梅西 最疯狂的一年",
@@ -1400,6 +1408,14 @@
       "word": "巨蟹座非常重视情绪价值",
       "onboard_time": 1702964021,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 280986,
+      "num": 280986,
+      "word": "情绪价值",
+      "onboard_time": 1702989397,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -1449,14 +1465,6 @@
       "onboard_time": 1702948545,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269414,
-      "num": 269414,
-      "word": "决战平安京 西湖",
-      "onboard_time": 1702988736,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 265106,
@@ -1595,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243187,
+      "num": 243187,
+      "word": "韩红团队已经启程前往灾区",
+      "onboard_time": 1702990060,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 242678,
       "num": 242678,
       "word": "油价",
@@ -1723,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231739,
+      "num": 231739,
+      "word": "秦岚捐款50万驰援甘肃",
+      "onboard_time": 1702989878,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 227528,
       "num": 227528,
       "word": "脱轨",
@@ -1761,6 +1785,22 @@
       "onboard_time": 1702977697,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223068,
+      "num": 223068,
+      "word": "任如意 雪景",
+      "onboard_time": 1702989696,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 221949,
+      "num": 221949,
+      "word": "灾区回民较多缺少清真食品",
+      "onboard_time": 1702989517,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221667,
@@ -1851,6 +1891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210120,
+      "num": 210120,
+      "word": "ZAKER",
+      "onboard_time": 1702989817,
+      "rank": 40,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 209166,
       "num": 209166,
       "word": "AG 深圳",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1702959643,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206935,
+      "num": 206935,
+      "word": "林允儿怼脸生图",
+      "onboard_time": 1702988497,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 206928,
@@ -1931,12 +1987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201644,
-      "num": 201644,
-      "word": "林允儿怼脸生图",
-      "onboard_time": 1702988497,
-      "rank": 37,
-      "category": "电影"
+      "raw_hot": 201148,
+      "num": 201148,
+      "word": "冰雪大世界设置排队信息提示",
+      "onboard_time": 1702988979,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200786,
@@ -1961,6 +2017,14 @@
       "onboard_time": 1702988383,
       "rank": 38,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 196038,
+      "num": 196038,
+      "word": "市民1天为震区筹集2000件御寒衣物",
+      "onboard_time": 1702988917,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195745,
@@ -2083,28 +2147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187297,
-      "num": 187297,
-      "word": "市民1天为震区筹集2000件御寒衣物",
-      "onboard_time": 1702988917,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186821,
       "num": 186821,
       "word": "道枝骏佑金发",
       "onboard_time": 1702953463,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 186788,
-      "num": 186788,
-      "word": "冰雪大世界设置排队信息提示",
-      "onboard_time": 1702988979,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186050,
@@ -2169,6 +2217,22 @@
       "onboard_time": 1702984237,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177273,
+      "num": 177273,
+      "word": "甘肃及青海震区全部恢复供电",
+      "onboard_time": 1702990118,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176992,
+      "num": 176992,
+      "word": "冰雪大世界 免费项目",
+      "onboard_time": 1702989995,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176291,
@@ -2577,6 +2641,14 @@
       "onboard_time": 1702875998,
       "rank": 43,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 122185,
+      "num": 1110603,
+      "word": "向地震灾区下达2.5亿元中央预算内投资",
+      "onboard_time": 1702989217,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114914,
