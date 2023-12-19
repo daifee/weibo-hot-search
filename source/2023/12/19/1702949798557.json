@@ -1,0 +1,410 @@
+{
+  "runTime": 1702949798557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12795148,
+        "num": 12795148,
+        "word": "甘肃地震已致111人遇难",
+        "onboard_time": 1702944162,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2554178,
+        "num": 2554178,
+        "word": "山东2名幼儿园女老师出租房内遇害",
+        "onboard_time": 1702945910,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18032,
+        "num": 1975324,
+        "word": "我国首艘大洋钻探船正式命名并试航",
+        "onboard_time": 1702885594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1535699,
+        "num": 1535699,
+        "word": "甘肃地震监控画面",
+        "onboard_time": 1702922421,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1202805,
+        "num": 1202805,
+        "word": "甘肃地震后鸟群盘旋",
+        "onboard_time": 1702942413,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765933,
+        "num": 765933,
+        "word": "月薪3500的人生也在一点点变好",
+        "onboard_time": 1702948781,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 672011,
+        "num": 672011,
+        "word": "甘肃地震",
+        "onboard_time": 1702915732,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665075,
+        "num": 665075,
+        "word": "猝死的人都有的规律",
+        "onboard_time": 1702945788,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 593644,
+        "num": 593644,
+        "word": "两人突然好多年不联系",
+        "onboard_time": 1702942956,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 587081,
+        "num": 587081,
+        "word": "警方通报国家公祭日男子身贴日本国旗",
+        "onboard_time": 1702938437,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1488249,
+        "num": 580996,
+        "word": "内娱嫂子是什么感觉",
+        "onboard_time": 1702947466,
+        "rank": 10,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 1103318,
+        "num": 579030,
+        "word": "常华森 内娱第一个直播讲高数的明星",
+        "onboard_time": 1702943319,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905503,
+        "num": 570397,
+        "word": "一念关山 崩人设",
+        "onboard_time": 1702943739,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597976,
+        "num": 566569,
+        "word": "垫底辣孩回应男子自称他师兄",
+        "onboard_time": 1702945607,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561921,
+        "num": 561921,
+        "word": "女厕增加位置",
+        "onboard_time": 1702948005,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 535984,
+        "num": 535984,
+        "word": "一念关山 全死了",
+        "onboard_time": 1702904134,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532695,
+        "num": 532695,
+        "word": "亲历者哭诉差点没跑出去",
+        "onboard_time": 1702946807,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805174,
+        "num": 529431,
+        "word": "常华森高考610",
+        "onboard_time": 1702947227,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508500,
+        "num": 508500,
+        "word": "甘肃6.2级地震新闻发布会",
+        "onboard_time": 1702948425,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453568,
+        "num": 453568,
+        "word": "地震预警",
+        "onboard_time": 1702945728,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049458,
+        "num": 451876,
+        "word": "喜茶 买一送一",
+        "onboard_time": 1702921040,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 437079,
+        "num": 437079,
+        "word": "当事人回应演唱会求婚被喊退票",
+        "onboard_time": 1702945006,
+        "rank": 21,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 415531,
+        "num": 415531,
+        "word": "今天我被正式确诊为乌龟",
+        "onboard_time": 1702947466,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412012,
+        "num": 412012,
+        "word": "金莎觉得圈内符合审美的帅哥",
+        "onboard_time": 1702945184,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382428,
+        "num": 382428,
+        "word": "老师忙到辞职只能微信告诉领导",
+        "onboard_time": 1702907797,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375564,
+        "num": 375564,
+        "word": "专家说柯南到渣男就是一线之差",
+        "onboard_time": 1702940483,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346119,
+        "num": 346119,
+        "word": "西安震感",
+        "onboard_time": 1702916627,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327480,
+        "num": 327480,
+        "word": "李国庆称董明珠掉价",
+        "onboard_time": 1702947828,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293499,
+        "num": 293499,
+        "word": "猫咪从6楼摔下吐血路人送医救治",
+        "onboard_time": 1702914753,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293466,
+        "num": 293466,
+        "word": "苹果在美停售AppleWatch",
+        "onboard_time": 1702941870,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 607552,
+        "num": 291930,
+        "word": "谢楠看刘亦菲的眼神",
+        "onboard_time": 1702949202,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280944,
+        "num": 280944,
+        "word": "男子低头接电话撞死老人",
+        "onboard_time": 1702909719,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269984,
+        "num": 269984,
+        "word": "张大大 东北的物价真的有这么离谱吗",
+        "onboard_time": 1702948545,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240576,
+        "num": 240576,
+        "word": "刘宇宁演技",
+        "onboard_time": 1702947705,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238186,
+        "num": 238186,
+        "word": "李同光发现二胎是妹妹",
+        "onboard_time": 1702907675,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241985,
+        "num": 237736,
+        "word": "刘亦菲 自由洒脱又强大",
+        "onboard_time": 1702949322,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229955,
+        "num": 229955,
+        "word": "李国庆奉劝董明珠给年轻人留余地",
+        "onboard_time": 1702945968,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 225198,
+        "num": 225198,
+        "word": "小杨哥谈去年缴税2个亿",
+        "onboard_time": 1702902518,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 224764,
+        "num": 224764,
+        "word": "甘肃出租司机收留满月宝宝车内取暖",
+        "onboard_time": 1702949499,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220963,
+        "num": 220963,
+        "word": "国家地震应急响应提升至二级",
+        "onboard_time": 1702941207,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210771,
+        "num": 210771,
+        "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+        "onboard_time": 1702904557,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204490,
+        "num": 204490,
+        "word": "任如意殉国",
+        "onboard_time": 1702916216,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198764,
+        "num": 198764,
+        "word": "奚梦瑶和何猷君的日常报道",
+        "onboard_time": 1702947107,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195831,
+        "num": 195831,
+        "word": "王菲 好美的精神状态",
+        "onboard_time": 1702944881,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194527,
+        "num": 194527,
+        "word": "航拍青海海东彻夜救援画面",
+        "onboard_time": 1702947285,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571092,
+        "num": 192685,
+        "word": "董宇辉称小编行为很不妥帖",
+        "onboard_time": 1702945184,
+        "rank": 45,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 356507,
+        "num": 192391,
+        "word": "罗永浩称东方甄选会继续去董化",
+        "onboard_time": 1702945184,
+        "rank": 46,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 379656,
+        "num": 192066,
+        "word": "董宇辉新账号至少1个月后才登场",
+        "onboard_time": 1702941929,
+        "rank": 47,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 190601,
+        "num": 190601,
+        "word": "甘肃天气",
+        "onboard_time": 1702919546,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185962,
+        "num": 185962,
+        "word": "酒肉情侣",
+        "onboard_time": 1702911277,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃积石山地震作出重要指示#"
+    }
+  }
+}
