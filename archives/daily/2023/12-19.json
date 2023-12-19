@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702949798557,
+  "endTime": 1702953010874,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -31,6 +31,14 @@
       "num": 7668874,
       "word": "西安震感",
       "onboard_time": 1702916627,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4332354,
+      "num": 4332354,
+      "word": "新疆地震",
+      "onboard_time": 1702951238,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -75,11 +83,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1849358,
+      "num": 1849358,
+      "word": "男子未考上编制复合被拒跳楼身亡",
+      "onboard_time": 1702950163,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1769592,
       "num": 1769592,
       "word": "甘肃余震",
       "onboard_time": 1702918117,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1739522,
+      "num": 1739522,
+      "word": "母子吞下54个藏毒避孕套入境澳门被捕",
+      "onboard_time": 1702950876,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -129,6 +153,14 @@
       "onboard_time": 1702943319,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1153751,
+      "num": 1153751,
+      "word": "月薪3500的人生也在一点点变好",
+      "onboard_time": 1702948781,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1121759,
@@ -187,19 +219,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785716,
+      "num": 550438,
+      "word": "谢楠看刘亦菲的眼神",
+      "onboard_time": 1702949202,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 774085,
+      "num": 774085,
+      "word": "甘肃6.2级地震新闻发布会",
+      "onboard_time": 1702948425,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 772446,
       "num": 291480,
       "word": "酒肉情侣",
       "onboard_time": 1702911277,
       "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 765933,
-      "num": 765933,
-      "word": "月薪3500的人生也在一点点变好",
-      "onboard_time": 1702948781,
-      "rank": 5,
       "category": "情感"
     },
     {
@@ -211,20 +251,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693647,
+      "num": 693647,
+      "word": "猝死的人都有的规律",
+      "onboard_time": 1702945788,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 674036,
       "num": 540599,
       "word": "董宇辉称小编行为很不妥帖",
       "onboard_time": 1702945184,
       "rank": 20,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 665075,
-      "num": 665075,
-      "word": "猝死的人都有的规律",
-      "onboard_time": 1702945788,
-      "rank": 8,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 647632,
@@ -257,14 +297,6 @@
       "onboard_time": 1702902518,
       "rank": 11,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 607552,
-      "num": 291930,
-      "word": "谢楠看刘亦菲的眼神",
-      "onboard_time": 1702949202,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 605473,
@@ -329,14 +361,6 @@
       "onboard_time": 1702945006,
       "rank": 21,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 508500,
-      "num": 508500,
-      "word": "甘肃6.2级地震新闻发布会",
-      "onboard_time": 1702948425,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 506764,
@@ -499,12 +523,36 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 339474,
+      "num": 339474,
+      "word": "男子备300床被子连夜赶往积石山",
+      "onboard_time": 1702951902,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326534,
+      "num": 326534,
+      "word": "安陵容 睫毛膏",
+      "onboard_time": 1702949800,
+      "rank": 21,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 326323,
       "num": 326323,
       "word": "吴露可逃",
       "onboard_time": 1702894292,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319582,
+      "num": 319582,
+      "word": "李国庆评孟羽童被开除",
+      "onboard_time": 1702951364,
+      "rank": 22,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 298557,
@@ -571,12 +619,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270090,
+      "num": 270090,
+      "word": "星光大赏 模型话筒假唱",
+      "onboard_time": 1702952143,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269984,
       "num": 269984,
       "word": "张大大 东北的物价真的有这么离谱吗",
       "onboard_time": 1702948545,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261696,
+      "num": 261696,
+      "word": "警方通报女子言语滋扰执勤武警",
+      "onboard_time": 1702951720,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257613,
+      "num": 257613,
+      "word": "雪人军团入侵东三省",
+      "onboard_time": 1702951364,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 254846,
@@ -627,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239498,
+      "num": 239498,
+      "word": "甘肃出租司机收留满月宝宝车内取暖",
+      "onboard_time": 1702949499,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235577,
       "num": 235577,
       "word": "航拍青海海东彻夜救援画面",
@@ -643,19 +723,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224764,
-      "num": 224764,
-      "word": "甘肃出租司机收留满月宝宝车内取暖",
-      "onboard_time": 1702949499,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219518,
       "num": 219518,
       "word": "女生如何延缓衰老",
       "onboard_time": 1702948304,
       "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 219498,
+      "num": 219498,
+      "word": "地震后师生在校园裹被子烤火取暖",
+      "onboard_time": 1702950698,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215566,
+      "num": 215566,
+      "word": "简单5步排空肚里废气",
+      "onboard_time": 1702952143,
+      "rank": 36,
       "category": "健康医疗"
     },
     {
@@ -675,6 +763,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203607,
+      "num": 203607,
+      "word": "漫威开除乔纳森梅杰斯",
+      "onboard_time": 1702950638,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 189752,
+      "num": 189752,
+      "word": "国家卫健委派工作组赴甘肃",
+      "onboard_time": 1702950339,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189417,
       "num": 189417,
       "word": "张译 不好意思又唱歌了",
@@ -688,6 +792,14 @@
       "word": "女子出车祸鲨鱼夹插入后脑勺",
       "onboard_time": 1702888959,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175869,
+      "num": 175869,
+      "word": "甘肃地震最新情况汇总",
+      "onboard_time": 1702951720,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -723,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163164,
+      "num": 163164,
+      "word": "睡觉时遭遇强震如何自救",
+      "onboard_time": 1702951422,
+      "rank": 44,
+      "category": "科学科普,社会新闻"
+    },
+    {
       "raw_hot": 162928,
       "num": 162928,
       "word": "田曦薇 布偶猫塑",
@@ -731,12 +851,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162549,
+      "num": 162549,
+      "word": "甘肃积石山地震最新消息",
+      "onboard_time": 1702952801,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156046,
       "num": 156046,
       "word": "朱一龙受伤",
       "onboard_time": 1702891778,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152776,
+      "num": 152776,
+      "word": "金莎说许嵩是像太阳一样的人",
+      "onboard_time": 1702950638,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150772,
+      "num": 150772,
+      "word": "6个动作改善面部松弛",
+      "onboard_time": 1702950460,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 148079,
+      "num": 148079,
+      "word": "店主震后收留60名市民避难取暖",
+      "onboard_time": 1702949800,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147255,
@@ -993,6 +1145,14 @@
       "onboard_time": 1702937655,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 877,
+      "num": 2450343,
+      "word": "北京点燃数字经济国潮热",
+      "onboard_time": 1702950937,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
