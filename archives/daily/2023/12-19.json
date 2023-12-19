@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702984533462,
+  "endTime": 1702985665287,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2231678,
+      "num": 2231678,
+      "word": "广州下雪",
+      "onboard_time": 1702982434,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2216104,
       "num": 508681,
       "word": "张译拒跳科目三",
@@ -159,14 +167,6 @@
       "num": 1855951,
       "word": "男子未考上编制复合被拒跳楼身亡",
       "onboard_time": 1702950163,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1839868,
-      "num": 1839868,
-      "word": "广州下雪",
-      "onboard_time": 1702982434,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 972505,
+      "num": 747308,
+      "word": "公司要求女员工化淡妆上班激励团队",
+      "onboard_time": 1702981236,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 969808,
       "num": 969808,
       "word": "小孩哥勇闯娱乐圈",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 877296,
-      "num": 323734,
+      "num": 327979,
       "word": "朱一龙 缝针",
       "onboard_time": 1702982800,
       "rank": 13,
@@ -408,6 +416,14 @@
       "word": "甘肃震区目前最缺御寒和女性物资",
       "onboard_time": 1702974937,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 839761,
+      "num": 3425178,
+      "word": "鸿星尔克直播间回应捐款",
+      "onboard_time": 1702983397,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -483,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 747308,
-      "num": 747308,
-      "word": "公司要求女员工化淡妆上班激励团队",
-      "onboard_time": 1702981236,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 706656,
       "num": 377014,
       "word": "自称211废物女孩爆火后存款翻十倍",
@@ -537,6 +545,14 @@
       "onboard_time": 1702971696,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 650735,
+      "num": 321799,
+      "word": "金莎差点演肖战妈妈",
+      "onboard_time": 1702984719,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 647632,
@@ -617,14 +633,6 @@
       "onboard_time": 1702959406,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 565070,
-      "num": 3425178,
-      "word": "鸿星尔克直播间回应捐款",
-      "onboard_time": 1702983397,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 563756,
@@ -721,6 +729,14 @@
       "onboard_time": 1702964021,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509079,
+      "num": 341770,
+      "word": "湖南卫视跨年晚会官宣",
+      "onboard_time": 1702980636,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 506764,
@@ -859,12 +875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430579,
-      "num": 341770,
-      "word": "湖南卫视跨年晚会官宣",
-      "onboard_time": 1702980636,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 424192,
+      "num": 1127604,
+      "word": "带病医生致歉称无法再加号患儿家属感动落泪",
+      "onboard_time": 1702982259,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419413,
@@ -987,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380621,
+      "num": 315078,
+      "word": "男子备1000斤肉到震区现场为灾民煮面",
+      "onboard_time": 1702982196,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376185,
       "num": 376185,
       "word": "于十三没坟头",
@@ -1059,20 +1083,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 341077,
-      "num": 312399,
-      "word": "男子备1000斤肉到震区现场为灾民煮面",
-      "onboard_time": 1702982196,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340342,
       "num": 340342,
       "word": "董宇辉透露下一步工作计划",
       "onboard_time": 1702979136,
       "rank": 24,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 340140,
+      "num": 311728,
+      "word": "JackeyLove Meiko督战",
+      "onboard_time": 1702983939,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 339474,
@@ -1139,6 +1163,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 309944,
+      "num": 309944,
+      "word": "陈都灵程潇 青蛇白蛇",
+      "onboard_time": 1702985318,
+      "rank": 26,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 307764,
       "num": 307764,
       "word": "周一围朱丹 纯情小习惯",
@@ -1195,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297548,
+      "num": 457843,
+      "word": "七度空间正在为甘肃紧急调货",
+      "onboard_time": 1702984418,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295588,
       "num": 295588,
       "word": "刘宇宁演技",
@@ -1235,12 +1275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293705,
-      "num": 244148,
-      "word": "JackeyLove Meiko督战",
-      "onboard_time": 1702983939,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 291773,
+      "num": 291773,
+      "word": "王源捐款驰援甘肃",
+      "onboard_time": 1702984537,
+      "rank": 28,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 291525,
@@ -1281,6 +1321,14 @@
       "onboard_time": 1702964021,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280403,
+      "num": 280403,
+      "word": "刘浩存 光腿神器",
+      "onboard_time": 1702985498,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 276863,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1702979740,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 248345,
-      "num": 327618,
-      "word": "带病医生致歉称无法再加号患儿家属感动落泪",
-      "onboard_time": 1702982259,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244351,
@@ -1579,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227528,
+      "num": 227528,
+      "word": "脱轨",
+      "onboard_time": 1702936273,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227433,
       "num": 227433,
       "word": "甘肃积石山接受资金和物资捐赠",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1702957298,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212310,
+      "num": 212310,
+      "word": "Uzi称考虑转行当教练",
+      "onboard_time": 1702985380,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 211010,
@@ -1963,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178751,
+      "num": 178751,
+      "word": "林孝埈企鹅步",
+      "onboard_time": 1702984237,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176291,
       "num": 176291,
       "word": "女子出车祸鲨鱼夹插入后脑勺",
@@ -2056,22 +2120,6 @@
       "word": "林一 倒拔垂杨柳",
       "onboard_time": 1702897891,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 165865,
-      "num": 165865,
-      "word": "七度空间正在为甘肃紧急调货",
-      "onboard_time": 1702984418,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165858,
-      "num": 165858,
-      "word": "脱轨",
-      "onboard_time": 1702936273,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -2169,14 +2217,6 @@
       "onboard_time": 1702975297,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156406,
-      "num": 156406,
-      "word": "林孝埈企鹅步",
-      "onboard_time": 1702984237,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 156046,
@@ -2457,6 +2497,14 @@
       "onboard_time": 1702942353,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84425,
+      "num": 326982,
+      "word": "霸王茶姬捐款500万支援甘肃",
+      "onboard_time": 1702984659,
+      "rank": 14,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 84199,
