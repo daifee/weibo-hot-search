@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702955971093,
+  "endTime": 1702956874916,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -67,19 +67,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2542725,
+      "num": 2542725,
+      "word": "母子吞下54个藏毒避孕套入境澳门被捕",
+      "onboard_time": 1702950876,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2371658,
       "num": 2371658,
       "word": "甘肃地震监控画面",
       "onboard_time": 1702922421,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2343960,
-      "num": 1764784,
-      "word": "母子吞下54个藏毒避孕套入境澳门被捕",
-      "onboard_time": 1702950876,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1076272,
+      "num": 550438,
+      "word": "谢楠看刘亦菲的眼神",
+      "onboard_time": 1702949202,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1069528,
       "num": 634828,
       "word": "一念关山 崩人设",
@@ -203,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 915416,
-      "num": 550438,
-      "word": "谢楠看刘亦菲的眼神",
-      "onboard_time": 1702949202,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 828489,
       "num": 828489,
       "word": "两人突然好多年不联系",
@@ -223,6 +223,14 @@
       "num": 795789,
       "word": "甘肃580名消防员集结赶赴震中",
       "onboard_time": 1702919605,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 781179,
+      "num": 781179,
+      "word": "学校回应地震时宿舍门不开",
+      "onboard_time": 1702955139,
       "rank": 17,
       "category": "社会新闻"
     },
@@ -363,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 524643,
+      "num": 414429,
+      "word": "陈建州告大牙案败诉",
+      "onboard_time": 1702956821,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514218,
       "num": 514218,
       "word": "当事人回应演唱会求婚被喊退票",
@@ -483,12 +499,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 403782,
+      "num": 403782,
+      "word": "航拍甘肃地震震中画面",
+      "onboard_time": 1702954060,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402494,
       "num": 402494,
       "word": "董宇辉新账号至少1个月后才登场",
       "onboard_time": 1702941929,
       "rank": 26,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 396787,
+      "num": 396787,
+      "word": "女生正过18岁生日下1秒地震发生",
+      "onboard_time": 1702955381,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376185,
@@ -507,28 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367303,
-      "num": 367303,
-      "word": "航拍甘肃地震震中画面",
-      "onboard_time": 1702954060,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 363515,
       "num": 363515,
       "word": "杨紫 立体玫瑰黑纱长裙",
       "onboard_time": 1702953223,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 347566,
-      "num": 347566,
-      "word": "学校回应地震时宿舍门不开",
-      "onboard_time": 1702955139,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345944,
@@ -771,6 +787,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233043,
+      "num": 233043,
+      "word": "辛芷蕾 你那满眼的爱意",
+      "onboard_time": 1702955498,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225902,
+      "num": 225902,
+      "word": "俞敏洪称将为董宇辉成立独立工作室",
+      "onboard_time": 1702956164,
+      "rank": 25,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 219518,
       "num": 219518,
       "word": "女生如何延缓衰老",
@@ -784,14 +816,6 @@
       "word": "地震后师生在校园裹被子烤火取暖",
       "onboard_time": 1702950698,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216834,
-      "num": 216834,
-      "word": "女生正过18岁生日下1秒地震发生",
-      "onboard_time": 1702955381,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -827,12 +851,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204690,
-      "num": 204690,
-      "word": "辛芷蕾 你那满眼的爱意",
-      "onboard_time": 1702955498,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 204182,
+      "num": 204182,
+      "word": "部队官兵1000余人赶赴灾区",
+      "onboard_time": 1702956099,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203607,
@@ -931,12 +955,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170515,
+      "num": 170515,
+      "word": "我不要新妈就要你这个妈",
+      "onboard_time": 1702956580,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168095,
       "num": 168095,
       "word": "快船vs步行者",
       "onboard_time": 1702953463,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167515,
+      "num": 167515,
+      "word": "刘宇宁 换脸",
+      "onboard_time": 1702956762,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 166467,
@@ -953,6 +993,14 @@
       "onboard_time": 1702954419,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 163367,
+      "num": 163367,
+      "word": "部落冲突",
+      "onboard_time": 1702956460,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 163164,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1702942052,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143056,
+      "num": 143056,
+      "word": "当主人假装不认识狗狗时",
+      "onboard_time": 1702956401,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 142709,
