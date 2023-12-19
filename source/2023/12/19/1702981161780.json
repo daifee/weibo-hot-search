@@ -1,0 +1,410 @@
+{
+  "runTime": 1702981161780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6773519,
+        "num": 8023519,
+        "word": "甘肃地震已致126人遇难",
+        "onboard_time": 1702978718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923656,
+        "num": 923656,
+        "word": "确保震区考生顺利参加考研",
+        "onboard_time": 1702976858,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36274,
+        "num": 759360,
+        "word": "儿童呼吸道感染居家照护指南",
+        "onboard_time": 1702957660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711597,
+        "num": 711597,
+        "word": "用户称地震时7部苹果手机均无预警",
+        "onboard_time": 1702968761,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316525,
+        "num": 633434,
+        "word": "地震时女子带孩子逃生偶遇消防员丈夫出警",
+        "onboard_time": 1702962043,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611754,
+        "num": 611754,
+        "word": "鸿星尔克又捐了2000万",
+        "onboard_time": 1702964256,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252183,
+        "num": 541775,
+        "word": "甘肃地震受灾群众吃上热牛肉面",
+        "onboard_time": 1702976197,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473438,
+        "num": 473438,
+        "word": "甘肃震区目前最缺御寒和女性物资",
+        "onboard_time": 1702974937,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430650,
+        "num": 430650,
+        "word": "波司登首批捐赠2000万元物资",
+        "onboard_time": 1702977276,
+        "rank": 8,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 206265,
+        "num": 430200,
+        "word": "甘肃一酥饼店连夜做5000个饼支援灾区",
+        "onboard_time": 1702969659,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1610964,
+        "num": 423924,
+        "word": "韩国仁川刺激生育每个婴儿补贴55万",
+        "onboard_time": 1702974874,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1405681,
+        "num": 423048,
+        "word": "哈尔滨冰雪大世界致歉",
+        "onboard_time": 1702974576,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987743,
+        "num": 418327,
+        "word": "藏海传 开机",
+        "onboard_time": 1702980277,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 932475,
+        "num": 414438,
+        "word": "焦恩俊夸了于十三",
+        "onboard_time": 1702977400,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 829563,
+        "num": 411264,
+        "word": "郭敬明又拍出我爱看的剧情了",
+        "onboard_time": 1702974033,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 743433,
+        "num": 408694,
+        "word": "张译拒跳科目三",
+        "onboard_time": 1702968517,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 726498,
+        "num": 403200,
+        "word": "一闪一闪亮星星 退票率",
+        "onboard_time": 1702969359,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 487140,
+        "num": 401377,
+        "word": "杨紫 造型师",
+        "onboard_time": 1702973917,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399539,
+        "num": 399539,
+        "word": "地震引发青海一村7户19人被埋",
+        "onboard_time": 1702979616,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333779,
+        "num": 333779,
+        "word": "新疆地震",
+        "onboard_time": 1702951238,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490565,
+        "num": 333218,
+        "word": "自称211废物女孩爆火后存款翻十倍",
+        "onboard_time": 1702974157,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335131,
+        "num": 332826,
+        "word": "原来12306上能买到低价机票",
+        "onboard_time": 1702976497,
+        "rank": 21,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 330254,
+        "num": 330254,
+        "word": "刘宇宁 换脸",
+        "onboard_time": 1702956762,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328696,
+        "num": 328696,
+        "word": "江平去世",
+        "onboard_time": 1702964197,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320842,
+        "num": 320842,
+        "word": "董宇辉透露下一步工作计划",
+        "onboard_time": 1702979136,
+        "rank": 24,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 291042,
+        "num": 291042,
+        "word": "台湾艺人刘乐妍自曝被欠薪",
+        "onboard_time": 1702978180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287347,
+        "num": 287347,
+        "word": "董明珠称十几年员工跳槽公司应获赔",
+        "onboard_time": 1702973979,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 278112,
+        "num": 278112,
+        "word": "多位艺人明星向甘肃地震灾区进行捐赠",
+        "onboard_time": 1702961743,
+        "rank": 27,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 272480,
+        "num": 272480,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1702980636,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248893,
+        "num": 248893,
+        "word": "浙江大学地震受灾学生可领困难补助",
+        "onboard_time": 1702979740,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 242678,
+        "num": 242678,
+        "word": "油价",
+        "onboard_time": 1702980395,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 238558,
+        "num": 238558,
+        "word": "王菲唱KTV",
+        "onboard_time": 1702978896,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232125,
+        "num": 232125,
+        "word": "朴叙俊韩素希新剧发布会",
+        "onboard_time": 1702980758,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213272,
+        "num": 213272,
+        "word": "00后女大学生兼职打工月入过万元",
+        "onboard_time": 1702976982,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204592,
+        "num": 204592,
+        "word": "李国庆称孟羽童做第二职业创收很正常",
+        "onboard_time": 1702973917,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 199088,
+        "num": 199088,
+        "word": "他说了什么 蝴蝶",
+        "onboard_time": 1702972475,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198884,
+        "num": 198884,
+        "word": "安卓手机在这一刻达到了巅峰",
+        "onboard_time": 1702977818,
+        "rank": 36,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 191777,
+        "num": 191777,
+        "word": "朱一龙曾多次受伤",
+        "onboard_time": 1702980335,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168915,
+        "num": 168915,
+        "word": "林心如 霍建华没胖过",
+        "onboard_time": 1702973433,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160051,
+        "num": 160051,
+        "word": "凌晨庆生女孩回应幸获逃生时间",
+        "onboard_time": 1702979259,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157075,
+        "num": 157075,
+        "word": "捐款",
+        "onboard_time": 1702965517,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154640,
+        "num": 154640,
+        "word": "董明珠称年轻人不该以自我为中心",
+        "onboard_time": 1702964737,
+        "rank": 41,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 150143,
+        "num": 150143,
+        "word": "TF三代对标的海外男团",
+        "onboard_time": 1702976858,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150079,
+        "num": 150079,
+        "word": "订阅JYP泡泡的爱豆",
+        "onboard_time": 1702977697,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148740,
+        "num": 148740,
+        "word": "国内油价或现年内最大跌幅",
+        "onboard_time": 1702977635,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147345,
+        "num": 147345,
+        "word": "4种食物是尿毒症帮凶",
+        "onboard_time": 1702965699,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135587,
+        "num": 135587,
+        "word": "王子璇校园女主",
+        "onboard_time": 1702978960,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133819,
+        "num": 133819,
+        "word": "美妆圈2023年度梳理",
+        "onboard_time": 1702978718,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 124825,
+        "num": 124825,
+        "word": "猫咪和马 嗑到了",
+        "onboard_time": 1702978358,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124758,
+        "num": 124758,
+        "word": "母子吞下54个藏毒避孕套入境澳门被捕",
+        "onboard_time": 1702950876,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃6.2级地震作出重要指示#"
+    }
+  }
+}
