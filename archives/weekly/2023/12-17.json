@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703013155948,
+  "endTime": 1703014447503,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -8977,6 +8977,14 @@
       "onboard_time": 1702937655,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16153,
+      "num": 22475,
+      "word": "光遇",
+      "onboard_time": 1703013616,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 15740,
