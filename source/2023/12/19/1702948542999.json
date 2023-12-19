@@ -1,0 +1,410 @@
+{
+  "runTime": 1702948542999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15498038,
+        "num": 15498038,
+        "word": "甘肃地震已致111人遇难",
+        "onboard_time": 1702944162,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2371658,
+        "num": 2371658,
+        "word": "甘肃地震监控画面",
+        "onboard_time": 1702922421,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17548,
+        "num": 2249040,
+        "word": "我国首艘大洋钻探船正式命名并试航",
+        "onboard_time": 1702885594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2245328,
+        "num": 2245328,
+        "word": "山东2名幼儿园女老师出租房内遇害",
+        "onboard_time": 1702945910,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1563579,
+        "num": 1563579,
+        "word": "甘肃地震后鸟群盘旋",
+        "onboard_time": 1702942413,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828489,
+        "num": 828489,
+        "word": "两人突然好多年不联系",
+        "onboard_time": 1702942956,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 798421,
+        "num": 798421,
+        "word": "甘肃地震",
+        "onboard_time": 1702915732,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748764,
+        "num": 748764,
+        "word": "警方通报国家公祭日男子身贴日本国旗",
+        "onboard_time": 1702938437,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659670,
+        "num": 659670,
+        "word": "猝死的人都有的规律",
+        "onboard_time": 1702945788,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 642680,
+        "num": 642680,
+        "word": "地震预警",
+        "onboard_time": 1702945728,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1358696,
+        "num": 641975,
+        "word": "常华森 内娱第一个直播讲高数的明星",
+        "onboard_time": 1702943319,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1121759,
+        "num": 639007,
+        "word": "喜茶 买一送一",
+        "onboard_time": 1702921040,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1069528,
+        "num": 634828,
+        "word": "一念关山 崩人设",
+        "onboard_time": 1702943739,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1053202,
+        "num": 630833,
+        "word": "内娱嫂子是什么感觉",
+        "onboard_time": 1702947466,
+        "rank": 13,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 647632,
+        "num": 629316,
+        "word": "垫底辣孩回应男子自称他师兄",
+        "onboard_time": 1702945607,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085408,
+        "num": 627198,
+        "word": "常华森高考610",
+        "onboard_time": 1702947227,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624389,
+        "num": 624389,
+        "word": "西安震感",
+        "onboard_time": 1702916627,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615305,
+        "num": 615305,
+        "word": "一念关山 全死了",
+        "onboard_time": 1702904134,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605473,
+        "num": 605473,
+        "word": "亲历者哭诉差点没跑出去",
+        "onboard_time": 1702946807,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553705,
+        "num": 553705,
+        "word": "老师忙到辞职只能微信告诉领导",
+        "onboard_time": 1702907797,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 674036,
+        "num": 540599,
+        "word": "董宇辉称小编行为很不妥帖",
+        "onboard_time": 1702945184,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 514218,
+        "num": 514218,
+        "word": "当事人回应演唱会求婚被喊退票",
+        "onboard_time": 1702945006,
+        "rank": 21,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 436607,
+        "num": 436607,
+        "word": "国家地震应急响应提升至二级",
+        "onboard_time": 1702941207,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417094,
+        "num": 417094,
+        "word": "罗永浩称东方甄选会继续去董化",
+        "onboard_time": 1702945184,
+        "rank": 23,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 408593,
+        "num": 408593,
+        "word": "苹果在美停售AppleWatch",
+        "onboard_time": 1702941870,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 407938,
+        "num": 407938,
+        "word": "专家说柯南到渣男就是一线之差",
+        "onboard_time": 1702940483,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402494,
+        "num": 402494,
+        "word": "董宇辉新账号至少1个月后才登场",
+        "onboard_time": 1702941929,
+        "rank": 26,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 395205,
+        "num": 395205,
+        "word": "金莎觉得圈内符合审美的帅哥",
+        "onboard_time": 1702945184,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383190,
+        "num": 383190,
+        "word": "女厕增加位置",
+        "onboard_time": 1702948005,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369200,
+        "num": 369200,
+        "word": "李国庆称董明珠掉价",
+        "onboard_time": 1702947828,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361463,
+        "num": 361463,
+        "word": "今天我被正式确诊为乌龟",
+        "onboard_time": 1702947466,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342627,
+        "num": 342627,
+        "word": "男子低头接电话撞死老人",
+        "onboard_time": 1702909719,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341449,
+        "num": 341449,
+        "word": "李国庆奉劝董明珠给年轻人留余地",
+        "onboard_time": 1702945968,
+        "rank": 32,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 330571,
+        "num": 330571,
+        "word": "李同光发现二胎是妹妹",
+        "onboard_time": 1702907675,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325636,
+        "num": 325636,
+        "word": "猫咪从6楼摔下吐血路人送医救治",
+        "onboard_time": 1702914753,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307716,
+        "num": 307716,
+        "word": "任如意殉国",
+        "onboard_time": 1702916216,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295588,
+        "num": 295588,
+        "word": "刘宇宁演技",
+        "onboard_time": 1702947705,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283616,
+        "num": 283616,
+        "word": "小杨哥谈去年缴税2个亿",
+        "onboard_time": 1702902518,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 274607,
+        "num": 274607,
+        "word": "刘诗诗去年跨年夜骑着马拍了一小时",
+        "onboard_time": 1702943620,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254846,
+        "num": 254846,
+        "word": "小学生捡到大学生手机被狂塞瓶奶感谢",
+        "onboard_time": 1702904557,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253818,
+        "num": 253818,
+        "word": "奚梦瑶和何猷君的日常报道",
+        "onboard_time": 1702947107,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244227,
+        "num": 244227,
+        "word": "王菲 好美的精神状态",
+        "onboard_time": 1702944881,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243306,
+        "num": 243306,
+        "word": "甘肃地震亲历者讲述逃生细节",
+        "onboard_time": 1702942172,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235734,
+        "num": 235734,
+        "word": "甘肃天气",
+        "onboard_time": 1702919546,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235577,
+        "num": 235577,
+        "word": "航拍青海海东彻夜救援画面",
+        "onboard_time": 1702947285,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219882,
+        "num": 219882,
+        "word": "甘肃6.2级地震新闻发布会",
+        "onboard_time": 1702948425,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219518,
+        "num": 219518,
+        "word": "女生如何延缓衰老",
+        "onboard_time": 1702948304,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218493,
+        "num": 218493,
+        "word": "酒肉情侣",
+        "onboard_time": 1702911277,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211010,
+        "num": 211010,
+        "word": "原神",
+        "onboard_time": 1702946688,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204811,
+        "num": 204811,
+        "word": "男子不满航班延误亮明网红身份维权",
+        "onboard_time": 1702907258,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃积石山地震作出重要指示#"
+    }
+  }
+}

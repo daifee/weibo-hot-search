@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/12/19 07:34:24
+本榜单时间：2023/01/01 00:23:37 ~ 2023/12/19 09:15:42
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@ TFBOYS十年之约演唱会（热度：18626284）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89%23" target="weibo">
 邱耀乐不接受炎亚纶道歉（热度：15562142）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4111%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+甘肃地震已致111人遇难（热度：15498038）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TFBOYS演唱会官宣（热度：9361784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%82%B8%E6%AF%9B%23" target="weibo">
 王楚钦炸毛（热度：7350420）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%20%E6%88%91%E4%B8%88%E5%A4%AB%E6%98%AF%E4%B8%AA%E6%AD%A3%E7%9B%B4%E7%9A%84%E4%BA%BA%23" target="weibo">
-范玮琪 我丈夫是个正直的人（热度：7349947）
 </a>
 </li>
 
