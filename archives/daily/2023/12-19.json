@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702985665287,
+  "endTime": 1702989205320,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1861779,
+      "num": 1861779,
+      "word": "地震已致127人遇难",
+      "onboard_time": 1702985915,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1855951,
       "num": 1855951,
       "word": "男子未考上编制复合被拒跳楼身亡",
@@ -192,6 +200,14 @@
       "word": "韩国仁川刺激生育每个婴儿补贴55万",
       "onboard_time": 1702974874,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1623029,
+      "num": 1623029,
+      "word": "青海省委书记抱着安慰痛哭的灾民",
+      "onboard_time": 1702985857,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -291,6 +307,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1163149,
+      "num": 340127,
+      "word": "陈都灵程潇 青蛇白蛇",
+      "onboard_time": 1702985318,
+      "rank": 26,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 1153751,
       "num": 1153751,
       "word": "月薪3500的人生也在一点点变好",
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 978980,
+      "num": 340094,
+      "word": "刘浩存 光腿神器",
+      "onboard_time": 1702985498,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 972505,
       "num": 747308,
       "word": "公司要求女员工化淡妆上班激励团队",
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 877296,
-      "num": 327979,
+      "num": 339613,
       "word": "朱一龙 缝针",
       "onboard_time": 1702982800,
       "rank": 13,
@@ -507,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701089,
+      "num": 339937,
+      "word": "杨紫琼婚宴",
+      "onboard_time": 1702986276,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693647,
       "num": 693647,
       "word": "猝死的人都有的规律",
@@ -531,12 +571,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 681742,
+      "num": 339890,
+      "word": "小米汽车三名员工未经许可参与研讨会被辞退",
+      "onboard_time": 1702988558,
+      "rank": 17,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 674036,
       "num": 540599,
       "word": "董宇辉称小编行为很不妥帖",
       "onboard_time": 1702945184,
       "rank": 20,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 667102,
+      "num": 339843,
+      "word": "小杨哥公司向甘肃灾区捐款1200万",
+      "onboard_time": 1702986336,
+      "rank": 18,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 659019,
@@ -548,7 +604,7 @@
     },
     {
       "raw_hot": 650735,
-      "num": 321799,
+      "num": 339807,
       "word": "金莎差点演肖战妈妈",
       "onboard_time": 1702984719,
       "rank": 17,
@@ -601,6 +657,14 @@
       "onboard_time": 1702946807,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600421,
+      "num": 339772,
+      "word": "席琳迪翁病情疑似恶化",
+      "onboard_time": 1702988558,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 596282,
@@ -784,6 +848,14 @@
       "word": "甘肃积石山连续发生多次地震",
       "onboard_time": 1702920263,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476283,
+      "num": 476283,
+      "word": "官方辟谣广州下雪",
+      "onboard_time": 1702988679,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1091,6 +1163,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 340219,
+      "num": 457843,
+      "word": "七度空间正在为甘肃紧急调货",
+      "onboard_time": 1702984418,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340140,
       "num": 311728,
       "word": "JackeyLove Meiko督战",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1702965399,
       "rank": 24,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 336996,
+      "num": 336996,
+      "word": "TF三代 脱轨跳河戏",
+      "onboard_time": 1702986696,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 326534,
@@ -1163,12 +1251,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 309944,
-      "num": 309944,
-      "word": "陈都灵程潇 青蛇白蛇",
-      "onboard_time": 1702985318,
-      "rank": 26,
-      "category": "剧集,美妆"
+      "raw_hot": 309305,
+      "num": 309305,
+      "word": "难为白宇倪妮俩近视眼了",
+      "onboard_time": 1702987180,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 307764,
@@ -1225,14 +1313,6 @@
       "onboard_time": 1702908576,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297548,
-      "num": 457843,
-      "word": "七度空间正在为甘肃紧急调货",
-      "onboard_time": 1702984418,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295588,
@@ -1323,14 +1403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 280403,
-      "num": 280403,
-      "word": "刘浩存 光腿神器",
-      "onboard_time": 1702985498,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276863,
       "num": 276863,
       "word": "地震致积石山县部分平房倒塌",
@@ -1379,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269414,
+      "num": 269414,
+      "word": "决战平安京 西湖",
+      "onboard_time": 1702988736,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265106,
       "num": 265106,
       "word": "祈福甘肃愿平安",
@@ -1395,12 +1475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261035,
+      "num": 339707,
+      "word": "Uzi重提S8失利",
+      "onboard_time": 1702986102,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 259676,
       "num": 259676,
       "word": "哈登35分",
       "onboard_time": 1702954960,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258747,
+      "num": 258747,
+      "word": "檀健次和尼克合照",
+      "onboard_time": 1702986876,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257613,
@@ -1433,6 +1529,14 @@
       "onboard_time": 1702947107,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253462,
+      "num": 253462,
+      "word": "鸿星尔克吴荣照说从国民中来到国民中去",
+      "onboard_time": 1702985798,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248893,
@@ -1827,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201644,
+      "num": 201644,
+      "word": "林允儿怼脸生图",
+      "onboard_time": 1702988497,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200786,
       "num": 200786,
       "word": "怎样设置手机地震预警",
@@ -1843,12 +1955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198225,
+      "num": 198225,
+      "word": "关于小米汽车相关恶意泄密及谣言的声明",
+      "onboard_time": 1702988383,
+      "rank": 38,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 195745,
       "num": 195745,
       "word": "国内油价或现年内最大跌幅",
       "onboard_time": 1702977635,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195312,
+      "num": 195312,
+      "word": "好运2024",
+      "onboard_time": 1702988437,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 194163,
@@ -1955,12 +2083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187297,
+      "num": 187297,
+      "word": "市民1天为震区筹集2000件御寒衣物",
+      "onboard_time": 1702988917,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186821,
       "num": 186821,
       "word": "道枝骏佑金发",
       "onboard_time": 1702953463,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 186788,
+      "num": 186788,
+      "word": "冰雪大世界设置排队信息提示",
+      "onboard_time": 1702988979,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186050,
@@ -2436,11 +2580,19 @@
     },
     {
       "raw_hot": 114914,
-      "num": 114914,
+      "num": 697258,
       "word": "甘肃加油青海加油",
       "onboard_time": 1702971214,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113890,
+      "num": 159116,
+      "word": "普通人的化妆思路",
+      "onboard_time": 1702988855,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 109591,
