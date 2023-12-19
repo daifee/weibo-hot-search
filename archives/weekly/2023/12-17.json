@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703027692308,
+  "endTime": 1703028831825,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -2163,6 +2163,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 610151,
+      "num": 339687,
+      "word": "很久没回国的人回国后",
+      "onboard_time": 1702991258,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 607498,
       "num": 607498,
       "word": "华为nova12 易烊千玺",
@@ -2739,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508343,
+      "num": 175033,
+      "word": "张小斐回应当选北京视协副主席",
+      "onboard_time": 1703006361,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507931,
       "num": 374844,
       "word": "景甜希腊女神妆",
@@ -2777,14 +2793,6 @@
       "onboard_time": 1702988679,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495476,
-      "num": 339687,
-      "word": "很久没回国的人回国后",
-      "onboard_time": 1702991258,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 494677,
@@ -3011,14 +3019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 464825,
-      "num": 140516,
-      "word": "张小斐回应当选北京视协副主席",
-      "onboard_time": 1703006361,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 464389,
       "num": 464389,
       "word": "男班主任酒后查寝猥亵女学生被行拘",
@@ -3121,6 +3121,14 @@
       "onboard_time": 1702816242,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450937,
+      "num": 450937,
+      "word": "这些伪粗粮会让血糖飙升",
+      "onboard_time": 1703017934,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 447258,
@@ -4987,14 +4995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264924,
-      "num": 264924,
-      "word": "这些伪粗粮会让血糖飙升",
-      "onboard_time": 1703017934,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 264632,
       "num": 264632,
       "word": "鸣龙少年 病耻感",
@@ -5096,6 +5096,14 @@
       "word": "劳荣枝辩护律师吴丹红称已尽力",
       "onboard_time": 1702883493,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260059,
+      "num": 260059,
+      "word": "甘肃震区群众用上了解放军的野战帐篷",
+      "onboard_time": 1703000857,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -5699,6 +5707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228032,
+      "num": 228032,
+      "word": "冰雪大世界游客高喊退票",
+      "onboard_time": 1703010136,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227528,
       "num": 227528,
       "word": "脱轨",
@@ -5964,7 +5980,7 @@
     },
     {
       "raw_hot": 215417,
-      "num": 111951,
+      "num": 144387,
       "word": "奚梦瑶是朱丹周一围的cp粉",
       "onboard_time": 1703004864,
       "rank": 30,
@@ -6201,6 +6217,14 @@
       "onboard_time": 1702975779,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206684,
+      "num": 206684,
+      "word": "澳门回归24周年",
+      "onboard_time": 1703027784,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 206440,
@@ -6891,11 +6915,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184967,
-      "num": 185019,
-      "word": "甘肃震区群众用上了解放军的野战帐篷",
-      "onboard_time": 1703000857,
-      "rank": 8,
+      "raw_hot": 185002,
+      "num": 141986,
+      "word": "甘肃积石山6.2级地震现场实拍",
+      "onboard_time": 1703020754,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -7587,14 +7611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159997,
-      "num": 159997,
-      "word": "冰雪大世界游客高喊退票",
-      "onboard_time": 1703010136,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159713,
       "num": 427154,
       "word": "肝脏不好推荐按一个穴位",
@@ -7609,14 +7625,6 @@
       "onboard_time": 1702856550,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 159114,
-      "num": 104018,
-      "word": "甘肃积石山6.2级地震现场实拍",
-      "onboard_time": 1703020754,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159005,
@@ -7851,6 +7859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149254,
+      "num": 135723,
+      "word": "金莎最向往的夫妻是朱丹周一围",
+      "onboard_time": 1703025739,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148622,
       "num": 148622,
       "word": "盘点2023",
@@ -7977,6 +7993,14 @@
       "onboard_time": 1702962043,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 140448,
+      "num": 140448,
+      "word": "系留无人机为震区安置点提供照明",
+      "onboard_time": 1703027964,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139899,
@@ -8195,14 +8219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124839,
-      "num": 83537,
-      "word": "金莎最向往的夫妻是朱丹周一围",
-      "onboard_time": 1703025739,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123917,
       "num": 269115,
       "word": "孙颖莎帽子戏法",
@@ -8355,6 +8371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110822,
+      "num": 110822,
+      "word": "朴灿烈初雪cha",
+      "onboard_time": 1703028024,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 110207,
       "num": 125186,
       "word": "山东舰正式入列4周年",
@@ -8377,6 +8401,14 @@
       "onboard_time": 1702879233,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105933,
+      "num": 105933,
+      "word": "这是穿光脸神器了吗",
+      "onboard_time": 1703027361,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 104384,
@@ -8473,6 +8505,14 @@
       "onboard_time": 1702942353,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87583,
+      "num": 87583,
+      "word": "度小满捐款2000万支援甘肃震区",
+      "onboard_time": 1703007080,
+      "rank": 49,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 87371,
@@ -8675,6 +8715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69098,
+      "num": 69098,
+      "word": "把别人的猫当成自己的猫抓了回来",
+      "onboard_time": 1703027844,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68971,
       "num": 68971,
       "word": "钝感力",
@@ -8731,28 +8779,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61268,
-      "num": 61268,
-      "word": "度小满捐款2000万支援甘肃震区",
-      "onboard_time": 1703007080,
-      "rank": 49,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 61242,
       "num": 61242,
       "word": "奔跑吧宋雨琦跳Queencard",
       "onboard_time": 1702768097,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56895,
-      "num": 56895,
-      "word": "这是穿光脸神器了吗",
-      "onboard_time": 1703027361,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 55003,
@@ -8769,6 +8801,14 @@
       "onboard_time": 1702789235,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53541,
+      "num": 53541,
+      "word": "iOS17.2.1正式版",
+      "onboard_time": 1703028807,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 47741,

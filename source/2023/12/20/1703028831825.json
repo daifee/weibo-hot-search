@@ -1,0 +1,410 @@
+{
+  "runTime": 1703028831825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 679618,
+        "num": 679618,
+        "word": "小柴胡汤",
+        "onboard_time": 1702998762,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 450937,
+        "num": 450937,
+        "word": "这些伪粗粮会让血糖飙升",
+        "onboard_time": 1703017934,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36257,
+        "num": 328439,
+        "word": "甘肃加油青海加油",
+        "onboard_time": 1702971214,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1381618,
+        "num": 323004,
+        "word": "泰国瑞幸向中国瑞幸索赔100亿泰铢",
+        "onboard_time": 1702998999,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310941,
+        "num": 310941,
+        "word": "地震已致127人遇难",
+        "onboard_time": 1702985915,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260059,
+        "num": 260059,
+        "word": "甘肃震区群众用上了解放军的野战帐篷",
+        "onboard_time": 1703000857,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246682,
+        "num": 246682,
+        "word": "小米汽车三名员工未经许可参与研讨会被辞退",
+        "onboard_time": 1702988558,
+        "rank": 6,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 228032,
+        "num": 228032,
+        "word": "冰雪大世界游客高喊退票",
+        "onboard_time": 1703010136,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206684,
+        "num": 206684,
+        "word": "澳门回归24周年",
+        "onboard_time": 1703027784,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180324,
+        "num": 180324,
+        "word": "哈尔滨文旅局领导已赴冰雪大世界督导",
+        "onboard_time": 1702990599,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610151,
+        "num": 178415,
+        "word": "很久没回国的人回国后",
+        "onboard_time": 1702991258,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 508343,
+        "num": 175033,
+        "word": "张小斐回应当选北京视协副主席",
+        "onboard_time": 1703006361,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504763,
+        "num": 172144,
+        "word": "张兰直播间称酸辣粉卖出多少捐多少",
+        "onboard_time": 1702999658,
+        "rank": 12,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 412931,
+        "num": 169211,
+        "word": "武艺半年出来一次 一次被笑半年",
+        "onboard_time": 1702997623,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378587,
+        "num": 167269,
+        "word": "李佳琦捐赠500万元",
+        "onboard_time": 1702994622,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 342247,
+        "num": 165976,
+        "word": "狐妖小红娘王权篇 月底开机",
+        "onboard_time": 1702999596,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330953,
+        "num": 160541,
+        "word": "高迪父亲实名举报松原前郭县法院院长",
+        "onboard_time": 1702995040,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 304879,
+        "num": 159178,
+        "word": "帅哥背后是另一个帅哥",
+        "onboard_time": 1703000199,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282328,
+        "num": 155977,
+        "word": "青海一孕妇回娘家途中失联",
+        "onboard_time": 1702993836,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280306,
+        "num": 151940,
+        "word": "杨紫 哪吒头",
+        "onboard_time": 1702991319,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227488,
+        "num": 150583,
+        "word": "十二生肖全系艺人",
+        "onboard_time": 1702997919,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201039,
+        "num": 148840,
+        "word": "戚薇的妆造师审美",
+        "onboard_time": 1703001695,
+        "rank": 21,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 197548,
+        "num": 144387,
+        "word": "奚梦瑶是朱丹周一围的cp粉",
+        "onboard_time": 1703004864,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185002,
+        "num": 141986,
+        "word": "甘肃积石山6.2级地震现场实拍",
+        "onboard_time": 1703020754,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140448,
+        "num": 140448,
+        "word": "系留无人机为震区安置点提供照明",
+        "onboard_time": 1703027964,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139334,
+        "num": 139334,
+        "word": "青海省委书记抱着安慰痛哭的灾民",
+        "onboard_time": 1702985857,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137330,
+        "num": 137330,
+        "word": "他叫了好多声灰原",
+        "onboard_time": 1702995942,
+        "rank": 26,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 149254,
+        "num": 135723,
+        "word": "金莎最向往的夫妻是朱丹周一围",
+        "onboard_time": 1703025739,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118461,
+        "num": 118461,
+        "word": "陈都灵程潇 青蛇白蛇",
+        "onboard_time": 1702985318,
+        "rank": 28,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 110822,
+        "num": 110822,
+        "word": "朴灿烈初雪cha",
+        "onboard_time": 1703028024,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108534,
+        "num": 108534,
+        "word": "高度自律 绝对自由",
+        "onboard_time": 1703000137,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 108362,
+        "num": 108362,
+        "word": "这么一翻译 豪门味变火锅味",
+        "onboard_time": 1702998166,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105933,
+        "num": 105933,
+        "word": "这是穿光脸神器了吗",
+        "onboard_time": 1703027361,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102828,
+        "num": 102828,
+        "word": "男子备1000斤肉到震区现场为灾民煮面",
+        "onboard_time": 1702982196,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95387,
+        "num": 95387,
+        "word": "小杨哥公司向甘肃灾区捐款1200万",
+        "onboard_time": 1702986336,
+        "rank": 34,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 87583,
+        "num": 87583,
+        "word": "度小满捐款2000万支援甘肃震区",
+        "onboard_time": 1703007080,
+        "rank": 35,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 82716,
+        "num": 82716,
+        "word": "韩红团队已经启程前往灾区",
+        "onboard_time": 1702990060,
+        "rank": 36,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 81633,
+        "num": 81633,
+        "word": "影院回应取消亮星星下雪场",
+        "onboard_time": 1702994381,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81008,
+        "num": 81008,
+        "word": "甘肃及青海震区全部恢复供电",
+        "onboard_time": 1702990118,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78920,
+        "num": 78920,
+        "word": "韩国人 美女公式",
+        "onboard_time": 1702998340,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 77158,
+        "num": 77158,
+        "word": "大哭时突然第三视角看自己",
+        "onboard_time": 1702998702,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74203,
+        "num": 74203,
+        "word": "藏海传 开机",
+        "onboard_time": 1702980277,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74130,
+        "num": 74130,
+        "word": "小白买车",
+        "onboard_time": 1702990477,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 69098,
+        "num": 69098,
+        "word": "把别人的猫当成自己的猫抓了回来",
+        "onboard_time": 1703027844,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68150,
+        "num": 68150,
+        "word": "导致猝死的7个常见诱因",
+        "onboard_time": 1703019973,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63431,
+        "num": 63431,
+        "word": "张译拒跳科目三",
+        "onboard_time": 1702968517,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59255,
+        "num": 59255,
+        "word": "焦恩俊夸了于十三",
+        "onboard_time": 1702977400,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56161,
+        "num": 56161,
+        "word": "刘浩存 光腿神器",
+        "onboard_time": 1702985498,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53541,
+        "num": 53541,
+        "word": "iOS17.2.1正式版",
+        "onboard_time": 1703028807,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52864,
+        "num": 52864,
+        "word": "郭敬明又拍出我爱看的剧情了",
+        "onboard_time": 1702974033,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃6.2级地震作出重要指示#"
+    }
+  }
+}

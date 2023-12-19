@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703027692308,
+  "endTime": 1703028831825,
   "band_list": [
     {
       "raw_hot": 2130008,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610151,
+      "num": 178415,
+      "word": "很久没回国的人回国后",
+      "onboard_time": 1702991258,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 564672,
       "num": 462035,
       "word": "小白买车",
@@ -99,20 +107,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 495476,
-      "num": 143938,
-      "word": "很久没回国的人回国后",
-      "onboard_time": 1702991258,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 464825,
-      "num": 140516,
+      "raw_hot": 508343,
+      "num": 175033,
       "word": "张小斐回应当选北京视协副主席",
       "onboard_time": 1703006361,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450937,
+      "num": 450937,
+      "word": "这些伪粗粮会让血糖飙升",
+      "onboard_time": 1703017934,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 447572,
@@ -219,12 +227,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264924,
-      "num": 264924,
-      "word": "这些伪粗粮会让血糖飙升",
-      "onboard_time": 1703017934,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 260059,
+      "num": 260059,
+      "word": "甘肃震区群众用上了解放军的野战帐篷",
+      "onboard_time": 1703000857,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246682,
+      "num": 301393,
+      "word": "小米汽车三名员工未经许可参与研讨会被辞退",
+      "onboard_time": 1702988558,
+      "rank": 9,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 245495,
@@ -243,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240951,
-      "num": 301393,
-      "word": "小米汽车三名员工未经许可参与研讨会被辞退",
-      "onboard_time": 1702988558,
-      "rank": 9,
-      "category": "汽车,社会新闻"
-    },
-    {
       "raw_hot": 231809,
       "num": 231809,
       "word": "张译拒跳科目三",
@@ -259,8 +267,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228032,
+      "num": 228032,
+      "word": "冰雪大世界游客高喊退票",
+      "onboard_time": 1703010136,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215417,
-      "num": 111951,
+      "num": 144387,
       "word": "奚梦瑶是朱丹周一围的cp粉",
       "onboard_time": 1703004864,
       "rank": 30,
@@ -275,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206684,
+      "num": 206684,
+      "word": "澳门回归24周年",
+      "onboard_time": 1703027784,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194123,
       "num": 194123,
       "word": "焦恩俊夸了于十三",
@@ -283,11 +307,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184967,
-      "num": 185019,
-      "word": "甘肃震区群众用上了解放军的野战帐篷",
-      "onboard_time": 1703000857,
-      "rank": 8,
+      "raw_hot": 185002,
+      "num": 141986,
+      "word": "甘肃积石山6.2级地震现场实拍",
+      "onboard_time": 1703020754,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -339,20 +363,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159997,
-      "num": 159997,
-      "word": "冰雪大世界游客高喊退票",
-      "onboard_time": 1703010136,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159114,
-      "num": 104018,
-      "word": "甘肃积石山6.2级地震现场实拍",
-      "onboard_time": 1703020754,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 149254,
+      "num": 135723,
+      "word": "金莎最向往的夫妻是朱丹周一围",
+      "onboard_time": 1703025739,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 148884,
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140448,
+      "num": 140448,
+      "word": "系留无人机为震区安置点提供照明",
+      "onboard_time": 1703027964,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128371,
       "num": 121201,
       "word": "Man姐 猎杀时刻",
@@ -385,14 +409,6 @@
       "onboard_time": 1702995102,
       "rank": 38,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 124839,
-      "num": 83537,
-      "word": "金莎最向往的夫妻是朱丹周一围",
-      "onboard_time": 1703025739,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 123819,
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110822,
+      "num": 110822,
+      "word": "朴灿烈初雪cha",
+      "onboard_time": 1703028024,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109733,
       "num": 109733,
       "word": "甘肃积石山地震引发局地砂涌",
@@ -451,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105933,
+      "num": 105933,
+      "word": "这是穿光脸神器了吗",
+      "onboard_time": 1703027361,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98548,
       "num": 98548,
       "word": "处女座要学会释放压力",
       "onboard_time": 1702995883,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87583,
+      "num": 87583,
+      "word": "度小满捐款2000万支援甘肃震区",
+      "onboard_time": 1703007080,
+      "rank": 49,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 81433,
@@ -483,23 +523,23 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61268,
-      "num": 61268,
-      "word": "度小满捐款2000万支援甘肃震区",
-      "onboard_time": 1703007080,
-      "rank": 49,
-      "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 56895,
-      "num": 56895,
-      "word": "这是穿光脸神器了吗",
-      "onboard_time": 1703027361,
-      "rank": 41,
+      "raw_hot": 69098,
+      "num": 69098,
+      "word": "把别人的猫当成自己的猫抓了回来",
+      "onboard_time": 1703027844,
+      "rank": 43,
       "category": "幽默"
     },
     {
-      "raw_hot": 34086,
+      "raw_hot": 53541,
+      "num": 53541,
+      "word": "iOS17.2.1正式版",
+      "onboard_time": 1703028807,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 36257,
       "num": 452101,
       "word": "甘肃加油青海加油",
       "onboard_time": 1702971214,
