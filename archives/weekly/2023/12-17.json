@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703010847926,
+  "endTime": 1703013155948,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -8699,6 +8699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60697,
+      "num": 60697,
+      "word": "冰雪大世界游客高喊退票",
+      "onboard_time": 1703010136,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55003,
       "num": 55003,
       "word": "任敏项链丢了",
@@ -8713,14 +8721,6 @@
       "onboard_time": 1702789235,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 50207,
-      "num": 50207,
-      "word": "冰雪大世界游客高喊退票",
-      "onboard_time": 1703010136,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47741,

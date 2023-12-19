@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703010847926,
+  "endTime": 1703013155948,
   "band_list": [
     {
       "raw_hot": 2130008,
@@ -435,20 +435,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60697,
+      "num": 60697,
+      "word": "冰雪大世界游客高喊退票",
+      "onboard_time": 1703010136,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53876,
       "num": 61702,
       "word": "很久没回国的人回国后",
       "onboard_time": 1702991258,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 50207,
-      "num": 50207,
-      "word": "冰雪大世界游客高喊退票",
-      "onboard_time": 1703010136,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46570,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/17 00:21:27 ~ 2023/12/20 02:34:07
+本榜单时间：2023/12/17 00:21:27 ~ 2023/12/20 03:12:35
 </p>
 </blockquote>
 <p>
@@ -6537,6 +6537,12 @@ Man姐 猎杀时刻（热度：128371）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%B8%B8%E5%AE%A2%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8%23" target="weibo">
+冰雪大世界游客高喊退票（热度：60697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E9%A1%B9%E9%93%BE%E4%B8%A2%E4%BA%86%23" target="weibo">
 任敏项链丢了（热度：55003）
 </a>
@@ -6545,12 +6551,6 @@ Man姐 猎杀时刻（热度：128371）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8C%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%23" target="weibo">
 我们的歌音乐盛典（热度：54652）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%B8%B8%E5%AE%A2%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8%23" target="weibo">
-冰雪大世界游客高喊退票（热度：50207）
 </a>
 </li>
 
