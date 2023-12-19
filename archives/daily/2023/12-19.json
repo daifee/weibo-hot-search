@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702959696437,
+  "endTime": 1702960530358,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2409690,
+      "num": 415830,
+      "word": "刘宇宁 换脸",
+      "onboard_time": 1702956762,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2371658,
       "num": 2371658,
       "word": "甘肃地震监控画面",
@@ -88,14 +96,6 @@
       "word": "一念关山 全死了",
       "onboard_time": 1702904134,
       "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 2218115,
-      "num": 390565,
-      "word": "刘宇宁 换脸",
-      "onboard_time": 1702956762,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -129,6 +129,14 @@
       "onboard_time": 1702942413,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1561339,
+      "num": 1561339,
+      "word": "喜马拉雅崩了",
+      "onboard_time": 1702959766,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1521232,
@@ -177,6 +185,14 @@
       "onboard_time": 1702921040,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1104754,
+      "num": 413255,
+      "word": "吴青峰失声",
+      "onboard_time": 1702958746,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1087993,
@@ -267,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 705933,
-      "num": 386595,
-      "word": "吴青峰失声",
-      "onboard_time": 1702958746,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 729415,
+      "num": 405733,
+      "word": "林心如回应霍建华婚后很少拍戏",
+      "onboard_time": 1702959463,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 693647,
@@ -403,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 519053,
+      "num": 403112,
+      "word": "刘诗诗骑马戏 删没了",
+      "onboard_time": 1702959406,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 514218,
       "num": 514218,
       "word": "当事人回应演唱会求婚被喊退票",
@@ -483,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417679,
+      "num": 417679,
+      "word": "甘肃地震亲历者说逃生后手和腿一直在抖",
+      "onboard_time": 1702958021,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417094,
       "num": 417094,
       "word": "罗永浩称东方甄选会继续去董化",
@@ -539,6 +571,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 397943,
+      "num": 397943,
+      "word": "林宥嘉 恋爱脑",
+      "onboard_time": 1702959282,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381016,
       "num": 381016,
       "word": "权志龙吸毒无嫌疑结案",
@@ -569,14 +609,6 @@
       "onboard_time": 1702953223,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 348994,
-      "num": 348994,
-      "word": "甘肃地震亲历者说逃生后手和腿一直在抖",
-      "onboard_time": 1702958021,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345944,
@@ -635,6 +667,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 298817,
+      "num": 298817,
+      "word": "余承恩演饶雪漫新剧男主",
+      "onboard_time": 1702958502,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298794,
       "num": 293261,
       "word": "我不要新妈就要你这个妈",
@@ -667,6 +707,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 294204,
+      "num": 294204,
+      "word": "甘肃应急发布救援需求公告",
+      "onboard_time": 1702958746,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294007,
       "num": 294007,
       "word": "星光大赏 模型话筒假唱",
@@ -683,19 +731,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278861,
-      "num": 278861,
-      "word": "余承恩演饶雪漫新剧男主",
-      "onboard_time": 1702958502,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276863,
       "num": 276863,
       "word": "地震致积石山县部分平房倒塌",
       "onboard_time": 1702920861,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276742,
+      "num": 276742,
+      "word": "专家分析甘肃地震致重大人员伤亡原因",
+      "onboard_time": 1702959525,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -771,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249593,
-      "num": 249593,
-      "word": "甘肃应急发布救援需求公告",
-      "onboard_time": 1702958746,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244227,
       "num": 244227,
       "word": "王菲 好美的精神状态",
@@ -843,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235639,
+      "num": 235639,
+      "word": "请社会志愿者和车辆等不要前往震区",
+      "onboard_time": 1702959344,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235577,
       "num": 235577,
       "word": "航拍青海海东彻夜救援画面",
@@ -875,20 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223397,
-      "num": 223397,
-      "word": "林心如回应霍建华婚后很少拍戏",
-      "onboard_time": 1702959463,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 220967,
-      "num": 220967,
-      "word": "林宥嘉 恋爱脑",
-      "onboard_time": 1702959282,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 220460,
+      "num": 220460,
+      "word": "甘肃地震救援最大的困难是低温",
+      "onboard_time": 1702958804,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219518,
@@ -939,20 +979,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208864,
+      "num": 208864,
+      "word": "甘肃对通往灾区道路实施交通管制",
+      "onboard_time": 1702959643,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206251,
       "num": 206251,
       "word": "米哈游审美",
       "onboard_time": 1702901374,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 204884,
-      "num": 204884,
-      "word": "刘诗诗骑马戏 删没了",
-      "onboard_time": 1702959406,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 203607,
@@ -963,12 +1003,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195951,
-      "num": 195951,
-      "word": "请社会志愿者和车辆等不要前往震区",
-      "onboard_time": 1702959344,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 197255,
+      "num": 197255,
+      "word": "国内适合年轻人躺平的城市",
+      "onboard_time": 1702960368,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 194163,
@@ -979,11 +1019,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192211,
+      "num": 192211,
+      "word": "短短几秒阿姨要用一生来治愈",
+      "onboard_time": 1702959946,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192030,
       "num": 192030,
       "word": "甘肃积石山地震最新消息",
       "onboard_time": 1702952801,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190609,
+      "num": 190609,
+      "word": "两部门向甘肃青海预拨2亿元救灾资金",
+      "onboard_time": 1702960368,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187347,
+      "num": 187347,
+      "word": "教体局工作人员回应2名女幼师遇害",
+      "onboard_time": 1702958924,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186821,
       "num": 186821,
       "word": "道枝骏佑金发",
@@ -1027,11 +1091,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177924,
-      "num": 177924,
-      "word": "甘肃地震救援最大的困难是低温",
-      "onboard_time": 1702958804,
-      "rank": 38,
+      "raw_hot": 184276,
+      "num": 184276,
+      "word": "2022年我国在学研究生365万人",
+      "onboard_time": 1702958569,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 179622,
+      "num": 179622,
+      "word": "地震后老师怕学生冻坏陪着跳操",
+      "onboard_time": 1702960186,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1067,28 +1139,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172011,
-      "num": 172011,
-      "word": "专家分析甘肃地震致重大人员伤亡原因",
-      "onboard_time": 1702959525,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171492,
       "num": 171492,
       "word": "WBG官宣新赛季大名单",
       "onboard_time": 1702910560,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170176,
-      "num": 170176,
-      "word": "2022年我国在学研究生365万人",
-      "onboard_time": 1702958569,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 168953,
@@ -1115,8 +1171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164204,
-      "num": 164204,
+      "raw_hot": 165373,
+      "num": 165373,
       "word": "当主人假装不认识狗狗时",
       "onboard_time": 1702956401,
       "rank": 47,
@@ -1145,14 +1201,6 @@
       "onboard_time": 1702951422,
       "rank": 44,
       "category": "科学科普,社会新闻"
-    },
-    {
-      "raw_hot": 163138,
-      "num": 163138,
-      "word": "甘肃对通往灾区道路实施交通管制",
-      "onboard_time": 1702959643,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162928,
@@ -1193,14 +1241,6 @@
       "onboard_time": 1702950460,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 149588,
-      "num": 149588,
-      "word": "教体局工作人员回应2名女幼师遇害",
-      "onboard_time": 1702958924,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148079,
@@ -1291,6 +1331,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 114511,
+      "num": 1676810,
+      "word": "明年经济工作这几个发力点要读懂",
+      "onboard_time": 1702957902,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109591,
       "num": 109591,
       "word": "Uzi和Faker同队",
@@ -1336,14 +1384,6 @@
       "word": "猫咪背上天生有个猫爪印",
       "onboard_time": 1702942353,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89522,
-      "num": 1628039,
-      "word": "明年经济工作这几个发力点要读懂",
-      "onboard_time": 1702957902,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
