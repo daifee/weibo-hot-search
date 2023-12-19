@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702953010874,
+  "endTime": 1702953657913,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -83,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1849358,
-      "num": 1849358,
+      "raw_hot": 1855951,
+      "num": 1855951,
       "word": "男子未考上编制复合被拒跳楼身亡",
       "onboard_time": 1702950163,
       "rank": 3,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1739522,
-      "num": 1739522,
+      "raw_hot": 1764784,
+      "num": 1764784,
       "word": "母子吞下54个藏毒避孕套入境澳门被捕",
       "onboard_time": 1702950876,
       "rank": 4,
@@ -379,6 +379,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 495506,
+      "num": 495506,
+      "word": "哈登打疯了",
+      "onboard_time": 1702953037,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490007,
       "num": 490007,
       "word": "兰州震感",
@@ -547,8 +555,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319582,
-      "num": 319582,
+      "raw_hot": 320678,
+      "num": 320678,
       "word": "李国庆评孟羽童被开除",
       "onboard_time": 1702951364,
       "rank": 22,
@@ -577,6 +585,14 @@
       "onboard_time": 1702898071,
       "rank": 19,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 294007,
+      "num": 294007,
+      "word": "星光大赏 模型话筒假唱",
+      "onboard_time": 1702952143,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 283174,
@@ -619,20 +635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270090,
-      "num": 270090,
-      "word": "星光大赏 模型话筒假唱",
-      "onboard_time": 1702952143,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269984,
       "num": 269984,
       "word": "张大大 东北的物价真的有这么离谱吗",
       "onboard_time": 1702948545,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263092,
+      "num": 263092,
+      "word": "杨紫 立体玫瑰黑纱长裙",
+      "onboard_time": 1702953223,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 261696,
@@ -771,6 +787,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194163,
+      "num": 194163,
+      "word": "甘肃发布会现场为地震遇难者默哀",
+      "onboard_time": 1702953280,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192030,
+      "num": 192030,
+      "word": "甘肃积石山地震最新消息",
+      "onboard_time": 1702952801,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189752,
       "num": 189752,
       "word": "国家卫健委派工作组赴甘肃",
@@ -827,12 +859,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168095,
+      "num": 168095,
+      "word": "快船vs步行者",
+      "onboard_time": 1702953463,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166467,
       "num": 166467,
       "word": "林一 倒拔垂杨柳",
       "onboard_time": 1702897891,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165589,
+      "num": 165589,
+      "word": "道枝骏佑金发",
+      "onboard_time": 1702953463,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163164,
@@ -849,14 +897,6 @@
       "onboard_time": 1702891055,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162549,
-      "num": 162549,
-      "word": "甘肃积石山地震最新消息",
-      "onboard_time": 1702952801,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156046,
@@ -1148,7 +1188,7 @@
     },
     {
       "raw_hot": 877,
-      "num": 2450343,
+      "num": 2735135,
       "word": "北京点燃数字经济国潮热",
       "onboard_time": 1702950937,
       "rank": 2,
