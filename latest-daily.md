@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/20 00:20:38 ~ 2023/12/20 03:34:07
+本榜单时间：2023/12/20 00:20:38 ~ 2023/12/20 04:15:53
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ B站跨晚 阵容（热度：118627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%23" target="weibo">
 光遇（热度：16153）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23" target="weibo">
+小米汽车（热度：14674）
 </a>
 </li>
 

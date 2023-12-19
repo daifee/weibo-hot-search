@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703014447503,
+  "endTime": 1703016953901,
   "band_list": [
     {
       "raw_hot": 2130008,
@@ -473,6 +473,14 @@
       "onboard_time": 1703013616,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 14674,
+      "num": 19301,
+      "word": "小米汽车",
+      "onboard_time": 1703014274,
+      "rank": 48,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
