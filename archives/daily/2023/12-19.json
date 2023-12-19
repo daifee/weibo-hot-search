@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702982196240,
+  "endTime": 1702984533462,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1839868,
+      "num": 1839868,
+      "word": "广州下雪",
+      "onboard_time": 1702982434,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1769592,
       "num": 1769592,
       "word": "甘肃余震",
@@ -243,20 +251,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1446684,
+      "num": 1174588,
+      "word": "哈尔滨冰雪大世界致歉",
+      "onboard_time": 1702974576,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1408364,
       "num": 419672,
       "word": "藏海传 开机",
       "onboard_time": 1702980277,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1405681,
-      "num": 1174588,
-      "word": "哈尔滨冰雪大世界致歉",
-      "onboard_time": 1702974576,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1358696,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 877296,
+      "num": 323734,
+      "word": "朱一龙 缝针",
+      "onboard_time": 1702982800,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844181,
       "num": 844181,
       "word": "甘肃震区目前最缺御寒和女性物资",
@@ -464,6 +480,14 @@
       "word": "警方通报国家公祭日男子身贴日本国旗",
       "onboard_time": 1702938437,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747308,
+      "num": 747308,
+      "word": "公司要求女员工化淡妆上班激励团队",
+      "onboard_time": 1702981236,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -595,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 565070,
+      "num": 3425178,
+      "word": "鸿星尔克直播间回应捐款",
+      "onboard_time": 1702983397,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563756,
       "num": 414429,
       "word": "陈建州告大牙案败诉",
@@ -657,6 +689,14 @@
       "onboard_time": 1702916154,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 530920,
+      "num": 385109,
+      "word": "最想抬走男演员",
+      "onboard_time": 1702982017,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 516238,
@@ -723,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478431,
-      "num": 385109,
-      "word": "最想抬走男演员",
-      "onboard_time": 1702982017,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 476910,
       "num": 476910,
       "word": "甘肃积石山连续发生多次地震",
@@ -752,6 +784,14 @@
       "word": "甘肃地震亲历者说逃生后手和腿一直在抖",
       "onboard_time": 1702958021,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471556,
+      "num": 471556,
+      "word": "地震引发青海一村7户19人被埋",
+      "onboard_time": 1702979616,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -819,12 +859,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428839,
-      "num": 428839,
-      "word": "地震引发青海一村7户19人被埋",
-      "onboard_time": 1702979616,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 430579,
+      "num": 341770,
+      "word": "湖南卫视跨年晚会官宣",
+      "onboard_time": 1702980636,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 419413,
+      "num": 315378,
+      "word": "霸王茶姬捐款500万元",
+      "onboard_time": 1702982677,
+      "rank": 21,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 417094,
@@ -947,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 374477,
-      "num": 374477,
-      "word": "公司要求女员工化淡妆上班激励团队",
-      "onboard_time": 1702981236,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369200,
       "num": 369200,
       "word": "李国庆称董明珠掉价",
@@ -1003,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 341770,
-      "num": 341770,
-      "word": "湖南卫视跨年晚会官宣",
-      "onboard_time": 1702980636,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 341449,
       "num": 341449,
       "word": "李国庆奉劝董明珠给年轻人留余地",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1702967563,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341077,
+      "num": 312399,
+      "word": "男子备1000斤肉到震区现场为灾民煮面",
+      "onboard_time": 1702982196,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340342,
@@ -1180,7 +1220,7 @@
     },
     {
       "raw_hot": 294130,
-      "num": 541775,
+      "num": 939437,
       "word": "甘肃地震受灾群众吃上热牛肉面",
       "onboard_time": 1702976197,
       "rank": 19,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1702952143,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293705,
+      "num": 244148,
+      "word": "JackeyLove Meiko督战",
+      "onboard_time": 1702983939,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 291525,
@@ -1347,12 +1395,36 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 248345,
+      "num": 327618,
+      "word": "带病医生致歉称无法再加号患儿家属感动落泪",
+      "onboard_time": 1702982259,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244351,
+      "num": 244351,
+      "word": "甘肃临夏与1240名考研生逐一取得联系",
+      "onboard_time": 1702981718,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244227,
       "num": 244227,
       "word": "王菲 好美的精神状态",
       "onboard_time": 1702944881,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243706,
+      "num": 243706,
+      "word": "林一 公主殿下请看剧",
+      "onboard_time": 1702984000,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 243461,
@@ -1449,6 +1521,14 @@
       "onboard_time": 1702964497,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 236765,
+      "num": 236765,
+      "word": "第一次见到猫吸人",
+      "onboard_time": 1702983277,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 235639,
@@ -1611,6 +1691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209166,
+      "num": 209166,
+      "word": "AG 深圳",
+      "onboard_time": 1702983760,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208864,
       "num": 208864,
       "word": "甘肃对通往灾区道路实施交通管制",
@@ -1649,6 +1737,14 @@
       "onboard_time": 1702970618,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 203876,
+      "num": 203876,
+      "word": "Clearlove现身EDG基地",
+      "onboard_time": 1702982982,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 203751,
@@ -1697,14 +1793,6 @@
       "onboard_time": 1702977635,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 195182,
-      "num": 195182,
-      "word": "甘肃临夏与1240名考研生逐一取得联系",
-      "onboard_time": 1702981718,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194163,
@@ -1947,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167730,
+      "num": 167730,
+      "word": "蓝色监狱 棉花娃娃",
+      "onboard_time": 1702984237,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 167242,
       "num": 167242,
       "word": "治脚贱的雪人",
@@ -1960,6 +2056,22 @@
       "word": "林一 倒拔垂杨柳",
       "onboard_time": 1702897891,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165865,
+      "num": 165865,
+      "word": "七度空间正在为甘肃紧急调货",
+      "onboard_time": 1702984418,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165858,
+      "num": 165858,
+      "word": "脱轨",
+      "onboard_time": 1702936273,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -2019,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160161,
+      "num": 160161,
+      "word": "为什么老人的电话总是打不通",
+      "onboard_time": 1702983097,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160051,
       "num": 160051,
       "word": "凌晨庆生女孩回应幸获逃生时间",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1702975297,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156406,
+      "num": 156406,
+      "word": "林孝埈企鹅步",
+      "onboard_time": 1702984237,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 156046,
@@ -2371,14 +2499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64892,
-      "num": 64892,
-      "word": "脱轨",
-      "onboard_time": 1702936273,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55003,
       "num": 55003,
       "word": "任敏项链丢了",
@@ -2396,7 +2516,7 @@
     },
     {
       "raw_hot": 47741,
-      "num": 1247290,
+      "num": 2589933,
       "word": "儿童呼吸道感染居家照护指南",
       "onboard_time": 1702957660,
       "rank": 2,

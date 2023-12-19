@@ -1,0 +1,410 @@
+{
+  "runTime": 1702984533462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5451414,
+        "num": 5451414,
+        "word": "甘肃地震已致126人遇难",
+        "onboard_time": 1702978718,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565070,
+        "num": 3425178,
+        "word": "鸿星尔克直播间回应捐款",
+        "onboard_time": 1702983397,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23284,
+        "num": 2589933,
+        "word": "儿童呼吸道感染居家照护指南",
+        "onboard_time": 1702957660,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1839868,
+        "num": 1839868,
+        "word": "广州下雪",
+        "onboard_time": 1702982434,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262695,
+        "num": 939437,
+        "word": "甘肃地震受灾群众吃上热牛肉面",
+        "onboard_time": 1702976197,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747308,
+        "num": 747308,
+        "word": "公司要求女员工化淡妆上班激励团队",
+        "onboard_time": 1702981236,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732923,
+        "num": 732923,
+        "word": "鸿星尔克又捐了2000万",
+        "onboard_time": 1702964256,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471556,
+        "num": 471556,
+        "word": "地震引发青海一村7户19人被埋",
+        "onboard_time": 1702979616,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443925,
+        "num": 443925,
+        "word": "确保震区考生顺利参加考研",
+        "onboard_time": 1702976858,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328145,
+        "num": 328145,
+        "word": "波司登首批捐赠2000万元物资",
+        "onboard_time": 1702977276,
+        "rank": 9,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 248345,
+        "num": 327618,
+        "word": "带病医生致歉称无法再加号患儿家属感动落泪",
+        "onboard_time": 1702982259,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1446684,
+        "num": 326036,
+        "word": "哈尔滨冰雪大世界致歉",
+        "onboard_time": 1702974576,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985783,
+        "num": 325340,
+        "word": "藏海传 开机",
+        "onboard_time": 1702980277,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 877296,
+        "num": 323734,
+        "word": "朱一龙 缝针",
+        "onboard_time": 1702982800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776265,
+        "num": 323286,
+        "word": "韩国仁川刺激生育每个婴儿补贴55万",
+        "onboard_time": 1702974874,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698355,
+        "num": 321797,
+        "word": "焦恩俊夸了于十三",
+        "onboard_time": 1702977400,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 693376,
+        "num": 321338,
+        "word": "郭敬明又拍出我爱看的剧情了",
+        "onboard_time": 1702974033,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576093,
+        "num": 319670,
+        "word": "张译拒跳科目三",
+        "onboard_time": 1702968517,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530920,
+        "num": 318348,
+        "word": "最想抬走男演员",
+        "onboard_time": 1702982017,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516304,
+        "num": 317319,
+        "word": "一闪一闪亮星星 退票率",
+        "onboard_time": 1702969359,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 430579,
+        "num": 315718,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1702980636,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419413,
+        "num": 315378,
+        "word": "霸王茶姬捐款500万元",
+        "onboard_time": 1702982677,
+        "rank": 21,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 381560,
+        "num": 313583,
+        "word": "杨紫 造型师",
+        "onboard_time": 1702973917,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341077,
+        "num": 312399,
+        "word": "男子备1000斤肉到震区现场为灾民煮面",
+        "onboard_time": 1702982196,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312280,
+        "num": 312280,
+        "word": "自称211废物女孩爆火后存款翻十倍",
+        "onboard_time": 1702974157,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301391,
+        "num": 301391,
+        "word": "新疆地震",
+        "onboard_time": 1702951238,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299411,
+        "num": 299411,
+        "word": "用户称地震时7部苹果手机均无预警",
+        "onboard_time": 1702968761,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277099,
+        "num": 277099,
+        "word": "董宇辉透露下一步工作计划",
+        "onboard_time": 1702979136,
+        "rank": 27,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 254122,
+        "num": 254122,
+        "word": "刘宇宁 换脸",
+        "onboard_time": 1702956762,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244351,
+        "num": 244351,
+        "word": "甘肃临夏与1240名考研生逐一取得联系",
+        "onboard_time": 1702981718,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293705,
+        "num": 244148,
+        "word": "JackeyLove Meiko督战",
+        "onboard_time": 1702983939,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243706,
+        "num": 243706,
+        "word": "林一 公主殿下请看剧",
+        "onboard_time": 1702984000,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238445,
+        "num": 238445,
+        "word": "地震时楼层越高越不安全吗",
+        "onboard_time": 1702981358,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236765,
+        "num": 236765,
+        "word": "第一次见到猫吸人",
+        "onboard_time": 1702983277,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211062,
+        "num": 230322,
+        "word": "地震时女子带孩子逃生偶遇消防员丈夫出警",
+        "onboard_time": 1702962043,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226394,
+        "num": 226394,
+        "word": "多位艺人明星向甘肃地震灾区进行捐赠",
+        "onboard_time": 1702961743,
+        "rank": 35,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 214933,
+        "num": 214933,
+        "word": "董明珠称十几年员工跳槽公司应获赔",
+        "onboard_time": 1702973979,
+        "rank": 36,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 214098,
+        "num": 214098,
+        "word": "江平去世",
+        "onboard_time": 1702964197,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209166,
+        "num": 209166,
+        "word": "AG 深圳",
+        "onboard_time": 1702983760,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207628,
+        "num": 207628,
+        "word": "台湾艺人刘乐妍自曝被欠薪",
+        "onboard_time": 1702978180,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203876,
+        "num": 203876,
+        "word": "Clearlove现身EDG基地",
+        "onboard_time": 1702982982,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187390,
+        "num": 187390,
+        "word": "一念关山的立意",
+        "onboard_time": 1702981358,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183685,
+        "num": 183685,
+        "word": "甘肃震区目前最缺御寒和女性物资",
+        "onboard_time": 1702974937,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167730,
+        "num": 167730,
+        "word": "蓝色监狱 棉花娃娃",
+        "onboard_time": 1702984237,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 165865,
+        "num": 165865,
+        "word": "七度空间正在为甘肃紧急调货",
+        "onboard_time": 1702984418,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165858,
+        "num": 165858,
+        "word": "脱轨",
+        "onboard_time": 1702984418,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160161,
+        "num": 160161,
+        "word": "为什么老人的电话总是打不通",
+        "onboard_time": 1702983097,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158949,
+        "num": 158949,
+        "word": "王菲唱KTV",
+        "onboard_time": 1702978896,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157880,
+        "num": 157880,
+        "word": "原来12306上能买到低价机票",
+        "onboard_time": 1702976497,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 156406,
+        "num": 156406,
+        "word": "林孝埈企鹅步",
+        "onboard_time": 1702984237,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃积石山地震作出重要指示#"
+    }
+  }
+}
