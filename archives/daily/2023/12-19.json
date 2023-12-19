@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702990130365,
+  "endTime": 1702992051062,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1163149,
-      "num": 340127,
+      "num": 398752,
       "word": "陈都灵程潇 青蛇白蛇",
       "onboard_time": 1702985318,
       "rank": 26,
@@ -387,8 +387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 978980,
-      "num": 340094,
+      "raw_hot": 1004246,
+      "num": 399692,
       "word": "刘浩存 光腿神器",
       "onboard_time": 1702985498,
       "rank": 30,
@@ -435,6 +435,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 892703,
+      "num": 398698,
+      "word": "韩红团队已经启程前往灾区",
+      "onboard_time": 1702990060,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 879271,
       "num": 467172,
       "word": "郭敬明又拍出我爱看的剧情了",
@@ -449,6 +457,14 @@
       "onboard_time": 1702982800,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 872013,
+      "num": 398078,
+      "word": "小白买车",
+      "onboard_time": 1702990477,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 844181,
@@ -499,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796506,
+      "num": 397703,
+      "word": "杨紫 哪吒头",
+      "onboard_time": 1702991319,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 795789,
       "num": 795789,
       "word": "甘肃580名消防员集结赶赴震中",
       "onboard_time": 1702919605,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 788476,
+      "num": 397080,
+      "word": "小杨哥公司向甘肃灾区捐款1200万",
+      "onboard_time": 1702986336,
+      "rank": 18,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 774085,
@@ -532,19 +564,11 @@
     },
     {
       "raw_hot": 762453,
-      "num": 339772,
+      "num": 396582,
       "word": "席琳迪翁病情疑似恶化",
       "onboard_time": 1702988558,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 748793,
-      "num": 339843,
-      "word": "小杨哥公司向甘肃灾区捐款1200万",
-      "onboard_time": 1702986336,
-      "rank": 18,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 748764,
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 701089,
-      "num": 339937,
+      "num": 394871,
       "word": "杨紫琼婚宴",
       "onboard_time": 1702986276,
       "rank": 16,
@@ -603,6 +627,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 669130,
+      "num": 669130,
+      "word": "灾区回民较多缺少清真食品",
+      "onboard_time": 1702989517,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659019,
       "num": 659019,
       "word": "体检报告要学会自己看",
@@ -612,11 +644,19 @@
     },
     {
       "raw_hot": 650735,
-      "num": 339807,
+      "num": 363396,
       "word": "金莎差点演肖战妈妈",
       "onboard_time": 1702984719,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 648722,
+      "num": 396358,
+      "word": "哈尔滨文旅局领导已赴冰雪大世界督导",
+      "onboard_time": 1702990599,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647632,
@@ -923,6 +963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444493,
+      "num": 393629,
+      "word": "秦岚捐款50万驰援甘肃",
+      "onboard_time": 1702989878,
+      "rank": 32,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 444004,
       "num": 394247,
       "word": "张小斐 北京电视艺术家协会副主席",
@@ -1035,6 +1083,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 401040,
+      "num": 401040,
+      "word": "甘肃及青海震区全部恢复供电",
+      "onboard_time": 1702990118,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400357,
       "num": 400357,
       "word": "考研 充实感",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1702976497,
       "rank": 21,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 393211,
+      "num": 393211,
+      "word": "B站跨晚 阵容",
+      "onboard_time": 1702991137,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 392417,
@@ -1076,11 +1140,27 @@
     },
     {
       "raw_hot": 380621,
-      "num": 315078,
+      "num": 318992,
       "word": "男子备1000斤肉到震区现场为灾民煮面",
       "onboard_time": 1702982196,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379731,
+      "num": 379731,
+      "word": "边伯贤金珉锡金钟大初雪cha",
+      "onboard_time": 1702990778,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 379266,
+      "num": 379266,
+      "word": "难为白宇倪妮俩近视眼了",
+      "onboard_time": 1702987180,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 376185,
@@ -1105,6 +1185,14 @@
       "onboard_time": 1702965878,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365837,
+      "num": 365837,
+      "word": "ZAKER",
+      "onboard_time": 1702989817,
+      "rank": 40,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 363515,
@@ -1249,14 +1337,6 @@
       "onboard_time": 1702966181,
       "rank": 27,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 309305,
-      "num": 309305,
-      "word": "难为白宇倪妮俩近视眼了",
-      "onboard_time": 1702987180,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 307764,
@@ -1483,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261513,
+      "num": 261513,
+      "word": "秦海璐辛芷蕾 共享霸总小说",
+      "onboard_time": 1702990178,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261035,
       "num": 339707,
       "word": "Uzi重提S8失利",
@@ -1555,6 +1643,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 245254,
+      "num": 245254,
+      "word": "任如意 雪景",
+      "onboard_time": 1702989696,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244351,
       "num": 244351,
       "word": "甘肃临夏与1240名考研生逐一取得联系",
@@ -1601,14 +1697,6 @@
       "onboard_time": 1702958324,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243187,
-      "num": 243187,
-      "word": "韩红团队已经启程前往灾区",
-      "onboard_time": 1702990060,
-      "rank": 29,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 242678,
@@ -1715,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234582,
+      "num": 234582,
+      "word": "很久没回国的人回国后",
+      "onboard_time": 1702991258,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234340,
       "num": 234340,
       "word": "朴叙俊韩素希新剧发布会",
@@ -1739,12 +1835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231739,
-      "num": 231739,
-      "word": "秦岚捐款50万驰援甘肃",
-      "onboard_time": 1702989878,
-      "rank": 32,
-      "category": "社会新闻,艺人"
+      "raw_hot": 229031,
+      "num": 229031,
+      "word": "鸣龙少年里三种畸形的亲子关系",
+      "onboard_time": 1702991498,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 227528,
@@ -1785,22 +1881,6 @@
       "onboard_time": 1702977697,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223068,
-      "num": 223068,
-      "word": "任如意 雪景",
-      "onboard_time": 1702989696,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 221949,
-      "num": 221949,
-      "word": "灾区回民较多缺少清真食品",
-      "onboard_time": 1702989517,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221667,
@@ -1891,12 +1971,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 210120,
-      "num": 210120,
-      "word": "ZAKER",
-      "onboard_time": 1702989817,
-      "rank": 40,
-      "category": "汽车,社会新闻"
+      "raw_hot": 210909,
+      "num": 1110603,
+      "word": "向地震灾区下达2.5亿元中央预算内投资",
+      "onboard_time": 1702989217,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209166,
@@ -1961,6 +2041,14 @@
       "onboard_time": 1702982982,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203852,
+      "num": 203852,
+      "word": "冰雪大世界 免费项目",
+      "onboard_time": 1702989995,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203751,
@@ -2049,6 +2137,14 @@
       "onboard_time": 1702953280,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193861,
+      "num": 193861,
+      "word": "鸣龙少年",
+      "onboard_time": 1702991137,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 193158,
@@ -2203,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179644,
+      "num": 179644,
+      "word": "诱发红斑狼疮的因素",
+      "onboard_time": 1702991980,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179622,
       "num": 179622,
       "word": "地震后老师怕学生冻坏陪着跳操",
@@ -2217,22 +2321,6 @@
       "onboard_time": 1702984237,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177273,
-      "num": 177273,
-      "word": "甘肃及青海震区全部恢复供电",
-      "onboard_time": 1702990118,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176992,
-      "num": 176992,
-      "word": "冰雪大世界 免费项目",
-      "onboard_time": 1702989995,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176291,
@@ -2641,14 +2729,6 @@
       "onboard_time": 1702875998,
       "rank": 43,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 122185,
-      "num": 1110603,
-      "word": "向地震灾区下达2.5亿元中央预算内投资",
-      "onboard_time": 1702989217,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114914,
