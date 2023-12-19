@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/17 00:21:27 ~ 2023/12/20 04:34:07
+本榜单时间：2023/12/17 00:21:27 ~ 2023/12/20 05:13:17
 </p>
 </blockquote>
 <p>
@@ -6711,6 +6711,12 @@ Man姐 猎杀时刻（热度：128371）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%BC%AA%E7%B2%97%E7%B2%AE%E4%BC%9A%E8%AE%A9%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23" target="weibo">
+这些伪粗粮会让血糖飙升（热度：25055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E6%8B%AF%E6%95%91%E9%9D%A2%E5%AD%90%E5%A1%8C%E6%88%BF%23" target="weibo">
 如何拯救面子塌房（热度：20866）
 </a>
@@ -6765,8 +6771,8 @@ Man姐 猎杀时刻（热度：128371）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E4%BC%AA%E7%B2%97%E7%B2%AE%E4%BC%9A%E8%AE%A9%E8%A1%80%E7%B3%96%E9%A3%99%E5%8D%87%23" target="weibo">
-这些伪粗粮会让血糖飙升（热度：11222）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E8%87%B4%E7%8C%9D%E6%AD%BB%E7%9A%847%E4%B8%AA%E5%B8%B8%E8%A7%81%E8%AF%B1%E5%9B%A0%23" target="weibo">
+导致猝死的7个常见诱因（热度：12644）
 </a>
 </li>
 
