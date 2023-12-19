@@ -1,0 +1,410 @@
+{
+  "runTime": 1702963027961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5988981,
+        "num": 7238981,
+        "word": "甘肃地震已致118人遇难",
+        "onboard_time": 1702960666,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325709,
+        "num": 1325709,
+        "word": "喜马拉雅崩了",
+        "onboard_time": 1702959766,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154162,
+        "num": 1010735,
+        "word": "明年经济工作这几个发力点要读懂",
+        "onboard_time": 1702957902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920578,
+        "num": 920578,
+        "word": "母子吞下54个藏毒避孕套入境澳门被捕",
+        "onboard_time": 1702950876,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800410,
+        "num": 800410,
+        "word": "新疆地震",
+        "onboard_time": 1702951238,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748320,
+        "num": 748320,
+        "word": "国内适合年轻人躺平的城市",
+        "onboard_time": 1702960368,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 624964,
+        "num": 624964,
+        "word": "学校回应地震时宿舍门不开",
+        "onboard_time": 1702955139,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591564,
+        "num": 591564,
+        "word": "山东2名幼儿园女老师出租房内遇害",
+        "onboard_time": 1702945910,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488088,
+        "num": 488088,
+        "word": "甘肃地震",
+        "onboard_time": 1702915732,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474648,
+        "num": 474648,
+        "word": "甘肃地震亲历者说逃生后手和腿一直在抖",
+        "onboard_time": 1702958021,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1941715,
+        "num": 470858,
+        "word": "刘宇宁 换脸",
+        "onboard_time": 1702956762,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1329613,
+        "num": 465855,
+        "word": "吴青峰失声",
+        "onboard_time": 1702958746,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 806325,
+        "num": 464463,
+        "word": "林心如回应霍建华婚后很少拍戏",
+        "onboard_time": 1702959463,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669322,
+        "num": 455245,
+        "word": "多位艺人明星向甘肃地震灾区进行捐赠",
+        "onboard_time": 1702961743,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113098,
+        "num": 450717,
+        "word": "饿了么回应星巴克免单属实",
+        "onboard_time": 1702962043,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 571308,
+        "num": 447991,
+        "word": "刘诗诗骑马戏 删没了",
+        "onboard_time": 1702959406,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548627,
+        "num": 444774,
+        "word": "谢楠看刘亦菲的眼神",
+        "onboard_time": 1702949202,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440529,
+        "num": 440529,
+        "word": "林宥嘉 恋爱脑",
+        "onboard_time": 1702959282,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365260,
+        "num": 365260,
+        "word": "地震时女子带孩子逃生偶遇消防员丈夫出警",
+        "onboard_time": 1702962043,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357335,
+        "num": 357335,
+        "word": "陈建州告大牙案败诉",
+        "onboard_time": 1702956821,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335291,
+        "num": 335291,
+        "word": "男子拆快递发现全是现金慌忙报警",
+        "onboard_time": 1702962166,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326405,
+        "num": 326405,
+        "word": "李同光 墓志铭",
+        "onboard_time": 1702961505,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310014,
+        "num": 310014,
+        "word": "女生正过18岁生日下1秒地震发生",
+        "onboard_time": 1702955381,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299843,
+        "num": 299843,
+        "word": "公租房小区被曝停放多辆豪车",
+        "onboard_time": 1702962282,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291525,
+        "num": 291525,
+        "word": "专家分析甘肃地震致重大人员伤亡原因",
+        "onboard_time": 1702959525,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280183,
+        "num": 280183,
+        "word": "常华森高考610",
+        "onboard_time": 1702947227,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253356,
+        "num": 253356,
+        "word": "权志龙吸毒无嫌疑结案",
+        "onboard_time": 1702957902,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274012,
+        "num": 252896,
+        "word": "一念关山 崩人设",
+        "onboard_time": 1702943739,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251788,
+        "num": 251788,
+        "word": "甘肃6.2级地震新闻发布会",
+        "onboard_time": 1702948425,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246162,
+        "num": 246162,
+        "word": "我不要新妈就要你这个妈",
+        "onboard_time": 1702956580,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 340802,
+        "num": 241506,
+        "word": "药店不会主动推的中成药",
+        "onboard_time": 1702962763,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230263,
+        "num": 230263,
+        "word": "常华森 内娱第一个直播讲高数的明星",
+        "onboard_time": 1702943319,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227467,
+        "num": 227467,
+        "word": "猝死的人都有的规律",
+        "onboard_time": 1702945788,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207202,
+        "num": 207202,
+        "word": "余承恩演饶雪漫新剧男主",
+        "onboard_time": 1702958502,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200791,
+        "num": 200791,
+        "word": "一念关山 全死了",
+        "onboard_time": 1702904134,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192089,
+        "num": 192089,
+        "word": "请社会志愿者和车辆等不要前往震区",
+        "onboard_time": 1702959344,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191215,
+        "num": 191215,
+        "word": "狗狗带主人刚跑出去收到地震预警",
+        "onboard_time": 1702958324,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188637,
+        "num": 188637,
+        "word": "内娱嫂子是什么感觉",
+        "onboard_time": 1702947466,
+        "rank": 37,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 185087,
+        "num": 185087,
+        "word": "妈妈就是最好的搭子",
+        "onboard_time": 1702961682,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181400,
+        "num": 181400,
+        "word": "甘肃积石山接受资金和物资捐赠",
+        "onboard_time": 1702962880,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178608,
+        "num": 178608,
+        "word": "男子备300床被子连夜赶往积石山",
+        "onboard_time": 1702951902,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176265,
+        "num": 176265,
+        "word": "两部门向甘肃青海预拨2亿元救灾资金",
+        "onboard_time": 1702960368,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175097,
+        "num": 175097,
+        "word": "杨紫 立体玫瑰黑纱长裙",
+        "onboard_time": 1702953223,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172732,
+        "num": 172732,
+        "word": "李国庆评孟羽童被开除",
+        "onboard_time": 1702951364,
+        "rank": 43,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 165450,
+        "num": 165450,
+        "word": "甘肃震区男孩向救援警车敬礼",
+        "onboard_time": 1702961026,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160938,
+        "num": 160938,
+        "word": "甘肃应急发布救援需求公告",
+        "onboard_time": 1702958746,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155981,
+        "num": 155981,
+        "word": "俞敏洪称将为董宇辉成立独立工作室",
+        "onboard_time": 1702956164,
+        "rank": 46,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 153941,
+        "num": 153941,
+        "word": "教科书上女士们的B面",
+        "onboard_time": 1702961624,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 153929,
+        "num": 153929,
+        "word": "教体局工作人员回应2名女幼师遇害",
+        "onboard_time": 1702958924,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149955,
+        "num": 149955,
+        "word": "浙江幸运小狗去甘肃救人了",
+        "onboard_time": 1702962941,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃积石山地震作出重要指示#"
+    }
+  }
+}
