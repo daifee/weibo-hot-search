@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703020397826,
+  "endTime": 1703021639117,
   "band_list": [
     {
       "raw_hot": 2130008,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112225,
+      "num": 61702,
+      "word": "很久没回国的人回国后",
+      "onboard_time": 1702991258,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111838,
       "num": 111838,
       "word": "鸿星尔克直播间回应捐款",
@@ -417,14 +425,6 @@
       "onboard_time": 1702995883,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82128,
-      "num": 61702,
-      "word": "很久没回国的人回国后",
-      "onboard_time": 1702991258,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 81433,
@@ -459,6 +459,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 38298,
+      "num": 35059,
+      "word": "这些伪粗粮会让血糖飙升",
+      "onboard_time": 1703017934,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34086,
       "num": 452101,
       "word": "甘肃加油青海加油",
@@ -467,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25055,
-      "num": 23494,
-      "word": "这些伪粗粮会让血糖飙升",
-      "onboard_time": 1703017934,
-      "rank": 49,
+      "raw_hot": 32362,
+      "num": 32362,
+      "word": "导致猝死的7个常见诱因",
+      "onboard_time": 1703019973,
+      "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 18188,
+      "num": 18188,
+      "word": "甘肃积石山6.2级地震现场实拍",
+      "onboard_time": 1703020754,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16153,
@@ -483,20 +499,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14993,
+      "raw_hot": 15268,
       "num": 19301,
       "word": "小米汽车",
       "onboard_time": 1703014274,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 12644,
-      "num": 14506,
-      "word": "导致猝死的7个常见诱因",
-      "onboard_time": 1703019973,
-      "rank": 48,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
