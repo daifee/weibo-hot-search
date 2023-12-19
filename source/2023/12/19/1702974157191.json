@@ -1,0 +1,410 @@
+{
+  "runTime": 1702974157191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2214733,
+        "num": 2214733,
+        "word": "用户称地震时7部苹果手机均无预警",
+        "onboard_time": 1702968761,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1314698,
+        "num": 1314698,
+        "word": "甘肃地震已致118人遇难",
+        "onboard_time": 1702960666,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49356,
+        "num": 1235371,
+        "word": "明年经济工作这几个发力点要读懂",
+        "onboard_time": 1702957902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195791,
+        "num": 1195791,
+        "word": "鸿星尔克又捐了2000万",
+        "onboard_time": 1702964256,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035114,
+        "num": 1035114,
+        "word": "江平去世",
+        "onboard_time": 1702964197,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659019,
+        "num": 659019,
+        "word": "体检报告要学会自己看",
+        "onboard_time": 1702971696,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 596282,
+        "num": 596282,
+        "word": "地震时女子带孩子逃生偶遇消防员丈夫出警",
+        "onboard_time": 1702962043,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516238,
+        "num": 516238,
+        "word": "甘肃一酥饼店连夜做5000个饼支援灾区",
+        "onboard_time": 1702969659,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502816,
+        "num": 502816,
+        "word": "新疆地震",
+        "onboard_time": 1702951238,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413712,
+        "num": 413712,
+        "word": "陈幸同 看手机是回顾技术要点",
+        "onboard_time": 1702969778,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1836727,
+        "num": 413322,
+        "word": "张译拒跳科目三",
+        "onboard_time": 1702968517,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1542423,
+        "num": 406831,
+        "word": "一闪一闪亮星星 退票率",
+        "onboard_time": 1702969359,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 604242,
+        "num": 402580,
+        "word": "他说了什么 蝴蝶",
+        "onboard_time": 1702972475,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530077,
+        "num": 396697,
+        "word": "刘宇宁 换脸",
+        "onboard_time": 1702956762,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506034,
+        "num": 392103,
+        "word": "多位艺人明星向甘肃地震灾区进行捐赠",
+        "onboard_time": 1702961743,
+        "rank": 14,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 444004,
+        "num": 389872,
+        "word": "张小斐 北京电视艺术家协会副主席",
+        "onboard_time": 1702972296,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387256,
+        "num": 387256,
+        "word": "高途CEO个人向甘肃捐款100万",
+        "onboard_time": 1702972656,
+        "rank": 16,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 350996,
+        "num": 350996,
+        "word": "陈幸同",
+        "onboard_time": 1702971336,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305934,
+        "num": 305934,
+        "word": "无损音乐 智商税",
+        "onboard_time": 1702971938,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 278807,
+        "num": 278807,
+        "word": "Alex是大叔",
+        "onboard_time": 1702973979,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 989514,
+        "num": 278758,
+        "word": "董明珠曾建议立法对员工跳槽收培训费",
+        "onboard_time": 1702967563,
+        "rank": 20,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 370587,
+        "num": 278581,
+        "word": "林心如 霍建华没胖过",
+        "onboard_time": 1702973433,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347382,
+        "num": 278548,
+        "word": "李国庆称孟羽童做第二职业创收很正常",
+        "onboard_time": 1702973917,
+        "rank": 22,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 278378,
+        "num": 278378,
+        "word": "吴青峰失声",
+        "onboard_time": 1702958746,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311490,
+        "num": 276623,
+        "word": "4种食物是尿毒症帮凶",
+        "onboard_time": 1702965699,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283313,
+        "num": 274535,
+        "word": "董明珠称十几年员工跳槽公司应获赔",
+        "onboard_time": 1702973979,
+        "rank": 25,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 269291,
+        "num": 269291,
+        "word": "浙江幸运小狗去甘肃救人了",
+        "onboard_time": 1702962941,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265106,
+        "num": 265106,
+        "word": "祈福甘肃愿平安",
+        "onboard_time": 1702973315,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263008,
+        "num": 263008,
+        "word": "孙颖莎世排第一8550分",
+        "onboard_time": 1702967918,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262092,
+        "num": 262092,
+        "word": "董明珠称年轻人不该以自我为中心",
+        "onboard_time": 1702964737,
+        "rank": 29,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 241308,
+        "num": 241308,
+        "word": "林心如回应霍建华婚后很少拍戏",
+        "onboard_time": 1702959463,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235930,
+        "num": 235930,
+        "word": "捐款",
+        "onboard_time": 1702965517,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234194,
+        "num": 234194,
+        "word": "谢楠看刘亦菲的眼神",
+        "onboard_time": 1702949202,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233235,
+        "num": 233235,
+        "word": "男子拆快递发现全是现金慌忙报警",
+        "onboard_time": 1702962166,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227272,
+        "num": 227272,
+        "word": "王鹤棣田曦薇背影照",
+        "onboard_time": 1702967563,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226095,
+        "num": 226095,
+        "word": "NONO被控性骚扰案不起诉",
+        "onboard_time": 1702973617,
+        "rank": 35,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 219085,
+        "num": 219085,
+        "word": "国内适合年轻人躺平的城市",
+        "onboard_time": 1702960368,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218124,
+        "num": 218124,
+        "word": "杨紫 造型师",
+        "onboard_time": 1702973917,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201439,
+        "num": 201439,
+        "word": "母子吞下54个藏毒避孕套入境澳门被捕",
+        "onboard_time": 1702950876,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200094,
+        "num": 200094,
+        "word": "公租房小区被曝停放多辆豪车",
+        "onboard_time": 1702962282,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182328,
+        "num": 182328,
+        "word": "巨蟹座为什么跟你分手",
+        "onboard_time": 1702967260,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182056,
+        "num": 182056,
+        "word": "西部战区一架运20已抵达甘肃",
+        "onboard_time": 1702964021,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178308,
+        "num": 178308,
+        "word": "一念关山 原剧本",
+        "onboard_time": 1702965878,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177118,
+        "num": 177118,
+        "word": "郭敬明又拍出我爱看的剧情了",
+        "onboard_time": 1702974033,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168267,
+        "num": 168267,
+        "word": "周一围朱丹 纯情小习惯",
+        "onboard_time": 1702969119,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164448,
+        "num": 164448,
+        "word": "早知道救一下了",
+        "onboard_time": 1702973979,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162747,
+        "num": 162747,
+        "word": "甘肃需建筑物倒塌救援力量300余人",
+        "onboard_time": 1702971276,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159005,
+        "num": 159005,
+        "word": "脸部瑜伽淡化法令纹",
+        "onboard_time": 1702973377,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156698,
+        "num": 156698,
+        "word": "甘肃6.2级地震新闻发布会",
+        "onboard_time": 1702948425,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154230,
+        "num": 154230,
+        "word": "多家企业及慈善基金会驰援灾区",
+        "onboard_time": 1702973617,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃积石山地震作出重要指示#"
+    }
+  }
+}
