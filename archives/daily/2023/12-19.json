@@ -1,6 +1,6 @@
 {
   "startTime": 1702916598924,
-  "endTime": 1702956874916,
+  "endTime": 1702959696437,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -88,6 +88,14 @@
       "word": "一念关山 全死了",
       "onboard_time": 1702904134,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2218115,
+      "num": 390565,
+      "word": "刘宇宁 换脸",
+      "onboard_time": 1702956762,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1086750,
+      "num": 1086750,
+      "word": "学校回应地震时宿舍门不开",
+      "onboard_time": 1702955139,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1085408,
       "num": 627198,
       "word": "常华森高考610",
@@ -227,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 781179,
-      "num": 781179,
-      "word": "学校回应地震时宿舍门不开",
-      "onboard_time": 1702955139,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 774085,
       "num": 774085,
       "word": "甘肃6.2级地震新闻发布会",
@@ -257,6 +265,14 @@
       "onboard_time": 1702938437,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705933,
+      "num": 386595,
+      "word": "吴青峰失声",
+      "onboard_time": 1702958746,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 693647,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563756,
+      "num": 414429,
+      "word": "陈建州告大牙案败诉",
+      "onboard_time": 1702956821,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 562475,
       "num": 562475,
       "word": "李同光发现二胎是妹妹",
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541070,
+      "num": 541070,
+      "word": "女生正过18岁生日下1秒地震发生",
+      "onboard_time": 1702955381,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 538319,
       "num": 538319,
       "word": "哈登打疯了",
@@ -369,14 +401,6 @@
       "onboard_time": 1702916154,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 524643,
-      "num": 414429,
-      "word": "陈建州告大牙案败诉",
-      "onboard_time": 1702956821,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 514218,
@@ -515,12 +539,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 396787,
-      "num": 396787,
-      "word": "女生正过18岁生日下1秒地震发生",
-      "onboard_time": 1702955381,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 381016,
+      "num": 381016,
+      "word": "权志龙吸毒无嫌疑结案",
+      "onboard_time": 1702957902,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 376185,
@@ -545,6 +569,14 @@
       "onboard_time": 1702953223,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 348994,
+      "num": 348994,
+      "word": "甘肃地震亲历者说逃生后手和腿一直在抖",
+      "onboard_time": 1702958021,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345944,
@@ -603,6 +635,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 298794,
+      "num": 293261,
+      "word": "我不要新妈就要你这个妈",
+      "onboard_time": 1702956580,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298557,
       "num": 298557,
       "word": "刘宇宁 一念关山有你们了不起",
@@ -641,6 +681,14 @@
       "onboard_time": 1702912596,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278861,
+      "num": 278861,
+      "word": "余承恩演饶雪漫新剧男主",
+      "onboard_time": 1702958502,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 276863,
@@ -723,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249593,
+      "num": 249593,
+      "word": "甘肃应急发布救援需求公告",
+      "onboard_time": 1702958746,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244227,
       "num": 244227,
       "word": "王菲 好美的精神状态",
@@ -736,6 +792,14 @@
       "word": "甘肃地震亲历者讲述逃生细节",
       "onboard_time": 1702942172,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243227,
+      "num": 243227,
+      "word": "狗狗带主人刚跑出去收到地震预警",
+      "onboard_time": 1702958324,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -761,6 +825,14 @@
       "onboard_time": 1702954419,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240471,
+      "num": 240471,
+      "word": "俞敏洪称将为董宇辉成立独立工作室",
+      "onboard_time": 1702956164,
+      "rank": 25,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 239498,
@@ -795,12 +867,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225902,
-      "num": 225902,
-      "word": "俞敏洪称将为董宇辉成立独立工作室",
-      "onboard_time": 1702956164,
-      "rank": 25,
-      "category": "互联网,网红"
+      "raw_hot": 227090,
+      "num": 227090,
+      "word": "部队官兵1000余人赶赴灾区",
+      "onboard_time": 1702956099,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223397,
+      "num": 223397,
+      "word": "林心如回应霍建华婚后很少拍戏",
+      "onboard_time": 1702959463,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 220967,
+      "num": 220967,
+      "word": "林宥嘉 恋爱脑",
+      "onboard_time": 1702959282,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 219518,
@@ -835,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212322,
+      "num": 212322,
+      "word": "甘肃地震原震区仍可能发生强余震",
+      "onboard_time": 1702957298,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211010,
       "num": 211010,
       "word": "原神",
@@ -851,12 +947,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204182,
-      "num": 204182,
-      "word": "部队官兵1000余人赶赴灾区",
-      "onboard_time": 1702956099,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 204884,
+      "num": 204884,
+      "word": "刘诗诗骑马戏 删没了",
+      "onboard_time": 1702959406,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 203607,
@@ -865,6 +961,14 @@
       "onboard_time": 1702950638,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195951,
+      "num": 195951,
+      "word": "请社会志愿者和车辆等不要前往震区",
+      "onboard_time": 1702959344,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194163,
@@ -899,6 +1003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187890,
+      "num": 187890,
+      "word": "这个真没办法给南方宝宝邮寄",
+      "onboard_time": 1702956939,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186821,
       "num": 186821,
       "word": "道枝骏佑金发",
@@ -913,6 +1025,14 @@
       "onboard_time": 1702954479,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177924,
+      "num": 177924,
+      "word": "甘肃地震救援最大的困难是低温",
+      "onboard_time": 1702958804,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176291,
@@ -947,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172011,
+      "num": 172011,
+      "word": "专家分析甘肃地震致重大人员伤亡原因",
+      "onboard_time": 1702959525,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171492,
       "num": 171492,
       "word": "WBG官宣新赛季大名单",
@@ -955,12 +1083,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170515,
-      "num": 170515,
-      "word": "我不要新妈就要你这个妈",
-      "onboard_time": 1702956580,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 170176,
+      "num": 170176,
+      "word": "2022年我国在学研究生365万人",
+      "onboard_time": 1702958569,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 168953,
+      "num": 168953,
+      "word": "火炉棉褥等应急物资紧急调运灾区",
+      "onboard_time": 1702959225,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168095,
@@ -971,20 +1107,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167515,
-      "num": 167515,
-      "word": "刘宇宁 换脸",
-      "onboard_time": 1702956762,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166467,
       "num": 166467,
       "word": "林一 倒拔垂杨柳",
       "onboard_time": 1702897891,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164204,
+      "num": 164204,
+      "word": "当主人假装不认识狗狗时",
+      "onboard_time": 1702956401,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 163802,
@@ -1009,6 +1145,14 @@
       "onboard_time": 1702951422,
       "rank": 44,
       "category": "科学科普,社会新闻"
+    },
+    {
+      "raw_hot": 163138,
+      "num": 163138,
+      "word": "甘肃对通往灾区道路实施交通管制",
+      "onboard_time": 1702959643,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162928,
@@ -1051,6 +1195,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 149588,
+      "num": 149588,
+      "word": "教体局工作人员回应2名女幼师遇害",
+      "onboard_time": 1702958924,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148079,
       "num": 148079,
       "word": "店主震后收留60名市民避难取暖",
@@ -1065,14 +1217,6 @@
       "onboard_time": 1702942052,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143056,
-      "num": 143056,
-      "word": "当主人假装不认识狗狗时",
-      "onboard_time": 1702956401,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 142709,
@@ -1192,6 +1336,14 @@
       "word": "猫咪背上天生有个猫爪印",
       "onboard_time": 1702942353,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89522,
+      "num": 1628039,
+      "word": "明年经济工作这几个发力点要读懂",
+      "onboard_time": 1702957902,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

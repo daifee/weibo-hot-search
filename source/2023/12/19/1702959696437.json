@@ -1,0 +1,410 @@
+{
+  "runTime": 1702959696437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8431191,
+        "num": 8431191,
+        "word": "甘肃地震已致111人遇难",
+        "onboard_time": 1702944162,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2212355,
+        "num": 2212355,
+        "word": "母子吞下54个藏毒避孕套入境澳门被捕",
+        "onboard_time": 1702950876,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89522,
+        "num": 1628039,
+        "word": "明年经济工作这几个发力点要读懂",
+        "onboard_time": 1702957902,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086750,
+        "num": 1086750,
+        "word": "学校回应地震时宿舍门不开",
+        "onboard_time": 1702955139,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992113,
+        "num": 992113,
+        "word": "新疆地震",
+        "onboard_time": 1702951238,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669422,
+        "num": 669422,
+        "word": "甘肃地震",
+        "onboard_time": 1702915732,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659170,
+        "num": 659170,
+        "word": "山东2名幼儿园女老师出租房内遇害",
+        "onboard_time": 1702945910,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541070,
+        "num": 541070,
+        "word": "女生正过18岁生日下1秒地震发生",
+        "onboard_time": 1702955381,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416594,
+        "num": 416594,
+        "word": "猝死的人都有的规律",
+        "onboard_time": 1702945788,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 390599,
+        "num": 390599,
+        "word": "甘肃6.2级地震新闻发布会",
+        "onboard_time": 1702948425,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2218115,
+        "num": 390565,
+        "word": "刘宇宁 换脸",
+        "onboard_time": 1702956762,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 787644,
+        "num": 388489,
+        "word": "谢楠看刘亦菲的眼神",
+        "onboard_time": 1702949202,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 705933,
+        "num": 386595,
+        "word": "吴青峰失声",
+        "onboard_time": 1702958746,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563756,
+        "num": 383055,
+        "word": "陈建州告大牙案败诉",
+        "onboard_time": 1702956821,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464441,
+        "num": 381285,
+        "word": "一念关山 崩人设",
+        "onboard_time": 1702943739,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381016,
+        "num": 381016,
+        "word": "权志龙吸毒无嫌疑结案",
+        "onboard_time": 1702957902,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351953,
+        "num": 351953,
+        "word": "航拍甘肃地震震中画面",
+        "onboard_time": 1702954060,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348994,
+        "num": 348994,
+        "word": "甘肃地震亲历者说逃生后手和腿一直在抖",
+        "onboard_time": 1702958021,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305003,
+        "num": 305003,
+        "word": "内娱嫂子是什么感觉",
+        "onboard_time": 1702947466,
+        "rank": 18,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 297622,
+        "num": 297622,
+        "word": "哈登打疯了",
+        "onboard_time": 1702953037,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298794,
+        "num": 293261,
+        "word": "我不要新妈就要你这个妈",
+        "onboard_time": 1702956580,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286662,
+        "num": 286662,
+        "word": "常华森 内娱第一个直播讲高数的明星",
+        "onboard_time": 1702943319,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278861,
+        "num": 278861,
+        "word": "余承恩演饶雪漫新剧男主",
+        "onboard_time": 1702958502,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265124,
+        "num": 265124,
+        "word": "一念关山 全死了",
+        "onboard_time": 1702904134,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249593,
+        "num": 249593,
+        "word": "甘肃应急发布救援需求公告",
+        "onboard_time": 1702958746,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244070,
+        "num": 244070,
+        "word": "杨紫 立体玫瑰黑纱长裙",
+        "onboard_time": 1702953223,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 272838,
+        "num": 244006,
+        "word": "常华森高考610",
+        "onboard_time": 1702947227,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243227,
+        "num": 243227,
+        "word": "狗狗带主人刚跑出去收到地震预警",
+        "onboard_time": 1702958324,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240471,
+        "num": 240471,
+        "word": "俞敏洪称将为董宇辉成立独立工作室",
+        "onboard_time": 1702956164,
+        "rank": 28,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 227090,
+        "num": 227090,
+        "word": "部队官兵1000余人赶赴灾区",
+        "onboard_time": 1702956099,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223397,
+        "num": 223397,
+        "word": "林心如回应霍建华婚后很少拍戏",
+        "onboard_time": 1702959463,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220967,
+        "num": 220967,
+        "word": "林宥嘉 恋爱脑",
+        "onboard_time": 1702959282,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220169,
+        "num": 220169,
+        "word": "李国庆评孟羽童被开除",
+        "onboard_time": 1702951364,
+        "rank": 32,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 212322,
+        "num": 212322,
+        "word": "甘肃地震原震区仍可能发生强余震",
+        "onboard_time": 1702957298,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204884,
+        "num": 204884,
+        "word": "刘诗诗骑马戏 删没了",
+        "onboard_time": 1702959406,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195951,
+        "num": 195951,
+        "word": "请社会志愿者和车辆等不要前往震区",
+        "onboard_time": 1702959344,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187890,
+        "num": 187890,
+        "word": "这个真没办法给南方宝宝邮寄",
+        "onboard_time": 1702956939,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181335,
+        "num": 181335,
+        "word": "垫底辣孩回应男子自称他师兄",
+        "onboard_time": 1702945607,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177924,
+        "num": 177924,
+        "word": "甘肃地震救援最大的困难是低温",
+        "onboard_time": 1702958804,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175197,
+        "num": 175197,
+        "word": "甄嬛传 卫临视角",
+        "onboard_time": 1702954419,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174849,
+        "num": 174849,
+        "word": "安陵容 睫毛膏",
+        "onboard_time": 1702949800,
+        "rank": 40,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 172011,
+        "num": 172011,
+        "word": "专家分析甘肃地震致重大人员伤亡原因",
+        "onboard_time": 1702959525,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1479798,
+        "num": 171773,
+        "word": "男子未考上编制复合被拒跳楼身亡",
+        "onboard_time": 1702950163,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170176,
+        "num": 170176,
+        "word": "2022年我国在学研究生365万人",
+        "onboard_time": 1702958569,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 168953,
+        "num": 168953,
+        "word": "火炉棉褥等应急物资紧急调运灾区",
+        "onboard_time": 1702959225,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164204,
+        "num": 164204,
+        "word": "当主人假装不认识狗狗时",
+        "onboard_time": 1702956401,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163138,
+        "num": 163138,
+        "word": "甘肃对通往灾区道路实施交通管制",
+        "onboard_time": 1702959643,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163084,
+        "num": 163084,
+        "word": "男子备300床被子连夜赶往积石山",
+        "onboard_time": 1702951902,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153840,
+        "num": 153840,
+        "word": "专家说柯南到渣男就是一线之差",
+        "onboard_time": 1702940483,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149588,
+        "num": 149588,
+        "word": "教体局工作人员回应2名女幼师遇害",
+        "onboard_time": 1702958924,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃积石山地震作出重要指示#"
+    }
+  }
+}
