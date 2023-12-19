@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/20 00:20:38 ~ 2023/12/20 02:18:18
+本榜单时间：2023/12/20 00:20:38 ~ 2023/12/20 02:34:07
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ B站跨晚 阵容（热度：118627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E4%B9%85%E6%B2%A1%E5%9B%9E%E5%9B%BD%E7%9A%84%E4%BA%BA%E5%9B%9E%E5%9B%BD%E5%90%8E%23" target="weibo">
 很久没回国的人回国后（热度：53876）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%B8%B8%E5%AE%A2%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8%23" target="weibo">
+冰雪大世界游客高喊退票（热度：50207）
 </a>
 </li>
 

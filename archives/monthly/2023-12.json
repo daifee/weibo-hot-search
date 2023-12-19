@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703009898648,
+  "endTime": 1703010847926,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -51209,6 +51209,14 @@
       "onboard_time": 1702661782,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50207,
+      "num": 50207,
+      "word": "冰雪大世界游客高喊退票",
+      "onboard_time": 1703010136,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50182,
