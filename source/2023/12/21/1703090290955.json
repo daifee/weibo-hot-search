@@ -1,0 +1,410 @@
+{
+  "runTime": 1703090290955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 579877,
+        "num": 579877,
+        "word": "ofo创始人戴威恐面临二次创业失败",
+        "onboard_time": 1703086833,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 568343,
+        "num": 568343,
+        "word": "冻到皮肤发红就要警惕了",
+        "onboard_time": 1703077297,
+        "rank": 1,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 54121,
+        "num": 462330,
+        "word": "青海为震区考研学生开通求助热线",
+        "onboard_time": 1703076995,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450253,
+        "num": 450253,
+        "word": "警方通报2男子烧烤店殴打女店员",
+        "onboard_time": 1703086174,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385749,
+        "num": 385749,
+        "word": "考公吧少年 团综",
+        "onboard_time": 1703074952,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358215,
+        "num": 358215,
+        "word": "Bin 恋爱",
+        "onboard_time": 1703085456,
+        "rank": 5,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 281246,
+        "num": 281246,
+        "word": "女子起诉父母不肯出钱给自己出国留学",
+        "onboard_time": 1703078195,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241168,
+        "num": 241168,
+        "word": "官方回应网传爱尔眼科医生捶击患者",
+        "onboard_time": 1703085156,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194355,
+        "num": 194355,
+        "word": "苹果手机估价近3000回收却给500",
+        "onboard_time": 1703079874,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192714,
+        "num": 192714,
+        "word": "甘肃积石山地震致134人遇难",
+        "onboard_time": 1703073757,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636117,
+        "num": 192496,
+        "word": "浏览器 杜海涛",
+        "onboard_time": 1703080358,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 617349,
+        "num": 192068,
+        "word": "女网红笑称甘肃地震和我有什么关系",
+        "onboard_time": 1703062414,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565031,
+        "num": 191985,
+        "word": "实在受不了冬天 冻死我了",
+        "onboard_time": 1703084798,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354532,
+        "num": 191428,
+        "word": "毛晓彤鼻子 鼻翼比例",
+        "onboard_time": 1703061336,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 344079,
+        "num": 191233,
+        "word": "中戏教授谈马嘉祺宋亚轩",
+        "onboard_time": 1703082336,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300391,
+        "num": 190831,
+        "word": "王安宇胡先煦你俩有点暧昧了",
+        "onboard_time": 1703084499,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289669,
+        "num": 190653,
+        "word": "微博之夜 投票",
+        "onboard_time": 1703069136,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281473,
+        "num": 190309,
+        "word": "创造营导师 路透",
+        "onboard_time": 1703076933,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260938,
+        "num": 189783,
+        "word": "董卿 撒贝宁同款表情",
+        "onboard_time": 1703085696,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255109,
+        "num": 189542,
+        "word": "权志龙YG正式分手",
+        "onboard_time": 1703068958,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224764,
+        "num": 189384,
+        "word": "辛芷蕾 姐没删放心",
+        "onboard_time": 1703077472,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207368,
+        "num": 188991,
+        "word": "水电全免房租减半意味着什么",
+        "onboard_time": 1703082702,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214946,
+        "num": 188697,
+        "word": "唐嫣被一把拽到C位",
+        "onboard_time": 1703070035,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193730,
+        "num": 188409,
+        "word": "微博之夜",
+        "onboard_time": 1703071174,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188114,
+        "num": 188114,
+        "word": "女主播剧烈咳嗽后大出血险没命",
+        "onboard_time": 1703073031,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179267,
+        "num": 179267,
+        "word": "搜救犬腿受伤血流不止仍坚持搜救",
+        "onboard_time": 1703088330,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173987,
+        "num": 173987,
+        "word": "TheShy改名",
+        "onboard_time": 1703073694,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172434,
+        "num": 172434,
+        "word": "王楚钦锡纸烫",
+        "onboard_time": 1703068776,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165005,
+        "num": 165005,
+        "word": "脱轨 男女主演技",
+        "onboard_time": 1703072433,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163430,
+        "num": 163430,
+        "word": "考研前一周才发现没报上名",
+        "onboard_time": 1703071594,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154021,
+        "num": 154021,
+        "word": "上车第一件事 锁车门",
+        "onboard_time": 1703084134,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150030,
+        "num": 150030,
+        "word": "景天紫萱重聚繁花",
+        "onboard_time": 1703084077,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126863,
+        "num": 126863,
+        "word": "林允儿柳智敏手势舞",
+        "onboard_time": 1703088151,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126691,
+        "num": 126691,
+        "word": "心中的古装剧Top1",
+        "onboard_time": 1703084678,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126290,
+        "num": 126290,
+        "word": "赵丽颖张若昀 在人间",
+        "onboard_time": 1703062775,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123870,
+        "num": 123870,
+        "word": "甘肃地震已转移安置87076人",
+        "onboard_time": 1703071536,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122835,
+        "num": 122835,
+        "word": "刘浩存 醉酒戏",
+        "onboard_time": 1703081137,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114163,
+        "num": 114163,
+        "word": "原神 绫华",
+        "onboard_time": 1703076453,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113203,
+        "num": 113203,
+        "word": "当日语生复习碰到考研人",
+        "onboard_time": 1703087314,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109929,
+        "num": 109929,
+        "word": "顺产描述",
+        "onboard_time": 1703074233,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109581,
+        "num": 109581,
+        "word": "甘肃",
+        "onboard_time": 1703070277,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99544,
+        "num": 99544,
+        "word": "蛋仔派对 皮肤",
+        "onboard_time": 1703081978,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97162,
+        "num": 97162,
+        "word": "女孩一年举报几十个猫贩子窝点",
+        "onboard_time": 1703069435,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95129,
+        "num": 95129,
+        "word": "小伙收到一条信息4个月狂减30斤",
+        "onboard_time": 1703068115,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94619,
+        "num": 94619,
+        "word": "一些很烧的猫猫",
+        "onboard_time": 1703083905,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92090,
+        "num": 92090,
+        "word": "为什么中年梗越来越火",
+        "onboard_time": 1703083905,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 90180,
+        "num": 90180,
+        "word": "阴阳师 700保底",
+        "onboard_time": 1703077592,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81035,
+        "num": 81035,
+        "word": "肖战古今角色台词",
+        "onboard_time": 1703080898,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76193,
+        "num": 76193,
+        "word": "难哄 班底",
+        "onboard_time": 1703071354,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75753,
+        "num": 75753,
+        "word": "妖怪狗",
+        "onboard_time": 1703089946,
+        "rank": 49,
+        "category": "电竞,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#一组数据见证救援力量#"
+    }
+  }
+}

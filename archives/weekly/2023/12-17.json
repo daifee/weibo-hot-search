@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703089286320,
+  "endTime": 1703090290955,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -2907,6 +2907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579877,
+      "num": 579877,
+      "word": "ofo创始人戴威恐面临二次创业失败",
+      "onboard_time": 1703086833,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 576193,
       "num": 576193,
       "word": "罗永浩 脱口秀",
@@ -2969,6 +2977,14 @@
       "onboard_time": 1702824829,
       "rank": 23,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 565031,
+      "num": 273335,
+      "word": "实在受不了冬天 冻死我了",
+      "onboard_time": 1703084798,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 564024,
@@ -3153,22 +3169,6 @@
       "onboard_time": 1702955381,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540854,
-      "num": 540854,
-      "word": "ofo创始人戴威恐面临二次创业失败",
-      "onboard_time": 1703086833,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 539171,
-      "num": 273335,
-      "word": "实在受不了冬天 冻死我了",
-      "onboard_time": 1703084798,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 538319,
@@ -11065,6 +11065,14 @@
       "onboard_time": 1702722221,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 75753,
+      "num": 75753,
+      "word": "妖怪狗",
+      "onboard_time": 1703089946,
+      "rank": 49,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 75130,
