@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703086453854,
+  "endTime": 1703089286320,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -12467,6 +12467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540854,
+      "num": 540854,
+      "word": "ofo创始人戴威恐面临二次创业失败",
+      "onboard_time": 1703086833,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 539985,
       "num": 539985,
       "word": "冯琳 主持人大赛",
@@ -12505,6 +12513,14 @@
       "onboard_time": 1702536633,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 539171,
+      "num": 273335,
+      "word": "实在受不了冬天 冻死我了",
+      "onboard_time": 1703084798,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 538807,
@@ -13105,6 +13121,14 @@
       "onboard_time": 1702996782,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520260,
+      "num": 520260,
+      "word": "警方通报2男子烧烤店殴打女店员",
+      "onboard_time": 1703086174,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520137,
@@ -22651,6 +22675,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 319908,
+      "num": 316643,
+      "word": "董卿 撒贝宁同款表情",
+      "onboard_time": 1703085696,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319901,
       "num": 319901,
       "word": "东方甄选人事任免被疑小编发布",
@@ -22921,14 +22953,6 @@
       "onboard_time": 1703041591,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316643,
-      "num": 316643,
-      "word": "董卿 撒贝宁同款表情",
-      "onboard_time": 1703085696,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 316637,
@@ -26985,14 +27009,6 @@
       "onboard_time": 1702861175,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273335,
-      "num": 273335,
-      "word": "实在受不了冬天 冻死我了",
-      "onboard_time": 1703084798,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 272996,
@@ -40979,6 +40995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183543,
+      "num": 183543,
+      "word": "搜救犬腿受伤血流不止仍坚持搜救",
+      "onboard_time": 1703088330,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183485,
       "num": 183485,
       "word": "东北i人和i人",
@@ -46059,14 +46083,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 153617,
-      "num": 153617,
-      "word": "警方通报2男子烧烤店殴打女店员",
-      "onboard_time": 1703086174,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153568,
       "num": 153568,
       "word": "边伯贤Love Again直拍",
@@ -49003,6 +49019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135000,
+      "num": 135000,
+      "word": "林允儿柳智敏手势舞",
+      "onboard_time": 1703088151,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134999,
       "num": 134999,
       "word": "出生15天的柴犬宝宝",
@@ -50009,6 +50033,14 @@
       "onboard_time": 1702451014,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126514,
+      "num": 126514,
+      "word": "当日语生复习碰到考研人",
+      "onboard_time": 1703087314,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 126495,
