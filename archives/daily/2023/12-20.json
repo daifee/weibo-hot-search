@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703045902250,
+  "endTime": 1703046841482,
   "band_list": [
     {
       "raw_hot": 2816195,
@@ -19,11 +19,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1640961,
-      "num": 1640961,
+      "raw_hot": 2111224,
+      "num": 2111224,
       "word": "甘肃震区煮不完的饺子和不灭的车灯",
       "onboard_time": 1703041113,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1868379,
+      "num": 1868379,
+      "word": "哈尔滨退票事件",
+      "onboard_time": 1703043936,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -83,16 +91,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1171632,
-      "num": 1171632,
-      "word": "哈尔滨退票事件",
-      "onboard_time": 1703043936,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1163494,
-      "num": 466240,
+      "num": 490339,
       "word": "年度歌手",
       "onboard_time": 1703042854,
       "rank": 25,
@@ -115,11 +115,27 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 886182,
-      "num": 886182,
+      "raw_hot": 960468,
+      "num": 960468,
       "word": "唐山一殡仪馆分高低档炉火化引质疑",
       "onboard_time": 1703043936,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921173,
+      "num": 476184,
+      "word": "穿完假领子后忘穿卫衣了",
+      "onboard_time": 1703044295,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 879025,
+      "num": 879025,
+      "word": "2名技校男生互相怂恿强奸醉酒女生获刑",
+      "onboard_time": 1703043213,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -161,14 +177,6 @@
       "onboard_time": 1702998762,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 757024,
-      "num": 455153,
-      "word": "2名技校男生互相怂恿强奸醉酒女生获刑",
-      "onboard_time": 1703043213,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 732383,
@@ -259,6 +267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 600977,
+      "num": 432992,
+      "word": "吴千语施伯雄中式婚服照",
+      "onboard_time": 1703044775,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 584852,
       "num": 584852,
       "word": "消防员已营救甘肃地震被困人员78人",
@@ -281,14 +297,6 @@
       "onboard_time": 1703042735,
       "rank": 24,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 571093,
-      "num": 253703,
-      "word": "穿完假领子后忘穿卫衣了",
-      "onboard_time": 1703044295,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 564672,
@@ -332,19 +340,11 @@
     },
     {
       "raw_hot": 550871,
-      "num": 334863,
+      "num": 369110,
       "word": "小伙辞掉1年只上200天的工作卖烧烤",
       "onboard_time": 1703036615,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548594,
-      "num": 432992,
-      "word": "吴千语施伯雄中式婚服照",
-      "onboard_time": 1703044775,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 525914,
@@ -459,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363486,
+      "num": 257475,
+      "word": "亚裔版肯豆妆",
+      "onboard_time": 1703046338,
+      "rank": 30,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 362370,
       "num": 362370,
       "word": "鸿星尔克又捐了2000万",
       "onboard_time": 1702964256,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339319,
+      "num": 339319,
+      "word": "马来西亚歌手许佳玲被粉丝杀害",
+      "onboard_time": 1703046763,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 338205,
@@ -619,6 +635,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 291683,
+      "num": 291683,
+      "word": "娜维娅 抽到了",
+      "onboard_time": 1703045796,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287803,
       "num": 287803,
       "word": "微博之夜 集卡",
@@ -761,6 +785,14 @@
       "onboard_time": 1703038892,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224322,
+      "num": 224322,
+      "word": "狗子麻药劲还没过就追着医生跑",
+      "onboard_time": 1703045496,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 217094,
@@ -955,14 +987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 167699,
-      "num": 167699,
-      "word": "娜维娅 抽到了",
-      "onboard_time": 1703045796,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 167262,
       "num": 167262,
       "word": "救灾物资多一分女性关爱",
@@ -1003,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156520,
+      "num": 156520,
+      "word": "积石山地震共记录到余震423次",
+      "onboard_time": 1703044113,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154800,
       "num": 154800,
       "word": "脱轨 校园剧情",
@@ -1011,12 +1043,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153907,
-      "num": 153907,
-      "word": "积石山地震共记录到余震423次",
-      "onboard_time": 1703044113,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 153939,
+      "num": 153939,
+      "word": "90后独臂爸爸炒粉撑起女儿一片天",
+      "onboard_time": 1703045439,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 149254,
@@ -1041,22 +1073,6 @@
       "onboard_time": 1702982196,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147066,
-      "num": 147066,
-      "word": "90后独臂爸爸炒粉撑起女儿一片天",
-      "onboard_time": 1703045439,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
-      "raw_hot": 146245,
-      "num": 146245,
-      "word": "狗子麻药劲还没过就追着医生跑",
-      "onboard_time": 1703045496,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 143280,
@@ -1203,7 +1219,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 51663,
+      "raw_hot": 62282,
       "num": 448505,
       "word": "原神4.3版本更新 娜维娅",
       "onboard_time": 1703044838,
