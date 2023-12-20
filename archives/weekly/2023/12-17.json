@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703046841482,
+  "endTime": 1703049238792,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -185,6 +185,14 @@
       "onboard_time": 1702816308,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2829379,
+      "num": 339319,
+      "word": "马来西亚歌手许佳玲被粉丝杀害",
+      "onboard_time": 1703046763,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 2819842,
@@ -443,6 +451,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2061050,
+      "num": 1868379,
+      "word": "哈尔滨退票事件",
+      "onboard_time": 1703043936,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1948341,
       "num": 1948341,
       "word": "佟丽娅入股陈思诚公司",
@@ -465,14 +481,6 @@
       "onboard_time": 1702902396,
       "rank": 23,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 1868379,
-      "num": 1868379,
-      "word": "哈尔滨退票事件",
-      "onboard_time": 1703043936,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1861779,
@@ -1203,6 +1211,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1043168,
+      "num": 476184,
+      "word": "穿完假领子后忘穿卫衣了",
+      "onboard_time": 1703044295,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1030581,
       "num": 1030581,
       "word": "易烊千玺新片演脑瘫",
@@ -1379,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 953924,
+      "num": 879025,
+      "word": "2名技校男生互相怂恿强奸醉酒女生获刑",
+      "onboard_time": 1703043213,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 943525,
       "num": 874308,
       "word": "迪丽热巴 芭比公主",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1702977400,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 921173,
-      "num": 476184,
-      "word": "穿完假领子后忘穿卫衣了",
-      "onboard_time": 1703044295,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 912819,
@@ -1513,14 +1529,6 @@
       "onboard_time": 1702974033,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 879025,
-      "num": 879025,
-      "word": "2名技校男生互相怂恿强奸醉酒女生获刑",
-      "onboard_time": 1703043213,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 877296,
@@ -3363,6 +3371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457360,
+      "num": 457360,
+      "word": "恋爱脑 工作脑",
+      "onboard_time": 1703047600,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 457054,
       "num": 457054,
       "word": "受灾群众如何度过零下14度寒冷冬夜",
@@ -4219,6 +4235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353728,
+      "num": 259640,
+      "word": "吴千语施伯雄官宣结婚",
+      "onboard_time": 1703048977,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351632,
       "num": 351632,
       "word": "雪天护士把早产婴儿贴胸口一路护送",
@@ -4353,14 +4377,6 @@
       "onboard_time": 1702951902,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339319,
-      "num": 339319,
-      "word": "马来西亚歌手许佳玲被粉丝杀害",
-      "onboard_time": 1703046763,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 339260,
@@ -4787,6 +4803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306715,
+      "num": 214056,
+      "word": "小猫真的很需要这个垫子",
+      "onboard_time": 1703047899,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305934,
       "num": 305934,
       "word": "无损音乐 智商税",
@@ -5081,6 +5105,14 @@
       "onboard_time": 1702776333,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290718,
+      "num": 290718,
+      "word": "与恶魔有约 宋江造型分析",
+      "onboard_time": 1703047360,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 290711,
@@ -6843,6 +6875,14 @@
       "category": "演出,美妆"
     },
     {
+      "raw_hot": 204098,
+      "num": 204098,
+      "word": "KPL 不放票",
+      "onboard_time": 1703046999,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204075,
       "num": 439084,
       "word": "有证据表明猫咪在这滑倒了",
@@ -7595,6 +7635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183482,
+      "num": 183482,
+      "word": "请搜救的社会应急力量有序撤离",
+      "onboard_time": 1703048916,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183422,
       "num": 183422,
       "word": "MMA封面 山海经",
@@ -7609,6 +7657,14 @@
       "onboard_time": 1702783952,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183194,
+      "num": 183194,
+      "word": "一直娱 签售会",
+      "onboard_time": 1703047541,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182828,
@@ -8091,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165840,
+      "num": 165840,
+      "word": "赶集摊贩500件棉衣放弃出售全捐出",
+      "onboard_time": 1703048380,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165450,
       "num": 165450,
       "word": "甘肃震区男孩向救援警车敬礼",
@@ -8233,6 +8297,14 @@
       "onboard_time": 1702774050,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161265,
+      "num": 161265,
+      "word": "郭士强说北京假摔太多",
+      "onboard_time": 1703048857,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 160706,
@@ -8905,6 +8977,14 @@
       "onboard_time": 1702826442,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125641,
+      "num": 125641,
+      "word": "BABYMONSTER圣诞节cover",
+      "onboard_time": 1703049214,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125414,
@@ -9697,6 +9777,14 @@
       "onboard_time": 1702846752,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24431,
+      "num": 483120,
+      "word": "14亿多同胞是你们的坚强后盾",
+      "onboard_time": 1703049038,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23184,
