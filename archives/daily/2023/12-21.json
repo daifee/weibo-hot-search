@@ -1,6 +1,6 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703108065965,
+  "endTime": 1703110592610,
   "band_list": [
     {
       "raw_hot": 786154,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 205345,
-      "num": 38268,
+      "num": 40005,
       "word": "积石山首个地震宝宝降生",
       "onboard_time": 1703102715,
       "rank": 12,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130321,
+      "num": 130321,
+      "word": "目击者还原男子亮网红身份维权经过",
+      "onboard_time": 1703095998,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 129702,
       "num": 129702,
       "word": "蛋仔派对 皮肤",
@@ -353,14 +361,6 @@
       "onboard_time": 1703087314,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121190,
-      "num": 121190,
-      "word": "目击者还原男子亮网红身份维权经过",
-      "onboard_time": 1703095998,
-      "rank": 16,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 121081,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97361,
+      "num": 39605,
+      "word": "刘敏涛谈和王一博合作感受",
+      "onboard_time": 1703107093,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97020,
       "num": 97020,
       "word": "宁波渔民捕获4.2斤海中土豪金能卖二三万",
@@ -417,6 +425,14 @@
       "onboard_time": 1703072735,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89668,
+      "num": 39524,
+      "word": "六种越吃越胖的伪粗粮",
+      "onboard_time": 1703102353,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82487,
@@ -443,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60594,
-      "num": 38274,
-      "word": "六种越吃越胖的伪粗粮",
-      "onboard_time": 1703102353,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 55477,
+      "num": 29460,
+      "word": "杀害许佳玲凶手被捕时仍自称其男友",
+      "onboard_time": 1703107093,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 51755,
@@ -457,14 +473,6 @@
       "onboard_time": 1703094317,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 51002,
-      "num": 38269,
-      "word": "刘敏涛谈和王一博合作感受",
-      "onboard_time": 1703107093,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 50645,
@@ -497,14 +505,6 @@
       "onboard_time": 1703095879,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30360,
-      "num": 20625,
-      "word": "杀害许佳玲凶手被捕时仍自称其男友",
-      "onboard_time": 1703107093,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 28491,
