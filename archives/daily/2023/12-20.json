@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703082865655,
+  "endTime": 1703085328030,
   "band_list": [
     {
       "raw_hot": 2829379,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931580,
+      "num": 152184,
+      "word": "1688 200减20",
+      "onboard_time": 1703083058,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 894238,
       "num": 894238,
       "word": "恋爱脑 工作脑",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 742360,
+      "num": 333610,
+      "word": "中戏教授谈马嘉祺宋亚轩",
+      "onboard_time": 1703082336,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 736111,
       "num": 357543,
       "word": "周一围 我这一生如履薄冰",
@@ -433,6 +449,14 @@
       "onboard_time": 1703041893,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 712066,
+      "num": 712066,
+      "word": "女子起诉父母不肯出钱给自己出国留学",
+      "onboard_time": 1703078195,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 699282,
@@ -545,14 +569,6 @@
       "onboard_time": 1703042072,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 638443,
-      "num": 638443,
-      "word": "女子起诉父母不肯出钱给自己出国留学",
-      "onboard_time": 1703078195,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 628644,
@@ -811,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449908,
+      "num": 275700,
+      "word": "水电全免房租减半意味着什么",
+      "onboard_time": 1703082702,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 447916,
       "num": 447916,
       "word": "中国空间站和鸿蒙入选2023全球十大工程",
@@ -833,14 +857,6 @@
       "onboard_time": 1703053355,
       "rank": 8,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 432307,
-      "num": 333610,
-      "word": "中戏教授谈马嘉祺宋亚轩",
-      "onboard_time": 1703082336,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 426105,
@@ -979,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 373592,
+      "num": 333548,
+      "word": "刘浩存 醉酒戏",
+      "onboard_time": 1703081137,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372535,
       "num": 372535,
       "word": "青海一孕妇回娘家途中失联",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1703064215,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 366160,
-      "num": 333548,
-      "word": "刘浩存 醉酒戏",
-      "onboard_time": 1703081137,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 363486,
@@ -1155,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321131,
+      "num": 321131,
+      "word": "蛋仔派对 皮肤",
+      "onboard_time": 1703081978,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319549,
       "num": 319549,
       "word": "孙颖莎年度十佳球",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1703031455,
       "rank": 29,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 319144,
+      "num": 273712,
+      "word": "景天紫萱重聚繁花",
+      "onboard_time": 1703084077,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 316672,
@@ -1291,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 303792,
+      "num": 271478,
+      "word": "为什么中年梗越来越火",
+      "onboard_time": 1703083905,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 303602,
       "num": 295172,
       "word": "当家里有个没结婚的长辈",
@@ -1395,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287417,
-      "num": 287417,
-      "word": "蛋仔派对 皮肤",
-      "onboard_time": 1703081978,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 285864,
       "num": 285864,
       "word": "张凌赫红衣婚服路透",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1703080898,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267028,
+      "num": 267028,
+      "word": "王安宇胡先煦你俩有点暧昧了",
+      "onboard_time": 1703084499,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 264952,
@@ -1603,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241893,
+      "num": 241893,
+      "word": "上车第一件事 锁车门",
+      "onboard_time": 1703084134,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241870,
       "num": 241870,
       "word": "一念关山后期投稿",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1703048857,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232931,
+      "num": 232931,
+      "word": "心中的古装剧Top1",
+      "onboard_time": 1703084678,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 232093,
@@ -2339,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165634,
+      "num": 165634,
+      "word": "实在受不了冬天 冻死我了",
+      "onboard_time": 1703084798,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164812,
       "num": 164812,
       "word": "值得入手的圣诞限定",
@@ -2361,14 +2425,6 @@
       "onboard_time": 1703037394,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164201,
-      "num": 164201,
-      "word": "水电全免房租减半意味着什么",
-      "onboard_time": 1703082702,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 163998,
@@ -2400,6 +2456,14 @@
       "word": "繁花 信息量",
       "onboard_time": 1703068297,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 160990,
+      "num": 160990,
+      "word": "神隐 追妻火葬场好戏开演",
+      "onboard_time": 1703082818,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2435,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155581,
+      "num": 155581,
+      "word": "一些很烧的猫猫",
+      "onboard_time": 1703083905,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154800,
       "num": 154800,
       "word": "脱轨 校园剧情",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1703045439,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 153468,
+      "num": 153468,
+      "word": "手上倒刺反复长真不是缺维生素",
+      "onboard_time": 1703084974,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152281,
@@ -2531,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146530,
+      "num": 146530,
+      "word": "官方回应网传爱尔眼科医生捶击患者",
+      "onboard_time": 1703085156,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145162,
       "num": 408190,
       "word": "消防员为震区受伤男童包扎伤口",
@@ -2545,6 +2633,14 @@
       "onboard_time": 1703063918,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144466,
+      "num": 144466,
+      "word": "甘肃老爷爷在小战士身后默默举灯",
+      "onboard_time": 1703084916,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143280,
@@ -2609,14 +2705,6 @@
       "onboard_time": 1703054012,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134799,
-      "num": 134799,
-      "word": "神隐 追妻火葬场好戏开演",
-      "onboard_time": 1703082818,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 132911,

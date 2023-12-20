@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703082865655,
+  "endTime": 1703085328030,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -6155,6 +6155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 931580,
+      "num": 152184,
+      "word": "1688 200减20",
+      "onboard_time": 1703083058,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 928323,
       "num": 928323,
       "word": "红薯片真的可以拿来当被子用",
@@ -8235,6 +8243,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 742360,
+      "num": 333610,
+      "word": "中戏教授谈马嘉祺宋亚轩",
+      "onboard_time": 1703082336,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 741015,
       "num": 741015,
       "word": "文科 服务业",
@@ -8689,6 +8705,14 @@
       "onboard_time": 1702118254,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 712066,
+      "num": 712066,
+      "word": "女子起诉父母不肯出钱给自己出国留学",
+      "onboard_time": 1703078195,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 711873,
@@ -10145,14 +10169,6 @@
       "onboard_time": 1702026278,
       "rank": 18,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 638443,
-      "num": 638443,
-      "word": "女子起诉父母不肯出钱给自己出国留学",
-      "onboard_time": 1703078195,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638408,
@@ -15539,6 +15555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449908,
+      "num": 275700,
+      "word": "水电全免房租减半意味着什么",
+      "onboard_time": 1703082702,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 449594,
       "num": 449594,
       "word": "格林拳打努尔基奇",
@@ -16249,14 +16273,6 @@
       "onboard_time": 1701728417,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 432307,
-      "num": 333610,
-      "word": "中戏教授谈马嘉祺宋亚轩",
-      "onboard_time": 1703082336,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 432260,
@@ -19291,6 +19307,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 373592,
+      "num": 333548,
+      "word": "刘浩存 醉酒戏",
+      "onboard_time": 1703081137,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373467,
       "num": 373467,
       "word": "星光大赏 座位图",
@@ -19736,14 +19760,6 @@
       "word": "一念关山 原剧本",
       "onboard_time": 1702965878,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 366160,
-      "num": 333548,
-      "word": "刘浩存 醉酒戏",
-      "onboard_time": 1703081137,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -22475,6 +22491,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 321131,
+      "num": 321131,
+      "word": "蛋仔派对 皮肤",
+      "onboard_time": 1703081978,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 321125,
       "num": 321125,
       "word": "警方通报女子提醒关远光灯被打致流产",
@@ -22689,6 +22713,14 @@
       "onboard_time": 1702732362,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319144,
+      "num": 273712,
+      "word": "景天紫萱重聚繁花",
+      "onboard_time": 1703084077,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 319103,
@@ -23985,6 +24017,14 @@
       "onboard_time": 1702621592,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 303792,
+      "num": 271478,
+      "word": "为什么中年梗越来越火",
+      "onboard_time": 1703083905,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 303602,
@@ -25577,14 +25617,6 @@
       "onboard_time": 1701335796,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287417,
-      "num": 287417,
-      "word": "蛋仔派对 皮肤",
-      "onboard_time": 1703081978,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 287376,
@@ -27489,6 +27521,14 @@
       "onboard_time": 1701912094,
       "rank": 25,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 267028,
+      "num": 267028,
+      "word": "王安宇胡先煦你俩有点暧昧了",
+      "onboard_time": 1703084499,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 267007,
@@ -30315,6 +30355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241893,
+      "num": 241893,
+      "word": "上车第一件事 锁车门",
+      "onboard_time": 1703084134,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241870,
       "num": 241870,
       "word": "一念关山后期投稿",
@@ -31441,6 +31489,14 @@
       "onboard_time": 1702717834,
       "rank": 40,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 232931,
+      "num": 232931,
+      "word": "心中的古装剧Top1",
+      "onboard_time": 1703084678,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 232893,
@@ -43803,6 +43859,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 165634,
+      "num": 165634,
+      "word": "实在受不了冬天 冻死我了",
+      "onboard_time": 1703084798,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165606,
       "num": 165606,
       "word": "许昕孙颖莎握手",
@@ -44081,14 +44145,6 @@
       "onboard_time": 1701949902,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164201,
-      "num": 164201,
-      "word": "水电全免房租减半意味着什么",
-      "onboard_time": 1703082702,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 164160,
@@ -44601,6 +44657,14 @@
       "onboard_time": 1702517314,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160990,
+      "num": 160990,
+      "word": "神隐 追妻火葬场好戏开演",
+      "onboard_time": 1703082818,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 160973,
@@ -45611,6 +45675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155581,
+      "num": 155581,
+      "word": "一些很烧的猫猫",
+      "onboard_time": 1703083905,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155548,
       "num": 872114,
       "word": "明年要坚持稳中求进以进促稳先立后破",
@@ -45977,6 +46049,14 @@
       "onboard_time": 1702086872,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153468,
+      "num": 153468,
+      "word": "手上倒刺反复长真不是缺维生素",
+      "onboard_time": 1703084974,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153345,
@@ -47107,6 +47187,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 146530,
+      "num": 146530,
+      "word": "官方回应网传爱尔眼科医生捶击患者",
+      "onboard_time": 1703085156,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146522,
       "num": 146522,
       "word": "真的会被AI扩图笑崩溃",
@@ -47465,6 +47553,14 @@
       "onboard_time": 1702282776,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144466,
+      "num": 144466,
+      "word": "甘肃老爷爷在小战士身后默默举灯",
+      "onboard_time": 1703084916,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144445,
@@ -48905,14 +49001,6 @@
       "onboard_time": 1701691296,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134799,
-      "num": 134799,
-      "word": "神隐 追妻火葬场好戏开演",
-      "onboard_time": 1703082818,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 134751,
