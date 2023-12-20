@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703038556970,
+  "endTime": 1703039659411,
   "band_list": [
     {
       "raw_hot": 2816195,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 1295492,
-      "num": 466012,
+      "num": 530197,
       "word": "谢娜说张杰不承认对她一见钟情",
       "onboard_time": 1703029833,
       "rank": 10,
       "category": "综艺"
     },
     {
-      "raw_hot": 1277314,
-      "num": 478975,
+      "raw_hot": 1282839,
+      "num": 542363,
       "word": "爆改朱梓骁",
       "onboard_time": 1703034638,
       "rank": 30,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1157148,
-      "num": 473358,
+      "num": 536437,
       "word": "图书馆有人破防了",
       "onboard_time": 1703029530,
       "rank": 11,
@@ -121,6 +121,14 @@
       "onboard_time": 1702998762,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 732383,
+      "num": 732383,
+      "word": "警方通报19岁男子砍伤3名女子",
+      "onboard_time": 1703036073,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730990,
@@ -195,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 558845,
+      "num": 558845,
+      "word": "东北高中男生从没穿过羽绒服",
+      "onboard_time": 1703036135,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554998,
       "num": 554998,
       "word": "青海省委书记抱着安慰痛哭的灾民",
@@ -209,14 +225,6 @@
       "onboard_time": 1703033018,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 551412,
-      "num": 551412,
-      "word": "警方通报19岁男子砍伤3名女子",
-      "onboard_time": 1703036073,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 550871,
@@ -235,20 +243,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 523066,
+      "num": 523066,
+      "word": "东芝正式退市",
+      "onboard_time": 1703038296,
+      "rank": 19,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 508343,
       "num": 312477,
       "word": "张小斐回应当选北京视协副主席",
       "onboard_time": 1703006361,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482139,
-      "num": 482139,
-      "word": "东北高中男生从没穿过羽绒服",
-      "onboard_time": 1703036135,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479321,
@@ -331,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355835,
+      "num": 355835,
+      "word": "衣服上的火锅味为什么散不掉",
+      "onboard_time": 1703036615,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 338205,
       "num": 338205,
       "word": "陈采尼 星光大赏有点无聊",
       "onboard_time": 1703031395,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336546,
+      "num": 336546,
+      "word": "越是聪明的人越不明白",
+      "onboard_time": 1703036135,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 328436,
@@ -377,14 +401,6 @@
       "onboard_time": 1703001034,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323567,
-      "num": 323567,
-      "word": "越是聪明的人越不明白",
-      "onboard_time": 1703036135,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 319437,
@@ -435,14 +451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 311527,
-      "num": 311527,
-      "word": "衣服上的火锅味为什么散不掉",
-      "onboard_time": 1703036615,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 311252,
       "num": 311252,
       "word": "一碰小狗鼻子就自动吐舌头",
@@ -451,12 +459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305617,
-      "num": 305617,
-      "word": "东芝正式退市",
-      "onboard_time": 1703038296,
-      "rank": 19,
-      "category": "财经,数码"
+      "raw_hot": 302629,
+      "num": 302629,
+      "word": "震后灾区最新情况直播",
+      "onboard_time": 1703039313,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296887,
@@ -539,6 +547,14 @@
       "category": "数码,社会新闻"
     },
     {
+      "raw_hot": 234054,
+      "num": 234054,
+      "word": "原神4.3",
+      "onboard_time": 1703039492,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231809,
       "num": 231809,
       "word": "张译拒跳科目三",
@@ -552,6 +568,14 @@
       "word": "冰雪大世界游客高喊退票",
       "onboard_time": 1703010136,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227342,
+      "num": 227342,
+      "word": "福建泉州一化工厂起火",
+      "onboard_time": 1703038535,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -569,6 +593,14 @@
       "onboard_time": 1703004864,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209993,
+      "num": 209993,
+      "word": "红海危机",
+      "onboard_time": 1703038773,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209055,
@@ -595,6 +627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 199719,
+      "num": 199719,
+      "word": "张元英生图",
+      "onboard_time": 1703038892,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194123,
       "num": 194123,
       "word": "焦恩俊夸了于十三",
@@ -609,6 +649,14 @@
       "onboard_time": 1703031157,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189595,
+      "num": 189595,
+      "word": "中国空间站和鸿蒙入选2023全球十大工程",
+      "onboard_time": 1703038953,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 185002,
@@ -667,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164392,
+      "num": 164392,
+      "word": "是宝宝也是废墟中无畏的英雄",
+      "onboard_time": 1703037394,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161661,
       "num": 161661,
       "word": "韩红团队已经启程前往灾区",
@@ -681,14 +737,6 @@
       "onboard_time": 1702969359,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 157451,
-      "num": 157451,
-      "word": "是宝宝也是废墟中无畏的英雄",
-      "onboard_time": 1703037394,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149254,
@@ -715,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143280,
+      "num": 143280,
+      "word": "这4种表现是在提示骨头病了",
+      "onboard_time": 1703038356,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140829,
       "num": 140829,
       "word": "朴灿烈初雪cha",
@@ -729,14 +785,6 @@
       "onboard_time": 1703027964,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130116,
-      "num": 130116,
-      "word": "这4种表现是在提示骨头病了",
-      "onboard_time": 1703038356,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128371,
@@ -785,14 +833,6 @@
       "onboard_time": 1702991137,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117614,
-      "num": 117614,
-      "word": "福建泉州一化工厂起火",
-      "onboard_time": 1703038535,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116012,
