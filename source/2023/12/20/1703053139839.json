@@ -1,0 +1,410 @@
+{
+  "runTime": 1703053139839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 914251,
+        "num": 914251,
+        "word": "甘肃震区煮不完的饺子和不灭的车灯",
+        "onboard_time": 1703041113,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894238,
+        "num": 894238,
+        "word": "恋爱脑 工作脑",
+        "onboard_time": 1703047600,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186004,
+        "num": 717845,
+        "word": "14亿多同胞是你们的坚强后盾",
+        "onboard_time": 1703049038,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2396397,
+        "num": 704115,
+        "word": "哈尔滨退票事件",
+        "onboard_time": 1703043936,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568176,
+        "num": 568176,
+        "word": "A股",
+        "onboard_time": 1703051493,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 518386,
+        "num": 518386,
+        "word": "2名技校男生互相怂恿强奸醉酒女生获刑",
+        "onboard_time": 1703043213,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336152,
+        "num": 336152,
+        "word": "库里杀死比赛",
+        "onboard_time": 1703051372,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304676,
+        "num": 304676,
+        "word": "衣服上的火锅味为什么散不掉",
+        "onboard_time": 1703036615,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 289330,
+        "num": 289330,
+        "word": "泰国瑞幸向中国瑞幸索赔100亿泰铢",
+        "onboard_time": 1702998999,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263923,
+        "num": 263923,
+        "word": "地震已致131人遇难",
+        "onboard_time": 1703040333,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1769100,
+        "num": 263687,
+        "word": "马来西亚歌手许佳玲被粉丝杀害",
+        "onboard_time": 1703046763,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1000920,
+        "num": 263273,
+        "word": "吴千语施伯雄官宣结婚",
+        "onboard_time": 1703048977,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 940304,
+        "num": 262916,
+        "word": "穿完假领子后忘穿卫衣了",
+        "onboard_time": 1703044295,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405775,
+        "num": 262847,
+        "word": "杰伦布朗嘲讽库里",
+        "onboard_time": 1703051312,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389772,
+        "num": 262294,
+        "word": "王者荣耀 优化",
+        "onboard_time": 1703051973,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 387706,
+        "num": 262134,
+        "word": "月入3万的中产们霸占小吃摊",
+        "onboard_time": 1703051372,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341394,
+        "num": 261662,
+        "word": "迪丽热巴 差点咬着我的后槽牙",
+        "onboard_time": 1703052634,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286518,
+        "num": 261507,
+        "word": "何猷君第一次牵奚梦瑶手被拒",
+        "onboard_time": 1703040393,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261168,
+        "num": 261168,
+        "word": "藏海传 肖战张婧仪",
+        "onboard_time": 1703041893,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253761,
+        "num": 253761,
+        "word": "爆改朱梓骁",
+        "onboard_time": 1703034638,
+        "rank": 19,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 564024,
+        "num": 249791,
+        "word": "这种睡姿势正在毁掉你的脊椎",
+        "onboard_time": 1703050955,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 389800,
+        "num": 245381,
+        "word": "三三 马立奥",
+        "onboard_time": 1703031936,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360701,
+        "num": 240687,
+        "word": "你能接受恋丑癖好吗",
+        "onboard_time": 1703049994,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282738,
+        "num": 238028,
+        "word": "女子8名亲戚在地震中遇难",
+        "onboard_time": 1703051493,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235303,
+        "num": 235303,
+        "word": "竹马天降都是你全员杀青",
+        "onboard_time": 1703050592,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227280,
+        "num": 227280,
+        "word": "白月梵星",
+        "onboard_time": 1703051852,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220919,
+        "num": 220919,
+        "word": "五条悟这么容易被比肩吗",
+        "onboard_time": 1703051670,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 215508,
+        "num": 215508,
+        "word": "年度歌手",
+        "onboard_time": 1703042854,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30870,
+        "num": 212417,
+        "word": "Prada上海展看点",
+        "onboard_time": 1703052273,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 104053,
+        "num": 212381,
+        "word": "中国空间站和鸿蒙入选2023全球十大工程",
+        "onboard_time": 1703038953,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212360,
+        "num": 212360,
+        "word": "胡歌说和王家卫合作有折磨也有表演空间",
+        "onboard_time": 1703052693,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211518,
+        "num": 211518,
+        "word": "甘肃地震 最糟糕时间最薄弱地方",
+        "onboard_time": 1703028986,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211493,
+        "num": 211493,
+        "word": "多个卫生巾品牌为震区紧急调货捐赠",
+        "onboard_time": 1703033136,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186217,
+        "num": 186217,
+        "word": "花儿与少年",
+        "onboard_time": 1703052933,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175768,
+        "num": 175768,
+        "word": "破烂世界的精神暖宝宝",
+        "onboard_time": 1703052154,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171866,
+        "num": 171866,
+        "word": "小伙辞掉1年只上200天的工作卖烧烤",
+        "onboard_time": 1703036615,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169795,
+        "num": 169795,
+        "word": "大胃王吃播又悄然回来了",
+        "onboard_time": 1703036674,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 169003,
+        "num": 169003,
+        "word": "发现了肺结节怎么办",
+        "onboard_time": 1703051132,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169002,
+        "num": 169002,
+        "word": "亚裔版肯豆妆",
+        "onboard_time": 1703046338,
+        "rank": 38,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 165011,
+        "num": 165011,
+        "word": "甘肃救援工作已基本结束",
+        "onboard_time": 1703042975,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163459,
+        "num": 163459,
+        "word": "小猫真的很需要这个垫子",
+        "onboard_time": 1703047899,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160571,
+        "num": 160571,
+        "word": "微博之夜 集卡",
+        "onboard_time": 1703041772,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159184,
+        "num": 159184,
+        "word": "勇士加时战胜凯尔特人",
+        "onboard_time": 1703052092,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157664,
+        "num": 157664,
+        "word": "郭士强说北京假摔太多",
+        "onboard_time": 1703048857,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157200,
+        "num": 157200,
+        "word": "谢娜说张杰不承认对她一见钟情",
+        "onboard_time": 1703029833,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155374,
+        "num": 155374,
+        "word": "小伙为省3000元出国旅游被卖3次",
+        "onboard_time": 1703033918,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151980,
+        "num": 151980,
+        "word": "社交平台现冰雪大世界白嫖攻略",
+        "onboard_time": 1703052873,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127302,
+        "num": 127302,
+        "word": "当我秒回的时候",
+        "onboard_time": 1703052993,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126021,
+        "num": 126021,
+        "word": "与恶魔有约 宋江造型分析",
+        "onboard_time": 1703047360,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122399,
+        "num": 122399,
+        "word": "凯尔特人vs勇士",
+        "onboard_time": 1703049814,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一组数据见证救援力量#"
+    }
+  }
+}
