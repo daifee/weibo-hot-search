@@ -1,0 +1,410 @@
+{
+  "runTime": 1703061252181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 790803,
+        "num": 790803,
+        "word": "地震后父亲打给远嫁女儿差点哭了",
+        "onboard_time": 1703054970,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455920,
+        "num": 455920,
+        "word": "甘肃震区煮不完的饺子和不灭的车灯",
+        "onboard_time": 1703041113,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110541,
+        "num": 405829,
+        "word": "14亿多同胞是你们的坚强后盾",
+        "onboard_time": 1703049038,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1083348,
+        "num": 400755,
+        "word": "小杨哥回应每月发5000万工资",
+        "onboard_time": 1703053590,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1022440,
+        "num": 391870,
+        "word": "苏州杀夫藏尸冰柜案明日开庭",
+        "onboard_time": 1703057793,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363651,
+        "num": 363651,
+        "word": "许佳玲遇害前一天刚与男友拍完婚纱照",
+        "onboard_time": 1703054492,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425374,
+        "num": 353416,
+        "word": "小杨哥称曾拒绝2800万玩三场游戏",
+        "onboard_time": 1703056235,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 318250,
+        "num": 318250,
+        "word": "医生建议3种洗洁精最好别用",
+        "onboard_time": 1703058757,
+        "rank": 7,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 278928,
+        "num": 278928,
+        "word": "专家建议股市低迷时投资者多锻炼身体",
+        "onboard_time": 1703058515,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 245917,
+        "num": 245917,
+        "word": "河南一高校外教老师儿子因高颜值走红",
+        "onboard_time": 1703054193,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1486868,
+        "num": 245727,
+        "word": "扬州大学爆改985 保安大叔打断施法",
+        "onboard_time": 1703059054,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 676988,
+        "num": 245046,
+        "word": "辛芷蕾早期也是甜妹",
+        "onboard_time": 1703058154,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664369,
+        "num": 244932,
+        "word": "这些都是性骚扰",
+        "onboard_time": 1703055692,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 598046,
+        "num": 244082,
+        "word": "希林娜依高被冻哭",
+        "onboard_time": 1703059833,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483945,
+        "num": 243858,
+        "word": "极限挑战第十季阵容",
+        "onboard_time": 1703059295,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442820,
+        "num": 243424,
+        "word": "周一围 我这一生如履薄冰",
+        "onboard_time": 1703060135,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438408,
+        "num": 242959,
+        "word": "吴千语施伯雄官宣结婚",
+        "onboard_time": 1703048977,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432532,
+        "num": 242152,
+        "word": "阴阳师 玩家道歉",
+        "onboard_time": 1703057853,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 390176,
+        "num": 241893,
+        "word": "导演彭发破产",
+        "onboard_time": 1703059595,
+        "rank": 18,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 372785,
+        "num": 241348,
+        "word": "马来西亚歌手许佳玲被粉丝杀害",
+        "onboard_time": 1703046763,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319248,
+        "num": 240614,
+        "word": "这种睡姿势正在毁掉你的脊椎",
+        "onboard_time": 1703050955,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315414,
+        "num": 240204,
+        "word": "假签售 假repo",
+        "onboard_time": 1703059956,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 298849,
+        "num": 239785,
+        "word": "迪丽热巴 差点咬着我的后槽牙",
+        "onboard_time": 1703052634,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422555,
+        "num": 239531,
+        "word": "A股70%大股东过三年就开始减持",
+        "onboard_time": 1703056173,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 286821,
+        "num": 238643,
+        "word": "酱园弄更新主演列表",
+        "onboard_time": 1703053590,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261600,
+        "num": 238194,
+        "word": "权志龙或将重回YG",
+        "onboard_time": 1703060496,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630383,
+        "num": 238136,
+        "word": "A股大跌",
+        "onboard_time": 1703056292,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237667,
+        "num": 237667,
+        "word": "哈尔滨退票事件",
+        "onboard_time": 1703043936,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204656,
+        "num": 204656,
+        "word": "三三 马立奥",
+        "onboard_time": 1703031936,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202781,
+        "num": 202781,
+        "word": "青海震区仍有16人失联",
+        "onboard_time": 1703059776,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202475,
+        "num": 202475,
+        "word": "我们的歌6官宣",
+        "onboard_time": 1703060015,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202175,
+        "num": 202175,
+        "word": "狗神 军大衣",
+        "onboard_time": 1703060315,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198497,
+        "num": 198497,
+        "word": "你能接受恋丑癖好吗",
+        "onboard_time": 1703049994,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194956,
+        "num": 194956,
+        "word": "抗胃癌的10种食物",
+        "onboard_time": 1703059896,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191930,
+        "num": 191930,
+        "word": "繁花微博路演",
+        "onboard_time": 1703060975,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190409,
+        "num": 190409,
+        "word": "鸣龙少年剧粉 鸣侦探",
+        "onboard_time": 1703060915,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174183,
+        "num": 174183,
+        "word": "月入3万的中产们霸占小吃摊",
+        "onboard_time": 1703051372,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173810,
+        "num": 173810,
+        "word": "代入一下 理解戚百草了",
+        "onboard_time": 1703055812,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 159595,
+        "num": 159595,
+        "word": "淄博警方回应三男子深夜持刀殴打俩女子",
+        "onboard_time": 1703054433,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157555,
+        "num": 157555,
+        "word": "女子8名亲戚在地震中遇难",
+        "onboard_time": 1703051493,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157186,
+        "num": 157186,
+        "word": "东方卫视跨年阵容",
+        "onboard_time": 1703056531,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154545,
+        "num": 154545,
+        "word": "GenG战队致歉",
+        "onboard_time": 1703053832,
+        "rank": 41,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 149867,
+        "num": 149867,
+        "word": "早八10min出门底妆",
+        "onboard_time": 1703060795,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 149089,
+        "num": 149089,
+        "word": "没见过这么大的草莓熊",
+        "onboard_time": 1703056112,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135274,
+        "num": 135274,
+        "word": "2名技校男生互相怂恿强奸醉酒女生获刑",
+        "onboard_time": 1703043213,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132378,
+        "num": 132378,
+        "word": "微博之夜 集卡",
+        "onboard_time": 1703041772,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132001,
+        "num": 132001,
+        "word": "地震已致131人遇难",
+        "onboard_time": 1703040333,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129879,
+        "num": 129879,
+        "word": "吴千语说30岁生小孩",
+        "onboard_time": 1703056112,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124190,
+        "num": 124190,
+        "word": "艺术家对AI的反击开始了",
+        "onboard_time": 1703057673,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122406,
+        "num": 122406,
+        "word": "瑞幸客服回应泰国瑞幸向中国瑞幸索赔",
+        "onboard_time": 1703053355,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃6.2级地震作出重要指示#"
+    }
+  }
+}

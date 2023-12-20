@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703060302281,
+  "endTime": 1703061252181,
   "band_list": [
     {
       "raw_hot": 2829379,
@@ -57,6 +57,14 @@
       "onboard_time": 1703056235,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1486868,
+      "num": 267026,
+      "word": "扬州大学爆改985 保安大叔打断施法",
+      "onboard_time": 1703059054,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 1477000,
@@ -163,20 +171,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1022440,
+      "num": 391870,
+      "word": "苏州杀夫藏尸冰柜案明日开庭",
+      "onboard_time": 1703057793,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1008590,
       "num": 343891,
       "word": "张兰直播间称酸辣粉卖出多少捐多少",
       "onboard_time": 1702999658,
       "rank": 10,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 984160,
-      "num": 267026,
-      "word": "扬州大学爆改985 保安大叔打断施法",
-      "onboard_time": 1703059054,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 960468,
@@ -192,14 +200,6 @@
       "word": "2名技校男生互相怂恿强奸醉酒女生获刑",
       "onboard_time": 1703043213,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 906852,
-      "num": 350381,
-      "word": "苏州杀夫藏尸冰柜案明日开庭",
-      "onboard_time": 1703057793,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598046,
+      "num": 244082,
+      "word": "希林娜依高被冻哭",
+      "onboard_time": 1703059833,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584852,
       "num": 584852,
       "word": "消防员已营救甘肃地震被困人员78人",
@@ -571,6 +579,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 442820,
+      "num": 243424,
+      "word": "周一围 我这一生如履薄冰",
+      "onboard_time": 1703060135,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436801,
       "num": 436801,
       "word": "瑞幸客服回应泰国瑞幸向中国瑞幸索赔",
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390176,
+      "num": 241893,
+      "word": "导演彭发破产",
+      "onboard_time": 1703059595,
+      "rank": 22,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 387706,
       "num": 341508,
       "word": "月入3万的中产们霸占小吃摊",
@@ -697,22 +721,6 @@
       "onboard_time": 1703049994,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 344277,
-      "num": 234945,
-      "word": "希林娜依高被冻哭",
-      "onboard_time": 1703059833,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 342149,
-      "num": 232466,
-      "word": "导演彭发破产",
-      "onboard_time": 1703059595,
-      "rank": 22,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 338205,
@@ -795,6 +803,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 318250,
+      "num": 318250,
+      "word": "医生建议3种洗洁精最好别用",
+      "onboard_time": 1703058757,
+      "rank": 24,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 316672,
       "num": 316672,
       "word": "莫兰特解禁复出",
@@ -827,6 +843,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 315414,
+      "num": 240204,
+      "word": "假签售 假repo",
+      "onboard_time": 1703059956,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 313648,
       "num": 284489,
       "word": "刘浩存 光腿神器",
@@ -857,14 +881,6 @@
       "onboard_time": 1703054193,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308712,
-      "num": 228057,
-      "word": "医生建议3种洗洁精最好别用",
-      "onboard_time": 1703058757,
-      "rank": 24,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 306947,
@@ -955,8 +971,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275906,
-      "num": 275906,
+      "raw_hot": 278928,
+      "num": 278928,
       "word": "专家建议股市低迷时投资者多锻炼身体",
       "onboard_time": 1703058515,
       "rank": 8,
@@ -985,6 +1001,14 @@
       "onboard_time": 1703055812,
       "rank": 30,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 261600,
+      "num": 238194,
+      "word": "权志龙或将重回YG",
+      "onboard_time": 1703060496,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 260794,
@@ -1243,6 +1267,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202781,
+      "num": 216652,
+      "word": "青海震区仍有16人失联",
+      "onboard_time": 1703059776,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202475,
+      "num": 202475,
+      "word": "我们的歌6官宣",
+      "onboard_time": 1703060015,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202175,
+      "num": 202175,
+      "word": "狗神 军大衣",
+      "onboard_time": 1703060315,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200511,
       "num": 200511,
       "word": "369把Tian叫成Kanavi",
@@ -1259,20 +1307,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199294,
-      "num": 199294,
-      "word": "假签售 假repo",
-      "onboard_time": 1703059956,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195313,
       "num": 195313,
       "word": "猫咪把全身毛竖起来叫奓毛",
       "onboard_time": 1703039795,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 194956,
+      "num": 194956,
+      "word": "抗胃癌的10种食物",
+      "onboard_time": 1703059896,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194226,
@@ -1307,12 +1355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191930,
+      "num": 191930,
+      "word": "繁花微博路演",
+      "onboard_time": 1703060975,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191419,
       "num": 191419,
       "word": "不拖后腿的家长什么样",
       "onboard_time": 1703050054,
       "rank": 31,
       "category": "教育,母婴育儿"
+    },
+    {
+      "raw_hot": 190409,
+      "num": 190409,
+      "word": "鸣龙少年剧粉 鸣侦探",
+      "onboard_time": 1703060915,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 190364,
@@ -1451,28 +1515,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 168860,
-      "num": 168860,
-      "word": "周一围 我这一生如履薄冰",
-      "onboard_time": 1703060135,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167262,
       "num": 167262,
       "word": "救灾物资多一分女性关爱",
       "onboard_time": 1702995883,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166611,
-      "num": 166611,
-      "word": "我们的歌6官宣",
-      "onboard_time": 1703060015,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 165885,
@@ -1555,6 +1603,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 149867,
+      "num": 149867,
+      "word": "早八10min出门底妆",
+      "onboard_time": 1703060795,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 149499,
       "num": 149499,
       "word": "我看漂亮女爱豆",
@@ -1603,14 +1659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 141863,
-      "num": 216652,
-      "word": "青海震区仍有16人失联",
-      "onboard_time": 1703059776,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141678,
       "num": 141678,
       "word": "世界是一个巨大的癫厂",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1703027964,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136343,
-      "num": 136343,
-      "word": "抗胃癌的10种食物",
-      "onboard_time": 1703059896,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136200,

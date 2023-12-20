@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703060302281,
+  "endTime": 1703061252181,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -739,6 +739,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 1486868,
+      "num": 267026,
+      "word": "扬州大学爆改985 保安大叔打断施法",
+      "onboard_time": 1703059054,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1477624,
       "num": 1477624,
       "word": "罗永浩炮轰东方甄选",
@@ -1299,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1022440,
+      "num": 391870,
+      "word": "苏州杀夫藏尸冰柜案明日开庭",
+      "onboard_time": 1703057793,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1019029,
       "num": 1019029,
       "word": "确保震区考生顺利参加考研",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1702835839,
       "rank": 15,
       "category": "艺人,社会新闻"
-    },
-    {
-      "raw_hot": 984160,
-      "num": 267026,
-      "word": "扬州大学爆改985 保安大叔打断施法",
-      "onboard_time": 1703059054,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 983262,
@@ -1489,14 +1497,6 @@
       "onboard_time": 1702872219,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 906852,
-      "num": 350381,
-      "word": "苏州杀夫藏尸冰柜案明日开庭",
-      "onboard_time": 1703057793,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 906206,
@@ -2545,6 +2545,14 @@
       "onboard_time": 1702885834,
       "rank": 6,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 598046,
+      "num": 244082,
+      "word": "希林娜依高被冻哭",
+      "onboard_time": 1703059833,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 596282,
@@ -3619,6 +3627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 442820,
+      "num": 243424,
+      "word": "周一围 我这一生如履薄冰",
+      "onboard_time": 1703060135,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442789,
       "num": 368037,
       "word": "任如意殉国",
@@ -4075,6 +4091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390176,
+      "num": 241893,
+      "word": "导演彭发破产",
+      "onboard_time": 1703059595,
+      "rank": 22,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 388281,
       "num": 388281,
       "word": "WTT 裁判",
@@ -4515,28 +4539,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 344277,
-      "num": 234945,
-      "word": "希林娜依高被冻哭",
-      "onboard_time": 1703059833,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 342159,
       "num": 342159,
       "word": "为什么女生一生气就不讲话",
       "onboard_time": 1702737635,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 342149,
-      "num": 232466,
-      "word": "导演彭发破产",
-      "onboard_time": 1703059595,
-      "rank": 22,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 342127,
@@ -4891,6 +4899,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 318250,
+      "num": 318250,
+      "word": "医生建议3种洗洁精最好别用",
+      "onboard_time": 1703058757,
+      "rank": 24,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 317724,
       "num": 407458,
       "word": "江苏多地停课一天",
@@ -4955,6 +4971,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 315414,
+      "num": 240204,
+      "word": "假签售 假repo",
+      "onboard_time": 1703059956,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 314757,
       "num": 290752,
       "word": "虞书欣直播",
@@ -4993,14 +5017,6 @@
       "onboard_time": 1703054193,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308712,
-      "num": 228057,
-      "word": "医生建议3种洗洁精最好别用",
-      "onboard_time": 1703058757,
-      "rank": 24,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 307764,
@@ -5523,6 +5539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278928,
+      "num": 278928,
+      "word": "专家建议股市低迷时投资者多锻炼身体",
+      "onboard_time": 1703058515,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 276979,
       "num": 276979,
       "word": "林永健晒儿子林大竣全英文接受采访",
@@ -5553,14 +5577,6 @@
       "onboard_time": 1702999062,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275906,
-      "num": 275906,
-      "word": "专家建议股市低迷时投资者多锻炼身体",
-      "onboard_time": 1703058515,
-      "rank": 8,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 275766,
@@ -5801,6 +5817,14 @@
       "onboard_time": 1702951720,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261600,
+      "num": 238194,
+      "word": "权志龙或将重回YG",
+      "onboard_time": 1703060496,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 261513,
@@ -7283,12 +7307,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202781,
+      "num": 216652,
+      "word": "青海震区仍有16人失联",
+      "onboard_time": 1703059776,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202475,
+      "num": 202475,
+      "word": "我们的歌6官宣",
+      "onboard_time": 1703060015,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202371,
       "num": 181047,
       "word": "TF三代 diss队友",
       "onboard_time": 1702835481,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202175,
+      "num": 202175,
+      "word": "狗神 军大衣",
+      "onboard_time": 1703060315,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 201783,
@@ -7385,14 +7433,6 @@
       "onboard_time": 1702884933,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199294,
-      "num": 199294,
-      "word": "假签售 假repo",
-      "onboard_time": 1703059956,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198541,
@@ -7497,6 +7537,14 @@
       "onboard_time": 1702863214,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194956,
+      "num": 194956,
+      "word": "抗胃癌的10种食物",
+      "onboard_time": 1703059896,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194783,
@@ -7667,6 +7715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191930,
+      "num": 191930,
+      "word": "繁花微博路演",
+      "onboard_time": 1703060975,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191777,
       "num": 191777,
       "word": "朱一龙曾多次受伤",
@@ -7729,6 +7785,14 @@
       "onboard_time": 1702727798,
       "rank": 47,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 190409,
+      "num": 190409,
+      "word": "鸣龙少年剧粉 鸣侦探",
+      "onboard_time": 1703060915,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 190364,
@@ -8451,14 +8515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168860,
-      "num": 168860,
-      "word": "周一围 我这一生如履薄冰",
-      "onboard_time": 1703060135,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168424,
       "num": 168424,
       "word": "有雷鸣我四六级早过了",
@@ -8529,14 +8585,6 @@
       "onboard_time": 1702799375,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166611,
-      "num": 166611,
-      "word": "我们的歌6官宣",
-      "onboard_time": 1703060015,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 166300,
@@ -9019,6 +9067,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 149867,
+      "num": 149867,
+      "word": "早八10min出门底妆",
+      "onboard_time": 1703060795,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 149828,
       "num": 149828,
       "word": "鼓励式教育 打压式教育",
@@ -9179,14 +9235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141863,
-      "num": 216652,
-      "word": "青海震区仍有16人失联",
-      "onboard_time": 1703059776,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141678,
       "num": 141678,
       "word": "世界是一个巨大的癫厂",
@@ -9297,14 +9345,6 @@
       "onboard_time": 1702788152,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136343,
-      "num": 136343,
-      "word": "抗胃癌的10种食物",
-      "onboard_time": 1703059896,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136200,
