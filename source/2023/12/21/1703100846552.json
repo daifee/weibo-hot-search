@@ -1,0 +1,410 @@
+{
+  "runTime": 1703100846552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 109737,
+        "num": 109737,
+        "word": "目击者还原男子亮网红身份维权经过",
+        "onboard_time": 1703095998,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 56230,
+        "num": 56230,
+        "word": "宁波渔民捕获4.2斤海中土豪金能卖二三万",
+        "onboard_time": 1703091861,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10044,
+        "num": 52816,
+        "word": "2024年三农工作",
+        "onboard_time": 1703076393,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50413,
+        "num": 50413,
+        "word": "警方通报2男子烧烤店殴打女店员",
+        "onboard_time": 1703086174,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48993,
+        "num": 48993,
+        "word": "ofo创始人戴威恐面临二次创业失败",
+        "onboard_time": 1703086833,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46961,
+        "num": 46961,
+        "word": "女子起诉父母不肯出钱给自己出国留学",
+        "onboard_time": 1703078195,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36375,
+        "num": 36375,
+        "word": "考公吧少年 团综",
+        "onboard_time": 1703074952,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34761,
+        "num": 34761,
+        "word": "Bin 恋爱",
+        "onboard_time": 1703085456,
+        "rank": 7,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 34740,
+        "num": 34740,
+        "word": "甘肃积石山地震致134人遇难",
+        "onboard_time": 1703073757,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33882,
+        "num": 33882,
+        "word": "TheShy改名",
+        "onboard_time": 1703073694,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120841,
+        "num": 33880,
+        "word": "女网红笑称甘肃地震和我有什么关系",
+        "onboard_time": 1703062414,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71733,
+        "num": 33877,
+        "word": "实在受不了冬天 冻死我了",
+        "onboard_time": 1703084798,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58480,
+        "num": 33875,
+        "word": "浏览器 杜海涛",
+        "onboard_time": 1703080358,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55621,
+        "num": 33872,
+        "word": "毛晓彤鼻子 鼻翼比例",
+        "onboard_time": 1703061336,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 54957,
+        "num": 33869,
+        "word": "中戏教授谈马嘉祺宋亚轩",
+        "onboard_time": 1703082336,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43381,
+        "num": 33865,
+        "word": "权志龙YG正式分手",
+        "onboard_time": 1703068958,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40628,
+        "num": 33859,
+        "word": "王安宇胡先煦你俩有点暧昧了",
+        "onboard_time": 1703084499,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39078,
+        "num": 33859,
+        "word": "辛芷蕾 姐没删放心",
+        "onboard_time": 1703077472,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35920,
+        "num": 33856,
+        "word": "创造营导师 路透",
+        "onboard_time": 1703076933,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34778,
+        "num": 33849,
+        "word": "微博之夜 投票",
+        "onboard_time": 1703069136,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37613,
+        "num": 33849,
+        "word": "女主播剧烈咳嗽后大出血险没命",
+        "onboard_time": 1703073031,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37210,
+        "num": 33846,
+        "word": "水电全免房租减半意味着什么",
+        "onboard_time": 1703082702,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34330,
+        "num": 33839,
+        "word": "哈尔滨出现海王2冰雕",
+        "onboard_time": 1703090665,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33839,
+        "num": 33838,
+        "word": "唐嫣被一把拽到C位",
+        "onboard_time": 1703070035,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31760,
+        "num": 31760,
+        "word": "刘浩存 醉酒戏",
+        "onboard_time": 1703081137,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30613,
+        "num": 30613,
+        "word": "甘肃",
+        "onboard_time": 1703070277,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30285,
+        "num": 30285,
+        "word": "搜救犬腿受伤血流不止仍坚持搜救",
+        "onboard_time": 1703088330,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29671,
+        "num": 29671,
+        "word": "QQ音乐发布2023年度听歌报告",
+        "onboard_time": 1703098274,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28608,
+        "num": 28608,
+        "word": "甘肃地震已转移安置87076人",
+        "onboard_time": 1703071536,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27740,
+        "num": 27740,
+        "word": "阴阳师 700保底",
+        "onboard_time": 1703077592,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27438,
+        "num": 27438,
+        "word": "爸爸65岁 但小名竟然叫喵呜",
+        "onboard_time": 1703094317,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27129,
+        "num": 27129,
+        "word": "冻到皮肤发红就要警惕了",
+        "onboard_time": 1703077297,
+        "rank": 31,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 26112,
+        "num": 26112,
+        "word": "微博之夜",
+        "onboard_time": 1703071174,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24901,
+        "num": 24901,
+        "word": "顺产描述",
+        "onboard_time": 1703074233,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24738,
+        "num": 24738,
+        "word": "苹果手机估价近3000回收却给500",
+        "onboard_time": 1703079874,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 23707,
+        "num": 23707,
+        "word": "王楚钦锡纸烫",
+        "onboard_time": 1703068776,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23621,
+        "num": 23621,
+        "word": "脱轨 男女主演技",
+        "onboard_time": 1703072433,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23227,
+        "num": 23227,
+        "word": "官方回应网传爱尔眼科医生捶击患者",
+        "onboard_time": 1703085156,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22222,
+        "num": 22222,
+        "word": "蛋仔派对 皮肤",
+        "onboard_time": 1703081978,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21580,
+        "num": 21580,
+        "word": "赵丽颖张若昀 在人间",
+        "onboard_time": 1703062775,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21064,
+        "num": 21064,
+        "word": "上车第一件事 锁车门",
+        "onboard_time": 1703084134,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21001,
+        "num": 21001,
+        "word": "景天紫萱重聚繁花",
+        "onboard_time": 1703084077,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20682,
+        "num": 20682,
+        "word": "原神 绫华",
+        "onboard_time": 1703076453,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17663,
+        "num": 20676,
+        "word": "肖战古今角色台词",
+        "onboard_time": 1703080898,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16697,
+        "num": 20670,
+        "word": "心中的古装剧Top1",
+        "onboard_time": 1703084678,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15903,
+        "num": 20658,
+        "word": "妖怪狗",
+        "onboard_time": 1703089946,
+        "rank": 45,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 15459,
+        "num": 20643,
+        "word": "我性格开朗 装的",
+        "onboard_time": 1703095037,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14957,
+        "num": 20637,
+        "word": "董卿 撒贝宁同款表情",
+        "onboard_time": 1703085696,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14645,
+        "num": 20619,
+        "word": "积石山灾区急需清真食品御寒物资",
+        "onboard_time": 1703100675,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14413,
+        "num": 20616,
+        "word": "2分钟视频回顾2023年",
+        "onboard_time": 1703100794,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对三农工作作出重要指示#"
+    }
+  }
+}
