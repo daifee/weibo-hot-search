@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703079228337,
+  "endTime": 1703081628215,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1832817,
+      "num": 343808,
+      "word": "浏览器 杜海涛",
+      "onboard_time": 1703080358,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1782330,
       "num": 615397,
       "word": "孙东旭留任东方甄选非执行董事",
@@ -569,6 +577,14 @@
       "onboard_time": 1702994622,
       "rank": 15,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 1765666,
+      "num": 1765666,
+      "word": "冻到皮肤发红就要警惕了",
+      "onboard_time": 1703077297,
+      "rank": 22,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 1737699,
@@ -2187,14 +2203,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 705586,
-      "num": 705586,
-      "word": "冻到皮肤发红就要警惕了",
-      "onboard_time": 1703077297,
-      "rank": 22,
-      "category": "健康医疗,社会新闻"
-    },
-    {
       "raw_hot": 701089,
       "num": 394871,
       "word": "杨紫琼婚宴",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1702821167,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 664054,
+      "num": 664054,
+      "word": "苹果手机估价近3000回收却给500",
+      "onboard_time": 1703079874,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 662320,
@@ -3217,6 +3233,14 @@
       "onboard_time": 1702982017,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524740,
+      "num": 524740,
+      "word": "女子起诉父母不肯出钱给自己出国留学",
+      "onboard_time": 1703078195,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523781,
@@ -4859,6 +4883,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 341662,
+      "num": 341662,
+      "word": "中戏偶遇宋轶",
+      "onboard_time": 1703081200,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 341449,
       "num": 341449,
       "word": "李国庆奉劝董明珠给年轻人留余地",
@@ -4929,14 +4961,6 @@
       "onboard_time": 1702898251,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338471,
-      "num": 329248,
-      "word": "女子起诉父母不肯出钱给自己出国留学",
-      "onboard_time": 1703078195,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338205,
@@ -6379,6 +6403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255796,
+      "num": 255796,
+      "word": "肖战古今角色台词",
+      "onboard_time": 1703080898,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255729,
       "num": 255729,
       "word": "网易云年度总结",
@@ -7299,6 +7331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220294,
+      "num": 220294,
+      "word": "大熊猫围在一起吃火锅",
+      "onboard_time": 1703076453,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220227,
       "num": 220227,
       "word": "时空中的绘旅人",
@@ -7441,6 +7481,14 @@
       "onboard_time": 1703052693,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215223,
+      "num": 215223,
+      "word": "崔娃 法国人符合每个刻板印象",
+      "onboard_time": 1703079156,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 215068,
@@ -7625,6 +7673,14 @@
       "onboard_time": 1702995883,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209343,
+      "num": 209343,
+      "word": "刘浩存 醉酒戏",
+      "onboard_time": 1703081137,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 209179,
@@ -7817,14 +7873,6 @@
       "onboard_time": 1702817327,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 203977,
-      "num": 203977,
-      "word": "大熊猫围在一起吃火锅",
-      "onboard_time": 1703076453,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203891,
@@ -8363,6 +8411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190872,
+      "num": 190872,
+      "word": "被爸爸吐槽衣服买太多了",
+      "onboard_time": 1703075614,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190754,
       "num": 190754,
       "word": "年度听歌报告",
@@ -8409,6 +8465,14 @@
       "onboard_time": 1703045735,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189951,
+      "num": 189951,
+      "word": "冻疮",
+      "onboard_time": 1703080898,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189801,
@@ -8801,14 +8865,6 @@
       "onboard_time": 1702807000,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180213,
-      "num": 180213,
-      "word": "被爸爸吐槽衣服买太多了",
-      "onboard_time": 1703075614,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 180074,
@@ -9987,14 +10043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144244,
-      "num": 144244,
-      "word": "崔娃 法国人符合每个刻板印象",
-      "onboard_time": 1703079156,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144154,
       "num": 144154,
       "word": "老人雪地跪倒男子果断扶起",
@@ -10057,6 +10105,14 @@
       "onboard_time": 1703056834,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141539,
+      "num": 141539,
+      "word": "恋与制作人 恋爱感",
+      "onboard_time": 1703081499,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 141300,
@@ -10555,7 +10611,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100589,
+      "raw_hot": 103256,
       "num": 638856,
       "word": "青海为震区考研学生开通求助热线",
       "onboard_time": 1703076995,
