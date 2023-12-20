@@ -1,14 +1,22 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703114294058,
+  "endTime": 1703115258475,
   "band_list": [
     {
-      "raw_hot": 802529,
-      "num": 802529,
+      "raw_hot": 1566215,
+      "num": 1566215,
       "word": "甘肃积石山县4.1级地震",
       "onboard_time": 1703113703,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 844604,
+      "num": 227303,
+      "word": "实在受不了冬天 冻死我了",
+      "onboard_time": 1703084798,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 786154,
@@ -25,14 +33,6 @@
       "onboard_time": 1703077297,
       "rank": 0,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 716442,
-      "num": 227303,
-      "word": "实在受不了冬天 冻死我了",
-      "onboard_time": 1703084798,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 639737,
@@ -67,20 +67,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 547105,
+      "num": 547105,
+      "word": "目击者还原男子亮网红身份维权经过",
+      "onboard_time": 1703095998,
+      "rank": 16,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 520260,
       "num": 520260,
       "word": "警方通报2男子烧烤店殴打女店员",
       "onboard_time": 1703086174,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463500,
-      "num": 463500,
-      "word": "目击者还原男子亮网红身份维权经过",
-      "onboard_time": 1703095998,
-      "rank": 16,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 441567,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397202,
+      "num": 397202,
+      "word": "六种越吃越胖的伪粗粮",
+      "onboard_time": 1703102353,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 374889,
       "num": 374889,
       "word": "女子起诉父母不肯出钱给自己出国留学",
@@ -131,12 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357416,
-      "num": 357416,
-      "word": "六种越吃越胖的伪粗粮",
-      "onboard_time": 1703102353,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 350300,
+      "num": 350300,
+      "word": "宁波渔民捕获4.2斤海中土豪金能卖二三万",
+      "onboard_time": 1703091861,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344929,
@@ -145,6 +153,14 @@
       "onboard_time": 1703069136,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 339286,
+      "num": 143029,
+      "word": "医生不建议年轻人没问题就推拿",
+      "onboard_time": 1703114304,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327511,
@@ -163,12 +179,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313354,
-      "num": 313354,
-      "word": "宁波渔民捕获4.2斤海中土豪金能卖二三万",
-      "onboard_time": 1703091861,
-      "rank": 41,
+      "raw_hot": 317136,
+      "num": 148754,
+      "word": "杭州中小学2月3日起放寒假",
+      "onboard_time": 1703112859,
+      "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312062,
+      "num": 147367,
+      "word": "刘敏涛谈和王一博合作感受",
+      "onboard_time": 1703107093,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 304256,
@@ -201,14 +225,6 @@
       "onboard_time": 1703077472,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263076,
-      "num": 136905,
-      "word": "刘敏涛谈和王一博合作感受",
-      "onboard_time": 1703107093,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 259273,
@@ -251,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211039,
+      "num": 175533,
+      "word": "哈尔滨出现海王2冰雕",
+      "onboard_time": 1703090665,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205345,
       "num": 57816,
       "word": "积石山首个地震宝宝降生",
@@ -275,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189649,
+      "num": 144560,
+      "word": "你关掉的不是水是防冻功能",
+      "onboard_time": 1703113161,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189097,
       "num": 189097,
       "word": "考研前一周才发现没报上名",
       "onboard_time": 1703071594,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184109,
+      "num": 143954,
+      "word": "杀害许佳玲凶手被捕时仍自称其男友",
+      "onboard_time": 1703107093,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 183758,
@@ -307,14 +347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 179190,
-      "num": 134584,
-      "word": "杭州中小学2月3日起放寒假",
-      "onboard_time": 1703112859,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177696,
       "num": 177696,
       "word": "上车第一件事 锁车门",
@@ -329,22 +361,6 @@
       "onboard_time": 1703084678,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175533,
-      "num": 175533,
-      "word": "哈尔滨出现海王2冰雕",
-      "onboard_time": 1703090665,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 168148,
-      "num": 131968,
-      "word": "杀害许佳玲凶手被捕时仍自称其男友",
-      "onboard_time": 1703107093,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 165392,
@@ -379,6 +395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141429,
+      "num": 141429,
+      "word": "网传爱尔眼科一医生捶击患者头部",
+      "onboard_time": 1703114544,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141165,
       "num": 141165,
       "word": "为什么中年梗越来越火",
@@ -395,12 +419,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133056,
+      "num": 133056,
+      "word": "明明在教室却被记了旷课",
+      "onboard_time": 1703101514,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131756,
+      "num": 131756,
+      "word": "吴世勋入伍",
+      "onboard_time": 1703114844,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129702,
       "num": 129702,
       "word": "蛋仔派对 皮肤",
       "onboard_time": 1703081978,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126537,
+      "num": 126537,
+      "word": "孙女哄爷爷奶奶在上海吃牛蛙面只要5元",
+      "onboard_time": 1703113340,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126514,
@@ -451,28 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93586,
-      "num": 83577,
-      "word": "你关掉的不是水是防冻功能",
-      "onboard_time": 1703113161,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 93079,
       "num": 93079,
       "word": "哈尔滨冰雕师傅自述苦衷",
       "onboard_time": 1703072735,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91193,
-      "num": 91193,
-      "word": "明明在教室却被记了旷课",
-      "onboard_time": 1703101514,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 82487,
@@ -483,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81019,
+      "num": 81019,
+      "word": "地震灾区这一碗碗牛肉面暖人心",
+      "onboard_time": 1703114603,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75753,
       "num": 75753,
       "word": "妖怪狗",
@@ -491,12 +531,12 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 74084,
-      "num": 74084,
-      "word": "孙女哄爷爷奶奶在上海吃牛蛙面只要5元",
-      "onboard_time": 1703113340,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 69758,
+      "num": 69758,
+      "word": "猫咪为了蹭热乎躺进小狗堆",
+      "onboard_time": 1703115147,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 68949,
@@ -507,8 +547,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51755,
-      "num": 51755,
+      "raw_hot": 66862,
+      "num": 66862,
       "word": "爸爸65岁 但小名竟然叫喵呜",
       "onboard_time": 1703094317,
       "rank": 26,
@@ -563,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25402,
-      "num": 396258,
+      "raw_hot": 30119,
+      "num": 421639,
       "word": "2024年三农工作",
       "onboard_time": 1703076393,
       "rank": 2,
