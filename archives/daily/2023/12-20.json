@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703037033030,
+  "endTime": 1703038556970,
   "band_list": [
     {
       "raw_hot": 2816195,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1295492,
-      "num": 345183,
+      "num": 466012,
       "word": "谢娜说张杰不承认对她一见钟情",
       "onboard_time": 1703029833,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1277314,
+      "num": 478975,
+      "word": "爆改朱梓骁",
+      "onboard_time": 1703034638,
+      "rank": 30,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 1276348,
@@ -59,16 +67,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1165364,
-      "num": 325307,
-      "word": "爆改朱梓骁",
-      "onboard_time": 1703034638,
-      "rank": 30,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 1157148,
-      "num": 344566,
+      "num": 473358,
       "word": "图书馆有人破防了",
       "onboard_time": 1703029530,
       "rank": 11,
@@ -155,6 +155,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 606686,
+      "num": 606686,
+      "word": "WPS正式关闭第三方商业广告",
+      "onboard_time": 1703036973,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 584852,
+      "num": 584852,
+      "word": "消防员已营救甘肃地震被困人员78人",
+      "onboard_time": 1703036554,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581857,
+      "num": 581857,
+      "word": "姐姐地震时癫痫发作弟弟留屋内守护",
+      "onboard_time": 1703031574,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564672,
       "num": 462035,
       "word": "小白买车",
@@ -180,18 +204,26 @@
     },
     {
       "raw_hot": 552623,
-      "num": 341259,
+      "num": 458663,
       "word": "张婧仪范丞丞 眼神好慌乱",
       "onboard_time": 1703033018,
       "rank": 16,
       "category": "综艺"
     },
     {
-      "raw_hot": 538669,
-      "num": 538669,
-      "word": "姐姐地震时癫痫发作弟弟留屋内守护",
-      "onboard_time": 1703031574,
-      "rank": 32,
+      "raw_hot": 551412,
+      "num": 551412,
+      "word": "警方通报19岁男子砍伤3名女子",
+      "onboard_time": 1703036073,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550871,
+      "num": 292410,
+      "word": "小伙辞掉1年只上200天的工作卖烧烤",
+      "onboard_time": 1703036615,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -209,6 +241,14 @@
       "onboard_time": 1703006361,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 482139,
+      "num": 482139,
+      "word": "东北高中男生从没穿过羽绒服",
+      "onboard_time": 1703036135,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479321,
@@ -241,6 +281,14 @@
       "onboard_time": 1702995942,
       "rank": 17,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 434737,
+      "num": 281320,
+      "word": "大胃王吃播又悄然回来了",
+      "onboard_time": 1703036674,
+      "rank": 32,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 391673,
@@ -331,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323567,
+      "num": 323567,
+      "word": "越是聪明的人越不明白",
+      "onboard_time": 1703036135,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 319437,
       "num": 319437,
       "word": "上班化妆有必要吗",
       "onboard_time": 1703031455,
       "rank": 29,
       "category": "社会新闻,美妆"
-    },
-    {
-      "raw_hot": 316438,
-      "num": 316438,
-      "word": "东北高中男生从没穿过羽绒服",
-      "onboard_time": 1703036135,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316142,
@@ -379,6 +427,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311828,
+      "num": 311828,
+      "word": "EXO初雪日冠",
+      "onboard_time": 1703037574,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 311527,
+      "num": 311527,
+      "word": "衣服上的火锅味为什么散不掉",
+      "onboard_time": 1703036615,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 311252,
       "num": 311252,
       "word": "一碰小狗鼻子就自动吐舌头",
@@ -387,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305498,
-      "num": 305498,
-      "word": "警方通报19岁男子砍伤3名女子",
-      "onboard_time": 1703036073,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 305617,
+      "num": 305617,
+      "word": "东芝正式退市",
+      "onboard_time": 1703038296,
+      "rank": 19,
+      "category": "财经,数码"
     },
     {
       "raw_hot": 296887,
@@ -419,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276341,
-      "num": 276341,
-      "word": "消防员已营救甘肃地震被困人员78人",
-      "onboard_time": 1703036554,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272608,
       "num": 272608,
       "word": "这么一翻译 豪门味变火锅味",
@@ -435,20 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270287,
-      "num": 270287,
-      "word": "小伙辞掉1年只上200天的工作卖烧烤",
-      "onboard_time": 1703036615,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260059,
       "num": 260059,
       "word": "甘肃震区群众用上了解放军的野战帐篷",
       "onboard_time": 1703000857,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255729,
+      "num": 255729,
+      "word": "网易云年度总结",
+      "onboard_time": 1703036374,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 245495,
@@ -475,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236209,
+      "num": 236209,
+      "word": "AppleWatch禁令最新进展",
+      "onboard_time": 1703037212,
+      "rank": 28,
+      "category": "数码,社会新闻"
+    },
+    {
       "raw_hot": 231809,
       "num": 231809,
       "word": "张译拒跳科目三",
@@ -483,28 +547,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 228115,
-      "num": 228115,
-      "word": "衣服上的火锅味为什么散不掉",
-      "onboard_time": 1703036615,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 228032,
       "num": 228032,
       "word": "冰雪大世界游客高喊退票",
       "onboard_time": 1703010136,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224036,
-      "num": 224036,
-      "word": "大胃王吃播又悄然回来了",
-      "onboard_time": 1703036674,
-      "rank": 32,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 217094,
@@ -547,14 +595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 203518,
-      "num": 203518,
-      "word": "越是聪明的人越不明白",
-      "onboard_time": 1703036135,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 194123,
       "num": 194123,
       "word": "焦恩俊夸了于十三",
@@ -569,14 +609,6 @@
       "onboard_time": 1703031157,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190770,
-      "num": 190770,
-      "word": "网易云年度总结",
-      "onboard_time": 1703036374,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 185002,
@@ -651,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157451,
+      "num": 157451,
+      "word": "是宝宝也是废墟中无畏的英雄",
+      "onboard_time": 1703037394,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149254,
       "num": 135723,
       "word": "金莎最向往的夫妻是朱丹周一围",
@@ -691,12 +731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130162,
-      "num": 130162,
-      "word": "WPS正式关闭第三方商业广告",
-      "onboard_time": 1703036973,
-      "rank": 47,
-      "category": "互联网"
+      "raw_hot": 130116,
+      "num": 130116,
+      "word": "这4种表现是在提示骨头病了",
+      "onboard_time": 1703038356,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128371,
@@ -745,6 +785,14 @@
       "onboard_time": 1702991137,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117614,
+      "num": 117614,
+      "word": "福建泉州一化工厂起火",
+      "onboard_time": 1703038535,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116012,
