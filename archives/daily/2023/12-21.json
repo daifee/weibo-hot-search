@@ -1,6 +1,6 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703103530353,
+  "endTime": 1703104457994,
   "band_list": [
     {
       "raw_hot": 786154,
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35123,
+      "num": 35123,
+      "word": "积石山灾区急需清真食品御寒物资",
+      "onboard_time": 1703100675,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34113,
       "num": 34113,
       "word": "杨元庆向中科大捐赠2亿元",
@@ -475,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33714,
-      "num": 33714,
-      "word": "积石山灾区急需清真食品御寒物资",
-      "onboard_time": 1703100675,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 28491,
+      "num": 28491,
+      "word": "明明在教室却被记了旷课",
+      "onboard_time": 1703101514,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 24783,
@@ -491,16 +499,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 24492,
-      "num": 24492,
-      "word": "明明在教室却被记了旷课",
-      "onboard_time": 1703101514,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 18366,
-      "num": 18366,
+      "raw_hot": 22177,
+      "num": 22177,
       "word": "六种越吃越胖的伪粗粮",
       "onboard_time": 1703102353,
       "rank": 39,

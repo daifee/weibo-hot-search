@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703103530353,
+  "endTime": 1703104457994,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -11403,6 +11403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35123,
+      "num": 35123,
+      "word": "积石山灾区急需清真食品御寒物资",
+      "onboard_time": 1703100675,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34488,
       "num": 34488,
       "word": "2024年度期待电竞选手",
@@ -11416,14 +11424,6 @@
       "word": "杨元庆向中科大捐赠2亿元",
       "onboard_time": 1703095879,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33714,
-      "num": 33714,
-      "word": "积石山灾区急需清真食品御寒物资",
-      "onboard_time": 1703100675,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -11531,6 +11531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28491,
+      "num": 28491,
+      "word": "明明在教室却被记了旷课",
+      "onboard_time": 1703101514,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28126,
       "num": 198021,
       "word": "苏醒吴莫愁同花顺满满遗憾",
@@ -11563,20 +11571,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 24492,
-      "num": 24492,
-      "word": "明明在教室却被记了旷课",
-      "onboard_time": 1703101514,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 23184,
       "num": 23184,
       "word": "搏击减脂操太爽了",
       "onboard_time": 1703023695,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 22177,
+      "num": 22177,
+      "word": "六种越吃越胖的伪粗粮",
+      "onboard_time": 1703102353,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20866,
@@ -11601,14 +11609,6 @@
       "onboard_time": 1702847654,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18366,
-      "num": 18366,
-      "word": "六种越吃越胖的伪粗粮",
-      "onboard_time": 1703102353,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 17673,

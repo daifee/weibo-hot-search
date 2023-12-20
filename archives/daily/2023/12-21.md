@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/21 00:21:26 ~ 2023/12/21 04:18:50
+本榜单时间：2023/12/21 00:21:26 ~ 2023/12/21 04:34:17
 </p>
 </blockquote>
 <p>
@@ -363,14 +363,20 @@ QQ音乐发布2023年度听歌报告（热度：38254）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%AF%E7%9F%B3%E5%B1%B1%E7%81%BE%E5%8C%BA%E6%80%A5%E9%9C%80%E6%B8%85%E7%9C%9F%E9%A3%9F%E5%93%81%E5%BE%A1%E5%AF%92%E7%89%A9%E8%B5%84%23" target="weibo">
+积石山灾区急需清真食品御寒物资（热度：35123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%85%83%E5%BA%86%E5%90%91%E4%B8%AD%E7%A7%91%E5%A4%A7%E6%8D%90%E8%B5%A02%E4%BA%BF%E5%85%83%23" target="weibo">
 杨元庆向中科大捐赠2亿元（热度：34113）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%AF%E7%9F%B3%E5%B1%B1%E7%81%BE%E5%8C%BA%E6%80%A5%E9%9C%80%E6%B8%85%E7%9C%9F%E9%A3%9F%E5%93%81%E5%BE%A1%E5%AF%92%E7%89%A9%E8%B5%84%23" target="weibo">
-积石山灾区急需清真食品御寒物资（热度：33714）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%8E%E5%9C%A8%E6%95%99%E5%AE%A4%E5%8D%B4%E8%A2%AB%E8%AE%B0%E4%BA%86%E6%97%B7%E8%AF%BE%23" target="weibo">
+明明在教室却被记了旷课（热度：28491）
 </a>
 </li>
 
@@ -381,14 +387,8 @@ QQ音乐发布2023年度听歌报告（热度：38254）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%8E%E5%9C%A8%E6%95%99%E5%AE%A4%E5%8D%B4%E8%A2%AB%E8%AE%B0%E4%BA%86%E6%97%B7%E8%AF%BE%23" target="weibo">
-明明在教室却被记了旷课（热度：24492）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%A7%8D%E8%B6%8A%E5%90%83%E8%B6%8A%E8%83%96%E7%9A%84%E4%BC%AA%E7%B2%97%E7%B2%AE%23" target="weibo">
-六种越吃越胖的伪粗粮（热度：18366）
+六种越吃越胖的伪粗粮（热度：22177）
 </a>
 </li>
 
