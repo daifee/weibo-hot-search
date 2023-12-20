@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703064838725,
+  "endTime": 1703067359692,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -256,6 +256,14 @@
       "word": "多位艺人明星向甘肃地震灾区进行捐赠",
       "onboard_time": 1702961743,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2639986,
+      "num": 314624,
+      "word": "女网红笑称甘肃地震和我有什么关系",
+      "onboard_time": 1703062414,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -633,14 +641,6 @@
       "onboard_time": 1702813420,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1626591,
-      "num": 314624,
-      "word": "女网红笑称甘肃地震和我有什么关系",
-      "onboard_time": 1703062414,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1626420,
@@ -3084,7 +3084,7 @@
     },
     {
       "raw_hot": 523555,
-      "num": 295552,
+      "num": 297948,
       "word": "宫野真守离婚",
       "onboard_time": 1703063976,
       "rank": 15,
@@ -3875,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410245,
+      "num": 291092,
+      "word": "3块1根的烤肠为何风靡全国",
+      "onboard_time": 1703066136,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 410167,
       "num": 410167,
       "word": "星光大赏 小的饿大的困",
@@ -4059,6 +4067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 395342,
+      "num": 395342,
+      "word": "iOS17被曝闹钟不响问题",
+      "onboard_time": 1703063674,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 395215,
       "num": 373531,
       "word": "董宇辉称小作文事件我的处理很幼稚",
@@ -4169,6 +4185,14 @@
       "onboard_time": 1702785572,
       "rank": 33,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 387927,
+      "num": 291858,
+      "word": "一番男主",
+      "onboard_time": 1703064815,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 387706,
@@ -4403,6 +4427,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 366467,
+      "num": 366467,
+      "word": "冰雪大世界取消预约制",
+      "onboard_time": 1703063375,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 366358,
       "num": 366358,
       "word": "一念关山 原剧本",
@@ -4465,6 +4497,14 @@
       "onboard_time": 1703049994,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 359846,
+      "num": 359846,
+      "word": "哈尔滨大雪人已就位",
+      "onboard_time": 1703062832,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 358651,
@@ -4753,14 +4793,6 @@
       "onboard_time": 1703051372,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335647,
-      "num": 335647,
-      "word": "冰雪大世界取消预约制",
-      "onboard_time": 1703063375,
-      "rank": 9,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 334209,
@@ -5315,14 +5347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 295933,
-      "num": 295933,
-      "word": "iOS17被曝闹钟不响问题",
-      "onboard_time": 1703063674,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 295813,
       "num": 295813,
       "word": "赵文卓 爸而不爹",
@@ -5731,6 +5755,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 273886,
+      "num": 273886,
+      "word": "jallycat的高端线reallycat",
+      "onboard_time": 1703066674,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273449,
       "num": 262673,
       "word": "鸣龙少年里三种畸形的亲子关系",
@@ -5753,14 +5785,6 @@
       "onboard_time": 1702735359,
       "rank": 32,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 272475,
-      "num": 272475,
-      "word": "哈尔滨大雪人已就位",
-      "onboard_time": 1703062832,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 272295,
@@ -5987,6 +6011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260381,
+      "num": 260381,
+      "word": "热巴八个字让胡先煦收回大牙",
+      "onboard_time": 1703064994,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260059,
       "num": 260059,
       "word": "甘肃震区群众用上了解放军的野战帐篷",
@@ -6097,6 +6129,14 @@
       "onboard_time": 1702947107,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253737,
+      "num": 253737,
+      "word": "你不是怀在妈妈肚子里 而是心里",
+      "onboard_time": 1703064154,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 253724,
@@ -6337,14 +6377,6 @@
       "onboard_time": 1702958324,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243121,
-      "num": 243121,
-      "word": "你不是怀在妈妈肚子里 而是心里",
-      "onboard_time": 1703064154,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 242678,
@@ -6601,6 +6633,14 @@
       "onboard_time": 1702807904,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233207,
+      "num": 233207,
+      "word": "因为咖位be的CP",
+      "onboard_time": 1703066912,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 233043,
@@ -7483,6 +7523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200966,
+      "num": 200966,
+      "word": "金莎没有和自己的衰老和解",
+      "onboard_time": 1703066073,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200786,
       "num": 200786,
       "word": "怎样设置手机地震预警",
@@ -7521,6 +7569,14 @@
       "onboard_time": 1703043275,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199993,
+      "num": 199993,
+      "word": "影视圈 消费降级",
+      "onboard_time": 1703064574,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 199894,
@@ -8043,6 +8099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187334,
+      "num": 187334,
+      "word": "老美谈华妃之死",
+      "onboard_time": 1703067093,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186821,
       "num": 186821,
       "word": "道枝骏佑金发",
@@ -8177,14 +8241,6 @@
       "onboard_time": 1702908033,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184405,
-      "num": 184405,
-      "word": "影视圈 消费降级",
-      "onboard_time": 1703064574,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 184276,
@@ -8427,6 +8483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175150,
+      "num": 175150,
+      "word": "海王 奥姆",
+      "onboard_time": 1703066013,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174983,
       "num": 174983,
       "word": "草帽姐1晚上装了2大车御寒女性物资",
@@ -8489,6 +8553,14 @@
       "onboard_time": 1702910019,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 172993,
+      "num": 172993,
+      "word": "小杨哥回应小饭馆吃饭被指作秀",
+      "onboard_time": 1703064756,
+      "rank": 41,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 172345,
@@ -9219,14 +9291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151661,
-      "num": 151661,
-      "word": "小杨哥回应小饭馆吃饭被指作秀",
-      "onboard_time": 1703064756,
-      "rank": 41,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 150772,
       "num": 150772,
       "word": "6个动作改善面部松弛",
@@ -9241,6 +9305,14 @@
       "onboard_time": 1702878513,
       "rank": 46,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 150391,
+      "num": 150391,
+      "word": "赵今麦坐婚轿路透",
+      "onboard_time": 1703064815,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 149867,
@@ -9315,14 +9387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147515,
-      "num": 147515,
-      "word": "赵今麦坐婚轿路透",
-      "onboard_time": 1703064815,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147429,
       "num": 422916,
       "word": "十五分钟高效燃脂HIIT",
@@ -9363,12 +9427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145894,
+      "num": 369835,
+      "word": "患癌奶奶5年织200多件毛衣给山区娃",
+      "onboard_time": 1703066374,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145572,
       "num": 145572,
       "word": "站姐镜头下的视觉暴击",
       "onboard_time": 1702741657,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145162,
+      "num": 408190,
+      "word": "消防员为震区受伤男童包扎伤口",
+      "onboard_time": 1703065832,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144717,
@@ -9539,14 +9619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137425,
-      "num": 137425,
-      "word": "一番男主",
-      "onboard_time": 1703064815,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136200,
       "num": 136200,
       "word": "库里33分",
@@ -9641,6 +9713,14 @@
       "onboard_time": 1702908335,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 131010,
+      "num": 131010,
+      "word": "已确定青海失踪人员大致区域",
+      "onboard_time": 1703067334,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130873,
@@ -9745,6 +9825,14 @@
       "onboard_time": 1703049755,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124814,
+      "num": 362750,
+      "word": "被安置点的这一幕暖到了",
+      "onboard_time": 1703066912,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123917,
@@ -10067,6 +10155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84841,
+      "num": 466279,
+      "word": "他们的背是最坚实的依靠",
+      "onboard_time": 1703061875,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84425,
       "num": 326982,
       "word": "霸王茶姬捐款500万支援甘肃",
@@ -10121,14 +10217,6 @@
       "onboard_time": 1702785630,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 78812,
-      "num": 466279,
-      "word": "他们的背是最坚实的依靠",
-      "onboard_time": 1703061875,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78529,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1703067359692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 548605,
+        "num": 548605,
+        "word": "地震后父亲打给远嫁女儿差点哭了",
+        "onboard_time": 1703054970,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145162,
+        "num": 408190,
+        "word": "消防员为震区受伤男童包扎伤口",
+        "onboard_time": 1703065832,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84841,
+        "num": 401314,
+        "word": "他们的背是最坚实的依靠",
+        "onboard_time": 1703061875,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395342,
+        "num": 395342,
+        "word": "iOS17被曝闹钟不响问题",
+        "onboard_time": 1703063674,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145894,
+        "num": 369835,
+        "word": "患癌奶奶5年织200多件毛衣给山区娃",
+        "onboard_time": 1703066374,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366467,
+        "num": 366467,
+        "word": "冰雪大世界取消预约制",
+        "onboard_time": 1703063375,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 124814,
+        "num": 362750,
+        "word": "被安置点的这一幕暖到了",
+        "onboard_time": 1703066912,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359846,
+        "num": 359846,
+        "word": "哈尔滨大雪人已就位",
+        "onboard_time": 1703062832,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 316285,
+        "num": 316285,
+        "word": "医生建议3种洗洁精最好别用",
+        "onboard_time": 1703058757,
+        "rank": 8,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 194910,
+        "num": 315380,
+        "word": "青海震区仍有16人失联",
+        "onboard_time": 1703059776,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2639986,
+        "num": 313890,
+        "word": "女网红笑称甘肃地震和我有什么关系",
+        "onboard_time": 1703062414,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299369,
+        "num": 311357,
+        "word": "毛晓彤鼻子 鼻翼比例",
+        "onboard_time": 1703061336,
+        "rank": 11,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 903764,
+        "num": 308641,
+        "word": "扬州大学爆改985 保安大叔打断施法",
+        "onboard_time": 1703059054,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 861919,
+        "num": 306566,
+        "word": "赵丽颖张若昀 在人间",
+        "onboard_time": 1703062775,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 731937,
+        "num": 304742,
+        "word": "苏州杀夫藏尸冰柜案明日开庭",
+        "onboard_time": 1703057793,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667738,
+        "num": 301453,
+        "word": "周一围 我这一生如履薄冰",
+        "onboard_time": 1703060135,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586093,
+        "num": 300344,
+        "word": "小杨哥称曾拒绝2800万玩三场游戏",
+        "onboard_time": 1703056235,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 509281,
+        "num": 297948,
+        "word": "宫野真守离婚",
+        "onboard_time": 1703063976,
+        "rank": 17,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 174610,
+        "num": 294046,
+        "word": "甘肃震区煮不完的饺子和不灭的车灯",
+        "onboard_time": 1703041113,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387927,
+        "num": 291858,
+        "word": "一番男主",
+        "onboard_time": 1703064815,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410245,
+        "num": 291092,
+        "word": "3块1根的烤肠为何风靡全国",
+        "onboard_time": 1703066136,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 360270,
+        "num": 288045,
+        "word": "小杨哥回应每月发5000万工资",
+        "onboard_time": 1703053590,
+        "rank": 21,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 338257,
+        "num": 284581,
+        "word": "胡锡进浮亏首次突破5万元",
+        "onboard_time": 1703064215,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 284459,
+        "num": 284459,
+        "word": "毛晓彤 妆容",
+        "onboard_time": 1703064398,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273886,
+        "num": 273886,
+        "word": "jallycat的高端线reallycat",
+        "onboard_time": 1703066674,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271575,
+        "num": 271575,
+        "word": "希林娜依高被冻哭",
+        "onboard_time": 1703059833,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260381,
+        "num": 260381,
+        "word": "热巴八个字让胡先煦收回大牙",
+        "onboard_time": 1703064994,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258889,
+        "num": 258889,
+        "word": "当家里有个没结婚的长辈",
+        "onboard_time": 1703063073,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253737,
+        "num": 253737,
+        "word": "你不是怀在妈妈肚子里 而是心里",
+        "onboard_time": 1703064154,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233577,
+        "num": 233577,
+        "word": "极限挑战第十季阵容",
+        "onboard_time": 1703059295,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233207,
+        "num": 233207,
+        "word": "因为咖位be的CP",
+        "onboard_time": 1703066912,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228006,
+        "num": 228006,
+        "word": "阿娇古装 神颜美强惨",
+        "onboard_time": 1703063432,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214856,
+        "num": 214856,
+        "word": "辛芷蕾早期也是甜妹",
+        "onboard_time": 1703058154,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214571,
+        "num": 214571,
+        "word": "阴阳师 玩家道歉",
+        "onboard_time": 1703057853,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206774,
+        "num": 206774,
+        "word": "吴千语施伯雄官宣结婚",
+        "onboard_time": 1703048977,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200966,
+        "num": 200966,
+        "word": "金莎没有和自己的衰老和解",
+        "onboard_time": 1703066073,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199993,
+        "num": 199993,
+        "word": "影视圈 消费降级",
+        "onboard_time": 1703064574,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194917,
+        "num": 194917,
+        "word": "刘诗诗回应古装是自己的统治区",
+        "onboard_time": 1703063556,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187334,
+        "num": 187334,
+        "word": "老美谈华妃之死",
+        "onboard_time": 1703067093,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184983,
+        "num": 184983,
+        "word": "这种睡姿势正在毁掉你的脊椎",
+        "onboard_time": 1703050955,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182242,
+        "num": 182242,
+        "word": "张凌赫红衣婚服路透",
+        "onboard_time": 1703063015,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175150,
+        "num": 175150,
+        "word": "海王 奥姆",
+        "onboard_time": 1703066013,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172993,
+        "num": 172993,
+        "word": "小杨哥回应小饭馆吃饭被指作秀",
+        "onboard_time": 1703064756,
+        "rank": 42,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 164596,
+        "num": 164596,
+        "word": "越吃越瘦的食物",
+        "onboard_time": 1703062655,
+        "rank": 43,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 155373,
+        "num": 155373,
+        "word": "你能接受恋丑癖好吗",
+        "onboard_time": 1703049994,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150391,
+        "num": 150391,
+        "word": "赵今麦坐婚轿路透",
+        "onboard_time": 1703064815,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141711,
+        "num": 141711,
+        "word": "马来西亚歌手许佳玲被粉丝杀害",
+        "onboard_time": 1703046763,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140897,
+        "num": 140897,
+        "word": "权志龙或将重回YG",
+        "onboard_time": 1703060496,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131010,
+        "num": 131010,
+        "word": "已确定青海失踪人员大致区域",
+        "onboard_time": 1703067334,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128053,
+        "num": 128053,
+        "word": "许佳玲遇害前一天刚与男友拍完婚纱照",
+        "onboard_time": 1703054492,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一组数据见证救援力量#"
+    }
+  }
+}
