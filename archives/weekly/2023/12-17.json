@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703085328030,
+  "endTime": 1703086453854,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -3835,8 +3835,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451025,
+      "num": 451025,
+      "word": "Bin 恋爱",
+      "onboard_time": 1703085456,
+      "rank": 4,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 449908,
-      "num": 275700,
+      "num": 316736,
       "word": "水电全免房租减半意味着什么",
       "onboard_time": 1703082702,
       "rank": 41,
@@ -4305,6 +4313,14 @@
       "onboard_time": 1702822367,
       "rank": 45,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 396936,
+      "num": 316859,
+      "word": "王安宇胡先煦你俩有点暧昧了",
+      "onboard_time": 1703084499,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 396926,
@@ -5043,6 +5059,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 337517,
+      "num": 316701,
+      "word": "景天紫萱重聚繁花",
+      "onboard_time": 1703084077,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337065,
       "num": 293033,
       "word": "曹云金力挺董宇辉",
@@ -5187,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326317,
+      "num": 326317,
+      "word": "官方回应网传爱尔眼科医生捶击患者",
+      "onboard_time": 1703085156,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325936,
       "num": 211590,
       "word": "孟美岐冰雪妆",
@@ -5291,14 +5323,6 @@
       "category": "社会新闻,美妆"
     },
     {
-      "raw_hot": 319144,
-      "num": 273712,
-      "word": "景天紫萱重聚繁花",
-      "onboard_time": 1703084077,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 317724,
       "num": 407458,
       "word": "江苏多地停课一天",
@@ -5337,6 +5361,14 @@
       "onboard_time": 1703041591,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316643,
+      "num": 316643,
+      "word": "董卿 撒贝宁同款表情",
+      "onboard_time": 1703085696,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 316637,
@@ -5532,7 +5564,7 @@
     },
     {
       "raw_hot": 303792,
-      "num": 271478,
+      "num": 278055,
       "word": "为什么中年梗越来越火",
       "onboard_time": 1703083905,
       "rank": 23,
@@ -6147,6 +6179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273335,
+      "num": 273335,
+      "word": "实在受不了冬天 冻死我了",
+      "onboard_time": 1703084798,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273309,
       "num": 273309,
       "word": "罗永浩说董宇辉拿走一半收益才公平",
@@ -6209,14 +6249,6 @@
       "onboard_time": 1702900774,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267028,
-      "num": 267028,
-      "word": "王安宇胡先煦你俩有点暧昧了",
-      "onboard_time": 1703084499,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 266433,
@@ -6313,6 +6345,14 @@
       "onboard_time": 1702896513,
       "rank": 30,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 263114,
+      "num": 263114,
+      "word": "心中的古装剧Top1",
+      "onboard_time": 1703084678,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 262223,
@@ -7089,14 +7129,6 @@
       "onboard_time": 1702955498,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232931,
-      "num": 232931,
-      "word": "心中的古装剧Top1",
-      "onboard_time": 1703084678,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 232135,
@@ -9195,6 +9227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172172,
+      "num": 172172,
+      "word": "甘肃地震一线",
+      "onboard_time": 1703085814,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171836,
       "num": 171836,
       "word": "凯尔特人vs勇士",
@@ -9475,14 +9515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165634,
-      "num": 165634,
-      "word": "实在受不了冬天 冻死我了",
-      "onboard_time": 1703084798,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165450,
       "num": 165450,
       "word": "甘肃震区男孩向救援警车敬礼",
@@ -9617,6 +9649,14 @@
       "onboard_time": 1702971276,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162708,
+      "num": 162708,
+      "word": "TXT和keria梦幻联动",
+      "onboard_time": 1703085336,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 161756,
@@ -9939,6 +9979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153617,
+      "num": 153617,
+      "word": "警方通报2男子烧烤店殴打女店员",
+      "onboard_time": 1703086174,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153567,
       "num": 440113,
       "word": "各位不要在我的身体里谈恋爱",
@@ -10001,6 +10049,14 @@
       "onboard_time": 1703078675,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 151604,
+      "num": 151604,
+      "word": "48个音标快速记忆法",
+      "onboard_time": 1703083357,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 150772,
@@ -10128,14 +10184,6 @@
       "word": "受伤小狍子拦在路中像在求救",
       "onboard_time": 1702786892,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146530,
-      "num": 146530,
-      "word": "官方回应网传爱尔眼科医生捶击患者",
-      "onboard_time": 1703085156,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
