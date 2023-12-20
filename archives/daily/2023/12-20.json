@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703072025113,
+  "endTime": 1703075238726,
   "band_list": [
     {
       "raw_hot": 2829379,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1371733,
-      "num": 512164,
+      "num": 608946,
       "word": "王楚钦锡纸烫",
       "onboard_time": 1703068776,
       "rank": 3,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1171965,
+      "num": 1171965,
+      "word": "甘肃积石山地震致134人遇难",
+      "onboard_time": 1703073757,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1163494,
       "num": 490339,
       "word": "年度歌手",
@@ -193,6 +201,14 @@
       "onboard_time": 1703056292,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1070479,
+      "num": 358281,
+      "word": "唐嫣被一把拽到C位",
+      "onboard_time": 1703070035,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 1043168,
@@ -283,14 +299,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 845830,
-      "num": 358281,
-      "word": "唐嫣被一把拽到C位",
-      "onboard_time": 1703070035,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 834417,
       "num": 834417,
       "word": "地震已致青海海东18人遇难198人受伤",
@@ -369,6 +377,14 @@
       "onboard_time": 1703033918,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729456,
+      "num": 625640,
+      "word": "TheShy改名",
+      "onboard_time": 1703073694,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 727506,
@@ -451,6 +467,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 654452,
+      "num": 358498,
+      "word": "明星日薪 网红时薪",
+      "onboard_time": 1703069136,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 647940,
       "num": 349039,
       "word": "迪丽热巴 差点咬着我的后槽牙",
@@ -467,19 +491,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 632694,
-      "num": 358498,
-      "word": "明星日薪 网红时薪",
-      "onboard_time": 1703069136,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 628644,
       "num": 628644,
       "word": "姐姐地震时癫痫发作弟弟留屋内守护",
       "onboard_time": 1703031574,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 621703,
+      "num": 621703,
+      "word": "女孩一年举报几十个猫贩子窝点",
+      "onboard_time": 1703069435,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -521,6 +545,14 @@
       "onboard_time": 1703059833,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 592413,
+      "num": 592413,
+      "word": "哈尔滨冰雕师傅自述苦衷",
+      "onboard_time": 1703072735,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584852,
@@ -787,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403074,
+      "num": 279462,
+      "word": "难哄 班底",
+      "onboard_time": 1703071354,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402722,
       "num": 402722,
       "word": "甘肃救援工作已基本结束",
@@ -801,6 +841,14 @@
       "onboard_time": 1703054433,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393038,
+      "num": 250617,
+      "word": "考研前一周才发现没报上名",
+      "onboard_time": 1703071594,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 391673,
@@ -923,11 +971,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 352297,
-      "num": 495636,
-      "word": "女孩一年举报几十个猫贩子窝点",
-      "onboard_time": 1703069435,
-      "rank": 4,
+      "raw_hot": 353452,
+      "num": 250233,
+      "word": "女主播剧烈咳嗽后大出血险没命",
+      "onboard_time": 1703073031,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -945,14 +993,6 @@
       "onboard_time": 1703051372,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 331925,
-      "num": 279462,
-      "word": "难哄 班底",
-      "onboard_time": 1703071354,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 329476,
@@ -1067,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315361,
+      "num": 315361,
+      "word": "甘肃地震已转移安置87076人",
+      "onboard_time": 1703071536,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313648,
       "num": 284489,
       "word": "刘浩存 光腿神器",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1703047899,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306462,
+      "num": 251040,
+      "word": "脱轨 男女主演技",
+      "onboard_time": 1703072433,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 303602,
@@ -1227,6 +1283,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 276279,
+      "num": 250191,
+      "word": "迪丽热巴赵昭仪 共脑",
+      "onboard_time": 1703073093,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274168,
       "num": 274168,
       "word": "刘诗诗回应古装是自己的统治区",
@@ -1315,12 +1379,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 255443,
+      "num": 249820,
+      "word": "不买质量差的卫生纸是底线",
+      "onboard_time": 1703072375,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253737,
       "num": 253737,
       "word": "你不是怀在妈妈肚子里 而是心里",
       "onboard_time": 1703064154,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249438,
+      "num": 249438,
+      "word": "第一次坐飞机的人三成来自小城市",
+      "onboard_time": 1703072614,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 245600,
+      "num": 199228,
+      "word": "滇西小哥 涮羊肉",
+      "onboard_time": 1703074053,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 245495,
@@ -1387,14 +1475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235228,
-      "num": 235228,
-      "word": "考研前一周才发现没报上名",
-      "onboard_time": 1703071594,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 235198,
       "num": 235198,
       "word": "社交平台现冰雪大世界白嫖攻略",
@@ -1425,6 +1505,14 @@
       "onboard_time": 1702968517,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 230539,
+      "num": 230539,
+      "word": "闵希珍SM 商战",
+      "onboard_time": 1703071653,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 228032,
@@ -1475,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223441,
+      "num": 223441,
+      "word": "顺产描述",
+      "onboard_time": 1703074233,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222023,
       "num": 222023,
       "word": "安宥真别麦",
@@ -1499,6 +1595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218399,
+      "num": 198479,
+      "word": "考公吧少年 团综",
+      "onboard_time": 1703074952,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217094,
       "num": 217094,
       "word": "在寝室对四级答案被室友骂了",
@@ -1521,14 +1625,6 @@
       "onboard_time": 1703052693,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213690,
-      "num": 213690,
-      "word": "闵希珍SM 商战",
-      "onboard_time": 1703071653,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 212430,
@@ -1755,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189801,
+      "num": 189801,
+      "word": "WTT多哈站混双名单",
+      "onboard_time": 1703074355,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188731,
       "num": 188731,
       "word": "海王2今日上映",
@@ -1848,6 +1952,14 @@
       "word": "郭敬明又拍出我爱看的剧情了",
       "onboard_time": 1702974033,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176004,
+      "num": 176004,
+      "word": "东方卫视2024大剧片单",
+      "onboard_time": 1703074833,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1963,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166044,
+      "num": 166044,
+      "word": "阿音 神隐背锅侠",
+      "onboard_time": 1703075073,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165885,
       "num": 334855,
       "word": "没见过这么大的草莓熊",
@@ -2075,6 +2195,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 151790,
+      "num": 151790,
+      "word": "爸爸鼓励天生无臂宝宝成功用脚剥桔",
+      "onboard_time": 1703073333,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150391,
       "num": 150391,
       "word": "赵今麦坐婚轿路透",
@@ -2185,6 +2313,14 @@
       "onboard_time": 1703027964,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137070,
+      "num": 137070,
+      "word": "东方卫视2024综艺片单",
+      "onboard_time": 1703074534,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 136200,
@@ -2332,7 +2468,7 @@
     },
     {
       "raw_hot": 84841,
-      "num": 522295,
+      "num": 626433,
       "word": "他们的背是最坚实的依靠",
       "onboard_time": 1703061875,
       "rank": 2,
@@ -2409,6 +2545,14 @@
       "onboard_time": 1703070035,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30182,
+      "num": 159808,
+      "word": "星纪元ES 30万内唯一标配空悬",
+      "onboard_time": 1703074652,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 23184,

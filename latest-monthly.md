@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/20 19:33:45
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/20 20:27:18
 </p>
 </blockquote>
 <p>
@@ -3429,6 +3429,12 @@ E6（热度：1247213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E8%87%B4134%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+甘肃积石山地震致134人遇难（热度：1171965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E8%BF%AA%E5%A5%A5%E5%85%A8%E7%90%83%E5%A4%A7%E4%BD%BF%23" target="weibo">
 周杰伦 迪奥全球大使（热度：1170954）
 </a>
@@ -3815,6 +3821,12 @@ GQ内涵（热度：1094599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E4%BA%BA%E7%BB%88%E4%BA%8E%E5%90%91%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BD%8E%E5%A4%B4%E4%BA%86%23" target="weibo">
 南方人终于向羽绒服低头了（热度：1071888）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8B%BD%E5%88%B0C%E4%BD%8D%23" target="weibo">
+唐嫣被一把拽到C位（热度：1070479）
 </a>
 </li>
 
@@ -5181,12 +5193,6 @@ GQ 坐船时长（热度：926354）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%A2%AB%E4%B8%80%E6%8A%8A%E6%8B%BD%E5%88%B0C%E4%BD%8D%23" target="weibo">
-唐嫣被一把拽到C位（热度：845830）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%9E%E5%A4%8D%E5%8F%A4%E5%B7%A8%E5%9F%BA%23" target="weibo">
 鹿晗回复古巨基（热度：845795）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16或调整相机岛设计（热度：772692）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%A2%A6%E4%B9%8B%E6%98%9F%E5%B4%A9%E4%BA%86%23" target="weibo">
 元梦之星崩了（热度：757866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%20%E9%99%8D%E5%90%A7%23" target="weibo">
-父亲 降吧（热度：756718）
 </a>
 </li>
 
