@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703076100181,
+  "endTime": 1703078206236,
   "band_list": [
     {
       "raw_hot": 2829379,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2639986,
-      "num": 361241,
+      "num": 400864,
       "word": "女网红笑称甘肃地震和我有什么关系",
       "onboard_time": 1703062414,
       "rank": 14,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1689325,
-      "num": 360755,
+      "num": 398931,
       "word": "毛晓彤鼻子 鼻翼比例",
       "onboard_time": 1703061336,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1486868,
-      "num": 359329,
+      "num": 395552,
       "word": "扬州大学爆改985 保安大叔打断施法",
       "onboard_time": 1703059054,
       "rank": 10,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 1394774,
-      "num": 360860,
+      "num": 399894,
       "word": "权志龙YG正式分手",
       "onboard_time": 1703068958,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1378524,
+      "num": 669436,
+      "word": "考公吧少年 团综",
+      "onboard_time": 1703074952,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1371733,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1070479,
-      "num": 358281,
+      "num": 400416,
       "word": "唐嫣被一把拽到C位",
       "onboard_time": 1703070035,
       "rank": 18,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 993710,
-      "num": 358916,
+      "num": 396506,
       "word": "赵丽颖张若昀 在人间",
       "onboard_time": 1703062775,
       "rank": 15,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 861928,
-      "num": 360072,
+      "num": 395952,
       "word": "微博之夜 投票",
       "onboard_time": 1703069136,
       "rank": 13,
@@ -339,6 +347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 773267,
+      "num": 773267,
+      "word": "哈尔滨冰雕师傅自述苦衷",
+      "onboard_time": 1703072735,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773231,
       "num": 773231,
       "word": "小柴胡汤",
@@ -352,22 +368,6 @@
       "word": "青海震区仍有16人失联",
       "onboard_time": 1703059776,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757735,
-      "num": 669436,
-      "word": "考公吧少年 团综",
-      "onboard_time": 1703074952,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 751154,
-      "num": 751154,
-      "word": "哈尔滨冰雕师傅自述苦衷",
-      "onboard_time": 1703072735,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 654452,
-      "num": 358498,
+      "num": 396886,
       "word": "明星日薪 网红时薪",
       "onboard_time": 1703069136,
       "rank": 17,
@@ -611,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 559906,
+      "num": 398564,
+      "word": "顺产描述",
+      "onboard_time": 1703074233,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 558845,
       "num": 558845,
       "word": "东北高中男生从没穿过羽绒服",
@@ -699,6 +707,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 494484,
+      "num": 397652,
+      "word": "创造营导师 路透",
+      "onboard_time": 1703076933,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479321,
       "num": 479321,
       "word": "这些伪粗粮会让血糖飙升",
@@ -713,6 +729,14 @@
       "onboard_time": 1703036674,
       "rank": 32,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 473790,
+      "num": 391837,
+      "word": "女主播剧烈咳嗽后大出血险没命",
+      "onboard_time": 1703073031,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466173,
@@ -787,14 +811,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 415845,
-      "num": 250233,
-      "word": "女主播剧烈咳嗽后大出血险没命",
-      "onboard_time": 1703073031,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 415478,
       "num": 291858,
       "word": "一番男主",
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 403074,
-      "num": 279462,
+      "num": 291597,
       "word": "难哄 班底",
       "onboard_time": 1703071354,
       "rank": 24,
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 401297,
-      "num": 250617,
+      "num": 314407,
       "word": "考研前一周才发现没报上名",
       "onboard_time": 1703071594,
       "rank": 31,
@@ -897,6 +913,14 @@
       "onboard_time": 1703051372,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387463,
+      "num": 387463,
+      "word": "辛芷蕾 姐没删放心",
+      "onboard_time": 1703077472,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 387070,
@@ -1003,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336043,
+      "num": 336043,
+      "word": "冻到皮肤发红就要警惕了",
+      "onboard_time": 1703077297,
+      "rank": 22,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 329476,
       "num": 329476,
       "word": "茶百道 登不进去",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1702986336,
       "rank": 21,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 315841,
-      "num": 244234,
-      "word": "顺产描述",
-      "onboard_time": 1703074233,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 315631,
@@ -1195,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304451,
+      "num": 304451,
+      "word": "章若楠穿平底鞋走红毯",
+      "onboard_time": 1703076571,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 303602,
       "num": 295172,
       "word": "当家里有个没结婚的长辈",
@@ -1209,6 +1241,22 @@
       "onboard_time": 1703039313,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301747,
+      "num": 402394,
+      "word": "EDG 厂长回归",
+      "onboard_time": 1703076693,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 299560,
+      "num": 401419,
+      "word": "原神 绫华",
+      "onboard_time": 1703076453,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 296887,
@@ -1267,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286091,
+      "num": 286091,
+      "word": "阿音古晋分手",
+      "onboard_time": 1703076332,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285864,
       "num": 285864,
       "word": "张凌赫红衣婚服路透",
@@ -1297,6 +1353,14 @@
       "onboard_time": 1703058515,
       "rank": 8,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 277665,
+      "num": 277665,
+      "word": "阴阳师 700保底",
+      "onboard_time": 1703077592,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 276279,
@@ -1515,6 +1579,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233653,
+      "num": 233653,
+      "word": "一念关山后期投稿",
+      "onboard_time": 1703075495,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232093,
+      "num": 232093,
+      "word": "天官赐福更新",
+      "onboard_time": 1703075913,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 231809,
       "num": 231809,
       "word": "张译拒跳科目三",
@@ -1611,6 +1691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219062,
+      "num": 219062,
+      "word": "恋综cp 天天闹be",
+      "onboard_time": 1703077355,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217094,
       "num": 217094,
       "word": "在寝室对四级答案被室友骂了",
@@ -1633,6 +1721,14 @@
       "onboard_time": 1703052693,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213042,
+      "num": 213042,
+      "word": "EDG官宣新赛季大名单",
+      "onboard_time": 1703076693,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 212430,
@@ -1771,12 +1867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199425,
-      "num": 199425,
-      "word": "一念关山后期投稿",
-      "onboard_time": 1703075495,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 199106,
+      "num": 199106,
+      "word": "石家庄限号",
+      "onboard_time": 1703077472,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195313,
@@ -1923,19 +2019,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 185454,
-      "num": 185454,
-      "word": "天官赐福更新",
-      "onboard_time": 1703075913,
-      "rank": 37,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 185002,
       "num": 141986,
       "word": "甘肃积石山6.2级地震现场实拍",
       "onboard_time": 1703020754,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183442,
+      "num": 183442,
+      "word": "大熊猫围在一起吃火锅",
+      "onboard_time": 1703076453,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1977,6 +2073,14 @@
       "onboard_time": 1703066374,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178965,
+      "num": 178965,
+      "word": "侯天来夸赞朱一龙",
+      "onboard_time": 1703077174,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 178178,
@@ -2083,6 +2187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169263,
+      "num": 169263,
+      "word": "被爸爸吐槽衣服买太多了",
+      "onboard_time": 1703075614,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169003,
       "num": 169003,
       "word": "发现了肺结节怎么办",
@@ -2179,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159003,
+      "num": 159003,
+      "word": "海王2 动作戏",
+      "onboard_time": 1703078134,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158983,
       "num": 158983,
       "word": "青春运动日记",
@@ -2203,14 +2323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156476,
-      "num": 156476,
-      "word": "被爸爸吐槽衣服买太多了",
-      "onboard_time": 1703075614,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154800,
       "num": 154800,
       "word": "脱轨 校园剧情",
@@ -2225,6 +2337,14 @@
       "onboard_time": 1703045439,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 152281,
+      "num": 152281,
+      "word": "鸣龙少年 细节",
+      "onboard_time": 1703077894,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 151790,
@@ -2313,6 +2433,14 @@
       "onboard_time": 1703038356,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142906,
+      "num": 142906,
+      "word": "女子起诉父母不肯出钱给自己出国留学",
+      "onboard_time": 1703078195,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141678,
@@ -2529,6 +2657,14 @@
       "onboard_time": 1703019973,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72492,
+      "num": 638856,
+      "word": "青海为震区考研学生开通求助热线",
+      "onboard_time": 1703076995,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69740,
