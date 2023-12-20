@@ -1,10 +1,10 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703054063628,
+  "endTime": 1703056420238,
   "band_list": [
     {
       "raw_hot": 2829379,
-      "num": 339319,
+      "num": 371811,
       "word": "马来西亚歌手许佳玲被粉丝杀害",
       "onboard_time": 1703046763,
       "rank": 24,
@@ -25,6 +25,14 @@
       "onboard_time": 1703043936,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2386826,
+      "num": 2386826,
+      "word": "小杨哥回应每月发5000万工资",
+      "onboard_time": 1703053590,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2130008,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1187149,
-      "num": 295914,
+      "num": 362386,
       "word": "吴千语施伯雄官宣结婚",
       "onboard_time": 1703048977,
       "rank": 22,
@@ -121,6 +129,14 @@
       "onboard_time": 1703029530,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1135218,
+      "num": 470507,
+      "word": "许佳玲遇害前一天刚与男友拍完婚纱照",
+      "onboard_time": 1703054492,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1043168,
@@ -235,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 695629,
+      "num": 364636,
+      "word": "酱园弄更新主演列表",
+      "onboard_time": 1703053590,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 673008,
       "num": 470708,
       "word": "何猷君第一次牵奚梦瑶手被拒",
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 647940,
-      "num": 262695,
+      "num": 349039,
       "word": "迪丽热巴 差点咬着我的后槽牙",
       "onboard_time": 1703052634,
       "rank": 16,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 564024,
-      "num": 258333,
+      "num": 329168,
       "word": "这种睡姿势正在毁掉你的脊椎",
       "onboard_time": 1703050955,
       "rank": 20,
@@ -443,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455494,
-      "num": 455494,
-      "word": "小杨哥回应每月发5000万工资",
-      "onboard_time": 1703053590,
-      "rank": 6,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 455102,
       "num": 341992,
       "word": "有没有人在乎何猷君的死活啊",
@@ -473,6 +489,30 @@
       "onboard_time": 1702995942,
       "rank": 17,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 436801,
+      "num": 436801,
+      "word": "瑞幸客服回应泰国瑞幸向中国瑞幸索赔",
+      "onboard_time": 1703053355,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 426105,
+      "num": 345333,
+      "word": "代理律师称田笑蜜诈骗朱丹不成立",
+      "onboard_time": 1703054193,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 420301,
+      "num": 420301,
+      "word": "GenG战队致歉",
+      "onboard_time": 1703053832,
+      "rank": 34,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 408800,
@@ -499,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401623,
+      "num": 401623,
+      "word": "淄博警方回应三男子深夜持刀殴打俩女子",
+      "onboard_time": 1703054433,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391673,
       "num": 339579,
       "word": "这是穿光脸神器了吗",
@@ -516,7 +564,7 @@
     },
     {
       "raw_hot": 387706,
-      "num": 262134,
+      "num": 341508,
       "word": "月入3万的中产们霸占小吃摊",
       "onboard_time": 1703051372,
       "rank": 15,
@@ -531,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382284,
-      "num": 260739,
-      "word": "酱园弄更新主演列表",
-      "onboard_time": 1703053590,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 376500,
+      "num": 376500,
+      "word": "地震后父亲打给远嫁女儿差点哭了",
+      "onboard_time": 1703054970,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372535,
@@ -548,7 +596,7 @@
     },
     {
       "raw_hot": 371940,
-      "num": 260651,
+      "num": 289208,
       "word": "花儿与少年",
       "onboard_time": 1703052933,
       "rank": 33,
@@ -579,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340136,
+      "num": 340136,
+      "word": "这些都是性骚扰",
+      "onboard_time": 1703055692,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 338205,
       "num": 338205,
       "word": "陈采尼 星光大赏有点无聊",
@@ -593,6 +649,14 @@
       "onboard_time": 1703051372,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330630,
+      "num": 330630,
+      "word": "小杨哥称曾拒绝2800万玩三场游戏",
+      "onboard_time": 1703056235,
+      "rank": 19,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 329476,
@@ -691,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313555,
-      "num": 313555,
-      "word": "瑞幸客服回应泰国瑞幸向中国瑞幸索赔",
-      "onboard_time": 1703053355,
-      "rank": 8,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 311828,
       "num": 311828,
       "word": "EXO初雪日冠",
@@ -713,6 +769,14 @@
       "onboard_time": 1703029230,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308890,
+      "num": 308890,
+      "word": "河南一高校外教老师儿子因高颜值走红",
+      "onboard_time": 1703054193,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306947,
@@ -771,6 +835,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288573,
+      "num": 288573,
+      "word": "格力电器股价跌超6%",
+      "onboard_time": 1703053232,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 288286,
+      "num": 288286,
+      "word": "A股大跌",
+      "onboard_time": 1703056292,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 287803,
       "num": 287803,
       "word": "微博之夜 集卡",
@@ -801,6 +881,14 @@
       "onboard_time": 1702998166,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265656,
+      "num": 265656,
+      "word": "A股70%大股东过三年就开始减持",
+      "onboard_time": 1703056173,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 264952,
@@ -849,14 +937,6 @@
       "onboard_time": 1702996782,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243324,
-      "num": 243324,
-      "word": "格力电器股价跌超6%",
-      "onboard_time": 1703053232,
-      "rank": 24,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 242595,
@@ -1003,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212641,
+      "num": 212641,
+      "word": "代入一下 理解戚百草了",
+      "onboard_time": 1703055812,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 212430,
       "num": 212430,
       "word": "阿娩跟李莲花的分手告别礼",
@@ -1083,20 +1171,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 194880,
+      "num": 194880,
+      "word": "鸡爪癫公",
+      "onboard_time": 1703055451,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194226,
       "num": 194226,
       "word": "不叠被子教",
       "onboard_time": 1703041354,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194160,
-      "num": 194160,
-      "word": "GenG战队致歉",
-      "onboard_time": 1703053832,
-      "rank": 34,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 194123,
@@ -1195,6 +1283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 179496,
+      "num": 174382,
+      "word": "吴千语说30岁生小孩",
+      "onboard_time": 1703056112,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178178,
       "num": 178178,
       "word": "张兰黑粉道歉",
@@ -1249,6 +1345,14 @@
       "onboard_time": 1703041235,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 171419,
+      "num": 171419,
+      "word": "往咖啡里加一颗泡腾片",
+      "onboard_time": 1703055154,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 169003,
@@ -1379,6 +1483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141678,
+      "num": 141678,
+      "word": "世界是一个巨大的癫厂",
+      "onboard_time": 1703054012,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140829,
       "num": 140829,
       "word": "朴灿烈初雪cha",
@@ -1393,14 +1505,6 @@
       "onboard_time": 1703027964,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137612,
-      "num": 137612,
-      "word": "世界是一个巨大的癫厂",
-      "onboard_time": 1703054012,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 136200,
@@ -1515,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109314,
+      "num": 132314,
+      "word": "没见过这么大的草莓熊",
+      "onboard_time": 1703056112,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98548,
       "num": 98548,
       "word": "处女座要学会释放压力",
@@ -1563,20 +1675,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62557,
+      "num": 354720,
+      "word": "Prada上海展看点",
+      "onboard_time": 1703052273,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 62282,
       "num": 448505,
       "word": "原神4.3版本更新 娜维娅",
       "onboard_time": 1703044838,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 52334,
-      "num": 212417,
-      "word": "Prada上海展看点",
-      "onboard_time": 1703052273,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 36257,
