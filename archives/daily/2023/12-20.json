@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703057632895,
+  "endTime": 1703060302281,
   "band_list": [
     {
       "raw_hot": 2829379,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1524354,
+      "num": 1212763,
+      "word": "小杨哥称曾拒绝2800万玩三场游戏",
+      "onboard_time": 1703056235,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1477000,
       "num": 332351,
       "word": "万柳书院 万元美甲",
@@ -97,14 +105,6 @@
       "onboard_time": 1703028926,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1212763,
-      "num": 1212763,
-      "word": "小杨哥称曾拒绝2800万玩三场游戏",
-      "onboard_time": 1703056235,
-      "rank": 19,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1209941,
@@ -171,6 +171,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 984160,
+      "num": 267026,
+      "word": "扬州大学爆改985 保安大叔打断施法",
+      "onboard_time": 1703059054,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 960468,
       "num": 960468,
       "word": "唐山一殡仪馆分高低档炉火化引质疑",
@@ -184,6 +192,14 @@
       "word": "2名技校男生互相怂恿强奸醉酒女生获刑",
       "onboard_time": 1703043213,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 906852,
+      "num": 350381,
+      "word": "苏州杀夫藏尸冰柜案明日开庭",
+      "onboard_time": 1703057793,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -201,6 +217,14 @@
       "onboard_time": 1703055692,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 871767,
+      "num": 871767,
+      "word": "地震后父亲打给远嫁女儿差点哭了",
+      "onboard_time": 1703054970,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 846536,
@@ -291,12 +315,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 693141,
-      "num": 693141,
-      "word": "地震后父亲打给远嫁女儿差点哭了",
-      "onboard_time": 1703054970,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 694573,
+      "num": 258520,
+      "word": "辛芷蕾早期也是甜妹",
+      "onboard_time": 1703058154,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 673008,
@@ -475,12 +499,28 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 516315,
+      "num": 256143,
+      "word": "极限挑战第十季阵容",
+      "onboard_time": 1703059295,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 508343,
       "num": 312477,
       "word": "张小斐回应当选北京视协副主席",
       "onboard_time": 1703006361,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503041,
+      "num": 250733,
+      "word": "阴阳师 玩家道歉",
+      "onboard_time": 1703057853,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 479321,
@@ -659,6 +699,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344277,
+      "num": 234945,
+      "word": "希林娜依高被冻哭",
+      "onboard_time": 1703059833,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 342149,
+      "num": 232466,
+      "word": "导演彭发破产",
+      "onboard_time": 1703059595,
+      "rank": 22,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 338205,
       "num": 338205,
       "word": "陈采尼 星光大赏有点无聊",
@@ -803,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308712,
+      "num": 228057,
+      "word": "医生建议3种洗洁精最好别用",
+      "onboard_time": 1703058757,
+      "rank": 24,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 306947,
       "num": 306947,
       "word": "旋风少女番外",
@@ -889,6 +953,14 @@
       "onboard_time": 1703033737,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275906,
+      "num": 275906,
+      "word": "专家建议股市低迷时投资者多锻炼身体",
+      "onboard_time": 1703058515,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 272608,
@@ -1187,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199294,
+      "num": 199294,
+      "word": "假签售 假repo",
+      "onboard_time": 1703059956,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195313,
       "num": 195313,
       "word": "猫咪把全身毛竖起来叫奓毛",
@@ -1371,12 +1451,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168860,
+      "num": 168860,
+      "word": "周一围 我这一生如履薄冰",
+      "onboard_time": 1703060135,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167262,
       "num": 167262,
       "word": "救灾物资多一分女性关爱",
       "onboard_time": 1702995883,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166611,
+      "num": 166611,
+      "word": "我们的歌6官宣",
+      "onboard_time": 1703060015,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165885,
+      "num": 334855,
+      "word": "没见过这么大的草莓熊",
+      "onboard_time": 1703056112,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 165840,
@@ -1451,14 +1555,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 151758,
-      "num": 334855,
-      "word": "没见过这么大的草莓熊",
-      "onboard_time": 1703056112,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 149499,
       "num": 149499,
       "word": "我看漂亮女爱豆",
@@ -1483,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148702,
+      "num": 148702,
+      "word": "艺术家对AI的反击开始了",
+      "onboard_time": 1703057673,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148124,
       "num": 148124,
       "word": "男子备1000斤肉到震区现场为灾民煮面",
@@ -1497,6 +1601,14 @@
       "onboard_time": 1703038356,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141863,
+      "num": 216652,
+      "word": "青海震区仍有16人失联",
+      "onboard_time": 1703059776,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141678,
@@ -1531,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136343,
+      "num": 136343,
+      "word": "抗胃癌的10种食物",
+      "onboard_time": 1703059896,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136200,
       "num": 136200,
       "word": "库里33分",
@@ -1561,6 +1681,14 @@
       "onboard_time": 1703002590,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127734,
+      "num": 127734,
+      "word": "没想到还有物理这么简单的学科",
+      "onboard_time": 1703059654,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 127302,
