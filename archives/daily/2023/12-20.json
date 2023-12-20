@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703053139839,
+  "endTime": 1703054063628,
   "band_list": [
     {
       "raw_hot": 2829379,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 662320,
+      "num": 662320,
+      "word": "A股",
+      "onboard_time": 1703051493,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 656290,
       "num": 343036,
       "word": "武艺半年出来一次 一次被笑半年",
@@ -257,6 +265,14 @@
       "onboard_time": 1703036615,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 647940,
+      "num": 262695,
+      "word": "迪丽热巴 差点咬着我的后槽牙",
+      "onboard_time": 1703052634,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 647556,
@@ -323,14 +339,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 568176,
-      "num": 568176,
-      "word": "A股",
-      "onboard_time": 1703051493,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 564672,
       "num": 462035,
       "word": "小白买车",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 564024,
-      "num": 249791,
+      "num": 258333,
       "word": "这种睡姿势正在毁掉你的脊椎",
       "onboard_time": 1703050955,
       "rank": 20,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455494,
+      "num": 455494,
+      "word": "小杨哥回应每月发5000万工资",
+      "onboard_time": 1703053590,
+      "rank": 6,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 455102,
       "num": 341992,
       "word": "有没有人在乎何猷君的死活啊",
@@ -459,8 +475,16 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 408800,
+      "num": 262294,
+      "word": "王者荣耀 优化",
+      "onboard_time": 1703051973,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 405775,
-      "num": 262847,
+      "num": 345890,
       "word": "杰伦布朗嘲讽库里",
       "onboard_time": 1703051312,
       "rank": 13,
@@ -491,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389772,
-      "num": 262294,
-      "word": "王者荣耀 优化",
-      "onboard_time": 1703051973,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 387706,
       "num": 262134,
       "word": "月入3万的中产们霸占小吃摊",
@@ -515,12 +531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382284,
+      "num": 260739,
+      "word": "酱园弄更新主演列表",
+      "onboard_time": 1703053590,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 372535,
       "num": 372535,
       "word": "青海一孕妇回娘家途中失联",
       "onboard_time": 1702993836,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371940,
+      "num": 260651,
+      "word": "花儿与少年",
+      "onboard_time": 1703052933,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 363486,
@@ -540,19 +572,11 @@
     },
     {
       "raw_hot": 360701,
-      "num": 240687,
+      "num": 256963,
       "word": "你能接受恋丑癖好吗",
       "onboard_time": 1703049994,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 341394,
-      "num": 261662,
-      "word": "迪丽热巴 差点咬着我的后槽牙",
-      "onboard_time": 1703052634,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 338205,
@@ -665,6 +689,14 @@
       "onboard_time": 1702985498,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313555,
+      "num": 313555,
+      "word": "瑞幸客服回应泰国瑞幸向中国瑞幸索赔",
+      "onboard_time": 1703053355,
+      "rank": 8,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 311828,
@@ -819,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243324,
+      "num": 243324,
+      "word": "格力电器股价跌超6%",
+      "onboard_time": 1703053232,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 242595,
       "num": 242595,
       "word": "海王2",
@@ -849,6 +889,14 @@
       "onboard_time": 1703050592,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235198,
+      "num": 235198,
+      "word": "社交平台现冰雪大世界白嫖攻略",
+      "onboard_time": 1703052873,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234054,
@@ -947,18 +995,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212430,
-      "num": 212430,
-      "word": "阿娩跟李莲花的分手告别礼",
-      "onboard_time": 1703040635,
+      "raw_hot": 215278,
+      "num": 215278,
+      "word": "胡歌说和王家卫合作有折磨也有表演空间",
+      "onboard_time": 1703052693,
       "rank": 30,
       "category": "剧集"
     },
     {
-      "raw_hot": 212360,
-      "num": 212360,
-      "word": "胡歌说和王家卫合作有折磨也有表演空间",
-      "onboard_time": 1703052693,
+      "raw_hot": 212430,
+      "num": 212430,
+      "word": "阿娩跟李莲花的分手告别礼",
+      "onboard_time": 1703040635,
       "rank": 30,
       "category": "剧集"
     },
@@ -1043,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194160,
+      "num": 194160,
+      "word": "GenG战队致歉",
+      "onboard_time": 1703053832,
+      "rank": 34,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 194123,
       "num": 194123,
       "word": "焦恩俊夸了于十三",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1703039795,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 186217,
-      "num": 186217,
-      "word": "花儿与少年",
-      "onboard_time": 1703052933,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 186004,
@@ -1291,14 +1339,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 151980,
-      "num": 151980,
-      "word": "社交平台现冰雪大世界白嫖攻略",
-      "onboard_time": 1703052873,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149499,
       "num": 149499,
       "word": "我看漂亮女爱豆",
@@ -1353,6 +1393,22 @@
       "onboard_time": 1703027964,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137612,
+      "num": 137612,
+      "word": "世界是一个巨大的癫厂",
+      "onboard_time": 1703054012,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 136200,
+      "num": 136200,
+      "word": "库里33分",
+      "onboard_time": 1703054012,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 128393,
@@ -1435,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113447,
+      "num": 215909,
+      "word": "快递小哥跳进冰河救起一家五口",
+      "onboard_time": 1703053832,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111838,
       "num": 111838,
       "word": "鸿星尔克直播间回应捐款",
@@ -1507,20 +1571,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 52334,
+      "num": 212417,
+      "word": "Prada上海展看点",
+      "onboard_time": 1703052273,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 36257,
       "num": 1234479,
       "word": "甘肃加油青海加油",
       "onboard_time": 1702971214,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30870,
-      "num": 212417,
-      "word": "Prada上海展看点",
-      "onboard_time": 1703052273,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 23184,
