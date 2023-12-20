@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703034166089,
+  "endTime": 1703035068242,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -707,6 +707,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 1477000,
+      "num": 332351,
+      "word": "万柳书院 万元美甲",
+      "onboard_time": 1703033438,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1462960,
       "num": 1462960,
       "word": "星光大赏红毯",
@@ -907,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1209941,
+      "num": 1209941,
+      "word": "特朗普被裁决不具备总统选举资格",
+      "onboard_time": 1703033378,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1192644,
       "num": 644914,
       "word": "宋茜红桃A",
@@ -971,6 +987,14 @@
       "category": "剧集,美妆"
     },
     {
+      "raw_hot": 1157148,
+      "num": 344566,
+      "word": "图书馆有人破防了",
+      "onboard_time": 1703029530,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1153751,
       "num": 1153751,
       "word": "月薪3500的人生也在一点点变好",
@@ -985,14 +1009,6 @@
       "onboard_time": 1702737159,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1132305,
-      "num": 344566,
-      "word": "图书馆有人破防了",
-      "onboard_time": 1703029530,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 1130473,
@@ -1683,14 +1699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 792277,
-      "num": 792277,
-      "word": "特朗普被裁决不具备总统选举资格",
-      "onboard_time": 1703033378,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 791838,
       "num": 791838,
       "word": "星光大赏直播",
@@ -2227,14 +2235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 609873,
-      "num": 272805,
-      "word": "万柳书院 万元美甲",
-      "onboard_time": 1703033438,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 607498,
       "num": 607498,
       "word": "华为nova12 易烊千玺",
@@ -2531,6 +2531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 552623,
+      "num": 341259,
+      "word": "张婧仪范丞丞 眼神好慌乱",
+      "onboard_time": 1703033018,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551323,
       "num": 551323,
       "word": "伍佰 唱又不让唱走又不让走",
@@ -2705,6 +2713,14 @@
       "onboard_time": 1702982017,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 524402,
+      "num": 524402,
+      "word": "小伙为省3000元出国旅游被卖3次",
+      "onboard_time": 1703033918,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523781,
@@ -3171,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455102,
+      "num": 341992,
+      "word": "有没有人在乎何猷君的死活啊",
+      "onboard_time": 1703030674,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454990,
       "num": 381662,
       "word": "原神三星堆",
@@ -3185,14 +3209,6 @@
       "onboard_time": 1702815102,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 454572,
-      "num": 341992,
-      "word": "有没有人在乎何猷君的死活啊",
-      "onboard_time": 1703030674,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 452276,
@@ -3225,14 +3241,6 @@
       "onboard_time": 1702899814,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 445490,
-      "num": 341259,
-      "word": "张婧仪范丞丞 眼神好慌乱",
-      "onboard_time": 1703033018,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 444493,
@@ -4251,6 +4259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333224,
+      "num": 333224,
+      "word": "姐姐地震时癫痫发作弟弟留屋内守护",
+      "onboard_time": 1703031574,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332412,
       "num": 203491,
       "word": "红毯纷纷扰扰 王子奇正骨养老",
@@ -4393,6 +4409,14 @@
       "onboard_time": 1702887939,
       "rank": 30,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 319437,
+      "num": 319437,
+      "word": "上班化妆有必要吗",
+      "onboard_time": 1703031455,
+      "rank": 29,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 317724,
@@ -4699,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295490,
+      "num": 275966,
+      "word": "爆改朱梓骁",
+      "onboard_time": 1703034638,
+      "rank": 30,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 294204,
       "num": 294204,
       "word": "甘肃应急发布救援需求公告",
@@ -4899,14 +4931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 282602,
-      "num": 282602,
-      "word": "上班化妆有必要吗",
-      "onboard_time": 1703031455,
-      "rank": 29,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 282025,
       "num": 615905,
       "word": "格力曾注册多个孟羽童相关商标",
@@ -4921,6 +4945,14 @@
       "onboard_time": 1702814740,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281030,
+      "num": 281030,
+      "word": "她需要我",
+      "onboard_time": 1703033737,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 280986,
@@ -5595,6 +5627,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 242595,
+      "num": 242595,
+      "word": "海王2",
+      "onboard_time": 1703033978,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242489,
       "num": 242489,
       "word": "马斯克被曝透露对外星人看法",
@@ -5921,14 +5961,6 @@
       "onboard_time": 1702895793,
       "rank": 46,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 225668,
-      "num": 225668,
-      "word": "姐姐地震时癫痫发作弟弟留屋内守护",
-      "onboard_time": 1703031574,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225066,
@@ -6499,14 +6531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203701,
-      "num": 203701,
-      "word": "她需要我",
-      "onboard_time": 1703033737,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203607,
       "num": 203607,
       "word": "漫威开除乔纳森梅杰斯",
@@ -6809,6 +6833,14 @@
       "onboard_time": 1702967499,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 192562,
+      "num": 192562,
+      "word": "洗澡拖延症",
+      "onboard_time": 1703031157,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 192217,
@@ -7219,14 +7251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180350,
-      "num": 180350,
-      "word": "洗澡拖延症",
-      "onboard_time": 1703031157,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 180347,
       "num": 180347,
       "word": "iOS17.2.1正式版",
@@ -7305,14 +7329,6 @@
       "onboard_time": 1702865432,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176418,
-      "num": 176418,
-      "word": "小伙为省3000元出国旅游被卖3次",
-      "onboard_time": 1703033918,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176139,
@@ -7905,14 +7921,6 @@
       "onboard_time": 1702879413,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 155408,
-      "num": 155408,
-      "word": "海王2",
-      "onboard_time": 1703033978,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 155398,
