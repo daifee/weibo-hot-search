@@ -1,0 +1,410 @@
+{
+  "runTime": 1703076100181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228606,
+        "num": 1228606,
+        "word": "甘肃积石山地震致134人遇难",
+        "onboard_time": 1703073757,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751154,
+        "num": 751154,
+        "word": "哈尔滨冰雕师傅自述苦衷",
+        "onboard_time": 1703072735,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16893,
+        "num": 686614,
+        "word": "航拍零下14℃的灾后安置点",
+        "onboard_time": 1703061395,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757735,
+        "num": 669436,
+        "word": "考公吧少年 团综",
+        "onboard_time": 1703074952,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 651322,
+        "num": 651322,
+        "word": "TheShy改名",
+        "onboard_time": 1703073694,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 586901,
+        "num": 586901,
+        "word": "女孩一年举报几十个猫贩子窝点",
+        "onboard_time": 1703069435,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543788,
+        "num": 543788,
+        "word": "王楚钦锡纸烫",
+        "onboard_time": 1703068776,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475625,
+        "num": 475625,
+        "word": "小伙收到一条信息4个月狂减30斤",
+        "onboard_time": 1703068115,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276228,
+        "num": 276228,
+        "word": "甘肃地震已转移安置87076人",
+        "onboard_time": 1703071536,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249371,
+        "num": 249371,
+        "word": "已确定青海失踪人员大致区域",
+        "onboard_time": 1703067334,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1155586,
+        "num": 249102,
+        "word": "女网红笑称甘肃地震和我有什么关系",
+        "onboard_time": 1703062414,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039066,
+        "num": 248589,
+        "word": "唐嫣被一把拽到C位",
+        "onboard_time": 1703070035,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 806317,
+        "num": 248048,
+        "word": "权志龙YG正式分手",
+        "onboard_time": 1703068958,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645591,
+        "num": 247544,
+        "word": "毛晓彤鼻子 鼻翼比例",
+        "onboard_time": 1703061336,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 572690,
+        "num": 247036,
+        "word": "明星日薪 网红时薪",
+        "onboard_time": 1703069136,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 517525,
+        "num": 246430,
+        "word": "微博之夜 投票",
+        "onboard_time": 1703069136,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433899,
+        "num": 246118,
+        "word": "扬州大学爆改985 保安大叔打断施法",
+        "onboard_time": 1703059054,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405869,
+        "num": 245555,
+        "word": "赵丽颖张若昀 在人间",
+        "onboard_time": 1703062775,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374983,
+        "num": 245170,
+        "word": "难哄 班底",
+        "onboard_time": 1703071354,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315841,
+        "num": 244234,
+        "word": "顺产描述",
+        "onboard_time": 1703074233,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 415845,
+        "num": 243858,
+        "word": "女主播剧烈咳嗽后大出血险没命",
+        "onboard_time": 1703073031,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401297,
+        "num": 243485,
+        "word": "考研前一周才发现没报上名",
+        "onboard_time": 1703071594,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295339,
+        "num": 242831,
+        "word": "脱轨 男女主演技",
+        "onboard_time": 1703072433,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261804,
+        "num": 242316,
+        "word": "不买质量差的卫生纸是底线",
+        "onboard_time": 1703072375,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254349,
+        "num": 242050,
+        "word": "第一次坐飞机的人三成来自小城市",
+        "onboard_time": 1703072614,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241627,
+        "num": 241627,
+        "word": "迪丽热巴赵昭仪 共脑",
+        "onboard_time": 1703073093,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230040,
+        "num": 230040,
+        "word": "明星颈纹去除术",
+        "onboard_time": 1703075252,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219267,
+        "num": 219267,
+        "word": "微博之夜",
+        "onboard_time": 1703071174,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56543,
+        "num": 215145,
+        "word": "他们的背是最坚实的依靠",
+        "onboard_time": 1703061875,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27040,
+        "num": 213534,
+        "word": "星纪元ES 30万内唯一标配空悬",
+        "onboard_time": 1703074652,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 232631,
+        "num": 213507,
+        "word": "滇西小哥 涮羊肉",
+        "onboard_time": 1703074053,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 212265,
+        "num": 212265,
+        "word": "闵希珍SM 商战",
+        "onboard_time": 1703071653,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203604,
+        "num": 203604,
+        "word": "阿音 神隐背锅侠",
+        "onboard_time": 1703075073,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199425,
+        "num": 199425,
+        "word": "一念关山后期投稿",
+        "onboard_time": 1703075495,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188538,
+        "num": 188538,
+        "word": "考研 极限考试周",
+        "onboard_time": 1703068596,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 188196,
+        "num": 188196,
+        "word": "医生建议3种洗洁精最好别用",
+        "onboard_time": 1703058757,
+        "rank": 35,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 187641,
+        "num": 187641,
+        "word": "东方卫视2024大剧片单",
+        "onboard_time": 1703074833,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185454,
+        "num": 185454,
+        "word": "天官赐福更新",
+        "onboard_time": 1703075913,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 185281,
+        "num": 185281,
+        "word": "阴阳师 玩家道歉",
+        "onboard_time": 1703057853,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180396,
+        "num": 180396,
+        "word": "小杨哥称曾拒绝2800万玩三场游戏",
+        "onboard_time": 1703056235,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 165082,
+        "num": 165082,
+        "word": "WTT多哈站混双名单",
+        "onboard_time": 1703074355,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164702,
+        "num": 164702,
+        "word": "在外面养外室被正室看见了",
+        "onboard_time": 1703068537,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164452,
+        "num": 164452,
+        "word": "周一围 我这一生如履薄冰",
+        "onboard_time": 1703060135,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156476,
+        "num": 156476,
+        "word": "被爸爸吐槽衣服买太多了",
+        "onboard_time": 1703075614,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154832,
+        "num": 154832,
+        "word": "极限挑战第十季阵容",
+        "onboard_time": 1703059295,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147782,
+        "num": 147782,
+        "word": "甘肃",
+        "onboard_time": 1703070277,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142578,
+        "num": 142578,
+        "word": "小杨哥回应每月发5000万工资",
+        "onboard_time": 1703053590,
+        "rank": 46,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 138850,
+        "num": 138850,
+        "word": "宫野真守离婚",
+        "onboard_time": 1703063976,
+        "rank": 47,
+        "category": "游戏,作品衍生"
+      },
+      {
+        "raw_hot": 137328,
+        "num": 137328,
+        "word": "爸爸鼓励天生无臂宝宝成功用脚剥桔",
+        "onboard_time": 1703073333,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135102,
+        "num": 135102,
+        "word": "老美谈华妃之死",
+        "onboard_time": 1703067093,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对三农工作作出重要指示#"
+    }
+  }
+}
