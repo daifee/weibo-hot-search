@@ -1,0 +1,410 @@
+{
+  "runTime": 1703057632895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2258436,
+        "num": 2258436,
+        "word": "小杨哥回应每月发5000万工资",
+        "onboard_time": 1703053590,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1212763,
+        "num": 1212763,
+        "word": "小杨哥称曾拒绝2800万玩三场游戏",
+        "onboard_time": 1703056235,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 148274,
+        "num": 1153894,
+        "word": "14亿多同胞是你们的坚强后盾",
+        "onboard_time": 1703049038,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1107204,
+        "num": 1107204,
+        "word": "A股大跌",
+        "onboard_time": 1703056292,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1054865,
+        "num": 1054865,
+        "word": "许佳玲遇害前一天刚与男友拍完婚纱照",
+        "onboard_time": 1703054492,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777338,
+        "num": 777338,
+        "word": "A股70%大股东过三年就开始减持",
+        "onboard_time": 1703056173,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 794393,
+        "num": 762263,
+        "word": "哈尔滨退票事件",
+        "onboard_time": 1703043936,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693141,
+        "num": 693141,
+        "word": "地震后父亲打给远嫁女儿差点哭了",
+        "onboard_time": 1703054970,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539991,
+        "num": 539991,
+        "word": "甘肃震区煮不完的饺子和不灭的车灯",
+        "onboard_time": 1703041113,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343401,
+        "num": 343401,
+        "word": "淄博警方回应三男子深夜持刀殴打俩女子",
+        "onboard_time": 1703054433,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876425,
+        "num": 340793,
+        "word": "这些都是性骚扰",
+        "onboard_time": 1703055692,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 757158,
+        "num": 339758,
+        "word": "马来西亚歌手许佳玲被粉丝杀害",
+        "onboard_time": 1703046763,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625946,
+        "num": 339225,
+        "word": "吴千语施伯雄官宣结婚",
+        "onboard_time": 1703048977,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338167,
+        "num": 338167,
+        "word": "瑞幸客服回应泰国瑞幸向中国瑞幸索赔",
+        "onboard_time": 1703053355,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 56395,
+        "num": 336318,
+        "word": "Prada上海展看点",
+        "onboard_time": 1703052273,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 151758,
+        "num": 334855,
+        "word": "没见过这么大的草莓熊",
+        "onboard_time": 1703056112,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 563258,
+        "num": 332919,
+        "word": "酱园弄更新主演列表",
+        "onboard_time": 1703053590,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466111,
+        "num": 330825,
+        "word": "迪丽热巴 差点咬着我的后槽牙",
+        "onboard_time": 1703052634,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465038,
+        "num": 328704,
+        "word": "穿完假领子后忘穿卫衣了",
+        "onboard_time": 1703044295,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326366,
+        "num": 326366,
+        "word": "东方卫视跨年阵容",
+        "onboard_time": 1703056531,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417037,
+        "num": 325166,
+        "word": "这种睡姿势正在毁掉你的脊椎",
+        "onboard_time": 1703050955,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287440,
+        "num": 287440,
+        "word": "GenG战队致歉",
+        "onboard_time": 1703053832,
+        "rank": 21,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 275318,
+        "num": 275318,
+        "word": "河南一高校外教老师儿子因高颜值走红",
+        "onboard_time": 1703054193,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271127,
+        "num": 271127,
+        "word": "代理律师称田笑蜜诈骗朱丹不成立",
+        "onboard_time": 1703054193,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 265856,
+        "num": 265856,
+        "word": "三三 马立奥",
+        "onboard_time": 1703031936,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263385,
+        "num": 263385,
+        "word": "代入一下 理解戚百草了",
+        "onboard_time": 1703055812,
+        "rank": 25,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 255796,
+        "num": 255796,
+        "word": "月入3万的中产们霸占小吃摊",
+        "onboard_time": 1703051372,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253207,
+        "num": 253207,
+        "word": "女子8名亲戚在地震中遇难",
+        "onboard_time": 1703051493,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239498,
+        "num": 239498,
+        "word": "你能接受恋丑癖好吗",
+        "onboard_time": 1703049994,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237356,
+        "num": 237356,
+        "word": "花儿与少年",
+        "onboard_time": 1703052933,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237063,
+        "num": 237063,
+        "word": "吴千语说30岁生小孩",
+        "onboard_time": 1703056112,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213205,
+        "num": 213205,
+        "word": "地震已致131人遇难",
+        "onboard_time": 1703040333,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209775,
+        "num": 209775,
+        "word": "2名技校男生互相怂恿强奸醉酒女生获刑",
+        "onboard_time": 1703043213,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209016,
+        "num": 209016,
+        "word": "鸡爪癫公",
+        "onboard_time": 1703055451,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201478,
+        "num": 201478,
+        "word": "恋爱脑 工作脑",
+        "onboard_time": 1703047600,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197673,
+        "num": 197673,
+        "word": "格力电器股价跌超6%",
+        "onboard_time": 1703053232,
+        "rank": 35,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 194686,
+        "num": 194686,
+        "word": "何猷君第一次牵奚梦瑶手被拒",
+        "onboard_time": 1703040393,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189859,
+        "num": 189859,
+        "word": "王者荣耀 优化",
+        "onboard_time": 1703051973,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187322,
+        "num": 187322,
+        "word": "藏海传 肖战张婧仪",
+        "onboard_time": 1703041893,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166244,
+        "num": 166244,
+        "word": "甘肃救援工作已基本结束",
+        "onboard_time": 1703042975,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164772,
+        "num": 164772,
+        "word": "往咖啡里加一颗泡腾片",
+        "onboard_time": 1703055154,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159767,
+        "num": 159767,
+        "word": "微博之夜 集卡",
+        "onboard_time": 1703041772,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141575,
+        "num": 141575,
+        "word": "迪丽热巴游艇舞王",
+        "onboard_time": 1703056834,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134309,
+        "num": 134309,
+        "word": "杰伦布朗嘲讽库里",
+        "onboard_time": 1703051312,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131854,
+        "num": 131854,
+        "word": "TES六周年",
+        "onboard_time": 1703057551,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127549,
+        "num": 127549,
+        "word": "多个卫生巾品牌为震区紧急调货捐赠",
+        "onboard_time": 1703033136,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126942,
+        "num": 126942,
+        "word": "五条悟这么容易被比肩吗",
+        "onboard_time": 1703051670,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125471,
+        "num": 125471,
+        "word": "衣服上的火锅味为什么散不掉",
+        "onboard_time": 1703036615,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120358,
+        "num": 120358,
+        "word": "爆改朱梓骁",
+        "onboard_time": 1703034638,
+        "rank": 48,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 104569,
+        "num": 104569,
+        "word": "胡歌说和王家卫合作有折磨也有表演空间",
+        "onboard_time": 1703052693,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃6.2级地震作出重要指示#"
+    }
+  }
+}
