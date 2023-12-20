@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703104457994,
+  "endTime": 1703106908741,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -53907,6 +53907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46693,
+      "num": 27150,
+      "word": "六种越吃越胖的伪粗粮",
+      "onboard_time": 1703102353,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 46646,
       "num": 373361,
       "word": "今天的蛋搭子是肯爷爷",
@@ -55115,14 +55123,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 22177,
-      "num": 22177,
-      "word": "六种越吃越胖的伪粗粮",
-      "onboard_time": 1703102353,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 22056,
       "num": 22988,
       "word": "属于3RACHA的第一个奖",
@@ -55713,6 +55713,14 @@
       "onboard_time": 1701551654,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 11324,
+      "num": 15207,
+      "word": "深圳野生动物园的鹈鹕越狱了",
+      "onboard_time": 1703103554,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 11304,
