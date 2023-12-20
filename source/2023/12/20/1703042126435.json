@@ -1,0 +1,410 @@
+{
+  "runTime": 1703042126435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287972,
+        "num": 1287972,
+        "word": "地震已致131人遇难",
+        "onboard_time": 1703040333,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1036922,
+        "num": 1036922,
+        "word": "网友吐槽买了一盒金车厘子583元",
+        "onboard_time": 1703028926,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20796,
+        "num": 858777,
+        "word": "甘肃加油青海加油",
+        "onboard_time": 1702971214,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803925,
+        "num": 803925,
+        "word": "甘肃地震 最糟糕时间最薄弱地方",
+        "onboard_time": 1703028986,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702562,
+        "num": 702562,
+        "word": "警方通报19岁男子砍伤3名女子",
+        "onboard_time": 1703036073,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609803,
+        "num": 609803,
+        "word": "泰国瑞幸向中国瑞幸索赔100亿泰铢",
+        "onboard_time": 1702998999,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582678,
+        "num": 582678,
+        "word": "越是聪明的人越不明白",
+        "onboard_time": 1703036135,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 523644,
+        "num": 523644,
+        "word": "WPS正式关闭第三方商业广告",
+        "onboard_time": 1703036973,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 502038,
+        "num": 502038,
+        "word": "东芝正式退市",
+        "onboard_time": 1703038296,
+        "rank": 8,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 486021,
+        "num": 486021,
+        "word": "姐姐地震时癫痫发作弟弟留屋内守护",
+        "onboard_time": 1703031574,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014312,
+        "num": 482645,
+        "word": "爆改朱梓骁",
+        "onboard_time": 1703034638,
+        "rank": 10,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 869632,
+        "num": 478706,
+        "word": "图书馆有人破防了",
+        "onboard_time": 1703029530,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 576748,
+        "num": 470708,
+        "word": "何猷君第一次牵奚梦瑶手被拒",
+        "onboard_time": 1703040393,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552359,
+        "num": 463144,
+        "word": "谢娜说张杰不承认对她一见钟情",
+        "onboard_time": 1703029833,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460014,
+        "num": 460014,
+        "word": "衣服上的火锅味为什么散不掉",
+        "onboard_time": 1703036615,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 447916,
+        "num": 447916,
+        "word": "中国空间站和鸿蒙入选2023全球十大工程",
+        "onboard_time": 1703038953,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444195,
+        "num": 444195,
+        "word": "小伙为省3000元出国旅游被卖3次",
+        "onboard_time": 1703033918,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332298,
+        "num": 332298,
+        "word": "张婧仪范丞丞 眼神好慌乱",
+        "onboard_time": 1703033018,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316672,
+        "num": 316672,
+        "word": "莫兰特解禁复出",
+        "onboard_time": 1703041591,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287184,
+        "num": 287184,
+        "word": "甘肃震区煮不完的饺子和不灭的车灯",
+        "onboard_time": 1703041113,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980018,
+        "num": 287122,
+        "word": "三三 马立奥",
+        "onboard_time": 1703031936,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474092,
+        "num": 279040,
+        "word": "大胃王吃播又悄然回来了",
+        "onboard_time": 1703036674,
+        "rank": 21,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 390817,
+        "num": 274548,
+        "word": "小伙辞掉1年只上200天的工作卖烧烤",
+        "onboard_time": 1703036615,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378211,
+        "num": 270072,
+        "word": "东北高中男生从没穿过羽绒服",
+        "onboard_time": 1703036135,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264952,
+        "num": 264952,
+        "word": "红海危机",
+        "onboard_time": 1703038773,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259325,
+        "num": 259325,
+        "word": "消防员已营救甘肃地震被困人员78人",
+        "onboard_time": 1703036554,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239861,
+        "num": 239861,
+        "word": "极限挑战宝藏行定档海报",
+        "onboard_time": 1703040935,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235940,
+        "num": 235940,
+        "word": "特朗普被裁决不具备总统选举资格",
+        "onboard_time": 1703033378,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232154,
+        "num": 232154,
+        "word": "多个卫生巾品牌为震区紧急调货捐赠",
+        "onboard_time": 1703033136,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225364,
+        "num": 225364,
+        "word": "张元英生图",
+        "onboard_time": 1703038892,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210353,
+        "num": 210353,
+        "word": "阿娩跟李莲花的分手告别礼",
+        "onboard_time": 1703040635,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205970,
+        "num": 205970,
+        "word": "EXO初雪日冠",
+        "onboard_time": 1703037574,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205506,
+        "num": 205506,
+        "word": "网易云年度总结",
+        "onboard_time": 1703036374,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204713,
+        "num": 204713,
+        "word": "微博之夜 集卡",
+        "onboard_time": 1703041772,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199455,
+        "num": 199455,
+        "word": "藏海传 肖战张婧仪",
+        "onboard_time": 1703041893,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195717,
+        "num": 195717,
+        "word": "原神4.3",
+        "onboard_time": 1703039492,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195313,
+        "num": 195313,
+        "word": "猫咪把全身毛竖起来叫奓毛",
+        "onboard_time": 1703039795,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 192147,
+        "num": 192147,
+        "word": "积石山6.2级地震灾后第一夜",
+        "onboard_time": 1703041113,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188731,
+        "num": 188731,
+        "word": "海王2今日上映",
+        "onboard_time": 1703041413,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187720,
+        "num": 187720,
+        "word": "柯南剧场版 琴酒大战柯南",
+        "onboard_time": 1703039795,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187255,
+        "num": 187255,
+        "word": "福建泉州一化工厂起火",
+        "onboard_time": 1703038535,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182548,
+        "num": 182548,
+        "word": "狐妖小红娘王权篇 月底开机",
+        "onboard_time": 1702999596,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180945,
+        "num": 180945,
+        "word": "阿里CEO吴泳铭兼任淘天集团CEO",
+        "onboard_time": 1703040212,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172885,
+        "num": 172885,
+        "word": "原神娜维娅",
+        "onboard_time": 1703041713,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171649,
+        "num": 171649,
+        "word": "袁泉秦海璐 青蛇台词",
+        "onboard_time": 1703041235,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166982,
+        "num": 166982,
+        "word": "有没有人在乎何猷君的死活啊",
+        "onboard_time": 1703030674,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165072,
+        "num": 165072,
+        "word": "莫兰特绝杀",
+        "onboard_time": 1703042072,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154849,
+        "num": 154849,
+        "word": "帅哥背后是另一个帅哥",
+        "onboard_time": 1703000199,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153754,
+        "num": 153754,
+        "word": "不叠被子教",
+        "onboard_time": 1703041354,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149768,
+        "num": 149768,
+        "word": "上班化妆有必要吗",
+        "onboard_time": 1703031455,
+        "rank": 49,
+        "category": "社会新闻,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对甘肃6.2级地震作出重要指示#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1703002838463,
-  "endTime": 1703039659411,
+  "endTime": 1703042126435,
   "band_list": [
     {
       "raw_hot": 2816195,
@@ -33,6 +33,14 @@
       "onboard_time": 1703029833,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1287972,
+      "num": 1287972,
+      "word": "地震已致131人遇难",
+      "onboard_time": 1703040333,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1282839,
@@ -179,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582678,
+      "num": 582678,
+      "word": "越是聪明的人越不明白",
+      "onboard_time": 1703036135,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 581857,
       "num": 581857,
       "word": "姐姐地震时癫痫发作弟弟留屋内守护",
       "onboard_time": 1703031574,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576748,
+      "num": 470708,
+      "word": "何猷君第一次牵奚梦瑶手被拒",
+      "onboard_time": 1703040393,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 564672,
@@ -267,6 +291,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 474092,
+      "num": 281320,
+      "word": "大胃王吃播又悄然回来了",
+      "onboard_time": 1703036674,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 460014,
+      "num": 460014,
+      "word": "衣服上的火锅味为什么散不掉",
+      "onboard_time": 1703036615,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 457054,
       "num": 457054,
       "word": "受灾群众如何度过零下14度寒冷冬夜",
@@ -283,20 +323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447916,
+      "num": 447916,
+      "word": "中国空间站和鸿蒙入选2023全球十大工程",
+      "onboard_time": 1703038953,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 447572,
       "num": 300791,
       "word": "他叫了好多声灰原",
       "onboard_time": 1702995942,
       "rank": 17,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 434737,
-      "num": 281320,
-      "word": "大胃王吃播又悄然回来了",
-      "onboard_time": 1703036674,
-      "rank": 32,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 391673,
@@ -339,28 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355835,
-      "num": 355835,
-      "word": "衣服上的火锅味为什么散不掉",
-      "onboard_time": 1703036615,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 338205,
       "num": 338205,
       "word": "陈采尼 星光大赏有点无聊",
       "onboard_time": 1703031395,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 336546,
-      "num": 336546,
-      "word": "越是聪明的人越不明白",
-      "onboard_time": 1703036135,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 328436,
@@ -409,6 +433,14 @@
       "onboard_time": 1703031455,
       "rank": 29,
       "category": "社会新闻,美妆"
+    },
+    {
+      "raw_hot": 316672,
+      "num": 316672,
+      "word": "莫兰特解禁复出",
+      "onboard_time": 1703041591,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 316142,
@@ -483,6 +515,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 287184,
+      "num": 287184,
+      "word": "甘肃震区煮不完的饺子和不灭的车灯",
+      "onboard_time": 1703041113,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281030,
       "num": 281030,
       "word": "她需要我",
@@ -497,6 +537,14 @@
       "onboard_time": 1702998166,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264952,
+      "num": 264952,
+      "word": "红海危机",
+      "onboard_time": 1703038773,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260059,
@@ -539,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239861,
+      "num": 239861,
+      "word": "极限挑战宝藏行定档海报",
+      "onboard_time": 1703040935,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236209,
       "num": 236209,
       "word": "AppleWatch禁令最新进展",
@@ -579,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225364,
+      "num": 225364,
+      "word": "张元英生图",
+      "onboard_time": 1703038892,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217094,
       "num": 217094,
       "word": "在寝室对四级答案被室友骂了",
@@ -595,12 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209993,
-      "num": 209993,
-      "word": "红海危机",
-      "onboard_time": 1703038773,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 210353,
+      "num": 210353,
+      "word": "阿娩跟李莲花的分手告别礼",
+      "onboard_time": 1703040635,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 209055,
@@ -627,12 +691,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199719,
-      "num": 199719,
-      "word": "张元英生图",
-      "onboard_time": 1703038892,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 204713,
+      "num": 204713,
+      "word": "微博之夜 集卡",
+      "onboard_time": 1703041772,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199455,
+      "num": 199455,
+      "word": "藏海传 肖战张婧仪",
+      "onboard_time": 1703041893,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195313,
+      "num": 195313,
+      "word": "猫咪把全身毛竖起来叫奓毛",
+      "onboard_time": 1703039795,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 194123,
@@ -651,12 +731,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189595,
-      "num": 189595,
-      "word": "中国空间站和鸿蒙入选2023全球十大工程",
-      "onboard_time": 1703038953,
-      "rank": 35,
-      "category": "国内时政"
+      "raw_hot": 192147,
+      "num": 192147,
+      "word": "积石山6.2级地震灾后第一夜",
+      "onboard_time": 1703041113,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188731,
+      "num": 188731,
+      "word": "海王2今日上映",
+      "onboard_time": 1703041413,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 187720,
+      "num": 187720,
+      "word": "柯南剧场版 琴酒大战柯南",
+      "onboard_time": 1703039795,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 185002,
@@ -665,6 +761,14 @@
       "onboard_time": 1703020754,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180945,
+      "num": 180945,
+      "word": "阿里CEO吴泳铭兼任淘天集团CEO",
+      "onboard_time": 1703040212,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 180347,
@@ -699,12 +803,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172885,
+      "num": 172885,
+      "word": "原神娜维娅",
+      "onboard_time": 1703041713,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 171649,
+      "num": 171649,
+      "word": "袁泉秦海璐 青蛇台词",
+      "onboard_time": 1703041235,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167262,
       "num": 167262,
       "word": "救灾物资多一分女性关爱",
       "onboard_time": 1702995883,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165072,
+      "num": 165072,
+      "word": "莫兰特绝杀",
+      "onboard_time": 1703042072,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 164536,
@@ -737,6 +865,14 @@
       "onboard_time": 1702969359,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153754,
+      "num": 153754,
+      "word": "不叠被子教",
+      "onboard_time": 1703041354,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 149254,
