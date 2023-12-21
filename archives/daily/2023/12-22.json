@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703186002789,
+  "endTime": 1703187249019,
   "band_list": [
     {
       "raw_hot": 1176441,
@@ -467,6 +467,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 48323,
+      "num": 48323,
+      "word": "涉事医生回应手术时捶压老人头部",
+      "onboard_time": 1703186235,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37736,
       "num": 938243,
       "word": "你的肩膀我的依靠",
@@ -475,8 +483,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26441,
-      "num": 26441,
+      "raw_hot": 31268,
+      "num": 31268,
       "word": "长大了才明白小新妈妈的话",
       "onboard_time": 1703183895,
       "rank": 32,
@@ -489,6 +497,14 @@
       "onboard_time": 1703178801,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19891,
+      "num": 21387,
+      "word": "权志龙将培养新艺人",
+      "onboard_time": 1703186595,
+      "rank": 39,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

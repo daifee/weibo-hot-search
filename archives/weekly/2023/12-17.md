@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/17 00:21:27 ~ 2023/12/22 03:13:22
+本榜单时间：2023/12/17 00:21:27 ~ 2023/12/22 03:34:09
 </p>
 </blockquote>
 <p>
@@ -10437,6 +10437,12 @@ Prada上海展看点（热度：62557）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%AF%E6%97%B6%E6%8D%B6%E5%8E%8B%E8%80%81%E4%BA%BA%E5%A4%B4%E9%83%A8%23" target="weibo">
+涉事医生回应手术时捶压老人头部（热度：48323）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%BA%AA%E5%85%83ES%20%E7%BB%AD%E8%88%AA%E8%B6%85900%E5%85%AC%E9%87%8C%23" target="weibo">
 星纪元ES 续航超900公里（热度：48194）
 </a>
@@ -10587,6 +10593,12 @@ QQ音乐发布2023年度听歌报告（热度：38254）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E4%BA%86%E6%89%8D%E6%98%8E%E7%99%BD%E5%B0%8F%E6%96%B0%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23" target="weibo">
+长大了才明白小新妈妈的话（热度：31268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
 奔跑吧（热度：30995）
 </a>
@@ -10641,12 +10653,6 @@ QQ音乐发布2023年度听歌报告（热度：38254）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E4%BA%86%E6%89%8D%E6%98%8E%E7%99%BD%E5%B0%8F%E6%96%B0%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23" target="weibo">
-长大了才明白小新妈妈的话（热度：26441）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%80%A7%E6%A0%BC%E5%BC%80%E6%9C%97%20%E8%A3%85%E7%9A%84%23" target="weibo">
 我性格开朗 装的（热度：24783）
 </a>
@@ -10679,6 +10685,12 @@ QQ音乐发布2023年度听歌报告（热度：38254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E6%96%B0%E6%AD%8C%23" target="weibo">
 李宇春新歌（热度：20584）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E5%B0%86%E5%9F%B9%E5%85%BB%E6%96%B0%E8%89%BA%E4%BA%BA%23" target="weibo">
+权志龙将培养新艺人（热度：19891）
 </a>
 </li>
 

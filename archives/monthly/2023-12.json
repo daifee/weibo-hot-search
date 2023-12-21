@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703186002789,
+  "endTime": 1703187249019,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -56395,6 +56395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48323,
+      "num": 48323,
+      "word": "涉事医生回应手术时捶压老人头部",
+      "onboard_time": 1703186235,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48194,
       "num": 253586,
       "word": "星纪元ES 续航超900公里",
@@ -57275,6 +57283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31268,
+      "num": 31268,
+      "word": "长大了才明白小新妈妈的话",
+      "onboard_time": 1703183895,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 31059,
       "num": 31059,
       "word": "JN.1",
@@ -57505,14 +57521,6 @@
       "onboard_time": 1702403418,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26441,
-      "num": 26441,
-      "word": "长大了才明白小新妈妈的话",
-      "onboard_time": 1703183895,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 26346,
@@ -57881,6 +57889,14 @@
       "onboard_time": 1702029160,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19891,
+      "num": 21387,
+      "word": "权志龙将培养新艺人",
+      "onboard_time": 1703186595,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 19889,
