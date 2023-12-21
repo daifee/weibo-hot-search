@@ -1,6 +1,6 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703129670750,
+  "endTime": 1703132480409,
   "band_list": [
     {
       "raw_hot": 2191849,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1167698,
-      "num": 241342,
+      "num": 255668,
       "word": "于适站姐脱粉后发的生图",
       "onboard_time": 1703128471,
       "rank": 21,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 801572,
+      "num": 263395,
+      "word": "况盛 马杨",
+      "onboard_time": 1703132023,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 786154,
       "num": 285574,
       "word": "浏览器 杜海涛",
@@ -131,8 +139,8 @@
       "category": "健康医疗,社会新闻"
     },
     {
-      "raw_hot": 704055,
-      "num": 252370,
+      "raw_hot": 763285,
+      "num": 261398,
       "word": "酱园弄被点名",
       "onboard_time": 1703128712,
       "rank": 16,
@@ -145,6 +153,14 @@
       "onboard_time": 1703115748,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 673678,
+      "num": 257925,
+      "word": "张艺兴染色体娱乐被列为经营异常",
+      "onboard_time": 1703129854,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 641077,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 531255,
-      "num": 250160,
+      "num": 251386,
       "word": "草莓价格暴跌但为何没实现草莓自由",
       "onboard_time": 1703123789,
       "rank": 20,
@@ -249,6 +265,14 @@
       "onboard_time": 1703086174,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501321,
+      "num": 254504,
+      "word": "小S严选",
+      "onboard_time": 1703131118,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 482502,
@@ -305,6 +329,14 @@
       "onboard_time": 1703061336,
       "rank": 13,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 416990,
+      "num": 416990,
+      "word": "民警买下全部豌豆尖让老人去医院",
+      "onboard_time": 1703127450,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 411903,
@@ -459,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292588,
+      "num": 292588,
+      "word": "被拐26年杨妞花的复仇路",
+      "onboard_time": 1703131541,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291804,
+      "num": 250760,
+      "word": "张婧仪周翊然 校园味",
+      "onboard_time": 1703131177,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290503,
       "num": 225000,
       "word": "权志龙YG正式分手",
@@ -496,6 +544,14 @@
       "word": "水电全免房租减半意味着什么",
       "onboard_time": 1703082702,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 246926,
+      "num": 246926,
+      "word": "2023年你的读研报告",
+      "onboard_time": 1703130874,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -569,6 +625,22 @@
       "onboard_time": 1703121455,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215883,
+      "num": 215883,
+      "word": "快速恢复气血的六个方法",
+      "onboard_time": 1703129071,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 213666,
+      "num": 270480,
+      "word": "快船vs独行侠",
+      "onboard_time": 1703131541,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 211039,
@@ -731,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181985,
+      "num": 181985,
+      "word": "傅融河南话",
+      "onboard_time": 1703130815,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181806,
       "num": 181806,
       "word": "TheShy改名",
@@ -769,14 +849,6 @@
       "onboard_time": 1703084678,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176096,
-      "num": 288008,
-      "word": "民警买下全部豌豆尖让老人去医院",
-      "onboard_time": 1703127450,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172523,
@@ -827,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159983,
+      "num": 159983,
+      "word": "你好种地少年",
+      "onboard_time": 1703131237,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159664,
       "num": 159664,
       "word": "55岁阿姨化妆",
@@ -867,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149674,
+      "num": 149674,
+      "word": "我们的歌5第十二期预告",
+      "onboard_time": 1703131477,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149073,
       "num": 149073,
       "word": "应对寒潮地震挑战做好2024考研准备",
@@ -883,6 +971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145683,
+      "num": 145683,
+      "word": "潜行刘德华刘雅瑟血色婚礼",
+      "onboard_time": 1703131721,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145314,
       "num": 145314,
       "word": "河南救援队被甘肃司机硬核投喂",
@@ -891,20 +987,20 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 145157,
-      "num": 145157,
-      "word": "快速恢复气血的六个方法",
-      "onboard_time": 1703129071,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 141165,
       "num": 141165,
       "word": "为什么中年梗越来越火",
       "onboard_time": 1703083905,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 139965,
+      "num": 139965,
+      "word": "湖人三连败",
+      "onboard_time": 1703129611,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 139677,
@@ -931,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131767,
+      "num": 131767,
+      "word": "王曼昱进行热身活动",
+      "onboard_time": 1703132023,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129702,
       "num": 129702,
       "word": "蛋仔派对 皮肤",
@@ -945,6 +1049,14 @@
       "onboard_time": 1703123913,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127995,
+      "num": 127995,
+      "word": "三大队",
+      "onboard_time": 1703129674,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 127829,
@@ -979,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120281,
+      "num": 120281,
+      "word": "听说福建线面会繁殖",
+      "onboard_time": 1703132206,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119935,
       "num": 119935,
       "word": "疯狂动物城盛大开城",
@@ -987,20 +1107,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 119031,
-      "num": 119031,
-      "word": "湖人三连败",
-      "onboard_time": 1703129611,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114163,
       "num": 114163,
       "word": "原神 绫华",
       "onboard_time": 1703076453,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108421,
+      "num": 108421,
+      "word": "炎亚纶出庭受审",
+      "onboard_time": 1703132441,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 106321,
@@ -1073,6 +1193,14 @@
       "onboard_time": 1703127573,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71957,
+      "num": 261719,
+      "word": "少前2的美术卷疯了",
+      "onboard_time": 1703130994,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 68949,
@@ -1193,6 +1321,14 @@
       "onboard_time": 1703103554,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 2309,
+      "num": 514792,
+      "word": "北京点燃数字经济国潮热",
+      "onboard_time": 1703131237,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
