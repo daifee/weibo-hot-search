@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703187249019,
+  "endTime": 1703189909979,
   "band_list": [
     {
       "raw_hot": 1176441,
@@ -251,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 153399,
+      "num": 153399,
+      "word": "涉事医生回应手术时捶压老人头部",
+      "onboard_time": 1703186235,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150206,
       "num": 183853,
       "word": "爱尔眼科医生捶打老人被停职",
@@ -467,14 +475,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 48323,
-      "num": 48323,
-      "word": "涉事医生回应手术时捶压老人头部",
-      "onboard_time": 1703186235,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37736,
       "num": 938243,
       "word": "你的肩膀我的依靠",
@@ -483,12 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31268,
-      "num": 31268,
+      "raw_hot": 35785,
+      "num": 35785,
       "word": "长大了才明白小新妈妈的话",
       "onboard_time": 1703183895,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 24067,
+      "num": 24067,
+      "word": "半夜喜欢吃东西的人是英雄",
+      "onboard_time": 1703187314,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 22590,
@@ -505,6 +513,14 @@
       "onboard_time": 1703186595,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15049,
+      "num": 15049,
+      "word": "神十七航天员将择机第一次出舱",
+      "onboard_time": 1703188034,
+      "rank": 40,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
