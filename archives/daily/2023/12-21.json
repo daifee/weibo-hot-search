@@ -1,10 +1,18 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703140560947,
+  "endTime": 1703143008056,
   "band_list": [
     {
+      "raw_hot": 2548261,
+      "num": 2548261,
+      "word": "男主播直播喝白酒时死亡",
+      "onboard_time": 1703138859,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2481281,
-      "num": 379418,
+      "num": 462343,
       "word": "况盛 马杨",
       "onboard_time": 1703132023,
       "rank": 14,
@@ -75,16 +83,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1340189,
-      "num": 1340189,
-      "word": "男主播直播喝白酒时死亡",
-      "onboard_time": 1703138859,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1214173,
-      "num": 364319,
+      "num": 457421,
       "word": "妈妈 上班好累啊",
       "onboard_time": 1703125110,
       "rank": 30,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941699,
+      "num": 679743,
+      "word": "王俊凯 都说了少关注我年轻的时候",
+      "onboard_time": 1703141258,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 939984,
       "num": 316009,
       "word": "实在受不了冬天 冻死我了",
@@ -155,12 +163,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 899407,
+      "num": 638958,
+      "word": "肖战 东方卫视跨年",
+      "onboard_time": 1703140897,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 883534,
       "num": 320039,
       "word": "网友和鹿晗合照",
       "onboard_time": 1703135680,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 813135,
+      "num": 586359,
+      "word": "王鹤棣对接否认与迪丽热巴合作",
+      "onboard_time": 1703140417,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 786154,
@@ -265,6 +289,22 @@
       "onboard_time": 1703123972,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557874,
+      "num": 557874,
+      "word": "天太冷不洗脸会让皮肤变好吗",
+      "onboard_time": 1703137537,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 552760,
+      "num": 552760,
+      "word": "谢娜透露三个女儿性格",
+      "onboard_time": 1703140596,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 547105,
@@ -491,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389251,
-      "num": 389251,
-      "word": "天太冷不洗脸会让皮肤变好吗",
-      "onboard_time": 1703137537,
-      "rank": 14,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 382455,
       "num": 382455,
       "word": "男子爬武功山被佛光追随",
@@ -561,6 +593,14 @@
       "onboard_time": 1703136579,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332202,
+      "num": 332202,
+      "word": "胡锡进称A股跌破2900点还恐惧什么",
+      "onboard_time": 1703139516,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 332035,
@@ -627,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312978,
+      "num": 312978,
+      "word": "厚底雪地靴",
+      "onboard_time": 1703140959,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 312062,
       "num": 221458,
       "word": "刘敏涛谈和王一博合作感受",
@@ -649,6 +697,14 @@
       "onboard_time": 1703085156,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295624,
+      "num": 295624,
+      "word": "EXO初雪达成RAK",
+      "onboard_time": 1703141376,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 293755,
@@ -715,6 +771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 261434,
+      "num": 261434,
+      "word": "阿根廷国家队向甘肃青海捐赠物资",
+      "onboard_time": 1703139637,
+      "rank": 47,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 260814,
       "num": 260814,
       "word": "地震来临前狗狗将村民带到安全地带",
@@ -736,14 +800,6 @@
       "word": "商业银行存款利率最高飙至6%",
       "onboard_time": 1703133646,
       "rank": 27,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 250130,
-      "num": 250130,
-      "word": "胡锡进称A股跌破2900点还恐惧什么",
-      "onboard_time": 1703139516,
-      "rank": 39,
       "category": "财经,社会新闻"
     },
     {
@@ -777,6 +833,14 @@
       "onboard_time": 1703120135,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240058,
+      "num": 240058,
+      "word": "LNG藏头诗",
+      "onboard_time": 1703142096,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 239802,
@@ -979,6 +1043,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 200156,
+      "num": 200156,
+      "word": "王一博金鸡奖专访",
+      "onboard_time": 1703141796,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198366,
       "num": 198366,
       "word": "女主播剧烈咳嗽后大出血险没命",
@@ -1123,14 +1195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 181193,
-      "num": 181193,
-      "word": "阿根廷国家队向甘肃青海捐赠物资",
-      "onboard_time": 1703139637,
-      "rank": 47,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 177696,
       "num": 177696,
       "word": "上车第一件事 锁车门",
@@ -1160,14 +1224,6 @@
       "word": "心中的古装剧Top1",
       "onboard_time": 1703084678,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 174727,
-      "num": 174727,
-      "word": "王鹤棣对接否认与迪丽热巴合作",
-      "onboard_time": 1703140417,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1201,6 +1257,14 @@
       "onboard_time": 1703124752,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167506,
+      "num": 167506,
+      "word": "鸣龙少年剧粉是要考研吗",
+      "onboard_time": 1703140717,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 165658,
@@ -1249,6 +1313,14 @@
       "onboard_time": 1703118513,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 156961,
+      "num": 156961,
+      "word": "爱猫失踪后女子暗访整条产业链",
+      "onboard_time": 1703142455,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154666,
@@ -1411,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126748,
+      "num": 126748,
+      "word": "胡锡进称基金经理收入应和基金亏损一起降",
+      "onboard_time": 1703142696,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 126514,
       "num": 126514,
       "word": "当日语生复习碰到考研人",
@@ -1425,6 +1505,22 @@
       "onboard_time": 1703125469,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123410,
+      "num": 123410,
+      "word": "消防员怕弄脏老乡家选择席地而卧",
+      "onboard_time": 1703141434,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123262,
+      "num": 123262,
+      "word": "王楚钦备战乒超总决赛",
+      "onboard_time": 1703141675,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 123219,
@@ -1489,6 +1585,14 @@
       "onboard_time": 1703083905,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98738,
+      "num": 98738,
+      "word": "王楚然古装捧花照",
+      "onboard_time": 1703142936,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 97390,
