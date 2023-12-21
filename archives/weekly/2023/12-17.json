@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703200712904,
+  "endTime": 1703201652245,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -1667,6 +1667,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1005074,
+      "num": 1005074,
+      "word": "涉事医生回应手术时捶压老人头部",
+      "onboard_time": 1703186235,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1002032,
       "num": 418765,
       "word": "杭州孕妈一颗草莓下肚口吐鲜血",
@@ -2217,14 +2225,6 @@
       "onboard_time": 1702999596,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 816146,
-      "num": 816146,
-      "word": "涉事医生回应手术时捶压老人头部",
-      "onboard_time": 1703186235,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 813787,
@@ -3451,6 +3451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 579480,
+      "num": 579480,
+      "word": "冬至",
+      "onboard_time": 1703171142,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576193,
       "num": 576193,
       "word": "罗永浩 脱口秀",
@@ -4209,14 +4217,6 @@
       "onboard_time": 1702805261,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 485922,
-      "num": 485922,
-      "word": "冬至",
-      "onboard_time": 1703171142,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 485867,
@@ -6211,6 +6211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328728,
+      "num": 307910,
+      "word": "爱尔眼科集团通报",
+      "onboard_time": 1703200884,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328436,
       "num": 328436,
       "word": "多个卫生巾品牌为震区紧急调货捐赠",
@@ -6313,6 +6321,14 @@
       "onboard_time": 1703001034,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323197,
+      "num": 323197,
+      "word": "北京一小区15米高恐龙模型已搬家",
+      "onboard_time": 1703192055,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322939,
@@ -6747,14 +6763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302175,
-      "num": 302175,
-      "word": "北京一小区15米高恐龙模型已搬家",
-      "onboard_time": 1703192055,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301747,
       "num": 402394,
       "word": "EDG 厂长回归",
@@ -7129,6 +7137,14 @@
       "onboard_time": 1703136165,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287804,
+      "num": 287804,
+      "word": "赵今麦 化妆师",
+      "onboard_time": 1703200644,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287803,
@@ -12355,6 +12371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148254,
+      "num": 139897,
+      "word": "人体有些部位不能推拿按摩",
+      "onboard_time": 1703196315,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148112,
       "num": 148112,
       "word": "周海媚一路走好",
@@ -12449,6 +12473,14 @@
       "onboard_time": 1703122771,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 145207,
+      "num": 145207,
+      "word": "当你的真名很像网名时",
+      "onboard_time": 1703200344,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 145162,
@@ -12712,6 +12744,14 @@
       "word": "东方卫视2024综艺片单",
       "onboard_time": 1703074534,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136284,
+      "num": 136284,
+      "word": "李晨 我不是明星是文艺工作者",
+      "onboard_time": 1703180898,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -12987,6 +13027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126704,
+      "num": 126704,
+      "word": "离职前辈留下的巨额财产",
+      "onboard_time": 1703198840,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126514,
       "num": 126514,
       "word": "当日语生复习碰到考研人",
@@ -13179,14 +13227,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 119394,
-      "num": 112330,
-      "word": "人体有些部位不能推拿按摩",
-      "onboard_time": 1703196315,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 118713,
       "num": 118713,
       "word": "年会不能停 打工人生存现状",
@@ -13243,12 +13283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114363,
-      "num": 112215,
-      "word": "离职前辈留下的巨额财产",
-      "onboard_time": 1703198840,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 114052,
+      "num": 114052,
+      "word": "日照香炉真的生出紫烟",
+      "onboard_time": 1703191454,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113890,
@@ -13305,14 +13345,6 @@
       "onboard_time": 1702796800,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111636,
-      "num": 111636,
-      "word": "李晨 我不是明星是文艺工作者",
-      "onboard_time": 1703180898,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 111152,
@@ -13376,14 +13408,6 @@
       "word": "大学生划龙舟救下落水女子",
       "onboard_time": 1702777171,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103289,
-      "num": 103289,
-      "word": "日照香炉真的生出紫烟",
-      "onboard_time": 1703191454,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -13489,6 +13513,14 @@
       "onboard_time": 1702867235,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 89791,
+      "num": 89791,
+      "word": "冬至愿美好如约而至",
+      "onboard_time": 1703200463,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89404,
@@ -13651,12 +13683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78161,
+      "num": 78161,
+      "word": "个税专项附加扣除信息确认即将截止",
+      "onboard_time": 1703201425,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77716,
       "num": 77716,
       "word": "李兰迪圣诞照",
       "onboard_time": 1702919307,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76518,
+      "num": 76518,
+      "word": "西双版纳是东北第五省吧",
+      "onboard_time": 1703200884,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 76205,
@@ -13681,14 +13729,6 @@
       "onboard_time": 1703071715,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74889,
-      "num": 74889,
-      "word": "当你的真名很像网名时",
-      "onboard_time": 1703200344,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 74621,
@@ -13819,6 +13859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68296,
+      "num": 68296,
+      "word": "朱丹是把周一围拿捏住了",
+      "onboard_time": 1703179881,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66862,
       "num": 66862,
       "word": "爸爸65岁 但小名竟然叫喵呜",
@@ -13875,14 +13923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63638,
-      "num": 63638,
-      "word": "朱丹是把周一围拿捏住了",
-      "onboard_time": 1703179881,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 62690,
       "num": 1155774,
       "word": "推进乡村全面振兴",
@@ -13915,14 +13955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58121,
-      "num": 58121,
-      "word": "冬至愿美好如约而至",
-      "onboard_time": 1703200463,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55003,
       "num": 55003,
       "word": "任敏项链丢了",
@@ -13953,14 +13985,6 @@
       "onboard_time": 1703076393,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52421,
-      "num": 52421,
-      "word": "赵今麦 化妆师",
-      "onboard_time": 1703200644,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 51217,

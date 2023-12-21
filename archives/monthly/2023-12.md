@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/22 07:18:32
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/22 07:34:12
 </p>
 </blockquote>
 <p>
@@ -4353,6 +4353,12 @@ GQ内涵（热度：1094599）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%AF%E6%97%B6%E6%8D%B6%E5%8E%8B%E8%80%81%E4%BA%BA%E5%A4%B4%E9%83%A8%23" target="weibo">
+涉事医生回应手术时捶压老人头部（热度：1005074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B712345%E5%9B%9E%E5%BA%94%E4%BA%94%E6%9C%88%E5%A4%A9%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23" target="weibo">
 上海12345回应五月天被质疑假唱（热度：1004507）
 </a>
@@ -5759,12 +5765,6 @@ GQ员工吐槽 人间真实（热度：818936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%B9%E6%AD%A3%20%E8%87%AA%E5%8D%91%E6%98%AF%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E%23" target="weibo">
 尹正 自卑是男人最好的医美（热度：816573）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%AF%E6%97%B6%E6%8D%B6%E5%8E%8B%E8%80%81%E4%BA%BA%E5%A4%B4%E9%83%A8%23" target="weibo">
-涉事医生回应手术时捶压老人头部（热度：816146）
 </a>
 </li>
 
