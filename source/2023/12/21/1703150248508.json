@@ -1,0 +1,410 @@
+{
+  "runTime": 1703150248508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1601397,
+        "num": 1601397,
+        "word": "微博年度报告",
+        "onboard_time": 1703144494,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1184699,
+        "num": 1184699,
+        "word": "男主播直播喝白酒时死亡",
+        "onboard_time": 1703138859,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71385,
+        "num": 881680,
+        "word": "探访极寒天气下保供保畅黑科技",
+        "onboard_time": 1703143893,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238642,
+        "num": 863947,
+        "word": "录6天节目给10个人道歉",
+        "onboard_time": 1703147073,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 835766,
+        "num": 835766,
+        "word": "王俊凯 都说了少关注我年轻的时候",
+        "onboard_time": 1703141258,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805065,
+        "num": 805065,
+        "word": "甘露寺的莫言",
+        "onboard_time": 1703144615,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 757519,
+        "num": 757519,
+        "word": "降息",
+        "onboard_time": 1703147615,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 710098,
+        "num": 710098,
+        "word": "肖战 跨年",
+        "onboard_time": 1703149964,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628117,
+        "num": 628117,
+        "word": "跳绳 减肥",
+        "onboard_time": 1703149056,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 548189,
+        "num": 548189,
+        "word": "鹭卓换头像",
+        "onboard_time": 1703147376,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625892,
+        "num": 545197,
+        "word": "况盛 马杨",
+        "onboard_time": 1703132023,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 528006,
+        "num": 528006,
+        "word": "情绪稳定 不期待不假设不强求",
+        "onboard_time": 1703148456,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432411,
+        "num": 432411,
+        "word": "王鹤棣对接否认与迪丽热巴合作",
+        "onboard_time": 1703140417,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360144,
+        "num": 360144,
+        "word": "小猫雪天被冻僵女子用吹风机救活",
+        "onboard_time": 1703135680,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353745,
+        "num": 353745,
+        "word": "新一轮存款降息即将落地",
+        "onboard_time": 1703148937,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 294433,
+        "num": 294433,
+        "word": "天太冷不洗脸会让皮肤变好吗",
+        "onboard_time": 1703137537,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 254999,
+        "num": 254999,
+        "word": "湖南卫视跨年晚会首波阵容",
+        "onboard_time": 1703136637,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251822,
+        "num": 251822,
+        "word": "张晚意王楚然 cp感",
+        "onboard_time": 1703144135,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234999,
+        "num": 234999,
+        "word": "萌兰扣盆之前居然还叹了口气",
+        "onboard_time": 1703143475,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230977,
+        "num": 230977,
+        "word": "广陵王 刘辩",
+        "onboard_time": 1703147915,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 489098,
+        "num": 229778,
+        "word": "男子婚内出轨被发现时私生子已读小学",
+        "onboard_time": 1703136763,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287907,
+        "num": 229464,
+        "word": "考研最后两天躺平了么",
+        "onboard_time": 1703146114,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228559,
+        "num": 228559,
+        "word": "东方卫视跨年门票",
+        "onboard_time": 1703144434,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223059,
+        "num": 223059,
+        "word": "奶奶离世爷爷彻夜未眠眼睛哭到通红",
+        "onboard_time": 1703138800,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213413,
+        "num": 213413,
+        "word": "女大学生入职当天被怂恿整容",
+        "onboard_time": 1703136400,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212142,
+        "num": 212142,
+        "word": "老公给婆婆安排的学习角",
+        "onboard_time": 1703145096,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205895,
+        "num": 205895,
+        "word": "于适站姐脱粉后发的生图",
+        "onboard_time": 1703128471,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201737,
+        "num": 201737,
+        "word": "年度总结",
+        "onboard_time": 1703150016,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192514,
+        "num": 192514,
+        "word": "种地吧",
+        "onboard_time": 1703147733,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186720,
+        "num": 186720,
+        "word": "厚底雪地靴",
+        "onboard_time": 1703140959,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 212413,
+        "num": 184686,
+        "word": "花少后期贴脸开大王安宇",
+        "onboard_time": 1703149655,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174805,
+        "num": 174805,
+        "word": "Ning回应仁川上野双排",
+        "onboard_time": 1703144256,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168112,
+        "num": 168112,
+        "word": "忘记跟美容师说猫是卷毛猫了",
+        "onboard_time": 1703135146,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167430,
+        "num": 167430,
+        "word": "星光大赏微博战报",
+        "onboard_time": 1703149174,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165140,
+        "num": 165140,
+        "word": "程雨杉弟弟发现偷拍网盘",
+        "onboard_time": 1703146717,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164994,
+        "num": 164994,
+        "word": "有人从中国乘飞机往韩国背大米",
+        "onboard_time": 1703149895,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161935,
+        "num": 161935,
+        "word": "周一围 撒娇",
+        "onboard_time": 1703147495,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161632,
+        "num": 161632,
+        "word": "CFO官宣Karsa加入",
+        "onboard_time": 1703150196,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152842,
+        "num": 152842,
+        "word": "法医秦明 三大队的法与情",
+        "onboard_time": 1703148335,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99067,
+        "num": 151187,
+        "word": "两学生奔向刺骨海水救回母子二人",
+        "onboard_time": 1703150137,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 151091,
+        "num": 151091,
+        "word": "东方卫视跨年",
+        "onboard_time": 1703140897,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142369,
+        "num": 142369,
+        "word": "脱轨女主人设",
+        "onboard_time": 1703148274,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141352,
+        "num": 141352,
+        "word": "王一博给自己的表演打7分",
+        "onboard_time": 1703143655,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139588,
+        "num": 139588,
+        "word": "酱园弄被点名",
+        "onboard_time": 1703128712,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139144,
+        "num": 139144,
+        "word": "何猷君 柯哀党",
+        "onboard_time": 1703127334,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137611,
+        "num": 137611,
+        "word": "江苏卫视跨年第二波阵容",
+        "onboard_time": 1703144494,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134992,
+        "num": 134992,
+        "word": "以油养肤",
+        "onboard_time": 1703148996,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132387,
+        "num": 132387,
+        "word": "谢娜透露三个女儿性格",
+        "onboard_time": 1703140596,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132357,
+        "num": 132357,
+        "word": "民警买下全部豌豆尖让老人去医院",
+        "onboard_time": 1703127450,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129920,
+        "num": 129920,
+        "word": "各代男爱豆颜值TOP3",
+        "onboard_time": 1703146960,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#农业现代化关键是农业科技现代化#"
+    }
+  }
+}
