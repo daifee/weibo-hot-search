@@ -1,0 +1,410 @@
+{
+  "runTime": 1703165719936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2293775,
+        "num": 2293775,
+        "word": "周杰伦新歌上线",
+        "onboard_time": 1703163697,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1126374,
+        "num": 1126374,
+        "word": "圣诞星",
+        "onboard_time": 1703161415,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 57540,
+        "num": 687464,
+        "word": "推进乡村全面振兴",
+        "onboard_time": 1703162499,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1705872,
+        "num": 683914,
+        "word": "张婧仪 财阀千金",
+        "onboard_time": 1703161835,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675010,
+        "num": 675010,
+        "word": "倪妮 星河玫瑰",
+        "onboard_time": 1703162316,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650482,
+        "num": 650482,
+        "word": "2岁男童误喝22倍退烧药差点肾衰竭",
+        "onboard_time": 1703159853,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629510,
+        "num": 629510,
+        "word": "2023内娱TOP1",
+        "onboard_time": 1703154158,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 577721,
+        "num": 577721,
+        "word": "跳绳 减肥",
+        "onboard_time": 1703149056,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 536324,
+        "num": 536324,
+        "word": "25岁姑娘评上人才获100万补贴在杭独立买房",
+        "onboard_time": 1703162738,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1569114,
+        "num": 532527,
+        "word": "玉玉",
+        "onboard_time": 1703159914,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 734020,
+        "num": 519694,
+        "word": "周杰伦昆凌海边合照",
+        "onboard_time": 1703151993,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730277,
+        "num": 513453,
+        "word": "艾福杰尼结婚",
+        "onboard_time": 1703159373,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42504,
+        "num": 502149,
+        "word": "科技大厂生态造车",
+        "onboard_time": 1703164479,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 537507,
+        "num": 490831,
+        "word": "赵今麦轻熟妆",
+        "onboard_time": 1703161236,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 481466,
+        "num": 481466,
+        "word": "大二女生卖男士保暖衣月入两万",
+        "onboard_time": 1703163577,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478048,
+        "num": 478048,
+        "word": "魏晨回应流星雨是自己的养老保险",
+        "onboard_time": 1703162859,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 471540,
+        "num": 471540,
+        "word": "刘小怂直播未半 中道崩殂",
+        "onboard_time": 1703163218,
+        "rank": 16,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 452275,
+        "num": 452275,
+        "word": "倪妮 好冷让我缓一下",
+        "onboard_time": 1703164839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421309,
+        "num": 421309,
+        "word": "年底iPhone15价格再度跳水超千元",
+        "onboard_time": 1703160817,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 418937,
+        "num": 418937,
+        "word": "有人从中国乘飞机往韩国背大米",
+        "onboard_time": 1703149895,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994590,
+        "num": 418765,
+        "word": "杭州孕妈一颗草莓下肚口吐鲜血",
+        "onboard_time": 1703162859,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414139,
+        "num": 414139,
+        "word": "男子被判奸杀姐妹入狱21年获无罪",
+        "onboard_time": 1703151335,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331772,
+        "num": 331772,
+        "word": "摩羯座生日快乐",
+        "onboard_time": 1703164542,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322566,
+        "num": 322566,
+        "word": "大腿前侧凸出非常好减",
+        "onboard_time": 1703159493,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 318297,
+        "num": 318297,
+        "word": "一92年男子已当老丈人",
+        "onboard_time": 1703159075,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312616,
+        "num": 312616,
+        "word": "男主播直播喝白酒时死亡",
+        "onboard_time": 1703138859,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295356,
+        "num": 295356,
+        "word": "戒毒男子得知女儿离世后回家告别",
+        "onboard_time": 1703156797,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295068,
+        "num": 295068,
+        "word": "外卖小哥月入上万一个投诉扣300",
+        "onboard_time": 1703164542,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265924,
+        "num": 265924,
+        "word": "肖战 跨年",
+        "onboard_time": 1703149964,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115878,
+        "num": 247955,
+        "word": "震区村民说4点起床看到武警还在巡逻",
+        "onboard_time": 1703164722,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326437,
+        "num": 247776,
+        "word": "婚前一定要聊明白的问题",
+        "onboard_time": 1703164662,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247410,
+        "num": 247410,
+        "word": "肖秀荣 24考研注意事项",
+        "onboard_time": 1703162377,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246922,
+        "num": 246922,
+        "word": "况盛 马杨",
+        "onboard_time": 1703132023,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228285,
+        "num": 228285,
+        "word": "减肥动力突然就有了",
+        "onboard_time": 1703163577,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 214503,
+        "num": 214503,
+        "word": "录6天节目给10个人道歉",
+        "onboard_time": 1703147073,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210177,
+        "num": 210177,
+        "word": "安徽牛肉板面 河北特产",
+        "onboard_time": 1703163098,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192542,
+        "num": 192542,
+        "word": "三大队开播就四条人命案",
+        "onboard_time": 1703164122,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186080,
+        "num": 186080,
+        "word": "考研人同款精神状态",
+        "onboard_time": 1703165678,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168924,
+        "num": 168924,
+        "word": "鸣龙少年",
+        "onboard_time": 1703162436,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165678,
+        "num": 165678,
+        "word": "王鹤棣对接否认与迪丽热巴合作",
+        "onboard_time": 1703140417,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162555,
+        "num": 162555,
+        "word": "微博年度报告",
+        "onboard_time": 1703144494,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155952,
+        "num": 155952,
+        "word": "王者荣耀 特效",
+        "onboard_time": 1703158233,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146419,
+        "num": 146419,
+        "word": "背过的诗有一天会脱口而出",
+        "onboard_time": 1703161535,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 142291,
+        "num": 142291,
+        "word": "王俊凯 都说了少关注我年轻的时候",
+        "onboard_time": 1703141258,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132375,
+        "num": 132375,
+        "word": "兰蔻活动",
+        "onboard_time": 1703163697,
+        "rank": 44,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 131165,
+        "num": 131165,
+        "word": "孙颖莎说回到深圳感觉非常亲切",
+        "onboard_time": 1703161475,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123231,
+        "num": 123231,
+        "word": "7小时睡眠或降低死亡率",
+        "onboard_time": 1703165437,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121049,
+        "num": 121049,
+        "word": "魏晨说在三大队被宠爱着",
+        "onboard_time": 1703155295,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115863,
+        "num": 115863,
+        "word": "甘肃地震紧急救灾",
+        "onboard_time": 1703164298,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109559,
+        "num": 109559,
+        "word": "榜样8",
+        "onboard_time": 1703161654,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#农业现代化关键是农业科技现代化#"
+    }
+  }
+}
