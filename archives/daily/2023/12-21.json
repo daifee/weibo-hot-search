@@ -1,6 +1,6 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703126368672,
+  "endTime": 1703128706930,
   "band_list": [
     {
       "raw_hot": 2191849,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1964525,
+      "num": 292482,
+      "word": "高中同学突然说我霸凌她",
+      "onboard_time": 1703123010,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1915301,
       "num": 1915301,
       "word": "医生不建议年轻人没问题就推拿",
       "onboard_time": 1703114304,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1783359,
-      "num": 252100,
-      "word": "高中同学突然说我霸凌她",
-      "onboard_time": 1703123010,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 1566215,
@@ -35,6 +35,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1436749,
+      "num": 287510,
+      "word": "徐志胜 演男主",
+      "onboard_time": 1703124991,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1237885,
+      "num": 283214,
+      "word": "何猷君 柯哀党",
+      "onboard_time": 1703127334,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1214173,
+      "num": 277407,
+      "word": "妈妈 上班好累啊",
+      "onboard_time": 1703125110,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1144495,
       "num": 1144495,
       "word": "店主察觉外卖备注像遗言救下一命",
@@ -43,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1055412,
-      "num": 251932,
-      "word": "徐志胜 演男主",
-      "onboard_time": 1703124991,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 1073715,
+      "num": 272360,
+      "word": "况盛回应",
+      "onboard_time": 1703127813,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 959362,
@@ -81,6 +105,14 @@
       "onboard_time": 1703077297,
       "rank": 0,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 773120,
+      "num": 268367,
+      "word": "董宇辉 高中英语学习技巧",
+      "onboard_time": 1703127091,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 696003,
@@ -116,7 +148,7 @@
     },
     {
       "raw_hot": 625281,
-      "num": 251748,
+      "num": 259193,
       "word": "柯佳嬿 本人也比冰箱漂亮",
       "onboard_time": 1703124692,
       "rank": 16,
@@ -131,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610760,
+      "num": 241342,
+      "word": "于适站姐脱粉后发的生图",
+      "onboard_time": 1703128471,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579877,
       "num": 579877,
       "word": "ofo创始人戴威恐面临二次创业失败",
@@ -139,12 +179,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 570425,
-      "num": 251632,
-      "word": "妈妈 上班好累啊",
-      "onboard_time": 1703125110,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 573796,
+      "num": 573796,
+      "word": "中止对台湾地区部分产品关税减让",
+      "onboard_time": 1703127691,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568990,
@@ -172,7 +212,7 @@
     },
     {
       "raw_hot": 538189,
-      "num": 251479,
+      "num": 255556,
       "word": "花少团真实自用化妆品",
       "onboard_time": 1703121034,
       "rank": 30,
@@ -275,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 407872,
+      "num": 407872,
+      "word": "近九成用户希望电视像手机一样操作",
+      "onboard_time": 1703126313,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405395,
       "num": 264310,
       "word": "中戏教授谈马嘉祺宋亚轩",
@@ -345,6 +393,14 @@
       "onboard_time": 1703116049,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 330264,
+      "num": 249876,
+      "word": "繁花三大女主亮相",
+      "onboard_time": 1703127573,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 327511,
@@ -515,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205547,
+      "num": 205547,
+      "word": "念无双官宣杀青",
+      "onboard_time": 1703127334,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205499,
       "num": 205499,
       "word": "北大门禁系统的改变",
@@ -571,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196833,
+      "num": 196833,
+      "word": "焕羽杀青",
+      "onboard_time": 1703128653,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195085,
       "num": 195085,
       "word": "景天紫萱重聚繁花",
       "onboard_time": 1703084077,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192674,
+      "num": 192674,
+      "word": "权志龙明年回归",
+      "onboard_time": 1703126193,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 191154,
@@ -643,14 +723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177766,
-      "num": 177766,
-      "word": "近九成用户希望电视像手机一样操作",
-      "onboard_time": 1703126313,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177696,
       "num": 177696,
       "word": "上车第一件事 锁车门",
@@ -664,6 +736,14 @@
       "word": "繁花",
       "onboard_time": 1703120256,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177094,
+      "num": 177094,
+      "word": "柳舟记杀青",
+      "onboard_time": 1703127151,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -681,14 +761,6 @@
       "onboard_time": 1703120676,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 172184,
-      "num": 172184,
-      "word": "权志龙明年回归",
-      "onboard_time": 1703126193,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 171441,
@@ -747,6 +819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158448,
+      "num": 158448,
+      "word": "民警买下全部豌豆尖让老人去医院",
+      "onboard_time": 1703127450,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154666,
       "num": 154666,
       "word": "赵丽颖张若昀 在人间",
@@ -793,6 +873,14 @@
       "onboard_time": 1703122771,
       "rank": 36,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 141263,
+      "num": 141263,
+      "word": "孙颖莎陈清晨互换奖杯奖牌",
+      "onboard_time": 1703128536,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 141165,
@@ -873,6 +961,14 @@
       "onboard_time": 1703068115,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119935,
+      "num": 119935,
+      "word": "疯狂动物城盛大开城",
+      "onboard_time": 1703128231,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 114163,
@@ -963,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52974,
+      "num": 118653,
+      "word": "人会一次又一次爱上泉州",
+      "onboard_time": 1703127573,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51217,
       "num": 57828,
       "word": "屏蔽力和钝感力 人生无敌",
@@ -1001,6 +1105,14 @@
       "onboard_time": 1703100675,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34783,
+      "num": 247374,
+      "word": "星纪元ES的智能座舱有多懂你",
+      "onboard_time": 1703126610,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 34113,
