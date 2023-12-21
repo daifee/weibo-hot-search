@@ -1,7 +1,23 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703115258475,
+  "endTime": 1703121300201,
   "band_list": [
+    {
+      "raw_hot": 2191849,
+      "num": 320483,
+      "word": "女网红就涉甘肃地震言论道歉并捐款",
+      "onboard_time": 1703116771,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1903500,
+      "num": 1903500,
+      "word": "医生不建议年轻人没问题就推拿",
+      "onboard_time": 1703114304,
+      "rank": 20,
+      "category": "健康医疗"
+    },
     {
       "raw_hot": 1566215,
       "num": 1566215,
@@ -11,8 +27,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 844604,
-      "num": 227303,
+      "raw_hot": 1021470,
+      "num": 1021470,
+      "word": "店主察觉外卖备注像遗言救下一命",
+      "onboard_time": 1703115628,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 959362,
+      "num": 959362,
+      "word": "甘肃地震已致135人遇难",
+      "onboard_time": 1703117193,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939984,
+      "num": 316009,
       "word": "实在受不了冬天 冻死我了",
       "onboard_time": 1703084798,
       "rank": 12,
@@ -20,7 +52,7 @@
     },
     {
       "raw_hot": 786154,
-      "num": 227952,
+      "num": 285574,
       "word": "浏览器 杜海涛",
       "onboard_time": 1703080358,
       "rank": 10,
@@ -41,6 +73,14 @@
       "onboard_time": 1703071536,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636993,
+      "num": 309808,
+      "word": "进个门微信步数好几万",
+      "onboard_time": 1703115748,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 627472,
@@ -75,11 +115,43 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 539388,
+      "num": 302135,
+      "word": "一名医生决定帮病人有尊严地死",
+      "onboard_time": 1703115868,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 530389,
+      "num": 398003,
+      "word": "网传爱尔眼科一医生捶击患者头部",
+      "onboard_time": 1703114544,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520260,
       "num": 520260,
       "word": "警方通报2男子烧烤店殴打女店员",
       "onboard_time": 1703086174,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482502,
+      "num": 294657,
+      "word": "你关掉的不是水是防冻功能",
+      "onboard_time": 1703113161,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 443478,
+      "num": 394132,
+      "word": "爱尔眼科",
+      "onboard_time": 1703115748,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -91,12 +163,28 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 431805,
+      "num": 279295,
+      "word": "王家卫拍胡歌 无死角的帅",
+      "onboard_time": 1703119055,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 424137,
       "num": 226703,
       "word": "毛晓彤鼻子 鼻翼比例",
       "onboard_time": 1703061336,
       "rank": 13,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 413060,
+      "num": 261787,
+      "word": "吴千语礼服",
+      "onboard_time": 1703120313,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 410539,
@@ -108,11 +196,19 @@
     },
     {
       "raw_hot": 405395,
-      "num": 226682,
+      "num": 264310,
       "word": "中戏教授谈马嘉祺宋亚轩",
       "onboard_time": 1703082336,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404438,
+      "num": 404438,
+      "word": "烟台大学 冷流雪",
+      "onboard_time": 1703116831,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397202,
@@ -121,6 +217,14 @@
       "onboard_time": 1703102353,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 396801,
+      "num": 221620,
+      "word": "花少团真实自用化妆品",
+      "onboard_time": 1703121034,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 374889,
@@ -147,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347844,
+      "num": 273461,
+      "word": "吴世勋入伍",
+      "onboard_time": 1703114844,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344929,
       "num": 225671,
       "word": "微博之夜 投票",
@@ -155,12 +267,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 339286,
-      "num": 143029,
-      "word": "医生不建议年轻人没问题就推拿",
-      "onboard_time": 1703114304,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 332035,
+      "num": 261589,
+      "word": "脱轨 你好香啊",
+      "onboard_time": 1703117976,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 330580,
+      "num": 266848,
+      "word": "笑果脱口秀演员线下开演",
+      "onboard_time": 1703116049,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 327511,
@@ -188,11 +308,19 @@
     },
     {
       "raw_hot": 312062,
-      "num": 147367,
+      "num": 221458,
       "word": "刘敏涛谈和王一博合作感受",
       "onboard_time": 1703107093,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311668,
+      "num": 259676,
+      "word": "猫咪为了蹭热乎躺进小狗堆",
+      "onboard_time": 1703115147,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 304256,
@@ -228,7 +356,7 @@
     },
     {
       "raw_hot": 259273,
-      "num": 223875,
+      "num": 252212,
       "word": "水电全免房租减半意味着什么",
       "onboard_time": 1703082702,
       "rank": 21,
@@ -243,12 +371,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243546,
+      "num": 243546,
+      "word": "地震灾区救援了一部手机",
+      "onboard_time": 1703115566,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241313,
+      "num": 241313,
+      "word": "脱轨",
+      "onboard_time": 1703120135,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239802,
+      "num": 239802,
+      "word": "孙女哄爷爷奶奶在上海吃牛蛙面只要5元",
+      "onboard_time": 1703113340,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235905,
       "num": 235905,
       "word": "苹果手机估价近3000回收却给500",
       "onboard_time": 1703079874,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 229626,
+      "num": 229626,
+      "word": "美团将9.4万盒急需药送达积石山",
+      "onboard_time": 1703119595,
+      "rank": 27,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 228974,
@@ -267,12 +427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217025,
+      "num": 217025,
+      "word": "消防员零下18度灭火被冻出冰铠甲",
+      "onboard_time": 1703119115,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211039,
-      "num": 175533,
+      "num": 189138,
       "word": "哈尔滨出现海王2冰雕",
       "onboard_time": 1703090665,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205426,
+      "num": 205426,
+      "word": "电子李子维",
+      "onboard_time": 1703119293,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205345,
@@ -283,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203627,
+      "num": 203627,
+      "word": "明明在教室却被记了旷课",
+      "onboard_time": 1703101514,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198366,
       "num": 198366,
       "word": "女主播剧烈咳嗽后大出血险没命",
       "onboard_time": 1703073031,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197860,
+      "num": 197860,
+      "word": "演员争番位伤害的是作品本身",
+      "onboard_time": 1703119115,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 195085,
@@ -299,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189649,
-      "num": 144560,
-      "word": "你关掉的不是水是防冻功能",
-      "onboard_time": 1703113161,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 191154,
+      "num": 191154,
+      "word": "哈尔滨冰雪大世界",
+      "onboard_time": 1703120015,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189097,
@@ -347,12 +539,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180714,
+      "num": 180714,
+      "word": "北大门禁系统的改变",
+      "onboard_time": 1703120855,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177696,
       "num": 177696,
       "word": "上车第一件事 锁车门",
       "onboard_time": 1703084134,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177157,
+      "num": 177157,
+      "word": "繁花",
+      "onboard_time": 1703120256,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 176899,
@@ -363,12 +571,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172523,
+      "num": 172523,
+      "word": "圣诞美甲合集",
+      "onboard_time": 1703120676,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 171441,
+      "num": 171441,
+      "word": "暴雪天高铁跑出了飞机的气势",
+      "onboard_time": 1703117314,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165392,
       "num": 165392,
       "word": "刘浩存 醉酒戏",
       "onboard_time": 1703081137,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159664,
+      "num": 159664,
+      "word": "55岁阿姨化妆",
+      "onboard_time": 1703118095,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 159140,
+      "num": 159140,
+      "word": "考研英语小作文终极预测",
+      "onboard_time": 1703118513,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 154666,
@@ -395,11 +635,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 141429,
-      "num": 141429,
-      "word": "网传爱尔眼科一医生捶击患者头部",
-      "onboard_time": 1703114544,
-      "rank": 23,
+      "raw_hot": 144284,
+      "num": 144284,
+      "word": "如何看待女网红涉甘肃地震言论",
+      "onboard_time": 1703121275,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -419,36 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133056,
-      "num": 133056,
-      "word": "明明在教室却被记了旷课",
-      "onboard_time": 1703101514,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 131756,
-      "num": 131756,
-      "word": "吴世勋入伍",
-      "onboard_time": 1703114844,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129702,
       "num": 129702,
       "word": "蛋仔派对 皮肤",
       "onboard_time": 1703081978,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126537,
-      "num": 126537,
-      "word": "孙女哄爷爷奶奶在上海吃牛蛙面只要5元",
-      "onboard_time": 1703113340,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126514,
@@ -531,14 +747,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 69758,
-      "num": 69758,
-      "word": "猫咪为了蹭热乎躺进小狗堆",
-      "onboard_time": 1703115147,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 68949,
       "num": 522941,
       "word": "青海为震区考研学生开通求助热线",
@@ -553,6 +761,14 @@
       "onboard_time": 1703094317,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 53735,
+      "num": 973689,
+      "word": "2024年三农工作",
+      "onboard_time": 1703076393,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51217,
@@ -600,14 +816,6 @@
       "word": "杨元庆向中科大捐赠2亿元",
       "onboard_time": 1703095879,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30119,
-      "num": 421639,
-      "word": "2024年三农工作",
-      "onboard_time": 1703076393,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
