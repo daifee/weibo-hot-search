@@ -1,0 +1,410 @@
+{
+  "runTime": 1703136847333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 715673,
+        "num": 715673,
+        "word": "医生不建议年轻人没问题就推拿",
+        "onboard_time": 1703114304,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 450900,
+        "num": 450900,
+        "word": "店主察觉外卖备注像遗言救下一命",
+        "onboard_time": 1703115628,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1,
+        "num": 416430,
+        "word": "北京点燃数字经济国潮热",
+        "onboard_time": 1703131237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382455,
+        "num": 382455,
+        "word": "男子爬武功山被佛光追随",
+        "onboard_time": 1703132927,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 338525,
+        "num": 338525,
+        "word": "民警买下全部豌豆尖让老人去医院",
+        "onboard_time": 1703127450,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 295075,
+        "num": 295075,
+        "word": "中止对台湾地区部分产品关税减让",
+        "onboard_time": 1703127691,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251520,
+        "num": 251520,
+        "word": "地震来临前狗狗将村民带到安全地带",
+        "onboard_time": 1703135565,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250304,
+        "num": 250304,
+        "word": "金毛震后泥浆被困30小时获救",
+        "onboard_time": 1703121632,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230637,
+        "num": 230637,
+        "word": "考研女生户外背书贴5个暖宝宝御寒",
+        "onboard_time": 1703133045,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217324,
+        "num": 230625,
+        "word": "被拐26年杨妞花的复仇路",
+        "onboard_time": 1703131541,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2096846,
+        "num": 230495,
+        "word": "况盛 马杨",
+        "onboard_time": 1703132023,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1003397,
+        "num": 230382,
+        "word": "妈妈 上班好累啊",
+        "onboard_time": 1703125110,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 883534,
+        "num": 230319,
+        "word": "网友和鹿晗合照",
+        "onboard_time": 1703135680,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630198,
+        "num": 230197,
+        "word": "何猷君 柯哀党",
+        "onboard_time": 1703127334,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89036,
+        "num": 230092,
+        "word": "人会一次又一次爱上泉州",
+        "onboard_time": 1703127573,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611121,
+        "num": 229902,
+        "word": "徐志胜 演男主",
+        "onboard_time": 1703124991,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537052,
+        "num": 229795,
+        "word": "小S大女儿将出国留学",
+        "onboard_time": 1703135146,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446028,
+        "num": 229752,
+        "word": "况盛回应",
+        "onboard_time": 1703127813,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 422787,
+        "num": 229638,
+        "word": "酱园弄被点名",
+        "onboard_time": 1703128712,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410313,
+        "num": 229500,
+        "word": "知情者称周海媚骨灰将安葬在香港",
+        "onboard_time": 1703134065,
+        "rank": 19,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 846876,
+        "num": 229462,
+        "word": "于适站姐脱粉后发的生图",
+        "onboard_time": 1703128471,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445508,
+        "num": 229345,
+        "word": "男子为找对象卖涉黄手办",
+        "onboard_time": 1703133826,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444938,
+        "num": 229243,
+        "word": "专家建议冬至放一天假",
+        "onboard_time": 1703135026,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406128,
+        "num": 229100,
+        "word": "张艺兴染色体娱乐被列为经营异常",
+        "onboard_time": 1703129854,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355303,
+        "num": 228948,
+        "word": "唐嫣一天官宣两部剧",
+        "onboard_time": 1703135440,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345185,
+        "num": 228910,
+        "word": "高中同学突然说我霸凌她",
+        "onboard_time": 1703123010,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316049,
+        "num": 228760,
+        "word": "Xinyi求婚成功",
+        "onboard_time": 1703135680,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287839,
+        "num": 228642,
+        "word": "张艺兴方回应经营异常",
+        "onboard_time": 1703136165,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234090,
+        "num": 228540,
+        "word": "商业银行存款利率最高飙至6%",
+        "onboard_time": 1703133646,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 228523,
+        "num": 228523,
+        "word": "草莓价格暴跌但为何没实现草莓自由",
+        "onboard_time": 1703123789,
+        "rank": 29,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 67944,
+        "num": 221742,
+        "word": "和平精英能骑马了",
+        "onboard_time": 1703136037,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218824,
+        "num": 218824,
+        "word": "湖南卫视跨年晚会首波阵容",
+        "onboard_time": 1703136637,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217328,
+        "num": 217328,
+        "word": "小猫雪天被冻僵女子用吹风机救活",
+        "onboard_time": 1703135680,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213062,
+        "num": 213062,
+        "word": "忘记跟美容师说猫是卷毛猫了",
+        "onboard_time": 1703135146,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210915,
+        "num": 210915,
+        "word": "唐嫣一场戏拍86遍",
+        "onboard_time": 1703136579,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210712,
+        "num": 210712,
+        "word": "小S说跟许雅钧很相爱",
+        "onboard_time": 1703132506,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205670,
+        "num": 205670,
+        "word": "刘诗诗开年的第一缕光",
+        "onboard_time": 1703132864,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 205247,
+        "num": 205247,
+        "word": "女网红就涉甘肃地震言论道歉并捐款",
+        "onboard_time": 1703116771,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191927,
+        "num": 191927,
+        "word": "女大学生入职当天被怂恿整容",
+        "onboard_time": 1703136400,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190825,
+        "num": 190825,
+        "word": "媒体眼中的刘宇宁",
+        "onboard_time": 1703134546,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179877,
+        "num": 179877,
+        "word": "花少团真实自用化妆品",
+        "onboard_time": 1703121034,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 205408,
+        "num": 178587,
+        "word": "刘诗诗一字肩肌肉线条",
+        "onboard_time": 1703133646,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175837,
+        "num": 175837,
+        "word": "电视剧三大队今日开播",
+        "onboard_time": 1703134305,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171791,
+        "num": 171791,
+        "word": "张婧仪跑着给周翊然送花",
+        "onboard_time": 1703136818,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170810,
+        "num": 170810,
+        "word": "甘肃积石山县4.1级地震",
+        "onboard_time": 1703113703,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169468,
+        "num": 169468,
+        "word": "绝对控油的尽头是衰老",
+        "onboard_time": 1703134005,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162921,
+        "num": 162921,
+        "word": "柯佳嬿 本人也比冰箱漂亮",
+        "onboard_time": 1703124692,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162813,
+        "num": 162813,
+        "word": "伦纳德无敌了",
+        "onboard_time": 1703134483,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164115,
+        "num": 159422,
+        "word": "张婧仪周翊然 校园味",
+        "onboard_time": 1703131177,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155692,
+        "num": 155692,
+        "word": "男子婚内出轨被发现时私生子已读小学",
+        "onboard_time": 1703136763,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对三农工作作出重要指示#"
+    }
+  }
+}
