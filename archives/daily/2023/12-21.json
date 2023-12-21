@@ -1,6 +1,6 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703169254901,
+  "endTime": 1703171884489,
   "band_list": [
     {
       "raw_hot": 2548261,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2504003,
-      "num": 841416,
+      "num": 1135034,
       "word": "难听",
       "onboard_time": 1703166040,
       "rank": 3,
@@ -25,6 +25,14 @@
       "onboard_time": 1703132023,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2356147,
+      "num": 2356147,
+      "word": "哑舍 刘宇宁",
+      "onboard_time": 1703170063,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2293775,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1705872,
-      "num": 886362,
+      "num": 980732,
       "word": "张婧仪 财阀千金",
       "onboard_time": 1703161835,
       "rank": 38,
@@ -97,6 +105,14 @@
       "onboard_time": 1703144494,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1632572,
+      "num": 1632572,
+      "word": "赵露思替身发文",
+      "onboard_time": 1703169941,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1566215,
@@ -209,6 +225,14 @@
       "onboard_time": 1703115628,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1017109,
+      "num": 452435,
+      "word": "注射针在皮肤上留下的洞",
+      "onboard_time": 1703168681,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1015624,
@@ -331,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789702,
+      "num": 789702,
+      "word": "迪丽热巴瞬间失去表情管理",
+      "onboard_time": 1703168860,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 786154,
       "num": 285574,
       "word": "浏览器 杜海涛",
@@ -393,6 +425,14 @@
       "onboard_time": 1703156797,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727744,
+      "num": 418233,
+      "word": "鹿晗 绸缎裹钢筋",
+      "onboard_time": 1703170421,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 696003,
@@ -691,18 +731,18 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 470885,
-      "num": 452435,
-      "word": "注射针在皮肤上留下的洞",
-      "onboard_time": 1703168681,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 466114,
       "num": 466114,
       "word": "金毛震后泥浆被困30小时获救",
       "onboard_time": 1703121632,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462379,
+      "num": 462379,
+      "word": "女孩零下18度光手跑步险截肢",
+      "onboard_time": 1703170180,
       "rank": 8,
       "category": "社会新闻"
     },
@@ -739,6 +779,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 440894,
+      "num": 350534,
+      "word": "董宇辉预计1月10号恢复直播",
+      "onboard_time": 1703168569,
+      "rank": 30,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 431805,
       "num": 279295,
       "word": "王家卫拍胡歌 无死角的帅",
@@ -769,6 +817,14 @@
       "onboard_time": 1703061336,
       "rank": 13,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 422731,
+      "num": 422731,
+      "word": "2024年巨蟹座要飞升",
+      "onboard_time": 1703168382,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 422185,
@@ -907,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371910,
+      "num": 371910,
+      "word": "GenG疑删除道歉声明",
+      "onboard_time": 1703170123,
+      "rank": 18,
+      "category": "电竞,社会新闻"
+    },
+    {
       "raw_hot": 365686,
       "num": 226288,
       "word": "王安宇胡先煦你俩有点暧昧了",
@@ -939,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 353723,
-      "num": 272267,
-      "word": "董宇辉预计1月10号恢复直播",
-      "onboard_time": 1703168569,
-      "rank": 30,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 350300,
       "num": 350300,
       "word": "宁波渔民捕获4.2斤海中土豪金能卖二三万",
@@ -969,14 +1025,6 @@
       "onboard_time": 1703069136,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 341385,
-      "num": 308007,
-      "word": "迪丽热巴瞬间失去表情管理",
-      "onboard_time": 1703168860,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 335509,
@@ -1171,12 +1219,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 307014,
-      "num": 307014,
-      "word": "2024年巨蟹座要飞升",
-      "onboard_time": 1703168382,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 305598,
+      "num": 305598,
+      "word": "冬至",
+      "onboard_time": 1703171142,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304256,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1703138800,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291528,
+      "num": 291528,
+      "word": "车厘子有望便宜四成",
+      "onboard_time": 1703169771,
+      "rank": 26,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 290503,
@@ -1483,6 +1539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 235972,
+      "num": 235972,
+      "word": "爱尔眼科医生捶打老人被停职",
+      "onboard_time": 1703170839,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235905,
       "num": 235905,
       "word": "苹果手机估价近3000回收却给500",
@@ -1665,6 +1729,14 @@
       "onboard_time": 1703154937,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212437,
+      "num": 212437,
+      "word": "考公考研一族涌进付费自习室",
+      "onboard_time": 1703169464,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 211039,
@@ -2105,6 +2177,14 @@
       "onboard_time": 1703084134,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177659,
+      "num": 177659,
+      "word": "我的爱就像圣诞树顶的星星",
+      "onboard_time": 1703171623,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 177157,
@@ -2876,7 +2956,7 @@
     },
     {
       "raw_hot": 62690,
-      "num": 930971,
+      "num": 1155774,
       "word": "推进乡村全面振兴",
       "onboard_time": 1703162499,
       "rank": 2,
