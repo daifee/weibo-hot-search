@@ -1,0 +1,410 @@
+{
+  "runTime": 1703144049249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2524757,
+        "num": 2524757,
+        "word": "男主播直播喝白酒时死亡",
+        "onboard_time": 1703138859,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682134,
+        "num": 682134,
+        "word": "推特崩了",
+        "onboard_time": 1703138562,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 8391,
+        "num": 674482,
+        "word": "探访极寒天气下保供保畅黑科技",
+        "onboard_time": 1703143893,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989336,
+        "num": 649581,
+        "word": "王俊凯 都说了少关注我年轻的时候",
+        "onboard_time": 1703141258,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 864917,
+        "num": 634286,
+        "word": "王鹤棣对接否认与迪丽热巴合作",
+        "onboard_time": 1703140417,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 734865,
+        "num": 625424,
+        "word": "肖战 东方卫视跨年",
+        "onboard_time": 1703140897,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615520,
+        "num": 615520,
+        "word": "谢娜透露三个女儿性格",
+        "onboard_time": 1703140596,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550062,
+        "num": 550062,
+        "word": "天太冷不洗脸会让皮肤变好吗",
+        "onboard_time": 1703137537,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 414219,
+        "num": 414219,
+        "word": "女大学生入职当天被怂恿整容",
+        "onboard_time": 1703136400,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406036,
+        "num": 406036,
+        "word": "厚底雪地靴",
+        "onboard_time": 1703140959,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1150919,
+        "num": 400261,
+        "word": "况盛 马杨",
+        "onboard_time": 1703132023,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 412202,
+        "num": 379620,
+        "word": "妈妈 上班好累啊",
+        "onboard_time": 1703125110,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333167,
+        "num": 333167,
+        "word": "湖南卫视跨年晚会首波阵容",
+        "onboard_time": 1703136637,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321793,
+        "num": 321793,
+        "word": "胡锡进称A股跌破2900点还恐惧什么",
+        "onboard_time": 1703139516,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 320115,
+        "num": 320115,
+        "word": "黑龙江一煤矿发生事故致12人死亡",
+        "onboard_time": 1703138197,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293112,
+        "num": 293112,
+        "word": "养不熟的朋友",
+        "onboard_time": 1703140295,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285469,
+        "num": 285469,
+        "word": "原神4.3版本",
+        "onboard_time": 1703143175,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275586,
+        "num": 275586,
+        "word": "何猷君 柯哀党",
+        "onboard_time": 1703127334,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269749,
+        "num": 269749,
+        "word": "阿根廷国家队向甘肃青海捐赠物资",
+        "onboard_time": 1703139637,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 268115,
+        "num": 268115,
+        "word": "EXO初雪达成RAK",
+        "onboard_time": 1703141376,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737286,
+        "num": 261382,
+        "word": "男子婚内出轨被发现时私生子已读小学",
+        "onboard_time": 1703136763,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321234,
+        "num": 258705,
+        "word": "于适站姐脱粉后发的生图",
+        "onboard_time": 1703128471,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286820,
+        "num": 250283,
+        "word": "专家建议冬至放一天假",
+        "onboard_time": 1703135026,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239399,
+        "num": 239399,
+        "word": "酱园弄被点名",
+        "onboard_time": 1703128712,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236094,
+        "num": 236094,
+        "word": "王一博给自己的表演打7分",
+        "onboard_time": 1703143655,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232321,
+        "num": 232321,
+        "word": "奶奶离世爷爷彻夜未眠眼睛哭到通红",
+        "onboard_time": 1703138800,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209192,
+        "num": 209192,
+        "word": "民警买下全部豌豆尖让老人去医院",
+        "onboard_time": 1703127450,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 208927,
+        "num": 208927,
+        "word": "炎亚纶称尽最大诚意跟努力和解",
+        "onboard_time": 1703143596,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201170,
+        "num": 201170,
+        "word": "爱猫失踪后女子暗访整条产业链",
+        "onboard_time": 1703142455,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196266,
+        "num": 196266,
+        "word": "医生不建议年轻人没问题就推拿",
+        "onboard_time": 1703114304,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221256,
+        "num": 196236,
+        "word": "萌兰扣盆之前居然还叹了口气",
+        "onboard_time": 1703143475,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192107,
+        "num": 192107,
+        "word": "小猫雪天被冻僵女子用吹风机救活",
+        "onboard_time": 1703135680,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188644,
+        "num": 188644,
+        "word": "唐嫣一场戏拍86遍",
+        "onboard_time": 1703136579,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187078,
+        "num": 187078,
+        "word": "LNG藏头诗",
+        "onboard_time": 1703142096,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179739,
+        "num": 179739,
+        "word": "男子为找对象卖涉黄手办",
+        "onboard_time": 1703133826,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170303,
+        "num": 170303,
+        "word": "况盛回应",
+        "onboard_time": 1703127813,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170296,
+        "num": 170296,
+        "word": "张艺兴染色体娱乐被列为经营异常",
+        "onboard_time": 1703129854,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166379,
+        "num": 166379,
+        "word": "唐嫣一天官宣两部剧",
+        "onboard_time": 1703135440,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160714,
+        "num": 160714,
+        "word": "绝对控油的尽头是衰老",
+        "onboard_time": 1703134005,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 157813,
+        "num": 157813,
+        "word": "Xinyi求婚成功",
+        "onboard_time": 1703135680,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145083,
+        "num": 145083,
+        "word": "忘记跟美容师说猫是卷毛猫了",
+        "onboard_time": 1703135146,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143032,
+        "num": 143032,
+        "word": "小S大女儿将出国留学",
+        "onboard_time": 1703135146,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138186,
+        "num": 138186,
+        "word": "胡锡进称基金经理收入应和基金亏损一起降",
+        "onboard_time": 1703142696,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 134711,
+        "num": 134711,
+        "word": "徐志胜 演男主",
+        "onboard_time": 1703124991,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133700,
+        "num": 133700,
+        "word": "网友和鹿晗合照",
+        "onboard_time": 1703135680,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129941,
+        "num": 129941,
+        "word": "店主察觉外卖备注像遗言救下一命",
+        "onboard_time": 1703115628,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129346,
+        "num": 129346,
+        "word": "消防员怕弄脏老乡家选择席地而卧",
+        "onboard_time": 1703141434,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127390,
+        "num": 127390,
+        "word": "地震来临前狗狗将村民带到安全地带",
+        "onboard_time": 1703135565,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123597,
+        "num": 123597,
+        "word": "鸣龙少年剧粉是要考研吗",
+        "onboard_time": 1703140717,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118813,
+        "num": 118813,
+        "word": "张婧仪跑着给周翊然送花",
+        "onboard_time": 1703136818,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#农业现代化关键是农业科技现代化#"
+    }
+  }
+}
