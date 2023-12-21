@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/22 06:33:56
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/22 07:18:32
 </p>
 </blockquote>
 <p>
@@ -5763,6 +5763,12 @@ GQ员工吐槽 人间真实（热度：818936）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%8C%BB%E7%94%9F%E5%9B%9E%E5%BA%94%E6%89%8B%E6%9C%AF%E6%97%B6%E6%8D%B6%E5%8E%8B%E8%80%81%E4%BA%BA%E5%A4%B4%E9%83%A8%23" target="weibo">
+涉事医生回应手术时捶压老人头部（热度：816146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E4%B8%89%E5%80%8D%E5%A4%A7%E7%9C%BC%E5%A6%86%23" target="weibo">
 痞幼三倍大眼妆（热度：815981）
 </a>
@@ -6005,12 +6011,6 @@ EXO 下雪了（热度：807132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%88%91%E5%AE%98%E5%AE%A3%23" target="weibo">
 小小的我官宣（热度：793494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E6%89%8B%E7%9A%84%E9%82%A3%E7%9E%AC%E9%97%B4%E5%8F%91%E7%8E%B0%E6%98%AF%E5%B0%8F%E5%A5%B3%E5%84%BF%E5%90%8E%23" target="weibo">
-动手的那瞬间发现是小女儿后（热度：791948）
 </a>
 </li>
 
