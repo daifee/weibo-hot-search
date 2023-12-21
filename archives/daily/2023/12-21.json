@@ -1,6 +1,6 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703146925692,
+  "endTime": 1703147733552,
   "band_list": [
     {
       "raw_hot": 2548261,
@@ -107,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1151647,
-      "num": 1151647,
+      "raw_hot": 1153032,
+      "num": 1153032,
       "word": "王俊凯 都说了少关注我年轻的时候",
       "onboard_time": 1703141258,
       "rank": 3,
@@ -323,6 +323,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 554564,
+      "num": 387943,
+      "word": "甘露寺的莫言",
+      "onboard_time": 1703144615,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 547105,
       "num": 547105,
       "word": "目击者还原男子亮网红身份维权经过",
@@ -443,14 +451,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 437589,
-      "num": 387943,
-      "word": "甘露寺的莫言",
-      "onboard_time": 1703144615,
-      "rank": 11,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 431805,
       "num": 279295,
       "word": "王家卫拍胡歌 无死角的帅",
@@ -473,6 +473,14 @@
       "onboard_time": 1703061336,
       "rank": 13,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 420172,
+      "num": 420172,
+      "word": "萌兰扣盆之前居然还叹了口气",
+      "onboard_time": 1703143475,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418388,
@@ -555,14 +563,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 396159,
-      "num": 396159,
-      "word": "萌兰扣盆之前居然还叹了口气",
-      "onboard_time": 1703143475,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393290,
       "num": 393290,
       "word": "被拐26年杨妞花的复仇路",
@@ -603,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350574,
+      "num": 327092,
+      "word": "小猫雪天被冻僵女子用吹风机救活",
+      "onboard_time": 1703135680,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350300,
       "num": 350300,
       "word": "宁波渔民捕获4.2斤海中土豪金能卖二三万",
@@ -633,6 +641,14 @@
       "onboard_time": 1703136579,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334142,
+      "num": 334142,
+      "word": "东方卫视跨年门票",
+      "onboard_time": 1703144434,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 334129,
@@ -689,6 +705,14 @@
       "onboard_time": 1703140295,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322510,
+      "num": 322510,
+      "word": "东方卫视跨年",
+      "onboard_time": 1703140897,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 319908,
@@ -755,12 +779,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296380,
+      "num": 296380,
+      "word": "鹭卓换头像",
+      "onboard_time": 1703147376,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295624,
       "num": 295624,
       "word": "EXO初雪达成RAK",
       "onboard_time": 1703141376,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294570,
+      "num": 247746,
+      "word": "考研最后两天躺平了么",
+      "onboard_time": 1703146114,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 293755,
@@ -777,14 +817,6 @@
       "onboard_time": 1703068958,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288697,
-      "num": 288697,
-      "word": "小猫雪天被冻僵女子用吹风机救活",
-      "onboard_time": 1703135680,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288074,
@@ -883,20 +915,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 255870,
+      "num": 255870,
+      "word": "Ning回应仁川上野双排",
+      "onboard_time": 1703144256,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254110,
       "num": 254110,
       "word": "王一博给自己的表演打7分",
       "onboard_time": 1703143655,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249143,
-      "num": 249143,
-      "word": "Ning回应仁川上野双排",
-      "onboard_time": 1703144256,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 249129,
@@ -931,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243109,
+      "num": 243109,
+      "word": "录6天节目给10个人道歉",
+      "onboard_time": 1703147073,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 241313,
       "num": 241313,
       "word": "脱轨",
@@ -953,14 +993,6 @@
       "onboard_time": 1703113340,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237759,
-      "num": 237759,
-      "word": "考研最后两天躺平了么",
-      "onboard_time": 1703146114,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 235905,
@@ -1211,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193576,
+      "num": 193576,
+      "word": "各代男爱豆颜值TOP3",
+      "onboard_time": 1703146960,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192674,
       "num": 192674,
       "word": "权志龙明年回归",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1703120015,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189412,
+      "num": 189412,
+      "word": "程雨杉弟弟发现偷拍网盘",
+      "onboard_time": 1703146717,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 189097,
@@ -1347,12 +1395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173729,
-      "num": 173729,
-      "word": "程雨杉弟弟发现偷拍网盘",
-      "onboard_time": 1703146717,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 176391,
+      "num": 176391,
+      "word": "说你不懂事 那是你不好糊弄",
+      "onboard_time": 1703146357,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 172523,
@@ -1387,12 +1435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169250,
-      "num": 169250,
-      "word": "说你不懂事 那是你不好糊弄",
-      "onboard_time": 1703146357,
+      "raw_hot": 170565,
+      "num": 170565,
+      "word": "周一围 撒娇",
+      "onboard_time": 1703147495,
       "rank": 41,
-      "category": "情感"
+      "category": "综艺"
     },
     {
       "raw_hot": 167506,
@@ -1563,12 +1611,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139275,
+      "num": 139275,
+      "word": "降息",
+      "onboard_time": 1703147615,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138186,
       "num": 138186,
       "word": "胡锡进称基金经理收入应和基金亏损一起降",
       "onboard_time": 1703142696,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 137239,
+      "num": 137239,
+      "word": "砂涌",
+      "onboard_time": 1703147195,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135000,
@@ -1827,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 65146,
+      "num": 1375605,
+      "word": "探访极寒天气下保供保畅黑科技",
+      "onboard_time": 1703143893,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53735,
       "num": 973689,
       "word": "2024年三农工作",
@@ -1851,7 +1923,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 43240,
+      "raw_hot": 48194,
       "num": 253586,
       "word": "星纪元ES 续航超900公里",
       "onboard_time": 1703144916,
@@ -1865,14 +1937,6 @@
       "onboard_time": 1703113340,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 39542,
-      "num": 1253652,
-      "word": "探访极寒天气下保供保畅黑科技",
-      "onboard_time": 1703143893,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38254,
@@ -1975,6 +2039,9 @@
     },
     {
       "word": "#农业现代化关键是农业科技现代化#"
+    },
+    {
+      "word": "#为农业农村发展增动力添活力#"
     }
   ]
 }
