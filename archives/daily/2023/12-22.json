@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703193378186,
+  "endTime": 1703194468206,
   "band_list": [
     {
       "raw_hot": 1176441,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53941,
+      "num": 20084,
+      "word": "北京一小区15米高恐龙模型已搬家",
+      "onboard_time": 1703192055,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52657,
       "num": 66252,
       "word": "刘小怂直播未半 中道崩殂",
@@ -491,14 +499,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 28484,
-      "num": 19015,
-      "word": "北京一小区15米高恐龙模型已搬家",
-      "onboard_time": 1703192055,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27324,
       "num": 24067,
       "word": "半夜喜欢吃东西的人是英雄",
@@ -507,20 +507,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 24082,
+      "num": 24082,
+      "word": "日照香炉真的生出紫烟",
+      "onboard_time": 1703191454,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22590,
       "num": 37732,
       "word": "王嘉尔白米范运营泰创女团",
       "onboard_time": 1703178801,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20600,
-      "num": 20600,
-      "word": "日照香炉真的生出紫烟",
-      "onboard_time": 1703191454,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19891,
