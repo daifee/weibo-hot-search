@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703168194631,
+  "endTime": 1703169254901,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2504003,
+      "num": 841416,
+      "word": "难听",
+      "onboard_time": 1703166040,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2481281,
       "num": 598573,
       "word": "况盛 马杨",
@@ -489,14 +497,6 @@
       "onboard_time": 1702809041,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2166693,
-      "num": 825101,
-      "word": "难听",
-      "onboard_time": 1703166040,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 2130008,
@@ -2163,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 821067,
+      "num": 821067,
+      "word": "倪妮 好冷让我缓一下",
+      "onboard_time": 1703164839,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 817814,
       "num": 340506,
       "word": "狐妖小红娘王权篇 月底开机",
@@ -2403,6 +2411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 765439,
+      "num": 765439,
+      "word": "婚前一定要聊明白的问题",
+      "onboard_time": 1703164662,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 765411,
       "num": 765411,
       "word": "田曦薇 布偶猫塑",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1702938437,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742625,
-      "num": 742625,
-      "word": "倪妮 好冷让我缓一下",
-      "onboard_time": 1703164839,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 742360,
@@ -3049,14 +3057,6 @@
       "onboard_time": 1703031574,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628184,
-      "num": 628184,
-      "word": "婚前一定要聊明白的问题",
-      "onboard_time": 1703164662,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 627472,
@@ -4211,6 +4211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 478636,
+      "num": 319334,
+      "word": "虾 我命由我不由天",
+      "onboard_time": 1703166881,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 476910,
       "num": 476910,
       "word": "甘肃积石山连续发生多次地震",
@@ -4313,6 +4321,14 @@
       "onboard_time": 1702902276,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 470885,
+      "num": 452435,
+      "word": "注射针在皮肤上留下的洞",
+      "onboard_time": 1703168681,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 469051,
@@ -4427,6 +4443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458736,
+      "num": 458736,
+      "word": "甘肃发布积石山6.2级地震救灾捐赠公告",
+      "onboard_time": 1703167483,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458578,
       "num": 393211,
       "word": "B站跨晚 阵容",
@@ -4537,14 +4561,6 @@
       "onboard_time": 1702899814,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444618,
-      "num": 319334,
-      "word": "虾 我命由我不由天",
-      "onboard_time": 1703166881,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 444493,
@@ -5675,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353723,
+      "num": 272267,
+      "word": "董宇辉预计1月10号恢复直播",
+      "onboard_time": 1703168569,
+      "rank": 30,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 351632,
       "num": 351632,
       "word": "雪天护士把早产婴儿贴胸口一路护送",
@@ -5793,6 +5817,14 @@
       "onboard_time": 1702945968,
       "rank": 32,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 341385,
+      "num": 308007,
+      "word": "迪丽热巴瞬间失去表情管理",
+      "onboard_time": 1703168860,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 341293,
@@ -5939,6 +5971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335509,
+      "num": 307033,
+      "word": "林一 二字文学",
+      "onboard_time": 1703167663,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335363,
       "num": 324823,
       "word": "唐嫣一场戏拍86遍",
@@ -6033,6 +6073,14 @@
       "onboard_time": 1703116049,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 330504,
+      "num": 307689,
+      "word": "7小时睡眠或降低死亡率",
+      "onboard_time": 1703165437,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 330327,
@@ -6489,6 +6537,14 @@
       "onboard_time": 1702863753,
       "rank": 23,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 307014,
+      "num": 307014,
+      "word": "2024年巨蟹座要飞升",
+      "onboard_time": 1703168382,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 306947,
@@ -7051,14 +7107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283195,
-      "num": 283195,
-      "word": "7小时睡眠或降低死亡率",
-      "onboard_time": 1703165437,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 283068,
       "num": 283068,
       "word": "巨蟹座非常重视情绪价值",
@@ -7185,6 +7233,14 @@
       "onboard_time": 1702829318,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275003,
+      "num": 275003,
+      "word": "减肥动力突然就有了",
+      "onboard_time": 1703163577,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 274916,
@@ -7353,14 +7409,6 @@
       "onboard_time": 1703119115,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267949,
-      "num": 267949,
-      "word": "林一 二字文学",
-      "onboard_time": 1703167663,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 266433,
@@ -7643,6 +7691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256886,
+      "num": 256886,
+      "word": "中岛美嘉内娱综艺首秀",
+      "onboard_time": 1703168681,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256530,
       "num": 256530,
       "word": "赵露思 年度海外最具人气演员",
@@ -7843,6 +7899,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 250351,
+      "num": 250351,
+      "word": "连续30天吃辣条身体会如何变化",
+      "onboard_time": 1703167720,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249481,
       "num": 249481,
       "word": "沈耀直面爸爸出轨",
@@ -7881,14 +7945,6 @@
       "onboard_time": 1702884994,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247666,
-      "num": 247666,
-      "word": "减肥动力突然就有了",
-      "onboard_time": 1703163577,
-      "rank": 28,
-      "category": "运动健身"
     },
     {
       "raw_hot": 247198,
@@ -8243,14 +8299,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 237698,
-      "num": 273434,
-      "word": "甘肃发布积石山6.2级地震救灾捐赠公告",
-      "onboard_time": 1703167483,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237063,
       "num": 237063,
       "word": "吴千语说30岁生小孩",
@@ -8601,6 +8649,14 @@
       "onboard_time": 1702998702,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226967,
+      "num": 226967,
+      "word": "民警给精神失常大姐吃糖遭遇灵魂拷问",
+      "onboard_time": 1703168201,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226273,
@@ -9755,6 +9811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197840,
+      "num": 197840,
+      "word": "弱智吧2023年下半年精选",
+      "onboard_time": 1703168442,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196833,
       "num": 196833,
       "word": "焕羽杀青",
@@ -9953,6 +10017,14 @@
       "onboard_time": 1702991137,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193841,
+      "num": 193841,
+      "word": "神十七航天员圆满完成首次出舱任务",
+      "onboard_time": 1703168681,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193576,
@@ -10675,6 +10747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180966,
+      "num": 180966,
+      "word": "考研时间",
+      "onboard_time": 1703168982,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180945,
       "num": 180945,
       "word": "阿里CEO吴泳铭兼任淘天集团CEO",
@@ -10809,14 +10889,6 @@
       "onboard_time": 1702815343,
       "rank": 45,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 177766,
-      "num": 177766,
-      "word": "连续30天吃辣条身体会如何变化",
-      "onboard_time": 1703167720,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 177470,
@@ -11585,6 +11657,14 @@
       "onboard_time": 1702774050,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161319,
+      "num": 161319,
+      "word": "小心扶手电梯第二块板",
+      "onboard_time": 1703169171,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 161224,
@@ -12401,6 +12481,14 @@
       "onboard_time": 1702775369,
       "rank": 45,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 139583,
+      "num": 447106,
+      "word": "好多明星去了兰蔻活动",
+      "onboard_time": 1703167240,
+      "rank": 14,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 139501,
@@ -13297,14 +13385,6 @@
       "onboard_time": 1702850476,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 81158,
-      "num": 392093,
-      "word": "好多明星去了兰蔻活动",
-      "onboard_time": 1703167240,
-      "rank": 14,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 81019,

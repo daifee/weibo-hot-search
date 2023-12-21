@@ -1,6 +1,6 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703168194631,
+  "endTime": 1703169254901,
   "band_list": [
     {
       "raw_hot": 2548261,
@@ -9,6 +9,14 @@
       "onboard_time": 1703138859,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2504003,
+      "num": 841416,
+      "word": "难听",
+      "onboard_time": 1703166040,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 2481281,
@@ -41,14 +49,6 @@
       "onboard_time": 1703116771,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2166693,
-      "num": 825101,
-      "word": "难听",
-      "onboard_time": 1703166040,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 1964525,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821067,
+      "num": 821067,
+      "word": "倪妮 好冷让我缓一下",
+      "onboard_time": 1703164839,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 805065,
       "num": 805065,
       "word": "甘露寺的莫言",
@@ -339,6 +347,14 @@
       "category": "健康医疗,社会新闻"
     },
     {
+      "raw_hot": 765439,
+      "num": 765439,
+      "word": "婚前一定要聊明白的问题",
+      "onboard_time": 1703164662,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 763285,
       "num": 353862,
       "word": "酱园弄被点名",
@@ -353,14 +369,6 @@
       "onboard_time": 1703147615,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 742625,
-      "num": 742625,
-      "word": "倪妮 好冷让我缓一下",
-      "onboard_time": 1703164839,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 740764,
@@ -441,14 +449,6 @@
       "onboard_time": 1703071536,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628184,
-      "num": 628184,
-      "word": "婚前一定要聊明白的问题",
-      "onboard_time": 1703164662,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 627472,
@@ -683,11 +683,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478636,
+      "num": 319334,
+      "word": "虾 我命由我不由天",
+      "onboard_time": 1703166881,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 470885,
+      "num": 452435,
+      "word": "注射针在皮肤上留下的洞",
+      "onboard_time": 1703168681,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 466114,
       "num": 466114,
       "word": "金毛震后泥浆被困30小时获救",
       "onboard_time": 1703121632,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458736,
+      "num": 458736,
+      "word": "甘肃发布积石山6.2级地震救灾捐赠公告",
+      "onboard_time": 1703167483,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -697,14 +721,6 @@
       "onboard_time": 1703166166,
       "rank": 13,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 444618,
-      "num": 319334,
-      "word": "虾 我命由我不由天",
-      "onboard_time": 1703166881,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 443478,
@@ -923,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353723,
+      "num": 272267,
+      "word": "董宇辉预计1月10号恢复直播",
+      "onboard_time": 1703168569,
+      "rank": 30,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 350300,
       "num": 350300,
       "word": "宁波渔民捕获4.2斤海中土豪金能卖二三万",
@@ -945,6 +969,22 @@
       "onboard_time": 1703069136,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341385,
+      "num": 308007,
+      "word": "迪丽热巴瞬间失去表情管理",
+      "onboard_time": 1703168860,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 335509,
+      "num": 307033,
+      "word": "林一 二字文学",
+      "onboard_time": 1703167663,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 335363,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1703116049,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 330504,
+      "num": 307689,
+      "word": "7小时睡眠或降低死亡率",
+      "onboard_time": 1703165437,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 330327,
@@ -1123,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 307014,
+      "num": 307014,
+      "word": "2024年巨蟹座要飞升",
+      "onboard_time": 1703168382,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304256,
       "num": 304256,
       "word": "官方回应网传爱尔眼科医生捶击患者",
@@ -1203,20 +1259,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 283195,
-      "num": 283195,
-      "word": "7小时睡眠或降低死亡率",
-      "onboard_time": 1703165437,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 277306,
       "num": 277306,
       "word": "莲香楼面临被摘中华老字号",
       "onboard_time": 1703166821,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 275003,
+      "num": 275003,
+      "word": "减肥动力突然就有了",
+      "onboard_time": 1703163577,
+      "rank": 28,
+      "category": "运动健身"
     },
     {
       "raw_hot": 273869,
@@ -1267,14 +1323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267949,
-      "num": 267949,
-      "word": "林一 二字文学",
-      "onboard_time": 1703167663,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263518,
       "num": 263518,
       "word": "刘诗诗开年的第一缕光",
@@ -1315,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256886,
+      "num": 256886,
+      "word": "中岛美嘉内娱综艺首秀",
+      "onboard_time": 1703168681,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256356,
       "num": 256356,
       "word": "商业银行存款利率最高飙至6%",
@@ -1347,20 +1403,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250351,
+      "num": 250351,
+      "word": "连续30天吃辣条身体会如何变化",
+      "onboard_time": 1703167720,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 249129,
       "num": 249129,
       "word": "上海烘焙店数量已超8000家",
       "onboard_time": 1703144795,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247666,
-      "num": 247666,
-      "word": "减肥动力突然就有了",
-      "onboard_time": 1703163577,
-      "rank": 28,
-      "category": "运动健身"
     },
     {
       "raw_hot": 246926,
@@ -1425,14 +1481,6 @@
       "onboard_time": 1703155057,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 237698,
-      "num": 273434,
-      "word": "甘肃发布积石山6.2级地震救灾捐赠公告",
-      "onboard_time": 1703167483,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235905,
@@ -1513,6 +1561,14 @@
       "onboard_time": 1703134305,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226967,
+      "num": 226967,
+      "word": "民警给精神失常大姐吃糖遭遇灵魂拷问",
+      "onboard_time": 1703168201,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225941,
@@ -1763,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197840,
+      "num": 197840,
+      "word": "弱智吧2023年下半年精选",
+      "onboard_time": 1703168442,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196833,
       "num": 196833,
       "word": "焕羽杀青",
@@ -1793,6 +1857,14 @@
       "onboard_time": 1703136818,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193841,
+      "num": 193841,
+      "word": "神十七航天员圆满完成首次出舱任务",
+      "onboard_time": 1703168681,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193836,
@@ -1995,6 +2067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180966,
+      "num": 180966,
+      "word": "考研时间",
+      "onboard_time": 1703168982,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180506,
       "num": 180506,
       "word": "苏通大桥附近一船只爆炸",
@@ -2017,14 +2097,6 @@
       "onboard_time": 1703157394,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177766,
-      "num": 177766,
-      "word": "连续30天吃辣条身体会如何变化",
-      "onboard_time": 1703167720,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 177696,
@@ -2193,6 +2265,14 @@
       "onboard_time": 1703166040,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161319,
+      "num": 161319,
+      "word": "小心扶手电梯第二块板",
+      "onboard_time": 1703169171,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 160478,
@@ -2401,6 +2481,14 @@
       "onboard_time": 1703125411,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139583,
+      "num": 447106,
+      "word": "好多明星去了兰蔻活动",
+      "onboard_time": 1703167240,
+      "rank": 14,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 138186,
@@ -2729,14 +2817,6 @@
       "onboard_time": 1703071354,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81158,
-      "num": 392093,
-      "word": "好多明星去了兰蔻活动",
-      "onboard_time": 1703167240,
-      "rank": 14,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 81019,
