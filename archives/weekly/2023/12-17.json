@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703151258972,
+  "endTime": 1703153931009,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2098338,
+      "num": 1288910,
+      "word": "男子被判奸杀姐妹入狱21年获无罪",
+      "onboard_time": 1703151335,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2075675,
       "num": 2075675,
       "word": "小杨哥谈去年缴税2个亿",
@@ -867,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1457646,
+      "num": 1457646,
+      "word": "跳绳 减肥",
+      "onboard_time": 1703149056,
+      "rank": 8,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1456806,
       "num": 356104,
       "word": "孟羽童仅一年广告收入或达400万",
@@ -1076,7 +1092,7 @@
     },
     {
       "raw_hot": 1238642,
-      "num": 1003296,
+      "num": 1082730,
       "word": "录6天节目给10个人道歉",
       "onboard_time": 1703147073,
       "rank": 26,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1702964737,
       "rank": 4,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 1214750,
+      "num": 1214750,
+      "word": "有人从中国乘飞机往韩国背大米",
+      "onboard_time": 1703149895,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1214173,
@@ -1673,14 +1697,6 @@
       "onboard_time": 1702993836,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 954461,
-      "num": 954461,
-      "word": "跳绳 减肥",
-      "onboard_time": 1703149056,
-      "rank": 8,
-      "category": "运动健身"
     },
     {
       "raw_hot": 954383,
@@ -2611,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 677636,
+      "num": 635411,
+      "word": "周杰伦昆凌海边合照",
+      "onboard_time": 1703151993,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675489,
       "num": 675489,
       "word": "东方卫视跨年票价",
@@ -2897,14 +2921,6 @@
       "onboard_time": 1702789414,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 635690,
-      "num": 635690,
-      "word": "有人从中国乘飞机往韩国背大米",
-      "onboard_time": 1703149895,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 629886,
@@ -3433,6 +3449,14 @@
       "onboard_time": 1702965699,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 551223,
+      "num": 551223,
+      "word": "董宇辉驳斥读书无用论",
+      "onboard_time": 1703152054,
+      "rank": 11,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 550871,
@@ -5129,6 +5153,14 @@
       "onboard_time": 1702909179,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 378277,
+      "num": 1447203,
+      "word": "狗狗走失流泪绝食网友合力找主人",
+      "onboard_time": 1703152476,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377653,
@@ -7347,6 +7379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256103,
+      "num": 256103,
+      "word": "消失的KPOP趋势",
+      "onboard_time": 1703152655,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255870,
       "num": 255870,
       "word": "Ning回应仁川上野双排",
@@ -8059,6 +8099,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 231835,
+      "num": 231835,
+      "word": "专家说商品房太贵年轻人钱不多",
+      "onboard_time": 1703151396,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 231465,
       "num": 231465,
       "word": "媒体眼中的刘宇宁",
@@ -8723,6 +8771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210734,
+      "num": 1243747,
+      "word": "训导员提到搜救犬说挺为它骄傲",
+      "onboard_time": 1703151696,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210671,
       "num": 212761,
       "word": "蔚来",
@@ -8819,6 +8875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208043,
+      "num": 208043,
+      "word": "完颜慧德纪录片",
+      "onboard_time": 1703152892,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 207563,
       "num": 207563,
       "word": "绝对控油的尽头是衰老",
@@ -8897,6 +8961,14 @@
       "onboard_time": 1702977818,
       "rank": 32,
       "category": "社会新闻,数码"
+    },
+    {
+      "raw_hot": 206314,
+      "num": 192260,
+      "word": "杨舒予 小刘海遮发际线",
+      "onboard_time": 1703152356,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 206172,
@@ -9076,7 +9148,7 @@
     },
     {
       "raw_hot": 202686,
-      "num": 170539,
+      "num": 175880,
       "word": "梅西前队友说C罗是最优秀的球员",
       "onboard_time": 1703150558,
       "rank": 30,
@@ -9321,6 +9393,14 @@
       "onboard_time": 1702995465,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196113,
+      "num": 196113,
+      "word": "wps",
+      "onboard_time": 1703153674,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 196038,
@@ -10339,6 +10419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175689,
+      "num": 175689,
+      "word": "只有朱丹看不出周一围害羞",
+      "onboard_time": 1703153794,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175460,
       "num": 175460,
       "word": "电视剧脱轨",
@@ -10480,6 +10568,14 @@
       "word": "甘肃地震一线",
       "onboard_time": 1703085814,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171990,
+      "num": 171990,
+      "word": "苏通大桥",
+      "onboard_time": 1703151874,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -10859,6 +10955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164570,
+      "num": 164570,
+      "word": "李菲儿 创业三商",
+      "onboard_time": 1703150974,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164536,
       "num": 164536,
       "word": "狐妖小红娘王权篇",
@@ -10881,14 +10985,6 @@
       "onboard_time": 1703037394,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164158,
-      "num": 164158,
-      "word": "李菲儿 创业三商",
-      "onboard_time": 1703150974,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 164052,
@@ -11369,6 +11465,14 @@
       "onboard_time": 1702950638,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152534,
+      "num": 152534,
+      "word": "2023全球IP收入排行",
+      "onboard_time": 1703151095,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 152281,
@@ -11923,6 +12027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133098,
+      "num": 1092837,
+      "word": "两学生奔向刺骨海水救回母子二人",
+      "onboard_time": 1703150137,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 132940,
       "num": 132940,
       "word": "大江大河之岁月如歌",
@@ -12073,14 +12185,6 @@
       "onboard_time": 1702803635,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126703,
-      "num": 170664,
-      "word": "两学生奔向刺骨海水救回母子二人",
-      "onboard_time": 1703150137,
-      "rank": 39,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 126514,
@@ -12251,6 +12355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120115,
+      "num": 120115,
+      "word": "金山文档",
+      "onboard_time": 1703153915,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 119935,
       "num": 119935,
       "word": "疯狂动物城盛大开城",
@@ -12281,14 +12393,6 @@
       "onboard_time": 1702762753,
       "rank": 21,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 115426,
-      "num": 115426,
-      "word": "2023全球IP收入排行",
-      "onboard_time": 1703151095,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 114914,
@@ -12329,6 +12433,14 @@
       "onboard_time": 1702758794,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112515,
+      "num": 112515,
+      "word": "孙颖莎乒超适应性训练",
+      "onboard_time": 1703151874,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111803,
@@ -12857,6 +12969,14 @@
       "onboard_time": 1702768097,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58300,
+      "num": 205545,
+      "word": "新浪新闻年终策划",
+      "onboard_time": 1703153016,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55003,
