@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703194468206,
+  "endTime": 1703196960786,
   "band_list": [
     {
       "raw_hot": 1176441,
@@ -163,6 +163,14 @@
       "category": "电竞,社会新闻"
     },
     {
+      "raw_hot": 241480,
+      "num": 241480,
+      "word": "涉事医生回应手术时捶压老人头部",
+      "onboard_time": 1703186235,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214566,
       "num": 214566,
       "word": "婚前一定要聊明白的问题",
@@ -241,14 +249,6 @@
       "onboard_time": 1703166881,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157253,
-      "num": 157253,
-      "word": "涉事医生回应手术时捶压老人头部",
-      "onboard_time": 1703186235,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157058,
@@ -379,6 +379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107289,
+      "num": 44808,
+      "word": "北京一小区15米高恐龙模型已搬家",
+      "onboard_time": 1703192055,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106330,
       "num": 106330,
       "word": "大腿前侧凸出非常好减",
@@ -467,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53941,
-      "num": 20084,
-      "word": "北京一小区15米高恐龙模型已搬家",
-      "onboard_time": 1703192055,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52657,
       "num": 66252,
       "word": "刘小怂直播未半 中道崩殂",
@@ -488,6 +488,14 @@
       "word": "你的肩膀我的依靠",
       "onboard_time": 1703150796,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37465,
+      "num": 33029,
+      "word": "日照香炉真的生出紫烟",
+      "onboard_time": 1703191454,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -507,20 +515,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 24082,
-      "num": 24082,
-      "word": "日照香炉真的生出紫烟",
-      "onboard_time": 1703191454,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22590,
       "num": 37732,
       "word": "王嘉尔白米范运营泰创女团",
       "onboard_time": 1703178801,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21705,
+      "num": 21705,
+      "word": "人体有些部位不能推拿按摩",
+      "onboard_time": 1703196315,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 19891,
@@ -537,6 +545,14 @@
       "onboard_time": 1703188034,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14990,
+      "num": 19778,
+      "word": "便宜小宝藏香水",
+      "onboard_time": 1703194694,
+      "rank": 49,
+      "category": "美妆"
     }
   ],
   "hotgov_list": [
