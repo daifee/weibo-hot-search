@@ -1,0 +1,410 @@
+{
+  "runTime": 1703154973082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1314976,
+        "num": 1314976,
+        "word": "跳绳 减肥",
+        "onboard_time": 1703149056,
+        "rank": 0,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 425883,
+        "num": 1271491,
+        "word": "狗狗走失流泪绝食网友合力找主人",
+        "onboard_time": 1703152476,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59946,
+        "num": 1215052,
+        "word": "探访极寒天气下保供保畅黑科技",
+        "onboard_time": 1703143893,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2269584,
+        "num": 1188045,
+        "word": "男子被判奸杀姐妹入狱21年获无罪",
+        "onboard_time": 1703151335,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168233,
+        "num": 1122526,
+        "word": "训导员提到搜救犬说挺为它骄傲",
+        "onboard_time": 1703151696,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101659,
+        "num": 1101659,
+        "word": "有人从中国乘飞机往韩国背大米",
+        "onboard_time": 1703149895,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170386,
+        "num": 605748,
+        "word": "两学生奔向刺骨海水救回母子二人",
+        "onboard_time": 1703150137,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 563123,
+        "num": 563123,
+        "word": "董宇辉驳斥读书无用论",
+        "onboard_time": 1703152054,
+        "rank": 7,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 937330,
+        "num": 549961,
+        "word": "录6天节目给10个人道歉",
+        "onboard_time": 1703147073,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 524953,
+        "num": 524953,
+        "word": "微博年度报告",
+        "onboard_time": 1703144494,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29379,
+        "num": 484160,
+        "word": "新浪新闻年终策划",
+        "onboard_time": 1703153016,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630275,
+        "num": 483612,
+        "word": "周杰伦昆凌海边合照",
+        "onboard_time": 1703151993,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482951,
+        "num": 482951,
+        "word": "肖战 跨年",
+        "onboard_time": 1703149964,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469141,
+        "num": 469141,
+        "word": "2023内娱TOP1",
+        "onboard_time": 1703154158,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441035,
+        "num": 441035,
+        "word": "况盛 马杨",
+        "onboard_time": 1703132023,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 522894,
+        "num": 425819,
+        "word": "男主播直播喝白酒时死亡",
+        "onboard_time": 1703138859,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386064,
+        "num": 386064,
+        "word": "只有朱丹看不出周一围害羞",
+        "onboard_time": 1703153794,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370042,
+        "num": 370042,
+        "word": "王俊凯 都说了少关注我年轻的时候",
+        "onboard_time": 1703141258,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361801,
+        "num": 361801,
+        "word": "王鹤棣对接否认与迪丽热巴合作",
+        "onboard_time": 1703140417,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293729,
+        "num": 293729,
+        "word": "降息",
+        "onboard_time": 1703147615,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318425,
+        "num": 293409,
+        "word": "男子婚内出轨被发现时私生子已读小学",
+        "onboard_time": 1703136763,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292559,
+        "num": 292559,
+        "word": "wps",
+        "onboard_time": 1703153674,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279251,
+        "num": 279251,
+        "word": "鹭卓换头像",
+        "onboard_time": 1703147376,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273869,
+        "num": 273869,
+        "word": "创造营亚洲选手名单",
+        "onboard_time": 1703154036,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273555,
+        "num": 273555,
+        "word": "情绪稳定 不期待不假设不强求",
+        "onboard_time": 1703148456,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270437,
+        "num": 270437,
+        "word": "消失的KPOP趋势",
+        "onboard_time": 1703152655,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211624,
+        "num": 211624,
+        "word": "甘露寺的莫言",
+        "onboard_time": 1703144615,
+        "rank": 26,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 207509,
+        "num": 207509,
+        "word": "专家说商品房太贵年轻人钱不多",
+        "onboard_time": 1703151396,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 198700,
+        "num": 198700,
+        "word": "完颜慧德纪录片",
+        "onboard_time": 1703152892,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198232,
+        "num": 198232,
+        "word": "于适站姐脱粉后发的生图",
+        "onboard_time": 1703128471,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189494,
+        "num": 189494,
+        "word": "花少后期贴脸开大王安宇",
+        "onboard_time": 1703149655,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180445,
+        "num": 180445,
+        "word": "金山文档",
+        "onboard_time": 1703153915,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168700,
+        "num": 168700,
+        "word": "CFO官宣Karsa加入",
+        "onboard_time": 1703150196,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166075,
+        "num": 166075,
+        "word": "湖南卫视跨年晚会首波阵容",
+        "onboard_time": 1703136637,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165060,
+        "num": 165060,
+        "word": "天太冷不洗脸会让皮肤变好吗",
+        "onboard_time": 1703137537,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 157020,
+        "num": 157020,
+        "word": "小猫雪天被冻僵女子用吹风机救活",
+        "onboard_time": 1703135680,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155038,
+        "num": 155038,
+        "word": "苏通大桥",
+        "onboard_time": 1703151874,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151887,
+        "num": 151887,
+        "word": "奶奶离世爷爷彻夜未眠眼睛哭到通红",
+        "onboard_time": 1703138800,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150905,
+        "num": 150905,
+        "word": "梅西前队友说C罗是最优秀的球员",
+        "onboard_time": 1703150558,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144466,
+        "num": 144466,
+        "word": "张晚意王楚然 cp感",
+        "onboard_time": 1703144135,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139934,
+        "num": 139934,
+        "word": "杨舒予 小刘海遮发际线",
+        "onboard_time": 1703152356,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133839,
+        "num": 133839,
+        "word": "2023全球IP收入排行",
+        "onboard_time": 1703151095,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126713,
+        "num": 126713,
+        "word": "中国人自己的omakase",
+        "onboard_time": 1703154937,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124326,
+        "num": 124326,
+        "word": "女大学生入职当天被怂恿整容",
+        "onboard_time": 1703136400,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123212,
+        "num": 123212,
+        "word": "常华森回应恶评",
+        "onboard_time": 1703150558,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122988,
+        "num": 122988,
+        "word": "考研最后两天躺平了么",
+        "onboard_time": 1703146114,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122529,
+        "num": 122529,
+        "word": "年度总结",
+        "onboard_time": 1703150016,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121733,
+        "num": 121733,
+        "word": "李菲儿 创业三商",
+        "onboard_time": 1703150974,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112765,
+        "num": 112765,
+        "word": "萌兰扣盆之前居然还叹了口气",
+        "onboard_time": 1703143475,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111993,
+        "num": 111993,
+        "word": "新一轮存款降息即将落地",
+        "onboard_time": 1703148937,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#为农业农村发展增动力添活力#"
+    }
+  }
+}

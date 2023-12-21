@@ -1,6 +1,6 @@
 {
   "startTime": 1703089286320,
-  "endTime": 1703153931009,
+  "endTime": 1703154973082,
   "band_list": [
     {
       "raw_hot": 2548261,
@@ -19,19 +19,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2269584,
+      "num": 1288910,
+      "word": "男子被判奸杀姐妹入狱21年获无罪",
+      "onboard_time": 1703151335,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2191849,
       "num": 343426,
       "word": "女网红就涉甘肃地震言论道歉并捐款",
       "onboard_time": 1703116771,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2098338,
-      "num": 1288910,
-      "word": "男子被判奸杀姐妹入狱21年获无罪",
-      "onboard_time": 1703151335,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1015624,
-      "num": 273351,
+      "num": 293409,
       "word": "男子婚内出轨被发现时私生子已读小学",
       "onboard_time": 1703136763,
       "rank": 49,
@@ -387,20 +387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563123,
+      "num": 563123,
+      "word": "董宇辉驳斥读书无用论",
+      "onboard_time": 1703152054,
+      "rank": 11,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 557874,
       "num": 557874,
       "word": "天太冷不洗脸会让皮肤变好吗",
       "onboard_time": 1703137537,
       "rank": 14,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 551223,
-      "num": 551223,
-      "word": "董宇辉驳斥读书无用论",
-      "onboard_time": 1703152054,
-      "rank": 11,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 548189,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 469141,
+      "num": 469141,
+      "word": "2023内娱TOP1",
+      "onboard_time": 1703154158,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 466114,
       "num": 466114,
       "word": "金毛震后泥浆被困30小时获救",
@@ -545,6 +553,14 @@
       "onboard_time": 1703120313,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425883,
+      "num": 1447203,
+      "word": "狗狗走失流泪绝食网友合力找主人",
+      "onboard_time": 1703152476,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424137,
@@ -651,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386064,
+      "num": 386064,
+      "word": "只有朱丹看不出周一围害羞",
+      "onboard_time": 1703153794,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 382777,
       "num": 382777,
       "word": "新一轮存款降息即将落地",
@@ -665,14 +689,6 @@
       "onboard_time": 1703132927,
       "rank": 33,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 378277,
-      "num": 1447203,
-      "word": "狗狗走失流泪绝食网友合力找主人",
-      "onboard_time": 1703152476,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374889,
@@ -907,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292559,
+      "num": 292559,
+      "word": "wps",
+      "onboard_time": 1703153674,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 290503,
       "num": 225000,
       "word": "权志龙YG正式分手",
@@ -939,12 +963,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273869,
+      "num": 273869,
+      "word": "创造营亚洲选手名单",
+      "onboard_time": 1703154036,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272362,
       "num": 224357,
       "word": "辛芷蕾 姐没删放心",
       "onboard_time": 1703077472,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270437,
+      "num": 270437,
+      "word": "消失的KPOP趋势",
+      "onboard_time": 1703152655,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 270256,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1703133646,
       "rank": 27,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 256103,
-      "num": 256103,
-      "word": "消失的KPOP趋势",
-      "onboard_time": 1703152655,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 255870,
@@ -1379,14 +1411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196113,
-      "num": 196113,
-      "word": "wps",
-      "onboard_time": 1703153674,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 195085,
       "num": 195085,
       "word": "景天紫萱重聚繁花",
@@ -1539,6 +1563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180445,
+      "num": 180445,
+      "word": "金山文档",
+      "onboard_time": 1703153915,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 177696,
       "num": 177696,
       "word": "上车第一件事 锁车门",
@@ -1577,14 +1609,6 @@
       "onboard_time": 1703146357,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175689,
-      "num": 175689,
-      "word": "只有朱丹看不出周一围害羞",
-      "onboard_time": 1703153794,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 172523,
@@ -1633,6 +1657,14 @@
       "onboard_time": 1703147495,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170386,
+      "num": 1092837,
+      "word": "两学生奔向刺骨海水救回母子二人",
+      "onboard_time": 1703150137,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 167506,
@@ -1907,14 +1939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133098,
-      "num": 1092837,
-      "word": "两学生奔向刺骨海水救回母子二人",
-      "onboard_time": 1703150137,
-      "rank": 39,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 132623,
       "num": 132623,
       "word": "权志龙成立基金会",
@@ -1979,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126713,
+      "num": 126713,
+      "word": "中国人自己的omakase",
+      "onboard_time": 1703154937,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126514,
       "num": 126514,
       "word": "当日语生复习碰到考研人",
@@ -2025,14 +2057,6 @@
       "onboard_time": 1703132206,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120115,
-      "num": 120115,
-      "word": "金山文档",
-      "onboard_time": 1703153915,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 119935,
@@ -2180,7 +2204,7 @@
     },
     {
       "raw_hot": 58300,
-      "num": 205545,
+      "num": 484160,
       "word": "新浪新闻年终策划",
       "onboard_time": 1703153016,
       "rank": 26,
