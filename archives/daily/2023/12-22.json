@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703189909979,
+  "endTime": 1703190867214,
   "band_list": [
     {
       "raw_hot": 1176441,
@@ -243,20 +243,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157253,
+      "num": 157253,
+      "word": "涉事医生回应手术时捶压老人头部",
+      "onboard_time": 1703186235,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157058,
       "num": 157058,
       "word": "况盛 马杨",
       "onboard_time": 1703132023,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 153399,
-      "num": 153399,
-      "word": "涉事医生回应手术时捶压老人头部",
-      "onboard_time": 1703186235,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150206,
@@ -491,7 +491,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 24067,
+      "raw_hot": 25801,
       "num": 24067,
       "word": "半夜喜欢吃东西的人是英雄",
       "onboard_time": 1703187314,
@@ -515,8 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15049,
-      "num": 15049,
+      "raw_hot": 15736,
+      "num": 15736,
       "word": "神十七航天员将择机第一次出舱",
       "onboard_time": 1703188034,
       "rank": 40,

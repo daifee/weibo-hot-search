@@ -1,0 +1,410 @@
+{
+  "runTime": 1703190867214,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 157253,
+        "num": 157253,
+        "word": "涉事医生回应手术时捶压老人头部",
+        "onboard_time": 1703186235,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97635,
+        "num": 97635,
+        "word": "7小时睡眠或降低死亡率",
+        "onboard_time": 1703165437,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 7364,
+        "num": 83314,
+        "word": "你的肩膀我的依靠",
+        "onboard_time": 1703150796,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81181,
+        "num": 81181,
+        "word": "赵露思替身发文",
+        "onboard_time": 1703169941,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66738,
+        "num": 66738,
+        "word": "哑舍 刘宇宁",
+        "onboard_time": 1703170063,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50245,
+        "num": 50245,
+        "word": "女孩零下18度光手跑步险截肢",
+        "onboard_time": 1703170180,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48582,
+        "num": 48582,
+        "word": "倪妮 新中式羽绒服",
+        "onboard_time": 1703172163,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40654,
+        "num": 40654,
+        "word": "25岁姑娘评上人才获100万补贴在杭独立买房",
+        "onboard_time": 1703162738,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38447,
+        "num": 38447,
+        "word": "迪丽热巴瞬间失去表情管理",
+        "onboard_time": 1703168860,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37590,
+        "num": 37590,
+        "word": "大二女生卖男士保暖衣月入两万",
+        "onboard_time": 1703163577,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51446,
+        "num": 36630,
+        "word": "注射针在皮肤上留下的洞",
+        "onboard_time": 1703168681,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33763,
+        "num": 33763,
+        "word": "杭州孕妈一颗草莓下肚口吐鲜血",
+        "onboard_time": 1703162859,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33231,
+        "num": 33231,
+        "word": "难听",
+        "onboard_time": 1703166040,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31716,
+        "num": 31716,
+        "word": "冬至",
+        "onboard_time": 1703171142,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30622,
+        "num": 30622,
+        "word": "张婧仪 财阀千金",
+        "onboard_time": 1703161835,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28046,
+        "num": 28046,
+        "word": "长大了才明白小新妈妈的话",
+        "onboard_time": 1703183895,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 27199,
+        "num": 27199,
+        "word": "男子被判奸杀姐妹入狱21年获无罪",
+        "onboard_time": 1703151335,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25118,
+        "num": 25118,
+        "word": "甘肃发布积石山6.2级地震救灾捐赠公告",
+        "onboard_time": 1703167483,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25074,
+        "num": 25074,
+        "word": "周杰伦昆凌海边合照",
+        "onboard_time": 1703151993,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23199,
+        "num": 23199,
+        "word": "GenG疑删除道歉声明",
+        "onboard_time": 1703170123,
+        "rank": 19,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 25801,
+        "num": 23090,
+        "word": "半夜喜欢吃东西的人是英雄",
+        "onboard_time": 1703187314,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23422,
+        "num": 22975,
+        "word": "李晨 我不是明星是文艺工作者",
+        "onboard_time": 1703180898,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22790,
+        "num": 22790,
+        "word": "2024年巨蟹座要飞升",
+        "onboard_time": 1703168382,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22409,
+        "num": 22409,
+        "word": "倪妮 好冷让我缓一下",
+        "onboard_time": 1703164839,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21705,
+        "num": 21705,
+        "word": "年底iPhone15价格再度跳水超千元",
+        "onboard_time": 1703160817,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20886,
+        "num": 20886,
+        "word": "赵今麦轻熟妆",
+        "onboard_time": 1703161236,
+        "rank": 25,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 20572,
+        "num": 20572,
+        "word": "大腿前侧凸出非常好减",
+        "onboard_time": 1703159493,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20440,
+        "num": 20440,
+        "word": "男主播直播喝白酒时死亡",
+        "onboard_time": 1703138859,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19962,
+        "num": 19962,
+        "word": "减肥动力突然就有了",
+        "onboard_time": 1703163577,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 19666,
+        "num": 19666,
+        "word": "冬天减肥最有效的方法是什么",
+        "onboard_time": 1703178860,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 19135,
+        "num": 19135,
+        "word": "圣诞星",
+        "onboard_time": 1703161415,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18804,
+        "num": 18804,
+        "word": "周杰伦的调调",
+        "onboard_time": 1703171981,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18362,
+        "num": 18362,
+        "word": "2023内娱TOP1",
+        "onboard_time": 1703154158,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18215,
+        "num": 18215,
+        "word": "权志龙将培养新艺人",
+        "onboard_time": 1703186595,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18175,
+        "num": 18175,
+        "word": "婚前一定要聊明白的问题",
+        "onboard_time": 1703164662,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17536,
+        "num": 17536,
+        "word": "刘浩存林一脱轨吻戏",
+        "onboard_time": 1703174671,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17193,
+        "num": 17193,
+        "word": "杜海涛直播",
+        "onboard_time": 1703175153,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17155,
+        "num": 17155,
+        "word": "外国人对亚洲人有多信任",
+        "onboard_time": 1703171919,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16538,
+        "num": 16538,
+        "word": "摩羯座生日快乐",
+        "onboard_time": 1703164542,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15853,
+        "num": 15853,
+        "word": "虾 我命由我不由天",
+        "onboard_time": 1703166881,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15736,
+        "num": 15736,
+        "word": "神十七航天员将择机第一次出舱",
+        "onboard_time": 1703188034,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14448,
+        "num": 14448,
+        "word": "魏晨回应流星雨是自己的养老保险",
+        "onboard_time": 1703162859,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14233,
+        "num": 14233,
+        "word": "林一 二字文学",
+        "onboard_time": 1703167663,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13758,
+        "num": 13758,
+        "word": "朱丹是把周一围拿捏住了",
+        "onboard_time": 1703179881,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13441,
+        "num": 13441,
+        "word": "况盛 马杨",
+        "onboard_time": 1703132023,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13125,
+        "num": 13125,
+        "word": "艾福杰尼结婚",
+        "onboard_time": 1703159373,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13046,
+        "num": 13046,
+        "word": "肖战 跨年",
+        "onboard_time": 1703149964,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12840,
+        "num": 12840,
+        "word": "连续30天吃辣条身体会如何变化",
+        "onboard_time": 1703167720,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12067,
+        "num": 12067,
+        "word": "考公考研一族涌进付费自习室",
+        "onboard_time": 1703169464,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 11445,
+        "num": 11445,
+        "word": "中岛美嘉内娱综艺首秀",
+        "onboard_time": 1703168681,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#为农业农村发展增动力添活力#"
+    }
+  }
+}
