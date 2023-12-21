@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703183645146,
+  "endTime": 1703186002789,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -14169,6 +14169,14 @@
       "onboard_time": 1702846752,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26441,
+      "num": 26441,
+      "word": "长大了才明白小新妈妈的话",
+      "onboard_time": 1703183895,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 24783,
