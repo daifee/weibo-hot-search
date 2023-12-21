@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703150248508,
+  "endTime": 1703151258972,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 2481281,
-      "num": 545197,
+      "num": 598573,
       "word": "况盛 马杨",
       "onboard_time": 1703132023,
       "rank": 14,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 1238642,
-      "num": 863947,
+      "num": 1003296,
       "word": "录6天节目给10个人道歉",
       "onboard_time": 1703147073,
       "rank": 26,
@@ -1675,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 954461,
+      "num": 954461,
+      "word": "跳绳 减肥",
+      "onboard_time": 1703149056,
+      "rank": 8,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 954383,
       "num": 954383,
       "word": "黑龙江一煤矿发生事故致12人死亡",
@@ -2139,6 +2147,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 797905,
+      "num": 797905,
+      "word": "肖战 跨年",
+      "onboard_time": 1703149964,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 797070,
       "num": 560411,
       "word": "张万森 朋友圈下老登了",
@@ -2315,20 +2331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 760423,
+      "num": 760423,
+      "word": "降息",
+      "onboard_time": 1703147615,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 759828,
       "num": 759828,
       "word": "青海震区仍有16人失联",
       "onboard_time": 1703059776,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 757519,
-      "num": 757519,
-      "word": "降息",
-      "onboard_time": 1703147615,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 748764,
@@ -2449,14 +2465,6 @@
       "onboard_time": 1703078195,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 710098,
-      "num": 710098,
-      "word": "肖战 跨年",
-      "onboard_time": 1703149964,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 706656,
@@ -2891,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635690,
+      "num": 635690,
+      "word": "有人从中国乘飞机往韩国背大米",
+      "onboard_time": 1703149895,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 629886,
       "num": 629886,
       "word": "捐款",
@@ -2905,14 +2921,6 @@
       "onboard_time": 1703031574,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 628117,
-      "num": 628117,
-      "word": "跳绳 减肥",
-      "onboard_time": 1703149056,
-      "rank": 8,
-      "category": "运动健身"
     },
     {
       "raw_hot": 627472,
@@ -3025,6 +3033,14 @@
       "onboard_time": 1703036973,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 606429,
+      "num": 606429,
+      "word": "情绪稳定 不期待不假设不强求",
+      "onboard_time": 1703148456,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 606333,
@@ -3641,14 +3657,6 @@
       "onboard_time": 1703114544,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528006,
-      "num": 528006,
-      "word": "情绪稳定 不期待不假设不强求",
-      "onboard_time": 1703148456,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 523781,
@@ -5035,6 +5043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 382777,
+      "num": 382777,
+      "word": "新一轮存款降息即将落地",
+      "onboard_time": 1703148937,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 382775,
       "num": 382775,
       "word": "朱丹 田笑蜜",
@@ -5409,14 +5425,6 @@
       "onboard_time": 1702807546,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353745,
-      "num": 353745,
-      "word": "新一轮存款降息即将落地",
-      "onboard_time": 1703148937,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 351632,
@@ -5849,6 +5857,14 @@
       "onboard_time": 1702961505,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326398,
+      "num": 326398,
+      "word": "CFO官宣Karsa加入",
+      "onboard_time": 1703150196,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 326366,
@@ -6468,7 +6484,7 @@
     },
     {
       "raw_hot": 294570,
-      "num": 247746,
+      "num": 254811,
       "word": "考研最后两天躺平了么",
       "onboard_time": 1703146114,
       "rank": 27,
@@ -7275,6 +7291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257570,
+      "num": 257570,
+      "word": "年度总结",
+      "onboard_time": 1703150016,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257348,
       "num": 257348,
       "word": "上淇回应红毯流鼻血",
@@ -7345,6 +7369,14 @@
       "onboard_time": 1702901617,
       "rank": 32,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 255103,
+      "num": 255103,
+      "word": "花少后期贴脸开大王安宇",
+      "onboard_time": 1703149655,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 255019,
@@ -8603,14 +8635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212413,
-      "num": 184686,
-      "word": "花少后期贴脸开大王安宇",
-      "onboard_time": 1703149655,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212354,
       "num": 212354,
       "word": "孟子义黑色露背裙",
@@ -9051,6 +9075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202686,
+      "num": 170539,
+      "word": "梅西前队友说C罗是最优秀的球员",
+      "onboard_time": 1703150558,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202545,
       "num": 202545,
       "word": "跳进地理书的旅行第二季官宣",
@@ -9105,14 +9137,6 @@
       "onboard_time": 1702976679,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201737,
-      "num": 201737,
-      "word": "年度总结",
-      "onboard_time": 1703150016,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 201717,
@@ -10811,14 +10835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164994,
-      "num": 164994,
-      "word": "有人从中国乘飞机往韩国背大米",
-      "onboard_time": 1703149895,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164816,
       "num": 164816,
       "word": "距梁朝伟刘德华首次合作已过去41年",
@@ -10833,6 +10849,14 @@
       "onboard_time": 1703082818,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 164618,
+      "num": 164618,
+      "word": "常华森回应恶评",
+      "onboard_time": 1703150558,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 164536,
@@ -10857,6 +10881,14 @@
       "onboard_time": 1703037394,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164158,
+      "num": 164158,
+      "word": "李菲儿 创业三商",
+      "onboard_time": 1703150974,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 164052,
@@ -10945,14 +10977,6 @@
       "onboard_time": 1702878213,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 161632,
-      "num": 161632,
-      "word": "CFO官宣Karsa加入",
-      "onboard_time": 1703150196,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 161598,
@@ -11611,6 +11635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143801,
+      "num": 143801,
+      "word": "英语的母语 四川话",
+      "onboard_time": 1703150674,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143681,
       "num": 166224,
       "word": "六级听力 估分",
@@ -11843,6 +11875,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134659,
+      "num": 134659,
+      "word": "皮卡堂4.3亿椅子事件",
+      "onboard_time": 1703150917,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134327,
       "num": 134327,
       "word": "甘肃积石山地震消防已救出2人",
@@ -12033,6 +12073,14 @@
       "onboard_time": 1702803635,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126703,
+      "num": 170664,
+      "word": "两学生奔向刺骨海水救回母子二人",
+      "onboard_time": 1703150137,
+      "rank": 39,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 126514,
@@ -12235,6 +12283,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 115426,
+      "num": 115426,
+      "word": "2023全球IP收入排行",
+      "onboard_time": 1703151095,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114914,
       "num": 1234479,
       "word": "甘肃加油青海加油",
@@ -12345,14 +12401,6 @@
       "onboard_time": 1702807783,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99067,
-      "num": 151187,
-      "word": "两学生奔向刺骨海水救回母子二人",
-      "onboard_time": 1703150137,
-      "rank": 39,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 98738,
