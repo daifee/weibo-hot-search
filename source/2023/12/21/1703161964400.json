@@ -1,0 +1,410 @@
+{
+  "runTime": 1703161964400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266740,
+        "num": 1266740,
+        "word": "玉玉",
+        "onboard_time": 1703159914,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1127723,
+        "num": 1127723,
+        "word": "跳绳 减肥",
+        "onboard_time": 1703149056,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 44686,
+        "num": 1021640,
+        "word": "探访极寒天气下保供保畅黑科技",
+        "onboard_time": 1703143893,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 994189,
+        "num": 994189,
+        "word": "有人从中国乘飞机往韩国背大米",
+        "onboard_time": 1703149895,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947260,
+        "num": 947260,
+        "word": "2023内娱TOP1",
+        "onboard_time": 1703154158,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1005283,
+        "num": 927630,
+        "word": "男子被判奸杀姐妹入狱21年获无罪",
+        "onboard_time": 1703151335,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666555,
+        "num": 666555,
+        "word": "一92年男子已当老丈人",
+        "onboard_time": 1703159075,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639718,
+        "num": 639718,
+        "word": "戒毒男子得知女儿离世后回家告别",
+        "onboard_time": 1703156797,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614677,
+        "num": 614677,
+        "word": "2岁男童误喝22倍退烧药差点肾衰竭",
+        "onboard_time": 1703159853,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358735,
+        "num": 358735,
+        "word": "兰蔻红毯",
+        "onboard_time": 1703157514,
+        "rank": 9,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 1311535,
+        "num": 358718,
+        "word": "艾福杰尼结婚",
+        "onboard_time": 1703159373,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463944,
+        "num": 358698,
+        "word": "周杰伦昆凌海边合照",
+        "onboard_time": 1703151993,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372402,
+        "num": 358621,
+        "word": "况盛 马杨",
+        "onboard_time": 1703132023,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 357976,
+        "num": 357976,
+        "word": "王者荣耀 特效",
+        "onboard_time": 1703158233,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 351017,
+        "num": 351017,
+        "word": "录6天节目给10个人道歉",
+        "onboard_time": 1703147073,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334795,
+        "num": 334795,
+        "word": "赵今麦轻熟妆",
+        "onboard_time": 1703161236,
+        "rank": 15,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 301599,
+        "num": 301599,
+        "word": "肖战 跨年",
+        "onboard_time": 1703149964,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253796,
+        "num": 253796,
+        "word": "王鹤棣对接否认与迪丽热巴合作",
+        "onboard_time": 1703140417,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251413,
+        "num": 251413,
+        "word": "只有朱丹看不出周一围害羞",
+        "onboard_time": 1703153794,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245190,
+        "num": 245190,
+        "word": "微博年度报告",
+        "onboard_time": 1703144494,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 554408,
+        "num": 243439,
+        "word": "年底iPhone15价格再度跳水超千元",
+        "onboard_time": 1703160817,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 334418,
+        "num": 240011,
+        "word": "大腿前侧凸出非常好减",
+        "onboard_time": 1703159493,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 313129,
+        "num": 236544,
+        "word": "男主播直播喝白酒时死亡",
+        "onboard_time": 1703138859,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245518,
+        "num": 234148,
+        "word": "圣诞星",
+        "onboard_time": 1703161415,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233285,
+        "num": 233285,
+        "word": "赵昭仪肯定王安宇身材",
+        "onboard_time": 1703156434,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230784,
+        "num": 230784,
+        "word": "新闻女王这句英文怎么翻译",
+        "onboard_time": 1703158959,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214924,
+        "num": 214924,
+        "word": "研究发现每一滴酒都有害",
+        "onboard_time": 1703157094,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196408,
+        "num": 196408,
+        "word": "榜样8",
+        "onboard_time": 1703161654,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188571,
+        "num": 188571,
+        "word": "背过的诗有一天会脱口而出",
+        "onboard_time": 1703161535,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 89238,
+        "num": 188365,
+        "word": "两学生奔向刺骨海水救回母子二人",
+        "onboard_time": 1703150137,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 188167,
+        "num": 188167,
+        "word": "王俊凯 都说了少关注我年轻的时候",
+        "onboard_time": 1703141258,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185252,
+        "num": 185252,
+        "word": "学生衣服里塞满纸巾真相让人感动",
+        "onboard_time": 1703158714,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161819,
+        "num": 161819,
+        "word": "孙颖莎说回到深圳感觉非常亲切",
+        "onboard_time": 1703161475,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149126,
+        "num": 149126,
+        "word": "狗狗走失流泪绝食网友合力找主人",
+        "onboard_time": 1703152476,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145433,
+        "num": 145433,
+        "word": "这是食堂还是天堂",
+        "onboard_time": 1703157455,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141732,
+        "num": 141732,
+        "word": "鸣龙少年 亲情刀",
+        "onboard_time": 1703160635,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139864,
+        "num": 139864,
+        "word": "鹭卓换头像",
+        "onboard_time": 1703147376,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133510,
+        "num": 133510,
+        "word": "男子婚内出轨被发现时私生子已读小学",
+        "onboard_time": 1703136763,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132439,
+        "num": 132439,
+        "word": "张婧仪 财阀千金",
+        "onboard_time": 1703161835,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122967,
+        "num": 122967,
+        "word": "降息",
+        "onboard_time": 1703147615,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122531,
+        "num": 122531,
+        "word": "上海葱油饼西施靠一张饼火了28年",
+        "onboard_time": 1703155057,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117562,
+        "num": 117562,
+        "word": "唐嫣繁花花絮照",
+        "onboard_time": 1703160274,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113163,
+        "num": 113163,
+        "word": "董宇辉驳斥读书无用论",
+        "onboard_time": 1703152054,
+        "rank": 42,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 108695,
+        "num": 108695,
+        "word": "甘露寺的莫言",
+        "onboard_time": 1703144615,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 107575,
+        "num": 107575,
+        "word": "魏晨说在三大队被宠爱着",
+        "onboard_time": 1703155295,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106953,
+        "num": 106953,
+        "word": "天太冷不洗脸会让皮肤变好吗",
+        "onboard_time": 1703137537,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105922,
+        "num": 105922,
+        "word": "创造营亚洲选手名单",
+        "onboard_time": 1703154036,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104937,
+        "num": 104937,
+        "word": "三大队",
+        "onboard_time": 1703158594,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102484,
+        "num": 102484,
+        "word": "王安宇现在才害羞太晚了",
+        "onboard_time": 1703157394,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102291,
+        "num": 102291,
+        "word": "湖南卫视跨年晚会首波阵容",
+        "onboard_time": 1703136637,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#农业现代化关键是农业科技现代化#"
+    }
+  }
+}
