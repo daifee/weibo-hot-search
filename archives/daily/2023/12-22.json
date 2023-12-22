@@ -1,7 +1,15 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703216073528,
+  "endTime": 1703218913078,
   "band_list": [
+    {
+      "raw_hot": 3272717,
+      "num": 3272717,
+      "word": "22岁女老师被7旬老人开老头乐撞死",
+      "onboard_time": 1703216253,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1902775,
       "num": 1902775,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1075081,
+      "num": 1075081,
+      "word": "上个班没必要扭扭捏捏",
+      "onboard_time": 1703214030,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1066347,
       "num": 1066347,
       "word": "吴宣仪 我是男人的话一定追钟楚曦",
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 873080,
+      "num": 873080,
+      "word": "网剧冬至",
+      "onboard_time": 1703215532,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 855218,
       "num": 855218,
       "word": "难听",
@@ -121,6 +145,14 @@
       "onboard_time": 1703208513,
       "rank": 38,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 774797,
+      "num": 510478,
+      "word": "建议冬至放一天假的理由",
+      "onboard_time": 1703218055,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730887,
@@ -187,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 604961,
+      "num": 604961,
+      "word": "老头乐",
+      "onboard_time": 1703218235,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576312,
       "num": 576312,
       "word": "爱尔眼科集团通报",
@@ -251,12 +291,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464088,
+      "num": 464088,
+      "word": "TODS 肖战",
+      "onboard_time": 1703216914,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 459641,
       "num": 459641,
       "word": "今天冬至踩踩小人",
       "onboard_time": 1703206595,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453704,
+      "num": 453704,
+      "word": "所有网络游戏须设置用户充值限额",
+      "onboard_time": 1703217514,
+      "rank": 13,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 446787,
@@ -299,6 +355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 371343,
+      "num": 371343,
+      "word": "明天考研",
+      "onboard_time": 1703216972,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 364603,
       "num": 364603,
       "word": "管泽元",
@@ -315,20 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352720,
-      "num": 352720,
-      "word": "上个班没必要扭扭捏捏",
-      "onboard_time": 1703214030,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 350422,
       "num": 350422,
       "word": "鹭卓 投票",
       "onboard_time": 1703205274,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348797,
+      "num": 348797,
+      "word": "幽门螺杆菌跟胃癌直接相关",
+      "onboard_time": 1703212414,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 336688,
@@ -379,6 +443,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 324717,
+      "num": 324717,
+      "word": "在暴雪时分",
+      "onboard_time": 1703217154,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324248,
       "num": 324248,
       "word": "青海海东3人因地震失联",
@@ -427,12 +499,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 290756,
-      "num": 290756,
-      "word": "网剧冬至",
-      "onboard_time": 1703215532,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 292901,
+      "num": 292901,
+      "word": "恋与深空全球定档",
+      "onboard_time": 1703217514,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 281188,
@@ -475,20 +547,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272181,
-      "num": 272181,
-      "word": "幽门螺杆菌跟胃癌直接相关",
-      "onboard_time": 1703212414,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 258993,
       "num": 258993,
       "word": "冬至前日乾清宫5条金龙依次被照亮",
       "onboard_time": 1703166401,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255825,
+      "num": 255825,
+      "word": "谢娜 和武艺聊天都不会让我失望",
+      "onboard_time": 1703217214,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 255550,
+      "num": 255550,
+      "word": "穿加绒牛仔裤为什么会冷",
+      "onboard_time": 1703214632,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 253549,
+      "num": 253549,
+      "word": "恋与深空",
+      "onboard_time": 1703216972,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 253235,
+      "num": 253235,
+      "word": "胡海泉100万股权被冻结",
+      "onboard_time": 1703218418,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 245472,
@@ -507,12 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233556,
-      "num": 233556,
-      "word": "穿加绒牛仔裤为什么会冷",
-      "onboard_time": 1703214632,
-      "rank": 31,
-      "category": "时尚"
+      "raw_hot": 229653,
+      "num": 229653,
+      "word": "地震灾区女孩吃面带着微笑却看泪目",
+      "onboard_time": 1703217754,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228477,
@@ -532,7 +628,7 @@
     },
     {
       "raw_hot": 219304,
-      "num": 188398,
+      "num": 218119,
       "word": "倪妮看张婧仪的表情",
       "onboard_time": 1703215353,
       "rank": 31,
@@ -571,12 +667,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210511,
+      "num": 210511,
+      "word": "考研男生憧憬2024拿录取通知书扇扇子",
+      "onboard_time": 1703216494,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209113,
       "num": 209113,
       "word": "刘浩存林一脱轨吻戏",
       "onboard_time": 1703174671,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208914,
+      "num": 208914,
+      "word": "公安部新闻发布会",
+      "onboard_time": 1703218535,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203586,
+      "num": 203586,
+      "word": "相亲中的下头行为",
+      "onboard_time": 1703217695,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 202888,
@@ -633,6 +753,14 @@
       "onboard_time": 1703214030,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191670,
+      "num": 191670,
+      "word": "王宝强回应解克锋邀请其出演寻亲电影",
+      "onboard_time": 1703215832,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 188290,
@@ -699,19 +827,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172222,
-      "num": 172222,
-      "word": "王宝强回应解克锋邀请其出演寻亲电影",
-      "onboard_time": 1703215832,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 171517,
       "num": 171517,
       "word": "天津跳水大爷快乐60秒新招",
       "onboard_time": 1703212110,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168625,
+      "num": 168625,
+      "word": "水饺店冬至提前上班宴请环卫工",
+      "onboard_time": 1703216315,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -721,6 +849,14 @@
       "onboard_time": 1703205816,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163647,
+      "num": 163647,
+      "word": "2023票房前十名都是国产片",
+      "onboard_time": 1703215293,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 163289,
@@ -761,6 +897,14 @@
       "onboard_time": 1703132023,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 157058,
+      "num": 157058,
+      "word": "中国冬至传统美食不止饺子",
+      "onboard_time": 1703217936,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 150206,
@@ -841,14 +985,6 @@
       "onboard_time": 1703203534,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 140844,
-      "num": 140844,
-      "word": "2023票房前十名都是国产片",
-      "onboard_time": 1703215293,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 137553,
@@ -1107,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57038,
+      "num": 233064,
+      "word": "刘亦菲喂你吃饭",
+      "onboard_time": 1703218357,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54645,
       "num": 52218,
       "word": "王星越黏着郝蕾",
@@ -1123,10 +1267,26 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 43490,
+      "num": 453498,
+      "word": "鸡块妹打工实录",
+      "onboard_time": 1703217815,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37736,
       "num": 1207083,
       "word": "你的肩膀我的依靠",
       "onboard_time": 1703150796,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31598,
+      "num": 1016350,
+      "word": "仰起头看见2023的中国",
+      "onboard_time": 1703218775,
       "rank": 2,
       "category": "社会新闻"
     },
