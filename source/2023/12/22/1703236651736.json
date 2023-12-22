@@ -1,0 +1,410 @@
+{
+  "runTime": 1703236651736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2274343,
+        "num": 2274343,
+        "word": "韩国人在首尔买房须不吃不喝15.2年",
+        "onboard_time": 1703233474,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1508007,
+        "num": 1508007,
+        "word": "刘芸走红毯贴了70个暖宝宝",
+        "onboard_time": 1703231016,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61656,
+        "num": 1041306,
+        "word": "2023这是我们的回答",
+        "onboard_time": 1703233655,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 972357,
+        "num": 972357,
+        "word": "烧伤消防员刘攀女友官宣怀孕",
+        "onboard_time": 1703233832,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924884,
+        "num": 924884,
+        "word": "建议冬至放一天假的理由",
+        "onboard_time": 1703218055,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873130,
+        "num": 873130,
+        "word": "周也 战损妆",
+        "onboard_time": 1703231553,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 877149,
+        "num": 869241,
+        "word": "游戏",
+        "onboard_time": 1703221834,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 797610,
+        "num": 797610,
+        "word": "iPhone15和iPhone14Pro谁更值",
+        "onboard_time": 1703234973,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 697305,
+        "num": 697305,
+        "word": "22岁女老师被7旬老人开老头乐撞死",
+        "onboard_time": 1703216253,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690315,
+        "num": 690315,
+        "word": "张兰力挺董明珠怒斥黑粉",
+        "onboard_time": 1703231615,
+        "rank": 9,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 580047,
+        "num": 580047,
+        "word": "演员于洋回应家中存放大量金砖",
+        "onboard_time": 1703224715,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470647,
+        "num": 470647,
+        "word": "木村光希想和易烊千玺再次合作",
+        "onboard_time": 1703234617,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464529,
+        "num": 464529,
+        "word": "被名字劝退但真上头的小说",
+        "onboard_time": 1703223933,
+        "rank": 12,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 431603,
+        "num": 431603,
+        "word": "深圳街头一女孩流浪多日牙齿掉光",
+        "onboard_time": 1703229816,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395684,
+        "num": 395684,
+        "word": "杨丽萍团队跳科目三",
+        "onboard_time": 1703219437,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50938,
+        "num": 389866,
+        "word": "天刀新门派 找回了重生的感觉",
+        "onboard_time": 1703235395,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 387205,
+        "num": 387205,
+        "word": "当大我八岁哥哥有了自己微信",
+        "onboard_time": 1703228732,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383044,
+        "num": 383044,
+        "word": "帕梅拉 听说科目三风靡全球了",
+        "onboard_time": 1703225973,
+        "rank": 17,
+        "category": "运动健身,作品衍生"
+      },
+      {
+        "raw_hot": 336040,
+        "num": 336040,
+        "word": "搜狐时尚盛典红毯",
+        "onboard_time": 1703230713,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310274,
+        "num": 310274,
+        "word": "网游出版经营单位不得炒高虚拟道具价格",
+        "onboard_time": 1703235696,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 323414,
+        "num": 299912,
+        "word": "捡到情侣分手遗物",
+        "onboard_time": 1703231432,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278074,
+        "num": 278074,
+        "word": "张天爱cos赵敏",
+        "onboard_time": 1703230292,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268395,
+        "num": 268395,
+        "word": "网游新规",
+        "onboard_time": 1703235874,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249538,
+        "num": 249538,
+        "word": "考研一年需要花多少钱",
+        "onboard_time": 1703230053,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233661,
+        "num": 233661,
+        "word": "弟弟是如何向女朋友道歉的",
+        "onboard_time": 1703233112,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220844,
+        "num": 220844,
+        "word": "胡锡进称网游新规给股市浇了冷水",
+        "onboard_time": 1703229215,
+        "rank": 25,
+        "category": "财经,游戏"
+      },
+      {
+        "raw_hot": 212695,
+        "num": 212695,
+        "word": "神隐 好大一把刀",
+        "onboard_time": 1703233955,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212357,
+        "num": 212357,
+        "word": "鹿晗 抽卡",
+        "onboard_time": 1703222075,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208116,
+        "num": 208116,
+        "word": "沉香如屑萤灯扮演者维权胜诉",
+        "onboard_time": 1703236293,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207934,
+        "num": 207934,
+        "word": "网易股价跌超20%",
+        "onboard_time": 1703224471,
+        "rank": 29,
+        "category": "财经,游戏"
+      },
+      {
+        "raw_hot": 193026,
+        "num": 193026,
+        "word": "孟羽童曾称要学会反向引导领导",
+        "onboard_time": 1703224593,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192327,
+        "num": 192327,
+        "word": "上个班没必要扭扭捏捏",
+        "onboard_time": 1703214030,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187598,
+        "num": 187598,
+        "word": "北大天才柳智宇还俗后宣布结婚",
+        "onboard_time": 1703223692,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186398,
+        "num": 186398,
+        "word": "Faker冠军皮肤选发条",
+        "onboard_time": 1703230354,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171353,
+        "num": 171353,
+        "word": "杨紫冷脸酷妆",
+        "onboard_time": 1703232818,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 168160,
+        "num": 168160,
+        "word": "港股游戏股大跌",
+        "onboard_time": 1703220338,
+        "rank": 35,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 162730,
+        "num": 162730,
+        "word": "东北老式拌饭",
+        "onboard_time": 1703235993,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157038,
+        "num": 157038,
+        "word": "明天考研我们一研为定",
+        "onboard_time": 1703234495,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154775,
+        "num": 154775,
+        "word": "震区男孩把小猫藏帽子里取暖",
+        "onboard_time": 1703225733,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152478,
+        "num": 152478,
+        "word": "消防员扒开泥浆找到遇难一家五口",
+        "onboard_time": 1703227232,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152260,
+        "num": 152260,
+        "word": "丫丫养的小鸟肉眼可见的胖了",
+        "onboard_time": 1703219317,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135648,
+        "num": 135648,
+        "word": "当地回应女老师被老人开老头乐撞死",
+        "onboard_time": 1703223216,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131428,
+        "num": 131428,
+        "word": "吃雪糕时掉一块致人摔倒伤残",
+        "onboard_time": 1703218714,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131181,
+        "num": 131181,
+        "word": "限充",
+        "onboard_time": 1703231312,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129775,
+        "num": 129775,
+        "word": "所有网络游戏须设置用户充值限额",
+        "onboard_time": 1703217514,
+        "rank": 44,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 129270,
+        "num": 129270,
+        "word": "禁止买卖套用网络游戏版号",
+        "onboard_time": 1703231192,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126539,
+        "num": 126539,
+        "word": "网络游戏管理办法草案",
+        "onboard_time": 1703222672,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125684,
+        "num": 125684,
+        "word": "丁晟 相信杨幂会带来惊喜",
+        "onboard_time": 1703224894,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122418,
+        "num": 122418,
+        "word": "周深让宋亚轩模仿螳螂",
+        "onboard_time": 1703235093,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117191,
+        "num": 117191,
+        "word": "江晓媛 我哪儿都错了",
+        "onboard_time": 1703235574,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升乡村产业富民水平#"
+    }
+  }
+}
