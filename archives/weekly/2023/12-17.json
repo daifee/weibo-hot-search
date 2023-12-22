@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703270065421,
+  "endTime": 1703272424251,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -16131,6 +16131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 91016,
+      "num": 91016,
+      "word": "昏迷男子听周杰伦歌时突然打节拍",
+      "onboard_time": 1703267418,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 89791,
       "num": 1695069,
       "word": "冬至愿美好如约而至",
@@ -16337,14 +16345,6 @@
       "onboard_time": 1703089946,
       "rank": 49,
       "category": "电竞,网红"
-    },
-    {
-      "raw_hot": 75738,
-      "num": 75738,
-      "word": "昏迷男子听周杰伦歌时突然打节拍",
-      "onboard_time": 1703267418,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 75130,
@@ -17033,6 +17033,14 @@
       "onboard_time": 1703095037,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 24389,
+      "num": 24389,
+      "word": "游戏每日签到",
+      "onboard_time": 1703271496,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 23184,
