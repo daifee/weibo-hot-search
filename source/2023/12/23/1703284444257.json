@@ -1,0 +1,410 @@
+{
+  "runTime": 1703284444257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 281030,
+        "num": 281030,
+        "word": "被老鼠咬后反咬女子室友发声",
+        "onboard_time": 1703258557,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223959,
+        "num": 223959,
+        "word": "流量褪去后的淄博",
+        "onboard_time": 1703280134,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 11383,
+        "num": 181622,
+        "word": "2023年国际舞台上的中国风",
+        "onboard_time": 1703253398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226469,
+        "num": 174780,
+        "word": "金莎 参加活动戒指丢了",
+        "onboard_time": 1703260531,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149623,
+        "num": 149623,
+        "word": "泥浆中紧护孩子的姑姑怀有身孕",
+        "onboard_time": 1703261012,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105373,
+        "num": 105373,
+        "word": "家长买500斤融雪剂深夜铲除校门口积冰",
+        "onboard_time": 1703270656,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 96916,
+        "num": 96916,
+        "word": "完颜慧德 北大",
+        "onboard_time": 1703264484,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95462,
+        "num": 95462,
+        "word": "幽门螺杆菌感染后往往无症状",
+        "onboard_time": 1703281154,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94506,
+        "num": 94506,
+        "word": "果郡王浣碧线被剪掉挺多的",
+        "onboard_time": 1703258075,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85296,
+        "num": 85296,
+        "word": "甘露寺美甲",
+        "onboard_time": 1703258913,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 82138,
+        "num": 82138,
+        "word": "不要再玩大冰梗了好吗 好的",
+        "onboard_time": 1703256516,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 78858,
+        "num": 78858,
+        "word": "考研 一研为定",
+        "onboard_time": 1703254117,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 77233,
+        "num": 77233,
+        "word": "你是我女儿 怎么可能认不出",
+        "onboard_time": 1703241154,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77039,
+        "num": 77039,
+        "word": "冬至别熬夜",
+        "onboard_time": 1703239892,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70202,
+        "num": 70202,
+        "word": "易烊千玺当评委",
+        "onboard_time": 1703257894,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68850,
+        "num": 68850,
+        "word": "第一次见男明星耍帅甩羽绒服",
+        "onboard_time": 1703251115,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64944,
+        "num": 64944,
+        "word": "林一鼻子",
+        "onboard_time": 1703253699,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59839,
+        "num": 59839,
+        "word": "新疆人说的皮牙子是指什么",
+        "onboard_time": 1703263106,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 59061,
+        "num": 59061,
+        "word": "昏迷男子听周杰伦歌时突然打节拍",
+        "onboard_time": 1703267418,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 45068,
+        "num": 45068,
+        "word": "网络游戏管理新政影响有多大",
+        "onboard_time": 1703265501,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45831,
+        "num": 44340,
+        "word": "一战成硕",
+        "onboard_time": 1703254297,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42806,
+        "num": 42806,
+        "word": "长期不吃肉身体会发生什么变化",
+        "onboard_time": 1703247395,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40092,
+        "num": 40092,
+        "word": "决战考研",
+        "onboard_time": 1703281875,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38563,
+        "num": 38563,
+        "word": "4岁女童遭仨狗咬掉大半头皮",
+        "onboard_time": 1703256218,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38120,
+        "num": 38120,
+        "word": "孙丞潇 金莎像人鱼公主可以刮鳞",
+        "onboard_time": 1703260112,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37805,
+        "num": 37805,
+        "word": "高铁乘务员心脏骤停一下来了3位医生",
+        "onboard_time": 1703253699,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33288,
+        "num": 33288,
+        "word": "小孩姐直接少走了二十年弯路",
+        "onboard_time": 1703264004,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32162,
+        "num": 32162,
+        "word": "考研预测",
+        "onboard_time": 1703258195,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31933,
+        "num": 31933,
+        "word": "肖战冬至侧颜",
+        "onboard_time": 1703247634,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21194,
+        "num": 31597,
+        "word": "地震已致148人死亡",
+        "onboard_time": 1703237073,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31578,
+        "num": 31578,
+        "word": "30天逼自己瘦下来",
+        "onboard_time": 1703256878,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 31558,
+        "num": 31558,
+        "word": "你终硕",
+        "onboard_time": 1703255074,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31299,
+        "num": 31299,
+        "word": "杨幂好像一棵圣诞树",
+        "onboard_time": 1703256456,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30274,
+        "num": 30274,
+        "word": "郑晓龙 甄嬛传完整版在准备了",
+        "onboard_time": 1703249674,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29555,
+        "num": 29555,
+        "word": "考研前一天的心情",
+        "onboard_time": 1703256936,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29501,
+        "num": 29501,
+        "word": "腾讯加码单日回购10亿港元",
+        "onboard_time": 1703260413,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28057,
+        "num": 28057,
+        "word": "刘芸走红毯贴了70个暖宝宝",
+        "onboard_time": 1703231016,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 27561,
+        "num": 27561,
+        "word": "专家说考研后的人生没有标准答案",
+        "onboard_time": 1703256637,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26136,
+        "num": 26136,
+        "word": "警方回应4岁女童被3只狗撕咬",
+        "onboard_time": 1703253760,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26040,
+        "num": 26040,
+        "word": "鹭卓 投票第二",
+        "onboard_time": 1703264244,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25215,
+        "num": 25215,
+        "word": "科目三为什么叫科目三",
+        "onboard_time": 1703243491,
+        "rank": 40,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 25038,
+        "num": 25038,
+        "word": "杨幂穿浴袍吃饺子",
+        "onboard_time": 1703251714,
+        "rank": 41,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 24523,
+        "num": 24523,
+        "word": "金裕贞喊宋江老公",
+        "onboard_time": 1703259515,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24445,
+        "num": 24445,
+        "word": "刘浩存穿光腿神器了吗",
+        "onboard_time": 1703253157,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23268,
+        "num": 23268,
+        "word": "韩国人在首尔买房须不吃不喝15.2年",
+        "onboard_time": 1703233474,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 21386,
+        "num": 21386,
+        "word": "迪丽热巴 神女的圣火",
+        "onboard_time": 1703247996,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20809,
+        "num": 20809,
+        "word": "腾讯游戏副总裁回应游戏新规",
+        "onboard_time": 1703238873,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 20433,
+        "num": 20433,
+        "word": "尼尔叔叔 我已经买到白乳胶了",
+        "onboard_time": 1703261909,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19331,
+        "num": 19331,
+        "word": "我妈年轻的时候吃的太好了",
+        "onboard_time": 1703284155,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18103,
+        "num": 19331,
+        "word": "这6种胸痛提示心梗风险高",
+        "onboard_time": 1703280615,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升乡村产业富民水平#"
+    }
+  }
+}
