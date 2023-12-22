@@ -1,0 +1,410 @@
+{
+  "runTime": 1703248319742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2056635,
+        "num": 2056635,
+        "word": "冬至别熬夜",
+        "onboard_time": 1703239892,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1206870,
+        "num": 1206870,
+        "word": "TODS致歉",
+        "onboard_time": 1703245534,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 41141,
+        "num": 864018,
+        "word": "2023这是我们的回答",
+        "onboard_time": 1703233655,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839700,
+        "num": 839700,
+        "word": "科目三为什么叫科目三",
+        "onboard_time": 1703243491,
+        "rank": 3,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 679982,
+        "num": 679982,
+        "word": "娜扎 异域玫瑰",
+        "onboard_time": 1703245114,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 672030,
+        "num": 672030,
+        "word": "韩国人在首尔买房须不吃不喝15.2年",
+        "onboard_time": 1703233474,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 650369,
+        "num": 650369,
+        "word": "你是我女儿 怎么可能认不出",
+        "onboard_time": 1703241154,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581908,
+        "num": 581908,
+        "word": "王源 电子饺子",
+        "onboard_time": 1703243613,
+        "rank": 7,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 570500,
+        "num": 570500,
+        "word": "冬至大如年",
+        "onboard_time": 1703238273,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563636,
+        "num": 563636,
+        "word": "藏海传男主",
+        "onboard_time": 1703245233,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506659,
+        "num": 506659,
+        "word": "刘宇喻言撞造型",
+        "onboard_time": 1703243733,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 461106,
+        "num": 461106,
+        "word": "杨幂今年20套高定",
+        "onboard_time": 1703239953,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 430693,
+        "num": 430693,
+        "word": "腾讯游戏副总裁回应游戏新规",
+        "onboard_time": 1703238873,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 417031,
+        "num": 417031,
+        "word": "杨幂王鹤棣同框",
+        "onboard_time": 1703243553,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 319172,
+        "num": 375595,
+        "word": "网易市值一日蒸发1281亿港元",
+        "onboard_time": 1703243913,
+        "rank": 14,
+        "category": "财经,游戏"
+      },
+      {
+        "raw_hot": 375490,
+        "num": 375490,
+        "word": "娄艺潇 战国袍",
+        "onboard_time": 1703247273,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 340125,
+        "num": 340125,
+        "word": "迪丽热巴 神女的圣火",
+        "onboard_time": 1703247996,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 297126,
+        "num": 327551,
+        "word": "明天考研我们一研为定",
+        "onboard_time": 1703234495,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47358,
+        "num": 326808,
+        "word": "蛋仔岛新氛围",
+        "onboard_time": 1703247333,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274283,
+        "num": 326658,
+        "word": "22岁女老师被7旬老人开老头乐撞死",
+        "onboard_time": 1703216253,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326649,
+        "num": 326649,
+        "word": "刘芸走红毯贴了70个暖宝宝",
+        "onboard_time": 1703231016,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315610,
+        "num": 315610,
+        "word": "朱丹回应主持叫错名字",
+        "onboard_time": 1703236834,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307373,
+        "num": 307373,
+        "word": "肖战冬至侧颜",
+        "onboard_time": 1703247634,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271236,
+        "num": 271236,
+        "word": "烧伤消防员刘攀女友官宣怀孕",
+        "onboard_time": 1703233832,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258866,
+        "num": 258866,
+        "word": "校服必须外穿学生肿成轮胎人",
+        "onboard_time": 1703246555,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 293843,
+        "num": 256884,
+        "word": "金莎 孙丞潇像都敏俊",
+        "onboard_time": 1703247693,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245323,
+        "num": 245323,
+        "word": "仙剑四 寒假档",
+        "onboard_time": 1703242534,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194965,
+        "num": 194965,
+        "word": "帕梅拉 听说科目三风靡全球了",
+        "onboard_time": 1703225973,
+        "rank": 27,
+        "category": "运动健身,作品衍生"
+      },
+      {
+        "raw_hot": 171386,
+        "num": 171386,
+        "word": "南圆北饺",
+        "onboard_time": 1703238273,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160118,
+        "num": 171291,
+        "word": "地震已致148人死亡",
+        "onboard_time": 1703237073,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290439,
+        "num": 171176,
+        "word": "长期不吃肉身体会发生什么变化",
+        "onboard_time": 1703247395,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240806,
+        "num": 170967,
+        "word": "种地吧",
+        "onboard_time": 1703237016,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223224,
+        "num": 170849,
+        "word": "迪丽热巴一直扶着胡先煦",
+        "onboard_time": 1703246614,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222297,
+        "num": 170765,
+        "word": "檀健次周也680秒20组吻戏",
+        "onboard_time": 1703246614,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170682,
+        "num": 170682,
+        "word": "考研需要从大几开始准备",
+        "onboard_time": 1703247155,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207092,
+        "num": 168465,
+        "word": "何炅加入要久久爱OST",
+        "onboard_time": 1703243491,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196176,
+        "num": 168062,
+        "word": "木村光希想和易烊千玺再次合作",
+        "onboard_time": 1703234617,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160252,
+        "num": 160252,
+        "word": "游戏新规",
+        "onboard_time": 1703241336,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150936,
+        "num": 150936,
+        "word": "建议冬至放一天假的理由",
+        "onboard_time": 1703218055,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143854,
+        "num": 143854,
+        "word": "越来越多东北人涌入西双版纳买房",
+        "onboard_time": 1703243373,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 191502,
+        "num": 143847,
+        "word": "e人宋亚轩 i人小玩具",
+        "onboard_time": 1703247214,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143984,
+        "num": 143847,
+        "word": "吴宣仪天鹅公主",
+        "onboard_time": 1703246614,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143736,
+        "num": 143736,
+        "word": "发热穿衣法则",
+        "onboard_time": 1703246913,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 143297,
+        "num": 143297,
+        "word": "iPhone15和iPhone14Pro谁更值",
+        "onboard_time": 1703234973,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140756,
+        "num": 140756,
+        "word": "小丰收直播",
+        "onboard_time": 1703246075,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140627,
+        "num": 140627,
+        "word": "刘涛腰线",
+        "onboard_time": 1703238031,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139581,
+        "num": 139581,
+        "word": "天蝎座认定的事决不放弃",
+        "onboard_time": 1703240913,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 139109,
+        "num": 139109,
+        "word": "蒯曼陈梦3比0赵尚李雅可",
+        "onboard_time": 1703248175,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137385,
+        "num": 137385,
+        "word": "种地吧捉迷藏版冬至直播",
+        "onboard_time": 1703237433,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127319,
+        "num": 127319,
+        "word": "冬至 福至",
+        "onboard_time": 1703244693,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升乡村产业富民水平#"
+    }
+  }
+}
