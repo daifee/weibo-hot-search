@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703279711820,
+  "endTime": 1703280872890,
   "band_list": [
     {
       "raw_hot": 1908289,
@@ -467,6 +467,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 56564,
+      "num": 56564,
+      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
+      "onboard_time": 1703270656,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 55644,
       "num": 55644,
       "word": "杨幂王鹤棣同框",
@@ -489,14 +497,6 @@
       "onboard_time": 1703271496,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34193,
-      "num": 34193,
-      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
-      "onboard_time": 1703270656,
-      "rank": 23,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 33842,
@@ -523,8 +523,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16794,
-      "num": 16794,
+      "raw_hot": 20737,
+      "num": 20737,
+      "word": "流量褪去后的淄博",
+      "onboard_time": 1703280134,
+      "rank": 24,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 17707,
+      "num": 17707,
       "word": "金星秀国际版",
       "onboard_time": 1703277915,
       "rank": 33,
@@ -555,11 +563,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12774,
-      "num": 12774,
+      "raw_hot": 13331,
+      "num": 13331,
       "word": "如何预防幽门螺杆菌",
       "onboard_time": 1703278994,
       "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 12606,
+      "num": 12606,
+      "word": "这6种胸痛提示心梗风险高",
+      "onboard_time": 1703280615,
+      "rank": 49,
       "category": "健康医疗"
     }
   ],
