@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703226190724,
+  "endTime": 1703226960364,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -2939,6 +2939,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 1658510,
+      "num": 1658510,
+      "word": "演员于洋回应家中存放大量金砖",
+      "onboard_time": 1703224715,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1651224,
       "num": 1651224,
       "word": "成毅 礼仪小姐请下班",
@@ -5145,14 +5153,6 @@
       "onboard_time": 1702196495,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1123271,
-      "num": 1123271,
-      "word": "演员于洋回应家中存放大量金砖",
-      "onboard_time": 1703224715,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1121759,
@@ -11379,6 +11379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612956,
+      "num": 612956,
+      "word": "游戏",
+      "onboard_time": 1703221834,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 612245,
       "num": 509615,
       "word": "丁太升 不开麦半开麦都是假唱",
@@ -12825,14 +12833,6 @@
       "onboard_time": 1702871619,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555383,
-      "num": 555383,
-      "word": "游戏",
-      "onboard_time": 1703221834,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 555157,
@@ -16147,6 +16147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459438,
+      "num": 459438,
+      "word": "网易股价跌超20%",
+      "onboard_time": 1703224471,
+      "rank": 15,
+      "category": "财经,游戏"
+    },
+    {
       "raw_hot": 459362,
       "num": 459362,
       "word": "刘宇宁回应女神收割机",
@@ -16691,20 +16699,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 447987,
-      "num": 447987,
-      "word": "网易股价跌超20%",
-      "onboard_time": 1703224471,
-      "rank": 15,
-      "category": "财经,游戏"
-    },
-    {
       "raw_hot": 447916,
       "num": 447916,
       "word": "中国空间站和鸿蒙入选2023全球十大工程",
       "onboard_time": 1703038953,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 447551,
+      "num": 447551,
+      "word": "帕梅拉 听说科目三风靡全球了",
+      "onboard_time": 1703225973,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 447513,
+      "num": 447513,
+      "word": "孟羽童曾称要学会反向引导领导",
+      "onboard_time": 1703224593,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 447473,
@@ -19409,14 +19425,6 @@
       "onboard_time": 1703131541,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393239,
-      "num": 393239,
-      "word": "孟羽童曾称要学会反向引导领导",
-      "onboard_time": 1703224593,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 393160,
@@ -26259,6 +26267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 297187,
+      "num": 297187,
+      "word": "湖南卫视跨年晚会第二波阵容",
+      "onboard_time": 1703224955,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297159,
       "num": 297159,
       "word": "谢娜最小的女儿很喜欢穿她的高跟鞋",
@@ -26995,6 +27011,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290896,
+      "num": 290896,
+      "word": "被名字劝退但真上头的小说",
+      "onboard_time": 1703223933,
+      "rank": 24,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 290873,
+      "num": 290873,
+      "word": "丁晟 相信杨幂会带来惊喜",
+      "onboard_time": 1703224894,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290848,
       "num": 290848,
       "word": "生理期也能做的减脂动作",
@@ -27329,14 +27361,6 @@
       "onboard_time": 1702210595,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 286999,
-      "num": 286999,
-      "word": "湖南卫视跨年晚会第二波阵容",
-      "onboard_time": 1703224955,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 286949,
@@ -28993,6 +29017,14 @@
       "onboard_time": 1702378177,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 270906,
+      "num": 270906,
+      "word": "震区男孩把小猫藏帽子里取暖",
+      "onboard_time": 1703225733,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270837,
@@ -32681,14 +32713,6 @@
       "onboard_time": 1702456054,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239088,
-      "num": 239088,
-      "word": "被名字劝退但真上头的小说",
-      "onboard_time": 1703223933,
-      "rank": 24,
-      "category": "读书作家"
     },
     {
       "raw_hot": 239081,
@@ -36771,6 +36795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212378,
+      "num": 212378,
+      "word": "文科生的隐形副业",
+      "onboard_time": 1703226032,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212354,
       "num": 212354,
       "word": "孟子义黑色露背裙",
@@ -37387,14 +37419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209411,
-      "num": 209411,
-      "word": "丁晟 相信杨幂会带来惊喜",
-      "onboard_time": 1703224894,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 209388,
       "num": 209388,
       "word": "WBG官宣Karsa离队",
@@ -37433,6 +37457,14 @@
       "onboard_time": 1701841294,
       "rank": 29,
       "category": "演出,社会新闻"
+    },
+    {
+      "raw_hot": 209203,
+      "num": 207961,
+      "word": "林一女主运",
+      "onboard_time": 1703225315,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 209179,
@@ -37689,14 +37721,6 @@
       "onboard_time": 1702055424,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 207961,
-      "num": 207961,
-      "word": "林一女主运",
-      "onboard_time": 1703225315,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 207942,
@@ -39289,6 +39313,14 @@
       "onboard_time": 1702017576,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201098,
+      "num": 201098,
+      "word": "张杰冬至点歌追光者",
+      "onboard_time": 1703226392,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 201094,
@@ -42043,14 +42075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189950,
-      "num": 189950,
-      "word": "震区男孩把小猫藏帽子里取暖",
-      "onboard_time": 1703225733,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189864,
       "num": 189864,
       "word": "国风羽绒服",
@@ -42289,14 +42313,6 @@
       "onboard_time": 1701619717,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188949,
-      "num": 188949,
-      "word": "帕梅拉 听说科目三风靡全球了",
-      "onboard_time": 1703225973,
-      "rank": 33,
-      "category": "运动健身"
     },
     {
       "raw_hot": 188935,
@@ -44787,6 +44803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176424,
+      "num": 176424,
+      "word": "王亚飞给白鹿化的冰透水感妆",
+      "onboard_time": 1703226513,
+      "rank": 35,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 176391,
       "num": 176391,
       "word": "说你不懂事 那是你不好糊弄",
@@ -45425,6 +45449,14 @@
       "onboard_time": 1703180898,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172431,
+      "num": 172431,
+      "word": "倪妮 龙年胜利女神",
+      "onboard_time": 1703226694,
+      "rank": 36,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 172396,
@@ -46339,6 +46371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168211,
+      "num": 168211,
+      "word": "饺子就酒",
+      "onboard_time": 1703226215,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168095,
       "num": 168095,
       "word": "快船vs步行者",
@@ -46569,6 +46609,14 @@
       "onboard_time": 1701394352,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167029,
+      "num": 167029,
+      "word": "秦岚迪丽热巴海边合照",
+      "onboard_time": 1703224833,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 166991,
@@ -48491,14 +48539,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 157334,
-      "num": 157334,
-      "word": "秦岚迪丽热巴海边合照",
-      "onboard_time": 1703224833,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157323,
       "num": 157323,
       "word": "吴青峰演绎郭顶凄美地",
@@ -49473,6 +49513,14 @@
       "onboard_time": 1702038455,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151478,
+      "num": 151478,
+      "word": "妆效差可能是因为缺水",
+      "onboard_time": 1703225854,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 151450,
@@ -50467,6 +50515,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 145917,
+      "num": 145917,
+      "word": "星穹铁道阮梅",
+      "onboard_time": 1703226392,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145897,
       "num": 145897,
       "word": "高校考场外手机成堆主打一个信任",
@@ -50985,14 +51041,6 @@
       "onboard_time": 1702775790,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143288,
-      "num": 143288,
-      "word": "文科生的隐形副业",
-      "onboard_time": 1703226032,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 143280,
@@ -51721,14 +51769,6 @@
       "onboard_time": 1701431554,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138789,
-      "num": 138789,
-      "word": "妆效差可能是因为缺水",
-      "onboard_time": 1703225854,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 138722,
@@ -55796,7 +55836,7 @@
     },
     {
       "raw_hot": 89791,
-      "num": 1677812,
+      "num": 1695069,
       "word": "冬至愿美好如约而至",
       "onboard_time": 1703200463,
       "rank": 43,
@@ -56004,7 +56044,7 @@
     },
     {
       "raw_hot": 83567,
-      "num": 157927,
+      "num": 268188,
       "word": "蛋仔派对大耳狗",
       "onboard_time": 1703225616,
       "rank": 41,
