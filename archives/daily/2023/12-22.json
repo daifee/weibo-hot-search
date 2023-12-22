@@ -1,10 +1,10 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703218913078,
+  "endTime": 1703219722652,
   "band_list": [
     {
-      "raw_hot": 3272717,
-      "num": 3272717,
+      "raw_hot": 3761181,
+      "num": 3761181,
       "word": "22岁女老师被7旬老人开老头乐撞死",
       "onboard_time": 1703216253,
       "rank": 0,
@@ -43,12 +43,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1493644,
+      "num": 1493644,
+      "word": "建议冬至放一天假的理由",
+      "onboard_time": 1703218055,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1238013,
       "num": 1238013,
       "word": "女子花7元打特惠车被司机嘲讽一路",
       "onboard_time": 1703201786,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1212011,
+      "num": 1212011,
+      "word": "上个班没必要扭扭捏捏",
+      "onboard_time": 1703214030,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 1202844,
@@ -73,14 +89,6 @@
       "onboard_time": 1703172163,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1075081,
-      "num": 1075081,
-      "word": "上个班没必要扭扭捏捏",
-      "onboard_time": 1703214030,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 1066347,
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 864973,
+      "num": 864973,
+      "word": "老头乐",
+      "onboard_time": 1703218235,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 855218,
       "num": 855218,
       "word": "难听",
@@ -145,14 +161,6 @@
       "onboard_time": 1703208513,
       "rank": 38,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 774797,
-      "num": 510478,
-      "word": "建议冬至放一天假的理由",
-      "onboard_time": 1703218055,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 730887,
@@ -219,12 +227,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 604961,
-      "num": 604961,
-      "word": "老头乐",
-      "onboard_time": 1703218235,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 609308,
+      "num": 609308,
+      "word": "所有网络游戏须设置用户充值限额",
+      "onboard_time": 1703217514,
+      "rank": 13,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 576312,
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498412,
+      "num": 498412,
+      "word": "TODS 肖战",
+      "onboard_time": 1703216914,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 496036,
       "num": 496036,
       "word": "当你的真名很像网名时",
@@ -291,28 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464088,
-      "num": 464088,
-      "word": "TODS 肖战",
-      "onboard_time": 1703216914,
-      "rank": 12,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 459641,
       "num": 459641,
       "word": "今天冬至踩踩小人",
       "onboard_time": 1703206595,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453704,
-      "num": 453704,
-      "word": "所有网络游戏须设置用户充值限额",
-      "onboard_time": 1703217514,
-      "rank": 13,
-      "category": "游戏,互联网"
     },
     {
       "raw_hot": 446787,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350948,
+      "num": 350948,
+      "word": "在暴雪时分",
+      "onboard_time": 1703217154,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350422,
       "num": 350422,
       "word": "鹭卓 投票",
@@ -441,14 +449,6 @@
       "onboard_time": 1703204555,
       "rank": 24,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 324717,
-      "num": 324717,
-      "word": "在暴雪时分",
-      "onboard_time": 1703217154,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 324248,
@@ -555,20 +555,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258321,
+      "num": 258321,
+      "word": "2023十大出圈角色",
+      "onboard_time": 1703219074,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 256653,
+      "num": 256653,
+      "word": "穿加绒牛仔裤为什么会冷",
+      "onboard_time": 1703214632,
+      "rank": 31,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 255825,
       "num": 255825,
       "word": "谢娜 和武艺聊天都不会让我失望",
       "onboard_time": 1703217214,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255550,
-      "num": 255550,
-      "word": "穿加绒牛仔裤为什么会冷",
-      "onboard_time": 1703214632,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 253549,
@@ -595,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239440,
+      "num": 239440,
+      "word": "杨丽萍团队跳科目三",
+      "onboard_time": 1703219437,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237132,
       "num": 237132,
       "word": "第一批回家过年的人开始赶大集了",
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226113,
+      "num": 226113,
+      "word": "倪妮看张婧仪的表情",
+      "onboard_time": 1703215353,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225742,
       "num": 225742,
       "word": "彭小苒雪地露背装",
@@ -627,12 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219304,
-      "num": 218119,
-      "word": "倪妮看张婧仪的表情",
-      "onboard_time": 1703215353,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 223157,
+      "num": 223157,
+      "word": "李现王紫璇河神后二搭",
+      "onboard_time": 1703219317,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 216037,
@@ -737,6 +761,14 @@
       "onboard_time": 1703161415,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193750,
+      "num": 193750,
+      "word": "吃雪糕时掉一块致人摔倒伤残",
+      "onboard_time": 1703218714,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193453,
@@ -1171,6 +1203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97363,
+      "num": 309254,
+      "word": "刘亦菲喂你吃饭",
+      "onboard_time": 1703218357,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96000,
       "num": 96000,
       "word": "金冬天柳智敏圣诞颂Challenge",
@@ -1196,7 +1236,7 @@
     },
     {
       "raw_hot": 89791,
-      "num": 89791,
+      "num": 1319321,
       "word": "冬至愿美好如约而至",
       "onboard_time": 1703200463,
       "rank": 43,
@@ -1243,20 +1283,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57038,
-      "num": 233064,
-      "word": "刘亦菲喂你吃饭",
-      "onboard_time": 1703218357,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54645,
       "num": 52218,
       "word": "王星越黏着郝蕾",
       "onboard_time": 1703180119,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54281,
+      "num": 453498,
+      "word": "鸡块妹打工实录",
+      "onboard_time": 1703217815,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 52657,
@@ -1267,12 +1307,12 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 43490,
-      "num": 453498,
-      "word": "鸡块妹打工实录",
-      "onboard_time": 1703217815,
-      "rank": 14,
-      "category": "游戏"
+      "raw_hot": 43960,
+      "num": 230938,
+      "word": "晒出你的2023年度用车账单",
+      "onboard_time": 1703219196,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37736,
