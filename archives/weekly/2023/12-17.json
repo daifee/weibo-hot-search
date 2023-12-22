@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703222229359,
+  "endTime": 1703223237422,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -1731,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1010803,
+      "num": 1010803,
+      "word": "鹿晗 抽卡",
+      "onboard_time": 1703222075,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1008749,
       "num": 399692,
       "word": "刘浩存 光腿神器",
@@ -2035,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 894100,
+      "num": 894100,
+      "word": "杨丽萍团队跳科目三",
+      "onboard_time": 1703219437,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 893416,
       "num": 893416,
       "word": "小米汽车三名员工未经许可参与研讨会被辞退",
@@ -2107,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 875807,
+      "num": 875807,
+      "word": "吃雪糕时掉一块致人摔倒伤残",
+      "onboard_time": 1703218714,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 874492,
       "num": 1049593,
       "word": "东方甄选回应孙东旭职务变动",
@@ -2128,14 +2152,6 @@
       "word": "地震后父亲打给远嫁女儿差点哭了",
       "onboard_time": 1703054970,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 869804,
-      "num": 869804,
-      "word": "吃雪糕时掉一块致人摔倒伤残",
-      "onboard_time": 1703218714,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2497,14 +2513,6 @@
       "onboard_time": 1702828001,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 788279,
-      "num": 788279,
-      "word": "杨丽萍团队跳科目三",
-      "onboard_time": 1703219437,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 787191,
@@ -2961,6 +2969,14 @@
       "onboard_time": 1702874084,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 677201,
+      "num": 586581,
+      "word": "光腿神器可能引发妇科炎症",
+      "onboard_time": 1703220097,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 677196,
@@ -3585,14 +3601,6 @@
       "onboard_time": 1703162738,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586581,
-      "num": 586581,
-      "word": "光腿神器可能引发妇科炎症",
-      "onboard_time": 1703220097,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 584852,
@@ -4369,6 +4377,14 @@
       "onboard_time": 1703136400,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494751,
+      "num": 494751,
+      "word": "游戏",
+      "onboard_time": 1703221834,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 494677,
@@ -5193,6 +5209,14 @@
       "onboard_time": 1703064815,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414601,
+      "num": 223416,
+      "word": "腾讯跌超6%",
+      "onboard_time": 1703222913,
+      "rank": 30,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 414401,
@@ -7139,6 +7163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302292,
+      "num": 284720,
+      "word": "恋与制作人",
+      "onboard_time": 1703222018,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301747,
       "num": 402394,
       "word": "EDG 厂长回归",
@@ -7561,6 +7593,14 @@
       "onboard_time": 1703063015,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 285764,
+      "num": 285764,
+      "word": "网络游戏管理办法草案",
+      "onboard_time": 1703222672,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 285469,
@@ -8481,14 +8521,6 @@
       "onboard_time": 1703167720,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 250018,
-      "num": 250018,
-      "word": "游戏",
-      "onboard_time": 1703221834,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 249481,
@@ -10019,6 +10051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208761,
+      "num": 208761,
+      "word": "科目三",
+      "onboard_time": 1703222734,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208043,
       "num": 208043,
       "word": "完颜慧德纪录片",
@@ -10595,14 +10635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 195951,
-      "num": 195951,
-      "word": "鹿晗 抽卡",
-      "onboard_time": 1703222075,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195745,
       "num": 195745,
       "word": "国内油价或现年内最大跌幅",
@@ -10865,14 +10897,6 @@
       "onboard_time": 1703147733,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192450,
-      "num": 192450,
-      "word": "恋与制作人",
-      "onboard_time": 1703222018,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 192217,
@@ -13075,6 +13099,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 149581,
+      "num": 149581,
+      "word": "蛋仔派对微博联动外观",
+      "onboard_time": 1703223094,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149499,
       "num": 149499,
       "word": "我看漂亮女爱豆",
@@ -13328,6 +13360,14 @@
       "word": "甘肃地震紧急救灾",
       "onboard_time": 1703164298,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142581,
+      "num": 142581,
+      "word": "当地回应女老师被老人开老头乐撞死",
+      "onboard_time": 1703223216,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -14324,7 +14364,7 @@
     },
     {
       "raw_hot": 89791,
-      "num": 1589383,
+      "num": 1677812,
       "word": "冬至愿美好如约而至",
       "onboard_time": 1703200463,
       "rank": 43,

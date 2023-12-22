@@ -1,0 +1,410 @@
+{
+  "runTime": 1703223237422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3023709,
+        "num": 3023709,
+        "word": "建议冬至放一天假的理由",
+        "onboard_time": 1703218055,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2678074,
+        "num": 2678074,
+        "word": "22岁女老师被7旬老人开老头乐撞死",
+        "onboard_time": 1703216253,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47627,
+        "num": 1677812,
+        "word": "冬至愿美好如约而至",
+        "onboard_time": 1703200463,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010803,
+        "num": 1010803,
+        "word": "鹿晗 抽卡",
+        "onboard_time": 1703222075,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894100,
+        "num": 894100,
+        "word": "杨丽萍团队跳科目三",
+        "onboard_time": 1703219437,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 875807,
+        "num": 875807,
+        "word": "吃雪糕时掉一块致人摔倒伤残",
+        "onboard_time": 1703218714,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696275,
+        "num": 696275,
+        "word": "上个班没必要扭扭捏捏",
+        "onboard_time": 1703214030,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 671027,
+        "num": 671027,
+        "word": "老头乐",
+        "onboard_time": 1703218235,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584711,
+        "num": 584711,
+        "word": "虞书欣林一演情侣",
+        "onboard_time": 1703213669,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 567657,
+        "num": 567657,
+        "word": "所有网络游戏须设置用户充值限额",
+        "onboard_time": 1703217514,
+        "rank": 9,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 528646,
+        "num": 528646,
+        "word": "网剧冬至",
+        "onboard_time": 1703215532,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494751,
+        "num": 494751,
+        "word": "游戏",
+        "onboard_time": 1703221834,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 492949,
+        "num": 492949,
+        "word": "安慕希 白鹿",
+        "onboard_time": 1703212711,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478472,
+        "num": 478472,
+        "word": "范迪塞尔被控性侵",
+        "onboard_time": 1703210133,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416767,
+        "num": 416767,
+        "word": "TODS 肖战",
+        "onboard_time": 1703216914,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 388301,
+        "num": 388301,
+        "word": "丫丫养的小鸟肉眼可见的胖了",
+        "onboard_time": 1703219317,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365842,
+        "num": 365842,
+        "word": "港股游戏股大跌",
+        "onboard_time": 1703220338,
+        "rank": 16,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 327532,
+        "num": 327532,
+        "word": "微博之夜 投票",
+        "onboard_time": 1703205094,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 308704,
+        "num": 308704,
+        "word": "赵露思替身发文",
+        "onboard_time": 1703169941,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285764,
+        "num": 285764,
+        "word": "网络游戏管理办法草案",
+        "onboard_time": 1703222672,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 677201,
+        "num": 285236,
+        "word": "光腿神器可能引发妇科炎症",
+        "onboard_time": 1703220097,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302292,
+        "num": 284720,
+        "word": "恋与制作人",
+        "onboard_time": 1703222018,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276331,
+        "num": 276331,
+        "word": "吃饺子是为了纪念谁",
+        "onboard_time": 1703208513,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 264214,
+        "num": 264214,
+        "word": "A股",
+        "onboard_time": 1703222672,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263772,
+        "num": 263772,
+        "word": "穿加绒牛仔裤为什么会冷",
+        "onboard_time": 1703214632,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 257813,
+        "num": 257813,
+        "word": "十个勤天",
+        "onboard_time": 1703219798,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245717,
+        "num": 245717,
+        "word": "赵今麦 化妆师",
+        "onboard_time": 1703200644,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232158,
+        "num": 232158,
+        "word": "冬至",
+        "onboard_time": 1703171142,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225585,
+        "num": 225585,
+        "word": "11时27分迎来冬至节气",
+        "onboard_time": 1703207914,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224202,
+        "num": 224202,
+        "word": "李现王紫璇河神后二搭",
+        "onboard_time": 1703219317,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414601,
+        "num": 223416,
+        "word": "腾讯跌超6%",
+        "onboard_time": 1703222913,
+        "rank": 30,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 222302,
+        "num": 222302,
+        "word": "王安宇的腰碰不得",
+        "onboard_time": 1703220037,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209690,
+        "num": 209690,
+        "word": "秦岚情绪稳定的原因",
+        "onboard_time": 1703211092,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208761,
+        "num": 208761,
+        "word": "科目三",
+        "onboard_time": 1703222734,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200721,
+        "num": 200721,
+        "word": "倪妮 新中式羽绒服",
+        "onboard_time": 1703172163,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 192398,
+        "word": "在暴雪时分",
+        "onboard_time": 1703217154,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191357,
+        "num": 191357,
+        "word": "刘亦菲喂你吃饭",
+        "onboard_time": 1703218357,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182875,
+        "num": 182875,
+        "word": "吴宣仪 我是男人的话一定追钟楚曦",
+        "onboard_time": 1703207376,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180483,
+        "num": 180483,
+        "word": "网络游戏不得设置首充等诱导性奖励",
+        "onboard_time": 1703220097,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180200,
+        "num": 180200,
+        "word": "明天考研",
+        "onboard_time": 1703216972,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175654,
+        "num": 175654,
+        "word": "2023十大出圈角色",
+        "onboard_time": 1703219074,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163694,
+        "num": 163694,
+        "word": "倪妮看张婧仪的表情",
+        "onboard_time": 1703215353,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159220,
+        "num": 159220,
+        "word": "考研男生憧憬2024拿录取通知书扇扇子",
+        "onboard_time": 1703216494,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149581,
+        "num": 149581,
+        "word": "蛋仔派对微博联动外观",
+        "onboard_time": 1703223094,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147706,
+        "num": 147706,
+        "word": "纸嫁衣6新预告",
+        "onboard_time": 1703221954,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142946,
+        "num": 142946,
+        "word": "相亲中的下头行为",
+        "onboard_time": 1703217695,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142581,
+        "num": 142581,
+        "word": "当地回应女老师被老人开老头乐撞死",
+        "onboard_time": 1703223216,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140722,
+        "num": 140722,
+        "word": "幽门螺杆菌跟胃癌直接相关",
+        "onboard_time": 1703212414,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135058,
+        "num": 135058,
+        "word": "哑舍 刘宇宁",
+        "onboard_time": 1703170063,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134657,
+        "num": 134657,
+        "word": "谢娜 和武艺聊天都不会让我失望",
+        "onboard_time": 1703217214,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#为农业农村发展增动力添活力#"
+    }
+  }
+}
