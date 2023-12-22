@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703273646641,
+  "endTime": 1703276288897,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -16835,6 +16835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34984,
+      "num": 34984,
+      "word": "游戏每日签到",
+      "onboard_time": 1703271496,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34783,
       "num": 247374,
       "word": "星纪元ES的智能座舱有多懂你",
@@ -16955,14 +16963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30529,
-      "num": 30529,
-      "word": "游戏每日签到",
-      "onboard_time": 1703271496,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 30182,
       "num": 213534,
       "word": "星纪元ES 30万内唯一标配空悬",
@@ -17033,6 +17033,14 @@
       "onboard_time": 1702846752,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25017,
+      "num": 25017,
+      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
+      "onboard_time": 1703270656,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 24783,
@@ -17179,12 +17187,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14507,
+      "num": 14507,
+      "word": "游戏版号",
+      "onboard_time": 1703275153,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 14413,
       "num": 20616,
       "word": "2分钟视频回顾2023年",
       "onboard_time": 1703100794,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14137,
+      "num": 14137,
+      "word": "游戏新规最终执行力度或有缓和空间",
+      "onboard_time": 1703274315,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 13518,

@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703273646641,
+  "endTime": 1703276288897,
   "band_list": [
     {
       "raw_hot": 1908289,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 34984,
+      "num": 34984,
+      "word": "游戏每日签到",
+      "onboard_time": 1703271496,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33842,
       "num": 33842,
       "word": "花少团未播花絮",
@@ -491,20 +499,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30529,
-      "num": 30529,
-      "word": "游戏每日签到",
-      "onboard_time": 1703271496,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 29528,
       "num": 29528,
       "word": "2023国产剧王",
       "onboard_time": 1703268201,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25017,
+      "num": 25017,
+      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
+      "onboard_time": 1703270656,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 24863,
@@ -521,6 +529,22 @@
       "onboard_time": 1703273054,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14507,
+      "num": 14507,
+      "word": "游戏版号",
+      "onboard_time": 1703275153,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 14137,
+      "num": 14137,
+      "word": "游戏新规最终执行力度或有缓和空间",
+      "onboard_time": 1703274315,
+      "rank": 47,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
