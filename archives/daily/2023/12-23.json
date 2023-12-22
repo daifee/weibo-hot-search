@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703272424251,
+  "endTime": 1703273646641,
   "band_list": [
     {
       "raw_hot": 1908289,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30529,
+      "num": 30529,
+      "word": "游戏每日签到",
+      "onboard_time": 1703271496,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 29528,
       "num": 29528,
       "word": "2023国产剧王",
@@ -507,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24389,
-      "num": 24389,
-      "word": "游戏每日签到",
-      "onboard_time": 1703271496,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 15154,
+      "num": 15154,
+      "word": "我发现了上班的真相",
+      "onboard_time": 1703273054,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
