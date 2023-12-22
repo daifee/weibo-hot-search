@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703237655344,
+  "endTime": 1703240340505,
   "band_list": [
     {
       "raw_hot": 3761181,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1103601,
+      "num": 1103601,
+      "word": "朱丹回应主持叫错名字",
+      "onboard_time": 1703236834,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1080543,
       "num": 913404,
       "word": "倪妮 新中式羽绒服",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1006403,
+      "num": 627627,
+      "word": "腾讯游戏副总裁回应游戏新规",
+      "onboard_time": 1703238873,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 972357,
       "num": 972357,
       "word": "烧伤消防员刘攀女友官宣怀孕",
@@ -185,6 +201,14 @@
       "onboard_time": 1703237433,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 959289,
+      "num": 959289,
+      "word": "周也 战损妆",
+      "onboard_time": 1703231553,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 949125,
@@ -211,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 877325,
+      "num": 877325,
+      "word": "地震已致148人死亡",
+      "onboard_time": 1703237073,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875807,
       "num": 875807,
       "word": "吃雪糕时掉一块致人摔倒伤残",
       "onboard_time": 1703218714,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 873130,
-      "num": 873130,
-      "word": "周也 战损妆",
-      "onboard_time": 1703231553,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 873080,
@@ -291,14 +315,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 761468,
-      "num": 761468,
-      "word": "地震已致148人死亡",
-      "onboard_time": 1703237073,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 740089,
       "num": 740089,
       "word": "被名字劝退但真上头的小说",
@@ -353,6 +369,14 @@
       "onboard_time": 1703213014,
       "rank": 6,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 691803,
+      "num": 621271,
+      "word": "腾讯港股市值蒸发超3600亿",
+      "onboard_time": 1703237914,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 677201,
@@ -432,6 +456,14 @@
       "word": "地震致青海海东市31人遇难",
       "onboard_time": 1703211573,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544240,
+      "num": 544240,
+      "word": "冬至大如年",
+      "onboard_time": 1703238273,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -521,14 +553,6 @@
       "onboard_time": 1703229215,
       "rank": 40,
       "category": "财经,游戏"
-    },
-    {
-      "raw_hot": 472348,
-      "num": 472348,
-      "word": "朱丹回应主持叫错名字",
-      "onboard_time": 1703236834,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 470647,
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409153,
+      "num": 409153,
+      "word": "刘涛腰线",
+      "onboard_time": 1703238031,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 408032,
       "num": 408032,
       "word": "赵今麦捡起张凌赫的暖宝宝",
@@ -665,6 +697,14 @@
       "onboard_time": 1703230354,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 365010,
+      "num": 365010,
+      "word": "杨幂今年20套高定",
+      "onboard_time": 1703239953,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 364603,
@@ -803,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317811,
+      "num": 317811,
+      "word": "韩剧 京城怪物",
+      "onboard_time": 1703238519,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315634,
       "num": 309050,
       "word": "赵今麦轻熟妆",
@@ -841,6 +889,14 @@
       "onboard_time": 1703202028,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 304267,
+      "num": 1071779,
+      "word": "明天考研我们一研为定",
+      "onboard_time": 1703234495,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 302292,
@@ -939,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277761,
+      "num": 277761,
+      "word": "冬至别熬夜",
+      "onboard_time": 1703239892,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 276082,
       "num": 276082,
       "word": "GenG疑删除道歉声明",
@@ -948,7 +1012,7 @@
     },
     {
       "raw_hot": 275398,
-      "num": 275398,
+      "num": 878993,
       "word": "震区男孩把小猫藏帽子里取暖",
       "onboard_time": 1703225733,
       "rank": 32,
@@ -1067,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229840,
+      "num": 229840,
+      "word": "种地吧 看不过来",
+      "onboard_time": 1703239235,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229653,
       "num": 229653,
       "word": "地震灾区女孩吃面带着微笑却看泪目",
@@ -1097,6 +1169,14 @@
       "onboard_time": 1703214811,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225488,
+      "num": 988631,
+      "word": "外卖箱宝宝一家住新家了",
+      "onboard_time": 1703238633,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221084,
@@ -1259,6 +1339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201964,
+      "num": 201964,
+      "word": "闻会军 一个亿",
+      "onboard_time": 1703240191,
+      "rank": 31,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 201196,
       "num": 201196,
       "word": "男子被判奸杀姐妹入狱21年获无罪",
@@ -1299,12 +1387,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196294,
+      "num": 196294,
+      "word": "赵小童直播",
+      "onboard_time": 1703237677,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195792,
       "num": 195792,
       "word": "圣诞星",
       "onboard_time": 1703161415,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195258,
+      "num": 195258,
+      "word": "买房是人生必要之事吗",
+      "onboard_time": 1703238095,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 195047,
+      "num": 195047,
+      "word": "檀健次跳呱呱呱舞",
+      "onboard_time": 1703240011,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 194773,
@@ -1347,12 +1459,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188472,
+      "num": 188472,
+      "word": "随手分享真的是好事一件",
+      "onboard_time": 1703239175,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188290,
       "num": 188290,
       "word": "2023内娱TOP1",
       "onboard_time": 1703154158,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187573,
+      "num": 187573,
+      "word": "南圆北饺",
+      "onboard_time": 1703238273,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 185647,
@@ -1369,6 +1497,22 @@
       "onboard_time": 1703160817,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185170,
+      "num": 185170,
+      "word": "王栎鑫打了张远一嘴巴",
+      "onboard_time": 1703239653,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184316,
+      "num": 184316,
+      "word": "苏亚雷斯加盟迈阿密国际",
+      "onboard_time": 1703239774,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 182887,
@@ -1427,12 +1571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173912,
+      "num": 173912,
+      "word": "苏醒 没有陈楚生世界都是我的",
+      "onboard_time": 1703239593,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173548,
       "num": 173548,
       "word": "宁远舟落下的泪滴在心头",
       "onboard_time": 1703231972,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172447,
+      "num": 172447,
+      "word": "刘攀",
+      "onboard_time": 1703239831,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172441,
@@ -1459,12 +1619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170579,
+      "num": 170579,
+      "word": "朱丹2024年会主持嘛",
+      "onboard_time": 1703237433,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170427,
       "num": 170427,
       "word": "积石山发生3.0级地震",
       "onboard_time": 1703230053,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170193,
+      "num": 170193,
+      "word": "十个勤天 十八个机位",
+      "onboard_time": 1703240011,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 168625,
@@ -1489,6 +1665,14 @@
       "onboard_time": 1703224833,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165345,
+      "num": 165345,
+      "word": "李路明任清华大学校长",
+      "onboard_time": 1703240135,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 164783,
@@ -1523,6 +1707,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 162778,
+      "num": 162778,
+      "word": "Keria冠军皮肤选烈娜塔",
+      "onboard_time": 1703238519,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162095,
       "num": 162095,
       "word": "冬至文案",
@@ -1539,20 +1731,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160146,
-      "num": 160146,
-      "word": "明天考研我们一研为定",
-      "onboard_time": 1703234495,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 160075,
       "num": 160075,
       "word": "孤独症孩子售自制香肠2天爆单",
       "onboard_time": 1703225074,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159532,
+      "num": 159532,
+      "word": "游戏工委内部人士回应网络游戏新规",
+      "onboard_time": 1703240314,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 159368,
@@ -1609,14 +1801,6 @@
       "onboard_time": 1703221476,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152359,
-      "num": 152359,
-      "word": "朱丹2024年会主持嘛",
-      "onboard_time": 1703237433,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151478,
@@ -2153,6 +2337,14 @@
       "onboard_time": 1703210430,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28088,
+      "num": 551938,
+      "word": "蛋仔他又双叒送了",
+      "onboard_time": 1703239235,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 27324,
