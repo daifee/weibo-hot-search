@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703258240656,
+  "endTime": 1703259262704,
   "band_list": [
     {
       "raw_hot": 3761181,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1112746,
-      "num": 488015,
+      "num": 495311,
       "word": "林一鼻子",
       "onboard_time": 1703253699,
       "rank": 10,
@@ -291,8 +291,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 901401,
-      "num": 901401,
+      "raw_hot": 917355,
+      "num": 917355,
       "word": "游戏公司全员加班紧急修改预上线游戏",
       "onboard_time": 1703255376,
       "rank": 35,
@@ -563,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 641129,
+      "num": 641129,
+      "word": "易烊千玺当评委",
+      "onboard_time": 1703257894,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 611648,
       "num": 611648,
       "word": "杨幂王鹤棣同框",
@@ -619,8 +627,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545970,
-      "num": 545970,
+      "raw_hot": 551066,
+      "num": 551066,
       "word": "杨幂好像一棵圣诞树",
       "onboard_time": 1703256456,
       "rank": 8,
@@ -641,6 +649,14 @@
       "onboard_time": 1703224593,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 542881,
+      "num": 542881,
+      "word": "你终硕",
+      "onboard_time": 1703255074,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 539631,
@@ -763,12 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464195,
-      "num": 464195,
-      "word": "你终硕",
-      "onboard_time": 1703255074,
-      "rank": 27,
-      "category": "教育"
+      "raw_hot": 465865,
+      "num": 465865,
+      "word": "马来西亚卫生部宣布重启新冠隔离",
+      "onboard_time": 1703257832,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461976,
@@ -873,6 +889,14 @@
       "onboard_time": 1703227175,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 424395,
+      "num": 424395,
+      "word": "果郡王浣碧线被剪掉挺多的",
+      "onboard_time": 1703258075,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 414240,
@@ -1155,6 +1179,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 315551,
+      "num": 315551,
+      "word": "刘诗诗 TODS",
+      "onboard_time": 1703258737,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310274,
       "num": 310274,
       "word": "网游出版经营单位不得炒高虚拟道具价格",
@@ -1315,6 +1347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 280852,
+      "num": 280852,
+      "word": "考研预测",
+      "onboard_time": 1703258195,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 279785,
       "num": 279785,
       "word": "吃饺子",
@@ -1427,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256533,
+      "num": 228347,
+      "word": "拉宏桑 在陈奕迅面前唱孤勇者",
+      "onboard_time": 1703258075,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255825,
       "num": 255825,
       "word": "谢娜 和武艺聊天都不会让我失望",
@@ -1491,12 +1539,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238576,
-      "num": 238576,
-      "word": "易烊千玺当评委",
-      "onboard_time": 1703257894,
+      "raw_hot": 237419,
+      "num": 237419,
+      "word": "被老鼠咬后反咬女子室友发声",
+      "onboard_time": 1703258557,
       "rank": 23,
-      "category": "电影"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237132,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1703206536,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234133,
+      "num": 227928,
+      "word": "我知道我爱你定档",
+      "onboard_time": 1703257359,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 233903,
@@ -1625,6 +1681,22 @@
       "onboard_time": 1703218357,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219235,
+      "num": 219235,
+      "word": "十一条要点紧急解读网游新规",
+      "onboard_time": 1703258976,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 218861,
+      "num": 218861,
+      "word": "专家说考研后的人生没有标准答案",
+      "onboard_time": 1703256637,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 216531,
@@ -1803,14 +1875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207782,
-      "num": 207782,
-      "word": "我知道我爱你定档",
-      "onboard_time": 1703257359,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207674,
       "num": 207674,
       "word": "业内人士称不必对游戏新规反应过度",
@@ -1883,6 +1947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 202802,
+      "num": 202802,
+      "word": "考研前一天的心情",
+      "onboard_time": 1703256936,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201196,
       "num": 201196,
       "word": "男子被判奸杀姐妹入狱21年获无罪",
@@ -1923,14 +1995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200097,
-      "num": 200097,
-      "word": "专家说考研后的人生没有标准答案",
-      "onboard_time": 1703256637,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 199207,
       "num": 199207,
       "word": "李路明任清华大学校长",
@@ -1953,14 +2017,6 @@
       "onboard_time": 1703240011,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197384,
-      "num": 197384,
-      "word": "考研前一天的心情",
-      "onboard_time": 1703256936,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 197046,
@@ -2179,22 +2235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177149,
-      "num": 177149,
-      "word": "果郡王浣碧线被剪掉挺多的",
-      "onboard_time": 1703258075,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 176991,
-      "num": 176991,
-      "word": "拉宏桑 在陈奕迅面前唱孤勇者",
-      "onboard_time": 1703258075,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176424,
       "num": 176424,
       "word": "王亚飞给白鹿化的冰透水感妆",
@@ -2283,12 +2323,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172323,
-      "num": 172323,
-      "word": "马来西亚卫生部宣布重启新冠隔离",
-      "onboard_time": 1703257832,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 171563,
+      "num": 171563,
+      "word": "甘露寺美甲",
+      "onboard_time": 1703258913,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 171517,
@@ -2545,14 +2585,6 @@
       "onboard_time": 1703251295,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 150508,
-      "num": 150508,
-      "word": "考研预测",
-      "onboard_time": 1703258195,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 150206,
