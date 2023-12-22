@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/22 23:34:22
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/23 00:21:52
 </p>
 </blockquote>
 <p>
@@ -3573,6 +3573,12 @@ E6（热度：1247213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%80%81%E9%BC%A0%E5%92%AC%E5%90%8E%E5%8F%8D%E5%92%AC%E5%A5%B3%E5%AD%90%E5%AE%A4%E5%8F%8B%E5%8F%91%E5%A3%B0%23" target="weibo">
+被老鼠咬后反咬女子室友发声（热度：1209321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TODS%E8%87%B4%E6%AD%89%23" target="weibo">
 TODS致歉（热度：1206870）
 </a>
@@ -6005,12 +6011,6 @@ GQ员工吐槽 人间真实（热度：818936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87%20%E6%9C%88%E5%BA%95%E5%BC%80%E6%9C%BA%23" target="weibo">
 狐妖小红娘王权篇 月底开机（热度：817814）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E7%BD%91%E7%BA%A2%E5%A6%86%23" target="weibo">
-虞书欣 网红妆（热度：817369）
 </a>
 </li>
 
