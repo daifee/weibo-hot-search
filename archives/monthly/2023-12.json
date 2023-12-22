@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703277253484,
+  "endTime": 1703279711820,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -59891,6 +59891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 34193,
+      "num": 34193,
+      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
+      "onboard_time": 1703270656,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 34113,
       "num": 34113,
       "word": "杨元庆向中科大捐赠2亿元",
@@ -60369,14 +60377,6 @@
       "onboard_time": 1701635892,
       "rank": 33,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 25852,
-      "num": 25852,
-      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
-      "onboard_time": 1703270656,
-      "rank": 23,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 25657,
@@ -60899,6 +60899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16794,
+      "num": 16794,
+      "word": "金星秀国际版",
+      "onboard_time": 1703277915,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16708,
       "num": 16708,
       "word": "王星越躲猫猫的小孩哥",
@@ -61019,20 +61027,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 15314,
+      "num": 15314,
+      "word": "游戏版号",
+      "onboard_time": 1703275153,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15154,
       "num": 15154,
       "word": "我发现了上班的真相",
       "onboard_time": 1703273054,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15004,
-      "num": 15004,
-      "word": "游戏版号",
-      "onboard_time": 1703275153,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 14995,
@@ -61145,6 +61153,14 @@
       "onboard_time": 1701366738,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 12774,
+      "num": 12774,
+      "word": "如何预防幽门螺杆菌",
+      "onboard_time": 1703278994,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12620,

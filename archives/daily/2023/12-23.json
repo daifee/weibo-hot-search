@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703277253484,
+  "endTime": 1703279711820,
   "band_list": [
     {
       "raw_hot": 1908289,
@@ -491,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34193,
+      "num": 34193,
+      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
+      "onboard_time": 1703270656,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 33842,
       "num": 33842,
       "word": "花少团未播花絮",
@@ -507,20 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25852,
-      "num": 25852,
-      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
-      "onboard_time": 1703270656,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 24863,
       "num": 977583,
       "word": "2023年国际舞台上的中国风",
       "onboard_time": 1703253398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16794,
+      "num": 16794,
+      "word": "金星秀国际版",
+      "onboard_time": 1703277915,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15314,
+      "num": 15314,
+      "word": "游戏版号",
+      "onboard_time": 1703275153,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 15154,
@@ -531,20 +547,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15004,
-      "num": 15004,
-      "word": "游戏版号",
-      "onboard_time": 1703275153,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 14137,
       "num": 14137,
       "word": "游戏新规最终执行力度或有缓和空间",
       "onboard_time": 1703274315,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12774,
+      "num": 12774,
+      "word": "如何预防幽门螺杆菌",
+      "onboard_time": 1703278994,
+      "rank": 47,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
