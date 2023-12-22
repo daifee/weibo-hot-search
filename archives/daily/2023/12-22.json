@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703243704931,
+  "endTime": 1703244862938,
   "band_list": [
     {
       "raw_hot": 3761181,
@@ -27,8 +27,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 2032115,
-      "num": 2032115,
+      "raw_hot": 2376611,
+      "num": 2376611,
       "word": "冬至别熬夜",
       "onboard_time": 1703239892,
       "rank": 26,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 957840,
+      "num": 957840,
+      "word": "你是我女儿 怎么可能认不出",
+      "onboard_time": 1703241154,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 949125,
       "num": 949125,
       "word": "虞书欣林一演情侣",
@@ -371,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 709014,
-      "num": 709014,
-      "word": "你是我女儿 怎么可能认不出",
-      "onboard_time": 1703241154,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 707445,
       "num": 707445,
       "word": "秦岚情绪稳定的原因",
@@ -467,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 611648,
+      "num": 611648,
+      "word": "杨幂王鹤棣同框",
+      "onboard_time": 1703243553,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 579841,
       "num": 579841,
       "word": "消防员扒开泥浆找到遇难一家五口",
@@ -491,8 +499,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 544240,
-      "num": 544240,
+      "raw_hot": 546644,
+      "num": 546644,
+      "word": "王源 电子饺子",
+      "onboard_time": 1703243613,
+      "rank": 41,
+      "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 545258,
+      "num": 545258,
       "word": "冬至大如年",
       "onboard_time": 1703238273,
       "rank": 15,
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446244,
+      "num": 446244,
+      "word": "仙剑四 寒假档",
+      "onboard_time": 1703242534,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445330,
       "num": 312796,
       "word": "迪丽热巴瞬间失去表情管理",
@@ -707,20 +731,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382350,
+      "num": 317394,
+      "word": "刘宇喻言撞造型",
+      "onboard_time": 1703243733,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 380098,
       "num": 380098,
       "word": "幽门螺杆菌为啥是致癌物",
       "onboard_time": 1703205757,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 376607,
-      "num": 376607,
-      "word": "仙剑四 寒假档",
-      "onboard_time": 1703242534,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 371343,
@@ -793,6 +817,14 @@
       "onboard_time": 1703232994,
       "rank": 33,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 337543,
+      "num": 337543,
+      "word": "科目三为什么叫科目三",
+      "onboard_time": 1703243491,
+      "rank": 43,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 336688,
@@ -945,6 +977,14 @@
       "onboard_time": 1703222018,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300003,
+      "num": 300003,
+      "word": "何炅加入要久久爱OST",
+      "onboard_time": 1703243491,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 299804,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1703228019,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 261466,
+      "num": 176630,
+      "word": "搜狐时尚盛典",
+      "onboard_time": 1703242834,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 258993,
@@ -1331,6 +1379,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 211659,
+      "num": 211659,
+      "word": "天蝎座认定的事决不放弃",
+      "onboard_time": 1703240913,
+      "rank": 34,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 210511,
       "num": 210511,
       "word": "考研男生憧憬2024拿录取通知书扇扇子",
@@ -1371,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208849,
+      "num": 208849,
+      "word": "网易市值一日蒸发1281亿港元",
+      "onboard_time": 1703243913,
+      "rank": 32,
+      "category": "财经,游戏"
+    },
+    {
       "raw_hot": 208761,
       "num": 208761,
       "word": "科目三",
@@ -1387,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208289,
+      "num": 208289,
+      "word": "南圆北饺",
+      "onboard_time": 1703238273,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208280,
       "num": 208280,
       "word": "刘德华全开麦",
@@ -1401,6 +1473,14 @@
       "onboard_time": 1703236293,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206895,
+      "num": 206895,
+      "word": "直播打赏",
+      "onboard_time": 1703243491,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 205555,
@@ -1457,14 +1537,6 @@
       "onboard_time": 1703202450,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199354,
-      "num": 176630,
-      "word": "搜狐时尚盛典",
-      "onboard_time": 1703242834,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199207,
@@ -1563,20 +1635,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 192478,
-      "num": 192478,
-      "word": "天蝎座认定的事决不放弃",
-      "onboard_time": 1703240913,
-      "rank": 34,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 191670,
       "num": 191670,
       "word": "王宝强回应解克锋邀请其出演寻亲电影",
       "onboard_time": 1703215832,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191234,
+      "num": 191234,
+      "word": "最长的夜晚",
+      "onboard_time": 1703244454,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 189051,
@@ -1601,14 +1673,6 @@
       "onboard_time": 1703154158,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 188078,
-      "num": 188078,
-      "word": "南圆北饺",
-      "onboard_time": 1703238273,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 185854,
@@ -1675,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176684,
-      "num": 176684,
-      "word": "何炅加入要久久爱OST",
-      "onboard_time": 1703243491,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176424,
       "num": 176424,
       "word": "王亚飞给白鹿化的冰透水感妆",
@@ -1691,28 +1747,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 176218,
-      "num": 176218,
-      "word": "杨幂王鹤棣同框",
-      "onboard_time": 1703243553,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 175463,
       "num": 175463,
       "word": "你今年买车厘子了吗",
       "onboard_time": 1703203534,
       "rank": 37,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 175133,
-      "num": 175133,
-      "word": "王源 电子饺子",
-      "onboard_time": 1703243613,
-      "rank": 41,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 174598,
@@ -1771,6 +1811,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 172427,
+      "num": 172427,
+      "word": "冬至 福至",
+      "onboard_time": 1703244693,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171517,
       "num": 171517,
       "word": "天津跳水大爷快乐60秒新招",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1703230053,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168868,
+      "num": 168868,
+      "word": "刘雅瑟说和刘德华搭戏疯狂心动",
+      "onboard_time": 1703244393,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 168625,
@@ -1899,28 +1955,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158678,
-      "num": 158678,
-      "word": "科目三为什么叫科目三",
-      "onboard_time": 1703243491,
-      "rank": 43,
-      "category": "幽默,作品衍生"
-    },
-    {
       "raw_hot": 158567,
       "num": 158567,
       "word": "纸嫁衣6新预告",
       "onboard_time": 1703221954,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157122,
-      "num": 157122,
-      "word": "直播打赏",
-      "onboard_time": 1703243491,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 157058,
