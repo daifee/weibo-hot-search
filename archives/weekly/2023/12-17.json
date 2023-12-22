@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703265347272,
+  "endTime": 1703266456427,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -9179,6 +9179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255839,
+      "num": 255839,
+      "word": "完颜慧德 北大",
+      "onboard_time": 1703264484,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 255825,
       "num": 255825,
       "word": "谢娜 和武艺聊天都不会让我失望",
@@ -14475,6 +14483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153264,
+      "num": 153264,
+      "word": "鹭卓 投票第二",
+      "onboard_time": 1703264244,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152842,
       "num": 152842,
       "word": "法医秦明 三大队的法与情",
@@ -14609,6 +14625,14 @@
       "onboard_time": 1703064815,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150184,
+      "num": 150184,
+      "word": "新疆人说的皮牙子是指什么",
+      "onboard_time": 1703263106,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 149867,
@@ -15299,14 +15323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132955,
-      "num": 132955,
-      "word": "完颜慧德 北大",
-      "onboard_time": 1703264484,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 132940,
       "num": 132940,
       "word": "大江大河之岁月如歌",
@@ -15659,22 +15675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122146,
-      "num": 118169,
-      "word": "新疆人说的皮牙子是指什么",
-      "onboard_time": 1703263106,
-      "rank": 20,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 121969,
-      "num": 118096,
-      "word": "鹭卓 投票第二",
-      "onboard_time": 1703264244,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121896,
       "num": 121896,
       "word": "任如意 恶龙末屠怎敢轻死",
@@ -15971,6 +15971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108553,
+      "num": 108553,
+      "word": "小孩姐直接少走了二十年弯路",
+      "onboard_time": 1703264004,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106321,
       "num": 106321,
       "word": "雪王 香港",
@@ -16129,14 +16137,6 @@
       "onboard_time": 1702886075,
       "rank": 20,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 89399,
-      "num": 89399,
-      "word": "小孩姐直接少走了二十年弯路",
-      "onboard_time": 1703264004,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 89036,
@@ -16401,6 +16401,14 @@
       "onboard_time": 1703153016,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71656,
+      "num": 71656,
+      "word": "网络游戏管理新政影响有多大",
+      "onboard_time": 1703265501,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 71548,
@@ -16721,6 +16729,14 @@
       "onboard_time": 1702872581,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45085,
+      "num": 48221,
+      "word": "侯雯元真人CS身材",
+      "onboard_time": 1703266281,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 44135,
