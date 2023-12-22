@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703223237422,
+  "endTime": 1703226190724,
   "band_list": [
     {
       "raw_hot": 3761181,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1123271,
+      "num": 1123271,
+      "word": "演员于洋回应家中存放大量金砖",
+      "onboard_time": 1703224715,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1080543,
       "num": 913404,
       "word": "倪妮 新中式羽绒服",
@@ -107,8 +115,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1010803,
-      "num": 1010803,
+      "raw_hot": 1036942,
+      "num": 1036942,
+      "word": "北大天才柳智宇还俗后宣布结婚",
+      "onboard_time": 1703223692,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1018369,
+      "num": 1018369,
       "word": "鹿晗 抽卡",
       "onboard_time": 1703222075,
       "rank": 36,
@@ -123,8 +139,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 894100,
-      "num": 894100,
+      "raw_hot": 896271,
+      "num": 896271,
       "word": "杨丽萍团队跳科目三",
       "onboard_time": 1703219437,
       "rank": 33,
@@ -169,6 +185,14 @@
       "onboard_time": 1703166040,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 805205,
+      "num": 805205,
+      "word": "当地回应女老师被老人开老头乐撞死",
+      "onboard_time": 1703223216,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 804365,
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 651745,
+      "num": 651745,
+      "word": "腾讯跌超6%",
+      "onboard_time": 1703222913,
+      "rank": 30,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 646324,
       "num": 646324,
       "word": "所有网络游戏须设置用户充值限额",
@@ -283,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555383,
+      "num": 555383,
+      "word": "游戏",
+      "onboard_time": 1703221834,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 544124,
       "num": 544124,
       "word": "微信上线吃饺子汤圆限定状态",
@@ -307,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511502,
+      "num": 511502,
+      "word": "丫丫养的小鸟肉眼可见的胖了",
+      "onboard_time": 1703219317,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498412,
       "num": 498412,
       "word": "TODS 肖战",
@@ -321,14 +369,6 @@
       "onboard_time": 1703200344,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 494751,
-      "num": 494751,
-      "word": "游戏",
-      "onboard_time": 1703221834,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 482308,
@@ -363,6 +403,22 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 453601,
+      "num": 453601,
+      "word": "况盛",
+      "onboard_time": 1703223390,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 447987,
+      "num": 447987,
+      "word": "网易股价跌超20%",
+      "onboard_time": 1703224471,
+      "rank": 15,
+      "category": "财经,游戏"
+    },
+    {
       "raw_hot": 446787,
       "num": 446787,
       "word": "迪丽热巴也逃不过发光鞋",
@@ -379,22 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423341,
-      "num": 423341,
-      "word": "丫丫养的小鸟肉眼可见的胖了",
-      "onboard_time": 1703219317,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 414601,
-      "num": 223416,
-      "word": "腾讯跌超6%",
-      "onboard_time": 1703222913,
-      "rank": 30,
-      "category": "财经,互联网"
-    },
-    {
       "raw_hot": 409431,
       "num": 409431,
       "word": "大二女生卖男士保暖衣月入两万",
@@ -409,6 +449,14 @@
       "onboard_time": 1703203413,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393239,
+      "num": 393239,
+      "word": "孟羽童曾称要学会反向引导领导",
+      "onboard_time": 1703224593,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 380098,
@@ -481,6 +529,14 @@
       "onboard_time": 1703207734,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 335208,
+      "num": 335208,
+      "word": "A股",
+      "onboard_time": 1703222672,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 330995,
@@ -595,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286999,
+      "num": 286999,
+      "word": "湖南卫视跨年晚会第二波阵容",
+      "onboard_time": 1703224955,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285764,
       "num": 285764,
       "word": "网络游戏管理办法草案",
@@ -659,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264214,
-      "num": 264214,
-      "word": "A股",
-      "onboard_time": 1703222672,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 258993,
       "num": 258993,
       "word": "冬至前日乾清宫5条金龙依次被照亮",
@@ -723,12 +779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239088,
+      "num": 239088,
+      "word": "被名字劝退但真上头的小说",
+      "onboard_time": 1703223933,
+      "rank": 24,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 237132,
       "num": 237132,
       "word": "第一批回家过年的人开始赶大集了",
       "onboard_time": 1703206536,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233903,
+      "num": 202558,
+      "word": "蛋仔派对微博联动外观",
+      "onboard_time": 1703223094,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 229653,
@@ -771,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219773,
+      "num": 219773,
+      "word": "小猫咪以为自己也是洗发水",
+      "onboard_time": 1703224354,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216037,
       "num": 216037,
       "word": "余震后小猫安心躲进消防员帽子",
@@ -811,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209411,
+      "num": 209411,
+      "word": "丁晟 相信杨幂会带来惊喜",
+      "onboard_time": 1703224894,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209113,
       "num": 209113,
       "word": "刘浩存林一脱轨吻戏",
@@ -833,6 +921,22 @@
       "onboard_time": 1703222734,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207961,
+      "num": 207961,
+      "word": "林一女主运",
+      "onboard_time": 1703225315,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205555,
+      "num": 205555,
+      "word": "快乐老友记",
+      "onboard_time": 1703225016,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 203586,
@@ -907,6 +1011,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189950,
+      "num": 189950,
+      "word": "震区男孩把小猫藏帽子里取暖",
+      "onboard_time": 1703225733,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188949,
+      "num": 188949,
+      "word": "帕梅拉 听说科目三风靡全球了",
+      "onboard_time": 1703225973,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 188290,
       "num": 188290,
       "word": "2023内娱TOP1",
@@ -937,6 +1057,14 @@
       "onboard_time": 1703209411,
       "rank": 35,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 182275,
+      "num": 182275,
+      "word": "光腿神器是怎么变成美丽刑具的",
+      "onboard_time": 1703220097,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 180697,
@@ -1019,6 +1147,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160302,
+      "num": 160302,
+      "word": "恋与复古摩登大片",
+      "onboard_time": 1703225253,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 160075,
+      "num": 160075,
+      "word": "孤独症孩子售自制香肠2天爆单",
+      "onboard_time": 1703225074,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159368,
       "num": 193445,
       "word": "vivo称手机行业正从寒冬复苏",
@@ -1041,6 +1185,14 @@
       "onboard_time": 1703221954,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157334,
+      "num": 157334,
+      "word": "秦岚迪丽热巴海边合照",
+      "onboard_time": 1703224833,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 157058,
@@ -1091,14 +1243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149581,
-      "num": 149581,
-      "word": "蛋仔派对微博联动外观",
-      "onboard_time": 1703223094,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 148361,
       "num": 148361,
       "word": "完颜慧德走红后的烦恼",
@@ -1139,12 +1283,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 142581,
-      "num": 142581,
-      "word": "当地回应女老师被老人开老头乐撞死",
-      "onboard_time": 1703223216,
+      "raw_hot": 143288,
+      "num": 143288,
+      "word": "文科生的隐形副业",
+      "onboard_time": 1703226032,
       "rank": 46,
-      "category": "社会新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 142260,
@@ -1161,6 +1305,14 @@
       "onboard_time": 1703203534,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 138789,
+      "num": 138789,
+      "word": "妆效差可能是因为缺水",
+      "onboard_time": 1703225854,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 137553,
@@ -1187,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132783,
+      "num": 132783,
+      "word": "网络游戏测试人数不得超过2万",
+      "onboard_time": 1703224172,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132658,
       "num": 132658,
       "word": "摩羯座生日快乐",
@@ -1209,6 +1369,14 @@
       "onboard_time": 1703210733,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129376,
+      "num": 129376,
+      "word": "网络游戏直播不得出现未成年人打赏情况",
+      "onboard_time": 1703224112,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 128685,
@@ -1385,6 +1553,14 @@
       "onboard_time": 1703173474,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83567,
+      "num": 157927,
+      "word": "蛋仔派对大耳狗",
+      "onboard_time": 1703225616,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 76518,
