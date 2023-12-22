@@ -1,0 +1,410 @@
+{
+  "runTime": 1703208901071,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1902775,
+        "num": 1902775,
+        "word": "电商收到退货穿黑磨损的雪地靴",
+        "onboard_time": 1703203714,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146172,
+        "num": 1146172,
+        "word": "冬至",
+        "onboard_time": 1703171142,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28848,
+        "num": 897203,
+        "word": "你的肩膀我的依靠",
+        "onboard_time": 1703150796,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883774,
+        "num": 883774,
+        "word": "11时27分迎来冬至节气",
+        "onboard_time": 1703207914,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795832,
+        "num": 795832,
+        "word": "女子花7元打特惠车被司机嘲讽一路",
+        "onboard_time": 1703201786,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714755,
+        "num": 714755,
+        "word": "吴宣仪 我是男人的话一定追钟楚曦",
+        "onboard_time": 1703207376,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714439,
+        "num": 714439,
+        "word": "倪妮 新中式羽绒服",
+        "onboard_time": 1703172163,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676465,
+        "num": 676465,
+        "word": "赵露思替身发文",
+        "onboard_time": 1703169941,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594614,
+        "num": 594614,
+        "word": "哑舍 刘宇宁",
+        "onboard_time": 1703170063,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 636924,
+        "num": 590838,
+        "word": "北京地铁1号线发生供电设备故障",
+        "onboard_time": 1703206297,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286740,
+        "num": 587313,
+        "word": "涉事医生回应手术时捶压老人头部",
+        "onboard_time": 1703186235,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594856,
+        "num": 585917,
+        "word": "赵今麦 化妆师",
+        "onboard_time": 1703200644,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583722,
+        "num": 583722,
+        "word": "微博之夜 投票",
+        "onboard_time": 1703205094,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 557910,
+        "num": 557910,
+        "word": "谷爱凌收入排名女运动员第二位",
+        "onboard_time": 1703202328,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430087,
+        "num": 430087,
+        "word": "杭州孕妈一颗草莓下肚口吐鲜血",
+        "onboard_time": 1703162859,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402568,
+        "num": 402568,
+        "word": "迪丽热巴也逃不过发光鞋",
+        "onboard_time": 1703202991,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380098,
+        "num": 380098,
+        "word": "幽门螺杆菌为啥是致癌物",
+        "onboard_time": 1703205757,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 376904,
+        "num": 376904,
+        "word": "今天冬至踩踩小人",
+        "onboard_time": 1703206595,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366280,
+        "num": 366280,
+        "word": "爱尔眼科集团通报",
+        "onboard_time": 1703200884,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72967,
+        "num": 358167,
+        "word": "vivoS18成年轻人热门新年礼",
+        "onboard_time": 1703207255,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 357613,
+        "num": 357613,
+        "word": "管泽元",
+        "onboard_time": 1703203954,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 351109,
+        "num": 351109,
+        "word": "当你的真名很像网名时",
+        "onboard_time": 1703200344,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336501,
+        "num": 336501,
+        "word": "AppleWatch禁令美国落地",
+        "onboard_time": 1703207734,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 321161,
+        "num": 321161,
+        "word": "7小时睡眠或降低死亡率",
+        "onboard_time": 1703165437,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319467,
+        "num": 319467,
+        "word": "个税专项附加扣除信息确认即将截止",
+        "onboard_time": 1703201425,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310696,
+        "num": 310696,
+        "word": "赵今麦捡起张凌赫的暖宝宝",
+        "onboard_time": 1703203413,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285656,
+        "num": 285656,
+        "word": "鹭卓 投票",
+        "onboard_time": 1703205274,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251790,
+        "num": 251790,
+        "word": "张婧仪 财阀千金",
+        "onboard_time": 1703161835,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248299,
+        "num": 248299,
+        "word": "女孩零下18度光手跑步险截肢",
+        "onboard_time": 1703170180,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238894,
+        "num": 238894,
+        "word": "女子身份被冒用头胎竟变二胎",
+        "onboard_time": 1703207136,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235763,
+        "num": 235763,
+        "word": "大爷一句话伤害了三位年轻人",
+        "onboard_time": 1703202028,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231643,
+        "num": 231643,
+        "word": "倪妮工作室",
+        "onboard_time": 1703202570,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216037,
+        "num": 216037,
+        "word": "余震后小猫安心躲进消防员帽子",
+        "onboard_time": 1703207196,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215806,
+        "num": 215806,
+        "word": "存款利率年内第三次下调",
+        "onboard_time": 1703208094,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206118,
+        "num": 206118,
+        "word": "天涯创始人称明年重启",
+        "onboard_time": 1703204555,
+        "rank": 34,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 200606,
+        "num": 200606,
+        "word": "GenG疑删除道歉声明",
+        "onboard_time": 1703170123,
+        "rank": 35,
+        "category": "电竞,社会新闻"
+      },
+      {
+        "raw_hot": 196740,
+        "num": 196740,
+        "word": "难听",
+        "onboard_time": 1703166040,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189250,
+        "num": 189250,
+        "word": "第一批回家过年的人开始赶大集了",
+        "onboard_time": 1703206536,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181244,
+        "num": 181244,
+        "word": "吃饺子是为了纪念谁",
+        "onboard_time": 1703208513,
+        "rank": 38,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 172441,
+        "num": 172441,
+        "word": "李晨 我不是明星是文艺工作者",
+        "onboard_time": 1703180898,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171885,
+        "num": 171885,
+        "word": "丫丫狂炫冬至美食",
+        "onboard_time": 1703208573,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163289,
+        "num": 163289,
+        "word": "宇宙中的圣诞树",
+        "onboard_time": 1703208632,
+        "rank": 41,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 152945,
+        "num": 152945,
+        "word": "这个拥抱真的可能改变孩子一生",
+        "onboard_time": 1703205816,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150821,
+        "num": 150821,
+        "word": "迪丽热巴瞬间失去表情管理",
+        "onboard_time": 1703168860,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150018,
+        "num": 150018,
+        "word": "周杰伦的调调",
+        "onboard_time": 1703171981,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149669,
+        "num": 149669,
+        "word": "2024一研为定",
+        "onboard_time": 1703205935,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 149325,
+        "num": 149325,
+        "word": "冬至文案",
+        "onboard_time": 1703206232,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141357,
+        "num": 141357,
+        "word": "25岁姑娘评上人才获100万补贴在杭独立买房",
+        "onboard_time": 1703162738,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138427,
+        "num": 138427,
+        "word": "你今年买车厘子了吗",
+        "onboard_time": 1703203534,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 136818,
+        "num": 136818,
+        "word": "杀夫藏尸冰柜案未当庭宣判",
+        "onboard_time": 1703202450,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#农业现代化关键是农业科技现代化#"
+    }
+  }
+}
