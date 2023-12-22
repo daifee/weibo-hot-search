@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703284444257,
+  "endTime": 1703287099249,
   "band_list": [
     {
       "raw_hot": 1908289,
@@ -83,6 +83,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 476031,
+      "num": 476031,
+      "word": "流量褪去后的淄博",
+      "onboard_time": 1703280134,
+      "rank": 24,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 459195,
       "num": 322533,
       "word": "不要再玩大冰梗了好吗 好的",
@@ -115,20 +123,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 336807,
+      "num": 336807,
+      "word": "泥浆中紧护孩子的姑姑怀有身孕",
+      "onboard_time": 1703261012,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330382,
       "num": 330382,
       "word": "杨幂好像一棵圣诞树",
       "onboard_time": 1703256456,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 307909,
-      "num": 307909,
-      "word": "泥浆中紧护孩子的姑姑怀有身孕",
-      "onboard_time": 1703261012,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305532,
@@ -155,6 +163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 247429,
+      "num": 247429,
+      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
+      "onboard_time": 1703270656,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 235105,
       "num": 235105,
       "word": "警方回应4岁女童被3只狗撕咬",
@@ -163,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229174,
+      "num": 229174,
+      "word": "幽门螺杆菌感染后往往无症状",
+      "onboard_time": 1703281154,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 227183,
       "num": 227183,
       "word": "考研预测",
       "onboard_time": 1703258195,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 223959,
-      "num": 223959,
-      "word": "流量褪去后的淄博",
-      "onboard_time": 1703280134,
-      "rank": 24,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 214487,
@@ -323,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135869,
+      "num": 135869,
+      "word": "昏迷男子听周杰伦歌时突然打节拍",
+      "onboard_time": 1703267418,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 131448,
       "num": 131448,
       "word": "宋亚轩刘涛郑恺演冰麒麟",
@@ -427,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105373,
-      "num": 105373,
-      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
-      "onboard_time": 1703270656,
-      "rank": 23,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 105276,
       "num": 105276,
       "word": "刘芸走红毯贴了70个暖宝宝",
@@ -475,20 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95462,
-      "num": 95462,
-      "word": "幽门螺杆菌感染后往往无症状",
-      "onboard_time": 1703281154,
-      "rank": 12,
-      "category": "健康医疗"
+      "raw_hot": 96106,
+      "num": 96106,
+      "word": "决战考研",
+      "onboard_time": 1703281875,
+      "rank": 31,
+      "category": "教育"
     },
     {
-      "raw_hot": 91016,
-      "num": 91016,
-      "word": "昏迷男子听周杰伦歌时突然打节拍",
-      "onboard_time": 1703267418,
-      "rank": 18,
-      "category": "社会新闻,艺人"
+      "raw_hot": 65458,
+      "num": 65458,
+      "word": "我妈年轻的时候吃的太好了",
+      "onboard_time": 1703284155,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 55644,
@@ -499,6 +515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 52146,
+      "num": 52146,
+      "word": "考研 没睡着",
+      "onboard_time": 1703286862,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 45085,
       "num": 48221,
       "word": "侯雯元真人CS身材",
@@ -507,12 +531,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 40092,
-      "num": 40092,
-      "word": "决战考研",
-      "onboard_time": 1703281875,
-      "rank": 31,
+      "raw_hot": 41827,
+      "num": 41827,
+      "word": "50岁女子哭着讲述砂涌逃生",
+      "onboard_time": 1703286560,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39931,
+      "num": 39931,
+      "word": "广州不强制要求学生穿校服返校",
+      "onboard_time": 1703286862,
+      "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 35902,
+      "num": 35902,
+      "word": "郑强不再担任太原理工大学党委书记",
+      "onboard_time": 1703287040,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34984,
@@ -545,14 +585,6 @@
       "onboard_time": 1703253398,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19331,
-      "num": 19331,
-      "word": "我妈年轻的时候吃的太好了",
-      "onboard_time": 1703284155,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 18103,
@@ -601,6 +633,14 @@
       "onboard_time": 1703278994,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 3058,
+      "num": 395604,
+      "word": "神十七航天员圆满完成首次出舱任务",
+      "onboard_time": 1703168681,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
