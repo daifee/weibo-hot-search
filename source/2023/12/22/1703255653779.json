@@ -1,0 +1,410 @@
+{
+  "runTime": 1703255653779,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2593806,
+        "num": 2593806,
+        "word": "冬至别熬夜",
+        "onboard_time": 1703239892,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1776714,
+        "num": 1776714,
+        "word": "郑晓龙 甄嬛传完整版在准备了",
+        "onboard_time": 1703249674,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 56167,
+        "num": 893605,
+        "word": "2023年国际舞台上的中国风",
+        "onboard_time": 1703253398,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869297,
+        "num": 869297,
+        "word": "第一次见男明星耍帅甩羽绒服",
+        "onboard_time": 1703251115,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 668579,
+        "num": 668579,
+        "word": "迪丽热巴 神女的圣火",
+        "onboard_time": 1703247996,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 643625,
+        "num": 643625,
+        "word": "高铁乘务员心脏骤停一下来了3位医生",
+        "onboard_time": 1703253699,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589317,
+        "num": 589317,
+        "word": "娄艺潇 战国袍",
+        "onboard_time": 1703247273,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 542600,
+        "num": 542600,
+        "word": "饺子 售罄",
+        "onboard_time": 1703248594,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 494813,
+        "num": 494813,
+        "word": "警方回应4岁女童被3只狗撕咬",
+        "onboard_time": 1703253760,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435101,
+        "num": 435101,
+        "word": "与恶魔有约",
+        "onboard_time": 1703253760,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1080517,
+        "num": 435066,
+        "word": "林一鼻子",
+        "onboard_time": 1703253699,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 506853,
+        "num": 431678,
+        "word": "杨幂穿浴袍吃饺子",
+        "onboard_time": 1703251714,
+        "rank": 11,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 410330,
+        "num": 410330,
+        "word": "考研 一研为定",
+        "onboard_time": 1703254117,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 395029,
+        "num": 395029,
+        "word": "刘浩存穿光腿神器了吗",
+        "onboard_time": 1703253157,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 384707,
+        "num": 384707,
+        "word": "冬至大如年",
+        "onboard_time": 1703238273,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366143,
+        "num": 366143,
+        "word": "娜扎 异域玫瑰",
+        "onboard_time": 1703245114,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 365533,
+        "num": 365533,
+        "word": "科目三为什么叫科目三",
+        "onboard_time": 1703243491,
+        "rank": 16,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 353410,
+        "num": 353410,
+        "word": "一战成硕",
+        "onboard_time": 1703254297,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 342690,
+        "num": 342690,
+        "word": "腾讯游戏副总裁回应游戏新规",
+        "onboard_time": 1703238873,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338468,
+        "num": 338468,
+        "word": "杨幂今年20套高定",
+        "onboard_time": 1703239953,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315626,
+        "num": 315626,
+        "word": "陈梦0比3李雅可",
+        "onboard_time": 1703251593,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308955,
+        "num": 308955,
+        "word": "韩国人在首尔买房须不吃不喝15.2年",
+        "onboard_time": 1703233474,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 282451,
+        "num": 282451,
+        "word": "肖战冬至侧颜",
+        "onboard_time": 1703247634,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280960,
+        "num": 280960,
+        "word": "饺子派 汤圆派",
+        "onboard_time": 1703254535,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 274745,
+        "num": 274745,
+        "word": "TODS致歉",
+        "onboard_time": 1703245534,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 266600,
+        "num": 266600,
+        "word": "长期不吃肉身体会发生什么变化",
+        "onboard_time": 1703247395,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259240,
+        "num": 259240,
+        "word": "过膝袜 秋裤",
+        "onboard_time": 1703253093,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 256069,
+        "num": 256069,
+        "word": "你终硕",
+        "onboard_time": 1703255074,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252652,
+        "num": 252652,
+        "word": "女生洗头都是有规划的",
+        "onboard_time": 1703252556,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175614,
+        "num": 250729,
+        "word": "地震已致148人死亡",
+        "onboard_time": 1703237073,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249056,
+        "num": 249056,
+        "word": "周琦受伤",
+        "onboard_time": 1703251656,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233310,
+        "num": 233310,
+        "word": "网易市值一日蒸发1281亿港元",
+        "onboard_time": 1703243913,
+        "rank": 31,
+        "category": "财经,游戏"
+      },
+      {
+        "raw_hot": 231818,
+        "num": 231818,
+        "word": "杨幂王鹤棣同框",
+        "onboard_time": 1703243553,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 231707,
+        "num": 231707,
+        "word": "王源 电子饺子",
+        "onboard_time": 1703243613,
+        "rank": 33,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 230624,
+        "num": 230624,
+        "word": "刘雅瑟 纯元皇后潜行版",
+        "onboard_time": 1703250935,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215640,
+        "num": 215640,
+        "word": "游戏公司全员加班紧急修改预上线游戏",
+        "onboard_time": 1703255376,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208870,
+        "num": 208870,
+        "word": "港风 郭晓婷的舒适区",
+        "onboard_time": 1703252976,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207674,
+        "num": 207674,
+        "word": "业内人士称不必对游戏新规反应过度",
+        "onboard_time": 1703255138,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205426,
+        "num": 205426,
+        "word": "搜狐盛典生图",
+        "onboard_time": 1703254596,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194534,
+        "num": 194534,
+        "word": "珍惜粮食有哪些日常好习惯",
+        "onboard_time": 1703254778,
+        "rank": 39,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 190747,
+        "num": 190747,
+        "word": "刘宇喻言撞造型",
+        "onboard_time": 1703243733,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177736,
+        "num": 177736,
+        "word": "刘芸走红毯贴了70个暖宝宝",
+        "onboard_time": 1703231016,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170389,
+        "num": 170389,
+        "word": "三大队剧版",
+        "onboard_time": 1703249733,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154595,
+        "num": 154595,
+        "word": "再背一遍肖四",
+        "onboard_time": 1703250154,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153188,
+        "num": 153188,
+        "word": "校服必须外穿学生肿成轮胎人",
+        "onboard_time": 1703246555,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150941,
+        "num": 150941,
+        "word": "22岁女老师被7旬老人开老头乐撞死",
+        "onboard_time": 1703216253,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148545,
+        "num": 148545,
+        "word": "神隐第25集好一把大刀",
+        "onboard_time": 1703252195,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141574,
+        "num": 141574,
+        "word": "守护甜心 偶像主题周边",
+        "onboard_time": 1703254055,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 141240,
+        "num": 141240,
+        "word": "期末周",
+        "onboard_time": 1703255616,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141029,
+        "num": 141029,
+        "word": "你是我女儿 怎么可能认不出",
+        "onboard_time": 1703241154,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升乡村产业富民水平#"
+    }
+  }
+}
