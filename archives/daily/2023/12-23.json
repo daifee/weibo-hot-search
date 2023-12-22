@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703287099249,
+  "endTime": 1703288084175,
   "band_list": [
     {
       "raw_hot": 1908289,
@@ -83,8 +83,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 476031,
-      "num": 476031,
+      "raw_hot": 525819,
+      "num": 525819,
       "word": "流量褪去后的淄博",
       "onboard_time": 1703280134,
       "rank": 24,
@@ -123,8 +123,16 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 336807,
-      "num": 336807,
+      "raw_hot": 354703,
+      "num": 354703,
+      "word": "考研 没睡着",
+      "onboard_time": 1703286862,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 339227,
+      "num": 339227,
       "word": "泥浆中紧护孩子的姑姑怀有身孕",
       "onboard_time": 1703261012,
       "rank": 30,
@@ -147,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284220,
+      "num": 284220,
+      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
+      "onboard_time": 1703270656,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 269300,
       "num": 269300,
       "word": "你终硕",
@@ -155,20 +171,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 255839,
-      "num": 255839,
+      "raw_hot": 262779,
+      "num": 262779,
       "word": "完颜慧德 北大",
       "onboard_time": 1703264484,
       "rank": 16,
       "category": "网红"
     },
     {
-      "raw_hot": 247429,
-      "num": 247429,
-      "word": "家长买500斤融雪剂深夜铲除校门口积冰",
-      "onboard_time": 1703270656,
-      "rank": 23,
-      "category": "社会新闻,教育"
+      "raw_hot": 236828,
+      "num": 236828,
+      "word": "幽门螺杆菌感染后往往无症状",
+      "onboard_time": 1703281154,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 235105,
@@ -179,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229174,
-      "num": 229174,
-      "word": "幽门螺杆菌感染后往往无症状",
-      "onboard_time": 1703281154,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 227183,
       "num": 227183,
       "word": "考研预测",
       "onboard_time": 1703258195,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 220459,
+      "num": 220459,
+      "word": "郑强不再担任太原理工大学党委书记",
+      "onboard_time": 1703287040,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214487,
@@ -257,6 +273,22 @@
       "onboard_time": 1703254117,
       "rank": 27,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 164179,
+      "num": 164179,
+      "word": "昏迷男子听周杰伦歌时突然打节拍",
+      "onboard_time": 1703267418,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 162887,
+      "num": 162887,
+      "word": "考研第一天",
+      "onboard_time": 1703287463,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 160968,
@@ -339,14 +371,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 135869,
-      "num": 135869,
-      "word": "昏迷男子听周杰伦歌时突然打节拍",
-      "onboard_time": 1703267418,
-      "rank": 18,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 131448,
       "num": 131448,
       "word": "宋亚轩刘涛郑恺演冰麒麟",
@@ -395,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120450,
+      "num": 120450,
+      "word": "未成年人游戏时长处于历史最低水平",
+      "onboard_time": 1703287220,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119459,
       "num": 119459,
       "word": "腾讯加码单日回购10亿港元",
@@ -417,6 +449,14 @@
       "onboard_time": 1703253093,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 111251,
+      "num": 73923,
+      "word": "女生称公交上被男子多次用下身摩擦",
+      "onboard_time": 1703287583,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109776,
@@ -459,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 102654,
+      "num": 102654,
+      "word": "江晓媛跳楼",
+      "onboard_time": 1703287281,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99833,
       "num": 99833,
       "word": "与恶魔有约",
@@ -499,6 +547,38 @@
       "category": "教育"
     },
     {
+      "raw_hot": 92727,
+      "num": 73866,
+      "word": "薛之谦曾为蔡文静片场发飙",
+      "onboard_time": 1703287762,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 72772,
+      "num": 72772,
+      "word": "50岁女子哭着讲述砂涌逃生",
+      "onboard_time": 1703286560,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71090,
+      "num": 71090,
+      "word": "广州不强制要求学生穿校服返校",
+      "onboard_time": 1703286862,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 68600,
+      "num": 68600,
+      "word": "曼城4比0弗鲁米嫩塞",
+      "onboard_time": 1703287343,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65458,
       "num": 65458,
       "word": "我妈年轻的时候吃的太好了",
@@ -515,44 +595,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 52146,
-      "num": 52146,
-      "word": "考研 没睡着",
-      "onboard_time": 1703286862,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 45085,
       "num": 48221,
       "word": "侯雯元真人CS身材",
       "onboard_time": 1703266281,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41827,
-      "num": 41827,
-      "word": "50岁女子哭着讲述砂涌逃生",
-      "onboard_time": 1703286560,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39931,
-      "num": 39931,
-      "word": "广州不强制要求学生穿校服返校",
-      "onboard_time": 1703286862,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 35902,
-      "num": 35902,
-      "word": "郑强不再担任太原理工大学党委书记",
-      "onboard_time": 1703287040,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34984,
@@ -635,8 +683,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 3058,
-      "num": 395604,
+      "raw_hot": 4311,
+      "num": 511435,
       "word": "神十七航天员圆满完成首次出舱任务",
       "onboard_time": 1703168681,
       "rank": 2,
