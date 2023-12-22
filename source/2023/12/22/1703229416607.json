@@ -1,0 +1,410 @@
+{
+  "runTime": 1703229416607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1943888,
+        "num": 1943888,
+        "word": "演员于洋回应家中存放大量金砖",
+        "onboard_time": 1703224715,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1738230,
+        "num": 1738230,
+        "word": "22岁女老师被7旬老人开老头乐撞死",
+        "onboard_time": 1703216253,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25319,
+        "num": 1371139,
+        "word": "冬至愿美好如约而至",
+        "onboard_time": 1703200463,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252036,
+        "num": 1252036,
+        "word": "游戏",
+        "onboard_time": 1703221834,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1223619,
+        "num": 1223619,
+        "word": "建议冬至放一天假的理由",
+        "onboard_time": 1703218055,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970487,
+        "num": 970487,
+        "word": "帕梅拉 听说科目三风靡全球了",
+        "onboard_time": 1703225973,
+        "rank": 5,
+        "category": "运动健身,作品衍生"
+      },
+      {
+        "raw_hot": 718154,
+        "num": 718154,
+        "word": "杨丽萍团队跳科目三",
+        "onboard_time": 1703219437,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 687925,
+        "num": 687925,
+        "word": "北大天才柳智宇还俗后宣布结婚",
+        "onboard_time": 1703223692,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675444,
+        "num": 675444,
+        "word": "鹿晗 抽卡",
+        "onboard_time": 1703222075,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628859,
+        "num": 628859,
+        "word": "被名字劝退但真上头的小说",
+        "onboard_time": 1703223933,
+        "rank": 9,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 568550,
+        "num": 568550,
+        "word": "消防员扒开泥浆找到遇难一家五口",
+        "onboard_time": 1703227232,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514528,
+        "num": 514528,
+        "word": "网易股价跌超20%",
+        "onboard_time": 1703224471,
+        "rank": 11,
+        "category": "财经,游戏"
+      },
+      {
+        "raw_hot": 468068,
+        "num": 468068,
+        "word": "上个班没必要扭扭捏捏",
+        "onboard_time": 1703214030,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 435369,
+        "num": 435369,
+        "word": "丁晟 相信杨幂会带来惊喜",
+        "onboard_time": 1703224894,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434731,
+        "num": 434731,
+        "word": "羊肉汤",
+        "onboard_time": 1703227175,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 369046,
+        "num": 369046,
+        "word": "丫丫养的小鸟肉眼可见的胖了",
+        "onboard_time": 1703219317,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326844,
+        "num": 326844,
+        "word": "吃雪糕时掉一块致人摔倒伤残",
+        "onboard_time": 1703218714,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311012,
+        "num": 311012,
+        "word": "当地回应女老师被老人开老头乐撞死",
+        "onboard_time": 1703223216,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275398,
+        "num": 275398,
+        "word": "震区男孩把小猫藏帽子里取暖",
+        "onboard_time": 1703225733,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275290,
+        "num": 275290,
+        "word": "况盛",
+        "onboard_time": 1703223390,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 544020,
+        "num": 274032,
+        "word": "孟羽童曾称要学会反向引导领导",
+        "onboard_time": 1703224593,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 263761,
+        "num": 263761,
+        "word": "40款进口游戏获批",
+        "onboard_time": 1703228019,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250917,
+        "num": 250917,
+        "word": "文科生的隐形副业",
+        "onboard_time": 1703226032,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238965,
+        "num": 238965,
+        "word": "伊能静 演员是幸运也是孤独的",
+        "onboard_time": 1703228133,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235379,
+        "num": 235379,
+        "word": "安慕希 白鹿",
+        "onboard_time": 1703212711,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234813,
+        "num": 234813,
+        "word": "腾讯跌超6%",
+        "onboard_time": 1703222913,
+        "rank": 25,
+        "category": "财经,游戏"
+      },
+      {
+        "raw_hot": 228906,
+        "num": 228906,
+        "word": "湖南卫视跨年晚会第二波阵容",
+        "onboard_time": 1703224955,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220516,
+        "num": 220516,
+        "word": "小猫咪以为自己也是洗发水",
+        "onboard_time": 1703224354,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217244,
+        "num": 217244,
+        "word": "范迪塞尔被控性侵",
+        "onboard_time": 1703210133,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213481,
+        "num": 213481,
+        "word": "所有网络游戏须设置用户充值限额",
+        "onboard_time": 1703217514,
+        "rank": 29,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 375673,
+        "num": 212847,
+        "word": "当大我八岁哥哥有了自己微信",
+        "onboard_time": 1703228732,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209281,
+        "num": 209281,
+        "word": "环球偶遇鸣龙少年",
+        "onboard_time": 1703228915,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194773,
+        "num": 194773,
+        "word": "时代少年团加盟湖南跨年晚会",
+        "onboard_time": 1703228554,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193618,
+        "num": 193618,
+        "word": "林一女主运",
+        "onboard_time": 1703225315,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191481,
+        "num": 191481,
+        "word": "A股",
+        "onboard_time": 1703222672,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186261,
+        "num": 186261,
+        "word": "TODS 肖战",
+        "onboard_time": 1703216914,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 176657,
+        "num": 176657,
+        "word": "网剧冬至",
+        "onboard_time": 1703215532,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100123,
+        "num": 167047,
+        "word": "绅士是种稀缺资源",
+        "onboard_time": 1703229035,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163649,
+        "num": 163649,
+        "word": "跳水掰掰说有3700多退休金够用了",
+        "onboard_time": 1703228435,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163009,
+        "num": 163009,
+        "word": "虞书欣林一演情侣",
+        "onboard_time": 1703213669,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160376,
+        "num": 160376,
+        "word": "胡锡进称网游新规给股市浇了冷水",
+        "onboard_time": 1703229215,
+        "rank": 40,
+        "category": "财经,游戏"
+      },
+      {
+        "raw_hot": 151640,
+        "num": 151640,
+        "word": "王亚飞给白鹿化的冰透水感妆",
+        "onboard_time": 1703226513,
+        "rank": 41,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 150164,
+        "num": 150164,
+        "word": "老头乐",
+        "onboard_time": 1703218235,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148653,
+        "num": 148653,
+        "word": "理想汽车回应广东清远L7交通事故",
+        "onboard_time": 1703227652,
+        "rank": 43,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 144315,
+        "num": 144315,
+        "word": "秦岚迪丽热巴海边合照",
+        "onboard_time": 1703224833,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143790,
+        "num": 143790,
+        "word": "快乐老友记",
+        "onboard_time": 1703225016,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143740,
+        "num": 143740,
+        "word": "港股游戏股大跌",
+        "onboard_time": 1703220338,
+        "rank": 46,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 139099,
+        "num": 139099,
+        "word": "倪妮 龙年胜利女神",
+        "onboard_time": 1703226694,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 134097,
+        "num": 134097,
+        "word": "00后女孩横跨5000公里追随男友守边疆",
+        "onboard_time": 1703229272,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130632,
+        "num": 130632,
+        "word": "微博之夜 投票",
+        "onboard_time": 1703205094,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升乡村产业富民水平#"
+    }
+  }
+}

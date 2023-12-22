@@ -1,6 +1,6 @@
 {
   "startTime": 1703175777713,
-  "endTime": 1703226960364,
+  "endTime": 1703229416607,
   "band_list": [
     {
       "raw_hot": 3761181,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1943888,
+      "num": 1943888,
+      "word": "演员于洋回应家中存放大量金砖",
+      "onboard_time": 1703224715,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1902775,
       "num": 1902775,
       "word": "电商收到退货穿黑磨损的雪地靴",
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1658510,
-      "num": 1658510,
-      "word": "演员于洋回应家中存放大量金砖",
-      "onboard_time": 1703224715,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1532143,
       "num": 1532143,
       "word": "安慕希 白鹿",
@@ -57,6 +57,14 @@
       "onboard_time": 1703210133,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1252036,
+      "num": 1252036,
+      "word": "游戏",
+      "onboard_time": 1703221834,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 1238013,
@@ -129,6 +137,14 @@
       "onboard_time": 1703222075,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 970487,
+      "num": 970487,
+      "word": "帕梅拉 听说科目三风靡全球了",
+      "onboard_time": 1703225973,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 949125,
@@ -299,12 +315,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 612956,
-      "num": 612956,
-      "word": "游戏",
-      "onboard_time": 1703221834,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 628859,
+      "num": 628859,
+      "word": "被名字劝退但真上头的小说",
+      "onboard_time": 1703223933,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 576312,
@@ -312,6 +328,14 @@
       "word": "爱尔眼科集团通报",
       "onboard_time": 1703200884,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568550,
+      "num": 568550,
+      "word": "消防员扒开泥浆找到遇难一家五口",
+      "onboard_time": 1703227232,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -331,6 +355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 544020,
+      "num": 447513,
+      "word": "孟羽童曾称要学会反向引导领导",
+      "onboard_time": 1703224593,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 539631,
       "num": 539631,
       "word": "个税专项附加扣除信息确认即将截止",
@@ -345,6 +377,14 @@
       "onboard_time": 1703161835,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514528,
+      "num": 514528,
+      "word": "网易股价跌超20%",
+      "onboard_time": 1703224471,
+      "rank": 15,
+      "category": "财经,游戏"
     },
     {
       "raw_hot": 511502,
@@ -395,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459438,
-      "num": 459438,
-      "word": "网易股价跌超20%",
-      "onboard_time": 1703224471,
-      "rank": 15,
-      "category": "财经,游戏"
-    },
-    {
       "raw_hot": 457418,
       "num": 457418,
       "word": "港股游戏股大跌",
@@ -419,22 +451,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 447551,
-      "num": 447551,
-      "word": "帕梅拉 听说科目三风靡全球了",
-      "onboard_time": 1703225973,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 447513,
-      "num": 447513,
-      "word": "孟羽童曾称要学会反向引导领导",
-      "onboard_time": 1703224593,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 446787,
       "num": 446787,
       "word": "迪丽热巴也逃不过发光鞋",
@@ -449,6 +465,22 @@
       "onboard_time": 1703168860,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435369,
+      "num": 435369,
+      "word": "丁晟 相信杨幂会带来惊喜",
+      "onboard_time": 1703224894,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 434731,
+      "num": 434731,
+      "word": "羊肉汤",
+      "onboard_time": 1703227175,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 409431,
@@ -473,6 +505,14 @@
       "onboard_time": 1703205757,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 375673,
+      "num": 212847,
+      "word": "当大我八岁哥哥有了自己微信",
+      "onboard_time": 1703228732,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 371343,
@@ -667,22 +707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290896,
-      "num": 290896,
-      "word": "被名字劝退但真上头的小说",
-      "onboard_time": 1703223933,
-      "rank": 24,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 290873,
-      "num": 290873,
-      "word": "丁晟 相信杨幂会带来惊喜",
-      "onboard_time": 1703224894,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 285764,
       "num": 285764,
       "word": "网络游戏管理办法草案",
@@ -739,6 +763,14 @@
       "category": "电竞,社会新闻"
     },
     {
+      "raw_hot": 275398,
+      "num": 275398,
+      "word": "震区男孩把小猫藏帽子里取暖",
+      "onboard_time": 1703225733,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275132,
       "num": 275132,
       "word": "女子身份被冒用头胎竟变二胎",
@@ -747,12 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270906,
-      "num": 270906,
-      "word": "震区男孩把小猫藏帽子里取暖",
-      "onboard_time": 1703225733,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 263761,
+      "num": 263761,
+      "word": "40款进口游戏获批",
+      "onboard_time": 1703228019,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 258993,
@@ -795,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250917,
+      "num": 250917,
+      "word": "文科生的隐形副业",
+      "onboard_time": 1703226032,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245472,
       "num": 245472,
       "word": "嘘国王在冬眠官宣虞书欣林一",
@@ -809,6 +849,14 @@
       "onboard_time": 1703220037,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238965,
+      "num": 238965,
+      "word": "伊能静 演员是幸运也是孤独的",
+      "onboard_time": 1703228133,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 237132,
@@ -859,20 +907,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220516,
+      "num": 220516,
+      "word": "小猫咪以为自己也是洗发水",
+      "onboard_time": 1703224354,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220365,
       "num": 309254,
       "word": "刘亦菲喂你吃饭",
       "onboard_time": 1703218357,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219773,
-      "num": 219773,
-      "word": "小猫咪以为自己也是洗发水",
-      "onboard_time": 1703224354,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 216037,
@@ -907,20 +955,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212378,
-      "num": 212378,
-      "word": "文科生的隐形副业",
-      "onboard_time": 1703226032,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210511,
       "num": 210511,
       "word": "考研男生憧憬2024拿录取通知书扇扇子",
       "onboard_time": 1703216494,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209281,
+      "num": 209281,
+      "word": "环球偶遇鸣龙少年",
+      "onboard_time": 1703228915,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209203,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1703161415,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194773,
+      "num": 194773,
+      "word": "时代少年团加盟湖南跨年晚会",
+      "onboard_time": 1703228554,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 193453,
@@ -1171,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163649,
+      "num": 163649,
+      "word": "跳水掰掰说有3700多退休金够用了",
+      "onboard_time": 1703228435,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163647,
       "num": 163647,
       "word": "2023票房前十名都是国产片",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1703206232,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160376,
+      "num": 160376,
+      "word": "胡锡进称网游新规给股市浇了冷水",
+      "onboard_time": 1703229215,
+      "rank": 40,
+      "category": "财经,游戏"
     },
     {
       "raw_hot": 160302,
@@ -1291,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148653,
+      "num": 148653,
+      "word": "理想汽车回应广东清远L7交通事故",
+      "onboard_time": 1703227652,
+      "rank": 43,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 148361,
       "num": 148361,
       "word": "完颜慧德走红后的烦恼",
@@ -1377,6 +1457,14 @@
       "onboard_time": 1703213373,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134097,
+      "num": 134097,
+      "word": "00后女孩横跨5000公里追随男友守边疆",
+      "onboard_time": 1703229272,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132783,
@@ -1537,6 +1625,14 @@
       "onboard_time": 1703159493,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 100123,
+      "num": 167047,
+      "word": "绅士是种稀缺资源",
+      "onboard_time": 1703229035,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 99772,
@@ -1737,6 +1833,9 @@
     },
     {
       "word": "#为农业农村发展增动力添活力#"
+    },
+    {
+      "word": "#提升乡村产业富民水平#"
     }
   ]
 }
