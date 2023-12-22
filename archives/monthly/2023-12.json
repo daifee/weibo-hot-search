@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703255653779,
+  "endTime": 1703258240656,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -5299,6 +5299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1112746,
+      "num": 488015,
+      "word": "林一鼻子",
+      "onboard_time": 1703253699,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1112207,
       "num": 1112207,
       "word": "封神 补拍",
@@ -5465,14 +5473,6 @@
       "onboard_time": 1703172163,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1080517,
-      "num": 435066,
-      "word": "林一鼻子",
-      "onboard_time": 1703253699,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1079805,
@@ -6963,6 +6963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 901401,
+      "num": 901401,
+      "word": "游戏公司全员加班紧急修改预上线游戏",
+      "onboard_time": 1703255376,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 900844,
       "num": 344147,
       "word": "董宇辉 高中英语学习技巧",
@@ -8377,6 +8385,14 @@
       "onboard_time": 1701513392,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 790124,
+      "num": 790124,
+      "word": "高铁乘务员心脏骤停一下来了3位医生",
+      "onboard_time": 1703253699,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 789412,
@@ -10723,6 +10739,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 656145,
+      "num": 656145,
+      "word": "警方回应4岁女童被3只狗撕咬",
+      "onboard_time": 1703253760,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655958,
       "num": 655958,
       "word": "衣服上的火锅味为什么散不掉",
@@ -11001,14 +11025,6 @@
       "onboard_time": 1702527158,
       "rank": 22,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 643625,
-      "num": 643625,
-      "word": "高铁乘务员心脏骤停一下来了3位医生",
-      "onboard_time": 1703253699,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 643566,
@@ -13483,6 +13499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545970,
+      "num": 545970,
+      "word": "杨幂好像一棵圣诞树",
+      "onboard_time": 1703256456,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 545513,
       "num": 545513,
       "word": "MMA",
@@ -14835,6 +14859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 506746,
+      "num": 506746,
+      "word": "刘浩存穿光腿神器了吗",
+      "onboard_time": 1703253157,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 506659,
       "num": 506659,
       "word": "刘宇喻言撞造型",
@@ -15152,14 +15184,6 @@
       "word": "女大学生入职当天被怂恿整容",
       "onboard_time": 1703136400,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494813,
-      "num": 494813,
-      "word": "警方回应4岁女童被3只狗撕咬",
-      "onboard_time": 1703253760,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -16313,6 +16337,14 @@
       "onboard_time": 1701851318,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 464195,
+      "num": 464195,
+      "word": "你终硕",
+      "onboard_time": 1703255074,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 464065,
@@ -19689,14 +19721,6 @@
       "onboard_time": 1701501692,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 395029,
-      "num": 395029,
-      "word": "刘浩存穿光腿神器了吗",
-      "onboard_time": 1703253157,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394998,
@@ -25675,6 +25699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 308494,
+      "num": 244192,
+      "word": "4岁女童遭仨狗咬掉大半头皮",
+      "onboard_time": 1703256218,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308442,
       "num": 276269,
       "word": "因为咖位be的CP",
@@ -29163,6 +29195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274652,
+      "num": 274652,
+      "word": "过膝袜 秋裤",
+      "onboard_time": 1703253093,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 274614,
       "num": 249280,
       "word": "陈楚生 李玖哲是一面湖水",
@@ -30787,14 +30827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259240,
-      "num": 259240,
-      "word": "过膝袜 秋裤",
-      "onboard_time": 1703253093,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 259138,
       "num": 259138,
       "word": "狐妖月红篇杨幂单人视频",
@@ -31177,14 +31209,6 @@
       "onboard_time": 1702271432,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256069,
-      "num": 256069,
-      "word": "你终硕",
-      "onboard_time": 1703255074,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 256008,
@@ -33425,6 +33449,14 @@
       "onboard_time": 1701762938,
       "rank": 32,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 238576,
+      "num": 238576,
+      "word": "易烊千玺当评委",
+      "onboard_time": 1703257894,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 238569,
@@ -36963,14 +36995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215640,
-      "num": 215640,
-      "word": "游戏公司全员加班紧急修改预上线游戏",
-      "onboard_time": 1703255376,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215627,
       "num": 215627,
       "word": "金莎跟张雨绮许愿的理想型就是孙丞潇",
@@ -38595,6 +38619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207782,
+      "num": 207782,
+      "word": "我知道我爱你定档",
+      "onboard_time": 1703257359,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207781,
       "num": 207781,
       "word": "小米 SU7尾部",
@@ -38945,6 +38977,14 @@
       "onboard_time": 1702862855,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206165,
+      "num": 206165,
+      "word": "苏醒 搜狐年度男歌手",
+      "onboard_time": 1703257415,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206155,
@@ -39731,6 +39771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203172,
+      "num": 203172,
+      "word": "不要再玩大冰梗了好吗 好的",
+      "onboard_time": 1703256516,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 203167,
       "num": 203167,
       "word": "看了朱丹周一围理解了不分手的闺蜜",
@@ -39801,6 +39849,14 @@
       "onboard_time": 1702377096,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202862,
+      "num": 202862,
+      "word": "暖宝宝贴在脚后跟效果最好",
+      "onboard_time": 1703256159,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 202797,
@@ -40427,6 +40483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 200097,
+      "num": 200097,
+      "word": "专家说考研后的人生没有标准答案",
+      "onboard_time": 1703256637,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200093,
       "num": 200093,
       "word": "四六级预测",
@@ -41009,6 +41073,14 @@
       "onboard_time": 1702214078,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197384,
+      "num": 197384,
+      "word": "考研前一天的心情",
+      "onboard_time": 1703256936,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 197366,
@@ -45395,6 +45467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179317,
+      "num": 179317,
+      "word": "30天逼自己瘦下来",
+      "onboard_time": 1703256878,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 179286,
       "num": 179286,
       "word": "jellycat的高端线reallycat",
@@ -45683,6 +45763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177149,
+      "num": 177149,
+      "word": "果郡王浣碧线被剪掉挺多的",
+      "onboard_time": 1703258075,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 177094,
       "num": 177094,
       "word": "柳舟记杀青",
@@ -45697,6 +45785,14 @@
       "onboard_time": 1702540714,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176991,
+      "num": 176991,
+      "word": "拉宏桑 在陈奕迅面前唱孤勇者",
+      "onboard_time": 1703258075,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 176970,
@@ -46520,6 +46616,14 @@
       "word": "北大正有序推进开放",
       "onboard_time": 1703137296,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172323,
+      "num": 172323,
+      "word": "马来西亚卫生部宣布重启新冠隔离",
+      "onboard_time": 1703257832,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -50825,6 +50929,14 @@
       "onboard_time": 1702555595,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150508,
+      "num": 150508,
+      "word": "考研预测",
+      "onboard_time": 1703258195,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 150502,
