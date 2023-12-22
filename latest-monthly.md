@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/22 15:16:56
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/22 15:33:50
 </p>
 </blockquote>
 <p>
@@ -3351,6 +3351,12 @@ Kitty官宣离职（热度：1320510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%20%E5%90%AC%E8%AF%B4%E7%A7%91%E7%9B%AE%E4%B8%89%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83%E4%BA%86%23" target="weibo">
+帕梅拉 听说科目三风靡全球了（热度：1248980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E9%99%88%E4%B8%80%E5%8F%91%E5%84%BF%E7%96%91%E4%BC%BC%E5%A4%8D%E5%87%BA%E5%86%8D%E8%A2%AB%E5%B0%81%23" target="weibo">
 主播陈一发儿疑似复出再被封（热度：1248477）
 </a>
@@ -4613,12 +4619,6 @@ GQ内涵（热度：1094599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E9%81%AD%E5%A9%9A%E9%97%B9%E5%A4%A7%E5%A7%A8%E4%B8%80%E6%8A%8A%E6%8E%A8%E5%BC%80%E6%89%AB%E5%85%B4%E5%B0%8F%E4%BC%99%23" target="weibo">
 新娘遭婚闹大姨一把推开扫兴小伙（热度：971672）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%A2%85%E6%8B%89%20%E5%90%AC%E8%AF%B4%E7%A7%91%E7%9B%AE%E4%B8%89%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83%E4%BA%86%23" target="weibo">
-帕梅拉 听说科目三风靡全球了（热度：970487）
 </a>
 </li>
 
