@@ -1,0 +1,410 @@
+{
+  "runTime": 1703338447542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2755239,
+        "num": 2755239,
+        "word": "郭晶晶霍启刚 捐款7000万",
+        "onboard_time": 1703336015,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1949202,
+        "num": 1949202,
+        "word": "自助草莓火锅",
+        "onboard_time": 1703333555,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 82838,
+        "num": 1370217,
+        "word": "震区安置点的暖心事",
+        "onboard_time": 1703334455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289377,
+        "num": 1289377,
+        "word": "肖战直播",
+        "onboard_time": 1703336077,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 976451,
+        "num": 976451,
+        "word": "甜馨 差不多十几年没看见嗯哼了",
+        "onboard_time": 1703336138,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1231721,
+        "num": 917993,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844112,
+        "num": 844112,
+        "word": "考研英语",
+        "onboard_time": 1703320291,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 842638,
+        "num": 842638,
+        "word": "老师 是不是发错卷了",
+        "onboard_time": 1703325338,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 841749,
+        "num": 841749,
+        "word": "Jennie成立个人厂牌",
+        "onboard_time": 1703335176,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 692999,
+        "num": 692999,
+        "word": "石雷鹏 本人一篇都没有押中",
+        "onboard_time": 1703334214,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 610137,
+        "num": 610137,
+        "word": "倪妮唐嫣工作室 卧龙凤雏",
+        "onboard_time": 1703337278,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 511114,
+        "num": 511114,
+        "word": "考研英语 轻舟已撞大冰山",
+        "onboard_time": 1703324979,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 470973,
+        "num": 470973,
+        "word": "谷爱凌年收入近1.6亿",
+        "onboard_time": 1703331936,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469697,
+        "num": 469697,
+        "word": "短剧撒野",
+        "onboard_time": 1703334937,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457920,
+        "num": 457920,
+        "word": "英语一 最猛的1",
+        "onboard_time": 1703322998,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 436798,
+        "num": 436798,
+        "word": "一念关山 be",
+        "onboard_time": 1703337160,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420194,
+        "num": 420194,
+        "word": "花少5压中考研政治题",
+        "onboard_time": 1703328634,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399180,
+        "num": 399180,
+        "word": "内娱活人不如顶级素人",
+        "onboard_time": 1703336793,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387048,
+        "num": 387048,
+        "word": "雷鸣的病情越来越严重了",
+        "onboard_time": 1703330318,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333131,
+        "num": 333131,
+        "word": "英语二 平等地创飞所有人",
+        "onboard_time": 1703322998,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 306828,
+        "num": 306828,
+        "word": "甜馨拍杂志了",
+        "onboard_time": 1703321072,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300123,
+        "num": 300123,
+        "word": "考研英语 难",
+        "onboard_time": 1703323299,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275994,
+        "num": 275994,
+        "word": "狂飙唐小龙重生之考进体制内",
+        "onboard_time": 1703337038,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261716,
+        "num": 261716,
+        "word": "考研热降温有三个重要原因",
+        "onboard_time": 1703335358,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 257963,
+        "num": 257963,
+        "word": "三阿哥真又又又长高了",
+        "onboard_time": 1703331696,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255741,
+        "num": 255741,
+        "word": "婚后过年 各回各家",
+        "onboard_time": 1703333256,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396470,
+        "num": 250713,
+        "word": "朱令遗体告别仪式明日举行",
+        "onboard_time": 1703321373,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245635,
+        "num": 245635,
+        "word": "腰越来越细的小技巧",
+        "onboard_time": 1703333377,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 240435,
+        "num": 240435,
+        "word": "我是来上网的不是来上吊的",
+        "onboard_time": 1703332957,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231639,
+        "num": 231639,
+        "word": "李健曾发微博回忆朱令",
+        "onboard_time": 1703325457,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229676,
+        "num": 229676,
+        "word": "元梦之星科目三",
+        "onboard_time": 1703337637,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209336,
+        "num": 209336,
+        "word": "不建议用卷纸擦嘴",
+        "onboard_time": 1703334633,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198390,
+        "num": 198390,
+        "word": "朱令父亲发声",
+        "onboard_time": 1703306021,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193077,
+        "num": 193077,
+        "word": "圣诞氛围",
+        "onboard_time": 1703338359,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138758,
+        "num": 192646,
+        "word": "铊中毒至今无良好治疗对策",
+        "onboard_time": 1703327197,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192498,
+        "num": 192498,
+        "word": "陆虎 吉安终于见面啦",
+        "onboard_time": 1703337759,
+        "rank": 35,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 190447,
+        "num": 190447,
+        "word": "小兰这段三观太正了",
+        "onboard_time": 1703328935,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183130,
+        "num": 183130,
+        "word": "给狗狗买狗窝记得看尺寸",
+        "onboard_time": 1703334697,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180485,
+        "num": 180485,
+        "word": "考研英语答案",
+        "onboard_time": 1703322998,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167626,
+        "num": 167626,
+        "word": "许昕周恺1比3袁励岑徐瑛彬",
+        "onboard_time": 1703337997,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160215,
+        "num": 160215,
+        "word": "蔚来ET9",
+        "onboard_time": 1703333256,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158006,
+        "num": 158006,
+        "word": "樊振东 没上场",
+        "onboard_time": 1703334336,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157047,
+        "num": 157047,
+        "word": "英语二翻译 赶集",
+        "onboard_time": 1703326956,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153481,
+        "num": 153481,
+        "word": "霉霉又破纪录了",
+        "onboard_time": 1703336619,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148505,
+        "num": 148505,
+        "word": "我嗑的cp因为咖位没有以后了",
+        "onboard_time": 1703321493,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145509,
+        "num": 145509,
+        "word": "一念关山",
+        "onboard_time": 1703338300,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72052,
+        "num": 145495,
+        "word": "地震受灾群众住进临时安置箱式房",
+        "onboard_time": 1703338418,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66101,
+        "num": 144643,
+        "word": "行政旗舰蔚来ET9亮相",
+        "onboard_time": 1703334995,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75071,
+        "num": 144410,
+        "word": "蔚来400亿研发成果亮相",
+        "onboard_time": 1703338418,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23963,
+        "num": 143706,
+        "word": "蛋仔派对请全国朋友吃鸡块",
+        "onboard_time": 1703337097,
+        "rank": 49,
+        "category": "游戏,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固拓展主题教育成果要常学常新#"
+    }
+  }
+}
