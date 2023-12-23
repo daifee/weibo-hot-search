@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703319665563,
+  "endTime": 1703320525197,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -99,6 +99,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1398742,
+      "num": 403979,
+      "word": "李梦娇 上岸",
+      "onboard_time": 1703318072,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1358608,
       "num": 653103,
       "word": "于正 她那么高贵哪里像丫鬟",
@@ -147,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1072235,
+      "num": 1072235,
+      "word": "昨天吃的饺子瞬间觉得不香了",
+      "onboard_time": 1703315434,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1066740,
       "num": 750392,
       "word": "23考研人拿命换的",
@@ -163,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1055589,
-      "num": 1055589,
-      "word": "昨天吃的饺子瞬间觉得不香了",
-      "onboard_time": 1703315434,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1026202,
       "num": 613957,
       "word": "腾讯市值跌没了一个小米",
@@ -180,19 +188,11 @@
     },
     {
       "raw_hot": 996747,
-      "num": 354240,
+      "num": 398600,
       "word": "解清帅已开始直播带货",
       "onboard_time": 1703310334,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 949423,
-      "num": 364692,
-      "word": "李梦娇 上岸",
-      "onboard_time": 1703318072,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 929492,
@@ -395,6 +395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 518014,
+      "num": 395790,
+      "word": "林高远徐海东3比0王楚钦周启豪",
+      "onboard_time": 1703319392,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511672,
       "num": 511672,
       "word": "考研 提前交卷",
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 497306,
-      "num": 341016,
+      "num": 379338,
       "word": "警方曾称朱令案办案未受干扰",
       "onboard_time": 1703315852,
       "rank": 15,
@@ -444,11 +452,19 @@
     },
     {
       "raw_hot": 481891,
-      "num": 320415,
+      "num": 387571,
       "word": "没药花园 朱令经历将成为寓言",
       "onboard_time": 1703314471,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479576,
+      "num": 479576,
+      "word": "lucy姐 我没k",
+      "onboard_time": 1703316932,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 459195,
@@ -459,20 +475,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 444872,
+      "num": 387007,
+      "word": "朱令妈妈 我该怎么保护我的女儿",
+      "onboard_time": 1703319392,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439371,
       "num": 302560,
       "word": "刘涛认出媒体的手机壳是肖战",
       "onboard_time": 1703300433,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 434335,
-      "num": 434335,
-      "word": "lucy姐 我没k",
-      "onboard_time": 1703316932,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 432794,
@@ -507,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 411466,
+      "num": 411466,
+      "word": "钟楚曦 谁不喜欢帅哥呢",
+      "onboard_time": 1703317652,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403956,
       "num": 403956,
       "word": "泥浆中紧护孩子的姑姑怀有身孕",
@@ -539,12 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377481,
+      "num": 377481,
+      "word": "考研英语",
+      "onboard_time": 1703320291,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 373012,
       "num": 373012,
       "word": "高铁乘务员心脏骤停一下来了3位医生",
       "onboard_time": 1703253699,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370896,
+      "num": 370896,
+      "word": "浙大学霸用一页纸证明自己",
+      "onboard_time": 1703318672,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 366302,
@@ -555,11 +595,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 366169,
-      "num": 366169,
-      "word": "钟楚曦 谁不喜欢帅哥呢",
-      "onboard_time": 1703317652,
-      "rank": 9,
+      "raw_hot": 365037,
+      "num": 365037,
+      "word": "张真源一夜没睡研究卧底是谁",
+      "onboard_time": 1703318970,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -763,14 +803,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 264045,
-      "num": 264045,
-      "word": "张真源一夜没睡研究卧底是谁",
-      "onboard_time": 1703318970,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263941,
       "num": 263941,
       "word": "未成年人游戏时长处于历史最低水平",
@@ -811,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259569,
+      "num": 259569,
+      "word": "小沈阳巡演官宣20城",
+      "onboard_time": 1703318794,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 258578,
       "num": 210209,
       "word": "朱令一个月前刚度过50岁生日",
@@ -825,14 +865,6 @@
       "onboard_time": 1703300072,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256414,
-      "num": 256414,
-      "word": "浙大学霸用一页纸证明自己",
-      "onboard_time": 1703318672,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 254487,
@@ -851,6 +883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 252179,
+      "num": 252179,
+      "word": "私自拍摄敏感军事装备严重危害国家安全",
+      "onboard_time": 1703318432,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248448,
       "num": 248448,
       "word": "黄景瑜评论区 电子饺子",
@@ -865,14 +905,6 @@
       "onboard_time": 1703299775,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245124,
-      "num": 245124,
-      "word": "私自拍摄敏感军事装备严重危害国家安全",
-      "onboard_time": 1703318432,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242466,
@@ -1011,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218408,
-      "num": 218408,
-      "word": "小沈阳巡演官宣20城",
-      "onboard_time": 1703318794,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 217778,
       "num": 217778,
       "word": "人民币成国际支付第四大货币",
@@ -1075,12 +1099,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 209898,
-      "num": 209898,
-      "word": "林高远徐海东3比0王楚钦周启豪",
-      "onboard_time": 1703319392,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 208934,
+      "num": 208934,
+      "word": "2023古现双爆大男主",
+      "onboard_time": 1703316751,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208733,
@@ -1105,14 +1129,6 @@
       "onboard_time": 1703308596,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207975,
-      "num": 207975,
-      "word": "2023古现双爆大男主",
-      "onboard_time": 1703316751,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 205723,
@@ -1147,6 +1163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203749,
+      "num": 203749,
+      "word": "考研前夜图书馆闭馆响起一路生花",
+      "onboard_time": 1703318612,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202249,
       "num": 202249,
       "word": "辛芷蕾 华语乐坛新晋天后",
@@ -1160,14 +1184,6 @@
       "word": "管综答案",
       "onboard_time": 1703305839,
       "rank": 36,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 201380,
-      "num": 201380,
-      "word": "考研前夜图书馆闭馆响起一路生花",
-      "onboard_time": 1703318612,
-      "rank": 31,
       "category": "教育"
     },
     {
@@ -1185,6 +1201,14 @@
       "onboard_time": 1703314412,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195371,
+      "num": 195371,
+      "word": "这街采谐音梗含量太高了",
+      "onboard_time": 1703319451,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 194829,
@@ -1339,6 +1363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174389,
+      "num": 174389,
+      "word": "狸花猫 油头",
+      "onboard_time": 1703318850,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171760,
       "num": 171760,
       "word": "考研前一天的心情",
@@ -1419,14 +1451,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 156261,
-      "num": 156261,
-      "word": "朱令妈妈 我该怎么保护我的女儿",
-      "onboard_time": 1703319392,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156063,
       "num": 156063,
       "word": "TODS致歉",
@@ -1465,14 +1489,6 @@
       "onboard_time": 1703312493,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 151599,
-      "num": 151599,
-      "word": "狸花猫 油头",
-      "onboard_time": 1703318850,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 151014,
@@ -1555,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146391,
+      "num": 146391,
+      "word": "女子发生车祸路过的他在医院守了一小时",
+      "onboard_time": 1703320051,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145777,
       "num": 145777,
       "word": "摩羯座 抗拒感情",
@@ -1603,12 +1627,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 143015,
-      "num": 143015,
-      "word": "这街采谐音梗含量太高了",
-      "onboard_time": 1703319451,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 143037,
+      "num": 143037,
+      "word": "震区消防员和女友视频时睡着了",
+      "onboard_time": 1703320051,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143007,
@@ -1651,6 +1675,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 138909,
+      "num": 138909,
+      "word": "秦霄贤把玫瑰花插在檀健次鞋里",
+      "onboard_time": 1703320353,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138574,
       "num": 170190,
       "word": "数九寒天健康日历",
@@ -1673,6 +1705,14 @@
       "onboard_time": 1703256637,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 136034,
+      "num": 136034,
+      "word": "关晓彤部落少女妆",
+      "onboard_time": 1703320291,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 131448,
@@ -1769,6 +1809,14 @@
       "onboard_time": 1703298814,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121132,
+      "num": 121132,
+      "word": "张大仙纪录片",
+      "onboard_time": 1703319693,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 120974,
@@ -1939,10 +1987,26 @@
       "category": "教育"
     },
     {
+      "raw_hot": 86195,
+      "num": 366507,
+      "word": "放心吧有陈楚生在",
+      "onboard_time": 1703318490,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73038,
       "num": 5472501,
       "word": "听见2023的中国",
       "onboard_time": 1703298453,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 73009,
+      "num": 1084907,
+      "word": "乘风破浪一往直前",
+      "onboard_time": 1703319091,
       "rank": 2,
       "category": "国内时政"
     },
@@ -1993,22 +2057,6 @@
       "onboard_time": 1703315194,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46297,
-      "num": 249362,
-      "word": "放心吧有陈楚生在",
-      "onboard_time": 1703318490,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 45746,
-      "num": 1084907,
-      "word": "乘风破浪一往直前",
-      "onboard_time": 1703319091,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 45085,
