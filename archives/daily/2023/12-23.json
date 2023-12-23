@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703306100275,
+  "endTime": 1703308561786,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -33,6 +33,14 @@
       "onboard_time": 1703300433,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2153535,
+      "num": 2153535,
+      "word": "朱令父亲发声",
+      "onboard_time": 1703306021,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2092829,
@@ -171,6 +179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 804353,
+      "num": 804353,
+      "word": "铊中毒",
+      "onboard_time": 1703302298,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791698,
       "num": 432923,
       "word": "女生称公交上被男子多次用下身摩擦",
@@ -195,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 721920,
-      "num": 721920,
-      "word": "铊中毒",
-      "onboard_time": 1703302298,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 724676,
+      "num": 533189,
+      "word": "腿姐 九页纸",
+      "onboard_time": 1703306918,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 717973,
@@ -275,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589866,
+      "num": 589866,
+      "word": "孙杨或彻底无缘巴黎奥运会",
+      "onboard_time": 1703304402,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 539661,
       "num": 539661,
       "word": "你好星期六 试镜大会",
@@ -289,6 +313,14 @@
       "onboard_time": 1703258976,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 538106,
+      "num": 538106,
+      "word": "考研政治大题 抄材料",
+      "onboard_time": 1703307098,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 532761,
@@ -307,14 +339,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 517115,
-      "num": 517115,
-      "word": "孙杨或彻底无缘巴黎奥运会",
-      "onboard_time": 1703304402,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 511672,
       "num": 511672,
       "word": "考研 提前交卷",
@@ -329,14 +353,6 @@
       "onboard_time": 1703304402,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 463554,
-      "num": 463554,
-      "word": "朱令父亲发声",
-      "onboard_time": 1703306021,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459195,
@@ -499,6 +515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 321463,
+      "num": 291690,
+      "word": "大学生1个月挂39个号被确诊疑病症",
+      "onboard_time": 1703305481,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305532,
       "num": 305532,
       "word": "第一次见男明星耍帅甩羽绒服",
@@ -523,12 +547,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293829,
+      "num": 293829,
+      "word": "政治选择 抽象",
+      "onboard_time": 1703307819,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 293044,
       "num": 293044,
       "word": "杨幂到达上海",
       "onboard_time": 1703288906,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292123,
+      "num": 292123,
+      "word": "考研政治选择题",
+      "onboard_time": 1703306918,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 291395,
+      "num": 291395,
+      "word": "塞牙 牙齿在求救",
+      "onboard_time": 1703307634,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 286351,
+      "num": 286351,
+      "word": "管综数学 稀碎",
+      "onboard_time": 1703307997,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 284220,
@@ -619,6 +675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 248448,
+      "num": 248448,
+      "word": "黄景瑜评论区 电子饺子",
+      "onboard_time": 1703305781,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245363,
       "num": 245363,
       "word": "奔跑吧 推理",
@@ -660,7 +724,7 @@
     },
     {
       "raw_hot": 235763,
-      "num": 235763,
+      "num": 277176,
       "word": "为438万考研人加油",
       "onboard_time": 1703296954,
       "rank": 28,
@@ -673,6 +737,14 @@
       "onboard_time": 1703253760,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230613,
+      "num": 230613,
+      "word": "肖战蓝色针织开衫",
+      "onboard_time": 1703306563,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 229496,
@@ -723,20 +795,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221264,
-      "num": 221264,
-      "word": "黄景瑜评论区 电子饺子",
-      "onboard_time": 1703305781,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220459,
       "num": 220459,
       "word": "郑强不再担任太原理工大学党委书记",
       "onboard_time": 1703287040,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217778,
+      "num": 217778,
+      "word": "人民币成国际支付第四大货币",
+      "onboard_time": 1703307399,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 216403,
@@ -835,14 +907,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 200871,
-      "num": 200871,
-      "word": "大学生1个月挂39个号被确诊疑病症",
-      "onboard_time": 1703305481,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194829,
       "num": 194829,
       "word": "4岁女童遭仨狗咬掉大半头皮",
@@ -875,12 +939,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187221,
+      "num": 187221,
+      "word": "宁远舟 始于战场终于战场",
+      "onboard_time": 1703307458,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186135,
       "num": 186135,
       "word": "我就说东北菜吃了量大的亏",
       "onboard_time": 1703305001,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186040,
+      "num": 186040,
+      "word": "自测适合直发还是卷发",
+      "onboard_time": 1703308236,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 185872,
+      "num": 185872,
+      "word": "英语作文预测",
+      "onboard_time": 1703306977,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 185631,
@@ -937,6 +1025,14 @@
       "onboard_time": 1703303800,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 168143,
+      "num": 168143,
+      "word": "男童地震失去双亲一声妈妈令人泪目",
+      "onboard_time": 1703308358,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167470,
