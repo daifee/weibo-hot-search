@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1703302460308,
+  "endTime": 1703305303129,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11690671,
+      "num": 11690671,
+      "word": "朱令去世",
+      "onboard_time": 1703300913,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11613152,
       "num": 11613152,
       "word": "奔跑吧 原地消失术",
@@ -977,14 +985,6 @@
       "onboard_time": 1701942460,
       "rank": 1,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 10322631,
-      "num": 10322631,
-      "word": "朱令去世",
-      "onboard_time": 1703300913,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10290665,
@@ -2123,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7832266,
+      "num": 7832266,
+      "word": "考研政治 简单",
+      "onboard_time": 1703301873,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 7790064,
       "num": 7790064,
       "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1674988052,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7379652,
-      "num": 800188,
-      "word": "李佳琦掉粉",
-      "onboard_time": 1694424100,
-      "rank": 10,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
