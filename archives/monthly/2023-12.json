@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703358816667,
+  "endTime": 1703360024198,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -57795,6 +57795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123737,
+      "num": 123737,
+      "word": "一天八个小时不够你开会啊",
+      "onboard_time": 1703356339,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123694,
       "num": 123694,
       "word": "王曼昱3比2张瑞",
@@ -60489,14 +60497,6 @@
       "onboard_time": 1702814437,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78267,
-      "num": 78267,
-      "word": "一天八个小时不够你开会啊",
-      "onboard_time": 1703356339,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 78208,

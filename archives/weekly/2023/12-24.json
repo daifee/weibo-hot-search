@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703358816667,
+  "endTime": 1703360024198,
   "band_list": [
     {
       "raw_hot": 1093325,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123737,
+      "num": 123737,
+      "word": "一天八个小时不够你开会啊",
+      "onboard_time": 1703356339,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118369,
       "num": 118369,
       "word": "花少5压中考研政治题",
@@ -401,14 +409,6 @@
       "onboard_time": 1703340396,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 78267,
-      "num": 78267,
-      "word": "一天八个小时不够你开会啊",
-      "onboard_time": 1703356339,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 77908,
