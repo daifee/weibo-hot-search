@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703344596502,
+  "endTime": 1703345637925,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -1435,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1268226,
+      "num": 1268226,
+      "word": "微波炉热了十分钟的馒头",
+      "onboard_time": 1703341117,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1256747,
       "num": 1256747,
       "word": "迪丽热巴 Dior",
@@ -2371,14 +2379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 959289,
-      "num": 959289,
-      "word": "微波炉热了十分钟的馒头",
-      "onboard_time": 1703341117,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 957840,
       "num": 957840,
       "word": "你是我女儿 怎么可能认不出",
@@ -3073,6 +3073,14 @@
       "onboard_time": 1702857212,
       "rank": 10,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 798677,
+      "num": 798677,
+      "word": "杨丞琳演唱会",
+      "onboard_time": 1703343218,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 797905,
@@ -3801,14 +3809,6 @@
       "onboard_time": 1702860215,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 673129,
-      "num": 673129,
-      "word": "杨丞琳演唱会",
-      "onboard_time": 1703343218,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 673008,
@@ -6563,6 +6563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410328,
+      "num": 410328,
+      "word": "KSG战胜TTG",
+      "onboard_time": 1703344716,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 410313,
       "num": 328144,
       "word": "知情者称周海媚骨灰将安葬在香港",
@@ -6819,6 +6827,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 399227,
+      "num": 399227,
+      "word": "周小仙 延吉公主一日体验",
+      "onboard_time": 1703341060,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 398813,
       "num": 440499,
       "word": "东方甄选已注册多个董宇辉商标",
@@ -6857,14 +6873,6 @@
       "onboard_time": 1702777171,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 396495,
-      "num": 396495,
-      "word": "周小仙 延吉公主一日体验",
-      "onboard_time": 1703341060,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 395215,
@@ -8361,6 +8369,14 @@
       "onboard_time": 1703063432,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321872,
+      "num": 321872,
+      "word": "三个退出考研的人讲述为何而退",
+      "onboard_time": 1703344834,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321566,
@@ -13747,6 +13763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194309,
+      "num": 194309,
+      "word": "KSG晋级KIC半决赛",
+      "onboard_time": 1703345194,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194226,
       "num": 194226,
       "word": "不叠被子教",
@@ -14129,6 +14153,14 @@
       "onboard_time": 1702727798,
       "rank": 47,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 190451,
+      "num": 190451,
+      "word": "金靖女团舞",
+      "onboard_time": 1703344898,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190409,
@@ -15601,6 +15633,14 @@
       "onboard_time": 1703244393,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168715,
+      "num": 168715,
+      "word": "郁可唯南京演唱会",
+      "onboard_time": 1703344775,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 168625,
@@ -17849,6 +17889,14 @@
       "onboard_time": 1703292990,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128413,
+      "num": 128413,
+      "word": "周深汪苏泷 火龙果兄弟",
+      "onboard_time": 1703345554,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 128393,
