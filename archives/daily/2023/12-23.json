@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703293938815,
+  "endTime": 1703295108368,
   "band_list": [
     {
       "raw_hot": 2092829,
@@ -19,6 +19,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1349931,
+      "num": 333649,
+      "word": "于正 她那么高贵哪里像丫鬟",
+      "onboard_time": 1703293594,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1209321,
       "num": 1209321,
       "word": "被老鼠咬后反咬女子室友发声",
@@ -35,8 +43,16 @@
       "category": "财经"
     },
     {
-      "raw_hot": 874975,
-      "num": 874975,
+      "raw_hot": 1020330,
+      "num": 1020330,
+      "word": "图书馆空了",
+      "onboard_time": 1703293351,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 929492,
+      "num": 929492,
       "word": "考研人数3年来首次下降",
       "onboard_time": 1703291249,
       "rank": 1,
@@ -131,6 +147,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 485564,
+      "num": 327602,
+      "word": "朱令",
+      "onboard_time": 1703294676,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459195,
       "num": 322533,
       "word": "不要再玩大冰梗了好吗 好的",
@@ -187,6 +211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 339074,
+      "num": 339074,
+      "word": "普京为一名坐轮椅女学中断会议",
+      "onboard_time": 1703292932,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 335400,
       "num": 335400,
       "word": "关晓彤 心虚话都变多了",
@@ -211,6 +243,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 326306,
+      "num": 326306,
+      "word": "听音乐睡觉要小心耳虫效应",
+      "onboard_time": 1703292990,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 322905,
+      "num": 322905,
+      "word": "陈坤对张婧仪是当女儿来宠吧",
+      "onboard_time": 1703294133,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 305532,
       "num": 305532,
       "word": "第一次见男明星耍帅甩羽绒服",
@@ -227,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294389,
-      "num": 294389,
-      "word": "图书馆空了",
-      "onboard_time": 1703293351,
-      "rank": 14,
-      "category": "教育"
+      "raw_hot": 296675,
+      "num": 185299,
+      "word": "男朋友总被认成儿子",
+      "onboard_time": 1703294849,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 293044,
@@ -273,22 +321,6 @@
       "onboard_time": 1703287220,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 260693,
-      "num": 161205,
-      "word": "于正 她那么高贵哪里像丫鬟",
-      "onboard_time": 1703293594,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 248283,
-      "num": 248283,
-      "word": "普京为一名坐轮椅女学中断会议",
-      "onboard_time": 1703292932,
-      "rank": 21,
-      "category": "国外时政"
     },
     {
       "raw_hot": 236828,
@@ -371,11 +403,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 207778,
-      "num": 160462,
-      "word": "听音乐睡觉要小心耳虫效应",
-      "onboard_time": 1703292990,
-      "rank": 31,
+      "raw_hot": 208606,
+      "num": 183660,
+      "word": "鲨鱼夹发型",
+      "onboard_time": 1703293712,
+      "rank": 32,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 204354,
+      "num": 204354,
+      "word": "饥饿感可以延长寿命",
+      "onboard_time": 1703293712,
+      "rank": 44,
       "category": "健康医疗"
     },
     {
@@ -459,12 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151187,
-      "num": 151187,
-      "word": "鲨鱼夹发型",
-      "onboard_time": 1703293712,
-      "rank": 32,
-      "category": "美妆"
+      "raw_hot": 151014,
+      "num": 151014,
+      "word": "振动减肥药问世",
+      "onboard_time": 1703294012,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150184,
@@ -489,6 +529,14 @@
       "onboard_time": 1703288605,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147509,
+      "num": 147509,
+      "word": "小S 在摄影棚有严重的容貌焦虑",
+      "onboard_time": 1703294849,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 146679,
@@ -529,6 +577,14 @@
       "onboard_time": 1703243491,
       "rank": 36,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 136522,
+      "num": 136522,
+      "word": "仙台有树 马好人坏",
+      "onboard_time": 1703294314,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 136081,
@@ -633,14 +689,6 @@
       "onboard_time": 1703262571,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115493,
-      "num": 115493,
-      "word": "饥饿感可以延长寿命",
-      "onboard_time": 1703293712,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114782,
@@ -884,7 +932,7 @@
     },
     {
       "raw_hot": 10262,
-      "num": 628361,
+      "num": 857518,
       "word": "神十七航天员圆满完成首次出舱任务",
       "onboard_time": 1703168681,
       "rank": 2,
