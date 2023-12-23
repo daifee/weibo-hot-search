@@ -1,0 +1,410 @@
+{
+  "runTime": 1703334580828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294514,
+        "num": 1294514,
+        "word": "老师 是不是发错卷了",
+        "onboard_time": 1703325338,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1223619,
+        "num": 1223619,
+        "word": "考研英语",
+        "onboard_time": 1703320291,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 5309,
+        "num": 998739,
+        "word": "震区安置点的暖心事",
+        "onboard_time": 1703334455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877761,
+        "num": 877761,
+        "word": "谷爱凌年收入近1.6亿",
+        "onboard_time": 1703331936,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 855425,
+        "num": 855425,
+        "word": "英语一 最猛的1",
+        "onboard_time": 1703322998,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1390067,
+        "num": 811508,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752194,
+        "num": 752194,
+        "word": "花少5压中考研政治题",
+        "onboard_time": 1703328634,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713966,
+        "num": 713966,
+        "word": "考研英语 轻舟已撞大冰山",
+        "onboard_time": 1703324979,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 696002,
+        "num": 696002,
+        "word": "自助草莓火锅",
+        "onboard_time": 1703333555,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 627059,
+        "num": 627059,
+        "word": "朱令妈妈 我该怎么保护我的女儿",
+        "onboard_time": 1703319392,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521531,
+        "num": 521531,
+        "word": "小兰这段三观太正了",
+        "onboard_time": 1703328935,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 497690,
+        "num": 497690,
+        "word": "雷鸣的病情越来越严重了",
+        "onboard_time": 1703330318,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490707,
+        "num": 490707,
+        "word": "朱令铊中毒事件",
+        "onboard_time": 1703322456,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488125,
+        "num": 488125,
+        "word": "英语二 平等地创飞所有人",
+        "onboard_time": 1703322998,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 434612,
+        "num": 434612,
+        "word": "朱令遗体告别仪式明日举行",
+        "onboard_time": 1703321373,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423760,
+        "num": 423760,
+        "word": "考研英语 难",
+        "onboard_time": 1703323299,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 421215,
+        "num": 421215,
+        "word": "甜馨拍杂志了",
+        "onboard_time": 1703321072,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 379069,
+        "num": 379069,
+        "word": "我嗑的cp因为咖位没有以后了",
+        "onboard_time": 1703321493,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 373456,
+        "num": 373456,
+        "word": "蔚来ET9",
+        "onboard_time": 1703333256,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 349417,
+        "num": 349417,
+        "word": "李健曾发微博回忆朱令",
+        "onboard_time": 1703325457,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114313,
+        "num": 347704,
+        "word": "为什么明星喜欢用折叠屏手机",
+        "onboard_time": 1703332716,
+        "rank": 20,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 346270,
+        "num": 346270,
+        "word": "婚后过年 各回各家",
+        "onboard_time": 1703333256,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331568,
+        "num": 331568,
+        "word": "考研英语答案",
+        "onboard_time": 1703322998,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318622,
+        "num": 318622,
+        "word": "浙大学霸用一页纸证明自己",
+        "onboard_time": 1703318672,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 310395,
+        "num": 310395,
+        "word": "我是来上网的不是来上吊的",
+        "onboard_time": 1703332957,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303987,
+        "num": 303987,
+        "word": "王一博个人EP旁观者",
+        "onboard_time": 1703333855,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274298,
+        "num": 274298,
+        "word": "三阿哥真又又又长高了",
+        "onboard_time": 1703331696,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252827,
+        "num": 252827,
+        "word": "肖秀荣馈赠的礼物 英语标好了价格",
+        "onboard_time": 1703326777,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251164,
+        "num": 251164,
+        "word": "英语二翻译 赶集",
+        "onboard_time": 1703326956,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163737,
+        "num": 241927,
+        "word": "铊中毒至今无良好治疗对策",
+        "onboard_time": 1703327197,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 334351,
+        "num": 241455,
+        "word": "樊振东 没上场",
+        "onboard_time": 1703334336,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239611,
+        "num": 239611,
+        "word": "朱令父亲发声",
+        "onboard_time": 1703306021,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232206,
+        "num": 232206,
+        "word": "腰越来越细的小技巧",
+        "onboard_time": 1703333377,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 228630,
+        "num": 228630,
+        "word": "俄罗斯大叔喂棕熊吃车厘子",
+        "onboard_time": 1703331637,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15542,
+        "num": 228067,
+        "word": "卫星视角看中国",
+        "onboard_time": 1703334155,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227904,
+        "num": 227904,
+        "word": "黄子弘凡哈尔滨出发前vs落地后",
+        "onboard_time": 1703333014,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225432,
+        "num": 225432,
+        "word": "胡彦斌高情商回复何炅",
+        "onboard_time": 1703329895,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26088,
+        "num": 221813,
+        "word": "共赏改革开放新画卷",
+        "onboard_time": 1703318370,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219254,
+        "num": 219254,
+        "word": "永夜星河杀青",
+        "onboard_time": 1703326414,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212289,
+        "num": 212289,
+        "word": "时代少年团空降超话",
+        "onboard_time": 1703331696,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211429,
+        "num": 211429,
+        "word": "赵露思黑色蝴蝶美甲",
+        "onboard_time": 1703332476,
+        "rank": 40,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 205294,
+        "num": 205294,
+        "word": "papi酱的婚姻模式 超前",
+        "onboard_time": 1703312196,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204012,
+        "num": 204012,
+        "word": "多所知名高校停招学硕",
+        "onboard_time": 1703329056,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200592,
+        "num": 200592,
+        "word": "鸣龙少年学习法",
+        "onboard_time": 1703334036,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200391,
+        "num": 200391,
+        "word": "幼儿园男童送女孩200克金条",
+        "onboard_time": 1703324320,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187419,
+        "num": 187419,
+        "word": "TTG对战KSG",
+        "onboard_time": 1703333976,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184311,
+        "num": 184311,
+        "word": "它好像知道自己是个小宝宝",
+        "onboard_time": 1703332775,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177088,
+        "num": 177088,
+        "word": "石雷鹏 本人一篇都没有押中",
+        "onboard_time": 1703334214,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151681,
+        "num": 151681,
+        "word": "鸣龙少年16集信息量",
+        "onboard_time": 1703333738,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143830,
+        "num": 143830,
+        "word": "英一作文 古代科学家",
+        "onboard_time": 1703323960,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设宜居宜业和美乡村#"
+    }
+  }
+}
