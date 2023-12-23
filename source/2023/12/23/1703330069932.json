@@ -1,0 +1,410 @@
+{
+  "runTime": 1703330069932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5169600,
+        "num": 5169600,
+        "word": "考研英语",
+        "onboard_time": 1703320291,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 392981,
+        "num": 2805197,
+        "word": "浙大学霸用一页纸证明自己",
+        "onboard_time": 1703318672,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38604,
+        "num": 2396654,
+        "word": "共赏改革开放新画卷",
+        "onboard_time": 1703318370,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2149052,
+        "num": 2149052,
+        "word": "老师 是不是发错卷了",
+        "onboard_time": 1703325338,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210792,
+        "num": 1673102,
+        "word": "天黑了帐篷没到震区34岁的他急哭",
+        "onboard_time": 1703323180,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1569815,
+        "num": 1569815,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1498988,
+        "num": 1498988,
+        "word": "英语一 最猛的1",
+        "onboard_time": 1703322998,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1228129,
+        "num": 1228129,
+        "word": "考研英语 轻舟已撞大冰山",
+        "onboard_time": 1703324979,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1202736,
+        "num": 1202736,
+        "word": "花少5压中考研政治题",
+        "onboard_time": 1703328634,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 925728,
+        "num": 925728,
+        "word": "肖秀荣馈赠的礼物 英语标好了价格",
+        "onboard_time": 1703326777,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 887156,
+        "num": 887156,
+        "word": "英语二 平等地创飞所有人",
+        "onboard_time": 1703322998,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123923,
+        "num": 769688,
+        "word": "考点为脑瘫学生安排了一个特殊考场",
+        "onboard_time": 1703329596,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 708907,
+        "num": 708907,
+        "word": "朱令妈妈 我该怎么保护我的女儿",
+        "onboard_time": 1703319392,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611405,
+        "num": 611405,
+        "word": "甜馨拍杂志了",
+        "onboard_time": 1703321072,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 595053,
+        "num": 595053,
+        "word": "考研英语 难",
+        "onboard_time": 1703323299,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 593378,
+        "num": 593378,
+        "word": "英语二翻译 赶集",
+        "onboard_time": 1703326956,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 572573,
+        "num": 572573,
+        "word": "朱令铊中毒事件",
+        "onboard_time": 1703322456,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495034,
+        "num": 495034,
+        "word": "考研英语答案",
+        "onboard_time": 1703322998,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482700,
+        "num": 482700,
+        "word": "朱令遗体告别仪式明日举行",
+        "onboard_time": 1703321373,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477462,
+        "num": 477462,
+        "word": "李健曾发微博回忆朱令",
+        "onboard_time": 1703325457,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368774,
+        "num": 368774,
+        "word": "奶酪写成奶酷",
+        "onboard_time": 1703327197,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 356599,
+        "num": 356599,
+        "word": "多所知名高校停招学硕",
+        "onboard_time": 1703329056,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 352704,
+        "num": 352704,
+        "word": "朱令父亲发声",
+        "onboard_time": 1703306021,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346529,
+        "num": 346529,
+        "word": "幼儿园男童送女孩200克金条",
+        "onboard_time": 1703324320,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322040,
+        "num": 322040,
+        "word": "永夜星河杀青",
+        "onboard_time": 1703326414,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314788,
+        "num": 314788,
+        "word": "铊中毒至今无良好治疗对策",
+        "onboard_time": 1703327197,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 313774,
+        "num": 313774,
+        "word": "小兰这段三观太正了",
+        "onboard_time": 1703328935,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 288297,
+        "num": 288297,
+        "word": "nail到底什么东西",
+        "onboard_time": 1703326414,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284950,
+        "num": 284950,
+        "word": "我嗑的cp因为咖位没有以后了",
+        "onboard_time": 1703321493,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264165,
+        "num": 264165,
+        "word": "papi酱的婚姻模式 超前",
+        "onboard_time": 1703312196,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252690,
+        "num": 252690,
+        "word": "谢娜回湖南卫视跨年",
+        "onboard_time": 1703327797,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250455,
+        "num": 250455,
+        "word": "光与夜之恋 婚卡",
+        "onboard_time": 1703329235,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232045,
+        "num": 232045,
+        "word": "国家新闻出版署回应网游管理办法草案",
+        "onboard_time": 1703324739,
+        "rank": 32,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 231727,
+        "num": 231727,
+        "word": "英一作文 古代科学家",
+        "onboard_time": 1703323960,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229090,
+        "num": 229090,
+        "word": "英语阅读",
+        "onboard_time": 1703328758,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209280,
+        "num": 209280,
+        "word": "丁程鑫淘汰环节一直捂耳朵",
+        "onboard_time": 1703329473,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201054,
+        "num": 201054,
+        "word": "考研",
+        "onboard_time": 1703300433,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198147,
+        "num": 198147,
+        "word": "石雷鹏预测",
+        "onboard_time": 1703324858,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190304,
+        "num": 190304,
+        "word": "金靖爆改韩系美女",
+        "onboard_time": 1703300791,
+        "rank": 38,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 189644,
+        "num": 189644,
+        "word": "昨天吃的饺子瞬间觉得不香了",
+        "onboard_time": 1703315434,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182048,
+        "num": 182048,
+        "word": "2024研招调查报告",
+        "onboard_time": 1703327976,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98325,
+        "num": 177786,
+        "word": "奶爸袋鼠式带娃坐地铁",
+        "onboard_time": 1703327374,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176085,
+        "num": 176085,
+        "word": "汪苏泷强调三次听歌",
+        "onboard_time": 1703328576,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175269,
+        "num": 175269,
+        "word": "孙楠古巨基 唱出了何非的心声",
+        "onboard_time": 1703329656,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174589,
+        "num": 174589,
+        "word": "万鹏因为选上女主崩溃大哭",
+        "onboard_time": 1703322878,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162262,
+        "num": 162262,
+        "word": "考研日语",
+        "onboard_time": 1703326655,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154909,
+        "num": 154909,
+        "word": "胡彦斌高情商回复何炅",
+        "onboard_time": 1703329895,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152251,
+        "num": 152251,
+        "word": "杨洋白鹿 明日千里",
+        "onboard_time": 1703309673,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135777,
+        "num": 135777,
+        "word": "与恶魔有约OST",
+        "onboard_time": 1703327618,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133133,
+        "num": 133133,
+        "word": "入青云 陈星旭卢昱晓",
+        "onboard_time": 1703325517,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固拓展主题教育成果要常学常新#"
+    }
+  }
+}

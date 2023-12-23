@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703327682387,
+  "endTime": 1703330069932,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2149052,
+      "num": 2149052,
+      "word": "老师 是不是发错卷了",
+      "onboard_time": 1703325338,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2092829,
       "num": 549302,
       "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
@@ -129,14 +137,6 @@
       "onboard_time": 1703319392,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1587765,
-      "num": 1587765,
-      "word": "老师 是不是发错卷了",
-      "onboard_time": 1703325338,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 1539673,
@@ -209,6 +209,14 @@
       "onboard_time": 1703258557,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1202736,
+      "num": 1202736,
+      "word": "花少5压中考研政治题",
+      "onboard_time": 1703328634,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1168552,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 529791,
-      "num": 2428733,
+      "num": 2805197,
       "word": "浙大学霸用一页纸证明自己",
       "onboard_time": 1703318672,
       "rank": 24,
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 480053,
-      "num": 465352,
+      "num": 477462,
       "word": "李健曾发微博回忆朱令",
       "onboard_time": 1703325457,
       "rank": 31,
@@ -723,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368774,
+      "num": 368774,
+      "word": "奶酪写成奶酷",
+      "onboard_time": 1703327197,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 366960,
       "num": 366960,
       "word": "永夜星河杀青",
@@ -769,6 +785,14 @@
       "onboard_time": 1703323960,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356599,
+      "num": 356599,
+      "word": "多所知名高校停招学硕",
+      "onboard_time": 1703329056,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 354852,
@@ -867,12 +891,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 319211,
-      "num": 319211,
-      "word": "奶酪写成奶酷",
+      "raw_hot": 314788,
+      "num": 314788,
+      "word": "铊中毒至今无良好治疗对策",
       "onboard_time": 1703327197,
-      "rank": 30,
-      "category": "教育"
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 313774,
+      "num": 313774,
+      "word": "小兰这段三观太正了",
+      "onboard_time": 1703328935,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 305532,
@@ -1099,6 +1131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 252690,
+      "num": 252690,
+      "word": "谢娜回湖南卫视跨年",
+      "onboard_time": 1703327797,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252179,
       "num": 254061,
       "word": "私自拍摄敏感军事装备严重危害国家安全",
@@ -1107,20 +1147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250455,
+      "num": 250455,
+      "word": "光与夜之恋 婚卡",
+      "onboard_time": 1703329235,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248448,
       "num": 248448,
       "word": "黄景瑜评论区 电子饺子",
       "onboard_time": 1703305781,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247001,
-      "num": 247001,
-      "word": "铊中毒至今无良好治疗对策",
-      "onboard_time": 1703327197,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 245363,
@@ -1227,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229090,
+      "num": 229090,
+      "word": "英语阅读",
+      "onboard_time": 1703328758,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 228936,
       "num": 228936,
       "word": "阿音仙骨已碎",
@@ -1331,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210792,
+      "num": 1874737,
+      "word": "天黑了帐篷没到震区34岁的他急哭",
+      "onboard_time": 1703323180,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210557,
       "num": 210557,
       "word": "李承铉 你们聊我卷铺盖走人",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1703260112,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209280,
+      "num": 209280,
+      "word": "丁程鑫淘汰环节一直捂耳朵",
+      "onboard_time": 1703329473,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 208934,
@@ -1627,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182048,
+      "num": 182048,
+      "word": "2024研招调查报告",
+      "onboard_time": 1703327976,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 179832,
       "num": 179832,
       "word": "春节 联合国假日",
@@ -1643,20 +1715,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177189,
-      "num": 1874737,
-      "word": "天黑了帐篷没到震区34岁的他急哭",
-      "onboard_time": 1703323180,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177112,
       "num": 177112,
       "word": "反咬老鼠",
       "onboard_time": 1703301214,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176085,
+      "num": 176085,
+      "word": "汪苏泷强调三次听歌",
+      "onboard_time": 1703328576,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175269,
+      "num": 175269,
+      "word": "孙楠古巨基 唱出了何非的心声",
+      "onboard_time": 1703329656,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 174930,
@@ -1777,6 +1857,14 @@
       "onboard_time": 1703327618,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154909,
+      "num": 154909,
+      "word": "胡彦斌高情商回复何炅",
+      "onboard_time": 1703329895,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 154032,
@@ -2099,6 +2187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123923,
+      "num": 769688,
+      "word": "考点为脑瘫学生安排了一个特殊考场",
+      "onboard_time": 1703329596,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123779,
       "num": 123779,
       "word": "宋亚轩看见韩红秒怂",
@@ -2307,20 +2403,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98325,
+      "num": 1160540,
+      "word": "奶爸袋鼠式带娃坐地铁",
+      "onboard_time": 1703327374,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98322,
       "num": 98322,
       "word": "运动员 饺子耳",
       "onboard_time": 1703263885,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 96429,
-      "num": 1160540,
-      "word": "奶爸袋鼠式带娃坐地铁",
-      "onboard_time": 1703327374,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96106,
@@ -2451,6 +2547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 38604,
+      "num": 3034237,
+      "word": "共赏改革开放新画卷",
+      "onboard_time": 1703318370,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34984,
       "num": 34984,
       "word": "游戏每日签到",
@@ -2473,14 +2577,6 @@
       "onboard_time": 1703268201,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28698,
-      "num": 3034237,
-      "word": "共赏改革开放新画卷",
-      "onboard_time": 1703318370,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24863,
