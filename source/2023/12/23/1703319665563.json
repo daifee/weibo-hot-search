@@ -1,0 +1,410 @@
+{
+  "runTime": 1703319665563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263680,
+        "num": 1263680,
+        "word": "papi酱的婚姻模式 超前",
+        "onboard_time": 1703312196,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1168552,
+        "num": 1168552,
+        "word": "父亲称朱令2次铊中毒活到现在是奇迹",
+        "onboard_time": 1703311414,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45746,
+        "num": 1084907,
+        "word": "乘风破浪一往直前",
+        "onboard_time": 1703319091,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1055589,
+        "num": 1055589,
+        "word": "昨天吃的饺子瞬间觉得不香了",
+        "onboard_time": 1703315434,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 534986,
+        "num": 534986,
+        "word": "沙溢 跑男",
+        "onboard_time": 1703310573,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2522309,
+        "num": 532294,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564724,
+        "num": 503827,
+        "word": "考研政治 简单",
+        "onboard_time": 1703301873,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 434335,
+        "num": 434335,
+        "word": "lucy姐 我没k",
+        "onboard_time": 1703316932,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409769,
+        "num": 409769,
+        "word": "金靖爆改韩系美女",
+        "onboard_time": 1703300791,
+        "rank": 8,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 366169,
+        "num": 366169,
+        "word": "钟楚曦 谁不喜欢帅哥呢",
+        "onboard_time": 1703317652,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 949423,
+        "num": 364692,
+        "word": "李梦娇 上岸",
+        "onboard_time": 1703318072,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 612661,
+        "num": 354240,
+        "word": "解清帅已开始直播带货",
+        "onboard_time": 1703310334,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497306,
+        "num": 341016,
+        "word": "警方曾称朱令案办案未受干扰",
+        "onboard_time": 1703315852,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486540,
+        "num": 330705,
+        "word": "于正 她那么高贵哪里像丫鬟",
+        "onboard_time": 1703293594,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481891,
+        "num": 320415,
+        "word": "没药花园 朱令经历将成为寓言",
+        "onboard_time": 1703314471,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475732,
+        "num": 308066,
+        "word": "朱令父亲发声",
+        "onboard_time": 1703306021,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298368,
+        "num": 298368,
+        "word": "金莎戒指找到了",
+        "onboard_time": 1703312672,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281447,
+        "num": 281447,
+        "word": "娱乐圈真正的小孩哥出现了",
+        "onboard_time": 1703295513,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276899,
+        "num": 276899,
+        "word": "朱令姐姐",
+        "onboard_time": 1703313033,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274452,
+        "num": 274452,
+        "word": "杨洋白鹿 明日千里",
+        "onboard_time": 1703309673,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302083,
+        "num": 270499,
+        "word": "甘肃麻辣烫的唯一缺点是外地没有",
+        "onboard_time": 1703314817,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264045,
+        "num": 264045,
+        "word": "张真源一夜没睡研究卧底是谁",
+        "onboard_time": 1703318970,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261158,
+        "num": 261158,
+        "word": "清华大学发博悼念朱令",
+        "onboard_time": 1703304221,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259838,
+        "num": 259838,
+        "word": "孙维",
+        "onboard_time": 1703301333,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256414,
+        "num": 256414,
+        "word": "浙大学霸用一页纸证明自己",
+        "onboard_time": 1703318672,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46297,
+        "num": 249362,
+        "word": "放心吧有陈楚生在",
+        "onboard_time": 1703318490,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245124,
+        "num": 245124,
+        "word": "私自拍摄敏感军事装备严重危害国家安全",
+        "onboard_time": 1703318432,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218408,
+        "num": 218408,
+        "word": "小沈阳巡演官宣20城",
+        "onboard_time": 1703318794,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214465,
+        "num": 214465,
+        "word": "工资突然暴涨是种什么体验",
+        "onboard_time": 1703303564,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209898,
+        "num": 209898,
+        "word": "林高远徐海东3比0王楚钦周启豪",
+        "onboard_time": 1703319392,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207975,
+        "num": 207975,
+        "word": "2023古现双爆大男主",
+        "onboard_time": 1703316751,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201380,
+        "num": 201380,
+        "word": "考研前夜图书馆闭馆响起一路生花",
+        "onboard_time": 1703318612,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197992,
+        "num": 197992,
+        "word": "考研",
+        "onboard_time": 1703300433,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183129,
+        "num": 183129,
+        "word": "朱令",
+        "onboard_time": 1703294676,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179832,
+        "num": 179832,
+        "word": "春节 联合国假日",
+        "onboard_time": 1703318553,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171033,
+        "num": 171033,
+        "word": "大学生1个月挂39个号被确诊疑病症",
+        "onboard_time": 1703305481,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165226,
+        "num": 165226,
+        "word": "湖南卫视跨年 阵容",
+        "onboard_time": 1703310632,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161482,
+        "num": 161482,
+        "word": "孙杨或彻底无缘巴黎奥运会",
+        "onboard_time": 1703304402,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156261,
+        "num": 156261,
+        "word": "朱令妈妈 我该怎么保护我的女儿",
+        "onboard_time": 1703319392,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154316,
+        "num": 154316,
+        "word": "孙释颜",
+        "onboard_time": 1703309553,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151599,
+        "num": 151599,
+        "word": "狸花猫 油头",
+        "onboard_time": 1703318850,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149302,
+        "num": 149302,
+        "word": "龙年主题款花饽饽教程",
+        "onboard_time": 1703319274,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143015,
+        "num": 143015,
+        "word": "这街采谐音梗含量太高了",
+        "onboard_time": 1703319451,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140772,
+        "num": 140772,
+        "word": "Hero BP",
+        "onboard_time": 1703316512,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134347,
+        "num": 134347,
+        "word": "甄嬛传最珍贵的是没一个人塌房",
+        "onboard_time": 1703296353,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133788,
+        "num": 133788,
+        "word": "铊中毒",
+        "onboard_time": 1703302298,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127548,
+        "num": 127548,
+        "word": "朱令最后一次演奏",
+        "onboard_time": 1703314817,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126150,
+        "num": 126150,
+        "word": "辛芷蕾 别听歌了",
+        "onboard_time": 1703314412,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122831,
+        "num": 122831,
+        "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
+        "onboard_time": 1703288906,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119537,
+        "num": 119537,
+        "word": "一图了解什么是铊中毒",
+        "onboard_time": 1703315609,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固拓展主题教育成果要常学常新#"
+    }
+  }
+}

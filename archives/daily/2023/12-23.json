@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703316831597,
+  "endTime": 1703319665563,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1168552,
+      "num": 1168552,
+      "word": "父亲称朱令2次铊中毒活到现在是奇迹",
+      "onboard_time": 1703311414,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1086689,
       "num": 1086689,
       "word": "考研政治答案",
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1055589,
+      "num": 1055589,
+      "word": "昨天吃的饺子瞬间觉得不香了",
+      "onboard_time": 1703315434,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1026202,
       "num": 613957,
       "word": "腾讯市值跌没了一个小米",
@@ -164,19 +180,19 @@
     },
     {
       "raw_hot": 996747,
-      "num": 311510,
+      "num": 354240,
       "word": "解清帅已开始直播带货",
       "onboard_time": 1703310334,
       "rank": 10,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 982696,
-      "num": 982696,
-      "word": "父亲称朱令2次铊中毒活到现在是奇迹",
-      "onboard_time": 1703311414,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 949423,
+      "num": 364692,
+      "word": "李梦娇 上岸",
+      "onboard_time": 1703318072,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 929492,
@@ -411,12 +427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497306,
+      "num": 341016,
+      "word": "警方曾称朱令案办案未受干扰",
+      "onboard_time": 1703315852,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482916,
       "num": 482916,
       "word": "25考研人汗流浃背",
       "onboard_time": 1703304402,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 481891,
+      "num": 320415,
+      "word": "没药花园 朱令经历将成为寓言",
+      "onboard_time": 1703314471,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459195,
@@ -435,20 +467,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 434335,
+      "num": 434335,
+      "word": "lucy姐 我没k",
+      "onboard_time": 1703316932,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 432794,
       "num": 432794,
       "word": "听音乐睡觉要小心耳虫效应",
       "onboard_time": 1703292990,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 432722,
-      "num": 299300,
-      "word": "昨天吃的饺子瞬间觉得不香了",
-      "onboard_time": 1703315434,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 430920,
@@ -523,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366169,
+      "num": 366169,
+      "word": "钟楚曦 谁不喜欢帅哥呢",
+      "onboard_time": 1703317652,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359238,
       "num": 359238,
       "word": "迪丽热巴 神女的圣火",
@@ -545,14 +585,6 @@
       "onboard_time": 1703286862,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 354692,
-      "num": 299068,
-      "word": "警方曾称朱令案办案未受干扰",
-      "onboard_time": 1703315852,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339074,
@@ -633,6 +665,14 @@
       "onboard_time": 1703251115,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302083,
+      "num": 270499,
+      "word": "甘肃麻辣烫的唯一缺点是外地没有",
+      "onboard_time": 1703314817,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 299871,
@@ -723,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 264045,
+      "num": 264045,
+      "word": "张真源一夜没睡研究卧底是谁",
+      "onboard_time": 1703318970,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263941,
       "num": 263941,
       "word": "未成年人游戏时长处于历史最低水平",
@@ -745,14 +793,6 @@
       "onboard_time": 1703301092,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261360,
-      "num": 261360,
-      "word": "甘肃麻辣烫的唯一缺点是外地没有",
-      "onboard_time": 1703314817,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 260966,
@@ -787,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256414,
+      "num": 256414,
+      "word": "浙大学霸用一页纸证明自己",
+      "onboard_time": 1703318672,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 254487,
       "num": 254487,
       "word": "Ghost退役",
@@ -803,14 +851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 253417,
-      "num": 198425,
-      "word": "没药花园 朱令经历将成为寓言",
-      "onboard_time": 1703314471,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248448,
       "num": 248448,
       "word": "黄景瑜评论区 电子饺子",
@@ -825,6 +865,14 @@
       "onboard_time": 1703299775,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245124,
+      "num": 245124,
+      "word": "私自拍摄敏感军事装备严重危害国家安全",
+      "onboard_time": 1703318432,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242466,
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218408,
+      "num": 218408,
+      "word": "小沈阳巡演官宣20城",
+      "onboard_time": 1703318794,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217778,
       "num": 217778,
       "word": "人民币成国际支付第四大货币",
@@ -1019,6 +1075,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209898,
+      "num": 209898,
+      "word": "林高远徐海东3比0王楚钦周启豪",
+      "onboard_time": 1703319392,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208733,
       "num": 208733,
       "word": "一战成硕",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1703308596,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207975,
+      "num": 207975,
+      "word": "2023古现双爆大男主",
+      "onboard_time": 1703316751,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205723,
@@ -1088,6 +1160,14 @@
       "word": "管综答案",
       "onboard_time": 1703305839,
       "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 201380,
+      "num": 201380,
+      "word": "考研前夜图书馆闭馆响起一路生花",
+      "onboard_time": 1703318612,
+      "rank": 31,
       "category": "教育"
     },
     {
@@ -1219,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179832,
+      "num": 179832,
+      "word": "春节 联合国假日",
+      "onboard_time": 1703318553,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178288,
       "num": 178288,
       "word": "朱令最后一次演奏",
@@ -1331,6 +1419,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 156261,
+      "num": 156261,
+      "word": "朱令妈妈 我该怎么保护我的女儿",
+      "onboard_time": 1703319392,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156063,
       "num": 156063,
       "word": "TODS致歉",
@@ -1369,6 +1465,14 @@
       "onboard_time": 1703312493,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 151599,
+      "num": 151599,
+      "word": "狸花猫 油头",
+      "onboard_time": 1703318850,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 151014,
@@ -1417,6 +1521,14 @@
       "onboard_time": 1703238873,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149302,
+      "num": 149302,
+      "word": "龙年主题款花饽饽教程",
+      "onboard_time": 1703319274,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 148545,
@@ -1489,6 +1601,14 @@
       "onboard_time": 1703310873,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143015,
+      "num": 143015,
+      "word": "这街采谐音梗含量太高了",
+      "onboard_time": 1703319451,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 143007,
@@ -1641,14 +1761,6 @@
       "onboard_time": 1703289146,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 122496,
-      "num": 122496,
-      "word": "2023古现双爆大男主",
-      "onboard_time": 1703316751,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121534,
@@ -1881,6 +1993,22 @@
       "onboard_time": 1703315194,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46297,
+      "num": 249362,
+      "word": "放心吧有陈楚生在",
+      "onboard_time": 1703318490,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45746,
+      "num": 1084907,
+      "word": "乘风破浪一往直前",
+      "onboard_time": 1703319091,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45085,
