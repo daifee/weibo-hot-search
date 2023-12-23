@@ -1,30 +1,30 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703301488111,
+  "endTime": 1703302460308,
   "band_list": [
     {
-      "raw_hot": 3576366,
-      "num": 3576366,
+      "raw_hot": 10322631,
+      "num": 10322631,
       "word": "朱令去世",
       "onboard_time": 1703300913,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2092829,
-      "num": 505793,
-      "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
-      "onboard_time": 1703288906,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1965942,
-      "num": 1965942,
+      "raw_hot": 2336145,
+      "num": 2336145,
       "word": "考研",
       "onboard_time": 1703300433,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2092829,
+      "num": 549302,
+      "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
+      "onboard_time": 1703288906,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1908289,
@@ -51,8 +51,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1614762,
+      "num": 1614762,
+      "word": "考研政治 简单",
+      "onboard_time": 1703301873,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1358608,
-      "num": 532292,
+      "num": 565069,
       "word": "于正 她那么高贵哪里像丫鬟",
       "onboard_time": 1703293594,
       "rank": 30,
@@ -97,6 +105,14 @@
       "onboard_time": 1703291249,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905357,
+      "num": 905357,
+      "word": "金靖爆改韩系美女",
+      "onboard_time": 1703300791,
+      "rank": 13,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 841235,
@@ -227,14 +243,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 452230,
-      "num": 452230,
-      "word": "金靖爆改韩系美女",
-      "onboard_time": 1703300791,
-      "rank": 13,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 439371,
       "num": 272629,
       "word": "刘涛认出媒体的手机壳是肖战",
@@ -273,6 +281,14 @@
       "onboard_time": 1703287463,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 419455,
+      "num": 263344,
+      "word": "孙维",
+      "onboard_time": 1703301333,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403956,
@@ -459,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262887,
+      "num": 262887,
+      "word": "女主播为套牢粉丝私发淫秽视频",
+      "onboard_time": 1703301092,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259778,
       "num": 259778,
       "word": "赵嘉敏",
@@ -547,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226359,
+      "num": 226359,
+      "word": "官方回应奶奶抱摔2岁孙子",
+      "onboard_time": 1703301037,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222677,
       "num": 222677,
       "word": "考研生因为睡不着一大早就来自习室",
@@ -571,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219470,
-      "num": 219470,
-      "word": "女主播为套牢粉丝私发淫秽视频",
-      "onboard_time": 1703301092,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216403,
       "num": 216403,
       "word": "周深 不好意思会的太多了",
@@ -595,12 +619,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 211873,
+      "num": 209867,
+      "word": "研究生严进严出渐成大势",
+      "onboard_time": 1703301933,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211411,
       "num": 211411,
       "word": "小S 在摄影棚有严重的容貌焦虑",
       "onboard_time": 1703294849,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210557,
+      "num": 210557,
+      "word": "李承铉 你们聊我卷铺盖走人",
+      "onboard_time": 1703301996,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 210481,
@@ -659,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192823,
+      "num": 192823,
+      "word": "甄嬛传 圣诞风",
+      "onboard_time": 1703301513,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192061,
       "num": 192061,
       "word": "金裕贞喊宋江老公",
@@ -675,12 +723,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186734,
+      "num": 186734,
+      "word": "铊中毒",
+      "onboard_time": 1703302298,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184862,
       "num": 184862,
       "word": "拉宏桑 在陈奕迅面前唱孤勇者",
       "onboard_time": 1703258075,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177112,
+      "num": 177112,
+      "word": "反咬老鼠",
+      "onboard_time": 1703301214,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174453,
@@ -691,28 +755,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 172789,
-      "num": 172789,
-      "word": "反咬老鼠",
-      "onboard_time": 1703301214,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171760,
       "num": 171760,
       "word": "考研前一天的心情",
       "onboard_time": 1703256936,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 171117,
-      "num": 171117,
-      "word": "官方回应奶奶抱摔2岁孙子",
-      "onboard_time": 1703301037,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167470,
@@ -729,14 +777,6 @@
       "onboard_time": 1703267418,
       "rank": 18,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 161719,
-      "num": 161719,
-      "word": "孙维",
-      "onboard_time": 1703301333,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161099,
@@ -857,6 +897,14 @@
       "onboard_time": 1703243491,
       "rank": 36,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 137247,
+      "num": 137247,
+      "word": "2023当我们谈论命运的齿轮",
+      "onboard_time": 1703302356,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 136081,
@@ -1091,6 +1139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 73038,
+      "num": 1864393,
+      "word": "听见2023的中国",
+      "onboard_time": 1703298453,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72772,
       "num": 72772,
       "word": "50岁女子哭着讲述砂涌逃生",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1703287343,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68492,
-      "num": 1549522,
-      "word": "听见2023的中国",
-      "onboard_time": 1703298453,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 65458,
