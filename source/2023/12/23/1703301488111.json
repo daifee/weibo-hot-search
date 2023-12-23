@@ -1,0 +1,410 @@
+{
+  "runTime": 1703301488111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3576366,
+        "num": 3576366,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1965942,
+        "num": 1965942,
+        "word": "考研",
+        "onboard_time": 1703300433,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67181,
+        "num": 1549522,
+        "word": "听见2023的中国",
+        "onboard_time": 1703298453,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1455795,
+        "num": 1455795,
+        "word": "图书馆空了",
+        "onboard_time": 1703293351,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1272526,
+        "num": 1272526,
+        "word": "娱乐圈真正的小孩哥出现了",
+        "onboard_time": 1703295513,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810642,
+        "num": 810642,
+        "word": "联合国通过决议将春节作为联合国假日",
+        "onboard_time": 1703297194,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 733830,
+        "num": 733830,
+        "word": "老人去世后房子被物业改成宿舍",
+        "onboard_time": 1703296534,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659790,
+        "num": 659790,
+        "word": "赵晴 美女们的丫鬟",
+        "onboard_time": 1703295390,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626284,
+        "num": 626284,
+        "word": "甄嬛传最珍贵的是没一个人塌房",
+        "onboard_time": 1703296353,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 539661,
+        "num": 539661,
+        "word": "你好星期六 试镜大会",
+        "onboard_time": 1703299233,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1174129,
+        "num": 532292,
+        "word": "于正 她那么高贵哪里像丫鬟",
+        "onboard_time": 1703293594,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1037392,
+        "num": 505793,
+        "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
+        "onboard_time": 1703288906,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474730,
+        "num": 474730,
+        "word": "易烊千玺当评委",
+        "onboard_time": 1703257894,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452230,
+        "num": 452230,
+        "word": "金靖爆改韩系美女",
+        "onboard_time": 1703300791,
+        "rank": 13,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 438076,
+        "num": 438076,
+        "word": "考研人数3年来首次下降",
+        "onboard_time": 1703291249,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416478,
+        "num": 416478,
+        "word": "被老鼠咬后反咬女子室友发声",
+        "onboard_time": 1703258557,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378442,
+        "num": 378442,
+        "word": "考研第一天",
+        "onboard_time": 1703287463,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366302,
+        "num": 366302,
+        "word": "原来是美男 少女时代",
+        "onboard_time": 1703299293,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336194,
+        "num": 336194,
+        "word": "女生称公交上被男子多次用下身摩擦",
+        "onboard_time": 1703287583,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277446,
+        "num": 277446,
+        "word": "秦海璐的丑鞋子",
+        "onboard_time": 1703298453,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1842763,
+        "num": 273942,
+        "word": "朱令",
+        "onboard_time": 1703294676,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439371,
+        "num": 272629,
+        "word": "刘涛认出媒体的手机壳是肖战",
+        "onboard_time": 1703300433,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269924,
+        "num": 269924,
+        "word": "心疼赵晴",
+        "onboard_time": 1703296713,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257415,
+        "num": 257415,
+        "word": "5个月男婴被拐24年终和父母相见了",
+        "onboard_time": 1703300072,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254487,
+        "num": 254487,
+        "word": "Ghost退役",
+        "onboard_time": 1703298212,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246625,
+        "num": 246625,
+        "word": "周末补觉1小时心血管病风险降六成",
+        "onboard_time": 1703295572,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245598,
+        "num": 245598,
+        "word": "男朋友总被认成儿子",
+        "onboard_time": 1703294849,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245363,
+        "num": 245363,
+        "word": "奔跑吧 推理",
+        "onboard_time": 1703299775,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234500,
+        "num": 234500,
+        "word": "江晓媛跳楼",
+        "onboard_time": 1703287281,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226845,
+        "num": 226845,
+        "word": "王曼昱记错了人",
+        "onboard_time": 1703299834,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221960,
+        "num": 221960,
+        "word": "陈坤对张婧仪是当女儿来宠吧",
+        "onboard_time": 1703294133,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219470,
+        "num": 219470,
+        "word": "女主播为套牢粉丝私发淫秽视频",
+        "onboard_time": 1703301092,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209905,
+        "num": 209905,
+        "word": "会穿衣服也是一种天赋",
+        "onboard_time": 1703296771,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207158,
+        "num": 207158,
+        "word": "白雪公主和七个大高个",
+        "onboard_time": 1703298512,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202249,
+        "num": 202249,
+        "word": "辛芷蕾 华语乐坛新晋天后",
+        "onboard_time": 1703299952,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193689,
+        "num": 193689,
+        "word": "听音乐睡觉要小心耳虫效应",
+        "onboard_time": 1703292990,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188952,
+        "num": 188952,
+        "word": "大学生算是把婚礼流程整明白了",
+        "onboard_time": 1703299893,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184429,
+        "num": 184429,
+        "word": "为438万考研人加油",
+        "onboard_time": 1703296954,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174453,
+        "num": 174453,
+        "word": "考研时间",
+        "onboard_time": 1703289328,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172789,
+        "num": 172789,
+        "word": "反咬老鼠",
+        "onboard_time": 1703301214,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171117,
+        "num": 171117,
+        "word": "官方回应奶奶抱摔2岁孙子",
+        "onboard_time": 1703301037,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165050,
+        "num": 165050,
+        "word": "关晓彤 跳了gidle的舞",
+        "onboard_time": 1703292152,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161719,
+        "num": 161719,
+        "word": "孙维",
+        "onboard_time": 1703301333,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154587,
+        "num": 154587,
+        "word": "薛之谦曾为蔡文静片场发飙",
+        "onboard_time": 1703287762,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153853,
+        "num": 153853,
+        "word": "鸣龙少年剧粉开始癫了",
+        "onboard_time": 1703297491,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151170,
+        "num": 151170,
+        "word": "樊振东 状态不好的时候需要刺激自己",
+        "onboard_time": 1703298032,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148163,
+        "num": 148163,
+        "word": "普京为一名坐轮椅女学生中断会议",
+        "onboard_time": 1703292932,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143007,
+        "num": 143007,
+        "word": "蔡依林 跨年",
+        "onboard_time": 1703300973,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139201,
+        "num": 139201,
+        "word": "赵嘉敏",
+        "onboard_time": 1703296593,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139028,
+        "num": 139028,
+        "word": "杨幂到达上海",
+        "onboard_time": 1703288906,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为强国建设民族复兴伟业汇聚强大力量#"
+    }
+  }
+}
