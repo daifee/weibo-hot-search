@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703315739039,
+  "endTime": 1703316831597,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -91,20 +91,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1460727,
+      "num": 1460727,
+      "word": "papi酱的婚姻模式 超前",
+      "onboard_time": 1703312196,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1358608,
       "num": 653103,
       "word": "于正 她那么高贵哪里像丫鬟",
       "onboard_time": 1703293594,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1283631,
-      "num": 1283631,
-      "word": "papi酱的婚姻模式 超前",
-      "onboard_time": 1703312196,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 1272526,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 982696,
+      "num": 982696,
+      "word": "父亲称朱令2次铊中毒活到现在是奇迹",
+      "onboard_time": 1703311414,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929492,
       "num": 929492,
       "word": "考研人数3年来首次下降",
@@ -225,14 +233,6 @@
       "onboard_time": 1703295390,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 748735,
-      "num": 298111,
-      "word": "父亲称朱令2次铊中毒活到现在是奇迹",
-      "onboard_time": 1703311414,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 733830,
@@ -388,11 +388,19 @@
     },
     {
       "raw_hot": 510574,
-      "num": 255220,
+      "num": 299527,
       "word": "朱令姐姐",
       "onboard_time": 1703313033,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 505146,
+      "num": 505146,
+      "word": "金莎戒指找到了",
+      "onboard_time": 1703312672,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 501774,
@@ -409,14 +417,6 @@
       "onboard_time": 1703304402,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 479221,
-      "num": 479221,
-      "word": "金莎戒指找到了",
-      "onboard_time": 1703312672,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 459195,
@@ -441,6 +441,14 @@
       "onboard_time": 1703292990,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 432722,
+      "num": 299300,
+      "word": "昨天吃的饺子瞬间觉得不香了",
+      "onboard_time": 1703315434,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 430920,
@@ -539,6 +547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 354692,
+      "num": 299068,
+      "word": "警方曾称朱令案办案未受干扰",
+      "onboard_time": 1703315852,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339074,
       "num": 339074,
       "word": "普京为一名坐轮椅女学中断会议",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 335863,
-      "num": 253148,
+      "num": 300223,
       "word": "追风小叶诉讼只为揭掉偷拍者标签",
       "onboard_time": 1703314653,
       "rank": 16,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261360,
+      "num": 261360,
+      "word": "甘肃麻辣烫的唯一缺点是外地没有",
+      "onboard_time": 1703314817,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 260966,
       "num": 260966,
       "word": "王一博 湖南卫视跨年",
@@ -779,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 253417,
+      "num": 198425,
+      "word": "没药花园 朱令经历将成为寓言",
+      "onboard_time": 1703314471,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248448,
       "num": 248448,
       "word": "黄景瑜评论区 电子饺子",
@@ -817,14 +849,6 @@
       "onboard_time": 1703302538,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239322,
-      "num": 198425,
-      "word": "没药花园 朱令经历将成为寓言",
-      "onboard_time": 1703314471,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236828,
@@ -937,14 +961,6 @@
       "onboard_time": 1703287040,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218418,
-      "num": 218418,
-      "word": "甘肃麻辣烫的唯一缺点是外地没有",
-      "onboard_time": 1703314817,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 217778,
@@ -1123,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191926,
+      "num": 191926,
+      "word": "Hero BP",
+      "onboard_time": 1703316512,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191652,
       "num": 191652,
       "word": "保罗克莱友好互动",
@@ -1195,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178288,
+      "num": 178288,
+      "word": "朱令最后一次演奏",
+      "onboard_time": 1703314817,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177112,
       "num": 177112,
       "word": "反咬老鼠",
@@ -1227,6 +1259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 171303,
+      "num": 188852,
+      "word": "一图了解什么是铊中毒",
+      "onboard_time": 1703315609,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169272,
       "num": 169272,
       "word": "谢谢肖爷爷",
@@ -1243,12 +1283,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 165877,
-      "num": 165877,
-      "word": "朱令最后一次演奏",
-      "onboard_time": 1703314817,
-      "rank": 33,
+      "raw_hot": 165449,
+      "num": 165449,
+      "word": "小学老师用药水帮女孩洗头除虱子",
+      "onboard_time": 1703315490,
+      "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165181,
+      "num": 165181,
+      "word": "王安宇教赵露思科目三",
+      "onboard_time": 1703315914,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 164179,
@@ -1257,14 +1305,6 @@
       "onboard_time": 1703267418,
       "rank": 18,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 163908,
-      "num": 163908,
-      "word": "昨天吃的饺子瞬间觉得不香了",
-      "onboard_time": 1703315434,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 162200,
@@ -1475,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140151,
-      "num": 140151,
-      "word": "小学老师用药水帮女孩洗头除虱子",
-      "onboard_time": 1703315490,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139677,
       "num": 139677,
       "word": "管综逻辑",
@@ -1529,14 +1561,6 @@
       "onboard_time": 1703259632,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131310,
-      "num": 131310,
-      "word": "一图了解什么是铊中毒",
-      "onboard_time": 1703315609,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128477,
@@ -1587,6 +1611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123779,
+      "num": 123779,
+      "word": "宋亚轩看见韩红秒怂",
+      "onboard_time": 1703316690,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123759,
       "num": 123759,
       "word": "长期不吃肉身体会发生什么变化",
@@ -1611,6 +1643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122496,
+      "num": 122496,
+      "word": "2023古现双爆大男主",
+      "onboard_time": 1703316751,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121534,
       "num": 121534,
       "word": "四川人连熊猫都喊安逸",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1703262329,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119721,
+      "num": 119721,
+      "word": "电视剧脱轨",
+      "onboard_time": 1703316811,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119459,
@@ -1828,7 +1876,7 @@
     },
     {
       "raw_hot": 51539,
-      "num": 198435,
+      "num": 264872,
       "word": "杨迪在进行一种很新的面试",
       "onboard_time": 1703315194,
       "rank": 30,
