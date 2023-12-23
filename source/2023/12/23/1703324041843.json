@@ -1,0 +1,410 @@
+{
+  "runTime": 1703324041843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9024738,
+        "num": 9024738,
+        "word": "考研英语",
+        "onboard_time": 1703320291,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 4486736,
+        "num": 4486736,
+        "word": "考研英语 难",
+        "onboard_time": 1703323299,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112413,
+        "num": 3157900,
+        "word": "乘风破浪一往直前",
+        "onboard_time": 1703319091,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2986956,
+        "num": 2986956,
+        "word": "英语一 最猛的1",
+        "onboard_time": 1703322998,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1237912,
+        "num": 1237912,
+        "word": "考研英语答案",
+        "onboard_time": 1703322998,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2162265,
+        "num": 1191663,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1469840,
+        "num": 1183482,
+        "word": "朱令妈妈 我该怎么保护我的女儿",
+        "onboard_time": 1703319392,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041318,
+        "num": 1041318,
+        "word": "甜馨拍杂志了",
+        "onboard_time": 1703321072,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 643345,
+        "num": 643345,
+        "word": "papi酱的婚姻模式 超前",
+        "onboard_time": 1703312196,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 571806,
+        "num": 571806,
+        "word": "我嗑的cp因为咖位没有以后了",
+        "onboard_time": 1703321493,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38785,
+        "num": 571530,
+        "word": "别克E5",
+        "onboard_time": 1703322456,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 4404641,
+        "num": 570755,
+        "word": "英语二 平等地创飞所有人",
+        "onboard_time": 1703322998,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 801043,
+        "num": 570585,
+        "word": "朱令铊中毒事件",
+        "onboard_time": 1703322456,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788019,
+        "num": 569585,
+        "word": "李梦娇 上岸",
+        "onboard_time": 1703318072,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 730417,
+        "num": 569106,
+        "word": "朱令遗体告别仪式明日举行",
+        "onboard_time": 1703321373,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568975,
+        "num": 568975,
+        "word": "昨天吃的饺子瞬间觉得不香了",
+        "onboard_time": 1703315434,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 812148,
+        "num": 538898,
+        "word": "考研政治 简单",
+        "onboard_time": 1703301873,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 479727,
+        "num": 479727,
+        "word": "朱令父亲发声",
+        "onboard_time": 1703306021,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438991,
+        "num": 438991,
+        "word": "考研",
+        "onboard_time": 1703300433,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 431007,
+        "num": 431007,
+        "word": "浙大学霸用一页纸证明自己",
+        "onboard_time": 1703318672,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 420221,
+        "num": 420221,
+        "word": "万鹏因为选上女主崩溃大哭",
+        "onboard_time": 1703322878,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373223,
+        "num": 373223,
+        "word": "沙溢 跑男",
+        "onboard_time": 1703310573,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357310,
+        "num": 357310,
+        "word": "王楚钦3比0林高远",
+        "onboard_time": 1703323960,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329068,
+        "num": 329068,
+        "word": "春晚 科目三",
+        "onboard_time": 1703323721,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314949,
+        "num": 314949,
+        "word": "父亲称朱令2次铊中毒活到现在是奇迹",
+        "onboard_time": 1703311414,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304332,
+        "num": 304332,
+        "word": "英语作文",
+        "onboard_time": 1703323899,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 276704,
+        "num": 276704,
+        "word": "圣诞头像",
+        "onboard_time": 1703322274,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270193,
+        "num": 270193,
+        "word": "金靖爆改韩系美女",
+        "onboard_time": 1703300791,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 268679,
+        "num": 268679,
+        "word": "张真源一夜没睡研究卧底是谁",
+        "onboard_time": 1703318970,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177189,
+        "num": 259929,
+        "word": "天黑了帐篷没到震区34岁的他急哭",
+        "onboard_time": 1703323180,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442509,
+        "num": 259644,
+        "word": "英一作文 古代科学家",
+        "onboard_time": 1703323960,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258990,
+        "num": 258990,
+        "word": "男子嫌假证办得太假报警",
+        "onboard_time": 1703321432,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257174,
+        "num": 257174,
+        "word": "钟楚曦 谁不喜欢帅哥呢",
+        "onboard_time": 1703317652,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232638,
+        "num": 232638,
+        "word": "孙维",
+        "onboard_time": 1703301333,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224994,
+        "num": 224994,
+        "word": "清华大学发博悼念朱令",
+        "onboard_time": 1703304221,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222398,
+        "num": 222398,
+        "word": "于正 她那么高贵哪里像丫鬟",
+        "onboard_time": 1703293594,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212614,
+        "num": 212614,
+        "word": "杨洋白鹿 明日千里",
+        "onboard_time": 1703309673,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207703,
+        "num": 207703,
+        "word": "李昌钰谈如何破获朱令案",
+        "onboard_time": 1703321432,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41699,
+        "num": 203069,
+        "word": "蛋仔乐园嘉年华",
+        "onboard_time": 1703321672,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202700,
+        "num": 202700,
+        "word": "小沈阳巡演官宣20城",
+        "onboard_time": 1703318794,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201877,
+        "num": 201877,
+        "word": "考研时间",
+        "onboard_time": 1703323960,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201458,
+        "num": 201458,
+        "word": "周深 让大家一起被爱供养",
+        "onboard_time": 1703322878,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200788,
+        "num": 200788,
+        "word": "中国国奥遭马来西亚绝杀",
+        "onboard_time": 1703321974,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199523,
+        "num": 199523,
+        "word": "第一次明显感受到i和e的区别",
+        "onboard_time": 1703320712,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194602,
+        "num": 194602,
+        "word": "解清帅已开始直播带货",
+        "onboard_time": 1703310334,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187171,
+        "num": 187171,
+        "word": "lucy姐 我没k",
+        "onboard_time": 1703316932,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186099,
+        "num": 186099,
+        "word": "朱令",
+        "onboard_time": 1703294676,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175505,
+        "num": 175505,
+        "word": "女子发生车祸路过的他在医院守了一小时",
+        "onboard_time": 1703320051,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170716,
+        "num": 170716,
+        "word": "林高远徐海东3比0王楚钦周启豪",
+        "onboard_time": 1703319392,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167853,
+        "num": 167853,
+        "word": "酒店早晨蓝牙叫醒考研人播一路生花",
+        "onboard_time": 1703322695,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固拓展主题教育成果要常学常新#"
+    }
+  }
+}
