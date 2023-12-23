@@ -1,0 +1,410 @@
+{
+  "runTime": 1703367243244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 66335,
+        "num": 66335,
+        "word": "钟南山称不主张长期佩戴口罩",
+        "onboard_time": 1703341179,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61254,
+        "num": 61254,
+        "word": "三个退出考研的人讲述为何而退",
+        "onboard_time": 1703344834,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7023,
+        "num": 60796,
+        "word": "卫星视角看中国",
+        "onboard_time": 1703334155,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60735,
+        "num": 60735,
+        "word": "微波炉热了十分钟的馒头",
+        "onboard_time": 1703341117,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60261,
+        "num": 60261,
+        "word": "一天八个小时不够你开会啊",
+        "onboard_time": 1703356339,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63662,
+        "num": 59701,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58547,
+        "num": 58547,
+        "word": "郭晶晶霍启刚 捐款7000万",
+        "onboard_time": 1703336015,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 54789,
+        "num": 54789,
+        "word": "某些大女主文现状",
+        "onboard_time": 1703346756,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48857,
+        "num": 48857,
+        "word": "别问雪多大 动物园里就剩它了",
+        "onboard_time": 1703361435,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38393,
+        "num": 38393,
+        "word": "间谍过家家 女儿长大了",
+        "onboard_time": 1703350346,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 51792,
+        "num": 38267,
+        "word": "甘肃24处不可移动文物在地震中受损",
+        "onboard_time": 1703360713,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38073,
+        "num": 38073,
+        "word": "井胧 得亏没签公司",
+        "onboard_time": 1703340158,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37556,
+        "num": 37556,
+        "word": "杨洋素颜合照",
+        "onboard_time": 1703347291,
+        "rank": 12,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 36776,
+        "num": 36776,
+        "word": "狂飙唐小龙重生之考进体制内",
+        "onboard_time": 1703337038,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35089,
+        "num": 35089,
+        "word": "脱轨 恐怖片",
+        "onboard_time": 1703345795,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34886,
+        "num": 34886,
+        "word": "甜馨 差不多十几年没看见嗯哼了",
+        "onboard_time": 1703336138,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32449,
+        "num": 32449,
+        "word": "杨丞琳演唱会",
+        "onboard_time": 1703343218,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31768,
+        "num": 31768,
+        "word": "考研英语",
+        "onboard_time": 1703320291,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26304,
+        "num": 26304,
+        "word": "变成小时候觉得冷漠的姐姐了",
+        "onboard_time": 1703344177,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24633,
+        "num": 24633,
+        "word": "程潇多骂爱看",
+        "onboard_time": 1703349688,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26384,
+        "num": 23677,
+        "word": "长期不摄入碳水对身体有何影响",
+        "onboard_time": 1703346692,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21339,
+        "num": 21339,
+        "word": "一念关山 be",
+        "onboard_time": 1703337160,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19317,
+        "num": 19317,
+        "word": "李健曾发微博回忆朱令",
+        "onboard_time": 1703325457,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18430,
+        "num": 18430,
+        "word": "内娱活人不如顶级素人",
+        "onboard_time": 1703336793,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18112,
+        "num": 18112,
+        "word": "石家庄大剧院音乐会观众高喊退票",
+        "onboard_time": 1703363416,
+        "rank": 24,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 17619,
+        "num": 17619,
+        "word": "倪妮唐嫣工作室 卧龙凤雏",
+        "onboard_time": 1703337278,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17120,
+        "num": 17120,
+        "word": "Jennie成立个人厂牌",
+        "onboard_time": 1703335176,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16813,
+        "num": 16813,
+        "word": "KSG战胜TTG",
+        "onboard_time": 1703344716,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16621,
+        "num": 16621,
+        "word": "不建议用卷纸擦嘴",
+        "onboard_time": 1703334633,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15555,
+        "num": 15555,
+        "word": "小兰这段三观太正了",
+        "onboard_time": 1703328935,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 66231,
+        "num": 15448,
+        "word": "美国常驻联合国代表的手怎么了",
+        "onboard_time": 1703362274,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15165,
+        "num": 15165,
+        "word": "华人博主记录在美失业",
+        "onboard_time": 1703365454,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14604,
+        "num": 14604,
+        "word": "萌兰和屁帘不共戴天",
+        "onboard_time": 1703342858,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14033,
+        "num": 14033,
+        "word": "自助草莓火锅",
+        "onboard_time": 1703333555,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13717,
+        "num": 13717,
+        "word": "朱令父亲发声",
+        "onboard_time": 1703306021,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13387,
+        "num": 13387,
+        "word": "石雷鹏 本人一篇都没有押中",
+        "onboard_time": 1703334214,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13137,
+        "num": 13137,
+        "word": "妈妈给女儿做的减肥晚餐",
+        "onboard_time": 1703339138,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 13054,
+        "num": 13054,
+        "word": "TTG巅峰对决KSG",
+        "onboard_time": 1703342740,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12958,
+        "num": 12958,
+        "word": "老北京为啥爱吃铜锅涮羊肉",
+        "onboard_time": 1703360235,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 12677,
+        "num": 12677,
+        "word": "考研数学考前提示",
+        "onboard_time": 1703343634,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25619,
+        "num": 12615,
+        "word": "朱令遗体告别仪式明日举行",
+        "onboard_time": 1703321373,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11946,
+        "num": 11946,
+        "word": "魔卡少女樱20年前的画风",
+        "onboard_time": 1703353579,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 11888,
+        "num": 11888,
+        "word": "周深汪苏泷 火龙果兄弟",
+        "onboard_time": 1703345554,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11804,
+        "num": 11804,
+        "word": "中医专家教你看手掌测健康",
+        "onboard_time": 1703366112,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 11625,
+        "num": 11625,
+        "word": "英语一 最猛的1",
+        "onboard_time": 1703322998,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11508,
+        "num": 11508,
+        "word": "鸣龙少年剧粉疯了也是正常",
+        "onboard_time": 1703346337,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11326,
+        "num": 11326,
+        "word": "短剧撒野",
+        "onboard_time": 1703334937,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11004,
+        "num": 11004,
+        "word": "花少5压中考研政治题",
+        "onboard_time": 1703328634,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10646,
+        "num": 10646,
+        "word": "有家回不去的感觉",
+        "onboard_time": 1703364493,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10581,
+        "num": 10581,
+        "word": "甜馨拍杂志了",
+        "onboard_time": 1703321072,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设宜居宜业和美乡村#"
+    }
+  }
+}
