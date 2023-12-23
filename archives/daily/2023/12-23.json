@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703312494011,
+  "endTime": 1703313276390,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -163,6 +163,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 896886,
+      "num": 311510,
+      "word": "解清帅已开始直播带货",
+      "onboard_time": 1703310334,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868042,
       "num": 868042,
       "word": "清华大学发博悼念朱令",
@@ -275,11 +283,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 667902,
-      "num": 311510,
-      "word": "解清帅已开始直播带货",
-      "onboard_time": 1703310334,
-      "rank": 10,
+      "raw_hot": 671366,
+      "num": 298111,
+      "word": "父亲称朱令2次铊中毒活到现在是奇迹",
+      "onboard_time": 1703311414,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -315,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 546896,
-      "num": 298111,
-      "word": "父亲称朱令2次铊中毒活到现在是奇迹",
-      "onboard_time": 1703311414,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 544220,
+      "num": 544220,
+      "word": "papi酱的婚姻模式 超前",
+      "onboard_time": 1703312196,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 539661,
@@ -467,19 +475,19 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 379405,
+      "num": 243052,
+      "word": "孙释颜",
+      "onboard_time": 1703309553,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373012,
       "num": 373012,
       "word": "高铁乘务员心脏骤停一下来了3位医生",
       "onboard_time": 1703253699,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369584,
-      "num": 243052,
-      "word": "孙释颜",
-      "onboard_time": 1703309553,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -577,6 +585,14 @@
       "onboard_time": 1703294133,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 307798,
+      "num": 255553,
+      "word": "金莎戒指找到了",
+      "onboard_time": 1703312672,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 305532,
@@ -715,20 +731,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258578,
+      "num": 210209,
+      "word": "朱令一个月前刚度过50岁生日",
+      "onboard_time": 1703312253,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257415,
       "num": 257415,
       "word": "5个月男婴被拐24年终和父母相见了",
       "onboard_time": 1703300072,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256298,
-      "num": 229297,
-      "word": "papi酱的婚姻模式 超前",
-      "onboard_time": 1703312196,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 254487,
@@ -1067,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191652,
+      "num": 191652,
+      "word": "保罗克莱友好互动",
+      "onboard_time": 1703312852,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188952,
       "num": 188952,
       "word": "大学生算是把婚礼流程整明白了",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1703305001,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186068,
+      "num": 186068,
+      "word": "朱令案几大疑点",
+      "onboard_time": 1703312436,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186040,
@@ -1123,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182283,
+      "num": 182283,
+      "word": "朱令姐姐",
+      "onboard_time": 1703313033,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177112,
       "num": 177112,
       "word": "反咬老鼠",
@@ -1145,14 +1185,6 @@
       "onboard_time": 1703289328,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 173484,
-      "num": 173484,
-      "word": "朱令一个月前刚度过50岁生日",
-      "onboard_time": 1703312253,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171760,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1703264244,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151826,
+      "num": 151826,
+      "word": "i人男友帮考研女友全宿舍祈福",
+      "onboard_time": 1703312493,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 151014,
@@ -1379,6 +1419,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 138574,
+      "num": 170190,
+      "word": "数九寒天健康日历",
+      "onboard_time": 1703312373,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 137247,
       "num": 137247,
       "word": "2023当我们谈论命运的齿轮",
@@ -1451,14 +1499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124129,
-      "num": 124129,
-      "word": "数九寒天健康日历",
-      "onboard_time": 1703312373,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123759,
       "num": 123759,
       "word": "长期不吃肉身体会发生什么变化",
@@ -1529,14 +1569,6 @@
       "onboard_time": 1703262571,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116155,
-      "num": 116155,
-      "word": "朱令案几大疑点",
-      "onboard_time": 1703312436,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114782,
