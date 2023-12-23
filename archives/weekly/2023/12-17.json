@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703342050314,
+  "endTime": 1703344596502,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 1387167,
-      "num": 976451,
+      "num": 1026362,
       "word": "甜馨 差不多十几年没看见嗯哼了",
       "onboard_time": 1703336138,
       "rank": 10,
@@ -1811,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1137620,
+      "num": 1137620,
+      "word": "钟南山称不主张长期佩戴口罩",
+      "onboard_time": 1703341179,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1135218,
       "num": 1054865,
       "word": "许佳玲遇害前一天刚与男友拍完婚纱照",
@@ -2084,7 +2092,7 @@
     },
     {
       "raw_hot": 1041343,
-      "num": 445753,
+      "num": 633482,
       "word": "肖战吃烤鱼",
       "onboard_time": 1703341595,
       "rank": 10,
@@ -2361,6 +2369,14 @@
       "onboard_time": 1703231553,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 959289,
+      "num": 959289,
+      "word": "微波炉热了十分钟的馒头",
+      "onboard_time": 1703341117,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 957840,
@@ -3787,6 +3803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 673129,
+      "num": 673129,
+      "word": "杨丞琳演唱会",
+      "onboard_time": 1703343218,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 673008,
       "num": 470708,
       "word": "何猷君第一次牵奚梦瑶手被拒",
@@ -4503,14 +4527,6 @@
       "num": 576312,
       "word": "爱尔眼科集团通报",
       "onboard_time": 1703200884,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576228,
-      "num": 444294,
-      "word": "钟南山称不主张长期佩戴口罩",
-      "onboard_time": 1703341179,
       "rank": 11,
       "category": "社会新闻"
     },
@@ -6195,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439921,
+      "num": 439921,
+      "word": "TTG巅峰对决KSG",
+      "onboard_time": 1703342740,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 439371,
       "num": 302560,
       "word": "刘涛认出媒体的手机壳是肖战",
@@ -6833,6 +6857,14 @@
       "onboard_time": 1702777171,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396495,
+      "num": 396495,
+      "word": "周小仙 延吉公主一日体验",
+      "onboard_time": 1703341060,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 395215,
@@ -7620,7 +7652,7 @@
     },
     {
       "raw_hot": 349708,
-      "num": 282429,
+      "num": 298765,
       "word": "井胧 得亏没签公司",
       "onboard_time": 1703340158,
       "rank": 20,
@@ -8515,14 +8547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314592,
-      "num": 198991,
-      "word": "微波炉热了十分钟的馒头",
-      "onboard_time": 1703341117,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 313923,
       "num": 313923,
       "word": "张婧仪周翊然 校园味",
@@ -8625,6 +8649,14 @@
       "onboard_time": 1703331696,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308752,
+      "num": 308752,
+      "word": "奔跑吧",
+      "onboard_time": 1702757475,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 308494,
@@ -9515,6 +9547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281508,
+      "num": 281508,
+      "word": "TTG对战KSG",
+      "onboard_time": 1703333976,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 281264,
       "num": 281264,
       "word": "伊能静 演员是幸运也是孤独的",
@@ -9609,6 +9649,14 @@
       "onboard_time": 1703208573,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278333,
+      "num": 278333,
+      "word": "声生不息格局又打开了",
+      "onboard_time": 1703343516,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 277847,
@@ -9923,14 +9971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266325,
-      "num": 266325,
-      "word": "奔跑吧",
-      "onboard_time": 1702757475,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266165,
       "num": 266165,
       "word": "世界上最发达的做空机制中国全都用了",
@@ -10243,14 +10283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258917,
-      "num": 198279,
-      "word": "周小仙 延吉公主一日体验",
-      "onboard_time": 1703341060,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 258747,
       "num": 258747,
       "word": "檀健次和尼克合照",
@@ -10313,6 +10345,14 @@
       "onboard_time": 1702904977,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257033,
+      "num": 257033,
+      "word": "徐涛老师真好",
+      "onboard_time": 1703339618,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 256886,
@@ -10585,14 +10625,6 @@
       "onboard_time": 1703318432,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252084,
-      "num": 252084,
-      "word": "徐涛老师真好",
-      "onboard_time": 1703339618,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 252050,
@@ -12075,6 +12107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219260,
+      "num": 211345,
+      "word": "考研数学考前提示",
+      "onboard_time": 1703343634,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 218889,
       "num": 218889,
       "word": "和好朋友绝交 比分手还难过",
@@ -13323,6 +13363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200508,
+      "num": 200508,
+      "word": "王楚钦听到吉林的风的反应",
+      "onboard_time": 1703343399,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200312,
       "num": 200312,
       "word": "杀夫藏尸冰柜案未当庭宣判",
@@ -14283,14 +14331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187419,
-      "num": 187419,
-      "word": "TTG对战KSG",
-      "onboard_time": 1703333976,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 187347,
       "num": 187347,
       "word": "教体局工作人员回应2名女幼师遇害",
@@ -15195,6 +15235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172958,
+      "num": 172958,
+      "word": "萌兰和屁帘不共戴天",
+      "onboard_time": 1703342858,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172902,
       "num": 172902,
       "word": "孙颖莎3比0赵尚",
@@ -15305,6 +15353,14 @@
       "onboard_time": 1702857510,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171795,
+      "num": 171795,
+      "word": "变成小时候觉得冷漠的姐姐了",
+      "onboard_time": 1703344177,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 171713,
@@ -15569,6 +15625,14 @@
       "onboard_time": 1702895736,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168288,
+      "num": 168288,
+      "word": "黄景瑜柔术棕带",
+      "onboard_time": 1703342257,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 168223,
@@ -16187,6 +16251,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 159520,
+      "num": 164475,
+      "word": "西汉姆联2比0曼联",
+      "onboard_time": 1703343158,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159368,
       "num": 193445,
       "word": "vivo称手机行业正从寒冬复苏",
@@ -16667,6 +16739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151285,
+      "num": 151285,
+      "word": "周笔畅北京演唱会",
+      "onboard_time": 1703344296,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151014,
       "num": 151014,
       "word": "振动减肥药问世",
@@ -16993,6 +17073,14 @@
       "onboard_time": 1703157455,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145375,
+      "num": 145375,
+      "word": "EXOL的冬日聚会",
+      "onboard_time": 1703342197,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 145342,

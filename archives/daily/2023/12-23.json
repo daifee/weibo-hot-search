@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703342050314,
+  "endTime": 1703344596502,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1387167,
-      "num": 976451,
+      "num": 1026362,
       "word": "甜馨 差不多十几年没看见嗯哼了",
       "onboard_time": 1703336138,
       "rank": 10,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1137620,
+      "num": 1137620,
+      "word": "钟南山称不主张长期佩戴口罩",
+      "onboard_time": 1703341179,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1132536,
       "num": 1132536,
       "word": "肖秀荣馈赠的礼物 英语标好了价格",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 1041343,
-      "num": 445753,
+      "num": 633482,
       "word": "肖战吃烤鱼",
       "onboard_time": 1703341595,
       "rank": 10,
@@ -337,6 +345,14 @@
       "onboard_time": 1703310334,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 959289,
+      "num": 959289,
+      "word": "微波炉热了十分钟的馒头",
+      "onboard_time": 1703341117,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 945119,
@@ -507,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 673129,
+      "num": 673129,
+      "word": "杨丞琳演唱会",
+      "onboard_time": 1703343218,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 646873,
       "num": 411929,
       "word": "林一鼻子",
@@ -561,14 +585,6 @@
       "onboard_time": 1703323960,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 576228,
-      "num": 444294,
-      "word": "钟南山称不主张长期佩戴口罩",
-      "onboard_time": 1703341179,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571806,
@@ -755,6 +771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 439921,
+      "num": 439921,
+      "word": "TTG巅峰对决KSG",
+      "onboard_time": 1703342740,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 439371,
       "num": 302560,
       "word": "刘涛认出媒体的手机壳是肖战",
@@ -841,6 +865,14 @@
       "onboard_time": 1703329056,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 396495,
+      "num": 396495,
+      "word": "周小仙 延吉公主一日体验",
+      "onboard_time": 1703341060,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 393026,
@@ -956,7 +988,7 @@
     },
     {
       "raw_hot": 349708,
-      "num": 282429,
+      "num": 298765,
       "word": "井胧 得亏没签公司",
       "onboard_time": 1703340158,
       "rank": 20,
@@ -1059,14 +1091,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 314592,
-      "num": 198991,
-      "word": "微波炉热了十分钟的馒头",
-      "onboard_time": 1703341117,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 310395,
       "num": 310395,
       "word": "我是来上网的不是来上吊的",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1703331696,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308752,
+      "num": 308752,
+      "word": "奔跑吧",
+      "onboard_time": 1703341474,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 305532,
@@ -1227,12 +1259,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 281508,
+      "num": 281508,
+      "word": "TTG对战KSG",
+      "onboard_time": 1703333976,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 280118,
       "num": 280118,
       "word": "考研热降温有三个重要原因",
       "onboard_time": 1703335358,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 278333,
+      "num": 278333,
+      "word": "声生不息格局又打开了",
+      "onboard_time": 1703343516,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 277847,
@@ -1275,14 +1323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 266325,
-      "num": 266325,
-      "word": "奔跑吧",
-      "onboard_time": 1703341474,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263941,
       "num": 263941,
       "word": "未成年人游戏时长处于历史最低水平",
@@ -1323,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258917,
-      "num": 198279,
-      "word": "周小仙 延吉公主一日体验",
-      "onboard_time": 1703341060,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 258578,
       "num": 210209,
       "word": "朱令一个月前刚度过50岁生日",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1703300072,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257033,
+      "num": 257033,
+      "word": "徐涛老师真好",
+      "onboard_time": 1703339618,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 254684,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1703318432,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252084,
-      "num": 252084,
-      "word": "徐涛老师真好",
-      "onboard_time": 1703339618,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 248448,
@@ -1643,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219260,
+      "num": 211345,
+      "word": "考研数学考前提示",
+      "onboard_time": 1703343634,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217778,
       "num": 217778,
       "word": "人民币成国际支付第四大货币",
@@ -1867,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200508,
+      "num": 200508,
+      "word": "王楚钦听到吉林的风的反应",
+      "onboard_time": 1703343399,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199764,
       "num": 199764,
       "word": "周深汪苏泷 爱的供养",
@@ -1993,14 +2041,6 @@
       "onboard_time": 1703336619,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187419,
-      "num": 187419,
-      "word": "TTG对战KSG",
-      "onboard_time": 1703333976,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 187221,
@@ -2147,6 +2187,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172958,
+      "num": 172958,
+      "word": "萌兰和屁帘不共戴天",
+      "onboard_time": 1703342858,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171795,
+      "num": 171795,
+      "word": "变成小时候觉得冷漠的姐姐了",
+      "onboard_time": 1703344177,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171760,
       "num": 171760,
       "word": "考研前一天的心情",
@@ -2177,6 +2233,14 @@
       "onboard_time": 1703303800,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 168288,
+      "num": 168288,
+      "word": "黄景瑜柔术棕带",
+      "onboard_time": 1703342257,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 167853,
@@ -2275,6 +2339,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 159520,
+      "num": 164475,
+      "word": "西汉姆联2比0曼联",
+      "onboard_time": 1703343158,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156063,
       "num": 156063,
       "word": "TODS致歉",
@@ -2337,6 +2409,14 @@
       "onboard_time": 1703321131,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151285,
+      "num": 151285,
+      "word": "周笔畅北京演唱会",
+      "onboard_time": 1703344296,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 151014,
@@ -2441,6 +2521,14 @@
       "onboard_time": 1703338300,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145375,
+      "num": 145375,
+      "word": "EXOL的冬日聚会",
+      "onboard_time": 1703342197,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 145342,
