@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703326643267,
+  "endTime": 1703327682387,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -2083,6 +2083,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2056750,
+      "num": 2056750,
+      "word": "春晚 科目三",
+      "onboard_time": 1703323721,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2052212,
       "num": 2052212,
       "word": "草莓 车厘子",
@@ -2875,14 +2883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1721690,
-      "num": 1721690,
-      "word": "春晚 科目三",
-      "onboard_time": 1703323721,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1719542,
       "num": 1005074,
       "word": "涉事医生回应手术时捶压老人头部",
@@ -3337,6 +3337,14 @@
       "onboard_time": 1702888776,
       "rank": 3,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 1587765,
+      "num": 1587765,
+      "word": "老师 是不是发错卷了",
+      "onboard_time": 1703325338,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 1583739,
@@ -5403,6 +5411,14 @@
       "category": "艺人,社会新闻"
     },
     {
+      "raw_hot": 1132536,
+      "num": 1132536,
+      "word": "肖秀荣馈赠的礼物 英语标好了价格",
+      "onboard_time": 1703326777,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1130557,
       "num": 1130557,
       "word": "陈志朋已退出被曝光公司",
@@ -6601,14 +6617,6 @@
       "onboard_time": 1701440737,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 962555,
-      "num": 962555,
-      "word": "老师 是不是发错卷了",
-      "onboard_time": 1703325338,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 960468,
@@ -11731,6 +11739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627832,
+      "num": 627832,
+      "word": "英语二翻译 赶集",
+      "onboard_time": 1703326956,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 627472,
       "num": 320976,
       "word": "甘肃",
@@ -16292,7 +16308,7 @@
     },
     {
       "raw_hot": 480053,
-      "num": 272073,
+      "num": 465352,
       "word": "李健曾发微博回忆朱令",
       "onboard_time": 1703325457,
       "rank": 31,
@@ -22179,6 +22195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366960,
+      "num": 366960,
+      "word": "永夜星河杀青",
+      "onboard_time": 1703326414,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366757,
       "num": 366757,
       "word": "俞敏洪称老板与员工方向一致就变合伙人",
@@ -25187,6 +25211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323726,
+      "num": 323726,
+      "word": "nail到底什么东西",
+      "onboard_time": 1703326414,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 323685,
       "num": 323685,
       "word": "陈志朋觉得直播带货很low",
@@ -25585,6 +25617,14 @@
       "onboard_time": 1702121795,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 319211,
+      "num": 319211,
+      "word": "奶酪写成奶酷",
+      "onboard_time": 1703327197,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 319180,
@@ -27051,6 +27091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 302897,
+      "num": 302897,
+      "word": "石雷鹏预测",
+      "onboard_time": 1703324858,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 302766,
       "num": 302766,
       "word": "苗苗钟楚曦六年后再跳绒花",
@@ -28369,14 +28417,6 @@
       "onboard_time": 1702729300,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 291348,
-      "num": 291348,
-      "word": "石雷鹏预测",
-      "onboard_time": 1703324858,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 291141,
@@ -33387,6 +33427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247001,
+      "num": 247001,
+      "word": "铊中毒至今无良好治疗对策",
+      "onboard_time": 1703327197,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246948,
       "num": 253762,
       "word": "苹果明年初将推出两款iPadAir",
@@ -34641,6 +34689,14 @@
       "onboard_time": 1701842734,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237383,
+      "num": 237383,
+      "word": "考研日语",
+      "onboard_time": 1703326655,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 237362,
@@ -38811,14 +38867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212214,
-      "num": 212214,
-      "word": "永夜星河杀青",
-      "onboard_time": 1703326414,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212197,
       "num": 190899,
       "word": "周柯宇看中医慌了",
@@ -41601,6 +41649,14 @@
       "onboard_time": 1701524433,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200918,
+      "num": 200918,
+      "word": "RW巅峰对决Hero",
+      "onboard_time": 1703326717,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 200838,
@@ -45441,14 +45497,6 @@
       "onboard_time": 1702780953,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186388,
-      "num": 186388,
-      "word": "nail到底什么东西",
-      "onboard_time": 1703326414,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 186386,
@@ -51497,6 +51545,14 @@
       "onboard_time": 1702209394,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155910,
+      "num": 155910,
+      "word": "与恶魔有约OST",
+      "onboard_time": 1703327618,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 155906,
@@ -58819,6 +58875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96429,
+      "num": 1160540,
+      "word": "奶爸袋鼠式带娃坐地铁",
+      "onboard_time": 1703327374,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96372,
       "num": 61818,
       "word": "刘美含蓝色细闪鱼尾裙",
@@ -59464,6 +59528,14 @@
       "word": "4K视频感受冬日留白美学",
       "onboard_time": 1701954942,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81618,
+      "num": 190897,
+      "word": "浙大师生一起摸鱼太嗨了",
+      "onboard_time": 1703327017,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -60667,6 +60739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56668,
+      "num": 898755,
+      "word": "蛋仔三丽鸥联动福利",
+      "onboard_time": 1703325635,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56349,
       "num": 1625405,
       "word": "致敬奋力拼搏的你",
@@ -61371,14 +61451,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 40491,
-      "num": 792010,
-      "word": "蛋仔三丽鸥联动福利",
-      "onboard_time": 1703325635,
-      "rank": 14,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 40444,
       "num": 54467,
       "word": "林奕颖拍的魏大勋",
@@ -62081,6 +62153,14 @@
       "onboard_time": 1702706138,
       "rank": 20,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 28698,
+      "num": 3034237,
+      "word": "共赏改革开放新画卷",
+      "onboard_time": 1703318370,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28575,
@@ -62857,14 +62937,6 @@
       "onboard_time": 1701894193,
       "rank": 45,
       "category": "健康医疗,社会新闻"
-    },
-    {
-      "raw_hot": 15644,
-      "num": 3034237,
-      "word": "共赏改革开放新画卷",
-      "onboard_time": 1703318370,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15625,
