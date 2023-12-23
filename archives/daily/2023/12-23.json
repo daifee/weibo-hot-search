@@ -1,10 +1,10 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703295108368,
+  "endTime": 1703298263732,
   "band_list": [
     {
       "raw_hot": 2092829,
-      "num": 379239,
+      "num": 430834,
       "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
       "onboard_time": 1703288906,
       "rank": 10,
@@ -19,8 +19,24 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1349931,
-      "num": 333649,
+      "raw_hot": 1773809,
+      "num": 432269,
+      "word": "朱令",
+      "onboard_time": 1703294676,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1714898,
+      "num": 1714898,
+      "word": "图书馆空了",
+      "onboard_time": 1703293351,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1357173,
+      "num": 428174,
       "word": "于正 她那么高贵哪里像丫鬟",
       "onboard_time": 1703293594,
       "rank": 30,
@@ -35,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1110257,
+      "num": 677998,
+      "word": "娱乐圈真正的小孩哥出现了",
+      "onboard_time": 1703295513,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1026202,
       "num": 613957,
       "word": "腾讯市值跌没了一个小米",
       "onboard_time": 1703289386,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1020330,
-      "num": 1020330,
-      "word": "图书馆空了",
-      "onboard_time": 1703293351,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 929492,
@@ -68,11 +84,19 @@
     },
     {
       "raw_hot": 791698,
-      "num": 373768,
+      "num": 427291,
       "word": "女生称公交上被男子多次用下身摩擦",
       "onboard_time": 1703287583,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771170,
+      "num": 677918,
+      "word": "赵晴 美女们的丫鬟",
+      "onboard_time": 1703295390,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 717973,
@@ -99,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687711,
+      "num": 687711,
+      "word": "联合国通过决议将春节作为联合国假日",
+      "onboard_time": 1703297194,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 687441,
       "num": 687441,
       "word": "郑晓龙 甄嬛传完整版在准备了",
@@ -112,6 +144,14 @@
       "word": "林一鼻子",
       "onboard_time": 1703253699,
       "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 639922,
+      "num": 639922,
+      "word": "甄嬛传最珍贵的是没一个人塌房",
+      "onboard_time": 1703296353,
+      "rank": 6,
       "category": "作品衍生"
     },
     {
@@ -147,11 +187,11 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 485564,
-      "num": 327602,
-      "word": "朱令",
-      "onboard_time": 1703294676,
-      "rank": 13,
+      "raw_hot": 483966,
+      "num": 425216,
+      "word": "老人去世后房子被物业改成宿舍",
+      "onboard_time": 1703296534,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -161,6 +201,22 @@
       "onboard_time": 1703256516,
       "rank": 17,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 432794,
+      "num": 432794,
+      "word": "听音乐睡觉要小心耳虫效应",
+      "onboard_time": 1703292990,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 430920,
+      "num": 416050,
+      "word": "心疼赵晴",
+      "onboard_time": 1703296713,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 425736,
@@ -179,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396026,
-      "num": 396026,
+      "raw_hot": 396935,
+      "num": 396935,
       "word": "考研第一天",
       "onboard_time": 1703287463,
       "rank": 15,
@@ -219,6 +275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 337945,
+      "num": 337945,
+      "word": "小伙谈逃出缅北2年后重生之路",
+      "onboard_time": 1703296713,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335400,
       "num": 335400,
       "word": "关晓彤 心虚话都变多了",
@@ -243,16 +307,16 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 326306,
-      "num": 326306,
-      "word": "听音乐睡觉要小心耳虫效应",
-      "onboard_time": 1703292990,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 329374,
+      "num": 329374,
+      "word": "男朋友总被认成儿子",
+      "onboard_time": 1703294849,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 322905,
-      "num": 322905,
+      "num": 333262,
       "word": "陈坤对张婧仪是当女儿来宠吧",
       "onboard_time": 1703294133,
       "rank": 15,
@@ -275,11 +339,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296675,
-      "num": 185299,
-      "word": "男朋友总被认成儿子",
-      "onboard_time": 1703294849,
-      "rank": 30,
+      "raw_hot": 293359,
+      "num": 293359,
+      "word": "会穿衣服也是一种天赋",
+      "onboard_time": 1703296771,
+      "rank": 21,
       "category": "幽默"
     },
     {
@@ -307,6 +371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 271525,
+      "num": 271525,
+      "word": "周末补觉1小时心血管病风险降六成",
+      "onboard_time": 1703295572,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 269300,
       "num": 269300,
       "word": "你终硕",
@@ -321,6 +393,30 @@
       "onboard_time": 1703287220,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259778,
+      "num": 259778,
+      "word": "赵嘉敏",
+      "onboard_time": 1703296593,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242466,
+      "num": 242466,
+      "word": "鸣龙少年剧粉开始癫了",
+      "onboard_time": 1703297491,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 238596,
+      "num": 238596,
+      "word": "江晓媛跳楼",
+      "onboard_time": 1703287281,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 236828,
@@ -347,14 +443,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 223679,
-      "num": 223679,
-      "word": "江晓媛跳楼",
-      "onboard_time": 1703287281,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222677,
       "num": 222677,
       "word": "考研生因为睡不着一大早就来自习室",
@@ -371,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218321,
+      "num": 218321,
+      "word": "为438万考研人加油",
+      "onboard_time": 1703296954,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 216403,
       "num": 216403,
       "word": "周深 不好意思会的太多了",
@@ -385,6 +481,14 @@
       "onboard_time": 1703253157,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 211411,
+      "num": 211411,
+      "word": "小S 在摄影棚有严重的容貌焦虑",
+      "onboard_time": 1703294849,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 210481,
@@ -404,11 +508,19 @@
     },
     {
       "raw_hot": 208606,
-      "num": 183660,
+      "num": 187505,
       "word": "鲨鱼夹发型",
       "onboard_time": 1703293712,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 205723,
+      "num": 205723,
+      "word": "普京为一名坐轮椅女学生中断会议",
+      "onboard_time": 1703292932,
+      "rank": 31,
+      "category": "国外时政"
     },
     {
       "raw_hot": 204354,
@@ -443,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174784,
+      "num": 174784,
+      "word": "樊振东 状态不好的时候需要刺激自己",
+      "onboard_time": 1703298032,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171760,
       "num": 171760,
       "word": "考研前一天的心情",
@@ -465,6 +585,14 @@
       "onboard_time": 1703267418,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 161099,
+      "num": 161099,
+      "word": "仙台有树 马好人坏",
+      "onboard_time": 1703294314,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 160968,
@@ -515,6 +643,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 149912,
+      "num": 149912,
+      "word": "什么样的胸痛更危险",
+      "onboard_time": 1703297733,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 149365,
       "num": 149365,
       "word": "腾讯游戏副总裁回应游戏新规",
@@ -529,14 +665,6 @@
       "onboard_time": 1703288605,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147509,
-      "num": 147509,
-      "word": "小S 在摄影棚有严重的容貌焦虑",
-      "onboard_time": 1703294849,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 146679,
@@ -571,20 +699,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139815,
+      "num": 139815,
+      "word": "Ghost退役",
+      "onboard_time": 1703298212,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139664,
       "num": 139664,
       "word": "科目三为什么叫科目三",
       "onboard_time": 1703243491,
       "rank": 36,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 136522,
-      "num": 136522,
-      "word": "仙台有树 马好人坏",
-      "onboard_time": 1703294314,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 136081,
@@ -619,8 +747,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127355,
+      "num": 127355,
+      "word": "直播松花江雾凇奇观",
+      "onboard_time": 1703297312,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126718,
-      "num": 126718,
+      "num": 678332,
       "word": "积石山中小学开始有序复课",
       "onboard_time": 1703292810,
       "rank": 39,
@@ -942,6 +1078,9 @@
   "hotgov_list": [
     {
       "word": "#提升乡村产业富民水平#"
+    },
+    {
+      "word": "#巩固拓展主题教育成果要常学常新#"
     }
   ]
 }
