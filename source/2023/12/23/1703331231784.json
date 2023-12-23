@@ -1,0 +1,410 @@
+{
+  "runTime": 1703331231784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2852022,
+        "num": 2852022,
+        "word": "考研英语",
+        "onboard_time": 1703320291,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 520280,
+        "num": 2218991,
+        "word": "浙大学霸用一页纸证明自己",
+        "onboard_time": 1703318672,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36639,
+        "num": 1888915,
+        "word": "共赏改革开放新画卷",
+        "onboard_time": 1703318370,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1744270,
+        "num": 1744270,
+        "word": "老师 是不是发错卷了",
+        "onboard_time": 1703325338,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144246,
+        "num": 1669316,
+        "word": "考点为脑瘫学生安排了一个特殊考场",
+        "onboard_time": 1703329596,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1644360,
+        "num": 1644360,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1313861,
+        "num": 1313861,
+        "word": "英语一 最猛的1",
+        "onboard_time": 1703322998,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1177723,
+        "num": 1177723,
+        "word": "考研英语 轻舟已撞大冰山",
+        "onboard_time": 1703324979,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1072569,
+        "num": 1072569,
+        "word": "花少5压中考研政治题",
+        "onboard_time": 1703328634,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 720084,
+        "num": 720084,
+        "word": "英语二 平等地创飞所有人",
+        "onboard_time": 1703322998,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 694467,
+        "num": 694467,
+        "word": "朱令妈妈 我该怎么保护我的女儿",
+        "onboard_time": 1703319392,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606253,
+        "num": 606253,
+        "word": "肖秀荣馈赠的礼物 英语标好了价格",
+        "onboard_time": 1703326777,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 568180,
+        "num": 568180,
+        "word": "甜馨拍杂志了",
+        "onboard_time": 1703321072,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 561802,
+        "num": 561802,
+        "word": "考研英语 难",
+        "onboard_time": 1703323299,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 555943,
+        "num": 555943,
+        "word": "朱令铊中毒事件",
+        "onboard_time": 1703322456,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502164,
+        "num": 502164,
+        "word": "李健曾发微博回忆朱令",
+        "onboard_time": 1703325457,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486411,
+        "num": 486411,
+        "word": "英语二翻译 赶集",
+        "onboard_time": 1703326956,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 477651,
+        "num": 477651,
+        "word": "朱令遗体告别仪式明日举行",
+        "onboard_time": 1703321373,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426213,
+        "num": 426213,
+        "word": "考研英语答案",
+        "onboard_time": 1703322998,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232146,
+        "num": 398580,
+        "word": "天黑了帐篷没到震区34岁的他急哭",
+        "onboard_time": 1703323180,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397379,
+        "num": 397379,
+        "word": "多所知名高校停招学硕",
+        "onboard_time": 1703329056,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 381042,
+        "num": 381042,
+        "word": "小兰这段三观太正了",
+        "onboard_time": 1703328935,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 334863,
+        "num": 334863,
+        "word": "我嗑的cp因为咖位没有以后了",
+        "onboard_time": 1703321493,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333593,
+        "num": 333593,
+        "word": "朱令父亲发声",
+        "onboard_time": 1703306021,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310697,
+        "num": 310697,
+        "word": "永夜星河杀青",
+        "onboard_time": 1703326414,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297769,
+        "num": 297769,
+        "word": "胡彦斌高情商回复何炅",
+        "onboard_time": 1703329895,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76923,
+        "num": 297389,
+        "word": "救援队吃饭付钱被面馆老板霸气拒收",
+        "onboard_time": 1703331158,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297170,
+        "num": 297170,
+        "word": "铊中毒至今无良好治疗对策",
+        "onboard_time": 1703327197,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295036,
+        "num": 295036,
+        "word": "光与夜之恋 婚卡",
+        "onboard_time": 1703329235,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294022,
+        "num": 294022,
+        "word": "幼儿园男童送女孩200克金条",
+        "onboard_time": 1703324320,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289310,
+        "num": 289310,
+        "word": "雷鸣的病情越来越严重了",
+        "onboard_time": 1703330318,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271756,
+        "num": 271756,
+        "word": "奶酪写成奶酷",
+        "onboard_time": 1703327197,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246495,
+        "num": 246495,
+        "word": "papi酱的婚姻模式 超前",
+        "onboard_time": 1703312196,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242464,
+        "num": 242464,
+        "word": "谢娜回湖南卫视跨年",
+        "onboard_time": 1703327797,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239889,
+        "num": 239889,
+        "word": "丁程鑫淘汰环节一直捂耳朵",
+        "onboard_time": 1703329473,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236634,
+        "num": 236634,
+        "word": "nail到底什么东西",
+        "onboard_time": 1703326414,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 226100,
+        "num": 226100,
+        "word": "蔚来日",
+        "onboard_time": 1703330737,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 224707,
+        "num": 224707,
+        "word": "英语阅读",
+        "onboard_time": 1703328758,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213382,
+        "num": 213382,
+        "word": "英一作文 古代科学家",
+        "onboard_time": 1703323960,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71243,
+        "num": 197678,
+        "word": "奶爸袋鼠式带娃坐地铁",
+        "onboard_time": 1703327374,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194848,
+        "num": 194848,
+        "word": "昨天吃的饺子瞬间觉得不香了",
+        "onboard_time": 1703315434,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172514,
+        "num": 172514,
+        "word": "孙楠古巨基 唱出了何非的心声",
+        "onboard_time": 1703329656,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159683,
+        "num": 159683,
+        "word": "石雷鹏预测",
+        "onboard_time": 1703324858,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157655,
+        "num": 157655,
+        "word": "金靖爆改韩系美女",
+        "onboard_time": 1703300791,
+        "rank": 43,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 149309,
+        "num": 149309,
+        "word": "万鹏因为选上女主崩溃大哭",
+        "onboard_time": 1703322878,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146438,
+        "num": 146438,
+        "word": "考研",
+        "onboard_time": 1703300433,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137958,
+        "num": 137958,
+        "word": "汪苏泷强调三次听歌",
+        "onboard_time": 1703328576,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135572,
+        "num": 135572,
+        "word": "考研英语真题",
+        "onboard_time": 1703330918,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125283,
+        "num": 125283,
+        "word": "考研日语",
+        "onboard_time": 1703326655,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123151,
+        "num": 123151,
+        "word": "杨洋白鹿 明日千里",
+        "onboard_time": 1703309673,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#为强国建设民族复兴伟业汇聚强大力量#"
+    }
+  }
+}
