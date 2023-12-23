@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703334580828,
+  "endTime": 1703335500347,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -129,6 +129,14 @@
       "onboard_time": 1703293351,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1678294,
+      "num": 1678294,
+      "word": "自助草莓火锅",
+      "onboard_time": 1703333555,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 1611204,
@@ -291,6 +299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 945119,
+      "num": 945119,
+      "word": "谷爱凌年收入近1.6亿",
+      "onboard_time": 1703331936,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 936033,
+      "num": 936033,
+      "word": "Jennie成立个人厂牌",
+      "onboard_time": 1703335176,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 935579,
       "num": 935579,
       "word": "国家新闻出版署回应网游管理办法草案",
@@ -321,14 +345,6 @@
       "onboard_time": 1703300791,
       "rank": 13,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 877761,
-      "num": 877761,
-      "word": "谷爱凌年收入近1.6亿",
-      "onboard_time": 1703331936,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 868042,
@@ -417,14 +433,6 @@
       "onboard_time": 1703257832,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 696002,
-      "num": 696002,
-      "word": "自助草莓火锅",
-      "onboard_time": 1703333555,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 689652,
@@ -667,12 +675,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 440150,
+      "num": 238533,
+      "word": "石雷鹏 本人一篇都没有押中",
+      "onboard_time": 1703334214,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 439371,
       "num": 302560,
       "word": "刘涛认出媒体的手机壳是肖战",
       "onboard_time": 1703300433,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 433585,
+      "num": 433585,
+      "word": "婚后过年 各回各家",
+      "onboard_time": 1703333256,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 432794,
@@ -851,14 +875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 346270,
-      "num": 346270,
-      "word": "婚后过年 各回各家",
-      "onboard_time": 1703333256,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 339074,
       "num": 339074,
       "word": "普京为一名坐轮椅女学中断会议",
@@ -892,7 +908,7 @@
     },
     {
       "raw_hot": 334351,
-      "num": 241455,
+      "num": 288543,
       "word": "樊振东 没上场",
       "onboard_time": 1703334336,
       "rank": 30,
@@ -993,6 +1009,14 @@
       "onboard_time": 1703324858,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 302720,
+      "num": 302720,
+      "word": "短剧撒野",
+      "onboard_time": 1703334937,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 302083,
@@ -1099,6 +1123,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 279388,
+      "num": 279388,
+      "word": "三阿哥真又又又长高了",
+      "onboard_time": 1703331696,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277847,
       "num": 277847,
       "word": "完颜慧德 北大",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1703322274,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 274298,
-      "num": 274298,
-      "word": "三阿哥真又又又长高了",
-      "onboard_time": 1703331696,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 269300,
@@ -1291,6 +1315,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238548,
+      "num": 238548,
+      "word": "不建议用卷纸擦嘴",
+      "onboard_time": 1703334633,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 238531,
+      "num": 238531,
+      "word": "腰越来越细的小技巧",
+      "onboard_time": 1703333377,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 238193,
       "num": 238193,
       "word": "中国国奥遭马来西亚绝杀",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1703308358,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232206,
-      "num": 232206,
-      "word": "腰越来越细的小技巧",
-      "onboard_time": 1703333377,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 232146,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1703260112,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209643,
+      "num": 209643,
+      "word": "给狗狗买狗窝记得看尺寸",
+      "onboard_time": 1703334697,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 208934,
@@ -1787,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186267,
+      "num": 186267,
+      "word": "它好像知道自己是个小宝宝",
+      "onboard_time": 1703332775,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186135,
       "num": 186135,
       "word": "我就说东北菜吃了量大的亏",
@@ -1835,14 +1883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184311,
-      "num": 184311,
-      "word": "它好像知道自己是个小宝宝",
-      "onboard_time": 1703332775,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182048,
       "num": 182048,
       "word": "2024研招调查报告",
@@ -1875,12 +1915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177088,
-      "num": 177088,
-      "word": "石雷鹏 本人一篇都没有押中",
-      "onboard_time": 1703334214,
-      "rank": 47,
-      "category": "教育"
+      "raw_hot": 177075,
+      "num": 347704,
+      "word": "为什么明星喜欢用折叠屏手机",
+      "onboard_time": 1703332716,
+      "rank": 20,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 176085,
@@ -1913,6 +1953,14 @@
       "onboard_time": 1703318850,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173611,
+      "num": 173611,
+      "word": "考研热降温有三个重要原因",
+      "onboard_time": 1703335358,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 171760,
@@ -2267,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138789,
+      "num": 216946,
+      "word": "行政旗舰蔚来ET9亮相",
+      "onboard_time": 1703334995,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 138574,
       "num": 170190,
       "word": "数九寒天健康日历",
@@ -2465,14 +2521,6 @@
       "onboard_time": 1703292331,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114313,
-      "num": 347704,
-      "word": "为什么明星喜欢用折叠屏手机",
-      "onboard_time": 1703332716,
-      "rank": 20,
-      "category": "数码,艺人"
     },
     {
       "raw_hot": 112808,
@@ -2707,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47119,
+      "num": 1225562,
+      "word": "震区安置点的暖心事",
+      "onboard_time": 1703334455,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45085,
       "num": 48221,
       "word": "侯雯元真人CS身材",
@@ -2839,14 +2895,6 @@
       "num": 857518,
       "word": "神十七航天员圆满完成首次出舱任务",
       "onboard_time": 1703168681,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5309,
-      "num": 998739,
-      "word": "震区安置点的暖心事",
-      "onboard_time": 1703334455,
       "rank": 2,
       "category": "社会新闻"
     }
