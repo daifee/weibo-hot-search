@@ -1,0 +1,410 @@
+{
+  "runTime": 1703309632166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7878115,
+        "num": 7878115,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2106941,
+        "num": 2106941,
+        "word": "考研政治 简单",
+        "onboard_time": 1703301873,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 44525,
+        "num": 1963788,
+        "word": "听见2023的中国",
+        "onboard_time": 1703298453,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1853167,
+        "num": 1853167,
+        "word": "朱令父亲发声",
+        "onboard_time": 1703306021,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865096,
+        "num": 865096,
+        "word": "金靖爆改韩系美女",
+        "onboard_time": 1703300791,
+        "rank": 4,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 1845306,
+        "num": 840278,
+        "word": "肖爷爷全押中了",
+        "onboard_time": 1703302959,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 722527,
+        "num": 722527,
+        "word": "铊中毒",
+        "onboard_time": 1703302298,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683898,
+        "num": 683898,
+        "word": "孙杨或彻底无缘巴黎奥运会",
+        "onboard_time": 1703304402,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455535,
+        "num": 455535,
+        "word": "娱乐圈真正的小孩哥出现了",
+        "onboard_time": 1703295513,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418215,
+        "num": 418215,
+        "word": "考研政治大题 抄材料",
+        "onboard_time": 1703307098,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 600564,
+        "num": 416721,
+        "word": "于正 她那么高贵哪里像丫鬟",
+        "onboard_time": 1703293594,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474578,
+        "num": 414272,
+        "word": "腿姐 九页纸",
+        "onboard_time": 1703306918,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419913,
+        "num": 413466,
+        "word": "张雪峰称考研简单不代表你写的就都对",
+        "onboard_time": 1703308836,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 411741,
+        "num": 411741,
+        "word": "清华大学发博悼念朱令",
+        "onboard_time": 1703304221,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388193,
+        "num": 388193,
+        "word": "考研",
+        "onboard_time": 1703300433,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 315983,
+        "num": 315983,
+        "word": "甄嬛传最珍贵的是没一个人塌房",
+        "onboard_time": 1703296353,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264489,
+        "num": 264489,
+        "word": "迪丽热巴立体红唇妆",
+        "onboard_time": 1703303201,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 316995,
+        "num": 263621,
+        "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
+        "onboard_time": 1703288906,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247698,
+        "num": 247698,
+        "word": "管综好难",
+        "onboard_time": 1703303564,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232861,
+        "num": 232861,
+        "word": "男童地震失去双亲一声妈妈令人泪目",
+        "onboard_time": 1703308358,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485431,
+        "num": 230416,
+        "word": "孙维",
+        "onboard_time": 1703301333,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401092,
+        "num": 227035,
+        "word": "工资突然暴涨是种什么体验",
+        "onboard_time": 1703303564,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354852,
+        "num": 223809,
+        "word": "大学生1个月挂39个号被确诊疑病症",
+        "onboard_time": 1703305481,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324917,
+        "num": 221415,
+        "word": "图书馆空了",
+        "onboard_time": 1703293351,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 324452,
+        "num": 219275,
+        "word": "朱令",
+        "onboard_time": 1703294676,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298885,
+        "num": 214340,
+        "word": "塞牙 牙齿在求救",
+        "onboard_time": 1703307634,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213663,
+        "num": 213663,
+        "word": "政治选择 抽象",
+        "onboard_time": 1703307819,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213268,
+        "num": 213268,
+        "word": "肖秀荣 永远的神",
+        "onboard_time": 1703302600,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212756,
+        "num": 212756,
+        "word": "肖战蓝色针织开衫",
+        "onboard_time": 1703306563,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117178,
+        "num": 210105,
+        "word": "为438万考研人加油",
+        "onboard_time": 1703296954,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210018,
+        "num": 210018,
+        "word": "人民币成国际支付第四大货币",
+        "onboard_time": 1703307399,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208045,
+        "num": 208045,
+        "word": "声生不息",
+        "onboard_time": 1703308596,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206199,
+        "num": 206199,
+        "word": "管综数学 稀碎",
+        "onboard_time": 1703307997,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204903,
+        "num": 204903,
+        "word": "檀健次唱想你的365天",
+        "onboard_time": 1703308775,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189539,
+        "num": 189539,
+        "word": "考研政治答案",
+        "onboard_time": 1703303502,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189019,
+        "num": 189019,
+        "word": "黄景瑜评论区 电子饺子",
+        "onboard_time": 1703305781,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177986,
+        "num": 177986,
+        "word": "原来是美男 少女时代",
+        "onboard_time": 1703299293,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176435,
+        "num": 176435,
+        "word": "邓为向涵之CP感",
+        "onboard_time": 1703302538,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161067,
+        "num": 161067,
+        "word": "女主播为套牢粉丝私发淫秽视频",
+        "onboard_time": 1703301092,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157074,
+        "num": 157074,
+        "word": "哈尔滨一小区门口惊现神级雪雕",
+        "onboard_time": 1703302538,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 601801,
+        "num": 156434,
+        "word": "23考研人拿命换的",
+        "onboard_time": 1703303862,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153688,
+        "num": 153688,
+        "word": "考研第一天",
+        "onboard_time": 1703287463,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150076,
+        "num": 150076,
+        "word": "我就说东北菜吃了量大的亏",
+        "onboard_time": 1703305001,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148609,
+        "num": 148609,
+        "word": "考研政治选择题",
+        "onboard_time": 1703306918,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145578,
+        "num": 145578,
+        "word": "管综作文 没写",
+        "onboard_time": 1703309254,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145497,
+        "num": 145497,
+        "word": "5个月男婴被拐24年终和父母相见了",
+        "onboard_time": 1703300072,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141309,
+        "num": 141309,
+        "word": "王一博 湖南卫视跨年",
+        "onboard_time": 1703309614,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139677,
+        "num": 139677,
+        "word": "管综逻辑",
+        "onboard_time": 1703309374,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136440,
+        "num": 136440,
+        "word": "赵晴 美女们的丫鬟",
+        "onboard_time": 1703295390,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135274,
+        "num": 135274,
+        "word": "孙释颜",
+        "onboard_time": 1703309553,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为强国建设民族复兴伟业汇聚强大力量#"
+    }
+  }
+}
