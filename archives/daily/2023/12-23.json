@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703324041843,
+  "endTime": 1703326643267,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 4404641,
-      "num": 570755,
+      "num": 2282858,
       "word": "英语二 平等地创飞所有人",
       "onboard_time": 1703322998,
       "rank": 11,
@@ -51,10 +51,18 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2986956,
-      "num": 2986956,
+      "raw_hot": 3255111,
+      "num": 3255111,
       "word": "英语一 最猛的1",
       "onboard_time": 1703322998,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2851231,
+      "num": 2851231,
+      "word": "考研英语 轻舟已撞大冰山",
+      "onboard_time": 1703324979,
       "rank": 3,
       "category": "教育"
     },
@@ -97,6 +105,14 @@
       "onboard_time": 1703294676,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1721690,
+      "num": 1721690,
+      "word": "春晚 科目三",
+      "onboard_time": 1703323721,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1714898,
@@ -251,8 +267,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 962555,
+      "num": 962555,
+      "word": "老师 是不是发错卷了",
+      "onboard_time": 1703325338,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 935579,
+      "num": 935579,
+      "word": "国家新闻出版署回应网游管理办法草案",
+      "onboard_time": 1703324739,
+      "rank": 13,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 935236,
-      "num": 569106,
+      "num": 586138,
       "word": "朱令遗体告别仪式明日举行",
       "onboard_time": 1703321373,
       "rank": 11,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 817781,
-      "num": 570585,
+      "num": 618452,
       "word": "朱令铊中毒事件",
       "onboard_time": 1703322456,
       "rank": 12,
@@ -419,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579819,
+      "num": 579819,
+      "word": "英一作文 古代科学家",
+      "onboard_time": 1703323960,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 571806,
       "num": 571806,
       "word": "我嗑的cp因为咖位没有以后了",
@@ -460,7 +500,7 @@
     },
     {
       "raw_hot": 529791,
-      "num": 529791,
+      "num": 2428733,
       "word": "浙大学霸用一页纸证明自己",
       "onboard_time": 1703318672,
       "rank": 24,
@@ -547,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480053,
+      "num": 272073,
+      "word": "李健曾发微博回忆朱令",
+      "onboard_time": 1703325457,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479576,
       "num": 479576,
       "word": "lucy姐 我没k",
@@ -561,14 +609,6 @@
       "onboard_time": 1703256516,
       "rank": 17,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 442509,
-      "num": 259644,
-      "word": "英一作文 古代科学家",
-      "onboard_time": 1703323960,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 439371,
@@ -611,8 +651,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 420221,
-      "num": 420221,
+      "raw_hot": 423375,
+      "num": 423375,
       "word": "万鹏因为选上女主崩溃大哭",
       "onboard_time": 1703322878,
       "rank": 19,
@@ -689,6 +729,14 @@
       "onboard_time": 1703247996,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 359192,
+      "num": 359192,
+      "word": "幼儿园男童送女孩200克金条",
+      "onboard_time": 1703324320,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357310,
@@ -769,14 +817,6 @@
       "onboard_time": 1703294849,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 329068,
-      "num": 329068,
-      "word": "春晚 科目三",
-      "onboard_time": 1703323721,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 328258,
@@ -867,6 +907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 291348,
+      "num": 291348,
+      "word": "石雷鹏预测",
+      "onboard_time": 1703324858,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 286351,
       "num": 286351,
       "word": "管综数学 稀碎",
@@ -876,7 +924,7 @@
     },
     {
       "raw_hot": 286253,
-      "num": 286253,
+      "num": 779277,
       "word": "男子嫌假证办得太假报警",
       "onboard_time": 1703321432,
       "rank": 23,
@@ -1219,6 +1267,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 212214,
+      "num": 212214,
+      "word": "永夜星河杀青",
+      "onboard_time": 1703326414,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211411,
       "num": 211411,
       "word": "小S 在摄影棚有严重的容貌焦虑",
@@ -1339,6 +1395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201958,
+      "num": 201958,
+      "word": "入青云 陈星旭卢昱晓",
+      "onboard_time": 1703325517,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201877,
       "num": 201877,
       "word": "考研时间",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1703314412,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197894,
+      "num": 197894,
+      "word": "刘宇签售会头饰也太漂亮了",
+      "onboard_time": 1703325457,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 195371,
@@ -1451,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186388,
+      "num": 186388,
+      "word": "nail到底什么东西",
+      "onboard_time": 1703326414,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186135,
       "num": 186135,
       "word": "我就说东北菜吃了量大的亏",
@@ -1516,7 +1596,7 @@
     },
     {
       "raw_hot": 177189,
-      "num": 259929,
+      "num": 1874737,
       "word": "天黑了帐篷没到震区34岁的他急哭",
       "onboard_time": 1703323180,
       "rank": 29,
@@ -2195,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77365,
+      "num": 384345,
+      "word": "申请跟美女们一起过冬",
+      "onboard_time": 1703325098,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 73038,
       "num": 5472501,
       "word": "听见2023的中国",
@@ -2235,6 +2323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55874,
+      "num": 571530,
+      "word": "别克E5",
+      "onboard_time": 1703322456,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 55644,
       "num": 55644,
       "word": "杨幂王鹤棣同框",
@@ -2267,12 +2363,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38785,
-      "num": 571530,
-      "word": "别克E5",
-      "onboard_time": 1703322456,
-      "rank": 34,
+      "raw_hot": 42582,
+      "num": 184801,
+      "word": "任泽平预测小米汽车",
+      "onboard_time": 1703324679,
+      "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 40491,
+      "num": 792010,
+      "word": "蛋仔三丽鸥联动福利",
+      "onboard_time": 1703325635,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 34984,
@@ -2329,6 +2433,14 @@
       "onboard_time": 1703277915,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 15644,
+      "num": 3034237,
+      "word": "共赏改革开放新画卷",
+      "onboard_time": 1703318370,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15314,
