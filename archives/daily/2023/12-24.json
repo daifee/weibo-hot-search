@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703362644473,
+  "endTime": 1703363664980,
   "band_list": [
     {
       "raw_hot": 1093325,
@@ -459,6 +459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 50638,
+      "num": 49715,
+      "word": "甘肃24处不可移动文物在地震中受损",
+      "onboard_time": 1703360713,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41777,
       "num": 41777,
       "word": "魔卡少女樱20年前的画风",
@@ -467,12 +475,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 33631,
-      "num": 33631,
-      "word": "甘肃24处不可移动文物在地震中受损",
-      "onboard_time": 1703360713,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 35543,
+      "num": 17355,
+      "word": "美国常驻联合国代表的手怎么了",
+      "onboard_time": 1703362274,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 26999,
+      "num": 26999,
+      "word": "别问雪多大 动物园里就剩它了",
+      "onboard_time": 1703361435,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 26226,
@@ -481,14 +497,6 @@
       "onboard_time": 1703356097,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21193,
-      "num": 21193,
-      "word": "别问雪多大 动物园里就剩它了",
-      "onboard_time": 1703361435,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 20467,
@@ -515,12 +523,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 15569,
-      "num": 15569,
-      "word": "美国常驻联合国代表的手怎么了",
-      "onboard_time": 1703362274,
-      "rank": 34,
-      "category": "国外时政"
+      "raw_hot": 10952,
+      "num": 15259,
+      "word": "石家庄大剧院音乐会观众高喊退票",
+      "onboard_time": 1703363416,
+      "rank": 49,
+      "category": "社会新闻,音乐"
     }
   ],
   "hotgov_list": [
