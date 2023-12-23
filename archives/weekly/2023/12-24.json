@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703348452587,
+  "endTime": 1703349388504,
   "band_list": [
     {
       "raw_hot": 1093325,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495795,
+      "num": 495795,
+      "word": "杨洋素颜合照",
+      "onboard_time": 1703347291,
+      "rank": 11,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 401970,
       "num": 401970,
       "word": "Jennie成立个人厂牌",
       "onboard_time": 1703335176,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 387866,
+      "num": 387866,
+      "word": "某些大女主文现状",
+      "onboard_time": 1703346756,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 363690,
@@ -83,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 340530,
-      "num": 340530,
-      "word": "杨洋素颜合照",
-      "onboard_time": 1703347291,
-      "rank": 11,
-      "category": "艺人,情感"
+      "raw_hot": 323256,
+      "num": 323256,
+      "word": "井胧 得亏没签公司",
+      "onboard_time": 1703340158,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 323091,
@@ -96,14 +112,6 @@
       "word": "声生不息格局又打开了",
       "onboard_time": 1703343516,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 316330,
-      "num": 316330,
-      "word": "井胧 得亏没签公司",
-      "onboard_time": 1703340158,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -123,12 +131,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 289626,
-      "num": 289626,
-      "word": "某些大女主文现状",
-      "onboard_time": 1703346756,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 287625,
+      "num": 287625,
+      "word": "变成小时候觉得冷漠的姐姐了",
+      "onboard_time": 1703344177,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 248070,
@@ -161,14 +169,6 @@
       "onboard_time": 1703322998,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 200657,
-      "num": 200657,
-      "word": "变成小时候觉得冷漠的姐姐了",
-      "onboard_time": 1703344177,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 197527,
@@ -331,8 +331,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 97511,
-      "num": 97511,
+      "raw_hot": 98428,
+      "num": 98428,
       "word": "短剧撒野",
       "onboard_time": 1703334937,
       "rank": 42,
@@ -395,7 +395,39 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11784,
+      "raw_hot": 73576,
+      "num": 73576,
+      "word": "鸣龙少年",
+      "onboard_time": 1703348732,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 72133,
+      "num": 72133,
+      "word": "我可以47",
+      "onboard_time": 1703349209,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65642,
+      "num": 72132,
+      "word": "EXOL的冬日聚会",
+      "onboard_time": 1703342197,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64069,
+      "num": 72131,
+      "word": "甜馨拍杂志了",
+      "onboard_time": 1703321072,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 18687,
       "num": 818071,
       "word": "卫星视角看中国",
       "onboard_time": 1703334155,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#巩固拓展主题教育成果要常学常新#"
+    },
+    {
+      "word": "#为强国建设民族复兴伟业汇聚强大力量#"
     }
   ]
 }
