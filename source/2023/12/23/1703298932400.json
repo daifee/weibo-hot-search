@@ -1,0 +1,410 @@
+{
+  "runTime": 1703298932400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1663996,
+        "num": 1663996,
+        "word": "图书馆空了",
+        "onboard_time": 1703293351,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1210900,
+        "num": 1210900,
+        "word": "联合国通过决议将春节作为联合国假日",
+        "onboard_time": 1703297194,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68492,
+        "num": 873748,
+        "word": "听见2023的中国",
+        "onboard_time": 1703298453,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1226764,
+        "num": 837248,
+        "word": "娱乐圈真正的小孩哥出现了",
+        "onboard_time": 1703295513,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761820,
+        "num": 761820,
+        "word": "赵晴 美女们的丫鬟",
+        "onboard_time": 1703295390,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607858,
+        "num": 607858,
+        "word": "考研人数3年来首次下降",
+        "onboard_time": 1703291249,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604119,
+        "num": 604119,
+        "word": "甄嬛传最珍贵的是没一个人塌房",
+        "onboard_time": 1703296353,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 552566,
+        "num": 552566,
+        "word": "老人去世后房子被物业改成宿舍",
+        "onboard_time": 1703296534,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530450,
+        "num": 530450,
+        "word": "被老鼠咬后反咬女子室友发声",
+        "onboard_time": 1703258557,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440756,
+        "num": 440756,
+        "word": "易烊千玺当评委",
+        "onboard_time": 1703257894,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1358608,
+        "num": 440014,
+        "word": "于正 她那么高贵哪里像丫鬟",
+        "onboard_time": 1703293594,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1339920,
+        "num": 436342,
+        "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
+        "onboard_time": 1703288906,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574379,
+        "num": 432923,
+        "word": "女生称公交上被男子多次用下身摩擦",
+        "onboard_time": 1703287583,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1867342,
+        "num": 425752,
+        "word": "朱令",
+        "onboard_time": 1703294676,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425533,
+        "num": 425533,
+        "word": "考研第一天",
+        "onboard_time": 1703287463,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 379410,
+        "num": 379410,
+        "word": "心疼赵晴",
+        "onboard_time": 1703296713,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343282,
+        "num": 343282,
+        "word": "听音乐睡觉要小心耳虫效应",
+        "onboard_time": 1703292990,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315981,
+        "num": 315981,
+        "word": "小伙谈逃出缅北2年后重生之路",
+        "onboard_time": 1703296713,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299871,
+        "num": 299871,
+        "word": "周末补觉1小时心血管病风险降六成",
+        "onboard_time": 1703295572,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289612,
+        "num": 289612,
+        "word": "陈坤对张婧仪是当女儿来宠吧",
+        "onboard_time": 1703294133,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328258,
+        "num": 282576,
+        "word": "会穿衣服也是一种天赋",
+        "onboard_time": 1703296771,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322605,
+        "num": 282276,
+        "word": "男朋友总被认成儿子",
+        "onboard_time": 1703294849,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263248,
+        "num": 263248,
+        "word": "江晓媛跳楼",
+        "onboard_time": 1703287281,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239762,
+        "num": 239762,
+        "word": "薛之谦曾为蔡文静片场发飙",
+        "onboard_time": 1703287762,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237160,
+        "num": 237160,
+        "word": "赵嘉敏",
+        "onboard_time": 1703296593,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237091,
+        "num": 237091,
+        "word": "Ghost退役",
+        "onboard_time": 1703298212,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235763,
+        "num": 235763,
+        "word": "为438万考研人加油",
+        "onboard_time": 1703296954,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234955,
+        "num": 234955,
+        "word": "关晓彤 跳了gidle的舞",
+        "onboard_time": 1703292152,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207221,
+        "num": 207221,
+        "word": "鸣龙少年剧粉开始癫了",
+        "onboard_time": 1703297491,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183242,
+        "num": 183242,
+        "word": "鲨鱼夹发型",
+        "onboard_time": 1703293712,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 239874,
+        "num": 181880,
+        "word": "樊振东 状态不好的时候需要刺激自己",
+        "onboard_time": 1703298032,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222124,
+        "num": 180969,
+        "word": "白雪公主和七个大高个",
+        "onboard_time": 1703298512,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176102,
+        "num": 176102,
+        "word": "杨幂到达上海",
+        "onboard_time": 1703288906,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176000,
+        "num": 176000,
+        "word": "金莎 参加活动戒指丢了",
+        "onboard_time": 1703260531,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169211,
+        "num": 169211,
+        "word": "泥浆中紧护孩子的姑姑怀有身孕",
+        "onboard_time": 1703261012,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167371,
+        "num": 167371,
+        "word": "普京为一名坐轮椅女学生中断会议",
+        "onboard_time": 1703292932,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166626,
+        "num": 166626,
+        "word": "秦海璐的丑鞋子",
+        "onboard_time": 1703298453,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162946,
+        "num": 162946,
+        "word": "未成年人游戏时长处于历史最低水平",
+        "onboard_time": 1703287220,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158035,
+        "num": 158035,
+        "word": "饥饿感可以延长寿命",
+        "onboard_time": 1703293712,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37673,
+        "num": 152731,
+        "word": "积石山中小学开始有序复课",
+        "onboard_time": 1703292810,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149799,
+        "num": 149799,
+        "word": "考研生因为睡不着一大早就来自习室",
+        "onboard_time": 1703291849,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 149568,
+        "num": 149568,
+        "word": "仙台有树 马好人坏",
+        "onboard_time": 1703294314,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138748,
+        "num": 138748,
+        "word": "考研时间",
+        "onboard_time": 1703289328,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134570,
+        "num": 134570,
+        "word": "什么样的胸痛更危险",
+        "onboard_time": 1703297733,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131424,
+        "num": 131424,
+        "word": "完颜慧德 北大",
+        "onboard_time": 1703264484,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129198,
+        "num": 129198,
+        "word": "一战成硕",
+        "onboard_time": 1703254297,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125187,
+        "num": 125187,
+        "word": "周深 不好意思会的太多了",
+        "onboard_time": 1703291008,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121534,
+        "num": 121534,
+        "word": "四川人连熊猫都喊安逸",
+        "onboard_time": 1703298814,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119310,
+        "num": 119310,
+        "word": "关晓彤 心虚话都变多了",
+        "onboard_time": 1703289807,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118834,
+        "num": 118834,
+        "word": "流量褪去后的淄博",
+        "onboard_time": 1703280134,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升乡村产业富民水平#"
+    }
+  }
+}
