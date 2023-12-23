@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703335500347,
+  "endTime": 1703337526161,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -75,6 +75,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2323409,
+      "num": 2323409,
+      "word": "自助草莓火锅",
+      "onboard_time": 1703333555,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2153535,
       "num": 2153535,
       "word": "朱令父亲发声",
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1956673,
+      "num": 1956673,
+      "word": "郭晶晶霍启刚 捐款7000万",
+      "onboard_time": 1703336015,
+      "rank": 1,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1908289,
       "num": 1908289,
       "word": "冬至别熬夜",
@@ -131,14 +147,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1678294,
-      "num": 1678294,
-      "word": "自助草莓火锅",
-      "onboard_time": 1703333555,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1611204,
       "num": 1183482,
       "word": "朱令妈妈 我该怎么保护我的女儿",
@@ -153,6 +161,14 @@
       "onboard_time": 1703302600,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1537543,
+      "num": 1537543,
+      "word": "肖战直播",
+      "onboard_time": 1703336077,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1533453,
@@ -225,6 +241,14 @@
       "onboard_time": 1703328634,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1191346,
+      "num": 1191346,
+      "word": "Jennie成立个人厂牌",
+      "onboard_time": 1703335176,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1168552,
@@ -305,14 +329,6 @@
       "onboard_time": 1703331936,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 936033,
-      "num": 936033,
-      "word": "Jennie成立个人厂牌",
-      "onboard_time": 1703335176,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 935579,
@@ -459,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 676961,
+      "num": 676961,
+      "word": "石雷鹏 本人一篇都没有押中",
+      "onboard_time": 1703334214,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 646873,
       "num": 411929,
       "word": "林一鼻子",
@@ -513,6 +537,22 @@
       "onboard_time": 1703321493,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 569155,
+      "num": 569155,
+      "word": "甜馨 差不多十几年没看见嗯哼了",
+      "onboard_time": 1703336138,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 568447,
+      "num": 568447,
+      "word": "雷鸣的病情越来越严重了",
+      "onboard_time": 1703330318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 539661,
@@ -627,14 +667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 497690,
-      "num": 497690,
-      "word": "雷鸣的病情越来越严重了",
-      "onboard_time": 1703330318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 497306,
       "num": 379338,
       "word": "警方曾称朱令案办案未受干扰",
@@ -667,20 +699,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 468858,
+      "num": 468858,
+      "word": "短剧撒野",
+      "onboard_time": 1703334937,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459195,
       "num": 322533,
       "word": "不要再玩大冰梗了好吗 好的",
       "onboard_time": 1703256516,
       "rank": 17,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 440150,
-      "num": 238533,
-      "word": "石雷鹏 本人一篇都没有押中",
-      "onboard_time": 1703334214,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 439371,
@@ -979,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 308791,
+      "num": 308791,
+      "word": "三阿哥真又又又长高了",
+      "onboard_time": 1703331696,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 305532,
       "num": 305532,
       "word": "第一次见男明星耍帅甩羽绒服",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1703324858,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 302720,
-      "num": 302720,
-      "word": "短剧撒野",
-      "onboard_time": 1703334937,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 302083,
@@ -1123,12 +1155,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 279388,
-      "num": 279388,
-      "word": "三阿哥真又又又长高了",
-      "onboard_time": 1703331696,
-      "rank": 26,
+      "raw_hot": 281744,
+      "num": 281744,
+      "word": "倪妮唐嫣工作室 卧龙凤雏",
+      "onboard_time": 1703337278,
+      "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280118,
+      "num": 280118,
+      "word": "考研热降温有三个重要原因",
+      "onboard_time": 1703335358,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 277847,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1703322274,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271164,
+      "num": 271164,
+      "word": "内娱活人不如顶级素人",
+      "onboard_time": 1703336793,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 269300,
@@ -1377,6 +1425,14 @@
       "onboard_time": 1703308358,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232748,
+      "num": 232748,
+      "word": "狂飙唐小龙重生之考进体制内",
+      "onboard_time": 1703337038,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 232146,
@@ -1611,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207054,
+      "num": 207054,
+      "word": "一念关山 be",
+      "onboard_time": 1703337160,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205723,
       "num": 205723,
       "word": "普京为一名坐轮椅女学生中断会议",
@@ -1811,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188688,
+      "num": 188688,
+      "word": "霉霉又破纪录了",
+      "onboard_time": 1703336619,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187419,
       "num": 187419,
       "word": "TTG对战KSG",
@@ -1907,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177642,
+      "num": 177642,
+      "word": "广州特色海鲜火锅",
+      "onboard_time": 1703336436,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 177112,
       "num": 177112,
       "word": "反咬老鼠",
@@ -1953,14 +2033,6 @@
       "onboard_time": 1703318850,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173611,
-      "num": 173611,
-      "word": "考研热降温有三个重要原因",
-      "onboard_time": 1703335358,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 171760,
@@ -2316,7 +2388,7 @@
     },
     {
       "raw_hot": 138789,
-      "num": 216946,
+      "num": 468269,
       "word": "行政旗舰蔚来ET9亮相",
       "onboard_time": 1703334995,
       "rank": 34,
@@ -2683,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74906,
+      "num": 1586496,
+      "word": "震区安置点的暖心事",
+      "onboard_time": 1703334455,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73038,
       "num": 5472501,
       "word": "听见2023的中国",
@@ -2755,14 +2835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47119,
-      "num": 1225562,
-      "word": "震区安置点的暖心事",
-      "onboard_time": 1703334455,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45085,
       "num": 48221,
       "word": "侯雯元真人CS身材",
@@ -2833,6 +2905,14 @@
       "onboard_time": 1703314291,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 18691,
+      "num": 135739,
+      "word": "蛋仔派对请全国朋友吃鸡块",
+      "onboard_time": 1703337097,
+      "rank": 49,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 18103,

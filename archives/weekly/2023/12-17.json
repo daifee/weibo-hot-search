@@ -1,6 +1,6 @@
 {
   "startTime": 1702743687967,
-  "endTime": 1703335500347,
+  "endTime": 1703337526161,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -515,6 +515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2323409,
+      "num": 2323409,
+      "word": "自助草莓火锅",
+      "onboard_time": 1703333555,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2320297,
       "num": 2320297,
       "word": "迪丽热巴有第二套吗",
@@ -697,6 +705,14 @@
       "onboard_time": 1703249674,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1956673,
+      "num": 1956673,
+      "word": "郭晶晶霍启刚 捐款7000万",
+      "onboard_time": 1703336015,
+      "rank": 1,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1948341,
@@ -923,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1678294,
-      "num": 1678294,
-      "word": "自助草莓火锅",
-      "onboard_time": 1703333555,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1671327,
       "num": 1671327,
       "word": "杨紫 鎏金蝴蝶公主",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1703302600,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1537543,
+      "num": 1537543,
+      "word": "肖战直播",
+      "onboard_time": 1703336077,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1533453,
@@ -1648,6 +1664,14 @@
       "word": "于适站姐脱粉后发的生图",
       "onboard_time": 1703128471,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1191346,
+      "num": 1191346,
+      "word": "Jennie成立个人厂牌",
+      "onboard_time": 1703335176,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -2401,14 +2425,6 @@
       "onboard_time": 1702819007,
       "rank": 46,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 936033,
-      "num": 936033,
-      "word": "Jennie成立个人厂牌",
-      "onboard_time": 1703335176,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 935579,
@@ -3691,6 +3707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676961,
+      "num": 676961,
+      "word": "石雷鹏 本人一篇都没有押中",
+      "onboard_time": 1703334214,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 676487,
       "num": 676487,
       "word": "当大我八岁哥哥有了自己微信",
@@ -4523,12 +4547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569155,
+      "num": 569155,
+      "word": "甜馨 差不多十几年没看见嗯哼了",
+      "onboard_time": 1703336138,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568990,
       "num": 568990,
       "word": "杀夫藏尸冰柜案开庭",
       "onboard_time": 1703123972,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 568447,
+      "num": 568447,
+      "word": "雷鸣的病情越来越严重了",
+      "onboard_time": 1703330318,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 566978,
@@ -5347,14 +5387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497690,
-      "num": 497690,
-      "word": "雷鸣的病情越来越严重了",
-      "onboard_time": 1703330318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 497306,
       "num": 379338,
       "word": "警方曾称朱令案办案未受干扰",
@@ -5721,6 +5753,14 @@
       "onboard_time": 1702881814,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468858,
+      "num": 468858,
+      "word": "短剧撒野",
+      "onboard_time": 1703334937,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 467833,
@@ -6113,14 +6153,6 @@
       "onboard_time": 1702959282,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 440150,
-      "num": 238533,
-      "word": "石雷鹏 本人一篇都没有押中",
-      "onboard_time": 1703334214,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 439371,
@@ -8523,6 +8555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308791,
+      "num": 308791,
+      "word": "三阿哥真又又又长高了",
+      "onboard_time": 1703331696,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308494,
       "num": 244192,
       "word": "4岁女童遭仨狗咬掉大半头皮",
@@ -8705,14 +8745,6 @@
       "onboard_time": 1703324858,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 302720,
-      "num": 302720,
-      "word": "短剧撒野",
-      "onboard_time": 1703334937,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 302629,
@@ -9403,6 +9435,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 281744,
+      "num": 281744,
+      "word": "倪妮唐嫣工作室 卧龙凤雏",
+      "onboard_time": 1703337278,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 281673,
       "num": 569782,
       "word": "陈清晨喊话孙颖莎一起拿冠军",
@@ -9467,20 +9507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280118,
+      "num": 280118,
+      "word": "考研热降温有三个重要原因",
+      "onboard_time": 1703335358,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 279785,
       "num": 279785,
       "word": "吃饺子",
       "onboard_time": 1703205573,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 279388,
-      "num": 279388,
-      "word": "三阿哥真又又又长高了",
-      "onboard_time": 1703331696,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 278930,
@@ -9712,6 +9752,14 @@
       "word": "檀健次说杨紫是剧组舞蹈担当",
       "onboard_time": 1702914391,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 271164,
+      "num": 271164,
+      "word": "内娱活人不如顶级素人",
+      "onboard_time": 1703336793,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -11203,6 +11251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232748,
+      "num": 232748,
+      "word": "狂飙唐小龙重生之考进体制内",
+      "onboard_time": 1703337038,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232350,
       "num": 232350,
       "word": "港风 郭晓婷的舒适区",
@@ -12619,6 +12675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207054,
+      "num": 207054,
+      "word": "一念关山 be",
+      "onboard_time": 1703337160,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206965,
       "num": 206965,
       "word": "石家庄限号",
@@ -14019,6 +14083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188688,
+      "num": 188688,
+      "word": "霉霉又破纪录了",
+      "onboard_time": 1703336619,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188577,
       "num": 188577,
       "word": "张镇麟半场21分",
@@ -14723,6 +14795,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 177642,
+      "num": 177642,
+      "word": "广州特色海鲜火锅",
+      "onboard_time": 1703336436,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 177470,
       "num": 177470,
       "word": "男人 看不到家务",
@@ -14977,14 +15057,6 @@
       "onboard_time": 1703239593,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173611,
-      "num": 173611,
-      "word": "考研热降温有三个重要原因",
-      "onboard_time": 1703335358,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 173559,
@@ -17172,7 +17244,7 @@
     },
     {
       "raw_hot": 138789,
-      "num": 216946,
+      "num": 468269,
       "word": "行政旗舰蔚来ET9亮相",
       "onboard_time": 1703334995,
       "rank": 34,
@@ -18555,6 +18627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74906,
+      "num": 1586496,
+      "word": "震区安置点的暖心事",
+      "onboard_time": 1703334455,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74621,
       "num": 74621,
       "word": "导致猝死的7个常见诱因",
@@ -18987,14 +19067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47119,
-      "num": 1225562,
-      "word": "震区安置点的暖心事",
-      "onboard_time": 1703334455,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46646,
       "num": 373361,
       "word": "今天的蛋搭子是肯爷爷",
@@ -19393,6 +19465,14 @@
       "onboard_time": 1703186595,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18691,
+      "num": 135739,
+      "word": "蛋仔派对请全国朋友吃鸡块",
+      "onboard_time": 1703337097,
+      "rank": 49,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 18369,
