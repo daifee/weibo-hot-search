@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703352847518,
+  "endTime": 1703355647490,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -62193,6 +62193,14 @@
       "onboard_time": 1702436438,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41777,
+      "num": 41777,
+      "word": "魔卡少女樱20年前的画风",
+      "onboard_time": 1703353579,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 41377,
