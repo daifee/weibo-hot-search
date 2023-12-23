@@ -1,0 +1,410 @@
+{
+  "runTime": 1703312494011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6433952,
+        "num": 6433952,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837459,
+        "num": 837459,
+        "word": "考研政治 简单",
+        "onboard_time": 1703301873,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39153,
+        "num": 799064,
+        "word": "听见2023的中国",
+        "onboard_time": 1703298453,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 790604,
+        "num": 790604,
+        "word": "沙溢 跑男",
+        "onboard_time": 1703310573,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1311112,
+        "num": 777476,
+        "word": "朱令父亲发声",
+        "onboard_time": 1703306021,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739060,
+        "num": 739060,
+        "word": "金靖爆改韩系美女",
+        "onboard_time": 1703300791,
+        "rank": 5,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 501774,
+        "num": 501774,
+        "word": "杨洋白鹿 明日千里",
+        "onboard_time": 1703309673,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405928,
+        "num": 405928,
+        "word": "娱乐圈真正的小孩哥出现了",
+        "onboard_time": 1703295513,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393026,
+        "num": 393026,
+        "word": "湖南卫视跨年 阵容",
+        "onboard_time": 1703310632,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314204,
+        "num": 314204,
+        "word": "孙杨或彻底无缘巴黎奥运会",
+        "onboard_time": 1703304402,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667902,
+        "num": 311510,
+        "word": "解清帅已开始直播带货",
+        "onboard_time": 1703310334,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586921,
+        "num": 304582,
+        "word": "铊中毒",
+        "onboard_time": 1703302298,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546896,
+        "num": 298111,
+        "word": "父亲称朱令2次铊中毒活到现在是奇迹",
+        "onboard_time": 1703311414,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522614,
+        "num": 294666,
+        "word": "张雪峰称考研简单不代表你写的就都对",
+        "onboard_time": 1703308836,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 512794,
+        "num": 289913,
+        "word": "于正 她那么高贵哪里像丫鬟",
+        "onboard_time": 1703293594,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285294,
+        "num": 285294,
+        "word": "考研",
+        "onboard_time": 1703300433,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104738,
+        "num": 273617,
+        "word": "和酷洛米做蛋搭子",
+        "onboard_time": 1703310932,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271583,
+        "num": 271583,
+        "word": "腿姐 九页纸",
+        "onboard_time": 1703306918,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 260966,
+        "num": 260966,
+        "word": "王一博 湖南卫视跨年",
+        "onboard_time": 1703309614,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244051,
+        "num": 244051,
+        "word": "甄嬛传最珍贵的是没一个人塌房",
+        "onboard_time": 1703296353,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1178744,
+        "num": 243807,
+        "word": "肖爷爷全押中了",
+        "onboard_time": 1703302959,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 468486,
+        "num": 243453,
+        "word": "图书馆空了",
+        "onboard_time": 1703293351,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404547,
+        "num": 243336,
+        "word": "孙维",
+        "onboard_time": 1703301333,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369584,
+        "num": 243052,
+        "word": "孙释颜",
+        "onboard_time": 1703309553,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270259,
+        "num": 242571,
+        "word": "工资突然暴涨是种什么体验",
+        "onboard_time": 1703303564,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246991,
+        "num": 242133,
+        "word": "朱令",
+        "onboard_time": 1703294676,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242122,
+        "num": 242122,
+        "word": "大学生1个月挂39个号被确诊疑病症",
+        "onboard_time": 1703305481,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240022,
+        "num": 240022,
+        "word": "清华大学发博悼念朱令",
+        "onboard_time": 1703304221,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230320,
+        "num": 230320,
+        "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
+        "onboard_time": 1703288906,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144454,
+        "num": 229378,
+        "word": "孩子呼吸道感染后咳嗽该怎么办",
+        "onboard_time": 1703310873,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256298,
+        "num": 229297,
+        "word": "papi酱的婚姻模式 超前",
+        "onboard_time": 1703312196,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 228936,
+        "num": 228936,
+        "word": "阿音仙骨已碎",
+        "onboard_time": 1703311651,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221512,
+        "num": 221512,
+        "word": "勇士 北伐",
+        "onboard_time": 1703311291,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209504,
+        "num": 209504,
+        "word": "塞牙 牙齿在求救",
+        "onboard_time": 1703307634,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204882,
+        "num": 204882,
+        "word": "经超 姐姐想要的那种弟弟",
+        "onboard_time": 1703310873,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199764,
+        "num": 199764,
+        "word": "周深汪苏泷 爱的供养",
+        "onboard_time": 1703309793,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191992,
+        "num": 191992,
+        "word": "勇士战胜奇才",
+        "onboard_time": 1703312073,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181211,
+        "num": 181211,
+        "word": "迪丽热巴立体红唇妆",
+        "onboard_time": 1703303201,
+        "rank": 37,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 178996,
+        "num": 178996,
+        "word": "男童地震失去双亲一声妈妈令人泪目",
+        "onboard_time": 1703308358,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173484,
+        "num": 173484,
+        "word": "朱令一个月前刚度过50岁生日",
+        "onboard_time": 1703312253,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169912,
+        "num": 169912,
+        "word": "原来是美男 少女时代",
+        "onboard_time": 1703299293,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163334,
+        "num": 163334,
+        "word": "肖战蓝色针织开衫",
+        "onboard_time": 1703306563,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162368,
+        "num": 162368,
+        "word": "考研政治大题 抄材料",
+        "onboard_time": 1703307098,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158263,
+        "num": 158263,
+        "word": "人民币成国际支付第四大货币",
+        "onboard_time": 1703307399,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149502,
+        "num": 149502,
+        "word": "考研前后图书馆对比照有点戳心",
+        "onboard_time": 1703312014,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124703,
+        "num": 124703,
+        "word": "女主播为套牢粉丝私发淫秽视频",
+        "onboard_time": 1703301092,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124129,
+        "num": 124129,
+        "word": "数九寒天健康日历",
+        "onboard_time": 1703312373,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123173,
+        "num": 123173,
+        "word": "浙江卫视跨年 阵容",
+        "onboard_time": 1703309553,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118697,
+        "num": 118697,
+        "word": "为什么我们不能遗忘朱令案",
+        "onboard_time": 1703310692,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116155,
+        "num": 116155,
+        "word": "朱令案几大疑点",
+        "onboard_time": 1703312436,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#巩固拓展主题教育成果要常学常新#"
+    }
+  }
+}
