@@ -1,0 +1,410 @@
+{
+  "runTime": 1703293938815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1022351,
+        "num": 1022351,
+        "word": "被老鼠咬后反咬女子室友发声",
+        "onboard_time": 1703258557,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874975,
+        "num": 874975,
+        "word": "考研人数3年来首次下降",
+        "onboard_time": 1703291249,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10262,
+        "num": 628361,
+        "word": "神十七航天员圆满完成首次出舱任务",
+        "onboard_time": 1703168681,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026202,
+        "num": 613957,
+        "word": "腾讯市值跌没了一个小米",
+        "onboard_time": 1703289386,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 598948,
+        "num": 598948,
+        "word": "薛之谦曾为蔡文静片场发飙",
+        "onboard_time": 1703287762,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532920,
+        "num": 532920,
+        "word": "金莎 参加活动戒指丢了",
+        "onboard_time": 1703260531,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 454309,
+        "num": 454309,
+        "word": "易烊千玺当评委",
+        "onboard_time": 1703257894,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422031,
+        "num": 422031,
+        "word": "流量褪去后的淄博",
+        "onboard_time": 1703280134,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 403956,
+        "num": 403956,
+        "word": "泥浆中紧护孩子的姑姑怀有身孕",
+        "onboard_time": 1703261012,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396026,
+        "num": 396026,
+        "word": "考研第一天",
+        "onboard_time": 1703287463,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2092829,
+        "num": 379239,
+        "word": "官方回应半裸女子脚踩长城浮雕被吐槽",
+        "onboard_time": 1703288906,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791698,
+        "num": 373768,
+        "word": "女生称公交上被男子多次用下身摩擦",
+        "onboard_time": 1703287583,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335400,
+        "num": 335400,
+        "word": "关晓彤 心虚话都变多了",
+        "onboard_time": 1703289807,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334088,
+        "num": 334088,
+        "word": "揉肚子 排气",
+        "onboard_time": 1703288906,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294389,
+        "num": 294389,
+        "word": "图书馆空了",
+        "onboard_time": 1703293351,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 293044,
+        "num": 293044,
+        "word": "杨幂到达上海",
+        "onboard_time": 1703288906,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282920,
+        "num": 282920,
+        "word": "果郡王浣碧线被剪掉挺多的",
+        "onboard_time": 1703258075,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 296702,
+        "num": 281486,
+        "word": "关晓彤 跳了gidle的舞",
+        "onboard_time": 1703292152,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277847,
+        "num": 277847,
+        "word": "完颜慧德 北大",
+        "onboard_time": 1703264484,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272767,
+        "num": 272767,
+        "word": "家长买500斤融雪剂深夜铲除校门口积冰",
+        "onboard_time": 1703270656,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 263941,
+        "num": 263941,
+        "word": "未成年人游戏时长处于历史最低水平",
+        "onboard_time": 1703287220,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248283,
+        "num": 248283,
+        "word": "普京为一名坐轮椅女学中断会议",
+        "onboard_time": 1703292932,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 223679,
+        "num": 223679,
+        "word": "江晓媛跳楼",
+        "onboard_time": 1703287281,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222677,
+        "num": 222677,
+        "word": "考研生因为睡不着一大早就来自习室",
+        "onboard_time": 1703291849,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 216682,
+        "num": 216682,
+        "word": "不要再玩大冰梗了好吗 好的",
+        "onboard_time": 1703256516,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 216403,
+        "num": 216403,
+        "word": "周深 不好意思会的太多了",
+        "onboard_time": 1703291008,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207747,
+        "num": 207747,
+        "word": "郑强不再担任太原理工大学党委书记",
+        "onboard_time": 1703287040,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206042,
+        "num": 206042,
+        "word": "甘露寺美甲",
+        "onboard_time": 1703258913,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 173856,
+        "num": 173856,
+        "word": "一战成硕",
+        "onboard_time": 1703254297,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164140,
+        "num": 164140,
+        "word": "昏迷男子听周杰伦歌时突然打节拍",
+        "onboard_time": 1703267418,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 260693,
+        "num": 161205,
+        "word": "于正 她那么高贵哪里像丫鬟",
+        "onboard_time": 1703293594,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207778,
+        "num": 160462,
+        "word": "听音乐睡觉要小心耳虫效应",
+        "onboard_time": 1703292990,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151187,
+        "num": 151187,
+        "word": "鲨鱼夹发型",
+        "onboard_time": 1703293712,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 147741,
+        "num": 147741,
+        "word": "猫 睡了一觉怎么就出省了",
+        "onboard_time": 1703288605,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146679,
+        "num": 146679,
+        "word": "考研时间",
+        "onboard_time": 1703289328,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145777,
+        "num": 145777,
+        "word": "摩羯座 抗拒感情",
+        "onboard_time": 1703289146,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143364,
+        "num": 143364,
+        "word": "幽门螺杆菌感染后往往无症状",
+        "onboard_time": 1703281154,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128477,
+        "num": 128477,
+        "word": "从她手中5万多名婴儿呱呱坠地",
+        "onboard_time": 1703292990,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128028,
+        "num": 128028,
+        "word": "苏醒 这一年就这么度过的男歌手",
+        "onboard_time": 1703288845,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126718,
+        "num": 126718,
+        "word": "积石山中小学开始有序复课",
+        "onboard_time": 1703292810,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123759,
+        "num": 123759,
+        "word": "长期不吃肉身体会发生什么变化",
+        "onboard_time": 1703247395,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123132,
+        "num": 123132,
+        "word": "腾讯网易市值蒸发超5000亿",
+        "onboard_time": 1703289146,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122357,
+        "num": 122357,
+        "word": "林一鼻子",
+        "onboard_time": 1703253699,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116844,
+        "num": 116844,
+        "word": "高铁乘务员心脏骤停一下来了3位医生",
+        "onboard_time": 1703253699,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115493,
+        "num": 115493,
+        "word": "饥饿感可以延长寿命",
+        "onboard_time": 1703293712,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114782,
+        "num": 114782,
+        "word": "广州海口气温或刷新低",
+        "onboard_time": 1703292331,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111809,
+        "num": 111809,
+        "word": "考研 没睡着",
+        "onboard_time": 1703286862,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111470,
+        "num": 111470,
+        "word": "TheShy公会老板回应争议",
+        "onboard_time": 1703289928,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104955,
+        "num": 104955,
+        "word": "第一次见男明星耍帅甩羽绒服",
+        "onboard_time": 1703251115,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103816,
+        "num": 103816,
+        "word": "曼城五冠王",
+        "onboard_time": 1703290948,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#提升乡村产业富民水平#"
+    }
+  }
+}
