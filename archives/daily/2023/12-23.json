@@ -1,6 +1,6 @@
 {
   "startTime": 1703262112833,
-  "endTime": 1703305303129,
+  "endTime": 1703306100275,
   "band_list": [
     {
       "raw_hot": 11690671,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7832266,
-      "num": 7832266,
+      "raw_hot": 7841600,
+      "num": 7841600,
       "word": "考研政治 简单",
       "onboard_time": 1703301873,
       "rank": 3,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1358608,
-      "num": 645130,
+      "num": 653103,
       "word": "于正 她那么高贵哪里像丫鬟",
       "onboard_time": 1703293594,
       "rank": 30,
@@ -155,6 +155,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 868042,
+      "num": 868042,
+      "word": "清华大学发博悼念朱令",
+      "onboard_time": 1703304221,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841235,
       "num": 841235,
       "word": "金莎 参加活动戒指丢了",
@@ -179,19 +187,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 751480,
-      "num": 751480,
-      "word": "清华大学发博悼念朱令",
-      "onboard_time": 1703304221,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 733830,
       "num": 733830,
       "word": "老人去世后房子被物业改成宿舍",
       "onboard_time": 1703296534,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721920,
+      "num": 721920,
+      "word": "铊中毒",
+      "onboard_time": 1703302298,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -241,14 +249,6 @@
       "onboard_time": 1703253699,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 646120,
-      "num": 646120,
-      "word": "铊中毒",
-      "onboard_time": 1703302298,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 639922,
@@ -307,12 +307,36 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 517115,
+      "num": 517115,
+      "word": "孙杨或彻底无缘巴黎奥运会",
+      "onboard_time": 1703304402,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511672,
       "num": 511672,
       "word": "考研 提前交卷",
       "onboard_time": 1703303201,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 482916,
+      "num": 482916,
+      "word": "25考研人汗流浃背",
+      "onboard_time": 1703304402,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 463554,
+      "num": 463554,
+      "word": "朱令父亲发声",
+      "onboard_time": 1703306021,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459195,
@@ -363,14 +387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 417932,
-      "num": 417932,
-      "word": "25考研人汗流浃背",
-      "onboard_time": 1703304402,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 403956,
       "num": 403956,
       "word": "泥浆中紧护孩子的姑姑怀有身孕",
@@ -385,14 +401,6 @@
       "onboard_time": 1703303201,
       "rank": 18,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 386793,
-      "num": 386793,
-      "word": "孙杨或彻底无缘巴黎奥运会",
-      "onboard_time": 1703304402,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 373012,
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239383,
+      "num": 239383,
+      "word": "邓为向涵之CP感",
+      "onboard_time": 1703302538,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236828,
       "num": 236828,
       "word": "幽门螺杆菌感染后往往无症状",
@@ -665,14 +681,6 @@
       "onboard_time": 1703302538,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229419,
-      "num": 229419,
-      "word": "邓为向涵之CP感",
-      "onboard_time": 1703302538,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 227183,
@@ -715,6 +723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221264,
+      "num": 221264,
+      "word": "黄景瑜评论区 电子饺子",
+      "onboard_time": 1703305781,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220459,
       "num": 220459,
       "word": "郑强不再担任太原理工大学党委书记",
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 212554,
-      "num": 239173,
+      "num": 239835,
       "word": "三个动作锻炼腰部核心力量",
       "onboard_time": 1703304822,
       "rank": 29,
@@ -811,6 +827,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202090,
+      "num": 202090,
+      "word": "管综答案",
+      "onboard_time": 1703305839,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 200871,
+      "num": 200871,
+      "word": "大学生1个月挂39个号被确诊疑病症",
+      "onboard_time": 1703305481,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194829,
       "num": 194829,
       "word": "4岁女童遭仨狗咬掉大半头皮",
@@ -843,6 +875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186135,
+      "num": 186135,
+      "word": "我就说东北菜吃了量大的亏",
+      "onboard_time": 1703305001,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185631,
       "num": 185631,
       "word": "张晚意孙怡新剧演情侣",
@@ -865,6 +905,14 @@
       "onboard_time": 1703301214,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174930,
+      "num": 174930,
+      "word": "冰透冻伤妆",
+      "onboard_time": 1703305301,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 174453,
@@ -899,20 +947,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 164981,
-      "num": 164981,
-      "word": "我就说东北菜吃了量大的亏",
-      "onboard_time": 1703305001,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164179,
       "num": 164179,
       "word": "昏迷男子听周杰伦歌时突然打节拍",
       "onboard_time": 1703267418,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 162200,
+      "num": 162200,
+      "word": "起床后不宜立刻叠被子",
+      "onboard_time": 1703305661,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 161099,
@@ -1308,7 +1356,7 @@
     },
     {
       "raw_hot": 73038,
-      "num": 4098670,
+      "num": 5472501,
       "word": "听见2023的中国",
       "onboard_time": 1703298453,
       "rank": 2,
