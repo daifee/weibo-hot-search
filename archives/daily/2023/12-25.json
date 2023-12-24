@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703446447363,
+  "endTime": 1703449054330,
   "band_list": [
     {
       "raw_hot": 1541011,
@@ -457,6 +457,14 @@
       "onboard_time": 1703443036,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20314,
+      "num": 20314,
+      "word": "多邻国油炸小绿鸟",
+      "onboard_time": 1703447654,
+      "rank": 25,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
