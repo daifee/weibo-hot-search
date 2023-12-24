@@ -1,0 +1,410 @@
+{
+  "runTime": 1703399655398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2559078,
+        "num": 2559078,
+        "word": "朱令讣告",
+        "onboard_time": 1703396252,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1660074,
+        "num": 1660074,
+        "word": "女子酒店凌晨被男店员刷开房门",
+        "onboard_time": 1703393617,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85500,
+        "num": 1124335,
+        "word": "不管多晚我们都会让每个帐篷有盏亮灯",
+        "onboard_time": 1703380170,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945814,
+        "num": 945814,
+        "word": "中国女子在日本滑雪被雪掩埋不幸去世",
+        "onboard_time": 1703394336,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767751,
+        "num": 767751,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 590335,
+        "num": 590335,
+        "word": "赵昭仪手写8套花少穿搭",
+        "onboard_time": 1703399312,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487716,
+        "num": 487716,
+        "word": "刘亦菲 开屏",
+        "onboard_time": 1703384793,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427652,
+        "num": 427652,
+        "word": "浙江宣传发文考研不能成为二次高考",
+        "onboard_time": 1703394214,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399102,
+        "num": 399102,
+        "word": "管泽元余霜婚礼",
+        "onboard_time": 1703393917,
+        "rank": 8,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 323086,
+        "num": 323086,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 977890,
+        "num": 322914,
+        "word": "数一才是最猛的1",
+        "onboard_time": 1703390733,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322633,
+        "num": 322633,
+        "word": "陈学冬终于有剧要播了",
+        "onboard_time": 1703394336,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321379,
+        "num": 321379,
+        "word": "乾隆的十只猫",
+        "onboard_time": 1703395294,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313313,
+        "num": 313313,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1703396192,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308758,
+        "num": 308758,
+        "word": "结婚的婚 左边是女右边是昏",
+        "onboard_time": 1703372599,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298370,
+        "num": 298370,
+        "word": "温太医张晓龙真的拜高人学切脉学中医",
+        "onboard_time": 1703395893,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284089,
+        "num": 284089,
+        "word": "可可西里网红狼铁饭碗被端",
+        "onboard_time": 1703387430,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280998,
+        "num": 280998,
+        "word": "涿州洪灾绝境自救书商现状",
+        "onboard_time": 1703399190,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269601,
+        "num": 269601,
+        "word": "一念关山编剧回应争议",
+        "onboard_time": 1703398831,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269214,
+        "num": 269214,
+        "word": "导盲犬 明白是因为自己才被拒绝",
+        "onboard_time": 1703395475,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231222,
+        "num": 231222,
+        "word": "许晴好会走啊",
+        "onboard_time": 1703389297,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216962,
+        "num": 216962,
+        "word": "考完333 我心死了",
+        "onboard_time": 1703391334,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212371,
+        "num": 212371,
+        "word": "长期戴口罩容易肺结节吗",
+        "onboard_time": 1703378067,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208147,
+        "num": 208147,
+        "word": "解清帅回应直播带货",
+        "onboard_time": 1703391634,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206054,
+        "num": 206054,
+        "word": "这节目单不像假的",
+        "onboard_time": 1703397574,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203943,
+        "num": 203943,
+        "word": "马哲重组EP",
+        "onboard_time": 1703399190,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200281,
+        "num": 200281,
+        "word": "张碧晨 出去闯一闯的女孩",
+        "onboard_time": 1703397811,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184265,
+        "num": 184265,
+        "word": "钱来圣诞树",
+        "onboard_time": 1703399252,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173001,
+        "num": 173001,
+        "word": "中国人过的平安夜是祖国的胜利夜",
+        "onboard_time": 1703394814,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163113,
+        "num": 163113,
+        "word": "宋江戴花",
+        "onboard_time": 1703387430,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165085,
+        "num": 162855,
+        "word": "张宇 考研数学有两点跟大家分享",
+        "onboard_time": 1703398954,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162337,
+        "num": 162337,
+        "word": "考研西综太难了",
+        "onboard_time": 1703390017,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158433,
+        "num": 158433,
+        "word": "朱令再见",
+        "onboard_time": 1703399190,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155940,
+        "num": 155940,
+        "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
+        "onboard_time": 1703377406,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153365,
+        "num": 153365,
+        "word": "94年女生北漂5年半攒钱超100万",
+        "onboard_time": 1703386293,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145110,
+        "num": 145110,
+        "word": "肖战2024新年祝福视频",
+        "onboard_time": 1703394093,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141922,
+        "num": 141922,
+        "word": "景甜张新成待我醒来时开机",
+        "onboard_time": 1703398412,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130084,
+        "num": 130084,
+        "word": "甘肃红十字回应疑赈灾清单价格高昂",
+        "onboard_time": 1703396613,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125572,
+        "num": 125572,
+        "word": "数学这东西 三分天注定",
+        "onboard_time": 1703396373,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124559,
+        "num": 124559,
+        "word": "六公主带头宠于适",
+        "onboard_time": 1703395893,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124285,
+        "num": 124285,
+        "word": "平安夜",
+        "onboard_time": 1703379330,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124000,
+        "num": 124000,
+        "word": "河南多地宣布部分单位停止供暖",
+        "onboard_time": 1703387430,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117080,
+        "num": 117080,
+        "word": "易烊千玺的饺子",
+        "onboard_time": 1703399551,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115888,
+        "num": 115888,
+        "word": "宁远舟死在了他最想活的那一年",
+        "onboard_time": 1703379990,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111071,
+        "num": 111071,
+        "word": "开合跳瘦上半身",
+        "onboard_time": 1703396432,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110730,
+        "num": 110730,
+        "word": "做饭阿姨好像活在霸道总裁文",
+        "onboard_time": 1703397392,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109328,
+        "num": 109328,
+        "word": "游客称迪士尼设备故障白排队4小时",
+        "onboard_time": 1703387194,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98154,
+        "num": 98154,
+        "word": "9个女性相关冷知识",
+        "onboard_time": 1703398229,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97234,
+        "num": 97234,
+        "word": "蛋仔三丽鸥好碰友",
+        "onboard_time": 1703399613,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97319,
+        "num": 97057,
+        "word": "秦海璐拍的花少团合影",
+        "onboard_time": 1703398412,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设宜居宜业和美乡村#"
+    }
+  }
+}

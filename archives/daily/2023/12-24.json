@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703398888392,
+  "endTime": 1703399655398,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2979852,
-      "num": 474812,
+      "num": 2559078,
       "word": "朱令讣告",
       "onboard_time": 1703396252,
       "rank": 5,
@@ -51,20 +51,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1660074,
+      "num": 1660074,
+      "word": "女子酒店凌晨被男店员刷开房门",
+      "onboard_time": 1703393617,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1574803,
       "num": 558842,
       "word": "铊中毒曾3次出现在高校",
       "onboard_time": 1703376806,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1574627,
-      "num": 1574627,
-      "word": "女子酒店凌晨被男店员刷开房门",
-      "onboard_time": 1703393617,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1518732,
@@ -249,6 +249,14 @@
       "onboard_time": 1703379330,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 590335,
+      "num": 590335,
+      "word": "赵昭仪手写8套花少穿搭",
+      "onboard_time": 1703399312,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 582388,
@@ -579,12 +587,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280998,
+      "num": 280998,
+      "word": "涿州洪灾绝境自救书商现状",
+      "onboard_time": 1703399190,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274191,
       "num": 274191,
       "word": "余霜伴娘团",
       "onboard_time": 1703392298,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 269601,
+      "num": 269601,
+      "word": "一念关山编剧回应争议",
+      "onboard_time": 1703398831,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 269214,
+      "num": 269214,
+      "word": "导盲犬 明白是因为自己才被拒绝",
+      "onboard_time": 1703395475,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 268676,
@@ -675,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234696,
-      "num": 234696,
-      "word": "导盲犬 明白是因为自己才被拒绝",
-      "onboard_time": 1703395475,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 234486,
       "num": 199858,
       "word": "长期不摄入碳水对身体有何影响",
@@ -747,6 +771,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206054,
+      "num": 206054,
+      "word": "这节目单不像假的",
+      "onboard_time": 1703397574,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 203943,
+      "num": 203943,
+      "word": "马哲重组EP",
+      "onboard_time": 1703399190,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203767,
       "num": 203767,
       "word": "景甜张新成待我醒来时开机",
@@ -787,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184265,
+      "num": 184265,
+      "word": "钱来圣诞树",
+      "onboard_time": 1703399252,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183199,
       "num": 183199,
       "word": "詹姆斯质疑名人堂评选规则",
@@ -819,20 +867,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176066,
-      "num": 176066,
-      "word": "这节目单不像假的",
-      "onboard_time": 1703397574,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 174263,
       "num": 174263,
       "word": "狂飙唐小龙重生之考进体制内",
       "onboard_time": 1703337038,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173001,
+      "num": 173001,
+      "word": "中国人过的平安夜是祖国的胜利夜",
+      "onboard_time": 1703394814,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172190,
@@ -859,6 +907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165085,
+      "num": 162855,
+      "word": "张宇 考研数学有两点跟大家分享",
+      "onboard_time": 1703398954,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 162636,
       "num": 162636,
       "word": "数十名考研学子马路边冒着寒风紧张冲刺",
@@ -875,20 +931,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160869,
-      "num": 160869,
-      "word": "中国人过的平安夜是祖国的胜利夜",
-      "onboard_time": 1703394814,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 159299,
       "num": 159299,
       "word": "周深的痣一颗也不能少",
       "onboard_time": 1703376986,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158433,
+      "num": 158433,
+      "word": "朱令再见",
+      "onboard_time": 1703399190,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158387,
@@ -1291,6 +1347,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 117080,
+      "num": 117080,
+      "word": "易烊千玺的饺子",
+      "onboard_time": 1703399551,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115330,
       "num": 115330,
       "word": "这个饺子包的是爱是坚强是家的幸福",
@@ -1363,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103850,
-      "num": 103850,
-      "word": "一念关山编剧回应争议",
-      "onboard_time": 1703398831,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102868,
       "num": 102868,
       "word": "英语二 平等地创飞所有人",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1703342858,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97234,
+      "num": 97234,
+      "word": "蛋仔三丽鸥好碰友",
+      "onboard_time": 1703399613,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 94923,
