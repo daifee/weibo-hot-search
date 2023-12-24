@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703435789144,
+  "endTime": 1703438100923,
   "band_list": [
     {
       "raw_hot": 1541011,
@@ -33,6 +33,14 @@
       "onboard_time": 1703427219,
       "rank": 1,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 721301,
+      "num": 721301,
+      "word": "以为是个黑头结果开了刀",
+      "onboard_time": 1703434052,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 704216,
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 473965,
-      "num": 155190,
-      "word": "以为是个黑头结果开了刀",
-      "onboard_time": 1703434052,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 464363,
       "num": 464363,
       "word": "男子仅有10万元买下191万的房子后悔",
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423690,
+      "num": 214757,
+      "word": "原来明星是这么去颈纹的",
+      "onboard_time": 1703434651,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 380766,
       "num": 380766,
       "word": "柯南全员说中文",
       "onboard_time": 1703429619,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 354458,
-      "num": 158641,
-      "word": "原来明星是这么去颈纹的",
-      "onboard_time": 1703434651,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 351075,
