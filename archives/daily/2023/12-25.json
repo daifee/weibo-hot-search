@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703456173847,
+  "endTime": 1703457224008,
   "band_list": [
     {
       "raw_hot": 1541011,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139735,
+      "num": 139735,
+      "word": "大众电影删除一念关山编剧采访",
+      "onboard_time": 1703424095,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136919,
       "num": 136919,
       "word": "克罗斯 续约",
@@ -339,20 +347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116490,
+      "num": 116490,
+      "word": "多邻国油炸小绿鸟",
+      "onboard_time": 1703447654,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 115163,
       "num": 115163,
       "word": "边伯贤直播再唱初雪",
       "onboard_time": 1703430398,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107652,
-      "num": 107652,
-      "word": "大众电影删除一念关山编剧采访",
-      "onboard_time": 1703424095,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 106983,
@@ -395,14 +403,6 @@
       "category": "数码,财经"
     },
     {
-      "raw_hot": 92097,
-      "num": 92097,
-      "word": "多邻国油炸小绿鸟",
-      "onboard_time": 1703447654,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 87613,
       "num": 87613,
       "word": "考研答案",
@@ -411,8 +411,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 58357,
-      "num": 22918,
+      "raw_hot": 75801,
+      "num": 28747,
       "word": "女子花60多万找闺蜜代购5只包是假的",
       "onboard_time": 1703453054,
       "rank": 31,
@@ -443,28 +443,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38309,
-      "num": 682338,
-      "word": "这些科技硬实力彰显中国底气",
-      "onboard_time": 1703424278,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 40237,
+      "num": 40237,
+      "word": "坚持三天你会越减越舒服",
+      "onboard_time": 1703444954,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
-      "raw_hot": 37040,
-      "num": 28926,
+      "raw_hot": 39614,
+      "num": 39614,
       "word": "你还过平安夜吗",
       "onboard_time": 1703450533,
       "rank": 22,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33165,
-      "num": 31492,
-      "word": "坚持三天你会越减越舒服",
-      "onboard_time": 1703444954,
-      "rank": 49,
-      "category": "运动健身"
+      "raw_hot": 38309,
+      "num": 682338,
+      "word": "这些科技硬实力彰显中国底气",
+      "onboard_time": 1703424278,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23974,
@@ -475,20 +475,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21065,
-      "num": 21065,
+      "raw_hot": 21911,
+      "num": 21911,
       "word": "我和我妈的审美统一了",
       "onboard_time": 1703443036,
       "rank": 40,
       "category": "电影"
     },
     {
-      "raw_hot": 17588,
-      "num": 19598,
+      "raw_hot": 20006,
+      "num": 20006,
       "word": "2023年最后一周",
       "onboard_time": 1703452515,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16667,
+      "num": 19526,
+      "word": "在大爷身上看到了热爱不分年龄",
+      "onboard_time": 1703455515,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 15223,
@@ -497,14 +505,6 @@
       "onboard_time": 1703449574,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13564,
-      "num": 19526,
-      "word": "在大爷身上看到了热爱不分年龄",
-      "onboard_time": 1703455515,
-      "rank": 48,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
