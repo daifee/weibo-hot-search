@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703449054330,
+  "endTime": 1703450062443,
   "band_list": [
     {
       "raw_hot": 1541011,
@@ -443,6 +443,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 28451,
+      "num": 28451,
+      "word": "多邻国油炸小绿鸟",
+      "onboard_time": 1703447654,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 23974,
       "num": 29508,
       "word": "狼队vs切尔西",
@@ -459,12 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20314,
-      "num": 20314,
-      "word": "多邻国油炸小绿鸟",
-      "onboard_time": 1703447654,
-      "rank": 25,
-      "category": "教育"
+      "raw_hot": 12790,
+      "num": 12790,
+      "word": "真爱至上",
+      "onboard_time": 1703449574,
+      "rank": 42,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

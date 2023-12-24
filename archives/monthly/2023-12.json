@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703449054330,
+  "endTime": 1703450062443,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -65667,6 +65667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28451,
+      "num": 28451,
+      "word": "多邻国油炸小绿鸟",
+      "onboard_time": 1703447654,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 28413,
       "num": 1525792,
       "word": "硬核国之重器彰显中国实力",
@@ -66169,14 +66177,6 @@
       "onboard_time": 1701456855,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20314,
-      "num": 20314,
-      "word": "多邻国油炸小绿鸟",
-      "onboard_time": 1703447654,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 20198,
@@ -66689,6 +66689,14 @@
       "onboard_time": 1701366738,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 12790,
+      "num": 12790,
+      "word": "真爱至上",
+      "onboard_time": 1703449574,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 12620,
