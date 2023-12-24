@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703410468044,
+  "endTime": 1703413049551,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -43,7 +43,15 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2060939,
+      "raw_hot": 2330660,
+      "num": 521295,
+      "word": "陶勇",
+      "onboard_time": 1703409815,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2105829,
       "num": 2060939,
       "word": "周扬青家的圣诞树",
       "onboard_time": 1703408318,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 914980,
-      "num": 466525,
+      "num": 492800,
       "word": "疑似肖战理发路透流出",
       "onboard_time": 1703400752,
       "rank": 11,
@@ -217,6 +225,14 @@
       "onboard_time": 1703387430,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 830512,
+      "num": 830512,
+      "word": "408 看不懂中文了",
+      "onboard_time": 1703409995,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 813029,
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676602,
+      "num": 676602,
+      "word": "法综 我自己编笑了",
+      "onboard_time": 1703410117,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 661551,
       "num": 661551,
       "word": "甜馨 差不多十几年没看见嗯哼了",
@@ -361,14 +385,6 @@
       "onboard_time": 1703400510,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 607680,
-      "num": 607680,
-      "word": "法综 我自己编笑了",
-      "onboard_time": 1703410117,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 596978,
@@ -459,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531365,
+      "num": 531365,
+      "word": "偶遇王嘉尔边伯贤",
+      "onboard_time": 1703410235,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525869,
       "num": 525869,
       "word": "何炅问今天是杨紫作品回顾展吗",
@@ -497,14 +521,6 @@
       "onboard_time": 1703376026,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 498205,
-      "num": 498205,
-      "word": "陶勇",
-      "onboard_time": 1703409815,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 495795,
@@ -563,6 +579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 450210,
+      "num": 450210,
+      "word": "AG对战狼队",
+      "onboard_time": 1703400752,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 449882,
       "num": 449882,
       "word": "seventeen粉丝曼谷失联",
@@ -577,14 +601,6 @@
       "onboard_time": 1703379087,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436625,
-      "num": 436625,
-      "word": "408 看不懂中文了",
-      "onboard_time": 1703409995,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 420109,
@@ -649,6 +665,14 @@
       "onboard_time": 1703394336,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 378152,
+      "num": 1720677,
+      "word": "男孩患白血病妈妈面对意外钱财拾金不昧",
+      "onboard_time": 1703408797,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 378031,
@@ -731,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330253,
+      "num": 330253,
+      "word": "6男子吃火锅一氧化碳中毒3死3伤",
+      "onboard_time": 1703409635,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323256,
       "num": 323256,
       "word": "井胧 得亏没签公司",
@@ -793,6 +825,14 @@
       "onboard_time": 1703333555,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 299088,
+      "num": 299088,
+      "word": "狼队来到赛点",
+      "onboard_time": 1703412097,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 295395,
@@ -915,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256395,
+      "num": 1187190,
+      "word": "中国蓝盔正式结束10年维和使命",
+      "onboard_time": 1703411193,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 254253,
       "num": 254253,
       "word": "解清帅回应直播带货",
@@ -952,6 +1000,14 @@
       "word": "考研数学二答案",
       "onboard_time": 1703391934,
       "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 238944,
+      "num": 525564,
+      "word": "高考和考研结束走出考场的心情图鉴",
+      "onboard_time": 1703412274,
+      "rank": 10,
       "category": "教育"
     },
     {
@@ -995,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229102,
-      "num": 229102,
-      "word": "男孩患白血病妈妈面对意外钱财拾金不昧",
-      "onboard_time": 1703408797,
-      "rank": 29,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 228689,
       "num": 228689,
       "word": "张靓颖被虫子吓出E6",
@@ -1027,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224705,
+      "num": 224705,
+      "word": "羽绒内胆 绝配内搭",
+      "onboard_time": 1703410358,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 221971,
       "num": 221971,
       "word": "张碧晨 出去闯一闯的女孩",
@@ -1049,14 +1105,6 @@
       "onboard_time": 1703341060,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 217570,
-      "num": 217570,
-      "word": "6男子吃火锅一氧化碳中毒3死3伤",
-      "onboard_time": 1703409635,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215493,
@@ -1139,20 +1187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200435,
+      "num": 200435,
+      "word": "平安夜文案",
+      "onboard_time": 1703405853,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200405,
       "num": 200405,
       "word": "vivo称对印度的拘捕行动深表震惊",
       "onboard_time": 1703383894,
       "rank": 26,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 199025,
-      "num": 199025,
-      "word": "偶遇王嘉尔边伯贤",
-      "onboard_time": 1703410235,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 197527,
@@ -1163,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196108,
-      "num": 196108,
-      "word": "平安夜文案",
-      "onboard_time": 1703405853,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195184,
       "num": 195184,
       "word": "时代少年团湖南跨晚宣传片",
@@ -1179,20 +1219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191878,
-      "num": 191878,
-      "word": "AG对战狼队",
-      "onboard_time": 1703400752,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 190741,
       "num": 190741,
       "word": "王源镜头里的鸟",
       "onboard_time": 1703401531,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187483,
+      "num": 226575,
+      "word": "还是孩子的哥哥为妹妹撑起一片天",
+      "onboard_time": 1703410835,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186561,
@@ -1233,6 +1273,14 @@
       "onboard_time": 1703384011,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181475,
+      "num": 181475,
+      "word": "底妆教程",
+      "onboard_time": 1703412634,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 177453,
@@ -1387,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157078,
+      "num": 157078,
+      "word": "考研政治答案",
+      "onboard_time": 1703412995,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 156373,
       "num": 156373,
       "word": "马保国闪电五连鞭重出江湖",
@@ -1443,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150895,
+      "num": 150895,
+      "word": "雷鸣把十一班卖掉",
+      "onboard_time": 1703412995,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150579,
       "num": 150579,
       "word": "Jennie圣诞翻唱",
@@ -1473,6 +1537,14 @@
       "onboard_time": 1703392714,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146024,
+      "num": 146024,
+      "word": "李耕耘关水龙头",
+      "onboard_time": 1703411795,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 145826,
@@ -1537,14 +1609,6 @@
       "onboard_time": 1703403572,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140056,
-      "num": 140056,
-      "word": "羽绒内胆 绝配内搭",
-      "onboard_time": 1703410358,
-      "rank": 46,
-      "category": "时尚"
     },
     {
       "raw_hot": 139320,
@@ -2201,6 +2265,14 @@
       "onboard_time": 1703356097,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25747,
+      "num": 499676,
+      "word": "蛋仔游园会",
+      "onboard_time": 1703412031,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 25237,
