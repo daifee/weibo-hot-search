@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703427310255,
+  "endTime": 1703428465091,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -65,6 +65,14 @@
       "onboard_time": 1703418092,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 2056447,
+      "num": 2056447,
+      "word": "厌蠢症",
+      "onboard_time": 1703426018,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1941666,
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1126531,
+      "num": 1126531,
+      "word": "主持人大赛冠军",
+      "onboard_time": 1703426199,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1093325,
       "num": 1093325,
       "word": "微波炉热了十分钟的馒头",
@@ -259,8 +275,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1002235,
-      "num": 918637,
+      "raw_hot": 1006782,
+      "num": 1006782,
       "word": "追星 谈恋爱",
       "onboard_time": 1703424218,
       "rank": 19,
@@ -289,14 +305,6 @@
       "onboard_time": 1703400752,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 910910,
-      "num": 910910,
-      "word": "主持人大赛冠军",
-      "onboard_time": 1703426199,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 898309,
@@ -329,6 +337,14 @@
       "onboard_time": 1703409995,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 815250,
+      "num": 815250,
+      "word": "上海迪士尼发布通知",
+      "onboard_time": 1703427219,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 813029,
@@ -377,14 +393,6 @@
       "onboard_time": 1703424700,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 767418,
-      "num": 767418,
-      "word": "厌蠢症",
-      "onboard_time": 1703426018,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 761654,
@@ -667,8 +675,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 520367,
-      "num": 520367,
+      "raw_hot": 522646,
+      "num": 522646,
       "word": "王鹤棣抱花",
       "onboard_time": 1703425538,
       "rank": 19,
@@ -1043,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312386,
+      "num": 312386,
+      "word": "小米汽车",
+      "onboard_time": 1703427277,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 309962,
       "num": 228181,
       "word": "别朱令广陵散",
@@ -1099,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297563,
+      "num": 297563,
+      "word": "山东鲁能乒超男团夺冠",
+      "onboard_time": 1703426860,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295395,
       "num": 295395,
       "word": "考研英语",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1703386293,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285224,
+      "num": 285224,
+      "word": "StrayKids 换乘恋爱",
+      "onboard_time": 1703427337,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 284181,
@@ -1195,6 +1227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 273302,
+      "num": 273302,
+      "word": "考研结束收到了暗恋对象的表白",
+      "onboard_time": 1703424577,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269715,
       "num": 269715,
       "word": "雷鸣把十一班卖掉",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1703382509,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268555,
-      "num": 268555,
-      "word": "考研结束收到了暗恋对象的表白",
-      "onboard_time": 1703424577,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 267006,
@@ -1315,14 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251524,
-      "num": 264276,
-      "word": "山东鲁能乒超男团夺冠",
-      "onboard_time": 1703426860,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250357,
       "num": 250357,
       "word": "很想很想你大结局",
@@ -1369,6 +1393,22 @@
       "onboard_time": 1703384133,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241289,
+      "num": 241289,
+      "word": "肥不知不觉间就减了",
+      "onboard_time": 1703422297,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 240761,
+      "num": 240761,
+      "word": "今年考研压力都没这个司机大",
+      "onboard_time": 1703428062,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 240582,
@@ -1467,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230665,
+      "num": 207350,
+      "word": "我们的歌第五季收官",
+      "onboard_time": 1703426435,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228689,
       "num": 228689,
       "word": "张靓颖被虫子吓出E6",
@@ -1481,14 +1529,6 @@
       "onboard_time": 1703402551,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226248,
-      "num": 226248,
-      "word": "肥不知不觉间就减了",
-      "onboard_time": 1703422297,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 225623,
@@ -1539,6 +1579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214689,
+      "num": 214689,
+      "word": "袁励岑3比1周启豪",
+      "onboard_time": 1703428236,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214177,
       "num": 214177,
       "word": "长津湖战役胜利",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1703422357,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209140,
+      "num": 209140,
+      "word": "考研人桌子上有啥都不奇怪",
+      "onboard_time": 1703427219,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 207915,
@@ -1659,12 +1715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196297,
-      "num": 196297,
-      "word": "上海迪士尼发布通知",
-      "onboard_time": 1703427219,
-      "rank": 43,
-      "category": "旅游,社会新闻"
+      "raw_hot": 195236,
+      "num": 195236,
+      "word": "一场酣畅淋漓的变阵",
+      "onboard_time": 1703428000,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 195184,
@@ -1675,12 +1731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193650,
-      "num": 193650,
-      "word": "考研人桌子上有啥都不奇怪",
-      "onboard_time": 1703427219,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 194093,
+      "num": 194093,
+      "word": "锵姐一下瞪大了眼",
+      "onboard_time": 1703428118,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 193607,
@@ -1785,14 +1841,6 @@
       "onboard_time": 1703416294,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179150,
-      "num": 179150,
-      "word": "小米汽车",
-      "onboard_time": 1703427277,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 178581,
@@ -2249,14 +2297,6 @@
       "onboard_time": 1703375425,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136606,
-      "num": 203992,
-      "word": "我们的歌第五季收官",
-      "onboard_time": 1703426435,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 135571,
@@ -2739,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95498,
+      "num": 1127185,
+      "word": "这些科技硬实力彰显中国底气",
+      "onboard_time": 1703424278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94923,
       "num": 94923,
       "word": "黄景瑜柔术棕带",
@@ -2785,14 +2833,6 @@
       "onboard_time": 1703371276,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79214,
-      "num": 966954,
-      "word": "这些科技硬实力彰显中国底气",
-      "onboard_time": 1703424278,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77908,
