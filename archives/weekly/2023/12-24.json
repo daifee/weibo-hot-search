@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703439265144,
+  "endTime": 1703442049335,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 427195,
-      "num": 214757,
+      "num": 286506,
       "word": "原来明星是这么去颈纹的",
       "onboard_time": 1703434651,
       "rank": 30,
@@ -3131,6 +3131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42875,
+      "num": 42875,
+      "word": "饶雪漫的选角眼光",
+      "onboard_time": 1703439621,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41777,
       "num": 41777,
       "word": "魔卡少女樱20年前的画风",
@@ -3209,6 +3217,14 @@
       "onboard_time": 1703334155,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23974,
+      "num": 29508,
+      "word": "狼队vs切尔西",
+      "onboard_time": 1703441957,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 23754,
