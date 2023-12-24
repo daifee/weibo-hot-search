@@ -1,0 +1,410 @@
+{
+  "runTime": 1703414025430,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1446445,
+        "num": 1446445,
+        "word": "滦州地震",
+        "onboard_time": 1703408678,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480791,
+        "num": 1335598,
+        "word": "男孩患白血病妈妈面对意外钱财拾金不昧",
+        "onboard_time": 1703408797,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 42759,
+        "num": 1329291,
+        "word": "在声音中回首一起走过的2023",
+        "onboard_time": 1703402370,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325589,
+        "num": 1325589,
+        "word": "考研结束",
+        "onboard_time": 1703407894,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 434699,
+        "num": 1041851,
+        "word": "高考和考研结束走出考场的心情图鉴",
+        "onboard_time": 1703412274,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 808463,
+        "num": 808463,
+        "word": "408 看不懂中文了",
+        "onboard_time": 1703409995,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250202,
+        "num": 796526,
+        "word": "中国蓝盔正式结束10年维和使命",
+        "onboard_time": 1703411193,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 785027,
+        "num": 785027,
+        "word": "考研弃考",
+        "onboard_time": 1703406332,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 636216,
+        "num": 636216,
+        "word": "法综 我自己编笑了",
+        "onboard_time": 1703410117,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 475879,
+        "num": 475879,
+        "word": "AG晋级世冠KIC四强",
+        "onboard_time": 1703413713,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2690175,
+        "num": 475520,
+        "word": "陶勇",
+        "onboard_time": 1703409815,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2212514,
+        "num": 473658,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1118930,
+        "num": 472075,
+        "word": "朱令讣告",
+        "onboard_time": 1703396252,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705778,
+        "num": 469829,
+        "word": "张馨予皮炎",
+        "onboard_time": 1703403932,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44045,
+        "num": 468549,
+        "word": "蛋仔游园会",
+        "onboard_time": 1703412031,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 461240,
+        "num": 466812,
+        "word": "偶遇王嘉尔边伯贤",
+        "onboard_time": 1703410235,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466385,
+        "num": 466385,
+        "word": "AG战胜狼队",
+        "onboard_time": 1703413713,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 419300,
+        "num": 419300,
+        "word": "疑似肖战理发路透流出",
+        "onboard_time": 1703400752,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417555,
+        "num": 417555,
+        "word": "女网红因甘肃地震不当言论被禁言30天",
+        "onboard_time": 1703407052,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387541,
+        "num": 387541,
+        "word": "金智媛睡六个小时被说瞌睡虫",
+        "onboard_time": 1703406693,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365788,
+        "num": 365788,
+        "word": "数一才是最猛的1",
+        "onboard_time": 1703390733,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 355176,
+        "num": 355176,
+        "word": "男朋友考研 我好无助",
+        "onboard_time": 1703400872,
+        "rank": 21,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 354030,
+        "num": 354030,
+        "word": "Last Christmas",
+        "onboard_time": 1703407654,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347215,
+        "num": 347215,
+        "word": "AG对战狼队",
+        "onboard_time": 1703400752,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 338690,
+        "num": 338690,
+        "word": "黄奕七套礼服全穿不上求助网友",
+        "onboard_time": 1703406332,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 326872,
+        "num": 326872,
+        "word": "王曼昱3比2孙颖莎",
+        "onboard_time": 1703408678,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302476,
+        "num": 302476,
+        "word": "6男子吃火锅一氧化碳中毒3死3伤",
+        "onboard_time": 1703409635,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269715,
+        "num": 269715,
+        "word": "雷鸣把十一班卖掉",
+        "onboard_time": 1703412995,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262708,
+        "num": 262708,
+        "word": "一路生花",
+        "onboard_time": 1703408256,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261973,
+        "num": 261973,
+        "word": "进入25考研时代",
+        "onboard_time": 1703408916,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 667818,
+        "num": 261793,
+        "word": "民众手持白菊悼念朱令",
+        "onboard_time": 1703413354,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258258,
+        "num": 258258,
+        "word": "底妆教程",
+        "onboard_time": 1703412634,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 245688,
+        "num": 245688,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245086,
+        "num": 245086,
+        "word": "15岁孙子重度抑郁爷奶掏所有钱帮治",
+        "onboard_time": 1703412936,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236728,
+        "num": 236728,
+        "word": "平安夜文案",
+        "onboard_time": 1703405853,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225289,
+        "num": 225289,
+        "word": "医生提醒这2种香蕉尽量别碰",
+        "onboard_time": 1703405794,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215715,
+        "num": 215715,
+        "word": "天杀的396 你敢耍老子",
+        "onboard_time": 1703413896,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210488,
+        "num": 210488,
+        "word": "易烊千玺的饺子",
+        "onboard_time": 1703399551,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207915,
+        "num": 207915,
+        "word": "张小斐一开口就有年味了",
+        "onboard_time": 1703413233,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203935,
+        "num": 203935,
+        "word": "SM真的什么都保存起来了",
+        "onboard_time": 1703400510,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199548,
+        "num": 199548,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195150,
+        "num": 195150,
+        "word": "狼队来到赛点",
+        "onboard_time": 1703412097,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193607,
+        "num": 193607,
+        "word": "王曼昱3比0蒯曼",
+        "onboard_time": 1703413354,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193303,
+        "num": 193303,
+        "word": "乒超决赛",
+        "onboard_time": 1703413655,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190135,
+        "num": 190135,
+        "word": "羽绒内胆 绝配内搭",
+        "onboard_time": 1703410358,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 188984,
+        "num": 188984,
+        "word": "女生全程跟踪小偷怼脸拍摄",
+        "onboard_time": 1703413417,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174284,
+        "num": 174284,
+        "word": "考研 像做了场大梦",
+        "onboard_time": 1703413713,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165166,
+        "num": 165166,
+        "word": "333选择题",
+        "onboard_time": 1703413832,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157458,
+        "num": 157458,
+        "word": "考研政治答案",
+        "onboard_time": 1703412995,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153436,
+        "num": 153436,
+        "word": "内耗的人身上都有一个问题",
+        "onboard_time": 1703400872,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设宜居宜业和美乡村#"
+    }
+  }
+}
