@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703416447754,
+  "endTime": 1703417639940,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1625031,
+      "num": 1625031,
+      "word": "男子仅有10万元买下191万的房子后悔",
+      "onboard_time": 1703415337,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1574803,
       "num": 558842,
       "word": "铊中毒曾3次出现在高校",
@@ -131,12 +139,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1253165,
-      "num": 1253165,
+      "raw_hot": 1392201,
+      "num": 1392201,
       "word": "15岁孙子重度抑郁爷奶掏所有钱帮治",
       "onboard_time": 1703412936,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1258199,
+      "num": 1258199,
+      "word": "赵露思cos英雄联盟格温",
+      "onboard_time": 1703415935,
+      "rank": 3,
+      "category": "作品衍生,电竞"
     },
     {
       "raw_hot": 1214349,
@@ -187,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1022536,
+      "num": 390412,
+      "word": "平安夜",
+      "onboard_time": 1703379330,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1021481,
       "num": 1021481,
       "word": "考研西综太难了",
@@ -201,14 +225,6 @@
       "onboard_time": 1703394336,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 975341,
-      "num": 975341,
-      "word": "赵露思cos英雄联盟格温",
-      "onboard_time": 1703415935,
-      "rank": 3,
-      "category": "作品衍生,电竞"
     },
     {
       "raw_hot": 931610,
@@ -291,22 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 782272,
-      "num": 397916,
-      "word": "男子仅有10万元买下191万的房子后悔",
-      "onboard_time": 1703415337,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770148,
-      "num": 387391,
-      "word": "平安夜",
-      "onboard_time": 1703379330,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 761654,
       "num": 761654,
       "word": "脱轨 恐怖片",
@@ -369,6 +369,14 @@
       "onboard_time": 1703410117,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 673350,
+      "num": 382850,
+      "word": "赵露思晒和王安宇合照",
+      "onboard_time": 1703416894,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 667818,
@@ -843,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319908,
+      "num": 319908,
+      "word": "黄绮珊 没有孩子是我的人生遗憾",
+      "onboard_time": 1703417314,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316564,
       "num": 316564,
       "word": "医生提醒这2种香蕉尽量别碰",
@@ -857,6 +873,14 @@
       "onboard_time": 1703402671,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309962,
+      "num": 228181,
+      "word": "别朱令广陵散",
+      "onboard_time": 1703416235,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307972,
@@ -897,6 +921,14 @@
       "onboard_time": 1703320291,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 295250,
+      "num": 295250,
+      "word": "王曼昱乒超MVP",
+      "onboard_time": 1703416118,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 290856,
@@ -947,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280382,
-      "num": 228181,
-      "word": "别朱令广陵散",
-      "onboard_time": 1703416235,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276773,
       "num": 276773,
       "word": "洗牙是智商税吗",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1703382509,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267006,
+      "num": 267006,
+      "word": "王一博跨年邀请函",
+      "onboard_time": 1703417075,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 266214,
@@ -1235,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211926,
-      "num": 211926,
-      "word": "王曼昱乒超MVP",
-      "onboard_time": 1703416118,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211671,
       "num": 211671,
       "word": "英语一 最猛的1",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1703413655,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192116,
+      "num": 192116,
+      "word": "黄子弘凡 小雪人",
+      "onboard_time": 1703416775,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 190741,
@@ -1611,12 +1643,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156937,
+      "num": 156937,
+      "word": "如何正确预防抑郁症",
+      "onboard_time": 1703417493,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156373,
       "num": 156373,
       "word": "马保国闪电五连鞭重出江湖",
       "onboard_time": 1703382691,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 155632,
+      "num": 155632,
+      "word": "陈楚生 纯爱战神应声倒地",
+      "onboard_time": 1703417314,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 154072,
@@ -1737,6 +1785,14 @@
       "onboard_time": 1703414557,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142030,
+      "num": 142030,
+      "word": "十几岁和二十几岁的考场",
+      "onboard_time": 1703416657,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 141966,
@@ -2339,6 +2395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66950,
+      "num": 375730,
+      "word": "天猫过节三件套成为新流行",
+      "onboard_time": 1703415635,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65642,
       "num": 72132,
       "word": "EXOL的冬日聚会",
@@ -2371,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51120,
+      "num": 295633,
+      "word": "来蛋仔岛迎接2024",
+      "onboard_time": 1703416534,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47304,
       "num": 47304,
       "word": "石家庄大剧院音乐会观众高喊退票",
@@ -2393,14 +2465,6 @@
       "onboard_time": 1703412031,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 42804,
-      "num": 375730,
-      "word": "天猫过节三件套成为新流行",
-      "onboard_time": 1703415635,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41777,
@@ -2443,6 +2507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26572,
+      "num": 1268295,
+      "word": "硬核国之重器彰显中国实力",
+      "onboard_time": 1703402071,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26226,
       "num": 26459,
       "word": "王星越的手指在万鹏腰上打拍",
@@ -2465,14 +2537,6 @@
       "onboard_time": 1703334155,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20877,
-      "num": 656433,
-      "word": "硬核国之重器彰显中国实力",
-      "onboard_time": 1703402071,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19603,
