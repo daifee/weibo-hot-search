@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703417639940,
+  "endTime": 1703421012187,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -57,6 +57,14 @@
       "onboard_time": 1703408318,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2045786,
+      "num": 2045786,
+      "word": "苹果 折叠手机",
+      "onboard_time": 1703418092,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 1941666,
@@ -123,6 +131,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1520226,
+      "num": 1520226,
+      "word": "霍启刚回应向甘肃捐款7000万",
+      "onboard_time": 1703418755,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1518732,
       "num": 1518732,
       "word": "考完333 我心死了",
@@ -177,6 +193,14 @@
       "onboard_time": 1703379990,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1127864,
+      "num": 1127864,
+      "word": "黄绮珊 没有孩子是我的人生遗憾",
+      "onboard_time": 1703417314,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1093325,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 673350,
-      "num": 382850,
+      "num": 468387,
       "word": "赵露思晒和王安宇合照",
       "onboard_time": 1703416894,
       "rank": 12,
@@ -699,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413605,
+      "num": 272163,
+      "word": "公主请 韩国版",
+      "onboard_time": 1703419357,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 411972,
       "num": 287441,
       "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
@@ -745,6 +777,14 @@
       "onboard_time": 1703394336,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385732,
+      "num": 385732,
+      "word": "2023国产烂片爆笑盘点",
+      "onboard_time": 1703418934,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 378031,
@@ -851,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319908,
-      "num": 319908,
-      "word": "黄绮珊 没有孩子是我的人生遗憾",
-      "onboard_time": 1703417314,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316564,
       "num": 316564,
       "word": "医生提醒这2种香蕉尽量别碰",
@@ -921,6 +953,14 @@
       "onboard_time": 1703320291,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 295329,
+      "num": 295329,
+      "word": "张万森 下林北星了",
+      "onboard_time": 1703419835,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 295250,
@@ -1059,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260607,
+      "num": 260607,
+      "word": "鸣龙少年",
+      "onboard_time": 1703348732,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258258,
       "num": 258258,
       "word": "底妆教程",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1703391934,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 239167,
+      "num": 239167,
+      "word": "周也檀健次合照",
+      "onboard_time": 1703419835,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 237479,
@@ -1339,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200759,
+      "num": 200759,
+      "word": "主持人大赛总决赛",
+      "onboard_time": 1703420315,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200405,
       "num": 200405,
       "word": "vivo称对印度的拘捕行动深表震惊",
@@ -1467,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178581,
+      "num": 178581,
+      "word": "陈楚生 纯爱战神应声倒地",
+      "onboard_time": 1703417314,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177453,
       "num": 177453,
       "word": "鸣龙少年剧粉疯了也是正常",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1703337160,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171184,
+      "num": 171184,
+      "word": "南方小土豆勇闯哈尔滨",
+      "onboard_time": 1703419655,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 168313,
@@ -1659,12 +1739,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 155632,
-      "num": 155632,
-      "word": "陈楚生 纯爱战神应声倒地",
-      "onboard_time": 1703417314,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 156289,
+      "num": 156289,
+      "word": "陈雨菲 羽舞一",
+      "onboard_time": 1703418454,
+      "rank": 35,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 154072,
@@ -1681,6 +1761,14 @@
       "onboard_time": 1703390975,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 153195,
+      "num": 153195,
+      "word": "你的新衣服是用来讨好自己的",
+      "onboard_time": 1703418334,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 152864,
@@ -1817,6 +1905,14 @@
       "onboard_time": 1703375544,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140452,
+      "num": 140452,
+      "word": "赵冬苓转发张巍相关采访",
+      "onboard_time": 1703420735,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 140380,
@@ -1987,6 +2083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129170,
+      "num": 129170,
+      "word": "朱正廷和平精英直播",
+      "onboard_time": 1703420014,
+      "rank": 44,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 129158,
       "num": 129158,
       "word": "奔跑吧",
@@ -2129,6 +2233,14 @@
       "onboard_time": 1703330318,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117869,
+      "num": 117869,
+      "word": "压缩毛鲸",
+      "onboard_time": 1703417973,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 117596,
@@ -2387,14 +2499,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 73576,
-      "num": 73576,
-      "word": "鸣龙少年",
-      "onboard_time": 1703348732,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66950,
       "num": 375730,
       "word": "天猫过节三件套成为新流行",
@@ -2507,8 +2611,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26572,
-      "num": 1268295,
+      "raw_hot": 28413,
+      "num": 1525792,
       "word": "硬核国之重器彰显中国实力",
       "onboard_time": 1703402071,
       "rank": 2,

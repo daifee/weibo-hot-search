@@ -1,0 +1,410 @@
+{
+  "runTime": 1703421012187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2045786,
+        "num": 2045786,
+        "word": "苹果 折叠手机",
+        "onboard_time": 1703418092,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1538144,
+        "num": 1538144,
+        "word": "男子仅有10万元买下191万的房子后悔",
+        "onboard_time": 1703415337,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28413,
+        "num": 1525792,
+        "word": "硬核国之重器彰显中国实力",
+        "onboard_time": 1703402071,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1520226,
+        "num": 1520226,
+        "word": "霍启刚回应向甘肃捐款7000万",
+        "onboard_time": 1703418755,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1127864,
+        "num": 1127864,
+        "word": "黄绮珊 没有孩子是我的人生遗憾",
+        "onboard_time": 1703417314,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468387,
+        "num": 468387,
+        "word": "赵露思晒和王安宇合照",
+        "onboard_time": 1703416894,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385732,
+        "num": 385732,
+        "word": "2023国产烂片爆笑盘点",
+        "onboard_time": 1703418934,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370182,
+        "num": 370182,
+        "word": "考研结束",
+        "onboard_time": 1703407894,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 321909,
+        "num": 321909,
+        "word": "滦州地震",
+        "onboard_time": 1703408678,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295329,
+        "num": 295329,
+        "word": "张万森 下林北星了",
+        "onboard_time": 1703419835,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1681840,
+        "num": 294937,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679508,
+        "num": 286690,
+        "word": "15岁孙子重度抑郁爷奶掏所有钱帮治",
+        "onboard_time": 1703412936,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643931,
+        "num": 283097,
+        "word": "平安夜",
+        "onboard_time": 1703415575,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629363,
+        "num": 279121,
+        "word": "赵露思cos英雄联盟格温",
+        "onboard_time": 1703415935,
+        "rank": 13,
+        "category": "作品衍生,电竞"
+      },
+      {
+        "raw_hot": 576132,
+        "num": 274410,
+        "word": "考研弃考",
+        "onboard_time": 1703406332,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 413605,
+        "num": 272163,
+        "word": "公主请 韩国版",
+        "onboard_time": 1703419357,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309644,
+        "num": 266263,
+        "word": "张馨予皮炎",
+        "onboard_time": 1703403932,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297534,
+        "num": 263944,
+        "word": "肖战 拍戏外没有其他安排",
+        "onboard_time": 1703405431,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260607,
+        "num": 260607,
+        "word": "鸣龙少年",
+        "onboard_time": 1703419235,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250492,
+        "num": 250492,
+        "word": "男孩患白血病妈妈面对意外钱财拾金不昧",
+        "onboard_time": 1703408797,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 239167,
+        "num": 239167,
+        "word": "周也檀健次合照",
+        "onboard_time": 1703419835,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234386,
+        "num": 234386,
+        "word": "黄奕七套礼服全穿不上求助网友",
+        "onboard_time": 1703406332,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229001,
+        "num": 229001,
+        "word": "平安夜文案",
+        "onboard_time": 1703405853,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206273,
+        "num": 206273,
+        "word": "法综 我自己编笑了",
+        "onboard_time": 1703410117,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203078,
+        "num": 203078,
+        "word": "医生提醒这2种香蕉尽量别碰",
+        "onboard_time": 1703405794,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200759,
+        "num": 200759,
+        "word": "主持人大赛总决赛",
+        "onboard_time": 1703420315,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200181,
+        "num": 200181,
+        "word": "金智媛睡六个小时被说瞌睡虫",
+        "onboard_time": 1703406693,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196948,
+        "num": 196948,
+        "word": "王一博跨年邀请函",
+        "onboard_time": 1703417075,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178581,
+        "num": 178581,
+        "word": "陈楚生 纯爱战神应声倒地",
+        "onboard_time": 1703417314,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171184,
+        "num": 171184,
+        "word": "南方小土豆勇闯哈尔滨",
+        "onboard_time": 1703419655,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 370131,
+        "num": 170331,
+        "word": "民众手持白菊悼念朱令",
+        "onboard_time": 1703413354,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273067,
+        "num": 170097,
+        "word": "别朱令广陵散",
+        "onboard_time": 1703416235,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169391,
+        "num": 169391,
+        "word": "考研 像做了场大梦",
+        "onboard_time": 1703413713,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165159,
+        "num": 165159,
+        "word": "408 看不懂中文了",
+        "onboard_time": 1703409995,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162727,
+        "num": 162727,
+        "word": "6男子吃火锅一氧化碳中毒3死3伤",
+        "onboard_time": 1703409635,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156289,
+        "num": 156289,
+        "word": "陈雨菲 羽舞一",
+        "onboard_time": 1703418454,
+        "rank": 35,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 156010,
+        "num": 156010,
+        "word": "Last Christmas",
+        "onboard_time": 1703407654,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153195,
+        "num": 153195,
+        "word": "你的新衣服是用来讨好自己的",
+        "onboard_time": 1703418334,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148714,
+        "num": 148714,
+        "word": "女网红因甘肃地震不当言论被禁言30天",
+        "onboard_time": 1703407052,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140452,
+        "num": 140452,
+        "word": "赵冬苓转发张巍相关采访",
+        "onboard_time": 1703420735,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137387,
+        "num": 137387,
+        "word": "王曼昱乒超MVP",
+        "onboard_time": 1703416118,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136158,
+        "num": 136158,
+        "word": "一路生花",
+        "onboard_time": 1703408256,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133639,
+        "num": 133639,
+        "word": "易烊千玺的饺子",
+        "onboard_time": 1703399551,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130497,
+        "num": 130497,
+        "word": "乒超男团决赛",
+        "onboard_time": 1703416294,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129170,
+        "num": 129170,
+        "word": "朱正廷和平精英直播",
+        "onboard_time": 1703420014,
+        "rank": 44,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 126536,
+        "num": 126536,
+        "word": "SM真的什么都保存起来了",
+        "onboard_time": 1703400510,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123052,
+        "num": 123052,
+        "word": "中国蓝盔正式结束10年维和使命",
+        "onboard_time": 1703411193,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122064,
+        "num": 122064,
+        "word": "偶遇王嘉尔边伯贤",
+        "onboard_time": 1703410235,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118074,
+        "num": 118074,
+        "word": "天杀的396 你敢耍老子",
+        "onboard_time": 1703413896,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117869,
+        "num": 117869,
+        "word": "压缩毛鲸",
+        "onboard_time": 1703417973,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}
