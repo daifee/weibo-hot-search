@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703434863562,
+  "endTime": 1703435789144,
   "band_list": [
     {
       "raw_hot": 1541011,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473965,
+      "num": 155190,
+      "word": "以为是个黑头结果开了刀",
+      "onboard_time": 1703434052,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 464363,
       "num": 464363,
       "word": "男子仅有10万元买下191万的房子后悔",
@@ -99,8 +107,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 344309,
-      "num": 344309,
+      "raw_hot": 354458,
+      "num": 158641,
+      "word": "原来明星是这么去颈纹的",
+      "onboard_time": 1703434651,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 351075,
+      "num": 351075,
       "word": "2023国产烂片爆笑盘点",
       "onboard_time": 1703418934,
       "rank": 8,
@@ -123,8 +139,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305012,
+      "num": 305012,
+      "word": "原来福宝这么大只了啊",
+      "onboard_time": 1703430036,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303979,
-      "num": 189180,
+      "num": 250057,
       "word": "今年考研压力都没这个司机大",
       "onboard_time": 1703428062,
       "rank": 20,
@@ -139,40 +163,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286596,
-      "num": 286596,
-      "word": "原来福宝这么大只了啊",
-      "onboard_time": 1703430036,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282648,
-      "num": 186651,
+      "num": 229586,
       "word": "原来分享欲不是喜欢",
       "onboard_time": 1703428721,
       "rank": 21,
       "category": "情感"
     },
     {
-      "raw_hot": 265214,
-      "num": 158641,
-      "word": "原来明星是这么去颈纹的",
-      "onboard_time": 1703434651,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 263108,
-      "num": 155190,
-      "word": "以为是个黑头结果开了刀",
-      "onboard_time": 1703434052,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 246805,
-      "num": 246805,
+      "raw_hot": 268090,
+      "num": 268090,
       "word": "陈都灵跳舞 学霸的自信",
       "onboard_time": 1703421515,
       "rank": 18,
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207748,
+      "num": 251474,
+      "word": "赵露思cos英雄联盟格温",
+      "onboard_time": 1703415935,
+      "rank": 22,
+      "category": "作品衍生,电竞"
+    },
+    {
       "raw_hot": 193086,
       "num": 193086,
       "word": "小米汽车",
       "onboard_time": 1703427277,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 182595,
-      "num": 182595,
-      "word": "赵露思cos英雄联盟格温",
-      "onboard_time": 1703415935,
-      "rank": 22,
-      "category": "作品衍生,电竞"
     },
     {
       "raw_hot": 173415,
@@ -395,8 +395,16 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 87613,
+      "num": 87613,
+      "word": "考研答案",
+      "onboard_time": 1703422774,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 38309,
-      "num": 652551,
+      "num": 682338,
       "word": "这些科技硬实力彰显中国底气",
       "onboard_time": 1703424278,
       "rank": 2,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#5G赋能生态漓江#"
+    },
+    {
+      "word": "#发展生物科技生物产业#"
     }
   ]
 }
