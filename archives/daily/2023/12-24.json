@@ -1,7 +1,23 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703388865517,
+  "endTime": 1703391637059,
   "band_list": [
+    {
+      "raw_hot": 4782348,
+      "num": 4782348,
+      "word": "数一才是最猛的1",
+      "onboard_time": 1703390733,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 4111859,
+      "num": 4111859,
+      "word": "考研数学",
+      "onboard_time": 1703387914,
+      "rank": 1,
+      "category": "教育"
+    },
     {
       "raw_hot": 1796415,
       "num": 1796415,
@@ -9,6 +25,14 @@
       "onboard_time": 1703385153,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1671674,
+      "num": 1671674,
+      "word": "数三 选拔活体计算器",
+      "onboard_time": 1703390497,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1574803,
@@ -19,16 +43,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1558655,
-      "num": 1558655,
-      "word": "考研数学",
-      "onboard_time": 1703387914,
-      "rank": 1,
+      "raw_hot": 1214349,
+      "num": 1214349,
+      "word": "数二难不难",
+      "onboard_time": 1703388453,
+      "rank": 23,
       "category": "教育"
     },
     {
       "raw_hot": 1174871,
-      "num": 412118,
+      "num": 456524,
       "word": "结婚的婚 左边是女右边是昏",
       "onboard_time": 1703372599,
       "rank": 4,
@@ -59,12 +83,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1042055,
+      "num": 1042055,
+      "word": "396 写不完",
+      "onboard_time": 1703389776,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1010699,
+      "num": 1010699,
+      "word": "考研西综太难了",
+      "onboard_time": 1703390017,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 841661,
+      "num": 841661,
+      "word": "可可西里网红狼铁饭碗被端",
+      "onboard_time": 1703387430,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 810710,
       "num": 810710,
       "word": "郭晶晶霍启刚 捐款7000万",
       "onboard_time": 1703336015,
       "rank": 3,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 802705,
+      "num": 718286,
+      "word": "考研数学 张宇",
+      "onboard_time": 1703388211,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 785351,
@@ -107,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 722105,
+      "num": 722105,
+      "word": "许晴好会走啊",
+      "onboard_time": 1703389297,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 661551,
       "num": 661551,
       "word": "甜馨 差不多十几年没看见嗯哼了",
@@ -131,8 +195,24 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 602082,
+      "num": 602082,
+      "word": "考完333 我心死了",
+      "onboard_time": 1703391334,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 596978,
+      "num": 596978,
+      "word": "法硕 汗流浃背",
+      "onboard_time": 1703388934,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 592659,
-      "num": 352811,
+      "num": 428441,
       "word": "考研这事儿大学生终于卷不动了",
       "onboard_time": 1703379330,
       "rank": 26,
@@ -144,6 +224,14 @@
       "word": "长津湖",
       "onboard_time": 1703383894,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567224,
+      "num": 567224,
+      "word": "河南多地宣布部分单位停止供暖",
+      "onboard_time": 1703387430,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -211,6 +299,14 @@
       "category": "艺人,情感"
     },
     {
+      "raw_hot": 450830,
+      "num": 450830,
+      "word": "396经济类联考",
+      "onboard_time": 1703389595,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 447491,
       "num": 447491,
       "word": "吉林发现被东北虎咬死的东北豹",
@@ -219,8 +315,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420109,
+      "num": 420109,
+      "word": "宋江戴花",
+      "onboard_time": 1703387430,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 411972,
-      "num": 256429,
+      "num": 287441,
       "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
       "onboard_time": 1703377406,
       "rank": 21,
@@ -235,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410350,
-      "num": 333764,
-      "word": "可可西里网红狼铁饭碗被端",
-      "onboard_time": 1703387430,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 409554,
+      "num": 409554,
+      "word": "内娱歌手全网粉丝量",
+      "onboard_time": 1703386590,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 404779,
@@ -259,14 +363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 392568,
-      "num": 392568,
-      "word": "宋江戴花",
-      "onboard_time": 1703387430,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 378031,
       "num": 378031,
       "word": "程潇多骂爱看",
@@ -281,6 +377,14 @@
       "onboard_time": 1703337278,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 353799,
+      "num": 353799,
+      "word": "游客称迪士尼设备故障白排队4小时",
+      "onboard_time": 1703387194,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349864,
@@ -323,28 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 316357,
-      "num": 316357,
-      "word": "河南多地宣布部分单位停止供暖",
-      "onboard_time": 1703387430,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305552,
       "num": 305552,
       "word": "农村老式火锅",
       "onboard_time": 1703375544,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 302639,
-      "num": 302639,
-      "word": "游客称迪士尼设备故障白排队4小时",
-      "onboard_time": 1703387194,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299259,
@@ -387,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286659,
+      "num": 286659,
+      "word": "94年女生北漂5年半攒钱超100万",
+      "onboard_time": 1703386293,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284181,
       "num": 256081,
       "word": "叫大东北是有原因的",
@@ -401,14 +497,6 @@
       "onboard_time": 1703382509,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267167,
-      "num": 267167,
-      "word": "考研数学 张宇",
-      "onboard_time": 1703388211,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 266214,
@@ -427,12 +515,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 263933,
-      "num": 263933,
-      "word": "内娱歌手全网粉丝量",
-      "onboard_time": 1703386590,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 264845,
+      "num": 264845,
+      "word": "你的幸福有点吵到室友了",
+      "onboard_time": 1703388453,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 257966,
@@ -440,14 +528,6 @@
       "word": "女子感叹给闺蜜当伴娘后绝交了",
       "onboard_time": 1703375065,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254047,
-      "num": 254047,
-      "word": "94年女生北漂5年半攒钱超100万",
-      "onboard_time": 1703386293,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -459,16 +539,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 247496,
-      "num": 247496,
-      "word": "数二难不难",
-      "onboard_time": 1703388453,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 244984,
-      "num": 244984,
+      "raw_hot": 247705,
+      "num": 247705,
       "word": "考研",
       "onboard_time": 1703386353,
       "rank": 15,
@@ -489,14 +561,6 @@
       "onboard_time": 1703346692,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 227344,
-      "num": 191451,
-      "word": "你的幸福有点吵到室友了",
-      "onboard_time": 1703388453,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 225623,
@@ -552,6 +616,22 @@
       "word": "内娱活人不如顶级素人",
       "onboard_time": 1703336793,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195034,
+      "num": 195034,
+      "word": "光与夜之恋",
+      "onboard_time": 1703391274,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 186964,
+      "num": 186964,
+      "word": "中岛美嘉眼含热泪告别女大",
+      "onboard_time": 1703390257,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -691,6 +771,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153353,
+      "num": 153353,
+      "word": "活力28三老头回应直播热度下降",
+      "onboard_time": 1703390975,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 151823,
+      "num": 151823,
+      "word": "李现跳舞",
+      "onboard_time": 1703388755,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150422,
       "num": 150422,
       "word": "石雷鹏 本人一篇都没有押中",
@@ -787,20 +883,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 133196,
+      "num": 133196,
+      "word": "猫猫起床第一件事",
+      "onboard_time": 1703388571,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 132302,
+      "num": 132302,
+      "word": "Jennie圣诞翻唱",
+      "onboard_time": 1703378306,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131567,
       "num": 131567,
       "word": "运动减肥如何不伤膝盖",
       "onboard_time": 1703380410,
       "rank": 35,
       "category": "运动健身,社会新闻"
-    },
-    {
-      "raw_hot": 129272,
-      "num": 129272,
-      "word": "猫猫起床第一件事",
-      "onboard_time": 1703388571,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 129158,
@@ -819,12 +923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129098,
+      "num": 129098,
+      "word": "陈鑫昊说王一博是自己的目标",
+      "onboard_time": 1703388994,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128639,
       "num": 128639,
       "word": "小兰这段三观太正了",
       "onboard_time": 1703328935,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 128137,
+      "num": 2859868,
+      "word": "不管多晚我们都会让每个帐篷有盏亮灯",
+      "onboard_time": 1703380170,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127304,
@@ -851,14 +971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122212,
-      "num": 122212,
-      "word": "不管多晚我们都会让每个帐篷有盏亮灯",
-      "onboard_time": 1703380170,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121959,
       "num": 121959,
       "word": "他们把你也搁家里啦",
@@ -867,28 +979,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121594,
-      "num": 121594,
-      "word": "李现跳舞",
-      "onboard_time": 1703388755,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120834,
       "num": 120834,
       "word": "尊湃通讯",
       "onboard_time": 1703385153,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 120059,
-      "num": 120059,
-      "word": "Jennie圣诞翻唱",
-      "onboard_time": 1703378306,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 118809,
@@ -1244,6 +1340,9 @@
     },
     {
       "word": "#加快建设宜居宜业和美乡村#"
+    },
+    {
+      "word": "#发展生物科技生物产业#"
     }
   ]
 }

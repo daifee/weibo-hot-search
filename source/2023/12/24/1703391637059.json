@@ -1,0 +1,410 @@
+{
+  "runTime": 1703391637059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4782348,
+        "num": 4782348,
+        "word": "数一才是最猛的1",
+        "onboard_time": 1703390733,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 4111859,
+        "num": 4111859,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128137,
+        "num": 2859868,
+        "word": "不管多晚我们都会让每个帐篷有盏亮灯",
+        "onboard_time": 1703380170,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1671674,
+        "num": 1671674,
+        "word": "数三 选拔活体计算器",
+        "onboard_time": 1703390497,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1422704,
+        "num": 1422704,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1214349,
+        "num": 1214349,
+        "word": "数二难不难",
+        "onboard_time": 1703388453,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1042055,
+        "num": 1042055,
+        "word": "396 写不完",
+        "onboard_time": 1703389776,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1010699,
+        "num": 1010699,
+        "word": "考研西综太难了",
+        "onboard_time": 1703390017,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 841661,
+        "num": 841661,
+        "word": "可可西里网红狼铁饭碗被端",
+        "onboard_time": 1703387430,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 722105,
+        "num": 722105,
+        "word": "许晴好会走啊",
+        "onboard_time": 1703389297,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 802705,
+        "num": 718286,
+        "word": "考研数学 张宇",
+        "onboard_time": 1703388211,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 627276,
+        "num": 627276,
+        "word": "宁远舟死在了他最想活的那一年",
+        "onboard_time": 1703379990,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 602082,
+        "num": 602082,
+        "word": "考完333 我心死了",
+        "onboard_time": 1703391334,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 596978,
+        "num": 596978,
+        "word": "法硕 汗流浃背",
+        "onboard_time": 1703388934,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 567224,
+        "num": 567224,
+        "word": "河南多地宣布部分单位停止供暖",
+        "onboard_time": 1703387430,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523646,
+        "num": 523646,
+        "word": "刘亦菲 开屏",
+        "onboard_time": 1703384793,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499602,
+        "num": 499602,
+        "word": "教育局通报老师被指打伤学生",
+        "onboard_time": 1703386952,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 456524,
+        "num": 456524,
+        "word": "结婚的婚 左边是女右边是昏",
+        "onboard_time": 1703372599,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 450830,
+        "num": 450830,
+        "word": "396经济类联考",
+        "onboard_time": 1703389595,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 435010,
+        "num": 435010,
+        "word": "长期戴口罩容易肺结节吗",
+        "onboard_time": 1703378067,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494398,
+        "num": 428441,
+        "word": "考研这事儿大学生终于卷不动了",
+        "onboard_time": 1703379330,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 420109,
+        "num": 420109,
+        "word": "宋江戴花",
+        "onboard_time": 1703387430,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409554,
+        "num": 409554,
+        "word": "内娱歌手全网粉丝量",
+        "onboard_time": 1703386590,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353799,
+        "num": 353799,
+        "word": "游客称迪士尼设备故障白排队4小时",
+        "onboard_time": 1703387194,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287441,
+        "num": 287441,
+        "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
+        "onboard_time": 1703377406,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286659,
+        "num": 286659,
+        "word": "94年女生北漂5年半攒钱超100万",
+        "onboard_time": 1703386293,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264845,
+        "num": 264845,
+        "word": "你的幸福有点吵到室友了",
+        "onboard_time": 1703388453,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247705,
+        "num": 247705,
+        "word": "考研",
+        "onboard_time": 1703386353,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243527,
+        "num": 243527,
+        "word": "长津湖",
+        "onboard_time": 1703383894,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193674,
+        "num": 211389,
+        "word": "2024年是个什么年",
+        "onboard_time": 1703384011,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202506,
+        "num": 202506,
+        "word": "胡歌 捡垃圾是没有办法的办法",
+        "onboard_time": 1703380771,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195034,
+        "num": 195034,
+        "word": "光与夜之恋",
+        "onboard_time": 1703391274,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186964,
+        "num": 186964,
+        "word": "中岛美嘉眼含热泪告别女大",
+        "onboard_time": 1703390257,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169006,
+        "num": 169006,
+        "word": "脱轨 恐怖片",
+        "onboard_time": 1703345795,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165537,
+        "num": 165537,
+        "word": "女生回应被老鼠咬手后反咬老鼠头",
+        "onboard_time": 1703383112,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165330,
+        "num": 165330,
+        "word": "张碧晨向演唱会现场观众道歉",
+        "onboard_time": 1703379388,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163942,
+        "num": 163942,
+        "word": "甜馨 差不多十几年没看见嗯哼了",
+        "onboard_time": 1703336138,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155228,
+        "num": 155228,
+        "word": "平安夜",
+        "onboard_time": 1703379330,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153353,
+        "num": 153353,
+        "word": "活力28三老头回应直播热度下降",
+        "onboard_time": 1703390975,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151823,
+        "num": 151823,
+        "word": "李现跳舞",
+        "onboard_time": 1703388755,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147580,
+        "num": 147580,
+        "word": "吉林发现被东北虎咬死的东北豹",
+        "onboard_time": 1703379087,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140551,
+        "num": 140551,
+        "word": "甜馨 我们白着呢",
+        "onboard_time": 1703382509,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133196,
+        "num": 133196,
+        "word": "猫猫起床第一件事",
+        "onboard_time": 1703388571,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132966,
+        "num": 132966,
+        "word": "你一共经历了7434次精神内耗",
+        "onboard_time": 1703376026,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132302,
+        "num": 132302,
+        "word": "Jennie圣诞翻唱",
+        "onboard_time": 1703378306,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129098,
+        "num": 129098,
+        "word": "陈鑫昊说王一博是自己的目标",
+        "onboard_time": 1703388994,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129007,
+        "num": 129007,
+        "word": "詹姆斯质疑名人堂评选规则",
+        "onboard_time": 1703387312,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127035,
+        "num": 127035,
+        "word": "一念关山艾特错任如意角色号",
+        "onboard_time": 1703384133,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125996,
+        "num": 125996,
+        "word": "上海警方侦破侵犯芯片技术商业秘密案",
+        "onboard_time": 1703384731,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117729,
+        "num": 117729,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}
