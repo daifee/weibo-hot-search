@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703394988974,
+  "endTime": 1703396057081,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -219,6 +219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 595285,
+      "num": 595285,
+      "word": "中国女子在日本滑雪被雪掩埋不幸去世",
+      "onboard_time": 1703394336,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592659,
       "num": 428441,
       "word": "考研这事儿大学生终于卷不动了",
@@ -233,6 +241,14 @@
       "onboard_time": 1703383894,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575065,
+      "num": 575065,
+      "word": "管泽元余霜婚礼",
+      "onboard_time": 1703393917,
+      "rank": 9,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 567224,
@@ -283,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507283,
+      "num": 507283,
+      "word": "女子酒店凌晨被男店员刷开房门",
+      "onboard_time": 1703393617,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505390,
       "num": 505390,
       "word": "某些大女主文现状",
@@ -321,14 +345,6 @@
       "onboard_time": 1703379087,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439811,
-      "num": 439811,
-      "word": "管泽元余霜婚礼",
-      "onboard_time": 1703393917,
-      "rank": 9,
-      "category": "电竞,网红"
     },
     {
       "raw_hot": 420109,
@@ -379,12 +395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 383096,
-      "num": 383096,
-      "word": "女子酒店凌晨被男店员刷开房门",
-      "onboard_time": 1703393617,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 392387,
+      "num": 392387,
+      "word": "陈学冬终于有剧要播了",
+      "onboard_time": 1703394336,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 378031,
@@ -449,6 +465,14 @@
       "onboard_time": 1703343516,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321006,
+      "num": 321006,
+      "word": "浙江宣传发文考研不能成为二次高考",
+      "onboard_time": 1703394214,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307972,
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283500,
+      "num": 152685,
+      "word": "乾隆的十只猫",
+      "onboard_time": 1703395294,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274191,
       "num": 274191,
       "word": "余霜伴娘团",
@@ -571,8 +603,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249928,
-      "num": 249928,
+      "raw_hot": 254253,
+      "num": 254253,
       "word": "解清帅回应直播带货",
       "onboard_time": 1703391634,
       "rank": 31,
@@ -593,14 +625,6 @@
       "onboard_time": 1703386353,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 241574,
-      "num": 241574,
-      "word": "陈学冬终于有剧要播了",
-      "onboard_time": 1703394336,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 241404,
@@ -633,14 +657,6 @@
       "onboard_time": 1703346692,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 233168,
-      "num": 233168,
-      "word": "中国女子在日本滑雪被雪掩埋不幸去世",
-      "onboard_time": 1703394336,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225623,
@@ -689,14 +705,6 @@
       "onboard_time": 1703356339,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 204836,
-      "num": 204836,
-      "word": "浙江宣传发文考研不能成为二次高考",
-      "onboard_time": 1703394214,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200405,
@@ -867,6 +875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152336,
+      "num": 152336,
+      "word": "陈楚生 潮起又潮落",
+      "onboard_time": 1703395117,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151823,
       "num": 151823,
       "word": "李现跳舞",
@@ -891,6 +907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149752,
+      "num": 149752,
+      "word": "导盲犬 明白是因为自己才被拒绝",
+      "onboard_time": 1703395475,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148977,
       "num": 148977,
       "word": "公司食堂将员工自带碗筷丢地上",
@@ -899,12 +923,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148777,
+      "num": 148777,
+      "word": "中国人过的平安夜是祖国的胜利夜",
+      "onboard_time": 1703394814,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147242,
       "num": 147242,
       "word": "有的人表面是王子背地是癫公",
       "onboard_time": 1703392714,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146456,
+      "num": 146456,
+      "word": "温太医张晓龙真的拜高人学切脉学中医",
+      "onboard_time": 1703395893,
+      "rank": 37,
+      "category": "健康医疗,剧集"
     },
     {
       "raw_hot": 145826,
@@ -987,6 +1027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135523,
+      "num": 135523,
+      "word": "六公主带头宠于适",
+      "onboard_time": 1703395893,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134887,
       "num": 134887,
       "word": "妈妈给女儿做的减肥晚餐",
@@ -1017,6 +1065,22 @@
       "onboard_time": 1703380410,
       "rank": 35,
       "category": "运动健身,社会新闻"
+    },
+    {
+      "raw_hot": 131226,
+      "num": 131226,
+      "word": "教育学考研",
+      "onboard_time": 1703395830,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 130864,
+      "num": 130864,
+      "word": "辛芷蕾 普通话选手误入沪语赛道",
+      "onboard_time": 1703395893,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 129158,
@@ -1073,14 +1137,6 @@
       "onboard_time": 1703381729,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125079,
-      "num": 125079,
-      "word": "中国人过的平安夜是祖国的胜利夜",
-      "onboard_time": 1703394814,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123138,

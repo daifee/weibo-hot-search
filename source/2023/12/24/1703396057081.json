@@ -1,0 +1,410 @@
+{
+  "runTime": 1703396057081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 731262,
+        "num": 1165871,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 703440,
+        "num": 703440,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109482,
+        "num": 654541,
+        "word": "不管多晚我们都会让每个帐篷有盏亮灯",
+        "onboard_time": 1703380170,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626119,
+        "num": 626119,
+        "word": "考完333 我心死了",
+        "onboard_time": 1703391334,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 4947484,
+        "num": 624473,
+        "word": "数一才是最猛的1",
+        "onboard_time": 1703390733,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 595285,
+        "num": 595285,
+        "word": "中国女子在日本滑雪被雪掩埋不幸去世",
+        "onboard_time": 1703394336,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575065,
+        "num": 575065,
+        "word": "管泽元余霜婚礼",
+        "onboard_time": 1703393917,
+        "rank": 6,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 507283,
+        "num": 507283,
+        "word": "女子酒店凌晨被男店员刷开房门",
+        "onboard_time": 1703393617,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484862,
+        "num": 484862,
+        "word": "许晴好会走啊",
+        "onboard_time": 1703389297,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 435311,
+        "num": 435311,
+        "word": "数三 选拔活体计算器",
+        "onboard_time": 1703390497,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 409335,
+        "num": 409335,
+        "word": "可可西里网红狼铁饭碗被端",
+        "onboard_time": 1703387430,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 392387,
+        "num": 392387,
+        "word": "陈学冬终于有剧要播了",
+        "onboard_time": 1703394336,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363191,
+        "num": 363191,
+        "word": "刘亦菲 开屏",
+        "onboard_time": 1703384793,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342319,
+        "num": 342319,
+        "word": "结婚的婚 左边是女右边是昏",
+        "onboard_time": 1703372599,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339573,
+        "num": 339573,
+        "word": "考研西综太难了",
+        "onboard_time": 1703390017,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 321006,
+        "num": 321006,
+        "word": "浙江宣传发文考研不能成为二次高考",
+        "onboard_time": 1703394214,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273518,
+        "num": 273518,
+        "word": "长期戴口罩容易肺结节吗",
+        "onboard_time": 1703378067,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266783,
+        "num": 266783,
+        "word": "宁远舟死在了他最想活的那一年",
+        "onboard_time": 1703379990,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254253,
+        "num": 254253,
+        "word": "解清帅回应直播带货",
+        "onboard_time": 1703391634,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243825,
+        "num": 243825,
+        "word": "396 写不完",
+        "onboard_time": 1703389776,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1601970,
+        "num": 240966,
+        "word": "曾参与朱令铊中毒抢救诊治医生发声",
+        "onboard_time": 1703391813,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225475,
+        "num": 225475,
+        "word": "宋江戴花",
+        "onboard_time": 1703387430,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224028,
+        "num": 224028,
+        "word": "肖战2024新年祝福视频",
+        "onboard_time": 1703394093,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214396,
+        "num": 214396,
+        "word": "余霜伴娘团",
+        "onboard_time": 1703392298,
+        "rank": 23,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 212012,
+        "num": 212012,
+        "word": "河南多地宣布部分单位停止供暖",
+        "onboard_time": 1703387430,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196710,
+        "num": 196710,
+        "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
+        "onboard_time": 1703377406,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182352,
+        "num": 182352,
+        "word": "数二难不难",
+        "onboard_time": 1703388453,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176843,
+        "num": 176843,
+        "word": "你的幸福有点吵到室友了",
+        "onboard_time": 1703388453,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167417,
+        "num": 167417,
+        "word": "内娱歌手全网粉丝量",
+        "onboard_time": 1703386590,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153010,
+        "num": 153010,
+        "word": "2024年是个什么年",
+        "onboard_time": 1703384011,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283500,
+        "num": 152685,
+        "word": "乾隆的十只猫",
+        "onboard_time": 1703395294,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166231,
+        "num": 152683,
+        "word": "94年女生北漂5年半攒钱超100万",
+        "onboard_time": 1703386293,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152336,
+        "num": 152336,
+        "word": "陈楚生 潮起又潮落",
+        "onboard_time": 1703395117,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151894,
+        "num": 151894,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149752,
+        "num": 149752,
+        "word": "导盲犬 明白是因为自己才被拒绝",
+        "onboard_time": 1703395475,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148777,
+        "num": 148777,
+        "word": "中国人过的平安夜是祖国的胜利夜",
+        "onboard_time": 1703394814,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146722,
+        "num": 146722,
+        "word": "平安夜",
+        "onboard_time": 1703379330,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146456,
+        "num": 146456,
+        "word": "温太医张晓龙真的拜高人学切脉学中医",
+        "onboard_time": 1703395893,
+        "rank": 37,
+        "category": "健康医疗,剧集"
+      },
+      {
+        "raw_hot": 146433,
+        "num": 146433,
+        "word": "法硕 汗流浃背",
+        "onboard_time": 1703388934,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141531,
+        "num": 141531,
+        "word": "数十名考研学子马路边冒着寒风紧张冲刺",
+        "onboard_time": 1703394517,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135523,
+        "num": 135523,
+        "word": "六公主带头宠于适",
+        "onboard_time": 1703395893,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132817,
+        "num": 132817,
+        "word": "游客称迪士尼设备故障白排队4小时",
+        "onboard_time": 1703387194,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132362,
+        "num": 132362,
+        "word": "教育局通报老师被指打伤学生",
+        "onboard_time": 1703386952,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 131226,
+        "num": 131226,
+        "word": "教育学考研",
+        "onboard_time": 1703395830,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130864,
+        "num": 130864,
+        "word": "辛芷蕾 普通话选手误入沪语赛道",
+        "onboard_time": 1703395893,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128659,
+        "num": 128659,
+        "word": "女生回应被老鼠咬手后反咬老鼠头",
+        "onboard_time": 1703383112,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126870,
+        "num": 126870,
+        "word": "考研数学 张宇",
+        "onboard_time": 1703388211,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124932,
+        "num": 124932,
+        "word": "胡歌 捡垃圾是没有办法的办法",
+        "onboard_time": 1703380771,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122692,
+        "num": 122692,
+        "word": "詹姆斯40分",
+        "onboard_time": 1703393737,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98576,
+        "num": 119210,
+        "word": "光与夜之恋",
+        "onboard_time": 1703391274,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}
