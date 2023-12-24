@@ -1,0 +1,410 @@
+{
+  "runTime": 1703388865517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796415,
+        "num": 1796415,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1558655,
+        "num": 1558655,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42080,
+        "num": 1067019,
+        "word": "遇见2023的中国",
+        "onboard_time": 1703386110,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875949,
+        "num": 875949,
+        "word": "宁远舟死在了他最想活的那一年",
+        "onboard_time": 1703379990,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702704,
+        "num": 702704,
+        "word": "刘亦菲 开屏",
+        "onboard_time": 1703384793,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639497,
+        "num": 639497,
+        "word": "教育局通报老师被指打伤学生",
+        "onboard_time": 1703386952,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 533044,
+        "num": 533044,
+        "word": "长期戴口罩容易肺结节吗",
+        "onboard_time": 1703378067,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498800,
+        "num": 498800,
+        "word": "长津湖",
+        "onboard_time": 1703383894,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392568,
+        "num": 392568,
+        "word": "宋江戴花",
+        "onboard_time": 1703387430,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361588,
+        "num": 361588,
+        "word": "胡歌 捡垃圾是没有办法的办法",
+        "onboard_time": 1703380771,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590657,
+        "num": 343337,
+        "word": "结婚的婚 左边是女右边是昏",
+        "onboard_time": 1703372599,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410350,
+        "num": 333764,
+        "word": "可可西里网红狼铁饭碗被端",
+        "onboard_time": 1703387430,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 549715,
+        "num": 331539,
+        "word": "考研这事儿大学生终于卷不动了",
+        "onboard_time": 1703379330,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 321884,
+        "num": 321884,
+        "word": "女生回应被老鼠咬手后反咬老鼠头",
+        "onboard_time": 1703383112,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317568,
+        "num": 317568,
+        "word": "乐华员工选贾乃亮当老板",
+        "onboard_time": 1703373920,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316357,
+        "num": 316357,
+        "word": "河南多地宣布部分单位停止供暖",
+        "onboard_time": 1703387430,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302639,
+        "num": 302639,
+        "word": "游客称迪士尼设备故障白排队4小时",
+        "onboard_time": 1703387194,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267167,
+        "num": 267167,
+        "word": "考研数学 张宇",
+        "onboard_time": 1703388211,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 263933,
+        "num": 263933,
+        "word": "内娱歌手全网粉丝量",
+        "onboard_time": 1703386590,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256493,
+        "num": 256493,
+        "word": "吉林发现被东北虎咬死的东北豹",
+        "onboard_time": 1703379087,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259096,
+        "num": 255418,
+        "word": "2024年是个什么年",
+        "onboard_time": 1703384011,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258051,
+        "num": 255205,
+        "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
+        "onboard_time": 1703377406,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254047,
+        "num": 254047,
+        "word": "94年女生北漂5年半攒钱超100万",
+        "onboard_time": 1703386293,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247496,
+        "num": 247496,
+        "word": "数二难不难",
+        "onboard_time": 1703388453,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237961,
+        "num": 237961,
+        "word": "甜馨 差不多十几年没看见嗯哼了",
+        "onboard_time": 1703336138,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222124,
+        "num": 222124,
+        "word": "考研",
+        "onboard_time": 1703386353,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220967,
+        "num": 220967,
+        "word": "微波炉热了十分钟的馒头",
+        "onboard_time": 1703341117,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213319,
+        "num": 213319,
+        "word": "一念关山艾特错任如意角色号",
+        "onboard_time": 1703384133,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204984,
+        "num": 204984,
+        "word": "张碧晨向演唱会现场观众道歉",
+        "onboard_time": 1703379388,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193136,
+        "num": 193136,
+        "word": "脱轨 恐怖片",
+        "onboard_time": 1703345795,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1068303,
+        "num": 191537,
+        "word": "铊中毒曾3次出现在高校",
+        "onboard_time": 1703376806,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 227344,
+        "num": 191451,
+        "word": "你的幸福有点吵到室友了",
+        "onboard_time": 1703388453,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185907,
+        "num": 185907,
+        "word": "湖人战胜雷霆",
+        "onboard_time": 1703388571,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185771,
+        "num": 185771,
+        "word": "你一共经历了7434次精神内耗",
+        "onboard_time": 1703376026,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183199,
+        "num": 183199,
+        "word": "詹姆斯质疑名人堂评选规则",
+        "onboard_time": 1703387312,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178871,
+        "num": 178871,
+        "word": "云南一农村5桌以上聚餐需报备",
+        "onboard_time": 1703381190,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164523,
+        "num": 164523,
+        "word": "平安夜",
+        "onboard_time": 1703379330,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160948,
+        "num": 160948,
+        "word": "上海警方侦破侵犯芯片技术商业秘密案",
+        "onboard_time": 1703384731,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157563,
+        "num": 157563,
+        "word": "周深拿到身份牌后的精神状态",
+        "onboard_time": 1703388032,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154256,
+        "num": 154256,
+        "word": "甜馨 我们白着呢",
+        "onboard_time": 1703382509,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141801,
+        "num": 141801,
+        "word": "某些大女主文现状",
+        "onboard_time": 1703346756,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132146,
+        "num": 132146,
+        "word": "洗澡后立刻睡觉可能影响睡眠",
+        "onboard_time": 1703377167,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129272,
+        "num": 129272,
+        "word": "猫猫起床第一件事",
+        "onboard_time": 1703388571,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 703381,
+        "num": 129272,
+        "word": "vivo两名高管被曝在印度遭逮捕",
+        "onboard_time": 1703384011,
+        "rank": 43,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 129134,
+        "num": 129134,
+        "word": "教练组看马龙一看一个不吱声",
+        "onboard_time": 1703388394,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121594,
+        "num": 121594,
+        "word": "李现跳舞",
+        "onboard_time": 1703388755,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118550,
+        "num": 118550,
+        "word": "擅长的科目在大学变成了水课",
+        "onboard_time": 1703375425,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116530,
+        "num": 116530,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115740,
+        "num": 115740,
+        "word": "苏醒徐志胜梅开二度向节目组道歉",
+        "onboard_time": 1703380050,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115330,
+        "num": 115330,
+        "word": "这个饺子包的是爱是坚强是家的幸福",
+        "onboard_time": 1703387853,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设宜居宜业和美乡村#"
+    }
+  }
+}

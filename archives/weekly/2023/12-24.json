@@ -1,10 +1,10 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703387894262,
+  "endTime": 1703388865517,
   "band_list": [
     {
-      "raw_hot": 1612493,
-      "num": 1612493,
+      "raw_hot": 1796415,
+      "num": 1796415,
       "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
       "onboard_time": 1703385153,
       "rank": 36,
@@ -17,6 +17,14 @@
       "onboard_time": 1703376806,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1558655,
+      "num": 1558655,
+      "word": "考研数学",
+      "onboard_time": 1703387914,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1174871,
@@ -115,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 639497,
+      "num": 639497,
+      "word": "教育局通报老师被指打伤学生",
+      "onboard_time": 1703386952,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 592659,
       "num": 352811,
       "word": "考研这事儿大学生终于卷不动了",
@@ -128,6 +144,14 @@
       "word": "长津湖",
       "onboard_time": 1703383894,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533044,
+      "num": 533044,
+      "word": "长期戴口罩容易肺结节吗",
+      "onboard_time": 1703378067,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -187,22 +211,6 @@
       "category": "艺人,情感"
     },
     {
-      "raw_hot": 490779,
-      "num": 478603,
-      "word": "长期戴口罩容易肺结节吗",
-      "onboard_time": 1703378067,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448402,
-      "num": 448402,
-      "word": "教育局通报老师被指打伤学生",
-      "onboard_time": 1703386952,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 447491,
       "num": 447491,
       "word": "吉林发现被东北虎咬死的东北豹",
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410350,
+      "num": 333764,
+      "word": "可可西里网红狼铁饭碗被端",
+      "onboard_time": 1703387430,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 404779,
       "num": 404779,
       "word": "云南一农村5桌以上聚餐需报备",
@@ -241,6 +257,14 @@
       "onboard_time": 1703335176,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 392568,
+      "num": 392568,
+      "word": "宋江戴花",
+      "onboard_time": 1703387430,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 378031,
@@ -299,12 +323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316357,
+      "num": 316357,
+      "word": "河南多地宣布部分单位停止供暖",
+      "onboard_time": 1703387430,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305552,
       "num": 305552,
       "word": "农村老式火锅",
       "onboard_time": 1703375544,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 302639,
+      "num": 302639,
+      "word": "游客称迪士尼设备故障白排队4小时",
+      "onboard_time": 1703387194,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299259,
@@ -363,8 +403,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267167,
+      "num": 267167,
+      "word": "考研数学 张宇",
+      "onboard_time": 1703388211,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 266214,
-      "num": 213941,
+      "num": 255418,
       "word": "2024年是个什么年",
       "onboard_time": 1703384011,
       "rank": 27,
@@ -379,12 +427,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 259533,
-      "num": 167207,
-      "word": "可可西里网红狼铁饭碗被端",
-      "onboard_time": 1703387430,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 263933,
+      "num": 263933,
+      "word": "内娱歌手全网粉丝量",
+      "onboard_time": 1703386590,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 257966,
@@ -392,6 +440,14 @@
       "word": "女子感叹给闺蜜当伴娘后绝交了",
       "onboard_time": 1703375065,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254047,
+      "num": 254047,
+      "word": "94年女生北漂5年半攒钱超100万",
+      "onboard_time": 1703386293,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -403,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247496,
+      "num": 247496,
+      "word": "数二难不难",
+      "onboard_time": 1703388453,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244984,
       "num": 244984,
       "word": "考研",
       "onboard_time": 1703386353,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 243032,
-      "num": 210434,
-      "word": "94年女生北漂5年半攒钱超100万",
-      "onboard_time": 1703386293,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241404,
@@ -433,6 +489,14 @@
       "onboard_time": 1703346692,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 227344,
+      "num": 191451,
+      "word": "你的幸福有点吵到室友了",
+      "onboard_time": 1703388453,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 225623,
@@ -475,28 +539,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209341,
-      "num": 209341,
-      "word": "内娱歌手全网粉丝量",
-      "onboard_time": 1703386590,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200405,
       "num": 200405,
       "word": "vivo称对印度的拘捕行动深表震惊",
       "onboard_time": 1703383894,
       "rank": 26,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 199159,
-      "num": 199159,
-      "word": "宋江戴花",
-      "onboard_time": 1703387430,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 197527,
@@ -513,6 +561,22 @@
       "onboard_time": 1703324979,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 185907,
+      "num": 185907,
+      "word": "湖人战胜雷霆",
+      "onboard_time": 1703388571,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183199,
+      "num": 183199,
+      "word": "詹姆斯质疑名人堂评选规则",
+      "onboard_time": 1703387312,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 182607,
@@ -579,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160217,
-      "num": 160217,
-      "word": "游客称迪士尼设备故障白排队4小时",
-      "onboard_time": 1703387194,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159299,
       "num": 159299,
       "word": "周深的痣一颗也不能少",
@@ -608,6 +664,14 @@
       "word": "何广智 功高震舅",
       "onboard_time": 1703382330,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157563,
+      "num": 157563,
+      "word": "周深拿到身份牌后的精神状态",
+      "onboard_time": 1703388032,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -633,14 +697,6 @@
       "onboard_time": 1703334214,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 150122,
-      "num": 150122,
-      "word": "詹姆斯质疑名人堂评选规则",
-      "onboard_time": 1703387312,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 148977,
@@ -731,14 +787,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 131928,
-      "num": 131928,
-      "word": "河南多地宣布部分单位停止供暖",
-      "onboard_time": 1703387430,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131567,
       "num": 131567,
       "word": "运动减肥如何不伤膝盖",
@@ -747,12 +795,28 @@
       "category": "运动健身,社会新闻"
     },
     {
+      "raw_hot": 129272,
+      "num": 129272,
+      "word": "猫猫起床第一件事",
+      "onboard_time": 1703388571,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129158,
       "num": 129158,
       "word": "奔跑吧",
       "onboard_time": 1703341474,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129134,
+      "num": 129134,
+      "word": "教练组看马龙一看一个不吱声",
+      "onboard_time": 1703388394,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 128639,
@@ -803,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121594,
+      "num": 121594,
+      "word": "李现跳舞",
+      "onboard_time": 1703388755,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120834,
       "num": 120834,
       "word": "尊湃通讯",
@@ -843,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115330,
+      "num": 115330,
+      "word": "这个饺子包的是爱是坚强是家的幸福",
+      "onboard_time": 1703387853,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113173,
       "num": 113173,
       "word": "山东鲁能vs深圳大学",
@@ -873,14 +953,6 @@
       "onboard_time": 1703387733,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108311,
-      "num": 108311,
-      "word": "这个饺子包的是爱是坚强是家的幸福",
-      "onboard_time": 1703387853,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107877,
@@ -1052,7 +1124,7 @@
     },
     {
       "raw_hot": 46707,
-      "num": 807721,
+      "num": 1067019,
       "word": "遇见2023的中国",
       "onboard_time": 1703386110,
       "rank": 2,
