@@ -1,0 +1,410 @@
+{
+  "runTime": 1703402137236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1486965,
+        "num": 1486965,
+        "word": "女子酒店凌晨被男店员刷开房门",
+        "onboard_time": 1703393617,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668442,
+        "num": 668442,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20877,
+        "num": 656433,
+        "word": "硬核国之重器彰显中国实力",
+        "onboard_time": 1703402071,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 648001,
+        "num": 648001,
+        "word": "东方甄选将停播两天",
+        "onboard_time": 1703399971,
+        "rank": 3,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 586159,
+        "num": 586159,
+        "word": "一念关山编剧回应争议",
+        "onboard_time": 1703398831,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2671886,
+        "num": 582676,
+        "word": "朱令讣告",
+        "onboard_time": 1703396252,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578759,
+        "num": 578759,
+        "word": "易烊千玺的饺子",
+        "onboard_time": 1703399551,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530957,
+        "num": 530957,
+        "word": "中国女子在日本滑雪被雪掩埋不幸去世",
+        "onboard_time": 1703394336,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71348,
+        "num": 503730,
+        "word": "不管多晚我们都会让每个帐篷有盏亮灯",
+        "onboard_time": 1703380170,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482759,
+        "num": 482759,
+        "word": "朱令再见",
+        "onboard_time": 1703399190,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883955,
+        "num": 465644,
+        "word": "男朋友考研 我好无助",
+        "onboard_time": 1703400872,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 876781,
+        "num": 460102,
+        "word": "疑似肖战理发路透流出",
+        "onboard_time": 1703400752,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613173,
+        "num": 432608,
+        "word": "SM真的什么都保存起来了",
+        "onboard_time": 1703400510,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612124,
+        "num": 415046,
+        "word": "数一才是最猛的1",
+        "onboard_time": 1703390733,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 394557,
+        "num": 394557,
+        "word": "用退休金贴补卖5角钱早餐的奶奶去世了",
+        "onboard_time": 1703400152,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386145,
+        "num": 386145,
+        "word": "赵昭仪手写8套花少穿搭",
+        "onboard_time": 1703399312,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113366,
+        "num": 385269,
+        "word": "蛋仔三丽鸥好碰友",
+        "onboard_time": 1703399613,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 384743,
+        "num": 384743,
+        "word": "刘亦菲 开屏",
+        "onboard_time": 1703384793,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315685,
+        "num": 315685,
+        "word": "温太医张晓龙真的拜高人学切脉学中医",
+        "onboard_time": 1703395893,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309378,
+        "num": 309378,
+        "word": "乾隆的十只猫",
+        "onboard_time": 1703395294,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269767,
+        "num": 269767,
+        "word": "陈学冬终于有剧要播了",
+        "onboard_time": 1703394336,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251850,
+        "num": 251850,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 242219,
+        "num": 242219,
+        "word": "结婚的婚 左边是女右边是昏",
+        "onboard_time": 1703372599,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241827,
+        "num": 241827,
+        "word": "浙江宣传发文考研不能成为二次高考",
+        "onboard_time": 1703394214,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226529,
+        "num": 226529,
+        "word": "管泽元余霜婚礼",
+        "onboard_time": 1703393917,
+        "rank": 24,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 224787,
+        "num": 224787,
+        "word": "迪士尼",
+        "onboard_time": 1703401234,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218382,
+        "num": 218382,
+        "word": "导盲犬 明白是因为自己才被拒绝",
+        "onboard_time": 1703395475,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210943,
+        "num": 210943,
+        "word": "seventeen粉丝曼谷失联",
+        "onboard_time": 1703401833,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208626,
+        "num": 208626,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1703396192,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207511,
+        "num": 207511,
+        "word": "内耗的人身上都有一个问题",
+        "onboard_time": 1703400872,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260893,
+        "num": 200369,
+        "word": "带猫去猫咖后的反应",
+        "onboard_time": 1703401412,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191878,
+        "num": 191878,
+        "word": "AG对战狼队",
+        "onboard_time": 1703400752,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190741,
+        "num": 190741,
+        "word": "王源镜头里的鸟",
+        "onboard_time": 1703401531,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190428,
+        "num": 190428,
+        "word": "可可西里网红狼铁饭碗被端",
+        "onboard_time": 1703387430,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181163,
+        "num": 181163,
+        "word": "照片被男朋友拍成了山顶洞人",
+        "onboard_time": 1703401352,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176822,
+        "num": 176822,
+        "word": "常华森 李同光再见",
+        "onboard_time": 1703401112,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168313,
+        "num": 168313,
+        "word": "李永乐 你一定可以考上研究生",
+        "onboard_time": 1703401531,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156578,
+        "num": 156578,
+        "word": "许晴好会走啊",
+        "onboard_time": 1703389297,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151839,
+        "num": 151839,
+        "word": "这节目单不像假的",
+        "onboard_time": 1703397574,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147544,
+        "num": 147544,
+        "word": "长期戴口罩容易肺结节吗",
+        "onboard_time": 1703378067,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139279,
+        "num": 139279,
+        "word": "解清帅回应直播带货",
+        "onboard_time": 1703391634,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137822,
+        "num": 137822,
+        "word": "中国人过的平安夜是祖国的胜利夜",
+        "onboard_time": 1703394814,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137371,
+        "num": 137371,
+        "word": "涿州洪灾绝境自救书商现状",
+        "onboard_time": 1703399190,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134889,
+        "num": 134889,
+        "word": "因为朋友寄的明信片委屈哭了",
+        "onboard_time": 1703400152,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133191,
+        "num": 133191,
+        "word": "94年女生北漂5年半攒钱超100万",
+        "onboard_time": 1703386293,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131917,
+        "num": 131917,
+        "word": "钱来圣诞树",
+        "onboard_time": 1703399252,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127246,
+        "num": 127246,
+        "word": "马哲重组EP",
+        "onboard_time": 1703399190,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126136,
+        "num": 126136,
+        "word": "考研西综太难了",
+        "onboard_time": 1703390017,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124252,
+        "num": 124252,
+        "word": "张碧晨 出去闯一闯的女孩",
+        "onboard_time": 1703397811,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63500,
+        "num": 122446,
+        "word": "9个女性相关冷知识",
+        "onboard_time": 1703398229,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}

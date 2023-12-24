@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703399655398,
+  "endTime": 1703402137236,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -139,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 883955,
+      "num": 465644,
+      "word": "男朋友考研 我好无助",
+      "onboard_time": 1703400872,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 876781,
+      "num": 460102,
+      "word": "疑似肖战理发路透流出",
+      "onboard_time": 1703400752,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 841661,
       "num": 841661,
       "word": "可可西里网红狼铁饭碗被端",
@@ -219,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648001,
+      "num": 648001,
+      "word": "东方甄选将停播两天",
+      "onboard_time": 1703399971,
+      "rank": 3,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 641858,
       "num": 641858,
       "word": "杨丞琳演唱会",
@@ -233,6 +257,14 @@
       "onboard_time": 1703386952,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 613173,
+      "num": 432608,
+      "word": "SM真的什么都保存起来了",
+      "onboard_time": 1703400510,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 596978,
@@ -259,12 +291,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 586159,
+      "num": 586159,
+      "word": "一念关山编剧回应争议",
+      "onboard_time": 1703398831,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 582388,
       "num": 582388,
       "word": "长津湖",
       "onboard_time": 1703383894,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578759,
+      "num": 578759,
+      "word": "易烊千玺的饺子",
+      "onboard_time": 1703399551,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 575065,
@@ -347,6 +395,14 @@
       "category": "艺人,情感"
     },
     {
+      "raw_hot": 482759,
+      "num": 482759,
+      "word": "朱令再见",
+      "onboard_time": 1703399190,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478656,
       "num": 478656,
       "word": "浙江宣传发文考研不能成为二次高考",
@@ -417,6 +473,14 @@
       "onboard_time": 1703335176,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 394557,
+      "num": 394557,
+      "word": "用退休金贴补卖5角钱早餐的奶奶去世了",
+      "onboard_time": 1703400152,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392387,
@@ -603,14 +667,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 269601,
-      "num": 269601,
-      "word": "一念关山编剧回应争议",
-      "onboard_time": 1703398831,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269214,
       "num": 269214,
       "word": "导盲犬 明白是因为自己才被拒绝",
@@ -648,6 +704,14 @@
       "word": "你的幸福有点吵到室友了",
       "onboard_time": 1703388453,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 260893,
+      "num": 200369,
+      "word": "带猫去猫咖后的反应",
+      "onboard_time": 1703401412,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -723,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224787,
+      "num": 224787,
+      "word": "迪士尼",
+      "onboard_time": 1703401234,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221971,
       "num": 221971,
       "word": "张碧晨 出去闯一闯的女孩",
@@ -771,6 +843,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210943,
+      "num": 210943,
+      "word": "seventeen粉丝曼谷失联",
+      "onboard_time": 1703401833,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207511,
+      "num": 207511,
+      "word": "内耗的人身上都有一个问题",
+      "onboard_time": 1703400872,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206054,
       "num": 206054,
       "word": "这节目单不像假的",
@@ -809,6 +897,22 @@
       "onboard_time": 1703336793,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191878,
+      "num": 191878,
+      "word": "AG对战狼队",
+      "onboard_time": 1703400752,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 190741,
+      "num": 190741,
+      "word": "王源镜头里的鸟",
+      "onboard_time": 1703401531,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 186561,
@@ -851,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181163,
+      "num": 181163,
+      "word": "照片被男朋友拍成了山顶洞人",
+      "onboard_time": 1703401352,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177453,
       "num": 177453,
       "word": "鸣龙少年剧粉疯了也是正常",
@@ -865,6 +977,14 @@
       "onboard_time": 1703384731,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176822,
+      "num": 176822,
+      "word": "常华森 李同光再见",
+      "onboard_time": 1703401112,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 174263,
@@ -889,6 +1009,14 @@
       "onboard_time": 1703337160,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168313,
+      "num": 168313,
+      "word": "李永乐 你一定可以考上研究生",
+      "onboard_time": 1703401531,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 168149,
@@ -937,14 +1065,6 @@
       "onboard_time": 1703376986,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158433,
-      "num": 158433,
-      "word": "朱令再见",
-      "onboard_time": 1703399190,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158387,
@@ -1131,6 +1251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134889,
+      "num": 134889,
+      "word": "因为朋友寄的明信片委屈哭了",
+      "onboard_time": 1703400152,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134887,
       "num": 134887,
       "word": "妈妈给女儿做的减肥晚餐",
@@ -1292,7 +1420,7 @@
     },
     {
       "raw_hot": 121338,
-      "num": 121338,
+      "num": 122446,
       "word": "9个女性相关冷知识",
       "onboard_time": 1703398229,
       "rank": 38,
@@ -1347,20 +1475,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 117080,
-      "num": 117080,
-      "word": "易烊千玺的饺子",
-      "onboard_time": 1703399551,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115330,
       "num": 115330,
       "word": "这个饺子包的是爱是坚强是家的幸福",
       "onboard_time": 1703387853,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113366,
+      "num": 385269,
+      "word": "蛋仔三丽鸥好碰友",
+      "onboard_time": 1703399613,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 113173,
@@ -1465,14 +1593,6 @@
       "onboard_time": 1703342858,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97234,
-      "num": 97234,
-      "word": "蛋仔三丽鸥好碰友",
-      "onboard_time": 1703399613,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 94923,
@@ -1657,6 +1777,14 @@
       "onboard_time": 1703334155,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20877,
+      "num": 656433,
+      "word": "硬核国之重器彰显中国实力",
+      "onboard_time": 1703402071,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19603,
