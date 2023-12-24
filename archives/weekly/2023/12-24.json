@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703421012187,
+  "endTime": 1703421926306,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2045786,
-      "num": 2045786,
+      "raw_hot": 2160074,
+      "num": 2160074,
       "word": "苹果 折叠手机",
       "onboard_time": 1703418092,
       "rank": 0,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1677526,
+      "num": 1520226,
+      "word": "霍启刚回应向甘肃捐款7000万",
+      "onboard_time": 1703418755,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1671674,
       "num": 1671674,
       "word": "数三 选拔活体计算器",
@@ -129,14 +137,6 @@
       "onboard_time": 1703376806,
       "rank": 5,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1520226,
-      "num": 1520226,
-      "word": "霍启刚回应向甘肃捐款7000万",
-      "onboard_time": 1703418755,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1518732,
@@ -595,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 500840,
+      "num": 500840,
+      "word": "公主请 韩国版",
+      "onboard_time": 1703419357,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 495795,
       "num": 495795,
       "word": "杨洋素颜合照",
@@ -657,6 +665,14 @@
       "onboard_time": 1703413713,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 451637,
+      "num": 451637,
+      "word": "2023国产烂片爆笑盘点",
+      "onboard_time": 1703418934,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 451462,
@@ -723,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413605,
-      "num": 272163,
-      "word": "公主请 韩国版",
-      "onboard_time": 1703419357,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 411972,
       "num": 287441,
       "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
@@ -777,14 +785,6 @@
       "onboard_time": 1703394336,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 385732,
-      "num": 385732,
-      "word": "2023国产烂片爆笑盘点",
-      "onboard_time": 1703418934,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 378031,
@@ -841,6 +841,14 @@
       "onboard_time": 1703373320,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339214,
+      "num": 339214,
+      "word": "张万森 下林北星了",
+      "onboard_time": 1703419835,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 337304,
@@ -931,6 +939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 301129,
+      "num": 301129,
+      "word": "考研手机没关机",
+      "onboard_time": 1703421214,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299259,
       "num": 299259,
       "word": "自助草莓火锅",
@@ -953,14 +969,6 @@
       "onboard_time": 1703320291,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 295329,
-      "num": 295329,
-      "word": "张万森 下林北星了",
-      "onboard_time": 1703419835,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 295250,
@@ -1195,6 +1203,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 240533,
+      "num": 240533,
+      "word": "主持人大赛总决赛",
+      "onboard_time": 1703420315,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 239185,
+      "num": 239185,
+      "word": "陈都灵跳舞 学霸的自信",
+      "onboard_time": 1703421515,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239167,
       "num": 239167,
       "word": "周也檀健次合照",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1703410358,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 222816,
+      "num": 222816,
+      "word": "美国黄石公园检测出僵尸鹿病毒",
+      "onboard_time": 1703421395,
+      "rank": 23,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 221971,
@@ -1393,14 +1425,6 @@
       "onboard_time": 1703402793,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200759,
-      "num": 200759,
-      "word": "主持人大赛总决赛",
-      "onboard_time": 1703420315,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 200405,
@@ -1571,20 +1595,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173432,
+      "num": 173432,
+      "word": "南方小土豆勇闯哈尔滨",
+      "onboard_time": 1703419655,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 172190,
       "num": 172190,
       "word": "一念关山 be",
       "onboard_time": 1703337160,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171184,
-      "num": 171184,
-      "word": "南方小土豆勇闯哈尔滨",
-      "onboard_time": 1703419655,
-      "rank": 29,
-      "category": "旅游"
     },
     {
       "raw_hot": 168313,
@@ -1627,6 +1651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165252,
+      "num": 165252,
+      "word": "神隐",
+      "onboard_time": 1703421032,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165166,
       "num": 165166,
       "word": "333选择题",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1703398954,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164840,
+      "num": 164840,
+      "word": "赵冬苓转发张巍相关采访",
+      "onboard_time": 1703420735,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 162649,
@@ -1907,14 +1947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140452,
-      "num": 140452,
-      "word": "赵冬苓转发张巍相关采访",
-      "onboard_time": 1703420735,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140380,
       "num": 2859868,
       "word": "不管多晚我们都会让每个帐篷有盏亮灯",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1703404172,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129694,
+      "num": 129694,
+      "word": "阿斯麦第一台2纳米光刻机给了英特尔",
+      "onboard_time": 1703421395,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 129170,
@@ -2281,6 +2321,14 @@
       "onboard_time": 1703387853,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115020,
+      "num": 115020,
+      "word": "鸣龙少年 剧粉整活",
+      "onboard_time": 1703421335,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 114694,
