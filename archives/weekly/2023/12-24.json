@@ -1,14 +1,22 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703380785735,
+  "endTime": 1703381997985,
   "band_list": [
     {
-      "raw_hot": 1409799,
+      "raw_hot": 1483683,
       "num": 471893,
       "word": "铊中毒曾3次出现在高校",
       "onboard_time": 1703376806,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1174871,
+      "num": 346180,
+      "word": "结婚的婚 左边是女右边是昏",
+      "onboard_time": 1703372599,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1093325,
@@ -25,14 +33,6 @@
       "onboard_time": 1703344834,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1055783,
-      "num": 335548,
-      "word": "结婚的婚 左边是女右边是昏",
-      "onboard_time": 1703372599,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 810710,
@@ -91,12 +91,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511651,
+      "num": 511651,
+      "word": "张碧晨向演唱会现场观众道歉",
+      "onboard_time": 1703379388,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 505390,
       "num": 505390,
       "word": "某些大女主文现状",
       "onboard_time": 1703346756,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 500983,
+      "num": 500983,
+      "word": "你一共经历了7434次精神内耗",
+      "onboard_time": 1703376026,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 495795,
@@ -107,19 +123,19 @@
       "category": "艺人,情感"
     },
     {
-      "raw_hot": 474402,
-      "num": 474402,
-      "word": "你一共经历了7434次精神内耗",
-      "onboard_time": 1703376026,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 446836,
-      "num": 185917,
+      "raw_hot": 490779,
+      "num": 210959,
       "word": "长期戴口罩容易肺结节吗",
       "onboard_time": 1703378067,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411972,
+      "num": 210819,
+      "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
+      "onboard_time": 1703377406,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -131,12 +147,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 399907,
-      "num": 184571,
-      "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
-      "onboard_time": 1703377406,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 390864,
+      "num": 390864,
+      "word": "宁远舟死在了他最想活的那一年",
+      "onboard_time": 1703379990,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 378031,
@@ -155,8 +171,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 354618,
-      "num": 354618,
+      "raw_hot": 358052,
+      "num": 358052,
       "word": "乐华员工选贾乃亮当老板",
       "onboard_time": 1703373920,
       "rank": 21,
@@ -187,12 +203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328064,
-      "num": 328064,
-      "word": "张碧晨向演唱会现场观众道歉",
-      "onboard_time": 1703379388,
-      "rank": 11,
-      "category": "音乐"
+      "raw_hot": 324872,
+      "num": 324872,
+      "word": "胡歌 捡垃圾是没有办法的办法",
+      "onboard_time": 1703380771,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 323256,
@@ -251,28 +267,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287291,
+      "num": 287291,
+      "word": "苏醒徐志胜梅开二度向节目组道歉",
+      "onboard_time": 1703380050,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276264,
-      "num": 181802,
+      "num": 209438,
       "word": "吉林发现被东北虎咬死的东北豹",
       "onboard_time": 1703379087,
       "rank": 22,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265812,
+      "num": 209864,
+      "word": "洗澡后立刻睡觉可能影响睡眠",
+      "onboard_time": 1703377167,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 257966,
-      "num": 175955,
+      "num": 207635,
       "word": "女子感叹给闺蜜当伴娘后绝交了",
       "onboard_time": 1703375065,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254240,
-      "num": 173906,
-      "word": "洗澡后立刻睡觉可能影响睡眠",
-      "onboard_time": 1703377167,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 255083,
+      "num": 255083,
+      "word": "云南一农村5桌以上聚餐需报备",
+      "onboard_time": 1703381190,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248070,
@@ -291,12 +323,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 226171,
-      "num": 169970,
+      "raw_hot": 229465,
+      "num": 208708,
       "word": "考研这事儿大学生终于卷不动了",
       "onboard_time": 1703379330,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 225623,
+      "num": 208167,
+      "word": "4种走路姿势暗示疾病信号",
+      "onboard_time": 1703380650,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218421,
@@ -315,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 211504,
+      "num": 211504,
+      "word": "一天八个小时不够你开会啊",
+      "onboard_time": 1703356339,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197527,
       "num": 197527,
       "word": "内娱活人不如顶级素人",
@@ -323,36 +371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194073,
-      "num": 194073,
-      "word": "一天八个小时不够你开会啊",
-      "onboard_time": 1703356339,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 191445,
-      "num": 166814,
-      "word": "4种走路姿势暗示疾病信号",
-      "onboard_time": 1703380650,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186561,
       "num": 186561,
       "word": "考研英语 轻舟已撞大冰山",
       "onboard_time": 1703324979,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186333,
-      "num": 186333,
-      "word": "宁远舟死在了他最想活的那一年",
-      "onboard_time": 1703379990,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 177453,
@@ -411,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159159,
-      "num": 159159,
-      "word": "苏醒徐志胜梅开二度向节目组道歉",
-      "onboard_time": 1703380050,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158387,
       "num": 158387,
       "word": "甘肃24处不可移动文物在地震中受损",
@@ -456,6 +472,14 @@
       "word": "不建议用卷纸擦嘴",
       "onboard_time": 1703334633,
       "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 144665,
+      "num": 144665,
+      "word": "这是什么鬼户型",
+      "onboard_time": 1703376806,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -515,20 +539,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 131632,
+      "num": 131632,
+      "word": "擅长的科目在大学变成了水课",
+      "onboard_time": 1703375425,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131567,
       "num": 131567,
       "word": "运动减肥如何不伤膝盖",
       "onboard_time": 1703380410,
       "rank": 35,
       "category": "运动健身,社会新闻"
-    },
-    {
-      "raw_hot": 130608,
-      "num": 130608,
-      "word": "这是什么鬼户型",
-      "onboard_time": 1703376806,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 129158,
@@ -555,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125235,
-      "num": 125235,
-      "word": "擅长的科目在大学变成了水课",
-      "onboard_time": 1703375425,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 125475,
+      "num": 125475,
+      "word": "天龙八部已经是26年前的剧了",
+      "onboard_time": 1703381729,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 123138,
@@ -603,18 +627,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107789,
-      "num": 106427,
-      "word": "我可以47",
-      "onboard_time": 1703349209,
+      "raw_hot": 107877,
+      "num": 107877,
+      "word": "檀健次脑子分我一点",
+      "onboard_time": 1703377588,
       "rank": 46,
       "category": "综艺"
     },
     {
-      "raw_hot": 106192,
-      "num": 106192,
-      "word": "檀健次脑子分我一点",
-      "onboard_time": 1703377588,
+      "raw_hot": 107789,
+      "num": 106427,
+      "word": "我可以47",
+      "onboard_time": 1703349209,
       "rank": 46,
       "category": "综艺"
     },
@@ -635,12 +659,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 98957,
-      "num": 98957,
-      "word": "胡歌 捡垃圾是没有办法的办法",
-      "onboard_time": 1703380771,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 98540,
+      "num": 98540,
+      "word": "湖人vs雷霆",
+      "onboard_time": 1703381009,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98428,
@@ -827,7 +851,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22203,
+      "raw_hot": 24664,
       "num": 818071,
       "word": "卫星视角看中国",
       "onboard_time": 1703334155,
