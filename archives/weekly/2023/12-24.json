@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703396057081,
+  "endTime": 1703398888392,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -17,6 +17,14 @@
       "onboard_time": 1703387914,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2979852,
+      "num": 474812,
+      "word": "朱令讣告",
+      "onboard_time": 1703396252,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1941666,
@@ -49,6 +57,14 @@
       "onboard_time": 1703376806,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1574627,
+      "num": 1574627,
+      "word": "女子酒店凌晨被男店员刷开房门",
+      "onboard_time": 1703393617,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1518732,
@@ -113,6 +129,14 @@
       "onboard_time": 1703390017,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1016999,
+      "num": 1016999,
+      "word": "中国女子在日本滑雪被雪掩埋不幸去世",
+      "onboard_time": 1703394336,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 841661,
@@ -219,14 +243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 595285,
-      "num": 595285,
-      "word": "中国女子在日本滑雪被雪掩埋不幸去世",
-      "onboard_time": 1703394336,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 592659,
       "num": 428441,
       "word": "考研这事儿大学生终于卷不动了",
@@ -299,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 507283,
-      "num": 507283,
-      "word": "女子酒店凌晨被男店员刷开房门",
-      "onboard_time": 1703393617,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505390,
       "num": 505390,
       "word": "某些大女主文现状",
@@ -329,6 +337,14 @@
       "onboard_time": 1703347291,
       "rank": 11,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 478656,
+      "num": 478656,
+      "word": "浙江宣传发文考研不能成为二次高考",
+      "onboard_time": 1703394214,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450830,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376498,
+      "num": 376498,
+      "word": "温太医张晓龙真的拜高人学切脉学中医",
+      "onboard_time": 1703395893,
+      "rank": 37,
+      "category": "健康医疗,剧集"
+    },
+    {
       "raw_hot": 363690,
       "num": 363690,
       "word": "倪妮唐嫣工作室 卧龙凤雏",
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337304,
+      "num": 337304,
+      "word": "乾隆的十只猫",
+      "onboard_time": 1703395294,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323256,
       "num": 323256,
       "word": "井胧 得亏没签公司",
@@ -467,12 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321006,
-      "num": 321006,
-      "word": "浙江宣传发文考研不能成为二次高考",
-      "onboard_time": 1703394214,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 321927,
+      "num": 321927,
+      "word": "狐妖小红娘竹业篇",
+      "onboard_time": 1703396192,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 307972,
@@ -545,14 +577,6 @@
       "onboard_time": 1703384913,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283500,
-      "num": 152685,
-      "word": "乾隆的十只猫",
-      "onboard_time": 1703395294,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 274191,
@@ -651,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234696,
+      "num": 234696,
+      "word": "导盲犬 明白是因为自己才被拒绝",
+      "onboard_time": 1703395475,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234486,
       "num": 199858,
       "word": "长期不摄入碳水对身体有何影响",
@@ -665,6 +697,14 @@
       "onboard_time": 1703380650,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221971,
+      "num": 221971,
+      "word": "张碧晨 出去闯一闯的女孩",
+      "onboard_time": 1703397811,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 220557,
@@ -705,6 +745,14 @@
       "onboard_time": 1703356339,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203767,
+      "num": 203767,
+      "word": "景甜张新成待我醒来时开机",
+      "onboard_time": 1703398412,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 200405,
@@ -771,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176066,
+      "num": 176066,
+      "word": "这节目单不像假的",
+      "onboard_time": 1703397574,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174263,
       "num": 174263,
       "word": "狂飙唐小龙重生之考进体制内",
@@ -817,6 +873,14 @@
       "onboard_time": 1703345554,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160869,
+      "num": 160869,
+      "word": "中国人过的平安夜是祖国的胜利夜",
+      "onboard_time": 1703394814,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159299,
@@ -907,14 +971,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 149752,
-      "num": 149752,
-      "word": "导盲犬 明白是因为自己才被拒绝",
-      "onboard_time": 1703395475,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 148977,
       "num": 148977,
       "word": "公司食堂将员工自带碗筷丢地上",
@@ -923,28 +979,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148777,
-      "num": 148777,
-      "word": "中国人过的平安夜是祖国的胜利夜",
-      "onboard_time": 1703394814,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 147242,
       "num": 147242,
       "word": "有的人表面是王子背地是癫公",
       "onboard_time": 1703392714,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146456,
-      "num": 146456,
-      "word": "温太医张晓龙真的拜高人学切脉学中医",
-      "onboard_time": 1703395893,
-      "rank": 37,
-      "category": "健康医疗,剧集"
     },
     {
       "raw_hot": 145826,
@@ -1043,6 +1083,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134625,
+      "num": 134625,
+      "word": "甘肃红十字回应疑赈灾清单价格高昂",
+      "onboard_time": 1703396613,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134428,
+      "num": 134428,
+      "word": "做饭阿姨好像活在霸道总裁文",
+      "onboard_time": 1703397392,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133937,
       "num": 133937,
       "word": "詹姆斯40分",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1703388571,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132914,
+      "num": 132914,
+      "word": "数学这东西 三分天注定",
+      "onboard_time": 1703396373,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 131567,
@@ -1139,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123809,
+      "num": 123809,
+      "word": "15件鬼才发明的厨具",
+      "onboard_time": 1703397631,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123138,
       "num": 123138,
       "word": "东北的火腿肠怎么可以这么大",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1703385210,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121338,
+      "num": 121338,
+      "word": "9个女性相关冷知识",
+      "onboard_time": 1703398229,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120834,
@@ -1203,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117372,
+      "num": 117372,
+      "word": "开合跳瘦上半身",
+      "onboard_time": 1703396432,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 115330,
       "num": 115330,
       "word": "这个饺子包的是爱是坚强是家的幸福",
@@ -1235,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110258,
+      "num": 110258,
+      "word": "秦海璐拍的花少团合影",
+      "onboard_time": 1703398412,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110257,
       "num": 110257,
       "word": "工作独立后的这几年确实是最幸福的",
@@ -1265,6 +1361,14 @@
       "onboard_time": 1703349209,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103850,
+      "num": 103850,
+      "word": "一念关山编剧回应争议",
+      "onboard_time": 1703398831,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 102868,
