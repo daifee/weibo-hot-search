@@ -1,0 +1,410 @@
+{
+  "runTime": 1703380785735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 865844,
+        "num": 865844,
+        "word": "微波炉热了十分钟的馒头",
+        "onboard_time": 1703341117,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 525869,
+        "num": 525869,
+        "word": "何炅问今天是杨紫作品回顾展吗",
+        "onboard_time": 1703373320,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22203,
+        "num": 497639,
+        "word": "卫星视角看中国",
+        "onboard_time": 1703334155,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481670,
+        "num": 481670,
+        "word": "三个退出考研的人讲述为何而退",
+        "onboard_time": 1703344834,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474402,
+        "num": 474402,
+        "word": "你一共经历了7434次精神内耗",
+        "onboard_time": 1703376026,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1409799,
+        "num": 471893,
+        "word": "铊中毒曾3次出现在高校",
+        "onboard_time": 1703376806,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 354618,
+        "num": 354618,
+        "word": "乐华员工选贾乃亮当老板",
+        "onboard_time": 1703373920,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349864,
+        "num": 349864,
+        "word": "平安夜",
+        "onboard_time": 1703379330,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341604,
+        "num": 341604,
+        "word": "美国常驻联合国代表的手怎么了",
+        "onboard_time": 1703362274,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 339406,
+        "num": 339406,
+        "word": "外卖员偷了另一个外卖员送的外卖",
+        "onboard_time": 1703373320,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1055783,
+        "num": 335548,
+        "word": "结婚的婚 左边是女右边是昏",
+        "onboard_time": 1703372599,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328064,
+        "num": 328064,
+        "word": "张碧晨向演唱会现场观众道歉",
+        "onboard_time": 1703379388,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324305,
+        "num": 324305,
+        "word": "甜馨 差不多十几年没看见嗯哼了",
+        "onboard_time": 1703336138,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305552,
+        "num": 305552,
+        "word": "农村老式火锅",
+        "onboard_time": 1703375544,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 290856,
+        "num": 290856,
+        "word": "别问雪多大 动物园里就剩它了",
+        "onboard_time": 1703361435,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247604,
+        "num": 247604,
+        "word": "某些大女主文现状",
+        "onboard_time": 1703346756,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210462,
+        "num": 210462,
+        "word": "钟南山称不主张长期佩戴口罩",
+        "onboard_time": 1703341179,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210295,
+        "num": 210295,
+        "word": "郭晶晶霍启刚 捐款7000万",
+        "onboard_time": 1703336015,
+        "rank": 17,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 194073,
+        "num": 194073,
+        "word": "一天八个小时不够你开会啊",
+        "onboard_time": 1703356339,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186333,
+        "num": 186333,
+        "word": "宁远舟死在了他最想活的那一年",
+        "onboard_time": 1703379990,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446836,
+        "num": 185917,
+        "word": "长期戴口罩容易肺结节吗",
+        "onboard_time": 1703378067,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399907,
+        "num": 184571,
+        "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
+        "onboard_time": 1703377406,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276264,
+        "num": 181802,
+        "word": "吉林发现被东北虎咬死的东北豹",
+        "onboard_time": 1703379087,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177342,
+        "num": 177342,
+        "word": "杨丞琳演唱会",
+        "onboard_time": 1703343218,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257966,
+        "num": 175955,
+        "word": "女子感叹给闺蜜当伴娘后绝交了",
+        "onboard_time": 1703375065,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254240,
+        "num": 173906,
+        "word": "洗澡后立刻睡觉可能影响睡眠",
+        "onboard_time": 1703377167,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226171,
+        "num": 169970,
+        "word": "考研这事儿大学生终于卷不动了",
+        "onboard_time": 1703379330,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191445,
+        "num": 166814,
+        "word": "4种走路姿势暗示疾病信号",
+        "onboard_time": 1703380650,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166813,
+        "num": 166813,
+        "word": "脱轨 恐怖片",
+        "onboard_time": 1703345795,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159299,
+        "num": 159299,
+        "word": "周深的痣一颗也不能少",
+        "onboard_time": 1703376986,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159159,
+        "num": 159159,
+        "word": "苏醒徐志胜梅开二度向节目组道歉",
+        "onboard_time": 1703380050,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154072,
+        "num": 154072,
+        "word": "我爸假装我在考研",
+        "onboard_time": 1703373439,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148977,
+        "num": 148977,
+        "word": "公司食堂将员工自带碗筷丢地上",
+        "onboard_time": 1703378970,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141128,
+        "num": 141128,
+        "word": "张靓颖又瘦了",
+        "onboard_time": 1703375544,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141727,
+        "num": 138469,
+        "word": "周深 这鞋垫又不增高又不加大鞋",
+        "onboard_time": 1703378728,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131567,
+        "num": 131567,
+        "word": "运动减肥如何不伤膝盖",
+        "onboard_time": 1703380410,
+        "rank": 35,
+        "category": "运动健身,社会新闻"
+      },
+      {
+        "raw_hot": 130608,
+        "num": 130608,
+        "word": "这是什么鬼户型",
+        "onboard_time": 1703376806,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125502,
+        "num": 125502,
+        "word": "井胧 得亏没签公司",
+        "onboard_time": 1703340158,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125235,
+        "num": 125235,
+        "word": "擅长的科目在大学变成了水课",
+        "onboard_time": 1703375425,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123187,
+        "num": 123187,
+        "word": "杨洋素颜合照",
+        "onboard_time": 1703347291,
+        "rank": 39,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 123138,
+        "num": 123138,
+        "word": "东北的火腿肠怎么可以这么大",
+        "onboard_time": 1703377467,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122212,
+        "num": 122212,
+        "word": "不管多晚我们都会让每个帐篷有盏亮灯",
+        "onboard_time": 1703380170,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120059,
+        "num": 120059,
+        "word": "Jennie圣诞翻唱",
+        "onboard_time": 1703378306,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110630,
+        "num": 110630,
+        "word": "长期不摄入碳水对身体有何影响",
+        "onboard_time": 1703346692,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110546,
+        "num": 110546,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110324,
+        "num": 110324,
+        "word": "程潇多骂爱看",
+        "onboard_time": 1703349688,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106192,
+        "num": 106192,
+        "word": "檀健次脑子分我一点",
+        "onboard_time": 1703377588,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100493,
+        "num": 100493,
+        "word": "马斯克成2023年全球最能赚钱的人",
+        "onboard_time": 1703377047,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98957,
+        "num": 98957,
+        "word": "胡歌 捡垃圾是没有办法的办法",
+        "onboard_time": 1703380771,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98172,
+        "num": 98172,
+        "word": "萌兰和屁帘不共戴天",
+        "onboard_time": 1703342858,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为强国建设民族复兴伟业汇聚强大力量#"
+    }
+  }
+}
