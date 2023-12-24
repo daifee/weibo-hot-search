@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703414025430,
+  "endTime": 1703416447754,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -131,6 +131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1253165,
+      "num": 1253165,
+      "word": "15岁孙子重度抑郁爷奶掏所有钱帮治",
+      "onboard_time": 1703412936,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1214349,
       "num": 1214349,
       "word": "数二难不难",
@@ -193,6 +201,14 @@
       "onboard_time": 1703394336,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 975341,
+      "num": 975341,
+      "word": "赵露思cos英雄联盟格温",
+      "onboard_time": 1703415935,
+      "rank": 3,
+      "category": "作品衍生,电竞"
     },
     {
       "raw_hot": 931610,
@@ -273,6 +289,22 @@
       "onboard_time": 1703384793,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 782272,
+      "num": 397916,
+      "word": "男子仅有10万元买下191万的房子后悔",
+      "onboard_time": 1703415337,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770148,
+      "num": 387391,
+      "word": "平安夜",
+      "onboard_time": 1703379330,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 761654,
@@ -739,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349864,
-      "num": 349864,
-      "word": "平安夜",
-      "onboard_time": 1703379330,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 344960,
       "num": 286984,
       "word": "照片被男朋友拍成了山顶洞人",
@@ -923,12 +947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280382,
+      "num": 228181,
+      "word": "别朱令广陵散",
+      "onboard_time": 1703416235,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276773,
       "num": 276773,
       "word": "洗牙是智商税吗",
       "onboard_time": 1703405794,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 274255,
+      "num": 274255,
+      "word": "考研 像做了场大梦",
+      "onboard_time": 1703413713,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 274191,
@@ -1003,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256784,
+      "num": 256784,
+      "word": "天杀的396 你敢耍老子",
+      "onboard_time": 1703413896,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256395,
       "num": 1187190,
       "word": "中国蓝盔正式结束10年维和使命",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1703391634,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251626,
+      "num": 251626,
+      "word": "深圳大学乒超女团夺冠",
+      "onboard_time": 1703414736,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 248070,
@@ -1035,12 +1091,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 245086,
-      "num": 245086,
-      "word": "15岁孙子重度抑郁爷奶掏所有钱帮治",
-      "onboard_time": 1703412936,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 246119,
+      "num": 246119,
+      "word": "孙颖莎3比0范思琦",
+      "onboard_time": 1703414793,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 241404,
@@ -1163,14 +1219,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 215715,
-      "num": 215715,
-      "word": "天杀的396 你敢耍老子",
-      "onboard_time": 1703413896,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 215493,
       "num": 215493,
       "word": "李永乐爷爷 八十岁还在工作",
@@ -1185,6 +1233,14 @@
       "onboard_time": 1703384251,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211926,
+      "num": 211926,
+      "word": "王曼昱乒超MVP",
+      "onboard_time": 1703416118,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 211671,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1703383894,
       "rank": 26,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 199084,
+      "num": 199084,
+      "word": "宋茜素颜针织帽",
+      "onboard_time": 1703415274,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 197527,
@@ -1363,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182281,
+      "num": 182281,
+      "word": "乒超男团决赛",
+      "onboard_time": 1703416294,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177453,
       "num": 177453,
       "word": "鸣龙少年剧粉疯了也是正常",
@@ -1385,14 +1457,6 @@
       "onboard_time": 1703401112,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174284,
-      "num": 174284,
-      "word": "考研 像做了场大梦",
-      "onboard_time": 1703413713,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 174263,
@@ -1464,6 +1528,14 @@
       "word": "张宇 考研数学有两点跟大家分享",
       "onboard_time": 1703398954,
       "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 162649,
+      "num": 162649,
+      "word": "腿姐 为不平凡的你自豪",
+      "onboard_time": 1703415872,
+      "rank": 43,
       "category": "教育"
     },
     {
@@ -1657,6 +1729,14 @@
       "onboard_time": 1703404834,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143254,
+      "num": 143254,
+      "word": "银河战舰 启航",
+      "onboard_time": 1703414557,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 141966,
@@ -2313,6 +2393,14 @@
       "onboard_time": 1703412031,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42804,
+      "num": 375730,
+      "word": "天猫过节三件套成为新流行",
+      "onboard_time": 1703415635,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41777,
