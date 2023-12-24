@@ -1,0 +1,410 @@
+{
+  "runTime": 1703427310255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1420967,
+        "num": 1420967,
+        "word": "苹果 折叠手机",
+        "onboard_time": 1703418092,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 945422,
+        "num": 945422,
+        "word": "中国化妆品在韩国火了",
+        "onboard_time": 1703422054,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79214,
+        "num": 921486,
+        "word": "这些科技硬实力彰显中国底气",
+        "onboard_time": 1703424278,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1002235,
+        "num": 918637,
+        "word": "追星 谈恋爱",
+        "onboard_time": 1703424218,
+        "rank": 3,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 910910,
+        "num": 910910,
+        "word": "主持人大赛冠军",
+        "onboard_time": 1703426199,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767418,
+        "num": 767418,
+        "word": "厌蠢症",
+        "onboard_time": 1703426018,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 761153,
+        "num": 761153,
+        "word": "男子仅有10万元买下191万的房子后悔",
+        "onboard_time": 1703415337,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1827801,
+        "num": 757644,
+        "word": "李明德 共生关系",
+        "onboard_time": 1703423376,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 751036,
+        "num": 751036,
+        "word": "黄绮珊 没有孩子是我的人生遗憾",
+        "onboard_time": 1703417314,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744333,
+        "num": 744333,
+        "word": "羽生结弦 Goliath",
+        "onboard_time": 1703423856,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1447512,
+        "num": 714595,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1272331,
+        "num": 709685,
+        "word": "霍启刚回应向甘肃捐款7000万",
+        "onboard_time": 1703418755,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778561,
+        "num": 706222,
+        "word": "邓为卷毛",
+        "onboard_time": 1703424700,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 683762,
+        "num": 683762,
+        "word": "一念关山被骂癫剧冤吗",
+        "onboard_time": 1703422117,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37886,
+        "num": 665107,
+        "word": "冯琳没进前三",
+        "onboard_time": 1703426678,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646673,
+        "num": 646673,
+        "word": "美国黄石公园检测出僵尸鹿病毒",
+        "onboard_time": 1703421395,
+        "rank": 15,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 616410,
+        "num": 616410,
+        "word": "15岁孙子重度抑郁爷奶掏所有钱帮治",
+        "onboard_time": 1703412936,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543619,
+        "num": 543619,
+        "word": "2023国产烂片爆笑盘点",
+        "onboard_time": 1703418934,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 536750,
+        "num": 536750,
+        "word": "陈都灵跳舞 学霸的自信",
+        "onboard_time": 1703421515,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520367,
+        "num": 520367,
+        "word": "王鹤棣抱花",
+        "onboard_time": 1703425538,
+        "rank": 19,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 461937,
+        "num": 461937,
+        "word": "平安夜",
+        "onboard_time": 1703415575,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412030,
+        "num": 412030,
+        "word": "李明德说了我想说的",
+        "onboard_time": 1703422656,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360636,
+        "num": 360636,
+        "word": "小米就某芯片公司事件辟谣",
+        "onboard_time": 1703422894,
+        "rank": 22,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 307748,
+        "num": 307748,
+        "word": "王楚钦梁靖崑0比3袁励岑徐瑛彬",
+        "onboard_time": 1703422297,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302026,
+        "num": 302026,
+        "word": "婚礼不要看朋友那桌",
+        "onboard_time": 1703423138,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295282,
+        "num": 295282,
+        "word": "大众电影删除一念关山编剧采访",
+        "onboard_time": 1703424095,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279164,
+        "num": 279164,
+        "word": "冯琳实力",
+        "onboard_time": 1703426980,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268715,
+        "num": 268715,
+        "word": "赵露思cos英雄联盟格温",
+        "onboard_time": 1703415935,
+        "rank": 27,
+        "category": "作品衍生,电竞"
+      },
+      {
+        "raw_hot": 268555,
+        "num": 268555,
+        "word": "考研结束收到了暗恋对象的表白",
+        "onboard_time": 1703424577,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251524,
+        "num": 264276,
+        "word": "山东鲁能乒超男团夺冠",
+        "onboard_time": 1703426860,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362111,
+        "num": 263698,
+        "word": "民众手持白菊悼念朱令",
+        "onboard_time": 1703413354,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262421,
+        "num": 262421,
+        "word": "张馨予皮炎",
+        "onboard_time": 1703403932,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243088,
+        "num": 260657,
+        "word": "周启豪vs袁励岑",
+        "onboard_time": 1703426621,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258993,
+        "num": 258993,
+        "word": "金珉奎和麦当劳有什么区别",
+        "onboard_time": 1703423195,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250357,
+        "num": 250357,
+        "word": "很想很想你大结局",
+        "onboard_time": 1703425179,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226248,
+        "num": 226248,
+        "word": "肥不知不觉间就减了",
+        "onboard_time": 1703422297,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 216977,
+        "num": 216977,
+        "word": "考研结束",
+        "onboard_time": 1703407894,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210312,
+        "num": 210312,
+        "word": "平安夜文案",
+        "onboard_time": 1703405853,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206286,
+        "num": 206286,
+        "word": "肖战 拍戏外没有其他安排",
+        "onboard_time": 1703405431,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136606,
+        "num": 203992,
+        "word": "我们的歌第五季收官",
+        "onboard_time": 1703426435,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333981,
+        "num": 203347,
+        "word": "考研手机没关机",
+        "onboard_time": 1703421214,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202019,
+        "num": 202019,
+        "word": "切尔西 快乐足球",
+        "onboard_time": 1703427101,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197042,
+        "num": 197042,
+        "word": "公主请 韩国版",
+        "onboard_time": 1703419357,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196297,
+        "num": 196297,
+        "word": "上海迪士尼发布通知",
+        "onboard_time": 1703427219,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 193650,
+        "num": 193650,
+        "word": "考研人桌子上有啥都不奇怪",
+        "onboard_time": 1703427219,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186204,
+        "num": 186204,
+        "word": "考研答案",
+        "onboard_time": 1703422774,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184855,
+        "num": 184855,
+        "word": "考研弃考",
+        "onboard_time": 1703406332,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180689,
+        "num": 180689,
+        "word": "理想汽车公布L7广东车祸视频",
+        "onboard_time": 1703422416,
+        "rank": 47,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 179150,
+        "num": 179150,
+        "word": "小米汽车",
+        "onboard_time": 1703427277,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176876,
+        "num": 176876,
+        "word": "赵继伟生涯首个三双",
+        "onboard_time": 1703425538,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#5G赋能生态漓江#"
+    }
+  }
+}
