@@ -1,10 +1,10 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703385005302,
+  "endTime": 1703385649688,
   "band_list": [
     {
-      "raw_hot": 1533539,
-      "num": 501425,
+      "raw_hot": 1574803,
+      "num": 558842,
       "word": "铊中毒曾3次出现在高校",
       "onboard_time": 1703376806,
       "rank": 5,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1174871,
-      "num": 404775,
+      "num": 412118,
       "word": "结婚的婚 左边是女右边是昏",
       "onboard_time": 1703372599,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1152179,
+      "num": 1152179,
+      "word": "宁远舟死在了他最想活的那一年",
+      "onboard_time": 1703379990,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 1093325,
@@ -33,14 +41,6 @@
       "onboard_time": 1703344834,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1034988,
-      "num": 1034988,
-      "word": "宁远舟死在了他最想活的那一年",
-      "onboard_time": 1703379990,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 810710,
@@ -67,12 +67,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 682009,
-      "num": 682009,
+      "raw_hot": 728741,
+      "num": 728741,
       "word": "胡歌 捡垃圾是没有办法的办法",
       "onboard_time": 1703380771,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 718077,
+      "num": 718077,
+      "word": "vivo两名高管被曝在印度遭逮捕",
+      "onboard_time": 1703384011,
+      "rank": 12,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 661551,
@@ -89,6 +97,14 @@
       "onboard_time": 1703343218,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 582388,
+      "num": 582388,
+      "word": "长津湖",
+      "onboard_time": 1703383894,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533012,
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478778,
-      "num": 478778,
-      "word": "长津湖",
-      "onboard_time": 1703383894,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 447491,
       "num": 447491,
       "word": "吉林发现被东北虎咬死的东北豹",
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410434,
+      "num": 410434,
+      "word": "刘亦菲 开屏",
+      "onboard_time": 1703384793,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404779,
       "num": 404779,
       "word": "云南一农村5桌以上聚餐需报备",
       "onboard_time": 1703381190,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404648,
-      "num": 404648,
-      "word": "vivo两名高管被曝在印度遭逮捕",
-      "onboard_time": 1703384011,
-      "rank": 12,
-      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 401970,
@@ -225,6 +233,14 @@
       "onboard_time": 1703337278,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352811,
+      "num": 352811,
+      "word": "考研这事儿大学生终于卷不动了",
+      "onboard_time": 1703379330,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 349864,
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273248,
-      "num": 273248,
-      "word": "考研这事儿大学生终于卷不动了",
-      "onboard_time": 1703379330,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 268676,
       "num": 261918,
       "word": "甜馨 我们白着呢",
@@ -395,6 +403,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213941,
+      "num": 213941,
+      "word": "2024年是个什么年",
+      "onboard_time": 1703384011,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213644,
+      "num": 213644,
+      "word": "一念关山艾特错任如意角色号",
+      "onboard_time": 1703384133,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211671,
       "num": 211671,
       "word": "英语一 最猛的1",
@@ -419,14 +443,6 @@
       "category": "游戏,社会新闻"
     },
     {
-      "raw_hot": 198072,
-      "num": 198072,
-      "word": "2024年是个什么年",
-      "onboard_time": 1703384011,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197527,
       "num": 197527,
       "word": "内娱活人不如顶级素人",
@@ -443,8 +459,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 180964,
-      "num": 180964,
+      "raw_hot": 182607,
+      "num": 182607,
       "word": "女厂长靠20个老配方救回一个厂",
       "onboard_time": 1703384011,
       "rank": 31,
@@ -467,19 +483,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174259,
+      "num": 174259,
+      "word": "上海警方侦破侵犯芯片技术商业秘密案",
+      "onboard_time": 1703384731,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172190,
       "num": 172190,
       "word": "一念关山 be",
       "onboard_time": 1703337160,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 170944,
-      "num": 170944,
-      "word": "一念关山艾特错任如意角色号",
-      "onboard_time": 1703384133,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -603,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139736,
+      "num": 139736,
+      "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+      "onboard_time": 1703385153,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139320,
       "num": 139320,
       "word": "金靖女团舞",
@@ -667,14 +691,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 128354,
-      "num": 128354,
-      "word": "刘亦菲 开屏",
-      "onboard_time": 1703384793,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127304,
       "num": 127304,
       "word": "朱令父亲发声",
@@ -707,12 +723,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121959,
+      "num": 121959,
+      "word": "他们把你也搁家里啦",
+      "onboard_time": 1703385210,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120834,
+      "num": 120834,
+      "word": "尊湃通讯",
+      "onboard_time": 1703385153,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 120059,
       "num": 120059,
       "word": "Jennie圣诞翻唱",
       "onboard_time": 1703378306,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118809,
+      "num": 118809,
+      "word": "梦中情城魔幻哈尔滨",
+      "onboard_time": 1703385391,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 118369,
@@ -731,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117299,
-      "num": 117299,
-      "word": "上海警方侦破侵犯芯片技术商业秘密案",
-      "onboard_time": 1703384731,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113173,
       "num": 113173,
       "word": "山东鲁能vs深圳大学",
@@ -747,8 +779,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112550,
-      "num": 112550,
+      "raw_hot": 112867,
+      "num": 112867,
       "word": "檀健次周也精神状态",
       "onboard_time": 1703384671,
       "rank": 43,
