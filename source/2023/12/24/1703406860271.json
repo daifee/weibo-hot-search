@@ -1,0 +1,410 @@
+{
+  "runTime": 1703406860271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 786186,
+        "num": 786186,
+        "word": "女子酒店凌晨被男店员刷开房门",
+        "onboard_time": 1703393617,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621563,
+        "num": 621563,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51587,
+        "num": 497921,
+        "word": "在声音中回首一起走过的2023",
+        "onboard_time": 1703402370,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1525046,
+        "num": 486185,
+        "word": "男朋友考研 我好无助",
+        "onboard_time": 1703400872,
+        "rank": 3,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 472383,
+        "num": 472383,
+        "word": "带猫去猫咖后的反应",
+        "onboard_time": 1703401412,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431935,
+        "num": 431935,
+        "word": "SM真的什么都保存起来了",
+        "onboard_time": 1703400510,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384972,
+        "num": 384972,
+        "word": "朱令再见",
+        "onboard_time": 1703399190,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350220,
+        "num": 350220,
+        "word": "黄奕七套礼服全穿不上求助网友",
+        "onboard_time": 1703406332,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804114,
+        "num": 350048,
+        "word": "肖战 拍戏外没有其他安排",
+        "onboard_time": 1703405431,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492877,
+        "num": 348942,
+        "word": "圣诞果",
+        "onboard_time": 1703403390,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2046014,
+        "num": 348732,
+        "word": "朱令讣告",
+        "onboard_time": 1703396252,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343140,
+        "num": 347958,
+        "word": "易烊千玺的饺子",
+        "onboard_time": 1703399551,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1770493,
+        "num": 347176,
+        "word": "张馨予皮炎",
+        "onboard_time": 1703403932,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391145,
+        "num": 346537,
+        "word": "数一才是最猛的1",
+        "onboard_time": 1703390733,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 346176,
+        "num": 346176,
+        "word": "seventeen粉丝曼谷失联",
+        "onboard_time": 1703401833,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346005,
+        "num": 346005,
+        "word": "在上海吃饭 震撼",
+        "onboard_time": 1703404651,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 335347,
+        "num": 335347,
+        "word": "一念关山编剧回应争议",
+        "onboard_time": 1703398831,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334954,
+        "num": 334954,
+        "word": "迪士尼",
+        "onboard_time": 1703401234,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327658,
+        "num": 327658,
+        "word": "用退休金贴补卖5角钱早餐的奶奶去世了",
+        "onboard_time": 1703400152,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307581,
+        "num": 307581,
+        "word": "中国女子在日本滑雪被雪掩埋不幸去世",
+        "onboard_time": 1703394336,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315510,
+        "num": 304155,
+        "word": "医生提醒这2种香蕉尽量别碰",
+        "onboard_time": 1703405794,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288059,
+        "num": 288059,
+        "word": "考研当天早上睡过了",
+        "onboard_time": 1703402671,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286984,
+        "num": 286984,
+        "word": "照片被男朋友拍成了山顶洞人",
+        "onboard_time": 1703401352,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280149,
+        "num": 280149,
+        "word": "考研弃考",
+        "onboard_time": 1703406332,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248887,
+        "num": 248887,
+        "word": "洗牙是智商税吗",
+        "onboard_time": 1703405794,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248673,
+        "num": 248673,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 238159,
+        "num": 238159,
+        "word": "陈学冬终于有剧要播了",
+        "onboard_time": 1703394336,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219323,
+        "num": 219323,
+        "word": "深圳千万级豪宅日光",
+        "onboard_time": 1703403211,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 357545,
+        "num": 217145,
+        "word": "东方甄选将停播两天",
+        "onboard_time": 1703399971,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 107014,
+        "num": 208983,
+        "word": "老师为09后孩子练习演唱北京欢迎你",
+        "onboard_time": 1703406573,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205818,
+        "num": 205818,
+        "word": "中国人过的平安夜是祖国的胜利夜",
+        "onboard_time": 1703394814,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196112,
+        "num": 196112,
+        "word": "李永乐爷爷 八十岁还在工作",
+        "onboard_time": 1703404411,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196108,
+        "num": 196108,
+        "word": "平安夜文案",
+        "onboard_time": 1703405853,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191824,
+        "num": 191824,
+        "word": "刘亦菲 开屏",
+        "onboard_time": 1703384793,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185087,
+        "num": 185087,
+        "word": "管泽元余霜婚礼",
+        "onboard_time": 1703393917,
+        "rank": 34,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 179424,
+        "num": 179424,
+        "word": "内耗的人身上都有一个问题",
+        "onboard_time": 1703400872,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179342,
+        "num": 179342,
+        "word": "疯狂动物城热力追踪 停运",
+        "onboard_time": 1703403692,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172942,
+        "num": 172942,
+        "word": "金智媛睡六个小时被说瞌睡虫",
+        "onboard_time": 1703406693,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163757,
+        "num": 163757,
+        "word": "国家卫健委新闻发布会",
+        "onboard_time": 1703402551,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152864,
+        "num": 152864,
+        "word": "师妹教博士师兄怎么谈恋爱",
+        "onboard_time": 1703405133,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141636,
+        "num": 141636,
+        "word": "考研",
+        "onboard_time": 1703386353,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138738,
+        "num": 138738,
+        "word": "时代少年团湖南跨晚宣传片",
+        "onboard_time": 1703405196,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136521,
+        "num": 136521,
+        "word": "郁可唯演唱会冷到跳热身操",
+        "onboard_time": 1703403572,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135804,
+        "num": 135804,
+        "word": "辛芷蕾 90年代港风美人",
+        "onboard_time": 1703404954,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127396,
+        "num": 127396,
+        "word": "陈楚生 2023最后一首悲伤的歌",
+        "onboard_time": 1703405431,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126407,
+        "num": 126407,
+        "word": "赵昭仪手写8套花少穿搭",
+        "onboard_time": 1703399312,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124062,
+        "num": 124062,
+        "word": "几百年前的西瓜什么样",
+        "onboard_time": 1703404291,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 123510,
+        "num": 123510,
+        "word": "AG对战狼队",
+        "onboard_time": 1703400752,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112855,
+        "num": 112855,
+        "word": "狐妖小红娘竹业篇",
+        "onboard_time": 1703396192,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109572,
+        "num": 109572,
+        "word": "姜饼人滑雪",
+        "onboard_time": 1703406271,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}
