@@ -1,0 +1,410 @@
+{
+  "runTime": 1703392500679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6290289,
+        "num": 6290289,
+        "word": "数一才是最猛的1",
+        "onboard_time": 1703390733,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3017455,
+        "num": 3017455,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140380,
+        "num": 1532573,
+        "word": "不管多晚我们都会让每个帐篷有盏亮灯",
+        "onboard_time": 1703380170,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518732,
+        "num": 1518732,
+        "word": "考完333 我心死了",
+        "onboard_time": 1703391334,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1244459,
+        "num": 1244459,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1183951,
+        "num": 1183951,
+        "word": "曾参与朱令铊中毒抢救诊治医生发声",
+        "onboard_time": 1703391813,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070479,
+        "num": 1070479,
+        "word": "数三 选拔活体计算器",
+        "onboard_time": 1703390497,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1021481,
+        "num": 1021481,
+        "word": "考研西综太难了",
+        "onboard_time": 1703390017,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 915930,
+        "num": 915930,
+        "word": "数二难不难",
+        "onboard_time": 1703388453,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 898222,
+        "num": 898222,
+        "word": "396 写不完",
+        "onboard_time": 1703389776,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 769747,
+        "num": 769747,
+        "word": "可可西里网红狼铁饭碗被端",
+        "onboard_time": 1703387430,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 703535,
+        "num": 703535,
+        "word": "许晴好会走啊",
+        "onboard_time": 1703389297,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 618212,
+        "num": 618212,
+        "word": "考研数学 张宇",
+        "onboard_time": 1703388211,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 514812,
+        "num": 514812,
+        "word": "宁远舟死在了他最想活的那一年",
+        "onboard_time": 1703379990,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513762,
+        "num": 513762,
+        "word": "河南多地宣布部分单位停止供暖",
+        "onboard_time": 1703387430,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471809,
+        "num": 471809,
+        "word": "法硕 汗流浃背",
+        "onboard_time": 1703388934,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 451149,
+        "num": 451149,
+        "word": "刘亦菲 开屏",
+        "onboard_time": 1703384793,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442551,
+        "num": 442551,
+        "word": "教育局通报老师被指打伤学生",
+        "onboard_time": 1703386952,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 431460,
+        "num": 431460,
+        "word": "结婚的婚 左边是女右边是昏",
+        "onboard_time": 1703372599,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404182,
+        "num": 404182,
+        "word": "宋江戴花",
+        "onboard_time": 1703387430,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385979,
+        "num": 385979,
+        "word": "长期戴口罩容易肺结节吗",
+        "onboard_time": 1703378067,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361784,
+        "num": 361784,
+        "word": "内娱歌手全网粉丝量",
+        "onboard_time": 1703386590,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307972,
+        "num": 307972,
+        "word": "光与夜之恋",
+        "onboard_time": 1703391274,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286267,
+        "num": 286267,
+        "word": "游客称迪士尼设备故障白排队4小时",
+        "onboard_time": 1703387194,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281139,
+        "num": 281139,
+        "word": "396经济类联考",
+        "onboard_time": 1703389595,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248418,
+        "num": 248418,
+        "word": "94年女生北漂5年半攒钱超100万",
+        "onboard_time": 1703386293,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248319,
+        "num": 248319,
+        "word": "姑娘年初卖房因5万中介费谈崩年底少卖100万",
+        "onboard_time": 1703377406,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240573,
+        "num": 240573,
+        "word": "考研数学二答案",
+        "onboard_time": 1703391934,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236752,
+        "num": 236752,
+        "word": "你的幸福有点吵到室友了",
+        "onboard_time": 1703388453,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207085,
+        "num": 224569,
+        "word": "2024年是个什么年",
+        "onboard_time": 1703384011,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220557,
+        "num": 220557,
+        "word": "中岛美嘉眼含热泪告别女大",
+        "onboard_time": 1703390257,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208776,
+        "num": 208776,
+        "word": "解清帅回应直播带货",
+        "onboard_time": 1703391634,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208162,
+        "num": 208162,
+        "word": "考研",
+        "onboard_time": 1703386353,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 433267,
+        "num": 204314,
+        "word": "考研这事儿大学生终于卷不动了",
+        "onboard_time": 1703379330,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192406,
+        "num": 192406,
+        "word": "胡歌 捡垃圾是没有办法的办法",
+        "onboard_time": 1703380771,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172758,
+        "num": 172758,
+        "word": "余霜伴娘团",
+        "onboard_time": 1703392298,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171038,
+        "num": 171038,
+        "word": "长津湖",
+        "onboard_time": 1703383894,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154831,
+        "num": 154831,
+        "word": "平安夜",
+        "onboard_time": 1703379330,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150579,
+        "num": 150579,
+        "word": "Jennie圣诞翻唱",
+        "onboard_time": 1703378306,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145765,
+        "num": 145765,
+        "word": "张碧晨向演唱会现场观众道歉",
+        "onboard_time": 1703379388,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144452,
+        "num": 144452,
+        "word": "活力28三老头回应直播热度下降",
+        "onboard_time": 1703390975,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 143053,
+        "num": 143053,
+        "word": "女生回应被老鼠咬手后反咬老鼠头",
+        "onboard_time": 1703383112,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141099,
+        "num": 141099,
+        "word": "甜馨 差不多十几年没看见嗯哼了",
+        "onboard_time": 1703336138,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134927,
+        "num": 134927,
+        "word": "脱轨 恐怖片",
+        "onboard_time": 1703345795,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133331,
+        "num": 133331,
+        "word": "朱令去世",
+        "onboard_time": 1703300913,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132067,
+        "num": 132067,
+        "word": "李现跳舞",
+        "onboard_time": 1703388755,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121915,
+        "num": 121915,
+        "word": "吉林发现被东北虎咬死的东北豹",
+        "onboard_time": 1703379087,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121085,
+        "num": 121085,
+        "word": "甜馨 我们白着呢",
+        "onboard_time": 1703382509,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117246,
+        "num": 117246,
+        "word": "你一共经历了7434次精神内耗",
+        "onboard_time": 1703376026,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105374,
+        "num": 117164,
+        "word": "詹姆斯质疑名人堂评选规则",
+        "onboard_time": 1703387312,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}

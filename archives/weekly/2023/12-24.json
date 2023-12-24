@@ -1,10 +1,10 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703391637059,
+  "endTime": 1703392500679,
   "band_list": [
     {
-      "raw_hot": 4782348,
-      "num": 4782348,
+      "raw_hot": 6290289,
+      "num": 6290289,
       "word": "数一才是最猛的1",
       "onboard_time": 1703390733,
       "rank": 0,
@@ -43,12 +43,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1518732,
+      "num": 1518732,
+      "word": "考完333 我心死了",
+      "onboard_time": 1703391334,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1214349,
       "num": 1214349,
       "word": "数二难不难",
       "onboard_time": 1703388453,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1183951,
+      "num": 1183951,
+      "word": "曾参与朱令铊中毒抢救诊治医生发声",
+      "onboard_time": 1703391813,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1174871,
@@ -91,8 +107,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1010699,
-      "num": 1010699,
+      "raw_hot": 1021481,
+      "num": 1021481,
       "word": "考研西综太难了",
       "onboard_time": 1703390017,
       "rank": 7,
@@ -193,14 +209,6 @@
       "onboard_time": 1703386952,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 602082,
-      "num": 602082,
-      "word": "考完333 我心死了",
-      "onboard_time": 1703391334,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 596978,
@@ -427,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307972,
+      "num": 307972,
+      "word": "光与夜之恋",
+      "onboard_time": 1703391274,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305552,
       "num": 305552,
       "word": "农村老式火锅",
@@ -555,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240573,
+      "num": 240573,
+      "word": "考研数学二答案",
+      "onboard_time": 1703391934,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234486,
       "num": 199858,
       "word": "长期不摄入碳水对身体有何影响",
@@ -569,6 +593,14 @@
       "onboard_time": 1703380650,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220557,
+      "num": 220557,
+      "word": "中岛美嘉眼含热泪告别女大",
+      "onboard_time": 1703390257,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 218421,
@@ -603,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208776,
+      "num": 208776,
+      "word": "解清帅回应直播带货",
+      "onboard_time": 1703391634,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200405,
       "num": 200405,
       "word": "vivo称对印度的拘捕行动深表震惊",
@@ -616,22 +656,6 @@
       "word": "内娱活人不如顶级素人",
       "onboard_time": 1703336793,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195034,
-      "num": 195034,
-      "word": "光与夜之恋",
-      "onboard_time": 1703391274,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 186964,
-      "num": 186964,
-      "word": "中岛美嘉眼含热泪告别女大",
-      "onboard_time": 1703390257,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -689,6 +713,14 @@
       "onboard_time": 1703337038,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172758,
+      "num": 172758,
+      "word": "余霜伴娘团",
+      "onboard_time": 1703392298,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 172190,
@@ -787,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150579,
+      "num": 150579,
+      "word": "Jennie圣诞翻唱",
+      "onboard_time": 1703378306,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150422,
       "num": 150422,
       "word": "石雷鹏 本人一篇都没有押中",
@@ -843,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140380,
+      "num": 2859868,
+      "word": "不管多晚我们都会让每个帐篷有盏亮灯",
+      "onboard_time": 1703380170,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139320,
       "num": 139320,
       "word": "金靖女团舞",
@@ -891,14 +939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132302,
-      "num": 132302,
-      "word": "Jennie圣诞翻唱",
-      "onboard_time": 1703378306,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 131567,
       "num": 131567,
       "word": "运动减肥如何不伤膝盖",
@@ -937,14 +977,6 @@
       "onboard_time": 1703328935,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 128137,
-      "num": 2859868,
-      "word": "不管多晚我们都会让每个帐篷有盏亮灯",
-      "onboard_time": 1703380170,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127304,

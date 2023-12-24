@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703391637059,
+  "endTime": 1703392500679,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6290289,
+      "num": 6290289,
+      "word": "数一才是最猛的1",
+      "onboard_time": 1703390733,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 6137609,
       "num": 6137609,
       "word": "中演协回应五月天被质疑假唱",
@@ -409,14 +417,6 @@
       "onboard_time": 1701577531,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 4782348,
-      "num": 4782348,
-      "word": "数一才是最猛的1",
-      "onboard_time": 1703390733,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 4782023,
@@ -3675,6 +3675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1518732,
+      "num": 1518732,
+      "word": "考完333 我心死了",
+      "onboard_time": 1703391334,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1518202,
       "num": 1490950,
       "word": "68岁女子感染HPV称老伴都去世30多年",
@@ -5179,6 +5187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1183951,
+      "num": 1183951,
+      "word": "曾参与朱令铊中毒抢救诊治医生发声",
+      "onboard_time": 1703391813,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1182661,
       "num": 1182661,
       "word": "商汤科技董事长汤晓鸥去世",
@@ -6267,6 +6283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1021481,
+      "num": 1021481,
+      "word": "考研西综太难了",
+      "onboard_time": 1703390017,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1019678,
       "num": 1019678,
       "word": "肖战指导英文回击法国球员",
@@ -6377,14 +6401,6 @@
       "onboard_time": 1702182997,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1010699,
-      "num": 1010699,
-      "word": "考研西综太难了",
-      "onboard_time": 1703390017,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 1008749,
@@ -12593,14 +12609,6 @@
       "onboard_time": 1702889738,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 602082,
-      "num": 602082,
-      "word": "考完333 我心死了",
-      "onboard_time": 1703391334,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 601424,
@@ -27163,6 +27171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307972,
+      "num": 307972,
+      "word": "光与夜之恋",
+      "onboard_time": 1703391274,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307815,
       "num": 307815,
       "word": "石宇奇 BGM别放我姓石",
@@ -35011,6 +35027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 240573,
+      "num": 240573,
+      "word": "考研数学二答案",
+      "onboard_time": 1703391934,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 240547,
       "num": 240547,
       "word": "支原体肺炎有4怕",
@@ -38315,6 +38339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220557,
+      "num": 220557,
+      "word": "中岛美嘉眼含热泪告别女大",
+      "onboard_time": 1703390257,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220516,
       "num": 220516,
       "word": "小猫咪以为自己也是洗发水",
@@ -40513,6 +40545,14 @@
       "onboard_time": 1702444180,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 208776,
+      "num": 208776,
+      "word": "解清帅回应直播带货",
+      "onboard_time": 1703391634,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208761,
@@ -43947,14 +43987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 195034,
-      "num": 195034,
-      "word": "光与夜之恋",
-      "onboard_time": 1703391274,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 195016,
       "num": 183022,
       "word": "繁花 排面",
@@ -46297,14 +46329,6 @@
       "onboard_time": 1702121314,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186964,
-      "num": 186964,
-      "word": "中岛美嘉眼含热泪告别女大",
-      "onboard_time": 1703390257,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 186905,
@@ -49104,6 +49128,14 @@
       "word": "RNG大名单",
       "onboard_time": 1702363295,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 172758,
+      "num": 172758,
+      "word": "余霜伴娘团",
+      "onboard_time": 1703392298,
+      "rank": 35,
       "category": "电竞"
     },
     {
@@ -53771,6 +53803,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 150579,
+      "num": 150579,
+      "word": "Jennie圣诞翻唱",
+      "onboard_time": 1703378306,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150530,
       "num": 150530,
       "word": "皮卡堂 开门啊",
@@ -55899,6 +55939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140380,
+      "num": 2859868,
+      "word": "不管多晚我们都会让每个帐篷有盏亮灯",
+      "onboard_time": 1703380170,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140371,
       "num": 140371,
       "word": "陈奕迅成都演唱会首场安可曲",
@@ -57155,14 +57203,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 132302,
-      "num": 132302,
-      "word": "Jennie圣诞翻唱",
-      "onboard_time": 1703378306,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 132166,
       "num": 132166,
       "word": "LPL纪录片JDG篇",
@@ -57737,14 +57777,6 @@
       "onboard_time": 1702469611,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128137,
-      "num": 2859868,
-      "word": "不管多晚我们都会让每个帐篷有盏亮灯",
-      "onboard_time": 1703380170,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128091,
