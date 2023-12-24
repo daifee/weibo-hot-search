@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703438100923,
+  "endTime": 1703439265144,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -875,7 +875,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 423690,
+      "raw_hot": 427195,
       "num": 214757,
       "word": "原来明星是这么去颈纹的",
       "onboard_time": 1703434651,
@@ -3097,6 +3097,14 @@
       "onboard_time": 1703416534,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 49704,
+      "num": 49704,
+      "word": "广东6元早茶",
+      "onboard_time": 1703438601,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 47304,
