@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703423931883,
+  "endTime": 1703424843596,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1022536,
-      "num": 473277,
+      "num": 477267,
       "word": "平安夜",
       "onboard_time": 1703379330,
       "rank": 7,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 898309,
+      "num": 898309,
+      "word": "李明德说了我想说的",
+      "onboard_time": 1703422656,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 868703,
       "num": 868703,
       "word": "女网红因甘肃地震不当言论被禁言30天",
@@ -281,6 +289,14 @@
       "onboard_time": 1703387430,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 836002,
+      "num": 643080,
+      "word": "李明德 共生关系",
+      "onboard_time": 1703423376,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 830512,
@@ -313,6 +329,14 @@
       "onboard_time": 1703406332,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 804094,
+      "num": 804094,
+      "word": "中国化妆品在韩国火了",
+      "onboard_time": 1703422054,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 802705,
@@ -387,28 +411,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 710451,
-      "num": 710451,
-      "word": "中国化妆品在韩国火了",
-      "onboard_time": 1703422054,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 700133,
       "num": 700133,
       "word": "金智媛睡六个小时被说瞌睡虫",
       "onboard_time": 1703406693,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 692080,
-      "num": 692080,
-      "word": "李明德说了我想说的",
-      "onboard_time": 1703422656,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 676602,
@@ -451,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 654603,
+      "num": 654603,
+      "word": "陈都灵跳舞 学霸的自信",
+      "onboard_time": 1703421515,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648811,
       "num": 648811,
       "word": "王曼昱3比2孙颖莎",
@@ -465,6 +481,22 @@
       "onboard_time": 1703399971,
       "rank": 3,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 643288,
+      "num": 643288,
+      "word": "美国黄石公园检测出僵尸鹿病毒",
+      "onboard_time": 1703421395,
+      "rank": 23,
+      "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 642324,
+      "num": 642324,
+      "word": "一念关山被骂癫剧冤吗",
+      "onboard_time": 1703422117,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 641858,
@@ -483,28 +515,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 636153,
-      "num": 636153,
-      "word": "陈都灵跳舞 学霸的自信",
-      "onboard_time": 1703421515,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 629889,
       "num": 629889,
       "word": "SM真的什么都保存起来了",
       "onboard_time": 1703400510,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 617250,
-      "num": 617250,
-      "word": "美国黄石公园检测出僵尸鹿病毒",
-      "onboard_time": 1703421395,
-      "rank": 23,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 596978,
@@ -571,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 545333,
-      "num": 545333,
-      "word": "一念关山被骂癫剧冤吗",
-      "onboard_time": 1703422117,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 540564,
       "num": 540564,
       "word": "在上海吃饭 震撼",
@@ -601,6 +609,14 @@
       "onboard_time": 1703341179,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532748,
+      "num": 532748,
+      "word": "羽生结弦 Goliath",
+      "onboard_time": 1703423856,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 531365,
@@ -763,12 +779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437085,
+      "num": 437085,
+      "word": "小米就某芯片公司事件辟谣",
+      "onboard_time": 1703422894,
+      "rank": 19,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 434699,
       "num": 1041851,
       "word": "高考和考研结束走出考场的心情图鉴",
       "onboard_time": 1703412274,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 431046,
+      "num": 431046,
+      "word": "追星 谈恋爱",
+      "onboard_time": 1703424218,
+      "rank": 19,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 420109,
@@ -875,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352924,
-      "num": 352924,
-      "word": "小米就某芯片公司事件辟谣",
-      "onboard_time": 1703422894,
-      "rank": 19,
-      "category": "数码,财经"
-    },
-    {
       "raw_hot": 344960,
       "num": 286984,
       "word": "照片被男朋友拍成了山顶洞人",
@@ -931,20 +955,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332539,
-      "num": 332539,
-      "word": "羽生结弦 Goliath",
-      "onboard_time": 1703423856,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330253,
       "num": 330253,
       "word": "6男子吃火锅一氧化碳中毒3死3伤",
       "onboard_time": 1703409635,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326823,
+      "num": 326823,
+      "word": "金珉奎和麦当劳有什么区别",
+      "onboard_time": 1703423195,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 323256,
@@ -1011,6 +1035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 305042,
+      "num": 305042,
+      "word": "婚礼不要看朋友那桌",
+      "onboard_time": 1703423138,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299259,
       "num": 299259,
       "word": "自助草莓火锅",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1703412097,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 297571,
+      "num": 297571,
+      "word": "大众电影删除一念关山编剧采访",
+      "onboard_time": 1703424095,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 295395,
@@ -1083,36 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284096,
-      "num": 284096,
-      "word": "李明德 共生关系",
-      "onboard_time": 1703423376,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 281161,
-      "num": 231594,
-      "word": "婚礼不要看朋友那桌",
-      "onboard_time": 1703423138,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 280998,
       "num": 280998,
       "word": "涿州洪灾绝境自救书商现状",
       "onboard_time": 1703399190,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277686,
-      "num": 277686,
-      "word": "金珉奎和麦当劳有什么区别",
-      "onboard_time": 1703423195,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 276773,
@@ -1275,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243506,
+      "num": 243506,
+      "word": "邓为卷毛",
+      "onboard_time": 1703424700,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 241404,
       "num": 241404,
       "word": "一念关山艾特错任如意角色号",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1703422416,
       "rank": 28,
       "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 235486,
+      "num": 235486,
+      "word": "KPOP年度名场面",
+      "onboard_time": 1703423674,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 235305,
@@ -1515,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202857,
+      "num": 202857,
+      "word": "考研结束收到了暗恋对象的表白",
+      "onboard_time": 1703424577,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202037,
       "num": 202037,
       "word": "乒超收官战",
@@ -1595,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187737,
+      "num": 187737,
+      "word": "肥不知不觉间就减了",
+      "onboard_time": 1703422297,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 187483,
       "num": 226575,
       "word": "还是孩子的哥哥为妹妹撑起一片天",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1703387312,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182644,
-      "num": 182644,
-      "word": "肥不知不觉间就减了",
-      "onboard_time": 1703422297,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 182607,
@@ -1721,14 +1761,6 @@
       "onboard_time": 1703337160,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171251,
-      "num": 171251,
-      "word": "KPOP年度名场面",
-      "onboard_time": 1703423674,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 168313,
@@ -2627,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85795,
+      "num": 555797,
+      "word": "张大仙新家首次公开",
+      "onboard_time": 1703422833,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 82086,
       "num": 82086,
       "word": "为什么广东人熬的皮蛋瘦肉粥那么好喝",
@@ -2705,14 +2745,6 @@
       "onboard_time": 1703374161,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 53149,
-      "num": 495312,
-      "word": "张大仙新家首次公开",
-      "onboard_time": 1703422833,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 52366,
@@ -2803,6 +2835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26360,
+      "num": 966954,
+      "word": "这些科技硬实力彰显中国底气",
+      "onboard_time": 1703424278,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26226,
       "num": 26459,
       "word": "王星越的手指在万鹏腰上打拍",
@@ -2879,6 +2919,9 @@
     },
     {
       "word": "#发展生物科技生物产业#"
+    },
+    {
+      "word": "#5G赋能生态漓江#"
     }
   ]
 }
