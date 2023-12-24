@@ -1,7 +1,15 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703385649688,
+  "endTime": 1703387894262,
   "band_list": [
+    {
+      "raw_hot": 1612493,
+      "num": 1612493,
+      "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+      "onboard_time": 1703385153,
+      "rank": 36,
+      "category": "作品衍生"
+    },
     {
       "raw_hot": 1574803,
       "num": 558842,
@@ -51,12 +59,28 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 785351,
+      "num": 785351,
+      "word": "刘亦菲 开屏",
+      "onboard_time": 1703384793,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 761654,
       "num": 761654,
       "word": "脱轨 恐怖片",
       "onboard_time": 1703345795,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 757716,
+      "num": 718077,
+      "word": "vivo两名高管被曝在印度遭逮捕",
+      "onboard_time": 1703384011,
+      "rank": 12,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 728813,
@@ -75,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 718077,
-      "num": 718077,
-      "word": "vivo两名高管被曝在印度遭逮捕",
-      "onboard_time": 1703384011,
-      "rank": 12,
-      "category": "数码,社会新闻"
-    },
-    {
       "raw_hot": 661551,
       "num": 661551,
       "word": "甜馨 差不多十几年没看见嗯哼了",
@@ -97,6 +113,14 @@
       "onboard_time": 1703343218,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 592659,
+      "num": 352811,
+      "word": "考研这事儿大学生终于卷不动了",
+      "onboard_time": 1703379330,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 582388,
@@ -164,11 +188,19 @@
     },
     {
       "raw_hot": 490779,
-      "num": 256837,
+      "num": 478603,
       "word": "长期戴口罩容易肺结节吗",
       "onboard_time": 1703378067,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448402,
+      "num": 448402,
+      "word": "教育局通报老师被指打伤学生",
+      "onboard_time": 1703386952,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 447491,
@@ -193,14 +225,6 @@
       "onboard_time": 1703383112,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410434,
-      "num": 410434,
-      "word": "刘亦菲 开屏",
-      "onboard_time": 1703384793,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 404779,
@@ -233,14 +257,6 @@
       "onboard_time": 1703337278,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 352811,
-      "num": 352811,
-      "word": "考研这事儿大学生终于卷不动了",
-      "onboard_time": 1703379330,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 349864,
@@ -347,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266214,
+      "num": 213941,
+      "word": "2024年是个什么年",
+      "onboard_time": 1703384011,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265812,
       "num": 209864,
       "word": "洗澡后立刻睡觉可能影响睡眠",
       "onboard_time": 1703377167,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259533,
+      "num": 167207,
+      "word": "可可西里网红狼铁饭碗被端",
+      "onboard_time": 1703387430,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 257966,
@@ -369,6 +401,30 @@
       "onboard_time": 1703321373,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244984,
+      "num": 244984,
+      "word": "考研",
+      "onboard_time": 1703386353,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 243032,
+      "num": 210434,
+      "word": "94年女生北漂5年半攒钱超100万",
+      "onboard_time": 1703386293,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241404,
+      "num": 241404,
+      "word": "一念关山艾特错任如意角色号",
+      "onboard_time": 1703384133,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 234486,
@@ -403,22 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213941,
-      "num": 213941,
-      "word": "2024年是个什么年",
-      "onboard_time": 1703384011,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213644,
-      "num": 213644,
-      "word": "一念关山艾特错任如意角色号",
-      "onboard_time": 1703384133,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211671,
       "num": 211671,
       "word": "英语一 最猛的1",
@@ -435,12 +475,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209341,
+      "num": 209341,
+      "word": "内娱歌手全网粉丝量",
+      "onboard_time": 1703386590,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200405,
       "num": 200405,
       "word": "vivo称对印度的拘捕行动深表震惊",
       "onboard_time": 1703383894,
       "rank": 26,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 199159,
+      "num": 199159,
+      "word": "宋江戴花",
+      "onboard_time": 1703387430,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 197527,
@@ -475,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177241,
+      "num": 177241,
+      "word": "上海警方侦破侵犯芯片技术商业秘密案",
+      "onboard_time": 1703384731,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174263,
       "num": 174263,
       "word": "狂飙唐小龙重生之考进体制内",
       "onboard_time": 1703337038,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174259,
-      "num": 174259,
-      "word": "上海警方侦破侵犯芯片技术商业秘密案",
-      "onboard_time": 1703384731,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172190,
@@ -521,6 +577,14 @@
       "onboard_time": 1703345554,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160217,
+      "num": 160217,
+      "word": "游客称迪士尼设备故障白排队4小时",
+      "onboard_time": 1703387194,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159299,
@@ -571,6 +635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150122,
+      "num": 150122,
+      "word": "詹姆斯质疑名人堂评选规则",
+      "onboard_time": 1703387312,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148977,
       "num": 148977,
       "word": "公司食堂将员工自带碗筷丢地上",
@@ -619,14 +691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139736,
-      "num": 139736,
-      "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
-      "onboard_time": 1703385153,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139320,
       "num": 139320,
       "word": "金靖女团舞",
@@ -641,6 +705,14 @@
       "onboard_time": 1703343634,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137722,
+      "num": 137722,
+      "word": "擅长的科目在大学变成了水课",
+      "onboard_time": 1703375425,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 135571,
@@ -659,12 +731,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 131632,
-      "num": 131632,
-      "word": "擅长的科目在大学变成了水课",
-      "onboard_time": 1703375425,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 131928,
+      "num": 131928,
+      "word": "河南多地宣布部分单位停止供暖",
+      "onboard_time": 1703387430,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131567,
@@ -785,6 +857,30 @@
       "onboard_time": 1703384671,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112101,
+      "num": 112101,
+      "word": "3老头嘴里心里都是云股东",
+      "onboard_time": 1703385870,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110257,
+      "num": 110257,
+      "word": "工作独立后的这几年确实是最幸福的",
+      "onboard_time": 1703387733,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108311,
+      "num": 108311,
+      "word": "这个饺子包的是爱是坚强是家的幸福",
+      "onboard_time": 1703387853,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107877,
@@ -953,6 +1049,14 @@
       "onboard_time": 1703363416,
       "rank": 49,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 46707,
+      "num": 807721,
+      "word": "遇见2023的中国",
+      "onboard_time": 1703386110,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41777,

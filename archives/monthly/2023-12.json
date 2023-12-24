@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703385649688,
+  "endTime": 1703387894262,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -3233,6 +3233,14 @@
       "onboard_time": 1702828900,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1612493,
+      "num": 1612493,
+      "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+      "onboard_time": 1703385153,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1612390,
@@ -8931,6 +8939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 785351,
+      "num": 785351,
+      "word": "刘亦菲 开屏",
+      "onboard_time": 1703384793,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 785016,
       "num": 785016,
       "word": "他想避世她想入世",
@@ -9313,6 +9329,14 @@
       "onboard_time": 1702642536,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 757716,
+      "num": 718077,
+      "word": "vivo两名高管被曝在印度遭逮捕",
+      "onboard_time": 1703384011,
+      "rank": 12,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 756718,
@@ -9977,14 +10001,6 @@
       "onboard_time": 1702530815,
       "rank": 11,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 718077,
-      "num": 718077,
-      "word": "vivo两名高管被曝在印度遭逮捕",
-      "onboard_time": 1703384011,
-      "rank": 12,
-      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 717973,
@@ -12681,6 +12697,14 @@
       "onboard_time": 1702809345,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 592659,
+      "num": 352811,
+      "word": "考研这事儿大学生终于卷不动了",
+      "onboard_time": 1703379330,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 592487,
@@ -16164,7 +16188,7 @@
     },
     {
       "raw_hot": 490779,
-      "num": 256837,
+      "num": 478603,
       "word": "长期戴口罩容易肺结节吗",
       "onboard_time": 1703378067,
       "rank": 20,
@@ -17945,6 +17969,14 @@
       "onboard_time": 1702261052,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 448402,
+      "num": 448402,
+      "word": "教育局通报老师被指打伤学生",
+      "onboard_time": 1703386952,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 447916,
@@ -19833,14 +19865,6 @@
       "onboard_time": 1702425939,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410434,
-      "num": 410434,
-      "word": "刘亦菲 开屏",
-      "onboard_time": 1703384793,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 410328,
@@ -23481,14 +23505,6 @@
       "onboard_time": 1701406000,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 352811,
-      "num": 352811,
-      "word": "考研这事儿大学生终于卷不动了",
-      "onboard_time": 1703379330,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 352806,
@@ -31571,6 +31587,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 266214,
+      "num": 213941,
+      "word": "2024年是个什么年",
+      "onboard_time": 1703384011,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266165,
       "num": 266165,
       "word": "世界上最发达的做空机制中国全都用了",
@@ -32345,6 +32369,14 @@
       "onboard_time": 1703067635,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259533,
+      "num": 167207,
+      "word": "可可西里网红狼铁饭碗被端",
+      "onboard_time": 1703387430,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 259430,
@@ -34603,6 +34635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243032,
+      "num": 210434,
+      "word": "94年女生北漂5年半攒钱超100万",
+      "onboard_time": 1703386293,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242687,
       "num": 242687,
       "word": "TikTok播放量排名",
@@ -34776,6 +34816,14 @@
       "word": "甄嬛传 卫临视角",
       "onboard_time": 1702954419,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241404,
+      "num": 241404,
+      "word": "一念关山艾特错任如意角色号",
+      "onboard_time": 1703384133,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -39219,14 +39267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213941,
-      "num": 213941,
-      "word": "2024年是个什么年",
-      "onboard_time": 1703384011,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213917,
       "num": 213917,
       "word": "杨超越 月亮警察",
@@ -39265,14 +39305,6 @@
       "onboard_time": 1703131541,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213644,
-      "num": 213644,
-      "word": "一念关山艾特错任如意角色号",
-      "onboard_time": 1703384133,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 213469,
@@ -40233,6 +40265,14 @@
       "onboard_time": 1702529857,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209341,
+      "num": 209341,
+      "word": "内娱歌手全网粉丝量",
+      "onboard_time": 1703386590,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 209281,
@@ -42849,6 +42889,14 @@
       "onboard_time": 1702612353,
       "rank": 45,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 199159,
+      "num": 199159,
+      "word": "宋江戴花",
+      "onboard_time": 1703387430,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 199131,
@@ -48091,6 +48139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177241,
+      "num": 177241,
+      "word": "上海警方侦破侵犯芯片技术商业秘密案",
+      "onboard_time": 1703384731,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177191,
       "num": 177191,
       "word": "李羲承 Sweet Venom直拍",
@@ -48689,14 +48745,6 @@
       "onboard_time": 1702216302,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174259,
-      "num": 174259,
-      "word": "上海警方侦破侵犯芯片技术商业秘密案",
-      "onboard_time": 1703384731,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174250,
@@ -51603,6 +51651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160217,
+      "num": 160217,
+      "word": "游客称迪士尼设备故障白排队4小时",
+      "onboard_time": 1703387194,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160195,
       "num": 1169276,
       "word": "89岁奶奶在医院演奏3个月钢琴",
@@ -53633,6 +53689,14 @@
       "onboard_time": 1701354398,
       "rank": 43,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 150122,
+      "num": 150122,
+      "word": "詹姆斯质疑名人堂评选规则",
+      "onboard_time": 1703387312,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 150048,
@@ -55811,14 +55875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139736,
-      "num": 139736,
-      "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
-      "onboard_time": 1703385153,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139694,
       "num": 139694,
       "word": "一闪一闪亮晶晶",
@@ -56177,6 +56233,14 @@
       "onboard_time": 1702448195,
       "rank": 42,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 137722,
+      "num": 137722,
+      "word": "擅长的科目在大学变成了水课",
+      "onboard_time": 1703375425,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 137578,
@@ -56963,6 +57027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131928,
+      "num": 131928,
+      "word": "河南多地宣布部分单位停止供暖",
+      "onboard_time": 1703387430,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131904,
       "num": 522352,
       "word": "元梦之星应该这么玩",
@@ -57033,14 +57105,6 @@
       "onboard_time": 1701571654,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131632,
-      "num": 131632,
-      "word": "擅长的科目在大学变成了水课",
-      "onboard_time": 1703375425,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 131616,
@@ -59323,6 +59387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112101,
+      "num": 112101,
+      "word": "3老头嘴里心里都是云股东",
+      "onboard_time": 1703385870,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112046,
       "num": 112046,
       "word": "信雅达董事长二女儿是Pika创始人",
@@ -59425,6 +59497,14 @@
       "onboard_time": 1702525834,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 110257,
+      "num": 110257,
+      "word": "工作独立后的这几年确实是最幸福的",
+      "onboard_time": 1703387733,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 110207,
@@ -59553,6 +59633,14 @@
       "onboard_time": 1701900194,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 108311,
+      "num": 108311,
+      "word": "这个饺子包的是爱是坚强是家的幸福",
+      "onboard_time": 1703387853,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108146,
@@ -62473,6 +62561,14 @@
       "onboard_time": 1701774036,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46707,
+      "num": 807721,
+      "word": "遇见2023的中国",
+      "onboard_time": 1703386110,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46646,
