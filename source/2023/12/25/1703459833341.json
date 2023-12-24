@@ -1,0 +1,410 @@
+{
+  "runTime": 1703459833341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 578512,
+        "num": 578512,
+        "word": "美国黄石公园检测出僵尸鹿病毒",
+        "onboard_time": 1703421395,
+        "rank": 0,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 560940,
+        "num": 560940,
+        "word": "上海迪士尼发布通知",
+        "onboard_time": 1703427219,
+        "rank": 1,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 19037,
+        "num": 377588,
+        "word": "国产首艘大型邮轮离港首次试运营",
+        "onboard_time": 1703424036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370678,
+        "num": 370678,
+        "word": "男子仅有10万元买下191万的房子后悔",
+        "onboard_time": 1703415337,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361225,
+        "num": 361225,
+        "word": "大众电影删除一念关山编剧采访",
+        "onboard_time": 1703424095,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289280,
+        "num": 289280,
+        "word": "中国化妆品在韩国火了",
+        "onboard_time": 1703422054,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246950,
+        "num": 246950,
+        "word": "原来明星是这么去颈纹的",
+        "onboard_time": 1703434651,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 240259,
+        "num": 240259,
+        "word": "多邻国油炸小绿鸟",
+        "onboard_time": 1703447654,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200165,
+        "num": 200165,
+        "word": "以为是个黑头结果开了刀",
+        "onboard_time": 1703434052,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176691,
+        "num": 176691,
+        "word": "黄绮珊 没有孩子是我的人生遗憾",
+        "onboard_time": 1703417314,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406414,
+        "num": 175185,
+        "word": "杭州女子刷视频发现老公另有2妻3娃",
+        "onboard_time": 1703429562,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318388,
+        "num": 171486,
+        "word": "一儿童在上海迪士尼被游览车撞倒",
+        "onboard_time": 1703428780,
+        "rank": 11,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 284636,
+        "num": 168079,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229037,
+        "num": 162983,
+        "word": "霍启刚回应向甘肃捐款7000万",
+        "onboard_time": 1703418755,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162618,
+        "num": 162618,
+        "word": "苹果 折叠手机",
+        "onboard_time": 1703418092,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162499,
+        "num": 162499,
+        "word": "厌蠢症",
+        "onboard_time": 1703426018,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148898,
+        "num": 148898,
+        "word": "主持人大赛冠军",
+        "onboard_time": 1703426199,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132820,
+        "num": 132820,
+        "word": "原来福宝这么大只了啊",
+        "onboard_time": 1703430036,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121815,
+        "num": 121815,
+        "word": "李明德 共生关系",
+        "onboard_time": 1703423376,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106964,
+        "num": 106964,
+        "word": "陈都灵跳舞 学霸的自信",
+        "onboard_time": 1703421515,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109685,
+        "num": 95949,
+        "word": "坚持三天你会越减越舒服",
+        "onboard_time": 1703444954,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 81305,
+        "num": 81305,
+        "word": "柯南全员说中文",
+        "onboard_time": 1703429619,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79354,
+        "num": 79354,
+        "word": "邓为卷毛",
+        "onboard_time": 1703424700,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74142,
+        "num": 74142,
+        "word": "你还过平安夜吗",
+        "onboard_time": 1703450533,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73308,
+        "num": 73308,
+        "word": "今年考研压力都没这个司机大",
+        "onboard_time": 1703428062,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70137,
+        "num": 70137,
+        "word": "王鹤棣抱花",
+        "onboard_time": 1703425538,
+        "rank": 25,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 69470,
+        "num": 69470,
+        "word": "小米就某芯片公司事件辟谣",
+        "onboard_time": 1703422894,
+        "rank": 26,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 67797,
+        "num": 67797,
+        "word": "原来分享欲不是喜欢",
+        "onboard_time": 1703428721,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67331,
+        "num": 67331,
+        "word": "山东蓬莱海面现海滋奇观",
+        "onboard_time": 1703459482,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61280,
+        "num": 61280,
+        "word": "苏有朋说前十场演唱会零片酬",
+        "onboard_time": 1703434411,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139439,
+        "num": 61181,
+        "word": "女子花60多万找闺蜜代购5只包是假的",
+        "onboard_time": 1703453054,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81739,
+        "num": 61162,
+        "word": "张新成的头比雷佳音还大",
+        "onboard_time": 1703459302,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64638,
+        "num": 61134,
+        "word": "民众手持白菊悼念朱令",
+        "onboard_time": 1703413354,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61023,
+        "num": 61023,
+        "word": "15岁孙子重度抑郁爷奶掏所有钱帮治",
+        "onboard_time": 1703412936,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57778,
+        "num": 57778,
+        "word": "考研结束收到了暗恋对象的表白",
+        "onboard_time": 1703424577,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57537,
+        "num": 57537,
+        "word": "2023国产烂片爆笑盘点",
+        "onboard_time": 1703418934,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50296,
+        "num": 50296,
+        "word": "肖战 拍戏外没有其他安排",
+        "onboard_time": 1703405431,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49538,
+        "num": 49538,
+        "word": "我和我妈的审美统一了",
+        "onboard_time": 1703443036,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44881,
+        "num": 44881,
+        "word": "花饽饽龙年限定款也太可爱了",
+        "onboard_time": 1703459482,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44667,
+        "num": 44667,
+        "word": "饶雪漫的选角眼光",
+        "onboard_time": 1703439621,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44600,
+        "num": 44600,
+        "word": "这一年里关于爱的瞬间",
+        "onboard_time": 1703459606,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44315,
+        "num": 44315,
+        "word": "李明德说了我想说的",
+        "onboard_time": 1703422656,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44173,
+        "num": 44173,
+        "word": "小米汽车",
+        "onboard_time": 1703427277,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44160,
+        "num": 44160,
+        "word": "赵露思cos英雄联盟格温",
+        "onboard_time": 1703415935,
+        "rank": 43,
+        "category": "作品衍生,电竞"
+      },
+      {
+        "raw_hot": 42206,
+        "num": 42206,
+        "word": "陕西近万个锅盔送往甘肃",
+        "onboard_time": 1703459723,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40100,
+        "num": 40100,
+        "word": "一念关山被骂癫剧冤吗",
+        "onboard_time": 1703422117,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39471,
+        "num": 39471,
+        "word": "新疆的猫都会扭脖子",
+        "onboard_time": 1703432736,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39205,
+        "num": 39205,
+        "word": "追星 谈恋爱",
+        "onboard_time": 1703424218,
+        "rank": 47,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 38479,
+        "num": 38479,
+        "word": "张馨予皮炎",
+        "onboard_time": 1703403932,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37323,
+        "num": 37323,
+        "word": "村BA广东站现场惊现民星姚明",
+        "onboard_time": 1703459723,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}

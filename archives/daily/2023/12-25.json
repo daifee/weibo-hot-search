@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703457224008,
+  "endTime": 1703459833341,
   "band_list": [
     {
       "raw_hot": 1541011,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 361225,
+      "num": 361225,
+      "word": "大众电影删除一念关山编剧采访",
+      "onboard_time": 1703424095,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 351075,
       "num": 351075,
       "word": "2023国产烂片爆笑盘点",
@@ -177,6 +185,14 @@
       "onboard_time": 1703421515,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240259,
+      "num": 240259,
+      "word": "多邻国油炸小绿鸟",
+      "onboard_time": 1703447654,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 229027,
@@ -283,12 +299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139735,
-      "num": 139735,
-      "word": "大众电影删除一念关山编剧采访",
-      "onboard_time": 1703424095,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 139439,
+      "num": 61181,
+      "word": "女子花60多万找闺蜜代购5只包是假的",
+      "onboard_time": 1703453054,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136919,
@@ -347,20 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116490,
-      "num": 116490,
-      "word": "多邻国油炸小绿鸟",
-      "onboard_time": 1703447654,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 115163,
       "num": 115163,
       "word": "边伯贤直播再唱初雪",
       "onboard_time": 1703430398,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109685,
+      "num": 95949,
+      "word": "坚持三天你会越减越舒服",
+      "onboard_time": 1703444954,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 106983,
@@ -411,12 +427,36 @@
       "category": "教育"
     },
     {
-      "raw_hot": 75801,
-      "num": 28747,
-      "word": "女子花60多万找闺蜜代购5只包是假的",
-      "onboard_time": 1703453054,
+      "raw_hot": 81739,
+      "num": 61162,
+      "word": "张新成的头比雷佳音还大",
+      "onboard_time": 1703459302,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74142,
+      "num": 74142,
+      "word": "你还过平安夜吗",
+      "onboard_time": 1703450533,
+      "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67331,
+      "num": 67331,
+      "word": "山东蓬莱海面现海滋奇观",
+      "onboard_time": 1703459482,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57778,
+      "num": 57778,
+      "word": "考研结束收到了暗恋对象的表白",
+      "onboard_time": 1703424577,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 49704,
@@ -427,35 +467,43 @@
       "category": "美食"
     },
     {
-      "raw_hot": 46485,
-      "num": 46485,
-      "word": "考研结束收到了暗恋对象的表白",
-      "onboard_time": 1703424577,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 49538,
+      "num": 49538,
+      "word": "我和我妈的审美统一了",
+      "onboard_time": 1703443036,
+      "rank": 40,
+      "category": "电影"
     },
     {
-      "raw_hot": 42875,
-      "num": 42875,
+      "raw_hot": 44881,
+      "num": 44881,
+      "word": "花饽饽龙年限定款也太可爱了",
+      "onboard_time": 1703459482,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44667,
+      "num": 44667,
       "word": "饶雪漫的选角眼光",
       "onboard_time": 1703439621,
       "rank": 33,
       "category": "剧集"
     },
     {
-      "raw_hot": 40237,
-      "num": 40237,
-      "word": "坚持三天你会越减越舒服",
-      "onboard_time": 1703444954,
-      "rank": 49,
-      "category": "运动健身"
+      "raw_hot": 44600,
+      "num": 44600,
+      "word": "这一年里关于爱的瞬间",
+      "onboard_time": 1703459606,
+      "rank": 40,
+      "category": "情感"
     },
     {
-      "raw_hot": 39614,
-      "num": 39614,
-      "word": "你还过平安夜吗",
-      "onboard_time": 1703450533,
-      "rank": 22,
+      "raw_hot": 42206,
+      "num": 42206,
+      "word": "陕西近万个锅盔送往甘肃",
+      "onboard_time": 1703459723,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -467,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37323,
+      "num": 37323,
+      "word": "村BA广东站现场惊现民星姚明",
+      "onboard_time": 1703459723,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23974,
       "num": 29508,
       "word": "狼队vs切尔西",
@@ -475,19 +531,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21911,
-      "num": 21911,
-      "word": "我和我妈的审美统一了",
-      "onboard_time": 1703443036,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 20006,
       "num": 20006,
       "word": "2023年最后一周",
       "onboard_time": 1703452515,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19037,
+      "num": 377588,
+      "word": "国产首艘大型邮轮离港首次试运营",
+      "onboard_time": 1703424036,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
