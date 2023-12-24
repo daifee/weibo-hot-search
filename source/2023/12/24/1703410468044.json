@@ -1,0 +1,410 @@
+{
+  "runTime": 1703410468044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2583518,
+        "num": 2583518,
+        "word": "滦州地震",
+        "onboard_time": 1703408678,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2576737,
+        "num": 2576737,
+        "word": "考研结束",
+        "onboard_time": 1703407894,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45047,
+        "num": 2245752,
+        "word": "在声音中回首一起走过的2023",
+        "onboard_time": 1703402370,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2060939,
+        "num": 2060939,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1413816,
+        "num": 1413816,
+        "word": "考研弃考",
+        "onboard_time": 1703406332,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 868703,
+        "num": 868703,
+        "word": "女网红因甘肃地震不当言论被禁言30天",
+        "onboard_time": 1703407052,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739385,
+        "num": 739385,
+        "word": "进入25考研时代",
+        "onboard_time": 1703408916,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 686745,
+        "num": 686745,
+        "word": "黄奕七套礼服全穿不上求助网友",
+        "onboard_time": 1703406332,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 672502,
+        "num": 672502,
+        "word": "一路生花",
+        "onboard_time": 1703408256,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 597097,
+        "num": 640326,
+        "word": "金智媛睡六个小时被说瞌睡虫",
+        "onboard_time": 1703406693,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1221099,
+        "num": 640252,
+        "word": "朱令讣告",
+        "onboard_time": 1703396252,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082978,
+        "num": 638102,
+        "word": "张馨予皮炎",
+        "onboard_time": 1703403932,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631758,
+        "num": 631758,
+        "word": "肖战 拍戏外没有其他安排",
+        "onboard_time": 1703405431,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 607680,
+        "num": 607680,
+        "word": "法综 我自己编笑了",
+        "onboard_time": 1703410117,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 600415,
+        "num": 600415,
+        "word": "数一才是最猛的1",
+        "onboard_time": 1703390733,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 544366,
+        "num": 544366,
+        "word": "王曼昱3比2孙颖莎",
+        "onboard_time": 1703408678,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499972,
+        "num": 499972,
+        "word": "男朋友考研 我好无助",
+        "onboard_time": 1703400872,
+        "rank": 16,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 498205,
+        "num": 498205,
+        "word": "陶勇",
+        "onboard_time": 1703409815,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 466798,
+        "num": 466798,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 444516,
+        "num": 444516,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 442409,
+        "num": 442409,
+        "word": "在上海吃饭 震撼",
+        "onboard_time": 1703404651,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 436625,
+        "num": 436625,
+        "word": "408 看不懂中文了",
+        "onboard_time": 1703409995,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 405416,
+        "num": 405416,
+        "word": "Last Christmas",
+        "onboard_time": 1703407654,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338720,
+        "num": 338720,
+        "word": "女子酒店凌晨被男店员刷开房门",
+        "onboard_time": 1703393617,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316208,
+        "num": 316208,
+        "word": "医生提醒这2种香蕉尽量别碰",
+        "onboard_time": 1703405794,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300124,
+        "num": 300124,
+        "word": "SM真的什么都保存起来了",
+        "onboard_time": 1703400510,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 274531,
+        "num": 274531,
+        "word": "洗牙是智商税吗",
+        "onboard_time": 1703405794,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268338,
+        "num": 268338,
+        "word": "朱令再见",
+        "onboard_time": 1703399190,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241263,
+        "num": 241263,
+        "word": "易烊千玺的饺子",
+        "onboard_time": 1703399551,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229102,
+        "num": 229102,
+        "word": "男孩患白血病妈妈面对意外钱财拾金不昧",
+        "onboard_time": 1703408797,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 228689,
+        "num": 228689,
+        "word": "张靓颖被虫子吓出E6",
+        "onboard_time": 1703409335,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217570,
+        "num": 217570,
+        "word": "6男子吃火锅一氧化碳中毒3死3伤",
+        "onboard_time": 1703409635,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207093,
+        "num": 207093,
+        "word": "出真题",
+        "onboard_time": 1703409876,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199025,
+        "num": 199025,
+        "word": "偶遇王嘉尔边伯贤",
+        "onboard_time": 1703410235,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196393,
+        "num": 196393,
+        "word": "带猫去猫咖后的反应",
+        "onboard_time": 1703401412,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202313,
+        "num": 195266,
+        "word": "圣诞果",
+        "onboard_time": 1703403390,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193641,
+        "num": 193641,
+        "word": "seventeen粉丝曼谷失联",
+        "onboard_time": 1703401833,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187107,
+        "num": 187107,
+        "word": "中国女子在日本滑雪被雪掩埋不幸去世",
+        "onboard_time": 1703394336,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185669,
+        "num": 185669,
+        "word": "内耗的人身上都有一个问题",
+        "onboard_time": 1703400872,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180360,
+        "num": 180360,
+        "word": "平安夜文案",
+        "onboard_time": 1703405853,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175512,
+        "num": 175512,
+        "word": "照片被男朋友拍成了山顶洞人",
+        "onboard_time": 1703401352,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167001,
+        "num": 167001,
+        "word": "一念关山编剧回应争议",
+        "onboard_time": 1703398831,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151053,
+        "num": 151053,
+        "word": "中国人过的平安夜是祖国的胜利夜",
+        "onboard_time": 1703394814,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148356,
+        "num": 148356,
+        "word": "AG对战狼队",
+        "onboard_time": 1703400752,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148236,
+        "num": 148236,
+        "word": "管泽元余霜婚礼",
+        "onboard_time": 1703393917,
+        "rank": 44,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 148200,
+        "num": 148200,
+        "word": "迪士尼",
+        "onboard_time": 1703401234,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140056,
+        "num": 140056,
+        "word": "羽绒内胆 绝配内搭",
+        "onboard_time": 1703410358,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 133804,
+        "num": 133804,
+        "word": "妖刀顶级绕后",
+        "onboard_time": 1703408318,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133354,
+        "num": 133354,
+        "word": "张凌赫雨中撑伞路透",
+        "onboard_time": 1703410358,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130029,
+        "num": 130029,
+        "word": "考研",
+        "onboard_time": 1703386353,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设宜居宜业和美乡村#"
+    }
+  }
+}

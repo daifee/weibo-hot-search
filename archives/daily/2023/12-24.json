@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703409420544,
+  "endTime": 1703410468044,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -27,6 +27,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2583518,
+      "num": 2583518,
+      "word": "滦州地震",
+      "onboard_time": 1703408678,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2576737,
+      "num": 2576737,
+      "word": "考研结束",
+      "onboard_time": 1703407894,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2060939,
+      "num": 2060939,
+      "word": "周扬青家的圣诞树",
+      "onboard_time": 1703408318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1941666,
       "num": 1183951,
       "word": "曾参与朱令铊中毒抢救诊治医生发声",
@@ -51,16 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1781756,
-      "num": 1781756,
-      "word": "考研结束",
-      "onboard_time": 1703407894,
-      "rank": 0,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1770493,
-      "num": 614131,
+      "num": 638102,
       "word": "张馨予皮炎",
       "onboard_time": 1703403932,
       "rank": 4,
@@ -105,22 +121,6 @@
       "onboard_time": 1703406332,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1423459,
-      "num": 633812,
-      "word": "周扬青家的圣诞树",
-      "onboard_time": 1703408318,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1290017,
-      "num": 1290017,
-      "word": "滦州地震",
-      "onboard_time": 1703408678,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1214349,
@@ -203,8 +203,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 852783,
-      "num": 852783,
+      "raw_hot": 868703,
+      "num": 868703,
       "word": "女网红因甘肃地震不当言论被禁言30天",
       "onboard_time": 1703407052,
       "rank": 4,
@@ -273,6 +273,14 @@
       "onboard_time": 1703384011,
       "rank": 12,
       "category": "数码,社会新闻"
+    },
+    {
+      "raw_hot": 739385,
+      "num": 739385,
+      "word": "进入25考研时代",
+      "onboard_time": 1703408916,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 728813,
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607680,
+      "num": 607680,
+      "word": "法综 我自己编笑了",
+      "onboard_time": 1703410117,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 596978,
       "num": 596978,
       "word": "法硕 汗流浃背",
@@ -427,14 +443,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 533880,
-      "num": 533880,
-      "word": "进入25考研时代",
-      "onboard_time": 1703408916,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 533044,
       "num": 533044,
       "word": "长期戴口罩容易肺结节吗",
@@ -489,6 +497,14 @@
       "onboard_time": 1703376026,
       "rank": 4,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 498205,
+      "num": 498205,
+      "word": "陶勇",
+      "onboard_time": 1703409815,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 495795,
@@ -561,6 +577,14 @@
       "onboard_time": 1703379087,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436625,
+      "num": 436625,
+      "word": "408 看不懂中文了",
+      "onboard_time": 1703409995,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 420109,
@@ -971,6 +995,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229102,
+      "num": 229102,
+      "word": "男孩患白血病妈妈面对意外钱财拾金不昧",
+      "onboard_time": 1703408797,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 228689,
+      "num": 228689,
+      "word": "张靓颖被虫子吓出E6",
+      "onboard_time": 1703409335,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228456,
       "num": 228456,
       "word": "国家卫健委新闻发布会",
@@ -1011,6 +1051,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 217570,
+      "num": 217570,
+      "word": "6男子吃火锅一氧化碳中毒3死3伤",
+      "onboard_time": 1703409635,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215493,
       "num": 215493,
       "word": "李永乐爷爷 八十岁还在工作",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1703356339,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207093,
+      "num": 207093,
+      "word": "出真题",
+      "onboard_time": 1703409876,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 206054,
@@ -1091,6 +1147,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 199025,
+      "num": 199025,
+      "word": "偶遇王嘉尔边伯贤",
+      "onboard_time": 1703410235,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197527,
       "num": 197527,
       "word": "内娱活人不如顶级素人",
@@ -1113,14 +1177,6 @@
       "onboard_time": 1703405196,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194311,
-      "num": 194311,
-      "word": "男孩患白血病妈妈面对意外钱财拾金不昧",
-      "onboard_time": 1703408797,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 191878,
@@ -1483,6 +1539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140056,
+      "num": 140056,
+      "word": "羽绒内胆 绝配内搭",
+      "onboard_time": 1703410358,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 139320,
       "num": 139320,
       "word": "金靖女团舞",
@@ -1569,6 +1633,14 @@
       "onboard_time": 1703393737,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133354,
+      "num": 133354,
+      "word": "张凌赫雨中撑伞路透",
+      "onboard_time": 1703410358,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133196,
@@ -1673,14 +1745,6 @@
       "onboard_time": 1703392959,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 125926,
-      "num": 125926,
-      "word": "张靓颖被虫子吓出E6",
-      "onboard_time": 1703409335,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 125475,
@@ -2068,7 +2132,7 @@
     },
     {
       "raw_hot": 52366,
-      "num": 1358411,
+      "num": 2245752,
       "word": "在声音中回首一起走过的2023",
       "onboard_time": 1703402370,
       "rank": 2,
