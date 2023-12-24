@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703403239451,
+  "endTime": 1703406030023,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1856821,
+      "num": 1856821,
+      "word": "男朋友考研 我好无助",
+      "onboard_time": 1703400872,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1796415,
       "num": 1796415,
       "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
       "onboard_time": 1703385153,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1756316,
+      "num": 614131,
+      "word": "张馨予皮炎",
+      "onboard_time": 1703403932,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1671674,
@@ -57,14 +73,6 @@
       "onboard_time": 1703393617,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1608744,
-      "num": 1608744,
-      "word": "男朋友考研 我好无助",
-      "onboard_time": 1703400872,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 1574803,
@@ -145,6 +153,14 @@
       "onboard_time": 1703394336,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931610,
+      "num": 647678,
+      "word": "肖战 拍戏外没有其他安排",
+      "onboard_time": 1703405431,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 914980,
@@ -435,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443750,
+      "num": 443750,
+      "word": "圣诞果",
+      "onboard_time": 1703403390,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 420109,
       "num": 420109,
       "word": "宋江戴花",
@@ -443,8 +467,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 412979,
-      "num": 412979,
+      "raw_hot": 415645,
+      "num": 415645,
       "word": "用退休金贴补卖5角钱早餐的奶奶去世了",
       "onboard_time": 1703400152,
       "rank": 14,
@@ -523,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 361428,
+      "num": 361428,
+      "word": "带猫去猫咖后的反应",
+      "onboard_time": 1703401412,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 353799,
       "num": 353799,
       "word": "游客称迪士尼设备故障白排队4小时",
@@ -571,8 +603,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 330945,
-      "num": 330945,
+      "raw_hot": 332074,
+      "num": 332074,
       "word": "迪士尼",
       "onboard_time": 1703401234,
       "rank": 25,
@@ -601,6 +633,14 @@
       "onboard_time": 1703396192,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314123,
+      "num": 314123,
+      "word": "考研当天早上睡过了",
+      "onboard_time": 1703402671,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 307972,
@@ -681,14 +721,6 @@
       "onboard_time": 1703399190,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280252,
-      "num": 280252,
-      "word": "带猫去猫咖后的反应",
-      "onboard_time": 1703401412,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 274191,
@@ -787,14 +819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 238897,
-      "num": 161306,
-      "word": "考研当天早上睡过了",
-      "onboard_time": 1703402671,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237479,
       "num": 237479,
       "word": "内耗的人身上都有一个问题",
@@ -817,6 +841,30 @@
       "onboard_time": 1703346692,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234259,
+      "num": 234259,
+      "word": "深圳千万级豪宅日光",
+      "onboard_time": 1703403211,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 232230,
+      "num": 232230,
+      "word": "疯狂动物城热力追踪 停运",
+      "onboard_time": 1703403692,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230050,
+      "num": 206175,
+      "word": "在上海吃饭 震撼",
+      "onboard_time": 1703404651,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 228456,
@@ -857,6 +905,22 @@
       "onboard_time": 1703341060,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 215493,
+      "num": 215493,
+      "word": "李永乐爷爷 八十岁还在工作",
+      "onboard_time": 1703404411,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 214260,
+      "num": 214260,
+      "word": "医生提醒这2种香蕉尽量别碰",
+      "onboard_time": 1703405794,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214177,
@@ -931,6 +995,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196113,
+      "num": 196113,
+      "word": "中国人过的平安夜是祖国的胜利夜",
+      "onboard_time": 1703394814,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 195184,
+      "num": 195184,
+      "word": "时代少年团湖南跨晚宣传片",
+      "onboard_time": 1703405196,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191878,
       "num": 191878,
       "word": "AG对战狼队",
@@ -945,6 +1025,14 @@
       "onboard_time": 1703401531,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189316,
+      "num": 189316,
+      "word": "洗牙是智商税吗",
+      "onboard_time": 1703405794,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186561,
@@ -1019,14 +1107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173001,
-      "num": 173001,
-      "word": "中国人过的平安夜是祖国的胜利夜",
-      "onboard_time": 1703394814,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 172190,
       "num": 172190,
       "word": "一念关山 be",
@@ -1049,6 +1129,14 @@
       "onboard_time": 1703325457,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167206,
+      "num": 167206,
+      "word": "陈楚生 2023最后一首悲伤的歌",
+      "onboard_time": 1703405431,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166803,
@@ -1081,6 +1169,14 @@
       "onboard_time": 1703345554,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161838,
+      "num": 161838,
+      "word": "辛芷蕾 90年代港风美人",
+      "onboard_time": 1703404954,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 159299,
@@ -1147,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152001,
+      "num": 152001,
+      "word": "几百年前的西瓜什么样",
+      "onboard_time": 1703404291,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 151823,
       "num": 151823,
       "word": "李现跳舞",
@@ -1169,6 +1273,14 @@
       "onboard_time": 1703334214,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149383,
+      "num": 149383,
+      "word": "师妹教博士师兄怎么谈恋爱",
+      "onboard_time": 1703405133,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 148977,
@@ -1203,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143416,
+      "num": 143416,
+      "word": "广电行业颁奖晚会明天开幕",
+      "onboard_time": 1703404834,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141966,
       "num": 141966,
       "word": "KSG战胜TTG",
@@ -1235,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140062,
+      "num": 140062,
+      "word": "郁可唯演唱会冷到跳热身操",
+      "onboard_time": 1703403572,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139320,
       "num": 139320,
       "word": "金靖女团舞",
@@ -1256,6 +1384,14 @@
       "word": "擅长的科目在大学变成了水课",
       "onboard_time": 1703375425,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 135621,
+      "num": 135621,
+      "word": "平安夜文案",
+      "onboard_time": 1703405853,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -1361,6 +1497,14 @@
       "onboard_time": 1703395893,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129786,
+      "num": 129786,
+      "word": "这演技纳入北影教材",
+      "onboard_time": 1703404172,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 129158,
@@ -1507,20 +1651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117596,
+      "num": 117596,
+      "word": "丁程鑫即兴弹尤克里里",
+      "onboard_time": 1703404954,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117501,
+      "num": 117501,
+      "word": "礼物 爱的具象化",
+      "onboard_time": 1703404773,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117372,
       "num": 117372,
       "word": "开合跳瘦上半身",
       "onboard_time": 1703396432,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 117310,
-      "num": 117310,
-      "word": "深圳千万级豪宅日光",
-      "onboard_time": 1703403211,
-      "rank": 44,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 115599,
@@ -1537,6 +1689,14 @@
       "onboard_time": 1703387853,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114694,
+      "num": 114694,
+      "word": "张若昀挨巴掌演技",
+      "onboard_time": 1703404529,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 114129,
@@ -1763,6 +1923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 52366,
+      "num": 727592,
+      "word": "在声音中回首一起走过的2023",
+      "onboard_time": 1703402370,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47304,
       "num": 47304,
       "word": "石家庄大剧院音乐会观众高喊退票",
@@ -1809,14 +1977,6 @@
       "onboard_time": 1703374401,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32473,
-      "num": 727592,
-      "word": "在声音中回首一起走过的2023",
-      "onboard_time": 1703402370,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29324,
