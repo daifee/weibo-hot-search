@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703459833341,
+  "endTime": 1703460854147,
   "band_list": [
     {
       "raw_hot": 1541011,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427410,
+      "num": 427410,
+      "word": "大众电影删除一念关山编剧采访",
+      "onboard_time": 1703424095,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427195,
       "num": 286506,
       "word": "原来明星是这么去颈纹的",
@@ -113,14 +121,6 @@
       "onboard_time": 1703429619,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 361225,
-      "num": 361225,
-      "word": "大众电影删除一念关山编剧采访",
-      "onboard_time": 1703424095,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 351075,
@@ -145,6 +145,14 @@
       "onboard_time": 1703426199,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320469,
+      "num": 320469,
+      "word": "多邻国油炸小绿鸟",
+      "onboard_time": 1703447654,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 305012,
@@ -187,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240259,
-      "num": 240259,
-      "word": "多邻国油炸小绿鸟",
-      "onboard_time": 1703447654,
-      "rank": 25,
-      "category": "教育"
+      "raw_hot": 236675,
+      "num": 202020,
+      "word": "教育局通报小学教师殴打学生致脑震荡",
+      "onboard_time": 1703460082,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 229027,
@@ -225,6 +233,14 @@
       "onboard_time": 1703434411,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172866,
+      "num": 172866,
+      "word": "张新成的头比雷佳音还大",
+      "onboard_time": 1703459302,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 172785,
@@ -267,12 +283,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162131,
+      "num": 162131,
+      "word": "女子花60多万找闺蜜代购5只包是假的",
+      "onboard_time": 1703453054,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161296,
       "num": 161296,
       "word": "羽生结弦 Goliath",
       "onboard_time": 1703423856,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150364,
+      "num": 150364,
+      "word": "坚持三天你会越减越舒服",
+      "onboard_time": 1703444954,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148142,
@@ -299,20 +331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139439,
-      "num": 61181,
-      "word": "女子花60多万找闺蜜代购5只包是假的",
-      "onboard_time": 1703453054,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136919,
       "num": 136919,
       "word": "克罗斯 续约",
       "onboard_time": 1703433214,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134875,
+      "num": 91412,
+      "word": "郭敬明 大梦归离原始帧",
+      "onboard_time": 1703460445,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 130032,
@@ -363,20 +395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117058,
+      "num": 117058,
+      "word": "山东蓬莱海面现海滋奇观",
+      "onboard_time": 1703459482,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115163,
       "num": 115163,
       "word": "边伯贤直播再唱初雪",
       "onboard_time": 1703430398,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109685,
-      "num": 95949,
-      "word": "坚持三天你会越减越舒服",
-      "onboard_time": 1703444954,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 106983,
@@ -419,6 +451,30 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 90221,
+      "num": 90221,
+      "word": "这一年里关于爱的瞬间",
+      "onboard_time": 1703459606,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88790,
+      "num": 88790,
+      "word": "陈都灵 美艳女妖",
+      "onboard_time": 1703460685,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87662,
+      "num": 87662,
+      "word": "你还过平安夜吗",
+      "onboard_time": 1703450533,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87613,
       "num": 87613,
       "word": "考研答案",
@@ -427,36 +483,68 @@
       "category": "教育"
     },
     {
-      "raw_hot": 81739,
-      "num": 61162,
-      "word": "张新成的头比雷佳音还大",
-      "onboard_time": 1703459302,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 83976,
+      "num": 83976,
+      "word": "上班睡觉被辞退能拿到赔偿吗",
+      "onboard_time": 1703460505,
+      "rank": 34,
+      "category": "幽默"
     },
     {
-      "raw_hot": 74142,
-      "num": 74142,
-      "word": "你还过平安夜吗",
-      "onboard_time": 1703450533,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67331,
-      "num": 67331,
-      "word": "山东蓬莱海面现海滋奇观",
-      "onboard_time": 1703459482,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57778,
-      "num": 57778,
+      "raw_hot": 70641,
+      "num": 70641,
       "word": "考研结束收到了暗恋对象的表白",
       "onboard_time": 1703424577,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 66161,
+      "num": 66161,
+      "word": "金靖一比一复刻昨天女团妆",
+      "onboard_time": 1703460806,
+      "rank": 39,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 62592,
+      "num": 62592,
+      "word": "村BA广东站现场惊现民星姚明",
+      "onboard_time": 1703459723,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62085,
+      "num": 62085,
+      "word": "大众电影删除关于一念关山编剧采访",
+      "onboard_time": 1703460566,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 55340,
+      "num": 55340,
+      "word": "我和我妈的审美统一了",
+      "onboard_time": 1703443036,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 55219,
+      "num": 55219,
+      "word": "饶雪漫的选角眼光",
+      "onboard_time": 1703439621,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52161,
+      "num": 52161,
+      "word": "女生晒妈妈给带的饭",
+      "onboard_time": 1703460626,
+      "rank": 49,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 49704,
@@ -467,36 +555,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 49538,
-      "num": 49538,
-      "word": "我和我妈的审美统一了",
-      "onboard_time": 1703443036,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 44881,
       "num": 44881,
       "word": "花饽饽龙年限定款也太可爱了",
       "onboard_time": 1703459482,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44667,
-      "num": 44667,
-      "word": "饶雪漫的选角眼光",
-      "onboard_time": 1703439621,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 44600,
-      "num": 44600,
-      "word": "这一年里关于爱的瞬间",
-      "onboard_time": 1703459606,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 42206,
@@ -515,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37323,
-      "num": 37323,
-      "word": "村BA广东站现场惊现民星姚明",
-      "onboard_time": 1703459723,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 34113,
+      "num": 488350,
+      "word": "国产首艘大型邮轮离港首次试运营",
+      "onboard_time": 1703424036,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23974,
@@ -536,14 +600,6 @@
       "word": "2023年最后一周",
       "onboard_time": 1703452515,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19037,
-      "num": 377588,
-      "word": "国产首艘大型邮轮离港首次试运营",
-      "onboard_time": 1703424036,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
