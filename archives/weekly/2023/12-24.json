@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703406860271,
+  "endTime": 1703409420544,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -51,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1781756,
+      "num": 1781756,
+      "word": "考研结束",
+      "onboard_time": 1703407894,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1770493,
       "num": 614131,
       "word": "张馨予皮炎",
@@ -89,6 +97,30 @@
       "onboard_time": 1703391334,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1436551,
+      "num": 1436551,
+      "word": "考研弃考",
+      "onboard_time": 1703406332,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1423459,
+      "num": 633812,
+      "word": "周扬青家的圣诞树",
+      "onboard_time": 1703408318,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1290017,
+      "num": 1290017,
+      "word": "滦州地震",
+      "onboard_time": 1703408678,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1214349,
@@ -171,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852783,
+      "num": 852783,
+      "word": "女网红因甘肃地震不当言论被禁言30天",
+      "onboard_time": 1703407052,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 841661,
       "num": 841661,
       "word": "可可西里网红狼铁饭碗被端",
@@ -179,12 +219,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 813029,
+      "num": 813029,
+      "word": "一路生花",
+      "onboard_time": 1703408256,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 810710,
       "num": 810710,
       "word": "郭晶晶霍启刚 捐款7000万",
       "onboard_time": 1703336015,
       "rank": 3,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 808178,
+      "num": 808178,
+      "word": "黄奕七套礼服全穿不上求助网友",
+      "onboard_time": 1703406332,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 802705,
@@ -243,12 +299,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 700133,
+      "num": 700133,
+      "word": "金智媛睡六个小时被说瞌睡虫",
+      "onboard_time": 1703406693,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 661551,
       "num": 661551,
       "word": "甜馨 差不多十几年没看见嗯哼了",
       "onboard_time": 1703336138,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 648811,
+      "num": 648811,
+      "word": "王曼昱3比2孙颖莎",
+      "onboard_time": 1703408678,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 648001,
@@ -347,6 +419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540564,
+      "num": 540564,
+      "word": "在上海吃饭 震撼",
+      "onboard_time": 1703404651,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 533880,
+      "num": 533880,
+      "word": "进入25考研时代",
+      "onboard_time": 1703408916,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 533044,
       "num": 533044,
       "word": "长期戴口罩容易肺结节吗",
@@ -441,6 +529,14 @@
       "onboard_time": 1703401412,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 451462,
+      "num": 451462,
+      "word": "Last Christmas",
+      "onboard_time": 1703407654,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 450830,
@@ -563,28 +659,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350220,
-      "num": 350220,
-      "word": "黄奕七套礼服全穿不上求助网友",
-      "onboard_time": 1703406332,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 349864,
       "num": 349864,
       "word": "平安夜",
       "onboard_time": 1703379330,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 346005,
-      "num": 346005,
-      "word": "在上海吃饭 震撼",
-      "onboard_time": 1703404651,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 344960,
@@ -651,8 +731,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 315510,
-      "num": 304155,
+      "raw_hot": 316564,
+      "num": 316564,
       "word": "医生提醒这2种香蕉尽量别碰",
       "onboard_time": 1703405794,
       "rank": 28,
@@ -747,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280149,
-      "num": 280149,
-      "word": "考研弃考",
-      "onboard_time": 1703406332,
-      "rank": 23,
-      "category": "教育"
+      "raw_hot": 276773,
+      "num": 276773,
+      "word": "洗牙是智商税吗",
+      "onboard_time": 1703405794,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274191,
@@ -817,14 +897,6 @@
       "onboard_time": 1703391634,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248887,
-      "num": 248887,
-      "word": "洗牙是智商税吗",
-      "onboard_time": 1703405794,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 248070,
@@ -1043,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194311,
+      "num": 194311,
+      "word": "男孩患白血病妈妈面对意外钱财拾金不昧",
+      "onboard_time": 1703408797,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 191878,
       "num": 191878,
       "word": "AG对战狼队",
@@ -1131,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172942,
-      "num": 172942,
-      "word": "金智媛睡六个小时被说瞌睡虫",
-      "onboard_time": 1703406693,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172190,
       "num": 172190,
       "word": "一念关山 be",
@@ -1179,6 +1251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 166107,
+      "num": 166107,
+      "word": "妖刀顶级绕后",
+      "onboard_time": 1703408318,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165085,
       "num": 162855,
       "word": "张宇 考研数学有两点跟大家分享",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1703404954,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159671,
+      "num": 159671,
+      "word": "蒯曼陈梦3比2范思琦钱天一",
+      "onboard_time": 1703407713,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 159299,
@@ -1403,6 +1491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138971,
+      "num": 138971,
+      "word": "手语手套",
+      "onboard_time": 1703408797,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 137820,
       "num": 137820,
       "word": "考研数学考前提示",
@@ -1577,6 +1673,14 @@
       "onboard_time": 1703392959,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 125926,
+      "num": 125926,
+      "word": "张靓颖被虫子吓出E6",
+      "onboard_time": 1703409335,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 125475,
@@ -1964,7 +2068,7 @@
     },
     {
       "raw_hot": 52366,
-      "num": 727592,
+      "num": 1358411,
       "word": "在声音中回首一起走过的2023",
       "onboard_time": 1703402370,
       "rank": 2,

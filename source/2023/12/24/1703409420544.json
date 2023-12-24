@@ -1,0 +1,410 @@
+{
+  "runTime": 1703409420544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1781756,
+        "num": 1781756,
+        "word": "考研结束",
+        "onboard_time": 1703407894,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1436551,
+        "num": 1436551,
+        "word": "考研弃考",
+        "onboard_time": 1703406332,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47951,
+        "num": 1358411,
+        "word": "在声音中回首一起走过的2023",
+        "onboard_time": 1703402370,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1290017,
+        "num": 1290017,
+        "word": "滦州地震",
+        "onboard_time": 1703408678,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852783,
+        "num": 852783,
+        "word": "女网红因甘肃地震不当言论被禁言30天",
+        "onboard_time": 1703407052,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813029,
+        "num": 813029,
+        "word": "一路生花",
+        "onboard_time": 1703408256,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 808178,
+        "num": 808178,
+        "word": "黄奕七套礼服全穿不上求助网友",
+        "onboard_time": 1703406332,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 700133,
+        "num": 700133,
+        "word": "金智媛睡六个小时被说瞌睡虫",
+        "onboard_time": 1703406693,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648811,
+        "num": 648811,
+        "word": "王曼昱3比2孙颖莎",
+        "onboard_time": 1703408678,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634547,
+        "num": 634547,
+        "word": "男朋友考研 我好无助",
+        "onboard_time": 1703400872,
+        "rank": 9,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 1423459,
+        "num": 633812,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1401962,
+        "num": 598385,
+        "word": "张馨予皮炎",
+        "onboard_time": 1703403932,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1376012,
+        "num": 583075,
+        "word": "朱令讣告",
+        "onboard_time": 1703396252,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690590,
+        "num": 569013,
+        "word": "肖战 拍戏外没有其他安排",
+        "onboard_time": 1703405431,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556957,
+        "num": 556957,
+        "word": "十年了 只有郭敬明拍出了真的纸醉金迷",
+        "onboard_time": 1703385153,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 540564,
+        "num": 540564,
+        "word": "在上海吃饭 震撼",
+        "onboard_time": 1703404651,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 533880,
+        "num": 533880,
+        "word": "进入25考研时代",
+        "onboard_time": 1703408916,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 456767,
+        "num": 456767,
+        "word": "女子酒店凌晨被男店员刷开房门",
+        "onboard_time": 1703393617,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451462,
+        "num": 451462,
+        "word": "Last Christmas",
+        "onboard_time": 1703407654,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428477,
+        "num": 428477,
+        "word": "数一才是最猛的1",
+        "onboard_time": 1703390733,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 385837,
+        "num": 385837,
+        "word": "考研数学",
+        "onboard_time": 1703387914,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 344844,
+        "num": 344844,
+        "word": "SM真的什么都保存起来了",
+        "onboard_time": 1703400510,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316564,
+        "num": 316564,
+        "word": "医生提醒这2种香蕉尽量别碰",
+        "onboard_time": 1703405794,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308274,
+        "num": 308274,
+        "word": "朱令再见",
+        "onboard_time": 1703399190,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276773,
+        "num": 276773,
+        "word": "洗牙是智商税吗",
+        "onboard_time": 1703405794,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248460,
+        "num": 248460,
+        "word": "带猫去猫咖后的反应",
+        "onboard_time": 1703401412,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243499,
+        "num": 243499,
+        "word": "易烊千玺的饺子",
+        "onboard_time": 1703399551,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214841,
+        "num": 214841,
+        "word": "seventeen粉丝曼谷失联",
+        "onboard_time": 1703401833,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342752,
+        "num": 207239,
+        "word": "圣诞果",
+        "onboard_time": 1703403390,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194311,
+        "num": 194311,
+        "word": "男孩患白血病妈妈面对意外钱财拾金不昧",
+        "onboard_time": 1703408797,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 194626,
+        "num": 194136,
+        "word": "一念关山编剧回应争议",
+        "onboard_time": 1703398831,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190840,
+        "num": 190840,
+        "word": "中国女子在日本滑雪被雪掩埋不幸去世",
+        "onboard_time": 1703394336,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189757,
+        "num": 189757,
+        "word": "内耗的人身上都有一个问题",
+        "onboard_time": 1703400872,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189692,
+        "num": 189692,
+        "word": "照片被男朋友拍成了山顶洞人",
+        "onboard_time": 1703401352,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179466,
+        "num": 179466,
+        "word": "平安夜文案",
+        "onboard_time": 1703405853,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173254,
+        "num": 173254,
+        "word": "考研",
+        "onboard_time": 1703386353,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166107,
+        "num": 166107,
+        "word": "妖刀顶级绕后",
+        "onboard_time": 1703408318,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159671,
+        "num": 159671,
+        "word": "蒯曼陈梦3比2范思琦钱天一",
+        "onboard_time": 1703407713,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153236,
+        "num": 153236,
+        "word": "迪士尼",
+        "onboard_time": 1703401234,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150834,
+        "num": 150834,
+        "word": "用退休金贴补卖5角钱早餐的奶奶去世了",
+        "onboard_time": 1703400152,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143681,
+        "num": 143681,
+        "word": "中国人过的平安夜是祖国的胜利夜",
+        "onboard_time": 1703394814,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142337,
+        "num": 142337,
+        "word": "刘亦菲 开屏",
+        "onboard_time": 1703384793,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142024,
+        "num": 142024,
+        "word": "管泽元余霜婚礼",
+        "onboard_time": 1703393917,
+        "rank": 42,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 139031,
+        "num": 139031,
+        "word": "考研当天早上睡过了",
+        "onboard_time": 1703402671,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138971,
+        "num": 138971,
+        "word": "手语手套",
+        "onboard_time": 1703408797,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137374,
+        "num": 137374,
+        "word": "陈学冬终于有剧要播了",
+        "onboard_time": 1703394336,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137322,
+        "num": 137322,
+        "word": "李永乐爷爷 八十岁还在工作",
+        "onboard_time": 1703404411,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135031,
+        "num": 135031,
+        "word": "疯狂动物城热力追踪 停运",
+        "onboard_time": 1703403692,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131951,
+        "num": 131951,
+        "word": "深圳千万级豪宅日光",
+        "onboard_time": 1703403211,
+        "rank": 48,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 125926,
+        "num": 125926,
+        "word": "张靓颖被虫子吓出E6",
+        "onboard_time": 1703409335,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}
