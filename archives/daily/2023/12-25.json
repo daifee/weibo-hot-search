@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703468238012,
+  "endTime": 1703471372572,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -9,6 +9,22 @@
       "onboard_time": 1703464356,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2726625,
+      "num": 1245573,
+      "word": "女研究生制售色情书被抓",
+      "onboard_time": 1703468016,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1804098,
+      "num": 1804098,
+      "word": "专科的风还是吹到了麻省理工",
+      "onboard_time": 1703468732,
+      "rank": 0,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 1541011,
@@ -33,6 +49,14 @@
       "onboard_time": 1703460505,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1106559,
+      "num": 1106559,
+      "word": "周一确诊为大娘子",
+      "onboard_time": 1703467413,
+      "rank": 11,
+      "category": "剧集,幽默"
     },
     {
       "raw_hot": 1056666,
@@ -123,6 +147,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 609190,
+      "num": 609190,
+      "word": "男子供养女友及其丈夫一家5年",
+      "onboard_time": 1703469874,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608051,
       "num": 608051,
       "word": "金靖一比一复刻昨天女团妆",
@@ -171,6 +203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 535564,
+      "num": 535564,
+      "word": "被好朋友表白了",
+      "onboard_time": 1703466394,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 528198,
       "num": 300753,
       "word": "李明德 共生关系",
@@ -179,28 +219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 516847,
-      "num": 516847,
-      "word": "周一确诊为大娘子",
-      "onboard_time": 1703467413,
-      "rank": 11,
-      "category": "剧集,幽默"
-    },
-    {
-      "raw_hot": 489665,
-      "num": 489665,
-      "word": "被好朋友表白了",
-      "onboard_time": 1703466394,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 474889,
       "num": 474889,
       "word": "中国化妆品在韩国火了",
       "onboard_time": 1703422054,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 469984,
+      "num": 469984,
+      "word": "肖战北京出发横店",
+      "onboard_time": 1703470232,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 464363,
@@ -241,6 +273,14 @@
       "onboard_time": 1703434651,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 394226,
+      "num": 394226,
+      "word": "小米官宣汽车发布会",
+      "onboard_time": 1703468312,
+      "rank": 15,
+      "category": "汽车"
     },
     {
       "raw_hot": 391143,
@@ -363,8 +403,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256260,
+      "num": 256260,
+      "word": "刘涛也在嗑一璐平安",
+      "onboard_time": 1703470293,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239226,
-      "num": 239226,
+      "num": 395454,
       "word": "新批准国产网游版号达105款",
       "onboard_time": 1703465735,
       "rank": 26,
@@ -377,6 +425,22 @@
       "onboard_time": 1703413354,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223348,
+      "num": 223348,
+      "word": "上海迪士尼疯狂动物城遭遇了什么",
+      "onboard_time": 1703469333,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211643,
+      "num": 211643,
+      "word": "武艺半年不出现 一出现笑半年",
+      "onboard_time": 1703470054,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 207748,
@@ -395,11 +459,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201571,
-      "num": 201571,
-      "word": "女研究生制售色情书被抓",
-      "onboard_time": 1703468016,
-      "rank": 30,
+      "raw_hot": 204946,
+      "num": 204946,
+      "word": "上海迪士尼热力追踪项目恢复运营",
+      "onboard_time": 1703470656,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -411,12 +475,36 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 196409,
+      "num": 196409,
+      "word": "张杰未你好吗跨年演唱会",
+      "onboard_time": 1703470173,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194955,
+      "num": 194955,
+      "word": "上海迪士尼",
+      "onboard_time": 1703471074,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193086,
       "num": 193086,
       "word": "小米汽车",
       "onboard_time": 1703427277,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 187568,
+      "num": 187568,
+      "word": "游戏版号",
+      "onboard_time": 1703471074,
+      "rank": 31,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 183531,
@@ -433,6 +521,14 @@
       "onboard_time": 1703467232,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177807,
+      "num": 177807,
+      "word": "喝两口奶茶不会胖的",
+      "onboard_time": 1703469995,
+      "rank": 32,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 173415,
@@ -507,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164075,
+      "num": 164075,
+      "word": "小猫掉下来被小孩哥接住",
+      "onboard_time": 1703470891,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163568,
       "num": 163568,
       "word": "女子花60多万找闺蜜代购5只包是假的",
@@ -528,6 +632,22 @@
       "word": "国安部发布日常保密注意事项清单",
       "onboard_time": 1703467891,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153469,
+      "num": 153469,
+      "word": "我国成功发射一箭四星",
+      "onboard_time": 1703469693,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 149506,
+      "num": 149506,
+      "word": "文旅部发布元旦春节出游提示",
+      "onboard_time": 1703470414,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -579,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138188,
+      "num": 138188,
+      "word": "不要随意挤痘痘和黑头",
+      "onboard_time": 1703468913,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 136919,
       "num": 136919,
       "word": "克罗斯 续约",
@@ -601,6 +729,14 @@
       "onboard_time": 1703430635,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129006,
+      "num": 129006,
+      "word": "救人外卖小哥说2024活在当下",
+      "onboard_time": 1703469392,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127901,
@@ -788,7 +924,7 @@
     },
     {
       "raw_hot": 53301,
-      "num": 1102865,
+      "num": 1304744,
       "word": "国产首艘大型邮轮离港首次试运营",
       "onboard_time": 1703424036,
       "rank": 2,
