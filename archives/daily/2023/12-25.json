@@ -1,10 +1,10 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703466967919,
+  "endTime": 1703468238012,
   "band_list": [
     {
-      "raw_hot": 2536289,
-      "num": 2536289,
+      "raw_hot": 3059414,
+      "num": 3059414,
       "word": "2024元旦放假安排来了",
       "onboard_time": 1703464356,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 861849,
+      "num": 861849,
+      "word": "结婚16年3娃不是亲生当事人发声",
+      "onboard_time": 1703464174,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 851715,
       "num": 851715,
       "word": "张颂文宋佳 风中有朵雨做的云",
@@ -107,12 +115,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 667945,
-      "num": 667945,
-      "word": "结婚16年3娃不是亲生当事人发声",
-      "onboard_time": 1703464174,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 625785,
+      "num": 625785,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1703465735,
+      "rank": 11,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 608051,
@@ -129,6 +137,14 @@
       "onboard_time": 1703424218,
       "rank": 3,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 586098,
+      "num": 586098,
+      "word": "赵露思剪短发的原因",
+      "onboard_time": 1703466336,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 571273,
@@ -163,12 +179,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 504713,
-      "num": 504713,
-      "word": "本周狗屎运最旺的星座",
-      "onboard_time": 1703465735,
+      "raw_hot": 516847,
+      "num": 516847,
+      "word": "周一确诊为大娘子",
+      "onboard_time": 1703467413,
       "rank": 11,
-      "category": "情感,网红"
+      "category": "剧集,幽默"
+    },
+    {
+      "raw_hot": 489665,
+      "num": 489665,
+      "word": "被好朋友表白了",
+      "onboard_time": 1703466394,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 474889,
@@ -219,20 +243,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 391143,
+      "num": 391143,
+      "word": "孙思邈睡眠法",
+      "onboard_time": 1703464775,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 380766,
       "num": 380766,
       "word": "柯南全员说中文",
       "onboard_time": 1703429619,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 372162,
-      "num": 372162,
-      "word": "孙思邈睡眠法",
-      "onboard_time": 1703464775,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 369244,
@@ -307,6 +331,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 294107,
+      "num": 294107,
+      "word": "游戏版号单次审批数量首次突破百款",
+      "onboard_time": 1703467232,
+      "rank": 22,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 289610,
       "num": 289610,
       "word": "黄绮珊 没有孩子是我的人生遗憾",
@@ -331,20 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257031,
-      "num": 191620,
-      "word": "被好朋友表白了",
-      "onboard_time": 1703466394,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 244599,
-      "num": 244599,
-      "word": "赵露思剪短发的原因",
-      "onboard_time": 1703466336,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 239226,
+      "num": 239226,
+      "word": "新批准国产网游版号达105款",
+      "onboard_time": 1703465735,
+      "rank": 26,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 229027,
@@ -371,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201571,
+      "num": 201571,
+      "word": "女研究生制售色情书被抓",
+      "onboard_time": 1703468016,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197179,
       "num": 189824,
       "word": "水木年华演唱会上怀念朱令",
@@ -393,6 +425,14 @@
       "onboard_time": 1703444954,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 180306,
+      "num": 180306,
+      "word": "初中生帮同学找回被盗自行车",
+      "onboard_time": 1703467232,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173415,
@@ -435,6 +475,14 @@
       "category": "情感,作品衍生"
     },
     {
+      "raw_hot": 167213,
+      "num": 167213,
+      "word": "他刚获得奖学金就全捐给地震灾区",
+      "onboard_time": 1703467232,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166311,
       "num": 166311,
       "word": "王鹤棣抱花",
@@ -451,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 165261,
+      "num": 165261,
+      "word": "这辆猫猫为什么这么大",
+      "onboard_time": 1703467295,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163568,
       "num": 163568,
       "word": "女子花60多万找闺蜜代购5只包是假的",
@@ -465,6 +521,14 @@
       "onboard_time": 1703423856,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159074,
+      "num": 159074,
+      "word": "国安部发布日常保密注意事项清单",
+      "onboard_time": 1703467891,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149091,
@@ -545,6 +609,14 @@
       "onboard_time": 1703432736,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125818,
+      "num": 125818,
+      "word": "小狗味要溢出屏幕",
+      "onboard_time": 1703467112,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 122667,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1703468238012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3059414,
+        "num": 3059414,
+        "word": "2024元旦放假安排来了",
+        "onboard_time": 1703464356,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101762,
+        "num": 1101762,
+        "word": "上班睡觉被辞退能拿到赔偿吗",
+        "onboard_time": 1703460505,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44515,
+        "num": 956812,
+        "word": "国产首艘大型邮轮离港首次试运营",
+        "onboard_time": 1703424036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861849,
+        "num": 861849,
+        "word": "结婚16年3娃不是亲生当事人发声",
+        "onboard_time": 1703464174,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777315,
+        "num": 777315,
+        "word": "伊能静 演员秦昊就是观众的不属于我",
+        "onboard_time": 1703464833,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 710084,
+        "num": 710084,
+        "word": "张颂文宋佳 风中有朵雨做的云",
+        "onboard_time": 1703461949,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 702302,
+        "num": 702302,
+        "word": "陈都灵 美艳女妖",
+        "onboard_time": 1703460685,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701030,
+        "num": 701030,
+        "word": "教育局通报小学教师殴打学生致脑震荡",
+        "onboard_time": 1703460082,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 625785,
+        "num": 625785,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1703465735,
+        "rank": 8,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 601937,
+        "num": 601937,
+        "word": "女子捡到银行卡猜对密码取走4万被抓",
+        "onboard_time": 1703462188,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586098,
+        "num": 586098,
+        "word": "赵露思剪短发的原因",
+        "onboard_time": 1703466336,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 516847,
+        "num": 516847,
+        "word": "周一确诊为大娘子",
+        "onboard_time": 1703467413,
+        "rank": 11,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 489665,
+        "num": 489665,
+        "word": "被好朋友表白了",
+        "onboard_time": 1703466394,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 470953,
+        "num": 470953,
+        "word": "雷军 小米汽车",
+        "onboard_time": 1703462671,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 438447,
+        "num": 438447,
+        "word": "金靖一比一复刻昨天女团妆",
+        "onboard_time": 1703460806,
+        "rank": 14,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 391143,
+        "num": 391143,
+        "word": "孙思邈睡眠法",
+        "onboard_time": 1703464775,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368651,
+        "num": 368651,
+        "word": "你们真的不爱棣棣了吗",
+        "onboard_time": 1703462970,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341062,
+        "num": 341062,
+        "word": "赤西仁黑木明纱官宣离婚",
+        "onboard_time": 1703461707,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334357,
+        "num": 334357,
+        "word": "郭敬明 大梦归离原始帧",
+        "onboard_time": 1703460445,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311297,
+        "num": 311297,
+        "word": "对周杰伦心情是复杂的",
+        "onboard_time": 1703461587,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305174,
+        "num": 305174,
+        "word": "杭州女子刷视频发现老公另有2妻3娃",
+        "onboard_time": 1703429562,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295590,
+        "num": 295590,
+        "word": "美国黄石公园检测出僵尸鹿病毒",
+        "onboard_time": 1703421395,
+        "rank": 21,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 294107,
+        "num": 294107,
+        "word": "游戏版号单次审批数量首次突破百款",
+        "onboard_time": 1703467232,
+        "rank": 22,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 286729,
+        "num": 286729,
+        "word": "上海迪士尼发布通知",
+        "onboard_time": 1703427219,
+        "rank": 23,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 254512,
+        "num": 254512,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242544,
+        "num": 242544,
+        "word": "以为是个黑头结果开了刀",
+        "onboard_time": 1703434052,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239226,
+        "num": 239226,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 26,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 219860,
+        "num": 219860,
+        "word": "今年考研压力都没这个司机大",
+        "onboard_time": 1703428062,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215766,
+        "num": 215766,
+        "word": "厌蠢症",
+        "onboard_time": 1703426018,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208286,
+        "num": 208286,
+        "word": "男子仅有10万元买下191万的房子后悔",
+        "onboard_time": 1703415337,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201571,
+        "num": 201571,
+        "word": "女研究生制售色情书被抓",
+        "onboard_time": 1703468016,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197271,
+        "num": 197271,
+        "word": "王一博新歌",
+        "onboard_time": 1703465555,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180618,
+        "num": 180618,
+        "word": "坚持三天你会越减越舒服",
+        "onboard_time": 1703444954,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 180306,
+        "num": 180306,
+        "word": "初中生帮同学找回被盗自行车",
+        "onboard_time": 1703467232,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167213,
+        "num": 167213,
+        "word": "他刚获得奖学金就全捐给地震灾区",
+        "onboard_time": 1703467232,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165261,
+        "num": 165261,
+        "word": "这辆猫猫为什么这么大",
+        "onboard_time": 1703467295,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163594,
+        "num": 163594,
+        "word": "水木年华演唱会上怀念朱令",
+        "onboard_time": 1703461527,
+        "rank": 36,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 159074,
+        "num": 159074,
+        "word": "国安部发布日常保密注意事项清单",
+        "onboard_time": 1703467891,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157597,
+        "num": 157597,
+        "word": "中国化妆品在韩国火了",
+        "onboard_time": 1703422054,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152653,
+        "num": 152653,
+        "word": "原来福宝这么大只了啊",
+        "onboard_time": 1703430036,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146854,
+        "num": 146854,
+        "word": "女子花60多万找闺蜜代购5只包是假的",
+        "onboard_time": 1703453054,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131128,
+        "num": 131128,
+        "word": "多地辟谣医保统筹额度将清零",
+        "onboard_time": 1703462852,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129559,
+        "num": 129559,
+        "word": "一儿童在上海迪士尼被游览车撞倒",
+        "onboard_time": 1703428780,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 126514,
+        "num": 126514,
+        "word": "多邻国油炸小绿鸟",
+        "onboard_time": 1703447654,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125818,
+        "num": 125818,
+        "word": "小狗味要溢出屏幕",
+        "onboard_time": 1703467112,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123990,
+        "num": 123990,
+        "word": "苹果 折叠手机",
+        "onboard_time": 1703418092,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122574,
+        "num": 122574,
+        "word": "大众电影删除一念关山编剧采访",
+        "onboard_time": 1703424095,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116723,
+        "num": 116723,
+        "word": "刮通这里才知道自己屯了多少湿",
+        "onboard_time": 1703466516,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114679,
+        "num": 114679,
+        "word": "原来分享欲不是喜欢",
+        "onboard_time": 1703428721,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114147,
+        "num": 114147,
+        "word": "地震致青海海东32人遇难",
+        "onboard_time": 1703462128,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#5G赋能生态漓江#"
+    }
+  }
+}
