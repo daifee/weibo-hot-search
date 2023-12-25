@@ -1,0 +1,410 @@
+{
+  "runTime": 1703504029297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2309478,
+        "num": 2309478,
+        "word": "网易暴雪复合",
+        "onboard_time": 1703502338,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 451327,
+        "num": 2028191,
+        "word": "男子心脏停跳90分钟医生接力救回",
+        "onboard_time": 1703494836,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12947,
+        "num": 2001567,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1996193,
+        "num": 1996193,
+        "word": "我们只是师生关系 你越界了",
+        "onboard_time": 1703500956,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185507,
+        "num": 990546,
+        "word": "女孩给陌生猫咪送暖宝宝取暖",
+        "onboard_time": 1703497834,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949521,
+        "num": 949521,
+        "word": "张艺兴入职中国国家话剧院",
+        "onboard_time": 1703493756,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174645,
+        "num": 826125,
+        "word": "何老师和他的放牛班",
+        "onboard_time": 1703502454,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758546,
+        "num": 758546,
+        "word": "优酷确认获得知否独播权",
+        "onboard_time": 1703501254,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 625001,
+        "num": 625001,
+        "word": "男子订婚后被告强奸一审被判3年",
+        "onboard_time": 1703481936,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532759,
+        "num": 532759,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1427325,
+        "num": 527530,
+        "word": "月经推迟 身体缺血",
+        "onboard_time": 1703498377,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 646668,
+        "num": 524422,
+        "word": "3D还原订婚强奸案",
+        "onboard_time": 1703502215,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513136,
+        "num": 513136,
+        "word": "五月天被质疑假唱仍在调查中",
+        "onboard_time": 1703493995,
+        "rank": 12,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 510533,
+        "num": 510533,
+        "word": "孙红雷含泪cue张艺兴",
+        "onboard_time": 1703499275,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480959,
+        "num": 480959,
+        "word": "被斗鱼索赔8000万女生三年赚不足20万",
+        "onboard_time": 1703501014,
+        "rank": 14,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 368378,
+        "num": 368378,
+        "word": "调查称读研平均最低月薪13218元",
+        "onboard_time": 1703494719,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 359315,
+        "num": 359315,
+        "word": "庆余年2预约破900万",
+        "onboard_time": 1703503055,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316557,
+        "num": 316557,
+        "word": "中央军委举行晋升上将军衔仪式",
+        "onboard_time": 1703500772,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302839,
+        "num": 302839,
+        "word": "胡先煦 年下不叫姐心思有点野",
+        "onboard_time": 1703492074,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272349,
+        "num": 272349,
+        "word": "多地自助彩票机被叫停",
+        "onboard_time": 1703502575,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 820779,
+        "num": 262704,
+        "word": "郑爽被法院公告",
+        "onboard_time": 1703493336,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247917,
+        "num": 247917,
+        "word": "官方通报订婚强奸案",
+        "onboard_time": 1703492735,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216066,
+        "num": 216066,
+        "word": "王者荣耀",
+        "onboard_time": 1703498255,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213571,
+        "num": 213571,
+        "word": "技术岗读研后平均最低月薪达22407元",
+        "onboard_time": 1703497236,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 208958,
+        "num": 208958,
+        "word": "TTG赛训",
+        "onboard_time": 1703498073,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206816,
+        "num": 206816,
+        "word": "费加罗红毯",
+        "onboard_time": 1703498854,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206015,
+        "num": 206015,
+        "word": "谢可寅黄子弘凡主持",
+        "onboard_time": 1703503055,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 198675,
+        "num": 198675,
+        "word": "刘雅瑟说演刘德华太太是高危职业",
+        "onboard_time": 1703501135,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196943,
+        "num": 196943,
+        "word": "米卡 机械尾巴",
+        "onboard_time": 1703502936,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177472,
+        "num": 177472,
+        "word": "Yuna红发",
+        "onboard_time": 1703500655,
+        "rank": 29,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 178801,
+        "num": 173186,
+        "word": "给孩子取名字的好办法",
+        "onboard_time": 1703503476,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167106,
+        "num": 167106,
+        "word": "胡歌唐嫣五搭",
+        "onboard_time": 1703493815,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163185,
+        "num": 163185,
+        "word": "NCT127 暖呼呼的舞台",
+        "onboard_time": 1703502995,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161078,
+        "num": 161078,
+        "word": "孙子兵法凭什么入选年度商品",
+        "onboard_time": 1703503533,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 156528,
+        "num": 156528,
+        "word": "陈哲远 看我不迷死你们",
+        "onboard_time": 1703500236,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155634,
+        "num": 155634,
+        "word": "张元英珍珠双马尾",
+        "onboard_time": 1703490453,
+        "rank": 35,
+        "category": "音乐,美妆"
+      },
+      {
+        "raw_hot": 154719,
+        "num": 154719,
+        "word": "WB对战TTG",
+        "onboard_time": 1703496877,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152267,
+        "num": 152267,
+        "word": "辛芷蕾繁花杀青杀了4次",
+        "onboard_time": 1703501855,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150634,
+        "num": 150634,
+        "word": "一条plog告别2023",
+        "onboard_time": 1703503476,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144762,
+        "num": 144762,
+        "word": "J人和P人大脑的区别",
+        "onboard_time": 1703501374,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138871,
+        "num": 138871,
+        "word": "Faker说不回私信是原则",
+        "onboard_time": 1703500236,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134382,
+        "num": 134382,
+        "word": "一些留学生回国后的报复性行为",
+        "onboard_time": 1703490394,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129848,
+        "num": 129848,
+        "word": "aespa翻跳咒文",
+        "onboard_time": 1703498377,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128494,
+        "num": 128494,
+        "word": "狗狗出趟门回来给自己染了个头",
+        "onboard_time": 1703502696,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118755,
+        "num": 118755,
+        "word": "鼓励落实带薪年假安排职工除夕休息",
+        "onboard_time": 1703503957,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116227,
+        "num": 116227,
+        "word": "自助餐蘸料 压缩饼干碎",
+        "onboard_time": 1703487572,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115579,
+        "num": 115579,
+        "word": "乡政府回应40万斤牛蛙一夜死亡",
+        "onboard_time": 1703489313,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113227,
+        "num": 113227,
+        "word": "王阳明心学",
+        "onboard_time": 1703503715,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 110806,
+        "num": 110806,
+        "word": "王俊凯王源 江苏跨年",
+        "onboard_time": 1703490813,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105600,
+        "num": 105600,
+        "word": "萌兰人里人气接笋笋",
+        "onboard_time": 1703502815,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#5G赋能生态漓江#"
+    }
+  }
+}
