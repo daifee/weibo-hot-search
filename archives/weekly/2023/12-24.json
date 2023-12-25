@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703485405829,
+  "endTime": 1703486194996,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2793837,
+      "num": 2793837,
+      "word": "男子订婚后被告强奸一审被判3年",
+      "onboard_time": 1703481936,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2690175,
       "num": 521295,
       "word": "陶勇",
@@ -81,14 +89,6 @@
       "onboard_time": 1703407894,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2367945,
-      "num": 2367945,
-      "word": "男子订婚后被告强奸一审被判3年",
-      "onboard_time": 1703481936,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2315939,
@@ -587,6 +587,14 @@
       "category": "数码,社会新闻"
     },
     {
+      "raw_hot": 750042,
+      "num": 750042,
+      "word": "芒果格局",
+      "onboard_time": 1703482475,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 748497,
       "num": 748497,
       "word": "陈都灵 美艳女妖",
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 700991,
+      "num": 700991,
+      "word": "黄奕为穿上礼服缠了10层保鲜膜",
+      "onboard_time": 1703481338,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700133,
       "num": 700133,
       "word": "金智媛睡六个小时被说瞌睡虫",
@@ -689,22 +705,6 @@
       "onboard_time": 1703422117,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 683483,
-      "num": 683483,
-      "word": "黄奕为穿上礼服缠了10层保鲜膜",
-      "onboard_time": 1703481338,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 680879,
-      "num": 680879,
-      "word": "芒果格局",
-      "onboard_time": 1703482475,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 676602,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 645987,
-      "num": 463925,
+      "num": 561080,
       "word": "日本人的身高越来越矮了",
       "onboard_time": 1703476958,
       "rank": 20,
@@ -1011,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 507314,
+      "num": 507314,
+      "word": "警方回应研究生制售色情书卖青少年",
+      "onboard_time": 1703483317,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505390,
       "num": 505390,
       "word": "某些大女主文现状",
@@ -1192,14 +1200,6 @@
       "word": "吉林发现被东北虎咬死的东北豹",
       "onboard_time": 1703379087,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 441235,
-      "num": 441235,
-      "word": "警方回应研究生制售色情书卖青少年",
-      "onboard_time": 1703483317,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2259,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217500,
+      "num": 217500,
+      "word": "你更爱麦当劳还是肯德基",
+      "onboard_time": 1703486074,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 217116,
       "num": 217116,
       "word": "最猛的1其实是周一",
@@ -2344,6 +2352,14 @@
       "word": "杨迪 我都想告节目组",
       "onboard_time": 1703482656,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208021,
+      "num": 208021,
+      "word": "江苏卫视跨年第三波阵容官宣",
+      "onboard_time": 1703485357,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2539,6 +2555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195028,
+      "num": 173175,
+      "word": "张宇 理科确实很难学好",
+      "onboard_time": 1703484935,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 194743,
       "num": 194743,
       "word": "Hero战胜KSG",
@@ -2721,14 +2745,6 @@
       "onboard_time": 1703416294,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181560,
-      "num": 173175,
-      "word": "张宇 理科确实很难学好",
-      "onboard_time": 1703484935,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 181555,
@@ -3147,6 +3163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153706,
+      "num": 153706,
+      "word": "檀健次卷王的自我修养",
+      "onboard_time": 1703485713,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153469,
       "num": 197077,
       "word": "我国成功发射一箭四星",
@@ -3209,6 +3233,14 @@
       "onboard_time": 1703388755,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151813,
+      "num": 151813,
+      "word": "淄博绿豆糕大爷回应热度下降",
+      "onboard_time": 1703485593,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151164,
@@ -3371,6 +3403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140816,
+      "num": 140816,
+      "word": "美妆蛋不仅可上妆还能卸妆",
+      "onboard_time": 1703485772,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 140686,
       "num": 140686,
       "word": "大梦归离",
@@ -3441,14 +3481,6 @@
       "onboard_time": 1703375425,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137712,
-      "num": 137712,
-      "word": "江苏卫视跨年第三波阵容官宣",
-      "onboard_time": 1703485357,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 136919,
@@ -4155,20 +4187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75880,
+      "num": 444053,
+      "word": "1228车圈春晚",
+      "onboard_time": 1703482415,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 74727,
       "num": 74727,
       "word": "山东蓬莱海面雪后现海滋奇观",
       "onboard_time": 1703369956,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 70939,
-      "num": 444053,
-      "word": "1228车圈春晚",
-      "onboard_time": 1703482415,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 66950,

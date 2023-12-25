@@ -1,0 +1,410 @@
+{
+  "runTime": 1703486194996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2793837,
+        "num": 2793837,
+        "word": "男子订婚后被告强奸一审被判3年",
+        "onboard_time": 1703481936,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1927893,
+        "num": 1927893,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42770,
+        "num": 1197511,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750042,
+        "num": 750042,
+        "word": "芒果格局",
+        "onboard_time": 1703482475,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700991,
+        "num": 700991,
+        "word": "黄奕为穿上礼服缠了10层保鲜膜",
+        "onboard_time": 1703481338,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692025,
+        "num": 692025,
+        "word": "女研究生制售色情书被抓",
+        "onboard_time": 1703468016,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561080,
+        "num": 561080,
+        "word": "日本人的身高越来越矮了",
+        "onboard_time": 1703476958,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515265,
+        "num": 515265,
+        "word": "马立奥肖允儿湖南跨年合体",
+        "onboard_time": 1703480380,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507314,
+        "num": 507314,
+        "word": "警方回应研究生制售色情书卖青少年",
+        "onboard_time": 1703483317,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459039,
+        "num": 459039,
+        "word": "黄子韬cue徐艺洋发言",
+        "onboard_time": 1703475874,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571470,
+        "num": 436811,
+        "word": "腿姐 不是说好睡死过去的吗",
+        "onboard_time": 1703475757,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 527045,
+        "num": 433652,
+        "word": "权志龙为防治毒品捐款3亿韩元",
+        "onboard_time": 1703483196,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383622,
+        "num": 383622,
+        "word": "弟弟 在良知和亲情之间选择了亲情",
+        "onboard_time": 1703478038,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367391,
+        "num": 367391,
+        "word": "专科的风还是吹到了麻省理工",
+        "onboard_time": 1703468732,
+        "rank": 13,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 360443,
+        "num": 360443,
+        "word": "麦当劳回应将涨价",
+        "onboard_time": 1703479900,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 343180,
+        "num": 343180,
+        "word": "25考研女生凌晨5点半起床占座",
+        "onboard_time": 1703477858,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 312828,
+        "num": 312828,
+        "word": "看到金智媛懂了骨相好抗老",
+        "onboard_time": 1703480203,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306424,
+        "num": 306424,
+        "word": "同居生2孩7年后男方诉返还彩礼",
+        "onboard_time": 1703475874,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75880,
+        "num": 287297,
+        "word": "1228车圈春晚",
+        "onboard_time": 1703482415,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 284260,
+        "num": 284260,
+        "word": "迪丽热巴双生神女",
+        "onboard_time": 1703477257,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262886,
+        "num": 262886,
+        "word": "女员工与男同事聊天过火被开除",
+        "onboard_time": 1703482957,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236435,
+        "num": 236435,
+        "word": "王安宇 少来",
+        "onboard_time": 1703477558,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217500,
+        "num": 217500,
+        "word": "你更爱麦当劳还是肯德基",
+        "onboard_time": 1703486074,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214365,
+        "num": 214365,
+        "word": "SBS节目单",
+        "onboard_time": 1703483317,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211796,
+        "num": 211796,
+        "word": "张艺兴长沙工作室经营异常",
+        "onboard_time": 1703480080,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208021,
+        "num": 208021,
+        "word": "江苏卫视跨年第三波阵容官宣",
+        "onboard_time": 1703485357,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201599,
+        "num": 201599,
+        "word": "我在芬兰3年不上班",
+        "onboard_time": 1703473774,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194118,
+        "num": 194118,
+        "word": "杨迪 我都想告节目组",
+        "onboard_time": 1703482656,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193551,
+        "num": 193551,
+        "word": "上海马戏城蹦床皮筋断裂演员被弹飞",
+        "onboard_time": 1703483433,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164474,
+        "num": 164474,
+        "word": "保温杯使用的5个禁忌",
+        "onboard_time": 1703471434,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 195028,
+        "num": 163561,
+        "word": "张宇 理科确实很难学好",
+        "onboard_time": 1703484935,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159168,
+        "num": 159168,
+        "word": "张艺兴工作室回应经营异常",
+        "onboard_time": 1703485056,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154196,
+        "num": 154196,
+        "word": "雷军回应小米造车慢",
+        "onboard_time": 1703484095,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153706,
+        "num": 153706,
+        "word": "檀健次卷王的自我修养",
+        "onboard_time": 1703485713,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151813,
+        "num": 151813,
+        "word": "淄博绿豆糕大爷回应热度下降",
+        "onboard_time": 1703485593,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148343,
+        "num": 148343,
+        "word": "何炅杨紫二十年前",
+        "onboard_time": 1703476360,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147418,
+        "num": 147418,
+        "word": "小猫辛辛苦苦抢了一块白菜帮",
+        "onboard_time": 1703473533,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145933,
+        "num": 145933,
+        "word": "Ale回应Bin恋爱",
+        "onboard_time": 1703480858,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143386,
+        "num": 143386,
+        "word": "檀健次泼李现一击即中",
+        "onboard_time": 1703483433,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140816,
+        "num": 140816,
+        "word": "美妆蛋不仅可上妆还能卸妆",
+        "onboard_time": 1703485772,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138611,
+        "num": 138611,
+        "word": "陈都灵 美艳女妖",
+        "onboard_time": 1703460685,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135663,
+        "num": 135663,
+        "word": "曾舜晞 想祝福不知该给谁",
+        "onboard_time": 1703479777,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134308,
+        "num": 134308,
+        "word": "周一确诊为大娘子",
+        "onboard_time": 1703467413,
+        "rank": 42,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 130002,
+        "num": 130002,
+        "word": "小米汽车发布会不发产品",
+        "onboard_time": 1703482298,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128557,
+        "num": 128557,
+        "word": "看了八秒才确定这是猫",
+        "onboard_time": 1703484573,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123103,
+        "num": 123103,
+        "word": "这小说我夸了一整年",
+        "onboard_time": 1703479600,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 121849,
+        "num": 121849,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1703474855,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118188,
+        "num": 118188,
+        "word": "张晚意第一部现偶剧",
+        "onboard_time": 1703479180,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116912,
+        "num": 116912,
+        "word": "男子供养女友及其丈夫一家5年",
+        "onboard_time": 1703469874,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115769,
+        "num": 115769,
+        "word": "经纪人王力威退出肖战前工作室",
+        "onboard_time": 1703474076,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#5G赋能生态漓江#"
+    }
+  }
+}
