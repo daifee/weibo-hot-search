@@ -1,0 +1,410 @@
+{
+  "runTime": 1703525631435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 425112,
+        "num": 425112,
+        "word": "网易暴雪复合",
+        "onboard_time": 1703502338,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266555,
+        "num": 266555,
+        "word": "姐姐与妹妹争吵后将其双手肌腱割断",
+        "onboard_time": 1703509420,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4425,
+        "num": 242604,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232726,
+        "num": 232726,
+        "word": "他只是做错题 又没有做错人",
+        "onboard_time": 1703505032,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172396,
+        "num": 172396,
+        "word": "郭采洁撕脱骨折",
+        "onboard_time": 1703518055,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162976,
+        "num": 162976,
+        "word": "2024天蝎座年度关键词",
+        "onboard_time": 1703516615,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152402,
+        "num": 152402,
+        "word": "张雨绮肩膀上好大的两朵花",
+        "onboard_time": 1703520451,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152048,
+        "num": 152048,
+        "word": "订婚强奸案",
+        "onboard_time": 1703518293,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139405,
+        "num": 139405,
+        "word": "2023十大热播剧",
+        "onboard_time": 1703514517,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114274,
+        "num": 114274,
+        "word": "王一博新歌歌词",
+        "onboard_time": 1703521648,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 462106,
+        "num": 112210,
+        "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
+        "onboard_time": 1703510916,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306181,
+        "num": 110672,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703511515,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227122,
+        "num": 106784,
+        "word": "我们只是师生关系 你越界了",
+        "onboard_time": 1703500956,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181982,
+        "num": 103653,
+        "word": "男子隔空猥亵8名幼女获刑7年半",
+        "onboard_time": 1703506474,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153803,
+        "num": 100844,
+        "word": "3D还原订婚强奸案",
+        "onboard_time": 1703502215,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148113,
+        "num": 99873,
+        "word": "月经推迟 身体缺血",
+        "onboard_time": 1703498377,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97081,
+        "num": 97081,
+        "word": "男子买房放女友名下分手后全要回",
+        "onboard_time": 1703513135,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78821,
+        "num": 78821,
+        "word": "孙红雷含泪cue张艺兴",
+        "onboard_time": 1703499275,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76952,
+        "num": 76952,
+        "word": "杨超越头肩比",
+        "onboard_time": 1703518595,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69852,
+        "num": 76150,
+        "word": "订婚强奸案男方亲属发声",
+        "onboard_time": 1703509176,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97977,
+        "num": 76002,
+        "word": "大便出现这些异常千万要当心",
+        "onboard_time": 1703509477,
+        "rank": 20,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 77328,
+        "num": 75939,
+        "word": "为什么大家又爱上头戴式耳机",
+        "onboard_time": 1703516136,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75529,
+        "num": 75529,
+        "word": "李永钦摔下升降台",
+        "onboard_time": 1703509956,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74911,
+        "num": 74911,
+        "word": "魏晨醉酒戏真的喝了",
+        "onboard_time": 1703522786,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67130,
+        "num": 67130,
+        "word": "杨超越水蓝色抹胸裙",
+        "onboard_time": 1703520510,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 65647,
+        "num": 65647,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59867,
+        "num": 59867,
+        "word": "张艺兴将担任C罗中国行表演嘉宾",
+        "onboard_time": 1703505696,
+        "rank": 26,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 54467,
+        "num": 54467,
+        "word": "考研戒断反应",
+        "onboard_time": 1703515414,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54109,
+        "num": 54109,
+        "word": "优酷确认获得知否独播权",
+        "onboard_time": 1703501254,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52114,
+        "num": 52114,
+        "word": "被斗鱼索赔8000万女生三年赚不足20万",
+        "onboard_time": 1703501014,
+        "rank": 29,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 48656,
+        "num": 48656,
+        "word": "沈耀打入十一班内部",
+        "onboard_time": 1703522544,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48169,
+        "num": 48169,
+        "word": "时代少年团 宋亚轩碎碎念",
+        "onboard_time": 1703515536,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47292,
+        "num": 47292,
+        "word": "研究生监考老师分享监考感受见闻",
+        "onboard_time": 1703504315,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47214,
+        "num": 47214,
+        "word": "这些护肤品是来报恩的",
+        "onboard_time": 1703519133,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 46794,
+        "num": 46794,
+        "word": "我知道我爱你",
+        "onboard_time": 1703509895,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44647,
+        "num": 44647,
+        "word": "喻言 美得眼前一亮",
+        "onboard_time": 1703506594,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 42474,
+        "num": 42474,
+        "word": "于适主持",
+        "onboard_time": 1703507676,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40337,
+        "num": 40337,
+        "word": "易烊千玺是艾佳妮心目中的女婿标杆",
+        "onboard_time": 1703506294,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40285,
+        "num": 40285,
+        "word": "原来长大后真的会去弥补童年",
+        "onboard_time": 1703505214,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40257,
+        "num": 40257,
+        "word": "冬季甘蔗煮水是大补",
+        "onboard_time": 1703516974,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38867,
+        "num": 38867,
+        "word": "人类历史上第一条手机短信",
+        "onboard_time": 1703510974,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38787,
+        "num": 38787,
+        "word": "杭高4名男生腹肌照火了",
+        "onboard_time": 1703511336,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38331,
+        "num": 38331,
+        "word": "刘浩存哭戏",
+        "onboard_time": 1703512775,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32514,
+        "num": 38271,
+        "word": "5亿辈子很长吗 武艺被子就是短",
+        "onboard_time": 1703504496,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30889,
+        "num": 38078,
+        "word": "订婚强奸案被害人曾反对婚前性行为",
+        "onboard_time": 1703516496,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30723,
+        "num": 38007,
+        "word": "心疼许诺",
+        "onboard_time": 1703516735,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29817,
+        "num": 37828,
+        "word": "孙女被爷爷没收手机后拉二泉映月",
+        "onboard_time": 1703517032,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29672,
+        "num": 37752,
+        "word": "赵露思神隐白发",
+        "onboard_time": 1703515655,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29327,
+        "num": 37602,
+        "word": "刘雨昕直到世界尽头舞台",
+        "onboard_time": 1703519673,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26798,
+        "num": 37540,
+        "word": "湖南卫视跨年舞美",
+        "onboard_time": 1703513615,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
