@@ -1,0 +1,410 @@
+{
+  "runTime": 1703481466859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2692610,
+        "num": 2692610,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1141783,
+        "num": 1141783,
+        "word": "专科的风还是吹到了麻省理工",
+        "onboard_time": 1703468732,
+        "rank": 1,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 65369,
+        "num": 1071370,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181914,
+        "num": 1047240,
+        "word": "女研究生制售色情书被抓",
+        "onboard_time": 1703468016,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016268,
+        "num": 1016268,
+        "word": "黄子韬cue徐艺洋发言",
+        "onboard_time": 1703475874,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709426,
+        "num": 709426,
+        "word": "马立奥肖允儿湖南跨年合体",
+        "onboard_time": 1703480380,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626789,
+        "num": 626789,
+        "word": "迪丽热巴双生神女",
+        "onboard_time": 1703477257,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 540775,
+        "num": 540775,
+        "word": "看到金智媛懂了骨相好抗老",
+        "onboard_time": 1703480203,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478710,
+        "num": 478710,
+        "word": "麦当劳回应将涨价",
+        "onboard_time": 1703479900,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 474935,
+        "num": 474935,
+        "word": "周一确诊为大娘子",
+        "onboard_time": 1703467413,
+        "rank": 9,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 1531937,
+        "num": 453938,
+        "word": "如果不是地震没人知道我们有多穷",
+        "onboard_time": 1703476658,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931783,
+        "num": 446960,
+        "word": "同居生2孩7年后男方诉返还彩礼",
+        "onboard_time": 1703475874,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 815696,
+        "num": 441607,
+        "word": "腿姐 不是说好睡死过去的吗",
+        "onboard_time": 1703475757,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 425425,
+        "num": 425425,
+        "word": "弟弟 在良知和亲情之间选择了亲情",
+        "onboard_time": 1703478038,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 394413,
+        "num": 394413,
+        "word": "25考研女生凌晨5点半起床占座",
+        "onboard_time": 1703477858,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 386956,
+        "num": 386956,
+        "word": "王安宇 少来",
+        "onboard_time": 1703477558,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379841,
+        "num": 379841,
+        "word": "我在芬兰3年不上班",
+        "onboard_time": 1703473774,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379340,
+        "num": 379340,
+        "word": "何炅杨紫二十年前",
+        "onboard_time": 1703476360,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371892,
+        "num": 371892,
+        "word": "张艺兴长沙工作室经营异常",
+        "onboard_time": 1703480080,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347653,
+        "num": 347653,
+        "word": "男子供养女友及其丈夫一家5年",
+        "onboard_time": 1703469874,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579485,
+        "num": 346256,
+        "word": "日本人的身高越来越矮了",
+        "onboard_time": 1703476958,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302320,
+        "num": 302320,
+        "word": "保温杯使用的5个禁忌",
+        "onboard_time": 1703471434,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 294748,
+        "num": 294748,
+        "word": "经纪人王力威退出肖战前工作室",
+        "onboard_time": 1703474076,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291694,
+        "num": 291694,
+        "word": "陈都灵 美艳女妖",
+        "onboard_time": 1703460685,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275561,
+        "num": 275561,
+        "word": "00后小伙年销7万单爱因斯坦的脑子",
+        "onboard_time": 1703473774,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96997,
+        "num": 270732,
+        "word": "王鹤棣过节氛围感",
+        "onboard_time": 1703477437,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266856,
+        "num": 266856,
+        "word": "Ale回应Bin恋爱",
+        "onboard_time": 1703480858,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260240,
+        "num": 260240,
+        "word": "曾舜晞 想祝福不知该给谁",
+        "onboard_time": 1703479777,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256301,
+        "num": 256301,
+        "word": "2024元旦放假安排来了",
+        "onboard_time": 1703464356,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254223,
+        "num": 254223,
+        "word": "等等给孙俪泡了一杯鸡毛菜",
+        "onboard_time": 1703473415,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247334,
+        "num": 247334,
+        "word": "张颂文宋佳 风中有朵雨做的云",
+        "onboard_time": 1703461949,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238011,
+        "num": 238011,
+        "word": "张晚意第一部现偶剧",
+        "onboard_time": 1703479180,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230969,
+        "num": 230969,
+        "word": "小猫辛辛苦苦抢了一块白菜帮",
+        "onboard_time": 1703473533,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209047,
+        "num": 209047,
+        "word": "迪丽热巴黑粉拒不道歉被强执",
+        "onboard_time": 1703471973,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206485,
+        "num": 206485,
+        "word": "这小说我夸了一整年",
+        "onboard_time": 1703479600,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 192451,
+        "num": 192451,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1703465735,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 186336,
+        "num": 186336,
+        "word": "有梗工作室",
+        "onboard_time": 1703480800,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181555,
+        "num": 181555,
+        "word": "一个好消息和一个坏消息",
+        "onboard_time": 1703479659,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178415,
+        "num": 178415,
+        "word": "小狗暂时还没有爱上你",
+        "onboard_time": 1703479063,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9400,
+        "num": 177775,
+        "word": "任贤齐告五人温柔版倔强",
+        "onboard_time": 1703480439,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177460,
+        "num": 177460,
+        "word": "工作坏但是妈妈好",
+        "onboard_time": 1703480858,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170892,
+        "num": 170892,
+        "word": "父亲去世哥哥超拼参加妹妹学校活动",
+        "onboard_time": 1703476417,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168888,
+        "num": 168888,
+        "word": "黄奕为穿上礼服缠了10层保鲜膜",
+        "onboard_time": 1703481338,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168209,
+        "num": 168209,
+        "word": "小米要造一辆什么样的车",
+        "onboard_time": 1703480137,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162044,
+        "num": 162044,
+        "word": "为见C罗手机快冒火星子了",
+        "onboard_time": 1703479238,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159112,
+        "num": 159112,
+        "word": "女子捡到银行卡猜对密码取走4万被抓",
+        "onboard_time": 1703462188,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158849,
+        "num": 158849,
+        "word": "理想汽车",
+        "onboard_time": 1703478220,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157534,
+        "num": 157534,
+        "word": "周淑怡现身管泽元余霜婚礼",
+        "onboard_time": 1703477498,
+        "rank": 47,
+        "category": "电竞,网红"
+      },
+      {
+        "raw_hot": 156512,
+        "num": 156512,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1703474855,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145463,
+        "num": 145463,
+        "word": "越南版长月烬明太搞笑了",
+        "onboard_time": 1703472754,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进重点领域改革#"
+    }
+  }
+}

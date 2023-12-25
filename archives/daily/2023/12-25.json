@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703478940169,
+  "endTime": 1703481466859,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2692610,
+      "num": 2692610,
+      "word": "终于知道工资为什么要保密了",
+      "onboard_time": 1703479479,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2315939,
       "num": 2315939,
       "word": "专科的风还是吹到了麻省理工",
@@ -35,7 +43,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1462440,
+      "raw_hot": 1531937,
       "num": 1462440,
       "word": "如果不是地震没人知道我们有多穷",
       "onboard_time": 1703476658,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709426,
+      "num": 709426,
+      "word": "马立奥肖允儿湖南跨年合体",
+      "onboard_time": 1703480380,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 704216,
       "num": 319536,
       "word": "一儿童在上海迪士尼被游览车撞倒",
@@ -291,12 +307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540775,
+      "num": 540775,
+      "word": "看到金智媛懂了骨相好抗老",
+      "onboard_time": 1703480203,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528198,
       "num": 300753,
       "word": "李明德 共生关系",
       "onboard_time": 1703423376,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 478710,
+      "num": 478710,
+      "word": "麦当劳回应将涨价",
+      "onboard_time": 1703479900,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 474956,
@@ -371,8 +403,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 407447,
-      "num": 251828,
+      "raw_hot": 425425,
+      "num": 425425,
       "word": "弟弟 在良知和亲情之间选择了亲情",
       "onboard_time": 1703478038,
       "rank": 30,
@@ -380,11 +412,19 @@
     },
     {
       "raw_hot": 403879,
-      "num": 356191,
+      "num": 379841,
       "word": "我在芬兰3年不上班",
       "onboard_time": 1703473774,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394413,
+      "num": 394413,
+      "word": "25考研女生凌晨5点半起床占座",
+      "onboard_time": 1703477858,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 394226,
@@ -403,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 386956,
+      "num": 386956,
+      "word": "王安宇 少来",
+      "onboard_time": 1703477558,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380766,
       "num": 380766,
       "word": "柯南全员说中文",
@@ -419,6 +467,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 371892,
+      "num": 371892,
+      "word": "张艺兴长沙工作室经营异常",
+      "onboard_time": 1703480080,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369244,
       "num": 369244,
       "word": "郭敬明 大梦归离原始帧",
@@ -433,14 +489,6 @@
       "onboard_time": 1703474193,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 353399,
-      "num": 353399,
-      "word": "王安宇 少来",
-      "onboard_time": 1703477558,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 351075,
@@ -489,14 +537,6 @@
       "onboard_time": 1703470293,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 326084,
-      "num": 326084,
-      "word": "25考研女生凌晨5点半起床占座",
-      "onboard_time": 1703477858,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 320469,
@@ -579,6 +619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266856,
+      "num": 266856,
+      "word": "Ale回应Bin恋爱",
+      "onboard_time": 1703480858,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 260240,
+      "num": 260240,
+      "word": "曾舜晞 想祝福不知该给谁",
+      "onboard_time": 1703479777,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258968,
       "num": 258968,
       "word": "东方卫视跨年首发阵容",
@@ -601,6 +657,14 @@
       "onboard_time": 1703465735,
       "rank": 26,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 238011,
+      "num": 238011,
+      "word": "张晚意第一部现偶剧",
+      "onboard_time": 1703479180,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 236795,
@@ -691,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206485,
+      "num": 206485,
+      "word": "这小说我夸了一整年",
+      "onboard_time": 1703479600,
+      "rank": 34,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 203588,
       "num": 175385,
       "word": "小猫掉下来被小孩哥接住",
@@ -755,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186336,
+      "num": 186336,
+      "word": "有梗工作室",
+      "onboard_time": 1703480800,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186218,
       "num": 186218,
       "word": "喝两口奶茶不会胖的",
@@ -769,6 +849,14 @@
       "onboard_time": 1703444954,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 181555,
+      "num": 181555,
+      "word": "一个好消息和一个坏消息",
+      "onboard_time": 1703479659,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 180306,
@@ -793,6 +881,22 @@
       "onboard_time": 1703473774,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178415,
+      "num": 178415,
+      "word": "小狗暂时还没有爱上你",
+      "onboard_time": 1703479063,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 177460,
+      "num": 177460,
+      "word": "工作坏但是妈妈好",
+      "onboard_time": 1703480858,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 173415,
@@ -851,6 +955,22 @@
       "category": "情感,作品衍生"
     },
     {
+      "raw_hot": 168888,
+      "num": 168888,
+      "word": "黄奕为穿上礼服缠了10层保鲜膜",
+      "onboard_time": 1703481338,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168209,
+      "num": 168209,
+      "word": "小米要造一辆什么样的车",
+      "onboard_time": 1703480137,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 167213,
       "num": 167213,
       "word": "他刚获得奖学金就全捐给地震灾区",
@@ -896,6 +1016,14 @@
       "word": "詹姆斯社媒晒超级数据",
       "onboard_time": 1703473894,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162044,
+      "num": 162044,
+      "word": "为见C罗手机快冒火星子了",
+      "onboard_time": 1703479238,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1195,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96997,
+      "num": 519623,
+      "word": "王鹤棣过节氛围感",
+      "onboard_time": 1703477437,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94711,
       "num": 94711,
       "word": "金珉奎和麦当劳有什么区别",
@@ -1323,14 +1459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35436,
-      "num": 519623,
-      "word": "王鹤棣过节氛围感",
-      "onboard_time": 1703477437,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25329,
       "num": 454519,
       "word": "大张伟符龙飞爵士版约定",
@@ -1369,6 +1497,14 @@
       "onboard_time": 1703449574,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9400,
+      "num": 177775,
+      "word": "任贤齐告五人温柔版倔强",
+      "onboard_time": 1703480439,
+      "rank": 39,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
