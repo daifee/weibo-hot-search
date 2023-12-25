@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703522295635,
+  "endTime": 1703524527053,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -65331,6 +65331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83303,
+      "num": 83303,
+      "word": "魏晨醉酒戏真的喝了",
+      "onboard_time": 1703522786,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83273,
       "num": 83273,
       "word": "董明珠直播再谈孟羽童",
@@ -66585,6 +66593,14 @@
       "onboard_time": 1702651900,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60046,
+      "num": 60046,
+      "word": "沈耀打入十一班内部",
+      "onboard_time": 1703522544,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 59580,
