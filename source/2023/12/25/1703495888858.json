@@ -1,0 +1,410 @@
+{
+  "runTime": 1703495888858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2305013,
+        "num": 2305013,
+        "word": "郑爽被法院公告",
+        "onboard_time": 1703493336,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2250529,
+        "num": 2250529,
+        "word": "张艺兴入职中国国家话剧院",
+        "onboard_time": 1703493756,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19394,
+        "num": 2061657,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1875942,
+        "num": 1875942,
+        "word": "挖呀挖桃子老师每场直播收入仅千元",
+        "onboard_time": 1703489373,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046233,
+        "num": 1046233,
+        "word": "男子订婚后被告强奸一审被判3年",
+        "onboard_time": 1703481936,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840283,
+        "num": 840283,
+        "word": "官方通报订婚强奸案",
+        "onboard_time": 1703492735,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835618,
+        "num": 835618,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 802255,
+        "num": 802255,
+        "word": "五月天被质疑假唱仍在调查中",
+        "onboard_time": 1703493995,
+        "rank": 7,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 697031,
+        "num": 697031,
+        "word": "胡先煦 年下不叫姐心思有点野",
+        "onboard_time": 1703492074,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558598,
+        "num": 558598,
+        "word": "女研究生制售色情书被抓",
+        "onboard_time": 1703468016,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514126,
+        "num": 514126,
+        "word": "调查称读研平均最低月薪13218元",
+        "onboard_time": 1703494719,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 421277,
+        "num": 421277,
+        "word": "胡歌唐嫣五搭",
+        "onboard_time": 1703493815,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370777,
+        "num": 370777,
+        "word": "乡政府回应40万斤牛蛙一夜死亡",
+        "onboard_time": 1703489313,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351936,
+        "num": 351936,
+        "word": "张元英珍珠双马尾",
+        "onboard_time": 1703490453,
+        "rank": 13,
+        "category": "音乐,美妆"
+      },
+      {
+        "raw_hot": 338387,
+        "num": 338387,
+        "word": "黄奕为穿上礼服缠了10层保鲜膜",
+        "onboard_time": 1703481338,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336866,
+        "num": 336866,
+        "word": "一些留学生回国后的报复性行为",
+        "onboard_time": 1703490394,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295028,
+        "num": 295028,
+        "word": "芒果格局",
+        "onboard_time": 1703482475,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294954,
+        "num": 294954,
+        "word": "王俊凯王源 江苏跨年",
+        "onboard_time": 1703490813,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268841,
+        "num": 268841,
+        "word": "TES",
+        "onboard_time": 1703494958,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57104,
+        "num": 258605,
+        "word": "出海即夺冠的国产新能源泰酷啦",
+        "onboard_time": 1703495075,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 254598,
+        "num": 254598,
+        "word": "周深 两颗痣的才是我",
+        "onboard_time": 1703491297,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250249,
+        "num": 250249,
+        "word": "男子心脏停跳90分钟医生接力救回",
+        "onboard_time": 1703494836,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243052,
+        "num": 243052,
+        "word": "赵露思凤皇妆造",
+        "onboard_time": 1703493094,
+        "rank": 22,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 227704,
+        "num": 227704,
+        "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
+        "onboard_time": 1703488172,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226299,
+        "num": 226299,
+        "word": "日本人的身高越来越矮了",
+        "onboard_time": 1703476958,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207968,
+        "num": 207968,
+        "word": "自助餐蘸料 压缩饼干碎",
+        "onboard_time": 1703487572,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196741,
+        "num": 196741,
+        "word": "EXO初雪周冠",
+        "onboard_time": 1703495258,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185691,
+        "num": 185691,
+        "word": "确诊为孙悟空",
+        "onboard_time": 1703492194,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166690,
+        "num": 166690,
+        "word": "桃子老师回应每场直播收入千元",
+        "onboard_time": 1703494056,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159365,
+        "num": 164651,
+        "word": "甘肃地震危重伤员从42人降至12人",
+        "onboard_time": 1703493394,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177726,
+        "num": 164585,
+        "word": "热红酒 卤水果",
+        "onboard_time": 1703495318,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164096,
+        "num": 164096,
+        "word": "挣钱未达标 花钱超额完成",
+        "onboard_time": 1703494477,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163859,
+        "num": 163859,
+        "word": "吉林浮桥案",
+        "onboard_time": 1703490633,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "韩红基金会辟谣",
+        "onboard_time": 1703492913,
+        "rank": 33,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 149402,
+        "num": 149402,
+        "word": "外交部回应春节成为联合国假日",
+        "onboard_time": 1703495375,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148139,
+        "num": 148139,
+        "word": "帝释天典藏皮肤",
+        "onboard_time": 1703488414,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144993,
+        "num": 144993,
+        "word": "柯南新剧场版特别角色 中森青子",
+        "onboard_time": 1703495434,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141934,
+        "num": 141934,
+        "word": "25考研女生凌晨5点半起床占座",
+        "onboard_time": 1703477858,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 138673,
+        "num": 138673,
+        "word": "杨迪 大家就说该不该告吧",
+        "onboard_time": 1703495258,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77209,
+        "num": 137769,
+        "word": "淘宝公布2023年度十大商品",
+        "onboard_time": 1703494836,
+        "rank": 39,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 136961,
+        "num": 136961,
+        "word": "麦当劳回应将涨价",
+        "onboard_time": 1703479900,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 133067,
+        "num": 133067,
+        "word": "SBS节目单",
+        "onboard_time": 1703483317,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132600,
+        "num": 132600,
+        "word": "30岁的我决定退休了",
+        "onboard_time": 1703487934,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123811,
+        "num": 123811,
+        "word": "马立奥肖允儿湖南跨年合体",
+        "onboard_time": 1703480380,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118092,
+        "num": 118092,
+        "word": "小破站跨晚把许嵩冯禧都请来了",
+        "onboard_time": 1703486252,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113190,
+        "num": 113190,
+        "word": "卢昱晓正在改走路姿势问题",
+        "onboard_time": 1703495796,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108255,
+        "num": 108255,
+        "word": "RW晋级败者组第二轮",
+        "onboard_time": 1703495841,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108005,
+        "num": 108005,
+        "word": "交换礼物",
+        "onboard_time": 1703494417,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107743,
+        "num": 107743,
+        "word": "迪丽热巴双生神女",
+        "onboard_time": 1703477257,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107701,
+        "num": 107701,
+        "word": "小猫 滚到哪里就在哪里睡觉",
+        "onboard_time": 1703489853,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进重点领域改革#"
+    }
+  }
+}
