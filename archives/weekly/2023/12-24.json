@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703496860517,
+  "endTime": 1703499525888,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1057718,
+      "num": 1057718,
+      "word": "调查称读研平均最低月薪13218元",
+      "onboard_time": 1703494719,
+      "rank": 10,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1042055,
       "num": 1042055,
       "word": "396 写不完",
@@ -425,6 +433,14 @@
       "onboard_time": 1703473774,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 968496,
+      "num": 543801,
+      "word": "月经推迟 身体缺血",
+      "onboard_time": 1703498377,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 959540,
@@ -523,8 +539,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 852185,
-      "num": 852185,
+      "raw_hot": 855134,
+      "num": 855134,
       "word": "五月天被质疑假唱仍在调查中",
       "onboard_time": 1703493995,
       "rank": 7,
@@ -659,20 +675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 740801,
-      "num": 740801,
-      "word": "调查称读研平均最低月薪13218元",
-      "onboard_time": 1703494719,
-      "rank": 10,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 739385,
       "num": 739385,
       "word": "进入25考研时代",
       "onboard_time": 1703408916,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 737513,
+      "num": 1170432,
+      "word": "男子心脏停跳90分钟医生接力救回",
+      "onboard_time": 1703494836,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729746,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1703490453,
       "rank": 8,
       "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 534420,
+      "num": 534420,
+      "word": "技术岗读研后平均最低月薪达22407元",
+      "onboard_time": 1703497236,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 533554,
@@ -1491,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377580,
+      "num": 377580,
+      "word": "王者荣耀",
+      "onboard_time": 1703498255,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 377397,
       "num": 333039,
       "word": "保温杯使用的5个禁忌",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1703494056,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362502,
+      "num": 362502,
+      "word": "蔡宏柱逝世",
+      "onboard_time": 1703496199,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 356277,
@@ -1635,14 +1675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 338997,
-      "num": 338997,
-      "word": "男子心脏停跳90分钟医生接力救回",
-      "onboard_time": 1703494836,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 337304,
       "num": 337304,
       "word": "乾隆的十只猫",
@@ -1731,6 +1763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 320128,
+      "num": 320128,
+      "word": "卢昱晓正在改走路姿势问题",
+      "onboard_time": 1703495796,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319194,
       "num": 319194,
       "word": "aespa今日红毯",
@@ -1755,12 +1795,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314547,
+      "num": 314547,
+      "word": "TTG赛训",
+      "onboard_time": 1703498073,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 314123,
       "num": 314123,
       "word": "考研当天早上睡过了",
       "onboard_time": 1703402671,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312317,
+      "num": 312317,
+      "word": "费加罗红毯",
+      "onboard_time": 1703498854,
+      "rank": 20,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 311128,
@@ -1777,14 +1833,6 @@
       "onboard_time": 1703416235,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309755,
-      "num": 309755,
-      "word": "卢昱晓正在改走路姿势问题",
-      "onboard_time": 1703495796,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 307972,
@@ -2427,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226370,
+      "num": 226370,
+      "word": "aespa翻跳咒文",
+      "onboard_time": 1703498377,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 225623,
       "num": 208167,
       "word": "4种走路姿势暗示疾病信号",
@@ -2481,14 +2537,6 @@
       "onboard_time": 1703390257,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219873,
-      "num": 219873,
-      "word": "蔡宏柱逝世",
-      "onboard_time": 1703496199,
-      "rank": 26,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 219384,
@@ -2555,6 +2603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215129,
+      "num": 215129,
+      "word": "孙红雷含泪cue张艺兴",
+      "onboard_time": 1703499275,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214689,
       "num": 214689,
       "word": "袁励岑3比1周启豪",
@@ -2569,6 +2625,14 @@
       "onboard_time": 1703384251,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211676,
+      "num": 211676,
+      "word": "WB对战TTG",
+      "onboard_time": 1703496877,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 211671,
@@ -2843,6 +2907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194444,
+      "num": 980020,
+      "word": "女孩给陌生猫咪送暖宝宝取暖",
+      "onboard_time": 1703497834,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194093,
       "num": 194093,
       "word": "锵姐一下瞪大了眼",
@@ -3027,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182792,
+      "num": 182792,
+      "word": "孙怡吴优二搭",
+      "onboard_time": 1703498496,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182607,
       "num": 182607,
       "word": "女厂长靠20个老配方救回一个厂",
@@ -3195,6 +3275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173160,
+      "num": 173160,
+      "word": "361官宣签下约基奇",
+      "onboard_time": 1703499216,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172866,
       "num": 172866,
       "word": "张新成的头比雷佳音还大",
@@ -3241,6 +3329,14 @@
       "onboard_time": 1703474615,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 168324,
+      "num": 168324,
+      "word": "吴宣仪钟楚曦 我要你",
+      "onboard_time": 1703498073,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 168313,
@@ -3465,6 +3561,14 @@
       "onboard_time": 1703491113,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158746,
+      "num": 158746,
+      "word": "WE战胜EQX",
+      "onboard_time": 1703499096,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 158387,
@@ -3931,6 +4035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135275,
+      "num": 135275,
+      "word": "卢昱晓进组杀青都会减肥",
+      "onboard_time": 1703499335,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134889,
       "num": 134889,
       "word": "因为朋友寄的明信片委屈哭了",
@@ -4017,6 +4129,14 @@
       "onboard_time": 1703402312,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132038,
+      "num": 896016,
+      "word": "徐州80名企业家向甘肃震区捐赠物资",
+      "onboard_time": 1703497834,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131567,
@@ -4235,6 +4355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122679,
+      "num": 122679,
+      "word": "SBS歌谣大战红毯",
+      "onboard_time": 1703497055,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121959,
       "num": 121959,
       "word": "他们把你也搁家里啦",
@@ -4297,6 +4425,14 @@
       "onboard_time": 1703385391,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 118577,
+      "num": 118577,
+      "word": "白鹿遇事先播好运来",
+      "onboard_time": 1703499516,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 118369,
@@ -4961,6 +5097,14 @@
       "onboard_time": 1703430338,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22168,
+      "num": 396267,
+      "word": "天猫榜单上天了",
+      "onboard_time": 1703498435,
+      "rank": 14,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 20006,
