@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703486194996,
+  "endTime": 1703488614889,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 870277,
+      "num": 870277,
+      "word": "黄奕为穿上礼服缠了10层保鲜膜",
+      "onboard_time": 1703481338,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 861849,
       "num": 861849,
       "word": "结婚16年3娃不是亲生当事人发声",
@@ -251,16 +259,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 700991,
-      "num": 700991,
-      "word": "黄奕为穿上礼服缠了10层保鲜膜",
-      "onboard_time": 1703481338,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 645987,
-      "num": 561080,
+      "num": 613002,
       "word": "日本人的身高越来越矮了",
       "onboard_time": 1703476958,
       "rank": 20,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560928,
+      "num": 560928,
+      "word": "警方回应研究生制售色情书卖青少年",
+      "onboard_time": 1703483317,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547809,
       "num": 547809,
       "word": "苹果 折叠手机",
@@ -369,14 +377,6 @@
       "onboard_time": 1703423376,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 507314,
-      "num": 507314,
-      "word": "警方回应研究生制售色情书卖青少年",
-      "onboard_time": 1703483317,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474956,
@@ -459,6 +459,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 415870,
+      "num": 415870,
+      "word": "王俊凯官宣江苏卫视跨年",
+      "onboard_time": 1703487813,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413391,
       "num": 413391,
       "word": "张艺兴长沙工作室经营异常",
@@ -505,6 +513,14 @@
       "onboard_time": 1703429619,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 378872,
+      "num": 378872,
+      "word": "小破站跨晚把许嵩冯禧都请来了",
+      "onboard_time": 1703486252,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 377397,
@@ -571,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334565,
+      "num": 334565,
+      "word": "澜花海FMVP皮肤",
+      "onboard_time": 1703486672,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 328020,
       "num": 328020,
       "word": "刘涛也在嗑一璐平安",
@@ -585,6 +609,14 @@
       "onboard_time": 1703447654,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 320087,
+      "num": 320087,
+      "word": "杨迪 我都想告节目组",
+      "onboard_time": 1703482656,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 306491,
@@ -651,12 +683,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 282637,
+      "num": 248643,
+      "word": "帝释天典藏皮肤",
+      "onboard_time": 1703488414,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279098,
       "num": 279098,
       "word": "女员工与男同事聊天过火被开除",
       "onboard_time": 1703482957,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272773,
+      "num": 272773,
+      "word": "自助餐蘸料 压缩饼干碎",
+      "onboard_time": 1703487572,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 268090,
@@ -731,12 +779,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230596,
+      "num": 230596,
+      "word": "30岁的我决定退休了",
+      "onboard_time": 1703487934,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229027,
       "num": 151544,
       "word": "民众手持白菊悼念朱令",
       "onboard_time": 1703413354,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224955,
+      "num": 224955,
+      "word": "江苏卫视跨年第三波阵容官宣",
+      "onboard_time": 1703485357,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 223348,
@@ -803,22 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208333,
-      "num": 208333,
-      "word": "杨迪 我都想告节目组",
-      "onboard_time": 1703482656,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 208021,
-      "num": 208021,
-      "word": "江苏卫视跨年第三波阵容官宣",
-      "onboard_time": 1703485357,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207748,
       "num": 251474,
       "word": "赵露思cos英雄联盟格温",
@@ -833,6 +881,14 @@
       "onboard_time": 1703465555,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207193,
+      "num": 207193,
+      "word": "刚工作一年半就想退休",
+      "onboard_time": 1703487391,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 206485,
@@ -897,6 +953,14 @@
       "onboard_time": 1703484935,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194385,
+      "num": 194385,
+      "word": "aespa今日红毯",
+      "onboard_time": 1703488232,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 193892,
@@ -971,6 +1035,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 181602,
+      "num": 181602,
+      "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
+      "onboard_time": 1703488172,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181555,
       "num": 181555,
       "word": "一个好消息和一个坏消息",
@@ -1025,6 +1097,30 @@
       "onboard_time": 1703480858,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177408,
+      "num": 177408,
+      "word": "SBS直播",
+      "onboard_time": 1703486373,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 175792,
+      "num": 175792,
+      "word": "冯小刚葛优 毛雪汪",
+      "onboard_time": 1703487513,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175461,
+      "num": 175461,
+      "word": "风中有朵雨做的云",
+      "onboard_time": 1703487871,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 173415,
@@ -1259,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143261,
+      "num": 143261,
+      "word": "看了八秒才确定这是猫",
+      "onboard_time": 1703484573,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142104,
       "num": 142104,
       "word": "多地辟谣医保统筹额度将清零",
@@ -1291,14 +1395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140523,
-      "num": 140523,
-      "word": "看了八秒才确定这是猫",
-      "onboard_time": 1703484573,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 139490,
       "num": 139490,
       "word": "不要随意挤痘痘和黑头",
@@ -1321,6 +1417,14 @@
       "onboard_time": 1703462128,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133898,
+      "num": 133898,
+      "word": "玲娜贝儿 好可爱就是不知道在忙些什么",
+      "onboard_time": 1703488172,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 130032,
@@ -1353,6 +1457,14 @@
       "onboard_time": 1703432736,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126883,
+      "num": 126883,
+      "word": "雷鸣十一班雨中决裂",
+      "onboard_time": 1703487154,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 126142,
@@ -1417,6 +1529,14 @@
       "onboard_time": 1703430036,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118977,
+      "num": 143413,
+      "word": "吉林浮桥案再审黄德义维持原判",
+      "onboard_time": 1703488533,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117364,

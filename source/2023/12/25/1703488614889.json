@@ -1,0 +1,410 @@
+{
+  "runTime": 1703488614889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2550856,
+        "num": 2550856,
+        "word": "男子订婚后被告强奸一审被判3年",
+        "onboard_time": 1703481936,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411167,
+        "num": 1411167,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36882,
+        "num": 944684,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870277,
+        "num": 870277,
+        "word": "黄奕为穿上礼服缠了10层保鲜膜",
+        "onboard_time": 1703481338,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821062,
+        "num": 821062,
+        "word": "女研究生制售色情书被抓",
+        "onboard_time": 1703468016,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661635,
+        "num": 661635,
+        "word": "芒果格局",
+        "onboard_time": 1703482475,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613002,
+        "num": 613002,
+        "word": "日本人的身高越来越矮了",
+        "onboard_time": 1703476958,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560928,
+        "num": 560928,
+        "word": "警方回应研究生制售色情书卖青少年",
+        "onboard_time": 1703483317,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415870,
+        "num": 415870,
+        "word": "王俊凯官宣江苏卫视跨年",
+        "onboard_time": 1703487813,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378872,
+        "num": 378872,
+        "word": "小破站跨晚把许嵩冯禧都请来了",
+        "onboard_time": 1703486252,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547484,
+        "num": 378844,
+        "word": "腿姐 不是说好睡死过去的吗",
+        "onboard_time": 1703475757,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 378649,
+        "num": 378649,
+        "word": "麦当劳回应将涨价",
+        "onboard_time": 1703479900,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 334565,
+        "num": 334565,
+        "word": "澜花海FMVP皮肤",
+        "onboard_time": 1703486672,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 320087,
+        "num": 320087,
+        "word": "杨迪 我都想告节目组",
+        "onboard_time": 1703482656,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315870,
+        "num": 315870,
+        "word": "权志龙为防治毒品捐款3亿韩元",
+        "onboard_time": 1703483196,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303249,
+        "num": 303249,
+        "word": "25考研女生凌晨5点半起床占座",
+        "onboard_time": 1703477858,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 287823,
+        "num": 287823,
+        "word": "马立奥肖允儿湖南跨年合体",
+        "onboard_time": 1703480380,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284650,
+        "num": 284650,
+        "word": "同居生2孩7年后男方诉返还彩礼",
+        "onboard_time": 1703475874,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272773,
+        "num": 272773,
+        "word": "自助餐蘸料 压缩饼干碎",
+        "onboard_time": 1703487572,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256891,
+        "num": 256891,
+        "word": "黄子韬cue徐艺洋发言",
+        "onboard_time": 1703475874,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282637,
+        "num": 248643,
+        "word": "帝释天典藏皮肤",
+        "onboard_time": 1703488414,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239221,
+        "num": 239221,
+        "word": "女员工与男同事聊天过火被开除",
+        "onboard_time": 1703482957,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234942,
+        "num": 234942,
+        "word": "专科的风还是吹到了麻省理工",
+        "onboard_time": 1703468732,
+        "rank": 22,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 230596,
+        "num": 230596,
+        "word": "30岁的我决定退休了",
+        "onboard_time": 1703487934,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230097,
+        "num": 230097,
+        "word": "看到金智媛懂了骨相好抗老",
+        "onboard_time": 1703480203,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224955,
+        "num": 224955,
+        "word": "江苏卫视跨年第三波阵容官宣",
+        "onboard_time": 1703485357,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217022,
+        "num": 217022,
+        "word": "迪丽热巴双生神女",
+        "onboard_time": 1703477257,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207193,
+        "num": 207193,
+        "word": "刚工作一年半就想退休",
+        "onboard_time": 1703487391,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202096,
+        "num": 202096,
+        "word": "保温杯使用的5个禁忌",
+        "onboard_time": 1703471434,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 194385,
+        "num": 194385,
+        "word": "aespa今日红毯",
+        "onboard_time": 1703488232,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185775,
+        "num": 185775,
+        "word": "你更爱麦当劳还是肯德基",
+        "onboard_time": 1703486074,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181602,
+        "num": 181602,
+        "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
+        "onboard_time": 1703488172,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177408,
+        "num": 177408,
+        "word": "SBS直播",
+        "onboard_time": 1703486373,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175792,
+        "num": 175792,
+        "word": "冯小刚葛优 毛雪汪",
+        "onboard_time": 1703487513,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175461,
+        "num": 175461,
+        "word": "风中有朵雨做的云",
+        "onboard_time": 1703487871,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171049,
+        "num": 171049,
+        "word": "SBS节目单",
+        "onboard_time": 1703483317,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170189,
+        "num": 170189,
+        "word": "上海马戏城蹦床皮筋断裂演员被弹飞",
+        "onboard_time": 1703483433,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151578,
+        "num": 151578,
+        "word": "我在芬兰3年不上班",
+        "onboard_time": 1703473774,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145186,
+        "num": 145186,
+        "word": "弟弟 在良知和亲情之间选择了亲情",
+        "onboard_time": 1703478038,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118977,
+        "num": 143413,
+        "word": "吉林浮桥案再审黄德义维持原判",
+        "onboard_time": 1703488533,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143261,
+        "num": 143261,
+        "word": "看了八秒才确定这是猫",
+        "onboard_time": 1703484573,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138906,
+        "num": 138906,
+        "word": "张宇 理科确实很难学好",
+        "onboard_time": 1703484935,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133898,
+        "num": 133898,
+        "word": "玲娜贝儿 好可爱就是不知道在忙些什么",
+        "onboard_time": 1703488172,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129668,
+        "num": 129668,
+        "word": "王安宇 少来",
+        "onboard_time": 1703477558,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126883,
+        "num": 126883,
+        "word": "雷鸣十一班雨中决裂",
+        "onboard_time": 1703487154,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124978,
+        "num": 124978,
+        "word": "何炅杨紫二十年前",
+        "onboard_time": 1703476360,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120232,
+        "num": 120232,
+        "word": "雷军回应小米造车慢",
+        "onboard_time": 1703484095,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114459,
+        "num": 114459,
+        "word": "Ale回应Bin恋爱",
+        "onboard_time": 1703480858,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113632,
+        "num": 113632,
+        "word": "小猫辛辛苦苦抢了一块白菜帮",
+        "onboard_time": 1703473533,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108547,
+        "num": 108547,
+        "word": "淄博绿豆糕大爷回应热度下降",
+        "onboard_time": 1703485593,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进重点领域改革#"
+    }
+  }
+}
