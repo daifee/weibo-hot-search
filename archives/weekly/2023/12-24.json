@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703508432647,
+  "endTime": 1703510370159,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -201,6 +201,14 @@
       "onboard_time": 1703403932,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1731082,
+      "num": 1731082,
+      "word": "男子隔空猥亵8名幼女获刑7年半",
+      "onboard_time": 1703506474,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1686196,
@@ -443,6 +451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1026001,
+      "num": 1026001,
+      "word": "他只是做错题 又没有做错人",
+      "onboard_time": 1703505032,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1022536,
       "num": 477267,
       "word": "平安夜",
@@ -481,14 +497,6 @@
       "onboard_time": 1703428780,
       "rank": 7,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 948227,
-      "num": 948227,
-      "word": "男子隔空猥亵8名幼女获刑7年半",
-      "onboard_time": 1703506474,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 945422,
@@ -1195,14 +1203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 513829,
-      "num": 513829,
-      "word": "他只是做错题 又没有做错人",
-      "onboard_time": 1703505032,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 511731,
       "num": 511731,
       "word": "小破站跨晚把许嵩冯禧都请来了",
@@ -1283,6 +1283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 486040,
+      "num": 486040,
+      "word": "喻言 美得眼前一亮",
+      "onboard_time": 1703506594,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 482759,
       "num": 482759,
       "word": "朱令再见",
@@ -1304,6 +1312,14 @@
       "word": "浙江宣传发文考研不能成为二次高考",
       "onboard_time": 1703394214,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478305,
+      "num": 478305,
+      "word": "订婚强奸案男方亲属发声",
+      "onboard_time": 1703509176,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1523,12 +1539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414443,
+      "num": 414443,
+      "word": "蘑菇既不算素菜也不是荤菜",
+      "onboard_time": 1703507374,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 413391,
       "num": 413391,
       "word": "张艺兴长沙工作室经营异常",
       "onboard_time": 1703480080,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412825,
+      "num": 317293,
+      "word": "大便出现这些异常千万要当心",
+      "onboard_time": 1703509477,
+      "rank": 21,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 411972,
@@ -1585,14 +1617,6 @@
       "onboard_time": 1703422297,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 396161,
-      "num": 396161,
-      "word": "喻言 美得眼前一亮",
-      "onboard_time": 1703506594,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394226,
@@ -1683,20 +1707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371495,
+      "num": 371495,
+      "word": "5亿辈子很长吗 武艺被子就是短",
+      "onboard_time": 1703504496,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 369244,
       "num": 369244,
       "word": "郭敬明 大梦归离原始帧",
       "onboard_time": 1703460445,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366531,
-      "num": 353537,
-      "word": "5亿辈子很长吗 武艺被子就是短",
-      "onboard_time": 1703504496,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 365273,
@@ -1792,6 +1816,14 @@
       "word": "何炅要久久爱片头曲MV",
       "onboard_time": 1703475335,
       "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 341832,
+      "num": 341832,
+      "word": "李永钦摔下升降台",
+      "onboard_time": 1703509956,
+      "rank": 17,
       "category": "音乐"
     },
     {
@@ -1907,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322178,
+      "num": 322178,
+      "word": "于适主持",
+      "onboard_time": 1703507676,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321927,
       "num": 321927,
       "word": "狐妖小红娘竹业篇",
@@ -1955,14 +1995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 316177,
-      "num": 316177,
-      "word": "蘑菇既不算素菜也不是荤菜",
-      "onboard_time": 1703507374,
-      "rank": 41,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 314547,
       "num": 314547,
       "word": "TTG赛训",
@@ -1977,6 +2009,14 @@
       "onboard_time": 1703402671,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312874,
+      "num": 312874,
+      "word": "姐姐与妹妹争吵后将其双手肌腱割断",
+      "onboard_time": 1703509420,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311128,
@@ -2075,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296789,
+      "num": 296789,
+      "word": "繁花",
+      "onboard_time": 1703507374,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296297,
       "num": 296297,
       "word": "周淑怡现身管泽元余霜婚礼",
@@ -2113,22 +2161,6 @@
       "onboard_time": 1703361435,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 290152,
-      "num": 290152,
-      "word": "于适主持",
-      "onboard_time": 1703507676,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 289664,
-      "num": 289664,
-      "word": "繁花",
-      "onboard_time": 1703507374,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 287625,
@@ -3035,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198873,
+      "num": 198873,
+      "word": "我知道我爱你",
+      "onboard_time": 1703509895,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197807,
       "num": 197807,
       "word": "热力追踪",
@@ -3097,6 +3137,14 @@
       "onboard_time": 1703430816,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195961,
+      "num": 195961,
+      "word": "陆虎冻的嘴唇粘麦克风上了",
+      "onboard_time": 1703509654,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 195556,
@@ -3227,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190188,
+      "num": 190188,
+      "word": "印度逮捕vivo两名高管",
+      "onboard_time": 1703508516,
+      "rank": 31,
+      "category": "数码,社会新闻"
+    },
+    {
       "raw_hot": 189133,
       "num": 189133,
       "word": "鼓励落实带薪年假安排职工除夕休息",
@@ -3281,6 +3337,14 @@
       "onboard_time": 1703324979,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186444,
+      "num": 186444,
+      "word": "一念关山科目三",
+      "onboard_time": 1703508632,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 186336,
@@ -3593,6 +3657,14 @@
       "onboard_time": 1703337160,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171424,
+      "num": 171424,
+      "word": "呼叫2024",
+      "onboard_time": 1703509713,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171404,
@@ -4211,6 +4283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144762,
+      "num": 144762,
+      "word": "脱轨",
+      "onboard_time": 1703505334,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144665,
       "num": 144665,
       "word": "这是什么鬼户型",
@@ -4467,20 +4547,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133622,
-      "num": 133622,
-      "word": "脱轨",
-      "onboard_time": 1703505334,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133574,
       "num": 896016,
       "word": "徐州80名企业家向甘肃震区捐赠物资",
       "onboard_time": 1703497834,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133459,
+      "num": 133459,
+      "word": "三大队",
+      "onboard_time": 1703402312,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 133354,
@@ -4627,6 +4707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128353,
+      "num": 128353,
+      "word": "2023德杯小组赛",
+      "onboard_time": 1703509895,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127954,
       "num": 127954,
       "word": "韩红 声生不息",
@@ -4673,6 +4761,14 @@
       "onboard_time": 1703473533,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 126051,
+      "num": 126051,
+      "word": "民警得知60万元被追回笑声响彻办公室",
+      "onboard_time": 1703509775,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125818,
@@ -4729,14 +4825,6 @@
       "onboard_time": 1703377467,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123036,
-      "num": 123036,
-      "word": "三大队",
-      "onboard_time": 1703402312,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 122941,
@@ -5515,6 +5603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23077,
+      "num": 359641,
+      "word": "世界好礼新年音乐会",
+      "onboard_time": 1703509236,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20006,
       "num": 20006,
       "word": "2023年最后一周",
@@ -5605,6 +5701,9 @@
     },
     {
       "word": "#深入推进重点领域改革#"
+    },
+    {
+      "word": "#中央军委举行晋升上将军衔仪式#"
     }
   ]
 }
