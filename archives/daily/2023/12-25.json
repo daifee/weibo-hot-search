@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703500536903,
+  "endTime": 1703502879101,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -67,8 +67,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1614890,
-      "num": 543801,
+      "raw_hot": 1686196,
+      "num": 607978,
       "word": "月经推迟 身体缺血",
       "onboard_time": 1703498377,
       "rank": 11,
@@ -89,6 +89,14 @@
       "onboard_time": 1703476658,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1402989,
+      "num": 1402989,
+      "word": "我们只是师生关系 你越界了",
+      "onboard_time": 1703500956,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 1368275,
@@ -195,6 +203,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 884354,
+      "num": 607640,
+      "word": "赵丽颖 刘宇宁沧桑写在脸上",
+      "onboard_time": 1703501117,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 883851,
       "num": 883851,
       "word": "经纪人王力威退出肖战前工作室",
@@ -259,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 772828,
+      "num": 772828,
+      "word": "优酷确认获得知否独播权",
+      "onboard_time": 1703501254,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 750042,
       "num": 750042,
       "word": "芒果格局",
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 737513,
-      "num": 1170432,
+      "num": 1375587,
       "word": "男子心脏停跳90分钟医生接力救回",
       "onboard_time": 1703494836,
       "rank": 21,
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 620376,
-      "num": 533908,
+      "num": 579793,
       "word": "孙红雷含泪cue张艺兴",
       "onboard_time": 1703499275,
       "rank": 27,
@@ -369,6 +393,14 @@
       "onboard_time": 1703460806,
       "rank": 39,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 608019,
+      "num": 608019,
+      "word": "网易暴雪复合",
+      "onboard_time": 1703502338,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 602982,
@@ -425,6 +457,14 @@
       "onboard_time": 1703418092,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 545562,
+      "num": 545562,
+      "word": "被斗鱼索赔8000万女生三年赚不足20万",
+      "onboard_time": 1703501014,
+      "rank": 14,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 542417,
@@ -649,6 +689,14 @@
       "onboard_time": 1703477558,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385725,
+      "num": 385725,
+      "word": "中央军委举行晋升上将军衔仪式",
+      "onboard_time": 1703500772,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 380766,
@@ -883,6 +931,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 297447,
+      "num": 168752,
+      "word": "3D还原订婚强奸案",
+      "onboard_time": 1703502215,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296297,
       "num": 296297,
       "word": "周淑怡现身管泽元余霜婚礼",
@@ -955,6 +1011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263123,
+      "num": 263123,
+      "word": "刘雅瑟说演刘德华太太是高危职业",
+      "onboard_time": 1703501135,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261975,
       "num": 261975,
       "word": "外交部回应春节成为联合国假日",
@@ -993,6 +1057,14 @@
       "onboard_time": 1703472155,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 245111,
+      "num": 245111,
+      "word": "Yuna红发",
+      "onboard_time": 1703500655,
+      "rank": 24,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 243052,
@@ -1187,7 +1259,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199693,
+      "raw_hot": 201763,
       "num": 980020,
       "word": "女孩给陌生猫咪送暖宝宝取暖",
       "onboard_time": 1703497834,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1703484935,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194134,
+      "num": 194134,
+      "word": "陈哲远 看我不迷死你们",
+      "onboard_time": 1703500236,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193892,
@@ -1491,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171404,
+      "num": 171404,
+      "word": "辛芷蕾繁花杀青杀了4次",
+      "onboard_time": 1703501855,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171185,
       "num": 171185,
       "word": "新疆3.1级地震",
@@ -1609,6 +1697,14 @@
       "onboard_time": 1703473894,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162411,
+      "num": 749621,
+      "word": "何老师和他的放牛班",
+      "onboard_time": 1703502454,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162044,
@@ -1803,12 +1899,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144774,
+      "num": 144774,
+      "word": "J人和P人大脑的区别",
+      "onboard_time": 1703501374,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143261,
       "num": 143261,
       "word": "看了八秒才确定这是猫",
       "onboard_time": 1703484573,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142814,
+      "num": 142814,
+      "word": "多地自助彩票机被叫停",
+      "onboard_time": 1703502575,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 142104,
@@ -1851,14 +1963,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 139150,
-      "num": 139150,
-      "word": "陈哲远 看我不迷死你们",
-      "onboard_time": 1703500236,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 136963,
       "num": 136963,
       "word": "蔡老板恶意诋毁汽车企业名誉被封号",
@@ -1873,6 +1977,14 @@
       "onboard_time": 1703433214,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136660,
+      "num": 136660,
+      "word": "蝴蝶落在了狗狗的鼻子上",
+      "onboard_time": 1703501736,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 134697,
@@ -1953,6 +2065,14 @@
       "onboard_time": 1703487154,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126633,
+      "num": 126633,
+      "word": "狗狗出趟门回来给自己染了个头",
+      "onboard_time": 1703502696,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 126142,
@@ -2105,6 +2225,14 @@
       "onboard_time": 1703494417,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107626,
+      "num": 107626,
+      "word": "萌兰人里人气接笋笋",
+      "onboard_time": 1703502815,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106983,
