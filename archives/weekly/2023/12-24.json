@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703482446941,
+  "endTime": 1703485405829,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -81,6 +81,14 @@
       "onboard_time": 1703407894,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2367945,
+      "num": 2367945,
+      "word": "男子订婚后被告强奸一审被判3年",
+      "onboard_time": 1703481936,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2315939,
@@ -683,6 +691,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 683483,
+      "num": 683483,
+      "word": "黄奕为穿上礼服缠了10层保鲜膜",
+      "onboard_time": 1703481338,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 680879,
+      "num": 680879,
+      "word": "芒果格局",
+      "onboard_time": 1703482475,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 676602,
       "num": 676602,
       "word": "法综 我自己编笑了",
@@ -748,7 +772,7 @@
     },
     {
       "raw_hot": 645987,
-      "num": 358185,
+      "num": 463925,
       "word": "日本人的身高越来越矮了",
       "onboard_time": 1703476958,
       "rank": 20,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563608,
+      "num": 443589,
+      "word": "权志龙为防治毒品捐款3亿韩元",
+      "onboard_time": 1703483196,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542417,
       "num": 542417,
       "word": "雷军 小米汽车",
@@ -987,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 501693,
-      "num": 272270,
-      "word": "男子订婚后被告强奸一审被判3年",
-      "onboard_time": 1703481936,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500983,
       "num": 500983,
       "word": "你一共经历了7434次精神内耗",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1703428062,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 474528,
-      "num": 474528,
-      "word": "黄奕为穿上礼服缠了10层保鲜膜",
-      "onboard_time": 1703481338,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 472383,
@@ -1176,6 +1192,14 @@
       "word": "吉林发现被东北虎咬死的东北豹",
       "onboard_time": 1703379087,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441235,
+      "num": 441235,
+      "word": "警方回应研究生制售色情书卖青少年",
+      "onboard_time": 1703483317,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1731,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279098,
+      "num": 279098,
+      "word": "女员工与男同事聊天过火被开除",
+      "onboard_time": 1703482957,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276773,
       "num": 276773,
       "word": "洗牙是智商税吗",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1703388453,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260917,
+      "num": 260917,
+      "word": "SBS节目单",
+      "onboard_time": 1703483317,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 260607,
@@ -2299,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208333,
+      "num": 208333,
+      "word": "杨迪 我都想告节目组",
+      "onboard_time": 1703482656,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207915,
       "num": 207915,
       "word": "张小斐一开口就有年味了",
@@ -2345,6 +2393,14 @@
       "onboard_time": 1703394814,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204284,
+      "num": 204284,
+      "word": "上海马戏城蹦床皮筋断裂演员被弹飞",
+      "onboard_time": 1703483433,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203943,
@@ -2635,6 +2691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 183268,
+      "num": 183268,
+      "word": "雷军回应小米造车慢",
+      "onboard_time": 1703484095,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183199,
       "num": 183199,
       "word": "詹姆斯质疑名人堂评选规则",
@@ -2657,6 +2721,14 @@
       "onboard_time": 1703416294,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181560,
+      "num": 173175,
+      "word": "张宇 理科确实很难学好",
+      "onboard_time": 1703484935,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 181555,
@@ -2705,6 +2777,14 @@
       "onboard_time": 1703479063,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177895,
+      "num": 177895,
+      "word": "檀健次泼李现一击即中",
+      "onboard_time": 1703483433,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 177460,
@@ -2785,6 +2865,14 @@
       "onboard_time": 1703477319,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172273,
+      "num": 172273,
+      "word": "张艺兴工作室回应经营异常",
+      "onboard_time": 1703485056,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 172190,
@@ -3083,6 +3171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153105,
+      "num": 153105,
+      "word": "小米汽车发布会不发产品",
+      "onboard_time": 1703482298,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 152864,
       "num": 152864,
       "word": "师妹教博士师兄怎么谈恋爱",
@@ -3283,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140523,
+      "num": 140523,
+      "word": "看了八秒才确定这是猫",
+      "onboard_time": 1703484573,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140380,
       "num": 2859868,
       "word": "不管多晚我们都会让每个帐篷有盏亮灯",
@@ -3337,6 +3441,14 @@
       "onboard_time": 1703375425,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137712,
+      "num": 137712,
+      "word": "江苏卫视跨年第三波阵容官宣",
+      "onboard_time": 1703485357,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 136919,
@@ -3529,6 +3641,14 @@
       "onboard_time": 1703328935,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 127954,
+      "num": 127954,
+      "word": "韩红 声生不息",
+      "onboard_time": 1703483073,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 127901,
@@ -4043,6 +4163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 70939,
+      "num": 444053,
+      "word": "1228车圈春晚",
+      "onboard_time": 1703482415,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66950,
       "num": 375730,
       "word": "天猫过节三件套成为新流行",
@@ -4225,14 +4353,6 @@
       "onboard_time": 1703374401,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30709,
-      "num": 133105,
-      "word": "1228车圈春晚",
-      "onboard_time": 1703482415,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 29324,

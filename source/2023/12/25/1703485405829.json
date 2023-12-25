@@ -1,0 +1,410 @@
+{
+  "runTime": 1703485405829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2367945,
+        "num": 2367945,
+        "word": "男子订婚后被告强奸一审被判3年",
+        "onboard_time": 1703481936,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2292122,
+        "num": 2292122,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43659,
+        "num": 788235,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719199,
+        "num": 719199,
+        "word": "女研究生制售色情书被抓",
+        "onboard_time": 1703468016,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683483,
+        "num": 683483,
+        "word": "黄奕为穿上礼服缠了10层保鲜膜",
+        "onboard_time": 1703481338,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680879,
+        "num": 680879,
+        "word": "芒果格局",
+        "onboard_time": 1703482475,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617010,
+        "num": 617010,
+        "word": "马立奥肖允儿湖南跨年合体",
+        "onboard_time": 1703480380,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551055,
+        "num": 551055,
+        "word": "黄子韬cue徐艺洋发言",
+        "onboard_time": 1703475874,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463925,
+        "num": 463925,
+        "word": "日本人的身高越来越矮了",
+        "onboard_time": 1703476958,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452224,
+        "num": 452224,
+        "word": "专科的风还是吹到了麻省理工",
+        "onboard_time": 1703468732,
+        "rank": 9,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 567937,
+        "num": 448801,
+        "word": "腿姐 不是说好睡死过去的吗",
+        "onboard_time": 1703475757,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 70939,
+        "num": 444053,
+        "word": "1228车圈春晚",
+        "onboard_time": 1703482415,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 563608,
+        "num": 443589,
+        "word": "权志龙为防治毒品捐款3亿韩元",
+        "onboard_time": 1703483196,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441235,
+        "num": 441235,
+        "word": "警方回应研究生制售色情书卖青少年",
+        "onboard_time": 1703483317,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437386,
+        "num": 437386,
+        "word": "弟弟 在良知和亲情之间选择了亲情",
+        "onboard_time": 1703478038,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423664,
+        "num": 423664,
+        "word": "麦当劳回应将涨价",
+        "onboard_time": 1703479900,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 422149,
+        "num": 422149,
+        "word": "25考研女生凌晨5点半起床占座",
+        "onboard_time": 1703477858,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 351477,
+        "num": 351477,
+        "word": "看到金智媛懂了骨相好抗老",
+        "onboard_time": 1703480203,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322520,
+        "num": 322520,
+        "word": "迪丽热巴双生神女",
+        "onboard_time": 1703477257,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300174,
+        "num": 300174,
+        "word": "同居生2孩7年后男方诉返还彩礼",
+        "onboard_time": 1703475874,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279098,
+        "num": 279098,
+        "word": "女员工与男同事聊天过火被开除",
+        "onboard_time": 1703482957,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269089,
+        "num": 269089,
+        "word": "张艺兴长沙工作室经营异常",
+        "onboard_time": 1703480080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260917,
+        "num": 260917,
+        "word": "SBS节目单",
+        "onboard_time": 1703483317,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245986,
+        "num": 245986,
+        "word": "王安宇 少来",
+        "onboard_time": 1703477558,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212761,
+        "num": 212761,
+        "word": "我在芬兰3年不上班",
+        "onboard_time": 1703473774,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208333,
+        "num": 208333,
+        "word": "杨迪 我都想告节目组",
+        "onboard_time": 1703482656,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204284,
+        "num": 204284,
+        "word": "上海马戏城蹦床皮筋断裂演员被弹飞",
+        "onboard_time": 1703483433,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183268,
+        "num": 183268,
+        "word": "雷军回应小米造车慢",
+        "onboard_time": 1703484095,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177895,
+        "num": 177895,
+        "word": "檀健次泼李现一击即中",
+        "onboard_time": 1703483433,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173316,
+        "num": 173316,
+        "word": "曾舜晞 想祝福不知该给谁",
+        "onboard_time": 1703479777,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181560,
+        "num": 173175,
+        "word": "张宇 理科确实很难学好",
+        "onboard_time": 1703484935,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172867,
+        "num": 172867,
+        "word": "何炅杨紫二十年前",
+        "onboard_time": 1703476360,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172273,
+        "num": 172273,
+        "word": "张艺兴工作室回应经营异常",
+        "onboard_time": 1703485056,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167943,
+        "num": 167943,
+        "word": "保温杯使用的5个禁忌",
+        "onboard_time": 1703471434,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 166719,
+        "num": 166719,
+        "word": "Ale回应Bin恋爱",
+        "onboard_time": 1703480858,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164872,
+        "num": 164872,
+        "word": "周一确诊为大娘子",
+        "onboard_time": 1703467413,
+        "rank": 35,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 158731,
+        "num": 158731,
+        "word": "陈都灵 美艳女妖",
+        "onboard_time": 1703460685,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153105,
+        "num": 153105,
+        "word": "小米汽车发布会不发产品",
+        "onboard_time": 1703482298,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151685,
+        "num": 151685,
+        "word": "这小说我夸了一整年",
+        "onboard_time": 1703479600,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 143756,
+        "num": 143756,
+        "word": "小猫辛辛苦苦抢了一块白菜帮",
+        "onboard_time": 1703473533,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140523,
+        "num": 140523,
+        "word": "看了八秒才确定这是猫",
+        "onboard_time": 1703484573,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138440,
+        "num": 138440,
+        "word": "男子供养女友及其丈夫一家5年",
+        "onboard_time": 1703469874,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137712,
+        "num": 137712,
+        "word": "江苏卫视跨年第三波阵容官宣",
+        "onboard_time": 1703485357,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137457,
+        "num": 137457,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1703474855,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135441,
+        "num": 135441,
+        "word": "张晚意第一部现偶剧",
+        "onboard_time": 1703479180,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133343,
+        "num": 133343,
+        "word": "一个好消息和一个坏消息",
+        "onboard_time": 1703479659,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129202,
+        "num": 129202,
+        "word": "经纪人王力威退出肖战前工作室",
+        "onboard_time": 1703474076,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127954,
+        "num": 127954,
+        "word": "韩红 声生不息",
+        "onboard_time": 1703483073,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124024,
+        "num": 124024,
+        "word": "2024元旦放假安排来了",
+        "onboard_time": 1703464356,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122898,
+        "num": 122898,
+        "word": "迪丽热巴黑粉拒不道歉被强执",
+        "onboard_time": 1703471973,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进重点领域改革#"
+    }
+  }
+}
