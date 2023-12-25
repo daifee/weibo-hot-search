@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703511239321,
+  "endTime": 1703513758370,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -40,6 +40,14 @@
       "word": "朱令讣告",
       "onboard_time": 1703396252,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2904446,
+      "num": 1251956,
+      "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
+      "onboard_time": 1703510916,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1265179,
+      "num": 1265179,
+      "word": "李永钦摔下升降台",
+      "onboard_time": 1703509956,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1258199,
       "num": 1258199,
       "word": "赵露思cos英雄联盟格温",
@@ -371,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1136454,
-      "num": 1136454,
-      "word": "李永钦摔下升降台",
-      "onboard_time": 1703509956,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1127864,
       "num": 1127864,
       "word": "黄绮珊 没有孩子是我的人生遗憾",
@@ -409,6 +417,14 @@
       "onboard_time": 1703501254,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1106976,
+      "num": 1106976,
+      "word": "订婚强奸案后女方家属想尽快结婚",
+      "onboard_time": 1703511515,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1106559,
@@ -649,6 +665,14 @@
       "onboard_time": 1703409995,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 816524,
+      "num": 816524,
+      "word": "姐姐与妹妹争吵后将其双手肌腱割断",
+      "onboard_time": 1703509420,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 813029,
@@ -985,14 +1009,6 @@
       "onboard_time": 1703460806,
       "rank": 39,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 606147,
-      "num": 606147,
-      "word": "姐姐与妹妹争吵后将其双手肌腱割断",
-      "onboard_time": 1703509420,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596978,
@@ -1979,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319309,
+      "num": 319309,
+      "word": "人类历史上第一条手机短信",
+      "onboard_time": 1703510974,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319194,
       "num": 319194,
       "word": "aespa今日红毯",
@@ -2443,14 +2467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 256020,
-      "num": 256020,
-      "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
-      "onboard_time": 1703510916,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254253,
       "num": 254253,
       "word": "解清帅回应直播带货",
@@ -2705,6 +2721,14 @@
       "onboard_time": 1703426435,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230393,
+      "num": 230393,
+      "word": "杭高4名男生腹肌照火了",
+      "onboard_time": 1703511336,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 228689,
@@ -3467,6 +3491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181313,
+      "num": 159540,
+      "word": "男子买房放女友名下分手后全要回",
+      "onboard_time": 1703513135,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180865,
       "num": 180865,
       "word": "WB晋级败者组第二轮",
@@ -3521,6 +3553,14 @@
       "onboard_time": 1703479063,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178059,
+      "num": 178059,
+      "word": "刘浩存哭戏",
+      "onboard_time": 1703512775,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 177895,
@@ -3923,6 +3963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161454,
+      "num": 161454,
+      "word": "龙心 抢不到",
+      "onboard_time": 1703511037,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 161078,
       "num": 161078,
       "word": "孙子兵法凭什么入选年度商品",
@@ -4227,11 +4275,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149982,
+      "num": 149982,
+      "word": "订婚强奸案受害人左右手臂均有淤青",
+      "onboard_time": 1703512595,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149506,
       "num": 149506,
       "word": "文旅部发布元旦春节出游提示",
       "onboard_time": 1703470414,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149303,
+      "num": 149303,
+      "word": "山西订婚强奸案此前多个版本为谣言",
+      "onboard_time": 1703513135,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -4251,14 +4315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147692,
-      "num": 147692,
-      "word": "人类历史上第一条手机短信",
-      "onboard_time": 1703510974,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147242,
       "num": 147242,
       "word": "有的人表面是王子背地是癫公",
@@ -4273,6 +4329,14 @@
       "onboard_time": 1703475698,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146834,
+      "num": 146834,
+      "word": "张碧晨直播",
+      "onboard_time": 1703511575,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 146409,
@@ -4739,6 +4803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128483,
+      "num": 128483,
+      "word": "请用一句话告别2023",
+      "onboard_time": 1703512178,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128353,
       "num": 128353,
       "word": "2023德杯小组赛",
@@ -4979,6 +5051,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 117136,
+      "num": 117136,
+      "word": "湖南卫视跨年舞美",
+      "onboard_time": 1703513615,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117058,
       "num": 117058,
       "word": "山东蓬莱海面现海滋奇观",
@@ -5073,14 +5153,6 @@
       "onboard_time": 1703384671,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112676,
-      "num": 112676,
-      "word": "龙心 抢不到",
-      "onboard_time": 1703511037,
-      "rank": 48,
-      "category": "时尚"
     },
     {
       "raw_hot": 112250,
@@ -5179,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106110,
+      "num": 106110,
+      "word": "李永钦报平安",
+      "onboard_time": 1703512057,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104195,
       "num": 1040294,
       "word": "甘肃震区中小学有序复课",
@@ -5249,6 +5329,14 @@
       "onboard_time": 1703477437,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96242,
+      "num": 96242,
+      "word": "脱轨校园戏",
+      "onboard_time": 1703513737,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 95498,
