@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703492529695,
+  "endTime": 1703493311326,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2548812,
-      "num": 2548812,
+      "raw_hot": 2750768,
+      "num": 2750768,
       "word": "挖呀挖桃子老师每场直播收入仅千元",
       "onboard_time": 1703489373,
       "rank": 22,
@@ -267,8 +267,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 666153,
-      "num": 666153,
+      "raw_hot": 666999,
+      "num": 666999,
       "word": "乡政府回应40万斤牛蛙一夜死亡",
       "onboard_time": 1703489313,
       "rank": 33,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 518324,
+      "num": 501156,
+      "word": "胡先煦 年下不叫姐心思有点野",
+      "onboard_time": 1703492074,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511731,
       "num": 511731,
       "word": "小破站跨晚把许嵩冯禧都请来了",
@@ -505,6 +513,14 @@
       "onboard_time": 1703434651,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 426758,
+      "num": 426758,
+      "word": "官方通报订婚强奸案",
+      "onboard_time": 1703492735,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415870,
@@ -611,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347574,
+      "num": 347574,
+      "word": "一些留学生回国后的报复性行为",
+      "onboard_time": 1703490394,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347172,
       "num": 347172,
       "word": "赤西仁黑木明纱官宣离婚",
@@ -625,6 +649,22 @@
       "onboard_time": 1703475335,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 339831,
+      "num": 339831,
+      "word": "周深 两颗痣的才是我",
+      "onboard_time": 1703491297,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339647,
+      "num": 339647,
+      "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
+      "onboard_time": 1703488172,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 338784,
@@ -659,14 +699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 323676,
-      "num": 323676,
-      "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
-      "onboard_time": 1703488172,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 320469,
       "num": 320469,
       "word": "多邻国油炸小绿鸟",
@@ -691,12 +723,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 309102,
-      "num": 309102,
-      "word": "一些留学生回国后的报复性行为",
-      "onboard_time": 1703490394,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 311128,
+      "num": 311128,
+      "word": "吉林浮桥案",
+      "onboard_time": 1703490633,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306491,
@@ -755,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286193,
-      "num": 286193,
-      "word": "吉林浮桥案",
-      "onboard_time": 1703490633,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282648,
       "num": 229586,
       "word": "原来分享欲不是喜欢",
@@ -785,14 +809,6 @@
       "onboard_time": 1703482957,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268121,
-      "num": 268121,
-      "word": "周深 两颗痣的才是我",
-      "onboard_time": 1703491297,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 268090,
@@ -883,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224235,
-      "num": 168936,
-      "word": "胡先煦 年下不叫姐心思有点野",
-      "onboard_time": 1703492074,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223348,
       "num": 223348,
       "word": "上海迪士尼疯狂动物城遭遇了什么",
@@ -905,6 +913,14 @@
       "onboard_time": 1703470054,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219384,
+      "num": 219384,
+      "word": "确诊为孙悟空",
+      "onboard_time": 1703492194,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 219287,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1703470173,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195556,
+      "num": 195556,
+      "word": "韩红基金会辟谣",
+      "onboard_time": 1703492913,
+      "rank": 26,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 195243,
@@ -1395,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156756,
+      "num": 156756,
+      "word": "姚晨贾静雯你俩这么浪漫",
+      "onboard_time": 1703492376,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153706,
       "num": 153706,
       "word": "檀健次卷王的自我修养",
@@ -1427,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151632,
+      "num": 151632,
+      "word": "NCT好好笑的红毯",
+      "onboard_time": 1703492735,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151164,
       "num": 151164,
       "word": "大喜的日子却苦了猫猫",
@@ -1449,14 +1489,6 @@
       "onboard_time": 1703466516,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 148804,
-      "num": 148804,
-      "word": "姚晨贾静雯你俩这么浪漫",
-      "onboard_time": 1703492376,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 148142,
@@ -1547,6 +1579,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 139091,
+      "num": 139091,
+      "word": "赵露思凤皇妆造",
+      "onboard_time": 1703493094,
+      "rank": 37,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 136963,
       "num": 136963,
       "word": "蔡老板恶意诋毁汽车企业名誉被封号",
@@ -1563,28 +1603,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134051,
-      "num": 134051,
-      "word": "地震致青海海东32人遇难",
-      "onboard_time": 1703462128,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133855,
-      "num": 133855,
+      "raw_hot": 134697,
+      "num": 134697,
       "word": "NCTDREAM红毯礼物",
       "onboard_time": 1703492253,
       "rank": 43,
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 133183,
-      "num": 133183,
-      "word": "确诊为孙悟空",
-      "onboard_time": 1703492194,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 134051,
+      "num": 134051,
+      "word": "地震致青海海东32人遇难",
+      "onboard_time": 1703462128,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130032,
@@ -1665,6 +1697,14 @@
       "onboard_time": 1703403932,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121056,
+      "num": 121056,
+      "word": "刘海的重要性",
+      "onboard_time": 1703493158,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 119865,

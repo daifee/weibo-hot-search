@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703492529695,
+  "endTime": 1703493311326,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2750768,
+      "num": 2750768,
+      "word": "挖呀挖桃子老师每场直播收入仅千元",
+      "onboard_time": 1703489373,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2690175,
       "num": 521295,
       "word": "陶勇",
@@ -89,14 +97,6 @@
       "onboard_time": 1703407894,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2548812,
-      "num": 2548812,
-      "word": "挖呀挖桃子老师每场直播收入仅千元",
-      "onboard_time": 1703489373,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2315939,
@@ -739,8 +739,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 666153,
-      "num": 666153,
+      "raw_hot": 666999,
+      "num": 666999,
       "word": "乡政府回应40万斤牛蛙一夜死亡",
       "onboard_time": 1703489313,
       "rank": 33,
@@ -1035,6 +1035,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 518324,
+      "num": 501156,
+      "word": "胡先煦 年下不叫姐心思有点野",
+      "onboard_time": 1703492074,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511731,
       "num": 511731,
       "word": "小破站跨晚把许嵩冯禧都请来了",
@@ -1283,6 +1291,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 426758,
+      "num": 426758,
+      "word": "官方通报订婚强奸案",
+      "onboard_time": 1703492735,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422359,
       "num": 422359,
       "word": "小米汽车",
@@ -1499,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347574,
+      "num": 347574,
+      "word": "一些留学生回国后的报复性行为",
+      "onboard_time": 1703490394,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347172,
       "num": 347172,
       "word": "赤西仁黑木明纱官宣离婚",
@@ -1529,6 +1553,22 @@
       "onboard_time": 1703362274,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 339831,
+      "num": 339831,
+      "word": "周深 两颗痣的才是我",
+      "onboard_time": 1703491297,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 339647,
+      "num": 339647,
+      "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
+      "onboard_time": 1703488172,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 339406,
@@ -1603,14 +1643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323676,
-      "num": 323676,
-      "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
-      "onboard_time": 1703488172,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 323256,
       "num": 323256,
       "word": "井胧 得亏没签公司",
@@ -1675,20 +1707,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311128,
+      "num": 311128,
+      "word": "吉林浮桥案",
+      "onboard_time": 1703490633,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309962,
       "num": 228181,
       "word": "别朱令广陵散",
       "onboard_time": 1703416235,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309102,
-      "num": 309102,
-      "word": "一些留学生回国后的报复性行为",
-      "onboard_time": 1703490394,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 307972,
@@ -1835,14 +1867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286193,
-      "num": 286193,
-      "word": "吉林浮桥案",
-      "onboard_time": 1703490633,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285224,
       "num": 285224,
       "word": "StrayKids 换乘恋爱",
@@ -1953,14 +1977,6 @@
       "onboard_time": 1703382509,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268121,
-      "num": 268121,
-      "word": "周深 两颗痣的才是我",
-      "onboard_time": 1703491297,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 267006,
@@ -2347,14 +2363,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 224235,
-      "num": 168936,
-      "word": "胡先煦 年下不叫姐心思有点野",
-      "onboard_time": 1703492074,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223348,
       "num": 223348,
       "word": "上海迪士尼疯狂动物城遭遇了什么",
@@ -2385,6 +2393,14 @@
       "onboard_time": 1703390257,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219384,
+      "num": 219384,
+      "word": "确诊为孙悟空",
+      "onboard_time": 1703492194,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 219287,
@@ -2673,6 +2689,14 @@
       "onboard_time": 1703430816,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195556,
+      "num": 195556,
+      "word": "韩红基金会辟谣",
+      "onboard_time": 1703492913,
+      "rank": 26,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 195243,
@@ -3363,6 +3387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 156756,
+      "num": 156756,
+      "word": "姚晨贾静雯你俩这么浪漫",
+      "onboard_time": 1703492376,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156373,
       "num": 156373,
       "word": "马保国闪电五连鞭重出江湖",
@@ -3467,6 +3499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151632,
+      "num": 151632,
+      "word": "NCT好好笑的红毯",
+      "onboard_time": 1703492735,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151164,
       "num": 151164,
       "word": "大喜的日子却苦了猫猫",
@@ -3513,14 +3553,6 @@
       "onboard_time": 1703378970,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148804,
-      "num": 148804,
-      "word": "姚晨贾静雯你俩这么浪漫",
-      "onboard_time": 1703492376,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 147242,
@@ -3699,6 +3731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139091,
+      "num": 139091,
+      "word": "赵露思凤皇妆造",
+      "onboard_time": 1703493094,
+      "rank": 37,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 138971,
       "num": 138971,
       "word": "手语手套",
@@ -3771,6 +3811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 134697,
+      "num": 134697,
+      "word": "NCTDREAM红毯礼物",
+      "onboard_time": 1703492253,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 134625,
       "num": 134625,
       "word": "甘肃红十字回应疑赈灾清单价格高昂",
@@ -3803,14 +3851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133855,
-      "num": 133855,
-      "word": "NCTDREAM红毯礼物",
-      "onboard_time": 1703492253,
-      "rank": 43,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 133354,
       "num": 133354,
       "word": "张凌赫雨中撑伞路透",
@@ -3824,14 +3864,6 @@
       "word": "猫猫起床第一件事",
       "onboard_time": 1703388571,
       "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 133183,
-      "num": 133183,
-      "word": "确诊为孙悟空",
-      "onboard_time": 1703492194,
-      "rank": 44,
       "category": "幽默"
     },
     {
@@ -4065,6 +4097,14 @@
       "onboard_time": 1703398229,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121056,
+      "num": 121056,
+      "word": "刘海的重要性",
+      "onboard_time": 1703493158,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 120834,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1703493311326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2750768,
+        "num": 2750768,
+        "word": "挖呀挖桃子老师每场直播收入仅千元",
+        "onboard_time": 1703489373,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618758,
+        "num": 1618758,
+        "word": "男子订婚后被告强奸一审被判3年",
+        "onboard_time": 1703481936,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23547,
+        "num": 1150816,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939778,
+        "num": 939778,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 860274,
+        "num": 860274,
+        "word": "女研究生制售色情书被抓",
+        "onboard_time": 1703468016,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666999,
+        "num": 666999,
+        "word": "乡政府回应40万斤牛蛙一夜死亡",
+        "onboard_time": 1703489313,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576368,
+        "num": 576368,
+        "word": "黄奕为穿上礼服缠了10层保鲜膜",
+        "onboard_time": 1703481338,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521469,
+        "num": 521469,
+        "word": "芒果格局",
+        "onboard_time": 1703482475,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514165,
+        "num": 514165,
+        "word": "王俊凯王源 江苏跨年",
+        "onboard_time": 1703490813,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 504711,
+        "num": 504711,
+        "word": "张元英珍珠双马尾",
+        "onboard_time": 1703490453,
+        "rank": 9,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 518324,
+        "num": 501156,
+        "word": "胡先煦 年下不叫姐心思有点野",
+        "onboard_time": 1703492074,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447778,
+        "num": 447778,
+        "word": "自助餐蘸料 压缩饼干碎",
+        "onboard_time": 1703487572,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 426758,
+        "num": 426758,
+        "word": "官方通报订婚强奸案",
+        "onboard_time": 1703492735,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366578,
+        "num": 366578,
+        "word": "日本人的身高越来越矮了",
+        "onboard_time": 1703476958,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347574,
+        "num": 347574,
+        "word": "一些留学生回国后的报复性行为",
+        "onboard_time": 1703490394,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339831,
+        "num": 339831,
+        "word": "周深 两颗痣的才是我",
+        "onboard_time": 1703491297,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339647,
+        "num": 339647,
+        "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
+        "onboard_time": 1703488172,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311128,
+        "num": 311128,
+        "word": "吉林浮桥案",
+        "onboard_time": 1703490633,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262968,
+        "num": 262968,
+        "word": "小破站跨晚把许嵩冯禧都请来了",
+        "onboard_time": 1703486252,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245687,
+        "num": 245687,
+        "word": "25考研女生凌晨5点半起床占座",
+        "onboard_time": 1703477858,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 249810,
+        "num": 243980,
+        "word": "30岁的我决定退休了",
+        "onboard_time": 1703487934,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233037,
+        "num": 233037,
+        "word": "帝释天典藏皮肤",
+        "onboard_time": 1703488414,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219384,
+        "num": 219384,
+        "word": "确诊为孙悟空",
+        "onboard_time": 1703492194,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217147,
+        "num": 217147,
+        "word": "C罗 抢票",
+        "onboard_time": 1703489853,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204022,
+        "num": 204022,
+        "word": "腿姐 不是说好睡死过去的吗",
+        "onboard_time": 1703475757,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203151,
+        "num": 203151,
+        "word": "麦当劳回应将涨价",
+        "onboard_time": 1703479900,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 195556,
+        "num": 195556,
+        "word": "韩红基金会辟谣",
+        "onboard_time": 1703492913,
+        "rank": 26,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 180111,
+        "num": 180111,
+        "word": "同居生2孩7年后男方诉返还彩礼",
+        "onboard_time": 1703475874,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179011,
+        "num": 179011,
+        "word": "杨迪 我都想告节目组",
+        "onboard_time": 1703482656,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171473,
+        "num": 171473,
+        "word": "TheShy宝蓝压力好大",
+        "onboard_time": 1703490514,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161174,
+        "num": 161174,
+        "word": "马立奥肖允儿湖南跨年合体",
+        "onboard_time": 1703480380,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160082,
+        "num": 160082,
+        "word": "小猫 滚到哪里就在哪里睡觉",
+        "onboard_time": 1703489853,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158745,
+        "num": 158745,
+        "word": "aespa今日红毯",
+        "onboard_time": 1703488232,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156756,
+        "num": 156756,
+        "word": "姚晨贾静雯你俩这么浪漫",
+        "onboard_time": 1703492376,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152102,
+        "num": 152102,
+        "word": "迪丽热巴双生神女",
+        "onboard_time": 1703477257,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151632,
+        "num": 151632,
+        "word": "NCT好好笑的红毯",
+        "onboard_time": 1703492735,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147885,
+        "num": 147885,
+        "word": "乾隆御医后代16岁蒙眼识别百种药材",
+        "onboard_time": 1703489974,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139091,
+        "num": 139091,
+        "word": "赵露思凤皇妆造",
+        "onboard_time": 1703493094,
+        "rank": 37,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 139058,
+        "num": 139058,
+        "word": "2024考证时间表",
+        "onboard_time": 1703491113,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138519,
+        "num": 138519,
+        "word": "专科的风还是吹到了麻省理工",
+        "onboard_time": 1703468732,
+        "rank": 39,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 138288,
+        "num": 138288,
+        "word": "SBS节目单",
+        "onboard_time": 1703483317,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137830,
+        "num": 137830,
+        "word": "保温杯使用的5个禁忌",
+        "onboard_time": 1703471434,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134697,
+        "num": 134697,
+        "word": "NCTDREAM红毯礼物",
+        "onboard_time": 1703492253,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 131086,
+        "num": 131086,
+        "word": "SBS直播",
+        "onboard_time": 1703486373,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129060,
+        "num": 129060,
+        "word": "澜花海FMVP皮肤",
+        "onboard_time": 1703486672,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126325,
+        "num": 126325,
+        "word": "权志龙为防治毒品捐款3亿韩元",
+        "onboard_time": 1703483196,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121965,
+        "num": 121965,
+        "word": "黄子韬cue徐艺洋发言",
+        "onboard_time": 1703475874,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121056,
+        "num": 121056,
+        "word": "刘海的重要性",
+        "onboard_time": 1703493158,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 109306,
+        "num": 109306,
+        "word": "年轻人如何直面社会的焦虑",
+        "onboard_time": 1703491475,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106739,
+        "num": 106739,
+        "word": "王俊凯官宣江苏卫视跨年",
+        "onboard_time": 1703487813,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进重点领域改革#"
+    }
+  }
+}
