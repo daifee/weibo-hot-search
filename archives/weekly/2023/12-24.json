@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703495888858,
+  "endTime": 1703496860517,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -99,6 +99,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2344608,
+      "num": 2344608,
+      "word": "郑爽被法院公告",
+      "onboard_time": 1703493336,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2315939,
       "num": 2315939,
       "word": "专科的风还是吹到了麻省理工",
@@ -107,16 +115,8 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 2305013,
-      "num": 2305013,
-      "word": "郑爽被法院公告",
-      "onboard_time": 1703493336,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2250529,
-      "num": 2250529,
+      "raw_hot": 2314962,
+      "num": 2314962,
       "word": "张艺兴入职中国国家话剧院",
       "onboard_time": 1703493756,
       "rank": 1,
@@ -507,12 +507,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862422,
+      "num": 862422,
+      "word": "官方通报订婚强奸案",
+      "onboard_time": 1703492735,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 861849,
       "num": 861849,
       "word": "结婚16年3娃不是亲生当事人发声",
       "onboard_time": 1703464174,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852185,
+      "num": 852185,
+      "word": "五月天被质疑假唱仍在调查中",
+      "onboard_time": 1703493995,
+      "rank": 7,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 851715,
@@ -529,14 +545,6 @@
       "onboard_time": 1703387430,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 840283,
-      "num": 840283,
-      "word": "官方通报订婚强奸案",
-      "onboard_time": 1703492735,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 833072,
@@ -585,14 +593,6 @@
       "onboard_time": 1703388211,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 802255,
-      "num": 802255,
-      "word": "五月天被质疑假唱仍在调查中",
-      "onboard_time": 1703493995,
-      "rank": 7,
-      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 785351,
@@ -657,6 +657,14 @@
       "onboard_time": 1703423856,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 740801,
+      "num": 740801,
+      "word": "调查称读研平均最低月薪13218元",
+      "onboard_time": 1703494719,
+      "rank": 10,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 739385,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1703425538,
       "rank": 19,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 514126,
-      "num": 514126,
-      "word": "调查称读研平均最低月薪13218元",
-      "onboard_time": 1703494719,
-      "rank": 10,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 511731,
@@ -1531,6 +1531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 363028,
+      "num": 363028,
+      "word": "桃子老师回应每场直播收入千元",
+      "onboard_time": 1703494056,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356277,
       "num": 248643,
       "word": "帝释天典藏皮肤",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1703419835,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 338997,
+      "num": 338997,
+      "word": "男子心脏停跳90分钟医生接力救回",
+      "onboard_time": 1703494836,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337304,
@@ -1761,6 +1777,14 @@
       "onboard_time": 1703416235,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309755,
+      "num": 309755,
+      "word": "卢昱晓正在改走路姿势问题",
+      "onboard_time": 1703495796,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 307972,
@@ -1955,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277693,
+      "num": 277693,
+      "word": "TES",
+      "onboard_time": 1703494958,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276773,
       "num": 276773,
       "word": "洗牙是智商税吗",
@@ -2011,14 +2043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268841,
-      "num": 268841,
-      "word": "TES",
-      "onboard_time": 1703494958,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 268676,
       "num": 261918,
       "word": "甜馨 我们白着呢",
@@ -2073,6 +2097,14 @@
       "onboard_time": 1703388453,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 261975,
+      "num": 261975,
+      "word": "外交部回应春节成为联合国假日",
+      "onboard_time": 1703495375,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 260917,
@@ -2169,14 +2201,6 @@
       "onboard_time": 1703425179,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250249,
-      "num": 250249,
-      "word": "男子心脏停跳90分钟医生接力救回",
-      "onboard_time": 1703494836,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248070,
@@ -2457,6 +2481,14 @@
       "onboard_time": 1703390257,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219873,
+      "num": 219873,
+      "word": "蔡宏柱逝世",
+      "onboard_time": 1703496199,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 219384,
@@ -2835,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193511,
+      "num": 193511,
+      "word": "热红酒 卤水果",
+      "onboard_time": 1703495318,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 193303,
       "num": 193303,
       "word": "乒超决赛",
@@ -3059,14 +3099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177726,
-      "num": 164585,
-      "word": "热红酒 卤水果",
-      "onboard_time": 1703495318,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 177460,
       "num": 177460,
       "word": "工作坏但是妈妈好",
@@ -3267,14 +3299,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 166690,
-      "num": 166690,
-      "word": "桃子老师回应每场直播收入千元",
-      "onboard_time": 1703494056,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166524,
       "num": 166524,
       "word": "朱开谈亚运会换人",
@@ -3401,6 +3425,14 @@
       "onboard_time": 1703407713,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159529,
+      "num": 159529,
+      "word": "杨迪 大家就说该不该告吧",
+      "onboard_time": 1703495258,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 159365,
@@ -3643,14 +3675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149402,
-      "num": 149402,
-      "word": "外交部回应春节成为联合国假日",
-      "onboard_time": 1703495375,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 149091,
       "num": 149091,
       "word": "刮通这里才知道自己屯了多少湿",
@@ -3859,14 +3883,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 138673,
-      "num": 138673,
-      "word": "杨迪 大家就说该不该告吧",
-      "onboard_time": 1703495258,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137820,
       "num": 137820,
       "word": "考研数学考前提示",
@@ -4017,6 +4033,14 @@
       "onboard_time": 1703395830,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 131102,
+      "num": 131102,
+      "word": "C罗中国行门票秒没",
+      "onboard_time": 1703496457,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 130864,
@@ -4177,6 +4201,14 @@
       "onboard_time": 1703397631,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123151,
+      "num": 123151,
+      "word": "德杯",
+      "onboard_time": 1703496337,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 123138,
@@ -4379,14 +4411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 113190,
-      "num": 113190,
-      "word": "卢昱晓正在改走路姿势问题",
-      "onboard_time": 1703495796,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113173,
       "num": 113173,
       "word": "山东鲁能vs深圳大学",
@@ -4409,6 +4433,14 @@
       "onboard_time": 1703384671,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112250,
+      "num": 112250,
+      "word": "RW晋级败者组第二轮",
+      "onboard_time": 1703495841,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 112101,
@@ -4449,14 +4481,6 @@
       "onboard_time": 1703406271,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 108255,
-      "num": 108255,
-      "word": "RW晋级败者组第二轮",
-      "onboard_time": 1703495841,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 108005,
@@ -4507,6 +4531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103691,
+      "num": 103691,
+      "word": "德玛西亚杯",
+      "onboard_time": 1703493697,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102868,
       "num": 102868,
       "word": "英语二 平等地创飞所有人",
@@ -4521,6 +4553,14 @@
       "onboard_time": 1703377047,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100099,
+      "num": 137769,
+      "word": "淘宝公布2023年度十大商品",
+      "onboard_time": 1703494836,
+      "rank": 39,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 98540,
@@ -4651,14 +4691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77209,
-      "num": 137769,
-      "word": "淘宝公布2023年度十大商品",
-      "onboard_time": 1703494836,
-      "rank": 39,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 75880,
       "num": 444053,
       "word": "1228车圈春晚",
@@ -4715,8 +4747,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57104,
-      "num": 258605,
+      "raw_hot": 60487,
+      "num": 296806,
       "word": "出海即夺冠的国产新能源泰酷啦",
       "onboard_time": 1703495075,
       "rank": 19,
