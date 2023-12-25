@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703517512786,
+  "endTime": 1703518474868,
   "band_list": [
     {
       "raw_hot": 3138672,
@@ -619,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 529102,
+      "num": 529102,
+      "word": "2024天蝎座年度关键词",
+      "onboard_time": 1703516615,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 528198,
       "num": 300753,
       "word": "李明德 共生关系",
@@ -817,14 +825,6 @@
       "onboard_time": 1703473774,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397175,
-      "num": 397175,
-      "word": "2024天蝎座年度关键词",
-      "onboard_time": 1703516615,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 394226,
@@ -1035,6 +1035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323369,
+      "num": 323369,
+      "word": "2023十大热播剧",
+      "onboard_time": 1703514517,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322178,
       "num": 322178,
       "word": "于适主持",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1703498073,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 311908,
-      "num": 311908,
-      "word": "2023十大热播剧",
-      "onboard_time": 1703514517,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 311128,
@@ -1411,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218021,
+      "num": 218021,
+      "word": "考研戒断反应",
+      "onboard_time": 1703515414,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217685,
       "num": 217685,
       "word": "上海迪士尼热力追踪项目恢复运营",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1703472754,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212401,
-      "num": 212401,
-      "word": "考研戒断反应",
-      "onboard_time": 1703515414,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 211676,
@@ -1835,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180064,
+      "num": 180064,
+      "word": "郭采洁撕脱骨折",
+      "onboard_time": 1703518055,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179214,
       "num": 179214,
       "word": "电视剧版三大队",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1703479063,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178312,
+      "num": 178312,
+      "word": "冬季甘蔗煮水是大补",
+      "onboard_time": 1703516974,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 177895,
@@ -2259,14 +2275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154159,
-      "num": 154159,
-      "word": "冬季甘蔗煮水是大补",
-      "onboard_time": 1703516974,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 153706,
       "num": 153706,
       "word": "檀健次卷王的自我修养",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1703466516,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149001,
+      "num": 149001,
+      "word": "订婚强奸案",
+      "onboard_time": 1703518293,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148142,
@@ -2731,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119833,
+      "num": 119833,
+      "word": "王安宇古晋打戏",
+      "onboard_time": 1703518236,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119768,
       "num": 119768,
       "word": "雷鸣和11班告别",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1703459482,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115314,
+      "num": 115314,
+      "word": "孙铭徽40分",
+      "onboard_time": 1703517994,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 115163,

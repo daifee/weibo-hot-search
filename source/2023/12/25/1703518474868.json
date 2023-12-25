@@ -1,0 +1,410 @@
+{
+  "runTime": 1703518474868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607390,
+        "num": 1607390,
+        "word": "网易暴雪复合",
+        "onboard_time": 1703502338,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 698870,
+        "num": 698870,
+        "word": "男子买房放女友名下分手后全要回",
+        "onboard_time": 1703513135,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9193,
+        "num": 605522,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2035014,
+        "num": 569926,
+        "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
+        "onboard_time": 1703510916,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1089637,
+        "num": 559851,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703511515,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529102,
+        "num": 529102,
+        "word": "2024天蝎座年度关键词",
+        "onboard_time": 1703516615,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 507621,
+        "num": 507621,
+        "word": "姐姐与妹妹争吵后将其双手肌腱割断",
+        "onboard_time": 1703509420,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506790,
+        "num": 506790,
+        "word": "时代少年团 宋亚轩碎碎念",
+        "onboard_time": 1703515536,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443619,
+        "num": 443619,
+        "word": "李永钦摔下升降台",
+        "onboard_time": 1703509956,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396276,
+        "num": 396276,
+        "word": "3D还原订婚强奸案",
+        "onboard_time": 1703502215,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851120,
+        "num": 375179,
+        "word": "我们只是师生关系 你越界了",
+        "onboard_time": 1703500956,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 558177,
+        "num": 370797,
+        "word": "男子隔空猥亵8名幼女获刑7年半",
+        "onboard_time": 1703506474,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557087,
+        "num": 370016,
+        "word": "月经推迟 身体缺血",
+        "onboard_time": 1703498377,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347604,
+        "num": 347604,
+        "word": "人类历史上第一条手机短信",
+        "onboard_time": 1703510974,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323369,
+        "num": 323369,
+        "word": "2023十大热播剧",
+        "onboard_time": 1703514517,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311873,
+        "num": 311873,
+        "word": "优酷确认获得知否独播权",
+        "onboard_time": 1703501254,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275440,
+        "num": 275440,
+        "word": "孙红雷含泪cue张艺兴",
+        "onboard_time": 1703499275,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271341,
+        "num": 271341,
+        "word": "他只是做错题 又没有做错人",
+        "onboard_time": 1703505032,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231998,
+        "num": 231998,
+        "word": "5亿辈子很长吗 武艺被子就是短",
+        "onboard_time": 1703504496,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231141,
+        "num": 231141,
+        "word": "订婚强奸案男方亲属发声",
+        "onboard_time": 1703509176,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262062,
+        "num": 226110,
+        "word": "大便出现这些异常千万要当心",
+        "onboard_time": 1703509477,
+        "rank": 20,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 251630,
+        "num": 225088,
+        "word": "张艺兴将担任C罗中国行表演嘉宾",
+        "onboard_time": 1703505696,
+        "rank": 21,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 240273,
+        "num": 221592,
+        "word": "为什么大家又爱上头戴式耳机",
+        "onboard_time": 1703516136,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218021,
+        "num": 218021,
+        "word": "考研戒断反应",
+        "onboard_time": 1703515414,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200497,
+        "num": 200497,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180064,
+        "num": 180064,
+        "word": "郭采洁撕脱骨折",
+        "onboard_time": 1703518055,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178312,
+        "num": 178312,
+        "word": "冬季甘蔗煮水是大补",
+        "onboard_time": 1703516974,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175169,
+        "num": 175169,
+        "word": "赵露思神隐白发",
+        "onboard_time": 1703515655,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168793,
+        "num": 168793,
+        "word": "心疼许诺",
+        "onboard_time": 1703516735,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160015,
+        "num": 160015,
+        "word": "湖南卫视跨年舞美",
+        "onboard_time": 1703513615,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155260,
+        "num": 155260,
+        "word": "喻言 美得眼前一亮",
+        "onboard_time": 1703506594,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149001,
+        "num": 149001,
+        "word": "订婚强奸案",
+        "onboard_time": 1703518293,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148403,
+        "num": 148403,
+        "word": "刘浩存哭戏",
+        "onboard_time": 1703512775,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140741,
+        "num": 140741,
+        "word": "易烊千玺是艾佳妮心目中的女婿标杆",
+        "onboard_time": 1703506294,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134840,
+        "num": 134840,
+        "word": "晚安计划",
+        "onboard_time": 1703514035,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131334,
+        "num": 131334,
+        "word": "武艺 成芒果play的一环了",
+        "onboard_time": 1703513976,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128300,
+        "num": 128300,
+        "word": "订婚强奸案被害人曾反对婚前性行为",
+        "onboard_time": 1703516496,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127119,
+        "num": 127119,
+        "word": "画眉",
+        "onboard_time": 1703514276,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126394,
+        "num": 126394,
+        "word": "杭高4名男生腹肌照火了",
+        "onboard_time": 1703511336,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121782,
+        "num": 121782,
+        "word": "研究生监考老师分享监考感受见闻",
+        "onboard_time": 1703504315,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120259,
+        "num": 120259,
+        "word": "我知道我爱你",
+        "onboard_time": 1703509895,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120259,
+        "num": 120259,
+        "word": "男子心脏停跳90分钟医生接力救回",
+        "onboard_time": 1703494836,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119833,
+        "num": 119833,
+        "word": "王安宇古晋打戏",
+        "onboard_time": 1703518236,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115314,
+        "num": 115314,
+        "word": "孙铭徽40分",
+        "onboard_time": 1703517994,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108936,
+        "num": 108936,
+        "word": "牧民大哥说本地狗不能用城市那一套养",
+        "onboard_time": 1703517275,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106125,
+        "num": 106125,
+        "word": "孙女被爷爷没收手机后拉二泉映月",
+        "onboard_time": 1703517032,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104588,
+        "num": 104588,
+        "word": "于适主持",
+        "onboard_time": 1703507676,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104290,
+        "num": 104290,
+        "word": "萌兰眼疾手快接笋笋",
+        "onboard_time": 1703515898,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103735,
+        "num": 103735,
+        "word": "民警得知60万元被追回笑声响彻办公室",
+        "onboard_time": 1703509775,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99599,
+        "num": 99599,
+        "word": "原来长大后真的会去弥补童年",
+        "onboard_time": 1703505214,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进重点领域改革#"
+    }
+  }
+}
