@@ -1,0 +1,410 @@
+{
+  "runTime": 1703474323875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2315939,
+        "num": 2315939,
+        "word": "专科的风还是吹到了麻省理工",
+        "onboard_time": 1703468732,
+        "rank": 0,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 1153593,
+        "num": 1153593,
+        "word": "男子供养女友及其丈夫一家5年",
+        "onboard_time": 1703469874,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30736,
+        "num": 1040294,
+        "word": "甘肃震区中小学有序复课",
+        "onboard_time": 1703474076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2142688,
+        "num": 1018459,
+        "word": "女研究生制售色情书被抓",
+        "onboard_time": 1703468016,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932752,
+        "num": 932752,
+        "word": "周一确诊为大娘子",
+        "onboard_time": 1703467413,
+        "rank": 4,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 748240,
+        "num": 748240,
+        "word": "2024元旦放假安排来了",
+        "onboard_time": 1703464356,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729746,
+        "num": 729746,
+        "word": "迪丽热巴黑粉拒不道歉被强执",
+        "onboard_time": 1703471973,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718375,
+        "num": 718375,
+        "word": "等等给孙俪泡了一杯鸡毛菜",
+        "onboard_time": 1703473415,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673873,
+        "num": 673873,
+        "word": "经纪人王力威退出肖战前工作室",
+        "onboard_time": 1703474076,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593799,
+        "num": 593799,
+        "word": "00后小伙年销7万单爱因斯坦的脑子",
+        "onboard_time": 1703473774,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408356,
+        "num": 408356,
+        "word": "陈都灵 美艳女妖",
+        "onboard_time": 1703460685,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384366,
+        "num": 384366,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1703465735,
+        "rank": 11,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 382998,
+        "num": 382998,
+        "word": "张颂文宋佳 风中有朵雨做的云",
+        "onboard_time": 1703461949,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345672,
+        "num": 345672,
+        "word": "女子捡到银行卡猜对密码取走4万被抓",
+        "onboard_time": 1703462188,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74801,
+        "num": 317705,
+        "word": "小米汽车技术发布会",
+        "onboard_time": 1703473533,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 317251,
+        "num": 317251,
+        "word": "小米官宣汽车发布会",
+        "onboard_time": 1703468312,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 303178,
+        "num": 303178,
+        "word": "刘涛也在嗑一璐平安",
+        "onboard_time": 1703470293,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294741,
+        "num": 294741,
+        "word": "小猫辛辛苦苦抢了一块白菜帮",
+        "onboard_time": 1703473533,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287146,
+        "num": 287146,
+        "word": "被好朋友表白了",
+        "onboard_time": 1703466394,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260092,
+        "num": 260092,
+        "word": "上班睡觉被辞退能拿到赔偿吗",
+        "onboard_time": 1703460505,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377397,
+        "num": 252354,
+        "word": "保温杯使用的5个禁忌",
+        "onboard_time": 1703471434,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 288951,
+        "num": 242313,
+        "word": "我在芬兰3年不上班",
+        "onboard_time": 1703473774,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229917,
+        "num": 229917,
+        "word": "赵露思剪短发的原因",
+        "onboard_time": 1703466336,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217214,
+        "num": 217214,
+        "word": "结婚16年3娃不是亲生当事人发声",
+        "onboard_time": 1703464174,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216134,
+        "num": 216134,
+        "word": "越南版长月烬明太搞笑了",
+        "onboard_time": 1703472754,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212926,
+        "num": 212926,
+        "word": "A股",
+        "onboard_time": 1703472155,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200620,
+        "num": 200620,
+        "word": "武艺半年不出现 一出现笑半年",
+        "onboard_time": 1703470054,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97698,
+        "num": 197077,
+        "word": "我国成功发射一箭四星",
+        "onboard_time": 1703469693,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196539,
+        "num": 196539,
+        "word": "孙思邈睡眠法",
+        "onboard_time": 1703464775,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190850,
+        "num": 190850,
+        "word": "郭敬明 大梦归离原始帧",
+        "onboard_time": 1703460445,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186218,
+        "num": 186218,
+        "word": "喝两口奶茶不会胖的",
+        "onboard_time": 1703469995,
+        "rank": 30,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 179650,
+        "num": 179650,
+        "word": "共同哀悼积石山6.2级地震遇难同胞",
+        "onboard_time": 1703473894,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179214,
+        "num": 179214,
+        "word": "电视剧版三大队",
+        "onboard_time": 1703472216,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179036,
+        "num": 179036,
+        "word": "一起迎接2024",
+        "onboard_time": 1703473774,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175385,
+        "num": 175385,
+        "word": "小猫掉下来被小孩哥接住",
+        "onboard_time": 1703470891,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164315,
+        "num": 164315,
+        "word": "教育局通报小学教师殴打学生致脑震荡",
+        "onboard_time": 1703460082,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 163266,
+        "num": 163266,
+        "word": "上海迪士尼疯狂动物城遭遇了什么",
+        "onboard_time": 1703469333,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163112,
+        "num": 163112,
+        "word": "詹姆斯社媒晒超级数据",
+        "onboard_time": 1703473894,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160753,
+        "num": 160753,
+        "word": "赤西仁黑木明纱官宣离婚",
+        "onboard_time": 1703461707,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159510,
+        "num": 159510,
+        "word": "假如沈耀是孟宴臣的弟弟",
+        "onboard_time": 1703473713,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154804,
+        "num": 154804,
+        "word": "上海迪士尼热力追踪项目恢复运营",
+        "onboard_time": 1703470656,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144384,
+        "num": 144384,
+        "word": "雷军担心小米汽车都不买更怕都来买",
+        "onboard_time": 1703474193,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142697,
+        "num": 142697,
+        "word": "大喜的日子却苦了猫猫",
+        "onboard_time": 1703474076,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137275,
+        "num": 137275,
+        "word": "水木年华演唱会上怀念朱令",
+        "onboard_time": 1703461527,
+        "rank": 43,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 135831,
+        "num": 135831,
+        "word": "游戏版号",
+        "onboard_time": 1703471074,
+        "rank": 44,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 130670,
+        "num": 130670,
+        "word": "上海迪士尼",
+        "onboard_time": 1703471074,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124378,
+        "num": 124378,
+        "word": "伊能静 演员秦昊就是观众的不属于我",
+        "onboard_time": 1703464833,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124070,
+        "num": 124070,
+        "word": "不要随意挤痘痘和黑头",
+        "onboard_time": 1703468913,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120502,
+        "num": 120502,
+        "word": "雷军 小米汽车",
+        "onboard_time": 1703462671,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114959,
+        "num": 114959,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进重点领域改革#"
+    }
+  }
+}
