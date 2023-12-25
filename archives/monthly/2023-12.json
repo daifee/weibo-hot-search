@@ -1,6 +1,6 @@
 {
   "startTime": 1701361455299,
-  "endTime": 1703529252643,
+  "endTime": 1703531693476,
   "band_list": [
     {
       "raw_hot": 48160970,
@@ -69323,6 +69323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14380,
+      "num": 19751,
+      "word": "江晓媛大学生穿搭",
+      "onboard_time": 1703529377,
+      "rank": 43,
+      "category": "剧集,时尚"
+    },
+    {
       "raw_hot": 14137,
       "num": 14137,
       "word": "游戏新规最终执行力度或有缓和空间",
@@ -69337,6 +69345,14 @@
       "onboard_time": 1702500494,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13966,
+      "num": 19738,
+      "word": "孙怡新剧无爱婚姻",
+      "onboard_time": 1703530756,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 13818,
