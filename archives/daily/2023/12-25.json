@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703475280028,
+  "endTime": 1703478108415,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -35,6 +35,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1368275,
+      "num": 942804,
+      "word": "黄子韬cue徐艺洋发言",
+      "onboard_time": 1703475874,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1321934,
+      "num": 1321934,
+      "word": "迪丽热巴双生神女",
+      "onboard_time": 1703477257,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1304971,
       "num": 1304971,
       "word": "美国黄石公园检测出僵尸鹿病毒",
@@ -49,6 +65,14 @@
       "onboard_time": 1703460505,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1182279,
+      "num": 616270,
+      "word": "腿姐 不是说好睡死过去的吗",
+      "onboard_time": 1703475757,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 1153593,
@@ -91,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928501,
+      "num": 928501,
+      "word": "如果不是地震没人知道我们有多穷",
+      "onboard_time": 1703476658,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 927936,
       "num": 927936,
       "word": "教育局通报小学教师殴打学生致脑震荡",
@@ -121,6 +153,14 @@
       "onboard_time": 1703461949,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 827648,
+      "num": 827648,
+      "word": "同居生2孩7年后男方诉返还彩礼",
+      "onboard_time": 1703475874,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 777638,
@@ -211,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 575094,
+      "num": 358185,
+      "word": "日本人的身高越来越矮了",
+      "onboard_time": 1703476958,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571273,
       "num": 478460,
       "word": "杭州女子刷视频发现老公另有2妻3娃",
@@ -291,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454779,
+      "num": 454779,
+      "word": "小猫辛辛苦苦抢了一块白菜帮",
+      "onboard_time": 1703473533,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 427410,
       "num": 427410,
       "word": "大众电影删除一念关山编剧采访",
@@ -307,20 +363,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 421476,
-      "num": 421476,
-      "word": "小猫辛辛苦苦抢了一块白菜帮",
-      "onboard_time": 1703473533,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 403879,
-      "num": 248066,
+      "num": 356191,
       "word": "我在芬兰3年不上班",
       "onboard_time": 1703473774,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400910,
+      "num": 400910,
+      "word": "何炅杨紫二十年前",
+      "onboard_time": 1703476360,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 394226,
@@ -348,7 +404,7 @@
     },
     {
       "raw_hot": 377397,
-      "num": 252354,
+      "num": 310220,
       "word": "保温杯使用的5个禁忌",
       "onboard_time": 1703471434,
       "rank": 31,
@@ -361,6 +417,14 @@
       "onboard_time": 1703460445,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365273,
+      "num": 365273,
+      "word": "雷军担心小米汽车都不买更怕都来买",
+      "onboard_time": 1703474193,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 351075,
@@ -377,6 +441,14 @@
       "onboard_time": 1703461707,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342151,
+      "num": 342151,
+      "word": "何炅要久久爱片头曲MV",
+      "onboard_time": 1703475335,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 338784,
@@ -411,14 +483,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 314747,
-      "num": 314747,
-      "word": "雷军担心小米汽车都不买更怕都来买",
-      "onboard_time": 1703474193,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 306491,
       "num": 306491,
       "word": "游戏版号",
@@ -451,6 +515,14 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 296297,
+      "num": 296297,
+      "word": "周淑怡现身管泽元余霜婚礼",
+      "onboard_time": 1703477498,
+      "rank": 25,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 294107,
       "num": 294107,
       "word": "游戏版号单次审批数量首次突破百款",
@@ -465,6 +537,14 @@
       "onboard_time": 1703417314,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285913,
+      "num": 285913,
+      "word": "王安宇 少来",
+      "onboard_time": 1703477558,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 282648,
@@ -483,6 +563,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262025,
+      "num": 250118,
+      "word": "弟弟 在良知和亲情之间选择了亲情",
+      "onboard_time": 1703478038,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 258968,
+      "num": 258968,
+      "word": "东方卫视跨年首发阵容",
+      "onboard_time": 1703476057,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250764,
       "num": 250764,
       "word": "A股",
@@ -492,11 +588,19 @@
     },
     {
       "raw_hot": 239226,
-      "num": 395454,
+      "num": 956886,
       "word": "新批准国产网游版号达105款",
       "onboard_time": 1703465735,
       "rank": 26,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 236795,
+      "num": 236795,
+      "word": "父亲去世哥哥超拼参加妹妹学校活动",
+      "onboard_time": 1703476417,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229027,
@@ -520,6 +624,14 @@
       "word": "武艺半年不出现 一出现笑半年",
       "onboard_time": 1703470054,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219287,
+      "num": 219287,
+      "word": "周深 五年全勤劳模",
+      "onboard_time": 1703476476,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -683,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172732,
+      "num": 172732,
+      "word": "王锵 人前人后",
+      "onboard_time": 1703477319,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171185,
       "num": 171185,
       "word": "新疆3.1级地震",
@@ -697,6 +817,14 @@
       "onboard_time": 1703474615,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 169407,
+      "num": 169407,
+      "word": "25考研女生凌晨5点半起床占座",
+      "onboard_time": 1703477858,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 169248,
@@ -851,12 +979,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 137023,
+      "num": 137023,
+      "word": "我好像写不出朋友圈年度总结",
+      "onboard_time": 1703475698,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136919,
       "num": 136919,
       "word": "克罗斯 续约",
       "onboard_time": 1703433214,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136350,
+      "num": 136350,
+      "word": "张杰也是早八人",
+      "onboard_time": 1703475996,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 134051,
@@ -929,6 +1073,14 @@
       "onboard_time": 1703430218,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119732,
+      "num": 119732,
+      "word": "2024愿你继续爱着也被爱着",
+      "onboard_time": 1703477798,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119452,
@@ -1147,12 +1299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30417,
+      "num": 239622,
+      "word": "王鹤棣过节氛围感",
+      "onboard_time": 1703477437,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23974,
       "num": 29508,
       "word": "狼队vs切尔西",
       "onboard_time": 1703441957,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20234,
+      "num": 411431,
+      "word": "大张伟符龙飞爵士版约定",
+      "onboard_time": 1703476837,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 20006,
