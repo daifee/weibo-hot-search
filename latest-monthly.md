@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/12/01 00:24:15 ~ 2023/12/25 15:34:25
+本榜单时间：2023/12/01 00:24:15 ~ 2023/12/25 16:22:09
 </p>
 </blockquote>
 <p>
@@ -1025,6 +1025,12 @@ GQ好多人鱼公主（热度：2902095）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%BA%94%E4%BD%95%E6%97%B6%E5%9B%9E%E5%BD%92%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
 董宇辉回应何时回归直播间（热度：2552576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E6%A1%83%E5%AD%90%E8%80%81%E5%B8%88%E6%AF%8F%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%94%B6%E5%85%A5%E4%BB%85%E5%8D%83%E5%85%83%23" target="weibo">
+挖呀挖桃子老师每场直播收入仅千元（热度：2548812）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ GQ 坐船时长（热度：926354）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%92%8C%E9%B9%BF%E6%99%97%E5%90%88%E7%85%A7%23" target="weibo">
 网友和鹿晗合照（热度：883534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%B4%E7%BE%8E%E7%9E%B3%20%E8%84%B8%E5%A4%A7%23" target="weibo">
-戴美瞳 脸大（热度：882816）
 </a>
 </li>
 

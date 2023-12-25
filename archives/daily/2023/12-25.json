@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703489665192,
+  "endTime": 1703492529695,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -32,6 +32,14 @@
       "word": "男子订婚后被告强奸一审被判3年",
       "onboard_time": 1703481936,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2548812,
+      "num": 2548812,
+      "word": "挖呀挖桃子老师每场直播收入仅千元",
+      "onboard_time": 1703489373,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 666153,
+      "num": 666153,
+      "word": "乡政府回应40万斤牛蛙一夜死亡",
+      "onboard_time": 1703489313,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 645987,
       "num": 613002,
       "word": "日本人的身高越来越矮了",
@@ -369,6 +385,22 @@
       "onboard_time": 1703477858,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 535954,
+      "num": 535954,
+      "word": "张元英珍珠双马尾",
+      "onboard_time": 1703490453,
+      "rank": 8,
+      "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 533554,
+      "num": 533554,
+      "word": "王俊凯王源 江苏跨年",
+      "onboard_time": 1703490813,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 528198,
@@ -627,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 323676,
+      "num": 323676,
+      "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
+      "onboard_time": 1703488172,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320469,
       "num": 320469,
       "word": "多邻国油炸小绿鸟",
@@ -644,11 +684,19 @@
     },
     {
       "raw_hot": 316682,
-      "num": 230596,
+      "num": 261287,
       "word": "30岁的我决定退休了",
       "onboard_time": 1703487934,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 309102,
+      "num": 309102,
+      "word": "一些留学生回国后的报复性行为",
+      "onboard_time": 1703490394,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 306491,
@@ -707,12 +755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286193,
+      "num": 286193,
+      "word": "吉林浮桥案",
+      "onboard_time": 1703490633,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282648,
       "num": 229586,
       "word": "原来分享欲不是喜欢",
       "onboard_time": 1703428721,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280624,
+      "num": 280624,
+      "word": "C罗 抢票",
+      "onboard_time": 1703489853,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 279098,
@@ -723,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273870,
-      "num": 181602,
-      "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
-      "onboard_time": 1703488172,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 268121,
+      "num": 268121,
+      "word": "周深 两颗痣的才是我",
+      "onboard_time": 1703491297,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 268090,
@@ -819,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224235,
+      "num": 168936,
+      "word": "胡先煦 年下不叫姐心思有点野",
+      "onboard_time": 1703492074,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223348,
       "num": 223348,
       "word": "上海迪士尼疯狂动物城遭遇了什么",
@@ -841,14 +913,6 @@
       "onboard_time": 1703476476,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218010,
-      "num": 218010,
-      "word": "挖呀挖桃子老师每场直播收入仅千元",
-      "onboard_time": 1703489373,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217685,
@@ -1035,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186258,
+      "num": 186258,
+      "word": "TheShy宝蓝压力好大",
+      "onboard_time": 1703490514,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186218,
       "num": 186218,
       "word": "喝两口奶茶不会胖的",
@@ -1123,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177063,
+      "num": 177063,
+      "word": "小猫 滚到哪里就在哪里睡觉",
+      "onboard_time": 1703489853,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175925,
       "num": 175925,
       "word": "冯小刚葛优 毛雪汪",
@@ -1203,14 +1283,6 @@
       "category": "情感,作品衍生"
     },
     {
-      "raw_hot": 169152,
-      "num": 169152,
-      "word": "乡政府回应40万斤牛蛙一夜死亡",
-      "onboard_time": 1703489313,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168209,
       "num": 168209,
       "word": "小米要造一辆什么样的车",
@@ -1224,6 +1296,14 @@
       "word": "他刚获得奖学金就全捐给地震灾区",
       "onboard_time": 1703467232,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166909,
+      "num": 166909,
+      "word": "乾隆御医后代16岁蒙眼识别百种药材",
+      "onboard_time": 1703489974,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1291,6 +1371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158921,
+      "num": 158921,
+      "word": "2024考证时间表",
+      "onboard_time": 1703491113,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 158158,
+      "num": 158158,
+      "word": "年轻人如何直面社会的焦虑",
+      "onboard_time": 1703491475,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157195,
       "num": 157195,
       "word": "为什么眼里含泪因为心中有光",
@@ -1353,6 +1449,14 @@
       "onboard_time": 1703466516,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148804,
+      "num": 148804,
+      "word": "姚晨贾静雯你俩这么浪漫",
+      "onboard_time": 1703492376,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 148142,
@@ -1467,12 +1571,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133855,
+      "num": 133855,
+      "word": "NCTDREAM红毯礼物",
+      "onboard_time": 1703492253,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 133183,
+      "num": 133183,
+      "word": "确诊为孙悟空",
+      "onboard_time": 1703492194,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130032,
       "num": 130032,
       "word": "马龙乒超七冠王",
       "onboard_time": 1703430635,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129211,
+      "num": 129211,
+      "word": "余霜 在婚礼这一天感受到所有的爱",
+      "onboard_time": 1703490092,
+      "rank": 45,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 129006,

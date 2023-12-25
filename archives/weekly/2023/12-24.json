@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703489665192,
+  "endTime": 1703492529695,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -89,6 +89,14 @@
       "onboard_time": 1703407894,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2548812,
+      "num": 2548812,
+      "word": "挖呀挖桃子老师每场直播收入仅千元",
+      "onboard_time": 1703489373,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2315939,
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666153,
+      "num": 666153,
+      "word": "乡政府回应40万斤牛蛙一夜死亡",
+      "onboard_time": 1703489313,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661551,
       "num": 661551,
       "word": "甜馨 差不多十几年没看见嗯哼了",
@@ -961,6 +977,22 @@
       "onboard_time": 1703477858,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 535954,
+      "num": 535954,
+      "word": "张元英珍珠双马尾",
+      "onboard_time": 1703490453,
+      "rank": 8,
+      "category": "综艺,美妆"
+    },
+    {
+      "raw_hot": 533554,
+      "num": 533554,
+      "word": "王俊凯王源 江苏跨年",
+      "onboard_time": 1703490813,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 533044,
@@ -1571,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323676,
+      "num": 323676,
+      "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
+      "onboard_time": 1703488172,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323256,
       "num": 323256,
       "word": "井胧 得亏没签公司",
@@ -1612,7 +1652,7 @@
     },
     {
       "raw_hot": 316682,
-      "num": 230596,
+      "num": 261287,
       "word": "30岁的我决定退休了",
       "onboard_time": 1703487934,
       "rank": 23,
@@ -1641,6 +1681,14 @@
       "onboard_time": 1703416235,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309102,
+      "num": 309102,
+      "word": "一些留学生回国后的报复性行为",
+      "onboard_time": 1703490394,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 307972,
@@ -1787,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286193,
+      "num": 286193,
+      "word": "吉林浮桥案",
+      "onboard_time": 1703490633,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285224,
       "num": 285224,
       "word": "StrayKids 换乘恋爱",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1703399190,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280624,
+      "num": 280624,
+      "word": "C罗 抢票",
+      "onboard_time": 1703489853,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 279164,
@@ -1851,14 +1915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 273870,
-      "num": 181602,
-      "word": "狗狗只要被摸到这一块肉都会龇牙咧嘴",
-      "onboard_time": 1703488172,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273720,
       "num": 273720,
       "word": "新疆3.1级地震",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1703382509,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268121,
+      "num": 268121,
+      "word": "周深 两颗痣的才是我",
+      "onboard_time": 1703491297,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 267006,
@@ -2283,6 +2347,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 224235,
+      "num": 168936,
+      "word": "胡先煦 年下不叫姐心思有点野",
+      "onboard_time": 1703492074,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223348,
       "num": 223348,
       "word": "上海迪士尼疯狂动物城遭遇了什么",
@@ -2329,14 +2401,6 @@
       "onboard_time": 1703341060,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 218010,
-      "num": 218010,
-      "word": "挖呀挖桃子老师每场直播收入仅千元",
-      "onboard_time": 1703489373,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217685,
@@ -2771,6 +2835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186258,
+      "num": 186258,
+      "word": "TheShy宝蓝压力好大",
+      "onboard_time": 1703490514,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186218,
       "num": 186218,
       "word": "喝两口奶茶不会胖的",
@@ -2923,6 +2995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177063,
+      "num": 177063,
+      "word": "小猫 滚到哪里就在哪里睡觉",
+      "onboard_time": 1703489853,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176876,
       "num": 176876,
       "word": "赵继伟生涯首个三双",
@@ -3027,14 +3107,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 169152,
-      "num": 169152,
-      "word": "乡政府回应40万斤牛蛙一夜死亡",
-      "onboard_time": 1703489313,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168313,
       "num": 168313,
       "word": "李永乐 你一定可以考上研究生",
@@ -3073,6 +3145,14 @@
       "onboard_time": 1703405431,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166909,
+      "num": 166909,
+      "word": "乾隆御医后代16岁蒙眼识别百种药材",
+      "onboard_time": 1703489974,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166803,
@@ -3219,11 +3299,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158921,
+      "num": 158921,
+      "word": "2024考证时间表",
+      "onboard_time": 1703491113,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158387,
       "num": 158387,
       "word": "甘肃24处不可移动文物在地震中受损",
       "onboard_time": 1703360713,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158158,
+      "num": 158158,
+      "word": "年轻人如何直面社会的焦虑",
+      "onboard_time": 1703491475,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -3417,6 +3513,14 @@
       "onboard_time": 1703378970,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148804,
+      "num": 148804,
+      "word": "姚晨贾静雯你俩这么浪漫",
+      "onboard_time": 1703492376,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 147242,
@@ -3699,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133855,
+      "num": 133855,
+      "word": "NCTDREAM红毯礼物",
+      "onboard_time": 1703492253,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 133354,
       "num": 133354,
       "word": "张凌赫雨中撑伞路透",
@@ -3712,6 +3824,14 @@
       "word": "猫猫起床第一件事",
       "onboard_time": 1703388571,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 133183,
+      "num": 133183,
+      "word": "确诊为孙悟空",
+      "onboard_time": 1703492194,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -3769,6 +3889,14 @@
       "onboard_time": 1703421395,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129211,
+      "num": 129211,
+      "word": "余霜 在婚礼这一天感受到所有的爱",
+      "onboard_time": 1703490092,
+      "rank": 45,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 129170,
