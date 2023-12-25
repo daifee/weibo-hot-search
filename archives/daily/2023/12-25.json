@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703481466859,
+  "endTime": 1703482446941,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2692610,
-      "num": 2692610,
+      "raw_hot": 2802689,
+      "num": 2802689,
       "word": "终于知道工资为什么要保密了",
       "onboard_time": 1703479479,
       "rank": 0,
@@ -171,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 833072,
+      "num": 833072,
+      "word": "马立奥肖允儿湖南跨年合体",
+      "onboard_time": 1703480380,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 777638,
       "num": 777638,
       "word": "伊能静 演员秦昊就是观众的不属于我",
@@ -217,14 +225,6 @@
       "onboard_time": 1703473415,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 709426,
-      "num": 709426,
-      "word": "马立奥肖允儿湖南跨年合体",
-      "onboard_time": 1703480380,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 704216,
@@ -275,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 576185,
+      "num": 576185,
+      "word": "麦当劳回应将涨价",
+      "onboard_time": 1703479900,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 571273,
       "num": 478460,
       "word": "杭州女子刷视频发现老公另有2妻3娃",
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539204,
+      "num": 539204,
+      "word": "25考研女生凌晨5点半起床占座",
+      "onboard_time": 1703477858,
+      "rank": 39,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 528198,
       "num": 300753,
       "word": "李明德 共生关系",
@@ -323,12 +339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 478710,
-      "num": 478710,
-      "word": "麦当劳回应将涨价",
-      "onboard_time": 1703479900,
-      "rank": 8,
-      "category": "财经,社会新闻"
+      "raw_hot": 501693,
+      "num": 272270,
+      "word": "男子订婚后被告强奸一审被判3年",
+      "onboard_time": 1703481936,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474956,
@@ -347,12 +363,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474528,
+      "num": 474528,
+      "word": "黄奕为穿上礼服缠了10层保鲜膜",
+      "onboard_time": 1703481338,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464363,
       "num": 464363,
       "word": "男子仅有10万元买下191万的房子后悔",
       "onboard_time": 1703415337,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462033,
+      "num": 462033,
+      "word": "弟弟 在良知和亲情之间选择了亲情",
+      "onboard_time": 1703478038,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 461828,
@@ -403,12 +435,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 425425,
-      "num": 425425,
-      "word": "弟弟 在良知和亲情之间选择了亲情",
-      "onboard_time": 1703478038,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 413391,
+      "num": 413391,
+      "word": "张艺兴长沙工作室经营异常",
+      "onboard_time": 1703480080,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 403879,
@@ -417,14 +449,6 @@
       "onboard_time": 1703473774,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394413,
-      "num": 394413,
-      "word": "25考研女生凌晨5点半起床占座",
-      "onboard_time": 1703477858,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 394226,
@@ -465,14 +489,6 @@
       "onboard_time": 1703471434,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 371892,
-      "num": 371892,
-      "word": "张艺兴长沙工作室经营异常",
-      "onboard_time": 1703480080,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 369244,
@@ -795,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195243,
+      "num": 195243,
+      "word": "小米汽车隐藏情报",
+      "onboard_time": 1703481637,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 193892,
       "num": 193892,
       "word": "理想汽车",
@@ -809,6 +833,14 @@
       "onboard_time": 1703427277,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 192076,
+      "num": 192076,
+      "word": "cp30",
+      "onboard_time": 1703481580,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 187397,
@@ -953,14 +985,6 @@
       "onboard_time": 1703429978,
       "rank": 26,
       "category": "情感,作品衍生"
-    },
-    {
-      "raw_hot": 168888,
-      "num": 168888,
-      "word": "黄奕为穿上礼服缠了10层保鲜膜",
-      "onboard_time": 1703481338,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 168209,
@@ -1459,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30709,
+      "num": 133105,
+      "word": "1228车圈春晚",
+      "onboard_time": 1703482415,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25329,
       "num": 454519,
       "word": "大张伟符龙飞爵士版约定",
@@ -1483,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19360,
+      "num": 177775,
+      "word": "任贤齐告五人温柔版倔强",
+      "onboard_time": 1703480439,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16667,
       "num": 19526,
       "word": "在大爷身上看到了热爱不分年龄",
@@ -1497,14 +1537,6 @@
       "onboard_time": 1703449574,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 9400,
-      "num": 177775,
-      "word": "任贤齐告五人温柔版倔强",
-      "onboard_time": 1703480439,
-      "rank": 39,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

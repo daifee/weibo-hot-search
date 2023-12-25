@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703481466859,
+  "endTime": 1703482446941,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2692610,
-      "num": 2692610,
+      "raw_hot": 2802689,
+      "num": 2802689,
       "word": "终于知道工资为什么要保密了",
       "onboard_time": 1703479479,
       "rank": 0,
@@ -491,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 833072,
+      "num": 833072,
+      "word": "马立奥肖允儿湖南跨年合体",
+      "onboard_time": 1703480380,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 830512,
       "num": 830512,
       "word": "408 看不懂中文了",
@@ -657,14 +665,6 @@
       "onboard_time": 1703473415,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 709426,
-      "num": 709426,
-      "word": "马立奥肖允儿湖南跨年合体",
-      "onboard_time": 1703480380,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 700133,
@@ -859,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 576185,
+      "num": 576185,
+      "word": "麦当劳回应将涨价",
+      "onboard_time": 1703479900,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 575065,
       "num": 575065,
       "word": "管泽元余霜婚礼",
@@ -905,6 +913,14 @@
       "onboard_time": 1703404651,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 539204,
+      "num": 539204,
+      "word": "25考研女生凌晨5点半起床占座",
+      "onboard_time": 1703477858,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 533044,
@@ -971,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 501693,
+      "num": 272270,
+      "word": "男子订婚后被告强奸一审被判3年",
+      "onboard_time": 1703481936,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500983,
       "num": 500983,
       "word": "你一共经历了7434次精神内耗",
@@ -1019,14 +1043,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 478710,
-      "num": 478710,
-      "word": "麦当劳回应将涨价",
-      "onboard_time": 1703479900,
-      "rank": 8,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 478656,
       "num": 478656,
       "word": "浙江宣传发文考研不能成为二次高考",
@@ -1059,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 474528,
+      "num": 474528,
+      "word": "黄奕为穿上礼服缠了10层保鲜膜",
+      "onboard_time": 1703481338,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472383,
       "num": 472383,
       "word": "带猫去猫咖后的反应",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1703413713,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 462033,
+      "num": 462033,
+      "word": "弟弟 在良知和亲情之间选择了亲情",
+      "onboard_time": 1703478038,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 461828,
@@ -1179,14 +1211,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 425425,
-      "num": 425425,
-      "word": "弟弟 在良知和亲情之间选择了亲情",
-      "onboard_time": 1703478038,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 422359,
       "num": 422359,
       "word": "小米汽车",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1703400152,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413391,
+      "num": 413391,
+      "word": "张艺兴长沙工作室经营异常",
+      "onboard_time": 1703480080,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 411972,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1703422297,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 394413,
-      "num": 394413,
-      "word": "25考研女生凌晨5点半起床占座",
-      "onboard_time": 1703477858,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 394226,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1703395893,
       "rank": 37,
       "category": "健康医疗,剧集"
-    },
-    {
-      "raw_hot": 371892,
-      "num": 371892,
-      "word": "张艺兴长沙工作室经营异常",
-      "onboard_time": 1703480080,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 369244,
@@ -2443,6 +2459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 195243,
+      "num": 195243,
+      "word": "小米汽车隐藏情报",
+      "onboard_time": 1703481637,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 195236,
       "num": 195236,
       "word": "一场酣畅淋漓的变阵",
@@ -2505,6 +2529,14 @@
       "onboard_time": 1703416775,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192076,
+      "num": 192076,
+      "word": "cp30",
+      "onboard_time": 1703481580,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 190741,
@@ -2777,14 +2809,6 @@
       "onboard_time": 1703474615,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 168888,
-      "num": 168888,
-      "word": "黄奕为穿上礼服缠了10层保鲜膜",
-      "onboard_time": 1703481338,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 168313,
@@ -4203,6 +4227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30709,
+      "num": 133105,
+      "word": "1228车圈春晚",
+      "onboard_time": 1703482415,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29324,
       "num": 29324,
       "word": "圣诞节房屋装饰 压力给到邻居",
@@ -4283,6 +4315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19360,
+      "num": 177775,
+      "word": "任贤齐告五人温柔版倔强",
+      "onboard_time": 1703480439,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18271,
       "num": 24860,
       "word": "在家走一万步",
@@ -4329,14 +4369,6 @@
       "onboard_time": 1703364493,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 9400,
-      "num": 177775,
-      "word": "任贤齐告五人温柔版倔强",
-      "onboard_time": 1703480439,
-      "rank": 39,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
