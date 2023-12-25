@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703510370159,
+  "endTime": 1703511239321,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -83,8 +83,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1731082,
-      "num": 1731082,
+      "raw_hot": 1901145,
+      "num": 1901145,
       "word": "男子隔空猥亵8名幼女获刑7年半",
       "onboard_time": 1703506474,
       "rank": 13,
@@ -163,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1136454,
+      "num": 1136454,
+      "word": "李永钦摔下升降台",
+      "onboard_time": 1703509956,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1113916,
+      "num": 1113916,
+      "word": "他只是做错题 又没有做错人",
+      "onboard_time": 1703505032,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1112576,
       "num": 1112576,
       "word": "优酷确认获得知否独播权",
@@ -201,14 +217,6 @@
       "onboard_time": 1703408318,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1026001,
-      "num": 1026001,
-      "word": "他只是做错题 又没有做错人",
-      "onboard_time": 1703505032,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 1020740,
@@ -395,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 695607,
+      "num": 695607,
+      "word": "订婚强奸案男方亲属发声",
+      "onboard_time": 1703509176,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666999,
       "num": 666999,
       "word": "乡政府回应40万斤牛蛙一夜死亡",
@@ -433,6 +449,14 @@
       "onboard_time": 1703460806,
       "rank": 39,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 606147,
+      "num": 606147,
+      "word": "姐姐与妹妹争吵后将其双手肌腱割断",
+      "onboard_time": 1703509420,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602982,
@@ -611,14 +635,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 478305,
-      "num": 478305,
-      "word": "订婚强奸案男方亲属发声",
-      "onboard_time": 1703509176,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 474956,
       "num": 474956,
       "word": "肖战北京出发横店",
@@ -641,6 +657,14 @@
       "onboard_time": 1703504315,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465212,
+      "num": 317293,
+      "word": "大便出现这些异常千万要当心",
+      "onboard_time": 1703509477,
+      "rank": 21,
+      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 464363,
@@ -745,14 +769,6 @@
       "onboard_time": 1703480080,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412825,
-      "num": 317293,
-      "word": "大便出现这些异常千万要当心",
-      "onboard_time": 1703509477,
-      "rank": 21,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 403879,
@@ -923,14 +939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 341832,
-      "num": 341832,
-      "word": "李永钦摔下升降台",
-      "onboard_time": 1703509956,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 339831,
       "num": 339831,
       "word": "周深 两颗痣的才是我",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1703498073,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 312874,
-      "num": 312874,
-      "word": "姐姐与妹妹争吵后将其双手肌腱割断",
-      "onboard_time": 1703509420,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311128,
@@ -1187,12 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259514,
+      "num": 259514,
+      "word": "我知道我爱你",
+      "onboard_time": 1703509895,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258968,
       "num": 258968,
       "word": "东方卫视跨年首发阵容",
       "onboard_time": 1703476057,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256020,
+      "num": 256020,
+      "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
+      "onboard_time": 1703510916,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253812,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1703493094,
       "rank": 37,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 240052,
+      "num": 240052,
+      "word": "陆虎冻的嘴唇粘麦克风上了",
+      "onboard_time": 1703509654,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 239226,
@@ -1443,12 +1467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198873,
-      "num": 198873,
-      "word": "我知道我爱你",
-      "onboard_time": 1703509895,
-      "rank": 28,
+      "raw_hot": 198825,
+      "num": 198825,
+      "word": "一念关山科目三",
+      "onboard_time": 1703508632,
+      "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197966,
+      "num": 197966,
+      "word": "民警得知60万元被追回笑声响彻办公室",
+      "onboard_time": 1703509775,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197179,
@@ -1488,14 +1520,6 @@
       "word": "张杰未你好吗跨年演唱会",
       "onboard_time": 1703470173,
       "rank": 27,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 195961,
-      "num": 195961,
-      "word": "陆虎冻的嘴唇粘麦克风上了",
-      "onboard_time": 1703509654,
-      "rank": 29,
       "category": "演出"
     },
     {
@@ -1601,14 +1625,6 @@
       "onboard_time": 1703473894,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186444,
-      "num": 186444,
-      "word": "一念关山科目三",
-      "onboard_time": 1703508632,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 186336,
@@ -2083,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154562,
+      "num": 114700,
+      "word": "竟然还有圣诞版的科目三",
+      "onboard_time": 1703510435,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153706,
       "num": 153706,
       "word": "檀健次卷王的自我修养",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1703422117,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147692,
+      "num": 147692,
+      "word": "人类历史上第一条手机短信",
+      "onboard_time": 1703510974,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147041,
@@ -2411,14 +2443,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 126051,
-      "num": 126051,
-      "word": "民警得知60万元被追回笑声响彻办公室",
-      "onboard_time": 1703509775,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125818,
       "num": 125818,
       "word": "小狗味要溢出屏幕",
@@ -2553,6 +2577,14 @@
       "onboard_time": 1703475156,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112676,
+      "num": 112676,
+      "word": "龙心 抢不到",
+      "onboard_time": 1703511037,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 112250,
@@ -2811,20 +2843,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25260,
+      "num": 375925,
+      "word": "世界好礼新年音乐会",
+      "onboard_time": 1703509236,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 23974,
       "num": 29508,
       "word": "狼队vs切尔西",
       "onboard_time": 1703441957,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23077,
-      "num": 359641,
-      "word": "世界好礼新年音乐会",
-      "onboard_time": 1703509236,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 20006,
