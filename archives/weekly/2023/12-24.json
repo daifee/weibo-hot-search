@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703478108415,
+  "endTime": 1703478940169,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2824075,
-      "num": 1245573,
+      "num": 1375802,
       "word": "女研究生制售色情书被抓",
       "onboard_time": 1703468016,
       "rank": 30,
@@ -195,6 +195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1462440,
+      "num": 1462440,
+      "word": "如果不是地震没人知道我们有多穷",
+      "onboard_time": 1703476658,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1436551,
       "num": 1436551,
       "word": "考研弃考",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1368275,
-      "num": 942804,
+      "num": 1352055,
       "word": "黄子韬cue徐艺洋发言",
       "onboard_time": 1703475874,
       "rank": 4,
@@ -395,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 941291,
+      "num": 941291,
+      "word": "同居生2孩7年后男方诉返还彩礼",
+      "onboard_time": 1703475874,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 931610,
       "num": 647678,
       "word": "肖战 拍戏外没有其他安排",
       "onboard_time": 1703405431,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 928501,
-      "num": 928501,
-      "word": "如果不是地震没人知道我们有多穷",
-      "onboard_time": 1703476658,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 927936,
@@ -481,14 +489,6 @@
       "onboard_time": 1703409995,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 827648,
-      "num": 827648,
-      "word": "同居生2孩7年后男方诉返还彩礼",
-      "onboard_time": 1703475874,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 813029,
@@ -731,6 +731,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 645987,
+      "num": 358185,
+      "word": "日本人的身高越来越矮了",
+      "onboard_time": 1703476958,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641858,
       "num": 641858,
       "word": "杨丞琳演唱会",
@@ -833,14 +841,6 @@
       "onboard_time": 1703399551,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 575094,
-      "num": 358185,
-      "word": "日本人的身高越来越矮了",
-      "onboard_time": 1703476958,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 575065,
@@ -1059,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456774,
+      "num": 456774,
+      "word": "何炅杨紫二十年前",
+      "onboard_time": 1703476360,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454779,
       "num": 454779,
       "word": "小猫辛辛苦苦抢了一块白菜帮",
@@ -1195,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407447,
+      "num": 251828,
+      "word": "弟弟 在良知和亲情之间选择了亲情",
+      "onboard_time": 1703478038,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 404779,
       "num": 404779,
       "word": "云南一农村5桌以上聚餐需报备",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1703335176,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 400910,
-      "num": 400910,
-      "word": "何炅杨紫二十年前",
-      "onboard_time": 1703476360,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 396690,
@@ -1276,7 +1284,7 @@
     },
     {
       "raw_hot": 377397,
-      "num": 310220,
+      "num": 333039,
       "word": "保温杯使用的5个禁忌",
       "onboard_time": 1703471434,
       "rank": 31,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1703387194,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353399,
+      "num": 353399,
+      "word": "王安宇 少来",
+      "onboard_time": 1703477558,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 347172,
@@ -1417,6 +1433,14 @@
       "onboard_time": 1703423195,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326084,
+      "num": 326084,
+      "word": "25考研女生凌晨5点半起床占座",
+      "onboard_time": 1703477858,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 323256,
@@ -1619,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285913,
-      "num": 285913,
-      "word": "王安宇 少来",
-      "onboard_time": 1703477558,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285224,
       "num": 285224,
       "word": "StrayKids 换乘恋爱",
@@ -1760,14 +1776,6 @@
       "word": "你的幸福有点吵到室友了",
       "onboard_time": 1703388453,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 262025,
-      "num": 250118,
-      "word": "弟弟 在良知和亲情之间选择了亲情",
-      "onboard_time": 1703478038,
-      "rank": 30,
       "category": "幽默"
     },
     {
@@ -1932,7 +1940,7 @@
     },
     {
       "raw_hot": 239226,
-      "num": 956886,
+      "num": 1382678,
       "word": "新批准国产网游版号达105款",
       "onboard_time": 1703465735,
       "rank": 26,
@@ -2129,6 +2137,14 @@
       "onboard_time": 1703470656,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217116,
+      "num": 217116,
+      "word": "最猛的1其实是周一",
+      "onboard_time": 1703478279,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 216134,
@@ -2385,6 +2401,14 @@
       "onboard_time": 1703428118,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193892,
+      "num": 193892,
+      "word": "理想汽车",
+      "onboard_time": 1703478220,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 193607,
@@ -2649,14 +2673,6 @@
       "onboard_time": 1703474615,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 169407,
-      "num": 169407,
-      "word": "25考研女生凌晨5点半起床占座",
-      "onboard_time": 1703477858,
-      "rank": 39,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 168313,
@@ -3003,6 +3019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147041,
+      "num": 147041,
+      "word": "我好像写不出朋友圈年度总结",
+      "onboard_time": 1703475698,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146024,
       "num": 146024,
       "word": "李耕耘关水龙头",
@@ -3091,6 +3115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140968,
+      "num": 140968,
+      "word": "张杰也是早八人",
+      "onboard_time": 1703475996,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140686,
       "num": 140686,
       "word": "大梦归离",
@@ -3155,28 +3187,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137023,
-      "num": 137023,
-      "word": "我好像写不出朋友圈年度总结",
-      "onboard_time": 1703475698,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136919,
       "num": 136919,
       "word": "克罗斯 续约",
       "onboard_time": 1703433214,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136350,
-      "num": 136350,
-      "word": "张杰也是早八人",
-      "onboard_time": 1703475996,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 135571,
@@ -3481,6 +3497,14 @@
       "onboard_time": 1703392714,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119768,
+      "num": 119768,
+      "word": "雷鸣和11班告别",
+      "onboard_time": 1703478821,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119732,
@@ -4035,20 +4059,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 35436,
+      "num": 519623,
+      "word": "王鹤棣过节氛围感",
+      "onboard_time": 1703477437,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34569,
       "num": 34569,
       "word": "利物浦1比1阿森纳",
       "onboard_time": 1703374401,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30417,
-      "num": 239622,
-      "word": "王鹤棣过节氛围感",
-      "onboard_time": 1703477437,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 29324,
@@ -4072,6 +4096,14 @@
       "word": "王星越的手指在万鹏腰上打拍",
       "onboard_time": 1703356097,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25329,
+      "num": 454519,
+      "word": "大张伟符龙飞爵士版约定",
+      "onboard_time": 1703476837,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -4104,14 +4136,6 @@
       "word": "杨旭好稳",
       "onboard_time": 1703430338,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 20234,
-      "num": 411431,
-      "word": "大张伟符龙飞爵士版约定",
-      "onboard_time": 1703476837,
-      "rank": 14,
       "category": "综艺"
     },
     {
