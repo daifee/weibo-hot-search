@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703471372572,
+  "endTime": 1703472022346,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2726625,
+      "raw_hot": 2824075,
       "num": 1245573,
       "word": "女研究生制售色情书被抓",
       "onboard_time": 1703468016,
@@ -81,6 +81,14 @@
       "onboard_time": 1703408318,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2173896,
+      "num": 2173896,
+      "word": "专科的风还是吹到了麻省理工",
+      "onboard_time": 1703468732,
+      "rank": 0,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 2160074,
@@ -121,14 +129,6 @@
       "onboard_time": 1703423376,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1804098,
-      "num": 1804098,
-      "word": "专科的风还是吹到了麻省理工",
-      "onboard_time": 1703468732,
-      "rank": 0,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 1796415,
@@ -419,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 834866,
+      "num": 834866,
+      "word": "男子供养女友及其丈夫一家5年",
+      "onboard_time": 1703469874,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 830512,
       "num": 830512,
       "word": "408 看不懂中文了",
@@ -683,14 +691,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 609190,
-      "num": 609190,
-      "word": "男子供养女友及其丈夫一家5年",
-      "onboard_time": 1703469874,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 608051,
       "num": 608051,
       "word": "金靖一比一复刻昨天女团妆",
@@ -787,20 +787,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 542150,
+      "num": 542150,
+      "word": "被好朋友表白了",
+      "onboard_time": 1703466394,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540564,
       "num": 540564,
       "word": "在上海吃饭 震撼",
       "onboard_time": 1703404651,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 535564,
-      "num": 535564,
-      "word": "被好朋友表白了",
-      "onboard_time": 1703466394,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 533044,
@@ -931,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 474956,
+      "num": 474956,
+      "word": "肖战北京出发横店",
+      "onboard_time": 1703470232,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474635,
       "num": 363592,
       "word": "今年考研压力都没这个司机大",
@@ -945,14 +953,6 @@
       "onboard_time": 1703401412,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 469984,
-      "num": 469984,
-      "word": "肖战北京出发横店",
-      "onboard_time": 1703470232,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 466385,
@@ -1275,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328020,
+      "num": 328020,
+      "word": "刘涛也在嗑一璐平安",
+      "onboard_time": 1703470293,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326823,
       "num": 326823,
       "word": "金珉奎和麦当劳有什么区别",
@@ -1353,6 +1361,14 @@
       "onboard_time": 1703430036,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306491,
+      "num": 306491,
+      "word": "游戏版号",
+      "onboard_time": 1703471074,
+      "rank": 31,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 305552,
@@ -1643,14 +1659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 256260,
-      "num": 256260,
-      "word": "刘涛也在嗑一璐平安",
-      "onboard_time": 1703470293,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 254253,
       "num": 254253,
       "word": "解清帅回应直播带货",
@@ -1899,6 +1907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223141,
+      "num": 223141,
+      "word": "武艺半年不出现 一出现笑半年",
+      "onboard_time": 1703470054,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221971,
       "num": 221971,
       "word": "张碧晨 出去闯一闯的女孩",
@@ -1921,6 +1937,14 @@
       "onboard_time": 1703341060,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 217685,
+      "num": 217685,
+      "word": "上海迪士尼热力追踪项目恢复运营",
+      "onboard_time": 1703470656,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215493,
@@ -1955,14 +1979,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 211643,
-      "num": 211643,
-      "word": "武艺半年不出现 一出现笑半年",
-      "onboard_time": 1703470054,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211504,
       "num": 211504,
       "word": "一天八个小时不够你开会啊",
@@ -1985,6 +2001,14 @@
       "onboard_time": 1703427219,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208647,
+      "num": 208647,
+      "word": "上海迪士尼",
+      "onboard_time": 1703471074,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207915,
@@ -2027,14 +2051,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204946,
-      "num": 204946,
-      "word": "上海迪士尼热力追踪项目恢复运营",
-      "onboard_time": 1703470656,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203943,
       "num": 203943,
       "word": "马哲重组EP",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1703398412,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203588,
+      "num": 174340,
+      "word": "小猫掉下来被小孩哥接住",
+      "onboard_time": 1703470891,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 202037,
@@ -2147,14 +2171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194955,
-      "num": 194955,
-      "word": "上海迪士尼",
-      "onboard_time": 1703471074,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194743,
       "num": 194743,
       "word": "Hero战胜KSG",
@@ -2209,14 +2225,6 @@
       "onboard_time": 1703413417,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187568,
-      "num": 187568,
-      "word": "游戏版号",
-      "onboard_time": 1703471074,
-      "rank": 31,
-      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 187483,
@@ -2345,6 +2353,14 @@
       "onboard_time": 1703401112,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176275,
+      "num": 172237,
+      "word": "保温杯使用的5个禁忌",
+      "onboard_time": 1703471434,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 174263,
@@ -2489,14 +2505,6 @@
       "onboard_time": 1703420735,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164075,
-      "num": 164075,
-      "word": "小猫掉下来被小孩哥接住",
-      "onboard_time": 1703470891,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 163568,
@@ -2843,6 +2851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139490,
+      "num": 139490,
+      "word": "不要随意挤痘痘和黑头",
+      "onboard_time": 1703468913,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 139320,
       "num": 139320,
       "word": "金靖女团舞",
@@ -2857,14 +2873,6 @@
       "onboard_time": 1703408797,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 138188,
-      "num": 138188,
-      "word": "不要随意挤痘痘和黑头",
-      "onboard_time": 1703468913,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 137820,
@@ -3019,6 +3027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129707,
+      "num": 129707,
+      "word": "迪丽热巴黑粉拒不道歉被强执",
+      "onboard_time": 1703471973,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129694,
       "num": 129694,
       "word": "阿斯麦第一台2纳米光刻机给了英特尔",
@@ -3113,6 +3129,14 @@
       "onboard_time": 1703381729,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125009,
+      "num": 125009,
+      "word": "官方回应105款新游获批",
+      "onboard_time": 1703471616,
+      "rank": 48,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 123809,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1703472022346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2173896,
+        "num": 2173896,
+        "word": "专科的风还是吹到了麻省理工",
+        "onboard_time": 1703468732,
+        "rank": 0,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 1342064,
+        "num": 1342064,
+        "word": "2024元旦放假安排来了",
+        "onboard_time": 1703464356,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30167,
+        "num": 1084267,
+        "word": "国产首艘大型邮轮离港首次试运营",
+        "onboard_time": 1703424036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2824075,
+        "num": 1068763,
+        "word": "女研究生制售色情书被抓",
+        "onboard_time": 1703468016,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014162,
+        "num": 1014162,
+        "word": "周一确诊为大娘子",
+        "onboard_time": 1703467413,
+        "rank": 4,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 834866,
+        "num": 834866,
+        "word": "男子供养女友及其丈夫一家5年",
+        "onboard_time": 1703469874,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542150,
+        "num": 542150,
+        "word": "被好朋友表白了",
+        "onboard_time": 1703466394,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 500970,
+        "num": 500970,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1703465735,
+        "rank": 7,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 490695,
+        "num": 490695,
+        "word": "张颂文宋佳 风中有朵雨做的云",
+        "onboard_time": 1703461949,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 474956,
+        "num": 474956,
+        "word": "肖战北京出发横店",
+        "onboard_time": 1703470232,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468043,
+        "num": 468043,
+        "word": "陈都灵 美艳女妖",
+        "onboard_time": 1703460685,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420724,
+        "num": 420724,
+        "word": "上班睡觉被辞退能拿到赔偿吗",
+        "onboard_time": 1703460505,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391777,
+        "num": 391777,
+        "word": "小米官宣汽车发布会",
+        "onboard_time": 1703468312,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 359844,
+        "num": 359844,
+        "word": "结婚16年3娃不是亲生当事人发声",
+        "onboard_time": 1703464174,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223363,
+        "num": 357310,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354976,
+        "num": 354976,
+        "word": "赵露思剪短发的原因",
+        "onboard_time": 1703466336,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328020,
+        "num": 328020,
+        "word": "刘涛也在嗑一璐平安",
+        "onboard_time": 1703470293,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306491,
+        "num": 306491,
+        "word": "游戏版号",
+        "onboard_time": 1703471074,
+        "rank": 17,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 290537,
+        "num": 290537,
+        "word": "女子捡到银行卡猜对密码取走4万被抓",
+        "onboard_time": 1703462188,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286873,
+        "num": 286873,
+        "word": "孙思邈睡眠法",
+        "onboard_time": 1703464775,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248091,
+        "num": 248091,
+        "word": "伊能静 演员秦昊就是观众的不属于我",
+        "onboard_time": 1703464833,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232792,
+        "num": 232792,
+        "word": "教育局通报小学教师殴打学生致脑震荡",
+        "onboard_time": 1703460082,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 225537,
+        "num": 225537,
+        "word": "郭敬明 大梦归离原始帧",
+        "onboard_time": 1703460445,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223141,
+        "num": 223141,
+        "word": "武艺半年不出现 一出现笑半年",
+        "onboard_time": 1703470054,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217685,
+        "num": 217685,
+        "word": "上海迪士尼热力追踪项目恢复运营",
+        "onboard_time": 1703470656,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213380,
+        "num": 213380,
+        "word": "赤西仁黑木明纱官宣离婚",
+        "onboard_time": 1703461707,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209706,
+        "num": 209706,
+        "word": "上海迪士尼疯狂动物城遭遇了什么",
+        "onboard_time": 1703469333,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208647,
+        "num": 208647,
+        "word": "上海迪士尼",
+        "onboard_time": 1703471074,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175977,
+        "num": 175977,
+        "word": "金靖一比一复刻昨天女团妆",
+        "onboard_time": 1703460806,
+        "rank": 28,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 175538,
+        "num": 175538,
+        "word": "喝两口奶茶不会胖的",
+        "onboard_time": 1703469995,
+        "rank": 29,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 203588,
+        "num": 174340,
+        "word": "小猫掉下来被小孩哥接住",
+        "onboard_time": 1703470891,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176275,
+        "num": 172237,
+        "word": "保温杯使用的5个禁忌",
+        "onboard_time": 1703471434,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168194,
+        "num": 168194,
+        "word": "你们真的不爱棣棣了吗",
+        "onboard_time": 1703462970,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161178,
+        "num": 161178,
+        "word": "对周杰伦心情是复杂的",
+        "onboard_time": 1703461587,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159969,
+        "num": 159969,
+        "word": "雷军 小米汽车",
+        "onboard_time": 1703462671,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154586,
+        "num": 154586,
+        "word": "国安部发布日常保密注意事项清单",
+        "onboard_time": 1703467891,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151915,
+        "num": 151915,
+        "word": "杭州女子刷视频发现老公另有2妻3娃",
+        "onboard_time": 1703429562,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148000,
+        "num": 148000,
+        "word": "水木年华演唱会上怀念朱令",
+        "onboard_time": 1703461527,
+        "rank": 37,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 142365,
+        "num": 142365,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141399,
+        "num": 141399,
+        "word": "文旅部发布元旦春节出游提示",
+        "onboard_time": 1703470414,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139490,
+        "num": 139490,
+        "word": "不要随意挤痘痘和黑头",
+        "onboard_time": 1703468913,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 137711,
+        "num": 137711,
+        "word": "以为是个黑头结果开了刀",
+        "onboard_time": 1703434052,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135552,
+        "num": 135552,
+        "word": "今年考研压力都没这个司机大",
+        "onboard_time": 1703428062,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134855,
+        "num": 134855,
+        "word": "王一博新歌",
+        "onboard_time": 1703465555,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134804,
+        "num": 134804,
+        "word": "厌蠢症",
+        "onboard_time": 1703426018,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133487,
+        "num": 133487,
+        "word": "坚持三天你会越减越舒服",
+        "onboard_time": 1703444954,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129707,
+        "num": 129707,
+        "word": "迪丽热巴黑粉拒不道歉被强执",
+        "onboard_time": 1703471973,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128961,
+        "num": 128961,
+        "word": "张杰未你好吗跨年演唱会",
+        "onboard_time": 1703470173,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125009,
+        "num": 125009,
+        "word": "官方回应105款新游获批",
+        "onboard_time": 1703471616,
+        "rank": 48,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 122269,
+        "num": 122269,
+        "word": "我国成功发射一箭四星",
+        "onboard_time": 1703469693,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}
