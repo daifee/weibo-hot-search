@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703536468324,
+  "endTime": 1703538913897,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -5803,6 +5803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 50121,
+      "num": 50121,
+      "word": "订婚强奸案男方称女方未退彩礼",
+      "onboard_time": 1703533272,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49704,
       "num": 49704,
       "word": "广东6元早茶",
@@ -5907,12 +5915,12 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 34017,
-      "num": 34017,
-      "word": "订婚强奸案男方称女方未退彩礼",
-      "onboard_time": 1703533272,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 31077,
+      "num": 25512,
+      "word": "本溪花28亿外包环卫却除不干净雪",
+      "onboard_time": 1703536514,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 29324,
@@ -6075,6 +6083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 15978,
+      "num": 15978,
+      "word": "李雪琴给李现挡水挡上瘾了",
+      "onboard_time": 1703535555,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15223,
       "num": 15223,
       "word": "真爱至上",
@@ -6099,20 +6115,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12799,
-      "num": 12799,
-      "word": "李雪琴给李现挡水挡上瘾了",
-      "onboard_time": 1703535555,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 10864,
       "num": 10864,
       "word": "有家回不去的感觉",
       "onboard_time": 1703364493,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10740,
+      "num": 10740,
+      "word": "张晚意孙怡新剧吻戏",
+      "onboard_time": 1703538194,
+      "rank": 40,
+      "category": "剧集,艺人"
     }
   ],
   "hotgov_list": [
