@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703504029297,
+  "endTime": 1703507532258,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -387,6 +387,14 @@
       "category": "剧集,幽默"
     },
     {
+      "raw_hot": 1098861,
+      "num": 545541,
+      "word": "3D还原订婚强奸案",
+      "onboard_time": 1703502215,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1093325,
       "num": 1093325,
       "word": "微波炉热了十分钟的馒头",
@@ -401,6 +409,14 @@
       "onboard_time": 1703424218,
       "rank": 19,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 1064505,
+      "num": 1064505,
+      "word": "优酷确认获得知否独播权",
+      "onboard_time": 1703501254,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1064309,
@@ -531,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 880338,
+      "num": 880338,
+      "word": "张艺兴将担任C罗中国行表演嘉宾",
+      "onboard_time": 1703505696,
+      "rank": 3,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 870277,
       "num": 870277,
       "word": "黄奕为穿上礼服缠了10层保鲜膜",
@@ -657,14 +681,6 @@
       "onboard_time": 1703464833,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 772828,
-      "num": 772828,
-      "word": "优酷确认获得知否独播权",
-      "onboard_time": 1703501254,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 761654,
@@ -881,14 +897,6 @@
       "onboard_time": 1703399971,
       "rank": 3,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 646668,
-      "num": 524422,
-      "word": "3D还原订婚强奸案",
-      "onboard_time": 1703502215,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 645987,
@@ -1171,6 +1179,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 516230,
+      "num": 516230,
+      "word": "TTG世冠淘汰",
+      "onboard_time": 1703505937,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 511731,
       "num": 511731,
       "word": "小破站跨晚把许嵩冯禧都请来了",
@@ -1235,6 +1251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 494133,
+      "num": 494133,
+      "word": "法院披露订婚强奸案详情",
+      "onboard_time": 1703505696,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492877,
       "num": 443750,
       "word": "圣诞果",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1703401412,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 467360,
+      "num": 467360,
+      "word": "研究生监考老师分享监考感受见闻",
+      "onboard_time": 1703504315,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466385,
@@ -1379,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449058,
+      "num": 449058,
+      "word": "多地自助彩票机被叫停",
+      "onboard_time": 1703502575,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 447491,
       "num": 447491,
       "word": "吉林发现被东北虎咬死的东北豹",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1703412274,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 428538,
+      "num": 428538,
+      "word": "男子隔空猥亵8名幼女获刑7年半",
+      "onboard_time": 1703506474,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427410,
@@ -1779,12 +1827,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 333388,
+      "num": 333388,
+      "word": "他只是做错题 又没有做错人",
+      "onboard_time": 1703505032,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 331702,
       "num": 331702,
       "word": "我为什么追星",
       "onboard_time": 1703429978,
       "rank": 24,
       "category": "情感,作品衍生"
+    },
+    {
+      "raw_hot": 331627,
+      "num": 331627,
+      "word": "5亿辈子很长吗 武艺被子就是短",
+      "onboard_time": 1703504496,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 330253,
@@ -1955,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302742,
+      "num": 302742,
+      "word": "易烊千玺是艾佳妮心目中的女婿标杆",
+      "onboard_time": 1703506294,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300930,
       "num": 300930,
       "word": "105款国产游戏获批",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1703361435,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289517,
+      "num": 289517,
+      "word": "喻言 美得眼前一亮",
+      "onboard_time": 1703506594,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 287625,
@@ -2145,14 +2225,6 @@
       "onboard_time": 1703424577,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 272349,
-      "num": 272349,
-      "word": "多地自助彩票机被叫停",
-      "onboard_time": 1703502575,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 269715,
@@ -2401,6 +2473,14 @@
       "onboard_time": 1703384133,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241330,
+      "num": 241330,
+      "word": "暴雪中国回应国服回归",
+      "onboard_time": 1703506954,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 241289,
@@ -3115,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189133,
+      "num": 189133,
+      "word": "鼓励落实带薪年假安排职工除夕休息",
+      "onboard_time": 1703503957,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188984,
       "num": 188984,
       "word": "女生全程跟踪小偷怼脸拍摄",
@@ -3259,6 +3347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180865,
+      "num": 180865,
+      "word": "WB晋级败者组第二轮",
+      "onboard_time": 1703507135,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180306,
       "num": 180306,
       "word": "初中生帮同学找回被盗自行车",
@@ -3377,6 +3473,14 @@
       "onboard_time": 1703487513,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175611,
+      "num": 175611,
+      "word": "节日能给表白加多少buff",
+      "onboard_time": 1703506234,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175461,
@@ -3571,6 +3675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165265,
+      "num": 165265,
+      "word": "雷鸣永远不是父亲的第一选择",
+      "onboard_time": 1703505754,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165261,
       "num": 165261,
       "word": "这辆猫猫为什么这么大",
@@ -3627,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163382,
+      "num": 163382,
+      "word": "繁花",
+      "onboard_time": 1703507374,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163185,
       "num": 163185,
       "word": "NCT127 暖呼呼的舞台",
@@ -3673,6 +3793,14 @@
       "onboard_time": 1703479238,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161961,
+      "num": 161961,
+      "word": "网易尚未回应是否与暴雪复合",
+      "onboard_time": 1703507314,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 161838,
@@ -3723,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159119,
+      "num": 159119,
+      "word": "送礼焦虑症",
+      "onboard_time": 1703506895,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159074,
       "num": 159074,
       "word": "国安部发布日常保密注意事项清单",
@@ -3769,6 +3905,14 @@
       "onboard_time": 1703382330,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157912,
+      "num": 157912,
+      "word": "麻辣烫糖葫芦在韩国爆火",
+      "onboard_time": 1703505574,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 157563,
@@ -3825,6 +3969,14 @@
       "onboard_time": 1703418454,
       "rank": 35,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 154704,
+      "num": 154704,
+      "word": "原来长大后真的会去弥补童年",
+      "onboard_time": 1703505214,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 154072,
@@ -3953,6 +4105,14 @@
       "onboard_time": 1703334214,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 150294,
+      "num": 150294,
+      "word": "蘑菇既不算素菜也不是荤菜",
+      "onboard_time": 1703507374,
+      "rank": 41,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 149506,
@@ -4563,6 +4723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122640,
+      "num": 122640,
+      "word": "水晶牛肉冻",
+      "onboard_time": 1703507253,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121959,
       "num": 121959,
       "word": "他们把你也搁家里啦",
@@ -4625,14 +4793,6 @@
       "onboard_time": 1703385391,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 118755,
-      "num": 118755,
-      "word": "鼓励落实带薪年假安排职工除夕休息",
-      "onboard_time": 1703503957,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118369,
@@ -4705,6 +4865,14 @@
       "onboard_time": 1703387853,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115265,
+      "num": 115265,
+      "word": "脱轨",
+      "onboard_time": 1703505334,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 115020,
@@ -5265,6 +5433,14 @@
       "onboard_time": 1703372599,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28656,
+      "num": 419550,
+      "word": "真的有零门槛碳板跑鞋吗",
+      "onboard_time": 1703505633,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 28413,
