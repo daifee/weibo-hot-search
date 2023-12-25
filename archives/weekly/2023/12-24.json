@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703460854147,
+  "endTime": 1703466967919,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -57,6 +57,14 @@
       "onboard_time": 1703407894,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2536289,
+      "num": 2536289,
+      "word": "2024元旦放假安排来了",
+      "onboard_time": 1703464356,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2212514,
@@ -195,6 +203,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 1281825,
+      "num": 1281825,
+      "word": "上班睡觉被辞退能拿到赔偿吗",
+      "onboard_time": 1703460505,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1258199,
       "num": 1258199,
       "word": "赵露思cos英雄联盟格温",
@@ -323,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 927936,
+      "num": 927936,
+      "word": "教育局通报小学教师殴打学生致脑震荡",
+      "onboard_time": 1703460082,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 914980,
       "num": 492800,
       "word": "疑似肖战理发路透流出",
@@ -345,6 +369,14 @@
       "onboard_time": 1703407052,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851715,
+      "num": 851715,
+      "word": "张颂文宋佳 风中有朵雨做的云",
+      "onboard_time": 1703461949,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 841661,
@@ -411,6 +443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 777638,
+      "num": 777638,
+      "word": "伊能静 演员秦昊就是观众的不属于我",
+      "onboard_time": 1703464833,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 761654,
       "num": 761654,
       "word": "脱轨 恐怖片",
@@ -425,6 +465,14 @@
       "onboard_time": 1703384011,
       "rank": 12,
       "category": "数码,社会新闻"
+    },
+    {
+      "raw_hot": 748497,
+      "num": 748497,
+      "word": "陈都灵 美艳女妖",
+      "onboard_time": 1703460685,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 744333,
@@ -457,6 +505,14 @@
       "onboard_time": 1703380771,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 724680,
+      "num": 724680,
+      "word": "女子捡到银行卡猜对密码取走4万被抓",
+      "onboard_time": 1703462188,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 723823,
@@ -513,6 +569,14 @@
       "onboard_time": 1703416894,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 667945,
+      "num": 667945,
+      "word": "结婚16年3娃不是亲生当事人发声",
+      "onboard_time": 1703464174,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 667818,
@@ -587,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608051,
+      "num": 608051,
+      "word": "金靖一比一复刻昨天女团妆",
+      "onboard_time": 1703460806,
+      "rank": 39,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 596978,
       "num": 596978,
       "word": "法硕 汗流浃背",
@@ -659,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542417,
+      "num": 542417,
+      "word": "雷军 小米汽车",
+      "onboard_time": 1703462671,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 540564,
       "num": 540564,
       "word": "在上海吃饭 震撼",
@@ -729,6 +809,14 @@
       "onboard_time": 1703346756,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 504713,
+      "num": 504713,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1703465735,
+      "rank": 11,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 500983,
@@ -817,6 +905,22 @@
       "onboard_time": 1703413713,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 461828,
+      "num": 461828,
+      "word": "对周杰伦心情是复杂的",
+      "onboard_time": 1703461587,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 457553,
+      "num": 457553,
+      "word": "你们真的不爱棣棣了吗",
+      "onboard_time": 1703462970,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 451462,
@@ -1003,6 +1107,22 @@
       "category": "健康医疗,剧集"
     },
     {
+      "raw_hot": 372162,
+      "num": 372162,
+      "word": "孙思邈睡眠法",
+      "onboard_time": 1703464775,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 369244,
+      "num": 369244,
+      "word": "郭敬明 大梦归离原始帧",
+      "onboard_time": 1703460445,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363690,
       "num": 363690,
       "word": "倪妮唐嫣工作室 卧龙凤雏",
@@ -1017,6 +1137,14 @@
       "onboard_time": 1703387194,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347172,
+      "num": 347172,
+      "word": "赤西仁黑木明纱官宣离婚",
+      "onboard_time": 1703461707,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 344960,
@@ -1185,6 +1313,14 @@
       "onboard_time": 1703430036,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300930,
+      "num": 300930,
+      "word": "105款国产游戏获批",
+      "onboard_time": 1703465735,
+      "rank": 23,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 299259,
@@ -1419,6 +1555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257031,
+      "num": 191620,
+      "word": "被好朋友表白了",
+      "onboard_time": 1703466394,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256784,
       "num": 256784,
       "word": "天杀的396 你敢耍老子",
@@ -1481,6 +1625,14 @@
       "onboard_time": 1703414793,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244599,
+      "num": 244599,
+      "word": "赵露思剪短发的原因",
+      "onboard_time": 1703466336,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243088,
@@ -1561,14 +1713,6 @@
       "onboard_time": 1703405853,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 236675,
-      "num": 202020,
-      "word": "教育局通报小学教师殴打学生致脑震荡",
-      "onboard_time": 1703460082,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 236318,
@@ -1763,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207247,
+      "num": 207247,
+      "word": "王一博新歌",
+      "onboard_time": 1703465555,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207093,
       "num": 207093,
       "word": "出真题",
@@ -1857,6 +2009,14 @@
       "onboard_time": 1703336793,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197179,
+      "num": 189824,
+      "word": "水木年华演唱会上怀念朱令",
+      "onboard_time": 1703461527,
+      "rank": 31,
+      "category": "演出,社会新闻"
     },
     {
       "raw_hot": 196182,
@@ -1977,6 +2137,14 @@
       "onboard_time": 1703399252,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183531,
+      "num": 183531,
+      "word": "坚持三天你会越减越舒服",
+      "onboard_time": 1703444954,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 183199,
@@ -2171,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163568,
+      "num": 163568,
+      "word": "女子花60多万找闺蜜代购5只包是假的",
+      "onboard_time": 1703453054,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162649,
       "num": 162649,
       "word": "腿姐 为不平凡的你自豪",
@@ -2184,14 +2360,6 @@
       "word": "数十名考研学子马路边冒着寒风紧张冲刺",
       "onboard_time": 1703394517,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162131,
-      "num": 162131,
-      "word": "女子花60多万找闺蜜代购5只包是假的",
-      "onboard_time": 1703453054,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -2355,12 +2523,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 150364,
-      "num": 150364,
-      "word": "坚持三天你会越减越舒服",
-      "onboard_time": 1703444954,
-      "rank": 49,
-      "category": "运动健身"
+      "raw_hot": 149091,
+      "num": 149091,
+      "word": "刮通这里才知道自己屯了多少湿",
+      "onboard_time": 1703466516,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148977,
@@ -2427,6 +2595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142104,
+      "num": 142104,
+      "word": "多地辟谣医保统筹额度将清零",
+      "onboard_time": 1703462852,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142030,
       "num": 142030,
       "word": "十几岁和二十几岁的考场",
@@ -2457,6 +2633,14 @@
       "onboard_time": 1703375544,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140686,
+      "num": 140686,
+      "word": "大梦归离",
+      "onboard_time": 1703465315,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 140380,
@@ -2547,14 +2731,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 134875,
-      "num": 91412,
-      "word": "郭敬明 大梦归离原始帧",
-      "onboard_time": 1703460445,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134625,
       "num": 134625,
       "word": "甘肃红十字回应疑赈灾清单价格高昂",
@@ -2569,6 +2745,14 @@
       "onboard_time": 1703397392,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134051,
+      "num": 134051,
+      "word": "地震致青海海东32人遇难",
+      "onboard_time": 1703462128,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133937,
@@ -2883,6 +3067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114500,
+      "num": 114500,
+      "word": "KFC爆改KEEP",
+      "onboard_time": 1703465914,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114129,
       "num": 114129,
       "word": "王者世冠淘汰赛",
@@ -2921,6 +3113,14 @@
       "onboard_time": 1703385870,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111712,
+      "num": 111712,
+      "word": "这一截小狗算是被你玩明白了",
+      "onboard_time": 1703464775,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 110258,
@@ -3051,14 +3251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88790,
-      "num": 88790,
-      "word": "陈都灵 美艳女妖",
-      "onboard_time": 1703460685,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88362,
       "num": 85141,
       "word": "虞书欣晒凌妙妙杀青照",
@@ -3081,14 +3273,6 @@
       "onboard_time": 1703422833,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83976,
-      "num": 83976,
-      "word": "上班睡觉被辞退能拿到赔偿吗",
-      "onboard_time": 1703460505,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 82086,
@@ -3147,14 +3331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66161,
-      "num": 66161,
-      "word": "金靖一比一复刻昨天女团妆",
-      "onboard_time": 1703460806,
-      "rank": 39,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 65642,
       "num": 72132,
       "word": "EXOL的冬日聚会",
@@ -3209,6 +3385,14 @@
       "onboard_time": 1703374161,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 53301,
+      "num": 1102865,
+      "word": "国产首艘大型邮轮离港首次试运营",
+      "onboard_time": 1703424036,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52366,
@@ -3321,14 +3505,6 @@
       "onboard_time": 1703374401,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34113,
-      "num": 488350,
-      "word": "国产首艘大型邮轮离港首次试运营",
-      "onboard_time": 1703424036,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29324,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1703466967919,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2536289,
+        "num": 2536289,
+        "word": "2024元旦放假安排来了",
+        "onboard_time": 1703464356,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281825,
+        "num": 1281825,
+        "word": "上班睡觉被辞退能拿到赔偿吗",
+        "onboard_time": 1703460505,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53301,
+        "num": 1102865,
+        "word": "国产首艘大型邮轮离港首次试运营",
+        "onboard_time": 1703424036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927936,
+        "num": 927936,
+        "word": "教育局通报小学教师殴打学生致脑震荡",
+        "onboard_time": 1703460082,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 851715,
+        "num": 851715,
+        "word": "张颂文宋佳 风中有朵雨做的云",
+        "onboard_time": 1703461949,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 777638,
+        "num": 777638,
+        "word": "伊能静 演员秦昊就是观众的不属于我",
+        "onboard_time": 1703464833,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 748497,
+        "num": 748497,
+        "word": "陈都灵 美艳女妖",
+        "onboard_time": 1703460685,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 724680,
+        "num": 724680,
+        "word": "女子捡到银行卡猜对密码取走4万被抓",
+        "onboard_time": 1703462188,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667945,
+        "num": 667945,
+        "word": "结婚16年3娃不是亲生当事人发声",
+        "onboard_time": 1703464174,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608051,
+        "num": 608051,
+        "word": "金靖一比一复刻昨天女团妆",
+        "onboard_time": 1703460806,
+        "rank": 9,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 542417,
+        "num": 542417,
+        "word": "雷军 小米汽车",
+        "onboard_time": 1703462671,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 504713,
+        "num": 504713,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1703465735,
+        "rank": 11,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 478460,
+        "num": 478460,
+        "word": "杭州女子刷视频发现老公另有2妻3娃",
+        "onboard_time": 1703429562,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461828,
+        "num": 461828,
+        "word": "对周杰伦心情是复杂的",
+        "onboard_time": 1703461587,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 457553,
+        "num": 457553,
+        "word": "你们真的不爱棣棣了吗",
+        "onboard_time": 1703462970,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412286,
+        "num": 412286,
+        "word": "美国黄石公园检测出僵尸鹿病毒",
+        "onboard_time": 1703421395,
+        "rank": 15,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 409922,
+        "num": 409922,
+        "word": "上海迪士尼发布通知",
+        "onboard_time": 1703427219,
+        "rank": 16,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 372162,
+        "num": 372162,
+        "word": "孙思邈睡眠法",
+        "onboard_time": 1703464775,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 369244,
+        "num": 369244,
+        "word": "郭敬明 大梦归离原始帧",
+        "onboard_time": 1703460445,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354443,
+        "num": 354443,
+        "word": "周扬青家的圣诞树",
+        "onboard_time": 1703408318,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347719,
+        "num": 347719,
+        "word": "以为是个黑头结果开了刀",
+        "onboard_time": 1703434052,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347172,
+        "num": 347172,
+        "word": "赤西仁黑木明纱官宣离婚",
+        "onboard_time": 1703461707,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305581,
+        "num": 305581,
+        "word": "男子仅有10万元买下191万的房子后悔",
+        "onboard_time": 1703415337,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300930,
+        "num": 300930,
+        "word": "105款国产游戏获批",
+        "onboard_time": 1703465735,
+        "rank": 23,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 273582,
+        "num": 273582,
+        "word": "今年考研压力都没这个司机大",
+        "onboard_time": 1703428062,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244599,
+        "num": 244599,
+        "word": "赵露思剪短发的原因",
+        "onboard_time": 1703466336,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230734,
+        "num": 230734,
+        "word": "厌蠢症",
+        "onboard_time": 1703426018,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213544,
+        "num": 213544,
+        "word": "中国化妆品在韩国火了",
+        "onboard_time": 1703422054,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207247,
+        "num": 207247,
+        "word": "王一博新歌",
+        "onboard_time": 1703465555,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197103,
+        "num": 197103,
+        "word": "多邻国油炸小绿鸟",
+        "onboard_time": 1703447654,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 257031,
+        "num": 191620,
+        "word": "被好朋友表白了",
+        "onboard_time": 1703466394,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197179,
+        "num": 189824,
+        "word": "水木年华演唱会上怀念朱令",
+        "onboard_time": 1703461527,
+        "rank": 31,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 183531,
+        "num": 183531,
+        "word": "坚持三天你会越减越舒服",
+        "onboard_time": 1703444954,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 174261,
+        "num": 174261,
+        "word": "原来福宝这么大只了啊",
+        "onboard_time": 1703430036,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170440,
+        "num": 170440,
+        "word": "苹果 折叠手机",
+        "onboard_time": 1703418092,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163568,
+        "num": 163568,
+        "word": "女子花60多万找闺蜜代购5只包是假的",
+        "onboard_time": 1703453054,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160986,
+        "num": 160986,
+        "word": "大众电影删除一念关山编剧采访",
+        "onboard_time": 1703424095,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154314,
+        "num": 154314,
+        "word": "张新成的头比雷佳音还大",
+        "onboard_time": 1703459302,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149091,
+        "num": 149091,
+        "word": "刮通这里才知道自己屯了多少湿",
+        "onboard_time": 1703466516,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145209,
+        "num": 145209,
+        "word": "一儿童在上海迪士尼被游览车撞倒",
+        "onboard_time": 1703428780,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 142104,
+        "num": 142104,
+        "word": "多地辟谣医保统筹额度将清零",
+        "onboard_time": 1703462852,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140686,
+        "num": 140686,
+        "word": "大梦归离",
+        "onboard_time": 1703465315,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134051,
+        "num": 134051,
+        "word": "地震致青海海东32人遇难",
+        "onboard_time": 1703462128,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132705,
+        "num": 132705,
+        "word": "原来分享欲不是喜欢",
+        "onboard_time": 1703428721,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126429,
+        "num": 126429,
+        "word": "民众手持白菊悼念朱令",
+        "onboard_time": 1703413354,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123831,
+        "num": 123831,
+        "word": "李明德 共生关系",
+        "onboard_time": 1703423376,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121125,
+        "num": 121125,
+        "word": "小米汽车",
+        "onboard_time": 1703427277,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114500,
+        "num": 114500,
+        "word": "KFC爆改KEEP",
+        "onboard_time": 1703465914,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111712,
+        "num": 111712,
+        "word": "这一截小狗算是被你玩明白了",
+        "onboard_time": 1703464775,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109466,
+        "num": 109466,
+        "word": "霍启刚回应向甘肃捐款7000万",
+        "onboard_time": 1703418755,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展生物科技生物产业#"
+    }
+  }
+}
