@@ -1,0 +1,410 @@
+{
+  "runTime": 1703508432647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1680089,
+        "num": 1680089,
+        "word": "网易暴雪复合",
+        "onboard_time": 1703502338,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1112576,
+        "num": 1112576,
+        "word": "优酷确认获得知否独播权",
+        "onboard_time": 1703501254,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9495,
+        "num": 980199,
+        "word": "新批准国产网游版号达105款",
+        "onboard_time": 1703465735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948227,
+        "num": 948227,
+        "word": "男子隔空猥亵8名幼女获刑7年半",
+        "onboard_time": 1703506474,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789182,
+        "num": 789182,
+        "word": "张艺兴将担任C罗中国行表演嘉宾",
+        "onboard_time": 1703505696,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 995224,
+        "num": 722732,
+        "word": "3D还原订婚强奸案",
+        "onboard_time": 1703502215,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521315,
+        "num": 521315,
+        "word": "终于知道工资为什么要保密了",
+        "onboard_time": 1703479479,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 513829,
+        "num": 513829,
+        "word": "他只是做错题 又没有做错人",
+        "onboard_time": 1703505032,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 459547,
+        "num": 459547,
+        "word": "法院披露订婚强奸案详情",
+        "onboard_time": 1703505696,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413656,
+        "num": 413656,
+        "word": "研究生监考老师分享监考感受见闻",
+        "onboard_time": 1703504315,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1537561,
+        "num": 406606,
+        "word": "我们只是师生关系 你越界了",
+        "onboard_time": 1703500956,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1102728,
+        "num": 405080,
+        "word": "月经推迟 身体缺血",
+        "onboard_time": 1703498377,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 436893,
+        "num": 404586,
+        "word": "张艺兴入职中国国家话剧院",
+        "onboard_time": 1703493756,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396161,
+        "num": 396161,
+        "word": "喻言 美得眼前一亮",
+        "onboard_time": 1703506594,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35651,
+        "num": 376644,
+        "word": "真的有零门槛碳板跑鞋吗",
+        "onboard_time": 1703505633,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 375661,
+        "num": 375661,
+        "word": "易烊千玺是艾佳妮心目中的女婿标杆",
+        "onboard_time": 1703506294,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356444,
+        "num": 356444,
+        "word": "多地自助彩票机被叫停",
+        "onboard_time": 1703502575,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 366531,
+        "num": 353537,
+        "word": "5亿辈子很长吗 武艺被子就是短",
+        "onboard_time": 1703504496,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350036,
+        "num": 350036,
+        "word": "TTG世冠淘汰",
+        "onboard_time": 1703505937,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 342987,
+        "num": 342987,
+        "word": "五月天被质疑假唱仍在调查中",
+        "onboard_time": 1703493995,
+        "rank": 19,
+        "category": "演出,社会新闻"
+      },
+      {
+        "raw_hot": 630635,
+        "num": 339803,
+        "word": "郑爽被法院公告",
+        "onboard_time": 1703493336,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316177,
+        "num": 316177,
+        "word": "蘑菇既不算素菜也不是荤菜",
+        "onboard_time": 1703507374,
+        "rank": 21,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 290152,
+        "num": 290152,
+        "word": "于适主持",
+        "onboard_time": 1703507676,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289664,
+        "num": 289664,
+        "word": "繁花",
+        "onboard_time": 1703507374,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289281,
+        "num": 289281,
+        "word": "庆余年2预约破900万",
+        "onboard_time": 1703503055,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253812,
+        "num": 253812,
+        "word": "暴雪中国回应国服回归",
+        "onboard_time": 1703506954,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225399,
+        "num": 225399,
+        "word": "调查称读研平均最低月薪13218元",
+        "onboard_time": 1703494719,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 221398,
+        "num": 221398,
+        "word": "男子心脏停跳90分钟医生接力救回",
+        "onboard_time": 1703494836,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197066,
+        "num": 197066,
+        "word": "网易尚未回应是否与暴雪复合",
+        "onboard_time": 1703507314,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186106,
+        "num": 186106,
+        "word": "原来长大后真的会去弥补童年",
+        "onboard_time": 1703505214,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185259,
+        "num": 185259,
+        "word": "谢可寅黄子弘凡主持",
+        "onboard_time": 1703503055,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 184814,
+        "num": 184814,
+        "word": "被斗鱼索赔8000万女生三年赚不足20万",
+        "onboard_time": 1703501014,
+        "rank": 31,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 167489,
+        "num": 167489,
+        "word": "鼓励落实带薪年假安排职工除夕休息",
+        "onboard_time": 1703503957,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165835,
+        "num": 165835,
+        "word": "胡先煦 年下不叫姐心思有点野",
+        "onboard_time": 1703492074,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155966,
+        "num": 155966,
+        "word": "中央军委举行晋升上将军衔仪式",
+        "onboard_time": 1703500772,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151628,
+        "num": 151628,
+        "word": "WB战胜TTG",
+        "onboard_time": 1703508213,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141807,
+        "num": 141807,
+        "word": "WB晋级败者组第二轮",
+        "onboard_time": 1703507135,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138810,
+        "num": 138810,
+        "word": "麻辣烫糖葫芦在韩国爆火",
+        "onboard_time": 1703505574,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138163,
+        "num": 138163,
+        "word": "TTG赛训",
+        "onboard_time": 1703498073,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137650,
+        "num": 137650,
+        "word": "送礼焦虑症",
+        "onboard_time": 1703506895,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134724,
+        "num": 134724,
+        "word": "男子订婚后被告强奸一审被判3年",
+        "onboard_time": 1703481936,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133622,
+        "num": 133622,
+        "word": "脱轨",
+        "onboard_time": 1703505334,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133076,
+        "num": 133076,
+        "word": "张元英珍珠双马尾",
+        "onboard_time": 1703490453,
+        "rank": 42,
+        "category": "音乐,美妆"
+      },
+      {
+        "raw_hot": 128443,
+        "num": 128443,
+        "word": "王者荣耀",
+        "onboard_time": 1703498255,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120099,
+        "num": 120099,
+        "word": "给孩子取名字的好办法",
+        "onboard_time": 1703503476,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119236,
+        "num": 119236,
+        "word": "雷鸣永远不是父亲的第一选择",
+        "onboard_time": 1703505754,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115239,
+        "num": 115239,
+        "word": "胡歌唐嫣五搭",
+        "onboard_time": 1703493815,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112541,
+        "num": 112541,
+        "word": "WB对战TTG",
+        "onboard_time": 1703496877,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102416,
+        "num": 102416,
+        "word": "节日能给表白加多少buff",
+        "onboard_time": 1703506234,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100462,
+        "num": 100462,
+        "word": "水晶牛肉冻",
+        "onboard_time": 1703507253,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#5G赋能生态漓江#"
+    }
+  }
+}

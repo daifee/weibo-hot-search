@@ -1,6 +1,6 @@
 {
   "startTime": 1703434863562,
-  "endTime": 1703507532258,
+  "endTime": 1703508432647,
   "band_list": [
     {
       "raw_hot": 3059414,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1112576,
+      "num": 1112576,
+      "word": "优酷确认获得知否独播权",
+      "onboard_time": 1703501254,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1106559,
       "num": 1106559,
       "word": "周一确诊为大娘子",
@@ -164,19 +172,11 @@
     },
     {
       "raw_hot": 1098861,
-      "num": 545541,
+      "num": 722732,
       "word": "3D还原订婚强奸案",
       "onboard_time": 1703502215,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1064505,
-      "num": 1064505,
-      "word": "优酷确认获得知否独播权",
-      "onboard_time": 1703501254,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 1057718,
@@ -208,6 +208,14 @@
       "word": "00后小伙年销7万单爱因斯坦的脑子",
       "onboard_time": 1703473774,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 948227,
+      "num": 948227,
+      "word": "男子隔空猥亵8名幼女获刑7年半",
+      "onboard_time": 1703506474,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -563,6 +571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 513829,
+      "num": 513829,
+      "word": "他只是做错题 又没有做错人",
+      "onboard_time": 1703505032,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 511731,
       "num": 511731,
       "word": "小破站跨晚把许嵩冯禧都请来了",
@@ -667,14 +683,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 428538,
-      "num": 428538,
-      "word": "男子隔空猥亵8名幼女获刑7年半",
-      "onboard_time": 1703506474,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427410,
       "num": 427410,
       "word": "大众电影删除一念关山编剧采访",
@@ -721,6 +729,14 @@
       "onboard_time": 1703473774,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396161,
+      "num": 396161,
+      "word": "喻言 美得眼前一亮",
+      "onboard_time": 1703506594,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 394226,
@@ -779,12 +795,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 375661,
+      "num": 375661,
+      "word": "易烊千玺是艾佳妮心目中的女婿标杆",
+      "onboard_time": 1703506294,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369244,
       "num": 369244,
       "word": "郭敬明 大梦归离原始帧",
       "onboard_time": 1703460445,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366531,
+      "num": 353537,
+      "word": "5亿辈子很长吗 武艺被子就是短",
+      "onboard_time": 1703504496,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 365273,
@@ -907,22 +939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 333388,
-      "num": 333388,
-      "word": "他只是做错题 又没有做错人",
-      "onboard_time": 1703505032,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 331627,
-      "num": 331627,
-      "word": "5亿辈子很长吗 武艺被子就是短",
-      "onboard_time": 1703504496,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 328020,
       "num": 328020,
       "word": "刘涛也在嗑一璐平安",
@@ -961,6 +977,14 @@
       "onboard_time": 1703487934,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316177,
+      "num": 316177,
+      "word": "蘑菇既不算素菜也不是荤菜",
+      "onboard_time": 1703507374,
+      "rank": 41,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 314547,
@@ -1003,14 +1027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 302742,
-      "num": 302742,
-      "word": "易烊千玺是艾佳妮心目中的女婿标杆",
-      "onboard_time": 1703506294,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300930,
       "num": 300930,
       "word": "105款国产游戏获批",
@@ -1035,20 +1051,28 @@
       "category": "游戏,社会新闻"
     },
     {
+      "raw_hot": 290152,
+      "num": 290152,
+      "word": "于适主持",
+      "onboard_time": 1703507676,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 289664,
+      "num": 289664,
+      "word": "繁花",
+      "onboard_time": 1703507374,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289610,
       "num": 289610,
       "word": "黄绮珊 没有孩子是我的人生遗憾",
       "onboard_time": 1703417314,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289517,
-      "num": 289517,
-      "word": "喻言 美得眼前一亮",
-      "onboard_time": 1703506594,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 282648,
@@ -1139,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253812,
+      "num": 253812,
+      "word": "暴雪中国回应国服回归",
+      "onboard_time": 1703506954,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250764,
       "num": 250764,
       "word": "A股",
@@ -1161,14 +1193,6 @@
       "onboard_time": 1703493094,
       "rank": 37,
       "category": "剧集,美妆"
-    },
-    {
-      "raw_hot": 241330,
-      "num": 241330,
-      "word": "暴雪中国回应国服回归",
-      "onboard_time": 1703506954,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 239226,
@@ -1395,6 +1419,14 @@
       "category": "演出,社会新闻"
     },
     {
+      "raw_hot": 197066,
+      "num": 197066,
+      "word": "网易尚未回应是否与暴雪复合",
+      "onboard_time": 1703507314,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196943,
       "num": 196943,
       "word": "米卡 机械尾巴",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1703469995,
       "rank": 32,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 186106,
+      "num": 186106,
+      "word": "原来长大后真的会去弥补童年",
+      "onboard_time": 1703505214,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 183531,
@@ -1851,14 +1891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163382,
-      "num": 163382,
-      "word": "繁花",
-      "onboard_time": 1703507374,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163185,
       "num": 163185,
       "word": "NCT127 暖呼呼的舞台",
@@ -1881,14 +1913,6 @@
       "onboard_time": 1703479238,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161961,
-      "num": 161961,
-      "word": "网易尚未回应是否与暴雪复合",
-      "onboard_time": 1703507314,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 161296,
@@ -1987,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154704,
-      "num": 154704,
-      "word": "原来长大后真的会去弥补童年",
-      "onboard_time": 1703505214,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153706,
       "num": 153706,
       "word": "檀健次卷王的自我修养",
@@ -2035,6 +2051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151628,
+      "num": 151628,
+      "word": "WB战胜TTG",
+      "onboard_time": 1703508213,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151164,
       "num": 151164,
       "word": "大喜的日子却苦了猫猫",
@@ -2049,14 +2073,6 @@
       "onboard_time": 1703503476,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 150294,
-      "num": 150294,
-      "word": "蘑菇既不算素菜也不是荤菜",
-      "onboard_time": 1703507374,
-      "rank": 41,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 149506,
@@ -2217,6 +2233,14 @@
       "onboard_time": 1703462128,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133622,
+      "num": 133622,
+      "word": "脱轨",
+      "onboard_time": 1703505334,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 133574,
@@ -2401,14 +2425,6 @@
       "onboard_time": 1703459482,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115265,
-      "num": 115265,
-      "word": "脱轨",
-      "onboard_time": 1703505334,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 115163,
@@ -2675,20 +2691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35651,
+      "num": 419550,
+      "word": "真的有零门槛碳板跑鞋吗",
+      "onboard_time": 1703505633,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 34494,
       "num": 398724,
       "word": "天猫榜单上天了",
       "onboard_time": 1703498435,
       "rank": 14,
       "category": "互联网,社会新闻"
-    },
-    {
-      "raw_hot": 28656,
-      "num": 419550,
-      "word": "真的有零门槛碳板跑鞋吗",
-      "onboard_time": 1703505633,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 25329,
