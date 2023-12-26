@@ -1,0 +1,410 @@
+{
+  "runTime": 1703576038470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1353548,
+        "num": 1353548,
+        "word": "金莎因为孙丞潇戴初恋送的项链哭了",
+        "onboard_time": 1703570974,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1132752,
+        "num": 1132752,
+        "word": "官方回应加鹅羽绒服疑被挂闲鱼倒卖",
+        "onboard_time": 1703570974,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20649,
+        "num": 1045811,
+        "word": "盘点2023大国重器新突破",
+        "onboard_time": 1703551534,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1402339,
+        "num": 1036572,
+        "word": "我知道我爱你 男小三",
+        "onboard_time": 1703571456,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1016324,
+        "num": 1016324,
+        "word": "麦当劳明起涨价",
+        "onboard_time": 1703574157,
+        "rank": 4,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 972165,
+        "num": 972165,
+        "word": "月经推迟可不只有贫血",
+        "onboard_time": 1703566177,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 733024,
+        "num": 733024,
+        "word": "董明珠称矿井空调让矿工从裸体上班到穿西装",
+        "onboard_time": 1703571515,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618508,
+        "num": 618508,
+        "word": "娜然说封神上映后头发白了一半",
+        "onboard_time": 1703572415,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 478354,
+        "num": 478354,
+        "word": "华为nova12发布",
+        "onboard_time": 1703574277,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 610835,
+        "num": 477717,
+        "word": "网红狐狸死在雪地里",
+        "onboard_time": 1703560654,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475947,
+        "num": 475947,
+        "word": "王传君希望王鹤棣演他爸爸",
+        "onboard_time": 1703573495,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437588,
+        "num": 437588,
+        "word": "这不得租个房子慢慢吃",
+        "onboard_time": 1703570736,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 400267,
+        "num": 400267,
+        "word": "华为发布会",
+        "onboard_time": 1703575236,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 396176,
+        "num": 396176,
+        "word": "柠萌影视请徐梦洁拍兽药广告被罚",
+        "onboard_time": 1703573074,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332961,
+        "num": 332961,
+        "word": "震区加鹅羽绒服疑被挂闲鱼倒卖",
+        "onboard_time": 1703572834,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328571,
+        "num": 328571,
+        "word": "陶勇回应近期网络风波",
+        "onboard_time": 1703564918,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295545,
+        "num": 295545,
+        "word": "吴千语施伯雄求婚视频",
+        "onboard_time": 1703575236,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281168,
+        "num": 281168,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703511515,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263990,
+        "num": 263990,
+        "word": "公司一年多骗领生育津贴980万元",
+        "onboard_time": 1703564918,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248463,
+        "num": 248463,
+        "word": "问界M9",
+        "onboard_time": 1703575360,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 57721,
+        "num": 239653,
+        "word": "蓝色才是目光收割机",
+        "onboard_time": 1703573614,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448607,
+        "num": 239232,
+        "word": "排尿时发现这6个异常应及早检查",
+        "onboard_time": 1703570736,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318235,
+        "num": 239119,
+        "word": "建议关闭免密支付功能",
+        "onboard_time": 1703569055,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238580,
+        "num": 238580,
+        "word": "河南棋手颜某某回应浴缸门",
+        "onboard_time": 1703571933,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233086,
+        "num": 233086,
+        "word": "股市",
+        "onboard_time": 1703564079,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229199,
+        "num": 229199,
+        "word": "青年教师月薪被指难养家糊口",
+        "onboard_time": 1703570673,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224384,
+        "num": 224384,
+        "word": "韩后创始人卖豪宅还债",
+        "onboard_time": 1703564497,
+        "rank": 26,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 211514,
+        "num": 211514,
+        "word": "第一次吃冻梨",
+        "onboard_time": 1703574637,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199845,
+        "num": 199845,
+        "word": "詹库杜全拉了",
+        "onboard_time": 1703572593,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186690,
+        "num": 186690,
+        "word": "电热毯不要直接接触皮肤",
+        "onboard_time": 1703571818,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 184250,
+        "num": 184250,
+        "word": "肺结节离肺癌还有非常远的距离",
+        "onboard_time": 1703573856,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174145,
+        "num": 174145,
+        "word": "迪丽热巴水上钢琴光影大片",
+        "onboard_time": 1703561855,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166199,
+        "num": 166199,
+        "word": "无心是刘学义吗",
+        "onboard_time": 1703567258,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164864,
+        "num": 164864,
+        "word": "央视回顾游戏2023",
+        "onboard_time": 1703574813,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162915,
+        "num": 162915,
+        "word": "关晓彤代言的天然呆再被执行430万",
+        "onboard_time": 1703570736,
+        "rank": 34,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 159194,
+        "num": 159194,
+        "word": "北京二手房业主连夜涨价",
+        "onboard_time": 1703573016,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154446,
+        "num": 154446,
+        "word": "狗子吃了有文化的亏",
+        "onboard_time": 1703575294,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154434,
+        "num": 154434,
+        "word": "孩子有超雄综合征就是天生坏种吗",
+        "onboard_time": 1703554651,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150679,
+        "num": 150679,
+        "word": "Bigsis蹦迪减肥操",
+        "onboard_time": 1703575655,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 135583,
+        "num": 146015,
+        "word": "nova12搭载鸿蒙智慧通信",
+        "onboard_time": 1703575597,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143974,
+        "num": 143974,
+        "word": "北京一公交车行驶途中司机晕倒",
+        "onboard_time": 1703574516,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140005,
+        "num": 140005,
+        "word": "三倍大眼术",
+        "onboard_time": 1703573375,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138227,
+        "num": 138227,
+        "word": "龍行龘龘著作版权无偿公开",
+        "onboard_time": 1703569895,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135063,
+        "num": 135063,
+        "word": "网剧少年歌行2官宣",
+        "onboard_time": 1703561253,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131056,
+        "num": 131056,
+        "word": "周一围上综艺支持朱丹复出",
+        "onboard_time": 1703572173,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129609,
+        "num": 129609,
+        "word": "况盛",
+        "onboard_time": 1703547266,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129440,
+        "num": 129440,
+        "word": "少年歌行2 原班人马",
+        "onboard_time": 1703562996,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126202,
+        "num": 126202,
+        "word": "王一博蓝色高领毛衣",
+        "onboard_time": 1703568754,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123484,
+        "num": 123484,
+        "word": "禾伙人",
+        "onboard_time": 1703576014,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122022,
+        "num": 122022,
+        "word": "2023嗑cp年度报告",
+        "onboard_time": 1703571756,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#团结一致敢于斗争力量源于团结#"
+    }
+  }
+}

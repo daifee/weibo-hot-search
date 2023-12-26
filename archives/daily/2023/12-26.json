@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703574968310,
+  "endTime": 1703576038470,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -59,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1351042,
+      "raw_hot": 1402339,
       "num": 1050320,
       "word": "我知道我爱你 男小三",
       "onboard_time": 1703571456,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1132752,
+      "num": 1132752,
+      "word": "官方回应加鹅羽绒服疑被挂闲鱼倒卖",
+      "onboard_time": 1703570974,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1112174,
       "num": 1112174,
       "word": "去有风的地方获200万元补助",
@@ -115,12 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1047167,
-      "num": 1047167,
-      "word": "官方回应加鹅羽绒服疑被挂闲鱼倒卖",
-      "onboard_time": 1703570974,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 1016324,
+      "num": 1016324,
+      "word": "麦当劳明起涨价",
+      "onboard_time": 1703574157,
+      "rank": 14,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 913563,
@@ -347,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 475947,
+      "num": 475947,
+      "word": "王传君希望王鹤棣演他爸爸",
+      "onboard_time": 1703573495,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 475223,
       "num": 475223,
       "word": "胡海泉再被冻结115万股权",
@@ -395,20 +411,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 430709,
-      "num": 430709,
-      "word": "王传君希望王鹤棣演他爸爸",
-      "onboard_time": 1703573495,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 422580,
       "num": 422580,
       "word": "同学你好这里不能写字",
       "onboard_time": 1703549492,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 400267,
+      "num": 400267,
+      "word": "华为发布会",
+      "onboard_time": 1703575236,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 398363,
@@ -433,6 +449,14 @@
       "onboard_time": 1703545220,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396176,
+      "num": 396176,
+      "word": "柠萌影视请徐梦洁拍兽药广告被罚",
+      "onboard_time": 1703573074,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 388394,
@@ -531,14 +555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 325533,
-      "num": 325533,
-      "word": "麦当劳明起涨价",
-      "onboard_time": 1703574157,
-      "rank": 14,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 322946,
       "num": 322946,
       "word": "财经媒体人罗琦去世",
@@ -593,6 +609,14 @@
       "onboard_time": 1703547566,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295545,
+      "num": 295545,
+      "word": "吴千语施伯雄求婚视频",
+      "onboard_time": 1703575236,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 295355,
@@ -675,6 +699,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 248463,
+      "num": 248463,
+      "word": "问界M9",
+      "onboard_time": 1703575360,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 248298,
       "num": 248298,
       "word": "赵昭仪的担心真的多虑了",
@@ -739,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229199,
+      "num": 229199,
+      "word": "青年教师月薪被指难养家糊口",
+      "onboard_time": 1703570673,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228938,
       "num": 228938,
       "word": "超雄综合征",
@@ -795,14 +835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216517,
-      "num": 216517,
-      "word": "青年教师月薪被指难养家糊口",
-      "onboard_time": 1703570673,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214580,
       "num": 214580,
       "word": "内娱人自己也无法超越的TOP角色",
@@ -827,20 +859,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211514,
+      "num": 211514,
+      "word": "第一次吃冻梨",
+      "onboard_time": 1703574637,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208954,
       "num": 208954,
       "word": "谢谢你出生之后一直等我",
       "onboard_time": 1703555373,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208097,
-      "num": 208097,
-      "word": "第一次吃冻梨",
-      "onboard_time": 1703574637,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 206241,
@@ -955,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186690,
+      "num": 197266,
+      "word": "电热毯不要直接接触皮肤",
+      "onboard_time": 1703571818,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 184481,
       "num": 151501,
       "word": "大便出现这些异常千万要当心",
@@ -993,14 +1033,6 @@
       "onboard_time": 1703559277,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174459,
-      "num": 197266,
-      "word": "电热毯不要直接接触皮肤",
-      "onboard_time": 1703571818,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 173140,
@@ -1051,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164864,
+      "num": 164864,
+      "word": "央视回顾游戏2023",
+      "onboard_time": 1703574813,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164285,
       "num": 164285,
       "word": "胡歌繁花 背影",
@@ -1091,14 +1131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156360,
-      "num": 156360,
-      "word": "央视回顾游戏2023",
-      "onboard_time": 1703574813,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 155793,
       "num": 155793,
       "word": "薛之谦 吉隆坡",
@@ -1131,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154446,
+      "num": 154446,
+      "word": "狗子吃了有文化的亏",
+      "onboard_time": 1703575294,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153952,
       "num": 153952,
       "word": "广东惠东10多万就能买到海景房",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1703571756,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150679,
+      "num": 150679,
+      "word": "Bigsis蹦迪减肥操",
+      "onboard_time": 1703575655,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 147955,
@@ -1275,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135583,
+      "num": 146015,
+      "word": "nova12搭载鸿蒙智慧通信",
+      "onboard_time": 1703575597,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133474,
       "num": 133474,
       "word": "林长民爱女儿林徽因的方式",
@@ -1361,6 +1417,14 @@
       "onboard_time": 1703557711,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123484,
+      "num": 123484,
+      "word": "禾伙人",
+      "onboard_time": 1703576014,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 122396,
