@@ -1,6 +1,6 @@
 {
   "startTime": 1703607732104,
-  "endTime": 1703628967799,
+  "endTime": 1703630021453,
   "band_list": [
     {
       "raw_hot": 935631,
@@ -347,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101202,
+      "num": 66704,
+      "word": "山科大休学学生行凶案凶手被判死刑",
+      "onboard_time": 1703624054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97883,
       "num": 97883,
       "word": "麦当劳明起涨价",
@@ -411,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77769,
-      "num": 51558,
-      "word": "山科大休学学生行凶案凶手被判死刑",
-      "onboard_time": 1703624054,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 68370,
       "num": 92593,
       "word": "鸣龙少年 群像",
@@ -459,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26575,
+      "num": 26575,
+      "word": "阿音 短暂一生悲剧收尾",
+      "onboard_time": 1703623635,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25972,
       "num": 40663,
       "word": "小狗掉冰河被消防心肺复苏救活",
       "onboard_time": 1703611760,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23338,
+      "num": 23338,
+      "word": "太爷爷带着孙子骑车兜风",
+      "onboard_time": 1703625732,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 22672,
@@ -475,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22325,
-      "num": 22325,
-      "word": "阿音 短暂一生悲剧收尾",
-      "onboard_time": 1703623635,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21190,
       "num": 21190,
       "word": "三大队 俄罗斯方块线索",
@@ -491,20 +499,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 17856,
-      "num": 17856,
-      "word": "太爷爷带着孙子骑车兜风",
-      "onboard_time": 1703625732,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 16936,
-      "num": 16936,
+      "raw_hot": 19182,
+      "num": 20990,
       "word": "繁花预约破300万",
       "onboard_time": 1703624712,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17467,
+      "num": 20983,
+      "word": "下雪能让人少生病是真的吗",
+      "onboard_time": 1703618415,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16351,
@@ -515,11 +523,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15572,
-      "num": 16177,
-      "word": "下雪能让人少生病是真的吗",
-      "onboard_time": 1703618415,
-      "rank": 48,
+      "raw_hot": 14042,
+      "num": 20978,
+      "word": "巧用甘蔗水止咳还美颜",
+      "onboard_time": 1703628915,
+      "rank": 49,
       "category": "健康医疗"
     },
     {
@@ -529,14 +537,6 @@
       "onboard_time": 1703616077,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12000,
-      "num": 16078,
-      "word": "巧用甘蔗水止咳还美颜",
-      "onboard_time": 1703628915,
-      "rank": 49,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

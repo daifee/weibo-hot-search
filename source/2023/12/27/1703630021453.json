@@ -1,0 +1,410 @@
+{
+  "runTime": 1703630021453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 326554,
+        "num": 326554,
+        "word": "流量褪去的淄博鸭头小哥",
+        "onboard_time": 1703606490,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146438,
+        "num": 146438,
+        "word": "央视揭朋友圈少儿才艺投票骗局",
+        "onboard_time": 1703597975,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22471,
+        "num": 134783,
+        "word": "三条高铁今日开通",
+        "onboard_time": 1703594735,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131119,
+        "num": 131119,
+        "word": "学校花1500万买下大飞机供学生练手",
+        "onboard_time": 1703610262,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118331,
+        "num": 118331,
+        "word": "人生若如初见 空降",
+        "onboard_time": 1703598456,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99422,
+        "num": 99422,
+        "word": "青簪行有消息了",
+        "onboard_time": 1703594973,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98509,
+        "num": 98509,
+        "word": "何猷君以为奚梦瑶说求婚土",
+        "onboard_time": 1703601217,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77178,
+        "num": 77178,
+        "word": "闲鱼回应援助加拿大鹅被倒卖",
+        "onboard_time": 1703591672,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70451,
+        "num": 70451,
+        "word": "学会上高铁的卫生间",
+        "onboard_time": 1703607625,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 67205,
+        "num": 67205,
+        "word": "刘浩存演技",
+        "onboard_time": 1703602178,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347864,
+        "num": 67199,
+        "word": "家长被通知接走发烧孩子后大怒",
+        "onboard_time": 1703599418,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145672,
+        "num": 66945,
+        "word": "明星助理工资5000块",
+        "onboard_time": 1703588673,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124022,
+        "num": 66820,
+        "word": "羽生结弦前妻首度发声",
+        "onboard_time": 1703588433,
+        "rank": 12,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 101202,
+        "num": 66704,
+        "word": "山科大休学学生行凶案凶手被判死刑",
+        "onboard_time": 1703624054,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84344,
+        "num": 66519,
+        "word": "香港演员黎淑贤去世",
+        "onboard_time": 1703597256,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66412,
+        "num": 66412,
+        "word": "腿不直原来才是正常的",
+        "onboard_time": 1703595755,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 63762,
+        "num": 63762,
+        "word": "胡先煦不让赵昭仪喝冰的",
+        "onboard_time": 1703606249,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61799,
+        "num": 61799,
+        "word": "老师 我们家沈腾马丽呢",
+        "onboard_time": 1703589035,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50689,
+        "num": 50689,
+        "word": "邓为经纪公司仅2人参保",
+        "onboard_time": 1703588794,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48758,
+        "num": 48758,
+        "word": "晚晚 Valentino到底18条还是19条",
+        "onboard_time": 1703602115,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 55046,
+        "num": 48697,
+        "word": "孕妇因一口草莓吐血差点丧命",
+        "onboard_time": 1703593234,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48511,
+        "num": 48511,
+        "word": "杨旭逆袭获央视主持人大赛冠军",
+        "onboard_time": 1703609483,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45823,
+        "num": 45823,
+        "word": "这3种伤肝水劝你少喝",
+        "onboard_time": 1703592153,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36484,
+        "num": 36484,
+        "word": "江苏一公司不发工资发积分",
+        "onboard_time": 1703593473,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35684,
+        "num": 35684,
+        "word": "莎头 可口可乐",
+        "onboard_time": 1703599658,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35673,
+        "num": 35673,
+        "word": "2024央视春晚彩排",
+        "onboard_time": 1703584955,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31552,
+        "num": 31552,
+        "word": "麦当劳一年内两次涨价",
+        "onboard_time": 1703599176,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31220,
+        "num": 31220,
+        "word": "电子请柬 社死",
+        "onboard_time": 1703595996,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27875,
+        "num": 27875,
+        "word": "迪丽热巴八百个假动作偷帽子",
+        "onboard_time": 1703608466,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27427,
+        "num": 27427,
+        "word": "张晚意 背德文学",
+        "onboard_time": 1703596053,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26756,
+        "num": 26756,
+        "word": "鞠婧祎方辟谣和刘宇宁合作",
+        "onboard_time": 1703594794,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26692,
+        "num": 26692,
+        "word": "小奇迹回国后首次出外场",
+        "onboard_time": 1703611041,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26575,
+        "num": 26575,
+        "word": "阿音 短暂一生悲剧收尾",
+        "onboard_time": 1703623635,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25690,
+        "num": 25690,
+        "word": "王俊凯年会不能停观后感",
+        "onboard_time": 1703601877,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23610,
+        "num": 23610,
+        "word": "脱轨里出现了时代少年团",
+        "onboard_time": 1703602476,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23338,
+        "num": 23338,
+        "word": "太爷爷带着孙子骑车兜风",
+        "onboard_time": 1703625732,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22854,
+        "num": 22854,
+        "word": "我国将系统重塑疾控体系",
+        "onboard_time": 1703601217,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22836,
+        "num": 22836,
+        "word": "王一博顺毛长发",
+        "onboard_time": 1703600077,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21980,
+        "num": 21980,
+        "word": "胡先煦多大了还告状",
+        "onboard_time": 1703605172,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19326,
+        "num": 21802,
+        "word": "麦当劳明起涨价",
+        "onboard_time": 1703574157,
+        "rank": 39,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 21788,
+        "num": 21788,
+        "word": "二手玫瑰 邪剑仙",
+        "onboard_time": 1703597916,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20991,
+        "num": 20991,
+        "word": "白鹿湿发晚安照",
+        "onboard_time": 1703605591,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19182,
+        "num": 20990,
+        "word": "繁花预约破300万",
+        "onboard_time": 1703624712,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18886,
+        "num": 20987,
+        "word": "雷军回应小米汽车定价",
+        "onboard_time": 1703588974,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 17551,
+        "num": 20987,
+        "word": "刘耀文的粉底",
+        "onboard_time": 1703610200,
+        "rank": 44,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 17519,
+        "num": 20986,
+        "word": "2024年处女座吉相清单",
+        "onboard_time": 1703602178,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17467,
+        "num": 20983,
+        "word": "下雪能让人少生病是真的吗",
+        "onboard_time": 1703618415,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17177,
+        "num": 20980,
+        "word": "三大队 俄罗斯方块线索",
+        "onboard_time": 1703596053,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14684,
+        "num": 20980,
+        "word": "i人e人 meme图",
+        "onboard_time": 1703599777,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14042,
+        "num": 20978,
+        "word": "巧用甘蔗水止咳还美颜",
+        "onboard_time": 1703628915,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#团结一致敢于斗争力量源于团结#"
+    }
+  }
+}

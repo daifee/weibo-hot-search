@@ -1,6 +1,6 @@
 {
   "startTime": 1703348452587,
-  "endTime": 1703628967799,
+  "endTime": 1703630021453,
   "band_list": [
     {
       "raw_hot": 6751906,
@@ -8179,6 +8179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 101202,
+      "num": 66704,
+      "word": "山科大休学学生行凶案凶手被判死刑",
+      "onboard_time": 1703624054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100493,
       "num": 100493,
       "word": "马斯克成2023年全球最能赚钱的人",
@@ -8393,14 +8401,6 @@
       "onboard_time": 1703342740,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77769,
-      "num": 51558,
-      "word": "山科大休学学生行凶案凶手被判死刑",
-      "onboard_time": 1703624054,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77423,
@@ -8859,6 +8859,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 26575,
+      "num": 26575,
+      "word": "阿音 短暂一生悲剧收尾",
+      "onboard_time": 1703623635,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26226,
       "num": 26459,
       "word": "王星越的手指在万鹏腰上打拍",
@@ -8923,20 +8931,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23338,
+      "num": 23338,
+      "word": "太爷爷带着孙子骑车兜风",
+      "onboard_time": 1703625732,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22672,
       "num": 25078,
       "word": "你是流动的 别停下来",
       "onboard_time": 1703613618,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22325,
-      "num": 22325,
-      "word": "阿音 短暂一生悲剧收尾",
-      "onboard_time": 1703623635,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 20606,
@@ -8971,6 +8979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19182,
+      "num": 20990,
+      "word": "繁花预约破300万",
+      "onboard_time": 1703624712,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18271,
       "num": 24860,
       "word": "在家走一万步",
@@ -8987,14 +9003,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 17856,
-      "num": 17856,
-      "word": "太爷爷带着孙子骑车兜风",
-      "onboard_time": 1703625732,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17828,
       "num": 17828,
       "word": "中医专家教你看手掌测健康",
@@ -9003,12 +9011,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 16936,
-      "num": 16936,
-      "word": "繁花预约破300万",
-      "onboard_time": 1703624712,
+      "raw_hot": 17467,
+      "num": 20983,
+      "word": "下雪能让人少生病是真的吗",
+      "onboard_time": 1703618415,
       "rank": 48,
-      "category": "剧集"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16667,
@@ -9027,14 +9035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15572,
-      "num": 16177,
-      "word": "下雪能让人少生病是真的吗",
-      "onboard_time": 1703618415,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 15223,
       "num": 15223,
       "word": "真爱至上",
@@ -9051,20 +9051,20 @@
       "category": "剧集,时尚"
     },
     {
+      "raw_hot": 14042,
+      "num": 20978,
+      "word": "巧用甘蔗水止咳还美颜",
+      "onboard_time": 1703628915,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13135,
       "num": 19806,
       "word": "馒头夹香肠山东人的快乐",
       "onboard_time": 1703616077,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12000,
-      "num": 16078,
-      "word": "巧用甘蔗水止咳还美颜",
-      "onboard_time": 1703628915,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 10887,
