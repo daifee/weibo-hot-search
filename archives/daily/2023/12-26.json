@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703567814510,
+  "endTime": 1703568863532,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -91,20 +91,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1030406,
+      "num": 1030406,
+      "word": "月经推迟可不只有贫血",
+      "onboard_time": 1703566177,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 913563,
       "num": 913563,
       "word": "网易暴雪复合",
       "onboard_time": 1703502338,
       "rank": 0,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 892563,
-      "num": 892563,
-      "word": "月经推迟可不只有贫血",
-      "onboard_time": 1703566177,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 888428,
@@ -395,11 +395,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 354214,
-      "num": 354214,
+      "raw_hot": 366727,
+      "num": 366727,
       "word": "刘浩存台词",
       "onboard_time": 1703564618,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 364093,
+      "num": 364093,
+      "word": "无心是刘学义吗",
+      "onboard_time": 1703567258,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -425,6 +433,14 @@
       "onboard_time": 1703561432,
       "rank": 36,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 321373,
+      "num": 321373,
+      "word": "况盛售卖服饰被指抄袭",
+      "onboard_time": 1703566658,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 319622,
@@ -467,14 +483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 302334,
-      "num": 302334,
-      "word": "况盛售卖服饰被指抄袭",
-      "onboard_time": 1703566658,
-      "rank": 23,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 295355,
       "num": 295355,
       "word": "广东千万净资产家庭近40万户",
@@ -515,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252823,
+      "num": 252823,
+      "word": "盒马山姆贴脸商战引围观",
+      "onboard_time": 1703564618,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 251273,
       "num": 251273,
       "word": "当周深汪苏泷得知对手是韩红时",
       "onboard_time": 1703551415,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249773,
+      "num": 249773,
+      "word": "冯唐建议年轻人在职场先学会跟随",
+      "onboard_time": 1703565638,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 248298,
@@ -537,14 +561,6 @@
       "onboard_time": 1703560413,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 242403,
-      "num": 242403,
-      "word": "盒马山姆贴脸商战引围观",
-      "onboard_time": 1703564618,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 241602,
@@ -571,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236151,
-      "num": 236151,
-      "word": "无心是刘学义吗",
-      "onboard_time": 1703567258,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 237218,
+      "num": 237218,
+      "word": "王安宇 摄影博主",
+      "onboard_time": 1703567855,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 234669,
@@ -593,6 +609,14 @@
       "onboard_time": 1703557955,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 226472,
+      "num": 458689,
+      "word": "雷军说泄密很遗憾",
+      "onboard_time": 1703565218,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225453,
@@ -625,14 +649,6 @@
       "onboard_time": 1703566897,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 215534,
-      "num": 215534,
-      "word": "冯唐建议年轻人在职场先学会跟随",
-      "onboard_time": 1703565638,
-      "rank": 34,
-      "category": "读书作家"
     },
     {
       "raw_hot": 214580,
@@ -737,6 +753,14 @@
       "onboard_time": 1703501014,
       "rank": 35,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 188967,
+      "num": 188967,
+      "word": "王一博蓝色高领毛衣",
+      "onboard_time": 1703568754,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 188617,
@@ -859,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157920,
-      "num": 458689,
-      "word": "雷军说泄密很遗憾",
-      "onboard_time": 1703565218,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155793,
       "num": 155793,
       "word": "薛之谦 吉隆坡",
@@ -905,6 +921,14 @@
       "onboard_time": 1703554773,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151693,
+      "num": 151693,
+      "word": "加拿大最敷衍的地名",
+      "onboard_time": 1703568815,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 147955,
@@ -963,6 +987,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139186,
+      "num": 139186,
+      "word": "庄达菲新浪扫楼",
+      "onboard_time": 1703567617,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 138074,
+      "num": 138074,
+      "word": "四种一字夹正确使用方法",
+      "onboard_time": 1703568095,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 136629,
       "num": 136629,
       "word": "有仇必报紫金陈",
@@ -995,6 +1035,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 132402,
+      "num": 456439,
+      "word": "蜜雪冰城回应免单造型",
+      "onboard_time": 1703566835,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 132199,
       "num": 132199,
       "word": "杭高4名男生腹肌照火了",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1703557473,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129243,
+      "num": 129243,
+      "word": "小时候的日记本防住了现在的我",
+      "onboard_time": 1703568572,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 127477,
@@ -1089,14 +1145,6 @@
       "onboard_time": 1703555794,
       "rank": 39,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 117029,
-      "num": 117029,
-      "word": "庄达菲新浪扫楼",
-      "onboard_time": 1703567617,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 114129,
@@ -1257,14 +1305,6 @@
       "onboard_time": 1703546906,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80176,
-      "num": 456439,
-      "word": "蜜雪冰城回应免单造型",
-      "onboard_time": 1703566835,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 78166,
