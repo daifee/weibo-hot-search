@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703590448778,
+  "endTime": 1703593888631,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -35,7 +35,7 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 2379641,
+      "raw_hot": 2554151,
       "num": 2379641,
       "word": "明星助理工资5000块",
       "onboard_time": 1703588673,
@@ -73,6 +73,14 @@
       "onboard_time": 1703579074,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1676889,
+      "num": 1676889,
+      "word": "老师 我们家沈腾马丽呢",
+      "onboard_time": 1703589035,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1484113,
@@ -211,19 +219,19 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 839132,
+      "num": 839132,
+      "word": "邓为经纪公司仅2人参保",
+      "onboard_time": 1703588794,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 836813,
       "num": 836813,
       "word": "迪丽热巴撒谎憋不了一秒",
       "onboard_time": 1703584059,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 830198,
-      "num": 830198,
-      "word": "老师 我们家沈腾马丽呢",
-      "onboard_time": 1703589035,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546586,
+      "num": 452197,
+      "word": "王嘉尔三观",
+      "onboard_time": 1703592874,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545197,
       "num": 545197,
       "word": "大熊猫睡觉口水被冻成冰溜子",
@@ -523,20 +539,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 486632,
+      "num": 486632,
+      "word": "闲鱼回应援助加拿大鹅被倒卖",
+      "onboard_time": 1703591672,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479153,
       "num": 2396772,
       "word": "3岁娃介绍家庭成员唯独忘了警察爸爸",
       "onboard_time": 1703584534,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477938,
-      "num": 477938,
-      "word": "邓为经纪公司仅2人参保",
-      "onboard_time": 1703588794,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 475947,
@@ -587,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454378,
+      "num": 454378,
+      "word": "腿姐 大学生躺平只是说说而已",
+      "onboard_time": 1703591373,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 444592,
       "num": 444592,
       "word": "王楚钦领衔年度十佳运动员",
@@ -617,6 +641,14 @@
       "onboard_time": 1703585316,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434240,
+      "num": 434240,
+      "word": "对乙酰氨基酚与布洛芬区别",
+      "onboard_time": 1703592334,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 428066,
@@ -723,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384100,
+      "num": 384100,
+      "word": "雷军回应小米汽车定价",
+      "onboard_time": 1703588974,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 381566,
       "num": 381566,
       "word": "男子买房放女友名下分手后全要回",
@@ -803,14 +843,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 321889,
-      "num": 321889,
-      "word": "雷军回应小米汽车定价",
-      "onboard_time": 1703588974,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 321373,
       "num": 321373,
       "word": "况盛售卖服饰被指抄袭",
@@ -883,6 +915,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 298590,
+      "num": 230766,
+      "word": "这3种伤肝水劝你少喝",
+      "onboard_time": 1703592153,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 297397,
       "num": 297397,
       "word": "肯德基客服称目前暂无涨价计划",
@@ -944,6 +984,14 @@
       "word": "河南棋手颜某某回应浴缸门",
       "onboard_time": 1703571933,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 279855,
+      "num": 279855,
+      "word": "C罗中国行预售不支持退款",
+      "onboard_time": 1703591853,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -1057,6 +1105,14 @@
       "onboard_time": 1703586036,
       "rank": 24,
       "category": "自然"
+    },
+    {
+      "raw_hot": 244411,
+      "num": 228401,
+      "word": "孕妇因一口草莓吐血差点丧命",
+      "onboard_time": 1703593234,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243725,
@@ -1225,6 +1281,14 @@
       "onboard_time": 1703570736,
       "rank": 25,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 219869,
+      "num": 219869,
+      "word": "情绪稳定 倒霉惯了",
+      "onboard_time": 1703592692,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 216575,
@@ -1427,6 +1491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193445,
+      "num": 193445,
+      "word": "男演员白发造型",
+      "onboard_time": 1703592692,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193353,
       "num": 193353,
       "word": "为什么大家又爱上头戴式耳机",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1703571818,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 185556,
+      "num": 185556,
+      "word": "江苏一公司不发工资发积分",
+      "onboard_time": 1703593473,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184481,
@@ -1753,6 +1833,14 @@
       "onboard_time": 1703549912,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155705,
+      "num": 155705,
+      "word": "女星官服",
+      "onboard_time": 1703591973,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155590,
@@ -2043,6 +2131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129387,
+      "num": 129387,
+      "word": "高跟鞋穿得炉火纯青",
+      "onboard_time": 1703592874,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 129243,
       "num": 129243,
       "word": "小时候的日记本防住了现在的我",
@@ -2059,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127470,
+      "num": 127470,
+      "word": "刘德华 我对香港电影还是一腔热血",
+      "onboard_time": 1703590354,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126674,
       "num": 126674,
       "word": "2023TOP播客",
@@ -2073,6 +2177,14 @@
       "onboard_time": 1703574277,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125944,
+      "num": 125944,
+      "word": "华晨宇希望2024厨艺进步",
+      "onboard_time": 1703593114,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 124761,
@@ -2139,6 +2251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 119249,
+      "num": 119249,
+      "word": "幼师看了汗流浃背的表演",
+      "onboard_time": 1703591312,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118090,
       "num": 118090,
       "word": "繁花央八版首播日预告",
@@ -2153,6 +2273,22 @@
       "onboard_time": 1703555794,
       "rank": 39,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 116539,
+      "num": 116539,
+      "word": "WB扳回一城",
+      "onboard_time": 1703593832,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 116301,
+      "num": 116301,
+      "word": "经营方回应况盛售卖服饰被指抄袭",
+      "onboard_time": 1703591015,
+      "rank": 49,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 114129,
@@ -2185,6 +2321,14 @@
       "onboard_time": 1703554231,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106310,
+      "num": 220973,
+      "word": "预算3000元手机怎么选",
+      "onboard_time": 1703590655,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 104728,
