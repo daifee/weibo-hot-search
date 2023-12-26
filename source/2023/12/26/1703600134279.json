@@ -1,0 +1,410 @@
+{
+  "runTime": 1703600134279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2053975,
+        "num": 2053975,
+        "word": "人生若如初见 空降",
+        "onboard_time": 1703598456,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1366134,
+        "num": 1366134,
+        "word": "青簪行有消息了",
+        "onboard_time": 1703594973,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56370,
+        "num": 1147945,
+        "word": "我国北斗系统性能再次提升",
+        "onboard_time": 1703577694,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1051362,
+        "num": 1051362,
+        "word": "腿不直原来才是正常的",
+        "onboard_time": 1703595755,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 784760,
+        "num": 784760,
+        "word": "老师 我们家沈腾马丽呢",
+        "onboard_time": 1703589035,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1080089,
+        "num": 775396,
+        "word": "香港演员黎淑贤去世",
+        "onboard_time": 1703597256,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741535,
+        "num": 741535,
+        "word": "鞠婧祎方辟谣和刘宇宁合作",
+        "onboard_time": 1703594794,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710518,
+        "num": 710518,
+        "word": "央视揭朋友圈少儿才艺投票骗局",
+        "onboard_time": 1703597975,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703017,
+        "num": 703017,
+        "word": "四川多名医护人员集体爬窗讨薪",
+        "onboard_time": 1703598095,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577737,
+        "num": 577737,
+        "word": "一诺 救赎了自己",
+        "onboard_time": 1703597975,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1887020,
+        "num": 573979,
+        "word": "明星助理工资5000块",
+        "onboard_time": 1703588673,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1142518,
+        "num": 569682,
+        "word": "羽生结弦前妻首度发声",
+        "onboard_time": 1703588433,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 557893,
+        "num": 557893,
+        "word": "二手玫瑰 邪剑仙",
+        "onboard_time": 1703597916,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537297,
+        "num": 537297,
+        "word": "2024央视春晚彩排",
+        "onboard_time": 1703584955,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417295,
+        "num": 417295,
+        "word": "江苏一公司不发工资发积分",
+        "onboard_time": 1703593473,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462569,
+        "num": 416817,
+        "word": "王嘉尔三观",
+        "onboard_time": 1703592874,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399697,
+        "num": 399697,
+        "word": "家长被通知接走发烧孩子后大怒",
+        "onboard_time": 1703599418,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391847,
+        "num": 391847,
+        "word": "王一博顺毛长发",
+        "onboard_time": 1703600077,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 374863,
+        "num": 374863,
+        "word": "电子请柬 社死",
+        "onboard_time": 1703595996,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361069,
+        "num": 361069,
+        "word": "闲鱼回应援助加拿大鹅被倒卖",
+        "onboard_time": 1703591672,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498162,
+        "num": 353540,
+        "word": "孕妇因一口草莓吐血差点丧命",
+        "onboard_time": 1703593234,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345596,
+        "num": 345596,
+        "word": "莎头 可口可乐",
+        "onboard_time": 1703599658,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334938,
+        "num": 334938,
+        "word": "辛芷蕾 哑巴额娘",
+        "onboard_time": 1703596413,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318861,
+        "num": 318861,
+        "word": "邓为经纪公司仅2人参保",
+        "onboard_time": 1703588794,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299146,
+        "num": 299146,
+        "word": "麦当劳一年内两次涨价",
+        "onboard_time": 1703599176,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297996,
+        "num": 297996,
+        "word": "麦当劳明起涨价",
+        "onboard_time": 1703574157,
+        "rank": 25,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 277808,
+        "num": 277808,
+        "word": "对乙酰氨基酚与布洛芬区别",
+        "onboard_time": 1703592334,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257922,
+        "num": 257922,
+        "word": "张晚意 背德文学",
+        "onboard_time": 1703596053,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249093,
+        "num": 249093,
+        "word": "想看贾玲张小斐",
+        "onboard_time": 1703597432,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229563,
+        "num": 229563,
+        "word": "赵丽颖知否知否独唱版",
+        "onboard_time": 1703585194,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204680,
+        "num": 204680,
+        "word": "无痛胃镜",
+        "onboard_time": 1703599658,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201881,
+        "num": 201881,
+        "word": "这3种伤肝水劝你少喝",
+        "onboard_time": 1703592153,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194543,
+        "num": 194543,
+        "word": "雷军回应小米汽车定价",
+        "onboard_time": 1703588974,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192840,
+        "num": 192840,
+        "word": "方言版晚安",
+        "onboard_time": 1703598878,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182357,
+        "num": 182357,
+        "word": "KSG巅峰对决WB",
+        "onboard_time": 1703599117,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176552,
+        "num": 176552,
+        "word": "今年小说TOP推荐",
+        "onboard_time": 1703596595,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 174756,
+        "num": 174756,
+        "word": "魏晨 调起猛了",
+        "onboard_time": 1703597313,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171843,
+        "num": 171843,
+        "word": "新人花400元租公交车当婚车",
+        "onboard_time": 1703596773,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169476,
+        "num": 169476,
+        "word": "i人e人 meme图",
+        "onboard_time": 1703599777,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168650,
+        "num": 168650,
+        "word": "孙丞潇因为金莎夸此沙帅吃醋",
+        "onboard_time": 1703595572,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168433,
+        "num": 168433,
+        "word": "三大队 俄罗斯方块线索",
+        "onboard_time": 1703596053,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164716,
+        "num": 164716,
+        "word": "没想到科目三火遍世界",
+        "onboard_time": 1703599117,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158735,
+        "num": 158735,
+        "word": "排便习惯变化医生建议尽快去医院",
+        "onboard_time": 1703598275,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156694,
+        "num": 156694,
+        "word": "张镇麟30分",
+        "onboard_time": 1703599539,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151493,
+        "num": 151493,
+        "word": "两个人一起戴的帽子",
+        "onboard_time": 1703600015,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147932,
+        "num": 147932,
+        "word": "赵露思粉色绒翎纱裙",
+        "onboard_time": 1703596114,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147545,
+        "num": 147545,
+        "word": "碳水晕厥",
+        "onboard_time": 1703599958,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147377,
+        "num": 147377,
+        "word": "冬天里的脆皮年轻人该如何养生",
+        "onboard_time": 1703598935,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133276,
+        "num": 133276,
+        "word": "EDG 天才",
+        "onboard_time": 1703583094,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132426,
+        "num": 132426,
+        "word": "最难嗑CP",
+        "onboard_time": 1703584896,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#团结一致敢于斗争力量源于团结#"
+    }
+  }
+}
