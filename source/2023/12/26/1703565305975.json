@@ -1,0 +1,410 @@
+{
+  "runTime": 1703565305975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2857662,
+        "num": 2857662,
+        "word": "网红狐狸死在雪地里",
+        "onboard_time": 1703560654,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068952,
+        "num": 1068952,
+        "word": "张杰谢娜跳单案中介公司注销",
+        "onboard_time": 1703559393,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62427,
+        "num": 1048322,
+        "word": "盘点2023大国重器新突破",
+        "onboard_time": 1703551534,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041270,
+        "num": 1041270,
+        "word": "重庆一疑似智障女子与五旬男子结婚",
+        "onboard_time": 1703554832,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831908,
+        "num": 831908,
+        "word": "陶勇回应近期网络风波",
+        "onboard_time": 1703564918,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784087,
+        "num": 784087,
+        "word": "迪丽热巴水上钢琴光影大片",
+        "onboard_time": 1703561855,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 734972,
+        "num": 734972,
+        "word": "南京胖哥说2023像经历了半辈子",
+        "onboard_time": 1703563900,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630777,
+        "num": 630777,
+        "word": "3娃非亲生男子称3个孩子没一个理我",
+        "onboard_time": 1703556933,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589963,
+        "num": 589963,
+        "word": "网剧少年歌行2官宣",
+        "onboard_time": 1703561253,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581594,
+        "num": 581594,
+        "word": "去有风的地方获200万元补助",
+        "onboard_time": 1703550273,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1380678,
+        "num": 574457,
+        "word": "孩子有超雄综合征就是天生坏种吗",
+        "onboard_time": 1703554651,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1042000,
+        "num": 567761,
+        "word": "订婚强奸案后女方家属想尽快结婚",
+        "onboard_time": 1703511515,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 691510,
+        "num": 551186,
+        "word": "股市",
+        "onboard_time": 1703564079,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 644541,
+        "num": 538840,
+        "word": "胡一天发长文谈三十岁",
+        "onboard_time": 1703559813,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535306,
+        "num": 535306,
+        "word": "况盛",
+        "onboard_time": 1703547266,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 513012,
+        "num": 513012,
+        "word": "本地泡菜太贵韩国人囤中国泡菜",
+        "onboard_time": 1703557293,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 510980,
+        "num": 510980,
+        "word": "丈夫去世后她带公婆改嫁照顾19年",
+        "onboard_time": 1703562277,
+        "rank": 16,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 398363,
+        "num": 398363,
+        "word": "经常吃这些食物更容易患糖尿病",
+        "onboard_time": 1703553874,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 396945,
+        "num": 396945,
+        "word": "准夫妻不是否定强奸的必然理由",
+        "onboard_time": 1703564977,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383102,
+        "num": 383102,
+        "word": "光遇 风行季",
+        "onboard_time": 1703563777,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 367547,
+        "num": 367547,
+        "word": "甄嬛传演员进组的第一场戏",
+        "onboard_time": 1703554592,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355898,
+        "num": 355898,
+        "word": "韩后创始人卖豪宅还债",
+        "onboard_time": 1703564497,
+        "rank": 21,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 350045,
+        "num": 350045,
+        "word": "王楚钦领衔年度十佳运动员",
+        "onboard_time": 1703561855,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349026,
+        "num": 349026,
+        "word": "少年歌行2 原班人马",
+        "onboard_time": 1703562996,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314981,
+        "num": 314981,
+        "word": "23岁的普通人到底应该有多少钱",
+        "onboard_time": 1703547747,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313825,
+        "num": 313825,
+        "word": "毛主席诞辰130周年",
+        "onboard_time": 1703547326,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309787,
+        "num": 309787,
+        "word": "女子遭未婚夫强奸曾逃出房呼救被拖回",
+        "onboard_time": 1703510916,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300265,
+        "num": 300265,
+        "word": "特斯拉失控撞山致5人受伤",
+        "onboard_time": 1703557653,
+        "rank": 27,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 293920,
+        "num": 293920,
+        "word": "财经媒体人罗琦去世",
+        "onboard_time": 1703561432,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 259915,
+        "num": 259915,
+        "word": "北京摇号",
+        "onboard_time": 1703560533,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 254150,
+        "num": 254150,
+        "word": "年度报告",
+        "onboard_time": 1703563658,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233686,
+        "num": 233686,
+        "word": "天鹅幼崽被冻冰面大爷踏冰解救",
+        "onboard_time": 1703560413,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233268,
+        "num": 233268,
+        "word": "刘浩存台词",
+        "onboard_time": 1703564618,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231440,
+        "num": 231440,
+        "word": "时代少年团 香港演唱会",
+        "onboard_time": 1703560714,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208907,
+        "num": 208907,
+        "word": "盒马山姆贴脸商战引围观",
+        "onboard_time": 1703564618,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 206828,
+        "num": 206828,
+        "word": "有些老年痴呆30到40岁就有苗头了",
+        "onboard_time": 1703554171,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205753,
+        "num": 205753,
+        "word": "电子中药",
+        "onboard_time": 1703560353,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197728,
+        "num": 197728,
+        "word": "别人恋爱脑我是恋床脑",
+        "onboard_time": 1703560895,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196047,
+        "num": 196047,
+        "word": "北京卫视跨年首波阵容",
+        "onboard_time": 1703564795,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192557,
+        "num": 192557,
+        "word": "公司一年多骗领生育津贴980万元",
+        "onboard_time": 1703564918,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190893,
+        "num": 190893,
+        "word": "妈妈和小孩的聊天记录",
+        "onboard_time": 1703559277,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154802,
+        "num": 154802,
+        "word": "早上六点跟crush表白",
+        "onboard_time": 1703559213,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71077,
+        "num": 145433,
+        "word": "李一桐自己开车上班",
+        "onboard_time": 1703562395,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141349,
+        "num": 141349,
+        "word": "金泰亨 新歌",
+        "onboard_time": 1703562816,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141212,
+        "num": 141212,
+        "word": "中国象棋协会处罚全国冠军",
+        "onboard_time": 1703555734,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 138613,
+        "num": 138613,
+        "word": "想和小鸡玩却害怕吓到小鸡的狗狗",
+        "onboard_time": 1703560895,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126593,
+        "num": 126593,
+        "word": "经济学家预测明年美股或将大跌86%",
+        "onboard_time": 1703556091,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68273,
+        "num": 126426,
+        "word": "雷军说泄密很遗憾",
+        "onboard_time": 1703565218,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126408,
+        "num": 126408,
+        "word": "伊能静给秦昊戴假发",
+        "onboard_time": 1703564017,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125661,
+        "num": 125661,
+        "word": "年底进口化妆品价格跳水几乎腰斩",
+        "onboard_time": 1703556154,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#团结一致敢于斗争力量源于团结#"
+    }
+  }
+}

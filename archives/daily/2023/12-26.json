@@ -1,6 +1,6 @@
 {
   "startTime": 1703521370249,
-  "endTime": 1703564476486,
+  "endTime": 1703565305975,
   "band_list": [
     {
       "raw_hot": 3837371,
@@ -99,12 +99,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 782613,
-      "num": 782613,
+      "raw_hot": 831908,
+      "num": 831908,
+      "word": "陶勇回应近期网络风波",
+      "onboard_time": 1703564918,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784087,
+      "num": 784087,
       "word": "迪丽热巴水上钢琴光影大片",
       "onboard_time": 1703561855,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 734972,
+      "num": 734972,
+      "word": "南京胖哥说2023像经历了半辈子",
+      "onboard_time": 1703563900,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 691510,
+      "num": 551186,
+      "word": "股市",
+      "onboard_time": 1703564079,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 682333,
@@ -177,14 +201,6 @@
       "onboard_time": 1703518055,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 566361,
-      "num": 566361,
-      "word": "南京胖哥说2023像经历了半辈子",
-      "onboard_time": 1703563900,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 546983,
@@ -275,6 +291,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398363,
+      "num": 398363,
+      "word": "经常吃这些食物更容易患糖尿病",
+      "onboard_time": 1703553874,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 396945,
+      "num": 396945,
+      "word": "准夫妻不是否定强奸的必然理由",
+      "onboard_time": 1703564977,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396774,
       "num": 396774,
       "word": "你跟他讲道理 他跟你讲伦理",
@@ -305,14 +337,6 @@
       "onboard_time": 1703541314,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383198,
-      "num": 383198,
-      "word": "经常吃这些食物更容易患糖尿病",
-      "onboard_time": 1703553874,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 381566,
@@ -347,20 +371,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355898,
+      "num": 355898,
+      "word": "韩后创始人卖豪宅还债",
+      "onboard_time": 1703564497,
+      "rank": 21,
+      "category": "美妆,财经"
+    },
+    {
       "raw_hot": 341960,
       "num": 341960,
       "word": "他只是做错题 又没有做错人",
       "onboard_time": 1703505032,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 340344,
-      "num": 340344,
-      "word": "股市",
-      "onboard_time": 1703564079,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 326692,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254150,
+      "num": 254150,
+      "word": "年度报告",
+      "onboard_time": 1703563658,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251273,
       "num": 251273,
       "word": "当周深汪苏泷得知对手是韩红时",
@@ -507,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233268,
+      "num": 233268,
+      "word": "刘浩存台词",
+      "onboard_time": 1703564618,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228938,
       "num": 228938,
       "word": "超雄综合征",
@@ -555,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208907,
+      "num": 208907,
+      "word": "盒马山姆贴脸商战引围观",
+      "onboard_time": 1703564618,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 206241,
       "num": 154435,
       "word": "杨超越头肩比",
@@ -569,14 +617,6 @@
       "onboard_time": 1703552012,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204550,
-      "num": 204550,
-      "word": "年度报告",
-      "onboard_time": 1703563658,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202620,
@@ -603,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196047,
+      "num": 196047,
+      "word": "北京卫视跨年首波阵容",
+      "onboard_time": 1703564795,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193353,
       "num": 193353,
       "word": "为什么大家又爱上头戴式耳机",
@@ -617,6 +665,14 @@
       "onboard_time": 1703559277,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192557,
+      "num": 192557,
+      "word": "公司一年多骗领生育津贴980万元",
+      "onboard_time": 1703564918,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190796,
@@ -1187,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71077,
+      "num": 145433,
+      "word": "李一桐自己开车上班",
+      "onboard_time": 1703562395,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71016,
       "num": 1077432,
       "word": "网信办处置一批仿冒企业诈骗网站",
@@ -1211,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68273,
+      "num": 126426,
+      "word": "雷军说泄密很遗憾",
+      "onboard_time": 1703565218,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67006,
       "num": 93922,
       "word": "订婚强奸案被害人曾反对婚前性行为",
@@ -1225,14 +1297,6 @@
       "onboard_time": 1703509775,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63843,
-      "num": 138084,
-      "word": "李一桐自己开车上班",
-      "onboard_time": 1703562395,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 60046,
